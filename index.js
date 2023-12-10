@@ -5,13 +5,13 @@ var path = require ('path');
 app.set('view engine', 'pug');
 
 app.get('/', (req, res) => {
-    res.render('home', {
+    res.render('home.pug', {
         title: '玉衡杯数据库',
     });
 });
 
 app.get('/en', (req, res) => {
-    res.render('home_en', {
+    res.render('home_en.pug', {
         title: 'HomDGCat Database',
     });
 });
