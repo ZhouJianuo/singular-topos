@@ -10,5 +10,8 @@
         "start": "node index",
         "test": "node index",
         "production": "node index"
+    },
+    "dependencies": {
+        "express": "~4.17.1"
     }
 }
