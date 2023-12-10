@@ -18,3 +18,5 @@ app.get('/en', (req, res) => {
 
 app.use(express.static(__dirname + '/public'));
 app.listen(8080);
+
+module.exports = app;
