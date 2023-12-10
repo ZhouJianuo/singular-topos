@@ -3,15 +3,16 @@ const app = express();
 var path = require ('path');
 
 app.set('view engine', 'pug');
+app.set('views', path.join(__dirname, 'views'));
 
 app.get('/', (req, res) => {
-    res.render('home.pug', {
+    res.render('home', {
         title: '玉衡杯数据库',
     });
 });
 
 app.get('/en', (req, res) => {
-    res.render('home_en.pug', {
+    res.render('home_en', {
         title: 'HomDGCat Database',
     });
 });
