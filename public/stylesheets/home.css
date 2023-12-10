@@ -1,0 +1,29 @@
+body {
+    background: url('../images/bg.jpg') no-repeat right center/cover;
+}
+
+h3 {
+    margin: 50px auto 50px;
+    font-size: 50px;
+    font-weight: 400;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+schedule {
+    display: block;
+    width: calc((100% - 50px) / 4);
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+.home_select {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 15px;
+}
