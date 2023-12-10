@@ -3,7 +3,7 @@
     "version": "0.0.0",
     "private": true,
     "scripts": {
-        "start": "set NODE_ENV=development&&supervisor app",
+        "start": "set NODE_ENV=development&&node app",
         "test": "set NODE_ENV=test&&node app",
         "production": "set NODE_ENV=production&&node app"
     }
