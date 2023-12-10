@@ -1,16 +1,15 @@
 const express = require('express');
-const router = express.Router();
 const app = express();
 
 app.set('view engine', 'pug');
 
-router.get('/', (req, res) => {
+app.get('/', (req, res) => {
     res.render('home', {
         title: '玉衡杯数据库',
     });
 });
 
-router.get('/en', (req, res) => {
+app.get('/en', (req, res) => {
     res.render('home_en', {
         title: 'HomDGCat Database',
     });
