@@ -2,9 +2,13 @@
     "name": "homdgcat",
     "version": "0.0.0",
     "private": true,
+    "main": "index.js",
+    "engines": {
+        "node": "14.x"
+    },
     "scripts": {
-        "start": "set NODE_ENV=development&&node app",
-        "test": "set NODE_ENV=test&&node app",
-        "production": "set NODE_ENV=production&&node app"
+        "start": "node index",
+        "test": "node index",
+        "production": "node index"
     }
 }
