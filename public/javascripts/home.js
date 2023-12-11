@@ -49,7 +49,7 @@ $(function() {
             template: {
                 div : {
                     a: function (k) {
-                        return k.data.Href
+                        return k.data.Href + '?lang=' + lang
                     },
                     t: [
                         {
