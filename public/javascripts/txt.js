@@ -9,7 +9,7 @@ var txt = {
     },
     "Home_Sections": [
         {
-            "CH": "原神",
+            "CH": "原神原神",
             "EN": "Genshin"
         },
         {
