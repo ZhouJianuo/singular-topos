@@ -80,7 +80,7 @@ $(function() {
                     class: 'dir',
                     data: GI,
                     attr: {
-                        //target: '_blank'
+                        target: '_blank'
                     }
                 },
                 class: 'dir_wrap'
