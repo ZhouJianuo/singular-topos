@@ -79,6 +79,9 @@ $(function() {
                     ],
                     class: 'dir',
                     data: GI,
+                    attr: {
+                        target: '_blank'
+                    }
                 },
                 class: 'dir_wrap'
             }
