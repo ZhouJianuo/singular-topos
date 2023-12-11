@@ -3,11 +3,28 @@ body {
 }
 
 h3 {
-    margin: 50px auto 50px;
+    margin: 50px auto 20px;
+    text-align: center;
+}
+
+h3 .title {
     font-size: 50px;
     font-weight: 400;
-    text-align: center;
     color: rgb(255, 255, 255);
+    position: relative;
+}
+
+h3 .lang {
+    margin: 20px auto 30px;
+    font-size: 22px;
+    font-weight: bold;
+    display: block;
+}
+
+.lang a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-style: normal;
 }
 
 schedule {
@@ -18,7 +35,7 @@ schedule {
     border: 1px solid #333;
     border-radius: 5px;
     cursor: pointer;
-    margin: 5px;
+    margin: 8px;
 }
 
 .home_select {
@@ -26,4 +43,151 @@ schedule {
     flex-wrap: wrap;
     justify-content: center;
     margin: 15px;
+}
+
+.about {
+    margin-bottom: 6px;
+    line-height: 2;
+    font-size: 16px;
+    padding: 8px 23px;
+    text-align: center;
+}
+
+.about_2 {
+    margin-top: 6px;
+    line-height: 1.6;
+    font-size: 16px;
+    padding: 8px 23px;
+    text-align: center;
+}
+
+.about a {
+    color: #df903b;
+    text-decoration: none;
+}
+
+.didyouknow {
+    background-color: #27363E;
+    border-radius: 10px;
+    margin: 30px;
+    padding: 20px;
+    cursor: pointer;
+    color: #DDDDDD;
+    line-height: 2;
+}
+
+.didyouknow_header {
+    text-align: center;
+    font-weight: bold;
+    font-size: 19px;
+}
+
+.didyouknow_text {
+    text-align: center;
+    font-size: 16px;
+}
+
+.dir_wrap {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.dir {
+    background-color: #27363E;
+    border-radius: 10px;
+    margin: 8px 0px;
+    padding: 20px;
+    cursor: pointer;
+    color: #DDDDDD;
+    line-height: 2;
+    text-decoration: none;
+    width: 80%;
+}
+
+.dir_head {
+    font-size: 22px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.dir_link {
+    font-size: 17px;
+    text-align: center;
+}
+
+.dir_body {
+    display: none;
+    margin-top: 8px;
+}
+
+::-webkit-scrollbar {
+    display: none
+}
+
+@media screen and (min-width: 600px) and (max-width: 800px) {
+    .dir {
+        width: 38%;
+    }
+    .dir_head {
+        font-size: 22px;
+    }
+    .dir_link {
+        font-size: 17px;
+    }
+    .dir_body {
+        font-size: 15px;
+        display: block;
+    }
+    .about, .about_2 {
+        font-size: 17px;
+    }
+    .didyouknow_text {
+        font-size: 16px;
+    }
+}
+
+@media screen and (min-width: 800px) and (max-width: 1000px) {
+    .dir {
+        width: 26%;
+    }
+    .dir_head {
+        font-size: 22px;
+    }
+    .dir_link {
+        font-size: 17px;
+    }
+    .dir_body {
+        font-size: 15px;
+        display: block;
+    }
+    .about, .about_2 {
+        font-size: 18px;
+    }
+    .didyouknow_text {
+        font-size: 17px;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    .dir {
+        width: 27%;
+    }
+    .dir_head {
+        font-size: 22px;
+    }
+    .dir_link {
+        font-size: 17px;
+    }
+    .dir_body {
+        font-size: 16px;
+        display: block;
+    }
+    .about, .about_2 {
+        font-size: 18px;
+    }
+    .didyouknow_text {
+        font-size: 17px;
+    }
 }

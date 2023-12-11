@@ -32,7 +32,7 @@ var didyouknow = [
         "EN": "Characters' and enemies' reaction DMG use different scalings. For example, Lv90 characters' Overload base DMG is 2893.7, while Lv90 enemies' Overload base DMG is 2405.6."
     },
     {
-        "CH": "身为凡人的愚人众·霜役人，血量比圣骸兽还要高。",
+        "CH": "身为凡人的愚人众 · 霜役人，血量比圣骸兽还要高。",
         "EN": "Fatui Frost Operatives, despite being ordinary humans, have more HP than Consecrated Beasts."
     },
     {
@@ -44,7 +44,7 @@ var didyouknow = [
         "EN": "The highest single instance of DMG dealt by enemies is Guardian of Apep's Oasis's \"Aftershocks of the Apocalypse\". It can deal over 50,000 DMG to a 600 DEF character."
     },
     {
-        "CH": "敌人是没有元素精通的，除了地方传奇·利亚姆——他有650元素精通，超载的伤害高达12153。",
+        "CH": "敌人是没有元素精通的，除了地方传奇 · 利亚姆——他有650元素精通，超载的伤害高达12153。",
         "EN": "Enemies do not have Elemental Mastery, except Local Legend: Liam. He has 650 Elemental Mastery, boosting his Overload DMG to as high as 12,153."
     },
     {
@@ -57,11 +57,11 @@ var didyouknow = [
     },
     {
         "CH": "血量最低的*怪物*是飞萤，就算在渊月螺旋12-3也只有45956血。",
-        "EN": "The *monster* with the least HP are the Cicins, having only 45,956 HP in Abyss 12-3."
+        "EN": "The *monsters* with the least HP are the Cicins, having only 45,956 HP in Abyss 12-3."
     },
     {
-        "CH": "一般的怪物在4人联机的世界里，生命值会变为原本的2.5倍，但也有例外。大部分周本的生命值在4人联机世界只会变为原本的1.75倍。",
-        "EN": "Almost every monster's HP becomes 2.5 times its original HP in 4P multiplayer mode, but there are a few exceptions. Most Weekly Bosses' HP only increases to 1.75x."
+        "CH": "大多数怪物在4人联机的世界里，生命值会变为原本的2.5倍，但也有例外。一些周本的生命值在4人联机世界只会变为原本的1.75倍。",
+        "EN": "Most monster's HP becomes 2.5x its original HP in 4P multiplayer mode, but there are a few exceptions. Some Weekly Bosses' HP only increases to 1.75x."
     },
     {
         "CH": "海染砗磲套装效果最多记录30000点治疗量，对普通抗性的敌人理应打出30000*0.9*0.9=24300点伤害。但实际永远只会打出24299点伤害，猜猜为什么？",
@@ -74,9 +74,5 @@ var didyouknow = [
     {
         "CH": "冰炸药桶爆炸可以瞬间破完冰深渊法师的护盾。虽然爆炸是冰元素伤害，没有发生元素反应，但爆炸的伤害是钝击，可以通过削韧破除冻盾和岩盾。",
         "EN": "Cryo explosive barrels' explosion can actually destroy Cryo Abyss Mages' Ice shields. Although it deals Cryo DMG so no reaction occurs, the explosion is a Blunt Hit and thus can break Ice and Geo shields with Poise DMG."
-    },
-    {
-        "CH": "",
-        "EN": ""
-    },
+    }
 ]
