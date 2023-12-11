@@ -17,6 +17,12 @@ app.get('/en', (req, res) => {
     });
 });
 
+app.get('/mons', (req, res) => {
+    res.render('mons', {
+        title: 'HomDGCat Database',
+    });
+});
+
 app.use(express.static(path.join(__dirname, '/public')));
 app.listen(8080);
 

@@ -90,17 +90,45 @@ $(function() {
 
     function renderSR() {
         $('.below').empty().render({
-            template: [
-                {
-                    p: txt.Coming_Soon[lang],
-                    style: {
-                        'text-align': 'center',
-                        'font-size': '27px',
-                        'font-weight': 'bold',
-                        'padding': '50px'
+            template: {
+                div : {
+                    a: function (k) {
+                        return k.data.Href + '?lang=' + lang
+                    },
+                    t: [
+                        {
+                            div: {
+                                span: `[[Title/${lang}]]`,
+                            },
+                            class: 'dir_head'
+                        },
+                        {
+                            div: {
+                                span: `[[Link]]`,
+                            },
+                            class: 'dir_link',
+                            when: function (k) {
+                                return k.data.Link != ''
+                            }
+                        },
+                        {
+                            div: {
+                                li: {
+                                    span: `[[${lang}]]`
+                                },
+                                datapath: 'Features'
+                            },
+                            class: 'dir_body'
+                        }
+                    ],
+                    class: 'dir',
+                    data: SR,
+                    attr: {
+                        target: '_blank'
                     }
-                }
-            ]
+                },
+                class: 'dir_wrap'
+            }
         })
     }
 

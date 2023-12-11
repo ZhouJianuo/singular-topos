@@ -125,4 +125,23 @@ var GI = [
     },
 ]
 
-var SR = []
+var SR = [
+    {
+        "Title": {
+            "CH": "怪物",
+            "EN": "Monsters"
+        },
+        "Link": "",
+        "Features": [
+            {
+                "CH": "怪物血量、速度、伤害抗性、效果抵抗等",
+                "EN": "Monster HP, SPD, DMG RES, Status RES and more."
+            },
+            {
+                "CH": "怪物技能精确数据",
+                "EN": "Accurate monster skill data."
+            }
+        ],
+        "Href": "https://homdgcat.wiki/mons"
+    },
+]
