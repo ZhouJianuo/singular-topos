@@ -13,7 +13,7 @@ $(function() {
             {
                 section: [
                     {
-                        schedule: txt.Home_Sections[0][lang] + "o",
+                        schedule: txt.Home_Sections[0][lang],
                         a: {
                             'data-id': 1,
                             'class': 'active'
