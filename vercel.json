@@ -3,17 +3,33 @@
     "builds": [
         {
             "src": "index.js",
-            "use": "@vercel/node"
+            "use": "@vercel/node",
+            "config": {
+                "includeFiles": [
+                    "public/**",
+                    "views/**",
+                    "index.js"
+                ]
+            }
+        },
+        {
+            "src": "public/**",
+            "use": "@vercel/static",
+            "config": {
+                "includeFiles": [
+                    "public/**"
+                ]
+            }
         }
     ],
     "routes": [
         {
+            "src": "/public/(.*)",
+            "dest": "/public/$1"
+        },
+        {
             "src": "/(.*)",
-            "dest": "/index.js",
-            "headers": {
-                "key" : "Cache-Control",
-                "value" : "no-cache"
-            }
+            "dest": "/index.js"
         }
     ]
 }
