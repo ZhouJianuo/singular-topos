@@ -9,7 +9,12 @@
     "routes": [
         {
             "src": "/(.*)",
-            "dest": "index.js",
+            "dest": "index.js"
+        }
+    ],
+    "headers": [
+        {
+            "source": "/(.*)",
             "headers" : [
                 {
                     "key" : "Cache-Control",
