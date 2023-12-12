@@ -1,5 +1,8 @@
 $(function() {
 
+    if (lang == 'EN') {$('body').css('font-family', "'Poppins', sans-serif")}
+    else {$('body').css('font-family', "'Microsoft YaHei', sans-serif")}
+
     var cur_select = 1
     var l = didyouknow.length
     var r = -1
@@ -7,6 +10,7 @@ $(function() {
     $('h3 .title').html(txt.Title[lang])
 
     $('h3 .lang').html(txt.Home_Lang[lang])
+    $('h3 .lang').css('margin-top', '20px')
 
     $('container').render({
         div: [

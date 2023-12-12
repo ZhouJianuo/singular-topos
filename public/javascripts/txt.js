@@ -3,9 +3,25 @@ var txt = {
         "CH": "玉衡杯数据库",
         "EN": "HomDGCat Database"
     },
+    "Subtitle": {
+        "CH": "<p>数据提供：<b>妮可少女 <a href='https://space.bilibili.com/3537104994831140' target='_blank'>(bilibili)</a> <a href='https://www.reddit.com/user/homdgcat/' target='_blank'>(Reddit)</a> <a href='https://www.twitter.com/homdgcat_' target='_blank'>(Twitter)</a></b></p>",
+        "EN": "<p>Data by <b>HomDGCat: <a href='https://space.bilibili.com/3537104994831140' target='_blank'>(bilibili)</a> <a href='https://www.reddit.com/user/homdgcat/' target='_blank'>(Reddit)</a> <a href='https://www.twitter.com/homdgcat_' target='_blank'>(Twitter)</a></b></p>"
+    },
+    "ChooseTitle": {
+        "CH": "（星穹铁道）",
+        "EN": "(Star Rail)"
+    },
+    "Page": {
+        "CH": "<p><b>【切换页面】</b></p>",
+        "EN": "<p><b>[ Pages ]</b></p>",
+    },
     "Home_Lang": {
         "CH": "<a href='/en'>Switch to English</a>",
         "EN": "<a href='/'>切换至中文</a>"
+    },
+    "Lang": {
+        "CH": "<a href='?lang=EN'>Switch to English</a>",
+        "EN": "<a href='?lang=CH'>切换至中文</a>"
     },
     "Home_Sections": [
         {
@@ -39,5 +55,92 @@ var txt = {
     },
 }
 
-if (lang == 'EN') {$('body').css('font-family', "'Poppins', sans-serif")}
-else {$('body').css('font-family', "'Microsoft YaHei', sans-serif")}
+var links = [
+    {
+        "Name": {
+            "CH": "怪物",
+            "EN": "Monsters"
+        },
+        "Link" : "/mons"
+    },
+    {
+        "Name": {
+            "CH": "混沌回忆",
+            "EN": "Memory of Chaos"
+        },
+        "Link" : "/chaos"
+    },
+    {
+        "Name": {
+            "CH": "虚构叙事",
+            "EN": "Pure Fiction"
+        },
+        "Link" : "/fiction"
+    }
+]
+
+function popLinks(l) {
+    poplayer({
+        header: '',
+        class: 'yuhengcup',
+        width: '85%',
+        template: [
+            {
+                h3: txt.Title[l],
+                style: {
+                    color: '#27363E',
+                    'margin-top': '15px',
+                    'margin-bottom': '45px',
+                    'font-size': '40px',
+                }
+            },
+            {
+                p: txt.ChooseTitle[l],
+                style: {
+                    color: '#27363E',
+                    'margin-top': '-28px',
+                    'margin-bottom': '22px',
+                    'font-size': '23px',
+                    'text-align': 'center'
+                },
+            },
+            {
+                section: function (g) {
+                    $(g.container).render({
+                        data: links,
+                        template: {
+                            schedule: {
+                                a: `[[Link]]` + '?lang=' + l,
+                                t: {
+                                    span: `[[Name/${l}]]`,
+                                    style: {
+                                        'font-size': '19px',
+                                        'margin': 'auto'
+                                    }
+                                },
+                                style: {
+                                    display: 'block'
+                                }
+                            },
+                            style: {
+                                'text-align': 'center',
+                                padding: '10px 0px',
+                                border: '1px solid #333',
+                                'border-radius': '5px',
+                                cursor: 'pointer',
+                                margin: '5px',
+                            }
+                        }
+                    })
+                },
+                style: {
+                    display: 'flex',
+                    'flex-wrap': 'wrap',
+                    'justify-content': 'space-evenly',
+                    width: '100%',
+                    margin: '0px auto 60px'
+                }
+            }
+        ]
+    })
+}

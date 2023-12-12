@@ -1,5 +1,6 @@
 const express = require('express');
 const app = express();
+const router = express.Router();
 var path = require ('path');
 
 app.set('view engine', 'pug');
@@ -17,11 +18,31 @@ app.get('/en', (req, res) => {
     });
 });
 
-app.get('/mons', (req, res) => {
-    res.render('mons', {
-        title: 'HomDGCat Database',
-    });
+app.get('/mons', async(req, res) => {
+    let result = {};
+    let {lang=''} = req.query;
+    result.lang = lang;
+    result.title = 'HomDGCat Database';
+    res.render('mons', result);
 });
+
+app.get('/chaos', async(req, res) => {
+    let result = {};
+    let {lang=''} = req.query;
+    result.lang = lang;
+    result.title = 'HomDGCat Database';
+    res.render('chaos', result);
+});
+
+
+app.get('/fiction', async(req, res) => {
+    let result = {};
+    let {lang=''} = req.query;
+    result.lang = lang;
+    result.title = 'HomDGCat Database';
+    res.render('fiction', result);
+});
+
 
 app.use(express.static(path.join(__dirname, '/public')));
 app.listen(8080);

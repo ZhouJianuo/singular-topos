@@ -1,3 +1,63 @@
+body {
+    background: url('../images/bg.jpg') no-repeat right center/cover;
+}
+
+h3 {
+    margin: 50px auto 20px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+}
+
+h3 .title {
+    font-size: 50px;
+    position: relative;
+}
+
+h3 .lang {
+    margin: 10px auto 30px;
+    font-size: 22px;
+    font-weight: bold;
+    display: block;
+}
+
+.lang a {
+    color: rgb(255, 255, 255);
+    font-style: normal;
+}
+
+a {
+    text-decoration: none;
+}
+
+h3 .subtitle {
+    font-size: 16px;
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    font-style: normal;
+    line-height: 33px;
+    font-weight: normal;
+}
+
+h3 p {
+    margin: 13px;
+}
+
+h3 a {
+    color: #df903b;
+}
+
+h3 .links {
+    font-size: 20px;
+    font-style: normal;
+    display: block;
+    line-height: 1.6;
+    margin-top: 13px;
+    cursor: pointer;
+    color: #df903b;
+}
+
 popheader {
     height: 40px;
     line-height: 40px;
@@ -42,4 +102,26 @@ schedule.active{
 ::-webkit-scrollbar {
     height: 10px;
     width: 10px;
+}
+
+.yuhengcup popbody {
+    padding: 10px
+}
+
+.yuhengcup popdialog {
+    height: auto
+}
+
+.yuhengcup ::-webkit-scrollbar {
+    width: 0px
+}
+
+.yuhengcup schedule { width: calc((100% - 20px)) }
+
+@media screen and (min-width: 600px) and (max-width: 800px) {
+    .yuhengcup schedule { width: calc((100% - 40px) / 2) }
+}
+
+@media screen and (min-width: 800px) {
+    .yuhengcup schedule { width: calc((100% - 60px) / 3) }
 }

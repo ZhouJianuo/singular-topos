@@ -142,6 +142,42 @@ var SR = [
                 "EN": "Accurate monster skill data."
             }
         ],
-        "Href": "https://homdgcat.wiki/mons"
+        "Href": "/mons"
+    },
+    {
+        "Title": {
+            "CH": "混沌回忆",
+            "EN": "Memory of Chaos"
+        },
+        "Link": "",
+        "Features": [
+            {
+                "CH": "敌方阵容、弱点、血量、分波站位",
+                "EN": "Enemy lineup, weakness, HP."
+            },
+            {
+                "CH": "记忆紊流、敌方血量调整",
+                "EN": "Memory Turbulence, enemy HP adjustments."
+            }
+        ],
+        "Href": "/chaos"
+    },
+    {
+        "Title": {
+            "CH": "虚构叙事",
+            "EN": "Pure Fiction"
+        },
+        "Link": "",
+        "Features": [
+            {
+                "CH": "敌方阵容、弱点、血量、分波站位",
+                "EN": "Enemy lineup, weakness, HP."
+            },
+            {
+                "CH": "记忆紊流、敌方血量调整",
+                "EN": "Memory Turbulence, enemy HP adjustments."
+            }
+        ],
+        "Href": "/fiction"
     },
 ]
