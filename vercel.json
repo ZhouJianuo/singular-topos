@@ -10,6 +10,10 @@
                     "views/**",
                     "index.js"
                 ]
+            },
+            "headers": {
+                "key": "cache-control",
+                "value": "no-cache"
             }
         },
         {
@@ -19,6 +23,10 @@
                 "includeFiles": [
                     "public/**"
                 ]
+            },
+            "headers": {
+                "key": "cache-control",
+                "value": "no-cache"
             }
         }
     ],
