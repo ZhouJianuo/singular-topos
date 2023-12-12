@@ -1,7 +1,7 @@
 var GI = [
     {
         "Title": {
-            "CH": "怪物1",
+            "CH": "怪物12",
             "EN": "Monsters"
         },
         "Link": "www.mons.wiki",
