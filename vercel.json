@@ -10,10 +10,6 @@
                     "views/**",
                     "index.js"
                 ]
-            },
-            "headers": {
-                "key": "cache-control",
-                "value": "no-cache"
             }
         },
         {
@@ -23,21 +19,25 @@
                 "includeFiles": [
                     "public/**"
                 ]
-            },
-            "headers": {
-                "key": "cache-control",
-                "value": "no-cache"
             }
         }
     ],
     "routes": [
         {
             "src": "/public/(.*)",
-            "dest": "/public/$1"
+            "dest": "/public/$1",
+            "headers": {
+                "key": "cache-control",
+                "value": "no-cache"
+            }
         },
         {
             "src": "/(.*)",
-            "dest": "/index.js"
+            "dest": "/index.js",
+            "headers": {
+                "key": "cache-control",
+                "value": "no-cache"
+            }
         }
     ]
 }
