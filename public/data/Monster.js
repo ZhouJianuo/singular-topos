@@ -12,7 +12,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的近卫战士，负责冲锋陷阵。<br>战斗中，银鬃近卫的攻击会降低我方的防御力。",
             "EN": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.3,
             "ATK": 18.0,
@@ -20,13 +21,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Wind",
             "Quantum"
@@ -68,7 +63,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的近卫战士，负责冲锋陷阵。<br>战斗中，银鬃近卫的攻击会降低我方的防御力。",
             "EN": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.3,
             "ATK": 18.0,
@@ -77,11 +73,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 37.0,
-            "Stance": 0.0
+            "SPD": 37.0
         },
         "Weak": [
             "Wind",
@@ -124,7 +116,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的近卫战士，负责冲锋陷阵。<br>战斗中，银鬃近卫的攻击会降低我方的防御力。",
             "EN": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.35,
             "ATK": 9.0,
@@ -132,13 +125,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Wind",
             "Quantum"
@@ -180,7 +167,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的近卫战士，负责冲锋陷阵。<br>战斗中，银鬃近卫的攻击会降低我方的防御力。",
             "EN": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.3,
             "ATK": 18.0,
@@ -188,13 +176,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Wind",
             "Quantum"
@@ -236,7 +218,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的近卫战士，负责冲锋陷阵。<br>战斗中，银鬃近卫的攻击会降低我方的防御力。",
             "EN": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.3,
             "ATK": 18.0,
@@ -244,13 +227,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Wind",
             "Quantum"
@@ -292,7 +269,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的近卫战士，负责冲锋陷阵。<br>战斗中，银鬃近卫的攻击会降低我方的防御力。",
             "EN": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.3,
             "ATK": 18.0,
@@ -300,13 +278,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -348,7 +320,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的近卫战士，负责冲锋陷阵。<br>战斗中，银鬃近卫的攻击会降低我方的防御力。",
             "EN": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.3,
             "ATK": 18.0,
@@ -356,13 +329,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -404,21 +371,16 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的近卫战士，负责冲锋陷阵。<br>战斗中，银鬃近卫的攻击会降低我方的防御力。",
             "EN": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat."
         },
-        "Curve": 2,
+        "HardLevelGroup": 1,
+        "EliteGroup": 2,
         "Stats": {
-            "HP": 2.21,
-            "ATK": 14.4,
+            "HP": 1.3,
+            "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -460,7 +422,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的近卫战士，负责冲锋陷阵。<br>战斗中，银鬃近卫的攻击会降低我方的防御力。",
             "EN": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.3,
             "ATK": 12.00006,
@@ -468,13 +431,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Wind",
             "Quantum"
@@ -510,7 +467,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的近卫战士，负责冲锋陷阵。<br>战斗中，银鬃近卫的攻击会降低我方的防御力。",
             "EN": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.25,
             "ATK": 5.9999400000000005,
@@ -519,11 +477,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 32.0,
-            "Stance": 0.0
+            "SPD": 32.0
         },
         "Weak": [
             "Fire",
@@ -560,7 +514,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的近卫战士，负责冲锋陷阵。<br>战斗中，银鬃近卫的攻击会降低我方的防御力。",
             "EN": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.4,
             "ATK": 4.5,
@@ -569,11 +524,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": -13.0,
-            "Stance": 0.0
+            "SPD": -13.0
         },
         "Weak": [
             "Ice",
@@ -610,7 +561,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的近卫战士，负责冲锋陷阵。<br>战斗中，银鬃近卫的攻击会降低我方的防御力。",
             "EN": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.3,
             "ATK": 23.99994,
@@ -618,13 +570,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Wind",
             "Phys"
@@ -660,7 +606,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的近卫战士，负责冲锋陷阵。<br>战斗中，银鬃近卫的攻击会降低我方的防御力。",
             "EN": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.8,
             "ATK": 14.99994,
@@ -669,11 +616,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 19.0,
-            "Stance": 0.0
+            "SPD": 19.0
         },
         "Weak": [
             "Wind",
@@ -716,7 +659,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的近卫战士，负责冲锋陷阵。<br>战斗中，银鬃近卫的攻击会降低我方的防御力。",
             "EN": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 30.00006,
@@ -724,13 +668,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Wind",
             "Quantum"
@@ -772,7 +710,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的近卫战士，负责冲锋陷阵。<br>战斗中，银鬃近卫的攻击会降低我方的防御力。",
             "EN": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.8,
             "ATK": 30.00006,
@@ -780,13 +719,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Wind",
             "Quantum"
@@ -828,7 +761,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的近卫战士，负责冲锋陷阵。<br>战斗中，银鬃近卫的攻击会降低我方的防御力。",
             "EN": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.5,
             "ATK": 14.99994,
@@ -837,11 +771,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 19.0,
-            "Stance": 0.0
+            "SPD": 19.0
         },
         "Weak": [
             "Wind",
@@ -884,7 +814,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的近卫战士，负责冲锋陷阵。<br>战斗中，银鬃近卫的攻击会降低我方的防御力。",
             "EN": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.25,
             "ATK": 5.9999400000000005,
@@ -892,13 +823,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Wind",
             "Quantum"
@@ -934,7 +859,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的近卫战士，负责冲锋陷阵。<br>战斗中，银鬃近卫的攻击会降低我方的防御力。",
             "EN": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.7,
             "ATK": 5.9999400000000005,
@@ -942,13 +868,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Wind",
             "Quantum"
@@ -984,7 +904,8 @@ var _monster = [
             "CH": "",
             "EN": ""
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.3,
             "ATK": 18.0,
@@ -992,13 +913,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Wind",
             "Quantum"
@@ -1040,7 +955,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的近卫战士，负责冲锋陷阵。<br>战斗中，银鬃近卫的攻击会降低我方的防御力。",
             "EN": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.3,
             "ATK": 18.0,
@@ -1048,13 +964,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Wind",
             "Quantum"
@@ -1096,7 +1006,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的近卫战士，负责冲锋陷阵。<br>战斗中，银鬃近卫的攻击会降低我方的防御力。",
             "EN": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.0,
             "ATK": 22.5,
@@ -1104,13 +1015,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Wind",
             "Quantum"
@@ -1152,7 +1057,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的射手，负责狙击敌人。<br>战斗中，银鬃射手的射击会对我方造成裂伤。",
             "EN": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.1,
             "ATK": 18.0,
@@ -1160,13 +1066,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice"
@@ -1208,7 +1108,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的射手，负责狙击敌人。<br>战斗中，银鬃射手的射击会对我方造成裂伤。",
             "EN": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.1,
             "ATK": 18.0,
@@ -1216,13 +1117,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice"
@@ -1264,7 +1159,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的射手，负责狙击敌人。<br>战斗中，银鬃射手的射击会对我方造成裂伤。",
             "EN": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.1,
             "ATK": 18.0,
@@ -1272,13 +1168,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice"
@@ -1320,7 +1210,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的射手，负责狙击敌人。<br>战斗中，银鬃射手的射击会对我方造成裂伤。",
             "EN": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.35,
             "ATK": 9.0,
@@ -1328,13 +1219,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice"
@@ -1376,7 +1261,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的射手，负责狙击敌人。<br>战斗中，银鬃射手的射击会对我方造成裂伤。",
             "EN": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.1,
             "ATK": 18.0,
@@ -1384,13 +1270,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -1432,7 +1312,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的射手，负责狙击敌人。<br>战斗中，银鬃射手的射击会对我方造成裂伤。",
             "EN": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.1,
             "ATK": 18.0,
@@ -1440,13 +1321,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -1488,21 +1363,16 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的射手，负责狙击敌人。<br>战斗中，银鬃射手的射击会对我方造成裂伤。",
             "EN": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat."
         },
-        "Curve": 2,
+        "HardLevelGroup": 1,
+        "EliteGroup": 2,
         "Stats": {
-            "HP": 1.87,
-            "ATK": 14.4,
+            "HP": 1.1,
+            "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -1544,7 +1414,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的射手，负责狙击敌人。<br>战斗中，银鬃射手的射击会对我方造成裂伤。",
             "EN": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.75,
             "ATK": 7.2,
@@ -1552,13 +1423,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice"
@@ -1594,7 +1459,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的射手，负责狙击敌人。<br>战斗中，银鬃射手的射击会对我方造成裂伤。",
             "EN": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.1,
             "ATK": 12.00006,
@@ -1602,13 +1468,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice"
@@ -1644,7 +1504,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的射手，负责狙击敌人。<br>战斗中，银鬃射手的射击会对我方造成裂伤。",
             "EN": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.8,
             "ATK": 14.99994,
@@ -1653,11 +1514,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 6.0,
-            "Stance": 0.0
+            "SPD": 6.0
         },
         "Weak": [
             "Phys",
@@ -1700,7 +1557,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的射手，负责狙击敌人。<br>战斗中，银鬃射手的射击会对我方造成裂伤。",
             "EN": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.3,
             "ATK": 30.00006,
@@ -1708,13 +1566,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice"
@@ -1756,7 +1608,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的射手，负责狙击敌人。<br>战斗中，银鬃射手的射击会对我方造成裂伤。",
             "EN": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.65,
             "ATK": 30.00006,
@@ -1764,13 +1617,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice"
@@ -1812,7 +1659,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的射手，负责狙击敌人。<br>战斗中，银鬃射手的射击会对我方造成裂伤。",
             "EN": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.45,
             "ATK": 14.99994,
@@ -1821,11 +1669,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 6.0,
-            "Stance": 0.0
+            "SPD": 6.0
         },
         "Weak": [
             "Phys",
@@ -1868,7 +1712,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的射手，负责狙击敌人。<br>战斗中，银鬃射手的射击会对我方造成裂伤。",
             "EN": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 499.5,
             "ATK": 9.0,
@@ -1877,9 +1722,6 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": 43.0,
             "Stance": 4.0
         },
@@ -1923,7 +1765,8 @@ var _monster = [
             "CH": "",
             "EN": ""
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.1,
             "ATK": 18.0,
@@ -1931,13 +1774,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice"
@@ -1979,7 +1816,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」分队的领导者。<br>战斗中，银鬃尉官会架起巨盾并强化自身。攻击架盾状态下的银鬃尉官，会立即遭到强力的反击。",
             "EN": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -1987,13 +1825,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 8.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -2038,7 +1870,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」分队的领导者。<br>战斗中，银鬃尉官会架起巨盾并强化自身。攻击架盾状态下的银鬃尉官，会立即遭到强力的反击。",
             "EN": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 9.0,
             "ATK": 18.0,
@@ -2046,13 +1879,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 8.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -2097,7 +1924,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」分队的领导者。<br>战斗中，银鬃尉官会架起巨盾并强化自身。攻击架盾状态下的银鬃尉官，会立即遭到强力的反击。",
             "EN": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.0,
             "ATK": 18.0,
@@ -2105,13 +1933,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 8.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -2156,7 +1978,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」分队的领导者。<br>战斗中，银鬃尉官会架起巨盾并强化自身。攻击架盾状态下的银鬃尉官，会立即遭到强力的反击。",
             "EN": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -2164,13 +1987,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 8.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -2215,7 +2032,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」分队的领导者。<br>战斗中，银鬃尉官会架起巨盾并强化自身。攻击架盾状态下的银鬃尉官，会立即遭到强力的反击。",
             "EN": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 40.0,
             "ATK": 18.0,
@@ -2224,10 +2042,6 @@ var _monster = [
             "Stance": 8.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 4.0
         },
         "Weak": [
@@ -2274,7 +2088,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」分队的领导者。<br>战斗中，银鬃尉官会架起巨盾并强化自身。攻击架盾状态下的银鬃尉官，会立即遭到强力的反击。",
             "EN": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -2282,13 +2097,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 8.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -2333,7 +2142,8 @@ var _monster = [
             "CH": "代码受到影响后的错误投影。参照本体为贝洛伯格的戍卫部队「银鬃铁卫」分队的领导者。<br>战斗中，只要敌方还有队友存在，银鬃尉官会一直架起巨盾。攻击架盾状态下的银鬃尉官，会立即遭到强力的反击。",
             "EN": "A false projection produced by compromised codes. The original reference entity is the leader of a squad of Belobog's Silvermane Guards.<br>As long as there are remaining friendly units, Silvermane Lieutenants will persistently raise a giant shield during combat. Attacking a Silvermane Lieutenant with their shield raised will result in a fierce counterattack."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 16.0,
             "ATK": 18.0,
@@ -2341,13 +2151,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -2393,7 +2197,8 @@ var _monster = [
             "CH": "代码受到影响后的完整投影。参照本体为贝洛伯格的戍卫部队「银鬃铁卫」分队的领导者。",
             "EN": "A complete projection produced by compromised codes. The original reference entity is the leader of a squad of Belobog's Silvermane Guards."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 4.5,
             "ATK": 19.99998,
@@ -2401,13 +2206,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 6.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -2457,7 +2256,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」分队的领导者。<br>战斗中，银鬃尉官会架起巨盾并强化自身。攻击架盾状态下的银鬃尉官，会立即遭到强力的反击。",
             "EN": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 4.0,
             "ATK": 14.99994,
@@ -2466,9 +2266,6 @@ var _monster = [
             "Stance": 8.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": 40.0,
             "Stance": -2.0
         },
@@ -2516,7 +2313,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」分队的领导者。<br>战斗中，银鬃尉官会架起巨盾并强化自身。攻击架盾状态下的银鬃尉官，会立即遭到强力的反击。",
             "EN": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.6,
             "ATK": 30.00006,
@@ -2525,10 +2323,6 @@ var _monster = [
             "Stance": 8.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -5.0
         },
         "Weak": [
@@ -2575,7 +2369,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」分队的领导者。<br>战斗中，银鬃尉官会架起巨盾并强化自身。攻击架盾状态下的银鬃尉官，会立即遭到强力的反击。",
             "EN": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.5,
             "ATK": 30.00006,
@@ -2583,13 +2378,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 8.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -2634,7 +2423,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」分队的领导者。<br>战斗中，银鬃尉官会架起巨盾并强化自身。攻击架盾状态下的银鬃尉官，会立即遭到强力的反击。",
             "EN": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 4.1,
             "ATK": 12.85722,
@@ -2643,9 +2433,6 @@ var _monster = [
             "Stance": 8.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": 40.0,
             "Stance": -2.0
         },
@@ -2693,7 +2480,8 @@ var _monster = [
             "CH": "银鬃铁卫的戍卫长。<br>杰帕德会指挥麾下士兵集中攻击，并且能为士兵提供免疫一次攻击的屏障。",
             "EN": "Captain of the Silvermane Guards.<br>Gepard can command his soldiers to focus their attacks, and provide each of them with a barrier that blocks one attack."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -2701,13 +2489,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec",
@@ -2755,7 +2537,8 @@ var _monster = [
             "CH": "银鬃铁卫的戍卫长。<br>杰帕德会指挥麾下士兵集中攻击，并且能为士兵提供免疫一次攻击的屏障。",
             "EN": "Captain of the Silvermane Guards.<br>Gepard can command his soldiers to focus their attacks, and provide each of them with a barrier that blocks one attack."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 14.99994,
@@ -2764,10 +2547,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -4.0
         },
         "Weak": [
@@ -2817,7 +2596,8 @@ var _monster = [
             "CH": "银鬃铁卫的戍卫长。<br>杰帕德会指挥麾下士兵集中攻击，并且能为士兵提供免疫一次攻击的屏障。",
             "EN": "Captain of the Silvermane Guards.<br>Gepard can command his soldiers to focus their attacks, and provide each of them with a barrier that blocks one attack."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 14.0,
             "ATK": 18.0,
@@ -2826,10 +2606,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 2.0
         },
         "Weak": [
@@ -2886,7 +2662,8 @@ var _monster = [
             "CH": "银鬃铁卫的戍卫长。<br>杰帕德会指挥麾下士兵集中攻击，并且能为士兵提供免疫一次攻击的屏障。",
             "EN": "Captain of the Silvermane Guards.<br>Gepard can command his soldiers to focus their attacks, and provide each of them with a barrier that blocks one attack."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -2895,10 +2672,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -2.0
         },
         "Weak": [
@@ -2948,7 +2721,8 @@ var _monster = [
             "CH": "银鬃铁卫的戍卫长。<br>杰帕德会指挥麾下士兵集中攻击，并且能为士兵提供免疫一次攻击的屏障。",
             "EN": "Captain of the Silvermane Guards.<br>Gepard can command his soldiers to focus their attacks, and provide each of them with a barrier that blocks one attack."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 8.0,
             "ATK": 14.99994,
@@ -2956,13 +2730,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 6.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec",
@@ -3011,7 +2779,8 @@ var _monster = [
             "CH": "代码受到影响后的完整投影。参照本体为银鬃铁卫的戍卫长。<br>杰帕德（完整）会指挥麾下士兵集中攻击，并且能为士兵提供抵挡攻击伤害的护盾。",
             "EN": "A complete projection produced by compromised codes. The referenced entity is the leader of the Silvermane Guards.<br>Gepard (Complete) can command his soldiers to focus their attacks and offer soldiers a shield to block attacks."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.5,
             "ATK": 14.99994,
@@ -3019,13 +2788,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec",
@@ -3106,7 +2869,8 @@ var _monster = [
             "CH": "代码受到影响后的完整投影。参照本体为银鬃铁卫的戍卫长。<br>杰帕德（完整）会指挥麾下士兵集中攻击，并且能为士兵提供抵挡攻击伤害的护盾。",
             "EN": "A complete projection produced by compromised codes. The referenced entity is the leader of the Silvermane Guards.<br>Gepard (Complete) can command his soldiers to focus their attacks and offer soldiers a shield to block attacks."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.5,
             "ATK": 14.99994,
@@ -3114,13 +2878,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec",
@@ -3203,7 +2961,8 @@ var _monster = [
             "CH": "贝洛伯格的守护者，永屹之城贝洛伯格无可质疑的统治者。<br>可可利亚秉持传承自历代守护者的神迹权能，在战斗中号令冰雪的力量冻结敌人。",
             "EN": "The Guardian of Belobog, and the indisputable ruler of the Towering Citadel, Belobog.<br>Cocolia possesses the divine authority passed down through the generations of Guardians, giving her command over ice and snow to freeze her enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 17.5,
             "ATK": 18.0,
@@ -3211,13 +2970,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec",
@@ -3272,7 +3025,8 @@ var _monster = [
             "CH": "贝洛伯格的守护者，永屹之城贝洛伯格无可质疑的统治者。<br>可可利亚秉持传承自历代守护者的神迹权能，在战斗中号令冰雪的力量冻结敌人。",
             "EN": "The Guardian of Belobog, and the indisputable ruler of the Towering Citadel, Belobog.<br>Cocolia possesses the divine authority passed down through the generations of Guardians, giving her command over ice and snow to freeze her enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 13.5,
             "ATK": 14.99994,
@@ -3281,10 +3035,6 @@ var _monster = [
             "Stance": 12.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -2.0
         },
         "Weak": [
@@ -3341,7 +3091,8 @@ var _monster = [
             "CH": "贝洛伯格的守护者，永屹之城贝洛伯格无可质疑的统治者。<br>可可利亚秉持传承自历代守护者的神迹权能，在战斗中号令冰雪的力量冻结敌人。",
             "EN": "The Guardian of Belobog, and the indisputable ruler of the Towering Citadel, Belobog.<br>Cocolia possesses the divine authority passed down through the generations of Guardians, giving her command over ice and snow to freeze her enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 87.5,
             "ATK": 18.0,
@@ -3350,10 +3101,6 @@ var _monster = [
             "Stance": 12.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 4.0
         },
         "Weak": [
@@ -3410,7 +3157,8 @@ var _monster = [
             "CH": "代码受到影响后的完整投影。参照本体为贝洛伯格的守护者，永屹之城贝洛伯格无可质疑的统治者。<br>可可利亚（完整）秉持传承自历代守护者的神迹权能，在战斗中号令冰雪的力量冻结敌人。",
             "EN": "A complete projection produced by compromised codes. The referenced entity is the Guardian of Belobog, the indisputable ruler of the Towering Citadel of Belobog.<br>As the Guardian, Cocolia (Complete) has inherited divine powers, giving her absolute command over the power of ice to freeze her enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 8.0,
             "ATK": 18.0,
@@ -3418,13 +3166,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec",
@@ -3496,7 +3238,8 @@ var _monster = [
             "CH": "代码受到影响后的完整投影。参照本体为贝洛伯格的守护者，永屹之城贝洛伯格无可质疑的统治者。<br>可可利亚（完整）秉持传承自历代守护者的神迹权能，在战斗中号令冰雪的力量冻结敌人。",
             "EN": "A complete projection produced by compromised codes. The referenced entity is the Guardian of Belobog, the indisputable ruler of the Towering Citadel of Belobog.<br>As the Guardian, Cocolia (Complete) has inherited divine powers, giving her absolute command over the power of ice to freeze her enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 8.0,
             "ATK": 18.0,
@@ -3504,13 +3247,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec",
@@ -3582,7 +3319,8 @@ var _monster = [
             "CH": "受「星核」漫溢的裂界能量同化之后，大守护者幻化为操控虚数能量的歌者，亦是祂所承诺的「新世界」的代言人。",
             "EN": "After being assimilated by the overflowing Fragmentum energy of the Stellaron, the Supreme Guardian transforms into a singer able to control Imaginary Energy and the mouthpiece of its promised \"new world.\""
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 19.0,
             "ATK": 18.0,
@@ -3590,13 +3328,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 18.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec",
@@ -3659,7 +3391,8 @@ var _monster = [
             "CH": "受「星核」漫溢的裂界能量同化之后，大守护者幻化为操控虚数能量的歌者，亦是祂所承诺的「新世界」的代言人。",
             "EN": "After being assimilated by the overflowing Fragmentum energy of the Stellaron, the Supreme Guardian transforms into a singer able to control Imaginary Energy and the mouthpiece of its promised \"new world.\""
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 19.0,
             "ATK": 18.0,
@@ -3667,13 +3400,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 18.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec",
@@ -3732,7 +3459,8 @@ var _monster = [
             "CH": "受「星核」漫溢的裂界能量同化之后，大守护者幻化为操控虚数能量的歌者，亦是祂所承诺的「新世界」的代言人。",
             "EN": "After being assimilated by the overflowing Fragmentum energy of the Stellaron, the Supreme Guardian transforms into a chantress able to control Imaginary Energy and the mouthpiece of the Stellaron's promised \"new world.\""
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 19.0,
             "ATK": 18.0,
@@ -3740,13 +3468,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 18.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec",
@@ -3810,7 +3532,8 @@ var _monster = [
             "CH": "守护者创造的巨大冰矛，能释放出席卷全场的刺骨霜风。",
             "EN": "A giant lance of ice created by the guardian. It can unleash a piercing frost wind that sweeps across the field."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.75,
             "ATK": 18.0,
@@ -3818,13 +3541,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec"
@@ -3868,7 +3585,8 @@ var _monster = [
             "CH": "守护者创造的巨大冰矛，能释放出席卷全场的刺骨霜风。",
             "EN": "A giant lance of ice created by the guardian. It can unleash a piercing frost wind that sweeps across the field."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.75,
             "ATK": 18.0,
@@ -3876,13 +3594,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Quantum"
@@ -3926,7 +3638,8 @@ var _monster = [
             "CH": "可可利亚召唤出的巨大冰矛，环绕着能如刀刃般撕裂肉身的极寒气流。",
             "EN": "A giant lance of ice summon by Cocolia. It's surrounded by an icy cold current that can tear through flesh like a blade."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -3934,13 +3647,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec"
@@ -3984,7 +3691,8 @@ var _monster = [
             "CH": "可可利亚召唤出的巨大冰矛，环绕着能如刀刃般撕裂肉身的极寒气流。",
             "EN": "A giant lance of ice summon by Cocolia. It's surrounded by an icy cold current that can tear through flesh like a blade."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -3992,13 +3700,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Quantum"
@@ -4042,7 +3744,8 @@ var _monster = [
             "CH": "守护者创造的巨大冰矛，能释放出席卷全场的刺骨霜风。",
             "EN": "A giant lance of ice created by the guardian. It can unleash a piercing frost wind that sweeps across the field."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.75,
             "ATK": 18.0,
@@ -4050,13 +3753,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec"
@@ -4106,7 +3803,8 @@ var _monster = [
             "CH": "守护者创造的巨大冰矛，能释放出席卷全场的刺骨霜风。",
             "EN": "A giant lance of ice created by the guardian. It can unleash a piercing frost wind that sweeps across the field."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.75,
             "ATK": 18.0,
@@ -4114,13 +3812,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Quantum"
@@ -4170,7 +3862,8 @@ var _monster = [
             "CH": "可可利亚召唤出的巨大冰矛，环绕着能如刀刃般撕裂肉身的极寒气流。",
             "EN": "A giant lance of ice summon by Cocolia. It's surrounded by an icy cold current that can tear through flesh like a blade."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.25,
             "ATK": 18.0,
@@ -4178,13 +3871,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 4.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec"
@@ -4234,7 +3921,8 @@ var _monster = [
             "CH": "可可利亚召唤出的巨大冰矛，环绕着能如刀刃般撕裂肉身的极寒气流。",
             "EN": "A giant lance of ice summon by Cocolia. It's surrounded by an icy cold current that can tear through flesh like a blade."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.25,
             "ATK": 18.0,
@@ -4242,13 +3930,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 4.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Quantum"
@@ -4298,7 +3980,8 @@ var _monster = [
             "CH": "银鬃铁卫中的炮手，使用便携的手炮进行战斗。<br> 在战斗中，银鬃炮手会和其它目标发动猛烈的连携攻击。",
             "EN": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, Silvermane Cannoneers will launch brutal chain attacks with their allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.1,
             "ATK": 18.0,
@@ -4306,13 +3989,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -4361,7 +4038,8 @@ var _monster = [
             "CH": "银鬃铁卫中的炮手，使用便携的手炮进行战斗。<br> 在战斗中，银鬃炮手会和其它目标发动猛烈的连携攻击。",
             "EN": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, Silvermane Cannoneers will launch brutal chain attacks with their allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.1,
             "ATK": 19.99998,
@@ -4369,13 +4047,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -4424,7 +4096,8 @@ var _monster = [
             "CH": "银鬃铁卫中的炮手，使用便携的手炮进行战斗。<br> 在战斗中，银鬃炮手会和其它目标发动猛烈的连携攻击。",
             "EN": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, Silvermane Cannoneers will launch brutal chain attacks with their allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.1,
             "ATK": 19.99998,
@@ -4432,13 +4105,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -4487,7 +4154,8 @@ var _monster = [
             "CH": "银鬃铁卫中的炮手，使用便携的手炮进行战斗。<br> 在战斗中，银鬃炮手会和其它目标发动猛烈的连携攻击。",
             "EN": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, Silvermane Cannoneers will launch brutal chain attacks with their allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.1,
             "ATK": 12.00006,
@@ -4495,13 +4163,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -4550,7 +4212,8 @@ var _monster = [
             "CH": "银鬃铁卫中的炮手，使用便携的手炮进行战斗。<br> 在战斗中，银鬃炮手会和其它目标发动猛烈的连携攻击。",
             "EN": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, Silvermane Cannoneers will launch brutal chain attacks with their allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.0,
             "ATK": 14.99994,
@@ -4559,10 +4222,6 @@ var _monster = [
             "Stance": 3.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -1.0
         },
         "Weak": [
@@ -4613,7 +4272,8 @@ var _monster = [
             "CH": "银鬃铁卫中的炮手，使用便携的手炮进行战斗。<br> 在战斗中，银鬃炮手会和其它目标发动猛烈的连携攻击。",
             "EN": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, Silvermane Cannoneers will launch brutal chain attacks with their allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.4,
             "ATK": 30.00006,
@@ -4621,13 +4281,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -4676,7 +4330,8 @@ var _monster = [
             "CH": "银鬃铁卫中的炮手，使用便携的手炮进行战斗。<br> 在战斗中，银鬃炮手会和其它目标发动猛烈的连携攻击。",
             "EN": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, Silvermane Cannoneers will launch brutal chain attacks with their allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.1,
             "ATK": 30.00006,
@@ -4684,13 +4339,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -4739,7 +4388,8 @@ var _monster = [
             "CH": "银鬃铁卫中的炮手，使用便携的手炮进行战斗。<br> 在战斗中，银鬃炮手会和其它目标发动猛烈的连携攻击。",
             "EN": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, Silvermane Cannoneers will launch brutal chain attacks with their allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.55,
             "ATK": 14.99994,
@@ -4748,10 +4398,6 @@ var _monster = [
             "Stance": 3.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -1.0
         },
         "Weak": [
@@ -4802,7 +4448,8 @@ var _monster = [
             "CH": "银鬃铁卫中的炮手，使用便携的手炮进行战斗。<br> 在战斗中，银鬃炮手会和其它目标发动猛烈的连携攻击。",
             "EN": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, Silvermane Cannoneers will launch brutal chain attacks with their allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.5,
             "ATK": 9.0,
@@ -4810,13 +4457,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -4865,7 +4506,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，形如某种载具，然而人们似乎早就忘却了它载具的用途。<br>战斗中自动机兵「战犬」能提供支援，回复战友的生命。",
             "EN": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.4,
             "ATK": 18.0,
@@ -4873,13 +4515,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec"
@@ -4922,7 +4558,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，形如某种载具，然而人们似乎早就忘却了它载具的用途。<br>战斗中自动机兵「战犬」能提供支援，回复战友的生命。",
             "EN": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.4,
             "ATK": 18.0,
@@ -4930,13 +4567,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -4979,7 +4610,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，形如某种载具，然而人们似乎早就忘却了它载具的用途。<br>战斗中自动机兵「战犬」能提供支援，回复战友的生命。",
             "EN": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.4,
             "ATK": 18.0,
@@ -4987,13 +4619,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -5036,21 +4662,16 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，形如某种载具，然而人们似乎早就忘却了它载具的用途。<br>战斗中自动机兵「战犬」能提供支援，回复战友的生命。",
             "EN": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies."
         },
-        "Curve": 2,
+        "HardLevelGroup": 1,
+        "EliteGroup": 2,
         "Stats": {
-            "HP": 2.38,
-            "ATK": 14.4,
+            "HP": 1.4,
+            "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -5093,7 +4714,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，形如某种载具，然而人们似乎早就忘却了它载具的用途。<br>战斗中自动机兵「战犬」能提供支援，回复战友的生命。",
             "EN": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.2,
             "ATK": 9.0,
@@ -5101,13 +4723,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec"
@@ -5150,7 +4766,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，形如某种载具，然而人们似乎早就忘却了它载具的用途。<br>战斗中自动机兵「战犬」能提供支援，回复战友的生命。",
             "EN": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.1,
             "ATK": 30.00006,
@@ -5158,13 +4775,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec"
@@ -5207,7 +4818,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，形如某种载具，然而人们似乎早就忘却了它载具的用途。<br>战斗中自动机兵「战犬」能提供支援，回复战友的生命。",
             "EN": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.5,
             "ATK": 14.99994,
@@ -5215,13 +4827,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec"
@@ -5264,7 +4870,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，形如某种载具，然而人们似乎早就忘却了它载具的用途。<br>战斗中自动机兵「战犬」能提供支援，回复战友的生命。",
             "EN": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.4,
             "ATK": 18.0,
@@ -5272,13 +4879,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec"
@@ -5321,7 +4922,8 @@ var _monster = [
             "CH": "「记忆」和「照片」很相似。它看似记录了「真实」，但却在侵入「真实」、异化「真实」、篡改「真实」。也许清除其中的「失真」会使它变得可靠，也许不会。",
             "EN": "\"Memory\" is similar to \"photographs\". Even though it appears to record \"reality,\" it actually invades, alienates, and alters \"reality.\" Perhaps removing the \"distortion\" will make it reliable, or perhaps not."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.4,
             "ATK": 18.0,
@@ -5329,13 +4931,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec"
@@ -5378,7 +4974,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，形如某种载具，然而人们似乎早就忘却了它载具的用途。<br>战斗中自动机兵「战犬」能提供支援，回复战友的生命。",
             "EN": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.7,
             "ATK": 18.0,
@@ -5386,13 +4983,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec"
@@ -5440,7 +5031,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责替代人类进行最基础的体力劳动。<br>战斗中，自动机兵「蜘蛛」的动力非常不稳定，极易在损毁时发生殉爆事故。",
             "EN": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor.<br>In combat, Automaton Spiders are highly unstable, capable of exploding when damaged."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.75,
             "ATK": 18.0,
@@ -5448,13 +5040,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind"
@@ -5505,7 +5091,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责替代人类进行最基础的体力劳动。<br>战斗中，自动机兵「蜘蛛」的动力非常不稳定，极易在损毁时发生殉爆事故。",
             "EN": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor.<br>In combat, Automaton Spiders are highly unstable, capable of exploding when damaged."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.5,
             "ATK": 30.00006,
@@ -5514,10 +5101,6 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 1.0
         },
         "Weak": [
@@ -5570,7 +5153,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责替代人类进行最基础的体力劳动。<br>战斗中，自动机兵「蜘蛛」的动力非常不稳定，极易在损毁时发生殉爆事故。",
             "EN": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor.<br>In combat, Automaton Spiders are highly unstable, capable of exploding when damaged."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.5,
             "ATK": 30.00006,
@@ -5579,10 +5163,6 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 1.0
         },
         "Weak": [
@@ -5635,7 +5215,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责替代人类进行最基础的体力劳动。<br>战斗中，自动机兵「蜘蛛」的动力非常不稳定，极易在损毁时发生殉爆事故。",
             "EN": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor.<br>In combat, Automaton Spiders are highly unstable, capable of exploding when damaged."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.75,
             "ATK": 18.0,
@@ -5643,13 +5224,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind"
@@ -5700,7 +5275,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责替代人类进行最基础的体力劳动。<br>战斗中，自动机兵「蜘蛛」的动力非常不稳定，极易在损毁时发生殉爆事故。",
             "EN": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor.<br>In combat, Automaton Spiders are highly unstable, capable of exploding when damaged."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.75,
             "ATK": 18.0,
@@ -5708,13 +5284,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind"
@@ -5764,7 +5334,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责替代人类进行最基础的体力劳动。<br>战斗中，自动机兵「蜘蛛」的动力非常不稳定，极易在损毁时发生殉爆事故。",
             "EN": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor.<br>In combat, Automaton Spiders are highly unstable, capable of exploding when damaged."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.75,
             "ATK": 18.0,
@@ -5772,13 +5343,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind"
@@ -5828,7 +5393,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责替代人类进行最基础的体力劳动。<br>战斗中，自动机兵「蜘蛛」的动力非常不稳定，极易在损毁时发生殉爆事故。",
             "EN": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor.<br>In combat, Automaton Spiders are highly unstable, capable of exploding when damaged."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -5836,13 +5402,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind"
@@ -5892,7 +5452,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责替代人类进行最基础的体力劳动。<br>战斗中，自动机兵「蜘蛛」的动力非常不稳定，极易在损毁时发生殉爆事故。",
             "EN": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor.<br>In combat, Automaton Spiders are highly unstable, capable of exploding when damaged."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.75,
             "ATK": 18.0,
@@ -5900,13 +5461,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind"
@@ -5956,7 +5511,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责替代人类进行最基础的体力劳动。<br>战斗中，自动机兵「蜘蛛」的动力非常不稳定，极易在损毁时发生殉爆事故。",
             "EN": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor.<br>In combat, Automaton Spiders are highly unstable, capable of exploding when damaged."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.4,
             "ATK": 14.99994,
@@ -5965,9 +5521,6 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": 37.0,
             "Stance": -1.0
         },
@@ -6020,7 +5573,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责替代人类进行最基础的体力劳动。<br>战斗中，自动机兵「蜘蛛」的动力非常不稳定，极易在损毁时发生殉爆事故。",
             "EN": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor.<br>In combat, Automaton Spiders are highly unstable, capable of exploding when damaged."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.75,
             "ATK": 30.00006,
@@ -6028,13 +5582,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind"
@@ -6084,7 +5632,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责替代人类进行最基础的体力劳动。<br>战斗中，自动机兵「蜘蛛」的动力非常不稳定，极易在损毁时发生殉爆事故。",
             "EN": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor.<br>In combat, Automaton Spiders are highly unstable, capable of exploding when damaged."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.75,
             "ATK": 18.0,
@@ -6092,13 +5641,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind"
@@ -6148,7 +5691,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责替代人类进行最基础的体力劳动。<br>战斗中，自动机兵「蜘蛛」的动力非常不稳定，极易在损毁时发生殉爆事故。",
             "EN": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor.<br>In combat, Automaton Spiders are highly unstable, capable of exploding when damaged."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.81,
             "ATK": 13.84614,
@@ -6157,9 +5701,6 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": 27.0,
             "Stance": -1.0
         },
@@ -6212,7 +5753,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责替代人类进行最基础的体力劳动。<br>战斗中，自动机兵「蜘蛛」的动力非常不稳定，极易在损毁时发生殉爆事故。",
             "EN": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor.<br>In combat, Automaton Spiders are highly unstable, capable of exploding when damaged."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.75,
             "ATK": 18.0,
@@ -6220,13 +5762,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind"
@@ -6276,7 +5812,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责移动的附肢上装置着信号灯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「甲虫」会创造力场护盾保护自己。",
             "EN": "An automaton pieced together with Old World technology. A signal light is placed on its legs, and the unit may have been used for mining or construction operations.<br>In combat, Automaton Beetles can create forcefields to shield themselves."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.4,
             "ATK": 18.0,
@@ -6284,13 +5821,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -6332,7 +5863,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责移动的附肢上装置着信号灯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「甲虫」会创造力场护盾保护自己。",
             "EN": "An automaton pieced together with Old World technology. A signal light is placed on its legs, and the unit may have been used for mining or construction operations.<br>In combat, Automaton Beetles can create forcefields to shield themselves."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.4,
             "ATK": 14.99994,
@@ -6340,13 +5872,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -6395,21 +5921,16 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责移动的附肢上装置着信号灯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「甲虫」会创造力场护盾保护自己。",
             "EN": "An automaton pieced together with Old World technology. A signal light is placed on its legs, and the unit may have been used for mining or construction operations.<br>In combat, Automaton Beetles can create forcefields to shield themselves."
         },
-        "Curve": 2,
+        "HardLevelGroup": 1,
+        "EliteGroup": 2,
         "Stats": {
-            "HP": 2.38,
-            "ATK": 14.4,
+            "HP": 1.4,
+            "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -6458,7 +5979,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责移动的附肢上装置着信号灯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「甲虫」会创造力场护盾保护自己。",
             "EN": "An automaton pieced together with Old World technology. A signal light is placed on its legs, and the unit may have been used for mining or construction operations.<br>In combat, Automaton Beetles can create forcefields to shield themselves."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 5.0,
             "ATK": 18.0,
@@ -6467,10 +5989,6 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 1.0
         },
         "Weak": [
@@ -6514,7 +6032,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责移动的附肢上装置着信号灯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「甲虫」会创造力场护盾保护自己。",
             "EN": "An automaton pieced together with Old World technology. A signal light is placed on its legs, and the unit may have been used for mining or construction operations.<br>In combat, Automaton Beetles can create forcefields to shield themselves."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.4,
             "ATK": 18.0,
@@ -6522,13 +6041,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -6570,7 +6083,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责移动的附肢上装置着信号灯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「甲虫」会创造力场护盾保护自己。",
             "EN": "An automaton pieced together with Old World technology. A signal light is placed on its legs, and the unit may have been used for mining or construction operations.<br>In combat, Automaton Beetles can create forcefields to shield themselves."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.7,
             "ATK": 18.0,
@@ -6578,13 +6092,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -6626,7 +6134,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责移动的附肢上装置着信号灯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「甲虫」会创造力场护盾保护自己。",
             "EN": "An automaton pieced together with Old World technology. A signal light is placed on its legs, and the unit may have been used for mining or construction operations.<br>In combat, Automaton Beetles can create forcefields to shield themselves."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.1,
             "ATK": 8.18172,
@@ -6634,13 +6143,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -6682,7 +6185,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责移动的附肢上装置着信号灯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「甲虫」会创造力场护盾保护自己。",
             "EN": "An automaton pieced together with Old World technology. A signal light is placed on its legs, and the unit may have been used for mining or construction operations.<br>In combat, Automaton Beetles can create forcefields to shield themselves."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.0,
             "ATK": 30.00006,
@@ -6690,13 +6194,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -6738,7 +6236,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责移动的附肢上装置着信号灯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「甲虫」会创造力场护盾保护自己。",
             "EN": "An automaton pieced together with Old World technology. A signal light is placed on its legs, and the unit may have been used for mining or construction operations.<br>In combat, Automaton Beetles can create forcefields to shield themselves."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.55,
             "ATK": 14.99994,
@@ -6746,13 +6245,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -6794,7 +6287,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责移动的附肢上装置着信号灯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「甲虫」会创造力场护盾保护自己。",
             "EN": "An automaton pieced together with Old World technology. A signal light is placed on its legs, and the unit may have been used for mining or construction operations.<br>In combat, Automaton Beetles can create forcefields to shield themselves."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -6802,13 +6296,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -6850,7 +6338,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责移动的附肢上装置着信号灯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「甲虫」会创造力场护盾保护自己。",
             "EN": "An automaton pieced together with Old World technology. A signal light is placed on its legs, and the unit may have been used for mining or construction operations.<br>In combat, Automaton Beetles can create forcefields to shield themselves."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.4,
             "ATK": 18.0,
@@ -6858,13 +6347,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -6906,7 +6389,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责移动的附肢上装置着信号灯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「甲虫」会创造力场护盾保护自己。",
             "EN": "An automaton pieced together with Old World technology. A signal light is placed on its legs, and the unit may have been used for mining or construction operations.<br>In combat, Automaton Beetles can create forcefields to shield themselves."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.4,
             "ATK": 18.0,
@@ -6914,13 +6398,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -6962,7 +6440,8 @@ var _monster = [
             "CH": "「记忆」和「照片」很相似。它看似记录了「真实」，但却在侵入「真实」、异化「真实」、篡改「真实」。也许清除其中的「失真」会使它变得可靠，也许不会。",
             "EN": "\"Memory\" is similar to \"photographs\". Even though it appears to record \"reality,\" it actually invades, alienates, and alters \"reality.\" Perhaps removing the \"distortion\" will make it reliable, or perhaps not."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.4,
             "ATK": 18.0,
@@ -6970,13 +6449,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -7018,7 +6491,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，加装了厚重的铠甲，用于冲锋陷阵保护银鬃铁卫。<br>战斗中，自动机兵「灰熊」会发出信号召来「蜘蛛」合作战斗，同时会积蓄动能发出强力一击。",
             "EN": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 13.0,
             "ATK": 18.0,
@@ -7026,13 +6500,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 14.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -7084,7 +6552,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，加装了厚重的铠甲，用于冲锋陷阵保护银鬃铁卫。<br>战斗中，自动机兵「灰熊」会发出信号召来「蜘蛛」合作战斗，同时会积蓄动能发出强力一击。",
             "EN": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 13.0,
             "ATK": 14.99994,
@@ -7093,10 +6562,6 @@ var _monster = [
             "Stance": 14.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -2.0
         },
         "Weak": [
@@ -7157,7 +6622,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，加装了厚重的铠甲，用于冲锋陷阵保护银鬃铁卫。<br>战斗中，自动机兵「灰熊」会发出信号召来「蜘蛛」合作战斗，同时会积蓄动能发出强力一击。",
             "EN": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 12.0,
             "ATK": 14.99994,
@@ -7166,10 +6632,6 @@ var _monster = [
             "Stance": 14.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -2.0
         },
         "Weak": [
@@ -7223,7 +6685,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，加装了厚重的铠甲，用于冲锋陷阵保护银鬃铁卫。<br>战斗中，自动机兵「灰熊」会发出信号召来「蜘蛛」合作战斗，同时会积蓄动能发出强力一击。",
             "EN": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 13.0,
             "ATK": 18.0,
@@ -7231,13 +6694,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 14.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -7289,7 +6746,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，加装了厚重的铠甲，用于冲锋陷阵保护银鬃铁卫。<br>战斗中，自动机兵「灰熊」会发出信号召来「蜘蛛」合作战斗，同时会积蓄动能发出强力一击。",
             "EN": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 20.0,
             "ATK": 18.0,
@@ -7298,10 +6756,6 @@ var _monster = [
             "Stance": 14.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -2.0
         },
         "Weak": [
@@ -7362,7 +6816,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，加装了厚重的铠甲，用于冲锋陷阵保护银鬃铁卫。<br>战斗中，自动机兵「灰熊」会发出信号召来「蜘蛛」合作战斗，同时会积蓄动能发出强力一击。",
             "EN": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -7370,13 +6825,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 14.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -7428,7 +6877,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，加装了厚重的铠甲，用于冲锋陷阵保护银鬃铁卫。<br>战斗中，自动机兵「灰熊」会发出信号召来「蜘蛛」合作战斗，同时会积蓄动能发出强力一击。",
             "EN": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 13.0,
             "ATK": 18.0,
@@ -7436,13 +6886,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 14.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -7494,7 +6938,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，加装了厚重的铠甲，用于冲锋陷阵保护银鬃铁卫。<br>战斗中，自动机兵「灰熊」会发出信号召来「蜘蛛」合作战斗，同时会积蓄动能发出强力一击。",
             "EN": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 13.0,
             "ATK": 18.0,
@@ -7502,13 +6947,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 14.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -7560,7 +6999,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，加装了厚重的铠甲，用于冲锋陷阵保护银鬃铁卫。<br>战斗中，自动机兵「灰熊」会发出信号召来「蜘蛛」合作战斗，同时会积蓄动能发出强力一击。",
             "EN": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 60.0,
             "ATK": 18.0,
@@ -7568,13 +7008,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 14.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -7626,7 +7060,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，加装了厚重的铠甲，用于冲锋陷阵保护银鬃铁卫。<br>战斗中，自动机兵「灰熊」会发出信号召来「蜘蛛」合作战斗，同时会积蓄动能发出强力一击。",
             "EN": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.3,
             "ATK": 18.0,
@@ -7635,10 +7070,6 @@ var _monster = [
             "Stance": 14.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -8.0
         },
         "Weak": [
@@ -7692,7 +7123,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，加装了厚重的铠甲，用于冲锋陷阵保护银鬃铁卫。<br>战斗中，自动机兵「灰熊」会发出信号召来「蜘蛛」合作战斗，同时会积蓄动能发出强力一击。",
             "EN": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -7700,13 +7132,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 14.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -7758,7 +7184,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，加装了厚重的铠甲，用于冲锋陷阵保护银鬃铁卫。<br>战斗中，自动机兵「灰熊」会发出信号召来「蜘蛛」合作战斗，同时会积蓄动能发出强力一击。",
             "EN": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 13.0,
             "ATK": 18.0,
@@ -7766,13 +7193,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 14.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -7824,7 +7245,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，加装了厚重的铠甲，用于冲锋陷阵保护银鬃铁卫。<br>战斗中，自动机兵「灰熊」会发出信号召来「蜘蛛」合作战斗，同时会积蓄动能发出强力一击。",
             "EN": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 22.5,
             "ATK": 25.71426,
@@ -7833,10 +7255,6 @@ var _monster = [
             "Stance": 14.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 2.0
         },
         "Weak": [
@@ -7890,7 +7308,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，加装了厚重的铠甲，用于冲锋陷阵保护银鬃铁卫。<br>战斗中，自动机兵「灰熊」会发出信号召来「蜘蛛」合作战斗，同时会积蓄动能发出强力一击。",
             "EN": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.7,
             "ATK": 18.0,
@@ -7898,13 +7317,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 14.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -7956,7 +7369,8 @@ var _monster = [
             "CH": "代码受到影响后的错误投影。参照本体为以旧世界遗留的科技拼凑制造的自动机器单元，加装了厚重的铠甲，用于冲锋陷阵保护银鬃铁卫。<br>战斗中，自动机兵「灰熊」（错误）会发出信号召来「蜘蛛」和「甲虫」合作战斗，同时会积蓄动能发出强力攻击。",
             "EN": "A false projection produced by compromised codes. The original reference entity is an automaton pieced together with Old World technology. It's been reinforced with durable armor to charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlies (Bug) will send out a signal to summon Automaton Spiders and Beatles, and at the same time unleash powerful charged attacks."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 18.0,
             "ATK": 18.0,
@@ -7964,13 +7378,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 16.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -8022,7 +7430,8 @@ var _monster = [
             "CH": "代码受到影响后的完整投影。参照本体为以旧世界遗留的科技拼凑制造的自动机器单元，加装了厚重的铠甲，用于冲锋陷阵保护银鬃铁卫。<br>战斗中，自动机兵「灰熊」（完整）会发出信号召来「蜘蛛」合作战斗，同时会积蓄动能发出强力一击。",
             "EN": "A complete projection produced by compromised codes. The original reference entity is an automaton pieced together with Old World technology. It's been reinforced with durable armor so that it could charge into battle and offer protection for the Silvermane Guards.<br>In combat, Automaton Grizzly (Complete) will send out a signal to summon Automaton Spiders, and at the same time unleash powerful charged attacks."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 7.5,
             "ATK": 18.0,
@@ -8030,13 +7439,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 16.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -8113,7 +7516,8 @@ var _monster = [
             "CH": "代码受到影响后的完整投影。参照本体为以旧世界遗留的科技拼凑制造的自动机器单元，加装了厚重的铠甲，用于冲锋陷阵保护银鬃铁卫。<br>战斗中，自动机兵「灰熊」（完整）会发出信号召来「蜘蛛」合作战斗，同时会积蓄动能发出强力一击。",
             "EN": "A complete projection produced by compromised codes. The referenced entity is an automaton pieced together with Old World technology. It's been reinforced with durable armor so that it could charge into battle and offer protection for the Silvermane Guards.<br>In combat, Automaton Grizzly (Complete) will send out a signal to summon Automaton Spiders, and at the same time unleash powerful charged attacks."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -8121,13 +7525,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 16.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -8195,7 +7593,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，加装了厚重的铠甲，用于冲锋陷阵保护银鬃铁卫。<br>战斗中，自动机兵「灰熊」会发出信号召来「蜘蛛」合作战斗，同时会积蓄动能发出强力一击。",
             "EN": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 13.0,
             "ATK": 14.99994,
@@ -8204,11 +7603,7 @@ var _monster = [
             "Stance": 14.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": -30.0,
-            "Stance": 0.0
+            "SPD": -30.0
         },
         "Weak": [
             "Fire",
@@ -8261,7 +7656,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，少见的人形机械，其右臂部分统一装置着链锯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「齿狼」的链锯会造成裂伤，令对手持续损失生命值。",
             "EN": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -8269,13 +7665,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Elec",
@@ -8320,7 +7710,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，少见的人形机械，其右臂部分统一装置着链锯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「齿狼」的链锯会造成裂伤，令对手持续损失生命值。",
             "EN": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 9.0,
             "ATK": 14.99994,
@@ -8329,10 +7720,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -4.0
         },
         "Weak": [
@@ -8379,7 +7766,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，少见的人形机械，其右臂部分统一装置着链锯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「齿狼」的链锯会造成裂伤，令对手持续损失生命值。",
             "EN": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.0,
             "ATK": 14.99994,
@@ -8388,9 +7776,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": 56.0,
             "Stance": -6.0
         },
@@ -8438,7 +7823,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，少见的人形机械，其右臂部分统一装置着链锯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「齿狼」的链锯会造成裂伤，令对手持续损失生命值。",
             "EN": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 12.0,
             "ATK": 22.5,
@@ -8447,9 +7833,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": -34.0,
             "Stance": 2.0
         },
@@ -8497,7 +7880,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，少见的人形机械，其右臂部分统一装置着链锯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「齿狼」的链锯会造成裂伤，令对手持续损失生命值。",
             "EN": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 7.0,
             "ATK": 18.0,
@@ -8505,13 +7889,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Elec",
@@ -8556,7 +7934,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，少见的人形机械，其右臂部分统一装置着链锯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「齿狼」的链锯会造成裂伤，令对手持续损失生命值。",
             "EN": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -8564,13 +7943,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Elec",
@@ -8615,7 +7988,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，少见的人形机械，其右臂部分统一装置着链锯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「齿狼」的链锯会造成裂伤，令对手持续损失生命值。",
             "EN": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 40.0,
             "ATK": 18.0,
@@ -8624,10 +7998,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 2.0
         },
         "Weak": [
@@ -8674,7 +8044,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，少见的人形机械，其右臂部分统一装置着链锯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「齿狼」的链锯会造成裂伤，令对手持续损失生命值。",
             "EN": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -8683,10 +8054,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 2.0
         },
         "Weak": [
@@ -8740,7 +8107,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，少见的人形机械，其右臂部分统一装置着链锯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「齿狼」的链锯会造成裂伤，令对手持续损失生命值。",
             "EN": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 9.0,
             "ATK": 18.0,
@@ -8748,13 +8116,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Elec",
@@ -8799,7 +8161,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，少见的人形机械，其右臂部分统一装置着链锯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「齿狼」的链锯会造成裂伤，令对手持续损失生命值。",
             "EN": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 21.5,
             "ATK": 18.0,
@@ -8807,13 +8170,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Elec",
@@ -8858,7 +8215,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，少见的人形机械，其右臂部分统一装置着链锯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「齿狼」的链锯会造成裂伤，令对手持续损失生命值。",
             "EN": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -8866,13 +8224,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Elec",
@@ -8917,7 +8269,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，少见的人形机械，其右臂部分统一装置着链锯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「齿狼」的链锯会造成裂伤，令对手持续损失生命值。",
             "EN": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -8925,13 +8278,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Elec",
@@ -8976,7 +8323,8 @@ var _monster = [
             "CH": "代码受到影响后的错误投影。参照本体为以旧世界遗留的科技拼凑制造的自动机器单元，少见的人形机械，其右臂部分统一装置着链锯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「齿狼」的链锯会造成裂伤，令对手持续损失生命值。",
             "EN": "A false projection produced by compromised codes. The referenced entity is an automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolf will use its chainsaw to Bleed enemies, dealing DoT."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -8984,13 +8332,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Elec",
@@ -9041,7 +8383,8 @@ var _monster = [
             "CH": "代码受到影响后的完整投影。参照本体为以旧世界遗留的科技拼凑制造的自动机器单元，少见的人形机械，其右臂部分统一装置着链锯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「齿狼」（完整）的链锯会造成裂伤，令对手持续损失生命值。",
             "EN": "A complete projection produced by compromised codes. The referenced entity is an automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolf (Complete) will use its chainsaw to Bleed enemies, dealing DoT."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 4.75,
             "ATK": 18.0,
@@ -9049,13 +8392,7 @@ var _monster = [
             "SPD": 172.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Elec",
@@ -9127,7 +8464,8 @@ var _monster = [
             "CH": "代码受到影响后的完整投影。参照本体为以旧世界遗留的科技拼凑制造的自动机器单元，少见的人形机械，其右臂部分统一装置着链锯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「齿狼」（完整）的链锯会造成裂伤，令对手持续损失生命值。",
             "EN": "A complete projection produced by compromised codes. The referenced entity is an automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolf (Complete) will use its chainsaw to Bleed enemies, dealing DoT."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.0,
             "ATK": 18.0,
@@ -9135,13 +8473,7 @@ var _monster = [
             "SPD": 172.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Elec",
@@ -9206,7 +8538,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，少见的人形机械，其右臂部分统一装置着链锯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「齿狼」的链锯会造成裂伤，令对手持续损失生命值。",
             "EN": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 14.99994,
@@ -9215,9 +8548,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": -54.0,
             "Stance": -4.0
         },
@@ -9265,7 +8595,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，少见的人形机械，其右臂部分统一装置着链锯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「齿狼」的链锯会造成裂伤，令对手持续损失生命值。",
             "EN": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 5.1,
             "ATK": 14.99994,
@@ -9274,10 +8605,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -4.0
         },
         "Weak": [
@@ -9324,7 +8651,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形，其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的冰棱所取代。<br>战斗中永冬灾影会挥舞冰造的斧刃，延缓敌人的行动。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by an icicle of faceless ice.<br>Everwinter Shadewalkers will swing their ice ax and slow their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -9332,13 +8660,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -9382,7 +8704,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形，其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的冰棱所取代。<br>战斗中永冬灾影会挥舞冰造的斧刃，延缓敌人的行动。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by an icicle of faceless ice.<br>Everwinter Shadewalkers will swing their ice ax and slow their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -9390,13 +8713,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -9440,7 +8757,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形，其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的冰棱所取代。<br>战斗中永冬灾影会挥舞冰造的斧刃，延缓敌人的行动。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by an icicle of faceless ice.<br>Everwinter Shadewalkers will swing their ice ax and slow their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.9,
             "ATK": 14.99994,
@@ -9448,13 +8766,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -9498,7 +8810,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形，其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的冰棱所取代。<br>战斗中永冬灾影会挥舞冰造的斧刃，延缓敌人的行动。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by an icicle of faceless ice.<br>Everwinter Shadewalkers will swing their ice ax and slow their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.9,
             "ATK": 14.99994,
@@ -9507,10 +8820,6 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 3.0
         },
         "Weak": [
@@ -9556,7 +8865,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形，其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的冰棱所取代。<br>战斗中永冬灾影会挥舞冰造的斧刃，延缓敌人的行动。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by an icicle of faceless ice.<br>Everwinter Shadewalkers will swing their ice ax and slow their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.1,
             "ATK": 30.00006,
@@ -9564,13 +8874,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -9614,7 +8918,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形，其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的冰棱所取代。<br>战斗中永冬灾影会挥舞冰造的斧刃，延缓敌人的行动。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by an icicle of faceless ice.<br>Everwinter Shadewalkers will swing their ice ax and slow their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.95,
             "ATK": 18.0,
@@ -9622,13 +8927,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -9672,7 +8971,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形。其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的燃烬所取代。<br>战斗中火焚灾影会挥舞燃烧的斧刃，灼烧敌人。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -9680,13 +8980,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind",
@@ -9730,7 +9024,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形。其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的燃烬所取代。<br>战斗中火焚灾影会挥舞燃烧的斧刃，灼烧敌人。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -9738,13 +9033,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind",
@@ -9788,7 +9077,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形。其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的燃烬所取代。<br>战斗中火焚灾影会挥舞燃烧的斧刃，灼烧敌人。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 12.00006,
@@ -9796,13 +9086,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind",
@@ -9846,7 +9130,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形。其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的燃烬所取代。<br>战斗中火焚灾影会挥舞燃烧的斧刃，灼烧敌人。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.9,
             "ATK": 14.99994,
@@ -9855,10 +9140,6 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 3.0
         },
         "Weak": [
@@ -9904,7 +9185,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形。其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的燃烬所取代。<br>战斗中火焚灾影会挥舞燃烧的斧刃，灼烧敌人。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.25,
             "ATK": 30.00006,
@@ -9912,13 +9194,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind",
@@ -9962,7 +9238,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形。其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的燃烬所取代。<br>战斗中火焚灾影会挥舞燃烧的斧刃，灼烧敌人。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.1,
             "ATK": 30.00006,
@@ -9970,13 +9247,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind",
@@ -10020,7 +9291,8 @@ var _monster = [
             "CH": "罗浮仙舟云骑军地面巡防部队的成员，手持阵刀，身着轻银打造的铠甲，维护各个洞天的日常秩序。",
             "EN": "Member of the ground patrol division of the Xianzhou Luofu Cloud Knights. Wearing a light set of silver armor and with a Devastator Glaive in hand, they are in charge of maintaining order in every delve."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -10028,13 +9300,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Wind",
@@ -10084,7 +9350,8 @@ var _monster = [
             "CH": "「记忆」和「照片」很相似。它看似记录了「真实」，但却在侵入「真实」、异化「真实」、篡改「真实」。也许清除其中的「失真」会使它变得可靠，也许不会。",
             "EN": "\"Memory\" is similar to \"photographs\". Even though it appears to record \"reality,\" it actually invades, alienates, and alters \"reality.\" Perhaps removing the \"distortion\" will make it reliable, or perhaps not."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -10092,13 +9359,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Wind",
@@ -10148,7 +9409,8 @@ var _monster = [
             "CH": "追随十王司判官执行任务的武卫。<br>面戴象征冥世来使的黑白绘面，手持铡刀，其攻击一如十王司的使命沉重而不可违逆。",
             "EN": "A somber warrior that accompanies the Judges of the Ten-Lords Commission to execute missions.<br>Adorned with the black and white mask that symbolizes the netherworld envoy, they wield a guillotine blade, their strikes echoing the weighty and unyielding duty of the Ten-Lords Commission."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -10156,13 +9418,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -10204,7 +9460,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如负载电荷，喷薄雷霆的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird brimming with electricity, releasing thunderclaps in all directions."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -10212,13 +9469,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Wind"
@@ -10262,7 +9513,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如气流缠绕，驰翔疾风的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird engulfed in twisting winds, raging on like a tornado."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -10270,13 +9522,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec"
@@ -10320,7 +9566,8 @@ var _monster = [
             "CH": "不知何故陷入狂乱的仙舟士兵，躯壳已不见人形，只余无穷的增生变异。相传无量寿中，仙舟人会堕入名为「魔阴身」的状态。",
             "EN": "Soldiers of the Xianzhou who somehow fell into madness. Their bodies continue to grow and mutate and have long lost their humanoid form. It is said that the long-lived Xianzhou natives would eventually be stricken with mara."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -10328,13 +9575,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -10383,7 +9624,8 @@ var _monster = [
             "CH": "不知何故陷入狂乱的仙舟士兵，躯壳已不见人形，只余无穷的增生变异。相传无量寿中，仙舟人会堕入名为「魔阴身」的状态。",
             "EN": "Soldiers of the Xianzhou who somehow fell into madness. Their bodies continue to grow and mutate and have long lost their humanoid form. It is said that the long-lived Xianzhou natives would eventually be stricken with mara."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.8,
             "ATK": 14.99994,
@@ -10391,13 +9633,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -10446,7 +9682,8 @@ var _monster = [
             "CH": "不知何故陷入狂乱的仙舟士兵，躯壳已不见人形，只余无穷的增生变异。相传无量寿中，仙舟人会堕入名为「魔阴身」的状态。",
             "EN": "Soldiers of the Xianzhou who somehow fell into madness. Their bodies continue to grow and mutate and have long lost their humanoid form. It is said that the long-lived Xianzhou natives would eventually be stricken with mara."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -10455,11 +9692,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 61.0,
-            "Stance": 0.0
+            "SPD": 61.0
         },
         "Weak": [
             "Fire",
@@ -10509,7 +9742,8 @@ var _monster = [
             "CH": "以云吟之术消隐身形的刺客，不知受何人所遣。",
             "EN": "An assassin who conceals their presence using the Cloudhymn technique. It is unclear by whom they are sent."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -10517,13 +9751,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -10572,7 +9800,8 @@ var _monster = [
             "CH": "「记忆」和「照片」很相似。它看似记录了「真实」，但却在侵入「真实」、异化「真实」、篡改「真实」。也许清除其中的「失真」会使它变得可靠，也许不会。",
             "EN": "\"Memory\" is similar to \"photographs\". Even though it appears to record \"reality,\" it actually invades, alienates, and alters \"reality.\" Perhaps removing the \"distortion\" will make it reliable, or perhaps not."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -10580,13 +9809,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -10635,7 +9858,8 @@ var _monster = [
             "CH": "潜伏于罗浮仙舟中的秘密传承「药王秘传」的成员。<br>得药炼心，结丹炼己。他们渴求复兴古老的丰饶之秘，令仙舟人跨入下一阶段的进化。",
             "EN": "A member of the Disciples of Sanctus Medicus, the secret sect that hid within the Xianzhou Luofu. <br>With medicine, purify the heart. With elixir, transform one's body. They long to revive the ancient mysteries of Abundance, hoping to spur Xianzhou natives towards their next stage of evolution."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -10643,13 +9867,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Imaginary"
@@ -10693,7 +9911,8 @@ var _monster = [
             "CH": "潜伏于罗浮仙舟中的秘密传承「药王秘传」的成员。<br>得药炼心，结丹炼己。他们渴求复兴古老的丰饶之秘，令仙舟人跨入下一阶段的进化。",
             "EN": "A member of the Disciples of Sanctus Medicus, the secret sect that hid within the Xianzhou Luofu. <br>With medicine, purify the heart. With elixir, transform one's body. They long to revive the ancient mysteries of Abundance, hoping to spur Xianzhou natives towards their next stage of evolution."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.2,
             "ATK": 14.99994,
@@ -10701,13 +9920,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Imaginary"
@@ -10751,7 +9964,8 @@ var _monster = [
             "CH": "以云吟之术消隐身形的刺客，不知受何人所遣。",
             "EN": "An assassin who conceals their presence using the Cloudhymn technique. It is unclear by whom they are sent."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -10759,13 +9973,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Imaginary"
@@ -10809,7 +10017,8 @@ var _monster = [
             "CH": "堕入魔阴身的十王司武卫。<br>只要还是血肉凡胎，仙舟人终不能斩断宿命。",
             "EN": "A Ten-Lords Commission soldier that has fallen to mara.<br>As long as they are still mortals of flesh and blood, the people of Xianzhou will never be able to escape their fate."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -10817,13 +10026,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Elec",
@@ -10867,7 +10070,8 @@ var _monster = [
             "CH": "渴求复兴古老的丰饶之秘，并引领仙舟人再度踏上解脱登仙大道的修炼者。<br>如今，他们的愿望得遂。受赐于古老神迹的力量，以其为甲胄、为武器，并触及了长生不死的秘密。",
             "EN": "A cultivator who longs to revive the ancient mysteries of Abundance, and to guide the Xianzhou natives back on the liberating path of immortality.<br>Now, their wish has been fulfilled. Gifted by the power of the ancient miracle and using it as both weapon and armor, they managed to touch on the secret of immortality."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 12.0,
             "ATK": 18.0,
@@ -10875,13 +10079,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind",
@@ -10927,7 +10125,8 @@ var _monster = [
             "CH": "渴求复兴古老的丰饶之秘，并引领仙舟人再度踏上解脱登仙大道的修炼者。<br>如今，他们的愿望得遂。受赐于古老神迹的力量，以其为甲胄、为武器，并触及了长生不死的秘密。",
             "EN": "A cultivator who longs to revive the ancient mysteries of Abundance, and to guide the Xianzhou natives back on the liberating path of immortality.<br>Now, their wish has been fulfilled. Gifted by the power of the ancient miracle and using it as both weapon and armor, they managed to touch on the secret of immortality."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 7.0,
             "ATK": 18.0,
@@ -10936,10 +10135,6 @@ var _monster = [
             "Stance": 12.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -4.0
         },
         "Weak": [
@@ -10987,7 +10182,8 @@ var _monster = [
             "CH": "渴求复兴古老的丰饶之秘，并引领仙舟人再度踏上解脱登仙大道的修炼者。<br>如今，他们的愿望得遂。受赐于古老神迹的力量，以其为甲胄、为武器，并触及了长生不死的秘密。",
             "EN": "A cultivator who longs to revive the ancient mysteries of Abundance, and to guide the Xianzhou natives back on the liberating path of immortality.<br>Now, their wish has been fulfilled. Gifted by the power of the ancient miracle and using it as both weapon and armor, they managed to touch on the secret of immortality."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 7.0,
             "ATK": 18.0,
@@ -10996,10 +10192,6 @@ var _monster = [
             "Stance": 12.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -4.0
         },
         "Weak": [
@@ -11047,7 +10239,8 @@ var _monster = [
             "CH": "渴求复兴古老的丰饶之秘，并引领仙舟人再度踏上解脱登仙大道的修炼者。<br>如今，他们的愿望得遂。受赐于古老神迹的力量，以其为甲胄、为武器，并触及了长生不死的秘密。",
             "EN": "A cultivator who longs to revive the ancient mysteries of Abundance, and to guide the Xianzhou natives back on the liberating path of immortality.<br>Now, their wish has been fulfilled. Gifted by the power of the ancient miracle and using it as both weapon and armor, they managed to touch on the secret of immortality."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 12.0,
             "ATK": 18.0,
@@ -11055,13 +10248,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind",
@@ -11107,7 +10294,8 @@ var _monster = [
             "CH": "渴求复兴古老的丰饶之秘，并引领仙舟人再度踏上解脱登仙大道的修炼者。<br>如今，他们的愿望得遂。受赐于古老神迹的力量，以其为甲胄、为武器，并触及了长生不死的秘密。",
             "EN": "A cultivator who longs to revive the ancient mysteries of Abundance, and to guide the Xianzhou natives back on the liberating path of immortality.<br>Now, their wish has been fulfilled. Gifted by the power of the ancient miracle and using it as both weapon and armor, they managed to touch on the secret of immortality."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 5.0,
             "ATK": 18.0,
@@ -11116,10 +10304,6 @@ var _monster = [
             "Stance": 12.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -9.0
         },
         "Weak": [
@@ -11167,7 +10351,8 @@ var _monster = [
             "CH": "渴求复兴古老的丰饶之秘，并引领仙舟人再度踏上解脱登仙大道的修炼者。<br>如今，他们的愿望得遂。受赐于古老神迹的力量，以其为甲胄、为武器，并触及了长生不死的秘密。",
             "EN": "A cultivator who longs to revive the ancient mysteries of Abundance, and to guide the Xianzhou natives back on the liberating path of immortality.<br>Now, their wish has been fulfilled. Gifted by the power of the ancient miracle and using it as both weapon and armor, they managed to touch on the secret of immortality."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 9.0,
             "ATK": 18.0,
@@ -11176,10 +10361,6 @@ var _monster = [
             "Stance": 12.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -2.0
         },
         "Weak": [
@@ -11227,7 +10408,8 @@ var _monster = [
             "CH": "渴求复兴古老的丰饶之秘，并引领仙舟人再度踏上解脱登仙大道的修炼者。<br>如今，他们的愿望得遂。受赐于古老神迹的力量，以其为甲胄、为武器，并触及了长生不死的秘密。",
             "EN": "A cultivator who longs to revive the ancient mysteries of Abundance, and to guide the Xianzhou natives back on the liberating path of immortality.<br>Now, their wish has been fulfilled. Gifted by the power of the ancient miracle and using it as both weapon and armor, they managed to touch on the secret of immortality."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.0,
             "ATK": 14.99994,
@@ -11236,10 +10418,6 @@ var _monster = [
             "Stance": 12.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -4.0
         },
         "Weak": [
@@ -11287,7 +10465,8 @@ var _monster = [
             "CH": "以云吟之术消隐身形的刺客，不知受何人所遣。",
             "EN": "An assassin who conceals their presence using the Cloudhymn technique. It is unclear by whom they are sent."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -11295,13 +10474,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind",
@@ -11347,7 +10520,8 @@ var _monster = [
             "CH": "工造司匠人随手造就的机巧发明。原本是不具灵智，用以示警招众的警铃，如今却因为某些异变被赋予了短暂的「生命」。",
             "EN": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate alarm bell used for warnings, but now it has been given a short-lived \"life\" due to certain mutations."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.9,
             "ATK": 18.0,
@@ -11355,13 +10529,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Wind",
             "Imaginary"
@@ -11403,7 +10571,8 @@ var _monster = [
             "CH": "工造司匠人随手造就的机巧发明。原本是不具灵智，用以净化空气的香炉，如今却因为某些异变被赋予了短暂的「生命」。",
             "EN": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate burner used for purifying the air, but now it has been given a short-lived \"life\" due to certain mutations."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.9,
             "ATK": 18.0,
@@ -11411,13 +10580,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Quantum"
@@ -11459,7 +10622,8 @@ var _monster = [
             "CH": "工造司匠人随手造就的机巧发明。原本是不具灵智，用以烛照黑暗的灯具，如今却因为某些异变被赋予了短暂的「生命」。",
             "EN": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate illuminator used for casting light upon darkness, but now it has been given a short-lived \"life\" due to certain mutations."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -11467,13 +10631,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec",
@@ -11516,7 +10674,8 @@ var _monster = [
             "CH": "由小聪打造的「格律诗人」。<br>内置「灵感玉兆」，搜集诗体格式，节奏音律等素材，用于辅助诗歌格律的创作。",
             "EN": "A Metrical Poet created by Cong.<br>Its built-in \"Inspo Jade Abacus\" collects data such as poetry forms, rhythmic patterns, and so on, to aid in the creation of metrical poems."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -11524,13 +10683,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec",
@@ -11573,7 +10726,8 @@ var _monster = [
             "CH": "以古老机巧术铸造的镇守金人。<br>无数岁月前，金人随着仙舟出航求取仙方，监管和辅助人类进行战争——但历尽叛乱后，金人最终为仙舟人所降服。<br>而今所有的金人都被符箓严格宰制，用以把守机要重地。",
             "EN": "Garrison aurumaton created with ancient ingenium technology.<br>Countless years ago, the aurumatons set sail with the Xianzhou to seek divine recipes of immortality, and were tasked to oversee humanity and to aid humankind during warfare. However, after countless rebellions, they were finally overpowered by the Xianzhou natives.<br>Now, all aurumatons are strictly controlled with talismans, and are employed to guard important places."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -11581,13 +10735,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -11632,7 +10780,8 @@ var _monster = [
             "CH": "由小聪打造的「边塞诗人」。<br>内置「灵感玉兆」，搜集军旅生涯、豪情壮志等素材，用于「边塞诗」的类型创作。",
             "EN": "A Borderland Poet created by Cong.<br>Its built-in \"Inspo Jade Abacus\" collects data such as military careers, lofty aspirations, and so on, to create \"borderland poems.\""
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -11640,13 +10789,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -11691,7 +10834,8 @@ var _monster = [
             "CH": "刻录着《十王武经》，听命于十王司的执法金人。<br>血肉易受五阴之苦所执，唯有金铁不动其心，奉行十王敕令不渝。<br>这些金人执法者以力降伏脱离生命秩序的邪物，将之带入幽府，接受判罚，其权限有时甚于判官。",
             "EN": "A law-enforcing aurumaton engraved with the Ten-Lords Martial Scriptures and taking orders from the Ten-Lords Commission.<br>Living beings are susceptible to the corporeal and mental existence of the self, but gold and metal will never be swayed and will unwaveringly follow the Ten-Lords' edicts.<br>These aurumaton law enforcers use their strength to subdue evils that have strayed from the natural order of life, and bring them to the Netherworld to meet their sentence. Its authority is sometimes even greater than that of a judge."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 12.0,
             "ATK": 18.0,
@@ -11699,13 +10843,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec",
@@ -11757,7 +10895,8 @@ var _monster = [
             "CH": "「星核猎手」的一员，面带莫测笑容的杀手丽人，善用种类纷繁的武器和心控之术。正是她将星穹列车引至此处，以实现某个计划……",
             "EN": "One of the Stellaron Hunters. A beautiful assassin wearing an enigmatic smile, she excels in manipulation and various weaponry. It was by her design that the Astral Express was led here, all of which was simply part of a certain plan..."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 14.0,
             "ATK": 18.0,
@@ -11765,13 +10904,7 @@ var _monster = [
             "SPD": 119.0,
             "Stance": 15.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Wind",
@@ -11820,7 +10953,8 @@ var _monster = [
             "CH": "「星核猎手」的一员，面带莫测笑容的杀手丽人，善用种类纷繁的武器和心控之术。正是她将星穹列车引至此处，以实现某个计划……",
             "EN": "One of the Stellaron Hunters. A beautiful assassin wearing an enigmatic smile, she excels in manipulation and various weaponry. It was by her design that the Astral Express was led here, all of which was simply part of a certain plan..."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 12.85722,
@@ -11829,10 +10963,6 @@ var _monster = [
             "Stance": 15.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -3.0
         },
         "Weak": [
@@ -11883,7 +11013,8 @@ var _monster = [
             "CH": "「星核猎手」的一员，面带莫测笑容的杀手丽人，善用种类纷繁的武器和心控之术。正是她将星穹列车引至此处，以实现某个计划……",
             "EN": "One of the Stellaron Hunters. A beautiful assassin wearing an enigmatic smile, she excels in manipulation and various weaponry. It was by her design that the Astral Express was led here, all of which was simply part of a certain plan..."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 14.0,
             "ATK": 18.0,
@@ -11891,13 +11022,7 @@ var _monster = [
             "SPD": 119.0,
             "Stance": 15.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Wind",
@@ -11946,7 +11071,8 @@ var _monster = [
             "CH": "代码受到影响后的完整投影。参照本体为「星核猎手」的一员，面带莫测笑容的杀手丽人，善用种类纷繁的武器和心控之术。正是她将星穹列车引至此处，以实现某个计划……",
             "EN": "A complete projection produced by compromised codes. The referenced entity is one of the Stellaron Hunters. A beautiful assassin wearing an enigmatic smile, she excels in manipulation and weaponry of various kinds. It was by her design that the Astral Express was led where it is now, all of which was simply part of a certain unknown plan..."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 9.0,
             "ATK": 18.0,
@@ -11954,13 +11080,7 @@ var _monster = [
             "SPD": 119.0,
             "Stance": 15.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Wind",
@@ -12034,7 +11154,8 @@ var _monster = [
             "CH": "代码受到影响后的完整投影。参照本体为「星核猎手」的一员，面带莫测笑容的杀手丽人，善用种类纷繁的武器和心控之术。正是她将星穹列车引至此处，以实现某个计划……",
             "EN": "A complete projection produced by compromised codes. The referenced entity is one of the Stellaron Hunters. A beautiful assassin wearing an enigmatic smile, she excels in manipulation and weaponry of various kinds. It was by her design that the Astral Express was led where it is now, all of which was simply part of a certain unknown plan..."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 9.0,
             "ATK": 18.0,
@@ -12042,13 +11163,7 @@ var _monster = [
             "SPD": 119.0,
             "Stance": 15.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Wind",
@@ -12122,7 +11237,8 @@ var _monster = [
             "CH": "…",
             "EN": "…"
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -12130,13 +11246,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 16.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -12193,7 +11303,8 @@ var _monster = [
             "CH": "…",
             "EN": "…"
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.5,
             "ATK": 18.0,
@@ -12202,9 +11313,6 @@ var _monster = [
             "Stance": 16.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": 8.0,
             "Stance": -2.0
         },
@@ -12264,7 +11372,8 @@ var _monster = [
             "CH": "真气操作浮游攻击单元，别名「飞剑」的武器。同御剑者心智紧密相连，如臂使指。",
             "EN": "Qi-controlled hovering attack unit, also named \"Flying Sword.\" Closely connected to the wielder's psyche and can be used as an extension of its wielder's will."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -12272,13 +11381,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -12322,7 +11425,8 @@ var _monster = [
             "CH": "真气操作浮游攻击单元，别名「飞剑」的武器。同御剑者心智紧密相连，如臂使指。",
             "EN": "Qi-controlled hovering attack unit, also named \"Flying Sword.\" Closely connected to the wielder's psyche and can be used as an extension of its wielder's will."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -12330,13 +11434,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -12380,7 +11478,8 @@ var _monster = [
             "CH": "由「建木」化生，拱卫其根系的灵瑞之兽，履迹所之，和泽滋生，枝杪郁敷。<br>自毁于太古时代的战争后，「建木」终于在星核的修补下再度生长。彼时仙人们所造的珍禽奇兽纷至沓来，宛如旧梦重临。",
             "EN": "An auspicious spiritual beast wrought into being by the Ambrosial Arbor and protects its roots. Its arrival brings along exuberant vegetation and promises good fortune.<br>Once destroyed during ancient wars, the Ambrosial Arbor is mended by the Stellaron and finally revives. Rare creatures and legendary beasts made by celestials of the past all return to this world, like an old dream coming alive again."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -12388,13 +11487,7 @@ var _monster = [
             "SPD": 115.0,
             "Stance": 14.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -12461,7 +11554,8 @@ var _monster = [
             "CH": "由「建木」化生，拱卫其根系的灵瑞之兽，履迹所之，和泽滋生，枝杪郁敷。<br>自毁于太古时代的战争后，「建木」终于在星核的修补下再度生长。彼时仙人们所造的珍禽奇兽纷至沓来，宛如旧梦重临。",
             "EN": "An auspicious spiritual beast wrought into being by the Ambrosial Arbor and protects its roots. Its arrival brings along exuberant vegetation and promises good fortune.<br>Once destroyed during ancient wars, the Ambrosial Arbor is mended by the Stellaron and finally revives. Rare creatures and legendary beasts made by celestials of the past all return to this world, like an old dream coming alive again."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 14.99994,
@@ -12469,13 +11563,7 @@ var _monster = [
             "SPD": 115.0,
             "Stance": 14.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -12542,7 +11630,8 @@ var _monster = [
             "CH": "由「建木」化生，拱卫其根系的灵瑞之兽，履迹所之，和泽滋生，枝杪郁敷。<br>自毁于太古时代的战争后，「建木」终于在星核的修补下再度生长。彼时仙人们所造的珍禽奇兽纷至沓来，宛如旧梦重临。",
             "EN": "An auspicious spiritual beast wrought into being by the Ambrosial Arbor and protects its roots. Its arrival brings along exuberant vegetation and promises good fortune.<br>Once destroyed during ancient wars, the Ambrosial Arbor is mended by the Stellaron and finally revives. Rare creatures and legendary beasts made by celestials of the past all return to this world, like an old dream coming alive again."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 14.99994,
@@ -12550,13 +11639,7 @@ var _monster = [
             "SPD": 115.0,
             "Stance": 14.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -12623,7 +11706,8 @@ var _monster = [
             "CH": "代码受到影响后的完整投影。参照本体为由「建木」化生，拱卫其根系的灵瑞之兽，履迹所之，和泽滋生，枝杪郁敷。<br>自毁于太古时代的战争后，「建木」终于在星核的修补下再度生长。彼时仙人们所造的珍禽奇兽纷至沓来，宛如旧梦重临。",
             "EN": "A complete projection produced by compromised codes. The referenced entity is an auspicious spiritual beast wrought into being by the Ambrosial Arbor and protects its roots. Its arrival brings along exuberant vegetation and promises good fortune.<br>Once destroyed during ancient wars, the Ambrosial Arbor is mended by the Stellaron and finally revives. Rare creatures and legendary beasts made by celestials of the past all return to this world, like an old dream coming alive again."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 7.5,
             "ATK": 18.0,
@@ -12631,13 +11715,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 14.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -12716,7 +11794,8 @@ var _monster = [
             "CH": "随玄鹿足迹而生的建木枝梢。",
             "EN": "A branch of Ambrosial Arbor created from the Ebon Deer's footprint"
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -12724,13 +11803,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Quantum",
@@ -12772,7 +11845,8 @@ var _monster = [
             "CH": "随玄鹿足迹而生的建木枝梢。",
             "EN": "A branch of Ambrosial Arbor created from the Ebon Deer's footprint"
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.3,
             "ATK": 18.0,
@@ -12780,13 +11854,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Quantum",
@@ -12828,7 +11896,8 @@ var _monster = [
             "CH": "随玄鹿足迹而生的建木枝梢。",
             "EN": "A branch of Ambrosial Arbor created from the Ebon Deer's footprint"
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -12836,13 +11905,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Quantum"
@@ -12886,7 +11949,8 @@ var _monster = [
             "CH": "随玄鹿足迹而生的建木枝梢。",
             "EN": "A branch of Ambrosial Arbor created from the Ebon Deer's footprint."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -12894,13 +11958,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Quantum"
@@ -12944,7 +12002,8 @@ var _monster = [
             "CH": "随玄鹿足迹而生的建木枝梢。",
             "EN": "A branch of Ambrosial Arbor created from the Ebon Deer's footprint"
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -12952,13 +12011,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Imaginary"
@@ -13000,7 +12053,8 @@ var _monster = [
             "CH": "随玄鹿足迹而生的建木枝梢。",
             "EN": "A branch of Ambrosial Arbor created from the Ebon Deer's footprint."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -13008,13 +12062,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Imaginary"
@@ -13056,7 +12104,8 @@ var _monster = [
             "CH": "随玄鹿足迹而生的建木枝梢。",
             "EN": "A branch of Ambrosial Arbor created from the Ebon Deer's footprint"
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.4,
             "ATK": 18.0,
@@ -13064,13 +12113,7 @@ var _monster = [
             "SPD": 66.0,
             "Stance": 4.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Quantum",
@@ -13113,7 +12156,8 @@ var _monster = [
             "CH": "随玄鹿足迹而生的建木枝梢。",
             "EN": "A branch of Ambrosial Arbor created from the Ebon Deer's footprint."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.0,
             "ATK": 18.0,
@@ -13121,13 +12165,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 4.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Quantum",
@@ -13170,7 +12208,8 @@ var _monster = [
             "CH": "工造司匠人随手造就的机巧发明。原本是不具灵智，用以示警招众的警铃，如今却因为某些异变被赋予了短暂的「生命」。<br>在战斗中，率从狻猊可以抵御致命伤害。",
             "EN": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate alarm bell used for warnings, but now it has been given a short-lived \"life\" due to certain mutations.<br>In battle, Obedient Dracolion can resist fatal damage."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -13178,13 +12217,7 @@ var _monster = [
             "SPD": 95.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -13227,7 +12260,8 @@ var _monster = [
             "CH": "身披烟雾的奔狼，行动飘忽不定。<br>在「建木」上一次伫立时，仙舟人曾以奇术繁育众多异兽珍禽。奎木即为伴随军阵行进的战兽之一。",
             "EN": "Wolves draped in haze, their movement elusive and unexpected.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with esoteric techniques. Wooden Lupuses were one of the war beasts that walked alongside the army."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -13235,13 +12269,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -13284,7 +12312,8 @@ var _monster = [
             "CH": "奎木凝成的幻影。",
             "EN": "Illusion formed by a Wooden Lupus."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -13292,13 +12321,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -13339,7 +12362,8 @@ var _monster = [
             "CH": "困居于下层区的人们为了生存，往往会不惜铤而走险深入裂界寻找任何可用的物资，其中被他们掘出的古代机器成了他们最好的帮手。",
             "EN": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 16.0,
             "ATK": 18.0,
@@ -13347,13 +12371,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -13395,7 +12413,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形。其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的燃烬所取代。<br>战斗中火焚灾影会挥舞燃烧的斧刃，灼烧敌人。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armor as the Belobog warriors, its skull is, however, replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -13403,13 +12422,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -13451,7 +12464,8 @@ var _monster = [
             "CH": "dev_以旧世界遗留的科技拼凑制造的自动机器单元，形如某种载具，然而人们似乎早就忘却了它载具的用途。",
             "EN": ""
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -13460,10 +12474,6 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 0.03333
         },
         "Weak": [
@@ -13508,7 +12518,8 @@ var _monster = [
             "CH": "工造司匠人随手造就的机巧发明。原本是不具灵智，用以烛照黑暗的灯具，如今却因为某些异变被赋予了短暂的「生命」。",
             "EN": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate illuminator used for casting light upon darkness, but now it has been given a short-lived \"life\" due to certain mutations."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 20.0,
             "ATK": 18.0,
@@ -13517,10 +12528,6 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 0.03333
         },
         "Weak": [
@@ -13565,7 +12572,8 @@ var _monster = [
             "CH": "银鬃铁卫中的炮手，使用便携的手炮进行战斗。<br> 在战斗中，银鬃炮手会和其它目标发动猛烈的连携攻击。",
             "EN": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, a Silvermane Cannoneer will launch brutal chain attacks along with other allies of theirs."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 12.0,
             "ATK": 18.0,
@@ -13573,13 +12581,7 @@ var _monster = [
             "SPD": 90.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -13622,7 +12624,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自深黯星空的彼端，透过重重帷幕而来。其身躯犹如病态的枝叶探入现实中，使用虚数的力量肆意改造现实。",
             "EN": "Strange beings that do not belong to this world. Passing through countless barriers, they arrive from the other side of the vast, dark, starry sky. Their bodies are like diseased branches breaching into reality, using Imaginary power to twist reality at will."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -13630,13 +12633,7 @@ var _monster = [
             "SPD": 110.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -13678,7 +12675,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的射手，负责狙击敌人。<br>战斗中，银鬃射手会标记敌方目标，指引友方集中攻击。",
             "EN": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners can mark enemy targets in combat and direct allies to focus their attacks."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -13686,13 +12684,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -13734,7 +12726,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的近卫战士，负责冲锋陷阵。<br>战斗中，银鬃近卫会持续为友方提供加成效果。",
             "EN": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers provide continuous buffs to allies in combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -13742,13 +12735,7 @@ var _monster = [
             "SPD": 95.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -13791,7 +12778,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上燃烧着星辰内核的烈焰。<br>在战斗中，外宇宙之炎能轻易将敌人焚作灰烬。",
             "EN": "Born of the Fragmentum and created by the Stellaron, this alien life form feeds on this world's energy. The blazing fires from the core of a star burn on its armor.<br>In combat, the Blaze Out of Space will incinerate anything it touches."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 25.0,
             "ATK": 18.0,
@@ -13799,13 +12787,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -13856,7 +12838,8 @@ var _monster = [
             "CH": "以古老机巧术铸造的镇守金人。<br>无数岁月前，金人随着仙舟出航求取仙方，监管和辅助人类进行战争——但历尽叛乱后，金人最终为仙舟人所降服。<br>而今所有的金人都被符箓严格宰制，用以把守机要重地。",
             "EN": "Garrison aurumaton created with ancient ingenium technology.<br>Countless years ago, the aurumatons set sail with the Xianzhou to seek divine recipes of immortality, and were tasked with overseeing humanity and aiding humankind during warfare. However, after countless rebellions, they were finally overpowered by the Xianzhou natives.<br>Now, all aurumatons are strictly controlled with talismans and are employed to guard important places."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 25.0,
             "ATK": 18.0,
@@ -13864,13 +12847,7 @@ var _monster = [
             "SPD": 90.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -13915,7 +12892,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」分队的领导者。<br>银鬃尉官会为友方提供护盾，并反击攻击受护盾保护的友方的敌人。",
             "EN": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can provide Shields for allies and counterattack enemies attacking their protected allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 25.0,
             "ATK": 18.0,
@@ -13923,13 +12901,7 @@ var _monster = [
             "SPD": 105.0,
             "Stance": 8.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -13973,7 +12945,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如放射高热，猛烈燃烧的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -13981,13 +12954,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice"
@@ -14031,7 +12998,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如放射高热，猛烈燃烧的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -14039,13 +13007,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice"
@@ -14089,7 +13051,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如放射高热，猛烈燃烧的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.4,
             "ATK": 18.0,
@@ -14098,11 +13061,7 @@ var _monster = [
             "Stance": 1.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 12.0,
-            "Stance": 0.0
+            "SPD": 12.0
         },
         "Weak": [
             "Phys",
@@ -14147,7 +13106,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如放射高热，猛烈燃烧的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.9,
             "ATK": 30.00006,
@@ -14155,13 +13115,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice"
@@ -14205,7 +13159,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如放射高热，猛烈燃烧的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -14214,11 +13169,7 @@ var _monster = [
             "Stance": 1.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 57.0,
-            "Stance": 0.0
+            "SPD": 57.0
         },
         "Weak": [
             "Phys",
@@ -14263,7 +13214,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如放射高热，猛烈燃烧的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.4,
             "ATK": 18.0,
@@ -14272,11 +13224,7 @@ var _monster = [
             "Stance": 1.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 12.0,
-            "Stance": 0.0
+            "SPD": 12.0
         },
         "Weak": [
             "Phys",
@@ -14321,7 +13269,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自深黯星空的彼端，透过重重帷幕而来。其身躯犹如病态的枝叶探入现实中，使用虚数的力量肆意改造现实。",
             "EN": "Strange beings that do not belong to this world. Passing through countless barriers, they arrive from the other side of the vast, dark, starry sky. Their bodies are like diseased branches breaching into reality, using Imaginary power to twist reality at will."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.9,
             "ATK": 18.0,
@@ -14329,13 +13278,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec",
@@ -14385,7 +13328,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自深黯星空的彼端，透过重重帷幕而来。其身躯犹如病态的枝叶探入现实中，使用虚数的力量肆意改造现实。",
             "EN": "Strange beings that do not belong to this world. Passing through countless barriers, they arrive from the other side of the vast, dark, starry sky. Their bodies are like diseased branches breaching into reality, using Imaginary power to twist reality at will."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 12.00006,
@@ -14393,13 +13337,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec",
@@ -14449,7 +13387,8 @@ var _monster = [
             "CH": "裂界侵蚀的受害者们拼接成的奇怪造物。麻木的面孔循环罗列，无有思想，无有情绪，曾名之为人的部分已尽数流逝。",
             "EN": "Victims of Fragmentum corrosion pieced together into one bizarre creature, their numb faces forming a sphere without thought or emotion. Any part that was once human has since vanished."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.0,
             "ATK": 18.0,
@@ -14457,13 +13396,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Quantum"
@@ -14507,7 +13440,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -14515,13 +13449,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Quantum",
@@ -14565,7 +13493,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -14574,11 +13503,7 @@ var _monster = [
             "Stance": 3.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": -14.0,
-            "Stance": 0.0
+            "SPD": -14.0
         },
         "Weak": [
             "Phys",
@@ -14623,7 +13548,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -14632,11 +13558,7 @@ var _monster = [
             "Stance": 3.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": -14.0,
-            "Stance": 0.0
+            "SPD": -14.0
         },
         "Weak": [
             "Phys",
@@ -14681,7 +13603,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -14689,13 +13612,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Quantum",
@@ -14739,7 +13656,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -14747,13 +13665,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Quantum",
@@ -14797,7 +13709,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -14805,13 +13718,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -14855,7 +13762,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -14863,13 +13771,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -14913,7 +13815,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -14921,13 +13824,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind",
@@ -14972,7 +13869,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.0,
             "ATK": 18.0,
@@ -14980,13 +13878,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec",
@@ -15031,7 +13923,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.8,
             "ATK": 18.0,
@@ -15039,13 +13932,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -15090,7 +13977,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.8,
             "ATK": 18.0,
@@ -15099,11 +13987,7 @@ var _monster = [
             "Stance": 1.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": -14.0,
-            "Stance": 0.0
+            "SPD": -14.0
         },
         "Weak": [
             "Fire",
@@ -15149,7 +14033,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.8,
             "ATK": 18.0,
@@ -15158,11 +14043,7 @@ var _monster = [
             "Stance": 1.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": -14.0,
-            "Stance": 0.0
+            "SPD": -14.0
         },
         "Weak": [
             "Fire",
@@ -15208,7 +14089,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -15216,13 +14098,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Quantum",
@@ -15266,7 +14142,8 @@ var _monster = [
             "CH": "「反物质军团」为防止反粒子逸散发生湮灭，制造了两种用于运输的小型离子阱，统称「重子」与「反重子」。<br>「重子」具备基本的智能，能在战场上回应「虚卒」的意志与召唤，为其开辟道路。",
             "EN": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Baryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -15274,13 +14151,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind"
@@ -15322,7 +14193,8 @@ var _monster = [
             "CH": "「反物质军团」为防止反粒子逸散发生湮灭，制造了两种用于运输的小型离子阱，统称「重子」与「反重子」。<br>「重子」具备基本的智能，能在战场上回应「虚卒」的意志与召唤，为其开辟道路。",
             "EN": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Baryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.46,
             "ATK": 10.00008,
@@ -15330,13 +14202,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind"
@@ -15378,7 +14244,8 @@ var _monster = [
             "CH": "「反物质军团」为防止反粒子逸散发生湮灭，制造了两种用于运输的小型离子阱，统称「重子」与「反重子」。<br>「重子」具备基本的智能，能在战场上回应「虚卒」的意志与召唤，为其开辟道路。",
             "EN": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Baryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -15386,13 +14253,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind"
@@ -15434,7 +14295,8 @@ var _monster = [
             "CH": "「反物质军团」为防止反粒子逸散发生湮灭，制造了两种用于运输的小型离子阱，统称「重子」与「反重子」。<br>「重子」具备基本的智能，能在战场上回应「虚卒」的意志与召唤，为其开辟道路。",
             "EN": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Baryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -15442,13 +14304,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind"
@@ -15490,7 +14346,8 @@ var _monster = [
             "CH": "「反物质军团」为防止反粒子逸散发生湮灭，制造了两种用于运输的小型离子阱，统称「重子」与「反重子」。<br>「重子」具备基本的智能，能在战场上回应「虚卒」的意志与召唤，为其开辟道路。",
             "EN": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Baryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -15498,13 +14355,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind"
@@ -15546,7 +14397,8 @@ var _monster = [
             "CH": "「反物质军团」为防止反粒子逸散发生湮灭，制造了两种用于运输的小型离子阱，统称「重子」与「反重子」。<br>「反重子」具备基本的智能，能在战场上回应「虚卒」的意志与召唤，为其开辟道路。",
             "EN": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Antibaryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -15554,13 +14406,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Quantum"
@@ -15602,7 +14448,8 @@ var _monster = [
             "CH": "「反物质军团」为防止反粒子逸散发生湮灭，制造了两种用于运输的小型离子阱，统称「重子」与「反重子」。<br>「反重子」具备基本的智能，能在战场上回应「虚卒」的意志与召唤，为其开辟道路。",
             "EN": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Antibaryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.46,
             "ATK": 10.00008,
@@ -15610,13 +14457,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Quantum"
@@ -15658,7 +14499,8 @@ var _monster = [
             "CH": "「反物质军团」为防止反粒子逸散发生湮灭，制造了两种用于运输的小型离子阱，统称「重子」与「反重子」。<br>「反重子」具备基本的智能，能在战场上回应「虚卒」的意志与召唤，为其开辟道路。",
             "EN": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Antibaryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.5,
             "ATK": 18.0,
@@ -15667,11 +14509,7 @@ var _monster = [
             "Stance": 1.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 12.0,
-            "Stance": 0.0
+            "SPD": 12.0
         },
         "Weak": [
             "Phys",
@@ -15714,7 +14552,8 @@ var _monster = [
             "CH": "尚未死灭的战士经「战争熔炉」的重铸获得了名为「毁灭」的力量，反物质补足了他们的残躯，负粒子在其躯体中震荡。<br>「反物质军团」的基本作战单元，「毁灭」意志的具现化，遵从破坏本能行事，具有强烈的攻击性。",
             "EN": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -15722,13 +14561,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec"
@@ -15777,7 +14610,8 @@ var _monster = [
             "CH": "尚未死灭的战士经「战争熔炉」的重铸获得了名为「毁灭」的力量，反物质补足了他们的残躯，负粒子在其躯体中震荡。<br>「反物质军团」的基本作战单元，「毁灭」意志的具现化，遵从破坏本能行事，具有强烈的攻击性。",
             "EN": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -15785,13 +14619,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec"
@@ -15840,7 +14668,8 @@ var _monster = [
             "CH": "尚未死灭的战士经「战争熔炉」的重铸获得了名为「毁灭」的力量，反物质补足了他们的残躯，负粒子在其躯体中震荡。<br>「反物质军团」的基本作战单元，「毁灭」意志的具现化，遵从破坏本能行事，具有强烈的攻击性。",
             "EN": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.07499,
             "ATK": 10.00008,
@@ -15848,13 +14677,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec"
@@ -15903,7 +14726,8 @@ var _monster = [
             "CH": "尚未死灭的战士经「战争熔炉」的重铸获得了名为「毁灭」的力量，反物质补足了他们的残躯，负粒子在其躯体中震荡。<br>「反物质军团」的基本作战单元，「毁灭」意志的具现化，遵从破坏本能行事，具有强烈的攻击性。",
             "EN": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.07499,
             "ATK": 10.00008,
@@ -15911,13 +14735,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec"
@@ -15966,7 +14784,8 @@ var _monster = [
             "CH": "尚未死灭的战士经「战争熔炉」的重铸获得了名为「毁灭」的力量，反物质补足了他们的残躯，负粒子在其躯体中震荡。<br>「反物质军团」的基本作战单元，「毁灭」意志的具现化，遵从破坏本能行事，具有强烈的攻击性。",
             "EN": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -15974,13 +14793,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec"
@@ -16029,7 +14842,8 @@ var _monster = [
             "CH": "尚未死灭的战士经「战争熔炉」的重铸获得了名为「毁灭」的力量，反物质补足了他们的残躯，负粒子在其躯体中震荡。<br>「反物质军团」的基本作战单元，「毁灭」意志的具现化，遵从破坏本能行事，具有强烈的攻击性。",
             "EN": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -16038,9 +14852,6 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": -5.0,
             "Stance": 1.0
         },
@@ -16092,7 +14903,8 @@ var _monster = [
             "CH": "尚未死灭的战士经「战争熔炉」的重铸获得了名为「毁灭」的力量，反物质补足了他们的残躯，负粒子在其躯体中震荡。<br>「反物质军团」的基本作战单元，「毁灭」意志的具现化，遵从破坏本能行事，具有强烈的攻击性。",
             "EN": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.6,
             "ATK": 5.14278,
@@ -16100,13 +14912,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice"
@@ -16155,7 +14961,8 @@ var _monster = [
             "CH": "尚未死灭的战士经「战争熔炉」的重铸获得了名为「毁灭」的力量，反物质补足了他们的残躯，负粒子在其躯体中震荡。<br>「反物质军团」的基本作战单元，「毁灭」意志的具现化，遵从破坏本能行事，具有强烈的攻击性。",
             "EN": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 7.2,
@@ -16164,11 +14971,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": -10.0,
-            "Stance": 0.0
+            "SPD": -10.0
         },
         "Weak": [
             "Phys",
@@ -16218,7 +15021,8 @@ var _monster = [
             "CH": "尚未死灭的战士经「战争熔炉」的重铸获得了名为「毁灭」的力量，反物质补足了他们的残躯，负粒子在其躯体中震荡。<br>「反物质军团」的基本作战单元，「毁灭」意志的具现化，遵从破坏本能行事，具有强烈的攻击性。",
             "EN": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 12.00006,
@@ -16226,13 +15030,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice"
@@ -16281,7 +15079,8 @@ var _monster = [
             "CH": "尚未死灭的战士经「战争熔炉」的重铸获得了名为「毁灭」的力量，反物质补足了他们的残躯，负粒子在其躯体中震荡。<br>「反物质军团」的基本作战单元，「毁灭」意志的具现化，遵从破坏本能行事，具有强烈的攻击性。",
             "EN": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.8,
             "ATK": 18.0,
@@ -16289,13 +15088,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec"
@@ -16344,7 +15137,8 @@ var _monster = [
             "CH": "尚未死灭的战士经「战争熔炉」的重铸获得了名为「毁灭」的力量，反物质补足了他们的残躯，负粒子在其躯体中震荡。<br>「反物质军团」的基本作战单元，「毁灭」意志的具现化，遵从破坏本能行事，具有强烈的攻击性。",
             "EN": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.5,
             "ATK": 9.0,
@@ -16353,11 +15147,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": -30.0,
-            "Stance": 0.0
+            "SPD": -30.0
         },
         "Weak": [
             "Phys",
@@ -16407,7 +15197,8 @@ var _monster = [
             "CH": "尚未死灭的战士经「战争熔炉」的重铸获得了名为「毁灭」的力量，反物质补足了他们的残躯，负粒子在其躯体中震荡。<br>「反物质军团」的基本作战单元，「毁灭」意志的具现化，遵从破坏本能行事，具有强烈的攻击性。",
             "EN": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.6,
             "ATK": 14.99994,
@@ -16415,13 +15206,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec"
@@ -16470,7 +15255,8 @@ var _monster = [
             "CH": "尚未死灭的战士经「战争熔炉」的重铸获得了名为「毁灭」的力量，反物质补足了他们的残躯，负粒子在其躯体中震荡。<br>「反物质军团」的基本作战单元，「毁灭」意志的具现化，遵从破坏本能行事，具有强烈的攻击性。",
             "EN": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -16478,13 +15264,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec"
@@ -16533,7 +15313,8 @@ var _monster = [
             "CH": "尚未死灭的战士经「战争熔炉」的重铸获得了名为「毁灭」的力量，反物质补足了他们的残躯，负粒子在其躯体中震荡。<br>「反物质军团」的基本作战单元，「毁灭」意志的具现化，遵从破坏本能行事，具有强烈的攻击性。",
             "EN": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -16541,13 +15322,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec"
@@ -16596,7 +15371,8 @@ var _monster = [
             "CH": "成功挺受住湮灭效应的 「虚卒」，正反粒子以诡异的形态在其身上达成了短暂的平衡，比「掠夺者」拥有更加特殊的力量。<br>「反物质军团」的基本作战单元，拥有智能，能够在小范围内控制「掠夺者」的行动。",
             "EN": "A Voidranger that has successfully survived particle annihilation, the positive and negative particles in its body have temporarily achieved a strange balance, granting them more power than ordinary reavers.<br>Basic combat units of the Antimatter Legion. They possess some intelligence and are able to control reavers within a small surrounding area."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.8,
             "ATK": 18.0,
@@ -16604,13 +15380,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Wind",
             "Imaginary"
@@ -16653,7 +15423,8 @@ var _monster = [
             "CH": "成功挺受住湮灭效应的 「虚卒」，正反粒子以诡异的形态在其身上达成了短暂的平衡，比「掠夺者」拥有更加特殊的力量。<br>「反物质军团」的基本作战单元，拥有智能，能够在小范围内控制「掠夺者」的行动。",
             "EN": "A Voidranger that has successfully survived particle annihilation, the positive and negative particles in its body have temporarily achieved a strange balance, granting them more power than ordinary reavers.<br>Basic combat units of the Antimatter Legion. They possess some intelligence and are able to control reavers within a small surrounding area."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.8,
             "ATK": 18.0,
@@ -16661,13 +15432,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Wind",
             "Imaginary"
@@ -16710,7 +15475,8 @@ var _monster = [
             "CH": "成功挺受住湮灭效应的 「虚卒」，正反粒子以诡异的形态在其身上达成了短暂的平衡，比「掠夺者」拥有更加特殊的力量。<br>「反物质军团」的基本作战单元，拥有智能，能够在小范围内控制「掠夺者」的行动。",
             "EN": "A Voidranger that has successfully survived particle annihilation, the positive and negative particles in its body have temporarily achieved a strange balance, granting them more power than ordinary reavers.<br>Basic combat units of the Antimatter Legion. They possess some intelligence and are able to control reavers within a small surrounding area."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.69,
             "ATK": 10.00008,
@@ -16718,13 +15484,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Wind",
             "Imaginary"
@@ -16767,7 +15527,8 @@ var _monster = [
             "CH": "成功挺受住湮灭效应的 「虚卒」，正反粒子以诡异的形态在其身上达成了短暂的平衡，比「掠夺者」拥有更加特殊的力量。<br>「反物质军团」的基本作战单元，拥有智能，能够在小范围内控制「掠夺者」的行动。",
             "EN": "A Voidranger that has successfully survived particle annihilation, the positive and negative particles in its body have temporarily achieved a strange balance, granting them more power than ordinary reavers.<br>Basic combat units of the Antimatter Legion. They possess some intelligence and are able to control reavers within a small surrounding area."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.8,
             "ATK": 22.5,
@@ -16775,13 +15536,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Wind",
             "Imaginary"
@@ -16824,7 +15579,8 @@ var _monster = [
             "CH": "成功挺受住湮灭效应的 「虚卒」，正反粒子以诡异的形态在其身上达成了短暂的平衡，比「掠夺者」拥有更加特殊的力量。<br>「反物质军团」的基本作战单元，拥有智能，能够在小范围内控制「掠夺者」的行动。",
             "EN": "A Voidranger that has successfully survived particle annihilation, the positive and negative particles in its body have temporarily achieved a strange balance, granting them more power than ordinary reavers.<br>Basic combat units of the Antimatter Legion. They possess some intelligence and are able to control reavers within a small surrounding area."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.8,
             "ATK": 5.9999400000000005,
@@ -16832,13 +15588,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Wind",
             "Imaginary"
@@ -16881,7 +15631,8 @@ var _monster = [
             "CH": "「记忆」和「照片」很相似。它看似记录了「真实」，但却在侵入「真实」、异化「真实」、篡改「真实」。也许清除其中的「失真」会使它变得可靠，也许不会。",
             "EN": "\"Memory\" is similar to \"photographs\". Even though it appears to record \"reality,\" it actually invades, alienates, and alters \"reality.\" Perhaps removing the \"distortion\" will make it reliable, or perhaps not."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.8,
             "ATK": 18.0,
@@ -16889,13 +15640,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Wind",
             "Imaginary"
@@ -16938,7 +15683,8 @@ var _monster = [
             "CH": "成功挺受住湮灭效应的 「虚卒」，正反粒子以诡异的形态在其身上达成了短暂的平衡，比「掠夺者」拥有更加特殊的力量。<br>「反物质军团」的基本作战单元，拥有智能，能够在小范围内控制「掠夺者」的行动。",
             "EN": "A Voidranger that has successfully survived particle annihilation, the positive and negative particles in its body have temporarily achieved a strange balance, granting them more power than ordinary reavers.<br>Basic combat units of the Antimatter Legion. They possess some intelligence and are able to control reavers within a small surrounding area."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.8,
             "ATK": 18.0,
@@ -16946,13 +15692,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Wind",
             "Imaginary"
@@ -16995,7 +15735,8 @@ var _monster = [
             "CH": "成功挺受住湮灭效应的 「虚卒」，正反粒子以诡异的形态在其身上达成了短暂的平衡，比「掠夺者」拥有更加特殊的力量。<br>「反物质军团」的基本作战单元，拥有智能，能够在小范围内控制「掠夺者」的行动。",
             "EN": "A Voidranger that has successfully survived particle annihilation, the positive and negative particles in its body have temporarily achieved a strange balance, granting them more power than ordinary reavers.<br>Basic combat units of the Antimatter Legion. They possess some intelligence and are able to control reavers within a small surrounding area."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.69,
             "ATK": 10.00008,
@@ -17004,11 +15745,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": -20.0,
-            "Stance": 0.0
+            "SPD": -20.0
         },
         "Weak": [
             "Wind",
@@ -17052,7 +15789,8 @@ var _monster = [
             "CH": "死亡之后遭遇裂界侵蚀的躯壳残骸，其生命体征虽发生改变，但依然在执行抹消的指令。<br>虚卒•抹消者会对命中的敌人添加标记，使其在攻击中受到额外的伤害。",
             "EN": "Bodies that continued to be corroded by the Fragmentum after death. While their vital signs have changed, they continue to carry out their orders to eliminate.<br>Voidranger: Eliminators will mark enemies they hit, causing them to take extra damage when attacked."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.1,
             "ATK": 18.0,
@@ -17060,13 +15798,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -17109,7 +15841,8 @@ var _monster = [
             "CH": "死亡之后遭遇裂界侵蚀的躯壳残骸，其生命体征虽发生改变，但依然在执行抹消的指令。<br>虚卒•抹消者会对命中的敌人添加标记，使其在攻击中受到额外的伤害。",
             "EN": "Bodies that continued to be corroded by the Fragmentum after death. While their vital signs have changed, they continue to carry out their orders to eliminate.<br>Voidranger: Eliminators will mark enemies they hit, causing them to take extra damage when attacked."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 9.0,
@@ -17117,13 +15850,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -17166,7 +15893,8 @@ var _monster = [
             "CH": "死亡之后遭遇裂界侵蚀的躯壳残骸，其生命体征虽发生改变，但依然在执行抹消的指令。<br>虚卒•抹消者会对命中的敌人添加标记，使其在攻击中受到额外的伤害。",
             "EN": "Bodies that continued to be corroded by the Fragmentum after death. While their vital signs have changed, they continue to carry out their orders to eliminate.<br>Voidranger: Eliminators will mark enemies they hit, causing them to take extra damage when attacked."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 9.0,
@@ -17174,13 +15902,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -17223,7 +15945,8 @@ var _monster = [
             "CH": "死亡之后遭遇裂界侵蚀的躯壳残骸，其生命体征虽发生改变，但依然在执行抹消的指令。<br>虚卒•抹消者会对命中的敌人添加标记，使其在攻击中受到额外的伤害。",
             "EN": "Bodies that continued to be corroded by the Fragmentum after death. While their vital signs have changed, they continue to carry out their orders to eliminate.<br>Voidranger: Eliminators will mark enemies they hit, causing them to take extra damage when attacked."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.1,
             "ATK": 7.2,
@@ -17232,11 +15955,7 @@ var _monster = [
             "Stance": 3.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": -10.0,
-            "Stance": 0.0
+            "SPD": -10.0
         },
         "Weak": [
             "Fire",
@@ -17280,7 +15999,8 @@ var _monster = [
             "CH": "「记忆」和「照片」很相似。它看似记录了「真实」，但却在侵入「真实」、异化「真实」、篡改「真实」。也许清除其中的「失真」会使它变得可靠，也许不会。",
             "EN": "\"Memory\" is similar to \"photographs\". Even though it appears to record \"reality,\" it actually invades, alienates, and alters \"reality.\" Perhaps removing the \"distortion\" will make it reliable, or perhaps not."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.1,
             "ATK": 18.0,
@@ -17288,13 +16008,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -17337,7 +16051,8 @@ var _monster = [
             "CH": "「反物质军团」利用「战争熔炉」将战士与古兽的残片融合重铸后的产物。<br> 虽数量相对稀少，但兼具战士的智能与古兽的力量与机动性，其嘶鸣能够将大量虚卒召唤而来。",
             "EN": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -17345,13 +16060,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Wind",
@@ -17397,7 +16106,8 @@ var _monster = [
             "CH": "「反物质军团」利用「战争熔炉」将战士与古兽的残片融合重铸后的产物。<br> 虽数量相对稀少，但兼具战士的智能与古兽的力量与机动性，其嘶鸣能够将大量虚卒召唤而来。",
             "EN": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 9.0,
             "ATK": 18.0,
@@ -17405,13 +16115,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Wind",
@@ -17457,7 +16161,8 @@ var _monster = [
             "CH": "「反物质军团」利用「战争熔炉」将战士与古兽的残片融合重铸后的产物。<br> 虽数量相对稀少，但兼具战士的智能与古兽的力量与机动性，其嘶鸣能够将大量虚卒召唤而来。",
             "EN": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -17465,13 +16170,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Wind",
@@ -17517,7 +16216,8 @@ var _monster = [
             "CH": "「反物质军团」利用「战争熔炉」将战士与古兽的残片融合重铸后的产物。<br> 虽数量相对稀少，但兼具战士的智能与古兽的力量与机动性，其嘶鸣能够将大量虚卒召唤而来。",
             "EN": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 60.0,
             "ATK": 18.0,
@@ -17525,13 +16225,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Wind",
@@ -17577,7 +16271,8 @@ var _monster = [
             "CH": "「反物质军团」利用「战争熔炉」将战士与古兽的残片融合重铸后的产物。<br> 虽数量相对稀少，但兼具战士的智能与古兽的力量与机动性，其嘶鸣能够将大量虚卒召唤而来。",
             "EN": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.25006,
             "ATK": 18.0,
@@ -17585,13 +16280,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Wind",
@@ -17637,7 +16326,8 @@ var _monster = [
             "CH": "「反物质军团」利用「战争熔炉」将战士与古兽的残片融合重铸后的产物。<br> 虽数量相对稀少，但兼具战士的智能与古兽的力量与机动性，其嘶鸣能够将大量虚卒召唤而来。",
             "EN": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 5.0,
             "ATK": 8.18172,
@@ -17645,13 +16335,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Wind",
@@ -17697,7 +16381,8 @@ var _monster = [
             "CH": "「反物质军团」利用「战争熔炉」将战士与古兽的残片融合重铸后的产物。<br> 虽数量相对稀少，但兼具战士的智能与古兽的力量与机动性，其嘶鸣能够将大量虚卒召唤而来。",
             "EN": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -17705,13 +16390,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Wind",
@@ -17757,7 +16436,8 @@ var _monster = [
             "CH": "「反物质军团」利用「战争熔炉」将战士与古兽的残片融合重铸后的产物。<br> 虽数量相对稀少，但兼具战士的智能与古兽的力量与机动性，其嘶鸣能够将大量虚卒召唤而来。",
             "EN": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -17765,13 +16445,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Wind",
@@ -17817,7 +16491,8 @@ var _monster = [
             "CH": "「记忆」和「照片」很相似。它看似记录了「真实」，但却在侵入「真实」、异化「真实」、篡改「真实」。也许清除其中的「失真」会使它变得可靠，也许不会。",
             "EN": "\"Memory\" is similar to \"photographs\". Even though it appears to record \"reality,\" it actually invades, alienates, and alters \"reality.\" Perhaps removing the \"distortion\" will make it reliable, or perhaps not."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -17825,13 +16500,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Wind",
@@ -17877,7 +16546,8 @@ var _monster = [
             "CH": "代码受到影响后的错误投影。参照本体为「反物质军团」利用「战争熔炉」将战士与古兽的残片融合重铸后的产物。<br> 虽数量相对稀少，但兼具战士的智能与古兽的力量与机动性，其嘶鸣能够将大量虚卒召唤而来。",
             "EN": "A false projection produced by compromised codes. The referenced entity is a product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon many Voidrangers."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -17885,13 +16555,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 14.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Wind",
@@ -17937,7 +16601,8 @@ var _monster = [
             "CH": "「反物质军团」利用「战争熔炉」将战士与古兽的残片融合重铸后的产物。<br> 虽数量相对稀少，但兼具战士的智能与古兽的力量与机动性，其嘶鸣能够将大量虚卒召唤而来。",
             "EN": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 9.0,
             "ATK": 18.0,
@@ -17945,13 +16610,7 @@ var _monster = [
             "SPD": 110.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Wind",
@@ -17997,7 +16656,8 @@ var _monster = [
             "CH": "…",
             "EN": "…"
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 13.0,
             "ATK": 14.99994,
@@ -18005,13 +16665,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 16.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -18084,7 +16738,8 @@ var _monster = [
             "CH": "…",
             "EN": "…"
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 13.0,
             "ATK": 18.0,
@@ -18092,13 +16747,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 16.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -18171,7 +16820,8 @@ var _monster = [
             "CH": "无根自开、凭空生就的幻花。幻胧托体「建木」，炼成肉身，也触及了丰饶的权柄。",
             "EN": "A phantom flower that blooms without roots and forms out of thin air. Phantylia used the Ambrosial Arbor as her host to forge a physical body and to touch upon Abundance's authority."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.35,
             "ATK": 18.0,
@@ -18179,13 +16829,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Wind",
             "Imaginary"
@@ -18229,7 +16873,8 @@ var _monster = [
             "CH": "无根自开、凭空生就的幻花。幻胧托体「建木」，炼成肉身，也触及了丰饶的权柄。",
             "EN": "A phantom flower that blooms without roots and forms out of thin air. Phantylia used the Ambrosial Arbor as her host to forge a physical body and to touch upon Abundance's authority."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.35,
             "ATK": 18.0,
@@ -18237,13 +16882,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Wind",
             "Imaginary"
@@ -18287,7 +16926,8 @@ var _monster = [
             "CH": "无根自开、凭空生就的幻花。幻胧托体「建木」，炼成肉身，也触及了丰饶的权柄。",
             "EN": "A phantom flower that blooms without roots and forms out of thin air. Phantylia used the Ambrosial Arbor as her host to forge a physical body and to touch upon Abundance's authority."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -18295,13 +16935,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Wind",
             "Imaginary"
@@ -18345,7 +16979,8 @@ var _monster = [
             "CH": "无根自开、凭空生就的幻花。幻胧托体「建木」，炼成肉身，也触及了丰饶的权柄。",
             "EN": "A phantom flower that blooms without roots and forms out of thin air. Phantylia used the Ambrosial Arbor as her host to forge a physical body and to touch upon Abundance's authority."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -18353,13 +16988,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Wind",
             "Imaginary"
@@ -18403,7 +17032,8 @@ var _monster = [
             "CH": "无根自开、凭空生就的幻花。幻胧托体「建木」，炼成肉身，却不曾放下毁灭的权柄。",
             "EN": "A phantom flower that blooms without root and forms out of thin air. Phantylia used the Ambrosial Arbor as her host to forge a physical body, yet never let go of Destruction's authority."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 7.5,
             "ATK": 18.0,
@@ -18411,13 +17041,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 4.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Quantum",
@@ -18470,7 +17094,8 @@ var _monster = [
             "CH": "无根自开、凭空生就的幻花。幻胧托体「建木」，炼成肉身，却不曾放下毁灭的权柄。",
             "EN": "A phantom flower that blooms without root and forms out of thin air. Phantylia used the Ambrosial Arbor as her host to forge a physical body, yet never let go of Destruction's authority."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 7.5,
             "ATK": 18.0,
@@ -18478,13 +17103,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 4.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Quantum",
@@ -18537,7 +17156,8 @@ var _monster = [
             "CH": "无根自开、凭空生就的幻花。幻胧托体「建木」，炼成肉身，却不曾放下毁灭的权柄。",
             "EN": "A phantom flower that blooms without root and forms out of thin air. Phantylia used the Ambrosial Arbor as her host to forge a physical body, yet never let go of Destruction's authority."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 7.5,
             "ATK": 18.0,
@@ -18545,13 +17165,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 6.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Quantum",
@@ -18604,7 +17218,8 @@ var _monster = [
             "CH": "无根自开、凭空生就的幻花。幻胧托体「建木」，炼成肉身，却不曾放下毁灭的权柄。",
             "EN": "A phantom flower that blooms without root and forms out of thin air. Phantylia used the Ambrosial Arbor as her host to forge a physical body, yet never let go of Destruction's authority."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 7.5,
             "ATK": 18.0,
@@ -18612,13 +17227,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 6.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Quantum",
@@ -18671,7 +17280,8 @@ var _monster = [
             "CH": "真蛰虫幼体；「真蛰虫」幼体依据生长程度可被划分为「幼蛰虫」与「次蛰虫」。",
             "EN": "The youngling of a True Sting. Based on their growth stage, young True Stings can be further divided into Juvenile Stings and Lesser Stings."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.25,
             "ATK": 18.0,
@@ -18679,13 +17289,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Quantum",
             "Imaginary"
@@ -18735,7 +17339,8 @@ var _monster = [
             "CH": "真蛰虫幼体；「真蛰虫」幼体依据生长程度可被划分为「幼蛰虫」与「次蛰虫」。",
             "EN": "The youngling of a True Sting. Based on their growth stage, young True Stings can be further divided into Juvenile Stings and Lesser Stings."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.15,
             "ATK": 18.0,
@@ -18743,13 +17348,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 4.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -18801,7 +17400,8 @@ var _monster = [
             "CH": "代码受到影响后的完整投影。参照本体为成熟体的真蛰虫；博识学会的杜卢伊爵士遨游星海，曾写下三十卷《诸界异虫札记》。书中详实记载了迄今为止被确认的十几种蠹虫种类，以及星系间数之不尽的亚种。",
             "EN": "A complete projection produced by compromised codes. The referenced entity is a mature True Sting. Sir Duroy, a member of the Intelligentsia Guild, explored the starry seas and authored the thirty-volume of the <i>Chronicles of Interdimensional Insects</i>. The book provides detailed records of over a dozen confirmed species of lepisma and countless subspecies spanning across the stars."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -18809,13 +17409,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 18.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Quantum",
             "Imaginary"
@@ -18897,7 +17491,8 @@ var _monster = [
             "CH": "「星际和平公司」的基层员工，主要负责处理上不得台面的「业务疏漏」。工资不高，只能在公司旗下的企业舰上合租房间。",
             "EN": "An Interastral Peace Corporation grunt worker whose job mainly deals with shady \"business oversights.\" With a meager salary, the only lodging they can afford is a shared room on one of the IPC's enterprise ships."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -18905,13 +17500,7 @@ var _monster = [
             "SPD": 118.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice"
@@ -18960,7 +17549,8 @@ var _monster = [
             "CH": "「星际和平公司」的基层员工，主要负责维持公司管辖地区的治安秩序。工资不高，只能在公司旗下的企业舰上合租房间。",
             "EN": "An Interastral Peace Corporation grunt worker whose job mainly involves maintaining order in locations ruled by the IPC. With a meager salary, the only lodging they can afford is a shared room on one of the IPC's enterprise ships."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.2,
             "ATK": 18.0,
@@ -18968,13 +17558,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -19023,7 +17607,8 @@ var _monster = [
             "CH": "「星际和平公司」的资深员工，级别至少是项目组的小组长。驾驶的机甲属于公有资产，一旦损坏需要自费赔偿。工资尚可，足够在公司旗下的企业舰上租下一室一厅的单间。",
             "EN": "An Interastral Peace Corporation senior staff member with a minimal rank of project team leader. The mech they drive belongs to the IPC. If damaged, its repair fees have to be paid out-of-pocket. With a half-decent salary, they can at least afford to rent a one-bedroom apartment on one of the IPC's enterprise ships."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 16.0,
             "ATK": 18.0,
@@ -19031,13 +17616,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -19085,7 +17664,8 @@ var _monster = [
             "CH": "在裂界延展中遭遇侵蚀的怪物，在力量的本源发生畸变后拥有了更为灵活的战斗方式。<br>兴风者会利用风的力量协助自己战斗，借助风向射出更为迅猛的箭矢。",
             "EN": "Monsters that have experienced corrosion as the Fragmentum expanded. They now have a more nimble way of fighting after the source of their power mutated.<br>Stormbringers utilize the power of the wind to aid them in battle, enabling them to fire arrows more rapidly."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -19093,13 +17673,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -19151,7 +17725,8 @@ var _monster = [
             "CH": "在裂界延展中遭遇侵蚀的怪物，在力量的本源发生畸变后拥有了更为灵活的战斗方式。<br>兴风者会利用风的力量协助自己战斗，借助风向射出更为迅猛的箭矢。",
             "EN": "Monsters that have experienced corrosion as the Fragmentum expanded. They now have a more nimble way of fighting after the source of their power mutated.<br>Stormbringers utilize the power of the wind to aid them in battle, enabling them to fire arrows more rapidly."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 60.0,
             "ATK": 18.0,
@@ -19160,10 +17735,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 4.0
         },
         "Weak": [
@@ -19217,7 +17788,8 @@ var _monster = [
             "CH": "在裂界延展中遭遇侵蚀的怪物，在力量的本源发生畸变后拥有了更为灵活的战斗方式。<br>兴风者会利用风的力量协助自己战斗，借助风向射出更为迅猛的箭矢。",
             "EN": "Monsters that have experienced corrosion as the Fragmentum expanded. They now have a more nimble way of fighting after the source of their power mutated.<br>Stormbringers utilize the power of the wind to aid them in battle, enabling them to fire arrows more rapidly."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.3,
             "ATK": 18.0,
@@ -19226,10 +17798,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -2.0
         },
         "Weak": [
@@ -19283,7 +17851,8 @@ var _monster = [
             "CH": "代码受到影响后的错误投影。参照本体为在裂界延展中遭遇侵蚀的怪物，在力量的本源发生畸变后拥有了更为灵活的战斗方式。<br>兴风者会利用风的力量协助自己战斗，借助风向射出更为迅猛的箭矢。并会在战斗中召唤巽风造物，与自己合作战斗。",
             "EN": "A false projection produced by compromised codes. The referenced entity is a monster that underwent corrosion in the expanse of the Fragmentum. It has developed a more agile fighting style ever since its original form became distorted.<br>The Stormbringer utilizes the power of the wind to its advantage in battle, enabling it to fire arrows more rapidly. It can also summon Windspawn to aid in combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -19291,13 +17860,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -19352,7 +17915,8 @@ var _monster = [
             "CH": "「药王秘传」信徒渴求的形态，摆脱人性重负，以仙道重塑的真体。<br>太古时代，求道者们自建木中参悟玄旨，自诩「仙人」。他们自在无拘，将血肉众生如泥塑形。在无数次变化间，他们忘却了自己的本来面目。",
             "EN": "The form that the Disciples of Sanctus Medicus crave. A true appearance that cast off the burdens of humanity and has been reforged using the way of immortality.<br>In ancient times, those who sought immortality received wisdom from the Ambrosial Arbor and called themselves Celestials. They lived without restraints and molded the flesh of themselves and others at will. They have long forgotten their original appearances after countless metamorphoses."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -19360,13 +17924,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 14.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -19412,7 +17970,8 @@ var _monster = [
             "CH": "「药王秘传」信徒渴求的形态，摆脱人性重负，以仙道重塑的真体。<br>太古时代，求道者们自建木中参悟玄旨，自诩「仙人」。他们自在无拘，将血肉众生如泥塑形。在无数次变化间，他们忘却了自己的本来面目。",
             "EN": "The form that the Disciples of Sanctus Medicus crave. A true appearance that cast off the burdens of humanity and has been reforged using the way of immortality.<br>In ancient times, those who sought immortality received wisdom from the Ambrosial Arbor and called themselves Celestials. They lived without restraints and molded the flesh of themselves and others at will. They have long forgotten their original appearances after countless metamorphoses."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 30.0,
             "ATK": 18.0,
@@ -19420,13 +17979,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 14.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -19472,7 +18025,8 @@ var _monster = [
             "CH": "「药王秘传」信徒渴求的形态，摆脱人性重负，以仙道重塑的真体。<br>太古时代，求道者们自建木中参悟玄旨，自诩「仙人」。他们自在无拘，将血肉众生如泥塑形。在无数次变化间，他们忘却了自己的本来面目。",
             "EN": "The form that the Disciples of Sanctus Medicus crave. A true appearance that cast off the burdens of humanity and has been reforged using the way of immortality.<br>In ancient times, those who sought immortality received wisdom from the Ambrosial Arbor and called themselves Celestials. They lived without restraints and molded the flesh of themselves and others at will. They have long forgotten their original appearances after countless metamorphoses."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 14.99994,
@@ -19481,10 +18035,6 @@ var _monster = [
             "Stance": 14.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -2.0
         },
         "Weak": [
@@ -19532,7 +18082,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如带来低温，冻结周遭环境的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -19540,13 +18091,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Wind"
@@ -19590,7 +18135,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如带来低温，冻结周遭环境的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -19599,11 +18145,7 @@ var _monster = [
             "Stance": 1.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 37.0,
-            "Stance": 0.0
+            "SPD": 37.0
         },
         "Weak": [
             "Fire",
@@ -19648,7 +18190,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如带来低温，冻结周遭环境的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.4,
             "ATK": 18.0,
@@ -19657,11 +18200,7 @@ var _monster = [
             "Stance": 1.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 12.0,
-            "Stance": 0.0
+            "SPD": 12.0
         },
         "Weak": [
             "Fire",
@@ -19706,7 +18245,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如带来低温，冻结周遭环境的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.1,
             "ATK": 30.00006,
@@ -19714,13 +18254,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Wind"
@@ -19764,7 +18298,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如带来低温，冻结周遭环境的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -19773,11 +18308,7 @@ var _monster = [
             "Stance": 1.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 57.0,
-            "Stance": 0.0
+            "SPD": 57.0
         },
         "Weak": [
             "Fire",
@@ -19822,7 +18353,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如带来低温，冻结周遭环境的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.4,
             "ATK": 18.0,
@@ -19831,11 +18363,7 @@ var _monster = [
             "Stance": 1.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 12.0,
-            "Stance": 0.0
+            "SPD": 12.0
         },
         "Weak": [
             "Fire",
@@ -19880,7 +18408,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如带来低温，冻结周遭环境的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.4,
             "ATK": 18.0,
@@ -19888,13 +18417,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Wind"
@@ -19938,7 +18461,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上燃烧着星辰内核的烈焰。<br>在战斗中，外宇宙之炎能轻易将敌人焚作灰烬。",
             "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -19946,13 +18470,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -19999,7 +18517,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上燃烧着星辰内核的烈焰。<br>在战斗中，外宇宙之炎能轻易将敌人焚作灰烬。",
             "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -20008,10 +18527,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -2.0
         },
         "Weak": [
@@ -20060,7 +18575,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上燃烧着星辰内核的烈焰。<br>在战斗中，外宇宙之炎能轻易将敌人焚作灰烬。",
             "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.75,
             "ATK": 30.00006,
@@ -20069,10 +18585,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -2.0
         },
         "Weak": [
@@ -20121,7 +18633,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上燃烧着星辰内核的烈焰。<br>在战斗中，外宇宙之炎能轻易将敌人焚作灰烬。",
             "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.5,
             "ATK": 30.00006,
@@ -20129,13 +18642,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -20182,7 +18689,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上燃烧着星辰内核的烈焰。<br>在战斗中，外宇宙之炎能轻易将敌人焚作灰烬。",
             "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 40.0,
             "ATK": 18.0,
@@ -20190,13 +18698,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -20243,7 +18745,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上燃烧着星辰内核的烈焰。<br>在战斗中，外宇宙之炎能轻易将敌人焚作灰烬。",
             "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -20251,13 +18754,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -20304,7 +18801,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上燃烧着星辰内核的烈焰。<br>在战斗中，外宇宙之炎能轻易将敌人焚作灰烬。",
             "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -20312,13 +18810,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -20365,7 +18857,8 @@ var _monster = [
             "CH": "代码受到影响后的错误投影。参照本体为不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上燃烧着星辰内核的烈焰。<br>在战斗中，外宇宙之炎（错误）能轻易将敌人焚作灰烬。",
             "EN": "A false projection produced by compromised codes. The original referent entity is an alien life form that was born out of the Fragmentum brought by a Stellaron and feeds on this world's energy. Its armor carries the flames taken from the core of a star.<br>In combat, the Blaze Out of Space (Bug) will incinerate anything it touches."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 16.0,
             "ATK": 18.0,
@@ -20373,13 +18866,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -20428,7 +18915,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如带来低温，冻结周遭环境的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -20436,13 +18924,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Wind"
@@ -20486,7 +18968,8 @@ var _monster = [
             "CH": "徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>炽燃徘徊者的攻击会对处于灼烧状态的敌人造成额外效果。",
             "EN": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -20494,13 +18977,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Elec",
@@ -20548,7 +19025,8 @@ var _monster = [
             "CH": "代码受到影响后的错误投影。参照本体为徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>炽燃徘徊者（错误）的攻击会对处于灼烧状态的敌人造成额外效果。",
             "EN": "A false projection produced by compromised codes. The referenced entity is a machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>The attacks of Searing Prowler (Bug) will deal extra damage against Burned enemies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 14.0,
             "ATK": 18.0,
@@ -20556,13 +19034,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Elec",
@@ -20612,7 +19084,8 @@ var _monster = [
             "CH": "徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>炽燃徘徊者的攻击会对处于灼烧状态的敌人造成额外效果。",
             "EN": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 4.04998,
             "ATK": 18.0,
@@ -20621,9 +19094,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": 40.0,
             "Stance": -5.0
         },
@@ -20674,7 +19144,8 @@ var _monster = [
             "CH": "徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>炽燃徘徊者的攻击会对处于灼烧状态的敌人造成额外效果。",
             "EN": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.85,
             "ATK": 13.84614,
@@ -20683,9 +19154,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": 60.0,
             "Stance": -8.0
         },
@@ -20736,7 +19204,8 @@ var _monster = [
             "CH": "徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>炽燃徘徊者的攻击会对处于灼烧状态的敌人造成额外效果。",
             "EN": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.5,
             "ATK": 30.00006,
@@ -20744,13 +19213,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Elec",
@@ -20798,7 +19261,8 @@ var _monster = [
             "CH": "徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>炽燃徘徊者的攻击会对处于灼烧状态的敌人造成额外效果。",
             "EN": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 24.5,
             "ATK": 18.0,
@@ -20806,13 +19270,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Elec",
@@ -20860,7 +19318,8 @@ var _monster = [
             "CH": "徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>深寒徘徊者会吸引永冬灾影，同时能降低我方的速度与冰属性抗性。",
             "EN": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Frigid Prowlers will attract Everwinter Shadewalkers and reduce its enemy's SPD and Ice RES."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 12.0,
             "ATK": 18.0,
@@ -20868,13 +19327,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec",
@@ -20929,7 +19382,8 @@ var _monster = [
             "CH": "代码受到影响后的错误投影。参照本体为徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>深寒徘徊者（错误）会吸引永冬灾影，同时能降低我方的速度与冰属性抗性。",
             "EN": "A false projection produced by compromised codes. The referenced entity is a machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Frigid Prowler (Bug) will attract Everwinter Shadewalker and reduce its opponents' SPD and Ice RES."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -20937,13 +19391,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec",
@@ -21000,7 +19448,8 @@ var _monster = [
             "CH": "徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>深寒徘徊者会吸引永冬灾影，同时能降低我方的速度与冰属性抗性。",
             "EN": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Frigid Prowlers will attract Everwinter Shadewalkers and reduce its enemy's SPD and Ice RES."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.5,
             "ATK": 30.00006,
@@ -21008,13 +19457,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec",
@@ -21069,7 +19512,8 @@ var _monster = [
             "CH": "徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>深寒徘徊者会吸引永冬灾影，同时能降低我方的速度与冰属性抗性。",
             "EN": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Frigid Prowlers will attract Everwinter Shadewalkers and reduce its enemy's SPD and Ice RES."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 26.5,
             "ATK": 18.0,
@@ -21077,13 +19521,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec",
@@ -21138,7 +19576,8 @@ var _monster = [
             "CH": "徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>深寒徘徊者会吸引永冬灾影，同时能降低我方的速度与冰属性抗性。",
             "EN": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Frigid Prowlers will attract Everwinter Shadewalkers and reduce its enemy's SPD and Ice RES."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 4.0,
             "ATK": 12.85722,
@@ -21147,10 +19586,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -4.0
         },
         "Weak": [
@@ -21207,7 +19642,8 @@ var _monster = [
             "CH": "dev_暴风雪领域",
             "EN": ""
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 5.0,
             "ATK": 18.0,
@@ -21215,13 +19651,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 0.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [],
         "RESBase": {},
         "RESModify": [],
@@ -21254,7 +19684,8 @@ var _monster = [
             "CH": "困居于下层区的人们为了生存，往往会不惜铤而走险深入裂界寻找任何可用的物资，其中被他们掘出的古代机器成了他们最好的帮手。",
             "EN": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -21262,13 +19693,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -21311,7 +19736,8 @@ var _monster = [
             "CH": "困居于下层区的人们为了生存，往往会不惜铤而走险深入裂界寻找任何可用的物资，其中被他们掘出的古代机器成了他们最好的帮手。",
             "EN": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -21319,13 +19745,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -21368,7 +19788,8 @@ var _monster = [
             "CH": "困居于下层区的人们为了生存，往往会不惜铤而走险深入裂界寻找任何可用的物资，其中被他们掘出的古代机器成了他们最好的帮手。",
             "EN": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -21376,13 +19797,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -21425,21 +19840,16 @@ var _monster = [
             "CH": "困居于下层区的人们为了生存，往往会不惜铤而走险深入裂界寻找任何可用的物资，其中被他们掘出的古代机器成了他们最好的帮手。",
             "EN": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper."
         },
-        "Curve": 2,
+        "HardLevelGroup": 1,
+        "EliteGroup": 2,
         "Stats": {
-            "HP": 2.55,
-            "ATK": 14.4,
+            "HP": 1.5,
+            "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -21482,7 +19892,8 @@ var _monster = [
             "CH": "困居于下层区的人们为了生存，往往会不惜铤而走险深入裂界寻找任何可用的物资，其中被他们掘出的古代机器成了他们最好的帮手。",
             "EN": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.0,
             "ATK": 18.0,
@@ -21490,13 +19901,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -21539,7 +19944,8 @@ var _monster = [
             "CH": "困居于下层区的人们为了生存，往往会不惜铤而走险深入裂界寻找任何可用的物资，其中被他们掘出的古代机器成了他们最好的帮手。",
             "EN": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.0,
             "ATK": 18.0,
@@ -21548,11 +19954,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": -5.0,
-            "Stance": 0.0
+            "SPD": -5.0
         },
         "Weak": [
             "Fire",
@@ -21596,7 +19998,8 @@ var _monster = [
             "CH": "困居于下层区的人们为了生存，往往会不惜铤而走险深入裂界寻找任何可用的物资，其中被他们掘出的古代机器成了他们最好的帮手。",
             "EN": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -21604,13 +20007,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -21653,7 +20050,8 @@ var _monster = [
             "CH": "困居于下层区的人们为了生存，往往会不惜铤而走险深入裂界寻找任何可用的物资，其中被他们掘出的古代机器成了他们最好的帮手。",
             "EN": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 30.00006,
@@ -21661,13 +20059,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -21710,7 +20102,8 @@ var _monster = [
             "CH": "困居于下层区的人们为了生存，往往会不惜铤而走险深入裂界寻找任何可用的物资，其中被他们掘出的古代机器成了他们最好的帮手。",
             "EN": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.5,
             "ATK": 30.00006,
@@ -21718,13 +20111,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -21767,7 +20154,8 @@ var _monster = [
             "CH": "困居于下层区的人们为了生存，往往会不惜铤而走险深入裂界寻找任何可用的物资，其中被他们掘出的古代机器成了他们最好的帮手。",
             "EN": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 9.0,
@@ -21775,13 +20163,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -21824,7 +20206,8 @@ var _monster = [
             "CH": "困居于下层区的人们为了生存，往往会不惜铤而走险深入裂界寻找任何可用的物资，其中被他们掘出的古代机器成了他们最好的帮手。",
             "EN": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.0,
             "ATK": 19.99998,
@@ -21833,11 +20216,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 20.0,
-            "Stance": 0.0
+            "SPD": 20.0
         },
         "Weak": [
             "Fire",
@@ -21881,7 +20260,8 @@ var _monster = [
             "CH": "困居于下层区的人们为了生存，往往会不惜铤而走险深入裂界寻找任何可用的物资，其中被他们掘出的古代机器成了他们最好的帮手。",
             "EN": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 9.0,
@@ -21889,13 +20269,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -21938,7 +20312,8 @@ var _monster = [
             "CH": "困居于下层区的人们为了生存，往往会不惜铤而走险深入裂界寻找任何可用的物资，其中被他们掘出的古代机器成了他们最好的帮手。",
             "EN": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -21946,13 +20321,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -21995,7 +20364,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上倒映着幽深黯淡的星空。<br>战斗中，外宇宙之冰能轻易将敌人冻结凝固。",
             "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -22003,13 +20373,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Wind",
@@ -22061,7 +20425,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上倒映着幽深黯淡的星空。<br>战斗中，外宇宙之冰能轻易将敌人冻结凝固。",
             "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -22070,10 +20435,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -2.0
         },
         "Weak": [
@@ -22127,7 +20488,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上倒映着幽深黯淡的星空。<br>战斗中，外宇宙之冰能轻易将敌人冻结凝固。",
             "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 8.0,
             "ATK": 30.00006,
@@ -22136,10 +20498,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -2.0
         },
         "Weak": [
@@ -22192,7 +20550,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上倒映着幽深黯淡的星空。<br>战斗中，外宇宙之冰能轻易将敌人冻结凝固。",
             "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 16.5,
             "ATK": 18.0,
@@ -22200,13 +20559,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Wind",
@@ -22258,7 +20611,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上倒映着幽深黯淡的星空。<br>战斗中，外宇宙之冰能轻易将敌人冻结凝固。",
             "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 36.0,
             "ATK": 19.99998,
@@ -22266,13 +20620,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Wind",
@@ -22324,7 +20672,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上倒映着幽深黯淡的星空。<br>战斗中，外宇宙之冰能轻易将敌人冻结凝固。",
             "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 40.0,
             "ATK": 18.0,
@@ -22332,13 +20681,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Wind",
@@ -22390,7 +20733,8 @@ var _monster = [
             "CH": "代码受到影响后的错误投影。参照本体为不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上倒映着幽深黯淡的星空。<br>战斗中，外宇宙之冰能轻易将敌人冻结凝固并使其行动推迟。",
             "EN": "A false projection produced by compromised codes. The original referent entity is an alien life form that was born out of the Fragmentum brought by a Stellaron and feeds on this world's energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space (Bug) will freeze targets it touches and delay their actions."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -22398,13 +20742,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Wind",
@@ -22458,7 +20796,8 @@ var _monster = [
             "CH": "由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。这股力量四处徘徊，漫无目的，直到感受到其主的意志才会听令行事。",
             "EN": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. This energy wanders around aimlessly, acting only when executing the will of its master."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -22466,13 +20805,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Wind",
@@ -22526,7 +20859,8 @@ var _monster = [
             "CH": "由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。这股力量四处徘徊，漫无目的，直到感受到其主的意志才会听令行事。",
             "EN": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. This energy wanders around aimlessly, acting only when executing the will of its master."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -22535,10 +20869,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -2.0
         },
         "Weak": [
@@ -22594,7 +20924,8 @@ var _monster = [
             "CH": "由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。这股力量四处徘徊，漫无目的，直到感受到其主的意志才会听令行事。",
             "EN": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. This energy wanders around aimlessly, acting only when executing the will of its master."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.0,
             "ATK": 12.00006,
@@ -22603,10 +20934,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -4.0
         },
         "Weak": [
@@ -22662,7 +20989,8 @@ var _monster = [
             "CH": "由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。这股力量四处徘徊，漫无目的，直到感受到其主的意志才会听令行事。",
             "EN": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. This energy wanders around aimlessly, acting only when executing the will of its master."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 60.0,
             "ATK": 18.0,
@@ -22671,10 +20999,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 4.0
         },
         "Weak": [
@@ -22730,7 +21054,8 @@ var _monster = [
             "CH": "由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。这股力量四处徘徊，漫无目的，直到感受到其主的意志才会听令行事。",
             "EN": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. This energy wanders around aimlessly, acting only when executing the will of its master."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -22738,13 +21063,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Wind",
@@ -22798,7 +21117,8 @@ var _monster = [
             "CH": "由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。这股力量四处徘徊，漫无目的，直到感受到其主的意志才会听令行事。",
             "EN": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. This energy wanders around aimlessly, acting only when executing the will of its master."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 21.0,
             "ATK": 19.99998,
@@ -22806,13 +21126,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Wind",
@@ -22866,7 +21180,8 @@ var _monster = [
             "CH": "由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。这股力量四处徘徊，漫无目的，直到感受到其主的意志才会听令行事。",
             "EN": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. This energy wanders around aimlessly, acting only when executing the will of its master."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 38.0,
             "ATK": 19.99998,
@@ -22874,13 +21189,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Wind",
@@ -22934,7 +21243,8 @@ var _monster = [
             "CH": "代码受到影响后的错误投影。参照本体为由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。这股力量四处徘徊，漫无目的，直到感受到其主的意志才会听令行事。",
             "EN": "A false projection produced by compromised codes. The original referent entity is a shadow manifested by the power of Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A physical manifestation of the desires of intelligent life in the Fragmentum, like a pearl created from a single grain of sand. This force wanders around aimlessly, acting only when executing the will of its master."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 13.0,
             "ATK": 18.0,
@@ -22942,13 +21252,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Wind",
@@ -23002,7 +21306,8 @@ var _monster = [
             "CH": "由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。然而驱动它的这股欲望早已扭曲，模糊不清。",
             "EN": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. However, the desire that drove it has long since been twisted and distorted."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -23010,13 +21315,7 @@ var _monster = [
             "SPD": 172.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec",
@@ -23069,7 +21368,8 @@ var _monster = [
             "CH": "由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。然而驱动它的这股欲望早已扭曲，模糊不清。",
             "EN": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. However, the desire that drove it has long since been twisted and distorted."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.0,
             "ATK": 12.00006,
@@ -23078,10 +21378,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -4.0
         },
         "Weak": [
@@ -23136,7 +21432,8 @@ var _monster = [
             "CH": "代码受到影响后的错误投影。参照本体为由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。然而驱动它的这股欲望早已扭曲，模糊不清。",
             "EN": "A false projection produced by compromised codes. The original referent entity is a shadow manifested by the power of Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A physical embodiment of the desires of intelligent life in the Fragmentum, like a pearl created from a single grain of sand. However, its purpose has long since been twisted and distorted."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 13.0,
             "ATK": 18.0,
@@ -23144,13 +21441,7 @@ var _monster = [
             "SPD": 207.0,
             "Stance": 13.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec",
@@ -23205,7 +21496,8 @@ var _monster = [
             "CH": "由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。然而驱动它的这股欲望早已扭曲，模糊不清。",
             "EN": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. However, the desire that drove it has long since been twisted and distorted."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 5.1,
             "ATK": 14.99994,
@@ -23214,10 +21506,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -8.0
         },
         "Weak": [
@@ -23272,7 +21560,8 @@ var _monster = [
             "CH": "由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。然而驱动它的这股欲望早已扭曲，模糊不清。",
             "EN": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. However, the desire that drove it has long since been twisted and distorted."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 28.0,
             "ATK": 25.71426,
@@ -23281,10 +21570,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 4.0
         },
         "Weak": [
@@ -23339,7 +21624,8 @@ var _monster = [
             "CH": "由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。然而驱动它的这股欲望早已扭曲，模糊不清。",
             "EN": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. However, the desire that drove it has long since been twisted and distorted."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 24.5,
             "ATK": 18.0,
@@ -23347,13 +21633,7 @@ var _monster = [
             "SPD": 172.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec",
@@ -23406,7 +21686,8 @@ var _monster = [
             "CH": "由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。然而驱动它的这股欲望早已扭曲，模糊不清。",
             "EN": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. However, the desire that drove it has long since been twisted and distorted."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 20.0,
             "ATK": 19.99998,
@@ -23415,10 +21696,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 6.0
         },
         "Weak": [
@@ -23473,7 +21750,8 @@ var _monster = [
             "CH": "旧世界的古老遗物，地髓开拓团的时代遗留下的自动控制单元。与大部分无智、只接受指令的机器不同，史瓦罗具有复杂的思考能力。<br>在战斗中，史瓦罗会召来机械臂抓取和控制敌人，对目标进行沉重的打击。",
             "EN": "This ancient relic from the Old World was an automated control unit left behind during the times of the Geomarrow Development Group. Unlike other mindless machines that could only receive instructions, Svarog is capable of complex thoughts.<br>In battle, Svarog summons mechanical arms to grab and control his enemies, delivering devastating attacks."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 16.0,
             "ATK": 18.0,
@@ -23481,13 +21759,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec",
@@ -23546,7 +21818,8 @@ var _monster = [
             "CH": "旧世界的古老遗物，地髓开拓团的时代遗留下的自动控制单元。与大部分无智、只接受指令的机器不同，史瓦罗具有复杂的思考能力。<br>在战斗中，史瓦罗会召来机械臂抓取和控制敌人，对目标进行沉重的打击。",
             "EN": "This ancient relic from the Old World was an automated control unit left behind during the times of the Geomarrow Development Group. Unlike other mindless machines that could only receive instructions, Svarog is capable of complex thoughts.<br>In battle, Svarog summons mechanical arms to grab and control his enemies, delivering devastating attacks."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 16.0,
             "ATK": 19.99998,
@@ -23554,13 +21827,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec",
@@ -23619,7 +21886,8 @@ var _monster = [
             "CH": "旧世界的古老遗物，地髓开拓团的时代遗留下的自动控制单元。与大部分无智、只接受指令的机器不同，史瓦罗具有复杂的思考能力。<br>在战斗中，史瓦罗会召来机械臂抓取和控制敌人，对目标进行沉重的打击。",
             "EN": "This ancient relic from the Old World was an automated control unit left behind during the times of the Geomarrow Development Group. Unlike other mindless machines that could only receive instructions, Svarog is capable of complex thoughts.<br>In battle, Svarog summons mechanical arms to grab and control his enemies, delivering devastating attacks."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 87.5,
             "ATK": 18.0,
@@ -23628,10 +21896,6 @@ var _monster = [
             "Stance": 12.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 4.0
         },
         "Weak": [
@@ -23692,7 +21956,8 @@ var _monster = [
             "CH": "旧世界的古老遗物，地髓开拓团的时代遗留下的自动控制单元。与大部分无智、只接受指令的机器不同，史瓦罗具有复杂的思考能力。<br>在战斗中，史瓦罗会召来机械臂抓取和控制敌人，对目标进行沉重的打击。",
             "EN": "This ancient relic from the Old World was an automated control unit left behind during the times of the Geomarrow Development Group. Unlike other mindless machines that could only receive instructions, Svarog is capable of complex thoughts.<br>In battle, Svarog summons mechanical arms to grab and control his enemies, delivering devastating attacks."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 16.0,
             "ATK": 18.0,
@@ -23700,13 +21965,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec",
@@ -23765,7 +22024,8 @@ var _monster = [
             "CH": "旧世界的古老遗物，地髓开拓团的时代遗留下的自动控制单元。与大部分无智、只接受指令的机器不同，史瓦罗具有复杂的思考能力。<br>在战斗中，史瓦罗会召来机械臂抓取和控制敌人，对目标进行沉重的打击。",
             "EN": "This ancient relic from the Old World was an automated control unit left behind during the times of the Geomarrow Development Group. Unlike other mindless machines that could only receive instructions, Svarog is capable of complex thoughts.<br>In battle, Svarog summons mechanical arms to grab and control his enemies, delivering devastating attacks."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 16.0,
             "ATK": 19.99998,
@@ -23773,13 +22033,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec",
@@ -23838,7 +22092,8 @@ var _monster = [
             "CH": "旧世界的古老遗物，地髓开拓团的时代遗留下的自动控制单元。与大部分无智、只接受指令的机器不同，史瓦罗具有复杂的思考能力。<br>在战斗中，史瓦罗会召来机械臂抓取和控制敌人，对目标进行沉重的打击。",
             "EN": "This ancient relic from the Old World was an automated control unit left behind during the times of the Geomarrow Development Group. Unlike other mindless machines that could only receive instructions, Svarog is capable of complex thoughts.<br>In battle, Svarog summons mechanical arms to grab and control his enemies, delivering devastating attacks."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 62.5,
             "ATK": 25.71426,
@@ -23847,10 +22102,6 @@ var _monster = [
             "Stance": 12.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 6.0
         },
         "Weak": [
@@ -23911,7 +22162,8 @@ var _monster = [
             "CH": "代码受到影响后的完整投影。参照本体为旧世界的古老遗物，地髓开拓团的时代遗留下的自动控制单元。与大部分无智、只接受指令的机器不同，史瓦罗具有复杂的思考能力。<br>在战斗中，史瓦罗（完整）能召唤各种类型的机械并操控机械臂抓取和控制敌人，对目标进行沉重的打击。",
             "EN": "A complete projection produced by compromised codes. The referenced entity is an ancient relic from the Old World, that was originally used as an automated control unit by the Geomarrow Development Group. Unlike the vast majority of machines that lack intellect and can only act on command, Svarog is capable of much more complex thinking.<br>In battle, Svarog (Complete) can summon various machines as well as a robot arm unit to grab and control enemies while unleashing devastating strikes."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 7.5,
             "ATK": 18.0,
@@ -23919,13 +22171,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec",
@@ -24005,7 +22251,8 @@ var _monster = [
             "CH": "代码受到影响后的完整投影。参照本体为旧世界的古老遗物，地髓开拓团的时代遗留下的自动控制单元。与大部分无智、只接受指令的机器不同，史瓦罗具有复杂的思考能力。<br>在战斗中，史瓦罗（完整）能召唤各种类型的机械并操控机械臂抓取和控制敌人，对目标进行沉重的打击。",
             "EN": "A complete projection produced by compromised codes. The referenced entity is an ancient relic from the Old World, that was originally used as an automated control unit by the Geomarrow Development Group. Unlike the vast majority of machines that lack intellect and can only act on command, Svarog is capable of much more complex thinking.<br>In battle, Svarog (Complete) can summon various machines as well as a robot arm unit to grab and control enemies while unleashing devastating strikes."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 7.5,
             "ATK": 18.0,
@@ -24013,13 +22260,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec",
@@ -24100,7 +22341,8 @@ var _monster = [
             "CH": "受史瓦罗所操控的机械装置。<br>机械臂在场上存在一定回合后会对我方展开猛攻。",
             "EN": "A mechanical device controlled by Svarog.<br>When active on battlefield for certain turns, it will ruthlessly attack its enemies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.5,
             "ATK": 18.0,
@@ -24108,13 +22350,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -24169,7 +22405,8 @@ var _monster = [
             "CH": "受史瓦罗所操控的机械装置。<br>机械臂在场上存在一定回合后会对我方展开猛攻。",
             "EN": "A mechanical device controlled by Svarog.<br>When active on battlefield for certain turns, it will ruthlessly attack its enemies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.75,
             "ATK": 18.0,
@@ -24177,13 +22414,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -24240,7 +22471,8 @@ var _monster = [
             "CH": "受史瓦罗所操控的机械装置。<br>机械臂在场上存在一定回合后会对我方展开猛攻。",
             "EN": "A mechanical device controlled by Svarog.<br>After being active on the battlefield for a certain number of turns, this robot arm will ruthlessly attack its targets."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.75,
             "ATK": 18.0,
@@ -24248,13 +22480,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -24311,7 +22537,8 @@ var _monster = [
             "CH": "贝洛伯格守护者的继任者，银鬃铁卫的统帅。<br>布洛妮娅会使用多种战术攻击敌人，并大幅提升友军的作战能力。",
             "EN": "Successor to Belobog's Guardian, and commander of the Silvermane Guards.<br>Bronya can use various tactics to attack her enemies, and greatly enhance the battle prowess of all allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 12.0,
             "ATK": 18.0,
@@ -24319,13 +22546,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 7.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -24372,7 +22593,8 @@ var _monster = [
             "CH": "贝洛伯格守护者的继任者，银鬃铁卫的统帅。<br>布洛妮娅会使用多种战术攻击敌人，并大幅提升友军的作战能力。",
             "EN": "Successor to Belobog's Guardian, and commander of the Silvermane Guards.<br>Bronya can use various tactics to attack her enemies, and greatly enhance the battle prowess of all allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -24381,10 +22603,6 @@ var _monster = [
             "Stance": 7.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -2.0
         },
         "Weak": [
@@ -24433,7 +22651,8 @@ var _monster = [
             "CH": "代码受到影响后的完整投影。参照本体为贝洛伯格守护者的继任者，银鬃铁卫的统帅。<br>布洛妮娅（完整）会使用多种战术攻击敌人，并大幅提升友军的作战能力。",
             "EN": "A complete projection produced by compromised codes. The original reference entity is Belobog's Guardian successor and commander of the Silvermane Guards.<br>Bronya (complete) can use various tactics to attack her enemies, and greatly enhance the battle prowess of all allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.0,
             "ATK": 18.0,
@@ -24441,13 +22660,7 @@ var _monster = [
             "SPD": 143.0,
             "Stance": 7.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -24499,7 +22712,8 @@ var _monster = [
             "CH": "「反物质军团」以黄昏古兽的残片为基「战争熔炉」的万骸哀怨为引所铸炼而成「末日兽」之一。怨灵的痴缠化作有形之手，旧日的灾影凝为掩映诸天之尾。「末日兽」拘禁了未释然亦未死灭的众生意志。或嗔怒，或忧恸，或妄喜——迷相既露，诸邪肆动。「末日兽」的核心为一颗暗物质驱动的引擎。",
             "EN": "Using fragments of the Dusk Leviathan as the foundation, and the weeping bones of thousands of the dead in the Warforge as the agent, the Antimatter Legion cast the Doomsday Beast. The resentful spirits' senseless obsession turns into a tangible hand, and the shadow of the old disaster conceals the heavens. The Doomsday Beast detains the will of all beings that are not at ease and have yet to die. Anger, mourning, or delusional joy — all is revealed, and all evil eagerly throb. The Doomsday Beast's core is a dark matter engine."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -24507,13 +22721,7 @@ var _monster = [
             "SPD": 0.0,
             "Stance": 0.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -24559,7 +22767,8 @@ var _monster = [
             "CH": "被殃难浸润的大地只剩下苦痛的回音，这就是末日应有的进行曲。<br>灾虐的右手善于使用虚数属性的力量，造成大范围的攻击。",
             "EN": "Only the echoes of pain remain on the devastated earth — the march of the end times.<br>Disaster's Right Hand is adept at drawing upon Imaginary power to create large-scale attacks."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 5.0,
             "ATK": 18.0,
@@ -24567,13 +22776,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 4.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice"
@@ -24625,7 +22828,8 @@ var _monster = [
             "CH": "力量本源的至极化身，它背后蕴含的能量形式并不为人知晓。<br>反物质引擎会为其他敌人提供能量并强化其技能。",
             "EN": "The ultimate embodiment of power. The form of the energy that accumulates behind it remains unknown.<br>The Antimatter Engine will grant energy to other enemies and enhance their abilities."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 9.4,
             "ATK": 18.0,
@@ -24633,13 +22837,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 6.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire"
@@ -24699,7 +22897,8 @@ var _monster = [
             "CH": "在末日来临之前的最后一个黎明，明洁的朝阳也会颤抖着悄然退场。<br>黎明的左手善于使用量子属性的力量，针对单个个体发起攻击。",
             "EN": "At the last dawn before the end, even the bright and clear morning sun will tremble and cower away.<br>Dawn's Left Hand is adept at drawing upon Quantum power to launch attacks at single targets."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 5.0,
             "ATK": 18.0,
@@ -24707,13 +22906,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 4.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Wind"
@@ -24764,7 +22957,8 @@ var _monster = [
             "CH": "被殃难浸润的大地只剩下苦痛的回音，这就是末日应有的进行曲。<br>灾虐的右手善于使用虚数属性的力量，造成大范围的攻击。",
             "EN": "Only the echoes of pain remain on the devastated earth — the march of the end times.<br>Disaster's Right Hand is adept at drawing upon Imaginary power to create large-scale attacks."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 4.0,
             "ATK": 14.4,
@@ -24772,13 +22966,7 @@ var _monster = [
             "SPD": 135.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice"
@@ -24826,7 +23014,8 @@ var _monster = [
             "CH": "力量本源的至极化身，它背后蕴含的能量形式并不为人知晓。<br>反物质引擎会为其他敌人提供能量并强化其技能。",
             "EN": "The ultimate embodiment of power. The form of the energy that accumulates behind it remains unknown.<br>The Antimatter Engine will grant energy to other enemies and enhance their abilities."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.75,
             "ATK": 14.4,
@@ -24834,13 +23023,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 6.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire"
@@ -24897,7 +23080,8 @@ var _monster = [
             "CH": "在末日来临之前的最后一个黎明，明洁的朝阳也会颤抖着悄然退场。<br>黎明的左手善于使用量子属性的力量，针对单个个体发起攻击。",
             "EN": "At the last dawn before the end, even the bright and clear morning sun will tremble and cower away.<br>Dawn's Left Hand is adept at drawing upon Quantum power to launch attacks at single targets."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 4.0,
             "ATK": 14.4,
@@ -24905,13 +23089,7 @@ var _monster = [
             "SPD": 135.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Wind"
@@ -24959,7 +23137,8 @@ var _monster = [
             "CH": "「反物质军团」以黄昏古兽的残片为基「战争熔炉」的万骸哀怨为引所铸炼而成「末日兽」之一。怨灵的痴缠化作有形之手，旧日的灾影凝为掩映诸天之尾。「末日兽」拘禁了未释然亦未死灭的众生意志。或嗔怒，或忧恸，或妄喜——迷相既露，诸邪肆动。「末日兽」的核心为一颗暗物质驱动的引擎。",
             "EN": "Using fragments of the Dusk Leviathan as the foundation, and the weeping bones of thousands of the dead in the Warforge as the agent, the Antimatter Legion cast the Doomsday Beast. The resentful spirits' senseless obsession turns into a tangible hand, and the shadow of the old disaster conceals the heavens. The Doomsday Beast detains the will of all beings that are not at ease and have yet to die. Anger, mourning, or delusional joy — all is revealed, and all evil eagerly throb. The Doomsday Beast's core is a dark matter engine."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 7.5,
             "ATK": 18.0,
@@ -24967,13 +23146,7 @@ var _monster = [
             "SPD": 0.0,
             "Stance": 0.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -25019,7 +23192,8 @@ var _monster = [
             "CH": "金缕错饰的猎犬，行动优雅迅疾。<br>在「建木」上一次伫立时，仙舟人曾以奇术繁育众多异兽珍禽。娄金即为伴随军阵行进的战兽之一。",
             "EN": "A gilded hunting hound that moves with grace and speed.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with esoteric techniques. Golden Hounds were one of the war beasts that walked alongside the army."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -25027,13 +23201,7 @@ var _monster = [
             "SPD": 118.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Elec",
@@ -25076,7 +23244,8 @@ var _monster = [
             "CH": "「记忆」和「照片」很相似。它看似记录了「真实」，但却在侵入「真实」、异化「真实」、篡改「真实」。也许清除其中的「失真」会使它变得可靠，也许不会。",
             "EN": "\"Memory\" is similar to \"photographs\". Even though it appears to record \"reality,\" it actually invades, alienates, and alters \"reality.\" Perhaps removing the \"distortion\" will make it reliable, or perhaps not."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -25084,13 +23253,7 @@ var _monster = [
             "SPD": 118.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Elec",
@@ -25133,7 +23296,8 @@ var _monster = [
             "CH": "身披烟雾的奔狼，行动飘忽不定。<br>在「建木」上一次伫立时，仙舟人曾以奇术繁育众多异兽珍禽。奎木即为伴随军阵行进的战兽之一。",
             "EN": "A wolf surrounded with haze, its movement is elusive and unexpected.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with esoteric techniques. Wooden Lupuses were one of the war beasts that walked alongside the army."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -25141,13 +23305,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Wind",
@@ -25196,7 +23354,8 @@ var _monster = [
             "CH": "奎木凝成的幻影。",
             "EN": "Illusion formed by a Wooden Lupus."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -25204,13 +23363,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Wind",
@@ -25252,7 +23405,8 @@ var _monster = [
             "CH": "潜伏于罗浮仙舟中的秘密传承「药王秘传」的成员。<br>借器修道，与之连同一体。他们渴求复兴古老的丰饶之秘，令仙舟人跨入下一阶段的进化。",
             "EN": "A member of the Disciples of Sanctus Medicus, the secret organization that had lain hidden in the Xianzhou Luofu.<br>They pursue cultivation using tools and merge with them. They long to revive the lost secrets of Abundance, hoping to spur Xianzhou natives toward their next stage of evolution."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.2,
             "ATK": 18.0,
@@ -25260,13 +23414,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -25308,7 +23456,8 @@ var _monster = [
             "CH": "以云吟之术消隐身形的刺客，不知受何人所遣。",
             "EN": "An assassin who conceals their presence using the Cloudhymn technique. It is unclear by whom they are sent."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.2,
             "ATK": 18.0,
@@ -25316,13 +23465,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -25364,7 +23507,8 @@ var _monster = [
             "CH": "高如山岩的苍猿，破坏力惊人。<br>在「建木」上一次伫立时，仙舟人曾以奇术繁育众多异兽珍禽。长右即为伴随军阵行进的战兽之一。",
             "EN": "An ape as tall as mountainous boulders with terrifying might.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with their esoteric techniques. Malefic Apes were one of the war beasts that walked alongside the army."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 12.0,
             "ATK": 18.0,
@@ -25372,13 +23516,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -25430,7 +23568,8 @@ var _monster = [
             "CH": "…",
             "EN": "…"
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -25438,13 +23577,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -25524,7 +23657,8 @@ var _monster = [
             "CH": "真气操作浮游攻击单元，别名「飞剑」的武器。同御剑者心智紧密相连，如臂使指。",
             "EN": "Qi-controlled hovering attack unit, also named \"Flying Sword.\" Closely connected to the wielder's psyche and can be used as an extension of its wielder's will."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -25532,13 +23666,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -25582,7 +23710,8 @@ var _monster = [
             "CH": "真气操作浮游攻击单元，别名「飞剑」的武器。同御剑者心智紧密相连，如臂使指。",
             "EN": "Qi-controlled hovering attack unit, also named \"Flying Sword.\" Closely connected to the wielder's psyche and can be used as an extension of its wielder's will."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -25590,13 +23719,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -25640,7 +23763,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的近卫战士，负责冲锋陷阵。<br>战斗中，银鬃近卫的攻击会降低我方的防御力。",
             "EN": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.5,
             "ATK": 14.99994,
@@ -25649,11 +23773,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 19.0,
-            "Stance": 0.0
+            "SPD": 19.0
         },
         "Weak": [
             "Wind",
@@ -25696,7 +23816,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的射手，负责狙击敌人。<br>战斗中，银鬃射手的射击会对我方造成裂伤。",
             "EN": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.45,
             "ATK": 14.99994,
@@ -25705,11 +23826,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 6.0,
-            "Stance": 0.0
+            "SPD": 6.0
         },
         "Weak": [
             "Phys",
@@ -25752,7 +23869,8 @@ var _monster = [
             "CH": "徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>炽燃徘徊者的攻击会对处于灼烧状态的敌人造成额外效果。",
             "EN": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.65001,
             "ATK": 18.0,
@@ -25761,9 +23879,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": 40.0,
             "Stance": -5.0
         },
@@ -25814,7 +23929,8 @@ var _monster = [
             "CH": "",
             "EN": ""
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -25822,13 +23938,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Quantum",
@@ -25873,7 +23983,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自深黯星空的彼端，透过重重帷幕而来。其身躯犹如病态的枝叶探入现实中，使用虚数的力量肆意改造现实。",
             "EN": "Strange beings that do not belong to this world. Passing through countless barriers, they arrive from the other side of the vast, dark, starry sky. Their bodies are like diseased branches breaching into reality, using Imaginary power to twist reality at will."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 17.4,
             "ATK": 14.99994,
@@ -25882,11 +23993,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": -2.0,
-            "Stance": 0.0
+            "SPD": -2.0
         },
         "Weak": [
             "Phys",
@@ -25929,7 +24036,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形。其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的燃烬所取代。<br>战斗中火焚灾影会挥舞燃烧的斧刃，灼烧敌人。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -25937,13 +24045,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind",
@@ -25987,7 +24089,8 @@ var _monster = [
             "CH": "尚未死灭的战士经「战争熔炉」的重铸获得了名为「毁灭」的力量，反物质补足了他们的残躯，负粒子在其躯体中震荡。",
             "EN": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies, and negative particles reverberate throughout their forms."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 12.0,
             "ATK": 18.0,
@@ -25995,13 +24098,7 @@ var _monster = [
             "SPD": 133.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -26043,7 +24140,8 @@ var _monster = [
             "CH": "潜伏于罗浮仙舟中的秘密传承「药王秘传」的成员。<br>得药炼心，结丹炼己。他们渴求复兴古老的丰饶之秘，令仙舟人跨入下一阶段的进化。",
             "EN": "A member of the Disciples of Sanctus Medicus, the secret sect that hid within the Xianzhou Luofu. <br>With medicine, purify the heart. With elixir, transform one's body. They long to revive the ancient mysteries of Abundance, hoping to spur Xianzhou natives towards their next stage of evolution."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.4,
             "ATK": 45.0,
@@ -26052,9 +24150,6 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": 20.0,
             "Stance": 1.0
         },
@@ -26101,7 +24196,8 @@ var _monster = [
             "CH": "以古老机巧术铸造的镇守金人。<br>无数岁月前，金人随着仙舟出航求取仙方，监管和辅助人类进行战争——但历尽叛乱后，金人最终为仙舟人所降服。<br>而今所有的金人都被符箓严格宰制，用以把守机要重地。",
             "EN": "Garrison aurumaton created with ancient ingenium technology.<br>Countless years ago, the aurumatons set sail with the Xianzhou to seek divine recipes of immortality, and were tasked to oversee humanity and to aid humankind during warfare. However, after countless rebellions, they were finally overpowered by the Xianzhou natives.<br>Now, all aurumatons are strictly controlled with talismans, and are employed to guard important places."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 17.0,
             "ATK": 18.0,
@@ -26109,13 +24205,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec",
@@ -26160,7 +24250,8 @@ var _monster = [
             "CH": "高如山岩的苍猿，破坏力惊人。<br>在「建木」上一次伫立时，仙舟人曾以奇术繁育众多异兽珍禽。长右即为伴随军阵行进的战兽之一。",
             "EN": "An ape as tall as mountainous boulders with terrifying might.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with their esoteric techniques. Malefic Apes were one of the war beasts that walked alongside the army."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 9.0,
             "ATK": 22.5,
@@ -26169,10 +24260,6 @@ var _monster = [
             "Stance": 12.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -4.0
         },
         "Weak": [
@@ -26226,7 +24313,8 @@ var _monster = [
             "CH": "死亡之后遭遇裂界侵蚀的躯壳残骸，其生命体征虽发生改变，但依然在执行抹消的指令。<br>在战斗中虚卒·抹消者可快速多次发动攻击，但若无法消灭敌方目标会受到大量伤害。",
             "EN": "Bodies that continued to be corroded by the Fragmentum after death. While their vital signs have changed, they continue to carry out their orders to eliminate.<br>Voidranger: Eliminators can quickly unleash multiple attacks in combat, but if they are unable to eliminate their foes, they will suffer a massive amount of damage."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 12.0,
             "ATK": 18.0,
@@ -26234,13 +24322,7 @@ var _monster = [
             "SPD": 133.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -26283,7 +24365,8 @@ var _monster = [
             "CH": "「反物质军团」利用「战争熔炉」将战士与古兽的残片融合重铸后的产物。<br>虽数量相对稀少，但兼具战士的智能与古兽的力量与机动性。在战斗中，消灭敌人后会立即再次行动。",
             "EN": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. In combat, it can immediately take another action after destroying an enemy."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 25.0,
             "ATK": 18.0,
@@ -26291,13 +24374,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -26343,7 +24420,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责替代人类进行最基础的体力劳动。",
             "EN": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -26351,13 +24429,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -26400,7 +24472,8 @@ var _monster = [
             "CH": "dev_由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。然而驱动它的这股欲望早已扭曲，模糊不清。",
             "EN": ""
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 25.0,
             "ATK": 18.0,
@@ -26408,13 +24481,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -26459,7 +24526,8 @@ var _monster = [
             "CH": "徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>深寒徘徊者会吸收友方生命值以大幅强化自身。",
             "EN": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Frigid Prowler will drain HP from allies to greatly enhance itself."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 25.0,
             "ATK": 18.0,
@@ -26467,13 +24535,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -26516,7 +24578,8 @@ var _monster = [
             "CH": "困居于下层区的人们为了生存，往往会不惜铤而走险深入裂界寻找任何可用的物资，其中被他们掘出的古代机器成了他们最好的帮手。",
             "EN": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -26524,13 +24587,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -26573,7 +24630,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，形如某种载具，然而人们似乎早就忘却了它载具的用途。<br>战斗中自动机兵「战犬」能提供支援，回复战友的生命。",
             "EN": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.4,
             "ATK": 8.18172,
@@ -26581,13 +24639,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec"
@@ -26630,7 +24682,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责移动的附肢上装置着信号灯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「甲虫」会创造力场护盾保护自己。",
             "EN": "An automaton pieced together with Old World technology. A signal light is placed on its legs, and the unit may have been used for mining or construction operations.<br>In combat, Automaton Beetles can create forcefields to shield themselves."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.1,
             "ATK": 8.18172,
@@ -26638,13 +24691,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -26686,7 +24733,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，少见的人形机械，其右臂部分统一装置着链锯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「齿狼」会持续叠加速度和伤害加成。",
             "EN": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs can continuously stack SPD and DMG buffs."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 25.0,
             "ATK": 18.0,
@@ -26694,13 +24742,7 @@ var _monster = [
             "SPD": 115.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -26744,7 +24786,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如放射高热，猛烈燃烧的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.65,
             "ATK": 18.0,
@@ -26753,11 +24796,7 @@ var _monster = [
             "Stance": 1.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 37.0,
-            "Stance": 0.0
+            "SPD": 37.0
         },
         "Weak": [
             "Phys",
@@ -26802,7 +24841,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如带来低温，冻结周遭环境的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.65,
             "ATK": 18.0,
@@ -26811,11 +24851,7 @@ var _monster = [
             "Stance": 1.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 37.0,
-            "Stance": 0.0
+            "SPD": 37.0
         },
         "Weak": [
             "Fire",
@@ -26860,7 +24896,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如负载电荷，喷薄雷霆的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird brimming with electricity, releasing thunderclaps in all directions."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.65,
             "ATK": 18.0,
@@ -26869,11 +24906,7 @@ var _monster = [
             "Stance": 1.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 37.0,
-            "Stance": 0.0
+            "SPD": 37.0
         },
         "Weak": [
             "Phys",
@@ -26918,7 +24951,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如气流缠绕，驰翔疾风的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird engulfed in twisting winds, raging on like a tornado."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.65,
             "ATK": 18.0,
@@ -26927,11 +24961,7 @@ var _monster = [
             "Stance": 1.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 37.0,
-            "Stance": 0.0
+            "SPD": 37.0
         },
         "Weak": [
             "Fire",
@@ -26976,7 +25006,8 @@ var _monster = [
             "CH": "工造司匠人随手造就的机巧发明。原本是不具灵智，用以示警招众的警铃，如今却因为某些异变被赋予了短暂的「生命」。",
             "EN": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate alarm bell used for warnings, but now it has been given a short-lived \"life\" due to certain mutations."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 25.0,
             "ATK": 18.0,
@@ -26985,9 +25016,6 @@ var _monster = [
             "Stance": 1.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": 37.0,
             "Stance": 1.0
         },
@@ -27032,7 +25060,8 @@ var _monster = [
             "CH": "工造司匠人随手造就的机巧发明。原本是不具灵智，用以净化空气的香炉，如今却因为某些异变被赋予了短暂的「生命」。",
             "EN": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate burner used for purifying the air, but now it has been given a short-lived \"life\" due to certain mutations."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 25.0,
             "ATK": 18.0,
@@ -27041,9 +25070,6 @@ var _monster = [
             "Stance": 1.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": 37.0,
             "Stance": 1.0
         },
@@ -27088,7 +25114,8 @@ var _monster = [
             "CH": "渴求复兴古老的丰饶之秘，并引领仙舟人再度踏上解脱登仙大道的修炼者。<br>如今，他们的愿望得遂。受赐于古老神迹的力量，以其为甲胄、为武器，并触及了长生不死的秘密。",
             "EN": "A cultivator who longs to revive the ancient mysteries of Abundance, and to guide the Xianzhou natives back on the liberating path of immortality.<br>Now, their wish has been fulfilled. Gifted by the power of the ancient miracle and using it as both weapon and armor, they managed to touch on the secret of immortality."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 12.0,
             "ATK": 18.0,
@@ -27096,13 +25123,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind",
@@ -27148,7 +25169,8 @@ var _monster = [
             "CH": "徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>炽燃徘徊者的攻击会对处于灼烧状态的敌人造成额外效果。",
             "EN": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 25.0,
             "ATK": 18.0,
@@ -27156,13 +25178,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -27211,7 +25227,8 @@ var _monster = [
             "CH": "潜伏于罗浮仙舟中的秘密传承「药王秘传」的成员。<br>得药炼心，结丹炼己。他们渴求复兴古老的丰饶之秘，令仙舟人跨入下一阶段的进化。",
             "EN": "A member of the Disciples of Sanctus Medicus, the secret sect that hid within the Xianzhou Luofu. <br>With medicine, purify the heart. With elixir, transform one's body. They long to revive the ancient mysteries of Abundance, hoping to spur Xianzhou natives towards their next stage of evolution."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.8,
             "ATK": 22.5,
@@ -27219,13 +25236,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Imaginary"
@@ -27269,7 +25280,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，加装了厚重的铠甲，用于冲锋陷阵保护银鬃铁卫。<br>战斗中，自动机兵「灰熊」会发出信号召来「蜘蛛」合作战斗，同时会积蓄动能发出强力一击。",
             "EN": "An automaton pieced together with Old World technology. It's been reinforced with durable armor to charge forward and protect the Silvermane Guards.<br>In combat, an Automaton Grizzly will summon Automaton Spiders and unleash a powerful charged attack."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 25.0,
             "ATK": 18.0,
@@ -27277,13 +25289,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 14.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -27328,7 +25334,8 @@ var _monster = [
             "CH": "徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>炽燃徘徊者的攻击会对处于灼烧状态的敌人造成额外效果。",
             "EN": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.65001,
             "ATK": 18.0,
@@ -27337,9 +25344,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": 40.0,
             "Stance": -5.0
         },
@@ -27390,7 +25394,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如带来低温，冻结周遭环境的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -27399,11 +25404,7 @@ var _monster = [
             "Stance": 1.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 17.0,
-            "Stance": 0.0
+            "SPD": 17.0
         },
         "Weak": [
             "Fire",
@@ -27448,7 +25449,8 @@ var _monster = [
             "CH": "裂界侵蚀的受害者们拼接成的奇怪造物。麻木的面孔循环罗列，无有思想，无有情绪，曾名之为人的部分已尽数流逝。",
             "EN": "Victims of Fragmentum corrosion pieced together into one bizarre creature, their numb faces forming a sphere without thought or emotion. Any part that was once human has since vanished."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.0,
             "ATK": 18.0,
@@ -27457,11 +25459,7 @@ var _monster = [
             "Stance": 1.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 33.0,
-            "Stance": 0.0
+            "SPD": 33.0
         },
         "Weak": [
             "Fire",
@@ -27506,7 +25504,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如负载电荷，喷薄雷霆的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird brimming with electricity, releasing thunderclaps in all directions."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -27515,11 +25514,7 @@ var _monster = [
             "Stance": 1.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 17.0,
-            "Stance": 0.0
+            "SPD": 17.0
         },
         "Weak": [
             "Phys",
@@ -27564,7 +25559,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如气流缠绕，驰翔疾风的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird engulfed in twisting winds, raging on like a tornado."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -27573,11 +25569,7 @@ var _monster = [
             "Stance": 1.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 17.0,
-            "Stance": 0.0
+            "SPD": 17.0
         },
         "Weak": [
             "Fire",
@@ -27622,7 +25614,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形，其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的冰棱所取代。<br>战斗中永冬灾影会挥舞冰造的斧刃，延缓敌人的行动。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by an icicle of faceless ice.<br>Everwinter Shadewalkers will swing their ice ax and slow their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -27631,11 +25624,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 33.0,
-            "Stance": 0.0
+            "SPD": 33.0
         },
         "Weak": [
             "Phys",
@@ -27680,7 +25669,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形。其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的燃烬所取代。<br>战斗中火焚灾影会挥舞燃烧的斧刃，灼烧敌人。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -27689,11 +25679,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 33.0,
-            "Stance": 0.0
+            "SPD": 33.0
         },
         "Weak": [
             "Ice",
@@ -27738,7 +25724,8 @@ var _monster = [
             "CH": "困居于下层区的人们为了生存，往往会不惜铤而走险深入裂界寻找任何可用的物资，其中被他们掘出的古代机器成了他们最好的帮手。",
             "EN": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -27747,11 +25734,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 33.0,
-            "Stance": 0.0
+            "SPD": 33.0
         },
         "Weak": [
             "Fire",
@@ -27795,7 +25778,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的近卫战士，负责冲锋陷阵。<br>战斗中，银鬃近卫的攻击会降低我方的防御力。",
             "EN": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.3,
             "ATK": 18.0,
@@ -27804,11 +25788,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 17.0,
-            "Stance": 0.0
+            "SPD": 17.0
         },
         "Weak": [
             "Fire",
@@ -27851,7 +25831,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，形如某种载具，然而人们似乎早就忘却了它载具的用途。<br>战斗中自动机兵「战犬」能提供支援，回复战友的生命。",
             "EN": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.4,
             "ATK": 18.0,
@@ -27860,11 +25841,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 33.0,
-            "Stance": 0.0
+            "SPD": 33.0
         },
         "Weak": [
             "Phys",
@@ -27908,7 +25885,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如放射高热，猛烈燃烧的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -27917,11 +25895,7 @@ var _monster = [
             "Stance": 1.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 17.0,
-            "Stance": 0.0
+            "SPD": 17.0
         },
         "Weak": [
             "Phys",
@@ -27966,7 +25940,8 @@ var _monster = [
             "CH": "「星际和平公司」的资深员工，级别至少是项目组的小组长。驾驶的机甲属于公有资产，一旦损坏需要自费赔偿。工资尚可，足够在公司旗下的企业舰上租下一室一厅的单间。",
             "EN": "An Interastral Peace Corporation senior staff member with a minimal rank of project team leader. The mech they drive belongs to the IPC. If damaged, its repair fees have to be paid out-of-pocket. With a half-decent salary, they can at least afford to rent a one-bedroom apartment on one of the IPC's enterprise ships."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 25.0,
             "ATK": 18.0,
@@ -27974,13 +25949,7 @@ var _monster = [
             "SPD": 102.0,
             "Stance": 14.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -28027,7 +25996,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责替代人类进行最基础的体力劳动。",
             "EN": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -28035,13 +26005,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -28084,7 +26048,8 @@ var _monster = [
             "CH": "代码受到影响后的完整投影。参照本体为贝洛伯格的戍卫部队「银鬃铁卫」分队的领导者。",
             "EN": "A complete projection produced by compromised codes. The referenced entity is the leader of a squad of Belobog's Silvermane Guards."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 4.5,
             "ATK": 19.99998,
@@ -28092,13 +26057,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 6.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -28148,7 +26107,8 @@ var _monster = [
             "CH": "「星际和平公司」的基层员工，主要负责处理上不得台面的「业务疏漏」。工资不高，只能在公司旗下的企业舰上合租房间。",
             "EN": "An Interastral Peace Corporation grunt worker whose job mainly deals with shady \"business oversights.\" With a meager salary, the only lodging they can afford is a shared room on one of the IPC's enterprise ships."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 13.0,
             "ATK": 18.0,
@@ -28156,13 +26116,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -28205,7 +26159,8 @@ var _monster = [
             "CH": "「星际和平公司」的基层员工，主要负责维持公司管辖地区的治安秩序。工资不高，只能在公司旗下的企业舰上合租房间。",
             "EN": "An Interastral Peace Corporation grunt worker whose job mainly involves maintaining order in locations ruled by the IPC. With a meager salary, the only lodging they can afford is a shared room on one of the IPC's enterprise ships."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 13.0,
             "ATK": 18.0,
@@ -28213,13 +26168,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -28262,7 +26211,8 @@ var _monster = [
             "CH": "旧世界的古老遗物，地髓开拓团的时代遗留下的自动控制单元。与大部分无智、只接受指令的机器不同，「监督机器」具有复杂的思考能力。<br>在战斗中，「监督机器」能召唤各种类型的机械并操控机械臂抓取和控制敌人，对目标进行沉重的打击。",
             "EN": "An ancient relic from the Old World, an automated control unit left behind by the Geomarrow Development Group. Unlike the vast majority of machines that lack intellect and can only act on command, \"monitoring automaton\" is capable of much more complex thinking.<br>In battle, \"monitoring automaton\" can summon various machines as well as a robot arm unit to grab and control enemies while unleashing devastating strikes."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 22.0,
             "ATK": 18.0,
@@ -28271,10 +26221,6 @@ var _monster = [
             "Stance": 12.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 3.0
         },
         "Weak": [
@@ -28335,7 +26281,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，少见的人形机械，其右臂部分统一装置着链锯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「齿狼」的链锯会造成裂伤，令对手持续损失生命值。",
             "EN": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 4.7,
             "ATK": 18.0,
@@ -28343,13 +26290,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Elec",
@@ -28394,7 +26335,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责替代人类进行最基础的体力劳动。<br>战斗中，自动机兵「蜘蛛」的动力非常不稳定，极易在损毁时发生殉爆事故。",
             "EN": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor.<br>In combat, Automaton Spiders are highly unstable, capable of exploding when damaged."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -28402,13 +26344,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind"
@@ -28458,7 +26394,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责替代人类进行最基础的体力劳动。<br>战斗中，自动机兵「蜘蛛」的动力非常不稳定，极易在损毁时发生殉爆事故。",
             "EN": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor.<br>In combat, Automaton Spiders are highly unstable, capable of exploding when damaged."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -28466,13 +26403,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind"
@@ -28522,7 +26453,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如放射高热，猛烈燃烧的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -28530,13 +26462,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice"
@@ -28580,7 +26506,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如放射高热，猛烈燃烧的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -28588,13 +26515,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice"
@@ -28638,7 +26559,8 @@ var _monster = [
             "CH": "「反物质军团」为防止反粒子逸散发生湮灭，制造了两种用于运输的小型离子阱，统称「重子」与「反重子」。<br>「反重子」具备基本的智能，能在战场上回应「虚卒」的意志与召唤，为其开辟道路。",
             "EN": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Antibaryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -28646,13 +26568,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Quantum"
@@ -28694,7 +26610,8 @@ var _monster = [
             "CH": "「反物质军团」为防止反粒子逸散发生湮灭，制造了两种用于运输的小型离子阱，统称「重子」与「反重子」。<br>「反重子」具备基本的智能，能在战场上回应「虚卒」的意志与召唤，为其开辟道路。",
             "EN": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Antibaryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -28702,13 +26619,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Quantum"
@@ -28750,7 +26661,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。<br>商务扑满可为其他公司员工提供绩效点。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.<br>The Commerce Trotter can provide Performance Points for other IPC Workers."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 12.0,
             "ATK": 18.0,
@@ -28758,13 +26670,7 @@ var _monster = [
             "SPD": 90.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -28806,7 +26712,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.4,
             "ATK": 18.0,
@@ -28815,11 +26722,7 @@ var _monster = [
             "Stance": 3.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 17.0,
-            "Stance": 0.0
+            "SPD": 17.0
         },
         "Weak": [
             "Phys",
@@ -28864,7 +26767,8 @@ var _monster = [
             "CH": "崇信丰饶的秘密组织「药王秘传」信徒渴求的形态，摆脱人性重负，以仙道重塑的真体。<br>太古时代，求道者们自建木中参悟玄旨，自诩「仙人」。他们自在无拘，将血肉众生如泥塑形。在无数次变化间，他们忘却了自己的本来面目。",
             "EN": "The form craved by the members of Disciples of Sanctus Medicus, a secret organization that worships Abundance. A true appearance that cast off the burdens of humanity and has been reforged using the way of immortality.<br>In ancient times, those who sought immortality received wisdom from the Ambrosial Arbor and called themselves Celestials. They lived without restraints and molded the flesh of themselves and others at will. They have long forgotten their original appearances after countless metamorphoses."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 9.0,
             "ATK": 18.0,
@@ -28872,13 +26776,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -28930,7 +26828,8 @@ var _monster = [
             "CH": "崇信丰饶的秘密组织「药王秘传」信徒渴求的形态，摆脱人性重负，以仙道重塑的真体。<br>太古时代，求道者们自建木中参悟玄旨，自诩「仙人」。他们自在无拘，将血肉众生如泥塑形。在无数次变化间，他们忘却了自己的本来面目。",
             "EN": "The form craved by the members of Disciples of Sanctus Medicus, a secret organization that worships Abundance. A true appearance that cast off the burdens of humanity and has been reforged using the way of immortality.<br>In ancient times, those who sought immortality received wisdom from the Ambrosial Arbor and called themselves Celestials. They lived without restraints and molded the flesh of themselves and others at will. They have long forgotten their original appearances after countless metamorphoses."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 9.0,
             "ATK": 18.0,
@@ -28938,13 +26837,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 14.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -28990,7 +26883,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的射手，负责狙击敌人。<br>战斗中，银鬃射手的射击会对我方造成裂伤。",
             "EN": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.1,
             "ATK": 18.0,
@@ -28999,11 +26893,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 33.0,
-            "Stance": 0.0
+            "SPD": 33.0
         },
         "Weak": [
             "Phys",
@@ -29046,7 +26936,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」分队的领导者。<br>战斗中，银鬃尉官会架起巨盾并强化自身。攻击架盾状态下的银鬃尉官，会立即遭到强力的反击。",
             "EN": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -29055,11 +26946,7 @@ var _monster = [
             "Stance": 8.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 13.0,
-            "Stance": 0.0
+            "SPD": 13.0
         },
         "Weak": [
             "Phys",
@@ -29105,7 +26992,8 @@ var _monster = [
             "CH": "罗浮仙舟云骑军地面巡防部队的成员，手持阵刀，身着轻银打造的铠甲，维护各个洞天的日常秩序。",
             "EN": "Member of the ground patrol division of the Xianzhou Luofu Cloud Knights. Wearing a light set of silver armor and with a Devastator Glaive in hand, they are in charge of maintaining order in every delve."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -29114,11 +27002,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 13.0,
-            "Stance": 0.0
+            "SPD": 13.0
         },
         "Weak": [
             "Fire",
@@ -29169,7 +27053,8 @@ var _monster = [
             "CH": "工造司匠人随手造就的机巧发明。原本是不具灵智，用以示警招众的警铃，如今却因为某些异变被赋予了短暂的「生命」。",
             "EN": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate alarm bell used for warnings, but now it has been given a short-lived \"life\" due to certain mutations."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.9,
             "ATK": 18.0,
@@ -29178,11 +27063,7 @@ var _monster = [
             "Stance": 1.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 17.0,
-            "Stance": 0.0
+            "SPD": 17.0
         },
         "Weak": [
             "Phys",
@@ -29225,7 +27106,8 @@ var _monster = [
             "CH": "工造司匠人随手造就的机巧发明。原本是不具灵智，用以净化空气的香炉，如今却因为某些异变被赋予了短暂的「生命」。",
             "EN": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate burner used for purifying the air, but now it has been given a short-lived \"life\" due to certain mutations."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.9,
             "ATK": 18.0,
@@ -29234,11 +27116,7 @@ var _monster = [
             "Stance": 1.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 17.0,
-            "Stance": 0.0
+            "SPD": 17.0
         },
         "Weak": [
             "Elec",
@@ -29281,7 +27159,8 @@ var _monster = [
             "CH": "工造司匠人随手造就的机巧发明。原本是不具灵智，用以烛照黑暗的灯具，如今却因为某些异变被赋予了短暂的「生命」。",
             "EN": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate illuminator used for casting light upon darkness, but now it has been given a short-lived \"life\" due to certain mutations."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -29290,11 +27169,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 33.0,
-            "Stance": 0.0
+            "SPD": 33.0
         },
         "Weak": [
             "Phys",
@@ -29338,7 +27213,8 @@ var _monster = [
             "CH": "以古老机巧术铸造的镇守金人。<br>无数岁月前，金人随着仙舟出航求取仙方，监管和辅助人类进行战争——但历尽叛乱后，金人最终为仙舟人所降服。<br>而今所有的金人都被符箓严格宰制，用以把守机要重地。",
             "EN": "Garrison aurumaton created with ancient ingenium technology.<br>Countless years ago, the aurumatons set sail with the Xianzhou to seek divine recipes of immortality, and were tasked to oversee humanity and to aid humankind during warfare. However, after countless rebellions, they were finally overpowered by the Xianzhou natives.<br>Now, all aurumatons are strictly controlled with talismans, and are employed to guard important places."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -29347,11 +27223,7 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 33.0,
-            "Stance": 0.0
+            "SPD": 33.0
         },
         "Weak": [
             "Elec",
@@ -29397,7 +27269,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上倒映着幽深黯淡的星空。<br>战斗中，外宇宙之冰能轻易将敌人冻结凝固。",
             "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -29406,11 +27279,7 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 33.0,
-            "Stance": 0.0
+            "SPD": 33.0
         },
         "Weak": [
             "Fire",
@@ -29463,7 +27332,8 @@ var _monster = [
             "CH": "在裂界延展中遭遇侵蚀的怪物，在力量的本源发生畸变后拥有了更为灵活的战斗方式。<br>兴风者会利用风的力量协助自己战斗，借助风向射出更为迅猛的箭矢。",
             "EN": "Monsters that have experienced corrosion as the Fragmentum expanded. They now have a more nimble way of fighting after the source of their power mutated.<br>Stormbringers utilize the power of the wind to aid them in battle, enabling them to fire arrows more rapidly."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -29472,11 +27342,7 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 33.0,
-            "Stance": 0.0
+            "SPD": 33.0
         },
         "Weak": [
             "Fire",
@@ -29529,7 +27395,8 @@ var _monster = [
             "CH": "「反物质军团」为防止反粒子逸散发生湮灭，制造了两种用于运输的小型离子阱，统称「重子」与「反重子」。<br>「重子」具备基本的智能，能在战场上回应「虚卒」的意志与召唤，为其开辟道路。",
             "EN": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Baryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -29538,11 +27405,7 @@ var _monster = [
             "Stance": 1.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 17.0,
-            "Stance": 0.0
+            "SPD": 17.0
         },
         "Weak": [
             "Ice",
@@ -29585,7 +27448,8 @@ var _monster = [
             "CH": "「反物质军团」为防止反粒子逸散发生湮灭，制造了两种用于运输的小型离子阱，统称「重子」与「反重子」。<br>「反重子」具备基本的智能，能在战场上回应「虚卒」的意志与召唤，为其开辟道路。",
             "EN": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Antibaryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -29594,11 +27458,7 @@ var _monster = [
             "Stance": 1.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 17.0,
-            "Stance": 0.0
+            "SPD": 17.0
         },
         "Weak": [
             "Phys",
@@ -29641,7 +27501,8 @@ var _monster = [
             "CH": "尚未死灭的战士经「战争熔炉」的重铸获得了名为「毁灭」的力量，反物质补足了他们的残躯，负粒子在其躯体中震荡。<br>「反物质军团」的基本作战单元，「毁灭」意志的具现化，遵从破坏本能行事，具有强烈的攻击性。",
             "EN": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -29650,11 +27511,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 33.0,
-            "Stance": 0.0
+            "SPD": 33.0
         },
         "Weak": [
             "Phys",
@@ -29704,7 +27561,8 @@ var _monster = [
             "CH": "银鬃铁卫中的炮手，使用便携的手炮进行战斗。<br> 在战斗中，银鬃炮手会和其它目标发动猛烈的连携攻击。",
             "EN": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, Silvermane Cannoneers will launch brutal chain attacks with their allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.1,
             "ATK": 18.0,
@@ -29713,11 +27571,7 @@ var _monster = [
             "Stance": 3.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 33.0,
-            "Stance": 0.0
+            "SPD": 33.0
         },
         "Weak": [
             "Phys",
@@ -29767,7 +27621,8 @@ var _monster = [
             "CH": "成功挺受住湮灭效应的 「虚卒」，正反粒子以诡异的形态在其身上达成了短暂的平衡，比「掠夺者」拥有更加特殊的力量。<br>「反物质军团」的基本作战单元，拥有智能，能够在小范围内控制「掠夺者」的行动。",
             "EN": "A Voidranger that has successfully survived particle annihilation, the positive and negative particles in its body have temporarily achieved a strange balance, granting them more power than ordinary reavers.<br>Basic combat units of the Antimatter Legion. They possess some intelligence and are able to control reavers within a small surrounding area."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.8,
             "ATK": 18.0,
@@ -29776,11 +27631,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 13.0,
-            "Stance": 0.0
+            "SPD": 13.0
         },
         "Weak": [
             "Wind",
@@ -29824,7 +27675,8 @@ var _monster = [
             "CH": "代码受到影响后的错误投影。参照本体为以古老机巧术铸造的镇守金人。<br>无数岁月前，金人随着仙舟出航求取仙方，监管和辅助人类进行战争——但历尽叛乱后，金人最终为仙舟人所降服。<br>而今所有的金人都被符箓严格宰制，用以把守机要重地。",
             "EN": "A false projection produced by compromised codes. The original referent entity is the garrison aurumatons created with ancient ingenium technology.<br>Countless years ago, the aurumatons set sail with the Xianzhou to seek divine recipes of immortality, and were tasked to oversee humanity and to aid humankind during warfare. However, after countless rebellions, they were finally overpowered by the Xianzhou natives.<br>Now, all aurumatons are strictly controlled with talismans, and are employed to guard important places."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -29832,13 +27684,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -29888,7 +27734,8 @@ var _monster = [
             "CH": "代码受到影响后的错误投影。参照本体为渴求复兴古老的丰饶之秘，并引领仙舟人再度踏上解脱登仙大道的修炼者。<br>如今，他们的愿望得遂。受赐于古老神迹的力量，以其为甲胄、为武器，并触及了长生不死的秘密。",
             "EN": "A false projection produced by compromised codes. The original referent entity is a cultivator who longs to revive the ancient mysteries of Abundance, and to guide the Xianzhou natives back on the liberating path of immortality.<br>Now, their wish has been fulfilled. Gifted by the power of the ancient miracle and using it as both weapon and armor, they managed to touch on the secret of immortality."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 17.0,
             "ATK": 18.0,
@@ -29896,13 +27743,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind",
@@ -29954,7 +27795,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形，其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的冰棱所取代。<br>战斗中永冬灾影会挥舞冰造的斧刃，延缓敌人的行动。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by an icicle of faceless ice.<br>Everwinter Shadewalkers will swing their ice ax and slow their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.25,
             "ATK": 18.0,
@@ -29962,13 +27804,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -30012,7 +27848,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形。其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的燃烬所取代。<br>战斗中火焚灾影会挥舞燃烧的斧刃，灼烧敌人。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.5,
             "ATK": 18.0,
@@ -30020,13 +27857,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind",
@@ -30070,7 +27901,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形。其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的燃烬所取代。<br>战斗中火焚灾影会挥舞燃烧的斧刃，灼烧敌人。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -30078,13 +27910,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind",
@@ -30128,7 +27954,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形。其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的燃烬所取代。<br>战斗中火焚灾影会挥舞燃烧的斧刃，灼烧敌人。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.75,
             "ATK": 13.84614,
@@ -30136,13 +27963,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind",
@@ -30186,7 +28007,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形。其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的燃烬所取代。<br>战斗中火焚灾影会挥舞燃烧的斧刃，灼烧敌人。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.75,
             "ATK": 13.84614,
@@ -30194,13 +28016,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind",
@@ -30244,7 +28060,8 @@ var _monster = [
             "CH": "徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>炽燃徘徊者的攻击会对处于灼烧状态的敌人造成额外效果。",
             "EN": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 12.00006,
@@ -30253,9 +28070,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": 20.0,
             "Stance": -2.0
         },
@@ -30306,7 +28120,8 @@ var _monster = [
             "CH": "徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>炽燃徘徊者的攻击会对处于灼烧状态的敌人造成额外效果。",
             "EN": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 8.0,
             "ATK": 13.84614,
@@ -30314,13 +28129,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Elec",
@@ -30368,7 +28177,8 @@ var _monster = [
             "CH": "徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>炽燃徘徊者的攻击会对处于灼烧状态的敌人造成额外效果。",
             "EN": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.0,
             "ATK": 18.0,
@@ -30376,13 +28186,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Elec",
@@ -30430,7 +28234,8 @@ var _monster = [
             "CH": "徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>炽燃徘徊者的攻击会对处于灼烧状态的敌人造成额外效果。",
             "EN": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 12.5,
             "ATK": 18.0,
@@ -30439,10 +28244,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -2.0
         },
         "Weak": [
@@ -30492,7 +28293,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如放射高热，猛烈燃烧的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -30500,13 +28302,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice"
@@ -30550,7 +28346,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如带来低温，冻结周遭环境的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -30558,13 +28355,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Wind"
@@ -30608,7 +28399,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上燃烧着星辰内核的烈焰。<br>在战斗中，外宇宙之炎能轻易将敌人焚作灰烬。",
             "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 12.00006,
@@ -30617,11 +28409,7 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": -10.0,
-            "Stance": 0.0
+            "SPD": -10.0
         },
         "Weak": [
             "Phys",
@@ -30669,7 +28457,8 @@ var _monster = [
             "CH": "由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。这股力量四处徘徊，漫无目的，直到感受到其主的意志才会听令行事。",
             "EN": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. This energy wanders around aimlessly, acting only when executing the will of its master."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 7.5,
             "ATK": 18.0,
@@ -30678,10 +28467,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -2.0
         },
         "Weak": [
@@ -30737,7 +28522,8 @@ var _monster = [
             "CH": "尚未死灭的战士经「战争熔炉」的重铸获得了名为「毁灭」的力量，反物质补足了他们的残躯，负粒子在其躯体中震荡。<br>「反物质军团」的基本作战单元，「毁灭」意志的具现化，遵从破坏本能行事，具有强烈的攻击性。",
             "EN": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 12.00006,
@@ -30746,10 +28532,6 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 1.0
         },
         "Weak": [
@@ -30800,7 +28582,8 @@ var _monster = [
             "CH": "尚未死灭的战士经「战争熔炉」的重铸获得了名为「毁灭」的力量，反物质补足了他们的残躯，负粒子在其躯体中震荡。<br>「反物质军团」的基本作战单元，「毁灭」意志的具现化，遵从破坏本能行事，具有强烈的攻击性。",
             "EN": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.5,
             "ATK": 9.0,
@@ -30809,11 +28592,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": -30.0,
-            "Stance": 0.0
+            "SPD": -30.0
         },
         "Weak": [
             "Phys",
@@ -30863,7 +28642,8 @@ var _monster = [
             "CH": "尚未死灭的战士经「战争熔炉」的重铸获得了名为「毁灭」的力量，反物质补足了他们的残躯，负粒子在其躯体中震荡。<br>「反物质军团」的基本作战单元，「毁灭」意志的具现化，遵从破坏本能行事，具有强烈的攻击性。",
             "EN": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 9.0,
@@ -30872,10 +28652,6 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 2.0
         },
         "Weak": [
@@ -30926,7 +28702,8 @@ var _monster = [
             "CH": "成功挺受住湮灭效应的 「虚卒」，正反粒子以诡异的形态在其身上达成了短暂的平衡，比「掠夺者」拥有更加特殊的力量。<br>「反物质军团」的基本作战单元，拥有智能，能够在小范围内控制「掠夺者」的行动。",
             "EN": "A Voidranger that has successfully survived particle annihilation, the positive and negative particles in its body have temporarily achieved a strange balance, granting them more power than ordinary reavers.<br>Basic combat units of the Antimatter Legion. They possess some intelligence and are able to control reavers within a small surrounding area."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.8,
             "ATK": 12.00006,
@@ -30934,13 +28711,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Wind",
             "Imaginary"
@@ -30983,7 +28754,8 @@ var _monster = [
             "CH": "成功挺受住湮灭效应的 「虚卒」，正反粒子以诡异的形态在其身上达成了短暂的平衡，比「掠夺者」拥有更加特殊的力量。<br>「反物质军团」的基本作战单元，拥有智能，能够在小范围内控制「掠夺者」的行动。",
             "EN": "A Voidranger that has successfully survived particle annihilation, the positive and negative particles in its body have temporarily achieved a strange balance, granting them more power than ordinary reavers.<br>Basic combat units of the Antimatter Legion. They possess some intelligence and are able to control reavers within a small surrounding area."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.5,
             "ATK": 14.99994,
@@ -30992,11 +28764,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 40.0,
-            "Stance": 0.0
+            "SPD": 40.0
         },
         "Weak": [
             "Wind",
@@ -31040,7 +28808,8 @@ var _monster = [
             "CH": "成功挺受住湮灭效应的 「虚卒」，正反粒子以诡异的形态在其身上达成了短暂的平衡，比「掠夺者」拥有更加特殊的力量。<br>「反物质军团」的基本作战单元，拥有智能，能够在小范围内控制「掠夺者」的行动。",
             "EN": "A Voidranger that has successfully survived particle annihilation, the positive and negative particles in its body have temporarily achieved a strange balance, granting them more power than ordinary reavers.<br>Basic combat units of the Antimatter Legion. They possess some intelligence and are able to control reavers within a small surrounding area."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.0,
             "ATK": 9.0,
@@ -31049,11 +28818,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 50.0,
-            "Stance": 0.0
+            "SPD": 50.0
         },
         "Weak": [
             "Wind",
@@ -31097,7 +28862,8 @@ var _monster = [
             "CH": "成功挺受住湮灭效应的 「虚卒」，正反粒子以诡异的形态在其身上达成了短暂的平衡，比「掠夺者」拥有更加特殊的力量。<br>「反物质军团」的基本作战单元，拥有智能，能够在小范围内控制「掠夺者」的行动。",
             "EN": "A Voidranger that has successfully survived particle annihilation, the positive and negative particles in its body have temporarily achieved a strange balance, granting them more power than ordinary reavers.<br>Basic combat units of the Antimatter Legion. They possess some intelligence and are able to control reavers within a small surrounding area."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -31105,13 +28871,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Wind",
             "Imaginary"
@@ -31154,7 +28914,8 @@ var _monster = [
             "CH": "死亡之后遭遇裂界侵蚀的躯壳残骸，其生命体征虽发生改变，但依然在执行抹消的指令。<br>虚卒•抹消者会对命中的敌人添加标记，使其在攻击中受到额外的伤害。",
             "EN": "Bodies that continued to be corroded by the Fragmentum after death. While their vital signs have changed, they continue to carry out their orders to eliminate.<br>Voidranger: Eliminators will mark enemies they hit, causing them to take extra damage when attacked."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.1,
             "ATK": 12.00006,
@@ -31162,13 +28923,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -31211,7 +28966,8 @@ var _monster = [
             "CH": "死亡之后遭遇裂界侵蚀的躯壳残骸，其生命体征虽发生改变，但依然在执行抹消的指令。<br>虚卒•抹消者会对命中的敌人添加标记，使其在攻击中受到额外的伤害。",
             "EN": "Bodies that continued to be corroded by the Fragmentum after death. While their vital signs have changed, they continue to carry out their orders to eliminate.<br>Voidranger: Eliminators will mark enemies they hit, causing them to take extra damage when attacked."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.75,
             "ATK": 18.0,
@@ -31220,11 +28976,7 @@ var _monster = [
             "Stance": 3.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 20.0,
-            "Stance": 0.0
+            "SPD": 20.0
         },
         "Weak": [
             "Fire",
@@ -31268,7 +29020,8 @@ var _monster = [
             "CH": "「反物质军团」利用「战争熔炉」将战士与古兽的残片融合重铸后的产物。<br> 虽数量相对稀少，但兼具战士的智能与古兽的力量与机动性，其嘶鸣能够将大量虚卒召唤而来。",
             "EN": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 8.0,
             "ATK": 8.18172,
@@ -31276,13 +29029,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Wind",
@@ -31328,7 +29075,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形，其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的冰棱所取代。<br>战斗中永冬灾影会挥舞冰造的斧刃，延缓敌人的行动。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armor as the Belobog warriors, its face, however, is replaced by a sheet of faceless ice.<br>Everwinter Shadewalkers will swing their ice axe and slow their enemies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -31336,13 +29084,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -31384,7 +29126,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」分队的领导者。<br>战斗中，银鬃尉官会架起巨盾并强化自身。攻击架盾状态下的银鬃尉官，会立即遭到强力的反击。",
             "EN": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -31393,11 +29136,7 @@ var _monster = [
             "Stance": 8.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 13.0,
-            "Stance": 0.0
+            "SPD": 13.0
         },
         "Weak": [
             "Phys",
@@ -31443,7 +29182,8 @@ var _monster = [
             "CH": "由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。然而驱动它的这股欲望早已扭曲，模糊不清。",
             "EN": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. However, the desire that drove it has long since been twisted and distorted."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 7.5,
             "ATK": 18.0,
@@ -31452,10 +29192,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -2.0
         },
         "Weak": [
@@ -31510,7 +29246,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，加装了厚重的铠甲，用于冲锋陷阵保护银鬃铁卫。<br>战斗中，自动机兵「灰熊」会发出信号召来「蜘蛛」合作战斗，同时会积蓄动能发出强力一击。",
             "EN": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 13.0,
             "ATK": 12.85722,
@@ -31519,10 +29256,6 @@ var _monster = [
             "Stance": 14.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -4.0
         },
         "Weak": [
@@ -31576,7 +29309,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自深黯星空的彼端，透过重重帷幕而来。其身躯犹如病态的枝叶探入现实中，使用虚数的力量肆意改造现实。",
             "EN": "Strange beings that do not belong to this world. Passing through countless barriers, they arrive from the other side of the vast, dark, starry sky. Their bodies are like diseased branches breaching into reality, using Imaginary power to twist reality at will."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.9,
             "ATK": 12.00006,
@@ -31584,13 +29318,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec",
@@ -31640,7 +29368,8 @@ var _monster = [
             "CH": "由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。这股力量四处徘徊，漫无目的，直到感受到其主的意志才会听令行事。",
             "EN": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. This energy wanders around aimlessly, acting only when executing the will of its master."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.75004,
             "ATK": 18.0,
@@ -31649,10 +29378,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -2.0
         },
         "Weak": [
@@ -31708,7 +29433,8 @@ var _monster = [
             "CH": "在裂界延展中遭遇侵蚀的怪物，在力量的本源发生畸变后拥有了更为灵活的战斗方式。<br>兴风者会利用风的力量协助自己战斗，借助风向射出更为迅猛的箭矢。",
             "EN": "Monsters that have experienced corrosion as the Fragmentum expanded. They now have a more nimble way of fighting after the source of their power mutated.<br>Stormbringers utilize the power of the wind to aid them in battle, enabling them to fire arrows more rapidly."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -31717,10 +29443,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 5.0
         },
         "Weak": [
@@ -31773,7 +29495,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自深黯星空的彼端，透过重重帷幕而来。其身躯犹如病态的枝叶探入现实中，使用虚数的力量肆意改造现实。",
             "EN": "Strange beings that do not belong to this world. Passing through countless barriers, they arrive from the other side of the vast, dark, starry sky. Their bodies are like diseased branches breaching into reality, using Imaginary power to twist reality at will."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.9,
             "ATK": 18.0,
@@ -31782,10 +29505,6 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 1.0
         },
         "Weak": [
@@ -31836,7 +29555,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -31844,13 +29564,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Quantum",
@@ -31894,7 +29608,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -31902,13 +29617,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind",
@@ -31953,7 +29662,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.0,
             "ATK": 18.0,
@@ -31961,13 +29671,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec",
@@ -32012,7 +29716,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.8,
             "ATK": 18.0,
@@ -32020,13 +29725,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -32071,7 +29770,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -32079,13 +29779,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Quantum",
@@ -32129,7 +29823,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -32137,13 +29832,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -32187,7 +29876,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -32195,13 +29885,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -32245,7 +29929,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.68001,
             "ATK": 18.0,
@@ -32254,9 +29939,6 @@ var _monster = [
             "Stance": 3.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": 17.0,
             "Stance": -1.0
         },
@@ -32303,7 +29985,8 @@ var _monster = [
             "CH": "由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。然而驱动它的这股欲望早已扭曲，模糊不清。",
             "EN": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. However, the desire that drove it has long since been twisted and distorted."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -32312,10 +29995,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -2.0
         },
         "Weak": [
@@ -32370,7 +30049,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上燃烧着星辰内核的烈焰。<br>在战斗中，外宇宙之炎能轻易将敌人焚作灰烬。",
             "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.75,
             "ATK": 18.0,
@@ -32378,13 +30058,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -32431,7 +30105,8 @@ var _monster = [
             "CH": "旧世界的古老遗物，地髓开拓团的时代遗留下的自动控制单元。与大部分无智、只接受指令的机器不同，史瓦罗具有复杂的思考能力。<br>在战斗中，史瓦罗会召来机械臂抓取和控制敌人，对目标进行沉重的打击。",
             "EN": "This ancient relic from the Old World was an automated control unit left behind during the times of the Geomarrow Development Group. Unlike other mindless machines that could only receive instructions, Svarog is capable of complex thoughts.<br>In battle, Svarog summons mechanical arms to grab and control his enemies, delivering devastating attacks."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 12.0,
             "ATK": 12.00006,
@@ -32439,13 +30114,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec",
@@ -32504,7 +30173,8 @@ var _monster = [
             "CH": "真蛰虫幼体；「真蛰虫」幼体依据生长程度可被划分为「幼蛰虫」与「次蛰虫」。",
             "EN": "The youngling of a True Sting. Based on their growth stage, young True Stings can be further divided into Juvenile Stings and Lesser Stings."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.15,
             "ATK": 18.0,
@@ -32513,11 +30183,7 @@ var _monster = [
             "Stance": 4.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": -64.0,
-            "Stance": 0.0
+            "SPD": -64.0
         },
         "Weak": [
             "Phys",
@@ -32570,7 +30236,8 @@ var _monster = [
             "CH": "工造司匠人随手造就的机巧发明。原本是不具灵智，用以烛照黑暗的灯具，如今却因为某些异变被赋予了短暂的「生命」。",
             "EN": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate illuminator used for casting light upon darkness, but now it has been given a short-lived \"life\" due to certain mutations."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.8,
             "ATK": 18.0,
@@ -32578,13 +30245,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec",
@@ -32627,7 +30288,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的近卫战士，负责冲锋陷阵。<br>战斗中，银鬃近卫会持续为友方提供加成效果。",
             "EN": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers provide continuous buffs to allies in combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 7.0,
             "ATK": 6.428520000000001,
@@ -32636,11 +30298,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": -20.0,
-            "Stance": 0.0
+            "SPD": -20.0
         },
         "Weak": [
             "Phys",
@@ -32684,7 +30342,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自深黯星空的彼端，透过重重帷幕而来。其身躯犹如病态的枝叶探入现实中，使用虚数的力量肆意改造现实。",
             "EN": "Strange beings that do not belong to this world. Passing through countless barriers, they arrive from the other side of the vast, dark, starry sky. Their bodies are like diseased branches breaching into reality, using Imaginary power to twist reality at will."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 8.0,
             "ATK": 14.99994,
@@ -32693,11 +30352,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": -25.0,
-            "Stance": 0.0
+            "SPD": -25.0
         },
         "Weak": [
             "Phys",
@@ -32740,7 +30395,8 @@ var _monster = [
             "CH": "「药王秘传」信徒渴求的形态，摆脱人性重负，以仙道重塑的真体。<br>太古时代，求道者们自建木中参悟玄旨，自诩「仙人」。他们自在无拘，将血肉众生如泥塑形。在无数次变化间，他们忘却了自己的本来面目。",
             "EN": "The form that the Disciples of Sanctus Medicus crave. A true appearance that cast off the burdens of humanity and has been reforged using the way of immortality.<br>In ancient times, those who sought immortality received wisdom from the Ambrosial Arbor and called themselves Celestials. They lived without restraints and molded the flesh of themselves and others at will. They have long forgotten their original appearances after countless metamorphoses."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -32748,13 +30404,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 14.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -32800,7 +30450,8 @@ var _monster = [
             "CH": "以云吟之术消隐身形的刺客，不知受何人所遣。",
             "EN": "An assassin who conceals their presence using the Cloudhymn technique. It is unclear by whom they are sent."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -32808,13 +30459,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -32863,7 +30508,8 @@ var _monster = [
             "CH": "怀抱恶意的来者，以铲除丹枫转世之身为名，前来刺杀丹恒。",
             "EN": "A malevolent intruder. Seeks to assassinate Dan Heng in order to eliminate the reincarnation of Dan Feng."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -32871,13 +30517,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Imaginary"
@@ -32921,7 +30561,8 @@ var _monster = [
             "CH": "以云吟之术消隐身形的刺客，不知受何人所遣。",
             "EN": "An assassin who conceals their presence using the Cloudhymn technique. It is unclear by whom they are sent."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -32929,13 +30570,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Imaginary"
@@ -32979,7 +30614,8 @@ var _monster = [
             "CH": "尚未死灭的战士经「战争熔炉」的重铸获得了名为「毁灭」的力量，反物质补足了他们的残躯，负粒子在其躯体中震荡。<br>「反物质军团」的基本作战单元，「毁灭」意志的具现化，遵从破坏本能行事，具有强烈的攻击性。",
             "EN": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -32987,13 +30623,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec"
@@ -33042,7 +30672,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -33050,13 +30681,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Quantum",
@@ -33100,7 +30725,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自深黯星空的彼端，透过重重帷幕而来。其身躯犹如病态的枝叶探入现实中，使用虚数的力量肆意改造现实。",
             "EN": "Strange beings that do not belong to this world. Passing through countless barriers, they arrive from the other side of the vast, dark, starry sky. Their bodies are like diseased branches breaching into reality, using Imaginary power to twist reality at will."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.9,
             "ATK": 18.0,
@@ -33109,10 +30735,6 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 1.0
         },
         "Weak": [],
@@ -33163,7 +30785,8 @@ var _monster = [
             "CH": "在裂界延展中遭遇侵蚀的怪物，在力量的本源发生畸变后拥有了更为灵活的战斗方式。<br>兴风者会利用风的力量协助自己战斗，借助风向射出更为迅猛的箭矢。",
             "EN": "Monsters that have experienced corrosion as the Fragmentum expanded. They now have a more nimble way of fighting after the source of their power mutated.<br>Stormbringers utilize the power of the wind to aid them in battle, enabling them to fire arrows more rapidly."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -33172,10 +30795,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 5.0
         },
         "Weak": [],
@@ -33228,7 +30847,8 @@ var _monster = [
             "CH": "罗浮仙舟云骑军地面巡防部队的成员，手持阵刀，身着轻银打造的铠甲，维护各个洞天的日常秩序。",
             "EN": "Member of the ground patrol division of the Xianzhou Luofu Cloud Knights. Wearing a light set of silver armor and with a Devastator Glaive in hand, they are in charge of maintaining order in every delve."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -33236,13 +30856,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Wind",
@@ -33292,7 +30906,8 @@ var _monster = [
             "CH": "追随十王司判官执行任务的武卫。<br>面戴象征冥世来使的黑白绘面，手持铡刀，其攻击一如十王司的使命沉重而不可违逆。",
             "EN": "A somber warrior that accompanies the Judges of the Ten-Lords Commission to execute missions.<br>Adorned with the black and white mask that symbolizes the netherworld envoy, they wield a guillotine blade, their strikes echoing the weighty and unyielding duty of the Ten-Lords Commission."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -33300,13 +30915,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -33348,7 +30957,8 @@ var _monster = [
             "CH": "工造司匠人随手造就的机巧发明。原本是不具灵智，用以示警招众的警铃，如今却因为某些异变被赋予了短暂的「生命」。",
             "EN": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate alarm bell used for warnings, but now it has been given a short-lived \"life\" due to certain mutations."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.9,
             "ATK": 18.0,
@@ -33356,13 +30966,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Wind",
             "Imaginary"
@@ -33404,7 +31008,8 @@ var _monster = [
             "CH": "工造司匠人随手造就的机巧发明。原本是不具灵智，用以净化空气的香炉，如今却因为某些异变被赋予了短暂的「生命」。",
             "EN": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate burner used for purifying the air, but now it has been given a short-lived \"life\" due to certain mutations."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.9,
             "ATK": 18.0,
@@ -33412,13 +31017,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Quantum"
@@ -33460,7 +31059,8 @@ var _monster = [
             "CH": "工造司匠人随手造就的机巧发明。原本是不具灵智，用以烛照黑暗的灯具，如今却因为某些异变被赋予了短暂的「生命」。",
             "EN": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate illuminator used for casting light upon darkness, but now it has been given a short-lived \"life\" due to certain mutations."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -33468,13 +31068,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec",
@@ -33517,7 +31111,8 @@ var _monster = [
             "CH": "以古老机巧术铸造的镇守金人。<br>无数岁月前，金人随着仙舟出航求取仙方，监管和辅助人类进行战争——但历尽叛乱后，金人最终为仙舟人所降服。<br>而今所有的金人都被符箓严格宰制，用以把守机要重地。",
             "EN": "Garrison aurumaton created with ancient ingenium technology.<br>Countless years ago, the aurumatons set sail with the Xianzhou to seek divine recipes of immortality, and were tasked to oversee humanity and to aid humankind during warfare. However, after countless rebellions, they were finally overpowered by the Xianzhou natives.<br>Now, all aurumatons are strictly controlled with talismans, and are employed to guard important places."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 5.0,
             "ATK": 18.0,
@@ -33525,13 +31120,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -33576,7 +31165,8 @@ var _monster = [
             "CH": "刻录着《十王武经》，听命于十王司的执法金人。<br>血肉易受五阴之苦所执，唯有金铁不动其心，奉行十王敕令不渝。<br>这些金人执法者以力降伏脱离生命秩序的邪物，将之带入幽府，接受判罚，其权限有时甚于判官。",
             "EN": "A law-enforcing aurumaton engraved with the Ten-Lords Martial Scriptures and taking orders from the Ten-Lords Commission.<br>Living beings are susceptible to the corporeal and mental existence of the self, but gold and metal will never be swayed and will unwaveringly follow the Ten-Lords' edicts.<br>These aurumaton law enforcers use their strength to subdue evils that have strayed from the natural order of life, and bring them to the Netherworld to meet their sentence. Its authority is sometimes even greater than that of a judge."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 12.0,
             "ATK": 18.0,
@@ -33584,13 +31174,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec",
@@ -33642,7 +31226,8 @@ var _monster = [
             "CH": "不知何故陷入狂乱的仙舟士兵，躯壳已不见人形，只余无穷的增生变异。相传无量寿中，仙舟人会堕入名为「魔阴身」的状态。",
             "EN": "Soldiers of the Xianzhou who somehow fell into madness. Their bodies continue to grow and mutate and have long lost their humanoid form. It is said that the long-lived Xianzhou natives would eventually be stricken with mara."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -33650,13 +31235,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -33705,7 +31284,8 @@ var _monster = [
             "CH": "潜伏于罗浮仙舟中的秘密传承「药王秘传」的成员。<br>得药炼心，结丹炼己。他们渴求复兴古老的丰饶之秘，令仙舟人跨入下一阶段的进化。",
             "EN": "A member of the Disciples of Sanctus Medicus, the secret sect that hid within the Xianzhou Luofu. <br>With medicine, purify the heart. With elixir, transform one's body. They long to revive the ancient mysteries of Abundance, hoping to spur Xianzhou natives towards their next stage of evolution."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -33713,13 +31293,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Imaginary"
@@ -33763,7 +31337,8 @@ var _monster = [
             "CH": "金缕错饰的猎犬，行动优雅迅疾。<br>在「建木」上一次伫立时，仙舟人曾以奇术繁育众多异兽珍禽。娄金即为伴随军阵行进的战兽之一。",
             "EN": "A gilded hunting hound that moves with grace and speed.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with esoteric techniques. Golden Hounds were one of the war beasts that walked alongside the army."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -33771,13 +31346,7 @@ var _monster = [
             "SPD": 118.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Elec",
@@ -33820,7 +31389,8 @@ var _monster = [
             "CH": "身披烟雾的奔狼，行动飘忽不定。<br>在「建木」上一次伫立时，仙舟人曾以奇术繁育众多异兽珍禽。奎木即为伴随军阵行进的战兽之一。",
             "EN": "A wolf surrounded with haze, its movement is elusive and unexpected.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with esoteric techniques. Wooden Lupuses were one of the war beasts that walked alongside the army."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -33828,13 +31398,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Wind",
@@ -33883,7 +31447,8 @@ var _monster = [
             "CH": "潜伏于罗浮仙舟中的秘密传承「药王秘传」的成员。<br>借器修道，与之连同一体。他们渴求复兴古老的丰饶之秘，令仙舟人跨入下一阶段的进化。",
             "EN": "A member of the Disciples of Sanctus Medicus, the secret organization that had lain hidden in the Xianzhou Luofu.<br>They pursue cultivation using tools and merge with them. They long to revive the lost secrets of Abundance, hoping to spur Xianzhou natives toward their next stage of evolution."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.2,
             "ATK": 18.0,
@@ -33891,13 +31456,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -33939,7 +31498,8 @@ var _monster = [
             "CH": "堕入魔阴身的十王司武卫。<br>只要还是血肉凡胎，仙舟人终不能斩断宿命。",
             "EN": "A Ten-Lords Commission soldier that has fallen to mara.<br>As long as they are still mortals of flesh and blood, the people of Xianzhou will never be able to escape their fate."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -33947,13 +31507,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Elec",
@@ -33997,7 +31551,8 @@ var _monster = [
             "CH": "渴求复兴古老的丰饶之秘，并引领仙舟人再度踏上解脱登仙大道的修炼者。<br>如今，他们的愿望得遂。受赐于古老神迹的力量，以其为甲胄、为武器，并触及了长生不死的秘密。",
             "EN": "A cultivator who longs to revive the ancient mysteries of Abundance, and to guide the Xianzhou natives back on the liberating path of immortality.<br>Now, their wish has been fulfilled. Gifted by the power of the ancient miracle and using it as both weapon and armor, they managed to touch on the secret of immortality."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.0,
             "ATK": 18.0,
@@ -34005,13 +31560,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind",
@@ -34057,7 +31606,8 @@ var _monster = [
             "CH": "高如山岩的苍猿，破坏力惊人。<br>在「建木」上一次伫立时，仙舟人曾以奇术繁育众多异兽珍禽。长右即为伴随军阵行进的战兽之一。",
             "EN": "An ape as tall as mountainous boulders with terrifying might.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with their esoteric techniques. Malefic Apes were one of the war beasts that walked alongside the army."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.0,
             "ATK": 18.0,
@@ -34065,13 +31615,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -34123,7 +31667,8 @@ var _monster = [
             "CH": "「药王秘传」信徒渴求的形态，摆脱人性重负，以仙道重塑的真体。<br>太古时代，求道者们自建木中参悟玄旨，自诩「仙人」。他们自在无拘，将血肉众生如泥塑形。在无数次变化间，他们忘却了自己的本来面目。",
             "EN": "The form that the Disciples of Sanctus Medicus crave. A true appearance that cast off the burdens of humanity and has been reforged using the way of immortality.<br>In ancient times, those who sought immortality received wisdom from the Ambrosial Arbor and called themselves Celestials. They lived without restraints and molded the flesh of themselves and others at will. They have long forgotten their original appearances after countless metamorphoses."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 5.5,
             "ATK": 18.0,
@@ -34131,13 +31676,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 14.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -34183,7 +31722,8 @@ var _monster = [
             "CH": "「星核猎手」的一员，面带莫测笑容的杀手丽人，善用种类纷繁的武器和心控之术。正是她将星穹列车引至此处，以实现某个计划……",
             "EN": "One of the Stellaron Hunters. A beautiful assassin wearing an enigmatic smile, she excels in manipulation and various weaponry. It was by her design that the Astral Express was led here, all of which was simply part of a certain plan..."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 22.5,
             "ATK": 18.0,
@@ -34191,13 +31731,7 @@ var _monster = [
             "SPD": 119.0,
             "Stance": 15.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Wind",
@@ -34246,7 +31780,8 @@ var _monster = [
             "CH": "",
             "EN": ""
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -34254,13 +31789,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 0.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [],
         "RESBase": {},
         "RESModify": [],
@@ -34295,7 +31824,8 @@ var _monster = [
             "CH": "以古老机巧术铸造的镇守金人。<br>无数岁月前，金人随着仙舟出航求取仙方，监管和辅助人类进行战争——但历尽叛乱后，金人最终为仙舟人所降服。<br>而今所有的金人都被符箓严格宰制，用以把守机要重地。",
             "EN": "Garrison aurumaton created with ancient ingenium technology.<br>Countless years ago, the aurumatons set sail with the Xianzhou to seek divine recipes of immortality, and were tasked to oversee humanity and to aid humankind during warfare. However, after countless rebellions, they were finally overpowered by the Xianzhou natives.<br>Now, all aurumatons are strictly controlled with talismans, and are employed to guard important places."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 8.0,
             "ATK": 18.0,
@@ -34303,13 +31833,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -34354,7 +31878,8 @@ var _monster = [
             "CH": "渴求复兴古老的丰饶之秘，并引领仙舟人再度踏上解脱登仙大道的修炼者。<br>如今，他们的愿望得遂。受赐于古老神迹的力量，以其为甲胄、为武器，并触及了长生不死的秘密。",
             "EN": "A cultivator who longs to revive the ancient mysteries of Abundance, and to guide the Xianzhou natives back on the liberating path of immortality.<br>Now, their wish has been fulfilled. Gifted by the power of the ancient miracle and using it as both weapon and armor, they managed to touch on the secret of immortality."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 9.6,
             "ATK": 18.0,
@@ -34362,13 +31887,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind",
@@ -34414,7 +31933,8 @@ var _monster = [
             "CH": "高如山岩的苍猿，破坏力惊人。<br>在「建木」上一次伫立时，仙舟人曾以奇术繁育众多异兽珍禽。长右即为伴随军阵行进的战兽之一。",
             "EN": "An ape as tall as mountainous boulders with terrifying might.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with their esoteric techniques. Malefic Apes were one of the war beasts that walked alongside the army."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 9.6,
             "ATK": 18.0,
@@ -34422,13 +31942,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -34480,7 +31994,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形，其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的冰棱所取代。<br>战斗中永冬灾影会挥舞冰造的斧刃，延缓敌人的行动。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by an icicle of faceless ice.<br>Everwinter Shadewalkers will swing their ice ax and slow their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 14.4,
@@ -34488,13 +32003,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -34538,7 +32047,8 @@ var _monster = [
             "CH": "工造司匠人随手造就的机巧发明。原本是不具灵智，用以烛照黑暗的灯具，如今却因为某些异变被赋予了短暂的「生命」。",
             "EN": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate illuminator used for casting light upon darkness, but now it has been given a short-lived \"life\" due to certain mutations."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -34546,13 +32056,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec",
@@ -34595,7 +32099,8 @@ var _monster = [
             "CH": "渴求复兴古老的丰饶之秘，并引领仙舟人再度踏上解脱登仙大道的修炼者。<br>如今，他们的愿望得遂。受赐于古老神迹的力量，以其为甲胄、为武器，并触及了长生不死的秘密。",
             "EN": "A cultivator who longs to revive the ancient mysteries of Abundance, and to guide the Xianzhou natives back on the liberating path of immortality.<br>Now, their wish has been fulfilled. Gifted by the power of the ancient miracle and using it as both weapon and armor, they managed to touch on the secret of immortality."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 12.0,
             "ATK": 10.00008,
@@ -34603,13 +32108,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind",
@@ -34655,7 +32154,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自深黯星空的彼端，透过重重帷幕而来。其身躯犹如病态的枝叶探入现实中，使用虚数的力量肆意改造现实。",
             "EN": "Strange beings that do not belong to this world. Passing through countless barriers, they arrive from the other side of the vast, dark, starry sky. Their bodies are like diseased branches breaching into reality, using Imaginary power to twist reality at will."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.4,
             "ATK": 23.99994,
@@ -34664,11 +32164,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 30.0,
-            "Stance": 0.0
+            "SPD": 30.0
         },
         "Weak": [
             "Phys",
@@ -34719,7 +32215,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上倒映着幽深黯淡的星空。<br>战斗中，外宇宙之冰能轻易将敌人冻结凝固。",
             "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 4.5,
             "ATK": 14.4,
@@ -34728,10 +32225,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -2.0
         },
         "Weak": [
@@ -34785,7 +32278,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上燃烧着星辰内核的烈焰。<br>在战斗中，外宇宙之炎能轻易将敌人焚作灰烬。",
             "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 4.0,
             "ATK": 30.00006,
@@ -34794,10 +32288,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -2.0
         },
         "Weak": [
@@ -34846,7 +32336,8 @@ var _monster = [
             "CH": "由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。这股力量四处徘徊，漫无目的，直到感受到其主的意志才会听令行事。",
             "EN": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. This energy wanders around aimlessly, acting only when executing the will of its master."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 4.8,
             "ATK": 23.99994,
@@ -34854,13 +32345,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Wind",
@@ -34914,7 +32399,8 @@ var _monster = [
             "CH": "尚未死灭的战士经「战争熔炉」的重铸获得了名为「毁灭」的力量，反物质补足了他们的残躯，负粒子在其躯体中震荡。<br>「反物质军团」的基本作战单元，「毁灭」意志的具现化，遵从破坏本能行事，具有强烈的攻击性。",
             "EN": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.25,
             "ATK": 12.00006,
@@ -34922,13 +32408,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec"
@@ -34977,7 +32457,8 @@ var _monster = [
             "CH": "「反物质军团」利用「战争熔炉」将战士与古兽的残片融合重铸后的产物。<br> 虽数量相对稀少，但兼具战士的智能与古兽的力量与机动性，其嘶鸣能够将大量虚卒召唤而来。",
             "EN": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 5.24997,
             "ATK": 12.00006,
@@ -34985,13 +32466,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Wind",
@@ -35037,7 +32512,8 @@ var _monster = [
             "CH": "真气操作浮游攻击单元，别名「飞剑」的武器。同御剑者心智紧密相连，如臂使指。",
             "EN": "Qi-controlled hovering attack unit, also named \"Flying Sword.\" Closely connected to the wielder's psyche and can be used as an extension of its wielder's will."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.0,
             "ATK": 19.99998,
@@ -35045,13 +32521,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -35095,7 +32565,8 @@ var _monster = [
             "CH": "真气操作浮游攻击单元，别名「飞剑」的武器。同御剑者心智紧密相连，如臂使指。",
             "EN": "Qi-controlled hovering attack unit, also named \"Flying Sword.\" Closely connected to the wielder's psyche and can be used as an extension of its wielder's will."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.0,
             "ATK": 19.99998,
@@ -35103,13 +32574,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -35153,7 +32618,8 @@ var _monster = [
             "CH": "…",
             "EN": "…"
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 22.5,
             "ATK": 18.94734,
@@ -35161,13 +32627,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 16.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -35224,7 +32684,8 @@ var _monster = [
             "CH": "尚未死灭的战士经「战争熔炉」的重铸获得了名为「毁灭」的力量，反物质补足了他们的残躯，负粒子在其躯体中震荡。<br>「反物质军团」的基本作战单元，「毁灭」意志的具现化，遵从破坏本能行事，具有强烈的攻击性。",
             "EN": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.5,
             "ATK": 12.00006,
@@ -35232,13 +32693,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec"
@@ -35287,7 +32742,8 @@ var _monster = [
             "CH": "「反物质军团」利用「战争熔炉」将战士与古兽的残片融合重铸后的产物。<br> 虽数量相对稀少，但兼具战士的智能与古兽的力量与机动性，其嘶鸣能够将大量虚卒召唤而来。",
             "EN": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 22.5,
             "ATK": 12.00006,
@@ -35296,9 +32752,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": 20.0,
             "Stance": -4.0
         },
@@ -35347,7 +32800,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如放射高热，猛烈燃烧的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.0,
             "ATK": 18.0,
@@ -35355,13 +32809,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice"
@@ -35405,7 +32853,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如带来低温，冻结周遭环境的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.0,
             "ATK": 18.0,
@@ -35413,13 +32862,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Wind"
@@ -35463,7 +32906,8 @@ var _monster = [
             "CH": "在裂界延展中遭遇侵蚀的怪物，在力量的本源发生畸变后拥有了更为灵活的战斗方式。<br>兴风者会利用风的力量协助自己战斗，借助风向射出更为迅猛的箭矢。",
             "EN": "Monsters that have experienced corrosion as the Fragmentum expanded. They now have a more nimble way of fighting after the source of their power mutated.<br>Stormbringers utilize the power of the wind to aid them in battle, enabling them to fire arrows more rapidly."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 9.5,
             "ATK": 18.0,
@@ -35472,9 +32916,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": 1.0,
             "Stance": -4.0
         },
@@ -35529,7 +32970,8 @@ var _monster = [
             "CH": "「反物质军团」利用「战争熔炉」将战士与古兽的残片融合重铸后的产物。<br> 虽数量相对稀少，但兼具战士的智能与古兽的力量与机动性，其嘶鸣能够将大量虚卒召唤而来。",
             "EN": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 9.64997,
             "ATK": 18.0,
@@ -35538,9 +32980,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": 10.0,
             "Stance": -4.0
         },
@@ -35589,7 +33028,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如负载电荷，喷薄雷霆的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird brimming with electricity, releasing thunderclaps in all directions."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.9,
             "ATK": 10.00008,
@@ -35597,13 +33037,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Wind"
@@ -35647,7 +33081,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 4.0,
             "ATK": 18.0,
@@ -35655,13 +33090,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Quantum",
@@ -35705,7 +33134,8 @@ var _monster = [
             "CH": "成功挺受住湮灭效应的 「虚卒」，正反粒子以诡异的形态在其身上达成了短暂的平衡，比「掠夺者」拥有更加特殊的力量。<br>「反物质军团」的基本作战单元，拥有智能，能够在小范围内控制「掠夺者」的行动。",
             "EN": "A Voidranger that has successfully survived particle annihilation, the positive and negative particles in its body have temporarily achieved a strange balance, granting them more power than ordinary reavers.<br>Basic combat units of the Antimatter Legion. They possess some intelligence and are able to control reavers within a small surrounding area."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.8,
             "ATK": 18.0,
@@ -35714,10 +33144,6 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 1.0
         },
         "Weak": [
@@ -35762,7 +33188,8 @@ var _monster = [
             "CH": "尚未死灭的战士经「战争熔炉」的重铸获得了名为「毁灭」的力量，反物质补足了他们的残躯，负粒子在其躯体中震荡。<br>「反物质军团」的基本作战单元，「毁灭」意志的具现化，遵从破坏本能行事，具有强烈的攻击性。",
             "EN": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -35770,13 +33197,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec"
@@ -35825,7 +33246,8 @@ var _monster = [
             "CH": "在裂界延展中遭遇侵蚀的怪物，在力量的本源发生畸变后拥有了更为灵活的战斗方式。<br>兴风者会利用风的力量协助自己战斗，借助风向射出更为迅猛的箭矢。",
             "EN": "Monsters that have experienced corrosion as the Fragmentum expanded. They now have a more nimble way of fighting after the source of their power mutated.<br>Stormbringers utilize the power of the wind to aid them in battle, enabling them to fire arrows more rapidly."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 7.5,
             "ATK": 12.00006,
@@ -35834,10 +33256,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -5.0
         },
         "Weak": [
@@ -35891,7 +33309,8 @@ var _monster = [
             "CH": "「反物质军团」利用「战争熔炉」将战士与古兽的残片融合重铸后的产物。<br> 虽数量相对稀少，但兼具战士的智能与古兽的力量与机动性，其嘶鸣能够将大量虚卒召唤而来。",
             "EN": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 22.5,
             "ATK": 12.00006,
@@ -35900,10 +33319,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -6.0
         },
         "Weak": [
@@ -35951,7 +33366,8 @@ var _monster = [
             "CH": "困居于下层区的人们为了生存，往往会不惜铤而走险深入裂界寻找任何可用的物资，其中被他们掘出的古代机器成了他们最好的帮手。",
             "EN": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 8.18172,
@@ -35959,13 +33375,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -36008,7 +33418,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，形如某种载具，然而人们似乎早就忘却了它载具的用途。<br>战斗中自动机兵「战犬」能提供支援，回复战友的生命。",
             "EN": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.5,
             "ATK": 12.00006,
@@ -36016,13 +33427,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec"
@@ -36065,7 +33470,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责移动的附肢上装置着信号灯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「甲虫」会创造力场护盾保护自己。",
             "EN": "An automaton pieced together with Old World technology. A signal light is placed on its legs, and the unit may have been used for mining or construction operations.<br>In combat, Automaton Beetles can create forcefields to shield themselves."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.5,
             "ATK": 8.18172,
@@ -36073,13 +33479,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -36121,7 +33521,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，少见的人形机械，其右臂部分统一装置着链锯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「齿狼」的链锯会造成裂伤，令对手持续损失生命值。",
             "EN": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 14.0,
             "ATK": 9.0,
@@ -36130,9 +33531,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": -22.0,
             "Stance": -5.0
         },
@@ -36180,7 +33578,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如放射高热，猛烈燃烧的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 4.5,
             "ATK": 7.2,
@@ -36188,13 +33587,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice"
@@ -36238,7 +33631,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如带来低温，冻结周遭环境的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.75,
             "ATK": 12.00006,
@@ -36247,11 +33641,7 @@ var _monster = [
             "Stance": 1.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 27.0,
-            "Stance": 0.0
+            "SPD": 27.0
         },
         "Weak": [
             "Fire",
@@ -36296,7 +33686,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上燃烧着星辰内核的烈焰。<br>在战斗中，外宇宙之炎能轻易将敌人焚作灰烬。",
             "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 8.5,
             "ATK": 7.2,
@@ -36305,10 +33696,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -5.0
         },
         "Weak": [
@@ -36357,7 +33744,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上燃烧着星辰内核的烈焰。<br>在战斗中，外宇宙之炎能轻易将敌人焚作灰烬。",
             "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 15.0,
             "ATK": 12.00006,
@@ -36366,10 +33754,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -2.0
         },
         "Weak": [
@@ -36418,7 +33802,8 @@ var _monster = [
             "CH": "「反物质军团」为防止反粒子逸散发生湮灭，制造了两种用于运输的小型离子阱，统称「重子」与「反重子」。<br>「重子」具备基本的智能，能在战场上回应「虚卒」的意志与召唤，为其开辟道路。",
             "EN": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Baryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.75,
             "ATK": 12.00006,
@@ -36426,13 +33811,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Wind"
@@ -36474,7 +33853,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形。其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的燃烬所取代。<br>战斗中火焚灾影会挥舞燃烧的斧刃，灼烧敌人。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.0,
             "ATK": 18.0,
@@ -36482,13 +33862,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -36532,7 +33906,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -36540,13 +33915,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Quantum",
@@ -36590,7 +33959,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -36598,13 +33968,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Quantum",
@@ -36648,7 +34012,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -36656,13 +34021,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Quantum",
@@ -36706,7 +34065,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -36714,13 +34074,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -36764,7 +34118,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -36772,13 +34127,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -36822,7 +34171,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上倒映着幽深黯淡的星空。<br>战斗中，外宇宙之冰能轻易将敌人冻结凝固。",
             "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 5.0,
             "ATK": 14.99994,
@@ -36831,9 +34181,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": 24.0,
             "Stance": 6.0
         },
@@ -36888,7 +34235,8 @@ var _monster = [
             "CH": "不知何故陷入狂乱的仙舟士兵，躯壳已不见人形，只余无穷的增生变异。相传无量寿中，仙舟人会堕入名为「魔阴身」的状态。",
             "EN": "Soldiers of the Xianzhou who somehow fell into madness. Their bodies continue to grow and mutate and have long lost their humanoid form. It is said that the long-lived Xianzhou natives would eventually be stricken with mara."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.8,
             "ATK": 10.00008,
@@ -36896,13 +34244,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -36951,7 +34293,8 @@ var _monster = [
             "CH": "「反物质军团」为防止反粒子逸散发生湮灭，制造了两种用于运输的小型离子阱，统称「重子」与「反重子」。<br>「重子」具备基本的智能，能在战场上回应「虚卒」的意志与召唤，为其开辟道路。",
             "EN": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Baryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.5,
             "ATK": 8.18172,
@@ -36959,13 +34302,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind"
@@ -37007,7 +34344,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形。其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的燃烬所取代。<br>战斗中火焚灾影会挥舞燃烧的斧刃，灼烧敌人。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armor as the Belobog warriors, its skull is, however, replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 12.0,
             "ATK": 7.2,
@@ -37016,11 +34354,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 8.0,
-            "Stance": 0.0
+            "SPD": 8.0
         },
         "Weak": [
             "Phys",
@@ -37063,7 +34397,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形。其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的燃烬所取代。<br>战斗中火焚灾影会挥舞燃烧的斧刃，灼烧敌人。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armor as the Belobog warriors, its skull is, however, replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 9.0,
             "ATK": 9.0,
@@ -37072,11 +34407,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": -20.0,
-            "Stance": 0.0
+            "SPD": -20.0
         },
         "Weak": [
             "Phys",
@@ -37119,7 +34450,8 @@ var _monster = [
             "CH": "罗浮仙舟云骑军地面巡防部队的成员，手持阵刀，身着轻银打造的铠甲，维护各个洞天的日常秩序。",
             "EN": "Member of the ground patrol division of the Xianzhou Luofu Cloud Knights. Wearing a light set of silver armor and with a Devastator Glaive in hand, they are in charge of maintaining order in every delve."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.5,
             "ATK": 18.0,
@@ -37128,10 +34460,6 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 8.0
         },
         "Weak": [
@@ -37183,7 +34511,8 @@ var _monster = [
             "CH": "追随十王司判官执行任务的武卫。<br>面戴象征冥世来使的黑白绘面，手持铡刀，其攻击一如十王司的使命沉重而不可违逆。",
             "EN": "A somber warrior that accompanies the Judges of the Ten-Lords Commission to execute missions.<br>Adorned with the black and white mask that symbolizes the netherworld envoy, they wield a guillotine blade, their strikes echoing the weighty and unyielding duty of the Ten-Lords Commission."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -37191,13 +34520,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -37239,7 +34562,8 @@ var _monster = [
             "CH": "「纯美骑士团」的古典骑士，虔诚地仰慕着已失踪的「纯美」星神伊德莉拉。<br>为人正直、光明磊落，于宇宙中漫游，宣扬伊德莉拉美名。",
             "EN": "A classic knight of the \"Knights of Beauty\" who is piously seeking his missing Aeon Idrila the \"Beauty.\"<br>Forthright and candid, he wanders the cosmos espousing the virtues of Idrila's good name."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -37247,13 +34571,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 16.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -37317,7 +34635,8 @@ var _monster = [
             "CH": "代码受到影响后的错误投影。参照本体为高如山岩的苍猿，破坏力惊人。<br>在「建木」上一次伫立时，仙舟人曾以奇术繁育众多异兽珍禽。长右即为伴随军阵行进的战兽之一。",
             "EN": "A false projection produced by compromised codes. The referenced entity is an ape as tall as mountainous boulders with terrifying might.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with their esoteric techniques. Malefic Apes were one of the war beasts that walked alongside the army."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 18.0,
             "ATK": 18.0,
@@ -37325,13 +34644,7 @@ var _monster = [
             "SPD": 172.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -37382,7 +34695,8 @@ var _monster = [
             "CH": "代码受到影响后的错误投影。参照本体为「药王秘传」信徒渴求的形态，摆脱人性重负，以仙道重塑的真体。<br>太古时代，求道者们自建木中参悟玄旨，自诩「仙人」。他们自在无拘，将血肉众生如泥塑形。在无数次变化间，他们忘却了自己的本来面目。",
             "EN": "A false projection produced by compromised codes. The referenced entity is the form that the Disciples of Sanctus Medicus crave. A true shape that cast off the burdens of humanity and has been reforged using the way of immortality.<br>In ancient times, those who sought immortality received wisdom from the Ambrosial Arbor and called themselves Celestials. They lived without restraints, and molded the flesh of themselves and others at will. They have long forgotten their original appearances after countless metamorphoses."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 16.5,
             "ATK": 18.0,
@@ -37390,13 +34704,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 14.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -37442,7 +34750,8 @@ var _monster = [
             "CH": "成功挺受住湮灭效应的 「虚卒」，正反粒子以诡异的形态在其身上达成了短暂的平衡，比「掠夺者」拥有更加特殊的力量。<br>「反物质军团」的基本作战单元，拥有智能，能够在小范围内控制「掠夺者」的行动。",
             "EN": "A Voidranger that has successfully survived particle annihilation, the positive and negative particles in its body have temporarily achieved a strange balance, granting them more power than ordinary reavers.<br>Basic combat units of the Antimatter Legion. They possess some intelligence and are able to control reavers within a small surrounding area."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.0,
             "ATK": 12.00006,
@@ -37450,13 +34759,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Wind",
             "Imaginary"
@@ -37499,7 +34802,8 @@ var _monster = [
             "CH": "由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。然而驱动它的这股欲望早已扭曲，模糊不清。",
             "EN": "A shadow manifested by the power of Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A physical embodiment of the desires of intelligent life in the Fragmentum, like a pearl created from a single grain of sand. However, its purpose has long been twisted and distorted."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 8.0,
             "ATK": 18.0,
@@ -37508,11 +34812,7 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": -37.0,
-            "Stance": 0.0
+            "SPD": -37.0
         },
         "Weak": [
             "Fire",
@@ -37566,7 +34866,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如放射高热，猛烈燃烧的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.0,
             "ATK": 18.0,
@@ -37574,13 +34875,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice"
@@ -37624,7 +34919,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自深黯星空的彼端，透过重重帷幕而来。其身躯犹如病态的枝叶探入现实中，使用虚数的力量肆意改造现实。",
             "EN": "Strange beings that do not belong to this world. Passing through countless barriers, they arrive from the other side of the vast, dark, starry sky. Their bodies are like diseased branches breaching into reality, using Imaginary power to twist reality at will."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.9,
             "ATK": 18.0,
@@ -37632,13 +34928,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec",
@@ -37688,7 +34978,8 @@ var _monster = [
             "CH": "在裂界延展中遭遇侵蚀的怪物，在力量的本源发生畸变后拥有了更为灵活的战斗方式。<br>兴风者会利用风的力量协助自己战斗，借助风向射出更为迅猛的箭矢。",
             "EN": "Monsters that have experienced corrosion as the Fragmentum expanded. They now have a more nimble way of fighting after the source of their power mutated.<br>Stormbringers utilize the power of the wind to aid them in battle, enabling them to fire arrows more rapidly."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 5.5,
             "ATK": 18.0,
@@ -37696,13 +34987,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -37754,7 +35039,8 @@ var _monster = [
             "CH": "尚未死灭的战士经「战争熔炉」的重铸获得了名为「毁灭」的力量，反物质补足了他们的残躯，负粒子在其躯体中震荡。<br>「反物质军团」的基本作战单元，「毁灭」意志的具现化，遵从破坏本能行事，具有强烈的攻击性。",
             "EN": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -37762,13 +35048,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec"
@@ -37817,7 +35097,8 @@ var _monster = [
             "CH": "成功挺受住湮灭效应的 「虚卒」，正反粒子以诡异的形态在其身上达成了短暂的平衡，比「掠夺者」拥有更加特殊的力量。<br>「反物质军团」的基本作战单元，拥有智能，能够在小范围内控制「掠夺者」的行动。",
             "EN": "A Voidranger that has successfully survived particle annihilation, the positive and negative particles in its body have temporarily achieved a strange balance, granting them more power than ordinary reavers.<br>Basic combat units of the Antimatter Legion. They possess some intelligence and are able to control reavers within a small surrounding area."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.8,
             "ATK": 18.0,
@@ -37825,13 +35106,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Wind",
             "Imaginary"
@@ -37874,7 +35149,8 @@ var _monster = [
             "CH": "死亡之后遭遇裂界侵蚀的躯壳残骸，其生命体征虽发生改变，但依然在执行抹消的指令。<br>虚卒•抹消者会对命中的敌人添加标记，使其在攻击中受到额外的伤害。",
             "EN": "Bodies that continued to be corroded by the Fragmentum after death. While their vital signs have changed, they continue to carry out their orders to eliminate.<br>Voidranger: Eliminators will mark enemies they hit, causing them to take extra damage when attacked."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.1,
             "ATK": 18.0,
@@ -37882,13 +35158,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -37931,7 +35201,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形。其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的燃烬所取代。<br>战斗中火焚灾影会挥舞燃烧的斧刃，灼烧敌人。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.0,
             "ATK": 18.0,
@@ -37939,13 +35210,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind",
@@ -37989,7 +35254,8 @@ var _monster = [
             "CH": "追随十王司判官执行任务的武卫。<br>面戴象征冥世来使的黑白绘面，手持铡刀，其攻击一如十王司的使命沉重而不可违逆。",
             "EN": "A somber warrior that accompanies the Judges of the Ten-Lords Commission to execute missions.<br>Adorned with the black and white mask that symbolizes the netherworld envoy, they wield a guillotine blade, their strikes echoing the weighty and unyielding duty of the Ten-Lords Commission."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.0,
             "ATK": 18.0,
@@ -37997,13 +35263,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -38045,7 +35305,8 @@ var _monster = [
             "CH": "追随十王司判官执行任务的武卫。<br>面戴象征冥世来使的黑白绘面，手持铡刀，其攻击一如十王司的使命沉重而不可违逆。",
             "EN": "A somber warrior that accompanies the Judges of the Ten-Lords Commission to execute missions.<br>Adorned with the black and white mask that symbolizes the netherworld envoy, they wield a guillotine blade, their strikes echoing the weighty and unyielding duty of the Ten-Lords Commission."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -38053,13 +35314,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -38101,7 +35356,8 @@ var _monster = [
             "CH": "不知何故陷入狂乱的仙舟士兵，躯壳已不见人形，只余无穷的增生变异。相传无量寿中，仙舟人会堕入名为「魔阴身」的状态。",
             "EN": "Soldiers of the Xianzhou who somehow fell into madness. Their bodies continue to grow and mutate and have long lost their humanoid form. It is said that the long-lived Xianzhou natives would eventually be stricken with mara."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -38109,13 +35365,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -38164,7 +35414,8 @@ var _monster = [
             "CH": "工造司匠人随手造就的机巧发明。原本是不具灵智，用以烛照黑暗的灯具，如今却因为某些异变被赋予了短暂的「生命」。",
             "EN": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate illuminator used for casting light upon darkness, but now it has been given a short-lived \"life\" due to certain mutations."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 8.0,
             "ATK": 18.0,
@@ -38173,10 +35424,6 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 0.03333
         },
         "Weak": [
@@ -38221,7 +35468,8 @@ var _monster = [
             "CH": "成熟体的真蛰虫；博识学会的杜卢伊爵士遨游星海，曾写下三十卷《诸界异虫札记》。书中详实记载了迄今为止被确认的十几种蠹虫种类，以及星系间数之不尽的亚种。",
             "EN": "Mature True Sting. Sir Duroy, a member of the Intelligentsia Guild, explored the starry seas and authored the thirty-volume of the <i>Chronicles of Interdimensional Insects</i>. The book provides detailed records of over a dozen confirmed species of lepisma and countless subspecies spanning across the stars."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 18.0,
             "ATK": 18.0,
@@ -38229,13 +35477,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 16.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Quantum",
@@ -38301,7 +35543,8 @@ var _monster = [
             "CH": "「纯美骑士团」的古典骑士，虔诚地仰慕着已失踪的「纯美」星神伊德莉拉。<br>为人正直、光明磊落，于宇宙中漫游，宣扬伊德莉拉美名。",
             "EN": "A classic knight of the \"Knights of Beauty\" who is piously seeking his missing Aeon Idrila the \"Beauty.\"<br>Forthright and candid, he wanders the cosmos espousing the virtues of Idrila's good name."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 15.0,
             "ATK": 16.363619999999997,
@@ -38309,13 +35552,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 16.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -38379,7 +35616,8 @@ var _monster = [
             "CH": "刻录着《十王武经》，听命于十王司的执法金人。<br>血肉易受五阴之苦所执，唯有金铁不动其心，奉行十王敕令不渝。<br>这些金人执法者以力降伏脱离生命秩序的邪物，将之带入幽府，接受判罚，其权限有时甚于判官。",
             "EN": "A law-enforcing aurumaton engraved with the Ten-Lords Martial Scriptures and taking orders from the Ten-Lords Commission.<br>Living beings are susceptible to the corporeal and mental existence of the self, but gold and metal will never be swayed and will unwaveringly follow the Ten-Lords' edicts.<br>These aurumaton law enforcers use their strength to subdue evils that have strayed from the natural order of life, and bring them to the Netherworld to meet their sentence. Its authority is sometimes even greater than that of a judge."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 12.0,
             "ATK": 16.363619999999997,
@@ -38387,13 +35625,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec",
@@ -38445,7 +35677,8 @@ var _monster = [
             "CH": "「授勋」的雕塑：传言曾有一朵被女神亲吻过的玫瑰，它的美永不凋零。",
             "EN": "A statue of \"The Honored.\" Legend has it that there was once a rose kissed by the Beauty, imbuing it with everlasting appeal."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.75,
             "ATK": 18.0,
@@ -38453,13 +35686,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice"
@@ -38502,7 +35729,8 @@ var _monster = [
             "CH": "「枪」的雕塑；萦绕着纯美灵魂，枪与盾相依，枪是击破黯淡的勇气。",
             "EN": "A statue of \"The Spear.\" Encircling the Soul of the Beauty, the Spear and Shield are interdependent, and the Spear stands for the courage to pierce through the darkness."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -38510,13 +35738,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire"
@@ -38559,7 +35781,8 @@ var _monster = [
             "CH": "「盾」的雕塑；萦绕着纯美灵魂，枪与盾相依，盾是捍卫生灵的决心。",
             "EN": "A statue of \"The Shield.\" Encircling the Soul of the Beauty, the Spear and Shield are interdependent, and the Shield stands for the determination to defend the living."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.9,
             "ATK": 18.0,
@@ -38567,13 +35790,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec"
@@ -38616,7 +35833,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，加装了厚重的铠甲，用于冲锋陷阵保护银鬃铁卫。<br>战斗中，自动机兵「灰熊」会发出信号召来「蜘蛛」合作战斗，同时会积蓄动能发出强力一击。",
             "EN": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 9.0,
             "ATK": 12.00006,
@@ -38625,10 +35843,6 @@ var _monster = [
             "Stance": 14.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -6.0
         },
         "Weak": [
@@ -38682,7 +35896,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上倒映着幽深黯淡的星空。<br>战斗中，外宇宙之冰能轻易将敌人冻结凝固。",
             "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 14.4,
@@ -38691,10 +35906,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -2.0
         },
         "Weak": [
@@ -38748,7 +35959,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形。其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的燃烬所取代。<br>战斗中火焚灾影会挥舞燃烧的斧刃，灼烧敌人。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.0,
             "ATK": 18.0,
@@ -38756,13 +35968,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind",
@@ -38806,7 +36012,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如气流缠绕，驰翔疾风的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird engulfed in twisting winds, raging on like a tornado."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.9,
             "ATK": 10.00008,
@@ -38814,13 +36021,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec"
@@ -38864,7 +36065,8 @@ var _monster = [
             "CH": "在繁衍中发生变异的蛰虫亚种，善用蕴含量子毒素的锹角侵蚀猎物的身躯。",
             "EN": "A subspecies of Stings that underwent mutations during reproduction, adept at using quantum toxins in their mandibles to corrode away the bodies of their prey."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.25,
             "ATK": 18.0,
@@ -38872,13 +36074,7 @@ var _monster = [
             "SPD": 118.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice"
@@ -38921,7 +36117,8 @@ var _monster = [
             "CH": "阮•梅培育的「繁育」令使复制体，以残缺的姿态短暂现世。原型为继承虫皇之颚的巨蠹，能以口器凝聚裂解天体的死光，将破碎的群星作为诞育子嗣的温床，曾是寰宇蝗灾中的诸界噩梦之一。",
             "EN": "The replica of the Emanator of Propagation cultivated by Ruan Mei, briefly manifesting in the world in an incomplete form. Its original form is a giant lepisma that inherited the mandibles of the Imperator Insectorum. It can collect in its mouthparts the death ray that fragmented celestial bodies, and make shattered stars incubators for procreating offspring. It was once one of the nightmares across multiple worlds during the Swarm Disaster."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 24.0,
             "ATK": 18.0,
@@ -38929,13 +36126,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 18.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -39000,7 +36191,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如放射高热，猛烈燃烧的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 4.5,
             "ATK": 7.2,
@@ -39009,11 +36201,7 @@ var _monster = [
             "Stance": 1.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 2.0,
-            "Stance": 0.0
+            "SPD": 2.0
         },
         "Weak": [
             "Phys",
@@ -39058,7 +36246,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如带来低温，冻结周遭环境的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.9,
             "ATK": 10.00008,
@@ -39066,13 +36255,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Wind"
@@ -39116,7 +36299,8 @@ var _monster = [
             "CH": "不知何故陷入狂乱的仙舟士兵，躯壳已不见人形，只余无穷的增生变异。相传无量寿中，仙舟人会堕入名为「魔阴身」的状态。",
             "EN": "Soldiers of the Xianzhou who somehow fell into madness. Their bodies continue to grow and mutate and have long lost their humanoid form. It is said that the long-lived Xianzhou natives would eventually be stricken with mara."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -39124,13 +36308,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -39179,7 +36357,8 @@ var _monster = [
             "CH": "「反物质军团」为防止反粒子逸散发生湮灭，制造了两种用于运输的小型离子阱，统称「重子」与「反重子」。<br>「重子」具备基本的智能，能在战场上回应「虚卒」的意志与召唤，为其开辟道路。",
             "EN": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Baryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.39,
             "ATK": 10.00008,
@@ -39187,13 +36366,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Wind"
@@ -39235,7 +36408,8 @@ var _monster = [
             "CH": "「反物质军团」为防止反粒子逸散发生湮灭，制造了两种用于运输的小型离子阱，统称「重子」与「反重子」。<br>「反重子」具备基本的智能，能在战场上回应「虚卒」的意志与召唤，为其开辟道路。",
             "EN": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Antibaryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.305,
             "ATK": 18.0,
@@ -39243,13 +36417,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Quantum"
@@ -39291,7 +36459,8 @@ var _monster = [
             "CH": "尚未死灭的战士经「战争熔炉」的重铸获得了名为「毁灭」的力量，反物质补足了他们的残躯，负粒子在其躯体中震荡。<br>「反物质军团」的基本作战单元，「毁灭」意志的具现化，遵从破坏本能行事，具有强烈的攻击性。",
             "EN": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.86,
             "ATK": 10.00008,
@@ -39299,13 +36468,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec"
@@ -39354,7 +36517,8 @@ var _monster = [
             "CH": "尚未死灭的战士经「战争熔炉」的重铸获得了名为「毁灭」的力量，反物质补足了他们的残躯，负粒子在其躯体中震荡。<br>「反物质军团」的基本作战单元，「毁灭」意志的具现化，遵从破坏本能行事，具有强烈的攻击性。",
             "EN": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.61,
             "ATK": 12.00006,
@@ -39362,13 +36526,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec"
@@ -39417,7 +36575,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的近卫战士，负责冲锋陷阵。<br>战斗中，银鬃近卫的攻击会降低我方的防御力。",
             "EN": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.3,
             "ATK": 12.00006,
@@ -39425,13 +36584,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Wind",
             "Quantum"
@@ -39467,7 +36620,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」分队的领导者。<br>战斗中，银鬃尉官会架起巨盾并强化自身。攻击架盾状态下的银鬃尉官，会立即遭到强力的反击。",
             "EN": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -39476,11 +36630,7 @@ var _monster = [
             "Stance": 8.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 13.0,
-            "Stance": 0.0
+            "SPD": 13.0
         },
         "Weak": [
             "Phys",
@@ -39526,7 +36676,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形，其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的冰棱所取代。<br>战斗中永冬灾影会挥舞冰造的斧刃，延缓敌人的行动。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by an icicle of faceless ice.<br>Everwinter Shadewalkers will swing their ice ax and slow their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.4,
             "ATK": 18.0,
@@ -39534,13 +36685,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -39584,7 +36729,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形。其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的燃烬所取代。<br>战斗中火焚灾影会挥舞燃烧的斧刃，灼烧敌人。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.56,
             "ATK": 12.00006,
@@ -39592,13 +36738,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -39642,7 +36782,8 @@ var _monster = [
             "CH": "银鬃铁卫中的炮手，使用便携的手炮进行战斗。<br> 在战斗中，银鬃炮手会和其它目标发动猛烈的连携攻击。",
             "EN": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, Silvermane Cannoneers will launch brutal chain attacks with their allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.0,
             "ATK": 100.00008,
@@ -39651,10 +36792,6 @@ var _monster = [
             "Stance": 3.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -1.0
         },
         "Weak": [
@@ -39705,7 +36842,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的近卫战士，负责冲锋陷阵。<br>战斗中，银鬃近卫的攻击会降低我方的防御力。",
             "EN": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.1,
             "ATK": 12.00006,
@@ -39714,10 +36852,6 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 1.0
         },
         "Weak": [
@@ -39755,7 +36889,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」分队的领导者。<br>战斗中，银鬃尉官会架起巨盾并强化自身。攻击架盾状态下的银鬃尉官，会立即遭到强力的反击。",
             "EN": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.0,
             "ATK": 12.00006,
@@ -39764,11 +36899,7 @@ var _monster = [
             "Stance": 8.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": -10.0,
-            "Stance": 0.0
+            "SPD": -10.0
         },
         "Weak": [
             "Phys",
@@ -39814,7 +36945,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形，其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的冰棱所取代。<br>战斗中永冬灾影会挥舞冰造的斧刃，延缓敌人的行动。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by an icicle of faceless ice.<br>Everwinter Shadewalkers will swing their ice ax and slow their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.775,
             "ATK": 4.5,
@@ -39822,13 +36954,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -39872,7 +36998,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形。其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的燃烬所取代。<br>战斗中火焚灾影会挥舞燃烧的斧刃，灼烧敌人。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.775,
             "ATK": 4.5,
@@ -39880,13 +37007,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Ice",
@@ -39930,7 +37051,8 @@ var _monster = [
             "CH": "代码受到影响后的完整投影。参照本体为由「建木」化生，拱卫其根系的灵瑞之兽，履迹所之，和泽滋生，枝杪郁敷。<br>自毁于太古时代的战争后，「建木」终于在星核的修补下再度生长。彼时仙人们所造的珍禽奇兽纷至沓来，宛如旧梦重临。",
             "EN": "A complete projection produced by compromised codes. The referenced entity is an auspicious spiritual beast wrought into being by the Ambrosial Arbor and protects its roots. Its arrival brings along exuberant vegetation and promises good fortune.<br>Once destroyed during ancient wars, the Ambrosial Arbor is mended by the Stellaron and finally revives. Rare creatures and legendary beasts made by celestials of the past all return to this world, like an old dream coming alive again."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 7.5,
             "ATK": 18.0,
@@ -39938,13 +37060,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 14.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -40023,7 +37139,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上倒映着幽深黯淡的星空。<br>战斗中，外宇宙之冰能轻易将敌人冻结凝固。",
             "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 7.5,
             "ATK": 14.4,
@@ -40032,10 +37149,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -2.0
         },
         "Weak": [
@@ -40089,7 +37202,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，形如某种载具，然而人们似乎早就忘却了它载具的用途。<br>战斗中自动机兵「战犬」能提供支援，回复战友的生命。",
             "EN": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.1,
             "ATK": 18.0,
@@ -40098,10 +37212,6 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 1.0
         },
         "Weak": [
@@ -40146,7 +37256,8 @@ var _monster = [
             "CH": "困居于下层区的人们为了生存，往往会不惜铤而走险深入裂界寻找任何可用的物资，其中被他们掘出的古代机器成了他们最好的帮手。",
             "EN": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.65,
             "ATK": 3.6,
@@ -40155,11 +37266,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 14.0,
-            "Stance": 0.0
+            "SPD": 14.0
         },
         "Weak": [
             "Fire",
@@ -40203,7 +37310,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，形如某种载具，然而人们似乎早就忘却了它载具的用途。<br>战斗中自动机兵「战犬」能提供支援，回复战友的生命。",
             "EN": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.65,
             "ATK": 3.6,
@@ -40212,11 +37320,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 10.0,
-            "Stance": 0.0
+            "SPD": 10.0
         },
         "Weak": [
             "Phys",
@@ -40260,7 +37364,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，形如某种载具，然而人们似乎早就忘却了它载具的用途。<br>战斗中自动机兵「战犬」能提供支援，回复战友的生命。",
             "EN": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.65,
             "ATK": 3.6,
@@ -40269,11 +37374,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 10.0,
-            "Stance": 0.0
+            "SPD": 10.0
         },
         "Weak": [
             "Phys",
@@ -40317,7 +37418,8 @@ var _monster = [
             "CH": "银鬃铁卫中的炮手，使用便携的手炮进行战斗。<br> 在战斗中，银鬃炮手会和其它目标发动猛烈的连携攻击。",
             "EN": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, Silvermane Cannoneers will launch brutal chain attacks with their allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.0,
             "ATK": 100.00008,
@@ -40326,10 +37428,6 @@ var _monster = [
             "Stance": 3.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -1.0
         },
         "Weak": [
@@ -40380,7 +37478,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，形如某种载具，然而人们似乎早就忘却了它载具的用途。<br>战斗中自动机兵「战犬」能提供支援，回复战友的生命。",
             "EN": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.65,
             "ATK": 18.0,
@@ -40388,13 +37487,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec",
@@ -40437,7 +37530,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形。其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的燃烬所取代。<br>战斗中火焚灾影会挥舞燃烧的斧刃，灼烧敌人。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.56,
             "ATK": 12.00006,
@@ -40445,13 +37539,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -40495,7 +37583,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如带来低温，冻结周遭环境的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -40503,13 +37592,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Wind",
@@ -40553,7 +37636,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，少见的人形机械，其右臂部分统一装置着链锯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「齿狼」的链锯会造成裂伤，令对手持续损失生命值。",
             "EN": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 7.8,
             "ATK": 59.99994,
@@ -40562,9 +37646,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": -24.0,
             "Stance": -6.0
         },
@@ -40612,7 +37693,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上燃烧着星辰内核的烈焰。<br>在战斗中，外宇宙之炎能轻易将敌人焚作灰烬。",
             "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -40621,11 +37703,7 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": -36.0,
-            "Stance": 0.0
+            "SPD": -36.0
         },
         "Weak": [
             "Phys",
@@ -40673,7 +37751,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上燃烧着星辰内核的烈焰。<br>在战斗中，外宇宙之炎能轻易将敌人焚作灰烬。",
             "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -40682,10 +37761,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -2.0
         },
         "Weak": [
@@ -40734,7 +37809,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上燃烧着星辰内核的烈焰。<br>在战斗中，外宇宙之炎能轻易将敌人焚作灰烬。",
             "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.0,
             "ATK": 12.00006,
@@ -40743,10 +37819,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -4.0
         },
         "Weak": [
@@ -40795,7 +37867,8 @@ var _monster = [
             "CH": "真蛰虫幼体；「真蛰虫」幼体依据生长程度可被划分为「幼蛰虫」与「次蛰虫」。",
             "EN": "The youngling of a True Sting. Based on their growth stage, young True Stings can be further divided into Juvenile Stings and Lesser Stings."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.5,
             "ATK": 18.0,
@@ -40804,9 +37877,6 @@ var _monster = [
             "Stance": 4.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": -64.0,
             "Stance": -1.0
         },
@@ -40859,7 +37929,8 @@ var _monster = [
             "CH": "裂界侵蚀的受害者们拼接成的奇怪造物。麻木的面孔循环罗列，无有思想，无有情绪，曾名之为人的部分已尽数流逝。",
             "EN": "Victims of Fragmentum corrosion pieced together into one bizarre creature, their numb faces forming a sphere without thought or emotion. Any part that was once human has since vanished."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.375,
             "ATK": 18.0,
@@ -40868,11 +37939,7 @@ var _monster = [
             "Stance": 1.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": -20.0,
-            "Stance": 0.0
+            "SPD": -20.0
         },
         "Weak": [
             "Fire",
@@ -40917,7 +37984,8 @@ var _monster = [
             "CH": "银鬃铁卫的戍卫长。<br>杰帕德会指挥麾下士兵集中攻击，并且能为士兵提供免疫一次攻击的屏障。",
             "EN": "Captain of the Silvermane Guards.<br>Gepard can command his soldiers to focus their attacks, and provide each of them with a barrier that blocks one attack."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 27.5,
             "ATK": 18.0,
@@ -40925,13 +37993,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec",
@@ -40979,7 +38041,8 @@ var _monster = [
             "CH": "旧世界的古老遗物，地髓开拓团的时代遗留下的自动控制单元。与大部分无智、只接受指令的机器不同，史瓦罗具有复杂的思考能力。<br>在战斗中，史瓦罗会召来机械臂抓取和控制敌人，对目标进行沉重的打击。",
             "EN": "This ancient relic from the Old World was an automated control unit left behind during the times of the Geomarrow Development Group. Unlike other mindless machines that could only receive instructions, Svarog is capable of complex thoughts.<br>In battle, Svarog summons mechanical arms to grab and control his enemies, delivering devastating attacks."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 27.5,
             "ATK": 18.0,
@@ -40987,13 +38050,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec",
@@ -41052,7 +38109,8 @@ var _monster = [
             "CH": "由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。然而驱动它的这股欲望早已扭曲，模糊不清。",
             "EN": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. However, the desire that drove it has long since been twisted and distorted."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 7.7,
             "ATK": 12.00006,
@@ -41061,10 +38119,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -2.0
         },
         "Weak": [
@@ -41119,7 +38173,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -41127,13 +38182,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Wind",
@@ -41177,7 +38226,8 @@ var _monster = [
             "CH": "金缕错饰的猎犬，行动优雅迅疾。<br>在「建木」上一次伫立时，仙舟人曾以奇术繁育众多异兽珍禽。娄金即为伴随军阵行进的战兽之一。",
             "EN": "A gilded hunting hound that moves with grace and speed.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with esoteric techniques. Golden Hounds were one of the war beasts that walked alongside the army."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -41185,13 +38235,7 @@ var _monster = [
             "SPD": 118.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Elec",
@@ -41234,7 +38278,8 @@ var _monster = [
             "CH": "高如山岩的苍猿，破坏力惊人。<br>在「建木」上一次伫立时，仙舟人曾以奇术繁育众多异兽珍禽。长右即为伴随军阵行进的战兽之一。",
             "EN": "An ape as tall as mountainous boulders with terrifying might.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with their esoteric techniques. Malefic Apes were one of the war beasts that walked alongside the army."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 12.00006,
@@ -41242,13 +38287,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -41300,7 +38339,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如带来低温，冻结周遭环境的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.0,
             "ATK": 18.0,
@@ -41308,13 +38348,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Wind"
@@ -41358,7 +38392,8 @@ var _monster = [
             "CH": "「星际和平公司」的基层员工，主要负责处理上不得台面的「业务疏漏」。工资不高，只能在公司旗下的企业舰上合租房间。",
             "EN": "An Interastral Peace Corporation grunt worker whose job mainly deals with shady \"business oversights.\" With a meager salary, the only lodging they can afford is a shared room on one of the IPC's enterprise ships."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -41366,13 +38401,7 @@ var _monster = [
             "SPD": 118.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -41421,7 +38450,8 @@ var _monster = [
             "CH": "「星际和平公司」的基层员工，主要负责维持公司管辖地区的治安秩序。工资不高，只能在公司旗下的企业舰上合租房间。",
             "EN": "An Interastral Peace Corporation grunt worker whose job mainly involves maintaining order in locations ruled by the IPC. With a meager salary, the only lodging they can afford is a shared room on one of the IPC's enterprise ships."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.2,
             "ATK": 18.0,
@@ -41429,13 +38459,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -41484,7 +38508,8 @@ var _monster = [
             "CH": "工造司匠人随手造就的机巧发明。原本是不具灵智，用以烛照黑暗的灯具，如今却因为某些异变被赋予了短暂的「生命」。",
             "EN": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate illuminator used for casting light upon darkness, but now it has been given a short-lived \"life\" due to certain mutations."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.0,
             "ATK": 18.0,
@@ -41493,10 +38518,6 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 8.0
         },
         "Weak": [
@@ -41541,7 +38562,8 @@ var _monster = [
             "CH": "由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。然而驱动它的这股欲望早已扭曲，模糊不清。",
             "EN": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. However, the desire that drove it has long since been twisted and distorted."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 11.25,
@@ -41550,9 +38572,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": -72.0,
             "Stance": -2.0
         },
@@ -41608,7 +38627,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 4.4,
             "ATK": 18.0,
@@ -41617,11 +38637,7 @@ var _monster = [
             "Stance": 3.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 37.0,
-            "Stance": 0.0
+            "SPD": 37.0
         },
         "Weak": [
             "Phys",
@@ -41666,7 +38682,8 @@ var _monster = [
             "CH": "罗浮仙舟云骑军地面巡防部队的成员，手持阵刀，身着轻银打造的铠甲，维护各个洞天的日常秩序。",
             "EN": "Member of the ground patrol division of the Xianzhou Luofu Cloud Knights. Wearing a light set of silver armor and with a Devastator Glaive in hand, they are in charge of maintaining order in every delve."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -41674,13 +38691,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Wind",
@@ -41730,7 +38741,8 @@ var _monster = [
             "CH": "被岁阳熔炬寄体的剑士彦卿。",
             "EN": "Swordmaster Yanqing possessed by the heliobus, Apyra."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -41738,13 +38750,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 16.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -41801,7 +38807,8 @@ var _monster = [
             "CH": "岁阳熔炬模拟彦卿剑法而塑造的幻影。",
             "EN": "An illusion modeled on Yanqing's swordplay by the heliobus, Apyra."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -41809,13 +38816,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 16.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -41872,7 +38873,8 @@ var _monster = [
             "CH": "岁阳「若昔」变化出的幻影。",
             "EN": "An illusion created by the heliobus, Ruoxi."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -41880,13 +38882,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Elec",
@@ -41930,7 +38926,8 @@ var _monster = [
             "CH": "似乎是被岁阳附身却不被岁阳控制的魔阴身士兵。",
             "EN": "A mara-struck soldier seemingly possessed by a heliobus, but not controlled by it."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -41938,13 +38935,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Elec",
@@ -41988,7 +38979,8 @@ var _monster = [
             "CH": "银鬃铁卫的戍卫长。<br>杰帕德会指挥麾下士兵集中攻击，并且能为士兵提供免疫一次攻击的屏障。",
             "EN": "Captain of the Silvermane Guards.<br>Gepard can command his soldiers to focus their attacks, and provide each of them with a barrier that blocks one attack."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 7.2,
             "ATK": 18.0,
@@ -41996,13 +38988,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec",
@@ -42050,7 +39036,8 @@ var _monster = [
             "CH": "贝洛伯格守护者的继任者，银鬃铁卫的统帅。<br>布洛妮娅会使用多种战术攻击敌人，并大幅提升友军的作战能力。",
             "EN": "Successor to Belobog's Guardian, and commander of the Silvermane Guards.<br>Bronya can use various tactics to attack her enemies, and greatly enhance the battle prowess of all allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 12.0,
             "ATK": 18.0,
@@ -42058,13 +39045,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 7.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -42111,7 +39092,8 @@ var _monster = [
             "CH": "以古老机巧术铸造的镇守金人。<br>无数岁月前，金人随着仙舟出航求取仙方，监管和辅助人类进行战争——但历尽叛乱后，金人最终为仙舟人所降服。<br>而今所有的金人都被符箓严格宰制，用以把守机要重地。",
             "EN": "Garrison aurumaton created with ancient ingenium technology.<br>Countless years ago, the aurumatons set sail with the Xianzhou to seek divine recipes of immortality, and were tasked to oversee humanity and to aid humankind during warfare. However, after countless rebellions, they were finally overpowered by the Xianzhou natives.<br>Now, all aurumatons are strictly controlled with talismans, and are employed to guard important places."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 12.0,
             "ATK": 13.84614,
@@ -42120,11 +39102,7 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 40.0,
-            "Stance": 0.0
+            "SPD": 40.0
         },
         "Weak": [
             "Elec",
@@ -42170,7 +39148,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上燃烧着星辰内核的烈焰。<br>在战斗中，外宇宙之炎能轻易将敌人焚作灰烬。",
             "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 12.00006,
@@ -42178,13 +39157,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -42231,7 +39204,8 @@ var _monster = [
             "CH": "由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。这股力量四处徘徊，漫无目的，直到感受到其主的意志才会听令行事。",
             "EN": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. This energy wanders around aimlessly, acting only when executing the will of its master."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 12.00006,
@@ -42239,13 +39213,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Wind",
@@ -42299,7 +39267,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 4.4,
             "ATK": 18.0,
@@ -42308,11 +39277,7 @@ var _monster = [
             "Stance": 3.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 37.0,
-            "Stance": 0.0
+            "SPD": 37.0
         },
         "Weak": [
             "Fire",
@@ -42357,7 +39322,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」分队的领导者。<br>战斗中，银鬃尉官会架起巨盾并强化自身。攻击架盾状态下的银鬃尉官，会立即遭到强力的反击。",
             "EN": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 11.25,
@@ -42366,9 +39332,6 @@ var _monster = [
             "Stance": 8.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": -40.0,
             "Stance": -1.0
         },
@@ -42416,7 +39379,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形。其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的燃烬所取代。<br>战斗中火焚灾影会挥舞燃烧的斧刃，灼烧敌人。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.075,
             "ATK": 36.0,
@@ -42424,13 +39388,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind",
@@ -42474,7 +39432,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，加装了厚重的铠甲，用于冲锋陷阵保护银鬃铁卫。<br>战斗中，自动机兵「灰熊」会发出信号召来「蜘蛛」合作战斗，同时会积蓄动能发出强力一击。",
             "EN": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 13.0,
             "ATK": 12.00006,
@@ -42483,10 +39442,6 @@ var _monster = [
             "Stance": 14.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -7.0
         },
         "Weak": [
@@ -42540,7 +39495,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，少见的人形机械，其右臂部分统一装置着链锯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「齿狼」的链锯会造成裂伤，令对手持续损失生命值。",
             "EN": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 12.00006,
@@ -42549,10 +39505,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -4.0
         },
         "Weak": [
@@ -42599,7 +39551,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形。其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的燃烬所取代。<br>战斗中火焚灾影会挥舞燃烧的斧刃，灼烧敌人。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 12.00006,
@@ -42607,13 +39560,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind",
@@ -42657,7 +39604,8 @@ var _monster = [
             "CH": "徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>炽燃徘徊者的攻击会对处于灼烧状态的敌人造成额外效果。",
             "EN": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -42665,13 +39613,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Elec",
@@ -42719,7 +39661,8 @@ var _monster = [
             "CH": "徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>炽燃徘徊者的攻击会对处于灼烧状态的敌人造成额外效果。",
             "EN": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 12.00006,
@@ -42727,13 +39670,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Elec",
@@ -42781,7 +39718,8 @@ var _monster = [
             "CH": "徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>深寒徘徊者会吸引永冬灾影，同时能降低我方的速度与冰属性抗性。",
             "EN": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Frigid Prowlers will attract Everwinter Shadewalkers and reduce its enemy's SPD and Ice RES."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 12.0,
             "ATK": 9.0,
@@ -42790,9 +39728,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": -10.0,
             "Stance": -2.0
         },
@@ -42850,7 +39785,8 @@ var _monster = [
             "CH": "工造司匠人随手造就的机巧发明。原本是不具灵智，用以烛照黑暗的灯具，如今却因为某些异变被赋予了短暂的「生命」。",
             "EN": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate illuminator used for casting light upon darkness, but now it has been given a short-lived \"life\" due to certain mutations."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.0,
             "ATK": 18.0,
@@ -42859,10 +39795,6 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 8.0
         },
         "Weak": [
@@ -42907,7 +39839,8 @@ var _monster = [
             "CH": "以古老机巧术铸造的镇守金人。<br>无数岁月前，金人随着仙舟出航求取仙方，监管和辅助人类进行战争——但历尽叛乱后，金人最终为仙舟人所降服。<br>而今所有的金人都被符箓严格宰制，用以把守机要重地。",
             "EN": "Garrison aurumaton created with ancient ingenium technology.<br>Countless years ago, the aurumatons set sail with the Xianzhou to seek divine recipes of immortality, and were tasked to oversee humanity and to aid humankind during warfare. However, after countless rebellions, they were finally overpowered by the Xianzhou natives.<br>Now, all aurumatons are strictly controlled with talismans, and are employed to guard important places."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 13.84614,
@@ -42915,13 +39848,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -42966,7 +39893,8 @@ var _monster = [
             "CH": "刻录着《十王武经》，听命于十王司的执法金人。<br>血肉易受五阴之苦所执，唯有金铁不动其心，奉行十王敕令不渝。<br>这些金人执法者以力降伏脱离生命秩序的邪物，将之带入幽府，接受判罚，其权限有时甚于判官。",
             "EN": "A law-enforcing aurumaton engraved with the Ten-Lords Martial Scriptures and taking orders from the Ten-Lords Commission.<br>Living beings are susceptible to the corporeal and mental existence of the self, but gold and metal will never be swayed and will unwaveringly follow the Ten-Lords' edicts.<br>These aurumaton law enforcers use their strength to subdue evils that have strayed from the natural order of life, and bring them to the Netherworld to meet their sentence. Its authority is sometimes even greater than that of a judge."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.0,
             "ATK": 16.363619999999997,
@@ -42974,13 +39902,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec",
@@ -43032,7 +39954,8 @@ var _monster = [
             "CH": "潜伏于罗浮仙舟中的秘密传承「药王秘传」的成员。<br>得药炼心，结丹炼己。他们渴求复兴古老的丰饶之秘，令仙舟人跨入下一阶段的进化。",
             "EN": "A member of the Disciples of Sanctus Medicus, the secret sect that hid within the Xianzhou Luofu. <br>With medicine, purify the heart. With elixir, transform one's body. They long to revive the ancient mysteries of Abundance, hoping to spur Xianzhou natives towards their next stage of evolution."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -43040,13 +39963,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Imaginary"
@@ -43090,7 +40007,8 @@ var _monster = [
             "CH": "金缕错饰的猎犬，行动优雅迅疾。<br>在「建木」上一次伫立时，仙舟人曾以奇术繁育众多异兽珍禽。娄金即为伴随军阵行进的战兽之一。",
             "EN": "A gilded hunting hound that moves with grace and speed.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with esoteric techniques. Golden Hounds were one of the war beasts that walked alongside the army."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -43098,13 +40016,7 @@ var _monster = [
             "SPD": 118.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Elec",
@@ -43147,7 +40059,8 @@ var _monster = [
             "CH": "高如山岩的苍猿，破坏力惊人。<br>在「建木」上一次伫立时，仙舟人曾以奇术繁育众多异兽珍禽。长右即为伴随军阵行进的战兽之一。",
             "EN": "An ape as tall as mountainous boulders with terrifying might.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with their esoteric techniques. Malefic Apes were one of the war beasts that walked alongside the army."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 12.0,
             "ATK": 18.0,
@@ -43155,13 +40068,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -43213,7 +40120,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如气流缠绕，驰翔疾风的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird engulfed in twisting winds, raging on like a tornado."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -43221,13 +40129,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec"
@@ -43271,7 +40173,8 @@ var _monster = [
             "CH": "在裂界延展中遭遇侵蚀的怪物，在力量的本源发生畸变后拥有了更为灵活的战斗方式。<br>兴风者会利用风的力量协助自己战斗，借助风向射出更为迅猛的箭矢。",
             "EN": "Monsters that have experienced corrosion as the Fragmentum expanded. They now have a more nimble way of fighting after the source of their power mutated.<br>Stormbringers utilize the power of the wind to aid them in battle, enabling them to fire arrows more rapidly."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -43280,11 +40183,7 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": -20.0,
-            "Stance": 0.0
+            "SPD": -20.0
         },
         "Weak": [
             "Fire",
@@ -43337,7 +40236,8 @@ var _monster = [
             "CH": "潜伏于罗浮仙舟中的秘密传承「药王秘传」的成员。<br>得药炼心，结丹炼己。他们渴求复兴古老的丰饶之秘，令仙舟人跨入下一阶段的进化。",
             "EN": "A member of the Disciples of Sanctus Medicus, the secret sect that hid within the Xianzhou Luofu. <br>With medicine, purify the heart. With elixir, transform one's body. They long to revive the ancient mysteries of Abundance, hoping to spur Xianzhou natives towards their next stage of evolution."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.2,
             "ATK": 18.0,
@@ -43345,13 +40245,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Imaginary"
@@ -43395,7 +40289,8 @@ var _monster = [
             "CH": "金缕错饰的猎犬，行动优雅迅疾。<br>在「建木」上一次伫立时，仙舟人曾以奇术繁育众多异兽珍禽。娄金即为伴随军阵行进的战兽之一。",
             "EN": "A gilded hunting hound that moves with grace and speed.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with esoteric techniques. Golden Hounds were one of the war beasts that walked alongside the army."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.1,
             "ATK": 18.0,
@@ -43403,13 +40298,7 @@ var _monster = [
             "SPD": 118.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Elec",
@@ -43452,7 +40341,8 @@ var _monster = [
             "CH": "渴求复兴古老的丰饶之秘，并引领仙舟人再度踏上解脱登仙大道的修炼者。<br>如今，他们的愿望得遂。受赐于古老神迹的力量，以其为甲胄、为武器，并触及了长生不死的秘密。",
             "EN": "A cultivator who longs to revive the ancient mysteries of Abundance, and to guide the Xianzhou natives back on the liberating path of immortality.<br>Now, their wish has been fulfilled. Gifted by the power of the ancient miracle and using it as both weapon and armor, they managed to touch on the secret of immortality."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.5,
             "ATK": 18.0,
@@ -43460,13 +40350,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind",
@@ -43512,7 +40396,8 @@ var _monster = [
             "CH": "「药王秘传」信徒渴求的形态，摆脱人性重负，以仙道重塑的真体。<br>太古时代，求道者们自建木中参悟玄旨，自诩「仙人」。他们自在无拘，将血肉众生如泥塑形。在无数次变化间，他们忘却了自己的本来面目。",
             "EN": "The form that the Disciples of Sanctus Medicus crave. A true appearance that cast off the burdens of humanity and has been reforged using the way of immortality.<br>In ancient times, those who sought immortality received wisdom from the Ambrosial Arbor and called themselves Celestials. They lived without restraints and molded the flesh of themselves and others at will. They have long forgotten their original appearances after countless metamorphoses."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 13.84614,
@@ -43520,13 +40405,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 14.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -43572,7 +40451,8 @@ var _monster = [
             "CH": "尚未死灭的战士经「战争熔炉」的重铸获得了名为「毁灭」的力量，反物质补足了他们的残躯，负粒子在其躯体中震荡。<br>「反物质军团」的基本作战单元，「毁灭」意志的具现化，遵从破坏本能行事，具有强烈的攻击性。",
             "EN": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -43580,13 +40460,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec"
@@ -43635,7 +40509,8 @@ var _monster = [
             "CH": "「反物质军团」利用「战争熔炉」将战士与古兽的残片融合重铸后的产物。<br> 虽数量相对稀少，但兼具战士的智能与古兽的力量与机动性，其嘶鸣能够将大量虚卒召唤而来。",
             "EN": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 12.00006,
@@ -43644,9 +40519,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": -20.0,
             "Stance": -4.0
         },
@@ -43695,7 +40567,8 @@ var _monster = [
             "CH": "刻录着《十王武经》，听命于十王司的执法金人。<br>血肉易受五阴之苦所执，唯有金铁不动其心，奉行十王敕令不渝。<br>这些金人执法者以力降伏脱离生命秩序的邪物，将之带入幽府，接受判罚，其权限有时甚于判官。",
             "EN": "A law-enforcing aurumaton engraved with the Ten-Lords Martial Scriptures and taking orders from the Ten-Lords Commission.<br>Living beings are susceptible to the corporeal and mental existence of the self, but gold and metal will never be swayed and will unwaveringly follow the Ten-Lords' edicts.<br>These aurumaton law enforcers use their strength to subdue evils that have strayed from the natural order of life, and bring them to the Netherworld to meet their sentence. Its authority is sometimes even greater than that of a judge."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 9.0,
             "ATK": 10.588140000000001,
@@ -43703,13 +40576,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec",
@@ -43761,7 +40628,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如带来低温，冻结周遭环境的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.06,
             "ATK": 18.0,
@@ -43769,13 +40637,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Wind"
@@ -43819,7 +40681,8 @@ var _monster = [
             "CH": "「星际和平公司」的基层员工，主要负责处理上不得台面的「业务疏漏」。工资不高，只能在公司旗下的企业舰上合租房间。",
             "EN": "An Interastral Peace Corporation grunt worker whose job mainly deals with shady \"business oversights.\" With a meager salary, the only lodging they can afford is a shared room on one of the IPC's enterprise ships."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -43827,13 +40690,7 @@ var _monster = [
             "SPD": 118.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice"
@@ -43882,7 +40739,8 @@ var _monster = [
             "CH": "「星际和平公司」的基层员工，主要负责维持公司管辖地区的治安秩序。工资不高，只能在公司旗下的企业舰上合租房间。",
             "EN": "An Interastral Peace Corporation grunt worker whose job mainly involves maintaining order in locations ruled by the IPC. With a meager salary, the only lodging they can afford is a shared room on one of the IPC's enterprise ships."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.2,
             "ATK": 18.0,
@@ -43890,13 +40748,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -43945,7 +40797,8 @@ var _monster = [
             "CH": "身披烟雾的奔狼，行动飘忽不定。<br>在「建木」上一次伫立时，仙舟人曾以奇术繁育众多异兽珍禽。奎木即为伴随军阵行进的战兽之一。",
             "EN": "A wolf surrounded with haze, its movement is elusive and unexpected.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with esoteric techniques. Wooden Lupuses were one of the war beasts that walked alongside the army."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -43953,13 +40806,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Wind",
@@ -44008,7 +40855,8 @@ var _monster = [
             "CH": "潜伏于罗浮仙舟中的秘密传承「药王秘传」的成员。<br>借器修道，与之连同一体。他们渴求复兴古老的丰饶之秘，令仙舟人跨入下一阶段的进化。",
             "EN": "A member of the Disciples of Sanctus Medicus, the secret organization that had lain hidden in the Xianzhou Luofu.<br>They pursue cultivation using tools and merge with them. They long to revive the lost secrets of Abundance, hoping to spur Xianzhou natives toward their next stage of evolution."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.2,
             "ATK": 18.0,
@@ -44016,13 +40864,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -44064,7 +40906,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的近卫战士，负责冲锋陷阵。<br>战斗中，银鬃近卫的攻击会降低我方的防御力。",
             "EN": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.3,
             "ATK": 18.0,
@@ -44072,13 +40915,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Wind",
             "Quantum"
@@ -44120,7 +40957,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 4.4,
             "ATK": 18.0,
@@ -44129,11 +40967,7 @@ var _monster = [
             "Stance": 3.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 37.0,
-            "Stance": 0.0
+            "SPD": 37.0
         },
         "Weak": [
             "Elec",
@@ -44178,7 +41012,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 4.4,
             "ATK": 18.0,
@@ -44187,11 +41022,7 @@ var _monster = [
             "Stance": 3.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 37.0,
-            "Stance": 0.0
+            "SPD": 37.0
         },
         "Weak": [
             "Ice",
@@ -44236,7 +41067,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 4.4,
             "ATK": 18.0,
@@ -44245,11 +41077,7 @@ var _monster = [
             "Stance": 3.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 37.0,
-            "Stance": 0.0
+            "SPD": 37.0
         },
         "Weak": [
             "Phys",
@@ -44294,7 +41122,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 4.4,
             "ATK": 18.0,
@@ -44303,11 +41132,7 @@ var _monster = [
             "Stance": 3.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 37.0,
-            "Stance": 0.0
+            "SPD": 37.0
         },
         "Weak": [
             "Fire",
@@ -44352,7 +41177,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 4.4,
             "ATK": 18.0,
@@ -44361,11 +41187,7 @@ var _monster = [
             "Stance": 3.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 37.0,
-            "Stance": 0.0
+            "SPD": 37.0
         },
         "Weak": [
             "Phys",
@@ -44410,7 +41232,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 4.4,
             "ATK": 18.0,
@@ -44419,11 +41242,7 @@ var _monster = [
             "Stance": 3.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 37.0,
-            "Stance": 0.0
+            "SPD": 37.0
         },
         "Weak": [
             "Fire",
@@ -44468,7 +41287,8 @@ var _monster = [
             "CH": "代码受到影响后的错误投影。参照本体为刻录着《十王武经》，听命于十王司的执法金人。<br>血肉易受五阴之苦所执，唯有金铁不动其心，奉行十王敕令不渝。<br>这些金人执法者以力降伏脱离生命秩序的邪物，将之带入幽府，接受判罚，其权限有时甚于判官。",
             "EN": "A false projection produced by compromised codes. The original reference entity is a law-enforcing aurumaton engraved with the Ten-Lords Martial Scriptures and taking orders from the Ten-Lords Commission.<br>Living beings are susceptible to the corporeal and mental existence of the self, but gold and metal will never be swayed and will unwaveringly follow the Ten-Lords' edicts.<br>These aurumaton law enforcers use their strength to subdue evils that have strayed from the natural order of life, and bring them to the Netherworld to meet their sentence. Its authority is sometimes even greater than that of a judge."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 17.0,
             "ATK": 18.0,
@@ -44476,13 +41296,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec",
@@ -44536,7 +41350,8 @@ var _monster = [
             "CH": "代码受到影响后的错误投影。参照本体为「星际和平公司」的资深员工，级别至少是项目组的小组长。驾驶的机甲属于公有资产，一旦损坏需要自费赔偿。工资尚可，足够在公司旗下的企业舰上租下一室一厅的单间。",
             "EN": "A false projection produced by compromised codes. The original reference entity is an Interastral Peace Corporation senior staff member with a minimal rank of project team leader. The mech they drive belongs to the IPC. If damaged, its repair fees have to be paid out-of-pocket. With a half-decent salary, they can at least afford to rent a one-bedroom apartment on one of the IPC's enterprise ships."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 19.0,
             "ATK": 18.0,
@@ -44544,13 +41359,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -44604,7 +41413,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形。其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的燃烬所取代。<br>战斗中火焚灾影会挥舞燃烧的斧刃，灼烧敌人。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 12.00006,
@@ -44612,13 +41422,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind",
@@ -44662,7 +41466,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形。其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的燃烬所取代。<br>战斗中火焚灾影会挥舞燃烧的斧刃，灼烧敌人。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -44670,13 +41475,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind",
@@ -44720,7 +41519,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如放射高热，猛烈燃烧的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -44728,13 +41528,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice"
@@ -44778,7 +41572,8 @@ var _monster = [
             "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如放射高热，猛烈燃烧的鸟类生命。",
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
@@ -44786,13 +41581,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice"
@@ -44836,7 +41625,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自深黯星空的彼端，透过重重帷幕而来。其身躯犹如病态的枝叶探入现实中，使用虚数的力量肆意改造现实。",
             "EN": "Strange beings that do not belong to this world. Passing through countless barriers, they arrive from the other side of the vast, dark, starry sky. Their bodies are like diseased branches breaching into reality, using Imaginary power to twist reality at will."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.9,
             "ATK": 18.0,
@@ -44844,13 +41634,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec",
@@ -44900,7 +41684,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上倒映着幽深黯淡的星空。<br>战斗中，外宇宙之冰能轻易将敌人冻结凝固。",
             "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -44909,9 +41694,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": -10.0,
             "Stance": -6.0
         },
@@ -44966,7 +41748,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上燃烧着星辰内核的烈焰。<br>在战斗中，外宇宙之炎能轻易将敌人焚作灰烬。",
             "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -44975,9 +41758,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": -30.0,
             "Stance": -4.0
         },
@@ -45027,7 +41807,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上燃烧着星辰内核的烈焰。<br>在战斗中，外宇宙之炎能轻易将敌人焚作灰烬。",
             "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 12.00006,
@@ -45035,13 +41816,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -45088,7 +41863,8 @@ var _monster = [
             "CH": "由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。这股力量四处徘徊，漫无目的，直到感受到其主的意志才会听令行事。",
             "EN": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. This energy wanders around aimlessly, acting only when executing the will of its master."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 12.00006,
@@ -45097,9 +41873,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": -20.0,
             "Stance": -4.0
         },
@@ -45156,7 +41929,8 @@ var _monster = [
             "CH": "「反物质军团」为防止反粒子逸散发生湮灭，制造了两种用于运输的小型离子阱，统称「重子」与「反重子」。<br>「反重子」具备基本的智能，能在战场上回应「虚卒」的意志与召唤，为其开辟道路。",
             "EN": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Antibaryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.4,
             "ATK": 18.0,
@@ -45164,13 +41938,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Quantum"
@@ -45212,7 +41980,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 4.8,
             "ATK": 18.0,
@@ -45221,11 +41990,7 @@ var _monster = [
             "Stance": 3.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 77.0,
-            "Stance": 0.0
+            "SPD": 77.0
         },
         "Weak": [
             "Fire",
@@ -45270,7 +42035,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形，其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的冰棱所取代。<br>战斗中永冬灾影会挥舞冰造的斧刃，延缓敌人的行动。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by an icicle of faceless ice.<br>Everwinter Shadewalkers will swing their ice ax and slow their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.75,
             "ATK": 36.0,
@@ -45278,13 +42044,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -45328,7 +42088,8 @@ var _monster = [
             "CH": "困居于下层区的人们为了生存，往往会不惜铤而走险深入裂界寻找任何可用的物资，其中被他们掘出的古代机器成了他们最好的帮手。",
             "EN": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -45336,13 +42097,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -45385,7 +42140,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形。其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的燃烬所取代。<br>战斗中火焚灾影会挥舞燃烧的斧刃，灼烧敌人。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -45393,13 +42149,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Wind",
@@ -45443,7 +42193,8 @@ var _monster = [
             "CH": "徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>炽燃徘徊者的攻击会对处于灼烧状态的敌人造成额外效果。",
             "EN": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 12.00006,
@@ -45452,10 +42203,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -4.0
         },
         "Weak": [
@@ -45505,7 +42252,8 @@ var _monster = [
             "CH": "在裂界延展中遭遇侵蚀的怪物，在力量的本源发生畸变后拥有了更为灵活的战斗方式。<br>兴风者会利用风的力量协助自己战斗，借助风向射出更为迅猛的箭矢。",
             "EN": "Monsters that have experienced corrosion as the Fragmentum expanded. They now have a more nimble way of fighting after the source of their power mutated.<br>Stormbringers utilize the power of the wind to aid them in battle, enabling them to fire arrows more rapidly."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 10.00008,
@@ -45514,9 +42262,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": 20.0,
             "Stance": -4.0
         },
@@ -45571,7 +42316,8 @@ var _monster = [
             "CH": "成功挺受住湮灭效应的 「虚卒」，正反粒子以诡异的形态在其身上达成了短暂的平衡，比「掠夺者」拥有更加特殊的力量。<br>「反物质军团」的基本作战单元，拥有智能，能够在小范围内控制「掠夺者」的行动。",
             "EN": "A Voidranger that has successfully survived particle annihilation, the positive and negative particles in its body have temporarily achieved a strange balance, granting them more power than ordinary reavers.<br>Basic combat units of the Antimatter Legion. They possess some intelligence and are able to control reavers within a small surrounding area."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.8,
             "ATK": 12.00006,
@@ -45579,13 +42325,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Wind",
             "Imaginary"
@@ -45628,7 +42368,8 @@ var _monster = [
             "CH": "「反物质军团」利用「战争熔炉」将战士与古兽的残片融合重铸后的产物。<br> 虽数量相对稀少，但兼具战士的智能与古兽的力量与机动性，其嘶鸣能够将大量虚卒召唤而来。",
             "EN": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 10.00008,
@@ -45637,9 +42378,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": 20.0,
             "Stance": -4.0
         },
@@ -45688,7 +42426,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」分队的领导者。<br>战斗中，银鬃尉官会架起巨盾并强化自身。攻击架盾状态下的银鬃尉官，会立即遭到强力的反击。",
             "EN": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 7.0,
             "ATK": 18.0,
@@ -45697,10 +42436,6 @@ var _monster = [
             "Stance": 8.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 1.0
         },
         "Weak": [
@@ -45747,7 +42482,8 @@ var _monster = [
             "CH": "裂界侵蚀的受害者们拼接成的奇怪造物。麻木的面孔循环罗列，无有思想，无有情绪，曾名之为人的部分已尽数流逝。",
             "EN": "Victims of Fragmentum corrosion pieced together into one bizarre creature, their numb faces forming a sphere without thought or emotion. Any part that was once human has since vanished."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.375,
             "ATK": 18.0,
@@ -45755,13 +42491,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Quantum"
@@ -45805,7 +42535,8 @@ var _monster = [
             "CH": "裂界侵蚀的受害者们拼接成的奇怪造物。麻木的面孔循环罗列，无有思想，无有情绪，曾名之为人的部分已尽数流逝。",
             "EN": "Victims of Fragmentum corrosion pieced together into one bizarre creature, their numb faces forming a sphere without thought or emotion. Any part that was once human has since vanished."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.4,
             "ATK": 18.0,
@@ -45813,13 +42544,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 1.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Quantum",
@@ -45863,7 +42588,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，少见的人形机械，其右臂部分统一装置着链锯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「齿狼」的链锯会造成裂伤，令对手持续损失生命值。",
             "EN": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 12.00006,
@@ -45872,10 +42598,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -3.0
         },
         "Weak": [
@@ -45922,7 +42644,8 @@ var _monster = [
             "CH": "徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>炽燃徘徊者的攻击会对处于灼烧状态的敌人造成额外效果。",
             "EN": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.0,
             "ATK": 12.00006,
@@ -45931,10 +42654,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -3.0
         },
         "Weak": [
@@ -45984,7 +42703,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自深黯星空的彼端，透过重重帷幕而来。其身躯犹如病态的枝叶探入现实中，使用虚数的力量肆意改造现实。",
             "EN": "Strange beings that do not belong to this world. Passing through countless barriers, they arrive from the other side of the vast, dark, starry sky. Their bodies are like diseased branches breaching into reality, using Imaginary power to twist reality at will."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.9,
             "ATK": 12.00006,
@@ -45992,13 +42712,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec",
@@ -46048,7 +42762,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，形如某种载具，然而人们似乎早就忘却了它载具的用途。<br>战斗中自动机兵「战犬」能提供支援，回复战友的生命。",
             "EN": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.1,
             "ATK": 18.0,
@@ -46056,13 +42771,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec"
@@ -46105,7 +42814,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的射手，负责狙击敌人。<br>战斗中，银鬃射手的射击会对我方造成裂伤。",
             "EN": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.75,
             "ATK": 12.00006,
@@ -46113,13 +42823,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice"
@@ -46161,7 +42865,8 @@ var _monster = [
             "CH": "以古老机巧术铸造的镇守金人。<br>无数岁月前，金人随着仙舟出航求取仙方，监管和辅助人类进行战争——但历尽叛乱后，金人最终为仙舟人所降服。<br>而今所有的金人都被符箓严格宰制，用以把守机要重地。",
             "EN": "Garrison aurumaton created with ancient ingenium technology.<br>Countless years ago, the aurumatons set sail with the Xianzhou to seek divine recipes of immortality, and were tasked with overseeing humanity and aiding humankind during warfare. However, after countless rebellions, they were finally overpowered by the Xianzhou natives.<br>Now, all aurumatons are strictly controlled with talismans and are employed to guard important places."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 12.00006,
@@ -46169,13 +42874,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -46220,7 +42919,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自深黯星空的彼端，透过重重帷幕而来。其身躯犹如病态的枝叶探入现实中，使用虚数的力量肆意改造现实。",
             "EN": "Strange beings that do not belong to this world. Passing through countless barriers, they arrive from the other side of the vast, dark, starry sky. Their bodies are like diseased branches breaching into reality, using Imaginary power to twist reality at will."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.5,
             "ATK": 18.0,
@@ -46229,11 +42929,7 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 3.0,
-            "Stance": 0.0
+            "SPD": 3.0
         },
         "Weak": [
             "Phys",
@@ -46284,7 +42980,8 @@ var _monster = [
             "CH": "「反物质军团」利用「战争熔炉」将战士与古兽的残片融合重铸后的产物。<br> 虽数量相对稀少，但兼具战士的智能与古兽的力量与机动性，其嘶鸣能够将大量虚卒召唤而来。",
             "EN": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 7.5,
             "ATK": 12.00006,
@@ -46293,10 +42990,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": -1.0
         },
         "Weak": [
@@ -46344,7 +43037,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」分队的领导者。<br>战斗中，银鬃尉官会架起巨盾并强化自身。攻击架盾状态下的银鬃尉官，会立即遭到强力的反击。",
             "EN": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -46352,13 +43046,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 8.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -46403,7 +43091,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，加装了厚重的铠甲，用于冲锋陷阵保护银鬃铁卫。<br>战斗中，自动机兵「灰熊」会发出信号召来「蜘蛛」合作战斗，同时会积蓄动能发出强力一击。",
             "EN": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 12.0,
             "ATK": 18.0,
@@ -46411,13 +43100,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 14.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -46469,7 +43152,8 @@ var _monster = [
             "CH": "「星际和平公司」的资深员工，级别至少是项目组的小组长。驾驶的机甲属于公有资产，一旦损坏需要自费赔偿。工资尚可，足够在公司旗下的企业舰上租下一室一厅的单间。",
             "EN": "An Interastral Peace Corporation senior staff member with a minimal rank of project team leader. The mech they drive belongs to the IPC. If damaged, its repair fees have to be paid out-of-pocket. With a half-decent salary, they can at least afford to rent a one-bedroom apartment on one of the IPC's enterprise ships."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 14.0,
             "ATK": 18.0,
@@ -46477,13 +43161,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -46531,7 +43209,8 @@ var _monster = [
             "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上倒映着幽深黯淡的星空。<br>战斗中，外宇宙之冰能轻易将敌人冻结凝固。",
             "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 11.25,
@@ -46540,9 +43219,6 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": -10.0,
             "Stance": -2.0
         },
@@ -46597,7 +43273,8 @@ var _monster = [
             "CH": "贝洛伯格的守护者，永屹之城贝洛伯格无可质疑的统治者。<br>可可利亚秉持传承自历代守护者的神迹权能，在战斗中号令冰雪的力量冻结敌人。",
             "EN": "The Guardian of Belobog, and the indisputable ruler of the Towering Citadel, Belobog.<br>Cocolia possesses the divine authority passed down through the generations of Guardians, giving her command over ice and snow to freeze her enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 40.0,
             "ATK": 18.0,
@@ -46605,13 +43282,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec",
@@ -46666,7 +43337,8 @@ var _monster = [
             "CH": "…",
             "EN": "…"
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 35.0,
             "ATK": 18.0,
@@ -46674,13 +43346,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 16.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -46737,7 +43403,8 @@ var _monster = [
             "CH": "「纯美骑士团」的古典骑士，虔诚地仰慕着已失踪的「纯美」星神伊德莉拉。<br>为人正直、光明磊落，于宇宙中漫游，宣扬伊德莉拉美名。",
             "EN": "A classic knight of the \"Knights of Beauty\" who is piously seeking his missing Aeon Idrila the \"Beauty.\"<br>Forthright and candid, he wanders the cosmos espousing the virtues of Idrila's good name."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 20.0,
             "ATK": 18.0,
@@ -46745,13 +43412,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 16.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -46815,7 +43476,8 @@ var _monster = [
             "CH": "身披烟雾的奔狼，行动飘忽不定。<br>在「建木」上一次伫立时，仙舟人曾以奇术繁育众多异兽珍禽。奎木即为伴随军阵行进的战兽之一。",
             "EN": "A wolf surrounded with haze, its movement is elusive and unexpected.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with esoteric techniques. Wooden Lupuses were one of the war beasts that walked alongside the army."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -46823,13 +43485,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Wind",
@@ -46878,7 +43534,8 @@ var _monster = [
             "CH": "大岁阳「燎原」的碎片。融聚众多岁阳碎片，试图重现「燎原」之气魄。",
             "EN": "A fragment of the great heliobus, Ignamar. Gather the numerous fragments of the heliobus to recreate Ignamar's spirit."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -46886,13 +43543,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 0.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [],
         "RESBase": {},
         "RESModify": [],
@@ -46929,7 +43580,8 @@ var _monster = [
             "CH": "大岁阳「燎原」的碎片。融聚众多岁阳碎片，试图重现「燎原」之气魄。",
             "EN": "A fragment of the great heliobus, Ignamar. Gather the numerous fragments of the heliobus to recreate Ignamar's spirit."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -46938,11 +43590,7 @@ var _monster = [
             "Stance": 0.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": -35.0,
-            "Stance": 0.0
+            "SPD": -35.0
         },
         "Weak": [],
         "RESBase": {},
@@ -46980,7 +43628,8 @@ var _monster = [
             "CH": "大岁阳「燎原」的碎片。融聚众多岁阳碎片，试图重现「燎原」之气魄。",
             "EN": "A fragment of the great heliobus, Ignamar. Gather the numerous fragments of the heliobus to recreate Ignamar's spirit."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -46988,13 +43637,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 0.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [],
         "RESBase": {},
         "RESModify": [],
@@ -47031,7 +43674,8 @@ var _monster = [
             "CH": "大岁阳「燎原」的碎片。融聚众多岁阳碎片，试图重现「燎原」之气魄。",
             "EN": "A fragment of the great heliobus, Ignamar. Gather the numerous fragments of the heliobus to recreate Ignamar's spirit."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -47039,13 +43683,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 0.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [],
         "RESBase": {},
         "RESModify": [],
@@ -47082,7 +43720,8 @@ var _monster = [
             "CH": "「纯美骑士团」的古典骑士，虔诚地仰慕着已失踪的「纯美」星神伊德莉拉。<br>为人正直、光明磊落，于宇宙中漫游，宣扬伊德莉拉美名。",
             "EN": "A classic knight of the \"Knights of Beauty\" who is piously seeking his missing Aeon Idrila the \"Beauty.\"<br>Forthright and candid, he wanders the cosmos espousing the virtues of Idrila's good name."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 12.5,
             "ATK": 16.363619999999997,
@@ -47090,13 +43729,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 16.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -47160,7 +43793,8 @@ var _monster = [
             "CH": "罗浮仙舟云骑军地面巡防部队的成员，手持阵刀，身着轻银打造的铠甲，维护各个洞天的日常秩序。",
             "EN": "Member of the ground patrol division of the Xianzhou Luofu Cloud Knights. Wearing a light set of silver armor and with a Devastator Glaive in hand, they are in charge of maintaining order in every delve."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.4,
             "ATK": 18.0,
@@ -47169,10 +43803,6 @@ var _monster = [
             "Stance": 2.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 8.0
         },
         "Weak": [
@@ -47224,7 +43854,8 @@ var _monster = [
             "CH": "由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。这股力量四处徘徊，漫无目的，直到感受到其主的意志才会听令行事。",
             "EN": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. This energy wanders around aimlessly, acting only when executing the will of its master."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 7.5,
             "ATK": 18.0,
@@ -47233,11 +43864,7 @@ var _monster = [
             "Stance": 10.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 3.0,
-            "Stance": 0.0
+            "SPD": 3.0
         },
         "Weak": [
             "Phys",
@@ -47292,7 +43919,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -47301,11 +43929,7 @@ var _monster = [
             "Stance": 3.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 37.0,
-            "Stance": 0.0
+            "SPD": 37.0
         },
         "Weak": [
             "Fire",
@@ -47350,7 +43974,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -47359,11 +43984,7 @@ var _monster = [
             "Stance": 3.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 37.0,
-            "Stance": 0.0
+            "SPD": 37.0
         },
         "Weak": [
             "Phys",
@@ -47408,7 +44029,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -47417,11 +44039,7 @@ var _monster = [
             "Stance": 3.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 37.0,
-            "Stance": 0.0
+            "SPD": 37.0
         },
         "Weak": [
             "Elec",
@@ -47466,7 +44084,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -47475,11 +44094,7 @@ var _monster = [
             "Stance": 3.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 37.0,
-            "Stance": 0.0
+            "SPD": 37.0
         },
         "Weak": [
             "Phys",
@@ -47524,7 +44139,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -47533,11 +44149,7 @@ var _monster = [
             "Stance": 3.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 37.0,
-            "Stance": 0.0
+            "SPD": 37.0
         },
         "Weak": [
             "Phys",
@@ -47582,7 +44194,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -47591,11 +44204,7 @@ var _monster = [
             "Stance": 3.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 37.0,
-            "Stance": 0.0
+            "SPD": 37.0
         },
         "Weak": [
             "Elec",
@@ -47640,7 +44249,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -47649,11 +44259,7 @@ var _monster = [
             "Stance": 3.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 37.0,
-            "Stance": 0.0
+            "SPD": 37.0
         },
         "Weak": [
             "Elec",
@@ -47698,7 +44304,8 @@ var _monster = [
             "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
             "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -47707,11 +44314,7 @@ var _monster = [
             "Stance": 3.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 37.0,
-            "Stance": 0.0
+            "SPD": 37.0
         },
         "Weak": [
             "Fire",
@@ -47756,7 +44359,8 @@ var _monster = [
             "CH": "身披烟雾的奔狼，行动飘忽不定。<br>在「建木」上一次伫立时，仙舟人曾以奇术繁育众多异兽珍禽。奎木即为伴随军阵行进的战兽之一。",
             "EN": "A wolf surrounded with haze, its movement is elusive and unexpected.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with esoteric techniques. Wooden Lupuses were one of the war beasts that walked alongside the army."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -47764,13 +44368,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Wind",
@@ -47819,7 +44417,8 @@ var _monster = [
             "CH": "追随十王司判官执行任务的武卫。<br>面戴象征冥世来使的黑白绘面，手持铡刀，其攻击一如十王司的使命沉重而不可违逆。",
             "EN": "A somber warrior that accompanies the Judges of the Ten-Lords Commission to execute missions.<br>Adorned with the black and white mask that symbolizes the netherworld envoy, they wield a guillotine blade, their strikes echoing the weighty and unyielding duty of the Ten-Lords Commission."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.0,
             "ATK": 18.0,
@@ -47827,13 +44426,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -47875,7 +44468,8 @@ var _monster = [
             "CH": "追随十王司判官执行任务的武卫。<br>面戴象征冥世来使的黑白绘面，手持铡刀，其攻击一如十王司的使命沉重而不可违逆。",
             "EN": "A somber warrior that accompanies the Judges of the Ten-Lords Commission to execute missions.<br>Adorned with the black and white mask that symbolizes the netherworld envoy, they wield a guillotine blade, their strikes echoing the weighty and unyielding duty of the Ten-Lords Commission."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.0,
             "ATK": 18.0,
@@ -47883,13 +44477,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -47931,7 +44519,8 @@ var _monster = [
             "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形，其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的冰棱所取代。<br>战斗中永冬灾影会挥舞冰造的斧刃，延缓敌人的行动。",
             "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by an icicle of faceless ice.<br>Everwinter Shadewalkers will swing their ice ax and slow their enemies in battle."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -47939,13 +44528,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -47989,7 +44572,8 @@ var _monster = [
             "CH": "阮•梅培育的「繁育」令使复制体，以残缺的姿态短暂现世。原型为继承虫皇之颚的巨蠹，能以口器凝聚裂解天体的死光，将破碎的群星作为诞育子嗣的温床，曾是寰宇蝗灾中的诸界噩梦之一。",
             "EN": "The replica of the Emanator of Propagation cultivated by Ruan Mei, briefly manifesting in the world in an incomplete form. Its original form is a giant lepisma that inherited the mandibles of the Imperator Insectorum. It can collect in its mouthparts the death ray that fragmented celestial bodies, and make shattered stars incubators for procreating offspring. It was once one of the nightmares across multiple worlds during the Swarm Disaster."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 18.0,
             "ATK": 16.363619999999997,
@@ -47997,13 +44581,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 18.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -48068,7 +44646,8 @@ var _monster = [
             "CH": "代码受到影响后的完整投影。参照本体为贝洛伯格守护者的继任者，银鬃铁卫的统帅。<br>布洛妮娅（完整）会使用多种战术攻击敌人，并大幅提升友军的作战能力。",
             "EN": "A complete projection produced by compromised codes. The original reference entity is Belobog's Guardian successor and commander of the Silvermane Guards.<br>Bronya (complete) can use various tactics to attack her enemies, and greatly enhance the battle prowess of all allies."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 25.0,
             "ATK": 18.0,
@@ -48077,10 +44656,6 @@ var _monster = [
             "Stance": 7.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 3.0
         },
         "Weak": [
@@ -48134,7 +44709,8 @@ var _monster = [
             "CH": "代码受到影响后的完整投影。参照本体为「纯美骑士团」的古典骑士。",
             "EN": "A complete projection produced by compromised codes. The referenced entity is a paragon among the Knights of Beauty."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -48142,13 +44718,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 16.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -48222,7 +44792,8 @@ var _monster = [
             "CH": "test_「授勋」的雕塑：传言曾有一朵被女神亲吻过的玫瑰，它的美永不凋零。",
             "EN": ""
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.25,
             "ATK": 18.0,
@@ -48230,13 +44801,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice"
@@ -48279,7 +44844,8 @@ var _monster = [
             "CH": "test_「枪」的雕塑；萦绕着纯美灵魂，枪与盾相依，枪是击破黯淡的勇气。",
             "EN": ""
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.6,
             "ATK": 18.0,
@@ -48287,13 +44853,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire"
@@ -48336,7 +44896,8 @@ var _monster = [
             "CH": "test_「盾」的雕塑；萦绕着纯美灵魂，枪与盾相依，盾是捍卫生灵的决心。",
             "EN": ""
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 4.5,
             "ATK": 18.0,
@@ -48344,13 +44905,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec"
@@ -48393,7 +44948,8 @@ var _monster = [
             "CH": "代码受到影响后的完整投影。参照本体为将军景元的侍卫，不过总角之年的御剑天才。",
             "EN": "A complete projection produced by compromised codes. The referenced entity is General Jing Yuan's retainer, a gifted swordsman who hasn't even come of age."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -48401,13 +44957,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 12.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -48487,7 +45037,8 @@ var _monster = [
             "CH": "代码受到影响后的完整投影。参照本体为以旧世界遗留的科技拼凑制造的自动机器单元，加装了厚重的铠甲，用于冲锋陷阵保护银鬃铁卫。<br>战斗中，自动机兵「灰熊」（完整）会发出信号召来「蜘蛛」合作战斗，同时会积蓄动能发出强力一击。",
             "EN": "A complete projection produced by compromised codes. The referenced entity is an automaton pieced together with Old World technology. It's been reinforced with durable armor so that it could charge into battle and offer protection for the Silvermane Guards.<br>In combat, Automaton Grizzly (Complete) will send out a signal to summon Automaton Spiders, and at the same time unleash powerful charged attacks."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -48495,13 +45046,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 16.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -48579,7 +45124,8 @@ var _monster = [
             "CH": "代码受到影响后的完整投影。参照本体为以旧世界遗留的科技拼凑制造的自动机器单元，少见的人形机械，其右臂部分统一装置着链锯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「齿狼」（完整）的链锯会造成裂伤，令对手持续损失生命值。",
             "EN": "A complete projection produced by compromised codes. The referenced entity is an automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolf (Complete) will use its chainsaw to Bleed enemies, dealing DoT."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 5.0,
             "ATK": 18.0,
@@ -48587,13 +45133,7 @@ var _monster = [
             "SPD": 172.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Elec",
@@ -48666,7 +45206,8 @@ var _monster = [
             "CH": "「星核猎手」的一员，面带莫测笑容的杀手丽人，善用种类纷繁的武器和心控之术。正是她将星穹列车引至此处，以实现某个计划……",
             "EN": "One of the Stellaron Hunters. A beautiful assassin wearing an enigmatic smile, she excels in manipulation and various weaponry. It was by her design that the Astral Express was led here, all of which was simply part of a certain plan..."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 20.0,
             "ATK": 18.0,
@@ -48674,13 +45215,7 @@ var _monster = [
             "SPD": 119.0,
             "Stance": 15.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Wind",
@@ -48729,7 +45264,8 @@ var _monster = [
             "CH": "代码受到影响后的完整投影。参照本体为成熟体的真蛰虫；博识学会的杜卢伊爵士遨游星海，曾写下三十卷《诸界异虫札记》。书中详实记载了迄今为止被确认的十几种蠹虫种类，以及星系间数之不尽的亚种。",
             "EN": "A complete projection produced by compromised codes. The referenced entity is a mature True Sting. Sir Duroy, a member of the Intelligentsia Guild, explored the starry seas and authored the thirty-volume of the <i>Chronicles of Interdimensional Insects</i>. The book provides detailed records of over a dozen confirmed species of lepisma and countless subspecies spanning across the stars."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 15.0,
             "ATK": 18.0,
@@ -48737,13 +45273,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 18.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Quantum",
@@ -48824,7 +45354,8 @@ var _monster = [
             "CH": "「星际和平公司」的基层员工，主要负责处理上不得台面的「业务疏漏」。工资不高，只能在公司旗下的企业舰上合租房间。出现于此的是基于你的记忆模拟出的幻影。",
             "EN": "An Interastral Peace Corporation grunt worker whose job mainly deals with shady \"business oversights.\" With a meager salary, the only lodging they can afford is a shared room on one of the IPC's enterprise ships. The version appearing here is a phantom simulated from your memories."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -48832,13 +45363,7 @@ var _monster = [
             "SPD": 118.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Imaginary",
@@ -48887,7 +45412,8 @@ var _monster = [
             "CH": "「星际和平公司」的基层员工，主要负责维持公司管辖地区的治安秩序。工资不高，只能在公司旗下的企业舰上合租房间。出现于此的是基于你的记忆模拟出的幻影。",
             "EN": "An Interastral Peace Corporation grunt worker whose job mainly involves maintaining order in locations ruled by the IPC. With a meager salary, the only lodging they can afford is a shared room on one of the IPC's enterprise ships. The version appearing here is a phantom simulated from your memories."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.2,
             "ATK": 18.0,
@@ -48895,13 +45421,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Imaginary",
             "Wind",
@@ -48950,7 +45470,8 @@ var _monster = [
             "CH": "守护者创造的巨大冰矛，能释放出席卷全场的刺骨霜风。出现于此的是基于你的记忆模拟出的幻影。",
             "EN": "A giant lance of ice created by the guardian. It can unleash a piercing frost wind that sweeps across the entire field. This entity is a phantom borne from your memories."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -48958,13 +45479,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec"
@@ -49014,7 +45529,8 @@ var _monster = [
             "CH": "守护者创造的巨大冰矛，能释放出席卷全场的刺骨霜风。出现于此的是基于你的记忆模拟出的幻影。",
             "EN": "A giant lance of ice created by the guardian. It can unleash a piercing frost wind that sweeps across the entire field. This entity is a phantom borne from your memories."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -49022,13 +45538,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Quantum"
@@ -49078,7 +45588,8 @@ var _monster = [
             "CH": "可可利亚召唤出的巨大冰矛，环绕着能如刀刃般撕裂肉身的极寒气流。出现于此的是基于你的记忆模拟出的幻影。",
             "EN": "A giant lance of ice summon by Cocolia. It's surrounded by an icy cold current that can tear through flesh like a blade. This entity is a phantom borne from your memories."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.25,
             "ATK": 18.0,
@@ -49086,13 +45597,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 4.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec"
@@ -49142,7 +45647,8 @@ var _monster = [
             "CH": "可可利亚召唤出的巨大冰矛，环绕着能如刀刃般撕裂肉身的极寒气流。出现于此的是基于你的记忆模拟出的幻影。",
             "EN": "A giant lance of ice summon by Cocolia. It's surrounded by an icy cold current that can tear through flesh like a blade. This entity is a phantom borne from your memories."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.25,
             "ATK": 18.0,
@@ -49150,13 +45656,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 4.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Quantum"
@@ -49206,7 +45706,8 @@ var _monster = [
             "CH": "银鬃铁卫中的炮手，使用便携的手炮进行战斗。<br> 在战斗中，银鬃炮手会和其它目标发动猛烈的连携攻击。出现于此的是基于你的记忆模拟出的幻影。",
             "EN": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, Silvermane Cannoneers will launch brutal chain attacks with their allies. This entity is a phantom borne from your memories."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.1,
             "ATK": 18.0,
@@ -49214,13 +45715,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -49269,7 +45764,8 @@ var _monster = [
             "CH": "贝洛伯格的守护者，永屹之城贝洛伯格无可质疑的统治者。<br>可可利亚秉持传承自历代守护者的神迹权能，在战斗中号令冰雪的力量冻结敌人。出现于此的是基于你的记忆模拟出的幻影。",
             "EN": "The Guardian of Belobog, and the ruler of the Towering Citadel of Belobog.<br>As the Guardian, Cocolia has inherited divine powers, giving her absolute command over the ice to freeze her enemies in battle. This entity is a phantom borne from your memories."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 48.0,
             "ATK": 18.0,
@@ -49277,13 +45773,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 22.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec",
@@ -49353,7 +45843,8 @@ var _monster = [
             "CH": "银鬃铁卫的戍卫长。<br>杰帕德会为士兵提供抵挡攻击伤害的护盾。出现于此的是基于你的记忆模拟出的幻影。",
             "EN": "Captain of the Silvermane Guards.<br>Gepard will provide soldiers with a shield that can block DMG taken. What you see here is a simulated illusion based on your own memories."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 25.0,
             "ATK": 18.0,
@@ -49361,13 +45852,7 @@ var _monster = [
             "SPD": 119.0,
             "Stance": 15.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec",
@@ -49429,7 +45914,8 @@ var _monster = [
             "CH": "受「星核」漫溢的裂界能量同化之后，大守护者幻化为操控虚数能量的歌者，亦是祂所承诺的「新世界」的代言人。出现于此的是基于你的记忆模拟出的幻影。",
             "EN": "After being assimilated by the overflowing Fragmentum energy of the Stellaron, the Supreme Guardian transforms into a singer able to control Imaginary Energy and the mouthpiece of its promised \"new world.\" This entity is a phantom borne from your memories."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 52.5,
             "ATK": 18.0,
@@ -49437,13 +45923,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 20.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Elec",
@@ -49504,7 +45984,8 @@ var _monster = [
             "CH": "真气操作浮游攻击单元，别名「飞剑」的武器。同御剑者心智紧密相连，如臂使指。出现于此的是基于你的记忆模拟出的幻影。",
             "EN": "Qi-controlled hovering attack unit, also named \"Flying Sword.\" Closely connected to the wielder's psyche and can be used as an extension of its wielder's will. This entity is a phantom borne from your memories."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 30.0,
             "ATK": 19.99998,
@@ -49513,10 +45994,6 @@ var _monster = [
             "Stance": 1.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 2.0
         },
         "Weak": [
@@ -49562,7 +46039,8 @@ var _monster = [
             "CH": "真气操作浮游攻击单元，别名「飞剑」的武器。同御剑者心智紧密相连，如臂使指。出现于此的是基于你的记忆模拟出的幻影。",
             "EN": "Qi-controlled hovering attack unit, also named \"Flying Sword.\" Closely connected to the wielder's psyche and can be used as an extension of its wielder's will. This entity is a phantom borne from your memories."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 30.0,
             "ATK": 19.99998,
@@ -49571,10 +46049,6 @@ var _monster = [
             "Stance": 1.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 2.0
         },
         "Weak": [
@@ -49620,7 +46094,8 @@ var _monster = [
             "CH": "「星核猎手」的一员，面带莫测笑容的杀手丽人，善用种类纷繁的武器和心控之术。正是她将星穹列车引至此处，以实现某个计划……出现于此的是基于你的记忆模拟出的幻影。",
             "EN": "One of the Stellaron Hunters. A beautiful assassin wearing an enigmatic smile, she excels in manipulation and various weaponry. It was by her design that the Astral Express was led here, all of which was simply part of a certain plan... This entity is a phantom borne from your memories."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 70.0,
             "ATK": 18.0,
@@ -49628,13 +46103,7 @@ var _monster = [
             "SPD": 108.0,
             "Stance": 24.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Wind",
@@ -49707,7 +46176,8 @@ var _monster = [
             "CH": "将军景元的侍卫，不过总角之年的御剑天才。出现于此的是你的记忆模拟出的幻影。",
             "EN": "General Jing Yuan's retainer. A gifted swordsman who hasn't even come of age. This entity is a phantom borne from your memories."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 70.0,
             "ATK": 18.0,
@@ -49715,13 +46185,7 @@ var _monster = [
             "SPD": 119.0,
             "Stance": 22.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Elec",
             "Wind",
@@ -49786,7 +46250,8 @@ var _monster = [
             "CH": "随玄鹿足迹而生的建木枝梢。出现于此的是基于你的记忆模拟出的幻影。",
             "EN": "A branch of Ambrosial Arbor created from the Ebon Deer's footprint. This entity is a phantom borne from your memories."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.6,
             "ATK": 18.0,
@@ -49794,13 +46259,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Quantum",
@@ -49842,7 +46301,8 @@ var _monster = [
             "CH": "随玄鹿足迹而生的建木枝梢。出现于此的是基于你的记忆模拟出的幻影。",
             "EN": "A branch of Ambrosial Arbor created from the Ebon Deer's footprint. This entity is a phantom borne from your memories."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 3.75,
             "ATK": 18.0,
@@ -49851,11 +46311,7 @@ var _monster = [
             "Stance": 3.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": -94.0,
-            "Stance": 0.0
+            "SPD": -94.0
         },
         "Weak": [
             "Fire",
@@ -49900,7 +46356,8 @@ var _monster = [
             "CH": "随玄鹿足迹而生的建木枝梢。出现于此的是基于你的记忆模拟出的幻影。",
             "EN": "A branch of Ambrosial Arbor created from the Ebon Deer's footprint. This entity is a phantom borne from your memories."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.0,
             "ATK": 18.0,
@@ -49908,13 +46365,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 3.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Imaginary",
@@ -49956,7 +46407,8 @@ var _monster = [
             "CH": "随玄鹿足迹而生的建木枝梢。出现于此的是基于你的记忆模拟出的幻影。",
             "EN": "A branch of Ambrosial Arbor created from the Ebon Deer's footprint. This entity is a phantom borne from your memories."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 2.4,
             "ATK": 18.0,
@@ -49964,13 +46416,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 4.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Quantum",
@@ -50013,7 +46459,8 @@ var _monster = [
             "CH": "由「建木」化生，拱卫其根系的灵瑞之兽，履迹所之，和泽滋生，枝杪郁敷。<br>自毁于太古时代的战争后，「建木」终于在星核的修补下再度生长。彼时仙人们所造的珍禽奇兽纷至沓来，宛如旧梦重临。出现于此的是基于你的记忆模拟出的幻影。",
             "EN": "An auspicious spiritual beast wrought into being by the Ambrosial Arbor and protects its roots. Its arrival brings along exuberant vegetation and promises good fortune.<br>Once destroyed during ancient wars, the Ambrosial Arbor is mended by the Stellaron and finally revives. Rare creatures and legendary beasts made by celestials of the past all return to this world, like an old dream coming alive again. This entity is a phantom borne from your memories."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 52.5,
             "ATK": 18.0,
@@ -50021,13 +46468,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 14.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
@@ -50102,7 +46543,8 @@ var _monster = [
             "CH": "「星际和平公司」的资深员工，级别至少是项目组的小组长。驾驶的机甲属于公有资产，一旦损坏需要自费赔偿。工资尚可，足够在公司旗下的企业舰上租下一室一厅的单间。出现于此的是基于你的记忆模拟出的幻影。",
             "EN": "An Interastral Peace Corporation senior staff member with a minimal rank of project team leader. The mech they drive belongs to the IPC. If damaged, its repair fees have to be paid out-of-pocket. With a half-decent salary, they can at least afford to rent a one-bedroom apartment on one of the IPC's enterprise ships. The version appearing here is a phantom simulated from your memories."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 6.0,
             "ATK": 18.0,
@@ -50111,11 +46553,7 @@ var _monster = [
             "Stance": 12.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": -20.0,
-            "Stance": 0.0
+            "SPD": -20.0
         },
         "Weak": [
             "Fire",
@@ -50164,7 +46602,8 @@ var _monster = [
             "CH": "银鬃铁卫的戍卫长。<br>杰帕德会指挥麾下士兵集中攻击，并且能为士兵提供免疫一次攻击的屏障。出现于此的是基于你的记忆模拟出的幻影。",
             "EN": "Leader of the Silvermane Guards.<br>Gepard can command his soldiers to focus their attacks, and offer a barrier to immune any attack once. This entity is a phantom borne from your memories."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 42.5,
             "ATK": 18.0,
@@ -50172,13 +46611,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 18.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Elec",
@@ -50252,7 +46685,8 @@ var _monster = [
             "CH": "贝洛伯格守护者的继任者，银鬃铁卫的统帅。<br>布洛妮娅会使用多种战术攻击敌人，并大幅提升友军的作战能力。出现于此的是基于你的记忆模拟出的幻影。",
             "EN": "Successor to Belobog's Guardian, and commander of the Silvermane Guards.<br>Bronya can use various tactics to attack her enemies, and greatly enhance the battle prowess of friendly units. This entity is a phantom borne from your memories."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 42.5,
             "ATK": 18.0,
@@ -50260,13 +46694,7 @@ var _monster = [
             "SPD": 119.0,
             "Stance": 18.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -50335,7 +46763,8 @@ var _monster = [
             "CH": "追随十王司判官执行任务的武卫。<br>面戴象征冥世来使的黑白绘面，手持铡刀，其攻击一如十王司的使命沉重而不可违逆。",
             "EN": "A somber warrior that accompanies the Judges of the Ten-Lords Commission to execute missions.<br>Adorned with the black and white mask that symbolizes the netherworld envoy, they wield a guillotine blade, their strikes echoing the weighty and unyielding duty of the Ten-Lords Commission."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
@@ -50343,13 +46772,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -50391,7 +46814,8 @@ var _monster = [
             "CH": "「纯美骑士团」的古典骑士，虔诚地仰慕着已失踪的「纯美」星神伊德莉拉。<br>为人正直、光明磊落，于宇宙中漫游，宣扬伊德莉拉美名。",
             "EN": "A classic knight of the \"Knights of Beauty\" who is piously seeking his missing Aeon Idrila the \"Beauty.\"<br>Forthright and candid, he wanders the cosmos espousing the virtues of Idrila's good name."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 35.0,
             "ATK": 18.0,
@@ -50399,13 +46823,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 16.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Fire",
@@ -50459,7 +46877,8 @@ var _monster = [
             "CH": "「星际和平公司」的资深员工，级别至少是项目组的小组长。驾驶的机甲属于公有资产，一旦损坏需要自费赔偿。工资尚可，足够在公司旗下的企业舰上租下一室一厅的单间。出现于此的是基于你的记忆模拟出的幻影。",
             "EN": "An Interastral Peace Corporation senior staff member with a minimal rank of project team leader. The mech they drive belongs to the IPC. If damaged, its repair fees have to be paid out-of-pocket. With a half-decent salary, they can at least afford to rent a one-bedroom apartment on one of the IPC's enterprise ships. The version appearing here is a phantom simulated from your memories."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 14.0,
             "ATK": 18.0,
@@ -50468,9 +46887,6 @@ var _monster = [
             "Stance": 12.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
             "SPD": -20.0,
             "Stance": -4.0
         },
@@ -50526,7 +46942,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的射手，负责狙击敌人。<br>战斗中，银鬃射手的射击会对我方造成裂伤。",
             "EN": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 1.1,
             "ATK": 12.00006,
@@ -50534,13 +46951,7 @@ var _monster = [
             "SPD": 100.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice"
@@ -50582,7 +46993,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」分队的领导者。<br>战斗中，银鬃尉官会架起巨盾并强化自身。攻击架盾状态下的银鬃尉官，会立即遭到强力的反击。",
             "EN": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 10.0,
             "ATK": 18.0,
@@ -50590,13 +47002,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 8.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -50641,7 +47047,8 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」分队的领导者。<br>战斗中，银鬃尉官会架起巨盾并强化自身。攻击架盾状态下的银鬃尉官，会立即遭到强力的反击。",
             "EN": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -50650,10 +47057,6 @@ var _monster = [
             "Stance": 8.0
         },
         "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
             "Stance": 4.0
         },
         "Weak": [
@@ -50700,7 +47103,8 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，少见的人形机械，其右臂部分统一装置着链锯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「齿狼」的链锯会造成裂伤，令对手持续损失生命值。",
             "EN": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 13.75,
             "ATK": 18.0,
@@ -50708,13 +47112,7 @@ var _monster = [
             "SPD": 144.0,
             "Stance": 10.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Ice",
             "Elec",
@@ -50759,7 +47157,8 @@ var _monster = [
             "CH": "「药王秘传」信徒渴求的形态，摆脱人性重负，以仙道重塑的真体。<br>太古时代，求道者们自建木中参悟玄旨，自诩「仙人」。他们自在无拘，将血肉众生如泥塑形。在无数次变化间，他们忘却了自己的本来面目。",
             "EN": "The form that the Disciples of Sanctus Medicus crave. A true appearance that cast off the burdens of humanity and has been reforged using the way of immortality.<br>In ancient times, those who sought immortality received wisdom from the Ambrosial Arbor and called themselves Celestials. They lived without restraints and molded the flesh of themselves and others at will. They have long forgotten their original appearances after countless metamorphoses."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 8.0,
             "ATK": 18.0,
@@ -50767,13 +47166,7 @@ var _monster = [
             "SPD": 120.0,
             "Stance": 14.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Phys",
             "Ice",
@@ -50819,7 +47212,8 @@ var _monster = [
             "CH": "不知何故陷入狂乱的仙舟士兵，躯壳已不见人形，只余无穷的增生变异。相传无量寿中，仙舟人会堕入名为「魔阴身」的状态。",
             "EN": "Soldiers of the Xianzhou who somehow fell into madness. Their bodies continue to grow and mutate and have long lost their humanoid form. It is said that the long-lived Xianzhou natives would eventually be stricken with mara."
         },
-        "Curve": 1,
+        "HardLevelGroup": 1,
+        "EliteGroup": 1,
         "Stats": {
             "HP": 0.9,
             "ATK": 18.0,
@@ -50827,13 +47221,7 @@ var _monster = [
             "SPD": 83.0,
             "Stance": 2.0
         },
-        "StatsExtra": {
-            "HP": 0.0,
-            "ATK": 0.0,
-            "DEF": 0.0,
-            "SPD": 0.0,
-            "Stance": 0.0
-        },
+        "StatsExtra": {},
         "Weak": [
             "Fire",
             "Ice",
