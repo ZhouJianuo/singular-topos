@@ -135,7 +135,7 @@ var SR = [
         "Features": [
             {
                 "CH": "怪物血量、速度、伤害抗性、效果抵抗等",
-                "EN": "Monster HP, SPD, DMG RES, Status RES and more."
+                "EN": "HP, SPD, DMG RES, Status RES and more."
             },
             {
                 "CH": "怪物技能精确数据",

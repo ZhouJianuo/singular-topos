@@ -2,6 +2,34 @@
 
 var _kingdoms = [
     {
+        "_id": 9999,
+        "Name": {
+            "CH": "<b>新增</b>",
+            "EN": "<b>New</b>"
+        }
+    },
+    {
+        "_id": 1000,
+        "Name": {
+            "CH": "<b>全部</b>",
+            "EN": "<b>All</b>"
+        }
+    },
+    {
+        "_id": 1001,
+        "Name": {
+            "CH": "（错误）",
+            "EN": "(Bug)"
+        }
+    },
+    {
+        "_id": 1002,
+        "Name": {
+            "CH": "（完整）",
+            "EN": "(Complete)"
+        }
+    },
+    {
         "_id": 6,
         "Name": {
             "CH": "反物质军团",
@@ -69,6 +97,13 @@ var _kingdoms = [
         "Name": {
             "CH": "其他",
             "EN": "Other"
+        }
+    },
+    {
+        "_id": 7000,
+        "Name": {
+            "CH": "以太战线",
+            "EN": "Aetherium Wars"
         }
     }
 ]

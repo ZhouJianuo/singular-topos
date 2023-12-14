@@ -70,7 +70,6 @@ popheader {
 
 popbody {
     max-height: calc(100% - 40px)!important;
-    padding: 20px;
 }
 
 body, html {
@@ -85,6 +84,7 @@ container {
     max-width: 2000px;
     height: 100%;
     overflow-y: scroll;
+    overflow-x: hidden;
 }
 
 .content {
@@ -94,9 +94,31 @@ container {
     min-height: 600px;
 }
 
+section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 15px;
+}
+
+schedule {
+    display: block;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 8px;
+}
+
 schedule.active{
     background-color: rgb(37, 69, 186);
     color: #fff;
+}
+
+.elem {
+    height: 22px;
+    width: 22px;
 }
 
 ::-webkit-scrollbar {

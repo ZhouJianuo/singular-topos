@@ -3,6 +3,7 @@ var txt = {
         "CH": "玉衡杯数据库",
         "EN": "HomDGCat Database"
     },
+    "Affix": " | <color style='color:#0066FF;'>homdgcat.wiki</color>",
     "Subtitle": {
         "CH": "<p>数据提供：<b>妮可少女 <a href='https://space.bilibili.com/3537104994831140' target='_blank'>(bilibili)</a> <a href='https://www.reddit.com/user/homdgcat/' target='_blank'>(Reddit)</a> <a href='https://www.twitter.com/homdgcat_' target='_blank'>(Twitter)</a></b></p>",
         "EN": "<p>Data by <b>HomDGCat: <a href='https://space.bilibili.com/3537104994831140' target='_blank'>(bilibili)</a> <a href='https://www.reddit.com/user/homdgcat/' target='_blank'>(Reddit)</a> <a href='https://www.twitter.com/homdgcat_' target='_blank'>(Twitter)</a></b></p>"
@@ -53,6 +54,38 @@ var txt = {
         "CH": "敬请期待",
         "EN": "Coming Soon"
     },
+    "Mon_Head": [
+        {
+            "CH": "数据",
+            "EN": "Stats"
+        },
+        {
+            "CH": "技能",
+            "EN": "Skills"
+        },
+        {
+            "CH": "伤害计算",
+            "EN": "DMG Calculate"
+        }
+    ],
+    "SkillPhase": [
+        {
+            "CH": "隐藏",
+            "EN": "Hidden"
+        },
+        {
+            "CH": "阶段一",
+            "EN": "Phase 1"
+        },
+        {
+            "CH": "阶段二",
+            "EN": "Phase 2"
+        },
+        {
+            "CH": "阶段三",
+            "EN": "Phase 3"
+        },
+    ]
 }
 
 var links = [

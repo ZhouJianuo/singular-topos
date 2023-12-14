@@ -1,19 +1,5 @@
 schedule {
-    display: block;
     width: calc((100% - 50px) / 4);
-    text-align: center;
-    padding: 10px;
-    border: 1px solid #333;
-    border-radius: 5px;
-    cursor: pointer;
-    margin: 8px;
-}
-
-.home_select {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin: 15px;
 }
 
 .about {
@@ -89,6 +75,17 @@ schedule {
 .dir_body {
     display: none;
     margin-top: 8px;
+}
+
+.monster_card_area {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.monster_card {
+    display: block;
+    width: min-content;
 }
 
 ::-webkit-scrollbar {
