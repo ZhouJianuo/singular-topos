@@ -7,7 +7,7 @@ $(function () {
         var lang = lang_
     }
 
-    if (lang == 'EN') {$('body').css('font-family', "'Poppins', sans-serif")}
+    if (lang == 'EN') {$('body').css('font-family', "'Segoe UI', sans-serif")}
     else {$('body').css('font-family', "'Microsoft YaHei', sans-serif")}
 
     $('h3 .title').html(txt.Title[lang])

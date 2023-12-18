@@ -73,7 +73,7 @@ popbody {
 }
 
 body, html {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Segoe UI', sans-serif;
     height: 100%;
     overflow: hidden;
     margin: 0px;
@@ -117,8 +117,8 @@ schedule.active{
 }
 
 .elem {
-    height: 22px;
-    width: 22px;
+    height: 18px;
+    width: 18px;
 }
 
 ::-webkit-scrollbar {
@@ -138,12 +138,25 @@ schedule.active{
     width: 0px
 }
 
+::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 3px;
+}
+
 .yuhengcup schedule { width: calc((100% - 20px)) }
 
 @media screen and (min-width: 600px) and (max-width: 800px) {
     .yuhengcup schedule { width: calc((100% - 40px) / 2) }
+    .elem {
+        height: 20x;
+        width: 20px;
+    }
 }
 
 @media screen and (min-width: 800px) {
     .yuhengcup schedule { width: calc((100% - 60px) / 3) }
+    .elem {
+        height: 22px;
+        width: 22px;
+    }
 }

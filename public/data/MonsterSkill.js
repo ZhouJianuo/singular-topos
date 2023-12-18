@@ -12,6 +12,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target, with <color style='color:#f29e38;'>100%</color> Base Chance to reduce the target's DEF by <color style='color:#f29e38;'>50%</color>. Lasts <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "Status": [
             210010101
         ],
@@ -30,6 +31,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target, with <color style='color:#f29e38;'>100%</color> Base Chance to reduce the target's DEF by <color style='color:#f29e38;'>50%</color>. Lasts <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "Status": [
             210010101
         ],
@@ -48,6 +50,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target, with <color style='color:#f29e38;'>100%</color> Base Chance to cause <b>Bleed</b> to the target for <color style='color:#f29e38;'>2</color> turns. <br>Bleed DoT: <color style='color:#f29e38;'>15% Self Max HP</color> Physical DMG, max <color style='color:#f29e38;'>1</color> stack. <br>(If <color style='color:#f29e38;'>500% Attacker ATK</color> is lower, then Bleed deals DMG according to this instead)"
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "Status": [
             30020005
         ],
@@ -66,6 +69,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "DMG": [
             2.0
         ]
@@ -81,6 +85,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "DMG": [
             2.0
         ]
@@ -96,6 +101,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "DMG": [
             2.5
         ]
@@ -111,6 +117,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "DMG": [
             2.5
         ]
@@ -126,6 +133,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "DMG": [
             1.5
         ]
@@ -141,6 +149,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "DMG": [
             1.5
         ]
@@ -156,6 +165,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "DMG": [
             2.5
         ]
@@ -171,6 +181,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "DMG": [
             2.5
         ]
@@ -186,6 +197,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "DMG": [
             2.5
         ]
@@ -216,6 +228,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target and <2> Physical DMG to adjacent units."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "DMG": [
             1.3,
             1.0
@@ -264,6 +277,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "DMG": [
             3.0
         ]
@@ -279,6 +293,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 20.0,
+        "Elem": "Phys",
         "DMG": [
             6.5
         ]
@@ -327,6 +342,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "DMG": [
             3.0
         ]
@@ -342,6 +358,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 20.0,
+        "Elem": "Phys",
         "DMG": [
             6.0
         ]
@@ -405,6 +422,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "DMG": [
             3.0
         ]
@@ -420,6 +438,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 20.0,
+        "Elem": "Phys",
         "DMG": [
             4.2
         ]
@@ -459,6 +478,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "DMG": [
             3.0
         ]
@@ -474,6 +494,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 20.0,
+        "Elem": "Phys",
         "DMG": [
             4.2
         ]
@@ -519,6 +540,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "DMG": [
             3.0
         ]
@@ -534,6 +556,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 15.0,
+        "Elem": "Ice",
         "DMG": [
             4.5
         ]
@@ -564,6 +587,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 15.0,
+        "Elem": "Ice",
         "DMG": [
             3.5
         ]
@@ -598,6 +622,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "DMG": [
             3.0
         ]
@@ -613,6 +638,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 15.0,
+        "Elem": "Ice",
         "DMG": [
             4.5
         ]
@@ -643,6 +669,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 15.0,
+        "Elem": "Ice",
         "DMG": [
             3.5
         ]
@@ -677,6 +704,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "DMG": [
             3.0
         ]
@@ -692,6 +720,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 15.0,
+        "Elem": "Ice",
         "DMG": [
             3.5
         ]
@@ -723,6 +752,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to all targets. Increases self DMG dealt by <color style='color:#f29e38;'>12%</color>, stackable."
         },
         "SP": 15.0,
+        "Elem": "Ice",
         "Status": [
             210040221
         ],
@@ -755,7 +785,8 @@ var _monsterskill = {
             "CH": "dev_对指定我方单体造成大量物理伤害。不显示",
             "EN": ""
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Ice"
     },
     "100402208": {
         "Key": "Skill08",
@@ -768,6 +799,7 @@ var _monsterskill = {
             "EN": "Goes into the <color style='color:#f29e38;'>Counter</color> state for <color style='color:#f29e38;'>1</color> turn. If attacked by a target while in this state, immediately deal <1> Ice DMG to the attacker. This effect can only be triggered <color style='color:#f29e38;'>1</color> time."
         },
         "SP": 0,
+        "Elem": "Ice",
         "Status": [
             210040222
         ],
@@ -832,6 +864,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "DMG": [
             3.0
         ]
@@ -847,6 +880,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 15.0,
+        "Elem": "Ice",
         "DMG": [
             3.5
         ]
@@ -878,6 +912,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to all targets. Increases self DMG dealt by <color style='color:#f29e38;'>12%</color>, stackable.<br>Phase 3 Max HP becomes <color style='color:#f29e38;'>1.5</color> times the original."
         },
         "SP": 15.0,
+        "Elem": "Ice",
         "Status": [
             210040221
         ],
@@ -910,7 +945,8 @@ var _monsterskill = {
             "CH": "dev_对指定我方单体造成大量物理伤害。不显示",
             "EN": ""
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Ice"
     },
     "100402308": {
         "Key": "Skill08",
@@ -1011,6 +1047,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "DMG": [
             3.0
         ]
@@ -1042,6 +1079,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 20.0,
+        "Elem": "Ice",
         "DMG": [
             5.0
         ]
@@ -1057,6 +1095,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Freeze</b> the target for <color style='color:#f29e38;'>2</color> turns. <br>Freeze DoT: <2> Ice DMG."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "Status": [
             30020012
         ],
@@ -1106,6 +1145,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "DMG": [
             2.25
         ]
@@ -1137,6 +1177,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 20.0,
+        "Elem": "Ice",
         "DMG": [
             3.75
         ]
@@ -1152,6 +1193,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Freeze</b> the target for <color style='color:#f29e38;'>1</color> turn. <br>Freeze DoT: <2> Ice DMG."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "Status": [
             30020012
         ],
@@ -1189,6 +1231,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to Frozen targets and <2> Ice DMG to adjacent units. This also removes the target's Frozen state. If the adjacent units are also Frozen, then this ability is used again on the primary target."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "DMG": [
             3.75,
             1.5
@@ -1220,6 +1263,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "DMG": [
             2.25
         ]
@@ -1251,6 +1295,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 20.0,
+        "Elem": "Ice",
         "DMG": [
             3.75
         ]
@@ -1266,6 +1311,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Freeze</b> the target for <color style='color:#f29e38;'>1</color> turn. <br>Freeze DoT: <2> Ice DMG."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "Status": [
             30020012
         ],
@@ -1303,6 +1349,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to Frozen targets and <2> Ice DMG to adjacent units. This also removes the target's Frozen state. If the adjacent units are also Frozen, then this ability is used again on the primary target."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "DMG": [
             3.75,
             1.5
@@ -1334,6 +1381,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Wind",
         "DMG": [
             3.0
         ]
@@ -1377,6 +1425,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to a single target and delays their action by <color style='color:#f29e38;'>50%</color>."
         },
         "SP": 15.0,
+        "Elem": "Wind",
         "DMG": [
             5.0
         ]
@@ -1392,6 +1441,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Wind",
         "DMG": [
             2.25
         ]
@@ -1431,6 +1481,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to a single target and delays their action by <color style='color:#f29e38;'>50%</color>."
         },
         "SP": 15.0,
+        "Elem": "Wind",
         "DMG": [
             3.75
         ]
@@ -1446,6 +1497,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "DMG": [
             3.5
         ]
@@ -1461,6 +1513,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 20.0,
+        "Elem": "Ice",
         "DMG": [
             9.5
         ]
@@ -1476,6 +1529,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "DMG": [
             2.5
         ]
@@ -1507,6 +1561,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance of causing <b>Imprisonment</b>: Action delayed by <color style='color:#f29e38;'>50%</color> for <color style='color:#f29e38;'>1</color> turn."
         },
         "SP": 10.0,
+        "Elem": "Imaginary",
         "Status": [
             30020013
         ],
@@ -1543,6 +1598,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to all targets."
         },
         "SP": 20.0,
+        "Elem": "Imaginary",
         "DMG": [
             6.5
         ]
@@ -1588,6 +1644,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "DMG": [
             2.0
         ]
@@ -1603,6 +1660,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 15.0,
+        "Elem": "Ice",
         "DMG": [
             9.5
         ]
@@ -1618,6 +1676,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "DMG": [
             1.7
         ]
@@ -1649,6 +1708,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance of causing <b>Imprisonment</b> for <color style='color:#f29e38;'>1</color> turn. <br>Imprisonment: Cannot take action, action delayed by <color style='color:#f29e38;'>50%</color> ."
         },
         "SP": 10.0,
+        "Elem": "Imaginary",
         "Status": [
             30020013
         ],
@@ -1685,6 +1745,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to all targets."
         },
         "SP": 20.0,
+        "Elem": "Imaginary",
         "DMG": [
             6.5
         ]
@@ -1742,6 +1803,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "DMG": [
             3.5
         ]
@@ -1757,6 +1819,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Freeze</b> the target for <color style='color:#f29e38;'>1</color> turn. <br>Freeze DoT: <2> Ice DMG."
         },
         "SP": 15.0,
+        "Elem": "Ice",
         "DMG": [
             6.5,
             1.0
@@ -1773,6 +1836,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "DMG": [
             2.5
         ]
@@ -1804,6 +1868,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance of causing <b>Imprisonment</b> for <color style='color:#f29e38;'>1</color> turn. <br>Imprisonment: Cannot take action, action delayed by <color style='color:#f29e38;'>50%</color> ."
         },
         "SP": 10.0,
+        "Elem": "Imaginary",
         "Status": [
             30020013
         ],
@@ -1840,6 +1905,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to all targets."
         },
         "SP": 20.0,
+        "Elem": "Imaginary",
         "DMG": [
             6.5
         ]
@@ -1873,6 +1939,7 @@ var _monsterskill = {
             "EN": "Using <color style='color:#f29e38;'>Soulrend Coldstream</color> has a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Freeze</b> the target."
         },
         "SP": 0,
+        "Elem": "Ice",
         "Prepare": [
             100501202
         ]
@@ -1900,6 +1967,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 15.0,
+        "Elem": "Phys",
         "DMG": [
             2.5
         ]
@@ -1927,6 +1995,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 15.0,
+        "Elem": "Phys",
         "DMG": [
             2.5
         ]
@@ -1954,6 +2023,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 15.0,
+        "Elem": "Phys",
         "DMG": [
             2.0
         ]
@@ -1984,6 +2054,7 @@ var _monsterskill = {
             "EN": "Self-destructs, dealing <1> Fire DMG to a single target and units adjacent to the target."
         },
         "SP": 15.0,
+        "Elem": "Fire",
         "DMG": [
             5.0
         ]
@@ -1998,7 +2069,8 @@ var _monsterskill = {
             "CH": "受到致命攻击后，对相邻的敌方目标造成<color style='color:#f29e38;'>120%自身生命值上限</color>的火属性伤害，造成<color style='color:#f29e38;'>2.0</color>点火属性削韧。",
             "EN": "Deals <color style='color:#f29e38;'>120% Self Max HP</color> Fire DMG and <color style='color:#f29e38;'>2.0</color> Fire Toughness DMG to adjacent units when suffering a killing blow."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Fire"
     },
     "101202005": {
         "Key": "Skill04",
@@ -2023,6 +2095,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 15.0,
+        "Elem": "Phys",
         "DMG": [
             2.0
         ]
@@ -2053,6 +2126,7 @@ var _monsterskill = {
             "EN": "Self-destructs, dealing <1> Fire DMG to a single target and units adjacent to the target."
         },
         "SP": 15.0,
+        "Elem": "Fire",
         "DMG": [
             5.0
         ]
@@ -2067,7 +2141,8 @@ var _monsterskill = {
             "CH": "受到致命攻击后，对相邻的敌方目标造成<color style='color:#f29e38;'>120%自身生命值上限</color>的火属性伤害，造成<color style='color:#f29e38;'>2.0</color>点火属性削韧。",
             "EN": "Deals <color style='color:#f29e38;'>120% Self Max HP</color> Fire DMG and <color style='color:#f29e38;'>2.0</color> Fire Toughness DMG to adjacent units when suffering a killing blow."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Fire"
     },
     "101203001": {
         "Key": "Skill01",
@@ -2080,6 +2155,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target, and grants a Barrier to another friendly unit. The Barrier nullifies all DMG received except for DoT until after the friendly unit is attacked."
         },
         "SP": 15.0,
+        "Elem": "Phys",
         "DMG": [
             3.0
         ]
@@ -2107,6 +2183,7 @@ var _monsterskill = {
             "EN": "Deals <color style='color:#f29e38;'>50% Max HP</color> Physical DMG to <color style='color:#f29e38;'>Imprisoned</color> targets."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "Status": [
             210040204
         ]
@@ -2134,6 +2211,7 @@ var _monsterskill = {
             "EN": "<color style='color:#f29e38;'>Imprisons</color> a single target, and deals <color style='color:#f29e38;'>50% Max HP</color> Physical DMG once. When this unit has their Weakness Broken, dispels the Imprison status from the target."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "Status": [
             210040204
         ]
@@ -2164,6 +2242,7 @@ var _monsterskill = {
             "EN": "The Auxiliary Robot Arm explodes, dealing <1> Physical DMG to a single target."
         },
         "SP": 25.0,
+        "Elem": "Phys",
         "DMG": [
             15.0
         ]
@@ -2210,6 +2289,7 @@ var _monsterskill = {
             "EN": "Deals <color style='color:#f29e38;'>50% Max HP</color> Physical DMG to <color style='color:#f29e38;'>Imprisoned targets</color>."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "Status": [
             210040113
         ]
@@ -2237,6 +2317,7 @@ var _monsterskill = {
             "EN": "<color style='color:#f29e38;'>Imprisons</color> a single target, and deals <color style='color:#f29e38;'>50% Max HP</color> Physical DMG once. When this unit has their Weakness Broken, or their HP falls below <color style='color:#f29e38;'>50%</color>, dispels the Imprison status from the target."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "Status": [
             210040113
         ]
@@ -2267,6 +2348,7 @@ var _monsterskill = {
             "EN": "The Auxiliary Robot Arm explodes, dealing <1> Physical DMG to a single target."
         },
         "SP": 25.0,
+        "Elem": "Phys",
         "DMG": [
             15.0
         ]
@@ -2313,6 +2395,7 @@ var _monsterskill = {
             "EN": "Deals <color style='color:#f29e38;'>50% Max HP</color> Physical DMG to Imprisoned targets."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "Status": [
             210040113
         ]
@@ -2340,6 +2423,7 @@ var _monsterskill = {
             "EN": "<color style='color:#f29e38;'>Imprisons</color> a single target, and deals <color style='color:#f29e38;'>50% Max HP</color> Physical DMG once. When this unit has their Weakness Broken, or their HP falls below <color style='color:#f29e38;'>50%</color>, dispels the Imprison status from the target."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "Status": [
             210040113
         ]
@@ -2370,6 +2454,7 @@ var _monsterskill = {
             "EN": "The Auxiliary Robot Arm explodes, dealing <1> Physical DMG to a single target."
         },
         "SP": 25.0,
+        "Elem": "Phys",
         "DMG": [
             25.0
         ]
@@ -2449,6 +2534,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to all targets."
         },
         "SP": 20.0,
+        "Elem": "Phys",
         "DMG": [
             4.0
         ]
@@ -2456,7 +2542,7 @@ var _monsterskill = {
     "101301005": {
         "Key": "PassiveSkillInitiate",
         "Name": {
-            "CH": "dev_指令•强攻模式",
+            "CH": "dev_指令 · 强攻模式",
             "EN": ""
         },
         "Desc": {
@@ -2476,6 +2562,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "DMG": [
             3.0
         ]
@@ -2540,6 +2627,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to all targets."
         },
         "SP": 20.0,
+        "Elem": "Phys",
         "DMG": [
             4.0
         ]
@@ -2547,7 +2635,7 @@ var _monsterskill = {
     "101301105": {
         "Key": "PassiveSkillInitiate",
         "Name": {
-            "CH": "dev_指令•强攻模式",
+            "CH": "dev_指令 · 强攻模式",
             "EN": ""
         },
         "Desc": {
@@ -2567,6 +2655,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "DMG": [
             3.0
         ]
@@ -2630,6 +2719,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to all targets."
         },
         "SP": 20.0,
+        "Elem": "Phys",
         "DMG": [
             4.0
         ]
@@ -2637,7 +2727,7 @@ var _monsterskill = {
     "101301207": {
         "Key": "PassiveSkillInitiate",
         "Name": {
-            "CH": "dev_指令•强攻模式",
+            "CH": "dev_指令 · 强攻模式",
             "EN": ""
         },
         "Desc": {
@@ -2657,6 +2747,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "DMG": [
             3.0
         ]
@@ -2671,7 +2762,8 @@ var _monsterskill = {
             "CH": "dev_对指定我方单体造成大量物理伤害。",
             "EN": ""
         },
-        "SP": 20.0
+        "SP": 20.0,
+        "Elem": "Phys"
     },
     "101301208": {
         "Key": "PassiveSkill01",
@@ -2750,6 +2842,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to all targets."
         },
         "SP": 20.0,
+        "Elem": "Phys",
         "DMG": [
             4.0
         ]
@@ -2757,7 +2850,7 @@ var _monsterskill = {
     "101301307": {
         "Key": "PassiveSkillInitiate",
         "Name": {
-            "CH": "dev_指令•强攻模式",
+            "CH": "dev_指令 · 强攻模式",
             "EN": ""
         },
         "Desc": {
@@ -2777,6 +2870,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "DMG": [
             3.0
         ]
@@ -2791,7 +2885,8 @@ var _monsterskill = {
             "CH": "dev_对指定我方单体造成大量物理伤害。",
             "EN": ""
         },
-        "SP": 20.0
+        "SP": 20.0,
+        "Elem": "Phys"
     },
     "101301308": {
         "Key": "PassiveSkill01",
@@ -2822,6 +2917,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target, and apply <b>Bleed</b> 10 times, each time has a <color style='color:#f29e38;'>50%</color> Base Chance to succeed. If the hit target is not Shielded, then a random ally of theirs suffers <color style='color:#f29e38;'>\"Dismantle\"</color> for 1 time.<br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers."
         },
         "SP": 20.0,
+        "Elem": "Phys",
         "Prepare": [
             101302004
         ],
@@ -2862,6 +2958,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict 1 stack of <b>Bleed</b>. <br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "Status": [
             210130202
         ],
@@ -2881,6 +2978,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict 1 stack of <b>Bleed</b>. <br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "Status": [
             210130202
         ],
@@ -2900,6 +2998,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target, and apply <b>Bleed</b> 10 times, each time has a <color style='color:#f29e38;'>80%</color> Base Chance to succeed. If the hit target is not Shielded, then a random ally of theirs suffers <color style='color:#f29e38;'>\"Dismantle\"</color> for 1 time.<br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers."
         },
         "SP": 20.0,
+        "Elem": "Phys",
         "Prepare": [
             101302104
         ],
@@ -2940,6 +3039,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict 1 stack of <b>Bleed</b>. <br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "Status": [
             210130202
         ],
@@ -2959,6 +3059,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict 1 stack of <b>Bleed</b>. <br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "Status": [
             210130202
         ],
@@ -2996,6 +3097,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target, and apply <b>Bleed</b> 10 times, each time has a <color style='color:#f29e38;'>80%</color> Base Chance to succeed. If the hit target is not Shielded, then a random ally of theirs suffers <color style='color:#f29e38;'>\"Dismantle\"</color> for 1 time.<br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers."
         },
         "SP": 20.0,
+        "Elem": "Phys",
         "Prepare": [
             101302204
         ],
@@ -3036,6 +3138,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict 1 stack of <b>Bleed</b>. <br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "Status": [
             210130202
         ],
@@ -3055,6 +3158,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict 1 stack of <b>Bleed</b>. <br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "Status": [
             210130202
         ],
@@ -3109,7 +3213,8 @@ var _monsterskill = {
             "CH": "dev_对指定我方单体造成物理伤害，并大概率对其增加多层裂伤。",
             "EN": ""
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Phys"
     },
     "101302208": {
         "Key": "PassiveSkill01",
@@ -3138,6 +3243,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target, and apply <b>Bleed</b> 10 times, each time has a <color style='color:#f29e38;'>50%</color> Base Chance to succeed. If the hit target is not Shielded, then a random ally of theirs suffers <color style='color:#f29e38;'>\"Dismantle\"</color> for 1 time.<br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers."
         },
         "SP": 20.0,
+        "Elem": "Phys",
         "Prepare": [
             101302304
         ],
@@ -3178,6 +3284,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict 1 stack of <b>Bleed</b>. <br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "Status": [
             210130202
         ],
@@ -3197,6 +3304,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict 1 stack of <b>Bleed</b>. <br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "Status": [
             210130202
         ],
@@ -3251,7 +3359,8 @@ var _monsterskill = {
             "CH": "dev_对指定我方单体造成物理伤害，并大概率对其增加多层裂伤。",
             "EN": ""
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Phys"
     },
     "101302308": {
         "Key": "PassiveSkill01",
@@ -3280,6 +3389,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 15.0,
+        "Elem": "Phys",
         "DMG": [
             3.0
         ]
@@ -3295,6 +3405,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target and delays their action by <color style='color:#f29e38;'>30%</color>."
         },
         "SP": 15.0,
+        "Elem": "Phys",
         "DMG": [
             3.0
         ]
@@ -3310,6 +3421,7 @@ var _monsterskill = {
             "EN": "<color style='color:#f29e38;'>Imprisons</color> a single target, preventing them from taking action or being targeted. At the start of every turn, they take <color style='color:#f29e38;'>50% Max HP</color> Physical DMG. The Imprisonment is dispelled if the Auxiliary Robot Arm Unit suffers Weakness Break."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "Status": [
             210040204
         ]
@@ -3325,6 +3437,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to all targets, with a high chance to reduce their DEF by <color style='color:#f29e38;'>30%</color> for <color style='color:#f29e38;'>2</color> turns, stackable."
         },
         "SP": 2.0,
+        "Elem": "Phys",
         "Status": [
             30010006
         ],
@@ -3343,6 +3456,7 @@ var _monsterskill = {
             "EN": "The Auxiliary Robot Arm Unit explodes, dealing <1> Physical DMG to a single target."
         },
         "SP": 25.0,
+        "Elem": "Phys",
         "DMG": [
             15.0
         ]
@@ -3358,6 +3472,7 @@ var _monsterskill = {
             "EN": "Auxiliary Robot Arm Unit enters <color style='color:#f29e38;'>Overload Countdown</color>, causing the next action to cast <color style='color:#f29e38;'>Controlled Blasting</color>."
         },
         "SP": 0,
+        "Elem": "Phys",
         "Prepare": [
             101401005
         ],
@@ -3376,6 +3491,7 @@ var _monsterskill = {
             "EN": "Summons <color style='color:#f29e38;'>Auxiliary Robot Arm Unit</color>."
         },
         "SP": 0,
+        "Elem": "Phys",
         "Summon": [
             1012040
         ]
@@ -3390,7 +3506,8 @@ var _monsterskill = {
             "CH": "dev_待机。不显示。",
             "EN": ""
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Phys"
     },
     "101401009": {
         "Key": "PassiveSkill02",
@@ -3439,6 +3556,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 15.0,
+        "Elem": "Phys",
         "DMG": [
             3.0
         ]
@@ -3454,6 +3572,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target and delays their action by <color style='color:#f29e38;'>50%</color>."
         },
         "SP": 15.0,
+        "Elem": "Phys",
         "DMG": [
             3.0
         ]
@@ -3469,6 +3588,7 @@ var _monsterskill = {
             "EN": "<color style='color:#f29e38;'>Imprisons</color> a single target, preventing them from taking action or being targeted. At the start of every turn, they take <color style='color:#f29e38;'>50% Max HP</color> Physical DMG. The Imprisonment is dispelled if the Auxiliary Robot Arm Unit suffers Weakness Break."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "Status": [
             210040113
         ]
@@ -3484,6 +3604,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to all targets, with a high chance to reduce their DEF by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>3</color> turns, stackable."
         },
         "SP": 2.0,
+        "Elem": "Phys",
         "Status": [
             30010006
         ],
@@ -3502,6 +3623,7 @@ var _monsterskill = {
             "EN": "The Auxiliary Robot Arm Unit explodes, dealing <1> Physical DMG to a single target."
         },
         "SP": 25.0,
+        "Elem": "Phys",
         "DMG": [
             15.0
         ]
@@ -3641,6 +3763,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 15.0,
+        "Elem": "Phys",
         "DMG": [
             3.0
         ]
@@ -3656,6 +3779,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target and delays their action by <color style='color:#f29e38;'>50%</color>."
         },
         "SP": 15.0,
+        "Elem": "Phys",
         "DMG": [
             3.0
         ]
@@ -3671,6 +3795,7 @@ var _monsterskill = {
             "EN": "<color style='color:#f29e38;'>Imprisons</color> a single target, preventing them from taking action or being targeted. At the start of every turn, they take <color style='color:#f29e38;'>50% Max HP</color> Physical DMG. The Imprisonment is dispelled if the Auxiliary Robot Arm Unit suffers Weakness Break."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "Status": [
             210040113
         ]
@@ -3686,6 +3811,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to all targets, with a high chance to reduce their DEF by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>3</color> turns, stackable."
         },
         "SP": 2.0,
+        "Elem": "Phys",
         "Status": [
             30010006
         ],
@@ -3704,6 +3830,7 @@ var _monsterskill = {
             "EN": "The Auxiliary Robot Arm Unit explodes, dealing <1> Physical DMG to a single target."
         },
         "SP": 25.0,
+        "Elem": "Phys",
         "DMG": [
             15.0
         ]
@@ -3843,6 +3970,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target and delays their action by <color style='color:#f29e38;'>50%</color>."
         },
         "SP": 15.0,
+        "Elem": "Ice",
         "DMG": [
             3.0
         ]
@@ -3858,6 +3986,7 @@ var _monsterskill = {
             "EN": "Deals <1> Fire DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Burn</b> the target.<br>Burn DoT: <2> Fire DMG, lasts <color style='color:#f29e38;'>3</color> turns."
         },
         "SP": 15.0,
+        "Elem": "Fire",
         "Status": [
             30020002
         ],
@@ -3877,6 +4006,7 @@ var _monsterskill = {
             "EN": "Deals <1> Fire DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Burn</b> the target.<br>Burn DoT: <2> Fire DMG, lasts <color style='color:#f29e38;'>3</color> turns."
         },
         "SP": 10.0,
+        "Elem": "Fire",
         "Status": [
             30020002
         ],
@@ -3896,6 +4026,7 @@ var _monsterskill = {
             "EN": "Deals <1> Fire DMG to a single target and <2> Fire DMG to adjacent units. This attack prioritizes targets afflicted with Burn."
         },
         "SP": 15.0,
+        "Elem": "Fire",
         "DMG": [
             4.0,
             2.5
@@ -3942,6 +4073,7 @@ var _monsterskill = {
             "EN": "Deals <1> Fire DMG to all targets. Targets suffering from Burn are dealt an extra <2> Fire DMG and have Burn removed."
         },
         "SP": 10.0,
+        "Elem": "Fire",
         "DMG": [
             3.0,
             2.0
@@ -3958,6 +4090,7 @@ var _monsterskill = {
             "EN": "Deals <1> Fire DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Burn</b> the target.<br>Burn DoT: <2> Fire DMG, lasts <color style='color:#f29e38;'>3</color> turns."
         },
         "SP": 10.0,
+        "Elem": "Fire",
         "Status": [
             30020002
         ],
@@ -3977,6 +4110,7 @@ var _monsterskill = {
             "EN": "Deals <1> Fire DMG to a single target and <2> Fire DMG to adjacent units. This attack prioritizes targets afflicted with Burn."
         },
         "SP": 15.0,
+        "Elem": "Fire",
         "DMG": [
             4.0,
             2.5
@@ -4023,6 +4157,7 @@ var _monsterskill = {
             "EN": "Deals <1> Fire DMG to all targets. Targets suffering from Burn are dealt an extra <2> Fire DMG and have Burn removed."
         },
         "SP": 10.0,
+        "Elem": "Fire",
         "DMG": [
             3.0,
             2.0
@@ -4039,6 +4174,7 @@ var _monsterskill = {
             "EN": "Deals <1> Fire DMG to all targets. Burned target will explode, subsequently dealing <2> Fire DMG to the Burned target and <3> Fire DMG to adjacent units. The central unit's Burn status will be removed."
         },
         "SP": 10.0,
+        "Elem": "Fire",
         "DMG": [
             1.0,
             2.0,
@@ -4071,6 +4207,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "DMG": [
             3.0
         ]
@@ -4101,6 +4238,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to all targets, with a <color style='color:#f29e38;'>100%</color> Base Chance to <color style='color:#f29e38;'>Deep Freeze</color> the targets.<br>Deep Freeze: SPD <color style='color:#f29e38;'>-12%</color>, Ice DMG RES <color style='color:#f29e38;'>-20%</color>, max <color style='color:#f29e38;'>3</color> stacks, lasts forever."
         },
         "SP": 5.0,
+        "Elem": "Ice",
         "Status": [
             210230202
         ],
@@ -4151,6 +4289,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>500%</color> Base Chance to <color style='color:#f29e38;'>Deep Freeze</color> the target.<br>Deep Freeze: SPD <color style='color:#f29e38;'>-12%</color>, Ice DMG RES <color style='color:#f29e38;'>-20%</color>, max <color style='color:#f29e38;'>3</color> stacks, lasts forever."
         },
         "SP": 20.0,
+        "Elem": "Ice",
         "Status": [
             210230202
         ],
@@ -4181,6 +4320,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "DMG": [
             3.0
         ]
@@ -4211,6 +4351,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to all targets, with a <color style='color:#f29e38;'>100%</color> Base Chance to <color style='color:#f29e38;'>Deep Freeze</color> the targets.<br>Deep Freeze: SPD <color style='color:#f29e38;'>-12%</color>, Ice DMG RES <color style='color:#f29e38;'>-20%</color>, max <color style='color:#f29e38;'>3</color> stacks, lasts forever."
         },
         "SP": 5.0,
+        "Elem": "Ice",
         "Status": [
             210230202
         ],
@@ -4253,6 +4394,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>500%</color> Base Chance to <color style='color:#f29e38;'>Deep Freeze</color> the target.<br>Deep Freeze: SPD <color style='color:#f29e38;'>-12%</color>, Ice DMG RES <color style='color:#f29e38;'>-20%</color>, max <color style='color:#f29e38;'>3</color> stacks, lasts forever."
         },
         "SP": 20.0,
+        "Elem": "Ice",
         "Status": [
             210230202
         ],
@@ -4302,6 +4444,7 @@ var _monsterskill = {
             "EN": "According to the number of Everwinter Shadewalkers devoured, deal <color style='color:#f29e38;'>100%</color></color><color style='color:#f29e38;'>300%</color></color><color style='color:#f29e38;'>400%</color></color><1> Ice DMG to all targets.<br>Has a <color style='color:#f29e38;'>100%</color> Base Chance to <color style='color:#f29e38;'>Deep Freeze</color> the targets.<br>Deep Freeze: SPD <color style='color:#f29e38;'>-12%</color>, Ice DMG RES <color style='color:#f29e38;'>-20%</color>, max <color style='color:#f29e38;'>3</color> stacks, lasts forever."
         },
         "SP": 5.0,
+        "Elem": "Ice",
         "Status": [
             210230202
         ],
@@ -4320,6 +4463,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to increase the target's DMG taken by <color style='color:#f29e38;'>25%</color> for <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 15.0,
+        "Elem": "Wind",
         "Status": [
             30010041
         ],
@@ -4361,7 +4505,8 @@ var _monsterskill = {
             "CH": "test_对指定我方单体造成物理伤害。",
             "EN": ""
         },
-        "SP": 15.0
+        "SP": 15.0,
+        "Elem": "Phys"
     },
     "200203001": {
         "Key": "Skill01",
@@ -4374,6 +4519,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target and has a <color style='color:#f29e38;'>35%</color> Base Chance to inflict <color style='color:#f29e38;'>Reverberation</color>, lasting <color style='color:#f29e38;'>2</color> turns. <br>After targets afflicted with Reverberation receive an attack, enters <color style='color:#f29e38;'>Strong Reverberation</color>, then dispel Reverberation. <br>Strong Reverberation delays action by <color style='color:#f29e38;'>70%</color>, and renders the character unable to act, lasting <color style='color:#f29e38;'>1</color> turn."
         },
         "SP": 15.0,
+        "Elem": "Phys",
         "Status": [
             220020301,
             220020302
@@ -4393,6 +4539,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Shock</b> the target.<br>Shock DoT: <2> Lightning DMG, lasts <color style='color:#f29e38;'>2</color> turns, max <color style='color:#f29e38;'>1</color> stack."
         },
         "SP": 10.0,
+        "Elem": "Elec",
         "Status": [
             30020004
         ],
@@ -4412,6 +4559,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Lightning DMG, lasts <color style='color:#f29e38;'>2</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 10.0,
+        "Elem": "Wind",
         "Status": [
             30020003
         ],
@@ -4431,6 +4579,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>2</color> stacks of <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 15.0,
+        "Elem": "Wind",
         "Status": [
             30020003
         ],
@@ -4466,6 +4615,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>2</color> stacks of <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 15.0,
+        "Elem": "Wind",
         "Status": [
             30020003
         ],
@@ -4500,6 +4650,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Elec",
         "DMG": [
             2.5
         ]
@@ -4515,6 +4666,7 @@ var _monsterskill = {
             "EN": "Upon receiving a killing blow, deals <1> Lightning DMG to any targets that were inflicted with Spur of Thunderwoe by them. Afterward, Spur of Thunderwoe on these targets will be removed."
         },
         "SP": 15.0,
+        "Elem": "Elec",
         "Status": [
             220220204
         ],
@@ -4525,7 +4677,7 @@ var _monsterskill = {
     "202211001": {
         "Key": "Skill01",
         "Name": {
-            "CH": "锯恶•斫",
+            "CH": "锯恶 · 斫",
             "EN": "Sawing Evil: Chop"
         },
         "Desc": {
@@ -4533,6 +4685,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Wind",
         "DMG": [
             2.0
         ]
@@ -4540,7 +4693,7 @@ var _monsterskill = {
     "202211002": {
         "Key": "Skill02",
         "Name": {
-            "CH": "锯恶•斩",
+            "CH": "锯恶 · 斩",
             "EN": "Sawing Evil: Sever"
         },
         "Desc": {
@@ -4548,6 +4701,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to a single target."
         },
         "SP": 20.0,
+        "Elem": "Wind",
         "DMG": [
             4.4
         ]
@@ -4578,6 +4732,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to a single target."
         },
         "SP": 15.0,
+        "Elem": "Elec",
         "DMG": [
             3.5
         ]
@@ -4593,6 +4748,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to a single target and units adjacent to the target."
         },
         "SP": 10.0,
+        "Elem": "Elec",
         "DMG": [
             3.0
         ]
@@ -4608,6 +4764,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to a single target."
         },
         "SP": 20.0,
+        "Elem": "Elec",
         "DMG": [
             5.0
         ]
@@ -4654,6 +4811,7 @@ var _monsterskill = {
             "EN": "Deals <1> Fire DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Weaken</b> them.<br>Weaken: DMG dealt decreases by <color style='color:#f29e38;'>30%</color>, lasts <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 10.0,
+        "Elem": "Fire",
         "Status": [
             30010017
         ],
@@ -4672,6 +4830,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to reduce the target's SPD by <color style='color:#f29e38;'>25%</color>, lasting <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 10.0,
+        "Elem": "Imaginary",
         "Status": [
             30010067
         ],
@@ -4690,6 +4849,7 @@ var _monsterskill = {
             "EN": "Deals <1> Fire DMG to all targets.<br>If there are 3~4 alive characters, randomly choose a maximum of 2 characters whose DEF is not reduced by itself, and tries with a <color style='color:#f29e38;'>80%</color> Base Chance to reduce their DEF by <color style='color:#f29e38;'>30%</color>, lasting <color style='color:#f29e38;'>2</color> turns.<br>If there are 1~2 alive characters, randomly choose 1 character, and tries with a <color style='color:#f29e38;'>80%</color> Base Chance to reduce their DEF by <color style='color:#f29e38;'>30%</color>, lasting <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 5.0,
+        "Elem": "Fire",
         "Status": [
             30010006
         ],
@@ -4708,6 +4868,7 @@ var _monsterskill = {
             "EN": "When receiving a killing blow: Deal <color style='color:#f29e38;'>40% Self Max HP</color> Fire DMG and <color style='color:#f29e38;'>1.0</color> Fire Toughness DMG to all friendly units, with a <color style='color:#f29e38;'>100%</color> Base Chance to reduce their DEF by <color style='color:#f29e38;'>30%</color> for <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 5.0,
+        "Elem": "Fire",
         "Status": [
             30010006
         ]
@@ -4723,6 +4884,7 @@ var _monsterskill = {
             "EN": "Increases Sanction Rate level by <color style='color:#f29e38;'>33%</color> and deals <1> Imaginary DMG to all targets.<br>Has a <color style='color:#f29e38;'>60%</color> Base Chance to <b>Weaken</b> them.<br>Weaken: DMG dealt decreases by <color style='color:#f29e38;'>20%</color>, lasts <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 5.0,
+        "Elem": "Imaginary",
         "Status": [
             30010017
         ],
@@ -4741,6 +4903,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Imaginary",
         "DMG": [
             3.0
         ]
@@ -4756,6 +4919,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance of inflicting <b>Imprisonment</b> for <color style='color:#f29e38;'>1</color> turn.<br>Imprisonment: Cannot take action, action delayed by <color style='color:#f29e38;'>50%</color>."
         },
         "SP": 15.0,
+        "Elem": "Imaginary",
         "DMG": [
             5.0
         ]
@@ -4793,6 +4957,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "DMG": [
             3.0
         ]
@@ -4808,6 +4973,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target and has a <color style='color:#f29e38;'>70%</color> Base Chance to inflict <color style='color:#f29e38;'>Reverberation</color>, lasting <color style='color:#f29e38;'>2</color> turns. <br>After targets afflicted with Reverberation receive an attack, enters <color style='color:#f29e38;'>Strong Reverberation</color>, then dispel Reverberation. <br>Strong Reverberation delays action by <color style='color:#f29e38;'>70%</color>, and renders the character unable to act, lasting <color style='color:#f29e38;'>1</color> turn."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "Status": [
             220020301,
             220020302
@@ -4827,6 +4993,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to all targets.<br>If there are at least 3 characters not Reverberated, then pick 2 such characters and inflict <color style='color:#f29e38;'>Reverberation</color> with a <color style='color:#f29e38;'>35%</color> Base Chance, lasting <color style='color:#f29e38;'>2</color> turns.<br>If there are at most 2 characters not Reverberated, then pick 1 such character and inflict <color style='color:#f29e38;'>Reverberation</color> with a <color style='color:#f29e38;'>35%</color> Base Chance, lasting <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "Status": [
             220020301,
             220020302
@@ -4846,6 +5013,7 @@ var _monsterskill = {
             "EN": "When there are targets afflicted with <color style='color:#f29e38;'>Strong Reverberation</color> on the field, lock on to those targets and during the next action, use <color style='color:#f29e38;'>Heaven's Fall on them</color>"
         },
         "SP": 0,
+        "Elem": "Phys",
         "Status": [
             220020302
         ],
@@ -4864,6 +5032,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Shock</b> the target.<br>Shock DoT: <2> Lightning DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>1</color> stack."
         },
         "SP": 10.0,
+        "Elem": "Elec",
         "Status": [
             30020004
         ],
@@ -4883,6 +5052,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to a single target and <2> Lightning DMG to adjacent units. <br>If the target is Shocked, inflicts <b>Shock</b> on the adjacent units."
         },
         "SP": 10.0,
+        "Elem": "Elec",
         "Status": [
             30020004
         ],
@@ -4902,6 +5072,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to all targets."
         },
         "SP": 15.0,
+        "Elem": "Elec",
         "DMG": [
             2.5
         ]
@@ -4947,6 +5118,7 @@ var _monsterskill = {
             "EN": "When friendly units (apart from Kafka) or Dominated targets deal DMG to Shocked targets, deal an extra <1> Lightning DMG. This can only be triggered 1 time per turn."
         },
         "SP": 10.0,
+        "Elem": "Elec",
         "DMG": [
             1.0
         ]
@@ -4962,6 +5134,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Shock</b> the target.<br>Shock DoT: <2> Lightning DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>1</color> stack."
         },
         "SP": 10.0,
+        "Elem": "Elec",
         "Status": [
             30020004
         ],
@@ -4981,6 +5154,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to a single target and <2> Lightning DMG to adjacent units. <br>If the target is Shocked, inflicts <b>Shock</b> on the adjacent units."
         },
         "SP": 10.0,
+        "Elem": "Elec",
         "Status": [
             30020004
         ],
@@ -5000,6 +5174,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to all targets."
         },
         "SP": 15.0,
+        "Elem": "Elec",
         "DMG": [
             2.5
         ]
@@ -5030,6 +5205,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Shock</b> the target. At the same time, deals <2> Lightning DMG to all other Shocked targets.<br>Shock DoT: <3> Lightning DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>1</color> stack."
         },
         "SP": 10.0,
+        "Elem": "Elec",
         "Status": [
             30020004
         ],
@@ -5081,6 +5257,7 @@ var _monsterskill = {
             "EN": "When friendly units (apart from Kafka) or Dominated targets deal DMG to Shocked targets, deal an extra <1> Lightning DMG. This can only be triggered 1 time per turn."
         },
         "SP": 10.0,
+        "Elem": "Elec",
         "DMG": [
             1.0
         ]
@@ -5111,6 +5288,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Shock</b> the target.<br>Shock DoT: <2> Lightning DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>1</color> stack."
         },
         "SP": 10.0,
+        "Elem": "Elec",
         "Status": [
             30020004
         ],
@@ -5130,6 +5308,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to a single target and <2> Lightning DMG to adjacent units. <br>If the target is Shocked, inflicts <b>Shock</b> on the adjacent units."
         },
         "SP": 10.0,
+        "Elem": "Elec",
         "Status": [
             30020004
         ],
@@ -5149,6 +5328,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to all targets."
         },
         "SP": 15.0,
+        "Elem": "Elec",
         "DMG": [
             2.5
         ]
@@ -5179,6 +5359,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Shock</b> the target. At the same time, deals <2> Lightning DMG to all other Shocked targets.<br>Shock DoT: <3> Lightning DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>1</color> stack."
         },
         "SP": 10.0,
+        "Elem": "Elec",
         "Status": [
             30020004
         ],
@@ -5230,6 +5411,7 @@ var _monsterskill = {
             "EN": "When friendly units (apart from Kafka) or Dominated targets deal DMG to Shocked targets, deal an extra <1> Lightning DMG. This can only be triggered 1 time per turn."
         },
         "SP": 10.0,
+        "Elem": "Elec",
         "DMG": [
             1.0
         ]
@@ -5260,6 +5442,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "DMG": [
             3.5
         ]
@@ -5295,6 +5478,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Freeze</b> the target for <color style='color:#f29e38;'>1</color> turn.<br>Freeze DoT: <2> Ice DMG."
         },
         "SP": 15.0,
+        "Elem": "Ice",
         "DMG": [
             4.0,
             1.2
@@ -5311,6 +5495,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target and <2> Ice DMG to adjacent units."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "DMG": [
             4.0,
             2.5
@@ -5342,6 +5527,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 15.0,
+        "Elem": "Ice",
         "DMG": [
             6.25
         ]
@@ -5357,6 +5543,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "DMG": [
             2.4
         ]
@@ -5372,6 +5559,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "DMG": [
             2.4
         ]
@@ -5379,7 +5567,7 @@ var _monsterskill = {
     "202401001": {
         "Key": "Skill01",
         "Name": {
-            "CH": "衔枝 • 肃风",
+            "CH": "衔枝 · 肃风",
             "EN": "Pedicel: Wintry Wind"
         },
         "Desc": {
@@ -5394,7 +5582,7 @@ var _monsterskill = {
     "202401002": {
         "Key": "Skill02",
         "Name": {
-            "CH": "衔枝 • 缃叶",
+            "CH": "衔枝 · 缃叶",
             "EN": "Pedicel: Marple Leaf"
         },
         "Desc": {
@@ -5409,7 +5597,7 @@ var _monsterskill = {
     "202401003": {
         "Key": "Skill03",
         "Name": {
-            "CH": "衔枝 • 繁花",
+            "CH": "衔枝 · 繁花",
             "EN": "Pedicel: Glorious Blooms"
         },
         "Desc": {
@@ -5424,7 +5612,7 @@ var _monsterskill = {
     "202401004": {
         "Key": "Skill04",
         "Name": {
-            "CH": "衔枝 • 嘉实",
+            "CH": "衔枝 · 嘉实",
             "EN": "Pedicel: Lavish Fruits"
         },
         "Desc": {
@@ -5447,6 +5635,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to a single target."
         },
         "SP": 20.0,
+        "Elem": "Elec",
         "DMG": [
             3.5
         ]
@@ -5462,6 +5651,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to all targets."
         },
         "SP": 15.0,
+        "Elem": "Wind",
         "DMG": [
             2.8
         ]
@@ -5492,6 +5682,7 @@ var _monsterskill = {
             "EN": "Uses this ability immediately when there are 2 Lavish Fruits on the field: Deals <1> Lightning DMG to all targets.<br>For every \"Ambrosial Arbor Branches\" on the field, an extra <2> Lightning DMG is dealt.<br>After the ability is used, remove all \"Ambrosial Arbor Branches\" on the field."
         },
         "SP": 20.0,
+        "Elem": "Elec",
         "Status": [
             220221001
         ],
@@ -5515,7 +5706,7 @@ var _monsterskill = {
     "202401101": {
         "Key": "Skill01",
         "Name": {
-            "CH": "衔枝 • 肃风",
+            "CH": "衔枝 · 肃风",
             "EN": "Pedicel: Wintry Wind"
         },
         "Desc": {
@@ -5530,7 +5721,7 @@ var _monsterskill = {
     "202401102": {
         "Key": "Skill02",
         "Name": {
-            "CH": "衔枝 • 缃叶",
+            "CH": "衔枝 · 缃叶",
             "EN": "Pedicel: Marple Leaf"
         },
         "Desc": {
@@ -5545,7 +5736,7 @@ var _monsterskill = {
     "202401103": {
         "Key": "Skill03",
         "Name": {
-            "CH": "衔枝 • 繁花",
+            "CH": "衔枝 · 繁花",
             "EN": "Pedicel: Glorious Blooms"
         },
         "Desc": {
@@ -5560,7 +5751,7 @@ var _monsterskill = {
     "202401104": {
         "Key": "Skill04",
         "Name": {
-            "CH": "衔枝 • 嘉实",
+            "CH": "衔枝 · 嘉实",
             "EN": "Pedicel: Lavish Fruits"
         },
         "Desc": {
@@ -5583,6 +5774,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to a single target."
         },
         "SP": 20.0,
+        "Elem": "Elec",
         "DMG": [
             3.5
         ]
@@ -5598,6 +5790,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to all targets."
         },
         "SP": 15.0,
+        "Elem": "Wind",
         "DMG": [
             2.8
         ]
@@ -5628,6 +5821,7 @@ var _monsterskill = {
             "EN": "Uses this ability immediately when there are 2 Lavish Fruits on the field: Deals <1> Lightning DMG to all targets.<br>For every \"Ambrosial Arbor Branches\" on the field, an extra <2> Lightning DMG is dealt.<br>After the ability is used, remove all <color style='color:#f29e38;'>Twigs of Lavish Fruits</color> on the field."
         },
         "SP": 20.0,
+        "Elem": "Elec",
         "Status": [
             220221001
         ],
@@ -5654,7 +5848,7 @@ var _monsterskill = {
     "202401110": {
         "Key": "Skill10",
         "Name": {
-            "CH": "衔枝 • 引蔓",
+            "CH": "衔枝 · 引蔓",
             "EN": "Pedicel: Ivy Allure"
         },
         "Desc": {
@@ -5669,7 +5863,7 @@ var _monsterskill = {
     "202401111": {
         "Key": "Skill11",
         "Name": {
-            "CH": "衔枝 • 垂枝",
+            "CH": "衔枝 · 垂枝",
             "EN": "Pedicel: Willow Sprig"
         },
         "Desc": {
@@ -5684,7 +5878,7 @@ var _monsterskill = {
     "202401112": {
         "Key": "Skill12",
         "Name": {
-            "CH": "衔枝 • 榛莽",
+            "CH": "衔枝 · 榛莽",
             "EN": "Pedicel: Hazel Lush"
         },
         "Desc": {
@@ -5701,7 +5895,7 @@ var _monsterskill = {
     "202401113": {
         "Key": "Skill13",
         "Name": {
-            "CH": "衔枝 • 交藤",
+            "CH": "衔枝 · 交藤",
             "EN": "Pedicel: Entwined Vines"
         },
         "Desc": {
@@ -5741,6 +5935,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to a single target, and has a <color style='color:#f29e38;'>100% Base Chance to inflict <color style='color:#f29e38;'>Outrage</color> to the target. <br>Outrage: Cannot take action for <color style='color:#f29e38;'>2</color> turns and will use Basic ATK against a random enemy unit."
         },
         "SP": 15.0,
+        "Elem": "Wind",
         "Status": [
             30020029
         ],
@@ -5792,6 +5987,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Elec",
         "DMG": [
             2.5
         ]
@@ -5849,6 +6045,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to a single target, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>Outrage</color>, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict Wind Shear. <br>Outrage: Cannot take action for <color style='color:#f29e38;'>2</color> turns and will use Basic ATK against a random enemy unit.<br>Wind Shear DoT: <2> Wind DMG, lasts <color style='color:#f29e38;'>2</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 15.0,
+        "Elem": "Wind",
         "Status": [
             30020029,
             30020003
@@ -5902,6 +6099,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Shock</b> the target.<br>Shock DoT: <2> Lightning DMG, lasts <color style='color:#f29e38;'>2</color> turns, max <color style='color:#f29e38;'>1</color> stack."
         },
         "SP": 10.0,
+        "Elem": "Elec",
         "Status": [
             30020004
         ],
@@ -5962,7 +6160,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成少量伤害，并有概率使受到攻击的我方目标陷入虚弱状态。",
             "EN": "Deals minor DMG to a single target, with a chance to Weaken them."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Fire"
     },
     "700101002": {
         "Key": "Skill02",
@@ -5998,7 +6197,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成伤害，并大概率使受到攻击的我方目标陷入触电状态。",
             "EN": "Deals DMG to a single target, with a high chance to Shock the target."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Elec"
     },
     "700201002": {
         "Key": "Skill02",
@@ -6010,7 +6210,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成伤害，若目标处于持续伤害状态，其当前承受的所有持续伤害立即产生1次伤害。之后，大概率使受到攻击的我方目标陷入触电状态。",
             "EN": "Deals DMG to a single target. If the target is in a DoT state, then all DoT effects currently applied to the target will cause DMG for 1 time. Afterward, there is a high chance to Shock the target."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Elec"
     },
     "700201101": {
         "Key": "Skill01",
@@ -6022,7 +6223,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成伤害，并大概率使受到攻击的我方目标陷入触电状态。",
             "EN": "Deals DMG to a single target, with a high chance to Shock the target."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Elec"
     },
     "700202001": {
         "Key": "Skill01",
@@ -6034,7 +6236,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成少量伤害。",
             "EN": "Deals minor DMG to a single target."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Phys"
     },
     "700202002": {
         "Key": "Skill02",
@@ -6058,7 +6261,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成伤害，并大概率使受到攻击的我方目标陷入灼烧状态。",
             "EN": "Deals DMG to a single target, with a high chance to Burn the target."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Fire"
     },
     "700203002": {
         "Key": "Skill02",
@@ -6070,7 +6274,8 @@ var _monsterskill = {
             "CH": "消耗所有充能。对指定我方单体造成大量伤害，并大概率使受到攻击的我方目标陷入灼烧状态。",
             "EN": "Consumes all Charges. Deals massive DMG to target, and has a high chance of inflicting burn on target."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Fire"
     },
     "700204001": {
         "Key": "Skill01",
@@ -6082,7 +6287,8 @@ var _monsterskill = {
             "CH": "dev_造成单体伤害",
             "EN": ""
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Elec"
     },
     "700204002": {
         "Key": "Skill02",
@@ -6118,7 +6324,8 @@ var _monsterskill = {
             "CH": "对我方全体造成少量伤害，并大概率使受到攻击的我方目标陷入随机持续伤害状态。",
             "EN": "Deals minor DMG to all targets and has a high chance to inflict a random DoT."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Fire"
     },
     "700205002": {
         "Key": "Skill02",
@@ -6130,7 +6337,8 @@ var _monsterskill = {
             "CH": "消耗所有充能。迸发出耀眼的烟花，什么都不会发生，但很好看。",
             "EN": "Consumes all Charges. Fires out spectacular fireworks that don't really do anything, but hey, they're nice to look at."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Fire"
     },
     "700205003": {
         "Key": "SkillP01",
@@ -6142,7 +6350,8 @@ var _monsterskill = {
             "CH": "陷入无法战斗状态时，对敌方全体造成伤害，并大概率使受到攻击的敌方目标受到的伤害提高。",
             "EN": "When downed, deals DMG to all friendly units, with a high chance to increase their DMG received."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Fire"
     },
     "700206001": {
         "Key": "Skill01",
@@ -6154,7 +6363,8 @@ var _monsterskill = {
             "CH": "对指定我方单体及其相邻目标造成伤害。",
             "EN": "Deals DMG to a single target and any adjacent targets."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Phys"
     },
     "700206002": {
         "Key": "Skill02",
@@ -6178,7 +6388,8 @@ var _monsterskill = {
             "CH": "进入战斗时，为指定敌方单体提供支援，在被支援的敌方目标攻击我方目标后施放1次追加攻击，对受到攻击的我方目标及其相邻目标造成少量伤害。",
             "EN": "When entering battle, provides support to a friendly unit. After the supported unit attacks a target, this unit performs 1 follow-up attack, dealing minor DMG to the attacked target and adjacent targets."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Phys"
     },
     "700207001": {
         "Key": "Skill01",
@@ -6190,7 +6401,8 @@ var _monsterskill = {
             "CH": "对指定我方单体及其相邻目标造成伤害。首次使用后，使自身行动大幅提前。",
             "EN": "Deals DMG to a single target and adjacent targets. When used for the first time, this will greatly advance this unit's action."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Imaginary"
     },
     "700207002": {
         "Key": "Skill02",
@@ -6202,7 +6414,8 @@ var _monsterskill = {
             "CH": "消耗所有充能。对指定我方单体造成大量伤害。",
             "EN": "Consumes all Charges. Deals massive DMG to a single target."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Imaginary"
     },
     "700208001": {
         "Key": "Skill01",
@@ -6214,7 +6427,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成少量伤害，使用后使自身行动提前一定比例。",
             "EN": "Deals minor DMG to a single target. This unit's action will be advanced by a certain percentage after this skill is used."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Phys"
     },
     "700208002": {
         "Key": "Skill02",
@@ -6226,7 +6440,8 @@ var _monsterskill = {
             "CH": "消耗所有充能。对指定我方单体造成伤害，使其每次受到攻击后会受到额外伤害，并使其成为敌方全体的攻击目标。进入战斗时该技能充能为满。",
             "EN": "Consumes all Charges. Deals DMG to a single target, causing them to take extra DMG each time they are attacked and to become the target of all units' attacks. When battle starts, this ability starts fully Charged."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Phys"
     },
     "700209001": {
         "Key": "Skill01",
@@ -6238,7 +6453,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成少量伤害。",
             "EN": "Deals minor DMG to a single target."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Phys"
     },
     "700209002": {
         "Key": "Skill02",
@@ -6286,7 +6502,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成少量伤害，并大概率使受到攻击的我方目标陷入【焚烧】状态。",
             "EN": "Deals minor DMG to a single target and has a high chance to inflict Enkindle."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Fire"
     },
     "700301003": {
         "Key": "Skill05",
@@ -6298,7 +6515,8 @@ var _monsterskill = {
             "CH": "连续对我方随机单体造成少量伤害，并大概率使受到攻击的我方目标陷入【焚烧】状态。",
             "EN": "Deals successive minor DMG to a random single target, with a high chance to inflict Enkindle."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Fire"
     },
     "700301004": {
         "Key": "Skill07",
@@ -6334,7 +6552,8 @@ var _monsterskill = {
             "CH": "消耗所有充能。对我方全体造成大量伤害。",
             "EN": "Consumes all Charges. Deals massive DMG to all targets."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Fire"
     },
     "700302001": {
         "Key": "SkillP01",
@@ -6358,7 +6577,8 @@ var _monsterskill = {
             "CH": "提高【惩戒度】等级，并对我方全体造成少量伤害，同时大概率使我方目标陷入虚弱状态。",
             "EN": "Increases Sanction Rate level and deals minor DMG to all targets. Has a high chance to inflict Weaken on the targets."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Imaginary"
     },
     "700302003": {
         "Key": "Skill02",
@@ -6370,7 +6590,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成伤害。",
             "EN": "Deals DMG to a single target."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Imaginary"
     },
     "700302004": {
         "Key": "Skill03",
@@ -6382,7 +6603,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成大量伤害，同时有大概率使受到攻击的我方目标陷入禁锢状态。",
             "EN": "Deals massive DMG to a single target, with a high chance of inflicting Imprisonment."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Imaginary"
     },
     "700302005": {
         "Key": "Skill04",
@@ -6391,7 +6613,7 @@ var _monsterskill = {
             "EN": "Sanction Mode"
         },
         "Desc": {
-            "CH": "消耗所有充能。速度提高，行动时会释放强力的攻击技能，持续2回合，同时召唤【入魔机巧 • 灯昼龙鱼】。",
+            "CH": "消耗所有充能。速度提高，行动时会释放强力的攻击技能，持续2回合，同时召唤【入魔机巧 · 灯昼龙鱼】。",
             "EN": "Consumes all Charges. Increases SPD and when taking action, uses a powerful attack ability, lasting for 2 turns. Summons the Illumination Dragonfish at the same time."
         },
         "SP": 0
@@ -6406,7 +6628,8 @@ var _monsterskill = {
             "CH": "造成单体伤害。",
             "EN": "Deals single target DMG."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Ice"
     },
     "700303002": {
         "Key": "Skill02",
@@ -6455,6 +6678,7 @@ var _monsterskill = {
             "EN": "Deals <1> Fire DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Fire",
         "DMG": [
             2.5
         ]
@@ -6470,6 +6694,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "DMG": [
             2.5
         ]
@@ -6485,6 +6710,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Imaginary",
         "DMG": [
             2.5
         ]
@@ -6527,6 +6753,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to a single target."
         },
         "SP": 15.0,
+        "Elem": "Imaginary",
         "DMG": [
             2.5
         ]
@@ -6542,6 +6769,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to a single target."
         },
         "SP": 15.0,
+        "Elem": "Imaginary",
         "DMG": [
             2.5
         ]
@@ -6557,6 +6785,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to a single target and adjacent units, and enters a <color style='color:#f29e38;'>Defensive Position</color>. <br>In the next turn, use <color style='color:#f29e38;'>Carolburst</color> and increase DMG dealt by <color style='color:#f29e38;'>100%</color>."
         },
         "SP": 10.0,
+        "Elem": "Imaginary",
         "Prepare": [
             800201002
         ],
@@ -6806,6 +7035,7 @@ var _monsterskill = {
             "EN": "When a friendly unit is attacked, this unit will attack all targets. <br>For every unit the character hits, the Trotter deals <color style='color:#f29e38;'>55%</color> DMG once to all characters."
         },
         "SP": 0,
+        "Elem": "Fire",
         "Status": [
             280020601
         ]
@@ -7010,6 +7240,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target. <br>Deals extra <2> Ice DMG to the target if the target is currently Frozen and this unit is in the <color style='color:#f29e38;'>Freezing Point</color> state."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "Status": [
             280030101,
             30020012
@@ -7030,6 +7261,7 @@ var _monsterskill = {
             "EN": "Enters the <color style='color:#f29e38;'>Freezing Point</color> state. Unlocks the skill <color style='color:#f29e38;'>Everwinter Rain</color>."
         },
         "SP": 0,
+        "Elem": "Ice",
         "Prepare": [
             800301003
         ],
@@ -7048,6 +7280,7 @@ var _monsterskill = {
             "EN": "Only available while in the <color style='color:#f29e38;'>Freezing Point</color> state. <br>Deals <1> Ice DMG to all targets. Choose a maximum of 2 characters currently not Frozen, and tries with <color style='color:#f29e38;'>60%</color> Base Chance to <b>Freeze</b> them for <color style='color:#f29e38;'>1</color> turn.<br>Freeze DoT: <2> Ice DMG."
         },
         "SP": 15.0,
+        "Elem": "Ice",
         "Status": [
             280030101,
             30020012
@@ -7067,7 +7300,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成冰属性伤害。若自身处于【冰点】状态，则有概率使受到攻击的我方目标陷入冻结状态。",
             "EN": "Deals Ice DMG to a single target. There is a chance to Freeze the target if the user is in the Freezing Point state."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Ice"
     },
     "800301101": {
         "Key": "Skill01",
@@ -7080,6 +7314,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target. <br>Deals extra <2> Ice DMG to the target if the target is currently Frozen and this unit is in the <color style='color:#f29e38;'>Freezing Point</color> state."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "Status": [
             280030101,
             30020012
@@ -7100,6 +7335,7 @@ var _monsterskill = {
             "EN": "Enters the <color style='color:#f29e38;'>Freezing Point</color> state. Unlocks the skill <color style='color:#f29e38;'>Everwinter Rain</color>."
         },
         "SP": 0,
+        "Elem": "Ice",
         "Prepare": [
             800301103
         ],
@@ -7118,6 +7354,7 @@ var _monsterskill = {
             "EN": "Only available while in the <color style='color:#f29e38;'>Freezing Point</color> state. <br>Deals <1> Ice DMG to all targets. Choose a maximum of 2 characters currently not Frozen, and tries with <color style='color:#f29e38;'>80%</color> Base Chance to <b>Freeze</b> them and delay their action by <color style='color:#f29e38;'>100%</color>.<br>Freeze DoT: <2> Ice DMG, lasts <color style='color:#f29e38;'>1</color> turn."
         },
         "SP": 15.0,
+        "Elem": "Ice",
         "Status": [
             280030101,
             30020012
@@ -7137,7 +7374,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成冰属性伤害。若自身处于【冰点】状态，则有概率使受到攻击的我方目标陷入冻结状态。",
             "EN": "Deals Ice DMG to a single target. There is a chance to Freeze the target if the user is in the Freezing Point state."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Ice"
     },
     "800301105": {
         "Key": "Skill05",
@@ -7149,7 +7387,8 @@ var _monsterskill = {
             "CH": "dev_对所有冻结状态的我方目标造成冰属性伤害，并延长冻结状态。",
             "EN": ""
         },
-        "SP": 15.0
+        "SP": 15.0,
+        "Elem": "Ice"
     },
     "800301106": {
         "Key": "Skill06",
@@ -7162,6 +7401,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to Frozen targets. This also removes their Frozen state and deals <2> Ice DMG to their adjacent units."
         },
         "SP": 15.0,
+        "Elem": "Ice",
         "DMG": [
             4.0,
             2.0
@@ -7178,6 +7418,7 @@ var _monsterskill = {
             "EN": "Deals <1> Fire DMG to a single target, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>Enkindle</color>.<br>Enkindle: Lasts <color style='color:#f29e38;'>2</color> turns; at the start of every turn, suffer <2> Fire DMG. This effect is stackable."
         },
         "SP": 10.0,
+        "Elem": "Fire",
         "Status": [
             280030203
         ],
@@ -7215,6 +7456,7 @@ var _monsterskill = {
             "EN": "Repeat <color style='color:#f29e38;'>5</color> times: Deal <1> Fire DMG to a random single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>Enkindle</color>.<br>Enkindle: Lasts <color style='color:#f29e38;'>2</color> turns; at the start of every turn, suffer <2> Fire DMG. This effect is stackable."
         },
         "SP": 10.0,
+        "Elem": "Fire",
         "Status": [
             280030203
         ],
@@ -7246,6 +7488,7 @@ var _monsterskill = {
             "EN": "Deals <1> Fire DMG to a single target, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>Enkindle</color>.<br>Enkindle: Lasts <color style='color:#f29e38;'>2</color> turns; at the start of every turn, suffer <2> Fire DMG. This effect is stackable."
         },
         "SP": 10.0,
+        "Elem": "Fire",
         "Status": [
             280030203
         ],
@@ -7283,6 +7526,7 @@ var _monsterskill = {
             "EN": "Repeat <color style='color:#f29e38;'>5</color> times: Deal <1> Fire DMG to a random single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>Enkindle</color>.<br>Enkindle: Lasts <color style='color:#f29e38;'>2</color> turns; at the start of every turn, suffer <2> Fire DMG. This effect is stackable."
         },
         "SP": 10.0,
+        "Elem": "Fire",
         "Status": [
             280030203
         ],
@@ -7332,6 +7576,7 @@ var _monsterskill = {
             "EN": "Deals <1> Fire DMG to all targets, and has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>Enkindle</color> to all targets. "
         },
         "SP": 15.0,
+        "Elem": "Fire",
         "Status": [
             280030203
         ],
@@ -7350,6 +7595,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Elec",
         "DMG": [
             3.0
         ]
@@ -7365,6 +7611,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to a single target and <2> Lightning DMG to adjacent units."
         },
         "SP": 15.0,
+        "Elem": "Elec",
         "DMG": [
             2.0,
             1.5
@@ -7435,6 +7682,7 @@ var _monsterskill = {
             "EN": "Repeat <color style='color:#f29e38;'>8</color> times: Deal <1> Lightning DMG to a random target, with a <color style='color:#f29e38;'>50%</color> Base chance to inflict <b>Shock</b>.<br>Shock DoT: <2> Lightning DMG, lasts <color style='color:#f29e38;'>2</color> turns, max <color style='color:#f29e38;'>1</color> stack."
         },
         "SP": 5.0,
+        "Elem": "Elec",
         "Status": [
             30020004
         ],
@@ -7454,6 +7702,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to whoever violates the ban."
         },
         "SP": 10.0,
+        "Elem": "Elec",
         "DMG": [
             3.5
         ]
@@ -7484,6 +7733,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Elec",
         "DMG": [
             3.0
         ]
@@ -7499,6 +7749,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to a single target and <2> Lightning DMG to adjacent units."
         },
         "SP": 15.0,
+        "Elem": "Elec",
         "DMG": [
             2.0,
             1.5
@@ -7569,6 +7820,7 @@ var _monsterskill = {
             "EN": "Repeat <color style='color:#f29e38;'>8</color> times: Deal <1> Lightning DMG to a random target, with a <color style='color:#f29e38;'>50%</color> Base chance to inflict <b>Shock</b>.<br>Shock DoT: <2> Lightning DMG, lasts <color style='color:#f29e38;'>2</color> turns, max <color style='color:#f29e38;'>1</color> stack."
         },
         "SP": 5.0,
+        "Elem": "Elec",
         "Status": [
             30020004
         ],
@@ -7588,6 +7840,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to all targets."
         },
         "SP": 10.0,
+        "Elem": "Elec",
         "DMG": [
             4.0
         ]
@@ -7627,6 +7880,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Imaginary",
         "DMG": [
             3.0
         ]
@@ -7642,6 +7896,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to a single target."
         },
         "SP": 15.0,
+        "Elem": "Imaginary",
         "DMG": [
             5.0
         ]
@@ -7657,6 +7912,7 @@ var _monsterskill = {
             "EN": "For every stack of <color style='color:#f29e38;'>\"Gauge Recollection\"</color>, deal <1> Imaginary DMG to a random target, max <color style='color:#f29e38;'>9</color> stacks.<br>If there is no \"Gauge Recollection\", this ability will fail."
         },
         "SP": 5.0,
+        "Elem": "Imaginary",
         "Status": [
             280030405
         ],
@@ -7732,6 +7988,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Imaginary",
         "DMG": [
             3.0
         ]
@@ -7747,6 +8004,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to a single target."
         },
         "SP": 15.0,
+        "Elem": "Imaginary",
         "DMG": [
             5.0
         ]
@@ -7762,6 +8020,7 @@ var _monsterskill = {
             "EN": "For every stack of <color style='color:#f29e38;'>\"Gauge Recollection\"</color>, deal <1> Imaginary DMG to a random target, max <color style='color:#f29e38;'>9</color> stacks.<br>If there is no \"Gauge Recollection\", this ability will fail."
         },
         "SP": 5.0,
+        "Elem": "Imaginary",
         "Status": [
             280030405
         ],
@@ -7824,7 +8083,8 @@ var _monsterskill = {
             "CH": "连续对我方随机单体造成虚数属性伤害，若没有【追忆刻度】则本技能施放失败。",
             "EN": "Deals successive Imaginary DMG to a random target. If there are no Gauge Recollection stacks, this ability will fail."
         },
-        "SP": 5.0
+        "SP": 5.0,
+        "Elem": "Imaginary"
     },
     "800304109": {
         "Key": "Skill08",
@@ -7836,7 +8096,8 @@ var _monsterskill = {
             "CH": "dev_使用「追忆刻度」对指定我方单体造成虚数属性伤害。",
             "EN": ""
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Imaginary"
     },
     "801101001": {
         "Key": "Skill01",
@@ -7849,6 +8110,7 @@ var _monsterskill = {
             "EN": "Deals <1> Quantum DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Quantum",
         "DMG": [
             2.5
         ]
@@ -7864,6 +8126,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Imaginary",
         "DMG": [
             2.5
         ]
@@ -7879,6 +8142,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Imaginary",
         "DMG": [
             2.5
         ]
@@ -7894,6 +8158,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to a single target and units adjacent to the target."
         },
         "SP": 5.0,
+        "Elem": "Imaginary",
         "DMG": [
             1.5
         ]
@@ -7924,6 +8189,7 @@ var _monsterskill = {
             "EN": "<b>Locks Onto</b> a random unit on your team, making them the target for incoming attacks from all of their enemies, and making all incoming DMG increase by <color style='color:#f29e38;'>10%</color>."
         },
         "SP": 0,
+        "Elem": "Quantum",
         "Status": [
             280120201
         ]
@@ -7939,6 +8205,7 @@ var _monsterskill = {
             "EN": "Deals <1> Quantum DMG to a single target."
         },
         "SP": 15.0,
+        "Elem": "Quantum",
         "DMG": [
             5.0
         ]
@@ -7954,6 +8221,7 @@ var _monsterskill = {
             "EN": "<b>Locks Onto</b> a random unit on your team, making them the target for incoming attacks from all of their enemies, and making all incoming DMG increase by <color style='color:#f29e38;'>10%</color>."
         },
         "SP": 0,
+        "Elem": "Quantum",
         "Status": [
             280120201
         ]
@@ -7969,6 +8237,7 @@ var _monsterskill = {
             "EN": "Deals <1> Quantum DMG to a single target."
         },
         "SP": 15.0,
+        "Elem": "Quantum",
         "DMG": [
             5.0
         ]
@@ -7984,6 +8253,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to a single target, and gets itself <color style='color:#f29e38;'>Overloaded</color>.<br> Afflicts the target with <color style='color:#f29e38;'>Detonated</color>: When being hit, suffers from a Pursued Attack dealing <2> Imaginary DMG. This effect lasts <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 15.0,
+        "Elem": "Imaginary",
         "Status": [
             280120301,
             280120302
@@ -8019,6 +8289,7 @@ var _monsterskill = {
             "EN": "Deals <1> Quantum DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Quantum",
         "DMG": [
             3.0
         ]
@@ -8034,6 +8305,7 @@ var _monsterskill = {
             "EN": "Deals <1> Quantum DMG to a single target."
         },
         "SP": 15.0,
+        "Elem": "Quantum",
         "DMG": [
             4.0
         ]
@@ -8049,6 +8321,7 @@ var _monsterskill = {
             "EN": "Deals <1> Quantum DMG to a single target and units adjacent to the target."
         },
         "SP": 10.0,
+        "Elem": "Quantum",
         "DMG": [
             2.5
         ]
@@ -8064,6 +8337,7 @@ var _monsterskill = {
             "EN": "<b>Locks On</b> to a single target. Cast <color style='color:#f29e38;'>End of Bow</color> to this target in the next action."
         },
         "SP": 0,
+        "Elem": "Quantum",
         "Prepare": [
             801301005
         ],
@@ -8082,6 +8356,7 @@ var _monsterskill = {
             "EN": "Deals <1> Quantum DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Entanglement</b> for <color style='color:#f29e38;'>1</color> turn.<br>Entanglement Base DMG: <2> Quantum DMG, action delayed by <color style='color:#f29e38;'>50%</color>."
         },
         "SP": 25.0,
+        "Elem": "Quantum",
         "Status": [
             30020027
         ],
@@ -8101,6 +8376,7 @@ var _monsterskill = {
             "EN": "Deals <1> Quantum DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Quantum",
         "DMG": [
             3.0
         ]
@@ -8116,6 +8392,7 @@ var _monsterskill = {
             "EN": "Deals <1> Quantum DMG to a single target."
         },
         "SP": 15.0,
+        "Elem": "Quantum",
         "DMG": [
             4.0
         ]
@@ -8131,6 +8408,7 @@ var _monsterskill = {
             "EN": "Deals <1> Quantum DMG to a single target and units adjacent to the target."
         },
         "SP": 10.0,
+        "Elem": "Quantum",
         "DMG": [
             3.0
         ]
@@ -8146,6 +8424,7 @@ var _monsterskill = {
             "EN": "<b>Locks On</b> to a single target. Cast <color style='color:#f29e38;'>End of Bow</color> to this target in the next action."
         },
         "SP": 0,
+        "Elem": "Quantum",
         "Prepare": [
             801301105
         ],
@@ -8164,6 +8443,7 @@ var _monsterskill = {
             "EN": "Deals <1> Quantum DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Entanglement</b> for <color style='color:#f29e38;'>1</color> turn.<br>Entanglement Base DMG: <2> Quantum DMG, action delayed by <color style='color:#f29e38;'>100%</color>."
         },
         "SP": 25.0,
+        "Elem": "Quantum",
         "Status": [
             30020027
         ],
@@ -8183,6 +8463,7 @@ var _monsterskill = {
             "EN": "Deals <1> Quantum DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Quantum",
         "DMG": [
             3.0
         ]
@@ -8198,6 +8479,7 @@ var _monsterskill = {
             "EN": "Deals <1> Quantum DMG to a single target."
         },
         "SP": 15.0,
+        "Elem": "Quantum",
         "DMG": [
             4.0
         ]
@@ -8213,6 +8495,7 @@ var _monsterskill = {
             "EN": "Deals <1> Quantum DMG to a single target and units adjacent to the target."
         },
         "SP": 10.0,
+        "Elem": "Quantum",
         "DMG": [
             2.5
         ]
@@ -8228,6 +8511,7 @@ var _monsterskill = {
             "EN": "<b>Locks On</b> to a single target. Cast <color style='color:#f29e38;'>End of Bow</color> to this target in the next action."
         },
         "SP": 0,
+        "Elem": "Quantum",
         "Prepare": [
             801301205
         ],
@@ -8246,6 +8530,7 @@ var _monsterskill = {
             "EN": "Deals <1> Quantum DMG to a single target."
         },
         "SP": 25.0,
+        "Elem": "Quantum",
         "DMG": [
             9.0
         ]
@@ -8253,7 +8538,7 @@ var _monsterskill = {
     "801502001": {
         "Key": "Skill01",
         "Name": {
-            "CH": "弹指•成风",
+            "CH": "弹指 · 成风",
             "EN": "Acchata: Forming Winds"
         },
         "Desc": {
@@ -8261,6 +8546,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Wind",
         "DMG": [
             3.0
         ]
@@ -8276,6 +8562,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to all targets."
         },
         "SP": 10.0,
+        "Elem": "Wind",
         "DMG": [
             2.8
         ]
@@ -8291,6 +8578,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to a single target and delays their actionby <color style='color:#f29e38;'>30%</color>."
         },
         "SP": 15.0,
+        "Elem": "Wind",
         "DMG": [
             3.0
         ]
@@ -8313,7 +8601,7 @@ var _monsterskill = {
     "801502005": {
         "Key": "Skill05",
         "Name": {
-            "CH": "弹指•鸣雷",
+            "CH": "弹指 · 鸣雷",
             "EN": "Acchata: Roaring Thunder"
         },
         "Desc": {
@@ -8321,6 +8609,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Elec",
         "DMG": [
             3.8
         ]
@@ -8336,6 +8625,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to all targets."
         },
         "SP": 15.0,
+        "Elem": "Elec",
         "DMG": [
             4.5
         ]
@@ -8370,7 +8660,8 @@ var _monsterskill = {
             "CH": "dev_对指定我方单体造成巨额虚数属性伤害。",
             "EN": ""
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Imaginary"
     },
     "801502009": {
         "Key": "Skill09",
@@ -8383,6 +8674,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to a single target and <2> Imaginary DMG to adjacent targets."
         },
         "SP": 25.0,
+        "Elem": "Imaginary",
         "DMG": [
             3.0,
             2.0
@@ -8399,6 +8691,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to all targets."
         },
         "SP": 30.0,
+        "Elem": "Imaginary",
         "DMG": [
             3.6
         ]
@@ -8414,6 +8707,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to a single target and delays their action by <color style='color:#f29e38;'>30%."
         },
         "SP": 30.0,
+        "Elem": "Imaginary",
         "DMG": [
             3.0
         ]
@@ -8463,12 +8757,13 @@ var _monsterskill = {
             "CH": "dev_对指定我方单体造成巨额虚数属性伤害。",
             "EN": ""
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Imaginary"
     },
     "801502101": {
         "Key": "Skill01",
         "Name": {
-            "CH": "弹指•成风",
+            "CH": "弹指 · 成风",
             "EN": "Acchata: Forming Winds"
         },
         "Desc": {
@@ -8476,6 +8771,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Wind",
         "DMG": [
             3.0
         ]
@@ -8491,6 +8787,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to all targets."
         },
         "SP": 10.0,
+        "Elem": "Wind",
         "DMG": [
             2.8
         ]
@@ -8506,6 +8803,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to a single target and delays their actionby <color style='color:#f29e38;'>30%</color>."
         },
         "SP": 15.0,
+        "Elem": "Wind",
         "DMG": [
             3.0
         ]
@@ -8528,7 +8826,7 @@ var _monsterskill = {
     "801502105": {
         "Key": "Skill05",
         "Name": {
-            "CH": "弹指•鸣雷",
+            "CH": "弹指 · 鸣雷",
             "EN": "Acchata: Roaring Thunder"
         },
         "Desc": {
@@ -8536,6 +8834,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Elec",
         "DMG": [
             3.8
         ]
@@ -8551,6 +8850,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to all targets."
         },
         "SP": 15.0,
+        "Elem": "Elec",
         "DMG": [
             4.5
         ]
@@ -8585,7 +8885,8 @@ var _monsterskill = {
             "CH": "dev_对指定我方单体造成巨额虚数属性伤害。",
             "EN": ""
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Imaginary"
     },
     "801502109": {
         "Key": "Skill09",
@@ -8598,6 +8899,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to a single target and <2> Imaginary DMG to adjacent targets."
         },
         "SP": 25.0,
+        "Elem": "Imaginary",
         "DMG": [
             3.0,
             2.0
@@ -8614,6 +8916,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to all targets."
         },
         "SP": 30.0,
+        "Elem": "Imaginary",
         "DMG": [
             3.6
         ]
@@ -8629,6 +8932,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to a single target and delays their action by <color style='color:#f29e38;'>30%."
         },
         "SP": 30.0,
+        "Elem": "Imaginary",
         "DMG": [
             3.0
         ]
@@ -8678,7 +8982,8 @@ var _monsterskill = {
             "CH": "dev_对指定我方单体造成巨额虚数属性伤害。",
             "EN": ""
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Imaginary"
     },
     "801220001": {
         "Key": "Skill01",
@@ -8873,7 +9178,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成<color style='color:#f29e38;'>59%目标生命值上限</color>雷属性伤害，该伤害<color style='color:#f29e38;'>无视目标的防御力</color>。",
             "EN": "Deals <color style='color:#f29e38;'>59% Target Max HP</color> Lightning DMG to a single target. This DMG <color style='color:#f29e38;'>ignores the target's DEF</color>."
         },
-        "SP": 20.0
+        "SP": 20.0,
+        "Elem": "Elec"
     },
     "801221005": {
         "Key": "PassiveSkill01",
@@ -8944,7 +9250,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成<color style='color:#f29e38;'>59%目标生命值上限</color>虚数属性伤害，该伤害<color style='color:#f29e38;'>无视目标的防御力</color>。",
             "EN": "Deals <color style='color:#f29e38;'>59% Target Max HP</color> Imaginary DMG to a single target. This DMG <color style='color:#f29e38;'>ignores the target's DEF</color>."
         },
-        "SP": 40.0
+        "SP": 40.0,
+        "Elem": "Imaginary"
     },
     "801221105": {
         "Key": "PassiveSkill01",
@@ -9015,7 +9322,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成<color style='color:#f29e38;'>59%目标生命值上限</color>雷属性伤害，该伤害<color style='color:#f29e38;'>无视目标的防御力</color>。",
             "EN": "Deals <color style='color:#f29e38;'>59% Target Max HP</color> Lightning DMG to a single target. This DMG <color style='color:#f29e38;'>ignores the target's DEF</color>."
         },
-        "SP": 20.0
+        "SP": 20.0,
+        "Elem": "Elec"
     },
     "801221205": {
         "Key": "PassiveSkill01",
@@ -9086,7 +9394,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成<color style='color:#f29e38;'>59%目标生命值上限</color>虚数属性伤害，该伤害<color style='color:#f29e38;'>无视目标的防御力</color>。",
             "EN": "Deals <color style='color:#f29e38;'>59% Target Max HP</color> Imaginary DMG to a single target. This DMG <color style='color:#f29e38;'>ignores the target's DEF</color>."
         },
-        "SP": 40.0
+        "SP": 40.0,
+        "Elem": "Imaginary"
     },
     "801221305": {
         "Key": "PassiveSkill01",
@@ -9131,6 +9440,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>1</color> stack of <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 10.0,
+        "Elem": "Wind",
         "Status": [
             280240101
         ],
@@ -9168,7 +9478,8 @@ var _monsterskill = {
             "CH": "dev_对指定我方单体造成风属性伤害，并附加1层风化。",
             "EN": ""
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Wind"
     },
     "802201004": {
         "Key": "PassiveSkill01",
@@ -9181,6 +9492,7 @@ var _monsterskill = {
             "EN": "When receiving a killing blow, deals <color style='color:#f29e38;'>50% Self Max HP</color> Wind DMG and <color style='color:#f29e38;'>1.0</color> Wind Toughness DMG to all friendly units, and inflict <b>Vulnerability</b>: DMG taken increased by <color style='color:#f29e38;'>10%</color> for <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>10</color> stacks."
         },
         "SP": 0,
+        "Elem": "Wind",
         "Status": [
             280240103
         ]
@@ -9212,6 +9524,7 @@ var _monsterskill = {
             "EN": "Detonates self and deals <1> Wind DMG to a single target and its adjacent targets, with a <color style='color:#f29e38;'>100%</color> Base Chance to cause <color style='color:#f29e38;'>Outrage</color> to the attacked targets for <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 10.0,
+        "Elem": "Wind",
         "Status": [
             30020029
         ],
@@ -9229,7 +9542,8 @@ var _monsterskill = {
             "CH": "dev_对指定我方单体造成风属性伤害，并附加1层风化。",
             "EN": ""
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Wind"
     },
     "802202004": {
         "Key": "PassiveSkill01",
@@ -9242,6 +9556,7 @@ var _monsterskill = {
             "EN": "When receiving a killing blow, deals <color style='color:#f29e38;'>60% Self Max HP</color> Wind DMG and <color style='color:#f29e38;'>1.0</color> Wind Toughness DMG to all friendly units, and inflict <color style='color:#f29e38;'>2</color> layers of <b>Vulnerability</b>: DMG taken increased by <color style='color:#f29e38;'>10%</color> for <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>10</color> stacks."
         },
         "SP": 0,
+        "Elem": "Wind",
         "Status": [
             280240103
         ]
@@ -9257,6 +9572,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>2</color> stacks of <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 10.0,
+        "Elem": "Wind",
         "Status": [
             280240101
         ],
@@ -9275,7 +9591,8 @@ var _monsterskill = {
             "CH": "dev_对指定我方单体及相邻目标造成造成风属性伤害，并将主目标的风化层数扩散给副目标。",
             "EN": ""
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Wind"
     },
     "802401002": {
         "Key": "Skill02",
@@ -9288,6 +9605,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to a single target. If the target is currently suffering from <color style='color:#f29e38;'>Wind Shear</color>, Wind Shear immediately causes DMG 1 time."
         },
         "SP": 20.0,
+        "Elem": "Wind",
         "Status": [
             280240101
         ],
@@ -9306,6 +9624,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to a all targets, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>1</color> stack of <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 10.0,
+        "Elem": "Wind",
         "Status": [
             280240101
         ],
@@ -9356,6 +9675,7 @@ var _monsterskill = {
             "EN": "Dispels all Crowd Control debuffs and Weakness Break affecting True Stings.<br>Deals <1> Wind DMG to all targets. When there are 0</color>1</color>2</color>3</color>4 other monsters on field, repeat 0</color>4</color>5</color>6</color>7 times: Deal <2> Wind DMG to a random target.<br>Every time a character takes DMG, there is a <color style='color:#f29e38;'>100%</color> Base Chance of being inflicted with <color style='color:#f29e38;'>1</color> stack of <b>Wind Shear</b>.<br>Revive <color style='color:#f29e38;'>5</color> energy for all characters"
         },
         "SP": 10.0,
+        "Elem": "Wind",
         "DMG": [
             2.0,
             1.0
@@ -9371,7 +9691,8 @@ var _monsterskill = {
             "CH": "解除场上所有真蛰虫群的控制类负面状态与弱点击破状态，并对我方目标造成风属性伤害，使我方目标每次受到攻击时大概率陷入1层风化状态。",
             "EN": ""
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Wind"
     },
     "802401008": {
         "Key": "PassiveSkill01",
@@ -9399,6 +9720,7 @@ var _monsterskill = {
             "EN": "When receiving a killing blow, deals <color style='color:#f29e38;'>20% Self Max HP</color> Wind DMG and <color style='color:#f29e38;'>1.0</color> Wind Toughness DMG to all friendly units, and inflict <color style='color:#f29e38;'>2</color> layers of <b>Vulnerability</b>: DMG taken increased by <color style='color:#f29e38;'>10%</color> for <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>10</color> stacks."
         },
         "SP": 0,
+        "Elem": "Wind",
         "Status": [
             280240103
         ]
@@ -9414,6 +9736,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "DMG": [
             2.8
         ]
@@ -9456,6 +9779,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target and <2> Physical DMG to adjacent units."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "DMG": [
             2.0,
             1.6
@@ -9499,6 +9823,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "DMG": [
             3.2
         ]
@@ -9529,6 +9854,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to all targets."
         },
         "SP": 20.0,
+        "Elem": "Phys",
         "DMG": [
             3.6
         ]
@@ -9575,6 +9901,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 15.0,
+        "Elem": "Phys",
         "DMG": [
             3.8
         ]
@@ -9605,6 +9932,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to a single target and has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG per stack. Lasts <color style='color:#f29e38;'>2</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 10.0,
+        "Elem": "Wind",
         "Status": [
             30020003
         ],
@@ -9624,6 +9952,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to the target and adjacent units, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG per stack. Lasts <color style='color:#f29e38;'>2</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 10.0,
+        "Elem": "Wind",
         "Status": [
             30020003
         ],
@@ -9662,6 +9991,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to targets afflicted with Wind Shear. <br>This ability fails if no one on the target team suffers Wind Shear."
         },
         "SP": 15.0,
+        "Elem": "Wind",
         "Status": [
             30020003
         ],
@@ -9707,6 +10037,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to a single target and has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG per stack. Lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 10.0,
+        "Elem": "Wind",
         "Status": [
             30020003
         ],
@@ -9726,6 +10057,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to the target and adjacent units, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG per stack. Lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 10.0,
+        "Elem": "Wind",
         "Status": [
             30020003
         ],
@@ -9764,6 +10096,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to targets afflicted with <color style='color:#f29e38;'>Wind Shear</color>, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b> again. <br>This ability fails if no one on the target team suffers Wind Shear."
         },
         "SP": 15.0,
+        "Elem": "Wind",
         "Status": [
             30020003
         ],
@@ -9820,7 +10153,8 @@ var _monsterskill = {
             "CH": "dev_对指定我方单体造成风属性伤害，触发其风化效果，并有概率使受到攻击的我方目标陷入风化状态。",
             "EN": ""
         },
-        "SP": 15.0
+        "SP": 15.0,
+        "Elem": "Wind"
     },
     "800305109": {
         "Key": "Skill09",
@@ -9833,6 +10167,7 @@ var _monsterskill = {
             "EN": "Summons <color style='color:#f29e38;'>4</color> <color style='color:#f29e38;'>Windspawns</color>."
         },
         "SP": 0,
+        "Elem": "Wind",
         "Summon": [
             8001050
         ]
@@ -9848,6 +10183,7 @@ var _monsterskill = {
             "EN": "Continuously deal <1> Wind DMG to a random target, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG per stack. Lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 5.0,
+        "Elem": "Wind",
         "Status": [
             30020003
         ],
@@ -9867,6 +10203,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to the targeted and adjacent allies, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG per stack. Lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 10.0,
+        "Elem": "Wind",
         "Status": [
             30020003
         ],
@@ -9886,6 +10223,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to a single target, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG per stack. Lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 15.0,
+        "Elem": "Wind",
         "Status": [
             30020003
         ],
@@ -9905,6 +10243,7 @@ var _monsterskill = {
             "EN": "Enters <color style='color:#f29e38;'>Japa</color>. Cast <color style='color:#f29e38;'>\"Black Prana's Snare\"</color> on all targets during the next action."
         },
         "SP": 10.0,
+        "Elem": "Wind",
         "Prepare": [
             202303005
         ],
@@ -9923,6 +10262,7 @@ var _monsterskill = {
             "EN": "Has <color style='color:#f29e38;'>100%</color> Base Chance of afflicting all targets with <color style='color:#f29e38;'>Prana-Siphon</color> for <color style='color:#f29e38;'>2</color> turns.<br>Prana-Siphon: Decreases Maximum Recoverable HP by <color style='color:#f29e38;'>30%</color>."
         },
         "SP": 15.0,
+        "Elem": "Wind",
         "Status": [
             30020030
         ]
@@ -9937,7 +10277,8 @@ var _monsterskill = {
             "CH": "dev_【不会显示】对敌方全体造成冰伤害，该伤害每次提高",
             "EN": ""
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Fire"
     },
     "801501001": {
         "Key": "PassiveSkill02",
@@ -9950,6 +10291,7 @@ var _monsterskill = {
             "EN": "The Doomsday Beast cannot be attacked until the Antimatter Engine, Disaster's Right Hand, and Dawn's Left Hand have all been destroyed.<br>While Weakened, damage taken is increased by <color style='color:#f29e38;'>900%</color>."
         },
         "SP": 0,
+        "Elem": "Quantum",
         "Status": [
             280150102
         ],
@@ -9970,6 +10312,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to all targets."
         },
         "SP": 5.0,
+        "Elem": "Imaginary",
         "DMG": [
             1.35
         ]
@@ -9985,6 +10328,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to all targets, with a <color style='color:#f29e38;'>20% Base Chance to inflict <b>Imprisonment</b> for <color style='color:#f29e38;'>1</color> turn.<br>Imprisonment: Cannot take action, SPD decreased by <color style='color:#f29e38;'>30%</color>, action delayed by <color style='color:#f29e38;'>20%</color>."
         },
         "SP": 5.0,
+        "Elem": "Imaginary",
         "Status": [
             30020013
         ],
@@ -10003,6 +10347,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to all targets, with a <color style='color:#f29e38;'>25% Base Chance to inflict <b>Imprisonment</b> for <color style='color:#f29e38;'>1</color> turn.<br>Imprisonment: Cannot take action, SPD decreased by <color style='color:#f29e38;'>30%</color>, action delayed by <color style='color:#f29e38;'>20%</color>."
         },
         "SP": 10.0,
+        "Elem": "Imaginary",
         "Status": [
             30020013
         ],
@@ -10066,6 +10411,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to a single target."
         },
         "SP": 15.0,
+        "Elem": "Imaginary",
         "DMG": [
             4.8
         ]
@@ -10081,6 +10427,7 @@ var _monsterskill = {
             "EN": "Enters the Charge state. The next action uses <color style='color:#f29e38;'>\"Impending Doom\"</color> on all targets.<br>Icreases ATK by <color style='color:#f29e38;'>60%</color> for <color style='color:#f29e38;'>1</color> turn."
         },
         "SP": 0,
+        "Elem": "Quantum",
         "Prepare": [
             801314106
         ]
@@ -10096,6 +10443,7 @@ var _monsterskill = {
             "EN": "Deals <1> Quantum DMG to all targets."
         },
         "SP": 15.0,
+        "Elem": "Quantum",
         "DMG": [
             3.6
         ]
@@ -10111,6 +10459,7 @@ var _monsterskill = {
             "EN": "The Antimatter Engine will change its Weakness Type every time it recovers from Weakness Break.<br>During Phase 2, SPD increased by <color style='color:#f29e38;'>40%</color>."
         },
         "SP": 0,
+        "Elem": "Quantum",
         "Status": [
             280150104,
             280150105
@@ -10127,6 +10476,7 @@ var _monsterskill = {
             "EN": "Deals <1> Quantum DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Quantum",
         "DMG": [
             3.0
         ]
@@ -10142,6 +10492,7 @@ var _monsterskill = {
             "EN": "Deals <1> Quantum DMG to a single target, with a <color style='color:#f29e38;'>30%</color> Base Chance to inflict <b>Entanglement</b> for <color style='color:#f29e38;'>1</color> turn.<br>Entanglement Base DMG: <2> Quantum DMG, action delayed by <color style='color:#f29e38;'>30%</color>."
         },
         "SP": 10.0,
+        "Elem": "Quantum",
         "Status": [
             30020027
         ],
@@ -10161,6 +10512,7 @@ var _monsterskill = {
             "EN": "Deals <1> Quantum DMG to a single target, with a <color style='color:#f29e38;'>50%</color> Base Chance to inflict <b>Entanglement</b> for <color style='color:#f29e38;'>1</color> turn.<br>Entanglement Base DMG: <2> Quantum DMG, action delayed by <color style='color:#f29e38;'>30%</color>."
         },
         "SP": 15.0,
+        "Elem": "Quantum",
         "Status": [
             30020027
         ],
@@ -10180,6 +10532,7 @@ var _monsterskill = {
             "EN": "The Doomsday Beast cannot be attacked until the Antimatter Engine, Disaster's Right Hand, and Dawn's Left Hand have all been destroyed.<br>While Weakened, damage taken is increased by <color style='color:#f29e38;'>900%</color>."
         },
         "SP": 0,
+        "Elem": "Quantum",
         "Status": [
             280150102
         ],
@@ -10200,6 +10553,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to all targets."
         },
         "SP": 5.0,
+        "Elem": "Imaginary",
         "DMG": [
             1.4
         ]
@@ -10215,6 +10569,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to all targets."
         },
         "SP": 10.0,
+        "Elem": "Imaginary",
         "DMG": [
             1.4
         ]
@@ -10230,6 +10585,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to all targets."
         },
         "SP": 15.0,
+        "Elem": "Imaginary",
         "DMG": [
             1.4
         ]
@@ -10290,6 +10646,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to a single target."
         },
         "SP": 20.0,
+        "Elem": "Imaginary",
         "DMG": [
             2.8
         ]
@@ -10305,6 +10662,7 @@ var _monsterskill = {
             "EN": "Enters the Charge state. The next action uses \"Impending Doom\" on all targets."
         },
         "SP": 0,
+        "Elem": "Quantum",
         "Prepare": [
             801314406
         ]
@@ -10320,6 +10678,7 @@ var _monsterskill = {
             "EN": "Deals <1> Quantum DMG to all targets."
         },
         "SP": 15.0,
+        "Elem": "Quantum",
         "DMG": [
             3.4
         ]
@@ -10335,6 +10694,7 @@ var _monsterskill = {
             "EN": "The Antimatter Engine will change its Weakness Type every time it recovers from Weakness Break.<br>During Phase 2, SPD increased by <color style='color:#f29e38;'>50%</color>."
         },
         "SP": 0,
+        "Elem": "Quantum",
         "Status": [
             280150104,
             280150105
@@ -10351,6 +10711,7 @@ var _monsterskill = {
             "EN": "Deals <1> Quantum DMG to a single target."
         },
         "SP": 15.0,
+        "Elem": "Quantum",
         "DMG": [
             2.8
         ]
@@ -10366,6 +10727,7 @@ var _monsterskill = {
             "EN": "Deals <1> Quantum DMG to a single target."
         },
         "SP": 20.0,
+        "Elem": "Quantum",
         "DMG": [
             2.8
         ]
@@ -10381,6 +10743,7 @@ var _monsterskill = {
             "EN": "Deals <1> Quantum DMG to a single target."
         },
         "SP": 20.0,
+        "Elem": "Quantum",
         "DMG": [
             2.8
         ]
@@ -10396,6 +10759,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Wind",
         "DMG": [
             2.5
         ]
@@ -10423,6 +10787,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Shock</b> the target.<br>Shock DoT: <2> Lightning DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>1</color> stack."
         },
         "SP": 10.0,
+        "Elem": "Elec",
         "Status": [
             30020004
         ],
@@ -10469,6 +10834,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Shock</b> the target.<br>Shock DoT: <2> Lightning DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>1</color> stack."
         },
         "SP": 10.0,
+        "Elem": "Elec",
         "Status": [
             30020004
         ],
@@ -10488,6 +10854,7 @@ var _monsterskill = {
             "EN": "Repeat <color style='color:#f29e38;'>6</color> times: Deals <1> Lightning DMG to a random target."
         },
         "SP": 15.0,
+        "Elem": "Elec",
         "DMG": [
             1.0
         ]
@@ -10503,6 +10870,7 @@ var _monsterskill = {
             "EN": "Consumes 1 stack of <color style='color:#f29e38;'>Gusto</color> and deals <1> Quantum DMG to a locked-on target."
         },
         "SP": 15.0,
+        "Elem": "Quantum",
         "Status": [
             220230201
         ],
@@ -10521,6 +10889,7 @@ var _monsterskill = {
             "EN": "Consumes 1 stack of <color style='color:#f29e38;'>Gusto</color> and deals <1> Quantum DMG to a locked-on target."
         },
         "SP": 15.0,
+        "Elem": "Quantum",
         "Status": [
             220230201
         ],
@@ -10594,6 +10963,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target, and applies <color style='color:#f29e38;'>Chilling Light</color> to self and all Flying swords: increase DMG dealt by <color style='color:#f29e38;'>10%</color>, stackable, not dispelable."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "Status": [
             220040215
         ],
@@ -10636,6 +11006,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Freeze</b> the target. Freeze DoT: <2> Ice DMG, lasts <color style='color:#f29e38;'>1</color> turn."
         },
         "SP": 15.0,
+        "Elem": "Ice",
         "DMG": [
             3.5,
             1.2
@@ -10652,6 +11023,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a single target and <2> Ice DMG to adjacent units."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "DMG": [
             3.0,
             2.0
@@ -10683,6 +11055,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 10.0,
+        "Elem": "Ice",
         "DMG": [
             4.0
         ]
@@ -10713,6 +11086,7 @@ var _monsterskill = {
             "EN": "Deals <1> Ice DMG to a target. For every Flying Sword on field, deal an extra <2> Ice DMG. After using this ability, remove all Flying Swords on the field."
         },
         "SP": 15.0,
+        "Elem": "Ice",
         "DMG": [
             3.0,
             3.0
@@ -10788,7 +11162,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成少量伤害。",
             "EN": "Deals minor DMG to a single target."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Imaginary"
     },
     "700101102": {
         "Key": "Skill02",
@@ -10800,7 +11175,8 @@ var _monsterskill = {
             "CH": "对指定我方单体及其相邻目标造成伤害，若此技能消灭我方目标则回复所有能量。",
             "EN": "Deals DMG to a single target and any adjacent targets, and regenerates all Energy if the Skill destroys the target."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Imaginary"
     },
     "700101201": {
         "Key": "Skill01",
@@ -10812,7 +11188,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成伤害。",
             "EN": "Deals DMG to a single target."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Imaginary"
     },
     "700101202": {
         "Key": "Skill02",
@@ -10836,7 +11213,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成伤害。",
             "EN": "Deals DMG to a single target."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Quantum"
     },
     "700304002": {
         "Key": "Skill02",
@@ -10848,7 +11226,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成伤害。",
             "EN": "Deals DMG to a single target."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Quantum"
     },
     "700304003": {
         "Key": "Skill03",
@@ -10860,7 +11239,8 @@ var _monsterskill = {
             "CH": "消耗所有充能。对指定我方单体及其相邻目标造成大量伤害。",
             "EN": "Consumes all Charges. Deals DMG to a single target and units adjacent to the target."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Quantum"
     },
     "700304004": {
         "Key": "Skill04",
@@ -10872,7 +11252,8 @@ var _monsterskill = {
             "CH": "锁定我方单体，下次行动对该目标施放【强弩的终结】。",
             "EN": "Locks on to a single target. Cast \"End of Bow\" to this target in the next action."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Quantum"
     },
     "700304005": {
         "Key": "Skill05",
@@ -10884,7 +11265,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成大量伤害。",
             "EN": "Deals massive DMG to a single target."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Quantum"
     },
     "700304006": {
         "Key": "SkillP01",
@@ -10896,7 +11278,8 @@ var _monsterskill = {
             "CH": "敌方或我方目标被消灭时，使自身立即行动。",
             "EN": "Gains an immediate action when target is defeated."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Quantum"
     },
     "700210001": {
         "Key": "Skill01",
@@ -10908,7 +11291,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成少量伤害。",
             "EN": "Deals minor DMG to a single target."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Phys"
     },
     "700210002": {
         "Key": "Skill02",
@@ -10932,7 +11316,8 @@ var _monsterskill = {
             "CH": "消耗所有充能。引爆自身，对指定我方单体及其相邻目标造成大量伤害。",
             "EN": "Consumes all Charges. Self-destructs, dealing DMG to a single target and adjacent targets."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Fire"
     },
     "700305001": {
         "Key": "Skill02",
@@ -10944,7 +11329,8 @@ var _monsterskill = {
             "CH": "dev_对指定我方单体造成虚数属性伤害。",
             "EN": ""
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Imaginary"
     },
     "700305002": {
         "Key": "Skill03",
@@ -10956,7 +11342,8 @@ var _monsterskill = {
             "CH": "dev_对指定我方单体造成大量虚数属性伤害。",
             "EN": ""
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Imaginary"
     },
     "700305003": {
         "Key": "Skill05",
@@ -10980,7 +11367,8 @@ var _monsterskill = {
             "CH": "dev_连续对我方随机单体造成少量虚数属性伤害，造成伤害的次数与自身剩余【追忆刻度】层数一致。进入战斗时该技能充能为满。",
             "EN": ""
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Imaginary"
     },
     "700305005": {
         "Key": "SkillP01",
@@ -11016,7 +11404,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成伤害。",
             "EN": "Deals DMG to a single target."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Ice"
     },
     "700307001": {
         "Key": "Skill01",
@@ -11028,7 +11417,8 @@ var _monsterskill = {
             "CH": "造成伤害，每击有低概率施加裂伤。",
             "EN": "Deals DMG, with each hit having a low chance to inflict Bleed."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Phys"
     },
     "700307002": {
         "Key": "Skill02",
@@ -11064,7 +11454,8 @@ var _monsterskill = {
             "CH": "使用【砍伐指令】后，有概率追加攻击并获得1层【加压】，目标已损失生命值越多，追加攻击概率越高。",
             "EN": "After using Felling Order, there is a chance to deliver a follow-up attack and get 1 stack of Pressure. The more HP the target has already lost, the higher the chances of delivering a follow-up attack."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Phys"
     },
     "700308001": {
         "Key": "Skill06",
@@ -11076,7 +11467,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成伤害，并大概率使受到攻击的我方目标陷入灼烧状态。",
             "EN": "Deals DMG to a single target, with a high chance to Burn the target."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Fire"
     },
     "700308002": {
         "Key": "Skill07",
@@ -11088,7 +11480,8 @@ var _monsterskill = {
             "CH": "对指定我方单体及其相邻目标造成伤害。",
             "EN": "Deals DMG to a single target and any adjacent targets."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Fire"
     },
     "700308003": {
         "Key": "PassiveSkillInitiate",
@@ -11124,7 +11517,8 @@ var _monsterskill = {
             "CH": "对我方全体造成伤害。使陷入灼烧状态的我方目标受到额外伤害的同时解除该目标的灼烧状态。",
             "EN": "Deals DMG to all targets. Targets suffering from Burn are dealt additional DMG and have Burn removed."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Fire"
     },
     "700309001": {
         "Key": "Skill05",
@@ -11133,7 +11527,7 @@ var _monsterskill = {
             "EN": "Detonation Order"
         },
         "Desc": {
-            "CH": "召唤【自动机兵•蜘蛛】。",
+            "CH": "召唤【自动机兵 · 蜘蛛】。",
             "EN": "Summons Automaton Spider."
         },
         "SP": 0
@@ -11172,7 +11566,8 @@ var _monsterskill = {
             "CH": "对我方全体造成大量伤害。",
             "EN": "Deals massive DMG to all targets."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Phys"
     },
     "700309005": {
         "Key": "Skill01",
@@ -11184,7 +11579,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成伤害。",
             "EN": "Deals DMG to a single target."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Phys"
     },
     "700309009": {
         "Key": "Skill01",
@@ -11196,7 +11592,8 @@ var _monsterskill = {
             "CH": "test_对指定我方单体造成物理属性伤害。",
             "EN": ""
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Phys"
     },
     "700101203": {
         "Key": "SkillP01",
@@ -11220,7 +11617,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成伤害，如当前无【绩效点】，获得1个【绩效点】，否则消耗所有【绩效点】。",
             "EN": "Deals DMG to a single target, and if there are no Performance Points at the time, gains 1 Performance Point. Otherwise, consumes all Performance Points."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Phys"
     },
     "700310003": {
         "Key": "Skill02",
@@ -11244,7 +11642,8 @@ var _monsterskill = {
             "CH": "消耗所有充能。对我方全体造成大量伤害，并消耗所有【绩效点】。",
             "EN": "Consumes all Charges. Deals massive DMG to all targets and expends all Performance Points."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Phys"
     },
     "700310005": {
         "Key": "Skill04",
@@ -11280,7 +11679,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成大量伤害，获得1个【绩效点】。",
             "EN": "Deals massive DMG to a single target and gains 1 Performance Point."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Phys"
     },
     "700310007": {
         "Key": "PassiveSkillInitiate",
@@ -11304,7 +11704,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成少量伤害。",
             "EN": "Deals minor DMG to a single target."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Phys"
     },
     "700211002": {
         "Key": "Skill02",
@@ -11328,7 +11729,8 @@ var _monsterskill = {
             "CH": "消耗所有充能。引爆自身，对指定我方单体及其相邻目标造成大量伤害。",
             "EN": "Consumes all Charges. Self-destructs, dealing DMG to a single target and adjacent targets."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Fire"
     },
     "700212001": {
         "Key": "Skill01",
@@ -11340,7 +11742,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成伤害，获得1个【绩效点】。",
             "EN": "Deals DMG to a single target and gains 1 Performance Point."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Phys"
     },
     "700212002": {
         "Key": "Skill02",
@@ -11352,7 +11755,8 @@ var _monsterskill = {
             "CH": "消耗所有充能。对指定我方单体造成伤害，若已持有【绩效点】则使其受到伤害提高。消耗所有【绩效点】。",
             "EN": "Consumes all charges. Deals DMG to a single target. If they are present, Performance Points will increase DMG. All Performance Points will be expended."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Phys"
     },
     "700212003": {
         "Key": "PassiveSkillInitiate",
@@ -11376,7 +11780,8 @@ var _monsterskill = {
             "CH": "对指定我方单体及相邻目标造成伤害，获得1个【绩效点】。",
             "EN": "Deals DMG to a single target and adjacent targets. Gains 1 Performance Point."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Phys"
     },
     "700213002": {
         "Key": "Skill02",
@@ -11388,7 +11793,8 @@ var _monsterskill = {
             "CH": "消耗所有充能。对指定我方单体及相邻目标造成伤害，若已持有【绩效点】则自身行动提前一定比例。消耗所有【绩效点】。",
             "EN": "Consumes all Charges. Deals DMG to a single target and adjacent targets. If they are present, Performance Points will advance this unit's action by a certain proportion. All Performance Points will be expended."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Phys"
     },
     "700213003": {
         "Key": "PassiveSkillInitiate",
@@ -11412,7 +11818,8 @@ var _monsterskill = {
             "CH": "test_对指定我方单体造成物理属性伤害。",
             "EN": ""
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Phys"
     },
     "700213004": {
         "Key": "Skill02",
@@ -11424,7 +11831,8 @@ var _monsterskill = {
             "CH": "test_对指定我方单体及相邻目标造成物理属性伤害，额外夺取1枚金币",
             "EN": ""
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Phys"
     },
     "700101301": {
         "Key": "Skill01",
@@ -11460,7 +11868,8 @@ var _monsterskill = {
             "CH": "消耗所有充能。对我方全体造成伤害，使陷入灼烧状态的我方目标发生爆炸同时对自身及相邻目标造成伤害，同时解除该目标的灼烧状态。",
             "EN": "Consumes all Charges. Deals DMG to all targets. Burned target will explode, subsequently dealing DMG to the Burned target and units adjacent to the target. The Burn status will be removed afterward."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Fire"
     },
     "201301102": {
         "Key": "Skill01",
@@ -11473,6 +11882,7 @@ var _monsterskill = {
             "EN": "Increases Sanction Rate level by <color style='color:#f29e38;'>33%</color> and deals <1> Imaginary DMG to all targets.<br>Has a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Weaken</b> them.<br>Weaken: DMG dealt decreases by <color style='color:#f29e38;'>30%</color>, lasts <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 5.0,
+        "Elem": "Imaginary",
         "Status": [
             30010017
         ],
@@ -11490,7 +11900,8 @@ var _monsterskill = {
             "CH": "dev_对指定我方单体造成虚数属性伤害。",
             "EN": ""
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Imaginary"
     },
     "201301104": {
         "Key": "Skill03",
@@ -11503,6 +11914,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to 1 locked on target and removes their Lock On state, with a <color style='color:#f29e38;'>100%</color> Base Chance of causing <b>Imprisonment</b>: Action delayed by <color style='color:#f29e38;'>60%</color> for <color style='color:#f29e38;'>1</color> turn."
         },
         "SP": 15.0,
+        "Elem": "Imaginary",
         "Status": [
             220130111,
             30020013
@@ -11544,6 +11956,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to a single target."
         },
         "SP": 15.0,
+        "Elem": "Elec",
         "DMG": [
             3.5
         ]
@@ -11559,6 +11972,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to a single target and adjacent units."
         },
         "SP": 10.0,
+        "Elem": "Elec",
         "DMG": [
             3.0
         ]
@@ -11574,6 +11988,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to a single target."
         },
         "SP": 20.0,
+        "Elem": "Elec",
         "DMG": [
             4.5
         ]
@@ -11656,7 +12071,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成伤害，并使受到攻击的我方目标行动延后。",
             "EN": "Deals DMG to a single target and delays their action."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Ice"
     },
     "700214002": {
         "Key": "Skill02",
@@ -11668,7 +12084,8 @@ var _monsterskill = {
             "CH": "消耗所有充能。对指定我方单体造成伤害，并大概率使受到攻击的我方目标陷入冻结状态。",
             "EN": "Consumes all Charges. Deals DMG to a single target, with a high chance of Freezing the target."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Ice"
     },
     "200402007": {
         "Key": "SkillP01",
@@ -11728,7 +12145,8 @@ var _monsterskill = {
             "CH": "当我方目标攻击敌方目标后，对我方全体进行攻击，攻击次数相当于本次攻击击中的敌方目标数量。",
             "EN": "When a friendly unit is attacked, this unit will attack all targets. The attack count is equal to the number of friendly units hit by the previous attack."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Fire"
     },
     "800207101": {
         "Key": "Skill01",
@@ -12016,7 +12434,8 @@ var _monsterskill = {
             "CH": "",
             "EN": ""
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Quantum"
     },
     "800305201": {
         "Key": "Skill01",
@@ -12028,7 +12447,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成风属性伤害，并大概率使其陷入风化状态。",
             "EN": "Deals Wind DMG to a single target and has a high chance to inflict Wind Shear."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Wind"
     },
     "800305202": {
         "Key": "Skill03",
@@ -12040,7 +12460,8 @@ var _monsterskill = {
             "CH": "对指定我方单体及其相邻目标造成少量风属性伤害，并有概率使受到攻击的我方目标陷入风化状态。",
             "EN": "Deals minor Wind DMG to the target and units adjacent to the target, with a chance to inflict Wind Shear."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Wind"
     },
     "800305203": {
         "Key": "Skill04",
@@ -12064,7 +12485,8 @@ var _monsterskill = {
             "CH": "对处于风化状态的我方目标造成风属性伤害。若场上没有处于风化状态的我方目标，则本技能施放失败。",
             "EN": "Deals Wind DMG to targets afflicted with Wind Shear. This ability fails if no one on the target team suffers Wind Shear."
         },
-        "SP": 15.0
+        "SP": 15.0,
+        "Elem": "Wind"
     },
     "800305205": {
         "Key": "PassiveSkillInitiate",
@@ -12100,7 +12522,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成量子属性伤害。",
             "EN": "Deals Quantum DMG to a single target."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Quantum"
     },
     "801301302": {
         "Key": "Skill02",
@@ -12112,7 +12535,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成量子属性伤害。",
             "EN": "Deals Quantum DMG to a single target."
         },
-        "SP": 15.0
+        "SP": 15.0,
+        "Elem": "Quantum"
     },
     "801301303": {
         "Key": "Skill03",
@@ -12124,7 +12548,8 @@ var _monsterskill = {
             "CH": "对指定我方单体及其相邻目标造成少量量子属性伤害。",
             "EN": "Deals minor Quantum DMG to a single target and units adjacent to the target."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Quantum"
     },
     "801301304": {
         "Key": "Skill04",
@@ -12136,7 +12561,8 @@ var _monsterskill = {
             "CH": "锁定我方单体，下次行动对该目标施放【强弩的终结】。",
             "EN": "Locks on to a single target. Cast End of Bow to this target in the next action."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Quantum"
     },
     "801301305": {
         "Key": "Skill05",
@@ -12148,7 +12574,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成大量量子属性伤害，并大概率使受到攻击的我方目标陷入纠缠状态。",
             "EN": "Deals massive Quantum DMG to a single target, with a high chance to inflict Entanglement."
         },
-        "SP": 25.0
+        "SP": 25.0,
+        "Elem": "Quantum"
     },
     "900310001": {
         "Key": "Skill01",
@@ -12160,7 +12587,8 @@ var _monsterskill = {
             "CH": "dev_对指定我方单体造成物理属性伤害。",
             "EN": ""
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Phys"
     },
     "900310002": {
         "Key": "Skill02",
@@ -12172,7 +12600,8 @@ var _monsterskill = {
             "CH": "dev_对指定我方单体造成强力物理属性伤害。",
             "EN": ""
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Phys"
     },
     "900310003": {
         "Key": "Skill03",
@@ -12184,7 +12613,8 @@ var _monsterskill = {
             "CH": "dev_对我方全体造成物理属性伤害，并会号令随机一个分身进行协助（只有被操纵的单位才会使用该技能）。",
             "EN": ""
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Phys"
     },
     "900310004": {
         "Key": "Skill05",
@@ -12196,7 +12626,8 @@ var _monsterskill = {
             "CH": "dev_锁定该目标，下次行动对其施放【dev_终结技】（只有被操纵的单位才会使用该技能）。",
             "EN": ""
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Phys"
     },
     "900310005": {
         "Key": "Skill04",
@@ -12208,7 +12639,8 @@ var _monsterskill = {
             "CH": "dev_主体与分身全部出击，对目标造成高额物理伤害（只有被操纵的单位才会使用该技能）。",
             "EN": ""
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Phys"
     },
     "900310006": {
         "Key": "Skill06",
@@ -12220,7 +12652,8 @@ var _monsterskill = {
             "CH": "dev_战斗开始时，召唤两个与主体高度相似的分身。",
             "EN": ""
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Phys"
     },
     "900310007": {
         "Key": "SkillP01",
@@ -12232,7 +12665,8 @@ var _monsterskill = {
             "CH": "dev_主体为默认被操纵的单位，可以额外行动一次，并使用强力技能；被操纵的单位被击破或死亡后，操纵体会转移到一个随机的主体或分身上；如果所有主体和分身都被击破或死亡，则会发生爆炸，对所有敌方目标造成伤害、推条和高额增伤；当任意一个分身或主体恢复行动能力后，会重新被操纵。",
             "EN": ""
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Phys"
     },
     "800205801": {
         "Key": "Skill01",
@@ -12425,6 +12859,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 15.0,
+        "Elem": "Phys",
         "DMG": [
             4.0
         ]
@@ -12440,6 +12875,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target and <2> Physical DMG to adjacent units."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "DMG": [
             3.6,
             1.8
@@ -12488,6 +12924,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to all targets."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "DMG": [
             3.6
         ]
@@ -12520,6 +12957,7 @@ var _monsterskill = {
             "EN": "Consumes all stacks of <color style='color:#f29e38;'>Gusto</color>, dealing <1> Quantum DMG to the <b>Monitored</b> target. For every stack of <color style='color:#f29e38;'>Gusto</color> consumed, deal an extra <2> Quantum DMG."
         },
         "SP": 15.0,
+        "Elem": "Quantum",
         "Status": [
             220230212,
             220230211
@@ -12571,6 +13009,7 @@ var _monsterskill = {
             "EN": "Deals <1> Quantum DMG to all targets."
         },
         "SP": 10.0,
+        "Elem": "Quantum",
         "DMG": [
             2.5
         ]
@@ -12598,6 +13037,7 @@ var _monsterskill = {
             "EN": "Continuously deal <1> Wind DMG to a random target, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG per stack. Lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 5.0,
+        "Elem": "Wind",
         "Status": [
             30020003
         ],
@@ -12617,6 +13057,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to the targeted and adjacent allies, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG per stack. Lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 10.0,
+        "Elem": "Wind",
         "Status": [
             30020003
         ],
@@ -12636,6 +13077,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to a single target, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG per stack. Lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 15.0,
+        "Elem": "Wind",
         "Status": [
             30020003
         ],
@@ -12655,6 +13097,7 @@ var _monsterskill = {
             "EN": "Has <color style='color:#f29e38;'>100%</color> Base Chance of afflicting all targets with <color style='color:#f29e38;'>Stackable Prana-Siphon</color> for <color style='color:#f29e38;'>3</color> turns.<br>Stackable Prana-Siphon: Unrecoverable Black HP increases by <color style='color:#f29e38;'>20%</color> every stack, max <color style='color:#f29e38;'>50%</color>. Lasts <color style='color:#f29e38;'>3</color> turns."
         },
         "SP": 15.0,
+        "Elem": "Wind",
         "Status": [
             30020030
         ]
@@ -12669,7 +13112,8 @@ var _monsterskill = {
             "CH": "攻击命中带有<color style='color:#f29e38;'>【可叠加噬命】</color>的目标时，将此次攻击造成的生命值损失，叠加至<color style='color:#f29e38;'>【可叠加噬命】</color>的黑色生命值里，并刷新其持续时间。",
             "EN": "After attacking a target with <color style='color:#f29e38;'>Stackable Prana-Siphon</color>, the amount of HP lost in this attack will be added to the <color style='color:#f29e38;'>Stackable Prana-Siphon</color>'s black HP, and refreshes its duration."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Wind"
     },
     "800304201": {
         "Key": "Skill01",
@@ -12694,6 +13138,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Imaginary",
         "DMG": [
             3.0
         ]
@@ -12709,6 +13154,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to a single target."
         },
         "SP": 15.0,
+        "Elem": "Imaginary",
         "DMG": [
             5.0
         ]
@@ -12724,6 +13170,7 @@ var _monsterskill = {
             "EN": "For every stack of <color style='color:#f29e38;'>\"Gauge Recollection\"</color>, deal <1> Imaginary DMG to a random target, max <color style='color:#f29e38;'>9</color> stacks.<br>If there is no \"Gauge Recollection\", this ability will fail."
         },
         "SP": 5.0,
+        "Elem": "Imaginary",
         "Status": [
             280030405
         ],
@@ -12787,6 +13234,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target and has a <color style='color:#f29e38;'>0%</color> Base Chance to inflict Reverberation."
         },
         "SP": 15.0,
+        "Elem": "Phys",
         "DMG": [
             2.5
         ]
@@ -12802,6 +13250,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 15.0,
+        "Elem": "Phys",
         "DMG": [
             2.5
         ]
@@ -12817,6 +13266,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>2</color> stacks of <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 10.0,
+        "Elem": "Wind",
         "Status": [
             280240101
         ],
@@ -12835,7 +13285,8 @@ var _monsterskill = {
             "CH": "dev_对指定我方单体及相邻目标造成造成风属性伤害，并将主目标的风化层数扩散给副目标。",
             "EN": ""
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Wind"
     },
     "802401102": {
         "Key": "Skill02",
@@ -12848,6 +13299,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to a single target. If the target is currently suffering from <color style='color:#f29e38;'>Wind Shear</color>, Wind Shear immediately causes DMG 1 time."
         },
         "SP": 20.0,
+        "Elem": "Wind",
         "Status": [
             280240101
         ],
@@ -12866,6 +13318,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to a all targets, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>1</color> stack of <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 10.0,
+        "Elem": "Wind",
         "Status": [
             280240101
         ],
@@ -12928,6 +13381,7 @@ var _monsterskill = {
             "EN": "Dispels all Crowd Control debuffs and Weakness Break affecting True Stings.<br>Deals <1> Wind DMG to all targets. When there are 0</color>1</color>2</color>3</color>4 other monsters on field, repeat 0</color>4</color>5</color>6</color>7 times: Deal <2> Wind DMG to a random target.<br>Every time a character takes DMG, there is a <color style='color:#f29e38;'>100%</color> Base Chance of being inflicted with <color style='color:#f29e38;'>1</color> stack of <b>Wind Shear</b>.<br>Revive <color style='color:#f29e38;'>5</color> energy for all characters"
         },
         "SP": 10.0,
+        "Elem": "Wind",
         "DMG": [
             2.0,
             1.8
@@ -12943,7 +13397,8 @@ var _monsterskill = {
             "CH": "解除场上所有真蛰虫群的控制类负面状态与弱点击破状态，并对我方目标造成风属性伤害，使我方目标每次受到攻击时大概率陷入1层风化状态。",
             "EN": "Dispels all Crowd Control debuffs and Weakness Breaks affecting True Stings. Deals Wind DMG to the target, and causes the target to have a high chance of being inflicted with 1 stack of Wind Shear every time they get attacked."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Wind"
     },
     "802401108": {
         "Key": "PassiveSkill01",
@@ -12971,6 +13426,7 @@ var _monsterskill = {
             "EN": "When receiving a killing blow, deals <color style='color:#f29e38;'>40% Self Max HP</color> Wind DMG and <color style='color:#f29e38;'>1.0</color> Wind Toughness DMG to all friendly units, and inflict <color style='color:#f29e38;'>2</color> layers of <b>Vulnerability</b>: DMG taken increased by <color style='color:#f29e38;'>10%</color> for <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>10</color> stacks."
         },
         "SP": 0,
+        "Elem": "Wind",
         "Status": [
             280240103
         ]
@@ -13013,6 +13469,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to all targets. <br>When in the Soulfreed state, deals <2> Physical DMG instead."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "DMG": [
             2.4,
             4.0
@@ -13028,7 +13485,8 @@ var _monsterskill = {
             "CH": "受到致命攻击时，对敌方全体造成<color style='color:#f29e38;'>60%自身生命值</color>物理伤害和<color style='color:#f29e38;'>1</color>点物理属性削韧。<br>【灵魂释放】状态下，改为造成<color style='color:#f29e38;'>80%自身生命值</color>物理伤害和<color style='color:#f29e38;'>2</color>点物理属性削韧。",
             "EN": "When receiving a killing blow, deals <color style='color:#f29e38;'>60% Self HP</color> Physical DMG and <color style='color:#f29e38;'>1.0</color> Physical Toughenss DMG to all friendly units. <br>When in the Soulfreed state, deals <color style='color:#f29e38;'>80% Self HP</color> Physical DMG and <color style='color:#f29e38;'>2.0</color> Physical Toughenss DMG instead."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Phys"
     },
     "302104001": {
         "Key": "Skill01",
@@ -13070,7 +13528,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成量子属性伤害，优先攻击带有纠缠效果的目标，并额外叠加一次纠缠。",
             "EN": "Deals minor Quantum DMG to a single target, prioritizing Entangled targets, and applies one extra stack of Entanglement."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Quantum"
     },
     "802203002": {
         "Key": "PassiveSkill01",
@@ -13082,7 +13541,8 @@ var _monsterskill = {
             "CH": "受到致命攻击时，对敌方全体造成量子属性伤害，并使受到攻击的敌方目标受到的伤害增加。",
             "EN": "When receiving a killing blow, deals Quantum DMG to all friendly units and increases their DMG received."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Quantum"
     },
     "802501001": {
         "Key": "Skill01",
@@ -13094,7 +13554,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成量子属性伤害",
             "EN": "Deals minor Quantum DMG to a single target."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Quantum"
     },
     "802501002": {
         "Key": "Skill02",
@@ -13106,7 +13567,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成量子属性伤害，并大概率使受到攻击的我方目标陷入纠缠状态，同时召唤1只【蚀蛰虫】。",
             "EN": "Deals Quantum DMG to a single target, with a high chance to inflict Entanglement. Also summons 1 Gnaw Sting."
         },
-        "SP": 15.0
+        "SP": 15.0,
+        "Elem": "Quantum"
     },
     "802501003": {
         "Key": "Skill03",
@@ -13118,7 +13580,8 @@ var _monsterskill = {
             "CH": "对指定我方单体及相邻目标造成量子属性伤害。",
             "EN": "Deals Quantum DMG to a single target and any adjacent targets."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Quantum"
     },
     "802501004": {
         "Key": "Skill07",
@@ -13154,7 +13617,8 @@ var _monsterskill = {
             "CH": "对我方全体造成大量量子属性伤害。",
             "EN": "Deals Quantum DMG to all targets."
         },
-        "SP": 20.0
+        "SP": 20.0,
+        "Elem": "Quantum"
     },
     "802501007": {
         "Key": "Skill05",
@@ -13190,12 +13654,13 @@ var _monsterskill = {
             "CH": "",
             "EN": ""
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Quantum"
     },
     "202401201": {
         "Key": "Skill01",
         "Name": {
-            "CH": "衔枝 • 肃风",
+            "CH": "衔枝 · 肃风",
             "EN": "Pedicel: Wintry Wind"
         },
         "Desc": {
@@ -13210,7 +13675,7 @@ var _monsterskill = {
     "202401202": {
         "Key": "Skill02",
         "Name": {
-            "CH": "衔枝 • 缃叶",
+            "CH": "衔枝 · 缃叶",
             "EN": "Pedicel: Marple Leaf"
         },
         "Desc": {
@@ -13225,7 +13690,7 @@ var _monsterskill = {
     "202401203": {
         "Key": "Skill03",
         "Name": {
-            "CH": "衔枝 • 繁花",
+            "CH": "衔枝 · 繁花",
             "EN": "Pedicel: Glorious Blooms"
         },
         "Desc": {
@@ -13240,7 +13705,7 @@ var _monsterskill = {
     "202401204": {
         "Key": "Skill04",
         "Name": {
-            "CH": "衔枝 • 嘉实",
+            "CH": "衔枝 · 嘉实",
             "EN": "Pedicel: Lavish Fruits"
         },
         "Desc": {
@@ -13263,6 +13728,7 @@ var _monsterskill = {
             "EN": "Deals <1> Lightning DMG to a single target."
         },
         "SP": 20.0,
+        "Elem": "Elec",
         "DMG": [
             3.5
         ]
@@ -13278,6 +13744,7 @@ var _monsterskill = {
             "EN": "Deals <1> Wind DMG to all targets."
         },
         "SP": 15.0,
+        "Elem": "Wind",
         "DMG": [
             2.8
         ]
@@ -13308,6 +13775,7 @@ var _monsterskill = {
             "EN": "Uses this ability immediately when there are 2 Lavish Fruits on the field: Deals <1> Lightning DMG to all targets.<br>For every \"Ambrosial Arbor Branches\" on the field, an extra <2> Lightning DMG is dealt.<br>After the ability is used, remove all <color style='color:#f29e38;'>Twigs of Lavish Fruits</color> on the field."
         },
         "SP": 20.0,
+        "Elem": "Elec",
         "Status": [
             220221001
         ],
@@ -13334,7 +13802,7 @@ var _monsterskill = {
     "202401210": {
         "Key": "Skill10",
         "Name": {
-            "CH": "衔枝 • 引蔓",
+            "CH": "衔枝 · 引蔓",
             "EN": "Pedicel: Ivy Allure"
         },
         "Desc": {
@@ -13349,7 +13817,7 @@ var _monsterskill = {
     "202401211": {
         "Key": "Skill11",
         "Name": {
-            "CH": "衔枝 • 垂枝",
+            "CH": "衔枝 · 垂枝",
             "EN": "Pedicel: Willow Sprig"
         },
         "Desc": {
@@ -13364,7 +13832,7 @@ var _monsterskill = {
     "202401212": {
         "Key": "Skill12",
         "Name": {
-            "CH": "衔枝 • 榛莽",
+            "CH": "衔枝 · 榛莽",
             "EN": "Pedicel: Hazel Lush"
         },
         "Desc": {
@@ -13381,7 +13849,7 @@ var _monsterskill = {
     "202401213": {
         "Key": "Skill13",
         "Name": {
-            "CH": "衔枝 • 交藤",
+            "CH": "衔枝 · 交藤",
             "EN": "Pedicel: Entwined Vines"
         },
         "Desc": {
@@ -13420,7 +13888,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成少量物理伤害。",
             "EN": "Deals minor Physical DMG to a single target."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Phys"
     },
     "100202102": {
         "Key": "Skill02",
@@ -13445,6 +13914,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "DMG": [
             3.0
         ]
@@ -13460,6 +13930,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target and has a <color style='color:#f29e38;'>70%</color> Base Chance to inflict <color style='color:#f29e38;'>Reverberation</color>, lasting <color style='color:#f29e38;'>2</color> turns. <br>After targets suffering from Reverberation receive an attack, enters <color style='color:#f29e38;'>Strong Reverberation</color>, then dispel Reverberation. <br>Strong Reverberation delays action by <color style='color:#f29e38;'>70%</color>, and renders the character unable to act, lasting <color style='color:#f29e38;'>1</color> turn."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "Status": [
             220020301,
             220020302
@@ -13479,6 +13950,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to all targets.<br>If there are at least 3 characters not Reverberated, then pick 2 such characters and inflict <color style='color:#f29e38;'>Reverberation</color> with a <color style='color:#f29e38;'>35%</color> Base Chance, lasting <color style='color:#f29e38;'>2</color> turns.<br>If there are at most 2 characters not Reverberated, then pick 1 such character and inflict <color style='color:#f29e38;'>Reverberation</color> with a <color style='color:#f29e38;'>35%</color> Base Chance, lasting <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "Status": [
             220020301,
             220020302
@@ -13498,6 +13970,7 @@ var _monsterskill = {
             "EN": "When there are targets afflicted with <color style='color:#f29e38;'>Strong Reverberation</color> on the field, lock on to those targets and during the next action, use <color style='color:#f29e38;'>Heaven's Fall on them</color>"
         },
         "SP": 0,
+        "Elem": "Phys",
         "Status": [
             220020302
         ],
@@ -13516,6 +13989,7 @@ var _monsterskill = {
             "EN": "Summons <color style='color:#f29e38;'>Wraith Warden</color>"
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "Summon": [
             200203201
         ]
@@ -13531,6 +14005,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "DMG": [
             3.2
         ]
@@ -13561,6 +14036,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to all targets."
         },
         "SP": 20.0,
+        "Elem": "Phys",
         "DMG": [
             4.2
         ]
@@ -13604,6 +14080,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 15.0,
+        "Elem": "Phys",
         "DMG": [
             3.8
         ]
@@ -13632,6 +14109,7 @@ var _monsterskill = {
             "EN": "Increases Sanction Rate level by <color style='color:#f29e38;'>33%</color> and deals <1> Imaginary DMG to all targets.<br>Has a <color style='color:#f29e38;'>60%</color> Base Chance to <b>Weaken</b> them.<br>Weaken: DMG dealt decreases by <color style='color:#f29e38;'>20%</color>, lasts <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 5.0,
+        "Elem": "Imaginary",
         "Status": [
             30010017
         ],
@@ -13650,6 +14128,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to a single target."
         },
         "SP": 10.0,
+        "Elem": "Imaginary",
         "DMG": [
             3.0
         ]
@@ -13665,6 +14144,7 @@ var _monsterskill = {
             "EN": "Deals <1> Imaginary DMG to a single target, with a <color style='color:#f29e38;'>10%</color> Base Chance of inflicting <b>Imprisonment</b> for <color style='color:#f29e38;'>1</color> turn.<br>Imprisonment: Cannot take action, action delayed by <color style='color:#f29e38;'>50%</color>."
         },
         "SP": 15.0,
+        "Elem": "Imaginary",
         "DMG": [
             5.0
         ]
@@ -13738,6 +14218,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target and has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>Reverberation</color>, lasting <color style='color:#f29e38;'>2</color> turns. <br>After targets suffering from Reverberation receive an attack, enters <color style='color:#f29e38;'>Strong Reverberation</color>, then dispel Reverberation. <br>Strong Reverberation delays action by <color style='color:#f29e38;'>70%</color>, and renders the character unable to act, lasting <color style='color:#f29e38;'>1</color> turn."
         },
         "SP": 15.0,
+        "Elem": "Phys",
         "Status": [
             220020301,
             220020302
@@ -13756,7 +14237,8 @@ var _monsterskill = {
             "CH": "dev_命令云骑妹对瞄准的角色进行合击（不使用）",
             "EN": ""
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Phys"
     },
     "803301108": {
         "Key": "PassiveSkillInitiate",
@@ -13783,7 +14265,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成物理属性伤害。",
             "EN": "Deals Physical DMG to a single target."
         },
-        "SP": 15.0
+        "SP": 15.0,
+        "Elem": "Phys"
     },
     "302401102": {
         "Key": "Skill02",
@@ -13795,7 +14278,8 @@ var _monsterskill = {
             "CH": "对指定我方单体及其相邻目标造成物理属性伤害。",
             "EN": "Deals Physical DMG to a single target and units adjacent to the target."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Phys"
     },
     "302401103": {
         "Key": "Skill03",
@@ -13831,7 +14315,8 @@ var _monsterskill = {
             "CH": "对我方全体造成物理属性伤害。",
             "EN": "Deals Physical DMG to all targets."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Phys"
     },
     "302401107": {
         "Key": "Skill07",
@@ -13879,7 +14364,8 @@ var _monsterskill = {
             "CH": "对我方全体造成物理属性伤害。【灵魂释放】状态下，造成的伤害提高。",
             "EN": "Deals Physical DMG to all targets. Increases DMG dealt while in the Soulfreed state."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Phys"
     },
     "302103102": {
         "Key": "SkillP01",
@@ -13891,7 +14377,8 @@ var _monsterskill = {
             "CH": "受到致命攻击时，对敌方全体造成物理属性伤害。【灵魂释放】状态下，造成的伤害提高。",
             "EN": "When receiving a killing blow, deals Physical DMG to all friendly units. Increases DMG dealt while in the Soulfreed state."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Phys"
     },
     "302104101": {
         "Key": "Skill01",
@@ -13927,7 +14414,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成冰属性伤害，并使彦卿和所有飞剑获得1层【寒芒】，造成的伤害小幅提高。",
             "EN": "Deals Ice DMG to a single target. Yanqing and all Flying Swords gain 1 stack of Chilling Light and slightly increases DMG dealt."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Ice"
     },
     "200402202": {
         "Key": "Skill02",
@@ -13951,7 +14439,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成冰属性伤害，同时有大概率使受到攻击的目标陷入冻结状态。",
             "EN": "Deals Ice DMG to a single target, with a high chance to Freeze the target."
         },
-        "SP": 15.0
+        "SP": 15.0,
+        "Elem": "Ice"
     },
     "200402204": {
         "Key": "Skill04",
@@ -13963,7 +14452,8 @@ var _monsterskill = {
             "CH": "对指定我方单体及其相邻目标造成冰属性伤害。",
             "EN": "Deals Ice DMG to a single target and units adjacent to the target."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Ice"
     },
     "200402205": {
         "Key": "Skill05",
@@ -13987,7 +14477,8 @@ var _monsterskill = {
             "CH": "对我方全体造成大量冰属性伤害。",
             "EN": "Deals massive Ice DMG to all targets."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Ice"
     },
     "200402207": {
         "Key": "Skill07",
@@ -14011,7 +14502,8 @@ var _monsterskill = {
             "CH": "对指定我方单体连续造成冰属性伤害。施放该技能时，额外造成伤害，伤害次数等同于场上【飞剑】的数量。施放技能后，清除场上所有的【飞剑】。",
             "EN": "Continuously deals Ice DMG to a target. After using this ability, additionally deals DMG for a number of times equal to the number of Flying Swords on the field. After using this ability, remove all Flying Swords on the field."
         },
-        "SP": 15.0
+        "SP": 15.0,
+        "Elem": "Ice"
     },
     "200402209": {
         "Key": "SkillP01",
@@ -14032,7 +14524,7 @@ var _monsterskill = {
             "EN": "Detonation Order"
         },
         "Desc": {
-            "CH": "召唤【自动机兵•蜘蛛】或【自动机兵•甲虫】。",
+            "CH": "召唤【自动机兵 · 蜘蛛】或【自动机兵 · 甲虫】。",
             "EN": "Summons Automaton Spider or Automaton Beetle."
         },
         "SP": 0
@@ -14071,12 +14563,13 @@ var _monsterskill = {
             "CH": "对我方全体造成大量物理属性伤害。",
             "EN": "Deals Massive Physical DMG to all targets."
         },
-        "SP": 20.0
+        "SP": 20.0,
+        "Elem": "Phys"
     },
     "101301407": {
         "Key": "PassiveSkillInitiate",
         "Name": {
-            "CH": "dev_指令•强攻模式",
+            "CH": "dev_指令 · 强攻模式",
             "EN": ""
         },
         "Desc": {
@@ -14095,7 +14588,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成物理属性伤害。",
             "EN": "Deals Physical DMG to a single target."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Phys"
     },
     "101301402": {
         "Key": "Skill06",
@@ -14107,7 +14601,8 @@ var _monsterskill = {
             "CH": "dev_对指定我方单体造成大量物理属性伤害。",
             "EN": ""
         },
-        "SP": 20.0
+        "SP": 20.0,
+        "Elem": "Phys"
     },
     "101301408": {
         "Key": "PassiveSkill01",
@@ -14131,7 +14626,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成大量物理属性伤害，每次击中该目标都有概率使其陷入裂伤状态。",
             "EN": "Deals massive Physical DMG to a single target, with a chance to afflict Bleed for every hit on the target."
         },
-        "SP": 20.0
+        "SP": 20.0,
+        "Elem": "Phys"
     },
     "101302402": {
         "Key": "Skill07",
@@ -14155,7 +14651,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成物理属性伤害，并大概率对其增加1层裂伤状态。",
             "EN": "Deals Physical DMG to a single target, with a high chance to inflict 1 stack of Bleed."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Phys"
     },
     "101302406": {
         "Key": "Skill11",
@@ -14167,7 +14664,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成物理属性伤害，并大概率对其增加1层裂伤状态。",
             "EN": "Deals Physical DMG to a single target, with a high chance to inflict 1 stack of Bleed."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Phys"
     },
     "101302403": {
         "Key": "Skill12",
@@ -14203,7 +14701,8 @@ var _monsterskill = {
             "CH": "dev_对指定我方单体造成物理属性伤害，并大概率对其增加多层裂伤。",
             "EN": ""
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Phys"
     },
     "101302408": {
         "Key": "PassiveSkill01",
@@ -14251,7 +14750,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成少量风属性伤害，并大概率使受到攻击的我方目标陷入2层风化状态。",
             "EN": "Deals minor Wind DMG to a single target, with a high chance to inflict 2 stacks of Wind Shear."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Wind"
     },
     "802401210": {
         "Key": "Skill08",
@@ -14263,7 +14763,8 @@ var _monsterskill = {
             "CH": "dev_对指定我方单体及相邻目标造成造成风属性伤害，并将主目标的风化层数扩散给副目标。",
             "EN": ""
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Wind"
     },
     "802401202": {
         "Key": "Skill02",
@@ -14275,7 +14776,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成少量风属性伤害。如受到攻击的目标正处于风化状态，则直接造成1次风化伤害。",
             "EN": "Deals minor Wind DMG to a single target. If the target is currently suffering from Wind Shear, Wind Shear immediately causes DMG 1 time."
         },
-        "SP": 20.0
+        "SP": 20.0,
+        "Elem": "Wind"
     },
     "802401203": {
         "Key": "Skill03",
@@ -14287,7 +14789,8 @@ var _monsterskill = {
             "CH": "对我方全体造成风属性伤害，并大概率使受到攻击的我方目标陷入风化状态。",
             "EN": "Deals Wind DMG to all targets, with a high chance to cause Wind Shear."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Wind"
     },
     "802401204": {
         "Key": "Skill04",
@@ -14335,7 +14838,8 @@ var _monsterskill = {
             "CH": "解除场上所有真蛰虫群的控制类负面状态与弱点击破状态，并对我方目标造成风属性伤害，使我方目标每次受到攻击时大概率陷入1层风化状态。",
             "EN": "Dispels all Crowd Control debuffs and Weakness Breaks affecting True Stings on the field. Deals Wind DMG to the target, and causes the target to have a high chance of being inflicted with 1 stack of Wind Shear every time they get attacked."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Wind"
     },
     "802401207": {
         "Key": "Skill07",
@@ -14347,7 +14851,8 @@ var _monsterskill = {
             "CH": "解除场上所有真蛰虫群的控制类负面状态与弱点击破状态，并对我方目标造成风属性伤害，使我方目标每次受到攻击时大概率陷入1层风化状态。",
             "EN": "Dispels all Crowd Control debuffs and Weakness Breaks affecting True Stings on the field. Deals Wind DMG to the target, and causes the target to have a high chance of being inflicted with 1 stack of Wind Shear every time they get attacked."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Wind"
     },
     "802401208": {
         "Key": "PassiveSkill01",
@@ -14371,7 +14876,8 @@ var _monsterskill = {
             "CH": "受到致命攻击时，对敌方全体造成风属性伤害，并大概率使受到攻击的敌方目标受到的伤害小幅提高。",
             "EN": "When receiving a killing blow, deals Wind DMG to all friendly units, with a high chance to slightly increase their DMG received."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Wind"
     },
     "302401106": {
         "Key": "Skill06",
@@ -14407,7 +14913,8 @@ var _monsterskill = {
             "CH": "",
             "EN": ""
         },
-        "SP": 15.0
+        "SP": 15.0,
+        "Elem": "Phys"
     },
     "100201502": {
         "Key": "SkillP01",
@@ -14419,7 +14926,8 @@ var _monsterskill = {
             "CH": "锁定一个目标，【可可利亚（幻象）】的部分技能会对被锁定的目标额外追加释放一次，持续直到冰锋（幻象）被弱点击破或击杀。",
             "EN": "Locks on to a target. Some of Cocolia (Illusion)'s abilities will be released for one more time on the locked-on target until Ice Edge (Illusion) had their Weakness Broken or defeated."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Ice"
     },
     "100201602": {
         "Key": "SkillP01",
@@ -14431,7 +14939,8 @@ var _monsterskill = {
             "CH": "锁定一个目标，【可可利亚（幻象）】的部分技能会对被锁定的目标额外追加释放一次，持续直到冰锋（幻象）被弱点击破或击杀。",
             "EN": "Locks on to a target. Some of Cocolia (Illusion)'s abilities will be released for one more time on the locked-on target until Ice Edge (Illusion) had their Weakness Broken or defeated."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Ice"
     },
     "100201702": {
         "Key": "SkillP01",
@@ -14443,7 +14952,8 @@ var _monsterskill = {
             "CH": "锁定一个目标，【可可利亚，虚妄之母（幻象）】的部分技能会对被锁定的目标额外追加释放一次，持续直到无尽寒冬之槊（幻象）被弱点击破或击杀。",
             "EN": "Locks on to a target. Some of Cocolia, Mother of Deception (Illusion)'s abilities will be released for one more time on the locked-on target until Lance of the Eternal Freeze (Illusion) had their Weakness Broken or defeated."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Ice"
     },
     "100201802": {
         "Key": "SkillP01",
@@ -14455,7 +14965,8 @@ var _monsterskill = {
             "CH": "锁定一个目标，【可可利亚，虚妄之母（幻象）】的部分技能会对被锁定的目标额外追加释放一次，持续直到无尽寒冬之槊（幻象）被弱点击破或击杀。",
             "EN": "Locks on to a target. Some of Cocolia, Mother of Deception (Illusion)'s abilities will be released for one more time on the locked-on target until Lance of the Eternal Freeze (Illusion) had their Weakness Broken or defeated."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Ice"
     },
     "100401301": {
         "Key": "Skill01",
@@ -14467,7 +14978,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成冰属性伤害。",
             "EN": "Deals Ice DMG to a single target."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Ice"
     },
     "100401302": {
         "Key": "Skill02",
@@ -14491,7 +15003,8 @@ var _monsterskill = {
             "CH": "对我方全体造成大量冰属性伤害。",
             "EN": "Deals massive Ice DMG to all targets."
         },
-        "SP": 20.0
+        "SP": 20.0,
+        "Elem": "Ice"
     },
     "100401304": {
         "Key": "Skill04",
@@ -14503,7 +15016,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成冰属性伤害，并有大概率使受到攻击的我方目标陷入冻结状态。该技能会对【冰锋（幻象）】锁定的目标追加释放。",
             "EN": "Deals Ice DMG to a single target, with a high chance to Freeze the target. This ability will be additionally released on targets locked-on by Ice Edge (Illusion)."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Ice"
     },
     "100401305": {
         "Key": "Skill05",
@@ -14527,7 +15041,8 @@ var _monsterskill = {
             "CH": "对冻结状态下的我方目标及相邻目标造成冰属性伤害，同时解除主目标的冻结状态。若相邻目标处于冻结状态，则再次对主目标施放本技能。",
             "EN": "Deals Ice DMG to Frozen targets and their adjacent units. This also removes the main target's Frozen state. If the adjacent units are frozen, then this ability is used again on the main target."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Ice"
     },
     "100401307": {
         "Key": "PassiveSkill01",
@@ -14575,7 +15090,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成少量冰属性伤害。",
             "EN": "Deals minor Ice DMG to a single target."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Ice"
     },
     "100402402": {
         "Key": "Skill02",
@@ -14587,7 +15103,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成冰属性伤害。",
             "EN": "Deals Ice DMG to a single target."
         },
-        "SP": 15.0
+        "SP": 15.0,
+        "Elem": "Ice"
     },
     "100402403": {
         "Key": "Skill03",
@@ -14611,7 +15128,8 @@ var _monsterskill = {
             "CH": "",
             "EN": ""
         },
-        "SP": 15.0
+        "SP": 15.0,
+        "Elem": "Ice"
     },
     "100402405": {
         "Key": "Skill05",
@@ -14635,7 +15153,8 @@ var _monsterskill = {
             "CH": "",
             "EN": ""
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Ice"
     },
     "100402408": {
         "Key": "Skill08",
@@ -14719,7 +15238,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成雷属性伤害，并有概率使受到攻击的我方目标陷入触电状态。",
             "EN": "Deals Lightning DMG to a single target, with a chance to Shock the target."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Elec"
     },
     "200401302": {
         "Key": "Skill02",
@@ -14731,7 +15251,8 @@ var _monsterskill = {
             "CH": "对指定我方单体及其相邻目标造成雷属性伤害，如主目标处于触电状态，则会使副目标也陷入触电状态。",
             "EN": "Deals Lightning DMG to a single target and any adjacent targets. If the main target is Shocked, inflicts Shock on the adjacent targets."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Elec"
     },
     "200401303": {
         "Key": "Skill03",
@@ -14743,7 +15264,8 @@ var _monsterskill = {
             "CH": "对我方全体造成雷属性伤害。",
             "EN": "Deals Lightning DMG to all targets."
         },
-        "SP": 15.0
+        "SP": 15.0,
+        "Elem": "Elec"
     },
     "200401304": {
         "Key": "Skill05",
@@ -14767,7 +15289,8 @@ var _monsterskill = {
             "CH": "",
             "EN": ""
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Elec"
     },
     "200401306": {
         "Key": "PassiveSkill01",
@@ -14815,7 +15338,8 @@ var _monsterskill = {
             "CH": "当敌方除卡芙卡外的目标或我方陷入【支配】状态的目标对我方陷入触电状态的主目标进行攻击时，追加1次雷属性攻击。",
             "EN": "When friendly units (apart from Kafka) or Dominated targets attack the Shocked main target, unleash an extra Lightning attack."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Elec"
     },
     "200401310": {
         "Key": "PassiveSkill02",
@@ -14863,7 +15387,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成冰属性伤害，同时命令所有【飞剑（幻象）】发动攻击，造成额外伤害。",
             "EN": "Deals Ice DMG to a single target, and causes all Flying Swords (Illusion) to carry out follow-up attacks that deal extra DMG."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Ice"
     },
     "200402302": {
         "Key": "Skill02",
@@ -14887,7 +15412,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成冰属性伤害，同时有大概率使受到攻击的目标陷入冻结状态。",
             "EN": "Deals Ice DMG to a single target, with a high chance to Freeze the target."
         },
-        "SP": 15.0
+        "SP": 15.0,
+        "Elem": "Ice"
     },
     "200402304": {
         "Key": "Skill04",
@@ -14899,7 +15425,8 @@ var _monsterskill = {
             "CH": "对指定我方单体及其相邻目标造成冰属性伤害。",
             "EN": "Deals Ice DMG to a single target and units adjacent to the target."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Ice"
     },
     "200402305": {
         "Key": "Skill05",
@@ -14923,7 +15450,8 @@ var _monsterskill = {
             "CH": "对我方全体造成大量冰属性伤害。",
             "EN": "Deals massive Ice DMG to all targets."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Ice"
     },
     "200402307": {
         "Key": "Skill07",
@@ -14947,7 +15475,8 @@ var _monsterskill = {
             "CH": "对指定我方单体连续造成大量冰属性伤害。",
             "EN": "Continuously deals massive Ice DMG to a single target."
         },
-        "SP": 15.0
+        "SP": 15.0,
+        "Elem": "Ice"
     },
     "200402309": {
         "Key": "SkillP03",
@@ -15019,7 +15548,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成雷属性伤害。",
             "EN": "Deals Lightning DMG to a single target."
         },
-        "SP": 20.0
+        "SP": 20.0,
+        "Elem": "Elec"
     },
     "202401306": {
         "Key": "Skill06",
@@ -15031,7 +15561,8 @@ var _monsterskill = {
             "CH": "对我方全体造成风属性伤害。",
             "EN": "Deals Wind DMG to all targets."
         },
-        "SP": 15.0
+        "SP": 15.0,
+        "Elem": "Wind"
     },
     "202401307": {
         "Key": "Skill07",
@@ -15055,7 +15586,8 @@ var _monsterskill = {
             "CH": "当场上存在2个【嘉实】时立即施放该技能，对我方全体造成雷属性伤害。场上【建木枝梢（幻象）】数量越多，造成的伤害越高。施放技能后，清除场上所有的【嘉实之杪（幻象）】。",
             "EN": "Uses this ability immediately when there are 2 Lavish Fruits on the field. Deals Lightning DMG to all targets. Deals more DMG for every Ambrosial Arbor Branch (Illusion) on the field. After the ability is used, removes all Twigs of Lavish Fruits (Illusion) on the field."
         },
-        "SP": 20.0
+        "SP": 20.0,
+        "Elem": "Elec"
     },
     "202401309": {
         "Key": "Skill09",
@@ -15072,7 +15604,7 @@ var _monsterskill = {
     "202401310": {
         "Key": "Skill10",
         "Name": {
-            "CH": "衔枝 • 芳芷",
+            "CH": "衔枝 · 芳芷",
             "EN": "Pedicel: Fragrant Verdure"
         },
         "Desc": {
@@ -15084,7 +15616,7 @@ var _monsterskill = {
     "202401311": {
         "Key": "Skill11",
         "Name": {
-            "CH": "衔枝 • 荫泽",
+            "CH": "衔枝 · 荫泽",
             "EN": "Pedicel: Exuberant Shade"
         },
         "Desc": {
@@ -15163,7 +15695,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成少量冰属性伤害。",
             "EN": "Deals minor Ice DMG to a single target."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Ice"
     },
     "100402502": {
         "Key": "Skill02",
@@ -15175,7 +15708,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成冰属性伤害。",
             "EN": "Deals Ice DMG to a single target."
         },
-        "SP": 15.0
+        "SP": 15.0,
+        "Elem": "Ice"
     },
     "100402503": {
         "Key": "Skill03",
@@ -15199,7 +15733,8 @@ var _monsterskill = {
             "CH": "对我方全体造成冰属性伤害。",
             "EN": "Deals Ice DMG to all targets."
         },
-        "SP": 15.0
+        "SP": 15.0,
+        "Elem": "Ice"
     },
     "100402513": {
         "Key": "Skill04Insert",
@@ -15211,7 +15746,8 @@ var _monsterskill = {
             "CH": "对我方全体造成冰属性伤害。",
             "EN": "Deals Ice DMG to all targets."
         },
-        "SP": 15.0
+        "SP": 15.0,
+        "Elem": "Ice"
     },
     "100402505": {
         "Key": "Skill05",
@@ -15235,7 +15771,8 @@ var _monsterskill = {
             "CH": "",
             "EN": ""
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Ice"
     },
     "100402507": {
         "Key": "Skill08",
@@ -15247,7 +15784,8 @@ var _monsterskill = {
             "CH": "",
             "EN": ""
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Ice"
     },
     "100402508": {
         "Key": "Skill12",
@@ -15271,7 +15809,8 @@ var _monsterskill = {
             "CH": "当杰帕德的回合开始时，小幅提高自身的速度和攻击力，此效果可叠加。该效果在杰帕德的弱点被击破时会被清除。",
             "EN": "Slightly increases Gepard's DEF and ATK at the start of Gepard's turn. This effect is stackable, but is dispelled when Gepard's Weakness is broken."
         },
-        "SP": 15.0
+        "SP": 15.0,
+        "Elem": "Wind"
     },
     "100402510": {
         "Key": "SkillP01",
@@ -15283,7 +15822,8 @@ var _monsterskill = {
             "CH": "当布洛妮娅陷入无法战斗的状态时，将立即行动，进入强化状态，提高自身的速度。此状态下，【极寒瀑流】将有小概率使受到攻击的我方目标陷入冻结状态。",
             "EN": "When Bronya is downed, Gepard immediately takes action again and becomes Enhanced, increasing his SPD. When in this state, Frigid Waterfall has a slight chance to Freeze the attacked target."
         },
-        "SP": 15.0
+        "SP": 15.0,
+        "Elem": "Wind"
     },
     "100402511": {
         "Key": "SkillP02",
@@ -15295,7 +15835,8 @@ var _monsterskill = {
             "CH": "杰帕德和布洛妮娅会轮流进入主攻状态和辅助状态。当处于主攻状态时，自身会解除韧性保护并正常行动。当处于辅助状态时，降低自身的速度，获得韧性保护并仅施放【围攻打援】。",
             "EN": "Gepard and Bronya take turns switching between the Main Attacker and Support state. When in the Main Attacker state, their Toughness Protection is removed and they take normal actions. When in Support state, their SPD is reduced, they gain Toughness Protection, and they can only use Siege Support."
         },
-        "SP": 15.0
+        "SP": 15.0,
+        "Elem": "Wind"
     },
     "100402512": {
         "Key": "SkillP03",
@@ -15319,7 +15860,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成风属性伤害。",
             "EN": "Deals Wind DMG to a single target."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Wind"
     },
     "100403202": {
         "Key": "Skill02",
@@ -15355,7 +15897,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成风属性伤害，并使受到攻击的我方目标行动延后。",
             "EN": "Deals Wind DMG to a single target and delays their action."
         },
-        "SP": 15.0
+        "SP": 15.0,
+        "Elem": "Wind"
     },
     "100403205": {
         "Key": "Skill05",
@@ -15379,7 +15922,8 @@ var _monsterskill = {
             "CH": "当布洛妮娅的回合开始时，小幅提高自身的速度和攻击力，此效果可叠加。该效果在布洛妮娅被击破时会被清除。",
             "EN": "Slightly increases Bronya's SPD and ATK at the start of her turn. This effect is stackable, but is dispelled when Bronya's Weakness is broken."
         },
-        "SP": 15.0
+        "SP": 15.0,
+        "Elem": "Wind"
     },
     "100403207": {
         "Key": "SkillP01",
@@ -15391,7 +15935,8 @@ var _monsterskill = {
             "CH": "当杰帕德陷入无法战斗的状态时，将立即行动，进入强化状态，提高自身的速度。此状态下，布洛妮娅将会召唤更多的【银鬃炮手】。",
             "EN": "When Gepard is downed, Bronya immediately takes action again and becomes Enhanced, increasing her SPD. When in this state, Bronya will summon even more Silvermane Cannoneers."
         },
-        "SP": 15.0
+        "SP": 15.0,
+        "Elem": "Wind"
     },
     "100403208": {
         "Key": "SkillP02",
@@ -15403,7 +15948,8 @@ var _monsterskill = {
             "CH": "杰帕德和布洛妮娅会轮流进入主攻状态和辅助状态。当处于主攻状态时，自身会解除韧性保护并正常行动。当处于辅助状态时，降低自身的速度，获得韧性保护并仅施放【增援协同】或【作战再部署】。",
             "EN": "Gepard and Bronya take turns switching between the Main Attacker and Support state. When in the Main Attacker state, their Toughness Protection is removed and they take normal actions. When in Support state, their SPD is reduced, they gain Toughness Protection, and they can only use Coordinated Reinforcement and Combat Redeployment."
         },
-        "SP": 15.0
+        "SP": 15.0,
+        "Elem": "Wind"
     },
     "100403209": {
         "Key": "SkillP03",
@@ -15427,7 +15973,8 @@ var _monsterskill = {
             "CH": "",
             "EN": ""
         },
-        "SP": 15.0
+        "SP": 15.0,
+        "Elem": "Quantum"
     },
     "900311002": {
         "Key": "Skill02",
@@ -15439,7 +15986,8 @@ var _monsterskill = {
             "CH": "",
             "EN": ""
         },
-        "SP": 15.0
+        "SP": 15.0,
+        "Elem": "Quantum"
     },
     "900311003": {
         "Key": "Skill03",
@@ -15511,7 +16059,8 @@ var _monsterskill = {
             "CH": "消耗所有充能。对我方全体造成伤害，并有大概率使受到攻击的我方目标陷入【深寒】状态。",
             "EN": "Consumes all Charges. Deals DMG to all targets, with a high chance to Deep Freeze the targets."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Ice"
     },
     "700306003": {
         "Key": "Skill03",
@@ -15535,7 +16084,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成物理属性伤害。",
             "EN": "Deals Physical DMG to a single target."
         },
-        "SP": 15.0
+        "SP": 15.0,
+        "Elem": "Phys"
     },
     "302401202": {
         "Key": "Skill02",
@@ -15547,7 +16097,8 @@ var _monsterskill = {
             "CH": "对指定我方单体及其相邻目标造成物理属性伤害。",
             "EN": "Deals Physical DMG to a single target and units adjacent to the target."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Phys"
     },
     "302401203": {
         "Key": "Skill03",
@@ -15583,7 +16134,8 @@ var _monsterskill = {
             "CH": "对我方全体造成物理属性伤害。",
             "EN": "Deals Physical DMG to all targets."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Phys"
     },
     "302401207": {
         "Key": "Skill07",
@@ -15608,6 +16160,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target. If the target is afflicted with Strong Reverberation, they take additional <2> Physical DMG, and Strong Reverberation is then dispelled."
         },
         "SP": 20.0,
+        "Elem": "Phys",
         "Status": [
             220020302
         ],
@@ -15627,6 +16180,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target. If the target is afflicted with Strong Reverberation, they take additional <2> Physical DMG, and Strong Reverberation is then dispelled."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "Status": [
             220020302
         ],
@@ -15646,6 +16200,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target. If the target is suffering from Strong Reverberation, they take additional <2> Physical DMG, and Strong Reverberation is then dispelled."
         },
         "SP": 20.0,
+        "Elem": "Phys",
         "Status": [
             220020302
         ],
@@ -15665,6 +16220,7 @@ var _monsterskill = {
             "EN": "Deals <1> Physical DMG to a single target. If the target is afflicted with Strong Reverberation, they take additional <2> Physical DMG, and Strong Reverberation is then dispelled."
         },
         "SP": 10.0,
+        "Elem": "Phys",
         "Status": [
             220020302
         ],
@@ -15683,7 +16239,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成少量物理属性伤害。",
             "EN": "Deals minor Physical DMG to a single target."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Phys"
     },
     "803301203": {
         "Key": "Skill02",
@@ -15707,7 +16264,8 @@ var _monsterskill = {
             "CH": "对我方全体造成物理属性伤害。",
             "EN": "Deals Physical DMG to all targets."
         },
-        "SP": 20.0
+        "SP": 20.0,
+        "Elem": "Phys"
     },
     "803301205": {
         "Key": "Skill04",
@@ -15716,7 +16274,7 @@ var _monsterskill = {
             "EN": "720-Degree Review"
         },
         "Desc": {
-            "CH": "夺取所有【基层员工•外勤】和【基层员工•安保】的【绩效点】。",
+            "CH": "夺取所有【基层员工 · 外勤】和【基层员工 · 安保】的【绩效点】。",
             "EN": "Seizes all Performance Points from all Grunt: Field Personnel and Grunt: Security Personnel."
         },
         "SP": 0
@@ -15728,7 +16286,7 @@ var _monsterskill = {
             "EN": "Team Building"
         },
         "Desc": {
-            "CH": "召唤【基层员工•外勤】或【基层员工•安保】，并使所有【基层员工•外勤】和【基层员工•安保】获得1个【绩效点】。",
+            "CH": "召唤【基层员工 · 外勤】或【基层员工 · 安保】，并使所有【基层员工 · 外勤】和【基层员工 · 安保】获得1个【绩效点】。",
             "EN": "Summons Grunt: Field Personnel or Grunt: Security Personnel, then cause all Grunts: Field Personnel and Grunts: Security Personnel to acquire 1 Performance Point."
         },
         "SP": 0
@@ -15743,7 +16301,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成物理属性伤害。",
             "EN": "Deals Physical DMG to a single target."
         },
-        "SP": 15.0
+        "SP": 15.0,
+        "Elem": "Phys"
     },
     "803301207": {
         "Key": "PassiveSkillInitiate",
@@ -15779,7 +16338,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成冰属性伤害。",
             "EN": "Deals Ice DMG to a single target."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Ice"
     },
     "100501302": {
         "Key": "Skill10",
@@ -15803,7 +16363,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成大量冰属性伤害，并大概率使受到攻击的我方目标陷入冻结状态。该技能会对【无尽寒冬之槊（幻象）】锁定的目标追加释放。",
             "EN": "Deals massive Ice DMG to a single target, with a high chance to Freeze the target. This ability will be additionally released on targets locked-on by Lance of the Eternal Freeze (Illusion)."
         },
-        "SP": 15.0
+        "SP": 15.0,
+        "Elem": "Ice"
     },
     "100501304": {
         "Key": "Skill04",
@@ -15815,7 +16376,8 @@ var _monsterskill = {
             "CH": "",
             "EN": ""
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Ice"
     },
     "100501305": {
         "Key": "Skill02",
@@ -15839,7 +16401,8 @@ var _monsterskill = {
             "CH": "转化为虚数属性，速度提高且攻击造成的伤害，解除韧性保护状态。",
             "EN": "Converts to Imaginary-Type, increases SPD and DMG, and removes the No Weakness State."
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Imaginary"
     },
     "100501307": {
         "Key": "Skill07",
@@ -15851,7 +16414,8 @@ var _monsterskill = {
             "CH": "对指定我方单体造成虚数属性伤害，并大概率使受到攻击的我方目标陷入禁锢状态。该技能会对【无尽寒冬之槊（幻象）】锁定的目标追加释放。",
             "EN": "Deals Imaginary DMG to a single target, with a high chance to Imprison the target. This ability will be additionally released on targets locked-on by Lance of the Eternal Freeze (Illusion)."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Elem": "Imaginary"
     },
     "100501308": {
         "Key": "Skill08",
@@ -15875,7 +16439,8 @@ var _monsterskill = {
             "CH": "对我方全体造成大量虚数属性伤害。",
             "EN": "Deals massive Imaginary DMG to all targets."
         },
-        "SP": 20.0
+        "SP": 20.0,
+        "Elem": "Imaginary"
     },
     "100501310": {
         "Key": "SkillP02",
@@ -15887,7 +16452,8 @@ var _monsterskill = {
             "CH": "",
             "EN": ""
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Ice"
     },
     "100501311": {
         "Key": "SkillP01",
@@ -15911,7 +16477,8 @@ var _monsterskill = {
             "CH": "",
             "EN": ""
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Ice"
     },
     "200402310": {
         "Key": "Skill02_Extra",

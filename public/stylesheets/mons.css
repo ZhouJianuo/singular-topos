@@ -3,42 +3,64 @@
 }
 
 ::-webkit-scrollbar-thumb:vertical {
-    background-color: #dddddd;
+    background-color: #aaaaaa;
     border-radius: 4px;
 }
 
-schedule {
-    width: calc((100% - 80px) / 6);
+popdialog {
+    height: 100%;
+}
+
+.content schedule {
+    width: calc((100% - 80px) / 2);
+    font-size: 14px;
 }
 
 .mon_head schedule {
     width: calc((100% - 150px) / 3);
 }
 
-.mon_body schedule {
+.skill_phase schedule {
     width: calc((100% - 150px) / 4);
 }
 
+.skill_phase {
+    width: 100%;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 15px 0px;
+    margin: 0px;
+}
+
 .monicon {
-    height: 53px;
+    height: 45px;
     vertical-align: middle;
 }
 
 .monelem {
     vertical-align: middle;
     height: 22px;
-    margin: 5px;
+    padding-right: 6px;
 }
 
 .monname {
     vertical-align: middle;
-    padding-left: 8px;
+    padding-left: 6px;
+    font-size: 14px;
+    white-space: nowrap;
+}
+
+.monname_ {
+    vertical-align: middle;
+    padding-left: 4px;
+    font-size: 14px;
+    white-space: nowrap;
 }
 
 .monster_card_area {
     display: flex;
     flex-wrap: wrap;
-    padding: 24px;
+    padding: 15px 24px 24px 24px;
 }
 
 .monster_card {
@@ -47,13 +69,15 @@ schedule {
     border: 1px solid black;
     border-radius: 5px;
     cursor: pointer;
-    height: 56px;
+    height: 48px;
     display: flex;
     flex-wrap: wrap;
+    overflow: hidden;
 }
 
 .monright {
     line-height: 1.5;
+    max-width: calc(100% - 65px);
 }
 
 .mon_head {
@@ -64,6 +88,7 @@ schedule {
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
+    width: 100%;
 }
 
 .a_section, .a_section_small, .a_section_smallsmall, .a_section_small_1, .a_section_small_2 {
@@ -125,15 +150,85 @@ schedule {
     background-color: #ffffff;
 }
 
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.DMG_input {
+    padding: 15px;
+}
+
+.DMG_Tut {
+    padding: 15px;
+    max-width: 90%;
+}
+
+.DMG_input p {
+    margin-top: 0px;
+    text-align: center;
+}
+
+.DMG_input input {
+    width: 100px;
+    height: 30px;
+    border-radius: 3px;
+    border: 1px solid;
+    font-size: 16px;
+    text-align: center;
+}
+
+.DMG_input button {
+    height: 40px;
+    width: 100px;
+    color: #fff;
+    background-color: rgb(37, 69, 186);
+    font-size: 15px;
+    border-radius: 0px;
+    top: 12px;
+    position: relative;
+    cursor: pointer;
+}
+
 @media screen and (min-width: 500px) and (max-width: 800px) {
     .a_section_content { font-size: 16px; }
     .a_section_content span { font-size: 16px; }
     .a_section_content input { font-size: 16px; }
     .a_section_head input { font-size: 16px; }
     .a_section_head, .a_section_head span { font-size: 19px; }
+    .content schedule {
+        width: calc((100% - 160px) / 4);
+        font-size: 15px;
+    }
+    .monicon {
+        height: 49px;
+    }
+    .monname {
+        padding-left: 7px;
+        font-size: 15px
+    }
+    .monname_ {
+        padding-left: 5px;
+        font-size: 15px
+    }
+    .monster_card {
+        height: 52px;
+    }
+    .monright {
+        max-width: calc(100% - 71px);
+    }
 }
 
 @media screen and (min-width: 800px) {
+    .content schedule {
+        width: calc((100% - 80px) / 6);
+        font-size: 16px;
+    }    
     .a_section_small {width: 46%;}
     .a_section_smallsmall {width: 30%;}
     .a_section_small_1 {width: 36%;}
@@ -143,4 +238,21 @@ schedule {
     .a_section_content input { font-size: 17px; }
     .a_section_head input { font-size: 17px; }
     .a_section_head, .a_section_head span { font-size: 20px; }
+    .monicon {
+        height: 53px;
+    }
+    .monname {
+        padding-left: 8px;
+        font-size: 16px
+    }
+    .monname_ {
+        padding-left: 6px;
+        font-size: 16px
+    }
+    .monster_card {
+        height: 56px;
+    }
+    .monright {
+        max-width: calc(100% - 76px);
+    }
 }

@@ -70,8 +70,8 @@ var txt = {
     ],
     "SkillPhase": [
         {
-            "CH": "隐藏",
-            "EN": "Hidden"
+            "CH": "废弃/隐藏",
+            "EN": "Unused / Hidden"
         },
         {
             "CH": "阶段一",
@@ -85,7 +85,56 @@ var txt = {
             "CH": "阶段三",
             "EN": "Phase 3"
         },
-    ]
+    ],
+    "MonsterDMG": [
+        {
+            "CH": "敌方等级",
+            "EN": "Enemy Level"
+        },
+        {
+            "CH": "角色防御力",
+            "EN": "Character DEF"
+        },
+        {
+            "CH": "成长曲线",
+            "EN": "Growth Curve"
+        },
+        {
+            "CH": "精英组别",
+            "EN": "Elite Group"
+        },
+    ],
+    "MonsterDMG_CTRL": [
+        {
+            "CH": "计算",
+            "EN": "Calculate"
+        },
+        {
+            "CH": "重置",
+            "EN": "Reset"
+        },
+    ],
+    "MonsterDEF": [
+        {
+            "CH": "星穹铁道 · 防御力伤害乘区",
+            "EN": "Star Rail - DEF Damage Multiplier"
+        },
+        {
+            "CH": "原神 · 防御力伤害乘区",
+            "EN": "Genshin - DEF Damage Multiplier"
+        },
+    ],
+}
+
+var elemcolor = {
+    "None": "ffffff",
+    "Phys": "ffffff",
+    "Elec": "ffacff",
+    "Fire": "ff8877",
+    "Ice": "8addff",
+    "Wind": "97ffb7",
+    "Quantum": "6e8de7",
+    "Imaginary": "ffe779",
 }
 
 var links = [

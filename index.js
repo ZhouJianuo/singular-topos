@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 const router = express.Router();
-var path = require ('path');
+var path = require('path');
 
 app.set('view engine', 'pug');
 app.set('views', path.join(__dirname, 'views'));
@@ -18,26 +18,28 @@ app.get('/en', (req, res) => {
     });
 });
 
-app.get('/mons', async(req, res) => {
+app.get('/mons', async (req, res) => {
     let result = {};
-    let {lang=''} = req.query;
+    let { monster = '', level = '', lang = '' } = req.query;
     result.lang = lang;
+    result.monster = monster;
+    result.level = level;
     result.title = 'HomDGCat Database';
     res.render('mons', result);
 });
 
-app.get('/chaos', async(req, res) => {
+app.get('/chaos', async (req, res) => {
     let result = {};
-    let {lang=''} = req.query;
+    let { lang = '' } = req.query;
     result.lang = lang;
     result.title = 'HomDGCat Database';
     res.render('chaos', result);
 });
 
 
-app.get('/fiction', async(req, res) => {
+app.get('/fiction', async (req, res) => {
     let result = {};
-    let {lang=''} = req.query;
+    let { lang = '' } = req.query;
     result.lang = lang;
     result.title = 'HomDGCat Database';
     res.render('fiction', result);

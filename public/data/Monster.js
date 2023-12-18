@@ -6499,7 +6499,7 @@ var _monster = [
         "_id": 1012010,
         "Key": "Monster_W1_Mecha02_00_Config",
         "Name": {
-            "CH": "自动机兵•战犬",
+            "CH": "自动机兵 · 战犬",
             "EN": "Automaton Hound"
         },
         "Desc": {
@@ -6541,7 +6541,7 @@ var _monster = [
         "_id": 101201001,
         "Key": "Monster_W1_Mecha02_00_Config",
         "Name": {
-            "CH": "自动机兵•战犬",
+            "CH": "自动机兵 · 战犬",
             "EN": "Automaton Hound"
         },
         "Desc": {
@@ -6583,7 +6583,7 @@ var _monster = [
         "_id": 101201002,
         "Key": "Monster_W1_Mecha02_00_Config",
         "Name": {
-            "CH": "自动机兵•战犬",
+            "CH": "自动机兵 · 战犬",
             "EN": "Automaton Hound"
         },
         "Desc": {
@@ -6625,7 +6625,7 @@ var _monster = [
         "_id": 101201003,
         "Key": "Monster_W1_Mecha02_00_Config",
         "Name": {
-            "CH": "自动机兵•战犬",
+            "CH": "自动机兵 · 战犬",
             "EN": "Automaton Hound"
         },
         "Desc": {
@@ -6668,7 +6668,7 @@ var _monster = [
         "_id": 101201004,
         "Key": "Monster_W1_Mecha02_00_Config",
         "Name": {
-            "CH": "自动机兵•战犬",
+            "CH": "自动机兵 · 战犬",
             "EN": "Automaton Hound"
         },
         "Desc": {
@@ -6710,7 +6710,7 @@ var _monster = [
         "_id": 101201005,
         "Key": "Monster_W1_Mecha02_00_Config",
         "Name": {
-            "CH": "自动机兵•战犬",
+            "CH": "自动机兵 · 战犬",
             "EN": "Automaton Hound"
         },
         "Desc": {
@@ -6752,7 +6752,7 @@ var _monster = [
         "_id": 101201006,
         "Key": "Monster_W1_Mecha02_00_Config",
         "Name": {
-            "CH": "自动机兵•战犬",
+            "CH": "自动机兵 · 战犬",
             "EN": "Automaton Hound"
         },
         "Desc": {
@@ -6794,7 +6794,7 @@ var _monster = [
         "_id": 101201007,
         "Key": "Monster_W1_Mecha02_00_Config",
         "Name": {
-            "CH": "自动机兵•战犬",
+            "CH": "自动机兵 · 战犬",
             "EN": "Automaton Hound"
         },
         "Desc": {
@@ -6878,7 +6878,7 @@ var _monster = [
         "_id": 101201009,
         "Key": "Monster_W1_Mecha02_00_Config",
         "Name": {
-            "CH": "自动机兵•战犬",
+            "CH": "自动机兵 · 战犬",
             "EN": "Automaton Hound"
         },
         "Desc": {
@@ -6920,7 +6920,7 @@ var _monster = [
         "_id": 101201010,
         "Key": "Monster_W1_Mecha02_00_Config",
         "Name": {
-            "CH": "自动机兵•战犬",
+            "CH": "自动机兵 · 战犬",
             "EN": "Automaton Hound"
         },
         "Desc": {
@@ -6965,7 +6965,7 @@ var _monster = [
         "_id": 101201011,
         "Key": "Monster_W1_Mecha02_00_Config",
         "Name": {
-            "CH": "自动机兵•战犬",
+            "CH": "自动机兵 · 战犬",
             "EN": "Automaton Hound"
         },
         "Desc": {
@@ -7007,7 +7007,7 @@ var _monster = [
         "_id": 101201012,
         "Key": "Monster_W1_Mecha02_00_Config",
         "Name": {
-            "CH": "自动机兵•战犬",
+            "CH": "自动机兵 · 战犬",
             "EN": "Automaton Hound"
         },
         "Desc": {
@@ -7052,7 +7052,7 @@ var _monster = [
         "_id": 101201013,
         "Key": "Monster_W1_Mecha02_00_Config",
         "Name": {
-            "CH": "自动机兵•战犬",
+            "CH": "自动机兵 · 战犬",
             "EN": "Automaton Hound"
         },
         "Desc": {
@@ -7097,7 +7097,7 @@ var _monster = [
         "_id": 101201014,
         "Key": "Monster_W1_Mecha02_00_Config",
         "Name": {
-            "CH": "自动机兵•战犬",
+            "CH": "自动机兵 · 战犬",
             "EN": "Automaton Hound"
         },
         "Desc": {
@@ -7142,7 +7142,7 @@ var _monster = [
         "_id": 101201015,
         "Key": "Monster_W1_Mecha02_00_Config",
         "Name": {
-            "CH": "自动机兵•战犬",
+            "CH": "自动机兵 · 战犬",
             "EN": "Automaton Hound"
         },
         "Desc": {
@@ -7184,7 +7184,7 @@ var _monster = [
         "_id": 101201016,
         "Key": "Monster_W1_Mecha02_00_Config",
         "Name": {
-            "CH": "自动机兵•战犬",
+            "CH": "自动机兵 · 战犬",
             "EN": "Automaton Hound"
         },
         "Desc": {
@@ -7226,7 +7226,7 @@ var _monster = [
         "_id": 1012011,
         "Key": "Monster_W1_Mecha02_00_Config",
         "Name": {
-            "CH": "自动机兵•战犬",
+            "CH": "自动机兵 · 战犬",
             "EN": "Automaton Hound"
         },
         "Desc": {
@@ -7273,7 +7273,7 @@ var _monster = [
         "_id": 1012020,
         "Key": "Monster_W1_Mecha01_00_Config",
         "Name": {
-            "CH": "自动机兵•蜘蛛",
+            "CH": "自动机兵 · 蜘蛛",
             "EN": "Automaton Spider"
         },
         "Desc": {
@@ -7479,7 +7479,7 @@ var _monster = [
         "_id": 1012021,
         "Key": "Monster_W1_Mecha01_00_Config",
         "Name": {
-            "CH": "自动机兵•蜘蛛",
+            "CH": "自动机兵 · 蜘蛛",
             "EN": "Automaton Spider"
         },
         "Desc": {
@@ -7528,7 +7528,7 @@ var _monster = [
         "_id": 101202101,
         "Key": "Monster_W1_Mecha01_00_Config",
         "Name": {
-            "CH": "自动机兵•蜘蛛",
+            "CH": "自动机兵 · 蜘蛛",
             "EN": "Automaton Spider"
         },
         "Desc": {
@@ -7577,7 +7577,7 @@ var _monster = [
         "_id": 101202102,
         "Key": "Monster_W1_Mecha01_00_Config",
         "Name": {
-            "CH": "「遥控支援系统•轻骑兵」",
+            "CH": "「遥控支援系统 · 轻骑兵」",
             "EN": "Remote Support System: Light Cavalry"
         },
         "Desc": {
@@ -7626,7 +7626,7 @@ var _monster = [
         "_id": 101202103,
         "Key": "Monster_W1_Mecha01_00_Config",
         "Name": {
-            "CH": "自动机兵•蜘蛛",
+            "CH": "自动机兵 · 蜘蛛",
             "EN": "Automaton Spider"
         },
         "Desc": {
@@ -7675,7 +7675,7 @@ var _monster = [
         "_id": 101202104,
         "Key": "Monster_W1_Mecha01_00_Config",
         "Name": {
-            "CH": "自动机兵•蜘蛛",
+            "CH": "自动机兵 · 蜘蛛",
             "EN": "Automaton Spider"
         },
         "Desc": {
@@ -7728,7 +7728,7 @@ var _monster = [
         "_id": 101202105,
         "Key": "Monster_W1_Mecha01_00_Config",
         "Name": {
-            "CH": "自动机兵•蜘蛛",
+            "CH": "自动机兵 · 蜘蛛",
             "EN": "Automaton Spider"
         },
         "Desc": {
@@ -7777,7 +7777,7 @@ var _monster = [
         "_id": 101202106,
         "Key": "Monster_W1_Mecha01_00_Config",
         "Name": {
-            "CH": "自动机兵•蜘蛛",
+            "CH": "自动机兵 · 蜘蛛",
             "EN": "Automaton Spider"
         },
         "Desc": {
@@ -7826,7 +7826,7 @@ var _monster = [
         "_id": 101202107,
         "Key": "Monster_W1_Mecha01_00_Config",
         "Name": {
-            "CH": "自动机兵•蜘蛛",
+            "CH": "自动机兵 · 蜘蛛",
             "EN": "Automaton Spider"
         },
         "Desc": {
@@ -7879,7 +7879,7 @@ var _monster = [
         "_id": 101202108,
         "Key": "Monster_W1_Mecha01_00_Config",
         "Name": {
-            "CH": "自动机兵•蜘蛛",
+            "CH": "自动机兵 · 蜘蛛",
             "EN": "Automaton Spider"
         },
         "Desc": {
@@ -7928,7 +7928,7 @@ var _monster = [
         "_id": 101202109,
         "Key": "Monster_W1_Mecha01_00_Config",
         "Name": {
-            "CH": "自动机兵•蜘蛛",
+            "CH": "自动机兵 · 蜘蛛",
             "EN": "Automaton Spider"
         },
         "Desc": {
@@ -7977,7 +7977,7 @@ var _monster = [
         "_id": 101202110,
         "Key": "Monster_W1_Mecha01_00_Config",
         "Name": {
-            "CH": "自动机兵•蜘蛛",
+            "CH": "自动机兵 · 蜘蛛",
             "EN": "Automaton Spider"
         },
         "Desc": {
@@ -8026,7 +8026,7 @@ var _monster = [
         "_id": 1012030,
         "Key": "Monster_W1_Mecha01_01_Config",
         "Name": {
-            "CH": "自动机兵•甲虫",
+            "CH": "自动机兵 · 甲虫",
             "EN": "Automaton Beetle"
         },
         "Desc": {
@@ -8067,7 +8067,7 @@ var _monster = [
         "_id": 101203001,
         "Key": "Monster_W1_Mecha01_01_Config",
         "Name": {
-            "CH": "自动机兵•甲虫",
+            "CH": "自动机兵 · 甲虫",
             "EN": "Automaton Beetle"
         },
         "Desc": {
@@ -8115,7 +8115,7 @@ var _monster = [
         "_id": 101203002,
         "Key": "Monster_W1_Mecha01_01_Config",
         "Name": {
-            "CH": "自动机兵•甲虫",
+            "CH": "自动机兵 · 甲虫",
             "EN": "Automaton Beetle"
         },
         "Desc": {
@@ -8164,7 +8164,7 @@ var _monster = [
         "_id": 101203003,
         "Key": "Monster_W1_Mecha01_01_Config",
         "Name": {
-            "CH": "「哔•咔•啾」",
+            "CH": "「哔 · 咔 · 啾」",
             "EN": "Beet-Ka-Choo"
         },
         "Desc": {
@@ -8249,7 +8249,7 @@ var _monster = [
         "_id": 101203005,
         "Key": "Monster_W1_Mecha01_01_Config",
         "Name": {
-            "CH": "自动机兵•甲虫",
+            "CH": "自动机兵 · 甲虫",
             "EN": "Automaton Beetle"
         },
         "Desc": {
@@ -8290,7 +8290,7 @@ var _monster = [
         "_id": 101203006,
         "Key": "Monster_W1_Mecha01_01_Config",
         "Name": {
-            "CH": "自动机兵•甲虫",
+            "CH": "自动机兵 · 甲虫",
             "EN": "Automaton Beetle"
         },
         "Desc": {
@@ -8331,7 +8331,7 @@ var _monster = [
         "_id": 101203007,
         "Key": "Monster_W1_Mecha01_01_Config",
         "Name": {
-            "CH": "自动机兵•甲虫",
+            "CH": "自动机兵 · 甲虫",
             "EN": "Automaton Beetle"
         },
         "Desc": {
@@ -8372,7 +8372,7 @@ var _monster = [
         "_id": 101203008,
         "Key": "Monster_W1_Mecha01_01_Config",
         "Name": {
-            "CH": "自动机兵•甲虫",
+            "CH": "自动机兵 · 甲虫",
             "EN": "Automaton Beetle"
         },
         "Desc": {
@@ -8413,7 +8413,7 @@ var _monster = [
         "_id": 101203009,
         "Key": "Monster_W1_Mecha01_01_Config",
         "Name": {
-            "CH": "自动机兵•甲虫",
+            "CH": "自动机兵 · 甲虫",
             "EN": "Automaton Beetle"
         },
         "Desc": {
@@ -8454,7 +8454,7 @@ var _monster = [
         "_id": 101203010,
         "Key": "Monster_W1_Mecha01_01_Config",
         "Name": {
-            "CH": "自动机兵•甲虫",
+            "CH": "自动机兵 · 甲虫",
             "EN": "Automaton Beetle"
         },
         "Desc": {
@@ -8495,7 +8495,7 @@ var _monster = [
         "_id": 101203011,
         "Key": "Monster_W1_Mecha01_01_Config",
         "Name": {
-            "CH": "自动机兵•甲虫",
+            "CH": "自动机兵 · 甲虫",
             "EN": "Automaton Beetle"
         },
         "Desc": {
@@ -8577,7 +8577,7 @@ var _monster = [
         "_id": 101203013,
         "Key": "Monster_W1_Mecha01_01_Config",
         "Name": {
-            "CH": "自动机兵•甲虫",
+            "CH": "自动机兵 · 甲虫",
             "EN": "Automaton Beetle"
         },
         "Desc": {
@@ -8618,7 +8618,7 @@ var _monster = [
         "_id": 101203014,
         "Key": "Monster_W1_Mecha01_01_Config",
         "Name": {
-            "CH": "自动机兵•甲虫",
+            "CH": "自动机兵 · 甲虫",
             "EN": "Automaton Beetle"
         },
         "Desc": {
@@ -8828,7 +8828,7 @@ var _monster = [
         "_id": 1013010,
         "Key": "Monster_W1_Mecha03_00_Config",
         "Name": {
-            "CH": "自动机兵•灰熊",
+            "CH": "自动机兵 · 灰熊",
             "EN": "Automaton Grizzly"
         },
         "Desc": {
@@ -8879,7 +8879,7 @@ var _monster = [
         "_id": 101301001,
         "Key": "Monster_W1_Mecha03_00_Config",
         "Name": {
-            "CH": "自动机兵•灰熊",
+            "CH": "自动机兵 · 灰熊",
             "EN": "Automaton Grizzly"
         },
         "Desc": {
@@ -8940,7 +8940,7 @@ var _monster = [
         "_id": 101301002,
         "Key": "Monster_W1_Mecha03_00_Config",
         "Name": {
-            "CH": "自动机兵•灰熊",
+            "CH": "自动机兵 · 灰熊",
             "EN": "Automaton Grizzly"
         },
         "Desc": {
@@ -8994,7 +8994,7 @@ var _monster = [
         "_id": 101301003,
         "Key": "Monster_W1_Mecha03_00_Config",
         "Name": {
-            "CH": "自动机兵•灰熊",
+            "CH": "自动机兵 · 灰熊",
             "EN": "Automaton Grizzly"
         },
         "Desc": {
@@ -9045,7 +9045,7 @@ var _monster = [
         "_id": 101301004,
         "Key": "Monster_W1_Mecha03_00_Config",
         "Name": {
-            "CH": "自动机兵•灰熊",
+            "CH": "自动机兵 · 灰熊",
             "EN": "Automaton Grizzly"
         },
         "Desc": {
@@ -9157,7 +9157,7 @@ var _monster = [
         "_id": 101301006,
         "Key": "Monster_W1_Mecha03_00_Config",
         "Name": {
-            "CH": "自动机兵•灰熊",
+            "CH": "自动机兵 · 灰熊",
             "EN": "Automaton Grizzly"
         },
         "Desc": {
@@ -9208,7 +9208,7 @@ var _monster = [
         "_id": 101301007,
         "Key": "Monster_W1_Mecha03_00_Config",
         "Name": {
-            "CH": "自动机兵•灰熊",
+            "CH": "自动机兵 · 灰熊",
             "EN": "Automaton Grizzly"
         },
         "Desc": {
@@ -9259,7 +9259,7 @@ var _monster = [
         "_id": 101301008,
         "Key": "Monster_W1_Mecha03_00_Config",
         "Name": {
-            "CH": "自动机兵•灰熊",
+            "CH": "自动机兵 · 灰熊",
             "EN": "Automaton Grizzly"
         },
         "Desc": {
@@ -9310,7 +9310,7 @@ var _monster = [
         "_id": 101301009,
         "Key": "Monster_W1_Mecha03_00_Config",
         "Name": {
-            "CH": "自动机兵•灰熊",
+            "CH": "自动机兵 · 灰熊",
             "EN": "Automaton Grizzly"
         },
         "Desc": {
@@ -9364,7 +9364,7 @@ var _monster = [
         "_id": 101301010,
         "Key": "Monster_W1_Mecha03_00_Config",
         "Name": {
-            "CH": "自动机兵•灰熊",
+            "CH": "自动机兵 · 灰熊",
             "EN": "Automaton Grizzly"
         },
         "Desc": {
@@ -9418,7 +9418,7 @@ var _monster = [
         "_id": 101301011,
         "Key": "Monster_W1_Mecha03_00_Config",
         "Name": {
-            "CH": "自动机兵•灰熊",
+            "CH": "自动机兵 · 灰熊",
             "EN": "Automaton Grizzly"
         },
         "Desc": {
@@ -9469,7 +9469,7 @@ var _monster = [
         "_id": 101301012,
         "Key": "Monster_W1_Mecha03_00_Config",
         "Name": {
-            "CH": "自动机兵•灰熊",
+            "CH": "自动机兵 · 灰熊",
             "EN": "Automaton Grizzly"
         },
         "Desc": {
@@ -9520,7 +9520,7 @@ var _monster = [
         "_id": 101301013,
         "Key": "Monster_W1_Mecha03_00_Config",
         "Name": {
-            "CH": "自动机兵•灰熊",
+            "CH": "自动机兵 · 灰熊",
             "EN": "Automaton Grizzly"
         },
         "Desc": {
@@ -9574,7 +9574,7 @@ var _monster = [
         "_id": 101301014,
         "Key": "Monster_W1_Mecha03_00_Config",
         "Name": {
-            "CH": "自动机兵•灰熊",
+            "CH": "自动机兵 · 灰熊",
             "EN": "Automaton Grizzly"
         },
         "Desc": {
@@ -9625,7 +9625,7 @@ var _monster = [
         "_id": 101301015,
         "Key": "Monster_W1_Mecha03_00_Config",
         "Name": {
-            "CH": "自动机兵•灰熊",
+            "CH": "自动机兵 · 灰熊",
             "EN": "Automaton Grizzly"
         },
         "Desc": {
@@ -9679,7 +9679,7 @@ var _monster = [
         "_id": 101301016,
         "Key": "Monster_W1_Mecha03_00_Config",
         "Name": {
-            "CH": "自动机兵•灰熊",
+            "CH": "自动机兵 · 灰熊",
             "EN": "Automaton Grizzly"
         },
         "Desc": {
@@ -9733,7 +9733,7 @@ var _monster = [
         "_id": 101301017,
         "Key": "Monster_W1_Mecha03_00_Config",
         "Name": {
-            "CH": "自动机兵•灰熊",
+            "CH": "自动机兵 · 灰熊",
             "EN": "Automaton Grizzly"
         },
         "Desc": {
@@ -9787,7 +9787,7 @@ var _monster = [
         "_id": 101301018,
         "Key": "Monster_W1_Mecha03_00_Config",
         "Name": {
-            "CH": "自动机兵•灰熊",
+            "CH": "自动机兵 · 灰熊",
             "EN": "Automaton Grizzly"
         },
         "Desc": {
@@ -9838,7 +9838,7 @@ var _monster = [
         "_id": 1013011,
         "Key": "Monster_W1_Mecha03_00_Config",
         "Name": {
-            "CH": "自动机兵•灰熊（错误）",
+            "CH": "自动机兵 · 灰熊（错误）",
             "EN": "Automaton Grizzly (Bug)"
         },
         "Desc": {
@@ -9889,7 +9889,7 @@ var _monster = [
         "_id": 1013012,
         "Key": "Monster_W1_Mecha03_00_Config_RL",
         "Name": {
-            "CH": "自动机兵•灰熊（完整）",
+            "CH": "自动机兵 · 灰熊（完整）",
             "EN": "Automaton Grizzly (Complete)"
         },
         "Desc": {
@@ -9967,7 +9967,7 @@ var _monster = [
         "_id": 1013013,
         "Key": "Monster_W1_Mecha03_00_Config_RL_A",
         "Name": {
-            "CH": "自动机兵•灰熊（完整）",
+            "CH": "自动机兵 · 灰熊（完整）",
             "EN": "Automaton Grizzly (Complete)"
         },
         "Desc": {
@@ -10036,7 +10036,7 @@ var _monster = [
         "_id": 1013014,
         "Key": "Monster_W1_Mecha03_00_Config_RL",
         "Name": {
-            "CH": "自动机兵•灰熊（完整）",
+            "CH": "自动机兵 · 灰熊（完整）",
             "EN": "Automaton Grizzly (Complete)"
         },
         "Desc": {
@@ -10115,7 +10115,7 @@ var _monster = [
         "_id": 1013020,
         "Key": "Monster_W1_Mecha04_00_Config",
         "Name": {
-            "CH": "自动机兵•齿狼",
+            "CH": "自动机兵 · 齿狼",
             "EN": "Automaton Direwolf"
         },
         "Desc": {
@@ -10159,7 +10159,7 @@ var _monster = [
         "_id": 101302001,
         "Key": "Monster_W1_Mecha04_00_Config",
         "Name": {
-            "CH": "自动机兵•齿狼",
+            "CH": "自动机兵 · 齿狼",
             "EN": "Automaton Direwolf"
         },
         "Desc": {
@@ -10206,7 +10206,7 @@ var _monster = [
         "_id": 101302002,
         "Key": "Monster_W1_Mecha04_00_Config",
         "Name": {
-            "CH": "自动机兵•齿狼",
+            "CH": "自动机兵 · 齿狼",
             "EN": "Automaton Direwolf"
         },
         "Desc": {
@@ -10302,7 +10302,7 @@ var _monster = [
         "_id": 101302004,
         "Key": "Monster_W1_Mecha04_00_Config",
         "Name": {
-            "CH": "「遥控支援系统•龙骑兵」",
+            "CH": "「遥控支援系统 · 龙骑兵」",
             "EN": "Remote Support System: Dragon Rider"
         },
         "Desc": {
@@ -10390,7 +10390,7 @@ var _monster = [
         "_id": 101302006,
         "Key": "Monster_W1_Mecha04_00_Config",
         "Name": {
-            "CH": "自动机兵•齿狼",
+            "CH": "自动机兵 · 齿狼",
             "EN": "Automaton Direwolf"
         },
         "Desc": {
@@ -10437,7 +10437,7 @@ var _monster = [
         "_id": 101302007,
         "Key": "Monster_W1_Mecha04_00_Config",
         "Name": {
-            "CH": "自动机兵•齿狼",
+            "CH": "自动机兵 · 齿狼",
             "EN": "Automaton Direwolf"
         },
         "Desc": {
@@ -10485,7 +10485,7 @@ var _monster = [
         "_id": 101302008,
         "Key": "Monster_W1_Mecha04_00_Config",
         "Name": {
-            "CH": "自动机兵•齿狼",
+            "CH": "自动机兵 · 齿狼",
             "EN": "Automaton Direwolf"
         },
         "Desc": {
@@ -10532,7 +10532,7 @@ var _monster = [
         "_id": 101302009,
         "Key": "Monster_W1_Mecha04_00_Config",
         "Name": {
-            "CH": "自动机兵•齿狼",
+            "CH": "自动机兵 · 齿狼",
             "EN": "Automaton Direwolf"
         },
         "Desc": {
@@ -10586,7 +10586,7 @@ var _monster = [
         "_id": 101302010,
         "Key": "Monster_W1_Mecha04_00_Config",
         "Name": {
-            "CH": "自动机兵•齿狼",
+            "CH": "自动机兵 · 齿狼",
             "EN": "Automaton Direwolf"
         },
         "Desc": {
@@ -10630,7 +10630,7 @@ var _monster = [
         "_id": 101302011,
         "Key": "Monster_W1_Mecha04_00_Config",
         "Name": {
-            "CH": "自动机兵•齿狼",
+            "CH": "自动机兵 · 齿狼",
             "EN": "Automaton Direwolf"
         },
         "Desc": {
@@ -10674,7 +10674,7 @@ var _monster = [
         "_id": 101302012,
         "Key": "Monster_W1_Mecha04_00_Config",
         "Name": {
-            "CH": "自动机兵•齿狼",
+            "CH": "自动机兵 · 齿狼",
             "EN": "Automaton Direwolf"
         },
         "Desc": {
@@ -10718,7 +10718,7 @@ var _monster = [
         "_id": 101302013,
         "Key": "Monster_W1_Mecha04_00_Config",
         "Name": {
-            "CH": "自动机兵•齿狼",
+            "CH": "自动机兵 · 齿狼",
             "EN": "Automaton Direwolf"
         },
         "Desc": {
@@ -10762,7 +10762,7 @@ var _monster = [
         "_id": 101302014,
         "Key": "Monster_W1_Mecha04_00_Config",
         "Name": {
-            "CH": "自动机兵•齿狼",
+            "CH": "自动机兵 · 齿狼",
             "EN": "Automaton Direwolf"
         },
         "Desc": {
@@ -10806,7 +10806,7 @@ var _monster = [
         "_id": 101302015,
         "Key": "Monster_W1_Mecha04_00_Config",
         "Name": {
-            "CH": "自动机兵•齿狼",
+            "CH": "自动机兵 · 齿狼",
             "EN": "Automaton Direwolf"
         },
         "Desc": {
@@ -10854,7 +10854,7 @@ var _monster = [
         "_id": 101302020,
         "Key": "Monster_W1_Mecha04_00_Config",
         "Name": {
-            "CH": "自动机兵•齿狼",
+            "CH": "自动机兵 · 齿狼",
             "EN": "Automaton Direwolf"
         },
         "Desc": {
@@ -10902,7 +10902,7 @@ var _monster = [
         "_id": 101302021,
         "Key": "Monster_W1_Mecha04_00_Config",
         "Name": {
-            "CH": "自动机兵•齿狼",
+            "CH": "自动机兵 · 齿狼",
             "EN": "Automaton Direwolf"
         },
         "Desc": {
@@ -10949,7 +10949,7 @@ var _monster = [
         "_id": 101302022,
         "Key": "Monster_W1_Mecha04_00_Config",
         "Name": {
-            "CH": "自动机兵•齿狼",
+            "CH": "自动机兵 · 齿狼",
             "EN": "Automaton Direwolf"
         },
         "Desc": {
@@ -10996,7 +10996,7 @@ var _monster = [
         "_id": 101302023,
         "Key": "Monster_W1_Mecha04_00_Config",
         "Name": {
-            "CH": "自动机兵•齿狼",
+            "CH": "自动机兵 · 齿狼",
             "EN": "Automaton Direwolf"
         },
         "Desc": {
@@ -11040,7 +11040,7 @@ var _monster = [
         "_id": 1013021,
         "Key": "Monster_W1_Mecha04_00_Config_A",
         "Name": {
-            "CH": "自动机兵•齿狼（错误）",
+            "CH": "自动机兵 · 齿狼（错误）",
             "EN": "Automaton Direwolf (Bug)"
         },
         "Desc": {
@@ -11090,7 +11090,7 @@ var _monster = [
         "_id": 1013022,
         "Key": "Monster_W1_Mecha04_00_Config_RL",
         "Name": {
-            "CH": "自动机兵•齿狼（完整）",
+            "CH": "自动机兵 · 齿狼（完整）",
             "EN": "Automaton Direwolf (Complete)"
         },
         "Desc": {
@@ -11163,7 +11163,7 @@ var _monster = [
         "_id": 1013023,
         "Key": "Monster_W1_Mecha04_00_Config_RL_A",
         "Name": {
-            "CH": "自动机兵•齿狼（完整）",
+            "CH": "自动机兵 · 齿狼（完整）",
             "EN": "Automaton Direwolf (Complete)"
         },
         "Desc": {
@@ -11229,7 +11229,7 @@ var _monster = [
         "_id": 1013024,
         "Key": "Monster_W1_Mecha04_00_Config_RL",
         "Name": {
-            "CH": "自动机兵•齿狼（完整）",
+            "CH": "自动机兵 · 齿狼（完整）",
             "EN": "Automaton Direwolf (Complete)"
         },
         "Desc": {
@@ -16250,7 +16250,7 @@ var _monster = [
         "_id": 2004020,
         "Key": "Monster_W2_Yanqing_00_Config",
         "Name": {
-            "CH": "云骑骁卫•彦卿",
+            "CH": "云骑骁卫 · 彦卿",
             "EN": "Cloud Knight Lieutenant: Yanqing"
         },
         "Desc": {
@@ -16307,7 +16307,7 @@ var _monster = [
         "_id": 200402001,
         "Key": "Monster_W2_Yanqing_00_Config",
         "Name": {
-            "CH": "云骑骁卫•彦卿",
+            "CH": "云骑骁卫 · 彦卿",
             "EN": "Cloud Knight Lieutenant: Yanqing"
         },
         "Desc": {
@@ -16368,7 +16368,7 @@ var _monster = [
         "_id": 200402002,
         "Key": "Monster_W2_Yanqing_00_Config",
         "Name": {
-            "CH": "云骑骁卫•彦卿",
+            "CH": "云骑骁卫 · 彦卿",
             "EN": "Cloud Knight Lieutenant: Yanqing"
         },
         "Desc": {
@@ -16539,7 +16539,7 @@ var _monster = [
         "_id": 200402005,
         "Key": "Monster_W2_Yanqing_00_Config",
         "Name": {
-            "CH": "云骑骁卫•彦卿",
+            "CH": "云骑骁卫 · 彦卿",
             "EN": "Cloud Knight Lieutenant: Yanqing"
         },
         "Desc": {
@@ -16596,7 +16596,7 @@ var _monster = [
         "_id": 2004021,
         "Key": "Monster_W2_Yanqing_00_Config_RL",
         "Name": {
-            "CH": "云骑骁卫•彦卿（完整）",
+            "CH": "云骑骁卫 · 彦卿（完整）",
             "EN": "Cloud Knight Lieutenant: Yanqing (Complete)"
         },
         "Desc": {
@@ -16677,7 +16677,7 @@ var _monster = [
         "_id": 2004022,
         "Key": "Monster_W2_Yanqing_00_Config_RL",
         "Name": {
-            "CH": "云骑骁卫•彦卿（完整）",
+            "CH": "云骑骁卫 · 彦卿（完整）",
             "EN": "Cloud Knight Lieutenant: Yanqing (Complete)"
         },
         "Desc": {
@@ -16758,7 +16758,7 @@ var _monster = [
         "_id": 2004023,
         "Key": "Monster_W2_Yanqing_00_IF_Config",
         "Name": {
-            "CH": "云骑骁卫•彦卿（幻象）",
+            "CH": "云骑骁卫 · 彦卿（幻象）",
             "EN": "Cloud Knight Lieutenant: Yanqing (Illusion)"
         },
         "Desc": {
@@ -16824,7 +16824,7 @@ var _monster = [
         "_id": 2011010,
         "Key": "Monster_W2_Mecha01_00_Config",
         "Name": {
-            "CH": "入魔机巧 • 率从狻猊",
+            "CH": "入魔机巧 · 率从狻猊",
             "EN": "Entranced Ingenium: Obedient Dracolion"
         },
         "Desc": {
@@ -16865,7 +16865,7 @@ var _monster = [
         "_id": 201101001,
         "Key": "Monster_W2_Mecha01_00_Config",
         "Name": {
-            "CH": "入魔机巧 • 率从狻猊",
+            "CH": "入魔机巧 · 率从狻猊",
             "EN": "Entranced Ingenium: Obedient Dracolion"
         },
         "Desc": {
@@ -16910,7 +16910,7 @@ var _monster = [
         "_id": 201101002,
         "Key": "Monster_W2_Mecha01_00_Config",
         "Name": {
-            "CH": "入魔机巧 • 率从狻猊",
+            "CH": "入魔机巧 · 率从狻猊",
             "EN": "Entranced Ingenium: Obedient Dracolion"
         },
         "Desc": {
@@ -16954,7 +16954,7 @@ var _monster = [
         "_id": 201101003,
         "Key": "Monster_W2_Mecha01_00_Config",
         "Name": {
-            "CH": "入魔机巧 • 率从狻猊",
+            "CH": "入魔机巧 · 率从狻猊",
             "EN": "Entranced Ingenium: Obedient Dracolion"
         },
         "Desc": {
@@ -16995,7 +16995,7 @@ var _monster = [
         "_id": 2011020,
         "Key": "Monster_W2_Mecha01_01_Config",
         "Name": {
-            "CH": "入魔机巧 • 浓云金蟾",
+            "CH": "入魔机巧 · 浓云金蟾",
             "EN": "Entranced Ingenium: Golden Cloud Toad"
         },
         "Desc": {
@@ -17036,7 +17036,7 @@ var _monster = [
         "_id": 201102001,
         "Key": "Monster_W2_Mecha01_01_Config",
         "Name": {
-            "CH": "入魔机巧 • 浓云金蟾",
+            "CH": "入魔机巧 · 浓云金蟾",
             "EN": "Entranced Ingenium: Golden Cloud Toad"
         },
         "Desc": {
@@ -17081,7 +17081,7 @@ var _monster = [
         "_id": 201102002,
         "Key": "Monster_W2_Mecha01_01_Config",
         "Name": {
-            "CH": "入魔机巧 • 浓云金蟾",
+            "CH": "入魔机巧 · 浓云金蟾",
             "EN": "Entranced Ingenium: Golden Cloud Toad"
         },
         "Desc": {
@@ -17125,7 +17125,7 @@ var _monster = [
         "_id": 201102003,
         "Key": "Monster_W2_Mecha01_01_Config",
         "Name": {
-            "CH": "入魔机巧 • 浓云金蟾",
+            "CH": "入魔机巧 · 浓云金蟾",
             "EN": "Entranced Ingenium: Golden Cloud Toad"
         },
         "Desc": {
@@ -17166,7 +17166,7 @@ var _monster = [
         "_id": 2012010,
         "Key": "Monster_W2_Mecha02_00_Config",
         "Name": {
-            "CH": "入魔机巧 • 灯昼龙鱼",
+            "CH": "入魔机巧 · 灯昼龙鱼",
             "EN": "Entranced Ingenium: Illumination Dragonfish"
         },
         "Desc": {
@@ -17250,7 +17250,7 @@ var _monster = [
         "_id": 201201002,
         "Key": "Monster_W2_Mecha02_00_Config",
         "Name": {
-            "CH": "入魔机巧 • 灯昼龙鱼",
+            "CH": "入魔机巧 · 灯昼龙鱼",
             "EN": "Entranced Ingenium: Illumination Dragonfish"
         },
         "Desc": {
@@ -17295,7 +17295,7 @@ var _monster = [
         "_id": 201201003,
         "Key": "Monster_W2_Mecha02_00_Config",
         "Name": {
-            "CH": "入魔机巧 • 灯昼龙鱼",
+            "CH": "入魔机巧 · 灯昼龙鱼",
             "EN": "Entranced Ingenium: Illumination Dragonfish"
         },
         "Desc": {
@@ -17337,7 +17337,7 @@ var _monster = [
         "_id": 201201004,
         "Key": "Monster_W2_Mecha02_00_Config",
         "Name": {
-            "CH": "入魔机巧 • 灯昼龙鱼",
+            "CH": "入魔机巧 · 灯昼龙鱼",
             "EN": "Entranced Ingenium: Illumination Dragonfish"
         },
         "Desc": {
@@ -17379,7 +17379,7 @@ var _monster = [
         "_id": 201201005,
         "Key": "Monster_W2_Mecha02_00_Config",
         "Name": {
-            "CH": "入魔机巧 • 灯昼龙鱼",
+            "CH": "入魔机巧 · 灯昼龙鱼",
             "EN": "Entranced Ingenium: Illumination Dragonfish"
         },
         "Desc": {
@@ -17421,7 +17421,7 @@ var _monster = [
         "_id": 201201006,
         "Key": "Monster_W2_Mecha02_00_Config",
         "Name": {
-            "CH": "入魔机巧 • 灯昼龙鱼",
+            "CH": "入魔机巧 · 灯昼龙鱼",
             "EN": "Entranced Ingenium: Illumination Dragonfish"
         },
         "Desc": {
@@ -17466,7 +17466,7 @@ var _monster = [
         "_id": 201201007,
         "Key": "Monster_W2_Mecha02_00_Config",
         "Name": {
-            "CH": "入魔机巧 • 灯昼龙鱼",
+            "CH": "入魔机巧 · 灯昼龙鱼",
             "EN": "Entranced Ingenium: Illumination Dragonfish"
         },
         "Desc": {
@@ -19235,7 +19235,7 @@ var _monster = [
         "_id": 2022040,
         "Key": "Monster_W2_Beast01_00_Config",
         "Name": {
-            "CH": "丰饶灵兽•娄金",
+            "CH": "丰饶灵兽 · 娄金",
             "EN": "Abundance Sprite: Golden Hound"
         },
         "Desc": {
@@ -19319,7 +19319,7 @@ var _monster = [
         "_id": 202204002,
         "Key": "Monster_W2_Beast01_00_Config",
         "Name": {
-            "CH": "丰饶灵兽•娄金",
+            "CH": "丰饶灵兽 · 娄金",
             "EN": "Abundance Sprite: Golden Hound"
         },
         "Desc": {
@@ -19361,7 +19361,7 @@ var _monster = [
         "_id": 202204003,
         "Key": "Monster_W2_Beast01_00_Config",
         "Name": {
-            "CH": "丰饶灵兽•娄金",
+            "CH": "丰饶灵兽 · 娄金",
             "EN": "Abundance Sprite: Golden Hound"
         },
         "Desc": {
@@ -19403,7 +19403,7 @@ var _monster = [
         "_id": 202204004,
         "Key": "Monster_W2_Beast01_00_Config",
         "Name": {
-            "CH": "丰饶灵兽•娄金",
+            "CH": "丰饶灵兽 · 娄金",
             "EN": "Abundance Sprite: Golden Hound"
         },
         "Desc": {
@@ -19445,7 +19445,7 @@ var _monster = [
         "_id": 202204005,
         "Key": "Monster_W2_Beast01_00_Config",
         "Name": {
-            "CH": "丰饶灵兽•娄金",
+            "CH": "丰饶灵兽 · 娄金",
             "EN": "Abundance Sprite: Golden Hound"
         },
         "Desc": {
@@ -19487,7 +19487,7 @@ var _monster = [
         "_id": 2022050,
         "Key": "Monster_W2_Beast01_01_Config",
         "Name": {
-            "CH": "丰饶灵兽•奎木",
+            "CH": "丰饶灵兽 · 奎木",
             "EN": "Abundance Sprite: Wooden Lupus"
         },
         "Desc": {
@@ -19535,7 +19535,7 @@ var _monster = [
         "_id": 202205001,
         "Key": "Monster_W2_Beast01_01_Config",
         "Name": {
-            "CH": "丰饶灵兽•奎木",
+            "CH": "丰饶灵兽 · 奎木",
             "EN": "Abundance Sprite: Wooden Lupus"
         },
         "Desc": {
@@ -19583,7 +19583,7 @@ var _monster = [
         "_id": 202205002,
         "Key": "Monster_W2_Beast01_01_Config",
         "Name": {
-            "CH": "丰饶灵兽•奎木",
+            "CH": "丰饶灵兽 · 奎木",
             "EN": "Abundance Sprite: Wooden Lupus"
         },
         "Desc": {
@@ -19631,7 +19631,7 @@ var _monster = [
         "_id": 202205003,
         "Key": "Monster_W2_Beast01_01_Config",
         "Name": {
-            "CH": "丰饶灵兽•奎木",
+            "CH": "丰饶灵兽 · 奎木",
             "EN": "Abundance Sprite: Wooden Lupus"
         },
         "Desc": {
@@ -19679,7 +19679,7 @@ var _monster = [
         "_id": 202205004,
         "Key": "Monster_W2_Beast01_01_Config",
         "Name": {
-            "CH": "丰饶灵兽•奎木",
+            "CH": "丰饶灵兽 · 奎木",
             "EN": "Abundance Sprite: Wooden Lupus"
         },
         "Desc": {
@@ -21259,7 +21259,7 @@ var _monster = [
         "_id": 2023020,
         "Key": "Monster_W2_Beast02_00_Config",
         "Name": {
-            "CH": "丰饶灵兽•长右",
+            "CH": "丰饶灵兽 · 长右",
             "EN": "Abundance Sprite: Malefic Ape"
         },
         "Desc": {
@@ -21310,7 +21310,7 @@ var _monster = [
         "_id": 202302001,
         "Key": "Monster_W2_Beast02_00_Config",
         "Name": {
-            "CH": "丰饶灵兽•长右",
+            "CH": "丰饶灵兽 · 长右",
             "EN": "Abundance Sprite: Malefic Ape"
         },
         "Desc": {
@@ -21415,7 +21415,7 @@ var _monster = [
         "_id": 202302003,
         "Key": "Monster_W2_Beast02_00_Config",
         "Name": {
-            "CH": "丰饶灵兽•长右",
+            "CH": "丰饶灵兽 · 长右",
             "EN": "Abundance Sprite: Malefic Ape"
         },
         "Desc": {
@@ -21466,7 +21466,7 @@ var _monster = [
         "_id": 202302004,
         "Key": "Monster_W2_Beast02_00_Config",
         "Name": {
-            "CH": "丰饶灵兽•长右",
+            "CH": "丰饶灵兽 · 长右",
             "EN": "Abundance Sprite: Malefic Ape"
         },
         "Desc": {
@@ -21517,7 +21517,7 @@ var _monster = [
         "_id": 202302005,
         "Key": "Monster_W2_Beast02_00_Config",
         "Name": {
-            "CH": "丰饶灵兽•长右",
+            "CH": "丰饶灵兽 · 长右",
             "EN": "Abundance Sprite: Malefic Ape"
         },
         "Desc": {
@@ -21568,7 +21568,7 @@ var _monster = [
         "_id": 202302006,
         "Key": "Monster_W2_Beast02_00_Config",
         "Name": {
-            "CH": "丰饶灵兽•长右",
+            "CH": "丰饶灵兽 · 长右",
             "EN": "Abundance Sprite: Malefic Ape"
         },
         "Desc": {
@@ -21619,7 +21619,7 @@ var _monster = [
         "_id": 2023021,
         "Key": "Monster_W2_Beast02_00_Config_RLElite",
         "Name": {
-            "CH": "丰饶灵兽•长右（错误）",
+            "CH": "丰饶灵兽 · 长右（错误）",
             "EN": "Abundance Sprite: Malefic Ape (Bug)"
         },
         "Desc": {
@@ -21759,7 +21759,7 @@ var _monster = [
         "_id": 202303002,
         "Key": "Monster_XP_Elite02_02_Config",
         "Name": {
-            "CH": "药王秘传•魁首",
+            "CH": "药王秘传 · 魁首",
             "EN": "Master of the Disciples of Sanctus Medicus"
         },
         "Desc": {
@@ -21852,7 +21852,7 @@ var _monster = [
         "_id": 202303004,
         "Key": "Monster_XP_Elite02_02_Config",
         "Name": {
-            "CH": "药王秘传•魁首",
+            "CH": "药王秘传 · 魁首",
             "EN": "Master of the Disciples of Sanctus Medicus"
         },
         "Desc": {
@@ -23309,7 +23309,7 @@ var _monster = [
         "_id": 7001010,
         "Key": "Monster_AetherDivide_W2_Mecha01_00_Config",
         "Name": {
-            "CH": "入魔机巧 • 率从狻猊",
+            "CH": "入魔机巧 · 率从狻猊",
             "EN": "Entranced Ingenium: Obedient Dracolion"
         },
         "Desc": {
@@ -23351,7 +23351,7 @@ var _monster = [
         "_id": 7001011,
         "Key": "Monster_AetherDivide_AML_Minion02_00_Config",
         "Name": {
-            "CH": "虚卒•掠夺者",
+            "CH": "虚卒 · 掠夺者",
             "EN": "Voidranger: Reaver"
         },
         "Desc": {
@@ -23392,7 +23392,7 @@ var _monster = [
         "_id": 7001012,
         "Key": "Monster_AetherDivide_AML_Minion04_00_Config",
         "Name": {
-            "CH": "虚卒•抹消者",
+            "CH": "虚卒 · 抹消者",
             "EN": "Voidranger: Eliminator"
         },
         "Desc": {
@@ -23475,7 +23475,7 @@ var _monster = [
         "_id": 7002010,
         "Key": "Monster_AetherDivide_W2_Beast01_01_Config",
         "Name": {
-            "CH": "丰饶灵兽•奎木",
+            "CH": "丰饶灵兽 · 奎木",
             "EN": "Abundance Sprite: Wooden Lupus"
         },
         "Desc": {
@@ -23772,7 +23772,7 @@ var _monster = [
         "_id": 7002050,
         "Key": "Monster_AetherDivide_W2_Mecha02_00_Config",
         "Name": {
-            "CH": "入魔机巧 • 灯昼龙鱼",
+            "CH": "入魔机巧 · 灯昼龙鱼",
             "EN": "Entranced Ingenium: Illumination Dragonfish"
         },
         "Desc": {
@@ -23817,7 +23817,7 @@ var _monster = [
         "_id": 700205001,
         "Key": "Monster_AetherDivide_W2_Mecha02_00_Config",
         "Name": {
-            "CH": "入魔机巧 • 灯昼龙鱼",
+            "CH": "入魔机巧 · 灯昼龙鱼",
             "EN": "Entranced Ingenium: Illumination Dragonfish"
         },
         "Desc": {
@@ -24161,7 +24161,7 @@ var _monster = [
         "_id": 7002100,
         "Key": "Monster_AetherDivide_W1_Mecha01_00_Config",
         "Name": {
-            "CH": "自动机兵•蜘蛛",
+            "CH": "自动机兵 · 蜘蛛",
             "EN": "Automaton Spider"
         },
         "Desc": {
@@ -24203,7 +24203,7 @@ var _monster = [
         "_id": 7002110,
         "Key": "Monster_AetherDivide_W1_Mecha01_00_Config",
         "Name": {
-            "CH": "自动机兵•蜘蛛",
+            "CH": "自动机兵 · 蜘蛛",
             "EN": "Automaton Spider"
         },
         "Desc": {
@@ -24245,7 +24245,7 @@ var _monster = [
         "_id": 7002120,
         "Key": "Monster_AetherDivide_W1_Soldier02_01_Config",
         "Name": {
-            "CH": "基层员工•外勤",
+            "CH": "基层员工 · 外勤",
             "EN": "Grunt: Field Personnel"
         },
         "Desc": {
@@ -24287,7 +24287,7 @@ var _monster = [
         "_id": 7002130,
         "Key": "Monster_AetherDivide_W1_Soldier01_04_Config",
         "Name": {
-            "CH": "基层员工•安保",
+            "CH": "基层员工 · 安保",
             "EN": "Grunt: Security Personnel"
         },
         "Desc": {
@@ -24507,7 +24507,7 @@ var _monster = [
         "_id": 7003040,
         "Key": "Monster_AetherDivide_AML_Elite01_00_Config",
         "Name": {
-            "CH": "虚卒•践踏者",
+            "CH": "虚卒 · 践踏者",
             "EN": "Voidranger: Trampler"
         },
         "Desc": {
@@ -24638,7 +24638,7 @@ var _monster = [
         "_id": 7003070,
         "Key": "Monster_AetherDivide_W1_Mecha04_00_Config",
         "Name": {
-            "CH": "自动机兵•齿狼",
+            "CH": "自动机兵 · 齿狼",
             "EN": "Automaton Direwolf"
         },
         "Desc": {
@@ -24730,7 +24730,7 @@ var _monster = [
         "_id": 7003090,
         "Key": "Monster_AetherDivide_W1_Mecha03_00_Config",
         "Name": {
-            "CH": "自动机兵•灰熊",
+            "CH": "自动机兵 · 灰熊",
             "EN": "Automaton Grizzly"
         },
         "Desc": {
@@ -24774,7 +24774,7 @@ var _monster = [
         "_id": 7003100,
         "Key": "Monster_AetherDivide_W1_Mecha03_02_Config",
         "Name": {
-            "CH": "资深员工•组长",
+            "CH": "资深员工 · 组长",
             "EN": "Senior Staff: Team Leader"
         },
         "Desc": {
@@ -34078,7 +34078,7 @@ var _monster = [
         "_id": 8012010,
         "Key": "Monster_AML_Minion02_00_Config",
         "Name": {
-            "CH": "虚卒•掠夺者",
+            "CH": "虚卒 · 掠夺者",
             "EN": "Voidranger: Reaver"
         },
         "Desc": {
@@ -34126,7 +34126,7 @@ var _monster = [
         "_id": 801201001,
         "Key": "Monster_AML_Minion02_00_Config",
         "Name": {
-            "CH": "虚卒•掠夺者",
+            "CH": "虚卒 · 掠夺者",
             "EN": "Voidranger: Reaver"
         },
         "Desc": {
@@ -34174,7 +34174,7 @@ var _monster = [
         "_id": 801201002,
         "Key": "Monster_AML_Minion02_00_Config",
         "Name": {
-            "CH": "虚卒•掠夺者",
+            "CH": "虚卒 · 掠夺者",
             "EN": "Voidranger: Reaver"
         },
         "Desc": {
@@ -34222,7 +34222,7 @@ var _monster = [
         "_id": 801201003,
         "Key": "Monster_AML_Minion02_00_Config",
         "Name": {
-            "CH": "虚卒•掠夺者",
+            "CH": "虚卒 · 掠夺者",
             "EN": "Voidranger: Reaver"
         },
         "Desc": {
@@ -34270,7 +34270,7 @@ var _monster = [
         "_id": 801201004,
         "Key": "Monster_AML_Minion02_00_Config",
         "Name": {
-            "CH": "虚卒•掠夺者",
+            "CH": "虚卒 · 掠夺者",
             "EN": "Voidranger: Reaver"
         },
         "Desc": {
@@ -34318,7 +34318,7 @@ var _monster = [
         "_id": 801201005,
         "Key": "Monster_AML_Minion02_00_Config",
         "Name": {
-            "CH": "虚卒•掠夺者",
+            "CH": "虚卒 · 掠夺者",
             "EN": "Voidranger: Reaver"
         },
         "Desc": {
@@ -34370,7 +34370,7 @@ var _monster = [
         "_id": 801201006,
         "Key": "Monster_AML_Minion02_00_Config",
         "Name": {
-            "CH": "虚卒•掠夺者",
+            "CH": "虚卒 · 掠夺者",
             "EN": "Voidranger: Reaver"
         },
         "Desc": {
@@ -34418,7 +34418,7 @@ var _monster = [
         "_id": 801201007,
         "Key": "Monster_AML_Minion02_00_Config",
         "Name": {
-            "CH": "虚卒•掠夺者",
+            "CH": "虚卒 · 掠夺者",
             "EN": "Voidranger: Reaver"
         },
         "Desc": {
@@ -34469,7 +34469,7 @@ var _monster = [
         "_id": 801201008,
         "Key": "Monster_AML_Minion02_00_Config",
         "Name": {
-            "CH": "虚卒•掠夺者",
+            "CH": "虚卒 · 掠夺者",
             "EN": "Voidranger: Reaver"
         },
         "Desc": {
@@ -34517,7 +34517,7 @@ var _monster = [
         "_id": 801201009,
         "Key": "Monster_AML_Minion02_00_Config",
         "Name": {
-            "CH": "虚卒•掠夺者",
+            "CH": "虚卒 · 掠夺者",
             "EN": "Voidranger: Reaver"
         },
         "Desc": {
@@ -34565,7 +34565,7 @@ var _monster = [
         "_id": 801201010,
         "Key": "Monster_AML_Minion02_00_Config",
         "Name": {
-            "CH": "虚卒•掠夺者",
+            "CH": "虚卒 · 掠夺者",
             "EN": "Voidranger: Reaver"
         },
         "Desc": {
@@ -34616,7 +34616,7 @@ var _monster = [
         "_id": 801201011,
         "Key": "Monster_AML_Minion02_00_Config",
         "Name": {
-            "CH": "虚卒•掠夺者",
+            "CH": "虚卒 · 掠夺者",
             "EN": "Voidranger: Reaver"
         },
         "Desc": {
@@ -34664,7 +34664,7 @@ var _monster = [
         "_id": 801201012,
         "Key": "Monster_AML_Minion02_00_Config",
         "Name": {
-            "CH": "虚卒•掠夺者",
+            "CH": "虚卒 · 掠夺者",
             "EN": "Voidranger: Reaver"
         },
         "Desc": {
@@ -34712,7 +34712,7 @@ var _monster = [
         "_id": 801201013,
         "Key": "Monster_AML_Minion02_00_Config",
         "Name": {
-            "CH": "虚卒•掠夺者",
+            "CH": "虚卒 · 掠夺者",
             "EN": "Voidranger: Reaver"
         },
         "Desc": {
@@ -34760,7 +34760,7 @@ var _monster = [
         "_id": 801201014,
         "Key": "Monster_AML_Minion02_00_Config",
         "Name": {
-            "CH": "虚卒•掠夺者",
+            "CH": "虚卒 · 掠夺者",
             "EN": "Voidranger: Reaver"
         },
         "Desc": {
@@ -34811,7 +34811,7 @@ var _monster = [
         "_id": 801201015,
         "Key": "Monster_AML_Minion02_00_Config",
         "Name": {
-            "CH": "虚卒•掠夺者",
+            "CH": "虚卒 · 掠夺者",
             "EN": "Voidranger: Reaver"
         },
         "Desc": {
@@ -34862,7 +34862,7 @@ var _monster = [
         "_id": 801201016,
         "Key": "Monster_AML_Minion02_00_Config",
         "Name": {
-            "CH": "虚卒•掠夺者",
+            "CH": "虚卒 · 掠夺者",
             "EN": "Voidranger: Reaver"
         },
         "Desc": {
@@ -34913,7 +34913,7 @@ var _monster = [
         "_id": 801201017,
         "Key": "Monster_AML_Minion02_00_Config",
         "Name": {
-            "CH": "虚卒•掠夺者",
+            "CH": "虚卒 · 掠夺者",
             "EN": "Voidranger: Reaver"
         },
         "Desc": {
@@ -34964,7 +34964,7 @@ var _monster = [
         "_id": 801201018,
         "Key": "Monster_AML_Minion02_00_Config",
         "Name": {
-            "CH": "虚卒•掠夺者",
+            "CH": "虚卒 · 掠夺者",
             "EN": "Voidranger: Reaver"
         },
         "Desc": {
@@ -35012,7 +35012,7 @@ var _monster = [
         "_id": 801201019,
         "Key": "Monster_AML_Minion02_00_Config",
         "Name": {
-            "CH": "虚卒•掠夺者",
+            "CH": "虚卒 · 掠夺者",
             "EN": "Voidranger: Reaver"
         },
         "Desc": {
@@ -35060,7 +35060,7 @@ var _monster = [
         "_id": 801201020,
         "Key": "Monster_AML_Minion02_00_Config",
         "Name": {
-            "CH": "虚卒•掠夺者",
+            "CH": "虚卒 · 掠夺者",
             "EN": "Voidranger: Reaver"
         },
         "Desc": {
@@ -35108,7 +35108,7 @@ var _monster = [
         "_id": 801201021,
         "Key": "Monster_AML_Minion02_00_Config",
         "Name": {
-            "CH": "虚卒•掠夺者",
+            "CH": "虚卒 · 掠夺者",
             "EN": "Voidranger: Reaver"
         },
         "Desc": {
@@ -35156,7 +35156,7 @@ var _monster = [
         "_id": 801201023,
         "Key": "Monster_AML_Minion02_00_Config",
         "Name": {
-            "CH": "虚卒•掠夺者",
+            "CH": "虚卒 · 掠夺者",
             "EN": "Voidranger: Reaver"
         },
         "Desc": {
@@ -35204,7 +35204,7 @@ var _monster = [
         "_id": 801201024,
         "Key": "Monster_AML_Minion02_00_Config",
         "Name": {
-            "CH": "虚卒•掠夺者",
+            "CH": "虚卒 · 掠夺者",
             "EN": "Voidranger: Reaver"
         },
         "Desc": {
@@ -35252,7 +35252,7 @@ var _monster = [
         "_id": 801201025,
         "Key": "Monster_AML_Minion02_00_Config",
         "Name": {
-            "CH": "虚卒•掠夺者",
+            "CH": "虚卒 · 掠夺者",
             "EN": "Voidranger: Reaver"
         },
         "Desc": {
@@ -35300,7 +35300,7 @@ var _monster = [
         "_id": 801201026,
         "Key": "Monster_AML_Minion02_00_Config",
         "Name": {
-            "CH": "虚卒•掠夺者",
+            "CH": "虚卒 · 掠夺者",
             "EN": "Voidranger: Reaver"
         },
         "Desc": {
@@ -35348,7 +35348,7 @@ var _monster = [
         "_id": 8012020,
         "Key": "Monster_AML_Minion03_00_Config",
         "Name": {
-            "CH": "虚卒•篡改者",
+            "CH": "虚卒 · 篡改者",
             "EN": "Voidranger: Distorter"
         },
         "Desc": {
@@ -35390,7 +35390,7 @@ var _monster = [
         "_id": 801202001,
         "Key": "Monster_AML_Minion03_00_Config",
         "Name": {
-            "CH": "虚卒•篡改者",
+            "CH": "虚卒 · 篡改者",
             "EN": "Voidranger: Distorter"
         },
         "Desc": {
@@ -35432,7 +35432,7 @@ var _monster = [
         "_id": 801202002,
         "Key": "Monster_AML_Minion03_00_Config",
         "Name": {
-            "CH": "虚卒•篡改者",
+            "CH": "虚卒 · 篡改者",
             "EN": "Voidranger: Distorter"
         },
         "Desc": {
@@ -35474,7 +35474,7 @@ var _monster = [
         "_id": 801202003,
         "Key": "Monster_AML_Minion03_00_Config",
         "Name": {
-            "CH": "虚卒•篡改者",
+            "CH": "虚卒 · 篡改者",
             "EN": "Voidranger: Distorter"
         },
         "Desc": {
@@ -35516,7 +35516,7 @@ var _monster = [
         "_id": 801202004,
         "Key": "Monster_AML_Minion03_00_Config",
         "Name": {
-            "CH": "虚卒•篡改者",
+            "CH": "虚卒 · 篡改者",
             "EN": "Voidranger: Distorter"
         },
         "Desc": {
@@ -35600,7 +35600,7 @@ var _monster = [
         "_id": 801202006,
         "Key": "Monster_AML_Minion03_00_Config",
         "Name": {
-            "CH": "虚卒•篡改者",
+            "CH": "虚卒 · 篡改者",
             "EN": "Voidranger: Distorter"
         },
         "Desc": {
@@ -35642,7 +35642,7 @@ var _monster = [
         "_id": 801202007,
         "Key": "Monster_AML_Minion03_00_Config",
         "Name": {
-            "CH": "虚卒•篡改者",
+            "CH": "虚卒 · 篡改者",
             "EN": "Voidranger: Distorter"
         },
         "Desc": {
@@ -35687,7 +35687,7 @@ var _monster = [
         "_id": 801202008,
         "Key": "Monster_AML_Minion03_00_Config",
         "Name": {
-            "CH": "虚卒•篡改者",
+            "CH": "虚卒 · 篡改者",
             "EN": "Voidranger: Distorter"
         },
         "Desc": {
@@ -35732,7 +35732,7 @@ var _monster = [
         "_id": 801202009,
         "Key": "Monster_AML_Minion03_00_Config",
         "Name": {
-            "CH": "虚卒•篡改者",
+            "CH": "虚卒 · 篡改者",
             "EN": "Voidranger: Distorter"
         },
         "Desc": {
@@ -35774,7 +35774,7 @@ var _monster = [
         "_id": 801202010,
         "Key": "Monster_AML_Minion03_00_Config",
         "Name": {
-            "CH": "虚卒•篡改者",
+            "CH": "虚卒 · 篡改者",
             "EN": "Voidranger: Distorter"
         },
         "Desc": {
@@ -35819,7 +35819,7 @@ var _monster = [
         "_id": 801202011,
         "Key": "Monster_AML_Minion03_00_Config",
         "Name": {
-            "CH": "虚卒•篡改者",
+            "CH": "虚卒 · 篡改者",
             "EN": "Voidranger: Distorter"
         },
         "Desc": {
@@ -35861,7 +35861,7 @@ var _monster = [
         "_id": 801202012,
         "Key": "Monster_AML_Minion03_00_Config",
         "Name": {
-            "CH": "虚卒•篡改者",
+            "CH": "虚卒 · 篡改者",
             "EN": "Voidranger: Distorter"
         },
         "Desc": {
@@ -35903,7 +35903,7 @@ var _monster = [
         "_id": 801202013,
         "Key": "Monster_AML_Minion03_00_Config",
         "Name": {
-            "CH": "虚卒•篡改者",
+            "CH": "虚卒 · 篡改者",
             "EN": "Voidranger: Distorter"
         },
         "Desc": {
@@ -35945,7 +35945,7 @@ var _monster = [
         "_id": 8012021,
         "Key": "Monster_AML_Minion03_00_Config",
         "Name": {
-            "CH": "虚卒•篡改者",
+            "CH": "虚卒 · 篡改者",
             "EN": "Voidranger: Distorter"
         },
         "Desc": {
@@ -35987,7 +35987,7 @@ var _monster = [
         "_id": 801202101,
         "Key": "Monster_AML_Minion03_00_Config",
         "Name": {
-            "CH": "虚卒•篡改者",
+            "CH": "虚卒 · 篡改者",
             "EN": "Voidranger: Distorter"
         },
         "Desc": {
@@ -36032,7 +36032,7 @@ var _monster = [
         "_id": 801202102,
         "Key": "Monster_AML_Minion03_00_Config",
         "Name": {
-            "CH": "虚卒•篡改者",
+            "CH": "虚卒 · 篡改者",
             "EN": "Voidranger: Distorter"
         },
         "Desc": {
@@ -36077,11 +36077,11 @@ var _monster = [
         "_id": 8012030,
         "Key": "Monster_AML_Minion04_00_Config",
         "Name": {
-            "CH": "虚卒•抹消者",
+            "CH": "虚卒 · 抹消者",
             "EN": "Voidranger: Eliminator"
         },
         "Desc": {
-            "CH": "死亡之后遭遇裂界侵蚀的躯壳残骸，其生命体征虽发生改变，但依然在执行抹消的指令。<br>虚卒•抹消者会对命中的敌人添加标记，使其在攻击中受到额外的伤害。",
+            "CH": "死亡之后遭遇裂界侵蚀的躯壳残骸，其生命体征虽发生改变，但依然在执行抹消的指令。<br>虚卒 · 抹消者会对命中的敌人添加标记，使其在攻击中受到额外的伤害。",
             "EN": "Bodies that continued to be corroded by the Fragmentum after death. While their vital signs have changed, they continue to carry out their orders to eliminate.<br>Voidranger: Eliminators will mark enemies they hit, causing them to take extra damage when attacked."
         },
         "Stats": {
@@ -36119,11 +36119,11 @@ var _monster = [
         "_id": 801203001,
         "Key": "Monster_AML_Minion04_00_Config",
         "Name": {
-            "CH": "虚卒•抹消者",
+            "CH": "虚卒 · 抹消者",
             "EN": "Voidranger: Eliminator"
         },
         "Desc": {
-            "CH": "死亡之后遭遇裂界侵蚀的躯壳残骸，其生命体征虽发生改变，但依然在执行抹消的指令。<br>虚卒•抹消者会对命中的敌人添加标记，使其在攻击中受到额外的伤害。",
+            "CH": "死亡之后遭遇裂界侵蚀的躯壳残骸，其生命体征虽发生改变，但依然在执行抹消的指令。<br>虚卒 · 抹消者会对命中的敌人添加标记，使其在攻击中受到额外的伤害。",
             "EN": "Bodies that continued to be corroded by the Fragmentum after death. While their vital signs have changed, they continue to carry out their orders to eliminate.<br>Voidranger: Eliminators will mark enemies they hit, causing them to take extra damage when attacked."
         },
         "Stats": {
@@ -36161,11 +36161,11 @@ var _monster = [
         "_id": 801203002,
         "Key": "Monster_AML_Minion04_00_Config",
         "Name": {
-            "CH": "虚卒•抹消者",
+            "CH": "虚卒 · 抹消者",
             "EN": "Voidranger: Eliminator"
         },
         "Desc": {
-            "CH": "死亡之后遭遇裂界侵蚀的躯壳残骸，其生命体征虽发生改变，但依然在执行抹消的指令。<br>虚卒•抹消者会对命中的敌人添加标记，使其在攻击中受到额外的伤害。",
+            "CH": "死亡之后遭遇裂界侵蚀的躯壳残骸，其生命体征虽发生改变，但依然在执行抹消的指令。<br>虚卒 · 抹消者会对命中的敌人添加标记，使其在攻击中受到额外的伤害。",
             "EN": "Bodies that continued to be corroded by the Fragmentum after death. While their vital signs have changed, they continue to carry out their orders to eliminate.<br>Voidranger: Eliminators will mark enemies they hit, causing them to take extra damage when attacked."
         },
         "Stats": {
@@ -36203,11 +36203,11 @@ var _monster = [
         "_id": 801203003,
         "Key": "Monster_AML_Minion04_00_Config",
         "Name": {
-            "CH": "虚卒•抹消者",
+            "CH": "虚卒 · 抹消者",
             "EN": "Voidranger: Eliminator"
         },
         "Desc": {
-            "CH": "死亡之后遭遇裂界侵蚀的躯壳残骸，其生命体征虽发生改变，但依然在执行抹消的指令。<br>虚卒•抹消者会对命中的敌人添加标记，使其在攻击中受到额外的伤害。",
+            "CH": "死亡之后遭遇裂界侵蚀的躯壳残骸，其生命体征虽发生改变，但依然在执行抹消的指令。<br>虚卒 · 抹消者会对命中的敌人添加标记，使其在攻击中受到额外的伤害。",
             "EN": "Bodies that continued to be corroded by the Fragmentum after death. While their vital signs have changed, they continue to carry out their orders to eliminate.<br>Voidranger: Eliminators will mark enemies they hit, causing them to take extra damage when attacked."
         },
         "Stats": {
@@ -36290,11 +36290,11 @@ var _monster = [
         "_id": 801203005,
         "Key": "Monster_AML_Minion04_00_Config",
         "Name": {
-            "CH": "虚卒•抹消者",
+            "CH": "虚卒 · 抹消者",
             "EN": "Voidranger: Eliminator"
         },
         "Desc": {
-            "CH": "死亡之后遭遇裂界侵蚀的躯壳残骸，其生命体征虽发生改变，但依然在执行抹消的指令。<br>虚卒•抹消者会对命中的敌人添加标记，使其在攻击中受到额外的伤害。",
+            "CH": "死亡之后遭遇裂界侵蚀的躯壳残骸，其生命体征虽发生改变，但依然在执行抹消的指令。<br>虚卒 · 抹消者会对命中的敌人添加标记，使其在攻击中受到额外的伤害。",
             "EN": "Bodies that continued to be corroded by the Fragmentum after death. While their vital signs have changed, they continue to carry out their orders to eliminate.<br>Voidranger: Eliminators will mark enemies they hit, causing them to take extra damage when attacked."
         },
         "Stats": {
@@ -36332,11 +36332,11 @@ var _monster = [
         "_id": 801203006,
         "Key": "Monster_AML_Minion04_00_Config",
         "Name": {
-            "CH": "虚卒•抹消者",
+            "CH": "虚卒 · 抹消者",
             "EN": "Voidranger: Eliminator"
         },
         "Desc": {
-            "CH": "死亡之后遭遇裂界侵蚀的躯壳残骸，其生命体征虽发生改变，但依然在执行抹消的指令。<br>虚卒•抹消者会对命中的敌人添加标记，使其在攻击中受到额外的伤害。",
+            "CH": "死亡之后遭遇裂界侵蚀的躯壳残骸，其生命体征虽发生改变，但依然在执行抹消的指令。<br>虚卒 · 抹消者会对命中的敌人添加标记，使其在攻击中受到额外的伤害。",
             "EN": "Bodies that continued to be corroded by the Fragmentum after death. While their vital signs have changed, they continue to carry out their orders to eliminate.<br>Voidranger: Eliminators will mark enemies they hit, causing them to take extra damage when attacked."
         },
         "Stats": {
@@ -36377,11 +36377,11 @@ var _monster = [
         "_id": 801203007,
         "Key": "Monster_AML_Minion04_00_Config",
         "Name": {
-            "CH": "虚卒•抹消者",
+            "CH": "虚卒 · 抹消者",
             "EN": "Voidranger: Eliminator"
         },
         "Desc": {
-            "CH": "死亡之后遭遇裂界侵蚀的躯壳残骸，其生命体征虽发生改变，但依然在执行抹消的指令。<br>虚卒•抹消者会对命中的敌人添加标记，使其在攻击中受到额外的伤害。",
+            "CH": "死亡之后遭遇裂界侵蚀的躯壳残骸，其生命体征虽发生改变，但依然在执行抹消的指令。<br>虚卒 · 抹消者会对命中的敌人添加标记，使其在攻击中受到额外的伤害。",
             "EN": "Bodies that continued to be corroded by the Fragmentum after death. While their vital signs have changed, they continue to carry out their orders to eliminate.<br>Voidranger: Eliminators will mark enemies they hit, causing them to take extra damage when attacked."
         },
         "Stats": {
@@ -37004,7 +37004,7 @@ var _monster = [
         "_id": 8013010,
         "Key": "Monster_AML_Elite01_00_Config",
         "Name": {
-            "CH": "虚卒•践踏者",
+            "CH": "虚卒 · 践踏者",
             "EN": "Voidranger: Trampler"
         },
         "Desc": {
@@ -37049,7 +37049,7 @@ var _monster = [
         "_id": 801301001,
         "Key": "Monster_AML_Elite01_00_Config",
         "Name": {
-            "CH": "虚卒•践踏者",
+            "CH": "虚卒 · 践踏者",
             "EN": "Voidranger: Trampler"
         },
         "Desc": {
@@ -37094,7 +37094,7 @@ var _monster = [
         "_id": 801301002,
         "Key": "Monster_AML_Elite01_00_Config",
         "Name": {
-            "CH": "虚卒•践踏者",
+            "CH": "虚卒 · 践踏者",
             "EN": "Voidranger: Trampler"
         },
         "Desc": {
@@ -37139,7 +37139,7 @@ var _monster = [
         "_id": 801301003,
         "Key": "Monster_AML_Elite01_00_Config",
         "Name": {
-            "CH": "虚卒•践踏者",
+            "CH": "虚卒 · 践踏者",
             "EN": "Voidranger: Trampler"
         },
         "Desc": {
@@ -37184,7 +37184,7 @@ var _monster = [
         "_id": 801301004,
         "Key": "Monster_AML_Elite01_00_Config",
         "Name": {
-            "CH": "虚卒•践踏者",
+            "CH": "虚卒 · 践踏者",
             "EN": "Voidranger: Trampler"
         },
         "Desc": {
@@ -37229,7 +37229,7 @@ var _monster = [
         "_id": 801301005,
         "Key": "Monster_AML_Elite01_00_Config",
         "Name": {
-            "CH": "虚卒•践踏者",
+            "CH": "虚卒 · 践踏者",
             "EN": "Voidranger: Trampler"
         },
         "Desc": {
@@ -37274,7 +37274,7 @@ var _monster = [
         "_id": 801301006,
         "Key": "Monster_AML_Elite01_00_Config",
         "Name": {
-            "CH": "虚卒•践踏者",
+            "CH": "虚卒 · 践踏者",
             "EN": "Voidranger: Trampler"
         },
         "Desc": {
@@ -37319,7 +37319,7 @@ var _monster = [
         "_id": 801301007,
         "Key": "Monster_AML_Elite01_00_Config",
         "Name": {
-            "CH": "虚卒•践踏者",
+            "CH": "虚卒 · 践踏者",
             "EN": "Voidranger: Trampler"
         },
         "Desc": {
@@ -37409,7 +37409,7 @@ var _monster = [
         "_id": 801301009,
         "Key": "Monster_AML_Elite01_00_Config",
         "Name": {
-            "CH": "虚卒•践踏者",
+            "CH": "虚卒 · 践踏者",
             "EN": "Voidranger: Trampler"
         },
         "Desc": {
@@ -37454,7 +37454,7 @@ var _monster = [
         "_id": 801301010,
         "Key": "Monster_AML_Elite01_00_Config",
         "Name": {
-            "CH": "虚卒•践踏者",
+            "CH": "虚卒 · 践踏者",
             "EN": "Voidranger: Trampler"
         },
         "Desc": {
@@ -37499,7 +37499,7 @@ var _monster = [
         "_id": 801301011,
         "Key": "Monster_AML_Elite01_00_Config",
         "Name": {
-            "CH": "虚卒•践踏者",
+            "CH": "虚卒 · 践踏者",
             "EN": "Voidranger: Trampler"
         },
         "Desc": {
@@ -37548,7 +37548,7 @@ var _monster = [
         "_id": 801301012,
         "Key": "Monster_AML_Elite01_00_Config",
         "Name": {
-            "CH": "虚卒•践踏者",
+            "CH": "虚卒 · 践踏者",
             "EN": "Voidranger: Trampler"
         },
         "Desc": {
@@ -37596,7 +37596,7 @@ var _monster = [
         "_id": 801301013,
         "Key": "Monster_AML_Elite01_00_Config",
         "Name": {
-            "CH": "虚卒•践踏者",
+            "CH": "虚卒 · 践踏者",
             "EN": "Voidranger: Trampler"
         },
         "Desc": {
@@ -37645,7 +37645,7 @@ var _monster = [
         "_id": 801301014,
         "Key": "Monster_AML_Elite01_00_Config",
         "Name": {
-            "CH": "虚卒•践踏者",
+            "CH": "虚卒 · 践踏者",
             "EN": "Voidranger: Trampler"
         },
         "Desc": {
@@ -37694,7 +37694,7 @@ var _monster = [
         "_id": 801301015,
         "Key": "Monster_AML_Elite01_00_Config",
         "Name": {
-            "CH": "虚卒•践踏者",
+            "CH": "虚卒 · 践踏者",
             "EN": "Voidranger: Trampler"
         },
         "Desc": {
@@ -37742,7 +37742,7 @@ var _monster = [
         "_id": 8013011,
         "Key": "Monster_AML_Elite01_00_Config",
         "Name": {
-            "CH": "虚卒•践踏者（错误）",
+            "CH": "虚卒 · 践踏者（错误）",
             "EN": "Voidranger: Trampler (Bug)"
         },
         "Desc": {
@@ -37787,7 +37787,7 @@ var _monster = [
         "_id": 8013012,
         "Key": "Monster_AML_Elite01_00_Config_N2",
         "Name": {
-            "CH": "虚卒•践踏者",
+            "CH": "虚卒 · 践踏者",
             "EN": "Voidranger: Trampler"
         },
         "Desc": {
@@ -37832,7 +37832,7 @@ var _monster = [
         "_id": 8013013,
         "Key": "Monster_AML_Elite01_00_Tutorial_Config",
         "Name": {
-            "CH": "虚卒•践踏者",
+            "CH": "虚卒 · 践踏者",
             "EN": "Voidranger: Trampler"
         },
         "Desc": {
@@ -38093,7 +38093,7 @@ var _monster = [
         "_id": 8015020,
         "Key": "Monster_W2_Huanlong_00_Config_A",
         "Name": {
-            "CH": "不死神实•幻胧",
+            "CH": "不死神实 · 幻胧",
             "EN": "Phantylia the Undying"
         },
         "Desc": {
@@ -38167,7 +38167,7 @@ var _monster = [
         "_id": 8015021,
         "Key": "Monster_W2_Huanlong_00_Config",
         "Name": {
-            "CH": "不死神实•幻胧",
+            "CH": "不死神实 · 幻胧",
             "EN": "Phantylia the Undying"
         },
         "Desc": {
@@ -38492,7 +38492,7 @@ var _monster = [
         "_id": 8024010,
         "Key": "Monster_SW_Boss_00_Config",
         "Name": {
-            "CH": "虫群•真蛰虫（完整）",
+            "CH": "虫群 · 真蛰虫（完整）",
             "EN": "Swarm: True Sting (Complete)"
         },
         "Desc": {
@@ -38574,7 +38574,7 @@ var _monster = [
         "_id": 8024011,
         "Key": "Monster_SW_Boss_00_Normal_Config",
         "Name": {
-            "CH": "虫群•真蛰虫",
+            "CH": "虫群 · 真蛰虫",
             "EN": "Swarm: True Sting"
         },
         "Desc": {
@@ -38640,7 +38640,7 @@ var _monster = [
         "_id": 8024012,
         "Key": "Monster_SW_Boss_00_Config",
         "Name": {
-            "CH": "虫群•真蛰虫（完整）",
+            "CH": "虫群 · 真蛰虫（完整）",
             "EN": "Swarm: True Sting (Complete)"
         },
         "Desc": {
@@ -38722,11 +38722,11 @@ var _monster = [
         "_id": 8025010,
         "Key": "Monster_SW_Boss_01_Config",
         "Name": {
-            "CH": "碎星王虫•斯喀拉卡巴兹（拟造）",
+            "CH": "碎星王虫 · 斯喀拉卡巴兹（拟造）",
             "EN": "Starcrusher Swarm King: Skaracabaz (Synthetic)"
         },
         "Desc": {
-            "CH": "阮•梅培育的「繁育」令使复制体，以残缺的姿态短暂现世。原型为继承虫皇之颚的巨蠹，能以口器凝聚裂解天体的死光，将破碎的群星作为诞育子嗣的温床，曾是寰宇蝗灾中的诸界噩梦之一。",
+            "CH": "阮 · 梅培育的「繁育」令使复制体，以残缺的姿态短暂现世。原型为继承虫皇之颚的巨蠹，能以口器凝聚裂解天体的死光，将破碎的群星作为诞育子嗣的温床，曾是寰宇蝗灾中的诸界噩梦之一。",
             "EN": "The replica of the Emanator of Propagation cultivated by Ruan Mei, briefly manifesting in the world in an incomplete form. Its original form is a giant lepisma that inherited the mandibles of the Imperator Insectorum. It can collect in its mouthparts the death ray that fragmented celestial bodies, and make shattered stars incubators for procreating offspring. It was once one of the nightmares across multiple worlds during the Swarm Disaster."
         },
         "Stats": {
@@ -38788,11 +38788,11 @@ var _monster = [
         "_id": 802501001,
         "Key": "Monster_SW_Boss_01_Config",
         "Name": {
-            "CH": "碎星王虫•斯喀拉卡巴兹（拟造）",
+            "CH": "碎星王虫 · 斯喀拉卡巴兹（拟造）",
             "EN": "Starcrusher Swarm King: Skaracabaz (Synthetic)"
         },
         "Desc": {
-            "CH": "阮•梅培育的「繁育」令使复制体，以残缺的姿态短暂现世。原型为继承虫皇之颚的巨蠹，能以口器凝聚裂解天体的死光，将破碎的群星作为诞育子嗣的温床，曾是寰宇蝗灾中的诸界噩梦之一。",
+            "CH": "阮 · 梅培育的「繁育」令使复制体，以残缺的姿态短暂现世。原型为继承虫皇之颚的巨蠹，能以口器凝聚裂解天体的死光，将破碎的群星作为诞育子嗣的温床，曾是寰宇蝗灾中的诸界噩梦之一。",
             "EN": "The replica of the Emanator of Propagation cultivated by Ruan Mei, briefly manifesting in the world in an incomplete form. Its original form is a giant lepisma that inherited the mandibles of the Imperator Insectorum. It can collect in its mouthparts the death ray that fragmented celestial bodies, and make shattered stars incubators for procreating offspring. It was once one of the nightmares across multiple worlds during the Swarm Disaster."
         },
         "Stats": {
@@ -38854,7 +38854,7 @@ var _monster = [
         "_id": 8032010,
         "Key": "Monster_W1_Soldier02_01_Config",
         "Name": {
-            "CH": "基层员工•外勤",
+            "CH": "基层员工 · 外勤",
             "EN": "Grunt: Field Personnel"
         },
         "Desc": {
@@ -38902,7 +38902,7 @@ var _monster = [
         "_id": 803201001,
         "Key": "Monster_W1_Soldier02_01_Config",
         "Name": {
-            "CH": "基层员工•外勤",
+            "CH": "基层员工 · 外勤",
             "EN": "Grunt: Field Personnel"
         },
         "Desc": {
@@ -38950,7 +38950,7 @@ var _monster = [
         "_id": 803201002,
         "Key": "Monster_W1_Soldier02_01_Config",
         "Name": {
-            "CH": "基层员工•外勤",
+            "CH": "基层员工 · 外勤",
             "EN": "Grunt: Field Personnel"
         },
         "Desc": {
@@ -38998,7 +38998,7 @@ var _monster = [
         "_id": 803201003,
         "Key": "Monster_W1_Soldier02_01_Config",
         "Name": {
-            "CH": "基层员工•外勤（幻象）",
+            "CH": "基层员工 · 外勤（幻象）",
             "EN": "Grunt: Field Personnel (Illusion)"
         },
         "Desc": {
@@ -39046,7 +39046,7 @@ var _monster = [
         "_id": 8032020,
         "Key": "Monster_W1_Soldier01_04_Config",
         "Name": {
-            "CH": "基层员工•安保",
+            "CH": "基层员工 · 安保",
             "EN": "Grunt: Security Personnel"
         },
         "Desc": {
@@ -39094,7 +39094,7 @@ var _monster = [
         "_id": 803202001,
         "Key": "Monster_W1_Soldier01_04_Config",
         "Name": {
-            "CH": "基层员工•安保",
+            "CH": "基层员工 · 安保",
             "EN": "Grunt: Security Personnel"
         },
         "Desc": {
@@ -39142,7 +39142,7 @@ var _monster = [
         "_id": 803202002,
         "Key": "Monster_W1_Soldier01_04_Config",
         "Name": {
-            "CH": "基层员工•安保",
+            "CH": "基层员工 · 安保",
             "EN": "Grunt: Security Personnel"
         },
         "Desc": {
@@ -39190,7 +39190,7 @@ var _monster = [
         "_id": 803202003,
         "Key": "Monster_W1_Soldier01_04_Config",
         "Name": {
-            "CH": "基层员工•安保（幻象）",
+            "CH": "基层员工 · 安保（幻象）",
             "EN": "Grunt: Security Personnel (Illusion)"
         },
         "Desc": {
@@ -39238,7 +39238,7 @@ var _monster = [
         "_id": 8033010,
         "Key": "Monster_W1_Mecha03_02_Config",
         "Name": {
-            "CH": "资深员工•组长",
+            "CH": "资深员工 · 组长",
             "EN": "Senior Staff: Team Leader"
         },
         "Desc": {
@@ -39285,7 +39285,7 @@ var _monster = [
         "_id": 803301001,
         "Key": "Monster_W1_Mecha03_02_Config",
         "Name": {
-            "CH": "资深员工•组长",
+            "CH": "资深员工 · 组长",
             "EN": "Senior Staff: Team Leader"
         },
         "Desc": {
@@ -39332,7 +39332,7 @@ var _monster = [
         "_id": 803301002,
         "Key": "Monster_W1_Mecha03_02_Config",
         "Name": {
-            "CH": "资深员工•组长（幻象）",
+            "CH": "资深员工 · 组长（幻象）",
             "EN": "Senior Staff: Team Leader (Illusion)"
         },
         "Desc": {
@@ -39382,7 +39382,7 @@ var _monster = [
         "_id": 8033011,
         "Key": "Monster_W1_Mecha03_02_Config_RLElite",
         "Name": {
-            "CH": "资深员工•组长（错误）",
+            "CH": "资深员工 · 组长（错误）",
             "EN": "Senior Staff: Team Leader (Bug)"
         },
         "Desc": {
@@ -39435,7 +39435,7 @@ var _monster = [
         "_id": 803301202,
         "Key": "Monster_W1_Mecha03_IF_02_Config",
         "Name": {
-            "CH": "资深员工•组长（幻象）",
+            "CH": "资深员工 · 组长（幻象）",
             "EN": "Senior Staff: Team Leader (Illusion)"
         },
         "Desc": {
@@ -39556,3 +39556,831 @@ var _monster = [
         "Icon": "MonsterIcon/Monster_8013010.png"
     }
 ]
+
+var _monsterindex = {
+    "1002011": 0,
+    "1002012": 1,
+    "1002013": 2,
+    "1002014": 3,
+    "1002015": 4,
+    "100201501": 5,
+    "1002016": 6,
+    "100201601": 7,
+    "1002017": 8,
+    "100201702": 9,
+    "1002018": 10,
+    "100201802": 11,
+    "1002020": 12,
+    "100202001": 13,
+    "100202002": 14,
+    "100202003": 15,
+    "100202004": 16,
+    "100202005": 17,
+    "100202006": 18,
+    "100202007": 19,
+    "100202008": 20,
+    "100202009": 21,
+    "100202010": 22,
+    "100202011": 23,
+    "100202012": 24,
+    "100202013": 25,
+    "100202014": 26,
+    "100202015": 27,
+    "100202016": 28,
+    "100202101": 29,
+    "1002030": 30,
+    "100203001": 31,
+    "100203002": 32,
+    "100203003": 33,
+    "100203004": 34,
+    "100203005": 35,
+    "100203006": 36,
+    "100203007": 37,
+    "100203008": 38,
+    "100203009": 39,
+    "100203010": 40,
+    "100203011": 41,
+    "100203012": 42,
+    "1002040": 43,
+    "100204001": 44,
+    "100204002": 45,
+    "100204003": 46,
+    "100204004": 47,
+    "100204005": 48,
+    "100204006": 49,
+    "100204007": 50,
+    "100204008": 51,
+    "100204009": 52,
+    "100204010": 53,
+    "100204011": 54,
+    "100204012": 55,
+    "100204013": 56,
+    "100204014": 57,
+    "100204015": 58,
+    "100204016": 59,
+    "100204017": 60,
+    "100204018": 61,
+    "100204019": 62,
+    "100204020": 63,
+    "100204021": 64,
+    "100204022": 65,
+    "100204023": 66,
+    "1002041": 67,
+    "100204101": 68,
+    "1002050": 69,
+    "100205001": 70,
+    "100205002": 71,
+    "100205003": 72,
+    "100205004": 73,
+    "100205005": 74,
+    "100205006": 75,
+    "100205007": 76,
+    "100205008": 77,
+    "100205009": 78,
+    "100205010": 79,
+    "100205011": 80,
+    "100205012": 81,
+    "100205013": 82,
+    "100205014": 83,
+    "100205015": 84,
+    "100205016": 85,
+    "100205017": 86,
+    "100205018": 87,
+    "1003010": 88,
+    "100301001": 89,
+    "100301002": 90,
+    "100301003": 91,
+    "100301004": 92,
+    "100301005": 93,
+    "100301006": 94,
+    "100301007": 95,
+    "100301008": 96,
+    "100301009": 97,
+    "100301010": 98,
+    "100301011": 99,
+    "100301012": 100,
+    "100301013": 101,
+    "100301014": 102,
+    "100301015": 103,
+    "100301016": 104,
+    "100301017": 105,
+    "100301018": 106,
+    "1003011": 107,
+    "1003012": 108,
+    "1003013": 109,
+    "1004010": 110,
+    "100401001": 111,
+    "100401002": 112,
+    "100401003": 113,
+    "1004011": 114,
+    "1004012": 115,
+    "1004013": 116,
+    "1004020": 117,
+    "100402001": 118,
+    "100402002": 119,
+    "100402003": 120,
+    "100402004": 121,
+    "100402005": 122,
+    "1004021": 123,
+    "1004022": 124,
+    "1004023": 125,
+    "1004024": 126,
+    "1004025": 127,
+    "1004030": 128,
+    "100403001": 129,
+    "100403002": 130,
+    "1004031": 131,
+    "100403101": 132,
+    "1004032": 133,
+    "1005010": 134,
+    "1005011": 135,
+    "1005012": 136,
+    "1005013": 137,
+    "1012010": 138,
+    "101201001": 139,
+    "101201002": 140,
+    "101201003": 141,
+    "101201004": 142,
+    "101201005": 143,
+    "101201006": 144,
+    "101201007": 145,
+    "101201008": 146,
+    "101201009": 147,
+    "101201010": 148,
+    "101201011": 149,
+    "101201012": 150,
+    "101201013": 151,
+    "101201014": 152,
+    "101201015": 153,
+    "101201016": 154,
+    "1012011": 155,
+    "1012020": 156,
+    "101202001": 157,
+    "101202002": 158,
+    "101202003": 159,
+    "1012021": 160,
+    "101202101": 161,
+    "101202102": 162,
+    "101202103": 163,
+    "101202104": 164,
+    "101202105": 165,
+    "101202106": 166,
+    "101202107": 167,
+    "101202108": 168,
+    "101202109": 169,
+    "101202110": 170,
+    "1012030": 171,
+    "101203001": 172,
+    "101203002": 173,
+    "101203003": 174,
+    "101203004": 175,
+    "101203005": 176,
+    "101203006": 177,
+    "101203007": 178,
+    "101203008": 179,
+    "101203009": 180,
+    "101203010": 181,
+    "101203011": 182,
+    "101203012": 183,
+    "101203013": 184,
+    "101203014": 185,
+    "1012040": 186,
+    "1012041": 187,
+    "1012042": 188,
+    "1013010": 189,
+    "101301001": 190,
+    "101301002": 191,
+    "101301003": 192,
+    "101301004": 193,
+    "101301005": 194,
+    "101301006": 195,
+    "101301007": 196,
+    "101301008": 197,
+    "101301009": 198,
+    "101301010": 199,
+    "101301011": 200,
+    "101301012": 201,
+    "101301013": 202,
+    "101301014": 203,
+    "101301015": 204,
+    "101301016": 205,
+    "101301017": 206,
+    "101301018": 207,
+    "1013011": 208,
+    "1013012": 209,
+    "1013013": 210,
+    "1013014": 211,
+    "1013020": 212,
+    "101302001": 213,
+    "101302002": 214,
+    "101302003": 215,
+    "101302004": 216,
+    "101302005": 217,
+    "101302006": 218,
+    "101302007": 219,
+    "101302008": 220,
+    "101302009": 221,
+    "101302010": 222,
+    "101302011": 223,
+    "101302012": 224,
+    "101302013": 225,
+    "101302014": 226,
+    "101302015": 227,
+    "101302020": 228,
+    "101302021": 229,
+    "101302022": 230,
+    "101302023": 231,
+    "1013021": 232,
+    "1013022": 233,
+    "1013023": 234,
+    "1013024": 235,
+    "1014010": 236,
+    "101401001": 237,
+    "101401002": 238,
+    "101401003": 239,
+    "101401004": 240,
+    "101401005": 241,
+    "101401006": 242,
+    "101401007": 243,
+    "101401008": 244,
+    "1014011": 245,
+    "1014012": 246,
+    "1022010": 247,
+    "102201001": 248,
+    "102201002": 249,
+    "102201003": 250,
+    "102201004": 251,
+    "102201005": 252,
+    "102201006": 253,
+    "102201007": 254,
+    "102201008": 255,
+    "102201009": 256,
+    "102201010": 257,
+    "102201011": 258,
+    "102201012": 259,
+    "1022020": 260,
+    "102202001": 261,
+    "102202002": 262,
+    "102202003": 263,
+    "102202004": 264,
+    "102202005": 265,
+    "102202006": 266,
+    "102202007": 267,
+    "102202008": 268,
+    "102202009": 269,
+    "102202010": 270,
+    "102202011": 271,
+    "102202012": 272,
+    "102202013": 273,
+    "102202014": 274,
+    "102202015": 275,
+    "102202016": 276,
+    "102202017": 277,
+    "102202018": 278,
+    "102202019": 279,
+    "102202020": 280,
+    "102202021": 281,
+    "102202022": 282,
+    "1023010": 283,
+    "102301001": 284,
+    "102301002": 285,
+    "102301003": 286,
+    "102301004": 287,
+    "102301005": 288,
+    "102301006": 289,
+    "102301007": 290,
+    "102301008": 291,
+    "102301009": 292,
+    "102301010": 293,
+    "102301011": 294,
+    "102301012": 295,
+    "102301013": 296,
+    "102301014": 297,
+    "1023011": 298,
+    "1023020": 299,
+    "102302001": 300,
+    "102302002": 301,
+    "102302003": 302,
+    "102302004": 303,
+    "1023021": 304,
+    "2002010": 305,
+    "200201001": 306,
+    "200201002": 307,
+    "200201003": 308,
+    "200201004": 309,
+    "200201005": 310,
+    "200201006": 311,
+    "2002020": 312,
+    "200202001": 313,
+    "200202002": 314,
+    "200202003": 315,
+    "2002021": 316,
+    "200202101": 317,
+    "200202102": 318,
+    "200202103": 319,
+    "2002030": 320,
+    "200203001": 321,
+    "200203002": 322,
+    "200203003": 323,
+    "200203004": 324,
+    "2002031": 325,
+    "200203201": 326,
+    "200203202": 327,
+    "2004010": 328,
+    "200401001": 329,
+    "200401002": 330,
+    "200401003": 331,
+    "200401004": 332,
+    "2004011": 333,
+    "2004012": 334,
+    "2004013": 335,
+    "2004020": 336,
+    "200402001": 337,
+    "200402002": 338,
+    "200402003": 339,
+    "200402004": 340,
+    "200402005": 341,
+    "2004021": 342,
+    "2004022": 343,
+    "2004023": 344,
+    "2011010": 345,
+    "201101001": 346,
+    "201101002": 347,
+    "201101003": 348,
+    "2011020": 349,
+    "201102001": 350,
+    "201102002": 351,
+    "201102003": 352,
+    "2012010": 353,
+    "201201001": 354,
+    "201201002": 355,
+    "201201003": 356,
+    "201201004": 357,
+    "201201005": 358,
+    "201201006": 359,
+    "201201007": 360,
+    "2013010": 361,
+    "201301001": 362,
+    "201301002": 363,
+    "201301003": 364,
+    "201301004": 365,
+    "201301005": 366,
+    "201301006": 367,
+    "201301007": 368,
+    "2013011": 369,
+    "2013012": 370,
+    "2013020": 371,
+    "201302001": 372,
+    "201302002": 373,
+    "201302003": 374,
+    "201302004": 375,
+    "2013021": 376,
+    "2022010": 377,
+    "202201001": 378,
+    "202201002": 379,
+    "202201003": 380,
+    "202201004": 381,
+    "202201005": 382,
+    "202201006": 383,
+    "202201007": 384,
+    "202201008": 385,
+    "202201009": 386,
+    "202201010": 387,
+    "2022020": 388,
+    "202202001": 389,
+    "202202002": 390,
+    "202202003": 391,
+    "202202004": 392,
+    "202202005": 393,
+    "202202006": 394,
+    "202202007": 395,
+    "202202008": 396,
+    "202202009": 397,
+    "2022040": 398,
+    "202204001": 399,
+    "202204002": 400,
+    "202204003": 401,
+    "202204004": 402,
+    "202204005": 403,
+    "2022050": 404,
+    "202205001": 405,
+    "202205002": 406,
+    "202205003": 407,
+    "202205004": 408,
+    "2022051": 409,
+    "2022060": 410,
+    "202206001": 411,
+    "202206002": 412,
+    "202206003": 413,
+    "2022070": 414,
+    "2022071": 415,
+    "202207101": 416,
+    "2022080": 417,
+    "2022081": 418,
+    "202208101": 419,
+    "2022090": 420,
+    "2022091": 421,
+    "202209101": 422,
+    "2022100": 423,
+    "2022101": 424,
+    "202210101": 425,
+    "2022110": 426,
+    "202211001": 427,
+    "202211002": 428,
+    "202211003": 429,
+    "2023010": 430,
+    "202301001": 431,
+    "202301002": 432,
+    "202301003": 433,
+    "202301004": 434,
+    "202301005": 435,
+    "202301006": 436,
+    "202301007": 437,
+    "202301008": 438,
+    "202301009": 439,
+    "202301010": 440,
+    "202301011": 441,
+    "202301012": 442,
+    "2023011": 443,
+    "2023020": 444,
+    "202302001": 445,
+    "202302002": 446,
+    "202302003": 447,
+    "202302004": 448,
+    "202302005": 449,
+    "202302006": 450,
+    "2023021": 451,
+    "2023030": 452,
+    "202303001": 453,
+    "202303002": 454,
+    "202303003": 455,
+    "202303004": 456,
+    "202303005": 457,
+    "202303006": 458,
+    "202303007": 459,
+    "2023031": 460,
+    "2024010": 461,
+    "202401001": 462,
+    "202401002": 463,
+    "2024011": 464,
+    "2024012": 465,
+    "2024013": 466,
+    "2024020": 467,
+    "202402001": 468,
+    "202402002": 469,
+    "202402003": 470,
+    "3021020": 471,
+    "3021021": 472,
+    "3021030": 473,
+    "3021031": 474,
+    "3021040": 475,
+    "3021041": 476,
+    "3024010": 477,
+    "302401001": 478,
+    "302401002": 479,
+    "302401003": 480,
+    "3024011": 481,
+    "3024012": 482,
+    "7001010": 483,
+    "7001011": 484,
+    "7001012": 485,
+    "7001013": 486,
+    "7002010": 487,
+    "7002011": 488,
+    "7002020": 489,
+    "7002030": 490,
+    "700203001": 491,
+    "700203002": 492,
+    "7002040": 493,
+    "7002050": 494,
+    "700205001": 495,
+    "7002060": 496,
+    "7002070": 497,
+    "700207001": 498,
+    "700207002": 499,
+    "7002080": 500,
+    "7002090": 501,
+    "700209001": 502,
+    "7002100": 503,
+    "7002110": 504,
+    "7002120": 505,
+    "7002130": 506,
+    "7002140": 507,
+    "7003010": 508,
+    "7003020": 509,
+    "7003030": 510,
+    "7003040": 511,
+    "7003050": 512,
+    "7003060": 513,
+    "7003070": 514,
+    "7003080": 515,
+    "7003090": 516,
+    "7003100": 517,
+    "8001010": 518,
+    "800101001": 519,
+    "800101002": 520,
+    "800101003": 521,
+    "800101004": 522,
+    "800101005": 523,
+    "800101006": 524,
+    "800101007": 525,
+    "800101008": 526,
+    "800101009": 527,
+    "800101010": 528,
+    "800101011": 529,
+    "800101012": 530,
+    "800101013": 531,
+    "800101014": 532,
+    "800101015": 533,
+    "800101016": 534,
+    "8001020": 535,
+    "800102001": 536,
+    "800102002": 537,
+    "800102003": 538,
+    "800102004": 539,
+    "800102005": 540,
+    "800102006": 541,
+    "800102007": 542,
+    "800102008": 543,
+    "800102009": 544,
+    "800102010": 545,
+    "800102011": 546,
+    "800102012": 547,
+    "800102013": 548,
+    "800102014": 549,
+    "800102015": 550,
+    "800102016": 551,
+    "8001030": 552,
+    "800103001": 553,
+    "800103002": 554,
+    "800103003": 555,
+    "800103004": 556,
+    "8001040": 557,
+    "800104001": 558,
+    "800104002": 559,
+    "800104003": 560,
+    "8001050": 561,
+    "800105001": 562,
+    "800105002": 563,
+    "800105003": 564,
+    "800105004": 565,
+    "8002010": 566,
+    "800201001": 567,
+    "800201002": 568,
+    "800201003": 569,
+    "800201004": 570,
+    "800201005": 571,
+    "800201006": 572,
+    "800201007": 573,
+    "800201008": 574,
+    "800201009": 575,
+    "8002040": 576,
+    "800204001": 577,
+    "800204002": 578,
+    "800204003": 579,
+    "800204004": 580,
+    "8002041": 581,
+    "8002050": 582,
+    "800205001": 583,
+    "800205002": 584,
+    "800205003": 585,
+    "800205004": 586,
+    "800205005": 587,
+    "800205006": 588,
+    "800205007": 589,
+    "800205008": 590,
+    "800205009": 591,
+    "800205010": 592,
+    "800205011": 593,
+    "800205012": 594,
+    "800205013": 595,
+    "800205014": 596,
+    "800205015": 597,
+    "800205016": 598,
+    "800205017": 599,
+    "800205018": 600,
+    "800205019": 601,
+    "8002051": 602,
+    "8002052": 603,
+    "8002053": 604,
+    "8002054": 605,
+    "8002055": 606,
+    "8002056": 607,
+    "8002057": 608,
+    "8002058": 609,
+    "8002059": 610,
+    "8002060": 611,
+    "8002061": 612,
+    "8002070": 613,
+    "8002071": 614,
+    "8002080": 615,
+    "8002081": 616,
+    "800208101": 617,
+    "8002082": 618,
+    "8002090": 619,
+    "8002091": 620,
+    "8002100": 621,
+    "8002101": 622,
+    "8002102": 623,
+    "8003010": 624,
+    "800301001": 625,
+    "800301002": 626,
+    "800301003": 627,
+    "800301004": 628,
+    "800301005": 629,
+    "800301006": 630,
+    "800301007": 631,
+    "800301008": 632,
+    "800301009": 633,
+    "800301010": 634,
+    "800301011": 635,
+    "800301012": 636,
+    "8003011": 637,
+    "8003020": 638,
+    "800302001": 639,
+    "800302002": 640,
+    "800302003": 641,
+    "800302004": 642,
+    "800302005": 643,
+    "800302006": 644,
+    "800302007": 645,
+    "800302008": 646,
+    "800302009": 647,
+    "800302010": 648,
+    "800302011": 649,
+    "800302012": 650,
+    "800302013": 651,
+    "800302014": 652,
+    "800302015": 653,
+    "800302016": 654,
+    "800302017": 655,
+    "8003021": 656,
+    "8003030": 657,
+    "800303001": 658,
+    "800303002": 659,
+    "800303003": 660,
+    "800303004": 661,
+    "800303005": 662,
+    "800303006": 663,
+    "800303007": 664,
+    "800303008": 665,
+    "800303009": 666,
+    "800303010": 667,
+    "800303011": 668,
+    "800303012": 669,
+    "8003031": 670,
+    "8003040": 671,
+    "800304001": 672,
+    "800304002": 673,
+    "800304003": 674,
+    "800304004": 675,
+    "800304005": 676,
+    "800304006": 677,
+    "800304007": 678,
+    "800304008": 679,
+    "800304009": 680,
+    "8003041": 681,
+    "8003042": 682,
+    "8003050": 683,
+    "800305001": 684,
+    "800305002": 685,
+    "800305003": 686,
+    "800305004": 687,
+    "800305005": 688,
+    "800305006": 689,
+    "800305007": 690,
+    "800305008": 691,
+    "800305009": 692,
+    "8003051": 693,
+    "8003052": 694,
+    "8011010": 695,
+    "801101001": 696,
+    "801101002": 697,
+    "801101003": 698,
+    "801101004": 699,
+    "801101005": 700,
+    "801101006": 701,
+    "801101007": 702,
+    "801101008": 703,
+    "8011020": 704,
+    "801102001": 705,
+    "801102002": 706,
+    "801102003": 707,
+    "801102004": 708,
+    "801102005": 709,
+    "801102007": 710,
+    "801102008": 711,
+    "8012010": 712,
+    "801201001": 713,
+    "801201002": 714,
+    "801201003": 715,
+    "801201004": 716,
+    "801201005": 717,
+    "801201006": 718,
+    "801201007": 719,
+    "801201008": 720,
+    "801201009": 721,
+    "801201010": 722,
+    "801201011": 723,
+    "801201012": 724,
+    "801201013": 725,
+    "801201014": 726,
+    "801201015": 727,
+    "801201016": 728,
+    "801201017": 729,
+    "801201018": 730,
+    "801201019": 731,
+    "801201020": 732,
+    "801201021": 733,
+    "801201023": 734,
+    "801201024": 735,
+    "801201025": 736,
+    "801201026": 737,
+    "8012020": 738,
+    "801202001": 739,
+    "801202002": 740,
+    "801202003": 741,
+    "801202004": 742,
+    "801202005": 743,
+    "801202006": 744,
+    "801202007": 745,
+    "801202008": 746,
+    "801202009": 747,
+    "801202010": 748,
+    "801202011": 749,
+    "801202012": 750,
+    "801202013": 751,
+    "8012021": 752,
+    "801202101": 753,
+    "801202102": 754,
+    "8012030": 755,
+    "801203001": 756,
+    "801203002": 757,
+    "801203003": 758,
+    "801203004": 759,
+    "801203005": 760,
+    "801203006": 761,
+    "801203007": 762,
+    "8012140": 763,
+    "8012142": 764,
+    "8012143": 765,
+    "8012145": 766,
+    "8012200": 767,
+    "8012201": 768,
+    "8012202": 769,
+    "8012203": 770,
+    "8012210": 771,
+    "8012211": 772,
+    "8012212": 773,
+    "8012213": 774,
+    "8013010": 775,
+    "801301001": 776,
+    "801301002": 777,
+    "801301003": 778,
+    "801301004": 779,
+    "801301005": 780,
+    "801301006": 781,
+    "801301007": 782,
+    "801301008": 783,
+    "801301009": 784,
+    "801301010": 785,
+    "801301011": 786,
+    "801301012": 787,
+    "801301013": 788,
+    "801301014": 789,
+    "801301015": 790,
+    "8013011": 791,
+    "8013012": 792,
+    "8013013": 793,
+    "8013141": 794,
+    "8013144": 795,
+    "8015010": 796,
+    "8015011": 797,
+    "8015020": 798,
+    "8015021": 799,
+    "8022010": 800,
+    "8022020": 801,
+    "802202001": 802,
+    "802202002": 803,
+    "8022030": 804,
+    "8024010": 805,
+    "8024011": 806,
+    "8024012": 807,
+    "8025010": 808,
+    "802501001": 809,
+    "8032010": 810,
+    "803201001": 811,
+    "803201002": 812,
+    "803201003": 813,
+    "8032020": 814,
+    "803202001": 815,
+    "803202002": 816,
+    "803202003": 817,
+    "8033010": 818,
+    "803301001": 819,
+    "803301002": 820,
+    "8033011": 821,
+    "803301202": 822,
+    "9003020": 823,
+    "9004600": 824
+}

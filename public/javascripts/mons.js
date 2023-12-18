@@ -7,7 +7,7 @@ $(function () {
         var lang = lang_
     }
 
-    if (lang == 'EN') {$('body').css('font-family', "'Poppins', sans-serif")}
+    if (lang == 'EN') {$('body').css('font-family', "'Segoe UI', sans-serif")}
     else {$('body').css('font-family', "'Microsoft YaHei', sans-serif")}
 
     $('h3 .title').html(txt.Title[lang])
@@ -24,7 +24,7 @@ $(function () {
     var DEF = 2000
     var LV = 95
     var cur_mon = {}
-    var IS_DMG = 1
+    var IS_DMG = 0
     var skill_phase = 0
 
     $('container').render({
@@ -43,6 +43,12 @@ $(function () {
                                 monsterRender(d.org_data._id);
                             }
                         }
+                    }
+                },
+                {
+                    hr: '',
+                    style: {
+                        'margin-bottom': '0px'
                     }
                 },
                 {
@@ -90,26 +96,29 @@ $(function () {
                                         br: ''
                                     },
                                     {
-                                        span: {
-                                            t: {
-                                                img: function (k) {
-                                                    return 'images/Element/' + k.data + '.png'
+                                        span: [
+                                            {
+                                                span: {
+                                                    img: function (k) {
+                                                        return 'images/Element/' + k.data + '.png'
+                                                    },
+                                                    class: 'elem',
+                                                    data: me.Weak
                                                 },
-                                                class: 'elem'
+                                                class: 'monelem'
                                             },
-                                            data: me.Weak
-                                        },
-                                        class: 'monelem'
-                                    },
-                                    {
-                                        span: function () {
-                                            var s = 'HP <b><color style="color:#cc0000;">' + me.Stats.HP.toString() + '</color></b>'
-                                            if (me.HPCount && me.HPCount > 1) {
-                                                s += '×' + me.HPCount
-                                            }
-                                            return s
-                                        },
-                                        when: !(me.StatsExtra && me.StatsExtra.HP)
+                                            {
+                                                span: function () {
+                                                    var s = 'HP <b><color style="color:#cc0000;">' + me.Stats.HP.toString() + '</color></b>'
+                                                    if (me.HPCount && me.HPCount > 1) {
+                                                        s += '×' + me.HPCount
+                                                    }
+                                                    return s
+                                                },
+                                                when: !(me.StatsExtra && me.StatsExtra.HP),
+                                            },
+                                        ],
+                                        class: 'monname_'
                                     },
                                 ],
                                 class: 'monright'
@@ -175,15 +184,41 @@ $(function () {
 
     function renderBasic() {
         $('.mon_body').empty().render({
-            template: {}
+            template: [
+                {
+                    div: [
+                        {
+                            div: cur_mon.Name[lang],
+                            class: 'a_section_head'
+                        },
+                        {
+                            div: [
+                                {
+                                    p: '#' + cur_mon._id
+                                },
+                                {
+                                    p: cur_mon.Desc[lang]
+                                }
+                            ],
+                            class: 'a_section_content'
+                        }
+                    ],
+                    class: 'a_section'
+                }
+            ]
         })
     }
 
     function renderSkill() {
-        $('.mon_body').empty()
+        $('.mon_body').empty().render({
+            template: {
+                section: '',
+                class: 'skill_phase'
+            }
+        })
         cur_mon.Skills.forEach(function (phase, i) {
-            $('.mon_body').render({
-                schedule: txt.SkillPhase[phase.Phase],
+            $('.skill_phase').render({
+                schedule: txt.SkillPhase[phase.Phase][lang],
                 a: {
                     'data-id': phase.Phase + 1
                 },
@@ -204,6 +239,15 @@ $(function () {
                 class: 'mon_body_'
             }
         })
+        if (cur_mon.Skills.length) {
+            if ((cur_mon.Skills.length > 1) && (cur_mon.Skills[0].Phase == 0)) {
+                renderSkillPhase(1)
+                $('.skill_phase schedule:nth-child(2)').addClass('active')
+            } else {
+                renderSkillPhase(0)
+                $('.skill_phase schedule:nth-child(1)').addClass('active')
+            }
+        }
     }
 
     function renderSkillPhase(i) {
@@ -220,6 +264,7 @@ $(function () {
                         },
                         {
                             div: function () {
+                                var COL = elemcolor[skill.Elem]
                                 if (!skill.DMG) {
                                     var v1 = 0
                                     var v2 = 0
@@ -236,17 +281,17 @@ $(function () {
                                 if (IS_DMG) {
                                     var defcoeff = (10 * LV + 200) / (10 * LV + 200 + DEF)
                                     var atk = cur_mon.Stats.ATK * _elitegroup[EG].AttackRatio * _hardlevelgroup[HLG][LV - 1].ATK + (cur_mon.StatsExtra ? (cur_mon.StatsExtra.ATK ? cur_mon.StatsExtra.ATK : 0) : 0)
-                                    var s1 = '<color style="color:#ffacff;"><b>' + Math.round(v1 * atk * defcoeff) + '</b></color>'
-                                    var s2 = '<color style="color:#ffacff;"><b>' + Math.round(v2 * atk * defcoeff) + '</b></color>'
-                                    var s3 = '<color style="color:#ffacff;"><b>' + Math.round(v3 * atk * defcoeff) + '</b></color>'
-                                    var s4 = '<color style="color:#ffacff;"><b>' + Math.round(v4 * atk * defcoeff) + '</b></color>'
-                                    var s5 = '<color style="color:#ffacff;"><b>' + Math.round(v5 * atk * defcoeff) + '</b></color>'
+                                    var s1 = '<color style="color:#' + COL +  ';"><b>' + Math.floor(v1 * atk * defcoeff) + '</b></color>'
+                                    var s2 = '<color style="color:#' + COL +  ';"><b>' + Math.floor(v2 * atk * defcoeff) + '</b></color>'
+                                    var s3 = '<color style="color:#' + COL +  ';"><b>' + Math.floor(v3 * atk * defcoeff) + '</b></color>'
+                                    var s4 = '<color style="color:#' + COL +  ';"><b>' + Math.floor(v4 * atk * defcoeff) + '</b></color>'
+                                    var s5 = '<color style="color:#' + COL +  ';"><b>' + Math.floor(v5 * atk * defcoeff) + '</b></color>'
                                 } else {
-                                    var s1 = '<color style="color:#ffacff;"><b>' + (v1 * 100).toString() + '%</b></color>'
-                                    var s2 = '<color style="color:#ffacff;"><b>' + (v2 * 100).toString() + '%</b></color>'
-                                    var s3 = '<color style="color:#ffacff;"><b>' + (v3 * 100).toString() + '%</b></color>'
-                                    var s4 = '<color style="color:#ffacff;"><b>' + (v4 * 100).toString() + '%</b></color>'
-                                    var s5 = '<color style="color:#ffacff;"><b>' + (v5 * 100).toString() + '%</b></color>'
+                                    var s1 = '<color style="color:#' + COL +  ';"><b>' + (v1 * 100).toFixed(1).replace('.0', '') + '%</b></color>'
+                                    var s2 = '<color style="color:#' + COL +  ';"><b>' + (v2 * 100).toFixed(1).replace('.0', '') + '%</b></color>'
+                                    var s3 = '<color style="color:#' + COL +  ';"><b>' + (v3 * 100).toFixed(1).replace('.0', '') + '%</b></color>'
+                                    var s4 = '<color style="color:#' + COL +  ';"><b>' + (v4 * 100).toFixed(1).replace('.0', '') + '%</b></color>'
+                                    var s5 = '<color style="color:#' + COL +  ';"><b>' + (v5 * 100).toFixed(1).replace('.0', '') + '%</b></color>'
                                 }
                                 return skill.Desc[lang].replace('<1>', s1).replace('<2>', s2).replace('<3>', s3).replace('<4>', s4).replace('<5>', s5)
                             },
@@ -260,8 +305,145 @@ $(function () {
     }
 
     function renderDMG() {
-
+        $('.mon_body').empty().render({
+            template: [
+                {
+                    div: [
+                        {
+                            p: txt.MonsterDMG[0][lang]
+                        },
+                        {
+                            input: '',
+                            a: {
+                                type: 'number',
+                                placeholder: '1~100',
+                                value: LV
+                            },
+                            class: 'input_lv'
+                        }
+                    ],
+                    class: 'DMG_input'
+                },
+                {
+                    div: [
+                        {
+                            p: txt.MonsterDMG[1][lang]
+                        },
+                        {
+                            input: '',
+                            a: {
+                                type: 'number',
+                                value: DEF
+                            },
+                            class: 'input_def'
+                        }
+                    ],
+                    class: 'DMG_input'
+                },
+                {
+                    div: [
+                        {
+                            p: txt.MonsterDMG[2][lang]
+                        },
+                        {
+                            input: '',
+                            a: {
+                                type: 'number',
+                                value: HLG
+                            },
+                            class: 'input_hlg'
+                        }
+                    ],
+                    class: 'DMG_input'
+                },
+                {
+                    div: [
+                        {
+                            p: txt.MonsterDMG[3][lang]
+                        },
+                        {
+                            input: '',
+                            a: {
+                                type: 'number',
+                                value: EG
+                            },
+                            class: 'input_eg'
+                        }
+                    ],
+                    class: 'DMG_input'
+                },
+                {
+                    div: {
+                        button: txt.MonsterDMG_CTRL[0][lang],
+                        class: 'input_calc'
+                    },
+                    class: 'DMG_input'
+                },
+                {
+                    div: {
+                        button: txt.MonsterDMG_CTRL[1][lang],
+                        class: 'input_reset'
+                    },
+                    class: 'DMG_input'
+                },
+                {
+                    div: [
+                        {
+                            p: txt.MonsterDEF[0][lang],
+                            style: {
+                                width: '100%',
+                                'text-align': 'center'
+                            }
+                        },
+                        {
+                            img: 'images/Misc/DEF_HSR.png',
+                            style: {
+                                width: '100%',
+                                'max-width': '500px'
+                            }
+                        }
+                    ],
+                    class: 'DMG_Tut'
+                },
+                {
+                    div: [
+                        {
+                            p: txt.MonsterDEF[1][lang],
+                            style: {
+                                width: '100%',
+                                'text-align': 'center'
+                            }
+                        },
+                        {
+                            img: 'images/Misc/DEF_GI.png',
+                            style: {
+                                width: '100%',
+                                'max-width': '500px'
+                            }
+                        }
+                    ],
+                    class: 'DMG_Tut'
+                }
+            ]
+        })
     }
+
+    $('body').on('click', '.input_calc', function () {
+        IS_DMG = 1
+        LV = parseInt($('.input_lv').val())
+        DEF = parseInt($('.input_def').val())
+        HLG = parseInt($('.input_hlg').val())
+        EG = parseInt($('.input_eg').val())
+        if (!_elitegroup[EG]) { EG = 1 }
+        if (!_hardlevelgroup[HLG]) { HLG = 1 }
+        if (!_hardlevelgroup[HLG][LV - 1]) { LV = _hardlevelgroup[HLG].length }
+        $('.mon_head section schedule:nth-child(2)').click()
+    })
+
+    $('body').on('click', '.input_reset', function () {
+        IS_DMG = 0
+        $('.mon_head section schedule:nth-child(2)').click()
+    })
 
     $('body').on('click', '.monster_card', function () {
         popMons(parseInt($(this).attr('data-id')) - 1)

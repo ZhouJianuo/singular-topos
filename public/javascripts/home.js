@@ -1,6 +1,6 @@
 $(function() {
 
-    if (lang == 'EN') {$('body').css('font-family', "'Poppins', sans-serif")}
+    if (lang == 'EN') {$('body').css('font-family', "'Segoe UI', sans-serif")}
     else {$('body').css('font-family', "'Microsoft YaHei', sans-serif")}
 
     var cur_select = 1
