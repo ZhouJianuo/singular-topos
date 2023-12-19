@@ -4,7 +4,10 @@ var GI = [
             "CH": "怪物",
             "EN": "Monsters"
         },
-        "Link": "www.mons.wiki",
+        "Link": {
+            "CH": "mons.wiki",
+            "EN": "en.mons.wiki"
+        },
         "Features": [
             {
                 "CH": "一键查询怪物血量、攻击、抗性",
@@ -30,7 +33,10 @@ var GI = [
             "CH": "深境螺旋",
             "EN": "Spiral Abyss"
         },
-        "Link": "www.abyss.wiki",
+        "Link": {
+            "CH": "abyss.wiki",
+            "EN": "en.abyss.wiki"
+        },
         "Features": [
             {
                 "CH": "敌方阵容、敌方血量、关卡总血量",
@@ -56,7 +62,10 @@ var GI = [
             "CH": "角色 武器 圣遗物",
             "EN": "Characters Weapons Artifacts"
         },
-        "Link": "www.char.wiki",
+        "Link": {
+            "CH": "char.wiki",
+            "EN": "en.char.wiki"
+        },
         "Features": [
             {
                 "CH": "角色数据、培养材料、故事、语音",
@@ -86,7 +95,6 @@ var GI = [
             "CH": "怪物护盾",
             "EN": "Monster Shields"
         },
-        "Link": "",
         "Features": [
             {
                 "CH": "怪物护盾、护甲、造物的元素量和血量",
@@ -100,7 +108,6 @@ var GI = [
             "CH": "成就",
             "EN": "Achievements"
         },
-        "Link": "",
         "Features": [
             {
                 "CH": "成就合辑、隐藏成就、版本新增成就",
@@ -114,7 +121,6 @@ var GI = [
             "CH": "加载提示",
             "EN": "Loading Tips"
         },
-        "Link": "",
         "Features": [
             {
                 "CH": "加载提示，地区分类",
@@ -131,7 +137,6 @@ var SR = [
             "CH": "怪物",
             "EN": "Monsters"
         },
-        "Link": "",
         "Features": [
             {
                 "CH": "怪物血量、速度、伤害抗性、效果抵抗等",
@@ -149,7 +154,7 @@ var SR = [
             "CH": "混沌回忆",
             "EN": "Memory of Chaos"
         },
-        "Link": "",
+        "Disable": true,
         "Features": [
             {
                 "CH": "敌方阵容、弱点、血量、分波站位",
@@ -167,7 +172,7 @@ var SR = [
             "CH": "虚构叙事",
             "EN": "Pure Fiction"
         },
-        "Link": "",
+        "Disable": true,
         "Features": [
             {
                 "CH": "敌方阵容、弱点、血量、分波站位",
@@ -179,5 +184,32 @@ var SR = [
             }
         ],
         "Href": "/fiction"
+    },
+    {
+        "Title": {
+            "CH": "模拟宇宙",
+            "EN": "Simulated Universe"
+        },
+        "Disable": true,
+        "Features": [],
+        "Href": "/su"
+    },
+    {
+        "Title": {
+            "CH": "成就",
+            "EN": "Achievements"
+        },
+        "Disable": true,
+        "Features": [],
+        "Href": "/ach"
+    },
+    {
+        "Title": {
+            "CH": "加载提示",
+            "EN": "Loading Tips"
+        },
+        "Disable": true,
+        "Features": [],
+        "Href": "/load"
     },
 ]

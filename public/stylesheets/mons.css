@@ -17,11 +17,13 @@ popdialog {
 }
 
 .mon_head schedule {
-    width: calc((100% - 150px) / 3);
+    width: calc((100% - 120px) / 3);
+    font-size: 14px;
 }
 
 .skill_phase schedule {
-    width: calc((100% - 150px) / 4);
+    width: calc((100% - 120px) / 3);
+    font-size: 14px;
 }
 
 .skill_phase {
@@ -80,7 +82,7 @@ popdialog {
     max-width: calc(100% - 65px);
 }
 
-.mon_head {
+.mon_head, .mon_head section {
     margin: 0px;
 }
 
@@ -91,7 +93,7 @@ popdialog {
     width: 100%;
 }
 
-.a_section, .a_section_small, .a_section_smallsmall, .a_section_small_1, .a_section_small_2 {
+.a_section, .a_section_small, .a_section_smallsmall, .a_section_small_1, .a_section_small_2, .a_section_small_3, .a_section_small_4 {
     width: 94.7%;
     display: inline-block;
     border-radius: 10px;
@@ -120,7 +122,7 @@ popdialog {
     margin-left: 0px;
 }
 
-.a_section_content input {
+.a_section_content input, select {
     width: 47%;
     height: 40px;
     padding: 5px 10px;
@@ -131,7 +133,7 @@ popdialog {
     margin: auto;
 }
 
-.a_section_head input {
+.a_section_head input, select {
     width: 72px;
     height: 28px;
     border-radius: 5px;
@@ -174,7 +176,7 @@ input[type=number] {
     text-align: center;
 }
 
-.DMG_input input {
+.DMG_input input, select {
     width: 100px;
     height: 30px;
     border-radius: 3px;
@@ -195,11 +197,105 @@ input[type=number] {
     cursor: pointer;
 }
 
+.a_section_content td {
+    line-height: 2.3;
+}
+
+.statpageicon {
+    width: 22px;
+    margin-right: 5px;
+    vertical-align: middle;
+}
+
+.stat_ {
+    padding-left: 15px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.base_stat_input {
+    width: 37%;
+    max-width: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 8px;
+}
+
+.base_stat_table {
+    padding-left: 10px;
+    border-left: 1px solid white;
+}
+
+.base_stat_input div {
+    width: 100%;
+    margin: 0px;
+}
+
+.base_stat_input p {
+    font-size: 14px;
+    margin-top: 0px;
+    margin-bottom: 8px;
+    line-height: 1!important;
+    font-weight: bold;
+}
+
+.base_stat_lv, .base_stat_eg {
+    height: 20px!important;
+    width: 60px!important;
+    font-size: 14px!important;
+}
+
+.base_stat_hlg {
+    height: 30px;
+    width: 80px;
+    font-size: 13px;
+    padding: 0px!important;
+}
+
+.input_hlg {
+    font-size: 14px!important;
+    height: 33px!important;
+    width: 105px!important;
+}
+
+.up {
+    width: 35px;
+    height: 25px;
+    border-radius: 3px;
+    margin: 0px;
+    text-align: center;
+    padding: 0px;
+}
+
+.down {
+    width: 35px;
+    height: 25px;
+    border-radius: 3px;
+    margin: 0px 10px 0px 0px;
+    text-align: center;
+    padding: 0px;
+}
+
+@media screen and (min-width: 500px) and (max-width: 900px) {
+    .base_stat_table {
+        font-size: 15px;
+    }
+}
+
 @media screen and (min-width: 500px) and (max-width: 800px) {
+    .statpageicon {
+        width: 26px;
+    }
+    .skill_phase schedule {
+        width: calc((100% - 120px) / 3);
+    }
+    .mon_head schedule, .skill_phase schedule {
+        font-size: 15px;
+    }
     .a_section_content { font-size: 16px; }
     .a_section_content span { font-size: 16px; }
-    .a_section_content input { font-size: 16px; }
-    .a_section_head input { font-size: 16px; }
+    .a_section_content input, select { font-size: 16px; }
+    .a_section_head input, select { font-size: 16px; }
     .a_section_head, .a_section_head span { font-size: 19px; }
     .content schedule {
         width: calc((100% - 160px) / 4);
@@ -225,6 +321,15 @@ input[type=number] {
 }
 
 @media screen and (min-width: 800px) {
+    .statpageicon {
+        width: 30px;
+    }
+    .skill_phase schedule {
+        width: calc((100% - 150px) / 4);
+    }
+    .mon_head schedule, .skill_phase schedule {
+        font-size: 16px;
+    }
     .content schedule {
         width: calc((100% - 80px) / 6);
         font-size: 16px;
@@ -233,10 +338,12 @@ input[type=number] {
     .a_section_smallsmall {width: 30%;}
     .a_section_small_1 {width: 36%;}
     .a_section_small_2 {width: 56%;}
+    .a_section_small_3 {width: 20%;}
+    .a_section_small_4 {width: 40%;}
     .a_section_content { font-size: 17px; }
     .a_section_content span { font-size: 17px; }
-    .a_section_content input { font-size: 17px; }
-    .a_section_head input { font-size: 17px; }
+    .a_section_content input, select { font-size: 17px; }
+    .a_section_head input, select { font-size: 17px; }
     .a_section_head, .a_section_head span { font-size: 20px; }
     .monicon {
         height: 53px;

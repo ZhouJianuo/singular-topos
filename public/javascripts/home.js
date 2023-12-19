@@ -64,7 +64,7 @@ $(function() {
                         },
                         {
                             div: {
-                                span: `[[Link]]`,
+                                span: `[[Link/${lang}]]`,
                             },
                             class: 'dir_link',
                             when: function (k) {
@@ -97,6 +97,7 @@ $(function() {
             template: {
                 div : {
                     a: function (k) {
+                        if (k.data.Disable) return 'javascript:void(0)'
                         return k.data.Href + '?lang=' + lang
                     },
                     t: [
@@ -112,7 +113,16 @@ $(function() {
                             },
                             class: 'dir_link',
                             when: function (k) {
-                                return k.data.Link != ''
+                                return k.data.Link
+                            }
+                        },
+                        {
+                            div: {
+                                span: txt.Coming_Soon[lang],
+                            },
+                            class: 'dir_link',
+                            when: function (k) {
+                                return k.data.Disable
                             }
                         },
                         {
@@ -122,13 +132,23 @@ $(function() {
                                 },
                                 datapath: 'Features'
                             },
-                            class: 'dir_body'
+                            class: 'dir_body',
+                            when: function (k) {
+                                return !k.data.Disable
+                            }
                         }
                     ],
                     class: 'dir',
                     data: SR,
                     attr: {
-                        target: '_blank'
+                        target: function (k) {
+                            if (k.data.Disable) return ''
+                            return '_blank'
+                        },
+                        style: function (k) {
+                            if (k.data.Disable) return 'cursor:default;'
+                            return ''
+                        }
                     }
                 },
                 class: 'dir_wrap'

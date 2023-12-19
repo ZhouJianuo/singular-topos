@@ -7445,3 +7445,18 @@ var _elitegroup = {
         "StanceRatio": 1.0
     }
 }
+
+var _curvedesc = {
+    "CH": {
+        "标准": 1,
+        "混沌回忆": 3,
+        "强化": 2,
+        "以太战线": 1401
+    },
+    "EN": {
+        "Standard": 1,
+        "MoC": 3,
+        "Powered": 2,
+        "Aetherium Wars": 1401
+    }
+}

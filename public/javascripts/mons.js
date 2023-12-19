@@ -19,13 +19,16 @@ $(function () {
         popLinks(lang)
     })
 
-    var EG = 1
-    var HLG = 1
-    var DEF = 2000
-    var LV = 95
-    var cur_mon = {}
+    var EG = $('#EG').val() ? parseInt($('#EG').val()) : 1
+    var HLG = $('#HLG').val() ? parseInt($('#HLG').val()) : 1
+    var DEF = $('#DEF').val() ? parseInt($('#DEF').val()) : 2000
+    var LV = $('#LEVEL').val() ? parseInt($('#LEVEL').val()) : 95
+    refreshStats()
     var IS_DMG = 0
+    var cm = {}
     var skill_phase = 0
+
+    if ($('#MONSTER').val() && _monsterindex[$('#MONSTER').val()]) popMons(_monsterindex[$('#MONSTER').val()])
 
     $('container').render({
         template: {
@@ -136,9 +139,8 @@ $(function () {
 
     function popMons(ind) {
         var me = _monster[ind]
-        cur_mon = me
         poplayer({
-            header: me.Name[lang] + txt.Affix,
+            header: me.Name[lang] + txt.Affix[lang],
             width: '100%',
             template: [
                 {
@@ -159,9 +161,9 @@ $(function () {
                                             $(d.sender).addClass('active').siblings('schedule').removeClass('active');
                                             poptyp = parseInt($(d.sender).attr('data-id')) - 1
                                             if (!poptyp) {
-                                                renderBasic()
+                                                renderBasic(me)
                                             } else if (poptyp == 1) {
-                                                renderSkill()
+                                                renderSkill(me)
                                             } else {
                                                 renderDMG()
                                             }
@@ -180,36 +182,226 @@ $(function () {
                 }
             ]
         })
+        renderBasic(me)
     }
 
-    function renderBasic() {
+    function renderBasic(cur_mon) {
+        cm = cur_mon
         $('.mon_body').empty().render({
             template: [
                 {
                     div: [
                         {
-                            div: cur_mon.Name[lang],
+                            div: [cur_mon.Name[lang], {
+                                span: {
+                                    img: function (k) {
+                                        return 'images/Element/' + k.data + '.png'
+                                    },
+                                    class: 'elem',
+                                    style: {
+                                        'vertical-align': 'middle'
+                                    },
+                                    data: cur_mon.Weak
+                                },
+                                style: {
+                                    'margin-left': '8px',
+                                    'white-space': 'pre'
+                                }
+                            }],
                             class: 'a_section_head'
                         },
                         {
                             div: [
                                 {
-                                    p: '#' + cur_mon._id
+                                    img: 'images/' + cur_mon.Icon,
+                                    height: '80px'
                                 },
                                 {
-                                    p: cur_mon.Desc[lang]
+                                    p: 'ID ' + cur_mon._id,
+                                    style: {
+                                        'margin': '0px',
+                                        'font-size': '13px',
+                                        'font-weight': 'bold',
+                                        'color': '#fff',
+                                    }
+                                },
+                                {
+                                    p: cur_mon.Desc[lang],
+                                    style: {
+                                        'margin': '0px',
+                                    }
                                 }
                             ],
                             class: 'a_section_content'
                         }
                     ],
                     class: 'a_section'
+                },
+                {
+                    div: [
+                        {
+                            div: '',
+                            class: 'a_section_head basestat'
+                        },
+                        {
+                            div: [
+                                {
+                                    div: [
+                                        {
+                                            div: [
+                                                {
+                                                    p: txt.BaseStatInput[0][lang]
+                                                },
+                                                {
+                                                    input: '',
+                                                    a: {
+                                                        type: 'number',
+                                                        placeholder: '1~100',
+                                                        value: LV
+                                                    },
+                                                    class: 'base_stat_lv'
+                                                },
+                                                {
+                                                    br: '',
+                                                },
+                                                {
+                                                    button: '▼',
+                                                    class: 'down'
+                                                },
+                                                {
+                                                    button: '▲',
+                                                    class: 'up'
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            div: [
+                                                {
+                                                    p: txt.BaseStatInput[1][lang]
+                                                },
+                                                {
+                                                    select: '',
+                                                    options: _curvedesc[lang],
+                                                    class: 'base_stat_hlg'
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            div: [
+                                                {
+                                                    p: txt.BaseStatInput[2][lang]
+                                                },
+                                                {
+                                                    input: '',
+                                                    a: {
+                                                        type: 'number',
+                                                        value: EG
+                                                    },
+                                                    class: 'base_stat_eg'
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    class: 'base_stat_input'
+                                },
+                                {
+                                    table: [],
+                                    class: 'base_stat_table'
+                                }
+                            ],
+                            class: 'a_section_content',
+                            style: {
+                                display: 'flex'
+                            }
+                        }
+                    ],
+                    class: 'a_section_small_4'
+                },
+                {
+                    div: [
+                        {
+                            div: txt.MonsterLowerStats[1][lang],
+                            class: 'a_section_head'
+                        },
+                        {
+                            div: {
+                                table: function (k) {
+                                    elemlist.forEach(function (e) {
+                                        $(k.container).render({
+                                            template: {
+                                                tr: [
+                                                    {
+                                                        td: {
+                                                            img: 'images/Element/' + e + '.png',
+                                                            class: 'statpageicon'
+                                                        }
+                                                    },
+                                                    {
+                                                        td: cur_mon.RESBase[e] ? (parseInt(cur_mon.RESBase[e] * 100) + '%') : '0%'
+                                                    }
+                                                ]
+                                            }
+                                        })
+                                    })
+                                }
+                            },
+                            class: 'a_section_content'
+                        },
+                    ],
+                    class: 'a_section_small_3'
+                },
+                {
+                    div: [
+                        {
+                            div: txt.MonsterLowerStats[2][lang],
+                            class: 'a_section_head'
+                        },
+                        {
+                            div: {
+                                table: function (k) {
+                                    debufflist.forEach(function (e) {
+                                        if (cur_mon.DebuffRES && cur_mon.DebuffRES[e.ID]) {
+                                            if (cur_mon.DebuffRES[e.ID] != 1) {
+                                                var res = parseInt(cur_mon.DebuffRES[e.ID] * 100) + '%'
+                                            } else {
+                                                var res = txt.Immune[lang]
+                                            }
+                                            $(k.container).render({
+                                                template: {
+                                                    tr: [
+                                                        {
+                                                            td: {
+                                                                img: 'images/Status/' + e.Icon + '.png',
+                                                                class: 'statpageicon'
+                                                            }
+                                                        },
+                                                        {
+                                                            td: e.Name[lang]
+                                                        },
+                                                        {
+                                                            td: res,
+                                                            style: {
+                                                                'padding-left': '15px'
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            })
+                                        }
+                                    })
+                                }
+                            },
+                            class: 'a_section_content'
+                        }
+                    ],
+                    class: 'a_section_smallsmall'
                 }
             ]
         })
+        renderStat(cur_mon)
     }
 
-    function renderSkill() {
+    function renderSkill(cur_mon) {
         $('.mon_body').empty().render({
             template: {
                 section: '',
@@ -228,7 +420,7 @@ $(function () {
                             return;
                         }
                         $(d.sender).addClass('active').siblings('schedule').removeClass('active');
-                        renderSkillPhase(i)
+                        renderSkillPhase(cur_mon, i)
                     }
                 }
             })
@@ -241,16 +433,16 @@ $(function () {
         })
         if (cur_mon.Skills.length) {
             if ((cur_mon.Skills.length > 1) && (cur_mon.Skills[0].Phase == 0)) {
-                renderSkillPhase(1)
+                renderSkillPhase(cur_mon, 1)
                 $('.skill_phase schedule:nth-child(2)').addClass('active')
             } else {
-                renderSkillPhase(0)
+                renderSkillPhase(cur_mon, 0)
                 $('.skill_phase schedule:nth-child(1)').addClass('active')
             }
         }
     }
 
-    function renderSkillPhase(i) {
+    function renderSkillPhase(cur_mon, i) {
         $('.mon_body_').empty()
         var sk = cur_mon.Skills[i].Skills
         sk.forEach(function (skid) {
@@ -259,7 +451,7 @@ $(function () {
                 template: {
                     div: [
                         {
-                            div: skill.Name[lang],
+                            div: skill.Name[lang] + (skill.SP ? "<span style='font-size:14px;color:#fff;font-weight:normal;margin-left:10px;margin-right:5px;float:right;'>" + skill.SP.toFixed(0) + "SP</span>" : ''),
                             class: 'a_section_head'
                         },
                         {
@@ -346,11 +538,8 @@ $(function () {
                             p: txt.MonsterDMG[2][lang]
                         },
                         {
-                            input: '',
-                            a: {
-                                type: 'number',
-                                value: HLG
-                            },
+                            select: '',
+                            options: _curvedesc[lang],
                             class: 'input_hlg'
                         }
                     ],
@@ -428,15 +617,146 @@ $(function () {
         })
     }
 
-    $('body').on('click', '.input_calc', function () {
-        IS_DMG = 1
+    function renderStat(cur_mon) {
+        getStats2()
+        $('.basestat').html(txt.MonsterLowerStats[0][lang] + ' Lv' + LV)
+        var _eg = _elitegroup[EG]
+        var _hlg = _hardlevelgroup[HLG][LV - 1]
+        var _hp = cur_mon.Stats.HP * _hlg.HP * _eg.HPRatio + (cur_mon.StatsExtra ? (cur_mon.StatsExtra.HP ? cur_mon.StatsExtra.HP : 0) : 0)
+        var _atk = cur_mon.Stats.ATK * _hlg.ATK * _eg.AttackRatio + (cur_mon.StatsExtra ? (cur_mon.StatsExtra.ATK ? cur_mon.StatsExtra.ATK : 0) : 0)
+        var _def = cur_mon.Stats.DEF * _hlg.DEF * _eg.DefenceRatio + (cur_mon.StatsExtra ? (cur_mon.StatsExtra.DEF ? cur_mon.StatsExtra.DEF : 0) : 0)
+        var _spd = cur_mon.Stats.SPD * _hlg.SPD * _eg.SpeedRatio + (cur_mon.StatsExtra ? (cur_mon.StatsExtra.SPD ? cur_mon.StatsExtra.SPD : 0) : 0)
+        var _stance = cur_mon.Stats.Stance * _hlg.Stance * _eg.StanceRatio + (cur_mon.StatsExtra ? (cur_mon.StatsExtra.Stance ? cur_mon.StatsExtra.Stance : 0) : 0)
+        var _res = _hlg.StatusRES + cur_mon.StatusRESBase
+        var _prob = _hlg.StatusProb
+        $('.base_stat_table').empty().render({
+            template: [
+                {
+                    tr: [
+                        {
+                            td: props.HP[lang]
+                        },
+                        {
+                            td: _hp.toFixed(0),
+                            class: 'stat_'
+                        }
+                    ]
+                },
+                {
+                    tr: [
+                        {
+                            td: props.Stance[lang]
+                        },
+                        {
+                            td: _stance.toFixed(0),
+                            class: 'stat_'
+                        }
+                    ]
+                },
+                {
+                    tr: [
+                        {
+                            td: props.SPD[lang]
+                        },
+                        {
+                            td: _spd.toFixed(2),
+                            class: 'stat_'
+                        }
+                    ]
+                },
+                {
+                    tr: [
+                        {
+                            td: props.StatusRES[lang]
+                        },
+                        {
+                            td: (_res * 100).toFixed(1) + '%',
+                            class: 'stat_'
+                        }
+                    ]
+                },
+                {
+                    tr: [
+                        {
+                            td: props.StatusProb[lang]
+                        },
+                        {
+                            td: (_prob * 100).toFixed(1) + '%',
+                            class: 'stat_'
+                        }
+                    ]
+                },
+                {
+                    tr: [
+                        {
+                            td: props.DEF[lang]
+                        },
+                        {
+                            td: _def.toFixed(0),
+                            class: 'stat_'
+                        }
+                    ]
+                },
+                {
+                    tr: [
+                        {
+                            td: props.ATK[lang]
+                        },
+                        {
+                            td: _atk.toFixed(0),
+                            class: 'stat_'
+                        }
+                    ]
+                },
+            ]
+        })
+    }
+
+    function getStats1() {
         LV = parseInt($('.input_lv').val())
         DEF = parseInt($('.input_def').val())
         HLG = parseInt($('.input_hlg').val())
         EG = parseInt($('.input_eg').val())
+        refreshStats()
+        $('.input_lv').val(LV)
+        $('.input_def').val(DEF)
+        $('.input_hlg').val(HLG)
+        $('.input_eg').val(EG)
+    }
+
+    function getStats2() {
+        LV = parseInt($('.base_stat_lv').val())
+        HLG = parseInt($('.base_stat_hlg').val())
+        EG = parseInt($('.base_stat_eg').val())
+        refreshStats()
+        $('.base_stat_lv').val(LV)
+        $('.base_stat_hlg').val(HLG)
+        $('.base_stat_eg').val(EG)
+    }
+
+    function refreshStats() {
         if (!_elitegroup[EG]) { EG = 1 }
         if (!_hardlevelgroup[HLG]) { HLG = 1 }
         if (!_hardlevelgroup[HLG][LV - 1]) { LV = _hardlevelgroup[HLG].length }
+    }
+
+    $('body').on('click', '.up', function () {
+        $('.base_stat_lv').val(LV + 1)
+        renderStat(cm)
+    })
+
+    $('body').on('click', '.down', function () {
+        $('.base_stat_lv').val(LV - 1)
+        renderStat(cm)
+    })
+
+    $('body').on('change', '', function () {
+        renderStat(cm)
+    })
+
+    $('body').on('click', '.input_calc', function () {
+        IS_DMG = 1
+        getStats1()
         $('.mon_head section schedule:nth-child(2)').click()
     })
 

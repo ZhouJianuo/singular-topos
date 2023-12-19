@@ -20,10 +20,13 @@ app.get('/en', (req, res) => {
 
 app.get('/mons', async (req, res) => {
     let result = {};
-    let { monster = '', level = '', lang = '' } = req.query;
+    let { monster = '', level = '', lang = '', eg = '', hlg = '', def = '' } = req.query;
     result.lang = lang;
     result.monster = monster;
     result.level = level;
+    result.eg = eg;
+    result.hlg = hlg;
+    result.def = def;
     result.title = 'HomDGCat Database';
     res.render('mons', result);
 });
