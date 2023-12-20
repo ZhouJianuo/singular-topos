@@ -50,6 +50,8 @@ app.get('/fiction', async (req, res) => {
 
 
 app.use(express.static(path.join(__dirname, '/public')));
-app.listen(8080);
+
+const PORT = process.env.PORT | 8080
+app.listen(PORT);
 
 module.exports = app;
