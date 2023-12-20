@@ -37,6 +37,11 @@ $(function () {
                     section: {
                         schedule: `[[Name/${lang}]]`,
                         data: _kingdoms,
+                        a: {
+                            class: function (d) {
+                                return (d.data._id == 9999) ? 'active' : ''
+                            }
+                        },
                         event: {
                             click: function (d) {
                                 if ($(d.sender).hasClass('active')) {
@@ -62,6 +67,8 @@ $(function () {
             class: 'content'
         }
     })
+
+    monsterRender(9999)
 
     function monsterRender(kid) {
         $('.monster_card_area').empty()

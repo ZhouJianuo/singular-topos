@@ -279,14 +279,17 @@ var links = [
             "CH": "主页",
             "EN": "Main Page"
         },
-        "Link" : "/"
+        "Links": {
+            "CH": "/",
+            "EN": "/en"
+        }
     },
     {
         "Name": {
             "CH": "怪物",
             "EN": "Monsters"
         },
-        "Link" : "/mons"
+        "Link": "/mons"
     },
     /*{
         "Name": {
@@ -335,7 +338,7 @@ function popLinks(l) {
                         data: links,
                         template: {
                             schedule: {
-                                a: `[[Link]]` + '?lang=' + l,
+                                a: `[[Link]]` ? (`[[Link]]` + '?lang=' + l) : `[[Links/${l}]]`,
                                 t: {
                                     span: `[[Name/${l}]]`,
                                     style: {
