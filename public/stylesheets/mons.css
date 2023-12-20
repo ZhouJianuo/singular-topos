@@ -7,6 +7,11 @@
     border-radius: 4px;
 }
 
+.title {
+    color: #fff;
+    cursor: pointer;
+}
+
 popdialog {
     height: 100%;
 }

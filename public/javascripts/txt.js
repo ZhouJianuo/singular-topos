@@ -276,6 +276,13 @@ var props = {
 var links = [
     {
         "Name": {
+            "CH": "主页",
+            "EN": "Main Page"
+        },
+        "Link" : "/"
+    },
+    {
+        "Name": {
             "CH": "怪物",
             "EN": "Monsters"
         },
