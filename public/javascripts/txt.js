@@ -338,7 +338,10 @@ function popLinks(l) {
                         data: links,
                         template: {
                             schedule: {
-                                a: `[[Link]]` ? (`[[Link]]` + '?lang=' + l) : `[[Links/${l}]]`,
+                                a: function (d) {
+                                    if (d.data.Link) return d.data.Link + '?lang=' + l
+                                    return d.data.Links[l]
+                                },
                                 t: {
                                     span: `[[Name/${l}]]`,
                                     style: {
