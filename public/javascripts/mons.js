@@ -72,6 +72,8 @@ $(function () {
                 show = me.Name.EN.includes('Bug')
             } else if (kid == 1002) {
                 show = me.Name.EN.includes('Complete')
+            } else if (kid == 1003) {
+                show = me.Name.EN.includes('Illusion')
             } else if (kid == 9999) {
                 show = me.New
             } else if (kid == 7000) {

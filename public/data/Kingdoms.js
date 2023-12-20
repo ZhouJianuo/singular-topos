@@ -4,8 +4,8 @@ var _kingdoms = [
     {
         "_id": 9999,
         "Name": {
-            "CH": "<b>新增</b>",
-            "EN": "<b>New</b>"
+            "CH": "<b>1.6新增</b>",
+            "EN": "<b>New in 1.6</b>"
         }
     },
     {
@@ -27,6 +27,13 @@ var _kingdoms = [
         "Name": {
             "CH": "（完整）",
             "EN": "(Complete)"
+        }
+    },
+    {
+        "_id": 1003,
+        "Name": {
+            "CH": "（幻象）",
+            "EN": "(Illusion)"
         }
     },
     {

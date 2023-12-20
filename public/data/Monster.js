@@ -5267,7 +5267,8 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1004010.png"
+        "Icon": "MonsterIcon/Monster_1004010.png",
+        "New": true
     },
     {
         "_id": 1004020,
@@ -5848,7 +5849,8 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1003020.png"
+        "Icon": "MonsterIcon/Monster_1003020.png",
+        "New": true
     },
     {
         "_id": 1004025,
@@ -5923,7 +5925,8 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1003020.png"
+        "Icon": "MonsterIcon/Monster_1003020.png",
+        "New": true
     },
     {
         "_id": 1004030,
@@ -6244,7 +6247,8 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1004030.png"
+        "Icon": "MonsterIcon/Monster_1004030.png",
+        "New": true
     },
     {
         "_id": 1005010,
@@ -6493,7 +6497,8 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1005010.png"
+        "Icon": "MonsterIcon/Monster_1005010.png",
+        "New": true
     },
     {
         "_id": 1012010,
@@ -10109,7 +10114,8 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1013010.png"
+        "Icon": "MonsterIcon/Monster_1013010.png",
+        "New": true
     },
     {
         "_id": 1013020,
@@ -11297,7 +11303,8 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1013020.png"
+        "Icon": "MonsterIcon/Monster_1013020.png",
+        "New": true
     },
     {
         "_id": 1014010,
@@ -16244,7 +16251,8 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2004010.png"
+        "Icon": "MonsterIcon/Monster_2004010.png",
+        "New": true
     },
     {
         "_id": 2004020,
@@ -16752,7 +16760,8 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2004020.png"
+        "Icon": "MonsterIcon/Monster_2004020.png",
+        "New": true
     },
     {
         "_id": 2004023,
@@ -16818,7 +16827,8 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2004020.png"
+        "Icon": "MonsterIcon/Monster_2004020.png",
+        "New": true
     },
     {
         "_id": 2011010,
@@ -22511,7 +22521,8 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2024010.png"
+        "Icon": "MonsterIcon/Monster_2024010.png",
+        "New": true
     },
     {
         "_id": 2024020,
@@ -22746,7 +22757,8 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3021020.png"
+        "Icon": "MonsterIcon/Monster_3021020.png",
+        "New": true
     },
     {
         "_id": 3021030,
@@ -22830,7 +22842,8 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3021030.png"
+        "Icon": "MonsterIcon/Monster_3021030.png",
+        "New": true
     },
     {
         "_id": 3021040,
@@ -22914,7 +22927,8 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3021040.png"
+        "Icon": "MonsterIcon/Monster_3021040.png",
+        "New": true
     },
     {
         "_id": 3024010,
@@ -23249,7 +23263,8 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3024010.png"
+        "Icon": "MonsterIcon/Monster_3024010.png",
+        "New": true
     },
     {
         "_id": 3024012,
@@ -23303,7 +23318,8 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3024010.png"
+        "Icon": "MonsterIcon/Monster_3024010.png",
+        "New": true
     },
     {
         "_id": 7001010,
@@ -38486,7 +38502,8 @@ var _monster = [
             }
         ],
         "Camp": 8,
-        "Icon": "MonsterIcon/Monster_8022030.png"
+        "Icon": "MonsterIcon/Monster_8022030.png",
+        "New": true
     },
     {
         "_id": 8024010,
@@ -38716,7 +38733,8 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8024010.png"
+        "Icon": "MonsterIcon/Monster_8024010.png",
+        "New": true
     },
     {
         "_id": 8025010,
@@ -38782,7 +38800,8 @@ var _monster = [
             }
         ],
         "Camp": 8,
-        "Icon": "MonsterIcon/Monster_8025010.png"
+        "Icon": "MonsterIcon/Monster_8025010.png",
+        "New": true
     },
     {
         "_id": 802501001,
