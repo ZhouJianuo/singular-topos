@@ -4,12 +4,12 @@ var txt = {
         "EN": "HomDGCat Database"
     },
     "Affix": {
-        "CH": " | <color style='color:#0066FF;'>homdgcat.wiki / bilibili@妮可少女</color>",
-        "EN": " | <color style='color:#0066FF;'>homdgcat.wiki / X@homdgcat_</color>"
+        "CH": " | <color style='color:#0066FF;'>homdgcat.wiki | bilibili@妮可少女 | t.me/homdgcat</color>",
+        "EN": " | <color style='color:#0066FF;'>homdgcat.wiki | t.me/homdgcat | X@_homdgcat</color>"
     },
     "Subtitle": {
-        "CH": "<p>数据提供：<b>妮可少女 <a href='https://space.bilibili.com/3537104994831140' target='_blank'>[ bilibili@妮可少女 ]</a> <a href='https://www.twitter.com/homdgcat_' target='_blank'>[ X@homdgcat_ ]</a></b></p>",
-        "EN": "<p>Data by <b>HomDGCat: <a href='https://www.twitter.com/homdgcat_' target='_blank'>[ X@homdgcat_ ]</a> <a href='https://space.bilibili.com/3537104994831140' target='_blank'>[ bilibili@妮可少女 ]</a></b></p>"
+        "CH": "<p>数据提供：<b>妮可少女 <a href='https://space.bilibili.com/3537104994831140' target='_blank' style='white-space:pre;'>bilibili@妮可少女</a> | <a href='http://t.me/homdgcat' target='_blank' style='white-space:pre;'>t.me/homdgcat</a></b></p>",
+        "EN": "<p>Data by <b>HomDGCat: <a href='http://t.me/homdgcat' target='_blank' style='white-space:pre;'>t.me/homdgcat</a> | <a href='https://www.twitter.com/_homdgcat' target='_blank' style='white-space:pre;'>X@_homdgcat</a></b></p>"
     },
     "ChooseTitle": {
         "CH": "（星穹铁道）",
