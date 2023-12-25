@@ -381,7 +381,7 @@ $(function () {
                                                     tr: [
                                                         {
                                                             td: {
-                                                                img: 'images/Status/' + e.Icon + '.png',
+                                                                img: 'images/Debuff/' + e.Icon + '.png',
                                                                 class: 'statpageicon'
                                                             }
                                                         },

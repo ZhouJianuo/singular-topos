@@ -190,7 +190,7 @@ var debufflist = [
             "CH": "控制",
             "EN": "Control"
         },
-        "Icon": ''
+        "Icon": 'Icon1307Dot_B'
     },
     {
         "ID": "Frozen",
@@ -198,7 +198,7 @@ var debufflist = [
             "CH": "冻结",
             "EN": "Frozen"
         },
-        "Icon": ''
+        "Icon": 'IconDotFrozen_B'
     },
     {
         "ID": "Entangle",
@@ -206,7 +206,7 @@ var debufflist = [
             "CH": "纠缠",
             "EN": "Entanglement"
         },
-        "Icon": ''
+        "Icon": 'IconDotTangle_B'
     },
     {
         "ID": "Confine",
@@ -214,7 +214,7 @@ var debufflist = [
             "CH": "禁锢",
             "EN": "Imprisonment"
         },
-        "Icon": ''
+        "Icon": 'IconDotCage_B'
     },
     {
         "ID": "Burn",
@@ -222,7 +222,7 @@ var debufflist = [
             "CH": "灼烧",
             "EN": "Burn"
         },
-        "Icon": ''
+        "Icon": 'IconDotBurn_B'
     },
     {
         "ID": "Shock",
@@ -230,7 +230,7 @@ var debufflist = [
             "CH": "触电",
             "EN": "Shock"
         },
-        "Icon": ''
+        "Icon": 'IconDotElectric_B'
     },
     {
         "ID": "Wind",
@@ -238,7 +238,7 @@ var debufflist = [
             "CH": "风化",
             "EN": "Wind Shear"
         },
-        "Icon": ''
+        "Icon": 'IconDotPoison_B'
     }
 ]
 
