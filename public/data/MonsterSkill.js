@@ -17679,6 +17679,7 @@ var _monsterskill = {
             "CH": "对我方全体造成<1>雷元素伤害，并清除所有【雷楔】。每清除1枚【雷楔】，额外对我方随机单体释放一次<color style='color:#f29e38;'>【雷暴连斩】</color>。<br>若释放时场上没有雷楔，在释放结束后会流失<color style='color:#f29e38;'>13%生命值上限</color>。",
             "EN": "Deals <1> Thunder DMG to a all targets and destroys all Lightning Stilettos on the field. For every Lightning Stiletto destroyed, casts an extra instance of <color style='color:#f29e38;'>Thundering Stiletto</color> on a random target.<br>If there are no Lightning Stilettos on the field, will lose <color style='color:#f29e38;'>13% Max HP</color> after casting this skill."
         },
+        "SP": 20.0,
         "Elem": "Elec",
         "DMG": [
             5.0
@@ -17701,8 +17702,8 @@ var _monsterskill = {
             "EN": "Attunement"
         },
         "Desc": {
-            "CH": "",
-            "EN": "."
+            "CH": "我方目标受到【雷楔】的攻击后，有<color style='color:#f29e38;'>80%</color>基础概率陷入<color style='color:#f29e38;'>【失律】</color>状态：受到的伤害提升<color style='color:#f29e38;'>2%</color>，攻击力降低<color style='color:#f29e38;'>2%</color>，持续<color style='color:#f29e38;'>3</color>回合。<br>若【失律】叠加至10层且没有被主动解除，则会在持续时间结束时对目标造成致命伤害。",
+            "EN": "Lightning Stiletto's attacks have an <color style='color:#f29e38;'>80%</color> Base Chance to inflict <color style='color:#f29e38;'>Distunement</color>: DMG taken increases by <color style='color:#f29e38;'>2%</color> and ATK decreases by <color style='color:#f29e38;'>2%</color>, lasting <color style='color:#f29e38;'>3</color> turns.<br>If Distunement stacks to 10 layers and is not dispelled, it will deal fatal DMG to the target when it expires."
         },
         "Elem": "Elec"
     },
