@@ -24,16 +24,16 @@ var _monster = [
             "Ice",
             "Quantum"
         ],
-        "RESBase": {},
+        "RESBase": {
+            "Phys": 0.4,
+            "Elec": 0.6,
+            "Fire": 0.4,
+            "Imaginary": 0.2
+        },
         "StatusRESBase": 0.4,
         "DebuffRES": {
-            "Frozen": 1.0,
-            "CTRL": 1.0,
-            "Entangle": 1.0,
-            "Confine": 1.0,
-            "Burn": 1.0,
-            "Shock": 1.0,
-            "Wind": 1.0
+            "CTRL": 0.5,
+            "Shock": 1.0
         },
         "HPCount": 3,
         "Skills": [
