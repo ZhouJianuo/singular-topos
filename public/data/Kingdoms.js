@@ -4,8 +4,8 @@ var _kingdoms = [
     {
         "_id": 9999,
         "Name": {
-            "CH": "<b>1.6新增</b>",
-            "EN": "<b>New in 1.6</b>"
+            "CH": "<b>2.0新增</b>",
+            "EN": "<b>New in 2.0</b>"
         }
     },
     {
@@ -90,6 +90,20 @@ var _kingdoms = [
         "Name": {
             "CH": "星际和平公司",
             "EN": "Interastral Peace Corporation"
+        }
+    },
+    {
+        "_id": 10,
+        "Name": {
+            "CH": "惊梦剧团",
+            "EN": "Dreamjolt Troupe"
+        }
+    },
+    {
+        "_id": 11,
+        "Name": {
+            "CH": "忆域迷因",
+            "EN": "Memory Zone Meme"
         }
     },
     {

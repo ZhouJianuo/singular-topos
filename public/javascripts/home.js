@@ -6,10 +6,11 @@ $(function() {
     var cur_select = 1
     var l = didyouknow.length
     var r = -1
+    var GAME = $('#GAME').val() ? $('#GAME').val() : 'GI'
     
     $('h3 .title').html(txt.Title[lang])
 
-    $('h3 .lang').html(txt.Home_Lang[lang])
+    $('h3 .lang').html(txt.Home_Lang[GAME][lang])
     $('h3 .lang').css('margin-top', '20px')
 
     $('container').render({
@@ -20,13 +21,14 @@ $(function() {
                         schedule: txt.Home_Sections[0][lang],
                         a: {
                             'data-id': 1,
-                            'class': 'active'
+                            'class': GAME == 'GI' ? 'active' : ''
                         }
                     },
                     {
                         schedule: txt.Home_Sections[1][lang],
                         a: {
-                            'data-id': 2
+                            'data-id': 2,
+                            'class': GAME == 'SR' ? 'active' : ''
                         }
                     },
                     {
@@ -46,7 +48,8 @@ $(function() {
         class: 'content'
     })
 
-    renderGI()
+    if (GAME == 'GI') renderGI()
+    if (GAME == 'SR') renderSR()
 
     function renderGI() {
         $('.below').empty().render({

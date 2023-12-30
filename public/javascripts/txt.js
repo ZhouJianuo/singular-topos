@@ -4,8 +4,8 @@ var txt = {
         "EN": "HomDGCat Database"
     },
     "Affix": {
-        "CH": " | <color style='color:#0066FF;'>homdgcat.wiki | bilibili@妮可少女 | t.me/homdgcat</color>",
-        "EN": " | <color style='color:#0066FF;'>homdgcat.wiki | t.me/homdgcat | X@_homdgcat</color>"
+        "CH": " | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
+        "EN": " | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color> | <color style='color:#0066FF;'>X@_homdgcat</color>"
     },
     "Subtitle": {
         "CH": "<p>数据提供：<b>妮可少女 <a href='https://space.bilibili.com/3537104994831140' target='_blank' style='white-space:pre;'>bilibili@妮可少女</a> | <a href='http://t.me/homdgcat' target='_blank' style='white-space:pre;'>t.me/homdgcat</a></b></p>",
@@ -20,8 +20,14 @@ var txt = {
         "EN": "<p><b>[ Pages ]</b></p>",
     },
     "Home_Lang": {
-        "CH": "<a href='/en'>Switch to English</a>",
-        "EN": "<a href='/'>切换至中文</a>"
+        "GI": {
+            "CH": "<a href='/en'>Switch to English</a>",
+            "EN": "<a href='/'>切换至中文</a>"
+        },
+        "SR": {
+            "CH": "<a href='/en?game=SR'>Switch to English</a>",
+            "EN": "<a href='/?game=SR'>切换至中文</a>"
+        }
     },
     "Lang": {
         "CH": "<a href='?lang=EN'>Switch to English</a>",
@@ -63,13 +69,21 @@ var txt = {
             "EN": "Stats"
         },
         {
+            "CH": "一图流",
+            "EN": ""
+        },
+        {
             "CH": "技能",
             "EN": "Skills"
         },
         {
             "CH": "伤害计算",
-            "EN": "DMG Calculate"
-        }
+            "EN": "Skill DMG"
+        },
+        {
+            "CH": "状态",
+            "EN": "Effects"
+        },
     ],
     "SkillPhase": [
         {
@@ -158,7 +172,37 @@ var txt = {
             "CH": "精英组别",
             "EN": "Elite Group"
         },
-    ]
+    ],
+    "StatusType": {
+        "Buff": {
+            "CH": "增益效果",
+            "EN": "Buff"
+        },
+        "Debuff": {
+            "CH": "负面效果",
+            "EN": "Debuff"
+        },
+        "Other": {
+            "CH": "其他效果",
+            "EN": "Other"
+        }
+    },
+    "CanNotDispel": {
+        "CH": "⚠ <b>不可解除</b>",
+        "EN": "⚠ <b>Unremoveable</b>"
+    },
+    "HitSP": {
+        "CH": "受击回能：",
+        "EN": "Hit Revive: "
+    },
+    "MonLV": {
+        "CH": "敌方等级：",
+        "EN": "Enemy Level: "
+    },
+    "AvatarDEF": {
+        "CH": "角色防御力：",
+        "EN": "Character DEF: "
+    },
 }
 
 var elemcolor = {
@@ -280,8 +324,8 @@ var links = [
             "EN": "Main Page"
         },
         "Links": {
-            "CH": "/",
-            "EN": "/en"
+            "CH": "/?game=SR",
+            "EN": "/en?game=SR"
         }
     },
     {

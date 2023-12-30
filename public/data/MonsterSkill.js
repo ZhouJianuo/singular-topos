@@ -1783,7 +1783,7 @@ var _monsterskill = {
     "100501110": {
         "Key": "SkillPerform01",
         "Name": {
-            "CH": "",
+            "CH": "dev_巨大化表演",
             "EN": ""
         },
         "Desc": {
@@ -2375,7 +2375,7 @@ var _monsterskill = {
     "101204201": {
         "Key": "PassiveSkill02",
         "Name": {
-            "CH": "dev_击飞免疫",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
@@ -2850,7 +2850,7 @@ var _monsterskill = {
     "101301307": {
         "Key": "PassiveSkillInitiate",
         "Name": {
-            "CH": "dev_指令 · 强攻模式",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
@@ -2878,7 +2878,7 @@ var _monsterskill = {
     "101301302": {
         "Key": "Skill06",
         "Name": {
-            "CH": "dev_强力普攻",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
@@ -3352,7 +3352,7 @@ var _monsterskill = {
     "101302307": {
         "Key": "Skill08",
         "Name": {
-            "CH": "dev_强力普攻",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
@@ -3871,7 +3871,7 @@ var _monsterskill = {
     "101401208": {
         "Key": "Skill08",
         "Name": {
-            "CH": "dev_待机",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
@@ -3883,7 +3883,7 @@ var _monsterskill = {
     "101401209": {
         "Key": "PassiveSkill02",
         "Name": {
-            "CH": "dev_血量触发",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
@@ -3895,7 +3895,7 @@ var _monsterskill = {
     "101401210": {
         "Key": "PassiveSkill04",
         "Name": {
-            "CH": "dev_弱点击破减速",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
@@ -3907,7 +3907,7 @@ var _monsterskill = {
     "101401211": {
         "Key": "PassiveSkill05",
         "Name": {
-            "CH": "dev_击飞免疫",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
@@ -6280,11 +6280,11 @@ var _monsterskill = {
     "700204001": {
         "Key": "Skill01",
         "Name": {
-            "CH": "dev_普攻",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_造成单体伤害",
+            "CH": "",
             "EN": ""
         },
         "SP": 0,
@@ -6293,11 +6293,11 @@ var _monsterskill = {
     "700204002": {
         "Key": "Skill02",
         "Name": {
-            "CH": "dev_单体回复",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_立即回复敌方单体的生命值。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -6305,11 +6305,11 @@ var _monsterskill = {
     "700204003": {
         "Key": "Skill03",
         "Name": {
-            "CH": "dev_群体恢复",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_消耗所有充能。立即回复敌方全体的生命值。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -7380,7 +7380,7 @@ var _monsterskill = {
     "800301105": {
         "Key": "Skill05",
         "Name": {
-            "CH": "dev_冻结之风",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
@@ -7860,7 +7860,7 @@ var _monsterskill = {
     "800304001": {
         "Key": "Skill01",
         "Name": {
-            "CH": "dev_启动充能",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
@@ -7968,7 +7968,7 @@ var _monsterskill = {
     "800304101": {
         "Key": "Skill01",
         "Name": {
-            "CH": "dev_启动充能",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
@@ -8653,7 +8653,7 @@ var _monsterskill = {
     "801502008": {
         "Key": "Skill08",
         "Name": {
-            "CH": "dev_终结技",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
@@ -8750,7 +8750,7 @@ var _monsterskill = {
     "801502014": {
         "Key": "Skill14",
         "Name": {
-            "CH": "dev_终结技",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
@@ -8878,7 +8878,7 @@ var _monsterskill = {
     "801502108": {
         "Key": "Skill08",
         "Name": {
-            "CH": "dev_终结技",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
@@ -8975,7 +8975,7 @@ var _monsterskill = {
     "801502114": {
         "Key": "Skill14",
         "Name": {
-            "CH": "dev_终结技",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
@@ -9159,7 +9159,7 @@ var _monsterskill = {
     "801221002": {
         "Key": "Skill02",
         "Name": {
-            "CH": "dev_休眠",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
@@ -9231,7 +9231,7 @@ var _monsterskill = {
     "801221102": {
         "Key": "Skill02",
         "Name": {
-            "CH": "dev_休眠",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
@@ -9303,7 +9303,7 @@ var _monsterskill = {
     "801221202": {
         "Key": "Skill02",
         "Name": {
-            "CH": "dev_休眠",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
@@ -9375,7 +9375,7 @@ var _monsterskill = {
     "801221302": {
         "Key": "Skill02",
         "Name": {
-            "CH": "dev_休眠",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
@@ -9471,7 +9471,7 @@ var _monsterskill = {
     "802201003": {
         "Key": "Skill03",
         "Name": {
-            "CH": "dev_虫群突击·小",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
@@ -9535,7 +9535,7 @@ var _monsterskill = {
     "802202003": {
         "Key": "Skill03",
         "Name": {
-            "CH": "dev_虫群突击·特",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
@@ -9584,7 +9584,7 @@ var _monsterskill = {
     "802401010": {
         "Key": "Skill08",
         "Name": {
-            "CH": "dev_扩散",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
@@ -9759,7 +9759,7 @@ var _monsterskill = {
     "803201003": {
         "Key": "PassiveSkill02",
         "Name": {
-            "CH": "dev_公司雇员",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
@@ -9803,7 +9803,7 @@ var _monsterskill = {
     "803202003": {
         "Key": "PassiveSkill02",
         "Name": {
-            "CH": "dev_公司雇员",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
@@ -10134,7 +10134,7 @@ var _monsterskill = {
     "800305107": {
         "Key": "Skill07",
         "Name": {
-            "CH": "dev_扩散风化",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
@@ -10146,7 +10146,7 @@ var _monsterskill = {
     "800305108": {
         "Key": "Skill08",
         "Name": {
-            "CH": "dev_重击",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
@@ -11322,11 +11322,11 @@ var _monsterskill = {
     "700305001": {
         "Key": "Skill02",
         "Name": {
-            "CH": "dev_流年金刺",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_对指定我方单体造成虚数属性伤害。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0,
@@ -11335,11 +11335,11 @@ var _monsterskill = {
     "700305002": {
         "Key": "Skill03",
         "Name": {
-            "CH": "dev_流年谴罚",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_对指定我方单体造成大量虚数属性伤害。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0,
@@ -11348,11 +11348,11 @@ var _monsterskill = {
     "700305003": {
         "Key": "Skill05",
         "Name": {
-            "CH": "dev_黄金年代的绸缪",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_使自身获得</color>1[i]层【追忆刻度】",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -11360,11 +11360,11 @@ var _monsterskill = {
     "700305004": {
         "Key": "Skill04",
         "Name": {
-            "CH": "dev_黄金年代的解放",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_连续对我方随机单体造成少量虚数属性伤害，造成伤害的次数与自身剩余【追忆刻度】层数一致。进入战斗时该技能充能为满。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0,
@@ -11373,11 +11373,11 @@ var _monsterskill = {
     "700305005": {
         "Key": "SkillP01",
         "Name": {
-            "CH": "dev_黄金年代的绸缪",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_战斗开始获得9层【追忆刻度】，每次受到攻击后失去1层【追忆刻度】,耗尽时死亡",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -11693,6 +11693,32 @@ var _monsterskill = {
             "EN": "Greatly increases DMG in accordance with the number of Performance Points. A stackable Shield will be obtained when receiving Performance Points, and the Shield will be removed when there are no Performance Points. When the Shield is broken or the character is downed, the Performance Points will be seized."
         },
         "SP": 0
+    },
+    "300101001": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "掷点",
+            "EN": "Throw Dice"
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成少量物理属性伤害，有概率使受到攻击的我方目标陷入虚弱状态。",
+            "EN": "Deals minor Physical DMG to a single target, with a chance to Weaken them."
+        },
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "300102001": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "邀舞",
+            "EN": "Dance Invite"
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成少量物理属性伤害，有概率使受到攻击的我方目标陷入裂伤状态。",
+            "EN": "Deals minor Physical DMG to a single target, with a chance to inflict Bleed on them."
+        },
+        "SP": 10.0,
+        "Elem": "Phys"
     },
     "700211001": {
         "Key": "Skill01",
@@ -12388,6 +12414,32 @@ var _monsterskill = {
         },
         "SP": 0
     },
+    "300208901": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "test_单攻",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_对指定我方单体造成物理属性伤害。",
+            "EN": ""
+        },
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "300208902": {
+        "Key": "Skill02",
+        "Name": {
+            "CH": "test_亡语",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "test_受到致命攻击时，使与自身相邻的敌方目标获得加速并陷入裂伤状态。",
+            "EN": ""
+        },
+        "SP": 0,
+        "Elem": "Phys"
+    },
     "800209101": {
         "Key": "Skill01",
         "Name": {
@@ -12427,11 +12479,11 @@ var _monsterskill = {
     "900460001": {
         "Key": "SkillP01",
         "Name": {
-            "CH": "",
+            "CH": "dev_被动",
             "EN": ""
         },
         "Desc": {
-            "CH": "",
+            "CH": "dev_自身无法被选择和攻击，场上怪物被击杀时会扣血",
             "EN": ""
         },
         "SP": 0,
@@ -12577,96 +12629,30 @@ var _monsterskill = {
         "SP": 25.0,
         "Elem": "Quantum"
     },
-    "900310001": {
+    "300203001": {
         "Key": "Skill01",
         "Name": {
-            "CH": "dev_单体攻击",
-            "EN": ""
+            "CH": "邀饮",
+            "EN": "Invitation to Drinks"
         },
         "Desc": {
-            "CH": "dev_对指定我方单体造成物理属性伤害。",
-            "EN": ""
+            "CH": "对指定我方单体造成物理属性伤害。",
+            "EN": "Deals Physical DMG to a single target."
         },
         "SP": 10.0,
         "Elem": "Phys"
     },
-    "900310002": {
+    "300203002": {
         "Key": "Skill02",
         "Name": {
-            "CH": "dev_单体重击",
-            "EN": ""
+            "CH": "泼洒甜蜜",
+            "EN": "Libation of Sweetness"
         },
         "Desc": {
-            "CH": "dev_对指定我方单体造成强力物理属性伤害。",
-            "EN": ""
+            "CH": "受到致命攻击时，使自身相邻的敌方目标速度提高并陷入裂伤状态。",
+            "EN": "Upon taking fatal DMG, increases adjacent friendly units' SPD and inflicts them with Bleed."
         },
-        "SP": 10.0,
-        "Elem": "Phys"
-    },
-    "900310003": {
-        "Key": "Skill03",
-        "Name": {
-            "CH": "dev_全体AOE",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "dev_对我方全体造成物理属性伤害，并会号令随机一个分身进行协助（只有被操纵的单位才会使用该技能）。",
-            "EN": ""
-        },
-        "SP": 10.0,
-        "Elem": "Phys"
-    },
-    "900310004": {
-        "Key": "Skill05",
-        "Name": {
-            "CH": "dev_锁定",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "dev_锁定该目标，下次行动对其施放【dev_终结技】（只有被操纵的单位才会使用该技能）。",
-            "EN": ""
-        },
-        "SP": 10.0,
-        "Elem": "Phys"
-    },
-    "900310005": {
-        "Key": "Skill04",
-        "Name": {
-            "CH": "dev_终结技",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "dev_主体与分身全部出击，对目标造成高额物理伤害（只有被操纵的单位才会使用该技能）。",
-            "EN": ""
-        },
-        "SP": 0,
-        "Elem": "Phys"
-    },
-    "900310006": {
-        "Key": "Skill06",
-        "Name": {
-            "CH": "dev_分身",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "dev_战斗开始时，召唤两个与主体高度相似的分身。",
-            "EN": ""
-        },
-        "SP": 10.0,
-        "Elem": "Phys"
-    },
-    "900310007": {
-        "Key": "SkillP01",
-        "Name": {
-            "CH": "dev_操纵",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "dev_主体为默认被操纵的单位，可以额外行动一次，并使用强力技能；被操纵的单位被击破或死亡后，操纵体会转移到一个随机的主体或分身上；如果所有主体和分身都被击破或死亡，则会发生爆炸，对所有敌方目标造成伤害、推条和高额增伤；当任意一个分身或主体恢复行动能力后，会重新被操纵。",
-            "EN": ""
-        },
-        "SP": 10.0,
-        "Elem": "Phys"
+        "SP": 0
     },
     "800205801": {
         "Key": "Skill01",
@@ -12848,6 +12834,18 @@ var _monsterskill = {
         },
         "SP": 0
     },
+    "300203003": {
+        "Key": "SkillP01",
+        "Name": {
+            "CH": "酣畅",
+            "EN": "Hearty Revelry"
+        },
+        "Desc": {
+            "CH": "受到攻击或持续伤害时，获得1层可叠加的【苏乐达陶醉】。【苏乐达陶醉】层数越高，造成的伤害越高。",
+            "EN": "Upon being attacked or taking DMG from DoT effects, gains a stack of SoulGlad Revel. Each stack increases DMG dealt."
+        },
+        "SP": 0
+    },
     "302401001": {
         "Key": "Skill01",
         "Name": {
@@ -12885,7 +12883,7 @@ var _monsterskill = {
         "Key": "Skill03",
         "Name": {
             "CH": "枪与盾",
-            "EN": "Conundrum"
+            "EN": "Spear & Shield"
         },
         "Desc": {
             "CH": "随机召唤【枪尖】、【盾】、【授勋】的雕塑。",
@@ -12933,7 +12931,7 @@ var _monsterskill = {
         "Key": "Skill07",
         "Name": {
             "CH": "枪与盾",
-            "EN": "Conundrum"
+            "EN": "Spear & Shield"
         },
         "Desc": {
             "CH": "随机召唤【枪尖】、【盾】、【授勋】的雕塑。",
@@ -13115,10 +13113,157 @@ var _monsterskill = {
         "SP": 0,
         "Elem": "Wind"
     },
+    "301402001": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "葬仪之吻",
+            "EN": "Funereal Kiss"
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成物理属性伤害。",
+            "EN": "Deals Physical DMG to a single target."
+        },
+        "SP": 15.0,
+        "Elem": "Phys"
+    },
+    "301402002": {
+        "Key": "Skill02",
+        "Name": {
+            "CH": "沦没黑雨",
+            "EN": "Sunken Rain"
+        },
+        "Desc": {
+            "CH": "对我方全体造成物理属性伤害。",
+            "EN": "Deals Physical DMG to all targets."
+        },
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "301402003": {
+        "Key": "Skill03",
+        "Name": {
+            "CH": "锋锐悼词",
+            "EN": "Biting Obituary"
+        },
+        "Desc": {
+            "CH": "大幅提升自身造成的伤害，持续1回合，陷入弱点击破状态后解除。",
+            "EN": "Tremendously increases DMG dealt for 1 turn. This effect is removed when this unit become Weakness Broken."
+        },
+        "SP": 0
+    },
+    "301402004": {
+        "Key": "Skill04",
+        "Name": {
+            "CH": "光明消歇",
+            "EN": "Fading Radiance"
+        },
+        "Desc": {
+            "CH": "进入【白日西沉】状态。每当我方施放普攻、战技、终结技时叠加1层，当【白日西沉】叠加至3层时，立即对上一个行动的我方施放【已在黄昏失色】。施放过一次【已在黄昏失色】或被弱点击破后解除该状态。",
+            "EN": "Enters the Sunset state. Gains 1 stack each time a character takes action. When 3 stacks are gained, immediately uses Losing Eventide Light on the last-acting character. This effect is removed after using Losing Eventide Light once or after becoming Weakness Broken."
+        },
+        "SP": 0
+    },
+    "301402005": {
+        "Key": "Skill05",
+        "Name": {
+            "CH": "已在黄昏失色",
+            "EN": "Losing Eventide Light"
+        },
+        "Desc": {
+            "CH": "立即对上一名施放普攻、战技、终结技的我方目标发动致命攻击，使其陷入【梦死】状态。",
+            "EN": "Immediately deals a killing blow to the character that acted last."
+        },
+        "SP": 0
+    },
+    "301402006": {
+        "Key": "Skill06",
+        "Name": {
+            "CH": "步入良夜",
+            "EN": "Toward Moonrise"
+        },
+        "Desc": {
+            "CH": "进入【夜幕降临】状态，期间会锁定2名最先行动的我方目标。下次行动时使用【如水逝于水中】。",
+            "EN": "Enters the Nightfall state and locks onto the 2 characters who are due to act next. Uses Watery Dissolution in the next action."
+        },
+        "SP": 0
+    },
+    "301402007": {
+        "Key": "Skill07",
+        "Name": {
+            "CH": "如水逝于水中",
+            "EN": "Watery Dissolution"
+        },
+        "Desc": {
+            "CH": "立即对所有被锁定的我方目标发动致命攻击，使其陷入【梦死】状态。如果没有被锁定的目标，则随机对2名我方目标发动致命攻击并使其陷入【梦死】状态。",
+            "EN": "Immediately deals killing blow to all locked-on targets. If no targets are being locked on, randomly lock on to two targets."
+        },
+        "SP": 0
+    },
+    "301402008": {
+        "Key": "Skill08",
+        "Name": {
+            "CH": "",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "",
+            "EN": ""
+        },
+        "SP": 0
+    },
+    "301402009": {
+        "Key": "PassiveSkill02",
+        "Name": {
+            "CH": "无从凭吊的荒场",
+            "EN": "Desolation Without Lamentation"
+        },
+        "Desc": {
+            "CH": "每当我方目标陷入【梦死】状态时，召唤一个对应的【永眠墓碣】；当我方全体陷入【梦死】状态或无法战斗状态时，战斗失败。",
+            "EN": "Whenever a target enters the Dreaming Till The End state, summons a corresponding Tomb of Eternal Slumber. When all targets enter the Dreaming Till The End state or are knocked down, this battle will be considered a defeat."
+        },
+        "SP": 0
+    },
+    "301402010": {
+        "Key": "Skill10",
+        "Name": {
+            "CH": "dev_猎杀模式",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_开启猎杀模式，每当有角色行动（使用终结技，普攻，战技），就会积累1点进度，当动能条满时，立即对上一个行动的角色施放【死亡宣告】。施放一次死亡宣告或被弱点击破后猎杀模式结束。",
+            "EN": ""
+        },
+        "SP": 0
+    },
+    "301402011": {
+        "Key": "Skill11",
+        "Name": {
+            "CH": "dev_弹射（废弃）",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_对我方随机目标造成6次物理属性伤害。",
+            "EN": ""
+        },
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "301402012": {
+        "Key": "PassiveSkill02",
+        "Name": {
+            "CH": "dev_被动",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_猎杀者开启了猎杀领域，本场战斗中所有角色受到致命伤害时不会立即死去，而是进入放逐状态；每当场上有一名角色被放逐，则召唤一颗灵魂石；击杀灵魂石，救回被放逐的角色，能回复一定的sp和生命值，获得破盾效率提升；当场上所有角色都进入放逐状态后，立即杀死所有角色。",
+            "EN": ""
+        },
+        "SP": 0
+    },
     "800304201": {
         "Key": "Skill01",
         "Name": {
-            "CH": "dev_启动充能",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
@@ -13278,7 +13423,7 @@ var _monsterskill = {
     "802401110": {
         "Key": "Skill08",
         "Name": {
-            "CH": "dev_扩散",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
@@ -13431,6 +13576,55 @@ var _monsterskill = {
             280240103
         ]
     },
+    "301203001": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "惊醒无声的长眠",
+            "EN": "Slumber Awakening"
+        },
+        "Desc": {
+            "CH": "当永眠墓碣受到致命攻击后，对应我方目标将解除【梦死】状态并回复生命值和能量。",
+            "EN": "After Tomb of Eternal Slumber receives a killing blow, the Dreaming Till The End state on a corresponding character will be dispelled, restoring HP and regenerating Energy."
+        },
+        "SP": 0
+    },
+    "301203002": {
+        "Key": "Skill02",
+        "Name": {
+            "CH": "一切逝去的时间",
+            "EN": "Temporal Departure"
+        },
+        "Desc": {
+            "CH": "永眠墓碣不会进行行动。",
+            "EN": "Tomb of Eternal Slumber will not take action."
+        },
+        "SP": 0
+    },
+    "301203003": {
+        "Key": "SkillP01",
+        "Name": {
+            "CH": "化入永恒的延续",
+            "EN": "Eternal Continuation"
+        },
+        "Desc": {
+            "CH": "永眠墓碣拥有固定格数的生命值。每次受到攻击，弱点击破和持续伤害时，都会直接扣除自身1格生命值。",
+            "EN": "Tomb of Eternal Slumber has a fixed amount of HP bars. Each time it is attacked, Weakness Broken, or receives DMG from DoT, 1 bar of HP will be depleted."
+        },
+        "SP": 0
+    },
+    "301203004": {
+        "Key": "PassiveSkill03",
+        "Name": {
+            "CH": "test_巨掌之间",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_不显示。",
+            "EN": ""
+        },
+        "SP": 0,
+        "Elem": "Phys"
+    },
     "302102001": {
         "Key": "Skill01",
         "Name": {
@@ -13518,6 +13712,55 @@ var _monsterskill = {
             220230203
         ]
     },
+    "300201001": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "惊喜综艺",
+            "EN": "Surprise Variety Show"
+        },
+        "Desc": {
+            "CH": "使指定我方单体恢复能量。只能在【惊喜频道】状态下使用。",
+            "EN": "Regenerates Energy for a target. This ability can only be used while under the Surprise Channel state."
+        },
+        "SP": 0
+    },
+    "300201002": {
+        "Key": "Skill02",
+        "Name": {
+            "CH": "惊吓播报",
+            "EN": "Startling Broadcast"
+        },
+        "Desc": {
+            "CH": "对我方全体造成少量量子属性伤害，并使我方全体损失能量。只能在【惊吓频道】状态下使用。",
+            "EN": "Deals minor Quantum DMG to all targets and causes all targets to lose Energy. This ability can only be used while under the Startled Channel state."
+        },
+        "SP": 0,
+        "Elem": "Quantum"
+    },
+    "300201003": {
+        "Key": "Skill03",
+        "Name": {
+            "CH": "频道切换",
+            "EN": "Channel Switch"
+        },
+        "Desc": {
+            "CH": "将【惊喜频道】状态转变为【惊吓频道】状态。",
+            "EN": "Switches the Surprise Channel status to the Startled Channel status."
+        },
+        "SP": 0
+    },
+    "300201004": {
+        "Key": "SkillP01",
+        "Name": {
+            "CH": "串台",
+            "EN": "Channel-to-Channel Crosstalk"
+        },
+        "Desc": {
+            "CH": "在受到攻击后，会从【惊喜频道】状态转变为【惊吓频道】状态，或从【惊吓频道】状态转变为【惊喜频道】状态。",
+            "EN": "After being attacked, switch from the Surprise Channel status to the Startled Channel status, or vice versa."
+        },
+        "SP": 0
+    },
     "802203001": {
         "Key": "Skill01",
         "Name": {
@@ -13526,7 +13769,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "对指定我方单体造成量子属性伤害，优先攻击带有纠缠效果的目标，并额外叠加一次纠缠。",
-            "EN": "Deals minor Quantum DMG to a single target, prioritizing Entangled targets, and applies one extra stack of Entanglement."
+            "EN": "Deals Quantum DMG to a single target, prioritizing Entangled targets, and applies one extra stack of Entanglement."
         },
         "SP": 10.0,
         "Elem": "Quantum"
@@ -13538,7 +13781,7 @@ var _monsterskill = {
             "EN": "Decay Eulogy"
         },
         "Desc": {
-            "CH": "受到致命攻击时，对敌方全体造成量子属性伤害，并使受到攻击的敌方目标受到的伤害增加。",
+            "CH": "受到致命攻击时，对敌方全体造成量子属性伤害，并使受到攻击的敌方目标受到的伤害提高。",
             "EN": "When receiving a killing blow, deals Quantum DMG to all friendly units and increases their DMG received."
         },
         "SP": 0,
@@ -13552,7 +13795,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "对指定我方单体造成量子属性伤害",
-            "EN": "Deals minor Quantum DMG to a single target."
+            "EN": "Deals Quantum DMG to a single target"
         },
         "SP": 10.0,
         "Elem": "Quantum"
@@ -13578,7 +13821,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "对指定我方单体及相邻目标造成量子属性伤害。",
-            "EN": "Deals Quantum DMG to a single target and any adjacent targets."
+            "EN": "Deals Quantum DMG to a single target and units adjacent to the target."
         },
         "SP": 10.0,
         "Elem": "Quantum"
@@ -13602,8 +13845,8 @@ var _monsterskill = {
             "EN": "Carapace of Begotten Spawn"
         },
         "Desc": {
-            "CH": "进入【增殖】状态，持续直到下次行动。期间受到伤害大幅降低，并且每次受到攻击时召唤【蚀蛰虫】。【增殖】状态下被击破弱点，会对敌方全体造成等同自身韧性上限的韧性伤害，并使自身以外的敌方目标受到的伤害提高。",
-            "EN": "Enter the Multiply state until the next action. During this time, DMG received is greatly reduced, and each attack taken will cause a Gnaw Sting to be summoned. If this unit is Weakness Broken while in the Multiply state, it will cause Toughness DMG equal to this unit's Max Toughness to all friendly units."
+            "CH": "进入【增殖】状态，持续直到下次行动。期间受到伤害大幅降低，并且每次受到攻击时召唤【蚀蛰虫】。【增殖】状态下被击破弱点，会对敌方全体造成等同自身韧性上限的削韧伤害，并使自身以外的敌方目标受到的伤害提高。",
+            "EN": "Enter the Multiply state until the next action. During this time, DMG received is greatly reduced, and each attack taken will cause a Gnaw Sting to be summoned. If this unit is Weakness Broken while in the Multiply state, it will deal Toughness-Reducing DMG equal to this unit's Max Toughness to all friendly units and increase the DMG taken by all other friendly units besides the target themselves."
         },
         "SP": 0
     },
@@ -13615,7 +13858,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "对我方全体造成大量量子属性伤害。",
-            "EN": "Deals Quantum DMG to all targets."
+            "EN": "Deals massive Quantum DMG to all targets."
         },
         "SP": 20.0,
         "Elem": "Quantum"
@@ -13627,8 +13870,8 @@ var _monsterskill = {
             "EN": "Carapace of Nurtured Disaster"
         },
         "Desc": {
-            "CH": "蓄力并进入【增殖】状态，持续直到下次行动。下次行动时对我方全体施放【坍星之卵】。状态持续期间受到伤害大幅降低，并且每次受到攻击时召唤【蚀蛰虫】或【次蛰虫】。【增殖】状态下被击破弱点，会对敌方全体造成等同自身韧性上限的的韧性伤害，并使自身以外的敌方目标受到的伤害提高。",
-            "EN": "Enter the Multiply state until the next action, whereupon Ovum of Collapsed Star will be unleashed on the team. During this time, DMG received is greatly reduced, and each attack taken will cause a Gnaw Sting or Lesser Sting to be summoned. If this unit is Weakness Broken while in the Multiply state, it will cause Toughness DMG equal to this unit's Max Toughness to all friendly units."
+            "CH": "蓄力并进入【增殖】状态，持续直到下次行动。下次行动时对我方全体施放【坍星之卵】。状态持续期间受到伤害大幅降低，并且每次受到攻击时召唤【蚀蛰虫】或【次蛰虫】。【增殖】状态下被击破弱点，会对敌方全体造成等同自身韧性上限的削韧伤害，并使自身以外的敌方目标受到的伤害提高。",
+            "EN": "Charges and enters the Multiply state until the next action, whereupon Ovum of Collapsed Star will be used on all targets. During the Multiply state, DMG received is greatly reduced, and each attack taken will cause a Gnaw Sting or Lesser Sting to be summoned. If this unit is Weakness Broken while in the Multiply state, it will deal Toughness-Reducing DMG equal to this unit's Max Toughness to all friendly units and increase the DMG taken by all other friendly units besides the target themselves."
         },
         "SP": 0
     },
@@ -14207,6 +14450,68 @@ var _monsterskill = {
         },
         "SP": 0
     },
+    "300302001": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "限量赠饮",
+            "EN": "Limited Free Drink"
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成冰属性伤害，如果目标身上拥有护盾，则造成伤害后还会反弹给自身。",
+            "EN": "Deals Ice DMG to a single target. If the target has Shield, the DMG will rebound back to this unit after dealing DMG."
+        },
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "300302002": {
+        "Key": "Skill02",
+        "Name": {
+            "CH": "无限畅饮",
+            "EN": "Bottomless Free Drink"
+        },
+        "Desc": {
+            "CH": "对我方随机单体造成4次冰属性伤害，如果目标身上拥有护盾，则造成伤害后还会反弹给自身。",
+            "EN": "Randomly deals Ice DMG 4 times to single targets. If the target has Shield, the DMG will rebound back to this unit after dealing DMG."
+        },
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "300302003": {
+        "Key": "Skill03",
+        "Name": {
+            "CH": "苏乐达派对",
+            "EN": "SoulGlad Party"
+        },
+        "Desc": {
+            "CH": "召唤2只【气泡锂犬】。",
+            "EN": "Summons 2 Bubble Hounds."
+        },
+        "SP": 0
+    },
+    "300302004": {
+        "Key": "Skill04",
+        "Name": {
+            "CH": "酬宾喷泉",
+            "EN": "Celebration Fountain"
+        },
+        "Desc": {
+            "CH": "进入蓄力状态，获得韧性保护，下次行动时施放【无限畅饮】。",
+            "EN": "Enters the Charge stage and gains Toughness Protection. Uses Bottomless Free Drink during the next action."
+        },
+        "SP": 0
+    },
+    "300302005": {
+        "Key": "SkillP01",
+        "Name": {
+            "CH": "dev_被动",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_受到攻击或持续伤害时，获得可乐标记，可叠加。可乐标记层数越高，造成的伤害越高，造成伤害后可乐标记清零。",
+            "EN": ""
+        },
+        "SP": 0
+    },
     "200203201": {
         "Key": "Skill01",
         "Name": {
@@ -14255,11 +14560,201 @@ var _monsterskill = {
             280330101
         ]
     },
+    "300301001": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "大力颠勺",
+            "EN": "Vigorous Ladle Swirl"
+        },
+        "Desc": {
+            "CH": "对我方单体造成火属性伤害。",
+            "EN": "Deals Fire DMG to a single target."
+        },
+        "SP": 10.0,
+        "Elem": "Fire"
+    },
+    "300301002": {
+        "Key": "Skill02",
+        "Name": {
+            "CH": "旋风翻锅",
+            "EN": "Tornado Toss"
+        },
+        "Desc": {
+            "CH": "对我方单体及相邻单位造成少量火属性伤害。",
+            "EN": "Deals minor Fire DMG to a single target and adjacent units."
+        },
+        "SP": 10.0,
+        "Elem": "Fire"
+    },
+    "300301003": {
+        "Key": "Skill06",
+        "Name": {
+            "CH": "点燃炉灶",
+            "EN": "Ignite Stove"
+        },
+        "Desc": {
+            "CH": "进入蓄力状态。若在下次行动时未将【炉灶加温】叠加至一定层数，则释放【烈焰爆炒】，并清除所有【炉灶加温】层数。",
+            "EN": "Enters a Charge state. In the next action, uses Flaming Stir-Fry if Stove Overheating has not reached a certain number of stacks, then clears all Stove Heating and Stove Overheating stacks."
+        },
+        "SP": 0,
+        "Elem": "Fire"
+    },
+    "300301004": {
+        "Key": "Skill04",
+        "Name": {
+            "CH": "烈焰爆炒",
+            "EN": "Flaming Stir-Fry"
+        },
+        "Desc": {
+            "CH": "对我方全体造成大量火属性伤害。",
+            "EN": "Deals massive Fire DMG to all targets."
+        },
+        "SP": 20.0,
+        "Elem": "Fire"
+    },
+    "300301005": {
+        "Key": "Skill05",
+        "Name": {
+            "CH": "厨房事故",
+            "EN": "Kitchen Mishap"
+        },
+        "Desc": {
+            "CH": "进入蓄力状态后，当【炉灶加温】叠加至一定层数时，立即对敌方全体单位造成大量火属性伤害，并使自身防御降低，同时清除所有【炉灶加温】层数。",
+            "EN": "After entering the Charge state, deals massive Fire DMG to all targets and decreases this unit's DEF once Stove Overheating has a certain number of stacks. Then, clears all Stove Heating and Stove Overheating stacks."
+        },
+        "SP": 0,
+        "Elem": "Fire"
+    },
+    "300301006": {
+        "Key": "Skill03",
+        "Name": {
+            "CH": "火炼佳肴",
+            "EN": "Flame-Forged Feast"
+        },
+        "Desc": {
+            "CH": "当【炉灶加温】叠加一定层数时立即行动，并释放【点燃炉灶】。",
+            "EN": "Immediately takes action when Stove Heating reaches a certain number of stacks, and uses Ignite Stove."
+        },
+        "SP": 0
+    },
+    "300301007": {
+        "Key": "PassiveSkillInitiate",
+        "Name": {
+            "CH": "猛火炉灶",
+            "EN": "Inferno Stove"
+        },
+        "Desc": {
+            "CH": "自身在攻击时有概率对目标施加减速状态。当自身受到攻击或持续伤害时，叠加一层【炉灶加温】。",
+            "EN": "When in the Simmer state, receiving attacks or DoT will increase Stove Heating by 1 stack. For every stack of Stove Heating gained, this unit's ATK increases. When in the Boil state, receiving attacks or DoT will increase Stove Overheating by 1 stack, and has a chance to apply Slow to the target when attacking."
+        },
+        "SP": 0
+    },
+    "301202001": {
+        "Key": "Skill03",
+        "Name": {
+            "CH": "排异",
+            "EN": "Structural Deviation"
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成物理属性伤害。",
+            "EN": "Deals Physical DMG to a single target."
+        },
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "301202002": {
+        "Key": "SkillP01",
+        "Name": {
+            "CH": "刚愎盾甲",
+            "EN": "Aegis of the Unyielding"
+        },
+        "Desc": {
+            "CH": "进入【守备】状态，未击破时受到的伤害降低，击破时行动额外延后，击破后受到的伤害提高。",
+            "EN": "Enters a On Guard state, and reduces DMG received when not Weakness Broken. Once it is Weakness Broken, actoins will be delayed and increases DMG received after."
+        },
+        "SP": 0
+    },
+    "302402001": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "BHF-轰炎推进",
+            "EN": "BHF: Fiery Advance"
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成少量火属性伤害。",
+            "EN": "Deals minor Fire DMG to a single target."
+        },
+        "SP": 10.0,
+        "Elem": "Fire"
+    },
+    "302402002": {
+        "Key": "Skill02",
+        "Name": {
+            "CH": "BHF-天火",
+            "EN": "BHF: Heavenly Fire"
+        },
+        "Desc": {
+            "CH": "对指定我方单体及其相邻目标造成少量火属性伤害。",
+            "EN": "Deals Fire DMG to a single target and units adjacent to the target."
+        },
+        "SP": 10.0,
+        "Elem": "Fire"
+    },
+    "302402003": {
+        "Key": "Skill03",
+        "Name": {
+            "CH": "BBHF-焦土作战",
+            "EN": "BBHF: Scorched Earth"
+        },
+        "Desc": {
+            "CH": "对我方全体造成少量火属性伤害。",
+            "EN": "Deals Fire DMG to all targets."
+        },
+        "SP": 15.0,
+        "Elem": "Fire"
+    },
+    "302402004": {
+        "Key": "Skill04",
+        "Name": {
+            "CH": "DHGDR-次级燃烧",
+            "EN": "DHGDR: Incomplete Combustion"
+        },
+        "Desc": {
+            "CH": "消耗自身生命值，进入【次级燃烧】并解除【弱点无效】效果。进入【次级燃烧】后自身大幅增强，但所有攻击会消耗自身生命值。",
+            "EN": "Consumes HP to enter the Incomplete Combustion state and removes Weakness Protected. Sam is significantly more powerful in this state, but all his attacks consume his own HP."
+        },
+        "SP": 0
+    },
+    "302402005": {
+        "Key": "Skill05",
+        "Name": {
+            "CH": "DHGDR-超新星过载",
+            "EN": "DHGDR: Supernova Overload"
+        },
+        "Desc": {
+            "CH": "对我方全体造成火属性伤害，并大概率使受到攻击的我方目标陷入灼烧状态。",
+            "EN": "Deals Fire DMG to all targets and may make them Burn."
+        },
+        "SP": 20.0,
+        "Elem": "Fire"
+    },
+    "302402006": {
+        "Key": "PassiveSkill01",
+        "Name": {
+            "CH": "SGE-熔火垓心",
+            "EN": "SGE: Molten Core"
+        },
+        "Desc": {
+            "CH": "进入【次级燃烧】后使场地燃烧，同时燃烧我方的战技点；我方消耗燃烧的战技点时会消耗生命值，同时额外造成等同于原伤害一定比例的固定数值火属性伤害，并且接受其他角色的治疗时，生命值回复量大幅降低。",
+            "EN": "After entering Secondary Combustion, Combusts the area and targets' Skill Points. When consuming Combusted Skill Points, targets lose HP and additionally deal a set amount of Fire DMG equal to a certain percentage of the original DMG. When they receive healing from other characters, the amount of HP restored is massively reduced."
+        },
+        "SP": 0
+    },
     "302401101": {
         "Key": "Skill01",
         "Name": {
             "CH": "虔诚",
-            "EN": "Devout"
+            "EN": "Piety"
         },
         "Desc": {
             "CH": "对指定我方单体造成物理属性伤害。",
@@ -14285,7 +14780,7 @@ var _monsterskill = {
         "Key": "Skill03",
         "Name": {
             "CH": "枪与盾",
-            "EN": "Conundrum"
+            "EN": "Spear & Shield"
         },
         "Desc": {
             "CH": "随机召唤【枪尖】、【盾】、【授勋】的雕塑。",
@@ -14300,8 +14795,8 @@ var _monsterskill = {
             "EN": "Thus Spoke The Spirit of Love"
         },
         "Desc": {
-            "CH": "释放一个雕塑中纯美的灵魂，使被灵魂升华的雕塑技能效果增强并立即行动。",
-            "EN": ""
+            "CH": "升华一个雕塑中纯美的灵魂，使被灵魂升华的雕塑技能效果增强并立即行动。",
+            "EN": "Casts a Soul of Beauty from one of the statues. Causes the ability of the Soulfreed statue to be enhanced and to immediately take action."
         },
         "SP": 0
     },
@@ -14459,7 +14954,7 @@ var _monsterskill = {
         "Key": "Skill05",
         "Name": {
             "CH": "剑气近",
-            "EN": "Verging Edge"
+            "EN": "Qi Advance"
         },
         "Desc": {
             "CH": "进入蓄力状态。下次行动对我方全体施放【天河泻】。",
@@ -14484,7 +14979,7 @@ var _monsterskill = {
         "Key": "Skill07",
         "Name": {
             "CH": "剑气凝",
-            "EN": "Sword Qi Concentration"
+            "EN": "Qi Converge"
         },
         "Desc": {
             "CH": "锁定我方单体，两回合后对其施放【风归云动，天河泻梦】。",
@@ -14508,14 +15003,51 @@ var _monsterskill = {
     "200402209": {
         "Key": "SkillP01",
         "Name": {
-            "CH": "dev_被动技能（不显示）",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_进入濒死状态时，切换阶段，共有三个阶段。进入第三阶段时速度提高（不显示）。",
+            "CH": "",
             "EN": ""
         },
         "SP": 15.0
+    },
+    "300205001": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "桶的锤炼",
+            "EN": "The Can's Trials"
+        },
+        "Desc": {
+            "CH": "对我方单体造成物理属性伤害。",
+            "EN": "Deals Physical DMG to a single target."
+        },
+        "SP": 0,
+        "Elem": "Phys"
+    },
+    "300205002": {
+        "Key": "Skill02",
+        "Name": {
+            "CH": "桶的磨砺",
+            "EN": "The Can's Tribulations"
+        },
+        "Desc": {
+            "CH": "提高自身的攻击力。该效果可叠加，且不可被驱散。",
+            "EN": "Increases this unit's ATK. This effect is stackable and unremoveable."
+        },
+        "SP": 0
+    },
+    "300205003": {
+        "Key": "SkillP01",
+        "Name": {
+            "CH": "桶的信条",
+            "EN": "The Can's Creed"
+        },
+        "Desc": {
+            "CH": "当自身被弱点击破时将会离开战斗。当自身受到我方攻击时，将会被添加此次攻击对应的属性弱点，至多添加2个弱点。",
+            "EN": "When this unit is Weakness Broken, it will leave the battle. When attacked for the first time, a Weakness corresponding to the attack's Type will be implanted."
+        },
+        "SP": 0
     },
     "101301403": {
         "Key": "Skill05",
@@ -14569,11 +15101,11 @@ var _monsterskill = {
     "101301407": {
         "Key": "PassiveSkillInitiate",
         "Name": {
-            "CH": "dev_指令 · 强攻模式",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_不显示。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -14594,11 +15126,11 @@ var _monsterskill = {
     "101301402": {
         "Key": "Skill06",
         "Name": {
-            "CH": "dev_强力普攻",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_对指定我方单体造成大量物理属性伤害。",
+            "CH": "",
             "EN": ""
         },
         "SP": 20.0,
@@ -14694,11 +15226,11 @@ var _monsterskill = {
     "101302407": {
         "Key": "Skill08",
         "Name": {
-            "CH": "dev_强力普攻",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_对指定我方单体造成物理属性伤害，并大概率对其增加多层裂伤。",
+            "CH": "",
             "EN": ""
         },
         "SP": 10.0,
@@ -14724,7 +15256,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "被击倒后进入【火力修复】状态，在一定回合后起身，并使自身造成的伤害进一步提高，伤害提高效果可叠加。",
-            "EN": "Enters Firepower Recovery state when downed, returning to battle after a certain number of turns and further increasing DMG dealt. The DMG boost are stackable."
+            "EN": "Enters Firepower Recovery state when downed, returning to battle after a certain number of turns and further increasing DMG dealt. The DMG boost effects are stackable."
         },
         "SP": 0
     },
@@ -14756,11 +15288,11 @@ var _monsterskill = {
     "802401210": {
         "Key": "Skill08",
         "Name": {
-            "CH": "dev_扩散",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_对指定我方单体及相邻目标造成造成风属性伤害，并将主目标的风化层数扩散给副目标。",
+            "CH": "",
             "EN": ""
         },
         "SP": 10.0,
@@ -14886,8 +15418,8 @@ var _monsterskill = {
             "EN": "Sin and Absolution"
         },
         "Desc": {
-            "CH": "释放敌方全体雕塑中纯美的灵魂，使被灵魂升华的雕塑技能效果增强。",
-            "EN": ""
+            "CH": "升华敌方全体雕塑中纯美的灵魂，使被灵魂升华的雕塑技能效果增强。",
+            "EN": "Casts the Souls of Beauty from all statues. Causes the ability of the Soulfreed statue to be enhanced."
         },
         "SP": 0
     },
@@ -14989,7 +15521,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "召唤【冰锋（幻象）】。",
-            "EN": "Summons Ice Edges (Illusion)."
+            "EN": "Summons Ice Edges (Illusion)"
         },
         "SP": 0
     },
@@ -15059,7 +15591,7 @@ var _monsterskill = {
     "100401308": {
         "Key": "SkillP01",
         "Name": {
-            "CH": "dev_支援",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
@@ -15227,6 +15759,158 @@ var _monsterskill = {
             "EN": ""
         },
         "SP": 0
+    },
+    "100501301": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "碎骨寒流",
+            "EN": "Bone-Shattering Cold"
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成冰属性伤害。",
+            "EN": "Deals Ice DMG to a single target."
+        },
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "100501302": {
+        "Key": "Skill10",
+        "Name": {
+            "CH": "灭世纪的预兆",
+            "EN": "Harbinger of Annihilation"
+        },
+        "Desc": {
+            "CH": "锁定我方单体，下次行动对该目标施放【裂魂寒流】。",
+            "EN": "Locks Onto a single target. In the next action, use \"Soulrend Coldstream.\""
+        },
+        "SP": 0
+    },
+    "100501303": {
+        "Key": "Skill06",
+        "Name": {
+            "CH": "裂魂寒流",
+            "EN": "Soulrend Coldstream"
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成大量冰属性伤害，并大概率使受到攻击的我方目标陷入冻结状态。该技能会对【无尽寒冬之槊（幻象）】锁定的目标追加释放。",
+            "EN": "Deals massive Ice DMG to a single target, with a high chance to Freeze the target. This ability will be additionally released on targets locked-on by Lance of the Eternal Freeze (Illusion)."
+        },
+        "SP": 15.0,
+        "Elem": "Ice"
+    },
+    "100501304": {
+        "Key": "Skill04",
+        "Name": {
+            "CH": "",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "",
+            "EN": ""
+        },
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "100501305": {
+        "Key": "Skill02",
+        "Name": {
+            "CH": "冷酷灭世者之唤",
+            "EN": "Heartless Annihilator Call"
+        },
+        "Desc": {
+            "CH": "召唤【无尽寒冬之槊（幻象）】。",
+            "EN": "Summons Lances of the Eternal Freeze (Illusion)."
+        },
+        "SP": 0
+    },
+    "100501306": {
+        "Key": "Skill11",
+        "Name": {
+            "CH": "创世者的决意",
+            "EN": "Creator's Resolve"
+        },
+        "Desc": {
+            "CH": "转化为虚数属性，速度提高且攻击造成的伤害，解除韧性保护状态。",
+            "EN": "Converts to Imaginary-Type, increases SPD and DMG dealt, and removes the Toughness Protection state."
+        },
+        "SP": 0,
+        "Elem": "Imaginary"
+    },
+    "100501307": {
+        "Key": "Skill07",
+        "Name": {
+            "CH": "创世和弦",
+            "EN": "Genesis Chord"
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成虚数属性伤害，并大概率使受到攻击的我方目标陷入禁锢状态。该技能会对【无尽寒冬之槊（幻象）】锁定的目标追加释放。",
+            "EN": "Deals Imaginary DMG to a single target, with a high chance to Imprison the target. This ability will be additionally released on targets locked-on by Lance of the Eternal Freeze (Illusion)."
+        },
+        "SP": 10.0,
+        "Elem": "Imaginary"
+    },
+    "100501308": {
+        "Key": "Skill08",
+        "Name": {
+            "CH": "创世纪的前奏",
+            "EN": "The Creation's Prelude"
+        },
+        "Desc": {
+            "CH": "进入蓄力状态，下次行动对我方全体施放【创世绝响】。",
+            "EN": "Enters the Charge state. The next action uses \"Last Choir of Genesis\" on all targets."
+        },
+        "SP": 0
+    },
+    "100501309": {
+        "Key": "Skill09",
+        "Name": {
+            "CH": "创世绝响",
+            "EN": "Last Choir of Genesis"
+        },
+        "Desc": {
+            "CH": "对我方全体造成大量虚数属性伤害。",
+            "EN": "Deals massive Imaginary DMG to all targets."
+        },
+        "SP": 20.0,
+        "Elem": "Imaginary"
+    },
+    "100501310": {
+        "Key": "SkillP02",
+        "Name": {
+            "CH": "",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "",
+            "EN": ""
+        },
+        "SP": 0,
+        "Elem": "Ice"
+    },
+    "100501311": {
+        "Key": "SkillP01",
+        "Name": {
+            "CH": "狂雪之灾",
+            "EN": "Blizzardous Crisis"
+        },
+        "Desc": {
+            "CH": "每有1个我方目标陷入冻结或禁锢状态，自身及召唤物造成的伤害提高。",
+            "EN": "This unit and all its summoned objects gain increased DMG for each Frozen or Imprisoned target on the opposing team."
+        },
+        "SP": 0
+    },
+    "100501312": {
+        "Key": "SkillP03",
+        "Name": {
+            "CH": "",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "",
+            "EN": ""
+        },
+        "SP": 0,
+        "Elem": "Ice"
     },
     "200401301": {
         "Key": "Skill01",
@@ -15398,7 +16082,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "召唤4把【飞剑（幻象）】，获得【剑阵】效果，提高自身速度。【飞剑（幻象）】只有在弱点击破后才能被消灭，并将其弱点转移给随机的剩余飞剑。所有【飞剑（幻象）】的弱点均被击破后解除【剑阵】。",
-            "EN": "Summons 4 Flying Swords (Phantom) and gains the Sword Formation effect that increases this unit's SPD. Flying Swords (Phantom) cannot be destroyed. Once its Weakness is Broken, its Weaknesses are transferred to another random Flying Sword that has not yet been Weakness Broken. After inflicting Weakness Break on all Flying Swords (Phantom), the Sword Formation effect will be dispelled."
+            "EN": "Summons 4 Flying Swords (Illusion) and gains the Sword Formation effect that increases this unit's SPD. Flying Swords (Illusion) can only be destroyed once they are Weakness Broken, and their Weaknesses will be transferred to the remaining Flying Swords. After inflicting Weakness Break on all Flying Swords (Illusion), the Sword Formation effect will be dispelled."
         },
         "SP": 10.0
     },
@@ -15657,7 +16341,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "每当丰饶玄鹿获得增益效果时，丰饶玄鹿和所有建木枝梢造成的伤害小幅提高。",
-            "EN": "Every time the Abundant Ebon Deer gains a buff, DMG dealt by the Abundant Ebon Deer and all Ambrosial Arbor is slightly increased."
+            "EN": "Every time the Abundant Ebon Deer gains a buff, DMG dealt by the Abundant Ebon Deer and all Ambrosial Arbor branches is slightly increased."
         },
         "SP": 0
     },
@@ -15669,7 +16353,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "召唤建木枝梢【缃叶之杪（幻象）】时，使其获得【培植】，提高【复还】造成的伤害。",
-            "EN": "Upon summoning Ambrosial Arbor Branch — Twig of Marple Leaf (Phantom), it gains \"Cultivation,\" greatly increasing its Retaliation DMG."
+            "EN": "Upon summoning Ambrosial Arbor Branch — Twig of Marple Leaf (Illusion), it gains \"Cultivation,\" greatly increasing its Retaliation DMG."
         },
         "SP": 0
     },
@@ -15807,7 +16491,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "当杰帕德的回合开始时，小幅提高自身的速度和攻击力，此效果可叠加。该效果在杰帕德的弱点被击破时会被清除。",
-            "EN": "Slightly increases Gepard's DEF and ATK at the start of Gepard's turn. This effect is stackable, but is dispelled when Gepard's Weakness is broken."
+            "EN": "Slightly increases Gepard's SPD and ATK at the start of Gepard's turn. This effect is stackable, but is dispelled when Gepard's Weakness is broken."
         },
         "SP": 15.0,
         "Elem": "Wind"
@@ -16104,7 +16788,7 @@ var _monsterskill = {
         "Key": "Skill03",
         "Name": {
             "CH": "枪与盾",
-            "EN": "Conundrum"
+            "EN": "Spear & Shield"
         },
         "Desc": {
             "CH": "随机召唤【枪尖】、【盾】、【授勋】的雕塑。",
@@ -16141,13 +16825,26 @@ var _monsterskill = {
         "Key": "Skill07",
         "Name": {
             "CH": "枪与盾",
-            "EN": "Conundrum"
+            "EN": "Spear & Shield"
         },
         "Desc": {
             "CH": "随机召唤【枪尖】、【盾】、【授勋】的雕塑。",
             "EN": "Randomly summons statues of \"Speartip,\" \"The Shield,\" and \"The Honored.\""
         },
         "SP": 0
+    },
+    "301101001": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "他者凝视",
+            "EN": "Glare of the Other"
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成少量量子属性伤害，并使受到攻击的我方目标行动延后。",
+            "EN": "Deals minor Quantum DMG to a single target, with a chance to delay their action."
+        },
+        "SP": 10.0,
+        "Elem": "Quantum"
     },
     "201302004": {
         "Key": "Skill04",
@@ -16328,158 +17025,6 @@ var _monsterskill = {
         },
         "SP": 0
     },
-    "100501301": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "碎骨寒流",
-            "EN": "Bone-Shattering Cold"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成冰属性伤害。",
-            "EN": "Deals Ice DMG to a single target."
-        },
-        "SP": 10.0,
-        "Elem": "Ice"
-    },
-    "100501302": {
-        "Key": "Skill10",
-        "Name": {
-            "CH": "灭世纪的预兆",
-            "EN": "Harbinger of Annihilation"
-        },
-        "Desc": {
-            "CH": "锁定我方单体，下次行动对该目标施放【裂魂寒流】。",
-            "EN": "Locks Onto a single target. In the next action, use \"Soulrend Coldstream.\""
-        },
-        "SP": 0
-    },
-    "100501303": {
-        "Key": "Skill06",
-        "Name": {
-            "CH": "裂魂寒流",
-            "EN": "Soulrend Coldstream"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成大量冰属性伤害，并大概率使受到攻击的我方目标陷入冻结状态。该技能会对【无尽寒冬之槊（幻象）】锁定的目标追加释放。",
-            "EN": "Deals massive Ice DMG to a single target, with a high chance to Freeze the target. This ability will be additionally released on targets locked-on by Lance of the Eternal Freeze (Illusion)."
-        },
-        "SP": 15.0,
-        "Elem": "Ice"
-    },
-    "100501304": {
-        "Key": "Skill04",
-        "Name": {
-            "CH": "",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "SP": 10.0,
-        "Elem": "Ice"
-    },
-    "100501305": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "冷酷灭世者之唤",
-            "EN": "Heartless Annihilator Call"
-        },
-        "Desc": {
-            "CH": "召唤【无尽寒冬之槊（幻象）】。",
-            "EN": "Summons Lances of the Eternal Freeze (Illusion)."
-        },
-        "SP": 0
-    },
-    "100501306": {
-        "Key": "Skill11",
-        "Name": {
-            "CH": "创世者的决意",
-            "EN": "Creator's Resolve"
-        },
-        "Desc": {
-            "CH": "转化为虚数属性，速度提高且攻击造成的伤害，解除韧性保护状态。",
-            "EN": "Converts to Imaginary-Type, increases SPD and DMG, and removes the No Weakness State."
-        },
-        "SP": 0,
-        "Elem": "Imaginary"
-    },
-    "100501307": {
-        "Key": "Skill07",
-        "Name": {
-            "CH": "创世和弦",
-            "EN": "Genesis Chord"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成虚数属性伤害，并大概率使受到攻击的我方目标陷入禁锢状态。该技能会对【无尽寒冬之槊（幻象）】锁定的目标追加释放。",
-            "EN": "Deals Imaginary DMG to a single target, with a high chance to Imprison the target. This ability will be additionally released on targets locked-on by Lance of the Eternal Freeze (Illusion)."
-        },
-        "SP": 10.0,
-        "Elem": "Imaginary"
-    },
-    "100501308": {
-        "Key": "Skill08",
-        "Name": {
-            "CH": "创世纪的前奏",
-            "EN": "The Creation's Prelude"
-        },
-        "Desc": {
-            "CH": "进入蓄力状态，下次行动对我方全体施放【创世绝响】。",
-            "EN": "Enters the Charge state and removes Toughness Protection. In the next action, use \"Last Choir of Genesis\" on all targets."
-        },
-        "SP": 0
-    },
-    "100501309": {
-        "Key": "Skill09",
-        "Name": {
-            "CH": "创世绝响",
-            "EN": "Last Choir of Genesis"
-        },
-        "Desc": {
-            "CH": "对我方全体造成大量虚数属性伤害。",
-            "EN": "Deals massive Imaginary DMG to all targets."
-        },
-        "SP": 20.0,
-        "Elem": "Imaginary"
-    },
-    "100501310": {
-        "Key": "SkillP02",
-        "Name": {
-            "CH": "",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "SP": 0,
-        "Elem": "Ice"
-    },
-    "100501311": {
-        "Key": "SkillP01",
-        "Name": {
-            "CH": "狂雪之灾",
-            "EN": "Blizzardous Crisis"
-        },
-        "Desc": {
-            "CH": "每有1个我方目标陷入冻结或禁锢状态，自身及召唤物造成的伤害提高。",
-            "EN": "This unit and all its summoned objects gain increased DMG for each Frozen or Imprisoned target on the opposing team."
-        },
-        "SP": 0
-    },
-    "100501312": {
-        "Key": "SkillP03",
-        "Name": {
-            "CH": "",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "SP": 0,
-        "Elem": "Ice"
-    },
     "200402310": {
         "Key": "Skill02_Extra",
         "Name": {
@@ -16488,8 +17033,699 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "召唤4把【飞剑（幻象）】，获得【剑阵】效果，提高自身速度。【飞剑（幻象）】初始弱点隐藏，受到正确属性的攻击后，解除该效果。【飞剑（幻象）】只有在弱点击破后才能被消灭，并将其弱点转移给随机的剩余飞剑。所有【飞剑（幻象）】的弱点均被击破后解除【剑阵】。",
-            "EN": "Summons 4 Flying Swords (Phantom) and gains the Sword Formation effect that increases this unit's SPD. Flying Swords (Phantom) cannot be destroyed and, once Sword Formation is attacked, the Weakness Type for all Flying Swords rotates from left to right. After inflicting Weakness Break on all Flying Swords (Phantom), the Sword Formation effect will be dispelled."
+            "EN": "Summons 4 Flying Swords (Illusion) and gains the Sword Formation effect that increases this unit's SPD. The Flying Swords' Weaknesses will be hidden initially and are revealed once they are attacked by the correct DMG type. Flying Swords (Illusion) can only be destroyed once they are Weakness Broken, and their Weaknesses will be transferred to the remaining Flying Swords. After inflicting Weakness Break on all Flying Swords (Illusion), the Sword Formation effect will be dispelled."
         },
         "SP": 10.0
+    },
+    "301203101": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "惊醒无声的长眠",
+            "EN": "Slumber Awakening"
+        },
+        "Desc": {
+            "CH": "当永眠墓碣受到致命攻击后，对应我方目标将解除【梦死】状态并回复生命值和能量。",
+            "EN": "After Tomb of Eternal Slumber receives a killing blow, the Dreaming Till The End state on a corresponding character will be dispelled, restoring HP and regenerating Energy."
+        },
+        "SP": 0
+    },
+    "301203102": {
+        "Key": "Skill02",
+        "Name": {
+            "CH": "一切逝去的时间",
+            "EN": "Temporal Departure"
+        },
+        "Desc": {
+            "CH": "永眠墓碣不会进行行动。",
+            "EN": "Tomb of Eternal Slumber will not take action."
+        },
+        "SP": 0
+    },
+    "301203103": {
+        "Key": "SkillP01",
+        "Name": {
+            "CH": "化入永恒的延续",
+            "EN": "Eternal Continuation"
+        },
+        "Desc": {
+            "CH": "永眠墓碣拥有固定格数的生命值。每次受到攻击，弱点击破和持续伤害时，都会直接扣除自身1格生命值。",
+            "EN": "Tomb of Eternal Slumber has a fixed amount of HP bars. Each time it is attacked, Weakness Broken, or receives DMG from DoT, 1 bar of HP will be depleted."
+        },
+        "SP": 0
+    },
+    "301203104": {
+        "Key": "PassiveSkill03",
+        "Name": {
+            "CH": "test_巨掌之间",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_不显示。",
+            "EN": ""
+        },
+        "SP": 0,
+        "Elem": "Phys"
+    },
+    "300301101": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "大力颠勺",
+            "EN": "Vigorous Ladle Swirl"
+        },
+        "Desc": {
+            "CH": "对我方单体造成火属性伤害。",
+            "EN": "Deals Fire DMG to a single target."
+        },
+        "SP": 10.0,
+        "Elem": "Fire"
+    },
+    "300301102": {
+        "Key": "Skill02",
+        "Name": {
+            "CH": "旋风翻锅",
+            "EN": "Tornado Toss"
+        },
+        "Desc": {
+            "CH": "对我方单体及相邻单位造成少量火属性伤害。",
+            "EN": "Deals minor Fire DMG to a single target and adjacent units."
+        },
+        "SP": 10.0,
+        "Elem": "Fire"
+    },
+    "300301103": {
+        "Key": "Skill06",
+        "Name": {
+            "CH": "点燃炉灶",
+            "EN": "Ignite Stove"
+        },
+        "Desc": {
+            "CH": "进入蓄力状态，下次行动时释放【烈焰爆炒】，并清除所有【炉灶加温】的层数。",
+            "EN": "Enters a Charge state. In the next action, uses Flaming Stir-Fry if Stove Overheating has not reached a certain number of stacks, then clears all Stove Heating and Stove Overheating stacks."
+        },
+        "SP": 0,
+        "Elem": "Fire"
+    },
+    "300301104": {
+        "Key": "Skill04",
+        "Name": {
+            "CH": "烈焰爆炒",
+            "EN": "Flaming Stir-Fry"
+        },
+        "Desc": {
+            "CH": "对我方全体造成大量火属性伤害。",
+            "EN": "Deals massive Fire DMG to all targets."
+        },
+        "SP": 20.0,
+        "Elem": "Fire"
+    },
+    "300301105": {
+        "Key": "Skill05",
+        "Name": {
+            "CH": "厨房事故",
+            "EN": "Kitchen Mishap"
+        },
+        "Desc": {
+            "CH": "进入蓄力状态后，当【炉灶加温】叠加到一定层数时，立即对敌方全体单位造成大量火属性伤害，使自身防御降低，并为我方全体单位恢复能量。",
+            "EN": "After entering the Charge state, deals massive Fire DMG to all targets and decreases this unit's DEF once Stove Overheating has a certain number of stacks. Then, clears all Stove Heating and Stove Overheating stacks."
+        },
+        "SP": 0,
+        "Elem": "Fire"
+    },
+    "300301106": {
+        "Key": "Skill03",
+        "Name": {
+            "CH": "火炼佳肴",
+            "EN": "Flame-Forged Feast"
+        },
+        "Desc": {
+            "CH": "当【炉灶加温】叠加一定层数时立即行动，并释放【点燃炉灶】。",
+            "EN": "Immediately takes action when Stove Heating reaches a certain number of stacks, and uses Ignite Stove."
+        },
+        "SP": 0
+    },
+    "300301107": {
+        "Key": "PassiveSkillInitiate",
+        "Name": {
+            "CH": "猛火炉灶",
+            "EN": "Inferno Stove"
+        },
+        "Desc": {
+            "CH": "自身在攻击时有概率对目标施加减速状态。当自身受到攻击或持续伤害时，叠加一层【炉灶加温】。",
+            "EN": "When in the Simmer state, receiving attacks or DoT will increase Stove Heating by 1 stack. For every stack of Stove Heating gained, this unit's ATK increases. When in the Boil state, receiving attacks or DoT will increase Stove Overheating by 1 stack, and has a chance to apply Slow to the target when attacking."
+        },
+        "SP": 0
+    },
+    "300302101": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "限量赠饮",
+            "EN": "Limited Free Drink"
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成冰属性伤害，如果目标身上拥有护盾，则造成伤害后还会反弹给自身。",
+            "EN": "Deals Ice DMG to a single target. If the target has Shield, the DMG will rebound back to this unit after dealing DMG."
+        },
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "300302102": {
+        "Key": "Skill02",
+        "Name": {
+            "CH": "无限畅饮",
+            "EN": "Bottomless Free Drink"
+        },
+        "Desc": {
+            "CH": "对被标记为监视目标的我方单体造成4次冰属性伤害，并使其行动提前。如果目标身上拥有护盾，则造成伤害后还会反弹给随机敌方单位。",
+            "EN": "Randomly deals DMG 4 times to single targets. If the target has Shield, the DMG will rebound back to this unit after dealing DMG."
+        },
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "300302103": {
+        "Key": "Skill03",
+        "Name": {
+            "CH": "苏乐达派对",
+            "EN": "SoulGlad Party"
+        },
+        "Desc": {
+            "CH": "召唤2只【气泡锂犬】。",
+            "EN": "Summons 2 Bubble Hounds."
+        },
+        "SP": 0
+    },
+    "300302104": {
+        "Key": "Skill04",
+        "Name": {
+            "CH": "酬宾喷泉",
+            "EN": "Celebration Fountain"
+        },
+        "Desc": {
+            "CH": "进入蓄力状态，获得韧性保护，下次行动时施放【无限畅饮】。同时将随机我方单体标记为监视目标。每当我方目标施放战技时，会转为标记最新施放战技的目标。此状态下，自身受到攻击时行动将会提前。",
+            "EN": "Enters the Charge stage and gains Toughness Protection. Uses Bottomless Free Drink during the next action."
+        },
+        "SP": 0
+    },
+    "300302105": {
+        "Key": "SkillP01",
+        "Name": {
+            "CH": "dev_被动",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_受到攻击或持续伤害时，获得可乐标记，可叠加。可乐标记层数越高，造成的伤害越高，造成伤害后可乐标记清零。",
+            "EN": ""
+        },
+        "SP": 0
+    },
+    "302402101": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "BHF-轰炎推进",
+            "EN": "BHF: Fiery Advance"
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成少量火属性伤害。",
+            "EN": "Deals minor Fire DMG to a single target."
+        },
+        "SP": 10.0,
+        "Elem": "Fire"
+    },
+    "302402102": {
+        "Key": "Skill02",
+        "Name": {
+            "CH": "BHF-天火",
+            "EN": "BHF: Heavenly Fire"
+        },
+        "Desc": {
+            "CH": "对指定我方单体及其相邻目标造成少量火属性伤害。",
+            "EN": "Deals Fire DMG to a single target and units adjacent to the target."
+        },
+        "SP": 10.0,
+        "Elem": "Fire"
+    },
+    "302402103": {
+        "Key": "Skill03",
+        "Name": {
+            "CH": "BBHF-焦土作战",
+            "EN": "BBHF: Scorched Earth"
+        },
+        "Desc": {
+            "CH": "对我方全体造成少量火属性伤害。",
+            "EN": "Deals Fire DMG to all targets."
+        },
+        "SP": 15.0,
+        "Elem": "Fire"
+    },
+    "302402104": {
+        "Key": "Skill04",
+        "Name": {
+            "CH": "DHGDR-次级燃烧",
+            "EN": "DHGDR: Incomplete Combustion"
+        },
+        "Desc": {
+            "CH": "消耗自身生命值，进入【次级燃烧】并解除【弱点无效】效果。进入【次级燃烧】后自身大幅增强，但所有攻击会消耗自身生命值。",
+            "EN": "Consumes HP to enter the Incomplete Combustion state and removes Weakness Protected. Sam is significantly more powerful in this state, but all his attacks consume his own HP."
+        },
+        "SP": 0
+    },
+    "302402105": {
+        "Key": "Skill05",
+        "Name": {
+            "CH": "DHGDR-超新星过载",
+            "EN": "DHGDR: Supernova Overload"
+        },
+        "Desc": {
+            "CH": "对我方全体造成火属性伤害，并大概率使受到攻击的我方目标陷入灼烧状态。",
+            "EN": "Deals Fire DMG to all targets and may make them Burn."
+        },
+        "SP": 20.0,
+        "Elem": "Fire"
+    },
+    "302402106": {
+        "Key": "PassiveSkill01",
+        "Name": {
+            "CH": "SGE-熔火垓心",
+            "EN": "SGE: Molten Core"
+        },
+        "Desc": {
+            "CH": "进入【次级燃烧】后使场地燃烧，同时燃烧我方的战技点；我方消耗燃烧的战技点时会消耗生命值，同时额外造成等同于原伤害一定比例的固定数值火属性伤害，并且接受其他角色的治疗时，生命值回复量大幅降低。",
+            "EN": "After entering Secondary Combustion, Combusts the area and targets' Skill Points. When consuming Combusted Skill Points, targets lose HP and additionally deal a set amount of Fire DMG equal to a certain percentage of the original DMG. When they receive healing from other characters, the amount of HP restored is massively reduced."
+        },
+        "SP": 0
+    },
+    "202401401": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "衔枝 · 肃风",
+            "EN": "Pedicel: Wintry Wind"
+        },
+        "Desc": {
+            "CH": "召唤建木枝梢【肃风之杪】。",
+            "EN": "Summons Ambrosial Arbor branch \"Twig of Wintry Wind\""
+        },
+        "SP": 0
+    },
+    "202401402": {
+        "Key": "Skill02",
+        "Name": {
+            "CH": "衔枝 · 缃叶",
+            "EN": "Pedicel: Marple Leaf"
+        },
+        "Desc": {
+            "CH": "召唤建木枝梢【缃叶之杪】。",
+            "EN": "Summons Ambrosial Arbor branch \"Twig of Marple Leaf\""
+        },
+        "SP": 0
+    },
+    "202401403": {
+        "Key": "Skill03",
+        "Name": {
+            "CH": "衔枝 · 繁花",
+            "EN": "Pedicel: Glorious Blooms"
+        },
+        "Desc": {
+            "CH": "召唤建木枝梢【繁花之杪】。",
+            "EN": "Summons Ambrosial Arbor branch \"Twig of Glorious Blooms\""
+        },
+        "SP": 0
+    },
+    "202401404": {
+        "Key": "Skill04",
+        "Name": {
+            "CH": "衔枝 · 嘉实",
+            "EN": "Pedicel: Lavish Fruits"
+        },
+        "Desc": {
+            "CH": "召唤建木枝梢【嘉实之杪】。",
+            "EN": "Summons Ambrosial Arbor branch \"Twig of Lavish Fruits.\""
+        },
+        "SP": 0
+    },
+    "202401405": {
+        "Key": "Skill05",
+        "Name": {
+            "CH": "呦鸣",
+            "EN": "Wavering Bleat"
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成雷属性伤害。",
+            "EN": "Deals Lightning DMG to a single target."
+        },
+        "SP": 20.0,
+        "Elem": "Elec"
+    },
+    "202401406": {
+        "Key": "Skill06",
+        "Name": {
+            "CH": "绾风",
+            "EN": "Caress of Wind"
+        },
+        "Desc": {
+            "CH": "对我方全体造成少量风属性伤害。",
+            "EN": "Deals minor Wind DMG to all targets."
+        },
+        "SP": 15.0,
+        "Elem": "Wind"
+    },
+    "202401407": {
+        "Key": "Skill07",
+        "Name": {
+            "CH": "蕉覆",
+            "EN": "Hardy Leaf Sheath"
+        },
+        "Desc": {
+            "CH": "提高防御力，且使自身韧性无法受到伤害。",
+            "EN": "Increases DEF. Toughness cannot be reduced."
+        },
+        "SP": 0
+    },
+    "202401408": {
+        "Key": "Skill08",
+        "Name": {
+            "CH": "斑龙触",
+            "EN": "Flamboyant Gore"
+        },
+        "Desc": {
+            "CH": "当场上存在2个【嘉实】时立即施放该技能，对我方全体造成雷属性伤害。场上【建木枝梢】数量越多，造成的伤害越高。施放技能后，清除场上所有的【建木枝梢】。",
+            "EN": "Uses this ability immediately when there are 2 Lavish Fruits on the field. Deals Lightning DMG to all targets. Deals more damage for every \"Ambrosial Arbor Branches\" on the field. After the ability is used, remove all \"Ambrosial Arbor Branches\" on the field."
+        },
+        "SP": 20.0,
+        "Elem": "Elec"
+    },
+    "202401409": {
+        "Key": "Skill09",
+        "Name": {
+            "CH": "回生",
+            "EN": "Rebirth"
+        },
+        "Desc": {
+            "CH": "",
+            "EN": ""
+        },
+        "SP": 0
+    },
+    "300205101": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "桶的锤炼",
+            "EN": "The Can's Trials"
+        },
+        "Desc": {
+            "CH": "对我方单体造成物理属性伤害。",
+            "EN": "Deals Physical DMG to a single target."
+        },
+        "SP": 0,
+        "Elem": "Phys"
+    },
+    "300205102": {
+        "Key": "Skill02",
+        "Name": {
+            "CH": "桶的磨砺",
+            "EN": "The Can's Tribulations"
+        },
+        "Desc": {
+            "CH": "提高自身的攻击力。该效果可叠加，且不可被驱散。",
+            "EN": "Increases this unit's ATK. This effect is stackable and unremoveable."
+        },
+        "SP": 0
+    },
+    "300205103": {
+        "Key": "SkillP01",
+        "Name": {
+            "CH": "桶的信条",
+            "EN": "The Can's Creed"
+        },
+        "Desc": {
+            "CH": "当自身被弱点击破时将会击破所有除【王下一桶（投影）】外的敌方单位的弱点，同时自身离开战斗。当受到敌方攻击时，将会被添加此次攻击对应的属性弱点。",
+            "EN": "When this unit's Weakness is Broken, Weakness will be Broken for all friendly units except Lordly Trashcan (Projection). At the same time, this unit will exit the battle. When attacked, a Weakness corresponding to the attack's Type will be implanted."
+        },
+        "SP": 0
+    },
+    "301402101": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "葬仪之吻",
+            "EN": "Funereal Kiss"
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成物理属性伤害。",
+            "EN": "Deals Physical DMG to a single target."
+        },
+        "SP": 15.0,
+        "Elem": "Phys"
+    },
+    "301402102": {
+        "Key": "Skill02",
+        "Name": {
+            "CH": "沦没黑雨",
+            "EN": "Sunken Rain"
+        },
+        "Desc": {
+            "CH": "对我方全体造成物理属性伤害。",
+            "EN": "Deals Physical DMG to all targets."
+        },
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "301402103": {
+        "Key": "Skill03",
+        "Name": {
+            "CH": "锋锐悼词",
+            "EN": "Biting Obituary"
+        },
+        "Desc": {
+            "CH": "大幅提升自身造成的伤害，持续1回合，陷入弱点击破状态后解除。",
+            "EN": "Tremendously increases DMG dealt for 1 turn. This effect is removed when this unit become Weakness Broken."
+        },
+        "SP": 0
+    },
+    "301402104": {
+        "Key": "Skill04",
+        "Name": {
+            "CH": "光明消歇",
+            "EN": "Fading Radiance"
+        },
+        "Desc": {
+            "CH": "进入【白日西沉】状态。每当我方施放普攻、战技、终结技时叠加1层，当【白日西沉】叠加至3层时，立即对上一个行动的我方施放【已在黄昏失色】。施放过一次【已在黄昏失色】或被弱点击破后解除该状态。",
+            "EN": "Enters the Sunset state. Gains 1 stack each time a character takes action. When 3 stacks are gained, immediately uses Losing Eventide Light on the last-acting character. This effect is removed after using Losing Eventide Light once or after becoming Weakness Broken."
+        },
+        "SP": 0
+    },
+    "301402105": {
+        "Key": "Skill05",
+        "Name": {
+            "CH": "已在黄昏失色",
+            "EN": "Losing Eventide Light"
+        },
+        "Desc": {
+            "CH": "立即对上一名施放普攻、战技、终结技的我方目标发动致命攻击，使其陷入【梦死】状态。",
+            "EN": "Immediately deals a killing blow to the character that acted last."
+        },
+        "SP": 0
+    },
+    "301402106": {
+        "Key": "Skill06",
+        "Name": {
+            "CH": "步入良夜",
+            "EN": "Toward Moonrise"
+        },
+        "Desc": {
+            "CH": "进入【夜幕降临】状态，期间会锁定2名最先行动的我方目标。下次行动时使用【如水逝于水中】。",
+            "EN": "Enters the Nightfall state and locks onto the 2 characters who are due to act next. Uses Watery Dissolution in the next action."
+        },
+        "SP": 0
+    },
+    "301402107": {
+        "Key": "Skill07",
+        "Name": {
+            "CH": "如水逝于水中",
+            "EN": "Watery Dissolution"
+        },
+        "Desc": {
+            "CH": "立即对所有被锁定的我方目标发动致命攻击，使其陷入【梦死】状态。如果没有被锁定的目标，则随机对2名我方目标发动致命攻击并使其陷入【梦死】状态。",
+            "EN": "Immediately deals killing blow to all locked-on targets. If no targets are being locked on, randomly lock on to two targets."
+        },
+        "SP": 0
+    },
+    "301402108": {
+        "Key": "Skill08",
+        "Name": {
+            "CH": "",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "",
+            "EN": ""
+        },
+        "SP": 0
+    },
+    "301402109": {
+        "Key": "PassiveSkill02",
+        "Name": {
+            "CH": "无从凭吊的荒场",
+            "EN": "Desolation Without Lamentation"
+        },
+        "Desc": {
+            "CH": "每当我方目标陷入【梦死】状态时，召唤一个对应的【永眠墓碣】；当我方全体陷入【梦死】状态或无法战斗状态时，战斗失败。",
+            "EN": "Whenever a target enters the Dreaming Till The End state, summons a corresponding Tomb of Eternal Slumber. When all targets enter the Dreaming Till The End state or are knocked down, this battle will be considered a defeat."
+        },
+        "SP": 0
+    },
+    "302402007": {
+        "Key": "Skill06",
+        "Name": {
+            "CH": "SGE-熔火引擎",
+            "EN": "SGE-Molten Engine"
+        },
+        "Desc": {
+            "CH": "萨姆在【次级燃烧】下拥有100%的【熔火能量】，损失生命值将扣除【熔火能量】，被弱点击破或【熔火能量】耗尽时解除【次级燃烧】。解除【次级燃烧】时，萨姆受到的伤害提高，并恢复我方全体能量。",
+            "EN": "While in Secondary Combustion, Sam has 100% Molten Energy. Losing HP will deduct Molten Energy. When Weakness is Broken or when Molten Energy is depleted, dispels Secondary Combustion. When Secondary Combustion is dispelled, Sam receives increased DMG, and Energy is regenerated for all characters."
+        },
+        "SP": 0
+    },
+    "302402107": {
+        "Key": "Skill06",
+        "Name": {
+            "CH": "SGE-熔火引擎",
+            "EN": "SGE-Molten Engine"
+        },
+        "Desc": {
+            "CH": "萨姆在【次级燃烧】下拥有100%的【熔火能量】，损失生命值将扣除【熔火能量】，被弱点击破或【熔火能量】耗尽时解除【次级燃烧】。解除【次级燃烧】时，萨姆受到的伤害提高，并恢复我方全体能量。",
+            "EN": "While in Secondary Combustion, Sam has 100% Molten Energy. Losing HP will deduct Molten Energy. When Weakness is Broken or when Molten Energy is depleted, dispels Secondary Combustion. When Secondary Combustion is dispelled, Sam receives increased DMG, and Energy is regenerated for all characters."
+        },
+        "SP": 0
+    },
+    "104201": {
+        "Name": {
+            "CH": "云来剑法",
+            "EN": "Yunlai Swordsmanship"
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成<1>雷元素伤害。",
+            "EN": "Deals <1> Thunder DMG to a single target."
+        },
+        "SP": 10.0,
+        "Elem": "Elec",
+        "DMG": [
+            3.0
+        ]
+    },
+    "104202": {
+        "Name": {
+            "CH": "雷暴连斩",
+            "EN": "Thundering Stiletto"
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成<1>雷元素伤害，对相邻目标造成<2>雷元素伤害。",
+            "EN": "Deals <1> Thunder DMG to a single target, and <2> Thunder DMG to adjacent targets."
+        },
+        "SP": 15.0,
+        "Elem": "Elec",
+        "DMG": [
+            3.5,
+            2.5
+        ]
+    },
+    "104203": {
+        "Name": {
+            "CH": "玉衡之贵",
+            "EN": "Aristocratic Dignity"
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成<1>雷元素伤害，并进入<color style='color:#f29e38;'>【雷雳寰宇】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>在【雷雳寰宇】状态下，速度提升<color style='color:#f29e38;'>50</color>点，且每次行动后，会对本次行动中受到伤害的所有目标额外释放一次<color style='color:#f29e38;'>【云来剑法】</color>。<br>【雷雳寰宇】状态不可解除，期间自身弱点被击破时会流失<color style='color:#f29e38;'>13%生命值上限</color>，并退出此状态。",
+            "EN": "Deals <1> Thunder DMG to a single target and enters the <color style='color:#f29e38;'>Piercing Thunderbolt</color> state, lasting <color style='color:#f29e38;'>2</color> turns.<br>Piercing Thunderbolt: SPD increased by <color style='color:#f29e38;'>50</color>. After every action, will unleash an extra instance of <color style='color:#f29e38;'>Yunlai Swordsmanship</color> on every target that took DMG in this action.<br>Piercing Thunderbolt is unremoveable. If Weakness is broken during this state, disperses this state and lose <color style='color:#f29e38;'>13% Max HP</color>."
+        },
+        "SP": 10.0,
+        "Elem": "Elec",
+        "DMG": [
+            3.0
+        ]
+    },
+    "104204": {
+        "Name": {
+            "CH": "抵天雷罚",
+            "EN": "Thundering Penance"
+        },
+        "Desc": {
+            "CH": "召唤2枚<color style='color:#f29e38;'>【雷楔】</color>，并进入蓄力状态，2回合后释放<color style='color:#f29e38;'>【天街巡游】</color>。<br>",
+            "EN": "Summons 2 <color style='color:#f29e38;'>Lightning Stilettos</color>, and enters the Charge state. After 2 turns, casts <color style='color:#f29e38;'>Starward Sword</color>."
+        },
+        "Elem": "Elec",
+        "DMG": [
+            3.0
+        ]
+    },
+    "104205": {
+        "Name": {
+            "CH": "星斗归位",
+            "EN": "Stellar Restoration"
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成<1>雷元素伤害，并召唤2枚<color style='color:#f29e38;'>【雷楔】</color>。<br>【雷楔】受到攻击时，刻晴会立即行动，对攻击者释放一次<color style='color:#f29e38;'>【雷暴连斩】</color>。",
+            "EN": "Deals <1> Thunder DMG to a single target, and summons 2 <color style='color:#f29e38;'>Lightning Stilettos</color>.<br>When Lightning Stilettos are hit, Keqing acts immediately and casts <color style='color:#f29e38;'>Thundering Stiletto</color> on the attacker."
+        },
+        "SP": 15.0,
+        "Elem": "Elec",
+        "DMG": [
+            3.0
+        ]
+    },
+    "104206": {
+        "Name": {
+            "CH": "天街巡游",
+            "EN": "Starward Sword"
+        },
+        "Desc": {
+            "CH": "对我方全体造成<1>雷元素伤害，并清除所有【雷楔】。每清除1枚【雷楔】，额外对我方随机单体释放一次<color style='color:#f29e38;'>【雷暴连斩】</color>。<br>若释放时场上没有雷楔，在释放结束后会流失<color style='color:#f29e38;'>13%生命值上限</color>。",
+            "EN": "Deals <1> Thunder DMG to a all targets and destroys all Lightning Stilettos on the field. For every Lightning Stiletto destroyed, casts an extra instance of <color style='color:#f29e38;'>Thundering Stiletto</color> on a random target.<br>If there are no Lightning Stilettos on the field, will lose <color style='color:#f29e38;'>13% Max HP</color> after casting this skill."
+        },
+        "Elem": "Elec",
+        "DMG": [
+            5.0
+        ]
+    },
+    "104207": {
+        "Name": {
+            "CH": "登楼",
+            "EN": "Foreseen Reformation"
+        },
+        "Desc": {
+            "CH": "每释放1次<color style='color:#f29e38;'>【云来剑法】</color>或<color style='color:#f29e38;'>【雷暴连斩】</color>，造成的伤害提升<color style='color:#f29e38;'>2%</color>。至多叠加99层，不可解除。",
+            "EN": "Every time <color style='color:#f29e38;'>Yunlai Swordsmanship</color> or <color style='color:#f29e38;'>Thundering Stiletto</color> is used, DMG dealt is increased by <color style='color:#f29e38;'>2%</color>. Max 99 stacks. Unremoveable."
+        },
+        "Elem": "Elec"
+    },
+    "104208": {
+        "Name": {
+            "CH": "调律",
+            "EN": "Attunement"
+        },
+        "Desc": {
+            "CH": "",
+            "EN": "."
+        },
+        "Elem": "Elec"
+    },
+    "104209": {
+        "Name": {
+            "CH": "移灯",
+            "EN": "Beckoning Stars"
+        },
+        "Desc": {
+            "CH": "",
+            "EN": ""
+        },
+        "Elem": "Elec"
+    },
+    "104210": {
+        "Name": {
+            "CH": "廉贞",
+            "EN": "Tenacious Star"
+        },
+        "Desc": {
+            "CH": "第三阶段的生命值上限改为原本的<color style='color:#f29e38;'>1.66</color>倍，韧性改为原本的<color style='color:#f29e38;'>1.33</color>倍。",
+            "EN": "Phase 3's Max HP changed to <color style='color:#f29e38;'>1.66</color> times the original, Toughness changed to <color style='color:#f29e38;'>1.33</color> times the original."
+        },
+        "Elem": "Elec"
     }
 }

@@ -29,7 +29,7 @@ $(function () {
     var cm = {}
     var skill_phase = 0
 
-    if ($('#MONSTER').val() && _monsterindex[$('#MONSTER').val()]) popMons(_monsterindex[$('#MONSTER').val()])
+    if ($('#MONSTER').val() && (_monsterindex[$('#MONSTER').val()] != undefined)) popMons(_monsterindex[$('#MONSTER').val()])
 
     $('container').render({
         template: {
@@ -169,15 +169,30 @@ $(function () {
                                                 return;
                                             }
                                             $(d.sender).addClass('active').siblings('schedule').removeClass('active');
-                                            poptyp = parseInt($(d.sender).attr('data-id')) - 1
-                                            if (!poptyp) {
+                                            poptyp = parseInt($(d.sender).attr('data-id'))
+                                            if (poptyp == 1) {
                                                 renderBasic(me)
-                                            } else if (poptyp == 1) {
+                                            } else if (poptyp == 2) {
+                                                renderCsxylic(me.Csxylic)
+                                            } else if (poptyp == 3) {
                                                 renderSkill(me)
-                                            } else {
+                                            } else if (poptyp == 4) {
                                                 renderDMG()
+                                            } else {
+                                                renderStatus(me.Status)
                                             }
                                         }
+                                    },
+                                    when: function () {
+                                        if (i == 1) {
+                                            if (me.Csxylic && lang == "CH") return true
+                                            return false
+                                        }
+                                        if (i == 4) {
+                                            if (me.Status && me.Status.length) return true
+                                            return false
+                                        }
+                                        return true
                                     }
                                 })
                             })
@@ -454,6 +469,12 @@ $(function () {
 
     function renderSkillPhase(cur_mon, i) {
         $('.mon_body_').empty()
+        if (IS_DMG) {
+            $('.mon_body_').render({
+                p: txt.MonLV[lang] + LV + '&nbsp;&nbsp;&nbsp;&nbsp;' + txt.AvatarDEF[lang] + DEF,
+                class: 'dmg_show'
+            })
+        }
         var sk = cur_mon.Skills[i].Skills
         sk.forEach(function (skid) {
             var skill = _monsterskill[skid]
@@ -461,7 +482,7 @@ $(function () {
                 template: {
                     div: [
                         {
-                            div: skill.Name[lang] + (skill.SP ? "<span style='font-size:14px;color:#fff;font-weight:normal;margin-left:10px;margin-right:5px;float:right;'>" + skill.SP.toFixed(0) + "SP</span>" : ''),
+                            div: skill.Name[lang] + (skill.SP ? "<span style='font-size:14px;color:#fff;font-weight:normal;margin-left:10px;margin-right:5px;float:right;'>" + txt.HitSP[lang] + skill.SP.toFixed(0) + "</span>" : ''),
                             class: 'a_section_head'
                         },
                         {
@@ -658,7 +679,25 @@ $(function () {
                             td: props.Stance[lang]
                         },
                         {
-                            td: _stance.toFixed(0),
+                            td: [
+                                _stance.toFixed(0), 
+                                {
+                                    span: {
+                                        img: function (k) {
+                                            return 'images/Element/' + k.data + '.png'
+                                        },
+                                        class: 'elem',
+                                        style: {
+                                            'vertical-align': 'middle'
+                                        },
+                                        data: cur_mon.Weak
+                                    },
+                                    style: {
+                                        'margin-left': '8px',
+                                        'white-space': 'pre'
+                                    }
+                                }
+                            ],
                             class: 'stat_'
                         }
                     ]
@@ -778,5 +817,53 @@ $(function () {
     $('body').on('click', '.monster_card', function () {
         popMons(parseInt($(this).attr('data-id')) - 1)
     })
+
+    function renderCsxylic(L) {
+        $('.mon_body').empty()
+        L.forEach(function (t, i) {
+            $('.mon_body').render({
+                template: {
+                    img: 'images/Csxylic/' + t + '.png',
+                    width: '100%'
+                }
+            })
+        })
+    }
+
+    function renderStatus(L) {
+        $('.mon_body').empty()
+        L.forEach(function (skid) {
+            var status = _status[skid]
+            var typedesc = "<span style='font-size:14px;color:#fff;font-weight:bold;margin-left:10px;margin-right:5px;float:right;'>" + (status.Type ? ((status.Type == "Buff") ? txt.StatusType.Buff[lang] : txt.StatusType.Debuff[lang]) : txt.StatusType.Other[lang]) + "</span>"
+            $('.mon_body').render({
+                template: {
+                    div: [
+                        {
+                            div: status.Name[lang] + typedesc,
+                            class: 'a_section_head'
+                        },
+                        {
+                            div: [
+                                {
+                                    span: txt.CanNotDispel[lang] + '<br>',
+                                    when: function () {
+                                        return status.CanNotDispel
+                                    },
+                                    style: {
+                                        color: '#ffc870',
+                                    }
+                                },
+                                {
+                                    span: status.Desc[lang]
+                                }
+                            ],
+                            class: 'a_section_content'
+                        }
+                    ],
+                    class: 'a_section_small'
+                }
+            })
+        })
+    }
 
 })

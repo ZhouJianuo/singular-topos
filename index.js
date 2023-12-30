@@ -7,15 +7,19 @@ app.set('view engine', 'pug');
 app.set('views', path.join(__dirname, 'views'));
 
 app.get('/', (req, res) => {
-    res.render('home', {
-        title: '玉衡杯数据库',
-    });
+    let result = {};
+    let { game='' } = req.query;
+    result.game = game;
+    result.title = '玉衡杯数据库'
+    res.render('home', result);
 });
 
 app.get('/en', (req, res) => {
-    res.render('home_en', {
-        title: 'HomDGCat Database',
-    });
+    let result = {};
+    let { game='' } = req.query;
+    result.game = game;
+    result.title = 'HomDGCat Database'
+    res.render('home_en', result);
 });
 
 app.get('/mons', async (req, res) => {

@@ -22,7 +22,7 @@ popdialog {
 }
 
 .mon_head schedule {
-    width: calc((100% - 120px) / 3);
+    width: calc((100% - 160px) / 4);
     font-size: 14px;
 }
 
@@ -79,7 +79,13 @@ popdialog {
     height: 48px;
     display: flex;
     flex-wrap: wrap;
-    overflow: hidden;
+    overflow-y: hidden;
+    overflow-x: scroll;
+}
+
+.monster_card::-webkit-scrollbar {
+    height: 0px;
+    width: 0px;
 }
 
 .monright {
@@ -113,12 +119,21 @@ popdialog {
     margin-right: 15px;
 }
 
+.dmg_show {
+    margin: 5px;
+    font-size: 15px;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+}
+
 .a_section_content {
     font-size: 15px;
     margin-left: 15px;
     margin-right: 15px;
     line-height: 30px;
     overflow-x: scroll;
+    width: calc(100% - 30px);
 }
 
 .a_section_content span {
@@ -300,6 +315,7 @@ input[type=number] {
     .a_section_content { font-size: 16px; }
     .a_section_content span { font-size: 16px; }
     .a_section_content input, select { font-size: 16px; }
+    .dmg_show { font-size: 16px; }
     .a_section_head input, select { font-size: 16px; }
     .a_section_head, .a_section_head span { font-size: 19px; }
     .content schedule {
@@ -348,6 +364,7 @@ input[type=number] {
     .a_section_content { font-size: 17px; }
     .a_section_content span { font-size: 17px; }
     .a_section_content input, select { font-size: 17px; }
+    .dmg_show { font-size: 17px; }
     .a_section_head input, select { font-size: 17px; }
     .a_section_head, .a_section_head span { font-size: 20px; }
     .monicon {

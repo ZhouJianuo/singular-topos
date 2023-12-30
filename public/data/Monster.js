@@ -2,6 +2,78 @@
 
 var _monster = [
     {
+        "_id": 1000042,
+        "Key": "",
+        "Name": {
+            "CH": "霆霓快雨 · 刻晴（完整）",
+            "EN": "Driving Thunder: Keqing (Complete)"
+        },
+        "Desc": {
+            "CH": "代码受到影响后的完整投影。参照本体为璃月七星之一的玉衡星，对「帝君一言而决的璃月」颇有微词。<br>霆霓快雨 · 刻晴（完整）会在战斗中隐入剑影，进行如同迅雷霆霓般疾速的连斩，传说可将诸星斩落。",
+            "EN": "A complete projection produced by compromised codes. The referenced entity is the Yuheng of the Liyue Qixing, who has much to say about Rex Lapis's unilateral approach to policymaking in Liyue.<br>In battle, Driving Thunder: Keqing (Complete) will blend into the shadows of her blade, striking a series of thunderclap-blows that are rumoured to have brought stars shattering down."
+        },
+        "Stats": {
+            "HP": 13.103,
+            "ATK": 18,
+            "DEF": 1.0,
+            "SPD": 196,
+            "Stance": 27
+        },
+        "Weak": [
+            "Wind",
+            "Ice",
+            "Quantum"
+        ],
+        "RESBase": {},
+        "StatusRESBase": 0.4,
+        "DebuffRES": {
+            "Frozen": 1.0,
+            "CTRL": 1.0,
+            "Entangle": 1.0,
+            "Confine": 1.0,
+            "Burn": 1.0,
+            "Shock": 1.0,
+            "Wind": 1.0
+        },
+        "HPCount": 3,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    104201,
+                    104202,
+                    104203,
+                    104207
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    104201,
+                    104202,
+                    104203,
+                    104205,
+                    104207
+                ]
+            },
+            {
+                "Phase": 3,
+                "Skills": [
+                    104201,
+                    104202,
+                    104205,
+                    104204,
+                    104206,
+                    104207,
+                    104210
+                ]
+            }
+        ],
+        "Camp": 7,
+        "Icon": "MonsterIcon/keq.png",
+        "New": true
+    },
+    {
         "_id": 1002011,
         "Key": "Monster_W1_CocoliaP1_01_Config",
         "Name": {
@@ -617,7 +689,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png"
+        "Icon": "MonsterIcon/Monster_1002020.png",
+        "Status": [
+            210020201
+        ]
     },
     {
         "_id": 100202001,
@@ -659,7 +734,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png"
+        "Icon": "MonsterIcon/Monster_1002020.png",
+        "Status": [
+            210020201
+        ]
     },
     {
         "_id": 100202002,
@@ -701,7 +779,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png"
+        "Icon": "MonsterIcon/Monster_1002020.png",
+        "Status": [
+            210020201
+        ]
     },
     {
         "_id": 100202003,
@@ -744,7 +825,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png"
+        "Icon": "MonsterIcon/Monster_1002020.png",
+        "Status": [
+            210020201
+        ]
     },
     {
         "_id": 100202004,
@@ -786,7 +870,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png"
+        "Icon": "MonsterIcon/Monster_1002020.png",
+        "Status": [
+            210020201
+        ]
     },
     {
         "_id": 100202005,
@@ -831,7 +918,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png"
+        "Icon": "MonsterIcon/Monster_1002020.png",
+        "Status": [
+            210020201
+        ]
     },
     {
         "_id": 100202006,
@@ -873,7 +963,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png"
+        "Icon": "MonsterIcon/Monster_1002020.png",
+        "Status": [
+            210020201
+        ]
     },
     {
         "_id": 100202007,
@@ -915,7 +1008,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png"
+        "Icon": "MonsterIcon/Monster_1002020.png",
+        "Status": [
+            210020201
+        ]
     },
     {
         "_id": 100202008,
@@ -957,7 +1053,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png"
+        "Icon": "MonsterIcon/Monster_1002020.png",
+        "Status": [
+            210020201
+        ]
     },
     {
         "_id": 100202009,
@@ -999,7 +1098,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png"
+        "Icon": "MonsterIcon/Monster_1002020.png",
+        "Status": [
+            210020201
+        ]
     },
     {
         "_id": 100202010,
@@ -1044,7 +1146,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png"
+        "Icon": "MonsterIcon/Monster_1002020.png",
+        "Status": [
+            210020201
+        ]
     },
     {
         "_id": 100202011,
@@ -1086,7 +1191,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png"
+        "Icon": "MonsterIcon/Monster_1002020.png",
+        "Status": [
+            210020201
+        ]
     },
     {
         "_id": 100202012,
@@ -1128,7 +1236,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png"
+        "Icon": "MonsterIcon/Monster_1002020.png",
+        "Status": [
+            210020201
+        ]
     },
     {
         "_id": 100202013,
@@ -1170,7 +1281,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png"
+        "Icon": "MonsterIcon/Monster_1002020.png",
+        "Status": [
+            210020201
+        ]
     },
     {
         "_id": 100202014,
@@ -1215,7 +1329,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png"
+        "Icon": "MonsterIcon/Monster_1002020.png",
+        "Status": [
+            210020201
+        ]
     },
     {
         "_id": 100202015,
@@ -1257,7 +1374,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png"
+        "Icon": "MonsterIcon/Monster_1002020.png",
+        "Status": [
+            210020201
+        ]
     },
     {
         "_id": 100202016,
@@ -1299,7 +1419,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png"
+        "Icon": "MonsterIcon/Monster_1002020.png",
+        "Status": [
+            210020201
+        ]
     },
     {
         "_id": 100202101,
@@ -1343,7 +1466,7 @@ var _monster = [
                 ]
             }
         ],
-        "Camp": 1,
+        "Camp": 0,
         "Icon": "MonsterIcon/Monster_1002020.png"
     },
     {
@@ -1392,7 +1515,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002030.png"
+        "Icon": "MonsterIcon/Monster_1002030.png",
+        "Status": [
+            210020301,
+            210020302
+        ]
     },
     {
         "_id": 100203001,
@@ -1440,7 +1567,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002030.png"
+        "Icon": "MonsterIcon/Monster_1002030.png",
+        "Status": [
+            210020301,
+            210020302
+        ]
     },
     {
         "_id": 100203002,
@@ -1488,7 +1619,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002030.png"
+        "Icon": "MonsterIcon/Monster_1002030.png",
+        "Status": [
+            210020301,
+            210020302
+        ]
     },
     {
         "_id": 100203003,
@@ -1536,7 +1671,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002030.png"
+        "Icon": "MonsterIcon/Monster_1002030.png",
+        "Status": [
+            210020301,
+            210020302
+        ]
     },
     {
         "_id": 100203004,
@@ -1587,7 +1726,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002030.png"
+        "Icon": "MonsterIcon/Monster_1002030.png",
+        "Status": [
+            210020301,
+            210020302
+        ]
     },
     {
         "_id": 100203005,
@@ -1635,7 +1778,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002030.png"
+        "Icon": "MonsterIcon/Monster_1002030.png",
+        "Status": [
+            210020301,
+            210020302
+        ]
     },
     {
         "_id": 100203006,
@@ -1683,7 +1830,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002030.png"
+        "Icon": "MonsterIcon/Monster_1002030.png",
+        "Status": [
+            210020301,
+            210020302
+        ]
     },
     {
         "_id": 100203007,
@@ -1734,7 +1885,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002030.png"
+        "Icon": "MonsterIcon/Monster_1002030.png",
+        "Status": [
+            210020301,
+            210020302
+        ]
     },
     {
         "_id": 100203008,
@@ -1782,7 +1937,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002030.png"
+        "Icon": "MonsterIcon/Monster_1002030.png",
+        "Status": [
+            210020301,
+            210020302
+        ]
     },
     {
         "_id": 100203009,
@@ -1833,7 +1992,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002030.png"
+        "Icon": "MonsterIcon/Monster_1002030.png",
+        "Status": [
+            210020301,
+            210020302
+        ]
     },
     {
         "_id": 100203010,
@@ -1884,7 +2047,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002030.png"
+        "Icon": "MonsterIcon/Monster_1002030.png",
+        "Status": [
+            210020301,
+            210020302
+        ]
     },
     {
         "_id": 100203011,
@@ -1935,7 +2102,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002030.png"
+        "Icon": "MonsterIcon/Monster_1002030.png",
+        "Status": [
+            210020301,
+            210020302
+        ]
     },
     {
         "_id": 100203012,
@@ -1983,7 +2154,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002030.png"
+        "Icon": "MonsterIcon/Monster_1002030.png",
+        "Status": [
+            210020301,
+            210020302
+        ]
     },
     {
         "_id": 1002040,
@@ -2024,7 +2199,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png"
+        "Icon": "MonsterIcon/Monster_1001010.png",
+        "Status": [
+            210010101
+        ]
     },
     {
         "_id": 100204001,
@@ -2068,7 +2246,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png"
+        "Icon": "MonsterIcon/Monster_1001010.png",
+        "Status": [
+            210010101
+        ]
     },
     {
         "_id": 100204002,
@@ -2109,7 +2290,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png"
+        "Icon": "MonsterIcon/Monster_1001010.png",
+        "Status": [
+            210010101
+        ]
     },
     {
         "_id": 100204003,
@@ -2150,7 +2334,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png"
+        "Icon": "MonsterIcon/Monster_1001010.png",
+        "Status": [
+            210010101
+        ]
     },
     {
         "_id": 100204004,
@@ -2191,7 +2378,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png"
+        "Icon": "MonsterIcon/Monster_1001010.png",
+        "Status": [
+            210010101
+        ]
     },
     {
         "_id": 100204005,
@@ -2232,7 +2422,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png"
+        "Icon": "MonsterIcon/Monster_1001010.png",
+        "Status": [
+            210010101
+        ]
     },
     {
         "_id": 100204006,
@@ -2273,7 +2466,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png"
+        "Icon": "MonsterIcon/Monster_1001010.png",
+        "Status": [
+            210010101
+        ]
     },
     {
         "_id": 100204007,
@@ -2315,7 +2511,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png"
+        "Icon": "MonsterIcon/Monster_1001010.png",
+        "Status": [
+            210010101
+        ]
     },
     {
         "_id": 100204008,
@@ -2350,7 +2549,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png"
+        "Icon": "MonsterIcon/Monster_1001010.png",
+        "Status": [
+            210010101
+        ]
     },
     {
         "_id": 100204009,
@@ -2388,7 +2590,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png"
+        "Icon": "MonsterIcon/Monster_1001010.png",
+        "Status": [
+            210010101
+        ]
     },
     {
         "_id": 100204010,
@@ -2426,7 +2631,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png"
+        "Icon": "MonsterIcon/Monster_1001010.png",
+        "Status": [
+            210010101
+        ]
     },
     {
         "_id": 100204011,
@@ -2461,7 +2669,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png"
+        "Icon": "MonsterIcon/Monster_1001010.png",
+        "Status": [
+            210010101
+        ]
     },
     {
         "_id": 100204012,
@@ -2505,7 +2716,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png"
+        "Icon": "MonsterIcon/Monster_1001010.png",
+        "Status": [
+            210010101
+        ]
     },
     {
         "_id": 100204013,
@@ -2546,7 +2760,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png"
+        "Icon": "MonsterIcon/Monster_1001010.png",
+        "Status": [
+            210010101
+        ]
     },
     {
         "_id": 100204014,
@@ -2587,7 +2804,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png"
+        "Icon": "MonsterIcon/Monster_1001010.png",
+        "Status": [
+            210010101
+        ]
     },
     {
         "_id": 100204015,
@@ -2631,7 +2851,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png"
+        "Icon": "MonsterIcon/Monster_1001010.png",
+        "Status": [
+            210010101
+        ]
     },
     {
         "_id": 100204016,
@@ -2666,7 +2889,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png"
+        "Icon": "MonsterIcon/Monster_1001010.png",
+        "Status": [
+            210010101
+        ]
     },
     {
         "_id": 100204017,
@@ -2701,7 +2927,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png"
+        "Icon": "MonsterIcon/Monster_1001010.png",
+        "Status": [
+            210010101
+        ]
     },
     {
         "_id": 100204018,
@@ -2742,7 +2971,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png"
+        "Icon": "MonsterIcon/Monster_1001010.png",
+        "Status": [
+            210010101
+        ]
     },
     {
         "_id": 100204019,
@@ -2786,7 +3018,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png"
+        "Icon": "MonsterIcon/Monster_1001010.png",
+        "Status": [
+            210010101
+        ]
     },
     {
         "_id": 100204020,
@@ -2830,7 +3065,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png"
+        "Icon": "MonsterIcon/Monster_1001010.png",
+        "Status": [
+            210010101
+        ]
     },
     {
         "_id": 100204021,
@@ -2865,7 +3103,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png"
+        "Icon": "MonsterIcon/Monster_1001010.png",
+        "Status": [
+            210010101
+        ]
     },
     {
         "_id": 100204022,
@@ -2903,7 +3144,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png"
+        "Icon": "MonsterIcon/Monster_1001010.png",
+        "Status": [
+            210010101
+        ]
     },
     {
         "_id": 100204023,
@@ -2944,7 +3188,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png"
+        "Icon": "MonsterIcon/Monster_1001010.png",
+        "Status": [
+            210010101
+        ]
     },
     {
         "_id": 1002041,
@@ -2985,7 +3232,10 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1001010.png"
+        "Icon": "MonsterIcon/Monster_1001010.png",
+        "Status": [
+            210010101
+        ]
     },
     {
         "_id": 100204101,
@@ -3026,7 +3276,10 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1001010.png"
+        "Icon": "MonsterIcon/Monster_1001010.png",
+        "Status": [
+            210010101
+        ]
     },
     {
         "_id": 1002050,
@@ -3067,7 +3320,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png"
+        "Icon": "MonsterIcon/Monster_1001020.png",
+        "Status": [
+            30020005
+        ]
     },
     {
         "_id": 100205001,
@@ -3108,7 +3364,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png"
+        "Icon": "MonsterIcon/Monster_1001020.png",
+        "Status": [
+            30020005
+        ]
     },
     {
         "_id": 100205002,
@@ -3149,7 +3408,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png"
+        "Icon": "MonsterIcon/Monster_1001020.png",
+        "Status": [
+            30020005
+        ]
     },
     {
         "_id": 100205003,
@@ -3190,7 +3452,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png"
+        "Icon": "MonsterIcon/Monster_1001020.png",
+        "Status": [
+            30020005
+        ]
     },
     {
         "_id": 100205004,
@@ -3231,7 +3496,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png"
+        "Icon": "MonsterIcon/Monster_1001020.png",
+        "Status": [
+            30020005
+        ]
     },
     {
         "_id": 100205005,
@@ -3272,7 +3540,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png"
+        "Icon": "MonsterIcon/Monster_1001020.png",
+        "Status": [
+            30020005
+        ]
     },
     {
         "_id": 100205006,
@@ -3314,7 +3585,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png"
+        "Icon": "MonsterIcon/Monster_1001020.png",
+        "Status": [
+            30020005
+        ]
     },
     {
         "_id": 100205007,
@@ -3349,7 +3623,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png"
+        "Icon": "MonsterIcon/Monster_1001020.png",
+        "Status": [
+            30020005
+        ]
     },
     {
         "_id": 100205008,
@@ -3384,7 +3661,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png"
+        "Icon": "MonsterIcon/Monster_1001020.png",
+        "Status": [
+            30020005
+        ]
     },
     {
         "_id": 100205009,
@@ -3428,7 +3708,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png"
+        "Icon": "MonsterIcon/Monster_1001020.png",
+        "Status": [
+            30020005
+        ]
     },
     {
         "_id": 100205010,
@@ -3469,7 +3752,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png"
+        "Icon": "MonsterIcon/Monster_1001020.png",
+        "Status": [
+            30020005
+        ]
     },
     {
         "_id": 100205011,
@@ -3510,7 +3796,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png"
+        "Icon": "MonsterIcon/Monster_1001020.png",
+        "Status": [
+            30020005
+        ]
     },
     {
         "_id": 100205012,
@@ -3554,7 +3843,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png"
+        "Icon": "MonsterIcon/Monster_1001020.png",
+        "Status": [
+            30020005
+        ]
     },
     {
         "_id": 100205013,
@@ -3598,7 +3890,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png"
+        "Icon": "MonsterIcon/Monster_1001020.png",
+        "Status": [
+            30020005
+        ]
     },
     {
         "_id": 100205014,
@@ -3639,7 +3934,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png"
+        "Icon": "MonsterIcon/Monster_1001020.png",
+        "Status": [
+            30020005
+        ]
     },
     {
         "_id": 100205015,
@@ -3683,7 +3981,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png"
+        "Icon": "MonsterIcon/Monster_1001020.png",
+        "Status": [
+            30020005
+        ]
     },
     {
         "_id": 100205016,
@@ -3727,7 +4028,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png"
+        "Icon": "MonsterIcon/Monster_1001020.png",
+        "Status": [
+            30020005
+        ]
     },
     {
         "_id": 100205017,
@@ -3768,7 +4072,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png"
+        "Icon": "MonsterIcon/Monster_1001020.png",
+        "Status": [
+            30020005
+        ]
     },
     {
         "_id": 100205018,
@@ -3809,7 +4116,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png"
+        "Icon": "MonsterIcon/Monster_1001020.png",
+        "Status": [
+            30020005
+        ]
     },
     {
         "_id": 1003010,
@@ -3853,7 +4163,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png"
+        "Icon": "MonsterIcon/Monster_1003010.png",
+        "Status": [
+            210030102
+        ]
     },
     {
         "_id": 100301001,
@@ -3897,7 +4210,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png"
+        "Icon": "MonsterIcon/Monster_1003010.png",
+        "Status": [
+            210030102
+        ]
     },
     {
         "_id": 100301002,
@@ -3941,7 +4257,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png"
+        "Icon": "MonsterIcon/Monster_1003010.png",
+        "Status": [
+            210030102
+        ]
     },
     {
         "_id": 100301003,
@@ -3985,7 +4304,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png"
+        "Icon": "MonsterIcon/Monster_1003010.png",
+        "Status": [
+            210030102
+        ]
     },
     {
         "_id": 100301004,
@@ -4032,7 +4354,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png"
+        "Icon": "MonsterIcon/Monster_1003010.png",
+        "Status": [
+            210030102
+        ]
     },
     {
         "_id": 100301005,
@@ -4080,7 +4405,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png"
+        "Icon": "MonsterIcon/Monster_1003010.png",
+        "Status": [
+            210030102
+        ]
     },
     {
         "_id": 100301006,
@@ -4127,7 +4455,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png"
+        "Icon": "MonsterIcon/Monster_1003010.png",
+        "Status": [
+            210030102
+        ]
     },
     {
         "_id": 100301007,
@@ -4171,7 +4502,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png"
+        "Icon": "MonsterIcon/Monster_1003010.png",
+        "Status": [
+            210030102
+        ]
     },
     {
         "_id": 100301008,
@@ -4215,7 +4549,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png"
+        "Icon": "MonsterIcon/Monster_1003010.png",
+        "Status": [
+            210030102
+        ]
     },
     {
         "_id": 100301009,
@@ -4263,7 +4600,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png"
+        "Icon": "MonsterIcon/Monster_1003010.png",
+        "Status": [
+            210030102
+        ]
     },
     {
         "_id": 100301010,
@@ -4310,7 +4650,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png"
+        "Icon": "MonsterIcon/Monster_1003010.png",
+        "Status": [
+            210030102
+        ]
     },
     {
         "_id": 100301011,
@@ -4357,7 +4700,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png"
+        "Icon": "MonsterIcon/Monster_1003010.png",
+        "Status": [
+            210030102
+        ]
     },
     {
         "_id": 100301012,
@@ -4404,7 +4750,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png"
+        "Icon": "MonsterIcon/Monster_1003010.png",
+        "Status": [
+            210030102
+        ]
     },
     {
         "_id": 100301013,
@@ -4451,7 +4800,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png"
+        "Icon": "MonsterIcon/Monster_1003010.png",
+        "Status": [
+            210030102
+        ]
     },
     {
         "_id": 100301014,
@@ -4499,7 +4851,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png"
+        "Icon": "MonsterIcon/Monster_1003010.png",
+        "Status": [
+            210030102
+        ]
     },
     {
         "_id": 100301015,
@@ -4546,7 +4901,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png"
+        "Icon": "MonsterIcon/Monster_1003010.png",
+        "Status": [
+            210030102
+        ]
     },
     {
         "_id": 100301016,
@@ -4590,7 +4948,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png"
+        "Icon": "MonsterIcon/Monster_1003010.png",
+        "Status": [
+            210030102
+        ]
     },
     {
         "_id": 100301017,
@@ -4634,7 +4995,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png"
+        "Icon": "MonsterIcon/Monster_1003010.png",
+        "Status": [
+            210030102
+        ]
     },
     {
         "_id": 100301018,
@@ -4681,7 +5045,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png"
+        "Icon": "MonsterIcon/Monster_1003010.png",
+        "Status": [
+            210030102
+        ]
     },
     {
         "_id": 1003011,
@@ -4726,7 +5093,11 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1003010.png"
+        "Icon": "MonsterIcon/Monster_1003010.png",
+        "Status": [
+            210020201,
+            210030102
+        ]
     },
     {
         "_id": 1003012,
@@ -4824,7 +5195,10 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1003010.png"
+        "Icon": "MonsterIcon/Monster_1003010.png",
+        "Status": [
+            210030102
+        ]
     },
     {
         "_id": 1004010,
@@ -4879,7 +5253,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1004010.png"
+        "Icon": "MonsterIcon/Monster_1004010.png",
+        "Status": [
+            30020012,
+            210040114
+        ]
     },
     {
         "_id": 100401001,
@@ -4937,7 +5315,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1004010.png"
+        "Icon": "MonsterIcon/Monster_1004010.png",
+        "Status": [
+            30020012,
+            210040114
+        ]
     },
     {
         "_id": 100401002,
@@ -4995,7 +5377,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1004010.png"
+        "Icon": "MonsterIcon/Monster_1004010.png",
+        "Status": [
+            30020012,
+            210040114
+        ]
     },
     {
         "_id": 100401003,
@@ -5050,7 +5436,73 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1004010.png"
+        "Icon": "MonsterIcon/Monster_1004010.png",
+        "Status": [
+            30020012,
+            210040114
+        ]
+    },
+    {
+        "_id": 100401004,
+        "Key": "Monster_W1_CocoliaP1_00_Config",
+        "Name": {
+            "CH": "可可利亚",
+            "EN": "Cocolia"
+        },
+        "Desc": {
+            "CH": "贝洛伯格的守护者，永屹之城贝洛伯格无可质疑的统治者。<br>可可利亚秉持传承自历代守护者的神迹权能，在战斗中号令冰雪的力量冻结敌人。",
+            "EN": "The Guardian of Belobog, and the indisputable ruler of the Towering Citadel, Belobog.<br>Cocolia possesses the divine authority passed down through the generations of Guardians, giving her command over ice and snow to freeze her enemies in battle."
+        },
+        "Stats": {
+            "HP": 20.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 12.0
+        },
+        "StatsExtra": {
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.4,
+            "Ice": 0.6,
+            "Wind": 0.4,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.5,
+            "Frozen": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100401001,
+                    100401002,
+                    100401003,
+                    100401004,
+                    100401005
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    100401006
+                ]
+            }
+        ],
+        "Camp": 1,
+        "Icon": "MonsterIcon/Monster_1004010.png",
+        "Status": [
+            30020012,
+            210040114
+        ]
     },
     {
         "_id": 1004011,
@@ -5123,7 +5575,12 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1004010.png"
+        "Icon": "MonsterIcon/Monster_1004010.png",
+        "Status": [
+            30020012,
+            210040111,
+            210040114
+        ]
     },
     {
         "_id": 1004012,
@@ -5196,7 +5653,12 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1004010.png"
+        "Icon": "MonsterIcon/Monster_1004010.png",
+        "Status": [
+            30020012,
+            210040111,
+            210040114
+        ]
     },
     {
         "_id": 1004013,
@@ -5267,8 +5729,7 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1004010.png",
-        "New": true
+        "Icon": "MonsterIcon/Monster_1004010.png"
     },
     {
         "_id": 1004020,
@@ -5316,7 +5777,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003020.png"
+        "Icon": "MonsterIcon/Monster_1003020.png",
+        "Status": [
+            210030201,
+            210030204
+        ]
     },
     {
         "_id": 100402001,
@@ -5367,7 +5832,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003020.png"
+        "Icon": "MonsterIcon/Monster_1003020.png",
+        "Status": [
+            210030201,
+            210030204
+        ]
     },
     {
         "_id": 100402002,
@@ -5418,7 +5887,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003020.png"
+        "Icon": "MonsterIcon/Monster_1003020.png",
+        "Status": [
+            210030201,
+            210030204
+        ]
     },
     {
         "_id": 100402003,
@@ -5476,7 +5949,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003020.png"
+        "Icon": "MonsterIcon/Monster_1003020.png",
+        "Status": [
+            210030201,
+            210030204
+        ]
     },
     {
         "_id": 100402004,
@@ -5524,7 +6001,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003020.png"
+        "Icon": "MonsterIcon/Monster_1003020.png",
+        "Status": [
+            210030201,
+            210030204
+        ]
     },
     {
         "_id": 100402005,
@@ -5538,11 +6019,14 @@ var _monster = [
             "EN": "Captain of the Silvermane Guards.<br>Gepard can command his soldiers to focus their attacks, and provide each of them with a barrier that blocks one attack."
         },
         "Stats": {
-            "HP": 7.2,
+            "HP": 17.0,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 120.0,
             "Stance": 10.0
+        },
+        "StatsExtra": {
+            "Stance": 2.0
         },
         "Weak": [
             "Phys",
@@ -5572,7 +6056,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003020.png"
+        "Icon": "MonsterIcon/Monster_1003020.png",
+        "Status": [
+            210030201,
+            210030204
+        ]
     },
     {
         "_id": 1004021,
@@ -5621,7 +6109,11 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1003020.png"
+        "Icon": "MonsterIcon/Monster_1003020.png",
+        "Status": [
+            210030201,
+            210030204
+        ]
     },
     {
         "_id": 1004022,
@@ -5703,7 +6195,14 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1003020.png"
+        "Icon": "MonsterIcon/Monster_1003020.png",
+        "Status": [
+            210030201,
+            210040221,
+            210040222,
+            210040223,
+            210040224
+        ]
     },
     {
         "_id": 1004023,
@@ -5787,7 +6286,14 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1003020.png"
+        "Icon": "MonsterIcon/Monster_1003020.png",
+        "Status": [
+            210030201,
+            210040221,
+            210040222,
+            210040223,
+            210040224
+        ]
     },
     {
         "_id": 1004024,
@@ -5849,8 +6355,7 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1003020.png",
-        "New": true
+        "Icon": "MonsterIcon/Monster_1003020.png"
     },
     {
         "_id": 1004025,
@@ -5925,8 +6430,7 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1003020.png",
-        "New": true
+        "Icon": "MonsterIcon/Monster_1003020.png"
     },
     {
         "_id": 1004030,
@@ -6037,11 +6541,14 @@ var _monster = [
             "EN": "Successor to Belobog's Guardian, and commander of the Silvermane Guards.<br>Bronya can use various tactics to attack her enemies, and greatly enhance the battle prowess of all allies."
         },
         "Stats": {
-            "HP": 12.0,
+            "HP": 17.0,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 120.0,
             "Stance": 7.0
+        },
+        "StatsExtra": {
+            "Stance": 1.0
         },
         "Weak": [
             "Phys",
@@ -6247,8 +6754,7 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1004030.png",
-        "New": true
+        "Icon": "MonsterIcon/Monster_1004030.png"
     },
     {
         "_id": 1005010,
@@ -6312,7 +6818,12 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1005010.png"
+        "Icon": "MonsterIcon/Monster_1005010.png",
+        "Status": [
+            30020013,
+            210050101,
+            210050105
+        ]
     },
     {
         "_id": 1005011,
@@ -6371,7 +6882,12 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1005010.png"
+        "Icon": "MonsterIcon/Monster_1005010.png",
+        "Status": [
+            30020013,
+            210050101,
+            210050105
+        ]
     },
     {
         "_id": 1005012,
@@ -6436,7 +6952,12 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1005010.png"
+        "Icon": "MonsterIcon/Monster_1005010.png",
+        "Status": [
+            30020013,
+            210050101,
+            210050105
+        ]
     },
     {
         "_id": 1005013,
@@ -6497,8 +7018,7 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1005010.png",
-        "New": true
+        "Icon": "MonsterIcon/Monster_1005010.png"
     },
     {
         "_id": 1012010,
@@ -6681,8 +7201,8 @@ var _monster = [
             "EN": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies."
         },
         "Stats": {
-            "HP": 1.2,
-            "ATK": 9.0,
+            "HP": 1.75,
+            "ATK": 12.00006,
             "DEF": 1.0,
             "SPD": 100.0,
             "Stance": 2.0
@@ -8028,6 +8548,55 @@ var _monster = [
         "Icon": "MonsterIcon/Monster_1012020.png"
     },
     {
+        "_id": 101202111,
+        "Key": "Monster_W1_Mecha01_00_Config",
+        "Name": {
+            "CH": "自动机兵 · 蜘蛛",
+            "EN": "Automaton Spider"
+        },
+        "Desc": {
+            "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责替代人类进行最基础的体力劳动。<br>战斗中，自动机兵「蜘蛛」的动力非常不稳定，极易在损毁时发生殉爆事故。",
+            "EN": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor.<br>In combat, Automaton Spiders are highly unstable, capable of exploding when damaged."
+        },
+        "Stats": {
+            "HP": 1.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 83.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    101202102,
+                    101202103,
+                    101202104
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    101202101
+                ]
+            }
+        ],
+        "Camp": 0,
+        "Icon": "MonsterIcon/Monster_1012020.png"
+    },
+    {
         "_id": 1012030,
         "Key": "Monster_W1_Mecha01_01_Config",
         "Name": {
@@ -8661,6 +9230,47 @@ var _monster = [
         "Icon": "MonsterIcon/Monster_1012030.png"
     },
     {
+        "_id": 101203015,
+        "Key": "Monster_W1_Mecha01_01_Config",
+        "Name": {
+            "CH": "自动机兵 · 甲虫",
+            "EN": "Automaton Beetle"
+        },
+        "Desc": {
+            "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责移动的附肢上装置着信号灯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「甲虫」会创造力场护盾保护自己。",
+            "EN": "An automaton pieced together with Old World technology. A signal light is placed on its legs, and the unit may have been used for mining or construction operations.<br>In combat, Automaton Beetles can create forcefields to shield themselves."
+        },
+        "Stats": {
+            "HP": 4.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Elec",
+            "Wind",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    101203001
+                ]
+            }
+        ],
+        "Camp": 1,
+        "Icon": "MonsterIcon/Monster_1012030.png"
+    },
+    {
         "_id": 1012040,
         "Key": "Monster_W1_SvarogPart_00_Config",
         "Name": {
@@ -8713,7 +9323,12 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1004021.png"
+        "Icon": "MonsterIcon/Monster_1004021.png",
+        "Status": [
+            210040204,
+            210120401,
+            210120402
+        ]
     },
     {
         "_id": 1012041,
@@ -8770,7 +9385,12 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1004021.png"
+        "Icon": "MonsterIcon/Monster_1004021.png",
+        "Status": [
+            210040113,
+            210120402,
+            210120411
+        ]
     },
     {
         "_id": 1012042,
@@ -8827,7 +9447,12 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1004021.png"
+        "Icon": "MonsterIcon/Monster_1004021.png",
+        "Status": [
+            210040113,
+            210120402,
+            210120411
+        ]
     },
     {
         "_id": 1013010,
@@ -8878,7 +9503,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png"
+        "Icon": "MonsterIcon/Monster_1013010.png",
+        "Status": [
+            30020010
+        ]
     },
     {
         "_id": 101301001,
@@ -8939,7 +9567,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png"
+        "Icon": "MonsterIcon/Monster_1013010.png",
+        "Status": [
+            30020010
+        ]
     },
     {
         "_id": 101301002,
@@ -8993,7 +9624,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png"
+        "Icon": "MonsterIcon/Monster_1013010.png",
+        "Status": [
+            30020010
+        ]
     },
     {
         "_id": 101301003,
@@ -9044,7 +9678,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png"
+        "Icon": "MonsterIcon/Monster_1013010.png",
+        "Status": [
+            30020010
+        ]
     },
     {
         "_id": 101301004,
@@ -9105,7 +9742,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png"
+        "Icon": "MonsterIcon/Monster_1013010.png",
+        "Status": [
+            30020010
+        ]
     },
     {
         "_id": 101301005,
@@ -9156,7 +9796,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png"
+        "Icon": "MonsterIcon/Monster_1013010.png",
+        "Status": [
+            30020010
+        ]
     },
     {
         "_id": 101301006,
@@ -9207,7 +9850,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png"
+        "Icon": "MonsterIcon/Monster_1013010.png",
+        "Status": [
+            30020010
+        ]
     },
     {
         "_id": 101301007,
@@ -9258,7 +9904,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png"
+        "Icon": "MonsterIcon/Monster_1013010.png",
+        "Status": [
+            30020010
+        ]
     },
     {
         "_id": 101301008,
@@ -9309,7 +9958,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png"
+        "Icon": "MonsterIcon/Monster_1013010.png",
+        "Status": [
+            30020010
+        ]
     },
     {
         "_id": 101301009,
@@ -9363,7 +10015,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png"
+        "Icon": "MonsterIcon/Monster_1013010.png",
+        "Status": [
+            30020010
+        ]
     },
     {
         "_id": 101301010,
@@ -9417,7 +10072,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png"
+        "Icon": "MonsterIcon/Monster_1013010.png",
+        "Status": [
+            30020010
+        ]
     },
     {
         "_id": 101301011,
@@ -9468,7 +10126,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png"
+        "Icon": "MonsterIcon/Monster_1013010.png",
+        "Status": [
+            30020010
+        ]
     },
     {
         "_id": 101301012,
@@ -9519,7 +10180,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png"
+        "Icon": "MonsterIcon/Monster_1013010.png",
+        "Status": [
+            30020010
+        ]
     },
     {
         "_id": 101301013,
@@ -9573,7 +10237,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png"
+        "Icon": "MonsterIcon/Monster_1013010.png",
+        "Status": [
+            30020010
+        ]
     },
     {
         "_id": 101301014,
@@ -9624,7 +10291,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png"
+        "Icon": "MonsterIcon/Monster_1013010.png",
+        "Status": [
+            30020010
+        ]
     },
     {
         "_id": 101301015,
@@ -9678,7 +10348,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png"
+        "Icon": "MonsterIcon/Monster_1013010.png",
+        "Status": [
+            30020010
+        ]
     },
     {
         "_id": 101301016,
@@ -9732,7 +10405,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png"
+        "Icon": "MonsterIcon/Monster_1013010.png",
+        "Status": [
+            30020010
+        ]
     },
     {
         "_id": 101301017,
@@ -9786,7 +10462,10 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png"
+        "Icon": "MonsterIcon/Monster_1013010.png",
+        "Status": [
+            30020010
+        ]
     },
     {
         "_id": 101301018,
@@ -9837,7 +10516,67 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png"
+        "Icon": "MonsterIcon/Monster_1013010.png",
+        "Status": [
+            30020010
+        ]
+    },
+    {
+        "_id": 101301019,
+        "Key": "Monster_W1_Mecha03_00_Config",
+        "Name": {
+            "CH": "自动机兵 · 灰熊",
+            "EN": "Automaton Grizzly"
+        },
+        "Desc": {
+            "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，加装了厚重的铠甲，用于冲锋陷阵保护银鬃铁卫。<br>战斗中，自动机兵「灰熊」会发出信号召来「蜘蛛」合作战斗，同时会积蓄动能发出强力一击。",
+            "EN": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack."
+        },
+        "Stats": {
+            "HP": 15.0,
+            "ATK": 12.00006,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 14.0
+        },
+        "StatsExtra": {
+            "Stance": -4.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Elec"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    101301001,
+                    101301002,
+                    101301003,
+                    101301004,
+                    101301009
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    101301005
+                ]
+            }
+        ],
+        "Camp": 1,
+        "Icon": "MonsterIcon/Monster_1013010.png",
+        "Status": [
+            30020010
+        ]
     },
     {
         "_id": 1013011,
@@ -9888,7 +10627,11 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1013010.png"
+        "Icon": "MonsterIcon/Monster_1013010.png",
+        "Status": [
+            30020010,
+            210130101
+        ]
     },
     {
         "_id": 1013012,
@@ -9966,7 +10709,12 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1013010.png"
+        "Icon": "MonsterIcon/Monster_1013010.png",
+        "Status": [
+            30020010,
+            210130101,
+            210130122
+        ]
     },
     {
         "_id": 1013013,
@@ -10035,7 +10783,12 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1013010.png"
+        "Icon": "MonsterIcon/Monster_1013010.png",
+        "Status": [
+            30020010,
+            210130101,
+            210130122
+        ]
     },
     {
         "_id": 1013014,
@@ -10114,8 +10867,7 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1013010.png",
-        "New": true
+        "Icon": "MonsterIcon/Monster_1013010.png"
     },
     {
         "_id": 1013020,
@@ -10159,7 +10911,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png"
+        "Icon": "MonsterIcon/Monster_1013020.png",
+        "Status": [
+            210130201,
+            210130202
+        ]
     },
     {
         "_id": 101302001,
@@ -10206,7 +10962,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png"
+        "Icon": "MonsterIcon/Monster_1013020.png",
+        "Status": [
+            210130201,
+            210130202
+        ]
     },
     {
         "_id": 101302002,
@@ -10254,7 +11014,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png"
+        "Icon": "MonsterIcon/Monster_1013020.png",
+        "Status": [
+            210130201,
+            210130202
+        ]
     },
     {
         "_id": 101302003,
@@ -10302,7 +11066,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png"
+        "Icon": "MonsterIcon/Monster_1013020.png",
+        "Status": [
+            210130201,
+            210130202
+        ]
     },
     {
         "_id": 101302004,
@@ -10346,7 +11114,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png"
+        "Icon": "MonsterIcon/Monster_1013020.png",
+        "Status": [
+            210130201,
+            210130202
+        ]
     },
     {
         "_id": 101302005,
@@ -10390,7 +11162,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png"
+        "Icon": "MonsterIcon/Monster_1013020.png",
+        "Status": [
+            210130201,
+            210130202
+        ]
     },
     {
         "_id": 101302006,
@@ -10437,7 +11213,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png"
+        "Icon": "MonsterIcon/Monster_1013020.png",
+        "Status": [
+            210130201,
+            210130202
+        ]
     },
     {
         "_id": 101302007,
@@ -10485,7 +11265,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png"
+        "Icon": "MonsterIcon/Monster_1013020.png",
+        "Status": [
+            210130201,
+            210130202
+        ]
     },
     {
         "_id": 101302008,
@@ -10532,7 +11316,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png"
+        "Icon": "MonsterIcon/Monster_1013020.png",
+        "Status": [
+            210130201,
+            210130202
+        ]
     },
     {
         "_id": 101302009,
@@ -10586,7 +11374,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png"
+        "Icon": "MonsterIcon/Monster_1013020.png",
+        "Status": [
+            210130201,
+            210130202
+        ]
     },
     {
         "_id": 101302010,
@@ -10630,7 +11422,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png"
+        "Icon": "MonsterIcon/Monster_1013020.png",
+        "Status": [
+            210130201,
+            210130202
+        ]
     },
     {
         "_id": 101302011,
@@ -10674,7 +11470,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png"
+        "Icon": "MonsterIcon/Monster_1013020.png",
+        "Status": [
+            210130201,
+            210130202
+        ]
     },
     {
         "_id": 101302012,
@@ -10718,7 +11518,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png"
+        "Icon": "MonsterIcon/Monster_1013020.png",
+        "Status": [
+            210130201,
+            210130202
+        ]
     },
     {
         "_id": 101302013,
@@ -10762,7 +11566,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png"
+        "Icon": "MonsterIcon/Monster_1013020.png",
+        "Status": [
+            210130201,
+            210130202
+        ]
     },
     {
         "_id": 101302014,
@@ -10806,7 +11614,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png"
+        "Icon": "MonsterIcon/Monster_1013020.png",
+        "Status": [
+            210130201,
+            210130202
+        ]
     },
     {
         "_id": 101302015,
@@ -10854,7 +11666,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png"
+        "Icon": "MonsterIcon/Monster_1013020.png",
+        "Status": [
+            210130201,
+            210130202
+        ]
     },
     {
         "_id": 101302020,
@@ -10902,7 +11718,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png"
+        "Icon": "MonsterIcon/Monster_1013020.png",
+        "Status": [
+            210130201,
+            210130202
+        ]
     },
     {
         "_id": 101302021,
@@ -10949,7 +11769,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png"
+        "Icon": "MonsterIcon/Monster_1013020.png",
+        "Status": [
+            210130201,
+            210130202
+        ]
     },
     {
         "_id": 101302022,
@@ -10996,7 +11820,11 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png"
+        "Icon": "MonsterIcon/Monster_1013020.png",
+        "Status": [
+            210130201,
+            210130202
+        ]
     },
     {
         "_id": 101302023,
@@ -11040,7 +11868,59 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png"
+        "Icon": "MonsterIcon/Monster_1013020.png",
+        "Status": [
+            210130201,
+            210130202
+        ]
+    },
+    {
+        "_id": 101302024,
+        "Key": "Monster_W1_Mecha04_00_Config",
+        "Name": {
+            "CH": "自动机兵 · 齿狼",
+            "EN": "Automaton Direwolf"
+        },
+        "Desc": {
+            "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，少见的人形机械，其右臂部分统一装置着链锯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「齿狼」的链锯会造成裂伤，令对手持续损失生命值。",
+            "EN": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT."
+        },
+        "Stats": {
+            "HP": 12.5,
+            "ATK": 9.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 10.0
+        },
+        "Weak": [
+            "Ice",
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    101302001,
+                    101302002,
+                    101302003,
+                    101302004
+                ]
+            }
+        ],
+        "Camp": 1,
+        "Icon": "MonsterIcon/Monster_1013020.png",
+        "Status": [
+            210130201,
+            210130202
+        ]
     },
     {
         "_id": 1013021,
@@ -11090,7 +11970,11 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1013020.png"
+        "Icon": "MonsterIcon/Monster_1013020.png",
+        "Status": [
+            210130201,
+            210130202
+        ]
     },
     {
         "_id": 1013022,
@@ -11163,7 +12047,13 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1013020.png"
+        "Icon": "MonsterIcon/Monster_1013020.png",
+        "Status": [
+            210130201,
+            210130202,
+            210130221,
+            210130222
+        ]
     },
     {
         "_id": 1013023,
@@ -11229,7 +12119,13 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1013020.png"
+        "Icon": "MonsterIcon/Monster_1013020.png",
+        "Status": [
+            210130201,
+            210130202,
+            210130221,
+            210130222
+        ]
     },
     {
         "_id": 1013024,
@@ -11303,8 +12199,7 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1013020.png",
-        "New": true
+        "Icon": "MonsterIcon/Monster_1013020.png"
     },
     {
         "_id": 1014010,
@@ -11363,7 +12258,12 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1004020.png"
+        "Icon": "MonsterIcon/Monster_1004020.png",
+        "Status": [
+            30010006,
+            210040204,
+            210120401
+        ]
     },
     {
         "_id": 101401001,
@@ -11422,7 +12322,12 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1004020.png"
+        "Icon": "MonsterIcon/Monster_1004020.png",
+        "Status": [
+            30010006,
+            210040204,
+            210120401
+        ]
     },
     {
         "_id": 101401002,
@@ -11484,7 +12389,12 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1004020.png"
+        "Icon": "MonsterIcon/Monster_1004020.png",
+        "Status": [
+            30010006,
+            210040204,
+            210120401
+        ]
     },
     {
         "_id": 101401003,
@@ -11543,7 +12453,12 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1004020.png"
+        "Icon": "MonsterIcon/Monster_1004020.png",
+        "Status": [
+            30010006,
+            210040204,
+            210120401
+        ]
     },
     {
         "_id": 101401004,
@@ -11602,7 +12517,12 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1004020.png"
+        "Icon": "MonsterIcon/Monster_1004020.png",
+        "Status": [
+            30010006,
+            210040204,
+            210120401
+        ]
     },
     {
         "_id": 101401005,
@@ -11664,7 +12584,12 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1004020.png"
+        "Icon": "MonsterIcon/Monster_1004020.png",
+        "Status": [
+            30010006,
+            210040204,
+            210120401
+        ]
     },
     {
         "_id": 101401006,
@@ -11726,7 +12651,12 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1004020.png"
+        "Icon": "MonsterIcon/Monster_1004020.png",
+        "Status": [
+            30010006,
+            210040204,
+            210120401
+        ]
     },
     {
         "_id": 101401007,
@@ -11785,7 +12715,12 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1004020.png"
+        "Icon": "MonsterIcon/Monster_1004020.png",
+        "Status": [
+            30010006,
+            210040204,
+            210120401
+        ]
     },
     {
         "_id": 101401008,
@@ -11844,7 +12779,76 @@ var _monster = [
             }
         ],
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1004020.png"
+        "Icon": "MonsterIcon/Monster_1004020.png",
+        "Status": [
+            30010006,
+            210040204,
+            210120401
+        ]
+    },
+    {
+        "_id": 101401009,
+        "Key": "Monster_W1_Svarog_00_Config",
+        "Name": {
+            "CH": "史瓦罗",
+            "EN": "Svarog"
+        },
+        "Desc": {
+            "CH": "旧世界的古老遗物，地髓开拓团的时代遗留下的自动控制单元。与大部分无智、只接受指令的机器不同，史瓦罗具有复杂的思考能力。<br>在战斗中，史瓦罗会召来机械臂抓取和控制敌人，对目标进行沉重的打击。",
+            "EN": "This ancient relic from the Old World was an automated control unit left behind during the times of the Geomarrow Development Group. Unlike other mindless machines that could only receive instructions, Svarog is capable of complex thoughts.<br>In battle, Svarog summons mechanical arms to grab and control his enemies, delivering devastating attacks."
+        },
+        "Stats": {
+            "HP": 20.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 12.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    101401001,
+                    101401002,
+                    101401004,
+                    101401007
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    101401003,
+                    101401005,
+                    101401006,
+                    101401008,
+                    101401009,
+                    101401010,
+                    101401011
+                ]
+            }
+        ],
+        "Camp": 1,
+        "Icon": "MonsterIcon/Monster_1004020.png",
+        "Status": [
+            30010006,
+            210040204,
+            210120401
+        ]
     },
     {
         "_id": 1014011,
@@ -11925,7 +12929,12 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1004020.png"
+        "Icon": "MonsterIcon/Monster_1004020.png",
+        "Status": [
+            30010006,
+            210040113,
+            210120411
+        ]
     },
     {
         "_id": 1014012,
@@ -12007,7 +13016,12 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1004020.png"
+        "Icon": "MonsterIcon/Monster_1004020.png",
+        "Status": [
+            30010006,
+            210040113,
+            210120411
+        ]
     },
     {
         "_id": 1022010,
@@ -12629,7 +13643,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png"
+        "Icon": "MonsterIcon/Monster_9002410.png",
+        "Status": [
+            30020002
+        ]
     },
     {
         "_id": 102202001,
@@ -12673,7 +13690,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png"
+        "Icon": "MonsterIcon/Monster_9002410.png",
+        "Status": [
+            30020002
+        ]
     },
     {
         "_id": 102202002,
@@ -12717,7 +13737,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png"
+        "Icon": "MonsterIcon/Monster_9002410.png",
+        "Status": [
+            30020002
+        ]
     },
     {
         "_id": 102202003,
@@ -12764,7 +13787,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png"
+        "Icon": "MonsterIcon/Monster_9002410.png",
+        "Status": [
+            30020002
+        ]
     },
     {
         "_id": 102202004,
@@ -12808,7 +13834,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png"
+        "Icon": "MonsterIcon/Monster_9002410.png",
+        "Status": [
+            30020002
+        ]
     },
     {
         "_id": 102202005,
@@ -12852,7 +13881,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png"
+        "Icon": "MonsterIcon/Monster_9002410.png",
+        "Status": [
+            30020002
+        ]
     },
     {
         "_id": 102202006,
@@ -12896,7 +13928,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png"
+        "Icon": "MonsterIcon/Monster_9002410.png",
+        "Status": [
+            30020002
+        ]
     },
     {
         "_id": 102202007,
@@ -12943,7 +13978,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png"
+        "Icon": "MonsterIcon/Monster_9002410.png",
+        "Status": [
+            30020002
+        ]
     },
     {
         "_id": 102202008,
@@ -12987,7 +14025,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png"
+        "Icon": "MonsterIcon/Monster_9002410.png",
+        "Status": [
+            30020002
+        ]
     },
     {
         "_id": 102202009,
@@ -13031,7 +14072,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png"
+        "Icon": "MonsterIcon/Monster_9002410.png",
+        "Status": [
+            30020002
+        ]
     },
     {
         "_id": 102202010,
@@ -13075,7 +14119,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png"
+        "Icon": "MonsterIcon/Monster_9002410.png",
+        "Status": [
+            30020002
+        ]
     },
     {
         "_id": 102202011,
@@ -13119,7 +14166,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png"
+        "Icon": "MonsterIcon/Monster_9002410.png",
+        "Status": [
+            30020002
+        ]
     },
     {
         "_id": 102202012,
@@ -13163,7 +14213,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png"
+        "Icon": "MonsterIcon/Monster_9002410.png",
+        "Status": [
+            30020002
+        ]
     },
     {
         "_id": 102202013,
@@ -13207,7 +14260,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png"
+        "Icon": "MonsterIcon/Monster_9002410.png",
+        "Status": [
+            30020002
+        ]
     },
     {
         "_id": 102202014,
@@ -13251,7 +14307,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png"
+        "Icon": "MonsterIcon/Monster_9002410.png",
+        "Status": [
+            30020002
+        ]
     },
     {
         "_id": 102202015,
@@ -13295,7 +14354,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png"
+        "Icon": "MonsterIcon/Monster_9002410.png",
+        "Status": [
+            30020002
+        ]
     },
     {
         "_id": 102202016,
@@ -13339,7 +14401,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png"
+        "Icon": "MonsterIcon/Monster_9002410.png",
+        "Status": [
+            30020002
+        ]
     },
     {
         "_id": 102202017,
@@ -13383,7 +14448,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png"
+        "Icon": "MonsterIcon/Monster_9002410.png",
+        "Status": [
+            30020002
+        ]
     },
     {
         "_id": 102202018,
@@ -13427,7 +14495,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png"
+        "Icon": "MonsterIcon/Monster_9002410.png",
+        "Status": [
+            30020002
+        ]
     },
     {
         "_id": 102202019,
@@ -13471,7 +14542,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png"
+        "Icon": "MonsterIcon/Monster_9002410.png",
+        "Status": [
+            30020002
+        ]
     },
     {
         "_id": 102202020,
@@ -13515,7 +14589,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png"
+        "Icon": "MonsterIcon/Monster_9002410.png",
+        "Status": [
+            30020002
+        ]
     },
     {
         "_id": 102202021,
@@ -13559,7 +14636,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png"
+        "Icon": "MonsterIcon/Monster_9002410.png",
+        "Status": [
+            30020002
+        ]
     },
     {
         "_id": 102202022,
@@ -13603,7 +14683,57 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png"
+        "Icon": "MonsterIcon/Monster_9002410.png",
+        "Status": [
+            30020002
+        ]
+    },
+    {
+        "_id": 102202023,
+        "Key": "Monster_W1_Soldier01_01_Config",
+        "Name": {
+            "CH": "火焚灾影",
+            "EN": "Incineration Shadewalker"
+        },
+        "Desc": {
+            "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形。其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的燃烬所取代。<br>战斗中火焚灾影会挥舞燃烧的斧刃，灼烧敌人。",
+            "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle."
+        },
+        "Stats": {
+            "HP": 0.75,
+            "ATK": 9.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Ice",
+            "Wind",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.4,
+            "Elec": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "DebuffRES": {
+            "Burn": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    102202001
+                ]
+            }
+        ],
+        "Camp": 3,
+        "Icon": "MonsterIcon/Monster_9002410.png",
+        "Status": [
+            30020002
+        ]
     },
     {
         "_id": 1023010,
@@ -13651,7 +14781,12 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023010.png"
+        "Icon": "MonsterIcon/Monster_1023010.png",
+        "Status": [
+            30020002,
+            210230101,
+            210230102
+        ]
     },
     {
         "_id": 102301001,
@@ -13703,7 +14838,12 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023010.png"
+        "Icon": "MonsterIcon/Monster_1023010.png",
+        "Status": [
+            30020002,
+            210230101,
+            210230102
+        ]
     },
     {
         "_id": 102301002,
@@ -13755,7 +14895,12 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023010.png"
+        "Icon": "MonsterIcon/Monster_1023010.png",
+        "Status": [
+            30020002,
+            210230101,
+            210230102
+        ]
     },
     {
         "_id": 102301003,
@@ -13803,7 +14948,12 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023010.png"
+        "Icon": "MonsterIcon/Monster_1023010.png",
+        "Status": [
+            30020002,
+            210230101,
+            210230102
+        ]
     },
     {
         "_id": 102301004,
@@ -13851,7 +15001,12 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023010.png"
+        "Icon": "MonsterIcon/Monster_1023010.png",
+        "Status": [
+            30020002,
+            210230101,
+            210230102
+        ]
     },
     {
         "_id": 102301005,
@@ -13903,7 +15058,12 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023010.png"
+        "Icon": "MonsterIcon/Monster_1023010.png",
+        "Status": [
+            30020002,
+            210230101,
+            210230102
+        ]
     },
     {
         "_id": 102301006,
@@ -13955,7 +15115,12 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023010.png"
+        "Icon": "MonsterIcon/Monster_1023010.png",
+        "Status": [
+            30020002,
+            210230101,
+            210230102
+        ]
     },
     {
         "_id": 102301007,
@@ -14007,7 +15172,12 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023010.png"
+        "Icon": "MonsterIcon/Monster_1023010.png",
+        "Status": [
+            30020002,
+            210230101,
+            210230102
+        ]
     },
     {
         "_id": 102301008,
@@ -14055,7 +15225,12 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023010.png"
+        "Icon": "MonsterIcon/Monster_1023010.png",
+        "Status": [
+            30020002,
+            210230101,
+            210230102
+        ]
     },
     {
         "_id": 102301009,
@@ -14103,7 +15278,12 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023010.png"
+        "Icon": "MonsterIcon/Monster_1023010.png",
+        "Status": [
+            30020002,
+            210230101,
+            210230102
+        ]
     },
     {
         "_id": 102301010,
@@ -14154,7 +15334,12 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023010.png"
+        "Icon": "MonsterIcon/Monster_1023010.png",
+        "Status": [
+            30020002,
+            210230101,
+            210230102
+        ]
     },
     {
         "_id": 102301011,
@@ -14202,7 +15387,12 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023010.png"
+        "Icon": "MonsterIcon/Monster_1023010.png",
+        "Status": [
+            30020002,
+            210230101,
+            210230102
+        ]
     },
     {
         "_id": 102301012,
@@ -14250,7 +15440,12 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023010.png"
+        "Icon": "MonsterIcon/Monster_1023010.png",
+        "Status": [
+            30020002,
+            210230101,
+            210230102
+        ]
     },
     {
         "_id": 102301013,
@@ -14301,7 +15496,12 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023010.png"
+        "Icon": "MonsterIcon/Monster_1023010.png",
+        "Status": [
+            30020002,
+            210230101,
+            210230102
+        ]
     },
     {
         "_id": 102301014,
@@ -14352,7 +15552,12 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023010.png"
+        "Icon": "MonsterIcon/Monster_1023010.png",
+        "Status": [
+            30020002,
+            210230101,
+            210230102
+        ]
     },
     {
         "_id": 1023011,
@@ -14402,7 +15607,12 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1023010.png"
+        "Icon": "MonsterIcon/Monster_1023010.png",
+        "Status": [
+            30020002,
+            210230101,
+            210230102
+        ]
     },
     {
         "_id": 1023020,
@@ -14457,7 +15667,13 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023020.png"
+        "Icon": "MonsterIcon/Monster_1023020.png",
+        "Status": [
+            210230202,
+            210230203,
+            210230207,
+            210230208
+        ]
     },
     {
         "_id": 102302001,
@@ -14512,7 +15728,13 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023020.png"
+        "Icon": "MonsterIcon/Monster_1023020.png",
+        "Status": [
+            210230202,
+            210230203,
+            210230207,
+            210230208
+        ]
     },
     {
         "_id": 102302002,
@@ -14567,7 +15789,13 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023020.png"
+        "Icon": "MonsterIcon/Monster_1023020.png",
+        "Status": [
+            210230202,
+            210230203,
+            210230207,
+            210230208
+        ]
     },
     {
         "_id": 102302003,
@@ -14625,7 +15853,13 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023020.png"
+        "Icon": "MonsterIcon/Monster_1023020.png",
+        "Status": [
+            210230202,
+            210230203,
+            210230207,
+            210230208
+        ]
     },
     {
         "_id": 102302004,
@@ -14684,7 +15918,13 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023020.png"
+        "Icon": "MonsterIcon/Monster_1023020.png",
+        "Status": [
+            210230202,
+            210230203,
+            210230207,
+            210230208
+        ]
     },
     {
         "_id": 1023021,
@@ -14741,7 +15981,12 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1023020.png"
+        "Icon": "MonsterIcon/Monster_1023020.png",
+        "Status": [
+            210230202,
+            210230203,
+            210230207
+        ]
     },
     {
         "_id": 2002010,
@@ -14790,7 +16035,10 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2002010.png"
+        "Icon": "MonsterIcon/Monster_2002010.png",
+        "Status": [
+            30010041
+        ]
     },
     {
         "_id": 200201001,
@@ -14839,7 +16087,10 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2002010.png"
+        "Icon": "MonsterIcon/Monster_2002010.png",
+        "Status": [
+            30010041
+        ]
     },
     {
         "_id": 200201002,
@@ -14891,7 +16142,10 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2002010.png"
+        "Icon": "MonsterIcon/Monster_2002010.png",
+        "Status": [
+            30010041
+        ]
     },
     {
         "_id": 200201003,
@@ -14940,7 +16194,10 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2002010.png"
+        "Icon": "MonsterIcon/Monster_2002010.png",
+        "Status": [
+            30010041
+        ]
     },
     {
         "_id": 200201004,
@@ -14992,7 +16249,10 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2002010.png"
+        "Icon": "MonsterIcon/Monster_2002010.png",
+        "Status": [
+            30010041
+        ]
     },
     {
         "_id": 200201005,
@@ -15041,7 +16301,10 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2002010.png"
+        "Icon": "MonsterIcon/Monster_2002010.png",
+        "Status": [
+            30010041
+        ]
     },
     {
         "_id": 200201006,
@@ -15093,7 +16356,10 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2002010.png"
+        "Icon": "MonsterIcon/Monster_2002010.png",
+        "Status": [
+            30010041
+        ]
     },
     {
         "_id": 2002020,
@@ -15492,7 +16758,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2002030.png"
+        "Icon": "MonsterIcon/Monster_2002030.png",
+        "Status": [
+            220020301,
+            220020302
+        ]
     },
     {
         "_id": 200203001,
@@ -15533,7 +16803,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2002030.png"
+        "Icon": "MonsterIcon/Monster_2002030.png",
+        "Status": [
+            220020301,
+            220020302
+        ]
     },
     {
         "_id": 200203002,
@@ -15574,7 +16848,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2002030.png"
+        "Icon": "MonsterIcon/Monster_2002030.png",
+        "Status": [
+            220020301,
+            220020302
+        ]
     },
     {
         "_id": 200203003,
@@ -15615,7 +16893,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2002030.png"
+        "Icon": "MonsterIcon/Monster_2002030.png",
+        "Status": [
+            220020301,
+            220020302
+        ]
     },
     {
         "_id": 200203004,
@@ -15656,7 +16938,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2002030.png"
+        "Icon": "MonsterIcon/Monster_2002030.png",
+        "Status": [
+            220020301,
+            220020302
+        ]
     },
     {
         "_id": 2002031,
@@ -15738,7 +17024,11 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2002030.png"
+        "Icon": "MonsterIcon/Monster_2002030.png",
+        "Status": [
+            220020301,
+            220020302
+        ]
     },
     {
         "_id": 200203202,
@@ -15779,7 +17069,11 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2002030.png"
+        "Icon": "MonsterIcon/Monster_2002030.png",
+        "Status": [
+            220020301,
+            220020302
+        ]
     },
     {
         "_id": 2004010,
@@ -15828,7 +17122,11 @@ var _monster = [
             }
         ],
         "Camp": 5,
-        "Icon": "MonsterIcon/Monster_2004010.png"
+        "Icon": "MonsterIcon/Monster_2004010.png",
+        "Status": [
+            30020004,
+            30020028
+        ]
     },
     {
         "_id": 200401001,
@@ -15880,7 +17178,11 @@ var _monster = [
             }
         ],
         "Camp": 5,
-        "Icon": "MonsterIcon/Monster_2004010.png"
+        "Icon": "MonsterIcon/Monster_2004010.png",
+        "Status": [
+            30020004,
+            30020028
+        ]
     },
     {
         "_id": 200401002,
@@ -15929,7 +17231,11 @@ var _monster = [
             }
         ],
         "Camp": 5,
-        "Icon": "MonsterIcon/Monster_2004010.png"
+        "Icon": "MonsterIcon/Monster_2004010.png",
+        "Status": [
+            30020004,
+            30020028
+        ]
     },
     {
         "_id": 200401003,
@@ -15978,7 +17284,11 @@ var _monster = [
             }
         ],
         "Camp": 5,
-        "Icon": "MonsterIcon/Monster_2004010.png"
+        "Icon": "MonsterIcon/Monster_2004010.png",
+        "Status": [
+            30020004,
+            30020028
+        ]
     },
     {
         "_id": 200401004,
@@ -16027,7 +17337,11 @@ var _monster = [
             }
         ],
         "Camp": 5,
-        "Icon": "MonsterIcon/Monster_2004010.png"
+        "Icon": "MonsterIcon/Monster_2004010.png",
+        "Status": [
+            30020004,
+            30020028
+        ]
     },
     {
         "_id": 2004011,
@@ -16102,7 +17416,13 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2004010.png"
+        "Icon": "MonsterIcon/Monster_2004010.png",
+        "Status": [
+            30020004,
+            30020028,
+            220040111,
+            220040112
+        ]
     },
     {
         "_id": 2004012,
@@ -16177,7 +17497,13 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2004010.png"
+        "Icon": "MonsterIcon/Monster_2004010.png",
+        "Status": [
+            30020004,
+            30020028,
+            220040111,
+            220040112
+        ]
     },
     {
         "_id": 2004013,
@@ -16251,8 +17577,7 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2004010.png",
-        "New": true
+        "Icon": "MonsterIcon/Monster_2004010.png"
     },
     {
         "_id": 2004020,
@@ -16263,7 +17588,7 @@ var _monster = [
         },
         "Desc": {
             "CH": "…",
-            "EN": "…"
+            "EN": "..."
         },
         "Stats": {
             "HP": 15.0,
@@ -16309,7 +17634,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2004020.png"
+        "Icon": "MonsterIcon/Monster_2004020.png",
+        "Status": [
+            220040201,
+            220040204
+        ]
     },
     {
         "_id": 200402001,
@@ -16320,7 +17649,7 @@ var _monster = [
         },
         "Desc": {
             "CH": "…",
-            "EN": "…"
+            "EN": "..."
         },
         "Stats": {
             "HP": 6.5,
@@ -16370,7 +17699,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2004020.png"
+        "Icon": "MonsterIcon/Monster_2004020.png",
+        "Status": [
+            220040201,
+            220040204
+        ]
     },
     {
         "_id": 200402002,
@@ -16381,7 +17714,7 @@ var _monster = [
         },
         "Desc": {
             "CH": "…",
-            "EN": "…"
+            "EN": "..."
         },
         "Stats": {
             "HP": 22.5,
@@ -16427,7 +17760,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2004020.png"
+        "Icon": "MonsterIcon/Monster_2004020.png",
+        "Status": [
+            220040201,
+            220040204
+        ]
     },
     {
         "_id": 200402003,
@@ -16484,7 +17821,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2004020.png"
+        "Icon": "MonsterIcon/Monster_2004020.png",
+        "Status": [
+            220040201,
+            220040204
+        ]
     },
     {
         "_id": 200402004,
@@ -16541,7 +17882,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2004020.png"
+        "Icon": "MonsterIcon/Monster_2004020.png",
+        "Status": [
+            220040201,
+            220040204
+        ]
     },
     {
         "_id": 200402005,
@@ -16552,7 +17897,7 @@ var _monster = [
         },
         "Desc": {
             "CH": "…",
-            "EN": "…"
+            "EN": "..."
         },
         "Stats": {
             "HP": 35.0,
@@ -16598,7 +17943,72 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2004020.png"
+        "Icon": "MonsterIcon/Monster_2004020.png",
+        "Status": [
+            220040201,
+            220040204
+        ]
+    },
+    {
+        "_id": 200402006,
+        "Key": "Monster_W2_Yanqing_00_Config",
+        "Name": {
+            "CH": "云骑骁卫 · 彦卿",
+            "EN": "Cloud Knight Lieutenant: Yanqing"
+        },
+        "Desc": {
+            "CH": "…",
+            "EN": "..."
+        },
+        "Stats": {
+            "HP": 25.0,
+            "ATK": 18.94734,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 16.0
+        },
+        "Weak": [
+            "Elec",
+            "Wind",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.4,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "Frozen": 0.5,
+            "Confine": 0.5,
+            "Entangle": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    200402001,
+                    200402002,
+                    200402003,
+                    200402004,
+                    200402005,
+                    200402006
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    200402007
+                ]
+            }
+        ],
+        "Camp": 2,
+        "Icon": "MonsterIcon/Monster_2004020.png",
+        "Status": [
+            220040201,
+            220040204
+        ]
     },
     {
         "_id": 2004021,
@@ -16679,7 +18089,13 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2004020.png"
+        "Icon": "MonsterIcon/Monster_2004020.png",
+        "Status": [
+            220040201,
+            220040211,
+            220040212,
+            220040215
+        ]
     },
     {
         "_id": 2004022,
@@ -16760,8 +18176,7 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2004020.png",
-        "New": true
+        "Icon": "MonsterIcon/Monster_2004020.png"
     },
     {
         "_id": 2004023,
@@ -16827,8 +18242,7 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2004020.png",
-        "New": true
+        "Icon": "MonsterIcon/Monster_2004020.png"
     },
     {
         "_id": 2011010,
@@ -16869,7 +18283,10 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2011010.png"
+        "Icon": "MonsterIcon/Monster_2011010.png",
+        "Status": [
+            30010017
+        ]
     },
     {
         "_id": 201101001,
@@ -16914,7 +18331,10 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2011010.png"
+        "Icon": "MonsterIcon/Monster_2011010.png",
+        "Status": [
+            30010017
+        ]
     },
     {
         "_id": 201101002,
@@ -16958,7 +18378,10 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2011010.png"
+        "Icon": "MonsterIcon/Monster_2011010.png",
+        "Status": [
+            30010017
+        ]
     },
     {
         "_id": 201101003,
@@ -16999,7 +18422,10 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2011010.png"
+        "Icon": "MonsterIcon/Monster_2011010.png",
+        "Status": [
+            30010017
+        ]
     },
     {
         "_id": 2011020,
@@ -17040,7 +18466,10 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2011020.png"
+        "Icon": "MonsterIcon/Monster_2011020.png",
+        "Status": [
+            30010067
+        ]
     },
     {
         "_id": 201102001,
@@ -17085,7 +18514,10 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2011020.png"
+        "Icon": "MonsterIcon/Monster_2011020.png",
+        "Status": [
+            30010067
+        ]
     },
     {
         "_id": 201102002,
@@ -17129,7 +18561,10 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2011020.png"
+        "Icon": "MonsterIcon/Monster_2011020.png",
+        "Status": [
+            30010067
+        ]
     },
     {
         "_id": 201102003,
@@ -17170,7 +18605,10 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2011020.png"
+        "Icon": "MonsterIcon/Monster_2011020.png",
+        "Status": [
+            30010067
+        ]
     },
     {
         "_id": 2012010,
@@ -17212,7 +18650,10 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2012010.png"
+        "Icon": "MonsterIcon/Monster_2012010.png",
+        "Status": [
+            30010006
+        ]
     },
     {
         "_id": 201201001,
@@ -17254,7 +18695,10 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2012010.png"
+        "Icon": "MonsterIcon/Monster_2012010.png",
+        "Status": [
+            30010006
+        ]
     },
     {
         "_id": 201201002,
@@ -17299,7 +18743,10 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2012010.png"
+        "Icon": "MonsterIcon/Monster_2012010.png",
+        "Status": [
+            30010006
+        ]
     },
     {
         "_id": 201201003,
@@ -17341,7 +18788,10 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2012010.png"
+        "Icon": "MonsterIcon/Monster_2012010.png",
+        "Status": [
+            30010006
+        ]
     },
     {
         "_id": 201201004,
@@ -17383,7 +18833,10 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2012010.png"
+        "Icon": "MonsterIcon/Monster_2012010.png",
+        "Status": [
+            30010006
+        ]
     },
     {
         "_id": 201201005,
@@ -17425,7 +18878,10 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2012010.png"
+        "Icon": "MonsterIcon/Monster_2012010.png",
+        "Status": [
+            30010006
+        ]
     },
     {
         "_id": 201201006,
@@ -17470,7 +18926,10 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2012010.png"
+        "Icon": "MonsterIcon/Monster_2012010.png",
+        "Status": [
+            30010006
+        ]
     },
     {
         "_id": 201201007,
@@ -17515,7 +18974,10 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2012010.png"
+        "Icon": "MonsterIcon/Monster_2012010.png",
+        "Status": [
+            30010006
+        ]
     },
     {
         "_id": 2013010,
@@ -17559,7 +19021,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2013010.png"
+        "Icon": "MonsterIcon/Monster_2013010.png",
+        "Status": [
+            30010017,
+            220130102
+        ]
     },
     {
         "_id": 201301001,
@@ -17603,7 +19069,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2013010.png"
+        "Icon": "MonsterIcon/Monster_2013010.png",
+        "Status": [
+            30010017,
+            220130102
+        ]
     },
     {
         "_id": 201301002,
@@ -17647,7 +19117,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2013010.png"
+        "Icon": "MonsterIcon/Monster_2013010.png",
+        "Status": [
+            30010017,
+            220130102
+        ]
     },
     {
         "_id": 201301003,
@@ -17694,7 +19168,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2013010.png"
+        "Icon": "MonsterIcon/Monster_2013010.png",
+        "Status": [
+            30010017,
+            220130102
+        ]
     },
     {
         "_id": 201301004,
@@ -17738,7 +19216,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2013010.png"
+        "Icon": "MonsterIcon/Monster_2013010.png",
+        "Status": [
+            30010017,
+            220130102
+        ]
     },
     {
         "_id": 201301005,
@@ -17782,7 +19264,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2013010.png"
+        "Icon": "MonsterIcon/Monster_2013010.png",
+        "Status": [
+            30010017,
+            220130102
+        ]
     },
     {
         "_id": 201301006,
@@ -17829,7 +19315,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2013010.png"
+        "Icon": "MonsterIcon/Monster_2013010.png",
+        "Status": [
+            30010017,
+            220130102
+        ]
     },
     {
         "_id": 201301007,
@@ -17873,7 +19363,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2013010.png"
+        "Icon": "MonsterIcon/Monster_2013010.png",
+        "Status": [
+            30010017,
+            220130102
+        ]
     },
     {
         "_id": 2013011,
@@ -17922,7 +19416,13 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2013010.png"
+        "Icon": "MonsterIcon/Monster_2013010.png",
+        "Status": [
+            30010017,
+            30020013,
+            220130111,
+            220130112
+        ]
     },
     {
         "_id": 2013012,
@@ -17966,7 +19466,11 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2013010.png"
+        "Icon": "MonsterIcon/Monster_2013010.png",
+        "Status": [
+            30010017,
+            220130102
+        ]
     },
     {
         "_id": 2013020,
@@ -18017,7 +19521,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2013020.png"
+        "Icon": "MonsterIcon/Monster_2013020.png",
+        "Status": [
+            220020301,
+            220020302
+        ]
     },
     {
         "_id": 201302001,
@@ -18068,7 +19576,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2013020.png"
+        "Icon": "MonsterIcon/Monster_2013020.png",
+        "Status": [
+            220020301,
+            220020302
+        ]
     },
     {
         "_id": 201302002,
@@ -18119,7 +19631,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2013020.png"
+        "Icon": "MonsterIcon/Monster_2013020.png",
+        "Status": [
+            220020301,
+            220020302
+        ]
     },
     {
         "_id": 201302003,
@@ -18170,7 +19686,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2013020.png"
+        "Icon": "MonsterIcon/Monster_2013020.png",
+        "Status": [
+            220020301,
+            220020302
+        ]
     },
     {
         "_id": 201302004,
@@ -18221,7 +19741,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2013020.png"
+        "Icon": "MonsterIcon/Monster_2013020.png",
+        "Status": [
+            220020301,
+            220020302
+        ]
     },
     {
         "_id": 2013021,
@@ -18274,7 +19798,11 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2013020.png"
+        "Icon": "MonsterIcon/Monster_2013020.png",
+        "Status": [
+            220020301,
+            220020302
+        ]
     },
     {
         "_id": 2022010,
@@ -18322,7 +19850,12 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022010.png"
+        "Icon": "MonsterIcon/Monster_2022010.png",
+        "Status": [
+            30020003,
+            220220101,
+            220220102
+        ]
     },
     {
         "_id": 202201001,
@@ -18370,7 +19903,12 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022010.png"
+        "Icon": "MonsterIcon/Monster_2022010.png",
+        "Status": [
+            30020003,
+            220220101,
+            220220102
+        ]
     },
     {
         "_id": 202201002,
@@ -18421,7 +19959,12 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022010.png"
+        "Icon": "MonsterIcon/Monster_2022010.png",
+        "Status": [
+            30020003,
+            220220101,
+            220220102
+        ]
     },
     {
         "_id": 202201003,
@@ -18469,7 +20012,12 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022010.png"
+        "Icon": "MonsterIcon/Monster_2022010.png",
+        "Status": [
+            30020003,
+            220220101,
+            220220102
+        ]
     },
     {
         "_id": 202201004,
@@ -18517,7 +20065,12 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022010.png"
+        "Icon": "MonsterIcon/Monster_2022010.png",
+        "Status": [
+            30020003,
+            220220101,
+            220220102
+        ]
     },
     {
         "_id": 202201005,
@@ -18565,7 +20118,12 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022010.png"
+        "Icon": "MonsterIcon/Monster_2022010.png",
+        "Status": [
+            30020003,
+            220220101,
+            220220102
+        ]
     },
     {
         "_id": 202201006,
@@ -18613,7 +20171,12 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022010.png"
+        "Icon": "MonsterIcon/Monster_2022010.png",
+        "Status": [
+            30020003,
+            220220101,
+            220220102
+        ]
     },
     {
         "_id": 202201007,
@@ -18661,7 +20224,12 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022010.png"
+        "Icon": "MonsterIcon/Monster_2022010.png",
+        "Status": [
+            30020003,
+            220220101,
+            220220102
+        ]
     },
     {
         "_id": 202201008,
@@ -18709,7 +20277,12 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022010.png"
+        "Icon": "MonsterIcon/Monster_2022010.png",
+        "Status": [
+            30020003,
+            220220101,
+            220220102
+        ]
     },
     {
         "_id": 202201009,
@@ -18757,7 +20330,12 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022010.png"
+        "Icon": "MonsterIcon/Monster_2022010.png",
+        "Status": [
+            30020003,
+            220220101,
+            220220102
+        ]
     },
     {
         "_id": 202201010,
@@ -18805,7 +20383,12 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022010.png"
+        "Icon": "MonsterIcon/Monster_2022010.png",
+        "Status": [
+            30020003,
+            220220101,
+            220220102
+        ]
     },
     {
         "_id": 2022020,
@@ -18848,7 +20431,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022020.png"
+        "Icon": "MonsterIcon/Monster_2022020.png",
+        "Status": [
+            220220203,
+            220220204
+        ]
     },
     {
         "_id": 202202001,
@@ -18891,7 +20478,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022020.png"
+        "Icon": "MonsterIcon/Monster_2022020.png",
+        "Status": [
+            220220203,
+            220220204
+        ]
     },
     {
         "_id": 202202002,
@@ -18934,7 +20525,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022020.png"
+        "Icon": "MonsterIcon/Monster_2022020.png",
+        "Status": [
+            220220203,
+            220220204
+        ]
     },
     {
         "_id": 202202003,
@@ -18981,7 +20576,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022020.png"
+        "Icon": "MonsterIcon/Monster_2022020.png",
+        "Status": [
+            220220203,
+            220220204
+        ]
     },
     {
         "_id": 202202004,
@@ -19024,7 +20623,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022020.png"
+        "Icon": "MonsterIcon/Monster_2022020.png",
+        "Status": [
+            220220203,
+            220220204
+        ]
     },
     {
         "_id": 202202005,
@@ -19067,7 +20670,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022020.png"
+        "Icon": "MonsterIcon/Monster_2022020.png",
+        "Status": [
+            220220203,
+            220220204
+        ]
     },
     {
         "_id": 202202006,
@@ -19110,7 +20717,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022020.png"
+        "Icon": "MonsterIcon/Monster_2022020.png",
+        "Status": [
+            220220203,
+            220220204
+        ]
     },
     {
         "_id": 202202007,
@@ -19153,7 +20764,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022020.png"
+        "Icon": "MonsterIcon/Monster_2022020.png",
+        "Status": [
+            220220203,
+            220220204
+        ]
     },
     {
         "_id": 202202008,
@@ -19196,7 +20811,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022020.png"
+        "Icon": "MonsterIcon/Monster_2022020.png",
+        "Status": [
+            220220203,
+            220220204
+        ]
     },
     {
         "_id": 202202009,
@@ -19239,7 +20858,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022020.png"
+        "Icon": "MonsterIcon/Monster_2022020.png",
+        "Status": [
+            220220203,
+            220220204
+        ]
     },
     {
         "_id": 2022040,
@@ -19539,7 +21162,10 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022050.png"
+        "Icon": "MonsterIcon/Monster_2022050.png",
+        "Status": [
+            30020004
+        ]
     },
     {
         "_id": 202205001,
@@ -19587,7 +21213,10 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022050.png"
+        "Icon": "MonsterIcon/Monster_2022050.png",
+        "Status": [
+            30020004
+        ]
     },
     {
         "_id": 202205002,
@@ -19635,7 +21264,10 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022050.png"
+        "Icon": "MonsterIcon/Monster_2022050.png",
+        "Status": [
+            30020004
+        ]
     },
     {
         "_id": 202205003,
@@ -19683,7 +21315,10 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022050.png"
+        "Icon": "MonsterIcon/Monster_2022050.png",
+        "Status": [
+            30020004
+        ]
     },
     {
         "_id": 202205004,
@@ -19731,7 +21366,10 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022050.png"
+        "Icon": "MonsterIcon/Monster_2022050.png",
+        "Status": [
+            30020004
+        ]
     },
     {
         "_id": 2022051,
@@ -19772,7 +21410,10 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2022051.png"
+        "Icon": "MonsterIcon/Monster_2022051.png",
+        "Status": [
+            30020004
+        ]
     },
     {
         "_id": 2022060,
@@ -19977,7 +21618,10 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2022070.png"
+        "Icon": "MonsterIcon/Monster_2022070.png",
+        "Status": [
+            30020029
+        ]
     },
     {
         "_id": 2022071,
@@ -20018,7 +21662,11 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2022070.png"
+        "Icon": "MonsterIcon/Monster_2022070.png",
+        "Status": [
+            30020003,
+            30020029
+        ]
     },
     {
         "_id": 202207101,
@@ -20059,7 +21707,11 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2022070.png"
+        "Icon": "MonsterIcon/Monster_2022070.png",
+        "Status": [
+            30020003,
+            30020029
+        ]
     },
     {
         "_id": 2022080,
@@ -20102,7 +21754,11 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2022080.png"
+        "Icon": "MonsterIcon/Monster_2022080.png",
+        "Status": [
+            220220801,
+            220220802
+        ]
     },
     {
         "_id": 2022081,
@@ -20145,7 +21801,12 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2022080.png"
+        "Icon": "MonsterIcon/Monster_2022080.png",
+        "Status": [
+            30020004,
+            220220801,
+            220220802
+        ]
     },
     {
         "_id": 202208101,
@@ -20191,7 +21852,12 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2022080.png"
+        "Icon": "MonsterIcon/Monster_2022080.png",
+        "Status": [
+            30020004,
+            220220801,
+            220220802
+        ]
     },
     {
         "_id": 2022090,
@@ -20356,7 +22022,10 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2022100.png"
+        "Icon": "MonsterIcon/Monster_2022100.png",
+        "Status": [
+            220221001
+        ]
     },
     {
         "_id": 2022101,
@@ -20398,7 +22067,10 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2022100.png"
+        "Icon": "MonsterIcon/Monster_2022100.png",
+        "Status": [
+            220221001
+        ]
     },
     {
         "_id": 202210101,
@@ -20440,7 +22112,10 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2022100.png"
+        "Icon": "MonsterIcon/Monster_2022100.png",
+        "Status": [
+            220221001
+        ]
     },
     {
         "_id": 2022110,
@@ -20483,7 +22158,10 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022110.png"
+        "Icon": "MonsterIcon/Monster_2022110.png",
+        "Status": [
+            220221101
+        ]
     },
     {
         "_id": 202211001,
@@ -20526,7 +22204,10 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022110.png"
+        "Icon": "MonsterIcon/Monster_2022110.png",
+        "Status": [
+            220221101
+        ]
     },
     {
         "_id": 202211002,
@@ -20569,7 +22250,10 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022110.png"
+        "Icon": "MonsterIcon/Monster_2022110.png",
+        "Status": [
+            220221101
+        ]
     },
     {
         "_id": 202211003,
@@ -20612,7 +22296,10 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022110.png"
+        "Icon": "MonsterIcon/Monster_2022110.png",
+        "Status": [
+            220221101
+        ]
     },
     {
         "_id": 2023010,
@@ -20657,7 +22344,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023010.png"
+        "Icon": "MonsterIcon/Monster_2023010.png",
+        "Status": [
+            220220101,
+            220230101
+        ]
     },
     {
         "_id": 202301001,
@@ -20705,7 +22396,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023010.png"
+        "Icon": "MonsterIcon/Monster_2023010.png",
+        "Status": [
+            220220101,
+            220230101
+        ]
     },
     {
         "_id": 202301002,
@@ -20753,7 +22448,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023010.png"
+        "Icon": "MonsterIcon/Monster_2023010.png",
+        "Status": [
+            220220101,
+            220230101
+        ]
     },
     {
         "_id": 202301003,
@@ -20798,7 +22497,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023010.png"
+        "Icon": "MonsterIcon/Monster_2023010.png",
+        "Status": [
+            220220101,
+            220230101
+        ]
     },
     {
         "_id": 202301004,
@@ -20846,7 +22549,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023010.png"
+        "Icon": "MonsterIcon/Monster_2023010.png",
+        "Status": [
+            220220101,
+            220230101
+        ]
     },
     {
         "_id": 202301005,
@@ -20894,7 +22601,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023010.png"
+        "Icon": "MonsterIcon/Monster_2023010.png",
+        "Status": [
+            220220101,
+            220230101
+        ]
     },
     {
         "_id": 202301006,
@@ -20942,7 +22653,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023010.png"
+        "Icon": "MonsterIcon/Monster_2023010.png",
+        "Status": [
+            220220101,
+            220230101
+        ]
     },
     {
         "_id": 202301007,
@@ -20987,7 +22702,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023010.png"
+        "Icon": "MonsterIcon/Monster_2023010.png",
+        "Status": [
+            220220101,
+            220230101
+        ]
     },
     {
         "_id": 202301008,
@@ -21032,7 +22751,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023010.png"
+        "Icon": "MonsterIcon/Monster_2023010.png",
+        "Status": [
+            220220101,
+            220230101
+        ]
     },
     {
         "_id": 202301009,
@@ -21077,7 +22800,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023010.png"
+        "Icon": "MonsterIcon/Monster_2023010.png",
+        "Status": [
+            220220101,
+            220230101
+        ]
     },
     {
         "_id": 202301010,
@@ -21122,7 +22849,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023010.png"
+        "Icon": "MonsterIcon/Monster_2023010.png",
+        "Status": [
+            220220101,
+            220230101
+        ]
     },
     {
         "_id": 202301011,
@@ -21167,7 +22898,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023010.png"
+        "Icon": "MonsterIcon/Monster_2023010.png",
+        "Status": [
+            220220101,
+            220230101
+        ]
     },
     {
         "_id": 202301012,
@@ -21212,7 +22947,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023010.png"
+        "Icon": "MonsterIcon/Monster_2023010.png",
+        "Status": [
+            220220101,
+            220230101
+        ]
     },
     {
         "_id": 2023011,
@@ -21263,7 +23002,11 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2023010.png"
+        "Icon": "MonsterIcon/Monster_2023010.png",
+        "Status": [
+            220220101,
+            220230101
+        ]
     },
     {
         "_id": 2023020,
@@ -21314,7 +23057,12 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023020.png"
+        "Icon": "MonsterIcon/Monster_2023020.png",
+        "Status": [
+            220230201,
+            220230204,
+            220230205
+        ]
     },
     {
         "_id": 202302001,
@@ -21368,7 +23116,12 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023020.png"
+        "Icon": "MonsterIcon/Monster_2023020.png",
+        "Status": [
+            220230201,
+            220230204,
+            220230205
+        ]
     },
     {
         "_id": 202302002,
@@ -21419,7 +23172,12 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023020.png"
+        "Icon": "MonsterIcon/Monster_2023020.png",
+        "Status": [
+            220230201,
+            220230204,
+            220230205
+        ]
     },
     {
         "_id": 202302003,
@@ -21470,7 +23228,12 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023020.png"
+        "Icon": "MonsterIcon/Monster_2023020.png",
+        "Status": [
+            220230201,
+            220230204,
+            220230205
+        ]
     },
     {
         "_id": 202302004,
@@ -21521,7 +23284,12 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023020.png"
+        "Icon": "MonsterIcon/Monster_2023020.png",
+        "Status": [
+            220230201,
+            220230204,
+            220230205
+        ]
     },
     {
         "_id": 202302005,
@@ -21572,7 +23340,12 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023020.png"
+        "Icon": "MonsterIcon/Monster_2023020.png",
+        "Status": [
+            220230201,
+            220230204,
+            220230205
+        ]
     },
     {
         "_id": 202302006,
@@ -21623,7 +23396,12 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023020.png"
+        "Icon": "MonsterIcon/Monster_2023020.png",
+        "Status": [
+            220230201,
+            220230204,
+            220230205
+        ]
     },
     {
         "_id": 2023021,
@@ -21673,7 +23451,11 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2023020.png"
+        "Icon": "MonsterIcon/Monster_2023020.png",
+        "Status": [
+            220230211,
+            220230212
+        ]
     },
     {
         "_id": 2023030,
@@ -21718,7 +23500,12 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023030.png"
+        "Icon": "MonsterIcon/Monster_2023030.png",
+        "Status": [
+            30020003,
+            30020030,
+            280030603
+        ]
     },
     {
         "_id": 202303001,
@@ -21763,7 +23550,12 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023030.png"
+        "Icon": "MonsterIcon/Monster_2023030.png",
+        "Status": [
+            30020003,
+            30020030,
+            280030603
+        ]
     },
     {
         "_id": 202303002,
@@ -21811,7 +23603,12 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023030.png"
+        "Icon": "MonsterIcon/Monster_2023030.png",
+        "Status": [
+            30020003,
+            30020030,
+            280030603
+        ]
     },
     {
         "_id": 202303003,
@@ -21856,7 +23653,12 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023030.png"
+        "Icon": "MonsterIcon/Monster_2023030.png",
+        "Status": [
+            30020003,
+            30020030,
+            280030603
+        ]
     },
     {
         "_id": 202303004,
@@ -21901,7 +23703,12 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023030.png"
+        "Icon": "MonsterIcon/Monster_2023030.png",
+        "Status": [
+            30020003,
+            30020030,
+            280030603
+        ]
     },
     {
         "_id": 202303005,
@@ -21946,7 +23753,12 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023030.png"
+        "Icon": "MonsterIcon/Monster_2023030.png",
+        "Status": [
+            30020003,
+            30020030,
+            280030603
+        ]
     },
     {
         "_id": 202303006,
@@ -21991,7 +23803,12 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023030.png"
+        "Icon": "MonsterIcon/Monster_2023030.png",
+        "Status": [
+            30020003,
+            30020030,
+            280030603
+        ]
     },
     {
         "_id": 202303007,
@@ -22036,7 +23853,12 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023030.png"
+        "Icon": "MonsterIcon/Monster_2023030.png",
+        "Status": [
+            30020003,
+            30020030,
+            280030603
+        ]
     },
     {
         "_id": 2023031,
@@ -22081,7 +23903,11 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2023030.png"
+        "Icon": "MonsterIcon/Monster_2023030.png",
+        "Status": [
+            30020003,
+            30020030
+        ]
     },
     {
         "_id": 2024010,
@@ -22149,7 +23975,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2024010.png"
+        "Icon": "MonsterIcon/Monster_2024010.png",
+        "Status": [
+            220221001,
+            220240101
+        ]
     },
     {
         "_id": 202401001,
@@ -22217,7 +24047,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2024010.png"
+        "Icon": "MonsterIcon/Monster_2024010.png",
+        "Status": [
+            220221001,
+            220240101
+        ]
     },
     {
         "_id": 202401002,
@@ -22285,7 +24119,11 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2024010.png"
+        "Icon": "MonsterIcon/Monster_2024010.png",
+        "Status": [
+            220221001,
+            220240101
+        ]
     },
     {
         "_id": 2024011,
@@ -22365,7 +24203,13 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2024010.png"
+        "Icon": "MonsterIcon/Monster_2024010.png",
+        "Status": [
+            220221001,
+            220240101,
+            220240111,
+            220240112
+        ]
     },
     {
         "_id": 2024012,
@@ -22445,7 +24289,13 @@ var _monster = [
             }
         ],
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2024010.png"
+        "Icon": "MonsterIcon/Monster_2024010.png",
+        "Status": [
+            220221001,
+            220240101,
+            220240111,
+            220240112
+        ]
     },
     {
         "_id": 2024013,
@@ -22521,8 +24371,65 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2024010.png",
-        "New": true
+        "Icon": "MonsterIcon/Monster_2024010.png"
+    },
+    {
+        "_id": 2024014,
+        "Key": "Monster_W2_Xuanlu_00_Config_Pingshu",
+        "Name": {
+            "CH": "丰饶玄鹿",
+            "EN": "Abundant Ebon Deer"
+        },
+        "Desc": {
+            "CH": "由「建木」化生，拱卫其根系的灵瑞之兽，履迹所之，和泽滋生，枝杪郁敷。<br>自毁于太古时代的战争后，「建木」终于在星核的修补下再度生长。彼时仙人们所造的珍禽奇兽纷至沓来，宛如旧梦重临。",
+            "EN": "An auspicious spiritual beast wrought into being by the Ambrosial Arbor and protects its roots. Its arrival brings along exuberant vegetation and promises good fortune.<br>Once destroyed during ancient wars, the Ambrosial Arbor is mended by the Stellaron and finally revives. Rare creatures and legendary beasts made by celestials of the past all return to this world, like an old dream coming alive again."
+        },
+        "Stats": {
+            "HP": 27.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 115.0,
+            "Stance": 14.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.4,
+            "Wind": 0.4,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.5,
+            "Confine": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    202401401,
+                    202401402,
+                    202401403,
+                    202401404,
+                    202401405,
+                    202401406,
+                    202401407,
+                    202401408
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    202401409
+                ]
+            }
+        ],
+        "Camp": 2,
+        "Icon": "MonsterIcon/Monster_2024010.png"
     },
     {
         "_id": 2024020,
@@ -22676,6 +24583,1483 @@ var _monster = [
         "Icon": "MonsterIcon/Monster_2024020.png"
     },
     {
+        "_id": 202402004,
+        "Key": "Monster_W2_Fuyan_00_Config",
+        "Name": {
+            "CH": "浮烟",
+            "EN": "Cirrus"
+        },
+        "Desc": {
+            "CH": "大岁阳「燎原」的碎片。融聚众多岁阳碎片，试图重现「燎原」之气魄。",
+            "EN": "A fragment of the great heliobus, Ignamar. Gather the numerous fragments of the heliobus to recreate Ignamar's spirit."
+        },
+        "Stats": {
+            "HP": 15.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 0.0
+        },
+        "Weak": [],
+        "RESBase": {},
+        "StatusRESBase": 1.0,
+        "DebuffRES": {
+            "CTRL": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    202402001,
+                    202402002,
+                    202402003
+                ]
+            }
+        ],
+        "Camp": 2,
+        "Icon": "MonsterIcon/Monster_2024020.png"
+    },
+    {
+        "_id": 3001010,
+        "Key": "Monster_W2_Mecha01_02_Config",
+        "Name": {
+            "CH": "惊梦剧团的弹簧荷官",
+            "EN": "Dreamjolt Troupe's Birdskull"
+        },
+        "Desc": {
+            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>本是牌桌上的娱乐道具，失控后仍在舞动着手中的骰子，用粗鲁的方式进行游戏。",
+            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape. Originally a tool for entertainment on the card table, it is still shaking the dice in its hands after losing control, continuing the game in a crude manner."
+        },
+        "Stats": {
+            "HP": 1.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 83.0,
+            "Stance": 1.0
+        },
+        "Weak": [
+            "Phys",
+            "Wind"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300101001
+                ]
+            }
+        ],
+        "Camp": 10,
+        "Icon": "MonsterIcon/Monster_3001010.png",
+        "New": true
+    },
+    {
+        "_id": 300101001,
+        "Key": "Monster_W2_Mecha01_02_Config",
+        "Name": {
+            "CH": "柯柯娜的善良",
+            "EN": "Karna's Kindness"
+        },
+        "Desc": {
+            "CH": "善良之心，曾相信人人本性良善。",
+            "EN": "A kind heart that once believed that everyone is good by nature."
+        },
+        "Stats": {
+            "HP": 1.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 83.0,
+            "Stance": 1.0
+        },
+        "Weak": [
+            "Phys",
+            "Wind"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300101001
+                ]
+            }
+        ],
+        "Camp": 10,
+        "Icon": "MonsterIcon/Monster_3001010.png"
+    },
+    {
+        "_id": 3001020,
+        "Key": "Monster_XP_Minion01_04_Config",
+        "Name": {
+            "CH": "惊梦剧团的舞鸫假面",
+            "EN": "Dreamjolt Troupe's Spring Loader"
+        },
+        "Desc": {
+            "CH": "匹诺康尼之梦中的服务器械，伴随梦境的异变陷入失控。<br>本是剧场中的演出道具，失控后仍在演绎台上的闹剧，将混乱的舞步带往各处。",
+            "EN": "Service machinery from Penacony's dream that got out of control due to the abnormal changes in the Dreamscape. Originally a prop in the theater, it is still performing the farce on the stage after losing control, bringing cacophonic dance steps to every direction."
+        },
+        "Stats": {
+            "HP": 1.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 83.0,
+            "Stance": 1.0
+        },
+        "Weak": [
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300102001
+                ]
+            }
+        ],
+        "Camp": 10,
+        "Icon": "MonsterIcon/Monster_3001020.png",
+        "New": true
+    },
+    {
+        "_id": 300102001,
+        "Key": "Monster_XP_Minion01_04_Config",
+        "Name": {
+            "CH": "柯柯娜的诚实",
+            "EN": "Cocona's Honesty"
+        },
+        "Desc": {
+            "CH": "诚实之心，曾相信只要以诚对人他人便会以诚待己。",
+            "EN": "A soul of honesty. She once believed that as long as she is honest with others, they will be honest with her, too."
+        },
+        "Stats": {
+            "HP": 1.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 83.0,
+            "Stance": 1.0
+        },
+        "Weak": [
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300102001
+                ]
+            }
+        ],
+        "Camp": 10,
+        "Icon": "MonsterIcon/Monster_3001020.png"
+    },
+    {
+        "_id": 3002010,
+        "Key": "Monster_W3_TV_00_Config",
+        "Name": {
+            "CH": "惊梦剧团的圆幕先生",
+            "EN": "Dreamjolt Troupe's Mr. Domescreen"
+        },
+        "Desc": {
+            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是电视节目中的娱乐演员，失控后仍在演绎自己多变的身份，为观众带来惊喜或是惊吓。",
+            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally an entertainer in TV shows, it is still portraying its ever-changing roles after losing control and continues to bring surprises or scares to the audience."
+        },
+        "Stats": {
+            "HP": 2.75,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Ice",
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300201001,
+                    300201002,
+                    300201003,
+                    300201004
+                ]
+            }
+        ],
+        "Camp": 10,
+        "Icon": "MonsterIcon/Monster_3002010.png",
+        "New": true
+    },
+    {
+        "_id": 300201001,
+        "Key": "Monster_W3_TV_00_Config",
+        "Name": {
+            "CH": "惊梦剧团的圆幕先生（投影）",
+            "EN": "Dreamjolt Troupe's Mr. Domescreen (Projection)"
+        },
+        "Desc": {
+            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是电视节目中的娱乐演员，失控后仍在演绎自己多变的身份，为观众带来惊喜或是惊吓。",
+            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally an entertainer in TV shows, it is still portraying its ever-changing roles after losing control and continues to bring surprises or scares to the audience."
+        },
+        "Stats": {
+            "HP": 50.0,
+            "ATK": 5.9999400000000005,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "Stance": 47.0
+        },
+        "Weak": [
+            "Ice",
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "DebuffRES": {
+            "CTRL": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300201001,
+                    300201002,
+                    300201003,
+                    300201004
+                ]
+            }
+        ],
+        "Camp": 10,
+        "Icon": "MonsterIcon/Monster_3002010.png"
+    },
+    {
+        "_id": 300201002,
+        "Key": "Monster_W3_TV_00_Config",
+        "Name": {
+            "CH": "惊梦剧团的圆幕先生（投影）",
+            "EN": "Dreamjolt Troupe's Mr. Domescreen (Projection)"
+        },
+        "Desc": {
+            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是电视节目中的娱乐演员，失控后仍在演绎自己多变的身份，为观众带来惊喜或是惊吓。",
+            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally an entertainer in TV shows, it is still portraying its ever-changing roles after losing control and continues to bring surprises or scares to the audience."
+        },
+        "Stats": {
+            "HP": 50.0,
+            "ATK": 5.9999400000000005,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "Stance": 47.0
+        },
+        "Weak": [
+            "Ice",
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "DebuffRES": {
+            "CTRL": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300201001,
+                    300201002,
+                    300201003,
+                    300201004
+                ]
+            }
+        ],
+        "Camp": 10,
+        "Icon": "MonsterIcon/Monster_3002010.png"
+    },
+    {
+        "_id": 300201003,
+        "Key": "Monster_W3_TV_00_Config",
+        "Name": {
+            "CH": "柯柯娜的纯真",
+            "EN": "Cocona's Purity"
+        },
+        "Desc": {
+            "CH": "纯真之心，曾相信这世界无论有多少苦难，结局终是美好的。",
+            "EN": "A kind heart that once believed that no matter how much suffering was in this world, the ending would always be a happy one."
+        },
+        "Stats": {
+            "HP": 2.75,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Ice",
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300201001,
+                    300201002,
+                    300201003,
+                    300201004
+                ]
+            }
+        ],
+        "Camp": 10,
+        "Icon": "MonsterIcon/Monster_3002010.png"
+    },
+    {
+        "_id": 3002030,
+        "Key": "Monster_W2_Beast01_03_Config",
+        "Name": {
+            "CH": "惊梦剧团的气泡锂犬",
+            "EN": "Dreamjolt Troupe's Bubble Hound"
+        },
+        "Desc": {
+            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是「苏乐达」汽水的派送员，失控后仍在挥洒甜蜜，让所有人都来品尝美味的饮品。",
+            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a delivery robot of SoulGlad, it is still dispensing sweetness after losing control, inviting everyone to taste this delicacy."
+        },
+        "Stats": {
+            "HP": 2.25,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Phys",
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300203001,
+                    300203002,
+                    300203003
+                ]
+            }
+        ],
+        "Camp": 10,
+        "Icon": "MonsterIcon/Monster_3002030.png",
+        "New": true
+    },
+    {
+        "_id": 300203001,
+        "Key": "Monster_W2_Beast01_03_Config",
+        "Name": {
+            "CH": "惊梦剧团的气泡锂犬",
+            "EN": "Dreamjolt Troupe's Bubble Hound"
+        },
+        "Desc": {
+            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是「苏乐达」汽水的派送员，失控后仍在挥洒甜蜜，让所有人都来品尝美味的饮品。",
+            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a delivery robot of SoulGlad, it is still dispensing sweetness after losing control, inviting everyone to taste this delicacy."
+        },
+        "Stats": {
+            "HP": 2.25,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Phys",
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300203001,
+                    300203002,
+                    300203003
+                ]
+            }
+        ],
+        "Camp": 10,
+        "Icon": "MonsterIcon/Monster_3002030.png"
+    },
+    {
+        "_id": 300203002,
+        "Key": "Monster_W2_Beast01_03_Config",
+        "Name": {
+            "CH": "柯柯娜的原则",
+            "EN": "Cocona's Principles"
+        },
+        "Desc": {
+            "CH": "坚定之心，曾相信总有些底线不能被逾越。",
+            "EN": "A firm heart that once believed there were lines that could not be crossed."
+        },
+        "Stats": {
+            "HP": 2.25,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Phys",
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300203001,
+                    300203002,
+                    300203003
+                ]
+            }
+        ],
+        "Camp": 10,
+        "Icon": "MonsterIcon/Monster_3002030.png"
+    },
+    {
+        "_id": 3002050,
+        "Key": "Monster_W3_Junk_00_Config",
+        "Name": {
+            "CH": "王下一桶",
+            "EN": "Lordly Trashcan"
+        },
+        "Desc": {
+            "CH": "于虚构中诞生的古怪之物，它的故事记录于无名的史书：孤高悍勇的一桶承载着垃圾之王的使命，寻觅强而有力的战士，扫除危害世间的废料。",
+            "EN": "A peculiar entity born within the realm of fiction, its story documented in the nameless chronicles: a lone and valiant trashcan bearing the mission of the Garbage King to seek formidable warriors to eliminate wastes that threaten the world."
+        },
+        "Stats": {
+            "HP": 50.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 10.0
+        },
+        "Weak": [],
+        "RESBase": {},
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300205001,
+                    300205002,
+                    300205003
+                ]
+            }
+        ],
+        "Camp": 7,
+        "Icon": "MonsterIcon/Monster_3002050.png"
+    },
+    {
+        "_id": 300205002,
+        "Key": "Monster_W3_Junk_00_Config",
+        "Name": {
+            "CH": "柯柯娜的诚实",
+            "EN": "Cocona's Honesty"
+        },
+        "Desc": {
+            "CH": "诚实之心，曾相信只要以诚对人他人便会以诚待己。",
+            "EN": "An honest heart that once believed that sincerity given would be sincerity returned."
+        },
+        "Stats": {
+            "HP": 2.25,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "Stance": -7.0
+        },
+        "Weak": [],
+        "RESBase": {},
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300205001,
+                    300205002,
+                    300205003
+                ]
+            }
+        ],
+        "Camp": 7,
+        "Icon": "MonsterIcon/Monster_3002050.png"
+    },
+    {
+        "_id": 3002051,
+        "Key": "Monster_W3_Junk_00_Config_ActivityTelevision",
+        "Name": {
+            "CH": "王下一桶（投影）",
+            "EN": "Lordly Trashcan (Projection)"
+        },
+        "Desc": {
+            "CH": "于虚构中诞生的古怪之物，它的故事记录于无名的史书：孤高悍勇的一桶承载着垃圾之王的使命，寻觅强而有力的战士，扫除危害世间的废料。",
+            "EN": "A peculiar entity born within the realm of fiction, its story documented in the nameless chronicles: a lone and valiant trashcan bearing the mission of the Garbage King to seek formidable warriors to eliminate wastes that threaten the world."
+        },
+        "Stats": {
+            "HP": 100.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 12.0
+        },
+        "Weak": [],
+        "RESBase": {},
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300205101,
+                    300205102,
+                    300205103
+                ]
+            }
+        ],
+        "Camp": 7,
+        "Icon": "MonsterIcon/Monster_3002050.png"
+    },
+    {
+        "_id": 3002089,
+        "Key": "Monster_W2_Beast01_03_Config",
+        "Name": {
+            "CH": "test_可乐狗",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "",
+            "EN": ""
+        },
+        "Stats": {
+            "HP": 2.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Wind",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300208901,
+                    300208902
+                ]
+            }
+        ],
+        "Camp": 0,
+        "Icon": "MonsterIcon/Monster_2022040.png"
+    },
+    {
+        "_id": 3003010,
+        "Key": "Monster_W3_Dinosaur_00_Config",
+        "Name": {
+            "CH": "惊梦剧团的十七分熟",
+            "EN": "Dreamjolt Troupe's Beyond Overcooked"
+        },
+        "Desc": {
+            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是烹饪食物的料理机器，失控后仍在喷吐炙烤食材的烈焰，企图将食客一同烧成焦炭。",
+            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a culinary robot, it is still breathing fire for grilling ingredients after losing control, intending to burn the diners to crisps."
+        },
+        "Stats": {
+            "HP": 18.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 16.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300301001,
+                    300301002,
+                    300301003,
+                    300301004,
+                    300301005,
+                    300301006,
+                    300301007
+                ]
+            }
+        ],
+        "Camp": 10,
+        "Icon": "MonsterIcon/Monster_3003010.png",
+        "New": true
+    },
+    {
+        "_id": 3003011,
+        "Key": "Monster_W3_Dinosaur_00_Config_ActivityTelevision",
+        "Name": {
+            "CH": "惊梦剧团的十七分熟（投影）",
+            "EN": "Terrors Theatrical Troupe's Beyond Overcooked"
+        },
+        "Desc": {
+            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是烹饪食物的料理机器，失控后仍在喷吐炙烤食材的烈焰，企图将食客一同烧成焦炭。",
+            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a culinary robot, it is still breathing fire for grilling ingredients after losing control, intending to burn the diners to crisps."
+        },
+        "Stats": {
+            "HP": 125.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 24.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {},
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300301101,
+                    300301102,
+                    300301103,
+                    300301104,
+                    300301105,
+                    300301106,
+                    300301107
+                ]
+            }
+        ],
+        "Camp": 10,
+        "Icon": "MonsterIcon/Monster_3003010.png",
+        "New": true
+    },
+    {
+        "_id": 300301101,
+        "Key": "Monster_W3_Dinosaur_00_Config_ActivityTelevision",
+        "Name": {
+            "CH": "惊梦剧团的十七分熟（投影）",
+            "EN": "Terrors Theatrical Troupe's Beyond Overcooked"
+        },
+        "Desc": {
+            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是烹饪食物的料理机器，失控后仍在喷吐炙烤食材的烈焰，企图将食客一同烧成焦炭。",
+            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a culinary robot, it is still breathing fire for grilling ingredients after losing control, intending to burn the diners to crisps."
+        },
+        "Stats": {
+            "HP": 7.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 24.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {},
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300301101,
+                    300301102,
+                    300301103,
+                    300301104,
+                    300301105,
+                    300301106,
+                    300301107
+                ]
+            }
+        ],
+        "Camp": 10,
+        "Icon": "MonsterIcon/Monster_3003010.png"
+    },
+    {
+        "_id": 3003020,
+        "Key": "Monster_W2_Beast02_01_Config",
+        "Name": {
+            "CH": "惊梦剧团的甜猿泰山",
+            "EN": "Dreamjolt Troupe's Sweet Gorilla"
+        },
+        "Desc": {
+            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是苏乐达汽水的运输工，失控后仍在分享背负的美味，向路过的宾客抛掷它的礼物。",
+            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a transport robot of SoulGlad, it is still carrying the burden of the delicacy after losing control while launching its gift to guests passing by."
+        },
+        "Stats": {
+            "HP": 18.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 10.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300302001,
+                    300302002,
+                    300302003,
+                    300302004
+                ]
+            }
+        ],
+        "Camp": 10,
+        "Icon": "MonsterIcon/Monster_3003020.png",
+        "New": true
+    },
+    {
+        "_id": 300302001,
+        "Key": "Monster_W2_Beast02_01_Config",
+        "Name": {
+            "CH": "惊梦剧团的甜猿泰山",
+            "EN": "Dreamjolt Troupe's Sweet Gorilla"
+        },
+        "Desc": {
+            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是苏乐达汽水的运输工，失控后仍在分享背负的美味，向路过的宾客抛掷它的礼物。",
+            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a transport robot of SoulGlad, it is still carrying the burden of the delicacy after losing control while launching its gift to guests passing by."
+        },
+        "Stats": {
+            "HP": 18.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 10.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300302001,
+                    300302002,
+                    300302003,
+                    300302004
+                ]
+            }
+        ],
+        "Camp": 10,
+        "Icon": "MonsterIcon/Monster_3003020.png"
+    },
+    {
+        "_id": 3003021,
+        "Key": "Monster_W2_Beast02_01_Config_ActivityTelevision",
+        "Name": {
+            "CH": "惊梦剧团的甜猿泰山（投影）",
+            "EN": "Terrors Theatrical Troupe's Sweet Gorilla"
+        },
+        "Desc": {
+            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是苏乐达汽水的运输工，失控后仍在分享背负的美味，向路过的宾客抛掷它的礼物。",
+            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a transport robot of SoulGlad, it is still carrying the burden of the delicacy after losing control while launching its gift to guests passing by."
+        },
+        "Stats": {
+            "HP": 150.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 10.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "CTRL": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300302101,
+                    300302102,
+                    300302104
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    300302103
+                ]
+            }
+        ],
+        "Camp": 10,
+        "Icon": "MonsterIcon/Monster_3003020.png",
+        "New": true
+    },
+    {
+        "_id": 3011010,
+        "Key": "Monster_AML_Minion01_02_Config",
+        "Name": {
+            "CH": "忆域迷因「视线无处不在」",
+            "EN": "Memory Zone Meme \"Allseer\""
+        },
+        "Desc": {
+            "CH": "蕴含特定记忆的实体，由忆域中的认知碎片堆积而成。<br>陌生之人的注目、冰冷无情的目光、充斥敌意的眼神…被凝视的惶恐化作模因生命，传播着危险的视线。",
+            "EN": "A physical entity containing a specific memory. A conglomerate made of the compiled cognition fragments in the Memory Zone. Glances from strangers, cold and emotionless gazes, stares full of enmity... The panic of being on the receiving end of a look turned into a memetic entity, spreading its dangerous glare everywhere it goes."
+        },
+        "Stats": {
+            "HP": 1.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 1.0
+        },
+        "Weak": [
+            "Ice",
+            "Elec"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    301101001
+                ]
+            }
+        ],
+        "Camp": 11,
+        "Icon": "MonsterIcon/Monster_3011010.png",
+        "New": true
+    },
+    {
+        "_id": 3012020,
+        "Key": "Monster_W3_Clock_01_Config",
+        "Name": {
+            "CH": "忆域迷因「我心支离破碎」",
+            "EN": "Memory Zone Meme \"Heartbreaker\""
+        },
+        "Desc": {
+            "CH": "蕴含特定认知的实体，由忆域中的潜意识碎片堆积而成。<br>坚不可摧的障壁包裹起生命，阻拦异己。但在那坚硬的躯壳下，却是脆弱不堪的无名地带。",
+            "EN": "An entity that bears certain cognitions formed from an accurement of subconscious fragments in the Memory Zone.<br>Life is parceled in impenetrable barriers, obstructing the intrusion of the alien. But beneath that ironclad shell, there is a regoin both nameless and fragile."
+        },
+        "Stats": {
+            "HP": 1.4,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Elec"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    301202001,
+                    301202002
+                ]
+            }
+        ],
+        "Camp": 11,
+        "Icon": "MonsterIcon/Monster_3012020.png",
+        "New": true
+    },
+    {
+        "_id": 3012030,
+        "Key": "Monster_W3_DeathPart_00_Config",
+        "Name": {
+            "CH": "永眠墓碣",
+            "EN": "Tomb of Eternal Slumber"
+        },
+        "Desc": {
+            "CH": "破碎的生命聚作终焉的符号，彼岸的灵魂仍在凝望此岸，眼中倒映忘却与离别的碑文。<br>无辜的灵魂在永眠墓碣中沉睡，消灭永眠墓碣可以唤醒他们。",
+            "EN": "Shattered existences serve as symbols of ultimate closure. Across the ethereal expanse, spirits cast their gaze upon the mortal realm, their eyes reflecting the etchings of oblivion and separation.<br>Innocent souls slumber within the Tomb of Eternal Slumber. Break the tombstone to awaken them."
+        },
+        "Stats": {
+            "HP": 2.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 200.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Fire",
+            "Wind",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "DebuffRES": {
+            "Frozen": 1.0,
+            "Entangle": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    301203001,
+                    301203003
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    301203002
+                ]
+            }
+        ],
+        "Camp": 0,
+        "Icon": "MonsterIcon/Monster_3012030.png",
+        "New": true
+    },
+    {
+        "_id": 3012031,
+        "Key": "Monster_W3_DeathPart_00_Config_Main2",
+        "Name": {
+            "CH": "永眠墓碣",
+            "EN": "Tomb of Eternal Slumber"
+        },
+        "Desc": {
+            "CH": "破碎的生命聚作终焉的符号，彼岸的灵魂仍在凝望此岸，眼中倒映忘却与离别的碑文。<br>无辜的灵魂在永眠墓碣中沉睡，消灭永眠墓碣可以唤醒他们。",
+            "EN": "Shattered existences serve as symbols of ultimate closure. Across the ethereal expanse, spirits cast their gaze upon the mortal realm, their eyes reflecting the etchings of oblivion and separation.<br>Innocent souls slumber within the Tomb of Eternal Slumber. Break the tombstone to awaken them."
+        },
+        "Stats": {
+            "HP": 2.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 200.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Fire",
+            "Wind",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "DebuffRES": {
+            "Frozen": 1.0,
+            "Entangle": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    301203101,
+                    301203103
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    301203102
+                ]
+            }
+        ],
+        "Camp": 0,
+        "Icon": "MonsterIcon/Monster_3012030.png",
+        "New": true
+    },
+    {
+        "_id": 3014020,
+        "Key": "Monster_W3_Death_00_Config",
+        "Name": {
+            "CH": "忆域迷因「何物朝向死亡」",
+            "EN": "Memory Zone Meme \"Something Unto Death\""
+        },
+        "Desc": {
+            "CH": "蕴含特定认知的实体，由忆域中的潜意识碎片堆积而成。<br>神秘危险的忆域迷因，被视作梦中不应存在的「死亡」。它的邪影游荡于十二时分，所及之处必有不测之祸，以利刃散布噩耗，以死荫笼罩美梦。",
+            "EN": "Entity imbued with specific cognition, accumulated from fragments of the subconscious in the Memory Zone.<br>A mysterious and dangerous Memory Zone Meme, seen as the \"death\" that shouldn't exist in dreams. Its sinister shadow wanders within the Twelve Hours, bringing unforeseen calamity wherever it goes. It spreads misfortune like a sharp blade, casting a shadow of death over beautiful dreams."
+        },
+        "Stats": {
+            "HP": 22.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 24.0
+        },
+        "Weak": [
+            "Fire",
+            "Wind",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.5,
+            "Entangle": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    301402001,
+                    301402002,
+                    301402003,
+                    301402004,
+                    301402005,
+                    301402009
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    301402001,
+                    301402002,
+                    301402003,
+                    301402006,
+                    301402007,
+                    301402009
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    301402008
+                ]
+            }
+        ],
+        "Camp": 11,
+        "Icon": "MonsterIcon/Monster_3014020.png",
+        "New": true
+    },
+    {
+        "_id": 301402001,
+        "Key": "Monster_W3_Death_00_Config",
+        "Name": {
+            "CH": "忆域迷因「何物朝向死亡」",
+            "EN": "Memory Zone Meme \"Something Unto Death\""
+        },
+        "Desc": {
+            "CH": "蕴含特定认知的实体，由忆域中的潜意识碎片堆积而成。<br>神秘危险的忆域迷因，被视作梦中不应存在的「死亡」。它的邪影游荡于十二时分，所及之处必有不测之祸，以利刃散布噩耗，以死荫笼罩美梦。",
+            "EN": "Entity imbued with specific cognition, accumulated from fragments of the subconscious in the Memory Zone.<br>A mysterious and dangerous Memory Zone Meme, seen as the \"death\" that shouldn't exist in dreams. Its sinister shadow wanders within the Twelve Hours, bringing unforeseen calamity wherever it goes. It spreads misfortune like a sharp blade, casting a shadow of death over beautiful dreams."
+        },
+        "Stats": {
+            "HP": 20.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 24.0
+        },
+        "Weak": [
+            "Fire",
+            "Wind",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.5,
+            "Entangle": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    301402001,
+                    301402002,
+                    301402003,
+                    301402004,
+                    301402005,
+                    301402009
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    301402001,
+                    301402002,
+                    301402003,
+                    301402006,
+                    301402007,
+                    301402009
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    301402008
+                ]
+            }
+        ],
+        "Camp": 11,
+        "Icon": "MonsterIcon/Monster_3014020.png"
+    },
+    {
+        "_id": 301402002,
+        "Key": "Monster_W3_Death_00_Config",
+        "Name": {
+            "CH": "忆域迷因「何物朝向死亡」",
+            "EN": "Memory Zone Meme \"Something Unto Death\""
+        },
+        "Desc": {
+            "CH": "蕴含特定认知的实体，由忆域中的潜意识碎片堆积而成。<br>神秘危险的忆域迷因，被视作梦中不应存在的「死亡」。它的邪影游荡于十二时分，所及之处必有不测之祸，以利刃散布噩耗，以死荫笼罩美梦。",
+            "EN": "Entity imbued with specific cognition, accumulated from fragments of the subconscious in the Memory Zone.<br>A mysterious and dangerous Memory Zone Meme, seen as the \"death\" that shouldn't exist in dreams. Its sinister shadow wanders within the Twelve Hours, bringing unforeseen calamity wherever it goes. It spreads misfortune like a sharp blade, casting a shadow of death over beautiful dreams."
+        },
+        "Stats": {
+            "HP": 25.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 24.0
+        },
+        "Weak": [
+            "Fire",
+            "Wind",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.5,
+            "Entangle": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    301402001,
+                    301402002,
+                    301402003,
+                    301402004,
+                    301402005,
+                    301402009
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    301402001,
+                    301402002,
+                    301402003,
+                    301402006,
+                    301402007,
+                    301402009
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    301402008
+                ]
+            }
+        ],
+        "Camp": 11,
+        "Icon": "MonsterIcon/Monster_3014020.png"
+    },
+    {
+        "_id": 301402003,
+        "Key": "Monster_W3_Death_00_Config",
+        "Name": {
+            "CH": "忆域迷因「何物朝向死亡」",
+            "EN": "Memory Zone Meme \"Something Unto Death\""
+        },
+        "Desc": {
+            "CH": "蕴含特定认知的实体，由忆域中的潜意识碎片堆积而成。<br>神秘危险的忆域迷因，被视作梦中不应存在的「死亡」。它的邪影游荡于十二时分，所及之处必有不测之祸，以利刃散布噩耗，以死荫笼罩美梦。",
+            "EN": "Entity imbued with specific cognition, accumulated from fragments of the subconscious in the Memory Zone.<br>A mysterious and dangerous Memory Zone Meme, seen as the \"death\" that shouldn't exist in dreams. Its sinister shadow wanders within the Twelve Hours, bringing unforeseen calamity wherever it goes. It spreads misfortune like a sharp blade, casting a shadow of death over beautiful dreams."
+        },
+        "Stats": {
+            "HP": 22.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 24.0
+        },
+        "Weak": [
+            "Fire",
+            "Wind",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.5,
+            "Entangle": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    301402001,
+                    301402002,
+                    301402003,
+                    301402004,
+                    301402005,
+                    301402009
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    301402001,
+                    301402002,
+                    301402003,
+                    301402006,
+                    301402007,
+                    301402009
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    301402008
+                ]
+            }
+        ],
+        "Camp": 11,
+        "Icon": "MonsterIcon/Monster_3014020.png"
+    },
+    {
+        "_id": 3014021,
+        "Key": "Monster_W3_Death_00_Config",
+        "Name": {
+            "CH": "忆域迷因「何物朝向死亡」（投影）",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "蕴含特定认知的实体，由忆域中的潜意识碎片堆积而成。<br>神秘危险的忆域迷因，被视作梦中不应存在的「死亡」。它的邪影游荡于十二时分，所及之处必有不测之祸，以利刃散布噩耗，以死荫笼罩美梦。",
+            "EN": "Entity imbued with specific cognition, accumulated from fragments of the subconscious in the Memory Zone.<br>A mysterious and dangerous Memory Zone Meme, seen as the \"death\" that shouldn't exist in dreams. Its sinister shadow wanders within the Twelve Hours, bringing unforeseen calamity wherever it goes. It spreads misfortune like a sharp blade, casting a shadow of death over beautiful dreams."
+        },
+        "Stats": {
+            "HP": 22.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 24.0
+        },
+        "Weak": [
+            "Fire",
+            "Wind",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.5,
+            "Entangle": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    301402101,
+                    301402102,
+                    301402103,
+                    301402104,
+                    301402105,
+                    301402109
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    301402101,
+                    301402102,
+                    301402103,
+                    301402106,
+                    301402107,
+                    301402109
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    301402108
+                ]
+            }
+        ],
+        "Camp": 11,
+        "Icon": "MonsterIcon/Monster_3014020.png",
+        "New": true
+    },
+    {
         "_id": 3021020,
         "Key": "Monster_W2_ArgentiTotem_01_Config",
         "Name": {
@@ -22715,7 +26099,10 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3021020.png"
+        "Icon": "MonsterIcon/Monster_3021020.png",
+        "Status": [
+            230240102
+        ]
     },
     {
         "_id": 3021021,
@@ -22725,8 +26112,8 @@ var _monster = [
             "EN": "\"The Honored\""
         },
         "Desc": {
-            "CH": "test_「授勋」的雕塑：传言曾有一朵被女神亲吻过的玫瑰，它的美永不凋零。",
-            "EN": ""
+            "CH": "「授勋」的雕塑：传言曾有一朵被女神亲吻过的玫瑰，它的美永不凋零。",
+            "EN": "A statue of \"The Honored.\" Legend has it that there was once a rose kissed by the goddess, imbuing it with everlasting appeal."
         },
         "Stats": {
             "HP": 6.25,
@@ -22757,8 +26144,7 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3021020.png",
-        "New": true
+        "Icon": "MonsterIcon/Monster_3021020.png"
     },
     {
         "_id": 3021030,
@@ -22810,8 +26196,8 @@ var _monster = [
             "EN": "\"Speartip\""
         },
         "Desc": {
-            "CH": "test_「枪」的雕塑；萦绕着纯美灵魂，枪与盾相依，枪是击破黯淡的勇气。",
-            "EN": ""
+            "CH": "「枪」的雕塑；萦绕着纯美灵魂，枪与盾相依，枪是击破黯淡的勇气。",
+            "EN": "A statue of \"The Spear.\" Encircling the Soul of the Beauty, the Spear and Shield are interdependent, and the Spear stands for the courage to pierce through the darkness."
         },
         "Stats": {
             "HP": 3.6,
@@ -22842,8 +26228,7 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3021030.png",
-        "New": true
+        "Icon": "MonsterIcon/Monster_3021030.png"
     },
     {
         "_id": 3021040,
@@ -22885,7 +26270,10 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3021040.png"
+        "Icon": "MonsterIcon/Monster_3021040.png",
+        "Status": [
+            220230203
+        ]
     },
     {
         "_id": 3021041,
@@ -22895,8 +26283,8 @@ var _monster = [
             "EN": "\"The Shield\""
         },
         "Desc": {
-            "CH": "test_「盾」的雕塑；萦绕着纯美灵魂，枪与盾相依，盾是捍卫生灵的决心。",
-            "EN": ""
+            "CH": "「盾」的雕塑；萦绕着纯美灵魂，枪与盾相依，盾是捍卫生灵的决心。",
+            "EN": "A statue of \"The Shield.\" Encircling the Soul of the Beauty, the Spear and Shield are interdependent, and the Shield stands for the determination to defend the living."
         },
         "Stats": {
             "HP": 4.5,
@@ -22927,8 +26315,7 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3021040.png",
-        "New": true
+        "Icon": "MonsterIcon/Monster_3021040.png"
     },
     {
         "_id": 3024010,
@@ -22993,7 +26380,10 @@ var _monster = [
             }
         ],
         "Camp": 7,
-        "Icon": "MonsterIcon/Monster_3024010.png"
+        "Icon": "MonsterIcon/Monster_3024010.png",
+        "Status": [
+            230240101
+        ]
     },
     {
         "_id": 302401001,
@@ -23058,7 +26448,10 @@ var _monster = [
             }
         ],
         "Camp": 7,
-        "Icon": "MonsterIcon/Monster_3024010.png"
+        "Icon": "MonsterIcon/Monster_3024010.png",
+        "Status": [
+            230240101
+        ]
     },
     {
         "_id": 302401002,
@@ -23123,7 +26516,10 @@ var _monster = [
             }
         ],
         "Camp": 7,
-        "Icon": "MonsterIcon/Monster_3024010.png"
+        "Icon": "MonsterIcon/Monster_3024010.png",
+        "Status": [
+            230240101
+        ]
     },
     {
         "_id": 302401003,
@@ -23188,7 +26584,10 @@ var _monster = [
             }
         ],
         "Camp": 7,
-        "Icon": "MonsterIcon/Monster_3024010.png"
+        "Icon": "MonsterIcon/Monster_3024010.png",
+        "Status": [
+            230240101
+        ]
     },
     {
         "_id": 3024011,
@@ -23241,7 +26640,8 @@ var _monster = [
                     302401102,
                     302401103,
                     302401104,
-                    302401105
+                    302401105,
+                    302401110
                 ]
             },
             {
@@ -23263,8 +26663,7 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3024010.png",
-        "New": true
+        "Icon": "MonsterIcon/Monster_3024010.png"
     },
     {
         "_id": 3024012,
@@ -23318,7 +26717,157 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3024010.png",
+        "Icon": "MonsterIcon/Monster_3024010.png"
+    },
+    {
+        "_id": 3024020,
+        "Key": "Monster_W3_Sam_00_Config",
+        "Name": {
+            "CH": "「星核猎手」萨姆",
+            "EN": "Stellaron Hunter Sam"
+        },
+        "Desc": {
+            "CH": "星核猎手的一员，身着沉重装甲的神秘战士。他的铁甲能够释放炽焰，点燃战场，发动烈火般的攻势。",
+            "EN": "One of the Stellaron Hunters, a mysterious warrior donning formidable armor.<br>His mecha suit possesses the power to unleash fiery attacks, engulfing the battlefield in flames."
+        },
+        "Stats": {
+            "HP": 48.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 14.0
+        },
+        "Weak": [
+            "Ice",
+            "Elec",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302402001,
+                    302402002,
+                    302402003,
+                    302402004,
+                    302402005,
+                    302402006,
+                    302402007
+                ]
+            }
+        ],
+        "Camp": 5,
+        "Icon": "MonsterIcon/Monster_3024020.png",
+        "New": true
+    },
+    {
+        "_id": 302402001,
+        "Key": "Monster_W3_Sam_00_Config",
+        "Name": {
+            "CH": "「星核猎手」萨姆",
+            "EN": "Stellaron Hunter Sam"
+        },
+        "Desc": {
+            "CH": "星核猎手的一员，身着沉重装甲的神秘战士。他的铁甲能够释放炽焰，点燃战场，发动烈火般的攻势。",
+            "EN": "One of the Stellaron Hunters, a mysterious warrior donning formidable armor.<br>His mecha suit possesses the power to unleash fiery attacks, engulfing the battlefield in flames."
+        },
+        "Stats": {
+            "HP": 51.55536,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 14.0
+        },
+        "Weak": [
+            "Ice",
+            "Elec",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302402001,
+                    302402002,
+                    302402003,
+                    302402004,
+                    302402005,
+                    302402006
+                ]
+            }
+        ],
+        "Camp": 5,
+        "Icon": "MonsterIcon/Monster_3024020.png"
+    },
+    {
+        "_id": 3024021,
+        "Key": "Monster_W3_Sam_00_Config_Main",
+        "Name": {
+            "CH": "「星核猎手」萨姆",
+            "EN": "Stellaron Hunter Sam"
+        },
+        "Desc": {
+            "CH": "星核猎手的一员，身着沉重装甲的神秘战士。他的铁甲能够释放炽焰，点燃战场，发动烈火般的攻势。",
+            "EN": "One of the Stellaron Hunters, a mysterious warrior donning formidable armor.<br>His mecha suit possesses the power to unleash fiery attacks, engulfing the battlefield in flames."
+        },
+        "Stats": {
+            "HP": 60.0,
+            "ATK": 14.99994,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 14.0
+        },
+        "Weak": [
+            "Ice",
+            "Elec",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302402101,
+                    302402102,
+                    302402103,
+                    302402104,
+                    302402105,
+                    302402106,
+                    302402107
+                ]
+            }
+        ],
+        "Camp": 0,
+        "Icon": "MonsterIcon/Monster_3024020.png",
         "New": true
     },
     {
@@ -23743,11 +27292,11 @@ var _monster = [
         "_id": 7002040,
         "Key": "Monster_AetherDivide_W1_Mecha02_00_Config",
         "Name": {
-            "CH": "dev_摩托车",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_以旧世界遗留的科技拼凑制造的自动机器单元，形如某种载具，然而人们似乎早就忘却了它载具的用途。",
+            "CH": "",
             "EN": ""
         },
         "Stats": {
@@ -24568,11 +28117,11 @@ var _monster = [
         "_id": 7003050,
         "Key": "Monster_AetherDivide_XP_Elite02_01_Config",
         "Name": {
-            "CH": "dev_蚕食者之影",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。然而驱动它的这股欲望早已扭曲，模糊不清。",
+            "CH": "",
             "EN": ""
         },
         "Stats": {
@@ -26408,7 +29957,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8001030.png"
+        "Icon": "MonsterIcon/Monster_8001030.png",
+        "Status": [
+            280010301
+        ]
     },
     {
         "_id": 800103001,
@@ -26454,7 +30006,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8001030.png"
+        "Icon": "MonsterIcon/Monster_8001030.png",
+        "Status": [
+            280010301
+        ]
     },
     {
         "_id": 800103002,
@@ -26500,7 +30055,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8001030.png"
+        "Icon": "MonsterIcon/Monster_8001030.png",
+        "Status": [
+            280010301
+        ]
     },
     {
         "_id": 800103003,
@@ -26543,7 +30101,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8001030.png"
+        "Icon": "MonsterIcon/Monster_8001030.png",
+        "Status": [
+            280010301
+        ]
     },
     {
         "_id": 800103004,
@@ -26586,7 +30147,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8001030.png"
+        "Icon": "MonsterIcon/Monster_8001030.png",
+        "Status": [
+            280010301
+        ]
     },
     {
         "_id": 8001040,
@@ -26630,7 +30194,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8001040.png"
+        "Icon": "MonsterIcon/Monster_8001040.png",
+        "Status": [
+            30020004
+        ]
     },
     {
         "_id": 800104001,
@@ -26677,7 +30244,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8001040.png"
+        "Icon": "MonsterIcon/Monster_8001040.png",
+        "Status": [
+            30020004
+        ]
     },
     {
         "_id": 800104002,
@@ -26724,7 +30294,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8001040.png"
+        "Icon": "MonsterIcon/Monster_8001040.png",
+        "Status": [
+            30020004
+        ]
     },
     {
         "_id": 800104003,
@@ -26768,7 +30341,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8001040.png"
+        "Icon": "MonsterIcon/Monster_8001040.png",
+        "Status": [
+            30020004
+        ]
     },
     {
         "_id": 8001050,
@@ -26812,7 +30388,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8001050.png"
+        "Icon": "MonsterIcon/Monster_8001050.png",
+        "Status": [
+            30020003
+        ]
     },
     {
         "_id": 800105001,
@@ -26859,7 +30438,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8001050.png"
+        "Icon": "MonsterIcon/Monster_8001050.png",
+        "Status": [
+            30020003
+        ]
     },
     {
         "_id": 800105002,
@@ -26906,7 +30488,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8001050.png"
+        "Icon": "MonsterIcon/Monster_8001050.png",
+        "Status": [
+            30020003
+        ]
     },
     {
         "_id": 800105003,
@@ -26950,7 +30535,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8001050.png"
+        "Icon": "MonsterIcon/Monster_8001050.png",
+        "Status": [
+            30020003
+        ]
     },
     {
         "_id": 800105004,
@@ -26994,7 +30582,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8001050.png"
+        "Icon": "MonsterIcon/Monster_8001050.png",
+        "Status": [
+            30020003
+        ]
     },
     {
         "_id": 8002010,
@@ -27043,7 +30634,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8002010.png"
+        "Icon": "MonsterIcon/Monster_8002010.png",
+        "Status": [
+            280020102
+        ]
     },
     {
         "_id": 800201001,
@@ -27092,7 +30686,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8002010.png"
+        "Icon": "MonsterIcon/Monster_8002010.png",
+        "Status": [
+            280020102
+        ]
     },
     {
         "_id": 800201002,
@@ -27141,7 +30738,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8002010.png"
+        "Icon": "MonsterIcon/Monster_8002010.png",
+        "Status": [
+            280020102
+        ]
     },
     {
         "_id": 800201003,
@@ -27192,7 +30792,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8002010.png"
+        "Icon": "MonsterIcon/Monster_8002010.png",
+        "Status": [
+            280020102
+        ]
     },
     {
         "_id": 800201004,
@@ -27243,7 +30846,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8002010.png"
+        "Icon": "MonsterIcon/Monster_8002010.png",
+        "Status": [
+            280020102
+        ]
     },
     {
         "_id": 800201005,
@@ -27295,7 +30901,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8002010.png"
+        "Icon": "MonsterIcon/Monster_8002010.png",
+        "Status": [
+            280020102
+        ]
     },
     {
         "_id": 800201006,
@@ -27344,7 +30953,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8002010.png"
+        "Icon": "MonsterIcon/Monster_8002010.png",
+        "Status": [
+            280020102
+        ]
     },
     {
         "_id": 800201007,
@@ -27393,7 +31005,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8002010.png"
+        "Icon": "MonsterIcon/Monster_8002010.png",
+        "Status": [
+            280020102
+        ]
     },
     {
         "_id": 800201008,
@@ -27442,7 +31057,10 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8002010.png"
+        "Icon": "MonsterIcon/Monster_8002010.png",
+        "Status": [
+            280020102
+        ]
     },
     {
         "_id": 800201009,
@@ -27494,7 +31112,62 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8002010.png"
+        "Icon": "MonsterIcon/Monster_8002010.png",
+        "Status": [
+            280020102
+        ]
+    },
+    {
+        "_id": 800201012,
+        "Key": "Monster_XP_Minion02_00_Config",
+        "Name": {
+            "CH": "虚数织叶者",
+            "EN": "Imaginary Weaver"
+        },
+        "Desc": {
+            "CH": "不属此世的怪异生命，自深黯星空的彼端，透过重重帷幕而来。其身躯犹如病态的枝叶探入现实中，使用虚数的力量肆意改造现实。",
+            "EN": "Strange beings that do not belong to this world. Passing through countless barriers, they arrive from the other side of the vast, dark, starry sky. Their bodies are like diseased branches breaching into reality, using Imaginary power to twist reality at will."
+        },
+        "Stats": {
+            "HP": 1.9,
+            "ATK": 10.00008,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Phys",
+            "Elec",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800201001,
+                    800201002,
+                    800201003
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    800201004
+                ]
+            }
+        ],
+        "Camp": 3,
+        "Icon": "MonsterIcon/Monster_8002010.png",
+        "Status": [
+            280020102
+        ]
     },
     {
         "_id": 8002040,
@@ -28680,6 +32353,374 @@ var _monster = [
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
     {
+        "_id": 800205020,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": {
+            "CH": "序列扑满",
+            "EN": "Sequence Trotter"
+        },
+        "Desc": {
+            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
+            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
+        },
+        "Stats": {
+            "HP": 4.4,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Fire",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Camp": 4,
+        "Icon": "MonsterIcon/Monster_8002050.png"
+    },
+    {
+        "_id": 800205021,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": {
+            "CH": "序列扑满",
+            "EN": "Sequence Trotter"
+        },
+        "Desc": {
+            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
+            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
+        },
+        "Stats": {
+            "HP": 4.4,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Phys",
+            "Elec"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Camp": 4,
+        "Icon": "MonsterIcon/Monster_8002050.png"
+    },
+    {
+        "_id": 800205022,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": {
+            "CH": "序列扑满",
+            "EN": "Sequence Trotter"
+        },
+        "Desc": {
+            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
+            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
+        },
+        "Stats": {
+            "HP": 4.4,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Camp": 4,
+        "Icon": "MonsterIcon/Monster_8002050.png"
+    },
+    {
+        "_id": 800205023,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": {
+            "CH": "序列扑满",
+            "EN": "Sequence Trotter"
+        },
+        "Desc": {
+            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
+            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
+        },
+        "Stats": {
+            "HP": 4.4,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Phys",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Camp": 4,
+        "Icon": "MonsterIcon/Monster_8002050.png"
+    },
+    {
+        "_id": 800205024,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": {
+            "CH": "序列扑满",
+            "EN": "Sequence Trotter"
+        },
+        "Desc": {
+            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
+            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
+        },
+        "Stats": {
+            "HP": 4.4,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Phys",
+            "Elec"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Camp": 4,
+        "Icon": "MonsterIcon/Monster_8002050.png"
+    },
+    {
+        "_id": 800205025,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": {
+            "CH": "序列扑满",
+            "EN": "Sequence Trotter"
+        },
+        "Desc": {
+            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
+            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
+        },
+        "Stats": {
+            "HP": 4.4,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Camp": 4,
+        "Icon": "MonsterIcon/Monster_8002050.png"
+    },
+    {
+        "_id": 800205026,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": {
+            "CH": "序列扑满",
+            "EN": "Sequence Trotter"
+        },
+        "Desc": {
+            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
+            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
+        },
+        "Stats": {
+            "HP": 4.4,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Camp": 4,
+        "Icon": "MonsterIcon/Monster_8002050.png"
+    },
+    {
+        "_id": 800205027,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": {
+            "CH": "序列扑满",
+            "EN": "Sequence Trotter"
+        },
+        "Desc": {
+            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
+            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
+        },
+        "Stats": {
+            "HP": 4.4,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Camp": 4,
+        "Icon": "MonsterIcon/Monster_8002050.png"
+    },
+    {
         "_id": 8002051,
         "Key": "Monster_XP_Minion04_05_Config",
         "Name": {
@@ -29108,7 +33149,10 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8002050.png"
+        "Icon": "MonsterIcon/Monster_8002050.png",
+        "Status": [
+            280020601
+        ]
     },
     {
         "_id": 8002061,
@@ -29196,7 +33240,10 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8002050.png"
+        "Icon": "MonsterIcon/Monster_8002050.png",
+        "Status": [
+            280020701
+        ]
     },
     {
         "_id": 8002071,
@@ -29284,7 +33331,10 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8002050.png"
+        "Icon": "MonsterIcon/Monster_8002050.png",
+        "Status": [
+            280020801
+        ]
     },
     {
         "_id": 8002081,
@@ -29331,7 +33381,10 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8002050.png"
+        "Icon": "MonsterIcon/Monster_8002050.png",
+        "Status": [
+            280020801
+        ]
     },
     {
         "_id": 800208101,
@@ -29378,7 +33431,10 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8002050.png"
+        "Icon": "MonsterIcon/Monster_8002050.png",
+        "Status": [
+            280020801
+        ]
     },
     {
         "_id": 8002082,
@@ -29689,7 +33745,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003010.png"
+        "Icon": "MonsterIcon/Monster_8003010.png",
+        "Status": [
+            30020012,
+            280030101
+        ]
     },
     {
         "_id": 800301001,
@@ -29744,7 +33804,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003010.png"
+        "Icon": "MonsterIcon/Monster_8003010.png",
+        "Status": [
+            30020012,
+            280030101
+        ]
     },
     {
         "_id": 800301002,
@@ -29798,7 +33862,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003010.png"
+        "Icon": "MonsterIcon/Monster_8003010.png",
+        "Status": [
+            30020012,
+            280030101
+        ]
     },
     {
         "_id": 800301003,
@@ -29850,7 +33918,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003010.png"
+        "Icon": "MonsterIcon/Monster_8003010.png",
+        "Status": [
+            30020012,
+            280030101
+        ]
     },
     {
         "_id": 800301004,
@@ -29902,7 +33974,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003010.png"
+        "Icon": "MonsterIcon/Monster_8003010.png",
+        "Status": [
+            30020012,
+            280030101
+        ]
     },
     {
         "_id": 800301005,
@@ -29954,7 +34030,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003010.png"
+        "Icon": "MonsterIcon/Monster_8003010.png",
+        "Status": [
+            30020012,
+            280030101
+        ]
     },
     {
         "_id": 800301006,
@@ -30009,7 +34089,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003010.png"
+        "Icon": "MonsterIcon/Monster_8003010.png",
+        "Status": [
+            30020012,
+            280030101
+        ]
     },
     {
         "_id": 800301007,
@@ -30064,7 +34148,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003010.png"
+        "Icon": "MonsterIcon/Monster_8003010.png",
+        "Status": [
+            30020012,
+            280030101
+        ]
     },
     {
         "_id": 800301008,
@@ -30120,7 +34208,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003010.png"
+        "Icon": "MonsterIcon/Monster_8003010.png",
+        "Status": [
+            30020012,
+            280030101
+        ]
     },
     {
         "_id": 800301009,
@@ -30175,7 +34267,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003010.png"
+        "Icon": "MonsterIcon/Monster_8003010.png",
+        "Status": [
+            30020012,
+            280030101
+        ]
     },
     {
         "_id": 800301010,
@@ -30230,7 +34326,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003010.png"
+        "Icon": "MonsterIcon/Monster_8003010.png",
+        "Status": [
+            30020012,
+            280030101
+        ]
     },
     {
         "_id": 800301011,
@@ -30286,7 +34386,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003010.png"
+        "Icon": "MonsterIcon/Monster_8003010.png",
+        "Status": [
+            30020012,
+            280030101
+        ]
     },
     {
         "_id": 800301012,
@@ -30342,7 +34446,70 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003010.png"
+        "Icon": "MonsterIcon/Monster_8003010.png",
+        "Status": [
+            30020012,
+            280030101
+        ]
+    },
+    {
+        "_id": 800301013,
+        "Key": "Monster_XP_Elite01_01_Config",
+        "Name": {
+            "CH": "外宇宙之冰",
+            "EN": "Ice Out of Space"
+        },
+        "Desc": {
+            "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上倒映着幽深黯淡的星空。<br>战斗中，外宇宙之冰能轻易将敌人冻结凝固。",
+            "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches."
+        },
+        "Stats": {
+            "HP": 16.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Fire",
+            "Wind",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.4,
+            "Elec": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "Frozen": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800301001,
+                    800301002,
+                    800301003
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    800301004
+                ]
+            }
+        ],
+        "Camp": 3,
+        "Icon": "MonsterIcon/Monster_8003010.png",
+        "Status": [
+            30020012,
+            280030101
+        ]
     },
     {
         "_id": 8003011,
@@ -30396,7 +34563,11 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8003010.png"
+        "Icon": "MonsterIcon/Monster_8003010.png",
+        "Status": [
+            30020012,
+            280030101
+        ]
     },
     {
         "_id": 8003020,
@@ -30443,7 +34614,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png"
+        "Icon": "MonsterIcon/Monster_8003020.png",
+        "Status": [
+            280030202,
+            280030203
+        ]
     },
     {
         "_id": 800302001,
@@ -30493,7 +34668,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png"
+        "Icon": "MonsterIcon/Monster_8003020.png",
+        "Status": [
+            280030202,
+            280030203
+        ]
     },
     {
         "_id": 800302002,
@@ -30543,7 +34722,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png"
+        "Icon": "MonsterIcon/Monster_8003020.png",
+        "Status": [
+            280030202,
+            280030203
+        ]
     },
     {
         "_id": 800302003,
@@ -30590,7 +34773,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png"
+        "Icon": "MonsterIcon/Monster_8003020.png",
+        "Status": [
+            280030202,
+            280030203
+        ]
     },
     {
         "_id": 800302004,
@@ -30637,7 +34824,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png"
+        "Icon": "MonsterIcon/Monster_8003020.png",
+        "Status": [
+            280030202,
+            280030203
+        ]
     },
     {
         "_id": 800302005,
@@ -30684,7 +34875,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png"
+        "Icon": "MonsterIcon/Monster_8003020.png",
+        "Status": [
+            280030202,
+            280030203
+        ]
     },
     {
         "_id": 800302006,
@@ -30731,7 +34926,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png"
+        "Icon": "MonsterIcon/Monster_8003020.png",
+        "Status": [
+            280030202,
+            280030203
+        ]
     },
     {
         "_id": 800302007,
@@ -30781,7 +34980,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png"
+        "Icon": "MonsterIcon/Monster_8003020.png",
+        "Status": [
+            280030202,
+            280030203
+        ]
     },
     {
         "_id": 800302008,
@@ -30828,7 +35031,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png"
+        "Icon": "MonsterIcon/Monster_8003020.png",
+        "Status": [
+            280030202,
+            280030203
+        ]
     },
     {
         "_id": 800302009,
@@ -30878,7 +35085,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png"
+        "Icon": "MonsterIcon/Monster_8003020.png",
+        "Status": [
+            280030202,
+            280030203
+        ]
     },
     {
         "_id": 800302010,
@@ -30928,7 +35139,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png"
+        "Icon": "MonsterIcon/Monster_8003020.png",
+        "Status": [
+            280030202,
+            280030203
+        ]
     },
     {
         "_id": 800302011,
@@ -30978,7 +35193,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png"
+        "Icon": "MonsterIcon/Monster_8003020.png",
+        "Status": [
+            280030202,
+            280030203
+        ]
     },
     {
         "_id": 800302012,
@@ -31028,7 +35247,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png"
+        "Icon": "MonsterIcon/Monster_8003020.png",
+        "Status": [
+            280030202,
+            280030203
+        ]
     },
     {
         "_id": 800302013,
@@ -31078,7 +35301,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png"
+        "Icon": "MonsterIcon/Monster_8003020.png",
+        "Status": [
+            280030202,
+            280030203
+        ]
     },
     {
         "_id": 800302014,
@@ -31125,7 +35352,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png"
+        "Icon": "MonsterIcon/Monster_8003020.png",
+        "Status": [
+            280030202,
+            280030203
+        ]
     },
     {
         "_id": 800302015,
@@ -31175,7 +35406,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png"
+        "Icon": "MonsterIcon/Monster_8003020.png",
+        "Status": [
+            280030202,
+            280030203
+        ]
     },
     {
         "_id": 800302016,
@@ -31226,7 +35461,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png"
+        "Icon": "MonsterIcon/Monster_8003020.png",
+        "Status": [
+            280030202,
+            280030203
+        ]
     },
     {
         "_id": 800302017,
@@ -31273,7 +35512,65 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png"
+        "Icon": "MonsterIcon/Monster_8003020.png",
+        "Status": [
+            280030202,
+            280030203
+        ]
+    },
+    {
+        "_id": 800302019,
+        "Key": "Monster_XP_Elite01_00_Config",
+        "Name": {
+            "CH": "外宇宙之炎",
+            "EN": "Blaze Out of Space"
+        },
+        "Desc": {
+            "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上燃烧着星辰内核的烈焰。<br>在战斗中，外宇宙之炎能轻易将敌人焚作灰烬。",
+            "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches."
+        },
+        "Stats": {
+            "HP": 11.5,
+            "ATK": 12.00006,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "SPD": -20.0
+        },
+        "Weak": [
+            "Phys",
+            "Ice",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Fire": 0.4,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "Burn": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800302001,
+                    800302002,
+                    800302003,
+                    800302004
+                ]
+            }
+        ],
+        "Camp": 3,
+        "Icon": "MonsterIcon/Monster_8003020.png",
+        "Status": [
+            280030202,
+            280030203
+        ]
     },
     {
         "_id": 8003021,
@@ -31322,7 +35619,11 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8003020.png"
+        "Icon": "MonsterIcon/Monster_8003020.png",
+        "Status": [
+            280030202,
+            280030203
+        ]
     },
     {
         "_id": 8003030,
@@ -31375,7 +35676,14 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003030.png"
+        "Icon": "MonsterIcon/Monster_8003030.png",
+        "Status": [
+            30020004,
+            280030301,
+            280030302,
+            280030303,
+            280030306
+        ]
     },
     {
         "_id": 800303001,
@@ -31431,7 +35739,14 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003030.png"
+        "Icon": "MonsterIcon/Monster_8003030.png",
+        "Status": [
+            30020004,
+            280030301,
+            280030302,
+            280030303,
+            280030306
+        ]
     },
     {
         "_id": 800303002,
@@ -31487,7 +35802,14 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003030.png"
+        "Icon": "MonsterIcon/Monster_8003030.png",
+        "Status": [
+            30020004,
+            280030301,
+            280030302,
+            280030303,
+            280030306
+        ]
     },
     {
         "_id": 800303003,
@@ -31543,7 +35865,14 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003030.png"
+        "Icon": "MonsterIcon/Monster_8003030.png",
+        "Status": [
+            30020004,
+            280030301,
+            280030302,
+            280030303,
+            280030306
+        ]
     },
     {
         "_id": 800303004,
@@ -31596,7 +35925,14 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003030.png"
+        "Icon": "MonsterIcon/Monster_8003030.png",
+        "Status": [
+            30020004,
+            280030301,
+            280030302,
+            280030303,
+            280030306
+        ]
     },
     {
         "_id": 800303005,
@@ -31649,7 +35985,14 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003030.png"
+        "Icon": "MonsterIcon/Monster_8003030.png",
+        "Status": [
+            30020004,
+            280030301,
+            280030302,
+            280030303,
+            280030306
+        ]
     },
     {
         "_id": 800303006,
@@ -31702,7 +36045,14 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003030.png"
+        "Icon": "MonsterIcon/Monster_8003030.png",
+        "Status": [
+            30020004,
+            280030301,
+            280030302,
+            280030303,
+            280030306
+        ]
     },
     {
         "_id": 800303007,
@@ -31758,7 +36108,14 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003030.png"
+        "Icon": "MonsterIcon/Monster_8003030.png",
+        "Status": [
+            30020004,
+            280030301,
+            280030302,
+            280030303,
+            280030306
+        ]
     },
     {
         "_id": 800303008,
@@ -31814,7 +36171,14 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003030.png"
+        "Icon": "MonsterIcon/Monster_8003030.png",
+        "Status": [
+            30020004,
+            280030301,
+            280030302,
+            280030303,
+            280030306
+        ]
     },
     {
         "_id": 800303009,
@@ -31867,7 +36231,14 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003030.png"
+        "Icon": "MonsterIcon/Monster_8003030.png",
+        "Status": [
+            30020004,
+            280030301,
+            280030302,
+            280030303,
+            280030306
+        ]
     },
     {
         "_id": 800303010,
@@ -31920,7 +36291,14 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003030.png"
+        "Icon": "MonsterIcon/Monster_8003030.png",
+        "Status": [
+            30020004,
+            280030301,
+            280030302,
+            280030303,
+            280030306
+        ]
     },
     {
         "_id": 800303011,
@@ -31977,7 +36355,14 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003030.png"
+        "Icon": "MonsterIcon/Monster_8003030.png",
+        "Status": [
+            30020004,
+            280030301,
+            280030302,
+            280030303,
+            280030306
+        ]
     },
     {
         "_id": 800303012,
@@ -32033,7 +36418,14 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003030.png"
+        "Icon": "MonsterIcon/Monster_8003030.png",
+        "Status": [
+            30020004,
+            280030301,
+            280030302,
+            280030303,
+            280030306
+        ]
     },
     {
         "_id": 8003031,
@@ -32086,7 +36478,13 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8003030.png"
+        "Icon": "MonsterIcon/Monster_8003030.png",
+        "Status": [
+            30020004,
+            280030301,
+            280030302,
+            280030303
+        ]
     },
     {
         "_id": 8003040,
@@ -32138,7 +36536,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003040.png"
+        "Icon": "MonsterIcon/Monster_8003040.png",
+        "Status": [
+            30020013,
+            280030405
+        ]
     },
     {
         "_id": 800304001,
@@ -32193,7 +36595,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003040.png"
+        "Icon": "MonsterIcon/Monster_8003040.png",
+        "Status": [
+            30020013,
+            280030405
+        ]
     },
     {
         "_id": 800304002,
@@ -32248,7 +36654,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003040.png"
+        "Icon": "MonsterIcon/Monster_8003040.png",
+        "Status": [
+            30020013,
+            280030405
+        ]
     },
     {
         "_id": 800304003,
@@ -32303,7 +36713,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003040.png"
+        "Icon": "MonsterIcon/Monster_8003040.png",
+        "Status": [
+            30020013,
+            280030405
+        ]
     },
     {
         "_id": 800304004,
@@ -32355,7 +36769,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003040.png"
+        "Icon": "MonsterIcon/Monster_8003040.png",
+        "Status": [
+            30020013,
+            280030405
+        ]
     },
     {
         "_id": 800304005,
@@ -32410,7 +36828,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003040.png"
+        "Icon": "MonsterIcon/Monster_8003040.png",
+        "Status": [
+            30020013,
+            280030405
+        ]
     },
     {
         "_id": 800304006,
@@ -32465,7 +36887,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003040.png"
+        "Icon": "MonsterIcon/Monster_8003040.png",
+        "Status": [
+            30020013,
+            280030405
+        ]
     },
     {
         "_id": 800304007,
@@ -32520,7 +36946,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003040.png"
+        "Icon": "MonsterIcon/Monster_8003040.png",
+        "Status": [
+            30020013,
+            280030405
+        ]
     },
     {
         "_id": 800304008,
@@ -32575,7 +37005,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003040.png"
+        "Icon": "MonsterIcon/Monster_8003040.png",
+        "Status": [
+            30020013,
+            280030405
+        ]
     },
     {
         "_id": 800304009,
@@ -32631,7 +37065,11 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003040.png"
+        "Icon": "MonsterIcon/Monster_8003040.png",
+        "Status": [
+            30020013,
+            280030405
+        ]
     },
     {
         "_id": 8003041,
@@ -32685,7 +37123,11 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8003040.png"
+        "Icon": "MonsterIcon/Monster_8003040.png",
+        "Status": [
+            30020013,
+            280030405
+        ]
     },
     {
         "_id": 8003042,
@@ -32739,8 +37181,12 @@ var _monster = [
                 ]
             }
         ],
-        "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003040.png"
+        "Camp": 0,
+        "Icon": "MonsterIcon/Monster_8003040.png",
+        "Status": [
+            30020013,
+            280030405
+        ]
     },
     {
         "_id": 8003050,
@@ -32791,7 +37237,12 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003050.png"
+        "Icon": "MonsterIcon/Monster_8003050.png",
+        "Status": [
+            30020003,
+            280130201,
+            280130202
+        ]
     },
     {
         "_id": 800305001,
@@ -32845,7 +37296,12 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003050.png"
+        "Icon": "MonsterIcon/Monster_8003050.png",
+        "Status": [
+            30020003,
+            280130201,
+            280130202
+        ]
     },
     {
         "_id": 800305002,
@@ -32899,7 +37355,12 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003050.png"
+        "Icon": "MonsterIcon/Monster_8003050.png",
+        "Status": [
+            30020003,
+            280130201,
+            280130202
+        ]
     },
     {
         "_id": 800305003,
@@ -32953,7 +37414,12 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003050.png"
+        "Icon": "MonsterIcon/Monster_8003050.png",
+        "Status": [
+            30020003,
+            280130201,
+            280130202
+        ]
     },
     {
         "_id": 800305004,
@@ -33006,7 +37472,12 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003050.png"
+        "Icon": "MonsterIcon/Monster_8003050.png",
+        "Status": [
+            30020003,
+            280130201,
+            280130202
+        ]
     },
     {
         "_id": 800305005,
@@ -33059,7 +37530,12 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003050.png"
+        "Icon": "MonsterIcon/Monster_8003050.png",
+        "Status": [
+            30020003,
+            280130201,
+            280130202
+        ]
     },
     {
         "_id": 800305006,
@@ -33113,7 +37589,12 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003050.png"
+        "Icon": "MonsterIcon/Monster_8003050.png",
+        "Status": [
+            30020003,
+            280130201,
+            280130202
+        ]
     },
     {
         "_id": 800305007,
@@ -33164,7 +37645,12 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003050.png"
+        "Icon": "MonsterIcon/Monster_8003050.png",
+        "Status": [
+            30020003,
+            280130201,
+            280130202
+        ]
     },
     {
         "_id": 800305008,
@@ -33218,7 +37704,12 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003050.png"
+        "Icon": "MonsterIcon/Monster_8003050.png",
+        "Status": [
+            30020003,
+            280130201,
+            280130202
+        ]
     },
     {
         "_id": 800305009,
@@ -33273,7 +37764,12 @@ var _monster = [
             }
         ],
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003050.png"
+        "Icon": "MonsterIcon/Monster_8003050.png",
+        "Status": [
+            30020003,
+            280130201,
+            280130202
+        ]
     },
     {
         "_id": 8003051,
@@ -33327,7 +37823,12 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8003050.png"
+        "Icon": "MonsterIcon/Monster_8003050.png",
+        "Status": [
+            30020003,
+            280130201,
+            280130202
+        ]
     },
     {
         "_id": 8003052,
@@ -33381,7 +37882,7 @@ var _monster = [
                 ]
             }
         ],
-        "Camp": 3,
+        "Camp": 0,
         "Icon": "MonsterIcon/Monster_8003050.png"
     },
     {
@@ -34136,7 +38637,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png"
+        "Icon": "MonsterIcon/Monster_8012010.png",
+        "Status": [
+            280120101
+        ]
     },
     {
         "_id": 801201001,
@@ -34184,7 +38688,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png"
+        "Icon": "MonsterIcon/Monster_8012010.png",
+        "Status": [
+            280120101
+        ]
     },
     {
         "_id": 801201002,
@@ -34232,7 +38739,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png"
+        "Icon": "MonsterIcon/Monster_8012010.png",
+        "Status": [
+            280120101
+        ]
     },
     {
         "_id": 801201003,
@@ -34280,7 +38790,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png"
+        "Icon": "MonsterIcon/Monster_8012010.png",
+        "Status": [
+            280120101
+        ]
     },
     {
         "_id": 801201004,
@@ -34328,7 +38841,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png"
+        "Icon": "MonsterIcon/Monster_8012010.png",
+        "Status": [
+            280120101
+        ]
     },
     {
         "_id": 801201005,
@@ -34380,7 +38896,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png"
+        "Icon": "MonsterIcon/Monster_8012010.png",
+        "Status": [
+            280120101
+        ]
     },
     {
         "_id": 801201006,
@@ -34428,7 +38947,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png"
+        "Icon": "MonsterIcon/Monster_8012010.png",
+        "Status": [
+            280120101
+        ]
     },
     {
         "_id": 801201007,
@@ -34479,7 +39001,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png"
+        "Icon": "MonsterIcon/Monster_8012010.png",
+        "Status": [
+            280120101
+        ]
     },
     {
         "_id": 801201008,
@@ -34527,7 +39052,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png"
+        "Icon": "MonsterIcon/Monster_8012010.png",
+        "Status": [
+            280120101
+        ]
     },
     {
         "_id": 801201009,
@@ -34575,7 +39103,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png"
+        "Icon": "MonsterIcon/Monster_8012010.png",
+        "Status": [
+            280120101
+        ]
     },
     {
         "_id": 801201010,
@@ -34626,7 +39157,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png"
+        "Icon": "MonsterIcon/Monster_8012010.png",
+        "Status": [
+            280120101
+        ]
     },
     {
         "_id": 801201011,
@@ -34674,7 +39208,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png"
+        "Icon": "MonsterIcon/Monster_8012010.png",
+        "Status": [
+            280120101
+        ]
     },
     {
         "_id": 801201012,
@@ -34722,7 +39259,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png"
+        "Icon": "MonsterIcon/Monster_8012010.png",
+        "Status": [
+            280120101
+        ]
     },
     {
         "_id": 801201013,
@@ -34770,7 +39310,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png"
+        "Icon": "MonsterIcon/Monster_8012010.png",
+        "Status": [
+            280120101
+        ]
     },
     {
         "_id": 801201014,
@@ -34821,7 +39364,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png"
+        "Icon": "MonsterIcon/Monster_8012010.png",
+        "Status": [
+            280120101
+        ]
     },
     {
         "_id": 801201015,
@@ -34872,7 +39418,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png"
+        "Icon": "MonsterIcon/Monster_8012010.png",
+        "Status": [
+            280120101
+        ]
     },
     {
         "_id": 801201016,
@@ -34923,7 +39472,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png"
+        "Icon": "MonsterIcon/Monster_8012010.png",
+        "Status": [
+            280120101
+        ]
     },
     {
         "_id": 801201017,
@@ -34974,7 +39526,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png"
+        "Icon": "MonsterIcon/Monster_8012010.png",
+        "Status": [
+            280120101
+        ]
     },
     {
         "_id": 801201018,
@@ -35022,7 +39577,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png"
+        "Icon": "MonsterIcon/Monster_8012010.png",
+        "Status": [
+            280120101
+        ]
     },
     {
         "_id": 801201019,
@@ -35070,7 +39628,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png"
+        "Icon": "MonsterIcon/Monster_8012010.png",
+        "Status": [
+            280120101
+        ]
     },
     {
         "_id": 801201020,
@@ -35118,7 +39679,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png"
+        "Icon": "MonsterIcon/Monster_8012010.png",
+        "Status": [
+            280120101
+        ]
     },
     {
         "_id": 801201021,
@@ -35166,7 +39730,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png"
+        "Icon": "MonsterIcon/Monster_8012010.png",
+        "Status": [
+            280120101
+        ]
     },
     {
         "_id": 801201023,
@@ -35214,7 +39781,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png"
+        "Icon": "MonsterIcon/Monster_8012010.png",
+        "Status": [
+            280120101
+        ]
     },
     {
         "_id": 801201024,
@@ -35262,7 +39832,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png"
+        "Icon": "MonsterIcon/Monster_8012010.png",
+        "Status": [
+            280120101
+        ]
     },
     {
         "_id": 801201025,
@@ -35310,7 +39883,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png"
+        "Icon": "MonsterIcon/Monster_8012010.png",
+        "Status": [
+            280120101
+        ]
     },
     {
         "_id": 801201026,
@@ -35358,7 +39934,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png"
+        "Icon": "MonsterIcon/Monster_8012010.png",
+        "Status": [
+            280120101
+        ]
     },
     {
         "_id": 8012020,
@@ -35400,7 +39979,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012020.png"
+        "Icon": "MonsterIcon/Monster_8012020.png",
+        "Status": [
+            280120201
+        ]
     },
     {
         "_id": 801202001,
@@ -35442,7 +40024,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012020.png"
+        "Icon": "MonsterIcon/Monster_8012020.png",
+        "Status": [
+            280120201
+        ]
     },
     {
         "_id": 801202002,
@@ -35484,7 +40069,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012020.png"
+        "Icon": "MonsterIcon/Monster_8012020.png",
+        "Status": [
+            280120201
+        ]
     },
     {
         "_id": 801202003,
@@ -35526,7 +40114,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012020.png"
+        "Icon": "MonsterIcon/Monster_8012020.png",
+        "Status": [
+            280120201
+        ]
     },
     {
         "_id": 801202004,
@@ -35568,7 +40159,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012020.png"
+        "Icon": "MonsterIcon/Monster_8012020.png",
+        "Status": [
+            280120201
+        ]
     },
     {
         "_id": 801202005,
@@ -35610,7 +40204,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012020.png"
+        "Icon": "MonsterIcon/Monster_8012020.png",
+        "Status": [
+            280120201
+        ]
     },
     {
         "_id": 801202006,
@@ -35652,7 +40249,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012020.png"
+        "Icon": "MonsterIcon/Monster_8012020.png",
+        "Status": [
+            280120201
+        ]
     },
     {
         "_id": 801202007,
@@ -35697,7 +40297,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012020.png"
+        "Icon": "MonsterIcon/Monster_8012020.png",
+        "Status": [
+            280120201
+        ]
     },
     {
         "_id": 801202008,
@@ -35742,7 +40345,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012020.png"
+        "Icon": "MonsterIcon/Monster_8012020.png",
+        "Status": [
+            280120201
+        ]
     },
     {
         "_id": 801202009,
@@ -35784,7 +40390,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012020.png"
+        "Icon": "MonsterIcon/Monster_8012020.png",
+        "Status": [
+            280120201
+        ]
     },
     {
         "_id": 801202010,
@@ -35829,7 +40438,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012020.png"
+        "Icon": "MonsterIcon/Monster_8012020.png",
+        "Status": [
+            280120201
+        ]
     },
     {
         "_id": 801202011,
@@ -35871,7 +40483,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012020.png"
+        "Icon": "MonsterIcon/Monster_8012020.png",
+        "Status": [
+            280120201
+        ]
     },
     {
         "_id": 801202012,
@@ -35913,7 +40528,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012020.png"
+        "Icon": "MonsterIcon/Monster_8012020.png",
+        "Status": [
+            280120201
+        ]
     },
     {
         "_id": 801202013,
@@ -35955,7 +40573,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012020.png"
+        "Icon": "MonsterIcon/Monster_8012020.png",
+        "Status": [
+            280120201
+        ]
     },
     {
         "_id": 8012021,
@@ -35997,7 +40618,10 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012020.png"
+        "Icon": "MonsterIcon/Monster_8012020.png",
+        "Status": [
+            280120201
+        ]
     },
     {
         "_id": 801202101,
@@ -36042,7 +40666,10 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012020.png"
+        "Icon": "MonsterIcon/Monster_8012020.png",
+        "Status": [
+            280120201
+        ]
     },
     {
         "_id": 801202102,
@@ -36087,7 +40714,10 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012020.png"
+        "Icon": "MonsterIcon/Monster_8012020.png",
+        "Status": [
+            280120201
+        ]
     },
     {
         "_id": 8012030,
@@ -36129,7 +40759,11 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012030.png"
+        "Icon": "MonsterIcon/Monster_8012030.png",
+        "Status": [
+            280120301,
+            280120302
+        ]
     },
     {
         "_id": 801203001,
@@ -36171,7 +40805,11 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012030.png"
+        "Icon": "MonsterIcon/Monster_8012030.png",
+        "Status": [
+            280120301,
+            280120302
+        ]
     },
     {
         "_id": 801203002,
@@ -36213,7 +40851,11 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012030.png"
+        "Icon": "MonsterIcon/Monster_8012030.png",
+        "Status": [
+            280120301,
+            280120302
+        ]
     },
     {
         "_id": 801203003,
@@ -36258,7 +40900,11 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012030.png"
+        "Icon": "MonsterIcon/Monster_8012030.png",
+        "Status": [
+            280120301,
+            280120302
+        ]
     },
     {
         "_id": 801203004,
@@ -36300,7 +40946,11 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012030.png"
+        "Icon": "MonsterIcon/Monster_8012030.png",
+        "Status": [
+            280120301,
+            280120302
+        ]
     },
     {
         "_id": 801203005,
@@ -36342,7 +40992,11 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012030.png"
+        "Icon": "MonsterIcon/Monster_8012030.png",
+        "Status": [
+            280120301,
+            280120302
+        ]
     },
     {
         "_id": 801203006,
@@ -36387,7 +41041,11 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012030.png"
+        "Icon": "MonsterIcon/Monster_8012030.png",
+        "Status": [
+            280120301,
+            280120302
+        ]
     },
     {
         "_id": 801203007,
@@ -36429,7 +41087,11 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012030.png"
+        "Icon": "MonsterIcon/Monster_8012030.png",
+        "Status": [
+            280120301,
+            280120302
+        ]
     },
     {
         "_id": 8012140,
@@ -36482,7 +41144,10 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012140.png"
+        "Icon": "MonsterIcon/Monster_8012140.png",
+        "Status": [
+            30020013
+        ]
     },
     {
         "_id": 8012142,
@@ -36534,7 +41199,10 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012142.png"
+        "Icon": "MonsterIcon/Monster_8012142.png",
+        "Status": [
+            30020027
+        ]
     },
     {
         "_id": 8012143,
@@ -36673,7 +41341,10 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012200.png"
+        "Icon": "MonsterIcon/Monster_8012200.png",
+        "Status": [
+            280150203
+        ]
     },
     {
         "_id": 8012201,
@@ -36716,7 +41387,10 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012201.png"
+        "Icon": "MonsterIcon/Monster_8012201.png",
+        "Status": [
+            280150203
+        ]
     },
     {
         "_id": 8012202,
@@ -36759,7 +41433,10 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012200.png"
+        "Icon": "MonsterIcon/Monster_8012200.png",
+        "Status": [
+            280150203
+        ]
     },
     {
         "_id": 8012203,
@@ -36802,7 +41479,10 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012201.png"
+        "Icon": "MonsterIcon/Monster_8012201.png",
+        "Status": [
+            280150203
+        ]
     },
     {
         "_id": 8012210,
@@ -36855,7 +41535,14 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012210.png"
+        "Icon": "MonsterIcon/Monster_8012210.png",
+        "Status": [
+            30020030,
+            280150204,
+            280150205,
+            280150206,
+            280150208
+        ]
     },
     {
         "_id": 8012211,
@@ -36908,7 +41595,14 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012211.png"
+        "Icon": "MonsterIcon/Monster_8012211.png",
+        "Status": [
+            30020030,
+            280150204,
+            280150205,
+            280150206,
+            280150208
+        ]
     },
     {
         "_id": 8012212,
@@ -36961,7 +41655,14 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012210.png"
+        "Icon": "MonsterIcon/Monster_8012210.png",
+        "Status": [
+            30020030,
+            280150204,
+            280150205,
+            280150206,
+            280150208
+        ]
     },
     {
         "_id": 8012213,
@@ -37014,7 +41715,14 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012211.png"
+        "Icon": "MonsterIcon/Monster_8012211.png",
+        "Status": [
+            30020030,
+            280150204,
+            280150205,
+            280150206,
+            280150208
+        ]
     },
     {
         "_id": 8013010,
@@ -37059,7 +41767,11 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8013010.png"
+        "Icon": "MonsterIcon/Monster_8013010.png",
+        "Status": [
+            30020027,
+            280130101
+        ]
     },
     {
         "_id": 801301001,
@@ -37104,7 +41816,11 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8013010.png"
+        "Icon": "MonsterIcon/Monster_8013010.png",
+        "Status": [
+            30020027,
+            280130101
+        ]
     },
     {
         "_id": 801301002,
@@ -37149,7 +41865,11 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8013010.png"
+        "Icon": "MonsterIcon/Monster_8013010.png",
+        "Status": [
+            30020027,
+            280130101
+        ]
     },
     {
         "_id": 801301003,
@@ -37194,7 +41914,11 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8013010.png"
+        "Icon": "MonsterIcon/Monster_8013010.png",
+        "Status": [
+            30020027,
+            280130101
+        ]
     },
     {
         "_id": 801301004,
@@ -37239,7 +41963,11 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8013010.png"
+        "Icon": "MonsterIcon/Monster_8013010.png",
+        "Status": [
+            30020027,
+            280130101
+        ]
     },
     {
         "_id": 801301005,
@@ -37284,7 +42012,11 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8013010.png"
+        "Icon": "MonsterIcon/Monster_8013010.png",
+        "Status": [
+            30020027,
+            280130101
+        ]
     },
     {
         "_id": 801301006,
@@ -37329,7 +42061,11 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8013010.png"
+        "Icon": "MonsterIcon/Monster_8013010.png",
+        "Status": [
+            30020027,
+            280130101
+        ]
     },
     {
         "_id": 801301007,
@@ -37374,7 +42110,11 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8013010.png"
+        "Icon": "MonsterIcon/Monster_8013010.png",
+        "Status": [
+            30020027,
+            280130101
+        ]
     },
     {
         "_id": 801301008,
@@ -37419,7 +42159,11 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8013010.png"
+        "Icon": "MonsterIcon/Monster_8013010.png",
+        "Status": [
+            30020027,
+            280130101
+        ]
     },
     {
         "_id": 801301009,
@@ -37464,7 +42208,11 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8013010.png"
+        "Icon": "MonsterIcon/Monster_8013010.png",
+        "Status": [
+            30020027,
+            280130101
+        ]
     },
     {
         "_id": 801301010,
@@ -37509,7 +42257,11 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8013010.png"
+        "Icon": "MonsterIcon/Monster_8013010.png",
+        "Status": [
+            30020027,
+            280130101
+        ]
     },
     {
         "_id": 801301011,
@@ -37558,7 +42310,11 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8013010.png"
+        "Icon": "MonsterIcon/Monster_8013010.png",
+        "Status": [
+            30020027,
+            280130101
+        ]
     },
     {
         "_id": 801301012,
@@ -37606,7 +42362,11 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8013010.png"
+        "Icon": "MonsterIcon/Monster_8013010.png",
+        "Status": [
+            30020027,
+            280130101
+        ]
     },
     {
         "_id": 801301013,
@@ -37655,7 +42415,11 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8013010.png"
+        "Icon": "MonsterIcon/Monster_8013010.png",
+        "Status": [
+            30020027,
+            280130101
+        ]
     },
     {
         "_id": 801301014,
@@ -37704,7 +42468,11 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8013010.png"
+        "Icon": "MonsterIcon/Monster_8013010.png",
+        "Status": [
+            30020027,
+            280130101
+        ]
     },
     {
         "_id": 801301015,
@@ -37752,7 +42520,11 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8013010.png"
+        "Icon": "MonsterIcon/Monster_8013010.png",
+        "Status": [
+            30020027,
+            280130101
+        ]
     },
     {
         "_id": 8013011,
@@ -37797,7 +42569,11 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8013010.png"
+        "Icon": "MonsterIcon/Monster_8013010.png",
+        "Status": [
+            30020027,
+            280130101
+        ]
     },
     {
         "_id": 8013012,
@@ -37842,7 +42618,10 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8013010.png"
+        "Icon": "MonsterIcon/Monster_8013010.png",
+        "Status": [
+            280130101
+        ]
     },
     {
         "_id": 8013013,
@@ -37890,7 +42669,7 @@ var _monster = [
                 ]
             }
         ],
-        "Camp": 6,
+        "Camp": 0,
         "Icon": "MonsterIcon/Monster_8013010.png"
     },
     {
@@ -37952,7 +42731,12 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012141.png"
+        "Icon": "MonsterIcon/Monster_8012141.png",
+        "Status": [
+            280150103,
+            280150104,
+            280150105
+        ]
     },
     {
         "_id": 8013144,
@@ -38009,7 +42793,12 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012141.png"
+        "Icon": "MonsterIcon/Monster_8012141.png",
+        "Status": [
+            280150103,
+            280150104,
+            280150105
+        ]
     },
     {
         "_id": 8015010,
@@ -38056,7 +42845,10 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8015010.png"
+        "Icon": "MonsterIcon/Monster_8015010.png",
+        "Status": [
+            280150102
+        ]
     },
     {
         "_id": 8015011,
@@ -38103,7 +42895,10 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8015010.png"
+        "Icon": "MonsterIcon/Monster_8015010.png",
+        "Status": [
+            280150102
+        ]
     },
     {
         "_id": 8015020,
@@ -38114,7 +42909,7 @@ var _monster = [
         },
         "Desc": {
             "CH": "…",
-            "EN": "…"
+            "EN": "..."
         },
         "Stats": {
             "HP": 13.0,
@@ -38177,7 +42972,12 @@ var _monster = [
             }
         ],
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8015020.png"
+        "Icon": "MonsterIcon/Monster_8015020.png",
+        "Status": [
+            280150202,
+            280150204,
+            280150208
+        ]
     },
     {
         "_id": 8015021,
@@ -38188,7 +42988,7 @@ var _monster = [
         },
         "Desc": {
             "CH": "…",
-            "EN": "…"
+            "EN": "..."
         },
         "Stats": {
             "HP": 13.0,
@@ -38251,7 +43051,12 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8015020.png"
+        "Icon": "MonsterIcon/Monster_8015020.png",
+        "Status": [
+            280150202,
+            280150204,
+            280150208
+        ]
     },
     {
         "_id": 8022010,
@@ -38300,7 +43105,13 @@ var _monster = [
             }
         ],
         "Camp": 8,
-        "Icon": "MonsterIcon/Monster_8022010.png"
+        "Icon": "MonsterIcon/Monster_8022010.png",
+        "Status": [
+            280240101,
+            280240103,
+            280240104,
+            280240105
+        ]
     },
     {
         "_id": 8022020,
@@ -38352,7 +43163,11 @@ var _monster = [
             }
         ],
         "Camp": 8,
-        "Icon": "MonsterIcon/Monster_8022020.png"
+        "Icon": "MonsterIcon/Monster_8022020.png",
+        "Status": [
+            30020029,
+            280240103
+        ]
     },
     {
         "_id": 802202001,
@@ -38407,7 +43222,11 @@ var _monster = [
             }
         ],
         "Camp": 8,
-        "Icon": "MonsterIcon/Monster_8022020.png"
+        "Icon": "MonsterIcon/Monster_8022020.png",
+        "Status": [
+            30020029,
+            280240103
+        ]
     },
     {
         "_id": 802202002,
@@ -38460,7 +43279,11 @@ var _monster = [
             }
         ],
         "Camp": 8,
-        "Icon": "MonsterIcon/Monster_8022020.png"
+        "Icon": "MonsterIcon/Monster_8022020.png",
+        "Status": [
+            30020029,
+            280240103
+        ]
     },
     {
         "_id": 8022030,
@@ -38502,8 +43325,7 @@ var _monster = [
             }
         ],
         "Camp": 8,
-        "Icon": "MonsterIcon/Monster_8022030.png",
-        "New": true
+        "Icon": "MonsterIcon/Monster_8022030.png"
     },
     {
         "_id": 8024010,
@@ -38585,7 +43407,12 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8024010.png"
+        "Icon": "MonsterIcon/Monster_8024010.png",
+        "Status": [
+            280240101,
+            280240102,
+            280240103
+        ]
     },
     {
         "_id": 8024011,
@@ -38651,7 +43478,12 @@ var _monster = [
             }
         ],
         "Camp": 8,
-        "Icon": "MonsterIcon/Monster_8024010.png"
+        "Icon": "MonsterIcon/Monster_8024010.png",
+        "Status": [
+            280240101,
+            280240102,
+            280240103
+        ]
     },
     {
         "_id": 8024012,
@@ -38733,8 +43565,7 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8024010.png",
-        "New": true
+        "Icon": "MonsterIcon/Monster_8024010.png"
     },
     {
         "_id": 8025010,
@@ -38785,7 +43616,6 @@ var _monster = [
                 "Skills": [
                     802501001,
                     802501002,
-                    802501003,
                     802501006,
                     802501007
                 ]
@@ -38800,8 +43630,7 @@ var _monster = [
             }
         ],
         "Camp": 8,
-        "Icon": "MonsterIcon/Monster_8025010.png",
-        "New": true
+        "Icon": "MonsterIcon/Monster_8025010.png"
     },
     {
         "_id": 802501001,
@@ -38852,7 +43681,6 @@ var _monster = [
                 "Skills": [
                     802501001,
                     802501002,
-                    802501003,
                     802501006,
                     802501007
                 ]
@@ -38915,7 +43743,10 @@ var _monster = [
             }
         ],
         "Camp": 9,
-        "Icon": "MonsterIcon/Monster_8032010.png"
+        "Icon": "MonsterIcon/Monster_8032010.png",
+        "Status": [
+            280330101
+        ]
     },
     {
         "_id": 803201001,
@@ -38963,7 +43794,10 @@ var _monster = [
             }
         ],
         "Camp": 9,
-        "Icon": "MonsterIcon/Monster_8032010.png"
+        "Icon": "MonsterIcon/Monster_8032010.png",
+        "Status": [
+            280330101
+        ]
     },
     {
         "_id": 803201002,
@@ -39011,7 +43845,10 @@ var _monster = [
             }
         ],
         "Camp": 9,
-        "Icon": "MonsterIcon/Monster_8032010.png"
+        "Icon": "MonsterIcon/Monster_8032010.png",
+        "Status": [
+            280330101
+        ]
     },
     {
         "_id": 803201003,
@@ -39059,7 +43896,10 @@ var _monster = [
             }
         ],
         "Camp": 9,
-        "Icon": "MonsterIcon/Monster_8032010.png"
+        "Icon": "MonsterIcon/Monster_8032010.png",
+        "Status": [
+            280330101
+        ]
     },
     {
         "_id": 8032020,
@@ -39107,7 +43947,10 @@ var _monster = [
             }
         ],
         "Camp": 9,
-        "Icon": "MonsterIcon/Monster_8032020.png"
+        "Icon": "MonsterIcon/Monster_8032020.png",
+        "Status": [
+            280330101
+        ]
     },
     {
         "_id": 803202001,
@@ -39155,7 +43998,10 @@ var _monster = [
             }
         ],
         "Camp": 9,
-        "Icon": "MonsterIcon/Monster_8032020.png"
+        "Icon": "MonsterIcon/Monster_8032020.png",
+        "Status": [
+            280330101
+        ]
     },
     {
         "_id": 803202002,
@@ -39203,7 +44049,10 @@ var _monster = [
             }
         ],
         "Camp": 9,
-        "Icon": "MonsterIcon/Monster_8032020.png"
+        "Icon": "MonsterIcon/Monster_8032020.png",
+        "Status": [
+            280330101
+        ]
     },
     {
         "_id": 803202003,
@@ -39251,7 +44100,10 @@ var _monster = [
             }
         ],
         "Camp": 9,
-        "Icon": "MonsterIcon/Monster_8032020.png"
+        "Icon": "MonsterIcon/Monster_8032020.png",
+        "Status": [
+            280330101
+        ]
     },
     {
         "_id": 8033010,
@@ -39298,7 +44150,10 @@ var _monster = [
             }
         ],
         "Camp": 9,
-        "Icon": "MonsterIcon/Monster_8033010.png"
+        "Icon": "MonsterIcon/Monster_8033010.png",
+        "Status": [
+            280330101
+        ]
     },
     {
         "_id": 803301001,
@@ -39345,7 +44200,10 @@ var _monster = [
             }
         ],
         "Camp": 9,
-        "Icon": "MonsterIcon/Monster_8033010.png"
+        "Icon": "MonsterIcon/Monster_8033010.png",
+        "Status": [
+            280330101
+        ]
     },
     {
         "_id": 803301002,
@@ -39395,7 +44253,10 @@ var _monster = [
             }
         ],
         "Camp": 9,
-        "Icon": "MonsterIcon/Monster_8033010.png"
+        "Icon": "MonsterIcon/Monster_8033010.png",
+        "Status": [
+            280330101
+        ]
     },
     {
         "_id": 8033011,
@@ -39448,7 +44309,10 @@ var _monster = [
             }
         ],
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8033010.png"
+        "Icon": "MonsterIcon/Monster_8033010.png",
+        "Status": [
+            280330101
+        ]
     },
     {
         "_id": 803301202,
@@ -39576,829 +44440,2306 @@ var _monster = [
 ]
 
 var _monsterindex = {
-    "1002011": 0,
-    "1002012": 1,
-    "1002013": 2,
-    "1002014": 3,
-    "1002015": 4,
-    "100201501": 5,
-    "1002016": 6,
-    "100201601": 7,
-    "1002017": 8,
-    "100201702": 9,
-    "1002018": 10,
-    "100201802": 11,
-    "1002020": 12,
-    "100202001": 13,
-    "100202002": 14,
-    "100202003": 15,
-    "100202004": 16,
-    "100202005": 17,
-    "100202006": 18,
-    "100202007": 19,
-    "100202008": 20,
-    "100202009": 21,
-    "100202010": 22,
-    "100202011": 23,
-    "100202012": 24,
-    "100202013": 25,
-    "100202014": 26,
-    "100202015": 27,
-    "100202016": 28,
-    "100202101": 29,
-    "1002030": 30,
-    "100203001": 31,
-    "100203002": 32,
-    "100203003": 33,
-    "100203004": 34,
-    "100203005": 35,
-    "100203006": 36,
-    "100203007": 37,
-    "100203008": 38,
-    "100203009": 39,
-    "100203010": 40,
-    "100203011": 41,
-    "100203012": 42,
-    "1002040": 43,
-    "100204001": 44,
-    "100204002": 45,
-    "100204003": 46,
-    "100204004": 47,
-    "100204005": 48,
-    "100204006": 49,
-    "100204007": 50,
-    "100204008": 51,
-    "100204009": 52,
-    "100204010": 53,
-    "100204011": 54,
-    "100204012": 55,
-    "100204013": 56,
-    "100204014": 57,
-    "100204015": 58,
-    "100204016": 59,
-    "100204017": 60,
-    "100204018": 61,
-    "100204019": 62,
-    "100204020": 63,
-    "100204021": 64,
-    "100204022": 65,
-    "100204023": 66,
-    "1002041": 67,
-    "100204101": 68,
-    "1002050": 69,
-    "100205001": 70,
-    "100205002": 71,
-    "100205003": 72,
-    "100205004": 73,
-    "100205005": 74,
-    "100205006": 75,
-    "100205007": 76,
-    "100205008": 77,
-    "100205009": 78,
-    "100205010": 79,
-    "100205011": 80,
-    "100205012": 81,
-    "100205013": 82,
-    "100205014": 83,
-    "100205015": 84,
-    "100205016": 85,
-    "100205017": 86,
-    "100205018": 87,
-    "1003010": 88,
-    "100301001": 89,
-    "100301002": 90,
-    "100301003": 91,
-    "100301004": 92,
-    "100301005": 93,
-    "100301006": 94,
-    "100301007": 95,
-    "100301008": 96,
-    "100301009": 97,
-    "100301010": 98,
-    "100301011": 99,
-    "100301012": 100,
-    "100301013": 101,
-    "100301014": 102,
-    "100301015": 103,
-    "100301016": 104,
-    "100301017": 105,
-    "100301018": 106,
-    "1003011": 107,
-    "1003012": 108,
-    "1003013": 109,
-    "1004010": 110,
-    "100401001": 111,
-    "100401002": 112,
-    "100401003": 113,
-    "1004011": 114,
-    "1004012": 115,
-    "1004013": 116,
-    "1004020": 117,
-    "100402001": 118,
-    "100402002": 119,
-    "100402003": 120,
-    "100402004": 121,
-    "100402005": 122,
-    "1004021": 123,
-    "1004022": 124,
-    "1004023": 125,
-    "1004024": 126,
-    "1004025": 127,
-    "1004030": 128,
-    "100403001": 129,
-    "100403002": 130,
-    "1004031": 131,
-    "100403101": 132,
-    "1004032": 133,
-    "1005010": 134,
-    "1005011": 135,
-    "1005012": 136,
-    "1005013": 137,
-    "1012010": 138,
-    "101201001": 139,
-    "101201002": 140,
-    "101201003": 141,
-    "101201004": 142,
-    "101201005": 143,
-    "101201006": 144,
-    "101201007": 145,
-    "101201008": 146,
-    "101201009": 147,
-    "101201010": 148,
-    "101201011": 149,
-    "101201012": 150,
-    "101201013": 151,
-    "101201014": 152,
-    "101201015": 153,
-    "101201016": 154,
-    "1012011": 155,
-    "1012020": 156,
-    "101202001": 157,
-    "101202002": 158,
-    "101202003": 159,
-    "1012021": 160,
-    "101202101": 161,
-    "101202102": 162,
-    "101202103": 163,
-    "101202104": 164,
-    "101202105": 165,
-    "101202106": 166,
-    "101202107": 167,
-    "101202108": 168,
-    "101202109": 169,
-    "101202110": 170,
-    "1012030": 171,
-    "101203001": 172,
-    "101203002": 173,
-    "101203003": 174,
-    "101203004": 175,
-    "101203005": 176,
-    "101203006": 177,
-    "101203007": 178,
-    "101203008": 179,
-    "101203009": 180,
-    "101203010": 181,
-    "101203011": 182,
-    "101203012": 183,
-    "101203013": 184,
-    "101203014": 185,
-    "1012040": 186,
-    "1012041": 187,
-    "1012042": 188,
-    "1013010": 189,
-    "101301001": 190,
-    "101301002": 191,
-    "101301003": 192,
-    "101301004": 193,
-    "101301005": 194,
-    "101301006": 195,
-    "101301007": 196,
-    "101301008": 197,
-    "101301009": 198,
-    "101301010": 199,
-    "101301011": 200,
-    "101301012": 201,
-    "101301013": 202,
-    "101301014": 203,
-    "101301015": 204,
-    "101301016": 205,
-    "101301017": 206,
-    "101301018": 207,
-    "1013011": 208,
-    "1013012": 209,
-    "1013013": 210,
-    "1013014": 211,
-    "1013020": 212,
-    "101302001": 213,
-    "101302002": 214,
-    "101302003": 215,
-    "101302004": 216,
-    "101302005": 217,
-    "101302006": 218,
-    "101302007": 219,
-    "101302008": 220,
-    "101302009": 221,
-    "101302010": 222,
-    "101302011": 223,
-    "101302012": 224,
-    "101302013": 225,
-    "101302014": 226,
-    "101302015": 227,
-    "101302020": 228,
-    "101302021": 229,
-    "101302022": 230,
-    "101302023": 231,
-    "1013021": 232,
-    "1013022": 233,
-    "1013023": 234,
-    "1013024": 235,
-    "1014010": 236,
-    "101401001": 237,
-    "101401002": 238,
-    "101401003": 239,
-    "101401004": 240,
-    "101401005": 241,
-    "101401006": 242,
-    "101401007": 243,
-    "101401008": 244,
-    "1014011": 245,
-    "1014012": 246,
-    "1022010": 247,
-    "102201001": 248,
-    "102201002": 249,
-    "102201003": 250,
-    "102201004": 251,
-    "102201005": 252,
-    "102201006": 253,
-    "102201007": 254,
-    "102201008": 255,
-    "102201009": 256,
-    "102201010": 257,
-    "102201011": 258,
-    "102201012": 259,
-    "1022020": 260,
-    "102202001": 261,
-    "102202002": 262,
-    "102202003": 263,
-    "102202004": 264,
-    "102202005": 265,
-    "102202006": 266,
-    "102202007": 267,
-    "102202008": 268,
-    "102202009": 269,
-    "102202010": 270,
-    "102202011": 271,
-    "102202012": 272,
-    "102202013": 273,
-    "102202014": 274,
-    "102202015": 275,
-    "102202016": 276,
-    "102202017": 277,
-    "102202018": 278,
-    "102202019": 279,
-    "102202020": 280,
-    "102202021": 281,
-    "102202022": 282,
-    "1023010": 283,
-    "102301001": 284,
-    "102301002": 285,
-    "102301003": 286,
-    "102301004": 287,
-    "102301005": 288,
-    "102301006": 289,
-    "102301007": 290,
-    "102301008": 291,
-    "102301009": 292,
-    "102301010": 293,
-    "102301011": 294,
-    "102301012": 295,
-    "102301013": 296,
-    "102301014": 297,
-    "1023011": 298,
-    "1023020": 299,
-    "102302001": 300,
-    "102302002": 301,
-    "102302003": 302,
-    "102302004": 303,
-    "1023021": 304,
-    "2002010": 305,
-    "200201001": 306,
-    "200201002": 307,
-    "200201003": 308,
-    "200201004": 309,
-    "200201005": 310,
-    "200201006": 311,
-    "2002020": 312,
-    "200202001": 313,
-    "200202002": 314,
-    "200202003": 315,
-    "2002021": 316,
-    "200202101": 317,
-    "200202102": 318,
-    "200202103": 319,
-    "2002030": 320,
-    "200203001": 321,
-    "200203002": 322,
-    "200203003": 323,
-    "200203004": 324,
-    "2002031": 325,
-    "200203201": 326,
-    "200203202": 327,
-    "2004010": 328,
-    "200401001": 329,
-    "200401002": 330,
-    "200401003": 331,
-    "200401004": 332,
-    "2004011": 333,
-    "2004012": 334,
-    "2004013": 335,
-    "2004020": 336,
-    "200402001": 337,
-    "200402002": 338,
-    "200402003": 339,
-    "200402004": 340,
-    "200402005": 341,
-    "2004021": 342,
-    "2004022": 343,
-    "2004023": 344,
-    "2011010": 345,
-    "201101001": 346,
-    "201101002": 347,
-    "201101003": 348,
-    "2011020": 349,
-    "201102001": 350,
-    "201102002": 351,
-    "201102003": 352,
-    "2012010": 353,
-    "201201001": 354,
-    "201201002": 355,
-    "201201003": 356,
-    "201201004": 357,
-    "201201005": 358,
-    "201201006": 359,
-    "201201007": 360,
-    "2013010": 361,
-    "201301001": 362,
-    "201301002": 363,
-    "201301003": 364,
-    "201301004": 365,
-    "201301005": 366,
-    "201301006": 367,
-    "201301007": 368,
-    "2013011": 369,
-    "2013012": 370,
-    "2013020": 371,
-    "201302001": 372,
-    "201302002": 373,
-    "201302003": 374,
-    "201302004": 375,
-    "2013021": 376,
-    "2022010": 377,
-    "202201001": 378,
-    "202201002": 379,
-    "202201003": 380,
-    "202201004": 381,
-    "202201005": 382,
-    "202201006": 383,
-    "202201007": 384,
-    "202201008": 385,
-    "202201009": 386,
-    "202201010": 387,
-    "2022020": 388,
-    "202202001": 389,
-    "202202002": 390,
-    "202202003": 391,
-    "202202004": 392,
-    "202202005": 393,
-    "202202006": 394,
-    "202202007": 395,
-    "202202008": 396,
-    "202202009": 397,
-    "2022040": 398,
-    "202204001": 399,
-    "202204002": 400,
-    "202204003": 401,
-    "202204004": 402,
-    "202204005": 403,
-    "2022050": 404,
-    "202205001": 405,
-    "202205002": 406,
-    "202205003": 407,
-    "202205004": 408,
-    "2022051": 409,
-    "2022060": 410,
-    "202206001": 411,
-    "202206002": 412,
-    "202206003": 413,
-    "2022070": 414,
-    "2022071": 415,
-    "202207101": 416,
-    "2022080": 417,
-    "2022081": 418,
-    "202208101": 419,
-    "2022090": 420,
-    "2022091": 421,
-    "202209101": 422,
-    "2022100": 423,
-    "2022101": 424,
-    "202210101": 425,
-    "2022110": 426,
-    "202211001": 427,
-    "202211002": 428,
-    "202211003": 429,
-    "2023010": 430,
-    "202301001": 431,
-    "202301002": 432,
-    "202301003": 433,
-    "202301004": 434,
-    "202301005": 435,
-    "202301006": 436,
-    "202301007": 437,
-    "202301008": 438,
-    "202301009": 439,
-    "202301010": 440,
-    "202301011": 441,
-    "202301012": 442,
-    "2023011": 443,
-    "2023020": 444,
-    "202302001": 445,
-    "202302002": 446,
-    "202302003": 447,
-    "202302004": 448,
-    "202302005": 449,
-    "202302006": 450,
-    "2023021": 451,
-    "2023030": 452,
-    "202303001": 453,
-    "202303002": 454,
-    "202303003": 455,
-    "202303004": 456,
-    "202303005": 457,
-    "202303006": 458,
-    "202303007": 459,
-    "2023031": 460,
-    "2024010": 461,
-    "202401001": 462,
-    "202401002": 463,
-    "2024011": 464,
-    "2024012": 465,
-    "2024013": 466,
-    "2024020": 467,
-    "202402001": 468,
-    "202402002": 469,
-    "202402003": 470,
-    "3021020": 471,
-    "3021021": 472,
-    "3021030": 473,
-    "3021031": 474,
-    "3021040": 475,
-    "3021041": 476,
-    "3024010": 477,
-    "302401001": 478,
-    "302401002": 479,
-    "302401003": 480,
-    "3024011": 481,
-    "3024012": 482,
-    "7001010": 483,
-    "7001011": 484,
-    "7001012": 485,
-    "7001013": 486,
-    "7002010": 487,
-    "7002011": 488,
-    "7002020": 489,
-    "7002030": 490,
-    "700203001": 491,
-    "700203002": 492,
-    "7002040": 493,
-    "7002050": 494,
-    "700205001": 495,
-    "7002060": 496,
-    "7002070": 497,
-    "700207001": 498,
-    "700207002": 499,
-    "7002080": 500,
-    "7002090": 501,
-    "700209001": 502,
-    "7002100": 503,
-    "7002110": 504,
-    "7002120": 505,
-    "7002130": 506,
-    "7002140": 507,
-    "7003010": 508,
-    "7003020": 509,
-    "7003030": 510,
-    "7003040": 511,
-    "7003050": 512,
-    "7003060": 513,
-    "7003070": 514,
-    "7003080": 515,
-    "7003090": 516,
-    "7003100": 517,
-    "8001010": 518,
-    "800101001": 519,
-    "800101002": 520,
-    "800101003": 521,
-    "800101004": 522,
-    "800101005": 523,
-    "800101006": 524,
-    "800101007": 525,
-    "800101008": 526,
-    "800101009": 527,
-    "800101010": 528,
-    "800101011": 529,
-    "800101012": 530,
-    "800101013": 531,
-    "800101014": 532,
-    "800101015": 533,
-    "800101016": 534,
-    "8001020": 535,
-    "800102001": 536,
-    "800102002": 537,
-    "800102003": 538,
-    "800102004": 539,
-    "800102005": 540,
-    "800102006": 541,
-    "800102007": 542,
-    "800102008": 543,
-    "800102009": 544,
-    "800102010": 545,
-    "800102011": 546,
-    "800102012": 547,
-    "800102013": 548,
-    "800102014": 549,
-    "800102015": 550,
-    "800102016": 551,
-    "8001030": 552,
-    "800103001": 553,
-    "800103002": 554,
-    "800103003": 555,
-    "800103004": 556,
-    "8001040": 557,
-    "800104001": 558,
-    "800104002": 559,
-    "800104003": 560,
-    "8001050": 561,
-    "800105001": 562,
-    "800105002": 563,
-    "800105003": 564,
-    "800105004": 565,
-    "8002010": 566,
-    "800201001": 567,
-    "800201002": 568,
-    "800201003": 569,
-    "800201004": 570,
-    "800201005": 571,
-    "800201006": 572,
-    "800201007": 573,
-    "800201008": 574,
-    "800201009": 575,
-    "8002040": 576,
-    "800204001": 577,
-    "800204002": 578,
-    "800204003": 579,
-    "800204004": 580,
-    "8002041": 581,
-    "8002050": 582,
-    "800205001": 583,
-    "800205002": 584,
-    "800205003": 585,
-    "800205004": 586,
-    "800205005": 587,
-    "800205006": 588,
-    "800205007": 589,
-    "800205008": 590,
-    "800205009": 591,
-    "800205010": 592,
-    "800205011": 593,
-    "800205012": 594,
-    "800205013": 595,
-    "800205014": 596,
-    "800205015": 597,
-    "800205016": 598,
-    "800205017": 599,
-    "800205018": 600,
-    "800205019": 601,
-    "8002051": 602,
-    "8002052": 603,
-    "8002053": 604,
-    "8002054": 605,
-    "8002055": 606,
-    "8002056": 607,
-    "8002057": 608,
-    "8002058": 609,
-    "8002059": 610,
-    "8002060": 611,
-    "8002061": 612,
-    "8002070": 613,
-    "8002071": 614,
-    "8002080": 615,
-    "8002081": 616,
-    "800208101": 617,
-    "8002082": 618,
-    "8002090": 619,
-    "8002091": 620,
-    "8002100": 621,
-    "8002101": 622,
-    "8002102": 623,
-    "8003010": 624,
-    "800301001": 625,
-    "800301002": 626,
-    "800301003": 627,
-    "800301004": 628,
-    "800301005": 629,
-    "800301006": 630,
-    "800301007": 631,
-    "800301008": 632,
-    "800301009": 633,
-    "800301010": 634,
-    "800301011": 635,
-    "800301012": 636,
-    "8003011": 637,
-    "8003020": 638,
-    "800302001": 639,
-    "800302002": 640,
-    "800302003": 641,
-    "800302004": 642,
-    "800302005": 643,
-    "800302006": 644,
-    "800302007": 645,
-    "800302008": 646,
-    "800302009": 647,
-    "800302010": 648,
-    "800302011": 649,
-    "800302012": 650,
-    "800302013": 651,
-    "800302014": 652,
-    "800302015": 653,
-    "800302016": 654,
-    "800302017": 655,
-    "8003021": 656,
-    "8003030": 657,
-    "800303001": 658,
-    "800303002": 659,
-    "800303003": 660,
-    "800303004": 661,
-    "800303005": 662,
-    "800303006": 663,
-    "800303007": 664,
-    "800303008": 665,
-    "800303009": 666,
-    "800303010": 667,
-    "800303011": 668,
-    "800303012": 669,
-    "8003031": 670,
-    "8003040": 671,
-    "800304001": 672,
-    "800304002": 673,
-    "800304003": 674,
-    "800304004": 675,
-    "800304005": 676,
-    "800304006": 677,
-    "800304007": 678,
-    "800304008": 679,
-    "800304009": 680,
-    "8003041": 681,
-    "8003042": 682,
-    "8003050": 683,
-    "800305001": 684,
-    "800305002": 685,
-    "800305003": 686,
-    "800305004": 687,
-    "800305005": 688,
-    "800305006": 689,
-    "800305007": 690,
-    "800305008": 691,
-    "800305009": 692,
-    "8003051": 693,
-    "8003052": 694,
-    "8011010": 695,
-    "801101001": 696,
-    "801101002": 697,
-    "801101003": 698,
-    "801101004": 699,
-    "801101005": 700,
-    "801101006": 701,
-    "801101007": 702,
-    "801101008": 703,
-    "8011020": 704,
-    "801102001": 705,
-    "801102002": 706,
-    "801102003": 707,
-    "801102004": 708,
-    "801102005": 709,
-    "801102007": 710,
-    "801102008": 711,
-    "8012010": 712,
-    "801201001": 713,
-    "801201002": 714,
-    "801201003": 715,
-    "801201004": 716,
-    "801201005": 717,
-    "801201006": 718,
-    "801201007": 719,
-    "801201008": 720,
-    "801201009": 721,
-    "801201010": 722,
-    "801201011": 723,
-    "801201012": 724,
-    "801201013": 725,
-    "801201014": 726,
-    "801201015": 727,
-    "801201016": 728,
-    "801201017": 729,
-    "801201018": 730,
-    "801201019": 731,
-    "801201020": 732,
-    "801201021": 733,
-    "801201023": 734,
-    "801201024": 735,
-    "801201025": 736,
-    "801201026": 737,
-    "8012020": 738,
-    "801202001": 739,
-    "801202002": 740,
-    "801202003": 741,
-    "801202004": 742,
-    "801202005": 743,
-    "801202006": 744,
-    "801202007": 745,
-    "801202008": 746,
-    "801202009": 747,
-    "801202010": 748,
-    "801202011": 749,
-    "801202012": 750,
-    "801202013": 751,
-    "8012021": 752,
-    "801202101": 753,
-    "801202102": 754,
-    "8012030": 755,
-    "801203001": 756,
-    "801203002": 757,
-    "801203003": 758,
-    "801203004": 759,
-    "801203005": 760,
-    "801203006": 761,
-    "801203007": 762,
-    "8012140": 763,
-    "8012142": 764,
-    "8012143": 765,
-    "8012145": 766,
-    "8012200": 767,
-    "8012201": 768,
-    "8012202": 769,
-    "8012203": 770,
-    "8012210": 771,
-    "8012211": 772,
-    "8012212": 773,
-    "8012213": 774,
-    "8013010": 775,
-    "801301001": 776,
-    "801301002": 777,
-    "801301003": 778,
-    "801301004": 779,
-    "801301005": 780,
-    "801301006": 781,
-    "801301007": 782,
-    "801301008": 783,
-    "801301009": 784,
-    "801301010": 785,
-    "801301011": 786,
-    "801301012": 787,
-    "801301013": 788,
-    "801301014": 789,
-    "801301015": 790,
-    "8013011": 791,
-    "8013012": 792,
-    "8013013": 793,
-    "8013141": 794,
-    "8013144": 795,
-    "8015010": 796,
-    "8015011": 797,
-    "8015020": 798,
-    "8015021": 799,
-    "8022010": 800,
-    "8022020": 801,
-    "802202001": 802,
-    "802202002": 803,
-    "8022030": 804,
-    "8024010": 805,
-    "8024011": 806,
-    "8024012": 807,
-    "8025010": 808,
-    "802501001": 809,
-    "8032010": 810,
-    "803201001": 811,
-    "803201002": 812,
-    "803201003": 813,
-    "8032020": 814,
-    "803202001": 815,
-    "803202002": 816,
-    "803202003": 817,
-    "8033010": 818,
-    "803301001": 819,
-    "803301002": 820,
-    "8033011": 821,
-    "803301202": 822,
-    "9003020": 823,
-    "9004600": 824
+    "1000042": 0,
+    "1002011": 1,
+    "1002012": 2,
+    "1002013": 3,
+    "1002014": 4,
+    "1002015": 5,
+    "100201501": 6,
+    "1002016": 7,
+    "100201601": 8,
+    "1002017": 9,
+    "100201702": 10,
+    "1002018": 11,
+    "100201802": 12,
+    "1002020": 13,
+    "100202001": 14,
+    "100202002": 15,
+    "100202003": 16,
+    "100202004": 17,
+    "100202005": 18,
+    "100202006": 19,
+    "100202007": 20,
+    "100202008": 21,
+    "100202009": 22,
+    "100202010": 23,
+    "100202011": 24,
+    "100202012": 25,
+    "100202013": 26,
+    "100202014": 27,
+    "100202015": 28,
+    "100202016": 29,
+    "100202101": 30,
+    "1002030": 31,
+    "100203001": 32,
+    "100203002": 33,
+    "100203003": 34,
+    "100203004": 35,
+    "100203005": 36,
+    "100203006": 37,
+    "100203007": 38,
+    "100203008": 39,
+    "100203009": 40,
+    "100203010": 41,
+    "100203011": 42,
+    "100203012": 43,
+    "1002040": 44,
+    "100204001": 45,
+    "100204002": 46,
+    "100204003": 47,
+    "100204004": 48,
+    "100204005": 49,
+    "100204006": 50,
+    "100204007": 51,
+    "100204008": 52,
+    "100204009": 53,
+    "100204010": 54,
+    "100204011": 55,
+    "100204012": 56,
+    "100204013": 57,
+    "100204014": 58,
+    "100204015": 59,
+    "100204016": 60,
+    "100204017": 61,
+    "100204018": 62,
+    "100204019": 63,
+    "100204020": 64,
+    "100204021": 65,
+    "100204022": 66,
+    "100204023": 67,
+    "1002041": 68,
+    "100204101": 69,
+    "1002050": 70,
+    "100205001": 71,
+    "100205002": 72,
+    "100205003": 73,
+    "100205004": 74,
+    "100205005": 75,
+    "100205006": 76,
+    "100205007": 77,
+    "100205008": 78,
+    "100205009": 79,
+    "100205010": 80,
+    "100205011": 81,
+    "100205012": 82,
+    "100205013": 83,
+    "100205014": 84,
+    "100205015": 85,
+    "100205016": 86,
+    "100205017": 87,
+    "100205018": 88,
+    "1003010": 89,
+    "100301001": 90,
+    "100301002": 91,
+    "100301003": 92,
+    "100301004": 93,
+    "100301005": 94,
+    "100301006": 95,
+    "100301007": 96,
+    "100301008": 97,
+    "100301009": 98,
+    "100301010": 99,
+    "100301011": 100,
+    "100301012": 101,
+    "100301013": 102,
+    "100301014": 103,
+    "100301015": 104,
+    "100301016": 105,
+    "100301017": 106,
+    "100301018": 107,
+    "1003011": 108,
+    "1003012": 109,
+    "1003013": 110,
+    "1004010": 111,
+    "100401001": 112,
+    "100401002": 113,
+    "100401003": 114,
+    "100401004": 115,
+    "1004011": 116,
+    "1004012": 117,
+    "1004013": 118,
+    "1004020": 119,
+    "100402001": 120,
+    "100402002": 121,
+    "100402003": 122,
+    "100402004": 123,
+    "100402005": 124,
+    "1004021": 125,
+    "1004022": 126,
+    "1004023": 127,
+    "1004024": 128,
+    "1004025": 129,
+    "1004030": 130,
+    "100403001": 131,
+    "100403002": 132,
+    "1004031": 133,
+    "100403101": 134,
+    "1004032": 135,
+    "1005010": 136,
+    "1005011": 137,
+    "1005012": 138,
+    "1005013": 139,
+    "1012010": 140,
+    "101201001": 141,
+    "101201002": 142,
+    "101201003": 143,
+    "101201004": 144,
+    "101201005": 145,
+    "101201006": 146,
+    "101201007": 147,
+    "101201008": 148,
+    "101201009": 149,
+    "101201010": 150,
+    "101201011": 151,
+    "101201012": 152,
+    "101201013": 153,
+    "101201014": 154,
+    "101201015": 155,
+    "101201016": 156,
+    "1012011": 157,
+    "1012020": 158,
+    "101202001": 159,
+    "101202002": 160,
+    "101202003": 161,
+    "1012021": 162,
+    "101202101": 163,
+    "101202102": 164,
+    "101202103": 165,
+    "101202104": 166,
+    "101202105": 167,
+    "101202106": 168,
+    "101202107": 169,
+    "101202108": 170,
+    "101202109": 171,
+    "101202110": 172,
+    "101202111": 173,
+    "1012030": 174,
+    "101203001": 175,
+    "101203002": 176,
+    "101203003": 177,
+    "101203004": 178,
+    "101203005": 179,
+    "101203006": 180,
+    "101203007": 181,
+    "101203008": 182,
+    "101203009": 183,
+    "101203010": 184,
+    "101203011": 185,
+    "101203012": 186,
+    "101203013": 187,
+    "101203014": 188,
+    "101203015": 189,
+    "1012040": 190,
+    "1012041": 191,
+    "1012042": 192,
+    "1013010": 193,
+    "101301001": 194,
+    "101301002": 195,
+    "101301003": 196,
+    "101301004": 197,
+    "101301005": 198,
+    "101301006": 199,
+    "101301007": 200,
+    "101301008": 201,
+    "101301009": 202,
+    "101301010": 203,
+    "101301011": 204,
+    "101301012": 205,
+    "101301013": 206,
+    "101301014": 207,
+    "101301015": 208,
+    "101301016": 209,
+    "101301017": 210,
+    "101301018": 211,
+    "101301019": 212,
+    "1013011": 213,
+    "1013012": 214,
+    "1013013": 215,
+    "1013014": 216,
+    "1013020": 217,
+    "101302001": 218,
+    "101302002": 219,
+    "101302003": 220,
+    "101302004": 221,
+    "101302005": 222,
+    "101302006": 223,
+    "101302007": 224,
+    "101302008": 225,
+    "101302009": 226,
+    "101302010": 227,
+    "101302011": 228,
+    "101302012": 229,
+    "101302013": 230,
+    "101302014": 231,
+    "101302015": 232,
+    "101302020": 233,
+    "101302021": 234,
+    "101302022": 235,
+    "101302023": 236,
+    "101302024": 237,
+    "1013021": 238,
+    "1013022": 239,
+    "1013023": 240,
+    "1013024": 241,
+    "1014010": 242,
+    "101401001": 243,
+    "101401002": 244,
+    "101401003": 245,
+    "101401004": 246,
+    "101401005": 247,
+    "101401006": 248,
+    "101401007": 249,
+    "101401008": 250,
+    "101401009": 251,
+    "1014011": 252,
+    "1014012": 253,
+    "1022010": 254,
+    "102201001": 255,
+    "102201002": 256,
+    "102201003": 257,
+    "102201004": 258,
+    "102201005": 259,
+    "102201006": 260,
+    "102201007": 261,
+    "102201008": 262,
+    "102201009": 263,
+    "102201010": 264,
+    "102201011": 265,
+    "102201012": 266,
+    "1022020": 267,
+    "102202001": 268,
+    "102202002": 269,
+    "102202003": 270,
+    "102202004": 271,
+    "102202005": 272,
+    "102202006": 273,
+    "102202007": 274,
+    "102202008": 275,
+    "102202009": 276,
+    "102202010": 277,
+    "102202011": 278,
+    "102202012": 279,
+    "102202013": 280,
+    "102202014": 281,
+    "102202015": 282,
+    "102202016": 283,
+    "102202017": 284,
+    "102202018": 285,
+    "102202019": 286,
+    "102202020": 287,
+    "102202021": 288,
+    "102202022": 289,
+    "102202023": 290,
+    "1023010": 291,
+    "102301001": 292,
+    "102301002": 293,
+    "102301003": 294,
+    "102301004": 295,
+    "102301005": 296,
+    "102301006": 297,
+    "102301007": 298,
+    "102301008": 299,
+    "102301009": 300,
+    "102301010": 301,
+    "102301011": 302,
+    "102301012": 303,
+    "102301013": 304,
+    "102301014": 305,
+    "1023011": 306,
+    "1023020": 307,
+    "102302001": 308,
+    "102302002": 309,
+    "102302003": 310,
+    "102302004": 311,
+    "1023021": 312,
+    "2002010": 313,
+    "200201001": 314,
+    "200201002": 315,
+    "200201003": 316,
+    "200201004": 317,
+    "200201005": 318,
+    "200201006": 319,
+    "2002020": 320,
+    "200202001": 321,
+    "200202002": 322,
+    "200202003": 323,
+    "2002021": 324,
+    "200202101": 325,
+    "200202102": 326,
+    "200202103": 327,
+    "2002030": 328,
+    "200203001": 329,
+    "200203002": 330,
+    "200203003": 331,
+    "200203004": 332,
+    "2002031": 333,
+    "200203201": 334,
+    "200203202": 335,
+    "2004010": 336,
+    "200401001": 337,
+    "200401002": 338,
+    "200401003": 339,
+    "200401004": 340,
+    "2004011": 341,
+    "2004012": 342,
+    "2004013": 343,
+    "2004020": 344,
+    "200402001": 345,
+    "200402002": 346,
+    "200402003": 347,
+    "200402004": 348,
+    "200402005": 349,
+    "200402006": 350,
+    "2004021": 351,
+    "2004022": 352,
+    "2004023": 353,
+    "2011010": 354,
+    "201101001": 355,
+    "201101002": 356,
+    "201101003": 357,
+    "2011020": 358,
+    "201102001": 359,
+    "201102002": 360,
+    "201102003": 361,
+    "2012010": 362,
+    "201201001": 363,
+    "201201002": 364,
+    "201201003": 365,
+    "201201004": 366,
+    "201201005": 367,
+    "201201006": 368,
+    "201201007": 369,
+    "2013010": 370,
+    "201301001": 371,
+    "201301002": 372,
+    "201301003": 373,
+    "201301004": 374,
+    "201301005": 375,
+    "201301006": 376,
+    "201301007": 377,
+    "2013011": 378,
+    "2013012": 379,
+    "2013020": 380,
+    "201302001": 381,
+    "201302002": 382,
+    "201302003": 383,
+    "201302004": 384,
+    "2013021": 385,
+    "2022010": 386,
+    "202201001": 387,
+    "202201002": 388,
+    "202201003": 389,
+    "202201004": 390,
+    "202201005": 391,
+    "202201006": 392,
+    "202201007": 393,
+    "202201008": 394,
+    "202201009": 395,
+    "202201010": 396,
+    "2022020": 397,
+    "202202001": 398,
+    "202202002": 399,
+    "202202003": 400,
+    "202202004": 401,
+    "202202005": 402,
+    "202202006": 403,
+    "202202007": 404,
+    "202202008": 405,
+    "202202009": 406,
+    "2022040": 407,
+    "202204001": 408,
+    "202204002": 409,
+    "202204003": 410,
+    "202204004": 411,
+    "202204005": 412,
+    "2022050": 413,
+    "202205001": 414,
+    "202205002": 415,
+    "202205003": 416,
+    "202205004": 417,
+    "2022051": 418,
+    "2022060": 419,
+    "202206001": 420,
+    "202206002": 421,
+    "202206003": 422,
+    "2022070": 423,
+    "2022071": 424,
+    "202207101": 425,
+    "2022080": 426,
+    "2022081": 427,
+    "202208101": 428,
+    "2022090": 429,
+    "2022091": 430,
+    "202209101": 431,
+    "2022100": 432,
+    "2022101": 433,
+    "202210101": 434,
+    "2022110": 435,
+    "202211001": 436,
+    "202211002": 437,
+    "202211003": 438,
+    "2023010": 439,
+    "202301001": 440,
+    "202301002": 441,
+    "202301003": 442,
+    "202301004": 443,
+    "202301005": 444,
+    "202301006": 445,
+    "202301007": 446,
+    "202301008": 447,
+    "202301009": 448,
+    "202301010": 449,
+    "202301011": 450,
+    "202301012": 451,
+    "2023011": 452,
+    "2023020": 453,
+    "202302001": 454,
+    "202302002": 455,
+    "202302003": 456,
+    "202302004": 457,
+    "202302005": 458,
+    "202302006": 459,
+    "2023021": 460,
+    "2023030": 461,
+    "202303001": 462,
+    "202303002": 463,
+    "202303003": 464,
+    "202303004": 465,
+    "202303005": 466,
+    "202303006": 467,
+    "202303007": 468,
+    "2023031": 469,
+    "2024010": 470,
+    "202401001": 471,
+    "202401002": 472,
+    "2024011": 473,
+    "2024012": 474,
+    "2024013": 475,
+    "2024014": 476,
+    "2024020": 477,
+    "202402001": 478,
+    "202402002": 479,
+    "202402003": 480,
+    "202402004": 481,
+    "3001010": 482,
+    "300101001": 483,
+    "3001020": 484,
+    "300102001": 485,
+    "3002010": 486,
+    "300201001": 487,
+    "300201002": 488,
+    "300201003": 489,
+    "3002030": 490,
+    "300203001": 491,
+    "300203002": 492,
+    "3002050": 493,
+    "300205002": 494,
+    "3002051": 495,
+    "3002089": 496,
+    "3003010": 497,
+    "3003011": 498,
+    "300301101": 499,
+    "3003020": 500,
+    "300302001": 501,
+    "3003021": 502,
+    "3011010": 503,
+    "3012020": 504,
+    "3012030": 505,
+    "3012031": 506,
+    "3014020": 507,
+    "301402001": 508,
+    "301402002": 509,
+    "301402003": 510,
+    "3014021": 511,
+    "3021020": 512,
+    "3021021": 513,
+    "3021030": 514,
+    "3021031": 515,
+    "3021040": 516,
+    "3021041": 517,
+    "3024010": 518,
+    "302401001": 519,
+    "302401002": 520,
+    "302401003": 521,
+    "3024011": 522,
+    "3024012": 523,
+    "3024020": 524,
+    "302402001": 525,
+    "3024021": 526,
+    "7001010": 527,
+    "7001011": 528,
+    "7001012": 529,
+    "7001013": 530,
+    "7002010": 531,
+    "7002011": 532,
+    "7002020": 533,
+    "7002030": 534,
+    "700203001": 535,
+    "700203002": 536,
+    "7002040": 537,
+    "7002050": 538,
+    "700205001": 539,
+    "7002060": 540,
+    "7002070": 541,
+    "700207001": 542,
+    "700207002": 543,
+    "7002080": 544,
+    "7002090": 545,
+    "700209001": 546,
+    "7002100": 547,
+    "7002110": 548,
+    "7002120": 549,
+    "7002130": 550,
+    "7002140": 551,
+    "7003010": 552,
+    "7003020": 553,
+    "7003030": 554,
+    "7003040": 555,
+    "7003050": 556,
+    "7003060": 557,
+    "7003070": 558,
+    "7003080": 559,
+    "7003090": 560,
+    "7003100": 561,
+    "8001010": 562,
+    "800101001": 563,
+    "800101002": 564,
+    "800101003": 565,
+    "800101004": 566,
+    "800101005": 567,
+    "800101006": 568,
+    "800101007": 569,
+    "800101008": 570,
+    "800101009": 571,
+    "800101010": 572,
+    "800101011": 573,
+    "800101012": 574,
+    "800101013": 575,
+    "800101014": 576,
+    "800101015": 577,
+    "800101016": 578,
+    "8001020": 579,
+    "800102001": 580,
+    "800102002": 581,
+    "800102003": 582,
+    "800102004": 583,
+    "800102005": 584,
+    "800102006": 585,
+    "800102007": 586,
+    "800102008": 587,
+    "800102009": 588,
+    "800102010": 589,
+    "800102011": 590,
+    "800102012": 591,
+    "800102013": 592,
+    "800102014": 593,
+    "800102015": 594,
+    "800102016": 595,
+    "8001030": 596,
+    "800103001": 597,
+    "800103002": 598,
+    "800103003": 599,
+    "800103004": 600,
+    "8001040": 601,
+    "800104001": 602,
+    "800104002": 603,
+    "800104003": 604,
+    "8001050": 605,
+    "800105001": 606,
+    "800105002": 607,
+    "800105003": 608,
+    "800105004": 609,
+    "8002010": 610,
+    "800201001": 611,
+    "800201002": 612,
+    "800201003": 613,
+    "800201004": 614,
+    "800201005": 615,
+    "800201006": 616,
+    "800201007": 617,
+    "800201008": 618,
+    "800201009": 619,
+    "800201012": 620,
+    "8002040": 621,
+    "800204001": 622,
+    "800204002": 623,
+    "800204003": 624,
+    "800204004": 625,
+    "8002041": 626,
+    "8002050": 627,
+    "800205001": 628,
+    "800205002": 629,
+    "800205003": 630,
+    "800205004": 631,
+    "800205005": 632,
+    "800205006": 633,
+    "800205007": 634,
+    "800205008": 635,
+    "800205009": 636,
+    "800205010": 637,
+    "800205011": 638,
+    "800205012": 639,
+    "800205013": 640,
+    "800205014": 641,
+    "800205015": 642,
+    "800205016": 643,
+    "800205017": 644,
+    "800205018": 645,
+    "800205019": 646,
+    "800205020": 647,
+    "800205021": 648,
+    "800205022": 649,
+    "800205023": 650,
+    "800205024": 651,
+    "800205025": 652,
+    "800205026": 653,
+    "800205027": 654,
+    "8002051": 655,
+    "8002052": 656,
+    "8002053": 657,
+    "8002054": 658,
+    "8002055": 659,
+    "8002056": 660,
+    "8002057": 661,
+    "8002058": 662,
+    "8002059": 663,
+    "8002060": 664,
+    "8002061": 665,
+    "8002070": 666,
+    "8002071": 667,
+    "8002080": 668,
+    "8002081": 669,
+    "800208101": 670,
+    "8002082": 671,
+    "8002090": 672,
+    "8002091": 673,
+    "8002100": 674,
+    "8002101": 675,
+    "8002102": 676,
+    "8003010": 677,
+    "800301001": 678,
+    "800301002": 679,
+    "800301003": 680,
+    "800301004": 681,
+    "800301005": 682,
+    "800301006": 683,
+    "800301007": 684,
+    "800301008": 685,
+    "800301009": 686,
+    "800301010": 687,
+    "800301011": 688,
+    "800301012": 689,
+    "800301013": 690,
+    "8003011": 691,
+    "8003020": 692,
+    "800302001": 693,
+    "800302002": 694,
+    "800302003": 695,
+    "800302004": 696,
+    "800302005": 697,
+    "800302006": 698,
+    "800302007": 699,
+    "800302008": 700,
+    "800302009": 701,
+    "800302010": 702,
+    "800302011": 703,
+    "800302012": 704,
+    "800302013": 705,
+    "800302014": 706,
+    "800302015": 707,
+    "800302016": 708,
+    "800302017": 709,
+    "800302019": 710,
+    "8003021": 711,
+    "8003030": 712,
+    "800303001": 713,
+    "800303002": 714,
+    "800303003": 715,
+    "800303004": 716,
+    "800303005": 717,
+    "800303006": 718,
+    "800303007": 719,
+    "800303008": 720,
+    "800303009": 721,
+    "800303010": 722,
+    "800303011": 723,
+    "800303012": 724,
+    "8003031": 725,
+    "8003040": 726,
+    "800304001": 727,
+    "800304002": 728,
+    "800304003": 729,
+    "800304004": 730,
+    "800304005": 731,
+    "800304006": 732,
+    "800304007": 733,
+    "800304008": 734,
+    "800304009": 735,
+    "8003041": 736,
+    "8003042": 737,
+    "8003050": 738,
+    "800305001": 739,
+    "800305002": 740,
+    "800305003": 741,
+    "800305004": 742,
+    "800305005": 743,
+    "800305006": 744,
+    "800305007": 745,
+    "800305008": 746,
+    "800305009": 747,
+    "8003051": 748,
+    "8003052": 749,
+    "8011010": 750,
+    "801101001": 751,
+    "801101002": 752,
+    "801101003": 753,
+    "801101004": 754,
+    "801101005": 755,
+    "801101006": 756,
+    "801101007": 757,
+    "801101008": 758,
+    "8011020": 759,
+    "801102001": 760,
+    "801102002": 761,
+    "801102003": 762,
+    "801102004": 763,
+    "801102005": 764,
+    "801102007": 765,
+    "801102008": 766,
+    "8012010": 767,
+    "801201001": 768,
+    "801201002": 769,
+    "801201003": 770,
+    "801201004": 771,
+    "801201005": 772,
+    "801201006": 773,
+    "801201007": 774,
+    "801201008": 775,
+    "801201009": 776,
+    "801201010": 777,
+    "801201011": 778,
+    "801201012": 779,
+    "801201013": 780,
+    "801201014": 781,
+    "801201015": 782,
+    "801201016": 783,
+    "801201017": 784,
+    "801201018": 785,
+    "801201019": 786,
+    "801201020": 787,
+    "801201021": 788,
+    "801201023": 789,
+    "801201024": 790,
+    "801201025": 791,
+    "801201026": 792,
+    "8012020": 793,
+    "801202001": 794,
+    "801202002": 795,
+    "801202003": 796,
+    "801202004": 797,
+    "801202005": 798,
+    "801202006": 799,
+    "801202007": 800,
+    "801202008": 801,
+    "801202009": 802,
+    "801202010": 803,
+    "801202011": 804,
+    "801202012": 805,
+    "801202013": 806,
+    "8012021": 807,
+    "801202101": 808,
+    "801202102": 809,
+    "8012030": 810,
+    "801203001": 811,
+    "801203002": 812,
+    "801203003": 813,
+    "801203004": 814,
+    "801203005": 815,
+    "801203006": 816,
+    "801203007": 817,
+    "8012140": 818,
+    "8012142": 819,
+    "8012143": 820,
+    "8012145": 821,
+    "8012200": 822,
+    "8012201": 823,
+    "8012202": 824,
+    "8012203": 825,
+    "8012210": 826,
+    "8012211": 827,
+    "8012212": 828,
+    "8012213": 829,
+    "8013010": 830,
+    "801301001": 831,
+    "801301002": 832,
+    "801301003": 833,
+    "801301004": 834,
+    "801301005": 835,
+    "801301006": 836,
+    "801301007": 837,
+    "801301008": 838,
+    "801301009": 839,
+    "801301010": 840,
+    "801301011": 841,
+    "801301012": 842,
+    "801301013": 843,
+    "801301014": 844,
+    "801301015": 845,
+    "8013011": 846,
+    "8013012": 847,
+    "8013013": 848,
+    "8013141": 849,
+    "8013144": 850,
+    "8015010": 851,
+    "8015011": 852,
+    "8015020": 853,
+    "8015021": 854,
+    "8022010": 855,
+    "8022020": 856,
+    "802202001": 857,
+    "802202002": 858,
+    "8022030": 859,
+    "8024010": 860,
+    "8024011": 861,
+    "8024012": 862,
+    "8025010": 863,
+    "802501001": 864,
+    "8032010": 865,
+    "803201001": 866,
+    "803201002": 867,
+    "803201003": 868,
+    "8032020": 869,
+    "803202001": 870,
+    "803202002": 871,
+    "803202003": 872,
+    "8033010": 873,
+    "803301001": 874,
+    "803301002": 875,
+    "8033011": 876,
+    "803301202": 877,
+    "9003020": 878,
+    "9004600": 879
+}
+
+var _status = {
+    "210010101": {
+        "Name": {
+            "CH": "防御降低",
+            "EN": "DEF Reduction"
+        },
+        "Modifier": "Monster_W1_Soldier01_00_DefenceRatioDown",
+        "Desc": {
+            "CH": "防御力降低<color style='color:#f29e38;'>[MDF_PropertyValue]</color>。",
+            "EN": "DEF -<color style='color:#f29e38;'>[MDF_PropertyValue]</color>."
+        },
+        "Type": "Debuff"
+    },
+    "210020201": {
+        "Name": {
+            "CH": "攻击提高",
+            "EN": "ATK Boost"
+        },
+        "Modifier": "Monster_W1_Soldier01_03_Buff",
+        "Desc": {
+            "CH": "攻击力提高<color style='color:#f29e38;'>[Modifier_AttackAddedRatio]</color>。",
+            "EN": "ATK +<color style='color:#f29e38;'>[Modifier_AttackAddedRatio]</color>."
+        },
+        "Type": "Buff"
+    },
+    "210020301": {
+        "Name": {
+            "CH": "支援",
+            "EN": "Support"
+        },
+        "Modifier": "MMonster_W1_Soldier04_00_SkillP01_Supporting",
+        "Desc": {
+            "CH": "受到自身支援的敌方单体对我方目标施放攻击后，自身立刻对受到攻击的该目标发动1次追加攻击。",
+            "EN": "When a Supported friendly unit attacks any target, this unit will immediately launch a follow-up attack on the target."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "210020302": {
+        "Name": {
+            "CH": "援军",
+            "EN": "Reinforced"
+        },
+        "Modifier": "MMonster_W1_Soldier04_00_SkillP01_Supported",
+        "Desc": {
+            "CH": "受到<color style='color:#f29e38;'>%CasterName</color>支援。",
+            "EN": "Receives Support from <color style='color:#f29e38;'>%CasterName</color>."
+        },
+        "CanNotDispel": true
+    },
+    "210030102": {
+        "Name": {
+            "CH": "反击",
+            "EN": "Counter"
+        },
+        "Modifier": "MMonster_W1_Soldier03_00_ListenBeingAttacked",
+        "Desc": {
+            "CH": "受到攻击后，立即对攻击者展开强力反击。",
+            "EN": "Uses a Powerful Counter on the attacker after being attacked."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "210030201": {
+        "Name": {
+            "CH": "集火",
+            "EN": "Aggravate"
+        },
+        "Modifier": "Monster_Gepard_Attack_Sign",
+        "Desc": {
+            "CH": "被所有银鬃铁卫锁定为攻击目标。",
+            "EN": "Silvermane Guards will focus their attacks on this target."
+        },
+        "Type": "Debuff"
+    },
+    "210030204": {
+        "Name": {
+            "CH": "屏障",
+            "EN": "Barrier"
+        },
+        "Modifier": "MMonster_W1_Gepard_00_BlockDamage",
+        "Desc": {
+            "CH": "抵抗除持续伤害外的所有伤害，受到攻击后解除。",
+            "EN": "Nullifies all DMG received except for DoT until after being attacked."
+        },
+        "Type": "Buff"
+    },
+    "210040111": {
+        "Name": {
+            "CH": "伤害提高",
+            "EN": "DMG Boost"
+        },
+        "Modifier": "Monster_W1_CocoliaP1_00_RL_DamageUp",
+        "Desc": {
+            "CH": "造成的伤害提高<color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>，该效果可叠加。",
+            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>. This effect can stack."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "210040113": {
+        "Name": {
+            "CH": "拘束",
+            "EN": "Restrain"
+        },
+        "Modifier": "Monster_W1_Svarog_00_RL_Control_Modifier",
+        "Desc": {
+            "CH": "【拘束】状态下的目标无法行动。",
+            "EN": "Restrained. Cannot take action."
+        },
+        "Type": "Debuff",
+        "CanNotDispel": true
+    },
+    "210040114": {
+        "Name": {
+            "CH": "伤害提高",
+            "EN": "DMG Boost"
+        },
+        "Modifier": "Monster_W1_CocoliaP1_00_RL_Skill05_Buff",
+        "Desc": {
+            "CH": "造成的伤害提高<color style='color:#f29e38;'>[ModifierDamageUpValue]</color>。",
+            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[ModifierDamageUpValue]</color>."
+        },
+        "Type": "Buff"
+    },
+    "210040204": {
+        "Name": {
+            "CH": "拘束",
+            "EN": "Restrain"
+        },
+        "Modifier": "Svarog_Control_Modifier",
+        "Desc": {
+            "CH": "【拘束】状态下的目标无法行动。",
+            "EN": "Restrained. Cannot take action."
+        },
+        "Type": "Debuff",
+        "CanNotDispel": true
+    },
+    "210040221": {
+        "Name": {
+            "CH": "伤害提高",
+            "EN": "DMG Boost"
+        },
+        "Modifier": "Monster_W1_Gepard_00_RL_DamageUP",
+        "Desc": {
+            "CH": "造成的伤害提高<color style='color:#f29e38;'>[MDF_DamageAddedRatio]</color>。",
+            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageAddedRatio]</color>."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "210040222": {
+        "Name": {
+            "CH": "反击",
+            "EN": "Counter"
+        },
+        "Modifier": "MMonster_W1_Gepard_00_RL_ListenBeingAttacked",
+        "Desc": {
+            "CH": "受到攻击后，立即对攻击者展开强力反击。",
+            "EN": "Uses a Powerful Counter on the attacker after being attacked."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "210040223": {
+        "Name": {
+            "CH": "全体护盾",
+            "EN": "Shield for All"
+        },
+        "Modifier": "MAvatar_Gepard_00_RL_ShieldIcon",
+        "Desc": {
+            "CH": "能够抵消敌方全体受到伤害的护盾。护盾耗尽或效果消失前我方目标的攻击不会对敌方持有护盾的目标的生命值造成削减。",
+            "EN": "A Shield that absorbs DMG taken by all enemies. While the Shield persists, allies' attacks will not reduce the Shielded enemies' HP."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "210040224": {
+        "Name": {
+            "CH": "弱点无效",
+            "EN": "Weakness Protected"
+        },
+        "Modifier": "MAvatar_Gepard_00_RL_ShieldIcon2",
+        "Desc": {
+            "CH": "在【全体护盾】消失前，敌方目标的韧性无法受到伤害。",
+            "EN": "Before Shield for All ends, enemy targets' Toughness cannot be depleted."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "210050101": {
+        "Name": {
+            "CH": "灭世纪的预兆",
+            "EN": "Harbinger of Annihilation"
+        },
+        "Modifier": "MMonster_W1_CocoliaP2_00_Skill10_TargetLock",
+        "Desc": {
+            "CH": "被<color style='color:#f29e38;'>%CasterName</color>锁定为攻击目标。",
+            "EN": "<color style='color:#f29e38;'>%CasterName</color> will focus attacks on this target."
+        },
+        "CanNotDispel": true
+    },
+    "210050105": {
+        "Name": {
+            "CH": "创世纪的前奏",
+            "EN": "The Creation's Prelude"
+        },
+        "Modifier": "MMonster_W1_CocoliaP2_00_Skill08_Charge",
+        "Desc": {
+            "CH": "下次攻击对我方全体施放【创世绝响】。",
+            "EN": "The next attack will cause Last Choir of Genesis to all targets."
+        },
+        "CanNotDispel": true
+    },
+    "210120401": {
+        "Name": {
+            "CH": "过载时限",
+            "EN": "Overload Countdown"
+        },
+        "Modifier": "Monster_W1_SvarogPart_00_CountDown",
+        "Desc": {
+            "CH": "辅助机械臂单元进入过载倒计时，倒计时结束时施放【过载警告】。",
+            "EN": "Auxiliary Robot Arm Unit initiates Overload countdown. After the countdown ends, cast Overload Warning."
+        },
+        "CanNotDispel": true
+    },
+    "210120402": {
+        "Name": {
+            "CH": "过载",
+            "EN": "Overload"
+        },
+        "Modifier": "Monster_W1_SvarogPart_00_Overload",
+        "Desc": {
+            "CH": "下次行动施放【控场起爆】。",
+            "EN": "Casts Controlled Blasting in the next action."
+        },
+        "CanNotDispel": true
+    },
+    "210120411": {
+        "Name": {
+            "CH": "过载时限",
+            "EN": "Overload Countdown"
+        },
+        "Modifier": "Monster_W1_SvarogPart_00_RL_CountDown",
+        "Desc": {
+            "CH": "辅助机械臂单元进入过载倒计时，倒计时结束时施放【过载警告】。",
+            "EN": "Auxiliary Robot Arm Unit initiates Overload countdown. After the countdown ends, cast Overload Warning."
+        },
+        "CanNotDispel": true
+    },
+    "210130101": {
+        "Name": {
+            "CH": "蓄力",
+            "EN": "Charge"
+        },
+        "Modifier": "W1_Mecha02_AttackBuff",
+        "Desc": {
+            "CH": "对我方造成的伤害提高<color style='color:#f29e38;'>[ModifierDamageUpValue]</color>。",
+            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[ModifierDamageUpValue]</color>."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "210130122": {
+        "Name": {
+            "CH": "伤害提高",
+            "EN": "DMG Boost"
+        },
+        "Modifier": "Monster_W1_Mecha03_00_RL_Skill03_DamageUp",
+        "Desc": {
+            "CH": "造成的伤害提高<color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>。该效果可叠加。",
+            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>. This effect can stack."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "210130201": {
+        "Name": {
+            "CH": "锁定",
+            "EN": "Lock On"
+        },
+        "Modifier": "Sign_W1_Mecha02",
+        "Desc": {
+            "CH": "被<color style='color:#f29e38;'>%CasterName</color>锁定为攻击目标。",
+            "EN": "<color style='color:#f29e38;'>%CasterName</color> will focus attacks on this target."
+        },
+        "CanNotDispel": true
+    },
+    "210130202": {
+        "Name": {
+            "CH": "裂伤",
+            "EN": "Bleed"
+        },
+        "Modifier": "W1_Mecha02_ThunderDOT",
+        "Desc": {
+            "CH": "一定回合内，每回合开始时受到基于生命上限的物理伤害，最多叠加<color style='color:#f29e38;'>[MDF_MaxLayer]</color>次。",
+            "EN": "For a certain number of turns, receive Physical DMG based on Max HP at the beginning of each turn, stacking up to <color style='color:#f29e38;'>[MDF_MaxLayer]</color> time(s)."
+        },
+        "Type": "Debuff"
+    },
+    "210130222": {
+        "Name": {
+            "CH": "加速",
+            "EN": "SPD Boost"
+        },
+        "Modifier": "Monster_W1_Mecha04_00_RL_Skill12_SpeedUp",
+        "Desc": {
+            "CH": "速度提高<color style='color:#f29e38;'>[MDF_SpeedAddedRatio_PerLayer]</color>。该效果可叠加。",
+            "EN": "Increases SPD by <color style='color:#f29e38;'>[MDF_SpeedAddedRatio_PerLayer]</color>. This effect can stack."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "210230101": {
+        "Name": {
+            "CH": "失控",
+            "EN": "Out of Control"
+        },
+        "Modifier": "Monster_W1_Mecha_Fire_Passive",
+        "Desc": {
+            "CH": "造成的伤害提高<color style='color:#f29e38;'>[ModifierCriticalChanceRatio]</color>，最多叠加5层。",
+            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[ModifierCriticalChanceRatio]</color>. Stack up to 5 times."
+        },
+        "Type": "Buff"
+    },
+    "210230102": {
+        "Name": {
+            "CH": "狂热",
+            "EN": "Mania"
+        },
+        "Modifier": "Monster_W1_Mecha_Fire_Burning",
+        "Desc": {
+            "CH": "攻击力提高<color style='color:#f29e38;'>[Modifier_AttackAddedRatio]</color>。速度提高<color style='color:#f29e38;'>[Modifier_SpeedDelta]</color>点。",
+            "EN": "Increases ATK by <color style='color:#f29e38;'>[Modifier_AttackAddedRatio]</color> and SPD by <color style='color:#f29e38;'>[Modifier_SpeedDelta]</color> pts."
+        },
+        "Type": "Buff"
+    },
+    "210230202": {
+        "Name": {
+            "CH": "深寒",
+            "EN": "Deep Freeze"
+        },
+        "Modifier": "Monster_W1_Mecha03_01_Frozen",
+        "Desc": {
+            "CH": "冰属性抗性降低<color style='color:#f29e38;'>[MDF_IceResistanceRatio_PerLayer]</color>，速度降低<color style='color:#f29e38;'>[MDF_SpeedAddedDelta_PerLayer]</color>，最多叠加<color style='color:#f29e38;'>[MDF_MaxLayer]</color>层。",
+            "EN": "Reduces Ice RES by <color style='color:#f29e38;'>[MDF_IceResistanceRatio_PerLayer]</color> and SPD by <color style='color:#f29e38;'>[MDF_SpeedAddedDelta_PerLayer]</color>. Can stack up to <color style='color:#f29e38;'>[MDF_MaxLayer]</color> time(s)."
+        },
+        "Type": "Debuff"
+    },
+    "210230203": {
+        "Name": {
+            "CH": "防御降低",
+            "EN": "DEF Reduction"
+        },
+        "Modifier": "Monster_W1_Mecha03_01_Overheat",
+        "Desc": {
+            "CH": "防御力降低<color style='color:#f29e38;'>[MDF_DefenceAddedRatio]</color>。",
+            "EN": "DEF -<color style='color:#f29e38;'>[MDF_DefenceAddedRatio]</color>."
+        },
+        "Type": "Debuff"
+    },
+    "210230207": {
+        "Name": {
+            "CH": "超限",
+            "EN": "Surpass"
+        },
+        "Modifier": "Monster_W1_Mecha03_01_Rage",
+        "Desc": {
+            "CH": "攻击力提高<color style='color:#f29e38;'>[MDF_AttackAddedRatio]</color>。",
+            "EN": "ATK +<color style='color:#f29e38;'>[MDF_AttackAddedRatio]</color>."
+        },
+        "Type": "Buff"
+    },
+    "210230208": {
+        "Name": {
+            "CH": "锁定",
+            "EN": "Lock On"
+        },
+        "Modifier": "Monster_W1_Mecha03_01_Sign",
+        "Desc": {
+            "CH": "被<color style='color:#f29e38;'>%CasterName</color>锁定为攻击目标。",
+            "EN": "<color style='color:#f29e38;'>%CasterName</color> will focus attacks on this target."
+        },
+        "CanNotDispel": true
+    },
+    "220040111": {
+        "Name": {
+            "CH": "伤害提高",
+            "EN": "DMG Boost"
+        },
+        "Modifier": "Monster_W2_Kafka_00_RL_DamageUp",
+        "Desc": {
+            "CH": "造成的伤害提高<color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>。该效果可叠加。",
+            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>. This effect can stack."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "220040112": {
+        "Name": {
+            "CH": "心理暗示",
+            "EN": "Psychological Suggestion"
+        },
+        "Modifier": "Monster_W2_Kafka_00_RL_MindControl_True",
+        "Desc": {
+            "CH": "下次【揭晓】时触发。可以被优先解除。",
+            "EN": "Triggered at the next Revelation. Can be removed before that action."
+        },
+        "Type": "Debuff"
+    },
+    "220040201": {
+        "Name": {
+            "CH": "阵眼",
+            "EN": "Formation Core"
+        },
+        "Modifier": "MMonster_W2_Yanqing_00_Skill02_UnknownWeakPoint_01",
+        "Desc": {
+            "CH": "该敌方目标的弱点属性为风、雷、虚数的其中一种，对其施放正确属性的攻击，可以知晓其真实的弱点属性；对该目标造成弱点击破可以直接消灭该目标。",
+            "EN": "The Weakness of the target enemy is one of the following: Wind, Lightning, Imaginary. Use attacks of the corresponding Types to figure out the real Weakness Type. Inflict Weakness Break on the target to destroy the enemy."
+        },
+        "CanNotDispel": true
+    },
+    "220040204": {
+        "Name": {
+            "CH": "剑阵",
+            "EN": "Sword Formation"
+        },
+        "Modifier": "MMonster_W2_Yanqing_00_Skill02_UnknownWeakPoint_Core",
+        "Desc": {
+            "CH": "彦卿的韧性无法受到伤害且速度提高<color style='color:#f29e38;'>[MDF_SpeedDelta]</color>点。消灭所有的【飞剑】可以解除该效果并对彦卿造成伤害。",
+            "EN": "Yanqing's Toughness cannot be depleted, and his SPD increases by <color style='color:#f29e38;'>[MDF_SpeedDelta]</color>. Destroy all of Yanqing's Flying Swords to dispel that effect and cause DMG to Yanqing."
+        },
+        "CanNotDispel": true
+    },
+    "220130102": {
+        "Name": {
+            "CH": "罚恶模式",
+            "EN": "Sanction Mode"
+        },
+        "Modifier": "MMonster_W2_Mecha03_00_Overdrive_On",
+        "Desc": {
+            "CH": "金人司阍的韧性无法受到伤害且速度提高<color style='color:#f29e38;'>[MDF_SpeedAddedValue]</color>点，并开启使用技能：戒退和缚束。",
+            "EN": "The Aurumaton Gatekeeper's Toughness cannot be damaged. Its SPD increases by <color style='color:#f29e38;'>[MDF_SpeedAddedValue]</color> and it activates the abilities Restraint and Enchainment."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "220220101": {
+        "Name": {
+            "CH": "重生",
+            "EN": "Rebirth"
+        },
+        "Modifier": "Monster_W2_Abomi01_00_Revive",
+        "Desc": {
+            "CH": "受到致命攻击时，立即回复一定生命值。",
+            "EN": "Upon receiving a killing blow, restores a certain amount of HP."
+        },
+        "Type": "Buff"
+    },
+    "220220102": {
+        "Name": {
+            "CH": "加速",
+            "EN": "SPD Boost"
+        },
+        "Modifier": "Monster_W2_Abomi01_00_Accelerate",
+        "Desc": {
+            "CH": "速度提高。",
+            "EN": "SPD Increased."
+        },
+        "Type": "Buff"
+    },
+    "220220203": {
+        "Name": {
+            "CH": "引动雷劫",
+            "EN": "Spur of Thunderwoe"
+        },
+        "Modifier": "Monster_W2_Abomi02_00_Mark",
+        "Desc": {
+            "CH": "当「药王秘传」内丹士受到致命攻击时，对所有陷入被其添加的【引动雷劫】状态的我方目标造成1次伤害。",
+            "EN": "Upon receiving a killing blow, the Disciples of Sanctus Medicus: Internal Alchemist deals DMG 1 time to targets that are inflicted with Spur of Thunderwoe by them."
+        },
+        "Type": "Debuff"
+    },
+    "220220204": {
+        "Name": {
+            "CH": "结丹者",
+            "EN": "Core Formation"
+        },
+        "Modifier": "Monster_W2_Abomi02_00_TargetList",
+        "Desc": {
+            "CH": "受到致命攻击时，对所有陷入被自身添加的【引动雷劫】状态的我方目标造成1次伤害。\n当前陷入【引动雷劫】状态的我方目标有：<color style='color:#f29e38;'>%DynamicTargetName</color>。",
+            "EN": "Upon receiving a killing blow, the unit deals DMG 1 time to targets that are afflicted with Spur of Thunderwoe by them.\nThe current targets who have Spur of Thunderwoe on them are: <color style='color:#f29e38;'>%DynamicTargetName</color>."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "220220801": {
+        "Name": {
+            "CH": "复还",
+            "EN": "Retaliation"
+        },
+        "Modifier": "MMonster_W2_Xuanlu_02_Counter",
+        "Desc": {
+            "CH": "受到攻击后，对攻击者造成伤害。",
+            "EN": "When attacked by an enemy, deals DMG to that enemy."
+        },
+        "Type": "Buff"
+    },
+    "220220802": {
+        "Name": {
+            "CH": "繁生",
+            "EN": "Engender"
+        },
+        "Modifier": "MMonster_W2_Xuanlu_02_Buff",
+        "Desc": {
+            "CH": "攻击力提高。",
+            "EN": "Increases ATK."
+        },
+        "Type": "Buff"
+    },
+    "220221001": {
+        "Name": {
+            "CH": "嘉实",
+            "EN": "Lavish Fruit"
+        },
+        "Modifier": "MMonster_W2_Xuanlu_04_Charge",
+        "Desc": {
+            "CH": "当场上存在2个【嘉实】时，丰饶玄鹿会立即施放【班龙触】。",
+            "EN": "When there are 2 Lavish Fruits on the field, the Abundant Ebon Deer will immediately use Flamboyant Gore."
+        },
+        "CanNotDispel": true
+    },
+    "220230101": {
+        "Name": {
+            "CH": "击中回复",
+            "EN": "Draining Hit"
+        },
+        "Modifier": "MMonster_W2_Abomi04_00_HitToHeal",
+        "Desc": {
+            "CH": "当场上存在其他带有【重生】效果的敌方目标时，「药王秘传」炼形者具有以下效果：击中我方目标后，回复其自身生命值。",
+            "EN": "When there are other enemy targets with \"Rebirth\" remaining on the field, Disciples of Sanctus Medicus: Shape Shifter will have the following effect — restores its HP when its attack hits."
+        },
+        "Type": "Buff"
+    },
+    "220230201": {
+        "Name": {
+            "CH": "元气",
+            "EN": "Gusto"
+        },
+        "Modifier": "Monster_W2_Beast02_00_Bullet",
+        "Desc": {
+            "CH": "【长右】当前拥有的【元气】。",
+            "EN": "Malefic Ape's current Gusto amount."
+        },
+        "CanNotDispel": true
+    },
+    "220230203": {
+        "Name": {
+            "CH": "屏障",
+            "EN": "Barrier"
+        },
+        "Modifier": "MMonster_W2_Beast02_00_BlockDamage",
+        "Desc": {
+            "CH": "抵抗除持续伤害外的所有伤害，受到攻击后解除。",
+            "EN": "Nullifies all DMG received except DoTs. This status is dispelled after being attacked."
+        },
+        "Type": "Buff"
+    },
+    "220240101": {
+        "Name": {
+            "CH": "蕉覆",
+            "EN": "Hardy Leaf Sheath"
+        },
+        "Modifier": "MMonster_W2_Xuanlu_00_Skill07_NoWeakness",
+        "Desc": {
+            "CH": "防御力提高，韧性无法受到伤害。",
+            "EN": "Increases DEF. Toughness cannot be reduced."
+        },
+        "Type": "Buff"
+    },
+    "280010301": {
+        "Name": {
+            "CH": "攻击提高",
+            "EN": "ATK Boost"
+        },
+        "Modifier": "Monster_XP_Minion03_00_Attack",
+        "Desc": {
+            "CH": "攻击力提高<color style='color:#f29e38;'>[MDF_AttackAddedRatio]</color>。",
+            "EN": "ATK +<color style='color:#f29e38;'>[MDF_AttackAddedRatio]</color>."
+        },
+        "Type": "Buff"
+    },
+    "280020102": {
+        "Name": {
+            "CH": "后手",
+            "EN": "Defensive Position"
+        },
+        "Modifier": "XP_Minion02_00_Attack",
+        "Desc": {
+            "CH": "下次行动时施放【颂歌爆发】，对我方目标造成的伤害提高<color style='color:#f29e38;'>[MDF_DamageAddedRatio]</color>。",
+            "EN": "Uses Carolburst during the next action and increases DMG dealt to targets by <color style='color:#f29e38;'>[MDF_DamageAddedRatio]</color>."
+        },
+        "Type": "Buff"
+    },
+    "280020601": {
+        "Name": {
+            "CH": "报…报复你",
+            "EN": "T—Taking Revenge"
+        },
+        "Modifier": "MMonster_XP_Minion04_02_Introduce",
+        "Desc": {
+            "CH": "当我方目标攻击敌方目标后，【毁灭扑满】对我方全体进行攻击，攻击次数相当于本次攻击击中的敌方目标数量。",
+            "EN": "When a friendly unit is attacked, Trotter of Destruction will attack all targets. The attack count is equal to the number of the targets attacked."
+        },
+        "CanNotDispel": true
+    },
+    "280020701": {
+        "Name": {
+            "CH": "治…治好你",
+            "EN": "C—Cure You"
+        },
+        "Modifier": "MMonster_XP_Minion04_03_Introduce",
+        "Desc": {
+            "CH": "当【丰饶扑满】队友受到我方目标攻击后，消耗自身当前生命值为被受到攻击的敌方目标回复生命值。",
+            "EN": "When a friendly unit is attacked by a target, Trotter of Abundance consumes its own HP to heal the attacked friendly unit."
+        },
+        "CanNotDispel": true
+    },
+    "280020801": {
+        "Name": {
+            "CH": "保…保护你",
+            "EN": "P—Protect You"
+        },
+        "Modifier": "MMonster_XP_Minion04_02_Cunhu_Buff",
+        "Desc": {
+            "CH": "每层【保…保护你】可抵抗1次伤害，敌方全体共享【保…保护你】层数。",
+            "EN": "Each stack of P—Protect You can absorb DMG from 1 incoming hit. P—Protect You stacks are shared across the team."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "280030101": {
+        "Name": {
+            "CH": "冰点",
+            "EN": "Freezing Point"
+        },
+        "Modifier": "XP_Ice_Elite_Powerful_Modifier",
+        "Desc": {
+            "CH": "外宇宙之冰的攻击模式得到强化。",
+            "EN": "Ice Out of Space's attack mode is enhanced."
+        },
+        "CanNotDispel": true
+    },
+    "280030202": {
+        "Name": {
+            "CH": "自燃",
+            "EN": "Spontaneous Combustion"
+        },
+        "Modifier": "XP_Fire_Elite_Burning_Modifier_2",
+        "Desc": {
+            "CH": "外宇宙之炎的攻击模式得到强化。",
+            "EN": "Blaze Out of Space's attack mode is enhanced."
+        },
+        "CanNotDispel": true
+    },
+    "280030203": {
+        "Name": {
+            "CH": "焚烧",
+            "EN": "Enkindle"
+        },
+        "Modifier": "MMonster_XP_Elite01_00_Burn",
+        "Desc": {
+            "CH": "一定回合内，每回合开始时受到火属性伤害。",
+            "EN": "Takes Fire DMG at the beginning of each turn for a certain number of turns."
+        },
+        "Type": "Debuff"
+    },
+    "280030301": {
+        "Name": {
+            "CH": "禁令",
+            "EN": "Ban"
+        },
+        "Modifier": "Monster_XP_Elite02_00_Edict01",
+        "Desc": {
+            "CH": "攻击<color style='color:#f29e38;'>%CasterName</color>会立即受到1次攻击。",
+            "EN": "Whoever attacks <color style='color:#f29e38;'>%CasterName</color> will be attacked 1 time."
+        },
+        "Type": "Debuff"
+    },
+    "280030302": {
+        "Name": {
+            "CH": "禁令",
+            "EN": "Ban"
+        },
+        "Modifier": "Monster_XP_Elite02_00_Edict02",
+        "Desc": {
+            "CH": "施放普攻会立即受到1次攻击。",
+            "EN": "Whoever uses Basic ATK will be attacked 1 time."
+        },
+        "Type": "Debuff"
+    },
+    "280030303": {
+        "Name": {
+            "CH": "禁令",
+            "EN": "Ban"
+        },
+        "Modifier": "Monster_XP_Elite02_00_Edict03",
+        "Desc": {
+            "CH": "施放战技会立即受到1次攻击。",
+            "EN": "Whoever uses Skills will be attacked 1 time."
+        },
+        "Type": "Debuff"
+    },
+    "280030306": {
+        "Name": {
+            "CH": "dev_debuff减防",
+            "EN": ""
+        },
+        "Modifier": "Monster_XP_Elite02_00_DebuffEnhanceEffect",
+        "Desc": {
+            "CH": "dev_每层使防御力降低<color style='color:#f29e38;'>[MDF_DefenceAddedRatio_PerLayer]</color>，最多叠加<color style='color:#f29e38;'>[MDF_MaxLayer]</color>层",
+            "EN": ""
+        },
+        "Type": "Debuff",
+        "CanNotDispel": true
+    },
+    "280030405": {
+        "Name": {
+            "CH": "追忆深度",
+            "EN": "Gauge Recollection"
+        },
+        "Modifier": "Monster_XP_Elite02_01_EnergyLayer",
+        "Desc": {
+            "CH": "当前拥有<color style='color:#f29e38;'>[ModifierLayers]</color>层【追忆刻度】，每次受到攻击后失去1层【追忆刻度】。",
+            "EN": "Current stacks of Gauge Recollection: <color style='color:#f29e38;'>[ModifierLayers]</color>. Loses 1 stack of Gauge Recollection after being hit."
+        },
+        "CanNotDispel": true
+    },
+    "280030603": {
+        "Name": {
+            "CH": "持咒",
+            "EN": "Japa"
+        },
+        "Modifier": "Monster_XP_Elite02_02_ChargeEffect",
+        "Desc": {
+            "CH": "下次行动对我方全体施放【玄气噬身】。",
+            "EN": "Uses Black Prana's Snare on all targets during the next action."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "280120101": {
+        "Name": {
+            "CH": "速度提高",
+            "EN": "SPD Boost"
+        },
+        "Modifier": "Monster_AML_Minion02_00_SpeedUp",
+        "Desc": {
+            "CH": "速度提高<color style='color:#f29e38;'>[MDF_SpeedAddedRatio_PerLayer]</color>，最多叠加<color style='color:#f29e38;'>[MDF_MaxLayer]</color>层。",
+            "EN": "Increases SPD by <color style='color:#f29e38;'>[MDF_SpeedAddedRatio_PerLayer]</color>. Can stack up to <color style='color:#f29e38;'>[MDF_MaxLayer]</color> time(s)."
+        },
+        "Type": "Buff"
+    },
+    "280120201": {
+        "Name": {
+            "CH": "锁定",
+            "EN": "Lock On"
+        },
+        "Modifier": "MMonster_AML_Minion03_00_Target",
+        "Desc": {
+            "CH": "被<color style='color:#f29e38;'>%CasterName</color>锁定为攻击目标。",
+            "EN": "<color style='color:#f29e38;'>%CasterName</color> will focus attacks on this target."
+        },
+        "CanNotDispel": true
+    },
+    "280120301": {
+        "Name": {
+            "CH": "起爆",
+            "EN": "Detonated"
+        },
+        "Modifier": "MMonster_AML_Minion04_00_Mark",
+        "Desc": {
+            "CH": "被<color style='color:#f29e38;'>虚卒•抹消者</color>附上起爆物，遭到攻击后额外受到1次附加伤害。",
+            "EN": "Has been attached a detonator by <color style='color:#f29e38;'>Voidranger: Eliminator</color>. Takes Additional DMG after being attacked."
+        },
+        "Type": "Debuff"
+    },
+    "280120302": {
+        "Name": {
+            "CH": "超负荷",
+            "EN": "Overloaded"
+        },
+        "Modifier": "MMonster_AML_Minion04_00_Overheat",
+        "Desc": {
+            "CH": "能量超出负荷，暂时无法施放攻击。",
+            "EN": "Temporarily unable to attack due to Energy overload."
+        },
+        "Type": "Debuff",
+        "CanNotDispel": true
+    },
+    "280130101": {
+        "Name": {
+            "CH": "锁定",
+            "EN": "Lock On"
+        },
+        "Modifier": "MMonster_AML_Elite01_00_Aim",
+        "Desc": {
+            "CH": "被<color style='color:#f29e38;'>%CasterName</color>锁定为攻击目标。",
+            "EN": "<color style='color:#f29e38;'>%CasterName</color> will focus attacks on this target."
+        },
+        "CanNotDispel": true
+    },
+    "280130201": {
+        "Name": {
+            "CH": "锁定",
+            "EN": "Lock On"
+        },
+        "Modifier": "MMonster_AML_Elite01_01_DOTAim",
+        "Desc": {
+            "CH": "被<color style='color:#f29e38;'>%CasterName</color>锁定为攻击目标。",
+            "EN": "<color style='color:#f29e38;'>%CasterName</color> will focus attacks on this target."
+        },
+        "CanNotDispel": true
+    },
+    "280130202": {
+        "Name": {
+            "CH": "攻击提高",
+            "EN": "ATK Boost"
+        },
+        "Modifier": "MMonster_AML_Elite01_01_AttackAdd",
+        "Desc": {
+            "CH": "攻击力提高<color style='color:#f29e38;'>[ModifierAttackAddedRatio]</color>，最多叠加<color style='color:#f29e38;'>[ModifierMaxLayer]</color>层。",
+            "EN": "Increases ATK by <color style='color:#f29e38;'>[ModifierAttackAddedRatio]</color>, stacking up to <color style='color:#f29e38;'>[ModifierMaxLayer]</color> time(s)."
+        },
+        "Type": "Buff"
+    },
+    "280150102": {
+        "Name": {
+            "CH": "余威",
+            "EN": "Lingering Power"
+        },
+        "Modifier": "MMonster_WMonster_W0_Boss_00_Unselectable",
+        "Desc": {
+            "CH": "【灾虐的右手】【黎明的左手】【反物质引擎】被全部击溃前无法被指定为攻击目标。",
+            "EN": "Cannot be targeted until Disaster's Right Hand, Dawn's Left Hand, and Antimatter Engine have all been destroyed."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "280150103": {
+        "Name": {
+            "CH": "增幅",
+            "EN": "Buff"
+        },
+        "Modifier": "MMonster_W0_Boss_00_Part2_AttackUp",
+        "Desc": {
+            "CH": "攻击力提高<color style='color:#f29e38;'>[MDF_AttackAddedRatio]</color>，技能得到强化。",
+            "EN": "ATK +<color style='color:#f29e38;'>[MDF_AttackAddedRatio]</color>. Abilities are enhanced."
+        },
+        "Type": "Buff"
+    },
+    "280150104": {
+        "Name": {
+            "CH": "升变",
+            "EN": "Ascend"
+        },
+        "Modifier": "MMonster_WMonster_W0_Boss_00_Part2_Skill07",
+        "Desc": {
+            "CH": "韧性完全恢复，弱点发生变化。",
+            "EN": "Toughness fully regenerates and Weakness Type changes."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "280150105": {
+        "Name": {
+            "CH": "爆发",
+            "EN": "Burst"
+        },
+        "Modifier": "MMonster_W0_Boss_00_Part2_OnPhase3SpeedUp",
+        "Desc": {
+            "CH": "速度提高。",
+            "EN": "Speed increased."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "280150202": {
+        "Name": {
+            "CH": "锁定",
+            "EN": "Lock On"
+        },
+        "Modifier": "Monster_W2_Huanlong_00_Sign",
+        "Desc": {
+            "CH": "被<color style='color:#f29e38;'>%CasterName</color>锁定为攻击目标。",
+            "EN": "<color style='color:#f29e38;'>%CasterName</color> will focus attacks on this target."
+        },
+        "CanNotDispel": true
+    },
+    "280150203": {
+        "Name": {
+            "CH": "愈合",
+            "EN": "Vigor"
+        },
+        "Modifier": "Monster_W2_HuanlongPart_00_Heal",
+        "Desc": {
+            "CH": "每次行动回复<color style='color:#f29e38;'>[MDF_HealRatio]</color>的生命值。",
+            "EN": "Every action taken restores <color style='color:#f29e38;'>[MDF_HealRatio]</color> HP."
+        },
+        "Type": "Buff"
+    },
+    "280150204": {
+        "Name": {
+            "CH": "绽放",
+            "EN": "Bloom"
+        },
+        "Modifier": "Monster_W2_HuanlongPart_01_Activity",
+        "Desc": {
+            "CH": "下次行动施放【破灭】，该状态可被技能解除。",
+            "EN": "Will use Havoc during the next action. This status can be dispelled by abilities."
+        },
+        "Type": "Buff"
+    },
+    "280150205": {
+        "Name": {
+            "CH": "易伤",
+            "EN": "Vulnerability"
+        },
+        "Modifier": "Monster_W2_HuanlongPart_01_Success",
+        "Desc": {
+            "CH": "受到的伤害提高<color style='color:#f29e38;'>[MDF_DamageTakenUpRatio_PerLayer]</color>，该效果可叠加。",
+            "EN": "Increases DMG received by <color style='color:#f29e38;'>[MDF_DamageTakenUpRatio_PerLayer]</color>. This effect is stackable."
+        },
+        "Type": "Debuff"
+    },
+    "280150206": {
+        "Name": {
+            "CH": "休眠",
+            "EN": "Repose"
+        },
+        "Modifier": "Monster_W2_HuanlongPart_01_Dormancy",
+        "Desc": {
+            "CH": "处于【休眠】状态。",
+            "EN": "In Repose."
+        },
+        "CanNotDispel": true
+    },
+    "30010006": {
+        "Name": {
+            "CH": "防御降低",
+            "EN": "DEF Reduction"
+        },
+        "Modifier": "MCommon_DefenceRatioDown",
+        "Desc": {
+            "CH": "防御力降低<color style='color:#f29e38;'>[MDF_PropertyValue]</color>。",
+            "EN": "DEF -<color style='color:#f29e38;'>[MDF_PropertyValue]</color>."
+        },
+        "Type": "Debuff"
+    },
+    "30010017": {
+        "Name": {
+            "CH": "虚弱",
+            "EN": "Weaken"
+        },
+        "Modifier": "MCommon_FatigueRatio",
+        "Desc": {
+            "CH": "造成的伤害降低<color style='color:#f29e38;'>[MDF_PropertyValue]</color>。",
+            "EN": "DMG dealt -<color style='color:#f29e38;'>[MDF_PropertyValue]</color>."
+        },
+        "Type": "Debuff"
+    },
+    "30010041": {
+        "Name": {
+            "CH": "易伤",
+            "EN": "Vulnerability"
+        },
+        "Modifier": "MCommon_AllDamageTypeTakenRatio",
+        "Desc": {
+            "CH": "受到的伤害提高<color style='color:#f29e38;'>[MDF_PropertyValue]</color>。",
+            "EN": "Increases DMG taken by <color style='color:#f29e38;'>[MDF_PropertyValue]</color>."
+        },
+        "Type": "Debuff"
+    },
+    "30010067": {
+        "Name": {
+            "CH": "速度降低",
+            "EN": "Speed Reduction"
+        },
+        "Modifier": "MCommon_SpeedDown",
+        "Desc": {
+            "CH": "速度降低<color style='color:#f29e38;'>[MDF_PropertyValue]</color>。",
+            "EN": "SPD -<color style='color:#f29e38;'>[MDF_PropertyValue]</color>."
+        },
+        "Type": "Debuff"
+    },
+    "30020002": {
+        "Name": {
+            "CH": "灼烧",
+            "EN": "Burn"
+        },
+        "Modifier": "MCommon_DOT_Burn",
+        "Desc": {
+            "CH": "一定回合内，每回合开始时受到火属性伤害。",
+            "EN": "Takes Fire DMG at the start of each turn for a certain number of turns."
+        },
+        "Type": "Debuff"
+    },
+    "30020003": {
+        "Name": {
+            "CH": "风化",
+            "EN": "Wind Shear"
+        },
+        "Modifier": "MCommon_DOT_Poison",
+        "Desc": {
+            "CH": "一定回合内，每回合开始时受到风属性伤害。",
+            "EN": "Takes Wind DMG at the start of each turn for a certain number of turns."
+        },
+        "Type": "Debuff"
+    },
+    "30020004": {
+        "Name": {
+            "CH": "触电",
+            "EN": "Shock"
+        },
+        "Modifier": "MCommon_DOT_Electric",
+        "Desc": {
+            "CH": "一定回合内，每回合开始时受到雷属性伤害。",
+            "EN": "Takes Lightning DMG at the start of each turn for a certain number of turns."
+        },
+        "Type": "Debuff"
+    },
+    "30020005": {
+        "Name": {
+            "CH": "裂伤",
+            "EN": "Bleed"
+        },
+        "Modifier": "MCommon_DOT_Tear",
+        "Desc": {
+            "CH": "一定回合内，每回合开始时受到物理属性伤害。",
+            "EN": "Takes Physical DMG at the start of each turn for a certain number of turns."
+        },
+        "Type": "Debuff"
+    },
+    "30020010": {
+        "Name": {
+            "CH": "嘲讽",
+            "EN": "Taunt"
+        },
+        "Modifier": "MCommon_CTRL_Taunt",
+        "Desc": {
+            "CH": "只能选择<color style='color:#f29e38;'>%CasterName</color>为攻击目标。",
+            "EN": "Can only select <color style='color:#f29e38;'>%CasterName</color> as the target to attack."
+        },
+        "Type": "Debuff"
+    },
+    "30020012": {
+        "Name": {
+            "CH": "冻结",
+            "EN": "Frozen"
+        },
+        "Modifier": "MCommon_CTRL_Frozen",
+        "Desc": {
+            "CH": "一定回合内不能行动，且每回合开始时受到额外的冰属性附加伤害。",
+            "EN": "Cannot take action for a certain number of turns and takes Additional Ice DMG at the beginning of each turn."
+        },
+        "Type": "Debuff"
+    },
+    "30020013": {
+        "Name": {
+            "CH": "禁锢",
+            "EN": "Imprisonment"
+        },
+        "Modifier": "MCommon_Confine",
+        "Desc": {
+            "CH": "行动延后，同时速度降低。",
+            "EN": "Action is delayed and SPD is reduced."
+        },
+        "Type": "Debuff"
+    },
+    "30020027": {
+        "Name": {
+            "CH": "纠缠",
+            "EN": "Entanglement"
+        },
+        "Modifier": "MCommon_Entangle",
+        "Desc": {
+            "CH": "行动延后，下个回合开始时受到量子属性附加伤害。\n纠缠状态下的目标每次受到攻击后，都会使该附加伤害提高，该效果最多叠加5层。",
+            "EN": "Action delayed and receives Additional Quantum DMG at the start of the next turn.\nThis Additional DMG is increased when Entangled enemies are attacked. This effect can stack up to 5 times."
+        },
+        "Type": "Debuff"
+    },
+    "30020028": {
+        "Name": {
+            "CH": "支配",
+            "EN": "Dominated"
+        },
+        "Modifier": "MCommon_MindControl",
+        "Desc": {
+            "CH": "使我方单体无法行动，且随机攻击1名我方其他目标。若该目标被施放技能解除负面效果，将会优先被解除【支配】状态。",
+            "EN": "Makes a single target unable to take action. Target will use Basic ATK to attack a random ally of theirs. If an ability is cast on the target to remove a debuff, the Dominated status will be removed first."
+        },
+        "Type": "Debuff"
+    },
+    "30020030": {
+        "Name": {
+            "CH": "噬命",
+            "EN": "Prana-Siphoned"
+        },
+        "Modifier": "MCommon_BlackBlood",
+        "Desc": {
+            "CH": "可回复的生命上限降低<color style='color:#f29e38;'>[MDF_DirtyHPRatio]</color>。",
+            "EN": "Decreases Maximum Recoverable HP by <color style='color:#f29e38;'>[MDF_DirtyHPRatio]</color>."
+        },
+        "Type": "Debuff"
+    },
+    "220240111": {
+        "Name": {
+            "CH": "若木化生",
+            "EN": "Synwood Renewal"
+        },
+        "Modifier": "MMonster_W2_Xuanlu_10_EnergyDrain",
+        "Desc": {
+            "CH": "每回合回复等同于自身生命上限<color style='color:#f29e38;'>[MMonster_W2_Xuanlu_10_EnergyDrain_TurnHealRatio]</color>的生命值。",
+            "EN": "In every turn, restores HP equal to <color style='color:#f29e38;'>[MMonster_W2_Xuanlu_10_EnergyDrain_TurnHealRatio]</color> of the unit's Max HP."
+        },
+        "Type": "Buff"
+    },
+    "220230204": {
+        "Name": {
+            "CH": "监视",
+            "EN": "Monitor"
+        },
+        "Modifier": "Monster_Beast02_Attack_Sign",
+        "Desc": {
+            "CH": "被<color style='color:#f29e38;'>%CasterName</color>标记为监视目标。",
+            "EN": "Marked by <color style='color:#f29e38;'>%CasterName</color> for Monitoring."
+        },
+        "CanNotDispel": true
+    },
+    "220240112": {
+        "Name": {
+            "CH": "生机充盈",
+            "EN": "Vigor Overflow"
+        },
+        "Modifier": "MMonster_W2_Xuanlu_10_RL_DamageUp",
+        "Desc": {
+            "CH": "造成的伤害提高<color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>。该效果可叠加。",
+            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>. This effect is stackable."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "220040211": {
+        "Name": {
+            "CH": "剑阵",
+            "EN": "Sword Formation"
+        },
+        "Modifier": "MMonster_W2_Yanqing_00_Skill02_UnknownWeakPoint_Core_RL",
+        "Desc": {
+            "CH": "彦卿的韧性无法受到伤害且速度提高<color style='color:#f29e38;'>[MDF_SpeedDelta]</color>点。消灭所有的【飞剑】可以解除该效果并对彦卿造成伤害。",
+            "EN": "Yanqing's Toughness cannot be depleted, and his SPD increases by <color style='color:#f29e38;'>[MDF_SpeedDelta]</color>. Destroy all of Yanqing's Flying Swords to dispel this effect and cause DMG to Yanqing."
+        },
+        "CanNotDispel": true
+    },
+    "220040212": {
+        "Name": {
+            "CH": "砥砺",
+            "EN": "Ordeal"
+        },
+        "Modifier": "MMonster_W2_Yanqing_00_SwordPowerUp",
+        "Desc": {
+            "CH": "该召唤物获得强化，韧性上限提高。施放攻击后，大概率使目标陷入冻结状态。",
+            "EN": "This summon receives an enhancement and increases Max Toughness. After attacking, there is a high chance of Freezing the target."
+        },
+        "CanNotDispel": true
+    },
+    "220040215": {
+        "Name": {
+            "CH": "寒芒",
+            "EN": "Chilling Light"
+        },
+        "Modifier": "MMonster_W2_Yanqing_00_Common_Overdrive",
+        "Desc": {
+            "CH": "造成的伤害提高<color style='color:#f29e38;'>[MDF_AllDamageTypeAddedRatio]</color>。该效果可叠加。",
+            "EN": "DMG dealt increases by <color style='color:#f29e38;'>[MDF_AllDamageTypeAddedRatio]</color>. This effect can stack."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "220020301": {
+        "Name": {
+            "CH": "震荡",
+            "EN": "Reverberation"
+        },
+        "Modifier": "MCommon_Unstable",
+        "Desc": {
+            "CH": "受到攻击后，陷入【强烈震荡】状态，然后解除【震荡】状态。",
+            "EN": "After receiving an attack, enters Strong Reverberation, then dispels Reverberation."
+        },
+        "Type": "Debuff"
+    },
+    "220020302": {
+        "Name": {
+            "CH": "强烈震荡",
+            "EN": "Strong Reverberation"
+        },
+        "Modifier": "MCommon_Shake",
+        "Desc": {
+            "CH": "一定回合内无法行动。",
+            "EN": "Unable to take action for a certain number of turns."
+        },
+        "Type": "Debuff"
+    },
+    "220221101": {
+        "Name": {
+            "CH": "嗔恚",
+            "EN": "Maddened"
+        },
+        "Modifier": "MMonster_W2_Valkyrie01_01_SkillP01_ComboAttack",
+        "Desc": {
+            "CH": "攻击改为施放【锯恶•斩】。",
+            "EN": "Attack changes to Sawing Evil: Sever."
+        },
+        "Type": "Buff"
+    },
+    "280240101": {
+        "Name": {
+            "CH": "风化",
+            "EN": "Wind Shear"
+        },
+        "Modifier": "Monster_SW_Boss_00_DOT_Poison",
+        "Desc": {
+            "CH": "一定回合内，每回合开始时受到风属性伤害。",
+            "EN": "Takes Wind DMG at the start of each turn for a certain number of turns."
+        },
+        "Type": "Debuff"
+    },
+    "280240102": {
+        "Name": {
+            "CH": "伤害提高",
+            "EN": "DMG Boost"
+        },
+        "Modifier": "Monster_SW_Boss_00_DamageUp",
+        "Desc": {
+            "CH": "造成的伤害提高<color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>，该效果可叠加。",
+            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>. This effect is stackable."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "280240103": {
+        "Name": {
+            "CH": "易伤",
+            "EN": "Vulnerability"
+        },
+        "Modifier": "Monster_SW_Boss_00_DamageTakenUp",
+        "Desc": {
+            "CH": "受到的伤害提高<color style='color:#f29e38;'>[MDF_DamageTakenUpRatio_PerLayer]</color>，该效果可叠加。",
+            "EN": "Increases DMG received by <color style='color:#f29e38;'>[MDF_DamageTakenUpRatio_PerLayer]</color>. This effect is stackable."
+        },
+        "Type": "Debuff"
+    },
+    "280240104": {
+        "Name": {
+            "CH": "分裂•预警",
+            "EN": "Mitosis: Warning"
+        },
+        "Modifier": "Monster_SW_Minion01_00_Split",
+        "Desc": {
+            "CH": "<color style='color:#f29e38;'>[Modifier_TurnCount]</color>回合后进行繁殖，弱点击破效果恢复的回合无法进行繁殖。",
+            "EN": "Propagate after <color style='color:#f29e38;'>[Modifier_TurnCount]</color> turn(s). Cannot propagate during the turn in which this unit recovers from Weakness Break."
+        },
+        "CanNotDispel": true
+    },
+    "280240105": {
+        "Name": {
+            "CH": "繁殖",
+            "EN": "Propagation"
+        },
+        "Modifier": "Monster_SW_Minion01_00_SplitEffect",
+        "Desc": {
+            "CH": "下个回合进行繁殖。",
+            "EN": "Propagate in the next turn."
+        },
+        "CanNotDispel": true
+    },
+    "280330101": {
+        "Name": {
+            "CH": "绩效点",
+            "EN": "Performance Points"
+        },
+        "Modifier": "Monster_Company_Coin",
+        "Desc": {
+            "CH": "星际和平公司雇员的【绩效点】，每层使持有者造成的伤害提高<color style='color:#f29e38;'>[MDF_DamageUpRatio]</color>，最多叠加<color style='color:#f29e38;'>[MaxLayer]</color>层。攻击时消耗所有【绩效点】。在自身弱点被击破或受到致命攻击时可被攻击者夺取。",
+            "EN": "Interastral Peace Corporation's employee Performance Points. Each stack increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageUpRatio]</color>, stacking up to <color style='color:#f29e38;'>[MaxLayer]</color> time(s). All Performance Points are consumed when this unit uses an attack. Performance Points can be seized by the attacker when this unit's Weakness is Broken or this unit receives a killing blow."
+        },
+        "Type": "Buff"
+    },
+    "280150208": {
+        "Name": {
+            "CH": "弱点无效",
+            "EN": "Weakness Protected"
+        },
+        "Modifier": "Monster_W2_HuanlongPart_01_WeakControl",
+        "Desc": {
+            "CH": "当【破灭玄莲】不处于【绽放】状态时，自身韧性无法受到伤害。",
+            "EN": "When Destruction Lotus is not in Bloom, its Toughness cannot be reduced."
+        },
+        "CanNotDispel": true
+    },
+    "220130111": {
+        "Name": {
+            "CH": "锁定",
+            "EN": "Lock On"
+        },
+        "Modifier": "Monster_W2_Mecha03_00_Sign",
+        "Desc": {
+            "CH": "被<color style='color:#f29e38;'>%CasterName</color>锁定为攻击目标。",
+            "EN": "<color style='color:#f29e38;'>%CasterName</color> will focus attacks on this target."
+        },
+        "CanNotDispel": true
+    },
+    "220130112": {
+        "Name": {
+            "CH": "罚恶模式•慎刑",
+            "EN": "Sanction Mode: Punisher"
+        },
+        "Modifier": "Monster_W2_Mecha03_00_Overdrive_On_RLElite",
+        "Desc": {
+            "CH": "金人司阍的韧性无法受到伤害且速度提高<color style='color:#f29e38;'>[MDF_SpeedUpRatio]</color>，并开启使用技能：追摄。",
+            "EN": "The Aurumaton Gatekeeper's Toughness cannot be damaged. Its SPD increases by <color style='color:#f29e38;'>[MDF_SpeedUpRatio]</color>, and it activates the ability Track Down."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "30020029": {
+        "Name": {
+            "CH": "怒噪",
+            "EN": "Outrage"
+        },
+        "Modifier": "MCommon_CTRL_Crazy",
+        "Desc": {
+            "CH": "无法操控，自动攻击随机敌方目标。若该目标被施放技能解除负面效果，将会优先被解除【怒噪】状态。",
+            "EN": "Cannot be controlled. Automatically attacks a random enemy target. If the target is about to have any debuff removed by an ability, then the Outrage state will be prioritized for removal."
+        },
+        "Type": "Debuff"
+    },
+    "220230205": {
+        "Name": {
+            "CH": "伤害提高",
+            "EN": "DMG Boost"
+        },
+        "Modifier": "Monster_Common_Layer_DamageUP",
+        "Desc": {
+            "CH": "造成的伤害提高<color style='color:#f29e38;'>[MDF_DamageAddedRatio]</color>。最多叠加<color style='color:#f29e38;'>[MDF_MaxLayer]</color>层。",
+            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageAddedRatio]</color> for up to <color style='color:#f29e38;'>[MDF_MaxLayer]</color> stacks."
+        },
+        "Type": "Buff"
+    },
+    "220230211": {
+        "Name": {
+            "CH": "鼓勇",
+            "EN": "Gather Courage"
+        },
+        "Modifier": "MMonster_W2_Beast02_00_RLElite_GennkiMark",
+        "Desc": {
+            "CH": "已积攒<color style='color:#f29e38;'>[MDF_PropertyValue]</color>层元气。",
+            "EN": "<color style='color:#f29e38;'>[MDF_PropertyValue]</color> stacks of Gusto accumulated."
+        },
+        "CanNotDispel": true
+    },
+    "220230212": {
+        "Name": {
+            "CH": "监视",
+            "EN": "Monitor"
+        },
+        "Modifier": "Monster_W2_Beast02_00_RLElite_Attack_Sign",
+        "Desc": {
+            "CH": "被<color style='color:#f29e38;'>%CasterName</color>标记为监视目标。",
+            "EN": "Marked by <color style='color:#f29e38;'>%CasterName</color> for Monitoring."
+        },
+        "CanNotDispel": true
+    },
+    "230240101": {
+        "Name": {
+            "CH": "灵魂释放",
+            "EN": "Soulfreed"
+        },
+        "Modifier": "MMonster_W2_Argenti_00_Power",
+        "Desc": {
+            "CH": "骑士的祷告将灵魂释放，技能得到了强化。",
+            "EN": "The knight's prayers bid the liberation of souls. Abilities have been enhanced."
+        },
+        "Type": "Buff"
+    },
+    "230240102": {
+        "Name": {
+            "CH": "伤害提高",
+            "EN": "DMG Boost"
+        },
+        "Modifier": "MMonster_Argenti_DamageUP",
+        "Desc": {
+            "CH": "造成的伤害提高<color style='color:#f29e38;'>[MDF_ShowValue1]</color>。",
+            "EN": "DMG dealt increases by <color style='color:#f29e38;'>[MDF_ShowValue1]</color>."
+        },
+        "Type": "Buff"
+    },
+    "210130221": {
+        "Name": {
+            "CH": "作战加速",
+            "EN": "Combat Speed-Up"
+        },
+        "Modifier": "Monster_W1_Mecha04_00_RL_Phase3Passive",
+        "Desc": {
+            "CH": "速度提高<color style='color:#f29e38;'>[MDF_SpeedAddedRatio]</color>。每次施放【协力指令】时使自身速度进一步提高。",
+            "EN": "Increases SPD by <color style='color:#f29e38;'>[MDF_SpeedAddedRatio]</color>. SPD increases further every time Teamwork Order is used."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    }
 }
