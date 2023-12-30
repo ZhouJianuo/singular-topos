@@ -17632,8 +17632,8 @@ var _monsterskill = {
             "EN": "Aristocratic Dignity"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>雷元素伤害，并进入<color style='color:#f29e38;'>【雷雳寰宇】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>在【雷雳寰宇】状态下，速度提升<color style='color:#f29e38;'>50</color>点，且每次行动后，会对本次行动中受到伤害的所有目标额外释放一次<color style='color:#f29e38;'>【云来剑法】</color>。<br>【雷雳寰宇】状态不可解除，期间自身弱点被击破时会流失<color style='color:#f29e38;'>13%生命值上限</color>，并退出此状态。",
-            "EN": "Deals <1> Thunder DMG to a single target and enters the <color style='color:#f29e38;'>Piercing Thunderbolt</color> state, lasting <color style='color:#f29e38;'>2</color> turns.<br>Piercing Thunderbolt: SPD increased by <color style='color:#f29e38;'>50</color>. After every action, will unleash an extra instance of <color style='color:#f29e38;'>Yunlai Swordsmanship</color> on every target that took DMG in this action.<br>Piercing Thunderbolt is unremoveable. If Weakness is broken during this state, disperses this state and lose <color style='color:#f29e38;'>13% Max HP</color>."
+            "CH": "对指定我方单体造成<1>雷元素伤害，并进入<color style='color:#f29e38;'>【雷雳寰宇】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>在【雷雳寰宇】状态下，每次行动后，会对本次行动中受到伤害的所有目标额外释放一次<color style='color:#f29e38;'>【云来剑法】</color>。<br>【雷雳寰宇】状态不可解除，期间自身弱点被击破时会流失<color style='color:#f29e38;'>13%生命值上限</color>，并退出此状态。",
+            "EN": "Deals <1> Thunder DMG to a single target and enters the <color style='color:#f29e38;'>Piercing Thunderbolt</color> state, lasting <color style='color:#f29e38;'>2</color> turns.<br>Piercing Thunderbolt: After every action, will unleash an extra instance of <color style='color:#f29e38;'>Yunlai Swordsmanship</color> on every target that took DMG in this action.<br>Piercing Thunderbolt is unremoveable. If Weakness is broken during this state, disperses this state and lose <color style='color:#f29e38;'>13% Max HP</color>."
         },
         "SP": 10.0,
         "Elem": "Elec",

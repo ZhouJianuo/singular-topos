@@ -5,15 +5,15 @@ var _monster = [
         "_id": 1000042,
         "Key": "",
         "Name": {
-            "CH": "霆霓快雨 · 刻晴（完整）",
-            "EN": "Driving Thunder: Keqing (Complete)"
+            "CH": "霆霓快雨 · 刻晴（拟造）",
+            "EN": "Driving Thunder: Keqing (Synthetic)"
         },
         "Desc": {
-            "CH": "代码受到影响后的完整投影。参照本体为璃月七星之一的玉衡星，对「帝君一言而决的璃月」颇有微词。<br>霆霓快雨 · 刻晴（完整）会在战斗中隐入剑影，进行如同迅雷霆霓般疾速的连斩，传说可将诸星斩落。",
-            "EN": "A complete projection produced by compromised codes. The referenced entity is the Yuheng of the Liyue Qixing, who has much to say about Rex Lapis's unilateral approach to policymaking in Liyue.<br>In battle, Driving Thunder: Keqing (Complete) will blend into the shadows of her blade, striking a series of thunderclap-blows that are rumoured to have brought stars shattering down."
+            "CH": "妮可少女培育的宇宙之外神秘维度之中的生命复制体，以残缺的姿态短暂现世。原型为为璃月七星之一的玉衡星，对「帝君一言而决的璃月」颇有微词。<br>霆霓快雨 · 刻晴（拟造）会在战斗中隐入剑影，进行如同迅雷霆霓般疾速的连斩，传说可将诸星斩落。",
+            "EN": "The replica of a lifeform from a mysterious dimension outside of the known universe, cultivated by HomDGCat, briefly manifesting in the world in an incomplete form. Its original form is the Yuheng of the Liyue Qixing, who has much to say about Rex Lapis's unilateral approach to policymaking in Liyue.<br>In battle, Driving Thunder: Keqing (Synthetic) will blend into the shadows of her blade, striking a series of thunderclap-blows that are rumoured to have brought stars shattering down."
         },
         "Stats": {
-            "HP": 13.103,
+            "HP": 24,
             "ATK": 18,
             "DEF": 1.0,
             "SPD": 196,
