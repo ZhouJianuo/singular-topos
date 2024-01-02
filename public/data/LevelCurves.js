@@ -7390,10 +7390,10 @@ var _elitegroup = {
     },
     "41507": {
         "EliteGroup": 41507,
-        "AttackRatio": 2.81,
+        "AttackRatio": 2.76,
         "DefenceRatio": 1.0,
-        "HPRatio": 7.46,
-        "SpeedRatio": 1.27,
+        "HPRatio": 7.49,
+        "SpeedRatio": 1.15,
         "StanceRatio": 1.0
     },
     "41508": {
@@ -7425,6 +7425,14 @@ var _elitegroup = {
         "AttackRatio": 1.1,
         "DefenceRatio": 1.0,
         "HPRatio": 1.3,
+        "SpeedRatio": 1.0,
+        "StanceRatio": 1.0
+    },
+    "41990": {
+        "EliteGroup": 41990,
+        "AttackRatio": 0.9,
+        "DefenceRatio": 1.0,
+        "HPRatio": 1.0,
         "SpeedRatio": 1.0,
         "StanceRatio": 1.0
     },

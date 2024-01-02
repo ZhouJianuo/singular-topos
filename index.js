@@ -35,6 +35,14 @@ app.get('/mons', async (req, res) => {
     res.render('mons', result);
 });
 
+app.get('/diy', async (req, res) => {
+    let result = {};
+    let { lang = '' } = req.query;
+    result.lang = lang;
+    result.title = 'HomDGCat Database';
+    res.render('diy', result);
+});
+
 app.get('/chaos', async (req, res) => {
     let result = {};
     let { lang = '' } = req.query;

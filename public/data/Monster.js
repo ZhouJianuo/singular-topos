@@ -24989,7 +24989,7 @@ var _monster = [
             "HP": 2.25,
             "ATK": 18.0,
             "DEF": 1.0,
-            "SPD": 120.0,
+            "SPD": 100.0,
             "Stance": 3.0
         },
         "Weak": [
@@ -25033,7 +25033,7 @@ var _monster = [
             "HP": 2.25,
             "ATK": 18.0,
             "DEF": 1.0,
-            "SPD": 120.0,
+            "SPD": 100.0,
             "Stance": 3.0
         },
         "Weak": [
@@ -25076,7 +25076,7 @@ var _monster = [
             "HP": 2.25,
             "ATK": 18.0,
             "DEF": 1.0,
-            "SPD": 120.0,
+            "SPD": 100.0,
             "Stance": 3.0
         },
         "Weak": [
@@ -25541,7 +25541,7 @@ var _monster = [
             "HP": 1.0,
             "ATK": 18.0,
             "DEF": 1.0,
-            "SPD": 120.0,
+            "SPD": 100.0,
             "Stance": 1.0
         },
         "Weak": [
@@ -25577,7 +25577,7 @@ var _monster = [
         },
         "Desc": {
             "CH": "蕴含特定认知的实体，由忆域中的潜意识碎片堆积而成。<br>坚不可摧的障壁包裹起生命，阻拦异己。但在那坚硬的躯壳下，却是脆弱不堪的无名地带。",
-            "EN": "An entity that bears certain cognitions formed from an accurement of subconscious fragments in the Memory Zone.<br>Life is parceled in impenetrable barriers, obstructing the intrusion of the alien. But beneath that ironclad shell, there is a regoin both nameless and fragile."
+            "EN": "An entity that bears certain cognitions formed from an accruement of subconscious fragments in the Memory Zone.<br>Life is parceled in impenetrable barriers, obstructing the intrusion of the alien. But beneath that ironclad shell, there is a region both nameless and fragile."
         },
         "Stats": {
             "HP": 1.4,
@@ -25999,7 +25999,7 @@ var _monster = [
         },
         "Desc": {
             "CH": "蕴含特定认知的实体，由忆域中的潜意识碎片堆积而成。<br>神秘危险的忆域迷因，被视作梦中不应存在的「死亡」。它的邪影游荡于十二时分，所及之处必有不测之祸，以利刃散布噩耗，以死荫笼罩美梦。",
-            "EN": "Entity imbued with specific cognition, accumulated from fragments of the subconscious in the Memory Zone.<br>A mysterious and dangerous Memory Zone Meme, seen as the \"death\" that shouldn't exist in dreams. Its sinister shadow wanders within the Twelve Hours, bringing unforeseen calamity wherever it goes. It spreads misfortune like a sharp blade, casting a shadow of death over beautiful dreams."
+            "EN": "An entity that bears certain cognitions formed from an accruement of subconscious fragments in the Memory Zone.<br>A mysterious and dangerous Memory Zone Meme, seen as the \"death\" that shouldn't exist in dreams. Its sinister shadow wanders within the Twelve Hours, bringing unforeseen calamity wherever it goes. It spreads misfortune like a sharp blade, casting a shadow of death over beautiful dreams."
         },
         "Stats": {
             "HP": 22.0,
@@ -26724,11 +26724,11 @@ var _monster = [
         "Key": "Monster_W3_Sam_00_Config",
         "Name": {
             "CH": "「星核猎手」萨姆",
-            "EN": "Stellaron Hunter Sam"
+            "EN": "Stellaron Hunter: Sam"
         },
         "Desc": {
             "CH": "星核猎手的一员，身着沉重装甲的神秘战士。他的铁甲能够释放炽焰，点燃战场，发动烈火般的攻势。",
-            "EN": "One of the Stellaron Hunters, a mysterious warrior donning formidable armor.<br>His mecha suit possesses the power to unleash fiery attacks, engulfing the battlefield in flames."
+            "EN": "One of the Stellaron Hunters, a mysterious warrior donning formidable armor.<br>The mecha suit possesses the power to unleash fiery attacks, engulfing the battlefield in flames."
         },
         "Stats": {
             "HP": 48.0,
@@ -26775,11 +26775,11 @@ var _monster = [
         "Key": "Monster_W3_Sam_00_Config",
         "Name": {
             "CH": "「星核猎手」萨姆",
-            "EN": "Stellaron Hunter Sam"
+            "EN": "Stellaron Hunter: Sam"
         },
         "Desc": {
             "CH": "星核猎手的一员，身着沉重装甲的神秘战士。他的铁甲能够释放炽焰，点燃战场，发动烈火般的攻势。",
-            "EN": "One of the Stellaron Hunters, a mysterious warrior donning formidable armor.<br>His mecha suit possesses the power to unleash fiery attacks, engulfing the battlefield in flames."
+            "EN": "One of the Stellaron Hunters, a mysterious warrior donning formidable armor.<br>The mecha suit possesses the power to unleash fiery attacks, engulfing the battlefield in flames."
         },
         "Stats": {
             "HP": 51.55536,
@@ -26824,11 +26824,11 @@ var _monster = [
         "Key": "Monster_W3_Sam_00_Config_Main",
         "Name": {
             "CH": "「星核猎手」萨姆",
-            "EN": "Stellaron Hunter Sam"
+            "EN": "Stellaron Hunter: Sam"
         },
         "Desc": {
             "CH": "星核猎手的一员，身着沉重装甲的神秘战士。他的铁甲能够释放炽焰，点燃战场，发动烈火般的攻势。",
-            "EN": "One of the Stellaron Hunters, a mysterious warrior donning formidable armor.<br>His mecha suit possesses the power to unleash fiery attacks, engulfing the battlefield in flames."
+            "EN": "One of the Stellaron Hunters, a mysterious warrior donning formidable armor.<br>The mecha suit possesses the power to unleash fiery attacks, engulfing the battlefield in flames."
         },
         "Stats": {
             "HP": 60.0,

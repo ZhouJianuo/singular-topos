@@ -30,35 +30,6 @@ var GI = [
     },
     {
         "Title": {
-            "CH": "深境螺旋",
-            "EN": "Spiral Abyss"
-        },
-        "Link": {
-            "CH": "abyss.wiki",
-            "EN": "en.abyss.wiki"
-        },
-        "Features": [
-            {
-                "CH": "敌方阵容、敌方血量、关卡总血量",
-                "EN": "Enemy lineup, enemy HP, total HP."
-            },
-            {
-                "CH": "渊月祝福、深秘降幅",
-                "EN": "Blessings and buffs."
-            },
-            {
-                "CH": "测试服老版本阵容、历史版本血量统计",
-                "EN": "Historical beta lineups, historical HP statistics."
-            },
-            {
-                "CH": "惊喜阵容",
-                "EN": "Surprise lineups."
-            }
-        ],
-        "Href": "http://www.yuhengcup.top/abyss"
-    },
-    {
-        "Title": {
             "CH": "角色 武器 圣遗物",
             "EN": "Characters Weapons Artifacts"
         },
@@ -92,17 +63,46 @@ var GI = [
     },
     {
         "Title": {
-            "CH": "怪物护盾",
-            "EN": "Monster Shields"
+            "CH": "深境螺旋",
+            "EN": "Spiral Abyss"
+        },
+        "Link": {
+            "CH": "abyss.wiki",
+            "EN": "en.abyss.wiki"
         },
         "Features": [
             {
-                "CH": "怪物护盾、护甲、造物的元素量和血量",
-                "EN": "Monster shield, armor and gadgets' strength and HP."
+                "CH": "敌方阵容、敌方血量、关卡总血量",
+                "EN": "Enemy lineup, enemy HP, total HP."
+            },
+            {
+                "CH": "渊月祝福、深秘降幅",
+                "EN": "Blessings and buffs."
+            },
+            {
+                "CH": "测试服老版本阵容、历史版本血量统计",
+                "EN": "Historical beta lineups, historical HP statistics."
+            },
+            {
+                "CH": "惊喜阵容",
+                "EN": "Surprise lineups."
             }
         ],
-        "Href": "http://www.yuhengcup.top/shield"
+        "Href": "http://www.yuhengcup.top/abyss"
     },
+    /*{
+        "Title": {
+            "CH": "自制深境螺旋阵容",
+            "EN": "Abyss Sandbox"
+        },
+        "Features": [
+            {
+                "CH": "用沙盒创造深境螺旋怪物阵容",
+                "EN": "DIY your own Abyss lineup."
+            },
+        ],
+        "Href": "/diy"
+    },*/
     {
         "Title": {
             "CH": "成就",
@@ -128,6 +128,19 @@ var GI = [
             }
         ],
         "Href": "http://www.yuhengcup.top/load"
+    },
+    {
+        "Title": {
+            "CH": "怪物护盾",
+            "EN": "Monster Shields"
+        },
+        "Features": [
+            {
+                "CH": "怪物护盾、护甲、造物的元素量和血量",
+                "EN": "Monster shield, armor and gadgets' strength and HP."
+            }
+        ],
+        "Href": "http://www.yuhengcup.top/shield"
     },
 ]
 
