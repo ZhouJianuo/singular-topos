@@ -8,7 +8,7 @@ var _monsterskill = {
             "EN": "Tireless Charge"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受击者防御力降低<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target, with <color style='color:#f29e38;'>100%</color> Base Chance to reduce the target's DEF by <color style='color:#f29e38;'>50%</color>. Lasts <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 10.0,
@@ -27,7 +27,7 @@ var _monsterskill = {
             "EN": "Tireless Charge"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受击者防御力降低<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target, with <color style='color:#f29e38;'>100%</color> Base Chance to reduce the target's DEF by <color style='color:#f29e38;'>50%</color>. Lasts <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 10.0,
@@ -46,7 +46,7 @@ var _monsterskill = {
             "EN": "Piercing Grenade"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受击者陷入<b>裂伤</b>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>裂伤持续伤害：<color style='color:#f29e38;'>15%自身生命值上限</color>，最多叠加<color style='color:#f29e38;'>1</color>层。<br>（如果<color style='color:#f29e38;'>500%施加者攻击力</color>的数值更低，则裂伤倍率改为这个）",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target, with <color style='color:#f29e38;'>100%</color> Base Chance to cause <b>Bleed</b> to the target for <color style='color:#f29e38;'>2</color> turns. <br>Bleed DoT: <color style='color:#f29e38;'>15% Self Max HP</color> Physical DMG, max <color style='color:#f29e38;'>1</color> stack. <br>(If <color style='color:#f29e38;'>500% Attacker ATK</color> is lower, then Bleed deals DMG according to this instead)"
         },
         "SP": 10.0,
@@ -65,7 +65,7 @@ var _monsterskill = {
             "EN": "Icy Wind"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 10.0,
@@ -81,7 +81,7 @@ var _monsterskill = {
             "EN": "Icy Wind"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 10.0,
@@ -97,7 +97,7 @@ var _monsterskill = {
             "EN": "Everwinter Reverberance"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 10.0,
@@ -113,7 +113,7 @@ var _monsterskill = {
             "EN": "Everwinter Reverberance"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 10.0,
@@ -129,7 +129,7 @@ var _monsterskill = {
             "EN": "Icy Wind"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 10.0,
@@ -145,7 +145,7 @@ var _monsterskill = {
             "EN": "Icy Wind"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 10.0,
@@ -161,7 +161,7 @@ var _monsterskill = {
             "EN": "Everwinter Reverberance"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 10.0,
@@ -177,7 +177,7 @@ var _monsterskill = {
             "EN": "Everwinter Reverberance"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 10.0,
@@ -193,7 +193,7 @@ var _monsterskill = {
             "EN": "Shovel Attack"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 10.0,
@@ -209,7 +209,7 @@ var _monsterskill = {
             "EN": "Inspire"
         },
         "Desc": {
-            "CH": "使指定敌方单体立即行动，且攻击力提高<color style='color:#f29e38;'>30%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+            "CH": "",
             "EN": "Causes a friendly unit to act immediately, and increase its ATK by <color style='color:#f29e38;'>30%</color> for <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 0,
@@ -224,7 +224,7 @@ var _monsterskill = {
             "EN": "Barrage"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害，对相邻目标造成<2>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target and <2> Physical DMG to adjacent units."
         },
         "SP": 10.0,
@@ -241,7 +241,7 @@ var _monsterskill = {
             "EN": "Covering Support"
         },
         "Desc": {
-            "CH": "为指定敌方单体提供<color style='color:#f29e38;'>支援</color>，在被支援的敌方目标攻击我方目标后施放<color style='color:#f29e38;'>1</color>次追加攻击，对受到攻击的我方目标造成<1>物理伤害，对相邻目标造成<2>物理伤害。",
+            "CH": "",
             "EN": "Provides <color style='color:#f29e38;'>Reinforcement</color> to a friendly unit. When this unit attacks, it performs a follow-up attack that deals <1> Physical DMG to the attacked target and <2> Physical DMG to adjacent units."
         },
         "SP": 0,
@@ -261,7 +261,7 @@ var _monsterskill = {
             "EN": "Covering Support"
         },
         "Desc": {
-            "CH": "为指定敌方单体提供<color style='color:#f29e38;'>支援</color>，在被支援的敌方目标攻击我方目标后施放1次追加攻击，对受到攻击的我方目标及其相邻目标造成少量物理伤害。",
+            "CH": "",
             "EN": "Provides <color style='color:#f29e38;'>Reinforcement</color> to a friendly unit. When this unit attacks, it performs a follow-up attack that deals minor Physical DMG to the attacked target and units adjacent to the target."
         },
         "SP": 12.0
@@ -273,7 +273,7 @@ var _monsterskill = {
             "EN": "Assault"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 10.0,
@@ -289,11 +289,12 @@ var _monsterskill = {
             "EN": "Pierce"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 20.0,
         "Elem": "Phys",
+        "Threat": true,
         "DMG": [
             6.5
         ]
@@ -305,7 +306,7 @@ var _monsterskill = {
             "EN": "Shield Reflect"
         },
         "Desc": {
-            "CH": "进入<color style='color:#f29e38;'>【反击】</color>状态：在受到我方单体攻击后自身行动提前并立即对该目标施放<color style='color:#f29e38;'>【穿刺】</color>技能。",
+            "CH": "",
             "EN": "Enters the <color style='color:#f29e38;'>Counter</color> state. When attacked by a single character, acts immediately and casts <color style='color:#f29e38;'>\"Pierce\"</color> on the attacker."
         },
         "SP": 0,
@@ -323,7 +324,7 @@ var _monsterskill = {
             "EN": "Reinforcement"
         },
         "Desc": {
-            "CH": "召唤<color style='color:#f29e38;'>【银鬃近卫】</color>。",
+            "CH": "",
             "EN": "Summons <color style='color:#f29e38;'>Silvermane Soldier</color>."
         },
         "SP": 0,
@@ -338,7 +339,7 @@ var _monsterskill = {
             "EN": "Assault"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 10.0,
@@ -354,7 +355,7 @@ var _monsterskill = {
             "EN": "Pierce"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 20.0,
@@ -370,7 +371,7 @@ var _monsterskill = {
             "EN": "Shield Reflect"
         },
         "Desc": {
-            "CH": "进入<color style='color:#f29e38;'>【反击】</color>状态，在受到我方单体攻击后获得1个额外回合，对该目标造成<1>物理伤害。",
+            "CH": "",
             "EN": "Goes into the <color style='color:#f29e38;'>Counter</color> state. When attacked by a character, gains 1 extra turn and deals <1> Physical DMG to the target."
         },
         "SP": 0,
@@ -388,7 +389,7 @@ var _monsterskill = {
             "EN": "Reinforcement"
         },
         "Desc": {
-            "CH": "召唤<color style='color:#f29e38;'>【银鬃近卫】</color>。",
+            "CH": "",
             "EN": "Summons <color style='color:#f29e38;'>Silvermane Soldier</color>."
         },
         "SP": 0,
@@ -403,10 +404,11 @@ var _monsterskill = {
             "EN": "Rallying"
         },
         "Desc": {
-            "CH": "使除自身外的敌方全体立即行动，且攻击力提高<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>1</color>回合。",
+            "CH": "",
             "EN": "Causes all friendly units except self to act immediately. Increase their ATK by <color style='color:#f29e38;'>50%</color> for <color style='color:#f29e38;'>1</color> turn."
         },
         "SP": 0,
+        "Threat": true,
         "Status": [
             210020201
         ]
@@ -418,7 +420,7 @@ var _monsterskill = {
             "EN": "Assault"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 10.0,
@@ -434,11 +436,12 @@ var _monsterskill = {
             "EN": "Pierce"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 20.0,
         "Elem": "Phys",
+        "Threat": true,
         "DMG": [
             4.2
         ]
@@ -450,7 +453,7 @@ var _monsterskill = {
             "EN": "Shield Reflect"
         },
         "Desc": {
-            "CH": "进入反击状态，在被我方单体击中后自身行动提前并立即对该目标施放【穿刺】技能。",
+            "CH": "",
             "EN": "Enters the Counter state: When attacked, acts immediately and uses Pierce on the attacker."
         },
         "SP": 0
@@ -462,7 +465,7 @@ var _monsterskill = {
             "EN": "Reinforcement"
         },
         "Desc": {
-            "CH": "召唤【银鬃近卫】或【银鬃射手】。",
+            "CH": "",
             "EN": "Summons Silvermane Soldier or Silvermane Gunner"
         },
         "SP": 0
@@ -474,7 +477,7 @@ var _monsterskill = {
             "EN": "Assault"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 10.0,
@@ -490,11 +493,12 @@ var _monsterskill = {
             "EN": "Pierce"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 20.0,
         "Elem": "Phys",
+        "Threat": true,
         "DMG": [
             4.2
         ]
@@ -506,7 +510,7 @@ var _monsterskill = {
             "EN": "Shield Reflect"
         },
         "Desc": {
-            "CH": "进入<color style='color:#f29e38;'>【反击】</color>状态，在被我方单体击中后自身行动提前并立即对该目标施放<color style='color:#f29e38;'>【穿刺】</color>技能。",
+            "CH": "",
             "EN": "Enters the <color style='color:#f29e38;'>Counter</color> state: When attacked, acts immediately and uses <color style='color:#f29e38;'>Pierce</color> on the attacker."
         },
         "SP": 0,
@@ -524,7 +528,7 @@ var _monsterskill = {
             "EN": "Reinforcement"
         },
         "Desc": {
-            "CH": "召唤【银鬃近卫】或【银鬃射手】。",
+            "CH": "",
             "EN": "Summons Silvermane Soldier or Silvermane Gunner"
         },
         "SP": 0
@@ -536,7 +540,7 @@ var _monsterskill = {
             "EN": "Fist of Conviction"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 10.0,
@@ -552,7 +556,7 @@ var _monsterskill = {
             "EN": "Smite of Frost"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 15.0,
@@ -568,7 +572,7 @@ var _monsterskill = {
             "EN": "Garrison Aura Field"
         },
         "Desc": {
-            "CH": "为自身以外的敌方目标提供<color style='color:#f29e38;'>屏障</color>，屏障状态下的目标可抵抗除持续伤害外的所有伤害，受到攻击后解除。",
+            "CH": "",
             "EN": "Grants a <color style='color:#f29e38;'>Barrier</color> to another friendly unit. The Barrier nullifies all DMG received except for DoT until after the friendly unit is attacked."
         },
         "SP": 0,
@@ -583,11 +587,12 @@ var _monsterskill = {
             "EN": "Frigid Waterfall"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 15.0,
         "Elem": "Ice",
+        "Threat": true,
         "DMG": [
             3.5
         ]
@@ -599,7 +604,7 @@ var _monsterskill = {
             "EN": "Siege Support"
         },
         "Desc": {
-            "CH": "召唤<color style='color:#f29e38;'>【银鬃射手】</color>或<color style='color:#f29e38;'>【银鬃炮手】</color>，同时<b>锁定</b>我方单体，使敌方全体集中攻击该目标。",
+            "CH": "",
             "EN": "Summons <color style='color:#f29e38;'>Silvermane Gunners</color> or <color style='color:#f29e38;'>Silvermane Cannoneer</color> and <b>Locks Onto</b> a single target for all attacks."
         },
         "SP": 0,
@@ -618,7 +623,7 @@ var _monsterskill = {
             "EN": "Fist of Conviction"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 10.0,
@@ -634,7 +639,7 @@ var _monsterskill = {
             "EN": "Smite of Frost"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 15.0,
@@ -650,7 +655,7 @@ var _monsterskill = {
             "EN": "Garrison Aura Field"
         },
         "Desc": {
-            "CH": "为自身以外的敌方目标提供<color style='color:#f29e38;'>屏障</color>，屏障状态下的目标可抵抗除持续伤害外的所有伤害，受到攻击后解除。",
+            "CH": "",
             "EN": "Grants a <color style='color:#f29e38;'>Barrier</color> to another friendly unit. The Barrier nullifies all DMG received except for DoT until after the friendly unit is attacked."
         },
         "SP": 0,
@@ -665,11 +670,12 @@ var _monsterskill = {
             "EN": "Frigid Waterfall"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 15.0,
         "Elem": "Ice",
+        "Threat": true,
         "DMG": [
             3.5
         ]
@@ -681,7 +687,7 @@ var _monsterskill = {
             "EN": "Siege Support"
         },
         "Desc": {
-            "CH": "召唤<color style='color:#f29e38;'>【银鬃射手】</color>，同时<b>锁定</b>我方单体，使敌方全体集中攻击该目标。",
+            "CH": "",
             "EN": "Summons <color style='color:#f29e38;'>Silvermane Gunners</color> and <b>Locks Onto</b> a single target for all attacks."
         },
         "SP": 0,
@@ -700,7 +706,7 @@ var _monsterskill = {
             "EN": "Fist of Conviction"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 10.0,
@@ -716,7 +722,7 @@ var _monsterskill = {
             "EN": "Smite of Frost"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 15.0,
@@ -732,7 +738,7 @@ var _monsterskill = {
             "EN": "Garrison Aura Field"
         },
         "Desc": {
-            "CH": "施放<color style='color:#f29e38;'>【全体护盾】</color>吸收伤害，锁定敌方全体的韧性。基础盾量为<color style='color:#f29e38;'>40%生命值上限</color>；场上每存在一个召唤友方，盾量额外提升<color style='color:#f29e38;'>40%生命值上限</color>。护盾破除后，自身和精英敌人受到<color style='color:#f29e38;'>自身30%生命值上限</color>的反噬伤害，低级敌人受到<color style='color:#f29e38;'>自身50%生命值上限</color>的反噬伤害",
+            "CH": "",
             "EN": "Unleashes <color style='color:#f29e38;'>Shield for All</color>: absorb DMG and lock Toughness for all allies. Base Shield Value is <color style='color:#f29e38;'>40% Max HP</color>; for every other summoned ally on field, Shield increases by <color style='color:#f29e38;'>40% Max HP</color>. When Shield is broken, Gepard and Elite Enemies suffer a <color style='color:#f29e38;'>30% Max HP</color> backfire, lower rank enemies suffer a <color style='color:#f29e38;'>50% Max HP</color> backfire"
         },
         "SP": 0,
@@ -748,11 +754,12 @@ var _monsterskill = {
             "EN": "Frigid Waterfall"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>冰属性伤害。使自身造成的伤害提高<color style='color:#f29e38;'>12%</color>，可叠加。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to all targets. Increases self DMG dealt by <color style='color:#f29e38;'>12%</color>, stackable."
         },
         "SP": 15.0,
         "Elem": "Ice",
+        "Threat": true,
         "Status": [
             210040221
         ],
@@ -767,7 +774,7 @@ var _monsterskill = {
             "EN": "Besiege"
         },
         "Desc": {
-            "CH": "杰帕德<b>锁定</b>指定我方单体，使敌方全体立即集中攻击该目标。",
+            "CH": "",
             "EN": "Gepard <b>Locks On</b> a single target, causing all friendly units to immediately launch coordinated attacks on the target."
         },
         "SP": 0,
@@ -782,7 +789,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_对指定我方单体造成大量物理伤害。不显示",
+            "CH": "",
             "EN": ""
         },
         "SP": 10.0,
@@ -795,7 +802,7 @@ var _monsterskill = {
             "EN": "Tit for Tat"
         },
         "Desc": {
-            "CH": "进入<color style='color:#f29e38;'>【反击】</color>状态，持续<color style='color:#f29e38;'>1</color>回合。在该状态下受到我方目标攻击后，立即对该目标造成<1>冰属性伤害。该效果最多触发<color style='color:#f29e38;'>1</color>次。",
+            "CH": "",
             "EN": "Goes into the <color style='color:#f29e38;'>Counter</color> state for <color style='color:#f29e38;'>1</color> turn. If attacked by a target while in this state, immediately deal <1> Ice DMG to the attacker. This effect can only be triggered <color style='color:#f29e38;'>1</color> time."
         },
         "SP": 0,
@@ -814,7 +821,7 @@ var _monsterskill = {
             "EN": "Support"
         },
         "Desc": {
-            "CH": "阶段开始时，立即召唤<color style='color:#f29e38;'>【银鬃近卫】</color>和<color style='color:#f29e38;'>【银鬃炮手】</color>。",
+            "CH": "",
             "EN": "When the phase starts, immediately summons <color style='color:#f29e38;'>Silvermane Soldier</color> or <color style='color:#f29e38;'>Silvermane Cannoneer</color>."
         },
         "SP": 0,
@@ -830,7 +837,7 @@ var _monsterskill = {
             "EN": "Support"
         },
         "Desc": {
-            "CH": "阶段开始时，立即召唤<color style='color:#f29e38;'>【银鬃炮手】</color>。",
+            "CH": "",
             "EN": "When the phase starts, immediately summons <color style='color:#f29e38;'>Silvermane Cannoneer</color>."
         },
         "SP": 0,
@@ -845,7 +852,7 @@ var _monsterskill = {
             "EN": "Support"
         },
         "Desc": {
-            "CH": "阶段开始时，立即召唤<color style='color:#f29e38;'>【银鬃尉官（完整）】</color>。",
+            "CH": "",
             "EN": "When the phase starts, immediately summons <color style='color:#f29e38;'>Silvermane Lieutenant (Complete)</color>."
         },
         "SP": 0,
@@ -860,7 +867,7 @@ var _monsterskill = {
             "EN": "Fist of Conviction"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 10.0,
@@ -876,7 +883,7 @@ var _monsterskill = {
             "EN": "Smite of Frost"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 15.0,
@@ -892,7 +899,7 @@ var _monsterskill = {
             "EN": "Garrison Aura Field"
         },
         "Desc": {
-            "CH": "施放<color style='color:#f29e38;'>【全体护盾】</color>吸收伤害，锁定敌方全体的韧性。基础盾量为<color style='color:#f29e38;'>44.33%生命值上限</color>（1-2阶段）或<color style='color:#f29e38;'>29.26%生命值上限</color>（3阶段）；<br>场上每存在一个召唤友方，盾量额外提升1个基础值。<br>护盾破除后，自身和精英敌人受到<color style='color:#f29e38;'>自身30%生命值上限</color>的反噬伤害，低级敌人受到<color style='color:#f29e38;'>自身50%生命值上限</color>的反噬伤害",
+            "CH": "",
             "EN": "Unleashes <color style='color:#f29e38;'>Shield for All</color>: absorb DMG and lock Toughness for all allies. Base Shield Value is <color style='color:#f29e38;'>44.33% Max HP</color> (Phases 1-2) or <color style='color:#f29e38;'>29.26% Max HP</color> (Phase 3); <br>For every other summoned ally on field, Shield increases by 1 Base Value. <br>When Shield is broken, Gepard and Elite Enemies suffer a <color style='color:#f29e38;'>30% Self Max HP</color> backfire, lower rank enemies suffer a <color style='color:#f29e38;'>50% Self Max HP</color> backfire"
         },
         "SP": 0,
@@ -908,11 +915,12 @@ var _monsterskill = {
             "EN": "Frigid Waterfall"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>冰属性伤害。使自身造成的伤害提高<color style='color:#f29e38;'>12%</color>，可叠加。<br>第三阶段的生命值变为原本的<color style='color:#f29e38;'>1.5</color>倍。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to all targets. Increases self DMG dealt by <color style='color:#f29e38;'>12%</color>, stackable.<br>Phase 3 Max HP becomes <color style='color:#f29e38;'>1.5</color> times the original."
         },
         "SP": 15.0,
         "Elem": "Ice",
+        "Threat": true,
         "Status": [
             210040221
         ],
@@ -927,7 +935,7 @@ var _monsterskill = {
             "EN": "Besiege"
         },
         "Desc": {
-            "CH": "杰帕德<b>锁定</b>指定我方单体，使敌方全体立即集中攻击该目标。",
+            "CH": "",
             "EN": "Gepard <b>Locks On</b> to a single target, causing all friendly units to immediately attack the target."
         },
         "SP": 0,
@@ -942,7 +950,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_对指定我方单体造成大量物理伤害。不显示",
+            "CH": "",
             "EN": ""
         },
         "SP": 10.0,
@@ -955,7 +963,7 @@ var _monsterskill = {
             "EN": "Tit for Tat"
         },
         "Desc": {
-            "CH": "进入<color style='color:#f29e38;'>【反击】</color>状态，持续<color style='color:#f29e38;'>1</color>回合。在该状态下受到我方目标攻击后，立即对该目标造成<1>冰属性伤害。该效果最多触发<color style='color:#f29e38;'>1</color>次。",
+            "CH": "",
             "EN": "Goes into the <color style='color:#f29e38;'>Counter</color> state for <color style='color:#f29e38;'>1</color> turn. If attacked by a target while in this state, immediately deal <1> Ice DMG to the attacker. This effect can only be triggered <color style='color:#f29e38;'>1</color> time."
         },
         "SP": 0,
@@ -973,7 +981,7 @@ var _monsterskill = {
             "EN": "Support"
         },
         "Desc": {
-            "CH": "阶段开始时，立即召唤<color style='color:#f29e38;'>【银鬃近卫】</color>和<color style='color:#f29e38;'>【银鬃炮手】</color>。",
+            "CH": "",
             "EN": "When the phase starts, immediately summons <color style='color:#f29e38;'>Silvermane Soldier</color> and <color style='color:#f29e38;'>Silvermane Cannoneer</color>."
         },
         "SP": 0,
@@ -989,7 +997,7 @@ var _monsterskill = {
             "EN": "Support"
         },
         "Desc": {
-            "CH": "阶段开始时，立即召唤<color style='color:#f29e38;'>【银鬃炮手】</color>。",
+            "CH": "",
             "EN": "When the phase starts, immediately summons <color style='color:#f29e38;'>Silvermane Cannoneer</color>."
         },
         "SP": 0,
@@ -1004,7 +1012,7 @@ var _monsterskill = {
             "EN": "Support"
         },
         "Desc": {
-            "CH": "阶段开始时，立即召唤<color style='color:#f29e38;'>【银鬃尉官（完整）1.2新增】</color>。",
+            "CH": "",
             "EN": "When the phase starts, immediately summons <color style='color:#f29e38;'>Silvermane Lieutenant (Complete) 1.2 New</color>."
         },
         "SP": 0,
@@ -1019,7 +1027,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "test_阶段开始时，立即召唤【银鬃尉官（完整）】。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -1031,7 +1039,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "test_阶段开始时，立即召唤【银鬃尉官（完整）】。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -1043,7 +1051,7 @@ var _monsterskill = {
             "EN": "Chill of Bone-Piercing Coagulation"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 10.0,
@@ -1059,7 +1067,7 @@ var _monsterskill = {
             "EN": "Omen of Everlasting Freeze"
         },
         "Desc": {
-            "CH": "召唤<color style='color:#f29e38;'>【冰锋】</color>。",
+            "CH": "",
             "EN": "Summons <color style='color:#f29e38;'>Ice Edges</color>."
         },
         "SP": 0,
@@ -1075,11 +1083,12 @@ var _monsterskill = {
             "EN": "Punishment of Endless Winter"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 20.0,
         "Elem": "Ice",
+        "Threat": true,
         "DMG": [
             5.0
         ]
@@ -1091,7 +1100,7 @@ var _monsterskill = {
             "EN": "Hoarfrost of Eternal Isolation"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>冻结</b>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>冻结持续伤害：<2>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Freeze</b> the target for <color style='color:#f29e38;'>2</color> turns. <br>Freeze DoT: <2> Ice DMG."
         },
         "SP": 10.0,
@@ -1111,7 +1120,7 @@ var _monsterskill = {
             "EN": "Wrath of Winterland Saints"
         },
         "Desc": {
-            "CH": "进入<color style='color:#f29e38;'>蓄力</color>状态：造成的伤害提升<color style='color:#f29e38;'>25%</color>，持续<color style='color:#f29e38;'>1</color>回合。下次行动时对我方全体施放<color style='color:#f29e38;'>【无尽长冬的绝罚】</color>。",
+            "CH": "",
             "EN": "Enters the <color style='color:#f29e38;'>Charge</color> state: DMG dealt increased by <color style='color:#f29e38;'>25%</color> for <color style='color:#f29e38;'>1</color> turn. The next action casts <color style='color:#f29e38;'>\"Punishment of Endless Winter\"</color> on all targets."
         },
         "SP": 0,
@@ -1129,7 +1138,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_待机。不显示。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -1141,7 +1150,7 @@ var _monsterskill = {
             "EN": "Chill of Bone-Piercing Coagulation"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 10.0,
@@ -1157,7 +1166,7 @@ var _monsterskill = {
             "EN": "Omen of Everlasting Freeze"
         },
         "Desc": {
-            "CH": "召唤<color style='color:#f29e38;'>【冰锋】</color>。",
+            "CH": "",
             "EN": "Summons <color style='color:#f29e38;'>Ice Edges</color>."
         },
         "SP": 0,
@@ -1173,11 +1182,12 @@ var _monsterskill = {
             "EN": "Punishment of Endless Winter"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 20.0,
         "Elem": "Ice",
+        "Threat": true,
         "DMG": [
             3.75
         ]
@@ -1189,7 +1199,7 @@ var _monsterskill = {
             "EN": "Hoarfrost of Eternal Isolation"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>冻结</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>冻结持续伤害：<2>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Freeze</b> the target for <color style='color:#f29e38;'>1</color> turn. <br>Freeze DoT: <2> Ice DMG."
         },
         "SP": 10.0,
@@ -1209,7 +1219,7 @@ var _monsterskill = {
             "EN": "Wrath of Winterland Saints"
         },
         "Desc": {
-            "CH": "进入<color style='color:#f29e38;'>蓄力</color>状态：造成的伤害提升<color style='color:#f29e38;'>30%</color>，持续<color style='color:#f29e38;'>1</color>回合。下次行动时对我方全体施放<color style='color:#f29e38;'>【无尽长冬的绝罚】</color>。",
+            "CH": "",
             "EN": "Enters the <color style='color:#f29e38;'>Charge</color> state: DMG dealt increased by <color style='color:#f29e38;'>30%</color> for <color style='color:#f29e38;'>1</color> turn. The next action casts <color style='color:#f29e38;'>\"Punishment of Endless Winter\"</color> on all targets."
         },
         "SP": 0,
@@ -1227,7 +1237,7 @@ var _monsterskill = {
             "EN": "Reverberating Ice"
         },
         "Desc": {
-            "CH": "对冻结状态下的我方目标造成<1>冰属性伤害，对相邻目标造成<2>冰属性伤害，并解除主目标的冻结状态。若相邻目标处于冻结状态，则再次对主目标施放本技能。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to Frozen targets and <2> Ice DMG to adjacent units. This also removes the target's Frozen state. If the adjacent units are also Frozen, then this ability is used again on the primary target."
         },
         "SP": 10.0,
@@ -1244,7 +1254,7 @@ var _monsterskill = {
             "EN": "Intensifying Cold"
         },
         "Desc": {
-            "CH": "每成功触发一次冻结，自身及召唤物造成的伤害提高<color style='color:#f29e38;'>10%</color>，可叠加。",
+            "CH": "",
             "EN": "Every time Cocolia successfully applies Frozen, DMG dealt by herself and summoned objects is increased by <color style='color:#f29e38;'>10%</color>. This DMG boosting effect is stackable."
         },
         "SP": 0,
@@ -1259,7 +1269,7 @@ var _monsterskill = {
             "EN": "Chill of Bone-Piercing Coagulation"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 10.0,
@@ -1275,7 +1285,7 @@ var _monsterskill = {
             "EN": "Omen of Everlasting Freeze"
         },
         "Desc": {
-            "CH": "召唤<color style='color:#f29e38;'>【冰锋】</color>。",
+            "CH": "",
             "EN": "Summons <color style='color:#f29e38;'>Ice Edges</color>."
         },
         "SP": 0,
@@ -1291,11 +1301,12 @@ var _monsterskill = {
             "EN": "Punishment of Endless Winter"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 20.0,
         "Elem": "Ice",
+        "Threat": true,
         "DMG": [
             3.75
         ]
@@ -1307,7 +1318,7 @@ var _monsterskill = {
             "EN": "Hoarfrost of Eternal Isolation"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>冻结</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>冻结持续伤害：<2>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Freeze</b> the target for <color style='color:#f29e38;'>1</color> turn. <br>Freeze DoT: <2> Ice DMG."
         },
         "SP": 10.0,
@@ -1327,7 +1338,7 @@ var _monsterskill = {
             "EN": "Wrath of Winterland Saints"
         },
         "Desc": {
-            "CH": "进入<color style='color:#f29e38;'>蓄力</color>状态：造成的伤害提升<color style='color:#f29e38;'>30%</color>，持续<color style='color:#f29e38;'>1</color>回合。下次行动时对我方全体施放<color style='color:#f29e38;'>【无尽长冬的绝罚】</color>。",
+            "CH": "",
             "EN": "Enters the <color style='color:#f29e38;'>Charge</color> state: DMG dealt increased by <color style='color:#f29e38;'>30%</color> for <color style='color:#f29e38;'>1</color> turn. The next action casts <color style='color:#f29e38;'>\"Punishment of Endless Winter\"</color> on all targets."
         },
         "SP": 0,
@@ -1345,7 +1356,7 @@ var _monsterskill = {
             "EN": "Reverberating Ice"
         },
         "Desc": {
-            "CH": "对冻结状态下的我方目标造成<1>冰属性伤害，对相邻目标造成<2>冰属性伤害，并解除主目标的冻结状态。若相邻目标处于冻结状态，则再次对主目标施放本技能。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to Frozen targets and <2> Ice DMG to adjacent units. This also removes the target's Frozen state. If the adjacent units are also Frozen, then this ability is used again on the primary target."
         },
         "SP": 10.0,
@@ -1362,7 +1373,7 @@ var _monsterskill = {
             "EN": "Intensifying Cold"
         },
         "Desc": {
-            "CH": "每成功触发一次冻结，自身及召唤物造成的伤害提高<color style='color:#f29e38;'>10%</color>，可叠加。<br>第三阶段的生命值变为原本的<color style='color:#f29e38;'>1.66</color>倍。<br>第三阶段生命值降低至<color style='color:#f29e38;'>50%</color>以下，暴风雪将席卷战场...",
+            "CH": "",
             "EN": "Every time Cocolia successfully applies Frozen, DMG dealt by herself and summoned objects is increased by <color style='color:#f29e38;'>10%</color>. This DMG boosting effect is stackable.<br>Phase 3 Max HP becomes <color style='color:#f29e38;'>1.66</color> times the original.<br>When HP falls below <color style='color:#f29e38;'>50%</color> in Phase 3, blizzard engulfs the battlefield..."
         },
         "SP": 0,
@@ -1377,7 +1388,7 @@ var _monsterskill = {
             "EN": "Windrider Bullet"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>风属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to a single target."
         },
         "SP": 10.0,
@@ -1393,7 +1404,7 @@ var _monsterskill = {
             "EN": "Combat Redeployment"
         },
         "Desc": {
-            "CH": "解除指定敌方单体的全部负面效果，并使该目标立即行动。不可对自身释放。",
+            "CH": "",
             "EN": "Dispels all debuffs on an ally, and causes them to take action immediately. Cannot be used on herself."
         },
         "SP": 0
@@ -1405,7 +1416,7 @@ var _monsterskill = {
             "EN": "Coordinated Reinforcement"
         },
         "Desc": {
-            "CH": "召唤<color style='color:#f29e38;'>【银鬃近卫】</color>或<color style='color:#f29e38;'>【银鬃射手】</color>。",
+            "CH": "",
             "EN": "Summons <color style='color:#f29e38;'>Silvermane Soldier</color> or <color style='color:#f29e38;'>Silvermane Gunner</color>."
         },
         "SP": 0,
@@ -1421,11 +1432,12 @@ var _monsterskill = {
             "EN": "Suppressive Fire"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>风属性伤害，并使受到攻击的我方目标行动延后<color style='color:#f29e38;'>50%</color>。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to a single target and delays their action by <color style='color:#f29e38;'>50%</color>."
         },
         "SP": 15.0,
         "Elem": "Wind",
+        "Threat": true,
         "DMG": [
             5.0
         ]
@@ -1437,7 +1449,7 @@ var _monsterskill = {
             "EN": "Windrider Bullet"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>风属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to a single target."
         },
         "SP": 10.0,
@@ -1453,7 +1465,7 @@ var _monsterskill = {
             "EN": "Combat Redeployment"
         },
         "Desc": {
-            "CH": "解除指定敌方单体的全部负面效果，并使该目标立即行动，且造成的伤害提高<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>1</color>回合。不可对自身释放。",
+            "CH": "",
             "EN": "Dispels all debuffs on an ally, causes them to take action immediately, and increasing their DMG dealt by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>1</color> turn. Cannot be used on herself."
         },
         "SP": 0
@@ -1465,7 +1477,7 @@ var _monsterskill = {
             "EN": "Coordinated Reinforcement"
         },
         "Desc": {
-            "CH": "召唤【银鬃近卫】或【银鬃射手】。",
+            "CH": "",
             "EN": "Summons Silvermane Soldier or Silvermane Gunner"
         },
         "SP": 0
@@ -1477,11 +1489,12 @@ var _monsterskill = {
             "EN": "Suppressive Fire"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>风属性伤害，并使受到攻击的我方目标行动延后<color style='color:#f29e38;'>50%</color>。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to a single target and delays their action by <color style='color:#f29e38;'>50%</color>."
         },
         "SP": 15.0,
         "Elem": "Wind",
+        "Threat": true,
         "DMG": [
             3.75
         ]
@@ -1493,7 +1506,7 @@ var _monsterskill = {
             "EN": "Bone-Shattering Cold"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 10.0,
@@ -1509,11 +1522,12 @@ var _monsterskill = {
             "EN": "Soulrend Coldstream"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 20.0,
         "Elem": "Ice",
+        "Threat": true,
         "DMG": [
             9.5
         ]
@@ -1525,7 +1539,7 @@ var _monsterskill = {
             "EN": "Icy Rain of Annihilation"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 10.0,
@@ -1541,7 +1555,7 @@ var _monsterskill = {
             "EN": "Heartless Annihilator Call"
         },
         "Desc": {
-            "CH": "召唤2个<color style='color:#f29e38;'>【无尽寒冬之槊】</color>。其中一个行动延后<color style='color:#f29e38;'>80%</color>。",
+            "CH": "",
             "EN": "Summons 2 <color style='color:#f29e38;'>Lances of the Eternal Freeze</color>. One of them action delayed by <color style='color:#f29e38;'>80%</color>."
         },
         "SP": 0,
@@ -1557,7 +1571,7 @@ var _monsterskill = {
             "EN": "Genesis Chord"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>虚数属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受击者陷入<b>禁锢</b>状态：行动延后<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>1</color>回合。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance of causing <b>Imprisonment</b>: Action delayed by <color style='color:#f29e38;'>50%</color> for <color style='color:#f29e38;'>1</color> turn."
         },
         "SP": 10.0,
@@ -1576,7 +1590,7 @@ var _monsterskill = {
             "EN": "The Creation's Prelude"
         },
         "Desc": {
-            "CH": "进入<color style='color:#f29e38;'>蓄力</color>状态。下次行动对我方全体施放<color style='color:#f29e38;'>【创世绝响】</color>。",
+            "CH": "",
             "EN": "Enters the <color style='color:#f29e38;'>Charge</color> state. The next action uses <color style='color:#f29e38;'>\"Last Choir of Genesis\"</color> on all targets."
         },
         "SP": 0,
@@ -1594,11 +1608,12 @@ var _monsterskill = {
             "EN": "Last Choir of Genesis"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>虚数属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to all targets."
         },
         "SP": 20.0,
         "Elem": "Imaginary",
+        "Threat": true,
         "DMG": [
             6.5
         ]
@@ -1610,7 +1625,7 @@ var _monsterskill = {
             "EN": "Harbinger of Annihilation"
         },
         "Desc": {
-            "CH": "<b>锁定</b>我方单体，下次行动对该目标施放<color style='color:#f29e38;'>【裂魂寒流】</color>。",
+            "CH": "",
             "EN": "<b>Locks Onto</b> a single target. The next action uses <color style='color:#f29e38;'>\"Soulrend Coldstream\"</color>."
         },
         "SP": 0,
@@ -1628,7 +1643,7 @@ var _monsterskill = {
             "EN": "Creator's Resolve"
         },
         "Desc": {
-            "CH": "阶段转换后速度提高<color style='color:#f29e38;'>20</color>，生命值上限改为原本的<color style='color:#f29e38;'>60%</color>，韧性改为原本的<color style='color:#f29e38;'>88.8%</color>。攻击造成的伤害转变为虚数属性。",
+            "CH": "",
             "EN": "After changing phase, SPD increased by <color style='color:#f29e38;'>20</color>, Max HP changed to <color style='color:#f29e38;'>60%</color> of original, Toughness changed to <color style='color:#f29e38;'>88.8%</color> of original. Deals Imaginary DMG instead when attacking."
         },
         "SP": 0
@@ -1640,7 +1655,7 @@ var _monsterskill = {
             "EN": "Bone-Shattering Cold"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 10.0,
@@ -1656,11 +1671,12 @@ var _monsterskill = {
             "EN": "Soulrend Coldstream"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 15.0,
         "Elem": "Ice",
+        "Threat": true,
         "DMG": [
             9.5
         ]
@@ -1672,7 +1688,7 @@ var _monsterskill = {
             "EN": "Icy Rain of Annihilation"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 10.0,
@@ -1688,7 +1704,7 @@ var _monsterskill = {
             "EN": "Heartless Annihilator Call"
         },
         "Desc": {
-            "CH": "召唤2个<color style='color:#f29e38;'>【无尽寒冬之槊】</color>。其中一个行动延后<color style='color:#f29e38;'>80%</color>。",
+            "CH": "",
             "EN": "Summons 2 <color style='color:#f29e38;'>Lances of the Eternal Freeze</color>. One of them action delayed by <color style='color:#f29e38;'>80%</color>."
         },
         "SP": 0,
@@ -1704,7 +1720,7 @@ var _monsterskill = {
             "EN": "Genesis Chord"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>虚数属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受击者陷入<b>禁锢</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>禁锢：无法行动，行动延后<color style='color:#f29e38;'>50%</color>。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance of causing <b>Imprisonment</b> for <color style='color:#f29e38;'>1</color> turn. <br>Imprisonment: Cannot take action, action delayed by <color style='color:#f29e38;'>50%</color> ."
         },
         "SP": 10.0,
@@ -1723,7 +1739,7 @@ var _monsterskill = {
             "EN": "The Creation's Prelude"
         },
         "Desc": {
-            "CH": "进入<color style='color:#f29e38;'>蓄力</color>状态。下次行动对我方全体施放<color style='color:#f29e38;'>【创世绝响】</color>。",
+            "CH": "",
             "EN": "Enters the <color style='color:#f29e38;'>Charge</color> state. The next action uses <color style='color:#f29e38;'>\"Last Choir of Genesis\"</color> on all targets."
         },
         "SP": 0,
@@ -1741,11 +1757,12 @@ var _monsterskill = {
             "EN": "Last Choir of Genesis"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>虚数属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to all targets."
         },
         "SP": 20.0,
         "Elem": "Imaginary",
+        "Threat": true,
         "DMG": [
             6.5
         ]
@@ -1757,7 +1774,7 @@ var _monsterskill = {
             "EN": "Harbinger of Annihilation"
         },
         "Desc": {
-            "CH": "<b>锁定</b>我方单体，下次行动对该目标施放<color style='color:#f29e38;'>【裂魂寒流】</color>。",
+            "CH": "",
             "EN": "<b>Locks Onto</b> a single target. The next action uses <color style='color:#f29e38;'>\"Soulrend Coldstream\"</color>."
         },
         "SP": 0,
@@ -1775,7 +1792,7 @@ var _monsterskill = {
             "EN": "Creator's Resolve"
         },
         "Desc": {
-            "CH": "阶段转换后速度提高<color style='color:#f29e38;'>20</color>，生命值上限改为原本的<color style='color:#f29e38;'>60%</color>，韧性改为原本的<color style='color:#f29e38;'>88.8%</color>。攻击造成的伤害转变为虚数属性。",
+            "CH": "",
             "EN": "After changing phase, SPD increased by <color style='color:#f29e38;'>20</color>, Max HP changed to <color style='color:#f29e38;'>60%</color> of original, Toughness changed to <color style='color:#f29e38;'>88.8%</color> of original. Deals Imaginary DMG instead when attacking."
         },
         "SP": 0
@@ -1787,7 +1804,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_第二战开场巨大化表演。不显示。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -1799,7 +1816,7 @@ var _monsterskill = {
             "EN": "Bone-Shattering Cold"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 10.0,
@@ -1815,11 +1832,12 @@ var _monsterskill = {
             "EN": "Soulrend Coldstream"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受击者陷入<b>冻结</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>冻结持续伤害：<2>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Freeze</b> the target for <color style='color:#f29e38;'>1</color> turn. <br>Freeze DoT: <2> Ice DMG."
         },
         "SP": 15.0,
         "Elem": "Ice",
+        "Threat": true,
         "DMG": [
             6.5,
             1.0
@@ -1832,7 +1850,7 @@ var _monsterskill = {
             "EN": "Icy Rain of Annihilation"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 10.0,
@@ -1848,7 +1866,7 @@ var _monsterskill = {
             "EN": "Heartless Annihilator Call"
         },
         "Desc": {
-            "CH": "召唤2个<color style='color:#f29e38;'>【无尽寒冬之槊】</color>。分别行动延后<color style='color:#f29e38;'>30%</color>和<color style='color:#f29e38;'>80%</color>。",
+            "CH": "",
             "EN": "Summons 2 <color style='color:#f29e38;'>Lances of the Eternal Freeze</color>. Respective have action delayed by <color style='color:#f29e38;'>30%</color> and <color style='color:#f29e38;'>80%</color>."
         },
         "SP": 0,
@@ -1864,7 +1882,7 @@ var _monsterskill = {
             "EN": "Genesis Chord"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>虚数属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受击者陷入<b>禁锢</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>禁锢：无法行动，行动延后<color style='color:#f29e38;'>50%</color>。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance of causing <b>Imprisonment</b> for <color style='color:#f29e38;'>1</color> turn. <br>Imprisonment: Cannot take action, action delayed by <color style='color:#f29e38;'>50%</color> ."
         },
         "SP": 10.0,
@@ -1883,7 +1901,7 @@ var _monsterskill = {
             "EN": "The Creation's Prelude"
         },
         "Desc": {
-            "CH": "进入<color style='color:#f29e38;'>蓄力</color>状态。下次行动对我方全体施放<color style='color:#f29e38;'>【创世绝响】</color>。",
+            "CH": "",
             "EN": "Enters the <color style='color:#f29e38;'>Charge</color> state. The next action uses <color style='color:#f29e38;'>\"Last Choir of Genesis\"</color> on all targets."
         },
         "SP": 0,
@@ -1901,11 +1919,12 @@ var _monsterskill = {
             "EN": "Last Choir of Genesis"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>虚数属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to all targets."
         },
         "SP": 20.0,
         "Elem": "Imaginary",
+        "Threat": true,
         "DMG": [
             6.5
         ]
@@ -1917,7 +1936,7 @@ var _monsterskill = {
             "EN": "Harbinger of Annihilation"
         },
         "Desc": {
-            "CH": "<b>锁定</b>我方单体，下次行动对该目标施放<color style='color:#f29e38;'>【裂魂寒流】</color>。",
+            "CH": "",
             "EN": "<b>Locks Onto</b> a single target. The next action uses <color style='color:#f29e38;'>\"Soulrend Coldstream\"</color>."
         },
         "SP": 0,
@@ -1935,7 +1954,7 @@ var _monsterskill = {
             "EN": "Harbinger's Resolve"
         },
         "Desc": {
-            "CH": "对指定我方单体施放<color style='color:#f29e38;'>【裂魂寒流】</color>有<color style='color:#f29e38;'>100%</color>基础概率使该目标陷入<b>冻结</b>状态。",
+            "CH": "",
             "EN": "Using <color style='color:#f29e38;'>Soulrend Coldstream</color> has a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Freeze</b> the target."
         },
         "SP": 0,
@@ -1951,7 +1970,7 @@ var _monsterskill = {
             "EN": "Creator's Resolve"
         },
         "Desc": {
-            "CH": "阶段转换后速度提高<color style='color:#f29e38;'>40</color>，生命值上限改为原本的<color style='color:#f29e38;'>75%</color>，韧性改为原本的<color style='color:#f29e38;'>88.8%</color>。攻击造成的伤害转变为虚数属性。",
+            "CH": "",
             "EN": "After changing phase, SPD increased by <color style='color:#f29e38;'>40</color>, Max HP changed to <color style='color:#f29e38;'>75%</color> of original, Toughness changed to <color style='color:#f29e38;'>88.8%</color> of original. Deals Imaginary DMG instead when attacking."
         },
         "SP": 0
@@ -1963,7 +1982,7 @@ var _monsterskill = {
             "EN": "Vertical Strike"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 15.0,
@@ -1979,7 +1998,7 @@ var _monsterskill = {
             "EN": "Self-Healing Module"
         },
         "Desc": {
-            "CH": "立即为敌方全体回复<color style='color:#f29e38;'>25%生命值上限</color>。",
+            "CH": "",
             "EN": "Immediately recovers <color style='color:#f29e38;'>25% Max HP</color> for all friendly units."
         },
         "SP": 0
@@ -1991,7 +2010,7 @@ var _monsterskill = {
             "EN": "Vertical Strike"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 15.0,
@@ -2007,7 +2026,7 @@ var _monsterskill = {
             "EN": "Self-Healing Module"
         },
         "Desc": {
-            "CH": "立即为敌方全体回复<color style='color:#f29e38;'>25%生命值上限</color>。",
+            "CH": "",
             "EN": "Immediately recovers <color style='color:#f29e38;'>25% Max HP</color> for all friendly units."
         },
         "SP": 0
@@ -2019,7 +2038,7 @@ var _monsterskill = {
             "EN": "Ram"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 15.0,
@@ -2035,7 +2054,7 @@ var _monsterskill = {
             "EN": "Timed Module"
         },
         "Desc": {
-            "CH": "下次行动施放<color style='color:#f29e38;'>【自爆模块】</color>。",
+            "CH": "",
             "EN": "The next action uses <color style='color:#f29e38;'>Self-Exploding Module</color>."
         },
         "SP": 0,
@@ -2050,11 +2069,12 @@ var _monsterskill = {
             "EN": "Self-Exploding Module"
         },
         "Desc": {
-            "CH": "引爆自身，对指定我方单体及其相邻目标造成<1>火属性伤害。",
+            "CH": "",
             "EN": "Self-destructs, dealing <1> Fire DMG to a single target and units adjacent to the target."
         },
         "SP": 15.0,
         "Elem": "Fire",
+        "Threat": true,
         "DMG": [
             5.0
         ]
@@ -2066,7 +2086,7 @@ var _monsterskill = {
             "EN": "Chains of Destruction"
         },
         "Desc": {
-            "CH": "受到致命攻击后，对相邻的敌方目标造成<color style='color:#f29e38;'>120%自身生命值上限</color>的火属性伤害，造成<color style='color:#f29e38;'>2.0</color>点火属性削韧。",
+            "CH": "",
             "EN": "Deals <color style='color:#f29e38;'>120% Self Max HP</color> Fire DMG and <color style='color:#f29e38;'>2.0</color> Fire Toughness DMG to adjacent units when suffering a killing blow."
         },
         "SP": 0,
@@ -2079,7 +2099,7 @@ var _monsterskill = {
             "EN": "So█rry█ █"
         },
         "Desc": {
-            "CH": "dev_待机。不显示。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -2091,7 +2111,7 @@ var _monsterskill = {
             "EN": "Ram"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 15.0,
@@ -2107,7 +2127,7 @@ var _monsterskill = {
             "EN": "Timed Module"
         },
         "Desc": {
-            "CH": "下次行动施放<color style='color:#f29e38;'>【自爆模块】</color>。",
+            "CH": "",
             "EN": "The next action uses <color style='color:#f29e38;'>Self-Exploding Module</color>."
         },
         "SP": 0,
@@ -2122,11 +2142,12 @@ var _monsterskill = {
             "EN": "Self-Exploding Module"
         },
         "Desc": {
-            "CH": "引爆自身，对指定我方单体及其相邻目标造成<1>火属性伤害。",
+            "CH": "",
             "EN": "Self-destructs, dealing <1> Fire DMG to a single target and units adjacent to the target."
         },
         "SP": 15.0,
         "Elem": "Fire",
+        "Threat": true,
         "DMG": [
             5.0
         ]
@@ -2138,7 +2159,7 @@ var _monsterskill = {
             "EN": "Chains of Destruction"
         },
         "Desc": {
-            "CH": "受到致命攻击后，对相邻的敌方目标造成<color style='color:#f29e38;'>120%自身生命值上限</color>的火属性伤害，造成<color style='color:#f29e38;'>2.0</color>点火属性削韧。",
+            "CH": "",
             "EN": "Deals <color style='color:#f29e38;'>120% Self Max HP</color> Fire DMG and <color style='color:#f29e38;'>2.0</color> Fire Toughness DMG to adjacent units when suffering a killing blow."
         },
         "SP": 0,
@@ -2151,7 +2172,7 @@ var _monsterskill = {
             "EN": "Unstable Forcefield"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害，并为自身提供屏障，屏障可抵抗除持续伤害外的所有伤害，受到攻击后解除。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target, and grants a Barrier to another friendly unit. The Barrier nullifies all DMG received except for DoT until after the friendly unit is attacked."
         },
         "SP": 15.0,
@@ -2167,7 +2188,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_不显示。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -2179,7 +2200,7 @@ var _monsterskill = {
             "EN": "Oppressive Embrace"
         },
         "Desc": {
-            "CH": "对陷入<color style='color:#f29e38;'>【拘束】</color>状态的我方目标造成<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。",
+            "CH": "",
             "EN": "Deals <color style='color:#f29e38;'>50% Max HP</color> Physical DMG to <color style='color:#f29e38;'>Imprisoned</color> targets."
         },
         "SP": 10.0,
@@ -2195,7 +2216,7 @@ var _monsterskill = {
             "EN": "Awaiting Orders"
         },
         "Desc": {
-            "CH": "dev_待机。不显示。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -2207,7 +2228,7 @@ var _monsterskill = {
             "EN": "Oppressive Embrace"
         },
         "Desc": {
-            "CH": "使指定我方单体陷入<color style='color:#f29e38;'>【拘束】</color>状态，并造成一次<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。当自身弱点被击破时，我方目标的【拘束】状态立即解除。",
+            "CH": "",
             "EN": "<color style='color:#f29e38;'>Imprisons</color> a single target, and deals <color style='color:#f29e38;'>50% Max HP</color> Physical DMG once. When this unit has their Weakness Broken, dispels the Imprison status from the target."
         },
         "SP": 10.0,
@@ -2223,7 +2244,7 @@ var _monsterskill = {
             "EN": "Disabling Field"
         },
         "Desc": {
-            "CH": "对陷入<color style='color:#f29e38;'>【拘束】</color>状态的我方目标造成<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。",
+            "CH": "",
             "EN": "Deals <color style='color:#f29e38;'>50% Max HP</color> Physical DMG to <color style='color:#f29e38;'>Imprisoned</color> targets."
         },
         "SP": 10.0,
@@ -2238,11 +2259,12 @@ var _monsterskill = {
             "EN": "Controlled Blasting"
         },
         "Desc": {
-            "CH": "辅助机械臂发生爆炸，对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "The Auxiliary Robot Arm explodes, dealing <1> Physical DMG to a single target."
         },
         "SP": 25.0,
         "Elem": "Phys",
+        "Threat": true,
         "DMG": [
             15.0
         ]
@@ -2254,7 +2276,7 @@ var _monsterskill = {
             "EN": "Overload Warning"
         },
         "Desc": {
-            "CH": "辅助机械臂单元进入<color style='color:#f29e38;'>【过载】</color>状态，并立即解除我方目标的【拘束】状态。<br>进入该状态后辅助机械臂单元下次行动施放<color style='color:#f29e38;'>【控场起爆】</color>。",
+            "CH": "",
             "EN": "Auxiliary Robot Arm Unit enters <color style='color:#f29e38;'>Overload</color> mode and immediately removes Imprisonment from friendly units. <br>When entering this mode, Auxiliary Robot Arm Unit will cast <color style='color:#f29e38;'>Controlled Blasting</color> on its next action."
         },
         "SP": 0,
@@ -2273,7 +2295,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_不显示。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -2285,7 +2307,7 @@ var _monsterskill = {
             "EN": "Oppressive Embrace"
         },
         "Desc": {
-            "CH": "对陷入<color style='color:#f29e38;'>【拘束】</color>状态的我方目标造成<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。",
+            "CH": "",
             "EN": "Deals <color style='color:#f29e38;'>50% Max HP</color> Physical DMG to <color style='color:#f29e38;'>Imprisoned targets</color>."
         },
         "SP": 10.0,
@@ -2301,7 +2323,7 @@ var _monsterskill = {
             "EN": "Awaiting Orders"
         },
         "Desc": {
-            "CH": "dev_待机。不显示。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -2313,7 +2335,7 @@ var _monsterskill = {
             "EN": "Oppressive Embrace"
         },
         "Desc": {
-            "CH": "使指定我方单体陷入<color style='color:#f29e38;'>【拘束】</color>状态，并造成一次<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。当自身弱点被击破，或生命值低于<color style='color:#f29e38;'>50%</color>时，我方目标的【拘束】状态立即解除。",
+            "CH": "",
             "EN": "<color style='color:#f29e38;'>Imprisons</color> a single target, and deals <color style='color:#f29e38;'>50% Max HP</color> Physical DMG once. When this unit has their Weakness Broken, or their HP falls below <color style='color:#f29e38;'>50%</color>, dispels the Imprison status from the target."
         },
         "SP": 10.0,
@@ -2329,7 +2351,7 @@ var _monsterskill = {
             "EN": "Disabling Field"
         },
         "Desc": {
-            "CH": "对陷入<color style='color:#f29e38;'>【拘束】</color>状态的我方目标造成<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。",
+            "CH": "",
             "EN": "Deals <color style='color:#f29e38;'>50% Max HP</color> Physical DMG to <color style='color:#f29e38;'>Imprisoned</color> targets."
         },
         "SP": 10.0,
@@ -2344,11 +2366,12 @@ var _monsterskill = {
             "EN": "Controlled Blasting"
         },
         "Desc": {
-            "CH": "辅助机械臂发生爆炸，对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "The Auxiliary Robot Arm explodes, dealing <1> Physical DMG to a single target."
         },
         "SP": 25.0,
         "Elem": "Phys",
+        "Threat": true,
         "DMG": [
             15.0
         ]
@@ -2360,7 +2383,7 @@ var _monsterskill = {
             "EN": "Overload Warning"
         },
         "Desc": {
-            "CH": "辅助机械臂单元进入<color style='color:#f29e38;'>【过载】</color>状态，并立即解除我方目标的【拘束】状态。进入该状态后辅助机械臂单元下次行动施放<color style='color:#f29e38;'>【控场起爆】</color>。",
+            "CH": "",
             "EN": "Auxiliary Robot Arm Unit enters <color style='color:#f29e38;'>Overload</color> mode and immediately removes Imprisonment from friendly units. When entering this mode, Auxiliary Robot Arm Unit will cast <color style='color:#f29e38;'>Controlled Blasting</color> on its next action."
         },
         "SP": 0,
@@ -2379,7 +2402,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_不显示。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -2391,7 +2414,7 @@ var _monsterskill = {
             "EN": "Oppressive Embrace"
         },
         "Desc": {
-            "CH": "对陷入【拘束】状态的我方目标造成<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。",
+            "CH": "",
             "EN": "Deals <color style='color:#f29e38;'>50% Max HP</color> Physical DMG to Imprisoned targets."
         },
         "SP": 10.0,
@@ -2407,7 +2430,7 @@ var _monsterskill = {
             "EN": "Awaiting Orders"
         },
         "Desc": {
-            "CH": "dev_待机。不显示。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -2419,7 +2442,7 @@ var _monsterskill = {
             "EN": "Oppressive Embrace"
         },
         "Desc": {
-            "CH": "使指定我方单体陷入<color style='color:#f29e38;'>【拘束】</color>状态，并造成一次<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。当自身弱点被击破，或生命值低于<color style='color:#f29e38;'>50%</color>时，我方目标的【拘束】状态立即解除。",
+            "CH": "",
             "EN": "<color style='color:#f29e38;'>Imprisons</color> a single target, and deals <color style='color:#f29e38;'>50% Max HP</color> Physical DMG once. When this unit has their Weakness Broken, or their HP falls below <color style='color:#f29e38;'>50%</color>, dispels the Imprison status from the target."
         },
         "SP": 10.0,
@@ -2435,7 +2458,7 @@ var _monsterskill = {
             "EN": "Disabling Field"
         },
         "Desc": {
-            "CH": "对陷入<color style='color:#f29e38;'>【拘束】</color>状态的我方目标造成<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。",
+            "CH": "",
             "EN": "Deals <color style='color:#f29e38;'>50% Max HP</color> Physical DMG to <color style='color:#f29e38;'>Imprisoned</color> targets."
         },
         "SP": 10.0,
@@ -2450,11 +2473,12 @@ var _monsterskill = {
             "EN": "Controlled Blasting"
         },
         "Desc": {
-            "CH": "辅助机械臂发生爆炸，对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "The Auxiliary Robot Arm explodes, dealing <1> Physical DMG to a single target."
         },
         "SP": 25.0,
         "Elem": "Phys",
+        "Threat": true,
         "DMG": [
             25.0
         ]
@@ -2466,7 +2490,7 @@ var _monsterskill = {
             "EN": "Overload Warning"
         },
         "Desc": {
-            "CH": "辅助机械臂单元进入<color style='color:#f29e38;'>【过载】</color>状态，并立即解除我方目标的【拘束】状态。进入该状态后辅助机械臂单元下次行动施放<color style='color:#f29e38;'>【控场起爆】</color>。",
+            "CH": "",
             "EN": "Auxiliary Robot Arm Unit enters <color style='color:#f29e38;'>Overload</color> mode and immediately removes Imprisonment from friendly units. When entering this mode, Auxiliary Robot Arm Unit will cast <color style='color:#f29e38;'>Controlled Blasting</color> on its next action."
         },
         "SP": 0,
@@ -2485,7 +2509,7 @@ var _monsterskill = {
             "EN": "Detonation Order"
         },
         "Desc": {
-            "CH": "召唤<color style='color:#f29e38;'>【自动机兵•蜘蛛】</color>。",
+            "CH": "",
             "EN": "Summons <color style='color:#f29e38;'>Automaton Spider</color>."
         },
         "SP": 0,
@@ -2500,7 +2524,7 @@ var _monsterskill = {
             "EN": "Enrage Order"
         },
         "Desc": {
-            "CH": "有<color style='color:#f29e38;'>50%</color>基础概率使我方全体陷入<b>嘲讽</b>状态，持续<color style='color:#f29e38;'>2</color>回合。",
+            "CH": "",
             "EN": "Has a <color style='color:#f29e38;'>50%</color> Base Chance to <b>Taunt</b> all targets for <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 0,
@@ -2515,7 +2539,7 @@ var _monsterskill = {
             "EN": "Overcombust Order"
         },
         "Desc": {
-            "CH": "进入<color style='color:#f29e38;'>蓄力</color>状态，下次行动对我方全体施放<color style='color:#f29e38;'>【剿灭指令】</color>。",
+            "CH": "",
             "EN": "Enters the <color style='color:#f29e38;'>Charge</color> state. The next action uses <color style='color:#f29e38;'>\"Purge Order\"</color> on all targets."
         },
         "SP": 0,
@@ -2530,11 +2554,12 @@ var _monsterskill = {
             "EN": "Purge Order"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to all targets."
         },
         "SP": 20.0,
         "Elem": "Phys",
+        "Threat": true,
         "DMG": [
             4.0
         ]
@@ -2546,7 +2571,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_不显示。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -2558,7 +2583,7 @@ var _monsterskill = {
             "EN": "Destruction Order"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 10.0,
@@ -2574,7 +2599,7 @@ var _monsterskill = {
             "EN": "Detonation Order"
         },
         "Desc": {
-            "CH": "召唤<color style='color:#f29e38;'>【自动机兵•蜘蛛】</color>和<color style='color:#f29e38;'>【自动机兵•甲虫】</color>。",
+            "CH": "",
             "EN": "Summons <color style='color:#f29e38;'>Automaton Spider</color> and <color style='color:#f29e38;'>Automaton Beetle</color>."
         },
         "SP": 0,
@@ -2590,7 +2615,7 @@ var _monsterskill = {
             "EN": "Enrage Order"
         },
         "Desc": {
-            "CH": "有<color style='color:#f29e38;'>100%</color>基础概率使我方全体陷入<b>嘲讽</b>状态，持续<color style='color:#f29e38;'>2</color>回合。",
+            "CH": "",
             "EN": "Has a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Taunt</b> all targets for <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 0,
@@ -2605,7 +2630,7 @@ var _monsterskill = {
             "EN": "Overcombust Order"
         },
         "Desc": {
-            "CH": "进入<color style='color:#f29e38;'>蓄力</color>状态：造成的伤害提高<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>1</color>回合。下次行动对我方全体施放<color style='color:#f29e38;'>【剿灭指令】</color>。",
+            "CH": "",
             "EN": "Enters the <color style='color:#f29e38;'>Charge</color> state: DMG dealt increased by <color style='color:#f29e38;'>50%</color> for <color style='color:#f29e38;'>1</color> turn. The next action uses <color style='color:#f29e38;'>\"Purge Order\"</color> on all targets."
         },
         "SP": 0,
@@ -2623,11 +2648,12 @@ var _monsterskill = {
             "EN": "Purge Order"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to all targets."
         },
         "SP": 20.0,
         "Elem": "Phys",
+        "Threat": true,
         "DMG": [
             4.0
         ]
@@ -2639,7 +2665,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_不显示。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -2651,7 +2677,7 @@ var _monsterskill = {
             "EN": "Destruction Order"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 10.0,
@@ -2667,7 +2693,7 @@ var _monsterskill = {
             "EN": "Detonation Order"
         },
         "Desc": {
-            "CH": "召唤<color style='color:#f29e38;'>【自动机兵•蜘蛛】</color>。",
+            "CH": "",
             "EN": "Summons Automaton Spider."
         },
         "SP": 0,
@@ -2682,7 +2708,7 @@ var _monsterskill = {
             "EN": "Enrage Order"
         },
         "Desc": {
-            "CH": "有<color style='color:#f29e38;'>100%</color>基础概率使我方全体陷入<b>嘲讽</b>状态，持续<color style='color:#f29e38;'>2</color>回合。",
+            "CH": "",
             "EN": "Has a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Taunt</b> all targets for <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 0,
@@ -2697,7 +2723,7 @@ var _monsterskill = {
             "EN": "Overcombust Order"
         },
         "Desc": {
-            "CH": "进入<color style='color:#f29e38;'>蓄力</color>状态：造成的伤害提高<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>1</color>回合。下次行动对我方全体施放<color style='color:#f29e38;'>【剿灭指令】</color>。",
+            "CH": "",
             "EN": "Enters the <color style='color:#f29e38;'>Charge</color> state: DMG dealt increased by <color style='color:#f29e38;'>50%</color> for <color style='color:#f29e38;'>1</color> turn. The next action uses <color style='color:#f29e38;'>\"Purge Order\"</color> on all targets."
         },
         "SP": 0,
@@ -2715,11 +2741,12 @@ var _monsterskill = {
             "EN": "Purge Order"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to all targets."
         },
         "SP": 20.0,
         "Elem": "Phys",
+        "Threat": true,
         "DMG": [
             4.0
         ]
@@ -2731,7 +2758,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_不显示。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -2743,7 +2770,7 @@ var _monsterskill = {
             "EN": "Destruction Order"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 10.0,
@@ -2759,7 +2786,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_对指定我方单体造成大量物理伤害。",
+            "CH": "",
             "EN": ""
         },
         "SP": 20.0,
@@ -2772,7 +2799,7 @@ var _monsterskill = {
             "EN": "Obliteration Order"
         },
         "Desc": {
-            "CH": "第三阶段的生命值上限改为原本的<color style='color:#f29e38;'>2.0</color>倍。<br>每次施放【过载指令】时使自身造成的伤害额外提高<color style='color:#f29e38;'>60%</color>，可叠加。",
+            "CH": "",
             "EN": "Phase 3's Max HP changed to <color style='color:#f29e38;'>2.0</color> times the original. <br>Increases DMG dealt by another <color style='color:#f29e38;'>60%</color> every time Overcombust Order is unleashed, stackable."
         },
         "SP": 0,
@@ -2790,7 +2817,7 @@ var _monsterskill = {
             "EN": "Detonation Order"
         },
         "Desc": {
-            "CH": "召唤<color style='color:#f29e38;'>【自动机兵•蜘蛛】</color>。",
+            "CH": "",
             "EN": "Summons <color style='color:#f29e38;'>Automaton Spider</color>."
         },
         "SP": 0,
@@ -2805,7 +2832,7 @@ var _monsterskill = {
             "EN": "Enrage Order"
         },
         "Desc": {
-            "CH": "有<color style='color:#f29e38;'>100%</color>基础概率使我方全体陷入<b>嘲讽</b>状态，持续<color style='color:#f29e38;'>2</color>回合。",
+            "CH": "",
             "EN": "Has a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Taunt</b> all targets for <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 0,
@@ -2820,7 +2847,7 @@ var _monsterskill = {
             "EN": "Overcombust Order"
         },
         "Desc": {
-            "CH": "进入<color style='color:#f29e38;'>蓄力</color>状态：造成的伤害提高<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>1</color>回合。下次行动对我方全体施放<color style='color:#f29e38;'>【剿灭指令】</color>。",
+            "CH": "",
             "EN": "Enters the <color style='color:#f29e38;'>Charge</color> state: DMG dealt increased by <color style='color:#f29e38;'>50%</color> for <color style='color:#f29e38;'>1</color> turn. The next action uses <color style='color:#f29e38;'>\"Purge Order\"</color> on all targets."
         },
         "SP": 0,
@@ -2838,11 +2865,12 @@ var _monsterskill = {
             "EN": "Purge Order"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to all targets."
         },
         "SP": 20.0,
         "Elem": "Phys",
+        "Threat": true,
         "DMG": [
             4.0
         ]
@@ -2854,7 +2882,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_不显示。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -2866,7 +2894,7 @@ var _monsterskill = {
             "EN": "Destruction Order"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 10.0,
@@ -2882,7 +2910,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_对指定我方单体造成大量物理伤害。",
+            "CH": "",
             "EN": ""
         },
         "SP": 20.0,
@@ -2895,7 +2923,7 @@ var _monsterskill = {
             "EN": "Obliteration Order"
         },
         "Desc": {
-            "CH": "第三阶段的生命值上限改为原本的<color style='color:#f29e38;'>1.5</color>倍。<br>每次施放【过载指令】时使自身造成的伤害额外提高<color style='color:#f29e38;'>50%</color>，可叠加。",
+            "CH": "",
             "EN": "Phase 3's Max HP changed to <color style='color:#f29e38;'>1.5</color> times the original. <br>Increases DMG dealt by another <color style='color:#f29e38;'>50%</color> every time Overcombust Order is unleashed, stackable."
         },
         "SP": 0,
@@ -2913,11 +2941,12 @@ var _monsterskill = {
             "EN": "Felling Order"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害，并施加10次<b>裂伤</b>，每次均有<color style='color:#f29e38;'>50%</color>基础概率成功。若施放本技能时该目标未持有护盾，则再对我方随机单体施放1次<color style='color:#f29e38;'>【解体拆除】</color>。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target, and apply <b>Bleed</b> 10 times, each time has a <color style='color:#f29e38;'>50%</color> Base Chance to succeed. If the hit target is not Shielded, then a random ally of theirs suffers <color style='color:#f29e38;'>\"Dismantle\"</color> for 1 time.<br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers."
         },
         "SP": 20.0,
         "Elem": "Phys",
+        "Threat": true,
         "Prepare": [
             101302004
         ],
@@ -2936,7 +2965,7 @@ var _monsterskill = {
             "EN": "Lock On Target"
         },
         "Desc": {
-            "CH": "<b>锁定</b>指定我方单体，下次行动对其施放<color style='color:#f29e38;'>【砍伐指令】</color>。",
+            "CH": "",
             "EN": "<b>Locks Onto</b> a single target. The next action on the target will cast <color style='color:#f29e38;'>\"Felling Order\"</color>."
         },
         "SP": 0,
@@ -2954,7 +2983,7 @@ var _monsterskill = {
             "EN": "Disintegration Order"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率对其增加1层<b>裂伤</b>状态。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict 1 stack of <b>Bleed</b>. <br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers."
         },
         "SP": 10.0,
@@ -2974,7 +3003,7 @@ var _monsterskill = {
             "EN": "Dismantle"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率对其增加1层<b>裂伤</b>状态。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict 1 stack of <b>Bleed</b>. <br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers."
         },
         "SP": 10.0,
@@ -2994,11 +3023,12 @@ var _monsterskill = {
             "EN": "Felling Order"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害，并施加10次<b>裂伤</b>，每次均有<color style='color:#f29e38;'>80%</color>基础概率成功。若施放本技能时该目标未持有护盾，则再对我方随机单体施放1次<color style='color:#f29e38;'>【解体拆除】</color>。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target, and apply <b>Bleed</b> 10 times, each time has a <color style='color:#f29e38;'>80%</color> Base Chance to succeed. If the hit target is not Shielded, then a random ally of theirs suffers <color style='color:#f29e38;'>\"Dismantle\"</color> for 1 time.<br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers."
         },
         "SP": 20.0,
         "Elem": "Phys",
+        "Threat": true,
         "Prepare": [
             101302104
         ],
@@ -3017,7 +3047,7 @@ var _monsterskill = {
             "EN": "Lock On Target"
         },
         "Desc": {
-            "CH": "<b>锁定</b>指定我方单体，下次行动对其施放<color style='color:#f29e38;'>【砍伐指令】</color>。",
+            "CH": "",
             "EN": "<b>Locks Onto</b> a single target. The next action on the target will cast <color style='color:#f29e38;'>\"Felling Order.\"</color>"
         },
         "SP": 0,
@@ -3035,7 +3065,7 @@ var _monsterskill = {
             "EN": "Disintegration Order"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率对其增加1层<b>裂伤</b>状态。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict 1 stack of <b>Bleed</b>. <br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers."
         },
         "SP": 10.0,
@@ -3055,7 +3085,7 @@ var _monsterskill = {
             "EN": "Dismantle"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率对其增加1层<b>裂伤</b>状态。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict 1 stack of <b>Bleed</b>. <br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers."
         },
         "SP": 10.0,
@@ -3075,7 +3105,7 @@ var _monsterskill = {
             "EN": "Targeting Order"
         },
         "Desc": {
-            "CH": "<b>锁定</b>2个我方目标，下次行动对其施放<color style='color:#f29e38;'>【砍伐指令】</color>。",
+            "CH": "",
             "EN": "<b>Locks On</b> to 2 targets and casts <color style='color:#f29e38;'>Felling Order</color> on them in the next action."
         },
         "SP": 0,
@@ -3093,11 +3123,12 @@ var _monsterskill = {
             "EN": "Felling Order"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害，并施加10次<b>裂伤</b>，每次均有<color style='color:#f29e38;'>80%</color>基础概率成功。若施放本技能时该目标未持有护盾，则再对我方随机单体施放1次<color style='color:#f29e38;'>【解体拆除】</color>。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target, and apply <b>Bleed</b> 10 times, each time has a <color style='color:#f29e38;'>80%</color> Base Chance to succeed. If the hit target is not Shielded, then a random ally of theirs suffers <color style='color:#f29e38;'>\"Dismantle\"</color> for 1 time.<br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers."
         },
         "SP": 20.0,
         "Elem": "Phys",
+        "Threat": true,
         "Prepare": [
             101302204
         ],
@@ -3116,7 +3147,7 @@ var _monsterskill = {
             "EN": "Lock On Target"
         },
         "Desc": {
-            "CH": "<b>锁定</b>指定我方单体，下次行动对其施放<color style='color:#f29e38;'>【砍伐指令】</color>。",
+            "CH": "",
             "EN": "<b>Locks Onto</b> a single target. The next action on the target will cast <color style='color:#f29e38;'>\"Felling Order\"</color>."
         },
         "SP": 0,
@@ -3134,7 +3165,7 @@ var _monsterskill = {
             "EN": "Disintegration Order"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率对其增加1层<b>裂伤</b>状态。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict 1 stack of <b>Bleed</b>. <br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers."
         },
         "SP": 10.0,
@@ -3154,7 +3185,7 @@ var _monsterskill = {
             "EN": "Dismantle"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率对其增加1层<b>裂伤</b>状态。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict 1 stack of <b>Bleed</b>. <br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers."
         },
         "SP": 10.0,
@@ -3174,7 +3205,7 @@ var _monsterskill = {
             "EN": "Targeting Order"
         },
         "Desc": {
-            "CH": "<b>锁定</b>2个我方目标，下次行动对其施放<color style='color:#f29e38;'>【砍伐指令】</color>。",
+            "CH": "",
             "EN": "<b>Locks On</b> to 2 targets and casts <color style='color:#f29e38;'>Felling Order</color> on them in the next action."
         },
         "SP": 0,
@@ -3192,7 +3223,7 @@ var _monsterskill = {
             "EN": "Teamwork Order"
         },
         "Desc": {
-            "CH": "<b>锁定</b>2个我方单体，下次行动对其施放<color style='color:#f29e38;'>【砍伐指令】</color>。同时使【自动机兵·灰熊】进入蓄力状态，下次行动对我方全体施放<color style='color:#f29e38;'>【剿灭指令】</color>。",
+            "CH": "",
             "EN": "<b>Locks Onto</b> 2 targets and casts <color style='color:#f29e38;'>\"Felling Order\"</color> on them in the next action. At the same time, makes Automaton Grizzly enter the Charge state, which will cast <color style='color:#f29e38;'>\"Purge Order\"</color> on all targets in the next action."
         },
         "SP": 0,
@@ -3210,7 +3241,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_对指定我方单体造成物理伤害，并大概率对其增加多层裂伤。",
+            "CH": "",
             "EN": ""
         },
         "SP": 10.0,
@@ -3223,7 +3254,7 @@ var _monsterskill = {
             "EN": "Combat Speed-Up"
         },
         "Desc": {
-            "CH": "第三阶段的生命值上限改为原本的<color style='color:#f29e38;'>2.0</color>倍。<br>使自身速度提高<color style='color:#f29e38;'>60%</color>。每次施放【瞄准指令】时使自身速度额外提高<color style='color:#f29e38;'>20%</color>，可叠加。",
+            "CH": "",
             "EN": "Phase 3's Max HP is changed to <color style='color:#f29e38;'>2.0</color> times the original. <br>Increases SPD by <color style='color:#f29e38;'>60%</color>. Every time Targeting Order is used, increase SPD by an extra <color style='color:#f29e38;'>20%</color>, stackable."
         },
         "SP": 0,
@@ -3239,11 +3270,12 @@ var _monsterskill = {
             "EN": "Felling Order"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害，并施加10次<b>裂伤</b>，每次均有<color style='color:#f29e38;'>50%</color>基础概率成功。若施放本技能时该目标未持有护盾，则再对我方随机单体施放1次<color style='color:#f29e38;'>【解体拆除】</color>。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target, and apply <b>Bleed</b> 10 times, each time has a <color style='color:#f29e38;'>50%</color> Base Chance to succeed. If the hit target is not Shielded, then a random ally of theirs suffers <color style='color:#f29e38;'>\"Dismantle\"</color> for 1 time.<br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers."
         },
         "SP": 20.0,
         "Elem": "Phys",
+        "Threat": true,
         "Prepare": [
             101302304
         ],
@@ -3262,7 +3294,7 @@ var _monsterskill = {
             "EN": "Lock On Target"
         },
         "Desc": {
-            "CH": "<b>锁定</b>指定我方单体，下次行动对其施放<color style='color:#f29e38;'>【砍伐指令】</color>。",
+            "CH": "",
             "EN": "<b>Locks Onto</b> a single target. The next action on the target will cast <color style='color:#f29e38;'>\"Felling Order\"</color>."
         },
         "SP": 0,
@@ -3280,7 +3312,7 @@ var _monsterskill = {
             "EN": "Disintegration Order"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率对其增加1层<b>裂伤</b>状态。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict 1 stack of <b>Bleed</b>. <br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers."
         },
         "SP": 10.0,
@@ -3300,7 +3332,7 @@ var _monsterskill = {
             "EN": "Dismantle"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率对其增加1层<b>裂伤</b>状态。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict 1 stack of <b>Bleed</b>. <br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers."
         },
         "SP": 10.0,
@@ -3320,7 +3352,7 @@ var _monsterskill = {
             "EN": "Targeting Order"
         },
         "Desc": {
-            "CH": "<b>锁定</b>2个我方目标，下次行动对其施放<color style='color:#f29e38;'>【砍伐指令】</color>。",
+            "CH": "",
             "EN": "<b>Locks On</b> to 2 targets and casts <color style='color:#f29e38;'>Felling Order</color> on them in the next action."
         },
         "SP": 0,
@@ -3338,7 +3370,7 @@ var _monsterskill = {
             "EN": "Teamwork Order"
         },
         "Desc": {
-            "CH": "<b>锁定</b>2个我方单体，下次行动对其施放<color style='color:#f29e38;'>【砍伐指令】</color>。同时使【自动机兵·灰熊】进入蓄力状态，下次行动对我方全体施放<color style='color:#f29e38;'>【剿灭指令】</color>。",
+            "CH": "",
             "EN": "<b>Locks On</b> to 2 targets and casts <color style='color:#f29e38;'>Felling Order</color> on them in the next action. At the same time, makes Automaton Grizzly enter the Charge state, which will cast <color style='color:#f29e38;'>Purge Order</color> on all targets in the next action."
         },
         "SP": 0,
@@ -3356,7 +3388,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_对指定我方单体造成物理伤害，并大概率对其增加多层裂伤。",
+            "CH": "",
             "EN": ""
         },
         "SP": 10.0,
@@ -3369,7 +3401,7 @@ var _monsterskill = {
             "EN": "Combat Speed-Up"
         },
         "Desc": {
-            "CH": "第三阶段的生命值上限改为原本的<color style='color:#f29e38;'>1.5</color>倍。<br>使自身速度提高<color style='color:#f29e38;'>60%</color>。每次施放【瞄准指令】时使自身速度额外提高<color style='color:#f29e38;'>10%</color>，可叠加。",
+            "CH": "",
             "EN": "Phase 3's Max HP is changed to <color style='color:#f29e38;'>2.0</color> times the original. <br>Increases SPD by <color style='color:#f29e38;'>60%</color>. Every time Targeting Order is used, increase SPD by an extra <color style='color:#f29e38;'>20%</color>, stackable."
         },
         "SP": 0,
@@ -3385,7 +3417,7 @@ var _monsterskill = {
             "EN": "Banishing Punch"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 15.0,
@@ -3401,7 +3433,7 @@ var _monsterskill = {
             "EN": "Burning Beam"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害，并使受到攻击的我方目标行动延后<color style='color:#f29e38;'>30%</color>。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target and delays their action by <color style='color:#f29e38;'>30%</color>."
         },
         "SP": 15.0,
@@ -3417,7 +3449,7 @@ var _monsterskill = {
             "EN": "Oppressive Embrace"
         },
         "Desc": {
-            "CH": "使指定我方单体陷入<color style='color:#f29e38;'>【拘束】</color>状态，【拘束】状态下无法行动也无法被指定为目标，每回合开始时受到<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。当辅助机械臂单元被弱点击破时我方目标的【拘束】状态立即解除。",
+            "CH": "",
             "EN": "<color style='color:#f29e38;'>Imprisons</color> a single target, preventing them from taking action or being targeted. At the start of every turn, they take <color style='color:#f29e38;'>50% Max HP</color> Physical DMG. The Imprisonment is dispelled if the Auxiliary Robot Arm Unit suffers Weakness Break."
         },
         "SP": 10.0,
@@ -3433,11 +3465,12 @@ var _monsterskill = {
             "EN": "Shrewd Bombing"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标防御力降低<color style='color:#f29e38;'>30%</color>，持续<color style='color:#f29e38;'>2</color>回合，可叠加。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to all targets, with a high chance to reduce their DEF by <color style='color:#f29e38;'>30%</color> for <color style='color:#f29e38;'>2</color> turns, stackable."
         },
         "SP": 2.0,
         "Elem": "Phys",
+        "Threat": true,
         "Status": [
             30010006
         ],
@@ -3452,7 +3485,7 @@ var _monsterskill = {
             "EN": "Controlled Blasting"
         },
         "Desc": {
-            "CH": "辅助机械臂单元发生爆炸，对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "The Auxiliary Robot Arm Unit explodes, dealing <1> Physical DMG to a single target."
         },
         "SP": 25.0,
@@ -3468,7 +3501,7 @@ var _monsterskill = {
             "EN": "Overload Warning"
         },
         "Desc": {
-            "CH": "辅助机械臂单元进入<color style='color:#f29e38;'>【过载时限】</color>状态，进入该状态后下次行动施放<color style='color:#f29e38;'>【控场起爆】</color>。",
+            "CH": "",
             "EN": "Auxiliary Robot Arm Unit enters <color style='color:#f29e38;'>Overload Countdown</color>, causing the next action to cast <color style='color:#f29e38;'>Controlled Blasting</color>."
         },
         "SP": 0,
@@ -3487,7 +3520,7 @@ var _monsterskill = {
             "EN": "Boost Deployment"
         },
         "Desc": {
-            "CH": "召唤<color style='color:#f29e38;'>【辅助机械臂单元】</color>。",
+            "CH": "",
             "EN": "Summons <color style='color:#f29e38;'>Auxiliary Robot Arm Unit</color>."
         },
         "SP": 0,
@@ -3503,7 +3536,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_待机。不显示。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0,
@@ -3516,7 +3549,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_当辅助机械臂单元存在于场上时，史瓦罗受到的伤害降低。不显示。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -3528,7 +3561,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_当被弱点击破时，自身速度降低，持续1回合。不显示。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -3540,7 +3573,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_不显示。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -3552,7 +3585,7 @@ var _monsterskill = {
             "EN": "Banishing Punch"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 15.0,
@@ -3568,7 +3601,7 @@ var _monsterskill = {
             "EN": "Burning Beam"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害，并使受到攻击的我方目标行动延后<color style='color:#f29e38;'>50%</color>。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target and delays their action by <color style='color:#f29e38;'>50%</color>."
         },
         "SP": 15.0,
@@ -3584,7 +3617,7 @@ var _monsterskill = {
             "EN": "Oppressive Embrace"
         },
         "Desc": {
-            "CH": "使指定我方单体陷入<color style='color:#f29e38;'>【拘束】</color>状态，【拘束】状态下无法行动也无法被指定为目标，每回合开始时受到<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。当辅助机械臂单元被弱点击破时我方目标的【拘束】状态立即解除。",
+            "CH": "",
             "EN": "<color style='color:#f29e38;'>Imprisons</color> a single target, preventing them from taking action or being targeted. At the start of every turn, they take <color style='color:#f29e38;'>50% Max HP</color> Physical DMG. The Imprisonment is dispelled if the Auxiliary Robot Arm Unit suffers Weakness Break."
         },
         "SP": 10.0,
@@ -3600,11 +3633,12 @@ var _monsterskill = {
             "EN": "Oversaturated Bombardment"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>3</color>回合，可叠加。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to all targets, with a high chance to reduce their DEF by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>3</color> turns, stackable."
         },
         "SP": 2.0,
         "Elem": "Phys",
+        "Threat": true,
         "Status": [
             30010006
         ],
@@ -3619,7 +3653,7 @@ var _monsterskill = {
             "EN": "Controlled Blasting"
         },
         "Desc": {
-            "CH": "辅助机械臂单元发生爆炸，对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "The Auxiliary Robot Arm Unit explodes, dealing <1> Physical DMG to a single target."
         },
         "SP": 25.0,
@@ -3635,7 +3669,7 @@ var _monsterskill = {
             "EN": "Overload Warning"
         },
         "Desc": {
-            "CH": "辅助机械臂单元进入<color style='color:#f29e38;'>【过载时限】</color>状态，进入该状态后下次行动施放<color style='color:#f29e38;'>【控场起爆】</color>。",
+            "CH": "",
             "EN": "Auxiliary Robot Arm Unit enters <color style='color:#f29e38;'>Overload Countdown</color>, causing the next action to cast <color style='color:#f29e38;'>Controlled Blasting</color>."
         },
         "SP": 0,
@@ -3653,7 +3687,7 @@ var _monsterskill = {
             "EN": "Boost Deployment"
         },
         "Desc": {
-            "CH": "召唤<color style='color:#f29e38;'>【辅助机械臂单元】</color>。",
+            "CH": "",
             "EN": "Summons <color style='color:#f29e38;'>Auxiliary Robot Arm Unit</color>."
         },
         "SP": 0,
@@ -3668,7 +3702,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_待机。不显示。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -3680,7 +3714,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_当辅助机械臂单元存在于场上时，史瓦罗受到的伤害降低。不显示。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -3692,7 +3726,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_当被弱点击破时，自身速度降低，持续1回合。不显示。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -3704,7 +3738,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_不显示。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -3716,7 +3750,7 @@ var _monsterskill = {
             "EN": "Power Amplification"
         },
         "Desc": {
-            "CH": "使敌方全体造成的伤害提高<color style='color:#f29e38;'>15%</color>，可叠加。",
+            "CH": "",
             "EN": "Slightly increases the DMG dealt by all friendly units by <color style='color:#f29e38;'>15%</color>. This effect is stackable."
         },
         "SP": 0
@@ -3728,7 +3762,7 @@ var _monsterskill = {
             "EN": "Emergency Support"
         },
         "Desc": {
-            "CH": "随机召唤<color style='color:#f29e38;'>【自动机兵•甲虫】</color>和<color style='color:#f29e38;'>【自动机兵•战犬】</color>。",
+            "CH": "",
             "EN": "Summons <color style='color:#f29e38;'>Automaton Beetle</color> and <color style='color:#f29e38;'>Automaton Hound</color> at random."
         },
         "SP": 0,
@@ -3744,7 +3778,7 @@ var _monsterskill = {
             "EN": "Tactical Support"
         },
         "Desc": {
-            "CH": "召唤<color style='color:#f29e38;'>【自动机兵•齿狼】</color>。",
+            "CH": "",
             "EN": "Summons <color style='color:#f29e38;'>Automaton Direwolf</color>."
         },
         "SP": 0,
@@ -3759,7 +3793,7 @@ var _monsterskill = {
             "EN": "Banishing Punch"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 15.0,
@@ -3775,7 +3809,7 @@ var _monsterskill = {
             "EN": "Burning Beam"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害，并使受到攻击的我方目标行动延后<color style='color:#f29e38;'>50%</color>。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target and delays their action by <color style='color:#f29e38;'>50%</color>."
         },
         "SP": 15.0,
@@ -3791,7 +3825,7 @@ var _monsterskill = {
             "EN": "Oppressive Embrace"
         },
         "Desc": {
-            "CH": "使指定我方单体陷入<color style='color:#f29e38;'>【拘束】</color>状态，【拘束】状态下无法行动也无法被指定为目标，每回合开始时受到<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。当辅助机械臂单元被弱点击破时我方目标的【拘束】状态立即解除。",
+            "CH": "",
             "EN": "<color style='color:#f29e38;'>Imprisons</color> a single target, preventing them from taking action or being targeted. At the start of every turn, they take <color style='color:#f29e38;'>50% Max HP</color> Physical DMG. The Imprisonment is dispelled if the Auxiliary Robot Arm Unit suffers Weakness Break."
         },
         "SP": 10.0,
@@ -3807,11 +3841,12 @@ var _monsterskill = {
             "EN": "Oversaturated Bombardment"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>3</color>回合，可叠加。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to all targets, with a high chance to reduce their DEF by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>3</color> turns, stackable."
         },
         "SP": 2.0,
         "Elem": "Phys",
+        "Threat": true,
         "Status": [
             30010006
         ],
@@ -3826,7 +3861,7 @@ var _monsterskill = {
             "EN": "Controlled Blasting"
         },
         "Desc": {
-            "CH": "辅助机械臂单元发生爆炸，对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "The Auxiliary Robot Arm Unit explodes, dealing <1> Physical DMG to a single target."
         },
         "SP": 25.0,
@@ -3842,7 +3877,7 @@ var _monsterskill = {
             "EN": "Overload Warning"
         },
         "Desc": {
-            "CH": "辅助机械臂单元进入<color style='color:#f29e38;'>【过载时限】</color>状态，进入该状态后下次行动施放<color style='color:#f29e38;'>【控场起爆】</color>。",
+            "CH": "",
             "EN": "Auxiliary Robot Arm Unit enters <color style='color:#f29e38;'>Overload Countdown</color>, causing the next action to cast <color style='color:#f29e38;'>Controlled Blasting</color>."
         },
         "SP": 0,
@@ -3860,7 +3895,7 @@ var _monsterskill = {
             "EN": "Boost Deployment"
         },
         "Desc": {
-            "CH": "召唤<color style='color:#f29e38;'>【辅助机械臂单元】</color>。",
+            "CH": "",
             "EN": "Summons <color style='color:#f29e38;'>Auxiliary Robot Arm Unit</color>."
         },
         "SP": 0,
@@ -3875,7 +3910,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_待机。不显示。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -3887,7 +3922,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "第三阶段的生命值上限改为原本的<color style='color:#f29e38;'>1.6</color>倍。",
+            "CH": "",
             "EN": "Phase 3's Max HP changed to <color style='color:#f29e38;'>1.66</color> times the original."
         },
         "SP": 0
@@ -3899,7 +3934,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_当被弱点击破时，自身速度降低，持续1回合。不显示。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -3911,7 +3946,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_不显示。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -3923,7 +3958,7 @@ var _monsterskill = {
             "EN": "Power Amplification"
         },
         "Desc": {
-            "CH": "使敌方全体造成的伤害提高<color style='color:#f29e38;'>15%</color>，可叠加。<br>第三阶段的生命值上限改为原本的<color style='color:#f29e38;'>1.6</color>倍。",
+            "CH": "",
             "EN": "Slightly increases the DMG dealt by all friendly units by <color style='color:#f29e38;'>15%</color>. This effect is stackable.<br>Phase 3's Max HP changed to <color style='color:#f29e38;'>1.66</color> times the original."
         },
         "SP": 0
@@ -3935,7 +3970,7 @@ var _monsterskill = {
             "EN": "Emergency Support"
         },
         "Desc": {
-            "CH": "随机召唤<color style='color:#f29e38;'>【自动机兵•甲虫】</color>和<color style='color:#f29e38;'>【自动机兵•战犬】</color>。",
+            "CH": "",
             "EN": "Summons <color style='color:#f29e38;'>Automaton Beetle</color> and <color style='color:#f29e38;'>Automaton Hound</color> at random."
         },
         "SP": 0,
@@ -3951,7 +3986,7 @@ var _monsterskill = {
             "EN": "Tactical Support"
         },
         "Desc": {
-            "CH": "召唤<color style='color:#f29e38;'>【自动机兵•齿狼】</color>。",
+            "CH": "",
             "EN": "Summons <color style='color:#f29e38;'>Automaton Direwolf</color>."
         },
         "SP": 0,
@@ -3966,7 +4001,7 @@ var _monsterskill = {
             "EN": "Frost Crush"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害，并使受到攻击的我方目标行动延后<color style='color:#f29e38;'>50%</color>。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target and delays their action by <color style='color:#f29e38;'>50%</color>."
         },
         "SP": 15.0,
@@ -3982,7 +4017,7 @@ var _monsterskill = {
             "EN": "Scorching Crush"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>火属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>灼烧</b>状态。<br>灼烧持续伤害：<2>火属性伤害，持续<color style='color:#f29e38;'>3</color>回合。",
+            "CH": "",
             "EN": "Deals <1> Fire DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Burn</b> the target.<br>Burn DoT: <2> Fire DMG, lasts <color style='color:#f29e38;'>3</color> turns."
         },
         "SP": 15.0,
@@ -4002,7 +4037,7 @@ var _monsterskill = {
             "EN": "Crimson Blade"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>火属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>灼烧</b>状态。<br>灼烧持续伤害：<2>火属性伤害，持续<color style='color:#f29e38;'>3</color>回合。",
+            "CH": "",
             "EN": "Deals <1> Fire DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Burn</b> the target.<br>Burn DoT: <2> Fire DMG, lasts <color style='color:#f29e38;'>3</color> turns."
         },
         "SP": 10.0,
@@ -4022,7 +4057,7 @@ var _monsterskill = {
             "EN": "Combustion Slash"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>火属性伤害，对其相邻目标造成<2>火属性伤害，本技能优先攻击陷入灼烧状态的我方目标。",
+            "CH": "",
             "EN": "Deals <1> Fire DMG to a single target and <2> Fire DMG to adjacent units. This attack prioritizes targets afflicted with Burn."
         },
         "SP": 15.0,
@@ -4039,7 +4074,7 @@ var _monsterskill = {
             "EN": "Melt"
         },
         "Desc": {
-            "CH": "对陷入灼烧状态的我方单体施放攻击后，自身造成的伤害提高<color style='color:#f29e38;'>6%</color>，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+            "CH": "",
             "EN": "After attacking a Burned target, receives <color style='color:#f29e38;'>6%</color> DMG increase for <color style='color:#f29e38;'>3</color> turns. Max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 0,
@@ -4054,7 +4089,7 @@ var _monsterskill = {
             "EN": "High-Temperature Operation"
         },
         "Desc": {
-            "CH": "使自身攻击力提升<color style='color:#f29e38;'>20%</color>，速度提高<color style='color:#f29e38;'>100</color>点。弱点被击破后以上增益效果解除。",
+            "CH": "",
             "EN": "Increases ATK by <color style='color:#f29e38;'>20%</color> and increases SPD by <color style='color:#f29e38;'>100</color>. This buff is dispelled upon Weakness Break."
         },
         "SP": 0,
@@ -4069,11 +4104,12 @@ var _monsterskill = {
             "EN": "Dancing Cinders"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>火属性伤害。使陷入灼烧状态的我方目标受到额外<2>火属性伤害的同时解除该目标的灼烧状态。",
+            "CH": "",
             "EN": "Deals <1> Fire DMG to all targets. Targets suffering from Burn are dealt an extra <2> Fire DMG and have Burn removed."
         },
         "SP": 10.0,
         "Elem": "Fire",
+        "Threat": true,
         "DMG": [
             3.0,
             2.0
@@ -4086,7 +4122,7 @@ var _monsterskill = {
             "EN": "Crimson Blade"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>火属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>灼烧</b>状态。<br>灼烧持续伤害：<2>火属性伤害，持续<color style='color:#f29e38;'>3</color>回合。",
+            "CH": "",
             "EN": "Deals <1> Fire DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Burn</b> the target.<br>Burn DoT: <2> Fire DMG, lasts <color style='color:#f29e38;'>3</color> turns."
         },
         "SP": 10.0,
@@ -4106,7 +4142,7 @@ var _monsterskill = {
             "EN": "Combustion Slash"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>火属性伤害，对其相邻目标造成<2>火属性伤害，本技能优先攻击陷入灼烧状态的我方目标。",
+            "CH": "",
             "EN": "Deals <1> Fire DMG to a single target and <2> Fire DMG to adjacent units. This attack prioritizes targets afflicted with Burn."
         },
         "SP": 15.0,
@@ -4123,7 +4159,7 @@ var _monsterskill = {
             "EN": "Melt"
         },
         "Desc": {
-            "CH": "对陷入灼烧状态的我方单体施放攻击后，自身造成的伤害提高<color style='color:#f29e38;'>6%</color>，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+            "CH": "",
             "EN": "After attacking a Burned target, receives <color style='color:#f29e38;'>6%</color> DMG increase for <color style='color:#f29e38;'>3</color> turns. Max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 0,
@@ -4138,7 +4174,7 @@ var _monsterskill = {
             "EN": "High-Temperature Operation"
         },
         "Desc": {
-            "CH": "使自身攻击力提升<color style='color:#f29e38;'>20%</color>，速度提高<color style='color:#f29e38;'>100</color>点。弱点被击破后以上增益效果解除。",
+            "CH": "",
             "EN": "Increases ATK by <color style='color:#f29e38;'>20%</color> and increases SPD by <color style='color:#f29e38;'>100</color>. This buff is dispelled upon Weakness Break."
         },
         "SP": 0,
@@ -4153,11 +4189,12 @@ var _monsterskill = {
             "EN": "Dancing Cinders"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>火属性伤害。使陷入灼烧状态的我方目标受到额外<2>火属性伤害的同时解除该目标的灼烧状态。",
+            "CH": "",
             "EN": "Deals <1> Fire DMG to all targets. Targets suffering from Burn are dealt an extra <2> Fire DMG and have Burn removed."
         },
         "SP": 10.0,
         "Elem": "Fire",
+        "Threat": true,
         "DMG": [
             3.0,
             2.0
@@ -4170,11 +4207,12 @@ var _monsterskill = {
             "EN": "Scorching Burst"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>火属性伤害，使陷入灼烧状态的我方目标发生爆炸：自身受到<2>火属性伤害，相邻单位受到<3>火属性伤害，并解除中心目标的灼烧状态。",
+            "CH": "",
             "EN": "Deals <1> Fire DMG to all targets. Burned target will explode, subsequently dealing <2> Fire DMG to the Burned target and <3> Fire DMG to adjacent units. The central unit's Burn status will be removed."
         },
         "SP": 10.0,
         "Elem": "Fire",
+        "Threat": true,
         "DMG": [
             1.0,
             2.0,
@@ -4188,7 +4226,7 @@ var _monsterskill = {
             "EN": "Augury of Fireburst"
         },
         "Desc": {
-            "CH": "下次行动施放<color style='color:#f29e38;'>【爆裂缭灼】</color>。",
+            "CH": "",
             "EN": "The next action uses <color style='color:#f29e38;'>Scorching Burst</color>."
         },
         "SP": 0,
@@ -4203,7 +4241,7 @@ var _monsterskill = {
             "EN": "Ice Wheel Fist"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 10.0,
@@ -4219,7 +4257,7 @@ var _monsterskill = {
             "EN": "Summon Otherling"
         },
         "Desc": {
-            "CH": "召唤<color style='color:#f29e38;'>2</color>个<color style='color:#f29e38;'>【永冬灾影】</color>。",
+            "CH": "",
             "EN": "Summons <color style='color:#f29e38;'>2</color> <color style='color:#f29e38;'>Everwinter Shadewalkers</color>."
         },
         "SP": 0,
@@ -4234,7 +4272,7 @@ var _monsterskill = {
             "EN": "Frozen Storm"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>冰属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【深寒】</color>状态。<br>深寒：速度降低<color style='color:#f29e38;'>12%</color>，冰伤害抗性降低<color style='color:#f29e38;'>20%</color>，最多叠加<color style='color:#f29e38;'>3</color>层，永久持续。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to all targets, with a <color style='color:#f29e38;'>100%</color> Base Chance to <color style='color:#f29e38;'>Deep Freeze</color> the targets.<br>Deep Freeze: SPD <color style='color:#f29e38;'>-12%</color>, Ice DMG RES <color style='color:#f29e38;'>-20%</color>, max <color style='color:#f29e38;'>3</color> stacks, lasts forever."
         },
         "SP": 5.0,
@@ -4253,7 +4291,7 @@ var _monsterskill = {
             "EN": "Devour Otherling"
         },
         "Desc": {
-            "CH": "吞噬1个永冬灾影使自身攻击力提高<color style='color:#f29e38;'>50%</color>，同时<b>锁定</b>指定我方单体。<br>若场上没有永冬灾影，则自身防御力降低<color style='color:#f29e38;'>50%</color>。",
+            "CH": "",
             "EN": "Devours 1 Everwinter Shadewalker to increase ATK by <color style='color:#f29e38;'>50%</color> and <b>Locks Onto</b> a single target. <br>If there are no Everwinter Shadewalkers on the field, DEF is decreased by <color style='color:#f29e38;'>50%</color>."
         },
         "SP": 0,
@@ -4268,7 +4306,7 @@ var _monsterskill = {
             "EN": "Devour Otherling"
         },
         "Desc": {
-            "CH": "吞噬1个永冬灾影使自身攻击力提高<color style='color:#f29e38;'>50%</color>，同时<b>锁定</b>指定我方单体。<br>若场上没有永冬灾影，则自身防御力降低<color style='color:#f29e38;'>50%</color>。",
+            "CH": "",
             "EN": "Devours 1 Everwinter Shadewalker to increase ATK by <color style='color:#f29e38;'>50%</color> and <b>Locks Onto</b> a single target. <br>If there are no Everwinter Shadewalkers on the field, DEF is decreased by <color style='color:#f29e38;'>50%</color>."
         },
         "SP": 0,
@@ -4285,11 +4323,12 @@ var _monsterskill = {
             "EN": "Ice Wheel Crusher"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【深寒】</color>状态。<br>深寒：速度降低<color style='color:#f29e38;'>12%</color>，冰伤害抗性降低<color style='color:#f29e38;'>20%</color>，最多叠加<color style='color:#f29e38;'>3</color>层，永久持续。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>500%</color> Base Chance to <color style='color:#f29e38;'>Deep Freeze</color> the target.<br>Deep Freeze: SPD <color style='color:#f29e38;'>-12%</color>, Ice DMG RES <color style='color:#f29e38;'>-20%</color>, max <color style='color:#f29e38;'>3</color> stacks, lasts forever."
         },
         "SP": 20.0,
         "Elem": "Ice",
+        "Threat": true,
         "Status": [
             210230202
         ],
@@ -4304,7 +4343,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_不显示。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -4316,7 +4355,7 @@ var _monsterskill = {
             "EN": "Ice Wheel Fist"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 10.0,
@@ -4332,7 +4371,7 @@ var _monsterskill = {
             "EN": "Summon Otherling"
         },
         "Desc": {
-            "CH": "召唤<color style='color:#f29e38;'>4</color>个<color style='color:#f29e38;'>【永冬灾影】</color>。",
+            "CH": "",
             "EN": "Summons <color style='color:#f29e38;'>4</color> Everwinter Shadewalkers."
         },
         "SP": 0,
@@ -4347,7 +4386,7 @@ var _monsterskill = {
             "EN": "Frozen Storm"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>冰属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【深寒】</color>状态。<br>深寒：速度降低<color style='color:#f29e38;'>12%</color>，冰伤害抗性降低<color style='color:#f29e38;'>20%</color>，最多叠加<color style='color:#f29e38;'>3</color>层，永久持续。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to all targets, with a <color style='color:#f29e38;'>100%</color> Base Chance to <color style='color:#f29e38;'>Deep Freeze</color> the targets.<br>Deep Freeze: SPD <color style='color:#f29e38;'>-12%</color>, Ice DMG RES <color style='color:#f29e38;'>-20%</color>, max <color style='color:#f29e38;'>3</color> stacks, lasts forever."
         },
         "SP": 5.0,
@@ -4366,7 +4405,7 @@ var _monsterskill = {
             "EN": "Devour Otherling"
         },
         "Desc": {
-            "CH": "对指定我方单体造成冰属性伤害，并有大概率使受到攻击的我方目标陷入【深寒】状态。",
+            "CH": "",
             "EN": "Deals Ice DMG to a single target, with a high chance to Deep Freeze the target."
         },
         "SP": 0
@@ -4378,7 +4417,7 @@ var _monsterskill = {
             "EN": "Devour Otherling"
         },
         "Desc": {
-            "CH": "dev_吞噬永冬灾影使自身攻击力提高，下回合释放强力AOE。若场上没有永冬灾影，则自身防御力降低。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -4390,7 +4429,7 @@ var _monsterskill = {
             "EN": "Ice Wheel Crusher"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【深寒】</color>状态。<br>深寒：速度降低<color style='color:#f29e38;'>12%</color>，冰伤害抗性降低<color style='color:#f29e38;'>20%</color>，最多叠加<color style='color:#f29e38;'>3</color>层，永久持续。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>500%</color> Base Chance to <color style='color:#f29e38;'>Deep Freeze</color> the target.<br>Deep Freeze: SPD <color style='color:#f29e38;'>-12%</color>, Ice DMG RES <color style='color:#f29e38;'>-20%</color>, max <color style='color:#f29e38;'>3</color> stacks, lasts forever."
         },
         "SP": 20.0,
@@ -4409,7 +4448,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_不显示。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -4421,7 +4460,7 @@ var _monsterskill = {
             "EN": "Devour Otherling"
         },
         "Desc": {
-            "CH": "吞噬所有永冬灾影，并使自身攻击力提高<color style='color:#f29e38;'>50%</color>，下次行动施放<color style='color:#f29e38;'>【苦寒过境】</color>。<br>若场上没有永冬灾影，则自身防御力降低<color style='color:#f29e38;'>50%</color>。",
+            "CH": "",
             "EN": "Devouring Everwinter Shadewalkers increases ATK and unleashes Blazing Freeze in the next action. The more Everwinter Shadewalkers devoured, the more times Blazing Freeze will be used in the next action. If there are no Everwinter Shadewalkers on the field, DEF is decreased."
         },
         "SP": 0,
@@ -4440,11 +4479,12 @@ var _monsterskill = {
             "EN": "Blazing Freeze"
         },
         "Desc": {
-            "CH": "基于吞噬的永冬灾影的个数，对我方全体分别造成<color style='color:#f29e38;'>100%</color></color><color style='color:#f29e38;'>300%</color></color><color style='color:#f29e38;'>400%</color></color><1>冰属性伤害。<br>有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【深寒】</color>状态。<br>深寒：速度降低<color style='color:#f29e38;'>12%</color>，冰伤害抗性降低<color style='color:#f29e38;'>20%</color>，最多叠加<color style='color:#f29e38;'>3</color>层，永久持续。",
+            "CH": "",
             "EN": "According to the number of Everwinter Shadewalkers devoured, deal <color style='color:#f29e38;'>100%</color></color><color style='color:#f29e38;'>300%</color></color><color style='color:#f29e38;'>400%</color></color><1> Ice DMG to all targets.<br>Has a <color style='color:#f29e38;'>100%</color> Base Chance to <color style='color:#f29e38;'>Deep Freeze</color> the targets.<br>Deep Freeze: SPD <color style='color:#f29e38;'>-12%</color>, Ice DMG RES <color style='color:#f29e38;'>-20%</color>, max <color style='color:#f29e38;'>3</color> stacks, lasts forever."
         },
         "SP": 5.0,
         "Elem": "Ice",
+        "Threat": true,
         "Status": [
             210230202
         ],
@@ -4459,7 +4499,7 @@ var _monsterskill = {
             "EN": "Cloud Edge"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使目标受到的伤害提高<color style='color:#f29e38;'>25%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to increase the target's DMG taken by <color style='color:#f29e38;'>25%</color> for <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 15.0,
@@ -4478,7 +4518,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "test_使敌方全体获得列阵增益效果，防御力提高，保护弱点",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -4490,7 +4530,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_不显示。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -4502,7 +4542,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "test_对指定我方单体造成物理伤害。",
+            "CH": "",
             "EN": ""
         },
         "SP": 15.0,
@@ -4515,7 +4555,7 @@ var _monsterskill = {
             "EN": "Sawing Evil"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>35%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【震荡】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>【震荡】状态下的目标受到攻击后，陷入<color style='color:#f29e38;'>【强烈震荡】</color>状态，然后解除【震荡】状态。<br>【强烈震荡】状态下的目标无法行动，且行动延后<color style='color:#f29e38;'>70%</color>，持续<color style='color:#f29e38;'>1</color>回合。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target and has a <color style='color:#f29e38;'>35%</color> Base Chance to inflict <color style='color:#f29e38;'>Reverberation</color>, lasting <color style='color:#f29e38;'>2</color> turns. <br>After targets afflicted with Reverberation receive an attack, enters <color style='color:#f29e38;'>Strong Reverberation</color>, then dispel Reverberation. <br>Strong Reverberation delays action by <color style='color:#f29e38;'>70%</color>, and renders the character unable to act, lasting <color style='color:#f29e38;'>1</color> turn."
         },
         "SP": 15.0,
@@ -4535,7 +4575,7 @@ var _monsterskill = {
             "EN": "Thunderflash"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>雷属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>触电</b>状态。<br>触电持续伤害：<2>雷属性伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>1</color>层。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Shock</b> the target.<br>Shock DoT: <2> Lightning DMG, lasts <color style='color:#f29e38;'>2</color> turns, max <color style='color:#f29e38;'>1</color> stack."
         },
         "SP": 10.0,
@@ -4555,7 +4595,7 @@ var _monsterskill = {
             "EN": "Windpath"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>风化</b>状态。<br>风化持续伤害：<2>风属性伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Lightning DMG, lasts <color style='color:#f29e38;'>2</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 10.0,
@@ -4575,7 +4615,7 @@ var _monsterskill = {
             "EN": "Callous Tailwind"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>2</color>层<b>风化</b>状态。<br>风化持续伤害：<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>2</color> stacks of <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 15.0,
@@ -4595,7 +4635,7 @@ var _monsterskill = {
             "EN": "Rejuvenate"
         },
         "Desc": {
-            "CH": "受到致命攻击时回复<color style='color:#f29e38;'>50%生命值上限</color>，且速度提高<color style='color:#f29e38;'>50%</color>。单次战斗至多触发一次。",
+            "CH": "",
             "EN": "Upon receiving a killing blow, restores <color style='color:#f29e38;'>50% Max HP</color> and recieve <color style='color:#f29e38;'>50%</color> SPD increase. This effect can only trigger 1 time per battle."
         },
         "SP": 0,
@@ -4611,7 +4651,7 @@ var _monsterskill = {
             "EN": "Callous Tailwind"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>2</color>层<b>风化</b>状态。<br>风化持续伤害：<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>2</color> stacks of <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 15.0,
@@ -4631,7 +4671,7 @@ var _monsterskill = {
             "EN": "Seeding Core"
         },
         "Desc": {
-            "CH": "使指定我方单体陷入<color style='color:#f29e38;'>【引动雷劫】</color>状态。",
+            "CH": "",
             "EN": "Inflicts a single target with <color style='color:#f29e38;'>Spur of Thunderwoe</color>."
         },
         "SP": 0,
@@ -4646,7 +4686,7 @@ var _monsterskill = {
             "EN": "Thundering Reign"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>雷属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to a single target."
         },
         "SP": 10.0,
@@ -4662,7 +4702,7 @@ var _monsterskill = {
             "EN": "Core Rupture"
         },
         "Desc": {
-            "CH": "受到致命攻击时，对所有陷入被自身添加的【引动雷劫】状态的我方目标造成<1>雷属性伤害，并解除这些【引动雷劫】状态。",
+            "CH": "",
             "EN": "Upon receiving a killing blow, deals <1> Lightning DMG to any targets that were inflicted with Spur of Thunderwoe by them. Afterward, Spur of Thunderwoe on these targets will be removed."
         },
         "SP": 15.0,
@@ -4681,7 +4721,7 @@ var _monsterskill = {
             "EN": "Sawing Evil: Chop"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>风属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to a single target."
         },
         "SP": 10.0,
@@ -4697,7 +4737,7 @@ var _monsterskill = {
             "EN": "Sawing Evil: Sever"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>风属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to a single target."
         },
         "SP": 20.0,
@@ -4713,7 +4753,7 @@ var _monsterskill = {
             "EN": "Maddened"
         },
         "Desc": {
-            "CH": "战斗开始时处于<color style='color:#f29e38;'>【嗔恚】</color>状态。处于【嗔恚】状态时，改为施放【锯恶•斩】。",
+            "CH": "",
             "EN": "Enters the <color style='color:#f29e38;'>Maddening</color> state at the start of battle. While in the Maddening state, uses Sawing Evil: Sever."
         },
         "SP": 0,
@@ -4728,7 +4768,7 @@ var _monsterskill = {
             "EN": "Thunder-Shock"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>雷属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to a single target."
         },
         "SP": 15.0,
@@ -4744,7 +4784,7 @@ var _monsterskill = {
             "EN": "Punishing Bolts"
         },
         "Desc": {
-            "CH": "对指定我方单体及其相邻目标造成<1>雷属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to a single target and units adjacent to the target."
         },
         "SP": 10.0,
@@ -4760,11 +4800,12 @@ var _monsterskill = {
             "EN": "Thudding Calamity"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>雷属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to a single target."
         },
         "SP": 20.0,
         "Elem": "Elec",
+        "Threat": true,
         "DMG": [
             5.0
         ]
@@ -4776,7 +4817,7 @@ var _monsterskill = {
             "EN": "Mara-Summon"
         },
         "Desc": {
-            "CH": "消耗<color style='color:#f29e38;'>10%生命值上限</color>，召唤2个<color style='color:#f29e38;'>【魔阴身士卒】</color>。",
+            "CH": "",
             "EN": "Consumes <color style='color:#f29e38;'>10% Max HP</color> to summon 2 <color style='color:#f29e38;'>Mara-Struck Soldiers</color>"
         },
         "SP": 0,
@@ -4791,7 +4832,7 @@ var _monsterskill = {
             "EN": "Vigor Draining"
         },
         "Desc": {
-            "CH": "当场上其它敌方目标带有<color style='color:#f29e38;'>【重生】</color>时，其自身具有<color style='color:#f29e38;'>【击中回复】</color>。<br><br>击中回复：<br>【震击】回复<color style='color:#f29e38;'>2.5%生命值上限</color><br>【霆罚】回复<color style='color:#f29e38;'>7.5%生命值上限</color><br>【劫雷】回复<color style='color:#f29e38;'>20%生命值上限</color>",
+            "CH": "",
             "EN": "When there are other friendly units with <color style='color:#f29e38;'>Rebirth</color> on the field, they have <color style='color:#f29e38;'>Draining Hit</color>.<br><br>Draining Hit:<br>Thunder-Shock restores <color style='color:#f29e38;'>2.5% Max HP</color><br>Punishing Bolts restores <color style='color:#f29e38;'>7.5% Max HP</color><br>Thudding Calamity restores <color style='color:#f29e38;'>20% Max HP</color>"
         },
         "SP": 0,
@@ -4807,7 +4848,7 @@ var _monsterskill = {
             "EN": "Lion's Roar"
         },
         "Desc": {
-            "CH": "对指定我方单体造成少<1>火属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>虚弱</b>状态。<br>虚弱：造成的伤害降低<color style='color:#f29e38;'>30%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+            "CH": "",
             "EN": "Deals <1> Fire DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Weaken</b> them.<br>Weaken: DMG dealt decreases by <color style='color:#f29e38;'>30%</color>, lasts <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 10.0,
@@ -4826,7 +4867,7 @@ var _monsterskill = {
             "EN": "Dense Fog"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>虚数属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标速度降低<color style='color:#f29e38;'>25%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to reduce the target's SPD by <color style='color:#f29e38;'>25%</color>, lasting <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 10.0,
@@ -4845,7 +4886,7 @@ var _monsterskill = {
             "EN": "Nightly Luminosity"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>火属性伤害。<br>如果场上有3~4个存活角色，则随机挑选至多2个未被自身减防的角色，以<color style='color:#f29e38;'>80%</color>基础概率使其防御力降低<color style='color:#f29e38;'>30%</color>，持续<color style='color:#f29e38;'>2</color>回合。<br>如果场上有1~2个存活角色，则随机挑选1个角色，以<color style='color:#f29e38;'>80%</color>基础概率使其防御力降低<color style='color:#f29e38;'>30%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+            "CH": "",
             "EN": "Deals <1> Fire DMG to all targets.<br>If there are 3~4 alive characters, randomly choose a maximum of 2 characters whose DEF is not reduced by itself, and tries with a <color style='color:#f29e38;'>80%</color> Base Chance to reduce their DEF by <color style='color:#f29e38;'>30%</color>, lasting <color style='color:#f29e38;'>2</color> turns.<br>If there are 1~2 alive characters, randomly choose 1 character, and tries with a <color style='color:#f29e38;'>80%</color> Base Chance to reduce their DEF by <color style='color:#f29e38;'>30%</color>, lasting <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 5.0,
@@ -4864,7 +4905,7 @@ var _monsterskill = {
             "EN": "Candle Flame"
         },
         "Desc": {
-            "CH": "受到致命攻击时：对敌方全体造成<color style='color:#f29e38;'>40%自身生命值上限</color>火属性伤害和<color style='color:#f29e38;'>1.0</color>火属性削韧，并有<color style='color:#f29e38;'>100%</color>基础概率使其防御力降低<color style='color:#f29e38;'>30%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+            "CH": "",
             "EN": "When receiving a killing blow: Deal <color style='color:#f29e38;'>40% Self Max HP</color> Fire DMG and <color style='color:#f29e38;'>1.0</color> Fire Toughness DMG to all friendly units, with a <color style='color:#f29e38;'>100%</color> Base Chance to reduce their DEF by <color style='color:#f29e38;'>30%</color> for <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 5.0,
@@ -4880,7 +4921,7 @@ var _monsterskill = {
             "EN": "Dread"
         },
         "Desc": {
-            "CH": "提高<color style='color:#f29e38;'>33%</color>【惩戒度】等级，并对我方全体造成<1>虚数属性伤害。<br>有<color style='color:#f29e38;'>60%</color>基础概率使我方目标陷入<b>虚弱</b>状态。<br>虚弱：造成的伤害降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+            "CH": "",
             "EN": "Increases Sanction Rate level by <color style='color:#f29e38;'>33%</color> and deals <1> Imaginary DMG to all targets.<br>Has a <color style='color:#f29e38;'>60%</color> Base Chance to <b>Weaken</b> them.<br>Weaken: DMG dealt decreases by <color style='color:#f29e38;'>20%</color>, lasts <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 5.0,
@@ -4899,7 +4940,7 @@ var _monsterskill = {
             "EN": "Restraint"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>虚数属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to a single target."
         },
         "SP": 10.0,
@@ -4915,11 +4956,12 @@ var _monsterskill = {
             "EN": "Enchainment"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>虚数属性伤害，同时有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>禁锢</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>禁锢：无法行动，行动延后<color style='color:#f29e38;'>50%</color>。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance of inflicting <b>Imprisonment</b> for <color style='color:#f29e38;'>1</color> turn.<br>Imprisonment: Cannot take action, action delayed by <color style='color:#f29e38;'>50%</color>."
         },
         "SP": 15.0,
         "Elem": "Imaginary",
+        "Threat": true,
         "DMG": [
             5.0
         ]
@@ -4931,7 +4973,7 @@ var _monsterskill = {
             "EN": "Farewell Etiquette"
         },
         "Desc": {
-            "CH": "当我方目标施放战技或终结技进行攻击时会积累<color style='color:#f29e38;'>33%</color>【惩戒度】等级。<br>当【惩戒度】等级满级时，立即进入【罚恶模式】：速度提升<color style='color:#f29e38;'>30</color>点，可以使用<color style='color:#f29e38;'>【戒退】</color>和<color style='color:#f29e38;'>【缚束】</color>，同时召唤<color style='color:#f29e38;'>2</color>个【入魔机巧 • 灯昼龙鱼】。",
+            "CH": "",
             "EN": "The Sanction Rate level increases by <color style='color:#f29e38;'>33%</color> when your team uses Skills or Ultimates. <br>When the Sanction Rate is full, enters Sanction mode, SPD increased by <color style='color:#f29e38;'>30</color>, starts using <color style='color:#f29e38;'>Restraint</color> and <color style='color:#f29e38;'>Enchainment</color>, and summons <color style='color:#f29e38;'>2</color> Entranced Ingenium: Illumination Dragonfish."
         },
         "SP": 0,
@@ -4953,7 +4995,7 @@ var _monsterskill = {
             "EN": "Adjudicate"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 10.0,
@@ -4969,7 +5011,7 @@ var _monsterskill = {
             "EN": "Subdue"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>70%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【震荡】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>【震荡】状态下的目标受到攻击后，陷入<color style='color:#f29e38;'>【强烈震荡】</color>状态，然后解除【震荡】状态。<br>【强烈震荡】状态下的目标无法行动，且行动延后<color style='color:#f29e38;'>70%</color>，持续<color style='color:#f29e38;'>1</color>回合。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target and has a <color style='color:#f29e38;'>70%</color> Base Chance to inflict <color style='color:#f29e38;'>Reverberation</color>, lasting <color style='color:#f29e38;'>2</color> turns. <br>After targets afflicted with Reverberation receive an attack, enters <color style='color:#f29e38;'>Strong Reverberation</color>, then dispel Reverberation. <br>Strong Reverberation delays action by <color style='color:#f29e38;'>70%</color>, and renders the character unable to act, lasting <color style='color:#f29e38;'>1</color> turn."
         },
         "SP": 10.0,
@@ -4989,7 +5031,7 @@ var _monsterskill = {
             "EN": "Revert Yin and Yang"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>物理伤害。<br>若我方有至少3名角色未处于【震荡】与【强烈震荡】状态，则从这些角色中选择2名，有<color style='color:#f29e38;'>35%</color>基础概率使其陷入<color style='color:#f29e38;'>【震荡】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>若我方有至多2名角色未处于【震荡】与【强烈震荡】状态，则从这些角色中选择1名，有<color style='color:#f29e38;'>35%</color>基础概率使其陷入<color style='color:#f29e38;'>【震荡】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to all targets.<br>If there are at least 3 characters not Reverberated, then pick 2 such characters and inflict <color style='color:#f29e38;'>Reverberation</color> with a <color style='color:#f29e38;'>35%</color> Base Chance, lasting <color style='color:#f29e38;'>2</color> turns.<br>If there are at most 2 characters not Reverberated, then pick 1 such character and inflict <color style='color:#f29e38;'>Reverberation</color> with a <color style='color:#f29e38;'>35%</color> Base Chance, lasting <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 10.0,
@@ -5009,7 +5051,7 @@ var _monsterskill = {
             "EN": "Soul Warrant"
         },
         "Desc": {
-            "CH": "场上有我方目标陷入<color style='color:#f29e38;'>【强烈震荡】</color>状态时，锁定该目标，下次行动对其施放<color style='color:#f29e38;'>【天坠】</color>。",
+            "CH": "",
             "EN": "When there are targets afflicted with <color style='color:#f29e38;'>Strong Reverberation</color> on the field, lock on to those targets and during the next action, use <color style='color:#f29e38;'>Heaven's Fall on them</color>"
         },
         "SP": 0,
@@ -5028,7 +5070,7 @@ var _monsterskill = {
             "EN": "Midnight Tumult"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>雷属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>触电</b>状态。<br>触电持续伤害：<2>雷属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>1</color>层。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Shock</b> the target.<br>Shock DoT: <2> Lightning DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>1</color> stack."
         },
         "SP": 10.0,
@@ -5048,7 +5090,7 @@ var _monsterskill = {
             "EN": "Caressing Moonlight"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>雷属性伤害，对相邻目标造成<2>雷属性伤害。<br>如主目标处于触电状态，则会使副目标也陷入<b>触电</b>状态。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to a single target and <2> Lightning DMG to adjacent units. <br>If the target is Shocked, inflicts <b>Shock</b> on the adjacent units."
         },
         "SP": 10.0,
@@ -5068,7 +5110,7 @@ var _monsterskill = {
             "EN": "Silent and Sharp Mockery"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>雷属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to all targets."
         },
         "SP": 15.0,
@@ -5084,10 +5126,11 @@ var _monsterskill = {
             "EN": "Spirit Whisper"
         },
         "Desc": {
-            "CH": "使指定我方单体<color style='color:#f29e38;'>120%</color>基础概率陷入<color style='color:#f29e38;'>【支配】</color>状态，持续<color style='color:#f29e38;'>3</color>回合，使其随机攻击1名我方其他目标。",
+            "CH": "",
             "EN": "Has a <color style='color:#f29e38;'>120%</color> Base Chance of <color style='color:#f29e38;'>Dominating</color> a single target for <color style='color:#f29e38;'>3</color> turns, making them attack a random ally of theirs."
         },
         "SP": 15.0,
+        "Threat": true,
         "Status": [
             30020028
         ]
@@ -5099,7 +5142,7 @@ var _monsterskill = {
             "EN": "Tremble"
         },
         "Desc": {
-            "CH": "如受到攻击的目标正处于触电状态，则直接造成1次触电伤害。",
+            "CH": "",
             "EN": "If the target is currently Shocked, directly causes Shock DMG 1 time."
         },
         "SP": 0,
@@ -5114,7 +5157,7 @@ var _monsterskill = {
             "EN": "Cruelty"
         },
         "Desc": {
-            "CH": "当敌方除卡芙卡外的目标或我方陷入【支配】状态的目标对我方陷入触电状态的目标造成伤害时，追加一次<1>雷属性伤害。该效果每回合只触发1次。",
+            "CH": "",
             "EN": "When friendly units (apart from Kafka) or Dominated targets deal DMG to Shocked targets, deal an extra <1> Lightning DMG. This can only be triggered 1 time per turn."
         },
         "SP": 10.0,
@@ -5130,7 +5173,7 @@ var _monsterskill = {
             "EN": "Midnight Tumult"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>雷属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>触电</b>状态。<br>触电持续伤害：<2>雷属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>1</color>层。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Shock</b> the target.<br>Shock DoT: <2> Lightning DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>1</color> stack."
         },
         "SP": 10.0,
@@ -5150,7 +5193,7 @@ var _monsterskill = {
             "EN": "Caressing Moonlight"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>雷属性伤害，对相邻目标造成<2>雷属性伤害。<br>如主目标处于触电状态，则会使副目标也陷入<b>触电</b>状态。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to a single target and <2> Lightning DMG to adjacent units. <br>If the target is Shocked, inflicts <b>Shock</b> on the adjacent units."
         },
         "SP": 10.0,
@@ -5170,7 +5213,7 @@ var _monsterskill = {
             "EN": "Silent and Sharp Mockery"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>雷属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to all targets."
         },
         "SP": 15.0,
@@ -5186,10 +5229,11 @@ var _monsterskill = {
             "EN": "Spirit Whisper"
         },
         "Desc": {
-            "CH": "使指定我方单体<color style='color:#f29e38;'>120%</color>基础概率陷入<color style='color:#f29e38;'>【支配】</color>状态，持续<color style='color:#f29e38;'>3</color>回合，使其随机攻击1名我方其他目标。",
+            "CH": "",
             "EN": "Has a <color style='color:#f29e38;'>120%</color> Base Chance of <color style='color:#f29e38;'>Dominating</color> a single target for <color style='color:#f29e38;'>3</color> turns, making them attack a random ally of theirs."
         },
         "SP": 15.0,
+        "Threat": true,
         "Status": [
             30020028
         ]
@@ -5201,7 +5245,7 @@ var _monsterskill = {
             "EN": "Seething Whisper of the Fallen"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>雷属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>触电</b>状态。同时对所有处于触电状态的我方目标造成<2>雷属性伤害。<br>触电持续伤害：<3>雷属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>1</color>层。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Shock</b> the target. At the same time, deals <2> Lightning DMG to all other Shocked targets.<br>Shock DoT: <3> Lightning DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>1</color> stack."
         },
         "SP": 10.0,
@@ -5222,10 +5266,11 @@ var _monsterskill = {
             "EN": "Psychological Suggestion"
         },
         "Desc": {
-            "CH": "有<color style='color:#f29e38;'>120%</color>基础概率使我方多名目标进入【心理暗示】状态，持续<color style='color:#f29e38;'>3</color>回合。<br>在行动条上添加<color style='color:#f29e38;'>【揭晓】</color>，下次【揭晓】行动时陷入【心理暗示】的角色陷入<color style='color:#f29e38;'>【支配】</color>状态。",
+            "CH": "",
             "EN": "Has a <color style='color:#f29e38;'>120%</color> Base Chance to apply <color style='color:#f29e38;'>Psychological Suggestion</color> to multiple targets, lasting <color style='color:#f29e38;'>3</color> turns. <br>Adds <color style='color:#f29e38;'>Revelation</color> onto the action bar. The next time Revelation takes action, any targets with <color style='color:#f29e38;'>Psychological Suggestion</color> will become Dominated."
         },
         "SP": 0,
+        "Threat": true,
         "Status": [
             220040112,
             30020028
@@ -5238,7 +5283,7 @@ var _monsterskill = {
             "EN": "Tremble"
         },
         "Desc": {
-            "CH": "如受到攻击的目标正处于触电状态，则直接造成1次触电伤害。",
+            "CH": "",
             "EN": "If the target is currently Shocked, directly cause Shock DMG 1 time."
         },
         "SP": 0,
@@ -5253,7 +5298,7 @@ var _monsterskill = {
             "EN": "Cruelty"
         },
         "Desc": {
-            "CH": "当敌方除卡芙卡外的目标或我方陷入【支配】状态的目标对我方陷入触电状态的目标造成伤害时，追加一次<1>雷属性伤害。该效果每回合只触发1次。",
+            "CH": "",
             "EN": "When friendly units (apart from Kafka) or Dominated targets deal DMG to Shocked targets, deal an extra <1> Lightning DMG. This can only be triggered 1 time per turn."
         },
         "SP": 10.0,
@@ -5269,7 +5314,7 @@ var _monsterskill = {
             "EN": "Griever"
         },
         "Desc": {
-            "CH": "每当我方目标触发自身触电对自己的伤害时，卡芙卡自身造成的伤害提高<color style='color:#f29e38;'>2%</color>，可叠加。",
+            "CH": "",
             "EN": "Every time a target triggers their own Shock state's self DoT, DMG dealt by Kafka increases by <color style='color:#f29e38;'>2%</color>, stackable."
         },
         "SP": 0,
@@ -5284,7 +5329,7 @@ var _monsterskill = {
             "EN": "Midnight Tumult"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>雷属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>触电</b>状态。<br>触电持续伤害：<2>雷属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>1</color>层。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Shock</b> the target.<br>Shock DoT: <2> Lightning DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>1</color> stack."
         },
         "SP": 10.0,
@@ -5304,7 +5349,7 @@ var _monsterskill = {
             "EN": "Caressing Moonlight"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>雷属性伤害，对相邻目标造成<2>雷属性伤害。<br>如主目标处于触电状态，则会使副目标也陷入<b>触电</b>状态。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to a single target and <2> Lightning DMG to adjacent units. <br>If the target is Shocked, inflicts <b>Shock</b> on the adjacent units."
         },
         "SP": 10.0,
@@ -5324,7 +5369,7 @@ var _monsterskill = {
             "EN": "Silent and Sharp Mockery"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>雷属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to all targets."
         },
         "SP": 15.0,
@@ -5340,10 +5385,11 @@ var _monsterskill = {
             "EN": "Spirit Whisper"
         },
         "Desc": {
-            "CH": "使指定我方单体<color style='color:#f29e38;'>120%</color>基础概率陷入<color style='color:#f29e38;'>【支配】</color>状态，持续<color style='color:#f29e38;'>3</color>回合，使其随机攻击1名我方其他目标。",
+            "CH": "",
             "EN": "Has a <color style='color:#f29e38;'>120%</color> Base Chance of <color style='color:#f29e38;'>Dominating</color> a single target for <color style='color:#f29e38;'>3</color> turns, making them attack a random ally of theirs."
         },
         "SP": 15.0,
+        "Threat": true,
         "Status": [
             30020028
         ]
@@ -5355,7 +5401,7 @@ var _monsterskill = {
             "EN": "Seething Whisper of the Fallen"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>雷属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>触电</b>状态。同时对所有处于触电状态的我方目标造成<2>雷属性伤害。<br>触电持续伤害：<3>雷属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>1</color>层。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Shock</b> the target. At the same time, deals <2> Lightning DMG to all other Shocked targets.<br>Shock DoT: <3> Lightning DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>1</color> stack."
         },
         "SP": 10.0,
@@ -5376,10 +5422,11 @@ var _monsterskill = {
             "EN": "Psychological Suggestion"
         },
         "Desc": {
-            "CH": "有<color style='color:#f29e38;'>120%</color>基础概率使我方多名目标进入<color style='color:#f29e38;'>【心理暗示】</color>状态，持续<color style='color:#f29e38;'>3</color>回合。<br>在行动条上添加<color style='color:#f29e38;'>【揭晓】</color>，下次【揭晓】行动时陷入【心理暗示】的角色陷入<color style='color:#f29e38;'>【支配】</color>状态。",
+            "CH": "",
             "EN": "Has a <color style='color:#f29e38;'>120%</color> Base Chance to apply <color style='color:#f29e38;'>Psychological Suggestion</color> to multiple targets, lasting <color style='color:#f29e38;'>3</color> turns. <br>Adds <color style='color:#f29e38;'>Revelation</color> onto the action bar. The next time Revelation takes action, any targets with <color style='color:#f29e38;'>Psychological Suggestion</color> will become Dominated."
         },
         "SP": 0,
+        "Threat": true,
         "Status": [
             220040112,
             30020028
@@ -5392,7 +5439,7 @@ var _monsterskill = {
             "EN": "Tremble"
         },
         "Desc": {
-            "CH": "如受到攻击的目标正处于触电状态，则直接造成1次触电伤害。",
+            "CH": "",
             "EN": "If the target is currently Shocked, directly causes Shock DMG 1 time."
         },
         "SP": 0,
@@ -5407,7 +5454,7 @@ var _monsterskill = {
             "EN": "Cruelty"
         },
         "Desc": {
-            "CH": "当敌方除卡芙卡外的目标或我方陷入【支配】状态的目标对我方陷入触电状态的目标造成伤害时，追加一次<1>雷属性伤害。该效果每回合只触发1次。",
+            "CH": "",
             "EN": "When friendly units (apart from Kafka) or Dominated targets deal DMG to Shocked targets, deal an extra <1> Lightning DMG. This can only be triggered 1 time per turn."
         },
         "SP": 10.0,
@@ -5423,7 +5470,7 @@ var _monsterskill = {
             "EN": "Griever"
         },
         "Desc": {
-            "CH": "每当我方目标触发自身触电对自己的伤害时，卡芙卡自身造成的伤害提高<color style='color:#f29e38;'>2%</color>，可叠加。<br>第三阶段的生命值上限改为原本的<color style='color:#f29e38;'>1.66</color>倍。<br>第三阶段生命值首次低于<color style='color:#f29e38;'>50%</color>时，立即行动。",
+            "CH": "",
             "EN": "Every time a target triggers their own Shock state's self DoT, DMG dealt by Kafka increases by <color style='color:#f29e38;'>2%</color>, stackable.<br>Phase 3's Max HP changed to <color style='color:#f29e38;'>1.66</color> times the original.<br>In Phase 3, when HP first falls below <color style='color:#f29e38;'>50%</color>, act immediately."
         },
         "SP": 0,
@@ -5438,7 +5485,7 @@ var _monsterskill = {
             "EN": "Rapturous Wind"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 10.0,
@@ -5454,7 +5501,7 @@ var _monsterskill = {
             "EN": "Swallow Return"
         },
         "Desc": {
-            "CH": "召唤4把<color style='color:#f29e38;'>【飞剑】</color>，使【飞剑】获得<color style='color:#f29e38;'>【阵眼】</color>。<br>彦卿获得<color style='color:#f29e38;'>【剑阵】</color>效果：速度提高<color style='color:#f29e38;'>50</color>，消灭所有【飞剑】可移除该效果并使彦卿流失<color style='color:#f29e38;'>10%生命值上限</color>。",
+            "CH": "",
             "EN": "Summons 4 <color style='color:#f29e38;'>Flying Swords</color>, applies <color style='color:#f29e38;'>Formation Core</color> to the Flying Swords.<br>Yanqing gets <color style='color:#f29e38;'>Sword Formation</color>: SPD increased by <color style='color:#f29e38;'>50</color>. Destroying all Flying Swords will dispel this and cause Yanqing to lose <color style='color:#f29e38;'>10% Max HP</color>."
         },
         "SP": 10.0,
@@ -5474,7 +5521,7 @@ var _monsterskill = {
             "EN": "Ironthorn"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的目标陷入<b>冻结</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>冻结持续伤害：<2>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Freeze</b> the target for <color style='color:#f29e38;'>1</color> turn.<br>Freeze DoT: <2> Ice DMG."
         },
         "SP": 15.0,
@@ -5491,7 +5538,7 @@ var _monsterskill = {
             "EN": "Ballad of Formation Breaker"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害，对其相邻目标造成<2>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target and <2> Ice DMG to adjacent units."
         },
         "SP": 10.0,
@@ -5508,7 +5555,7 @@ var _monsterskill = {
             "EN": "Qi Advance"
         },
         "Desc": {
-            "CH": "进入蓄力状态。下次行动对我方全体施放<color style='color:#f29e38;'>【天河泻】</color>。",
+            "CH": "",
             "EN": "Enters the Charge state. Cast <color style='color:#f29e38;'>Cascading Laceration</color> on all targets in the next action."
         },
         "SP": 0,
@@ -5523,11 +5570,12 @@ var _monsterskill = {
             "EN": "Cascading Laceration"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 15.0,
         "Elem": "Ice",
+        "Threat": true,
         "DMG": [
             6.25
         ]
@@ -5539,7 +5587,7 @@ var _monsterskill = {
             "EN": "Jadecarve Strike"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 10.0,
@@ -5555,7 +5603,7 @@ var _monsterskill = {
             "EN": "Jadecarve Strike"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 10.0,
@@ -5571,7 +5619,7 @@ var _monsterskill = {
             "EN": "Pedicel: Wintry Wind"
         },
         "Desc": {
-            "CH": "召唤建木枝梢<color style='color:#f29e38;'>【肃风之杪】</color>。",
+            "CH": "",
             "EN": "Summons Ambrosial Arbor branch <color style='color:#f29e38;'>\"Twig of Wintry Wind\"</color>"
         },
         "SP": 0,
@@ -5586,7 +5634,7 @@ var _monsterskill = {
             "EN": "Pedicel: Marple Leaf"
         },
         "Desc": {
-            "CH": "召唤建木枝梢<color style='color:#f29e38;'>【缃叶之杪】</color>。",
+            "CH": "",
             "EN": "Summons Ambrosial Arbor branch <color style='color:#f29e38;'>\"Twig of Marple Leaf\"</color>"
         },
         "SP": 0,
@@ -5601,7 +5649,7 @@ var _monsterskill = {
             "EN": "Pedicel: Glorious Blooms"
         },
         "Desc": {
-            "CH": "召唤建木枝梢<color style='color:#f29e38;'>【繁花之杪】</color>。",
+            "CH": "",
             "EN": "Summons Ambrosial Arbor branch <color style='color:#f29e38;'>\"Twig of Glorious Blooms\"</color>"
         },
         "SP": 0,
@@ -5616,7 +5664,7 @@ var _monsterskill = {
             "EN": "Pedicel: Lavish Fruits"
         },
         "Desc": {
-            "CH": "召唤建木枝梢<color style='color:#f29e38;'>【嘉实之杪】</color>。",
+            "CH": "",
             "EN": "Summons Ambrosial Arbor branch <color style='color:#f29e38;'>\"Twig of Lavish Fruits\"</color>"
         },
         "SP": 0,
@@ -5631,7 +5679,7 @@ var _monsterskill = {
             "EN": "Wavering Bleat"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>雷属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to a single target."
         },
         "SP": 20.0,
@@ -5647,7 +5695,7 @@ var _monsterskill = {
             "EN": "Caress of Wind"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>风属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to all targets."
         },
         "SP": 15.0,
@@ -5663,7 +5711,7 @@ var _monsterskill = {
             "EN": "Hardy Leaf Sheath"
         },
         "Desc": {
-            "CH": "进入<color style='color:#f29e38;'>【蕉覆】</color>状态：防御力提升<color style='color:#f29e38;'>200%</color>，且使自身韧性无法受到伤害，持续<color style='color:#f29e38;'>1</color>回合。",
+            "CH": "",
             "EN": "Enters <color style='color:#f29e38;'>Hardy Leaf Sheath</color> state: DEF increased by <color style='color:#f29e38;'>200%</color>, toughness cannot be reduced, lasts <color style='color:#f29e38;'>1</color> turn."
         },
         "SP": 0,
@@ -5678,11 +5726,12 @@ var _monsterskill = {
             "EN": "Flamboyant Gore"
         },
         "Desc": {
-            "CH": "当场上存在2个【嘉实】时立即施放该技能，对我方全体造成<1>雷属性伤害。<br>场上每存在一个【建木枝梢】，则额外造成<2>雷属性伤害。<br>施放技能后，清除场上所有的【建木枝梢】。",
+            "CH": "",
             "EN": "Uses this ability immediately when there are 2 Lavish Fruits on the field: Deals <1> Lightning DMG to all targets.<br>For every \"Ambrosial Arbor Branches\" on the field, an extra <2> Lightning DMG is dealt.<br>After the ability is used, remove all \"Ambrosial Arbor Branches\" on the field."
         },
         "SP": 20.0,
         "Elem": "Elec",
+        "Threat": true,
         "Status": [
             220221001
         ],
@@ -5698,7 +5747,7 @@ var _monsterskill = {
             "EN": "Rebirth"
         },
         "Desc": {
-            "CH": "吸收建木之力，回复全部生命值。",
+            "CH": "",
             "EN": "Absorbs Ambrosial Arbor energy and restores all HP."
         },
         "SP": 0
@@ -5710,7 +5759,7 @@ var _monsterskill = {
             "EN": "Pedicel: Wintry Wind"
         },
         "Desc": {
-            "CH": "召唤建木枝梢<color style='color:#f29e38;'>【肃风之杪】</color>。",
+            "CH": "",
             "EN": "Summons Ambrosial Arbor branch <color style='color:#f29e38;'>\"Twig of Wintry Wind\"</color>"
         },
         "SP": 0,
@@ -5725,7 +5774,7 @@ var _monsterskill = {
             "EN": "Pedicel: Marple Leaf"
         },
         "Desc": {
-            "CH": "召唤建木枝梢<color style='color:#f29e38;'>【缃叶之杪】</color>。",
+            "CH": "",
             "EN": "Summons Ambrosial Arbor branch <color style='color:#f29e38;'>\"Twig of Marple Leaf\"</color>"
         },
         "SP": 0,
@@ -5740,7 +5789,7 @@ var _monsterskill = {
             "EN": "Pedicel: Glorious Blooms"
         },
         "Desc": {
-            "CH": "召唤建木枝梢<color style='color:#f29e38;'>【繁花之杪】</color>。",
+            "CH": "",
             "EN": "Summons Ambrosial Arbor branch <color style='color:#f29e38;'>\"Twig of Glorious Blooms\"</color>"
         },
         "SP": 0,
@@ -5755,7 +5804,7 @@ var _monsterskill = {
             "EN": "Pedicel: Lavish Fruits"
         },
         "Desc": {
-            "CH": "召唤建木枝梢<color style='color:#f29e38;'>【嘉实之杪】</color>。",
+            "CH": "",
             "EN": "Summons Ambrosial Arbor branch <color style='color:#f29e38;'>\"Twig of Lavish Fruits\"</color>"
         },
         "SP": 0,
@@ -5770,7 +5819,7 @@ var _monsterskill = {
             "EN": "Wavering Bleat"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>雷属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to a single target."
         },
         "SP": 20.0,
@@ -5786,7 +5835,7 @@ var _monsterskill = {
             "EN": "Caress of Wind"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>风属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to all targets."
         },
         "SP": 15.0,
@@ -5802,7 +5851,7 @@ var _monsterskill = {
             "EN": "Hardy Leaf Sheath"
         },
         "Desc": {
-            "CH": "进入<color style='color:#f29e38;'>【蕉覆】</color>状态：防御力提升<color style='color:#f29e38;'>200%</color>，且使自身韧性无法受到伤害，持续<color style='color:#f29e38;'>1</color>回合。",
+            "CH": "",
             "EN": "Enters <color style='color:#f29e38;'>Hardy Leaf Sheath</color> state: DEF increased by <color style='color:#f29e38;'>200%</color>, toughness cannot be reduced, lasts <color style='color:#f29e38;'>1</color> turn."
         },
         "SP": 0,
@@ -5817,11 +5866,12 @@ var _monsterskill = {
             "EN": "Flamboyant Gore"
         },
         "Desc": {
-            "CH": "当场上存在2个【嘉实】时立即施放该技能，对我方全体造成<1>雷属性伤害。<br>场上每存在一个【建木枝梢】，额外造成<2>雷属性伤害。<br>施放技能后，清除场上所有的<color style='color:#f29e38;'>【嘉实之杪】</color>。",
+            "CH": "",
             "EN": "Uses this ability immediately when there are 2 Lavish Fruits on the field: Deals <1> Lightning DMG to all targets.<br>For every \"Ambrosial Arbor Branches\" on the field, an extra <2> Lightning DMG is dealt.<br>After the ability is used, remove all <color style='color:#f29e38;'>Twigs of Lavish Fruits</color> on the field."
         },
         "SP": 20.0,
         "Elem": "Elec",
+        "Threat": true,
         "Status": [
             220221001
         ],
@@ -5837,7 +5887,7 @@ var _monsterskill = {
             "EN": "Everlife"
         },
         "Desc": {
-            "CH": "立即回复<color style='color:#f29e38;'>10%生命值上限</color>，并获得<color style='color:#f29e38;'>1</color>层<color style='color:#f29e38;'>【若木化生】</color>。<br>若木化生：每回合回复<color style='color:#f29e38;'>4%生命值上限</color>。最多叠加<color style='color:#f29e38;'>5</color>层。",
+            "CH": "",
             "EN": "Immediately restores <color style='color:#f29e38;'>10% Max HP</color> and gains <color style='color:#f29e38;'>1</color> stack of <color style='color:#f29e38;'>Synwood Renewal</color>.<br>Synwood Renewal: Restores <color style='color:#f29e38;'>4% Max HP</color> every turn. Max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 0,
@@ -5852,7 +5902,7 @@ var _monsterskill = {
             "EN": "Pedicel: Ivy Allure"
         },
         "Desc": {
-            "CH": "召唤2个建木枝梢<color style='color:#f29e38;'>【肃风之杪】</color>。",
+            "CH": "",
             "EN": "Summons 2 Ambrosial Arbor Branch <color style='color:#f29e38;'>\"Twig of Wintry Wind.\"</color>"
         },
         "SP": 0,
@@ -5867,7 +5917,7 @@ var _monsterskill = {
             "EN": "Pedicel: Willow Sprig"
         },
         "Desc": {
-            "CH": "召唤2个建木枝梢<color style='color:#f29e38;'>【缃叶之杪】</color>。",
+            "CH": "",
             "EN": "Summons 2 Ambrosial Arbor Branch <color style='color:#f29e38;'>\"Twig of Marple Leaf.\"</color>"
         },
         "SP": 0,
@@ -5882,7 +5932,7 @@ var _monsterskill = {
             "EN": "Pedicel: Hazel Lush"
         },
         "Desc": {
-            "CH": "召唤2个建木枝梢<color style='color:#f29e38;'>【缃叶之杪】</color>，1个建木枝梢<color style='color:#f29e38;'>【肃风之杪】</color>，1个建木枝梢<color style='color:#f29e38;'>【繁花之杪】</color>。",
+            "CH": "",
             "EN": "Summons 2 <color style='color:#f29e38;'>\"Twig of Marple Leaf\"</color>, 1 <color style='color:#f29e38;'>\"Twig of Wintry Wind\"</color>, and 1 <color style='color:#f29e38;'>\"Twig of Glorious Blooms\"</color>."
         },
         "SP": 0,
@@ -5899,7 +5949,7 @@ var _monsterskill = {
             "EN": "Pedicel: Entwined Vines"
         },
         "Desc": {
-            "CH": "召唤2个建木枝梢<color style='color:#f29e38;'>【嘉实之杪】</color>，1个建木枝梢<color style='color:#f29e38;'>【缃叶之杪】</color>，1个建木枝梢<color style='color:#f29e38;'>【肃风之杪】</color>。",
+            "CH": "",
             "EN": "Summons 2 <color style='color:#f29e38;'>\"Twig of Lavish Fruits\"</color>, 1 <color style='color:#f29e38;'>\"Twig of Marple Leaf\"</color>, and 1 <color style='color:#f29e38;'>\"Twig of Wintry Wind\"</color>."
         },
         "SP": 0,
@@ -5916,7 +5966,7 @@ var _monsterskill = {
             "EN": "Vigor Overflow"
         },
         "Desc": {
-            "CH": "每当丰饶玄鹿获得增益效果时，丰饶玄鹿和所有建木枝梢造成的伤害提高<color style='color:#f29e38;'>15%</color>，可叠加。",
+            "CH": "",
             "EN": "For every buff the Abundant Ebon Deer gains, the DMG dealt by the Abundant Ebon Deer and all Ambrosial Arbor Branches increases by <color style='color:#f29e38;'>15%</color>. This effect is stackable."
         },
         "SP": 0,
@@ -5931,7 +5981,7 @@ var _monsterskill = {
             "EN": "Outrage"
         },
         "Desc": {
-            "CH": "对我方单体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%基础概率使该目标陷入<color style='color:#f29e38;'>【怒噪】</color>状态。<br>怒噪：在<color style='color:#f29e38;'>2</color>内无法行动，且会施放普攻随机攻击敌方单体。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to a single target, and has a <color style='color:#f29e38;'>100% Base Chance to inflict <color style='color:#f29e38;'>Outrage</color> to the target. <br>Outrage: Cannot take action for <color style='color:#f29e38;'>2</color> turns and will use Basic ATK against a random enemy unit."
         },
         "SP": 15.0,
@@ -5950,7 +6000,7 @@ var _monsterskill = {
             "EN": "Engender"
         },
         "Desc": {
-            "CH": "强化【丰饶玄鹿】，使其攻击力提高<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+            "CH": "",
             "EN": "Enhances the Abundant Ebon Deer: Increases its ATK by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 0,
@@ -5965,7 +6015,7 @@ var _monsterskill = {
             "EN": "Retaliation"
         },
         "Desc": {
-            "CH": "进入<color style='color:#f29e38;'>反击</color>状态，在被我方单体击中后立即对该目标施放<color style='color:#f29e38;'>【折叶】</color>技能。",
+            "CH": "",
             "EN": "Enters the <color style='color:#f29e38;'>Counter</color> state: When attacked, immediately uses \"Leaf Hinging\" on the attacker."
         },
         "SP": 0,
@@ -5983,7 +6033,7 @@ var _monsterskill = {
             "EN": "Leaf Hinging"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>雷属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to a single target."
         },
         "SP": 10.0,
@@ -5999,7 +6049,7 @@ var _monsterskill = {
             "EN": "Last Spring"
         },
         "Desc": {
-            "CH": "立即为敌方全体回复<color style='color:#f29e38;'>25%自身生命值上限</color>。",
+            "CH": "",
             "EN": "Immediately restores all allies' HP by <color style='color:#f29e38;'>25% Self Max HP</color>."
         },
         "SP": 0
@@ -6011,7 +6061,7 @@ var _monsterskill = {
             "EN": "Crude Fruits"
         },
         "Desc": {
-            "CH": "结出【嘉实】，为丰饶玄鹿积攒施放【斑龙触】所需消耗的能量。",
+            "CH": "",
             "EN": "Produces Lavish Fruits to accumulate Energy for the Abundant Ebon Deer to launch Flamboyant Gore."
         },
         "SP": 0,
@@ -6026,7 +6076,7 @@ var _monsterskill = {
             "EN": "Mellow Fruits"
         },
         "Desc": {
-            "CH": "结出【嘉实】，为丰饶玄鹿积攒施放【斑龙触】所需消耗的能量。",
+            "CH": "",
             "EN": "Produces Lavish Fruits to accumulate Energy for the Abundant Ebon Deer to launch Flamboyant Gore."
         },
         "SP": 0,
@@ -6041,7 +6091,7 @@ var _monsterskill = {
             "EN": "Outrage"
         },
         "Desc": {
-            "CH": "对我方单体造成<1>风属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<color style='color:#f29e38;'>【怒噪】</color>状态，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入风化状态。<br>怒噪：在<color style='color:#f29e38;'>2</color>内无法行动，且会施放普攻随机攻击敌方单体。<br>风化持续伤害：<2>风属性伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to a single target, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>Outrage</color>, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict Wind Shear. <br>Outrage: Cannot take action for <color style='color:#f29e38;'>2</color> turns and will use Basic ATK against a random enemy unit.<br>Wind Shear DoT: <2> Wind DMG, lasts <color style='color:#f29e38;'>2</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 15.0,
@@ -6062,7 +6112,7 @@ var _monsterskill = {
             "EN": "Engender"
         },
         "Desc": {
-            "CH": "强化【丰饶玄鹿】，使其攻击力提高<color style='color:#f29e38;'>30%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+            "CH": "",
             "EN": "Enhances the Abundant Ebon Deer: Increases its ATK by <color style='color:#f29e38;'>30%</color> for <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 0,
@@ -6077,7 +6127,7 @@ var _monsterskill = {
             "EN": "Retaliation"
         },
         "Desc": {
-            "CH": "进入<color style='color:#f29e38;'>反击</color>状态，在被我方单体击中后立即对该目标施放<color style='color:#f29e38;'>【折叶】</color>技能。",
+            "CH": "",
             "EN": "Enters the <color style='color:#f29e38;'>Counter</color> state: When attacked, immediately uses \"Leaf Hinging\" on the attacker."
         },
         "SP": 0,
@@ -6095,7 +6145,7 @@ var _monsterskill = {
             "EN": "Leaf Hinging"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>雷属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>触电</b>状态。<br>触电持续伤害：<2>雷属性伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>1</color>层。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Shock</b> the target.<br>Shock DoT: <2> Lightning DMG, lasts <color style='color:#f29e38;'>2</color> turns, max <color style='color:#f29e38;'>1</color> stack."
         },
         "SP": 10.0,
@@ -6115,7 +6165,7 @@ var _monsterskill = {
             "EN": "Last Spring"
         },
         "Desc": {
-            "CH": "立即为敌方全体回复<color style='color:#f29e38;'>25%自身生命值上限</color>。",
+            "CH": "",
             "EN": "Immediately restores all allies' HP by <color style='color:#f29e38;'>25% Self Max HP</color>."
         },
         "SP": 0
@@ -6127,7 +6177,7 @@ var _monsterskill = {
             "EN": "Crude Fruits"
         },
         "Desc": {
-            "CH": "结出【嘉实】，为丰饶玄鹿积攒施放【斑龙触】所需消耗的能量。",
+            "CH": "",
             "EN": "Produces Lavish Fruits to accumulate Energy for the Abundant Ebon Deer to launch Flamboyant Gore."
         },
         "SP": 0,
@@ -6142,7 +6192,7 @@ var _monsterskill = {
             "EN": "Mellow Fruits"
         },
         "Desc": {
-            "CH": "结出【嘉实】，为丰饶玄鹿积攒施放【斑龙触】所需消耗的能量。",
+            "CH": "",
             "EN": "Produces Lavish Fruits to accumulate Energy for the Abundant Ebon Deer to launch Flamboyant Gore."
         },
         "SP": 0,
@@ -6157,7 +6207,7 @@ var _monsterskill = {
             "EN": "Lion's Roar"
         },
         "Desc": {
-            "CH": "对指定我方单体造成少量伤害，并有概率使受到攻击的我方目标陷入虚弱状态。",
+            "CH": "",
             "EN": "Deals minor DMG to a single target, with a chance to Weaken them."
         },
         "SP": 0,
@@ -6170,7 +6220,7 @@ var _monsterskill = {
             "EN": "Emergency Mode"
         },
         "Desc": {
-            "CH": "受到致命伤害时不会陷入无法战斗状态，而是回复一定生命值并驱散负面效果。",
+            "CH": "",
             "EN": "Instead of being knocked down after taking fatal DMG, a certain amount of HP will be recovered and debuffs will be dispelled."
         },
         "SP": 0
@@ -6182,10 +6232,11 @@ var _monsterskill = {
             "EN": "Self-Reconstruction"
         },
         "Desc": {
-            "CH": "消耗所有充能。重置【应急模式】的可触发次数。",
+            "CH": "",
             "EN": "Consumes all Charges. Resets the number of times the Emergency Mode can be triggered."
         },
-        "SP": 0
+        "SP": 0,
+        "Threat": true
     },
     "700201001": {
         "Key": "Skill01",
@@ -6194,7 +6245,7 @@ var _monsterskill = {
             "EN": "Wolf Predation"
         },
         "Desc": {
-            "CH": "对指定我方单体造成伤害，并大概率使受到攻击的我方目标陷入触电状态。",
+            "CH": "",
             "EN": "Deals DMG to a single target, with a high chance to Shock the target."
         },
         "SP": 0,
@@ -6207,7 +6258,7 @@ var _monsterskill = {
             "EN": "Wolf Consumption"
         },
         "Desc": {
-            "CH": "对指定我方单体造成伤害，若目标处于持续伤害状态，其当前承受的所有持续伤害立即产生1次伤害。之后，大概率使受到攻击的我方目标陷入触电状态。",
+            "CH": "",
             "EN": "Deals DMG to a single target. If the target is in a DoT state, then all DoT effects currently applied to the target will cause DMG for 1 time. Afterward, there is a high chance to Shock the target."
         },
         "SP": 0,
@@ -6220,7 +6271,7 @@ var _monsterskill = {
             "EN": "Wolf Predation"
         },
         "Desc": {
-            "CH": "对指定我方单体造成伤害，并大概率使受到攻击的我方目标陷入触电状态。",
+            "CH": "",
             "EN": "Deals DMG to a single target, with a high chance to Shock the target."
         },
         "SP": 0,
@@ -6233,7 +6284,7 @@ var _monsterskill = {
             "EN": "Shovel Attack"
         },
         "Desc": {
-            "CH": "对指定我方单体造成少量伤害。",
+            "CH": "",
             "EN": "Deals minor DMG to a single target."
         },
         "SP": 0,
@@ -6246,10 +6297,11 @@ var _monsterskill = {
             "EN": "Great Inspiration"
         },
         "Desc": {
-            "CH": "消耗所有充能。使指定敌方单体攻击力提高，速度提高，如果目标非自身则还会使其立即行动。进入战斗时该技能充能为满。",
+            "CH": "",
             "EN": "Consumes all Charges. Increases ATK and SPD for a single chosen unit. If not chosen, then this unit immediately takes action. When battle starts, this ability starts fully Charged."
         },
-        "SP": 0
+        "SP": 0,
+        "Threat": true
     },
     "700203001": {
         "Key": "Skill01",
@@ -6258,7 +6310,7 @@ var _monsterskill = {
             "EN": "Scorching Crush"
         },
         "Desc": {
-            "CH": "对指定我方单体造成伤害，并大概率使受到攻击的我方目标陷入灼烧状态。",
+            "CH": "",
             "EN": "Deals DMG to a single target, with a high chance to Burn the target."
         },
         "SP": 0,
@@ -6271,11 +6323,12 @@ var _monsterskill = {
             "EN": "Scorching Blast"
         },
         "Desc": {
-            "CH": "消耗所有充能。对指定我方单体造成大量伤害，并大概率使受到攻击的我方目标陷入灼烧状态。",
+            "CH": "",
             "EN": "Consumes all Charges. Deals massive DMG to target, and has a high chance of inflicting burn on target."
         },
         "SP": 0,
-        "Elem": "Fire"
+        "Elem": "Fire",
+        "Threat": true
     },
     "700204001": {
         "Key": "Skill01",
@@ -6312,7 +6365,8 @@ var _monsterskill = {
             "CH": "",
             "EN": ""
         },
-        "SP": 0
+        "SP": 0,
+        "Threat": true
     },
     "700205001": {
         "Key": "Skill01",
@@ -6321,7 +6375,7 @@ var _monsterskill = {
             "EN": "Nightly Luminosity"
         },
         "Desc": {
-            "CH": "对我方全体造成少量伤害，并大概率使受到攻击的我方目标陷入随机持续伤害状态。",
+            "CH": "",
             "EN": "Deals minor DMG to all targets and has a high chance to inflict a random DoT."
         },
         "SP": 0,
@@ -6334,11 +6388,12 @@ var _monsterskill = {
             "EN": "Display Fireworks"
         },
         "Desc": {
-            "CH": "消耗所有充能。迸发出耀眼的烟花，什么都不会发生，但很好看。",
+            "CH": "",
             "EN": "Consumes all Charges. Fires out spectacular fireworks that don't really do anything, but hey, they're nice to look at."
         },
         "SP": 0,
-        "Elem": "Fire"
+        "Elem": "Fire",
+        "Threat": true
     },
     "700205003": {
         "Key": "SkillP01",
@@ -6347,7 +6402,7 @@ var _monsterskill = {
             "EN": "Candle Flame"
         },
         "Desc": {
-            "CH": "陷入无法战斗状态时，对敌方全体造成伤害，并大概率使受到攻击的敌方目标受到的伤害提高。",
+            "CH": "",
             "EN": "When downed, deals DMG to all friendly units, with a high chance to increase their DMG received."
         },
         "SP": 0,
@@ -6360,7 +6415,7 @@ var _monsterskill = {
             "EN": "Barrage"
         },
         "Desc": {
-            "CH": "对指定我方单体及其相邻目标造成伤害。",
+            "CH": "",
             "EN": "Deals DMG to a single target and any adjacent targets."
         },
         "SP": 0,
@@ -6373,10 +6428,11 @@ var _monsterskill = {
             "EN": "Lock and Load"
         },
         "Desc": {
-            "CH": "消耗所有充能。为指定敌方单体提供支援，并使自身和所有被支援的敌方攻击力提高。",
+            "CH": "",
             "EN": "Consumes all Charges. Provides Support to a friendly unit and increases the ATK of this unit and the Supported unit."
         },
-        "SP": 0
+        "SP": 0,
+        "Threat": true
     },
     "700206003": {
         "Key": "SkillP01",
@@ -6385,7 +6441,7 @@ var _monsterskill = {
             "EN": "Covering Support"
         },
         "Desc": {
-            "CH": "进入战斗时，为指定敌方单体提供支援，在被支援的敌方目标攻击我方目标后施放1次追加攻击，对受到攻击的我方目标及其相邻目标造成少量伤害。",
+            "CH": "",
             "EN": "When entering battle, provides support to a friendly unit. After the supported unit attacks a target, this unit performs 1 follow-up attack, dealing minor DMG to the attacked target and adjacent targets."
         },
         "SP": 0,
@@ -6398,7 +6454,7 @@ var _monsterskill = {
             "EN": "Reverberating Carol"
         },
         "Desc": {
-            "CH": "对指定我方单体及其相邻目标造成伤害。首次使用后，使自身行动大幅提前。",
+            "CH": "",
             "EN": "Deals DMG to a single target and adjacent targets. When used for the first time, this will greatly advance this unit's action."
         },
         "SP": 0,
@@ -6411,11 +6467,12 @@ var _monsterskill = {
             "EN": "Carolburst"
         },
         "Desc": {
-            "CH": "消耗所有充能。对指定我方单体造成大量伤害。",
+            "CH": "",
             "EN": "Consumes all Charges. Deals massive DMG to a single target."
         },
         "SP": 0,
-        "Elem": "Imaginary"
+        "Elem": "Imaginary",
+        "Threat": true
     },
     "700208001": {
         "Key": "Skill01",
@@ -6424,7 +6481,7 @@ var _monsterskill = {
             "EN": "Cannon Strike"
         },
         "Desc": {
-            "CH": "对指定我方单体造成少量伤害，使用后使自身行动提前一定比例。",
+            "CH": "",
             "EN": "Deals minor DMG to a single target. This unit's action will be advanced by a certain percentage after this skill is used."
         },
         "SP": 0,
@@ -6437,11 +6494,12 @@ var _monsterskill = {
             "EN": "Piercing Grenade"
         },
         "Desc": {
-            "CH": "消耗所有充能。对指定我方单体造成伤害，使其每次受到攻击后会受到额外伤害，并使其成为敌方全体的攻击目标。进入战斗时该技能充能为满。",
+            "CH": "",
             "EN": "Consumes all Charges. Deals DMG to a single target, causing them to take extra DMG each time they are attacked and to become the target of all units' attacks. When battle starts, this ability starts fully Charged."
         },
         "SP": 0,
-        "Elem": "Phys"
+        "Elem": "Phys",
+        "Threat": true
     },
     "700209001": {
         "Key": "Skill01",
@@ -6450,7 +6508,7 @@ var _monsterskill = {
             "EN": "Tireless Charge"
         },
         "Desc": {
-            "CH": "对指定我方单体造成少量伤害。",
+            "CH": "",
             "EN": "Deals minor DMG to a single target."
         },
         "SP": 0,
@@ -6463,10 +6521,11 @@ var _monsterskill = {
             "EN": "Morale Booster"
         },
         "Desc": {
-            "CH": "消耗所有充能。敌方全队获得5层【士气】。",
+            "CH": "",
             "EN": "Consumes all Charges. All enemies gain 5 stacks of Morale."
         },
-        "SP": 0
+        "SP": 0,
+        "Threat": true
     },
     "700209003": {
         "Key": "SkillP01",
@@ -6475,7 +6534,7 @@ var _monsterskill = {
             "EN": "Silvermane Armor"
         },
         "Desc": {
-            "CH": "敌方单位攻击后，敌方全队获得1层【士气】。每层士气提高造成的和伤害和速度，降低受到的伤害。",
+            "CH": "",
             "EN": "After attacking a target, all friendly units (including this unit) gain a stack of Morale. Each stack of Morale increases DMG dealt and SPD while decreasing DMG taken."
         },
         "SP": 0
@@ -6487,7 +6546,7 @@ var _monsterskill = {
             "EN": "Blazing Absorption"
         },
         "Desc": {
-            "CH": "dev_不显示。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -6499,7 +6558,7 @@ var _monsterskill = {
             "EN": "Bellowing Inferno"
         },
         "Desc": {
-            "CH": "对指定我方单体造成少量伤害，并大概率使受到攻击的我方目标陷入【焚烧】状态。",
+            "CH": "",
             "EN": "Deals minor DMG to a single target and has a high chance to inflict Enkindle."
         },
         "SP": 0,
@@ -6512,7 +6571,7 @@ var _monsterskill = {
             "EN": "Rain of Purifying Flames"
         },
         "Desc": {
-            "CH": "连续对我方随机单体造成少量伤害，并大概率使受到攻击的我方目标陷入【焚烧】状态。",
+            "CH": "",
             "EN": "Deals successive minor DMG to a random single target, with a high chance to inflict Enkindle."
         },
         "SP": 0,
@@ -6525,7 +6584,7 @@ var _monsterskill = {
             "EN": "Molten Fusion"
         },
         "Desc": {
-            "CH": "使自身攻击力提高。",
+            "CH": "",
             "EN": "Increases this unit's ATK."
         },
         "SP": 0
@@ -6537,7 +6596,7 @@ var _monsterskill = {
             "EN": "Bomb Warning"
         },
         "Desc": {
-            "CH": "积蓄力量，下次行动施放【火炽轰炸】。",
+            "CH": "",
             "EN": "Starts charging, and unleashes Bomb en Masse for the next action."
         },
         "SP": 0
@@ -6549,11 +6608,12 @@ var _monsterskill = {
             "EN": "Bomb en Masse"
         },
         "Desc": {
-            "CH": "消耗所有充能。对我方全体造成大量伤害。",
+            "CH": "",
             "EN": "Consumes all Charges. Deals massive DMG to all targets."
         },
         "SP": 0,
-        "Elem": "Fire"
+        "Elem": "Fire",
+        "Threat": true
     },
     "700302001": {
         "Key": "SkillP01",
@@ -6562,7 +6622,7 @@ var _monsterskill = {
             "EN": "Farewell Etiquette"
         },
         "Desc": {
-            "CH": "当我方目标施放战技或终结技进行攻击时会积累【惩戒度】等级，当【惩戒度】等级满级时会释放【罚恶模式】。",
+            "CH": "",
             "EN": "The Sanction Rate level increases when your team uses Skills or Ultimates. When the Sanction Rate reaches its level cap, unleashes Sanction Mode."
         },
         "SP": 0
@@ -6574,7 +6634,7 @@ var _monsterskill = {
             "EN": "Dread"
         },
         "Desc": {
-            "CH": "提高【惩戒度】等级，并对我方全体造成少量伤害，同时大概率使我方目标陷入虚弱状态。",
+            "CH": "",
             "EN": "Increases Sanction Rate level and deals minor DMG to all targets. Has a high chance to inflict Weaken on the targets."
         },
         "SP": 0,
@@ -6587,7 +6647,7 @@ var _monsterskill = {
             "EN": "Restraint"
         },
         "Desc": {
-            "CH": "对指定我方单体造成伤害。",
+            "CH": "",
             "EN": "Deals DMG to a single target."
         },
         "SP": 0,
@@ -6600,7 +6660,7 @@ var _monsterskill = {
             "EN": "Enchainment"
         },
         "Desc": {
-            "CH": "对指定我方单体造成大量伤害，同时有大概率使受到攻击的我方目标陷入禁锢状态。",
+            "CH": "",
             "EN": "Deals massive DMG to a single target, with a high chance of inflicting Imprisonment."
         },
         "SP": 0,
@@ -6613,10 +6673,11 @@ var _monsterskill = {
             "EN": "Sanction Mode"
         },
         "Desc": {
-            "CH": "消耗所有充能。速度提高，行动时会释放强力的攻击技能，持续2回合，同时召唤【入魔机巧 · 灯昼龙鱼】。",
+            "CH": "",
             "EN": "Consumes all Charges. Increases SPD and when taking action, uses a powerful attack ability, lasting for 2 turns. Summons the Illumination Dragonfish at the same time."
         },
-        "SP": 0
+        "SP": 0,
+        "Threat": true
     },
     "700303001": {
         "Key": "Skill01",
@@ -6625,7 +6686,7 @@ var _monsterskill = {
             "EN": "Assault"
         },
         "Desc": {
-            "CH": "造成单体伤害。",
+            "CH": "",
             "EN": "Deals single target DMG."
         },
         "SP": 0,
@@ -6638,7 +6699,7 @@ var _monsterskill = {
             "EN": "Defense Line"
         },
         "Desc": {
-            "CH": "为敌方全体提供护盾。",
+            "CH": "",
             "EN": "Applies Shields to all enemies."
         },
         "SP": 0
@@ -6650,10 +6711,11 @@ var _monsterskill = {
             "EN": "Total Preparation"
         },
         "Desc": {
-            "CH": "消耗所有充能。大概率使我方全体进入嘲讽状态，并为自身提供大量护盾。",
+            "CH": "",
             "EN": "Consumes all Charges. Has a high chance of Taunting all targets and providing massive Shields for oneself."
         },
-        "SP": 0
+        "SP": 0,
+        "Threat": true
     },
     "700303004": {
         "Key": "SkillP01",
@@ -6662,7 +6724,7 @@ var _monsterskill = {
             "EN": "Silvermane Command"
         },
         "Desc": {
-            "CH": "敌方有护盾的目标被攻击后，自动进行反击。",
+            "CH": "",
             "EN": "Automatically Counters when Shielded target is attacked."
         },
         "SP": 0
@@ -6674,7 +6736,7 @@ var _monsterskill = {
             "EN": "Distract"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>火属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Fire DMG to a single target."
         },
         "SP": 10.0,
@@ -6690,7 +6752,7 @@ var _monsterskill = {
             "EN": "Distract"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target."
         },
         "SP": 10.0,
@@ -6706,7 +6768,7 @@ var _monsterskill = {
             "EN": "Iridescent Beam"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>虚数属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to a single target."
         },
         "SP": 10.0,
@@ -6722,7 +6784,7 @@ var _monsterskill = {
             "EN": "Focused Charge"
         },
         "Desc": {
-            "CH": "使敌方全体攻击力提高<color style='color:#f29e38;'>30%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+            "CH": "",
             "EN": "Increases the ATK of all friendly units by <color style='color:#f29e38;'>30%</color>, lasts <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 0,
@@ -6737,7 +6799,7 @@ var _monsterskill = {
             "EN": "Energy Burst"
         },
         "Desc": {
-            "CH": "受到致命攻击后，使我方全体能量恢复<color style='color:#f29e38;'>15</color>点。",
+            "CH": "",
             "EN": "All characters gain <color style='color:#f29e38;'>15</color> Energy after this unit suffers a killing blow."
         },
         "SP": 0
@@ -6749,7 +6811,7 @@ var _monsterskill = {
             "EN": "Carolbeam"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>虚数属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to a single target."
         },
         "SP": 15.0,
@@ -6765,7 +6827,7 @@ var _monsterskill = {
             "EN": "Carolburst"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>虚数属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to a single target."
         },
         "SP": 15.0,
@@ -6781,7 +6843,7 @@ var _monsterskill = {
             "EN": "Reverberating Carol"
         },
         "Desc": {
-            "CH": "对指定我方单体及其相邻目标造成<1>虚数属性伤害，并进入<color style='color:#f29e38;'>【后手】</color>状态。<br>下次行动时施放<color style='color:#f29e38;'>【颂歌爆发】</color>，且伤害提高<color style='color:#f29e38;'>100%</color>。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to a single target and adjacent units, and enters a <color style='color:#f29e38;'>Defensive Position</color>. <br>In the next turn, use <color style='color:#f29e38;'>Carolburst</color> and increase DMG dealt by <color style='color:#f29e38;'>100%</color>."
         },
         "SP": 10.0,
@@ -6803,7 +6865,7 @@ var _monsterskill = {
             "EN": "Imaginary Armor"
         },
         "Desc": {
-            "CH": "非弱点属性的攻击对自身造成的伤害降低。",
+            "CH": "",
             "EN": "Receives reduced DMG from non-Weakness Type attacks."
         },
         "SP": 0
@@ -6815,7 +6877,7 @@ var _monsterskill = {
             "EN": "S—S—S—Scared"
         },
         "Desc": {
-            "CH": "扑满被惊动了，即将在2个回合后逃离。",
+            "CH": "",
             "EN": "The Treasure Trotter got spooked and will flee in 2 turns."
         },
         "SP": 0
@@ -6827,7 +6889,7 @@ var _monsterskill = {
             "EN": "Run... Run!"
         },
         "Desc": {
-            "CH": "扑满陷入恐慌，即将在1个回合后逃离。",
+            "CH": "",
             "EN": "The Treasure Trotter is panicking and will flee in 1 turn."
         },
         "SP": 0
@@ -6839,7 +6901,7 @@ var _monsterskill = {
             "EN": "Phew... Escaped"
         },
         "Desc": {
-            "CH": "扑满拔腿就跑，瞬间失去了踪影。",
+            "CH": "",
             "EN": "The Trotter flees in an instant."
         },
         "SP": 0
@@ -6851,7 +6913,7 @@ var _monsterskill = {
             "EN": "S—S—S—Scared"
         },
         "Desc": {
-            "CH": "扑满被惊动了，即将在2个回合后逃离。",
+            "CH": "",
             "EN": "The Treasure Trotter got spooked and will flee in 2 turns."
         },
         "SP": 0
@@ -6863,7 +6925,7 @@ var _monsterskill = {
             "EN": "Run... Run!"
         },
         "Desc": {
-            "CH": "扑满陷入恐慌，即将在1个回合后逃离。",
+            "CH": "",
             "EN": "The Treasure Trotter is panicking and will flee in 1 turn."
         },
         "SP": 0
@@ -6875,7 +6937,7 @@ var _monsterskill = {
             "EN": "Phew... Escaped"
         },
         "Desc": {
-            "CH": "扑满拔腿就跑，瞬间失去了踪影。",
+            "CH": "",
             "EN": "The Trotter flees in an instant."
         },
         "SP": 0
@@ -6887,7 +6949,7 @@ var _monsterskill = {
             "EN": "S—S—S—Scared"
         },
         "Desc": {
-            "CH": "扑满被惊动了，即将在2个回合后逃离。",
+            "CH": "",
             "EN": "The Treasure Trotter got spooked and will flee in 2 turns."
         },
         "SP": 0
@@ -6899,7 +6961,7 @@ var _monsterskill = {
             "EN": "Run... Run!"
         },
         "Desc": {
-            "CH": "扑满陷入恐慌，即将在1个回合后逃离。",
+            "CH": "",
             "EN": "The Treasure Trotter is panicking and will flee in 1 turn."
         },
         "SP": 0
@@ -6911,7 +6973,7 @@ var _monsterskill = {
             "EN": "Phew... Escaped"
         },
         "Desc": {
-            "CH": "扑满拔腿就跑，瞬间失去了踪影。",
+            "CH": "",
             "EN": "The Trotter flees in an instant."
         },
         "SP": 0
@@ -6923,7 +6985,7 @@ var _monsterskill = {
             "EN": "S—S—S—Scared"
         },
         "Desc": {
-            "CH": "扑满被惊动了，即将在2个回合后逃离。",
+            "CH": "",
             "EN": "The Treasure Trotter got spooked and will flee in 2 turns."
         },
         "SP": 0
@@ -6935,7 +6997,7 @@ var _monsterskill = {
             "EN": "Run... Run!"
         },
         "Desc": {
-            "CH": "扑满陷入恐慌，即将在1个回合后逃离。",
+            "CH": "",
             "EN": "The Treasure Trotter is panicking and will flee in 1 turn."
         },
         "SP": 0
@@ -6947,7 +7009,7 @@ var _monsterskill = {
             "EN": "Phew... Escaped"
         },
         "Desc": {
-            "CH": "扑满拔腿就跑，瞬间失去了踪影。",
+            "CH": "",
             "EN": "The Trotter flees in an instant."
         },
         "SP": 0
@@ -6959,7 +7021,7 @@ var _monsterskill = {
             "EN": "S—S—S—Scared"
         },
         "Desc": {
-            "CH": "扑满被惊动了，即将在2个回合后逃离。",
+            "CH": "",
             "EN": "The Treasure Trotter got spooked and will flee in 2 turns."
         },
         "SP": 0
@@ -6971,7 +7033,7 @@ var _monsterskill = {
             "EN": "Run... Run!"
         },
         "Desc": {
-            "CH": "扑满陷入恐慌，即将在1个回合后逃离。",
+            "CH": "",
             "EN": "The Treasure Trotter is panicking and will flee in 1 turn."
         },
         "SP": 0
@@ -6983,7 +7045,7 @@ var _monsterskill = {
             "EN": "Phew... Escaped"
         },
         "Desc": {
-            "CH": "扑满拔腿就跑，瞬间失去了踪影。",
+            "CH": "",
             "EN": "The Trotter flees in an instant."
         },
         "SP": 0
@@ -6995,7 +7057,7 @@ var _monsterskill = {
             "EN": "S—S—S—Scared"
         },
         "Desc": {
-            "CH": "扑满被惊动了，即将在2个回合后逃离。",
+            "CH": "",
             "EN": "The Treasure Trotter got spooked and will flee in 2 turns."
         },
         "SP": 0
@@ -7007,7 +7069,7 @@ var _monsterskill = {
             "EN": "Run... Run!"
         },
         "Desc": {
-            "CH": "扑满陷入恐慌，即将在1个回合后逃离。",
+            "CH": "",
             "EN": "The Treasure Trotter is panicking and will flee in 1 turn."
         },
         "SP": 0
@@ -7019,7 +7081,7 @@ var _monsterskill = {
             "EN": "Phew... Escaped"
         },
         "Desc": {
-            "CH": "扑满拔腿就跑，瞬间失去了踪影。",
+            "CH": "",
             "EN": "The Trotter flees in an instant."
         },
         "SP": 0
@@ -7031,7 +7093,7 @@ var _monsterskill = {
             "EN": "T—Taking Revenge"
         },
         "Desc": {
-            "CH": "当我方目标攻击敌方目标后，对我方全体进行攻击。<br>我方每命中一个敌人，扑满对我方全体造成一次<color style='color:#f29e38;'>55%</color>伤害。",
+            "CH": "",
             "EN": "When a friendly unit is attacked, this unit will attack all targets. <br>For every unit the character hits, the Trotter deals <color style='color:#f29e38;'>55%</color> DMG once to all characters."
         },
         "SP": 0,
@@ -7047,7 +7109,7 @@ var _monsterskill = {
             "EN": "S—S—S—Scared"
         },
         "Desc": {
-            "CH": "扑满被惊动了，即将在2个回合后逃离。",
+            "CH": "",
             "EN": "The Treasure Trotter got spooked and will flee in 2 turns."
         },
         "SP": 0
@@ -7059,7 +7121,7 @@ var _monsterskill = {
             "EN": "Run... Run!"
         },
         "Desc": {
-            "CH": "扑满陷入恐慌，即将在1个回合后逃离。",
+            "CH": "",
             "EN": "The Treasure Trotter is panicking and will flee in 1 turn."
         },
         "SP": 0
@@ -7071,7 +7133,7 @@ var _monsterskill = {
             "EN": "Phew... Escaped"
         },
         "Desc": {
-            "CH": "扑满拔腿就跑，瞬间失去了踪影。",
+            "CH": "",
             "EN": "The Trotter flees in an instant."
         },
         "SP": 0
@@ -7083,7 +7145,7 @@ var _monsterskill = {
             "EN": "C—Cure You"
         },
         "Desc": {
-            "CH": "当除丰饶扑满外的敌方目标受到我方目标攻击后，消耗自身生命值为受到攻击的目标回复生命值。",
+            "CH": "",
             "EN": "When a friendly unit other than the Trotter of Abundance is attacked, consumes HP to heal the attacked friendly unit."
         },
         "SP": 0,
@@ -7098,7 +7160,7 @@ var _monsterskill = {
             "EN": "S—S—S—Scared"
         },
         "Desc": {
-            "CH": "扑满被惊动了，即将在2个回合后逃离。",
+            "CH": "",
             "EN": "The Treasure Trotter got spooked and will flee in 2 turns."
         },
         "SP": 0
@@ -7110,7 +7172,7 @@ var _monsterskill = {
             "EN": "Run... Run!"
         },
         "Desc": {
-            "CH": "扑满陷入恐慌，即将在1个回合后逃离。",
+            "CH": "",
             "EN": "The Treasure Trotter is panicking and will flee in 1 turn."
         },
         "SP": 0
@@ -7122,7 +7184,7 @@ var _monsterskill = {
             "EN": "Phew... Escaped"
         },
         "Desc": {
-            "CH": "扑满拔腿就跑，瞬间失去了踪影。",
+            "CH": "",
             "EN": "The Trotter flees in an instant."
         },
         "SP": 0
@@ -7134,7 +7196,7 @@ var _monsterskill = {
             "EN": "P—Protect You"
         },
         "Desc": {
-            "CH": "进入战斗时，为敌方全体提供<color style='color:#f29e38;'>30</color>层<color style='color:#f29e38;'>【保…保护你】</color>。<br>每层【保…保护你】可抵抗1次除持续伤害外的所有伤害。敌方全体共享【保…保护你】层数。",
+            "CH": "",
             "EN": "When entering battle, applies <color style='color:#f29e38;'>30</color> stacks of <color style='color:#f29e38;'>\"P—Protect You\"</color> to all friendly units. <br>Each stack of \"P—Protect You\" can nullify all DMG received from 1 incoming hit except for DoT. \"P—Protect You\" stacks are shared across the team."
         },
         "SP": 0,
@@ -7149,7 +7211,7 @@ var _monsterskill = {
             "EN": "S—S—S—Scared"
         },
         "Desc": {
-            "CH": "扑满被惊动了，即将在2个回合后逃离。",
+            "CH": "",
             "EN": "The Treasure Trotter got spooked and will flee in 2 turns."
         },
         "SP": 0
@@ -7161,7 +7223,7 @@ var _monsterskill = {
             "EN": "Run... Run!"
         },
         "Desc": {
-            "CH": "扑满陷入恐慌，即将在1个回合后逃离。",
+            "CH": "",
             "EN": "The Treasure Trotter is panicking and will flee in 1 turn."
         },
         "SP": 0
@@ -7173,7 +7235,7 @@ var _monsterskill = {
             "EN": "Phew... Escaped"
         },
         "Desc": {
-            "CH": "扑满拔腿就跑，瞬间失去了踪影。",
+            "CH": "",
             "EN": "The Trotter flees in an instant."
         },
         "SP": 0
@@ -7185,7 +7247,7 @@ var _monsterskill = {
             "EN": "P—Protect You"
         },
         "Desc": {
-            "CH": "进入战斗时，为敌方全体提供<color style='color:#f29e38;'>20</color>层<color style='color:#f29e38;'>【保…保护你】</color>。<br>每层【保…保护你】可抵抗1次除持续伤害外的所有伤害。敌方全体共享【保…保护你】层数。",
+            "CH": "",
             "EN": "When entering battle, applies <color style='color:#f29e38;'>20</color> stacks of <color style='color:#f29e38;'>\"P—Protect You\"</color> to all friendly units. <br>Each stack of \"P—Protect You\" can nullify all DMG received from 1 incoming hit except for DoT. \"P—Protect You\" stacks are shared across the team."
         },
         "SP": 0,
@@ -7200,7 +7262,7 @@ var _monsterskill = {
             "EN": "S—S—S—Scared"
         },
         "Desc": {
-            "CH": "扑满被惊动了，即将在2个回合后逃离。",
+            "CH": "",
             "EN": "The Trotter got spooked and will flee in 2 turns."
         },
         "SP": 0
@@ -7212,7 +7274,7 @@ var _monsterskill = {
             "EN": "Run... Run!"
         },
         "Desc": {
-            "CH": "扑满陷入恐慌，即将在1个回合后逃离。",
+            "CH": "",
             "EN": "The Trotter is panicking and will flee in 1 turn."
         },
         "SP": 0
@@ -7224,7 +7286,7 @@ var _monsterskill = {
             "EN": "Phew... Escaped"
         },
         "Desc": {
-            "CH": "扑满拔腿就跑，瞬间失去了踪影。",
+            "CH": "",
             "EN": "The Trotter flees in an instant."
         },
         "SP": 0
@@ -7236,7 +7298,7 @@ var _monsterskill = {
             "EN": "Chilling Lament"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害。<br>若自身处于<color style='color:#f29e38;'>【冰点】</color>状态，且目标被冻结，则额外造成<2>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target. <br>Deals extra <2> Ice DMG to the target if the target is currently Frozen and this unit is in the <color style='color:#f29e38;'>Freezing Point</color> state."
         },
         "SP": 10.0,
@@ -7257,7 +7319,7 @@ var _monsterskill = {
             "EN": "Frosty Absorption"
         },
         "Desc": {
-            "CH": "使自身进入<color style='color:#f29e38;'>【冰点】</color>状态，之后的攻击可以施放<color style='color:#f29e38;'>【永冬之雨】</color>。",
+            "CH": "",
             "EN": "Enters the <color style='color:#f29e38;'>Freezing Point</color> state. Unlocks the skill <color style='color:#f29e38;'>Everwinter Rain</color>."
         },
         "SP": 0,
@@ -7276,11 +7338,12 @@ var _monsterskill = {
             "EN": "Everwinter Rain"
         },
         "Desc": {
-            "CH": "只有在<color style='color:#f29e38;'>【冰点】</color>状态下才会施放该技能。<br>对我方全体造成<1>冰属性伤害，并随机选择至多2名未被冻结的角色，以<color style='color:#f29e38;'>60%基础概率使其陷入<b>冻结</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br><br>冻结持续伤害：<2>冰属性伤害。",
+            "CH": "",
             "EN": "Only available while in the <color style='color:#f29e38;'>Freezing Point</color> state. <br>Deals <1> Ice DMG to all targets. Choose a maximum of 2 characters currently not Frozen, and tries with <color style='color:#f29e38;'>60%</color> Base Chance to <b>Freeze</b> them for <color style='color:#f29e38;'>1</color> turn.<br>Freeze DoT: <2> Ice DMG."
         },
         "SP": 15.0,
         "Elem": "Ice",
+        "Threat": true,
         "Status": [
             280030101,
             30020012
@@ -7297,7 +7360,7 @@ var _monsterskill = {
             "EN": "Chilling Lament"
         },
         "Desc": {
-            "CH": "对指定我方单体造成冰属性伤害。若自身处于【冰点】状态，则有概率使受到攻击的我方目标陷入冻结状态。",
+            "CH": "",
             "EN": "Deals Ice DMG to a single target. There is a chance to Freeze the target if the user is in the Freezing Point state."
         },
         "SP": 10.0,
@@ -7310,7 +7373,7 @@ var _monsterskill = {
             "EN": "Chilling Lament"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害。<br>若自身处于<color style='color:#f29e38;'>【冰点】</color>状态，且目标被冻结，则额外造成<2>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target. <br>Deals extra <2> Ice DMG to the target if the target is currently Frozen and this unit is in the <color style='color:#f29e38;'>Freezing Point</color> state."
         },
         "SP": 10.0,
@@ -7331,7 +7394,7 @@ var _monsterskill = {
             "EN": "Frosty Absorption"
         },
         "Desc": {
-            "CH": "使自身进入<color style='color:#f29e38;'>【冰点】</color>状态，之后的攻击可以施放<color style='color:#f29e38;'>【永冬之雨】</color>。",
+            "CH": "",
             "EN": "Enters the <color style='color:#f29e38;'>Freezing Point</color> state. Unlocks the skill <color style='color:#f29e38;'>Everwinter Rain</color>."
         },
         "SP": 0,
@@ -7350,11 +7413,12 @@ var _monsterskill = {
             "EN": "Everwinter Rain"
         },
         "Desc": {
-            "CH": "只有在<color style='color:#f29e38;'>【冰点】</color>状态下才会施放该技能。<br>对我方全体造成<1>冰属性伤害，并随机选择至多2名未被冻结的角色，以<color style='color:#f29e38;'>80%基础概率使其陷入<b>冻结</b>状态，且行动延后<color style='color:#f29e38;'>100%</color>。<br><br>冻结持续伤害：<2>冰属性伤害，持续<color style='color:#f29e38;'>1</color>回合。",
+            "CH": "",
             "EN": "Only available while in the <color style='color:#f29e38;'>Freezing Point</color> state. <br>Deals <1> Ice DMG to all targets. Choose a maximum of 2 characters currently not Frozen, and tries with <color style='color:#f29e38;'>80%</color> Base Chance to <b>Freeze</b> them and delay their action by <color style='color:#f29e38;'>100%</color>.<br>Freeze DoT: <2> Ice DMG, lasts <color style='color:#f29e38;'>1</color> turn."
         },
         "SP": 15.0,
         "Elem": "Ice",
+        "Threat": true,
         "Status": [
             280030101,
             30020012
@@ -7371,7 +7435,7 @@ var _monsterskill = {
             "EN": "Chilling Lament"
         },
         "Desc": {
-            "CH": "对指定我方单体造成冰属性伤害。若自身处于【冰点】状态，则有概率使受到攻击的我方目标陷入冻结状态。",
+            "CH": "",
             "EN": "Deals Ice DMG to a single target. There is a chance to Freeze the target if the user is in the Freezing Point state."
         },
         "SP": 10.0,
@@ -7384,7 +7448,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_对所有冻结状态的我方目标造成冰属性伤害，并延长冻结状态。",
+            "CH": "",
             "EN": ""
         },
         "SP": 15.0,
@@ -7397,11 +7461,12 @@ var _monsterskill = {
             "EN": "Freeze Burst"
         },
         "Desc": {
-            "CH": "对陷入冻结状态的我方目标造成<1>冰属性伤害，同时使其冻结状态解除，并对其相邻目标造成<2>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to Frozen targets. This also removes their Frozen state and deals <2> Ice DMG to their adjacent units."
         },
         "SP": 15.0,
         "Elem": "Ice",
+        "Threat": true,
         "DMG": [
             4.0,
             2.0
@@ -7414,7 +7479,7 @@ var _monsterskill = {
             "EN": "Bellowing Inferno"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>火属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【焚烧】</color>状态。<br>焚烧：持续<color style='color:#f29e38;'>2</color>回合，每回合开始时受到<2>火属性伤害，可叠加。",
+            "CH": "",
             "EN": "Deals <1> Fire DMG to a single target, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>Enkindle</color>.<br>Enkindle: Lasts <color style='color:#f29e38;'>2</color> turns; at the start of every turn, suffer <2> Fire DMG. This effect is stackable."
         },
         "SP": 10.0,
@@ -7434,7 +7499,7 @@ var _monsterskill = {
             "EN": "Blazing Absorption"
         },
         "Desc": {
-            "CH": "使自身进入<color style='color:#f29e38;'>【自燃】</color>状态，之后的攻击可以施放<color style='color:#f29e38;'>【净炎之雨】</color>。",
+            "CH": "",
             "EN": "Enters the <color style='color:#f29e38;'>Spontaneous Combustion</color> state. Unlocks the skill <color style='color:#f29e38;'>Rain of Purifying Flames</color>."
         },
         "SP": 0,
@@ -7452,11 +7517,12 @@ var _monsterskill = {
             "EN": "Rain of Purifying Flames"
         },
         "Desc": {
-            "CH": "连续<color style='color:#f29e38;'>5</color>次：对我方随机单体造成<1>火属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【焚烧】</color>状态。<br>焚烧：持续<color style='color:#f29e38;'>2</color>回合，每回合开始时受到<2>火属性伤害，可叠加。",
+            "CH": "",
             "EN": "Repeat <color style='color:#f29e38;'>5</color> times: Deal <1> Fire DMG to a random single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>Enkindle</color>.<br>Enkindle: Lasts <color style='color:#f29e38;'>2</color> turns; at the start of every turn, suffer <2> Fire DMG. This effect is stackable."
         },
         "SP": 10.0,
         "Elem": "Fire",
+        "Threat": true,
         "Status": [
             280030203
         ],
@@ -7472,7 +7538,7 @@ var _monsterskill = {
             "EN": "Molten Fusion"
         },
         "Desc": {
-            "CH": "使自身攻击力提高<color style='color:#f29e38;'>30%</color>，被弱点击破时该状态解除。",
+            "CH": "",
             "EN": "Gains <color style='color:#f29e38;'>30%</color> ATK increase. This buff is dispelled upon Weakness Break."
         },
         "SP": 0
@@ -7484,7 +7550,7 @@ var _monsterskill = {
             "EN": "Bellowing Inferno"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>火属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【焚烧】</color>状态。<br>焚烧：持续<color style='color:#f29e38;'>2</color>回合，每回合开始时受到<2>火属性伤害，可叠加。",
+            "CH": "",
             "EN": "Deals <1> Fire DMG to a single target, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>Enkindle</color>.<br>Enkindle: Lasts <color style='color:#f29e38;'>2</color> turns; at the start of every turn, suffer <2> Fire DMG. This effect is stackable."
         },
         "SP": 10.0,
@@ -7504,7 +7570,7 @@ var _monsterskill = {
             "EN": "Blazing Absorption"
         },
         "Desc": {
-            "CH": "使自身进入<color style='color:#f29e38;'>【自燃】</color>状态，之后的攻击可以施放<color style='color:#f29e38;'>【净炎之雨】</color>。",
+            "CH": "",
             "EN": "Enters the <color style='color:#f29e38;'>Spontaneous Combustion</color> state. <color style='color:#f29e38;'>Rain of Purifying Flames</color> can be used in subsequent attacks."
         },
         "SP": 0,
@@ -7522,11 +7588,12 @@ var _monsterskill = {
             "EN": "Rain of Purifying Flames"
         },
         "Desc": {
-            "CH": "连续<color style='color:#f29e38;'>5</color>次：对我方随机单体造成<1>火属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【焚烧】</color>状态。<br>焚烧：持续<color style='color:#f29e38;'>2</color>回合，每回合开始时受到<2>火属性伤害，可叠加。",
+            "CH": "",
             "EN": "Repeat <color style='color:#f29e38;'>5</color> times: Deal <1> Fire DMG to a random single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>Enkindle</color>.<br>Enkindle: Lasts <color style='color:#f29e38;'>2</color> turns; at the start of every turn, suffer <2> Fire DMG. This effect is stackable."
         },
         "SP": 10.0,
         "Elem": "Fire",
+        "Threat": true,
         "Status": [
             280030203
         ],
@@ -7542,7 +7609,7 @@ var _monsterskill = {
             "EN": "Molten Fusion"
         },
         "Desc": {
-            "CH": "使自身攻击力提高<color style='color:#f29e38;'>30%</color>，被弱点击破时该状态解除。",
+            "CH": "",
             "EN": "Gains <color style='color:#f29e38;'>30%</color> ATK increase. This buff is dispelled upon Weakness Break."
         },
         "SP": 0
@@ -7554,7 +7621,7 @@ var _monsterskill = {
             "EN": "Bomb Warning"
         },
         "Desc": {
-            "CH": "吸收所有我方全体持有的<color style='color:#f29e38;'>【焚烧】</color>状态，下一次行动释放<color style='color:#f29e38;'>【火炽轰炸】</color>。",
+            "CH": "",
             "EN": "Absorbs all the <color style='color:#f29e38;'>Enkindle</color> statuses on all targets, and unleash <color style='color:#f29e38;'>Bomb en Masse</color> upon next action."
         },
         "SP": 0,
@@ -7572,11 +7639,12 @@ var _monsterskill = {
             "EN": "Bomb en Masse"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>火属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使我方全体陷入<color style='color:#f29e38;'>【焚烧】</color>状态。",
+            "CH": "",
             "EN": "Deals <1> Fire DMG to all targets, and has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>Enkindle</color> to all targets. "
         },
         "SP": 15.0,
         "Elem": "Fire",
+        "Threat": true,
         "Status": [
             280030203
         ],
@@ -7591,7 +7659,7 @@ var _monsterskill = {
             "EN": "Lightning Recollection"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>雷属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to a single target."
         },
         "SP": 10.0,
@@ -7607,7 +7675,7 @@ var _monsterskill = {
             "EN": "Lightning Condemnation"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>雷属性伤害，对其相邻目标造成<2>雷属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to a single target and <2> Lightning DMG to adjacent units."
         },
         "SP": 15.0,
@@ -7624,7 +7692,7 @@ var _monsterskill = {
             "EN": "Tranquil Ban"
         },
         "Desc": {
-            "CH": "对我方全体设下不能攻击守护者之影的【禁令】，攻击守护者之影的我方目标将立即受到<color style='color:#f29e38;'>【不可违逆之责罚】</color>。",
+            "CH": "",
             "EN": "Your team is imposed with a ban on attacking the Guardian Shadow. Should anyone do so, they immediately receive <color style='color:#f29e38;'>Inevitable Punishment</color>."
         },
         "SP": 0,
@@ -7642,7 +7710,7 @@ var _monsterskill = {
             "EN": "Disarm Ban"
         },
         "Desc": {
-            "CH": "对我方全体设下不能施放普攻的【禁令】，施放普攻的我方目标将立即受到<color style='color:#f29e38;'>【不可违逆之责罚】</color>。",
+            "CH": "",
             "EN": "Your team is imposed with a ban on using Basic ATK. Should anyone do so, they immediately receive <color style='color:#f29e38;'>Inevitable Punishment</color>."
         },
         "SP": 0,
@@ -7660,7 +7728,7 @@ var _monsterskill = {
             "EN": "Silent Ban"
         },
         "Desc": {
-            "CH": "对我方全体设下不能施放战技的【禁令】，施放战技的我方目标将立即受到<color style='color:#f29e38;'>【不可违逆之责罚】</color>。",
+            "CH": "",
             "EN": "Your team is imposed with a ban on using Skill. Should anyone do so, they immediately receive <color style='color:#f29e38;'>Inevitable Punishment</color>."
         },
         "SP": 0,
@@ -7678,11 +7746,12 @@ var _monsterskill = {
             "EN": "Thunderstorm Condemnation"
         },
         "Desc": {
-            "CH": "连续<color style='color:#f29e38;'>8</color>次：对我方随机单体造成<1>雷属性伤害，并有<color style='color:#f29e38;'>50%</color>基础概率使受到攻击的我方目标陷入<b>触电状态</b>。<br>触电持续伤害：<2>雷属性伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>1</color>层。",
+            "CH": "",
             "EN": "Repeat <color style='color:#f29e38;'>8</color> times: Deal <1> Lightning DMG to a random target, with a <color style='color:#f29e38;'>50%</color> Base chance to inflict <b>Shock</b>.<br>Shock DoT: <2> Lightning DMG, lasts <color style='color:#f29e38;'>2</color> turns, max <color style='color:#f29e38;'>1</color> stack."
         },
         "SP": 5.0,
         "Elem": "Elec",
+        "Threat": true,
         "Status": [
             30020004
         ],
@@ -7698,7 +7767,7 @@ var _monsterskill = {
             "EN": "Inevitable Punishment"
         },
         "Desc": {
-            "CH": "对破坏【禁令】的我方单体造成<1>雷属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to whoever violates the ban."
         },
         "SP": 10.0,
@@ -7714,7 +7783,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_每增加一个负面状态都会使自身防御力降低。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0,
@@ -7729,7 +7798,7 @@ var _monsterskill = {
             "EN": "Lightning Recollection"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>雷属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to a single target."
         },
         "SP": 10.0,
@@ -7745,7 +7814,7 @@ var _monsterskill = {
             "EN": "Lightning Condemnation"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>雷属性伤害，对其相邻目标造成<2>雷属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to a single target and <2> Lightning DMG to adjacent units."
         },
         "SP": 15.0,
@@ -7762,7 +7831,7 @@ var _monsterskill = {
             "EN": "Tranquil Ban"
         },
         "Desc": {
-            "CH": "对我方全体设下不能攻击守护者之影的【禁令】，攻击守护者之影的我方目标将立即受到<color style='color:#f29e38;'>【不可违逆之责罚】</color>。",
+            "CH": "",
             "EN": "Your team is imposed with a ban on attacking the Guardian Shadow. Should anyone do so, they immediately receive <color style='color:#f29e38;'>Inevitable Punishment</color>."
         },
         "SP": 0,
@@ -7780,7 +7849,7 @@ var _monsterskill = {
             "EN": "Disarm Ban"
         },
         "Desc": {
-            "CH": "对我方全体设下不能施放普攻的【禁令】，施放普攻的我方目标将立即受到<color style='color:#f29e38;'>【不可违逆之责罚】</color>。",
+            "CH": "",
             "EN": "Your team is imposed with a ban on using Basic ATK. Should anyone do so, they immediately receive <color style='color:#f29e38;'>Inevitable Punishment</color>."
         },
         "SP": 0,
@@ -7798,7 +7867,7 @@ var _monsterskill = {
             "EN": "Silent Ban"
         },
         "Desc": {
-            "CH": "对我方全体设下不能施放战技的【禁令】，施放战技的我方目标将立即受到<color style='color:#f29e38;'>【不可违逆之责罚】</color>。",
+            "CH": "",
             "EN": "Your team is imposed with a ban on using Skill. Should anyone do so, they immediately receive <color style='color:#f29e38;'>Inevitable Punishment</color>."
         },
         "SP": 0,
@@ -7816,11 +7885,12 @@ var _monsterskill = {
             "EN": "Thunderstorm Condemnation"
         },
         "Desc": {
-            "CH": "连续<color style='color:#f29e38;'>8</color>次：对我方随机单体造成<1>雷属性伤害，并有<color style='color:#f29e38;'>50%</color>基础概率使受到攻击的我方目标陷入<b>触电</b>状态。<br>触电持续伤害：<2>雷属性伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>1</color>层。",
+            "CH": "",
             "EN": "Repeat <color style='color:#f29e38;'>8</color> times: Deal <1> Lightning DMG to a random target, with a <color style='color:#f29e38;'>50%</color> Base chance to inflict <b>Shock</b>.<br>Shock DoT: <2> Lightning DMG, lasts <color style='color:#f29e38;'>2</color> turns, max <color style='color:#f29e38;'>1</color> stack."
         },
         "SP": 5.0,
         "Elem": "Elec",
+        "Threat": true,
         "Status": [
             30020004
         ],
@@ -7836,11 +7906,12 @@ var _monsterskill = {
             "EN": "Inevitable Punishment"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>雷属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to all targets."
         },
         "SP": 10.0,
         "Elem": "Elec",
+        "Threat": true,
         "DMG": [
             4.0
         ]
@@ -7852,7 +7923,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_每增加一个负面状态都会使自身防御力降低。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -7864,7 +7935,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_使自身速度提高。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -7876,7 +7947,7 @@ var _monsterskill = {
             "EN": "Fleeting Gilded Spikes"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>虚数属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to a single target."
         },
         "SP": 10.0,
@@ -7892,7 +7963,7 @@ var _monsterskill = {
             "EN": "Fleeting Punishment"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>虚数属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to a single target."
         },
         "SP": 15.0,
@@ -7908,11 +7979,12 @@ var _monsterskill = {
             "EN": "Liberation of the Golden Age"
         },
         "Desc": {
-            "CH": "每有一层<color style='color:#f29e38;'>【追忆刻度】</color>，对随机我方单体造成一次<1>虚数属性伤害，最多<color style='color:#f29e38;'>9</color>层。<br>若没有【追忆刻度】则本技能施放失败。",
+            "CH": "",
             "EN": "For every stack of <color style='color:#f29e38;'>\"Gauge Recollection\"</color>, deal <1> Imaginary DMG to a random target, max <color style='color:#f29e38;'>9</color> stacks.<br>If there is no \"Gauge Recollection\", this ability will fail."
         },
         "SP": 5.0,
         "Elem": "Imaginary",
+        "Threat": true,
         "Status": [
             280030405
         ],
@@ -7927,7 +7999,7 @@ var _monsterskill = {
             "EN": "Fleeting Veil"
         },
         "Desc": {
-            "CH": "自身受到的普攻、战技、终结技、追加攻击伤害降低<color style='color:#f29e38;'>10%</color>。<br>任意攻击命中我方后，有<color style='color:#f29e38;'>20%</color>基础概率施加<b>禁锢</b>，持续<color style='color:#f29e38;'>1</color>回合。<br>禁锢：无法行动，行动延后<color style='color:#f29e38;'>50%</color>。",
+            "CH": "",
             "EN": "Reduces DMG received from Basic ATKs, Skills, Ultimates, and follow-up attacks by <color style='color:#f29e38;'>10%</color>.<br>After attacking a target, has <color style='color:#f29e38;'>20%</color> Base Chance to inflict <b>Imprisonment</b> for <color style='color:#f29e38;'>1</color> turn.<br>Imprisonment: Cannot take action, action delays by <color style='color:#f29e38;'>50%</color>."
         },
         "SP": 0,
@@ -7942,7 +8014,7 @@ var _monsterskill = {
             "EN": "Binding of the Golden Age"
         },
         "Desc": {
-            "CH": "使自身进入蓄力状态并获得<color style='color:#f29e38;'>9</color>层<color style='color:#f29e38;'>【追忆刻度】</color>，下次行动施放<color style='color:#f29e38;'>【黄金年代的解放】</color>。每次受到攻击后失去1层【追忆刻度】。",
+            "CH": "",
             "EN": "Enters the Charge state and gains <color style='color:#f29e38;'>9</color> <color style='color:#f29e38;'>Gauge Recollection</color> stacks. Casts <color style='color:#f29e38;'>Liberation of the Golden Age</color> in the next action. Every time this unit is attacked, lose 1 stack of Gauge Recollection."
         },
         "SP": 0,
@@ -7960,7 +8032,7 @@ var _monsterskill = {
             "EN": "Liberation of the Golden Age"
         },
         "Desc": {
-            "CH": "dev_连续对我方随机单体造成虚数属性伤害，若没有能量球则本技能施放失败。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -7972,7 +8044,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_使自身速度提高。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -7984,7 +8056,7 @@ var _monsterskill = {
             "EN": "Fleeting Gilded Spikes"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>虚数属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to a single target."
         },
         "SP": 10.0,
@@ -8000,7 +8072,7 @@ var _monsterskill = {
             "EN": "Fleeting Punishment"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>虚数属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to a single target."
         },
         "SP": 15.0,
@@ -8016,7 +8088,7 @@ var _monsterskill = {
             "EN": "Liberation of the Golden Age"
         },
         "Desc": {
-            "CH": "每有一层<color style='color:#f29e38;'>【追忆刻度】</color>，对随机我方单体造成一次<1>虚数属性伤害，最多<color style='color:#f29e38;'>9</color>层。<br>若没有【追忆刻度】则本技能施放失败。",
+            "CH": "",
             "EN": "For every stack of <color style='color:#f29e38;'>\"Gauge Recollection\"</color>, deal <1> Imaginary DMG to a random target, max <color style='color:#f29e38;'>9</color> stacks.<br>If there is no \"Gauge Recollection\", this ability will fail."
         },
         "SP": 5.0,
@@ -8035,7 +8107,7 @@ var _monsterskill = {
             "EN": "Fleeting Veil"
         },
         "Desc": {
-            "CH": "自身受到的普攻、战技、终结技、追加攻击伤害降低<color style='color:#f29e38;'>10%</color>。<br>任意攻击命中我方后，有<color style='color:#f29e38;'>40%</color>基础概率施加<b>禁锢</b>，持续<color style='color:#f29e38;'>1</color>回合。<br>禁锢：无法行动，行动延后<color style='color:#f29e38;'>50%</color>。",
+            "CH": "",
             "EN": "Reduces DMG received from Basic ATKs, Skills, Ultimates, and follow-up attacks by <color style='color:#f29e38;'>10%</color>.<br>After attacking a target, has <color style='color:#f29e38;'>40%</color> Base Chance to inflict <b>Imprisonment</b> for <color style='color:#f29e38;'>1</color> turn.<br>Imprisonment: Cannot take action, action delays by <color style='color:#f29e38;'>50%</color>."
         },
         "SP": 0,
@@ -8050,7 +8122,7 @@ var _monsterskill = {
             "EN": "Binding of the Golden Age"
         },
         "Desc": {
-            "CH": "使自身进入蓄力状态并获得<color style='color:#f29e38;'>9</color>层<color style='color:#f29e38;'>【追忆刻度】</color>，下次行动施放<color style='color:#f29e38;'>【黄金年代的解放】</color>。每次受到攻击后失去1层【追忆刻度】。",
+            "CH": "",
             "EN": "Enters the Charge state and gains <color style='color:#f29e38;'>9</color> <color style='color:#f29e38;'>Gauge Recollection</color> stacks. Casts <color style='color:#f29e38;'>Liberation of the Golden Age</color> in the next action. Every time this unit is attacked, lose 1 stack of Gauge Recollection."
         },
         "SP": 0,
@@ -8068,7 +8140,7 @@ var _monsterskill = {
             "EN": "Liberation of the Golden Age"
         },
         "Desc": {
-            "CH": "dev_连续对我方随机单体造成虚数属性伤害，若没有能量球则本技能施放失败。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -8080,11 +8152,12 @@ var _monsterskill = {
             "EN": "Liberation of the Golden Age"
         },
         "Desc": {
-            "CH": "连续对我方随机单体造成虚数属性伤害，若没有【追忆刻度】则本技能施放失败。",
+            "CH": "",
             "EN": "Deals successive Imaginary DMG to a random target. If there are no Gauge Recollection stacks, this ability will fail."
         },
         "SP": 5.0,
-        "Elem": "Imaginary"
+        "Elem": "Imaginary",
+        "Threat": true
     },
     "800304109": {
         "Key": "Skill08",
@@ -8093,7 +8166,7 @@ var _monsterskill = {
             "EN": "Fleeting Gilded Spikes"
         },
         "Desc": {
-            "CH": "dev_使用「追忆刻度」对指定我方单体造成虚数属性伤害。",
+            "CH": "",
             "EN": ""
         },
         "SP": 10.0,
@@ -8106,7 +8179,7 @@ var _monsterskill = {
             "EN": "Obliterate"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>量子属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Quantum DMG to a single target."
         },
         "SP": 10.0,
@@ -8122,7 +8195,7 @@ var _monsterskill = {
             "EN": "Obliterate"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>虚数属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to a single target."
         },
         "SP": 10.0,
@@ -8138,7 +8211,7 @@ var _monsterskill = {
             "EN": "Hunting Blade"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>虚数属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to a single target."
         },
         "SP": 10.0,
@@ -8154,7 +8227,7 @@ var _monsterskill = {
             "EN": "Vortex Leap"
         },
         "Desc": {
-            "CH": "对指定我方单体及其相邻目标造成<1>虚数属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to a single target and units adjacent to the target."
         },
         "SP": 5.0,
@@ -8170,7 +8243,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "施放攻击后使自身速度提高<color style='color:#f29e38;'>35%</color>，持续<color style='color:#f29e38;'>2回合，最多叠加<color style='color:#f29e38;'>3</color>层。",
+            "CH": "",
             "EN": "After attacking, increases SPD by <color style='color:#f29e38;'>35%</color> for <color style='color:#f29e38;'>2</color> turns, max <color style='color:#f29e38;'>3</color> stacks."
         },
         "SP": 0,
@@ -8185,7 +8258,7 @@ var _monsterskill = {
             "EN": "Nihility's Command"
         },
         "Desc": {
-            "CH": "<b>锁定</b>我方随机单体，使其成为敌方全体的攻击目标，且受到的伤害提升<color style='color:#f29e38;'>10%</color>。",
+            "CH": "",
             "EN": "<b>Locks Onto</b> a random unit on your team, making them the target for incoming attacks from all of their enemies, and making all incoming DMG increase by <color style='color:#f29e38;'>10%</color>."
         },
         "SP": 0,
@@ -8201,7 +8274,7 @@ var _monsterskill = {
             "EN": "Shadowless Void Strike"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>量子属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Quantum DMG to a single target."
         },
         "SP": 15.0,
@@ -8217,7 +8290,7 @@ var _monsterskill = {
             "EN": "Nihility's Command"
         },
         "Desc": {
-            "CH": "<b>锁定</b>我方随机单体，使其成为敌方全体的攻击目标，且受到的伤害提升<color style='color:#f29e38;'>10%</color>。",
+            "CH": "",
             "EN": "<b>Locks Onto</b> a random unit on your team, making them the target for incoming attacks from all of their enemies, and making all incoming DMG increase by <color style='color:#f29e38;'>10%</color>."
         },
         "SP": 0,
@@ -8233,7 +8306,7 @@ var _monsterskill = {
             "EN": "Shadowless Void Strike"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>量子属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Quantum DMG to a single target."
         },
         "SP": 15.0,
@@ -8249,7 +8322,7 @@ var _monsterskill = {
             "EN": "Void Cannon"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>虚数属性伤害，同时自身陷入<color style='color:#f29e38;'>【超负荷】</color>状态。<br>受到攻击的我方陷入<color style='color:#f29e38;'>【起爆】</color>状态：受到攻击时，额外受到<2>虚数属性伤害的追加攻击，持续<color style='color:#f29e38;'>2</color>回合。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to a single target, and gets itself <color style='color:#f29e38;'>Overloaded</color>.<br> Afflicts the target with <color style='color:#f29e38;'>Detonated</color>: When being hit, suffers from a Pursued Attack dealing <2> Imaginary DMG. This effect lasts <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 15.0,
@@ -8270,7 +8343,7 @@ var _monsterskill = {
             "EN": "Thermal Barrier"
         },
         "Desc": {
-            "CH": "解除自身的<color style='color:#f29e38;'>【超负荷】</color>状态。",
+            "CH": "",
             "EN": "Dispels this unit's <color style='color:#f29e38;'>Overloaded</color> state."
         },
         "SP": 0,
@@ -8285,7 +8358,7 @@ var _monsterskill = {
             "EN": "Unreal Projection"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>量子属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Quantum DMG to a single target."
         },
         "SP": 10.0,
@@ -8301,7 +8374,7 @@ var _monsterskill = {
             "EN": "Rule of Force"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>量子属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Quantum DMG to a single target."
         },
         "SP": 15.0,
@@ -8317,7 +8390,7 @@ var _monsterskill = {
             "EN": "War Trample"
         },
         "Desc": {
-            "CH": "对指定我方单体及其相邻目标造成<1>量子属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Quantum DMG to a single target and units adjacent to the target."
         },
         "SP": 10.0,
@@ -8333,7 +8406,7 @@ var _monsterskill = {
             "EN": "Spiral Arrow"
         },
         "Desc": {
-            "CH": "<b>锁定</b>我方单体，下次行动对该目标施放<color style='color:#f29e38;'>【强弩的终结】</color>。",
+            "CH": "",
             "EN": "<b>Locks On</b> to a single target. Cast <color style='color:#f29e38;'>End of Bow</color> to this target in the next action."
         },
         "SP": 0,
@@ -8352,11 +8425,12 @@ var _monsterskill = {
             "EN": "End of Bow"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>量子属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>纠缠</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>纠缠基础倍率：<2>量子属性伤害，行动延后<color style='color:#f29e38;'>50%</color>。",
+            "CH": "",
             "EN": "Deals <1> Quantum DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Entanglement</b> for <color style='color:#f29e38;'>1</color> turn.<br>Entanglement Base DMG: <2> Quantum DMG, action delayed by <color style='color:#f29e38;'>50%</color>."
         },
         "SP": 25.0,
         "Elem": "Quantum",
+        "Threat": true,
         "Status": [
             30020027
         ],
@@ -8372,7 +8446,7 @@ var _monsterskill = {
             "EN": "Unreal Projection"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>量子属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Quantum DMG to a single target."
         },
         "SP": 10.0,
@@ -8388,7 +8462,7 @@ var _monsterskill = {
             "EN": "Rule of Force"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>量子属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Quantum DMG to a single target."
         },
         "SP": 15.0,
@@ -8404,7 +8478,7 @@ var _monsterskill = {
             "EN": "War Trample"
         },
         "Desc": {
-            "CH": "对指定我方单体及其相邻目标造成<1>量子属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Quantum DMG to a single target and units adjacent to the target."
         },
         "SP": 10.0,
@@ -8420,7 +8494,7 @@ var _monsterskill = {
             "EN": "Spiral Arrow"
         },
         "Desc": {
-            "CH": "<b>锁定</b>我方单体，下次行动对该目标施放<color style='color:#f29e38;'>【强弩的终结】</color>。",
+            "CH": "",
             "EN": "<b>Locks On</b> to a single target. Cast <color style='color:#f29e38;'>End of Bow</color> to this target in the next action."
         },
         "SP": 0,
@@ -8439,11 +8513,12 @@ var _monsterskill = {
             "EN": "End of Bow"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>量子属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>纠缠</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>纠缠基础倍率：<2>量子属性伤害，行动延后<color style='color:#f29e38;'>100%</color>。",
+            "CH": "",
             "EN": "Deals <1> Quantum DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Entanglement</b> for <color style='color:#f29e38;'>1</color> turn.<br>Entanglement Base DMG: <2> Quantum DMG, action delayed by <color style='color:#f29e38;'>100%</color>."
         },
         "SP": 25.0,
         "Elem": "Quantum",
+        "Threat": true,
         "Status": [
             30020027
         ],
@@ -8459,7 +8534,7 @@ var _monsterskill = {
             "EN": "Unreal Projection"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>量子属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Quantum DMG to a single target."
         },
         "SP": 10.0,
@@ -8475,7 +8550,7 @@ var _monsterskill = {
             "EN": "Rule of Force"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>量子属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Quantum DMG to a single target."
         },
         "SP": 15.0,
@@ -8491,7 +8566,7 @@ var _monsterskill = {
             "EN": "War Trample"
         },
         "Desc": {
-            "CH": "对指定我方单体及其相邻目标造成<1>量子属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Quantum DMG to a single target and units adjacent to the target."
         },
         "SP": 10.0,
@@ -8507,7 +8582,7 @@ var _monsterskill = {
             "EN": "Spiral Arrow"
         },
         "Desc": {
-            "CH": "<b>锁定</b>我方单体，下次行动对该目标施放<color style='color:#f29e38;'>【强弩的终结】</color>。",
+            "CH": "",
             "EN": "<b>Locks On</b> to a single target. Cast <color style='color:#f29e38;'>End of Bow</color> to this target in the next action."
         },
         "SP": 0,
@@ -8526,11 +8601,12 @@ var _monsterskill = {
             "EN": "End of Bow"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>量子属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Quantum DMG to a single target."
         },
         "SP": 25.0,
         "Elem": "Quantum",
+        "Threat": true,
         "DMG": [
             9.0
         ]
@@ -8542,7 +8618,7 @@ var _monsterskill = {
             "EN": "Acchata: Forming Winds"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>风属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to a single target."
         },
         "SP": 10.0,
@@ -8558,7 +8634,7 @@ var _monsterskill = {
             "EN": "Cleansing Sweep"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>风属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to all targets."
         },
         "SP": 10.0,
@@ -8574,7 +8650,7 @@ var _monsterskill = {
             "EN": "Weaving Roots"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>风属性伤害，并使受到攻击的我方目标行动延后<color style='color:#f29e38;'>30%</color>。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to a single target and delays their actionby <color style='color:#f29e38;'>30%</color>."
         },
         "SP": 15.0,
@@ -8590,7 +8666,7 @@ var _monsterskill = {
             "EN": "Burgeoning Bloom"
         },
         "Desc": {
-            "CH": "召唤<color style='color:#f29e38;'>【丰饶玄莲】</color>。",
+            "CH": "",
             "EN": "Summons <color style='color:#f29e38;'>Abundance Lotus</color>."
         },
         "SP": 0,
@@ -8605,7 +8681,7 @@ var _monsterskill = {
             "EN": "Acchata: Roaring Thunder"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>雷属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to a single target."
         },
         "SP": 10.0,
@@ -8621,11 +8697,12 @@ var _monsterskill = {
             "EN": "Starfall, Mooncry"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>雷属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to all targets."
         },
         "SP": 15.0,
         "Elem": "Elec",
+        "Threat": true,
         "DMG": [
             4.5
         ]
@@ -8637,7 +8714,7 @@ var _monsterskill = {
             "EN": "Kalpa Descend"
         },
         "Desc": {
-            "CH": "<b>锁定</b>我方单体并使【破灭玄莲】进入<color style='color:#f29e38;'>【绽放】</color>状态，同时解除【破灭玄莲】的<color style='color:#f29e38;'>【弱点无效】</color>效果。<br>【破灭玄莲】下次行动施放<color style='color:#f29e38;'>【破灭】</color>。",
+            "CH": "",
             "EN": "<b>Lock On</b> a target and cause Destruction Lotus to <color style='color:#f29e38;'>Bloom</color>. At the same time, dispel Destruction Lotus's <color style='color:#f29e38;'>Weakness Protected</color> effect. <br>Destruction Lotus's will use <color style='color:#f29e38;'>Havoc</color> during its next action."
         },
         "SP": 0,
@@ -8657,7 +8734,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_对指定我方单体造成巨额虚数属性伤害。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0,
@@ -8670,7 +8747,7 @@ var _monsterskill = {
             "EN": "Furor"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>虚数属性伤害，对其相邻目标造成<2>虚数属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to a single target and <2> Imaginary DMG to adjacent targets."
         },
         "SP": 25.0,
@@ -8687,11 +8764,12 @@ var _monsterskill = {
             "EN": "Arbor Apotheosis"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>虚数属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to all targets."
         },
         "SP": 30.0,
         "Elem": "Imaginary",
+        "Threat": true,
         "DMG": [
             3.6
         ]
@@ -8703,7 +8781,7 @@ var _monsterskill = {
             "EN": "Weaving Roots"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>虚数属性伤害，并使受到攻击的我方目标行动延后<color style='color:#f29e38;'>30%</color>。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to a single target and delays their action by <color style='color:#f29e38;'>30%."
         },
         "SP": 30.0,
@@ -8719,7 +8797,7 @@ var _monsterskill = {
             "EN": "Burgeoning Bloom"
         },
         "Desc": {
-            "CH": "召唤<color style='color:#f29e38;'>【丰饶玄莲】</color>。",
+            "CH": "",
             "EN": "Summons <color style='color:#f29e38;'>Abundance Lotus</color>."
         },
         "SP": 0,
@@ -8734,7 +8812,7 @@ var _monsterskill = {
             "EN": "Kalpa Descend"
         },
         "Desc": {
-            "CH": "<b>锁定</b>我方单体并使【破灭玄莲】进入<color style='color:#f29e38;'>【绽放】</color>状态，同时解除【破灭玄莲】的<color style='color:#f29e38;'>【弱点无效】</color>效果。<br>【破灭玄莲】下次行动施放<color style='color:#f29e38;'>【破灭】</color>。",
+            "CH": "",
             "EN": "<b>Lock On</b> a target and cause Destruction Lotus to <color style='color:#f29e38;'>Bloom</color>. At the same time, dispel Destruction Lotus's <color style='color:#f29e38;'>Weakness Protected</color> effect. <br>Destruction Lotus's will use <color style='color:#f29e38;'>Havoc</color> during its next action."
         },
         "SP": 0,
@@ -8754,7 +8832,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_对指定我方单体造成巨额虚数属性伤害。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0,
@@ -8767,7 +8845,7 @@ var _monsterskill = {
             "EN": "Acchata: Forming Winds"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>风属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to a single target."
         },
         "SP": 10.0,
@@ -8783,7 +8861,7 @@ var _monsterskill = {
             "EN": "Cleansing Sweep"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>风属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to all targets."
         },
         "SP": 10.0,
@@ -8799,7 +8877,7 @@ var _monsterskill = {
             "EN": "Weaving Roots"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>风属性伤害，并使受到攻击的我方目标行动延后<color style='color:#f29e38;'>30%</color>。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to a single target and delays their actionby <color style='color:#f29e38;'>30%</color>."
         },
         "SP": 15.0,
@@ -8815,7 +8893,7 @@ var _monsterskill = {
             "EN": "Burgeoning Bloom"
         },
         "Desc": {
-            "CH": "召唤<color style='color:#f29e38;'>【丰饶玄莲】</color>。",
+            "CH": "",
             "EN": "Summons <color style='color:#f29e38;'>Abundance Lotus</color>."
         },
         "SP": 0,
@@ -8830,7 +8908,7 @@ var _monsterskill = {
             "EN": "Acchata: Roaring Thunder"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>雷属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to a single target."
         },
         "SP": 10.0,
@@ -8846,11 +8924,12 @@ var _monsterskill = {
             "EN": "Starfall, Mooncry"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>雷属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to all targets."
         },
         "SP": 15.0,
         "Elem": "Elec",
+        "Threat": true,
         "DMG": [
             4.5
         ]
@@ -8862,7 +8941,7 @@ var _monsterskill = {
             "EN": "Kalpa Descend"
         },
         "Desc": {
-            "CH": "<b>锁定</b>我方单体并使【破灭玄莲】进入<color style='color:#f29e38;'>【绽放】</color>状态，同时解除【破灭玄莲】的<color style='color:#f29e38;'>【弱点无效】</color>效果。<br>【破灭玄莲】下次行动施放<color style='color:#f29e38;'>【破灭】</color>。",
+            "CH": "",
             "EN": "<b>Lock On</b> a target and cause Destruction Lotus to <color style='color:#f29e38;'>Bloom</color>. At the same time, dispel Destruction Lotus's <color style='color:#f29e38;'>Weakness Protected</color> effect. <br>Destruction Lotus's will use <color style='color:#f29e38;'>Havoc</color> during its next action."
         },
         "SP": 0,
@@ -8882,7 +8961,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_对指定我方单体造成巨额虚数属性伤害。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0,
@@ -8895,7 +8974,7 @@ var _monsterskill = {
             "EN": "Furor"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>虚数属性伤害，对其相邻目标造成<2>虚数属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to a single target and <2> Imaginary DMG to adjacent targets."
         },
         "SP": 25.0,
@@ -8912,11 +8991,12 @@ var _monsterskill = {
             "EN": "Arbor Apotheosis"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>虚数属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to all targets."
         },
         "SP": 30.0,
         "Elem": "Imaginary",
+        "Threat": true,
         "DMG": [
             3.6
         ]
@@ -8928,7 +9008,7 @@ var _monsterskill = {
             "EN": "Weaving Roots"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>虚数属性伤害，并使受到攻击的我方目标行动延后<color style='color:#f29e38;'>30%</color>。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to a single target and delays their action by <color style='color:#f29e38;'>30%."
         },
         "SP": 30.0,
@@ -8944,7 +9024,7 @@ var _monsterskill = {
             "EN": "Burgeoning Bloom"
         },
         "Desc": {
-            "CH": "召唤<color style='color:#f29e38;'>【丰饶玄莲】</color>。",
+            "CH": "",
             "EN": "Summons <color style='color:#f29e38;'>Abundance Lotus</color>."
         },
         "SP": 0,
@@ -8959,7 +9039,7 @@ var _monsterskill = {
             "EN": "Kalpa Descend"
         },
         "Desc": {
-            "CH": "<b>锁定</b>我方单体并使【破灭玄莲】进入<color style='color:#f29e38;'>【绽放】</color>状态，同时解除【破灭玄莲】的<color style='color:#f29e38;'>【弱点无效】</color>效果。<br>【破灭玄莲】下次行动施放<color style='color:#f29e38;'>【破灭】</color>。",
+            "CH": "",
             "EN": "<b>Lock On</b> a target and cause Destruction Lotus to <color style='color:#f29e38;'>Bloom</color>. At the same time, dispel Destruction Lotus's <color style='color:#f29e38;'>Weakness Protected</color> effect. <br>Destruction Lotus's will use <color style='color:#f29e38;'>Havoc</color> during its next action."
         },
         "SP": 0,
@@ -8979,7 +9059,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_对指定我方单体造成巨额虚数属性伤害。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0,
@@ -8992,7 +9072,7 @@ var _monsterskill = {
             "EN": "Samsara"
         },
         "Desc": {
-            "CH": "使我方战技点减少<color style='color:#f29e38;'>1</color>个。",
+            "CH": "",
             "EN": "Reduces <color style='color:#f29e38;'>1</color> Skill Point of the target."
         },
         "SP": 0
@@ -9004,7 +9084,7 @@ var _monsterskill = {
             "EN": "Moksha"
         },
         "Desc": {
-            "CH": "受到致命攻击后使我方战技点恢复<color style='color:#f29e38;'>3</color>个。",
+            "CH": "",
             "EN": "After suffering a killing blow, restores <color style='color:#f29e38;'>3</color> Skill Points of the target."
         },
         "SP": 0
@@ -9016,7 +9096,7 @@ var _monsterskill = {
             "EN": "Mend"
         },
         "Desc": {
-            "CH": "每回合开始时，回复<color style='color:#f29e38;'>50%生命值上限</color>。",
+            "CH": "",
             "EN": "At the start of each turn, restores <color style='color:#f29e38;'>50% Max HP</color>."
         },
         "SP": 0,
@@ -9031,7 +9111,7 @@ var _monsterskill = {
             "EN": "Samsara"
         },
         "Desc": {
-            "CH": "使我方战技点减少<color style='color:#f29e38;'>1</color>个。",
+            "CH": "",
             "EN": "Reduces <color style='color:#f29e38;'>1</color> Skill Point of the target."
         },
         "SP": 0
@@ -9043,7 +9123,7 @@ var _monsterskill = {
             "EN": "Moksha"
         },
         "Desc": {
-            "CH": "受到致命攻击后使我方战技点恢复<color style='color:#f29e38;'>3</color>个。",
+            "CH": "",
             "EN": "After suffering a killing blow, restores <color style='color:#f29e38;'>3</color> Skill Points of the target."
         },
         "SP": 0
@@ -9055,7 +9135,7 @@ var _monsterskill = {
             "EN": "Mend"
         },
         "Desc": {
-            "CH": "每回合开始时，回复<color style='color:#f29e38;'>50%生命值上限</color>。",
+            "CH": "",
             "EN": "At the start of each turn, restores <color style='color:#f29e38;'>50% Max HP</color>."
         },
         "SP": 0,
@@ -9070,7 +9150,7 @@ var _monsterskill = {
             "EN": "Samsara"
         },
         "Desc": {
-            "CH": "使我方战技点减少<color style='color:#f29e38;'>1</color>个。",
+            "CH": "",
             "EN": "Reduces <color style='color:#f29e38;'>1</color> Skill Point of the target."
         },
         "SP": 0
@@ -9082,7 +9162,7 @@ var _monsterskill = {
             "EN": "Moksha"
         },
         "Desc": {
-            "CH": "受到致命攻击后使我方战技点恢复<color style='color:#f29e38;'>3</color>个。",
+            "CH": "",
             "EN": "After suffering a killing blow, restores <color style='color:#f29e38;'>3</color> Skill Points of the target."
         },
         "SP": 0
@@ -9094,7 +9174,7 @@ var _monsterskill = {
             "EN": "Mend"
         },
         "Desc": {
-            "CH": "每回合开始时，回复<color style='color:#f29e38;'>50%生命值上限</color>。",
+            "CH": "",
             "EN": "At the start of each turn, restores <color style='color:#f29e38;'>50% Max HP</color>."
         },
         "SP": 0,
@@ -9109,7 +9189,7 @@ var _monsterskill = {
             "EN": "Samsara"
         },
         "Desc": {
-            "CH": "使我方战技点减少<color style='color:#f29e38;'>1</color>个。",
+            "CH": "",
             "EN": "Reduces <color style='color:#f29e38;'>1</color> Skill Point of the target."
         },
         "SP": 0
@@ -9121,7 +9201,7 @@ var _monsterskill = {
             "EN": "Moksha"
         },
         "Desc": {
-            "CH": "受到致命攻击后使我方战技点恢复<color style='color:#f29e38;'>3</color>个。",
+            "CH": "",
             "EN": "After suffering a killing blow, restores <color style='color:#f29e38;'>3</color> Skill Points of the target."
         },
         "SP": 0
@@ -9133,7 +9213,7 @@ var _monsterskill = {
             "EN": "Mend"
         },
         "Desc": {
-            "CH": "每回合开始时，回复<color style='color:#f29e38;'>50%生命值上限</color>。",
+            "CH": "",
             "EN": "At the start of each turn, restores <color style='color:#f29e38;'>50% Max HP</color>."
         },
         "SP": 0,
@@ -9148,7 +9228,7 @@ var _monsterskill = {
             "EN": "Black Prana's Snare"
         },
         "Desc": {
-            "CH": "有<color style='color:#f29e38;'>100%</color>基础概率使指定我方单体陷入<color style='color:#f29e38;'>【噬命】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>噬命：可回复的生命值上限降低<color style='color:#f29e38;'>40%</color>。",
+            "CH": "",
             "EN": "Has <color style='color:#f29e38;'>100%</color> Base Chance of afflicting a target with <color style='color:#f29e38;'>Prana-Siphon</color> for <color style='color:#f29e38;'>2</color> turns.<br>Prana-Siphon: Decreases Maximum Recoverable HP by <color style='color:#f29e38;'>40%</color>."
         },
         "SP": 10.0,
@@ -9163,7 +9243,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_休眠。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -9175,11 +9255,12 @@ var _monsterskill = {
             "EN": "Havoc"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<color style='color:#f29e38;'>59%目标生命值上限</color>雷属性伤害，该伤害<color style='color:#f29e38;'>无视目标的防御力</color>。",
+            "CH": "",
             "EN": "Deals <color style='color:#f29e38;'>59% Target Max HP</color> Lightning DMG to a single target. This DMG <color style='color:#f29e38;'>ignores the target's DEF</color>."
         },
         "SP": 20.0,
-        "Elem": "Elec"
+        "Elem": "Elec",
+        "Threat": true
     },
     "801221005": {
         "Key": "PassiveSkill01",
@@ -9188,7 +9269,7 @@ var _monsterskill = {
             "EN": "Repose"
         },
         "Desc": {
-            "CH": "受到致命攻击后进入<color style='color:#f29e38;'>【休眠】</color>状态。",
+            "CH": "",
             "EN": "After suffering a killing blow, enters <color style='color:#f29e38;'>Repose</color>."
         },
         "SP": 0,
@@ -9203,7 +9284,7 @@ var _monsterskill = {
             "EN": "Bloom"
         },
         "Desc": {
-            "CH": "<color style='color:#f29e38;'>【绽放】</color>状态下，下次行动施放<color style='color:#f29e38;'>【破灭】</color>。<br>当【破灭玄莲】处于【绽放】状态下被弱点击破、消灭或【绽放】状态被解除时，【不死神实•幻胧】陷入<color style='color:#f29e38;'>易伤</color>：行动延后<color style='color:#f29e38;'>50%</color>，受到的伤害提高<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>1</color>回合，最多叠加<color style='color:#f29e38;'>2</color>层。",
+            "CH": "",
             "EN": "When this unit is in the <color style='color:#f29e38;'>Bloom</color> status, it will use <color style='color:#f29e38;'>Havoc</color> in its next action. <br>When the Destruction Lotus is Weakness Broken, defeated, or having the Bloom dispelled while in Bloom, Phantylia the Undying receives <color style='color:#f29e38;'>Vulnerability</color>: Takes <color style='color:#f29e38;'>50%</color> increased DMG for <color style='color:#f29e38;'>1</color> turn and have their action delayed by <color style='color:#f29e38;'>50%</color>, max <color style='color:#f29e38;'>2</color> stacks."
         },
         "SP": 0,
@@ -9220,7 +9301,7 @@ var _monsterskill = {
             "EN": "Black Prana's Snare"
         },
         "Desc": {
-            "CH": "有<color style='color:#f29e38;'>100%</color>基础概率使指定我方单体陷入<color style='color:#f29e38;'>【噬命】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>噬命：可回复的生命值上限降低<color style='color:#f29e38;'>40%</color>。",
+            "CH": "",
             "EN": "Has <color style='color:#f29e38;'>100%</color> Base Chance of afflicting a target with <color style='color:#f29e38;'>Prana-Siphon</color> for <color style='color:#f29e38;'>2</color> turns.<br>Prana-Siphon: Decreases Maximum Recoverable HP by <color style='color:#f29e38;'>40%</color>."
         },
         "SP": 20.0,
@@ -9235,7 +9316,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_休眠。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -9247,11 +9328,12 @@ var _monsterskill = {
             "EN": "Havoc"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<color style='color:#f29e38;'>59%目标生命值上限</color>虚数属性伤害，该伤害<color style='color:#f29e38;'>无视目标的防御力</color>。",
+            "CH": "",
             "EN": "Deals <color style='color:#f29e38;'>59% Target Max HP</color> Imaginary DMG to a single target. This DMG <color style='color:#f29e38;'>ignores the target's DEF</color>."
         },
         "SP": 40.0,
-        "Elem": "Imaginary"
+        "Elem": "Imaginary",
+        "Threat": true
     },
     "801221105": {
         "Key": "PassiveSkill01",
@@ -9260,7 +9342,7 @@ var _monsterskill = {
             "EN": "Repose"
         },
         "Desc": {
-            "CH": "受到致命攻击后进入<color style='color:#f29e38;'>【休眠】</color>状态。",
+            "CH": "",
             "EN": "After suffering a killing blow, enters <color style='color:#f29e38;'>Repose</color>."
         },
         "SP": 0,
@@ -9275,7 +9357,7 @@ var _monsterskill = {
             "EN": "Bloom"
         },
         "Desc": {
-            "CH": "<color style='color:#f29e38;'>【绽放】</color>状态下，下次行动施放<color style='color:#f29e38;'>【破灭】</color>。<br>当【破灭玄莲】处于【绽放】状态下被弱点击破、消灭或【绽放】状态被解除时，【不死神实•幻胧】陷入<color style='color:#f29e38;'>易伤</color>：行动延后<color style='color:#f29e38;'>50%</color>，受到的伤害提高<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>1</color>回合，最多叠加<color style='color:#f29e38;'>2</color>层。",
+            "CH": "",
             "EN": "When this unit is in the <color style='color:#f29e38;'>Bloom</color> status, it will use <color style='color:#f29e38;'>Havoc</color> in its next action. <br>When the Destruction Lotus is Weakness Broken, defeated, or having the Bloom dispelled while in Bloom, Phantylia the Undying receives <color style='color:#f29e38;'>Vulnerability</color>: Takes <color style='color:#f29e38;'>50%</color> increased DMG for <color style='color:#f29e38;'>1</color> turn and have their action delayed by <color style='color:#f29e38;'>50%</color>, max <color style='color:#f29e38;'>2</color> stacks."
         },
         "SP": 0,
@@ -9292,7 +9374,7 @@ var _monsterskill = {
             "EN": "Black Prana's Snare"
         },
         "Desc": {
-            "CH": "有<color style='color:#f29e38;'>100%</color>基础概率使指定我方单体陷入<color style='color:#f29e38;'>【噬命】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>噬命：可回复的生命值上限降低<color style='color:#f29e38;'>40%</color>。",
+            "CH": "",
             "EN": "Has <color style='color:#f29e38;'>100%</color> Base Chance of afflicting a target with <color style='color:#f29e38;'>Prana-Siphon</color> for <color style='color:#f29e38;'>2</color> turns.<br>Prana-Siphon: Decreases Maximum Recoverable HP by <color style='color:#f29e38;'>40%</color>."
         },
         "SP": 10.0,
@@ -9307,7 +9389,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_休眠。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -9319,11 +9401,12 @@ var _monsterskill = {
             "EN": "Havoc"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<color style='color:#f29e38;'>59%目标生命值上限</color>雷属性伤害，该伤害<color style='color:#f29e38;'>无视目标的防御力</color>。",
+            "CH": "",
             "EN": "Deals <color style='color:#f29e38;'>59% Target Max HP</color> Lightning DMG to a single target. This DMG <color style='color:#f29e38;'>ignores the target's DEF</color>."
         },
         "SP": 20.0,
-        "Elem": "Elec"
+        "Elem": "Elec",
+        "Threat": true
     },
     "801221205": {
         "Key": "PassiveSkill01",
@@ -9332,7 +9415,7 @@ var _monsterskill = {
             "EN": "Repose"
         },
         "Desc": {
-            "CH": "受到致命攻击后进入<color style='color:#f29e38;'>【休眠】</color>状态。",
+            "CH": "",
             "EN": "After suffering a killing blow, enters <color style='color:#f29e38;'>Repose</color>."
         },
         "SP": 0,
@@ -9347,7 +9430,7 @@ var _monsterskill = {
             "EN": "Bloom"
         },
         "Desc": {
-            "CH": "<color style='color:#f29e38;'>【绽放】</color>状态下，下次行动施放<color style='color:#f29e38;'>【破灭】</color>。<br>当【破灭玄莲】处于【绽放】状态下被弱点击破、消灭或【绽放】状态被解除时，【不死神实•幻胧】陷入<color style='color:#f29e38;'>易伤</color>：行动延后<color style='color:#f29e38;'>50%</color>，受到的伤害提高<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>1</color>回合，最多叠加<color style='color:#f29e38;'>2</color>层。",
+            "CH": "",
             "EN": "When this unit is in the <color style='color:#f29e38;'>Bloom</color> status, it will use <color style='color:#f29e38;'>Havoc</color> in its next action. <br>When the Destruction Lotus is Weakness Broken, defeated, or having the Bloom dispelled while in Bloom, Phantylia the Undying receives <color style='color:#f29e38;'>Vulnerability</color>: Takes <color style='color:#f29e38;'>50%</color> increased DMG for <color style='color:#f29e38;'>1</color> turn and have their action delayed by <color style='color:#f29e38;'>50%</color>, max <color style='color:#f29e38;'>2</color> stacks."
         },
         "SP": 0,
@@ -9364,7 +9447,7 @@ var _monsterskill = {
             "EN": "Black Prana's Snare"
         },
         "Desc": {
-            "CH": "有<color style='color:#f29e38;'>100%</color>基础概率使指定我方单体陷入<color style='color:#f29e38;'>【噬命】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>噬命：可回复的生命值上限降低<color style='color:#f29e38;'>40%</color>。",
+            "CH": "",
             "EN": "Has <color style='color:#f29e38;'>100%</color> Base Chance of afflicting a target with <color style='color:#f29e38;'>Prana-Siphon</color> for <color style='color:#f29e38;'>2</color> turns.<br>Prana-Siphon: Decreases Maximum Recoverable HP by <color style='color:#f29e38;'>40%</color>."
         },
         "SP": 20.0,
@@ -9379,7 +9462,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_休眠。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -9391,11 +9474,12 @@ var _monsterskill = {
             "EN": "Havoc"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<color style='color:#f29e38;'>59%目标生命值上限</color>虚数属性伤害，该伤害<color style='color:#f29e38;'>无视目标的防御力</color>。",
+            "CH": "",
             "EN": "Deals <color style='color:#f29e38;'>59% Target Max HP</color> Imaginary DMG to a single target. This DMG <color style='color:#f29e38;'>ignores the target's DEF</color>."
         },
         "SP": 40.0,
-        "Elem": "Imaginary"
+        "Elem": "Imaginary",
+        "Threat": true
     },
     "801221305": {
         "Key": "PassiveSkill01",
@@ -9404,7 +9488,7 @@ var _monsterskill = {
             "EN": "Repose"
         },
         "Desc": {
-            "CH": "受到致命攻击后进入<color style='color:#f29e38;'>【休眠】</color>状态。",
+            "CH": "",
             "EN": "After suffering a killing blow, enters <color style='color:#f29e38;'>Repose</color>."
         },
         "SP": 0,
@@ -9419,7 +9503,7 @@ var _monsterskill = {
             "EN": "Bloom"
         },
         "Desc": {
-            "CH": "<color style='color:#f29e38;'>【绽放】</color>状态下，下次行动施放<color style='color:#f29e38;'>【破灭】</color>。<br>当【破灭玄莲】处于【绽放】状态下被弱点击破、消灭或【绽放】状态被解除时，【不死神实•幻胧】陷入<color style='color:#f29e38;'>易伤</color>：行动延后<color style='color:#f29e38;'>50%</color>，受到的伤害提高<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>1</color>回合，最多叠加<color style='color:#f29e38;'>2</color>层。",
+            "CH": "",
             "EN": "When this unit is in the <color style='color:#f29e38;'>Bloom</color> status, it will use <color style='color:#f29e38;'>Havoc</color> in its next action. <br>When the Destruction Lotus is Weakness Broken, defeated, or having the Bloom dispelled while in Bloom, Phantylia the Undying receives <color style='color:#f29e38;'>Vulnerability</color>: Takes <color style='color:#f29e38;'>50%</color> increased DMG for <color style='color:#f29e38;'>1</color> turn and have their action delayed by <color style='color:#f29e38;'>50%</color>, max <color style='color:#f29e38;'>2</color> stacks."
         },
         "SP": 0,
@@ -9436,7 +9520,7 @@ var _monsterskill = {
             "EN": "Wingflap"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>1</color>层<b>风化</b>状态。<br>风化持续伤害：<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>1</color> stack of <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 10.0,
@@ -9456,7 +9540,7 @@ var _monsterskill = {
             "EN": "Meiotic Division"
         },
         "Desc": {
-            "CH": "繁殖出1名自身的繁衍体，该效果在2回合后可再次触发。",
+            "CH": "",
             "EN": "Produces 1 spawn of itself. This effect can be triggered again after 2 turns."
         },
         "SP": 0,
@@ -9475,7 +9559,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_对指定我方单体造成风属性伤害，并附加1层风化。",
+            "CH": "",
             "EN": ""
         },
         "SP": 10.0,
@@ -9488,7 +9572,7 @@ var _monsterskill = {
             "EN": "Entomon Eulogy"
         },
         "Desc": {
-            "CH": "受到致命攻击时，对敌方全体造成<color style='color:#f29e38;'>50%自身生命值上限</color>风属性伤害和<color style='color:#f29e38;'>1.0</color>风属性削韧，并为其施加<b>易伤</b>：受到的伤害提高<color style='color:#f29e38;'>10%</color>，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+            "CH": "",
             "EN": "When receiving a killing blow, deals <color style='color:#f29e38;'>50% Self Max HP</color> Wind DMG and <color style='color:#f29e38;'>1.0</color> Wind Toughness DMG to all friendly units, and inflict <b>Vulnerability</b>: DMG taken increased by <color style='color:#f29e38;'>10%</color> for <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>10</color> stacks."
         },
         "SP": 0,
@@ -9504,7 +9588,7 @@ var _monsterskill = {
             "EN": "Prepare to Fight"
         },
         "Desc": {
-            "CH": "进入<color style='color:#f29e38;'>蓄力</color>状态，下次行动施放<color style='color:#f29e38;'>【引爆扩散】</color>。",
+            "CH": "",
             "EN": "Enters the <color style='color:#f29e38;'>Charge</color> state. Uses <color style='color:#f29e38;'>Bursting Detonation</color> for the next action."
         },
         "SP": 0,
@@ -9520,11 +9604,12 @@ var _monsterskill = {
             "EN": "Bursting Detonation"
         },
         "Desc": {
-            "CH": "引爆自身，对指定我方单体及相邻目标造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【怒噪】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。",
+            "CH": "",
             "EN": "Detonates self and deals <1> Wind DMG to a single target and its adjacent targets, with a <color style='color:#f29e38;'>100%</color> Base Chance to cause <color style='color:#f29e38;'>Outrage</color> to the attacked targets for <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 10.0,
         "Elem": "Wind",
+        "Threat": true,
         "Status": [
             30020029
         ],
@@ -9539,7 +9624,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_对指定我方单体造成风属性伤害，并附加1层风化。",
+            "CH": "",
             "EN": ""
         },
         "SP": 10.0,
@@ -9552,7 +9637,7 @@ var _monsterskill = {
             "EN": "Entomon Eulogy"
         },
         "Desc": {
-            "CH": "受到致命攻击时，对敌方全体造成<color style='color:#f29e38;'>60%自身生命值上限</color>风属性伤害和<color style='color:#f29e38;'>1.0</color>风属性削韧，并为其施加<color style='color:#f29e38;'>2</color>层<b>易伤</b>：受到的伤害提高<color style='color:#f29e38;'>10%</color>，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+            "CH": "",
             "EN": "When receiving a killing blow, deals <color style='color:#f29e38;'>60% Self Max HP</color> Wind DMG and <color style='color:#f29e38;'>1.0</color> Wind Toughness DMG to all friendly units, and inflict <color style='color:#f29e38;'>2</color> layers of <b>Vulnerability</b>: DMG taken increased by <color style='color:#f29e38;'>10%</color> for <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>10</color> stacks."
         },
         "SP": 0,
@@ -9568,7 +9653,7 @@ var _monsterskill = {
             "EN": "Time to Battle"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>2</color>层<b>风化</b>状态。<br>风化持续伤害：<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>2</color> stacks of <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 10.0,
@@ -9588,7 +9673,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_对指定我方单体及相邻目标造成造成风属性伤害，并将主目标的风化层数扩散给副目标。",
+            "CH": "",
             "EN": ""
         },
         "SP": 10.0,
@@ -9601,7 +9686,7 @@ var _monsterskill = {
             "EN": "War Gear"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>风属性伤害。如受到攻击的目标正处于<color style='color:#f29e38;'>风化</color>状态，则直接造成1次风化伤害。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to a single target. If the target is currently suffering from <color style='color:#f29e38;'>Wind Shear</color>, Wind Shear immediately causes DMG 1 time."
         },
         "SP": 20.0,
@@ -9620,7 +9705,7 @@ var _monsterskill = {
             "EN": "Cyclonic Swarm"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>1</color>层<b>风化</b>状态。<br>风化持续伤害：<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to a all targets, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>1</color> stack of <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 10.0,
@@ -9640,7 +9725,7 @@ var _monsterskill = {
             "EN": "Propagation"
         },
         "Desc": {
-            "CH": "繁殖2~3个<color style='color:#f29e38;'>幼蛰虫</color>或<color style='color:#f29e38;'>次蛰虫</color>。<br><br>如果为一阶段，则产生2个幼蛰虫。<br>如果为二阶段，则第一次繁殖时额外产生1个次蛰虫，后续繁殖时额外随机产生1个幼蛰虫或次蛰虫，各占50%概率。<br>如果为三阶段，则额外产生1个次蛰虫。",
+            "CH": "",
             "EN": "Spawns 2~3 <color style='color:#f29e38;'>Juvenile True Sting</color> or <color style='color:#f29e38;'>Lesser True Sting</color>.<br><br>In Phase 1, spawns 2 Juvenile True Stings.<br>In Phase 2, the first Propagation spawns an extra 1 Lesser True Sting, the next Propagations spawn an extra 1 Juvenile True Sting or Lesser True Sting randomly with 50% chance each.<br>In Phase 3, spawns an extra 1 Lesser True Sting."
         },
         "SP": 0,
@@ -9656,7 +9741,7 @@ var _monsterskill = {
             "EN": "Ready Order"
         },
         "Desc": {
-            "CH": "进入蓄力状态，下次行动施放<color style='color:#f29e38;'>【虫群突袭】</color>。",
+            "CH": "",
             "EN": "Enters the Charge state. Uses <color style='color:#f29e38;'>Swarm Onslaught</color> for the next action."
         },
         "SP": 0,
@@ -9671,11 +9756,12 @@ var _monsterskill = {
             "EN": "Swarm Onslaught"
         },
         "Desc": {
-            "CH": "解除场上所有真蛰虫群的控制类负面状态与弱点击破状态。<br>对我方全体造成<1>风属性伤害。场上存在0</color>1</color>2</color>3</color>4个其他怪物时，连续0</color>4</color>5</color>6</color>7次对我方随机单体造成<2>风属性伤害。<br>我方每次受到伤害时，都有<color style='color:#f29e38;'>100%</color>基础概率陷入<color style='color:#f29e38;'>1</color>层<b>风化</b>状态。<br>为所有角色恢复<color style='color:#f29e38;'>5</color>能量",
+            "CH": "",
             "EN": "Dispels all Crowd Control debuffs and Weakness Break affecting True Stings.<br>Deals <1> Wind DMG to all targets. When there are 0</color>1</color>2</color>3</color>4 other monsters on field, repeat 0</color>4</color>5</color>6</color>7 times: Deal <2> Wind DMG to a random target.<br>Every time a character takes DMG, there is a <color style='color:#f29e38;'>100%</color> Base Chance of being inflicted with <color style='color:#f29e38;'>1</color> stack of <b>Wind Shear</b>.<br>Revive <color style='color:#f29e38;'>5</color> energy for all characters"
         },
         "SP": 10.0,
         "Elem": "Wind",
+        "Threat": true,
         "DMG": [
             2.0,
             1.0
@@ -9688,7 +9774,7 @@ var _monsterskill = {
             "EN": "Swarm Onslaught"
         },
         "Desc": {
-            "CH": "解除场上所有真蛰虫群的控制类负面状态与弱点击破状态，并对我方目标造成风属性伤害，使我方目标每次受到攻击时大概率陷入1层风化状态。",
+            "CH": "",
             "EN": ""
         },
         "SP": 10.0,
@@ -9701,7 +9787,7 @@ var _monsterskill = {
             "EN": "Transmission Pheromone"
         },
         "Desc": {
-            "CH": "场上每繁殖出1个真蛰虫，所有真蛰虫群造成伤害提高<color style='color:#f29e38;'>8%</color>。<br>场上仅能有1个【传衍信息素】效果生效。",
+            "CH": "",
             "EN": "Each time a True Sting is spawned, all True Stings increase DMG dealt by <color style='color:#f29e38;'>8%</color>.<br>Only 1 Transmission Pheromone effect can exist in battle at once."
         },
         "SP": 0,
@@ -9716,7 +9802,7 @@ var _monsterskill = {
             "EN": "Entomon Eulogy"
         },
         "Desc": {
-            "CH": "受到致命攻击时，对敌方全体造成<color style='color:#f29e38;'>20%自身生命值上限</color>风属性伤害和<color style='color:#f29e38;'>1.0</color>风属性削韧，并为其施加<color style='color:#f29e38;'>2</color>层<b>易伤</b>：受到的伤害提高<color style='color:#f29e38;'>10%</color>，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+            "CH": "",
             "EN": "When receiving a killing blow, deals <color style='color:#f29e38;'>20% Self Max HP</color> Wind DMG and <color style='color:#f29e38;'>1.0</color> Wind Toughness DMG to all friendly units, and inflict <color style='color:#f29e38;'>2</color> layers of <b>Vulnerability</b>: DMG taken increased by <color style='color:#f29e38;'>10%</color> for <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>10</color> stacks."
         },
         "SP": 0,
@@ -9732,7 +9818,7 @@ var _monsterskill = {
             "EN": "Clock In"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 10.0,
@@ -9748,7 +9834,7 @@ var _monsterskill = {
             "EN": "Performance Boost"
         },
         "Desc": {
-            "CH": "每次施放攻击后获得1个【绩效点】：造成的伤害提升<color style='color:#f29e38;'>50%</color>。<br>【绩效点】可在自身弱点被击破时或自身被消灭时被攻击者夺取。",
+            "CH": "",
             "EN": "Receives 1 <color style='color:#f29e38;'>Performance Point</color> after unleashing an attack, increasing DMG dealt by <color style='color:#f29e38;'>50%</color>.<br>Performance Points can be seized by the attacker when this unit's Weakness is Broken or is defeated."
         },
         "SP": 0,
@@ -9763,7 +9849,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_获得1枚金币后进入强化状态。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -9775,7 +9861,7 @@ var _monsterskill = {
             "EN": "Appeal"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害，对相邻目标造成<2>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target and <2> Physical DMG to adjacent units."
         },
         "SP": 10.0,
@@ -9792,7 +9878,7 @@ var _monsterskill = {
             "EN": "Performance Boost"
         },
         "Desc": {
-            "CH": "每次施放攻击后获得1个【绩效点】：造成的伤害提升<color style='color:#f29e38;'>50%</color>。<br>【绩效点】可在自身弱点被击破时或自身被消灭时被攻击者夺取。",
+            "CH": "",
             "EN": "Receives 1 <color style='color:#f29e38;'>Performance Point</color> after unleashing an attack, increasing DMG dealt by <color style='color:#f29e38;'>50%</color>.<br>Performance Points can be seized by the attacker when this unit's Weakness is Broken or is defeated."
         },
         "SP": 0,
@@ -9807,7 +9893,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_获得1枚金币后进入强化状态。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -9819,7 +9905,7 @@ var _monsterskill = {
             "EN": "Disciplined"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 10.0,
@@ -9835,7 +9921,7 @@ var _monsterskill = {
             "EN": "In Training..."
         },
         "Desc": {
-            "CH": "进入蓄力状态，下次行动施放<color style='color:#f29e38;'>【企业文化冲击】</color>。",
+            "CH": "",
             "EN": "Enters the Charge state. Uses <color style='color:#f29e38;'>Work Culture Shock</color> in the next action."
         },
         "SP": 0,
@@ -9850,11 +9936,12 @@ var _monsterskill = {
             "EN": "Work Culture Shock"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to all targets."
         },
         "SP": 20.0,
         "Elem": "Phys",
+        "Threat": true,
         "DMG": [
             3.6
         ]
@@ -9866,7 +9953,7 @@ var _monsterskill = {
             "EN": "720-Degree Review"
         },
         "Desc": {
-            "CH": "夺取所有【基层员工•外勤】和【基层员工•安保】的<color style='color:#f29e38;'>【绩效点】</color>。",
+            "CH": "",
             "EN": "Seizes all <color style='color:#f29e38;'>Performance Points</color> from Grunt — Field Personnel and Grunt — Security Personnel."
         },
         "SP": 0,
@@ -9881,7 +9968,7 @@ var _monsterskill = {
             "EN": "Team Building"
         },
         "Desc": {
-            "CH": "召唤【基层员工•外勤】或【基层员工•安保】，并使所有【基层员工•外勤】和【基层员工•安保】获得1个<color style='color:#f29e38;'>【绩效点】</color>。",
+            "CH": "",
             "EN": "Summons Interastral Peace Corporation Employee, and gives a <color style='color:#f29e38;'>Performance Point</color> to all of them."
         },
         "SP": 0,
@@ -9897,7 +9984,7 @@ var _monsterskill = {
             "EN": "Cost Reduction"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 15.0,
@@ -9913,7 +10000,7 @@ var _monsterskill = {
             "EN": "Performance Boost"
         },
         "Desc": {
-            "CH": "每次施放攻击后获得1个【绩效点】：造成的伤害提升<color style='color:#f29e38;'>50%</color>。<br>【绩效点】可在自身弱点被击破时或自身被消灭时被攻击者夺取。",
+            "CH": "",
             "EN": "Receives 1 <color style='color:#f29e38;'>Performance Point</color> after unleashing an attack, increasing DMG dealt by <color style='color:#f29e38;'>50%</color>.<br>Performance Points can be seized by the attacker when this unit's Weakness is Broken or is defeated."
         },
         "SP": 0,
@@ -9928,7 +10015,7 @@ var _monsterskill = {
             "EN": "Watchful Meteor"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>风化</b>状态。<br>风化持续伤害：每层<2>风属性伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to a single target and has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG per stack. Lasts <color style='color:#f29e38;'>2</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 10.0,
@@ -9948,7 +10035,7 @@ var _monsterskill = {
             "EN": "Wind Walker"
         },
         "Desc": {
-            "CH": "对指定我方单体及其相邻目标造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>风化</b>状态。<br>风化持续伤害：每层<2>风属性伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to the target and adjacent units, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG per stack. Lasts <color style='color:#f29e38;'>2</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 10.0,
@@ -9968,7 +10055,7 @@ var _monsterskill = {
             "EN": "Wind-Twisting Crossbow"
         },
         "Desc": {
-            "CH": "进入<color style='color:#f29e38;'>蓄力</color>状态，并<b>锁定</b>陷入<color style='color:#f29e38;'>风化</color>状态的所有我方目标，下次行动施放<color style='color:#f29e38;'>【风落暴矢】</color>。",
+            "CH": "",
             "EN": "Enters the <color style='color:#f29e38;'>Charge</color> state and <b>Locks On</b> to all targets currently suffering <color style='color:#f29e38;'>Wind Shear</color>. Cast <color style='color:#f29e38;'>Windfall Storm</color> in the next action."
         },
         "SP": 0,
@@ -9987,11 +10074,12 @@ var _monsterskill = {
             "EN": "Windfall Storm"
         },
         "Desc": {
-            "CH": "对处于风化状态的我方目标造成<1>风属性伤害。<br>若场上没有处于风化状态的我方目标，则本技能施放失败。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to targets afflicted with Wind Shear. <br>This ability fails if no one on the target team suffers Wind Shear."
         },
         "SP": 15.0,
         "Elem": "Wind",
+        "Threat": true,
         "Status": [
             30020003
         ],
@@ -10006,7 +10094,7 @@ var _monsterskill = {
             "EN": "Storm Cyclone"
         },
         "Desc": {
-            "CH": "攻击陷入风化状态的我方目标后，自身攻击力提高<color style='color:#f29e38;'>8%</color>，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。<br>当弱点被击破时，该效果解除。",
+            "CH": "",
             "EN": "Increases <color style='color:#f29e38;'>8%</color> ATK after attacking a target afflicted with Wind Shear, lasts <color style='color:#f29e38;'>2</color> turns, max <color style='color:#f29e38;'>5</color> stacks. <br>This buff is dispelled upon Weakness Break."
         },
         "SP": 0,
@@ -10021,7 +10109,7 @@ var _monsterskill = {
             "EN": "Windfall Storm"
         },
         "Desc": {
-            "CH": "对处于风化状态的我方目标造成风属性伤害。若场上没有处于风化状态的我方目标，则本技能施放失败。",
+            "CH": "",
             "EN": "Deals Wind DMG to targets afflicted with Wind Shear. This ability fails if no one on the target team suffers Wind Shear."
         },
         "SP": 10.0
@@ -10033,7 +10121,7 @@ var _monsterskill = {
             "EN": "Watchful Meteor"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>风化</b>状态。<br>风化持续伤害：每层<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to a single target and has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG per stack. Lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 10.0,
@@ -10053,7 +10141,7 @@ var _monsterskill = {
             "EN": "Wind Walker"
         },
         "Desc": {
-            "CH": "对指定我方单体及其相邻目标造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>风化</b>状态。<br>风化持续伤害：每层<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to the target and adjacent units, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG per stack. Lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 10.0,
@@ -10073,7 +10161,7 @@ var _monsterskill = {
             "EN": "Wind-Twisting Crossbow"
         },
         "Desc": {
-            "CH": "进入<color style='color:#f29e38;'>蓄力</color>状态，并锁定陷入风化状态的所有我方目标，下次行动施放<color style='color:#f29e38;'>【风落暴矢】</color>。",
+            "CH": "",
             "EN": "Enters the <color style='color:#f29e38;'>Charge</color> state and locks on to all targets currently suffering Wind Shear. Cast <color style='color:#f29e38;'>Windfall Storm</color> in the next action."
         },
         "SP": 0,
@@ -10092,11 +10180,12 @@ var _monsterskill = {
             "EN": "Windfall Storm"
         },
         "Desc": {
-            "CH": "对处于<color style='color:#f29e38;'>风化</color>状态的我方目标造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标再次陷入<b>风化</b>状态。<br>若场上没有处于风化状态的我方目标，则本技能施放失败。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to targets afflicted with <color style='color:#f29e38;'>Wind Shear</color>, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b> again. <br>This ability fails if no one on the target team suffers Wind Shear."
         },
         "SP": 15.0,
         "Elem": "Wind",
+        "Threat": true,
         "Status": [
             30020003
         ],
@@ -10111,7 +10200,7 @@ var _monsterskill = {
             "EN": "Storm Cyclone"
         },
         "Desc": {
-            "CH": "攻击陷入风化状态的我方目标后，自身攻击力提高<color style='color:#f29e38;'>8%</color>，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。<br>当弱点被击破时，该效果解除。",
+            "CH": "",
             "EN": "Increases <color style='color:#f29e38;'>8%</color> ATK after attacking a target afflicted with Wind Shear, lasts <color style='color:#f29e38;'>2</color> turns, max <color style='color:#f29e38;'>10</color> stacks. <br>This buff is dispelled upon Weakness Break."
         },
         "SP": 0,
@@ -10126,7 +10215,7 @@ var _monsterskill = {
             "EN": "Windfall Storm"
         },
         "Desc": {
-            "CH": "对处于风化状态的我方目标造成风属性伤害。若场上没有处于风化状态的我方目标，则本技能施放失败。",
+            "CH": "",
             "EN": "Deals Wind DMG to targets afflicted with Wind Shear. This ability fails if no one on the target team suffers Wind Shear."
         },
         "SP": 10.0
@@ -10138,7 +10227,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_使所有处于风化状态的我方目标将风化效果扩散至相邻目标。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -10150,7 +10239,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_对指定我方单体造成风属性伤害，触发其风化效果，并有概率使受到攻击的我方目标陷入风化状态。",
+            "CH": "",
             "EN": ""
         },
         "SP": 15.0,
@@ -10163,7 +10252,7 @@ var _monsterskill = {
             "EN": "Willing Wind"
         },
         "Desc": {
-            "CH": "召唤<color style='color:#f29e38;'>4</color>个<color style='color:#f29e38;'>【巽风造物】</color>。",
+            "CH": "",
             "EN": "Summons <color style='color:#f29e38;'>4</color> <color style='color:#f29e38;'>Windspawns</color>."
         },
         "SP": 0,
@@ -10179,7 +10268,7 @@ var _monsterskill = {
             "EN": "Rite of Great Arbor Metamorphosis"
         },
         "Desc": {
-            "CH": "连续<color style='color:#f29e38;'>5</color>次：对我方随机单体造成<1>风属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>风化</b>状态。<br>风化持续伤害：每层<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+            "CH": "",
             "EN": "Continuously deal <1> Wind DMG to a random target, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG per stack. Lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 5.0,
@@ -10199,7 +10288,7 @@ var _monsterskill = {
             "EN": "Guiding Vulturnus"
         },
         "Desc": {
-            "CH": "对指定我方单体及其相邻目标造成<1>风属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>风化</b>状态。<br>风化持续伤害：每层<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to the targeted and adjacent allies, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG per stack. Lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 10.0,
@@ -10219,7 +10308,7 @@ var _monsterskill = {
             "EN": "Arboreal Thorns"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>风属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>风化</b>状态。<br>风化持续伤害：每层<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to a single target, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG per stack. Lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 15.0,
@@ -10239,7 +10328,7 @@ var _monsterskill = {
             "EN": "Rite of Subduing Prana"
         },
         "Desc": {
-            "CH": "进入<color style='color:#f29e38;'>【持咒】</color>状态。下次行动对我方全体施放<color style='color:#f29e38;'>【玄气噬身】</color>。",
+            "CH": "",
             "EN": "Enters <color style='color:#f29e38;'>Japa</color>. Cast <color style='color:#f29e38;'>\"Black Prana's Snare\"</color> on all targets during the next action."
         },
         "SP": 10.0,
@@ -10258,11 +10347,12 @@ var _monsterskill = {
             "EN": "Black Prana's Snare"
         },
         "Desc": {
-            "CH": "有<color style='color:#f29e38;'>100%</color>基础概率使我方全体陷入<color style='color:#f29e38;'>【噬命】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>噬命：可回复的生命值上限降低<color style='color:#f29e38;'>30%</color>。",
+            "CH": "",
             "EN": "Has <color style='color:#f29e38;'>100%</color> Base Chance of afflicting all targets with <color style='color:#f29e38;'>Prana-Siphon</color> for <color style='color:#f29e38;'>2</color> turns.<br>Prana-Siphon: Decreases Maximum Recoverable HP by <color style='color:#f29e38;'>30%</color>."
         },
         "SP": 15.0,
         "Elem": "Wind",
+        "Threat": true,
         "Status": [
             30020030
         ]
@@ -10274,7 +10364,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_【不会显示】对敌方全体造成冰伤害，该伤害每次提高",
+            "CH": "",
             "EN": ""
         },
         "SP": 10.0,
@@ -10287,7 +10377,7 @@ var _monsterskill = {
             "EN": "Leviathan's Lingering Power"
         },
         "Desc": {
-            "CH": "当【反物质引擎】、【灾虐的右手】、【黎明的左手】未被全部击溃时，无法攻击末日兽。<br>瘫痪后，受到的伤害提升<color style='color:#f29e38;'>900%</color>。",
+            "CH": "",
             "EN": "The Doomsday Beast cannot be attacked until the Antimatter Engine, Disaster's Right Hand, and Dawn's Left Hand have all been destroyed.<br>While Weakened, damage taken is increased by <color style='color:#f29e38;'>900%</color>."
         },
         "SP": 0,
@@ -10308,7 +10398,7 @@ var _monsterskill = {
             "EN": "Calamity Tear"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>虚数属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to all targets."
         },
         "SP": 5.0,
@@ -10324,7 +10414,7 @@ var _monsterskill = {
             "EN": "Tough Cuts"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>虚数属性伤害，同时有<color style='color:#f29e38;'>20%</color>基础概率使我方目标陷入<b>禁锢</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>禁锢：无法行动，速度降低<color style='color:#f29e38;'>30%</color>，行动延后<color style='color:#f29e38;'>20%</color>。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to all targets, with a <color style='color:#f29e38;'>20% Base Chance to inflict <b>Imprisonment</b> for <color style='color:#f29e38;'>1</color> turn.<br>Imprisonment: Cannot take action, SPD decreased by <color style='color:#f29e38;'>30%</color>, action delayed by <color style='color:#f29e38;'>20%</color>."
         },
         "SP": 5.0,
@@ -10343,7 +10433,7 @@ var _monsterskill = {
             "EN": "The Breakdown of Tyranny"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>虚数属性伤害，同时有<color style='color:#f29e38;'>25%</color>基础概率使我方目标陷入<b>禁锢</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>禁锢：无法行动，速度降低<color style='color:#f29e38;'>30%</color>，行动延后<color style='color:#f29e38;'>20%</color>。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to all targets, with a <color style='color:#f29e38;'>25% Base Chance to inflict <b>Imprisonment</b> for <color style='color:#f29e38;'>1</color> turn.<br>Imprisonment: Cannot take action, SPD decreased by <color style='color:#f29e38;'>30%</color>, action delayed by <color style='color:#f29e38;'>20%</color>."
         },
         "SP": 10.0,
@@ -10362,7 +10452,7 @@ var _monsterskill = {
             "EN": "Void Fission"
         },
         "Desc": {
-            "CH": "对敌方单体【灾虐的右手】施加<color style='color:#f29e38;'>【增幅】</color>状态：恢复其韧性，使其攻击力提高<color style='color:#f29e38;'>60%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+            "CH": "",
             "EN": "<color style='color:#f29e38;'>Buff</color> Disaster's Right Hand, restoring Toughness and boosting ATK by <color style='color:#f29e38;'>60%</color> for <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 0,
@@ -10377,7 +10467,7 @@ var _monsterskill = {
             "EN": "Calamity Strike"
         },
         "Desc": {
-            "CH": "对敌方单体【黎明的左手】施加<color style='color:#f29e38;'>【增幅】</color>状态：恢复其韧性，使其攻击力提高<color style='color:#f29e38;'>60%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+            "CH": "",
             "EN": "<color style='color:#f29e38;'>Buff</color> Dawn's Left Hand, restoring Toughness and boosting ATK by <color style='color:#f29e38;'>60%</color> for <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 0,
@@ -10392,7 +10482,7 @@ var _monsterskill = {
             "EN": "Engine Boost"
         },
         "Desc": {
-            "CH": "对除自身外的敌方全体施加<color style='color:#f29e38;'>【增幅】</color>状态：恢复其韧性，使其攻击力提高<color style='color:#f29e38;'>60%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+            "CH": "",
             "EN": "<color style='color:#f29e38;'>Buffs</color> all friendly units except the user, restoring Toughness and boosting ATK by <color style='color:#f29e38;'>60%</color> for <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 0,
@@ -10407,7 +10497,7 @@ var _monsterskill = {
             "EN": "Total Annihilation"
         },
         "Desc": {
-            "CH": "对我方单体造成<1>虚数属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to a single target."
         },
         "SP": 15.0,
@@ -10423,7 +10513,7 @@ var _monsterskill = {
             "EN": "Cataclysm Precursor"
         },
         "Desc": {
-            "CH": "进入蓄力状态，下次行动时对我方全体施放<color style='color:#f29e38;'>【末日临空】</color>。<br>攻击力提高<color style='color:#f29e38;'>60%</color>，持续<color style='color:#f29e38;'>1</color>回合。",
+            "CH": "",
             "EN": "Enters the Charge state. The next action uses <color style='color:#f29e38;'>\"Impending Doom\"</color> on all targets.<br>Icreases ATK by <color style='color:#f29e38;'>60%</color> for <color style='color:#f29e38;'>1</color> turn."
         },
         "SP": 0,
@@ -10439,11 +10529,12 @@ var _monsterskill = {
             "EN": "Impending Doom"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>量子属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Quantum DMG to all targets."
         },
         "SP": 15.0,
         "Elem": "Quantum",
+        "Threat": true,
         "DMG": [
             3.6
         ]
@@ -10455,7 +10546,7 @@ var _monsterskill = {
             "EN": "Engine Slit"
         },
         "Desc": {
-            "CH": "每当【反物质引擎】从弱点击破状态恢复，其弱点属性会发生改变。<br>第二阶段期间，速度提升<color style='color:#f29e38;'>40%</color>。",
+            "CH": "",
             "EN": "The Antimatter Engine will change its Weakness Type every time it recovers from Weakness Break.<br>During Phase 2, SPD increased by <color style='color:#f29e38;'>40%</color>."
         },
         "SP": 0,
@@ -10472,7 +10563,7 @@ var _monsterskill = {
             "EN": "Fallen Forge Hammer"
         },
         "Desc": {
-            "CH": "对我方单体造成<1>量子属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Quantum DMG to a single target."
         },
         "SP": 10.0,
@@ -10488,7 +10579,7 @@ var _monsterskill = {
             "EN": "Fallen Star's Visit"
         },
         "Desc": {
-            "CH": "对我方单体造成<1>量子属性伤害，同时有<color style='color:#f29e38;'>30%</color>基础概率使该目标陷入<b>纠缠</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>纠缠基础倍率：<2>量子属性伤害，行动延后<color style='color:#f29e38;'>30%</color>。",
+            "CH": "",
             "EN": "Deals <1> Quantum DMG to a single target, with a <color style='color:#f29e38;'>30%</color> Base Chance to inflict <b>Entanglement</b> for <color style='color:#f29e38;'>1</color> turn.<br>Entanglement Base DMG: <2> Quantum DMG, action delayed by <color style='color:#f29e38;'>30%</color>."
         },
         "SP": 10.0,
@@ -10508,7 +10599,7 @@ var _monsterskill = {
             "EN": "When the Dawn Is Dark"
         },
         "Desc": {
-            "CH": "对我方单体造成<1>量子属性伤害，同时有<color style='color:#f29e38;'>50%</color>基础概率使该目标陷入<b>纠缠</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>纠缠基础倍率：<2>量子属性伤害，行动延后<color style='color:#f29e38;'>30%</color>。",
+            "CH": "",
             "EN": "Deals <1> Quantum DMG to a single target, with a <color style='color:#f29e38;'>50%</color> Base Chance to inflict <b>Entanglement</b> for <color style='color:#f29e38;'>1</color> turn.<br>Entanglement Base DMG: <2> Quantum DMG, action delayed by <color style='color:#f29e38;'>30%</color>."
         },
         "SP": 15.0,
@@ -10528,7 +10619,7 @@ var _monsterskill = {
             "EN": "Leviathan's Lingering Power"
         },
         "Desc": {
-            "CH": "当【反物质引擎】、【灾虐的右手】、【黎明的左手】未被全部击溃时，无法攻击末日兽。<br>瘫痪后，受到的伤害提升<color style='color:#f29e38;'>900%</color>。",
+            "CH": "",
             "EN": "The Doomsday Beast cannot be attacked until the Antimatter Engine, Disaster's Right Hand, and Dawn's Left Hand have all been destroyed.<br>While Weakened, damage taken is increased by <color style='color:#f29e38;'>900%</color>."
         },
         "SP": 0,
@@ -10549,7 +10640,7 @@ var _monsterskill = {
             "EN": "Calamity Tear"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>虚数属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to all targets."
         },
         "SP": 5.0,
@@ -10565,7 +10656,7 @@ var _monsterskill = {
             "EN": "Tough Cuts"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>虚数属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to all targets."
         },
         "SP": 10.0,
@@ -10581,7 +10672,7 @@ var _monsterskill = {
             "EN": "The Breakdown of Tyranny"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>虚数属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to all targets."
         },
         "SP": 15.0,
@@ -10597,7 +10688,7 @@ var _monsterskill = {
             "EN": "Void Fission"
         },
         "Desc": {
-            "CH": "对敌方单体【灾虐的右手】施加<color style='color:#f29e38;'>【增幅】</color>状态：恢复其韧性，使其攻击力提高<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+            "CH": "",
             "EN": "<color style='color:#f29e38;'>Buff</color> Disaster's Right Hand, restoring Toughness and boosting ATK by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 0,
@@ -10612,7 +10703,7 @@ var _monsterskill = {
             "EN": "Calamity Strike"
         },
         "Desc": {
-            "CH": "对敌方单体【黎明的左手】施加<color style='color:#f29e38;'>【增幅】</color>状态：恢复其韧性，使其攻击力提高<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+            "CH": "",
             "EN": "<color style='color:#f29e38;'>Buff</color> Dawn's Left Hand, restoring Toughness and boosting ATK by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 0,
@@ -10627,7 +10718,7 @@ var _monsterskill = {
             "EN": "Engine Boost"
         },
         "Desc": {
-            "CH": "对除自身外的敌方全体施加<color style='color:#f29e38;'>【增幅】</color>状态：恢复其韧性，使其攻击力提高<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+            "CH": "",
             "EN": "<color style='color:#f29e38;'>Buffs</color> all friendly units except the user, restoring Toughness and boosting ATK by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 0,
@@ -10642,7 +10733,7 @@ var _monsterskill = {
             "EN": "Total Annihilation"
         },
         "Desc": {
-            "CH": "对我方单体造成<1>虚数属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to a single target."
         },
         "SP": 20.0,
@@ -10658,7 +10749,7 @@ var _monsterskill = {
             "EN": "Cataclysm Precursor"
         },
         "Desc": {
-            "CH": "进入蓄力状态，下次行动时对我方全体施放【末日临空】。",
+            "CH": "",
             "EN": "Enters the Charge state. The next action uses \"Impending Doom\" on all targets."
         },
         "SP": 0,
@@ -10674,11 +10765,12 @@ var _monsterskill = {
             "EN": "Impending Doom"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>量子属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Quantum DMG to all targets."
         },
         "SP": 15.0,
         "Elem": "Quantum",
+        "Threat": true,
         "DMG": [
             3.4
         ]
@@ -10690,7 +10782,7 @@ var _monsterskill = {
             "EN": "Engine Slit"
         },
         "Desc": {
-            "CH": "每当【反物质引擎】从弱点击破状态恢复，其弱点属性会发生改变。<br>第二阶段期间，速度提升<color style='color:#f29e38;'>50%</color>。",
+            "CH": "",
             "EN": "The Antimatter Engine will change its Weakness Type every time it recovers from Weakness Break.<br>During Phase 2, SPD increased by <color style='color:#f29e38;'>50%</color>."
         },
         "SP": 0,
@@ -10707,7 +10799,7 @@ var _monsterskill = {
             "EN": "Fallen Forge Hammer"
         },
         "Desc": {
-            "CH": "对我方单体造成<1>量子属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Quantum DMG to a single target."
         },
         "SP": 15.0,
@@ -10723,7 +10815,7 @@ var _monsterskill = {
             "EN": "Fallen Star's Visit"
         },
         "Desc": {
-            "CH": "对我方单体造成<1>量子属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Quantum DMG to a single target."
         },
         "SP": 20.0,
@@ -10739,7 +10831,7 @@ var _monsterskill = {
             "EN": "When the Dawn Is Dark"
         },
         "Desc": {
-            "CH": "对我方单体造成<1>量子属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Quantum DMG to a single target."
         },
         "SP": 20.0,
@@ -10755,7 +10847,7 @@ var _monsterskill = {
             "EN": "Horn Gore"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>风属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to a single target."
         },
         "SP": 10.0,
@@ -10771,7 +10863,7 @@ var _monsterskill = {
             "EN": "Rebound Roar"
         },
         "Desc": {
-            "CH": "受到致命攻击时，使与自身相邻的敌方目标立即行动。",
+            "CH": "",
             "EN": "Upon receiving a killing blow, causes adjacent friendly units to act immediately."
         },
         "SP": 0
@@ -10783,7 +10875,7 @@ var _monsterskill = {
             "EN": "Wolf Predation"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>雷属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>触电</b>状态。<br>触电持续伤害：<2>雷属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>1</color>层。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Shock</b> the target.<br>Shock DoT: <2> Lightning DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>1</color> stack."
         },
         "SP": 10.0,
@@ -10803,7 +10895,7 @@ var _monsterskill = {
             "EN": "Rallying Howl"
         },
         "Desc": {
-            "CH": "召唤<color style='color:#f29e38;'>1</color>个当前生命值与自身相同的<color style='color:#f29e38;'>【狈影】</color>。",
+            "CH": "",
             "EN": "Summons <color style='color:#f29e38;'>1</color> <color style='color:#f29e38;'>Shadow Jackhyena</color> with the same Current HP as itself."
         },
         "SP": 0,
@@ -10818,7 +10910,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "test_被动技能。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -10830,7 +10922,7 @@ var _monsterskill = {
             "EN": "Wolf Predation"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>雷属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>触电</b>状态。<br>触电持续伤害：<2>雷属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>1</color>层。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Shock</b> the target.<br>Shock DoT: <2> Lightning DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>1</color> stack."
         },
         "SP": 10.0,
@@ -10850,7 +10942,7 @@ var _monsterskill = {
             "EN": "Mounted Crossbow"
         },
         "Desc": {
-            "CH": "连续<color style='color:#f29e38;'>6</color>次：对我方随机单体造成<1>雷属性伤害。",
+            "CH": "",
             "EN": "Repeat <color style='color:#f29e38;'>6</color> times: Deals <1> Lightning DMG to a random target."
         },
         "SP": 15.0,
@@ -10866,7 +10958,7 @@ var _monsterskill = {
             "EN": "Simian Strike"
         },
         "Desc": {
-            "CH": "消耗1层<color style='color:#f29e38;'>【元气】</color>，并对被标记为监视目标的我方单体造成<1>量子属性伤害。",
+            "CH": "",
             "EN": "Consumes 1 stack of <color style='color:#f29e38;'>Gusto</color> and deals <1> Quantum DMG to a locked-on target."
         },
         "SP": 15.0,
@@ -10885,7 +10977,7 @@ var _monsterskill = {
             "EN": "Simian Strike"
         },
         "Desc": {
-            "CH": "消耗1层<color style='color:#f29e38;'>【元气】</color>，并对被标记为监视目标的我方单体造成<1>量子属性伤害。",
+            "CH": "",
             "EN": "Consumes 1 stack of <color style='color:#f29e38;'>Gusto</color> and deals <1> Quantum DMG to a locked-on target."
         },
         "SP": 15.0,
@@ -10904,7 +10996,7 @@ var _monsterskill = {
             "EN": "Fiery Majesty"
         },
         "Desc": {
-            "CH": "使自身造成的伤害提高<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>3</color>层。",
+            "CH": "",
             "EN": "Increases DMG dealtby <color style='color:#f29e38;'>20% for <color style='color:#f29e38;'>2</color> turns. Max <color style='color:#f29e38;'>3</color> stacks."
         },
         "SP": 0,
@@ -10919,10 +11011,11 @@ var _monsterskill = {
             "EN": "Wrathful Roar"
         },
         "Desc": {
-            "CH": "获得<color style='color:#f29e38;'>3</color>层<color style='color:#f29e38;'>【元气】</color>，将随机我方单体标记为<b>监视目标</b>。每当我方目标施放战技时，会转为标记最新施放战技的目标，直到【元气】耗尽。",
+            "CH": "",
             "EN": "Gains <color style='color:#f29e38;'>3</color> stacks of <color style='color:#f29e38;'>Gusto</color> and marks a random target for <b>Monitoring</b>. Until Gusto is exhausted, any target that uses their Skill will become the new Monitored target."
         },
         "SP": 0,
+        "Threat": true,
         "Status": [
             220230201,
             220230204
@@ -10935,7 +11028,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "test_虚弱回复，纯表演",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -10947,7 +11040,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "test_无效果",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -10959,7 +11052,7 @@ var _monsterskill = {
             "EN": "Rapturous Wind"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害，并使彦卿和所有飞剑获得1层<color style='color:#f29e38;'>【寒芒】</color>：造成的伤害提高<color style='color:#f29e38;'>10%</color>，可叠加，不可解除。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target, and applies <color style='color:#f29e38;'>Chilling Light</color> to self and all Flying swords: increase DMG dealt by <color style='color:#f29e38;'>10%</color>, stackable, not dispelable."
         },
         "SP": 10.0,
@@ -10978,7 +11071,7 @@ var _monsterskill = {
             "EN": "Swallow Return"
         },
         "Desc": {
-            "CH": "召唤4把<color style='color:#f29e38;'>【飞剑】</color>，获得<color style='color:#f29e38;'>【剑阵】</color>效果提升速度，并使【飞剑】获得<color style='color:#f29e38;'>【阵眼】</color>。<br>第三阶段时额外使一支【飞剑】额外获得<color style='color:#f29e38;'>【砥砺】</color>。<br><br>剑阵：锁韧性，速度提升<color style='color:#f29e38;'>60</color>点。所有飞剑被消灭后解除，并流失<color style='color:#f29e38;'>20%</color>生命值。<br>砥砺：韧性从1变为2，攻击命中目标时，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>冻结</b>状态。冻结持续伤害：<1>冰属性伤害，持续<color style='color:#f29e38;'>1</color>回合。",
+            "CH": "",
             "EN": "Summons 4 <color style='color:#f29e38;'>Flying Swords</color>, applies <color style='color:#f29e38;'>Formation Core</color> to the Flying Swords, and applies the <color style='color:#f29e38;'>Sword Formation</color> effect to self. <br>In Phase 3, additionally grant <color style='color:#f29e38;'>Ordeal</color> to one Flying Sword.<br><br>Sword Formation: Toughness locked, SPD increased by <color style='color:#f29e38;'>60%</color>. When all Flying Swords are destroyed, dispels this and lose <color style='color:#f29e38;'>20%</color> HP.<br>Ordeal: Toughness increased from 1 to 2. When attacking, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Freeze</b>. Freeze DoT: <1> Ice DMG, lasts <color style='color:#f29e38;'>1</color> turn."
         },
         "SP": 10.0,
@@ -11002,7 +11095,7 @@ var _monsterskill = {
             "EN": "Ironthorn"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使目标陷入<b>冻结</b>状态。冻结持续伤害：<2>冰属性伤害，持续<color style='color:#f29e38;'>1</color>回合。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Freeze</b> the target. Freeze DoT: <2> Ice DMG, lasts <color style='color:#f29e38;'>1</color> turn."
         },
         "SP": 15.0,
@@ -11019,7 +11112,7 @@ var _monsterskill = {
             "EN": "Ballad of Formation Breaker"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害，对其相邻目标造成<2>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a single target and <2> Ice DMG to adjacent units."
         },
         "SP": 10.0,
@@ -11036,7 +11129,7 @@ var _monsterskill = {
             "EN": "Qi Advance"
         },
         "Desc": {
-            "CH": "进入蓄力状态。下次行动对我方全体施放<color style='color:#f29e38;'>【天河泻】</color>。",
+            "CH": "",
             "EN": "Enters the Charge state. Cast <color style='color:#f29e38;'>Cascading Laceration</color> on all targets in the next action."
         },
         "SP": 10.0,
@@ -11051,11 +11144,12 @@ var _monsterskill = {
             "EN": "Cascading Laceration"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>冰属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to all targets."
         },
         "SP": 10.0,
         "Elem": "Ice",
+        "Threat": true,
         "DMG": [
             4.0
         ]
@@ -11067,7 +11161,7 @@ var _monsterskill = {
             "EN": "Qi Converge"
         },
         "Desc": {
-            "CH": "锁定我方单体，两回合后对其施放<color style='color:#f29e38;'>【风归云动，天河泻梦】</color>。",
+            "CH": "",
             "EN": "Locks on to a single target. After 2 turns, use <color style='color:#f29e38;'>Aethereal Dreamflux</color> on the target."
         },
         "SP": 0,
@@ -11082,11 +11176,12 @@ var _monsterskill = {
             "EN": "Aethereal Dreamflux"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害。施放该技能时，场上每有一把【飞剑】，则额外造成<2>冰属性伤害。施放技能后，清除场上所有的【飞剑】。",
+            "CH": "",
             "EN": "Deals <1> Ice DMG to a target. For every Flying Sword on field, deal an extra <2> Ice DMG. After using this ability, remove all Flying Swords on the field."
         },
         "SP": 15.0,
         "Elem": "Ice",
+        "Threat": true,
         "DMG": [
             3.0,
             3.0
@@ -11099,7 +11194,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "第三阶段韧性变为原本的<color style='color:#f29e38;'>1.5</color>倍，速度提高<color style='color:#f29e38;'>50</color>点。",
+            "CH": "",
             "EN": "In Phase 3, Toughness becomes <color style='color:#f29e38;'>1.5</color> times the original, and SPD is increased by <color style='color:#f29e38;'>50</color>."
         },
         "SP": 15.0
@@ -11111,7 +11206,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_扑满被惊动了，即将在2个回合后逃离。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -11123,7 +11218,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_扑满陷入恐慌，即将在1个回合后逃离。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -11135,7 +11230,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_扑满拔腿就跑，瞬间失去了踪影。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -11147,7 +11242,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_击杀扑满后获得增益",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -11159,7 +11254,7 @@ var _monsterskill = {
             "EN": "Hunting Blade"
         },
         "Desc": {
-            "CH": "对指定我方单体造成少量伤害。",
+            "CH": "",
             "EN": "Deals minor DMG to a single target."
         },
         "SP": 0,
@@ -11172,11 +11267,12 @@ var _monsterskill = {
             "EN": "Vortex Leap"
         },
         "Desc": {
-            "CH": "对指定我方单体及其相邻目标造成伤害，若此技能消灭我方目标则回复所有能量。",
+            "CH": "",
             "EN": "Deals DMG to a single target and any adjacent targets, and regenerates all Energy if the Skill destroys the target."
         },
         "SP": 0,
-        "Elem": "Imaginary"
+        "Elem": "Imaginary",
+        "Threat": true
     },
     "700101201": {
         "Key": "Skill01",
@@ -11185,7 +11281,7 @@ var _monsterskill = {
             "EN": "Void Cannon"
         },
         "Desc": {
-            "CH": "对指定我方单体造成伤害。",
+            "CH": "",
             "EN": "Deals DMG to a single target."
         },
         "SP": 0,
@@ -11198,10 +11294,11 @@ var _monsterskill = {
             "EN": "Antimatter Speed Boost"
         },
         "Desc": {
-            "CH": "消耗所有充能。自身速度大幅提高。",
+            "CH": "",
             "EN": "Consumes all Charges. Greatly increases this unit's SPD."
         },
-        "SP": 0
+        "SP": 0,
+        "Threat": true
     },
     "700304001": {
         "Key": "Skill01",
@@ -11210,7 +11307,7 @@ var _monsterskill = {
             "EN": "Unreal Projection"
         },
         "Desc": {
-            "CH": "对指定我方单体造成伤害。",
+            "CH": "",
             "EN": "Deals DMG to a single target."
         },
         "SP": 0,
@@ -11223,7 +11320,7 @@ var _monsterskill = {
             "EN": "Rule of Force"
         },
         "Desc": {
-            "CH": "对指定我方单体造成伤害。",
+            "CH": "",
             "EN": "Deals DMG to a single target."
         },
         "SP": 0,
@@ -11236,11 +11333,12 @@ var _monsterskill = {
             "EN": "War Trample"
         },
         "Desc": {
-            "CH": "消耗所有充能。对指定我方单体及其相邻目标造成大量伤害。",
+            "CH": "",
             "EN": "Consumes all Charges. Deals DMG to a single target and units adjacent to the target."
         },
         "SP": 0,
-        "Elem": "Quantum"
+        "Elem": "Quantum",
+        "Threat": true
     },
     "700304004": {
         "Key": "Skill04",
@@ -11249,7 +11347,7 @@ var _monsterskill = {
             "EN": "Spiral Arrow"
         },
         "Desc": {
-            "CH": "锁定我方单体，下次行动对该目标施放【强弩的终结】。",
+            "CH": "",
             "EN": "Locks on to a single target. Cast \"End of Bow\" to this target in the next action."
         },
         "SP": 0,
@@ -11262,7 +11360,7 @@ var _monsterskill = {
             "EN": "End of Bow"
         },
         "Desc": {
-            "CH": "对指定我方单体造成大量伤害。",
+            "CH": "",
             "EN": "Deals massive DMG to a single target."
         },
         "SP": 0,
@@ -11275,7 +11373,7 @@ var _monsterskill = {
             "EN": "Anti-Matter Oppression"
         },
         "Desc": {
-            "CH": "敌方或我方目标被消灭时，使自身立即行动。",
+            "CH": "",
             "EN": "Gains an immediate action when target is defeated."
         },
         "SP": 0,
@@ -11288,7 +11386,7 @@ var _monsterskill = {
             "EN": "Ram"
         },
         "Desc": {
-            "CH": "对指定我方单体造成少量伤害。",
+            "CH": "",
             "EN": "Deals minor DMG to a single target."
         },
         "SP": 0,
@@ -11301,7 +11399,7 @@ var _monsterskill = {
             "EN": "Timed Module"
         },
         "Desc": {
-            "CH": "下次行动施放【自爆模块】。",
+            "CH": "",
             "EN": "The next action uses Self-Exploding Module."
         },
         "SP": 0
@@ -11313,11 +11411,12 @@ var _monsterskill = {
             "EN": "Self-Exploding Module"
         },
         "Desc": {
-            "CH": "消耗所有充能。引爆自身，对指定我方单体及其相邻目标造成大量伤害。",
+            "CH": "",
             "EN": "Consumes all Charges. Self-destructs, dealing DMG to a single target and adjacent targets."
         },
         "SP": 0,
-        "Elem": "Fire"
+        "Elem": "Fire",
+        "Threat": true
     },
     "700305001": {
         "Key": "Skill02",
@@ -11368,7 +11467,8 @@ var _monsterskill = {
             "EN": ""
         },
         "SP": 0,
-        "Elem": "Imaginary"
+        "Elem": "Imaginary",
+        "Threat": true
     },
     "700305005": {
         "Key": "SkillP01",
@@ -11389,7 +11489,7 @@ var _monsterskill = {
             "EN": "Propagation"
         },
         "Desc": {
-            "CH": "繁殖真蛰虫群。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -11401,7 +11501,7 @@ var _monsterskill = {
             "EN": "Ice Wheel Crusher"
         },
         "Desc": {
-            "CH": "对指定我方单体造成伤害。",
+            "CH": "",
             "EN": "Deals DMG to a single target."
         },
         "SP": 0,
@@ -11414,7 +11514,7 @@ var _monsterskill = {
             "EN": "Felling Order"
         },
         "Desc": {
-            "CH": "造成伤害，每击有低概率施加裂伤。",
+            "CH": "",
             "EN": "Deals DMG, with each hit having a low chance to inflict Bleed."
         },
         "SP": 0,
@@ -11427,10 +11527,11 @@ var _monsterskill = {
             "EN": "Combat Speed-Up"
         },
         "Desc": {
-            "CH": "消耗所有充能。获得3层【加压】，每层可提高自身攻击力和速度。",
+            "CH": "",
             "EN": "Consumes all Charges. Gains 3 stacks of Pressure, with each stack increasing ATK and SPD."
         },
-        "SP": 0
+        "SP": 0,
+        "Threat": true
     },
     "700307003": {
         "Key": "SkillP01",
@@ -11439,7 +11540,7 @@ var _monsterskill = {
             "EN": "Lock On Target"
         },
         "Desc": {
-            "CH": "战斗开始时或锁定目标陷入无法战斗状态时，锁定我方单体并获得3层【加压】。",
+            "CH": "",
             "EN": "When the battle begins or when the locked on target is downed, locks on to a single target and gains 3 stacks of Pressure."
         },
         "SP": 0
@@ -11451,7 +11552,7 @@ var _monsterskill = {
             "EN": "Dismantle"
         },
         "Desc": {
-            "CH": "使用【砍伐指令】后，有概率追加攻击并获得1层【加压】，目标已损失生命值越多，追加攻击概率越高。",
+            "CH": "",
             "EN": "After using Felling Order, there is a chance to deliver a follow-up attack and get 1 stack of Pressure. The more HP the target has already lost, the higher the chances of delivering a follow-up attack."
         },
         "SP": 0,
@@ -11464,7 +11565,7 @@ var _monsterskill = {
             "EN": "Crimson Blade"
         },
         "Desc": {
-            "CH": "对指定我方单体造成伤害，并大概率使受到攻击的我方目标陷入灼烧状态。",
+            "CH": "",
             "EN": "Deals DMG to a single target, with a high chance to Burn the target."
         },
         "SP": 0,
@@ -11477,7 +11578,7 @@ var _monsterskill = {
             "EN": "Combustion Slash"
         },
         "Desc": {
-            "CH": "对指定我方单体及其相邻目标造成伤害。",
+            "CH": "",
             "EN": "Deals DMG to a single target and any adjacent targets."
         },
         "SP": 0,
@@ -11490,7 +11591,7 @@ var _monsterskill = {
             "EN": "Melt"
         },
         "Desc": {
-            "CH": "对陷入灼烧状态的我方单体施放攻击后自身造成的伤害提高。",
+            "CH": "",
             "EN": "After attacking a Burned target, receives a DMG increase."
         },
         "SP": 0
@@ -11502,7 +11603,7 @@ var _monsterskill = {
             "EN": "High-Temperature Operation"
         },
         "Desc": {
-            "CH": "使自身攻击力小幅提高，速度大幅提高。",
+            "CH": "",
             "EN": "Slightly increases ATK and greatly increases SPD."
         },
         "SP": 0
@@ -11514,7 +11615,7 @@ var _monsterskill = {
             "EN": "Dancing Cinders"
         },
         "Desc": {
-            "CH": "对我方全体造成伤害。使陷入灼烧状态的我方目标受到额外伤害的同时解除该目标的灼烧状态。",
+            "CH": "",
             "EN": "Deals DMG to all targets. Targets suffering from Burn are dealt additional DMG and have Burn removed."
         },
         "SP": 0,
@@ -11527,7 +11628,7 @@ var _monsterskill = {
             "EN": "Detonation Order"
         },
         "Desc": {
-            "CH": "召唤【自动机兵 · 蜘蛛】。",
+            "CH": "",
             "EN": "Summons Automaton Spider."
         },
         "SP": 0
@@ -11539,7 +11640,7 @@ var _monsterskill = {
             "EN": "Enrage Order"
         },
         "Desc": {
-            "CH": "有概率使我方全体陷入嘲讽状态。",
+            "CH": "",
             "EN": "Has a chance to Taunt all targets."
         },
         "SP": 0
@@ -11551,7 +11652,7 @@ var _monsterskill = {
             "EN": "Overcombust Order"
         },
         "Desc": {
-            "CH": "进入蓄力状态，下次行动对我方全体施放【剿灭指令】。",
+            "CH": "",
             "EN": "Enters the Charge state. The next action uses Purge Order on all targets."
         },
         "SP": 0
@@ -11563,11 +11664,12 @@ var _monsterskill = {
             "EN": "Purge Order"
         },
         "Desc": {
-            "CH": "对我方全体造成大量伤害。",
+            "CH": "",
             "EN": "Deals massive DMG to all targets."
         },
         "SP": 0,
-        "Elem": "Phys"
+        "Elem": "Phys",
+        "Threat": true
     },
     "700309005": {
         "Key": "Skill01",
@@ -11576,7 +11678,7 @@ var _monsterskill = {
             "EN": "Destruction Order"
         },
         "Desc": {
-            "CH": "对指定我方单体造成伤害。",
+            "CH": "",
             "EN": "Deals DMG to a single target."
         },
         "SP": 0,
@@ -11589,7 +11691,7 @@ var _monsterskill = {
             "EN": "Destruction Order"
         },
         "Desc": {
-            "CH": "test_对指定我方单体造成物理属性伤害。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0,
@@ -11602,8 +11704,8 @@ var _monsterskill = {
             "EN": "Antimatter Bombardment"
         },
         "Desc": {
-            "CH": "自身攻击后叠加1层【过热】，【过热】达到</color>1[i]层时消耗自身大量生命值并移除【过热】。消灭我方目标时移除【过热】。",
-            "EN": "After attacking, gains a stack of Overheat. When Overheat reaches </color>1[i] stack(s), consumes a massive amount of this unit's own HP and removes Overheat. Defeating a target will also remove Overheat."
+            "CH": "",
+            "EN": "After attacking, gains a stack of Overheat. When Overheat reaches 5.0 stack(s), consumes a massive amount of this unit's own HP and removes Overheat. Defeating a target will also remove Overheat."
         },
         "SP": 0
     },
@@ -11614,7 +11716,7 @@ var _monsterskill = {
             "EN": "Disciplined"
         },
         "Desc": {
-            "CH": "对指定我方单体造成伤害，如当前无【绩效点】，获得1个【绩效点】，否则消耗所有【绩效点】。",
+            "CH": "",
             "EN": "Deals DMG to a single target, and if there are no Performance Points at the time, gains 1 Performance Point. Otherwise, consumes all Performance Points."
         },
         "SP": 0,
@@ -11627,7 +11729,7 @@ var _monsterskill = {
             "EN": "In Training..."
         },
         "Desc": {
-            "CH": "自身进入蓄力状态。下次行动施放【企业文化冲击】。",
+            "CH": "",
             "EN": "Enters the Charge state. Uses Work Culture Shock for the next action."
         },
         "SP": 0
@@ -11639,11 +11741,12 @@ var _monsterskill = {
             "EN": "Work Culture Shock"
         },
         "Desc": {
-            "CH": "消耗所有充能。对我方全体造成大量伤害，并消耗所有【绩效点】。",
+            "CH": "",
             "EN": "Consumes all Charges. Deals massive DMG to all targets and expends all Performance Points."
         },
         "SP": 0,
-        "Elem": "Phys"
+        "Elem": "Phys",
+        "Threat": true
     },
     "700310005": {
         "Key": "Skill04",
@@ -11652,7 +11755,7 @@ var _monsterskill = {
             "EN": "720-Degree Review"
         },
         "Desc": {
-            "CH": "夺取除自身外敌方其他目标1个【绩效点】。",
+            "CH": "",
             "EN": "Seizes 1 Performance Points from all other friendly units."
         },
         "SP": 0
@@ -11664,7 +11767,7 @@ var _monsterskill = {
             "EN": "Team Building"
         },
         "Desc": {
-            "CH": "召唤星际和平公司雇员，并使其获得1个【绩效点】。",
+            "CH": "",
             "EN": "Summons Interastral Peace Corporation Employee and gains 1 Performance Point."
         },
         "SP": 0
@@ -11676,7 +11779,7 @@ var _monsterskill = {
             "EN": "Cost Reduction"
         },
         "Desc": {
-            "CH": "对指定我方单体造成大量伤害，获得1个【绩效点】。",
+            "CH": "",
             "EN": "Deals massive DMG to a single target and gains 1 Performance Point."
         },
         "SP": 0,
@@ -11689,7 +11792,7 @@ var _monsterskill = {
             "EN": "IPC Employee"
         },
         "Desc": {
-            "CH": "根据【绩效点】数量大幅提高伤害。获得【绩效点】时，获得可叠加的护盾，无【绩效点】时会移除该护盾。护盾被击破或陷入无法战斗状态时【绩效点】会被夺取。",
+            "CH": "",
             "EN": "Greatly increases DMG in accordance with the number of Performance Points. A stackable Shield will be obtained when receiving Performance Points, and the Shield will be removed when there are no Performance Points. When the Shield is broken or the character is downed, the Performance Points will be seized."
         },
         "SP": 0
@@ -11701,11 +11804,17 @@ var _monsterskill = {
             "EN": "Throw Dice"
         },
         "Desc": {
-            "CH": "对指定我方单体造成少量物理属性伤害，有概率使受到攻击的我方目标陷入虚弱状态。",
-            "EN": "Deals minor Physical DMG to a single target, with a chance to Weaken them."
+            "CH": "",
+            "EN": "Deals <1> Physical DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to Weaken them: Status RES decreased by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>1</color> turn."
         },
         "SP": 10.0,
-        "Elem": "Phys"
+        "Elem": "Phys",
+        "DMG": [
+            2.5
+        ],
+        "Status": [
+            230010101
+        ]
     },
     "300102001": {
         "Key": "Skill01",
@@ -11714,11 +11823,14 @@ var _monsterskill = {
             "EN": "Dance Invite"
         },
         "Desc": {
-            "CH": "对指定我方单体造成少量物理属性伤害，有概率使受到攻击的我方目标陷入裂伤状态。",
-            "EN": "Deals minor Physical DMG to a single target, with a chance to inflict Bleed on them."
+            "CH": "",
+            "EN": "Deals <1> Physical DMG to a single target, with a <color style='color:#f29e38;'>50%</color> Base Chance to inflict <b>Bleed</b> on them."
         },
         "SP": 10.0,
-        "Elem": "Phys"
+        "Elem": "Phys",
+        "DMG": [
+            2.5
+        ]
     },
     "700211001": {
         "Key": "Skill01",
@@ -11727,7 +11839,7 @@ var _monsterskill = {
             "EN": "Ram"
         },
         "Desc": {
-            "CH": "对指定我方单体造成少量伤害。",
+            "CH": "",
             "EN": "Deals minor DMG to a single target."
         },
         "SP": 0,
@@ -11740,7 +11852,7 @@ var _monsterskill = {
             "EN": "Timed Module"
         },
         "Desc": {
-            "CH": "下次行动施放【自爆模块】。",
+            "CH": "",
             "EN": "The next action uses Self-Exploding Module."
         },
         "SP": 0
@@ -11752,11 +11864,12 @@ var _monsterskill = {
             "EN": "Self-Exploding Module"
         },
         "Desc": {
-            "CH": "消耗所有充能。引爆自身，对指定我方单体及其相邻目标造成大量伤害。",
+            "CH": "",
             "EN": "Consumes all Charges. Self-destructs, dealing DMG to a single target and adjacent targets."
         },
         "SP": 0,
-        "Elem": "Fire"
+        "Elem": "Fire",
+        "Threat": true
     },
     "700212001": {
         "Key": "Skill01",
@@ -11765,7 +11878,7 @@ var _monsterskill = {
             "EN": "Clock In"
         },
         "Desc": {
-            "CH": "对指定我方单体造成伤害，获得1个【绩效点】。",
+            "CH": "",
             "EN": "Deals DMG to a single target and gains 1 Performance Point."
         },
         "SP": 0,
@@ -11778,11 +11891,12 @@ var _monsterskill = {
             "EN": "Annual Accounting"
         },
         "Desc": {
-            "CH": "消耗所有充能。对指定我方单体造成伤害，若已持有【绩效点】则使其受到伤害提高。消耗所有【绩效点】。",
+            "CH": "",
             "EN": "Consumes all charges. Deals DMG to a single target. If they are present, Performance Points will increase DMG. All Performance Points will be expended."
         },
         "SP": 0,
-        "Elem": "Phys"
+        "Elem": "Phys",
+        "Threat": true
     },
     "700212003": {
         "Key": "PassiveSkillInitiate",
@@ -11791,7 +11905,7 @@ var _monsterskill = {
             "EN": "IPC Employee"
         },
         "Desc": {
-            "CH": "根据【绩效点】数量大幅提高伤害。获得【绩效点】时，获得可叠加的护盾，无【绩效点】时会移除该护盾。护盾被击破或陷入无法战斗状态时【绩效点】会被夺取。",
+            "CH": "",
             "EN": "Greatly increases DMG in accordance with the number of Performance Points. A stackable Shield will be obtained when receiving Performance Points, and the Shield will be removed when there are no Performance Points. When the Shield is broken or the character is downed, the Performance Points will be seized."
         },
         "SP": 0
@@ -11803,7 +11917,7 @@ var _monsterskill = {
             "EN": "Appeal"
         },
         "Desc": {
-            "CH": "对指定我方单体及相邻目标造成伤害，获得1个【绩效点】。",
+            "CH": "",
             "EN": "Deals DMG to a single target and adjacent targets. Gains 1 Performance Point."
         },
         "SP": 0,
@@ -11816,11 +11930,12 @@ var _monsterskill = {
             "EN": "Performance Review"
         },
         "Desc": {
-            "CH": "消耗所有充能。对指定我方单体及相邻目标造成伤害，若已持有【绩效点】则自身行动提前一定比例。消耗所有【绩效点】。",
+            "CH": "",
             "EN": "Consumes all Charges. Deals DMG to a single target and adjacent targets. If they are present, Performance Points will advance this unit's action by a certain proportion. All Performance Points will be expended."
         },
         "SP": 0,
-        "Elem": "Phys"
+        "Elem": "Phys",
+        "Threat": true
     },
     "700213003": {
         "Key": "PassiveSkillInitiate",
@@ -11829,7 +11944,7 @@ var _monsterskill = {
             "EN": "IPC Employee"
         },
         "Desc": {
-            "CH": "根据【绩效点】数量大幅提高伤害。获得【绩效点】时，获得可叠加的护盾，无【绩效点】时会移除该护盾。护盾被击破或陷入无法战斗状态时【绩效点】会被夺取。",
+            "CH": "",
             "EN": "Greatly increases DMG in accordance with the number of Performance Points. A stackable Shield will be obtained when receiving Performance Points, and the Shield will be removed when there are no Performance Points. When the Shield is broken or the character is downed, the Performance Points will be seized."
         },
         "SP": 0
@@ -11841,7 +11956,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "test_对指定我方单体造成物理属性伤害。",
+            "CH": "",
             "EN": ""
         },
         "SP": 10.0,
@@ -11854,7 +11969,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "test_对指定我方单体及相邻目标造成物理属性伤害，额外夺取1枚金币",
+            "CH": "",
             "EN": ""
         },
         "SP": 10.0,
@@ -11867,10 +11982,11 @@ var _monsterskill = {
             "EN": "Motivation"
         },
         "Desc": {
-            "CH": "为除自身外敌方其他目标提供1个【绩效点】。",
+            "CH": "",
             "EN": "Provides 1 Performance Point to a friendly unit aside from oneself."
         },
-        "SP": 0
+        "SP": 0,
+        "Threat": true
     },
     "700201003": {
         "Key": "Skill03",
@@ -11879,10 +11995,11 @@ var _monsterskill = {
             "EN": "Rallying Howl"
         },
         "Desc": {
-            "CH": "消耗所有充能。召唤1个当前生命值与自身相同的【狈影】。",
+            "CH": "",
             "EN": "Consumes all Charges. Summons 1 Shadow Jackhyena with the same Current HP as oneself."
         },
-        "SP": 0
+        "SP": 0,
+        "Threat": true
     },
     "700308006": {
         "Key": "Skill08",
@@ -11891,11 +12008,12 @@ var _monsterskill = {
             "EN": "Scorching Burst"
         },
         "Desc": {
-            "CH": "消耗所有充能。对我方全体造成伤害，使陷入灼烧状态的我方目标发生爆炸同时对自身及相邻目标造成伤害，同时解除该目标的灼烧状态。",
+            "CH": "",
             "EN": "Consumes all Charges. Deals DMG to all targets. Burned target will explode, subsequently dealing DMG to the Burned target and units adjacent to the target. The Burn status will be removed afterward."
         },
         "SP": 0,
-        "Elem": "Fire"
+        "Elem": "Fire",
+        "Threat": true
     },
     "201301102": {
         "Key": "Skill01",
@@ -11904,7 +12022,7 @@ var _monsterskill = {
             "EN": "Dread"
         },
         "Desc": {
-            "CH": "提高<color style='color:#f29e38;'>33%</color>【惩戒度】等级，并对我方全体造成<1>虚数属性伤害。<br>有<color style='color:#f29e38;'>100%</color>基础概率使我方目标陷入<b>虚弱</b>状态。<br>虚弱：造成的伤害降低<color style='color:#f29e38;'>30%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+            "CH": "",
             "EN": "Increases Sanction Rate level by <color style='color:#f29e38;'>33%</color> and deals <1> Imaginary DMG to all targets.<br>Has a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Weaken</b> them.<br>Weaken: DMG dealt decreases by <color style='color:#f29e38;'>30%</color>, lasts <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 5.0,
@@ -11923,7 +12041,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_对指定我方单体造成虚数属性伤害。",
+            "CH": "",
             "EN": ""
         },
         "SP": 10.0,
@@ -11936,11 +12054,12 @@ var _monsterskill = {
             "EN": "Track Down"
         },
         "Desc": {
-            "CH": "对1个被锁定的目标造成<1>虚数属性伤害，移除锁定状态，并有<color style='color:#f29e38;'>100%</color>基础概率使受击者陷入<b>禁锢</b>状态：行动延后<color style='color:#f29e38;'>60%</color>，持续<color style='color:#f29e38;'>1</color>回合。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to 1 locked on target and removes their Lock On state, with a <color style='color:#f29e38;'>100%</color> Base Chance of causing <b>Imprisonment</b>: Action delayed by <color style='color:#f29e38;'>60%</color> for <color style='color:#f29e38;'>1</color> turn."
         },
         "SP": 15.0,
         "Elem": "Imaginary",
+        "Threat": true,
         "Status": [
             220130111,
             30020013
@@ -11956,7 +12075,7 @@ var _monsterskill = {
             "EN": "Penal Code"
         },
         "Desc": {
-            "CH": "当我方目标施放战技或终结技进行攻击时会积累<color style='color:#f29e38;'>33%</color>【惩戒度】等级。<br>当【惩戒度】等级满级时，立即进入<color style='color:#f29e38;'>【罚恶模式•慎刑】</color>：速度提升<color style='color:#f29e38;'>75%</color>，<b>锁定</b><color style='color:#f29e38;'>3</color>个我方目标，解锁技能<color style='color:#f29e38;'>【追摄】</color>，同时召唤<color style='color:#f29e38;'>2</color>个<color style='color:#f29e38;'>【入魔机巧 • 灯昼龙鱼】</color>。",
+            "CH": "",
             "EN": "Sanction Rate level increases by <color style='color:#f29e38;'>33%</color> when allies use Skills or Ultimates to attack. <br>When Sanction Rate is full, enters <color style='color:#f29e38;'>Sanction Mode: Punisher</color>, SPD increased by <color style='color:#f29e38;'>75%</color>, <b>Locks On</b> to <color style='color:#f29e38;'>3</color> targets, start using <color style='color:#f29e38;'>Track Down</color>, and summons <color style='color:#f29e38;'>2</color> <color style='color:#f29e38;'>Entranced Ingenium: Illumination Dragonfish</color>."
         },
         "SP": 0,
@@ -11978,7 +12097,7 @@ var _monsterskill = {
             "EN": "Thunder-Shock"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>雷属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to a single target."
         },
         "SP": 15.0,
@@ -11994,7 +12113,7 @@ var _monsterskill = {
             "EN": "Punishing Bolts"
         },
         "Desc": {
-            "CH": "对指定我方单体及其相邻目标造成<1>雷属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to a single target and adjacent units."
         },
         "SP": 10.0,
@@ -12010,11 +12129,12 @@ var _monsterskill = {
             "EN": "Thudding Calamity"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>雷属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to a single target."
         },
         "SP": 20.0,
         "Elem": "Elec",
+        "Threat": true,
         "DMG": [
             4.5
         ]
@@ -12026,7 +12146,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_消耗自身生命值，召唤【魔阴身士卒】。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -12038,10 +12158,11 @@ var _monsterskill = {
             "EN": "Sympathicus"
         },
         "Desc": {
-            "CH": "消耗<color style='color:#f29e38;'>15%生命值上限</color>，召唤<color style='color:#f29e38;'>2</color>个【魔阴身士卒】和<color style='color:#f29e38;'>2</color>个【「药王秘传」内丹士】。<br>锁定我方当前生命值百分比最低的目标，使敌方全体集中攻击该目标。",
+            "CH": "",
             "EN": "Consumes <color style='color:#f29e38;'>15% Self Max HP</color> to summon<color style='color:#f29e38;'>2</color> Mara-Struck Soldiers and <color style='color:#f29e38;'>2</color> Disciples of Sanctus Medicus: Internal Alchemist. <br>At the same time, lock on to the target with the lowest current HP percentage and make all friendly units focus their attacks on this target."
         },
         "SP": 0,
+        "Threat": true,
         "Summon": [
             2022010,
             2022020
@@ -12054,7 +12175,7 @@ var _monsterskill = {
             "EN": "Vigor Draining"
         },
         "Desc": {
-            "CH": "当场上其它敌方目标带有<color style='color:#f29e38;'>【重生】</color>时，其自身具有<color style='color:#f29e38;'>【击中回复】</color>。<br><br>击中回复：<br>【震击】回复<color style='color:#f29e38;'>3%生命值上限</color><br>【霆罚】回复<color style='color:#f29e38;'>9%生命值上限</color><br>【劫雷】回复<color style='color:#f29e38;'>24%生命值上限</color>",
+            "CH": "",
             "EN": "When there are other friendly units with <color style='color:#f29e38;'>Rebirth</color> on the field, they have <color style='color:#f29e38;'>Draining Hit</color>.<br><br>Draining Hit:<br>Thunder-Shock restores <color style='color:#f29e38;'>3% Max HP</color><br>Punishing Bolts restores <color style='color:#f29e38;'>9% Max HP</color><br>Thudding Calamity restores <color style='color:#f29e38;'>24% Max HP</color>"
         },
         "SP": 0,
@@ -12070,7 +12191,7 @@ var _monsterskill = {
             "EN": "Entreprenuerial Spirit"
         },
         "Desc": {
-            "CH": "每次受到攻击，除自身外敌方其他目标速度提高。",
+            "CH": "",
             "EN": "Every time the unit is attacked, the SPD of a friendly unit aside from oneself increases."
         },
         "SP": 0
@@ -12082,7 +12203,7 @@ var _monsterskill = {
             "EN": "Augury of Fireburst"
         },
         "Desc": {
-            "CH": "下次行动施放【爆裂缭灼】。",
+            "CH": "",
             "EN": "Uses Scorching Burst in the next action."
         },
         "SP": 0
@@ -12094,7 +12215,7 @@ var _monsterskill = {
             "EN": "Frost Crush"
         },
         "Desc": {
-            "CH": "对指定我方单体造成伤害，并使受到攻击的我方目标行动延后。",
+            "CH": "",
             "EN": "Deals DMG to a single target and delays their action."
         },
         "SP": 0,
@@ -12107,11 +12228,12 @@ var _monsterskill = {
             "EN": "Frost Supercrush"
         },
         "Desc": {
-            "CH": "消耗所有充能。对指定我方单体造成伤害，并大概率使受到攻击的我方目标陷入冻结状态。",
+            "CH": "",
             "EN": "Consumes all Charges. Deals DMG to a single target, with a high chance of Freezing the target."
         },
         "SP": 0,
-        "Elem": "Ice"
+        "Elem": "Ice",
+        "Threat": true
     },
     "200402007": {
         "Key": "SkillP01",
@@ -12120,7 +12242,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_龙丹施放3级强化普攻时获得增伤。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -12132,7 +12254,7 @@ var _monsterskill = {
             "EN": "S—S—S—Scared"
         },
         "Desc": {
-            "CH": "扑满被惊动了，即将在2个回合后逃离。",
+            "CH": "",
             "EN": "The Trotter got spooked and will flee in 2 turns."
         },
         "SP": 0
@@ -12144,7 +12266,7 @@ var _monsterskill = {
             "EN": "Run... Run!"
         },
         "Desc": {
-            "CH": "扑满陷入恐慌，即将在1个回合后逃离。",
+            "CH": "",
             "EN": "The Treasure Trotter is panicking and will flee in 1 turn."
         },
         "SP": 0
@@ -12156,7 +12278,7 @@ var _monsterskill = {
             "EN": "Phew... Escaped"
         },
         "Desc": {
-            "CH": "扑满拔腿就跑，瞬间失去了踪影。",
+            "CH": "",
             "EN": "The Trotter flees in an instant."
         },
         "SP": 0
@@ -12168,7 +12290,7 @@ var _monsterskill = {
             "EN": "T—Taking Revenge"
         },
         "Desc": {
-            "CH": "当我方目标攻击敌方目标后，对我方全体进行攻击，攻击次数相当于本次攻击击中的敌方目标数量。",
+            "CH": "",
             "EN": "When a friendly unit is attacked, this unit will attack all targets. The attack count is equal to the number of friendly units hit by the previous attack."
         },
         "SP": 0,
@@ -12181,7 +12303,7 @@ var _monsterskill = {
             "EN": "S—S—S—Scared"
         },
         "Desc": {
-            "CH": "扑满被惊动了，即将在2个回合后逃离。",
+            "CH": "",
             "EN": "The Trotter got spooked and will flee in 2 turns."
         },
         "SP": 0
@@ -12193,7 +12315,7 @@ var _monsterskill = {
             "EN": "Run... Run!"
         },
         "Desc": {
-            "CH": "扑满陷入恐慌，即将在1个回合后逃离。",
+            "CH": "",
             "EN": "The Treasure Trotter is panicking and will flee in 1 turn."
         },
         "SP": 0
@@ -12205,7 +12327,7 @@ var _monsterskill = {
             "EN": "Phew... Escaped"
         },
         "Desc": {
-            "CH": "扑满拔腿就跑，瞬间失去了踪影。",
+            "CH": "",
             "EN": "The Trotter flees in an instant."
         },
         "SP": 0
@@ -12217,7 +12339,7 @@ var _monsterskill = {
             "EN": "C—Cure You"
         },
         "Desc": {
-            "CH": "当除丰饶扑满外的敌方目标受到我方目标攻击后，消耗自身生命值为受到攻击的目标回复生命值。",
+            "CH": "",
             "EN": "When a friendly unit other than the Trotter of Abundance is attacked, consumes this unit's own HP to heal the attacked friendly unit."
         },
         "SP": 0
@@ -12229,7 +12351,7 @@ var _monsterskill = {
             "EN": "S—S—S—Scared"
         },
         "Desc": {
-            "CH": "扑满被惊动了，即将在2个回合后逃离。",
+            "CH": "",
             "EN": "The Trotter got spooked and will flee in 2 turns."
         },
         "SP": 0
@@ -12241,7 +12363,7 @@ var _monsterskill = {
             "EN": "Run... Run!"
         },
         "Desc": {
-            "CH": "扑满陷入恐慌，即将在1个回合后逃离。",
+            "CH": "",
             "EN": "The Treasure Trotter is panicking and will flee in 1 turn."
         },
         "SP": 0
@@ -12253,7 +12375,7 @@ var _monsterskill = {
             "EN": "Phew... Escaped"
         },
         "Desc": {
-            "CH": "扑满拔腿就跑，瞬间失去了踪影。",
+            "CH": "",
             "EN": "The Trotter flees in an instant."
         },
         "SP": 0
@@ -12265,7 +12387,7 @@ var _monsterskill = {
             "EN": "P—Protect You"
         },
         "Desc": {
-            "CH": "进入战斗时，为敌方全体提供【保…保护你】，每层【保…保护你】可抵抗1次除持续伤害外的所有伤害。敌方全体共享【保…保护你】层数。",
+            "CH": "",
             "EN": "When entering battle, applies \"P—Protect You\" to all friendly units. Each stack of \"P—Protect You\" can nullify all DMG received from 1 incoming hit except for DoTs. \"P—Protect You\" stacks are shared across the team."
         },
         "SP": 0
@@ -12277,7 +12399,7 @@ var _monsterskill = {
             "EN": "S—S—S—Scared"
         },
         "Desc": {
-            "CH": "扑满被惊动了，即将在2个回合后逃离。",
+            "CH": "",
             "EN": "The Trotter got spooked and will flee in 2 turns."
         },
         "SP": 0
@@ -12289,7 +12411,7 @@ var _monsterskill = {
             "EN": "Run... Run!"
         },
         "Desc": {
-            "CH": "扑满陷入恐慌，即将在1个回合后逃离。",
+            "CH": "",
             "EN": "The Treasure Trotter is panicking and will flee in 1 turn."
         },
         "SP": 0
@@ -12301,7 +12423,7 @@ var _monsterskill = {
             "EN": "Phew... Escaped"
         },
         "Desc": {
-            "CH": "扑满拔腿就跑，瞬间失去了踪影。",
+            "CH": "",
             "EN": "The Trotter flees in an instant."
         },
         "SP": 0
@@ -12313,7 +12435,7 @@ var _monsterskill = {
             "EN": "S—S—S—Scared"
         },
         "Desc": {
-            "CH": "扑满被惊动了，即将在2个回合后逃离。",
+            "CH": "",
             "EN": "The Trotter got spooked and will flee in 2 turns."
         },
         "SP": 0
@@ -12325,7 +12447,7 @@ var _monsterskill = {
             "EN": "Run... Run!"
         },
         "Desc": {
-            "CH": "扑满陷入恐慌，即将在1个回合后逃离。",
+            "CH": "",
             "EN": "The Treasure Trotter is panicking and will flee in 1 turn."
         },
         "SP": 0
@@ -12337,7 +12459,7 @@ var _monsterskill = {
             "EN": "Phew... Escaped"
         },
         "Desc": {
-            "CH": "扑满拔腿就跑，瞬间失去了踪影。",
+            "CH": "",
             "EN": "The Trotter flees in an instant."
         },
         "SP": 0
@@ -12349,7 +12471,7 @@ var _monsterskill = {
             "EN": "S—S—S—Scared"
         },
         "Desc": {
-            "CH": "扑满被惊动了，即将在2个回合后逃离。",
+            "CH": "",
             "EN": "The Trotter got spooked and will flee in 2 turns."
         },
         "SP": 0
@@ -12361,7 +12483,7 @@ var _monsterskill = {
             "EN": "Run... Run!"
         },
         "Desc": {
-            "CH": "扑满陷入恐慌，即将在1个回合后逃离。",
+            "CH": "",
             "EN": "The Treasure Trotter is panicking and will flee in 1 turn."
         },
         "SP": 0
@@ -12373,7 +12495,7 @@ var _monsterskill = {
             "EN": "Phew... Escaped"
         },
         "Desc": {
-            "CH": "扑满拔腿就跑，瞬间失去了踪影。",
+            "CH": "",
             "EN": "The Trotter flees in an instant."
         },
         "SP": 0
@@ -12385,7 +12507,7 @@ var _monsterskill = {
             "EN": "S—S—S—Scared"
         },
         "Desc": {
-            "CH": "扑满被惊动了，即将在2个回合后逃离。",
+            "CH": "",
             "EN": "The Trotter got spooked and will flee in 2 turns."
         },
         "SP": 0
@@ -12397,7 +12519,7 @@ var _monsterskill = {
             "EN": "Run... Run!"
         },
         "Desc": {
-            "CH": "扑满陷入恐慌，即将在1个回合后逃离。",
+            "CH": "",
             "EN": "The Treasure Trotter is panicking and will flee in 1 turn."
         },
         "SP": 0
@@ -12409,7 +12531,7 @@ var _monsterskill = {
             "EN": "Phew... Escaped"
         },
         "Desc": {
-            "CH": "扑满拔腿就跑，瞬间失去了踪影。",
+            "CH": "",
             "EN": "The Trotter flees in an instant."
         },
         "SP": 0
@@ -12421,7 +12543,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_对指定我方单体造成物理属性伤害。",
+            "CH": "",
             "EN": ""
         },
         "SP": 10.0,
@@ -12434,7 +12556,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "test_受到致命攻击时，使与自身相邻的敌方目标获得加速并陷入裂伤状态。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0,
@@ -12447,7 +12569,7 @@ var _monsterskill = {
             "EN": "S—S—S—Scared"
         },
         "Desc": {
-            "CH": "扑满被惊动了，即将在2个回合后逃离。",
+            "CH": "",
             "EN": "The Trotter got spooked and will flee in 2 turns."
         },
         "SP": 0
@@ -12459,7 +12581,7 @@ var _monsterskill = {
             "EN": "Run... Run!"
         },
         "Desc": {
-            "CH": "扑满陷入恐慌，即将在1个回合后逃离。",
+            "CH": "",
             "EN": "The Treasure Trotter is panicking and will flee in 1 turn."
         },
         "SP": 0
@@ -12471,7 +12593,7 @@ var _monsterskill = {
             "EN": "Phew... Escaped"
         },
         "Desc": {
-            "CH": "扑满拔腿就跑，瞬间失去了踪影。",
+            "CH": "",
             "EN": "The Trotter flees in an instant."
         },
         "SP": 0
@@ -12483,7 +12605,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_自身无法被选择和攻击，场上怪物被击杀时会扣血",
+            "CH": "",
             "EN": ""
         },
         "SP": 0,
@@ -12496,7 +12618,7 @@ var _monsterskill = {
             "EN": "Watchful Meteor"
         },
         "Desc": {
-            "CH": "对指定我方单体造成风属性伤害，并大概率使其陷入风化状态。",
+            "CH": "",
             "EN": "Deals Wind DMG to a single target and has a high chance to inflict Wind Shear."
         },
         "SP": 10.0,
@@ -12509,7 +12631,7 @@ var _monsterskill = {
             "EN": "Wind Walker"
         },
         "Desc": {
-            "CH": "对指定我方单体及其相邻目标造成少量风属性伤害，并有概率使受到攻击的我方目标陷入风化状态。",
+            "CH": "",
             "EN": "Deals minor Wind DMG to the target and units adjacent to the target, with a chance to inflict Wind Shear."
         },
         "SP": 10.0,
@@ -12522,7 +12644,7 @@ var _monsterskill = {
             "EN": "Wind-Twisting Crossbow"
         },
         "Desc": {
-            "CH": "进入蓄力状态，并锁定陷入风化状态的所有我方目标，下次行动施放【风落暴矢】。",
+            "CH": "",
             "EN": "Enters the Charge state and locks on to all targets currently suffering Wind Shear. Cast Windfall Storm in the next action."
         },
         "SP": 0
@@ -12534,11 +12656,12 @@ var _monsterskill = {
             "EN": "Windfall Storm"
         },
         "Desc": {
-            "CH": "对处于风化状态的我方目标造成风属性伤害。若场上没有处于风化状态的我方目标，则本技能施放失败。",
+            "CH": "",
             "EN": "Deals Wind DMG to targets afflicted with Wind Shear. This ability fails if no one on the target team suffers Wind Shear."
         },
         "SP": 15.0,
-        "Elem": "Wind"
+        "Elem": "Wind",
+        "Threat": true
     },
     "800305205": {
         "Key": "PassiveSkillInitiate",
@@ -12547,7 +12670,7 @@ var _monsterskill = {
             "EN": "Storm Cyclone"
         },
         "Desc": {
-            "CH": "攻击陷入风化状态的我方目标后，自身攻击力小幅提高。当弱点被击破时，该效果解除。",
+            "CH": "",
             "EN": "Slightly increases ATK after attacking a target afflicted with Wind Shear. This buff is dispelled upon Weakness Break."
         },
         "SP": 0
@@ -12559,7 +12682,7 @@ var _monsterskill = {
             "EN": "Windfall Storm"
         },
         "Desc": {
-            "CH": "对处于风化状态的我方目标造成风属性伤害。若场上没有处于风化状态的我方目标，则本技能施放失败。",
+            "CH": "",
             "EN": "Deals Wind DMG to targets afflicted with Wind Shear. This ability fails if no one on the target team suffers Wind Shear."
         },
         "SP": 10.0
@@ -12571,7 +12694,7 @@ var _monsterskill = {
             "EN": "Unreal Projection"
         },
         "Desc": {
-            "CH": "对指定我方单体造成量子属性伤害。",
+            "CH": "",
             "EN": "Deals Quantum DMG to a single target."
         },
         "SP": 10.0,
@@ -12584,7 +12707,7 @@ var _monsterskill = {
             "EN": "Rule of Force"
         },
         "Desc": {
-            "CH": "对指定我方单体造成量子属性伤害。",
+            "CH": "",
             "EN": "Deals Quantum DMG to a single target."
         },
         "SP": 15.0,
@@ -12597,7 +12720,7 @@ var _monsterskill = {
             "EN": "War Trample"
         },
         "Desc": {
-            "CH": "对指定我方单体及其相邻目标造成少量量子属性伤害。",
+            "CH": "",
             "EN": "Deals minor Quantum DMG to a single target and units adjacent to the target."
         },
         "SP": 10.0,
@@ -12610,7 +12733,7 @@ var _monsterskill = {
             "EN": "Spiral Arrow"
         },
         "Desc": {
-            "CH": "锁定我方单体，下次行动对该目标施放【强弩的终结】。",
+            "CH": "",
             "EN": "Locks on to a single target. Cast End of Bow to this target in the next action."
         },
         "SP": 0,
@@ -12623,11 +12746,12 @@ var _monsterskill = {
             "EN": "End of Bow"
         },
         "Desc": {
-            "CH": "对指定我方单体造成大量量子属性伤害，并大概率使受到攻击的我方目标陷入纠缠状态。",
+            "CH": "",
             "EN": "Deals massive Quantum DMG to a single target, with a high chance to inflict Entanglement."
         },
         "SP": 25.0,
-        "Elem": "Quantum"
+        "Elem": "Quantum",
+        "Threat": true
     },
     "300203001": {
         "Key": "Skill01",
@@ -12636,11 +12760,14 @@ var _monsterskill = {
             "EN": "Invitation to Drinks"
         },
         "Desc": {
-            "CH": "对指定我方单体造成物理属性伤害。",
-            "EN": "Deals Physical DMG to a single target."
+            "CH": "",
+            "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 10.0,
-        "Elem": "Phys"
+        "Elem": "Phys",
+        "DMG": [
+            2.5
+        ]
     },
     "300203002": {
         "Key": "Skill02",
@@ -12649,8 +12776,8 @@ var _monsterskill = {
             "EN": "Libation of Sweetness"
         },
         "Desc": {
-            "CH": "受到致命攻击时，使自身相邻的敌方目标速度提高并陷入裂伤状态。",
-            "EN": "Upon taking fatal DMG, increases adjacent friendly units' SPD and inflicts them with Bleed."
+            "CH": "",
+            "EN": "Upon taking fatal DMG, increases adjacent friendly units' SPD by <color style='color:#f29e38;'>30%</color> and inflicts them with Bleed."
         },
         "SP": 0
     },
@@ -12661,7 +12788,7 @@ var _monsterskill = {
             "EN": "S—S—S—Scared"
         },
         "Desc": {
-            "CH": "扑满被惊动了，即将在2个回合后逃离。",
+            "CH": "",
             "EN": "The Trotter got spooked and will flee in 2 turns."
         },
         "SP": 0
@@ -12673,7 +12800,7 @@ var _monsterskill = {
             "EN": "Run... Run!"
         },
         "Desc": {
-            "CH": "扑满陷入恐慌，即将在1个回合后逃离。",
+            "CH": "",
             "EN": "The Treasure Trotter is panicking and will flee in 1 turn."
         },
         "SP": 0
@@ -12685,7 +12812,7 @@ var _monsterskill = {
             "EN": "Phew... Escaped"
         },
         "Desc": {
-            "CH": "扑满拔腿就跑，瞬间失去了踪影。",
+            "CH": "",
             "EN": "The Trotter flees in an instant."
         },
         "SP": 0
@@ -12697,7 +12824,7 @@ var _monsterskill = {
             "EN": "S—S—S—Scared"
         },
         "Desc": {
-            "CH": "扑满被惊动了，即将在2个回合后逃离。",
+            "CH": "",
             "EN": "The Trotter got spooked and will flee in 2 turns."
         },
         "SP": 0
@@ -12709,7 +12836,7 @@ var _monsterskill = {
             "EN": "Run... Run!"
         },
         "Desc": {
-            "CH": "扑满陷入恐慌，即将在1个回合后逃离。",
+            "CH": "",
             "EN": "The Treasure Trotter is panicking and will flee in 1 turn."
         },
         "SP": 0
@@ -12721,7 +12848,7 @@ var _monsterskill = {
             "EN": "Phew... Escaped"
         },
         "Desc": {
-            "CH": "扑满拔腿就跑，瞬间失去了踪影。",
+            "CH": "",
             "EN": "The Trotter flees in an instant."
         },
         "SP": 0
@@ -12733,7 +12860,7 @@ var _monsterskill = {
             "EN": "S—S—S—Scared"
         },
         "Desc": {
-            "CH": "扑满被惊动了，即将在2个回合后逃离。",
+            "CH": "",
             "EN": "The Trotter got spooked and will flee in 2 turns."
         },
         "SP": 0
@@ -12745,7 +12872,7 @@ var _monsterskill = {
             "EN": "Run... Run!"
         },
         "Desc": {
-            "CH": "扑满陷入恐慌，即将在1个回合后逃离。",
+            "CH": "",
             "EN": "The Treasure Trotter is panicking and will flee in 1 turn."
         },
         "SP": 0
@@ -12757,7 +12884,7 @@ var _monsterskill = {
             "EN": "Phew... Escaped"
         },
         "Desc": {
-            "CH": "扑满拔腿就跑，瞬间失去了踪影。",
+            "CH": "",
             "EN": "The Trotter flees in an instant."
         },
         "SP": 0
@@ -12769,7 +12896,7 @@ var _monsterskill = {
             "EN": "S—S—S—Scared"
         },
         "Desc": {
-            "CH": "扑满被惊动了，即将在2个回合后逃离。",
+            "CH": "",
             "EN": "The Trotter got spooked and will flee in 2 turns."
         },
         "SP": 0
@@ -12781,7 +12908,7 @@ var _monsterskill = {
             "EN": "Run... Run!"
         },
         "Desc": {
-            "CH": "扑满陷入恐慌，即将在1个回合后逃离。",
+            "CH": "",
             "EN": "The Treasure Trotter is panicking and will flee in 1 turn."
         },
         "SP": 0
@@ -12793,7 +12920,7 @@ var _monsterskill = {
             "EN": "Phew... Escaped"
         },
         "Desc": {
-            "CH": "扑满拔腿就跑，瞬间失去了踪影。",
+            "CH": "",
             "EN": "The Trotter flees in an instant."
         },
         "SP": 0
@@ -12805,7 +12932,7 @@ var _monsterskill = {
             "EN": "S—S—S—Scared"
         },
         "Desc": {
-            "CH": "扑满被惊动了，即将在2个回合后逃离。",
+            "CH": "",
             "EN": "The Trotter got spooked and will flee in 2 turns."
         },
         "SP": 0
@@ -12817,7 +12944,7 @@ var _monsterskill = {
             "EN": "Run... Run!"
         },
         "Desc": {
-            "CH": "扑满陷入恐慌，即将在1个回合后逃离。",
+            "CH": "",
             "EN": "The Treasure Trotter is panicking and will flee in 1 turn."
         },
         "SP": 0
@@ -12829,7 +12956,7 @@ var _monsterskill = {
             "EN": "Phew... Escaped"
         },
         "Desc": {
-            "CH": "扑满拔腿就跑，瞬间失去了踪影。",
+            "CH": "",
             "EN": "The Trotter flees in an instant."
         },
         "SP": 0
@@ -12841,10 +12968,13 @@ var _monsterskill = {
             "EN": "Hearty Revelry"
         },
         "Desc": {
-            "CH": "受到攻击或持续伤害时，获得1层可叠加的【苏乐达陶醉】。【苏乐达陶醉】层数越高，造成的伤害越高。",
-            "EN": "Upon being attacked or taking DMG from DoT effects, gains a stack of SoulGlad Revel. Each stack increases DMG dealt."
+            "CH": "",
+            "EN": "Upon being attacked or taking DMG from DoT effects, gains a stack of SoulGlad Revel: DMG dealt increases by <color style='color:#f29e38;'>50%</color>, max <color style='color:#f29e38;'>4</color> stacks."
         },
-        "SP": 0
+        "SP": 0,
+        "Status": [
+            230020301
+        ]
     },
     "302401001": {
         "Key": "Skill01",
@@ -12853,7 +12983,7 @@ var _monsterskill = {
             "EN": "Piety"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 15.0,
@@ -12869,7 +12999,7 @@ var _monsterskill = {
             "EN": "Imbue Devotion"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害，对相邻目标造成<2>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target and <2> Physical DMG to adjacent units."
         },
         "SP": 10.0,
@@ -12886,7 +13016,7 @@ var _monsterskill = {
             "EN": "Spear & Shield"
         },
         "Desc": {
-            "CH": "随机召唤【枪尖】、【盾】、【授勋】的雕塑。",
+            "CH": "",
             "EN": "Randomly summons statues of \"Speartip,\" \"The Shield,\" and \"The Honored.\""
         },
         "SP": 0,
@@ -12903,10 +13033,11 @@ var _monsterskill = {
             "EN": "Soul of Tenacity"
         },
         "Desc": {
-            "CH": "释放一个雕塑中纯美的灵魂。<color style='color:#f29e38;'>【灵魂释放】</color>的雕塑技能效果增强，持续<color style='color:#f29e38;'>3</color>回合。",
+            "CH": "",
             "EN": "Casts a Soul of Beauty from one of the statues. The <color style='color:#f29e38;'>Soulfreed</color> statue's abilities are enhanced, lasting <color style='color:#f29e38;'>3</color> turns."
         },
         "SP": 0,
+        "Threat": true,
         "Status": [
             230240101
         ]
@@ -12918,11 +13049,12 @@ var _monsterskill = {
             "EN": "Hymn of Gorgeous Courage"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to all targets."
         },
         "SP": 10.0,
         "Elem": "Phys",
+        "Threat": true,
         "DMG": [
             3.6
         ]
@@ -12934,7 +13066,7 @@ var _monsterskill = {
             "EN": "Spear & Shield"
         },
         "Desc": {
-            "CH": "随机召唤【枪尖】、【盾】、【授勋】的雕塑。",
+            "CH": "",
             "EN": "Randomly summons statues of \"Speartip,\" \"The Shield,\" and \"The Honored.\""
         },
         "SP": 0,
@@ -12951,11 +13083,12 @@ var _monsterskill = {
             "EN": "Simian Strike"
         },
         "Desc": {
-            "CH": "消耗所有<color style='color:#f29e38;'>【元气】</color>，对被<b>监视</b>的我方单体造成<1>量子属性伤害。每消耗一层元气，额外造成<2>量子属性伤害。",
+            "CH": "",
             "EN": "Consumes all stacks of <color style='color:#f29e38;'>Gusto</color>, dealing <1> Quantum DMG to the <b>Monitored</b> target. For every stack of <color style='color:#f29e38;'>Gusto</color> consumed, deal an extra <2> Quantum DMG."
         },
         "SP": 15.0,
         "Elem": "Quantum",
+        "Threat": true,
         "Status": [
             220230212,
             220230211
@@ -12972,10 +13105,11 @@ var _monsterskill = {
             "EN": "Wrathful Roar"
         },
         "Desc": {
-            "CH": "将随机我方单体标记为<b>监视目标</b>。每当我方目标施放战技时，会转为标记最新施放战技的目标，并获得一次<color style='color:#f29e38;'>【元气】</color>。<br>下次行动释放<color style='color:#f29e38;'>【猱击】</color>，并消耗所有元气。<br>当弱点被击破时，积累的【元气】将消失。",
+            "CH": "",
             "EN": "Marks a random target for <b>Monitoring</b>. When a character uses their Skill, Monitoring will be moved to the newest Skill user, and the Ape gains 1 stack of <color style='color:#f29e38;'>Gusto</color>.<br>The next action uses <color style='color:#f29e38;'>Simian Strike</color>, consuming all stacks of Gusto.<br>Accumulated Gusto stacks will be cleared when this unit has its Weakness Broken."
         },
         "SP": 0,
+        "Threat": true,
         "Prepare": [
             202302101
         ],
@@ -12991,7 +13125,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_虚弱回复，纯表演",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -13003,7 +13137,7 @@ var _monsterskill = {
             "EN": "Simian Howl"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>量子属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Quantum DMG to all targets."
         },
         "SP": 10.0,
@@ -13019,7 +13153,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_无效果",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -13031,7 +13165,7 @@ var _monsterskill = {
             "EN": "Rite of Great Arbor Metamorphosis"
         },
         "Desc": {
-            "CH": "连续<color style='color:#f29e38;'>5</color>次：对我方随机单体造成<1>风属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>风化</b>状态。<br>风化持续伤害：每层<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+            "CH": "",
             "EN": "Continuously deal <1> Wind DMG to a random target, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG per stack. Lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 5.0,
@@ -13051,7 +13185,7 @@ var _monsterskill = {
             "EN": "Guiding Vulturnus"
         },
         "Desc": {
-            "CH": "对指定我方单体及其相邻目标造成<1>风属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>风化</b>状态。<br>风化持续伤害：每层<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to the targeted and adjacent allies, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG per stack. Lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 10.0,
@@ -13071,7 +13205,7 @@ var _monsterskill = {
             "EN": "Arboreal Thorns"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>风属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>风化</b>状态。<br>风化持续伤害：每层<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to a single target, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG per stack. Lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 15.0,
@@ -13091,11 +13225,12 @@ var _monsterskill = {
             "EN": "Black Prana's Snare"
         },
         "Desc": {
-            "CH": "有<color style='color:#f29e38;'>100%</color>基础概率使我方全体陷入<color style='color:#f29e38;'>【可叠加噬命】</color>状态，持续<color style='color:#f29e38;'>3</color>回合。<br>可叠加噬命：每次叠加时，不可回复的黑色生命值增加<color style='color:#f29e38;'>20%</color>，最多叠加<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>3</color>回合。",
+            "CH": "",
             "EN": "Has <color style='color:#f29e38;'>100%</color> Base Chance of afflicting all targets with <color style='color:#f29e38;'>Stackable Prana-Siphon</color> for <color style='color:#f29e38;'>3</color> turns.<br>Stackable Prana-Siphon: Unrecoverable Black HP increases by <color style='color:#f29e38;'>20%</color> every stack, max <color style='color:#f29e38;'>50%</color>. Lasts <color style='color:#f29e38;'>3</color> turns."
         },
         "SP": 15.0,
         "Elem": "Wind",
+        "Threat": true,
         "Status": [
             30020030
         ]
@@ -13107,11 +13242,12 @@ var _monsterskill = {
             "EN": "Vitals Drained"
         },
         "Desc": {
-            "CH": "攻击命中带有<color style='color:#f29e38;'>【可叠加噬命】</color>的目标时，将此次攻击造成的生命值损失，叠加至<color style='color:#f29e38;'>【可叠加噬命】</color>的黑色生命值里，并刷新其持续时间。",
+            "CH": "",
             "EN": "After attacking a target with <color style='color:#f29e38;'>Stackable Prana-Siphon</color>, the amount of HP lost in this attack will be added to the <color style='color:#f29e38;'>Stackable Prana-Siphon</color>'s black HP, and refreshes its duration."
         },
         "SP": 0,
-        "Elem": "Wind"
+        "Elem": "Wind",
+        "Threat": true
     },
     "301402001": {
         "Key": "Skill01",
@@ -13120,11 +13256,14 @@ var _monsterskill = {
             "EN": "Funereal Kiss"
         },
         "Desc": {
-            "CH": "对指定我方单体造成物理属性伤害。",
-            "EN": "Deals Physical DMG to a single target."
+            "CH": "",
+            "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 15.0,
-        "Elem": "Phys"
+        "Elem": "Phys",
+        "DMG": [
+            4
+        ]
     },
     "301402002": {
         "Key": "Skill02",
@@ -13133,11 +13272,14 @@ var _monsterskill = {
             "EN": "Sunken Rain"
         },
         "Desc": {
-            "CH": "对我方全体造成物理属性伤害。",
-            "EN": "Deals Physical DMG to all targets."
+            "CH": "",
+            "EN": "Deals <1> Physical DMG to all targets."
         },
         "SP": 10.0,
-        "Elem": "Phys"
+        "Elem": "Phys",
+        "DMG": [
+            2.5
+        ]
     },
     "301402003": {
         "Key": "Skill03",
@@ -13146,10 +13288,13 @@ var _monsterskill = {
             "EN": "Biting Obituary"
         },
         "Desc": {
-            "CH": "大幅提升自身造成的伤害，持续1回合，陷入弱点击破状态后解除。",
-            "EN": "Tremendously increases DMG dealt for 1 turn. This effect is removed when this unit become Weakness Broken."
+            "CH": "",
+            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>100%</color> for 1 turn. This effect is removed when this unit become Weakness Broken."
         },
-        "SP": 0
+        "SP": 0,
+        "Status": [
+            230140207
+        ]
     },
     "301402004": {
         "Key": "Skill04",
@@ -13158,10 +13303,14 @@ var _monsterskill = {
             "EN": "Fading Radiance"
         },
         "Desc": {
-            "CH": "进入【白日西沉】状态。每当我方施放普攻、战技、终结技时叠加1层，当【白日西沉】叠加至3层时，立即对上一个行动的我方施放【已在黄昏失色】。施放过一次【已在黄昏失色】或被弱点击破后解除该状态。",
-            "EN": "Enters the Sunset state. Gains 1 stack each time a character takes action. When 3 stacks are gained, immediately uses Losing Eventide Light on the last-acting character. This effect is removed after using Losing Eventide Light once or after becoming Weakness Broken."
+            "CH": "",
+            "EN": "Enters the <color style='color:#f29e38;'>Sunset</color> state. Gains 1 stack each time a character takes action. When 3 stacks are gained, immediately uses <color style='color:#f29e38;'>Losing Eventide</color> Light on the last-acting character. This effect is removed after using Losing Eventide Light once or after becoming Weakness Broken."
         },
-        "SP": 0
+        "SP": 0,
+        "Threat": true,
+        "Status": [
+            230140204
+        ]
     },
     "301402005": {
         "Key": "Skill05",
@@ -13170,10 +13319,14 @@ var _monsterskill = {
             "EN": "Losing Eventide Light"
         },
         "Desc": {
-            "CH": "立即对上一名施放普攻、战技、终结技的我方目标发动致命攻击，使其陷入【梦死】状态。",
-            "EN": "Immediately deals a killing blow to the character that acted last."
+            "CH": "",
+            "EN": "Immediately deals a killing blow to the character that acted last, making them enter <color style='color:#f29e38;'>Dreaming Till The End</color>."
         },
-        "SP": 0
+        "SP": 0,
+        "Threat": true,
+        "Status": [
+            230140201
+        ]
     },
     "301402006": {
         "Key": "Skill06",
@@ -13182,10 +13335,14 @@ var _monsterskill = {
             "EN": "Toward Moonrise"
         },
         "Desc": {
-            "CH": "进入【夜幕降临】状态，期间会锁定2名最先行动的我方目标。下次行动时使用【如水逝于水中】。",
-            "EN": "Enters the Nightfall state and locks onto the 2 characters who are due to act next. Uses Watery Dissolution in the next action."
+            "CH": "",
+            "EN": "Enters the <color style='color:#f29e38;'>Nightfall state</color> and locks onto the 2 characters who are due to act next. Uses <color style='color:#f29e38;'>Watery Dissolution</color> in the next action."
         },
-        "SP": 0
+        "SP": 0,
+        "Threat": true,
+        "Status": [
+            230140202
+        ]
     },
     "301402007": {
         "Key": "Skill07",
@@ -13194,10 +13351,11 @@ var _monsterskill = {
             "EN": "Watery Dissolution"
         },
         "Desc": {
-            "CH": "立即对所有被锁定的我方目标发动致命攻击，使其陷入【梦死】状态。如果没有被锁定的目标，则随机对2名我方目标发动致命攻击并使其陷入【梦死】状态。",
-            "EN": "Immediately deals killing blow to all locked-on targets. If no targets are being locked on, randomly lock on to two targets."
+            "CH": "",
+            "EN": "Immediately deals killing blow to all locked-on targets, making them enter <color style='color:#f29e38;'>Dreaming Till The End</color>. If no targets are being locked on, randomly lock on to two targets."
         },
-        "SP": 0
+        "SP": 0,
+        "Threat": true
     },
     "301402008": {
         "Key": "Skill08",
@@ -13218,8 +13376,8 @@ var _monsterskill = {
             "EN": "Desolation Without Lamentation"
         },
         "Desc": {
-            "CH": "每当我方目标陷入【梦死】状态时，召唤一个对应的【永眠墓碣】；当我方全体陷入【梦死】状态或无法战斗状态时，战斗失败。",
-            "EN": "Whenever a target enters the Dreaming Till The End state, summons a corresponding Tomb of Eternal Slumber. When all targets enter the Dreaming Till The End state or are knocked down, this battle will be considered a defeat."
+            "CH": "",
+            "EN": "Whenever a target enters the <color style='color:#f29e38;'>Dreaming Till The End</color> state, summons a corresponding <color style='color:#f29e38;'>Tomb of Eternal Slumber</color>. When all targets enter the Dreaming Till The End state or are knocked down, this battle will be considered a defeat."
         },
         "SP": 0
     },
@@ -13230,10 +13388,11 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_开启猎杀模式，每当有角色行动（使用终结技，普攻，战技），就会积累1点进度，当动能条满时，立即对上一个行动的角色施放【死亡宣告】。施放一次死亡宣告或被弱点击破后猎杀模式结束。",
+            "CH": "",
             "EN": ""
         },
-        "SP": 0
+        "SP": 0,
+        "Threat": true
     },
     "301402011": {
         "Key": "Skill11",
@@ -13242,7 +13401,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_对我方随机目标造成6次物理属性伤害。",
+            "CH": "",
             "EN": ""
         },
         "SP": 10.0,
@@ -13255,7 +13414,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_猎杀者开启了猎杀领域，本场战斗中所有角色受到致命伤害时不会立即死去，而是进入放逐状态；每当场上有一名角色被放逐，则召唤一颗灵魂石；击杀灵魂石，救回被放逐的角色，能回复一定的sp和生命值，获得破盾效率提升；当场上所有角色都进入放逐状态后，立即杀死所有角色。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -13267,7 +13426,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_使自身速度提高。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -13279,7 +13438,7 @@ var _monsterskill = {
             "EN": "Fleeting Gilded Spikes"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>虚数属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to a single target."
         },
         "SP": 10.0,
@@ -13295,7 +13454,7 @@ var _monsterskill = {
             "EN": "Fleeting Punishment"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>虚数属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to a single target."
         },
         "SP": 15.0,
@@ -13311,11 +13470,12 @@ var _monsterskill = {
             "EN": "Liberation of the Golden Age"
         },
         "Desc": {
-            "CH": "每有一层<color style='color:#f29e38;'>【追忆刻度】</color>，对随机我方单体造成一次<1>虚数属性伤害，最多<color style='color:#f29e38;'>9</color>层。<br>若没有【追忆刻度】则本技能施放失败。",
+            "CH": "",
             "EN": "For every stack of <color style='color:#f29e38;'>\"Gauge Recollection\"</color>, deal <1> Imaginary DMG to a random target, max <color style='color:#f29e38;'>9</color> stacks.<br>If there is no \"Gauge Recollection\", this ability will fail."
         },
         "SP": 5.0,
         "Elem": "Imaginary",
+        "Threat": true,
         "Status": [
             280030405
         ],
@@ -13330,7 +13490,7 @@ var _monsterskill = {
             "EN": "Fleeting Veil"
         },
         "Desc": {
-            "CH": "自身受到的普攻、战技、终结技、追加攻击伤害降低<color style='color:#f29e38;'>10%</color>。<br>任意攻击命中我方后，有<color style='color:#f29e38;'>1%</color>基础概率施加<b>禁锢</b>，持续<color style='color:#f29e38;'>1</color>回合。<br>禁锢：无法行动，行动延后<color style='color:#f29e38;'>50%</color>。",
+            "CH": "",
             "EN": "Reduces DMG received from Basic ATKs, Skills, Ultimates, and follow-up attacks by <color style='color:#f29e38;'>10%</color>.<br>After attacking a target, has <color style='color:#f29e38;'>1%</color> Base Chance to inflict <b>Imprisonment</b> for <color style='color:#f29e38;'>1</color> turn.<br>Imprisonment: Cannot take action, action delays by <color style='color:#f29e38;'>50%</color>."
         },
         "SP": 0,
@@ -13345,7 +13505,7 @@ var _monsterskill = {
             "EN": "Binding of the Golden Age"
         },
         "Desc": {
-            "CH": "使自身进入蓄力状态并获得<color style='color:#f29e38;'>9</color>层<color style='color:#f29e38;'>【追忆刻度】</color>，下次行动施放<color style='color:#f29e38;'>【黄金年代的解放】</color>。每次受到攻击后失去1层【追忆刻度】。",
+            "CH": "",
             "EN": "Enters the Charge state and gains <color style='color:#f29e38;'>9</color> <color style='color:#f29e38;'>Gauge Recollection</color> stacks. Casts <color style='color:#f29e38;'>Liberation of the Golden Age</color> in the next action. Every time this unit is attacked, lose 1 stack of Gauge Recollection."
         },
         "SP": 0,
@@ -13363,7 +13523,7 @@ var _monsterskill = {
             "EN": "Liberation of the Golden Age"
         },
         "Desc": {
-            "CH": "dev_连续对我方随机单体造成虚数属性伤害，若没有能量球则本技能施放失败。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -13375,7 +13535,7 @@ var _monsterskill = {
             "EN": "Sawing Evil"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害，并由<color style='color:#f29e38;'>0%</color>基础概率使受到攻击的我方目标陷入【震荡】状态。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target and has a <color style='color:#f29e38;'>0%</color> Base Chance to inflict Reverberation."
         },
         "SP": 15.0,
@@ -13391,7 +13551,7 @@ var _monsterskill = {
             "EN": "Sawing Evil"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 15.0,
@@ -13407,7 +13567,7 @@ var _monsterskill = {
             "EN": "Time to Battle"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>2</color>层<b>风化</b>状态。<br>风化持续伤害：<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>2</color> stacks of <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 10.0,
@@ -13427,7 +13587,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_对指定我方单体及相邻目标造成造成风属性伤害，并将主目标的风化层数扩散给副目标。",
+            "CH": "",
             "EN": ""
         },
         "SP": 10.0,
@@ -13440,7 +13600,7 @@ var _monsterskill = {
             "EN": "War Gear"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>风属性伤害。如受到攻击的目标正处于<color style='color:#f29e38;'>风化</color>状态，则直接造成1次风化伤害。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to a single target. If the target is currently suffering from <color style='color:#f29e38;'>Wind Shear</color>, Wind Shear immediately causes DMG 1 time."
         },
         "SP": 20.0,
@@ -13459,7 +13619,7 @@ var _monsterskill = {
             "EN": "Cyclonic Swarm"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>1</color>层<b>风化</b>状态。<br>风化持续伤害：<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to a all targets, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>1</color> stack of <b>Wind Shear</b>.<br>Wind Shear DoT: <2> Wind DMG, lasts <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 10.0,
@@ -13479,7 +13639,7 @@ var _monsterskill = {
             "EN": "Propagation"
         },
         "Desc": {
-            "CH": "繁殖2~3个<color style='color:#f29e38;'>幼蛰虫</color>或<color style='color:#f29e38;'>次蛰虫</color>。<br><br>如果为一阶段，则产生2个幼蛰虫。<br>如果为二阶段，则第一次繁殖时额外产生1个次蛰虫，后续繁殖时额外随机产生1个幼蛰虫或次蛰虫，各占50%概率。",
+            "CH": "",
             "EN": "Spawns 2~3 <color style='color:#f29e38;'>Juvenile True Sting</color> or <color style='color:#f29e38;'>Lesser True Sting</color>.<br><br>In Phase 1, spawns 2 Juvenile True Stings.<br>In Phase 2, the first Propagation spawns an extra 1 Lesser True Sting, the next Propagations spawn an extra 1 Juvenile True Sting or Lesser True Sting randomly with 50% chance each."
         },
         "SP": 0,
@@ -13495,7 +13655,7 @@ var _monsterskill = {
             "EN": "Propagation"
         },
         "Desc": {
-            "CH": "繁殖真蛰虫群。",
+            "CH": "",
             "EN": "Spawns True Stings."
         },
         "SP": 0
@@ -13507,7 +13667,7 @@ var _monsterskill = {
             "EN": "Ready Order"
         },
         "Desc": {
-            "CH": "进入蓄力状态，下次行动施放<color style='color:#f29e38;'>【虫群突袭】</color>。",
+            "CH": "",
             "EN": "Enters the Charge state. Uses <color style='color:#f29e38;'>Swarm Onslaught</color> for the next action."
         },
         "SP": 0,
@@ -13522,11 +13682,12 @@ var _monsterskill = {
             "EN": "Swarm Onslaught"
         },
         "Desc": {
-            "CH": "解除场上所有真蛰虫群的控制类负面状态与弱点击破状态。<br>对我方全体造成<1>风属性伤害。场上存在0</color>1</color>2</color>3</color>4个其他怪物时，连续0</color>4</color>5</color>6</color>7次对我方随机单体造成<2>风属性伤害。<br>我方每次受到伤害时，都有<color style='color:#f29e38;'>100%</color>基础概率陷入<color style='color:#f29e38;'>1</color>层<b>风化</b>状态。<br>为所有角色恢复<color style='color:#f29e38;'>5</color>能量",
+            "CH": "",
             "EN": "Dispels all Crowd Control debuffs and Weakness Break affecting True Stings.<br>Deals <1> Wind DMG to all targets. When there are 0</color>1</color>2</color>3</color>4 other monsters on field, repeat 0</color>4</color>5</color>6</color>7 times: Deal <2> Wind DMG to a random target.<br>Every time a character takes DMG, there is a <color style='color:#f29e38;'>100%</color> Base Chance of being inflicted with <color style='color:#f29e38;'>1</color> stack of <b>Wind Shear</b>.<br>Revive <color style='color:#f29e38;'>5</color> energy for all characters"
         },
         "SP": 10.0,
         "Elem": "Wind",
+        "Threat": true,
         "DMG": [
             2.0,
             1.8
@@ -13539,7 +13700,7 @@ var _monsterskill = {
             "EN": "Swarm Onslaught"
         },
         "Desc": {
-            "CH": "解除场上所有真蛰虫群的控制类负面状态与弱点击破状态，并对我方目标造成风属性伤害，使我方目标每次受到攻击时大概率陷入1层风化状态。",
+            "CH": "",
             "EN": "Dispels all Crowd Control debuffs and Weakness Breaks affecting True Stings. Deals Wind DMG to the target, and causes the target to have a high chance of being inflicted with 1 stack of Wind Shear every time they get attacked."
         },
         "SP": 10.0,
@@ -13552,7 +13713,7 @@ var _monsterskill = {
             "EN": "Transmission Pheromone"
         },
         "Desc": {
-            "CH": "场上每繁殖出1个真蛰虫，所有真蛰虫群造成伤害提高<color style='color:#f29e38;'>8%</color>。<br>场上仅能有1个【传衍信息素】效果生效。",
+            "CH": "",
             "EN": "Each time a True Sting is spawned, all True Stings increase DMG dealt by <color style='color:#f29e38;'>8%</color>.<br>Only 1 Transmission Pheromone effect can exist in battle at once."
         },
         "SP": 0,
@@ -13567,7 +13728,7 @@ var _monsterskill = {
             "EN": "Entomon Eulogy"
         },
         "Desc": {
-            "CH": "受到致命攻击时，对敌方全体造成<color style='color:#f29e38;'>40%自身生命值上限</color>风属性伤害和<color style='color:#f29e38;'>1.0</color>风属性削韧，并为其施加<color style='color:#f29e38;'>2</color>层<b>易伤</b>：受到的伤害提高<color style='color:#f29e38;'>10%</color>，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+            "CH": "",
             "EN": "When receiving a killing blow, deals <color style='color:#f29e38;'>40% Self Max HP</color> Wind DMG and <color style='color:#f29e38;'>1.0</color> Wind Toughness DMG to all friendly units, and inflict <color style='color:#f29e38;'>2</color> layers of <b>Vulnerability</b>: DMG taken increased by <color style='color:#f29e38;'>10%</color> for <color style='color:#f29e38;'>3</color> turns, max <color style='color:#f29e38;'>10</color> stacks."
         },
         "SP": 0,
@@ -13583,8 +13744,8 @@ var _monsterskill = {
             "EN": "Slumber Awakening"
         },
         "Desc": {
-            "CH": "当永眠墓碣受到致命攻击后，对应我方目标将解除【梦死】状态并回复生命值和能量。",
-            "EN": "After Tomb of Eternal Slumber receives a killing blow, the Dreaming Till The End state on a corresponding character will be dispelled, restoring HP and regenerating Energy."
+            "CH": "",
+            "EN": "After Tomb of Eternal Slumber receives a killing blow, the <color style='color:#f29e38;'>Dreaming Till The End</color> state on the corresponding character will be dispelled, and restores <color style='color:#f29e38;'>50% Max HP</color> and all Energy to this character."
         },
         "SP": 0
     },
@@ -13595,7 +13756,7 @@ var _monsterskill = {
             "EN": "Temporal Departure"
         },
         "Desc": {
-            "CH": "永眠墓碣不会进行行动。",
+            "CH": "",
             "EN": "Tomb of Eternal Slumber will not take action."
         },
         "SP": 0
@@ -13607,8 +13768,8 @@ var _monsterskill = {
             "EN": "Eternal Continuation"
         },
         "Desc": {
-            "CH": "永眠墓碣拥有固定格数的生命值。每次受到攻击，弱点击破和持续伤害时，都会直接扣除自身1格生命值。",
-            "EN": "Tomb of Eternal Slumber has a fixed amount of HP bars. Each time it is attacked, Weakness Broken, or receives DMG from DoT, 1 bar of HP will be depleted."
+            "CH": "",
+            "EN": "Tomb of Eternal Slumber has <color style='color:#f29e38;'>5</color> HP bars. Each time it is attacked, Weakness Broken, or receives DMG from DoT, 1 bar of HP will be depleted."
         },
         "SP": 0
     },
@@ -13619,7 +13780,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_不显示。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0,
@@ -13632,7 +13793,7 @@ var _monsterskill = {
             "EN": "Honors of the Red Queen"
         },
         "Desc": {
-            "CH": "对敌方银枝施加1层强化效果，使造成的伤害提高<color style='color:#f29e38;'>12%</color>。<br>【灵魂释放】状态下，改为施加2层。",
+            "CH": "",
             "EN": "Applies 1 stack of DMG Boost to enemy Argenti, increasing DMG dealt by <color style='color:#f29e38;'>12%</color>. <br>When in the Soulfreed state, applies 2 stacks instead."
         },
         "SP": 0,
@@ -13647,7 +13808,7 @@ var _monsterskill = {
             "EN": "Stone of Plummeting Foundation"
         },
         "Desc": {
-            "CH": "受到致命攻击时，对攻击者施加1层强化效果，使造成的伤害提高<color style='color:#f29e38;'>20%</color>。<br>【灵魂释放】状态下，改为施加2层。",
+            "CH": "",
             "EN": "When receiving a killing blow, applies 1 stack of DMG Boost to the attacker, increasing DMG dealt by <color style='color:#f29e38;'>20%</color>. <br>When in the Soulfreed state, applies 2 stacks instead."
         },
         "SP": 0
@@ -13659,7 +13820,7 @@ var _monsterskill = {
             "EN": "So Cometh Beauty's Knight"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>物理伤害。<br>【灵魂释放】状态下，改为造成<2>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to all targets. <br>When in the Soulfreed state, deals <2> Physical DMG instead."
         },
         "SP": 10.0,
@@ -13676,7 +13837,7 @@ var _monsterskill = {
             "EN": "Amor of Destined Death"
         },
         "Desc": {
-            "CH": "受到致命攻击时，对敌方全体造成<color style='color:#f29e38;'>60%自身生命值</color>物理伤害和<color style='color:#f29e38;'>1</color>点物理属性削韧。<br>【灵魂释放】状态下，改为造成<color style='color:#f29e38;'>80%自身生命值</color>物理伤害和<color style='color:#f29e38;'>2</color>点物理属性削韧。",
+            "CH": "",
             "EN": "When receiving a killing blow, deals <color style='color:#f29e38;'>60% Self HP</color> Physical DMG and <color style='color:#f29e38;'>1.0</color> Physical Toughenss DMG to all friendly units. <br>When in the Soulfreed state, deals <color style='color:#f29e38;'>80% Self HP</color> Physical DMG and <color style='color:#f29e38;'>2.0</color> Physical Toughenss DMG instead."
         },
         "SP": 0,
@@ -13689,7 +13850,7 @@ var _monsterskill = {
             "EN": "Diadem of the Stale"
         },
         "Desc": {
-            "CH": "对敌方银枝施加屏障。【灵魂释放】状态下，对敌方全体施加屏障。",
+            "CH": "",
             "EN": "Applies a Barrier to enemy Argenti. Applies Barriers to all friendly units while in the Soulfreed state."
         },
         "SP": 0,
@@ -13704,7 +13865,7 @@ var _monsterskill = {
             "EN": "Imitation of Alacritous Desire"
         },
         "Desc": {
-            "CH": "受到致命攻击时，对攻击者施加屏障。【灵魂释放】状态下，对我方全体施加屏障。",
+            "CH": "",
             "EN": "When receiving a killing blow, applies a Barrier to the attacker. Applies Barriers to all targets while in the Soulfreed state."
         },
         "SP": 0,
@@ -13719,8 +13880,8 @@ var _monsterskill = {
             "EN": "Surprise Variety Show"
         },
         "Desc": {
-            "CH": "使指定我方单体恢复能量。只能在【惊喜频道】状态下使用。",
-            "EN": "Regenerates Energy for a target. This ability can only be used while under the Surprise Channel state."
+            "CH": "",
+            "EN": "Regenerates <color style='color:#f29e38;'>50%</color> Energy for a single target. This ability can only be used while under the Surprise Channel state."
         },
         "SP": 0
     },
@@ -13731,11 +13892,14 @@ var _monsterskill = {
             "EN": "Startling Broadcast"
         },
         "Desc": {
-            "CH": "对我方全体造成少量量子属性伤害，并使我方全体损失能量。只能在【惊吓频道】状态下使用。",
-            "EN": "Deals minor Quantum DMG to all targets and causes all targets to lose Energy. This ability can only be used while under the Startled Channel state."
+            "CH": "",
+            "EN": "Deals <1> Quantum DMG to all targets and causes all targets to lose <color style='color:#f29e38;'>20%</color> Energy. This ability can only be used while under the Fright Channel state."
         },
         "SP": 0,
-        "Elem": "Quantum"
+        "Elem": "Quantum",
+        "DMG": [
+            1.6
+        ]
     },
     "300201003": {
         "Key": "Skill03",
@@ -13744,10 +13908,14 @@ var _monsterskill = {
             "EN": "Channel Switch"
         },
         "Desc": {
-            "CH": "将【惊喜频道】状态转变为【惊吓频道】状态。",
-            "EN": "Switches the Surprise Channel status to the Startled Channel status."
+            "CH": "",
+            "EN": "Switches the Surprise Channel status to the Fright Channel status."
         },
-        "SP": 0
+        "SP": 0,
+        "Status": [
+            230020101,
+            230020102
+        ]
     },
     "300201004": {
         "Key": "SkillP01",
@@ -13756,8 +13924,8 @@ var _monsterskill = {
             "EN": "Channel-to-Channel Crosstalk"
         },
         "Desc": {
-            "CH": "在受到攻击后，会从【惊喜频道】状态转变为【惊吓频道】状态，或从【惊吓频道】状态转变为【惊喜频道】状态。",
-            "EN": "After being attacked, switch from the Surprise Channel status to the Startled Channel status, or vice versa."
+            "CH": "",
+            "EN": "Initially, has the Fright Channel status.<br>After being attacked, switch from the Surprise Channel status to the Fright Channel status, or vice versa."
         },
         "SP": 0
     },
@@ -13768,7 +13936,7 @@ var _monsterskill = {
             "EN": "Horn Clash"
         },
         "Desc": {
-            "CH": "对指定我方单体造成量子属性伤害，优先攻击带有纠缠效果的目标，并额外叠加一次纠缠。",
+            "CH": "",
             "EN": "Deals Quantum DMG to a single target, prioritizing Entangled targets, and applies one extra stack of Entanglement."
         },
         "SP": 10.0,
@@ -13781,7 +13949,7 @@ var _monsterskill = {
             "EN": "Decay Eulogy"
         },
         "Desc": {
-            "CH": "受到致命攻击时，对敌方全体造成量子属性伤害，并使受到攻击的敌方目标受到的伤害提高。",
+            "CH": "",
             "EN": "When receiving a killing blow, deals Quantum DMG to all friendly units and increases their DMG received."
         },
         "SP": 0,
@@ -13794,7 +13962,7 @@ var _monsterskill = {
             "EN": "Swarm King Cannon"
         },
         "Desc": {
-            "CH": "对指定我方单体造成量子属性伤害",
+            "CH": "",
             "EN": "Deals Quantum DMG to a single target"
         },
         "SP": 10.0,
@@ -13807,7 +13975,7 @@ var _monsterskill = {
             "EN": "Radiating Venom"
         },
         "Desc": {
-            "CH": "对指定我方单体造成量子属性伤害，并大概率使受到攻击的我方目标陷入纠缠状态，同时召唤1只【蚀蛰虫】。",
+            "CH": "",
             "EN": "Deals Quantum DMG to a single target, with a high chance to inflict Entanglement. Also summons 1 Gnaw Sting."
         },
         "SP": 15.0,
@@ -13820,7 +13988,7 @@ var _monsterskill = {
             "EN": "Pyrolysis Death Beam"
         },
         "Desc": {
-            "CH": "对指定我方单体及相邻目标造成量子属性伤害。",
+            "CH": "",
             "EN": "Deals Quantum DMG to a single target and units adjacent to the target."
         },
         "SP": 10.0,
@@ -13845,7 +14013,7 @@ var _monsterskill = {
             "EN": "Carapace of Begotten Spawn"
         },
         "Desc": {
-            "CH": "进入【增殖】状态，持续直到下次行动。期间受到伤害大幅降低，并且每次受到攻击时召唤【蚀蛰虫】。【增殖】状态下被击破弱点，会对敌方全体造成等同自身韧性上限的削韧伤害，并使自身以外的敌方目标受到的伤害提高。",
+            "CH": "",
             "EN": "Enter the Multiply state until the next action. During this time, DMG received is greatly reduced, and each attack taken will cause a Gnaw Sting to be summoned. If this unit is Weakness Broken while in the Multiply state, it will deal Toughness-Reducing DMG equal to this unit's Max Toughness to all friendly units and increase the DMG taken by all other friendly units besides the target themselves."
         },
         "SP": 0
@@ -13857,11 +14025,12 @@ var _monsterskill = {
             "EN": "Ovum of Collapsed Star"
         },
         "Desc": {
-            "CH": "对我方全体造成大量量子属性伤害。",
+            "CH": "",
             "EN": "Deals massive Quantum DMG to all targets."
         },
         "SP": 20.0,
-        "Elem": "Quantum"
+        "Elem": "Quantum",
+        "Threat": true
     },
     "802501007": {
         "Key": "Skill05",
@@ -13870,7 +14039,7 @@ var _monsterskill = {
             "EN": "Carapace of Nurtured Disaster"
         },
         "Desc": {
-            "CH": "蓄力并进入【增殖】状态，持续直到下次行动。下次行动时对我方全体施放【坍星之卵】。状态持续期间受到伤害大幅降低，并且每次受到攻击时召唤【蚀蛰虫】或【次蛰虫】。【增殖】状态下被击破弱点，会对敌方全体造成等同自身韧性上限的削韧伤害，并使自身以外的敌方目标受到的伤害提高。",
+            "CH": "",
             "EN": "Charges and enters the Multiply state until the next action, whereupon Ovum of Collapsed Star will be used on all targets. During the Multiply state, DMG received is greatly reduced, and each attack taken will cause a Gnaw Sting or Lesser Sting to be summoned. If this unit is Weakness Broken while in the Multiply state, it will deal Toughness-Reducing DMG equal to this unit's Max Toughness to all friendly units and increase the DMG taken by all other friendly units besides the target themselves."
         },
         "SP": 0
@@ -13907,7 +14076,7 @@ var _monsterskill = {
             "EN": "Pedicel: Wintry Wind"
         },
         "Desc": {
-            "CH": "召唤建木枝梢<color style='color:#f29e38;'>【肃风之杪】</color>。",
+            "CH": "",
             "EN": "Summons Ambrosial Arbor branch <color style='color:#f29e38;'>\"Twig of Wintry Wind\"</color>"
         },
         "SP": 0,
@@ -13922,7 +14091,7 @@ var _monsterskill = {
             "EN": "Pedicel: Marple Leaf"
         },
         "Desc": {
-            "CH": "召唤建木枝梢<color style='color:#f29e38;'>【缃叶之杪】</color>。",
+            "CH": "",
             "EN": "Summons Ambrosial Arbor branch <color style='color:#f29e38;'>\"Twig of Marple Leaf\"</color>"
         },
         "SP": 0,
@@ -13937,7 +14106,7 @@ var _monsterskill = {
             "EN": "Pedicel: Glorious Blooms"
         },
         "Desc": {
-            "CH": "召唤建木枝梢<color style='color:#f29e38;'>【繁花之杪】</color>。",
+            "CH": "",
             "EN": "Summons Ambrosial Arbor branch <color style='color:#f29e38;'>\"Twig of Glorious Blooms\"</color>"
         },
         "SP": 0,
@@ -13952,7 +14121,7 @@ var _monsterskill = {
             "EN": "Pedicel: Lavish Fruits"
         },
         "Desc": {
-            "CH": "召唤建木枝梢<color style='color:#f29e38;'>【嘉实之杪】</color>。",
+            "CH": "",
             "EN": "Summons Ambrosial Arbor branch <color style='color:#f29e38;'>\"Twig of Lavish Fruits\"</color>"
         },
         "SP": 0,
@@ -13967,7 +14136,7 @@ var _monsterskill = {
             "EN": "Wavering Bleat"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>雷属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Lightning DMG to a single target."
         },
         "SP": 20.0,
@@ -13983,7 +14152,7 @@ var _monsterskill = {
             "EN": "Caress of Wind"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>风属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Wind DMG to all targets."
         },
         "SP": 15.0,
@@ -13999,7 +14168,7 @@ var _monsterskill = {
             "EN": "Hardy Leaf Sheath"
         },
         "Desc": {
-            "CH": "进入<color style='color:#f29e38;'>【蕉覆】</color>状态：防御力提升<color style='color:#f29e38;'>200%</color>，且使自身韧性无法受到伤害，持续<color style='color:#f29e38;'>1</color>回合。",
+            "CH": "",
             "EN": "Enters <color style='color:#f29e38;'>Hardy Leaf Sheath</color> state: DEF increased by <color style='color:#f29e38;'>200%</color>, toughness cannot be reduced, lasts <color style='color:#f29e38;'>1</color> turn."
         },
         "SP": 0,
@@ -14014,11 +14183,12 @@ var _monsterskill = {
             "EN": "Flamboyant Gore"
         },
         "Desc": {
-            "CH": "当场上存在2个【嘉实】时立即施放该技能，对我方全体造成<1>雷属性伤害。<br>场上每存在一个【建木枝梢】，额外造成<2>雷属性伤害。<br>施放技能后，清除场上所有的<color style='color:#f29e38;'>【嘉实之杪】</color>。",
+            "CH": "",
             "EN": "Uses this ability immediately when there are 2 Lavish Fruits on the field: Deals <1> Lightning DMG to all targets.<br>For every \"Ambrosial Arbor Branches\" on the field, an extra <2> Lightning DMG is dealt.<br>After the ability is used, remove all <color style='color:#f29e38;'>Twigs of Lavish Fruits</color> on the field."
         },
         "SP": 20.0,
         "Elem": "Elec",
+        "Threat": true,
         "Status": [
             220221001
         ],
@@ -14034,7 +14204,7 @@ var _monsterskill = {
             "EN": "Everlife"
         },
         "Desc": {
-            "CH": "立即回复<color style='color:#f29e38;'>10%生命值上限</color>，并获得<color style='color:#f29e38;'>1</color>层<color style='color:#f29e38;'>【若木化生】</color>。<br>若木化生：每回合回复<color style='color:#f29e38;'>4%生命值上限</color>。最多叠加<color style='color:#f29e38;'>5</color>层。",
+            "CH": "",
             "EN": "Immediately restores <color style='color:#f29e38;'>10% Max HP</color> and gains <color style='color:#f29e38;'>1</color> stack of <color style='color:#f29e38;'>Synwood Renewal</color>.<br>Synwood Renewal: Restores <color style='color:#f29e38;'>4% Max HP</color> every turn. Max <color style='color:#f29e38;'>5</color> stacks."
         },
         "SP": 0,
@@ -14049,7 +14219,7 @@ var _monsterskill = {
             "EN": "Pedicel: Ivy Allure"
         },
         "Desc": {
-            "CH": "召唤2个建木枝梢<color style='color:#f29e38;'>【肃风之杪】</color>。",
+            "CH": "",
             "EN": "Summons 2 Ambrosial Arbor Branch <color style='color:#f29e38;'>\"Twig of Wintry Wind.\"</color>"
         },
         "SP": 0,
@@ -14064,7 +14234,7 @@ var _monsterskill = {
             "EN": "Pedicel: Willow Sprig"
         },
         "Desc": {
-            "CH": "召唤2个建木枝梢<color style='color:#f29e38;'>【缃叶之杪】</color>。",
+            "CH": "",
             "EN": "Summons 2 Ambrosial Arbor Branch <color style='color:#f29e38;'>\"Twig of Marple Leaf.\"</color>"
         },
         "SP": 0,
@@ -14079,7 +14249,7 @@ var _monsterskill = {
             "EN": "Pedicel: Hazel Lush"
         },
         "Desc": {
-            "CH": "召唤2个建木枝梢<color style='color:#f29e38;'>【缃叶之杪】</color>，1个建木枝梢<color style='color:#f29e38;'>【肃风之杪】</color>，1个建木枝梢<color style='color:#f29e38;'>【繁花之杪】</color>。",
+            "CH": "",
             "EN": "Summons 2 <color style='color:#f29e38;'>\"Twig of Marple Leaf\"</color>, 1 <color style='color:#f29e38;'>\"Twig of Wintry Wind\"</color>, and 1 <color style='color:#f29e38;'>\"Twig of Glorious Blooms\"</color>."
         },
         "SP": 0,
@@ -14096,7 +14266,7 @@ var _monsterskill = {
             "EN": "Pedicel: Entwined Vines"
         },
         "Desc": {
-            "CH": "召唤2个建木枝梢<color style='color:#f29e38;'>【嘉实之杪】</color>，1个建木枝梢<color style='color:#f29e38;'>【缃叶之杪】</color>，1个建木枝梢<color style='color:#f29e38;'>【肃风之杪】</color>。",
+            "CH": "",
             "EN": "Summons 2 <color style='color:#f29e38;'>\"Twig of Lavish Fruits\"</color>, 1 <color style='color:#f29e38;'>\"Twig of Marple Leaf\"</color>, and 1 <color style='color:#f29e38;'>\"Twig of Wintry Wind\"</color>."
         },
         "SP": 0,
@@ -14113,7 +14283,7 @@ var _monsterskill = {
             "EN": "Vigor Overflow"
         },
         "Desc": {
-            "CH": "每当丰饶玄鹿获得增益效果时，丰饶玄鹿和所有建木枝梢造成的伤害提高<color style='color:#f29e38;'>15%</color>，可叠加。<br>第三阶段的生命值变为原本的<color style='color:#f29e38;'>1.66</color>倍。",
+            "CH": "",
             "EN": "For every buff the Abundant Ebon Deer gains, the DMG dealt by the Abundant Ebon Deer and all Ambrosial Arbor Branches increases by <color style='color:#f29e38;'>15%</color>. This effect is stackable.<br>Phase 3 Max HP becomes <color style='color:#f29e38;'>1.66</color> times the original."
         },
         "SP": 0,
@@ -14128,7 +14298,7 @@ var _monsterskill = {
             "EN": "Shovel Attack"
         },
         "Desc": {
-            "CH": "对指定我方单体造成少量物理伤害。",
+            "CH": "",
             "EN": "Deals minor Physical DMG to a single target."
         },
         "SP": 10.0,
@@ -14141,7 +14311,7 @@ var _monsterskill = {
             "EN": "Inspire"
         },
         "Desc": {
-            "CH": "使指定敌方单体攻击力提高并立即行动。",
+            "CH": "",
             "EN": "Increases a friendly unit's ATK and causes them to act immediately."
         },
         "SP": 0
@@ -14153,7 +14323,7 @@ var _monsterskill = {
             "EN": "Adjudicate"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 10.0,
@@ -14169,7 +14339,7 @@ var _monsterskill = {
             "EN": "Subdue"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>70%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【震荡】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>【震荡】状态下的目标受到攻击后，陷入<color style='color:#f29e38;'>【强烈震荡】</color>状态，然后解除【震荡】状态。<br>【强烈震荡】状态下的目标无法行动，且行动延后<color style='color:#f29e38;'>70%</color>，持续<color style='color:#f29e38;'>1</color>回合。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target and has a <color style='color:#f29e38;'>70%</color> Base Chance to inflict <color style='color:#f29e38;'>Reverberation</color>, lasting <color style='color:#f29e38;'>2</color> turns. <br>After targets suffering from Reverberation receive an attack, enters <color style='color:#f29e38;'>Strong Reverberation</color>, then dispel Reverberation. <br>Strong Reverberation delays action by <color style='color:#f29e38;'>70%</color>, and renders the character unable to act, lasting <color style='color:#f29e38;'>1</color> turn."
         },
         "SP": 10.0,
@@ -14189,7 +14359,7 @@ var _monsterskill = {
             "EN": "Revert Yin and Yang"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>物理伤害。<br>若我方有至少3名角色未处于【震荡】与【强烈震荡】状态，则从这些角色中选择2名，有<color style='color:#f29e38;'>35%</color>基础概率使其陷入<color style='color:#f29e38;'>【震荡】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>若我方有至多2名角色未处于【震荡】与【强烈震荡】状态，则从这些角色中选择1名，有<color style='color:#f29e38;'>35%</color>基础概率使其陷入<color style='color:#f29e38;'>【震荡】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to all targets.<br>If there are at least 3 characters not Reverberated, then pick 2 such characters and inflict <color style='color:#f29e38;'>Reverberation</color> with a <color style='color:#f29e38;'>35%</color> Base Chance, lasting <color style='color:#f29e38;'>2</color> turns.<br>If there are at most 2 characters not Reverberated, then pick 1 such character and inflict <color style='color:#f29e38;'>Reverberation</color> with a <color style='color:#f29e38;'>35%</color> Base Chance, lasting <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 10.0,
@@ -14209,7 +14379,7 @@ var _monsterskill = {
             "EN": "Soul Warrant"
         },
         "Desc": {
-            "CH": "场上有我方目标陷入<color style='color:#f29e38;'>【强烈震荡】</color>状态时，锁定该目标，下次行动对其施放<color style='color:#f29e38;'>【天坠】</color>。",
+            "CH": "",
             "EN": "When there are targets afflicted with <color style='color:#f29e38;'>Strong Reverberation</color> on the field, lock on to those targets and during the next action, use <color style='color:#f29e38;'>Heaven's Fall on them</color>"
         },
         "SP": 0,
@@ -14228,7 +14398,7 @@ var _monsterskill = {
             "EN": "Summons Prison Guard"
         },
         "Desc": {
-            "CH": "召唤<color style='color:#f29e38;'>【幽府武弁】</color>。",
+            "CH": "",
             "EN": "Summons <color style='color:#f29e38;'>Wraith Warden</color>"
         },
         "SP": 10.0,
@@ -14244,7 +14414,7 @@ var _monsterskill = {
             "EN": "Disciplined"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 10.0,
@@ -14260,7 +14430,7 @@ var _monsterskill = {
             "EN": "In Training..."
         },
         "Desc": {
-            "CH": "进入蓄力状态，下次行动施放<color style='color:#f29e38;'>【企业文化冲击】</color>。",
+            "CH": "",
             "EN": "Enters the Charge state. Uses <color style='color:#f29e38;'>Work Culture Shock</color> in the next action."
         },
         "SP": 0,
@@ -14275,11 +14445,12 @@ var _monsterskill = {
             "EN": "Work Culture Shock"
         },
         "Desc": {
-            "CH": "对我方全体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to all targets."
         },
         "SP": 20.0,
         "Elem": "Phys",
+        "Threat": true,
         "DMG": [
             4.2
         ]
@@ -14291,7 +14462,7 @@ var _monsterskill = {
             "EN": "720-Degree Review"
         },
         "Desc": {
-            "CH": "夺取所有【基层员工•外勤】和【基层员工•安保】的<color style='color:#f29e38;'>【绩效点】</color>。",
+            "CH": "",
             "EN": "Seizes all <color style='color:#f29e38;'>Performance Points</color> from Grunt — Field Personnel and Grunt — Security Personnel."
         },
         "SP": 0,
@@ -14306,7 +14477,7 @@ var _monsterskill = {
             "EN": "Worst Performer Is Fired"
         },
         "Desc": {
-            "CH": "消灭一名没有绩效点的【基层员工•外勤】或【基层员工•安保】。<br>召唤【基层员工•外勤】或【基层员工•安保】，并使所有【基层员工•外勤】和【基层员工•安保】获得1个<color style='color:#f29e38;'>【绩效点】</color>。",
+            "CH": "",
             "EN": "Eliminates an IPC Employee that has no Performance Points.<br>Summons IPC Employee, and gives a <color style='color:#f29e38;'>Performance Point</color> to all of them."
         },
         "SP": 0,
@@ -14319,7 +14490,7 @@ var _monsterskill = {
             "EN": "Cost Reduction"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 15.0,
@@ -14335,7 +14506,7 @@ var _monsterskill = {
             "EN": "Worst Performer Is Fired"
         },
         "Desc": {
-            "CH": "消灭一名没有绩效点的【基层员工•外勤】或【基层员工•安保】。<br>召唤【基层员工•外勤】或【基层员工•安保】，并使所有【基层员工•外勤】和【基层员工•安保】获得1个<color style='color:#f29e38;'>【绩效点】</color>。",
+            "CH": "",
             "EN": "Eliminates an IPC Employee that has no Performance Points.<br>Summons IPC Employee, and gives a <color style='color:#f29e38;'>Performance Point</color> to all of them."
         },
         "SP": 0,
@@ -14348,7 +14519,7 @@ var _monsterskill = {
             "EN": "Dread"
         },
         "Desc": {
-            "CH": "提高<color style='color:#f29e38;'>33%</color>【惩戒度】等级，并对我方全体造成<1>虚数属性伤害。<br>有<color style='color:#f29e38;'>60%</color>基础概率使我方目标陷入<b>虚弱</b>状态。<br>虚弱：造成的伤害降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+            "CH": "",
             "EN": "Increases Sanction Rate level by <color style='color:#f29e38;'>33%</color> and deals <1> Imaginary DMG to all targets.<br>Has a <color style='color:#f29e38;'>60%</color> Base Chance to <b>Weaken</b> them.<br>Weaken: DMG dealt decreases by <color style='color:#f29e38;'>20%</color>, lasts <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 5.0,
@@ -14367,7 +14538,7 @@ var _monsterskill = {
             "EN": "Restraint"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>虚数属性伤害。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to a single target."
         },
         "SP": 10.0,
@@ -14383,11 +14554,12 @@ var _monsterskill = {
             "EN": "Enchainment"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>虚数属性伤害，同时有<color style='color:#f29e38;'>10%</color>基础概率使受到攻击的我方目标陷入<b>禁锢</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>禁锢：无法行动，行动延后<color style='color:#f29e38;'>50%</color>。",
+            "CH": "",
             "EN": "Deals <1> Imaginary DMG to a single target, with a <color style='color:#f29e38;'>10%</color> Base Chance of inflicting <b>Imprisonment</b> for <color style='color:#f29e38;'>1</color> turn.<br>Imprisonment: Cannot take action, action delayed by <color style='color:#f29e38;'>50%</color>."
         },
         "SP": 15.0,
         "Elem": "Imaginary",
+        "Threat": true,
         "DMG": [
             5.0
         ]
@@ -14399,7 +14571,7 @@ var _monsterskill = {
             "EN": "Farewell Etiquette"
         },
         "Desc": {
-            "CH": "当我方目标施放战技或终结技进行攻击时会积累<color style='color:#f29e38;'>33%</color>【惩戒度】等级。<br>当【惩戒度】等级满级时，立即进入【罚恶模式】：速度提升<color style='color:#f29e38;'>30</color>点，可以使用<color style='color:#f29e38;'>【戒退】</color>和<color style='color:#f29e38;'>【缚束】</color>，同时召唤<color style='color:#f29e38;'>2</color>个【入魔机巧 • 灯昼龙鱼】。",
+            "CH": "",
             "EN": "The Sanction Rate level increases by <color style='color:#f29e38;'>33%</color> when your team uses Skills or Ultimates. <br>When the Sanction Rate is full, enters Sanction mode, SPD increased by <color style='color:#f29e38;'>30</color>, starts using <color style='color:#f29e38;'>Restraint</color> and <color style='color:#f29e38;'>Enchainment</color>, and summons <color style='color:#f29e38;'>2</color> Entranced Ingenium: Illumination Dragonfish."
         },
         "SP": 0,
@@ -14421,7 +14593,7 @@ var _monsterskill = {
             "EN": "Soulsplit"
         },
         "Desc": {
-            "CH": "自身无法被选择和攻击，场上每有一个敌人被击杀，失去<color style='color:#f29e38;'>5%</color>生命值。",
+            "CH": "",
             "EN": "Cannot be selected or attacked directly. Loses <color style='color:#f29e38;'>5%</color> HP for each other enemy eliminated."
         },
         "SP": 0
@@ -14433,7 +14605,7 @@ var _monsterskill = {
             "EN": "Rapid Gambit"
         },
         "Desc": {
-            "CH": "使敌方全体行动提前<color style='color:#f29e38;'>100%</color>。",
+            "CH": "",
             "EN": "Advances all targets' action by <color style='color:#f29e38;'>100%</color>."
         },
         "SP": 0
@@ -14445,7 +14617,7 @@ var _monsterskill = {
             "EN": "Hesitation"
         },
         "Desc": {
-            "CH": "尝试发动了技能，但什么都没发生。",
+            "CH": "",
             "EN": "Tries to use an ability, but nothing happens."
         },
         "SP": 0
@@ -14457,11 +14629,14 @@ var _monsterskill = {
             "EN": "Limited Free Drink"
         },
         "Desc": {
-            "CH": "对指定我方单体造成冰属性伤害，如果目标身上拥有护盾，则造成伤害后还会反弹给自身。",
-            "EN": "Deals Ice DMG to a single target. If the target has Shield, the DMG will rebound back to this unit after dealing DMG."
+            "CH": "",
+            "EN": "Deals <1> Ice DMG to a single target. If the target has Shield, will deal <color style='color:#f29e38;'>10% Max HP</color> Ice DMG to self."
         },
         "SP": 10.0,
-        "Elem": "Ice"
+        "Elem": "Ice",
+        "DMG": [
+            3.8
+        ]
     },
     "300302002": {
         "Key": "Skill02",
@@ -14470,11 +14645,15 @@ var _monsterskill = {
             "EN": "Bottomless Free Drink"
         },
         "Desc": {
-            "CH": "对我方随机单体造成4次冰属性伤害，如果目标身上拥有护盾，则造成伤害后还会反弹给自身。",
-            "EN": "Randomly deals Ice DMG 4 times to single targets. If the target has Shield, the DMG will rebound back to this unit after dealing DMG."
+            "CH": "",
+            "EN": "Randomly deals <1> Ice DMG 4 times to single targets. After every hit, if the target has Shield, will deal <color style='color:#f29e38;'>10% Max HP</color> Ice DMG to self."
         },
         "SP": 10.0,
-        "Elem": "Ice"
+        "Elem": "Ice",
+        "Threat": true,
+        "DMG": [
+            3.8
+        ]
     },
     "300302003": {
         "Key": "Skill03",
@@ -14483,7 +14662,7 @@ var _monsterskill = {
             "EN": "SoulGlad Party"
         },
         "Desc": {
-            "CH": "召唤2只【气泡锂犬】。",
+            "CH": "",
             "EN": "Summons 2 Bubble Hounds."
         },
         "SP": 0
@@ -14495,8 +14674,8 @@ var _monsterskill = {
             "EN": "Celebration Fountain"
         },
         "Desc": {
-            "CH": "进入蓄力状态，获得韧性保护，下次行动时施放【无限畅饮】。",
-            "EN": "Enters the Charge stage and gains Toughness Protection. Uses Bottomless Free Drink during the next action."
+            "CH": "",
+            "EN": "Enters the Charge stage and gains <color style='color:#f29e38;'>Toughness Protection</color>. Uses <color style='color:#f29e38;'>Bottomless Free Drink</color> during the next action."
         },
         "SP": 0
     },
@@ -14507,7 +14686,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_受到攻击或持续伤害时，获得可乐标记，可叠加。可乐标记层数越高，造成的伤害越高，造成伤害后可乐标记清零。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -14519,7 +14698,7 @@ var _monsterskill = {
             "EN": "Sawing Evil"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【震荡】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>【震荡】状态下的目标受到攻击后，陷入<color style='color:#f29e38;'>【强烈震荡】</color>状态，然后解除【震荡】状态。<br>【强烈震荡】状态下的目标无法行动，且行动延后<color style='color:#f29e38;'>70%</color>，持续<color style='color:#f29e38;'>1</color>回合。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target and has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <color style='color:#f29e38;'>Reverberation</color>, lasting <color style='color:#f29e38;'>2</color> turns. <br>After targets suffering from Reverberation receive an attack, enters <color style='color:#f29e38;'>Strong Reverberation</color>, then dispel Reverberation. <br>Strong Reverberation delays action by <color style='color:#f29e38;'>70%</color>, and renders the character unable to act, lasting <color style='color:#f29e38;'>1</color> turn."
         },
         "SP": 15.0,
@@ -14539,7 +14718,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_命令云骑妹对瞄准的角色进行合击（不使用）",
+            "CH": "",
             "EN": ""
         },
         "SP": 10.0,
@@ -14552,7 +14731,7 @@ var _monsterskill = {
             "EN": "Performance Boost"
         },
         "Desc": {
-            "CH": "每次施放攻击后获得1个【绩效点】：造成的伤害提升<color style='color:#f29e38;'>50%</color>。<br>【绩效点】可在自身弱点被击破时或自身被消灭时被攻击者夺取。",
+            "CH": "",
             "EN": "Receives 1 <color style='color:#f29e38;'>Performance Point</color> after unleashing an attack, increasing DMG dealt by <color style='color:#f29e38;'>50%</color>.<br>Performance Points can be seized by the attacker when this unit's Weakness is Broken or is defeated."
         },
         "SP": 0,
@@ -14567,11 +14746,14 @@ var _monsterskill = {
             "EN": "Vigorous Ladle Swirl"
         },
         "Desc": {
-            "CH": "对我方单体造成火属性伤害。",
-            "EN": "Deals Fire DMG to a single target."
+            "CH": "",
+            "EN": "Deals <1> Fire DMG to a single target."
         },
         "SP": 10.0,
-        "Elem": "Fire"
+        "Elem": "Fire",
+        "DMG": [
+            3.2
+        ]
     },
     "300301002": {
         "Key": "Skill02",
@@ -14580,11 +14762,15 @@ var _monsterskill = {
             "EN": "Tornado Toss"
         },
         "Desc": {
-            "CH": "对我方单体及相邻单位造成少量火属性伤害。",
-            "EN": "Deals minor Fire DMG to a single target and adjacent units."
+            "CH": "",
+            "EN": "Deals <1> Fire DMG to a single target and <2> Fire DMG to adjacent units."
         },
         "SP": 10.0,
-        "Elem": "Fire"
+        "Elem": "Fire",
+        "DMG": [
+            2.8,
+            2.2
+        ]
     },
     "300301003": {
         "Key": "Skill06",
@@ -14593,8 +14779,8 @@ var _monsterskill = {
             "EN": "Ignite Stove"
         },
         "Desc": {
-            "CH": "进入蓄力状态。若在下次行动时未将【炉灶加温】叠加至一定层数，则释放【烈焰爆炒】，并清除所有【炉灶加温】层数。",
-            "EN": "Enters a Charge state. In the next action, uses Flaming Stir-Fry if Stove Overheating has not reached a certain number of stacks, then clears all Stove Heating and Stove Overheating stacks."
+            "CH": "",
+            "EN": "Enters a Charge state. In the next action, uses <color style='color:#f29e38;'>Flaming Stir-Fry</color> if Stove Overheating has not reached <color style='color:#f29e38;'>6</color> stacks, then clears all Stove Heating and Stove Overheating stacks."
         },
         "SP": 0,
         "Elem": "Fire"
@@ -14606,11 +14792,15 @@ var _monsterskill = {
             "EN": "Flaming Stir-Fry"
         },
         "Desc": {
-            "CH": "对我方全体造成大量火属性伤害。",
-            "EN": "Deals massive Fire DMG to all targets."
+            "CH": "",
+            "EN": "Deals <1> Fire DMG to all targets."
         },
         "SP": 20.0,
-        "Elem": "Fire"
+        "Elem": "Fire",
+        "Threat": true,
+        "DMG": [
+            6.2
+        ]
     },
     "300301005": {
         "Key": "Skill05",
@@ -14619,8 +14809,8 @@ var _monsterskill = {
             "EN": "Kitchen Mishap"
         },
         "Desc": {
-            "CH": "进入蓄力状态后，当【炉灶加温】叠加至一定层数时，立即对敌方全体单位造成大量火属性伤害，并使自身防御降低，同时清除所有【炉灶加温】层数。",
-            "EN": "After entering the Charge state, deals massive Fire DMG to all targets and decreases this unit's DEF once Stove Overheating has a certain number of stacks. Then, clears all Stove Heating and Stove Overheating stacks."
+            "CH": "",
+            "EN": "After entering the Charge state, once Stove Overheating has <color style='color:#f29e38;'>6</color> stacks, deals <color style='color:#f29e38;'>30% Max HP</color> Fire DMG and <color style='color:#f29e38;'>10</color> Fire Toughness DMG to self, deals <color style='color:#f29e38;'>5% Max HP</color> Fire DMG and <color style='color:#f29e38;'>3</color> Fire Toughness DMG to other friendly units, and decreases own DEF by <color style='color:#f29e38;'>50%</color>.<br>Then, clears all Stove Heating and Stove Overheating stacks."
         },
         "SP": 0,
         "Elem": "Fire"
@@ -14632,8 +14822,8 @@ var _monsterskill = {
             "EN": "Flame-Forged Feast"
         },
         "Desc": {
-            "CH": "当【炉灶加温】叠加一定层数时立即行动，并释放【点燃炉灶】。",
-            "EN": "Immediately takes action when Stove Heating reaches a certain number of stacks, and uses Ignite Stove."
+            "CH": "",
+            "EN": "Immediately takes action when <color style='color:#f29e38;'>Stove Heating</color> reaches <color style='color:#f29e38;'>6</color> stacks, and uses <color style='color:#f29e38;'>Ignite Stove</color>."
         },
         "SP": 0
     },
@@ -14644,10 +14834,14 @@ var _monsterskill = {
             "EN": "Inferno Stove"
         },
         "Desc": {
-            "CH": "自身在攻击时有概率对目标施加减速状态。当自身受到攻击或持续伤害时，叠加一层【炉灶加温】。",
-            "EN": "When in the Simmer state, receiving attacks or DoT will increase Stove Heating by 1 stack. For every stack of Stove Heating gained, this unit's ATK increases. When in the Boil state, receiving attacks or DoT will increase Stove Overheating by 1 stack, and has a chance to apply Slow to the target when attacking."
+            "CH": "",
+            "EN": "When in the <b>Simmer</b> state, receiving attacks or DoT will increase <color style='color:#f29e38;'>Stove Heating</color> by 1 stack. When Stove Heating reaches <color style='color:#f29e38;'>6</color> stacks, enters the <b>Boil</b> state. In <b>Boil</b> state, receiving attacks or DoT will increase <color style='color:#f29e38;'>Stove Overheating</color> by 1 stack, and has a <color style='color:#f29e38;'>50%</color> Base Chance to reduce the target's SPD by <color style='color:#f29e38;'>20%</color> when attacking, lasting <color style='color:#f29e38;'>2</color> turns."
         },
-        "SP": 0
+        "SP": 0,
+        "Status": [
+            230030104,
+            230030105
+        ]
     },
     "301202001": {
         "Key": "Skill03",
@@ -14656,11 +14850,14 @@ var _monsterskill = {
             "EN": "Structural Deviation"
         },
         "Desc": {
-            "CH": "对指定我方单体造成物理属性伤害。",
-            "EN": "Deals Physical DMG to a single target."
+            "CH": "",
+            "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 10.0,
-        "Elem": "Phys"
+        "Elem": "Phys",
+        "DMG": [
+            3
+        ]
     },
     "301202002": {
         "Key": "SkillP01",
@@ -14669,10 +14866,13 @@ var _monsterskill = {
             "EN": "Aegis of the Unyielding"
         },
         "Desc": {
-            "CH": "进入【守备】状态，未击破时受到的伤害降低，击破时行动额外延后，击破后受到的伤害提高。",
-            "EN": "Enters a On Guard state, and reduces DMG received when not Weakness Broken. Once it is Weakness Broken, actoins will be delayed and increases DMG received after."
+            "CH": "",
+            "EN": "Enters <color style='color:#f29e38;'>On Guard</color> state, and reduces DMG received by <color style='color:#f29e38;'>60%</color> when not Weakness Broken. Once it is Weakness Broken, action will be delayed by an extra <color style='color:#f29e38;'>75%</color> and increases DMG received by <color style='color:#f29e38;'>50%</color>."
         },
-        "SP": 0
+        "SP": 0,
+        "Status": [
+            230120201
+        ]
     },
     "302402001": {
         "Key": "Skill01",
@@ -14681,11 +14881,14 @@ var _monsterskill = {
             "EN": "BHF: Fiery Advance"
         },
         "Desc": {
-            "CH": "对指定我方单体造成少量火属性伤害。",
-            "EN": "Deals minor Fire DMG to a single target."
+            "CH": "",
+            "EN": "Deals <1> Fire DMG to a single target."
         },
         "SP": 10.0,
-        "Elem": "Fire"
+        "Elem": "Fire",
+        "DMG": [
+            2
+        ]
     },
     "302402002": {
         "Key": "Skill02",
@@ -14694,11 +14897,15 @@ var _monsterskill = {
             "EN": "BHF: Heavenly Fire"
         },
         "Desc": {
-            "CH": "对指定我方单体及其相邻目标造成少量火属性伤害。",
-            "EN": "Deals Fire DMG to a single target and units adjacent to the target."
+            "CH": "",
+            "EN": "Deals <1> Fire DMG to a single target and <2> Fire DMG to adjacent units."
         },
         "SP": 10.0,
-        "Elem": "Fire"
+        "Elem": "Fire",
+        "DMG": [
+            2.4,
+            1.2
+        ]
     },
     "302402003": {
         "Key": "Skill03",
@@ -14707,11 +14914,14 @@ var _monsterskill = {
             "EN": "BBHF: Scorched Earth"
         },
         "Desc": {
-            "CH": "对我方全体造成少量火属性伤害。",
-            "EN": "Deals Fire DMG to all targets."
+            "CH": "",
+            "EN": "Deals <1> Fire DMG to all targets."
         },
         "SP": 15.0,
-        "Elem": "Fire"
+        "Elem": "Fire",
+        "DMG": [
+            1.8
+        ]
     },
     "302402004": {
         "Key": "Skill04",
@@ -14720,10 +14930,11 @@ var _monsterskill = {
             "EN": "DHGDR: Incomplete Combustion"
         },
         "Desc": {
-            "CH": "消耗自身生命值，进入【次级燃烧】并解除【弱点无效】效果。进入【次级燃烧】后自身大幅增强，但所有攻击会消耗自身生命值。",
-            "EN": "Consumes HP to enter the Incomplete Combustion state and removes Weakness Protected. Sam is significantly more powerful in this state, but all his attacks consume his own HP."
+            "CH": "",
+            "EN": "Initially has Weakness Protected.<br>Consumes <color style='color:#f29e38;'>4% Max HP</color> to enter the <color style='color:#f29e38;'>Incomplete Combustion</color> state and removes Weakness Protected. Sam is significantly more powerful in this state, but all his attacks consume <color style='color:#f29e38;'>2% Max HP</color> and <color style='color:#f29e38;'>7%</color> Molten Energy."
         },
-        "SP": 0
+        "SP": 0,
+        "Threat": true
     },
     "302402005": {
         "Key": "Skill05",
@@ -14732,11 +14943,16 @@ var _monsterskill = {
             "EN": "DHGDR: Supernova Overload"
         },
         "Desc": {
-            "CH": "对我方全体造成火属性伤害，并大概率使受到攻击的我方目标陷入灼烧状态。",
-            "EN": "Deals Fire DMG to all targets and may make them Burn."
+            "CH": "",
+            "EN": "Deals <1> Fire DMG to all targets and has <color style='color:#f29e38;'>120%</color> Base Chance of inflicting <b>Burn</b>.\bBurn DoT: <2> Fire DMG, lasing <color style='color:#f29e38;'>3</color> turns."
         },
         "SP": 20.0,
-        "Elem": "Fire"
+        "Elem": "Fire",
+        "Threat": true,
+        "DMG": [
+            3,
+            1.2
+        ]
     },
     "302402006": {
         "Key": "PassiveSkill01",
@@ -14745,8 +14961,8 @@ var _monsterskill = {
             "EN": "SGE: Molten Core"
         },
         "Desc": {
-            "CH": "进入【次级燃烧】后使场地燃烧，同时燃烧我方的战技点；我方消耗燃烧的战技点时会消耗生命值，同时额外造成等同于原伤害一定比例的固定数值火属性伤害，并且接受其他角色的治疗时，生命值回复量大幅降低。",
-            "EN": "After entering Secondary Combustion, Combusts the area and targets' Skill Points. When consuming Combusted Skill Points, targets lose HP and additionally deal a set amount of Fire DMG equal to a certain percentage of the original DMG. When they receive healing from other characters, the amount of HP restored is massively reduced."
+            "CH": "",
+            "EN": "After entering Secondary Combustion, Combusts the area and targets' Skill Points. When consuming Combusted Skill Points, targets lose <color style='color:#f29e38;'>2% Max HP</color> and additionally deal Fire DMG equal to <color style='color:#f29e38;'>40%</color> of the original DMG. When they receive healing from other characters, the amount of HP restored is reduced by <color style='color:#f29e38;'>90%</color>."
         },
         "SP": 0
     },
@@ -14757,7 +14973,7 @@ var _monsterskill = {
             "EN": "Piety"
         },
         "Desc": {
-            "CH": "对指定我方单体造成物理属性伤害。",
+            "CH": "",
             "EN": "Deals Physical DMG to a single target."
         },
         "SP": 15.0,
@@ -14770,7 +14986,7 @@ var _monsterskill = {
             "EN": "Imbue Devotion"
         },
         "Desc": {
-            "CH": "对指定我方单体及其相邻目标造成物理属性伤害。",
+            "CH": "",
             "EN": "Deals Physical DMG to a single target and units adjacent to the target."
         },
         "SP": 10.0,
@@ -14783,7 +14999,7 @@ var _monsterskill = {
             "EN": "Spear & Shield"
         },
         "Desc": {
-            "CH": "随机召唤【枪尖】、【盾】、【授勋】的雕塑。",
+            "CH": "",
             "EN": "Randomly summons statues of \"Speartip,\" \"The Shield,\" and \"The Honored.\""
         },
         "SP": 0
@@ -14795,10 +15011,11 @@ var _monsterskill = {
             "EN": "Thus Spoke The Spirit of Love"
         },
         "Desc": {
-            "CH": "升华一个雕塑中纯美的灵魂，使被灵魂升华的雕塑技能效果增强并立即行动。",
+            "CH": "",
             "EN": "Casts a Soul of Beauty from one of the statues. Causes the ability of the Soulfreed statue to be enhanced and to immediately take action."
         },
-        "SP": 0
+        "SP": 0,
+        "Threat": true
     },
     "302401105": {
         "Key": "Skill05",
@@ -14807,11 +15024,12 @@ var _monsterskill = {
             "EN": "Hymn of Gorgeous Courage"
         },
         "Desc": {
-            "CH": "对我方全体造成物理属性伤害。",
+            "CH": "",
             "EN": "Deals Physical DMG to all targets."
         },
         "SP": 10.0,
-        "Elem": "Phys"
+        "Elem": "Phys",
+        "Threat": true
     },
     "302401107": {
         "Key": "Skill07",
@@ -14832,7 +15050,7 @@ var _monsterskill = {
             "EN": "Honors of the Red Queen"
         },
         "Desc": {
-            "CH": "对敌方银枝施加1层可叠加的伤害提高效果。【灵魂释放】状态下，施加的伤害提高效果层数增加。",
+            "CH": "",
             "EN": "Applies 1 stack of stackable DMG Boost effect to enemy Argenti. When in the Soulfreed state, increases the applied DMG Boost stacks."
         },
         "SP": 0
@@ -14844,7 +15062,7 @@ var _monsterskill = {
             "EN": "Stone of Plummeting Foundation"
         },
         "Desc": {
-            "CH": "受到致命攻击时，对攻击者施加1层可叠加的伤害提高效果。【灵魂释放】状态下，施加的伤害提高效果层数增加。",
+            "CH": "",
             "EN": "When receiving a killing blow, applies 1 stack of stackable DMG Boost effect to the attacker. When in the Soulfreed state, increases the applied DMG Boost stacks."
         },
         "SP": 0
@@ -14856,7 +15074,7 @@ var _monsterskill = {
             "EN": "So Cometh Beauty's Knight"
         },
         "Desc": {
-            "CH": "对我方全体造成物理属性伤害。【灵魂释放】状态下，造成的伤害提高。",
+            "CH": "",
             "EN": "Deals Physical DMG to all targets. Increases DMG dealt while in the Soulfreed state."
         },
         "SP": 10.0,
@@ -14869,7 +15087,7 @@ var _monsterskill = {
             "EN": "Amor of Destined Death"
         },
         "Desc": {
-            "CH": "受到致命攻击时，对敌方全体造成物理属性伤害。【灵魂释放】状态下，造成的伤害提高。",
+            "CH": "",
             "EN": "When receiving a killing blow, deals Physical DMG to all friendly units. Increases DMG dealt while in the Soulfreed state."
         },
         "SP": 0,
@@ -14882,7 +15100,7 @@ var _monsterskill = {
             "EN": "Diadem of the Stale"
         },
         "Desc": {
-            "CH": "对敌方银枝施加屏障。【灵魂释放】状态下，对敌方全体施加屏障。",
+            "CH": "",
             "EN": "Applies a Barrier to enemy Argenti. Applies Barriers to all friendly units while in the Soulfreed state."
         },
         "SP": 0
@@ -14894,7 +15112,7 @@ var _monsterskill = {
             "EN": "Imitation of Alacritous Desire"
         },
         "Desc": {
-            "CH": "受到致命攻击时，对攻击者施加屏障。【灵魂释放】状态下，对我方全体施加屏障。",
+            "CH": "",
             "EN": "When receiving a killing blow, applies a Barrier to the attacker. Applies Barriers to all targets while in the Soulfreed state."
         },
         "SP": 0
@@ -14906,7 +15124,7 @@ var _monsterskill = {
             "EN": "Rapturous Wind"
         },
         "Desc": {
-            "CH": "对指定我方单体造成冰属性伤害，并使彦卿和所有飞剑获得1层【寒芒】，造成的伤害小幅提高。",
+            "CH": "",
             "EN": "Deals Ice DMG to a single target. Yanqing and all Flying Swords gain 1 stack of Chilling Light and slightly increases DMG dealt."
         },
         "SP": 10.0,
@@ -14919,7 +15137,7 @@ var _monsterskill = {
             "EN": "Swallow Return"
         },
         "Desc": {
-            "CH": "召唤4把【飞剑】，获得【剑阵】效果提高自身速度，使【飞剑】获得【阵眼】。第三阶段时使一定数量的【飞剑】额外获得【砥砺】。",
+            "CH": "",
             "EN": "Summons 4 Flying Swords and gains the Sword Formation effect to increase this unit's SPD, and applies Formation Core to the Flying Swords. During this unit's third phase, additionally grant Ordeal to a certain number of Flying Swords."
         },
         "SP": 10.0
@@ -14931,7 +15149,7 @@ var _monsterskill = {
             "EN": "Ironthorn"
         },
         "Desc": {
-            "CH": "对指定我方单体造成冰属性伤害，同时有大概率使受到攻击的目标陷入冻结状态。",
+            "CH": "",
             "EN": "Deals Ice DMG to a single target, with a high chance to Freeze the target."
         },
         "SP": 15.0,
@@ -14944,7 +15162,7 @@ var _monsterskill = {
             "EN": "Ballad of Formation Breaker"
         },
         "Desc": {
-            "CH": "对指定我方单体及其相邻目标造成冰属性伤害。",
+            "CH": "",
             "EN": "Deals Ice DMG to a single target and units adjacent to the target."
         },
         "SP": 10.0,
@@ -14957,7 +15175,7 @@ var _monsterskill = {
             "EN": "Qi Advance"
         },
         "Desc": {
-            "CH": "进入蓄力状态。下次行动对我方全体施放【天河泻】。",
+            "CH": "",
             "EN": "Enters the Charge state. Cast Cascading Laceration on all targets in the next action."
         },
         "SP": 10.0
@@ -14969,11 +15187,12 @@ var _monsterskill = {
             "EN": "Cascading Laceration"
         },
         "Desc": {
-            "CH": "对我方全体造成大量冰属性伤害。",
+            "CH": "",
             "EN": "Deals massive Ice DMG to all targets."
         },
         "SP": 10.0,
-        "Elem": "Ice"
+        "Elem": "Ice",
+        "Threat": true
     },
     "200402207": {
         "Key": "Skill07",
@@ -14982,7 +15201,7 @@ var _monsterskill = {
             "EN": "Qi Converge"
         },
         "Desc": {
-            "CH": "锁定我方单体，两回合后对其施放【风归云动，天河泻梦】。",
+            "CH": "",
             "EN": "Locks on to a single target. After 2 turns, use Aethereal Dreamflux on the target."
         },
         "SP": 0
@@ -14994,11 +15213,12 @@ var _monsterskill = {
             "EN": "Aethereal Dreamflux"
         },
         "Desc": {
-            "CH": "对指定我方单体连续造成冰属性伤害。施放该技能时，额外造成伤害，伤害次数等同于场上【飞剑】的数量。施放技能后，清除场上所有的【飞剑】。",
+            "CH": "",
             "EN": "Continuously deals Ice DMG to a target. After using this ability, additionally deals DMG for a number of times equal to the number of Flying Swords on the field. After using this ability, remove all Flying Swords on the field."
         },
         "SP": 15.0,
-        "Elem": "Ice"
+        "Elem": "Ice",
+        "Threat": true
     },
     "200402209": {
         "Key": "SkillP01",
@@ -15019,11 +15239,14 @@ var _monsterskill = {
             "EN": "The Can's Trials"
         },
         "Desc": {
-            "CH": "对我方单体造成物理属性伤害。",
-            "EN": "Deals Physical DMG to a single target."
+            "CH": "",
+            "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 0,
-        "Elem": "Phys"
+        "Elem": "Phys",
+        "DMG": [
+            4
+        ]
     },
     "300205002": {
         "Key": "Skill02",
@@ -15032,8 +15255,8 @@ var _monsterskill = {
             "EN": "The Can's Tribulations"
         },
         "Desc": {
-            "CH": "提高自身的攻击力。该效果可叠加，且不可被驱散。",
-            "EN": "Increases this unit's ATK. This effect is stackable and unremoveable."
+            "CH": "",
+            "EN": "Increases own ATK by <color style='color:#f29e38;'>100%</color>. This effect is stackable and unremoveable."
         },
         "SP": 0
     },
@@ -15044,7 +15267,7 @@ var _monsterskill = {
             "EN": "The Can's Creed"
         },
         "Desc": {
-            "CH": "当自身被弱点击破时将会离开战斗。当自身受到我方攻击时，将会被添加此次攻击对应的属性弱点，至多添加2个弱点。",
+            "CH": "",
             "EN": "When this unit is Weakness Broken, it will leave the battle. When attacked for the first time, a Weakness corresponding to the attack's Type will be implanted."
         },
         "SP": 0
@@ -15056,7 +15279,7 @@ var _monsterskill = {
             "EN": "Detonation Order"
         },
         "Desc": {
-            "CH": "召唤【自动机兵 · 蜘蛛】或【自动机兵 · 甲虫】。",
+            "CH": "",
             "EN": "Summons Automaton Spider or Automaton Beetle."
         },
         "SP": 0
@@ -15068,7 +15291,7 @@ var _monsterskill = {
             "EN": "Enrage Order"
         },
         "Desc": {
-            "CH": "有概率使我方每个单体目标陷入嘲讽状态。",
+            "CH": "",
             "EN": "Has a chance to Taunt every single target."
         },
         "SP": 0
@@ -15080,7 +15303,7 @@ var _monsterskill = {
             "EN": "Overcombust Order"
         },
         "Desc": {
-            "CH": "进入蓄力状态。下次行动对我方全体施放【剿灭指令】。",
+            "CH": "",
             "EN": "Enters the Charge state. In the next action, use \"Purge Order\" on all targets."
         },
         "SP": 0
@@ -15092,11 +15315,12 @@ var _monsterskill = {
             "EN": "Purge Order"
         },
         "Desc": {
-            "CH": "对我方全体造成大量物理属性伤害。",
+            "CH": "",
             "EN": "Deals Massive Physical DMG to all targets."
         },
         "SP": 20.0,
-        "Elem": "Phys"
+        "Elem": "Phys",
+        "Threat": true
     },
     "101301407": {
         "Key": "PassiveSkillInitiate",
@@ -15117,7 +15341,7 @@ var _monsterskill = {
             "EN": "Destruction Order"
         },
         "Desc": {
-            "CH": "对指定我方单体造成物理属性伤害。",
+            "CH": "",
             "EN": "Deals Physical DMG to a single target."
         },
         "SP": 10.0,
@@ -15143,7 +15367,7 @@ var _monsterskill = {
             "EN": "Obliteration Order"
         },
         "Desc": {
-            "CH": "使自身造成伤害大幅提高。每次进入蓄力状态时使自身造成的伤害进一步提高，伤害提高效果可叠加。",
+            "CH": "",
             "EN": "Greatly increases DMG dealt. Each time this unit enters the Charge state, further increase DMG dealt. The DMG boost is stackable."
         },
         "SP": 0
@@ -15155,11 +15379,12 @@ var _monsterskill = {
             "EN": "Felling Order"
         },
         "Desc": {
-            "CH": "对指定我方单体造成大量物理属性伤害，每次击中该目标都有概率使其陷入裂伤状态。",
+            "CH": "",
             "EN": "Deals massive Physical DMG to a single target, with a chance to afflict Bleed for every hit on the target."
         },
         "SP": 20.0,
-        "Elem": "Phys"
+        "Elem": "Phys",
+        "Threat": true
     },
     "101302402": {
         "Key": "Skill07",
@@ -15168,7 +15393,7 @@ var _monsterskill = {
             "EN": "Lock On Target"
         },
         "Desc": {
-            "CH": "锁定指定我方单体，下次行动对其施放【砍伐指令】。",
+            "CH": "",
             "EN": "Locks Onto a single target. In the next action, use \"Felling Order\" on the target."
         },
         "SP": 0
@@ -15180,7 +15405,7 @@ var _monsterskill = {
             "EN": "Disintegration Order"
         },
         "Desc": {
-            "CH": "对指定我方单体造成物理属性伤害，并大概率对其增加1层裂伤状态。",
+            "CH": "",
             "EN": "Deals Physical DMG to a single target, with a high chance to inflict 1 stack of Bleed."
         },
         "SP": 10.0,
@@ -15193,7 +15418,7 @@ var _monsterskill = {
             "EN": "Dismantle"
         },
         "Desc": {
-            "CH": "对指定我方单体造成物理属性伤害，并大概率对其增加1层裂伤状态。",
+            "CH": "",
             "EN": "Deals Physical DMG to a single target, with a high chance to inflict 1 stack of Bleed."
         },
         "SP": 10.0,
@@ -15206,7 +15431,7 @@ var _monsterskill = {
             "EN": "Targeting Order"
         },
         "Desc": {
-            "CH": "锁定2个我方目标，下次行动对其施放【砍伐指令】。",
+            "CH": "",
             "EN": "Locks on to 2 targets and casts Felling Order on them in the next action."
         },
         "SP": 0
@@ -15218,7 +15443,7 @@ var _monsterskill = {
             "EN": "Teamwork Order"
         },
         "Desc": {
-            "CH": "锁定2个我方单体，下次行动对其施放【砍伐指令】。同时使【自动机兵·灰熊】进入蓄力状态，下次行动对我方全体施放【剿灭指令】。",
+            "CH": "",
             "EN": "Locks on to 2 targets and casts Felling Order on them in the next action. At the same time, makes Automaton Grizzly enter the Charge state, which will cast Purge Order on all targets in the next action."
         },
         "SP": 0
@@ -15243,7 +15468,7 @@ var _monsterskill = {
             "EN": "Combat Speed-Up"
         },
         "Desc": {
-            "CH": "使自身速度大幅提高。每次施放【协力指令】时使自身速度进一步小幅提高，速度提高效果可叠加。",
+            "CH": "",
             "EN": "Greatly increases SPD. Every time Teamwork Order is used, SPD is slightly increased further. SPD boost is stackable."
         },
         "SP": 0
@@ -15255,7 +15480,7 @@ var _monsterskill = {
             "EN": "Firepower Refactor"
         },
         "Desc": {
-            "CH": "被击倒后进入【火力修复】状态，在一定回合后起身，并使自身造成的伤害进一步提高，伤害提高效果可叠加。",
+            "CH": "",
             "EN": "Enters Firepower Recovery state when downed, returning to battle after a certain number of turns and further increasing DMG dealt. The DMG boost effects are stackable."
         },
         "SP": 0
@@ -15267,7 +15492,7 @@ var _monsterskill = {
             "EN": "Speed Refactor"
         },
         "Desc": {
-            "CH": "被击倒后进入【速率修复】状态，在一定回合后起身，并使自身速度进一步小幅提高，速度提高效果可叠加。",
+            "CH": "",
             "EN": "Enters Speedy Recovery state when downed, returning to battle after a certain number of turns and further increasing SPD by a slight amount. The SPD boost is stackable."
         },
         "SP": 0
@@ -15279,7 +15504,7 @@ var _monsterskill = {
             "EN": "Time to Battle"
         },
         "Desc": {
-            "CH": "对指定我方单体造成少量风属性伤害，并大概率使受到攻击的我方目标陷入2层风化状态。",
+            "CH": "",
             "EN": "Deals minor Wind DMG to a single target, with a high chance to inflict 2 stacks of Wind Shear."
         },
         "SP": 10.0,
@@ -15305,7 +15530,7 @@ var _monsterskill = {
             "EN": "War Gear"
         },
         "Desc": {
-            "CH": "对指定我方单体造成少量风属性伤害。如受到攻击的目标正处于风化状态，则直接造成1次风化伤害。",
+            "CH": "",
             "EN": "Deals minor Wind DMG to a single target. If the target is currently suffering from Wind Shear, Wind Shear immediately causes DMG 1 time."
         },
         "SP": 20.0,
@@ -15318,7 +15543,7 @@ var _monsterskill = {
             "EN": "Cyclonic Swarm"
         },
         "Desc": {
-            "CH": "对我方全体造成风属性伤害，并大概率使受到攻击的我方目标陷入风化状态。",
+            "CH": "",
             "EN": "Deals Wind DMG to all targets, with a high chance to cause Wind Shear."
         },
         "SP": 10.0,
@@ -15331,7 +15556,7 @@ var _monsterskill = {
             "EN": "Propagation"
         },
         "Desc": {
-            "CH": "繁殖真蛰虫群。",
+            "CH": "",
             "EN": "Spawns True Stings."
         },
         "SP": 0
@@ -15343,7 +15568,7 @@ var _monsterskill = {
             "EN": "Propagation"
         },
         "Desc": {
-            "CH": "繁殖真蛰虫群。",
+            "CH": "",
             "EN": "Spawns True Stings."
         },
         "SP": 0
@@ -15355,7 +15580,7 @@ var _monsterskill = {
             "EN": "Ready Order"
         },
         "Desc": {
-            "CH": "进入蓄力状态，下次行动施放【虫群突袭】。",
+            "CH": "",
             "EN": "Enters the Charge state. Uses Swarm Onslaught for the next action."
         },
         "SP": 0
@@ -15367,11 +15592,12 @@ var _monsterskill = {
             "EN": "Swarm Onslaught"
         },
         "Desc": {
-            "CH": "解除场上所有真蛰虫群的控制类负面状态与弱点击破状态，并对我方目标造成风属性伤害，使我方目标每次受到攻击时大概率陷入1层风化状态。",
+            "CH": "",
             "EN": "Dispels all Crowd Control debuffs and Weakness Breaks affecting True Stings on the field. Deals Wind DMG to the target, and causes the target to have a high chance of being inflicted with 1 stack of Wind Shear every time they get attacked."
         },
         "SP": 10.0,
-        "Elem": "Wind"
+        "Elem": "Wind",
+        "Threat": true
     },
     "802401207": {
         "Key": "Skill07",
@@ -15380,7 +15606,7 @@ var _monsterskill = {
             "EN": "Swarm Onslaught"
         },
         "Desc": {
-            "CH": "解除场上所有真蛰虫群的控制类负面状态与弱点击破状态，并对我方目标造成风属性伤害，使我方目标每次受到攻击时大概率陷入1层风化状态。",
+            "CH": "",
             "EN": "Dispels all Crowd Control debuffs and Weakness Breaks affecting True Stings on the field. Deals Wind DMG to the target, and causes the target to have a high chance of being inflicted with 1 stack of Wind Shear every time they get attacked."
         },
         "SP": 10.0,
@@ -15393,7 +15619,7 @@ var _monsterskill = {
             "EN": "Transmission Pheromone"
         },
         "Desc": {
-            "CH": "场上每繁殖出1个真蛰虫群，所有真蛰虫群获得1层伤害提高。场上仅能有1个【传衍信息素】效果生效。",
+            "CH": "",
             "EN": "For every True Stings propagated on the field, all True Stings gain 1 stack of DMG Boost. Only 1 Transmission Pheromone can take effect in battle at a time."
         },
         "SP": 0
@@ -15405,7 +15631,7 @@ var _monsterskill = {
             "EN": "Entomon Eulogy"
         },
         "Desc": {
-            "CH": "受到致命攻击时，对敌方全体造成风属性伤害，并大概率使受到攻击的敌方目标受到的伤害小幅提高。",
+            "CH": "",
             "EN": "When receiving a killing blow, deals Wind DMG to all friendly units, with a high chance to slightly increase their DMG received."
         },
         "SP": 0,
@@ -15418,10 +15644,11 @@ var _monsterskill = {
             "EN": "Sin and Absolution"
         },
         "Desc": {
-            "CH": "升华敌方全体雕塑中纯美的灵魂，使被灵魂升华的雕塑技能效果增强。",
+            "CH": "",
             "EN": "Casts the Souls of Beauty from all statues. Causes the ability of the Soulfreed statue to be enhanced."
         },
-        "SP": 0
+        "SP": 0,
+        "Threat": true
     },
     "302401108": {
         "Key": "Skill08",
@@ -15430,7 +15657,7 @@ var _monsterskill = {
             "EN": "Knights"
         },
         "Desc": {
-            "CH": "召唤4个【枪尖】。如果场上已经有雕塑，回复其全部生命值。",
+            "CH": "",
             "EN": "Summons 4 Speartips. If statues are currently present on the field, heal their HP back to full."
         },
         "SP": 0
@@ -15455,11 +15682,12 @@ var _monsterskill = {
             "EN": "Frigid Gaze"
         },
         "Desc": {
-            "CH": "锁定一个目标，【可可利亚（幻象）】的部分技能会对被锁定的目标额外追加释放一次，持续直到冰锋（幻象）被弱点击破或击杀。",
+            "CH": "",
             "EN": "Locks on to a target. Some of Cocolia (Illusion)'s abilities will be released for one more time on the locked-on target until Ice Edge (Illusion) had their Weakness Broken or defeated."
         },
         "SP": 0,
-        "Elem": "Ice"
+        "Elem": "Ice",
+        "Threat": true
     },
     "100201602": {
         "Key": "SkillP01",
@@ -15468,11 +15696,12 @@ var _monsterskill = {
             "EN": "Frigid Gaze"
         },
         "Desc": {
-            "CH": "锁定一个目标，【可可利亚（幻象）】的部分技能会对被锁定的目标额外追加释放一次，持续直到冰锋（幻象）被弱点击破或击杀。",
+            "CH": "",
             "EN": "Locks on to a target. Some of Cocolia (Illusion)'s abilities will be released for one more time on the locked-on target until Ice Edge (Illusion) had their Weakness Broken or defeated."
         },
         "SP": 0,
-        "Elem": "Ice"
+        "Elem": "Ice",
+        "Threat": true
     },
     "100201702": {
         "Key": "SkillP01",
@@ -15481,11 +15710,12 @@ var _monsterskill = {
             "EN": "Subzero Pursuit"
         },
         "Desc": {
-            "CH": "锁定一个目标，【可可利亚，虚妄之母（幻象）】的部分技能会对被锁定的目标额外追加释放一次，持续直到无尽寒冬之槊（幻象）被弱点击破或击杀。",
+            "CH": "",
             "EN": "Locks on to a target. Some of Cocolia, Mother of Deception (Illusion)'s abilities will be released for one more time on the locked-on target until Lance of the Eternal Freeze (Illusion) had their Weakness Broken or defeated."
         },
         "SP": 0,
-        "Elem": "Ice"
+        "Elem": "Ice",
+        "Threat": true
     },
     "100201802": {
         "Key": "SkillP01",
@@ -15494,11 +15724,12 @@ var _monsterskill = {
             "EN": "Subzero Pursuit"
         },
         "Desc": {
-            "CH": "锁定一个目标，【可可利亚，虚妄之母（幻象）】的部分技能会对被锁定的目标额外追加释放一次，持续直到无尽寒冬之槊（幻象）被弱点击破或击杀。",
+            "CH": "",
             "EN": "Locks on to a target. Some of Cocolia, Mother of Deception (Illusion)'s abilities will be released for one more time on the locked-on target until Lance of the Eternal Freeze (Illusion) had their Weakness Broken or defeated."
         },
         "SP": 0,
-        "Elem": "Ice"
+        "Elem": "Ice",
+        "Threat": true
     },
     "100401301": {
         "Key": "Skill01",
@@ -15507,7 +15738,7 @@ var _monsterskill = {
             "EN": "Chill of Bone-Piercing Coagulation"
         },
         "Desc": {
-            "CH": "对指定我方单体造成冰属性伤害。",
+            "CH": "",
             "EN": "Deals Ice DMG to a single target."
         },
         "SP": 10.0,
@@ -15520,7 +15751,7 @@ var _monsterskill = {
             "EN": "Omen of Everlasting Freeze"
         },
         "Desc": {
-            "CH": "召唤【冰锋（幻象）】。",
+            "CH": "",
             "EN": "Summons Ice Edges (Illusion)"
         },
         "SP": 0
@@ -15532,11 +15763,12 @@ var _monsterskill = {
             "EN": "Punishment of Endless Winter"
         },
         "Desc": {
-            "CH": "对我方全体造成大量冰属性伤害。",
+            "CH": "",
             "EN": "Deals massive Ice DMG to all targets."
         },
         "SP": 20.0,
-        "Elem": "Ice"
+        "Elem": "Ice",
+        "Threat": true
     },
     "100401304": {
         "Key": "Skill04",
@@ -15545,11 +15777,12 @@ var _monsterskill = {
             "EN": "Hoarfrost of Eternal Isolation"
         },
         "Desc": {
-            "CH": "对指定我方单体造成冰属性伤害，并有大概率使受到攻击的我方目标陷入冻结状态。该技能会对【冰锋（幻象）】锁定的目标追加释放。",
+            "CH": "",
             "EN": "Deals Ice DMG to a single target, with a high chance to Freeze the target. This ability will be additionally released on targets locked-on by Ice Edge (Illusion)."
         },
         "SP": 10.0,
-        "Elem": "Ice"
+        "Elem": "Ice",
+        "Threat": true
     },
     "100401305": {
         "Key": "Skill05",
@@ -15558,7 +15791,7 @@ var _monsterskill = {
             "EN": "Wrath of Winterland Saints"
         },
         "Desc": {
-            "CH": "进入蓄力状态，下次行动时对我方全体施放【无尽长冬的绝罚】。",
+            "CH": "",
             "EN": "Enters the Charge state. In the next action, use \"Punishment of Endless Winter\" on all targets."
         },
         "SP": 0
@@ -15570,7 +15803,7 @@ var _monsterskill = {
             "EN": "Reverberating Ice"
         },
         "Desc": {
-            "CH": "对冻结状态下的我方目标及相邻目标造成冰属性伤害，同时解除主目标的冻结状态。若相邻目标处于冻结状态，则再次对主目标施放本技能。",
+            "CH": "",
             "EN": "Deals Ice DMG to Frozen targets and their adjacent units. This also removes the main target's Frozen state. If the adjacent units are frozen, then this ability is used again on the main target."
         },
         "SP": 10.0,
@@ -15583,7 +15816,7 @@ var _monsterskill = {
             "EN": "Intensifying Cold"
         },
         "Desc": {
-            "CH": "每有1个我方目标陷入冻结状态，自身及召唤物造成的伤害提高。",
+            "CH": "",
             "EN": "This unit and all its summoned objects gain increased DMG for each Frozen target on the opposing team."
         },
         "SP": 0
@@ -15607,7 +15840,7 @@ var _monsterskill = {
             "EN": "Shield of the Winterlands"
         },
         "Desc": {
-            "CH": "第二阶段，杰帕德加入战斗。",
+            "CH": "",
             "EN": "In the second phase, Gepard joins the battle."
         },
         "SP": 0
@@ -15619,7 +15852,7 @@ var _monsterskill = {
             "EN": "Fist of Conviction"
         },
         "Desc": {
-            "CH": "对指定我方单体造成少量冰属性伤害。",
+            "CH": "",
             "EN": "Deals minor Ice DMG to a single target."
         },
         "SP": 10.0,
@@ -15632,7 +15865,7 @@ var _monsterskill = {
             "EN": "Smite of Frost"
         },
         "Desc": {
-            "CH": "对指定我方单体造成冰属性伤害。",
+            "CH": "",
             "EN": "Deals Ice DMG to a single target."
         },
         "SP": 15.0,
@@ -15645,7 +15878,7 @@ var _monsterskill = {
             "EN": "Garrison Aura Field"
         },
         "Desc": {
-            "CH": "施放【全体护盾】吸收敌方全体受到的伤害，并使敌方全体的韧性无法受到伤害。",
+            "CH": "",
             "EN": "Unleashes Shield for All and absorbs DMG taken by all friendly units, as well as preventing all friendly units from receiving damage to their Toughness."
         },
         "SP": 0
@@ -15661,7 +15894,8 @@ var _monsterskill = {
             "EN": ""
         },
         "SP": 15.0,
-        "Elem": "Ice"
+        "Elem": "Ice",
+        "Threat": true
     },
     "100402405": {
         "Key": "Skill05",
@@ -15695,7 +15929,7 @@ var _monsterskill = {
             "EN": "Tit for Tat"
         },
         "Desc": {
-            "CH": "进入反击状态，持续1回合。在该状态下受到我方目标攻击后，立即对该目标施放【霜之惩击】。",
+            "CH": "",
             "EN": "Goes into the Counter state for 1 turn. If attacked by a target while in this state, immediately use \"Smite of Frost\" on the attacker."
         },
         "SP": 0
@@ -15767,7 +16001,7 @@ var _monsterskill = {
             "EN": "Bone-Shattering Cold"
         },
         "Desc": {
-            "CH": "对指定我方单体造成冰属性伤害。",
+            "CH": "",
             "EN": "Deals Ice DMG to a single target."
         },
         "SP": 10.0,
@@ -15780,7 +16014,7 @@ var _monsterskill = {
             "EN": "Harbinger of Annihilation"
         },
         "Desc": {
-            "CH": "锁定我方单体，下次行动对该目标施放【裂魂寒流】。",
+            "CH": "",
             "EN": "Locks Onto a single target. In the next action, use \"Soulrend Coldstream.\""
         },
         "SP": 0
@@ -15792,11 +16026,12 @@ var _monsterskill = {
             "EN": "Soulrend Coldstream"
         },
         "Desc": {
-            "CH": "对指定我方单体造成大量冰属性伤害，并大概率使受到攻击的我方目标陷入冻结状态。该技能会对【无尽寒冬之槊（幻象）】锁定的目标追加释放。",
+            "CH": "",
             "EN": "Deals massive Ice DMG to a single target, with a high chance to Freeze the target. This ability will be additionally released on targets locked-on by Lance of the Eternal Freeze (Illusion)."
         },
         "SP": 15.0,
-        "Elem": "Ice"
+        "Elem": "Ice",
+        "Threat": true
     },
     "100501304": {
         "Key": "Skill04",
@@ -15818,7 +16053,7 @@ var _monsterskill = {
             "EN": "Heartless Annihilator Call"
         },
         "Desc": {
-            "CH": "召唤【无尽寒冬之槊（幻象）】。",
+            "CH": "",
             "EN": "Summons Lances of the Eternal Freeze (Illusion)."
         },
         "SP": 0
@@ -15830,7 +16065,7 @@ var _monsterskill = {
             "EN": "Creator's Resolve"
         },
         "Desc": {
-            "CH": "转化为虚数属性，速度提高且攻击造成的伤害，解除韧性保护状态。",
+            "CH": "",
             "EN": "Converts to Imaginary-Type, increases SPD and DMG dealt, and removes the Toughness Protection state."
         },
         "SP": 0,
@@ -15843,11 +16078,12 @@ var _monsterskill = {
             "EN": "Genesis Chord"
         },
         "Desc": {
-            "CH": "对指定我方单体造成虚数属性伤害，并大概率使受到攻击的我方目标陷入禁锢状态。该技能会对【无尽寒冬之槊（幻象）】锁定的目标追加释放。",
+            "CH": "",
             "EN": "Deals Imaginary DMG to a single target, with a high chance to Imprison the target. This ability will be additionally released on targets locked-on by Lance of the Eternal Freeze (Illusion)."
         },
         "SP": 10.0,
-        "Elem": "Imaginary"
+        "Elem": "Imaginary",
+        "Threat": true
     },
     "100501308": {
         "Key": "Skill08",
@@ -15856,7 +16092,7 @@ var _monsterskill = {
             "EN": "The Creation's Prelude"
         },
         "Desc": {
-            "CH": "进入蓄力状态，下次行动对我方全体施放【创世绝响】。",
+            "CH": "",
             "EN": "Enters the Charge state. The next action uses \"Last Choir of Genesis\" on all targets."
         },
         "SP": 0
@@ -15868,11 +16104,12 @@ var _monsterskill = {
             "EN": "Last Choir of Genesis"
         },
         "Desc": {
-            "CH": "对我方全体造成大量虚数属性伤害。",
+            "CH": "",
             "EN": "Deals massive Imaginary DMG to all targets."
         },
         "SP": 20.0,
-        "Elem": "Imaginary"
+        "Elem": "Imaginary",
+        "Threat": true
     },
     "100501310": {
         "Key": "SkillP02",
@@ -15894,7 +16131,7 @@ var _monsterskill = {
             "EN": "Blizzardous Crisis"
         },
         "Desc": {
-            "CH": "每有1个我方目标陷入冻结或禁锢状态，自身及召唤物造成的伤害提高。",
+            "CH": "",
             "EN": "This unit and all its summoned objects gain increased DMG for each Frozen or Imprisoned target on the opposing team."
         },
         "SP": 0
@@ -15919,7 +16156,7 @@ var _monsterskill = {
             "EN": "Midnight Tumult"
         },
         "Desc": {
-            "CH": "对指定我方单体造成雷属性伤害，并有概率使受到攻击的我方目标陷入触电状态。",
+            "CH": "",
             "EN": "Deals Lightning DMG to a single target, with a chance to Shock the target."
         },
         "SP": 10.0,
@@ -15932,7 +16169,7 @@ var _monsterskill = {
             "EN": "Caressing Moonlight"
         },
         "Desc": {
-            "CH": "对指定我方单体及其相邻目标造成雷属性伤害，如主目标处于触电状态，则会使副目标也陷入触电状态。",
+            "CH": "",
             "EN": "Deals Lightning DMG to a single target and any adjacent targets. If the main target is Shocked, inflicts Shock on the adjacent targets."
         },
         "SP": 10.0,
@@ -15945,7 +16182,7 @@ var _monsterskill = {
             "EN": "Silent and Sharp Mockery"
         },
         "Desc": {
-            "CH": "对我方全体造成雷属性伤害。",
+            "CH": "",
             "EN": "Deals Lightning DMG to all targets."
         },
         "SP": 15.0,
@@ -15958,10 +16195,11 @@ var _monsterskill = {
             "EN": "Spirit Whisper"
         },
         "Desc": {
-            "CH": "使指定我方单体大概率陷入【支配】状态，并将其行动提前，立即随机攻击1名我方其他目标。",
+            "CH": "",
             "EN": "Has a high chance of Dominating a single target and Advancing their action forward to immediately use their Basic ATK on a random ally of theirs."
         },
-        "SP": 15.0
+        "SP": 15.0,
+        "Threat": true
     },
     "200401305": {
         "Key": "Skill04",
@@ -15983,8 +16221,8 @@ var _monsterskill = {
             "EN": "Oppression"
         },
         "Desc": {
-            "CH": "在行动条上添加【外包】，每次【外包】行动时，召唤</color>1[i]名星际和平公司员工，场上最多存在</color>2[i]名员工。",
-            "EN": "Attaches Outsourcing to the action bar. Every time Outsourcing takes action, summons </color>1[i] IPC Workers. Up to </color>2[i] IPC Workers can exist on the battlefield at one time."
+            "CH": "",
+            "EN": "Attaches Outsourcing to the action bar. Every time Outsourcing takes action, summons 2.0 IPC Workers. Up to 2.0 IPC Workers can exist on the battlefield at one time."
         },
         "SP": 0
     },
@@ -15995,10 +16233,11 @@ var _monsterskill = {
             "EN": "Psychological Suggestion"
         },
         "Desc": {
-            "CH": "使我方多名目标进入【心理暗示】状态，并在行动条上添加【揭晓】，下次【揭晓】行动时陷入【心理暗示】的角色陷入【支配】状态。",
+            "CH": "",
             "EN": "Applies Psychological Suggestion to multiple targets, and adds Revelation onto the action bar. The next time Revelation takes action, any targets with Psychological Suggestion will become Dominated."
         },
-        "SP": 0
+        "SP": 0,
+        "Threat": true
     },
     "200401308": {
         "Key": "PassiveSkill03",
@@ -16007,7 +16246,7 @@ var _monsterskill = {
             "EN": "Tremble"
         },
         "Desc": {
-            "CH": "如受到攻击的目标正处于触电状态，则直接造成1次触电伤害。",
+            "CH": "",
             "EN": "If the target is currently Shocked, immediately cause Shock DMG 1 time."
         },
         "SP": 0
@@ -16019,7 +16258,7 @@ var _monsterskill = {
             "EN": "Cruelty"
         },
         "Desc": {
-            "CH": "当敌方除卡芙卡外的目标或我方陷入【支配】状态的目标对我方陷入触电状态的主目标进行攻击时，追加1次雷属性攻击。",
+            "CH": "",
             "EN": "When friendly units (apart from Kafka) or Dominated targets attack the Shocked main target, unleash an extra Lightning attack."
         },
         "SP": 10.0,
@@ -16032,7 +16271,7 @@ var _monsterskill = {
             "EN": "Griever"
         },
         "Desc": {
-            "CH": "每当我方目标触发触电状态时，卡芙卡自身伤害提高。",
+            "CH": "",
             "EN": "Every time a target becomes afflicted with Shock, Kafka's DMG increases."
         },
         "SP": 0
@@ -16044,8 +16283,8 @@ var _monsterskill = {
             "EN": "Oppression"
         },
         "Desc": {
-            "CH": "在行动条上添加【外包】，每次【外包】行动时，召唤</color>1[i]名星际和平公司员工，场上最多存在</color>2[i]名员工。",
-            "EN": "Attaches Outsourcing to the action bar. Every time Outsourcing takes action, summons </color>1[i] IPC Workers. Up to </color>2[i] IPC Workers can exist on the battlefield at one time."
+            "CH": "",
+            "EN": "Attaches Outsourcing to the action bar. Every time Outsourcing takes action, summons 4.0 IPC Workers. Up to 4.0 IPC Workers can exist on the battlefield at one time."
         },
         "SP": 0
     },
@@ -16056,10 +16295,11 @@ var _monsterskill = {
             "EN": "Deprivation"
         },
         "Desc": {
-            "CH": "卡芙卡行动时，如果场上的星际和平公司员工存在【绩效点】，则会被卡芙卡夺取，并施放【月光摩挲连绵】。【绩效点】可以大幅提高卡芙卡本次攻击造成的伤害。",
+            "CH": "",
             "EN": "When Kafka acts, if any IPC Workers possess Performance Points, Kafka will seize the points and cast Caressing Moonlight. Seized Performance Points can greatly increase the DMG Kafka deals in this attack."
         },
-        "SP": 0
+        "SP": 0,
+        "Threat": true
     },
     "200402301": {
         "Key": "Skill01",
@@ -16068,7 +16308,7 @@ var _monsterskill = {
             "EN": "Rapturous Wind"
         },
         "Desc": {
-            "CH": "对指定我方单体造成冰属性伤害，同时命令所有【飞剑（幻象）】发动攻击，造成额外伤害。",
+            "CH": "",
             "EN": "Deals Ice DMG to a single target, and causes all Flying Swords (Illusion) to carry out follow-up attacks that deal extra DMG."
         },
         "SP": 10.0,
@@ -16081,10 +16321,11 @@ var _monsterskill = {
             "EN": "Swallow Return"
         },
         "Desc": {
-            "CH": "召唤4把【飞剑（幻象）】，获得【剑阵】效果，提高自身速度。【飞剑（幻象）】只有在弱点击破后才能被消灭，并将其弱点转移给随机的剩余飞剑。所有【飞剑（幻象）】的弱点均被击破后解除【剑阵】。",
+            "CH": "",
             "EN": "Summons 4 Flying Swords (Illusion) and gains the Sword Formation effect that increases this unit's SPD. Flying Swords (Illusion) can only be destroyed once they are Weakness Broken, and their Weaknesses will be transferred to the remaining Flying Swords. After inflicting Weakness Break on all Flying Swords (Illusion), the Sword Formation effect will be dispelled."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Threat": true
     },
     "200402303": {
         "Key": "Skill03",
@@ -16093,7 +16334,7 @@ var _monsterskill = {
             "EN": "Ironthorn"
         },
         "Desc": {
-            "CH": "对指定我方单体造成冰属性伤害，同时有大概率使受到攻击的目标陷入冻结状态。",
+            "CH": "",
             "EN": "Deals Ice DMG to a single target, with a high chance to Freeze the target."
         },
         "SP": 15.0,
@@ -16106,7 +16347,7 @@ var _monsterskill = {
             "EN": "Ballad of Formation Breaker"
         },
         "Desc": {
-            "CH": "对指定我方单体及其相邻目标造成冰属性伤害。",
+            "CH": "",
             "EN": "Deals Ice DMG to a single target and units adjacent to the target."
         },
         "SP": 10.0,
@@ -16119,7 +16360,7 @@ var _monsterskill = {
             "EN": "Qi Advance"
         },
         "Desc": {
-            "CH": "进入蓄力状态。下次行动对我方全体施放【天河泻】。",
+            "CH": "",
             "EN": "Enters the Charge state. Cast Cascading Laceration on all targets in the next action."
         },
         "SP": 10.0
@@ -16131,11 +16372,12 @@ var _monsterskill = {
             "EN": "Cascading Laceration"
         },
         "Desc": {
-            "CH": "对我方全体造成大量冰属性伤害。",
+            "CH": "",
             "EN": "Deals massive Ice DMG to all targets."
         },
         "SP": 10.0,
-        "Elem": "Ice"
+        "Elem": "Ice",
+        "Threat": true
     },
     "200402307": {
         "Key": "Skill07",
@@ -16144,7 +16386,7 @@ var _monsterskill = {
             "EN": "Qi Converge"
         },
         "Desc": {
-            "CH": "锁定我方单体，两回合后对其施放【风归云动，天河泻梦】。",
+            "CH": "",
             "EN": "Locks on to a single target. After 2 turns, use Aethereal Dreamflux on the target."
         },
         "SP": 0
@@ -16156,11 +16398,12 @@ var _monsterskill = {
             "EN": "Aethereal Dreamflux"
         },
         "Desc": {
-            "CH": "对指定我方单体连续造成大量冰属性伤害。",
+            "CH": "",
             "EN": "Continuously deals massive Ice DMG to a single target."
         },
         "SP": 15.0,
-        "Elem": "Ice"
+        "Elem": "Ice",
+        "Threat": true
     },
     "200402309": {
         "Key": "SkillP03",
@@ -16169,7 +16412,7 @@ var _monsterskill = {
             "EN": "Shadowless Sword Swirl"
         },
         "Desc": {
-            "CH": "彦卿及【飞剑（幻象）】的所有攻击都会使受到攻击的我方目标陷入【霜刺】状态，提高受到的冰属性伤害。",
+            "CH": "",
             "EN": "All attacks from Yanqing and his Flying Swords (Illusion) inflict the Frostthorn state on the attacked targets, increasing Ice DMG received."
         },
         "SP": 0
@@ -16229,7 +16472,7 @@ var _monsterskill = {
             "EN": "Wavering Bleat"
         },
         "Desc": {
-            "CH": "对指定我方单体造成雷属性伤害。",
+            "CH": "",
             "EN": "Deals Lightning DMG to a single target."
         },
         "SP": 20.0,
@@ -16242,7 +16485,7 @@ var _monsterskill = {
             "EN": "Caress of Wind"
         },
         "Desc": {
-            "CH": "对我方全体造成风属性伤害。",
+            "CH": "",
             "EN": "Deals Wind DMG to all targets."
         },
         "SP": 15.0,
@@ -16267,11 +16510,12 @@ var _monsterskill = {
             "EN": "Flamboyant Gore"
         },
         "Desc": {
-            "CH": "当场上存在2个【嘉实】时立即施放该技能，对我方全体造成雷属性伤害。场上【建木枝梢（幻象）】数量越多，造成的伤害越高。施放技能后，清除场上所有的【嘉实之杪（幻象）】。",
+            "CH": "",
             "EN": "Uses this ability immediately when there are 2 Lavish Fruits on the field. Deals Lightning DMG to all targets. Deals more DMG for every Ambrosial Arbor Branch (Illusion) on the field. After the ability is used, removes all Twigs of Lavish Fruits (Illusion) on the field."
         },
         "SP": 20.0,
-        "Elem": "Elec"
+        "Elem": "Elec",
+        "Threat": true
     },
     "202401309": {
         "Key": "Skill09",
@@ -16292,7 +16536,7 @@ var _monsterskill = {
             "EN": "Pedicel: Fragrant Verdure"
         },
         "Desc": {
-            "CH": "召唤2个建木枝梢【缃叶之杪（幻象）】，1个建木枝梢【繁花之杪（幻象）】，1个建木枝梢【肃风之杪（幻象）】。丰饶玄鹿的弱点被击破时，会清除场上所有的建木枝梢。",
+            "CH": "",
             "EN": "Summons Ambrosial Arbor Branches: 2 Twigs of Marple Leaf (Illusion), 1 Twig of Glorious Blooms (Illusion), and 1 Twig of Wintry Wind (Illusion). When Abundant Ebon Deer's Weakness is broken, all the Ambrosial Arbor Branches will be eliminated."
         },
         "SP": 0
@@ -16304,7 +16548,7 @@ var _monsterskill = {
             "EN": "Pedicel: Exuberant Shade"
         },
         "Desc": {
-            "CH": "召唤2个建木枝梢【缃叶之杪（幻象）】，1个建木枝梢【嘉实之杪（幻象）】，1个建木枝梢【肃风之杪（幻象）】。丰饶玄鹿的弱点被击破时，会清除场上所有的建木枝梢。",
+            "CH": "",
             "EN": "Summons Ambrosial Arbor Branches: 2 Twigs of Marple Leaf (Illusion), 1 Twig of Lavish Fruits (Illusion), and 1 Twig of Wintry Wind (Illusion). When Abundant Ebon Deer's Weakness is broken, all the Ambrosial Arbor Branches will be eliminated."
         },
         "SP": 0
@@ -16316,7 +16560,7 @@ var _monsterskill = {
             "EN": "Glorious Blooms"
         },
         "Desc": {
-            "CH": "召唤1个建木枝梢【繁花之抄（幻象）】。【繁花之抄（幻象）】可以使其他敌方的韧性无法受到伤害，【繁花之抄（幻象）】被消灭后解除所有韧性无法受到伤害的效果。",
+            "CH": "",
             "EN": "Summons an Ambrosial Arbor Branch: Twig of Glorious Blooms (Illusion). Twig of Glorious Blooms (Illusion) prevents friendly units' Toughness from being depleted. This effect is removed when Ambrosial Arbor Branch: Twig of Glorious Blooms (Illusion) is defeated."
         },
         "SP": 0
@@ -16340,7 +16584,7 @@ var _monsterskill = {
             "EN": "Vigor Overflow"
         },
         "Desc": {
-            "CH": "每当丰饶玄鹿获得增益效果时，丰饶玄鹿和所有建木枝梢造成的伤害小幅提高。",
+            "CH": "",
             "EN": "Every time the Abundant Ebon Deer gains a buff, DMG dealt by the Abundant Ebon Deer and all Ambrosial Arbor branches is slightly increased."
         },
         "SP": 0
@@ -16352,7 +16596,7 @@ var _monsterskill = {
             "EN": "Seeking Immortality"
         },
         "Desc": {
-            "CH": "召唤建木枝梢【缃叶之杪（幻象）】时，使其获得【培植】，提高【复还】造成的伤害。",
+            "CH": "",
             "EN": "Upon summoning Ambrosial Arbor Branch — Twig of Marple Leaf (Illusion), it gains \"Cultivation,\" greatly increasing its Retaliation DMG."
         },
         "SP": 0
@@ -16376,7 +16620,7 @@ var _monsterskill = {
             "EN": "Fist of Conviction"
         },
         "Desc": {
-            "CH": "对指定我方单体造成少量冰属性伤害。",
+            "CH": "",
             "EN": "Deals minor Ice DMG to a single target."
         },
         "SP": 10.0,
@@ -16389,7 +16633,7 @@ var _monsterskill = {
             "EN": "Smite of Frost"
         },
         "Desc": {
-            "CH": "对指定我方单体造成冰属性伤害。",
+            "CH": "",
             "EN": "Deals Ice DMG to a single target."
         },
         "SP": 15.0,
@@ -16402,7 +16646,7 @@ var _monsterskill = {
             "EN": "Garrison Aura Field"
         },
         "Desc": {
-            "CH": "为自身以外的敌方目标提供屏障，屏障状态下的目标可抵抗除持续伤害外的所有伤害，受到攻击后解除。",
+            "CH": "",
             "EN": "Grants a Barrier to another friendly unit. The Barrier nullifies all DMG received except for DoT until after the friendly unit is attacked."
         },
         "SP": 0
@@ -16414,11 +16658,12 @@ var _monsterskill = {
             "EN": "Frigid Waterfall"
         },
         "Desc": {
-            "CH": "对我方全体造成冰属性伤害。",
+            "CH": "",
             "EN": "Deals Ice DMG to all targets."
         },
         "SP": 15.0,
-        "Elem": "Ice"
+        "Elem": "Ice",
+        "Threat": true
     },
     "100402513": {
         "Key": "Skill04Insert",
@@ -16427,11 +16672,12 @@ var _monsterskill = {
             "EN": "Frigid Waterfall"
         },
         "Desc": {
-            "CH": "对我方全体造成冰属性伤害。",
+            "CH": "",
             "EN": "Deals Ice DMG to all targets."
         },
         "SP": 15.0,
-        "Elem": "Ice"
+        "Elem": "Ice",
+        "Threat": true
     },
     "100402505": {
         "Key": "Skill05",
@@ -16478,7 +16724,7 @@ var _monsterskill = {
             "EN": "Siege Support"
         },
         "Desc": {
-            "CH": "召唤【银鬃炮手】，同时锁定我方单体，使敌方全体集中攻击该目标。",
+            "CH": "",
             "EN": "Summons Silvermane Cannoneers and locks onto a single target. All friend units will attack this locked target."
         },
         "SP": 0
@@ -16490,7 +16736,7 @@ var _monsterskill = {
             "EN": "Will of Steel"
         },
         "Desc": {
-            "CH": "当杰帕德的回合开始时，小幅提高自身的速度和攻击力，此效果可叠加。该效果在杰帕德的弱点被击破时会被清除。",
+            "CH": "",
             "EN": "Slightly increases Gepard's SPD and ATK at the start of Gepard's turn. This effect is stackable, but is dispelled when Gepard's Weakness is broken."
         },
         "SP": 15.0,
@@ -16503,11 +16749,12 @@ var _monsterskill = {
             "EN": "Thick and Thin"
         },
         "Desc": {
-            "CH": "当布洛妮娅陷入无法战斗的状态时，将立即行动，进入强化状态，提高自身的速度。此状态下，【极寒瀑流】将有小概率使受到攻击的我方目标陷入冻结状态。",
+            "CH": "",
             "EN": "When Bronya is downed, Gepard immediately takes action again and becomes Enhanced, increasing his SPD. When in this state, Frigid Waterfall has a slight chance to Freeze the attacked target."
         },
         "SP": 15.0,
-        "Elem": "Wind"
+        "Elem": "Wind",
+        "Threat": true
     },
     "100402511": {
         "Key": "SkillP02",
@@ -16516,7 +16763,7 @@ var _monsterskill = {
             "EN": "Balanced Warfare"
         },
         "Desc": {
-            "CH": "杰帕德和布洛妮娅会轮流进入主攻状态和辅助状态。当处于主攻状态时，自身会解除韧性保护并正常行动。当处于辅助状态时，降低自身的速度，获得韧性保护并仅施放【围攻打援】。",
+            "CH": "",
             "EN": "Gepard and Bronya take turns switching between the Main Attacker and Support state. When in the Main Attacker state, their Toughness Protection is removed and they take normal actions. When in Support state, their SPD is reduced, they gain Toughness Protection, and they can only use Siege Support."
         },
         "SP": 15.0,
@@ -16529,7 +16776,7 @@ var _monsterskill = {
             "EN": "Balanced Warfare"
         },
         "Desc": {
-            "CH": "杰帕德和布洛妮娅会轮流进入主攻状态和辅助状态。当处于主攻状态时，自身会解除韧性保护并正常行动。当处于辅助状态时，降低自身的速度，获得韧性保护并仅施放【戍卫气场】和【围攻打援】。",
+            "CH": "",
             "EN": "Gepard and Bronya take turns switching between the Main Attacker and Support state. When in the Main Attacker state, their Toughness Protection is removed and they take normal actions. When in Support state, their SPD is reduced, they gain Toughness Protection, and they can only use Garrison Aura Field and Siege Support."
         },
         "SP": 0
@@ -16541,7 +16788,7 @@ var _monsterskill = {
             "EN": "Windrider Bullet"
         },
         "Desc": {
-            "CH": "对指定我方单体造成风属性伤害。",
+            "CH": "",
             "EN": "Deals Wind DMG to a single target."
         },
         "SP": 10.0,
@@ -16554,7 +16801,7 @@ var _monsterskill = {
             "EN": "Combat Redeployment"
         },
         "Desc": {
-            "CH": "解除指定除布洛妮娅外的敌方单体的全部负面效果，并使该目标立即行动。",
+            "CH": "",
             "EN": "Dispels all debuffs on a friendly unit except Bronya, and causes this unit to take action immediately."
         },
         "SP": 0
@@ -16566,7 +16813,7 @@ var _monsterskill = {
             "EN": "Coordinated Reinforcement"
         },
         "Desc": {
-            "CH": "召唤【银鬃炮手】。",
+            "CH": "",
             "EN": "Summons Silvermane Cannoneers."
         },
         "SP": 0
@@ -16578,11 +16825,12 @@ var _monsterskill = {
             "EN": "Suppressive Fire"
         },
         "Desc": {
-            "CH": "对指定我方单体造成风属性伤害，并使受到攻击的我方目标行动延后。",
+            "CH": "",
             "EN": "Deals Wind DMG to a single target and delays their action."
         },
         "SP": 15.0,
-        "Elem": "Wind"
+        "Elem": "Wind",
+        "Threat": true
     },
     "100403205": {
         "Key": "Skill05",
@@ -16591,7 +16839,7 @@ var _monsterskill = {
             "EN": "Marching Orders"
         },
         "Desc": {
-            "CH": "使敌方全体的速度提高。",
+            "CH": "",
             "EN": "Increases SPD of all friendly units."
         },
         "SP": 0
@@ -16603,7 +16851,7 @@ var _monsterskill = {
             "EN": "Carried By Inertia"
         },
         "Desc": {
-            "CH": "当布洛妮娅的回合开始时，小幅提高自身的速度和攻击力，此效果可叠加。该效果在布洛妮娅被击破时会被清除。",
+            "CH": "",
             "EN": "Slightly increases Bronya's SPD and ATK at the start of her turn. This effect is stackable, but is dispelled when Bronya's Weakness is broken."
         },
         "SP": 15.0,
@@ -16616,11 +16864,12 @@ var _monsterskill = {
             "EN": "Shared Hatred"
         },
         "Desc": {
-            "CH": "当杰帕德陷入无法战斗的状态时，将立即行动，进入强化状态，提高自身的速度。此状态下，布洛妮娅将会召唤更多的【银鬃炮手】。",
+            "CH": "",
             "EN": "When Gepard is downed, Bronya immediately takes action again and becomes Enhanced, increasing her SPD. When in this state, Bronya will summon even more Silvermane Cannoneers."
         },
         "SP": 15.0,
-        "Elem": "Wind"
+        "Elem": "Wind",
+        "Threat": true
     },
     "100403208": {
         "Key": "SkillP02",
@@ -16629,7 +16878,7 @@ var _monsterskill = {
             "EN": "Tacit Teamwork"
         },
         "Desc": {
-            "CH": "杰帕德和布洛妮娅会轮流进入主攻状态和辅助状态。当处于主攻状态时，自身会解除韧性保护并正常行动。当处于辅助状态时，降低自身的速度，获得韧性保护并仅施放【增援协同】或【作战再部署】。",
+            "CH": "",
             "EN": "Gepard and Bronya take turns switching between the Main Attacker and Support state. When in the Main Attacker state, their Toughness Protection is removed and they take normal actions. When in Support state, their SPD is reduced, they gain Toughness Protection, and they can only use Coordinated Reinforcement and Combat Redeployment."
         },
         "SP": 15.0,
@@ -16695,7 +16944,8 @@ var _monsterskill = {
             "CH": "",
             "EN": ""
         },
-        "SP": 0
+        "SP": 0,
+        "Threat": true
     },
     "900311005": {
         "Key": "Skill05",
@@ -16728,7 +16978,7 @@ var _monsterskill = {
             "EN": "Martyrdom of Grandiosity"
         },
         "Desc": {
-            "CH": "每次使用【纯美的勇气赞歌】后，使自身造成的伤害提高，伤害提高效果可叠加。",
+            "CH": "",
             "EN": "After every use of Hymn of Gorgeous Courage, increases DMG. This effect is stackable."
         },
         "SP": 0
@@ -16740,11 +16990,12 @@ var _monsterskill = {
             "EN": "Frozen Storm"
         },
         "Desc": {
-            "CH": "消耗所有充能。对我方全体造成伤害，并有大概率使受到攻击的我方目标陷入【深寒】状态。",
+            "CH": "",
             "EN": "Consumes all Charges. Deals DMG to all targets, with a high chance to Deep Freeze the targets."
         },
         "SP": 0,
-        "Elem": "Ice"
+        "Elem": "Ice",
+        "Threat": true
     },
     "700306003": {
         "Key": "Skill03",
@@ -16753,7 +17004,7 @@ var _monsterskill = {
             "EN": "Cryo-Extraction"
         },
         "Desc": {
-            "CH": "存在友方单位时，消耗相邻友方单位生命值，攻击力提高，并立即再次行动。",
+            "CH": "",
             "EN": "When friendly units exist, consumes adjacent friendly units' HP to increase ATK and immediately take another action."
         },
         "SP": 0
@@ -16765,7 +17016,7 @@ var _monsterskill = {
             "EN": "Piety"
         },
         "Desc": {
-            "CH": "对指定我方单体造成物理属性伤害。",
+            "CH": "",
             "EN": "Deals Physical DMG to a single target."
         },
         "SP": 15.0,
@@ -16778,7 +17029,7 @@ var _monsterskill = {
             "EN": "Imbue Devotion"
         },
         "Desc": {
-            "CH": "对指定我方单体及其相邻目标造成物理属性伤害。",
+            "CH": "",
             "EN": "Deals Physical DMG to a single target and units adjacent to the target."
         },
         "SP": 10.0,
@@ -16791,7 +17042,7 @@ var _monsterskill = {
             "EN": "Spear & Shield"
         },
         "Desc": {
-            "CH": "随机召唤【枪尖】、【盾】、【授勋】的雕塑。",
+            "CH": "",
             "EN": "Randomly summons statues of \"Speartip,\" \"The Shield,\" and \"The Honored.\""
         },
         "SP": 0
@@ -16803,10 +17054,11 @@ var _monsterskill = {
             "EN": "Soul of Tenacity"
         },
         "Desc": {
-            "CH": "释放一个雕塑中纯美的灵魂，使被灵魂释放的雕塑技能效果增强。",
+            "CH": "",
             "EN": "Casts a Soul of Beauty from one of the statues and causes the ability of the Soulfreed statue to be enhanced."
         },
-        "SP": 0
+        "SP": 0,
+        "Threat": true
     },
     "302401205": {
         "Key": "Skill05",
@@ -16815,11 +17067,12 @@ var _monsterskill = {
             "EN": "Hymn of Gorgeous Courage"
         },
         "Desc": {
-            "CH": "对我方全体造成物理属性伤害。",
+            "CH": "",
             "EN": "Deals Physical DMG to all targets."
         },
         "SP": 10.0,
-        "Elem": "Phys"
+        "Elem": "Phys",
+        "Threat": true
     },
     "302401207": {
         "Key": "Skill07",
@@ -16828,7 +17081,7 @@ var _monsterskill = {
             "EN": "Spear & Shield"
         },
         "Desc": {
-            "CH": "随机召唤【枪尖】、【盾】、【授勋】的雕塑。",
+            "CH": "",
             "EN": "Randomly summons statues of \"Speartip,\" \"The Shield,\" and \"The Honored.\""
         },
         "SP": 0
@@ -16840,11 +17093,14 @@ var _monsterskill = {
             "EN": "Glare of the Other"
         },
         "Desc": {
-            "CH": "对指定我方单体造成少量量子属性伤害，并使受到攻击的我方目标行动延后。",
-            "EN": "Deals minor Quantum DMG to a single target, with a chance to delay their action."
+            "CH": "",
+            "EN": "Deals <1> Quantum DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to delay their action by <color style='color:#f29e38;'>20%</color>."
         },
         "SP": 10.0,
-        "Elem": "Quantum"
+        "Elem": "Quantum",
+        "DMG": [
+            2.5
+        ]
     },
     "201302004": {
         "Key": "Skill04",
@@ -16853,11 +17109,12 @@ var _monsterskill = {
             "EN": "Heaven's Fall"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害，如果该目标处于【强烈震荡】状态，则额外对该目标造成<2>物理伤害，同时解除该目标的【强烈震荡】状态。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target. If the target is afflicted with Strong Reverberation, they take additional <2> Physical DMG, and Strong Reverberation is then dispelled."
         },
         "SP": 20.0,
         "Elem": "Phys",
+        "Threat": true,
         "Status": [
             220020302
         ],
@@ -16873,7 +17130,7 @@ var _monsterskill = {
             "EN": "Heaven's Fall"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害，如果该目标处于【强烈震荡】状态，则额外对该目标造成<2>物理伤害，同时解除该目标的【强烈震荡】状态。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target. If the target is afflicted with Strong Reverberation, they take additional <2> Physical DMG, and Strong Reverberation is then dispelled."
         },
         "SP": 10.0,
@@ -16893,11 +17150,12 @@ var _monsterskill = {
             "EN": "Heaven's Fall"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害，如果该目标处于【强烈震荡】状态，则额外对该目标造成<2>物理伤害，同时解除该目标的【强烈震荡】状态。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target. If the target is suffering from Strong Reverberation, they take additional <2> Physical DMG, and Strong Reverberation is then dispelled."
         },
         "SP": 20.0,
         "Elem": "Phys",
+        "Threat": true,
         "Status": [
             220020302
         ],
@@ -16913,7 +17171,7 @@ var _monsterskill = {
             "EN": "Heaven's Fall"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理伤害，如果该目标处于【强烈震荡】状态，则额外对该目标造成<2>物理伤害，同时解除该目标的【强烈震荡】状态。",
+            "CH": "",
             "EN": "Deals <1> Physical DMG to a single target. If the target is afflicted with Strong Reverberation, they take additional <2> Physical DMG, and Strong Reverberation is then dispelled."
         },
         "SP": 10.0,
@@ -16933,7 +17191,7 @@ var _monsterskill = {
             "EN": "Disciplined"
         },
         "Desc": {
-            "CH": "对指定我方单体造成少量物理属性伤害。",
+            "CH": "",
             "EN": "Deals minor Physical DMG to a single target."
         },
         "SP": 10.0,
@@ -16946,7 +17204,7 @@ var _monsterskill = {
             "EN": "In Training..."
         },
         "Desc": {
-            "CH": "进入蓄力状态，下次行动施放【企业文化冲击】。",
+            "CH": "",
             "EN": "Enters the Charge state. Uses Work Culture Shock in the next action."
         },
         "SP": 0
@@ -16958,11 +17216,12 @@ var _monsterskill = {
             "EN": "Work Culture Shock"
         },
         "Desc": {
-            "CH": "对我方全体造成物理属性伤害。",
+            "CH": "",
             "EN": "Deals Physical DMG to all targets."
         },
         "SP": 20.0,
-        "Elem": "Phys"
+        "Elem": "Phys",
+        "Threat": true
     },
     "803301205": {
         "Key": "Skill04",
@@ -16971,7 +17230,7 @@ var _monsterskill = {
             "EN": "720-Degree Review"
         },
         "Desc": {
-            "CH": "夺取所有【基层员工 · 外勤】和【基层员工 · 安保】的【绩效点】。",
+            "CH": "",
             "EN": "Seizes all Performance Points from all Grunt: Field Personnel and Grunt: Security Personnel."
         },
         "SP": 0
@@ -16983,7 +17242,7 @@ var _monsterskill = {
             "EN": "Team Building"
         },
         "Desc": {
-            "CH": "召唤【基层员工 · 外勤】或【基层员工 · 安保】，并使所有【基层员工 · 外勤】和【基层员工 · 安保】获得1个【绩效点】。",
+            "CH": "",
             "EN": "Summons Grunt: Field Personnel or Grunt: Security Personnel, then cause all Grunts: Field Personnel and Grunts: Security Personnel to acquire 1 Performance Point."
         },
         "SP": 0
@@ -16995,7 +17254,7 @@ var _monsterskill = {
             "EN": "Cost Reduction"
         },
         "Desc": {
-            "CH": "对指定我方单体造成物理属性伤害。",
+            "CH": "",
             "EN": "Deals Physical DMG to a single target."
         },
         "SP": 15.0,
@@ -17008,7 +17267,7 @@ var _monsterskill = {
             "EN": "Performance Boost"
         },
         "Desc": {
-            "CH": "每次施放攻击后获得1个【绩效点】。【绩效点】可在自身弱点被击破或受到致命攻击时被攻击者夺取。",
+            "CH": "",
             "EN": "Receives 1 Performance Point after unleashing an attack. Performance Points can be seized by the attacker when this unit's Weakness is Broken or this unit receives a killing blow."
         },
         "SP": 0
@@ -17020,7 +17279,7 @@ var _monsterskill = {
             "EN": "Surrounded Protection"
         },
         "Desc": {
-            "CH": "当场上存在4个建木枝梢时，丰饶玄鹿的韧性无法受到伤害，消灭任意建木枝梢可解除该效果。",
+            "CH": "",
             "EN": "When there are 4 Ambrosial Arbor branches on the field, the Toughness of the Abundant Ebon Deer cannot be depleted. The effect expires when any Ambrosial Arbor branch is defeated."
         },
         "SP": 0
@@ -17032,10 +17291,11 @@ var _monsterskill = {
             "EN": "Swallow Return"
         },
         "Desc": {
-            "CH": "召唤4把【飞剑（幻象）】，获得【剑阵】效果，提高自身速度。【飞剑（幻象）】初始弱点隐藏，受到正确属性的攻击后，解除该效果。【飞剑（幻象）】只有在弱点击破后才能被消灭，并将其弱点转移给随机的剩余飞剑。所有【飞剑（幻象）】的弱点均被击破后解除【剑阵】。",
+            "CH": "",
             "EN": "Summons 4 Flying Swords (Illusion) and gains the Sword Formation effect that increases this unit's SPD. The Flying Swords' Weaknesses will be hidden initially and are revealed once they are attacked by the correct DMG type. Flying Swords (Illusion) can only be destroyed once they are Weakness Broken, and their Weaknesses will be transferred to the remaining Flying Swords. After inflicting Weakness Break on all Flying Swords (Illusion), the Sword Formation effect will be dispelled."
         },
-        "SP": 10.0
+        "SP": 10.0,
+        "Threat": true
     },
     "301203101": {
         "Key": "Skill01",
@@ -17044,8 +17304,8 @@ var _monsterskill = {
             "EN": "Slumber Awakening"
         },
         "Desc": {
-            "CH": "当永眠墓碣受到致命攻击后，对应我方目标将解除【梦死】状态并回复生命值和能量。",
-            "EN": "After Tomb of Eternal Slumber receives a killing blow, the Dreaming Till The End state on a corresponding character will be dispelled, restoring HP and regenerating Energy."
+            "CH": "",
+            "EN": "After Tomb of Eternal Slumber receives a killing blow, the <color style='color:#f29e38;'>Dreaming Till The End</color> state on the corresponding character will be dispelled, and restores <color style='color:#f29e38;'>50% Max HP</color> and all Energy to this character."
         },
         "SP": 0
     },
@@ -17056,7 +17316,7 @@ var _monsterskill = {
             "EN": "Temporal Departure"
         },
         "Desc": {
-            "CH": "永眠墓碣不会进行行动。",
+            "CH": "",
             "EN": "Tomb of Eternal Slumber will not take action."
         },
         "SP": 0
@@ -17068,8 +17328,8 @@ var _monsterskill = {
             "EN": "Eternal Continuation"
         },
         "Desc": {
-            "CH": "永眠墓碣拥有固定格数的生命值。每次受到攻击，弱点击破和持续伤害时，都会直接扣除自身1格生命值。",
-            "EN": "Tomb of Eternal Slumber has a fixed amount of HP bars. Each time it is attacked, Weakness Broken, or receives DMG from DoT, 1 bar of HP will be depleted."
+            "CH": "",
+            "EN": "Tomb of Eternal Slumber has <color style='color:#f29e38;'>5</color> HP bars. Each time it is attacked, Weakness Broken, or receives DMG from DoT, 1 bar of HP will be depleted."
         },
         "SP": 0
     },
@@ -17080,7 +17340,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_不显示。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0,
@@ -17093,11 +17353,14 @@ var _monsterskill = {
             "EN": "Vigorous Ladle Swirl"
         },
         "Desc": {
-            "CH": "对我方单体造成火属性伤害。",
-            "EN": "Deals Fire DMG to a single target."
+            "CH": "",
+            "EN": "Deals <1> Fire DMG to a single target."
         },
         "SP": 10.0,
-        "Elem": "Fire"
+        "Elem": "Fire",
+        "DMG": [
+            3.0
+        ]
     },
     "300301102": {
         "Key": "Skill02",
@@ -17106,11 +17369,15 @@ var _monsterskill = {
             "EN": "Tornado Toss"
         },
         "Desc": {
-            "CH": "对我方单体及相邻单位造成少量火属性伤害。",
-            "EN": "Deals minor Fire DMG to a single target and adjacent units."
+            "CH": "",
+            "EN": "Deals <1> Fire DMG to a single target and <2> Fire DMG to adjacent units."
         },
         "SP": 10.0,
-        "Elem": "Fire"
+        "Elem": "Fire",
+        "DMG": [
+            2.5,
+            2
+        ]
     },
     "300301103": {
         "Key": "Skill06",
@@ -17119,8 +17386,8 @@ var _monsterskill = {
             "EN": "Ignite Stove"
         },
         "Desc": {
-            "CH": "进入蓄力状态，下次行动时释放【烈焰爆炒】，并清除所有【炉灶加温】的层数。",
-            "EN": "Enters a Charge state. In the next action, uses Flaming Stir-Fry if Stove Overheating has not reached a certain number of stacks, then clears all Stove Heating and Stove Overheating stacks."
+            "CH": "",
+            "EN": "Enters a Charge state. In the next action, uses <color style='color:#f29e38;'>Flaming Stir-Fry</color>, then clears all Stove Heating and Stove Overheating stacks."
         },
         "SP": 0,
         "Elem": "Fire"
@@ -17132,11 +17399,15 @@ var _monsterskill = {
             "EN": "Flaming Stir-Fry"
         },
         "Desc": {
-            "CH": "对我方全体造成大量火属性伤害。",
-            "EN": "Deals massive Fire DMG to all targets."
+            "CH": "",
+            "EN": "Deals <1> Fire DMG to all targets."
         },
         "SP": 20.0,
-        "Elem": "Fire"
+        "Elem": "Fire",
+        "Threat": true,
+        "DMG": [
+            5
+        ]
     },
     "300301105": {
         "Key": "Skill05",
@@ -17145,8 +17416,8 @@ var _monsterskill = {
             "EN": "Kitchen Mishap"
         },
         "Desc": {
-            "CH": "进入蓄力状态后，当【炉灶加温】叠加到一定层数时，立即对敌方全体单位造成大量火属性伤害，使自身防御降低，并为我方全体单位恢复能量。",
-            "EN": "After entering the Charge state, deals massive Fire DMG to all targets and decreases this unit's DEF once Stove Overheating has a certain number of stacks. Then, clears all Stove Heating and Stove Overheating stacks."
+            "CH": "",
+            "EN": "After entering the Charge state, once Stove Overheating has <color style='color:#f29e38;'>9</color> stacks, deals <color style='color:#f29e38;'>33% Max HP</color> Fire DMG and <color style='color:#f29e38;'>10</color> Fire Toughness DMG to self, deals <color style='color:#f29e38;'>2.5% Max HP</color> Fire DMG and <color style='color:#f29e38;'>3</color> Fire Toughness DMG to other friendly units, and decreases own DEF by <color style='color:#f29e38;'>10%</color>, and revive <color style='color:#f29e38;'>50%</color> Energy for all characters.<br>Then, clears all Stove Heating and Stove Overheating stacks."
         },
         "SP": 0,
         "Elem": "Fire"
@@ -17158,8 +17429,8 @@ var _monsterskill = {
             "EN": "Flame-Forged Feast"
         },
         "Desc": {
-            "CH": "当【炉灶加温】叠加一定层数时立即行动，并释放【点燃炉灶】。",
-            "EN": "Immediately takes action when Stove Heating reaches a certain number of stacks, and uses Ignite Stove."
+            "CH": "",
+            "EN": "Immediately takes action when <color style='color:#f29e38;'>Stove Heating</color> reaches <color style='color:#f29e38;'>3</color> stacks, and uses <color style='color:#f29e38;'>Ignite Stove</color>."
         },
         "SP": 0
     },
@@ -17170,10 +17441,14 @@ var _monsterskill = {
             "EN": "Inferno Stove"
         },
         "Desc": {
-            "CH": "自身在攻击时有概率对目标施加减速状态。当自身受到攻击或持续伤害时，叠加一层【炉灶加温】。",
-            "EN": "When in the Simmer state, receiving attacks or DoT will increase Stove Heating by 1 stack. For every stack of Stove Heating gained, this unit's ATK increases. When in the Boil state, receiving attacks or DoT will increase Stove Overheating by 1 stack, and has a chance to apply Slow to the target when attacking."
+            "CH": "",
+            "EN": "When in the <b>Simmer</b> state, receiving attacks or DoT will increase <color style='color:#f29e38;'>Stove Heating</color> by 1 stack. When Stove Heating reaches <color style='color:#f29e38;'>3</color> stacks, enters the <b>Boil</b> state. In <b>Boil</b> state, receiving attacks or DoT will increase <color style='color:#f29e38;'>Stove Overheating</color> by 1 stack, and has a <color style='color:#f29e38;'>50%</color> Base Chance to reduce the target's SPD by <color style='color:#f29e38;'>20%</color> when attacking, lasting <color style='color:#f29e38;'>2</color> turns."
         },
-        "SP": 0
+        "SP": 0,
+        "Status": [
+            230030104,
+            230030105
+        ]
     },
     "300302101": {
         "Key": "Skill01",
@@ -17182,11 +17457,14 @@ var _monsterskill = {
             "EN": "Limited Free Drink"
         },
         "Desc": {
-            "CH": "对指定我方单体造成冰属性伤害，如果目标身上拥有护盾，则造成伤害后还会反弹给自身。",
-            "EN": "Deals Ice DMG to a single target. If the target has Shield, the DMG will rebound back to this unit after dealing DMG."
+            "CH": "",
+            "EN": "Deals <1> Ice DMG to a single target. If the target has Shield, will deal <color style='color:#f29e38;'>20% Max HP</color> Ice DMG to self."
         },
         "SP": 10.0,
-        "Elem": "Ice"
+        "Elem": "Ice",
+        "DMG": [
+            2
+        ]
     },
     "300302102": {
         "Key": "Skill02",
@@ -17195,11 +17473,15 @@ var _monsterskill = {
             "EN": "Bottomless Free Drink"
         },
         "Desc": {
-            "CH": "对被标记为监视目标的我方单体造成4次冰属性伤害，并使其行动提前。如果目标身上拥有护盾，则造成伤害后还会反弹给随机敌方单位。",
-            "EN": "Randomly deals DMG 4 times to single targets. If the target has Shield, the DMG will rebound back to this unit after dealing DMG."
+            "CH": "",
+            "EN": "Deals <1> Ice DMG to the Marked target (in 4 hits). After every hit, if the target has Shield, will deal <color style='color:#f29e38;'>20% Max HP</color> Ice DMG to self."
         },
         "SP": 10.0,
-        "Elem": "Ice"
+        "Elem": "Ice",
+        "Threat": true,
+        "DMG": [
+            8
+        ]
     },
     "300302103": {
         "Key": "Skill03",
@@ -17208,7 +17490,7 @@ var _monsterskill = {
             "EN": "SoulGlad Party"
         },
         "Desc": {
-            "CH": "召唤2只【气泡锂犬】。",
+            "CH": "",
             "EN": "Summons 2 Bubble Hounds."
         },
         "SP": 0
@@ -17220,8 +17502,8 @@ var _monsterskill = {
             "EN": "Celebration Fountain"
         },
         "Desc": {
-            "CH": "进入蓄力状态，获得韧性保护，下次行动时施放【无限畅饮】。同时将随机我方单体标记为监视目标。每当我方目标施放战技时，会转为标记最新施放战技的目标。此状态下，自身受到攻击时行动将会提前。",
-            "EN": "Enters the Charge stage and gains Toughness Protection. Uses Bottomless Free Drink during the next action."
+            "CH": "",
+            "EN": "Enters the Charge stage and gains <color style='color:#f29e38;'>Toughness Protection</color>. Uses <color style='color:#f29e38;'>Bottomless Free Drink</color> during the next action.<br>Will <color style='color:#f29e38;'>Mark</color> a random target. When a character uses their Skill, Mark will be moved to the new Skill user. When attacked, advances own action by <color style='color:#f29e38;'>7</color>."
         },
         "SP": 0
     },
@@ -17232,7 +17514,7 @@ var _monsterskill = {
             "EN": ""
         },
         "Desc": {
-            "CH": "dev_受到攻击或持续伤害时，获得可乐标记，可叠加。可乐标记层数越高，造成的伤害越高，造成伤害后可乐标记清零。",
+            "CH": "",
             "EN": ""
         },
         "SP": 0
@@ -17244,11 +17526,14 @@ var _monsterskill = {
             "EN": "BHF: Fiery Advance"
         },
         "Desc": {
-            "CH": "对指定我方单体造成少量火属性伤害。",
-            "EN": "Deals minor Fire DMG to a single target."
+            "CH": "",
+            "EN": "Deals <1> Fire DMG to a single target."
         },
         "SP": 10.0,
-        "Elem": "Fire"
+        "Elem": "Fire",
+        "DMG": [
+            2
+        ]
     },
     "302402102": {
         "Key": "Skill02",
@@ -17257,11 +17542,15 @@ var _monsterskill = {
             "EN": "BHF: Heavenly Fire"
         },
         "Desc": {
-            "CH": "对指定我方单体及其相邻目标造成少量火属性伤害。",
-            "EN": "Deals Fire DMG to a single target and units adjacent to the target."
+            "CH": "",
+            "EN": "Deals <1> Fire DMG to a single target and <2> Fire DMG to adjacent units."
         },
         "SP": 10.0,
-        "Elem": "Fire"
+        "Elem": "Fire",
+        "DMG": [
+            2.4,
+            1.2
+        ]
     },
     "302402103": {
         "Key": "Skill03",
@@ -17270,11 +17559,14 @@ var _monsterskill = {
             "EN": "BBHF: Scorched Earth"
         },
         "Desc": {
-            "CH": "对我方全体造成少量火属性伤害。",
-            "EN": "Deals Fire DMG to all targets."
+            "CH": "",
+            "EN": "Deals <1> Fire DMG to all targets."
         },
         "SP": 15.0,
-        "Elem": "Fire"
+        "Elem": "Fire",
+        "DMG": [
+            1.8
+        ]
     },
     "302402104": {
         "Key": "Skill04",
@@ -17283,10 +17575,11 @@ var _monsterskill = {
             "EN": "DHGDR: Incomplete Combustion"
         },
         "Desc": {
-            "CH": "消耗自身生命值，进入【次级燃烧】并解除【弱点无效】效果。进入【次级燃烧】后自身大幅增强，但所有攻击会消耗自身生命值。",
-            "EN": "Consumes HP to enter the Incomplete Combustion state and removes Weakness Protected. Sam is significantly more powerful in this state, but all his attacks consume his own HP."
+            "CH": "",
+            "EN": "Initially has Weakness Protected.<br>Consumes <color style='color:#f29e38;'>4% Max HP</color> to enter the <color style='color:#f29e38;'>Incomplete Combustion</color> state and removes Weakness Protected. Sam is significantly more powerful in this state, but all his attacks consume <color style='color:#f29e38;'>2% Max HP</color> and <color style='color:#f29e38;'>7%</color> Molten Energy."
         },
-        "SP": 0
+        "SP": 0,
+        "Threat": true
     },
     "302402105": {
         "Key": "Skill05",
@@ -17295,11 +17588,16 @@ var _monsterskill = {
             "EN": "DHGDR: Supernova Overload"
         },
         "Desc": {
-            "CH": "对我方全体造成火属性伤害，并大概率使受到攻击的我方目标陷入灼烧状态。",
-            "EN": "Deals Fire DMG to all targets and may make them Burn."
+            "CH": "",
+            "EN": "Deals <1> Fire DMG to all targets and has <color style='color:#f29e38;'>120%</color> Base Chance of inflicting <b>Burn</b>.\bBurn DoT: <2> Fire DMG, lasing <color style='color:#f29e38;'>3</color> turns."
         },
         "SP": 20.0,
-        "Elem": "Fire"
+        "Elem": "Fire",
+        "Threat": true,
+        "DMG": [
+            3,
+            1.2
+        ]
     },
     "302402106": {
         "Key": "PassiveSkill01",
@@ -17308,8 +17606,8 @@ var _monsterskill = {
             "EN": "SGE: Molten Core"
         },
         "Desc": {
-            "CH": "进入【次级燃烧】后使场地燃烧，同时燃烧我方的战技点；我方消耗燃烧的战技点时会消耗生命值，同时额外造成等同于原伤害一定比例的固定数值火属性伤害，并且接受其他角色的治疗时，生命值回复量大幅降低。",
-            "EN": "After entering Secondary Combustion, Combusts the area and targets' Skill Points. When consuming Combusted Skill Points, targets lose HP and additionally deal a set amount of Fire DMG equal to a certain percentage of the original DMG. When they receive healing from other characters, the amount of HP restored is massively reduced."
+            "CH": "",
+            "EN": "After entering Secondary Combustion, Combusts the area and targets' Skill Points. When consuming Combusted Skill Points, targets lose <color style='color:#f29e38;'>2% Max HP</color> and additionally deal Fire DMG equal to <color style='color:#f29e38;'>40%</color> of the original DMG. When they receive healing from other characters, the amount of HP restored is reduced by <color style='color:#f29e38;'>80%</color>."
         },
         "SP": 0
     },
@@ -17320,7 +17618,7 @@ var _monsterskill = {
             "EN": "Pedicel: Wintry Wind"
         },
         "Desc": {
-            "CH": "召唤建木枝梢【肃风之杪】。",
+            "CH": "",
             "EN": "Summons Ambrosial Arbor branch \"Twig of Wintry Wind\""
         },
         "SP": 0
@@ -17332,7 +17630,7 @@ var _monsterskill = {
             "EN": "Pedicel: Marple Leaf"
         },
         "Desc": {
-            "CH": "召唤建木枝梢【缃叶之杪】。",
+            "CH": "",
             "EN": "Summons Ambrosial Arbor branch \"Twig of Marple Leaf\""
         },
         "SP": 0
@@ -17344,7 +17642,7 @@ var _monsterskill = {
             "EN": "Pedicel: Glorious Blooms"
         },
         "Desc": {
-            "CH": "召唤建木枝梢【繁花之杪】。",
+            "CH": "",
             "EN": "Summons Ambrosial Arbor branch \"Twig of Glorious Blooms\""
         },
         "SP": 0
@@ -17356,7 +17654,7 @@ var _monsterskill = {
             "EN": "Pedicel: Lavish Fruits"
         },
         "Desc": {
-            "CH": "召唤建木枝梢【嘉实之杪】。",
+            "CH": "",
             "EN": "Summons Ambrosial Arbor branch \"Twig of Lavish Fruits.\""
         },
         "SP": 0
@@ -17368,7 +17666,7 @@ var _monsterskill = {
             "EN": "Wavering Bleat"
         },
         "Desc": {
-            "CH": "对指定我方单体造成雷属性伤害。",
+            "CH": "",
             "EN": "Deals Lightning DMG to a single target."
         },
         "SP": 20.0,
@@ -17381,7 +17679,7 @@ var _monsterskill = {
             "EN": "Caress of Wind"
         },
         "Desc": {
-            "CH": "对我方全体造成少量风属性伤害。",
+            "CH": "",
             "EN": "Deals minor Wind DMG to all targets."
         },
         "SP": 15.0,
@@ -17394,7 +17692,7 @@ var _monsterskill = {
             "EN": "Hardy Leaf Sheath"
         },
         "Desc": {
-            "CH": "提高防御力，且使自身韧性无法受到伤害。",
+            "CH": "",
             "EN": "Increases DEF. Toughness cannot be reduced."
         },
         "SP": 0
@@ -17406,11 +17704,12 @@ var _monsterskill = {
             "EN": "Flamboyant Gore"
         },
         "Desc": {
-            "CH": "当场上存在2个【嘉实】时立即施放该技能，对我方全体造成雷属性伤害。场上【建木枝梢】数量越多，造成的伤害越高。施放技能后，清除场上所有的【建木枝梢】。",
+            "CH": "",
             "EN": "Uses this ability immediately when there are 2 Lavish Fruits on the field. Deals Lightning DMG to all targets. Deals more damage for every \"Ambrosial Arbor Branches\" on the field. After the ability is used, remove all \"Ambrosial Arbor Branches\" on the field."
         },
         "SP": 20.0,
-        "Elem": "Elec"
+        "Elem": "Elec",
+        "Threat": true
     },
     "202401409": {
         "Key": "Skill09",
@@ -17431,11 +17730,14 @@ var _monsterskill = {
             "EN": "The Can's Trials"
         },
         "Desc": {
-            "CH": "对我方单体造成物理属性伤害。",
-            "EN": "Deals Physical DMG to a single target."
+            "CH": "",
+            "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 0,
-        "Elem": "Phys"
+        "Elem": "Phys",
+        "DMG": [
+            3
+        ]
     },
     "300205102": {
         "Key": "Skill02",
@@ -17444,8 +17746,8 @@ var _monsterskill = {
             "EN": "The Can's Tribulations"
         },
         "Desc": {
-            "CH": "提高自身的攻击力。该效果可叠加，且不可被驱散。",
-            "EN": "Increases this unit's ATK. This effect is stackable and unremoveable."
+            "CH": "",
+            "EN": "Increases own ATK by <color style='color:#f29e38;'>30%</color>. This effect is stackable and unremoveable."
         },
         "SP": 0
     },
@@ -17456,7 +17758,7 @@ var _monsterskill = {
             "EN": "The Can's Creed"
         },
         "Desc": {
-            "CH": "当自身被弱点击破时将会击破所有除【王下一桶（投影）】外的敌方单位的弱点，同时自身离开战斗。当受到敌方攻击时，将会被添加此次攻击对应的属性弱点。",
+            "CH": "",
             "EN": "When this unit's Weakness is Broken, Weakness will be Broken for all friendly units except Lordly Trashcan (Projection). At the same time, this unit will exit the battle. When attacked, a Weakness corresponding to the attack's Type will be implanted."
         },
         "SP": 0
@@ -17468,11 +17770,14 @@ var _monsterskill = {
             "EN": "Funereal Kiss"
         },
         "Desc": {
-            "CH": "对指定我方单体造成物理属性伤害。",
-            "EN": "Deals Physical DMG to a single target."
+            "CH": "",
+            "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 15.0,
-        "Elem": "Phys"
+        "Elem": "Phys",
+        "DMG": [
+            4
+        ]
     },
     "301402102": {
         "Key": "Skill02",
@@ -17481,11 +17786,14 @@ var _monsterskill = {
             "EN": "Sunken Rain"
         },
         "Desc": {
-            "CH": "对我方全体造成物理属性伤害。",
-            "EN": "Deals Physical DMG to all targets."
+            "CH": "",
+            "EN": "Deals <1> Physical DMG to all targets."
         },
         "SP": 10.0,
-        "Elem": "Phys"
+        "Elem": "Phys",
+        "DMG": [
+            2.5
+        ]
     },
     "301402103": {
         "Key": "Skill03",
@@ -17494,10 +17802,13 @@ var _monsterskill = {
             "EN": "Biting Obituary"
         },
         "Desc": {
-            "CH": "大幅提升自身造成的伤害，持续1回合，陷入弱点击破状态后解除。",
-            "EN": "Tremendously increases DMG dealt for 1 turn. This effect is removed when this unit become Weakness Broken."
+            "CH": "",
+            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>100%</color> for 1 turn. This effect is removed when this unit become Weakness Broken."
         },
-        "SP": 0
+        "SP": 0,
+        "Status": [
+            230140207
+        ]
     },
     "301402104": {
         "Key": "Skill04",
@@ -17506,10 +17817,14 @@ var _monsterskill = {
             "EN": "Fading Radiance"
         },
         "Desc": {
-            "CH": "进入【白日西沉】状态。每当我方施放普攻、战技、终结技时叠加1层，当【白日西沉】叠加至3层时，立即对上一个行动的我方施放【已在黄昏失色】。施放过一次【已在黄昏失色】或被弱点击破后解除该状态。",
-            "EN": "Enters the Sunset state. Gains 1 stack each time a character takes action. When 3 stacks are gained, immediately uses Losing Eventide Light on the last-acting character. This effect is removed after using Losing Eventide Light once or after becoming Weakness Broken."
+            "CH": "",
+            "EN": "Enters the <color style='color:#f29e38;'>Sunset</color> state. Gains 1 stack each time a character takes action. When 3 stacks are gained, immediately uses <color style='color:#f29e38;'>Losing Eventide</color> Light on the last-acting character. This effect is removed after using Losing Eventide Light once or after becoming Weakness Broken."
         },
-        "SP": 0
+        "SP": 0,
+        "Threat": true,
+        "Status": [
+            230140204
+        ]
     },
     "301402105": {
         "Key": "Skill05",
@@ -17518,10 +17833,14 @@ var _monsterskill = {
             "EN": "Losing Eventide Light"
         },
         "Desc": {
-            "CH": "立即对上一名施放普攻、战技、终结技的我方目标发动致命攻击，使其陷入【梦死】状态。",
-            "EN": "Immediately deals a killing blow to the character that acted last."
+            "CH": "",
+            "EN": "Immediately deals a killing blow to the character that acted last, making them enter <color style='color:#f29e38;'>Dreaming Till The End</color>."
         },
-        "SP": 0
+        "SP": 0,
+        "Threat": true,
+        "Status": [
+            230140201
+        ]
     },
     "301402106": {
         "Key": "Skill06",
@@ -17530,10 +17849,14 @@ var _monsterskill = {
             "EN": "Toward Moonrise"
         },
         "Desc": {
-            "CH": "进入【夜幕降临】状态，期间会锁定2名最先行动的我方目标。下次行动时使用【如水逝于水中】。",
-            "EN": "Enters the Nightfall state and locks onto the 2 characters who are due to act next. Uses Watery Dissolution in the next action."
+            "CH": "",
+            "EN": "Enters the <color style='color:#f29e38;'>Nightfall state</color> and locks onto the 2 characters who are due to act next. Uses <color style='color:#f29e38;'>Watery Dissolution</color> in the next action."
         },
-        "SP": 0
+        "SP": 0,
+        "Threat": true,
+        "Status": [
+            230140202
+        ]
     },
     "301402107": {
         "Key": "Skill07",
@@ -17542,10 +17865,11 @@ var _monsterskill = {
             "EN": "Watery Dissolution"
         },
         "Desc": {
-            "CH": "立即对所有被锁定的我方目标发动致命攻击，使其陷入【梦死】状态。如果没有被锁定的目标，则随机对2名我方目标发动致命攻击并使其陷入【梦死】状态。",
-            "EN": "Immediately deals killing blow to all locked-on targets. If no targets are being locked on, randomly lock on to two targets."
+            "CH": "",
+            "EN": "Immediately deals killing blow to all locked-on targets, making them enter <color style='color:#f29e38;'>Dreaming Till The End</color>. If no targets are being locked on, randomly lock on to two targets."
         },
-        "SP": 0
+        "SP": 0,
+        "Threat": true
     },
     "301402108": {
         "Key": "Skill08",
@@ -17566,8 +17890,8 @@ var _monsterskill = {
             "EN": "Desolation Without Lamentation"
         },
         "Desc": {
-            "CH": "每当我方目标陷入【梦死】状态时，召唤一个对应的【永眠墓碣】；当我方全体陷入【梦死】状态或无法战斗状态时，战斗失败。",
-            "EN": "Whenever a target enters the Dreaming Till The End state, summons a corresponding Tomb of Eternal Slumber. When all targets enter the Dreaming Till The End state or are knocked down, this battle will be considered a defeat."
+            "CH": "",
+            "EN": "Whenever a target enters the <color style='color:#f29e38;'>Dreaming Till The End</color> state, summons a corresponding <color style='color:#f29e38;'>Tomb of Eternal Slumber</color>. When all targets enter the Dreaming Till The End state or are knocked down, this battle will be considered a defeat."
         },
         "SP": 0
     },
@@ -17578,10 +17902,16 @@ var _monsterskill = {
             "EN": "SGE-Molten Engine"
         },
         "Desc": {
-            "CH": "萨姆在【次级燃烧】下拥有100%的【熔火能量】，损失生命值将扣除【熔火能量】，被弱点击破或【熔火能量】耗尽时解除【次级燃烧】。解除【次级燃烧】时，萨姆受到的伤害提高，并恢复我方全体能量。",
-            "EN": "While in Secondary Combustion, Sam has 100% Molten Energy. Losing HP will deduct Molten Energy. When Weakness is Broken or when Molten Energy is depleted, dispels Secondary Combustion. When Secondary Combustion is dispelled, Sam receives increased DMG, and Energy is regenerated for all characters."
+            "CH": "",
+            "EN": "While in <color style='color:#f29e38;'>Secondary Combustion</color>, Sam has 100% Molten Energy. Losing HP will deduct Molten Energy (<color style='color:#f29e38;'>28%</color> Max HP corresponds to 100% Molten Energy).<br>When Weakness is Broken or when Molten Energy is depleted, dispels Secondary Combustion and loses all Toughness.<br>When Secondary Combustion is dispelled, Sam receives <color style='color:#f29e38;'>50%</color> increased DMG, and revives all Energy for all characters."
         },
-        "SP": 0
+        "SP": 0,
+        "Status": [
+            230240201,
+            230240202,
+            230240203,
+            230240204
+        ]
     },
     "302402107": {
         "Key": "Skill06",
@@ -17590,10 +17920,16 @@ var _monsterskill = {
             "EN": "SGE-Molten Engine"
         },
         "Desc": {
-            "CH": "萨姆在【次级燃烧】下拥有100%的【熔火能量】，损失生命值将扣除【熔火能量】，被弱点击破或【熔火能量】耗尽时解除【次级燃烧】。解除【次级燃烧】时，萨姆受到的伤害提高，并恢复我方全体能量。",
-            "EN": "While in Secondary Combustion, Sam has 100% Molten Energy. Losing HP will deduct Molten Energy. When Weakness is Broken or when Molten Energy is depleted, dispels Secondary Combustion. When Secondary Combustion is dispelled, Sam receives increased DMG, and Energy is regenerated for all characters."
+            "CH": "",
+            "EN": "While in <color style='color:#f29e38;'>Secondary Combustion</color>, Sam has 100% Molten Energy. Losing HP will deduct Molten Energy (<color style='color:#f29e38;'>28%</color> Max HP corresponds to 100% Molten Energy).<br>When Weakness is Broken or when Molten Energy is depleted, dispels Secondary Combustion and loses all Toughness.<br>When Secondary Combustion is dispelled, Sam receives <color style='color:#f29e38;'>50%</color> increased DMG, and revives all Energy for all characters."
         },
-        "SP": 0
+        "SP": 0,
+        "Status": [
+            230240201,
+            230240202,
+            230240203,
+            230240204
+        ]
     },
     "104201": {
         "Name": {

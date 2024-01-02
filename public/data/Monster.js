@@ -24659,6 +24659,9 @@ var _monster = [
         ],
         "Camp": 10,
         "Icon": "MonsterIcon/Monster_3001010.png",
+        "Status": [
+            230010101
+        ],
         "New": true
     },
     {
@@ -24700,7 +24703,10 @@ var _monster = [
             }
         ],
         "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3001010.png"
+        "Icon": "MonsterIcon/Monster_3001010.png",
+        "Status": [
+            230010101
+        ]
     },
     {
         "_id": 3001020,
@@ -24828,6 +24834,10 @@ var _monster = [
         ],
         "Camp": 10,
         "Icon": "MonsterIcon/Monster_3002010.png",
+        "Status": [
+            230020101,
+            230020102
+        ],
         "New": true
     },
     {
@@ -24878,7 +24888,11 @@ var _monster = [
             }
         ],
         "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3002010.png"
+        "Icon": "MonsterIcon/Monster_3002010.png",
+        "Status": [
+            230020101,
+            230020102
+        ]
     },
     {
         "_id": 300201002,
@@ -24928,7 +24942,11 @@ var _monster = [
             }
         ],
         "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3002010.png"
+        "Icon": "MonsterIcon/Monster_3002010.png",
+        "Status": [
+            230020101,
+            230020102
+        ]
     },
     {
         "_id": 300201003,
@@ -24972,7 +24990,11 @@ var _monster = [
             }
         ],
         "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3002010.png"
+        "Icon": "MonsterIcon/Monster_3002010.png",
+        "Status": [
+            230020101,
+            230020102
+        ]
     },
     {
         "_id": 3002030,
@@ -25016,6 +25038,9 @@ var _monster = [
         ],
         "Camp": 10,
         "Icon": "MonsterIcon/Monster_3002030.png",
+        "Status": [
+            230020301
+        ],
         "New": true
     },
     {
@@ -25059,7 +25084,10 @@ var _monster = [
             }
         ],
         "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3002030.png"
+        "Icon": "MonsterIcon/Monster_3002030.png",
+        "Status": [
+            230020301
+        ]
     },
     {
         "_id": 300203002,
@@ -25102,7 +25130,10 @@ var _monster = [
             }
         ],
         "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3002030.png"
+        "Icon": "MonsterIcon/Monster_3002030.png",
+        "Status": [
+            230020301
+        ]
     },
     {
         "_id": 3002050,
@@ -25136,7 +25167,8 @@ var _monster = [
             }
         ],
         "Camp": 7,
-        "Icon": "MonsterIcon/Monster_3002050.png"
+        "Icon": "MonsterIcon/Monster_3002050.png",
+        "New": true
     },
     {
         "_id": 300205002,
@@ -25207,7 +25239,8 @@ var _monster = [
             }
         ],
         "Camp": 7,
-        "Icon": "MonsterIcon/Monster_3002050.png"
+        "Icon": "MonsterIcon/Monster_3002050.png",
+        "New": true
     },
     {
         "_id": 3002089,
@@ -25287,16 +25320,20 @@ var _monster = [
                 "Skills": [
                     300301001,
                     300301002,
-                    300301003,
-                    300301004,
-                    300301005,
+                    300301007,
                     300301006,
-                    300301007
+                    300301003,
+                    300301005,
+                    300301004
                 ]
             }
         ],
         "Camp": 10,
         "Icon": "MonsterIcon/Monster_3003010.png",
+        "Status": [
+            230030104,
+            230030105
+        ],
         "New": true
     },
     {
@@ -25330,11 +25367,11 @@ var _monster = [
                 "Skills": [
                     300301101,
                     300301102,
-                    300301103,
-                    300301104,
-                    300301105,
+                    300301107,
                     300301106,
-                    300301107
+                    300301103,
+                    300301105,
+                    300301104
                 ]
             }
         ],
@@ -46632,6 +46669,18 @@ var _status = {
         },
         "CanNotDispel": true
     },
+    "230010101": {
+        "Name": {
+            "CH": "test_效果抵抗降低",
+            "EN": ""
+        },
+        "Modifier": "Monster_W2_Mecha01_02_ResistanceDown",
+        "Desc": {
+            "CH": "效果抵抗降低<color style='color:#f29e38;'>[MDF_PropertyValue]</color>。",
+            "EN": "Effect RES reduces by <color style='color:#f29e38;'>[MDF_PropertyValue]</color>."
+        },
+        "Type": "Debuff"
+    },
     "220130111": {
         "Name": {
             "CH": "锁定",
@@ -46680,6 +46729,18 @@ var _status = {
             "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageAddedRatio]</color> for up to <color style='color:#f29e38;'>[MDF_MaxLayer]</color> stacks."
         },
         "Type": "Buff"
+    },
+    "230020301": {
+        "Name": {
+            "CH": "苏乐达陶醉",
+            "EN": "SoulGlad Revel"
+        },
+        "Modifier": "Monster_W2_Beast01_03_LayerCount",
+        "Desc": {
+            "CH": "强化技能效果，最多叠加<color style='color:#f29e38;'>[MDF_ShowValue]</color>层。",
+            "EN": "Enhances ability effects, stacking up to <color style='color:#f29e38;'>[MDF_ShowValue]</color> times."
+        },
+        "CanNotDispel": true
     },
     "220230211": {
         "Name": {
@@ -46740,6 +46801,54 @@ var _status = {
             "EN": "Increases SPD by <color style='color:#f29e38;'>[MDF_SpeedAddedRatio]</color>. SPD increases further every time Teamwork Order is used."
         },
         "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "230020101": {
+        "Name": {
+            "CH": "惊喜频道",
+            "EN": "Surprise Channel"
+        },
+        "Modifier": "MModifier_Monster_W3_TV_00_Side1",
+        "Desc": {
+            "CH": "圆幕先生能够使用【惊喜综艺】技能。受到攻击后转变为【惊吓频道】状态。",
+            "EN": "Mr. Domescreen can use the \"Surprise Variety Show\" ability. After it has been attacked, switches to the Fright Channel state."
+        },
+        "CanNotDispel": true
+    },
+    "230020102": {
+        "Name": {
+            "CH": "惊吓频道",
+            "EN": "Fright Channel"
+        },
+        "Modifier": "MModifier_Monster_W3_TV_00_Side2",
+        "Desc": {
+            "CH": "圆幕先生能够使用【惊吓播报】技能。受到攻击后转变为【惊喜频道】状态。",
+            "EN": "Mr. Domescreen can use the \"Startling Broadcast\" ability. After it has been attacked, switches to the Surprise Channel state."
+        },
+        "CanNotDispel": true
+    },
+    "230030104": {
+        "Name": {
+            "CH": "文火",
+            "EN": "Simmer"
+        },
+        "Modifier": "MModifier_Monster_W3_Dinosaur_00_Calm",
+        "Desc": {
+            "CH": "当自身受到攻击或持续伤害时，叠加一层【炉灶加温】。",
+            "EN": "When this unit is attacked or takes DoT, gain 1 stack of Stove Heating."
+        },
+        "CanNotDispel": true
+    },
+    "230030105": {
+        "Name": {
+            "CH": "急火",
+            "EN": "Boil"
+        },
+        "Modifier": "MModifier_Monster_W3_Dinosaur_00_Fury",
+        "Desc": {
+            "CH": "当自身受到攻击或持续伤害时，叠加一层【炉灶加温】。",
+            "EN": "When this unit is attacked or takes DoT, gain 1 stack of Stove Overheating and there is a chance to apply Slow to the target when attacking."
+        },
         "CanNotDispel": true
     }
 }

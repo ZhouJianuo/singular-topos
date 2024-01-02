@@ -482,7 +482,7 @@ $(function () {
                 template: {
                     div: [
                         {
-                            div: skill.Name[lang] + (skill.SP ? "<span style='font-size:14px;color:#fff;font-weight:normal;margin-left:10px;margin-right:5px;float:right;'>" + txt.HitSP[lang] + skill.SP.toFixed(0) + "</span>" : ''),
+                            div: (skill.Threat ? "<color style='color:#f29e38;'>⚠ </color>" : '') + skill.Name[lang] + (skill.SP ? "<span style='font-size:14px;color:#fff;font-weight:normal;margin-left:10px;margin-right:5px;float:right;'>" + txt.HitSP[lang] + skill.SP.toFixed(0) + "</span>" : ''),
                             class: 'a_section_head'
                         },
                         {
