@@ -795,10 +795,9 @@ var _monster = [
             "CH": "困居于下层区的人们为了生存，往往会不惜铤而走险深入裂界寻找任何可用的物资，其中被他们掘出的古代机器成了他们最好的帮手。",
             "EN": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper."
         },
-        "EliteGroup": 2,
         "Stats": {
-            "HP": 1.5,
-            "ATK": 18.0,
+            "HP": 2.55,
+            "ATK": 14.4,
             "DEF": 1.0,
             "SPD": 100.0,
             "Stance": 2.0
@@ -2482,10 +2481,9 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的近卫战士，负责冲锋陷阵。<br>战斗中，银鬃近卫的攻击会降低我方的防御力。",
             "EN": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat."
         },
-        "EliteGroup": 2,
         "Stats": {
-            "HP": 1.3,
-            "ATK": 18.0,
+            "HP": 2.21,
+            "ATK": 14.4,
             "DEF": 1.0,
             "SPD": 83.0,
             "Stance": 2.0
@@ -3556,10 +3554,9 @@ var _monster = [
             "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的射手，负责狙击敌人。<br>战斗中，银鬃射手的射击会对我方造成裂伤。",
             "EN": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat."
         },
-        "EliteGroup": 2,
         "Stats": {
-            "HP": 1.1,
-            "ATK": 18.0,
+            "HP": 1.87,
+            "ATK": 14.4,
             "DEF": 1.0,
             "SPD": 100.0,
             "Stance": 2.0
@@ -7157,10 +7154,9 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，形如某种载具，然而人们似乎早就忘却了它载具的用途。<br>战斗中自动机兵「战犬」能提供支援，回复战友的生命。",
             "EN": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies."
         },
-        "EliteGroup": 2,
         "Stats": {
-            "HP": 1.4,
-            "ATK": 18.0,
+            "HP": 2.38,
+            "ATK": 14.4,
             "DEF": 1.0,
             "SPD": 100.0,
             "Stance": 2.0
@@ -8696,10 +8692,9 @@ var _monster = [
             "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责移动的附肢上装置着信号灯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「甲虫」会创造力场护盾保护自己。",
             "EN": "An automaton pieced together with Old World technology. A signal light is placed on its legs, and the unit may have been used for mining or construction operations.<br>In combat, Automaton Beetles can create forcefields to shield themselves."
         },
-        "EliteGroup": 2,
         "Stats": {
-            "HP": 1.4,
-            "ATK": 18.0,
+            "HP": 2.38,
+            "ATK": 14.4,
             "DEF": 1.0,
             "SPD": 100.0,
             "Stance": 2.0
@@ -25377,6 +25372,10 @@ var _monster = [
         ],
         "Camp": 10,
         "Icon": "MonsterIcon/Monster_3003010.png",
+        "Status": [
+            230030104,
+            230030105
+        ],
         "New": true
     },
     {
@@ -25419,7 +25418,11 @@ var _monster = [
             }
         ],
         "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3003010.png"
+        "Icon": "MonsterIcon/Monster_3003010.png",
+        "Status": [
+            230030104,
+            230030105
+        ]
     },
     {
         "_id": 3003020,
@@ -25646,6 +25649,9 @@ var _monster = [
         ],
         "Camp": 11,
         "Icon": "MonsterIcon/Monster_3012020.png",
+        "Status": [
+            230120201
+        ],
         "New": true
     },
     {
@@ -25821,6 +25827,12 @@ var _monster = [
         ],
         "Camp": 11,
         "Icon": "MonsterIcon/Monster_3014020.png",
+        "Status": [
+            230140201,
+            230140202,
+            230140204,
+            230140207
+        ],
         "New": true
     },
     {
@@ -25889,7 +25901,13 @@ var _monster = [
             }
         ],
         "Camp": 11,
-        "Icon": "MonsterIcon/Monster_3014020.png"
+        "Icon": "MonsterIcon/Monster_3014020.png",
+        "Status": [
+            230140201,
+            230140202,
+            230140204,
+            230140207
+        ]
     },
     {
         "_id": 301402002,
@@ -25957,7 +25975,13 @@ var _monster = [
             }
         ],
         "Camp": 11,
-        "Icon": "MonsterIcon/Monster_3014020.png"
+        "Icon": "MonsterIcon/Monster_3014020.png",
+        "Status": [
+            230140201,
+            230140202,
+            230140204,
+            230140207
+        ]
     },
     {
         "_id": 301402003,
@@ -26025,7 +26049,13 @@ var _monster = [
             }
         ],
         "Camp": 11,
-        "Icon": "MonsterIcon/Monster_3014020.png"
+        "Icon": "MonsterIcon/Monster_3014020.png",
+        "Status": [
+            230140201,
+            230140202,
+            230140204,
+            230140207
+        ]
     },
     {
         "_id": 3014021,
@@ -26094,6 +26124,12 @@ var _monster = [
         ],
         "Camp": 11,
         "Icon": "MonsterIcon/Monster_3014020.png",
+        "Status": [
+            230140201,
+            230140202,
+            230140204,
+            230140207
+        ],
         "New": true
     },
     {
@@ -26805,6 +26841,12 @@ var _monster = [
         ],
         "Camp": 5,
         "Icon": "MonsterIcon/Monster_3024020.png",
+        "Status": [
+            230240201,
+            230240202,
+            230240203,
+            230240204
+        ],
         "New": true
     },
     {
@@ -26905,6 +26947,12 @@ var _monster = [
         ],
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_3024020.png",
+        "Status": [
+            230240201,
+            230240202,
+            230240203,
+            230240204
+        ],
         "New": true
     },
     {
@@ -46790,6 +46838,54 @@ var _status = {
         },
         "Type": "Buff"
     },
+    "230140201": {
+        "Name": {
+            "CH": "梦死",
+            "EN": "Dreaming Till The End"
+        },
+        "Modifier": "M_Death_CTRL",
+        "Desc": {
+            "CH": "无法被选定，无法行动。",
+            "EN": "Cannot be selected, cannot take action."
+        },
+        "CanNotDispel": true
+    },
+    "230140202": {
+        "Name": {
+            "CH": "夜幕将临",
+            "EN": "Nightfall"
+        },
+        "Modifier": "Modifier_W3_Death_00_ChargeShoot",
+        "Desc": {
+            "CH": "锁定接下来使用普攻、战技、终结技的2名我方目标。",
+            "EN": "The night falls and the eternal slumber approaches. \"Death\" will lock on to the next 2 characters who either use their Basic Attack, Skill, or Ultimate."
+        },
+        "CanNotDispel": true
+    },
+    "230140204": {
+        "Name": {
+            "CH": "白日西沉",
+            "EN": "Sunset"
+        },
+        "Modifier": "Modifier_W3_Death_00_HuntingMode1",
+        "Desc": {
+            "CH": "已叠加1层【白日西沉】。",
+            "EN": "\"Death\" has gained 1 stack of \"Sunset.\""
+        },
+        "CanNotDispel": true
+    },
+    "230140207": {
+        "Name": {
+            "CH": "锋锐悼词",
+            "EN": "Biting Obituary"
+        },
+        "Modifier": "Monster_W3_Death_00_AllDamageUp",
+        "Desc": {
+            "CH": "造成的伤害提高<color style='color:#f29e38;'>[MDF_ShowValue1]</color>，陷入弱点击破状态后移除。",
+            "EN": "Increases the next attack's DMG by <color style='color:#f29e38;'>[MDF_ShowValue1]</color>. This effect is removed when this unit becomes Weakness Broken."
+        },
+        "Type": "Buff"
+    },
     "210130221": {
         "Name": {
             "CH": "作战加速",
@@ -46850,5 +46946,65 @@ var _status = {
             "EN": "When this unit is attacked or takes DoT, gain 1 stack of Stove Overheating and there is a chance to apply Slow to the target when attacking."
         },
         "CanNotDispel": true
+    },
+    "230120201": {
+        "Name": {
+            "CH": "守备",
+            "EN": "Safeguard"
+        },
+        "Modifier": "MCommon_SuperArmor",
+        "Desc": {
+            "CH": "受到的伤害降低，弱点被击破时解除，被击破时行动额外延后。",
+            "EN": "Takes less DMG. This effect is removed when Weakness is broken. This unit's action will be delayed further when it is Weakness Broken."
+        },
+        "CanNotDispel": true
+    },
+    "230240201": {
+        "Name": {
+            "CH": "次级燃烧",
+            "EN": "Incomplete Combustion"
+        },
+        "Modifier": "Monster_W3_Sam_00_Enhance",
+        "Desc": {
+            "CH": "攻击时消耗生命值，同时速度提高<color style='color:#f29e38;'>[MDF_SpeedUpRatio]</color>且额外获得一次行动，当前还剩<color style='color:#f29e38;'>[MDF_CurrentEnergyBar]</color>的熔火能量退出【次级燃烧】。",
+            "EN": "All attacks consume HP. Increases SPD by <color style='color:#f29e38;'>[MDF_SpeedUpRatio]</color> and gains an additional action. Incomplete Combustion state expires when Molten Energy is below <color style='color:#f29e38;'>[MDF_CurrentEnergyBar]</color>."
+        },
+        "CanNotDispel": true
+    },
+    "230240202": {
+        "Name": {
+            "CH": "弱点无效",
+            "EN": "Weakness Protected"
+        },
+        "Modifier": "Monster_W3_Sam_00_WeakPointProtected",
+        "Desc": {
+            "CH": "进入【次级燃烧】前，萨姆的韧性无法受到伤害。",
+            "EN": "Sam cannot lose Toughness while out of the Incomplete Combustion state."
+        },
+        "CanNotDispel": true
+    },
+    "230240203": {
+        "Name": {
+            "CH": "熔火垓心",
+            "EN": "Molten Core"
+        },
+        "Modifier": "Monster_W3_Sam_00_BurningBP",
+        "Desc": {
+            "CH": "我方消耗燃烧的战技点时消耗生命值，同时额外造成等同于原伤害<color style='color:#f29e38;'>[MDF_DamageUpRatio]</color>的固定数值火属性伤害，并且接受其他角色的治疗时，生命值回复量大幅降低。",
+            "EN": "When consuming Combusted Skill Points, allies lose HP and additionally deal a set amount of Fire DMG equal to <color style='color:#f29e38;'>[MDF_DamageUpRatio]</color> of the original DMG. When they receive healing from other characters, the amount of HP restored is massively reduced."
+        },
+        "CanNotDispel": true
+    },
+    "230240204": {
+        "Name": {
+            "CH": "易伤",
+            "EN": "Vulnerability"
+        },
+        "Modifier": "Monster_W3_Sam_00_TakenDamage",
+        "Desc": {
+            "CH": "受到的伤害提高<color style='color:#f29e38;'>[MDF_DamageTakenUpRatio_PerLayer]</color>，该效果当萨姆从弱点击破状态恢复时解除。",
+            "EN": "Takes <color style='color:#f29e38;'>[MDF_DamageTakenUpRatio_PerLayer]</color> more DMG. This effect expires when Sam recovers from Weakness Break state."
+        },
+        "Type": "Debuff"
     }
 }
