@@ -22,7 +22,6 @@ popdialog {
 }
 
 .mon_head schedule {
-    width: calc((100% - 200px) / 5);
     font-size: 14px;
 }
 

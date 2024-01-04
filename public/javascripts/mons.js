@@ -156,6 +156,16 @@ $(function () {
                 {
                     div: {
                         section: function (k) {
+                            var shown = 0
+                            txt.Mon_Head.forEach(function (t, i) {
+                                if (i == 1) {
+                                    if (me.Csxylic && lang == "CH") shown += 1
+                                } else if (i == 4) {
+                                    if (me.Status && me.Status.length) shown += 1
+                                } else {
+                                    shown += 1
+                                }
+                            })
                             txt.Mon_Head.forEach(function (t, i) {
                                 $(k.container).render({
                                     schedule: t[lang],
@@ -193,10 +203,12 @@ $(function () {
                                             return false
                                         }
                                         return true
+                                    },
+                                    style: {
+                                        width: 'calc((100% - ' + (shown * 40) + 'px) / ' + shown + ')'
                                     }
                                 })
                             })
-                            
                         }
                     },
                     class: 'mon_head'
