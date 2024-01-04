@@ -69,8 +69,12 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "BigBoss",
         "Camp": 7,
         "Icon": "MonsterIcon/keq.png",
+        "Csxylic": [
+            "keq"
+        ],
         "New": true
     },
     {
@@ -114,6 +118,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1002011.png"
     },
@@ -158,6 +163,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1002011.png"
     },
@@ -202,6 +208,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1002017.png"
     },
@@ -246,6 +253,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1002017.png"
     },
@@ -296,6 +304,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1002011.png"
     },
@@ -346,6 +355,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1002011.png"
     },
@@ -396,6 +406,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1002011.png"
     },
@@ -446,6 +457,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1002011.png"
     },
@@ -496,6 +508,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1002017.png"
     },
@@ -546,6 +559,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1002017.png"
     },
@@ -596,6 +610,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1002017.png"
     },
@@ -646,6 +661,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1002017.png"
     },
@@ -688,6 +704,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1002020.png",
         "Status": [
@@ -733,6 +750,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1002020.png",
         "Status": [
@@ -778,6 +796,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1002020.png",
         "Status": [
@@ -823,6 +842,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1002020.png",
         "Status": [
@@ -868,6 +888,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1002020.png",
         "Status": [
@@ -916,6 +937,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1002020.png",
         "Status": [
@@ -961,6 +983,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1002020.png",
         "Status": [
@@ -1006,6 +1029,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1002020.png",
         "Status": [
@@ -1051,6 +1075,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1002020.png",
         "Status": [
@@ -1096,6 +1121,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1002020.png",
         "Status": [
@@ -1144,6 +1170,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1002020.png",
         "Status": [
@@ -1189,6 +1216,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1002020.png",
         "Status": [
@@ -1234,6 +1262,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1002020.png",
         "Status": [
@@ -1279,6 +1308,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1002020.png",
         "Status": [
@@ -1327,6 +1357,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1002020.png",
         "Status": [
@@ -1372,6 +1403,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1002020.png",
         "Status": [
@@ -1417,6 +1449,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1002020.png",
         "Status": [
@@ -1465,6 +1498,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1002020.png"
     },
@@ -1513,6 +1547,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1002030.png",
         "Status": [
@@ -1565,6 +1600,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1002030.png",
         "Status": [
@@ -1617,6 +1653,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1002030.png",
         "Status": [
@@ -1669,6 +1706,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1002030.png",
         "Status": [
@@ -1724,6 +1762,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1002030.png",
         "Status": [
@@ -1776,6 +1815,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1002030.png",
         "Status": [
@@ -1828,6 +1868,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1002030.png",
         "Status": [
@@ -1883,6 +1924,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1002030.png",
         "Status": [
@@ -1935,6 +1977,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1002030.png",
         "Status": [
@@ -1990,6 +2033,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1002030.png",
         "Status": [
@@ -2045,6 +2089,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1002030.png",
         "Status": [
@@ -2100,6 +2145,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1002030.png",
         "Status": [
@@ -2152,6 +2198,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1002030.png",
         "Status": [
@@ -2197,6 +2244,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
         "Status": [
@@ -2244,6 +2292,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
         "Status": [
@@ -2288,6 +2337,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
         "Status": [
@@ -2332,6 +2382,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
         "Status": [
@@ -2376,6 +2427,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
         "Status": [
@@ -2420,6 +2472,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
         "Status": [
@@ -2464,6 +2517,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
         "Status": [
@@ -2508,6 +2562,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
         "Status": [
@@ -2546,6 +2601,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
         "Status": [
@@ -2587,6 +2643,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
         "Status": [
@@ -2628,6 +2685,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
         "Status": [
@@ -2666,6 +2724,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
         "Status": [
@@ -2713,6 +2772,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
         "Status": [
@@ -2757,6 +2817,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
         "Status": [
@@ -2801,6 +2862,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
         "Status": [
@@ -2848,6 +2910,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
         "Status": [
@@ -2886,6 +2949,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
         "Status": [
@@ -2924,6 +2988,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
         "Status": [
@@ -2968,6 +3033,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
         "Status": [
@@ -3015,6 +3081,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
         "Status": [
@@ -3062,6 +3129,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
         "Status": [
@@ -3100,6 +3168,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
         "Status": [
@@ -3141,6 +3210,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
         "Status": [
@@ -3185,6 +3255,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
         "Status": [
@@ -3229,6 +3300,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1001010.png",
         "Status": [
@@ -3273,6 +3345,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1001010.png",
         "Status": [
@@ -3317,6 +3390,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
         "Status": [
@@ -3361,6 +3435,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
         "Status": [
@@ -3405,6 +3480,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
         "Status": [
@@ -3449,6 +3525,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
         "Status": [
@@ -3493,6 +3570,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
         "Status": [
@@ -3537,6 +3615,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
         "Status": [
@@ -3581,6 +3660,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
         "Status": [
@@ -3619,6 +3699,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
         "Status": [
@@ -3657,6 +3738,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
         "Status": [
@@ -3704,6 +3786,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
         "Status": [
@@ -3748,6 +3831,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
         "Status": [
@@ -3792,6 +3876,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
         "Status": [
@@ -3839,6 +3924,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
         "Status": [
@@ -3886,6 +3972,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
         "Status": [
@@ -3930,6 +4017,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
         "Status": [
@@ -3977,6 +4065,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
         "Status": [
@@ -4024,6 +4113,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
         "Status": [
@@ -4068,6 +4158,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
         "Status": [
@@ -4112,6 +4203,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
         "Status": [
@@ -4159,6 +4251,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1003010.png",
         "Status": [
@@ -4206,6 +4299,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1003010.png",
         "Status": [
@@ -4253,6 +4347,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1003010.png",
         "Status": [
@@ -4300,6 +4395,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1003010.png",
         "Status": [
@@ -4350,6 +4446,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1003010.png",
         "Status": [
@@ -4401,6 +4498,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1003010.png",
         "Status": [
@@ -4451,6 +4549,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1003010.png",
         "Status": [
@@ -4498,6 +4597,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1003010.png",
         "Status": [
@@ -4545,6 +4645,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1003010.png",
         "Status": [
@@ -4596,6 +4697,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1003010.png",
         "Status": [
@@ -4646,6 +4748,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1003010.png",
         "Status": [
@@ -4696,6 +4799,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1003010.png",
         "Status": [
@@ -4746,6 +4850,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1003010.png",
         "Status": [
@@ -4796,6 +4901,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1003010.png",
         "Status": [
@@ -4847,6 +4953,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1003010.png",
         "Status": [
@@ -4897,6 +5004,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1003010.png",
         "Status": [
@@ -4944,6 +5052,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1003010.png",
         "Status": [
@@ -4991,6 +5100,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1003010.png",
         "Status": [
@@ -5041,6 +5151,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1003010.png",
         "Status": [
@@ -5089,6 +5200,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1003010.png",
         "Status": [
@@ -5142,6 +5254,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1003010.png"
     },
@@ -5191,6 +5304,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1003010.png",
         "Status": [
@@ -5249,6 +5363,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1004010.png",
         "Status": [
@@ -5311,6 +5426,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1004010.png",
         "Status": [
@@ -5373,6 +5489,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1004010.png",
         "Status": [
@@ -5432,6 +5549,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1004010.png",
         "Status": [
@@ -5494,6 +5612,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1004010.png",
         "Status": [
@@ -5571,6 +5690,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1004010.png",
         "Status": [
@@ -5649,6 +5769,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1004010.png",
         "Status": [
@@ -5725,6 +5846,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1004010.png"
     },
@@ -5773,6 +5895,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1003020.png",
         "Status": [
@@ -5828,6 +5951,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1003020.png",
         "Status": [
@@ -5883,6 +6007,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1003020.png",
         "Status": [
@@ -5945,6 +6070,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1003020.png",
         "Status": [
@@ -5997,6 +6123,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1003020.png",
         "Status": [
@@ -6052,6 +6179,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1003020.png",
         "Status": [
@@ -6105,6 +6233,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1003020.png",
         "Status": [
@@ -6191,6 +6320,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1003020.png",
         "Status": [
@@ -6282,6 +6412,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1003020.png",
         "Status": [
@@ -6351,6 +6482,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1003020.png"
     },
@@ -6426,6 +6558,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1003020.png"
     },
@@ -6473,6 +6606,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1004030.png"
     },
@@ -6523,6 +6657,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1004030.png"
     },
@@ -6573,6 +6708,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1004030.png"
     },
@@ -6625,6 +6761,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1004030.png"
     },
@@ -6680,6 +6817,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1004030.png"
     },
@@ -6750,6 +6888,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1004030.png"
     },
@@ -6814,6 +6953,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "BigBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1005010.png",
         "Status": [
@@ -6878,6 +7018,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "BigBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1005010.png",
         "Status": [
@@ -6948,6 +7089,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "BigBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1005010.png",
         "Status": [
@@ -7014,6 +7156,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "BigBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1005010.png"
     },
@@ -7056,6 +7199,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png"
     },
@@ -7098,6 +7242,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png"
     },
@@ -7140,6 +7285,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png"
     },
@@ -7182,6 +7328,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png"
     },
@@ -7224,6 +7371,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png"
     },
@@ -7266,6 +7414,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png"
     },
@@ -7308,6 +7457,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png"
     },
@@ -7350,6 +7500,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png"
     },
@@ -7392,6 +7543,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png"
     },
@@ -7434,6 +7586,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png"
     },
@@ -7479,6 +7632,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png"
     },
@@ -7521,6 +7675,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png"
     },
@@ -7566,6 +7721,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png"
     },
@@ -7611,6 +7767,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png"
     },
@@ -7656,6 +7813,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png"
     },
@@ -7698,6 +7856,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png"
     },
@@ -7740,6 +7899,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png"
     },
@@ -7787,6 +7947,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1012010.png"
     },
@@ -7837,6 +7998,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012020.png"
     },
@@ -7890,6 +8052,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012020.png"
     },
@@ -7943,6 +8106,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012020.png"
     },
@@ -7993,6 +8157,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012020.png"
     },
@@ -8042,6 +8207,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1012020.png"
     },
@@ -8091,6 +8257,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1012020.png"
     },
@@ -8140,6 +8307,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1012020.png"
     },
@@ -8189,6 +8357,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1012020.png"
     },
@@ -8242,6 +8411,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1012020.png"
     },
@@ -8291,6 +8461,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1012020.png"
     },
@@ -8340,6 +8511,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1012020.png"
     },
@@ -8393,6 +8565,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1012020.png"
     },
@@ -8442,6 +8615,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1012020.png"
     },
@@ -8491,6 +8665,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1012020.png"
     },
@@ -8540,6 +8715,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1012020.png"
     },
@@ -8589,6 +8765,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1012020.png"
     },
@@ -8630,6 +8807,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012030.png"
     },
@@ -8678,6 +8856,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012030.png"
     },
@@ -8726,6 +8905,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012030.png"
     },
@@ -8770,6 +8950,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012030.png"
     },
@@ -8811,6 +8992,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012030.png"
     },
@@ -8852,6 +9034,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012030.png"
     },
@@ -8893,6 +9076,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012030.png"
     },
@@ -8934,6 +9118,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012030.png"
     },
@@ -8975,6 +9160,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012030.png"
     },
@@ -9016,6 +9202,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012030.png"
     },
@@ -9057,6 +9244,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012030.png"
     },
@@ -9098,6 +9286,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012030.png"
     },
@@ -9139,6 +9328,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012030.png"
     },
@@ -9180,6 +9370,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012030.png"
     },
@@ -9221,6 +9412,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012030.png"
     },
@@ -9262,6 +9454,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012030.png"
     },
@@ -9317,6 +9510,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1004021.png",
         "Status": [
@@ -9379,6 +9573,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1004021.png",
         "Status": [
@@ -9441,6 +9636,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1004021.png",
         "Status": [
@@ -9497,6 +9693,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013010.png",
         "Status": [
@@ -9561,6 +9758,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013010.png",
         "Status": [
@@ -9618,6 +9816,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013010.png",
         "Status": [
@@ -9672,6 +9871,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013010.png",
         "Status": [
@@ -9736,6 +9936,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013010.png",
         "Status": [
@@ -9790,6 +9991,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013010.png",
         "Status": [
@@ -9844,6 +10046,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013010.png",
         "Status": [
@@ -9898,6 +10101,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013010.png",
         "Status": [
@@ -9952,6 +10156,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013010.png",
         "Status": [
@@ -10009,6 +10214,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013010.png",
         "Status": [
@@ -10066,6 +10272,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013010.png",
         "Status": [
@@ -10120,6 +10327,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013010.png",
         "Status": [
@@ -10174,6 +10382,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013010.png",
         "Status": [
@@ -10231,6 +10440,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013010.png",
         "Status": [
@@ -10285,6 +10495,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013010.png",
         "Status": [
@@ -10342,6 +10553,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013010.png",
         "Status": [
@@ -10399,6 +10611,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013010.png",
         "Status": [
@@ -10456,6 +10669,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013010.png",
         "Status": [
@@ -10510,6 +10724,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013010.png",
         "Status": [
@@ -10567,6 +10782,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013010.png",
         "Status": [
@@ -10621,6 +10837,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1013010.png",
         "Status": [
@@ -10703,6 +10920,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1013010.png",
         "Status": [
@@ -10777,6 +10995,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1013010.png",
         "Status": [
@@ -10861,6 +11080,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1013010.png"
     },
@@ -10905,6 +11125,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013020.png",
         "Status": [
@@ -10956,6 +11177,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013020.png",
         "Status": [
@@ -11008,6 +11230,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013020.png",
         "Status": [
@@ -11060,6 +11283,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013020.png",
         "Status": [
@@ -11108,6 +11332,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013020.png",
         "Status": [
@@ -11156,6 +11381,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013020.png",
         "Status": [
@@ -11207,6 +11433,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013020.png",
         "Status": [
@@ -11259,6 +11486,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013020.png",
         "Status": [
@@ -11310,6 +11538,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013020.png",
         "Status": [
@@ -11368,6 +11597,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013020.png",
         "Status": [
@@ -11416,6 +11646,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013020.png",
         "Status": [
@@ -11464,6 +11695,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013020.png",
         "Status": [
@@ -11512,6 +11744,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013020.png",
         "Status": [
@@ -11560,6 +11793,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013020.png",
         "Status": [
@@ -11608,6 +11842,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013020.png",
         "Status": [
@@ -11660,6 +11895,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013020.png",
         "Status": [
@@ -11712,6 +11948,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013020.png",
         "Status": [
@@ -11763,6 +12000,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013020.png",
         "Status": [
@@ -11814,6 +12052,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013020.png",
         "Status": [
@@ -11862,6 +12101,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013020.png",
         "Status": [
@@ -11910,6 +12150,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1013020.png",
         "Status": [
@@ -11964,6 +12205,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1013020.png",
         "Status": [
@@ -12041,6 +12283,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1013020.png",
         "Status": [
@@ -12113,6 +12356,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1013020.png",
         "Status": [
@@ -12193,6 +12437,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1013020.png"
     },
@@ -12252,6 +12497,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1004020.png",
         "Status": [
@@ -12316,6 +12562,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1004020.png",
         "Status": [
@@ -12383,6 +12630,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1004020.png",
         "Status": [
@@ -12447,6 +12695,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1004020.png",
         "Status": [
@@ -12511,6 +12760,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1004020.png",
         "Status": [
@@ -12578,6 +12828,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1004020.png",
         "Status": [
@@ -12645,6 +12896,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1004020.png",
         "Status": [
@@ -12709,6 +12961,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1004020.png",
         "Status": [
@@ -12773,6 +13026,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1004020.png",
         "Status": [
@@ -12837,6 +13091,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1004020.png",
         "Status": [
@@ -12923,6 +13178,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1004020.png",
         "Status": [
@@ -13010,6 +13266,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1004020.png",
         "Status": [
@@ -13059,6 +13316,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002400.png"
     },
@@ -13103,6 +13361,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002400.png"
     },
@@ -13147,6 +13406,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002400.png"
     },
@@ -13194,6 +13454,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002400.png"
     },
@@ -13238,6 +13499,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002400.png"
     },
@@ -13282,6 +13544,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002400.png"
     },
@@ -13329,6 +13592,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002400.png"
     },
@@ -13373,6 +13637,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002400.png"
     },
@@ -13417,6 +13682,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002400.png"
     },
@@ -13461,6 +13727,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002400.png"
     },
@@ -13505,6 +13772,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002400.png"
     },
@@ -13549,6 +13817,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002400.png"
     },
@@ -13593,6 +13862,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002400.png"
     },
@@ -13637,6 +13907,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
         "Status": [
@@ -13684,6 +13955,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
         "Status": [
@@ -13731,6 +14003,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
         "Status": [
@@ -13781,6 +14054,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
         "Status": [
@@ -13828,6 +14102,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
         "Status": [
@@ -13875,6 +14150,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
         "Status": [
@@ -13922,6 +14198,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
         "Status": [
@@ -13972,6 +14249,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
         "Status": [
@@ -14019,6 +14297,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
         "Status": [
@@ -14066,6 +14345,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
         "Status": [
@@ -14113,6 +14393,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
         "Status": [
@@ -14160,6 +14441,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
         "Status": [
@@ -14207,6 +14489,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
         "Status": [
@@ -14254,6 +14537,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
         "Status": [
@@ -14301,6 +14585,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
         "Status": [
@@ -14348,6 +14633,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
         "Status": [
@@ -14395,6 +14681,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
         "Status": [
@@ -14442,6 +14729,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
         "Status": [
@@ -14489,6 +14777,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
         "Status": [
@@ -14536,6 +14825,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
         "Status": [
@@ -14583,6 +14873,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
         "Status": [
@@ -14630,6 +14921,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
         "Status": [
@@ -14677,6 +14969,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
         "Status": [
@@ -14724,6 +15017,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
         "Status": [
@@ -14775,6 +15069,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_1023010.png",
         "Status": [
@@ -14832,6 +15127,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_1023010.png",
         "Status": [
@@ -14889,6 +15185,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_1023010.png",
         "Status": [
@@ -14942,6 +15239,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_1023010.png",
         "Status": [
@@ -14995,6 +15293,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_1023010.png",
         "Status": [
@@ -15052,6 +15351,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_1023010.png",
         "Status": [
@@ -15109,6 +15409,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_1023010.png",
         "Status": [
@@ -15166,6 +15467,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_1023010.png",
         "Status": [
@@ -15219,6 +15521,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_1023010.png",
         "Status": [
@@ -15272,6 +15575,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_1023010.png",
         "Status": [
@@ -15328,6 +15632,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_1023010.png",
         "Status": [
@@ -15381,6 +15686,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_1023010.png",
         "Status": [
@@ -15434,6 +15740,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_1023010.png",
         "Status": [
@@ -15490,6 +15797,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_1023010.png",
         "Status": [
@@ -15546,6 +15854,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_1023010.png",
         "Status": [
@@ -15601,6 +15910,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1023010.png",
         "Status": [
@@ -15661,6 +15971,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_1023020.png",
         "Status": [
@@ -15722,6 +16033,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_1023020.png",
         "Status": [
@@ -15783,6 +16095,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_1023020.png",
         "Status": [
@@ -15847,6 +16160,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_1023020.png",
         "Status": [
@@ -15912,6 +16226,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_1023020.png",
         "Status": [
@@ -15975,6 +16290,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1023020.png",
         "Status": [
@@ -16029,6 +16345,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2002010.png",
         "Status": [
@@ -16081,6 +16398,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2002010.png",
         "Status": [
@@ -16136,6 +16454,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2002010.png",
         "Status": [
@@ -16188,6 +16507,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2002010.png",
         "Status": [
@@ -16243,6 +16563,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2002010.png",
         "Status": [
@@ -16295,6 +16616,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2002010.png",
         "Status": [
@@ -16350,6 +16672,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2002010.png",
         "Status": [
@@ -16397,6 +16720,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2002020.png"
     },
@@ -16441,6 +16765,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2002020.png"
     },
@@ -16485,6 +16810,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2002020.png"
     },
@@ -16532,6 +16858,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2002020.png"
     },
@@ -16576,6 +16903,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2002020.png"
     },
@@ -16620,6 +16948,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2002020.png"
     },
@@ -16664,6 +16993,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2002020.png"
     },
@@ -16711,6 +17041,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2002020.png"
     },
@@ -16752,6 +17083,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2002030.png",
         "Status": [
@@ -16797,6 +17129,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2002030.png",
         "Status": [
@@ -16842,6 +17175,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2002030.png",
         "Status": [
@@ -16887,6 +17221,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2002030.png",
         "Status": [
@@ -16932,6 +17267,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2002030.png",
         "Status": [
@@ -16977,6 +17313,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2002030.png"
     },
@@ -17018,6 +17355,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2002030.png",
         "Status": [
@@ -17063,6 +17401,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2002030.png",
         "Status": [
@@ -17116,6 +17455,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 5,
         "Icon": "MonsterIcon/Monster_2004010.png",
         "Status": [
@@ -17172,6 +17512,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 5,
         "Icon": "MonsterIcon/Monster_2004010.png",
         "Status": [
@@ -17225,6 +17566,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 5,
         "Icon": "MonsterIcon/Monster_2004010.png",
         "Status": [
@@ -17278,6 +17620,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 5,
         "Icon": "MonsterIcon/Monster_2004010.png",
         "Status": [
@@ -17331,6 +17674,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 5,
         "Icon": "MonsterIcon/Monster_2004010.png",
         "Status": [
@@ -17410,6 +17754,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2004010.png",
         "Status": [
@@ -17491,6 +17836,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2004010.png",
         "Status": [
@@ -17571,6 +17917,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2004010.png"
     },
@@ -17628,6 +17975,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2004020.png",
         "Status": [
@@ -17693,6 +18041,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2004020.png",
         "Status": [
@@ -17754,6 +18103,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2004020.png",
         "Status": [
@@ -17815,6 +18165,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2004020.png",
         "Status": [
@@ -17876,6 +18227,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2004020.png",
         "Status": [
@@ -17937,6 +18289,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2004020.png",
         "Status": [
@@ -17998,6 +18351,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2004020.png",
         "Status": [
@@ -18083,6 +18437,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2004020.png",
         "Status": [
@@ -18170,6 +18525,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2004020.png"
     },
@@ -18236,6 +18592,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2004020.png"
     },
@@ -18277,6 +18634,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2011010.png",
         "Status": [
@@ -18325,6 +18683,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2011010.png",
         "Status": [
@@ -18372,6 +18731,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2011010.png",
         "Status": [
@@ -18416,6 +18776,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2011010.png",
         "Status": [
@@ -18460,6 +18821,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2011020.png",
         "Status": [
@@ -18508,6 +18870,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2011020.png",
         "Status": [
@@ -18555,6 +18918,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2011020.png",
         "Status": [
@@ -18599,6 +18963,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2011020.png",
         "Status": [
@@ -18644,6 +19009,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2012010.png",
         "Status": [
@@ -18689,6 +19055,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2012010.png",
         "Status": [
@@ -18737,6 +19104,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2012010.png",
         "Status": [
@@ -18782,6 +19150,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2012010.png",
         "Status": [
@@ -18827,6 +19196,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2012010.png",
         "Status": [
@@ -18872,6 +19242,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2012010.png",
         "Status": [
@@ -18920,6 +19291,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2012010.png",
         "Status": [
@@ -18968,6 +19340,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2012010.png",
         "Status": [
@@ -19015,6 +19388,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2013010.png",
         "Status": [
@@ -19063,6 +19437,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2013010.png",
         "Status": [
@@ -19111,6 +19486,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2013010.png",
         "Status": [
@@ -19162,6 +19538,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2013010.png",
         "Status": [
@@ -19210,6 +19587,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2013010.png",
         "Status": [
@@ -19258,6 +19636,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2013010.png",
         "Status": [
@@ -19309,6 +19688,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2013010.png",
         "Status": [
@@ -19357,6 +19737,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2013010.png",
         "Status": [
@@ -19410,6 +19791,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2013010.png",
         "Status": [
@@ -19460,6 +19842,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2013010.png",
         "Status": [
@@ -19515,6 +19898,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2013020.png",
         "Status": [
@@ -19570,6 +19954,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2013020.png",
         "Status": [
@@ -19625,6 +20010,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2013020.png",
         "Status": [
@@ -19680,6 +20066,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2013020.png",
         "Status": [
@@ -19735,6 +20122,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2013020.png",
         "Status": [
@@ -19792,6 +20180,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2013020.png",
         "Status": [
@@ -19844,6 +20233,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022010.png",
         "Status": [
@@ -19897,6 +20287,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022010.png",
         "Status": [
@@ -19953,6 +20344,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022010.png",
         "Status": [
@@ -20006,6 +20398,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022010.png",
         "Status": [
@@ -20059,6 +20452,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022010.png",
         "Status": [
@@ -20112,6 +20506,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022010.png",
         "Status": [
@@ -20165,6 +20560,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022010.png",
         "Status": [
@@ -20218,6 +20614,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022010.png",
         "Status": [
@@ -20271,6 +20668,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022010.png",
         "Status": [
@@ -20324,6 +20722,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022010.png",
         "Status": [
@@ -20377,6 +20776,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022010.png",
         "Status": [
@@ -20425,6 +20825,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022020.png",
         "Status": [
@@ -20472,6 +20873,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022020.png",
         "Status": [
@@ -20519,6 +20921,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022020.png",
         "Status": [
@@ -20570,6 +20973,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022020.png",
         "Status": [
@@ -20617,6 +21021,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022020.png",
         "Status": [
@@ -20664,6 +21069,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022020.png",
         "Status": [
@@ -20711,6 +21117,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022020.png",
         "Status": [
@@ -20758,6 +21165,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022020.png",
         "Status": [
@@ -20805,6 +21213,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022020.png",
         "Status": [
@@ -20852,6 +21261,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022020.png",
         "Status": [
@@ -20898,6 +21308,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022040.png"
     },
@@ -20940,6 +21351,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022040.png"
     },
@@ -20982,6 +21394,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022040.png"
     },
@@ -21024,6 +21437,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022040.png"
     },
@@ -21066,6 +21480,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022040.png"
     },
@@ -21108,6 +21523,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022040.png"
     },
@@ -21156,6 +21572,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022050.png",
         "Status": [
@@ -21207,6 +21624,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022050.png",
         "Status": [
@@ -21258,6 +21676,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022050.png",
         "Status": [
@@ -21309,6 +21728,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022050.png",
         "Status": [
@@ -21360,6 +21780,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022050.png",
         "Status": [
@@ -21404,6 +21825,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2022051.png",
         "Status": [
@@ -21448,6 +21870,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022060.png"
     },
@@ -21489,6 +21912,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022060.png"
     },
@@ -21530,6 +21954,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022060.png"
     },
@@ -21571,6 +21996,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022060.png"
     },
@@ -21612,6 +22038,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2022070.png",
         "Status": [
@@ -21656,6 +22083,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2022070.png",
         "Status": [
@@ -21701,6 +22129,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2022070.png",
         "Status": [
@@ -21748,6 +22177,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2022080.png",
         "Status": [
@@ -21795,6 +22225,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2022080.png",
         "Status": [
@@ -21846,6 +22277,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2022080.png",
         "Status": [
@@ -21892,6 +22324,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2022090.png"
     },
@@ -21933,6 +22366,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2022090.png"
     },
@@ -21974,6 +22408,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2022090.png"
     },
@@ -22016,6 +22451,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2022100.png",
         "Status": [
@@ -22061,6 +22497,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2022100.png",
         "Status": [
@@ -22106,6 +22543,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2022100.png",
         "Status": [
@@ -22152,6 +22590,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022110.png",
         "Status": [
@@ -22198,6 +22637,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022110.png",
         "Status": [
@@ -22244,6 +22684,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022110.png",
         "Status": [
@@ -22290,6 +22731,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022110.png",
         "Status": [
@@ -22338,6 +22780,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2023010.png",
         "Status": [
@@ -22390,6 +22833,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2023010.png",
         "Status": [
@@ -22442,6 +22886,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2023010.png",
         "Status": [
@@ -22491,6 +22936,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2023010.png",
         "Status": [
@@ -22543,6 +22989,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2023010.png",
         "Status": [
@@ -22595,6 +23042,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2023010.png",
         "Status": [
@@ -22647,6 +23095,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2023010.png",
         "Status": [
@@ -22696,6 +23145,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2023010.png",
         "Status": [
@@ -22745,6 +23195,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2023010.png",
         "Status": [
@@ -22794,6 +23245,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2023010.png",
         "Status": [
@@ -22843,6 +23295,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2023010.png",
         "Status": [
@@ -22892,6 +23345,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2023010.png",
         "Status": [
@@ -22941,6 +23395,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2023010.png",
         "Status": [
@@ -22996,6 +23451,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2023010.png",
         "Status": [
@@ -23051,6 +23507,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2023020.png",
         "Status": [
@@ -23110,6 +23567,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2023020.png",
         "Status": [
@@ -23166,6 +23624,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2023020.png",
         "Status": [
@@ -23222,6 +23681,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2023020.png",
         "Status": [
@@ -23278,6 +23738,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2023020.png",
         "Status": [
@@ -23334,6 +23795,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2023020.png",
         "Status": [
@@ -23390,6 +23852,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2023020.png",
         "Status": [
@@ -23445,6 +23908,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2023020.png",
         "Status": [
@@ -23494,6 +23958,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2023030.png",
         "Status": [
@@ -23544,6 +24009,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2023030.png",
         "Status": [
@@ -23597,6 +24063,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2023030.png",
         "Status": [
@@ -23647,6 +24114,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2023030.png",
         "Status": [
@@ -23697,6 +24165,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2023030.png",
         "Status": [
@@ -23747,6 +24216,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2023030.png",
         "Status": [
@@ -23797,6 +24267,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2023030.png",
         "Status": [
@@ -23847,6 +24318,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2023030.png",
         "Status": [
@@ -23897,6 +24369,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2023030.png",
         "Status": [
@@ -23969,6 +24442,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2024010.png",
         "Status": [
@@ -24041,6 +24515,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2024010.png",
         "Status": [
@@ -24113,6 +24588,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2024010.png",
         "Status": [
@@ -24197,6 +24673,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2024010.png",
         "Status": [
@@ -24283,6 +24760,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2024010.png",
         "Status": [
@@ -24365,6 +24843,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2024010.png"
     },
@@ -24423,6 +24902,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2024010.png"
     },
@@ -24460,6 +24940,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2024020.png"
     },
@@ -24500,6 +24981,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2024020.png"
     },
@@ -24537,6 +25019,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2024020.png"
     },
@@ -24574,6 +25057,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2024020.png"
     },
@@ -24611,6 +25095,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2024020.png"
     },
@@ -24652,6 +25137,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 10,
         "Icon": "MonsterIcon/Monster_3001010.png",
         "Status": [
@@ -24697,6 +25183,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 10,
         "Icon": "MonsterIcon/Monster_3001010.png",
         "Status": [
@@ -24741,6 +25228,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 10,
         "Icon": "MonsterIcon/Monster_3001020.png",
         "New": true
@@ -24783,6 +25271,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 10,
         "Icon": "MonsterIcon/Monster_3001020.png"
     },
@@ -24827,6 +25316,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 10,
         "Icon": "MonsterIcon/Monster_3002010.png",
         "Status": [
@@ -24882,6 +25372,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 10,
         "Icon": "MonsterIcon/Monster_3002010.png",
         "Status": [
@@ -24936,6 +25427,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 10,
         "Icon": "MonsterIcon/Monster_3002010.png",
         "Status": [
@@ -24984,6 +25476,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 10,
         "Icon": "MonsterIcon/Monster_3002010.png",
         "Status": [
@@ -25031,6 +25524,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 10,
         "Icon": "MonsterIcon/Monster_3002030.png",
         "Status": [
@@ -25078,6 +25572,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 10,
         "Icon": "MonsterIcon/Monster_3002030.png",
         "Status": [
@@ -25124,6 +25619,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 10,
         "Icon": "MonsterIcon/Monster_3002030.png",
         "Status": [
@@ -25161,6 +25657,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 7,
         "Icon": "MonsterIcon/Monster_3002050.png",
         "New": true
@@ -25199,6 +25696,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 7,
         "Icon": "MonsterIcon/Monster_3002050.png"
     },
@@ -25233,6 +25731,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 7,
         "Icon": "MonsterIcon/Monster_3002050.png",
         "New": true
@@ -25276,6 +25775,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2022040.png"
     },
@@ -25323,6 +25823,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 10,
         "Icon": "MonsterIcon/Monster_3003010.png",
         "Status": [
@@ -25370,6 +25871,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 10,
         "Icon": "MonsterIcon/Monster_3003010.png",
         "Status": [
@@ -25417,6 +25919,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 10,
         "Icon": "MonsterIcon/Monster_3003010.png",
         "Status": [
@@ -25465,6 +25968,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 10,
         "Icon": "MonsterIcon/Monster_3003020.png",
         "New": true
@@ -25510,6 +26014,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 10,
         "Icon": "MonsterIcon/Monster_3003020.png"
     },
@@ -25562,6 +26067,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 10,
         "Icon": "MonsterIcon/Monster_3003020.png",
         "New": true
@@ -25604,6 +26110,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 11,
         "Icon": "MonsterIcon/Monster_3011010.png",
         "New": true
@@ -25647,6 +26154,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 11,
         "Icon": "MonsterIcon/Monster_3012020.png",
         "Status": [
@@ -25703,6 +26211,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_3012030.png",
         "New": true
@@ -25756,6 +26265,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_3012030.png",
         "New": true
@@ -25825,6 +26335,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 11,
         "Icon": "MonsterIcon/Monster_3014020.png",
         "Status": [
@@ -25900,6 +26411,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 11,
         "Icon": "MonsterIcon/Monster_3014020.png",
         "Status": [
@@ -25974,6 +26486,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 11,
         "Icon": "MonsterIcon/Monster_3014020.png",
         "Status": [
@@ -26048,6 +26561,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 11,
         "Icon": "MonsterIcon/Monster_3014020.png",
         "Status": [
@@ -26122,6 +26636,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 11,
         "Icon": "MonsterIcon/Monster_3014020.png",
         "Status": [
@@ -26171,6 +26686,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_3021020.png",
         "Status": [
@@ -26216,6 +26732,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_3021020.png"
     },
@@ -26258,6 +26775,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_3021030.png"
     },
@@ -26300,6 +26818,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_3021030.png"
     },
@@ -26342,6 +26861,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_3021040.png",
         "Status": [
@@ -26387,6 +26907,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_3021040.png"
     },
@@ -26452,6 +26973,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 7,
         "Icon": "MonsterIcon/Monster_3024010.png",
         "Status": [
@@ -26520,6 +27042,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 7,
         "Icon": "MonsterIcon/Monster_3024010.png",
         "Status": [
@@ -26588,6 +27111,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 7,
         "Icon": "MonsterIcon/Monster_3024010.png",
         "Status": [
@@ -26656,6 +27180,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 7,
         "Icon": "MonsterIcon/Monster_3024010.png",
         "Status": [
@@ -26735,6 +27260,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_3024010.png"
     },
@@ -26789,6 +27315,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_3024010.png"
     },
@@ -26839,6 +27366,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 5,
         "Icon": "MonsterIcon/Monster_3024020.png",
         "Status": [
@@ -26895,6 +27423,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 5,
         "Icon": "MonsterIcon/Monster_3024020.png"
     },
@@ -26945,6 +27474,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_3024020.png",
         "Status": [
@@ -26994,6 +27524,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2011010.png"
     },
@@ -27035,6 +27566,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8012010.png"
     },
@@ -27077,6 +27609,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8012030.png"
     },
@@ -27118,6 +27651,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -27160,6 +27694,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2022050.png"
     },
@@ -27200,6 +27735,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2022051.png"
     },
@@ -27241,6 +27777,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1002020.png"
     },
@@ -27282,6 +27819,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_9002410.png"
     },
@@ -27326,6 +27864,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_9002410.png"
     },
@@ -27370,6 +27909,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_9002410.png"
     },
@@ -27415,6 +27955,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1012010.png"
     },
@@ -27460,6 +28001,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2012010.png"
     },
@@ -27505,6 +28047,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2012010.png"
     },
@@ -27547,6 +28090,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1002030.png"
     },
@@ -27588,6 +28132,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8002010.png"
     },
@@ -27632,6 +28177,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8002010.png"
     },
@@ -27676,6 +28222,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8002010.png"
     },
@@ -27717,6 +28264,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1001020.png"
     },
@@ -27759,6 +28307,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1001010.png"
     },
@@ -27804,6 +28353,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1001010.png"
     },
@@ -27846,6 +28396,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1012020.png"
     },
@@ -27888,6 +28439,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1012020.png"
     },
@@ -27930,6 +28482,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8032010.png"
     },
@@ -27972,6 +28525,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8032020.png"
     },
@@ -28013,6 +28567,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_9002400.png"
     },
@@ -28063,6 +28618,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8003020.png"
     },
@@ -28107,6 +28663,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2013010.png"
     },
@@ -28150,6 +28707,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1003010.png"
     },
@@ -28195,6 +28753,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8013010.png"
     },
@@ -28239,6 +28798,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8003040.png"
     },
@@ -28281,6 +28841,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1023020.png"
     },
@@ -28324,6 +28885,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1013020.png"
     },
@@ -28373,6 +28935,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1023010.png"
     },
@@ -28417,6 +28980,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1013010.png"
     },
@@ -28463,6 +29027,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8033010.png"
     },
@@ -28507,6 +29072,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png"
     },
@@ -28551,6 +29117,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png"
     },
@@ -28598,6 +29165,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png"
     },
@@ -28642,6 +29210,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png"
     },
@@ -28689,6 +29258,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png"
     },
@@ -28736,6 +29306,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png"
     },
@@ -28783,6 +29354,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png"
     },
@@ -28830,6 +29402,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png"
     },
@@ -28874,6 +29447,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png"
     },
@@ -28918,6 +29492,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png"
     },
@@ -28962,6 +29537,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png"
     },
@@ -29006,6 +29582,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png"
     },
@@ -29050,6 +29627,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png"
     },
@@ -29094,6 +29672,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png"
     },
@@ -29141,6 +29720,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png"
     },
@@ -29185,6 +29765,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png"
     },
@@ -29229,6 +29810,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png"
     },
@@ -29273,6 +29855,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png"
     },
@@ -29317,6 +29900,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png"
     },
@@ -29364,6 +29948,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png"
     },
@@ -29411,6 +29996,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png"
     },
@@ -29455,6 +30041,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png"
     },
@@ -29502,6 +30089,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png"
     },
@@ -29549,6 +30137,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png"
     },
@@ -29593,6 +30182,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png"
     },
@@ -29640,6 +30230,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png"
     },
@@ -29687,6 +30278,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png"
     },
@@ -29731,6 +30323,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png"
     },
@@ -29775,6 +30368,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png"
     },
@@ -29822,6 +30416,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png"
     },
@@ -29866,6 +30461,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png"
     },
@@ -29910,6 +30506,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png"
     },
@@ -29954,6 +30551,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png"
     },
@@ -29998,6 +30596,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png"
     },
@@ -30041,6 +30640,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8001030.png",
         "Status": [
@@ -30090,6 +30690,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8001030.png",
         "Status": [
@@ -30139,6 +30740,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8001030.png",
         "Status": [
@@ -30185,6 +30787,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8001030.png",
         "Status": [
@@ -30231,6 +30834,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8001030.png",
         "Status": [
@@ -30278,6 +30882,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8001040.png",
         "Status": [
@@ -30328,6 +30933,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8001040.png",
         "Status": [
@@ -30378,6 +30984,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8001040.png",
         "Status": [
@@ -30425,6 +31032,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8001040.png",
         "Status": [
@@ -30472,6 +31080,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8001050.png",
         "Status": [
@@ -30522,6 +31131,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8001050.png",
         "Status": [
@@ -30572,6 +31182,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8001050.png",
         "Status": [
@@ -30619,6 +31230,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8001050.png",
         "Status": [
@@ -30666,6 +31278,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8001050.png",
         "Status": [
@@ -30718,6 +31331,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8002010.png",
         "Status": [
@@ -30770,6 +31384,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8002010.png",
         "Status": [
@@ -30822,6 +31437,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8002010.png",
         "Status": [
@@ -30876,6 +31492,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8002010.png",
         "Status": [
@@ -30930,6 +31547,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8002010.png",
         "Status": [
@@ -30985,6 +31603,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8002010.png",
         "Status": [
@@ -31037,6 +31656,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8002010.png",
         "Status": [
@@ -31089,6 +31709,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8002010.png",
         "Status": [
@@ -31141,6 +31762,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8002010.png",
         "Status": [
@@ -31196,6 +31818,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8002010.png",
         "Status": [
@@ -31248,6 +31871,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8002010.png",
         "Status": [
@@ -31294,6 +31918,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 7,
         "Icon": "MonsterIcon/Monster_8002040.png"
     },
@@ -31340,6 +31965,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 7,
         "Icon": "MonsterIcon/Monster_8002040.png"
     },
@@ -31386,6 +32012,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 7,
         "Icon": "MonsterIcon/Monster_8002040.png"
     },
@@ -31429,6 +32056,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 7,
         "Icon": "MonsterIcon/Monster_8002040.png"
     },
@@ -31472,6 +32100,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 7,
         "Icon": "MonsterIcon/Monster_8002040.png"
     },
@@ -31516,6 +32145,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8002040.png"
     },
@@ -31559,6 +32189,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -31605,6 +32236,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -31652,6 +32284,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -31698,6 +32331,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -31744,6 +32378,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -31790,6 +32425,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -31836,6 +32472,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -31882,6 +32519,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -31928,6 +32566,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -31974,6 +32613,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -32020,6 +32660,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -32066,6 +32707,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -32112,6 +32754,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -32158,6 +32801,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -32204,6 +32848,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -32250,6 +32895,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -32296,6 +32942,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -32342,6 +32989,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -32388,6 +33036,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -32434,6 +33083,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -32480,6 +33130,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -32526,6 +33177,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -32572,6 +33224,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -32618,6 +33271,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -32664,6 +33318,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -32710,6 +33365,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -32756,6 +33412,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -32802,6 +33459,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -32845,6 +33503,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -32888,6 +33547,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -32931,6 +33591,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -32974,6 +33635,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -33017,6 +33679,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -33060,6 +33723,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -33103,6 +33767,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -33146,6 +33811,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -33189,6 +33855,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -33233,6 +33900,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8002050.png",
         "Status": [
@@ -33280,6 +33948,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -33324,6 +33993,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8002050.png",
         "Status": [
@@ -33371,6 +34041,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -33415,6 +34086,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8002050.png",
         "Status": [
@@ -33465,6 +34137,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8002050.png",
         "Status": [
@@ -33515,6 +34188,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8002050.png",
         "Status": [
@@ -33562,6 +34236,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -33605,6 +34280,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -33648,6 +34324,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -33691,6 +34368,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -33734,6 +34412,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -33777,6 +34456,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png"
     },
@@ -33829,6 +34509,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003010.png",
         "Status": [
@@ -33888,6 +34569,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003010.png",
         "Status": [
@@ -33946,6 +34628,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003010.png",
         "Status": [
@@ -34002,6 +34685,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003010.png",
         "Status": [
@@ -34058,6 +34742,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003010.png",
         "Status": [
@@ -34114,6 +34799,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003010.png",
         "Status": [
@@ -34173,6 +34859,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003010.png",
         "Status": [
@@ -34232,6 +34919,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003010.png",
         "Status": [
@@ -34292,6 +34980,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003010.png",
         "Status": [
@@ -34351,6 +35040,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003010.png",
         "Status": [
@@ -34410,6 +35100,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003010.png",
         "Status": [
@@ -34470,6 +35161,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003010.png",
         "Status": [
@@ -34530,6 +35222,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003010.png",
         "Status": [
@@ -34589,6 +35282,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003010.png",
         "Status": [
@@ -34647,6 +35341,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8003010.png",
         "Status": [
@@ -34698,6 +35393,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003020.png",
         "Status": [
@@ -34752,6 +35448,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003020.png",
         "Status": [
@@ -34806,6 +35503,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003020.png",
         "Status": [
@@ -34857,6 +35555,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003020.png",
         "Status": [
@@ -34908,6 +35607,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003020.png",
         "Status": [
@@ -34959,6 +35659,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003020.png",
         "Status": [
@@ -35010,6 +35711,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003020.png",
         "Status": [
@@ -35064,6 +35766,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003020.png",
         "Status": [
@@ -35115,6 +35818,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003020.png",
         "Status": [
@@ -35169,6 +35873,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003020.png",
         "Status": [
@@ -35223,6 +35928,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003020.png",
         "Status": [
@@ -35277,6 +35983,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003020.png",
         "Status": [
@@ -35331,6 +36038,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003020.png",
         "Status": [
@@ -35385,6 +36093,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003020.png",
         "Status": [
@@ -35436,6 +36145,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003020.png",
         "Status": [
@@ -35490,6 +36200,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003020.png",
         "Status": [
@@ -35545,6 +36256,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003020.png",
         "Status": [
@@ -35596,6 +36308,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003020.png",
         "Status": [
@@ -35650,6 +36363,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003020.png",
         "Status": [
@@ -35703,6 +36417,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8003020.png",
         "Status": [
@@ -35760,6 +36475,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003030.png",
         "Status": [
@@ -35823,6 +36539,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003030.png",
         "Status": [
@@ -35886,6 +36603,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003030.png",
         "Status": [
@@ -35949,6 +36667,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003030.png",
         "Status": [
@@ -36009,6 +36728,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003030.png",
         "Status": [
@@ -36069,6 +36789,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003030.png",
         "Status": [
@@ -36129,6 +36850,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003030.png",
         "Status": [
@@ -36192,6 +36914,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003030.png",
         "Status": [
@@ -36255,6 +36978,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003030.png",
         "Status": [
@@ -36315,6 +37039,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003030.png",
         "Status": [
@@ -36375,6 +37100,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003030.png",
         "Status": [
@@ -36439,6 +37165,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003030.png",
         "Status": [
@@ -36502,6 +37229,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003030.png",
         "Status": [
@@ -36562,6 +37290,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8003030.png",
         "Status": [
@@ -36620,6 +37349,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003040.png",
         "Status": [
@@ -36679,6 +37409,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003040.png",
         "Status": [
@@ -36738,6 +37469,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003040.png",
         "Status": [
@@ -36797,6 +37529,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003040.png",
         "Status": [
@@ -36853,6 +37586,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003040.png",
         "Status": [
@@ -36912,6 +37646,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003040.png",
         "Status": [
@@ -36971,6 +37706,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003040.png",
         "Status": [
@@ -37030,6 +37766,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003040.png",
         "Status": [
@@ -37089,6 +37826,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003040.png",
         "Status": [
@@ -37149,6 +37887,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003040.png",
         "Status": [
@@ -37207,6 +37946,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8003040.png",
         "Status": [
@@ -37266,6 +38006,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8003040.png",
         "Status": [
@@ -37321,6 +38062,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003050.png",
         "Status": [
@@ -37380,6 +38122,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003050.png",
         "Status": [
@@ -37439,6 +38182,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003050.png",
         "Status": [
@@ -37498,6 +38242,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003050.png",
         "Status": [
@@ -37556,6 +38301,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003050.png",
         "Status": [
@@ -37614,6 +38360,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003050.png",
         "Status": [
@@ -37673,6 +38420,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003050.png",
         "Status": [
@@ -37729,6 +38477,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003050.png",
         "Status": [
@@ -37788,6 +38537,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003050.png",
         "Status": [
@@ -37848,6 +38598,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003050.png",
         "Status": [
@@ -37907,6 +38658,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8003050.png",
         "Status": [
@@ -37967,6 +38719,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8003050.png"
     },
@@ -38008,6 +38761,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011010.png"
     },
@@ -38049,6 +38803,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011010.png"
     },
@@ -38090,6 +38845,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011010.png"
     },
@@ -38131,6 +38887,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011010.png"
     },
@@ -38172,6 +38929,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011010.png"
     },
@@ -38216,6 +38974,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011010.png"
     },
@@ -38257,6 +39016,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011010.png"
     },
@@ -38298,6 +39058,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011010.png"
     },
@@ -38339,6 +39100,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011010.png"
     },
@@ -38380,6 +39142,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011020.png"
     },
@@ -38421,6 +39184,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011020.png"
     },
@@ -38465,6 +39229,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011020.png"
     },
@@ -38506,6 +39271,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011020.png"
     },
@@ -38547,6 +39313,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011020.png"
     },
@@ -38591,6 +39358,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011020.png"
     },
@@ -38632,6 +39400,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011020.png"
     },
@@ -38673,6 +39442,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011020.png"
     },
@@ -38721,6 +39491,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012010.png",
         "Status": [
@@ -38772,6 +39543,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012010.png",
         "Status": [
@@ -38823,6 +39595,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012010.png",
         "Status": [
@@ -38874,6 +39647,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012010.png",
         "Status": [
@@ -38925,6 +39699,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012010.png",
         "Status": [
@@ -38980,6 +39755,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012010.png",
         "Status": [
@@ -39031,6 +39807,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012010.png",
         "Status": [
@@ -39085,6 +39862,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012010.png",
         "Status": [
@@ -39136,6 +39914,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012010.png",
         "Status": [
@@ -39187,6 +39966,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012010.png",
         "Status": [
@@ -39241,6 +40021,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012010.png",
         "Status": [
@@ -39292,6 +40073,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012010.png",
         "Status": [
@@ -39343,6 +40125,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012010.png",
         "Status": [
@@ -39394,6 +40177,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012010.png",
         "Status": [
@@ -39448,6 +40232,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012010.png",
         "Status": [
@@ -39502,6 +40287,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012010.png",
         "Status": [
@@ -39556,6 +40342,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012010.png",
         "Status": [
@@ -39610,6 +40397,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012010.png",
         "Status": [
@@ -39661,6 +40449,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012010.png",
         "Status": [
@@ -39712,6 +40501,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012010.png",
         "Status": [
@@ -39763,6 +40553,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012010.png",
         "Status": [
@@ -39814,6 +40605,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012010.png",
         "Status": [
@@ -39865,6 +40657,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012010.png",
         "Status": [
@@ -39916,6 +40709,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012010.png",
         "Status": [
@@ -39967,6 +40761,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012010.png",
         "Status": [
@@ -40018,6 +40813,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012010.png",
         "Status": [
@@ -40063,6 +40859,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012020.png",
         "Status": [
@@ -40108,6 +40905,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012020.png",
         "Status": [
@@ -40153,6 +40951,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012020.png",
         "Status": [
@@ -40198,6 +40997,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012020.png",
         "Status": [
@@ -40243,6 +41043,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012020.png",
         "Status": [
@@ -40288,6 +41089,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012020.png",
         "Status": [
@@ -40333,6 +41135,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012020.png",
         "Status": [
@@ -40381,6 +41184,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012020.png",
         "Status": [
@@ -40429,6 +41233,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012020.png",
         "Status": [
@@ -40474,6 +41279,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012020.png",
         "Status": [
@@ -40522,6 +41328,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012020.png",
         "Status": [
@@ -40567,6 +41374,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012020.png",
         "Status": [
@@ -40612,6 +41420,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012020.png",
         "Status": [
@@ -40657,6 +41466,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012020.png",
         "Status": [
@@ -40702,6 +41512,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8012020.png",
         "Status": [
@@ -40750,6 +41561,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8012020.png",
         "Status": [
@@ -40798,6 +41610,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8012020.png",
         "Status": [
@@ -40843,6 +41656,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012030.png",
         "Status": [
@@ -40889,6 +41703,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012030.png",
         "Status": [
@@ -40935,6 +41750,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012030.png",
         "Status": [
@@ -40984,6 +41800,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012030.png",
         "Status": [
@@ -41030,6 +41847,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012030.png",
         "Status": [
@@ -41076,6 +41894,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012030.png",
         "Status": [
@@ -41125,6 +41944,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012030.png",
         "Status": [
@@ -41171,6 +41991,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8012030.png",
         "Status": [
@@ -41228,6 +42049,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8012140.png",
         "Status": [
@@ -41283,6 +42105,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8012142.png",
         "Status": [
@@ -41334,6 +42157,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8012140.png"
     },
@@ -41382,6 +42206,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8012142.png"
     },
@@ -41425,6 +42250,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8012200.png",
         "Status": [
@@ -41471,6 +42297,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8012201.png",
         "Status": [
@@ -41517,6 +42344,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8012200.png",
         "Status": [
@@ -41563,6 +42391,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8012201.png",
         "Status": [
@@ -41619,6 +42448,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8012210.png",
         "Status": [
@@ -41679,6 +42509,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8012211.png",
         "Status": [
@@ -41739,6 +42570,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8012210.png",
         "Status": [
@@ -41799,6 +42631,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8012211.png",
         "Status": [
@@ -41851,6 +42684,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8013010.png",
         "Status": [
@@ -41900,6 +42734,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8013010.png",
         "Status": [
@@ -41949,6 +42784,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8013010.png",
         "Status": [
@@ -41998,6 +42834,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8013010.png",
         "Status": [
@@ -42047,6 +42884,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8013010.png",
         "Status": [
@@ -42096,6 +42934,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8013010.png",
         "Status": [
@@ -42145,6 +42984,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8013010.png",
         "Status": [
@@ -42194,6 +43034,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8013010.png",
         "Status": [
@@ -42243,6 +43084,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8013010.png",
         "Status": [
@@ -42292,6 +43134,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8013010.png",
         "Status": [
@@ -42341,6 +43184,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8013010.png",
         "Status": [
@@ -42394,6 +43238,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8013010.png",
         "Status": [
@@ -42446,6 +43291,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8013010.png",
         "Status": [
@@ -42499,6 +43345,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8013010.png",
         "Status": [
@@ -42552,6 +43399,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8013010.png",
         "Status": [
@@ -42604,6 +43452,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8013010.png",
         "Status": [
@@ -42653,6 +43502,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8013010.png",
         "Status": [
@@ -42702,6 +43552,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8013010.png",
         "Status": [
@@ -42754,6 +43605,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8013010.png"
     },
@@ -42815,6 +43667,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8012141.png",
         "Status": [
@@ -42877,6 +43730,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8012141.png",
         "Status": [
@@ -42929,6 +43783,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "BigBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8015010.png",
         "Status": [
@@ -42979,6 +43834,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "BigBoss",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8015010.png",
         "Status": [
@@ -43056,6 +43912,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "BigBoss",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8015020.png",
         "Status": [
@@ -43135,6 +43992,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "BigBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8015020.png",
         "Status": [
@@ -43189,6 +44047,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 8,
         "Icon": "MonsterIcon/Monster_8022010.png",
         "Status": [
@@ -43247,6 +44106,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 8,
         "Icon": "MonsterIcon/Monster_8022020.png",
         "Status": [
@@ -43306,6 +44166,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 8,
         "Icon": "MonsterIcon/Monster_8022020.png",
         "Status": [
@@ -43363,6 +44224,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 8,
         "Icon": "MonsterIcon/Monster_8022020.png",
         "Status": [
@@ -43409,6 +44271,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 8,
         "Icon": "MonsterIcon/Monster_8022030.png"
     },
@@ -43491,6 +44354,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8024010.png",
         "Status": [
@@ -43562,6 +44426,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 8,
         "Icon": "MonsterIcon/Monster_8024010.png",
         "Status": [
@@ -43649,6 +44514,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8024010.png"
     },
@@ -43714,6 +44580,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "BigBoss",
         "Camp": 8,
         "Icon": "MonsterIcon/Monster_8025010.png"
     },
@@ -43779,6 +44646,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "BigBoss",
         "Camp": 8,
         "Icon": "MonsterIcon/Monster_8025010.png"
     },
@@ -43827,6 +44695,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 9,
         "Icon": "MonsterIcon/Monster_8032010.png",
         "Status": [
@@ -43878,6 +44747,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 9,
         "Icon": "MonsterIcon/Monster_8032010.png",
         "Status": [
@@ -43929,6 +44799,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 9,
         "Icon": "MonsterIcon/Monster_8032010.png",
         "Status": [
@@ -43980,6 +44851,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 9,
         "Icon": "MonsterIcon/Monster_8032010.png",
         "Status": [
@@ -44031,6 +44903,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 9,
         "Icon": "MonsterIcon/Monster_8032020.png",
         "Status": [
@@ -44082,6 +44955,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 9,
         "Icon": "MonsterIcon/Monster_8032020.png",
         "Status": [
@@ -44133,6 +45007,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 9,
         "Icon": "MonsterIcon/Monster_8032020.png",
         "Status": [
@@ -44184,6 +45059,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "MinionLv2",
         "Camp": 9,
         "Icon": "MonsterIcon/Monster_8032020.png",
         "Status": [
@@ -44234,6 +45110,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 9,
         "Icon": "MonsterIcon/Monster_8033010.png",
         "Status": [
@@ -44284,6 +45161,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 9,
         "Icon": "MonsterIcon/Monster_8033010.png",
         "Status": [
@@ -44337,6 +45215,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 9,
         "Icon": "MonsterIcon/Monster_8033010.png",
         "Status": [
@@ -44393,6 +45272,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8033010.png",
         "Status": [
@@ -44452,6 +45332,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8033010.png"
     },
@@ -44484,6 +45365,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "Elite",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_9003020.png"
     },
@@ -44519,6 +45401,7 @@ var _monster = [
                 ]
             }
         ],
+        "Rank": "LittleBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8013010.png"
     }
