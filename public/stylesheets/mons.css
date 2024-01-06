@@ -243,7 +243,7 @@ input[type=number] {
 .base_stat_table {
     padding-left: 10px;
     border-left: none;
-    max-width: 200px;
+    min-width: 200px;
 }
 
 .base_stat_input div {
