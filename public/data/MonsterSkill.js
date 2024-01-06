@@ -18039,8 +18039,8 @@ var _monsterskill = {
             "EN": "Starward Sword"
         },
         "Desc": {
-            "CH": "场上存在<color style='color:#f29e38;'>0</color>/<color style='color:#f29e38;'>1</color>/<color style='color:#f29e38;'>2</color>/<color style='color:#f29e38;'>3</color>/<color style='color:#f29e38;'>4</color>枚<color style='color:#f29e38;'>【雷楔】</color>时，对我方全体造成<1>/<2>/<3>/<4>/<5>雷属性伤害。<br>若释放时场上没有雷楔，则自动被韧性击破，且行动额外延后<color style='color:#f29e38;'>50%</color>，击破期间受到的伤害提升<color style='color:#f29e38;'>150%</color>。<br>释放结束后，清除所有【雷楔】。",
-            "EN": "When there are <color style='color:#f29e38;'>0</color>/<color style='color:#f29e38;'>1</color>/<color style='color:#f29e38;'>2</color>/<color style='color:#f29e38;'>3</color>/<color style='color:#f29e38;'>4 Lightning Stilettos on the field, deals <1>/<2>/<3>/<4>/<5> Thunder DMG to a all targets.<br>If there are no Lightning Stilettos on the field, will automatically be Weakness Broken. During Weakness Broken, DMG taken is increased by <color style='color:#f29e38;'>150%</color> and action is delayed by an extra <color style='color:#f29e38;'>50%</color>.<br>After casting this skill, clear all Lightning Stilettos on the field."
+            "CH": "场上存在<color style='color:#f29e38;'>0</color>/<color style='color:#f29e38;'>1</color>/<color style='color:#f29e38;'>2</color>/<color style='color:#f29e38;'>3</color>/<color style='color:#f29e38;'>4</color>枚<color style='color:#f29e38;'>【雷楔】</color>时，对我方全体造成<1>/<2>/<3>/<4>/<5>雷属性伤害。<br>若释放时场上没有雷楔，则在释放完毕后自动被韧性击破，且行动额外延后<color style='color:#f29e38;'>50%</color>，击破期间受到的伤害提升<color style='color:#f29e38;'>150%</color>。<br>释放结束后，清除所有【雷楔】。",
+            "EN": "When there are <color style='color:#f29e38;'>0</color>/<color style='color:#f29e38;'>1</color>/<color style='color:#f29e38;'>2</color>/<color style='color:#f29e38;'>3</color>/<color style='color:#f29e38;'>4 Lightning Stilettos on the field, deals <1>/<2>/<3>/<4>/<5> Thunder DMG to a all targets.<br>If there are no Lightning Stilettos on the field, will automatically be Weakness Broken after casting this skill. During Weakness Broken, DMG taken is increased by <color style='color:#f29e38;'>150%</color> and action is delayed by an extra <color style='color:#f29e38;'>50%</color>.<br>After casting this skill, clear all Lightning Stilettos on the field."
         },
         "SP": 20.0,
         "Elem": "Elec",
@@ -18069,8 +18069,8 @@ var _monsterskill = {
             "EN": "Beckoning Stars"
         },
         "Desc": {
-            "CH": "<color style='color:#f29e38;'>【雷楔】</color>会对被监视的单体造成<1>雷属性伤害。<br>雷楔被消灭后，刻晴会<b>锁定</b>该雷楔监视的单体。锁定视为负面效果，持续<color style='color:#f29e38;'>2</color>回合，被锁定的单体会成为刻晴和所有其他雷楔的目标。",
-            "EN": "<color style='color:#f29e38;'>Lightning Stilettos</color> will deal <1> Thunder DMG to Monitored targets.<br>When a Lightning Stiletto is killed, Keqing will <b>Lock On</b> its Monitored target. Lock On is considered as a Debuff and lasts <color style='color:#f29e38;'>2</color> turns. Keqing and all Lightning Stilettos will attack the Locked On target."
+            "CH": "<color style='color:#f29e38;'>【雷楔】</color>会对被监视的单体造成<1>雷属性伤害。<br>雷楔不会受到伤害。在受到攻击或韧性被击破后，将流失<color style='color:#f29e38;'>1</color>点耐久。耐久耗尽时将消散。<br>雷楔消散后，刻晴会<b>锁定</b>该雷楔监视的单体。锁定视为负面效果，持续<color style='color:#f29e38;'>2</color>回合，被锁定的单体会成为刻晴和所有其他雷楔的目标。",
+            "EN": "<color style='color:#f29e38;'>Lightning Stilettos</color> will deal <1> Thunder DMG to Monitored targets.<br>Lightning Stilettos are immune to DMG. When they are attacked, they will lose <color style='color:#f29e38;'>1</color> HP Point. When they lose all HP Points, they will disperse.<br>When a Lightning Stiletto disperses, Keqing will <b>Lock On</b> the target that it Monitored. Lock On is considered as a Debuff and lasts <color style='color:#f29e38;'>2</color> turns. Keqing and all Lightning Stilettos will attack the Locked On target."
         },
         "SP": 10.0,
         "Elem": "Elec",
