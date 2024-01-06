@@ -242,7 +242,8 @@ input[type=number] {
 
 .base_stat_table {
     padding-left: 10px;
-    border-left: 1px solid white;
+    border-left: none;
+    max-width: 200px;
 }
 
 .base_stat_input div {
@@ -293,6 +294,12 @@ input[type=number] {
     margin: 0px 10px 0px 0px;
     text-align: center;
     padding: 0px;
+}
+
+@media screen and (min-width: 400px) {
+    .base_stat_table {
+        border-left: 1px solid white;
+    }
 }
 
 @media screen and (min-width: 500px) and (max-width: 900px) {

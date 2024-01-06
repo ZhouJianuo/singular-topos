@@ -381,11 +381,11 @@ var props = {
     },
     "StatusRES": {
         "CH": "效果抵抗",
-        "EN": "Effect RES"
+        "EN": "Eff RES"
     },
     "StatusProb": {
         "CH": "效果命中",
-        "EN": "Effect Hit Rate"
+        "EN": "Eff Hit Rate"
     },
 }
 
