@@ -17937,23 +17937,38 @@ var _monsterskill = {
             "EN": "Yunlai Swordsmanship"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>雷元素伤害。",
+            "CH": "对指定我方单体造成<1>雷属性伤害。",
             "EN": "Deals <1> Thunder DMG to a single target."
         },
         "SP": 10.0,
         "Elem": "Elec",
         "DMG": [
-            3.0
+            2.2
         ]
     },
     "104202": {
+        "Name": {
+            "CH": "云来剑法（完整）",
+            "EN": "Yunlai Swordsmanship (Complete)"
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成<1>雷属性伤害。",
+            "EN": "Deals <1> Thunder DMG to a single target."
+        },
+        "SP": 15.0,
+        "Elem": "Elec",
+        "DMG": [
+            4.3
+        ]
+    },
+    "104203": {
         "Name": {
             "CH": "雷暴连斩",
             "EN": "Thundering Stiletto"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>雷元素伤害，对相邻目标造成<2>雷元素伤害。",
-            "EN": "Deals <1> Thunder DMG to a single target, and <2> Thunder DMG to adjacent targets."
+            "CH": "对指定我方单体造成<1>雷属性伤害，对相邻目标造成<2>雷属性伤害。<br>释放后，刻晴的下一次行动延后<color style='color:#f29e38;'>25%</color>。",
+            "EN": "Deals <1> Thunder DMG to a single target, and <2> Thunder DMG to adjacent targets.<br>After this skill, Keqing's next action is delayed by <color style='color:#f29e38;'>25%</color>."
         },
         "SP": 15.0,
         "Elem": "Elec",
@@ -17962,106 +17977,130 @@ var _monsterskill = {
             2.5
         ]
     },
-    "104203": {
+    "104204": {
         "Name": {
             "CH": "玉衡之贵",
             "EN": "Aristocratic Dignity"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>雷元素伤害，并进入<color style='color:#f29e38;'>【雷雳寰宇】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>在【雷雳寰宇】状态下，每次行动后，会对本次行动中受到伤害的所有目标额外释放一次<color style='color:#f29e38;'>【云来剑法】</color>。<br>【雷雳寰宇】状态不可解除，期间自身弱点被击破时会流失<color style='color:#f29e38;'>13%生命值上限</color>，并退出此状态。",
-            "EN": "Deals <1> Thunder DMG to a single target and enters the <color style='color:#f29e38;'>Piercing Thunderbolt</color> state, lasting <color style='color:#f29e38;'>2</color> turns.<br>Piercing Thunderbolt: After every action, will unleash an extra instance of <color style='color:#f29e38;'>Yunlai Swordsmanship</color> on every target that took DMG in this action.<br>Piercing Thunderbolt is unremoveable. If Weakness is broken during this state, disperses this state and lose <color style='color:#f29e38;'>13% Max HP</color>."
+            "CH": "对指定我方单体造成<1>雷属性伤害，并进入<color style='color:#f29e38;'>【雷雳寰宇】</color>状态。<br>在【雷雳寰宇】状态下，每释放一次<color style='color:#f29e38;'>【雷暴连斩】</color>，都会对所有目标额外释放一次剑击，造成<2>雷属性伤害。<br>此状态下刻晴获得原韧性<color style='color:#f29e38;'>50%</color>的替代韧性条，击破此韧性条后，刻晴不会被弱点击破，但是会退出此状态并流失<color style='color:#f29e38;'>13%生命值上限</color>。",
+            "EN": "Deals <1> Thunder DMG to a single target and enters the <color style='color:#f29e38;'>Piercing Thunderbolt</color> state.<br>Piercing Thunderbolt: After every cast of <color style='color:#f29e38;'>Thundering Stiletto</color>, will unleash an extra sword hit on every target, dealing <2> Thunder DMG.<br>In this state, Keqing will gain a second Toughness Bar equal to <color style='color:#f29e38;'>50%</color> of her original Toughness. Breaking this Toughness Bar will not trigger Weakness Broken, but will instead dispel the Piercing Thunderbolt state and cause her to lose <color style='color:#f29e38;'>13% Max HP</color>."
         },
         "SP": 10.0,
         "Elem": "Elec",
         "DMG": [
-            3.0
-        ]
-    },
-    "104204": {
-        "Name": {
-            "CH": "抵天雷罚",
-            "EN": "Thundering Penance"
-        },
-        "Desc": {
-            "CH": "召唤2枚<color style='color:#f29e38;'>【雷楔】</color>，并进入蓄力状态，2回合后释放<color style='color:#f29e38;'>【天街巡游】</color>。<br>",
-            "EN": "Summons 2 <color style='color:#f29e38;'>Lightning Stilettos</color>, and enters the Charge state. After 2 turns, casts <color style='color:#f29e38;'>Starward Sword</color>."
-        },
-        "Elem": "Elec",
-        "DMG": [
-            3.0
+            3.0,
+            0.55
         ]
     },
     "104205": {
-        "Name": {
-            "CH": "星斗归位",
-            "EN": "Stellar Restoration"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成<1>雷元素伤害，并召唤2枚<color style='color:#f29e38;'>【雷楔】</color>。<br>【雷楔】受到攻击时，刻晴会立即行动，对攻击者释放一次<color style='color:#f29e38;'>【雷暴连斩】</color>。",
-            "EN": "Deals <1> Thunder DMG to a single target, and summons 2 <color style='color:#f29e38;'>Lightning Stilettos</color>.<br>When Lightning Stilettos are hit, Keqing acts immediately and casts <color style='color:#f29e38;'>Thundering Stiletto</color> on the attacker."
-        },
-        "SP": 15.0,
-        "Elem": "Elec",
-        "DMG": [
-            3.0
-        ]
-    },
-    "104206": {
-        "Name": {
-            "CH": "天街巡游",
-            "EN": "Starward Sword"
-        },
-        "Desc": {
-            "CH": "对我方全体造成<1>雷元素伤害，并清除所有【雷楔】。每清除1枚【雷楔】，额外对我方随机单体释放一次<color style='color:#f29e38;'>【雷暴连斩】</color>。<br>若释放时场上没有雷楔，在释放结束后会流失<color style='color:#f29e38;'>13%生命值上限</color>。",
-            "EN": "Deals <1> Thunder DMG to a all targets and destroys all Lightning Stilettos on the field. For every Lightning Stiletto destroyed, casts an extra instance of <color style='color:#f29e38;'>Thundering Stiletto</color> on a random target.<br>If there are no Lightning Stilettos on the field, will lose <color style='color:#f29e38;'>13% Max HP</color> after casting this skill."
-        },
-        "SP": 20.0,
-        "Elem": "Elec",
-        "DMG": [
-            5.0
-        ]
-    },
-    "104207": {
         "Name": {
             "CH": "登楼",
             "EN": "Foreseen Reformation"
         },
         "Desc": {
-            "CH": "每释放1次<color style='color:#f29e38;'>【云来剑法】</color>或<color style='color:#f29e38;'>【雷暴连斩】</color>，造成的伤害提升<color style='color:#f29e38;'>2%</color>。至多叠加99层，不可解除。",
-            "EN": "Every time <color style='color:#f29e38;'>Yunlai Swordsmanship</color> or <color style='color:#f29e38;'>Thundering Stiletto</color> is used, DMG dealt is increased by <color style='color:#f29e38;'>2%</color>. Max 99 stacks. Unremoveable."
+            "CH": "每释放1次<color style='color:#f29e38;'>【云来剑法】</color>或召唤一枚<color style='color:#f29e38;'>【雷楔】</color>，刻晴和雷楔造成的伤害提升<color style='color:#f29e38;'>2%</color>。至多叠加99层，不可解除。",
+            "EN": "Every time <color style='color:#f29e38;'>Yunlai Swordsmanship</color> is used or a <color style='color:#f29e38;'>Lightning Stiletto</color> is summoned, DMG dealt by Keqing and all Lightning Stilettos is increased by <color style='color:#f29e38;'>2%</color>. Max 99 stacks. Unremoveable."
         },
         "Elem": "Elec"
+    },
+    "104206": {
+        "Name": {
+            "CH": "星斗归位",
+            "EN": "Stellar Restoration"
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成<1>雷属性伤害，并召唤2枚<color style='color:#f29e38;'>【雷楔】</color>，初始具有<color style='color:#f29e38;'>6</color>点耐久。<br>【雷楔】受到攻击时，刻晴会立即行动，对攻击者释放一次<color style='color:#f29e38;'>【雷暴连斩】</color>，并命令该雷楔<b>监视</b>本次攻击者。",
+            "EN": "Deals <1> Thunder DMG to a single target, and summons 2 <color style='color:#f29e38;'>Lightning Stilettos</color> with <color style='color:#f29e38;'>6</color> HP points.<br>When a Lightning Stiletto is attacked, Keqing acts immediately and casts <color style='color:#f29e38;'>Thundering Stiletto</color> on the attacker, and orders the Lightning Stiletto to <b>Monitor</b> the attacker."
+        },
+        "SP": 15.0,
+        "Elem": "Elec",
+        "DMG": [
+            4.2
+        ]
+    },
+    "104207": {
+        "Name": {
+            "CH": "抵天雷罚",
+            "EN": "Thundering Penance"
+        },
+        "Desc": {
+            "CH": "召唤2枚<color style='color:#f29e38;'>【雷楔】</color>，初始具有<color style='color:#f29e38;'>4</color>点耐久，并进入蓄力状态，2回合后释放<color style='color:#f29e38;'>【天街巡游】</color>。<br>",
+            "EN": "Summons 2 <color style='color:#f29e38;'>Lightning Stilettos</color> with <color style='color:#f29e38;'>4</color> HP points, and enters the Charge state. After 2 turns, casts <color style='color:#f29e38;'>Starward Sword</color>."
+        },
+        "Elem": "Elec",
+        "DMG": [
+            3.0
+        ]
     },
     "104208": {
         "Name": {
-            "CH": "调律",
-            "EN": "Attunement"
+            "CH": "天街巡游",
+            "EN": "Starward Sword"
         },
         "Desc": {
-            "CH": "我方目标受到【雷楔】的攻击后，有<color style='color:#f29e38;'>80%</color>基础概率陷入<color style='color:#f29e38;'>【失律】</color>状态：受到的伤害提升<color style='color:#f29e38;'>2%</color>，攻击力降低<color style='color:#f29e38;'>2%</color>，持续<color style='color:#f29e38;'>3</color>回合。<br>若【失律】叠加至10层且没有被主动解除，则会在持续时间结束时对目标造成致命伤害。",
-            "EN": "Lightning Stiletto's attacks have an <color style='color:#f29e38;'>80%</color> Base Chance to inflict <color style='color:#f29e38;'>Distunement</color>: DMG taken increases by <color style='color:#f29e38;'>2%</color> and ATK decreases by <color style='color:#f29e38;'>2%</color>, lasting <color style='color:#f29e38;'>3</color> turns.<br>If Distunement stacks to 10 layers and is not dispelled, it will deal fatal DMG to the target when it expires."
+            "CH": "场上存在<color style='color:#f29e38;'>0</color>/<color style='color:#f29e38;'>1</color>/<color style='color:#f29e38;'>2</color>/<color style='color:#f29e38;'>3</color>/<color style='color:#f29e38;'>4</color>枚<color style='color:#f29e38;'>【雷楔】</color>时，对我方全体造成<1>/<2>/<3>/<4>/<5>雷属性伤害。<br>若释放时场上没有雷楔，则自动被韧性击破，且行动额外延后<color style='color:#f29e38;'>50%</color>，击破期间受到的伤害提升<color style='color:#f29e38;'>150%</color>。<br>释放结束后，清除所有【雷楔】。",
+            "EN": "When there are <color style='color:#f29e38;'>0</color>/<color style='color:#f29e38;'>1</color>/<color style='color:#f29e38;'>2</color>/<color style='color:#f29e38;'>3</color>/<color style='color:#f29e38;'>4 Lightning Stilettos on the field, deals <1>/<2>/<3>/<4>/<5> Thunder DMG to a all targets.<br>If there are no Lightning Stilettos on the field, will automatically be Weakness Broken. During Weakness Broken, DMG taken is increased by <color style='color:#f29e38;'>150%</color> and action is delayed by an extra <color style='color:#f29e38;'>50%</color>.<br>After casting this skill, clear all Lightning Stilettos on the field."
         },
-        "Elem": "Elec"
+        "SP": 20.0,
+        "Elem": "Elec",
+        "DMG": [
+            6.0,
+            5.1,
+            4.2,
+            3.3,
+            2.4
+        ]
     },
     "104209": {
-        "Name": {
-            "CH": "移灯",
-            "EN": "Beckoning Stars"
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "Elem": "Elec"
-    },
-    "104210": {
         "Name": {
             "CH": "廉贞",
             "EN": "Tenacious Star"
         },
         "Desc": {
-            "CH": "第三阶段的生命值上限改为原本的<color style='color:#f29e38;'>1.66</color>倍，韧性改为原本的<color style='color:#f29e38;'>1.33</color>倍。",
-            "EN": "Phase 3's Max HP changed to <color style='color:#f29e38;'>1.66</color> times the original, Toughness changed to <color style='color:#f29e38;'>1.33</color> times the original."
+            "CH": "第三阶段的生命值上限改为原本的<color style='color:#f29e38;'>1.66</color>倍，韧性改为原本的<color style='color:#f29e38;'>1.33</color>倍。<br>第三阶段生命值首次低于<color style='color:#f29e38;'>50%</color>时，刻晴立即行动，但速度永久降低<color style='color:#f29e38;'>10%</color>。",
+            "EN": "Phase 3's Max HP changed to <color style='color:#f29e38;'>1.66</color> times the original, Toughness changed to <color style='color:#f29e38;'>1.33</color> times the original.<br>When HP first falls below <color style='color:#f29e38;'>50%</color> in Phase 3, Keqing acts immediately, but SPD is permanently decreased by <color style='color:#f29e38;'>10%</color>."
+        },
+        "Elem": "Elec"
+    },
+    "104210": {
+        "Name": {
+            "CH": "移灯",
+            "EN": "Beckoning Stars"
+        },
+        "Desc": {
+            "CH": "<color style='color:#f29e38;'>【雷楔】</color>会对被监视的单体造成<1>雷属性伤害。<br>雷楔被消灭后，刻晴会<b>锁定</b>该雷楔监视的单体。锁定视为负面效果，持续<color style='color:#f29e38;'>2</color>回合，被锁定的单体会成为刻晴和所有其他雷楔的目标。",
+            "EN": "<color style='color:#f29e38;'>Lightning Stilettos</color> will deal <1> Thunder DMG to Monitored targets.<br>When a Lightning Stiletto is killed, Keqing will <b>Lock On</b> its Monitored target. Lock On is considered as a Debuff and lasts <color style='color:#f29e38;'>2</color> turns. Keqing and all Lightning Stilettos will attack the Locked On target."
+        },
+        "SP": 10.0,
+        "Elem": "Elec",
+        "DMG": [
+            1.5
+        ]
+    },
+    "104211": {
+        "Name": {
+            "CH": "金紫定垂",
+            "EN": "Trulla Cementarii"
+        },
+        "Desc": {
+            "CH": "刻晴释放<color style='color:#f29e38;'>【天街巡游】</color>时，会对被锁定的目标额外造成<1>雷属性伤害。",
+            "EN": "When casting <color style='color:#f29e38;'>Starward Sword</color>, Keqing will deal an additional <1> Thunder DMG to the Locked On target."
+        },
+        "SP": 5.0,
+        "Elem": "Elec",
+        "DMG": [
+            1.6
+        ]
+    },
+    "104212": {
+        "Name": {
+            "CH": "调律",
+            "EN": "Attunement"
+        },
+        "Desc": {
+            "CH": "我方目标受到【雷楔】的攻击后，有<color style='color:#f29e38;'>80%</color>基础概率陷入<color style='color:#f29e38;'>【失律】</color>状态：受到的伤害提升<color style='color:#f29e38;'>0.8%</color>，攻击力降低<color style='color:#f29e38;'>1%</color>，持续<color style='color:#f29e38;'>3</color>回合。<br>若【失律】叠加至10层且没有被主动解除，目标会在下回合开始时流失<color style='color:#f29e38;'>74%生命值上限</color>，并解除【失律】状态。",
+            "EN": "Lightning Stiletto's attacks have an <color style='color:#f29e38;'>80%</color> Base Chance to inflict <color style='color:#f29e38;'>Distunement</color>: DMG taken increases by <color style='color:#f29e38;'>0.8%</color> and ATK decreases by <color style='color:#f29e38;'>1%</color>, lasting <color style='color:#f29e38;'>3</color> turns.<br>If Distunement stacks to 10 layers and is not dispelled, the target will lose <color style='color:#f29e38;'>74% Max HP</color> at the beginning of their next turn, and Distunement will be dispelled."
         },
         "Elem": "Elec"
     }
