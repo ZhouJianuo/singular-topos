@@ -2,7 +2,7 @@
 
 var _fiction = [
     {
-        "_id": 0,
+        "_id": 2003,
         "Name": {
             "CH": "舌灿莲花",
             "EN": "An Expression of Eloquence"
@@ -1121,7 +1121,7 @@ var _fiction = [
         ]
     },
     {
-        "_id": 0,
+        "_id": 2002,
         "Name": {
             "CH": "羁鸟奇谭",
             "EN": "Tales of a Tethered Bird"
@@ -2257,7 +2257,7 @@ var _fiction = [
         ]
     },
     {
-        "_id": 0,
+        "_id": 2001,
         "Name": {
             "CH": "游辞漫说",
             "EN": "Youci's Wandering Words"
@@ -3429,7 +3429,7 @@ var _fictionschedule = [
 ]
 
 var _fictiondict = {
-    "2001": 0,
-    "2002": 1,
-    "2003": 2
+    "2001": -1,
+    "2002": -2,
+    "2003": -3
 }
