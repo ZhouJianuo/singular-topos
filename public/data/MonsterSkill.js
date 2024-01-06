@@ -13304,7 +13304,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "进入<color style='color:#f29e38;'>【白日西沉】</color>状态。每当我方施放普攻、战技、终结技时叠加1层，当【白日西沉】叠加至3层时，立即对上一个行动的我方施放<color style='color:#f29e38;'>【已在黄昏失色】</color>。施放过一次【已在黄昏失色】或被弱点击破后解除该状态。",
-            "EN": "Enters the <color style='color:#f29e38;'>Sunset</color> state. Gains 1 stack each time a character takes action. When 3 stacks are gained, immediately uses <color style='color:#f29e38;'>Losing Eventide</color> Light on the last-acting character. This effect is removed after using Losing Eventide Light once or after becoming Weakness Broken."
+            "EN": "Enters the <color style='color:#f29e38;'>Sunset</color> state. Gains 1 stack each time a character takes action. When 3 stacks are gained, immediately uses <color style='color:#f29e38;'>Losing Eventide Light</color> on the last-acting character. This effect is removed after using Losing Eventide Light once or after becoming Weakness Broken."
         },
         "SP": 0,
         "Threat": true,
@@ -13336,7 +13336,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "进入<color style='color:#f29e38;'>【夜幕降临】</color>状态，期间会锁定2名最先行动的我方目标。下次行动时使用<color style='color:#f29e38;'>【如水逝于水中】</color>。",
-            "EN": "Enters the <color style='color:#f29e38;'>Nightfall state</color> and locks onto the 2 characters who are due to act next. Uses <color style='color:#f29e38;'>Watery Dissolution</color> in the next action."
+            "EN": "Enters the <color style='color:#f29e38;'>Nightfall</color> state and locks onto the 2 characters who are due to act next. Uses <color style='color:#f29e38;'>Watery Dissolution</color> in the next action."
         },
         "SP": 0,
         "Threat": true,
@@ -17818,7 +17818,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "进入<color style='color:#f29e38;'>【白日西沉】</color>状态。每当我方施放普攻、战技、终结技时叠加1层，当【白日西沉】叠加至3层时，立即对上一个行动的我方施放<color style='color:#f29e38;'>【已在黄昏失色】</color>。施放过一次【已在黄昏失色】或被弱点击破后解除该状态。",
-            "EN": "Enters the <color style='color:#f29e38;'>Sunset</color> state. Gains 1 stack each time a character takes action. When 3 stacks are gained, immediately uses <color style='color:#f29e38;'>Losing Eventide</color> Light on the last-acting character. This effect is removed after using Losing Eventide Light once or after becoming Weakness Broken."
+            "EN": "Enters the <color style='color:#f29e38;'>Sunset</color> state. Gains 1 stack each time a character takes action. When 3 stacks are gained, immediately uses <color style='color:#f29e38;'>Losing Eventide Light</color> on the last-acting character. This effect is removed after using Losing Eventide Light once or after becoming Weakness Broken."
         },
         "SP": 0,
         "Threat": true,
@@ -17850,7 +17850,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "进入<color style='color:#f29e38;'>【夜幕降临】</color>状态，期间会锁定2名最先行动的我方目标。下次行动时使用<color style='color:#f29e38;'>【如水逝于水中】</color>。",
-            "EN": "Enters the <color style='color:#f29e38;'>Nightfall state</color> and locks onto the 2 characters who are due to act next. Uses <color style='color:#f29e38;'>Watery Dissolution</color> in the next action."
+            "EN": "Enters the <color style='color:#f29e38;'>Nightfall</color> state and locks onto the 2 characters who are due to act next. Uses <color style='color:#f29e38;'>Watery Dissolution</color> in the next action."
         },
         "SP": 0,
         "Threat": true,
