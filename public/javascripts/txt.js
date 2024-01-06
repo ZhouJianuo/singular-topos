@@ -259,6 +259,22 @@ var txt = {
         "CH": "（维持#个在场）",
         "EN": " (Keep # on field)"
     },
+    "MoC": {
+        "CH": "混沌回忆",
+        "EN": "Memory of Chaos"
+    },
+    "Fiction": {
+        "CH": "虚构叙事",
+        "EN": "Pure Fiction"
+    },
+    "HS": {
+        "CH": "<p><b>玉衡杯数据库 - bilibili@妮可少女 | t.me/homdgcat</b></p>",
+        "EN": "<p><b>HomDGCat Database - t.me/homdgcat</b></p>"
+    },
+    "Links_": {
+        "CH": "<b>[ homdgcat.wiki ]</b>",
+        "EN": "<b>[ en.homdgcat.wiki ]</b>"
+    }
 }
 
 var elemcolor = {

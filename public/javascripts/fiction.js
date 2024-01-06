@@ -26,6 +26,7 @@ $(function () {
     //refreshStats()
     var IS_DMG = 1
     var cm = {}
+    var HIDE_SHOW = 0
 
     var max_index = _fictionschedule.length
     var cur_index = _fictiondict[$('#CID').val()]
@@ -1130,5 +1131,20 @@ $(function () {
             })
         })
     }
+
+    $('body').on('click', '.title', function () {
+        HIDE_SHOW = 1 - HIDE_SHOW
+        if (HIDE_SHOW) {
+            $('h3 .links').html(txt.Links_[lang]);
+            $('.lang').hide()
+            $('.title').html(txt.Fiction[lang])
+            $('.subtitle').html(txt.HS[lang])
+        } else {
+            $('h3 .links').html(txt.Page[lang]);
+            $('.lang').show()
+            $('.title').html(txt.Title[lang])
+            $('.subtitle').html(txt.Subtitle[lang])
+        }
+    })
 
 })
