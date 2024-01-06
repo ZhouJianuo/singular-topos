@@ -13744,7 +13744,7 @@ var _monsterskill = {
             "EN": "Slumber Awakening"
         },
         "Desc": {
-            "CH": "当永眠墓碣受到致命攻击后，对应我方目标将解除<color style='color:#f29e38;'>【梦死</color>】状态，回复<color style='color:#f29e38;'>50%生命值上限</color>和全部能量。",
+            "CH": "当永眠墓碣受到致命攻击后，对应我方目标将解除<color style='color:#f29e38;'>【梦死】</color>状态，回复<color style='color:#f29e38;'>50%生命值上限</color>和全部能量。",
             "EN": "After Tomb of Eternal Slumber receives a killing blow, the <color style='color:#f29e38;'>Dreaming Till The End</color> state on the corresponding character will be dispelled, and restores <color style='color:#f29e38;'>50% Max HP</color> and all Energy to this character."
         },
         "SP": 0
@@ -17304,7 +17304,7 @@ var _monsterskill = {
             "EN": "Slumber Awakening"
         },
         "Desc": {
-            "CH": "当永眠墓碣受到致命攻击后，对应我方目标将解除<color style='color:#f29e38;'>【梦死</color>】状态，回复<color style='color:#f29e38;'>50%生命值上限</color>和全部能量。",
+            "CH": "当永眠墓碣受到致命攻击后，对应我方目标将解除<color style='color:#f29e38;'>【梦死】</color>状态，回复<color style='color:#f29e38;'>50%生命值上限</color>和全部能量。",
             "EN": "After Tomb of Eternal Slumber receives a killing blow, the <color style='color:#f29e38;'>Dreaming Till The End</color> state on the corresponding character will be dispelled, and restores <color style='color:#f29e38;'>50% Max HP</color> and all Energy to this character."
         },
         "SP": 0
