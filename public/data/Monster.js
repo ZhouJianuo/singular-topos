@@ -9,8 +9,8 @@ var _monster = [
             "EN": "Driving Thunder: Keqing (Synthetic)"
         },
         "Desc": {
-            "CH": "妮可少女培育的宇宙之外神秘维度之中的生命复制体，以残缺的姿态短暂现世。原型为为璃月七星之一的玉衡星，对「帝君一言而决的璃月」颇有微词。<br>霆霓快雨 · 刻晴（拟造）会在战斗中隐入剑影，进行如同迅雷霆霓般疾速的连斩，传说可将诸星斩落。",
-            "EN": "The replica of a lifeform from a mysterious dimension outside of the known universe, cultivated by HomDGCat, briefly manifesting in the world in an incomplete form. Its original form is the Yuheng of the Liyue Qixing, who has much to say about Rex Lapis's unilateral approach to policymaking in Liyue.<br>In battle, Driving Thunder: Keqing (Synthetic) will blend into the shadows of her blade, striking a series of thunderclap-blows that are rumoured to have brought stars shattering down."
+            "CH": "<b>妮可少女</b>和<b>析茉Csxylic</b>联合培育的生命复制体，似乎来源于宇宙之外的神秘维度，以残缺的姿态短暂现世。原型为为璃月七星之一的玉衡星，对「帝君一言而决的璃月」颇有微词。<br>霆霓快雨 · 刻晴（拟造）会在战斗中隐入剑影，进行如同迅雷霆霓般疾速的连斩，传说可将诸星斩落。",
+            "EN": "The replica of a lifeform cultivated jointly by <b>HomDGCat</b> and <b>Csxylic</b>, originating from a mysterious dimension outside of the known universe, and briefly manifesting in the world in an incomplete form.<br>Its original form is the Yuheng of the Liyue Qixing, who has much to say about Rex Lapis's unilateral approach to policymaking in Liyue.<br>In battle, Driving Thunder: Keqing (Synthetic) will blend into the shadows of her blade, striking a series of thunderclap-blows that are rumoured to have brought stars shattering down."
         },
         "Stats": {
             "HP": 24,
