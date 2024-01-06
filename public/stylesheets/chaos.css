@@ -1,0 +1,576 @@
+::-webkit-scrollbar:horizontal {
+    display: none;
+}
+
+::-webkit-scrollbar-thumb:vertical {
+    background-color: #aaaaaa;
+    border-radius: 4px;
+}
+
+.title {
+    color: #fff;
+    cursor: pointer;
+}
+
+popdialog {
+    height: 100%;
+}
+
+.ver, .floor, .floor_select {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.ver {
+    margin-top: 30px;
+}
+
+.ver_text {
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 220px;
+}
+
+.ver_text p {
+    font-weight: bold;
+    text-align: center;
+}
+
+::-webkit-scrollbar:horizontal {
+    display: none;
+}
+
+::-webkit-scrollbar-thumb:vertical {
+    background-color: #aaaaaa;
+    border-radius: 4px;
+}
+
+.title {
+    color: #fff;
+    cursor: pointer;
+}
+
+popdialog {
+    height: 100%;
+}
+
+.mon_head schedule {
+    font-size: 14px;
+}
+
+.skill_phase schedule {
+    width: calc((100% - 120px) / 3);
+    font-size: 14px;
+}
+
+.skill_phase {
+    width: 100%;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 15px 0px;
+    margin: 0px;
+}
+
+.monicon {
+    height: 41px;
+    vertical-align: middle;
+}
+
+.monelem {
+    vertical-align: middle;
+    height: 22px;
+    margin-top: 5px;
+}
+
+.monname {
+    vertical-align: middle;
+    font-size: 13px;
+    white-space: nowrap;
+}
+
+.monster_card_area {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 15px 24px 24px 24px;
+}
+
+.monster_card {
+    padding: 10px;
+    margin: 7px 0px 7px 14px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+}
+
+.monster_card::-webkit-scrollbar {
+    height: 0px;
+    width: 0px;
+}
+
+.monster_card div {
+    text-align: center;
+}
+
+.monbottom {
+    margin-top: 4px;
+}
+
+.monright {
+    margin-top: -3px;
+    line-height: 1.4;
+}
+
+.mon_head, .mon_head section {
+    margin: 0px;
+}
+
+.mon_body, .mon_body_ {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.a_section, .a_section_small, .a_section_smallsmall, .a_section_small_1, .a_section_small_2, .a_section_small_3, .a_section_small_4 {
+    width: 94.7%;
+    display: inline-block;
+    border-radius: 10px;
+    background-color: #27363E;
+    color: #DDDDDD;
+}
+
+.a_section_head, .a_section_head span {
+    font-size: 17px;
+    font-weight: bold;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.dmg_show {
+    margin: 5px;
+    font-size: 15px;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+}
+
+.a_section_content {
+    font-size: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    line-height: 30px;
+    overflow-x: scroll;
+    width: calc(100% - 30px);
+}
+
+.a_section_content span {
+    font-size: 15px;
+    line-height: 30px;
+    margin-left: 0px;
+}
+
+.a_section_content input, select {
+    width: 47%;
+    height: 40px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgba(255, 255, 255,1);
+    font-size: 15px;
+    margin: auto;
+}
+
+.a_section_head input, select {
+    width: 72px;
+    height: 28px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgba(255, 255, 255,1);
+    font-size: 15px;
+    margin: auto;
+    text-align: center;
+}
+
+.a_section_small ::-webkit-scrollbar-thumb {
+    background-color: #ffffff;
+}
+
+.a_section ::-webkit-scrollbar-thumb {
+    background-color: #ffffff;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.DMG_input {
+    padding: 15px;
+}
+
+.DMG_Tut {
+    padding: 15px;
+    max-width: 90%;
+}
+
+.DMG_input p {
+    margin-top: 0px;
+    text-align: center;
+}
+
+.DMG_input input, select {
+    width: 100px;
+    height: 30px;
+    border-radius: 3px;
+    border: 1px solid;
+    font-size: 16px;
+    text-align: center;
+}
+
+.DMG_input button {
+    height: 40px;
+    width: 100px;
+    color: #fff;
+    background-color: rgb(37, 69, 186);
+    font-size: 15px;
+    border-radius: 0px;
+    top: 12px;
+    position: relative;
+    cursor: pointer;
+}
+
+.a_section_content td {
+    line-height: 2.3;
+}
+
+.statpageicon {
+    width: 22px;
+    margin-right: 5px;
+    vertical-align: middle;
+}
+
+.stat_ {
+    padding-left: 15px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.base_stat_input {
+    width: 37%;
+    max-width: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 8px;
+}
+
+.base_stat_table {
+    padding-left: 10px;
+    border-left: 1px solid white;
+}
+
+.base_stat_input div {
+    width: 100%;
+    margin: 0px;
+}
+
+.base_stat_input p {
+    font-size: 14px;
+    margin-top: 0px;
+    margin-bottom: 8px;
+    line-height: 1!important;
+    font-weight: bold;
+}
+
+.base_stat_lv, .base_stat_eg {
+    height: 20px!important;
+    width: 60px!important;
+    font-size: 14px!important;
+}
+
+.base_stat_hlg {
+    height: 30px;
+    width: 80px;
+    font-size: 13px;
+    padding: 0px!important;
+}
+
+.input_hlg {
+    font-size: 14px!important;
+    height: 33px!important;
+    width: 105px!important;
+}
+
+.up {
+    width: 35px;
+    height: 25px;
+    border-radius: 3px;
+    margin: 0px;
+    text-align: center;
+    padding: 0px;
+}
+
+.down {
+    width: 35px;
+    height: 25px;
+    border-radius: 3px;
+    margin: 0px 10px 0px 0px;
+    text-align: center;
+    padding: 0px;
+}
+
+.v_r, .v_l {
+    font-weight: bold;
+    font-size: 37px;
+    cursor: pointer;
+}
+
+.ver_text_name, .ver_text_time {
+    font-size: 15px;
+    margin: 5px;
+}
+
+.wave_monsters {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+}
+
+.dpc {
+    line-height: 1.7;
+    margin-top: 8px;
+    margin-bottom: 0px;
+}
+
+.f_l, .f_r, .f_text {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.f_text {
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 50px;
+    text-align: center;
+}
+
+.f_l, .f_r {
+    cursor: pointer;
+}
+
+.info_area p {
+    font-size: 15px;
+}
+
+.info_area {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 8px;
+}
+
+.buff, .target {
+    width: calc(100% - 70px);
+    background-color: #27363E;
+    color: #dddddd;
+    border-radius: 5px;
+    margin: 6px 0px;
+    padding: 20px;
+}
+
+.buff_name {
+    margin-top: 6px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.buff_desc {
+    margin-bottom: 0px;
+    line-height: 1.7;
+    margin-top: 11px;
+}
+
+.target_c {
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+
+.target_t {
+    margin-bottom: 0px;
+    line-height: 1.7;
+    margin-top: 6px;
+}
+
+.target_t p {
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+.star {
+    position: relative;
+    width: 24px;
+    top: 6px;
+    margin-right: 4px;
+}
+
+.u_l {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 8px;
+}
+
+.u, .l {
+    width: calc(100% - 70px);
+    border-radius: 5px;
+    margin: 6px 0px;
+    padding: 20px;
+    border: 1px solid #27363E;
+}
+
+.wave_wrap {
+    margin-left: -14px;
+    width: calc(100% + 28px);
+}
+
+.wave_name {
+    margin: 7px 11px;
+}
+
+.u_r div, .l_r div {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.u_r p, .l_r p {
+    margin: 0px 0px 5px 0px;
+}
+
+.u_l {
+    margin-bottom: 50px;
+}
+
+@media screen and (min-width: 500px) and (max-width: 800px) {
+    .monright {
+        line-height: 1.5;
+    }
+    .f_l, .f_r, .f_text {
+        font-size: 25px;
+    }
+    .u, .l {
+        width: 100%;
+    }
+    .buff_name, .target_c {
+        margin-top: 7px;
+    }
+    .buff, .target, .u, .l {
+        width: calc(100% - 70px);
+    }
+    .info_area p {
+        font-size: 16px;
+    }
+    .ver_text {
+        width: 290px;
+    }
+    .v_r, .v_l {
+        font-size: 41px;
+    }
+    .statpageicon {
+        width: 26px;
+    }
+    .skill_phase schedule {
+        width: calc((100% - 120px) / 3);
+    }
+    .mon_head schedule, .skill_phase schedule {
+        font-size: 15px;
+    }
+    .a_section_content { font-size: 16px; }
+    .a_section_content span { font-size: 16px; }
+    .a_section_content input, select { font-size: 16px; }
+    .dmg_show { font-size: 16px; }
+    .a_section_head input, select { font-size: 16px; }
+    .a_section_head, .a_section_head span { font-size: 19px; }
+    .content schedule {
+        width: calc((100% - 160px) / 4);
+        font-size: 15px;
+    }
+    .monicon {
+        height: 45px;
+    }
+    .monname {
+        font-size: 14px
+    }
+    .ver_text_name, .ver_text_time {
+        font-size: 16px;
+    }
+}
+
+@media screen and (min-width: 800px) {
+    .monright {
+        line-height: 1.6;
+    }
+    .f_l, .f_r, .f_text {
+        font-size: 30px;
+    }
+    .u, .l {
+        width: 50%;
+    }
+    .buff_name, .target_c {
+        margin-top: 8px;
+    }
+    .buff, .target, .u, .l {
+        width: calc(50% - 64px);
+    }
+    .info_area p {
+        font-size: 17px;
+    }
+    .ver_text {
+        width: 350px;
+    }
+    .v_r, .v_l {
+        font-size: 43px;
+    }
+    .statpageicon {
+        width: 30px;
+    }
+    .skill_phase schedule {
+        width: calc((100% - 150px) / 4);
+    }
+    .mon_head schedule, .skill_phase schedule {
+        font-size: 16px;
+    }
+    .content schedule {
+        width: calc((100% - 80px) / 6);
+        font-size: 16px;
+    }    
+    .a_section_small {width: 46%;}
+    .a_section_smallsmall {width: 30%;}
+    .a_section_small_1 {width: 36%;}
+    .a_section_small_2 {width: 56%;}
+    .a_section_small_3 {width: 20%;}
+    .a_section_small_4 {width: 40%;}
+    .a_section_content { font-size: 17px; }
+    .a_section_content span { font-size: 17px; }
+    .a_section_content input, select { font-size: 17px; }
+    .dmg_show { font-size: 17px; }
+    .a_section_head input, select { font-size: 17px; }
+    .a_section_head, .a_section_head span { font-size: 20px; }
+    .monicon {
+        height: 49px;
+    }
+    .monname {
+        font-size: 15px
+    }
+    .ver_text_name, .ver_text_time {
+        font-size: 17px;
+    }
+}

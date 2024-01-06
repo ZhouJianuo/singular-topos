@@ -8,8 +8,8 @@ var txt = {
         "EN": " | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color> | <color style='color:#0066FF;'>X@_homdgcat</color>"
     },
     "Subtitle": {
-        "CH": "<p>数据提供：<b>妮可少女 <a href='https://space.bilibili.com/3537104994831140' target='_blank' style='white-space:pre;'>bilibili@妮可少女</a> | <a href='http://t.me/homdgcat' target='_blank' style='white-space:pre;'>t.me/homdgcat</a></b></p>",
-        "EN": "<p>Data by <b>HomDGCat: <a href='http://t.me/homdgcat' target='_blank' style='white-space:pre;'>t.me/homdgcat</a> | <a href='https://www.twitter.com/_homdgcat' target='_blank' style='white-space:pre;'>X@_homdgcat</a></b></p>"
+        "CH": "<p>数据提供：<b>妮可少女 <span style='white-space:pre;'><a href='https://space.bilibili.com/3537104994831140' target='_blank'>bilibili@妮可少女</a> | <a href='http://t.me/homdgcat' target='_blank'>t.me/homdgcat</a></span></b></p>",
+        "EN": "<p>Data by <b>HomDGCat: <span style='white-space:pre;'><a href='http://t.me/homdgcat' target='_blank'>t.me/homdgcat</a> | <a href='https://www.twitter.com/_homdgcat' target='_blank'>X@_homdgcat</a></span></b></p>"
     },
     "ChooseTitle": {
         "CH": "（星穹铁道）",
@@ -203,6 +203,62 @@ var txt = {
         "CH": "角色防御力：",
         "EN": "Character DEF: "
     },
+    "DPC_S": {
+        "CH": "每轮输出（单体）：",
+        "EN": "DPC (Single): "
+    },
+    "DPC_M": {
+        "CH": "每轮输出（群攻）：",
+        "EN": "DPC (AoE): "
+    },
+    "Cycle": {
+        "CH": "总轮数：",
+        "EN": "Total Cycles: "
+    },
+    "Cycle55": {
+        "CH": "总轮数：5+5",
+        "EN": "Total Cycles: 5+5"
+    },
+    "Wave": [
+        {
+            "CH": "第一波：",
+            "EN": "WAVE 1:"
+        },
+        {
+            "CH": "第二波：",
+            "EN": "WAVE 2:"
+        },
+        {
+            "CH": "第三波：",
+            "EN": "WAVE 3:"
+        },
+        {
+            "CH": "第四波：",
+            "EN": "WAVE 4:"
+        },
+        {
+            "CH": "第五波：",
+            "EN": "WAVE 5:"
+        },
+        {
+            "CH": "第六波：",
+            "EN": "WAVE 6:"
+        }
+    ],
+    "Recommended": [
+        {
+            "CH": "上半 ",
+            "EN": "Upper Half "
+        },
+        {
+            "CH": "下半 ",
+            "EN": "Lower Half "
+        }
+    ],
+    "Keep": {
+        "CH": "（维持#个在场）",
+        "EN": " (Keep # on field)"
+    },
 }
 
 var elemcolor = {
@@ -335,7 +391,7 @@ var links = [
         },
         "Link": "/mons"
     },
-    /*{
+    {
         "Name": {
             "CH": "混沌回忆",
             "EN": "Memory of Chaos"
@@ -348,14 +404,14 @@ var links = [
             "EN": "Pure Fiction"
         },
         "Link" : "/fiction"
-    }*/
+    }
 ]
 
 function popLinks(l) {
     poplayer({
         header: '',
         class: 'yuhengcup',
-        width: '85%',
+        width: '95%',
         template: [
             {
                 h3: txt.Title[l],
@@ -418,4 +474,12 @@ function popLinks(l) {
             }
         ]
     })
+}
+
+function mod(n, m) {
+    return ((n % m) + m) % m
+}
+
+function lm(lis, i) {
+    return lis[mod(i, lis.length)]
 }

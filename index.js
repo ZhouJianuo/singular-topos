@@ -45,8 +45,10 @@ app.get('/diy', async (req, res) => {
 
 app.get('/chaos', async (req, res) => {
     let result = {};
-    let { lang = '' } = req.query;
+    let { lang = '', id = '', floor = '' } = req.query;
     result.lang = lang;
+    result.cid = id;
+    result.fid = floor;
     result.title = 'HomDGCat Database';
     res.render('chaos', result);
 });
@@ -54,8 +56,10 @@ app.get('/chaos', async (req, res) => {
 
 app.get('/fiction', async (req, res) => {
     let result = {};
-    let { lang = '' } = req.query;
+    let { lang = '', id = '', floor = '' } = req.query;
     result.lang = lang;
+    result.cid = id;
+    result.fid = floor;
     result.title = 'HomDGCat Database';
     res.render('fiction', result);
 });

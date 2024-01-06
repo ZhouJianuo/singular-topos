@@ -4,11 +4,14 @@ block head
     script(src="/data/Kingdoms.js")
     script(src="/data/LevelCurves.js")
     script(src="/data/Monster.js")
+    script(src="/data/MonsterSkill.js")
     script(src="/data/Fiction.js")
     script(src="/javascripts/txt.js")
     link(rel="stylesheet", href="/stylesheets/fiction.css")
 block content
     input(type="hidden" id="LANG" value=lang)
+    input(type="hidden" id="CID" value=cid)
+    input(type="hidden" id="FID" value=fid)
     container
         h3
             span.title

@@ -121,6 +121,16 @@ schedule.active{
     width: 18px;
 }
 
+.elem_small {
+    height: 20px;
+    width: 20px;
+}
+
+.elem_ {
+    height: 22px;
+    width: 22px;
+}
+
 ::-webkit-scrollbar {
     height: 10px;
     width: 10px;
@@ -148,7 +158,11 @@ schedule.active{
 @media screen and (min-width: 600px) and (max-width: 800px) {
     .yuhengcup schedule { width: calc((100% - 40px) / 2) }
     .elem {
-        height: 20x;
+        height: 20px;
+        width: 20px;
+    }
+    .elem_small {
+        height: 20px;
         width: 20px;
     }
 }
@@ -156,6 +170,10 @@ schedule.active{
 @media screen and (min-width: 800px) {
     .yuhengcup schedule { width: calc((100% - 60px) / 3) }
     .elem {
+        height: 22px;
+        width: 22px;
+    }
+    .elem_small {
         height: 22px;
         width: 22px;
     }

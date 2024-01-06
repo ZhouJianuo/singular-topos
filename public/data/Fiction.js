@@ -25,7 +25,7 @@ var _fiction = [
                 },
                 "Desc": {
                     "CH": "角色的追加攻击造成的伤害提高<color style='color:#f29e38;'>50.0%</color>，且触发【怪诞逸闻】的效果后会额外再触发1次效果。",
-                    "EN": "Follow-up attacks deal <color style='color:#f29e38;'>0.5%</color> increased DMG. The Devious Flattery effect is triggered one additional time."
+                    "EN": "Follow-up attacks deal <color style='color:#f29e38;'>50.0%</color> increased DMG. The Devious Flattery effect is triggered one additional time."
                 }
             },
             {
@@ -45,7 +45,7 @@ var _fiction = [
                 },
                 "Desc": {
                     "CH": "角色施放追加攻击击中敌方目标时，我方全体行动提前<color style='color:#f29e38;'>12.0%</color>。该效果每次攻击只能触发1次。",
-                    "EN": "Whenever a character hits an enemy with a follow-up attack, all allies' actions are Advanced Forward by <color style='color:#f29e38;'>0.12%</color>. This effect can only be triggered once for each attack."
+                    "EN": "Whenever a character hits an enemy with a follow-up attack, all allies' actions are Advanced Forward by <color style='color:#f29e38;'>12.0%</color>. This effect can only be triggered once for each attack."
                 }
             }
         ],
@@ -1133,7 +1133,7 @@ var _fiction = [
             },
             "Desc": {
                 "CH": "敌方目标受到的持续伤害提高<color style='color:#f29e38;'>50.0%</color>。受到持续伤害的敌方目标造成的伤害降低<color style='color:#f29e38;'>35.0%</color>，被攻击后行动提前<color style='color:#f29e38;'>35.0%</color>。",
-                "EN": "Increases DoT taken by enemy targets by <color style='color:#f29e38;'>0.5%</color>. Enemy targets that receives DoT have their DMG dealt reduced by <color style='color:#f29e38;'>0.35%</color>. After they are attacked, their action is Advanced Forward by <color style='color:#f29e38;'>0.35%</color>."
+                "EN": "Increases DoT taken by enemy targets by <color style='color:#f29e38;'>50.0%</color>. Enemy targets that receives DoT have their DMG dealt reduced by <color style='color:#f29e38;'>35.0%</color>. After they are attacked, their action is Advanced Forward by <color style='color:#f29e38;'>35.0%</color>."
             }
         },
         "Buffs": [
@@ -1144,7 +1144,7 @@ var _fiction = [
                 },
                 "Desc": {
                     "CH": "敌方受到持续伤害时，对相邻目标造成原伤害<color style='color:#f29e38;'>60.0%</color>的同属性持续伤害。",
-                    "EN": "When an enemy takes DoT, adjacent targets also take DoT of the same type by an amount equal to <color style='color:#f29e38;'>0.6%</color> of the original DMG dealt."
+                    "EN": "When an enemy takes DoT, adjacent targets also take DoT of the same type by an amount equal to <color style='color:#f29e38;'>60.0%</color> of the original DMG dealt."
                 }
             },
             {
@@ -1164,7 +1164,7 @@ var _fiction = [
                 },
                 "Desc": {
                     "CH": "敌方受到持续伤害时，为当前生命值百分比最低的我方目标恢复等同于生命上限<color style='color:#f29e38;'>10.0%</color>的生命值，并使其行动提前<color style='color:#f29e38;'>8.0%</color>。",
-                    "EN": "When an enemy takes DoT, the ally with the lowest HP percentage will heal for <color style='color:#f29e38;'>0.1%</color> of their Max HP, and their action will be Advanced Forward by <color style='color:#f29e38;'>0.08%</color>."
+                    "EN": "When an enemy takes DoT, the ally with the lowest HP percentage will heal for <color style='color:#f29e38;'>10.0%</color> of their Max HP, and their action will be Advanced Forward by <color style='color:#f29e38;'>8.0%</color>."
                 }
             }
         ],
@@ -2290,7 +2290,7 @@ var _fiction = [
                 },
                 "Desc": {
                     "CH": "敌方目标进入战斗时，有<color style='color:#f29e38;'>80.0%</color>概率立刻叠加1层【爆裂】。",
-                    "EN": "When enemies enter battle, there is a <color style='color:#f29e38;'>0.8%</color> chance to instantly receive 1 stack of Shatter."
+                    "EN": "When enemies enter battle, there is a <color style='color:#f29e38;'>80.0%</color> chance to instantly receive 1 stack of Shatter."
                 }
             },
             {
@@ -2300,7 +2300,7 @@ var _fiction = [
                 },
                 "Desc": {
                     "CH": "持有【爆裂】的敌方目标被消灭时，使我方全体本场战斗中终结技造成的伤害提高<color style='color:#f29e38;'>15.0%</color>，最多叠加<color style='color:#f29e38;'>20.0</color>次。",
-                    "EN": "When enemy targets with Shatter are defeated, increases Ultimate DMG for all allies in this battle by <color style='color:#f29e38;'>0.15%</color>, stacking up to <color style='color:#f29e38;'>20.0</color> times."
+                    "EN": "When enemy targets with Shatter are defeated, increases Ultimate DMG for all allies in this battle by <color style='color:#f29e38;'>15.0%</color>, stacking up to <color style='color:#f29e38;'>20.0</color> times."
                 }
             }
         ],

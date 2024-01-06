@@ -14,7 +14,7 @@ var _chaos = [
             },
             "Desc": {
                 "CH": "每个波次或轮开始时，召唤1只扑满到场上，该扑满受到的普攻和持续伤害提高<color style='color:#f29e38;'>200.0%</color>。\n在消灭扑满后，若敌方目标处于<color style='color:#f29e38;'>裂伤</color>、<color style='color:#f29e38;'>触电</color>、<color style='color:#f29e38;'>灼烧</color>或<color style='color:#f29e38;'>风化</color>状态，使其当前承受的对应状态立即产生相当于原伤害<color style='color:#f29e38;'>100.0%</color>的伤害，并对敌方全体大概率施加裂伤、触电、灼烧、风化状态，持续<color style='color:#f29e38;'>3.0</color>回合。",
-                "EN": "Summons a Trotter at the beginning of each wave or each cycle. The Trotter takes <color style='color:#f29e38;'>2.0%</color> increased DMG from Basic ATKs and DoT effects.\nWhen the Trotter is defeated, if any enemies are in <color style='color:#f29e38;'>Bleed</color>, <color style='color:#f29e38;'>Shock</color>, <color style='color:#f29e38;'>Burn</color>, or <color style='color:#f29e38;'>Wind Shear</color> state, immediately deals DMG equal to <color style='color:#f29e38;'>1.0%</color> of the original DoT effect to them, with a high chance to inflict Bleed, Shock, Burn, or Wind Shear on all enemies for <color style='color:#f29e38;'>3.0</color> turn(s)."
+                "EN": "Summons a Trotter at the beginning of each wave or each cycle. The Trotter takes <color style='color:#f29e38;'>200.0%</color> increased DMG from Basic ATKs and DoT effects.\nWhen the Trotter is defeated, if any enemies are in <color style='color:#f29e38;'>Bleed</color>, <color style='color:#f29e38;'>Shock</color>, <color style='color:#f29e38;'>Burn</color>, or <color style='color:#f29e38;'>Wind Shear</color> state, immediately deals DMG equal to <color style='color:#f29e38;'>100.0%</color> of the original DoT effect to them, with a high chance to inflict Bleed, Shock, Burn, or Wind Shear on all enemies for <color style='color:#f29e38;'>3.0</color> turn(s)."
             }
         },
         "Floors": [
@@ -1396,7 +1396,7 @@ var _chaos = [
             },
             "Desc": {
                 "CH": "我方全体普攻和战技造成的伤害提高<color style='color:#f29e38;'>50.0%</color>，且每消耗1点战技点，为【记忆紊流】增加<color style='color:#f29e38;'>1.0</color>段攻击段数，最多增加<color style='color:#f29e38;'>10.0</color>段。\n每个轮开始时，每段攻击对随机敌方目标造成1次基于目标生命上限的伤害。",
-                "EN": "All allies' Basic ATKs and Skills deal <color style='color:#f29e38;'>0.5%</color> increased DMG. Whenever a Skill Point is consumed, Memory Turbulence gains <color style='color:#f29e38;'>1.0</color> hit(s) per action, up to a maximum of <color style='color:#f29e38;'>10.0</color>.\nAt the beginning of each Cycle, for each Hit Per Action, Memory Turbulence deals DMG to a random enemy based on the target's Max HP."
+                "EN": "All allies' Basic ATKs and Skills deal <color style='color:#f29e38;'>50.0%</color> increased DMG. Whenever a Skill Point is consumed, Memory Turbulence gains <color style='color:#f29e38;'>1.0</color> hit(s) per action, up to a maximum of <color style='color:#f29e38;'>10.0</color>.\nAt the beginning of each Cycle, for each Hit Per Action, Memory Turbulence deals DMG to a random enemy based on the target's Max HP."
             }
         },
         "Floors": [
@@ -2782,7 +2782,7 @@ var _chaos = [
             },
             "Desc": {
                 "CH": "每个波次或轮开始时，对敌方全体随机施加<color style='color:#f29e38;'>10.0</color>次以下负面效果：攻击力降低<color style='color:#f29e38;'>8.0%</color>、防御力降低<color style='color:#f29e38;'>8.0%</color>、速度降低<color style='color:#f29e38;'>8.0%</color>、效果抵抗降低<color style='color:#f29e38;'>8.0%</color>、受到追加攻击伤害提高<color style='color:#f29e38;'>20.0%</color>。每种效果最多叠加<color style='color:#f29e38;'>3.0</color>层，持续<color style='color:#f29e38;'>3.0</color>回合；并使1名我方「巡猎」或「毁灭」命途目标立即行动。",
-                "EN": "At the start of every wave or Cycle, randomly applies a debuff for <color style='color:#f29e38;'>10.0</color> time(s), selected from the following: reduce ATK by <color style='color:#f29e38;'>0.08%</color>, reduce DEF by <color style='color:#f29e38;'>0.08%</color>, reduce SPD by <color style='color:#f29e38;'>0.08%</color>, reduce Effect RES by <color style='color:#f29e38;'>0.08%</color>, or increase the received follow-up attack DMG by <color style='color:#f29e38;'>0.2%</color>. Each debuff can stack up to <color style='color:#f29e38;'>3.0</color> time(s) and lasts for <color style='color:#f29e38;'>3.0</color> turn(s). At the same time, enables 1 ally following either the Path of The Hunt or Path of Destruction to immediately take action."
+                "EN": "At the start of every wave or Cycle, randomly applies a debuff for <color style='color:#f29e38;'>10.0</color> time(s), selected from the following: reduce ATK by <color style='color:#f29e38;'>8.0%</color>, reduce DEF by <color style='color:#f29e38;'>8.0%</color>, reduce SPD by <color style='color:#f29e38;'>8.0%</color>, reduce Effect RES by <color style='color:#f29e38;'>8.0%</color>, or increase the received follow-up attack DMG by <color style='color:#f29e38;'>20.0%</color>. Each debuff can stack up to <color style='color:#f29e38;'>3.0</color> time(s) and lasts for <color style='color:#f29e38;'>3.0</color> turn(s). At the same time, enables 1 ally following either the Path of The Hunt or Path of Destruction to immediately take action."
             }
         },
         "Floors": [
@@ -7974,7 +7974,7 @@ var _chaos = [
             },
             "Desc": {
                 "CH": "我方目标施放终结技或发动追加攻击后，对受到攻击的敌方目标造成<color style='color:#f29e38;'>4.0</color>次等同于角色攻击力<color style='color:#f29e38;'>60.0%</color>的附加伤害。",
-                "EN": "After a character unleashes an Ultimate or a follow-up attack, deals Additional DMG equal to <color style='color:#f29e38;'>0.6%</color> of the attacking character's ATK to the attacked enemy target for <color style='color:#f29e38;'>4.0</color> times."
+                "EN": "After a character unleashes an Ultimate or a follow-up attack, deals Additional DMG equal to <color style='color:#f29e38;'>60.0%</color> of the attacking character's ATK to the attacked enemy target for <color style='color:#f29e38;'>4.0</color> times."
             }
         },
         "Floors": [
@@ -9221,7 +9221,7 @@ var _chaos = [
             },
             "Desc": {
                 "CH": "每个波次或轮开始时，使一个精英级别及以上的敌方目标获得【记忆印记】。持有【记忆印记】的目标受到伤害时，其他敌方目标受到等同于原伤害<color style='color:#f29e38;'>30.0%</color>的伤害，该效果持续到下个轮开始。",
-                "EN": "At the start of every Wave or Cycle, apply Memory Imprint to an enemy target of elite level or higher. When targets with Memory Imprint receive DMG, other enemy targets receive DMG equal to <color style='color:#f29e38;'>0.3%</color> of the original DMG. This effect lasts until the start of the next Cycle."
+                "EN": "At the start of every Wave or Cycle, apply Memory Imprint to an enemy target of elite level or higher. When targets with Memory Imprint receive DMG, other enemy targets receive DMG equal to <color style='color:#f29e38;'>30.0%</color> of the original DMG. This effect lasts until the start of the next Cycle."
             }
         },
         "Floors": [
@@ -10468,7 +10468,7 @@ var _chaos = [
             },
             "Desc": {
                 "CH": "我方相同目标连续行动时，获得1层【记忆印记】。【记忆印记】的持有者施放攻击后，每层【记忆印记】有<color style='color:#f29e38;'>40.0%</color>固定概率使目标陷入【离神】 状态，持续1回合。拥有【记忆印记】的目标造成的伤害提高<color style='color:#f29e38;'>40.0%</color>，该效果不可以叠加。在行动者改变后，移除场上所有【记忆印记】。\n【离神】：被视为冻结状态，期间无法行动，当该状态解除时，目标受到等同于生命上限<color style='color:#f29e38;'>15.0%</color>的冰属性附加伤害。",
-                "EN": "When the same ally acts consecutively, they receive 1 stack of Memory Imprint. When allies with Memory Imprint attack, every Memory Imprint stack has a <color style='color:#f29e38;'>0.4%</color> fixed chance to inflict the target with Dissociation that lasts for 1 turn. Allies with Memory Imprint deal <color style='color:#f29e38;'>0.4%</color> more DMG. This effect cannot be stacked. When a different ally acts, remove all Memory Imprint stacks on the field.\nDissociation: This state is considered as the Freeze state. Affected units cannot take action. When this state is removed, the affected target receives Additional Ice DMG equal to <color style='color:#f29e38;'>0.15%</color> of their respective Max HP."
+                "EN": "When the same ally acts consecutively, they receive 1 stack of Memory Imprint. When allies with Memory Imprint attack, every Memory Imprint stack has a <color style='color:#f29e38;'>40.0%</color> fixed chance to inflict the target with Dissociation that lasts for 1 turn. Allies with Memory Imprint deal <color style='color:#f29e38;'>40.0%</color> more DMG. This effect cannot be stacked. When a different ally acts, remove all Memory Imprint stacks on the field.\nDissociation: This state is considered as the Freeze state. Affected units cannot take action. When this state is removed, the affected target receives Additional Ice DMG equal to <color style='color:#f29e38;'>15.0%</color> of their respective Max HP."
             }
         },
         "Floors": [
@@ -11715,7 +11715,7 @@ var _chaos = [
             },
             "Desc": {
                 "CH": "每个波次或轮开始时，召唤1只扑满到场上，该扑满受到的战技和终结技伤害提高<color style='color:#f29e38;'>200.0%</color>。扑满被消灭后，使敌方全体陷入易伤状态，受到的伤害提高<color style='color:#f29e38;'>30.0%</color>，持续<color style='color:#f29e38;'>2.0</color>回合，该效果最多叠加<color style='color:#f29e38;'>2.0</color>层。",
-                "EN": "Summons a Trotter at the beginning of each Wave and each Cycle. The Trotter takes <color style='color:#f29e38;'>2.0%</color> more DMG from Skills and Ultimates. When defeated, it inflicts Vulnerability on all enemies, making them take <color style='color:#f29e38;'>0.3%</color> more DMG for <color style='color:#f29e38;'>2.0</color> turns. This effect stacks up to <color style='color:#f29e38;'>2.0</color> times."
+                "EN": "Summons a Trotter at the beginning of each Wave and each Cycle. The Trotter takes <color style='color:#f29e38;'>200.0%</color> more DMG from Skills and Ultimates. When defeated, it inflicts Vulnerability on all enemies, making them take <color style='color:#f29e38;'>30.0%</color> more DMG for <color style='color:#f29e38;'>2.0</color> turns. This effect stacks up to <color style='color:#f29e38;'>2.0</color> times."
             }
         },
         "Floors": [
@@ -13001,7 +13001,7 @@ var _chaos = [
             },
             "Desc": {
                 "CH": "每个波次或轮开始时，召唤1只扑满到场上，该扑满受到的普攻和终结技伤害提高<color style='color:#f29e38;'>200.0%</color>。扑满被消灭后，对敌方全体造成1次固定数值的伤害。",
-                "EN": "Summons a Trotter at the beginning of each Wave or each Cycle. The Trotter takes <color style='color:#f29e38;'>2.0%</color> more DMG from Basic ATKs and Ultimates. When defeated, it deals a set amount of DMG to all enemies."
+                "EN": "Summons a Trotter at the beginning of each Wave or each Cycle. The Trotter takes <color style='color:#f29e38;'>200.0%</color> more DMG from Basic ATKs and Ultimates. When defeated, it deals a set amount of DMG to all enemies."
             }
         },
         "Floors": [
@@ -14287,7 +14287,7 @@ var _chaos = [
             },
             "Desc": {
                 "CH": "每个波次或轮开始时，召唤1只扑满到场上，该扑满受到的普攻和持续伤害提高<color style='color:#f29e38;'>200.0%</color>。扑满被消灭后，为我方恢复<color style='color:#f29e38;'>2.0</color>个战技点。",
-                "EN": "Summons a Trotter at the beginning of each Wave or each Cycle. The Trotter takes <color style='color:#f29e38;'>2.0%</color> more DMG from Basic ATKs and DoT effects. When defeated, recovers <color style='color:#f29e38;'>2.0</color> Skill Points for all allies."
+                "EN": "Summons a Trotter at the beginning of each Wave or each Cycle. The Trotter takes <color style='color:#f29e38;'>200.0%</color> more DMG from Basic ATKs and DoT effects. When defeated, recovers <color style='color:#f29e38;'>2.0</color> Skill Points for all allies."
             }
         },
         "Floors": [
@@ -15573,7 +15573,7 @@ var _chaos = [
             },
             "Desc": {
                 "CH": "每个轮开始时，使敌方全体当前承受的所有持续伤害立即产生相当于原伤害<color style='color:#f29e38;'>200.0%</color>的伤害。",
-                "EN": "At the start of each Cycle, all enemies currently inflicted with DoT are immediately dealt DMG equal to <color style='color:#f29e38;'>2.0%</color> of the original DMG from all their DoT effects."
+                "EN": "At the start of each Cycle, all enemies currently inflicted with DoT are immediately dealt DMG equal to <color style='color:#f29e38;'>200.0%</color> of the original DMG from all their DoT effects."
             }
         },
         "Floors": [
@@ -17093,7 +17093,7 @@ var _chaos = [
             },
             "Desc": {
                 "CH": "我方角色施放追加攻击后，使受到攻击的敌方目标全属性抗性降低<color style='color:#f29e38;'>30.0%</color>，持续<color style='color:#f29e38;'>2.0</color>回合。",
-                "EN": "After an ally uses a follow-up attack, the All-Type RES of the attacked enemy target reduces by <color style='color:#f29e38;'>0.3%</color> for <color style='color:#f29e38;'>2.0</color> turn(s)."
+                "EN": "After an ally uses a follow-up attack, the All-Type RES of the attacked enemy target reduces by <color style='color:#f29e38;'>30.0%</color> for <color style='color:#f29e38;'>2.0</color> turn(s)."
             }
         },
         "Floors": [
@@ -18613,7 +18613,7 @@ var _chaos = [
             },
             "Desc": {
                 "CH": "我方目标受到攻击或消耗生命值时，获得1层【记忆印记】。每层【记忆印记】使目标受到的伤害降低<color style='color:#f29e38;'>12.0%</color>，该效果最多叠加<color style='color:#f29e38;'>3.0</color>层。\n每个轮开始时，依据我方目标当前最高的【记忆印记】层数对敌方全体造成固定数值的伤害，并解除我方全体所有的【记忆印记】。",
-                "EN": "When an ally is hit or consumes their own HP, gain 1 stack of Memory Imprint. Each stack of Memory Imprint reduces DMG taken by the target by <color style='color:#f29e38;'>0.12%</color>, up to <color style='color:#f29e38;'>3.0</color> stack(s).\nAt the start of each Cycle, deals a set amount of DMG to all enemies based on the highest Memory Imprint stack count on an ally. Then, remove all Memory Imprint stacks from all allies."
+                "EN": "When an ally is hit or consumes their own HP, gain 1 stack of Memory Imprint. Each stack of Memory Imprint reduces DMG taken by the target by <color style='color:#f29e38;'>12.0%</color>, up to <color style='color:#f29e38;'>3.0</color> stack(s).\nAt the start of each Cycle, deals a set amount of DMG to all enemies based on the highest Memory Imprint stack count on an ally. Then, remove all Memory Imprint stacks from all allies."
             }
         },
         "Floors": [
@@ -20133,7 +20133,7 @@ var _chaos = [
             },
             "Desc": {
                 "CH": "每个轮开始时，使当前生命值百分比大于<color style='color:#f29e38;'>80.0%</color>的我方目标攻击力提高<color style='color:#f29e38;'>50.0%</color>，持续<color style='color:#f29e38;'>1.0</color>回合。",
-                "EN": "At the start of every Cycle, allies whose current HP percentage is greater than <color style='color:#f29e38;'>0.8%</color> increase their ATK by <color style='color:#f29e38;'>0.5%</color> for <color style='color:#f29e38;'>1.0</color> turn(s)."
+                "EN": "At the start of every Cycle, allies whose current HP percentage is greater than <color style='color:#f29e38;'>80.0%</color> increase their ATK by <color style='color:#f29e38;'>50.0%</color> for <color style='color:#f29e38;'>1.0</color> turn(s)."
             }
         },
         "Floors": [
@@ -21682,7 +21682,7 @@ var _chaos = [
             },
             "Desc": {
                 "CH": "每个轮开始时，对敌方全体施加【记忆印记】，敌方目标每有1个其他负面效果，则额外叠加1层【记忆印记】，每层使目标防御力降低<color style='color:#f29e38;'>6.0%</color>，最多叠加<color style='color:#f29e38;'>5.0</color>层，该效果持续到下个轮开始。",
-                "EN": "Apply Memory Imprint to all enemies at the beginning of each Cycle. For each other debuff currently on the enemy, apply 1 extra stack of Memory Imprint to that enemy. Each stack reduces the target's DEF by <color style='color:#f29e38;'>0.06%</color> for a maximum of <color style='color:#f29e38;'>5.0</color> stacks. This effect lasts until the start of the next Cycle."
+                "EN": "Apply Memory Imprint to all enemies at the beginning of each Cycle. For each other debuff currently on the enemy, apply 1 extra stack of Memory Imprint to that enemy. Each stack reduces the target's DEF by <color style='color:#f29e38;'>6.0%</color> for a maximum of <color style='color:#f29e38;'>5.0</color> stacks. This effect lasts until the start of the next Cycle."
             }
         },
         "Floors": [
@@ -23231,7 +23231,7 @@ var _chaos = [
             },
             "Desc": {
                 "CH": "每个轮开始时，对敌方全体施加【记忆印记】，敌方目标每有1个其他负面效果，则额外叠加1层【记忆印记】，每层使目标造成的伤害降低<color style='color:#f29e38;'>4.0%</color>，最多叠加<color style='color:#f29e38;'>5.0</color>层，该效果持续到下个轮开始。",
-                "EN": "Apply Memory Imprint to all enemies at the beginning of each Cycle. For each other debuff currently on the enemy, apply 1 extra stack of Memory Imprint to that enemy. Each stack reduces the target's DMG dealt by <color style='color:#f29e38;'>0.04%</color> for a maximum of <color style='color:#f29e38;'>5.0</color> stacks. This effect lasts until the start of the next Cycle."
+                "EN": "Apply Memory Imprint to all enemies at the beginning of each Cycle. For each other debuff currently on the enemy, apply 1 extra stack of Memory Imprint to that enemy. Each stack reduces the target's DMG dealt by <color style='color:#f29e38;'>4.0%</color> for a maximum of <color style='color:#f29e38;'>5.0</color> stacks. This effect lasts until the start of the next Cycle."
             }
         },
         "Floors": [
@@ -24773,7 +24773,6 @@ var _chaos = [
             "CH": "天艟求仙迷航录",
             "EN": "The Voyage of Navis Astriger"
         },
-        "Buff": {},
         "Floors": [
             {
                 "Floor": 21,
@@ -24975,7 +24974,17 @@ var _chaos = [
                             ]
                         ]
                     }
-                ]
+                ],
+                "Buff": {
+                    "Name": {
+                        "CH": "记忆紊流",
+                        "EN": "Memory Turbulence"
+                    },
+                    "Desc": {
+                        "CH": "敌方目标所受伤害由<color style='color:#f29e38;'>敌方全体分摊</color>。我方目标施放<color style='color:#f29e38;'>群攻或扩散技能</color>时，造成的伤害提高<color style='color:#f29e38;'>50.0%</color>。",
+                        "EN": "DMG dealt to enemy targets are <color style='color:#f29e38;'>shared between all enemies</color>. When allies use <color style='color:#f29e38;'>AoE or Blast ATK abilities</color>, increases DMG dealt by <color style='color:#f29e38;'>50.0%</color>."
+                    }
+                }
             },
             {
                 "Floor": 22,
@@ -25096,7 +25105,17 @@ var _chaos = [
                             ]
                         ]
                     }
-                ]
+                ],
+                "Buff": {
+                    "Name": {
+                        "CH": "记忆紊流",
+                        "EN": "Memory Turbulence"
+                    },
+                    "Desc": {
+                        "CH": "敌方全体受到的<color style='color:#f29e38;'>持续伤害</color>提高<color style='color:#f29e38;'>50.0%</color>。\n每个轮开始时，大概率对敌方全体施加<color style='color:#f29e38;'>裂伤</color>、<color style='color:#f29e38;'>触电</color>、<color style='color:#f29e38;'>灼烧</color>、<color style='color:#f29e38;'>风化</color>状态，持续<color style='color:#f29e38;'>2.0</color>回合。",
+                        "EN": "All enemies receive increased <color style='color:#f29e38;'>DoT</color> by <color style='color:#f29e38;'>50.0%</color>.\nAt the start of every Cycle, there is a high chance of inflicting <color style='color:#f29e38;'>Bleed</color>, <color style='color:#f29e38;'>Shock</color>, <color style='color:#f29e38;'>Burn</color>, and <color style='color:#f29e38;'>Wind Shear</color> on all enemies. Status inflicted in this way will last for <color style='color:#f29e38;'>2.0</color> turn(s)."
+                    }
+                }
             },
             {
                 "Floor": 23,
@@ -25207,7 +25226,17 @@ var _chaos = [
                             ]
                         ]
                     }
-                ]
+                ],
+                "Buff": {
+                    "Name": {
+                        "CH": "记忆紊流",
+                        "EN": "Memory Turbulence"
+                    },
+                    "Desc": {
+                        "CH": "我方目标施放<color style='color:#f29e38;'>普攻</color>后，使自身及相邻的我方目标造成的伤害提高<color style='color:#f29e38;'>50.0%</color>，受到伤害降低<color style='color:#f29e38;'>50.0%</color>，持续<color style='color:#f29e38;'>1.0</color>回合。",
+                        "EN": "After an ally uses <color style='color:#f29e38;'>Basic ATK</color>, increases DMG dealt by them and adjacent allies by <color style='color:#f29e38;'>50.0%</color> and reduces their DMG received by <color style='color:#f29e38;'>50.0%</color> for <color style='color:#f29e38;'>1.0</color> turn(s)."
+                    }
+                }
             },
             {
                 "Floor": 24,
@@ -25371,7 +25400,17 @@ var _chaos = [
                             ]
                         ]
                     }
-                ]
+                ],
+                "Buff": {
+                    "Name": {
+                        "CH": "记忆紊流",
+                        "EN": "Memory Turbulence"
+                    },
+                    "Desc": {
+                        "CH": "我方目标施放<color style='color:#f29e38;'>终结技</color>或发动<color style='color:#f29e38;'>追加攻击</color>后，额外对受到攻击的敌方目标造成<color style='color:#f29e38;'>固定数值的伤害</color>。",
+                        "EN": "After an ally uses their <color style='color:#f29e38;'>Ultimate</color> or launches a <color style='color:#f29e38;'>follow-up attack</color>, additionally deals a <color style='color:#f29e38;'>set amount of DMG</color> to the attacked enemy target."
+                    }
+                }
             },
             {
                 "Floor": 25,
@@ -25484,7 +25523,17 @@ var _chaos = [
                             ]
                         ]
                     }
-                ]
+                ],
+                "Buff": {
+                    "Name": {
+                        "CH": "记忆紊流",
+                        "EN": "Memory Turbulence"
+                    },
+                    "Desc": {
+                        "CH": "每个轮开始时，召唤2名<color style='color:#f29e38;'>魔阴身士卒</color>或<color style='color:#f29e38;'>丰饶灵兽•娄金</color>。\n敌方目标被消灭后，对敌方全体造成<color style='color:#f29e38;'>固定数值的伤害</color>。",
+                        "EN": "At the start of every Cycle, summon 2 <color style='color:#f29e38;'>Mara-Struck Soldiers</color> or <color style='color:#f29e38;'>Abundance Sprite: Golden Hounds</color>.\nAfter an enemy target is defeated, deals a <color style='color:#f29e38;'>set amount of DMG</color> to all enemies."
+                    }
+                }
             },
             {
                 "Floor": 26,
@@ -25629,7 +25678,17 @@ var _chaos = [
                             ]
                         ]
                     }
-                ]
+                ],
+                "Buff": {
+                    "Name": {
+                        "CH": "记忆紊流",
+                        "EN": "Memory Turbulence"
+                    },
+                    "Desc": {
+                        "CH": "我方目标对我方任意目标<color style='color:#f29e38;'>施放战技</color>后，解除被施放战技目标的1个<color style='color:#f29e38;'>负面效果</color>。每解除1个我方目标的<color style='color:#f29e38;'>负面效果</color>，使我方全体造成的伤害提高<color style='color:#f29e38;'>20.0%</color>，该效果最多叠加<color style='color:#f29e38;'>10.0</color>层。\n在最终波次中消灭<color style='color:#f29e38;'>精英级别及以上的敌方目标</color>，将直接获得胜利。",
+                        "EN": "After an ally <color style='color:#f29e38;'>uses their Skill</color> on any ally (including on themselves), dispels 1 <color style='color:#f29e38;'>debuff</color> on the ally which the Skill was used on. For each <color style='color:#f29e38;'>debuff</color> dispelled, increases the DMG dealt by all allies by <color style='color:#f29e38;'>20.0%</color>. This effect can stack up to <color style='color:#f29e38;'>10.0</color> stacks.\nDefeating the <color style='color:#f29e38;'>Elite or stronger enemy</color> in the final wave will immediately result in victory."
+                    }
+                }
             }
         ]
     },
@@ -25639,7 +25698,6 @@ var _chaos = [
             "CH": "永屹之城遗秘",
             "EN": "The Last Vestiges of Towering Citadel"
         },
-        "Buff": {},
         "Floors": [
             {
                 "Floor": 1,
@@ -25732,7 +25790,17 @@ var _chaos = [
                         ]
                     }
                 ],
-                "Lower": []
+                "Lower": [],
+                "Buff": {
+                    "Name": {
+                        "CH": "记忆紊流",
+                        "EN": "Memory Turbulence"
+                    },
+                    "Desc": {
+                        "CH": "我方全体的风属性伤害提高<color style='color:#f29e38;'>50.0%</color>",
+                        "EN": "Increases the Wind DMG of all allies by <color style='color:#f29e38;'>50.0%</color>."
+                    }
+                }
             },
             {
                 "Floor": 2,
@@ -25819,7 +25887,17 @@ var _chaos = [
                         ]
                     }
                 ],
-                "Lower": []
+                "Lower": [],
+                "Buff": {
+                    "Name": {
+                        "CH": "记忆紊流",
+                        "EN": "Memory Turbulence"
+                    },
+                    "Desc": {
+                        "CH": "我方全体的冰属性伤害提高<color style='color:#f29e38;'>50.0%</color>",
+                        "EN": "Increases the Ice DMG of all allies by <color style='color:#f29e38;'>50.0%</color>."
+                    }
+                }
             },
             {
                 "Floor": 3,
@@ -25900,7 +25978,17 @@ var _chaos = [
                         ]
                     }
                 ],
-                "Lower": []
+                "Lower": [],
+                "Buff": {
+                    "Name": {
+                        "CH": "记忆紊流",
+                        "EN": "Memory Turbulence"
+                    },
+                    "Desc": {
+                        "CH": "我方全体的火属性伤害提高<color style='color:#f29e38;'>50.0%</color>",
+                        "EN": "Increases the Fire DMG of all allies by <color style='color:#f29e38;'>50.0%</color>."
+                    }
+                }
             },
             {
                 "Floor": 4,
@@ -25975,7 +26063,17 @@ var _chaos = [
                         ]
                     }
                 ],
-                "Lower": []
+                "Lower": [],
+                "Buff": {
+                    "Name": {
+                        "CH": "记忆紊流",
+                        "EN": "Memory Turbulence"
+                    },
+                    "Desc": {
+                        "CH": "我方全体的物理属性伤害提高<color style='color:#f29e38;'>50.0%</color>",
+                        "EN": "Increases the Physical DMG of all allies by <color style='color:#f29e38;'>50.0%</color>."
+                    }
+                }
             },
             {
                 "Floor": 5,
@@ -26050,7 +26148,17 @@ var _chaos = [
                         ]
                     }
                 ],
-                "Lower": []
+                "Lower": [],
+                "Buff": {
+                    "Name": {
+                        "CH": "记忆紊流",
+                        "EN": "Memory Turbulence"
+                    },
+                    "Desc": {
+                        "CH": "我方全体的雷属性伤害提高<color style='color:#f29e38;'>50.0%</color>",
+                        "EN": "Increases the Lightning DMG of all allies by <color style='color:#f29e38;'>50.0%</color>."
+                    }
+                }
             },
             {
                 "Floor": 6,
@@ -26128,7 +26236,17 @@ var _chaos = [
                         ]
                     }
                 ],
-                "Lower": []
+                "Lower": [],
+                "Buff": {
+                    "Name": {
+                        "CH": "记忆紊流",
+                        "EN": "Memory Turbulence"
+                    },
+                    "Desc": {
+                        "CH": "我方全体战技造成的伤害提高<color style='color:#f29e38;'>25.0%</color>，每个轮开始时，为我方恢复<color style='color:#f29e38;'>2.0</color>个战技点。",
+                        "EN": "Increases DMG dealt by all allies' Skill by <color style='color:#f29e38;'>25.0%</color>. At the beginning of each Cycle, regenerates <color style='color:#f29e38;'>2.0</color> Skill Point(s)."
+                    }
+                }
             },
             {
                 "Floor": 7,
@@ -26207,7 +26325,17 @@ var _chaos = [
                         ]
                     }
                 ],
-                "Lower": []
+                "Lower": [],
+                "Buff": {
+                    "Name": {
+                        "CH": "记忆紊流",
+                        "EN": "Memory Turbulence"
+                    },
+                    "Desc": {
+                        "CH": "我方全体终结技造成的伤害提高<color style='color:#f29e38;'>25.0%</color>，每个轮开始时，我方全体恢复<color style='color:#f29e38;'>20.0</color>点能量。",
+                        "EN": "Increases DMG dealt by all allies' Ultimate by <color style='color:#f29e38;'>25.0%</color>. At the beginning of each Cycle, all allies regenerate <color style='color:#f29e38;'>20.0</color> Energy."
+                    }
+                }
             },
             {
                 "Floor": 8,
@@ -26286,7 +26414,17 @@ var _chaos = [
                         ]
                     }
                 ],
-                "Lower": []
+                "Lower": [],
+                "Buff": {
+                    "Name": {
+                        "CH": "记忆紊流",
+                        "EN": "Memory Turbulence"
+                    },
+                    "Desc": {
+                        "CH": "每个轮开始时，使我方当前攻击力最高的目标造成的伤害提高<color style='color:#f29e38;'>60.0%</color>，持续<color style='color:#f29e38;'>1.0</color>回合。",
+                        "EN": "At the beginning of each Cycle, increases the DMG dealt by the ally with the highest ATK by <color style='color:#f29e38;'>60.0%</color> for <color style='color:#f29e38;'>1.0</color> turn(s)."
+                    }
+                }
             },
             {
                 "Floor": 9,
@@ -26370,7 +26508,17 @@ var _chaos = [
                         ]
                     }
                 ],
-                "Lower": []
+                "Lower": [],
+                "Buff": {
+                    "Name": {
+                        "CH": "记忆紊流",
+                        "EN": "Memory Turbulence"
+                    },
+                    "Desc": {
+                        "CH": "每个轮开始时，使我方每个目标下次攻击的弱点击破效率提高<color style='color:#f29e38;'>50.0%</color>。",
+                        "EN": "At the beginning of each Cycle, increases the Weakness Break efficiency of each ally's next attack by <color style='color:#f29e38;'>50.0%</color>."
+                    }
+                }
             },
             {
                 "Floor": 10,
@@ -26461,7 +26609,17 @@ var _chaos = [
                         ]
                     }
                 ],
-                "Lower": []
+                "Lower": [],
+                "Buff": {
+                    "Name": {
+                        "CH": "记忆紊流",
+                        "EN": "Memory Turbulence"
+                    },
+                    "Desc": {
+                        "CH": "每个轮开始时，使我方全体暴击率提高<color style='color:#f29e38;'>8.0%</color>，该效果最多叠加<color style='color:#f29e38;'>5.0</color>层。",
+                        "EN": "At the beginning of each Cycle, increases all allies' CRIT Rate by <color style='color:#f29e38;'>8.0%</color>. This effect can stack up to <color style='color:#f29e38;'>5.0</color> time(s)."
+                    }
+                }
             },
             {
                 "Floor": 11,
@@ -26604,7 +26762,17 @@ var _chaos = [
                             ]
                         ]
                     }
-                ]
+                ],
+                "Buff": {
+                    "Name": {
+                        "CH": "记忆紊流",
+                        "EN": "Memory Turbulence"
+                    },
+                    "Desc": {
+                        "CH": "每个轮开始时，为我方当前生命值最低的目标回复等同于其生命上限<color style='color:#f29e38;'>60.0%</color>的生命值。",
+                        "EN": "At the beginning of each Cycle, restores HP for the ally with the lowest HP by <color style='color:#f29e38;'>60.0%</color> of their Max HP."
+                    }
+                }
             },
             {
                 "Floor": 12,
@@ -26741,7 +26909,17 @@ var _chaos = [
                             ]
                         ]
                     }
-                ]
+                ],
+                "Buff": {
+                    "Name": {
+                        "CH": "记忆紊流",
+                        "EN": "Memory Turbulence"
+                    },
+                    "Desc": {
+                        "CH": "每个轮开始时，使我方每个目标下次攻击造成的伤害提高<color style='color:#f29e38;'>50.0%</color>。",
+                        "EN": "At the beginning of each Cycle, increases the DMG of every ally's next attack by <color style='color:#f29e38;'>50.0%</color>."
+                    }
+                }
             },
             {
                 "Floor": 13,
@@ -26878,7 +27056,17 @@ var _chaos = [
                             ]
                         ]
                     }
-                ]
+                ],
+                "Buff": {
+                    "Name": {
+                        "CH": "记忆紊流",
+                        "EN": "Memory Turbulence"
+                    },
+                    "Desc": {
+                        "CH": "每个轮开始时，为我方全体提供护盾量等同于各自生命上限<color style='color:#f29e38;'>25.0%</color>的护盾。",
+                        "EN": "At the beginning of each Cycle, provide a Shield to all allies that can absorb DMG equal to <color style='color:#f29e38;'>25.0%</color> of their respective Max HP."
+                    }
+                }
             },
             {
                 "Floor": 14,
@@ -26997,7 +27185,17 @@ var _chaos = [
                             ]
                         ]
                     }
-                ]
+                ],
+                "Buff": {
+                    "Name": {
+                        "CH": "记忆紊流",
+                        "EN": "Memory Turbulence"
+                    },
+                    "Desc": {
+                        "CH": "每个轮开始时，当前生命值百分比大于<color style='color:#f29e38;'>80.0%</color>的我方目标暴击率提高<color style='color:#f29e38;'>20.0%</color>，暴击伤害提高<color style='color:#f29e38;'>40.0%</color>，持续<color style='color:#f29e38;'>2.0</color>回合。",
+                        "EN": "At the beginning of each Cycle, increases CRIT Rate by <color style='color:#f29e38;'>20.0%</color> and CRIT DMG by <color style='color:#f29e38;'>40.0%</color> for allies with current HP higher than <color style='color:#f29e38;'>80.0%</color> of their Max HP for <color style='color:#f29e38;'>2.0</color> turn(s)."
+                    }
+                }
             },
             {
                 "Floor": 15,
@@ -27116,7 +27314,17 @@ var _chaos = [
                             ]
                         ]
                     }
-                ]
+                ],
+                "Buff": {
+                    "Name": {
+                        "CH": "记忆紊流",
+                        "EN": "Memory Turbulence"
+                    },
+                    "Desc": {
+                        "CH": "每个轮开始时，使敌方全体受到的伤害提高<color style='color:#f29e38;'>35.0%</color>，持续到敌方目标下一次行动开始。",
+                        "EN": "At the beginning of each Cycle, increases the DMG taken by all enemies by <color style='color:#f29e38;'>35.0%</color>, lasting until the enemies' next action begins."
+                    }
+                }
             }
         ]
     }

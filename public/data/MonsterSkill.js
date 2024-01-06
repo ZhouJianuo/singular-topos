@@ -1100,8 +1100,8 @@ var _monsterskill = {
             "EN": "Hoarfrost of Eternal Isolation"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>冻结</b>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>冻结持续伤害：<2>冰属性伤害。",
-            "EN": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Freeze</b> the target for <color style='color:#f29e38;'>2</color> turns. <br>Freeze DoT: <2> Ice DMG."
+            "CH": "对指定我方单体造成<1>冰属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>冻结</b>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>冻结附加伤害：<2>冰属性伤害。",
+            "EN": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Freeze</b> the target for <color style='color:#f29e38;'>2</color> turns. <br>Freeze Additional DMG: <2> Ice DMG."
         },
         "SP": 10.0,
         "Elem": "Ice",
@@ -1199,8 +1199,8 @@ var _monsterskill = {
             "EN": "Hoarfrost of Eternal Isolation"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>冻结</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>冻结持续伤害：<2>冰属性伤害。",
-            "EN": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Freeze</b> the target for <color style='color:#f29e38;'>1</color> turn. <br>Freeze DoT: <2> Ice DMG."
+            "CH": "对指定我方单体造成<1>冰属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>冻结</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>冻结附加伤害：<2>冰属性伤害。",
+            "EN": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Freeze</b> the target for <color style='color:#f29e38;'>1</color> turn. <br>Freeze Additional DMG: <2> Ice DMG."
         },
         "SP": 10.0,
         "Elem": "Ice",
@@ -1318,8 +1318,8 @@ var _monsterskill = {
             "EN": "Hoarfrost of Eternal Isolation"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>冻结</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>冻结持续伤害：<2>冰属性伤害。",
-            "EN": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Freeze</b> the target for <color style='color:#f29e38;'>1</color> turn. <br>Freeze DoT: <2> Ice DMG."
+            "CH": "对指定我方单体造成<1>冰属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>冻结</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>冻结附加伤害：<2>冰属性伤害。",
+            "EN": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Freeze</b> the target for <color style='color:#f29e38;'>1</color> turn. <br>Freeze Additional DMG: <2> Ice DMG."
         },
         "SP": 10.0,
         "Elem": "Ice",
@@ -1832,8 +1832,8 @@ var _monsterskill = {
             "EN": "Soulrend Coldstream"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受击者陷入<b>冻结</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>冻结持续伤害：<2>冰属性伤害。",
-            "EN": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Freeze</b> the target for <color style='color:#f29e38;'>1</color> turn. <br>Freeze DoT: <2> Ice DMG."
+            "CH": "对指定我方单体造成<1>冰属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受击者陷入<b>冻结</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>冻结附加伤害：<2>冰属性伤害。",
+            "EN": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Freeze</b> the target for <color style='color:#f29e38;'>1</color> turn. <br>Freeze Additional DMG: <2> Ice DMG."
         },
         "SP": 15.0,
         "Elem": "Ice",
@@ -5521,8 +5521,8 @@ var _monsterskill = {
             "EN": "Ironthorn"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的目标陷入<b>冻结</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>冻结持续伤害：<2>冰属性伤害。",
-            "EN": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Freeze</b> the target for <color style='color:#f29e38;'>1</color> turn.<br>Freeze DoT: <2> Ice DMG."
+            "CH": "对指定我方单体造成<1>冰属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的目标陷入<b>冻结</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>冻结附加伤害：<2>冰属性伤害。",
+            "EN": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Freeze</b> the target for <color style='color:#f29e38;'>1</color> turn.<br>Freeze Additional DMG: <2> Ice DMG."
         },
         "SP": 15.0,
         "Elem": "Ice",
@@ -7338,8 +7338,8 @@ var _monsterskill = {
             "EN": "Everwinter Rain"
         },
         "Desc": {
-            "CH": "只有在<color style='color:#f29e38;'>【冰点】</color>状态下才会施放该技能。<br>对我方全体造成<1>冰属性伤害，并随机选择至多2名未被冻结的角色，以<color style='color:#f29e38;'>60%基础概率使其陷入<b>冻结</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br><br>冻结持续伤害：<2>冰属性伤害。",
-            "EN": "Only available while in the <color style='color:#f29e38;'>Freezing Point</color> state. <br>Deals <1> Ice DMG to all targets. Choose a maximum of 2 characters currently not Frozen, and tries with <color style='color:#f29e38;'>60%</color> Base Chance to <b>Freeze</b> them for <color style='color:#f29e38;'>1</color> turn.<br>Freeze DoT: <2> Ice DMG."
+            "CH": "只有在<color style='color:#f29e38;'>【冰点】</color>状态下才会施放该技能。<br>对我方全体造成<1>冰属性伤害，并随机选择至多2名未被冻结的角色，以<color style='color:#f29e38;'>60%基础概率使其陷入<b>冻结</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br><br>冻结附加伤害：<2>冰属性伤害。",
+            "EN": "Only available while in the <color style='color:#f29e38;'>Freezing Point</color> state. <br>Deals <1> Ice DMG to all targets. Choose a maximum of 2 characters currently not Frozen, and tries with <color style='color:#f29e38;'>60%</color> Base Chance to <b>Freeze</b> them for <color style='color:#f29e38;'>1</color> turn.<br>Freeze Additional DMG: <2> Ice DMG."
         },
         "SP": 15.0,
         "Elem": "Ice",
@@ -7413,8 +7413,8 @@ var _monsterskill = {
             "EN": "Everwinter Rain"
         },
         "Desc": {
-            "CH": "只有在<color style='color:#f29e38;'>【冰点】</color>状态下才会施放该技能。<br>对我方全体造成<1>冰属性伤害，并随机选择至多2名未被冻结的角色，以<color style='color:#f29e38;'>80%基础概率使其陷入<b>冻结</b>状态，且行动延后<color style='color:#f29e38;'>100%</color>。<br><br>冻结持续伤害：<2>冰属性伤害，持续<color style='color:#f29e38;'>1</color>回合。",
-            "EN": "Only available while in the <color style='color:#f29e38;'>Freezing Point</color> state. <br>Deals <1> Ice DMG to all targets. Choose a maximum of 2 characters currently not Frozen, and tries with <color style='color:#f29e38;'>80%</color> Base Chance to <b>Freeze</b> them and delay their action by <color style='color:#f29e38;'>100%</color>.<br>Freeze DoT: <2> Ice DMG, lasts <color style='color:#f29e38;'>1</color> turn."
+            "CH": "只有在<color style='color:#f29e38;'>【冰点】</color>状态下才会施放该技能。<br>对我方全体造成<1>冰属性伤害，并随机选择至多2名未被冻结的角色，以<color style='color:#f29e38;'>80%基础概率使其陷入<b>冻结</b>状态，且行动延后<color style='color:#f29e38;'>100%</color>。<br><br>冻结附加伤害：<2>冰属性伤害，持续<color style='color:#f29e38;'>1</color>回合。",
+            "EN": "Only available while in the <color style='color:#f29e38;'>Freezing Point</color> state. <br>Deals <1> Ice DMG to all targets. Choose a maximum of 2 characters currently not Frozen, and tries with <color style='color:#f29e38;'>80%</color> Base Chance to <b>Freeze</b> them and delay their action by <color style='color:#f29e38;'>100%</color>.<br>Freeze Additional DMG: <2> Ice DMG, lasts <color style='color:#f29e38;'>1</color> turn."
         },
         "SP": 15.0,
         "Elem": "Ice",
@@ -8425,7 +8425,7 @@ var _monsterskill = {
             "EN": "End of Bow"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>量子属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>纠缠</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>纠缠基础倍率：<2>量子属性伤害，行动延后<color style='color:#f29e38;'>50%</color>。",
+            "CH": "对指定我方单体造成<1>量子属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>纠缠</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>纠缠基础伤害：<2>量子属性伤害，行动延后<color style='color:#f29e38;'>50%</color>。",
             "EN": "Deals <1> Quantum DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Entanglement</b> for <color style='color:#f29e38;'>1</color> turn.<br>Entanglement Base DMG: <2> Quantum DMG, action delayed by <color style='color:#f29e38;'>50%</color>."
         },
         "SP": 25.0,
@@ -8513,7 +8513,7 @@ var _monsterskill = {
             "EN": "End of Bow"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>量子属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>纠缠</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>纠缠基础倍率：<2>量子属性伤害，行动延后<color style='color:#f29e38;'>100%</color>。",
+            "CH": "对指定我方单体造成<1>量子属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>纠缠</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>纠缠基础伤害：<2>量子属性伤害，行动延后<color style='color:#f29e38;'>100%</color>。",
             "EN": "Deals <1> Quantum DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Entanglement</b> for <color style='color:#f29e38;'>1</color> turn.<br>Entanglement Base DMG: <2> Quantum DMG, action delayed by <color style='color:#f29e38;'>100%</color>."
         },
         "SP": 25.0,
@@ -10579,7 +10579,7 @@ var _monsterskill = {
             "EN": "Fallen Star's Visit"
         },
         "Desc": {
-            "CH": "对我方单体造成<1>量子属性伤害，同时有<color style='color:#f29e38;'>30%</color>基础概率使该目标陷入<b>纠缠</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>纠缠基础倍率：<2>量子属性伤害，行动延后<color style='color:#f29e38;'>30%</color>。",
+            "CH": "对我方单体造成<1>量子属性伤害，同时有<color style='color:#f29e38;'>30%</color>基础概率使该目标陷入<b>纠缠</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>纠缠基础伤害：<2>量子属性伤害，行动延后<color style='color:#f29e38;'>30%</color>。",
             "EN": "Deals <1> Quantum DMG to a single target, with a <color style='color:#f29e38;'>30%</color> Base Chance to inflict <b>Entanglement</b> for <color style='color:#f29e38;'>1</color> turn.<br>Entanglement Base DMG: <2> Quantum DMG, action delayed by <color style='color:#f29e38;'>30%</color>."
         },
         "SP": 10.0,
@@ -10599,7 +10599,7 @@ var _monsterskill = {
             "EN": "When the Dawn Is Dark"
         },
         "Desc": {
-            "CH": "对我方单体造成<1>量子属性伤害，同时有<color style='color:#f29e38;'>50%</color>基础概率使该目标陷入<b>纠缠</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>纠缠基础倍率：<2>量子属性伤害，行动延后<color style='color:#f29e38;'>30%</color>。",
+            "CH": "对我方单体造成<1>量子属性伤害，同时有<color style='color:#f29e38;'>50%</color>基础概率使该目标陷入<b>纠缠</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>纠缠基础伤害：<2>量子属性伤害，行动延后<color style='color:#f29e38;'>30%</color>。",
             "EN": "Deals <1> Quantum DMG to a single target, with a <color style='color:#f29e38;'>50%</color> Base Chance to inflict <b>Entanglement</b> for <color style='color:#f29e38;'>1</color> turn.<br>Entanglement Base DMG: <2> Quantum DMG, action delayed by <color style='color:#f29e38;'>30%</color>."
         },
         "SP": 15.0,
@@ -11071,8 +11071,8 @@ var _monsterskill = {
             "EN": "Swallow Return"
         },
         "Desc": {
-            "CH": "召唤4把<color style='color:#f29e38;'>【飞剑】</color>，获得<color style='color:#f29e38;'>【剑阵】</color>效果提升速度，并使【飞剑】获得<color style='color:#f29e38;'>【阵眼】</color>。<br>第三阶段时额外使一支【飞剑】额外获得<color style='color:#f29e38;'>【砥砺】</color>。<br><br>剑阵：锁韧性，速度提升<color style='color:#f29e38;'>60</color>点。所有飞剑被消灭后解除，并流失<color style='color:#f29e38;'>20%</color>生命值。<br>砥砺：韧性从1变为2，攻击命中目标时，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>冻结</b>状态。冻结持续伤害：<1>冰属性伤害，持续<color style='color:#f29e38;'>1</color>回合。",
-            "EN": "Summons 4 <color style='color:#f29e38;'>Flying Swords</color>, applies <color style='color:#f29e38;'>Formation Core</color> to the Flying Swords, and applies the <color style='color:#f29e38;'>Sword Formation</color> effect to self. <br>In Phase 3, additionally grant <color style='color:#f29e38;'>Ordeal</color> to one Flying Sword.<br><br>Sword Formation: Toughness locked, SPD increased by <color style='color:#f29e38;'>60%</color>. When all Flying Swords are destroyed, dispels this and lose <color style='color:#f29e38;'>20%</color> HP.<br>Ordeal: Toughness increased from 1 to 2. When attacking, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Freeze</b>. Freeze DoT: <1> Ice DMG, lasts <color style='color:#f29e38;'>1</color> turn."
+            "CH": "召唤4把<color style='color:#f29e38;'>【飞剑】</color>，获得<color style='color:#f29e38;'>【剑阵】</color>效果提升速度，并使【飞剑】获得<color style='color:#f29e38;'>【阵眼】</color>。<br>第三阶段时额外使一支【飞剑】额外获得<color style='color:#f29e38;'>【砥砺】</color>。<br><br>剑阵：锁韧性，速度提升<color style='color:#f29e38;'>60</color>点。所有飞剑被消灭后解除，并流失<color style='color:#f29e38;'>20%</color>生命值。<br>砥砺：韧性从1变为2，攻击命中目标时，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>冻结</b>状态。冻结附加伤害：<1>冰属性伤害，持续<color style='color:#f29e38;'>1</color>回合。",
+            "EN": "Summons 4 <color style='color:#f29e38;'>Flying Swords</color>, applies <color style='color:#f29e38;'>Formation Core</color> to the Flying Swords, and applies the <color style='color:#f29e38;'>Sword Formation</color> effect to self. <br>In Phase 3, additionally grant <color style='color:#f29e38;'>Ordeal</color> to one Flying Sword.<br><br>Sword Formation: Toughness locked, SPD increased by <color style='color:#f29e38;'>60%</color>. When all Flying Swords are destroyed, dispels this and lose <color style='color:#f29e38;'>20%</color> HP.<br>Ordeal: Toughness increased from 1 to 2. When attacking, has a <color style='color:#f29e38;'>100%</color> Base Chance to inflict <b>Freeze</b>. Freeze Additional DMG: <1> Ice DMG, lasts <color style='color:#f29e38;'>1</color> turn."
         },
         "SP": 10.0,
         "Status": [
@@ -11095,8 +11095,8 @@ var _monsterskill = {
             "EN": "Ironthorn"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使目标陷入<b>冻结</b>状态。冻结持续伤害：<2>冰属性伤害，持续<color style='color:#f29e38;'>1</color>回合。",
-            "EN": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Freeze</b> the target. Freeze DoT: <2> Ice DMG, lasts <color style='color:#f29e38;'>1</color> turn."
+            "CH": "对指定我方单体造成<1>冰属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使目标陷入<b>冻结</b>状态。冻结附加伤害：<2>冰属性伤害，持续<color style='color:#f29e38;'>1</color>回合。",
+            "EN": "Deals <1> Ice DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to <b>Freeze</b> the target. Freeze Additional DMG: <2> Ice DMG, lasts <color style='color:#f29e38;'>1</color> turn."
         },
         "SP": 15.0,
         "Elem": "Ice",
@@ -14779,8 +14779,8 @@ var _monsterskill = {
             "EN": "Ignite Stove"
         },
         "Desc": {
-            "CH": "进入蓄力状态。若在下次行动时未将【炉灶过热】叠加至<color style='color:#f29e38;'>6</color>层，则释放<color style='color:#f29e38;'>【烈焰爆炒】</color>，并清除所有【炉灶过热】和【炉灶加温】层数。",
-            "EN": "Enters a Charge state. In the next action, uses <color style='color:#f29e38;'>Flaming Stir-Fry</color> if Stove Overheating has not reached <color style='color:#f29e38;'>6</color> stacks, then clears all Stove Heating and Stove Overheating stacks."
+            "CH": "进入蓄力状态。若在下次行动时未将<color style='color:#f29e38;'>【炉灶过热】</color>叠加至<color style='color:#f29e38;'>6</color>层，则释放<color style='color:#f29e38;'>【烈焰爆炒】</color>，并清除所有【炉灶过热】和【炉灶加温】层数。",
+            "EN": "Enters a Charge state. In the next action, uses <color style='color:#f29e38;'>Flaming Stir-Fry</color> if <color style='color:#f29e38;'>Stove Overheating</color> has not reached <color style='color:#f29e38;'>6</color> stacks, then clears all Stove Heating and Stove Overheating stacks."
         },
         "SP": 0,
         "Elem": "Fire"
@@ -14809,8 +14809,8 @@ var _monsterskill = {
             "EN": "Kitchen Mishap"
         },
         "Desc": {
-            "CH": "进入蓄力状态后，当【炉灶过热】叠加至<color style='color:#f29e38;'>6</color>层时，对自身造成<color style='color:#f29e38;'>30%生命值上限</color>的火属性伤害和<color style='color:#f29e38;'>10</color>点火属性削韧，对敌方其他目标造成<color style='color:#f29e38;'>5%生命值上限</color>的火属性伤害和<color style='color:#f29e38;'>3</color>点火属性削韧，并使自身防御降低<color style='color:#f29e38;'>50%</color>，同时清除所有【炉灶加温】和【炉灶过热】层数。",
-            "EN": "After entering the Charge state, once Stove Overheating has <color style='color:#f29e38;'>6</color> stacks, deals <color style='color:#f29e38;'>30% Max HP</color> Fire DMG and <color style='color:#f29e38;'>10</color> Fire Toughness DMG to self, deals <color style='color:#f29e38;'>5% Max HP</color> Fire DMG and <color style='color:#f29e38;'>3</color> Fire Toughness DMG to other friendly units, and decreases own DEF by <color style='color:#f29e38;'>50%</color>.<br>Then, clears all Stove Heating and Stove Overheating stacks."
+            "CH": "进入蓄力状态后，当<color style='color:#f29e38;'>【炉灶过热】</color>叠加至<color style='color:#f29e38;'>6</color>层时，对自身造成<color style='color:#f29e38;'>30%生命值上限</color>的火属性伤害和<color style='color:#f29e38;'>10</color>点火属性削韧，对敌方其他目标造成<color style='color:#f29e38;'>5%生命值上限</color>的火属性伤害和<color style='color:#f29e38;'>3</color>点火属性削韧，并使自身防御降低<color style='color:#f29e38;'>50%</color>，同时清除所有【炉灶加温】和【炉灶过热】层数。",
+            "EN": "After entering the Charge state, once <color style='color:#f29e38;'>Stove Overheating</color> has <color style='color:#f29e38;'>6</color> stacks, deals <color style='color:#f29e38;'>30% Max HP</color> Fire DMG and <color style='color:#f29e38;'>10</color> Fire Toughness DMG to self, deals <color style='color:#f29e38;'>5% Max HP</color> Fire DMG and <color style='color:#f29e38;'>3</color> Fire Toughness DMG to other friendly units, and decreases own DEF by <color style='color:#f29e38;'>50%</color>.<br>Then, clears all Stove Heating and Stove Overheating stacks."
         },
         "SP": 0,
         "Elem": "Fire"
@@ -14834,8 +14834,8 @@ var _monsterskill = {
             "EN": "Inferno Stove"
         },
         "Desc": {
-            "CH": "在<b>【文火】</b>期间，受到攻击或持续伤害会积累1层【炉灶加温】。积累<color style='color:#f29e38;'>6</color>层后进入<b>【急火】</b>状态，期间受到攻击或持续伤害会积累1层【炉灶过热】，攻击命中角色时有<color style='color:#f29e38;'>50%</color>基础概率使目标减速<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
-            "EN": "When in the <b>Simmer</b> state, receiving attacks or DoT will increase <color style='color:#f29e38;'>Stove Heating</color> by 1 stack. When Stove Heating reaches <color style='color:#f29e38;'>6</color> stacks, enters the <b>Boil</b> state. In <b>Boil</b> state, receiving attacks or DoT will increase <color style='color:#f29e38;'>Stove Overheating</color> by 1 stack, and has a <color style='color:#f29e38;'>50%</color> Base Chance to reduce the target's SPD by <color style='color:#f29e38;'>20%</color> when attacking, lasting <color style='color:#f29e38;'>2</color> turns."
+            "CH": "在<b>【文火】</b>期间，受到攻击或持续伤害会积累1层【炉灶加温】。<br>积累<color style='color:#f29e38;'>6</color>层后进入<b>【急火】</b>状态，此时受到攻击或持续伤害会改为积累1层【炉灶过热】，攻击命中角色时有<color style='color:#f29e38;'>50%</color>基础概率使目标减速<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+            "EN": "When in the <b>Simmer</b> state, receiving attacks or DoT will increase <color style='color:#f29e38;'>Stove Heating</color> by 1 stack. When Stove Heating reaches <color style='color:#f29e38;'>6</color> stacks, enters the <b>Boil</b> state.<br>In <b>Boil</b> state, receiving attacks or DoT will instead increase <color style='color:#f29e38;'>Stove Overheating</color> by 1 stack, and has a <color style='color:#f29e38;'>50%</color> Base Chance to reduce the target's SPD by <color style='color:#f29e38;'>20%</color> when attacking, lasting <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 0,
         "Status": [
@@ -14944,7 +14944,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "对我方全体造成<1>火属性伤害，并有<color style='color:#f29e38;'>120%</color>基础概率使受到攻击的我方目标陷入<b>灼烧</b>状态。<br>灼烧持续伤害：<2>火属性伤害，持续<color style='color:#f29e38;'>3</color>回合。",
-            "EN": "Deals <1> Fire DMG to all targets and has <color style='color:#f29e38;'>120%</color> Base Chance of inflicting <b>Burn</b>.\bBurn DoT: <2> Fire DMG, lasing <color style='color:#f29e38;'>3</color> turns."
+            "EN": "Deals <1> Fire DMG to all targets and has <color style='color:#f29e38;'>120%</color> Base Chance of inflicting <b>Burn</b>.<br>Burn DoT: <2> Fire DMG, lasing <color style='color:#f29e38;'>3</color> turns."
         },
         "SP": 20.0,
         "Elem": "Fire",
@@ -17457,8 +17457,8 @@ var _monsterskill = {
             "EN": "Limited Free Drink"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害，如果目标身上拥有护盾，则造成伤害后还会对自身造成<color style='color:#f29e38;'>20%生命值上限</color>的冰属性伤害。",
-            "EN": "Deals <1> Ice DMG to a single target. If the target has Shield, will deal <color style='color:#f29e38;'>20% Max HP</color> Ice DMG to self."
+            "CH": "对指定我方单体造成<1>冰属性伤害，并使其行动提前<color style='color:#f29e38;'>50%</color>。<br>如果目标身上拥有护盾，则造成伤害后还会对自身造成<color style='color:#f29e38;'>20%生命值上限</color>的冰属性伤害。",
+            "EN": "Deals <1> Ice DMG to a single target and advance their action by <color style='color:#f29e38;'>50%</color>.<br>If the target has Shield, will deal <color style='color:#f29e38;'>20% Max HP</color> Ice DMG to self."
         },
         "SP": 10.0,
         "Elem": "Ice",
@@ -17473,8 +17473,8 @@ var _monsterskill = {
             "EN": "Bottomless Free Drink"
         },
         "Desc": {
-            "CH": "对被监视的我方单体造成<1>冰属性伤害（分4次伤害）。每次造成伤害后，如果目标身上拥有护盾，则会对自身造成<color style='color:#f29e38;'>20%生命值上限</color>的冰属性伤害。",
-            "EN": "Deals <1> Ice DMG to the Marked target (in 4 hits). After every hit, if the target has Shield, will deal <color style='color:#f29e38;'>20% Max HP</color> Ice DMG to self."
+            "CH": "对被监视的我方单体造成<1>冰属性伤害（分4次伤害），并使其行动提前<color style='color:#f29e38;'>50%</color>。<br>每次造成伤害后，如果目标身上拥有护盾，则会对自身造成<color style='color:#f29e38;'>20%生命值上限</color>的冰属性伤害，并对随机敌方造成<color style='color:#f29e38;'>1%生命值上限</color>的冰属性伤害。",
+            "EN": "Deals <1> Ice DMG to the Marked target (in 4 hits) and advance their action by <color style='color:#f29e38;'>50%</color>.<br> After every hit, if the target has Shield, will deal <color style='color:#f29e38;'>20% Max HP</color> Ice DMG to self and <color style='color:#f29e38;'>1% Max HP</color> Ice DMG to a random ally."
         },
         "SP": 10.0,
         "Elem": "Ice",

@@ -319,7 +319,8 @@ $(function () {
                                                 {
                                                     select: '',
                                                     options: _curvedesc[lang],
-                                                    class: 'base_stat_hlg'
+                                                    class: 'base_stat_hlg',
+                                                    value: HLG
                                                 }
                                             ]
                                         },
@@ -583,7 +584,8 @@ $(function () {
                         {
                             select: '',
                             options: _curvedesc[lang],
-                            class: 'input_hlg'
+                            class: 'input_hlg',
+                            value: HLG
                         }
                     ],
                     class: 'DMG_input'
@@ -680,7 +682,13 @@ $(function () {
                             td: props.HP[lang]
                         },
                         {
-                            td: _hp.toFixed(0),
+                            td: function () {
+                                var s = _hp.toFixed(0)
+                                if (cur_mon.HPCount && cur_mon.HPCount > 1) {
+                                    s += ' ×' + cur_mon.HPCount
+                                }
+                                return s
+                            },
                             class: 'stat_'
                         }
                     ]
