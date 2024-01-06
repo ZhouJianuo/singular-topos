@@ -251,7 +251,7 @@ $(function () {
                             div: [
                                 {
                                     img: 'images/' + cur_mon.Figure,
-                                    height: '320px',
+                                    class: 'figure',
                                     when: cur_mon.Figure != undefined
                                 },
                                 {
