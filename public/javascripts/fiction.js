@@ -493,8 +493,14 @@ $(function () {
                         {
                             div: [
                                 {
+                                    img: 'images/' + cur_mon.Figure,
+                                    height: '320px',
+                                    when: cur_mon.Figure != undefined
+                                },
+                                {
                                     img: 'images/' + cur_mon.Icon,
-                                    height: '80px'
+                                    height: '80px',
+                                    when: cur_mon.Figure == undefined
                                 },
                                 {
                                     p: 'ID ' + cur_mon._id,
