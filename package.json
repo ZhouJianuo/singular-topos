@@ -13,6 +13,8 @@
         "production": "node index"
     },
     "dependencies": {
+        "chart.js": "^4.4.1",
+        "echarts": "^5.4.3",
         "express": "~4.17.1",
         "ip2region": "^2.3.0",
         "middleware": "^1.0.0",

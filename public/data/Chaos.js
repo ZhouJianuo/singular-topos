@@ -27494,970 +27494,1114 @@ var _chaosschedule = [
 ]
 
 var _chaoshp = {
-    "1": [
-        {
-            "_id": 110,
-            "HPSingle": 38428,
-            "HPMulti": 29508
+    "1": {
+        "Name": {
+            "CH": [
+                "寒铁砥砺",
+                "蹈冰寻火",
+                "风暴止息",
+                "孤航天海",
+                "泪雨长战",
+                "药王垂迹",
+                "迷梦造舸",
+                "天裂一射",
+                "魔阴空劫",
+                "生劫火劫",
+                "建木降临",
+                "镇伏玄根",
+                "万载盟誓",
+                "饮月之乱",
+                "藏于深空之秘",
+                "重燃之光",
+                "难舍梦乡",
+                "一晌荒宴"
+            ],
+            "EN": [
+                "Coldiron Tribulation",
+                "Hyperborean Search for Warmth",
+                "Stormquell",
+                "Adrift in Astral Seas",
+                "Raintear Strife",
+                "Traces of Sanctus Medicus",
+                "Ethereal Shipcraft",
+                "A Shot From the Sky",
+                "Mara and Null",
+                "Living and Flaming Catastrophes",
+                "Ambrosial Arbor's Arrival",
+                "Divine Root Subdual",
+                "Oath of Eternal Alliance",
+                "Sedition of Imbibitor Lunae",
+                "Enigma in Deep Space",
+                "Light of Reignition",
+                "Dreamland of Longing",
+                "Eve of Wanton Feast"
+            ]
         },
-        {
-            "_id": 111,
-            "HPSingle": 38428,
-            "HPMulti": 29508
-        },
-        {
-            "_id": 112,
-            "HPSingle": 38428,
-            "HPMulti": 29508
-        },
-        {
-            "_id": 113,
-            "HPSingle": 39300,
-            "HPMulti": 30179
-        },
-        {
-            "_id": 114,
-            "HPSingle": 39300,
-            "HPMulti": 30179
-        },
-        {
-            "_id": 115,
-            "HPSingle": 39300,
-            "HPMulti": 30179
-        },
-        {
-            "_id": 1001,
-            "HPSingle": 37824,
-            "HPMulti": 30179
-        },
-        {
-            "_id": 1002,
-            "HPSingle": 37824,
-            "HPMulti": 30179
-        },
-        {
-            "_id": 1003,
-            "HPSingle": 37824,
-            "HPMulti": 30179
-        },
-        {
-            "_id": 1004,
-            "HPSingle": 41580,
-            "HPMulti": 34203
-        },
-        {
-            "_id": 1005,
-            "HPSingle": 41580,
-            "HPMulti": 34203
-        },
-        {
-            "_id": 1006,
-            "HPSingle": 41580,
-            "HPMulti": 34203
-        },
-        {
-            "_id": 1007,
-            "HPSingle": 62531,
-            "HPMulti": 37019
-        },
-        {
-            "_id": 1008,
-            "HPSingle": 62531,
-            "HPMulti": 37019
-        },
-        {
-            "_id": 1009,
-            "HPSingle": 65669,
-            "HPMulti": 37019
-        },
-        {
-            "_id": 1010,
-            "HPSingle": 63496,
-            "HPMulti": 39434
-        },
-        {
-            "_id": 1011,
-            "HPSingle": 59714,
-            "HPMulti": 36215
-        },
-        {
-            "_id": 1012,
-            "HPSingle": 74643,
-            "HPMulti": 48286
+        "Single": [
+            38428,
+            38428,
+            38428,
+            39300,
+            39300,
+            39300,
+            37824,
+            37824,
+            37824,
+            41580,
+            41580,
+            41580,
+            62531,
+            62531,
+            65669,
+            63496,
+            59714,
+            74643
+        ],
+        "Multi": [
+            29508,
+            29508,
+            29508,
+            30179,
+            30179,
+            30179,
+            30179,
+            30179,
+            30179,
+            34203,
+            34203,
+            34203,
+            37019,
+            37019,
+            37019,
+            39434,
+            36215,
+            48286
+        ],
+        "Index": {
+            "110": 0,
+            "111": 1,
+            "112": 2,
+            "113": 3,
+            "114": 4,
+            "115": 5,
+            "1001": 6,
+            "1002": 7,
+            "1003": 8,
+            "1004": 9,
+            "1005": 10,
+            "1006": 11,
+            "1007": 12,
+            "1008": 13,
+            "1009": 14,
+            "1010": 15,
+            "1011": 16,
+            "1012": 17
         }
-    ],
-    "2": [
-        {
-            "_id": 110,
-            "HPSingle": 44611,
-            "HPMulti": 33127
+    },
+    "2": {
+        "Name": {
+            "CH": [
+                "寒铁砥砺",
+                "蹈冰寻火",
+                "风暴止息",
+                "孤航天海",
+                "泪雨长战",
+                "药王垂迹",
+                "迷梦造舸",
+                "天裂一射",
+                "魔阴空劫",
+                "生劫火劫",
+                "建木降临",
+                "镇伏玄根",
+                "万载盟誓",
+                "饮月之乱",
+                "藏于深空之秘",
+                "重燃之光",
+                "难舍梦乡",
+                "一晌荒宴"
+            ],
+            "EN": [
+                "Coldiron Tribulation",
+                "Hyperborean Search for Warmth",
+                "Stormquell",
+                "Adrift in Astral Seas",
+                "Raintear Strife",
+                "Traces of Sanctus Medicus",
+                "Ethereal Shipcraft",
+                "A Shot From the Sky",
+                "Mara and Null",
+                "Living and Flaming Catastrophes",
+                "Ambrosial Arbor's Arrival",
+                "Divine Root Subdual",
+                "Oath of Eternal Alliance",
+                "Sedition of Imbibitor Lunae",
+                "Enigma in Deep Space",
+                "Light of Reignition",
+                "Dreamland of Longing",
+                "Eve of Wanton Feast"
+            ]
         },
-        {
-            "_id": 111,
-            "HPSingle": 44611,
-            "HPMulti": 33127
-        },
-        {
-            "_id": 112,
-            "HPSingle": 44611,
-            "HPMulti": 33127
-        },
-        {
-            "_id": 113,
-            "HPSingle": 43433,
-            "HPMulti": 31654
-        },
-        {
-            "_id": 114,
-            "HPSingle": 43433,
-            "HPMulti": 31654
-        },
-        {
-            "_id": 115,
-            "HPSingle": 43433,
-            "HPMulti": 31654
-        },
-        {
-            "_id": 1001,
-            "HPSingle": 40488,
-            "HPMulti": 32391
-        },
-        {
-            "_id": 1002,
-            "HPSingle": 40488,
-            "HPMulti": 32391
-        },
-        {
-            "_id": 1003,
-            "HPSingle": 40488,
-            "HPMulti": 32391
-        },
-        {
-            "_id": 1004,
-            "HPSingle": 41298,
-            "HPMulti": 32391
-        },
-        {
-            "_id": 1005,
-            "HPSingle": 41298,
-            "HPMulti": 32391
-        },
-        {
-            "_id": 1006,
-            "HPSingle": 41298,
-            "HPMulti": 32391
-        },
-        {
-            "_id": 1007,
-            "HPSingle": 68550,
-            "HPMulti": 42402
-        },
-        {
-            "_id": 1008,
-            "HPSingle": 68550,
-            "HPMulti": 42402
-        },
-        {
-            "_id": 1009,
-            "HPSingle": 65547,
-            "HPMulti": 38869
-        },
-        {
-            "_id": 1010,
-            "HPSingle": 67049,
-            "HPMulti": 40636
-        },
-        {
-            "_id": 1011,
-            "HPSingle": 91342,
-            "HPMulti": 73321
-        },
-        {
-            "_id": 1012,
-            "HPSingle": 66077,
-            "HPMulti": 46819
+        "Single": [
+            44611,
+            44611,
+            44611,
+            43433,
+            43433,
+            43433,
+            40488,
+            40488,
+            40488,
+            41298,
+            41298,
+            41298,
+            68550,
+            68550,
+            65547,
+            67049,
+            91342,
+            66077
+        ],
+        "Multi": [
+            33127,
+            33127,
+            33127,
+            31654,
+            31654,
+            31654,
+            32391,
+            32391,
+            32391,
+            32391,
+            32391,
+            32391,
+            42402,
+            42402,
+            38869,
+            40636,
+            73321,
+            46819
+        ],
+        "Index": {
+            "110": 0,
+            "111": 1,
+            "112": 2,
+            "113": 3,
+            "114": 4,
+            "115": 5,
+            "1001": 6,
+            "1002": 7,
+            "1003": 8,
+            "1004": 9,
+            "1005": 10,
+            "1006": 11,
+            "1007": 12,
+            "1008": 13,
+            "1009": 14,
+            "1010": 15,
+            "1011": 16,
+            "1012": 17
         }
-    ],
-    "3": [
-        {
-            "_id": 110,
-            "HPSingle": 46495,
-            "HPMulti": 38674
+    },
+    "3": {
+        "Name": {
+            "CH": [
+                "寒铁砥砺",
+                "蹈冰寻火",
+                "风暴止息",
+                "孤航天海",
+                "泪雨长战",
+                "药王垂迹",
+                "迷梦造舸",
+                "天裂一射",
+                "魔阴空劫",
+                "生劫火劫",
+                "建木降临",
+                "镇伏玄根",
+                "万载盟誓",
+                "饮月之乱",
+                "藏于深空之秘",
+                "重燃之光",
+                "难舍梦乡",
+                "一晌荒宴"
+            ],
+            "EN": [
+                "Coldiron Tribulation",
+                "Hyperborean Search for Warmth",
+                "Stormquell",
+                "Adrift in Astral Seas",
+                "Raintear Strife",
+                "Traces of Sanctus Medicus",
+                "Ethereal Shipcraft",
+                "A Shot From the Sky",
+                "Mara and Null",
+                "Living and Flaming Catastrophes",
+                "Ambrosial Arbor's Arrival",
+                "Divine Root Subdual",
+                "Oath of Eternal Alliance",
+                "Sedition of Imbibitor Lunae",
+                "Enigma in Deep Space",
+                "Light of Reignition",
+                "Dreamland of Longing",
+                "Eve of Wanton Feast"
+            ]
         },
-        {
-            "_id": 111,
-            "HPSingle": 46495,
-            "HPMulti": 38674
-        },
-        {
-            "_id": 112,
-            "HPSingle": 46495,
-            "HPMulti": 38674
-        },
-        {
-            "_id": 113,
-            "HPSingle": 47612,
-            "HPMulti": 37815
-        },
-        {
-            "_id": 114,
-            "HPSingle": 47612,
-            "HPMulti": 37815
-        },
-        {
-            "_id": 115,
-            "HPSingle": 47612,
-            "HPMulti": 37815
-        },
-        {
-            "_id": 1001,
-            "HPSingle": 47097,
-            "HPMulti": 36096
-        },
-        {
-            "_id": 1002,
-            "HPSingle": 47097,
-            "HPMulti": 36096
-        },
-        {
-            "_id": 1003,
-            "HPSingle": 47097,
-            "HPMulti": 36096
-        },
-        {
-            "_id": 1004,
-            "HPSingle": 53628,
-            "HPMulti": 42112
-        },
-        {
-            "_id": 1005,
-            "HPSingle": 53628,
-            "HPMulti": 42112
-        },
-        {
-            "_id": 1006,
-            "HPSingle": 53628,
-            "HPMulti": 42112
-        },
-        {
-            "_id": 1007,
-            "HPSingle": 87133,
-            "HPMulti": 54663
-        },
-        {
-            "_id": 1008,
-            "HPSingle": 87133,
-            "HPMulti": 54663
-        },
-        {
-            "_id": 1009,
-            "HPSingle": 89319,
-            "HPMulti": 55756
-        },
-        {
-            "_id": 1010,
-            "HPSingle": 81448,
-            "HPMulti": 53570
-        },
-        {
-            "_id": 1011,
-            "HPSingle": 93146,
-            "HPMulti": 61223
-        },
-        {
-            "_id": 1012,
-            "HPSingle": 85165,
-            "HPMulti": 52476
+        "Single": [
+            46495,
+            46495,
+            46495,
+            47612,
+            47612,
+            47612,
+            47097,
+            47097,
+            47097,
+            53628,
+            53628,
+            53628,
+            87133,
+            87133,
+            89319,
+            81448,
+            93146,
+            85165
+        ],
+        "Multi": [
+            38674,
+            38674,
+            38674,
+            37815,
+            37815,
+            37815,
+            36096,
+            36096,
+            36096,
+            42112,
+            42112,
+            42112,
+            54663,
+            54663,
+            55756,
+            53570,
+            61223,
+            52476
+        ],
+        "Index": {
+            "110": 0,
+            "111": 1,
+            "112": 2,
+            "113": 3,
+            "114": 4,
+            "115": 5,
+            "1001": 6,
+            "1002": 7,
+            "1003": 8,
+            "1004": 9,
+            "1005": 10,
+            "1006": 11,
+            "1007": 12,
+            "1008": 13,
+            "1009": 14,
+            "1010": 15,
+            "1011": 16,
+            "1012": 17
         }
-    ],
-    "4": [
-        {
-            "_id": 110,
-            "HPSingle": 53296,
-            "HPMulti": 42373
+    },
+    "4": {
+        "Name": {
+            "CH": [
+                "寒铁砥砺",
+                "蹈冰寻火",
+                "风暴止息",
+                "孤航天海",
+                "泪雨长战",
+                "药王垂迹",
+                "迷梦造舸",
+                "天裂一射",
+                "魔阴空劫",
+                "生劫火劫",
+                "建木降临",
+                "镇伏玄根",
+                "万载盟誓",
+                "饮月之乱",
+                "藏于深空之秘",
+                "重燃之光",
+                "难舍梦乡",
+                "一晌荒宴"
+            ],
+            "EN": [
+                "Coldiron Tribulation",
+                "Hyperborean Search for Warmth",
+                "Stormquell",
+                "Adrift in Astral Seas",
+                "Raintear Strife",
+                "Traces of Sanctus Medicus",
+                "Ethereal Shipcraft",
+                "A Shot From the Sky",
+                "Mara and Null",
+                "Living and Flaming Catastrophes",
+                "Ambrosial Arbor's Arrival",
+                "Divine Root Subdual",
+                "Oath of Eternal Alliance",
+                "Sedition of Imbibitor Lunae",
+                "Enigma in Deep Space",
+                "Light of Reignition",
+                "Dreamland of Longing",
+                "Eve of Wanton Feast"
+            ]
         },
-        {
-            "_id": 111,
-            "HPSingle": 53296,
-            "HPMulti": 42373
-        },
-        {
-            "_id": 112,
-            "HPSingle": 53296,
-            "HPMulti": 42373
-        },
-        {
-            "_id": 113,
-            "HPSingle": 51412,
-            "HPMulti": 41431
-        },
-        {
-            "_id": 114,
-            "HPSingle": 51412,
-            "HPMulti": 41431
-        },
-        {
-            "_id": 115,
-            "HPSingle": 51412,
-            "HPMulti": 41431
-        },
-        {
-            "_id": 1001,
-            "HPSingle": 55838,
-            "HPMulti": 42373
-        },
-        {
-            "_id": 1002,
-            "HPSingle": 55838,
-            "HPMulti": 42373
-        },
-        {
-            "_id": 1003,
-            "HPSingle": 55838,
-            "HPMulti": 42373
-        },
-        {
-            "_id": 1004,
-            "HPSingle": 53107,
-            "HPMulti": 39548
-        },
-        {
-            "_id": 1005,
-            "HPSingle": 53107,
-            "HPMulti": 39548
-        },
-        {
-            "_id": 1006,
-            "HPSingle": 53107,
-            "HPMulti": 39548
-        },
-        {
-            "_id": 1007,
-            "HPSingle": 103710,
-            "HPMulti": 69058
-        },
-        {
-            "_id": 1008,
-            "HPSingle": 103710,
-            "HPMulti": 69058
-        },
-        {
-            "_id": 1009,
-            "HPSingle": 104450,
-            "HPMulti": 64125
-        },
-        {
-            "_id": 1010,
-            "HPSingle": 103094,
-            "HPMulti": 69058
-        },
-        {
-            "_id": 1011,
-            "HPSingle": 95140,
-            "HPMulti": 57959
-        },
-        {
-            "_id": 1012,
-            "HPSingle": 129792,
-            "HPMulti": 88789
+        "Single": [
+            53296,
+            53296,
+            53296,
+            51412,
+            51412,
+            51412,
+            55838,
+            55838,
+            55838,
+            53107,
+            53107,
+            53107,
+            103710,
+            103710,
+            104450,
+            103094,
+            95140,
+            129792
+        ],
+        "Multi": [
+            42373,
+            42373,
+            42373,
+            41431,
+            41431,
+            41431,
+            42373,
+            42373,
+            42373,
+            39548,
+            39548,
+            39548,
+            69058,
+            69058,
+            64125,
+            69058,
+            57959,
+            88789
+        ],
+        "Index": {
+            "110": 0,
+            "111": 1,
+            "112": 2,
+            "113": 3,
+            "114": 4,
+            "115": 5,
+            "1001": 6,
+            "1002": 7,
+            "1003": 8,
+            "1004": 9,
+            "1005": 10,
+            "1006": 11,
+            "1007": 12,
+            "1008": 13,
+            "1009": 14,
+            "1010": 15,
+            "1011": 16,
+            "1012": 17
         }
-    ],
-    "5": [
-        {
-            "_id": 110,
-            "HPSingle": 57930,
-            "HPMulti": 45791
+    },
+    "5": {
+        "Name": {
+            "CH": [
+                "寒铁砥砺",
+                "蹈冰寻火",
+                "风暴止息",
+                "孤航天海",
+                "泪雨长战",
+                "药王垂迹",
+                "迷梦造舸",
+                "天裂一射",
+                "魔阴空劫",
+                "生劫火劫",
+                "建木降临",
+                "镇伏玄根",
+                "万载盟誓",
+                "饮月之乱",
+                "藏于深空之秘",
+                "重燃之光",
+                "难舍梦乡",
+                "一晌荒宴"
+            ],
+            "EN": [
+                "Coldiron Tribulation",
+                "Hyperborean Search for Warmth",
+                "Stormquell",
+                "Adrift in Astral Seas",
+                "Raintear Strife",
+                "Traces of Sanctus Medicus",
+                "Ethereal Shipcraft",
+                "A Shot From the Sky",
+                "Mara and Null",
+                "Living and Flaming Catastrophes",
+                "Ambrosial Arbor's Arrival",
+                "Divine Root Subdual",
+                "Oath of Eternal Alliance",
+                "Sedition of Imbibitor Lunae",
+                "Enigma in Deep Space",
+                "Light of Reignition",
+                "Dreamland of Longing",
+                "Eve of Wanton Feast"
+            ]
         },
-        {
-            "_id": 111,
-            "HPSingle": 57930,
-            "HPMulti": 45791
-        },
-        {
-            "_id": 112,
-            "HPSingle": 57930,
-            "HPMulti": 45791
-        },
-        {
-            "_id": 113,
-            "HPSingle": 59315,
-            "HPMulti": 45791
-        },
-        {
-            "_id": 114,
-            "HPSingle": 59315,
-            "HPMulti": 45791
-        },
-        {
-            "_id": 115,
-            "HPSingle": 59315,
-            "HPMulti": 45791
-        },
-        {
-            "_id": 1001,
-            "HPSingle": 63148,
-            "HPMulti": 47920
-        },
-        {
-            "_id": 1002,
-            "HPSingle": 63148,
-            "HPMulti": 47920
-        },
-        {
-            "_id": 1003,
-            "HPSingle": 63148,
-            "HPMulti": 47920
-        },
-        {
-            "_id": 1004,
-            "HPSingle": 72307,
-            "HPMulti": 58569
-        },
-        {
-            "_id": 1005,
-            "HPSingle": 72307,
-            "HPMulti": 58569
-        },
-        {
-            "_id": 1006,
-            "HPSingle": 72307,
-            "HPMulti": 58569
-        },
-        {
-            "_id": 1007,
-            "HPSingle": 135647,
-            "HPMulti": 96685
-        },
-        {
-            "_id": 1008,
-            "HPSingle": 126989,
-            "HPMulti": 88027
-        },
-        {
-            "_id": 1009,
-            "HPSingle": 128721,
-            "HPMulti": 89470
-        },
-        {
-            "_id": 1010,
-            "HPSingle": 137956,
-            "HPMulti": 99571
-        },
-        {
-            "_id": 1011,
-            "HPSingle": 160540,
-            "HPMulti": 106786
-        },
-        {
-            "_id": 1012,
-            "HPSingle": 133050,
-            "HPMulti": 79368
+        "Single": [
+            57930,
+            57930,
+            57930,
+            59315,
+            59315,
+            59315,
+            63148,
+            63148,
+            63148,
+            72307,
+            72307,
+            72307,
+            135647,
+            126989,
+            128721,
+            137956,
+            160540,
+            133050
+        ],
+        "Multi": [
+            45791,
+            45791,
+            45791,
+            45791,
+            45791,
+            45791,
+            47920,
+            47920,
+            47920,
+            58569,
+            58569,
+            58569,
+            96685,
+            88027,
+            89470,
+            99571,
+            106786,
+            79368
+        ],
+        "Index": {
+            "110": 0,
+            "111": 1,
+            "112": 2,
+            "113": 3,
+            "114": 4,
+            "115": 5,
+            "1001": 6,
+            "1002": 7,
+            "1003": 8,
+            "1004": 9,
+            "1005": 10,
+            "1006": 11,
+            "1007": 12,
+            "1008": 13,
+            "1009": 14,
+            "1010": 15,
+            "1011": 16,
+            "1012": 17
         }
-    ],
-    "6": [
-        {
-            "_id": 110,
-            "HPSingle": 67879,
-            "HPMulti": 49468
+    },
+    "6": {
+        "Name": {
+            "CH": [
+                "寒铁砥砺",
+                "蹈冰寻火",
+                "风暴止息",
+                "孤航天海",
+                "泪雨长战",
+                "药王垂迹",
+                "迷梦造舸",
+                "天裂一射",
+                "魔阴空劫",
+                "生劫火劫",
+                "建木降临",
+                "镇伏玄根",
+                "万载盟誓",
+                "饮月之乱",
+                "藏于深空之秘",
+                "重燃之光",
+                "难舍梦乡",
+                "一晌荒宴"
+            ],
+            "EN": [
+                "Coldiron Tribulation",
+                "Hyperborean Search for Warmth",
+                "Stormquell",
+                "Adrift in Astral Seas",
+                "Raintear Strife",
+                "Traces of Sanctus Medicus",
+                "Ethereal Shipcraft",
+                "A Shot From the Sky",
+                "Mara and Null",
+                "Living and Flaming Catastrophes",
+                "Ambrosial Arbor's Arrival",
+                "Divine Root Subdual",
+                "Oath of Eternal Alliance",
+                "Sedition of Imbibitor Lunae",
+                "Enigma in Deep Space",
+                "Light of Reignition",
+                "Dreamland of Longing",
+                "Eve of Wanton Feast"
+            ]
         },
-        {
-            "_id": 111,
-            "HPSingle": 67879,
-            "HPMulti": 49468
-        },
-        {
-            "_id": 112,
-            "HPSingle": 67879,
-            "HPMulti": 49468
-        },
-        {
-            "_id": 113,
-            "HPSingle": 74847,
-            "HPMulti": 46113
-        },
-        {
-            "_id": 114,
-            "HPSingle": 74847,
-            "HPMulti": 46113
-        },
-        {
-            "_id": 115,
-            "HPSingle": 74847,
-            "HPMulti": 46113
-        },
-        {
-            "_id": 1001,
-            "HPSingle": 74036,
-            "HPMulti": 42278
-        },
-        {
-            "_id": 1002,
-            "HPSingle": 74036,
-            "HPMulti": 42278
-        },
-        {
-            "_id": 1003,
-            "HPSingle": 74036,
-            "HPMulti": 42278
-        },
-        {
-            "_id": 1004,
-            "HPSingle": 80624,
-            "HPMulti": 51127
-        },
-        {
-            "_id": 1005,
-            "HPSingle": 80624,
-            "HPMulti": 51127
-        },
-        {
-            "_id": 1006,
-            "HPSingle": 80624,
-            "HPMulti": 51127
-        },
-        {
-            "_id": 1007,
-            "HPSingle": 122997,
-            "HPMulti": 72817
-        },
-        {
-            "_id": 1008,
-            "HPSingle": 122997,
-            "HPMulti": 72817
-        },
-        {
-            "_id": 1009,
-            "HPSingle": 129171,
-            "HPMulti": 72817
-        },
-        {
-            "_id": 1010,
-            "HPSingle": 124897,
-            "HPMulti": 77566
-        },
-        {
-            "_id": 1011,
-            "HPSingle": 117457,
-            "HPMulti": 71234
-        },
-        {
-            "_id": 1012,
-            "HPSingle": 146821,
-            "HPMulti": 94979
+        "Single": [
+            67879,
+            67879,
+            67879,
+            74847,
+            74847,
+            74847,
+            74036,
+            74036,
+            74036,
+            80624,
+            80624,
+            80624,
+            122997,
+            122997,
+            129171,
+            124897,
+            117457,
+            146821
+        ],
+        "Multi": [
+            49468,
+            49468,
+            49468,
+            46113,
+            46113,
+            46113,
+            42278,
+            42278,
+            42278,
+            51127,
+            51127,
+            51127,
+            72817,
+            72817,
+            72817,
+            77566,
+            71234,
+            94979
+        ],
+        "Index": {
+            "110": 0,
+            "111": 1,
+            "112": 2,
+            "113": 3,
+            "114": 4,
+            "115": 5,
+            "1001": 6,
+            "1002": 7,
+            "1003": 8,
+            "1004": 9,
+            "1005": 10,
+            "1006": 11,
+            "1007": 12,
+            "1008": 13,
+            "1009": 14,
+            "1010": 15,
+            "1011": 16,
+            "1012": 17
         }
-    ],
-    "7": [
-        {
-            "_id": 110,
-            "HPSingle": 79496,
-            "HPMulti": 47787
+    },
+    "7": {
+        "Name": {
+            "CH": [
+                "寒铁砥砺",
+                "蹈冰寻火",
+                "风暴止息",
+                "孤航天海",
+                "泪雨长战",
+                "药王垂迹",
+                "迷梦造舸",
+                "天裂一射",
+                "魔阴空劫",
+                "生劫火劫",
+                "建木降临",
+                "镇伏玄根",
+                "万载盟誓",
+                "饮月之乱",
+                "藏于深空之秘",
+                "重燃之光",
+                "难舍梦乡",
+                "一晌荒宴"
+            ],
+            "EN": [
+                "Coldiron Tribulation",
+                "Hyperborean Search for Warmth",
+                "Stormquell",
+                "Adrift in Astral Seas",
+                "Raintear Strife",
+                "Traces of Sanctus Medicus",
+                "Ethereal Shipcraft",
+                "A Shot From the Sky",
+                "Mara and Null",
+                "Living and Flaming Catastrophes",
+                "Ambrosial Arbor's Arrival",
+                "Divine Root Subdual",
+                "Oath of Eternal Alliance",
+                "Sedition of Imbibitor Lunae",
+                "Enigma in Deep Space",
+                "Light of Reignition",
+                "Dreamland of Longing",
+                "Eve of Wanton Feast"
+            ]
         },
-        {
-            "_id": 111,
-            "HPSingle": 79496,
-            "HPMulti": 47787
-        },
-        {
-            "_id": 112,
-            "HPSingle": 79496,
-            "HPMulti": 47787
-        },
-        {
-            "_id": 113,
-            "HPSingle": 85519,
-            "HPMulti": 51371
-        },
-        {
-            "_id": 114,
-            "HPSingle": 85519,
-            "HPMulti": 51371
-        },
-        {
-            "_id": 115,
-            "HPSingle": 85519,
-            "HPMulti": 51371
-        },
-        {
-            "_id": 1001,
-            "HPSingle": 82490,
-            "HPMulti": 50063
-        },
-        {
-            "_id": 1002,
-            "HPSingle": 82490,
-            "HPMulti": 50063
-        },
-        {
-            "_id": 1003,
-            "HPSingle": 82490,
-            "HPMulti": 50063
-        },
-        {
-            "_id": 1004,
-            "HPSingle": 81238,
-            "HPMulti": 48925
-        },
-        {
-            "_id": 1005,
-            "HPSingle": 81238,
-            "HPMulti": 48925
-        },
-        {
-            "_id": 1006,
-            "HPSingle": 81238,
-            "HPMulti": 48925
-        },
-        {
-            "_id": 1007,
-            "HPSingle": 144477,
-            "HPMulti": 89367
-        },
-        {
-            "_id": 1008,
-            "HPSingle": 144477,
-            "HPMulti": 89367
-        },
-        {
-            "_id": 1009,
-            "HPSingle": 138147,
-            "HPMulti": 81920
-        },
-        {
-            "_id": 1010,
-            "HPSingle": 141312,
-            "HPMulti": 85643
-        },
-        {
-            "_id": 1011,
-            "HPSingle": 182428,
-            "HPMulti": 146437
-        },
-        {
-            "_id": 1012,
-            "HPSingle": 131970,
-            "HPMulti": 93508
+        "Single": [
+            79496,
+            79496,
+            79496,
+            85519,
+            85519,
+            85519,
+            82490,
+            82490,
+            82490,
+            81238,
+            81238,
+            81238,
+            144477,
+            144477,
+            138147,
+            141312,
+            182428,
+            131970
+        ],
+        "Multi": [
+            47787,
+            47787,
+            47787,
+            51371,
+            51371,
+            51371,
+            50063,
+            50063,
+            50063,
+            48925,
+            48925,
+            48925,
+            89367,
+            89367,
+            81920,
+            85643,
+            146437,
+            93508
+        ],
+        "Index": {
+            "110": 0,
+            "111": 1,
+            "112": 2,
+            "113": 3,
+            "114": 4,
+            "115": 5,
+            "1001": 6,
+            "1002": 7,
+            "1003": 8,
+            "1004": 9,
+            "1005": 10,
+            "1006": 11,
+            "1007": 12,
+            "1008": 13,
+            "1009": 14,
+            "1010": 15,
+            "1011": 16,
+            "1012": 17
         }
-    ],
-    "8": [
-        {
-            "_id": 110,
-            "HPSingle": 85135,
-            "HPMulti": 50665
+    },
+    "8": {
+        "Name": {
+            "CH": [
+                "寒铁砥砺",
+                "蹈冰寻火",
+                "风暴止息",
+                "孤航天海",
+                "泪雨长战",
+                "药王垂迹",
+                "迷梦造舸",
+                "天裂一射",
+                "魔阴空劫",
+                "生劫火劫",
+                "建木降临",
+                "镇伏玄根",
+                "万载盟誓",
+                "饮月之乱",
+                "藏于深空之秘",
+                "重燃之光",
+                "难舍梦乡",
+                "一晌荒宴"
+            ],
+            "EN": [
+                "Coldiron Tribulation",
+                "Hyperborean Search for Warmth",
+                "Stormquell",
+                "Adrift in Astral Seas",
+                "Raintear Strife",
+                "Traces of Sanctus Medicus",
+                "Ethereal Shipcraft",
+                "A Shot From the Sky",
+                "Mara and Null",
+                "Living and Flaming Catastrophes",
+                "Ambrosial Arbor's Arrival",
+                "Divine Root Subdual",
+                "Oath of Eternal Alliance",
+                "Sedition of Imbibitor Lunae",
+                "Enigma in Deep Space",
+                "Light of Reignition",
+                "Dreamland of Longing",
+                "Eve of Wanton Feast"
+            ]
         },
-        {
-            "_id": 111,
-            "HPSingle": 85135,
-            "HPMulti": 50665
-        },
-        {
-            "_id": 112,
-            "HPSingle": 85135,
-            "HPMulti": 50665
-        },
-        {
-            "_id": 113,
-            "HPSingle": 88637,
-            "HPMulti": 53073
-        },
-        {
-            "_id": 114,
-            "HPSingle": 88637,
-            "HPMulti": 53073
-        },
-        {
-            "_id": 115,
-            "HPSingle": 88637,
-            "HPMulti": 53073
-        },
-        {
-            "_id": 1001,
-            "HPSingle": 88043,
-            "HPMulti": 55027
-        },
-        {
-            "_id": 1002,
-            "HPSingle": 88043,
-            "HPMulti": 55027
-        },
-        {
-            "_id": 1003,
-            "HPSingle": 88043,
-            "HPMulti": 55027
-        },
-        {
-            "_id": 1004,
-            "HPSingle": 103425,
-            "HPMulti": 71285
-        },
-        {
-            "_id": 1005,
-            "HPSingle": 103425,
-            "HPMulti": 71285
-        },
-        {
-            "_id": 1006,
-            "HPSingle": 103425,
-            "HPMulti": 71285
-        },
-        {
-            "_id": 1007,
-            "HPSingle": 165116,
-            "HPMulti": 103586
-        },
-        {
-            "_id": 1008,
-            "HPSingle": 165116,
-            "HPMulti": 103586
-        },
-        {
-            "_id": 1009,
-            "HPSingle": 169259,
-            "HPMulti": 105657
-        },
-        {
-            "_id": 1010,
-            "HPSingle": 154343,
-            "HPMulti": 101514
-        },
-        {
-            "_id": 1011,
-            "HPSingle": 176510,
-            "HPMulti": 116016
-        },
-        {
-            "_id": 1012,
-            "HPSingle": 161387,
-            "HPMulti": 99442
+        "Single": [
+            85135,
+            85135,
+            85135,
+            88637,
+            88637,
+            88637,
+            88043,
+            88043,
+            88043,
+            103425,
+            103425,
+            103425,
+            165116,
+            165116,
+            169259,
+            154343,
+            176510,
+            161387
+        ],
+        "Multi": [
+            50665,
+            50665,
+            50665,
+            53073,
+            53073,
+            53073,
+            55027,
+            55027,
+            55027,
+            71285,
+            71285,
+            71285,
+            103586,
+            103586,
+            105657,
+            101514,
+            116016,
+            99442
+        ],
+        "Index": {
+            "110": 0,
+            "111": 1,
+            "112": 2,
+            "113": 3,
+            "114": 4,
+            "115": 5,
+            "1001": 6,
+            "1002": 7,
+            "1003": 8,
+            "1004": 9,
+            "1005": 10,
+            "1006": 11,
+            "1007": 12,
+            "1008": 13,
+            "1009": 14,
+            "1010": 15,
+            "1011": 16,
+            "1012": 17
         }
-    ],
-    "9": [
-        {
-            "_id": 110,
-            "HPSingle": 87652,
-            "HPMulti": 54883
+    },
+    "9": {
+        "Name": {
+            "CH": [
+                "寒铁砥砺",
+                "蹈冰寻火",
+                "风暴止息",
+                "孤航天海",
+                "泪雨长战",
+                "药王垂迹",
+                "迷梦造舸",
+                "天裂一射",
+                "魔阴空劫",
+                "生劫火劫",
+                "建木降临",
+                "镇伏玄根",
+                "万载盟誓",
+                "饮月之乱",
+                "藏于深空之秘",
+                "重燃之光",
+                "难舍梦乡",
+                "一晌荒宴"
+            ],
+            "EN": [
+                "Coldiron Tribulation",
+                "Hyperborean Search for Warmth",
+                "Stormquell",
+                "Adrift in Astral Seas",
+                "Raintear Strife",
+                "Traces of Sanctus Medicus",
+                "Ethereal Shipcraft",
+                "A Shot From the Sky",
+                "Mara and Null",
+                "Living and Flaming Catastrophes",
+                "Ambrosial Arbor's Arrival",
+                "Divine Root Subdual",
+                "Oath of Eternal Alliance",
+                "Sedition of Imbibitor Lunae",
+                "Enigma in Deep Space",
+                "Light of Reignition",
+                "Dreamland of Longing",
+                "Eve of Wanton Feast"
+            ]
         },
-        {
-            "_id": 111,
-            "HPSingle": 87652,
-            "HPMulti": 54883
-        },
-        {
-            "_id": 112,
-            "HPSingle": 87652,
-            "HPMulti": 54883
-        },
-        {
-            "_id": 113,
-            "HPSingle": 88758,
-            "HPMulti": 54883
-        },
-        {
-            "_id": 114,
-            "HPSingle": 88758,
-            "HPMulti": 54883
-        },
-        {
-            "_id": 115,
-            "HPSingle": 88758,
-            "HPMulti": 54883
-        },
-        {
-            "_id": 1001,
-            "HPSingle": 96749,
-            "HPMulti": 62824
-        },
-        {
-            "_id": 1002,
-            "HPSingle": 96749,
-            "HPMulti": 62824
-        },
-        {
-            "_id": 1003,
-            "HPSingle": 96749,
-            "HPMulti": 62824
-        },
-        {
-            "_id": 1004,
-            "HPSingle": 131105,
-            "HPMulti": 91902
-        },
-        {
-            "_id": 1005,
-            "HPSingle": 131105,
-            "HPMulti": 91902
-        },
-        {
-            "_id": 1006,
-            "HPSingle": 131105,
-            "HPMulti": 91902
-        },
-        {
-            "_id": 1007,
-            "HPSingle": 204160,
-            "HPMulti": 135945
-        },
-        {
-            "_id": 1008,
-            "HPSingle": 204160,
-            "HPMulti": 135945
-        },
-        {
-            "_id": 1009,
-            "HPSingle": 205617,
-            "HPMulti": 126234
-        },
-        {
-            "_id": 1010,
-            "HPSingle": 202946,
-            "HPMulti": 135945
-        },
-        {
-            "_id": 1011,
-            "HPSingle": 187288,
-            "HPMulti": 114097
-        },
-        {
-            "_id": 1012,
-            "HPSingle": 255503,
-            "HPMulti": 174786
+        "Single": [
+            87652,
+            87652,
+            87652,
+            88758,
+            88758,
+            88758,
+            96749,
+            96749,
+            96749,
+            131105,
+            131105,
+            131105,
+            204160,
+            204160,
+            205617,
+            202946,
+            187288,
+            255503
+        ],
+        "Multi": [
+            54883,
+            54883,
+            54883,
+            54883,
+            54883,
+            54883,
+            62824,
+            62824,
+            62824,
+            91902,
+            91902,
+            91902,
+            135945,
+            135945,
+            126234,
+            135945,
+            114097,
+            174786
+        ],
+        "Index": {
+            "110": 0,
+            "111": 1,
+            "112": 2,
+            "113": 3,
+            "114": 4,
+            "115": 5,
+            "1001": 6,
+            "1002": 7,
+            "1003": 8,
+            "1004": 9,
+            "1005": 10,
+            "1006": 11,
+            "1007": 12,
+            "1008": 13,
+            "1009": 14,
+            "1010": 15,
+            "1011": 16,
+            "1012": 17
         }
-    ],
-    "10": [
-        {
-            "_id": 110,
-            "HPSingle": 83041,
-            "HPMulti": 55104
+    },
+    "10": {
+        "Name": {
+            "CH": [
+                "寒铁砥砺",
+                "蹈冰寻火",
+                "风暴止息",
+                "孤航天海",
+                "泪雨长战",
+                "药王垂迹",
+                "迷梦造舸",
+                "天裂一射",
+                "魔阴空劫",
+                "生劫火劫",
+                "建木降临",
+                "镇伏玄根",
+                "万载盟誓",
+                "饮月之乱",
+                "藏于深空之秘",
+                "重燃之光",
+                "难舍梦乡",
+                "一晌荒宴"
+            ],
+            "EN": [
+                "Coldiron Tribulation",
+                "Hyperborean Search for Warmth",
+                "Stormquell",
+                "Adrift in Astral Seas",
+                "Raintear Strife",
+                "Traces of Sanctus Medicus",
+                "Ethereal Shipcraft",
+                "A Shot From the Sky",
+                "Mara and Null",
+                "Living and Flaming Catastrophes",
+                "Ambrosial Arbor's Arrival",
+                "Divine Root Subdual",
+                "Oath of Eternal Alliance",
+                "Sedition of Imbibitor Lunae",
+                "Enigma in Deep Space",
+                "Light of Reignition",
+                "Dreamland of Longing",
+                "Eve of Wanton Feast"
+            ]
         },
-        {
-            "_id": 111,
-            "HPSingle": 83041,
-            "HPMulti": 55104
-        },
-        {
-            "_id": 112,
-            "HPSingle": 83041,
-            "HPMulti": 55104
-        },
-        {
-            "_id": 113,
-            "HPSingle": 96240,
-            "HPMulti": 57304
-        },
-        {
-            "_id": 114,
-            "HPSingle": 96240,
-            "HPMulti": 57304
-        },
-        {
-            "_id": 115,
-            "HPSingle": 96240,
-            "HPMulti": 57304
-        },
-        {
-            "_id": 1001,
-            "HPSingle": 113976,
-            "HPMulti": 76305
-        },
-        {
-            "_id": 1002,
-            "HPSingle": 113976,
-            "HPMulti": 76305
-        },
-        {
-            "_id": 1003,
-            "HPSingle": 113976,
-            "HPMulti": 76305
-        },
-        {
-            "_id": 1004,
-            "HPSingle": 149270,
-            "HPMulti": 111560
-        },
-        {
-            "_id": 1005,
-            "HPSingle": 149270,
-            "HPMulti": 111560
-        },
-        {
-            "_id": 1006,
-            "HPSingle": 149270,
-            "HPMulti": 111560
-        },
-        {
-            "_id": 1007,
-            "HPSingle": 260922,
-            "HPMulti": 183293
-        },
-        {
-            "_id": 1008,
-            "HPSingle": 237202,
-            "HPMulti": 164424
-        },
-        {
-            "_id": 1009,
-            "HPSingle": 240437,
-            "HPMulti": 167120
-        },
-        {
-            "_id": 1010,
-            "HPSingle": 257688,
-            "HPMulti": 185988
-        },
-        {
-            "_id": 1011,
-            "HPSingle": 299872,
-            "HPMulti": 199465
-        },
-        {
-            "_id": 1012,
-            "HPSingle": 248523,
-            "HPMulti": 148251
+        "Single": [
+            83041,
+            83041,
+            83041,
+            96240,
+            96240,
+            96240,
+            113976,
+            113976,
+            113976,
+            149270,
+            149270,
+            149270,
+            260922,
+            237202,
+            240437,
+            257688,
+            299872,
+            248523
+        ],
+        "Multi": [
+            55104,
+            55104,
+            55104,
+            57304,
+            57304,
+            57304,
+            76305,
+            76305,
+            76305,
+            111560,
+            111560,
+            111560,
+            183293,
+            164424,
+            167120,
+            185988,
+            199465,
+            148251
+        ],
+        "Index": {
+            "110": 0,
+            "111": 1,
+            "112": 2,
+            "113": 3,
+            "114": 4,
+            "115": 5,
+            "1001": 6,
+            "1002": 7,
+            "1003": 8,
+            "1004": 9,
+            "1005": 10,
+            "1006": 11,
+            "1007": 12,
+            "1008": 13,
+            "1009": 14,
+            "1010": 15,
+            "1011": 16,
+            "1012": 17
         }
-    ],
-    "11": [
-        {
-            "_id": 1009,
-            "HPSingle": 279942,
-            "HPMulti": 180796
+    },
+    "11": {
+        "Name": {
+            "CH": [
+                "藏于深空之秘",
+                "重燃之光",
+                "难舍梦乡",
+                "一晌荒宴"
+            ],
+            "EN": [
+                "Enigma in Deep Space",
+                "Light of Reignition",
+                "Dreamland of Longing",
+                "Eve of Wanton Feast"
+            ]
         },
-        {
-            "_id": 1010,
-            "HPSingle": 271194,
-            "HPMulti": 145803
-        },
-        {
-            "_id": 1011,
-            "HPSingle": 442512,
-            "HPMulti": 288690
-        },
-        {
-            "_id": 1012,
-            "HPSingle": 390023,
-            "HPMulti": 215788
+        "Single": [
+            279942,
+            271194,
+            442512,
+            390023
+        ],
+        "Multi": [
+            180796,
+            145803,
+            288690,
+            215788
+        ],
+        "Index": {
+            "1009": 0,
+            "1010": 1,
+            "1011": 2,
+            "1012": 3
         }
-    ],
-    "12": [
-        {
-            "_id": 1009,
-            "HPSingle": 363292,
-            "HPMulti": 256250
+    },
+    "12": {
+        "Name": {
+            "CH": [
+                "藏于深空之秘",
+                "重燃之光",
+                "难舍梦乡",
+                "一晌荒宴"
+            ],
+            "EN": [
+                "Enigma in Deep Space",
+                "Light of Reignition",
+                "Dreamland of Longing",
+                "Eve of Wanton Feast"
+            ]
         },
-        {
-            "_id": 1010,
-            "HPSingle": 324368,
-            "HPMulti": 214083
-        },
-        {
-            "_id": 1011,
-            "HPSingle": 385187,
-            "HPMulti": 272469
-        },
-        {
-            "_id": 1012,
-            "HPSingle": 427354,
-            "HPMulti": 311393
+        "Single": [
+            363292,
+            324368,
+            385187,
+            427354
+        ],
+        "Multi": [
+            256250,
+            214083,
+            272469,
+            311393
+        ],
+        "Index": {
+            "1009": 0,
+            "1010": 1,
+            "1011": 2,
+            "1012": 3
         }
-    ]
+    }
 }
 
 var _chaosdict = {

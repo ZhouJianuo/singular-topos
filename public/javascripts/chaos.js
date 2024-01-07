@@ -7,15 +7,15 @@ $(function () {
         var lang = lang_
     }
 
-    if (lang == 'EN') {$('body').css('font-family', "'Segoe UI', sans-serif")}
-    else {$('body').css('font-family', "'Microsoft YaHei', sans-serif")}
+    if (lang == 'EN') { $('body').css('font-family', "'Segoe UI', sans-serif") }
+    else { $('body').css('font-family', "'Microsoft YaHei', sans-serif") }
 
     $('h3 .title').html(txt.Title[lang])
     $('h3 .links').html(txt.Page[lang]);
     $('h3 .subtitle').html(txt.Subtitle[lang]);
     $('h3 .lang').html(txt.Lang[lang])
 
-    $('body').on('click', '.links', function() {
+    $('body').on('click', '.links', function () {
         popLinks(lang)
     })
 
@@ -146,7 +146,64 @@ $(function () {
                         }
                     ],
                     class: 'u_l'
-                }
+                },
+                {
+                    div: {
+                        div: '',
+                        id: 'chart',
+                    },
+                    class: 'chart_container'
+                },
+                {
+                    div: [
+                        {
+                            div: '◁',
+                            class: 'f_l'
+                        },
+                        {
+                            div: '',
+                            class: 'f_text'
+                        },
+                        {
+                            div: '▷',
+                            class: 'f_r'
+                        }
+                    ],
+                    class: 'floor_select',
+                    style: {
+                        'margin-top': '30px'
+                    }
+                },
+                {
+                    div: [
+                        {
+                            div: '◁',
+                            class: 'v_l'
+                        },
+                        {
+                            div: [
+                                {
+                                    p: '',
+                                    class: 'ver_text_name'
+                                },
+                                {
+                                    p: '',
+                                    class: 'ver_text_time'
+                                }
+                            ],
+                            class: 'ver_text'
+                        },
+                        {
+                            div: '▷',
+                            class: 'v_r'
+                        }
+                    ],
+                    class: 'ver',
+                    style: {
+                        'margin-top': '10px',
+                        'margin-bottom': '40px'
+                    }
+                },
             ],
             class: 'content'
         }
@@ -230,6 +287,76 @@ $(function () {
         $('.l_m').render({
             template: Lineup(cur_floor_data.Lower)
         })
+
+        var floor_name = $('.f_text').html()
+
+        myChart = echarts.init(document.getElementById('chart'))
+        var option = {
+            title: {
+                text: txt.Chart_Title[lang].replace('#', floor_name),
+                subtext: txt.Chart_Subtitle[lang],
+                left: 'center',
+                textStyle: {
+                    color: '#000'
+                },
+                subtextStyle: {
+                    color: '#2545ba'
+                },
+                top: '8%'
+            },
+            tooltip: {
+                trigger: 'axis'
+            },
+            legend: {
+                data: [txt.DPC_S[lang], txt.DPC_M[lang]],
+                top: '20%'
+            },
+            grid: {
+                left: '3%',
+                right: '4%',
+                top: '26%',
+                containLabel: true
+            },
+            toolbox: {
+                feature: {
+                    saveAsImage: {}
+                },
+                left: '66%',
+                top: '10%'
+            },
+            xAxis: {
+                type: 'category',
+                boundaryGap: true,
+                data: _chaoshp[floor_name].Name[lang],
+                axisLabel: {
+                    color: '#000',
+                    padding: [5, 0],
+                }
+            },
+            yAxis: {
+                type: 'value'
+            },
+            series: [
+                {
+                    name: txt.DPC_S[lang],
+                    type: 'line',
+                    data: _chaoshp[floor_name].Single
+                },
+                {
+                    name: txt.DPC_M[lang],
+                    type: 'line',
+                    data: _chaoshp[floor_name].Multi
+                }
+            ]
+        }
+        myChart.setOption(option)
+
+        myChart.dispatchAction({
+            type: 'showTip',
+            dataIndex: _chaoshp[$('.f_text').html()].Index[_chaosschedule[mod(cur_index, max_index)]._id],
+            seriesIndex: 1,
+        })
+
     }
 
     $('.v_r').on('click', function () {
@@ -250,6 +377,14 @@ $(function () {
     $('.f_l').on('click', function () {
         cur_floor -= 1
         writeData()
+    })
+
+    $('#chart').on('mouseleave', function () {
+        myChart.dispatchAction({
+            type: 'showTip',
+            dataIndex: _chaoshp[$('.f_text').html()].Index[_chaosschedule[mod(cur_index, max_index)]._id],
+            seriesIndex: 1,
+        })
     })
 
     function Lineup(L) {
@@ -735,26 +870,26 @@ $(function () {
                                     var v4 = 0
                                     var v5 = 0
                                 } else {
-                                    var v1 = skill.DMG[0] ? skill.DMG[0]: 0
-                                    var v2 = skill.DMG[1] ? skill.DMG[1]: 0
-                                    var v3 = skill.DMG[2] ? skill.DMG[2]: 0
-                                    var v4 = skill.DMG[3] ? skill.DMG[3]: 0
-                                    var v5 = skill.DMG[4] ? skill.DMG[4]: 0
+                                    var v1 = skill.DMG[0] ? skill.DMG[0] : 0
+                                    var v2 = skill.DMG[1] ? skill.DMG[1] : 0
+                                    var v3 = skill.DMG[2] ? skill.DMG[2] : 0
+                                    var v4 = skill.DMG[3] ? skill.DMG[3] : 0
+                                    var v5 = skill.DMG[4] ? skill.DMG[4] : 0
                                 }
                                 if (IS_DMG) {
                                     var defcoeff = (10 * LV + 200) / (10 * LV + 200 + DEF)
                                     var atk = cur_mon.Stats.ATK * _elitegroup[EG].AttackRatio * _hardlevelgroup[HLG][LV - 1].ATK + (cur_mon.StatsExtra ? (cur_mon.StatsExtra.ATK ? cur_mon.StatsExtra.ATK : 0) : 0)
-                                    var s1 = '<color style="color:#' + COL +  ';"><b>' + Math.floor(v1 * atk * defcoeff) + '</b></color>'
-                                    var s2 = '<color style="color:#' + COL +  ';"><b>' + Math.floor(v2 * atk * defcoeff) + '</b></color>'
-                                    var s3 = '<color style="color:#' + COL +  ';"><b>' + Math.floor(v3 * atk * defcoeff) + '</b></color>'
-                                    var s4 = '<color style="color:#' + COL +  ';"><b>' + Math.floor(v4 * atk * defcoeff) + '</b></color>'
-                                    var s5 = '<color style="color:#' + COL +  ';"><b>' + Math.floor(v5 * atk * defcoeff) + '</b></color>'
+                                    var s1 = '<color style="color:#' + COL + ';"><b>' + Math.floor(v1 * atk * defcoeff) + '</b></color>'
+                                    var s2 = '<color style="color:#' + COL + ';"><b>' + Math.floor(v2 * atk * defcoeff) + '</b></color>'
+                                    var s3 = '<color style="color:#' + COL + ';"><b>' + Math.floor(v3 * atk * defcoeff) + '</b></color>'
+                                    var s4 = '<color style="color:#' + COL + ';"><b>' + Math.floor(v4 * atk * defcoeff) + '</b></color>'
+                                    var s5 = '<color style="color:#' + COL + ';"><b>' + Math.floor(v5 * atk * defcoeff) + '</b></color>'
                                 } else {
-                                    var s1 = '<color style="color:#' + COL +  ';"><b>' + (v1 * 100).toFixed(1).replace('.0', '') + '%</b></color>'
-                                    var s2 = '<color style="color:#' + COL +  ';"><b>' + (v2 * 100).toFixed(1).replace('.0', '') + '%</b></color>'
-                                    var s3 = '<color style="color:#' + COL +  ';"><b>' + (v3 * 100).toFixed(1).replace('.0', '') + '%</b></color>'
-                                    var s4 = '<color style="color:#' + COL +  ';"><b>' + (v4 * 100).toFixed(1).replace('.0', '') + '%</b></color>'
-                                    var s5 = '<color style="color:#' + COL +  ';"><b>' + (v5 * 100).toFixed(1).replace('.0', '') + '%</b></color>'
+                                    var s1 = '<color style="color:#' + COL + ';"><b>' + (v1 * 100).toFixed(1).replace('.0', '') + '%</b></color>'
+                                    var s2 = '<color style="color:#' + COL + ';"><b>' + (v2 * 100).toFixed(1).replace('.0', '') + '%</b></color>'
+                                    var s3 = '<color style="color:#' + COL + ';"><b>' + (v3 * 100).toFixed(1).replace('.0', '') + '%</b></color>'
+                                    var s4 = '<color style="color:#' + COL + ';"><b>' + (v4 * 100).toFixed(1).replace('.0', '') + '%</b></color>'
+                                    var s5 = '<color style="color:#' + COL + ';"><b>' + (v5 * 100).toFixed(1).replace('.0', '') + '%</b></color>'
                                 }
                                 return skill.Desc[lang].replace('<1>', s1).replace('<2>', s2).replace('<3>', s3).replace('<4>', s4).replace('<5>', s5)
                             },
@@ -927,7 +1062,7 @@ $(function () {
                         },
                         {
                             td: [
-                                _stance.toFixed(0), 
+                                _stance.toFixed(0),
                                 {
                                     span: {
                                         img: function (k) {
