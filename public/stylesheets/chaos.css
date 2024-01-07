@@ -474,7 +474,6 @@ input[type=number] {
 .chart_container {
     height: 600px;
     overflow-x: scroll;
-    min-width: 800px;
     width: 100%;
 }
 
