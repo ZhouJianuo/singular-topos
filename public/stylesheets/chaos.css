@@ -458,6 +458,12 @@ input[type=number] {
 #chart {
     width: 100%;
     height: 100%;
+    overflow-x: scroll;
+}
+
+#chart::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
 }
 
 .chart_container::-webkit-scrollbar {
@@ -468,7 +474,7 @@ input[type=number] {
 .chart_container {
     height: 600px;
     overflow-x: scroll;
-    min-width: 600px;
+    min-width: 800px;
     width: 100%;
 }
 

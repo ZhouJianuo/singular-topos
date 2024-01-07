@@ -321,7 +321,7 @@ $(function () {
                 feature: {
                     saveAsImage: {}
                 },
-                right: '66%',
+                right: '75%',
                 top: '10%'
             },
             xAxis: {
