@@ -171,7 +171,8 @@ $(function () {
                                     schedule: t[lang],
                                     class: 'mon_head_option' + (i ? '' : ' active'),
                                     a: {
-                                        'data-id': i + 1
+                                        'data-id': i + 1,
+                                        'data-tu': t.EN
                                     },
                                     event: {
                                         click: function (d) {
@@ -832,12 +833,12 @@ $(function () {
     $('body').on('click', '.input_calc', function () {
         IS_DMG = 1
         getStats1()
-        $('.mon_head section schedule:nth-child(2)').click()
+        $(".mon_head_option[data-tu='Skills']").click()
     })
 
     $('body').on('click', '.input_reset', function () {
         IS_DMG = 0
-        $('.mon_head section schedule:nth-child(2)').click()
+        $(".mon_head_option[data-tu='Skills']").click()
     })
 
     $('body').on('click', '.monster_card', function () {
