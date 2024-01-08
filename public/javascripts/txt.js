@@ -279,9 +279,17 @@ var txt = {
         "CH": "第#层满星输出演化",
         "EN": "Floor # Full-Star DMG Trend"
     },
+    "Chart_Title_": {
+        "CH": "第#层总血量演化",
+        "EN": "Floor # Total HP Trend"
+    },
     "Chart_Subtitle": {
         "CH": "玉衡杯数据库 homdgcat.wiki",
         "EN": "HomDGCat Database - en.homdgcat.wiki"
+    },
+    "Fiction_HP": {
+        "CH": "总血量",
+        "EN": "Total HP"
     },
 }
 

@@ -485,10 +485,6 @@ input[type=number] {
     margin: 0px 0px 5px 0px;
 }
 
-.u_l {
-    margin-bottom: 50px;
-}
-
 .monicon_num {
     position: absolute;
     top: -3px;
@@ -504,6 +500,28 @@ input[type=number] {
     font-size: 13px;
     font-weight: bold;
     font-family: 'Arial';
+}
+
+#chart {
+    width: 100%;
+    min-width: 800px;
+    height: 100%;
+    overflow-x: scroll;
+}
+
+#chart::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+}
+
+.chart_container::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+}
+
+.chart_container {
+    height: 600px;
+    overflow-x: scroll;
 }
 
 @media screen and (min-width: 500px) and (max-width: 800px) {

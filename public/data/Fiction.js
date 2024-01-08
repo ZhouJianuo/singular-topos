@@ -3428,6 +3428,105 @@ var _fictionschedule = [
     }
 ]
 
+var _fictionhp = {
+    "1": {
+        "Name": {
+            "CH": [
+                "游辞漫说",
+                "羁鸟奇谭",
+                "舌灿莲花"
+            ],
+            "EN": [
+                "Youci's Wandering Words",
+                "Tales of a Tethered Bird",
+                "An Expression of Eloquence"
+            ]
+        },
+        "HP": [
+            1101866,
+            1057724,
+            984202
+        ],
+        "Index": {
+            "2001": 0,
+            "2002": 1,
+            "2003": 2
+        }
+    },
+    "2": {
+        "Name": {
+            "CH": [
+                "游辞漫说",
+                "羁鸟奇谭",
+                "舌灿莲花"
+            ],
+            "EN": [
+                "Youci's Wandering Words",
+                "Tales of a Tethered Bird",
+                "An Expression of Eloquence"
+            ]
+        },
+        "HP": [
+            2268004,
+            2079805,
+            2349053
+        ],
+        "Index": {
+            "2001": 0,
+            "2002": 1,
+            "2003": 2
+        }
+    },
+    "3": {
+        "Name": {
+            "CH": [
+                "游辞漫说",
+                "羁鸟奇谭",
+                "舌灿莲花"
+            ],
+            "EN": [
+                "Youci's Wandering Words",
+                "Tales of a Tethered Bird",
+                "An Expression of Eloquence"
+            ]
+        },
+        "HP": [
+            4237281,
+            3566096,
+            5368352
+        ],
+        "Index": {
+            "2001": 0,
+            "2002": 1,
+            "2003": 2
+        }
+    },
+    "4": {
+        "Name": {
+            "CH": [
+                "游辞漫说",
+                "羁鸟奇谭",
+                "舌灿莲花"
+            ],
+            "EN": [
+                "Youci's Wandering Words",
+                "Tales of a Tethered Bird",
+                "An Expression of Eloquence"
+            ]
+        },
+        "HP": [
+            5931885,
+            6282615,
+            6639229
+        ],
+        "Index": {
+            "2001": 0,
+            "2002": 1,
+            "2003": 2
+        }
+    }
+}
+
 var _fictiondict = {
     "2001": -1,
     "2002": -2,

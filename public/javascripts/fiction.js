@@ -148,7 +148,64 @@ $(function () {
                         }
                     ],
                     class: 'u_l'
-                }
+                },
+                {
+                    div: {
+                        div: '',
+                        id: 'chart',
+                    },
+                    class: 'chart_container'
+                },
+                {
+                    div: [
+                        {
+                            div: '◁',
+                            class: 'f_l'
+                        },
+                        {
+                            div: '',
+                            class: 'f_text'
+                        },
+                        {
+                            div: '▷',
+                            class: 'f_r'
+                        }
+                    ],
+                    class: 'floor_select',
+                    style: {
+                        'margin-top': '30px'
+                    }
+                },
+                {
+                    div: [
+                        {
+                            div: '◁',
+                            class: 'v_l'
+                        },
+                        {
+                            div: [
+                                {
+                                    p: '',
+                                    class: 'ver_text_name'
+                                },
+                                {
+                                    p: '',
+                                    class: 'ver_text_time'
+                                }
+                            ],
+                            class: 'ver_text'
+                        },
+                        {
+                            div: '▷',
+                            class: 'v_r'
+                        }
+                    ],
+                    class: 'ver',
+                    style: {
+                        'margin-top': '10px',
+                        'margin-bottom': '40px'
+                    }
+                },
             ],
             class: 'content'
         }
@@ -248,6 +305,71 @@ $(function () {
         $('.l_m').render({
             template: Lineup(cur_floor_data.Lower)
         })
+
+        var floor_name = $('.f_text').html()
+
+        myChart = echarts.init(document.getElementById('chart'))
+        var option = {
+            title: {
+                text: txt.Chart_Title_[lang].replace('#', floor_name),
+                subtext: txt.Chart_Subtitle[lang],
+                left: 'center',
+                textStyle: {
+                    color: '#000'
+                },
+                subtextStyle: {
+                    color: '#2545ba'
+                },
+                top: '8%'
+            },
+            tooltip: {
+                trigger: 'axis'
+            },
+            legend: {
+                data: [txt.Fiction_HP[lang]],
+                top: '20%'
+            },
+            grid: {
+                left: '3%',
+                right: '4%',
+                top: '26%',
+                containLabel: true
+            },
+            toolbox: {
+                feature: {
+                    saveAsImage: {}
+                },
+                right: '75%',
+                top: '10%'
+            },
+            xAxis: {
+                type: 'category',
+                boundaryGap: true,
+                data: _fictionhp[floor_name].Name[lang],
+                axisLabel: {
+                    color: '#000',
+                    padding: [5, 0],
+                }
+            },
+            yAxis: {
+                type: 'value'
+            },
+            series: [
+                {
+                    name: txt.Fiction_HP[lang],
+                    type: 'line',
+                    data: _fictionhp[floor_name].HP
+                }
+            ]
+        }
+        myChart.setOption(option)
+
+        myChart.dispatchAction({
+            type: 'showTip',
+            dataIndex: _fictionhp[$('.f_text').html()].Index[_fictionschedule[mod(cur_index, max_index)]._id],
+            seriesIndex: 0,
+        })
+
     }
 
     $('.v_r').on('click', function () {
@@ -268,6 +390,14 @@ $(function () {
     $('.f_l').on('click', function () {
         cur_floor -= 1
         writeData()
+    })
+
+    $('#chart').on('mouseleave', function () {
+        myChart.dispatchAction({
+            type: 'showTip',
+            dataIndex: _fictionhp[$('.f_text').html()].Index[_fictionschedule[mod(cur_index, max_index)]._id],
+            seriesIndex: 0,
+        })
     })
 
     function Lineup(L) {
