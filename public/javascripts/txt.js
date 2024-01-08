@@ -216,8 +216,8 @@ var txt = {
         "EN": "Total Cycles: "
     },
     "Cycle55": {
-        "CH": "总轮数：5+5",
-        "EN": "Total Cycles: 5+5"
+        "CH": "总轮数：4+4",
+        "EN": "Total Cycles: 4+4"
     },
     "Wave": [
         {
