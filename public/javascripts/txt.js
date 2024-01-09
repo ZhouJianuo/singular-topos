@@ -260,12 +260,12 @@ var txt = {
         "EN": " (Max # on field)"
     },
     "MoC": {
-        "CH": "混沌回忆",
-        "EN": "Memory of Chaos"
+        "CH": "混沌回忆 2.0v3",
+        "EN": "Memory of Chaos 2.0v3"
     },
     "Fiction": {
-        "CH": "虚构叙事",
-        "EN": "Pure Fiction"
+        "CH": "虚构叙事 2.0v3",
+        "EN": "Pure Fiction2.0v3"
     },
     "HS": {
         "CH": "<p><b>玉衡杯数据库 - bilibili@妮可少女 | t.me/homdgcat</b></p>",
