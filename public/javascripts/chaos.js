@@ -169,7 +169,7 @@ $(function () {
                             class: 'f_r'
                         }
                     ],
-                    class: 'floor_select',
+                    class: 'floor_select under',
                     style: {
                         'margin-top': '30px'
                     }
@@ -198,7 +198,7 @@ $(function () {
                             class: 'v_r'
                         }
                     ],
-                    class: 'ver',
+                    class: 'ver under',
                     style: {
                         'margin-top': '10px',
                         'margin-bottom': '40px'
@@ -1258,11 +1258,13 @@ $(function () {
             $('.lang').hide()
             $('.title').html(txt.MoC[lang])
             $('.subtitle').html(txt.HS[lang])
+            $('.under').hide()
         } else {
             $('h3 .links').html(txt.Page[lang]);
             $('.lang').show()
             $('.title').html(txt.Title[lang])
             $('.subtitle').html(txt.Subtitle[lang])
+            $('.under').show()
         }
     })
 
