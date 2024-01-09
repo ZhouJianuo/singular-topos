@@ -24,9 +24,10 @@ app.get('/en', (req, res) => {
 
 app.get('/mons', async (req, res) => {
     let result = {};
-    let { monster = '', level = '', lang = '', eg = '', hlg = '', def = '' } = req.query;
+    let { monster = '', id = '', level = '', lang = '', eg = '', hlg = '', def = '' } = req.query;
     result.lang = lang;
     result.monster = monster;
+    result.id = id;
     result.level = level;
     result.eg = eg;
     result.hlg = hlg;
