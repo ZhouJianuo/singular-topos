@@ -14629,8 +14629,8 @@ var _monsterskill = {
             "EN": "Limited Free Drink"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害，如果目标身上拥有护盾，则造成伤害后还会对自身造成<color style='color:#f29e38;'>10%生命值上限</color>的冰属性伤害。",
-            "EN": "Deals <1> Ice DMG to a single target. If the target has Shield, will deal <color style='color:#f29e38;'>10% Max HP</color> Ice DMG to self."
+            "CH": "对指定我方单体造成<1>冰属性伤害，如果目标身上拥有护盾，则造成伤害后还会对自身造成<color style='color:#f29e38;'>8%生命值上限</color>的冰属性伤害，并有<color style='color:#f29e38;'>150%</color>基础概率使自身防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+            "EN": "Deals <1> Ice DMG to a single target. If the target has Shield, will deal <color style='color:#f29e38;'>8% Max HP</color> Ice DMG to self, and has a <color style='color:#f29e38;'>150%</color> Base Chance to decrease self DEF by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 10.0,
         "Elem": "Ice",
@@ -14645,8 +14645,8 @@ var _monsterskill = {
             "EN": "Bottomless Free Drink"
         },
         "Desc": {
-            "CH": "随机对我方单体造成4次<1>冰属性伤害。每次造成伤害后，如果目标身上拥有护盾，则还会对自身造成<color style='color:#f29e38;'>10%生命值上限</color>的冰属性伤害。",
-            "EN": "Randomly deals <1> Ice DMG 4 times to single targets. After every hit, if the target has Shield, will deal <color style='color:#f29e38;'>10% Max HP</color> Ice DMG to self."
+            "CH": "随机对我方单体造成4次<1>冰属性伤害。每次造成伤害后，如果目标身上拥有护盾，则还会对自身造成<color style='color:#f29e38;'>8%生命值上限</color>的冰属性伤害，并有<color style='color:#f29e38;'>150%</color>基础概率使自身防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+            "EN": "Randomly deals <1> Ice DMG 4 times to single targets. After every hit, if the target has Shield, will deal <color style='color:#f29e38;'>8% Max HP</color> Ice DMG to self, and has a <color style='color:#f29e38;'>150%</color> Base Chance to decrease self DEF by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 10.0,
         "Elem": "Ice",
@@ -14904,7 +14904,7 @@ var _monsterskill = {
         "Elem": "Fire",
         "DMG": [
             2.4,
-            1.2
+            1.6
         ]
     },
     "302402003": {
@@ -14930,8 +14930,8 @@ var _monsterskill = {
             "EN": "DHGDR: Incomplete Combustion"
         },
         "Desc": {
-            "CH": "初始具有【弱点无效】效果。<br>消耗<color style='color:#f29e38;'>4%生命值上限</color>，进入<color style='color:#f29e38;'>【次级燃烧】</color>并解除【弱点无效】效果。进入【次级燃烧】后自身大幅增强，但所有攻击会消耗自身<color style='color:#f29e38;'>2%生命值上限</color>，并扣除<color style='color:#f29e38;'>7%</color>【熔火能量】。",
-            "EN": "Initially has Weakness Protected.<br>Consumes <color style='color:#f29e38;'>4% Max HP</color> to enter the <color style='color:#f29e38;'>Incomplete Combustion</color> state and removes Weakness Protected. Sam is significantly more powerful in this state, but all his attacks consume <color style='color:#f29e38;'>2% Max HP</color> and <color style='color:#f29e38;'>7%</color> Molten Energy."
+            "CH": "消耗<color style='color:#f29e38;'>3%生命值上限</color>，进入<color style='color:#f29e38;'>【次级燃烧】</color>并获得<color style='color:#f29e38;'>【弱点无效】</color>效果。进入【次级燃烧】后自身大幅增强，但所有攻击会消耗自身<color style='color:#f29e38;'>1.5%生命值上限</color>。",
+            "EN": "Consumes <color style='color:#f29e38;'>3% Max HP</color> to enter the <color style='color:#f29e38;'>Incomplete Combustion</color> state and gains <color style='color:#f29e38;'>Weakness Protected</color>. Sam is significantly more powerful in this state, but all his attacks consume <color style='color:#f29e38;'>1.5% Max HP</color>."
         },
         "SP": 0,
         "Threat": true
@@ -14961,8 +14961,8 @@ var _monsterskill = {
             "EN": "SGE: Molten Core"
         },
         "Desc": {
-            "CH": "进入【次级燃烧】后使场地燃烧，同时燃烧我方的战技点；我方消耗燃烧的战技点时会消耗<color style='color:#f29e38;'>2%生命值上限</color>，同时额外造成等同于原伤害数值的<color style='color:#f29e38;'>40%</color>的火属性伤害，并且接受其他角色的治疗时，生命值回复量降低<color style='color:#f29e38;'>90%</color>。",
-            "EN": "After entering Secondary Combustion, Combusts the area and targets' Skill Points. When consuming Combusted Skill Points, targets lose <color style='color:#f29e38;'>2% Max HP</color> and additionally deal Fire DMG equal to <color style='color:#f29e38;'>40%</color> of the original DMG. When they receive healing from other characters, the amount of HP restored is reduced by <color style='color:#f29e38;'>90%</color>."
+            "CH": "进入【次级燃烧】后使场地燃烧，同时燃烧我方的战技点；我方消耗燃烧的战技点时会消耗<color style='color:#f29e38;'>1.5%生命值上限</color>，同时额外造成等同于原伤害数值的<color style='color:#f29e38;'>30%</color>的火属性伤害，并且接受其他角色的治疗时，生命值回复量降低<color style='color:#f29e38;'>90%</color>。",
+            "EN": "After entering Secondary Combustion, Combusts the area and targets' Skill Points. When consuming Combusted Skill Points, targets lose <color style='color:#f29e38;'>1.5% Max HP</color> and additionally deal Fire DMG equal to <color style='color:#f29e38;'>30%</color> of the original DMG. When they receive healing from other characters, the amount of HP restored is reduced by <color style='color:#f29e38;'>90%</color>."
         },
         "SP": 0
     },
@@ -17457,8 +17457,8 @@ var _monsterskill = {
             "EN": "Limited Free Drink"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害，并使其行动提前<color style='color:#f29e38;'>50%</color>。<br>如果目标身上拥有护盾，则造成伤害后还会对自身造成<color style='color:#f29e38;'>20%生命值上限</color>的冰属性伤害。",
-            "EN": "Deals <1> Ice DMG to a single target and advance their action by <color style='color:#f29e38;'>50%</color>.<br>If the target has Shield, will deal <color style='color:#f29e38;'>20% Max HP</color> Ice DMG to self."
+            "CH": "对指定我方单体造成<1>冰属性伤害，并使其行动提前<color style='color:#f29e38;'>50%</color>。<br>如果目标身上拥有护盾，则造成伤害后还会对自身造成<color style='color:#f29e38;'>20%生命值上限</color>的冰属性伤害，并有<color style='color:#f29e38;'>150%</color>基础概率使自身防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+            "EN": "Deals <1> Ice DMG to a single target and advance their action by <color style='color:#f29e38;'>50%</color>.<br>If the target has Shield, will deal <color style='color:#f29e38;'>20% Max HP</color> Ice DMG to self, and has a <color style='color:#f29e38;'>150%</color> Base Chance to decrease self DEF by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 10.0,
         "Elem": "Ice",
@@ -17473,8 +17473,8 @@ var _monsterskill = {
             "EN": "Bottomless Free Drink"
         },
         "Desc": {
-            "CH": "对被监视的我方单体造成<1>冰属性伤害（分4次伤害），并使其行动提前<color style='color:#f29e38;'>50%</color>。<br>每次造成伤害后，如果目标身上拥有护盾，则会对自身造成<color style='color:#f29e38;'>20%生命值上限</color>的冰属性伤害，并对随机敌方造成<color style='color:#f29e38;'>1%生命值上限</color>的冰属性伤害。",
-            "EN": "Deals <1> Ice DMG to the Marked target (in 4 hits) and advance their action by <color style='color:#f29e38;'>50%</color>.<br> After every hit, if the target has Shield, will deal <color style='color:#f29e38;'>20% Max HP</color> Ice DMG to self and <color style='color:#f29e38;'>1% Max HP</color> Ice DMG to a random ally."
+            "CH": "对被监视的我方单体造成<1>冰属性伤害（分4次伤害），并使其行动提前<color style='color:#f29e38;'>50%</color>。<br>每次造成伤害后，如果目标身上拥有护盾，则会对自身造成<color style='color:#f29e38;'>20%生命值上限</color>的冰属性伤害，并对随机敌方造成<color style='color:#f29e38;'>1%生命值上限</color>的冰属性伤害，并有<color style='color:#f29e38;'>150%</color>基础概率使自身防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+            "EN": "Deals <1> Ice DMG to the Marked target (in 4 hits) and advance their action by <color style='color:#f29e38;'>50%</color>.<br> After every hit, if the target has Shield, will deal <color style='color:#f29e38;'>20% Max HP</color> Ice DMG to self and <color style='color:#f29e38;'>1% Max HP</color> Ice DMG to a random ally, and has a <color style='color:#f29e38;'>150%</color> Base Chance to decrease self DEF by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>2</color> turns."
         },
         "SP": 10.0,
         "Elem": "Ice",
@@ -17502,8 +17502,8 @@ var _monsterskill = {
             "EN": "Celebration Fountain"
         },
         "Desc": {
-            "CH": "进入蓄力状态，获得<color style='color:#f29e38;'>韧性保护</color>，下次行动时施放<color style='color:#f29e38;'>【无限畅饮】</color>。<br>将随机我方单体标记为<color style='color:#f29e38;'>监视目标</color>。每当我方目标施放战技时，会转为标记最新施放战技的目标。此状态下，自身受到攻击时行动将会提前<color style='color:#f29e38;'>7%</color>。",
-            "EN": "Enters the Charge stage and gains <color style='color:#f29e38;'>Toughness Protection</color>. Uses <color style='color:#f29e38;'>Bottomless Free Drink</color> during the next action.<br>Will <color style='color:#f29e38;'>Mark</color> a random target. When a character uses their Skill, Mark will be moved to the new Skill user. When attacked, advances own action by <color style='color:#f29e38;'>7</color>."
+            "CH": "进入蓄力状态，获得<color style='color:#f29e38;'>韧性保护</color>，下次行动时施放<color style='color:#f29e38;'>【无限畅饮】</color>。<br>将随机我方单体标记为<color style='color:#f29e38;'>监视目标</color>。每当我方目标施放战技时，会转为标记最新施放战技的目标。此状态下，自身受到攻击时行动将会提前<color style='color:#f29e38;'>10%%</color>。",
+            "EN": "Enters the Charge stage and gains <color style='color:#f29e38;'>Toughness Protection</color>. Uses <color style='color:#f29e38;'>Bottomless Free Drink</color> during the next action.<br>Will <color style='color:#f29e38;'>Mark</color> a random target. When a character uses their Skill, Mark will be moved to the new Skill user. When attacked, advances own action by <color style='color:#f29e38;'>10%</color>."
         },
         "SP": 0
     },
@@ -17575,8 +17575,8 @@ var _monsterskill = {
             "EN": "DHGDR: Incomplete Combustion"
         },
         "Desc": {
-            "CH": "初始具有【弱点无效】效果。<br>消耗<color style='color:#f29e38;'>4%生命值上限</color>，进入<color style='color:#f29e38;'>【次级燃烧】</color>并解除【弱点无效】效果。进入【次级燃烧】后自身大幅增强，但所有攻击会消耗自身<color style='color:#f29e38;'>2%生命值上限</color>，并扣除<color style='color:#f29e38;'>7%</color>【熔火能量】。",
-            "EN": "Initially has Weakness Protected.<br>Consumes <color style='color:#f29e38;'>4% Max HP</color> to enter the <color style='color:#f29e38;'>Incomplete Combustion</color> state and removes Weakness Protected. Sam is significantly more powerful in this state, but all his attacks consume <color style='color:#f29e38;'>2% Max HP</color> and <color style='color:#f29e38;'>7%</color> Molten Energy."
+            "CH": "消耗<color style='color:#f29e38;'>3%生命值上限</color>，进入<color style='color:#f29e38;'>【次级燃烧】</color>并获得<color style='color:#f29e38;'>【弱点无效】</color>效果。进入【次级燃烧】后自身大幅增强，但所有攻击会消耗自身<color style='color:#f29e38;'>2%生命值上限</color>，并扣除<color style='color:#f29e38;'>7%</color>【熔火能量】。",
+            "EN": "Consumes <color style='color:#f29e38;'>3% Max HP</color> to enter the <color style='color:#f29e38;'>Incomplete Combustion</color> state and gains <color style='color:#f29e38;'>Weakness Protected</color>. Sam is significantly more powerful in this state, but all his attacks consume <color style='color:#f29e38;'>2% Max HP</color> and <color style='color:#f29e38;'>7%</color> Molten Energy."
         },
         "SP": 0,
         "Threat": true
@@ -17606,8 +17606,8 @@ var _monsterskill = {
             "EN": "SGE: Molten Core"
         },
         "Desc": {
-            "CH": "进入【次级燃烧】后使场地燃烧，同时燃烧我方的战技点；我方消耗燃烧的战技点时会消耗<color style='color:#f29e38;'>2%生命值上限</color>，同时额外造成等同于原伤害数值的<color style='color:#f29e38;'>40%</color>的火属性伤害，并且接受其他角色的治疗时，生命值回复量降低<color style='color:#f29e38;'>80%</color>。",
-            "EN": "After entering Secondary Combustion, Combusts the area and targets' Skill Points. When consuming Combusted Skill Points, targets lose <color style='color:#f29e38;'>2% Max HP</color> and additionally deal Fire DMG equal to <color style='color:#f29e38;'>40%</color> of the original DMG. When they receive healing from other characters, the amount of HP restored is reduced by <color style='color:#f29e38;'>80%</color>."
+            "CH": "进入【次级燃烧】后使场地燃烧，同时燃烧我方的战技点；我方消耗燃烧的战技点时会消耗<color style='color:#f29e38;'>1.5%生命值上限</color>，同时额外造成等同于原伤害数值的<color style='color:#f29e38;'>30%</color>的火属性伤害，并且接受其他角色的治疗时，生命值回复量降低<color style='color:#f29e38;'>60%</color>。",
+            "EN": "After entering Secondary Combustion, Combusts the area and targets' Skill Points. When consuming Combusted Skill Points, targets lose <color style='color:#f29e38;'>1.5% Max HP</color> and additionally deal Fire DMG equal to <color style='color:#f29e38;'>30%</color> of the original DMG. When they receive healing from other characters, the amount of HP restored is reduced by <color style='color:#f29e38;'>60%</color>."
         },
         "SP": 0
     },
@@ -17902,8 +17902,8 @@ var _monsterskill = {
             "EN": "SGE-Molten Engine"
         },
         "Desc": {
-            "CH": "萨姆在<color style='color:#f29e38;'>【次级燃烧】</color>下拥有100%的【熔火能量】，损失生命值将扣除【熔火能量】（<color style='color:#f29e38;'>28%</color>生命值上限对应100%熔火能量）。<br>被弱点击破或【熔火能量】耗尽时解除【次级燃烧】，并损失全部韧性。<br>解除【次级燃烧】时，萨姆受到的伤害提高<color style='color:#f29e38;'>50%</color>，并恢复我方全体全部能量。",
-            "EN": "While in <color style='color:#f29e38;'>Secondary Combustion</color>, Sam has 100% Molten Energy. Losing HP will deduct Molten Energy (<color style='color:#f29e38;'>28%</color> Max HP corresponds to 100% Molten Energy).<br>When Weakness is Broken or when Molten Energy is depleted, dispels Secondary Combustion and loses all Toughness.<br>When Secondary Combustion is dispelled, Sam receives <color style='color:#f29e38;'>50%</color> increased DMG, and revives all Energy for all characters."
+            "CH": "萨姆在【次级燃烧】下拥有【熔火能量】，被攻击时若此次攻击消耗了燃烧战技点则削减对应数量的【熔火能量】，【熔火能量】耗尽时解除【次级燃烧】。解除【次级燃烧】时，萨姆受到的伤害提高，并恢复我方所有战技点。",
+            "EN": "While in Secondary Combustion, Sam possesses Molten Energy. A corresponding amount of Molten Energy can be depleted upon being attacked with Skills using Combusted Skill Points. When Molten Energy is depleted, dispels Secondary Combustion. When Secondary Combustion is dispelled, Sam receives increased DMG, and recovers Skill Points for all allies."
         },
         "SP": 0,
         "Status": [
@@ -17920,8 +17920,8 @@ var _monsterskill = {
             "EN": "SGE-Molten Engine"
         },
         "Desc": {
-            "CH": "萨姆在<color style='color:#f29e38;'>【次级燃烧】</color>下拥有100%的【熔火能量】，损失生命值将扣除【熔火能量】（<color style='color:#f29e38;'>28%</color>生命值上限对应100%熔火能量）。<br>被弱点击破或【熔火能量】耗尽时解除【次级燃烧】，并损失全部韧性。<br>解除【次级燃烧】时，萨姆受到的伤害提高<color style='color:#f29e38;'>50%</color>，并恢复我方全体全部能量。",
-            "EN": "While in <color style='color:#f29e38;'>Secondary Combustion</color>, Sam has 100% Molten Energy. Losing HP will deduct Molten Energy (<color style='color:#f29e38;'>28%</color> Max HP corresponds to 100% Molten Energy).<br>When Weakness is Broken or when Molten Energy is depleted, dispels Secondary Combustion and loses all Toughness.<br>When Secondary Combustion is dispelled, Sam receives <color style='color:#f29e38;'>50%</color> increased DMG, and revives all Energy for all characters."
+            "CH": "萨姆在【次级燃烧】下拥有【熔火能量】，被攻击时若此次攻击消耗了燃烧战技点则削减对应数量的【熔火能量】，【熔火能量】耗尽时解除【次级燃烧】。解除【次级燃烧】时，萨姆受到的伤害提高，并恢复我方所有战技点。",
+            "EN": "While in Secondary Combustion, Sam possesses Molten Energy. A corresponding amount of Molten Energy can be depleted upon being attacked with Skills using Combusted Skill Points. When Molten Energy is depleted, dispels Secondary Combustion. When Secondary Combustion is dispelled, Sam receives increased DMG, and recovers Skill Points for all allies."
         },
         "SP": 0,
         "Status": [
