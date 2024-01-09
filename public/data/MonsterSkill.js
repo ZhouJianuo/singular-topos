@@ -17902,8 +17902,8 @@ var _monsterskill = {
             "EN": "SGE-Molten Engine"
         },
         "Desc": {
-            "CH": "萨姆在【次级燃烧】下拥有【熔火能量】，被攻击时若此次攻击消耗了燃烧战技点则削减对应数量的【熔火能量】，【熔火能量】耗尽时解除【次级燃烧】。解除【次级燃烧】时，萨姆受到的伤害提高，并恢复我方所有战技点。",
-            "EN": "While in Secondary Combustion, Sam possesses Molten Energy. A corresponding amount of Molten Energy can be depleted upon being attacked with Skills using Combusted Skill Points. When Molten Energy is depleted, dispels Secondary Combustion. When Secondary Combustion is dispelled, Sam receives increased DMG, and recovers Skill Points for all allies."
+            "CH": "萨姆在【次级燃烧】下拥有<color style='color:#f29e38;'>5</color>点【熔火能量】，被攻击时若此次攻击消耗了燃烧战技点则削减对应数量的【熔火能量】，【熔火能量】耗尽时解除【次级燃烧】。解除【次级燃烧】时，萨姆受到的伤害提高<color style='color:#f29e38;'>50%</color>，并恢复我方所有战技点。",
+            "EN": "While in Secondary Combustion, Sam possesses <color style='color:#f29e38;'>5</color> Molten Energy. A corresponding amount of Molten Energy can be depleted upon being attacked with Skills using Combusted Skill Points. When Molten Energy is depleted, dispels Secondary Combustion. When Secondary Combustion is dispelled, Sam receives <color style='color:#f29e38;'>50%</color> increased DMG, and recovers Skill Points for all allies."
         },
         "SP": 0,
         "Status": [
@@ -17920,8 +17920,8 @@ var _monsterskill = {
             "EN": "SGE-Molten Engine"
         },
         "Desc": {
-            "CH": "萨姆在【次级燃烧】下拥有【熔火能量】，被攻击时若此次攻击消耗了燃烧战技点则削减对应数量的【熔火能量】，【熔火能量】耗尽时解除【次级燃烧】。解除【次级燃烧】时，萨姆受到的伤害提高，并恢复我方所有战技点。",
-            "EN": "While in Secondary Combustion, Sam possesses Molten Energy. A corresponding amount of Molten Energy can be depleted upon being attacked with Skills using Combusted Skill Points. When Molten Energy is depleted, dispels Secondary Combustion. When Secondary Combustion is dispelled, Sam receives increased DMG, and recovers Skill Points for all allies."
+            "CH": "萨姆在【次级燃烧】下拥有<color style='color:#f29e38;'>5</color>点【熔火能量】，被攻击时若此次攻击消耗了燃烧战技点则削减对应数量的【熔火能量】，【熔火能量】耗尽时解除【次级燃烧】。解除【次级燃烧】时，萨姆受到的伤害提高<color style='color:#f29e38;'>50%</color>，并恢复我方所有战技点。",
+            "EN": "While in Secondary Combustion, Sam possesses <color style='color:#f29e38;'>5</color> Molten Energy. A corresponding amount of Molten Energy can be depleted upon being attacked with Skills using Combusted Skill Points. When Molten Energy is depleted, dispels Secondary Combustion. When Secondary Combustion is dispelled, Sam receives <color style='color:#f29e38;'>50%</color> increased DMG, and recovers Skill Points for all allies."
         },
         "SP": 0,
         "Status": [
