@@ -25,7 +25,7 @@ var _fiction = [
                 },
                 "Desc": {
                     "CH": "角色的追加攻击造成的伤害提高<color style='color:#f29e38;'>50.0%</color>，且触发【怪诞逸闻】的效果后会额外再触发1次效果。",
-                    "EN": "Follow-up attacks deal <color style='color:#f29e38;'>50.0%</color> increased DMG. The Devious Flattery effect is triggered one additional time."
+                    "EN": "Characters' follow-up attacks deal <color style='color:#f29e38;'>50.0%</color> increased DMG, and this effect will be triggered 1 additional time after triggering Whimsicality's effect."
                 }
             },
             {

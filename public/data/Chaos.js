@@ -1051,7 +1051,8 @@ var _chaos = [
                     "Wind"
                 ],
                 "ElemLower": [
-                    "Quantum"
+                    "Phys",
+                    "Elec"
                 ],
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
@@ -1069,8 +1070,8 @@ var _chaos = [
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
-                "HPSingle": 248523,
-                "HPMulti": 148251,
+                "HPSingle": 249871,
+                "HPMulti": 142860,
                 "Upper": [
                     {
                         "Level": 90,
@@ -1126,30 +1127,36 @@ var _chaos = [
                         "Monsters": [
                             [
                                 {
-                                    "ID": 8003030,
+                                    "ID": 2023030,
                                     "HP": 296503,
-                                    "SPD": 158,
-                                    "Stance": 10
-                                },
-                                {
-                                    "ID": 2013010,
-                                    "HP": 269548,
-                                    "SPD": 132,
-                                    "Stance": 10
-                                }
-                            ],
-                            [
-                                {
-                                    "ID": 100401004,
-                                    "HP": 539096,
                                     "SPD": 158,
                                     "Stance": 14
                                 },
                                 {
-                                    "ID": 8003030,
-                                    "HP": 296503,
+                                    "ID": 2013020,
+                                    "HP": 323457,
                                     "SPD": 158,
                                     "Stance": 10
+                                },
+                                {
+                                    "ID": 2012010,
+                                    "HP": 40432,
+                                    "SPD": 132,
+                                    "Stance": 2
+                                }
+                            ],
+                            [
+                                {
+                                    "ID": 2023030,
+                                    "HP": 296503,
+                                    "SPD": 158,
+                                    "Stance": 14
+                                },
+                                {
+                                    "ID": 100402005,
+                                    "HP": 458231,
+                                    "SPD": 158,
+                                    "Stance": 12
                                 }
                             ]
                         ]
@@ -1159,8 +1166,7 @@ var _chaos = [
             {
                 "Floor": 11,
                 "ElemUpper": [
-                    "Phys",
-                    "Imaginary"
+                    "Quantum"
                 ],
                 "ElemLower": [
                     "Fire",
@@ -1183,8 +1189,8 @@ var _chaos = [
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
-                "HPSingle": 390023,
-                "HPMulti": 215788,
+                "HPSingle": 344095,
+                "HPMulti": 201208,
                 "Upper": [
                     {
                         "Level": 92,
@@ -1196,36 +1202,30 @@ var _chaos = [
                         "Monsters": [
                             [
                                 {
-                                    "ID": 2013020,
-                                    "HP": 349927,
+                                    "ID": 8003030,
+                                    "HP": 320767,
                                     "SPD": 158,
                                     "Stance": 10
                                 },
                                 {
-                                    "ID": 3003020,
-                                    "HP": 524891,
-                                    "SPD": 190,
-                                    "Stance": 10
-                                },
-                                {
-                                    "ID": 3002010,
-                                    "HP": 80192,
+                                    "ID": 2013010,
+                                    "HP": 291606,
                                     "SPD": 132,
-                                    "Stance": 3
+                                    "Stance": 10
                                 }
                             ],
                             [
                                 {
-                                    "ID": 3003020,
-                                    "HP": 524891,
-                                    "SPD": 190,
-                                    "Stance": 10
+                                    "ID": 100401004,
+                                    "HP": 583212,
+                                    "SPD": 158,
+                                    "Stance": 14
                                 },
                                 {
-                                    "ID": 100402005,
-                                    "HP": 495730,
+                                    "ID": 8003030,
+                                    "HP": 320767,
                                     "SPD": 158,
-                                    "Stance": 12
+                                    "Stance": 10
                                 }
                             ]
                         ]
@@ -1298,8 +1298,8 @@ var _chaos = [
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
-                "HPSingle": 427354,
-                "HPMulti": 311393,
+                "HPSingle": 433842,
+                "HPMulti": 317880,
                 "Upper": [
                     {
                         "Level": 95,
@@ -1372,7 +1372,7 @@ var _chaos = [
                                 },
                                 {
                                     "ID": 3024020,
-                                    "HP": 1556964,
+                                    "HP": 1621838,
                                     "SPD": 158,
                                     "Stance": 14
                                 }
@@ -2569,8 +2569,8 @@ var _chaos = [
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
-                "HPSingle": 442512,
-                "HPMulti": 288690,
+                "HPSingle": 448344,
+                "HPMulti": 294522,
                 "Upper": [
                     {
                         "Level": 92,
@@ -2643,7 +2643,7 @@ var _chaos = [
                                 },
                                 {
                                     "ID": 3024020,
-                                    "HP": 1399709,
+                                    "HP": 1458030,
                                     "SPD": 158,
                                     "Stance": 14
                                 },
@@ -28491,7 +28491,7 @@ var _chaoshp = {
             240437,
             257688,
             299872,
-            248523
+            249871
         ],
         "Multi": [
             55104,
@@ -28511,7 +28511,7 @@ var _chaoshp = {
             167120,
             185988,
             199465,
-            148251
+            142860
         ],
         "Index": {
             "110": 0,
@@ -28552,14 +28552,14 @@ var _chaoshp = {
         "Single": [
             279942,
             271194,
-            442512,
-            390023
+            448344,
+            344095
         ],
         "Multi": [
             180796,
             145803,
-            288690,
-            215788
+            294522,
+            201208
         ],
         "Index": {
             "1009": 0,
@@ -28587,13 +28587,13 @@ var _chaoshp = {
             363292,
             324368,
             385187,
-            427354
+            433842
         ],
         "Multi": [
             256250,
             214083,
             272469,
-            311393
+            317880
         ],
         "Index": {
             "1009": 0,
