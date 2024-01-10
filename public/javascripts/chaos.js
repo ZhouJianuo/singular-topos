@@ -1268,4 +1268,15 @@ $(function () {
         }
     })
 
+    $('body').on('dblclick', '.subtitle', function () {
+        console.log(1)
+        IS_SW = 1 - IS_SW
+        if (IS_SW) {
+            $('body').css('font-family', "'SW', sans-serif")
+        } else {
+            if (lang == 'EN') { $('body').css('font-family', "'Segoe UI', sans-serif") }
+            else { $('body').css('font-family', "'Microsoft YaHei', sans-serif") }
+        }
+    })
+
 })

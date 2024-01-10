@@ -11,7 +11,7 @@ $(function () {
     else {$('body').css('font-family', "'Microsoft YaHei', sans-serif")}
 
     $('h3 .title').html(txt.Title[lang])
-    $('h3 .title').attr('href', (lang == 'CH') ? '/' : '/en')
+    $('h3 .title').attr('href', (lang == 'CH') ? '/?game=SR' : '/en?game=SR')
     $('h3 .links').html(txt.Page[lang]);
     $('h3 .subtitle').html(txt.Subtitle[lang]);
     $('h3 .lang').html(txt.Lang[lang])
@@ -893,5 +893,16 @@ $(function () {
             })
         })
     }
+
+    $('body').on('dblclick', '.subtitle', function () {
+        console.log(1)
+        IS_SW = 1 - IS_SW
+        if (IS_SW) {
+            $('body').css('font-family', "'SW', sans-serif")
+        } else {
+            if (lang == 'EN') { $('body').css('font-family', "'Segoe UI', sans-serif") }
+            else { $('body').css('font-family', "'Microsoft YaHei', sans-serif") }
+        }
+    })
 
 })

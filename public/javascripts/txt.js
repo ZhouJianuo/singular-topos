@@ -515,3 +515,5 @@ function mod(n, m) {
 function lm(lis, i) {
     return lis[mod(i, lis.length)]
 }
+
+var IS_SW = 0
