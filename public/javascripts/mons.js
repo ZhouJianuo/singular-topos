@@ -23,7 +23,7 @@ $(function () {
     var EG = $('#EG').val() ? parseInt($('#EG').val()) : 1
     var HLG = $('#HLG').val() ? parseInt($('#HLG').val()) : 1
     var DEF = $('#DEF').val() ? parseInt($('#DEF').val()) : 2000
-    var LV = $('#LEVEL').val() ? parseInt($('#LEVEL').val()) : 95
+    var LV = $('#LEVEL').val() ? parseInt($('#LEVEL').val()) : 90
     refreshStats()
     var IS_DMG = 0
     var cm = {}
