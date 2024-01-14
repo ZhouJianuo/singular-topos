@@ -15,7 +15,7 @@ $(function () {
         var lang = lang_
         document.cookie = 'lang=' + lang_ + ';expires=' + new Date(DATE.getTime() + 8640000000).toUTCString() + ';path=/'
     } else {
-        var lang = (_lang === 'EN') ? 'EN' : 'CH';
+        var lang = (_lang === 'CH') ? 'CH' : 'EN';
     }
 
     var MONSTERID = $('#MONSTERID').val();
@@ -84,19 +84,6 @@ $(function () {
             $('.kingdom_11').addClass('active')
         }
 
-    }
-
-    function hasInput() {
-        var m_object = _Monsters[MONSTERID];
-        if (m_object && (m_object.KingdomID || m_object.KingdomID === 0)) {
-            var ele = $('.kingdom').find(`.kingdom_${m_object.KingdomID}`);
-            ele.addClass('active');
-            cur_kingdom = _Kingdoms[ele.index()]
-            monsterRenderPre(_Kingdoms[ele.index()].Classes, function () {
-                $('.class_monster').find(`.monster_${MONSTERID}`).addClass('active');
-                $('.calculate').click();
-            });
-        }
     }
 
     $('.com_result .calculate').click(function () {
@@ -827,7 +814,8 @@ $(function () {
                     },
                     datapath: 'Csx' 
                 },
-                class: 'csxylic'
+                class: 'csxylic',
+                when: (lang == 'CH')
             }]
         })
         $('.scroller').scrollTop($('.scroller')[0].scrollHeight - $('.com_result').height() - 150)
@@ -938,6 +926,21 @@ $(function () {
             ]
         })
         cd && cd();
+    }
+
+    function hasInput() {
+        var m_object = _Monsters[MONSTERID];
+        if (m_object && (m_object.KingdomID || m_object.KingdomID === 0)) {
+            var ele = $('.kingdom').find(`.kingdom_${m_object.KingdomID}`);
+            ele.addClass('active');
+            cur_kingdom = _Kingdoms[ele.index()]
+            monsterRenderPre(_Kingdoms[ele.index()].Classes, function () {
+                $('.class_monster').find(`.monster_${MONSTERID}`).addClass('active');
+                var kk = setTimeout(function () {
+                    $('.calculate').click();
+                }, 1000)
+            });
+        }
     }
 
     $("body").on("change", 'select[name="multiplayer"]', function () {

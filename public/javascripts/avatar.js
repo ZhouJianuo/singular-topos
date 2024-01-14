@@ -15,7 +15,7 @@ $(function () {
         var lang = lang_
         document.cookie = 'lang=' + lang_ + ';expires=' + new Date(DATE.getTime() + 8640000000).toUTCString() + ';path=/'
     } else {
-        var lang = (_lang === 'EN') ? 'EN' : 'CH';
+        var lang = (_lang === 'CH') ? 'CH' : 'EN';
     }
 
     $.session.set('AvatarInfoConfig', JSON.stringify(__AvatarInfoConfig))

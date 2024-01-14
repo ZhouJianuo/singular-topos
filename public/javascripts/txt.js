@@ -411,7 +411,7 @@ var links = [
             "CH": "<b>主页</b>",
             "EN": "<b>Main Page</b>"
         },
-        "Links": "/sr"
+        "Link": "/sr"
     },
     {
         "Name": {
@@ -468,8 +468,7 @@ function popLinks(l) {
                         template: {
                             schedule: {
                                 a: function (d) {
-                                    if (d.data.Link) return d.data.Link + '?lang=' + l
-                                    return d.data.Links[l]
+                                    return d.data.Link + '?lang=' + l
                                 },
                                 t: {
                                     span: `[[Name/${l}]]`,
