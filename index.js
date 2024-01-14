@@ -6,23 +6,51 @@ var path = require('path');
 app.set('view engine', 'pug');
 app.set('views', path.join(__dirname, 'views'));
 
+app.use(express.static(path.join(__dirname, 'public')));
+
 app.get('/', (req, res) => {
     let result = {};
-    let { game='' } = req.query;
+    let { game = '', lang = '' } = req.query;
     result.game = game;
-    result.title = '玉衡杯数据库'
+    result.lang = lang;
+    result.title = 'HomDGCat Database'
     res.render('home', result);
 });
 
-app.get('/en', (req, res) => {
+app.get('/gi', (req, res) => {
     let result = {};
-    let { game='' } = req.query;
-    result.game = game;
+    let { lang = '' } = req.query;
+    result.game = 'GI';
+    result.lang = lang;
     result.title = 'HomDGCat Database'
-    res.render('home_en', result);
+    res.render('home', result);
 });
 
-app.get('/mons', async (req, res) => {
+app.get('/sr', (req, res) => {
+    let result = {};
+    let { lang = '' } = req.query;
+    result.game = 'SR';
+    result.lang = lang;
+    result.title = 'HomDGCat Database'
+    res.render('home', result);
+});
+
+app.get('/sr/monster/:id', async (req, res) => {
+    let result = {};
+    let { monster = '', level = '', lang = '', eg = '', hlg = '', def = '' } = req.query;
+    result.lang = lang;
+    result.monster = monster;
+    result.id = req.params.id;
+    result.level = level;
+    result.eg = eg;
+    result.hlg = hlg;
+    result.def = def;
+    result.imgpre = '../../'
+    result.title = 'HomDGCat Database';
+    res.render('mons', result);
+});
+
+app.get('/sr/monster', async (req, res) => {
     let result = {};
     let { monster = '', id = '', level = '', lang = '', eg = '', hlg = '', def = '' } = req.query;
     result.lang = lang;
@@ -32,41 +60,117 @@ app.get('/mons', async (req, res) => {
     result.eg = eg;
     result.hlg = hlg;
     result.def = def;
+    result.imgpre = '../'
     result.title = 'HomDGCat Database';
     res.render('mons', result);
 });
 
-app.get('/diy', async (req, res) => {
+app.get('/sr/chaos/:id', async (req, res) => {
     let result = {};
-    let { lang = '' } = req.query;
+    let { lang = '', floor = '' } = req.query;
     result.lang = lang;
-    result.title = 'HomDGCat Database';
-    res.render('diy', result);
-});
-
-app.get('/chaos', async (req, res) => {
-    let result = {};
-    let { lang = '', id = '', floor = '' } = req.query;
-    result.lang = lang;
-    result.cid = id;
+    result.cid = req.params.id;
     result.fid = floor;
+    result.imgpre = '../../'
     result.title = 'HomDGCat Database';
     res.render('chaos', result);
 });
 
-
-app.get('/fiction', async (req, res) => {
+app.get('/sr/chaos', async (req, res) => {
     let result = {};
     let { lang = '', id = '', floor = '' } = req.query;
     result.lang = lang;
     result.cid = id;
     result.fid = floor;
+    result.imgpre = '../'
+    result.title = 'HomDGCat Database';
+    res.render('chaos', result);
+});
+
+app.get('/sr/fiction/:id', async (req, res) => {
+    let result = {};
+    let { lang = '', floor = '' } = req.query;
+    result.lang = lang;
+    result.cid = req.params.id;
+    result.fid = floor;
+    result.imgpre = '../../'
     result.title = 'HomDGCat Database';
     res.render('fiction', result);
 });
 
+app.get('/sr/fiction', async (req, res) => {
+    let result = {};
+    let { lang = '', id = '', floor = '' } = req.query;
+    result.lang = lang;
+    result.cid = id;
+    result.fid = floor;
+    result.imgpre = '../'
+    result.title = 'HomDGCat Database';
+    res.render('fiction', result);
+});
 
-app.use(express.static(path.join(__dirname, '/public')));
+app.get('/gi/monster', async (req, res) => {
+    let result = {};
+    let { monster = "", interval = '', lang = '' } = req.query;
+    result.url = req.originalUrl;
+    result.monster = monster;
+    result.interval = interval;
+    result.lang = lang;
+    result.imgpre = '../';
+    res.render('computer', result);
+})
+
+app.get('/gi/abyss', async (req, res) => {
+    let result = {};
+    let { lang = '' } = req.query;
+    result.lang = lang;
+    result.imgpre = '';
+    result.imgpre = '../';
+    res.render('database', result);
+});
+
+app.get('/gi/char/:id', async (req, res) => {
+    let result = {};
+    let { lang = ''} = req.query;
+    result.lang = lang;
+    result.avid = req.params.id;
+    result.imgpre = '../../';
+    res.render('avatar', result);
+});
+
+app.get('/gi/char', async (req, res) => {
+    let result = {};
+    let { lang = '', id = '' } = req.query;
+    result.lang = lang;
+    result.avid = id;
+    result.imgpre = '../';
+    res.render('avatar', result);
+});
+
+app.get('/gi/ach', async (req, res) => {
+    let result = {};
+    let { lang = '', id = '' } = req.query;
+    result.lang = lang;
+    result.id = id;
+    result.imgpre = '../';
+    res.render('ach', result);
+});
+
+app.get('/gi/shield', async (req, res) => {
+    let result = {};
+    let { lang = '' } = req.query;
+    result.lang = lang;
+    result.imgpre = '../';
+    res.render('shield', result);
+});
+
+app.get('/gi/load', async (req, res) => {
+    let result = {};
+    let { lang = '' } = req.query;
+    result.lang = lang;
+    result.imgpre = '../';
+    res.render('load', result);
+});
 
 const PORT = process.env.PORT | 8080
 app.listen(PORT);
