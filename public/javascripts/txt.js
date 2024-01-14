@@ -5,7 +5,7 @@ var txt = {
     },
     "Affix": {
         "CH": " | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
-        "EN": " | <color style='color:#0066FF;'>en.homdgcat.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color> | <color style='color:#0066FF;'>X@_homdgcat</color>"
+        "EN": " | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color> | <color style='color:#0066FF;'>X@_homdgcat</color>"
     },
     "Subtitle": {
         "CH": "<p>数据提供：<b>妮可少女 <span style='white-space:pre;'><a href='https://space.bilibili.com/3537104994831140' target='_blank'>bilibili@妮可少女</a> | <a href='http://t.me/homdgcat' target='_blank'>t.me/homdgcat</a></span></b></p>",
@@ -25,8 +25,8 @@ var txt = {
             "EN": "<a href='/gi?lang=CH'>切换至中文</a>"
         },
         "SR": {
-            "CH": "<a href='/sr?lang=CH'>Switch to English</a>",
-            "EN": "<a href='/sr?lang=EN'>切换至中文</a>"
+            "CH": "<a href='/sr?lang=EN'>Switch to English</a>",
+            "EN": "<a href='/sr?lang=CH'>切换至中文</a>"
         }
     },
     "Lang": {
@@ -273,7 +273,7 @@ var txt = {
     },
     "Links_": {
         "CH": "<b>[ homdgcat.wiki ]</b>",
-        "EN": "<b>[ en.homdgcat.wiki ]</b>"
+        "EN": "<b>[ homdgcat.wiki ]</b>"
     },
     "Chart_Title": {
         "CH": "第#层满星输出演化",
@@ -285,7 +285,7 @@ var txt = {
     },
     "Chart_Subtitle": {
         "CH": "玉衡杯数据库 homdgcat.wiki",
-        "EN": "HomDGCat Database - en.homdgcat.wiki"
+        "EN": "HomDGCat Database - homdgcat.wiki"
     },
     "Fiction_HP": {
         "CH": "总血量",

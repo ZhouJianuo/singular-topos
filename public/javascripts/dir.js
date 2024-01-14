@@ -21,10 +21,10 @@ var GI = [
                 "CH": "怪物机制解析、等效血量计算、材料掉率",
                 "EN": "Monster mechanics, scaled HP calculator, material drop rates."
             },
-            /*{
+            {
                 "CH": "部分怪物技能一图流（作者：Csxylic）",
                 "EN": "Monster skill sheets by Csxylic."
-            }*/
+            }
         ],
         "Href": {
             "CH": "/gi/monster",
