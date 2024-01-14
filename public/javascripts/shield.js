@@ -35,13 +35,10 @@ $(function () {
     var typ = 1
 
     $('container').render({})
-    initial_load = setTimeout(function () { $('.lt').show() }, 3000)
     cache = _MonsterShield[0].Data
     begin()
 
     function begin() {
-
-        clearTimeout(initial_load)
         $('.lt').hide()
 
         $('container').render({

@@ -2225,18 +2225,7 @@ $(function () {
 
     function renderRelicPage(k) {
         if (k) {
-            if (!Object.keys(relic_story_cache).length) {
-                $('.lt').show()
-                var ki = setInterval(function () {
-                    if (Object.keys(relic_story_cache).length) {
-                        $('.lt').hide()
-                        clearInterval(ki)
-                        renderRelicPage_(k)
-                    }
-                }, 200)
-            } else {
-                renderRelicPage_(k)
-            }
+            renderRelicPage_(k)
         } else {
             $('.r_data').empty().render({
                 template: [
@@ -3040,19 +3029,6 @@ $(function () {
     })
 
     function load_weapon_story() {
-        if (Object.keys(weapon_story_cache).length) {
-            load_weapon_story_()
-        } else {
-            var ou = setInterval(function () {
-                if (Object.keys(weapon_story_cache).length) {
-                    clearInterval(ou)
-                    load_weapon_story_()
-                }
-            }, 200)
-        }
-    }
-
-    function load_weapon_story_() {
         if (!cur_wpn.StoryCount) return
         $('.story_this').render({
             template: {
@@ -3120,19 +3096,6 @@ $(function () {
     }
 
     function popASC_pre(ascid, ascic, ascib) {
-        if (!acs_cache) {
-            $('.lt').show()
-        }
-        var ot = setInterval(function () {
-            if (acs_cache) {
-                $('.lt').hide()
-                popASC(ascid, ascic, ascib)
-                clearInterval(ot)
-            }
-        }, 500)
-    }
-
-    function popASC(ascid, ascic, ascib) {
         var mat = acs_cache[ascid]
         if (!mat) return
         poplayer({

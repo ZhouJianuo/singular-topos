@@ -78,40 +78,12 @@ $(function () {
             }
         })
         if (MONSTERID) {
-            if (_Monsters) {
-                hasInput()
-            } else {
-                classes_load_2 = setTimeout(function () { $('.lt').show() }, 2000)
-                var ou_ = setInterval(function () {
-                    if (_Monsters) {
-                        clearTimeout(classes_load_2)
-                        $('.lt').hide()
-                        hasInput()
-                        clearInterval(ou_)
-                    }
-                }, 200)
-            }
+            hasInput()
         } else {
             monsterRenderPre(_Kingdoms[7].Classes)
             $('.kingdom_11').addClass('active')
         }
 
-    }
-
-    function monsterRenderPre(a, b) {
-        if (_Monsters) {
-            monsterRender(a, b)
-        } else {
-            classes_load = setTimeout(function () { $('.lt').show() }, 2000)
-            var ou = setInterval(function () {
-                if (_Monsters) {
-                    clearTimeout(classes_load)
-                    $('.lt').hide()
-                    monsterRender(a, b)
-                    clearInterval(ou)
-                }
-            }, 200)
-        }
     }
 
     function hasInput() {
@@ -502,7 +474,7 @@ $(function () {
                             }, {
                                 th: function (d) {
                                     var s = d.data.State;
-                                    return _RESStateDescTextConfig[s] && _RESStateDescTextConfig[s][lang] || "状态未知"
+                                    return _RESStateDescTextConfig[s] && _RESStateDescTextConfig[s].Text[lang] || "状态未知"
                                 },
                                 datapath: 'RESState',
                                 when: function (d) {
@@ -511,7 +483,7 @@ $(function () {
                             }, {
                                 th: function (d) {
                                     var s = d.data.State;
-                                    return _RESStateDescTextConfig[s] && _RESStateDescTextConfig[s][lang] || "变化未知"
+                                    return _RESStateDescTextConfig[s] && _RESStateDescTextConfig[s].Text[lang] || "变化未知"
                                 },
                                 datapath: 'RESModify',
                                 when: function (d) {
@@ -860,7 +832,7 @@ $(function () {
         })
         $('.scroller').scrollTop($('.scroller')[0].scrollHeight - $('.com_result').height() - 150)
     })
-    function monsterRender(p, cd) {
+    function monsterRenderPre(p, cd) {
         $('.class_monster').empty()
         if (cur_kingdom.Disorder && cur_kingdom.Disorder[lang]) {
             $('.class_monster').render({
