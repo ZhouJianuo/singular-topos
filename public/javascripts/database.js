@@ -618,7 +618,7 @@ $(function () {
                                                                         div: [{
                                                                             a: function (d) {
                                                                                 var interval = $(d.container).parents('.up_low').siblings('h6').attr('data-name')
-                                                                                return '/computer?lang=' + lang + '&monster=' + monsterId + '&interval=' + interval
+                                                                                return '/gi/monster?lang=' + lang + '&id=' + monsterId + '&level=' + interval
                                                                             },
                                                                             t: [{
                                                                                 img: imgpre + 'homdgcat-res/monster/' + choose_icon + '.png',
@@ -844,7 +844,7 @@ $(function () {
                                                                         div: [{
                                                                             a: function (d) {
                                                                                 var interval = $(d.container).parents('.up_low').siblings('h6').attr('data-name')
-                                                                                return '/computer?lang=' + lang + '&monster=' + monsterId + '&interval=' + interval
+                                                                                return '/gi/monster?lang=' + lang + '&id=' + monsterId + '&level=' + interval
                                                                             },
                                                                             t: [{
                                                                                 img: imgpre + 'homdgcat-res/monster/' + choose_icon + '.png',
@@ -1055,7 +1055,7 @@ $(function () {
                                                                 a: function (d) {
                                                                     var monsterId = d.data.ID;
                                                                     var interval = $(d.container).parents('.up_low').siblings('h6').attr('data-name')
-                                                                    return '/computer?lang=' + lang + '&monster=' + monsterId + '&interval=' + interval
+                                                                    return '/gi/monster?lang=' + lang + '&id=' + monsterId + '&level=' + interval
                                                                 },
                                                                 attr: { target: '_blank' },
                                                                 t: function (m) {
@@ -1251,7 +1251,7 @@ $(function () {
                                                                 a: function (d) {
                                                                     var monsterId = d.data.ID;
                                                                     var interval = $(d.container).parents('.up_low').siblings('h6').attr('data-name')
-                                                                    return '/computer?lang=' + lang + '&monster=' + monsterId + '&interval=' + interval
+                                                                    return '/gi/monster?lang=' + lang + '&id=' + monsterId + '&level=' + interval
                                                                 },
                                                                 attr: { target: '_blank' },
                                                                 t: function (m) {

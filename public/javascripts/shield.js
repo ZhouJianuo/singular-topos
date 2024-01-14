@@ -117,7 +117,7 @@ $(function () {
                                     {
                                         td: {
                                             a: function (d) {
-                                                return '/computer?monster=' + d.data.ID + '&interval=12-3'
+                                                return '/gi/monster?id=' + d.data.ID + '&level=12-3'
                                             },
                                             attr: {
                                                 target: '_blank'

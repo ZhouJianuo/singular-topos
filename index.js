@@ -111,10 +111,10 @@ app.get('/sr/fiction', async (req, res) => {
 
 app.get('/gi/monster', async (req, res) => {
     let result = {};
-    let { monster = "", interval = '', lang = '' } = req.query;
+    let { id = '', level = '', lang = '' } = req.query;
     result.url = req.originalUrl;
-    result.monster = monster;
-    result.interval = interval;
+    result.monster = id;
+    result.interval = level;
     result.lang = lang;
     result.imgpre = '../';
     res.render('computer', result);

@@ -298,35 +298,33 @@ $(function () {
                                             }
                                         },
                                         {
-                                            td: function (p) {
-                                                avname = p.data.Icon
-                                                $(p.container).render({
-                                                    template: {
-                                                        img: imgpre + 'homdgcat-res/Avatar/' + avname + '.png',
-                                                        style: {
-                                                            height: '100px',
-                                                            display: 'block',
-                                                            margin: 'auto'
-                                                        }
-                                                    }
-                                                })
+                                            td: {
+                                                img: function (p) {
+                                                    avname = p.data.Icon
+                                                    return imgpre + 'homdgcat-res/Avatar/' + avname + '.png'
+                                                },
+                                                style: {
+                                                    height: '100px',
+                                                    display: 'block',
+                                                    margin: 'auto'
+                                                }
                                             },
+                                            style: {
+                                                'text-align': 'center',
+                                            }
                                         },
                                         {
-                                            td: function (p) {
-                                                elem = computer_.ElemNameConfig[p.data.Element]
-                                                if (!elem) {
-                                                    return "<b>-</b>"
+                                            td: {
+                                                span: function (p) {
+                                                    return p.data.Name[lang]
+                                                },
+                                                style: {
+                                                    color: function (p) {
+                                                        elem = computer_.ElemNameConfig[p.data.Element]
+                                                        return computer_.TextColorConfig[elem.Color]
+                                                    },
+                                                    'font-weight': 'bold'
                                                 }
-                                                $(p.container).render({
-                                                    template: {
-                                                        span: p.data.Name[lang],
-                                                        style: {
-                                                            color: computer_.TextColorConfig[elem.Color],
-                                                            'font-weight': 'bold'
-                                                        }
-                                                    }
-                                                })
                                             },
                                             style: {
                                                 'text-align': 'center'
@@ -345,26 +343,52 @@ $(function () {
                                             }
                                         },
                                         {
-                                            td: function (p) {
-                                                avname = p.data.Element
-                                                $(p.container).render({
-                                                    template: {
-                                                        img: imgpre + 'homdgcat-res/Csxylic/' + avname + '.png',
-                                                        style: {
-                                                            height: '40px',
-                                                            display: 'block',
-                                                            margin: 'auto'
-                                                        },
-                                                    }
-                                                })
+                                            td: {
+                                                img: function (p) {
+                                                    avname = p.data.Element
+                                                    return imgpre + 'homdgcat-res/Csxylic/' + avname + '.png'
+                                                },
+                                                style: {
+                                                    height: '40px',
+                                                    display: 'block',
+                                                    margin: 'auto',
+                                                },
                                             },
                                             style: {
                                                 'text-align': 'center'
                                             }
                                         },
                                         {
-                                            td: function (p) {
-                                                return computer_.AvatarWeaponConfig[p.data.Weapon][lang]
+                                            td: {
+                                                img: function (p) {
+                                                    avname = computer_.AvatarWeaponConfig[p.data.Weapon].EN
+                                                    switch (avname) {
+                                                        case 'Sword': 
+                                                            var imgp = imgpre + 'homdgcat-res/Weapon/UI_EquipIcon_Sword_Purewill_Awaken.png';
+                                                            break;
+                                                        case 'Claymore': 
+                                                            var imgp = imgpre + 'homdgcat-res/Weapon/UI_EquipIcon_Claymore_Wolfmound.png';
+                                                            break;
+                                                        case 'Catalyst': 
+                                                            var imgp = imgpre + 'homdgcat-res/Weapon/UI_EquipIcon_Catalyst_Ludiharpastum_Awaken.png';
+                                                            break;
+                                                        case 'Polearm': 
+                                                            var imgp = imgpre + 'homdgcat-res/Weapon/UI_EquipIcon_Pole_Morax_Awaken.png';
+                                                            break;
+                                                        case 'Bow': 
+                                                            var imgp = imgpre + 'homdgcat-res/Weapon/UI_EquipIcon_Bow_Widsith_Awaken.png';
+                                                            break;
+                                                        default: 
+                                                            var imgp = imgpre + 'homdgcat-res/monster/keq.png';
+                                                            break;
+                                                    }
+                                                    return imgp
+                                                },
+                                                style: {
+                                                    height: '60px',
+                                                    display: 'block',
+                                                    margin: 'auto'
+                                                }
                                             },
                                             style: {
                                                 'text-align': 'center'
@@ -709,7 +733,7 @@ $(function () {
                                             div: [
                                                 {
                                                     a: function (k) {
-                                                        return '/computer?monster=' + k.data.CommonMat + '&interval=93'
+                                                        return '/gi/monster?id=' + k.data.CommonMat + '&level=93'
                                                     },
                                                     t: [
                                                         {
@@ -784,7 +808,7 @@ $(function () {
                                             div: [
                                                 {
                                                     a: function (k) {
-                                                        return '/computer?monster=' + k.data.BossMat + '&interval=93'
+                                                        return '/gi/monster?id=' + k.data.BossMat + '&level=93'
                                                     },
                                                     t: [
                                                         {
@@ -833,8 +857,8 @@ $(function () {
                                             div: [
                                                 {
                                                     a: function (k) {
-                                                        if (k.data.WeeklyMat == 90201) return '/computer?monster=' + k.data.WeeklyMat + '&interval=94'
-                                                        return '/computer?monster=' + k.data.WeeklyMat + '&interval=90'
+                                                        if (k.data.WeeklyMat == 90201) return '/gi/monster?id=' + k.data.WeeklyMat + '&level=94'
+                                                        return '/gi/monster?id=' + k.data.WeeklyMat + '&level=90'
                                                     },
                                                     t: [
                                                         {
@@ -2773,7 +2797,7 @@ $(function () {
                                 a: function (k) {
                                     if (!wpn.MonIDs) return ''
                                     if (wpn.MonIDs.length <= 0) return ''
-                                    return '/computer?monster=' + wpn.MonIDs[0] + '&interval=93'
+                                    return '/gi/monster?id=' + wpn.MonIDs[0] + '&level=93'
                                 },
                                 t: [
                                     {
@@ -2796,7 +2820,7 @@ $(function () {
                                 a: function (k) {
                                     if (!wpn.MonIDs) return ''
                                     if (wpn.MonIDs.length <= 1) return ''
-                                    return '/computer?monster=' + wpn.MonIDs[1] + '&interval=93'
+                                    return '/gi/monster?id=' + wpn.MonIDs[1] + '&level=93'
                                 },
                                 t: [
                                     {
