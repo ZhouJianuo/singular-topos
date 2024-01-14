@@ -230,7 +230,7 @@ input[name="interval"] {
 
 .mon_intro {
     text-align: left;
-    padding: 20px 20px 40px;
+    padding: 20px;
     line-height: 35px;
     white-space: pre-wrap
 }
@@ -255,7 +255,7 @@ input[name="interval"] {
 }
 
 .result_head>div span {
-    margin: 0 20px;
+    margin: 0 12px;
 }
 
 .result_head>div span i {
@@ -316,7 +316,7 @@ input[name="interval"] {
 
 .mon_table .table-2 {
     width: 350px;
-    line-height: 32px;
+    line-height: 2.5;
 }
 
 .table-2 td {
@@ -377,6 +377,21 @@ popbody div {
     margin-right: 0px;
 }
 
+.table-1 th, .table-1 td {
+    font-size: 15px;
+}
+
+.resicon {
+    height: 26px;
+    top: 6px;
+    position: relative;
+    margin-right: 4px;
+}
+
+.table-1 th, .table-2 th {
+    height: 40px;
+}
+
 @media screen and (max-width: 800px) {
     .buttons {
         flex-direction: row !important;
@@ -427,6 +442,15 @@ popbody div {
         margin-left: 0px;
         margin-right: 0px;
     }
+
+    .table-1 th, .table-1 td {
+        font-size: 14px;
+    }
+
+    .resicon {
+        height: 25px;
+        top: 6px;
+    }
 }
 
 @media screen and (max-width: 500px) {
@@ -474,5 +498,14 @@ popbody div {
 
     .class_monster {
         padding: 0px 0px 20px 8px;
+    }
+
+    .table-1 th, .table-1 td {
+        font-size: 13px;
+    }
+
+    .resicon {
+        height: 24px;
+        top: 6px;
     }
 }

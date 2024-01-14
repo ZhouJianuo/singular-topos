@@ -531,12 +531,7 @@ $(function () {
                                                 {
                                                     img: imgpre + 'homdgcat-res/Csxylic/[[.]].png',
                                                     datapath: '_id',
-                                                    style: {
-                                                        height: '28px',
-                                                        top: '7px',
-                                                        position: 'relative',
-                                                        'margin-right': '4px',
-                                                    }
+                                                    class: 'resicon'
                                                 },
                                                 {
                                                     span: function (d) {
@@ -579,12 +574,7 @@ $(function () {
                                                             td: [
                                                                 {
                                                                     img: imgpre + 'homdgcat-res/Csxylic/' + d.data._id + '.png',
-                                                                    style: {
-                                                                        height: '28px',
-                                                                        top: '7px',
-                                                                        position: 'relative',
-                                                                        'margin-right': '4px',
-                                                                    }
+                                                                    class: 'resicon'
                                                                 },
                                                                 {
                                                                     span: function (a) {
@@ -693,6 +683,9 @@ $(function () {
                                         ],
                                         a: {
                                             colspan: 10
+                                        },
+                                        style: {
+                                            'padding-top': '10px'
                                         }
                                     }
                                 }
@@ -799,6 +792,9 @@ $(function () {
                                                 "justify-content": "center"
                                             }
                                         },
+                                        style: {
+                                            'padding-top': '10px'
+                                        }
                                     }, {
                                         td: {
                                             div: {
@@ -824,6 +820,9 @@ $(function () {
                                                 "display": "flex",
                                                 "justify-content": "center"
                                             }
+                                        },
+                                        style: {
+                                            'padding-top': '10px'
                                         }
                                     }],
                                     style: {
@@ -844,7 +843,17 @@ $(function () {
                 }
             }, {
                 div: {
-                    template: {}
+                    a: `/EnemyChart/[[.]].png`,
+                    t: {
+                        img: `/EnemyChart/[[.]].png`,
+                        style: {
+                            width: '100%'
+                        },
+                    },
+                    attr: {
+                        target: '_blank'
+                    },
+                    datapath: 'Csx' 
                 },
                 class: 'csxylic'
             }]

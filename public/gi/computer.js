@@ -2429,7 +2429,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "草史莱姆"
+            "ECElementalLifeforms/草史莱姆"
         ]
     },
     "102": {
@@ -2486,7 +2486,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "大型草史莱姆"
+            "ECElementalLifeforms/大型草史莱姆"
         ]
     },
     "103": {
@@ -2538,7 +2538,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "风史莱姆"
+            "ECElementalLifeforms/风史莱姆"
         ]
     },
     "104": {
@@ -2590,7 +2590,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "大型风史莱姆"
+            "ECElementalLifeforms/大型风史莱姆"
         ]
     },
     "105": {
@@ -2647,7 +2647,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "雷史莱姆"
+            "ECElementalLifeforms/雷史莱姆"
         ]
     },
     "106": {
@@ -2704,7 +2704,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "大型雷史莱姆"
+            "ECElementalLifeforms/大型雷史莱姆"
         ]
     },
     "107": {
@@ -2761,7 +2761,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "变异雷史莱姆"
+            "ECElementalLifeforms/变异雷史莱姆"
         ]
     },
     "108": {
@@ -2818,7 +2818,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "冰史莱姆"
+            "ECElementalLifeforms/冰史莱姆"
         ]
     },
     "109": {
@@ -2875,7 +2875,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "大型冰史莱姆"
+            "ECElementalLifeforms/大型冰史莱姆"
         ]
     },
     "110": {
@@ -2932,7 +2932,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "水史莱姆"
+            "ECElementalLifeforms/水史莱姆"
         ]
     },
     "111": {
@@ -2989,7 +2989,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "大型水史莱姆"
+            "ECElementalLifeforms/大型水史莱姆"
         ]
     },
     "112": {
@@ -3046,7 +3046,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "火史莱姆"
+            "ECElementalLifeforms/火史莱姆"
         ]
     },
     "113": {
@@ -3103,7 +3103,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "大型火史莱姆"
+            "ECElementalLifeforms/大型火史莱姆"
         ]
     },
     "114": {
@@ -3155,7 +3155,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "岩史莱姆"
+            "ECElementalLifeforms/岩史莱姆"
         ]
     },
     "115": {
@@ -3207,7 +3207,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "大型岩史莱姆"
+            "ECElementalLifeforms/大型岩史莱姆"
         ]
     },
     "201": {
@@ -3248,7 +3248,7 @@ var _Monsters = {
         "Weight": 150,
         "EndureTemplateID": 4000,
         "Csx": [
-            "狂风之核"
+            "ECElementalLifeforms/狂风之核"
         ]
     },
     "401": {
@@ -3294,7 +3294,7 @@ var _Monsters = {
         "Weight": 300,
         "EndureTemplateID": 4000,
         "Csx": [
-            "无相之雷"
+            "ECElementalLifeforms/无相之雷"
         ]
     },
     "402": {
@@ -3340,7 +3340,7 @@ var _Monsters = {
         "Weight": 300,
         "EndureTemplateID": 4000,
         "Csx": [
-            "无相之风"
+            "ECElementalLifeforms/无相之风"
         ]
     },
     "403": {
@@ -3386,7 +3386,7 @@ var _Monsters = {
         "Weight": 300,
         "EndureTemplateID": 4000,
         "Csx": [
-            "无相之岩"
+            "ECElementalLifeforms/无相之岩"
         ]
     },
     "404": {
@@ -3514,7 +3514,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "无相之水"
+            "ECElementalLifeforms/无相之水"
         ]
     },
     "405": {
@@ -3646,7 +3646,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "无相之冰"
+            "ECElementalLifeforms/无相之冰"
         ]
     },
     "406": {
@@ -3780,7 +3780,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "无相之火"
+            "ECElementalLifeforms/无相之火"
         ]
     },
     "407": {
@@ -3899,7 +3899,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "无相之草"
+            "ECElementalLifeforms/无相之草"
         ]
     },
     "4071": {
@@ -3945,7 +3945,7 @@ var _Monsters = {
         "Weight": 300,
         "EndureTemplateID": 4000,
         "Csx": [
-            "交响诗无相之草"
+            "ECElementalLifeforms/交响诗无相之草"
         ]
     },
     "501": {
@@ -3958,7 +3958,7 @@ var _Monsters = {
             "oc"
         ],
         "Csx": [
-            "纯水精灵"
+            "ECElementalLifeforms/纯水精灵"
         ]
     },
     "5020": {
@@ -4030,7 +4030,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "幻形豕兽·水"
+            "ECNonCategorized/幻形豕兽·水"
         ]
     },
     "5021": {
@@ -4101,7 +4101,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "幻形豕兽·水"
+            "ECNonCategorized/幻形豕兽·水"
         ]
     },
     "503": {
@@ -4164,7 +4164,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "幻形鹤·水"
+            "ECNonCategorized/幻形鹤·水"
         ]
     },
     "5040": {
@@ -4227,7 +4227,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "幻形蟹·水"
+            "ECNonCategorized/幻形蟹·水"
         ]
     },
     "5041": {
@@ -4280,7 +4280,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "幻形蟹·水"
+            "ECNonCategorized/幻形蟹·水"
         ]
     },
     "505": {
@@ -4361,7 +4361,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "幻形雀·水"
+            "ECNonCategorized/幻形雀·水"
         ]
     },
     "506": {
@@ -4433,7 +4433,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "幻形游禽·水"
+            "ECNonCategorized/幻形游禽·水"
         ]
     },
     "5070": {
@@ -4505,7 +4505,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "幻形花鼠·水"
+            "ECNonCategorized/幻形花鼠·水"
         ]
     },
     "5071": {
@@ -4569,7 +4569,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "幻形花鼠·水"
+            "ECNonCategorized/幻形花鼠·水"
         ]
     },
     "508": {
@@ -4650,7 +4650,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "幻形蛙·水"
+            "ECNonCategorized/幻形蛙·水"
         ]
     },
     "509": {
@@ -4713,7 +4713,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "幻形飞鸢·水"
+            "ECNonCategorized/幻形飞鸢·水"
         ]
     },
     "510": {
@@ -4775,7 +4775,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "浊水粉碎幻灵"
+            "ECElementalLifeforms/浊水粉碎幻灵"
         ]
     },
     "5101": {
@@ -4826,7 +4826,7 @@ var _Monsters = {
             "EN": "- Local Legend Phantasm: Always in Rage Mode, always immune to Frozen."
         },
         "Csx": [
-            "地方传奇·浊水粉碎幻灵"
+            "ECLegends/地方传奇·浊水粉碎幻灵"
         ]
     },
     "5102": {
@@ -4877,7 +4877,7 @@ var _Monsters = {
             "EN": "- Local Legend Phantasm: Always in Rage Mode, always immune to Frozen."
         },
         "Csx": [
-            "地方传奇·浊水粉碎幻灵"
+            "ECLegends/地方传奇·浊水粉碎幻灵"
         ]
     },
     "511": {
@@ -4939,7 +4939,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "浊水喷吐幻灵"
+            "ECElementalLifeforms/浊水喷吐幻灵"
         ]
     },
     "5111": {
@@ -4990,7 +4990,7 @@ var _Monsters = {
             "EN": "- Local Legend Phantasm: Always in Rage Mode, always immune to Frozen."
         },
         "Csx": [
-            "地方传奇·浊水喷吐幻灵"
+            "ECLegends/地方传奇·浊水喷吐幻灵"
         ]
     },
     "5112": {
@@ -5041,7 +5041,7 @@ var _Monsters = {
             "EN": "- Local Legend Phantasm: Always in Rage Mode, always immune to Frozen."
         },
         "Csx": [
-            "地方传奇·浊水喷吐幻灵"
+            "ECLegends/地方传奇·浊水喷吐幻灵"
         ]
     },
     "512": {
@@ -5168,7 +5168,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "水形幻人"
+            "ECElementalLifeforms/水形幻人"
         ]
     },
     "513": {
@@ -5209,7 +5209,7 @@ var _Monsters = {
         "Weight": 20000,
         "EndureTemplateID": 4000,
         "Csx": [
-            "半幻人"
+            "ECNonCategorized/半幻人"
         ]
     },
     "516": {
@@ -5255,7 +5255,7 @@ var _Monsters = {
         "Weight": 20000,
         "EndureTemplateID": 4000,
         "Csx": [
-            "水形幻人"
+            "ECElementalLifeforms/水形幻人"
         ]
     },
     "601": {
@@ -5358,7 +5358,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "水飘浮灵"
+            "ECElementalLifeforms/水飘浮灵"
         ]
     },
     "602": {
@@ -5463,7 +5463,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "岩飘浮灵"
+            "ECElementalLifeforms/岩飘浮灵"
         ]
     },
     "603": {
@@ -5578,7 +5578,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "风飘浮灵"
+            "ECElementalLifeforms/风飘浮灵"
         ]
     },
     "604": {
@@ -5690,7 +5690,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "冰飘浮灵"
+            "ECElementalLifeforms/冰飘浮灵"
         ]
     },
     "605": {
@@ -5795,7 +5795,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "雷飘浮灵"
+            "ECElementalLifeforms/雷飘浮灵"
         ]
     },
     "606": {
@@ -5907,7 +5907,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "火飘浮灵"
+            "ECElementalLifeforms/火飘浮灵"
         ]
     },
     "607": {
@@ -6012,7 +6012,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "草飘浮灵"
+            "ECElementalLifeforms/草飘浮灵"
         ]
     },
     "701": {
@@ -6167,7 +6167,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "雷音权现"
+            "ECElementalLifeforms/雷音权现"
         ]
     },
     "10101": {
@@ -6215,7 +6215,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "丘丘人"
+            "ECHilichurls/丘丘人"
         ]
     },
     "10102": {
@@ -6263,7 +6263,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "打手丘丘人"
+            "ECHilichurls/打手丘丘人"
         ]
     },
     "10103": {
@@ -6312,7 +6312,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "木盾丘丘人"
+            "ECHilichurls/木盾丘丘人"
         ]
     },
     "10104": {
@@ -6369,7 +6369,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "射手丘丘人"
+            "ECHilichurls/射手丘丘人"
         ]
     },
     "10105": {
@@ -6427,7 +6427,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "火箭丘丘人"
+            "ECHilichurls/火箭丘丘人"
         ]
     },
     "10106": {
@@ -6476,7 +6476,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "爆弹丘丘人"
+            "ECHilichurls/爆弹丘丘人"
         ]
     },
     "10107": {
@@ -6525,7 +6525,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "冲锋丘丘人"
+            "ECHilichurls/冲锋丘丘人"
         ]
     },
     "10109": {
@@ -6583,7 +6583,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "冰箭丘丘人"
+            "ECHilichurls/冰箭丘丘人"
         ]
     },
     "10110": {
@@ -6641,7 +6641,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "雷箭丘丘人"
+            "ECHilichurls/雷箭丘丘人"
         ]
     },
     "10112": {
@@ -6690,7 +6690,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "岩盾丘丘人"
+            "ECHilichurls/岩盾丘丘人"
         ]
     },
     "10113": {
@@ -6739,7 +6739,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "冰弹丘丘人"
+            "ECHilichurls/冰弹丘丘人"
         ]
     },
     "10114": {
@@ -6788,7 +6788,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "冰盾丘丘人"
+            "ECHilichurls/冰盾丘丘人"
         ]
     },
     "10115": {
@@ -6825,7 +6825,7 @@ var _Monsters = {
         "Weight": 75,
         "EndureTemplateID": 100,
         "Csx": [
-            "奇怪的丘丘人"
+            "ECHilichurls/奇怪的丘丘人"
         ]
     },
     "10116": {
@@ -6874,7 +6874,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "雷弹丘丘人"
+            "ECHilichurls/雷弹丘丘人"
         ]
     },
     "10201": {
@@ -6935,7 +6935,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "木盾丘丘暴徒"
+            "ECHilichurls/木盾丘丘暴徒"
         ]
     },
     "10202": {
@@ -6996,7 +6996,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "火斧丘丘暴徒"
+            "ECHilichurls/火斧丘丘暴徒"
         ]
     },
     "10203": {
@@ -7057,7 +7057,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "岩盾丘丘暴徒"
+            "ECHilichurls/岩盾丘丘暴徒"
         ]
     },
     "10204": {
@@ -7179,7 +7179,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "丘丘霜铠王"
+            "ECHilichurls/丘丘霜铠王"
         ]
     },
     "10205": {
@@ -7300,7 +7300,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "丘丘岩盔王"
+            "ECHilichurls/丘丘岩盔王"
         ]
     },
     "10206": {
@@ -7361,7 +7361,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "冰盾丘丘暴徒"
+            "ECHilichurls/冰盾丘丘暴徒"
         ]
     },
     "10207": {
@@ -7422,7 +7422,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "雷斧丘丘暴徒"
+            "ECHilichurls/雷斧丘丘暴徒"
         ]
     },
     "10208": {
@@ -7553,7 +7553,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "丘丘雷兜王"
+            "ECHilichurls/丘丘雷兜王"
         ]
     },
     "10301": {
@@ -7614,7 +7614,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "水丘丘萨满"
+            "ECHilichurls/水丘丘萨满"
         ]
     },
     "10302": {
@@ -7675,7 +7675,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "草丘丘萨满"
+            "ECHilichurls/草丘丘萨满"
         ]
     },
     "10303": {
@@ -7736,7 +7736,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "风丘丘萨满"
+            "ECHilichurls/风丘丘萨满"
         ]
     },
     "10304": {
@@ -7797,7 +7797,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "岩丘丘萨满"
+            "ECHilichurls/岩丘丘萨满"
         ]
     },
     "10305": {
@@ -7858,7 +7858,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "冰丘丘萨满"
+            "ECHilichurls/冰丘丘萨满"
         ]
     },
     "10306": {
@@ -7919,7 +7919,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "雷丘丘萨满"
+            "ECHilichurls/雷丘丘萨满"
         ]
     },
     "10401": {
@@ -8027,7 +8027,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "丘丘风行游侠"
+            "ECHilichurls/丘丘风行游侠"
         ]
     },
     "10402": {
@@ -8140,7 +8140,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "丘丘水行游侠"
+            "ECHilichurls/丘丘水行游侠"
         ]
     },
     "20101": {
@@ -8236,7 +8236,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "火深渊法师"
+            "ECAbyss/火深渊法师"
         ]
     },
     "20102": {
@@ -8341,7 +8341,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "冰深渊法师"
+            "ECAbyss/冰深渊法师"
         ]
     },
     "20103": {
@@ -8437,7 +8437,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "水深渊法师"
+            "ECAbyss/水深渊法师"
         ]
     },
     "20104": {
@@ -8551,7 +8551,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "雷深渊法师"
+            "ECAbyss/雷深渊法师"
         ]
     },
     "20201": {
@@ -8684,7 +8684,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "深渊使徒·激流"
+            "ECAbyss/深渊使徒·激流"
         ]
     },
     "20202": {
@@ -8826,7 +8826,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "深渊使徒·霜落"
+            "ECAbyss/深渊使徒·霜落"
         ]
     },
     "20301": {
@@ -8947,7 +8947,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "深渊咏者·紫电"
+            "ECAbyss/深渊咏者·紫电"
         ]
     },
     "20302": {
@@ -9068,7 +9068,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "深渊咏者·渊火"
+            "ECAbyss/深渊咏者·渊火"
         ]
     },
     "20401": {
@@ -9166,7 +9166,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "嗜岩·兽境幼兽"
+            "ECAbyss/嗜岩·兽境幼兽"
         ]
     },
     "20402": {
@@ -9264,7 +9264,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "嗜雷·兽境幼兽"
+            "ECAbyss/嗜雷·兽境幼兽"
         ]
     },
     "20501": {
@@ -9382,7 +9382,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "嗜岩·兽境猎犬"
+            "ECAbyss/嗜岩·兽境猎犬"
         ]
     },
     "20502": {
@@ -9500,7 +9500,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "嗜雷·兽境猎犬"
+            "ECAbyss/嗜雷·兽境猎犬"
         ]
     },
     "20601": {
@@ -9561,7 +9561,7 @@ var _Monsters = {
             "2/20601"
         ],
         "Csx": [
-            "黄金王兽"
+            "ECAbyss/黄金王兽"
         ]
     },
     "20701": {
@@ -9641,7 +9641,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "黯色空壳·旗令"
+            "ECAbyss/黯色空壳·旗令"
         ]
     },
     "20702": {
@@ -9739,7 +9739,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "黯色空壳·破阵"
+            "ECAbyss/黯色空壳·破阵"
         ]
     },
     "20703": {
@@ -9819,7 +9819,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "黯色空壳·近卫"
+            "ECAbyss/黯色空壳·近卫"
         ]
     },
     "20801": {
@@ -9928,7 +9928,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "黑蛇骑士·斩风之剑"
+            "ECAbyss/黑蛇骑士·斩风之剑"
         ]
     },
     "20802": {
@@ -10052,7 +10052,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "黑蛇骑士·摧岩之钺"
+            "ECAbyss/黑蛇骑士·摧岩之钺"
         ]
     },
     "21001": {
@@ -10197,7 +10197,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "深罪浸礼者"
+            "ECAbyss/深罪浸礼者"
         ]
     },
     "21002": {
@@ -10333,7 +10333,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "深罪浸礼者"
+            "ECAbyss/深罪浸礼者"
         ]
     },
     "21003": {
@@ -10469,7 +10469,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "深罪浸礼者"
+            "ECAbyss/深罪浸礼者"
         ]
     },
     "21004": {
@@ -10615,7 +10615,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "深罪浸礼者"
+            "ECAbyss/深罪浸礼者"
         ]
     },
     "21101": {
@@ -10671,7 +10671,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "大型碎石隙境原体"
+            "ECAbyss/大型碎石隙境原体"
         ]
     },
     "21102": {
@@ -10727,7 +10727,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "碎石隙境原体"
+            "ECAbyss/碎石隙境原体"
         ]
     },
     "21103": {
@@ -10783,7 +10783,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "大型狂蔓隙境原体"
+            "ECAbyss/大型狂蔓隙境原体"
         ]
     },
     "21104": {
@@ -10839,7 +10839,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "狂蔓隙境原体"
+            "ECAbyss/狂蔓隙境原体"
         ]
     },
     "30101": {
@@ -10897,7 +10897,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "冰铳重卫士"
+            "ECFatui/冰铳重卫士"
         ]
     },
     "30102": {
@@ -10955,7 +10955,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "水铳重卫士"
+            "ECFatui/水铳重卫士"
         ]
     },
     "30103": {
@@ -11013,7 +11013,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "雷锤前锋军"
+            "ECFatui/雷锤前锋军"
         ]
     },
     "30104": {
@@ -11071,7 +11071,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "岩使游击兵"
+            "ECFatui/岩使游击兵"
         ]
     },
     "30105": {
@@ -11123,7 +11123,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "风拳前锋军"
+            "ECFatui/风拳前锋军"
         ]
     },
     "30106": {
@@ -11181,7 +11181,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "火铳游击兵"
+            "ECFatui/火铳游击兵"
         ]
     },
     "30201": {
@@ -11243,7 +11243,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "债务处理人"
+            "ECFatui/债务处理人"
         ]
     },
     "30301": {
@@ -11305,7 +11305,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "雷萤术士"
+            "ECFatui/雷萤术士"
         ]
     },
     "30401": {
@@ -11367,7 +11367,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "冰萤术士"
+            "ECFatui/冰萤术士"
         ]
     },
     "30501": {
@@ -11420,7 +11420,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "藏镜仕女"
+            "ECFatui/藏镜仕女"
         ]
     },
     "30601": {
@@ -11517,7 +11517,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "愚人众·霜役人"
+            "ECFatui/愚人众·霜役人"
         ]
     },
     "30602": {
@@ -11612,7 +11612,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "愚人众·风役人"
+            "ECFatui/愚人众·风役人"
         ]
     },
     "30603": {
@@ -11694,7 +11694,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "地方传奇·愚人众·霜役人"
+            "ECLegends/地方传奇·愚人众·霜役人"
         ]
     },
     "30604": {
@@ -11774,7 +11774,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "地方传奇·愚人众·风役人"
+            "ECLegends/地方传奇·愚人众·风役人"
         ]
     },
     "30605": {
@@ -11856,7 +11856,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "地方传奇·愚人众·霜役人"
+            "ECLegends/地方传奇·愚人众·霜役人"
         ]
     },
     "30606": {
@@ -11936,7 +11936,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "地方传奇·愚人众·风役人"
+            "ECLegends/地方传奇·愚人众·风役人"
         ]
     },
     "40101": {
@@ -12031,7 +12031,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "遗迹守卫"
+            "ECAutomatons/遗迹守卫"
         ]
     },
     "40102": {
@@ -12145,7 +12145,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "遗迹猎者"
+            "ECAutomatons/遗迹猎者"
         ]
     },
     "40103": {
@@ -12263,7 +12263,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "遗迹重机"
+            "ECAutomatons/遗迹重机"
         ]
     },
     "40104": {
@@ -12369,7 +12369,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "遗迹巨蛇"
+            "ECAutomatons/遗迹巨蛇"
         ]
     },
     "40201": {
@@ -12462,7 +12462,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "遗迹巡弋者"
+            "ECAutomatons/遗迹巡弋者"
         ]
     },
     "40202": {
@@ -12555,7 +12555,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "遗迹歼击者"
+            "ECAutomatons/遗迹歼击者"
         ]
     },
     "40203": {
@@ -12647,7 +12647,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "遗迹防卫者"
+            "ECAutomatons/遗迹防卫者"
         ]
     },
     "40204": {
@@ -12739,7 +12739,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "遗迹侦察者"
+            "ECAutomatons/遗迹侦察者"
         ]
     },
     "40211": {
@@ -12844,7 +12844,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "恒常机关阵列"
+            "ECAutomatons/恒常机关阵列"
         ]
     },
     "40301": {
@@ -12945,7 +12945,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "遗迹龙兽·空巡"
+            "ECAutomatons/遗迹龙兽·空巡"
         ]
     },
     "40302": {
@@ -13048,7 +13048,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "遗迹龙兽·地巡"
+            "ECAutomatons/遗迹龙兽·地巡"
         ]
     },
     "40303": {
@@ -13202,7 +13202,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "兆载永劫龙兽"
+            "ECAutomatons/兆载永劫龙兽"
         ]
     },
     "40401": {
@@ -13276,7 +13276,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "元能构装体·力场发生器"
+            "ECAutomatons/元能构装体·力场发生器"
         ]
     },
     "40402": {
@@ -13360,7 +13360,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "元能构装体·重塑仪"
+            "ECAutomatons/元能构装体·重塑仪"
         ]
     },
     "40403": {
@@ -13434,7 +13434,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "元能构装体·勘探机"
+            "ECAutomatons/元能构装体·勘探机"
         ]
     },
     "40501": {
@@ -13588,7 +13588,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "半永恒统辖矩阵"
+            "ECAutomatons/半永恒统辖矩阵"
         ]
     },
     "40601": {
@@ -13641,7 +13641,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "机关·侦察记录型"
+            "ECAutomatons/机关·侦察记录型"
         ]
     },
     "40602": {
@@ -13693,7 +13693,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "机关·算力增幅器"
+            "ECAutomatons/机关·算力增幅器"
         ]
     },
     "40622": {
@@ -13759,7 +13759,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "地方传奇·算力增幅器"
+            "ECLegends/地方传奇·算力增幅器"
         ]
     },
     "40632": {
@@ -13825,7 +13825,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "地方传奇·算力增幅器"
+            "ECLegends/地方传奇·算力增幅器"
         ]
     },
     "40603": {
@@ -13872,7 +13872,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "机关·水下勘测型"
+            "ECAutomatons/机关·水下勘测型"
         ]
     },
     "40604": {
@@ -13925,7 +13925,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "机关·地质勘探型"
+            "ECAutomatons/机关·地质勘探型"
         ]
     },
     "40605": {
@@ -13972,7 +13972,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "机关·水下巡游型"
+            "ECAutomatons/机关·水下巡游型"
         ]
     },
     "40606": {
@@ -14019,7 +14019,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "机关·深海攻击型"
+            "ECAutomatons/机关·深海攻击型"
         ]
     },
     "40607": {
@@ -14072,7 +14072,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "机关·灵活采集型"
+            "ECAutomatons/机关·灵活采集型"
         ]
     },
     "40608": {
@@ -14125,7 +14125,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "攻坚特化型机关"
+            "ECAutomatons/攻坚特化型机关"
         ]
     },
     "40609": {
@@ -14178,7 +14178,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "压制特化型机关"
+            "ECAutomatons/压制特化型机关"
         ]
     },
     "40610": {
@@ -14231,7 +14231,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "歼灭特化型机关"
+            "ECAutomatons/歼灭特化型机关"
         ]
     },
     "40611": {
@@ -14284,7 +14284,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "机关·区域警戒型"
+            "ECAutomatons/机关·区域警戒型"
         ]
     },
     "40612": {
@@ -14337,7 +14337,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "建造特化型机关"
+            "ECAutomatons/建造特化型机关"
         ]
     },
     "40651": {
@@ -14390,7 +14390,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "机关·侦察记录型"
+            "ECAutomatons/机关·侦察记录型"
         ]
     },
     "40652": {
@@ -14442,7 +14442,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "机关·算力增幅器"
+            "ECAutomatons/机关·算力增幅器"
         ]
     },
     "40653": {
@@ -14489,7 +14489,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "机关·水下勘测型"
+            "ECAutomatons/机关·水下勘测型"
         ]
     },
     "40654": {
@@ -14542,7 +14542,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "机关·地质勘探型"
+            "ECAutomatons/机关·地质勘探型"
         ]
     },
     "40655": {
@@ -14589,7 +14589,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "机关·水下巡游型"
+            "ECAutomatons/机关·水下巡游型"
         ]
     },
     "40656": {
@@ -14636,7 +14636,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "机关·深海攻击型"
+            "ECAutomatons/机关·深海攻击型"
         ]
     },
     "40657": {
@@ -14689,7 +14689,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "机关·灵活采集型"
+            "ECAutomatons/机关·灵活采集型"
         ]
     },
     "40658": {
@@ -14742,7 +14742,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "攻坚特化型机关"
+            "ECAutomatons/攻坚特化型机关"
         ]
     },
     "40659": {
@@ -14795,7 +14795,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "压制特化型机关"
+            "ECAutomatons/压制特化型机关"
         ]
     },
     "40660": {
@@ -14848,7 +14848,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "歼灭特化型机关"
+            "ECAutomatons/歼灭特化型机关"
         ]
     },
     "40661": {
@@ -14901,7 +14901,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "机关·区域警戒型"
+            "ECAutomatons/机关·区域警戒型"
         ]
     },
     "40662": {
@@ -14954,7 +14954,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "建造特化型机关"
+            "ECAutomatons/建造特化型机关"
         ]
     },
     "40701": {
@@ -15006,7 +15006,7 @@ var _Monsters = {
             "EN": "- Coppelius is the main character of the performance <i>Icewind Suite: Nemesis of Coppelius</i>. The performance reaches it climax after 30s or after HP falls below 71%.<br>- At the climax of the performance, Coppelius will move to the center of the stage and summon three Frosthearts of Retribution. At the start of every section of the climax, he refreshes an 8U Cryo Shield.<br>- <b>Attacking him with Ousia 1 time</b> will annihilate his Shield. <b>Attacking him with Ousia 3 times</b> will terminate the climax.<br>- If not terminated, the climax will finish after 3 sections. Each section lasts for 12s. The next climax starts 30s after the previous one finishes."
         },
         "Csx": [
-            "冰风组曲·科培琉司的劫罚"
+            "ECAutomatons/冰风组曲·科培琉司的劫罚"
         ]
     },
     "40702": {
@@ -15062,7 +15062,7 @@ var _Monsters = {
             "EN": "- Coppelia is the main character of the performance <i>Icewind Suite: Dirge of Coppelia</i>. The performance reaches it climax after 30s or after HP falls below 71%.<br>- At the climax of the performance, Coppelia will move to the center of the stage, summon countless Whirlwinds of Dirge and <b>increase all-type RES by 25%</b>. <br>- <b>Attacking her with Pnuema 1 time</b> will remove the RES increase and reduce her DMG. <b>Attacking her with Pnuema 3 times</b> will terminate the climax.<br>- If not terminated, the climax will finish after 3 sections. Each section lasts for 12s. The next climax starts 30s after the previous one finishes."
         },
         "Csx": [
-            "冰风组曲·歌裴莉娅的葬送"
+            "ECAutomatons/冰风组曲·歌裴莉娅的葬送"
         ]
     },
     "40801": {
@@ -15138,7 +15138,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "实验性场力发生装置"
+            "ECAutomatons/实验性场力发生装置"
         ]
     },
     "50102": {
@@ -15189,7 +15189,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "盗宝团·斥候"
+            "ECOtherHumanFactions/盗宝团·斥候"
         ]
     },
     "50103": {
@@ -15241,7 +15241,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "盗宝团·火之药剂师"
+            "ECOtherHumanFactions/盗宝团·火之药剂师"
         ]
     },
     "50104": {
@@ -15293,7 +15293,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "盗宝团·水之药剂师"
+            "ECOtherHumanFactions/盗宝团·水之药剂师"
         ]
     },
     "50105": {
@@ -15345,7 +15345,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "盗宝团·雷之药剂师"
+            "ECOtherHumanFactions/盗宝团·雷之药剂师"
         ]
     },
     "50106": {
@@ -15397,7 +15397,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "盗宝团·冰之药剂师"
+            "ECOtherHumanFactions/盗宝团·冰之药剂师"
         ]
     },
     "50107": {
@@ -15448,7 +15448,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "盗宝团·杂工"
+            "ECOtherHumanFactions/盗宝团·杂工"
         ]
     },
     "50108": {
@@ -15488,7 +15488,7 @@ var _Monsters = {
         "Weight": 125,
         "EndureTemplateID": 210,
         "Csx": [
-            "地方传奇·药剂师"
+            "ECLegends/地方传奇·药剂师"
         ]
     },
     "50202": {
@@ -15539,7 +15539,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "盗宝团·神射手"
+            "ECOtherHumanFactions/盗宝团·神射手"
         ]
     },
     "50302": {
@@ -15590,7 +15590,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "盗宝团·掘墓者"
+            "ECOtherHumanFactions/盗宝团·掘墓者"
         ]
     },
     "50303": {
@@ -15641,7 +15641,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "盗宝团·海上男儿"
+            "ECOtherHumanFactions/盗宝团·海上男儿"
         ]
     },
     "50601": {
@@ -15692,7 +15692,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "盗宝团·拳术家"
+            "ECOtherHumanFactions/盗宝团·拳术家"
         ]
     },
     "50602": {
@@ -15732,7 +15732,7 @@ var _Monsters = {
         "Weight": 125,
         "EndureTemplateID": 210,
         "Csx": [
-            "地方传奇·拳术家"
+            "ECLegends/地方传奇·拳术家"
         ]
     },
     "50701": {
@@ -15783,7 +15783,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "盗宝团·粉碎者"
+            "ECOtherHumanFactions/盗宝团·粉碎者"
         ]
     },
     "50801": {
@@ -15834,7 +15834,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "野伏·阵刀番"
+            "ECOtherHumanFactions/野伏·阵刀番"
         ]
     },
     "50802": {
@@ -15886,7 +15886,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "野伏·火付番"
+            "ECOtherHumanFactions/野伏·火付番"
         ]
     },
     "50803": {
@@ -15938,7 +15938,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "野伏·机巧番"
+            "ECOtherHumanFactions/野伏·机巧番"
         ]
     },
     "50901": {
@@ -16057,7 +16057,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "魔偶剑鬼"
+            "ECAutomatons/魔偶剑鬼"
         ]
     },
     "50902": {
@@ -16118,7 +16118,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "魔偶剑鬼·孤风"
+            "ECAutomatons/魔偶剑鬼·孤风"
         ]
     },
     "50903": {
@@ -16207,7 +16207,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "魔偶剑鬼·霜驰"
+            "ECAutomatons/魔偶剑鬼·霜驰"
         ]
     },
     "50904": {
@@ -16263,7 +16263,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "魔偶剑鬼·凶面"
+            "ECAutomatons/魔偶剑鬼·凶面"
         ]
     },
     "51001": {
@@ -16315,7 +16315,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "海乱鬼·雷腾"
+            "ECOtherHumanFactions/海乱鬼·雷腾"
         ]
     },
     "51002": {
@@ -16367,7 +16367,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "海乱鬼·炎威"
+            "ECOtherHumanFactions/海乱鬼·炎威"
         ]
     },
     "51003": {
@@ -16405,7 +16405,7 @@ var _Monsters = {
         "EndureTemplateID": 210,
         "EndureExtra": 100,
         "Csx": [
-            "海乱鬼·雷腾"
+            "ECOtherHumanFactions/海乱鬼·雷腾"
         ]
     },
     "51004": {
@@ -16443,7 +16443,7 @@ var _Monsters = {
         "EndureTemplateID": 210,
         "EndureExtra": 100,
         "Csx": [
-            "海乱鬼·雷腾"
+            "ECOtherHumanFactions/海乱鬼·雷腾"
         ]
     },
     "51101": {
@@ -16483,7 +16483,7 @@ var _Monsters = {
             "5/51101"
         ],
         "Csx": [
-            "厄灵·岩之魔蜥"
+            "ECNonCategorized/厄灵·岩之魔蜥"
         ]
     },
     "51102": {
@@ -16523,7 +16523,7 @@ var _Monsters = {
             "5/51102"
         ],
         "Csx": [
-            "厄灵·风之魔鸢"
+            "ECNonCategorized/厄灵·风之魔鸢"
         ]
     },
     "51103": {
@@ -16563,7 +16563,7 @@ var _Monsters = {
             "5/51103"
         ],
         "Csx": [
-            "厄灵·炎之魔蝎"
+            "ECNonCategorized/厄灵·炎之魔蝎"
         ]
     },
     "51104": {
@@ -16603,7 +16603,7 @@ var _Monsters = {
             "5/51104"
         ],
         "Csx": [
-            "厄灵·草之灵蛇"
+            "ECNonCategorized/厄灵·草之灵蛇"
         ]
     },
     "52101": {
@@ -16654,7 +16654,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "镀金旅团·阵前斧手"
+            "ECOtherHumanFactions/镀金旅团·阵前斧手"
         ]
     },
     "52102": {
@@ -16705,7 +16705,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "镀金旅团·机弩兵"
+            "ECOtherHumanFactions/镀金旅团·机弩兵"
         ]
     },
     "52103": {
@@ -16756,7 +16756,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "镀金旅团·鸦喙戟手"
+            "ECOtherHumanFactions/镀金旅团·鸦喙戟手"
         ]
     },
     "52104": {
@@ -16807,7 +16807,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "镀金旅团·破阵者"
+            "ECOtherHumanFactions/镀金旅团·破阵者"
         ]
     },
     "52105": {
@@ -16858,7 +16858,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "镀金旅团·刀舞者"
+            "ECOtherHumanFactions/镀金旅团·刀舞者"
         ]
     },
     "53101": {
@@ -16919,7 +16919,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "镀金旅团·沙中净水"
+            "ECOtherHumanFactions/镀金旅团·沙中净水"
         ]
     },
     "53102": {
@@ -16980,7 +16980,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "镀金旅团·炽阳凝冰"
+            "ECOtherHumanFactions/镀金旅团·炽阳凝冰"
         ]
     },
     "53103": {
@@ -17041,7 +17041,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "镀金旅团·白日鸣雷"
+            "ECOtherHumanFactions/镀金旅团·白日鸣雷"
         ]
     },
     "54101": {
@@ -17106,7 +17106,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "镀金旅团·魔岩役使"
+            "ECOtherHumanFactions/镀金旅团·魔岩役使"
         ]
     },
     "54102": {
@@ -17171,7 +17171,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "镀金旅团·灵风猎手"
+            "ECOtherHumanFactions/镀金旅团·灵风猎手"
         ]
     },
     "54103": {
@@ -17236,7 +17236,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "镀金旅团·炽沙叙事人"
+            "ECOtherHumanFactions/镀金旅团·炽沙叙事人"
         ]
     },
     "54104": {
@@ -17301,7 +17301,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "镀金旅团·叶轮舞者"
+            "ECOtherHumanFactions/镀金旅团·叶轮舞者"
         ]
     },
     "60101": {
@@ -17366,7 +17366,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "冰霜骗骗花"
+            "ECMysticalBeasts/冰霜骗骗花"
         ]
     },
     "60102": {
@@ -17431,7 +17431,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "炽热骗骗花"
+            "ECMysticalBeasts/炽热骗骗花"
         ]
     },
     "60103": {
@@ -17496,7 +17496,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "电气骗骗花"
+            "ECMysticalBeasts/电气骗骗花"
         ]
     },
     "60201": {
@@ -17558,7 +17558,7 @@ var _Monsters = {
         "Weight": 300,
         "EndureTemplateID": 4000,
         "Csx": [
-            "急冻树"
+            "ECMysticalBeasts/急冻树"
         ]
     },
     "60202": {
@@ -17620,7 +17620,7 @@ var _Monsters = {
         "Weight": 300,
         "EndureTemplateID": 4000,
         "Csx": [
-            "爆炎树"
+            "ECMysticalBeasts/爆炎树"
         ]
     },
     "60203": {
@@ -17682,7 +17682,7 @@ var _Monsters = {
         "Weight": 300,
         "EndureTemplateID": 4000,
         "Csx": [
-            "掣电树"
+            "ECMysticalBeasts/掣电树"
         ]
     },
     "60301": {
@@ -17735,7 +17735,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "幼岩龙蜥"
+            "ECMysticalBeasts/幼岩龙蜥"
         ]
     },
     "60401": {
@@ -17797,7 +17797,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "岩龙蜥"
+            "ECMysticalBeasts/岩龙蜥"
         ]
     },
     "60402": {
@@ -17859,7 +17859,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "岩龙蜥"
+            "ECMysticalBeasts/岩龙蜥"
         ]
     },
     "60403": {
@@ -17921,7 +17921,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "岩龙蜥"
+            "ECMysticalBeasts/岩龙蜥"
         ]
     },
     "60404": {
@@ -17983,7 +17983,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "岩龙蜥"
+            "ECMysticalBeasts/岩龙蜥"
         ]
     },
     "60406": {
@@ -18211,7 +18211,7 @@ var _Monsters = {
             "6/60501"
         ],
         "Csx": [
-            "古岩龙蜥"
+            "ECMysticalBeasts/古岩龙蜥"
         ]
     },
     "60502": {
@@ -18271,7 +18271,7 @@ var _Monsters = {
             "6/60501"
         ],
         "Csx": [
-            "古岩龙蜥"
+            "ECMysticalBeasts/古岩龙蜥"
         ]
     },
     "60503": {
@@ -18331,7 +18331,7 @@ var _Monsters = {
             "6/60501"
         ],
         "Csx": [
-            "古岩龙蜥"
+            "ECMysticalBeasts/古岩龙蜥"
         ]
     },
     "60504": {
@@ -18391,7 +18391,7 @@ var _Monsters = {
             "6/60501"
         ],
         "Csx": [
-            "古岩龙蜥"
+            "ECMysticalBeasts/古岩龙蜥"
         ]
     },
     "60506": {
@@ -18444,7 +18444,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "深海龙蜥·原种"
+            "ECMysticalBeasts/深海龙蜥·原种"
         ]
     },
     "60507": {
@@ -18486,8 +18486,8 @@ var _Monsters = {
         "Weight": 250,
         "EndureTemplateID": 4000,
         "Csx": [
-            "深海龙蜥·啮冰",
-            "深海龙蜥之群"
+            "ECMysticalBeasts/深海龙蜥·啮冰",
+            "ECMysticalBeasts/深海龙蜥之群"
         ]
     },
     "60508": {
@@ -18529,8 +18529,8 @@ var _Monsters = {
         "Weight": 250,
         "EndureTemplateID": 4000,
         "Csx": [
-            "深海龙蜥·吞雷",
-            "深海龙蜥之群"
+            "ECMysticalBeasts/深海龙蜥·吞雷",
+            "ECMysticalBeasts/深海龙蜥之群"
         ]
     },
     "60509": {
@@ -18583,7 +18583,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "深海龙蜥·原种"
+            "ECMysticalBeasts/深海龙蜥·原种"
         ]
     },
     "60510": {
@@ -18636,7 +18636,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "深海龙蜥·啮冰"
+            "ECMysticalBeasts/深海龙蜥·啮冰"
         ]
     },
     "60511": {
@@ -18689,7 +18689,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "深海龙蜥·吞雷"
+            "ECMysticalBeasts/深海龙蜥·吞雷"
         ]
     },
     "60601": {
@@ -18731,7 +18731,7 @@ var _Monsters = {
         "Weight": 60,
         "EndureTemplateID": 20,
         "Csx": [
-            "雷萤"
+            "ECMysticalBeasts/雷萤"
         ]
     },
     "60602": {
@@ -18773,7 +18773,7 @@ var _Monsters = {
         "Weight": 60,
         "EndureTemplateID": 20,
         "Csx": [
-            "水萤"
+            "ECMysticalBeasts/水萤"
         ]
     },
     "60603": {
@@ -18815,7 +18815,7 @@ var _Monsters = {
         "Weight": 60,
         "EndureTemplateID": 20,
         "Csx": [
-            "冰萤"
+            "ECMysticalBeasts/冰萤"
         ]
     },
     "60901": {
@@ -18886,7 +18886,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "浮游水蕈兽"
+            "ECMysticalBeasts/浮游水蕈兽"
         ]
     },
     "60902": {
@@ -18956,7 +18956,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "浮游草蕈兽"
+            "ECMysticalBeasts/浮游草蕈兽"
         ]
     },
     "60903": {
@@ -19027,7 +19027,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "浮游风蕈兽"
+            "ECMysticalBeasts/浮游风蕈兽"
         ]
     },
     "60904": {
@@ -19098,7 +19098,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "旋转雷蕈兽"
+            "ECMysticalBeasts/旋转雷蕈兽"
         ]
     },
     "60905": {
@@ -19169,7 +19169,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "旋转冰蕈兽"
+            "ECMysticalBeasts/旋转冰蕈兽"
         ]
     },
     "60906": {
@@ -19240,7 +19240,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "旋转火蕈兽"
+            "ECMysticalBeasts/旋转火蕈兽"
         ]
     },
     "60907": {
@@ -19311,7 +19311,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "伸缩火蕈兽"
+            "ECMysticalBeasts/伸缩火蕈兽"
         ]
     },
     "60908": {
@@ -19382,7 +19382,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "伸缩风蕈兽"
+            "ECMysticalBeasts/伸缩风蕈兽"
         ]
     },
     "60909": {
@@ -19453,7 +19453,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "伸缩岩蕈兽"
+            "ECMysticalBeasts/伸缩岩蕈兽"
         ]
     },
     "60910": {
@@ -19524,7 +19524,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "伸缩雷蕈兽"
+            "ECMysticalBeasts/伸缩雷蕈兽"
         ]
     },
     "61001": {
@@ -19583,7 +19583,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "圣骸角鳄"
+            "ECMysticalBeasts/圣骸角鳄"
         ]
     },
     "61002": {
@@ -19642,7 +19642,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "圣骸牙兽"
+            "ECMysticalBeasts/圣骸牙兽"
         ]
     },
     "61003": {
@@ -19761,7 +19761,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "圣骸赤鹫"
+            "ECMysticalBeasts/圣骸赤鹫"
         ]
     },
     "61004": {
@@ -19820,7 +19820,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "圣骸毒蝎"
+            "ECMysticalBeasts/圣骸毒蝎"
         ]
     },
     "61005": {
@@ -19879,7 +19879,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "圣骸飞蛇"
+            "ECMysticalBeasts/圣骸飞蛇"
         ]
     },
     "61101": {
@@ -19937,7 +19937,7 @@ var _Monsters = {
         "Weight": 250,
         "EndureTemplateID": 4000,
         "Csx": [
-            "翠翎恐蕈"
+            "ECMysticalBeasts/翠翎恐蕈"
         ]
     },
     "61201": {
@@ -20015,7 +20015,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "有翼草本真蕈"
+            "ECMysticalBeasts/有翼草本真蕈"
         ]
     },
     "61202": {
@@ -20094,7 +20094,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "有翼冰本真蕈"
+            "ECMysticalBeasts/有翼冰本真蕈"
         ]
     },
     "61203": {
@@ -20173,7 +20173,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "陆行水本真蕈"
+            "ECMysticalBeasts/陆行水本真蕈"
         ]
     },
     "61204": {
@@ -20252,7 +20252,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "陆行岩本真蕈"
+            "ECMysticalBeasts/陆行岩本真蕈"
         ]
     },
     "61301": {
@@ -20319,7 +20319,7 @@ var _Monsters = {
             "6/613011"
         ],
         "Csx": [
-            "风蚀沙虫"
+            "ECMysticalBeasts/风蚀沙虫"
         ]
     },
     "61510": {
@@ -20364,7 +20364,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "猎刀鳐"
+            "ECMysticalBeasts/猎刀鳐"
         ]
     },
     "61520": {
@@ -20414,7 +20414,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "重甲蟹"
+            "ECMysticalBeasts/重甲蟹"
         ]
     },
     "61530": {
@@ -20463,7 +20463,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "膨膨兽"
+            "ECMysticalBeasts/膨膨兽"
         ]
     },
     "61540": {
@@ -20508,7 +20508,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "帽子水母"
+            "ECMysticalBeasts/帽子水母"
         ]
     },
     "61550": {
@@ -20554,7 +20554,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "泡泡海马"
+            "ECMysticalBeasts/泡泡海马"
         ]
     },
     "61560": {
@@ -20599,7 +20599,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "球球章鱼"
+            "ECMysticalBeasts/球球章鱼"
         ]
     },
     "61570": {
@@ -20644,7 +20644,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "天使海兔"
+            "ECMysticalBeasts/天使海兔"
         ]
     },
     "61601": {
@@ -20703,7 +20703,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "坚盾重甲蟹"
+            "ECMysticalBeasts/坚盾重甲蟹"
         ]
     },
     "61602": {
@@ -20762,7 +20762,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "大天使海兔"
+            "ECMysticalBeasts/大天使海兔"
         ]
     },
     "61603": {
@@ -20821,7 +20821,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "泡泡雄海马"
+            "ECMysticalBeasts/泡泡雄海马"
         ]
     },
     "61611": {
@@ -20855,7 +20855,7 @@ var _Monsters = {
         "EndureTemplateID": 210,
         "MultiPlayerID": 103,
         "Csx": [
-            "地方传奇·重甲蟹"
+            "ECLegends/地方传奇·重甲蟹"
         ]
     },
     "61612": {
@@ -20889,7 +20889,7 @@ var _Monsters = {
         "EndureTemplateID": 210,
         "MultiPlayerID": 103,
         "Csx": [
-            "地方传奇·猎刀鳐"
+            "ECLegends/地方传奇·猎刀鳐"
         ]
     },
     "61613": {
@@ -20923,7 +20923,7 @@ var _Monsters = {
         "EndureTemplateID": 210,
         "MultiPlayerID": 103,
         "Csx": [
-            "地方传奇·膨膨兽"
+            "ECLegends/地方传奇·膨膨兽"
         ]
     },
     "61621": {
@@ -20957,7 +20957,7 @@ var _Monsters = {
         "EndureTemplateID": 210,
         "MultiPlayerID": 103,
         "Csx": [
-            "地方传奇·重甲蟹"
+            "ECLegends/地方传奇·重甲蟹"
         ]
     },
     "61622": {
@@ -20991,7 +20991,7 @@ var _Monsters = {
         "EndureTemplateID": 210,
         "MultiPlayerID": 103,
         "Csx": [
-            "地方传奇·猎刀鳐"
+            "ECLegends/地方传奇·猎刀鳐"
         ]
     },
     "61623": {
@@ -21025,7 +21025,7 @@ var _Monsters = {
         "EndureTemplateID": 210,
         "MultiPlayerID": 103,
         "Csx": [
-            "地方传奇·膨膨兽"
+            "ECLegends/地方传奇·膨膨兽"
         ]
     },
     "61624": {
@@ -21059,7 +21059,7 @@ var _Monsters = {
         "EndureTemplateID": 210,
         "MultiPlayerID": 103,
         "Csx": [
-            "地方传奇·大天使海兔"
+            "ECLegends/地方传奇·大天使海兔"
         ]
     },
     "61625": {
@@ -21094,7 +21094,7 @@ var _Monsters = {
         "EndureTemplateID": 4000,
         "MultiPlayerID": 103,
         "Csx": [
-            "地方传奇·帽子水母"
+            "ECLegends/地方传奇·帽子水母"
         ]
     },
     "61635": {
@@ -21129,7 +21129,7 @@ var _Monsters = {
         "EndureTemplateID": 4000,
         "MultiPlayerID": 103,
         "Csx": [
-            "地方传奇·帽子水母"
+            "ECLegends/地方传奇·帽子水母"
         ]
     },
     "61701": {
@@ -21187,7 +21187,7 @@ var _Monsters = {
             "EN": "- Initially, <b>the molten horns located high up on its body contains <color style='color:#FF0000;'>16U Pyro</color></b>: The horn will increase its all RES by 60% (Abyss Version 80%), and it will unleash deadly attacks, creating Molten Areas that deal massive DoT.<br>- Molten horns are immune to Swirl's element application, and are only reachable when it unleashes certain attacks. Seize this opportunity and destroy it with reactions.<br>- After the horns are destroyed, it will lose all enhancements, but will regenerate its molten horns after 30s (Abyss Version 20s).<br>- Spiral Abyss Version will gain an extra 33% ATK boost, and will create even more Molten Areas."
         },
         "Csx": [
-            "铁甲熔火帝皇"
+            "ECMysticalBeasts/铁甲熔火帝皇"
         ]
     },
     "61801": {
@@ -21257,7 +21257,7 @@ var _Monsters = {
             }
         ],
         "Csx": [
-            "千年珍珠骏麟"
+            "ECMysticalBeasts/千年珍珠骏麟"
         ]
     },
     "61901": {
@@ -21442,7 +21442,7 @@ var _Monsters = {
         "Weight": 10000,
         "EndureTemplateID": 400,
         "Csx": [
-            "大雪猪王"
+            "ECAnimals/大雪猪王"
         ]
     },
     "80209": {
@@ -21470,7 +21470,7 @@ var _Monsters = {
         "Weight": 101,
         "EndureTemplateID": 400,
         "Csx": [
-            "帽子刀子狗子"
+            "ECNonCategorized/帽子刀子狗子"
         ]
     },
     "80221": {
@@ -21531,7 +21531,7 @@ var _Monsters = {
         "Weight": 80,
         "EndureTemplateID": 50,
         "Csx": [
-            "棘冠鳄"
+            "ECAnimals/棘冠鳄"
         ]
     },
     "80602": {
@@ -21563,7 +21563,7 @@ var _Monsters = {
         "Weight": 80,
         "EndureTemplateID": 50,
         "Csx": [
-            "长鬓虎"
+            "ECAnimals/长鬓虎"
         ]
     },
     "80603": {
@@ -21595,7 +21595,7 @@ var _Monsters = {
         "Weight": 80,
         "EndureTemplateID": 50,
         "Csx": [
-            "赤鹫"
+            "ECAnimals/赤鹫"
         ]
     },
     "80604": {
@@ -21627,7 +21627,7 @@ var _Monsters = {
         "Weight": 80,
         "EndureTemplateID": 50,
         "Csx": [
-            "毒蝎"
+            "ECAnimals/毒蝎"
         ]
     },
     "806051": {
@@ -21659,7 +21659,7 @@ var _Monsters = {
         "Weight": 300,
         "EndureTemplateID": 4000,
         "Csx": [
-            "驮兽"
+            "ECAnimals/驮兽"
         ]
     },
     "806052": {
@@ -21691,7 +21691,7 @@ var _Monsters = {
         "Weight": 300,
         "EndureTemplateID": 4000,
         "Csx": [
-            "驮兽"
+            "ECAnimals/驮兽"
         ]
     },
     "806053": {
@@ -21723,7 +21723,7 @@ var _Monsters = {
         "Weight": 300,
         "EndureTemplateID": 4000,
         "Csx": [
-            "驮兽"
+            "ECAnimals/驮兽"
         ]
     },
     "806061": {
@@ -21755,7 +21755,7 @@ var _Monsters = {
         "Weight": 300,
         "EndureTemplateID": 4000,
         "Csx": [
-            "驮兽"
+            "ECAnimals/驮兽"
         ]
     },
     "806062": {
@@ -21787,7 +21787,7 @@ var _Monsters = {
         "Weight": 300,
         "EndureTemplateID": 4000,
         "Csx": [
-            "驮兽"
+            "ECAnimals/驮兽"
         ]
     },
     "806063": {
@@ -21819,7 +21819,7 @@ var _Monsters = {
         "Weight": 300,
         "EndureTemplateID": 4000,
         "Csx": [
-            "驮兽"
+            "ECAnimals/驮兽"
         ]
     },
     "80615": {
@@ -21851,7 +21851,7 @@ var _Monsters = {
         "Weight": 80,
         "EndureTemplateID": 50,
         "Csx": [
-            "飞蛇"
+            "ECAnimals/飞蛇"
         ]
     },
     "90101": {
@@ -21884,7 +21884,7 @@ var _Monsters = {
         "Weight": 20000,
         "EndureTemplateID": 4000,
         "Csx": [
-            "特瓦林"
+            "ECEnemiesOfNote/特瓦林"
         ]
     },
     "90201": {
@@ -21924,7 +21924,7 @@ var _Monsters = {
         "Weight": 20000,
         "EndureTemplateID": 4000,
         "Csx": [
-            "安德留斯"
+            "ECEnemiesOfNote/安德留斯"
         ]
     },
     "90301": {
@@ -21973,7 +21973,7 @@ var _Monsters = {
         "Weight": 150,
         "EndureTemplateID": 500,
         "Csx": [
-            "公子1"
+            "ECEnemiesOfNote/公子1"
         ]
     },
     "90302": {
@@ -22022,7 +22022,7 @@ var _Monsters = {
         "Weight": 150,
         "EndureTemplateID": 500,
         "Csx": [
-            "公子2"
+            "ECEnemiesOfNote/公子2"
         ]
     },
     "90303": {
@@ -22064,7 +22064,7 @@ var _Monsters = {
         "Weight": 20000,
         "EndureTemplateID": 4000,
         "Csx": [
-            "公子3"
+            "ECEnemiesOfNote/公子3"
         ]
     },
     "90401": {
@@ -22118,11 +22118,11 @@ var _Monsters = {
         "EndureTemplateID": 4000,
         "MultiPlayerID": 103,
         "Csx": [
-            "若陀龙王·岩",
-            "若陀龙王·火",
-            "若陀龙王·水",
-            "若陀龙王·雷",
-            "若陀龙王·冰"
+            "ECEnemiesOfNote/若陀龙王·岩",
+            "ECEnemiesOfNote/若陀龙王·火",
+            "ECEnemiesOfNote/若陀龙王·水",
+            "ECEnemiesOfNote/若陀龙王·雷",
+            "ECEnemiesOfNote/若陀龙王·冰"
         ]
     },
     "90501": {
@@ -22159,7 +22159,7 @@ var _Monsters = {
         "EndureTemplateID": 4000,
         "MultiPlayerID": 103,
         "Csx": [
-            "女士1"
+            "ECEnemiesOfNote/女士1"
         ]
     },
     "90502": {
@@ -22196,7 +22196,7 @@ var _Monsters = {
         "EndureTemplateID": 4000,
         "MultiPlayerID": 103,
         "Csx": [
-            "女士2"
+            "ECEnemiesOfNote/女士2"
         ]
     },
     "90602": {
@@ -22236,11 +22236,11 @@ var _Monsters = {
         "EndureTemplateID": 500,
         "MultiPlayerID": 103,
         "Csx": [
-            "祸津御建鸣神命1",
-            "祸津御建鸣神命2",
-            "祸津御建鸣神命3",
-            "雷电将军",
-            "影"
+            "ECEnemiesOfNote/祸津御建鸣神命1",
+            "ECEnemiesOfNote/祸津御建鸣神命2",
+            "ECEnemiesOfNote/祸津御建鸣神命3",
+            "ECNonCategorized/雷电将军",
+            "ECNonCategorized/影"
         ]
     },
     "90701": {
@@ -22276,7 +22276,7 @@ var _Monsters = {
         "EndureTemplateID": 4000,
         "MultiPlayerID": 104,
         "Csx": [
-            "七叶寂照秘密主1"
+            "ECEnemiesOfNote/七叶寂照秘密主1"
         ]
     },
     "90702": {
@@ -22329,7 +22329,7 @@ var _Monsters = {
         "EndureTemplateID": 4000,
         "MultiPlayerID": 104,
         "Csx": [
-            "七叶寂照秘密主2"
+            "ECEnemiesOfNote/七叶寂照秘密主2"
         ]
     },
     "90800": {
@@ -22366,7 +22366,7 @@ var _Monsters = {
         "EndureTemplateID": 4000,
         "MultiPlayerID": 103,
         "Csx": [
-            "起源绿洲的守望者"
+            "ECEnemiesOfNote/起源绿洲的守望者"
         ]
     },
     "90801": {
@@ -22403,7 +22403,7 @@ var _Monsters = {
         "EndureTemplateID": 4000,
         "MultiPlayerID": 103,
         "Csx": [
-            "终末绿洲的守望者"
+            "ECEnemiesOfNote/终末绿洲的守望者"
         ]
     },
     "90802": {
@@ -22435,7 +22435,7 @@ var _Monsters = {
         "Weight": 75,
         "EndureTemplateID": 50,
         "Csx": [
-            "基础增殖生命体"
+            "ECNonCategorized/基础增殖生命体"
         ]
     },
     "90803": {
@@ -22467,7 +22467,7 @@ var _Monsters = {
         "Weight": 100,
         "EndureTemplateID": 400,
         "Csx": [
-            "掠食性增殖生命体"
+            "ECNonCategorized/掠食性增殖生命体"
         ]
     },
     "90804": {
@@ -22499,7 +22499,7 @@ var _Monsters = {
         "Weight": 300,
         "EndureTemplateID": 400,
         "Csx": [
-            "守护的增殖生命体"
+            "ECNonCategorized/守护的增殖生命体"
         ]
     },
     "90805": {
@@ -22537,7 +22537,7 @@ var _Monsters = {
         "Weight": 300,
         "EndureTemplateID": 400,
         "Csx": [
-            "养育的增殖生命体"
+            "ECNonCategorized/养育的增殖生命体"
         ]
     },
     "90806": {
@@ -22569,7 +22569,7 @@ var _Monsters = {
         "Weight": 100,
         "EndureTemplateID": 400,
         "Csx": [
-            "破坏的增殖生命体"
+            "ECNonCategorized/破坏的增殖生命体"
         ]
     },
     "90807": {
@@ -22601,7 +22601,7 @@ var _Monsters = {
         "Weight": 100,
         "EndureTemplateID": 400,
         "Csx": [
-            "筑巢的增殖生命体"
+            "ECNonCategorized/筑巢的增殖生命体"
         ]
     },
     "90901": {
@@ -22642,8 +22642,8 @@ var _Monsters = {
             "EN": "- The BOSS accumulates Rage during combat. <b>When Rage reaches 120, will devour you, taking you to another realm</b>. To return to reality, you must defeat the Phantom inside the realm. Upon defeating the Phantom, the BOSS will <b>lose 20% HP</b>, and every party member revives 100 Elemental Energy.<br>- The BOSS gathers 1 Rage every second; after 80 seconds, will instead gather 2 Rage every second. Each time it takes damage, every 1% HP lost will increase Rage by 1. Destroying an Eye of Maelstrom will gather 30 Rage.<br>- Eyes of Maelstrom will appear in battle, pulling characters in and dealing massive DMG. To destroy it, either attack it 8 times, or <b>attack it once with Ousia or Pneuma</b>.<br>- The Phantom in the other realm has 60% HP of the BOSS, and will unleash powerful attacks. <b>Correctly timed Ousia or Pneuma attacks</b> will paralyze it and cause it to <b>lose 25% HP</b>."
         },
         "Csx": [
-            "吞星之鲸",
-            "吞星之鲸·幻影"
+            "ECEnemiesOfNote/吞星之鲸",
+            "ECEnemiesOfNote/吞星之鲸·幻影"
         ]
     },
     "90902": {
@@ -22684,8 +22684,8 @@ var _Monsters = {
             "EN": "- The BOSS accumulates Rage during combat. <b>When Rage reaches 120, will devour you, taking you to another realm</b>. You cannot deal damage to the BOSS in the realm. To return to reality, you must defeat the Phantom inside the realm. Upon defeating the Phantom, the BOSS will <b>lose 20% HP</b>, and every party member revives 100 Elemental Energy.<br>- The BOSS gathers 1 Rage every second; after 80 seconds, will instead gather 2 Rage every second. Each time it takes damage, every 1% HP lost will increase Rage by 1. Destroying an Eye of Maelstrom will gather 30 Rage.<br>- Eyes of Maelstrom will appear in battle, pulling characters in and dealing DMG. To destroy it, either hit it 8 times, or <b>attack it once with Ousia or Pneuma</b>.<br>- The Phantom in the other realm has 60% HP of the BOSS, and will unleash powerful attacks. <b>Correctly timed Ousia or Pneuma attacks</b> will paralyze it and cause it to <b>lose 25% HP</b>."
         },
         "Csx": [
-            "吞星之鲸",
-            "吞星之鲸·幻影"
+            "ECEnemiesOfNote/吞星之鲸",
+            "ECEnemiesOfNote/吞星之鲸·幻影"
         ]
     },
     "90903": {
@@ -22723,8 +22723,8 @@ var _Monsters = {
             "EN": "- Accumulates Rage during combat. <b>When Rage reaches 120, will devour you, taking you to another realm</b>. To return to reality, you must defeat the Phantom inside the realm. Upon defeating the Phantom, the BOSS will <b>lose 20% HP</b>, and every party member revives 100 Elemental Energy.<br>- The BOSS gathers 1 Rage every second. Each time it takes damage, every 1% HP lost will increase Rage by 1. Destroying an Eye of Maelstrom will gather 30 Rage.<br>- Eyes of Maelstrom will appear in battle, pulling characters in and dealing massive DMG. To destroy it, either attack it 8 times, or <b>attack it once with Ousia or Pneuma</b>.<br>- The Phantom in the other realm has 60% HP of the BOSS, and will unleash powerful attacks. <b>Correctly timed Ousia or Pneuma attacks</b> will paralyze it and cause it to <b>lose 25% HP</b>."
         },
         "Csx": [
-            "吞星之鲸",
-            "吞星之鲸·幻影"
+            "ECEnemiesOfNote/吞星之鲸",
+            "ECEnemiesOfNote/吞星之鲸·幻影"
         ]
     },
     "70350450": {
@@ -22798,7 +22798,7 @@ var _Monsters = {
         "Weight": 150,
         "EndureTemplateID": 4000,
         "Csx": [
-            "雷音权现·裂鸣"
+            "ECElementalLifeforms/雷音权现·裂鸣"
         ]
     },
     "3740303": {
@@ -22857,7 +22857,7 @@ var _Monsters = {
         "Weight": 300,
         "EndureTemplateID": 4000,
         "Csx": [
-            "重武装兆载永劫龙兽"
+            "ECAutomatons/重武装兆载永劫龙兽"
         ]
     },
     "3760507": {
@@ -22899,7 +22899,7 @@ var _Monsters = {
         "Weight": 250,
         "EndureTemplateID": 4000,
         "Csx": [
-            "深海龙蜥之群·轰旋"
+            "ECMysticalBeasts/深海龙蜥之群·轰旋"
         ]
     },
     "3760508": {
@@ -22941,7 +22941,7 @@ var _Monsters = {
         "Weight": 250,
         "EndureTemplateID": 4000,
         "Csx": [
-            "深海龙蜥之群·轰旋"
+            "ECMysticalBeasts/深海龙蜥之群·轰旋"
         ]
     },
     "3700000": {
