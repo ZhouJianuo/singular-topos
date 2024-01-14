@@ -1,5 +1,23 @@
 $(function() {
 
+    var _lang = 0
+    var DATE = new Date()
+    document.cookie.split(";").forEach(function (c) { 
+        if ((c.includes('lang=')) && !(c.includes('session'))) {
+            _lang = c.substring(c.indexOf('lang=') + 5, c.indexOf('lang=') + 7)
+        }
+    });
+
+    var lang_ = $('#LANG').val()
+    if (lang_) {
+        var lang = lang_
+        document.cookie = 'lang=' + lang_ + ';expires=' + new Date(DATE.getTime() + 8640000000).toUTCString() + ';path=/'
+    } else {
+        var lang = (_lang === 'CH') ? 'CH' : 'EN';
+    }
+
+    if (lang == 'CH') document.title = '玉衡杯数据库'
+
     if (lang == 'EN') {$('body').css('font-family', "'Segoe UI', sans-serif")}
     else {$('body').css('font-family', "'Microsoft YaHei', sans-serif")}
 
@@ -56,7 +74,7 @@ $(function() {
             template: {
                 div : {
                     a: function (k) {
-                        return k.data.Href + '?lang=' + lang
+                        return k.data.Href[lang] + '?lang=' + lang
                     },
                     t: [
                         {
@@ -101,7 +119,7 @@ $(function() {
                 div : {
                     a: function (k) {
                         if (k.data.Disable) return 'javascript:void(0)'
-                        return k.data.Href + '?lang=' + lang
+                        return k.data.Href[lang] + '?lang=' + lang
                     },
                     t: [
                         {
@@ -205,14 +223,17 @@ $(function() {
         switch (cur_select) {
             default:
                 renderGI();
+                GAME = 'GI'
                 break;
             case '2':
                 renderSR();
+                GAME = 'SR'
                 break;
             case '3':
                 renderAbout();
                 break;
         }
+        $('h3 .lang').html(txt.Home_Lang[GAME][lang])
     })
 
     $('body').on('click', '.didyouknow', function() {

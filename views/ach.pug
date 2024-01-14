@@ -1,0 +1,16 @@
+extends __
+block head
+  link(rel="stylesheet", href="/stylesheets/ach.css")
+block content
+  container.ignore
+    input(type="hidden" id="LANG" value=lang)
+    input(type="hidden" id="ID" value=id)
+    input(type="hidden" id="IMGPRE" value=imgpre)
+    h3
+      span.title
+      em.links
+      em.subtitle
+      em.tlsub 
+  script(src="/javascripts/computerJson.js")
+  script(src="/gi/ach.js")
+  script(src="/javascripts/ach.js")

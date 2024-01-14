@@ -1,11 +1,24 @@
 $(function () {
 
+    var _lang = 0
+    var DATE = new Date()
+    document.cookie.split(";").forEach(function (c) { 
+        if ((c.includes('lang=')) && !(c.includes('session'))) {
+            _lang = c.substring(c.indexOf('lang=') + 5, c.indexOf('lang=') + 7)
+        }
+    });
+
     var lang_ = $('#LANG').val()
-    if (!lang_) {
-        var lang = 'CH'
-    } else {
+    if (lang_) {
         var lang = lang_
+        document.cookie = 'lang=' + lang_ + ';expires=' + new Date(DATE.getTime() + 8640000000).toUTCString() + ';path=/'
+    } else {
+        var lang = (_lang === 'CH') ? 'CH' : 'EN';
     }
+
+    var imgpre = $('#IMGPRE').val()
+
+    if (lang == 'CH') document.title = '玉衡杯数据库'
 
     if (lang == 'EN') { $('body').css('font-family', "'Segoe UI', sans-serif") }
     else { $('body').css('font-family', "'Microsoft YaHei', sans-serif") }
@@ -230,7 +243,7 @@ $(function () {
             template: {
                 p: [
                     {
-                        img: 'images/Misc/Star.png',
+                        img: imgpre + 'images/Misc/Star.png',
                         class: 'star'
                     }, function (d) {
                         return d.data[lang]
@@ -252,7 +265,7 @@ $(function () {
                         },
                         {
                             img: function (k) {
-                                return 'images/Element/' + k.data + '.png'
+                                return imgpre + 'images/Element/' + k.data + '.png'
                             },
                             class: 'elem_',
                             data: cur_floor_data.ElemUpper
@@ -270,7 +283,7 @@ $(function () {
                         },
                         {
                             img: function (k) {
-                                return 'images/Element/' + k.data + '.png'
+                                return imgpre + 'images/Element/' + k.data + '.png'
                             },
                             class: 'elem_',
                             data: cur_floor_data.ElemLower
@@ -421,7 +434,7 @@ $(function () {
                     {
                         div: [
                             {
-                                img: 'images/' + me.Icon,
+                                img: imgpre + 'images/' + me.Icon,
                                 class: 'monicon'
                             },
                         ],
@@ -432,7 +445,7 @@ $(function () {
                             {
                                 span: {
                                     img: function (k) {
-                                        return 'images/Element/' + k.data + '.png'
+                                        return imgpre + 'images/Element/' + k.data + '.png'
                                     },
                                     class: 'elem',
                                     data: me.Weak
@@ -588,7 +601,7 @@ $(function () {
                             div: [cur_mon.Name[lang], {
                                 span: {
                                     img: function (k) {
-                                        return 'images/Element/' + k.data + '.png'
+                                        return imgpre + 'images/Element/' + k.data + '.png'
                                     },
                                     class: 'elem',
                                     style: {
@@ -606,12 +619,12 @@ $(function () {
                         {
                             div: [
                                 {
-                                    img: 'images/' + cur_mon.Figure,
+                                    img: imgpre + 'images/' + cur_mon.Figure,
                                     class: 'figure',
                                     when: cur_mon.Figure != undefined
                                 },
                                 {
-                                    img: 'images/' + cur_mon.Icon,
+                                    img: imgpre + 'images/' + cur_mon.Icon,
                                     height: '80px',
                                     when: cur_mon.Figure == undefined
                                 },
@@ -732,7 +745,7 @@ $(function () {
                                                 tr: [
                                                     {
                                                         td: {
-                                                            img: 'images/Element/' + e + '.png',
+                                                            img: imgpre + 'images/Element/' + e + '.png',
                                                             class: 'statpageicon'
                                                         }
                                                     },
@@ -771,7 +784,7 @@ $(function () {
                                                     tr: [
                                                         {
                                                             td: {
-                                                                img: 'images/Debuff/' + e.Icon + '.png',
+                                                                img: imgpre + 'images/Debuff/' + e.Icon + '.png',
                                                                 class: 'statpageicon'
                                                             }
                                                         },
@@ -992,7 +1005,7 @@ $(function () {
                             }
                         },
                         {
-                            img: 'images/Misc/DEF_HSR.png',
+                            img: imgpre + 'images/Misc/DEF_HSR.png',
                             style: {
                                 width: '100%',
                                 'max-width': '500px'
@@ -1011,7 +1024,7 @@ $(function () {
                             }
                         },
                         {
-                            img: 'images/Misc/DEF_GI.png',
+                            img: imgpre + 'images/Misc/DEF_GI.png',
                             style: {
                                 width: '100%',
                                 'max-width': '500px'
@@ -1066,7 +1079,7 @@ $(function () {
                                 {
                                     span: {
                                         img: function (k) {
-                                            return 'images/Element/' + k.data + '.png'
+                                            return imgpre + 'images/Element/' + k.data + '.png'
                                         },
                                         class: 'elem',
                                         style: {
@@ -1208,7 +1221,7 @@ $(function () {
         L.forEach(function (t, i) {
             $('.mon_body').render({
                 template: {
-                    img: 'images/Csxylic/' + t + '.png',
+                    img: imgpre + 'images/Csxylic/' + t + '.png',
                     width: '100%'
                 }
             })

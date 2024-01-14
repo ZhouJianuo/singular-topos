@@ -1,0 +1,3 @@
+[submodule "homdgcat-res"]
+	path = public/homdgcat-res
+	url = https://github.com/ZhouJianuo/homdgcat-res.git

@@ -1,0 +1,30 @@
+extends __
+block head
+  link(rel="stylesheet", href="/stylesheets/computer.css")
+block content
+  container.ignore
+    input(type="hidden" id="MONSTERID" value=monster)
+    input(type="hidden" id="LANG" value=lang)
+    input(type="hidden" id="IMGPRE" value=imgpre)
+    h3
+      span.title
+      em.links
+      em.subtitle
+      em.tlsub 
+    section.kingdom
+    section.class_monster
+    section.com_result
+      div
+        select(name="multiplayer")
+          option(value="0") 1P
+          option(value="1") 2P
+          option(value="2") 3P
+          option(value="3") 4P
+        input(type="number" name="level" placeholder="请输入等级：1~200")
+        input(type="text" name="interval" placeholder="请输入层间，例如11-2" value=interval)
+        button(class='calculate') 计算
+        button(class='download') 下载
+      .result
+  script(src="/javascripts/computerJson.js")
+  script(src="/gi/computer.js")
+  script(src="/javascripts/computer.js")

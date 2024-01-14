@@ -1,0 +1,478 @@
+header {
+    display: none;
+}
+
+h3 {
+    margin: 0px auto 20px;
+    font-size: 50px;
+    font-weight: 400;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+h3 span {
+    position: relative;
+}
+
+h3 span::before,
+h3 span::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    width: 300px;
+    height: 14px;
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUIAAAAOCAYAAABaQBU/AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTM4IDc5LjE1OTgyNCwgMjAxNi8wOS8xNC0wMTowOTowMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTcgKFdpbmRvd3MpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjU0RjVENjE0MkJBMzExRUE5N0RBQTE1QTRBMDcyODJCIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjU0RjVENjE1MkJBMzExRUE5N0RBQTE1QTRBMDcyODJCIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6NTRGNUQ2MTIyQkEzMTFFQTk3REFBMTVBNEEwNzI4MkIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6NTRGNUQ2MTMyQkEzMTFFQTk3REFBMTVBNEEwNzI4MkIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz7kba4rAAACJUlEQVR42uybzStEURjGz3uNhYWPFNkoK6FsiIQ0Vij+Bf+eLTa+xUJCkiTsLFBYiOQ74znNOzl0Z+65DJnr+dUv7pz33HvnZp7Oh5FMJmMIISSBlMFOuBlVmOKzIoQkEIFDsBWWw7WCxRwREkJKlEp4D19CRoIjsAVmNBQP4Dx8ZhASQpIy5e2AXXAV7jttFXAMNoaMEC/gJLxhEBJCSpkmOABrnHCb0LYGOAqr9PgKzsB+7Wd5hCtw73MQSgnO/X+zv3yzRorUR754XvH4Pe6xeJ5XPF6TGP187qFQnU+fqNfcn0HIdfKdR2LUufcYRJwv8HgPUfdgYtSYPNePenaBM00Vj78J8fg8nMINeAZ7dIRYpu0ncBo+6HE37DPZfRHb9xjOwev/GITyQ32kiG3yzVrfICxGaIpnrcQITN9riceHSGKGpIkRBKZIASMRgR3EDDef2sDj+QSeQSVfaI969oX6GQ2+DQ27WjgM6512u0u8rsHrUg0HYbMe27XFHWsqpPivw7k8IcROjdOw3RkF3sJZDch8uAH/arKbJ09cIySElCI2/OxaoF0XbIN3cNlk1wBzlGvQiU6b3anxEVzS8ORmCSEkkXTraNFulvSa7GaJDUC7ZrgADz+svzAICSEJow6O5zLOvG/SnMMpE/LvMwGfGSEkYVzqNNk4YWhHgBNhIWgMv2JHCEkmOzrQS8NduFiomEFICEkq2xqGW1GFbwIMAD6gYaK7UVFBAAAAAElFTkSuQmCC) no-repeat right center/cover;
+}
+
+h3 span::before {
+    left: 0;
+    transform: translate(calc(-100% - 32px), -50%);
+}
+
+h3 span::after {
+    right: 0;
+    transform: translate(calc(100% + 32px), -50%) rotateY(180deg);
+}
+
+h3 span {
+    color: #fff;
+}
+
+h3 .subtitle {
+    padding: 10px;
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    font-style: normal;
+}
+
+h3 a {
+    color: #df903b;
+}
+
+h3 .tlsub {
+    font-style: normal;
+    cursor: pointer;
+}
+
+h3 .links {
+    font-style: normal;
+    display: block;
+    line-height: 1.6;
+}
+
+container {
+    display: block;
+    max-width: 2000px;
+}
+
+.kingdom {
+    margin-top: 20px;
+    background-color: rgba(255, 255, 255, 1);
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.kingdom kingdom {
+    display: inline-block;
+    width: 12%;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.kingdom kingdom:hover,
+.kingdom kingdom.active {
+    background-color: rgb(37, 69, 186);
+    color: #fff;
+}
+
+.class_monster {
+    background-color: rgba(255, 255, 255, 1);
+    padding: 0px 20px 20px;
+}
+
+.class_monster category:last-child {
+    border-bottom: 1px dashed #333;
+}
+
+.class_monster category {
+    display: flex;
+    border-top: 1px dashed #333;
+    padding: 5px;
+    align-items: center;
+    justify-content: center;
+}
+
+category text {
+    font-weight: 600;
+    width: 100px;
+    line-height: 50px;
+}
+
+category monster {
+    float: left;
+    width: calc(100% - 100px);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+category monster span {
+    padding: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+    white-space: pre;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+
+category monster span::-webkit-scrollbar {
+    height: 0px;
+    width: 0px
+}
+
+category monster span.active {
+    font-weight: 600;
+    border: 2px solid rgb(37, 69, 186);
+    border-radius: 5px;
+}
+
+category monster img {
+    width: 34px;
+    height: 34px;
+    vertical-align: middle;
+    /*border-radius: 50%;
+    border: 2px solid transparent;*/
+    margin-right: 5px;
+}
+
+.monster_card {
+    padding: 10px;
+    margin: 7px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    height: 68px;
+    display: flex;
+    flex-wrap: wrap;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+
+.monster_card::-webkit-scrollbar {
+    height: 0px;
+    width: 0px;
+}
+
+.monicon {
+    height: 48px;
+    width: 48px;
+    vertical-align: middle;
+}
+
+.monright {
+    max-width: calc(100% - 53px);
+}
+
+.monright span {
+    line-height: 1.5;
+    padding-left: 3px;
+    padding-right: 3px;
+    white-space: nowrap;
+}
+
+.com_result h5 {
+    font-size: 26px;
+}
+
+.com_result {
+    background-color: rgba(255, 255, 255, 1);
+    text-align: center;
+    padding: 0 0 20px;
+}
+
+.com_result input {
+    width: 200px;
+    height: 40px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 2px solid;
+}
+
+.com_result select {
+    height: 40px;
+}
+
+.com_result>div>* {
+    margin: 5px 3px 5px 5px;
+}
+
+input[name="level"] {
+    display: none;
+}
+
+input[name="interval"] {
+    margin-left: 5px;
+    margin-right: 3px;
+}
+
+.com_result button {
+    height: 40px;
+    color: #fff;
+    background-color: rgb(37, 69, 186);
+}
+
+.mon_intro {
+    text-align: left;
+    padding: 20px 20px 40px;
+    line-height: 35px;
+    white-space: pre-wrap
+}
+
+.result_head {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: 20px;
+    line-height: 40px;
+    padding-top: 20px;
+}
+
+.result_head img {
+    vertical-align: middle;
+}
+
+.result_head>div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.result_head>div span {
+    margin: 0 20px;
+}
+
+.result_head>div span i {
+    font-style: normal;
+    color: red;
+}
+
+.resEN {
+    display: inline-block;
+    width: 72px;
+}
+
+.SkillData {
+    padding: 10px;
+    text-align: center;
+}
+
+.SkillData img {
+    width: 100%;
+}
+
+.skill_warp_input {
+    text-align: center;
+}
+
+.skill_warp table {
+    width: 100%;
+}
+
+.skill_warp table th {
+    width: 33.3%;
+}
+
+.DMG_td span {
+    display: none;
+}
+
+.Fire {
+    color: red;
+}
+
+.Water {
+    color: red;
+}
+
+.mon_table {
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.mon_table .table-1 {
+    width: calc(100% - 380px);
+    line-height: 32px;
+    text-align: center;
+}
+
+.mon_table .table-2 {
+    width: 350px;
+    line-height: 32px;
+}
+
+.table-2 td {
+    text-align: left;
+}
+
+tbody>tr:nth-child(odd) {
+    background: none;
+    border-bottom: 1px solid antiquewhite;
+}
+
+
+popheader {
+    height: 40px;
+    line-height: 40px;
+    background: #fff;
+    color: #333;
+    font-size: 16px;
+    font-weight: 600;
+    overflow: hidden;
+}
+
+popbody table {
+    width: 100%;
+}
+
+popbody div {
+    line-height: 2;
+}
+
+.buttons {
+    padding: 20px 0px;
+}
+
+.scroller {
+    overflow-x: hidden !important;
+}
+
+.big-img {
+    height: 240px;
+}
+
+.dmg_Table span {
+    font-size: 12px;
+}
+
+.dmg_Table th,
+.dmg_Table td {
+    font-size: 16px;
+}
+
+.disorder {
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+@media screen and (max-width: 800px) {
+    .buttons {
+        flex-direction: row !important;
+        flex-wrap: wrap;
+    }
+
+    .mon_table .table-1 {
+        width: 100%;
+        padding-bottom: 18px
+    }
+
+    .mon_table .table-2 {
+        width: 100%;
+        padding-bottom: 18px;
+    }
+
+    popbody f1 {
+        width: 100%;
+    }
+
+    popdialog {
+        width: 93% !important;
+    }
+
+    .kingdom kingdom {
+        width: 30%;
+        font-size: 15px;
+    }
+
+    .big-img {
+        height: 160px;
+    }
+}
+
+@media screen and (min-width: 500px) and (max-width: 800px) {
+
+    .dmg_Table th,
+    .dmg_Table td {
+        font-size: 14px;
+    }
+
+    .class_monster {
+        padding: 0px 10px 20px 8px;
+    }
+
+    .disorder {
+        font-size: 16px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+
+    .disorder {
+        font-size: 14px;
+        margin-left: 0px;
+        margin-right: 8px;
+    }
+
+    .dmg_Table th,
+    .dmg_Table td {
+        font-size: 12px;
+    }
+
+    .monicon {
+        height: 38px;
+        width: 38px;
+        vertical-align: middle;
+    }
+
+    .kingdom kingdom {
+        width: 46%;
+        font-size: 14px;
+    }
+
+    category text {
+        width: 68px;
+        font-size: 11px;
+    }
+
+    category monster {
+        width: calc(100% - 68px);
+        font-size: 13px;
+    }
+
+    .monster_card {
+        height: 58px;
+        margin: 7px 0px 7px 7px
+    }
+
+    .monright {
+        max-width: calc(100% - 43px);
+    }
+
+    .class_monster {
+        padding: 0px 0px 20px 8px;
+    }
+}

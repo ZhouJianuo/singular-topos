@@ -1,0 +1,834 @@
+header {
+    display: none;
+}
+
+h3 {
+    margin: 0px auto 20px;
+    font-size: 50px;
+    font-weight: 400;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+h3 span {
+    position: relative;
+}
+
+h3 span::before,
+h3 span::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    width: 300px;
+    height: 14px;
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUIAAAAOCAYAAABaQBU/AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTM4IDc5LjE1OTgyNCwgMjAxNi8wOS8xNC0wMTowOTowMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTcgKFdpbmRvd3MpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjU0RjVENjE0MkJBMzExRUE5N0RBQTE1QTRBMDcyODJCIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjU0RjVENjE1MkJBMzExRUE5N0RBQTE1QTRBMDcyODJCIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6NTRGNUQ2MTIyQkEzMTFFQTk3REFBMTVBNEEwNzI4MkIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6NTRGNUQ2MTMyQkEzMTFFQTk3REFBMTVBNEEwNzI4MkIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz7kba4rAAACJUlEQVR42uybzStEURjGz3uNhYWPFNkoK6FsiIQ0Vij+Bf+eLTa+xUJCkiTsLFBYiOQ74znNOzl0Z+65DJnr+dUv7pz33HvnZp7Oh5FMJmMIISSBlMFOuBlVmOKzIoQkEIFDsBWWw7WCxRwREkJKlEp4D19CRoIjsAVmNBQP4Dx8ZhASQpIy5e2AXXAV7jttFXAMNoaMEC/gJLxhEBJCSpkmOABrnHCb0LYGOAqr9PgKzsB+7Wd5hCtw73MQSgnO/X+zv3yzRorUR754XvH4Pe6xeJ5XPF6TGP187qFQnU+fqNfcn0HIdfKdR2LUufcYRJwv8HgPUfdgYtSYPNePenaBM00Vj78J8fg8nMINeAZ7dIRYpu0ncBo+6HE37DPZfRHb9xjOwev/GITyQ32kiG3yzVrfICxGaIpnrcQITN9riceHSGKGpIkRBKZIASMRgR3EDDef2sDj+QSeQSVfaI969oX6GQ2+DQ27WjgM6512u0u8rsHrUg0HYbMe27XFHWsqpPivw7k8IcROjdOw3RkF3sJZDch8uAH/arKbJ09cIySElCI2/OxaoF0XbIN3cNlk1wBzlGvQiU6b3anxEVzS8ORmCSEkkXTraNFulvSa7GaJDUC7ZrgADz+svzAICSEJow6O5zLOvG/SnMMpE/LvMwGfGSEkYVzqNNk4YWhHgBNhIWgMv2JHCEkmOzrQS8NduFiomEFICEkq2xqGW1GFbwIMAD6gYaK7UVFBAAAAAElFTkSuQmCC) no-repeat right center/cover;
+}
+
+h3 span::before {
+    left: 0;
+    transform: translate(calc(-100% - 32px), -50%);
+}
+
+h3 span::after {
+    right: 0;
+    transform: translate(calc(100% + 32px), -50%) rotateY(180deg);
+}
+
+h3 span {
+    color: #fff;
+}
+
+h3 .subtitle {
+    padding: 10px;
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    font-style: normal;
+}
+
+h3 a {
+    color: #df903b;
+}
+
+h3 .tlsub {
+    font-style: normal;
+    cursor: pointer;
+}
+
+h3 .links {
+    font-style: normal;
+    display: block;
+    line-height: 1.6;
+}
+
+container {
+    display: block;
+    max-width: 2000px;
+}
+
+.content {
+    padding: 20px 5px 5px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 1);
+    min-height: 600px;
+}
+
+popdialog {
+    height: 100%;
+}
+
+.norm popdialog {
+    height: 40%;
+}
+
+popheader {
+    height: 40px;
+    line-height: 40px;
+    background: #fff;
+    color: #333;
+    font-size: 18px;
+    font-weight: 600;
+    overflow: hidden;
+}
+
+popbody {
+    max-height: calc(100% - 40px) !important
+}
+
+.avatar_mat {
+    margin: 9px 6px;
+    padding: 0px 6px;
+    text-align: center;
+    line-height: 24px;
+}
+
+.avatar_mat img {
+    width: 54px;
+    margin: auto;
+}
+
+.a_select,
+.r_select {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.a_select span {
+    width: 46%;
+    text-align: center;
+    margin: 1%;
+    border: 1px solid #333;
+    padding: 10px 0;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 13px;
+}
+
+.r_select span {
+    width: 31%;
+    text-align: center;
+    margin: 1%;
+    border: 1px solid #333;
+    padding: 10px 0;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.a_select span.active {
+    background-color: rgb(37, 69, 186);
+    color: #fff;
+}
+
+.r_select span.active {
+    background-color: rgb(37, 69, 186);
+    color: #fff;
+}
+
+.a_section,
+.a_section_small,
+.a_section_smallsmall,
+.a_section_small_1,
+.a_section_small_2 {
+    width: 94.7%;
+    display: inline-block;
+    border-radius: 10px;
+    background-color: #27363E;
+    color: #DDDDDD;
+}
+
+.a_section_head,
+.a_section_head span {
+    font-size: 17px;
+    font-weight: bold;
+    margin-left: 15px;
+    margin-right: 15px;
+    line-height: 1.55;
+}
+
+.a_section_content {
+    font-size: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    line-height: 30px;
+    overflow-x: scroll;
+}
+
+.a_section_content span {
+    font-size: 15px;
+    line-height: 30px;
+    margin-left: 0px;
+}
+
+.a_section_content input {
+    width: 47%;
+    height: 40px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgba(255, 255, 255, 1);
+    font-size: 15px;
+    margin: auto;
+}
+
+.a_section_head input {
+    width: 72px;
+    height: 28px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgba(255, 255, 255, 1);
+    font-size: 15px;
+    margin: auto;
+    text-align: center;
+    position: relative;
+}
+
+.generation,
+.weapon,
+.weapon-rarity,
+.sort {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+schedule {
+    display: block;
+    width: calc((100% - 50px) / 3);
+    text-align: center;
+    padding: 10px 5px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+schedule.active {
+    background-color: rgb(37, 69, 186);
+    color: #fff;
+}
+
+button {
+    width: 47%;
+    height: 40px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgba(255, 255, 255, 1);
+    font-size: 15px;
+}
+
+.skill_lv_up,
+.skill_lv_down {
+    height: 28px;
+    margin-left: 10px;
+    margin-right: 0px;
+    width: 50px;
+}
+
+.stat_ver_choose select,
+.stat_ver_choose_w select,
+.story_this select {
+    width: 72px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+    height: 22px;
+    position: relative;
+    bottom: 3px;
+}
+
+.toggle_stat {
+    width: 108px;
+    height: 33px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgba(255, 255, 255, 1);
+    color: #27363E;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    margin: auto;
+    float: right;
+    text-align: center;
+    cursor: pointer;
+    font-weight: normal;
+}
+
+.battle_desc {
+    border-radius: 10px;
+    background-color: #27363E;
+    color: #DDDDDD;
+    width: 94.7%;
+}
+
+.battle_stat {
+    border-radius: 10px;
+    background-color: #27363E;
+    color: #DDDDDD;
+    width: 94.7%;
+}
+
+.param {
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.windzone_table {
+    background-color: transparent !important;
+    text-align: center
+}
+
+.windzone_table:hover {
+    background-color: #666 !important;
+}
+
+.windzone_table>td {
+    padding: 7px;
+}
+
+.attack_div {
+    width: 100%;
+    overflow-x: scroll;
+    transform: rotateX(180deg);
+    scrollbar-width: thin;
+}
+
+::-webkit-scrollbar {
+    height: 10px;
+    width: 10px;
+}
+
+.a_section_small ::-webkit-scrollbar-thumb {
+    background-color: #ffffff;
+}
+
+.a_section ::-webkit-scrollbar-thumb {
+    background-color: #ffffff;
+}
+
+.attack_div table {
+    transform: rotateX(180deg);
+    font-size: 14px;
+}
+
+.attack_div th,
+tr {
+    white-space: nowrap;
+    line-height: 28px;
+}
+
+.attack_div td {
+    padding: 8px;
+}
+
+.attack_div th {
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.attack_center {
+    text-align: center;
+}
+
+.scroller {
+    overflow-x: hidden !important;
+}
+
+.main-table th,
+.main-table td {
+    padding: 0px 5px
+}
+
+.avatar-table {
+    margin-left: -5px;
+    margin-right: -5px;
+    width: calc(100% + 10px);
+    font-size: 14px;
+}
+
+.relic-table {
+    table-layout: fixed;
+    width: calc(100% + 20px);
+    min-width: 660px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.relic-table th {
+    padding: 9px;
+    text-wrap: wrap;
+    font-size: 14px;
+    line-height: 27px;
+}
+
+.relic-table td {
+    text-wrap: wrap;
+    font-size: 14px;
+    line-height: 27px;
+    padding: 0px 5px;
+}
+
+.relic-head tr :nth-child(2) {
+    width: 108px;
+}
+
+.relic-head tr :nth-child(3) {
+    width: 108px;
+}
+
+.relic-head tr :nth-child(4) {
+    width: 108px;
+}
+
+.relic-head tr :nth-child(5) {
+    width: 108px;
+}
+
+.relic-head tr :nth-child(6) {
+    width: 108px;
+}
+
+.weapon-table {
+    table-layout: fixed;
+    width: calc(100% + 20px);
+    min-width: 1008px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.weapon-table td {
+    padding: 0px 9px;
+    text-wrap: wrap;
+    font-size: 14px;
+    line-height: 27px;
+}
+
+.weapon-table th {
+    padding: 0px 9px;
+    font-size: 14px;
+    line-height: 27px;
+}
+
+.weapon-head tr :nth-child(1) {
+    width: 8%
+}
+
+.weapon-head tr :nth-child(2) {
+    width: 8%
+}
+
+.weapon-head tr :nth-child(3) {
+    width: 16%
+}
+
+.weapon-head tr :nth-child(4) {
+    width: 10%
+}
+
+.weapon-head tr :nth-child(5) {
+    width: 21%
+}
+
+.weapon-head tr :nth-child(6) {
+    width: 12%
+}
+
+.toggle_story_button {
+    margin-top: 12px;
+}
+
+.relic_image {
+    width: 80px;
+}
+
+.weaponpic {
+    height: 80px;
+    display: block;
+    margin: auto;
+}
+
+.mat-img {
+    height: 160px;
+    margin: auto;
+    display: block;
+}
+
+.mat-desc {
+    margin: 6px 16px;
+    line-height: 2;
+    font-size: 15px;
+}
+
+.mat-desc_ {
+    margin: 6px 16px;
+    line-height: 2;
+    font-size: 15px;
+}
+
+.mat-name {
+    margin: 4px 18px;
+    line-height: 2;
+    font-size: 20px;
+    text-align: center;
+}
+
+.mat-name_ {
+    margin: 13px 18px 10px;
+    line-height: 2;
+    font-size: 22px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.avatar_mat_1,
+.avatar_mat_2 .img_2,
+.avatar_mat_2 p {
+    cursor: pointer;
+}
+
+.mat-pop popbody {
+    height: 100%;
+}
+
+.mat-pop popbody::-webkit-scrollbar-thumb {
+    background-color: #888888;
+}
+
+.avatar_costume_img {
+    height: 140px;
+}
+
+.reset_talk {
+    width: 130px;
+}
+
+.reset_talk_ {
+    width: auto;
+    cursor: default;
+}
+
+.reset_talk:hover {
+    background-color: #2545ba;
+    color: #fff
+}
+
+.reset_talk_:hover {
+    background-color: #fff;
+    color: #000
+}
+
+.talk {
+    font-size: 15px;
+    padding: 15px;
+    margin: 8px auto;
+    border-radius: 10px;
+    width: 95%;
+    max-width: 700px;
+    line-height: 1.8;
+}
+
+.talk_0,
+.talk_20,
+.talk_0_ {
+    background-color: #27363E;
+    color: #DDDDDD;
+}
+
+.talk_1,
+.talk_21 {
+    border: 2px solid #27363E;
+}
+
+.talk_2,
+.talk_0 {
+    cursor: pointer;
+}
+
+.content section.sort schedule {
+    font-size: 13px;
+}
+
+@media screen and (min-width: 900px) {
+    .relic-head tr :nth-child(2) {
+        width: 12%;
+    }
+
+    .relic-head tr :nth-child(3) {
+        width: 12%;
+    }
+
+    .relic-head tr :nth-child(4) {
+        width: 12%;
+    }
+
+    .relic-head tr :nth-child(5) {
+        width: 12%;
+    }
+
+    .relic-head tr :nth-child(6) {
+        width: 12%;
+    }
+}
+
+@media screen and (min-width: 500px) and (max-width: 800px) {
+    .content section.sort schedule {
+        font-size: 15px;
+    }
+
+    .talk {
+        font-size: 16px;
+    }
+
+    .content {
+        padding: 20px 10px 10px;
+    }
+
+    .avatar-table {
+        margin-left: -10px;
+        margin-right: -10px;
+        width: calc(100% + 20px);
+        font-size: 15px;
+    }
+
+    .mat-desc {
+        margin: 4px 18px;
+        line-height: 2;
+        font-size: 17px;
+    }
+
+    .mat-desc_ {
+        margin: 6px 16px;
+        line-height: 2;
+        font-size: 16px;
+    }
+
+    .mat-img {
+        height: 200px;
+        margin: auto;
+    }
+
+    .avatar_mat img {
+        width: 60px;
+        margin: auto;
+    }
+
+    .avatar_mat {
+        margin: 9px 6px;
+        padding: 0px 9px;
+        line-height: 27px;
+    }
+
+    .a_select span {
+        width: 31%;
+        font-size: 14px;
+    }
+
+    .relic_image {
+        width: 100px
+    }
+
+    .a_section_content {
+        font-size: 16px;
+    }
+
+    .a_section_content span {
+        font-size: 16px;
+    }
+
+    .a_section_content input {
+        font-size: 16px;
+    }
+
+    .a_section_head input {
+        font-size: 16px;
+    }
+
+    .a_section_head,
+    .a_section_head span {
+        font-size: 19px;
+    }
+
+    .stat_ver_choose select,
+    .stat_ver_choose_w select,
+    .story_this select {
+        width: 75px;
+        font-size: 13px;
+        height: 24px;
+    }
+
+    .avatar_costume_img {
+        height: 150px;
+    }
+
+    .weaponpic {
+        height: 100px;
+    }
+
+    .weapon-head tr :nth-child(1) {
+        width: 10%
+    }
+
+    .weapon-head tr :nth-child(2) {
+        width: 10%
+    }
+}
+
+@media screen and (min-width: 800px) {
+    .content section.sort schedule {
+        font-size: 16px;
+    }
+
+    .talk {
+        font-size: 17px;
+    }
+
+    .content {
+        padding: 20px;
+    }
+
+    .avatar-table {
+        margin-left: -20px;
+        margin-right: -20px;
+        width: calc(100% + 40px);
+        font-size: 16px;
+    }
+
+    .mat-desc {
+        margin: 4px 20px;
+        line-height: 2;
+        font-size: 18px;
+    }
+
+    .mat-desc_ {
+        margin: 6px 16px;
+        line-height: 2;
+        font-size: 17px;
+    }
+
+    .mat-img {
+        height: 240px;
+        margin: auto;
+    }
+
+    .avatar_mat img {
+        width: 65px;
+        margin: auto;
+    }
+
+    .avatar_mat {
+        margin: 9px 6px;
+        padding: 0px 12px;
+        line-height: 30px;
+    }
+
+    .battle_desc {
+        width: 50%;
+    }
+
+    .battle_stat {
+        width: 42%;
+    }
+
+    .a_section_small {
+        width: 46%;
+    }
+
+    .a_section_smallsmall {
+        width: 30%;
+    }
+
+    .a_section_small_1 {
+        width: 36%;
+    }
+
+    .a_section_small_2 {
+        width: 56%;
+    }
+
+    .a_select span {
+        width: 22%;
+        font-size: 15px;
+    }
+
+    schedule {
+        width: calc((100% - 50px) / 5);
+    }
+
+    .relic_image {
+        width: 100px
+    }
+
+    .a_section_content {
+        font-size: 17px;
+    }
+
+    .a_section_content span {
+        font-size: 17px;
+    }
+
+    .a_section_content input {
+        font-size: 17px;
+    }
+
+    .a_section_head input {
+        font-size: 17px;
+    }
+
+    .a_section_head,
+    .a_section_head span {
+        font-size: 20px;
+    }
+
+    .stat_ver_choose select,
+    .stat_ver_choose_w select,
+    .story_this select {
+        width: 77px;
+        font-size: 14px;
+        height: 26px;
+    }
+
+    .avatar_costume_img {
+        height: 160px;
+    }
+
+    .weaponpic {
+        height: 120px;
+    }
+
+    .weapon-head tr :nth-child(1) {
+        width: 12%
+    }
+
+    .weapon-head tr :nth-child(2) {
+        width: 12%
+    }
+}

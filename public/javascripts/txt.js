@@ -21,12 +21,12 @@ var txt = {
     },
     "Home_Lang": {
         "GI": {
-            "CH": "<a href='/en'>Switch to English</a>",
-            "EN": "<a href='/'>切换至中文</a>"
+            "CH": "<a href='/gi?lang=EN'>Switch to English</a>",
+            "EN": "<a href='/gi?lang=CH'>切换至中文</a>"
         },
         "SR": {
-            "CH": "<a href='/en?game=SR'>Switch to English</a>",
-            "EN": "<a href='/?game=SR'>切换至中文</a>"
+            "CH": "<a href='/sr?lang=CH'>Switch to English</a>",
+            "EN": "<a href='/sr?lang=EN'>切换至中文</a>"
         }
     },
     "Lang": {
@@ -408,13 +408,10 @@ var props = {
 var links = [
     {
         "Name": {
-            "CH": "主页",
-            "EN": "Main Page"
+            "CH": "<b>主页</b>",
+            "EN": "<b>Main Page</b>"
         },
-        "Links": {
-            "CH": "/?game=SR",
-            "EN": "/en?game=SR"
-        }
+        "Links": "/sr"
     },
     {
         "Name": {

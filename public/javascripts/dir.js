@@ -26,7 +26,10 @@ var GI = [
                 "EN": "Monster skill sheets by Csxylic."
             }*/
         ],
-        "Href": "http://www.yuhengcup.top/computer"
+        "Href": {
+            "CH": "/gi/monster",
+            "EN": "/gi/monster"
+        }
     },
     {
         "Title": {
@@ -59,7 +62,10 @@ var GI = [
                 "EN": "Artifact skills and stories."
             }
         ],
-        "Href": "http://www.yuhengcup.top/char"
+        "Href": {
+            "CH": "/gi/char",
+            "EN": "/gi/char"
+        }
     },
     {
         "Title": {
@@ -88,7 +94,10 @@ var GI = [
                 "EN": "Surprise lineups."
             }
         ],
-        "Href": "http://www.yuhengcup.top/abyss"
+        "Href": {
+            "CH": "/gi/abyss",
+            "EN": "/gi/abyss"
+        }
     },
     /*{
         "Title": {
@@ -114,7 +123,10 @@ var GI = [
                 "EN": "Achievement series, hidden achievements, new achievements."
             }
         ],
-        "Href": "http://www.yuhengcup.top/ach"
+        "Href": {
+            "CH": "/gi/ach",
+            "EN": "/gi/ach"
+        }
     },
     {
         "Title": {
@@ -127,7 +139,10 @@ var GI = [
                 "EN": "Loading tips and their locations."
             }
         ],
-        "Href": "http://www.yuhengcup.top/load"
+        "Href": {
+            "CH": "/gi/load",
+            "EN": "/gi/load"
+        }
     },
     {
         "Title": {
@@ -140,7 +155,10 @@ var GI = [
                 "EN": "Monster shield, armor and gadgets' strength and HP."
             }
         ],
-        "Href": "http://www.yuhengcup.top/shield"
+        "Href": {
+            "CH": "/gi/shield",
+            "EN": "/gi/shield"
+        }
     },
 ]
 
@@ -164,7 +182,10 @@ var SR = [
                 "EN": "Monster skill sheets by Csxylic."
             }*/
         ],
-        "Href": "/mons"
+        "Href": {
+            "CH": "/sr/monster",
+            "EN": "/sr/monster"
+        }
     },
     {
         "Title": {
@@ -181,7 +202,10 @@ var SR = [
                 "EN": "Memory Turbulence, enemy HP adjustments."
             }
         ],
-        "Href": "/chaos"
+        "Href": {
+            "CH": "/sr/chaos",
+            "EN": "/sr/monster"
+        }
     },
     {
         "Title": {
@@ -198,33 +222,9 @@ var SR = [
                 "EN": "Memory Turbulence, enemy HP adjustments."
             }
         ],
-        "Href": "/fiction"
-    },
-    {
-        "Title": {
-            "CH": "模拟宇宙",
-            "EN": "Simulated Universe"
-        },
-        "Disable": true,
-        "Features": [],
-        "Href": "/su"
-    },
-    {
-        "Title": {
-            "CH": "成就",
-            "EN": "Achievements"
-        },
-        "Disable": true,
-        "Features": [],
-        "Href": "/ach"
-    },
-    {
-        "Title": {
-            "CH": "加载提示",
-            "EN": "Loading Tips"
-        },
-        "Disable": true,
-        "Features": [],
-        "Href": "/load"
-    },
+        "Href": {
+            "CH": "/sr/fiction",
+            "EN": "/sr/fiction"
+        }
+    }
 ]
