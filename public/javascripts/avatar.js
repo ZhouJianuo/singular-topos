@@ -2038,7 +2038,7 @@ $(function () {
             select: '',
             options: degenerate[lang]
         }
-        var skillvers = Object.keys(_WeaponAffixPConfig[i]).concat([0])
+        var skillvers = Object.keys(_WeaponAffixPConfig[i].Ver).concat([0])
         if (!skillvers.length) return {
             select: '',
             options: degenerate[lang]
@@ -2614,6 +2614,7 @@ $(function () {
         poplayer({
             header: wpn.Name[lang] + pop_ver + computer_.MiscText.Avatar_Table_Title_Extra[lang],
             width: '100%',
+            class: 'weapon_pop',
             template: {
                 section: skillTemplate(wpn, skill),
                 style: {
@@ -2643,14 +2644,14 @@ $(function () {
                             {
                                 img: imgpre + 'homdgcat-res/Weapon/' + wpn.Icons[0] + '.png',
                                 style: {
-                                    height: '100px',
+                                    width: '50%',
                                     margin: 'auto'
                                 }
                             },
                             {
                                 img: imgpre + 'homdgcat-res/Weapon/' + wpn.Icons[1] + '.png',
                                 style: {
-                                    height: '100px',
+                                    width: '50%',
                                     margin: 'auto'
                                 }
                             }
@@ -2658,51 +2659,7 @@ $(function () {
                         class: 'a_section_content'
                     },
                 ],
-                class: 'a_section_small_1'
-            },
-            {
-                div: [
-                    {
-                        div: {
-                            p: computer_.MiscText.Avatar_Weapon_Desc[lang]
-                        },
-                        class: 'a_section_head'
-                    },
-                    {
-                        div: [
-                            {
-                                p: wpn.Desc[lang]
-                            },
-                            {
-                                button: computer_.MiscText.Avatar_Weapon_ToggleStory[toggle_story][lang],
-                                a: {
-                                    class: 'toggle_story_button'
-                                },
-                                when: wpn.StoryCount != 0
-                            }
-                        ],
-                        class: 'a_section_content'
-                    },
-                ],
-                class: 'a_section_small_2'
-            },
-            {
-                div: [
-                    {
-                        div: {
-                            p: computer_.MiscText.Avatar_Weapon_Story[lang]
-                        },
-                        class: 'a_section_head'
-                    },
-                    {
-                        div: '',
-                        class: 'a_section_content story_this'
-                    },
-                ],
-                class: 'a_section story',
-                style: {
-                    display: 'none'
-                }
+                class: 'a_section_small_3'
             },
             {
                 div: [
@@ -2739,7 +2696,7 @@ $(function () {
                         class: 'a_section_content'
                     },
                 ],
-                class: 'a_section_small'
+                class: 'a_section_small_3'
             },
             {
                 div: [
@@ -2814,7 +2771,26 @@ $(function () {
                         class: 'a_section_content'
                     },
                 ],
-                class: 'a_section_small'
+                class: 'a_section_small_4'
+            },
+            {
+                div: [
+                    {
+                        div: {
+                            p: computer_.MiscText.Avatar_Weapon_Desc[lang]
+                        },
+                        class: 'a_section_head'
+                    },
+                    {
+                        div: [
+                            {
+                                p: wpn.Desc[lang]
+                            },
+                        ],
+                        class: 'a_section_content'
+                    },
+                ],
+                class: 'a_section'
             },
             {
                 div: [
@@ -2840,19 +2816,40 @@ $(function () {
                 when: wpn.Extra.length
             },
         ]
+        var lower = [
+            {
+                div: [
+                    {
+                        div: {
+                            p: computer_.MiscText.Avatar_Weapon_Story[lang]
+                        },
+                        class: 'a_section_head'
+                    },
+                    {
+                        div: '',
+                        class: 'a_section_content story_this'
+                    },
+                ],
+                class: 'a_section story',
+            },
+        ]
         var ret = []
         if (weapon_stat_ver == 0) {
             var info = skill.Affix
         } else {
-            var info = _WeaponAffixPConfig[wpn.EquipAffixID][weapon_stat_ver].Affix
+            var info = _WeaponAffixPConfig[wpn.EquipAffixID].Ver[weapon_stat_ver].Affix
         }
-        info.forEach(function (t, i) {
+        var info2 = []
+        info.forEach(function (t) {
+            if (t[lang]) info2.push(t[lang])
+        })
+        info2.forEach(function (t, i) {
             ret.push({
                 div: [
                     {
                         div: [
                             {
-                                span: wpn.EquipAffixName[lang] + " " + (i + 1),
+                                span: (info2.length == 1) ? (wpn.EquipAffixName[lang]) : (wpn.EquipAffixName[lang] + " " + (i + 1)),
                                 style: {
                                     'margin-left': '0px',
                                     'margin-right': '5px',
@@ -2867,7 +2864,7 @@ $(function () {
                     },
                     {
                         div: {
-                            p: t[lang]
+                            p: t
                         },
                         class: 'a_section_content'
                     },
@@ -2875,7 +2872,7 @@ $(function () {
                 class: 'a_section'
             },)
         })
-        return upper.concat(ret)
+        return upper.concat(ret, lower)
     }
 
     function calcstats(level, this_avatar) {
@@ -2997,17 +2994,7 @@ $(function () {
         $('select').val(weapon_stat_ver)
         $('.weapon_section').empty().render(skillTemplate(cur_wpn, cur_skill))
         $('select').val(weapon_stat_ver)
-    })
-
-    $('body').on('click', '.toggle_story_button', function () {
-        toggle_story = 1 - toggle_story
-        if (toggle_story) {
-            $('.story').show()
-
-        } else {
-            $('.story').hide()
-        }
-        $('.toggle_story_button').html(computer_.MiscText.Avatar_Weapon_ToggleStory[toggle_story][lang])
+        load_weapon_story()
     })
 
     function load_weapon_story() {

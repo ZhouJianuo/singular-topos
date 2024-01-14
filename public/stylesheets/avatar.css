@@ -150,7 +150,9 @@ popbody {
 .a_section_small,
 .a_section_smallsmall,
 .a_section_small_1,
-.a_section_small_2 {
+.a_section_small_2,
+.a_section_small_3,
+.a_section_small_4 {
     width: 94.7%;
     display: inline-block;
     border-radius: 10px;
@@ -415,6 +417,10 @@ tr {
 
 .relic-head tr :nth-child(6) {
     width: 108px;
+}
+
+.weapon_pop popbody {
+    padding: 5px 10px 30px;
 }
 
 .weapon-table {
@@ -700,6 +706,14 @@ tr {
     .weapon-head tr :nth-child(2) {
         width: 10%
     }
+
+    .a_section_small_3 {
+        width: 46%;
+    }
+
+    .a_section_small_4 {
+        width: 94.7%;
+    }
 }
 
 @media screen and (min-width: 800px) {
@@ -772,6 +786,14 @@ tr {
 
     .a_section_small_2 {
         width: 56%;
+    }
+
+    .a_section_small_3 {
+        width: 30%;
+    }
+
+    .a_section_small_4 {
+        width: 30%;
     }
 
     .a_select span {

@@ -45,8 +45,8 @@ var computer_ = {
             "EN": "<a class='translate_' style='color:#fff;display:block;' href='/gi/load?lang=CH'><b>切换至中文</b></a>",
         },
         "Abyss_Reminder": {
-            "CH": "<color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki | abyss.wiki | bilibili@妮可少女</color>",
-            "EN": "<color style='color:#0066FF;'>homdgcat.wiki | en.abyss.wiki | t.me/homdgcat</color>"
+            "CH": "<color style='color:#0066FF;'>玉衡杯数据库 abyss.wiki</color>",
+            "EN": "<color style='color:#0066FF;'>HomDGCat Database t.me/homdgcat</color>"
         },
         "Abyss_DPS_Show": {
             "CH": "输出量：",
