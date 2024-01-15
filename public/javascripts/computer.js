@@ -797,7 +797,6 @@ $(function () {
                     datapath: 'Csx' 
                 },
                 class: 'csxylic',
-                when: (lang == 'CH')
             }]
         })
         $('.scroller').scrollTop($('.scroller')[0].scrollHeight - $('.com_result').height() - 150)
