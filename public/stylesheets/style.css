@@ -3,6 +3,21 @@
     src: url('../fonts/SecondWorld.ttf');
 }
 
+@font-face {
+    font-family: 'FW';
+    src: url('../fonts/FirstWorld.ttf');
+}
+
+@font-face {
+    font-family: 'TWT';
+    src: url('../fonts/Teyvat.ttf');
+}
+
+@font-face {
+    font-family: 'TWT2';
+    src: url('../fonts/Gsenochian.ttf');
+}
+
 body {
     background: url('../images/bg.jpg') no-repeat right center/cover;
 }

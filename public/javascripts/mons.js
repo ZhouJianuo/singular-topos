@@ -907,10 +907,11 @@ $(function () {
         })
     }
 
-    $('body').on('dblclick', '.subtitle', function () {
-        console.log(1)
-        IS_SW = 1 - IS_SW
-        if (IS_SW) {
+    $('body').on('click', '.subtitle', function () {
+        IS_SW += 1
+        if (IS_SW % 3 == 1) {
+            $('body').css('font-family', "'FW', sans-serif")
+        } else if (IS_SW % 3 == 2) {
             $('body').css('font-family', "'SW', sans-serif")
         } else {
             if (lang == 'EN') { $('body').css('font-family', "'Segoe UI', sans-serif") }

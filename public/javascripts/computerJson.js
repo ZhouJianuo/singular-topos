@@ -6164,3 +6164,20 @@ $('body').on('click', '.links', function () {
         ]
     })
 })
+
+var IS_TWT = 0
+
+$('body').on('click', '.subtitle', function () {
+    IS_TWT += 1
+    if (IS_TWT % 3 == 1) {
+        $('body').css('font-family', "'TWT', sans-serif")
+        $('body').css('text-transform', 'lowercase')
+    } else if (IS_TWT % 3 == 2) {
+        $('body').css('font-family', "'TWT2', sans-serif")
+        $('body').css('text-transform', 'lowercase')
+    } else {
+        if (lang == 'EN') { $('body').css('font-family', "'Segoe UI', sans-serif") }
+        else { $('body').css('font-family', "'Microsoft YaHei', sans-serif") }
+        $('body').css('text-transform', 'none')
+    }
+})

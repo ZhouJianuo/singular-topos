@@ -418,21 +418,21 @@ var links = [
             "CH": "怪物",
             "EN": "Monsters"
         },
-        "Link": "/mons"
+        "Link": "/sr/monster"
     },
     {
         "Name": {
             "CH": "混沌回忆",
             "EN": "Memory of Chaos"
         },
-        "Link" : "/chaos"
+        "Link" : "/sr/chaos"
     },
     {
         "Name": {
             "CH": "虚构叙事",
             "EN": "Pure Fiction"
         },
-        "Link" : "/fiction"
+        "Link" : "/sr/fiction"
     }
 ]
 
