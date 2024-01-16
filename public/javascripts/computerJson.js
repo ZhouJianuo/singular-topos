@@ -6169,15 +6169,18 @@ var IS_TWT = 0
 
 $('body').on('click', '.subtitle', function () {
     IS_TWT += 1
-    if (IS_TWT % 3 == 1) {
+    if (IS_TWT % 6 == 1) {
         $('body').css('font-family', "'TWT', sans-serif")
-        $('body').css('text-transform', 'lowercase')
-    } else if (IS_TWT % 3 == 2) {
+    } else if (IS_TWT % 6 == 2) {
         $('body').css('font-family', "'TWT2', sans-serif")
-        $('body').css('text-transform', 'lowercase')
+    } else if (IS_TWT % 6 == 3) {
+        $('body').css('font-family', "'DQ', sans-serif")
+    } else if (IS_TWT % 6 == 4) {
+        $('body').css('font-family', "'XM', sans-serif")
+    } else if (IS_TWT % 6 == 5) {
+        $('body').css('font-family', "'CW', sans-serif")
     } else {
         if (lang == 'EN') { $('body').css('font-family', "'Segoe UI', sans-serif") }
         else { $('body').css('font-family', "'Microsoft YaHei', sans-serif") }
-        $('body').css('text-transform', 'none')
     }
 })

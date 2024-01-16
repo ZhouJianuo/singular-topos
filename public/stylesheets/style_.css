@@ -18,6 +18,21 @@
     src: url('../fonts/Gsenochian.ttf');
 }
 
+@font-face {
+    font-family: 'DQ';
+    src: url('../fonts/Inazuma.ttf');
+}
+
+@font-face {
+    font-family: 'XM';
+    src: url('../fonts/Sumeru.ttf');
+}
+
+@font-face {
+    font-family: 'CW';
+    src: url('../fonts/Deshret.ttf');
+}
+
 * {
     margin: 0;
     padding: 0;
