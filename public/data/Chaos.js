@@ -383,7 +383,7 @@ var _chaos = [
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
-                "HPSingle": 129792,
+                "HPSingle": 128559,
                 "HPMulti": 88789,
                 "Upper": [
                     {
@@ -460,10 +460,10 @@ var _chaos = [
                             ],
                             [
                                 {
-                                    "ID": 2023010,
-                                    "HP": 147982,
-                                    "SPD": 132,
-                                    "Stance": 12
+                                    "ID": 1023010,
+                                    "HP": 135650,
+                                    "SPD": 110,
+                                    "Stance": 10
                                 },
                                 {
                                     "ID": 3003020,
@@ -952,7 +952,7 @@ var _chaos = [
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
-                "HPSingle": 255503,
+                "HPSingle": 253076,
                 "HPMulti": 174786,
                 "Upper": [
                     {
@@ -1029,10 +1029,10 @@ var _chaos = [
                             ],
                             [
                                 {
-                                    "ID": 2023010,
-                                    "HP": 291310,
-                                    "SPD": 158,
-                                    "Stance": 12
+                                    "ID": 1023010,
+                                    "HP": 267034,
+                                    "SPD": 132,
+                                    "Stance": 10
                                 },
                                 {
                                     "ID": 3003020,
@@ -1374,7 +1374,7 @@ var _chaos = [
                                     "ID": 3024020,
                                     "HP": 1621838,
                                     "SPD": 158,
-                                    "Stance": 14
+                                    "Stance": 18
                                 }
                             ]
                         ]
@@ -2645,7 +2645,7 @@ var _chaos = [
                                     "ID": 3024020,
                                     "HP": 1458030,
                                     "SPD": 158,
-                                    "Stance": 14
+                                    "Stance": 18
                                 },
                                 {
                                     "ID": 2023030,
@@ -27867,7 +27867,7 @@ var _chaoshp = {
             104450,
             103094,
             95140,
-            129792
+            128559
         ],
         "Multi": [
             42373,
@@ -28387,7 +28387,7 @@ var _chaoshp = {
             205617,
             202946,
             187288,
-            255503
+            253076
         ],
         "Multi": [
             54883,

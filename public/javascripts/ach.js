@@ -206,13 +206,16 @@ $(function () {
                                     template: {
                                         tr: [
                                             {
-                                                td: '<b>' + ach.Name[lang] + '</b><br>' + ach.Desc[lang]
-                                            },
-                                            {
-                                                td: ach.Reward.toString(),
+                                                td: [{
+                                                    img: imgpre + 'homdgcat-res/Csxylic/Primo.png',
+                                                    class: 'jade'
+                                                }, ach.Reward.toString()],
                                                 style: {
                                                     'text-align': 'center'
                                                 }
+                                            },
+                                            {
+                                                td: '<b>' + ach.Name[lang] + '</b><br>' + ach.Desc[lang]
                                             },
                                             {
                                                 td: ach.Hidden ? "✔" : "",
@@ -227,7 +230,7 @@ $(function () {
                                                 }
                                             },
                                             {
-                                                td: ach.Ver.toFixed(1),
+                                                td: ach.Ver,
                                                 style: {
                                                     'text-align': 'center'
                                                 }

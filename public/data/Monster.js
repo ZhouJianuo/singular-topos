@@ -25599,7 +25599,7 @@ var _monster = [
             "EN": "Dreamjolt Troupe's Spring Loader"
         },
         "Desc": {
-            "CH": "匹诺康尼之梦中的服务器械，伴随梦境的异变陷入失控。<br>本是剧场中的演出道具，失控后仍在演绎台上的闹剧，将混乱的舞步带往各处。",
+            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>本是剧场中的演出道具，失控后仍在演绎台上的闹剧，将混乱的舞步带往各处。",
             "EN": "Service machinery from Penacony's dream that got out of control due to the abnormal changes in the Dreamscape. Originally a prop in the theater, it is still performing the farce on the stage after losing control, bringing cacophonic dance steps to every direction."
         },
         "Stats": {
@@ -26500,7 +26500,7 @@ var _monster = [
             "EN": "Memory Zone Meme \"Allseer\""
         },
         "Desc": {
-            "CH": "蕴含特定记忆的实体，由忆域中的认知碎片堆积而成。<br>陌生之人的注目、冰冷无情的目光、充斥敌意的眼神…被凝视的惶恐化作模因生命，传播着危险的视线。",
+            "CH": "蕴含特定认知的实体，由忆域中的潜意识碎片堆积而成。<br>注目、回望、审视…在生命的生存行为和对自身生存的领悟中，「视」与「看」的记忆如影随形，最终成为生命本身。",
             "EN": "A physical entity containing a specific memory. A conglomerate made of the compiled cognition fragments in the Memory Zone. Glances from strangers, cold and emotionless gazes, stares full of enmity... The panic of being on the receiving end of a look turned into a memetic entity, spreading its dangerous glare everywhere it goes."
         },
         "Stats": {
@@ -26596,7 +26596,7 @@ var _monster = [
             "EN": "An entity that bears certain cognitions formed from an accruement of subconscious fragments in the Memory Zone.<br>Life is parceled in impenetrable barriers, obstructing the intrusion of the alien. But beneath that ironclad shell, there is a region both nameless and fragile."
         },
         "Stats": {
-            "HP": 0.7,
+            "HP": 1.1,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 100.0,
@@ -27823,7 +27823,7 @@ var _monster = [
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 120.0,
-            "Stance": 14.0
+            "Stance": 18.0
         },
         "Weak": [
             "Ice",
@@ -27882,7 +27882,7 @@ var _monster = [
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 120.0,
-            "Stance": 14.0
+            "Stance": 18.0
         },
         "Weak": [
             "Ice",
@@ -27929,11 +27929,11 @@ var _monster = [
             "EN": "One of the Stellaron Hunters, a mysterious warrior donning formidable armor.<br>The mecha suit possesses the power to unleash fiery attacks, engulfing the battlefield in flames."
         },
         "Stats": {
-            "HP": 72.5,
+            "HP": 77.5,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 120.0,
-            "Stance": 14.0
+            "Stance": 18.0
         },
         "Weak": [
             "Ice",
@@ -32385,6 +32385,9 @@ var _monster = [
             "DEF": 1.0,
             "SPD": 120.0,
             "Stance": 2.0
+        },
+        "StatsExtra": {
+            "SPD": -20.0
         },
         "Weak": [
             "Phys",
@@ -36961,11 +36964,14 @@ var _monster = [
             "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches."
         },
         "Stats": {
-            "HP": 11.5,
-            "ATK": 12.00006,
+            "HP": 13.0,
+            "ATK": 14.99994,
             "DEF": 1.0,
             "SPD": 120.0,
             "Stance": 10.0
+        },
+        "StatsExtra": {
+            "SPD": 10.0
         },
         "Weak": [
             "Phys",
@@ -48632,7 +48638,7 @@ var _status = {
         },
         "Modifier": "MCommon_SuperArmor",
         "Desc": {
-            "CH": "受到的伤害降低，弱点被击破时解除，被击破时行动额外延后。",
+            "CH": "受到的伤害降低，弱点被击破时解除。弱点被击破时行动额外延后，被击破后受到的伤害提高。",
             "EN": "Takes less DMG. This effect is removed when Weakness is broken. This unit's action will be delayed further when it is Weakness Broken."
         },
         "CanNotDispel": true
@@ -48656,7 +48662,7 @@ var _status = {
         },
         "Modifier": "Monster_W3_Sam_00_WeakPointProtected",
         "Desc": {
-            "CH": "进入【次级燃烧】后，萨姆的韧性无法受到伤害。",
+            "CH": "进入【次级燃烧】前，萨姆的韧性无法受到伤害。",
             "EN": "Sam cannot lose Toughness after entering the Secondary Combustion state."
         },
         "CanNotDispel": true
@@ -48669,7 +48675,7 @@ var _status = {
         "Modifier": "Monster_W3_Sam_00_BurningBP",
         "Desc": {
             "CH": "我方消耗燃烧的战技点时消耗生命值，同时额外造成等同于原伤害<color style='color:#f29e38;'>[MDF_DamageUpRatio]</color>的固定数值火属性伤害，并且接受其他角色的治疗时，生命值回复量大幅降低。",
-            "EN": "When consuming Combusted Skill Points, allies lose HP and additionally deal a set amount of Fire DMG equal to <color style='color:#f29e38;'>[MDF_DamageUpRatio]</color> of the original DMG. When they receive healing from other characters, the amount of HP restored is massively reduced."
+            "EN": "When consuming Combusted Skill Points, the attacking ally loses HP and additionally deals a set amount of Fire DMG equal to <color style='color:#f29e38;'>[MDF_DamageUpRatio]</color> of the original DMG. When they receive healing from other characters, the amount of HP restored is massively reduced."
         },
         "CanNotDispel": true
     },

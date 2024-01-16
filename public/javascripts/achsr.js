@@ -35,6 +35,9 @@ $(function () {
     var cur_group = 0
     var cur_ver = ''
 
+    var rand_index_1 = Math.floor(Math.random() * _achievementseries.length)
+    var rand_index_2 = Math.floor(Math.random() * _achievementseries.length)
+
     $('container').render({
         div: [{
             h2: txt.AchNum[lang].replace("#", _achievementdata[2].toFixed(1)) + "<color style='color:#ff0000;'>" + _achievementdata[3] + "</color>"
@@ -45,7 +48,7 @@ $(function () {
                 {
                     div: [
                         {
-                            img: imgpre + 'images/MonsterIcon/keq.png',
+                            img: imgpre + 'images/Achievement/' + _achievementseries[rand_index_1].Icon,
                             style: {
                                 height: '160px'
                             }
@@ -67,7 +70,7 @@ $(function () {
                 {
                     div: [
                         {
-                            img: imgpre + 'images/MonsterIcon/keq.png',
+                            img: imgpre + 'images/Achievement/' + _achievementseries[rand_index_2].Icon,
                             style: {
                                 height: '160px'
                             }
@@ -89,7 +92,7 @@ $(function () {
                 {
                     div: [
                         {
-                            img: imgpre + 'images/MonsterIcon/keq.png',
+                            img: imgpre + `images/Achievement/[[Icon]]`,
                             style: {
                                 height: '160px'
                             }
@@ -154,7 +157,7 @@ $(function () {
                                             tr: [
                                                 {
                                                     td: [{
-                                                        img: imgpre + 'images/MonsterIcon/keq.png',
+                                                        img: imgpre + 'images/Achievement/900001.png',
                                                         class: 'jade'
                                                     }, ach.Reward.toString()],
                                                     style: {

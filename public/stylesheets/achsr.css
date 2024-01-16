@@ -122,10 +122,12 @@ h2 {
 }
 
 .jade {
-    max-height: 15px;
-    margin-right: 5px;
+    max-height: 19px;
+    margin-right: 3px;
     width: auto!important;
     height: auto;
+    position: relative;
+    bottom: -4px;
 }
 
 .ach_ver_select {
@@ -171,6 +173,7 @@ h2 {
     }
 
     .jade {
-        max-height: 16px;
+        max-height: 20px;
+        bottom: -4px;
     }
 }

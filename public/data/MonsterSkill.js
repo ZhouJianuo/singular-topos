@@ -14961,8 +14961,8 @@ var _monsterskill = {
             "EN": "SGE: Molten Core"
         },
         "Desc": {
-            "CH": "进入【次级燃烧】后使场地燃烧，同时燃烧我方的战技点；我方消耗燃烧的战技点时会消耗<color style='color:#f29e38;'>1.5%生命值上限</color>，同时额外造成等同于原伤害数值的<color style='color:#f29e38;'>30%</color>的火属性伤害，并且接受其他角色的治疗时，生命值回复量降低<color style='color:#f29e38;'>90%</color>。",
-            "EN": "After entering Secondary Combustion, Combusts the area and targets' Skill Points. When consuming Combusted Skill Points, targets lose <color style='color:#f29e38;'>1.5% Max HP</color> and additionally deal Fire DMG equal to <color style='color:#f29e38;'>30%</color> of the original DMG. When they receive healing from other characters, the amount of HP restored is reduced by <color style='color:#f29e38;'>90%</color>."
+            "CH": "进入【次级燃烧】后使场地燃烧，同时燃烧我方的战技点；我方消耗燃烧的战技点时会消耗<color style='color:#f29e38;'>1%生命值上限</color>，同时额外造成等同于原伤害数值的<color style='color:#f29e38;'>30%</color>的火属性伤害，并且接受其他角色的治疗时，生命值回复量降低<color style='color:#f29e38;'>90%</color>。",
+            "EN": "After entering Secondary Combustion, Combusts the area and targets' Skill Points. When consuming Combusted Skill Points, targets lose <color style='color:#f29e38;'>1% Max HP</color> and additionally deal Fire DMG equal to <color style='color:#f29e38;'>30%</color> of the original DMG. When they receive healing from other characters, the amount of HP restored is reduced by <color style='color:#f29e38;'>90%</color>."
         },
         "SP": 0
     },
@@ -17507,18 +17507,6 @@ var _monsterskill = {
         },
         "SP": 0
     },
-    "300302105": {
-        "Key": "SkillP01",
-        "Name": {
-            "CH": "dev_被动",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "dev_受到攻击或持续伤害时，获得可乐标记，可叠加。可乐标记层数越高，造成的伤害越高，造成伤害后可乐标记清零。",
-            "EN": ""
-        },
-        "SP": 0
-    },
     "302402101": {
         "Key": "Skill01",
         "Name": {
@@ -17606,8 +17594,8 @@ var _monsterskill = {
             "EN": "SGE: Molten Core"
         },
         "Desc": {
-            "CH": "进入【次级燃烧】后使场地燃烧，同时燃烧我方的战技点；我方消耗燃烧的战技点时会消耗<color style='color:#f29e38;'>1.5%生命值上限</color>，同时额外造成等同于原伤害数值的<color style='color:#f29e38;'>30%</color>的火属性伤害，并且接受其他角色的治疗时，生命值回复量降低<color style='color:#f29e38;'>60%</color>。",
-            "EN": "After entering Secondary Combustion, Combusts the area and targets' Skill Points. When consuming Combusted Skill Points, targets lose <color style='color:#f29e38;'>1.5% Max HP</color> and additionally deal Fire DMG equal to <color style='color:#f29e38;'>30%</color> of the original DMG. When they receive healing from other characters, the amount of HP restored is reduced by <color style='color:#f29e38;'>60%</color>."
+            "CH": "进入【次级燃烧】后使场地燃烧，同时燃烧我方的战技点；我方消耗燃烧的战技点时会消耗<color style='color:#f29e38;'>1%生命值上限</color>，同时额外造成等同于原伤害数值的<color style='color:#f29e38;'>30%</color>的火属性伤害，并且接受其他角色的治疗时，生命值回复量降低<color style='color:#f29e38;'>60%</color>。",
+            "EN": "After entering Secondary Combustion, Combusts the area and targets' Skill Points. When consuming Combusted Skill Points, targets lose <color style='color:#f29e38;'>1% Max HP</color> and additionally deal Fire DMG equal to <color style='color:#f29e38;'>30%</color> of the original DMG. When they receive healing from other characters, the amount of HP restored is reduced by <color style='color:#f29e38;'>60%</color>."
         },
         "SP": 0
     },

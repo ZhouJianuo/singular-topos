@@ -900,12 +900,12 @@ var computer_ = {
         },
         "Ach_Inner_Header": [
             {
-                "CH": "成就",
-                "EN": "Achievement"
-            },
-            {
                 "CH": "奖励",
                 "EN": "Primo"
+            },
+            {
+                "CH": "成就",
+                "EN": "Achievement"
             },
             {
                 "CH": "隐藏",

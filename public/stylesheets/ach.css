@@ -171,11 +171,11 @@ h2 {
 }
 
 .weapon-head tr :nth-child(1) {
-    width: 60%
+    width: 10%
 }
 
 .weapon-head tr :nth-child(2) {
-    width: 10%
+    width: 60%
 }
 
 .weapon-head tr :nth-child(3) {
@@ -193,6 +193,15 @@ h2 {
 .weapon-table td {
     padding: 10px;
     font-size: 14px
+}
+
+.jade {
+    max-height: 24px;
+    margin-right: 1px;
+    width: auto!important;
+    height: auto;
+    position: relative;
+    bottom: -6px;
 }
 
 @media screen and (min-width: 800px) {

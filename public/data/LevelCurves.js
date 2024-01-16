@@ -4220,6 +4220,22 @@ var _elitegroup = {
         "SpeedRatio": 1.0,
         "StanceRatio": 1.0
     },
+    "108": {
+        "EliteGroup": 108,
+        "AttackRatio": 0.9,
+        "DefenceRatio": 1.0,
+        "HPRatio": 1.8,
+        "SpeedRatio": 1.0,
+        "StanceRatio": 1.0
+    },
+    "109": {
+        "EliteGroup": 109,
+        "AttackRatio": 1.0,
+        "DefenceRatio": 1.0,
+        "HPRatio": 1.3,
+        "SpeedRatio": 1.0,
+        "StanceRatio": 1.0
+    },
     "120": {
         "EliteGroup": 120,
         "AttackRatio": 1.0,

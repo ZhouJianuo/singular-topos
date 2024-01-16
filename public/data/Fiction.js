@@ -1089,6 +1089,14 @@ var _fiction = [
                                 },
                                 "Monsters": [
                                     {
+                                        "ID": 202402004,
+                                        "Num": 1,
+                                        "Score": 8000,
+                                        "HP": 525255,
+                                        "SPD": 120,
+                                        "Stance": 0
+                                    },
+                                    {
                                         "ID": 2012010,
                                         "Num": 12,
                                         "Score": 500,
@@ -1103,14 +1111,6 @@ var _fiction = [
                                         "HP": 70034,
                                         "SPD": 120,
                                         "Stance": 3
-                                    },
-                                    {
-                                        "ID": 202402004,
-                                        "Num": 1,
-                                        "Score": 8000,
-                                        "HP": 525255,
-                                        "SPD": 120,
-                                        "Stance": 0
                                     }
                                 ]
                             }
@@ -1133,7 +1133,7 @@ var _fiction = [
             },
             "Desc": {
                 "CH": "敌方目标受到的持续伤害提高<color style='color:#f29e38;'>50.0%</color>。受到持续伤害的敌方目标造成的伤害降低<color style='color:#f29e38;'>35.0%</color>，被攻击后行动提前<color style='color:#f29e38;'>35.0%</color>。",
-                "EN": "Increases DoT taken by enemy targets by <color style='color:#f29e38;'>50.0%</color>. Enemy targets that receives DoT have their DMG dealt reduced by <color style='color:#f29e38;'>35.0%</color>. After they are attacked, their action is Advanced Forward by <color style='color:#f29e38;'>35.0%</color>."
+                "EN": "Increases DoT taken by enemy targets by <color style='color:#f29e38;'>50.0%</color>. Enemy targets that receive DoT have their DMG dealt reduced by <color style='color:#f29e38;'>35.0%</color>. After they are attacked, their action is Advanced Forward by <color style='color:#f29e38;'>35.0%</color>."
             }
         },
         "Buffs": [

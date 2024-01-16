@@ -1065,7 +1065,7 @@ var _loadingdesc = [
         },
         "Desc": {
             "CH": "「白日梦」酒店的门童，对星穹列车所行的「开拓」之道十分向往。",
-            "EN": "A doorman at The Reverie Hotel who takes a keen interest in the Path of Trailblaze upon which the Astral Express strides."
+            "EN": "A doorman at The Reverie who takes a keen interest in the Path of Trailblaze upon which the Astral Express strides."
         }
     },
     {
@@ -1089,7 +1089,7 @@ var _loadingdesc = [
         },
         "Desc": {
             "CH": "博爱克己的橡木家系家主，美梦乐园天生的领导者。<br>备受外界瞩目，知更鸟的兄长。",
-            "EN": "The benevolent and revered leader of the Oak Family and Sweetdream Paradise.<br>This powerhouse garners great respect from the outside world and shares a familial bond with Robin."
+            "EN": "The benevolent and revered leader of the Oak Family and Sweetdream Paradise.<br>This powerhouse garners great respect from the outside world and is Robin's elder brother."
         }
     },
     {

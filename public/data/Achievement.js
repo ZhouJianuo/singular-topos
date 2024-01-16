@@ -8722,8 +8722,8 @@ var _achievement = [
             "EN": "This Side of Paradise"
         },
         "Desc": {
-            "CH": "在匹诺康尼激活13.0次界域定锚",
-            "EN": "Activate Space Anchors 13.0 times in Penacony."
+            "CH": "在匹诺康尼激活15.0次界域定锚",
+            "EN": "Activate Space Anchors 15.0 times in Penacony."
         },
         "Reward": 5
     },
@@ -8761,11 +8761,11 @@ var _achievement = [
         "Series": 4,
         "Name": {
             "CH": "啾？",
-            "EN": "Tweet?"
+            "EN": "Chirp?"
         },
         "Desc": {
             "CH": "帮助1.0只折纸小鸟回到「大树」",
-            "EN": "Help 1.0 Origami Birds return to the Great Tree."
+            "EN": "Help 1.0 Origami Bird(s) return to the Great Tree."
         },
         "Reward": 5
     },
@@ -8779,7 +8779,7 @@ var _achievement = [
         },
         "Desc": {
             "CH": "帮助60.0只折纸小鸟回到「大树」",
-            "EN": "Help 60.0 Origami Birds return to the Great Tree."
+            "EN": "Help 60.0 Origami Bird(s) return to the Great Tree."
         },
         "Reward": 5
     },
@@ -8821,7 +8821,7 @@ var _achievement = [
         },
         "Desc": {
             "CH": "通过梦客漫步能力在同一条梦泡桥梁上来回通过多次",
-            "EN": "Traverse the same dream bubble bridge multiple times using the Dreamwalker ability."
+            "EN": "Traverse the same dream bubble bridge multiple times using the Dreamwalker ability"
         },
         "Reward": 5
     },
@@ -8835,7 +8835,7 @@ var _achievement = [
         },
         "Desc": {
             "CH": "首次使用气泡弹珠",
-            "EN": "Use the Bubble Pinball for the first time."
+            "EN": "Use the Bubble Pinball for the first time"
         },
         "Reward": 5
     },
@@ -8877,7 +8877,7 @@ var _achievement = [
         },
         "Desc": {
             "CH": "在2.0分钟内与筑梦遥眼装置交互5.0次以上",
-            "EN": "Interact with the Dream's Eye 5.0 or more times within 2.0 minutes."
+            "EN": "Interact with the Dream's Eye 5.0 or more times within 2.0 minutes"
         },
         "Reward": 5
     },
@@ -8891,7 +8891,7 @@ var _achievement = [
         },
         "Desc": {
             "CH": "在1.0分钟内与控制筑梦模块的鸟型装置交互5.0次以上",
-            "EN": "Interact with the bird-shaped device controlling dream modules 5.0 or more times within 1.0 minutes."
+            "EN": "Interact with the bird-shaped device controlling dream modules 5.0 or more times within 1.0 minutes"
         },
         "Reward": 5
     },
@@ -8905,7 +8905,7 @@ var _achievement = [
         },
         "Desc": {
             "CH": "通过调整视角拼凑出筑梦边境的「彭罗斯三角」",
-            "EN": "Adjust your perspective and form the Penrose Triangle at the Dream's Edge."
+            "EN": "Adjust your perspective and form the Penrose Triangle at the Dream's Edge"
         },
         "Reward": 5
     },
@@ -8961,7 +8961,7 @@ var _achievement = [
         },
         "Desc": {
             "CH": "打破「白日梦」酒店-梦境中的特殊石头先生气球",
-            "EN": "Break the special Mr. Stone balloon in The Reverie — Dream."
+            "EN": "Break the special Mr. Stone balloon in The Reverie — Dreamscape."
         },
         "Reward": 5
     },
@@ -9059,7 +9059,7 @@ var _achievement = [
         },
         "Desc": {
             "CH": "黑天鹅施放秘技「取此真相，弃舍表征」进入战斗时，累计使敌方目标陷入大于等于20.0层「奥迹」",
-            "EN": "Inflict at least 20.0 stacks of Sacrament on enemies when Black Swan uses her Technique \"From Façade to Vérité\" and enters a battle."
+            "EN": "Inflict at least 20.0 stacks of Sacrament on enemies when Black Swan uses her Technique \"From Façade to Vérité\" and enters a battle"
         },
         "Reward": 5
     },
@@ -9101,7 +9101,7 @@ var _achievement = [
         },
         "Desc": {
             "CH": "单次战斗中，使用护盾反弹同一惊梦剧团的甜猿泰山扔出的10.0个汽水瓶",
-            "EN": "Rebound 10.0 Soda Bottle(s) from Dreamjolt Troupe's Sweet Gorilla using Shield in a single battle"
+            "EN": "Rebound 10.0 Soda Bottle(s) from Dreamjolt Troupe's Sweet Gorilla with a Shield in a single battle"
         },
         "Reward": 5
     },
@@ -9128,8 +9128,8 @@ var _achievement = [
             "EN": "Quiet Burning"
         },
         "Desc": {
-            "CH": "在与「星核猎手」萨姆的战斗中，在敌方萨姆首次进入「次级燃烧」前击破其弱点",
-            "EN": "During the battle against Sam, dispel Sam's Incomplete Combustion state without allowing him to take any actions while in that state."
+            "CH": "在与「星核猎手」萨姆的战斗中，敌方萨姆进入「次级燃烧」后没有使用「DHGDR-超新星过载」就解除该状态",
+            "EN": "During the battle against Stellaron Hunter: Sam, inflict Weakness Break on the enemy Sam before Sam enters the Secondary Combustion state for the first time"
         },
         "Reward": 5
     },
@@ -9199,7 +9199,7 @@ var _achievement = [
         },
         "Desc": {
             "CH": "在「小小哈努行动」中死里逃生",
-            "EN": "Survive in Hanu's Adventure."
+            "EN": "Survive in Hanu's Adventure"
         },
         "Reward": 5
     },
@@ -9297,7 +9297,7 @@ var _achievement = [
         },
         "Desc": {
             "CH": "驱散5.0座猎犬雕像",
-            "EN": "Dispel 5.0 Hound Statues."
+            "EN": "Dispel 5.0 Hound Statues"
         },
         "Reward": 5
     },
@@ -9409,7 +9409,7 @@ var _achievement = [
         },
         "Desc": {
             "CH": "收集15.0件来自匹诺康尼的阅读物",
-            "EN": "Collect 15.0 readable items in Penacony."
+            "EN": "Collect 15.0 readable items in Penacony"
         },
         "Reward": 5
     },
@@ -9507,7 +9507,7 @@ var _achievement = [
         },
         "Desc": {
             "CH": "在「白日梦酒店」的专属车位停放车辆",
-            "EN": "Park your car in the exclusive parking space at The Reverie."
+            "EN": "Park your car in the exclusive parking space at The Reverie"
         },
         "Reward": 5
     },
@@ -9605,7 +9605,7 @@ var _achievement = [
         },
         "Desc": {
             "CH": "找出喷钞取款机卡顿的原因",
-            "EN": "Figure out why the cash-spewer is stuck."
+            "EN": "Figure out why the cash-spewer is stuck"
         },
         "Reward": 5
     },
@@ -9619,7 +9619,7 @@ var _achievement = [
         },
         "Desc": {
             "CH": "见证传奇赌神的结局",
-            "EN": "Witness the ending of the legendary Ace of Gambits' story."
+            "EN": "Witness the ending of the legendary Ace of Gambits' story"
         },
         "Reward": 5
     },
@@ -9633,7 +9633,7 @@ var _achievement = [
         },
         "Desc": {
             "CH": "知晓浔桑的真实来历",
-            "EN": "Discover the true origins of Xunsang."
+            "EN": "Discover the true origins of Xunsang"
         },
         "Reward": 5
     },
@@ -9703,7 +9703,7 @@ var _achievement = [
         },
         "Desc": {
             "CH": "通过窥梦电话探视7.0个人的梦境",
-            "EN": "Peek into 7.0 people's dreams through the Dreampeek Call."
+            "EN": "Peek into 7.0 people's dreams through the Dreampeek Call"
         },
         "Reward": 5
     },
@@ -9717,7 +9717,7 @@ var _achievement = [
         },
         "Desc": {
             "CH": "违反交通规则，被匹诺康尼的交通工具撞飞",
-            "EN": "Violate traffic rules and get hit by a vehicle in Penacony."
+            "EN": "Violate traffic rules and get hit by a vehicle in Penacony"
         },
         "Reward": 5
     },
@@ -9731,7 +9731,7 @@ var _achievement = [
         },
         "Desc": {
             "CH": "想办法让匹诺康尼的广告牌被交通工具撞飞",
-            "EN": "Make a Penacony billboard get hit by a vehicle."
+            "EN": "Make a Penacony billboard get hit by a vehicle"
         },
         "Reward": 5
     },
@@ -9745,7 +9745,7 @@ var _achievement = [
         },
         "Desc": {
             "CH": "认识所有种类的贱贱广告牌",
-            "EN": "Meet all the types of animated billboards."
+            "EN": "Meet all the types of animated billboards"
         },
         "Reward": 5
     },
@@ -9759,7 +9759,7 @@ var _achievement = [
         },
         "Desc": {
             "CH": "当欢乐的演奏家变得更欢乐会发生什么？<br><color style='color:#8790ab;'>※麦克斯的音乐变得更加欢乐</color>",
-            "EN": "What happens when a joyful player becomes even more joyful?<br><color style='color:#8790ab;'>※ Enhance Max's music with even more joy.</color>"
+            "EN": "What happens when a joyful player becomes even more joyful?<br><color style='color:#8790ab;'>※ Enhance Max's music with even more joy</color>"
         },
         "Reward": 5
     },
@@ -9773,7 +9773,7 @@ var _achievement = [
         },
         "Desc": {
             "CH": "吃掉维塔利的「脆筒舞者」",
-            "EN": "Consume the Cone Dancer in Vitali."
+            "EN": "Consume the Cone Dancer in Vitali"
         },
         "Reward": 5
     },
@@ -9815,7 +9815,7 @@ var _achievement = [
         },
         "Desc": {
             "CH": "试图爬上筑梦边境的梯子<br><color style='color:#8790ab;'>※但是爬不上去</color>",
-            "EN": "Attempt to climb the ladder at the Dream's Edge.<br><color style='color:#8790ab;'>※ Actually, you can't climb it.</color>"
+            "EN": "Attempt to climb the ladder at the Dream's Edge<br><color style='color:#8790ab;'>※ Actually, you can't climb it</color>"
         },
         "Reward": 5
     },
@@ -9829,7 +9829,7 @@ var _achievement = [
         },
         "Desc": {
             "CH": "在稚子之梦中观赏奇异的瀑布",
-            "EN": "Enjoy the peculiar waterfall in A Child's Dream."
+            "EN": "Enjoy the peculiar waterfall in A Child's Dream"
         },
         "Reward": 5
     },
@@ -9843,7 +9843,7 @@ var _achievement = [
         },
         "Desc": {
             "CH": "累积获得超过77.0个艾迪恩代币",
-            "EN": "Accumulate more than 77.0 Aideen Tokens."
+            "EN": "Accumulate more than 77.0 Aideen Tokens"
         },
         "Reward": 5
     },
@@ -9857,7 +9857,7 @@ var _achievement = [
         },
         "Desc": {
             "CH": "发现藏在「美梦排排乐」游戏中的终极奖励",
-            "EN": "Discover the ultimate prize hidden in Dreamy Slots."
+            "EN": "Discover the ultimate prize hidden in Dreamy Slots"
         },
         "Reward": 5
     },
@@ -9871,7 +9871,7 @@ var _achievement = [
         },
         "Desc": {
             "CH": "使用比切诺更矮的我方角色与她对话",
-            "EN": "Talk to Cielo using a character shorter than her."
+            "EN": "Talk to Cielo using a character shorter than her"
         },
         "Reward": 5
     },
@@ -9885,7 +9885,7 @@ var _achievement = [
         },
         "Desc": {
             "CH": "在梦境中邂逅熟悉的风景<br><color style='color:#8790ab;'>※没错，是垃圾桶！</color>",
-            "EN": "Encounter the familiar \"landscapes\" in the Dreamscape.<br><color style='color:#8790ab;'>※ Yep, it's the trashcan!</color>"
+            "EN": "Encounter the familiar \"landscapes\" in the Dreamscape<br><color style='color:#8790ab;'>※ Yep, it's the trashcan!</color>"
         },
         "Reward": 5
     },
@@ -9899,7 +9899,7 @@ var _achievement = [
         },
         "Desc": {
             "CH": "挑战「白日梦」酒店、黄金的时刻、稚子的梦、筑梦边境中全部的王下一桶",
-            "EN": "Challenge all the Lordly Trashcans in The Reverie, Golden Hour, A Child's Dream, and Dream Border"
+            "EN": "Challenge all the Lordly Trashcans in The Reverie, Golden Hour, A Child's Dream, and Dream's Edge"
         },
         "Reward": 5
     },
@@ -9913,7 +9913,7 @@ var _achievement = [
         },
         "Desc": {
             "CH": "调查酒店中所有紧锁的房间",
-            "EN": "Investigate all the locked rooms in the hotel."
+            "EN": "Investigate all the locked rooms in the hotel"
         },
         "Reward": 5
     },
@@ -9927,7 +9927,7 @@ var _achievement = [
         },
         "Desc": {
             "CH": "精准而迅速地冒犯遇见的每位皮皮西<br><color style='color:#8790ab;'>※尝试触摸「黄金的时刻」中所有皮皮西的绒球</color>",
-            "EN": "Offend every Pepeshi you encounter in an outrageous way.<br><color style='color:#8790ab;'>※ Try to touch the fluff ball of every Pepeshi in the Golden Hour.</color>"
+            "EN": "Offend every Pepeshi you encounter in an outrageous way<br><color style='color:#8790ab;'>※ Try to touch the fluff ball of every Pepeshi in the Golden Hour</color>"
         },
         "Reward": 5
     },
@@ -10053,7 +10053,7 @@ var _achievement = [
         },
         "Desc": {
             "CH": "人人都发钱，等于没发钱<br><color style='color:#8790ab;'>※反复触发街头的喷钞机</color>",
-            "EN": "When everyone receives money, it is equivalent to nobody actually receiving money.<br><color style='color:#8790ab;'>※ Repeatedly trigger the cash-spewer on the streets.</color>"
+            "EN": "When everyone receives money, it is equivalent to nobody actually receiving money<br><color style='color:#8790ab;'>※ Repeatedly trigger the cash-spewer on the streets</color>"
         },
         "Reward": 5
     }
