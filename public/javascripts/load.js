@@ -98,13 +98,10 @@ $(function () {
                         _LoadTip[0].Data.forEach(function (ld) {
                             if (c(ld.Stage, _LoadTipGroup[0].Data[g].Stages) && (v == "" || v == ld.Ver)) {
                                 $(d.container).render({
-                                    data: ld,
                                     template: {
                                         tr: [
                                             {
-                                                td: function (d) {
-                                                    return '<b>' + d.data.Name[lang] + '</b><br>' + d.data.Desc[lang]
-                                                },
+                                                td: '<b>' + ld.Name[lang] + '</b><br>' + ld.Desc[lang],
                                                 style: {
                                                     'text-align': 'center'
                                                 }

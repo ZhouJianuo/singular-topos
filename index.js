@@ -17,6 +17,15 @@ app.get('/', (req, res) => {
     res.render('home', result);
 });
 
+app.get('/en', (req, res) => {
+    let result = {};
+    let { lang = '' } = req.query;
+    result.game = 'GI';
+    result.lang = lang;
+    result.title = 'HomDGCat Database'
+    res.render('home', result);
+});
+
 app.get('/gi', (req, res) => {
     let result = {};
     let { lang = '' } = req.query;
@@ -109,6 +118,35 @@ app.get('/sr/fiction', async (req, res) => {
     res.render('fiction', result);
 });
 
+app.get('/sr/ach/:id', async (req, res) => {
+    let result = {};
+    let { lang = '' } = req.query;
+    result.lang = lang;
+    result.id = req.params.id;
+    result.imgpre = '../../'
+    result.title = 'HomDGCat Database';
+    res.render('achsr', result);
+});
+
+app.get('/sr/ach', async (req, res) => {
+    let result = {};
+    let { lang = '', id = '' } = req.query;
+    result.lang = lang;
+    result.id = id;
+    result.imgpre = '../'
+    result.title = 'HomDGCat Database';
+    res.render('achsr', result);
+});
+
+app.get('/sr/load', async (req, res) => {
+    let result = {};
+    let { lang = '' } = req.query;
+    result.lang = lang;
+    result.imgpre = '../'
+    result.title = 'HomDGCat Database';
+    res.render('loadsr', result);
+});
+
 app.get('/gi/monster', async (req, res) => {
     let result = {};
     let { id = '', level = '', lang = '' } = req.query;
@@ -139,6 +177,42 @@ app.get('/gi/char/:id', async (req, res) => {
 });
 
 app.get('/gi/char', async (req, res) => {
+    let result = {};
+    let { lang = '', id = '' } = req.query;
+    result.lang = lang;
+    result.avid = id;
+    result.imgpre = '../';
+    res.render('avatar', result);
+});
+
+app.get('/gi/weapon/:id', async (req, res) => {
+    let result = {};
+    let { lang = ''} = req.query;
+    result.lang = lang;
+    result.avid = req.params.id;
+    result.imgpre = '../../';
+    res.render('avatar', result);
+});
+
+app.get('/gi/weapon', async (req, res) => {
+    let result = {};
+    let { lang = '', id = '' } = req.query;
+    result.lang = lang;
+    result.avid = id;
+    result.imgpre = '../';
+    res.render('avatar', result);
+});
+
+app.get('/gi/artifact/:id', async (req, res) => {
+    let result = {};
+    let { lang = ''} = req.query;
+    result.lang = lang;
+    result.avid = req.params.id;
+    result.imgpre = '../../';
+    res.render('avatar', result);
+});
+
+app.get('/gi/artifact', async (req, res) => {
     let result = {};
     let { lang = '', id = '' } = req.query;
     result.lang = lang;

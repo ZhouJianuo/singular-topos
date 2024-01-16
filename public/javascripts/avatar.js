@@ -49,7 +49,7 @@ $(function () {
                 "故事1": 0,
             },
             "EN": {
-                "Story 1": 1,
+                "Story 1": 0,
             }
         },
         {
@@ -206,8 +206,6 @@ $(function () {
 
         $('.stat_ver_choose_w').empty().render(SVW(cur_weapon_affix_id))
         $('select').val(weapon_stat_ver)
-
-        load_weapon_story()
 
     }
 
@@ -548,6 +546,15 @@ $(function () {
                                     a: {
                                         'data-id': function (d) {
                                             return d.data._id
+                                        },
+                                        'data-name': function (d) {
+                                            return d.data._name
+                                        },
+                                        'data-namech': function (d) {
+                                            return d.data.Name.CH
+                                        },
+                                        'data-nameen': function (d) {
+                                            return d.data.Name.EN
                                         }
                                     }
                                 }
@@ -569,7 +576,14 @@ $(function () {
         })
         if ($('#AVID').val()) {
             var come_id = $('#AVID').val()
-            $("tr[data-id='" + come_id + "']").click()
+            try {
+                $("tr[data-id='" + come_id + "']").click()
+                $("tr[data-name='" + come_id + "']").click()
+                $("tr[data-namech='" + come_id + "']").click()
+                $("tr[data-nameen='" + come_id + "']").click()
+            } catch (err) {}
+            renderWeaponInfoFind($('#AVID').val())
+            doRelicFind($('#AVID').val())
         }
     }
 
@@ -2153,47 +2167,7 @@ $(function () {
                                         cursor: 'pointer',
                                     },
                                     click: function (p) {
-                                        cur_relic = p.org_data
-                                        poplayer({
-                                            header: cur_relic.Name[lang] + pop_ver + computer_.MiscText.Avatar_Table_Title_Extra[lang],
-                                            width: '100%',
-                                            data: cur_relic,
-                                            template: [
-                                                {
-                                                    section: function (g) {
-                                                        computer_.MiscText.Avatar_Relic_Pop_Header.forEach(function (txt, ind) {
-                                                            $(g.container).render({
-                                                                data: txt,
-                                                                template: {
-                                                                    span: `[[${lang}]]`,
-                                                                    a: { 'data-id': ind },
-                                                                    click: function (d) {
-                                                                        if ($(d.sender).hasClass('active')) {
-                                                                            return
-                                                                        }
-                                                                        var text = $(d.sender).attr('data-id');
-                                                                        $(d.sender).addClass('active').siblings('span').removeClass('active');
-                                                                        renderRelicPage(parseInt(text))
-                                                                    }
-                                                                }
-                                                            })
-                                                        })
-                                                        $(g.container).find('span').eq(0).addClass('active');
-                                                    },
-                                                    class: 'r_select'
-                                                },
-                                                {
-                                                    section: '',
-                                                    class: 'r_data',
-                                                    style: {
-                                                        'justify-content': 'space-evenly',
-                                                        'display': 'flex',
-                                                        'flex-wrap': 'wrap'
-                                                    }
-                                                }
-                                            ]
-                                        });
-                                        renderRelicPage(0)
+                                        doRelic(p.org_data)
                                     }
                                 }
                             })
@@ -2203,6 +2177,59 @@ $(function () {
                 class: 'relic-table',
             }]
         });
+    }
+
+    function doRelicFind(strid) {
+        _RelicConfig.forEach(function (wpn) {
+            if (wpn.ID.toString() == strid || wpn.Name.CH == strid || wpn.Name.EN == strid) {
+                doRelic(wpn)
+                return
+            }
+        })
+    }
+
+    function doRelic(cr) {
+        cur_relic = cr
+        poplayer({
+            header: cr.Name[lang] + pop_ver + computer_.MiscText.Avatar_Table_Title_Extra[lang],
+            width: '100%',
+            data: cr,
+            template: [
+                {
+                    section: function (g) {
+                        computer_.MiscText.Avatar_Relic_Pop_Header.forEach(function (txt, ind) {
+                            $(g.container).render({
+                                data: txt,
+                                template: {
+                                    span: `[[${lang}]]`,
+                                    a: { 'data-id': ind },
+                                    click: function (d) {
+                                        if ($(d.sender).hasClass('active')) {
+                                            return
+                                        }
+                                        var text = $(d.sender).attr('data-id');
+                                        $(d.sender).addClass('active').siblings('span').removeClass('active');
+                                        renderRelicPage(parseInt(text))
+                                    }
+                                }
+                            })
+                        })
+                        $(g.container).find('span').eq(0).addClass('active');
+                    },
+                    class: 'r_select'
+                },
+                {
+                    section: '',
+                    class: 'r_data',
+                    style: {
+                        'justify-content': 'space-evenly',
+                        'display': 'flex',
+                        'flex-wrap': 'wrap'
+                    }
+                }
+            ]
+        });
+        renderRelicPage(0)
     }
 
     function renderRelicPage(k) {
@@ -2601,6 +2628,15 @@ $(function () {
             ],
             class: 'weapon-table'
         }
+    }
+
+    function renderWeaponInfoFind(strid) {
+        _WeaponConfig.forEach(function (wpn) {
+            if (wpn._id.toString() == strid || wpn.Name.CH == strid || wpn.Name.EN == strid) {
+                renderWeaponInfo(wpn)
+                return
+            }
+        })
     }
 
     function renderWeaponInfo(wpn) {

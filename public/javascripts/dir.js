@@ -22,7 +22,7 @@ var GI = [
                 "EN": "Monster mechanics, scaled HP calculator, material drop rates."
             },
             {
-                "CH": "部分怪物技能一图流（作者：Csxylic）",
+                "CH": "怪物技能一图流（作者：Csxylic）",
                 "EN": "Monster skill sheets by Csxylic."
             }
         ],
@@ -226,5 +226,37 @@ var SR = [
             "CH": "/sr/fiction",
             "EN": "/sr/fiction"
         }
-    }
+    },
+    {
+        "Title": {
+            "CH": "成就",
+            "EN": "Achievements"
+        },
+        "Features": [
+            {
+                "CH": "成就合辑、隐藏成就、每版本新增成就",
+                "EN": "Achievement series, hidden achievements, new achievements by version."
+            }
+        ],
+        "Href": {
+            "CH": "/sr/ach",
+            "EN": "/sr/ach"
+        }
+    },
+    {
+        "Title": {
+            "CH": "加载提示",
+            "EN": "Loading Tips"
+        },
+        "Features": [
+            {
+                "CH": "每版本新增加载提示",
+                "EN": "Loading tips by version."
+            }
+        ],
+        "Href": {
+            "CH": "/sr/load",
+            "EN": "/sr/load"
+        }
+    },
 ]

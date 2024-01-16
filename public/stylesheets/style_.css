@@ -600,6 +600,10 @@ h3 .tlsub {
     .translate_ {
         font-size: 22px;
     }
+
+    .yuhengcup schedule {
+        width: calc((100% - 40px) / 2)
+    }
 }
 
 @media screen and (min-width: 800px) {
@@ -616,7 +620,7 @@ h3 .tlsub {
     }
 
     .yuhengcup schedule {
-        width: calc((100% - 40px) / 2)
+        width: calc((100% - 60px) / 3)
     }
 
     h3>span.title {

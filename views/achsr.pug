@@ -1,0 +1,16 @@
+extends _
+block head
+    script(src="/javascripts/achsr.js")
+    script(src="/data/Achievement.js")
+    script(src="/javascripts/txt.js")
+    link(rel="stylesheet", href="/stylesheets/achsr.css")
+block content
+    input(type="hidden" id="LANG" value=lang)
+    input(type="hidden" id="SID" value=id)
+    input(type="hidden" id="IMGPRE" value=imgpre)
+    container
+        h3
+            span.title
+            em.links 
+            em.subtitle
+            em.lang

@@ -1,0 +1,102 @@
+popbody {
+    max-height: calc(100% - 40px) !important
+}
+
+::-webkit-scrollbar:horizontal {
+    display: none;
+}
+
+::-webkit-scrollbar-thumb:vertical {
+    background-color: #aaaaaa;
+    border-radius: 4px;
+}
+
+.scroller {
+    overflow-x: hidden !important;
+}
+
+.main-table {
+    max-width: 100%;
+}
+
+.main-table th,
+tr {
+    white-space: wrap;
+    line-height: 26px;
+    font-size: 14px;
+}
+
+.main-table td {
+    height: 50px
+}
+
+.main-table th,
+.main-table td {
+    padding: 12px 12px
+}
+
+.load-ver,
+.load-group {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+.load-group {
+    margin-left: -20px;
+    width: calc(100% + 40px);
+}
+
+schedule {
+    display: block;
+    text-align: center;
+    padding: 10px 0px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+    font-size: 14px;
+}
+
+.load-ver schedule {
+    width: calc((100% - 50px) / 4);
+}
+
+.load-group schedule {
+    width: calc((100% - 50px) / 3);
+}
+
+schedule.active {
+    background-color: rgb(37, 69, 186);
+    color: #fff;
+}
+
+@media screen and (min-width: 800px) {
+
+    .main-table th,
+    tr {
+        white-space: wrap;
+        line-height: 32px;
+        font-size: 15px;
+    }
+
+    .main-table td {
+        height: 70px
+    }
+
+    .main-table th,
+    .main-table td {
+        padding: 10px 20px
+    }
+
+    .load-ver schedule {
+        width: calc((100% - 50px) / 7);
+        font-size: 16px;
+    }
+
+    .load-group schedule {
+        width: calc((100% - 50px) / 5);
+        font-size: 16px;
+    }
+}

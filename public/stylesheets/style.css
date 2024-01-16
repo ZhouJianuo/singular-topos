@@ -18,6 +18,16 @@
     src: url('../fonts/Gsenochian.ttf');
 }
 
+.hover-shadow {
+    position: relative;
+}
+
+.hover-shadow:hover {
+    box-shadow: 8px 8px 5px 0px rgba(0, 0, 0, 0.2);
+    left: -3px;
+    top: -3px;
+}
+
 body {
     background: url('../images/bg.jpg') no-repeat right center/cover;
 }

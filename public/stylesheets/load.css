@@ -129,6 +129,11 @@ tr {
     margin-bottom: 15px;
 }
 
+.load-group {
+    margin-left: -20px;
+    width: calc(100% + 40px);
+}
+
 schedule {
     display: block;
     text-align: center;

@@ -102,7 +102,7 @@ $(function() {
                             class: 'dir_body'
                         }
                     ],
-                    class: 'dir',
+                    class: 'dir hover-shadow',
                     data: GI,
                     attr: {
                         target: '_blank'
@@ -159,7 +159,7 @@ $(function() {
                             }
                         }
                     ],
-                    class: 'dir',
+                    class: 'dir hover-shadow',
                     data: SR,
                     attr: {
                         target: function (k) {

@@ -4,7 +4,7 @@ var txt = {
         "EN": "HomDGCat Database"
     },
     "Affix": {
-        "CH": " | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
+        "CH": " | <color style='color:#0066FF;'>玉衡杯数据库 homdgcat.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
         "EN": " | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color> | <color style='color:#0066FF;'>X@_homdgcat</color>"
     },
     "Subtitle": {
@@ -260,12 +260,12 @@ var txt = {
         "EN": " (Max # on field)"
     },
     "MoC": {
-        "CH": "混沌回忆 2.0v3",
-        "EN": "Memory of Chaos 2.0v3"
+        "CH": "混沌回忆 2.0v4",
+        "EN": "Memory of Chaos 2.0v4"
     },
     "Fiction": {
-        "CH": "虚构叙事 2.0v3",
-        "EN": "Pure Fiction2.0v3"
+        "CH": "虚构叙事 2.0v4",
+        "EN": "Pure Fiction2.0v4"
     },
     "HS": {
         "CH": "<p><b>玉衡杯数据库 - bilibili@妮可少女 | t.me/homdgcat</b></p>",
@@ -290,6 +290,18 @@ var txt = {
     "Fiction_HP": {
         "CH": "总血量",
         "EN": "Total HP"
+    },
+    "AchNum": {
+        "CH": "总成就数 (#)：",
+        "EN": "Total Count (#): "
+    },
+    "AllAch": {
+        "CH": "全部成就",
+        "EN": "All Achievements"
+    },
+    "NewAch": {
+        "CH": "新增成就",
+        "EN": "New Achievements"
     },
 }
 
@@ -433,6 +445,20 @@ var links = [
             "EN": "Pure Fiction"
         },
         "Link" : "/sr/fiction"
+    },
+    {
+        "Name": {
+            "CH": "成就",
+            "EN": "Achievements"
+        },
+        "Link" : "/sr/ach"
+    },
+    {
+        "Name": {
+            "CH": "加载提示",
+            "EN": "Loading Tips"
+        },
+        "Link" : "/sr/load"
     }
 ]
 

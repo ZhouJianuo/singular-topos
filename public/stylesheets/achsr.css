@@ -1,0 +1,176 @@
+container {
+    display: block;
+    max-width: 2000px;
+}
+
+.content {
+    padding: 20px 0px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 1);
+    min-height: 600px;
+}
+
+popdialog {
+    height: 100%;
+}
+
+popheader {
+    height: 40px;
+    line-height: 40px;
+    background: #fff;
+    color: #333;
+    font-size: 18px;
+    font-weight: 600;
+    overflow: hidden;
+}
+
+popbody {
+    max-height: calc(100% - 40px) !important
+}
+
+.scroller {
+    overflow-x: hidden !important;
+}
+
+.weapon-table {
+    table-layout: fixed;
+    width: calc(100% + 20px);
+    min-width: 380px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.weapon-table td {
+    padding: 0px 8px;
+    text-wrap: wrap;
+    font-size: 13px;
+    line-height: 25px;
+}
+
+.weapon-table th {
+    padding: 0px 5px;
+    font-size: 13px;
+    line-height: 25px;
+}
+
+.ach-ver {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+schedule {
+    display: block;
+    width: calc((100% - 50px) / 5);
+    text-align: center;
+    padding: 10px 0px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+schedule.active {
+    background-color: rgb(37, 69, 186);
+    color: #fff;
+}
+
+h2 {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    font-size: 1.2em;
+}
+
+.ach-table {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.series {
+    display: inline-block;
+    border-radius: 10px;
+    background-color: #27363E;
+    color: #dddddd;
+    width: 240px;
+    text-align: center;
+    margin: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 25px 20px 5px;
+    cursor: pointer;
+}
+
+.weapon-table tr :nth-child(1) {
+    width: 15%
+}
+
+.weapon-table tr :nth-child(2) {
+    width: 70%
+}
+
+.weapon-table tr :nth-child(3) {
+    width: 15%
+}
+
+.weapon-table td {
+    padding: 10px;
+    font-size: 14px
+}
+
+.jade {
+    max-height: 15px;
+    margin-right: 5px;
+    width: auto!important;
+    height: auto;
+}
+
+.ach_ver_select {
+    width: 100px;
+    padding: 6px;
+    font-size: 16px;
+    text-align: center;
+}
+
+::-webkit-scrollbar:horizontal {
+    display: none;
+}
+
+::-webkit-scrollbar-thumb:vertical {
+    background-color: #aaaaaa;
+    border-radius: 4px;
+}
+
+@media screen and (min-width: 800px) {
+
+    .main-table th,
+    tr {
+        white-space: nowrap;
+        line-height: 32px;
+        font-size: 18px;
+    }
+
+    .main-table td {
+        height: 70px
+    }
+
+    .main-table th {
+        padding: 5px
+    }
+
+    .main-table td {
+        padding: 5px
+    }
+
+    .weapon-table td {
+        padding: 10px;
+        font-size: 15px
+    }
+
+    .jade {
+        max-height: 16px;
+    }
+}

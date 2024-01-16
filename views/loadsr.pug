@@ -1,0 +1,15 @@
+extends _
+block head
+    script(src="/javascripts/loadsr.js")
+    script(src="/data/LoadingDesc.js")
+    script(src="/javascripts/txt.js")
+    link(rel="stylesheet", href="/stylesheets/loadsr.css")
+block content
+    input(type="hidden" id="LANG" value=lang)
+    input(type="hidden" id="IMGPRE" value=imgpre)
+    container
+        h3
+            span.title
+            em.links 
+            em.subtitle
+            em.lang

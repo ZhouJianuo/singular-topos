@@ -133,8 +133,8 @@ var computer_ = {
             "EN": "Reset"
         },
         "Computer_ScaleHP_TutorialTitle": {
-            "CH": "抗性和等效血量 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki | mons.wiki | bilibili@妮可少女</color>",
-            "EN": "RES and Scaled HP | <color style='color:#0066FF;'>homdgcat.wiki | en.mons.wiki | t.me/homdgcat</color>"
+            "CH": "抗性和等效血量 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "EN": "RES and Scaled HP | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
         "Computer_ScaleHP_Tutorial": {
             "CH": "等效血量是考虑抗性的作用后，计算出的血量。敌方标准抗性是 10%，此时等效血量等于原血量。<br><br>例如，某个敌人的抗性为 70%，根据<b>抗性公式</b>可知打出的伤害变为原本（即抗性为 10%）的三分之一，因此等效血量是原血量的 3 倍。<br><br>对敌方施加减抗技能后，敌方的抗性改变了，因此等效血量也会改变。<br><br>抗性公式：<br>- 抗性 ≤ 0%：伤害系数 = 1 - 抗性/2<br>- 0% ≤ 抗性 ≤ 75%：伤害系数 = 1 - 抗性<br>- 抗性 ≥ 75%：伤害系数 = 1 / (抗性x4 + 1)",
@@ -173,12 +173,12 @@ var computer_ = {
             "EN": "Weight & Poise Intro"
         },
         "Computer_Result_Button_BallIntro2": {
-            "CH": "产球能量简介 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki | mons.wiki | bilibili@妮可少女</color>",
-            "EN": "Par & Energy Intro | <color style='color:#0066FF;'>homdgcat.wiki | en.mons.wiki | t.me/homdgcat</color>"
+            "CH": "产球能量简介 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "EN": "Par & Energy Intro | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
         "Computer_Result_Button_WeightEndureIntro2": {
-            "CH": "韧性力学简介 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki | mons.wiki | bilibili@妮可少女</color>",
-            "EN": "Weight & Poise Intro | <color style='color:#0066FF;'>homdgcat.wiki | en.mons.wiki | t.me/homdgcat</color>"
+            "CH": "韧性力学简介 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "EN": "Weight & Poise Intro | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
         "Computer_Result_Window_BallIntro": {
             "CH": "无属白微粒：前台角色恢复<color style='color:#FF0000;'>2</color>元素能量\n有属性微粒：前台同属性角色恢复<color style='color:#FF0000;'>3</color>，不同属性恢复<color style='color:#FF0000;'>1</color>\n\n如果角色在后台，恢复的能量会打折扣：\n4人队后台恢复为原本的<color style='color:#FF0000;'>60%</color>\n3人队后台恢复为原本的<color style='color:#FF0000;'>70%</color>\n2人队后台恢复为原本的<color style='color:#FF0000;'>80%</color>",
@@ -209,24 +209,24 @@ var computer_ = {
             "EN": "Innate Element"
         },
         "Computer_Result_Button_Tutorial2": {
-            "CH": "机制解析 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki | mons.wiki | bilibili@妮可少女</color>",
-            "EN": "Monster Mechanics | <color style='color:#0066FF;'>homdgcat.wiki | en.mons.wiki | t.me/homdgcat</color>"
+            "CH": "机制解析 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "EN": "Monster Mechanics | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
         "Computer_Result_Button_SkillDMG2": {
-            "CH": "技能伤害 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki | mons.wiki | bilibili@妮可少女</color>",
-            "EN": "Skill DMG | <color style='color:#0066FF;'>homdgcat.wiki | en.mons.wiki | t.me/homdgcat</color>"
+            "CH": "技能伤害 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "EN": "Skill DMG | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
         "Computer_Result_Button_SkillData2": {
-            "CH": "招式信息 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki | mons.wiki | bilibili@妮可少女</color>",
-            "EN": "Skill Data | <color style='color:#0066FF;'>homdgcat.wiki | en.mons.wiki | t.me/homdgcat</color>"
+            "CH": "招式信息 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "EN": "Skill Data | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
         "Computer_Result_Button_Loot2": {
-            "CH": "材料掉率 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki | mons.wiki | bilibili@妮可少女</color>",
-            "EN": "Loot Drop Rate | <color style='color:#0066FF;'>homdgcat.wiki | en.mons.wiki | t.me/homdgcat</color>"
+            "CH": "材料掉率 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "EN": "Loot Drop Rate | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
         "Computer_Result_Button_Element2": {
-            "CH": "自带附着 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki | mons.wiki | bilibili@妮可少女</color>",
-            "EN": "Innate Element | <color style='color:#0066FF;'>homdgcat.wiki | en.mons.wiki | t.me/homdgcat</color>"
+            "CH": "自带附着 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "EN": "Innate Element | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
         "Computer_Result_Element_Type": {
             "CH": "自带元素：",
@@ -261,8 +261,8 @@ var computer_ = {
             "EN": "Chracter DEF "
         },
         "Computer_SkillDMG_Title": {
-            "CH": "怪物伤害计算器 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki | mons.wiki | bilibili@妮可少女</color>",
-            "EN": "Monster DMG Calculator | <color style='color:#0066FF;'>homdgcat.wiki | en.mons.wiki | t.me/homdgcat</color>"
+            "CH": "怪物伤害计算器 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "EN": "Monster DMG Calculator | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
         "Computer_SkillDMG_Input_AvatarDEFPlaceholder": {
             "CH": "请输入整数",
@@ -407,8 +407,8 @@ var computer_ = {
             "EN": "Switch Chart Style"
         },
         "Avatar_Table_Title_Extra": {
-            "CH": " | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki | char.wiki | bilibili@妮可少女</color>",
-            "EN": " | <color style='color:#0066FF;'>homdgcat.wiki | en.char.wiki | t.me/homdgcat</color>"
+            "CH": " | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>char.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "EN": " | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.char.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
         "Avatar_Info_Select": [
             {
@@ -895,8 +895,8 @@ var computer_ = {
             "EN": "<b>All Achievements</b>"
         },
         "Ach_Extra": {
-            "CH": " | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki | bilibili@妮可少女</color>",
-            "EN": " | <color style='color:#0066FF;'>HomDGCat Database | homdgcat.wiki | t.me/homdgcat</color>"
+            "CH": " | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "EN": " | <color style='color:#0066FF;'>HomDGCat Database</color> | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
         "Ach_Inner_Header": [
             {
@@ -953,8 +953,8 @@ var computer_ = {
             },
         ],
         "MS_HP_Title": {
-            "CH": "护盾血量 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki | bilibili@妮可少女</color>",
-            "EN": "Shield HP | <color style='color:#0066FF;'>HomDGCat Database | homdgcat.wiki | t.me/homdgcat</color>"
+            "CH": "护盾血量 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "EN": "Shield HP | <color style='color:#0066FF;'>HomDGCat Database</color> | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
         "MS_HP_Desc": {
             "CH": "某些护盾具有血量：在受到不同属性的伤害时，会依此扣除护盾值。此效果与元素反应的消耗叠加。<br>护盾的血量是敌人本体血量的倍数。例如，5x 表示护盾血量是本体的 5 倍。",
@@ -6100,7 +6100,7 @@ $('body').on('click', '.links', function () {
     poplayer({
         header: '',
         class: 'yuhengcup',
-        width: '85%',
+        width: '95%',
         template: [
             {
                 h3: computer_.MiscText.ComputerTitle[lang],

@@ -203,38 +203,31 @@ $(function () {
                         _Achievement.forEach(function (ach) {
                             if (((selected_ver == "") || (ach.Ver == selected_ver)) && (l == 114514 || (ach.Group == l))) {
                                 $(d.container).render({
-                                    data: ach,
                                     template: {
                                         tr: [
                                             {
-                                                td: function (d) {
-                                                    return '<b>' + d.data.Name[lang] + '</b><br>' + d.data.Desc[lang]
-                                                },
+                                                td: '<b>' + ach.Name[lang] + '</b><br>' + ach.Desc[lang]
                                             },
                                             {
-                                                td: `[[Reward]]`,
+                                                td: ach.Reward.toString(),
                                                 style: {
                                                     'text-align': 'center'
                                                 }
                                             },
                                             {
-                                                td: function (k) {
-                                                    return k.data.Hidden ? "✔" : ""
-                                                },
+                                                td: ach.Hidden ? "✔" : "",
                                                 style: {
                                                     'text-align': 'center'
                                                 }
                                             },
                                             {
-                                                td: function (k) {
-                                                    return k.data.Total ? (k.data.Total == 1 ? '' : k.data.Total) : ''
-                                                },
+                                                td: ach.Total ? (ach.Total == 1 ? '' : ach.Total) : '',
                                                 style: {
                                                     'text-align': 'center'
                                                 }
                                             },
                                             {
-                                                td: `[[Ver]]`,
+                                                td: ach.Ver.toFixed(1),
                                                 style: {
                                                     'text-align': 'center'
                                                 }
