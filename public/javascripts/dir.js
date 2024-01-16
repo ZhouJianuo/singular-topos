@@ -204,7 +204,7 @@ var SR = [
         ],
         "Href": {
             "CH": "/sr/chaos",
-            "EN": "/sr/monster"
+            "EN": "/sr/chaos"
         }
     },
     {
