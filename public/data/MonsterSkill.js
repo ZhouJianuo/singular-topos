@@ -14930,8 +14930,8 @@ var _monsterskill = {
             "EN": "DHGDR: Incomplete Combustion"
         },
         "Desc": {
-            "CH": "消耗<color style='color:#f29e38;'>3%生命值上限</color>，进入<color style='color:#f29e38;'>【次级燃烧】</color>并获得<color style='color:#f29e38;'>【弱点无效】</color>效果。进入【次级燃烧】后自身大幅增强，速度提升<color style='color:#f29e38;'>50%</color>，但所有攻击会消耗自身<color style='color:#f29e38;'>1.5%生命值上限</color>。",
-            "EN": "Consumes <color style='color:#f29e38;'>3% Max HP</color> to enter the <color style='color:#f29e38;'>Incomplete Combustion</color> state and gains <color style='color:#f29e38;'>Weakness Protected</color>. Sam is significantly more powerful in this state, and SPD is increased by <color style='color:#f29e38;'>50%</color>, but all his attacks consume <color style='color:#f29e38;'>1.5% Max HP</color>."
+            "CH": "消耗<color style='color:#f29e38;'>3%生命值上限</color>，进入<color style='color:#f29e38;'>【次级燃烧】</color>并获得<color style='color:#f29e38;'>【弱点无效】</color>效果。进入【次级燃烧】后自身大幅增强，速度提升<color style='color:#f29e38;'>50%</color>，但所有攻击会消耗自身<color style='color:#f29e38;'>1%生命值上限</color>。",
+            "EN": "Consumes <color style='color:#f29e38;'>3% Max HP</color> to enter the <color style='color:#f29e38;'>Incomplete Combustion</color> state and gains <color style='color:#f29e38;'>Weakness Protected</color>. Sam is significantly more powerful in this state, and SPD is increased by <color style='color:#f29e38;'>50%</color>, but all his attacks consume <color style='color:#f29e38;'>1% Max HP</color>."
         },
         "SP": 0,
         "Threat": true
@@ -17563,8 +17563,8 @@ var _monsterskill = {
             "EN": "DHGDR: Incomplete Combustion"
         },
         "Desc": {
-            "CH": "消耗<color style='color:#f29e38;'>3%生命值上限</color>，进入<color style='color:#f29e38;'>【次级燃烧】</color>并获得<color style='color:#f29e38;'>【弱点无效】</color>效果。进入【次级燃烧】后自身大幅增强，速度提升<color style='color:#f29e38;'>50%</color>，但所有攻击会消耗自身<color style='color:#f29e38;'>1.5%生命值上限</color>。",
-            "EN": "Consumes <color style='color:#f29e38;'>3% Max HP</color> to enter the <color style='color:#f29e38;'>Incomplete Combustion</color> state and gains <color style='color:#f29e38;'>Weakness Protected</color>. Sam is significantly more powerful in this state, and SPD is increased by <color style='color:#f29e38;'>50%</color>, but all his attacks consume <color style='color:#f29e38;'>1.5% Max HP</color>."
+            "CH": "消耗<color style='color:#f29e38;'>3%生命值上限</color>，进入<color style='color:#f29e38;'>【次级燃烧】</color>并获得<color style='color:#f29e38;'>【弱点无效】</color>效果。进入【次级燃烧】后自身大幅增强，速度提升<color style='color:#f29e38;'>50%</color>，但所有攻击会消耗自身<color style='color:#f29e38;'>1%生命值上限</color>。",
+            "EN": "Consumes <color style='color:#f29e38;'>3% Max HP</color> to enter the <color style='color:#f29e38;'>Incomplete Combustion</color> state and gains <color style='color:#f29e38;'>Weakness Protected</color>. Sam is significantly more powerful in this state, and SPD is increased by <color style='color:#f29e38;'>50%</color>, but all his attacks consume <color style='color:#f29e38;'>1% Max HP</color>."
         },
         "SP": 0,
         "Threat": true
