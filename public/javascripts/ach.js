@@ -211,7 +211,8 @@ $(function () {
                                                     class: 'jade'
                                                 }, ach.Reward.toString()],
                                                 style: {
-                                                    'text-align': 'center'
+                                                    'text-align': 'center',
+                                                    'padding': '5px'
                                                 }
                                             },
                                             {
