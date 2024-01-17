@@ -20,17 +20,17 @@
 
 @font-face {
     font-family: 'DQ';
-    src: url('../fonts/Inazuma.ttf');
+    src: url('../fonts/Inazuma.otf');
 }
 
 @font-face {
     font-family: 'XM';
-    src: url('../fonts/Sumeru.ttf');
+    src: url('../fonts/Sumeru.otf');
 }
 
 @font-face {
     font-family: 'CW';
-    src: url('../fonts/Deshret.ttf');
+    src: url('../fonts/Deshret.otf');
 }
 
 * {
