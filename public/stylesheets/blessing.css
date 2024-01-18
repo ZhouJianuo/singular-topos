@@ -1,0 +1,109 @@
+::-webkit-scrollbar:horizontal {
+    display: none;
+}
+
+::-webkit-scrollbar-thumb:vertical {
+    background-color: #aaaaaa;
+    border-radius: 4px;
+}
+
+schedule {
+    font-size: 14px;
+}
+
+.content {
+    padding-bottom: 50px;
+}
+
+.blessing_card_area {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.curio {
+    border-radius: 5px;
+    padding: 18px;
+    margin-top: 21px;
+    width: calc(100% - 80px);
+    line-height: 2;
+    background-color: #27363E;
+    color: #dddddd;
+    position: relative;
+}
+
+.icon {
+    height: 140px;
+    margin: auto;
+    display: block;
+}
+
+.name {
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.desc {
+    font-size: 14px;
+}
+
+.simple {
+    display: none;
+}
+
+.info {
+    position: absolute;
+    top: 0px;
+    left: 12px;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.ml {
+    position: absolute;
+    top: -9px;
+    right: 12px;
+    font-size: 32px;
+    cursor: pointer;
+}
+
+.infou {
+    cursor: pointer;
+}
+
+@media screen and (min-width: 600px) and (max-width: 900px) {
+    schedule {
+        font-size: 15px;
+    }
+    .icon {
+        height: 160px;
+    }
+    .curio {
+        width: calc((100% - 140px) / 2);
+    }
+    .name {
+        font-size: 17px;
+    }
+    .desc {
+        font-size: 15px;
+    }
+}
+
+@media screen and (min-width: 900px) {
+    schedule {
+        font-size: 16px;
+    }
+    .icon {
+        height: 180px;
+    }
+    .curio {
+        width: calc((100% - 200px) / 3);
+    }
+    .name {
+        font-size: 18px;
+    }
+    .desc {
+        font-size: 15px;
+    }
+}

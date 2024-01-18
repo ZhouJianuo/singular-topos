@@ -147,13 +147,22 @@ app.get('/sr/load', async (req, res) => {
     res.render('loadsr', result);
 });
 
-app.get('/sr/su', async (req, res) => {
+app.get('/sr/blessing', async (req, res) => {
     let result = {};
     let { lang = '' } = req.query;
     result.lang = lang;
     result.imgpre = '../'
     result.title = 'HomDGCat Database';
-    res.render('su', result);
+    res.render('blessing', result);
+});
+
+app.get('/sr/curio', async (req, res) => {
+    let result = {};
+    let { lang = '' } = req.query;
+    result.lang = lang;
+    result.imgpre = '../'
+    result.title = 'HomDGCat Database';
+    res.render('curio', result);
 });
 
 app.get('/gi/monster', async (req, res) => {

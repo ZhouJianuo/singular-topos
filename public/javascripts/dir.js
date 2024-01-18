@@ -229,22 +229,24 @@ var SR = [
     },
     {
         "Title": {
-            "CH": "模拟宇宙",
-            "EN": "Simulated Universe"
+            "CH": "模拟宇宙 · 祝福",
+            "EN": "Simulated Universe<br>Blessings"
         },
-        "Features": [
-            {
-                "CH": "祝福",
-                "EN": "Blessings."
-            },
-            {
-                "CH": "奇物",
-                "EN": "Curios."
-            }
-        ],
+        "Features": [],
         "Href": {
-            "CH": "/sr/su",
-            "EN": "/sr/su"
+            "CH": "/sr/blessing",
+            "EN": "/sr/blessing"
+        }
+    },
+    {
+        "Title": {
+            "CH": "模拟宇宙 · 奇物",
+            "EN": "Simulated Universe<br>Curios"
+        },
+        "Features": [],
+        "Href": {
+            "CH": "/sr/curio",
+            "EN": "/sr/curio"
         }
     },
     {

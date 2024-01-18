@@ -448,10 +448,17 @@ var links = [
     },
     {
         "Name": {
-            "CH": "模拟宇宙",
-            "EN": "Simulated Universe"
+            "CH": "模拟宇宙 · 祝福",
+            "EN": "SU Blessings"
         },
-        "Link" : "/sr/su"
+        "Link" : "/sr/blessing"
+    },
+    {
+        "Name": {
+            "CH": "模拟宇宙 · 奇物",
+            "EN": "SU Curios"
+        },
+        "Link" : "/sr/curio"
     },
     {
         "Name": {
