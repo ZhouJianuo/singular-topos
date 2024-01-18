@@ -36,6 +36,7 @@ schedule {
     height: 140px;
     margin: auto;
     display: block;
+    margin-top: 15px;
 }
 
 .name {
