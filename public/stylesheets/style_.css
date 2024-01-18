@@ -9,6 +9,11 @@
 }
 
 @font-face {
+    font-family: 'TW';
+    src: url('../fonts/ThirdWorld.ttf');
+}
+
+@font-face {
     font-family: 'TWT';
     src: url('../fonts/Teyvat.ttf');
 }

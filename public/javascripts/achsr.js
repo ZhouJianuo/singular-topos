@@ -196,10 +196,12 @@ $(function () {
 
     $('body').on('click', '.subtitle', function () {
         IS_SW += 1
-        if (IS_SW % 3 == 1) {
+        if (IS_SW % 4 == 1) {
             $('body').css('font-family', "'FW', sans-serif")
-        } else if (IS_SW % 3 == 2) {
+        } else if (IS_SW % 4 == 2) {
             $('body').css('font-family', "'SW', sans-serif")
+        } else if (IS_SW % 4 == 3) {
+            $('body').css('font-family', "'TW', sans-serif")
         } else {
             if (lang == 'EN') { $('body').css('font-family', "'Segoe UI', sans-serif") }
             else { $('body').css('font-family', "'Microsoft YaHei', sans-serif") }

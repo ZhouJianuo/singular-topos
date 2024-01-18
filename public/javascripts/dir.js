@@ -229,6 +229,26 @@ var SR = [
     },
     {
         "Title": {
+            "CH": "模拟宇宙",
+            "EN": "Simulated Universe"
+        },
+        "Features": [
+            {
+                "CH": "祝福",
+                "EN": "Blessings."
+            },
+            {
+                "CH": "奇物",
+                "EN": "Curios."
+            }
+        ],
+        "Href": {
+            "CH": "/sr/su",
+            "EN": "/sr/su"
+        }
+    },
+    {
+        "Title": {
             "CH": "成就",
             "EN": "Achievements"
         },

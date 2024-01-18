@@ -1903,7 +1903,7 @@ $(function () {
             if (cur_avatar_talks[talk_id].Type) {
                 show_text = "<color style='color:" + computer_.TextColorConfig[this_avatar.Element] + ";'>" + this_avatar.Name[lang] + ((lang == "CH") ? '：' : ': ') + '</color>'
             } else {
-                show_text = '> '
+                show_text = ''
             }
             $('.a_talk').render({
                 template: {
@@ -1932,7 +1932,7 @@ $(function () {
             if (cur_avatar_talks[talk_id].Type) {
                 show_text = "<color style='color:" + computer_.TextColorConfig[this_avatar.Element] + ";'>" + this_avatar.Name[lang] + ((lang == "CH") ? '：' : ': ') + '</color>'
             } else {
-                show_text = '> '
+                show_text = ''
             }
             nothas_traveller *= cur_avatar_talks[talk_id].Type
             $('.a_talk').render({

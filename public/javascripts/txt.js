@@ -448,6 +448,13 @@ var links = [
     },
     {
         "Name": {
+            "CH": "模拟宇宙",
+            "EN": "Simulated Universe"
+        },
+        "Link" : "/sr/su"
+    },
+    {
+        "Name": {
             "CH": "成就",
             "EN": "Achievements"
         },
