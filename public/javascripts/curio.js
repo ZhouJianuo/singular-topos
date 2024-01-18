@@ -91,6 +91,12 @@ $(function () {
                                 class: 'desc'
                             },
                             {
+                                hr: '',
+                                style: {
+                                    'border-color': '#bbbbbb'
+                                }
+                            },
+                            {
                                 p: t.Story[lang],
                                 class: 'story'
                             }
