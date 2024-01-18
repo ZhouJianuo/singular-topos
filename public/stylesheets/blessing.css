@@ -42,11 +42,11 @@ schedule {
 .name {
     text-align: center;
     font-weight: bold;
-    font-size: 16px;
+    font-size: 17px;
 }
 
 .desc {
-    font-size: 14px;
+    font-size: 15px;
 }
 
 .simple {
@@ -84,7 +84,7 @@ schedule {
         width: calc((100% - 140px) / 2);
     }
     .name {
-        font-size: 17px;
+        font-size: 18px;
     }
     .desc {
         font-size: 15px;
@@ -102,9 +102,9 @@ schedule {
         width: calc((100% - 200px) / 3);
     }
     .name {
-        font-size: 18px;
+        font-size: 19px;
     }
     .desc {
-        font-size: 15px;
+        font-size: 16px;
     }
 }
