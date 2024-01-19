@@ -121,7 +121,7 @@ $(function () {
                     template: {
                         div: [
                             {
-                                img: imgpre + (t.Icon.includes('Path') ? 'images/Misc/a.png' : ('images/RogueBuff' + t.Icon)),
+                                img: imgpre + 'images/RogueBuff' + t.Icon,
                                 class: 'icon'
                             },
                             {

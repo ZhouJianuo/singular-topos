@@ -32,6 +32,8 @@ $(function () {
         popLinks(lang)
     })
 
+    var ml = 0
+
     $('container').render({
         template: {
             div: [
@@ -79,7 +81,7 @@ $(function () {
                     template: {
                         div: [
                             {
-                                img: imgpre + 'images/Misc/a.png',
+                                img: imgpre + 'images/Miracle/' + t.Icon,
                                 class: 'icon'
                             },
                             {
@@ -94,12 +96,17 @@ $(function () {
                                 hr: '',
                                 style: {
                                     'border-color': '#bbbbbb'
-                                }
+                                },
+                                class: 'simple'
                             },
                             {
                                 p: t.Story[lang],
-                                class: 'story'
-                            }
+                                class: 'story simple'
+                            },
+                            {
+                                div: '+',
+                                class: 'ml'
+                            },
                         ],
                         class: 'curio'
                     }
@@ -107,6 +114,15 @@ $(function () {
             }
         })
     }
+    
+    $('body').on('click', '.ml', function () {
+        ml = 1 - ml
+        if (ml) {
+            $('.simple').hide()
+        } else {
+            $('.simple').show()
+        }
+    })
 
     $('body').on('click', '.subtitle', function () {
         IS_SW += 1

@@ -61,7 +61,10 @@ $(function () {
                         $(d.container).render({
                             data: _SpiralAbyssSchedule,
                             template: {
-                                schedule: '[[Name]]',
+                                schedule: function (d) {
+                                    if (d.data.Show) return d.data.Show[lang]
+                                    return d.data.Name
+                                },
                                 a: {
                                     class: function (d) {
                                         gen = d.data.Generation
@@ -217,7 +220,7 @@ $(function () {
         $('.result').empty().render({
             template: [{
                 h4: [{
-                    span: sData.Name
+                    span: sData.Show ? sData.Show[lang] : sData.Name
                 }, {
                     em: sData.OpenTime
                 }, {

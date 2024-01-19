@@ -572,6 +572,10 @@ var _SpiralAbyssSchedule = [
     },
     {
         "Name": "4.4v5",
+        "Show": {
+            "CH": "4.4v5",
+            "EN": "4.4v5"
+        },
         "Generation": 4,
         "OpenTime": "2024/02/01 - 2024/03/15",
         "Phases": [
@@ -593,6 +597,10 @@ var _SpiralAbyssSchedule = [
     },
     {
         "Name": "1",
+        "Show": {
+            "CH": "惊喜 1",
+            "EN": "Surprise 1"
+        },
         "Generation": 99,
         "OpenTime": "By HomDGCat 妮可少女<br>2023/10/05",
         "Phases": [
@@ -612,6 +620,10 @@ var _SpiralAbyssSchedule = [
     },
     {
         "Name": "2",
+        "Show": {
+            "CH": "惊喜 2",
+            "EN": "Surprise 2"
+        },
         "Generation": 99,
         "OpenTime": "By __Ikobe<br>2023/09/24",
         "Phases": [
@@ -631,6 +643,10 @@ var _SpiralAbyssSchedule = [
     },
     {
         "Name": "3",
+        "Show": {
+            "CH": "惊喜 3",
+            "EN": "Surprise 3"
+        },
         "Generation": 99,
         "OpenTime": "By HomDGCat 妮可少女<br>2023/10/06",
         "Phases": [
@@ -650,6 +666,10 @@ var _SpiralAbyssSchedule = [
     },
     {
         "Name": "4",
+        "Show": {
+            "CH": "惊喜 4",
+            "EN": "Surprise 4"
+        },
         "Generation": 99,
         "OpenTime": "By __Ikobe<br>2023/10/08",
         "Phases": [
@@ -669,6 +689,10 @@ var _SpiralAbyssSchedule = [
     },
     {
         "Name": "5",
+        "Show": {
+            "CH": "惊喜 5",
+            "EN": "Surprise 5"
+        },
         "Generation": 99,
         "OpenTime": "By HomDGCat 妮可少女<br>2023/10/21",
         "Phases": [
@@ -688,6 +712,10 @@ var _SpiralAbyssSchedule = [
     },
     {
         "Name": "6",
+        "Show": {
+            "CH": "惊喜 6",
+            "EN": "Surprise 6"
+        },
         "Generation": 99,
         "OpenTime": "By HomDGCat 妮可少女<br>2023/10/31",
         "Phases": [
@@ -707,6 +735,10 @@ var _SpiralAbyssSchedule = [
     },
     {
         "Name": "7",
+        "Show": {
+            "CH": "惊喜 7",
+            "EN": "Surprise 7"
+        },
         "Generation": 99,
         "OpenTime": "By __Ikobe<br>2023/11/01",
         "Phases": [
@@ -726,6 +758,10 @@ var _SpiralAbyssSchedule = [
     },
     {
         "Name": "8",
+        "Show": {
+            "CH": "惊喜 8",
+            "EN": "Surprise 8"
+        },
         "Generation": 99,
         "OpenTime": "By HomDGCat 妮可少女<br>2023/11/17",
         "Phases": [
@@ -747,6 +783,10 @@ var _SpiralAbyssSchedule = [
     },
     {
         "Name": "9",
+        "Show": {
+            "CH": "惊喜 9",
+            "EN": "Surprise 9"
+        },
         "Generation": 99,
         "OpenTime": "By __Ikobe<br>2023/12/21",
         "Phases": [
@@ -766,6 +806,10 @@ var _SpiralAbyssSchedule = [
     },
     {
         "Name": "10",
+        "Show": {
+            "CH": "惊喜 10",
+            "EN": "Surprise 10"
+        },
         "Generation": 99,
         "OpenTime": "By HomDGCat 妮可少女<br>2023/12/31",
         "Phases": [
@@ -784,7 +828,11 @@ var _SpiralAbyssSchedule = [
         ]
     },
     {
-        "Name": "v11",
+        "Name": "11",
+        "Show": {
+            "CH": "惊喜 11",
+            "EN": "Surprise 11"
+        },
         "Generation": 99,
         "OpenTime": "By __Ikobe<br>2024/01/12",
         "Phases": [
@@ -800,6 +848,29 @@ var _SpiralAbyssSchedule = [
             58,
             1021,
             1022
+        ]
+    },
+    {
+        "Name": "虚构叙事",
+        "Show": {
+            "CH": "虚构叙事",
+            "EN": "Pure Fiction"
+        },
+        "Generation": 99,
+        "OpenTime": "By 析茉Csxylic<br>2024/01/18",
+        "Phases": [
+            86,
+            87
+        ],
+        "Blessings": [
+            1018,
+            1019
+        ],
+        "Floors": [
+            57,
+            58,
+            67,
+            1024
         ]
     }
 ]
@@ -2816,6 +2887,44 @@ var _SpiralAbyssBlessingConfig = {
             "CH": "角色的当前生命值提升或降低时，为队伍中所有角色施加「掩影」效果：受到的伤害降低20%，持续3秒。角色的当前生命值提升或降低时，也将解除「掩影」效果。",
             "EN": "When a character's current HP increases or decreases, all party members gain the SHadow effect: DMG taken is decreased by 20% for 3s. When a character's current HP increases or decreases, their Shadow effect will also be removed."
         }
+    },
+    "1018": {
+        "Name": {
+            "CH": "缭彩之月",
+            "EN": "Polychromatic Moon"
+        },
+        "Desc": {
+            "CH": "角色的攻击同时命中3个及以上的目标时，将在角色的位置<color style='color:#0000FF;'>释放该角色对应元素属性的冲击波</color>，造成真实伤害。每4秒至多通过这种方式释放一次冲击波。连续释放同种属性的冲击波时，下一次冲击波造成的伤害将<color style='color:#0000FF;'>提高50%</color>。此效果至多叠加4次，触发其他属性冲击波时将移除。",
+            "EN": "When characters' attacks hit at least 3 opponents simultaneously, <color style='color:#0000FF;'>a shockwave will be unleashed</color> at the character's position, dealing True DMG ofthe character's Element type. This can be triggered once every 4s. When triggering shockwaves of the same Elemental type, the next shockwave's DMG will be <color style='color:#0000FF;'>increased by 50%</color>, max 4 stacks. This effect will be removed after triggering a shockwave of different Element type."
+        },
+        "ShockWaveConfig": [
+            {
+                "ShockWaveDesc": {
+                    "CH": "冲击波半径：6m",
+                    "EN": "Shockwave Radius: 6m"
+                },
+                "ShockWaveDMG": 9
+            }
+        ]
+    },
+    "1019": {
+        "Name": {
+            "CH": "慕映之月",
+            "EN": "Morphis Moon"
+        },
+        "Desc": {
+            "CH": "角色击败敌方时，每击败一个敌方，该角色获得一层「慕映」效果，使该角色的下次攻击命中时<color style='color:#0000FF;'>释放一次对应属性的元素氛</color>，持续造成真实伤害与元素附着。此效果最多叠加3层，持续3秒或触发一次后移除。",
+            "EN": "When a character defeats an opponent, for every opponent defeated, this character gains 1 stack of Morphis. When a character with Morphis hits an opponent, <color style='color:#0000FF;'>an Elemental Fog of the corresponding Element will be conjured</color>, dealing DoT and applying Element within. This effect can be stacked 3 times, and is removed after 3s or after triggering."
+        },
+        "ShockWaveConfig": [
+            {
+                "ShockWaveDesc": {
+                    "CH": "元素氛半径：5m",
+                    "EN": "Elemental Fog Radius: 5m"
+                },
+                "ShockWaveDMG": 5
+            }
+        ]
     }
 }
 
@@ -53336,6 +53445,445 @@ var _SpiralAbyssFloorConfig = {
                             },
                             {
                                 "ID": 20201,
+                                "Num": 3
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "1024": {
+        "Disorder": {
+            "CH": "挑战中存在「元素使能」，会以15秒为周期，转换「雷之异乱」与「冰之霄残」。<br>雷之异乱期间，角色的攻击命中敌人时，将流失2点元素能量，每1秒至多触发一次。<br>冰之霄残期间，角色的体力上限降低100点。",
+            "EN": "Energy Tides are present in this challenge. They will switch between Aberrant Storms and Dark Blizzards in 15s cycles.<br>During Aberrant Storms, when characters' attacks hit opponents, the character will lose 2 Elemental Energy. This effect can be triggered once every 1s.<br>During Dark Blizzards, characters' Max Stamina is decreased by 100."
+        },
+        "ShowVers": [
+            7
+        ],
+        "Chambers": [
+            {
+                "Name": "12-1",
+                "Level": 95,
+                "GoalType": 0,
+                "GoalParam": 3,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        7,
+                        22,
+                        34
+                    ]
+                },
+                "Upper": [
+                    {
+                        "WaveDesc": 999,
+                        "ExtraDesc": {
+                            "CH": "<b>维持6个，杀一个出一个</b>",
+                            "EN": "<b>Keep 6 on field, spawn one after each kill</b>"
+                        },
+                        "Monsters": [
+                            {
+                                "ID": 10101,
+                                "Num": 20
+                            },
+                            {
+                                "ID": 10105,
+                                "Num": 20
+                            },
+                            {
+                                "ID": 10110,
+                                "Num": 20
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 999,
+                        "ExtraDesc": {
+                            "CH": "<b>维持5个，杀一个出一个</b>",
+                            "EN": "<b>Keep 5 on field, spawn one after each kill</b>"
+                        },
+                        "Monsters": [
+                            {
+                                "ID": 40601,
+                                "Num": 8
+                            },
+                            {
+                                "ID": 40657,
+                                "Num": 12
+                            },
+                            {
+                                "ID": 40611,
+                                "Num": 6
+                            },
+                            {
+                                "ID": 40654,
+                                "Num": 12
+                            },
+                            {
+                                "ID": 40602,
+                                "Num": 6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Name": "12-2",
+                "Level": 98,
+                "GoalType": 0,
+                "GoalParam": 3,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        7,
+                        22,
+                        34
+                    ]
+                },
+                "Upper": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 20402,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 60102,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 60103,
+                                "Num": 1
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 40202,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 60102,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 60103,
+                                "Num": 1
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 3,
+                        "Monsters": [
+                            {
+                                "ID": 40201,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 60102,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 60103,
+                                "Num": 1
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 4,
+                        "Monsters": [
+                            {
+                                "ID": 40202,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 60102,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 60103,
+                                "Num": 1
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 5,
+                        "Monsters": [
+                            {
+                                "ID": 40201,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 60102,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 60103,
+                                "Num": 1
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 52104,
+                                "Num": 2
+                            },
+                            {
+                                "ID": 53101,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 53102,
+                                "Num": 1
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 10207,
+                                "Num": 2
+                            },
+                            {
+                                "ID": 50106,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 50104,
+                                "Num": 1
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 3,
+                        "Monsters": [
+                            {
+                                "ID": 10202,
+                                "Num": 2
+                            },
+                            {
+                                "ID": 50105,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 50103,
+                                "Num": 1
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 4,
+                        "Monsters": [
+                            {
+                                "ID": 10207,
+                                "Num": 2
+                            },
+                            {
+                                "ID": 50106,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 50104,
+                                "Num": 1
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 5,
+                        "Monsters": [
+                            {
+                                "ID": 10202,
+                                "Num": 2
+                            },
+                            {
+                                "ID": 50105,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 50103,
+                                "Num": 1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Name": "12-3",
+                "Level": 100,
+                "GoalType": 0,
+                "GoalParam": 3,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        19
+                    ]
+                },
+                "Upper": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 40659,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 61601,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 61602,
+                                "Num": 1
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 40608,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 61602,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 61603,
+                                "Num": 1
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 3,
+                        "Monsters": [
+                            {
+                                "ID": 40610,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 61603,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 61601,
+                                "Num": 1
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 102,
+                                "Num": 2
+                            },
+                            {
+                                "ID": 606,
+                                "Num": 3
+                            },
+                            {
+                                "ID": 513,
+                                "Num": 3
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 109,
+                                "Num": 2
+                            },
+                            {
+                                "ID": 601,
+                                "Num": 3
+                            },
+                            {
+                                "ID": 513,
+                                "Num": 3
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 3,
+                        "Monsters": [
+                            {
+                                "ID": 115,
+                                "Num": 2
+                            },
+                            {
+                                "ID": 607,
+                                "Num": 3
+                            },
+                            {
+                                "ID": 513,
                                 "Num": 3
                             }
                         ]
