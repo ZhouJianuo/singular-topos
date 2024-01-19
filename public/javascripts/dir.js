@@ -229,28 +229,6 @@ var SR = [
     },
     {
         "Title": {
-            "CH": "模拟宇宙 · 祝福",
-            "EN": "Simulated Universe<br>Blessings"
-        },
-        "Features": [],
-        "Href": {
-            "CH": "/sr/blessing",
-            "EN": "/sr/blessing"
-        }
-    },
-    {
-        "Title": {
-            "CH": "模拟宇宙 · 奇物",
-            "EN": "Simulated Universe<br>Curios"
-        },
-        "Features": [],
-        "Href": {
-            "CH": "/sr/curio",
-            "EN": "/sr/curio"
-        }
-    },
-    {
-        "Title": {
             "CH": "成就",
             "EN": "Achievements"
         },
@@ -269,6 +247,28 @@ var SR = [
         "Href": {
             "CH": "/sr/load",
             "EN": "/sr/load"
+        }
+    },
+    {
+        "Title": {
+            "CH": "模拟宇宙 · 祝福",
+            "EN": "Simulated Universe<br>Blessings"
+        },
+        "Features": [],
+        "Href": {
+            "CH": "/sr/blessing",
+            "EN": "/sr/blessing"
+        }
+    },
+    {
+        "Title": {
+            "CH": "模拟宇宙 · 奇物",
+            "EN": "Simulated Universe<br>Curios"
+        },
+        "Features": [],
+        "Href": {
+            "CH": "/sr/curio",
+            "EN": "/sr/curio"
         }
     },
 ]
