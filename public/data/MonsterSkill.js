@@ -14931,7 +14931,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "初始弱点无效。消耗<color style='color:#f29e38;'>3%生命值上限</color>，进入<color style='color:#f29e38;'>【次级燃烧】</color>状态：解除<color style='color:#f29e38;'>【弱点无效】</color>效果，且速度提升<color style='color:#f29e38;'>50%</color>。此后所有攻击都会消耗自身<color style='color:#f29e38;'>1%生命值上限</color>。",
-            "EN": "Initially has Weakness Protected. Consumes <color style='color:#f29e38;'>3% Max HP</color> to enter the <color style='color:#f29e38;'>Incomplete Combustion</color> state, removes <color style='color:#f29e38;'>Weakness Protected</color> and increases SPD by <color style='color:#f29e38;'>50%</color>. All his subsequent attacks consume <color style='color:#f29e38;'>1% Max HP</color>."
+            "EN": "Initially has Weakness Protected. Consumes <color style='color:#f29e38;'>3% Max HP</color> to enter the <color style='color:#f29e38;'>Secondary Combustion</color> state, removes <color style='color:#f29e38;'>Weakness Protected</color> and increases SPD by <color style='color:#f29e38;'>50%</color>. All his subsequent attacks consume <color style='color:#f29e38;'>1% Max HP</color>."
         },
         "SP": 0,
         "Threat": true
@@ -17568,7 +17568,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "初始弱点无效。消耗<color style='color:#f29e38;'>3%生命值上限</color>，进入<color style='color:#f29e38;'>【次级燃烧】</color>状态：解除<color style='color:#f29e38;'>【弱点无效】</color>效果，且速度提升<color style='color:#f29e38;'>50%</color>。此后所有攻击都会消耗自身<color style='color:#f29e38;'>1%生命值上限</color>。",
-            "EN": "Initially has Weakness Protected. Consumes <color style='color:#f29e38;'>3% Max HP</color> to enter the <color style='color:#f29e38;'>Incomplete Combustion</color> state, removes <color style='color:#f29e38;'>Weakness Protected</color> and increases SPD by <color style='color:#f29e38;'>50%</color>. All his subsequent attacks consume <color style='color:#f29e38;'>1% Max HP</color>."
+            "EN": "Initially has Weakness Protected. Consumes <color style='color:#f29e38;'>3% Max HP</color> to enter the <color style='color:#f29e38;'>Secondary Combustion</color> state, removes <color style='color:#f29e38;'>Weakness Protected</color> and increases SPD by <color style='color:#f29e38;'>50%</color>. All his subsequent attacks consume <color style='color:#f29e38;'>1% Max HP</color>."
         },
         "SP": 0,
         "Threat": true
