@@ -448,6 +448,20 @@ var links = [
     },
     {
         "Name": {
+            "CH": "成就",
+            "EN": "Achievements"
+        },
+        "Link" : "/sr/ach"
+    },
+    {
+        "Name": {
+            "CH": "加载提示",
+            "EN": "Loading Tips"
+        },
+        "Link" : "/sr/load"
+    },
+    {
+        "Name": {
             "CH": "模拟宇宙 · 祝福",
             "EN": "SU Blessings"
         },
@@ -460,20 +474,6 @@ var links = [
         },
         "Link" : "/sr/curio"
     },
-    {
-        "Name": {
-            "CH": "成就",
-            "EN": "Achievements"
-        },
-        "Link" : "/sr/ach"
-    },
-    {
-        "Name": {
-            "CH": "加载提示",
-            "EN": "Loading Tips"
-        },
-        "Link" : "/sr/load"
-    }
 ]
 
 function popLinks(l) {
