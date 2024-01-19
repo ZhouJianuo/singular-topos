@@ -14965,6 +14965,7 @@ var _monsterskill = {
             "EN": "After entering Secondary Combustion, Combusts the area and targets' Skill Points.<br>When consuming any number of Combusted Skill Points <color style='color:#f29e38;'>(excluding Alternative Skill Points)</color>, targets take a fixed <1> Fire DMG, but will additionally deal Fire DMG equal to <color style='color:#f29e38;'>30%</color> of the original DMG.<br>When receiving healing from other characters <color style='color:#f29e38;'>(excluding self and Lightcones)</color>, Healing Bonus is reduced by <color style='color:#f29e38;'>90%</color>."
         },
         "SP": 0,
+        "Elem": "Fire",
         "DMG": [
             1.6
         ]
