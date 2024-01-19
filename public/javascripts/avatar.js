@@ -3086,8 +3086,10 @@ $(function () {
     function popMat(matid) {
         var mat = _MaterialConfig[matid]
         if (!mat) return
+        var hd = mat.Text[lang].indexOf('<br>')
+        if (hd == -1) hd = mat.Text[lang].length
         poplayer({
-            header: mat.Text[lang].substring(0, mat.Text[lang].indexOf('<br>')) + computer_.MiscText.Avatar_Table_Title_Extra[lang],
+            header: mat.Text[lang].substring(0, hd) + computer_.MiscText.Avatar_Table_Title_Extra[lang],
             width: '100%',
             class: 'mat-pop',
             template: {

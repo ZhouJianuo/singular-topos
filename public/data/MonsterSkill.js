@@ -14930,8 +14930,8 @@ var _monsterskill = {
             "EN": "DHGDR: Secondary Combustion"
         },
         "Desc": {
-            "CH": "消耗<color style='color:#f29e38;'>3%生命值上限</color>，进入<color style='color:#f29e38;'>【次级燃烧】</color>并获得<color style='color:#f29e38;'>【弱点无效】</color>效果。进入【次级燃烧】后自身大幅增强，速度提升<color style='color:#f29e38;'>50%</color>，但所有攻击会消耗自身<color style='color:#f29e38;'>1%生命值上限</color>。",
-            "EN": "Consumes <color style='color:#f29e38;'>3% Max HP</color> to enter the <color style='color:#f29e38;'>Incomplete Combustion</color> state and gains <color style='color:#f29e38;'>Weakness Protected</color>. Sam is significantly more powerful in this state, and SPD is increased by <color style='color:#f29e38;'>50%</color>, but all his attacks consume <color style='color:#f29e38;'>1% Max HP</color>."
+            "CH": "初始弱点无效。消耗<color style='color:#f29e38;'>3%生命值上限</color>，进入<color style='color:#f29e38;'>【次级燃烧】</color>状态：解除<color style='color:#f29e38;'>【弱点无效】</color>效果，且速度提升<color style='color:#f29e38;'>50%</color>。此后所有攻击都会消耗自身<color style='color:#f29e38;'>1%生命值上限</color>。",
+            "EN": "Initially has Weakness Protected. Consumes <color style='color:#f29e38;'>3% Max HP</color> to enter the <color style='color:#f29e38;'>Incomplete Combustion</color> state, removes <color style='color:#f29e38;'>Weakness Protected</color> and increases SPD by <color style='color:#f29e38;'>50%</color>. All his subsequent attacks consume <color style='color:#f29e38;'>1% Max HP</color>."
         },
         "SP": 0,
         "Threat": true
@@ -14961,10 +14961,13 @@ var _monsterskill = {
             "EN": "SGE: Molten Core"
         },
         "Desc": {
-            "CH": "进入【次级燃烧】后使场地燃烧，同时燃烧我方的战技点；我方消耗燃烧的战技点时会消耗<color style='color:#f29e38;'>1%生命值上限</color>，同时额外造成等同于原伤害数值的<color style='color:#f29e38;'>30%</color>的火属性伤害，并且接受其他角色的治疗时，生命值回复量降低<color style='color:#f29e38;'>90%</color>。",
-            "EN": "After entering Secondary Combustion, Combusts the area and targets' Skill Points. When consuming Combusted Skill Points, targets lose <color style='color:#f29e38;'>1% Max HP</color> and additionally deal Fire DMG equal to <color style='color:#f29e38;'>30%</color> of the original DMG. When they receive healing from other characters, the amount of HP restored is reduced by <color style='color:#f29e38;'>90%</color>."
+            "CH": "进入【次级燃烧】后使场地燃烧，同时燃烧我方的战技点。<br>我方消耗任意数目的燃烧战技点<color style='color:#f29e38;'>（不包括替代战技点）</color>时，会受到固定的<1>火属性伤害，但会额外造成等同于原伤害数值的<color style='color:#f29e38;'>30%</color>的火属性伤害。<br>我方接受其他角色<color style='color:#f29e38;'>（不包括自身和光锥）</color>的治疗时，治疗加成降低<color style='color:#f29e38;'>90%</color>。",
+            "EN": "After entering Secondary Combustion, Combusts the area and targets' Skill Points.<br>When consuming any number of Combusted Skill Points <color style='color:#f29e38;'>(excluding Alternative Skill Points)</color>, targets take a fixed <1> Fire DMG, but will additionally deal Fire DMG equal to <color style='color:#f29e38;'>30%</color> of the original DMG.<br>When receiving healing from other characters <color style='color:#f29e38;'>(excluding self and Lightcones)</color>, Healing Bonus is reduced by <color style='color:#f29e38;'>90%</color>."
         },
-        "SP": 0
+        "SP": 0,
+        "DMG": [
+            1.6
+        ]
     },
     "302401101": {
         "Key": "Skill01",
@@ -17563,8 +17566,8 @@ var _monsterskill = {
             "EN": "DHGDR: Secondary Combustion"
         },
         "Desc": {
-            "CH": "消耗<color style='color:#f29e38;'>3%生命值上限</color>，进入<color style='color:#f29e38;'>【次级燃烧】</color>并获得<color style='color:#f29e38;'>【弱点无效】</color>效果。进入【次级燃烧】后自身大幅增强，速度提升<color style='color:#f29e38;'>50%</color>，但所有攻击会消耗自身<color style='color:#f29e38;'>1%生命值上限</color>。",
-            "EN": "Consumes <color style='color:#f29e38;'>3% Max HP</color> to enter the <color style='color:#f29e38;'>Incomplete Combustion</color> state and gains <color style='color:#f29e38;'>Weakness Protected</color>. Sam is significantly more powerful in this state, and SPD is increased by <color style='color:#f29e38;'>50%</color>, but all his attacks consume <color style='color:#f29e38;'>1% Max HP</color>."
+            "CH": "初始弱点无效。消耗<color style='color:#f29e38;'>3%生命值上限</color>，进入<color style='color:#f29e38;'>【次级燃烧】</color>状态：解除<color style='color:#f29e38;'>【弱点无效】</color>效果，且速度提升<color style='color:#f29e38;'>50%</color>。此后所有攻击都会消耗自身<color style='color:#f29e38;'>1%生命值上限</color>。",
+            "EN": "Initially has Weakness Protected. Consumes <color style='color:#f29e38;'>3% Max HP</color> to enter the <color style='color:#f29e38;'>Incomplete Combustion</color> state, removes <color style='color:#f29e38;'>Weakness Protected</color> and increases SPD by <color style='color:#f29e38;'>50%</color>. All his subsequent attacks consume <color style='color:#f29e38;'>1% Max HP</color>."
         },
         "SP": 0,
         "Threat": true
@@ -17594,10 +17597,13 @@ var _monsterskill = {
             "EN": "SGE: Molten Core"
         },
         "Desc": {
-            "CH": "进入【次级燃烧】后使场地燃烧，同时燃烧我方的战技点；我方消耗燃烧的战技点时会消耗<color style='color:#f29e38;'>1%生命值上限</color>，同时额外造成等同于原伤害数值的<color style='color:#f29e38;'>30%</color>的火属性伤害，并且接受其他角色的治疗时，生命值回复量降低<color style='color:#f29e38;'>60%</color>。",
-            "EN": "After entering Secondary Combustion, Combusts the area and targets' Skill Points. When consuming Combusted Skill Points, targets lose <color style='color:#f29e38;'>1% Max HP</color> and additionally deal Fire DMG equal to <color style='color:#f29e38;'>30%</color> of the original DMG. When they receive healing from other characters, the amount of HP restored is reduced by <color style='color:#f29e38;'>60%</color>."
+            "CH": "进入【次级燃烧】后使场地燃烧，同时燃烧我方的战技点。<br>我方消耗任意数目的燃烧战技点<color style='color:#f29e38;'>（不包括替代战技点）</color>时，会受到固定的<1>火属性伤害，但会额外造成等同于原伤害数值的<color style='color:#f29e38;'>30%</color>的火属性伤害。<br>我方接受其他角色<color style='color:#f29e38;'>（不包括自身和光锥）</color>的治疗时，治疗加成降低<color style='color:#f29e38;'>70%</color>。",
+            "EN": "After entering Secondary Combustion, Combusts the area and targets' Skill Points.<br>When consuming any number of Combusted Skill Points <color style='color:#f29e38;'>(excluding Alternative Skill Points)</color>, targets take a fixed <1> Fire DMG, but will additionally deal Fire DMG equal to <color style='color:#f29e38;'>30%</color> of the original DMG.<br>When receiving healing from other characters <color style='color:#f29e38;'>(excluding self and Lightcones)</color>, Healing Bonus is reduced by <color style='color:#f29e38;'>70%</color>."
         },
-        "SP": 0
+        "SP": 0,
+        "DMG": [
+            2.4
+        ]
     },
     "202401401": {
         "Key": "Skill01",
@@ -17890,8 +17896,8 @@ var _monsterskill = {
             "EN": "SGE: Molten Engine"
         },
         "Desc": {
-            "CH": "萨姆在【次级燃烧】下拥有<color style='color:#f29e38;'>5</color>点【熔火能量】，被攻击时若此次攻击消耗了燃烧战技点则削减对应数量的【熔火能量】，【熔火能量】耗尽时解除【次级燃烧】。解除【次级燃烧】时，萨姆受到的伤害提高<color style='color:#f29e38;'>50%</color>，并恢复我方所有战技点。",
-            "EN": "While in Secondary Combustion, Sam possesses <color style='color:#f29e38;'>5</color> Molten Energy. A corresponding amount of Molten Energy can be depleted upon being attacked with Skills using Combusted Skill Points. When Molten Energy is depleted, dispels Secondary Combustion. When Secondary Combustion is dispelled, Sam receives <color style='color:#f29e38;'>50%</color> increased DMG, and recovers Skill Points for all allies."
+            "CH": "萨姆在【次级燃烧】下拥有<color style='color:#f29e38;'>5</color>点【熔火能量】。当萨姆被我方消耗了燃烧的战技点<color style='color:#f29e38;'>（包括替代战技点）</color>的攻击命中时，会依据消耗战技点的数目，扣除熔火能量。<br>【熔火能量】耗尽时解除【次级燃烧】，并恢复我方所有战技点。此时萨姆自动被弱点击破，且受到的伤害提高<color style='color:#f29e38;'>50%</color>，持续至韧性恢复。",
+            "EN": "While in Secondary Combustion, Sam possesses <color style='color:#f29e38;'>5</color> Molten Energy. When Sam is hit by characters' skills that consumed Combusted Skill Points <color style='color:#f29e38;'>(including Alternative Skill Points)</color>, Molten Energy will be deducted according to the amount of Skill Points Consumed.<br>When Molten Energy is depleted, all Skill Points are regenerated for allies. Sam will exit Secondary Combustion and be automatically Weakness Broken, during which Sam receives <color style='color:#f29e38;'>50%</color> increased DMG."
         },
         "SP": 0,
         "Status": [
@@ -17908,8 +17914,8 @@ var _monsterskill = {
             "EN": "SGE: Molten Engine"
         },
         "Desc": {
-            "CH": "萨姆在【次级燃烧】下拥有<color style='color:#f29e38;'>5</color>点【熔火能量】，被攻击时若此次攻击消耗了燃烧战技点则削减对应数量的【熔火能量】，【熔火能量】耗尽时解除【次级燃烧】。解除【次级燃烧】时，萨姆受到的伤害提高<color style='color:#f29e38;'>50%</color>，并恢复我方所有战技点。",
-            "EN": "While in Secondary Combustion, Sam possesses <color style='color:#f29e38;'>5</color> Molten Energy. A corresponding amount of Molten Energy can be depleted upon being attacked with Skills using Combusted Skill Points. When Molten Energy is depleted, dispels Secondary Combustion. When Secondary Combustion is dispelled, Sam receives <color style='color:#f29e38;'>50%</color> increased DMG, and recovers Skill Points for all allies."
+            "CH": "萨姆在【次级燃烧】下拥有<color style='color:#f29e38;'>5</color>点【熔火能量】。当萨姆被我方消耗了燃烧的战技点<color style='color:#f29e38;'>（包括替代战技点）</color>的攻击命中时，会依据消耗战技点的数目，扣除熔火能量。<br>【熔火能量】耗尽时解除【次级燃烧】，并恢复我方所有战技点。此时萨姆自动被弱点击破，且受到的伤害提高<color style='color:#f29e38;'>50%</color>，持续至韧性恢复。",
+            "EN": "While in Secondary Combustion, Sam possesses <color style='color:#f29e38;'>5</color> Molten Energy. When Sam is hit by characters' skills that consumed Combusted Skill Points <color style='color:#f29e38;'>(including Alternative Skill Points)</color>, Molten Energy will be deducted according to the amount of Skill Points Consumed.<br>When Molten Energy is depleted, all Skill Points are regenerated for allies. Sam will exit Secondary Combustion and be automatically Weakness Broken, during which Sam receives <color style='color:#f29e38;'>50%</color> increased DMG."
         },
         "SP": 0,
         "Status": [
