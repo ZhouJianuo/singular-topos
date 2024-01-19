@@ -181,7 +181,7 @@ var computer_ = {
             "EN": "Weight & Poise Intro | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
         "Computer_Result_Window_BallIntro": {
-            "CH": "无属白微粒：前台角色恢复<color style='color:#FF0000;'>2</color>元素能量\n有属性微粒：前台同属性角色恢复<color style='color:#FF0000;'>3</color>，不同属性恢复<color style='color:#FF0000;'>1</color>\n\n如果角色在后台，恢复的能量会打折扣：\n4人队后台恢复为原本的<color style='color:#FF0000;'>60%</color>\n3人队后台恢复为原本的<color style='color:#FF0000;'>70%</color>\n2人队后台恢复为原本的<color style='color:#FF0000;'>80%</color>",
+            "CH": "无属白微粒：前台角色恢复<color style='color:#FF0000;'> 2 </color>元素能量\n有属性微粒：前台同属性角色恢复<color style='color:#FF0000;'> 3 </color>，不同属性恢复<color style='color:#FF0000;'> 1 </color>\n\n如果角色在后台，恢复的能量会打折扣：\n4人队后台恢复为原本的<color style='color:#FF0000;'> 60%</color>\n3人队后台恢复为原本的<color style='color:#FF0000;'> 70%</color>\n2人队后台恢复为原本的<color style='color:#FF0000;'> 80%</color>",
             "EN": "White Particle: On-field character gains <color style='color:#FF0000;'>2</color> Energy.\nElemental Particle: On-field character of the same element gains <color style='color:#FF0000;'>3</color> Energy, otherwise only gains <color style='color:#FF0000;'>1</color>.\n\nIf the character is off-field, they only gain a fraction of the original amount:\nOff-field characters in a team of 4 gain <color style='color:#FF0000;'>60%</color>\nOff-field characters in a team of 3 gain <color style='color:#FF0000;'>70%</color>\nOff-field characters in a team of 2 gain <color style='color:#FF0000;'>80%</color>"
         },
         "Computer_Result_Window_WeightEndureIntro": {
@@ -531,16 +531,16 @@ var computer_ = {
             }
         ],
         "Avatar_Data_Ball": {
-            "CH": "元素微粒",
-            "EN": "Particle Generation"
+            "CH": "<color style='color:#dddddd;'>ⓘ</color> 元素微粒",
+            "EN": "<color style='color:#dddddd;'>ⓘ</color> Particle Generation"
         },
         "Avatar_Data_Endure": {
-            "CH": "技能抗打断",
-            "EN": "Interruption Resistance"
+            "CH": "<color style='color:#dddddd;'>ⓘ</color> 技能抗打断",
+            "EN": "<color style='color:#dddddd;'>ⓘ</color> Interruption Resistance"
         },
         "Avatar_Data_WindZone": {
-            "CH": "技能风场",
-            "EN": "Vacuum Vortex"
+            "CH": "<color style='color:#dddddd;'>ⓘ</color> 技能风场",
+            "EN": "<color style='color:#dddddd;'>ⓘ</color> Vacuum Vortex"
         },
         "Avatar_Data_Other": {
             "CH": "妮可少女的研究",
@@ -849,6 +849,18 @@ var computer_ = {
         "Avatar_Norm_Info": {
             "CH": "<br><b>模 = 基础生命值 + 16 x 基础攻击力 + 10 x 基础防御力</b><br>同类角色的模基本相同，类别分为：<br>5★ 近战  >  4★ 近战 A  >  5★ 远程  >  4★ 近战 B > 4★ 远程。<br>有少部分角色不遵循此规律，模比常规高：珊瑚宫心海、夜兰、那维莱特。",
             "EN": "<br><b>Norm = HP + 16 * ATK + 10 * DEF</b><br>Characters in the same category have similar norms.<br>The categories are: 5★ Melee > 4★ Melee A > 5★ Ranged > 4★ Melee B > 4★ Ranged.<br> There are a few characters who do not follow this rule, having exceptionally high norm: Kokomi, Yelan, Neuvillette."
+        },
+        "Ball_TUT": {
+            "CH": "属性微粒：前台同属性角色恢复<color style='color:#FF0000;'> 3 </color>，不同属性恢复<color style='color:#FF0000;'> 1 </color><br><br>如果角色在后台，恢复的能量会打折扣：<br>4人队后台恢复为原本的<color style='color:#FF0000;'> 60%</color><br>3人队后台恢复为原本的<color style='color:#FF0000;'> 70%</color><br>2人队后台恢复为原本的<color style='color:#FF0000;'> 80%</color>",
+            "EN": "White Particle: On-field character gains <color style='color:#FF0000;'>2</color> Energy.<br>Elemental Particle: On-field character of the same element gains <color style='color:#FF0000;'>3</color> Energy, otherwise only gains <color style='color:#FF0000;'>1</color>.<br><br>If the character is off-field, they only gain a fraction of the original amount:<br>Off-field characters in a team of 4 gain <color style='color:#FF0000;'>60%</color><br>Off-field characters in a team of 3 gain <color style='color:#FF0000;'>70%</color><br>Off-field characters in a team of 2 gain <color style='color:#FF0000;'>80%</color>"
+        },
+        "Endure_TUT": {
+            "CH": "所有削韧都会乘上这个系数。<br>这个数越小，抗打断能力越强：1 表示没有抗打断，0 表示不受削韧岿然不动。",
+            "EN": "All incoming poise DMG is multiplied by these numbers.<br>The smaller this number, the more RES it provides: 1 means no effect and 0 means completely uninterruptible."
+        },
+        "Windzone_TUT": {
+            "CH": "风强 = 风场的吸力，越大越强。负数表示向外推。<br><br>衰减 = 吸力随距离下降的程度。风场中心的吸力最强，边缘的吸力最弱。<br><br>边缘最强：如果 ✔ ，则衰减方向反过来，边缘处吸力最强，中心吸力最弱。",
+            "EN": "Strength = Pull strength. The higher this number, the stronger the vortex pulls. Negative means the vortex pushes outward.<br><br>Attenuation = how much the pull strength drops as distance increases. The vortex's pull strength is strongest at the center and weakest at the boundary.<br><br>BS = Boundary Strongest. If this is checked, it means that the vortex's attenuation is reversed. Pull strength is strongest at the boundaries and weakest at the center."
         },
         "Avatar_Sort": [
             {

@@ -1549,7 +1549,7 @@ $(function () {
                                     style: {
                                         color: color0
                                     },
-                                    class: 'a_section_head'
+                                    class: 'a_section_head ml_b'
                                 },
                                 {
                                     div: {
@@ -1589,7 +1589,10 @@ $(function () {
                                     class: 'a_section_content'
                                 },
                             ],
-                            class: 'a_section_small'
+                            class: 'a_section_small',
+                            style: {
+                                position: 'relative'
+                            }
                         },
                         {
                             div: [
@@ -1600,7 +1603,7 @@ $(function () {
                                     style: {
                                         color: color0
                                     },
-                                    class: 'a_section_head'
+                                    class: 'a_section_head ml_e'
                                 },
                                 {
                                     div: {
@@ -1612,7 +1615,7 @@ $(function () {
                                                 },
                                                 {
                                                     td: function (d) {
-                                                        return ((1 - d.data.Endure) * 100).toFixed(0) + '%'
+                                                        return d.data.Endure.toString()
                                                     },
                                                     width: '25%',
                                                     style: {
@@ -1633,7 +1636,10 @@ $(function () {
                                     class: 'a_section_content'
                                 },
                             ],
-                            class: 'a_section_small'
+                            class: 'a_section_small',
+                            style: {
+                                position: 'relative'
+                            }
                         },
                         {
                             div: [
@@ -1644,7 +1650,7 @@ $(function () {
                                     style: {
                                         color: color0
                                     },
-                                    class: 'a_section_head'
+                                    class: 'a_section_head ml_w'
                                 },
                                 {
                                     div: {
@@ -1716,7 +1722,10 @@ $(function () {
                                     class: 'a_section_content'
                                 },
                             ],
-                            class: 'a_section'
+                            class: 'a_section',
+                            style: {
+                                position: 'relative'
+                            }
                         },
                     ]
                 },
@@ -3125,5 +3134,53 @@ $(function () {
             }
         })
     }
+
+    $('body').on('click', '.ml_b', function () {
+        poplayer({
+            header: computer_.MiscText.Avatar_Data_Ball[lang].replace("<color style='color:#dddddd;'>ⓘ</color> ", "") + computer_.MiscText.Avatar_Table_Title_Extra[lang],
+            width: '90%',
+            template: {
+                div: computer_.MiscText.Ball_TUT[lang].replace("\n", "<br>"),
+                style: {
+                    'margin-top': '20px',
+                    'line-height': '2'
+                },
+                class: 'TUT_Text'
+            },
+            class: 'TUT'
+        })
+    })
+
+    $('body').on('click', '.ml_e', function () {
+        poplayer({
+            header: computer_.MiscText.Avatar_Data_Endure[lang].replace("<color style='color:#dddddd;'>ⓘ</color> ", "") + computer_.MiscText.Avatar_Table_Title_Extra[lang],
+            width: '90%',
+            template: {
+                div: computer_.MiscText.Endure_TUT[lang].replace("\n", "<br>"),
+                style: {
+                    'margin-top': '20px',
+                    'line-height': '2'
+                },
+                class: 'TUT_Text'
+            },
+            class: 'TUT'
+        })
+    })
+
+    $('body').on('click', '.ml_w', function () {
+        poplayer({
+            header: computer_.MiscText.Avatar_Data_WindZone[lang].replace("<color style='color:#dddddd;'>ⓘ</color> ", "") + computer_.MiscText.Avatar_Table_Title_Extra[lang],
+            width: '90%',
+            template: {
+                div: computer_.MiscText.Windzone_TUT[lang].replace("\n", "<br>"),
+                style: {
+                    'margin-top': '20px',
+                    'line-height': '2'
+                },
+                class: 'TUT_Text'
+            },
+            class: 'TUT'
+        })
+    })
 
 });

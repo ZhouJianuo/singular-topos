@@ -177,6 +177,10 @@ popbody {
     overflow-x: scroll;
 }
 
+.TUT_Text {
+    font-size: 15px;
+}
+
 .a_section_content span {
     font-size: 15px;
     line-height: 30px;
@@ -583,6 +587,14 @@ tr {
     font-size: 13px;
 }
 
+.ml_b, .ml_e, .ml_w {
+    cursor: pointer;
+}
+
+.TUT popdialog {
+    height: auto;
+}
+
 @media screen and (min-width: 900px) {
     .relic-head tr :nth-child(2) {
         width: 12%;
@@ -660,6 +672,10 @@ tr {
 
     .relic_image {
         width: 100px
+    }
+
+    .TUT_Text {
+        font-size: 16px;
     }
 
     .a_section_content {
@@ -807,6 +823,10 @@ tr {
 
     .relic_image {
         width: 100px
+    }
+
+    .TUT_Text {
+        font-size: 17px;
     }
 
     .a_section_content {

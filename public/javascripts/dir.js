@@ -254,12 +254,7 @@ var SR = [
             "CH": "成就",
             "EN": "Achievements"
         },
-        "Features": [
-            {
-                "CH": "成就合辑、隐藏成就、每版本新增成就",
-                "EN": "Achievement series, hidden achievements, new achievements by version."
-            }
-        ],
+        "Features": [],
         "Href": {
             "CH": "/sr/ach",
             "EN": "/sr/ach"
@@ -270,12 +265,7 @@ var SR = [
             "CH": "加载提示",
             "EN": "Loading Tips"
         },
-        "Features": [
-            {
-                "CH": "每版本新增加载提示",
-                "EN": "Loading tips by version."
-            }
-        ],
+        "Features": [],
         "Href": {
             "CH": "/sr/load",
             "EN": "/sr/load"
