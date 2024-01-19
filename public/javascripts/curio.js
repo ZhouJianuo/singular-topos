@@ -101,7 +101,10 @@ $(function () {
                             },
                             {
                                 p: t.Story[lang],
-                                class: 'story simple'
+                                class: 'story simple',
+                                style: {
+                                    display: ml ? 'none' : ''
+                                }
                             },
                             {
                                 div: '+',

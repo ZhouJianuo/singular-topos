@@ -130,11 +130,17 @@ $(function () {
                             },
                             {
                                 p: conc(t.Desc),
-                                class: 'desc normal'
+                                class: 'desc normal',
+                                style: {
+                                    display: ml ? '' : 'none'
+                                }
                             },
                             {
                                 p: conc(t.SimpleDesc),
-                                class: 'desc simple'
+                                class: 'desc simple',
+                                style: {
+                                    display: ml ? 'none' : ''
+                                }
                             },
                             {
                                 div: 'ⓘ',

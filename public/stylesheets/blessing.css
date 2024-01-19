@@ -49,10 +49,6 @@ schedule {
     font-size: 15px;
 }
 
-.simple {
-    display: none;
-}
-
 .info {
     position: absolute;
     top: 0px;
