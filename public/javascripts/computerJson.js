@@ -852,7 +852,7 @@ var computer_ = {
         },
         "Ball_TUT": {
             "CH": "属性微粒：前台同属性角色恢复<color style='color:#FF0000;'> 3 </color>，不同属性恢复<color style='color:#FF0000;'> 1 </color><br><br>如果角色在后台，恢复的能量会打折扣：<br>4人队后台恢复为原本的<color style='color:#FF0000;'> 60%</color><br>3人队后台恢复为原本的<color style='color:#FF0000;'> 70%</color><br>2人队后台恢复为原本的<color style='color:#FF0000;'> 80%</color>",
-            "EN": "White Particle: On-field character gains <color style='color:#FF0000;'>2</color> Energy.<br>Elemental Particle: On-field character of the same element gains <color style='color:#FF0000;'>3</color> Energy, otherwise only gains <color style='color:#FF0000;'>1</color>.<br><br>If the character is off-field, they only gain a fraction of the original amount:<br>Off-field characters in a team of 4 gain <color style='color:#FF0000;'>60%</color><br>Off-field characters in a team of 3 gain <color style='color:#FF0000;'>70%</color><br>Off-field characters in a team of 2 gain <color style='color:#FF0000;'>80%</color>"
+            "EN": "Elemental Particle: On-field character of the same element gains <color style='color:#FF0000;'>3</color> Energy, otherwise only gains <color style='color:#FF0000;'>1</color>.<br><br>If the character is off-field, they only gain a fraction of the original amount:<br>Off-field characters in a team of 4 gain <color style='color:#FF0000;'>60%</color><br>Off-field characters in a team of 3 gain <color style='color:#FF0000;'>70%</color><br>Off-field characters in a team of 2 gain <color style='color:#FF0000;'>80%</color>"
         },
         "Endure_TUT": {
             "CH": "所有削韧都会乘上这个系数。<br>这个数越小，抗打断能力越强：1 表示没有抗打断，0 表示不受削韧岿然不动。",
