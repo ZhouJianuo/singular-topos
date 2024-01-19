@@ -13252,7 +13252,7 @@ var _monster = [
             "EN": "This ancient relic from the Old World was an automated control unit left behind during the times of the Geomarrow Development Group. Unlike other mindless machines that could only receive instructions, Svarog is capable of complex thoughts.<br>In battle, Svarog summons mechanical arms to grab and control his enemies, delivering devastating attacks."
         },
         "Stats": {
-            "HP": 20.0,
+            "HP": 23.0,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 120.0,
@@ -25296,7 +25296,7 @@ var _monster = [
             }
         ],
         "Rank": "LittleBoss",
-        "Camp": 2,
+        "Camp": 0,
         "Icon": "MonsterIcon/Monster_2024010.png",
         "Figure": "MonsterFigure/Monster_2024010.png"
     },
@@ -25503,11 +25503,11 @@ var _monster = [
         "Key": "Monster_W2_Mecha01_02_Config",
         "Name": {
             "CH": "惊梦剧团的弹簧荷官",
-            "EN": "Dreamjolt Troupe's Birdskull"
+            "EN": "Dreamjolt Troupe's Spring Loader"
         },
         "Desc": {
             "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>本是牌桌上的娱乐道具，失控后仍在舞动着手中的骰子，用粗鲁的方式进行游戏。",
-            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape. Originally a tool for entertainment on the card table, it is still shaking the dice in its hands after losing control, continuing the game in a crude manner."
+            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a tool for entertainment on the card table, it is still shaking the dice in its hands after losing control, continuing the game in a crude manner."
         },
         "Stats": {
             "HP": 1.0,
@@ -25550,7 +25550,7 @@ var _monster = [
         "Key": "Monster_W2_Mecha01_02_Config",
         "Name": {
             "CH": "柯柯娜的善良",
-            "EN": "Karna's Kindness"
+            "EN": "Cocona's Kindness"
         },
         "Desc": {
             "CH": "善良之心，曾相信人人本性良善。",
@@ -25596,11 +25596,11 @@ var _monster = [
         "Key": "Monster_XP_Minion01_04_Config",
         "Name": {
             "CH": "惊梦剧团的舞鸫假面",
-            "EN": "Dreamjolt Troupe's Spring Loader"
+            "EN": "Dreamjolt Troupe's Birdskull"
         },
         "Desc": {
             "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>本是剧场中的演出道具，失控后仍在演绎台上的闹剧，将混乱的舞步带往各处。",
-            "EN": "Service machinery from Penacony's dream that got out of control due to the abnormal changes in the Dreamscape. Originally a prop in the theater, it is still performing the farce on the stage after losing control, bringing cacophonic dance steps to every direction."
+            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a prop in the theater, it is still performing the farce on the stage after losing control, bringing cacophonic dance steps to every direction."
         },
         "Stats": {
             "HP": 1.0,
@@ -26144,7 +26144,7 @@ var _monster = [
             }
         ],
         "Rank": "MinionLv2",
-        "Camp": 7,
+        "Camp": 0,
         "Icon": "MonsterIcon/Monster_3002050.png",
         "Figure": "MonsterFigure/Monster_3002050.png",
         "New": true
@@ -26252,7 +26252,7 @@ var _monster = [
         "Key": "Monster_W3_Dinosaur_00_Config_ActivityTelevision",
         "Name": {
             "CH": "惊梦剧团的十七分熟（投影）",
-            "EN": "Terrors Theatrical Troupe's Beyond Overcooked"
+            "EN": "Dreamjolt Troupe's Beyond Overcooked (Projection)"
         },
         "Desc": {
             "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是烹饪食物的料理机器，失控后仍在喷吐炙烤食材的烈焰，企图将食客一同烧成焦炭。",
@@ -26287,7 +26287,7 @@ var _monster = [
             }
         ],
         "Rank": "Elite",
-        "Camp": 10,
+        "Camp": 0,
         "Icon": "MonsterIcon/Monster_3003010.png",
         "Figure": "MonsterFigure/Monster_3003010.png",
         "Status": [
@@ -26301,7 +26301,7 @@ var _monster = [
         "Key": "Monster_W3_Dinosaur_00_Config_ActivityTelevision",
         "Name": {
             "CH": "惊梦剧团的十七分熟（投影）",
-            "EN": "Terrors Theatrical Troupe's Beyond Overcooked"
+            "EN": "Dreamjolt Troupe's Beyond Overcooked (Projection)"
         },
         "Desc": {
             "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是烹饪食物的料理机器，失控后仍在喷吐炙烤食材的烈焰，企图将食客一同烧成焦炭。",
@@ -26336,7 +26336,7 @@ var _monster = [
             }
         ],
         "Rank": "Elite",
-        "Camp": 10,
+        "Camp": 0,
         "Icon": "MonsterIcon/Monster_3003010.png",
         "Figure": "MonsterFigure/Monster_3003010.png",
         "Status": [
@@ -26442,7 +26442,7 @@ var _monster = [
         "Key": "Monster_W2_Beast02_01_Config_ActivityTelevision",
         "Name": {
             "CH": "惊梦剧团的甜猿泰山（投影）",
-            "EN": "Terrors Theatrical Troupe's Sweet Gorilla"
+            "EN": "Dreamjolt Troupe's Sweet Gorilla (Projection)"
         },
         "Desc": {
             "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是「苏乐达」汽水的运输工，失控后仍在分享背负的美味，向路过的宾客抛掷它的礼物。",
@@ -26487,7 +26487,7 @@ var _monster = [
             }
         ],
         "Rank": "Elite",
-        "Camp": 10,
+        "Camp": 0,
         "Icon": "MonsterIcon/Monster_3003020.png",
         "Figure": "MonsterFigure/Monster_3003020.png",
         "New": true
@@ -26501,7 +26501,7 @@ var _monster = [
         },
         "Desc": {
             "CH": "蕴含特定认知的实体，由忆域中的潜意识碎片堆积而成。<br>注目、回望、审视…在生命的生存行为和对自身生存的领悟中，「视」与「看」的记忆如影随形，最终成为生命本身。",
-            "EN": "A physical entity containing a specific memory. A conglomerate made of the compiled cognition fragments in the Memory Zone. Glances from strangers, cold and emotionless gazes, stares full of enmity... The panic of being on the receiving end of a look turned into a memetic entity, spreading its dangerous glare everywhere it goes."
+            "EN": "An entity infused with a certain cognition, constructed from fragments of subconsciousness in the Memory Zone.<br>Observation, retrospection, inspection... In the pursuit of preservation and existential understanding of the self, the memories of \"seeing\" and \"looking\" go hand-in-hand, eventually becoming an integral part of life itself."
         },
         "Stats": {
             "HP": 1.0,
@@ -26636,11 +26636,11 @@ var _monster = [
         "Key": "Monster_W3_DeathPart_00_Config",
         "Name": {
             "CH": "永眠墓碣",
-            "EN": "Tomb of Eternal Slumber"
+            "EN": "Sombrous Sepulcher"
         },
         "Desc": {
             "CH": "破碎的生命聚作终焉的符号，彼岸的灵魂仍在凝望此岸，眼中倒映忘却与离别的碑文。<br>无辜的灵魂在永眠墓碣中沉睡，消灭永眠墓碣可以唤醒他们。",
-            "EN": "Shattered existences serve as symbols of ultimate closure. Across the ethereal expanse, spirits cast their gaze upon the mortal realm, their eyes reflecting the etchings of oblivion and separation.<br>Innocent souls slumber within the Tomb of Eternal Slumber. Break the tombstone to awaken them."
+            "EN": "Shattered existences serve as symbols of ultimate closure. Across the ethereal expanse, spirits cast their gaze upon the mortal realm, their eyes reflecting the etchings of oblivion and separation.<br>Innocent souls slumber within the Sombrous Sepulcher. Defeat the Tomb to awaken them."
         },
         "Stats": {
             "HP": 2.0,
@@ -26691,11 +26691,11 @@ var _monster = [
         "Key": "Monster_W3_DeathPart_00_Config_Main2",
         "Name": {
             "CH": "永眠墓碣",
-            "EN": "Tomb of Eternal Slumber"
+            "EN": "Sombrous Sepulcher"
         },
         "Desc": {
             "CH": "破碎的生命聚作终焉的符号，彼岸的灵魂仍在凝望此岸，眼中倒映忘却与离别的碑文。<br>无辜的灵魂在永眠墓碣中沉睡，消灭永眠墓碣可以唤醒他们。",
-            "EN": "Shattered existences serve as symbols of ultimate closure. Across the ethereal expanse, spirits cast their gaze upon the mortal realm, their eyes reflecting the etchings of oblivion and separation.<br>Innocent souls slumber within the Tomb of Eternal Slumber. Break the tombstone to awaken them."
+            "EN": "Shattered existences serve as symbols of ultimate closure. Across the ethereal expanse, spirits cast their gaze upon the mortal realm, their eyes reflecting the etchings of oblivion and separation.<br>Innocent souls slumber within the Sombrous Sepulcher. Defeat the Tomb to awaken them."
         },
         "Stats": {
             "HP": 2.0,
@@ -27051,7 +27051,7 @@ var _monster = [
         "Key": "Monster_W3_Death_00_Config",
         "Name": {
             "CH": "忆域迷因「何物朝向死亡」（投影）",
-            "EN": ""
+            "EN": "Memory Zone Meme \"Something Unto Death\" (Projection)"
         },
         "Desc": {
             "CH": "蕴含特定认知的实体，由忆域中的潜意识碎片堆积而成。<br>神秘危险的忆域迷因，被视作梦中不应存在的「死亡」。它的邪影游荡于十二时分，所及之处必有不测之祸，以利刃散布噩耗，以死荫笼罩美梦。",
@@ -27112,7 +27112,7 @@ var _monster = [
             }
         ],
         "Rank": "LittleBoss",
-        "Camp": 11,
+        "Camp": 0,
         "Icon": "MonsterIcon/Monster_3014020.png",
         "Figure": "MonsterFigure/Monster_3014020.png",
         "Status": [
@@ -27823,18 +27823,18 @@ var _monster = [
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 120.0,
-            "Stance": 18.0
+            "Stance": 20.0
         },
         "Weak": [
-            "Ice",
             "Elec",
-            "Quantum"
+            "Quantum",
+            "Imaginary"
         ],
         "RESBase": {
             "Phys": 0.2,
             "Fire": 0.2,
-            "Wind": 0.2,
-            "Imaginary": 0.2
+            "Ice": 0.2,
+            "Wind": 0.2
         },
         "StatusRESBase": 0.3,
         "DebuffRES": {
@@ -27882,7 +27882,7 @@ var _monster = [
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 120.0,
-            "Stance": 18.0
+            "Stance": 20.0
         },
         "Weak": [
             "Ice",
@@ -27936,15 +27936,15 @@ var _monster = [
             "Stance": 18.0
         },
         "Weak": [
-            "Ice",
             "Elec",
-            "Quantum"
+            "Quantum",
+            "Imaginary"
         ],
         "RESBase": {
             "Phys": 0.2,
             "Fire": 0.2,
-            "Wind": 0.2,
-            "Imaginary": 0.2
+            "Ice": 0.2,
+            "Wind": 0.2
         },
         "StatusRESBase": 0.3,
         "DebuffRES": {
@@ -47099,7 +47099,7 @@ var _status = {
         },
         "Modifier": "Monster_W1_Soldier01_00_DefenceRatioDown",
         "Desc": {
-            "CH": "防御力降低<color style='color:#f29e38;'>[MDF_PropertyValue]</color>。",
+            "CH": "防御力降低<color style='color:#f29e38;'> [MDF_PropertyValue] </color>。",
             "EN": "DEF -<color style='color:#f29e38;'>[MDF_PropertyValue]</color>."
         },
         "Type": "Debuff"
@@ -47111,7 +47111,7 @@ var _status = {
         },
         "Modifier": "Monster_W1_Soldier01_03_Buff",
         "Desc": {
-            "CH": "攻击力提高<color style='color:#f29e38;'>[Modifier_AttackAddedRatio]</color>。",
+            "CH": "攻击力提高<color style='color:#f29e38;'> [Modifier_AttackAddedRatio] </color>。",
             "EN": "ATK +<color style='color:#f29e38;'>[Modifier_AttackAddedRatio]</color>."
         },
         "Type": "Buff"
@@ -47185,7 +47185,7 @@ var _status = {
         },
         "Modifier": "Monster_W1_CocoliaP1_00_RL_DamageUp",
         "Desc": {
-            "CH": "造成的伤害提高<color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>，该效果可叠加。",
+            "CH": "造成的伤害提高<color style='color:#f29e38;'> [MDF_DamageUpRatio_PerLayer] </color>，该效果可叠加。",
             "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>. This effect can stack."
         },
         "Type": "Buff",
@@ -47211,7 +47211,7 @@ var _status = {
         },
         "Modifier": "Monster_W1_CocoliaP1_00_RL_Skill05_Buff",
         "Desc": {
-            "CH": "造成的伤害提高<color style='color:#f29e38;'>[ModifierDamageUpValue]</color>。",
+            "CH": "造成的伤害提高<color style='color:#f29e38;'> [ModifierDamageUpValue] </color>。",
             "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[ModifierDamageUpValue]</color>."
         },
         "Type": "Buff"
@@ -47236,7 +47236,7 @@ var _status = {
         },
         "Modifier": "Monster_W1_Gepard_00_RL_DamageUP",
         "Desc": {
-            "CH": "造成的伤害提高<color style='color:#f29e38;'>[MDF_DamageAddedRatio]</color>。",
+            "CH": "造成的伤害提高<color style='color:#f29e38;'> [MDF_DamageAddedRatio] </color>。",
             "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageAddedRatio]</color>."
         },
         "Type": "Buff",
@@ -47348,7 +47348,7 @@ var _status = {
         },
         "Modifier": "W1_Mecha02_AttackBuff",
         "Desc": {
-            "CH": "对我方造成的伤害提高<color style='color:#f29e38;'>[ModifierDamageUpValue]</color>。",
+            "CH": "对我方造成的伤害提高<color style='color:#f29e38;'> [ModifierDamageUpValue] </color>。",
             "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[ModifierDamageUpValue]</color>."
         },
         "Type": "Buff",
@@ -47361,7 +47361,7 @@ var _status = {
         },
         "Modifier": "Monster_W1_Mecha03_00_RL_Skill03_DamageUp",
         "Desc": {
-            "CH": "造成的伤害提高<color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>。该效果可叠加。",
+            "CH": "造成的伤害提高<color style='color:#f29e38;'> [MDF_DamageUpRatio_PerLayer] </color>。该效果可叠加。",
             "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>. This effect can stack."
         },
         "Type": "Buff",
@@ -47386,7 +47386,7 @@ var _status = {
         },
         "Modifier": "W1_Mecha02_ThunderDOT",
         "Desc": {
-            "CH": "一定回合内，每回合开始时受到基于生命上限的物理伤害，最多叠加<color style='color:#f29e38;'>[MDF_MaxLayer]</color>次。",
+            "CH": "一定回合内，每回合开始时受到基于生命上限的物理伤害，最多叠加<color style='color:#f29e38;'> [MDF_MaxLayer] </color>次。",
             "EN": "For a certain number of turns, receive Physical DMG based on Max HP at the beginning of each turn, stacking up to <color style='color:#f29e38;'>[MDF_MaxLayer]</color> time(s)."
         },
         "Type": "Debuff"
@@ -47398,7 +47398,7 @@ var _status = {
         },
         "Modifier": "Monster_W1_Mecha04_00_RL_Skill12_SpeedUp",
         "Desc": {
-            "CH": "速度提高<color style='color:#f29e38;'>[MDF_SpeedAddedRatio_PerLayer]</color>。该效果可叠加。",
+            "CH": "速度提高<color style='color:#f29e38;'> [MDF_SpeedAddedRatio_PerLayer] </color>。该效果可叠加。",
             "EN": "Increases SPD by <color style='color:#f29e38;'>[MDF_SpeedAddedRatio_PerLayer]</color>. This effect can stack."
         },
         "Type": "Buff",
@@ -47411,7 +47411,7 @@ var _status = {
         },
         "Modifier": "Monster_W1_Mecha_Fire_Passive",
         "Desc": {
-            "CH": "造成的伤害提高<color style='color:#f29e38;'>[ModifierCriticalChanceRatio]</color>，最多叠加5层。",
+            "CH": "造成的伤害提高<color style='color:#f29e38;'> [ModifierCriticalChanceRatio] </color>，最多叠加5层。",
             "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[ModifierCriticalChanceRatio]</color>. Stack up to 5 times."
         },
         "Type": "Buff"
@@ -47423,7 +47423,7 @@ var _status = {
         },
         "Modifier": "Monster_W1_Mecha_Fire_Burning",
         "Desc": {
-            "CH": "攻击力提高<color style='color:#f29e38;'>[Modifier_AttackAddedRatio]</color>。速度提高<color style='color:#f29e38;'>[Modifier_SpeedDelta]</color>点。",
+            "CH": "攻击力提高<color style='color:#f29e38;'> [Modifier_AttackAddedRatio] </color>。速度提高<color style='color:#f29e38;'> [Modifier_SpeedDelta] </color>点。",
             "EN": "Increases ATK by <color style='color:#f29e38;'>[Modifier_AttackAddedRatio]</color> and SPD by <color style='color:#f29e38;'>[Modifier_SpeedDelta]</color> pts."
         },
         "Type": "Buff"
@@ -47435,7 +47435,7 @@ var _status = {
         },
         "Modifier": "Monster_W1_Mecha03_01_Frozen",
         "Desc": {
-            "CH": "冰属性抗性降低<color style='color:#f29e38;'>[MDF_IceResistanceRatio_PerLayer]</color>，速度降低<color style='color:#f29e38;'>[MDF_SpeedAddedDelta_PerLayer]</color>，最多叠加<color style='color:#f29e38;'>[MDF_MaxLayer]</color>层。",
+            "CH": "冰属性抗性降低<color style='color:#f29e38;'> [MDF_IceResistanceRatio_PerLayer] </color>，速度降低<color style='color:#f29e38;'> [MDF_SpeedAddedDelta_PerLayer] </color>，最多叠加<color style='color:#f29e38;'> [MDF_MaxLayer] </color>层。",
             "EN": "Reduces Ice RES by <color style='color:#f29e38;'>[MDF_IceResistanceRatio_PerLayer]</color> and SPD by <color style='color:#f29e38;'>[MDF_SpeedAddedDelta_PerLayer]</color>. Can stack up to <color style='color:#f29e38;'>[MDF_MaxLayer]</color> time(s)."
         },
         "Type": "Debuff"
@@ -47447,7 +47447,7 @@ var _status = {
         },
         "Modifier": "Monster_W1_Mecha03_01_Overheat",
         "Desc": {
-            "CH": "防御力降低<color style='color:#f29e38;'>[MDF_DefenceAddedRatio]</color>。",
+            "CH": "防御力降低<color style='color:#f29e38;'> [MDF_DefenceAddedRatio] </color>。",
             "EN": "DEF -<color style='color:#f29e38;'>[MDF_DefenceAddedRatio]</color>."
         },
         "Type": "Debuff"
@@ -47459,7 +47459,7 @@ var _status = {
         },
         "Modifier": "Monster_W1_Mecha03_01_Rage",
         "Desc": {
-            "CH": "攻击力提高<color style='color:#f29e38;'>[MDF_AttackAddedRatio]</color>。",
+            "CH": "攻击力提高<color style='color:#f29e38;'> [MDF_AttackAddedRatio] </color>。",
             "EN": "ATK +<color style='color:#f29e38;'>[MDF_AttackAddedRatio]</color>."
         },
         "Type": "Buff"
@@ -47483,7 +47483,7 @@ var _status = {
         },
         "Modifier": "Monster_W2_Kafka_00_RL_DamageUp",
         "Desc": {
-            "CH": "造成的伤害提高<color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>。该效果可叠加。",
+            "CH": "造成的伤害提高<color style='color:#f29e38;'> [MDF_DamageUpRatio_PerLayer] </color>。该效果可叠加。",
             "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>. This effect can stack."
         },
         "Type": "Buff",
@@ -47520,7 +47520,7 @@ var _status = {
         },
         "Modifier": "MMonster_W2_Yanqing_00_Skill02_UnknownWeakPoint_Core",
         "Desc": {
-            "CH": "彦卿的韧性无法受到伤害且速度提高<color style='color:#f29e38;'>[MDF_SpeedDelta]</color>点。消灭所有的【飞剑】可以解除该效果并对彦卿造成伤害。",
+            "CH": "彦卿的韧性无法受到伤害且速度提高<color style='color:#f29e38;'> [MDF_SpeedDelta] </color>点。消灭所有的【飞剑】可以解除该效果并对彦卿造成伤害。",
             "EN": "Yanqing's Toughness cannot be depleted, and his SPD increases by <color style='color:#f29e38;'>[MDF_SpeedDelta]</color>. Destroy all of Yanqing's Flying Swords to dispel that effect and cause DMG to Yanqing."
         },
         "CanNotDispel": true
@@ -47532,7 +47532,7 @@ var _status = {
         },
         "Modifier": "MMonster_W2_Mecha03_00_Overdrive_On",
         "Desc": {
-            "CH": "金人司阍的韧性无法受到伤害且速度提高<color style='color:#f29e38;'>[MDF_SpeedAddedValue]</color>点，并开启使用技能：戒退和缚束。",
+            "CH": "金人司阍的韧性无法受到伤害且速度提高<color style='color:#f29e38;'> [MDF_SpeedAddedValue] </color>点，并开启使用技能：戒退和缚束。",
             "EN": "The Aurumaton Gatekeeper's Toughness cannot be damaged. Its SPD increases by <color style='color:#f29e38;'>[MDF_SpeedAddedValue]</color> and it activates the abilities Restraint and Enchainment."
         },
         "Type": "Buff",
@@ -47678,7 +47678,7 @@ var _status = {
         },
         "Modifier": "Monster_XP_Minion03_00_Attack",
         "Desc": {
-            "CH": "攻击力提高<color style='color:#f29e38;'>[MDF_AttackAddedRatio]</color>。",
+            "CH": "攻击力提高<color style='color:#f29e38;'> [MDF_AttackAddedRatio] </color>。",
             "EN": "ATK +<color style='color:#f29e38;'>[MDF_AttackAddedRatio]</color>."
         },
         "Type": "Buff"
@@ -47690,7 +47690,7 @@ var _status = {
         },
         "Modifier": "XP_Minion02_00_Attack",
         "Desc": {
-            "CH": "下次行动时施放【颂歌爆发】，对我方目标造成的伤害提高<color style='color:#f29e38;'>[MDF_DamageAddedRatio]</color>。",
+            "CH": "下次行动时施放【颂歌爆发】，对我方目标造成的伤害提高<color style='color:#f29e38;'> [MDF_DamageAddedRatio] </color>。",
             "EN": "Uses Carolburst during the next action and increases DMG dealt to targets by <color style='color:#f29e38;'>[MDF_DamageAddedRatio]</color>."
         },
         "Type": "Buff"
@@ -47811,7 +47811,7 @@ var _status = {
         },
         "Modifier": "Monster_XP_Elite02_00_DebuffEnhanceEffect",
         "Desc": {
-            "CH": "dev_每层使防御力降低<color style='color:#f29e38;'>[MDF_DefenceAddedRatio_PerLayer]</color>，最多叠加<color style='color:#f29e38;'>[MDF_MaxLayer]</color>层",
+            "CH": "dev_每层使防御力降低<color style='color:#f29e38;'> [MDF_DefenceAddedRatio_PerLayer] </color>，最多叠加<color style='color:#f29e38;'> [MDF_MaxLayer] </color>层",
             "EN": ""
         },
         "Type": "Debuff",
@@ -47824,7 +47824,7 @@ var _status = {
         },
         "Modifier": "Monster_XP_Elite02_01_EnergyLayer",
         "Desc": {
-            "CH": "当前拥有<color style='color:#f29e38;'>[ModifierLayers]</color>层【追忆刻度】，每次受到攻击后失去1层【追忆刻度】。",
+            "CH": "当前拥有<color style='color:#f29e38;'> [ModifierLayers] </color>层【追忆刻度】，每次受到攻击后失去1层【追忆刻度】。",
             "EN": "Current stacks of Gauge Recollection: <color style='color:#f29e38;'>[ModifierLayers]</color>. Loses 1 stack of Gauge Recollection after being hit."
         },
         "CanNotDispel": true
@@ -47849,7 +47849,7 @@ var _status = {
         },
         "Modifier": "Monster_AML_Minion02_00_SpeedUp",
         "Desc": {
-            "CH": "速度提高<color style='color:#f29e38;'>[MDF_SpeedAddedRatio_PerLayer]</color>，最多叠加<color style='color:#f29e38;'>[MDF_MaxLayer]</color>层。",
+            "CH": "速度提高<color style='color:#f29e38;'> [MDF_SpeedAddedRatio_PerLayer] </color>，最多叠加<color style='color:#f29e38;'> [MDF_MaxLayer] </color>层。",
             "EN": "Increases SPD by <color style='color:#f29e38;'>[MDF_SpeedAddedRatio_PerLayer]</color>. Can stack up to <color style='color:#f29e38;'>[MDF_MaxLayer]</color> time(s)."
         },
         "Type": "Buff"
@@ -47922,7 +47922,7 @@ var _status = {
         },
         "Modifier": "MMonster_AML_Elite01_01_AttackAdd",
         "Desc": {
-            "CH": "攻击力提高<color style='color:#f29e38;'>[ModifierAttackAddedRatio]</color>，最多叠加<color style='color:#f29e38;'>[ModifierMaxLayer]</color>层。",
+            "CH": "攻击力提高<color style='color:#f29e38;'> [ModifierAttackAddedRatio] </color>，最多叠加<color style='color:#f29e38;'> [ModifierMaxLayer] </color>层。",
             "EN": "Increases ATK by <color style='color:#f29e38;'>[ModifierAttackAddedRatio]</color>, stacking up to <color style='color:#f29e38;'>[ModifierMaxLayer]</color> time(s)."
         },
         "Type": "Buff"
@@ -47947,7 +47947,7 @@ var _status = {
         },
         "Modifier": "MMonster_W0_Boss_00_Part2_AttackUp",
         "Desc": {
-            "CH": "攻击力提高<color style='color:#f29e38;'>[MDF_AttackAddedRatio]</color>，技能得到强化。",
+            "CH": "攻击力提高<color style='color:#f29e38;'> [MDF_AttackAddedRatio] </color>，技能得到强化。",
             "EN": "ATK +<color style='color:#f29e38;'>[MDF_AttackAddedRatio]</color>. Abilities are enhanced."
         },
         "Type": "Buff"
@@ -47997,7 +47997,7 @@ var _status = {
         },
         "Modifier": "Monster_W2_HuanlongPart_00_Heal",
         "Desc": {
-            "CH": "每次行动回复<color style='color:#f29e38;'>[MDF_HealRatio]</color>的生命值。",
+            "CH": "每次行动回复<color style='color:#f29e38;'> [MDF_HealRatio] </color>的生命值。",
             "EN": "Every action taken restores <color style='color:#f29e38;'>[MDF_HealRatio]</color> HP."
         },
         "Type": "Buff"
@@ -48021,7 +48021,7 @@ var _status = {
         },
         "Modifier": "Monster_W2_HuanlongPart_01_Success",
         "Desc": {
-            "CH": "受到的伤害提高<color style='color:#f29e38;'>[MDF_DamageTakenUpRatio_PerLayer]</color>，该效果可叠加。",
+            "CH": "受到的伤害提高<color style='color:#f29e38;'> [MDF_DamageTakenUpRatio_PerLayer] </color>，该效果可叠加。",
             "EN": "Increases DMG received by <color style='color:#f29e38;'>[MDF_DamageTakenUpRatio_PerLayer]</color>. This effect is stackable."
         },
         "Type": "Debuff"
@@ -48045,7 +48045,7 @@ var _status = {
         },
         "Modifier": "MCommon_DefenceRatioDown",
         "Desc": {
-            "CH": "防御力降低<color style='color:#f29e38;'>[MDF_PropertyValue]</color>。",
+            "CH": "防御力降低<color style='color:#f29e38;'> [MDF_PropertyValue] </color>。",
             "EN": "DEF -<color style='color:#f29e38;'>[MDF_PropertyValue]</color>."
         },
         "Type": "Debuff"
@@ -48057,7 +48057,7 @@ var _status = {
         },
         "Modifier": "MCommon_FatigueRatio",
         "Desc": {
-            "CH": "造成的伤害降低<color style='color:#f29e38;'>[MDF_PropertyValue]</color>。",
+            "CH": "造成的伤害降低<color style='color:#f29e38;'> [MDF_PropertyValue] </color>。",
             "EN": "DMG dealt -<color style='color:#f29e38;'>[MDF_PropertyValue]</color>."
         },
         "Type": "Debuff"
@@ -48069,7 +48069,7 @@ var _status = {
         },
         "Modifier": "MCommon_AllDamageTypeTakenRatio",
         "Desc": {
-            "CH": "受到的伤害提高<color style='color:#f29e38;'>[MDF_PropertyValue]</color>。",
+            "CH": "受到的伤害提高<color style='color:#f29e38;'> [MDF_PropertyValue] </color>。",
             "EN": "Increases DMG taken by <color style='color:#f29e38;'>[MDF_PropertyValue]</color>."
         },
         "Type": "Debuff"
@@ -48081,7 +48081,7 @@ var _status = {
         },
         "Modifier": "MCommon_SpeedDown",
         "Desc": {
-            "CH": "速度降低<color style='color:#f29e38;'>[MDF_PropertyValue]</color>。",
+            "CH": "速度降低<color style='color:#f29e38;'> [MDF_PropertyValue] </color>。",
             "EN": "SPD -<color style='color:#f29e38;'>[MDF_PropertyValue]</color>."
         },
         "Type": "Debuff"
@@ -48201,7 +48201,7 @@ var _status = {
         },
         "Modifier": "MCommon_BlackBlood",
         "Desc": {
-            "CH": "可回复的生命上限降低<color style='color:#f29e38;'>[MDF_DirtyHPRatio]</color>。",
+            "CH": "可回复的生命上限降低<color style='color:#f29e38;'> [MDF_DirtyHPRatio] </color>。",
             "EN": "Decreases Maximum Recoverable HP by <color style='color:#f29e38;'>[MDF_DirtyHPRatio]</color>."
         },
         "Type": "Debuff"
@@ -48213,7 +48213,7 @@ var _status = {
         },
         "Modifier": "MMonster_W2_Xuanlu_10_EnergyDrain",
         "Desc": {
-            "CH": "每回合回复等同于自身生命上限<color style='color:#f29e38;'>[MMonster_W2_Xuanlu_10_EnergyDrain_TurnHealRatio]</color>的生命值。",
+            "CH": "每回合回复等同于自身生命上限<color style='color:#f29e38;'> [MMonster_W2_Xuanlu_10_EnergyDrain_TurnHealRatio] </color>的生命值。",
             "EN": "In every turn, restores HP equal to <color style='color:#f29e38;'>[MMonster_W2_Xuanlu_10_EnergyDrain_TurnHealRatio]</color> of the unit's Max HP."
         },
         "Type": "Buff"
@@ -48237,7 +48237,7 @@ var _status = {
         },
         "Modifier": "MMonster_W2_Xuanlu_10_RL_DamageUp",
         "Desc": {
-            "CH": "造成的伤害提高<color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>。该效果可叠加。",
+            "CH": "造成的伤害提高<color style='color:#f29e38;'> [MDF_DamageUpRatio_PerLayer] </color>。该效果可叠加。",
             "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>. This effect is stackable."
         },
         "Type": "Buff",
@@ -48250,7 +48250,7 @@ var _status = {
         },
         "Modifier": "MMonster_W2_Yanqing_00_Skill02_UnknownWeakPoint_Core_RL",
         "Desc": {
-            "CH": "彦卿的韧性无法受到伤害且速度提高<color style='color:#f29e38;'>[MDF_SpeedDelta]</color>点。消灭所有的【飞剑】可以解除该效果并对彦卿造成伤害。",
+            "CH": "彦卿的韧性无法受到伤害且速度提高<color style='color:#f29e38;'> [MDF_SpeedDelta] </color>点。消灭所有的【飞剑】可以解除该效果并对彦卿造成伤害。",
             "EN": "Yanqing's Toughness cannot be depleted, and his SPD increases by <color style='color:#f29e38;'>[MDF_SpeedDelta]</color>. Destroy all of Yanqing's Flying Swords to dispel this effect and cause DMG to Yanqing."
         },
         "CanNotDispel": true
@@ -48274,7 +48274,7 @@ var _status = {
         },
         "Modifier": "MMonster_W2_Yanqing_00_Common_Overdrive",
         "Desc": {
-            "CH": "造成的伤害提高<color style='color:#f29e38;'>[MDF_AllDamageTypeAddedRatio]</color>。该效果可叠加。",
+            "CH": "造成的伤害提高<color style='color:#f29e38;'> [MDF_AllDamageTypeAddedRatio] </color>。该效果可叠加。",
             "EN": "DMG dealt increases by <color style='color:#f29e38;'>[MDF_AllDamageTypeAddedRatio]</color>. This effect can stack."
         },
         "Type": "Buff",
@@ -48335,7 +48335,7 @@ var _status = {
         },
         "Modifier": "Monster_SW_Boss_00_DamageUp",
         "Desc": {
-            "CH": "造成的伤害提高<color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>，该效果可叠加。",
+            "CH": "造成的伤害提高<color style='color:#f29e38;'> [MDF_DamageUpRatio_PerLayer] </color>，该效果可叠加。",
             "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>. This effect is stackable."
         },
         "Type": "Buff",
@@ -48348,7 +48348,7 @@ var _status = {
         },
         "Modifier": "Monster_SW_Boss_00_DamageTakenUp",
         "Desc": {
-            "CH": "受到的伤害提高<color style='color:#f29e38;'>[MDF_DamageTakenUpRatio_PerLayer]</color>，该效果可叠加。",
+            "CH": "受到的伤害提高<color style='color:#f29e38;'> [MDF_DamageTakenUpRatio_PerLayer] </color>，该效果可叠加。",
             "EN": "Increases DMG received by <color style='color:#f29e38;'>[MDF_DamageTakenUpRatio_PerLayer]</color>. This effect is stackable."
         },
         "Type": "Debuff"
@@ -48360,7 +48360,7 @@ var _status = {
         },
         "Modifier": "Monster_SW_Minion01_00_Split",
         "Desc": {
-            "CH": "<color style='color:#f29e38;'>[Modifier_TurnCount]</color>回合后进行繁殖，弱点击破效果恢复的回合无法进行繁殖。",
+            "CH": "<color style='color:#f29e38;'> [Modifier_TurnCount] </color>回合后进行繁殖，弱点击破效果恢复的回合无法进行繁殖。",
             "EN": "Propagate after <color style='color:#f29e38;'>[Modifier_TurnCount]</color> turn(s). Cannot propagate during the turn in which this unit recovers from Weakness Break."
         },
         "CanNotDispel": true
@@ -48384,7 +48384,7 @@ var _status = {
         },
         "Modifier": "Monster_Company_Coin",
         "Desc": {
-            "CH": "星际和平公司雇员的【绩效点】，每层使持有者造成的伤害提高<color style='color:#f29e38;'>[MDF_DamageUpRatio]</color>，最多叠加<color style='color:#f29e38;'>[MaxLayer]</color>层。攻击时消耗所有【绩效点】。在自身弱点被击破或受到致命攻击时可被攻击者夺取。",
+            "CH": "星际和平公司雇员的【绩效点】，每层使持有者造成的伤害提高<color style='color:#f29e38;'> [MDF_DamageUpRatio] </color>，最多叠加<color style='color:#f29e38;'> [MaxLayer] </color>层。攻击时消耗所有【绩效点】。在自身弱点被击破或受到致命攻击时可被攻击者夺取。",
             "EN": "Interastral Peace Corporation's employee Performance Points. Each stack increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageUpRatio]</color>, stacking up to <color style='color:#f29e38;'>[MaxLayer]</color> time(s). All Performance Points are consumed when this unit uses an attack. Performance Points can be seized by the attacker when this unit's Weakness is Broken or this unit receives a killing blow."
         },
         "Type": "Buff"
@@ -48408,7 +48408,7 @@ var _status = {
         },
         "Modifier": "Monster_W2_Mecha01_02_ResistanceDown",
         "Desc": {
-            "CH": "效果抵抗降低<color style='color:#f29e38;'>[MDF_PropertyValue]</color>。",
+            "CH": "效果抵抗降低<color style='color:#f29e38;'> [MDF_PropertyValue] </color>。",
             "EN": "Effect RES reduces by <color style='color:#f29e38;'>[MDF_PropertyValue]</color>."
         },
         "Type": "Debuff"
@@ -48432,7 +48432,7 @@ var _status = {
         },
         "Modifier": "Monster_W2_Mecha03_00_Overdrive_On_RLElite",
         "Desc": {
-            "CH": "金人司阍的韧性无法受到伤害且速度提高<color style='color:#f29e38;'>[MDF_SpeedUpRatio]</color>，并开启使用技能：追摄。",
+            "CH": "金人司阍的韧性无法受到伤害且速度提高<color style='color:#f29e38;'> [MDF_SpeedUpRatio] </color>，并开启使用技能：追摄。",
             "EN": "The Aurumaton Gatekeeper's Toughness cannot be damaged. Its SPD increases by <color style='color:#f29e38;'>[MDF_SpeedUpRatio]</color>, and it activates the ability Track Down."
         },
         "Type": "Buff",
@@ -48457,7 +48457,7 @@ var _status = {
         },
         "Modifier": "Monster_Common_Layer_DamageUP",
         "Desc": {
-            "CH": "造成的伤害提高<color style='color:#f29e38;'>[MDF_DamageAddedRatio]</color>。最多叠加<color style='color:#f29e38;'>[MDF_MaxLayer]</color>层。",
+            "CH": "造成的伤害提高<color style='color:#f29e38;'> [MDF_DamageAddedRatio] </color>。最多叠加<color style='color:#f29e38;'> [MDF_MaxLayer] </color>层。",
             "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageAddedRatio]</color> for up to <color style='color:#f29e38;'>[MDF_MaxLayer]</color> stacks."
         },
         "Type": "Buff"
@@ -48469,7 +48469,7 @@ var _status = {
         },
         "Modifier": "Monster_W2_Beast01_03_LayerCount",
         "Desc": {
-            "CH": "强化技能效果，最多叠加<color style='color:#f29e38;'>[MDF_ShowValue]</color>层。",
+            "CH": "强化技能效果，最多叠加<color style='color:#f29e38;'> [MDF_ShowValue] </color>层。",
             "EN": "Enhances ability effects, stacking up to <color style='color:#f29e38;'>[MDF_ShowValue]</color> times."
         },
         "CanNotDispel": true
@@ -48481,7 +48481,7 @@ var _status = {
         },
         "Modifier": "MMonster_W2_Beast02_00_RLElite_GennkiMark",
         "Desc": {
-            "CH": "已积攒<color style='color:#f29e38;'>[MDF_PropertyValue]</color>层元气。",
+            "CH": "已积攒<color style='color:#f29e38;'> [MDF_PropertyValue] </color>层元气。",
             "EN": "<color style='color:#f29e38;'>[MDF_PropertyValue]</color> stacks of Gusto accumulated."
         },
         "CanNotDispel": true
@@ -48517,7 +48517,7 @@ var _status = {
         },
         "Modifier": "MMonster_Argenti_DamageUP",
         "Desc": {
-            "CH": "造成的伤害提高<color style='color:#f29e38;'>[MDF_ShowValue1]</color>。",
+            "CH": "造成的伤害提高<color style='color:#f29e38;'> [MDF_ShowValue1] </color>。",
             "EN": "DMG dealt increases by <color style='color:#f29e38;'>[MDF_ShowValue1]</color>."
         },
         "Type": "Buff"
@@ -48525,7 +48525,7 @@ var _status = {
     "230140201": {
         "Name": {
             "CH": "梦死",
-            "EN": "Dreaming Till The End"
+            "EN": "Morbid Dream"
         },
         "Modifier": "M_Death_CTRL",
         "Desc": {
@@ -48542,7 +48542,7 @@ var _status = {
         "Modifier": "Modifier_W3_Death_00_ChargeShoot",
         "Desc": {
             "CH": "锁定接下来使用普攻、战技、终结技的2名我方目标。",
-            "EN": "The night falls and the eternal slumber approaches. \"Death\" will lock on to the next 2 characters who either use their Basic Attack, Skill, or Ultimate."
+            "EN": "Locks on to the next 2 characters who either use their Basic ATK, Skill, or Ultimate."
         },
         "CanNotDispel": true
     },
@@ -48554,7 +48554,7 @@ var _status = {
         "Modifier": "Modifier_W3_Death_00_HuntingMode1",
         "Desc": {
             "CH": "已叠加1层【白日西沉】。",
-            "EN": "\"Death\" has gained 1 stack of \"Sunset.\""
+            "EN": "Gained 1 stack of Sunset."
         },
         "CanNotDispel": true
     },
@@ -48565,8 +48565,8 @@ var _status = {
         },
         "Modifier": "Monster_W3_Death_00_AllDamageUp",
         "Desc": {
-            "CH": "造成的伤害提高<color style='color:#f29e38;'>[MDF_ShowValue1]</color>，陷入弱点击破状态后移除。",
-            "EN": "Increases the next attack's DMG by <color style='color:#f29e38;'>[MDF_ShowValue1]</color>. This effect is removed when this unit becomes Weakness Broken."
+            "CH": "造成的伤害提高<color style='color:#f29e38;'> [MDF_ShowValue1] </color>，陷入弱点击破状态后移除。",
+            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_ShowValue1]</color>. This effect is removed when this unit becomes Weakness Broken."
         },
         "Type": "Buff"
     },
@@ -48577,7 +48577,7 @@ var _status = {
         },
         "Modifier": "Monster_W1_Mecha04_00_RL_Phase3Passive",
         "Desc": {
-            "CH": "速度提高<color style='color:#f29e38;'>[MDF_SpeedAddedRatio]</color>。每次施放【协力指令】时使自身速度进一步提高。",
+            "CH": "速度提高<color style='color:#f29e38;'> [MDF_SpeedAddedRatio] </color>。每次施放【协力指令】时使自身速度进一步提高。",
             "EN": "Increases SPD by <color style='color:#f29e38;'>[MDF_SpeedAddedRatio]</color>. SPD increases further every time Teamwork Order is used."
         },
         "Type": "Buff",
@@ -48650,7 +48650,7 @@ var _status = {
         },
         "Modifier": "Monster_W3_Sam_00_Enhance",
         "Desc": {
-            "CH": "攻击时消耗生命值，同时速度提高<color style='color:#f29e38;'>[MDF_SpeedUpRatio]</color>且额外获得一次行动。当前还剩<color style='color:#f29e38;'>[MDF_CurrentPoint]</color>点【熔火能量】退出【次级燃烧】。",
+            "CH": "攻击时消耗生命值，同时速度提高<color style='color:#f29e38;'> [MDF_SpeedUpRatio] </color>且额外获得一次行动。当前还剩<color style='color:#f29e38;'> [MDF_CurrentPoint] </color>点【熔火能量】退出【次级燃烧】。",
             "EN": "All attacks consume HP. Increases SPD by <color style='color:#f29e38;'>[MDF_SpeedUpRatio]</color> and gains an additional action. When only <color style='color:#f29e38;'>[MDF_CurrentPoint]</color> points of Molten Energy remain, the Secondary Combustion state expires."
         },
         "CanNotDispel": true
@@ -48674,7 +48674,7 @@ var _status = {
         },
         "Modifier": "Monster_W3_Sam_00_BurningBP",
         "Desc": {
-            "CH": "我方消耗燃烧的战技点时消耗生命值，同时额外造成等同于原伤害<color style='color:#f29e38;'>[MDF_DamageUpRatio]</color>的固定数值火属性伤害，并且接受其他角色的治疗时，生命值回复量大幅降低。",
+            "CH": "我方消耗燃烧的战技点时消耗生命值，同时额外造成等同于原伤害<color style='color:#f29e38;'> [MDF_DamageUpRatio] </color>的固定数值火属性伤害，并且接受其他角色的治疗时，生命值回复量大幅降低。",
             "EN": "When consuming Combusted Skill Points, the attacking ally loses HP and additionally deals a set amount of Fire DMG equal to <color style='color:#f29e38;'>[MDF_DamageUpRatio]</color> of the original DMG. When they receive healing from other characters, the amount of HP restored is massively reduced."
         },
         "CanNotDispel": true
@@ -48686,7 +48686,7 @@ var _status = {
         },
         "Modifier": "Monster_W3_Sam_00_TakenDamage",
         "Desc": {
-            "CH": "受到的伤害提高<color style='color:#f29e38;'>[MDF_DamageTakenUpRatio_PerLayer]</color>，该效果当萨姆从弱点击破状态恢复时解除。",
+            "CH": "受到的伤害提高<color style='color:#f29e38;'> [MDF_DamageTakenUpRatio_PerLayer] </color>，该效果当萨姆从弱点击破状态恢复时解除。",
             "EN": "Takes <color style='color:#f29e38;'>[MDF_DamageTakenUpRatio_PerLayer]</color> more DMG. This effect expires when Sam recovers from Weakness Break state."
         },
         "Type": "Debuff"

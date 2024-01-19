@@ -9949,7 +9949,7 @@ var _monsterskill = {
     "803301005": {
         "Key": "Skill04",
         "Name": {
-            "CH": "720度考核",
+            "CH": " 720 度考核",
             "EN": "720-Degree Review"
         },
         "Desc": {
@@ -11751,7 +11751,7 @@ var _monsterskill = {
     "700310005": {
         "Key": "Skill04",
         "Name": {
-            "CH": "720度考核",
+            "CH": " 720 度考核",
             "EN": "720-Degree Review"
         },
         "Desc": {
@@ -12757,7 +12757,7 @@ var _monsterskill = {
         "Key": "Skill01",
         "Name": {
             "CH": "邀饮",
-            "EN": "Invitation to Drinks"
+            "EN": "Drink Invite"
         },
         "Desc": {
             "CH": "对指定我方单体造成<1>物理属性伤害。",
@@ -12776,8 +12776,8 @@ var _monsterskill = {
             "EN": "Libation of Sweetness"
         },
         "Desc": {
-            "CH": "受到致命攻击时，使自身相邻的敌方目标速度提高<color style='color:#f29e38;'>30%</color>，并使其陷入裂伤状态。",
-            "EN": "Upon taking fatal DMG, increases adjacent friendly units' SPD by <color style='color:#f29e38;'>30%</color> and inflicts them with Bleed."
+            "CH": "受到致命攻击时，使自身相邻的敌方目标速度提高<color style='color:#f29e38;'>30%</color>，但会对其造成<color style='color:#f29e38;'>1%生命值上限</color>的物理伤害，并使其陷入裂伤状态。",
+            "EN": "Upon taking fatal DMG, increases adjacent friendly units' SPD by <color style='color:#f29e38;'>30%</color>, but will deal <color style='color:#f29e38;'>1% Max HP</color> Physical DMG to them and inflict them with Bleed."
         },
         "SP": 0
     },
@@ -13304,7 +13304,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "进入<color style='color:#f29e38;'>【白日西沉】</color>状态。每当我方施放普攻、战技、终结技时叠加1层，当【白日西沉】叠加至3层时，立即对上一个行动的我方施放<color style='color:#f29e38;'>【已在黄昏失色】</color>。施放过一次【已在黄昏失色】或被弱点击破后解除该状态。",
-            "EN": "Enters the <color style='color:#f29e38;'>Sunset</color> state. Gains 1 stack each time a character takes action. When 3 stacks are gained, immediately uses <color style='color:#f29e38;'>Losing Eventide Light</color> on the last-acting character. This effect is removed after using Losing Eventide Light once or after becoming Weakness Broken."
+            "EN": "Enters the <color style='color:#f29e38;'>Sunset</color> state. Gains 1 stack each time a character uses Basic ATK, Skill, or Ultimate. When 3 stacks are gained, immediately uses <color style='color:#f29e38;'>Losing Eventide Light</color> on the last-acting character. This effect is removed after using Losing Eventide Light once or after becoming Weakness Broken."
         },
         "SP": 0,
         "Threat": true,
@@ -13320,7 +13320,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "立即对上一名施放普攻、战技、终结技的我方目标发动致命攻击，使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。",
-            "EN": "Immediately deals a killing blow to the character that acted last, making them enter <color style='color:#f29e38;'>Dreaming Till The End</color>."
+            "EN": "Immediately launches a killing blow on the last-acting character who used Basic ATK, Skill, or Ultimate, and inflicts <color style='color:#f29e38;'>Morbid Dream</color> on them."
         },
         "SP": 0,
         "Threat": true,
@@ -13352,7 +13352,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "立即对所有被锁定的我方目标发动致命攻击，使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。如果没有被锁定的目标，则随机对2名我方目标发动致命攻击并使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。",
-            "EN": "Immediately deals killing blow to all locked-on targets, making them enter <color style='color:#f29e38;'>Dreaming Till The End</color>. If no targets are being locked on, randomly lock on to two targets."
+            "EN": "Immediately deals killing blow to all locked-on targets, making them enter <color style='color:#f29e38;'>Morbid Dream</color>. If no targets are being locked on, randomly lock on to two targets."
         },
         "SP": 0,
         "Threat": true
@@ -13377,7 +13377,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "每当我方目标陷入<color style='color:#f29e38;'>【梦死】</color>状态时，召唤一个对应的<color style='color:#f29e38;'>【永眠墓碣】</color>；当我方全体陷入【梦死】状态或无法战斗状态时，战斗失败。",
-            "EN": "Whenever a target enters the <color style='color:#f29e38;'>Dreaming Till The End</color> state, summons a corresponding <color style='color:#f29e38;'>Tomb of Eternal Slumber</color>. When all targets enter the Dreaming Till The End state or are knocked down, this battle will be considered a defeat."
+            "EN": "Whenever a target enters the <color style='color:#f29e38;'>Morbid Dream</color> state, summons a corresponding <color style='color:#f29e38;'>Sombrous Sepulcher</color>. When all targets enter the Morbid Dream state or are knocked down, this battle will be considered a defeat."
         },
         "SP": 0
     },
@@ -13745,7 +13745,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "当永眠墓碣受到致命攻击后，对应我方目标将解除<color style='color:#f29e38;'>【梦死】</color>状态，回复<color style='color:#f29e38;'>50%生命值上限</color>和全部能量。",
-            "EN": "After Tomb of Eternal Slumber receives a killing blow, the <color style='color:#f29e38;'>Dreaming Till The End</color> state on the corresponding character will be dispelled, and restores <color style='color:#f29e38;'>50% Max HP</color> and all Energy to this character."
+            "EN": "After Sombrous Sepulcher receives a killing blow, the <color style='color:#f29e38;'>Morbid Dream</color> state on the corresponding character will be dispelled, and restores <color style='color:#f29e38;'>50% Max HP</color> and all Energy to this character."
         },
         "SP": 0
     },
@@ -13757,7 +13757,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "永眠墓碣不会进行行动。",
-            "EN": "Tomb of Eternal Slumber will not take action."
+            "EN": "Sombrous Sepulcher will not take action."
         },
         "SP": 0
     },
@@ -13769,7 +13769,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "永眠墓碣拥有<color style='color:#f29e38;'>5</color>格生命值。每次受到攻击，弱点击破和持续伤害时，都会直接扣除自身1格生命值。",
-            "EN": "Tomb of Eternal Slumber has <color style='color:#f29e38;'>5</color> HP bars. Each time it is attacked, Weakness Broken, or receives DMG from DoT, 1 bar of HP will be depleted."
+            "EN": "Sombrous Sepulcher has <color style='color:#f29e38;'>5</color> HP bars. Each time it is attacked, Weakness Broken, or receives DMG from DoT, 1 bar of HP will be depleted."
         },
         "SP": 0
     },
@@ -13921,7 +13921,7 @@ var _monsterskill = {
         "Key": "SkillP01",
         "Name": {
             "CH": "串台",
-            "EN": "Channel-to-Channel Crosstalk"
+            "EN": "Channel Crossover"
         },
         "Desc": {
             "CH": "初始为【惊吓频道】状态。<br>在受到攻击后，会从【惊喜频道】状态转变为【惊吓频道】状态，或从【惊吓频道】状态转变为【惊喜频道】状态。",
@@ -14458,7 +14458,7 @@ var _monsterskill = {
     "803301105": {
         "Key": "Skill04",
         "Name": {
-            "CH": "720度考核",
+            "CH": " 720 度考核",
             "EN": "720-Degree Review"
         },
         "Desc": {
@@ -14626,7 +14626,7 @@ var _monsterskill = {
         "Key": "Skill01",
         "Name": {
             "CH": "限量赠饮",
-            "EN": "Limited Free Drink"
+            "EN": "Limited Free Drinks"
         },
         "Desc": {
             "CH": "对指定我方单体造成<1>冰属性伤害，如果目标身上拥有护盾，则造成伤害后还会对自身造成<color style='color:#f29e38;'>8%生命值上限</color>的冰属性伤害，并有<color style='color:#f29e38;'>150%</color>基础概率使自身防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
@@ -14642,7 +14642,7 @@ var _monsterskill = {
         "Key": "Skill02",
         "Name": {
             "CH": "无限畅饮",
-            "EN": "Bottomless Free Drink"
+            "EN": "Unlimited Free Drinks"
         },
         "Desc": {
             "CH": "随机对我方单体造成4次<1>冰属性伤害。每次造成伤害后，如果目标身上拥有护盾，则还会对自身造成<color style='color:#f29e38;'>8%生命值上限</color>的冰属性伤害，并有<color style='color:#f29e38;'>150%</color>基础概率使自身防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
@@ -14743,7 +14743,7 @@ var _monsterskill = {
         "Key": "Skill01",
         "Name": {
             "CH": "大力颠勺",
-            "EN": "Vigorous Ladle Swirl"
+            "EN": "Ladle Swirl"
         },
         "Desc": {
             "CH": "对我方单体造成<1>火属性伤害。",
@@ -14867,7 +14867,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "进入<color style='color:#f29e38;'>【守备】</color>状态，弱点未被击破时受到的伤害降低<color style='color:#f29e38;'>60%</color>，被击破时行动额外延后<color style='color:#f29e38;'>75%</color>，被击破后受到的伤害提高<color style='color:#f29e38;'>50%</color>。",
-            "EN": "Enters <color style='color:#f29e38;'>On Guard</color> state, and reduces DMG received by <color style='color:#f29e38;'>60%</color> when not Weakness Broken. Once it is Weakness Broken, action will be delayed by an extra <color style='color:#f29e38;'>75%</color> and increases DMG received by <color style='color:#f29e38;'>50%</color>."
+            "EN": "Enters <color style='color:#f29e38;'>Safeguard</color> state, and reduces DMG received by <color style='color:#f29e38;'>60%</color> when not Weakness Broken. Once it is Weakness Broken, action will be delayed by an extra <color style='color:#f29e38;'>75%</color> and increases DMG received by <color style='color:#f29e38;'>50%</color>."
         },
         "SP": 0,
         "Status": [
@@ -14927,7 +14927,7 @@ var _monsterskill = {
         "Key": "Skill04",
         "Name": {
             "CH": "DHGDR-次级燃烧",
-            "EN": "DHGDR: Incomplete Combustion"
+            "EN": "DHGDR: Secondary Combustion"
         },
         "Desc": {
             "CH": "消耗<color style='color:#f29e38;'>3%生命值上限</color>，进入<color style='color:#f29e38;'>【次级燃烧】</color>并获得<color style='color:#f29e38;'>【弱点无效】</color>效果。进入【次级燃烧】后自身大幅增强，速度提升<color style='color:#f29e38;'>50%</color>，但所有攻击会消耗自身<color style='color:#f29e38;'>1%生命值上限</color>。",
@@ -14950,7 +14950,7 @@ var _monsterskill = {
         "Elem": "Fire",
         "Threat": true,
         "DMG": [
-            3,
+            2.7,
             1.2
         ]
     },
@@ -15268,7 +15268,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "当自身被弱点击破时将会离开战斗。当自身受到我方攻击时，将会被添加此次攻击对应的属性弱点，至多添加2个弱点。",
-            "EN": "When this unit is Weakness Broken, it will leave the battle. When attacked for the first time, a Weakness corresponding to the attack's Type will be implanted."
+            "EN": "When this unit is Weakness Broken, it will leave the battle. When attacked, a Weakness corresponding to the attack's Type will be implanted, up to 2 Weaknesses."
         },
         "SP": 0
     },
@@ -17226,7 +17226,7 @@ var _monsterskill = {
     "803301205": {
         "Key": "Skill04",
         "Name": {
-            "CH": "720度考核",
+            "CH": " 720 度考核",
             "EN": "720-Degree Review"
         },
         "Desc": {
@@ -17305,7 +17305,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "当永眠墓碣受到致命攻击后，对应我方目标将解除<color style='color:#f29e38;'>【梦死】</color>状态，回复<color style='color:#f29e38;'>50%生命值上限</color>和全部能量。",
-            "EN": "After Tomb of Eternal Slumber receives a killing blow, the <color style='color:#f29e38;'>Dreaming Till The End</color> state on the corresponding character will be dispelled, and restores <color style='color:#f29e38;'>50% Max HP</color> and all Energy to this character."
+            "EN": "After Sombrous Sepulcher receives a killing blow, the <color style='color:#f29e38;'>Morbid Dream</color> state on the corresponding character will be dispelled, and restores <color style='color:#f29e38;'>50% Max HP</color> and all Energy to this character."
         },
         "SP": 0
     },
@@ -17317,7 +17317,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "永眠墓碣不会进行行动。",
-            "EN": "Tomb of Eternal Slumber will not take action."
+            "EN": "Sombrous Sepulcher will not take action."
         },
         "SP": 0
     },
@@ -17329,7 +17329,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "永眠墓碣拥有<color style='color:#f29e38;'>5</color>格生命值。每次受到攻击，弱点击破和持续伤害时，都会直接扣除自身1格生命值。",
-            "EN": "Tomb of Eternal Slumber has <color style='color:#f29e38;'>5</color> HP bars. Each time it is attacked, Weakness Broken, or receives DMG from DoT, 1 bar of HP will be depleted."
+            "EN": "Sombrous Sepulcher has <color style='color:#f29e38;'>5</color> HP bars. Each time it is attacked, Weakness Broken, or receives DMG from DoT, 1 bar of HP will be depleted."
         },
         "SP": 0
     },
@@ -17350,7 +17350,7 @@ var _monsterskill = {
         "Key": "Skill01",
         "Name": {
             "CH": "大力颠勺",
-            "EN": "Vigorous Ladle Swirl"
+            "EN": "Ladle Swirl"
         },
         "Desc": {
             "CH": "对我方单体造成<1>火属性伤害。",
@@ -17454,7 +17454,7 @@ var _monsterskill = {
         "Key": "Skill01",
         "Name": {
             "CH": "限量赠饮",
-            "EN": "Limited Free Drink"
+            "EN": "Limited Free Drinks"
         },
         "Desc": {
             "CH": "对指定我方单体造成<1>冰属性伤害，并使其行动提前<color style='color:#f29e38;'>50%</color>。<br>如果目标身上拥有护盾，则造成伤害后还会对自身造成<color style='color:#f29e38;'>20%生命值上限</color>的冰属性伤害，并有<color style='color:#f29e38;'>150%</color>基础概率使自身防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
@@ -17470,7 +17470,7 @@ var _monsterskill = {
         "Key": "Skill02",
         "Name": {
             "CH": "无限畅饮",
-            "EN": "Bottomless Free Drink"
+            "EN": "Unlimited Free Drinks"
         },
         "Desc": {
             "CH": "对被监视的我方单体造成<1>冰属性伤害（分4次伤害），并使其行动提前<color style='color:#f29e38;'>50%</color>。<br>每次造成伤害后，如果目标身上拥有护盾，则会对自身造成<color style='color:#f29e38;'>20%生命值上限</color>的冰属性伤害，并对随机敌方造成<color style='color:#f29e38;'>1%生命值上限</color>的冰属性伤害，并有<color style='color:#f29e38;'>150%</color>基础概率使自身防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
@@ -17560,7 +17560,7 @@ var _monsterskill = {
         "Key": "Skill04",
         "Name": {
             "CH": "DHGDR-次级燃烧",
-            "EN": "DHGDR: Incomplete Combustion"
+            "EN": "DHGDR: Secondary Combustion"
         },
         "Desc": {
             "CH": "消耗<color style='color:#f29e38;'>3%生命值上限</color>，进入<color style='color:#f29e38;'>【次级燃烧】</color>并获得<color style='color:#f29e38;'>【弱点无效】</color>效果。进入【次级燃烧】后自身大幅增强，速度提升<color style='color:#f29e38;'>50%</color>，但所有攻击会消耗自身<color style='color:#f29e38;'>1%生命值上限</color>。",
@@ -17577,7 +17577,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "对我方全体造成<1>火属性伤害，并有<color style='color:#f29e38;'>120%</color>基础概率使受到攻击的我方目标陷入<b>灼烧</b>状态。<br>灼烧持续伤害：<2>火属性伤害，持续<color style='color:#f29e38;'>3</color>回合。",
-            "EN": "Deals <1> Fire DMG to all targets and has <color style='color:#f29e38;'>120%</color> Base Chance of inflicting <b>Burn</b>.\bBurn DoT: <2> Fire DMG, lasing <color style='color:#f29e38;'>3</color> turns."
+            "EN": "Deals <1> Fire DMG to all targets and has <color style='color:#f29e38;'>120%</color> Base Chance of inflicting <b>Burn</b>.<br>Burn DoT: <2> Fire DMG, lasing <color style='color:#f29e38;'>3</color> turns."
         },
         "SP": 20.0,
         "Elem": "Fire",
@@ -17746,7 +17746,7 @@ var _monsterskill = {
             "EN": "The Can's Creed"
         },
         "Desc": {
-            "CH": "当自身被弱点击破时将会击破所有除【王下一桶（投影）】外的敌方目标的弱点，同时自身离开战斗。当受到敌方攻击时，将会被添加此次攻击对应的属性弱点。",
+            "CH": "当自身被弱点击破时将会击破所有除【王下一桶（投影）】外的敌方目标的弱点，同时自身离开战斗。当受到我方攻击时，将会被添加此次攻击对应的属性弱点。",
             "EN": "When this unit's Weakness is Broken, Weakness will be Broken for all friendly units except Lordly Trashcan (Projection). At the same time, this unit will exit the battle. When attacked, a Weakness corresponding to the attack's Type will be implanted."
         },
         "SP": 0
@@ -17806,7 +17806,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "进入<color style='color:#f29e38;'>【白日西沉】</color>状态。每当我方施放普攻、战技、终结技时叠加1层，当【白日西沉】叠加至3层时，立即对上一个行动的我方施放<color style='color:#f29e38;'>【已在黄昏失色】</color>。施放过一次【已在黄昏失色】或被弱点击破后解除该状态。",
-            "EN": "Enters the <color style='color:#f29e38;'>Sunset</color> state. Gains 1 stack each time a character takes action. When 3 stacks are gained, immediately uses <color style='color:#f29e38;'>Losing Eventide Light</color> on the last-acting character. This effect is removed after using Losing Eventide Light once or after becoming Weakness Broken."
+            "EN": "Enters the <color style='color:#f29e38;'>Sunset</color> state. Gains 1 stack each time a character uses Basic ATK, Skill, or Ultimate. When 3 stacks are gained, immediately uses <color style='color:#f29e38;'>Losing Eventide Light</color> on the last-acting character. This effect is removed after using Losing Eventide Light once or after becoming Weakness Broken."
         },
         "SP": 0,
         "Threat": true,
@@ -17822,7 +17822,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "立即对上一名施放普攻、战技、终结技的我方目标发动致命攻击，使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。",
-            "EN": "Immediately deals a killing blow to the character that acted last, making them enter <color style='color:#f29e38;'>Dreaming Till The End</color>."
+            "EN": "Immediately deals a killing blow to the character last used Basic ATK, Skill, or Ultimate, making them enter <color style='color:#f29e38;'>Morbid Dream</color>."
         },
         "SP": 0,
         "Threat": true,
@@ -17854,7 +17854,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "立即对所有被锁定的我方目标发动致命攻击，使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。如果没有被锁定的目标，则随机对2名我方目标发动致命攻击并使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。",
-            "EN": "Immediately deals killing blow to all locked-on targets, making them enter <color style='color:#f29e38;'>Dreaming Till The End</color>. If no targets are being locked on, randomly lock on to two targets."
+            "EN": "Immediately deals killing blow to all locked-on targets, making them enter <color style='color:#f29e38;'>Morbid Dream</color>. If no targets are being locked on, randomly lock on to two targets."
         },
         "SP": 0,
         "Threat": true
@@ -17879,7 +17879,7 @@ var _monsterskill = {
         },
         "Desc": {
             "CH": "每当我方目标陷入<color style='color:#f29e38;'>【梦死】</color>状态时，召唤一个对应的<color style='color:#f29e38;'>【永眠墓碣】</color>；当我方全体陷入【梦死】状态或无法战斗状态时，战斗失败。",
-            "EN": "Whenever a target enters the <color style='color:#f29e38;'>Dreaming Till The End</color> state, summons a corresponding <color style='color:#f29e38;'>Tomb of Eternal Slumber</color>. When all targets enter the Dreaming Till The End state or are knocked down, this battle will be considered a defeat."
+            "EN": "Whenever a target enters the <color style='color:#f29e38;'>Morbid Dream</color> state, summons a corresponding <color style='color:#f29e38;'>Sombrous Sepulcher</color>. When all targets enter the Morbid Dream state or are knocked down, this battle will be considered a defeat."
         },
         "SP": 0
     },
@@ -17887,7 +17887,7 @@ var _monsterskill = {
         "Key": "Skill06",
         "Name": {
             "CH": "SGE-熔火引擎",
-            "EN": "SGE-Molten Engine"
+            "EN": "SGE: Molten Engine"
         },
         "Desc": {
             "CH": "萨姆在【次级燃烧】下拥有<color style='color:#f29e38;'>5</color>点【熔火能量】，被攻击时若此次攻击消耗了燃烧战技点则削减对应数量的【熔火能量】，【熔火能量】耗尽时解除【次级燃烧】。解除【次级燃烧】时，萨姆受到的伤害提高<color style='color:#f29e38;'>50%</color>，并恢复我方所有战技点。",
@@ -17905,7 +17905,7 @@ var _monsterskill = {
         "Key": "Skill06",
         "Name": {
             "CH": "SGE-熔火引擎",
-            "EN": "SGE-Molten Engine"
+            "EN": "SGE: Molten Engine"
         },
         "Desc": {
             "CH": "萨姆在【次级燃烧】下拥有<color style='color:#f29e38;'>5</color>点【熔火能量】，被攻击时若此次攻击消耗了燃烧战技点则削减对应数量的【熔火能量】，【熔火能量】耗尽时解除【次级燃烧】。解除【次级燃烧】时，萨姆受到的伤害提高<color style='color:#f29e38;'>50%</color>，并恢复我方所有战技点。",

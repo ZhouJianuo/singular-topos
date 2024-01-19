@@ -13,8 +13,8 @@ var _fiction = [
                 "EN": "Devious Flattery"
             },
             "Desc": {
-                "CH": "我方施放的追加攻击造成伤害后，累计造成的伤害值。当伤害值累计达到100%时，对敌方全体造成固定数值的伤害。",
-                "EN": "The total DMG dealt by follow-up attacks from your characters. When this value reaches 100%, deals a set amount of DMG to all enemies."
+                "CH": "我方施放的追加攻击造成伤害后，累计造成的伤害值。当伤害值累计达到 100% 时，对敌方全体造成固定数值的伤害。",
+                "EN": "Accumulate the amount of DMG dealt by follow-up attacks by allies. When this DMG amount reaches 100%, deal a set amount of DMG to all enemies."
             }
         },
         "Buffs": [
@@ -24,7 +24,7 @@ var _fiction = [
                     "EN": "Blarney"
                 },
                 "Desc": {
-                    "CH": "角色的追加攻击造成的伤害提高<color style='color:#f29e38;'>50.0%</color>，且触发【怪诞逸闻】的效果后会额外再触发1次效果。",
+                    "CH": "角色的追加攻击造成的伤害提高<color style='color:#f29e38;'> 50.0% </color>，且触发【怪诞逸闻】的效果后会额外再触发1次效果。",
                     "EN": "Characters' follow-up attacks deal <color style='color:#f29e38;'>50.0%</color> increased DMG, and this effect will be triggered 1 additional time after triggering Whimsicality's effect."
                 }
             },
@@ -44,8 +44,8 @@ var _fiction = [
                     "EN": "Spiel"
                 },
                 "Desc": {
-                    "CH": "角色施放追加攻击击中敌方目标时，我方全体行动提前<color style='color:#f29e38;'>12.0%</color>。该效果每次攻击只能触发1次。",
-                    "EN": "Whenever a character hits an enemy with a follow-up attack, all allies' actions are Advanced Forward by <color style='color:#f29e38;'>12.0%</color>. This effect can only be triggered once for each attack."
+                    "CH": "角色施放追加攻击击中敌方目标时，我方全体行动提前<color style='color:#f29e38;'> 14.0% </color>。该效果每次攻击只能触发1次。",
+                    "EN": "Whenever a character hits an enemy with a follow-up attack, all allies' actions are Advanced Forward by <color style='color:#f29e38;'>14.0%</color>. This effect can only be triggered once for each attack."
                 }
             }
         ],
@@ -1132,7 +1132,7 @@ var _fiction = [
                 "EN": "Sharp Words, Blunt Knife"
             },
             "Desc": {
-                "CH": "敌方目标受到的持续伤害提高<color style='color:#f29e38;'>50.0%</color>。受到持续伤害的敌方目标造成的伤害降低<color style='color:#f29e38;'>35.0%</color>，被攻击后行动提前<color style='color:#f29e38;'>35.0%</color>。",
+                "CH": "敌方目标受到的持续伤害提高<color style='color:#f29e38;'> 50.0% </color>。受到持续伤害的敌方目标造成的伤害降低<color style='color:#f29e38;'> 35.0% </color>，被攻击后行动提前<color style='color:#f29e38;'> 35.0% </color>。",
                 "EN": "Increases DoT taken by enemy targets by <color style='color:#f29e38;'>50.0%</color>. Enemy targets that receive DoT have their DMG dealt reduced by <color style='color:#f29e38;'>35.0%</color>. After they are attacked, their action is Advanced Forward by <color style='color:#f29e38;'>35.0%</color>."
             }
         },
@@ -1143,7 +1143,7 @@ var _fiction = [
                     "EN": "Libel"
                 },
                 "Desc": {
-                    "CH": "敌方受到持续伤害时，对相邻目标造成原伤害<color style='color:#f29e38;'>60.0%</color>的同属性持续伤害。",
+                    "CH": "敌方受到持续伤害时，对相邻目标造成原伤害<color style='color:#f29e38;'> 60.0% </color>的同属性持续伤害。",
                     "EN": "When an enemy takes DoT, adjacent targets also take DoT of the same type by an amount equal to <color style='color:#f29e38;'>60.0%</color> of the original DMG dealt."
                 }
             },
@@ -1163,7 +1163,7 @@ var _fiction = [
                     "EN": "Defamation"
                 },
                 "Desc": {
-                    "CH": "敌方受到持续伤害时，为当前生命值百分比最低的我方目标恢复等同于生命上限<color style='color:#f29e38;'>10.0%</color>的生命值，并使其行动提前<color style='color:#f29e38;'>8.0%</color>。",
+                    "CH": "敌方受到持续伤害时，为当前生命值百分比最低的我方目标恢复等同于生命上限<color style='color:#f29e38;'> 10.0% </color>的生命值，并使其行动提前<color style='color:#f29e38;'> 8.0% </color>。",
                     "EN": "When an enemy takes DoT, the ally with the lowest HP percentage will heal for <color style='color:#f29e38;'>10.0%</color> of their Max HP, and their action will be Advanced Forward by <color style='color:#f29e38;'>8.0%</color>."
                 }
             }
@@ -2268,7 +2268,7 @@ var _fiction = [
                 "EN": "Word Shatter"
             },
             "Desc": {
-                "CH": "我方施放终结技攻击敌方目标时，为目标附上【爆裂】，最多叠加<color style='color:#f29e38;'>6.0</color>层。目标的回合开始或目标被消灭时，根据【爆裂】层数对该目标及其相邻目标造成固定数值的伤害。",
+                "CH": "我方施放终结技攻击敌方目标时，为目标附上【爆裂】，最多叠加<color style='color:#f29e38;'> 6.0 </color>层。目标的回合开始或目标被消灭时，根据【爆裂】层数对该目标及其相邻目标造成固定数值的伤害。",
                 "EN": "When allies use their Ultimate to attack an enemy target, inflicts the target with Shatter, stacking up to <color style='color:#f29e38;'>6.0</color> time(s). At the start of the target's turn or when the target is defeated, deals a set amount of DMG to the target and adjacent targets based on the number of Shatter stacks."
             }
         },
@@ -2289,7 +2289,7 @@ var _fiction = [
                     "EN": "Excitation"
                 },
                 "Desc": {
-                    "CH": "敌方目标进入战斗时，有<color style='color:#f29e38;'>80.0%</color>概率立刻叠加1层【爆裂】。",
+                    "CH": "敌方目标进入战斗时，有<color style='color:#f29e38;'> 80.0% </color>概率立刻叠加1层【爆裂】。",
                     "EN": "When enemies enter battle, there is a <color style='color:#f29e38;'>80.0%</color> chance to instantly receive 1 stack of Shatter."
                 }
             },
@@ -2299,7 +2299,7 @@ var _fiction = [
                     "EN": "Rupture"
                 },
                 "Desc": {
-                    "CH": "持有【爆裂】的敌方目标被消灭时，使我方全体本场战斗中终结技造成的伤害提高<color style='color:#f29e38;'>15.0%</color>，最多叠加<color style='color:#f29e38;'>20.0</color>次。",
+                    "CH": "持有【爆裂】的敌方目标被消灭时，使我方全体本场战斗中终结技造成的伤害提高<color style='color:#f29e38;'> 15.0% </color>，最多叠加<color style='color:#f29e38;'> 20.0 </color>次。",
                     "EN": "When enemy targets with Shatter are defeated, increases Ultimate DMG for all allies in this battle by <color style='color:#f29e38;'>15.0%</color>, stacking up to <color style='color:#f29e38;'>20.0</color> times."
                 }
             }

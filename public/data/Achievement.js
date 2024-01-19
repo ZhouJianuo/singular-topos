@@ -8722,7 +8722,7 @@ var _achievement = [
             "EN": "This Side of Paradise"
         },
         "Desc": {
-            "CH": "在匹诺康尼激活15.0次界域定锚",
+            "CH": "在匹诺康尼激活 15.0 次界域定锚",
             "EN": "Activate Space Anchors 15.0 times in Penacony."
         },
         "Reward": 5
@@ -8736,7 +8736,7 @@ var _achievement = [
             "EN": "Penacony Dreams"
         },
         "Desc": {
-            "CH": "开启120.0次匹诺康尼战利品",
+            "CH": "开启 120.0 次匹诺康尼战利品",
             "EN": "Open Treasures 120.0 times in Penacony."
         },
         "Reward": 10
@@ -8764,7 +8764,7 @@ var _achievement = [
             "EN": "Chirp?"
         },
         "Desc": {
-            "CH": "帮助1.0只折纸小鸟回到「大树」",
+            "CH": "帮助 1.0 只折纸小鸟回到「大树」",
             "EN": "Help 1.0 Origami Bird(s) return to the Great Tree."
         },
         "Reward": 5
@@ -8778,7 +8778,7 @@ var _achievement = [
             "EN": "Chirp! Chirp!"
         },
         "Desc": {
-            "CH": "帮助60.0只折纸小鸟回到「大树」",
+            "CH": "帮助 60.0 只折纸小鸟回到「大树」",
             "EN": "Help 60.0 Origami Bird(s) return to the Great Tree."
         },
         "Reward": 5
@@ -8792,7 +8792,7 @@ var _achievement = [
             "EN": "Always Sync With Time"
         },
         "Desc": {
-            "CH": "修复15.0个梦境迷钟",
+            "CH": "修复 15.0 个梦境迷钟",
             "EN": "Fix 15.0 Dream Tickers."
         },
         "Reward": 5
@@ -8862,7 +8862,7 @@ var _achievement = [
             "EN": "Gorogoalloon"
         },
         "Desc": {
-            "CH": "通过筑梦拼图获得10.0次奖励",
+            "CH": "通过筑梦拼图获得 10.0 次奖励",
             "EN": "Earn rewards 10.0 times from the Dream Jigsaw."
         },
         "Reward": 5
@@ -9030,7 +9030,7 @@ var _achievement = [
             "EN": "Surprise for Everyone"
         },
         "Desc": {
-            "CH": "单次战斗中，使3.0个连续的惊梦剧团的圆幕先生都进入「惊喜频道」状态",
+            "CH": "单次战斗中，使 3.0 个连续的惊梦剧团的圆幕先生都进入「惊喜频道」状态",
             "EN": "Switch 3.0 Dreamjolt Troupe's Mr. Domescreen to the Surprise Channel consecutively in a single battle"
         },
         "Reward": 5
@@ -9059,7 +9059,7 @@ var _achievement = [
         },
         "Desc": {
             "CH": "黑天鹅施放秘技「取此真相，弃舍表征」进入战斗时，累计使敌方目标陷入大于等于20.0层「奥迹」",
-            "EN": "Inflict at least 20.0 stacks of Sacrament on enemies when Black Swan uses her Technique \"From Façade to Vérité\" and enters a battle"
+            "EN": "Inflict at least 20.0 stacks of Arcana on enemies when Black Swan uses her Technique \"From Façade to Vérité\" and enters a battle"
         },
         "Reward": 5
     },
@@ -9194,7 +9194,7 @@ var _achievement = [
         "Ver": 2.0,
         "Series": 4,
         "Name": {
-            "CH": "警戒度100%",
+            "CH": "警戒度 100% ",
             "EN": "100% Alertness"
         },
         "Desc": {
@@ -9408,7 +9408,7 @@ var _achievement = [
             "EN": "Learning in Sleep"
         },
         "Desc": {
-            "CH": "收集15.0件来自匹诺康尼的阅读物",
+            "CH": "收集 15.0 件来自匹诺康尼的阅读物",
             "EN": "Collect 15.0 readable items in Penacony"
         },
         "Reward": 5
@@ -9702,7 +9702,7 @@ var _achievement = [
             "EN": "The Interpretation of Dreams"
         },
         "Desc": {
-            "CH": "通过窥梦电话探视7.0个人的梦境",
+            "CH": "通过窥梦电话探视 7.0 个人的梦境",
             "EN": "Peek into 7.0 people's dreams through the Dreampeek Call"
         },
         "Reward": 5

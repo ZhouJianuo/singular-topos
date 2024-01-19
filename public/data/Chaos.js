@@ -13,8 +13,8 @@ var _chaos = [
                 "EN": "Memory Turbulence"
             },
             "Desc": {
-                "CH": "每个波次或轮开始时，召唤1只扑满到场上，该扑满受到的普攻和持续伤害提高<color style='color:#f29e38;'>200.0%</color>。\n在消灭扑满后，若敌方目标处于<color style='color:#f29e38;'>裂伤</color>、<color style='color:#f29e38;'>触电</color>、<color style='color:#f29e38;'>灼烧</color>或<color style='color:#f29e38;'>风化</color>状态，使其当前承受的对应状态立即产生相当于原伤害<color style='color:#f29e38;'>100.0%</color>的伤害，并对敌方全体大概率施加裂伤、触电、灼烧、风化状态，持续<color style='color:#f29e38;'>3.0</color>回合。",
-                "EN": "Summons a Trotter at the beginning of each wave or each cycle. The Trotter takes <color style='color:#f29e38;'>200.0%</color> increased DMG from Basic ATKs and DoT effects.\nWhen the Trotter is defeated, if any enemies are in <color style='color:#f29e38;'>Bleed</color>, <color style='color:#f29e38;'>Shock</color>, <color style='color:#f29e38;'>Burn</color>, or <color style='color:#f29e38;'>Wind Shear</color> state, immediately deals DMG equal to <color style='color:#f29e38;'>100.0%</color> of the original DoT effect to them, with a high chance to inflict Bleed, Shock, Burn, or Wind Shear on all enemies for <color style='color:#f29e38;'>3.0</color> turn(s)."
+                "CH": "每个波次或轮开始时，召唤1只扑满到场上，该扑满受到的普攻和持续伤害提高<color style='color:#f29e38;'> 200.0% </color>。\n在消灭扑满后，若敌方目标处于<color style='color:#f29e38;'>裂伤</color>、<color style='color:#f29e38;'>触电</color>、<color style='color:#f29e38;'>灼烧</color>或<color style='color:#f29e38;'>风化</color>状态，使其当前承受的对应状态立即产生相当于原伤害<color style='color:#f29e38;'> 50.0% </color>的伤害，并对敌方全体大概率施加裂伤、触电、灼烧、风化状态，持续<color style='color:#f29e38;'> 3.0 </color>回合。",
+                "EN": "Summons a Trotter at the beginning of each wave or each cycle. The Trotter takes <color style='color:#f29e38;'>200.0%</color> increased DMG from Basic ATKs and DoT effects.\nWhen the Trotter is defeated, if any enemies are in <color style='color:#f29e38;'>Bleed</color>, <color style='color:#f29e38;'>Shock</color>, <color style='color:#f29e38;'>Burn</color>, or <color style='color:#f29e38;'>Wind Shear</color> state, immediately deals DMG equal to <color style='color:#f29e38;'>50.0%</color> of the original DoT effect to them, with a high chance to inflict Bleed, Shock, Burn, or Wind Shear on all enemies for <color style='color:#f29e38;'>3.0</color> turn(s)."
             }
         },
         "Floors": [
@@ -33,15 +33,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -151,15 +151,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -253,15 +253,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -371,15 +371,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -488,15 +488,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -602,15 +602,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -720,15 +720,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -822,15 +822,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -940,15 +940,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -1058,15 +1058,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -1177,20 +1177,20 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
-                "HPSingle": 344095,
-                "HPMulti": 201208,
+                "HPSingle": 337534,
+                "HPMulti": 209956,
                 "Upper": [
                     {
                         "Level": 92,
@@ -1252,20 +1252,26 @@ var _chaos = [
                                     "HP": 291606,
                                     "SPD": 227,
                                     "Stance": 10
+                                },
+                                {
+                                    "ID": 3002010,
+                                    "HP": 80192,
+                                    "SPD": 132,
+                                    "Stance": 3
                                 }
                             ],
                             [
                                 {
                                     "ID": 101401009,
-                                    "HP": 583212,
+                                    "HP": 670694,
                                     "SPD": 158,
                                     "Stance": 12
                                 },
                                 {
-                                    "ID": 3003010,
-                                    "HP": 524891,
-                                    "SPD": 132,
-                                    "Stance": 16
+                                    "ID": 8003040,
+                                    "HP": 291606,
+                                    "SPD": 227,
+                                    "Stance": 10
                                 }
                             ]
                         ]
@@ -1279,22 +1285,21 @@ var _chaos = [
                     "Imaginary"
                 ],
                 "ElemLower": [
-                    "Ice",
                     "Elec"
                 ],
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -1374,7 +1379,7 @@ var _chaos = [
                                     "ID": 3024020,
                                     "HP": 1621838,
                                     "SPD": 158,
-                                    "Stance": 18
+                                    "Stance": 20
                                 }
                             ]
                         ]
@@ -1395,7 +1400,7 @@ var _chaos = [
                 "EN": "Memory Turbulence"
             },
             "Desc": {
-                "CH": "我方全体普攻和战技造成的伤害提高<color style='color:#f29e38;'>50.0%</color>，且每消耗1点战技点，为【记忆紊流】增加<color style='color:#f29e38;'>1.0</color>段攻击段数，最多增加<color style='color:#f29e38;'>10.0</color>段。\n每个轮开始时，每段攻击对随机敌方目标造成1次基于目标生命上限的伤害。",
+                "CH": "我方全体普攻和战技造成的伤害提高<color style='color:#f29e38;'> 50.0% </color>，且每消耗1点战技点，为【记忆紊流】增加<color style='color:#f29e38;'> 1.0 </color>段攻击段数，最多增加<color style='color:#f29e38;'> 10.0 </color>段。\n每个轮开始时，每段攻击对随机敌方目标造成1次基于目标生命上限的伤害。",
                 "EN": "All allies' Basic ATKs and Skills deal <color style='color:#f29e38;'>50.0%</color> increased DMG. Whenever a Skill Point is consumed, Memory Turbulence gains <color style='color:#f29e38;'>1.0</color> hit(s) per action, up to a maximum of <color style='color:#f29e38;'>10.0</color>.\nAt the beginning of each Cycle, for each Hit Per Action, Memory Turbulence deals DMG to a random enemy based on the target's Max HP."
             }
         },
@@ -1414,15 +1419,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -1528,15 +1533,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -1635,15 +1640,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -1747,15 +1752,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -1866,15 +1871,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -1985,15 +1990,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -2099,15 +2104,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -2206,15 +2211,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -2318,15 +2323,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -2437,15 +2442,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -2550,27 +2555,26 @@ var _chaos = [
                     "Wind"
                 ],
                 "ElemLower": [
-                    "Ice",
-                    "Elec"
+                    "Imaginary"
                 ],
                 "TurnNum": 30,
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
-                "HPSingle": 448344,
-                "HPMulti": 294522,
+                "HPSingle": 451260,
+                "HPMulti": 297438,
                 "Upper": [
                     {
                         "Level": 92,
@@ -2597,7 +2601,7 @@ var _chaos = [
                             [
                                 {
                                     "ID": 101401009,
-                                    "HP": 583212,
+                                    "HP": 670694,
                                     "SPD": 158,
                                     "Stance": 12
                                 },
@@ -2622,16 +2626,16 @@ var _chaos = [
                         "Monsters": [
                             [
                                 {
-                                    "ID": 1013010,
-                                    "HP": 379088,
-                                    "SPD": 158,
-                                    "Stance": 14
+                                    "ID": 1013020,
+                                    "HP": 320767,
+                                    "SPD": 190,
+                                    "Stance": 10
                                 },
                                 {
-                                    "ID": 2023030,
+                                    "ID": 8003050,
                                     "HP": 320767,
-                                    "SPD": 158,
-                                    "Stance": 14
+                                    "SPD": 132,
+                                    "Stance": 10
                                 }
                             ],
                             [
@@ -2645,13 +2649,13 @@ var _chaos = [
                                     "ID": 3024020,
                                     "HP": 1458030,
                                     "SPD": 158,
-                                    "Stance": 18
+                                    "Stance": 20
                                 },
                                 {
-                                    "ID": 2023030,
+                                    "ID": 1013020,
                                     "HP": 320767,
-                                    "SPD": 158,
-                                    "Stance": 14
+                                    "SPD": 190,
+                                    "Stance": 10
                                 }
                             ]
                         ]
@@ -2671,15 +2675,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -2781,7 +2785,7 @@ var _chaos = [
                 "EN": "Memory Turbulence"
             },
             "Desc": {
-                "CH": "每个波次或轮开始时，对敌方全体随机施加<color style='color:#f29e38;'>10.0</color>次以下负面效果：攻击力降低<color style='color:#f29e38;'>8.0%</color>、防御力降低<color style='color:#f29e38;'>8.0%</color>、速度降低<color style='color:#f29e38;'>8.0%</color>、效果抵抗降低<color style='color:#f29e38;'>8.0%</color>、受到追加攻击伤害提高<color style='color:#f29e38;'>20.0%</color>。每种效果最多叠加<color style='color:#f29e38;'>3.0</color>层，持续<color style='color:#f29e38;'>3.0</color>回合；并使1名我方「巡猎」或「毁灭」命途目标立即行动。",
+                "CH": "每个波次或轮开始时，对敌方全体随机施加<color style='color:#f29e38;'> 10.0 </color>次以下负面效果：攻击力降低<color style='color:#f29e38;'> 8.0% </color>、防御力降低<color style='color:#f29e38;'> 8.0% </color>、速度降低<color style='color:#f29e38;'> 8.0% </color>、效果抵抗降低<color style='color:#f29e38;'> 8.0% </color>、受到追加攻击伤害提高<color style='color:#f29e38;'> 20.0% </color>。每种效果最多叠加<color style='color:#f29e38;'> 3.0 </color>层，持续<color style='color:#f29e38;'> 3.0 </color>回合；并使1名我方「巡猎」或「毁灭」命途目标立即行动。",
                 "EN": "At the start of every wave or Cycle, randomly applies a debuff for <color style='color:#f29e38;'>10.0</color> time(s), selected from the following: reduce ATK by <color style='color:#f29e38;'>8.0%</color>, reduce DEF by <color style='color:#f29e38;'>8.0%</color>, reduce SPD by <color style='color:#f29e38;'>8.0%</color>, reduce Effect RES by <color style='color:#f29e38;'>8.0%</color>, or increase the received follow-up attack DMG by <color style='color:#f29e38;'>20.0%</color>. Each debuff can stack up to <color style='color:#f29e38;'>3.0</color> time(s) and lasts for <color style='color:#f29e38;'>3.0</color> turn(s). At the same time, enables 1 ally following either the Path of The Hunt or Path of Destruction to immediately take action."
             }
         },
@@ -2800,15 +2804,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -2918,15 +2922,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -3042,15 +3046,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -3148,15 +3152,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -3254,15 +3258,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -3362,15 +3366,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -3480,15 +3484,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -3604,15 +3608,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -3710,15 +3714,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -3816,15 +3820,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -3924,15 +3928,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -4032,15 +4036,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -4136,7 +4140,7 @@ var _chaos = [
                 "EN": "Memory Turbulence"
             },
             "Desc": {
-                "CH": "我方目标击破敌方目标弱点或攻击处于弱点击破状态的敌方目标后，为【记忆紊流】增加<color style='color:#f29e38;'>1.0</color>段攻击段数，最多叠加<color style='color:#f29e38;'>10.0</color>段。\n每个轮开始时，每段攻击对随机敌方目标造成1次基于目标生命上限的伤害。",
+                "CH": "我方目标击破敌方目标弱点或攻击处于弱点击破状态的敌方目标后，为【记忆紊流】增加<color style='color:#f29e38;'> 1.0 </color>段攻击段数，最多叠加<color style='color:#f29e38;'> 10.0 </color>段。\n每个轮开始时，每段攻击对随机敌方目标造成1次基于目标生命上限的伤害。",
                 "EN": "After an ally Breaks enemies' Weaknesses or attacks Weakness Broken enemies, add <color style='color:#f29e38;'>1.0</color> Hit(s) Per Action to Memory Turbulence, up to <color style='color:#f29e38;'>10.0</color> extra hits.\nAt the start of every Cycle, every hit will deal DMG based on the enemy targets' respective Max HP to random enemy targets 1 time."
             }
         },
@@ -4155,15 +4159,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -4286,15 +4290,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -4410,15 +4414,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -4529,15 +4533,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -4654,15 +4658,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -4768,15 +4772,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -4899,15 +4903,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -5023,15 +5027,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -5142,15 +5146,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -5267,15 +5271,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -5381,15 +5385,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -5484,15 +5488,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -5588,7 +5592,7 @@ var _chaos = [
                 "EN": "Memory Turbulence"
             },
             "Desc": {
-                "CH": "我方目标施放终结技时，获得【记忆印记】，该效果最多叠加<color style='color:#f29e38;'>10.0</color>层。\n每个轮开始时，为我方全体恢复基于【记忆印记】层数的能量（每层恢复<color style='color:#f29e38;'>10.0</color>点能量），该效果恢复的能量可以超出目标的能量上限。",
+                "CH": "我方目标施放终结技时，获得【记忆印记】，该效果最多叠加<color style='color:#f29e38;'> 10.0 </color>层。\n每个轮开始时，为我方全体恢复基于【记忆印记】层数的能量（每层恢复<color style='color:#f29e38;'> 10.0 </color>点能量），该效果恢复的能量可以超出目标的能量上限。",
                 "EN": "When an ally uses their Ultimate, obtain Memory Imprint. This effect stacks up to <color style='color:#f29e38;'>10.0</color> time(s). At the start of every Cycle, regenerate Energy to all allies based on the number of Memory Imprint stacks (Each stack regenerates <color style='color:#f29e38;'>10.0</color> Energy). Energy obtained in this way can exceed allies' Max Energy."
             }
         },
@@ -5607,15 +5611,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -5732,15 +5736,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -5846,15 +5850,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -5965,15 +5969,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -6079,15 +6083,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -6193,15 +6197,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -6318,15 +6322,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -6432,15 +6436,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -6551,15 +6555,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -6664,15 +6668,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -6778,7 +6782,7 @@ var _chaos = [
                 "EN": "Memory Turbulence"
             },
             "Desc": {
-                "CH": "我方目标施放战技或终结技进行攻击后，为【记忆紊流】增加<color style='color:#f29e38;'>1.0</color>段攻击段数，最多叠加<color style='color:#f29e38;'>10.0</color>段。\n每个轮开始时，每段攻击对随机敌方目标造成1次基于目标生命上限的伤害。",
+                "CH": "我方目标施放战技或终结技进行攻击后，为【记忆紊流】增加<color style='color:#f29e38;'> 1.0 </color>段攻击段数，最多叠加<color style='color:#f29e38;'> 10.0 </color>段。\n每个轮开始时，每段攻击对随机敌方目标造成1次基于目标生命上限的伤害。",
                 "EN": "After an ally uses their Skill or Ultimate to attack, add <color style='color:#f29e38;'>1.0</color> Hit(s) Per Action to Memory Turbulence, up to <color style='color:#f29e38;'>10.0</color> extra hits.\nAt the start of every Cycle, every hit will deal DMG based on the enemy targets' respective Max HP to random enemy targets 1 time."
             }
         },
@@ -6797,15 +6801,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -6922,15 +6926,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -7036,15 +7040,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -7155,15 +7159,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -7268,15 +7272,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -7382,15 +7386,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -7507,15 +7511,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -7621,15 +7625,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -7740,15 +7744,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -7853,15 +7857,15 @@ var _chaos = [
                 "PerfectTurnNum": 10,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -7973,7 +7977,7 @@ var _chaos = [
                 "EN": "Memory Turbulence"
             },
             "Desc": {
-                "CH": "我方目标施放终结技或发动追加攻击后，对受到攻击的敌方目标造成<color style='color:#f29e38;'>4.0</color>次等同于角色攻击力<color style='color:#f29e38;'>60.0%</color>的附加伤害。",
+                "CH": "我方目标施放终结技或发动追加攻击后，对受到攻击的敌方目标造成<color style='color:#f29e38;'> 4.0 </color>次等同于角色攻击力<color style='color:#f29e38;'> 60.0% </color>的附加伤害。",
                 "EN": "After a character unleashes an Ultimate or a follow-up attack, deals Additional DMG equal to <color style='color:#f29e38;'>60.0%</color> of the attacking character's ATK to the attacked enemy target for <color style='color:#f29e38;'>4.0</color> times."
             }
         },
@@ -7992,15 +7996,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -8113,15 +8117,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -8252,15 +8256,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -8396,15 +8400,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -8541,15 +8545,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -8674,15 +8678,15 @@ var _chaos = [
                 "PerfectTurnNum": 14,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余8轮以上",
+                        "CH": "取得胜利时，剩余 8 轮以上",
                         "EN": "Win with at least 8 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -8785,15 +8789,15 @@ var _chaos = [
                 "PerfectTurnNum": 14,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余8轮以上",
+                        "CH": "取得胜利时，剩余 8 轮以上",
                         "EN": "Win with at least 8 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -8903,15 +8907,15 @@ var _chaos = [
                 "PerfectTurnNum": 14,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余8轮以上",
+                        "CH": "取得胜利时，剩余 8 轮以上",
                         "EN": "Win with at least 8 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -9008,15 +9012,15 @@ var _chaos = [
                 "PerfectTurnNum": 14,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余8轮以上",
+                        "CH": "取得胜利时，剩余 8 轮以上",
                         "EN": "Win with at least 8 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -9114,15 +9118,15 @@ var _chaos = [
                 "PerfectTurnNum": 14,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余8轮以上",
+                        "CH": "取得胜利时，剩余 8 轮以上",
                         "EN": "Win with at least 8 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -9220,7 +9224,7 @@ var _chaos = [
                 "EN": "Memory Turbulence"
             },
             "Desc": {
-                "CH": "每个波次或轮开始时，使一个精英级别及以上的敌方目标获得【记忆印记】。持有【记忆印记】的目标受到伤害时，其他敌方目标受到等同于原伤害<color style='color:#f29e38;'>30.0%</color>的伤害，该效果持续到下个轮开始。",
+                "CH": "每个波次或轮开始时，使一个精英级别及以上的敌方目标获得【记忆印记】。持有【记忆印记】的目标受到伤害时，其他敌方目标受到等同于原伤害<color style='color:#f29e38;'> 30.0% </color>的伤害，该效果持续到下个轮开始。",
                 "EN": "At the start of every Wave or Cycle, apply Memory Imprint to an enemy target of elite level or higher. When targets with Memory Imprint receive DMG, other enemy targets receive DMG equal to <color style='color:#f29e38;'>30.0%</color> of the original DMG. This effect lasts until the start of the next Cycle."
             }
         },
@@ -9239,15 +9243,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -9360,15 +9364,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -9499,15 +9503,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -9643,15 +9647,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -9788,15 +9792,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -9921,15 +9925,15 @@ var _chaos = [
                 "PerfectTurnNum": 14,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余8轮以上",
+                        "CH": "取得胜利时，剩余 8 轮以上",
                         "EN": "Win with at least 8 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -10032,15 +10036,15 @@ var _chaos = [
                 "PerfectTurnNum": 14,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余8轮以上",
+                        "CH": "取得胜利时，剩余 8 轮以上",
                         "EN": "Win with at least 8 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -10150,15 +10154,15 @@ var _chaos = [
                 "PerfectTurnNum": 14,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余8轮以上",
+                        "CH": "取得胜利时，剩余 8 轮以上",
                         "EN": "Win with at least 8 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -10255,15 +10259,15 @@ var _chaos = [
                 "PerfectTurnNum": 14,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余8轮以上",
+                        "CH": "取得胜利时，剩余 8 轮以上",
                         "EN": "Win with at least 8 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -10361,15 +10365,15 @@ var _chaos = [
                 "PerfectTurnNum": 14,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余8轮以上",
+                        "CH": "取得胜利时，剩余 8 轮以上",
                         "EN": "Win with at least 8 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -10467,7 +10471,7 @@ var _chaos = [
                 "EN": "Memory Turbulence"
             },
             "Desc": {
-                "CH": "我方相同目标连续行动时，获得1层【记忆印记】。【记忆印记】的持有者施放攻击后，每层【记忆印记】有<color style='color:#f29e38;'>40.0%</color>固定概率使目标陷入【离神】 状态，持续1回合。拥有【记忆印记】的目标造成的伤害提高<color style='color:#f29e38;'>40.0%</color>，该效果不可以叠加。在行动者改变后，移除场上所有【记忆印记】。\n【离神】：被视为冻结状态，期间无法行动，当该状态解除时，目标受到等同于生命上限<color style='color:#f29e38;'>15.0%</color>的冰属性附加伤害。",
+                "CH": "我方相同目标连续行动时，获得1层【记忆印记】。【记忆印记】的持有者施放攻击后，每层【记忆印记】有<color style='color:#f29e38;'> 40.0% </color>固定概率使目标陷入【离神】 状态，持续1回合。拥有【记忆印记】的目标造成的伤害提高<color style='color:#f29e38;'> 40.0% </color>，该效果不可以叠加。在行动者改变后，移除场上所有【记忆印记】。\n【离神】：被视为冻结状态，期间无法行动，当该状态解除时，目标受到等同于生命上限<color style='color:#f29e38;'> 15.0% </color>的冰属性附加伤害。",
                 "EN": "When the same ally acts consecutively, they receive 1 stack of Memory Imprint. When allies with Memory Imprint attack, every Memory Imprint stack has a <color style='color:#f29e38;'>40.0%</color> fixed chance to inflict the target with Dissociation that lasts for 1 turn. Allies with Memory Imprint deal <color style='color:#f29e38;'>40.0%</color> more DMG. This effect cannot be stacked. When a different ally acts, remove all Memory Imprint stacks on the field.\nDissociation: This state is considered as the Freeze state. Affected units cannot take action. When this state is removed, the affected target receives Additional Ice DMG equal to <color style='color:#f29e38;'>15.0%</color> of their respective Max HP."
             }
         },
@@ -10486,15 +10490,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -10607,15 +10611,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -10746,15 +10750,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -10890,15 +10894,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -11035,15 +11039,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -11168,15 +11172,15 @@ var _chaos = [
                 "PerfectTurnNum": 14,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余8轮以上",
+                        "CH": "取得胜利时，剩余 8 轮以上",
                         "EN": "Win with at least 8 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -11279,15 +11283,15 @@ var _chaos = [
                 "PerfectTurnNum": 14,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余8轮以上",
+                        "CH": "取得胜利时，剩余 8 轮以上",
                         "EN": "Win with at least 8 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -11397,15 +11401,15 @@ var _chaos = [
                 "PerfectTurnNum": 14,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余8轮以上",
+                        "CH": "取得胜利时，剩余 8 轮以上",
                         "EN": "Win with at least 8 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -11502,15 +11506,15 @@ var _chaos = [
                 "PerfectTurnNum": 14,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余8轮以上",
+                        "CH": "取得胜利时，剩余 8 轮以上",
                         "EN": "Win with at least 8 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -11608,15 +11612,15 @@ var _chaos = [
                 "PerfectTurnNum": 14,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余8轮以上",
+                        "CH": "取得胜利时，剩余 8 轮以上",
                         "EN": "Win with at least 8 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -11714,7 +11718,7 @@ var _chaos = [
                 "EN": "Memory Turbulence"
             },
             "Desc": {
-                "CH": "每个波次或轮开始时，召唤1只扑满到场上，该扑满受到的战技和终结技伤害提高<color style='color:#f29e38;'>200.0%</color>。扑满被消灭后，使敌方全体陷入易伤状态，受到的伤害提高<color style='color:#f29e38;'>30.0%</color>，持续<color style='color:#f29e38;'>2.0</color>回合，该效果最多叠加<color style='color:#f29e38;'>2.0</color>层。",
+                "CH": "每个波次或轮开始时，召唤1只扑满到场上，该扑满受到的战技和终结技伤害提高<color style='color:#f29e38;'> 200.0% </color>。扑满被消灭后，使敌方全体陷入易伤状态，受到的伤害提高<color style='color:#f29e38;'> 30.0% </color>，持续<color style='color:#f29e38;'> 2.0 </color>回合，该效果最多叠加<color style='color:#f29e38;'> 2.0 </color>层。",
                 "EN": "Summons a Trotter at the beginning of each Wave and each Cycle. The Trotter takes <color style='color:#f29e38;'>200.0%</color> more DMG from Skills and Ultimates. When defeated, it inflicts Vulnerability on all enemies, making them take <color style='color:#f29e38;'>30.0%</color> more DMG for <color style='color:#f29e38;'>2.0</color> turns. This effect stacks up to <color style='color:#f29e38;'>2.0</color> times."
             }
         },
@@ -11733,15 +11737,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -11866,15 +11870,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -12006,15 +12010,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -12139,15 +12143,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -12276,15 +12280,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -12421,15 +12425,15 @@ var _chaos = [
                 "PerfectTurnNum": 14,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余8轮以上",
+                        "CH": "取得胜利时，剩余 8 轮以上",
                         "EN": "Win with at least 8 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -12550,15 +12554,15 @@ var _chaos = [
                 "PerfectTurnNum": 14,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余8轮以上",
+                        "CH": "取得胜利时，剩余 8 轮以上",
                         "EN": "Win with at least 8 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -12667,15 +12671,15 @@ var _chaos = [
                 "PerfectTurnNum": 14,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余8轮以上",
+                        "CH": "取得胜利时，剩余 8 轮以上",
                         "EN": "Win with at least 8 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -12778,15 +12782,15 @@ var _chaos = [
                 "PerfectTurnNum": 16,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余6轮以上",
+                        "CH": "取得胜利时，剩余 6 轮以上",
                         "EN": "Win with at least 6 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余14轮以上",
+                        "CH": "取得胜利时，剩余 14 轮以上",
                         "EN": "Win with at least 14 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -12883,15 +12887,15 @@ var _chaos = [
                 "PerfectTurnNum": 16,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余6轮以上",
+                        "CH": "取得胜利时，剩余 6 轮以上",
                         "EN": "Win with at least 6 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余14轮以上",
+                        "CH": "取得胜利时，剩余 14 轮以上",
                         "EN": "Win with at least 14 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -13000,7 +13004,7 @@ var _chaos = [
                 "EN": "Memory Turbulence"
             },
             "Desc": {
-                "CH": "每个波次或轮开始时，召唤1只扑满到场上，该扑满受到的普攻和终结技伤害提高<color style='color:#f29e38;'>200.0%</color>。扑满被消灭后，对敌方全体造成1次固定数值的伤害。",
+                "CH": "每个波次或轮开始时，召唤1只扑满到场上，该扑满受到的普攻和终结技伤害提高<color style='color:#f29e38;'> 200.0% </color>。扑满被消灭后，对敌方全体造成1次固定数值的伤害。",
                 "EN": "Summons a Trotter at the beginning of each Wave or each Cycle. The Trotter takes <color style='color:#f29e38;'>200.0%</color> more DMG from Basic ATKs and Ultimates. When defeated, it deals a set amount of DMG to all enemies."
             }
         },
@@ -13019,15 +13023,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -13152,15 +13156,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -13292,15 +13296,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -13425,15 +13429,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -13562,15 +13566,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -13707,15 +13711,15 @@ var _chaos = [
                 "PerfectTurnNum": 14,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余8轮以上",
+                        "CH": "取得胜利时，剩余 8 轮以上",
                         "EN": "Win with at least 8 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -13836,15 +13840,15 @@ var _chaos = [
                 "PerfectTurnNum": 14,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余8轮以上",
+                        "CH": "取得胜利时，剩余 8 轮以上",
                         "EN": "Win with at least 8 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -13953,15 +13957,15 @@ var _chaos = [
                 "PerfectTurnNum": 14,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余8轮以上",
+                        "CH": "取得胜利时，剩余 8 轮以上",
                         "EN": "Win with at least 8 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -14064,15 +14068,15 @@ var _chaos = [
                 "PerfectTurnNum": 16,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余6轮以上",
+                        "CH": "取得胜利时，剩余 6 轮以上",
                         "EN": "Win with at least 6 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余14轮以上",
+                        "CH": "取得胜利时，剩余 14 轮以上",
                         "EN": "Win with at least 14 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -14169,15 +14173,15 @@ var _chaos = [
                 "PerfectTurnNum": 16,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余6轮以上",
+                        "CH": "取得胜利时，剩余 6 轮以上",
                         "EN": "Win with at least 6 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余14轮以上",
+                        "CH": "取得胜利时，剩余 14 轮以上",
                         "EN": "Win with at least 14 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -14286,7 +14290,7 @@ var _chaos = [
                 "EN": "Memory Turbulence"
             },
             "Desc": {
-                "CH": "每个波次或轮开始时，召唤1只扑满到场上，该扑满受到的普攻和持续伤害提高<color style='color:#f29e38;'>200.0%</color>。扑满被消灭后，为我方恢复<color style='color:#f29e38;'>2.0</color>个战技点。",
+                "CH": "每个波次或轮开始时，召唤1只扑满到场上，该扑满受到的普攻和持续伤害提高<color style='color:#f29e38;'> 200.0% </color>。扑满被消灭后，为我方恢复<color style='color:#f29e38;'> 2.0 </color>个战技点。",
                 "EN": "Summons a Trotter at the beginning of each Wave or each Cycle. The Trotter takes <color style='color:#f29e38;'>200.0%</color> more DMG from Basic ATKs and DoT effects. When defeated, recovers <color style='color:#f29e38;'>2.0</color> Skill Points for all allies."
             }
         },
@@ -14305,15 +14309,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -14438,15 +14442,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -14578,15 +14582,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -14711,15 +14715,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -14848,15 +14852,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -14993,15 +14997,15 @@ var _chaos = [
                 "PerfectTurnNum": 14,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余8轮以上",
+                        "CH": "取得胜利时，剩余 8 轮以上",
                         "EN": "Win with at least 8 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -15122,15 +15126,15 @@ var _chaos = [
                 "PerfectTurnNum": 14,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余8轮以上",
+                        "CH": "取得胜利时，剩余 8 轮以上",
                         "EN": "Win with at least 8 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -15239,15 +15243,15 @@ var _chaos = [
                 "PerfectTurnNum": 14,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余8轮以上",
+                        "CH": "取得胜利时，剩余 8 轮以上",
                         "EN": "Win with at least 8 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -15350,15 +15354,15 @@ var _chaos = [
                 "PerfectTurnNum": 16,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余6轮以上",
+                        "CH": "取得胜利时，剩余 6 轮以上",
                         "EN": "Win with at least 6 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余14轮以上",
+                        "CH": "取得胜利时，剩余 14 轮以上",
                         "EN": "Win with at least 14 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -15455,15 +15459,15 @@ var _chaos = [
                 "PerfectTurnNum": 16,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余6轮以上",
+                        "CH": "取得胜利时，剩余 6 轮以上",
                         "EN": "Win with at least 6 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余14轮以上",
+                        "CH": "取得胜利时，剩余 14 轮以上",
                         "EN": "Win with at least 14 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -15572,7 +15576,7 @@ var _chaos = [
                 "EN": "Memory Turbulence"
             },
             "Desc": {
-                "CH": "每个轮开始时，使敌方全体当前承受的所有持续伤害立即产生相当于原伤害<color style='color:#f29e38;'>200.0%</color>的伤害。",
+                "CH": "每个轮开始时，使敌方全体当前承受的所有持续伤害立即产生相当于原伤害<color style='color:#f29e38;'> 200.0% </color>的伤害。",
                 "EN": "At the start of each Cycle, all enemies currently inflicted with DoT are immediately dealt DMG equal to <color style='color:#f29e38;'>200.0%</color> of the original DMG from all their DoT effects."
             }
         },
@@ -15591,15 +15595,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余28轮以上",
+                        "CH": "取得胜利时，剩余 28 轮以上",
                         "EN": "Win with at least 28 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -15731,15 +15735,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余28轮以上",
+                        "CH": "取得胜利时，剩余 28 轮以上",
                         "EN": "Win with at least 28 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -15887,15 +15891,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余28轮以上",
+                        "CH": "取得胜利时，剩余 28 轮以上",
                         "EN": "Win with at least 28 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -16021,15 +16025,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余28轮以上",
+                        "CH": "取得胜利时，剩余 28 轮以上",
                         "EN": "Win with at least 28 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -16176,15 +16180,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余28轮以上",
+                        "CH": "取得胜利时，剩余 28 轮以上",
                         "EN": "Win with at least 28 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -16315,15 +16319,15 @@ var _chaos = [
                 "PerfectTurnNum": 16,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余24轮以上",
+                        "CH": "取得胜利时，剩余 24 轮以上",
                         "EN": "Win with at least 24 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -16453,15 +16457,15 @@ var _chaos = [
                 "PerfectTurnNum": 16,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余24轮以上",
+                        "CH": "取得胜利时，剩余 24 轮以上",
                         "EN": "Win with at least 24 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -16610,15 +16614,15 @@ var _chaos = [
                 "PerfectTurnNum": 16,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余24轮以上",
+                        "CH": "取得胜利时，剩余 24 轮以上",
                         "EN": "Win with at least 24 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -16766,15 +16770,15 @@ var _chaos = [
                 "PerfectTurnNum": 20,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -16929,15 +16933,15 @@ var _chaos = [
                 "PerfectTurnNum": 20,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -17092,7 +17096,7 @@ var _chaos = [
                 "EN": "Memory Turbulence"
             },
             "Desc": {
-                "CH": "我方角色施放追加攻击后，使受到攻击的敌方目标全属性抗性降低<color style='color:#f29e38;'>30.0%</color>，持续<color style='color:#f29e38;'>2.0</color>回合。",
+                "CH": "我方角色施放追加攻击后，使受到攻击的敌方目标全属性抗性降低<color style='color:#f29e38;'> 30.0% </color>，持续<color style='color:#f29e38;'> 2.0 </color>回合。",
                 "EN": "After an ally uses a follow-up attack, the All-Type RES of the attacked enemy target reduces by <color style='color:#f29e38;'>30.0%</color> for <color style='color:#f29e38;'>2.0</color> turn(s)."
             }
         },
@@ -17111,15 +17115,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余28轮以上",
+                        "CH": "取得胜利时，剩余 28 轮以上",
                         "EN": "Win with at least 28 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -17251,15 +17255,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余28轮以上",
+                        "CH": "取得胜利时，剩余 28 轮以上",
                         "EN": "Win with at least 28 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -17407,15 +17411,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余28轮以上",
+                        "CH": "取得胜利时，剩余 28 轮以上",
                         "EN": "Win with at least 28 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -17541,15 +17545,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余28轮以上",
+                        "CH": "取得胜利时，剩余 28 轮以上",
                         "EN": "Win with at least 28 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -17696,15 +17700,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余28轮以上",
+                        "CH": "取得胜利时，剩余 28 轮以上",
                         "EN": "Win with at least 28 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -17835,15 +17839,15 @@ var _chaos = [
                 "PerfectTurnNum": 16,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余24轮以上",
+                        "CH": "取得胜利时，剩余 24 轮以上",
                         "EN": "Win with at least 24 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -17973,15 +17977,15 @@ var _chaos = [
                 "PerfectTurnNum": 16,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余24轮以上",
+                        "CH": "取得胜利时，剩余 24 轮以上",
                         "EN": "Win with at least 24 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -18130,15 +18134,15 @@ var _chaos = [
                 "PerfectTurnNum": 16,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余24轮以上",
+                        "CH": "取得胜利时，剩余 24 轮以上",
                         "EN": "Win with at least 24 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -18286,15 +18290,15 @@ var _chaos = [
                 "PerfectTurnNum": 20,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -18449,15 +18453,15 @@ var _chaos = [
                 "PerfectTurnNum": 20,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -18612,7 +18616,7 @@ var _chaos = [
                 "EN": "Memory Turbulence"
             },
             "Desc": {
-                "CH": "我方目标受到攻击或消耗生命值时，获得1层【记忆印记】。每层【记忆印记】使目标受到的伤害降低<color style='color:#f29e38;'>12.0%</color>，该效果最多叠加<color style='color:#f29e38;'>3.0</color>层。\n每个轮开始时，依据我方目标当前最高的【记忆印记】层数对敌方全体造成固定数值的伤害，并解除我方全体所有的【记忆印记】。",
+                "CH": "我方目标受到攻击或消耗生命值时，获得1层【记忆印记】。每层【记忆印记】使目标受到的伤害降低<color style='color:#f29e38;'> 12.0% </color>，该效果最多叠加<color style='color:#f29e38;'> 3.0 </color>层。\n每个轮开始时，依据我方目标当前最高的【记忆印记】层数对敌方全体造成固定数值的伤害，并解除我方全体所有的【记忆印记】。",
                 "EN": "When an ally is hit or consumes their own HP, gain 1 stack of Memory Imprint. Each stack of Memory Imprint reduces DMG taken by the target by <color style='color:#f29e38;'>12.0%</color>, up to <color style='color:#f29e38;'>3.0</color> stack(s).\nAt the start of each Cycle, deals a set amount of DMG to all enemies based on the highest Memory Imprint stack count on an ally. Then, remove all Memory Imprint stacks from all allies."
             }
         },
@@ -18631,15 +18635,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余28轮以上",
+                        "CH": "取得胜利时，剩余 28 轮以上",
                         "EN": "Win with at least 28 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -18771,15 +18775,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余28轮以上",
+                        "CH": "取得胜利时，剩余 28 轮以上",
                         "EN": "Win with at least 28 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -18927,15 +18931,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余28轮以上",
+                        "CH": "取得胜利时，剩余 28 轮以上",
                         "EN": "Win with at least 28 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -19061,15 +19065,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余28轮以上",
+                        "CH": "取得胜利时，剩余 28 轮以上",
                         "EN": "Win with at least 28 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -19216,15 +19220,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余28轮以上",
+                        "CH": "取得胜利时，剩余 28 轮以上",
                         "EN": "Win with at least 28 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -19355,15 +19359,15 @@ var _chaos = [
                 "PerfectTurnNum": 16,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余24轮以上",
+                        "CH": "取得胜利时，剩余 24 轮以上",
                         "EN": "Win with at least 24 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -19493,15 +19497,15 @@ var _chaos = [
                 "PerfectTurnNum": 16,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余24轮以上",
+                        "CH": "取得胜利时，剩余 24 轮以上",
                         "EN": "Win with at least 24 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -19650,15 +19654,15 @@ var _chaos = [
                 "PerfectTurnNum": 16,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余24轮以上",
+                        "CH": "取得胜利时，剩余 24 轮以上",
                         "EN": "Win with at least 24 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -19806,15 +19810,15 @@ var _chaos = [
                 "PerfectTurnNum": 20,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -19969,15 +19973,15 @@ var _chaos = [
                 "PerfectTurnNum": 20,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -20132,7 +20136,7 @@ var _chaos = [
                 "EN": "Memory Turbulence"
             },
             "Desc": {
-                "CH": "每个轮开始时，使当前生命值百分比大于<color style='color:#f29e38;'>80.0%</color>的我方目标攻击力提高<color style='color:#f29e38;'>50.0%</color>，持续<color style='color:#f29e38;'>1.0</color>回合。",
+                "CH": "每个轮开始时，使当前生命值百分比大于<color style='color:#f29e38;'> 80.0% </color>的我方目标攻击力提高<color style='color:#f29e38;'> 50.0% </color>，持续<color style='color:#f29e38;'> 1.0 </color>回合。",
                 "EN": "At the start of every Cycle, allies whose current HP percentage is greater than <color style='color:#f29e38;'>80.0%</color> increase their ATK by <color style='color:#f29e38;'>50.0%</color> for <color style='color:#f29e38;'>1.0</color> turn(s)."
             }
         },
@@ -20151,15 +20155,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余28轮以上",
+                        "CH": "取得胜利时，剩余 28 轮以上",
                         "EN": "Win with at least 28 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -20290,15 +20294,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余28轮以上",
+                        "CH": "取得胜利时，剩余 28 轮以上",
                         "EN": "Win with at least 28 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -20435,15 +20439,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余28轮以上",
+                        "CH": "取得胜利时，剩余 28 轮以上",
                         "EN": "Win with at least 28 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -20580,15 +20584,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余28轮以上",
+                        "CH": "取得胜利时，剩余 28 轮以上",
                         "EN": "Win with at least 28 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -20738,15 +20742,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余28轮以上",
+                        "CH": "取得胜利时，剩余 28 轮以上",
                         "EN": "Win with at least 28 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -20865,15 +20869,15 @@ var _chaos = [
                 "PerfectTurnNum": 16,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余24轮以上",
+                        "CH": "取得胜利时，剩余 24 轮以上",
                         "EN": "Win with at least 24 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -21005,15 +21009,15 @@ var _chaos = [
                 "PerfectTurnNum": 16,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余24轮以上",
+                        "CH": "取得胜利时，剩余 24 轮以上",
                         "EN": "Win with at least 24 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -21168,15 +21172,15 @@ var _chaos = [
                 "PerfectTurnNum": 16,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余24轮以上",
+                        "CH": "取得胜利时，剩余 24 轮以上",
                         "EN": "Win with at least 24 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -21337,15 +21341,15 @@ var _chaos = [
                 "PerfectTurnNum": 20,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -21500,15 +21504,15 @@ var _chaos = [
                 "PerfectTurnNum": 20,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -21681,7 +21685,7 @@ var _chaos = [
                 "EN": "Memory Turbulence"
             },
             "Desc": {
-                "CH": "每个轮开始时，对敌方全体施加【记忆印记】，敌方目标每有1个其他负面效果，则额外叠加1层【记忆印记】，每层使目标防御力降低<color style='color:#f29e38;'>6.0%</color>，最多叠加<color style='color:#f29e38;'>5.0</color>层，该效果持续到下个轮开始。",
+                "CH": "每个轮开始时，对敌方全体施加【记忆印记】，敌方目标每有1个其他负面效果，则额外叠加1层【记忆印记】，每层使目标防御力降低<color style='color:#f29e38;'> 6.0% </color>，最多叠加<color style='color:#f29e38;'> 5.0 </color>层，该效果持续到下个轮开始。",
                 "EN": "Apply Memory Imprint to all enemies at the beginning of each Cycle. For each other debuff currently on the enemy, apply 1 extra stack of Memory Imprint to that enemy. Each stack reduces the target's DEF by <color style='color:#f29e38;'>6.0%</color> for a maximum of <color style='color:#f29e38;'>5.0</color> stacks. This effect lasts until the start of the next Cycle."
             }
         },
@@ -21700,15 +21704,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余28轮以上",
+                        "CH": "取得胜利时，剩余 28 轮以上",
                         "EN": "Win with at least 28 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -21839,15 +21843,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余28轮以上",
+                        "CH": "取得胜利时，剩余 28 轮以上",
                         "EN": "Win with at least 28 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -21984,15 +21988,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余28轮以上",
+                        "CH": "取得胜利时，剩余 28 轮以上",
                         "EN": "Win with at least 28 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -22129,15 +22133,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余28轮以上",
+                        "CH": "取得胜利时，剩余 28 轮以上",
                         "EN": "Win with at least 28 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -22287,15 +22291,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余28轮以上",
+                        "CH": "取得胜利时，剩余 28 轮以上",
                         "EN": "Win with at least 28 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -22414,15 +22418,15 @@ var _chaos = [
                 "PerfectTurnNum": 16,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余24轮以上",
+                        "CH": "取得胜利时，剩余 24 轮以上",
                         "EN": "Win with at least 24 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -22554,15 +22558,15 @@ var _chaos = [
                 "PerfectTurnNum": 16,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余24轮以上",
+                        "CH": "取得胜利时，剩余 24 轮以上",
                         "EN": "Win with at least 24 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -22717,15 +22721,15 @@ var _chaos = [
                 "PerfectTurnNum": 16,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余24轮以上",
+                        "CH": "取得胜利时，剩余 24 轮以上",
                         "EN": "Win with at least 24 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -22886,15 +22890,15 @@ var _chaos = [
                 "PerfectTurnNum": 20,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -23049,15 +23053,15 @@ var _chaos = [
                 "PerfectTurnNum": 20,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -23230,7 +23234,7 @@ var _chaos = [
                 "EN": "Memory Turbulence"
             },
             "Desc": {
-                "CH": "每个轮开始时，对敌方全体施加【记忆印记】，敌方目标每有1个其他负面效果，则额外叠加1层【记忆印记】，每层使目标造成的伤害降低<color style='color:#f29e38;'>4.0%</color>，最多叠加<color style='color:#f29e38;'>5.0</color>层，该效果持续到下个轮开始。",
+                "CH": "每个轮开始时，对敌方全体施加【记忆印记】，敌方目标每有1个其他负面效果，则额外叠加1层【记忆印记】，每层使目标造成的伤害降低<color style='color:#f29e38;'> 4.0% </color>，最多叠加<color style='color:#f29e38;'> 5.0 </color>层，该效果持续到下个轮开始。",
                 "EN": "Apply Memory Imprint to all enemies at the beginning of each Cycle. For each other debuff currently on the enemy, apply 1 extra stack of Memory Imprint to that enemy. Each stack reduces the target's DMG dealt by <color style='color:#f29e38;'>4.0%</color> for a maximum of <color style='color:#f29e38;'>5.0</color> stacks. This effect lasts until the start of the next Cycle."
             }
         },
@@ -23249,15 +23253,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余28轮以上",
+                        "CH": "取得胜利时，剩余 28 轮以上",
                         "EN": "Win with at least 28 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -23388,15 +23392,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余28轮以上",
+                        "CH": "取得胜利时，剩余 28 轮以上",
                         "EN": "Win with at least 28 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -23533,15 +23537,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余28轮以上",
+                        "CH": "取得胜利时，剩余 28 轮以上",
                         "EN": "Win with at least 28 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -23678,15 +23682,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余28轮以上",
+                        "CH": "取得胜利时，剩余 28 轮以上",
                         "EN": "Win with at least 28 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -23836,15 +23840,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余28轮以上",
+                        "CH": "取得胜利时，剩余 28 轮以上",
                         "EN": "Win with at least 28 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -23963,15 +23967,15 @@ var _chaos = [
                 "PerfectTurnNum": 16,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余24轮以上",
+                        "CH": "取得胜利时，剩余 24 轮以上",
                         "EN": "Win with at least 24 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -24103,15 +24107,15 @@ var _chaos = [
                 "PerfectTurnNum": 16,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余24轮以上",
+                        "CH": "取得胜利时，剩余 24 轮以上",
                         "EN": "Win with at least 24 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -24266,15 +24270,15 @@ var _chaos = [
                 "PerfectTurnNum": 16,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余16轮以上",
+                        "CH": "取得胜利时，剩余 16 轮以上",
                         "EN": "Win with at least 16 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余24轮以上",
+                        "CH": "取得胜利时，剩余 24 轮以上",
                         "EN": "Win with at least 24 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -24435,15 +24439,15 @@ var _chaos = [
                 "PerfectTurnNum": 20,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -24598,15 +24602,15 @@ var _chaos = [
                 "PerfectTurnNum": 20,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余20轮以上",
+                        "CH": "取得胜利时，剩余 20 轮以上",
                         "EN": "Win with at least 20 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -24789,15 +24793,15 @@ var _chaos = [
                 "PerfectTurnNum": 8,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余6轮以上",
+                        "CH": "取得胜利时，剩余 6 轮以上",
                         "EN": "Win with at least 6 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余12轮以上",
+                        "CH": "取得胜利时，剩余 12 轮以上",
                         "EN": "Win with at least 12 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -24981,7 +24985,7 @@ var _chaos = [
                         "EN": "Memory Turbulence"
                     },
                     "Desc": {
-                        "CH": "敌方目标所受伤害由<color style='color:#f29e38;'>敌方全体分摊</color>。我方目标施放<color style='color:#f29e38;'>群攻或扩散技能</color>时，造成的伤害提高<color style='color:#f29e38;'>50.0%</color>。",
+                        "CH": "敌方目标所受伤害由<color style='color:#f29e38;'>敌方全体分摊</color>。我方目标施放<color style='color:#f29e38;'>群攻或扩散技能</color>时，造成的伤害提高<color style='color:#f29e38;'> 50.0% </color>。",
                         "EN": "DMG dealt to enemy targets are <color style='color:#f29e38;'>shared between all enemies</color>. When allies use <color style='color:#f29e38;'>AoE or Blast ATK abilities</color>, increases DMG dealt by <color style='color:#f29e38;'>50.0%</color>."
                     }
                 }
@@ -25002,15 +25006,15 @@ var _chaos = [
                 "PerfectTurnNum": 8,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余6轮以上",
+                        "CH": "取得胜利时，剩余 6 轮以上",
                         "EN": "Win with at least 6 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余12轮以上",
+                        "CH": "取得胜利时，剩余 12 轮以上",
                         "EN": "Win with at least 12 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -25112,7 +25116,7 @@ var _chaos = [
                         "EN": "Memory Turbulence"
                     },
                     "Desc": {
-                        "CH": "敌方全体受到的<color style='color:#f29e38;'>持续伤害</color>提高<color style='color:#f29e38;'>50.0%</color>。\n每个轮开始时，大概率对敌方全体施加<color style='color:#f29e38;'>裂伤</color>、<color style='color:#f29e38;'>触电</color>、<color style='color:#f29e38;'>灼烧</color>、<color style='color:#f29e38;'>风化</color>状态，持续<color style='color:#f29e38;'>2.0</color>回合。",
+                        "CH": "敌方全体受到的<color style='color:#f29e38;'>持续伤害</color>提高<color style='color:#f29e38;'> 50.0% </color>。\n每个轮开始时，大概率对敌方全体施加<color style='color:#f29e38;'>裂伤</color>、<color style='color:#f29e38;'>触电</color>、<color style='color:#f29e38;'>灼烧</color>、<color style='color:#f29e38;'>风化</color>状态，持续<color style='color:#f29e38;'> 2.0 </color>回合。",
                         "EN": "All enemies receive increased <color style='color:#f29e38;'>DoT</color> by <color style='color:#f29e38;'>50.0%</color>.\nAt the start of every Cycle, there is a high chance of inflicting <color style='color:#f29e38;'>Bleed</color>, <color style='color:#f29e38;'>Shock</color>, <color style='color:#f29e38;'>Burn</color>, and <color style='color:#f29e38;'>Wind Shear</color> on all enemies. Status inflicted in this way will last for <color style='color:#f29e38;'>2.0</color> turn(s)."
                     }
                 }
@@ -25131,15 +25135,15 @@ var _chaos = [
                 "PerfectTurnNum": 8,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余6轮以上",
+                        "CH": "取得胜利时，剩余 6 轮以上",
                         "EN": "Win with at least 6 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余12轮以上",
+                        "CH": "取得胜利时，剩余 12 轮以上",
                         "EN": "Win with at least 12 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -25233,7 +25237,7 @@ var _chaos = [
                         "EN": "Memory Turbulence"
                     },
                     "Desc": {
-                        "CH": "我方目标施放<color style='color:#f29e38;'>普攻</color>后，使自身及相邻的我方目标造成的伤害提高<color style='color:#f29e38;'>50.0%</color>，受到伤害降低<color style='color:#f29e38;'>50.0%</color>，持续<color style='color:#f29e38;'>1.0</color>回合。",
+                        "CH": "我方目标施放<color style='color:#f29e38;'>普攻</color>后，使自身及相邻的我方目标造成的伤害提高<color style='color:#f29e38;'> 50.0% </color>，受到伤害降低<color style='color:#f29e38;'> 50.0% </color>，持续<color style='color:#f29e38;'> 1.0 </color>回合。",
                         "EN": "After an ally uses <color style='color:#f29e38;'>Basic ATK</color>, increases DMG dealt by them and adjacent allies by <color style='color:#f29e38;'>50.0%</color> and reduces their DMG received by <color style='color:#f29e38;'>50.0%</color> for <color style='color:#f29e38;'>1.0</color> turn(s)."
                     }
                 }
@@ -25252,15 +25256,15 @@ var _chaos = [
                 "PerfectTurnNum": 8,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余6轮以上",
+                        "CH": "取得胜利时，剩余 6 轮以上",
                         "EN": "Win with at least 6 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余12轮以上",
+                        "CH": "取得胜利时，剩余 12 轮以上",
                         "EN": "Win with at least 12 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -25428,15 +25432,15 @@ var _chaos = [
                 "PerfectTurnNum": 8,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余6轮以上",
+                        "CH": "取得胜利时，剩余 6 轮以上",
                         "EN": "Win with at least 6 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余12轮以上",
+                        "CH": "取得胜利时，剩余 12 轮以上",
                         "EN": "Win with at least 12 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -25551,15 +25555,15 @@ var _chaos = [
                 "PerfectTurnNum": 8,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余6轮以上",
+                        "CH": "取得胜利时，剩余 6 轮以上",
                         "EN": "Win with at least 6 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余12轮以上",
+                        "CH": "取得胜利时，剩余 12 轮以上",
                         "EN": "Win with at least 12 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过0名",
+                        "CH": "无法战斗角色不超过 0 名",
                         "EN": "No more than 0 downed character(s)"
                     }
                 ],
@@ -25685,7 +25689,7 @@ var _chaos = [
                         "EN": "Memory Turbulence"
                     },
                     "Desc": {
-                        "CH": "我方目标对我方任意目标<color style='color:#f29e38;'>施放战技</color>后，解除被施放战技目标的1个<color style='color:#f29e38;'>负面效果</color>。每解除1个我方目标的<color style='color:#f29e38;'>负面效果</color>，使我方全体造成的伤害提高<color style='color:#f29e38;'>20.0%</color>，该效果最多叠加<color style='color:#f29e38;'>10.0</color>层。\n在最终波次中消灭<color style='color:#f29e38;'>精英级别及以上的敌方目标</color>，将直接获得胜利。",
+                        "CH": "我方目标对我方任意目标<color style='color:#f29e38;'>施放战技</color>后，解除被施放战技目标的1个<color style='color:#f29e38;'>负面效果</color>。每解除1个我方目标的<color style='color:#f29e38;'>负面效果</color>，使我方全体造成的伤害提高<color style='color:#f29e38;'> 20.0% </color>，该效果最多叠加<color style='color:#f29e38;'> 10.0 </color>层。\n在最终波次中消灭<color style='color:#f29e38;'>精英级别及以上的敌方目标</color>，将直接获得胜利。",
                         "EN": "After an ally <color style='color:#f29e38;'>uses their Skill</color> on any ally (including on themselves), dispels 1 <color style='color:#f29e38;'>debuff</color> on the ally which the Skill was used on. For each <color style='color:#f29e38;'>debuff</color> dispelled, increases the DMG dealt by all allies by <color style='color:#f29e38;'>20.0%</color>. This effect can stack up to <color style='color:#f29e38;'>10.0</color> stacks.\nDefeating the <color style='color:#f29e38;'>Elite or stronger enemy</color> in the final wave will immediately result in victory."
                     }
                 }
@@ -25711,15 +25715,15 @@ var _chaos = [
                 "PerfectTurnNum": 6,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余14轮以上",
+                        "CH": "取得胜利时，剩余 14 轮以上",
                         "EN": "Win with at least 14 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过1名",
+                        "CH": "无法战斗角色不超过 1 名",
                         "EN": "No more than 1 downed character(s)"
                     }
                 ],
@@ -25797,7 +25801,7 @@ var _chaos = [
                         "EN": "Memory Turbulence"
                     },
                     "Desc": {
-                        "CH": "我方全体的风属性伤害提高<color style='color:#f29e38;'>50.0%</color>",
+                        "CH": "我方全体的风属性伤害提高<color style='color:#f29e38;'> 50.0% </color>",
                         "EN": "Increases the Wind DMG of all allies by <color style='color:#f29e38;'>50.0%</color>."
                     }
                 }
@@ -25814,15 +25818,15 @@ var _chaos = [
                 "PerfectTurnNum": 6,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余14轮以上",
+                        "CH": "取得胜利时，剩余 14 轮以上",
                         "EN": "Win with at least 14 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过1名",
+                        "CH": "无法战斗角色不超过 1 名",
                         "EN": "No more than 1 downed character(s)"
                     }
                 ],
@@ -25894,7 +25898,7 @@ var _chaos = [
                         "EN": "Memory Turbulence"
                     },
                     "Desc": {
-                        "CH": "我方全体的冰属性伤害提高<color style='color:#f29e38;'>50.0%</color>",
+                        "CH": "我方全体的冰属性伤害提高<color style='color:#f29e38;'> 50.0% </color>",
                         "EN": "Increases the Ice DMG of all allies by <color style='color:#f29e38;'>50.0%</color>."
                     }
                 }
@@ -25911,15 +25915,15 @@ var _chaos = [
                 "PerfectTurnNum": 6,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余14轮以上",
+                        "CH": "取得胜利时，剩余 14 轮以上",
                         "EN": "Win with at least 14 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过1名",
+                        "CH": "无法战斗角色不超过 1 名",
                         "EN": "No more than 1 downed character(s)"
                     }
                 ],
@@ -25985,7 +25989,7 @@ var _chaos = [
                         "EN": "Memory Turbulence"
                     },
                     "Desc": {
-                        "CH": "我方全体的火属性伤害提高<color style='color:#f29e38;'>50.0%</color>",
+                        "CH": "我方全体的火属性伤害提高<color style='color:#f29e38;'> 50.0% </color>",
                         "EN": "Increases the Fire DMG of all allies by <color style='color:#f29e38;'>50.0%</color>."
                     }
                 }
@@ -26002,15 +26006,15 @@ var _chaos = [
                 "PerfectTurnNum": 6,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余14轮以上",
+                        "CH": "取得胜利时，剩余 14 轮以上",
                         "EN": "Win with at least 14 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过1名",
+                        "CH": "无法战斗角色不超过 1 名",
                         "EN": "No more than 1 downed character(s)"
                     }
                 ],
@@ -26070,7 +26074,7 @@ var _chaos = [
                         "EN": "Memory Turbulence"
                     },
                     "Desc": {
-                        "CH": "我方全体的物理属性伤害提高<color style='color:#f29e38;'>50.0%</color>",
+                        "CH": "我方全体的物理属性伤害提高<color style='color:#f29e38;'> 50.0% </color>",
                         "EN": "Increases the Physical DMG of all allies by <color style='color:#f29e38;'>50.0%</color>."
                     }
                 }
@@ -26087,15 +26091,15 @@ var _chaos = [
                 "PerfectTurnNum": 6,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余10轮以上",
+                        "CH": "取得胜利时，剩余 10 轮以上",
                         "EN": "Win with at least 10 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余14轮以上",
+                        "CH": "取得胜利时，剩余 14 轮以上",
                         "EN": "Win with at least 14 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过1名",
+                        "CH": "无法战斗角色不超过 1 名",
                         "EN": "No more than 1 downed character(s)"
                     }
                 ],
@@ -26155,7 +26159,7 @@ var _chaos = [
                         "EN": "Memory Turbulence"
                     },
                     "Desc": {
-                        "CH": "我方全体的雷属性伤害提高<color style='color:#f29e38;'>50.0%</color>",
+                        "CH": "我方全体的雷属性伤害提高<color style='color:#f29e38;'> 50.0% </color>",
                         "EN": "Increases the Lightning DMG of all allies by <color style='color:#f29e38;'>50.0%</color>."
                     }
                 }
@@ -26170,15 +26174,15 @@ var _chaos = [
                 "PerfectTurnNum": 8,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余8轮以上",
+                        "CH": "取得胜利时，剩余 8 轮以上",
                         "EN": "Win with at least 8 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余12轮以上",
+                        "CH": "取得胜利时，剩余 12 轮以上",
                         "EN": "Win with at least 12 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过1名",
+                        "CH": "无法战斗角色不超过 1 名",
                         "EN": "No more than 1 downed character(s)"
                     }
                 ],
@@ -26243,7 +26247,7 @@ var _chaos = [
                         "EN": "Memory Turbulence"
                     },
                     "Desc": {
-                        "CH": "我方全体战技造成的伤害提高<color style='color:#f29e38;'>25.0%</color>，每个轮开始时，为我方恢复<color style='color:#f29e38;'>2.0</color>个战技点。",
+                        "CH": "我方全体战技造成的伤害提高<color style='color:#f29e38;'> 25.0% </color>，每个轮开始时，为我方恢复<color style='color:#f29e38;'> 2.0 </color>个战技点。",
                         "EN": "Increases DMG dealt by all allies' Skill by <color style='color:#f29e38;'>25.0%</color>. At the beginning of each Cycle, regenerates <color style='color:#f29e38;'>2.0</color> Skill Point(s)."
                     }
                 }
@@ -26259,15 +26263,15 @@ var _chaos = [
                 "PerfectTurnNum": 8,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余8轮以上",
+                        "CH": "取得胜利时，剩余 8 轮以上",
                         "EN": "Win with at least 8 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余12轮以上",
+                        "CH": "取得胜利时，剩余 12 轮以上",
                         "EN": "Win with at least 12 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过1名",
+                        "CH": "无法战斗角色不超过 1 名",
                         "EN": "No more than 1 downed character(s)"
                     }
                 ],
@@ -26332,7 +26336,7 @@ var _chaos = [
                         "EN": "Memory Turbulence"
                     },
                     "Desc": {
-                        "CH": "我方全体终结技造成的伤害提高<color style='color:#f29e38;'>25.0%</color>，每个轮开始时，我方全体恢复<color style='color:#f29e38;'>20.0</color>点能量。",
+                        "CH": "我方全体终结技造成的伤害提高<color style='color:#f29e38;'> 25.0% </color>，每个轮开始时，我方全体恢复<color style='color:#f29e38;'> 20.0 </color>点能量。",
                         "EN": "Increases DMG dealt by all allies' Ultimate by <color style='color:#f29e38;'>25.0%</color>. At the beginning of each Cycle, all allies regenerate <color style='color:#f29e38;'>20.0</color> Energy."
                     }
                 }
@@ -26348,15 +26352,15 @@ var _chaos = [
                 "PerfectTurnNum": 8,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余8轮以上",
+                        "CH": "取得胜利时，剩余 8 轮以上",
                         "EN": "Win with at least 8 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余12轮以上",
+                        "CH": "取得胜利时，剩余 12 轮以上",
                         "EN": "Win with at least 12 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过1名",
+                        "CH": "无法战斗角色不超过 1 名",
                         "EN": "No more than 1 downed character(s)"
                     }
                 ],
@@ -26421,7 +26425,7 @@ var _chaos = [
                         "EN": "Memory Turbulence"
                     },
                     "Desc": {
-                        "CH": "每个轮开始时，使我方当前攻击力最高的目标造成的伤害提高<color style='color:#f29e38;'>60.0%</color>，持续<color style='color:#f29e38;'>1.0</color>回合。",
+                        "CH": "每个轮开始时，使我方当前攻击力最高的目标造成的伤害提高<color style='color:#f29e38;'> 60.0% </color>，持续<color style='color:#f29e38;'> 1.0 </color>回合。",
                         "EN": "At the beginning of each Cycle, increases the DMG dealt by the ally with the highest ATK by <color style='color:#f29e38;'>60.0%</color> for <color style='color:#f29e38;'>1.0</color> turn(s)."
                     }
                 }
@@ -26436,15 +26440,15 @@ var _chaos = [
                 "PerfectTurnNum": 8,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余8轮以上",
+                        "CH": "取得胜利时，剩余 8 轮以上",
                         "EN": "Win with at least 8 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余12轮以上",
+                        "CH": "取得胜利时，剩余 12 轮以上",
                         "EN": "Win with at least 12 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过1名",
+                        "CH": "无法战斗角色不超过 1 名",
                         "EN": "No more than 1 downed character(s)"
                     }
                 ],
@@ -26515,7 +26519,7 @@ var _chaos = [
                         "EN": "Memory Turbulence"
                     },
                     "Desc": {
-                        "CH": "每个轮开始时，使我方每个目标下次攻击的弱点击破效率提高<color style='color:#f29e38;'>50.0%</color>。",
+                        "CH": "每个轮开始时，使我方每个目标下次攻击的弱点击破效率提高<color style='color:#f29e38;'> 50.0% </color>。",
                         "EN": "At the beginning of each Cycle, increases the Weakness Break efficiency of each ally's next attack by <color style='color:#f29e38;'>50.0%</color>."
                     }
                 }
@@ -26531,15 +26535,15 @@ var _chaos = [
                 "PerfectTurnNum": 8,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余8轮以上",
+                        "CH": "取得胜利时，剩余 8 轮以上",
                         "EN": "Win with at least 8 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余12轮以上",
+                        "CH": "取得胜利时，剩余 12 轮以上",
                         "EN": "Win with at least 12 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过1名",
+                        "CH": "无法战斗角色不超过 1 名",
                         "EN": "No more than 1 downed character(s)"
                     }
                 ],
@@ -26616,7 +26620,7 @@ var _chaos = [
                         "EN": "Memory Turbulence"
                     },
                     "Desc": {
-                        "CH": "每个轮开始时，使我方全体暴击率提高<color style='color:#f29e38;'>8.0%</color>，该效果最多叠加<color style='color:#f29e38;'>5.0</color>层。",
+                        "CH": "每个轮开始时，使我方全体暴击率提高<color style='color:#f29e38;'> 8.0% </color>，该效果最多叠加<color style='color:#f29e38;'> 5.0 </color>层。",
                         "EN": "At the beginning of each Cycle, increases all allies' CRIT Rate by <color style='color:#f29e38;'>8.0%</color>. This effect can stack up to <color style='color:#f29e38;'>5.0</color> time(s)."
                     }
                 }
@@ -26637,15 +26641,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余12轮以上",
+                        "CH": "取得胜利时，剩余 12 轮以上",
                         "EN": "Win with at least 12 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过1名",
+                        "CH": "无法战斗角色不超过 1 名",
                         "EN": "No more than 1 downed character(s)"
                     }
                 ],
@@ -26769,7 +26773,7 @@ var _chaos = [
                         "EN": "Memory Turbulence"
                     },
                     "Desc": {
-                        "CH": "每个轮开始时，为我方当前生命值最低的目标回复等同于其生命上限<color style='color:#f29e38;'>60.0%</color>的生命值。",
+                        "CH": "每个轮开始时，为我方当前生命值最低的目标回复等同于其生命上限<color style='color:#f29e38;'> 60.0% </color>的生命值。",
                         "EN": "At the beginning of each Cycle, restores HP for the ally with the lowest HP by <color style='color:#f29e38;'>60.0%</color> of their Max HP."
                     }
                 }
@@ -26790,15 +26794,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余12轮以上",
+                        "CH": "取得胜利时，剩余 12 轮以上",
                         "EN": "Win with at least 12 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过1名",
+                        "CH": "无法战斗角色不超过 1 名",
                         "EN": "No more than 1 downed character(s)"
                     }
                 ],
@@ -26916,7 +26920,7 @@ var _chaos = [
                         "EN": "Memory Turbulence"
                     },
                     "Desc": {
-                        "CH": "每个轮开始时，使我方每个目标下次攻击造成的伤害提高<color style='color:#f29e38;'>50.0%</color>。",
+                        "CH": "每个轮开始时，使我方每个目标下次攻击造成的伤害提高<color style='color:#f29e38;'> 50.0% </color>。",
                         "EN": "At the beginning of each Cycle, increases the DMG of every ally's next attack by <color style='color:#f29e38;'>50.0%</color>."
                     }
                 }
@@ -26937,15 +26941,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余12轮以上",
+                        "CH": "取得胜利时，剩余 12 轮以上",
                         "EN": "Win with at least 12 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过1名",
+                        "CH": "无法战斗角色不超过 1 名",
                         "EN": "No more than 1 downed character(s)"
                     }
                 ],
@@ -27063,7 +27067,7 @@ var _chaos = [
                         "EN": "Memory Turbulence"
                     },
                     "Desc": {
-                        "CH": "每个轮开始时，为我方全体提供护盾量等同于各自生命上限<color style='color:#f29e38;'>25.0%</color>的护盾。",
+                        "CH": "每个轮开始时，为我方全体提供护盾量等同于各自生命上限<color style='color:#f29e38;'> 25.0% </color>的护盾。",
                         "EN": "At the beginning of each Cycle, provide a Shield to all allies that can absorb DMG equal to <color style='color:#f29e38;'>25.0%</color> of their respective Max HP."
                     }
                 }
@@ -27084,15 +27088,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余12轮以上",
+                        "CH": "取得胜利时，剩余 12 轮以上",
                         "EN": "Win with at least 12 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过1名",
+                        "CH": "无法战斗角色不超过 1 名",
                         "EN": "No more than 1 downed character(s)"
                     }
                 ],
@@ -27192,7 +27196,7 @@ var _chaos = [
                         "EN": "Memory Turbulence"
                     },
                     "Desc": {
-                        "CH": "每个轮开始时，当前生命值百分比大于<color style='color:#f29e38;'>80.0%</color>的我方目标暴击率提高<color style='color:#f29e38;'>20.0%</color>，暴击伤害提高<color style='color:#f29e38;'>40.0%</color>，持续<color style='color:#f29e38;'>2.0</color>回合。",
+                        "CH": "每个轮开始时，当前生命值百分比大于<color style='color:#f29e38;'> 80.0% </color>的我方目标暴击率提高<color style='color:#f29e38;'> 20.0% </color>，暴击伤害提高<color style='color:#f29e38;'> 40.0% </color>，持续<color style='color:#f29e38;'> 2.0 </color>回合。",
                         "EN": "At the beginning of each Cycle, increases CRIT Rate by <color style='color:#f29e38;'>20.0%</color> and CRIT DMG by <color style='color:#f29e38;'>40.0%</color> for allies with current HP higher than <color style='color:#f29e38;'>80.0%</color> of their Max HP for <color style='color:#f29e38;'>2.0</color> turn(s)."
                     }
                 }
@@ -27213,15 +27217,15 @@ var _chaos = [
                 "PerfectTurnNum": 12,
                 "Targets": [
                     {
-                        "CH": "取得胜利时，剩余12轮以上",
+                        "CH": "取得胜利时，剩余 12 轮以上",
                         "EN": "Win with at least 12 Cycle(s) left"
                     },
                     {
-                        "CH": "取得胜利时，剩余18轮以上",
+                        "CH": "取得胜利时，剩余 18 轮以上",
                         "EN": "Win with at least 18 Cycle(s) left"
                     },
                     {
-                        "CH": "无法战斗角色不超过1名",
+                        "CH": "无法战斗角色不超过 1 名",
                         "EN": "No more than 1 downed character(s)"
                     }
                 ],
@@ -27321,7 +27325,7 @@ var _chaos = [
                         "EN": "Memory Turbulence"
                     },
                     "Desc": {
-                        "CH": "每个轮开始时，使敌方全体受到的伤害提高<color style='color:#f29e38;'>35.0%</color>，持续到敌方目标下一次行动开始。",
+                        "CH": "每个轮开始时，使敌方全体受到的伤害提高<color style='color:#f29e38;'> 35.0% </color>，持续到敌方目标下一次行动开始。",
                         "EN": "At the beginning of each Cycle, increases the DMG taken by all enemies by <color style='color:#f29e38;'>35.0%</color>, lasting until the enemies' next action begins."
                     }
                 }
@@ -28552,14 +28556,14 @@ var _chaoshp = {
         "Single": [
             279942,
             271194,
-            448344,
-            344095
+            451260,
+            337534
         ],
         "Multi": [
             180796,
             145803,
-            294522,
-            201208
+            297438,
+            209956
         ],
         "Index": {
             "1009": 0,
