@@ -13,6 +13,7 @@ $(function () {
     var cur_hp = 0
     var cur_kingdom = {}
     var VERIFY = 0
+    var showtop = 0
     $('h3 .title').text(computer_.MiscText.ComputerTitle[lang])
     $('h3 .subtitle').html(computer_.MiscText.Subtitle[lang])
     $('h3 .tlsub').html(computer_.MiscText.Translate_Computer[lang])
@@ -28,6 +29,12 @@ $(function () {
         $('.download').click(function () {
             downloadImage(`${imgpre}homdgcat-res/Abyss/HP.jpg`, `HP.jpg`);
         });
+        $('.kingdom').render({
+            template: {
+                p: '+',
+                class: 'showtop',
+            },
+        })
         $('.kingdom').render({
             data: _Kingdoms,
             template: {
@@ -48,6 +55,7 @@ $(function () {
                         $(d.sender).addClass('active').siblings('kingdom').removeClass('active');
                         cur_kingdom = d.org_data
                         monsterRenderPre(d.org_data.Classes);
+                        $('.scroller').scrollTop($('.scroller')[0].scrollHeight - $('.class_monster').height() - 100)
                     }
                 },
                 /*style: {
@@ -65,6 +73,9 @@ $(function () {
             monsterRenderPre(_Kingdoms[7].Classes)
             $('.kingdom_11').addClass('active')
         }
+
+        $('kingdom').hide()
+        $('.kingdom').css('padding-bottom', '2px')
 
     }
 
@@ -1025,5 +1036,16 @@ $(function () {
             $('.kingdom').css('padding-bottom', '20px')
         }
     });
+
+    $('body').on('click', '.showtop', function () {
+        showtop = 1 - showtop
+        if (showtop) {
+            $('kingdom').show()
+            $('.kingdom').css('padding-bottom', '20px')
+        } else {
+            $('kingdom').hide()
+            $('.kingdom').css('padding-bottom', '2px')
+        }
+    })
 
 })

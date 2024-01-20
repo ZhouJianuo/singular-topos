@@ -872,31 +872,6 @@ var _SpiralAbyssSchedule = [
             67,
             1024
         ]
-    },
-    {
-        "Name": "12",
-        "Show": {
-            "CH": "惊喜 12",
-            "EN": "Surprise 12"
-        },
-        "Generation": 99,
-        "OpenTime": "By 群友和妮可少女<br>2024/01/20",
-        "Phases": [
-            86,
-            87,
-            88
-        ],
-        "Blessings": [
-            1020,
-            1021,
-            1022
-        ],
-        "Floors": [
-            57,
-            58,
-            1015,
-            1026
-        ]
     }
 ]
 

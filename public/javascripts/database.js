@@ -9,7 +9,7 @@ $(function () {
 
     var moreless = 0
     var cur_schedule_ver = ""
-    var cur_select_floororchart = 1
+    var cur_select_floororchart = 5
     var UI = 0
     var cur_floor_index = 0
     var showtop = 1
@@ -2225,7 +2225,7 @@ $(function () {
         return ret
     }
 
-    $('.showtop').on('click', function () {
+    $('body').on('click', '.showtop', function () {
         showtop = 1 - showtop
         if (showtop) {
             $('.generation').hide()

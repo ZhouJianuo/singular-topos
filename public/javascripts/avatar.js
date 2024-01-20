@@ -7,6 +7,7 @@ $(function () {
     var pop_ver = ""
     var ou1;
     var ou2;
+    var showtop = 0
 
     var imgpre = $('#IMGPRE').val()
     document.title = computer_.MiscText.TITLE[lang]
@@ -112,54 +113,87 @@ $(function () {
             template: {
                 div: [
                     {
-                        section: {
-                            schedule: computer_.MiscText.Avatar_Relic[lang]
-                        },
-                        class: 'generation',
-                        click: function (p) {
-                            popRelic()
-                        }
-                    },
-                    {
                         section: [
                             {
-                                schedule: computer_.MiscText.Avatar_Weapon[0][lang],
+                                schedule: {
+                                    img: imgpre + 'homdgcat-res/Relic/UI_RelicIcon_10009_4.png'
+                                },
+                                click: function (p) {
+                                    popRelic()
+                                }
+                            },
+                            {
+                                schedule: {
+                                    img: imgpre + 'homdgcat-res/Weapon/UI_EquipIcon_Sword_Blunt.png'
+                                },
+                                click: function (p) {
+                                    popWeapon(0)
+                                    o = 0
+                                },
                                 a: {
                                     'data-id': 5
                                 }
                             },
                             {
-                                schedule: computer_.MiscText.Avatar_Weapon[1][lang],
+                                schedule: {
+                                    img: imgpre + 'homdgcat-res/Weapon/UI_EquipIcon_Claymore_Oyaji.png'
+                                },
+                                click: function (p) {
+                                    popWeapon(1)
+                                    o = 1
+                                },
                                 a: {
                                     'data-id': 1
                                 }
                             },
                             {
-                                schedule: computer_.MiscText.Avatar_Weapon[2][lang],
+                                schedule: {
+                                    img: imgpre + 'homdgcat-res/Weapon/UI_EquipIcon_Catalyst_Apprentice.png'
+                                },
+                                click: function (p) {
+                                    popWeapon(2)
+                                    o = 2
+                                },
                                 a: {
                                     'data-id': 2
                                 }
                             },
                             {
-                                schedule: computer_.MiscText.Avatar_Weapon[3][lang],
+                                schedule: {
+                                    img: imgpre + 'homdgcat-res/Weapon/UI_EquipIcon_Pole_Rod.png'
+                                },
+                                click: function (p) {
+                                    popWeapon(3)
+                                    o = 3
+                                },
                                 a: {
                                     'data-id': 3
                                 }
                             },
                             {
-                                schedule: computer_.MiscText.Avatar_Weapon[4][lang],
+                                schedule: {
+                                    img: imgpre + 'homdgcat-res/Weapon/UI_EquipIcon_Bow_Hunters.png'
+                                },
+                                click: function (p) {
+                                    popWeapon(4)
+                                    o = 4
+                                },
                                 a: {
                                     'data-id': 4
                                 }
                             }
                         ],
-                        class: 'weapon'
+                        class: 'generation'
                     },
                     {
                         hr: '',
                         style: {
                             margin: '20px 0px',
                         }
+                    },
+                    {
+                        p: '+',
+                        class: 'showtop',
                     },
                     {
                         section: [
@@ -201,6 +235,8 @@ $(function () {
                 class: 'content'
             },
         })
+
+        $('.sort').hide()
 
         renderContent(0)
 
@@ -653,6 +689,15 @@ $(function () {
                 BattleSkills: [],
                 PassiveSkills: [],
                 Constellations: []
+            }
+            if (Number.isInteger(skillconfig)) {
+                skillconfig = _AvatarSkillPConfig[avatar].Ver[skillconfig]
+            } else if (skillconfig == "cur") {
+                skillconfig = _AvatarSkillConfig[avatar] ? _AvatarSkillConfig[avatar] : {
+                    BattleSkills: [],
+                    PassiveSkills: [],
+                    Constellations: []
+                }
             }
         }
 
@@ -2882,7 +2927,14 @@ $(function () {
         if (weapon_stat_ver == 0) {
             var info = skill.Affix
         } else {
-            var info = _WeaponAffixPConfig[wpn.EquipAffixID].Ver[weapon_stat_ver].Affix
+            var info = _WeaponAffixPConfig[wpn.EquipAffixID].Ver[weapon_stat_ver]
+            if (Number.isInteger(info)) {
+                info = _WeaponAffixPConfig[wpn.EquipAffixID].Ver[info].Affix
+            } else if (info == "cur") {
+                info = skill.Affix
+            } else {
+                info = info.Affix
+            }
         }
         var info2 = []
         info.forEach(function (t) {
@@ -2897,12 +2949,17 @@ $(function () {
                                 span: (info2.length == 1) ? (wpn.EquipAffixName[lang]) : (wpn.EquipAffixName[lang] + " " + (i + 1)),
                                 style: {
                                     'margin-left': '0px',
-                                    'margin-right': '5px',
+                                    'margin-right': '15px',
                                 }
                             },
                             {
                                 span: renderSVW(wpn),
-                                class: 'stat_ver_choose_w'
+                                class: 'stat_ver_choose_w',
+                                style: {
+                                    'margin-left': '0px',
+                                    'margin-right': '0',
+                                    'margin-top': '3px'
+                                }
                             }
                         ],
                         class: 'a_section_head'
@@ -2988,11 +3045,6 @@ $(function () {
         if (cur_level > 0 && cur_level < 90) {
             $('.avatar_stat').html(calcstats(cur_level, this_avatar))
         }
-    });
-
-    $('body').on('click', '.weapon schedule', function () {
-        o = $(this).attr('data-id') % 5
-        popWeapon(o)
     });
 
     $('body').on('click', '.sort schedule', function () {
@@ -3183,6 +3235,15 @@ $(function () {
             },
             class: 'TUT'
         })
+    })
+
+    $('body').on('click', '.showtop', function () {
+        showtop = 1 - showtop
+        if (showtop) {
+            $('.sort').show()
+        } else {
+            $('.sort').hide()
+        }
     })
 
 });

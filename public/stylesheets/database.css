@@ -114,6 +114,7 @@ container {
 .generation {
     justify-content: center;
     margin-bottom: 15px;
+    margin-top: 16px;
 }
 
 .result h4 {
@@ -446,9 +447,11 @@ container {
 .showtop {
     font-size: 26px;
     text-align: center;
-    margin-top: -8px;
-    margin-bottom: 8px;
+    margin-top: -25px;
+    margin-bottom: 3px;
     cursor: pointer;
+    position: relative;
+    top: 11px;
 }
 
 moster {
@@ -614,6 +617,7 @@ section>schedule,
 
     .showtop {
         font-size: 32px;
+        top: 12px;
     }
 
     .ui {
@@ -678,6 +682,7 @@ section>schedule,
 
     .showtop {
         font-size: 38px;
+        top: 12px;
     }
 
     .ui {

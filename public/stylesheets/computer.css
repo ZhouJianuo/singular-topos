@@ -392,6 +392,24 @@ popbody div {
     height: 40px;
 }
 
+.csxdiv {
+    color: black;
+}
+
+.csxdiv:hover {
+    background-color: black;
+    color: white;
+}
+
+.showtop {
+    font-size: 38px;
+    text-align: center;
+    margin-top: -15px;
+    margin-bottom: 5px;
+    cursor: pointer;
+    width: 100%;
+}
+
 @media screen and (max-width: 800px) {
     .buttons {
         flex-direction: row !important;
@@ -428,6 +446,10 @@ popbody div {
 
 @media screen and (min-width: 500px) and (max-width: 800px) {
 
+    .showtop {
+        font-size: 32px;
+    }
+
     .dmg_Table th,
     .dmg_Table td {
         font-size: 14px;
@@ -454,6 +476,10 @@ popbody div {
 }
 
 @media screen and (max-width: 500px) {
+
+    .showtop {
+        font-size: 26px;
+    }
 
     .disorder {
         font-size: 14px;

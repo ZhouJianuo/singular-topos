@@ -220,6 +220,24 @@ popbody {
     margin-bottom: 15px;
 }
 
+.generation schedule {
+    width: auto;
+    height: 61px;
+    padding: 0px;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.generation schedule:hover {
+    border: 1px solid red
+}
+
+.generation img {
+    height: 60px;
+}
+
 schedule {
     display: block;
     width: calc((100% - 50px) / 3);
@@ -595,6 +613,14 @@ tr {
     height: auto;
 }
 
+.showtop {
+    font-size: 26px;
+    text-align: center;
+    margin-top: -22px;
+    margin-bottom: -2px;
+    cursor: pointer;
+}
+
 @media screen and (min-width: 900px) {
     .relic-head tr :nth-child(2) {
         width: 12%;
@@ -618,6 +644,19 @@ tr {
 }
 
 @media screen and (min-width: 500px) and (max-width: 800px) {
+
+    .generation img {
+        height: 70px;
+    }
+
+    .generation schedule {
+        height: 71px;
+    }
+
+    .showtop {
+        font-size: 32px;
+    }
+
     .content section.sort schedule {
         font-size: 15px;
     }
@@ -733,6 +772,19 @@ tr {
 }
 
 @media screen and (min-width: 800px) {
+
+    .generation img {
+        height: 80px;
+    }
+
+    .generation schedule {
+        height: 81px;
+    }
+
+    .showtop {
+        font-size: 38px;
+    }
+
     .content section.sort schedule {
         font-size: 16px;
     }
