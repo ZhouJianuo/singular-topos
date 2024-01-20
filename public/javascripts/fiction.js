@@ -499,7 +499,7 @@ $(function () {
                             },
                             {
                                 span: function () {
-                                    var s = 'PTS <b><color style="color:#2545ba;">' + t.Score.toString() + '</color></b>'
+                                    var s = 'PTS <b><color style="color:;">' + t.Score.toString() + '</color></b>'
                                     return s
                                 },
                                 class: 'monname'

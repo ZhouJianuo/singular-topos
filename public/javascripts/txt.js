@@ -221,28 +221,28 @@ var txt = {
     },
     "Wave": [
         {
-            "CH": "第一波：",
-            "EN": "WAVE 1:"
+            "CH": "第一波",
+            "EN": "WAVE 1"
         },
         {
-            "CH": "第二波：",
-            "EN": "WAVE 2:"
+            "CH": "第二波",
+            "EN": "WAVE 2"
         },
         {
-            "CH": "第三波：",
-            "EN": "WAVE 3:"
+            "CH": "第三波",
+            "EN": "WAVE 3"
         },
         {
-            "CH": "第四波：",
-            "EN": "WAVE 4:"
+            "CH": "第四波",
+            "EN": "WAVE 4"
         },
         {
-            "CH": "第五波：",
-            "EN": "WAVE 5:"
+            "CH": "第五波",
+            "EN": "WAVE 5"
         },
         {
-            "CH": "第六波：",
-            "EN": "WAVE 6:"
+            "CH": "第六波",
+            "EN": "WAVE 6"
         }
     ],
     "Recommended": [

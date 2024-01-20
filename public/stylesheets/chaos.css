@@ -71,9 +71,8 @@ popdialog {
     padding: 15px 0px;
     margin: 0px;
 }
-
 .monicon {
-    height: 41px;
+    height: 97px;
     vertical-align: middle;
 }
 
@@ -97,9 +96,7 @@ popdialog {
 
 .monster_card {
     padding: 10px;
-    margin: 7px 0px 7px 14px;
-    border: 1px solid black;
-    border-radius: 5px;
+    margin: 0px 7px;
     cursor: pointer;
     display: block;
 }
@@ -341,7 +338,7 @@ input[type=number] {
 .wave_monsters {
     display: flex;
     flex-wrap: wrap;
-    justify-content: left;
+    justify-content: center;
 }
 
 .dpc {
@@ -440,11 +437,13 @@ input[type=number] {
 
 .wave_wrap {
     margin-left: -14px;
+    margin-top: 18px;
     width: calc(100% + 28px);
 }
 
 .wave_name {
     margin: 7px 11px;
+    text-align: center;
 }
 
 .u_r div, .l_r div {
@@ -536,7 +535,7 @@ input[type=number] {
         font-size: 15px;
     }
     .monicon {
-        height: 45px;
+        height: 112px;
     }
     .monname {
         font-size: 14px
@@ -597,7 +596,7 @@ input[type=number] {
     .a_section_head input, select { font-size: 17px; }
     .a_section_head, .a_section_head span { font-size: 20px; }
     .monicon {
-        height: 49px;
+        height: 127px;
     }
     .monname {
         font-size: 15px

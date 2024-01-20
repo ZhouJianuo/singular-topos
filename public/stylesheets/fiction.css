@@ -97,9 +97,7 @@ popdialog {
 
 .monster_card {
     padding: 10px;
-    margin: 7px 0px 7px 14px;
-    border: 1px solid black;
-    border-radius: 5px;
+    margin: 0px 7px;
     cursor: pointer;
     display: block;
 }
@@ -345,7 +343,7 @@ input[type=number] {
 .wave_monsters {
     display: flex;
     flex-wrap: wrap;
-    justify-content: left;
+    justify-content: center;
 }
 
 .dpc {
@@ -470,11 +468,13 @@ input[type=number] {
 
 .wave_wrap {
     margin-left: -14px;
+    margin-top: 18px;
     width: calc(100% + 28px);
 }
 
 .wave_name {
     margin: 7px 11px;
+    text-align: center;
 }
 
 .u_r div, .l_r div {

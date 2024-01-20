@@ -434,7 +434,7 @@ $(function () {
                     {
                         div: [
                             {
-                                img: imgpre + 'images/' + me.Icon,
+                                img: imgpre + 'images/' + me.Figure,
                                 class: 'monicon'
                             },
                         ],
