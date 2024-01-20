@@ -402,10 +402,16 @@ var computer_ = {
                 "EN": "Talent"
             }
         ],
-        "Abyss_UI": {
-            "CH": "切换阵容表风格",
-            "EN": "Switch Chart Style"
-        },
+        "Abyss_UI": [
+            {
+                "CH": "更多信息",
+                "EN": "More Info"
+            },
+            {
+                "CH": "更少信息",
+                "EN": "Less Info"
+            },
+        ],
         "Avatar_Table_Title_Extra": {
             "CH": " | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>char.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
             "EN": " | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.char.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"

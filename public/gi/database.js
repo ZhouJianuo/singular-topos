@@ -872,6 +872,31 @@ var _SpiralAbyssSchedule = [
             67,
             1024
         ]
+    },
+    {
+        "Name": "12",
+        "Show": {
+            "CH": "惊喜 12",
+            "EN": "Surprise 12"
+        },
+        "Generation": 99,
+        "OpenTime": "By 群友和妮可少女<br>2024/01/20",
+        "Phases": [
+            86,
+            87,
+            88
+        ],
+        "Blessings": [
+            1020,
+            1021,
+            1022
+        ],
+        "Floors": [
+            57,
+            58,
+            1015,
+            1026
+        ]
     }
 ]
 
@@ -28777,10 +28802,24 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 60402,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "火",
+                                        "EN": "Pyro"
+                                    },
+                                    "Color": "Fire"
+                                },
                                 "Num": 1
                             },
                             {
                                 "ID": 60404,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "雷",
+                                        "EN": "Electro"
+                                    },
+                                    "Color": "Elec"
+                                },
                                 "Num": 1
                             }
                         ]
@@ -28792,10 +28831,24 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 60401,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "水",
+                                        "EN": "Hydro"
+                                    },
+                                    "Color": "Water"
+                                },
                                 "Num": 1
                             },
                             {
                                 "ID": 60403,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "冰",
+                                        "EN": "Cryo"
+                                    },
+                                    "Color": "Ice"
+                                },
                                 "Num": 1
                             }
                         ]
@@ -29287,6 +29340,13 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 60404,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "雷",
+                                        "EN": "Electro"
+                                    },
+                                    "Color": "Elec"
+                                },
                                 "Num": 1
                             },
                             {
@@ -29302,6 +29362,13 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 60401,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "水",
+                                        "EN": "Hydro"
+                                    },
+                                    "Color": "Water"
+                                },
                                 "Num": 1
                             },
                             {
@@ -30594,10 +30661,24 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 60404,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "雷",
+                                        "EN": "Electro"
+                                    },
+                                    "Color": "Elec"
+                                },
                                 "Num": 1
                             },
                             {
                                 "ID": 60403,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "冰",
+                                        "EN": "Cryo"
+                                    },
+                                    "Color": "Ice"
+                                },
                                 "Num": 1
                             }
                         ]
@@ -30609,10 +30690,24 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 60401,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "水",
+                                        "EN": "Hydro"
+                                    },
+                                    "Color": "Water"
+                                },
                                 "Num": 1
                             },
                             {
                                 "ID": 60403,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "冰",
+                                        "EN": "Cryo"
+                                    },
+                                    "Color": "Ice"
+                                },
                                 "Num": 1
                             }
                         ]
@@ -32436,6 +32531,13 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 60402,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "火",
+                                        "EN": "Pyro"
+                                    },
+                                    "Color": "Fire"
+                                },
                                 "Num": 1,
                                 "Affix": [
                                     1028
@@ -32452,6 +32554,13 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 60402,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "火",
+                                        "EN": "Pyro"
+                                    },
+                                    "Color": "Fire"
+                                },
                                 "Num": 1,
                                 "Affix": [
                                     1028
@@ -33069,6 +33178,13 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 60404,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "雷",
+                                        "EN": "Electro"
+                                    },
+                                    "Color": "Elec"
+                                },
                                 "Num": 1
                             },
                             {
@@ -33082,6 +33198,13 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 60403,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "冰",
+                                        "EN": "Cryo"
+                                    },
+                                    "Color": "Ice"
+                                },
                                 "Num": 1
                             },
                             {
@@ -33789,10 +33912,24 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 60402,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "火",
+                                        "EN": "Pyro"
+                                    },
+                                    "Color": "Fire"
+                                },
                                 "Num": 1
                             },
                             {
                                 "ID": 60403,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "冰",
+                                        "EN": "Cryo"
+                                    },
+                                    "Color": "Ice"
+                                },
                                 "Num": 1
                             }
                         ]
@@ -34418,6 +34555,13 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 60502,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "火",
+                                        "EN": "Pyro"
+                                    },
+                                    "Color": "Fire"
+                                },
                                 "Num": 1,
                                 "Affix": [
                                     6115
@@ -34620,10 +34764,24 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 60402,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "火",
+                                        "EN": "Pyro"
+                                    },
+                                    "Color": "Fire"
+                                },
                                 "Num": 1
                             },
                             {
                                 "ID": 60404,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "雷",
+                                        "EN": "Electro"
+                                    },
+                                    "Color": "Elec"
+                                },
                                 "Num": 1
                             }
                         ]
@@ -36212,10 +36370,24 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 60404,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "雷",
+                                        "EN": "Electro"
+                                    },
+                                    "Color": "Elec"
+                                },
                                 "Num": 1
                             },
                             {
                                 "ID": 60403,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "冰",
+                                        "EN": "Cryo"
+                                    },
+                                    "Color": "Ice"
+                                },
                                 "Num": 1
                             }
                         ]
@@ -38068,10 +38240,24 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 60402,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "火",
+                                        "EN": "Pyro"
+                                    },
+                                    "Color": "Fire"
+                                },
                                 "Num": 1
                             },
                             {
                                 "ID": 60404,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "雷",
+                                        "EN": "Electro"
+                                    },
+                                    "Color": "Elec"
+                                },
                                 "Num": 1
                             }
                         ]
@@ -38349,6 +38535,13 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 60502,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "火",
+                                        "EN": "Pyro"
+                                    },
+                                    "Color": "Fire"
+                                },
                                 "Num": 1,
                                 "Affix": [
                                     6103
@@ -38365,6 +38558,13 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 60502,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "火",
+                                        "EN": "Pyro"
+                                    },
+                                    "Color": "Fire"
+                                },
                                 "Num": 1
                             }
                         ]
@@ -39694,10 +39894,24 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 60404,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "雷",
+                                        "EN": "Electro"
+                                    },
+                                    "Color": "Elec"
+                                },
                                 "Num": 1
                             },
                             {
                                 "ID": 60403,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "冰",
+                                        "EN": "Cryo"
+                                    },
+                                    "Color": "Ice"
+                                },
                                 "Num": 1
                             }
                         ]
@@ -39710,10 +39924,24 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 60404,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "雷",
+                                        "EN": "Electro"
+                                    },
+                                    "Color": "Elec"
+                                },
                                 "Num": 1
                             },
                             {
                                 "ID": 60403,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "冰",
+                                        "EN": "Cryo"
+                                    },
+                                    "Color": "Ice"
+                                },
                                 "Num": 1
                             }
                         ]
@@ -42342,6 +42570,13 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 60401,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "水",
+                                        "EN": "Hydro"
+                                    },
+                                    "Color": "Water"
+                                },
                                 "Num": 1,
                                 "Affix": [
                                     1026
@@ -42349,6 +42584,13 @@ var _SpiralAbyssFloorConfig = {
                             },
                             {
                                 "ID": 60403,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "冰",
+                                        "EN": "Cryo"
+                                    },
+                                    "Color": "Ice"
+                                },
                                 "Num": 2,
                                 "Affix": [
                                     1029
@@ -43729,6 +43971,12 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 21002,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "<color style='color:#00B0F0;'>冰 </color><color style='color:#0070C0;'>水 </color><color style='color:#FF0000;'>火</color>",
+                                        "EN": "<color style='color:#00B0F0;'>Cyro </color><color style='color:#0070C0;'>Hydro </color><color style='color:#FF0000;'>Pyro</color>"
+                                    }
+                                },
                                 "Num": 1,
                                 "Affix": [
                                     5282
@@ -44625,6 +44873,12 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40601,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
                                 "Num": 2
                             },
                             {
@@ -44642,10 +44896,22 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40602,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
                                 "Num": 1
                             },
                             {
                                 "ID": 40604,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
                                 "Num": 2
                             },
                             {
@@ -44669,6 +44935,12 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40657,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "芒",
+                                        "EN": "Pneuma"
+                                    }
+                                },
                                 "Num": 1
                             },
                             {
@@ -44686,10 +44958,22 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40658,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "芒",
+                                        "EN": "Pneuma"
+                                    }
+                                },
                                 "Num": 1
                             },
                             {
                                 "ID": 40652,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "芒",
+                                        "EN": "Pneuma"
+                                    }
+                                },
                                 "Num": 1
                             },
                             {
@@ -44759,6 +45043,12 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40610,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
                                 "Num": 1,
                                 "Affix": [
                                     5371
@@ -44790,6 +45080,12 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40660,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "芒",
+                                        "EN": "Pneuma"
+                                    }
+                                },
                                 "Num": 1,
                                 "Affix": [
                                     5371
@@ -44862,6 +45158,12 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40609,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
                                 "Num": 1
                             },
                             {
@@ -44877,6 +45179,12 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40660,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "芒",
+                                        "EN": "Pneuma"
+                                    }
+                                },
                                 "Num": 1,
                                 "Affix": [
                                     5371
@@ -44943,6 +45251,12 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40607,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
                                 "Num": 1
                             },
                             {
@@ -44970,10 +45284,22 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40662,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "芒",
+                                        "EN": "Pneuma"
+                                    }
+                                },
                                 "Num": 1
                             },
                             {
                                 "ID": 40654,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "芒",
+                                        "EN": "Pneuma"
+                                    }
+                                },
                                 "Num": 2
                             }
                         ]
@@ -45490,6 +45816,13 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 60503,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "冰",
+                                        "EN": "Cryo"
+                                    },
+                                    "Color": "Ice"
+                                },
                                 "Num": 1
                             }
                         ]
@@ -45580,10 +45913,22 @@ var _SpiralAbyssFloorConfig = {
                             },
                             {
                                 "ID": 40659,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "芒",
+                                        "EN": "Pneuma"
+                                    }
+                                },
                                 "Num": 1
                             },
                             {
                                 "ID": 40662,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "芒",
+                                        "EN": "Pneuma"
+                                    }
+                                },
                                 "Num": 1
                             }
                         ]
@@ -45799,6 +46144,12 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40610,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
                                 "Num": 1,
                                 "Affix": [
                                     5371
@@ -45806,6 +46157,12 @@ var _SpiralAbyssFloorConfig = {
                             },
                             {
                                 "ID": 40612,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
                                 "Num": 1
                             }
                         ]
@@ -45819,6 +46176,12 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40610,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
                                 "Num": 1,
                                 "Affix": [
                                     5371
@@ -45826,6 +46189,12 @@ var _SpiralAbyssFloorConfig = {
                             },
                             {
                                 "ID": 40609,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
                                 "Num": 1
                             }
                         ]
@@ -45837,6 +46206,12 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40701,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "芒",
+                                        "EN": "Pneuma"
+                                    }
+                                },
                                 "Num": 1,
                                 "Affix": [
                                     40701
@@ -46383,10 +46758,22 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40662,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "芒",
+                                        "EN": "Pneuma"
+                                    }
+                                },
                                 "Num": 1
                             },
                             {
                                 "ID": 40659,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "芒",
+                                        "EN": "Pneuma"
+                                    }
+                                },
                                 "Num": 1
                             }
                         ]
@@ -46398,6 +46785,12 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40702,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
                                 "Num": 1,
                                 "Affix": [
                                     40701
@@ -46468,6 +46861,12 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40801,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
                                 "Num": 1,
                                 "Affix": [
                                     5384
@@ -46485,6 +46884,12 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40801,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
                                 "Num": 1,
                                 "Affix": [
                                     5384
@@ -47034,6 +47439,12 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40610,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
                                 "Num": 1,
                                 "Affix": [
                                     5371
@@ -47041,6 +47452,12 @@ var _SpiralAbyssFloorConfig = {
                             },
                             {
                                 "ID": 40608,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
                                 "Num": 1
                             }
                         ]
@@ -47053,10 +47470,22 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40662,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "芒",
+                                        "EN": "Pneuma"
+                                    }
+                                },
                                 "Num": 1
                             },
                             {
                                 "ID": 40654,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "芒",
+                                        "EN": "Pneuma"
+                                    }
+                                },
                                 "Num": 2
                             }
                         ]
@@ -47070,10 +47499,22 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40651,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "芒",
+                                        "EN": "Pneuma"
+                                    }
+                                },
                                 "Num": 2
                             },
                             {
                                 "ID": 40657,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "芒",
+                                        "EN": "Pneuma"
+                                    }
+                                },
                                 "Num": 2
                             }
                         ]
@@ -47087,6 +47528,12 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40610,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
                                 "Num": 1,
                                 "Affix": [
                                     5371
@@ -47094,6 +47541,12 @@ var _SpiralAbyssFloorConfig = {
                             },
                             {
                                 "ID": 40608,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
                                 "Num": 1
                             }
                         ]
@@ -47107,10 +47560,22 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40662,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "芒",
+                                        "EN": "Pneuma"
+                                    }
+                                },
                                 "Num": 1
                             },
                             {
                                 "ID": 40654,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "芒",
+                                        "EN": "Pneuma"
+                                    }
+                                },
                                 "Num": 2
                             }
                         ]
@@ -47217,6 +47682,12 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40702,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
                                 "Num": 1,
                                 "Affix": [
                                     40701
@@ -47530,10 +48001,22 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40662,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "芒",
+                                        "EN": "Pneuma"
+                                    }
+                                },
                                 "Num": 1
                             },
                             {
                                 "ID": 40660,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "芒",
+                                        "EN": "Pneuma"
+                                    }
+                                },
                                 "Num": 1,
                                 "Affix": [
                                     5371
@@ -47680,6 +48163,12 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40662,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "芒",
+                                        "EN": "Pneuma"
+                                    }
+                                },
                                 "Num": 1
                             }
                         ]
@@ -47720,10 +48209,24 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 60401,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "水",
+                                        "EN": "Hydro"
+                                    },
+                                    "Color": "Water"
+                                },
                                 "Num": 1
                             },
                             {
                                 "ID": 60402,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "火",
+                                        "EN": "Pyro"
+                                    },
+                                    "Color": "Fire"
+                                },
                                 "Num": 1
                             }
                         ]
@@ -47792,10 +48295,24 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 60401,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "水",
+                                        "EN": "Hydro"
+                                    },
+                                    "Color": "Water"
+                                },
                                 "Num": 1
                             },
                             {
                                 "ID": 60402,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "火",
+                                        "EN": "Pyro"
+                                    },
+                                    "Color": "Fire"
+                                },
                                 "Num": 1
                             }
                         ]
@@ -48174,10 +48691,24 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 60401,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "水",
+                                        "EN": "Hydro"
+                                    },
+                                    "Color": "Water"
+                                },
                                 "Num": 1
                             },
                             {
                                 "ID": 60403,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "冰",
+                                        "EN": "Cryo"
+                                    },
+                                    "Color": "Ice"
+                                },
                                 "Num": 1
                             }
                         ]
@@ -48417,6 +48948,12 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40612,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
                                 "Num": 2
                             }
                         ]
@@ -48771,10 +49308,22 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40608,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
                                 "Num": 1
                             },
                             {
                                 "ID": 40609,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
                                 "Num": 1
                             }
                         ]
@@ -48787,10 +49336,22 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40608,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
                                 "Num": 1
                             },
                             {
                                 "ID": 40609,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
                                 "Num": 1
                             }
                         ]
@@ -49588,10 +50149,24 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 60401,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "水",
+                                        "EN": "Hydro"
+                                    },
+                                    "Color": "Water"
+                                },
                                 "Num": 1
                             },
                             {
                                 "ID": 60403,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "冰",
+                                        "EN": "Cryo"
+                                    },
+                                    "Color": "Ice"
+                                },
                                 "Num": 1
                             },
                             {
@@ -49930,6 +50505,12 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40702,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
                                 "Num": 1,
                                 "Affix": [
                                     611501,
@@ -50615,6 +51196,12 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40701,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "芒",
+                                        "EN": "Pneuma"
+                                    }
+                                },
                                 "Num": 1,
                                 "Affix": [
                                     40701
@@ -51581,6 +52168,12 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 21002,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "<color style='color:#00B0F0;'>冰 </color><color style='color:#0070C0;'>水 </color><color style='color:#FF0000;'>火</color>",
+                                        "EN": "<color style='color:#00B0F0;'>Cyro </color><color style='color:#0070C0;'>Hydro </color><color style='color:#FF0000;'>Pyro</color>"
+                                    }
+                                },
                                 "Num": 1
                             }
                         ]
@@ -51729,6 +52322,12 @@ var _SpiralAbyssFloorConfig = {
                             },
                             {
                                 "ID": 40612,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
                                 "Num": 1
                             }
                         ]
@@ -51746,6 +52345,12 @@ var _SpiralAbyssFloorConfig = {
                             },
                             {
                                 "ID": 40662,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "芒",
+                                        "EN": "Pneuma"
+                                    }
+                                },
                                 "Num": 1
                             }
                         ]
@@ -52322,6 +52927,12 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 21002,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "<color style='color:#00B0F0;'>冰 </color><color style='color:#0070C0;'>水 </color><color style='color:#FF0000;'>火</color>",
+                                        "EN": "<color style='color:#00B0F0;'>Cyro </color><color style='color:#0070C0;'>Hydro </color><color style='color:#FF0000;'>Pyro</color>"
+                                    }
+                                },
                                 "Num": 1,
                                 "Affix": [
                                     5282
@@ -52483,6 +53094,12 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40662,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "芒",
+                                        "EN": "Pneuma"
+                                    }
+                                },
                                 "Num": 1
                             },
                             {
@@ -52496,6 +53113,12 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40612,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
                                 "Num": 1
                             },
                             {
@@ -52677,10 +53300,24 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 60402,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "火",
+                                        "EN": "Pyro"
+                                    },
+                                    "Color": "Fire"
+                                },
                                 "Num": 1
                             },
                             {
                                 "ID": 60403,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "冰",
+                                        "EN": "Cryo"
+                                    },
+                                    "Color": "Ice"
+                                },
                                 "Num": 1
                             }
                         ]
@@ -52810,6 +53447,12 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40702,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
                                 "Num": 1,
                                 "Affix": [
                                     40701
@@ -53038,6 +53681,12 @@ var _SpiralAbyssFloorConfig = {
                             },
                             {
                                 "ID": 40662,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "芒",
+                                        "EN": "Pneuma"
+                                    }
+                                },
                                 "Num": 1
                             }
                         ]
@@ -53219,6 +53868,12 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40702,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
                                 "Num": 1,
                                 "Affix": [
                                     40701
@@ -53231,6 +53886,12 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40701,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "芒",
+                                        "EN": "Pneuma"
+                                    }
+                                },
                                 "Num": 1,
                                 "Affix": [
                                     40701
@@ -53396,6 +54057,12 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 21002,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "<color style='color:#00B0F0;'>冰 </color><color style='color:#0070C0;'>水 </color><color style='color:#FF0000;'>火</color>",
+                                        "EN": "<color style='color:#00B0F0;'>Cyro </color><color style='color:#0070C0;'>Hydro </color><color style='color:#FF0000;'>Pyro</color>"
+                                    }
+                                },
                                 "Num": 1,
                                 "Affix": [
                                     5282
@@ -53408,6 +54075,12 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 21001,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "<color style='color:#FF0000;'>火 </color><color style='color:#00B0F0;'>冰 </color><color style='color:#7030A0;'>雷</color>",
+                                        "EN": "<color style='color:#FF0000;'>Pyro </color><color style='color:#00B0F0;'>Cyro </color><color style='color:#7030A0;'>Elec</color>"
+                                    }
+                                },
                                 "Num": 1,
                                 "Affix": [
                                     5282
@@ -53526,22 +54199,52 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40601,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
                                 "Num": 8
                             },
                             {
                                 "ID": 40657,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "芒",
+                                        "EN": "Pneuma"
+                                    }
+                                },
                                 "Num": 12
                             },
                             {
                                 "ID": 40611,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
                                 "Num": 6
                             },
                             {
                                 "ID": 40654,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "芒",
+                                        "EN": "Pneuma"
+                                    }
+                                },
                                 "Num": 12
                             },
                             {
                                 "ID": 40602,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
                                 "Num": 6
                             }
                         ]
@@ -53789,6 +54492,12 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40659,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "芒",
+                                        "EN": "Pneuma"
+                                    }
+                                },
                                 "Num": 1
                             },
                             {
@@ -53806,6 +54515,12 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40608,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
                                 "Num": 1
                             },
                             {
@@ -53823,6 +54538,12 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40610,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
                                 "Num": 1
                             },
                             {

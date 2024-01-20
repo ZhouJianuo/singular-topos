@@ -76,6 +76,7 @@ container {
 .generation {
     display: flex;
     flex-wrap: wrap;
+    display: none;
 }
 
 .schedule schedule {
@@ -282,12 +283,13 @@ container {
     text-align: center;
     line-height: 26px;
     font-size: 16px;
+    margin-top: 10px;
 }
 
 .a_floor_button {
     display: flex;
     justify-content: space-evenly;
-    margin: 10px 0;
+    margin: 10px 0px 25px;
 }
 
 .a_floor .up_low {
@@ -347,9 +349,12 @@ container {
     bottom: calc(100% + 1px);
 }
 
-.u_l_w,
+.u_l_w {
+    padding: 25px 10px 0px 15px;
+}
+
 .u_l_g {
-    padding: 10px 10px 10px 15px;
+    padding: 17px 10px 3px 15px;
 }
 
 .u_l_w ol {
@@ -438,11 +443,19 @@ container {
     font-family: 'Segoe UI', 'Arial', sans-serif;
 }
 
+.showtop {
+    font-size: 26px;
+    text-align: center;
+    margin-top: -8px;
+    margin-bottom: 8px;
+    cursor: pointer;
+}
+
 moster {
-    float: left;
     width: 100%;
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 moster a {
@@ -451,23 +464,17 @@ moster a {
     cursor: pointer;
     text-decoration: none;
     color: #000000;
+    display: block;
 }
 
 .monster_card {
     padding: 10px;
-    border: 1px solid black;
-    border-radius: 5px;
     cursor: pointer;
-    height: 60px;
-    display: flex;
-    flex-wrap: wrap;
-    overflow-x: scroll;
-    overflow-y: hidden;
     font-size: 14px;
+    display: block
 }
 
 .acc {
-    margin: 7px 14px 7px 0px;
     position: relative;
     max-width: 97%;
 }
@@ -494,32 +501,41 @@ i.affix_hover {
 }
 
 .monicon_container {
-    margin-right: 5px;
+    padding-right: 4px;
     vertical-align: middle;
     position: relative;
+    width: max-content;
+    margin: auto;
+    text-align: center;
+}
+
+.monbelow {
+    width: 100%;
+    text-align: center;
+    margin-top: 6px;
 }
 
 .monicon {
-    height: 40px;
-    width: 40px;
+    height: 50px;
+    width: 50px;
     vertical-align: middle;
 }
 
 .monicon_num {
     position: absolute;
-    bottom: -1px;
-    right: -3px;
     background-color: #fff;
     z-index: 1000;
-    height: 17px;
-    width: 17px;
     border-radius: 50%;
     border: 1px solid #000;
     text-align: center;
-    line-height: 16px;
-    font-size: 13px;
     font-weight: bold;
     font-family: 'Arial';
+    bottom: -2px;
+    right: -3px;
+    height: 19px;
+    width: 19px;
+    line-height: 19px;
+    font-size: 14px;
 }
 
 .monicon_mark {
@@ -548,6 +564,36 @@ i.affix_hover {
     white-space: nowrap;
 }
 
+.mon_hover_affix, .mon_hover_name {
+    text-align: center;
+    width: 100%;
+}
+
+.acc_hover {
+    position: absolute;
+    display: none;
+    z-index: 1002;
+    width: 500px;
+    left: calc(50% - 250px);
+    top: calc(75%);
+}
+
+.acc_hover_ {
+    background-color: white;
+    padding: 12px;
+    border: 2px solid;
+    border-radius: 8px;
+    width: max-content;
+    margin: auto;
+}
+
+.monnote {
+    padding: 5px;
+    font-weight: bold;
+    font-size: 13px;
+    text-align: center;
+}
+
 section>span,
 section>schedule,
 .p_b p,
@@ -565,6 +611,20 @@ section>schedule,
 }
 
 @media screen and (min-width: 600px) and (max-width: 800px) {
+
+    .showtop {
+        font-size: 32px;
+    }
+
+    .ui {
+        height: 33px;
+        font-size: 16px;
+    }
+    
+    .monnote {
+        font-size: 14px;
+    }
+
     .a_floor h6 {
         line-height: 29px;
     }
@@ -591,21 +651,20 @@ section>schedule,
 
     .monster_card {
         font-size: 15px;
-        height: 64px;
     }
 
     .monicon {
-        height: 44px;
-        width: 44px;
+        height: 59px;
+        width: 59px;
     }
 
     .monicon_num {
-        bottom: -2px;
+        bottom: -3px;
         right: -3px;
-        height: 19px;
-        width: 19px;
-        line-height: 19px;
-        font-size: 14px;
+        height: 23px;
+        width: 23px;
+        line-height: 23px;
+        font-size: 16px;
     }
 }
 
@@ -616,6 +675,20 @@ section>schedule,
 }
 
 @media screen and (min-width: 800px) {
+
+    .showtop {
+        font-size: 38px;
+    }
+
+    .ui {
+        height: 36px;
+        font-size: 18px;
+    }
+
+    .monnote {
+        font-size: 15px;
+    }
+
     .a_floor>ul {
         margin-left: 0px;
         margin-right: 0px;
@@ -670,21 +743,20 @@ section>schedule,
 
     .monster_card {
         font-size: 16px;
-        height: 68px;
     }
 
     .monicon {
-        height: 48px;
-        width: 48px;
+        height: 68px;
+        width: 68px;
     }
 
     .monicon_num {
         bottom: -3px;
         right: -3px;
-        height: 21px;
-        width: 21px;
-        line-height: 21px;
-        font-size: 15px;
+        height: 25px;
+        width: 25px;
+        line-height: 25px;
+        font-size: 18px;
     }
 }
 

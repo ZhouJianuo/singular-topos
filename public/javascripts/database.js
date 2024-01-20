@@ -12,6 +12,7 @@ $(function () {
     var cur_select_floororchart = 1
     var UI = 0
     var cur_floor_index = 0
+    var showtop = 1
 
     DPSDict = dpsdict(_SpiralAbyssDPSData)
     begin1()
@@ -37,6 +38,9 @@ $(function () {
         $('container').render({
             template: [{
                 div: [{
+                    p: '+',
+                    class: 'showtop',
+                }, {
                     section: function (d) {
                         $(d.container).render({
                             data: computer_.SpiralAbyssGenerationConfig,
@@ -62,7 +66,7 @@ $(function () {
                             data: _SpiralAbyssSchedule,
                             template: {
                                 schedule: function (d) {
-                                    if (d.data.Show) return d.data.Show[lang]
+                                    if (d.data.Show) return d.data.Show[lang].replace('惊喜 ', '').replace('Surprise ', '')
                                     return d.data.Name
                                 },
                                 a: {
@@ -224,7 +228,7 @@ $(function () {
                 }, {
                     em: sData.OpenTime
                 }, {
-                    button: computer_.MiscText.Abyss_UI[lang],
+                    button: computer_.MiscText.Abyss_UI[UI][lang],
                     class: 'ui',
                 }]
             }, {
@@ -466,7 +470,11 @@ $(function () {
                     }, {
                         div: [{
                             button: computer_.MiscText.Abyss_Chamber_Button_Buff[lang],
-                            click: bufferPop
+                            click: bufferPop,
+                            style: {
+                                position: 'relative',
+                                left: (UI % 2 == 0 && window.innerWidth >= 800) ? '25px' : ''
+                            }
                         }, {
                             select: '',
                             options: show_vops,
@@ -477,7 +485,11 @@ $(function () {
                             class: 'version-choose',
                         }, {
                             button: computer_.MiscText.Abyss_Chamber_Button_Cond[lang],
-                            click: condPop
+                            click: condPop,
+                            style: {
+                                position: 'relative',
+                                right: (UI % 2 == 0 && window.innerWidth >= 800) ? '25px' : ''
+                            }
                         }],
                         class: 'a_floor_button'
                     }, {
@@ -757,7 +769,7 @@ $(function () {
                                                 class: 'need_header'
                                             })
                                         },
-                                        class: 'u_l_g'
+                                        class: this_class
                                     });
                                 },
                                 {
@@ -931,7 +943,7 @@ $(function () {
                         }
                         ],
                         class: 'up_low',
-                        when: UI
+                        when: UI % 2 == 1
                     }, {
                         div: [{
                             div: [
@@ -1179,7 +1191,7 @@ $(function () {
                                                 class: 'need_header'
                                             })
                                         },
-                                        class: 'u_l_g'
+                                        class: this_class
                                     });
                                 },
                                 {
@@ -1323,7 +1335,558 @@ $(function () {
                         }
                         ],
                         class: 'up_low',
-                        when: !UI
+                        when: false
+                    }, {
+                        div: [{
+                            div: [
+                                function (p) {
+                                    var ver_list = p.data.GadgetVers;
+                                    if (!ver_list) {
+                                        var this_class = 'u_l_g'
+                                    } else {
+                                        var this_class = 'u_l_g sw'
+                                        for (var j = 0; j < ver_list.length; j++) {
+                                            this_class = this_class.concat(' sw-' + ver_list[j].toString())
+                                        }
+                                    }
+                                    $(p.container).render({
+                                        div: {
+                                            span: [
+                                                function (d) {
+                                                    return _SpiralAbyssGadgetDescConfig[d.data.Gadgets[0]].Show.Text[lang]
+                                                },
+                                                {
+                                                    i: function (d) {
+                                                        return computer_.MiscText.Abyss_Show[lang] + "<br><br>" + _SpiralAbyssGadgetDescConfig[d.data.Gadgets[0]].Hover[lang]
+                                                    },
+                                                    when: function (d) {
+                                                        return _SpiralAbyssGadgetDescConfig[d.data.Gadgets[0]].Hover
+                                                    },
+                                                    width: '450px'
+                                                }
+                                            ],
+                                            style: {
+                                                'font-weight': function (d) {
+                                                    return _SpiralAbyssGadgetDescConfig[d.data.Gadgets[0]].Show.Bold ? 600 : 500
+                                                },
+                                                color: function (d) {
+                                                    var color = _SpiralAbyssGadgetDescConfig[d.data.Gadgets[0]].Show.Color || '';
+                                                    return computer_.TextColorConfig[color];
+                                                },
+                                                display: 'table',
+                                                margin: 'auto',
+                                            }
+                                        },
+                                        when: function (d) {
+                                            return d.data.Gadgets && d.data.Gadgets.length && d.data.Gadgets[0]
+                                        },
+                                        click: function (d) {
+                                            var hover = _SpiralAbyssGadgetDescConfig[d.org_data.Gadgets[0]].Hover[lang]
+                                            if (!hover) {
+                                                return;
+                                            }
+                                            poplayer({
+                                                header: _SpiralAbyssGadgetDescConfig[d.org_data.Gadgets[0]].Show.Text[lang],
+                                                width: '50%',
+                                                height: '400px',
+                                                template: {
+                                                    div: "<span style='font-size:13px'><b>" + computer_.MiscText.Abyss_Show[lang] + "</b></span><br><br>" + hover
+                                                },
+                                                class: 'need_header'
+                                            })
+                                        },
+                                        class: this_class,
+                                        style: {
+                                            'padding-left': '0px',
+                                            'padding-right': '0px'
+                                        }
+                                    });
+                                },
+                                {
+                                    div: {
+                                        div: function (p) {
+                                            var weav = _SpiralAbyssWaveDescConfig[p.data.WaveDesc];
+                                            var extraDesc = p.data.ExtraDesc && p.data.ExtraDesc[lang];
+                                            var monsters = p.data.Monsters;
+                                            var ver_list = p.data.Vers;
+                                            if (!ver_list) {
+                                                var this_class = ''
+                                            } else {
+                                                var this_class = 'sw'
+                                                for (var j = 0; j < ver_list.length; j++) {
+                                                    this_class = this_class.concat(' sw-' + ver_list[j].toString())
+                                                }
+                                            }
+                                            $(p.container).render({
+                                                data: { monsters: monsters },
+                                                template: [{
+                                                    div: [{
+                                                        span: [w(weav.Show.Text[lang]), {
+                                                            i: weav.Hover && weav.Hover[lang],
+                                                            when: function () {
+                                                                return weav.Hover && weav.Hover[lang]
+                                                            },
+                                                            width: '240px',
+                                                            style: {
+                                                                left: 'calc(50% - 120px)',
+                                                                bottom: 'calc(100% + 5px)'
+                                                            }
+                                                        }],
+                                                        class: 'weav_hover',
+                                                        style: {
+                                                            display: 'table',
+                                                            margin: '0px auto 8px',
+                                                            padding: '0px 20px',
+                                                            'text-align': 'center'
+                                                        }
+                                                    }, {
+                                                        span: extraDesc,
+                                                        when: function () {
+                                                            return extraDesc
+                                                        },
+                                                        style: {
+                                                            color: '#808080',
+                                                            "font-size": '12px',
+                                                            display: 'table',
+                                                            margin: 'auto'
+                                                        }
+                                                    }],
+                                                    class: this_class,
+                                                    style: {
+                                                        'padding-top': '10px'
+                                                    }
+                                                }, {
+                                                    moster: {
+                                                        div: [
+                                                            {
+                                                                a: function (d) {
+                                                                    var monsterId = d.data.ID;
+                                                                    var interval = $(d.container).parents('.up_low').siblings('h6').attr('data-name')
+                                                                    return '/gi/monster?lang=' + lang + '&id=' + monsterId + '&level=' + interval
+                                                                },
+                                                                attr: { target: '_blank' },
+                                                                t: function (m) {
+                                                                    var monster = _Monsters[m.data.ID];
+                                                                    var num = m.data.Num;
+                                                                    var mask = m.data.Mark || false;
+                                                                    var hpDown = m.data.HPDown || false;
+                                                                    var hpUp = m.data.HPUp || false;
+                                                                    var hpOverride = m.data.HPOverride;
+                                                                    var nameOverride = m.data.Name || false;
+                                                                    var choose_icon = monster.Icon[Math.floor(Math.random() * monster.Icon.length)]
+                                                                    if (!monster) return;
+                                                                    $(m.container).render([
+                                                                        {
+                                                                            div: [
+                                                                                {
+                                                                                    span: '⊗',
+                                                                                    class: 'monicon_mark',
+                                                                                    when: mask
+                                                                                },
+                                                                                {
+                                                                                    img: imgpre + 'homdgcat-res/monster/' + choose_icon + '.png',
+                                                                                    class: 'monicon'
+                                                                                },
+                                                                                {
+                                                                                    span: (num || '?').toString(),
+                                                                                    class: 'monicon_num',
+                                                                                    when: num,
+                                                                                }
+                                                                            ],
+                                                                            class: 'monicon_container'
+                                                                        },
+                                                                        {
+                                                                            div: [
+                                                                                {
+                                                                                    span: function (d) {
+                                                                                        var HPBase = monster.HP
+                                                                                        if (hpOverride) HPBase = hpOverride
+                                                                                        var HPCurve = monster.HPCurve
+                                                                                        var inter = _SpiralAbyssFloorEntryToLevelCoeffConfig[$(d.container).parents('.up_low').siblings('h6').attr('data-name')]
+                                                                                        var HP = Math.round(HPBase * computer_.LevelCurves[inter.Level][HPCurve] * inter.HPCoeff)
+                                                                                        var s = '<b><color style="color:' + (computer_.TextColorConfig[monster.Color] || '') + ';">' + HP + '</color></b>'
+                                                                                        if (hpDown) s = '<b><color style="color:' + (computer_.TextColorConfig[monster.Color] || '') + ';">' + HP + ' ↓</color></b>'
+                                                                                        if (hpUp) s = '<b><color style="color:' + (computer_.TextColorConfig[monster.Color] || '') + ';">' + HP + ' ↑</color></b>'
+                                                                                        return s
+                                                                                    }
+                                                                                },
+                                                                            ],
+                                                                            class: 'monbelow'
+                                                                        },
+                                                                        {
+                                                                            div: {
+                                                                                p: m.data.Note ? m.data.Note.Text[lang] : '',
+                                                                                style: {
+                                                                                    color: function (j) {
+                                                                                        if (!m.data.Note) return ''
+                                                                                        return m.data.Note.Color ? (computer_.TextColorConfig[m.data.Note.Color] ? computer_.TextColorConfig[m.data.Note.Color] : m.data.Note.Color) : '#808080';
+                                                                                    },
+                                                                                },
+                                                                            },
+                                                                            class: 'monnote',
+                                                                            when: (m.data.Note != undefined)
+                                                                        }
+                                                                    ])
+                                                                },
+                                                                class: 'monster_card'
+                                                            },
+                                                            {
+                                                                div: {
+                                                                    div: [
+                                                                        {
+                                                                            p: function (m) {
+                                                                                var monster = _Monsters[m.data.ID];
+                                                                                var nameOverride = m.data.Name || false;
+                                                                                if (nameOverride) {
+                                                                                    return nameOverride[lang]
+                                                                                }
+                                                                                if (monster.UseCustomColorName) {
+                                                                                    return _MonsterCustomColorNameConfig[m.data.ID].Name[lang]
+                                                                                }
+                                                                                return monster.Name[lang]
+                                                                            },
+                                                                            class: 'mon_hover_name',
+                                                                            style: {
+                                                                                color: function (m) {
+                                                                                    return computer_.TextColorConfig[_Monsters[m.data.ID].Color] || '';
+                                                                                }
+                                                                            },
+                                                                        },
+                                                                        {
+                                                                            p: {
+                                                                                span: function (d) {
+                                                                                    var t = _SpiralAbyssAffixDescConfig[d.data].Show.Text[lang]
+                                                                                    if (t.substring(0, 1) == " ") t = t.substring(1)
+                                                                                    return t
+                                                                                },
+                                                                                style: {
+                                                                                    color: function (d) {
+                                                                                        var color = _SpiralAbyssAffixDescConfig[d.data].Show.Color;
+                                                                                        return computer_.TextColorConfig[color] || '';
+                                                                                    },
+                                                                                    'font-weight': function (d) {
+                                                                                        var bold = _SpiralAbyssAffixDescConfig[d.data].Show.Bold;
+                                                                                        return bold ? 600 : 500;
+                                                                                    },
+                                                                                    'margin-left': '0',
+                                                                                    'margin-top': '5px',
+                                                                                },
+                                                                                class: 'affix_s_h',
+                                                                                datapath: 'Affix',
+                                                                            },
+                                                                            class: 'mon_hover_affix',
+                                                                            when: function (d) {
+                                                                                return d.data.Affix && d.data.Affix.length
+                                                                            }
+                                                                        }
+                                                                    ],
+                                                                    class: 'acc_hover_',
+                                                                    style: {
+                                                                        'border-color': function (m) {
+                                                                            return computer_.TextColorConfig[_Monsters[m.data.ID].Color] || '';
+                                                                        }
+                                                                    },
+                                                                },
+                                                                class: 'acc_hover'
+                                                            }
+                                                        ],
+                                                        datapath: 'monsters',
+                                                        class: 'acc'
+                                                    },
+                                                    class: this_class
+                                                }]
+                                            })
+                                        },
+                                        datapath: 'Upper'
+                                    },
+                                    class: 'u_l_w',
+                                    style: {
+                                        'padding-left': '0px',
+                                        'padding-right': '0px',
+                                        'padding-top': '15px'
+                                    }
+                                }
+                            ],
+                            class: 'upper'
+                        },
+                        {
+                            div: [
+                                function (p) {
+                                    var ver_list = p.data.GadgetVers;
+                                    if (!ver_list) {
+                                        var this_class = 'u_l_g'
+                                    } else {
+                                        var this_class = 'u_l_g sw'
+                                        for (var j = 0; j < ver_list.length; j++) {
+                                            this_class = this_class.concat(' sw-' + ver_list[j].toString())
+                                        }
+                                    }
+                                    $(p.container).render({
+                                        div: {
+                                            span: [function (d) {
+                                                return _SpiralAbyssGadgetDescConfig[d.data.Gadgets[1]].Show.Text[lang]
+                                            }, {
+                                                i: function (d) {
+                                                    return computer_.MiscText.Abyss_Show[lang] + "<br><br>" + _SpiralAbyssGadgetDescConfig[d.data.Gadgets[1]].Hover[lang]
+                                                },
+                                                when: function (d) {
+                                                    return _SpiralAbyssGadgetDescConfig[d.data.Gadgets[1]].Hover
+                                                },
+                                                width: '450px'
+                                            }],
+                                            style: {
+                                                'font-weight': function (d) {
+                                                    return _SpiralAbyssGadgetDescConfig[d.data.Gadgets[1]].Show.Bold ? 600 : 500
+                                                },
+                                                color: function (d) {
+                                                    var color = _SpiralAbyssGadgetDescConfig[d.data.Gadgets[1]].Show.Color || '';
+                                                    return computer_.TextColorConfig[color];
+                                                },
+                                                display: 'table',
+                                                margin: 'auto',
+                                            }
+                                        },
+                                        when: function (d) {
+                                            return d.data.Gadgets && d.data.Gadgets.length && d.data.Gadgets[1]
+                                        },
+                                        click: function (d) {
+                                            var hover = _SpiralAbyssGadgetDescConfig[d.org_data.Gadgets[1]].Hover[lang]
+                                            if (!hover) {
+                                                return;
+                                            }
+                                            poplayer({
+                                                header: _SpiralAbyssGadgetDescConfig[d.org_data.Gadgets[1]].Show.Text[lang],
+                                                width: '50%',
+                                                height: '400px',
+                                                template: {
+                                                    div: "<span style='font-size:13px'><b>" + computer_.MiscText.Abyss_Show[lang] + "</b></span><br><br>" + hover
+                                                },
+                                                class: 'need_header'
+                                            })
+                                        },
+                                        class: this_class,
+                                        style: {
+                                            'padding-left': '0px',
+                                            'padding-right': '0px'
+                                        }
+                                    });
+                                },
+                                {
+                                    div: {
+                                        div: function (p) {
+                                            var weav = _SpiralAbyssWaveDescConfig[p.data.WaveDesc];
+                                            var extraDesc = p.data.ExtraDesc && p.data.ExtraDesc[lang];
+                                            var monsters = p.data.Monsters;
+                                            var ver_list = p.data.Vers;
+                                            if (!ver_list) {
+                                                var this_class = ''
+                                            } else {
+                                                var this_class = 'sw'
+                                                for (var j = 0; j < ver_list.length; j++) {
+                                                    this_class = this_class.concat(' sw-' + ver_list[j].toString())
+                                                }
+                                            }
+                                            $(p.container).render({
+                                                data: { monsters: monsters },
+                                                template: [{
+                                                    div: [{
+                                                        span: [w(weav.Show.Text[lang]), {
+                                                            i: weav.Hover && weav.Hover[lang],
+                                                            when: function () {
+                                                                return weav.Hover && weav.Hover[lang]
+                                                            },
+                                                            width: '240px',
+                                                            style: {
+                                                                left: 'calc(50% - 120px)',
+                                                                bottom: 'calc(100% + 5px)'
+                                                            }
+                                                        }],
+                                                        class: 'weav_hover',
+                                                        style: {
+                                                            display: 'table',
+                                                            margin: '0px auto 8px',
+                                                            padding: '0px 20px',
+                                                            'text-align': 'center'
+                                                        }
+                                                    }, {
+                                                        span: extraDesc,
+                                                        when: function () {
+                                                            return extraDesc
+                                                        },
+                                                        style: {
+                                                            'font-weight': function (d) {
+                                                                return weav.Show.Bold ? 600 : 500
+                                                            },
+                                                            color: function (d) {
+                                                                var color = weav.Show.Color;
+                                                                return computer_.TextColorConfig[color] || '#808080';
+                                                            },
+                                                            "font-size": '12px',
+                                                            display: 'table',
+                                                            margin: 'auto'
+                                                        }
+                                                    }],
+                                                    class: this_class,
+                                                    style: {
+                                                        'padding-top': '10px'
+                                                    }
+                                                }, {
+                                                    moster: {
+                                                        div: [
+                                                            {
+                                                                a: function (d) {
+                                                                    var monsterId = d.data.ID;
+                                                                    var interval = $(d.container).parents('.up_low').siblings('h6').attr('data-name')
+                                                                    return '/gi/monster?lang=' + lang + '&id=' + monsterId + '&level=' + interval
+                                                                },
+                                                                attr: { target: '_blank' },
+                                                                t: function (m) {
+                                                                    var monster = _Monsters[m.data.ID];
+                                                                    var num = m.data.Num;
+                                                                    var mask = m.data.Mark || false;
+                                                                    var hpDown = m.data.HPDown || false;
+                                                                    var hpUp = m.data.HPUp || false;
+                                                                    var hpOverride = m.data.HPOverride;
+                                                                    var nameOverride = m.data.Name || false;
+                                                                    var choose_icon = monster.Icon[Math.floor(Math.random() * monster.Icon.length)]
+                                                                    if (!monster) return;
+                                                                    $(m.container).render([
+                                                                        {
+                                                                            div: [
+                                                                                {
+                                                                                    span: '⊗',
+                                                                                    class: 'monicon_mark',
+                                                                                    when: mask
+                                                                                },
+                                                                                {
+                                                                                    img: imgpre + 'homdgcat-res/monster/' + choose_icon + '.png',
+                                                                                    class: 'monicon'
+                                                                                },
+                                                                                {
+                                                                                    span: (num || '?').toString(),
+                                                                                    class: 'monicon_num',
+                                                                                    when: num,
+                                                                                }
+                                                                            ],
+                                                                            class: 'monicon_container'
+                                                                        },
+                                                                        {
+                                                                            div: [
+                                                                                {
+                                                                                    span: function (d) {
+                                                                                        var HPBase = monster.HP
+                                                                                        if (hpOverride) HPBase = hpOverride
+                                                                                        var HPCurve = monster.HPCurve
+                                                                                        var inter = _SpiralAbyssFloorEntryToLevelCoeffConfig[$(d.container).parents('.up_low').siblings('h6').attr('data-name')]
+                                                                                        var HP = Math.round(HPBase * computer_.LevelCurves[inter.Level][HPCurve] * inter.HPCoeff)
+                                                                                        var s = '<b><color style="color:' + (computer_.TextColorConfig[monster.Color] || '') + ';">' + HP + '</color></b>'
+                                                                                        if (hpDown) s = '<b><color style="color:' + (computer_.TextColorConfig[monster.Color] || '') + ';">' + HP + ' ↓</color></b>'
+                                                                                        if (hpUp) s = '<b><color style="color:' + (computer_.TextColorConfig[monster.Color] || '') + ';">' + HP + ' ↑</color></b>'
+                                                                                        return s
+                                                                                    }
+                                                                                },
+                                                                            ],
+                                                                            class: 'monbelow'
+                                                                        },
+                                                                        {
+                                                                            div: {
+                                                                                p: m.data.Note ? m.data.Note.Text[lang] : '',
+                                                                                style: {
+                                                                                    color: function (j) {
+                                                                                        if (!m.data.Note) return ''
+                                                                                        return m.data.Note.Color ? (computer_.TextColorConfig[m.data.Note.Color] ? computer_.TextColorConfig[m.data.Note.Color] : m.data.Note.Color) : '#808080';
+                                                                                    },
+                                                                                },
+                                                                            },
+                                                                            class: 'monnote',
+                                                                            when: (m.data.Note != undefined)
+                                                                        }
+                                                                    ])
+                                                                },
+                                                                class: 'monster_card'
+                                                            },
+                                                            {
+                                                                div: {
+                                                                    div: [
+                                                                        {
+                                                                            p: function (m) {
+                                                                                var monster = _Monsters[m.data.ID];
+                                                                                var nameOverride = m.data.Name || false;
+                                                                                if (nameOverride) {
+                                                                                    return nameOverride[lang]
+                                                                                }
+                                                                                if (monster.UseCustomColorName) {
+                                                                                    return _MonsterCustomColorNameConfig[m.data.ID].Name[lang]
+                                                                                }
+                                                                                return monster.Name[lang]
+                                                                            },
+                                                                            class: 'mon_hover_name',
+                                                                            style: {
+                                                                                color: function (m) {
+                                                                                    return computer_.TextColorConfig[_Monsters[m.data.ID].Color] || '';
+                                                                                }
+                                                                            },
+                                                                        },
+                                                                        {
+                                                                            p: {
+                                                                                span: function (d) {
+                                                                                    var t = _SpiralAbyssAffixDescConfig[d.data].Show.Text[lang]
+                                                                                    if (t.substring(0, 1) == " ") t = t.substring(1)
+                                                                                    return t
+                                                                                },
+                                                                                style: {
+                                                                                    color: function (d) {
+                                                                                        var color = _SpiralAbyssAffixDescConfig[d.data].Show.Color;
+                                                                                        return computer_.TextColorConfig[color] || '';
+                                                                                    },
+                                                                                    'font-weight': function (d) {
+                                                                                        var bold = _SpiralAbyssAffixDescConfig[d.data].Show.Bold;
+                                                                                        return bold ? 600 : 500;
+                                                                                    },
+                                                                                    'margin-left': '0',
+                                                                                    'margin-top': '5px',
+                                                                                },
+                                                                                class: 'affix_s_h',
+                                                                                datapath: 'Affix',
+                                                                            },
+                                                                            class: 'mon_hover_affix',
+                                                                            when: function (d) {
+                                                                                return d.data.Affix && d.data.Affix.length
+                                                                            }
+                                                                        }
+                                                                    ],
+                                                                    class: 'acc_hover_',
+                                                                    style: {
+                                                                        'border-color': function (m) {
+                                                                            return computer_.TextColorConfig[_Monsters[m.data.ID].Color] || '';
+                                                                        }
+                                                                    },
+                                                                },
+                                                                class: 'acc_hover'
+                                                            }
+                                                        ],
+                                                        datapath: 'monsters',
+                                                        class: 'acc'
+                                                    },
+                                                    class: this_class
+                                                }]
+                                            })
+                                        },
+                                        datapath: 'Lower'
+                                    },
+                                    class: 'u_l_w',
+                                    style: {
+                                        'padding-left': '0px',
+                                        'padding-right': '0px',
+                                        'padding-top': '15px'
+                                    }
+                                }
+                            ],
+                            class: 'lower'
+                        }
+                        ],
+                        class: 'up_low',
+                        when: UI % 2 == 0
                     }],
                     datapath: 'Chambers'
                 }
@@ -1517,6 +2080,13 @@ $(function () {
         $(this).find("i").hide();
     });
 
+    $("body").on("mouseenter", ".acc .monicon", function () {
+        $(this).closest('.acc').find(".acc_hover").show();
+    });
+    $("body").on("mouseleave", ".acc .monicon", function () {
+        $(this).closest('.acc').find(".acc_hover").hide();
+    });
+
     $("body").on("mouseenter", ".affix_s_h", function () {
         $(this).parents('.acc').find("i").show();
     });
@@ -1527,6 +2097,7 @@ $(function () {
     $("body").on("click", ".ui", function () {
         UI = 1 - UI
         if (cur_floor_index) renderFloorPre(cur_floor_index)
+        $(".ui").html(computer_.MiscText.Abyss_UI[UI][lang])
     });
 
     $("body").on("click", ".tlsub", function () {
@@ -1552,13 +2123,16 @@ $(function () {
             $('h3 .title').html(computer_.MiscText.ComputerTitle_[lang] + '<b>' + cur_schedule_ver + '</b>')
             $('h3 .subtitle').css('font-size', '18px')
             $('.ui').hide()
+            $('.showtop').hide()
         } else {
             $('.less').hide()
             $('.more').show()
             $('.a_floor_button').show()
             $('.a_select').show()
-            $('.generation').show()
-            $('.schedule').show()
+            if (!showtop) {
+                $('.generation').css('display', 'flex')
+                $('.schedule').css('display', 'flex')
+            }
             $('.p_b').css('margin-top', '')
             if (cur_select_floororchart != 0) {
                 $('.p_h').hide()
@@ -1572,6 +2146,7 @@ $(function () {
             $('h3 .title').html(computer_.MiscText.ComputerTitle[lang])
             $('h3 .subtitle').css('font-size', '')
             $('.ui').show()
+            $('.showtop').show()
         }
     });
 
@@ -1610,7 +2185,7 @@ $(function () {
                                 return _SpiralAbyssAffixDescConfig[d.data].Hover && _SpiralAbyssAffixDescConfig[d.data].Hover[lang]
                             },
                             width: '270px',
-                            when: UI
+                            when: UI % 2 == 1
                         }],
                         style: {
                             color: function (d) {
@@ -1642,5 +2217,23 @@ $(function () {
             class: 'affix_hover affix_hover_[[.]]'
         },
     }
+
+    function w(s) {
+        var ret = s
+        if (ret.substring(ret.length - 2) == ": ") ret = ret.substring(0, ret.length - 2)
+        ret = ret.replace("：", "").replace("> ", "").replace(">「", "「")
+        return ret
+    }
+
+    $('.showtop').on('click', function () {
+        showtop = 1 - showtop
+        if (showtop) {
+            $('.generation').hide()
+            $('.schedule').hide()
+        } else {
+            $('.generation').css('display', 'flex')
+            $('.schedule').css('display', 'flex')
+        }
+    })
 
 })
