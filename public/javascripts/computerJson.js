@@ -52,6 +52,10 @@ var computer_ = {
             "CH": "<color style='color:#0066FF;'>玉衡杯数据库 abyss.wiki</color>",
             "EN": "<color style='color:#0066FF;'>HomDGCat Database t.me/homdgcat</color>"
         },
+        "Abyss_Reminder2": {
+            "CH": "<color style='color:#0066FF;'>玉衡杯数据库 abyss.wiki</color> <color style='color:#FF0000;'>⚠</color> <b>玩家自创阵容</b>",
+            "EN": "<color style='color:#0066FF;'>HomDGCat Database t.me/homdgcat</color> <color style='color:#FF0000;'>⚠</color> <b>Fan-Made Lineup</b>"
+        },
         "Abyss_DPS_Show": {
             "CH": "输出量：",
             "EN": "Required DMG: "

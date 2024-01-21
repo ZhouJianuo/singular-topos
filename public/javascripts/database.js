@@ -9,6 +9,8 @@ $(function () {
 
     var moreless = 0
     var cur_schedule_ver = ""
+    var cur_schedule_name = ""
+    var cur_schedule_id = ""
     var cur_select_floororchart = 5
     var UI = 0
     var cur_floor_index = 0
@@ -124,6 +126,8 @@ $(function () {
 
         var sData = JSON.parse($('schedule.active').attr('data-json'));
         cur_schedule_ver = sData.Name
+        cur_schedule_name = sData.Show ? (sData.Show[lang] ? sData.Show[lang] : cur_schedule_ver) : cur_schedule_ver
+        cur_schedule_id = sData.Generation
         var Phases = sData.Phases;
         var Blessings = sData.Blessings;
         var Floors = sData.Floors
@@ -280,7 +284,7 @@ $(function () {
                             })
                         }
                     })
-                    console.log(cur_select_floororchart)
+                    
                     $(d.container).find('span').eq(cur_select_floororchart).addClass('active');
                 },
                 class: 'a_select'
@@ -456,7 +460,7 @@ $(function () {
                             div: dps_show_container_(),
                             class: 'dps_show_container'
                         }, {
-                            span: computer_.MiscText.Abyss_Reminder[lang],
+                            span: (cur_schedule_id == 99) ? computer_.MiscText.Abyss_Reminder2[lang] : computer_.MiscText.Abyss_Reminder[lang],
                             class: 'avd',
                             style: {
                                 'display': 'block',
@@ -1521,6 +1525,12 @@ $(function () {
                                                                                         if (!m.data.Note) return ''
                                                                                         return m.data.Note.Color ? (computer_.TextColorConfig[m.data.Note.Color] ? computer_.TextColorConfig[m.data.Note.Color] : m.data.Note.Color) : '#808080';
                                                                                     },
+                                                                                    'font-size': function (j) {
+                                                                                        if (!m.data.Note) return ''
+                                                                                        if (!m.data.Note.Scale) return ''
+                                                                                        if (!m.data.Note.Scale[lang]) return ''
+                                                                                        return m.data.Note.Scale[lang] + 'em'
+                                                                                    }
                                                                                 },
                                                                             },
                                                                             class: 'monnote',
@@ -1796,6 +1806,12 @@ $(function () {
                                                                                         if (!m.data.Note) return ''
                                                                                         return m.data.Note.Color ? (computer_.TextColorConfig[m.data.Note.Color] ? computer_.TextColorConfig[m.data.Note.Color] : m.data.Note.Color) : '#808080';
                                                                                     },
+                                                                                    'font-size': function (j) {
+                                                                                        if (!m.data.Note) return ''
+                                                                                        if (!m.data.Note.Scale) return ''
+                                                                                        if (!m.data.Note.Scale[lang]) return ''
+                                                                                        return m.data.Note.Scale[lang] + 'em'
+                                                                                    }
                                                                                 },
                                                                             },
                                                                             class: 'monnote',
@@ -2121,7 +2137,7 @@ $(function () {
             $('h3 .links').html("<p style='margin-top:13px;color:#df903b;cursor:pointer;'><b>[ " + ((lang == 'CH') ? 'abyss.wiki / homdgcat.wiki' : 'en.abyss.wiki / en.homdgcat.wiki') + " ]</b></p>")
             $('.tlsub').hide()
             $('h3 .subtitle').html(computer_.MiscText.Subtitle_[lang])
-            $('h3 .title').html(computer_.MiscText.ComputerTitle_[lang] + '<b>' + cur_schedule_ver + '</b>')
+            $('h3 .title').html(computer_.MiscText.ComputerTitle_[lang] + '<b>' + cur_schedule_name + '</b>')
             $('h3 .subtitle').css('font-size', '18px')
             $('.ui').hide()
             $('.showtop').hide()

@@ -603,6 +603,7 @@ i.affix_hover {
     font-weight: bold;
     font-size: 13px;
     text-align: center;
+    line-height: 18px;
 }
 
 section>span,
@@ -672,6 +673,7 @@ section>schedule,
     
     .monnote {
         font-size: 14px;
+        line-height: 19px;
     }
 
     .a_floor h6 {
@@ -719,7 +721,7 @@ section>schedule,
 
 @media screen and (min-width: 1000px) {
     .p_b_ul>li {
-        width: calc(50% - 20px);
+        width: calc(50% - 4px);
     }
 }
 
@@ -737,6 +739,7 @@ section>schedule,
 
     .monnote {
         font-size: 15px;
+        line-height: 20px;
     }
 
     .a_floor>ul {
