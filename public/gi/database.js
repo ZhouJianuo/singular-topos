@@ -2310,7 +2310,7 @@ var _SpiralAbyssBlessingConfig = {
         },
         "Desc": {
             "CH": "当前场上角色通过普通攻击、重击、下落攻击、元素战技、元素爆发连续对敌人造成同类元素伤害时，将进行计数，每1秒至多进行一次计数。计数达到5次时，将在敌人所在位置<color style='color:#0000FF;'>释放冲击波</color>，造成真实伤害，并移除已有的计数。该角色退场或是造成其他元素类型的伤害时，将移除所有的计数。造成物理伤害不会移除计数。",
-            "EN": "When the active character deals consecutive instances of Elemental DMG of the same Elemental Type using Normal, Charged, and Plunging Attacks, Elemental Skills, and Elemental Bursts to an opponent, they will gain 1 count stack. 1 stack can be gained every 1s. After 5 stacks have been gained, a <color style='color:#0000FF;'>shockwave will be unleashed</color> at the opponent's position, dealing True DMG and clearing all heretofore accumulated stacks. Should the active character leave the field or deal a different type of Elemental DMG, these stacks will also be cleared. Dealing Physical DMG will not clear the stacks."
+            "EN": "When the active character deals consecutive instances of Elemental DMG of the same Elemental Type using Normal, Charged, and Plunging Attacks, Elemental Skills, and Elemental Bursts to an opponent, they will gain 1 count stack. One stack can be gained every 1s. After 5 stacks have been gained, a <color style='color:#0000FF;'>shockwave will be unleashed</color> at the opponent's position, dealing True DMG and clearing all heretofore accumulated stacks. Should the active character leave the field or deal a different type of Elemental DMG, these stacks will also be cleared. Dealing Physical DMG will not clear the stacks."
         },
         "ShockWaveConfig": [
             {
@@ -2495,7 +2495,7 @@ var _SpiralAbyssBlessingConfig = {
         },
         "Desc": {
             "CH": "当前场上角色通过普通攻击、重击或下落攻击连续对敌人造成同类元素伤害或物理伤害时，将进行计数，每0.3秒至多进行一次计数，每种元素类型与物理伤害造成的计数分别独立存在。计数达到6次时，将在敌人所在位置<color style='color:#0000FF;'>释放冲击波</color>，造成真实伤害，并移除该伤害类型的计数。该角色退场时，将移除所有的计数。",
-            "EN": "When the active character deals consecutive instances of Elemental DMG of the same Elemental Type or Physical DMG using Normal, Charged, or Plunging Attacks to an opponent, they will gain 1 count stack. 1 stack can be gained every 0.3s. The stacks for every Elemental and Physical DMG will be counted independently. After 6 stacks have been gained, a <color style='color:#0000FF;'>shockwave will be unleashed</color> at the opponent's position, dealing True DMG and clearing all previously accumulated stacks for this DMG type. Should the active character leave the field, these stacks will be cleared."
+            "EN": "When the active character deals consecutive instances of Elemental DMG of the same Elemental Type or Physical DMG using Normal, Charged, or Plunging Attacks to an opponent, they will gain 1 count stack. One stack can be gained every 0.3s. The stacks for every Elemental and Physical DMG will be counted independently. After 6 stacks have been gained, a <color style='color:#0000FF;'>shockwave will be unleashed</color> at the opponent's position, dealing True DMG and clearing all previously accumulated stacks for this DMG type. Should the active character leave the field, these stacks will be cleared."
         },
         "ShockWaveConfig": [
             {
@@ -2564,7 +2564,7 @@ var _SpiralAbyssBlessingConfig = {
         },
         "Desc": {
             "CH": "角色的当前生命值提升或降低时，将进行计数。计数达到12次时，将在角色的位置<color style='color:#0000FF;'>释放冲击波</color>，对附近的敌人造成真实伤害，并移除已有的计数。每4秒至多通过这种方式释放一次冲击波。",
-            "EN": "When a character's HP increases or decreases, it will be counted. When it reaches a total of 12, <color style='color:#0000FF;'>a shockwave will be unleashed</color> at the character's position, dealing True DMG to nearby opponents and clearing the count. 1 such shockwave can be unleashed every 4s."
+            "EN": "When a character's HP increases or decreases, it will be counted. When it reaches a total of 12, <color style='color:#0000FF;'>a shockwave will be unleashed</color> at the character's position, dealing True DMG to nearby opponents and clearing the count. One such shockwave can be unleashed every 4s."
         },
         "ShockWaveConfig": [
             {
@@ -2583,7 +2583,7 @@ var _SpiralAbyssBlessingConfig = {
         },
         "Desc": {
             "CH": "处于队伍后台的角色对敌人造成元素战技伤害时，将为该敌人施加诡殊之印。另一名当前场上角色以相同元素的攻击命中附有诡殊之印的敌人时，将在敌人的位置<color style='color:#0000FF;'>释放冲击波</color>，造成真实伤害。诡殊之印持续5秒，通过不同元素的伤害产生的诡殊之印分别独立存在，独立计时。每2秒至多通过这种方式释放一次冲击波。角色登场时，该角色为敌人施加的诡殊之印将被移除。",
-            "EN": "When off-field characters deal Elemental Skill DMG to an opponent, an Uncanny Mark will be placed upon that opponent. When another active character hits a marked opponent with an attack of the same Elemental Type, <color style='color:#0000FF;'>a shockwave will be unleashed</color> at that opponent's position, dealing True DMG. The Uncanny Mark lasts 5s, and Marks created through different attacks with different Elemental Types can exist independently. 1 such shockwave can be unleashed every 2s. When a character enters the field, the Uncanny Marks placed by that character on opponents will be removed."
+            "EN": "When off-field characters deal Elemental Skill DMG to an opponent, an Uncanny Mark will be placed upon that opponent. When another active character hits a marked opponent with an attack of the same Elemental Type, <color style='color:#0000FF;'>a shockwave will be unleashed</color> at that opponent's position, dealing True DMG. The Uncanny Mark lasts 5s, and Marks created through different attacks with different Elemental Types can exist independently. One such shockwave can be unleashed every 2s. When a character enters the field, the Uncanny Marks placed by that character on opponents will be removed."
         },
         "ShockWaveConfig": [
             {
@@ -2631,7 +2631,7 @@ var _SpiralAbyssBlessingConfig = {
         },
         "Desc": {
             "CH": "角色获取结晶反应产生的晶片时，将进行计数，计数达到3次时，将在角色的位置<color style='color:#0000FF;'>释放冲击波</color>，对附近的敌人造成真实伤害，并移除计数。此效果每6秒至多触发一次。",
-            "EN": "After a character obtains an Elemental Shard created by the Crystallize reaction, it will be counted. When the count reaches 3, a <color style='color:#0000FF;'>shockwave will be released</color> at the character's location, dealing True DMG to nearby opponents, and resetting the count. 1 such shockwave can be triggered every 6s."
+            "EN": "After a character obtains an Elemental Shard created by the Crystallize reaction, it will be counted. When the count reaches 3, a <color style='color:#0000FF;'>shockwave will be released</color> at the character's location, dealing True DMG to nearby opponents, and resetting the count. One such shockwave can be triggered every 6s."
         },
         "ShockWaveConfig": [
             {
@@ -2650,7 +2650,7 @@ var _SpiralAbyssBlessingConfig = {
         },
         "Desc": {
             "CH": "角色受到治疗时，将进行计数。计数达到16次时，将在角色的位置<color style='color:#0000FF;'>释放冲击波</color>，对附近的敌人造成真实伤害，并移除已有的计数。每8秒至多通过这种方式释放一次冲击波。",
-            "EN": "When a character receives healing, it will be counted. When the count reaches a total of 16, a <color style='color:#0000FF;'>shockwave will be unleashed</color> at the character's position, dealing True DMG to nearby opponents and clearing the count. 1 such shockwave can be unleashed every 8s."
+            "EN": "When a character receives healing, it will be counted. When the count reaches a total of 16, a <color style='color:#0000FF;'>shockwave will be unleashed</color> at the character's position, dealing True DMG to nearby opponents and clearing the count. One such shockwave can be unleashed every 8s."
         },
         "ShockWaveConfig": [
             {
@@ -2679,7 +2679,7 @@ var _SpiralAbyssBlessingConfig = {
         },
         "Desc": {
             "CH": "当前场上角色的下落攻击命中敌人时，将在角色的位置<color style='color:#0000FF;'>释放冲击波</color>，对附近的敌人造成真实伤害，每2秒至多通过这种方式释放一次冲击波。",
-            "EN": "After the active character's Plunging Attacks hit opponents, <color style='color:#0000FF;'>unleash a shockwave</color> at the character's location, dealing True DMG to nearby opponents. 1 such shockwave can be unleashed every 2s."
+            "EN": "After the active character's Plunging Attacks hit opponents, <color style='color:#0000FF;'>unleash a shockwave</color> at the character's location, dealing True DMG to nearby opponents. One such shockwave can be unleashed every 2s."
         },
         "ShockWaveConfig": [
             {

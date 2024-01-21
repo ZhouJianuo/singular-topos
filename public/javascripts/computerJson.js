@@ -28,6 +28,10 @@ var computer_ = {
             "CH": "<a class='translate_' style='color:#fff;display:block;' href='/gi/abyss?lang=EN'><b>Switch to English</b></a>",
             "EN": "<a class='translate_' style='color:#fff;display:block;' href='/gi/abyss?lang=CH'><b>切换至中文</b></a>",
         },
+        "Translate_Abyss2": {
+            "CH": "<a class='translate_' style='color:#fff;display:block;' href='/gi/abyss2?lang=EN'><b>Switch to English</b></a>",
+            "EN": "<a class='translate_' style='color:#fff;display:block;' href='/gi/abyss2?lang=CH'><b>切换至中文</b></a>",
+        },
         "Translate_Char": {
             "CH": "<a class='translate_' style='color:#fff;display:block;' href='/gi/char?lang=EN'><b>Switch to English</b></a>",
             "EN": "<a class='translate_' style='color:#fff;display:block;' href='/gi/char?lang=CH'><b>切换至中文</b></a>",

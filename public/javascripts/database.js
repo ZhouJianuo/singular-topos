@@ -303,7 +303,7 @@ $(function () {
                                     }, {
                                         ul: {
                                             li: {
-                                                span: ['[[Name]]：', {
+                                                span: ['[[Name]] ', {
                                                     em: 0,
                                                     style: {
                                                         color: '#0000FF'
@@ -2116,7 +2116,8 @@ $(function () {
             $('.schedule').hide()
             $('.p_h').show()
             $('.p_b').show()
-            $('.p_b').css('margin-top', '30px')
+            if ($('#_H_').val() != '1') $('.p_b').css('margin-top', '30px')
+            if ($('#_H_').val() == '1') $('.p_b').css('margin-top', '25px')
             $('h3 .links').html("<p style='margin-top:13px;color:#df903b;cursor:pointer;'><b>[ " + ((lang == 'CH') ? 'abyss.wiki / homdgcat.wiki' : 'en.abyss.wiki / en.homdgcat.wiki') + " ]</b></p>")
             $('.tlsub').hide()
             $('h3 .subtitle').html(computer_.MiscText.Subtitle_[lang])
@@ -2124,6 +2125,7 @@ $(function () {
             $('h3 .subtitle').css('font-size', '18px')
             $('.ui').hide()
             $('.showtop').hide()
+            if ($('#_H_').val() == '1') $('.p_h').hide()
         } else {
             $('.less').hide()
             $('.more').show()
@@ -2235,5 +2237,15 @@ $(function () {
             $('.schedule').css('display', 'flex')
         }
     })
+
+    if ($('#_H_').val() == '1') {
+        $('.scroller').css('overflow-x', 'scroll !important')
+        $('.scroller').css('width', 'calc(100%)')
+        $('.result').addClass('result_')
+        $('.content').css('padding-left', '0')
+        $('.content').css('padding-right', '0')
+        $('.p_b').addClass('p_b_')
+        $('h3 .tlsub').html(computer_.MiscText.Translate_Abyss2[lang])
+    }
 
 })

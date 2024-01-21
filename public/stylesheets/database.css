@@ -155,7 +155,7 @@ container {
 }
 
 .p_b>div {
-    margin: 10px 0 20px;
+    margin: 15px 0 25px;
     line-height: 32px;
     font-size: 16px;
 }
@@ -165,13 +165,14 @@ container {
     flex-wrap: wrap;
     overflow-x: scroll;
     font-size: 14px;
+    list-style-type: none;
 }
 
 .p_b_ul>li {
     border: 1px solid #333;
     padding: 10px;
-    margin: 10px;
-    width: calc(100% - 20px);
+    margin: 10px 2px;
+    width: calc(100% - 4px);
 }
 
 .p_h .eachets {
@@ -191,6 +192,11 @@ container {
     width: 0px;
 }
 
+.p_b_ul::-webkit-scrollbar {
+    height: 0px;
+    width: 0px;
+}
+
 .s_w_f {
     display: flex;
     justify-content: space-between;
@@ -199,6 +205,8 @@ container {
 .s_w_f li {
     display: flex;
     flex-direction: column;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
 .s_w_f li span em {
@@ -611,6 +619,43 @@ section>schedule,
 
 .avd {
     font-size: 12px;
+}
+
+.result_ {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.result_ h4, .result_ .a_select {
+    width: 100%;
+}
+
+.result_ .a_floor {
+    width: 61%
+}
+
+.result_ .p_b {
+    width: 31%;
+}
+
+.result_ .p_h {
+    width: 100%
+}
+
+.result_ .p_b_ul>li {
+    width: calc(100% - 4px);
+}
+
+.p_b_ {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+}
+
+.p_b_ div {
+    margin-top: 15px;
+    margin-bottom: 20px;
 }
 
 @media screen and (min-width: 600px) and (max-width: 800px) {

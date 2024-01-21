@@ -180,8 +180,17 @@ app.get('/gi/abyss', async (req, res) => {
     let result = {};
     let { lang = '' } = req.query;
     result.lang = lang;
-    result.imgpre = '';
     result.imgpre = '../';
+    result.h = ''
+    res.render('database', result);
+});
+
+app.get('/gi/abyss2', async (req, res) => {
+    let result = {};
+    let { lang = '' } = req.query;
+    result.lang = lang;
+    result.imgpre = '../';
+    result.h = '1'
     res.render('database', result);
 });
 
