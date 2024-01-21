@@ -83,7 +83,7 @@ $(function () {
         hp_res = 0
         var ele = $('.class_monster').find('.active');
         if (!ele.length) {
-            return dialog.fail(computer_.MiscText.Computer_Warning_NotSelectedMonster[lang]);
+            return
         }
         var regLevel = /^([1-9]|[1-9]\d|1\d{2}|200)$/;
         var regInterval = /^(9|1[0-2])-[1-3]$/;
@@ -925,8 +925,8 @@ $(function () {
         if (m_object && (m_object.KingdomID || m_object.KingdomID === 0)) {
             var ele = $('.kingdom').find(`.kingdom_${m_object.KingdomID}`);
             ele.addClass('active');
-            cur_kingdom = _Kingdoms[ele.index()]
-            monsterRenderPre(_Kingdoms[ele.index()].Classes, function () {
+            cur_kingdom = _Kingdoms[ele.index() - 1]
+            monsterRenderPre(_Kingdoms[ele.index() - 1].Classes, function () {
                 $('.class_monster').find(`.monster_${MONSTERID}`).addClass('active');
                 var kk = setTimeout(function () {
                     $('.calculate').click();
