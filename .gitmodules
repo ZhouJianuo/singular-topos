@@ -1,1 +1,4 @@
 
+[submodule "public/EnemyChart"]
+	path = public/EnemyChart
+	url = https://github.com/ZhouJianuo/EnemyChartv2.0-For-GenshinImpact.git
