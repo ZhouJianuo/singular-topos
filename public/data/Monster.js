@@ -173,7 +173,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1002011.png",
-        "Figure": "MonsterFigure/Monster_1002011.png"
+        "Figure": "MonsterFigure/Monster_1002012.png"
     },
     {
         "_id": 1002013,
@@ -218,7 +218,8 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1002017.png"
+        "Icon": "MonsterIcon/Monster_1002017.png",
+        "Figure": "MonsterFigure/Monster_1002013.png"
     },
     {
         "_id": 1002014,
@@ -263,7 +264,8 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1002017.png"
+        "Icon": "MonsterIcon/Monster_1002017.png",
+        "Figure": "MonsterFigure/Monster_1002014.png"
     },
     {
         "_id": 1002015,
@@ -419,7 +421,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1002011.png",
-        "Figure": "MonsterFigure/Monster_1002011.png"
+        "Figure": "MonsterFigure/Monster_1002012.png"
     },
     {
         "_id": 100201601,
@@ -471,7 +473,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1002011.png",
-        "Figure": "MonsterFigure/Monster_1002011.png"
+        "Figure": "MonsterFigure/Monster_1002012.png"
     },
     {
         "_id": 1002017,
@@ -522,7 +524,8 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1002017.png"
+        "Icon": "MonsterIcon/Monster_1002017.png",
+        "Figure": "MonsterFigure/Monster_1002013.png"
     },
     {
         "_id": 100201702,
@@ -573,7 +576,8 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1002017.png"
+        "Icon": "MonsterIcon/Monster_1002017.png",
+        "Figure": "MonsterFigure/Monster_1002013.png"
     },
     {
         "_id": 1002018,
@@ -624,7 +628,8 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1002017.png"
+        "Icon": "MonsterIcon/Monster_1002017.png",
+        "Figure": "MonsterFigure/Monster_1002014.png"
     },
     {
         "_id": 100201802,
@@ -675,7 +680,8 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1002017.png"
+        "Icon": "MonsterIcon/Monster_1002017.png",
+        "Figure": "MonsterFigure/Monster_1002014.png"
     },
     {
         "_id": 1002020,
@@ -2290,6 +2296,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
+        "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
         ]
@@ -2338,6 +2345,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
+        "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
         ]
@@ -2383,6 +2391,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
+        "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
         ]
@@ -2428,6 +2437,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
+        "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
         ]
@@ -2473,6 +2483,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
+        "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
         ]
@@ -2518,6 +2529,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
+        "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
         ]
@@ -2563,6 +2575,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
+        "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
         ]
@@ -2608,6 +2621,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
+        "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
         ]
@@ -2647,6 +2661,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
+        "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
         ]
@@ -2689,6 +2704,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
+        "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
         ]
@@ -2731,6 +2747,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
+        "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
         ]
@@ -2770,6 +2787,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
+        "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
         ]
@@ -2818,6 +2836,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
+        "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
         ]
@@ -2863,6 +2882,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
+        "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
         ]
@@ -2908,6 +2928,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
+        "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
         ]
@@ -2956,6 +2977,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
+        "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
         ]
@@ -2995,6 +3017,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
+        "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
         ]
@@ -3034,6 +3057,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
+        "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
         ]
@@ -3079,6 +3103,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
+        "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
         ]
@@ -3127,6 +3152,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
+        "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
         ]
@@ -3175,6 +3201,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
+        "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
         ]
@@ -3214,6 +3241,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
+        "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
         ]
@@ -3256,6 +3284,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
+        "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
         ]
@@ -3301,6 +3330,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001010.png",
+        "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
         ]
@@ -3346,6 +3376,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1001010.png",
+        "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
         ]
@@ -3391,6 +3422,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1001010.png",
+        "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
         ]
@@ -3436,6 +3468,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
+        "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
         ]
@@ -3481,6 +3514,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
+        "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
         ]
@@ -3526,6 +3560,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
+        "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
         ]
@@ -3571,6 +3606,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
+        "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
         ]
@@ -3616,6 +3652,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
+        "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
         ]
@@ -3661,6 +3698,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
+        "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
         ]
@@ -3706,6 +3744,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
+        "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
         ]
@@ -3745,6 +3784,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
+        "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
         ]
@@ -3784,6 +3824,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
+        "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
         ]
@@ -3832,6 +3873,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
+        "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
         ]
@@ -3877,6 +3919,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
+        "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
         ]
@@ -3922,6 +3965,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
+        "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
         ]
@@ -3970,6 +4014,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
+        "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
         ]
@@ -4018,6 +4063,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
+        "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
         ]
@@ -4063,6 +4109,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
+        "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
         ]
@@ -4111,6 +4158,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
+        "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
         ]
@@ -4159,6 +4207,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
+        "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
         ]
@@ -4204,6 +4253,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
+        "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
         ]
@@ -4249,6 +4299,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1001020.png",
+        "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
         ]
@@ -5971,7 +6022,7 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1003020.png",
-        "Figure": "MonsterFigure/Monster_1003020.png",
+        "Figure": "MonsterFigure/Monster_1004020.png",
         "Status": [
             210030201,
             210030204
@@ -6028,7 +6079,7 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1003020.png",
-        "Figure": "MonsterFigure/Monster_1003020.png",
+        "Figure": "MonsterFigure/Monster_1004020.png",
         "Status": [
             210030201,
             210030204
@@ -6085,7 +6136,7 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1003020.png",
-        "Figure": "MonsterFigure/Monster_1003020.png",
+        "Figure": "MonsterFigure/Monster_1004020.png",
         "Status": [
             210030201,
             210030204
@@ -6149,7 +6200,7 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1003020.png",
-        "Figure": "MonsterFigure/Monster_1003020.png",
+        "Figure": "MonsterFigure/Monster_1004020.png",
         "Status": [
             210030201,
             210030204
@@ -6203,7 +6254,7 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1003020.png",
-        "Figure": "MonsterFigure/Monster_1003020.png",
+        "Figure": "MonsterFigure/Monster_1004020.png",
         "Status": [
             210030201,
             210030204
@@ -6260,7 +6311,7 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1003020.png",
-        "Figure": "MonsterFigure/Monster_1003020.png",
+        "Figure": "MonsterFigure/Monster_1004020.png",
         "Status": [
             210030201,
             210030204
@@ -6315,7 +6366,7 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1003020.png",
-        "Figure": "MonsterFigure/Monster_1003020.png",
+        "Figure": "MonsterFigure/Monster_1004020.png",
         "Status": [
             210030201,
             210030204
@@ -6403,7 +6454,7 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1003020.png",
-        "Figure": "MonsterFigure/Monster_1003020.png",
+        "Figure": "MonsterFigure/Monster_1004020.png",
         "Status": [
             210030201,
             210040221,
@@ -6496,7 +6547,7 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1003020.png",
-        "Figure": "MonsterFigure/Monster_1003020.png",
+        "Figure": "MonsterFigure/Monster_1004020.png",
         "Status": [
             210030201,
             210040221,
@@ -6567,7 +6618,7 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1003020.png",
-        "Figure": "MonsterFigure/Monster_1003020.png"
+        "Figure": "MonsterFigure/Monster_1004020.png"
     },
     {
         "_id": 1004025,
@@ -6644,7 +6695,7 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1003020.png",
-        "Figure": "MonsterFigure/Monster_1003020.png"
+        "Figure": "MonsterFigure/Monster_1004020.png"
     },
     {
         "_id": 1004030,
@@ -9657,6 +9708,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1004021.png",
+        "Figure": "MonsterFigure/Monster_1012040.png",
         "Status": [
             210040204,
             210120401,
@@ -9720,6 +9772,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1004021.png",
+        "Figure": "MonsterFigure/Monster_1012040.png",
         "Status": [
             210040113,
             210120402,
@@ -9783,6 +9836,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1004021.png",
+        "Figure": "MonsterFigure/Monster_1012040.png",
         "Status": [
             210040113,
             210120402,
@@ -12696,7 +12750,7 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1004020.png",
-        "Figure": "MonsterFigure/Monster_1004020.png",
+        "Figure": "MonsterFigure/Monster_1014010.png",
         "Status": [
             30010006,
             210040204,
@@ -12762,7 +12816,7 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1004020.png",
-        "Figure": "MonsterFigure/Monster_1004020.png",
+        "Figure": "MonsterFigure/Monster_1014010.png",
         "Status": [
             30010006,
             210040204,
@@ -12831,7 +12885,7 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1004020.png",
-        "Figure": "MonsterFigure/Monster_1004020.png",
+        "Figure": "MonsterFigure/Monster_1014010.png",
         "Status": [
             30010006,
             210040204,
@@ -12897,7 +12951,7 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1004020.png",
-        "Figure": "MonsterFigure/Monster_1004020.png",
+        "Figure": "MonsterFigure/Monster_1014010.png",
         "Status": [
             30010006,
             210040204,
@@ -12963,7 +13017,7 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1004020.png",
-        "Figure": "MonsterFigure/Monster_1004020.png",
+        "Figure": "MonsterFigure/Monster_1014010.png",
         "Status": [
             30010006,
             210040204,
@@ -13032,7 +13086,7 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1004020.png",
-        "Figure": "MonsterFigure/Monster_1004020.png",
+        "Figure": "MonsterFigure/Monster_1014010.png",
         "Status": [
             30010006,
             210040204,
@@ -13101,7 +13155,7 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1004020.png",
-        "Figure": "MonsterFigure/Monster_1004020.png",
+        "Figure": "MonsterFigure/Monster_1014010.png",
         "Status": [
             30010006,
             210040204,
@@ -13167,7 +13221,7 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1004020.png",
-        "Figure": "MonsterFigure/Monster_1004020.png",
+        "Figure": "MonsterFigure/Monster_1014010.png",
         "Status": [
             30010006,
             210040204,
@@ -13233,7 +13287,7 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1004020.png",
-        "Figure": "MonsterFigure/Monster_1004020.png",
+        "Figure": "MonsterFigure/Monster_1014010.png",
         "Status": [
             30010006,
             210040204,
@@ -13299,7 +13353,7 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1004020.png",
-        "Figure": "MonsterFigure/Monster_1004020.png",
+        "Figure": "MonsterFigure/Monster_1014010.png",
         "Status": [
             30010006,
             210040204,
@@ -13387,7 +13441,7 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1004020.png",
-        "Figure": "MonsterFigure/Monster_1004020.png",
+        "Figure": "MonsterFigure/Monster_1014010.png",
         "Status": [
             30010006,
             210040113,
@@ -13476,7 +13530,7 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1004020.png",
-        "Figure": "MonsterFigure/Monster_1004020.png",
+        "Figure": "MonsterFigure/Monster_1014010.png",
         "Status": [
             30010006,
             210040113,
@@ -13526,7 +13580,8 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002400.png"
+        "Icon": "MonsterIcon/Monster_9002400.png",
+        "Figure": "MonsterFigure/Monster_1022010.png"
     },
     {
         "_id": 102201001,
@@ -13571,7 +13626,8 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002400.png"
+        "Icon": "MonsterIcon/Monster_9002400.png",
+        "Figure": "MonsterFigure/Monster_1022010.png"
     },
     {
         "_id": 102201002,
@@ -13616,7 +13672,8 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002400.png"
+        "Icon": "MonsterIcon/Monster_9002400.png",
+        "Figure": "MonsterFigure/Monster_1022010.png"
     },
     {
         "_id": 102201003,
@@ -13664,7 +13721,8 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002400.png"
+        "Icon": "MonsterIcon/Monster_9002400.png",
+        "Figure": "MonsterFigure/Monster_1022010.png"
     },
     {
         "_id": 102201004,
@@ -13709,7 +13767,8 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002400.png"
+        "Icon": "MonsterIcon/Monster_9002400.png",
+        "Figure": "MonsterFigure/Monster_1022010.png"
     },
     {
         "_id": 102201005,
@@ -13754,7 +13813,8 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002400.png"
+        "Icon": "MonsterIcon/Monster_9002400.png",
+        "Figure": "MonsterFigure/Monster_1022010.png"
     },
     {
         "_id": 102201006,
@@ -13802,7 +13862,8 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002400.png"
+        "Icon": "MonsterIcon/Monster_9002400.png",
+        "Figure": "MonsterFigure/Monster_1022010.png"
     },
     {
         "_id": 102201007,
@@ -13847,7 +13908,8 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002400.png"
+        "Icon": "MonsterIcon/Monster_9002400.png",
+        "Figure": "MonsterFigure/Monster_1022010.png"
     },
     {
         "_id": 102201008,
@@ -13892,7 +13954,8 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002400.png"
+        "Icon": "MonsterIcon/Monster_9002400.png",
+        "Figure": "MonsterFigure/Monster_1022010.png"
     },
     {
         "_id": 102201009,
@@ -13937,7 +14000,8 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002400.png"
+        "Icon": "MonsterIcon/Monster_9002400.png",
+        "Figure": "MonsterFigure/Monster_1022010.png"
     },
     {
         "_id": 102201010,
@@ -13982,7 +14046,8 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002400.png"
+        "Icon": "MonsterIcon/Monster_9002400.png",
+        "Figure": "MonsterFigure/Monster_1022010.png"
     },
     {
         "_id": 102201011,
@@ -14027,7 +14092,8 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002400.png"
+        "Icon": "MonsterIcon/Monster_9002400.png",
+        "Figure": "MonsterFigure/Monster_1022010.png"
     },
     {
         "_id": 102201012,
@@ -14072,7 +14138,8 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002400.png"
+        "Icon": "MonsterIcon/Monster_9002400.png",
+        "Figure": "MonsterFigure/Monster_1022010.png"
     },
     {
         "_id": 1022020,
@@ -14118,6 +14185,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
+        "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
         ]
@@ -14166,6 +14234,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
+        "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
         ]
@@ -14214,6 +14283,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
+        "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
         ]
@@ -14265,6 +14335,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
+        "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
         ]
@@ -14313,6 +14384,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
+        "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
         ]
@@ -14361,6 +14433,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
+        "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
         ]
@@ -14409,6 +14482,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
+        "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
         ]
@@ -14460,6 +14534,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
+        "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
         ]
@@ -14508,6 +14583,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
+        "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
         ]
@@ -14556,6 +14632,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
+        "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
         ]
@@ -14604,6 +14681,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
+        "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
         ]
@@ -14652,6 +14730,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
+        "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
         ]
@@ -14700,6 +14779,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
+        "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
         ]
@@ -14748,6 +14828,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
+        "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
         ]
@@ -14796,6 +14877,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
+        "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
         ]
@@ -14844,6 +14926,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
+        "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
         ]
@@ -14892,6 +14975,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
+        "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
         ]
@@ -14940,6 +15024,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
+        "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
         ]
@@ -14988,6 +15073,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
+        "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
         ]
@@ -15036,6 +15122,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
+        "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
         ]
@@ -15084,6 +15171,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
+        "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
         ]
@@ -15132,6 +15220,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
+        "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
         ]
@@ -15180,6 +15269,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
+        "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
         ]
@@ -15228,6 +15318,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002410.png",
+        "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
         ]
@@ -16959,8 +17050,7 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2002020.png",
-        "Figure": "MonsterFigure/Monster_2002020.png"
+        "Icon": "MonsterIcon/Monster_2002020.png"
     },
     {
         "_id": 200202001,
@@ -17005,8 +17095,7 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2002020.png",
-        "Figure": "MonsterFigure/Monster_2002020.png"
+        "Icon": "MonsterIcon/Monster_2002020.png"
     },
     {
         "_id": 200202002,
@@ -17051,8 +17140,7 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2002020.png",
-        "Figure": "MonsterFigure/Monster_2002020.png"
+        "Icon": "MonsterIcon/Monster_2002020.png"
     },
     {
         "_id": 200202003,
@@ -17100,8 +17188,7 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2002020.png",
-        "Figure": "MonsterFigure/Monster_2002020.png"
+        "Icon": "MonsterIcon/Monster_2002020.png"
     },
     {
         "_id": 2002021,
@@ -17146,8 +17233,7 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2002020.png",
-        "Figure": "MonsterFigure/Monster_2002020.png"
+        "Icon": "MonsterIcon/Monster_2002020.png"
     },
     {
         "_id": 200202101,
@@ -17192,8 +17278,7 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2002020.png",
-        "Figure": "MonsterFigure/Monster_2002020.png"
+        "Icon": "MonsterIcon/Monster_2002020.png"
     },
     {
         "_id": 200202102,
@@ -17238,8 +17323,7 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2002020.png",
-        "Figure": "MonsterFigure/Monster_2002020.png"
+        "Icon": "MonsterIcon/Monster_2002020.png"
     },
     {
         "_id": 200202103,
@@ -17287,8 +17371,7 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2002020.png",
-        "Figure": "MonsterFigure/Monster_2002020.png"
+        "Icon": "MonsterIcon/Monster_2002020.png"
     },
     {
         "_id": 2002030,
@@ -22163,7 +22246,6 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2022051.png",
-        "Figure": "MonsterFigure/Monster_2022051.png",
         "Status": [
             30020004
         ]
@@ -28233,8 +28315,7 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2022051.png",
-        "Figure": "MonsterFigure/Monster_2022051.png"
+        "Icon": "MonsterIcon/Monster_2022051.png"
     },
     {
         "_id": 7002020,
@@ -28319,7 +28400,8 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_9002410.png"
+        "Icon": "MonsterIcon/Monster_9002410.png",
+        "Figure": "MonsterFigure/Monster_1022020.png"
     },
     {
         "_id": 700203001,
@@ -28364,7 +28446,8 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_9002410.png"
+        "Icon": "MonsterIcon/Monster_9002410.png",
+        "Figure": "MonsterFigure/Monster_1022020.png"
     },
     {
         "_id": 700203002,
@@ -28409,7 +28492,8 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_9002410.png"
+        "Icon": "MonsterIcon/Monster_9002410.png",
+        "Figure": "MonsterFigure/Monster_1022020.png"
     },
     {
         "_id": 7002040,
@@ -28771,7 +28855,8 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1001020.png"
+        "Icon": "MonsterIcon/Monster_1001020.png",
+        "Figure": "MonsterFigure/Monster_1002050.png"
     },
     {
         "_id": 7002090,
@@ -28814,7 +28899,8 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1001010.png"
+        "Icon": "MonsterIcon/Monster_1001010.png",
+        "Figure": "MonsterFigure/Monster_1002040.png"
     },
     {
         "_id": 700209001,
@@ -28860,7 +28946,8 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1001010.png"
+        "Icon": "MonsterIcon/Monster_1001010.png",
+        "Figure": "MonsterFigure/Monster_1002040.png"
     },
     {
         "_id": 7002100,
@@ -29078,7 +29165,8 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_9002400.png"
+        "Icon": "MonsterIcon/Monster_9002400.png",
+        "Figure": "MonsterFigure/Monster_1022010.png"
     },
     {
         "_id": 7003010,
@@ -29593,7 +29681,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png"
+        "Icon": "MonsterIcon/Monster_9001020.png",
+        "Figure": "MonsterFigure/Monster_8001010.png"
     },
     {
         "_id": 800101001,
@@ -29638,7 +29727,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png"
+        "Icon": "MonsterIcon/Monster_9001020.png",
+        "Figure": "MonsterFigure/Monster_8001010.png"
     },
     {
         "_id": 800101002,
@@ -29686,7 +29776,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png"
+        "Icon": "MonsterIcon/Monster_9001020.png",
+        "Figure": "MonsterFigure/Monster_8001010.png"
     },
     {
         "_id": 800101003,
@@ -29731,7 +29822,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png"
+        "Icon": "MonsterIcon/Monster_9001020.png",
+        "Figure": "MonsterFigure/Monster_8001010.png"
     },
     {
         "_id": 800101004,
@@ -29779,7 +29871,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png"
+        "Icon": "MonsterIcon/Monster_9001020.png",
+        "Figure": "MonsterFigure/Monster_8001010.png"
     },
     {
         "_id": 800101005,
@@ -29827,7 +29920,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png"
+        "Icon": "MonsterIcon/Monster_9001020.png",
+        "Figure": "MonsterFigure/Monster_8001010.png"
     },
     {
         "_id": 800101006,
@@ -29875,7 +29969,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png"
+        "Icon": "MonsterIcon/Monster_9001020.png",
+        "Figure": "MonsterFigure/Monster_8001010.png"
     },
     {
         "_id": 800101007,
@@ -29923,7 +30018,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png"
+        "Icon": "MonsterIcon/Monster_9001020.png",
+        "Figure": "MonsterFigure/Monster_8001010.png"
     },
     {
         "_id": 800101008,
@@ -29968,7 +30064,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png"
+        "Icon": "MonsterIcon/Monster_9001020.png",
+        "Figure": "MonsterFigure/Monster_8001010.png"
     },
     {
         "_id": 800101009,
@@ -30013,7 +30110,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png"
+        "Icon": "MonsterIcon/Monster_9001020.png",
+        "Figure": "MonsterFigure/Monster_8001010.png"
     },
     {
         "_id": 800101010,
@@ -30058,7 +30156,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png"
+        "Icon": "MonsterIcon/Monster_9001020.png",
+        "Figure": "MonsterFigure/Monster_8001010.png"
     },
     {
         "_id": 800101011,
@@ -30103,7 +30202,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png"
+        "Icon": "MonsterIcon/Monster_9001020.png",
+        "Figure": "MonsterFigure/Monster_8001010.png"
     },
     {
         "_id": 800101012,
@@ -30148,7 +30248,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png"
+        "Icon": "MonsterIcon/Monster_9001020.png",
+        "Figure": "MonsterFigure/Monster_8001010.png"
     },
     {
         "_id": 800101013,
@@ -30193,7 +30294,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png"
+        "Icon": "MonsterIcon/Monster_9001020.png",
+        "Figure": "MonsterFigure/Monster_8001010.png"
     },
     {
         "_id": 800101014,
@@ -30241,7 +30343,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png"
+        "Icon": "MonsterIcon/Monster_9001020.png",
+        "Figure": "MonsterFigure/Monster_8001010.png"
     },
     {
         "_id": 800101015,
@@ -30286,7 +30389,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png"
+        "Icon": "MonsterIcon/Monster_9001020.png",
+        "Figure": "MonsterFigure/Monster_8001010.png"
     },
     {
         "_id": 800101016,
@@ -30331,7 +30435,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png"
+        "Icon": "MonsterIcon/Monster_9001020.png",
+        "Figure": "MonsterFigure/Monster_8001010.png"
     },
     {
         "_id": 8001020,
@@ -30376,7 +30481,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png"
+        "Icon": "MonsterIcon/Monster_9001030.png",
+        "Figure": "MonsterFigure/Monster_8001020.png"
     },
     {
         "_id": 800102001,
@@ -30421,7 +30527,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png"
+        "Icon": "MonsterIcon/Monster_9001030.png",
+        "Figure": "MonsterFigure/Monster_8001020.png"
     },
     {
         "_id": 800102002,
@@ -30469,7 +30576,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png"
+        "Icon": "MonsterIcon/Monster_9001030.png",
+        "Figure": "MonsterFigure/Monster_8001020.png"
     },
     {
         "_id": 800102003,
@@ -30517,7 +30625,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png"
+        "Icon": "MonsterIcon/Monster_9001030.png",
+        "Figure": "MonsterFigure/Monster_8001020.png"
     },
     {
         "_id": 800102004,
@@ -30562,7 +30671,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png"
+        "Icon": "MonsterIcon/Monster_9001030.png",
+        "Figure": "MonsterFigure/Monster_8001020.png"
     },
     {
         "_id": 800102005,
@@ -30610,7 +30720,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png"
+        "Icon": "MonsterIcon/Monster_9001030.png",
+        "Figure": "MonsterFigure/Monster_8001020.png"
     },
     {
         "_id": 800102006,
@@ -30658,7 +30769,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png"
+        "Icon": "MonsterIcon/Monster_9001030.png",
+        "Figure": "MonsterFigure/Monster_8001020.png"
     },
     {
         "_id": 800102007,
@@ -30703,7 +30815,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png"
+        "Icon": "MonsterIcon/Monster_9001030.png",
+        "Figure": "MonsterFigure/Monster_8001020.png"
     },
     {
         "_id": 800102008,
@@ -30751,7 +30864,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png"
+        "Icon": "MonsterIcon/Monster_9001030.png",
+        "Figure": "MonsterFigure/Monster_8001020.png"
     },
     {
         "_id": 800102009,
@@ -30799,7 +30913,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png"
+        "Icon": "MonsterIcon/Monster_9001030.png",
+        "Figure": "MonsterFigure/Monster_8001020.png"
     },
     {
         "_id": 800102010,
@@ -30844,7 +30959,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png"
+        "Icon": "MonsterIcon/Monster_9001030.png",
+        "Figure": "MonsterFigure/Monster_8001020.png"
     },
     {
         "_id": 800102011,
@@ -30889,7 +31005,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png"
+        "Icon": "MonsterIcon/Monster_9001030.png",
+        "Figure": "MonsterFigure/Monster_8001020.png"
     },
     {
         "_id": 800102012,
@@ -30937,7 +31054,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png"
+        "Icon": "MonsterIcon/Monster_9001030.png",
+        "Figure": "MonsterFigure/Monster_8001020.png"
     },
     {
         "_id": 800102013,
@@ -30982,7 +31100,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png"
+        "Icon": "MonsterIcon/Monster_9001030.png",
+        "Figure": "MonsterFigure/Monster_8001020.png"
     },
     {
         "_id": 800102014,
@@ -31027,7 +31146,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png"
+        "Icon": "MonsterIcon/Monster_9001030.png",
+        "Figure": "MonsterFigure/Monster_8001020.png"
     },
     {
         "_id": 800102015,
@@ -31072,7 +31192,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png"
+        "Icon": "MonsterIcon/Monster_9001030.png",
+        "Figure": "MonsterFigure/Monster_8001020.png"
     },
     {
         "_id": 800102016,
@@ -31117,7 +31238,8 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png"
+        "Icon": "MonsterIcon/Monster_9001030.png",
+        "Figure": "MonsterFigure/Monster_8001020.png"
     },
     {
         "_id": 8001030,
@@ -46202,8 +46324,7 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8013010.png",
-        "Figure": "MonsterFigure/Monster_8013010.png"
+        "Icon": "MonsterIcon/Monster_8013010.png"
     }
 ]
 
