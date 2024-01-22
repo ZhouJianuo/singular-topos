@@ -613,10 +613,15 @@ $(function () {
         if ($('#AVID').val()) {
             var come_id = $('#AVID').val()
             try {
-                $("tr[data-id='" + come_id + "']").click()
-                $("tr[data-name='" + come_id + "']").click()
-                $("tr[data-namech='" + come_id + "']").click()
-                $("tr[data-nameen='" + come_id + "']").click()
+                if ($("tr[data-id='" + come_id + "']").length) {
+                    $("tr[data-id='" + come_id + "']").click()
+                } else if ($("tr[data-name='" + come_id + "']").length) {
+                    $("tr[data-name='" + come_id + "']").click()
+                } else if ($("tr[data-namech='" + come_id + "']").length) {
+                    $("tr[data-namech='" + come_id + "']").click()
+                } else {
+                    $("tr[data-nameen='" + come_id + "']").click()
+                }
             } catch (err) {}
             renderWeaponInfoFind($('#AVID').val())
             doRelicFind($('#AVID').val())
