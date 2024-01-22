@@ -55,7 +55,7 @@ $(function () {
                         $(d.sender).addClass('active').siblings('kingdom').removeClass('active');
                         cur_kingdom = d.org_data
                         monsterRenderPre(d.org_data.Classes);
-                        $('.scroller').scrollTop($('.scroller')[0].scrollHeight - $('.class_monster').height() - 100)
+                        $('.scroller').scrollTop($('.scroller')[0].scrollHeight - $('.com_result').height() - $('.class_monster').height() - 100)
                     }
                 },
                 /*style: {
