@@ -897,6 +897,31 @@ var _SpiralAbyssSchedule = [
             1015,
             1026
         ]
+    },
+    {
+        "Name": "13",
+        "Show": {
+            "CH": "惊喜 13",
+            "EN": "Surprise 13"
+        },
+        "Generation": 99,
+        "OpenTime": "By 无相之冰<br>2024/01/22",
+        "Phases": [
+            86,
+            87,
+            88
+        ],
+        "Blessings": [
+            1020,
+            1021,
+            1022
+        ],
+        "Floors": [
+            57,
+            58,
+            67,
+            1028
+        ]
     }
 ]
 
@@ -55305,6 +55330,261 @@ var _SpiralAbyssFloorConfig = {
                                 "Affix": [
                                     5427
                                 ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "1028": {
+        "Disorder": {
+            "CH": "仅在此层，地脉的涌流平缓通顺。",
+            "EN": "For this floor only, the ley line flow will be normal."
+        },
+        "ShowVers": [
+            7
+        ],
+        "Chambers": [
+            {
+                "Name": "12-1",
+                "Level": 95,
+                "GoalType": 0,
+                "GoalParam": 3,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        7,
+                        22,
+                        34
+                    ]
+                },
+                "Upper": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 20202,
+                                "Num": 1,
+                                "Affix": [
+                                    1029
+                                ],
+                                "Note": {
+                                    "Text": {
+                                        "CH": "凝结之冰",
+                                        "EN": "Condensed<br>Ice"
+                                    },
+                                    "Color": "Ice"
+                                }
+                            },
+                            {
+                                "ID": 61001,
+                                "Num": 2
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 20302,
+                                "Num": 1,
+                                "Affix": [
+                                    6105
+                                ],
+                                "Note": {
+                                    "Text": {
+                                        "CH": "追踪火球",
+                                        "EN": "Pursuing<br>Fireball"
+                                    },
+                                    "Color": "Fire"
+                                }
+                            },
+                            {
+                                "ID": 61002,
+                                "Num": 2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Name": "12-2",
+                "Level": 98,
+                "GoalType": 0,
+                "GoalParam": 3,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        7,
+                        22,
+                        34
+                    ]
+                },
+                "Upper": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 60410,
+                                "Num": 1,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "地方传奇",
+                                        "EN": "Legend"
+                                    },
+                                    "Color": "Fire"
+                                }
+                            },
+                            {
+                                "ID": 60411,
+                                "Num": 1,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "地方传奇",
+                                        "EN": "Legend"
+                                    },
+                                    "Color": "Ice"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 5102,
+                                "Num": 1,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "地方传奇",
+                                        "EN": "Legend"
+                                    },
+                                    "Color": "Water"
+                                }
+                            },
+                            {
+                                "ID": 5112,
+                                "Num": 1,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "地方传奇",
+                                        "EN": "Legend"
+                                    },
+                                    "Color": "Water"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Name": "12-3",
+                "Level": 100,
+                "GoalType": 0,
+                "GoalParam": 3,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        19
+                    ]
+                },
+                "Upper": [
+                    {
+                        "WaveDesc": 61701,
+                        "Monsters": [
+                            {
+                                "ID": 61701,
+                                "Num": 1,
+                                "Affix": [
+                                    61701,
+                                    5002
+                                ],
+                                "Note": {
+                                    "Text": {
+                                        "CH": "防护强化",
+                                        "EN": "Defense<br>Enhance"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 61801,
+                        "Monsters": [
+                            {
+                                "ID": 61801,
+                                "Num": 1,
+                                "Affix": [
+                                    61801,
+                                    5002
+                                ],
+                                "Note": {
+                                    "Text": {
+                                        "CH": "防护强化",
+                                        "EN": "Defense<br>Enhance"
+                                    }
+                                }
                             }
                         ]
                     }
