@@ -744,11 +744,11 @@ $(function () {
                                     div: [
                                         {
                                             img: function (k) {
-                                                return imgpre + 'homdgcat-res/Avatar/' + k.data.Icon + '.png'
+                                                return imgpre + 'homdgcat-res/Gacha/' + k.data.Icon.replace("AvatarIcon", "Gacha_AvatarImg") + '.png'
                                             },
-                                            class: 'avatar_costume_img',
+                                            class: 'gacha',
                                             when: function (k) {
-                                                return k.data.Icon
+                                                return k.data.Icon && !k.data.Icon.includes("Player")
                                             },
                                         },
                                         {
@@ -757,7 +757,10 @@ $(function () {
                                             }
                                         }
                                     ],
-                                    class: 'a_section_content'
+                                    class: 'a_section_content',
+                                    style: {
+                                        'overflow-x': 'hidden'
+                                    }
                                 },
                             ],
                             class: 'a_section'
@@ -3178,8 +3181,10 @@ $(function () {
             template: {
                 div: [
                     {
-                        img: imgpre + 'homdgcat-res/Avatar/' + ascic + ".png",
-                        class: 'mat-img'
+                        img: function (k) {
+                            return imgpre + 'homdgcat-res/Gacha/' + ascic.replace("AvatarIcon", "Costume") + '.png'
+                        },
+                        class: 'gacha',
                     },
                     {
                         p: ascib,
