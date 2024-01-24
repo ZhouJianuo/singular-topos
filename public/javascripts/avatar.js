@@ -1419,7 +1419,7 @@ $(function () {
                                     },
                                     {
                                         p: function (k) {
-                                            return '<color style="color:' + colors[this_avatar.Element] + ';">' + k.data.Level.toString() + "</color> " + k.data.Name[lang]
+                                            return k.data.Name[lang]
                                         },
                                         class: 'head_right'
                                     },
