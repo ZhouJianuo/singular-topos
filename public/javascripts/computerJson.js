@@ -841,8 +841,8 @@ var computer_ = {
             "EN": "Story"
         },
         "Avatar_Weapon_Stats": {
-            "CH": "武器属性",
-            "EN": "Weapon Stats"
+            "CH": "武器属性 / 材料",
+            "EN": "Weapon Stats / Materials"
         },
         "Avatar_Weapon_Stat_ATK": {
             "CH": "基础攻击力：",

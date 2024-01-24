@@ -749,11 +749,14 @@ $(function () {
                                             class: 'gacha',
                                             when: function (k) {
                                                 return k.data.Icon && !k.data.Icon.includes("Player")
-                                            },
+                                            }
                                         },
                                         {
                                             p: function (k) {
                                                 return k.data.Desc[lang]
+                                            },
+                                            style: {
+                                                'margin': '10px 0'
                                             }
                                         }
                                     ],
@@ -2755,14 +2758,16 @@ $(function () {
                                 img: imgpre + 'homdgcat-res/Weapon/' + wpn.Icons[0] + '.png',
                                 style: {
                                     width: '50%',
-                                    margin: 'auto'
+                                    margin: 'auto',
+                                    'max-width': '160px'
                                 }
                             },
                             {
                                 img: imgpre + 'homdgcat-res/Weapon/' + wpn.Icons[1] + '.png',
                                 style: {
                                     width: '50%',
-                                    margin: 'auto'
+                                    margin: 'auto',
+                                    'max-width': '160px'
                                 }
                             },
                             {
@@ -2772,7 +2777,12 @@ $(function () {
                         class: 'a_section_content'
                     },
                 ],
-                class: 'a_section_small_3'
+                class: 'a_section_small_1',
+                style: {
+                    'background-color': 'white',
+                    border: '2px solid #27363E',
+                    color: 'black',
+                }
             },
             {
                 div: [
@@ -2784,6 +2794,14 @@ $(function () {
                     },
                     {
                         div: [
+                            {
+                                hr: '',
+                                style: {
+                                    'border-width': '1px',
+                                    'margin-bottom': '20px',
+                                    'margin-top': '10px'
+                                }
+                            },
                             {
                                 p: function (k) {
                                     var st = wpn.Stat.toFixed(5)
@@ -2804,27 +2822,19 @@ $(function () {
                                     }
                                     return computer_.MiscText.Avatar_Weapon_Stat_Custom[lang] + "<b>+" + promote_value + " " + promote_config.Text[lang] + "</b>"
                                 }
-                            }
-                        ],
-                        class: 'a_section_content'
-                    },
-                ],
-                class: 'a_section_small_3'
-            },
-            {
-                div: [
-                    {
-                        div: {
-                            p: computer_.MiscText.Avatar_AscMat[lang]
-                        },
-                        class: 'a_section_head'
-                    },
-                    {
-                        div: [
+                            },
+                            {
+                                hr: '',
+                                style: {
+                                    'border-width': '1px',
+                                    'margin-top': '20px'
+                                }
+                            },
                             {
                                 p: computer_.AvatarNationConfig[weapon_asc[wpn.AscMatID][0]].Text[lang] + " / " + computer_.WeaponTalentConfig[weapon_asc[wpn.AscMatID][1]][lang],
                                 style: {
-                                    'padding-bottom': '10px'
+                                    'padding-bottom': '10px',
+                                    'padding-top': '20px'
                                 }
                             },
                             {
@@ -2884,7 +2894,7 @@ $(function () {
                         class: 'a_section_content'
                     },
                 ],
-                class: 'a_section_small_4'
+                class: 'a_section_small_2'
             },
             {
                 div: [
