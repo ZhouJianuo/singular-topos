@@ -272,7 +272,18 @@ button {
     width: 50px;
 }
 
-.stat_ver_choose select,
+.stat_ver_choose {
+    margin: 15px 0 21px;
+}
+
+.stat_ver_choose select {
+    width: 108px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    height: 33px;
+}
+
 .stat_ver_choose_w select,
 .story_this select {
     width: 72px;
@@ -626,6 +637,22 @@ tr {
     cursor: pointer;
 }
 
+.head_withimg {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.head_left {
+    width: 40px;
+    height: 40px;
+}
+
+.head_right {
+    width: calc(100% - 45px);
+    margin: 0 0 0 5px;
+}
+
 @media screen and (min-width: 900px) {
     .relic-head tr :nth-child(2) {
         width: 12%;
@@ -649,6 +676,16 @@ tr {
 }
 
 @media screen and (min-width: 500px) and (max-width: 800px) {
+    .head_left {
+        width: 45px;
+        height: 45px;
+    }
+    
+    .head_right {
+        width: calc(100% - 50px);
+        margin: 0 0 0 5px;
+    }
+    
 
     .generation img {
         height: 70px;
@@ -742,8 +779,7 @@ tr {
     .a_section_head span {
         font-size: 19px;
     }
-
-    .stat_ver_choose select,
+    
     .stat_ver_choose_w select,
     .story_this select {
         width: 75px;
@@ -782,6 +818,16 @@ tr {
 }
 
 @media screen and (min-width: 800px) {
+    .head_left {
+        width: 50px;
+        height: 50px;
+    }
+    
+    .head_right {
+        width: calc(100% - 55px);
+        margin: 0 0 0 5px;
+    }
+    
 
     .generation img {
         height: 80px;
@@ -911,8 +957,7 @@ tr {
     .a_section_head span {
         font-size: 20px;
     }
-
-    .stat_ver_choose select,
+    
     .stat_ver_choose_w select,
     .story_this select {
         width: 77px;

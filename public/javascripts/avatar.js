@@ -511,7 +511,7 @@ $(function () {
                                         is_calc = 1
                                         talk_state = 0
                                         poplayer({
-                                            header: p.org_data.Name[lang] + pop_ver + computer_.MiscText.Avatar_Table_Title_Extra[lang],
+                                            header: '<span id="h_">' + p.org_data.Name[lang] + pop_ver + computer_.MiscText.Avatar_Table_Title_Extra[lang] + '</span>',
                                             width: '100%',
                                             data: p.org_data,
                                             template: [
@@ -1186,251 +1186,260 @@ $(function () {
             }
         } else {
             dr = {
-                "Battle Skills": {
-                    data: skillconfig.BattleSkills,
-                    template: [
-                        {
-                            div: [
-                                {
-                                    div: [
-                                        {
-                                            span: function (k) {
-                                                return k.data.Name[lang]
+                "Battle Skills": [
+                    {
+                        div: [
+                            {
+                                div: [
+                                    {
+                                        div: [
+                                            {
+                                                img: function (k) {
+                                                    return imgpre + 'homdgcat-res/AvatarSkill/' + k.data.Icon + '.png'
+                                                },
+                                                class: 'head_left'
                                             },
-                                            style: {
-                                                'margin-left': '0px',
-                                                'margin-right': '5px',
-                                            }
-                                        },
-                                        {
-                                            span: renderSVC(avatar),
-                                            class: 'stat_ver_choose'
-                                        }
-                                    ],
-                                    class: 'a_section_head'
-                                },
-                                {
-                                    div: "",
-                                    style: {
-                                        'height': '1px',
-                                        'width': '100%'
-                                    }
-                                },
-                                {
-                                    div: {
-                                        p: function (k) {
-                                            return k.data.Desc[lang]
-                                        }
+                                            {
+                                                p: function (k) {
+                                                    return k.data.Name[lang]
+                                                },
+                                                class: 'head_right'
+                                            },
+                                        ],
+                                        class: 'a_section_head head_withimg'
                                     },
-                                    class: 'a_section_content'
-                                },
-                            ],
-                            class: 'battle_desc',
-                        },
-                        {
-                            div: [
-                                {
-                                    div: [
-                                        {
-                                            input: 'lv',
-                                            a: {
-                                                type: 'number',
-                                                value: 10,
-                                                min: 1,
-                                                max: function (s) {
-                                                    return s.data.ParamDesc[0].ParamLevelList.length
+                                    {
+                                        div: [
+                                            {
+                                                p: function (k) {
+                                                    return k.data.Desc[lang]
                                                 }
-                                            },
-                                            class: 'skill_lv_input'
-                                        },
-                                        {
-                                            button: '▼',
-                                            class: 'skill_lv_down'
-                                        },
-                                        {
-                                            button: '▲',
-                                            class: 'skill_lv_up'
-                                        }
-                                    ],
-                                    class: 'a_section_head'
-                                },
-                                {
-                                    div: "",
-                                    style: {
-                                        'height': '1px',
-                                        'width': '100%'
-                                    }
-                                },
-                                {
-                                    div: [
-                                        {
-                                            div: [
-                                                {
-                                                    span: function (s) {
-                                                        return s.data.Desc[lang]
-                                                    },
-                                                    style: {
-                                                        width: 'max-content'
+                                            }
+                                        ],
+                                        class: 'a_section_content'
+                                    },
+                                ],
+                                class: 'battle_desc',
+                            },
+                            {
+                                div: [
+                                    {
+                                        div: [
+                                            {
+                                                input: 'lv',
+                                                a: {
+                                                    type: 'number',
+                                                    value: 10,
+                                                    min: 1,
+                                                    max: function (s) {
+                                                        return s.data.ParamDesc[0].ParamLevelList.length
                                                     }
                                                 },
-                                                /*{
-                                                    span: function (s) {
-                                                        var init_lv = s.data.ParamLevelList.length == 15 ? 9 : 0
-                                                        return s.data.ParamLevelList[init_lv][lang]
-                                                    },
-                                                    style: {
-                                                        'text-align': 'right',
-                                                        'float': 'right'
-                                                    },
-                                                },*/
-                                                {
-                                                    span: function (s) {
-                                                        var active_lv = 10
-                                                        var total_lv = s.data.ParamLevelList.length
-                                                        for (var i = 0; i < 15; i++) {
-                                                            $(s.container).render({
-                                                                span: function (s) {
-                                                                    var this_level_desc = s.data.ParamLevelList[i]
-                                                                    return this_level_desc ? (this_level_desc[lang] ? this_level_desc[lang] : this_level_desc) : s.data.ParamLevelList[total_lv - 1][lang]
-                                                                },
-                                                                class: 'lv lv' + (i + 1).toString()
-                                                            });
+                                                class: 'skill_lv_input'
+                                            },
+                                            {
+                                                button: '▼',
+                                                class: 'skill_lv_down'
+                                            },
+                                            {
+                                                button: '▲',
+                                                class: 'skill_lv_up'
+                                            }
+                                        ],
+                                        class: 'a_section_head'
+                                    },
+                                    {
+                                        div: "",
+                                        style: {
+                                            'height': '1px',
+                                            'width': '100%'
+                                        }
+                                    },
+                                    {
+                                        div: [
+                                            {
+                                                div: [
+                                                    {
+                                                        span: function (s) {
+                                                            return s.data.Desc[lang]
+                                                        },
+                                                        style: {
+                                                            width: 'max-content'
                                                         }
-                                                        $(s.container).children().hide()
-                                                        $(s.container).children('.lv' + active_lv).show()
                                                     },
-                                                    style: {
-                                                        'text-align': 'right',
-                                                        width: 'max-content'
-                                                    },
-                                                }
-                                            ],
-                                            datapath: 'ParamDesc',
-                                            class: 'param'
-                                        },
-                                        {
-                                            div: [
-                                                {
-                                                    span: computer_.MiscText.Avatar_ExtraParamName_Charge[lang],
-                                                    style: {
-                                                        'color': '#FFD780',
+                                                    /*{
+                                                        span: function (s) {
+                                                            var init_lv = s.data.ParamLevelList.length == 15 ? 9 : 0
+                                                            return s.data.ParamLevelList[init_lv][lang]
+                                                        },
+                                                        style: {
+                                                            'text-align': 'right',
+                                                            'float': 'right'
+                                                        },
+                                                    },*/
+                                                    {
+                                                        span: function (s) {
+                                                            var active_lv = 10
+                                                            var total_lv = s.data.ParamLevelList.length
+                                                            for (var i = 0; i < 15; i++) {
+                                                                $(s.container).render({
+                                                                    span: function (s) {
+                                                                        var this_level_desc = s.data.ParamLevelList[i]
+                                                                        return this_level_desc ? (this_level_desc[lang] ? this_level_desc[lang] : this_level_desc) : s.data.ParamLevelList[total_lv - 1][lang]
+                                                                    },
+                                                                    class: 'lv lv' + (i + 1).toString()
+                                                                });
+                                                            }
+                                                            $(s.container).children().hide()
+                                                            $(s.container).children('.lv' + active_lv).show()
+                                                        },
+                                                        style: {
+                                                            'text-align': 'right',
+                                                            width: 'max-content'
+                                                        },
                                                     }
-                                                },
-                                                {
-                                                    span: function (s) {
-                                                        return s.data.Num
-                                                    },
-                                                    style: {
-                                                        'text-align': 'right',
-                                                        'color': '#FFD780',
-                                                        'height': '30px'
-                                                    }
-                                                },
-                                            ],
-                                            class: 'param'
-                                        },
-                                        {
-                                            div: [
-                                                {
-                                                    span: computer_.MiscText.Avatar_ExtraParamName_Lock[lang],
-                                                    style: {
-                                                        'color': '#FFD780',
-                                                    }
-                                                },
-                                                {
-                                                    span: function (s) {
-                                                        return s.data.Lock.toFixed(1)
-                                                    },
-                                                    style: {
-                                                        'text-align': 'right',
-                                                        'color': '#FFD780',
-                                                        'height': '30px'
-                                                    },
-                                                    class: 'paramstat'
-                                                },
-                                            ],
-                                            class: 'param'
-                                        }
-                                    ],
-                                    class: 'a_section_content'
-                                },
-                            ],
-                            class: 'battle_stat',
-                        }
-                    ]
-                },
-                "Passive Skills": {
-                    data: skillconfig.PassiveSkills,
-                    template: [
-                        {
-                            div: [
-                                {
-                                    div: [
-                                        {
-                                            span: function (k) {
-                                                return k.data.Name[lang]
+                                                ],
+                                                datapath: 'ParamDesc',
+                                                class: 'param'
                                             },
-                                            style: {
-                                                'margin-left': '0px',
-                                                'margin-right': '5px',
-                                            }
-                                        },
-                                        {
-                                            span: renderSVC(avatar),
-                                            class: 'stat_ver_choose'
-                                        }
-                                    ],
-                                    class: 'a_section_head'
-                                },
-                                {
-                                    div: {
-                                        p: function (k) {
-                                            return k.data.Desc[lang]
-                                        }
-                                    },
-                                    class: 'a_section_content'
-                                },
-                            ],
-                            class: 'a_section'
-                        }
-                    ]
-                },
-                "Constellations": {
-                    data: skillconfig.Constellations,
-                    template: [
-                        {
-                            div: [
-                                {
-                                    div: [
-                                        {
-                                            span: function (k) {
-                                                return k.data.Level.toString() + " " + k.data.Name[lang]
+                                            {
+                                                div: [
+                                                    {
+                                                        span: computer_.MiscText.Avatar_ExtraParamName_Charge[lang],
+                                                        style: {
+                                                            'color': '#FFD780',
+                                                        }
+                                                    },
+                                                    {
+                                                        span: function (s) {
+                                                            return s.data.Num
+                                                        },
+                                                        style: {
+                                                            'text-align': 'right',
+                                                            'color': '#FFD780',
+                                                            'height': '30px'
+                                                        }
+                                                    },
+                                                ],
+                                                class: 'param'
                                             },
-                                            style: {
-                                                'margin-left': '0px',
-                                                'margin-right': '5px',
+                                            {
+                                                div: [
+                                                    {
+                                                        span: computer_.MiscText.Avatar_ExtraParamName_Lock[lang],
+                                                        style: {
+                                                            'color': '#FFD780',
+                                                        }
+                                                    },
+                                                    {
+                                                        span: function (s) {
+                                                            return s.data.Lock.toFixed(1)
+                                                        },
+                                                        style: {
+                                                            'text-align': 'right',
+                                                            'color': '#FFD780',
+                                                            'height': '30px'
+                                                        },
+                                                        class: 'paramstat'
+                                                    },
+                                                ],
+                                                class: 'param'
                                             }
-                                        },
-                                        {
-                                            span: renderSVC(avatar),
-                                            class: 'stat_ver_choose'
-                                        }
-                                    ],
-                                    class: 'a_section_head'
-                                },
-                                {
-                                    div: {
-                                        p: function (k) {
-                                            return k.data.Desc[lang]
-                                        }
+                                        ],
+                                        class: 'a_section_content'
                                     },
-                                    class: 'a_section_content'
-                                },
-                            ],
-                            class: 'a_section'
+                                ],
+                                class: 'battle_stat',
+                            }
+                        ],
+                        data: skillconfig.BattleSkills,
+                        style: {
+                            margin: '0',
+                            display: 'flex',
+                            'flex-wrap': 'wrap',
+                            'justify-content': 'space-evenly',
+                            width: '100%'
                         }
-                    ]
-                },
+                    },
+                    {
+                        div: renderSVC(avatar),
+                        class: 'stat_ver_choose'
+                    },
+                ],
+                "Passive Skills": [
+                    {
+                        div: [
+                            {
+                                div: [
+                                    {
+                                        img: function (k) {
+                                            return imgpre + 'homdgcat-res/AvatarSkill/' + k.data.Icon + '.png'
+                                        },
+                                        class: 'head_left'
+                                    },
+                                    {
+                                        p: function (k) {
+                                            return k.data.Name[lang]
+                                        },
+                                        class: 'head_right'
+                                    },
+                                ],
+                                class: 'a_section_head head_withimg'
+                            },
+                            {
+                                div: {
+                                    p: function (k) {
+                                        return k.data.Desc[lang]
+                                    }
+                                },
+                                class: 'a_section_content'
+                            },
+                        ],
+                        class: 'a_section',
+                        data: skillconfig.PassiveSkills,
+                    },
+                    {
+                        div: renderSVC(avatar),
+                        class: 'stat_ver_choose'
+                    },
+                ],
+                "Constellations": [
+                    {
+                        div: [
+                            {
+                                div: [
+                                    {
+                                        img: function (k) {
+                                            return imgpre + 'homdgcat-res/AvatarSkill/' + k.data.Icon + '.png'
+                                        },
+                                        class: 'head_left'
+                                    },
+                                    {
+                                        p: function (k) {
+                                            return k.data.Level.toString() + " " + k.data.Name[lang]
+                                        },
+                                        class: 'head_right'
+                                    },
+                                ],
+                                class: 'a_section_head head_withimg'
+                            },
+                            {
+                                div: {
+                                    p: function (k) {
+                                        return k.data.Desc[lang]
+                                    }
+                                },
+                                class: 'a_section_content'
+                            },
+                        ],
+                        class: 'a_section',
+                        data: skillconfig.Constellations,
+                    },
+                    {
+                        div: renderSVC(avatar),
+                        class: 'stat_ver_choose'
+                    },
+                ],
                 "Damage Data": {
                     div: [
                         {
@@ -2710,7 +2719,7 @@ $(function () {
         var skill = _WeaponAffixConfig[wpn.EquipAffixID]
         cur_skill = skill
         poplayer({
-            header: wpn.Name[lang] + pop_ver + computer_.MiscText.Avatar_Table_Title_Extra[lang],
+            header: '<span id="h_">' + wpn.Name[lang] + pop_ver + computer_.MiscText.Avatar_Table_Title_Extra[lang] + '</span>',
             width: '100%',
             class: 'weapon_pop',
             template: {
@@ -3092,6 +3101,7 @@ $(function () {
         avatar_stat_ver = $(this).val()
         $('select').val(avatar_stat_ver)
         renderInfo(current_name, current_type)
+        $('#h_').html(_AvatarInfoConfig[char_id_list[current_name]].Name[lang] + " " + $('.stat_ver_choose select option:selected').html() + computer_.MiscText.Avatar_Table_Title_Extra[lang])
     })
 
     $('body').on('change', '.stat_ver_choose_w select', function () {
@@ -3099,6 +3109,7 @@ $(function () {
         $('select').val(weapon_stat_ver)
         $('.weapon_section').empty().render(skillTemplate(cur_wpn, cur_skill))
         $('select').val(weapon_stat_ver)
+        $('#h_').html(cur_wpn.Name[lang] + " " + $('.stat_ver_choose_w select option:selected').html() + computer_.MiscText.Avatar_Table_Title_Extra[lang])
         load_weapon_story()
     })
 

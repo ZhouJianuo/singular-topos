@@ -150,7 +150,7 @@ schedule {
 }
 
 .load-group schedule {
-    width: calc((100% - 50px) / 3);
+    width: calc((100% - 45px) / 3);
 }
 
 schedule.active {
@@ -182,7 +182,7 @@ schedule.active {
     }
 
     .load-group schedule {
-        width: calc((100% - 50px) / 5);
+        width: calc((100% - 75px) / 5);
         font-size: 16px;
     }
 }
