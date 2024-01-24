@@ -187,7 +187,8 @@ schedule.active{
 }
 
 .yuhengcup popbody {
-    padding: 10px
+    padding: 10px;
+    max-height: calc(100% - 40px) !important;
 }
 
 .yuhengcup popdialog {
