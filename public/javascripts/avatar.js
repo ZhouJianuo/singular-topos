@@ -2764,7 +2764,10 @@ $(function () {
                                     width: '50%',
                                     margin: 'auto'
                                 }
-                            }
+                            },
+                            {
+                                p: wpn.Desc[lang]
+                            },
                         ],
                         class: 'a_section_content'
                     },
@@ -2882,25 +2885,6 @@ $(function () {
                     },
                 ],
                 class: 'a_section_small_4'
-            },
-            {
-                div: [
-                    {
-                        div: {
-                            p: computer_.MiscText.Avatar_Weapon_Desc[lang]
-                        },
-                        class: 'a_section_head'
-                    },
-                    {
-                        div: [
-                            {
-                                p: wpn.Desc[lang]
-                            },
-                        ],
-                        class: 'a_section_content'
-                    },
-                ],
-                class: 'a_section'
             },
             {
                 div: [
