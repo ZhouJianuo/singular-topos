@@ -95,6 +95,10 @@ popbody {
     max-height: calc(100% - 40px) !important
 }
 
+.mat-pop popbody {
+    overflow-x: hidden;
+}
+
 .avatar_mat {
     margin: 9px 6px;
     padding: 0px 6px;
