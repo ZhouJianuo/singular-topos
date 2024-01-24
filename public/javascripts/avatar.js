@@ -1295,7 +1295,8 @@ $(function () {
                                                         },
                                                         style: {
                                                             'text-align': 'right',
-                                                            width: 'max-content'
+                                                            width: 'max-content',
+                                                            'margin-left': '5px'
                                                         },
                                                     }
                                                 ],
@@ -1317,7 +1318,8 @@ $(function () {
                                                         style: {
                                                             'text-align': 'right',
                                                             'color': '#FFD780',
-                                                            'height': '30px'
+                                                            'height': '30px',
+                                                            'margin-left': '5px'
                                                         }
                                                     },
                                                 ],
@@ -1338,7 +1340,8 @@ $(function () {
                                                         style: {
                                                             'text-align': 'right',
                                                             'color': '#FFD780',
-                                                            'height': '30px'
+                                                            'height': '30px',
+                                                            'margin-left': '5px'
                                                         },
                                                         class: 'paramstat'
                                                     },
@@ -1416,7 +1419,7 @@ $(function () {
                                     },
                                     {
                                         p: function (k) {
-                                            return k.data.Level.toString() + " " + k.data.Name[lang]
+                                            return '<color style="color:' + colors[this_avatar.Element] + ';">' + k.data.Level.toString() + "</color> " + k.data.Name[lang]
                                         },
                                         class: 'head_right'
                                     },
