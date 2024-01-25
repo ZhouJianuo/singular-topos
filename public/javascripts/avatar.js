@@ -2797,7 +2797,7 @@ $(function () {
                             {
                                 hr: '',
                                 style: {
-                                    'border-width': '1px',
+                                    'height': '1px',
                                     'margin-bottom': '20px',
                                     'margin-top': '10px'
                                 }
@@ -2826,7 +2826,7 @@ $(function () {
                             {
                                 hr: '',
                                 style: {
-                                    'border-width': '1px',
+                                    'height': '1px',
                                     'margin-top': '20px'
                                 }
                             },
