@@ -177,10 +177,10 @@ var SR = [
                 "CH": "怪物技能精确数据",
                 "EN": "Accurate monster skill data."
             },
-            /*{
+            {
                 "CH": "部分怪物技能一图流（作者：Csxylic）",
                 "EN": "Monster skill sheets by Csxylic."
-            }*/
+            }
         ],
         "Href": {
             "CH": "/sr/monster",

@@ -11823,13 +11823,14 @@ var _monsterskill = {
             "EN": "Dance Invite"
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理属性伤害，有<color style='color:#f29e38;'>50%</color>基础概率使受到攻击的我方目标陷入<b>裂伤</b>状态。",
-            "EN": "Deals <1> Physical DMG to a single target, with a <color style='color:#f29e38;'>50%</color> Base Chance to inflict <b>Bleed</b> on them."
+            "CH": "对指定我方单体造成<1>物理属性伤害，有<color style='color:#f29e38;'>50%</color>基础概率使受到攻击的我方目标陷入<b>裂伤</b>状态。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+            "EN": "Deals <1> Physical DMG to a single target, with a <color style='color:#f29e38;'>50%</color> Base Chance to inflict <b>Bleed</b> on them.<br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers."
         },
         "SP": 10.0,
         "Elem": "Phys",
         "DMG": [
-            2.5
+            2.5,
+            0.2
         ]
     },
     "700211001": {
