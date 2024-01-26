@@ -445,7 +445,7 @@ container {
     top: -2.4px;
 }
 
-.ui {
+.ui, .pos {
     margin-top: 10px;
     height: 30px;
     font-size: 16px;
@@ -564,6 +564,21 @@ i.affix_hover {
     font-family: 'Arial';
 }
 
+.monicon_mark_ {
+    position: absolute;
+    top: -5%;
+    left: -5%;
+    background-color: #fff;
+    z-index: 1001;
+    height: 40%;
+    width: 40%;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 100%;
+    font-size: calc(100% - 1px);
+    font-family: 'Arial';
+}
+
 .monright {
     max-width: calc(100% - 53px);
     padding-left: 3px;
@@ -659,6 +674,29 @@ section>schedule,
     margin-bottom: 20px;
 }
 
+.arena, .arena-n {
+    border: 1.5px solid black;
+    width: 95%;
+    max-width: 500px;
+    border-radius: 50%;
+    aspect-ratio: 1;
+    margin: 4px auto 20px;
+    position: relative;
+}
+
+.arenadot {
+    width: 2.4%;
+    height: 2.4%;
+    background-color: #ff0000;
+    border-radius: 50%;
+    position: absolute;
+}
+
+._pic {
+    height: 7.6%;
+    width: 7.6%;
+}
+
 @media screen and (min-width: 600px) and (max-width: 800px) {
 
     .showtop {
@@ -666,7 +704,7 @@ section>schedule,
         top: 12px;
     }
 
-    .ui {
+    .ui, .pos {
         height: 33px;
         font-size: 16px;
     }
@@ -732,7 +770,7 @@ section>schedule,
         top: 12px;
     }
 
-    .ui {
+    .ui, .pos {
         height: 36px;
         font-size: 18px;
     }

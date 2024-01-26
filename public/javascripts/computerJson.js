@@ -420,6 +420,10 @@ var computer_ = {
                 "EN": "Less Info"
             },
         ],
+        "Abyss_Pos" : {
+            "CH": "<color style='color:#FF0000'>敌方站位</color>",
+            "EN": "<color style='color:#FF0000'>Enemy Positions</color>",
+        },
         "Avatar_Table_Title_Extra": {
             "CH": " | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>char.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
             "EN": " | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.char.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"

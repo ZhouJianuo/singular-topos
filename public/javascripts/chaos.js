@@ -904,7 +904,7 @@ $(function () {
                                     var s4 = '<color style="color:#' + COL + ';"><b>' + (v4 * 100).toFixed(1).replace('.0', '') + '%</b></color>'
                                     var s5 = '<color style="color:#' + COL + ';"><b>' + (v5 * 100).toFixed(1).replace('.0', '') + '%</b></color>'
                                 }
-                                return skill.Desc[lang].replace('<1>', s1).replace('<2>', s2).replace('<3>', s3).replace('<4>', s4).replace('<5>', s5)
+                                return skill.Desc[lang].replaceAll('<1>', s1).replaceAll('<2>', s2).replaceAll('<3>', s3).replaceAll('<4>', s4).replaceAll('<5>', s5)
                             },
                             class: 'a_section_content'
                         }

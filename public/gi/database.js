@@ -48066,6 +48066,7 @@ var _SpiralAbyssFloorConfig = {
                         31
                     ]
                 },
+                "Center": 0,
                 "Upper": [
                     {
                         "WaveDesc": 1,
@@ -48088,11 +48089,11 @@ var _SpiralAbyssFloorConfig = {
                                 "Pos": [
                                     [
                                         8,
-                                        3
+                                        4
                                     ],
                                     [
                                         8,
-                                        -3
+                                        -4
                                     ]
                                 ]
                             }
@@ -48118,7 +48119,7 @@ var _SpiralAbyssFloorConfig = {
                                 "Mark": true,
                                 "Pos": [
                                     [
-                                        -3,
+                                        -4,
                                         8
                                     ]
                                 ]
@@ -48129,7 +48130,7 @@ var _SpiralAbyssFloorConfig = {
                                 "Mark": true,
                                 "Pos": [
                                     [
-                                        3,
+                                        4,
                                         8
                                     ]
                                 ]
@@ -48157,11 +48158,11 @@ var _SpiralAbyssFloorConfig = {
                                 "Pos": [
                                     [
                                         -8,
-                                        3
+                                        4
                                     ],
                                     [
                                         -8,
-                                        -3
+                                        -4
                                     ]
                                 ]
                             }
@@ -48187,7 +48188,7 @@ var _SpiralAbyssFloorConfig = {
                                 "Mark": true,
                                 "Pos": [
                                     [
-                                        -3,
+                                        -4,
                                         -8
                                     ]
                                 ]
@@ -48198,7 +48199,7 @@ var _SpiralAbyssFloorConfig = {
                                 "Mark": true,
                                 "Pos": [
                                     [
-                                        3,
+                                        4,
                                         -8
                                     ]
                                 ]
@@ -48233,11 +48234,11 @@ var _SpiralAbyssFloorConfig = {
                                 "Pos": [
                                     [
                                         8,
-                                        3
+                                        4
                                     ],
                                     [
                                         8,
-                                        -3
+                                        -4
                                     ]
                                 ]
                             }
@@ -48269,11 +48270,11 @@ var _SpiralAbyssFloorConfig = {
                                 "Pos": [
                                     [
                                         -8,
-                                        3
+                                        4
                                     ],
                                     [
                                         -8,
-                                        -3
+                                        -4
                                     ]
                                 ]
                             }
@@ -48342,6 +48343,7 @@ var _SpiralAbyssFloorConfig = {
                         34
                     ]
                 },
+                "Center": 0,
                 "Upper": [
                     {
                         "WaveDesc": 1,
@@ -48352,7 +48354,7 @@ var _SpiralAbyssFloorConfig = {
                                 "Pos": [
                                     [
                                         7,
-                                        -3
+                                        -5
                                     ]
                                 ]
                             },
@@ -48362,7 +48364,7 @@ var _SpiralAbyssFloorConfig = {
                                 "Pos": [
                                     [
                                         7,
-                                        3
+                                        5
                                     ]
                                 ]
                             },
@@ -48436,11 +48438,11 @@ var _SpiralAbyssFloorConfig = {
                                 ],
                                 "Pos": [
                                     [
-                                        6,
+                                        8,
                                         3
                                     ],
                                     [
-                                        6,
+                                        8,
                                         -3
                                     ]
                                 ]
@@ -48523,10 +48525,7 @@ var _SpiralAbyssFloorConfig = {
                         19
                     ]
                 },
-                "Center": [
-                    -10,
-                    0
-                ],
+                "Center": -10,
                 "Upper": [
                     {
                         "WaveDesc": 1,
@@ -48542,8 +48541,8 @@ var _SpiralAbyssFloorConfig = {
                                 "Num": 1,
                                 "Pos": [
                                     [
-                                        6,
-                                        -3
+                                        0,
+                                        -4
                                     ]
                                 ]
                             },
@@ -48561,8 +48560,8 @@ var _SpiralAbyssFloorConfig = {
                                 ],
                                 "Pos": [
                                     [
-                                        6,
-                                        3
+                                        0,
+                                        4
                                     ]
                                 ]
                             }
@@ -48632,10 +48631,7 @@ var _SpiralAbyssFloorConfig = {
                         34
                     ]
                 },
-                "Center": [
-                    -10,
-                    0
-                ],
+                "Center": -10,
                 "Upper": [
                     {
                         "WaveDesc": 40211,
@@ -48705,22 +48701,20 @@ var _SpiralAbyssFloorConfig = {
                 "DPS": {
                     "1": 3433591
                 },
+                "Center": 0,
                 "Upper": [
                     {
                         "WaveDesc": 50901,
                         "Vers": [
                             1
                         ],
+                        "Center": -10,
                         "Monsters": [
                             {
                                 "ID": 50901,
                                 "Num": 1,
                                 "Affix": [
                                     9999
-                                ],
-                                "Center": [
-                                    -10,
-                                    0
                                 ],
                                 "Pos": [
                                     [
@@ -48808,6 +48802,7 @@ var _SpiralAbyssFloorConfig = {
                         "Vers": [
                             1
                         ],
+                        "NoArena": true,
                         "Monsters": [
                             {
                                 "ID": 60401,
@@ -48838,6 +48833,7 @@ var _SpiralAbyssFloorConfig = {
                         "Vers": [
                             1
                         ],
+                        "NoArena": true,
                         "Monsters": [
                             {
                                 "ID": 510,
@@ -48854,6 +48850,7 @@ var _SpiralAbyssFloorConfig = {
                         "Vers": [
                             1
                         ],
+                        "NoArena": true,
                         "Monsters": [
                             {
                                 "ID": 54104,
@@ -48889,11 +48886,11 @@ var _SpiralAbyssFloorConfig = {
                                     ],
                                     [
                                         7,
-                                        -3
+                                        -4
                                     ],
                                     [
                                         7,
-                                        3
+                                        4
                                     ]
                                 ]
                             },
@@ -48903,11 +48900,11 @@ var _SpiralAbyssFloorConfig = {
                                 "Pos": [
                                     [
                                         6,
-                                        -6
+                                        -8
                                     ],
                                     [
                                         6,
-                                        6
+                                        8
                                     ]
                                 ]
                             }
@@ -49015,16 +49012,14 @@ var _SpiralAbyssFloorConfig = {
                 "DPS": {
                     "1": 4603182
                 },
-                "Center": [
-                    -10,
-                    0
-                ],
+                "Center": -10,
                 "Upper": [
                     {
                         "WaveDesc": 1,
                         "Vers": [
                             1
                         ],
+                        "NoArena": true,
                         "Monsters": [
                             {
                                 "ID": 60509,
@@ -49045,6 +49040,7 @@ var _SpiralAbyssFloorConfig = {
                         "Vers": [
                             1
                         ],
+                        "NoArena": true,
                         "Monsters": [
                             {
                                 "ID": 21101,
@@ -49085,6 +49081,7 @@ var _SpiralAbyssFloorConfig = {
                         "Vers": [
                             1
                         ],
+                        "NoArena": true,
                         "Monsters": [
                             {
                                 "ID": 512,
@@ -49108,12 +49105,12 @@ var _SpiralAbyssFloorConfig = {
                                 "Num": 2,
                                 "Pos": [
                                     [
-                                        0,
-                                        -5
+                                        3,
+                                        -4
                                     ],
                                     [
-                                        0,
-                                        5
+                                        3,
+                                        4
                                     ]
                                 ]
                             }
@@ -49570,10 +49567,7 @@ var _SpiralAbyssFloorConfig = {
                     "1": 3180006,
                     "2": 3180006
                 },
-                "Center": [
-                    -10,
-                    0
-                ],
+                "Center": -10,
                 "Upper": [
                     {
                         "WaveDesc": 1,
@@ -49581,6 +49575,7 @@ var _SpiralAbyssFloorConfig = {
                             1,
                             2
                         ],
+                        "NoArena": true,
                         "Monsters": [
                             {
                                 "ID": 53101,
@@ -49602,6 +49597,7 @@ var _SpiralAbyssFloorConfig = {
                             1,
                             2
                         ],
+                        "NoArena": true,
                         "Monsters": [
                             {
                                 "ID": 54101,
@@ -49625,6 +49621,7 @@ var _SpiralAbyssFloorConfig = {
                             1,
                             2
                         ],
+                        "NoArena": true,
                         "Monsters": [
                             {
                                 "ID": 54104,
@@ -49657,10 +49654,6 @@ var _SpiralAbyssFloorConfig = {
                                     }
                                 },
                                 "Num": 2,
-                                "Center": [
-                                    -10,
-                                    0
-                                ],
                                 "Pos": [
                                     [
                                         0,
@@ -49781,10 +49774,7 @@ var _SpiralAbyssFloorConfig = {
                     "1": 3448724,
                     "2": 3448724
                 },
-                "Center": [
-                    -10,
-                    0
-                ],
+                "Center": -10,
                 "Upper": [
                     {
                         "WaveDesc": 1,
@@ -49792,6 +49782,7 @@ var _SpiralAbyssFloorConfig = {
                             1,
                             2
                         ],
+                        "NoArena": true,
                         "Monsters": [
                             {
                                 "ID": 607,
@@ -49809,6 +49800,7 @@ var _SpiralAbyssFloorConfig = {
                             1,
                             2
                         ],
+                        "NoArena": true,
                         "Monsters": [
                             {
                                 "ID": 601,
@@ -49826,6 +49818,7 @@ var _SpiralAbyssFloorConfig = {
                             1,
                             2
                         ],
+                        "NoArena": true,
                         "Monsters": [
                             {
                                 "ID": 607,
@@ -49843,6 +49836,7 @@ var _SpiralAbyssFloorConfig = {
                             1,
                             2
                         ],
+                        "NoArena": true,
                         "Monsters": [
                             {
                                 "ID": 605,
@@ -49860,6 +49854,7 @@ var _SpiralAbyssFloorConfig = {
                             1,
                             2
                         ],
+                        "NoArena": true,
                         "Monsters": [
                             {
                                 "ID": 61601,
@@ -49881,6 +49876,7 @@ var _SpiralAbyssFloorConfig = {
                             1,
                             2
                         ],
+                        "NoArena": true,
                         "Monsters": [
                             {
                                 "ID": 10202,
@@ -49971,6 +49967,7 @@ var _SpiralAbyssFloorConfig = {
                             1,
                             2
                         ],
+                        "NoArena": true,
                         "Monsters": [
                             {
                                 "ID": 40104,
@@ -50043,10 +50040,7 @@ var _SpiralAbyssFloorConfig = {
                     "1": 3849786,
                     "2": 3849786
                 },
-                "Center": [
-                    -10,
-                    0
-                ],
+                "Center": -10,
                 "Upper": [
                     {
                         "WaveDesc": 1,
@@ -50054,6 +50048,7 @@ var _SpiralAbyssFloorConfig = {
                             1,
                             2
                         ],
+                        "NoArena": true,
                         "Monsters": [
                             {
                                 "ID": 51001,
@@ -50071,6 +50066,7 @@ var _SpiralAbyssFloorConfig = {
                             1,
                             2
                         ],
+                        "NoArena": true,
                         "Monsters": [
                             {
                                 "ID": 10204,
