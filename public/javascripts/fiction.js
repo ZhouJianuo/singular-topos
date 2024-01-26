@@ -1235,13 +1235,14 @@ $(function () {
 
     function renderCsxylic(L) {
         $('.mon_body').empty()
-        L.forEach(function (t, i) {
-            $('.mon_body').render({
-                template: {
-                    img: imgpre + 'images/Csxylic/' + t + '.png',
-                    width: '100%'
+        $('.mon_body').render({
+            template: {
+                img: imgpre + 'SREnemyChart/' + L + '.png',
+                style: {
+                    'max-width': '100%',
+                    'max-height': '600px',
                 }
-            })
+            }
         })
     }
 

@@ -3,6 +3,7 @@
 var _monster = [
     {
         "_id": 1000042,
+        "FindID": 9001042,
         "Key": "",
         "Name": {
             "CH": "霆霓快雨 · 刻晴（拟造）",
@@ -78,10 +79,8 @@ var _monster = [
         "Camp": 7,
         "Icon": "MonsterIcon/keq.png",
         "Figure": "MonsterFigure/keq.png",
-        "Csxylic": [
-            "keq"
-        ],
-        "New": true
+        "New": true,
+        "Csxylic": "SCNonCategorized/9001042"
     },
     {
         "_id": 1002011,
@@ -127,7 +126,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1002011.png",
-        "Figure": "MonsterFigure/Monster_1002011.png"
+        "Figure": "MonsterFigure/Monster_1002011.png",
+        "Csxylic": "SCNonCategorized/1002011"
     },
     {
         "_id": 1002012,
@@ -173,7 +173,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1002011.png",
-        "Figure": "MonsterFigure/Monster_1002012.png"
+        "Figure": "MonsterFigure/Monster_1002012.png",
+        "Csxylic": "SCNonCategorized/1002012"
     },
     {
         "_id": 1002013,
@@ -525,7 +526,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1002017.png",
-        "Figure": "MonsterFigure/Monster_1002013.png"
+        "Figure": "MonsterFigure/Monster_1002013.png",
+        "Csxylic": "SCNonCategorized/1002017"
     },
     {
         "_id": 100201702,
@@ -577,7 +579,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1002017.png",
-        "Figure": "MonsterFigure/Monster_1002013.png"
+        "Figure": "MonsterFigure/Monster_1002013.png",
+        "Csxylic": "SCNonCategorized/1002017"
     },
     {
         "_id": 1002018,
@@ -629,7 +632,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1002017.png",
-        "Figure": "MonsterFigure/Monster_1002014.png"
+        "Figure": "MonsterFigure/Monster_1002014.png",
+        "Csxylic": "SCNonCategorized/1002018"
     },
     {
         "_id": 100201802,
@@ -681,7 +685,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_1002017.png",
-        "Figure": "MonsterFigure/Monster_1002014.png"
+        "Figure": "MonsterFigure/Monster_1002014.png",
+        "Csxylic": "SCNonCategorized/1002018"
     },
     {
         "_id": 1002020,
@@ -728,7 +733,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002020.png",
         "Status": [
             210020201
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002020"
     },
     {
         "_id": 100202001,
@@ -775,7 +781,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002020.png",
         "Status": [
             210020201
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002020"
     },
     {
         "_id": 100202002,
@@ -822,7 +829,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002020.png",
         "Status": [
             210020201
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002020"
     },
     {
         "_id": 100202003,
@@ -869,7 +877,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002020.png",
         "Status": [
             210020201
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002020"
     },
     {
         "_id": 100202004,
@@ -916,7 +925,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002020.png",
         "Status": [
             210020201
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002020"
     },
     {
         "_id": 100202005,
@@ -966,7 +976,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002020.png",
         "Status": [
             210020201
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002020"
     },
     {
         "_id": 100202006,
@@ -1013,7 +1024,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002020.png",
         "Status": [
             210020201
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002020"
     },
     {
         "_id": 100202007,
@@ -1060,7 +1072,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002020.png",
         "Status": [
             210020201
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002020"
     },
     {
         "_id": 100202008,
@@ -1107,7 +1120,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002020.png",
         "Status": [
             210020201
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002020"
     },
     {
         "_id": 100202009,
@@ -1154,7 +1168,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002020.png",
         "Status": [
             210020201
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002020"
     },
     {
         "_id": 100202010,
@@ -1204,7 +1219,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002020.png",
         "Status": [
             210020201
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002020"
     },
     {
         "_id": 100202011,
@@ -1251,7 +1267,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002020.png",
         "Status": [
             210020201
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002020"
     },
     {
         "_id": 100202012,
@@ -1298,7 +1315,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002020.png",
         "Status": [
             210020201
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002020"
     },
     {
         "_id": 100202013,
@@ -1345,7 +1363,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002020.png",
         "Status": [
             210020201
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002020"
     },
     {
         "_id": 100202014,
@@ -1395,7 +1414,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002020.png",
         "Status": [
             210020201
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002020"
     },
     {
         "_id": 100202015,
@@ -1442,7 +1462,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002020.png",
         "Status": [
             210020201
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002020"
     },
     {
         "_id": 100202016,
@@ -1489,7 +1510,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002020.png",
         "Status": [
             210020201
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002020"
     },
     {
         "_id": 100202101,
@@ -1590,7 +1612,8 @@ var _monster = [
         "Status": [
             210020301,
             210020302
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002030"
     },
     {
         "_id": 100203001,
@@ -1644,7 +1667,8 @@ var _monster = [
         "Status": [
             210020301,
             210020302
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002030"
     },
     {
         "_id": 100203002,
@@ -1698,7 +1722,8 @@ var _monster = [
         "Status": [
             210020301,
             210020302
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002030"
     },
     {
         "_id": 100203003,
@@ -1752,7 +1777,8 @@ var _monster = [
         "Status": [
             210020301,
             210020302
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002030"
     },
     {
         "_id": 100203004,
@@ -1809,7 +1835,8 @@ var _monster = [
         "Status": [
             210020301,
             210020302
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002030"
     },
     {
         "_id": 100203005,
@@ -1863,7 +1890,8 @@ var _monster = [
         "Status": [
             210020301,
             210020302
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002030"
     },
     {
         "_id": 100203006,
@@ -1917,7 +1945,8 @@ var _monster = [
         "Status": [
             210020301,
             210020302
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002030"
     },
     {
         "_id": 100203007,
@@ -1974,7 +2003,8 @@ var _monster = [
         "Status": [
             210020301,
             210020302
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002030"
     },
     {
         "_id": 100203008,
@@ -2028,7 +2058,8 @@ var _monster = [
         "Status": [
             210020301,
             210020302
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002030"
     },
     {
         "_id": 100203009,
@@ -2085,7 +2116,8 @@ var _monster = [
         "Status": [
             210020301,
             210020302
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002030"
     },
     {
         "_id": 100203010,
@@ -2142,7 +2174,8 @@ var _monster = [
         "Status": [
             210020301,
             210020302
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002030"
     },
     {
         "_id": 100203011,
@@ -2199,7 +2232,8 @@ var _monster = [
         "Status": [
             210020301,
             210020302
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002030"
     },
     {
         "_id": 100203012,
@@ -2253,7 +2287,8 @@ var _monster = [
         "Status": [
             210020301,
             210020302
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002030"
     },
     {
         "_id": 1002040,
@@ -2299,7 +2334,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002040"
     },
     {
         "_id": 100204001,
@@ -2348,7 +2384,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002040"
     },
     {
         "_id": 100204002,
@@ -2394,7 +2431,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002040"
     },
     {
         "_id": 100204003,
@@ -2440,7 +2478,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002040"
     },
     {
         "_id": 100204004,
@@ -2486,7 +2525,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002040"
     },
     {
         "_id": 100204005,
@@ -2532,7 +2572,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002040"
     },
     {
         "_id": 100204006,
@@ -2578,7 +2619,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002040"
     },
     {
         "_id": 100204007,
@@ -2624,7 +2666,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002040"
     },
     {
         "_id": 100204008,
@@ -2664,7 +2707,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002040"
     },
     {
         "_id": 100204009,
@@ -2707,7 +2751,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002040"
     },
     {
         "_id": 100204010,
@@ -2750,7 +2795,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002040"
     },
     {
         "_id": 100204011,
@@ -2790,7 +2836,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002040"
     },
     {
         "_id": 100204012,
@@ -2839,7 +2886,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002040"
     },
     {
         "_id": 100204013,
@@ -2885,7 +2933,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002040"
     },
     {
         "_id": 100204014,
@@ -2931,7 +2980,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002040"
     },
     {
         "_id": 100204015,
@@ -2980,7 +3030,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002040"
     },
     {
         "_id": 100204016,
@@ -3020,7 +3071,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002040"
     },
     {
         "_id": 100204017,
@@ -3060,7 +3112,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002040"
     },
     {
         "_id": 100204018,
@@ -3106,7 +3159,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002040"
     },
     {
         "_id": 100204019,
@@ -3155,7 +3209,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002040"
     },
     {
         "_id": 100204020,
@@ -3204,7 +3259,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002040"
     },
     {
         "_id": 100204021,
@@ -3244,7 +3300,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002040"
     },
     {
         "_id": 100204022,
@@ -3287,7 +3344,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002040"
     },
     {
         "_id": 100204023,
@@ -3333,7 +3391,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002040.png",
         "Status": [
             210010101
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002040"
     },
     {
         "_id": 1002041,
@@ -3471,7 +3530,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002050"
     },
     {
         "_id": 100205001,
@@ -3517,7 +3577,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002050"
     },
     {
         "_id": 100205002,
@@ -3563,7 +3624,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002050"
     },
     {
         "_id": 100205003,
@@ -3609,7 +3671,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002050"
     },
     {
         "_id": 100205004,
@@ -3655,7 +3718,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002050"
     },
     {
         "_id": 100205005,
@@ -3701,7 +3765,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002050"
     },
     {
         "_id": 100205006,
@@ -3747,7 +3812,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002050"
     },
     {
         "_id": 100205007,
@@ -3787,7 +3853,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002050"
     },
     {
         "_id": 100205008,
@@ -3827,7 +3894,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002050"
     },
     {
         "_id": 100205009,
@@ -3876,7 +3944,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002050"
     },
     {
         "_id": 100205010,
@@ -3922,7 +3991,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002050"
     },
     {
         "_id": 100205011,
@@ -3968,7 +4038,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002050"
     },
     {
         "_id": 100205012,
@@ -4017,7 +4088,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002050"
     },
     {
         "_id": 100205013,
@@ -4066,7 +4138,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002050"
     },
     {
         "_id": 100205014,
@@ -4112,7 +4185,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002050"
     },
     {
         "_id": 100205015,
@@ -4161,7 +4235,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002050"
     },
     {
         "_id": 100205016,
@@ -4210,7 +4285,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002050"
     },
     {
         "_id": 100205017,
@@ -4256,7 +4332,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002050"
     },
     {
         "_id": 100205018,
@@ -4302,7 +4379,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1002050.png",
         "Status": [
             30020005
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1002050"
     },
     {
         "_id": 1003010,
@@ -4351,7 +4429,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1003010.png",
         "Status": [
             210030102
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1003010"
     },
     {
         "_id": 100301001,
@@ -4400,7 +4479,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1003010.png",
         "Status": [
             210030102
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1003010"
     },
     {
         "_id": 100301002,
@@ -4449,7 +4529,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1003010.png",
         "Status": [
             210030102
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1003010"
     },
     {
         "_id": 100301003,
@@ -4498,7 +4579,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1003010.png",
         "Status": [
             210030102
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1003010"
     },
     {
         "_id": 100301004,
@@ -4550,7 +4632,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1003010.png",
         "Status": [
             210030102
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1003010"
     },
     {
         "_id": 100301005,
@@ -4603,7 +4686,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1003010.png",
         "Status": [
             210030102
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1003010"
     },
     {
         "_id": 100301006,
@@ -4655,7 +4739,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1003010.png",
         "Status": [
             210030102
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1003010"
     },
     {
         "_id": 100301007,
@@ -4704,7 +4789,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1003010.png",
         "Status": [
             210030102
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1003010"
     },
     {
         "_id": 100301008,
@@ -4753,7 +4839,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1003010.png",
         "Status": [
             210030102
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1003010"
     },
     {
         "_id": 100301009,
@@ -4806,7 +4893,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1003010.png",
         "Status": [
             210030102
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1003010"
     },
     {
         "_id": 100301010,
@@ -4858,7 +4946,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1003010.png",
         "Status": [
             210030102
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1003010"
     },
     {
         "_id": 100301011,
@@ -4910,7 +4999,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1003010.png",
         "Status": [
             210030102
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1003010"
     },
     {
         "_id": 100301012,
@@ -4962,7 +5052,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1003010.png",
         "Status": [
             210030102
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1003010"
     },
     {
         "_id": 100301013,
@@ -5014,7 +5105,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1003010.png",
         "Status": [
             210030102
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1003010"
     },
     {
         "_id": 100301014,
@@ -5067,7 +5159,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1003010.png",
         "Status": [
             210030102
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1003010"
     },
     {
         "_id": 100301015,
@@ -5119,7 +5212,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1003010.png",
         "Status": [
             210030102
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1003010"
     },
     {
         "_id": 100301016,
@@ -5168,7 +5262,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1003010.png",
         "Status": [
             210030102
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1003010"
     },
     {
         "_id": 100301017,
@@ -5217,7 +5312,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1003010.png",
         "Status": [
             210030102
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1003010"
     },
     {
         "_id": 100301018,
@@ -5269,7 +5365,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1003010.png",
         "Status": [
             210030102
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1003010"
     },
     {
         "_id": 1003011,
@@ -5486,7 +5583,8 @@ var _monster = [
         "Status": [
             30020012,
             210040114
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1004010"
     },
     {
         "_id": 100401001,
@@ -5550,7 +5648,8 @@ var _monster = [
         "Status": [
             30020012,
             210040114
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1004010"
     },
     {
         "_id": 100401002,
@@ -5614,7 +5713,8 @@ var _monster = [
         "Status": [
             30020012,
             210040114
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1004010"
     },
     {
         "_id": 100401003,
@@ -5675,7 +5775,8 @@ var _monster = [
         "Status": [
             30020012,
             210040114
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1004010"
     },
     {
         "_id": 100401004,
@@ -5739,7 +5840,8 @@ var _monster = [
         "Status": [
             30020012,
             210040114
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1004010"
     },
     {
         "_id": 1004011,
@@ -6026,7 +6128,8 @@ var _monster = [
         "Status": [
             210030201,
             210030204
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1004020"
     },
     {
         "_id": 100402001,
@@ -6083,7 +6186,8 @@ var _monster = [
         "Status": [
             210030201,
             210030204
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1004020"
     },
     {
         "_id": 100402002,
@@ -6140,7 +6244,8 @@ var _monster = [
         "Status": [
             210030201,
             210030204
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1004020"
     },
     {
         "_id": 100402003,
@@ -6204,7 +6309,8 @@ var _monster = [
         "Status": [
             210030201,
             210030204
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1004020"
     },
     {
         "_id": 100402004,
@@ -6258,7 +6364,8 @@ var _monster = [
         "Status": [
             210030201,
             210030204
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1004020"
     },
     {
         "_id": 100402005,
@@ -6315,7 +6422,8 @@ var _monster = [
         "Status": [
             210030201,
             210030204
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1004020"
     },
     {
         "_id": 1004021,
@@ -6744,7 +6852,8 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1004030.png",
-        "Figure": "MonsterFigure/Monster_1004030.png"
+        "Figure": "MonsterFigure/Monster_1004030.png",
+        "Csxylic": "SCJarilo-VI/1004030"
     },
     {
         "_id": 100403001,
@@ -6796,7 +6905,8 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1004030.png",
-        "Figure": "MonsterFigure/Monster_1004030.png"
+        "Figure": "MonsterFigure/Monster_1004030.png",
+        "Csxylic": "SCJarilo-VI/1004030"
     },
     {
         "_id": 100403002,
@@ -6848,7 +6958,8 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1004030.png",
-        "Figure": "MonsterFigure/Monster_1004030.png"
+        "Figure": "MonsterFigure/Monster_1004030.png",
+        "Csxylic": "SCJarilo-VI/1004030"
     },
     {
         "_id": 1004031,
@@ -7102,7 +7213,8 @@ var _monster = [
             30020013,
             210050101,
             210050105
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1005010"
     },
     {
         "_id": 1005011,
@@ -7347,7 +7459,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png"
+        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Csxylic": "SCJarilo-VI/1012010"
     },
     {
         "_id": 101201001,
@@ -7391,7 +7504,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png"
+        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Csxylic": "SCJarilo-VI/1012010"
     },
     {
         "_id": 101201002,
@@ -7435,7 +7549,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png"
+        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Csxylic": "SCJarilo-VI/1012010"
     },
     {
         "_id": 101201003,
@@ -7479,7 +7594,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png"
+        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Csxylic": "SCJarilo-VI/1012010"
     },
     {
         "_id": 101201004,
@@ -7523,7 +7639,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png"
+        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Csxylic": "SCJarilo-VI/1012010"
     },
     {
         "_id": 101201005,
@@ -7567,7 +7684,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png"
+        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Csxylic": "SCJarilo-VI/1012010"
     },
     {
         "_id": 101201006,
@@ -7611,7 +7729,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png"
+        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Csxylic": "SCJarilo-VI/1012010"
     },
     {
         "_id": 101201007,
@@ -7655,7 +7774,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png"
+        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Csxylic": "SCJarilo-VI/1012010"
     },
     {
         "_id": 101201008,
@@ -7699,7 +7819,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png"
+        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Csxylic": "SCJarilo-VI/1012010"
     },
     {
         "_id": 101201009,
@@ -7743,7 +7864,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png"
+        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Csxylic": "SCJarilo-VI/1012010"
     },
     {
         "_id": 101201010,
@@ -7790,7 +7912,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png"
+        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Csxylic": "SCJarilo-VI/1012010"
     },
     {
         "_id": 101201011,
@@ -7834,7 +7957,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png"
+        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Csxylic": "SCJarilo-VI/1012010"
     },
     {
         "_id": 101201012,
@@ -7881,7 +8005,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png"
+        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Csxylic": "SCJarilo-VI/1012010"
     },
     {
         "_id": 101201013,
@@ -7928,7 +8053,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png"
+        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Csxylic": "SCJarilo-VI/1012010"
     },
     {
         "_id": 101201014,
@@ -7975,7 +8101,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png"
+        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Csxylic": "SCJarilo-VI/1012010"
     },
     {
         "_id": 101201015,
@@ -8019,7 +8146,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png"
+        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Csxylic": "SCJarilo-VI/1012010"
     },
     {
         "_id": 101201016,
@@ -8063,7 +8191,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png"
+        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Csxylic": "SCJarilo-VI/1012010"
     },
     {
         "_id": 1012011,
@@ -8164,7 +8293,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012020.png",
-        "Figure": "MonsterFigure/Monster_1012020.png"
+        "Figure": "MonsterFigure/Monster_1012020.png",
+        "Csxylic": "SCJarilo-VI/1012020"
     },
     {
         "_id": 101202001,
@@ -8219,7 +8349,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012020.png",
-        "Figure": "MonsterFigure/Monster_1012020.png"
+        "Figure": "MonsterFigure/Monster_1012020.png",
+        "Csxylic": "SCJarilo-VI/1012020"
     },
     {
         "_id": 101202002,
@@ -8274,7 +8405,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012020.png",
-        "Figure": "MonsterFigure/Monster_1012020.png"
+        "Figure": "MonsterFigure/Monster_1012020.png",
+        "Csxylic": "SCJarilo-VI/1012020"
     },
     {
         "_id": 101202003,
@@ -8326,7 +8458,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012020.png",
-        "Figure": "MonsterFigure/Monster_1012020.png"
+        "Figure": "MonsterFigure/Monster_1012020.png",
+        "Csxylic": "SCJarilo-VI/1012020"
     },
     {
         "_id": 1012021,
@@ -8989,7 +9122,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012030.png",
-        "Figure": "MonsterFigure/Monster_1012030.png"
+        "Figure": "MonsterFigure/Monster_1012030.png",
+        "Csxylic": "SCJarilo-VI/1012030"
     },
     {
         "_id": 101203001,
@@ -9039,7 +9173,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012030.png",
-        "Figure": "MonsterFigure/Monster_1012030.png"
+        "Figure": "MonsterFigure/Monster_1012030.png",
+        "Csxylic": "SCJarilo-VI/1012030"
     },
     {
         "_id": 101203002,
@@ -9089,7 +9224,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012030.png",
-        "Figure": "MonsterFigure/Monster_1012030.png"
+        "Figure": "MonsterFigure/Monster_1012030.png",
+        "Csxylic": "SCJarilo-VI/1012030"
     },
     {
         "_id": 101203003,
@@ -9135,7 +9271,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012030.png",
-        "Figure": "MonsterFigure/Monster_1012030.png"
+        "Figure": "MonsterFigure/Monster_1012030.png",
+        "Csxylic": "SCJarilo-VI/1012030"
     },
     {
         "_id": 101203004,
@@ -9178,7 +9315,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012030.png",
-        "Figure": "MonsterFigure/Monster_1012030.png"
+        "Figure": "MonsterFigure/Monster_1012030.png",
+        "Csxylic": "SCJarilo-VI/1012030"
     },
     {
         "_id": 101203005,
@@ -9221,7 +9359,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012030.png",
-        "Figure": "MonsterFigure/Monster_1012030.png"
+        "Figure": "MonsterFigure/Monster_1012030.png",
+        "Csxylic": "SCJarilo-VI/1012030"
     },
     {
         "_id": 101203006,
@@ -9264,7 +9403,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012030.png",
-        "Figure": "MonsterFigure/Monster_1012030.png"
+        "Figure": "MonsterFigure/Monster_1012030.png",
+        "Csxylic": "SCJarilo-VI/1012030"
     },
     {
         "_id": 101203007,
@@ -9307,7 +9447,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012030.png",
-        "Figure": "MonsterFigure/Monster_1012030.png"
+        "Figure": "MonsterFigure/Monster_1012030.png",
+        "Csxylic": "SCJarilo-VI/1012030"
     },
     {
         "_id": 101203008,
@@ -9350,7 +9491,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012030.png",
-        "Figure": "MonsterFigure/Monster_1012030.png"
+        "Figure": "MonsterFigure/Monster_1012030.png",
+        "Csxylic": "SCJarilo-VI/1012030"
     },
     {
         "_id": 101203009,
@@ -9393,7 +9535,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012030.png",
-        "Figure": "MonsterFigure/Monster_1012030.png"
+        "Figure": "MonsterFigure/Monster_1012030.png",
+        "Csxylic": "SCJarilo-VI/1012030"
     },
     {
         "_id": 101203010,
@@ -9436,7 +9579,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012030.png",
-        "Figure": "MonsterFigure/Monster_1012030.png"
+        "Figure": "MonsterFigure/Monster_1012030.png",
+        "Csxylic": "SCJarilo-VI/1012030"
     },
     {
         "_id": 101203011,
@@ -9479,7 +9623,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012030.png",
-        "Figure": "MonsterFigure/Monster_1012030.png"
+        "Figure": "MonsterFigure/Monster_1012030.png",
+        "Csxylic": "SCJarilo-VI/1012030"
     },
     {
         "_id": 101203012,
@@ -9522,7 +9667,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012030.png",
-        "Figure": "MonsterFigure/Monster_1012030.png"
+        "Figure": "MonsterFigure/Monster_1012030.png",
+        "Csxylic": "SCJarilo-VI/1012030"
     },
     {
         "_id": 101203013,
@@ -9565,7 +9711,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012030.png",
-        "Figure": "MonsterFigure/Monster_1012030.png"
+        "Figure": "MonsterFigure/Monster_1012030.png",
+        "Csxylic": "SCJarilo-VI/1012030"
     },
     {
         "_id": 101203014,
@@ -9608,7 +9755,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012030.png",
-        "Figure": "MonsterFigure/Monster_1012030.png"
+        "Figure": "MonsterFigure/Monster_1012030.png",
+        "Csxylic": "SCJarilo-VI/1012030"
     },
     {
         "_id": 101203015,
@@ -9651,7 +9799,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 1,
         "Icon": "MonsterIcon/Monster_1012030.png",
-        "Figure": "MonsterFigure/Monster_1012030.png"
+        "Figure": "MonsterFigure/Monster_1012030.png",
+        "Csxylic": "SCJarilo-VI/1012030"
     },
     {
         "_id": 1012040,
@@ -9713,7 +9862,8 @@ var _monster = [
             210040204,
             210120401,
             210120402
-        ]
+        ],
+        "Csxylic": "SCNonCategorized/1012040"
     },
     {
         "_id": 1012041,
@@ -9897,7 +10047,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1013010.png",
         "Status": [
             30020010
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013010"
     },
     {
         "_id": 101301001,
@@ -9963,7 +10114,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1013010.png",
         "Status": [
             30020010
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013010"
     },
     {
         "_id": 101301002,
@@ -10022,7 +10174,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1013010.png",
         "Status": [
             30020010
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013010"
     },
     {
         "_id": 101301003,
@@ -10078,7 +10231,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1013010.png",
         "Status": [
             30020010
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013010"
     },
     {
         "_id": 101301004,
@@ -10144,7 +10298,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1013010.png",
         "Status": [
             30020010
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013010"
     },
     {
         "_id": 101301005,
@@ -10200,7 +10355,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1013010.png",
         "Status": [
             30020010
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013010"
     },
     {
         "_id": 101301006,
@@ -10256,7 +10412,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1013010.png",
         "Status": [
             30020010
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013010"
     },
     {
         "_id": 101301007,
@@ -10312,7 +10469,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1013010.png",
         "Status": [
             30020010
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013010"
     },
     {
         "_id": 101301008,
@@ -10368,7 +10526,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1013010.png",
         "Status": [
             30020010
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013010"
     },
     {
         "_id": 101301009,
@@ -10427,7 +10586,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1013010.png",
         "Status": [
             30020010
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013010"
     },
     {
         "_id": 101301010,
@@ -10486,7 +10646,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1013010.png",
         "Status": [
             30020010
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013010"
     },
     {
         "_id": 101301011,
@@ -10542,7 +10703,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1013010.png",
         "Status": [
             30020010
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013010"
     },
     {
         "_id": 101301012,
@@ -10598,7 +10760,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1013010.png",
         "Status": [
             30020010
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013010"
     },
     {
         "_id": 101301013,
@@ -10657,7 +10820,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1013010.png",
         "Status": [
             30020010
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013010"
     },
     {
         "_id": 101301014,
@@ -10713,7 +10877,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1013010.png",
         "Status": [
             30020010
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013010"
     },
     {
         "_id": 101301015,
@@ -10772,7 +10937,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1013010.png",
         "Status": [
             30020010
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013010"
     },
     {
         "_id": 101301016,
@@ -10831,7 +10997,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1013010.png",
         "Status": [
             30020010
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013010"
     },
     {
         "_id": 101301017,
@@ -10890,7 +11057,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1013010.png",
         "Status": [
             30020010
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013010"
     },
     {
         "_id": 101301018,
@@ -10946,7 +11114,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1013010.png",
         "Status": [
             30020010
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013010"
     },
     {
         "_id": 101301019,
@@ -11005,7 +11174,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1013010.png",
         "Status": [
             30020010
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013010"
     },
     {
         "_id": 1013011,
@@ -11354,7 +11524,8 @@ var _monster = [
         "Status": [
             210130201,
             210130202
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013020"
     },
     {
         "_id": 101302001,
@@ -11407,7 +11578,8 @@ var _monster = [
         "Status": [
             210130201,
             210130202
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013020"
     },
     {
         "_id": 101302002,
@@ -11461,7 +11633,8 @@ var _monster = [
         "Status": [
             210130201,
             210130202
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013020"
     },
     {
         "_id": 101302003,
@@ -11515,7 +11688,8 @@ var _monster = [
         "Status": [
             210130201,
             210130202
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013020"
     },
     {
         "_id": 101302004,
@@ -11565,7 +11739,8 @@ var _monster = [
         "Status": [
             210130201,
             210130202
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013020"
     },
     {
         "_id": 101302005,
@@ -11615,7 +11790,8 @@ var _monster = [
         "Status": [
             210130201,
             210130202
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013020"
     },
     {
         "_id": 101302006,
@@ -11668,7 +11844,8 @@ var _monster = [
         "Status": [
             210130201,
             210130202
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013020"
     },
     {
         "_id": 101302007,
@@ -11722,7 +11899,8 @@ var _monster = [
         "Status": [
             210130201,
             210130202
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013020"
     },
     {
         "_id": 101302008,
@@ -11775,7 +11953,8 @@ var _monster = [
         "Status": [
             210130201,
             210130202
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013020"
     },
     {
         "_id": 101302009,
@@ -11835,7 +12014,8 @@ var _monster = [
         "Status": [
             210130201,
             210130202
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013020"
     },
     {
         "_id": 101302010,
@@ -11885,7 +12065,8 @@ var _monster = [
         "Status": [
             210130201,
             210130202
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013020"
     },
     {
         "_id": 101302011,
@@ -11935,7 +12116,8 @@ var _monster = [
         "Status": [
             210130201,
             210130202
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013020"
     },
     {
         "_id": 101302012,
@@ -11985,7 +12167,8 @@ var _monster = [
         "Status": [
             210130201,
             210130202
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013020"
     },
     {
         "_id": 101302013,
@@ -12035,7 +12218,8 @@ var _monster = [
         "Status": [
             210130201,
             210130202
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013020"
     },
     {
         "_id": 101302014,
@@ -12085,7 +12269,8 @@ var _monster = [
         "Status": [
             210130201,
             210130202
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013020"
     },
     {
         "_id": 101302015,
@@ -12139,7 +12324,8 @@ var _monster = [
         "Status": [
             210130201,
             210130202
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013020"
     },
     {
         "_id": 101302020,
@@ -12193,7 +12379,8 @@ var _monster = [
         "Status": [
             210130201,
             210130202
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013020"
     },
     {
         "_id": 101302021,
@@ -12246,7 +12433,8 @@ var _monster = [
         "Status": [
             210130201,
             210130202
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013020"
     },
     {
         "_id": 101302022,
@@ -12299,7 +12487,8 @@ var _monster = [
         "Status": [
             210130201,
             210130202
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013020"
     },
     {
         "_id": 101302023,
@@ -12349,7 +12538,8 @@ var _monster = [
         "Status": [
             210130201,
             210130202
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013020"
     },
     {
         "_id": 101302024,
@@ -12402,7 +12592,8 @@ var _monster = [
         "Status": [
             210130201,
             210130202
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1013020"
     },
     {
         "_id": 1013021,
@@ -12755,7 +12946,8 @@ var _monster = [
             30010006,
             210040204,
             210120401
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1014010"
     },
     {
         "_id": 101401001,
@@ -12821,7 +13013,8 @@ var _monster = [
             30010006,
             210040204,
             210120401
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1014010"
     },
     {
         "_id": 101401002,
@@ -12890,7 +13083,8 @@ var _monster = [
             30010006,
             210040204,
             210120401
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1014010"
     },
     {
         "_id": 101401003,
@@ -12956,7 +13150,8 @@ var _monster = [
             30010006,
             210040204,
             210120401
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1014010"
     },
     {
         "_id": 101401004,
@@ -13022,7 +13217,8 @@ var _monster = [
             30010006,
             210040204,
             210120401
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1014010"
     },
     {
         "_id": 101401005,
@@ -13091,7 +13287,8 @@ var _monster = [
             30010006,
             210040204,
             210120401
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1014010"
     },
     {
         "_id": 101401006,
@@ -13160,7 +13357,8 @@ var _monster = [
             30010006,
             210040204,
             210120401
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1014010"
     },
     {
         "_id": 101401007,
@@ -13226,7 +13424,8 @@ var _monster = [
             30010006,
             210040204,
             210120401
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1014010"
     },
     {
         "_id": 101401008,
@@ -13292,7 +13491,8 @@ var _monster = [
             30010006,
             210040204,
             210120401
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1014010"
     },
     {
         "_id": 101401009,
@@ -13358,7 +13558,8 @@ var _monster = [
             30010006,
             210040204,
             210120401
-        ]
+        ],
+        "Csxylic": "SCJarilo-VI/1014010"
     },
     {
         "_id": 1014011,
@@ -13581,7 +13782,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002400.png",
-        "Figure": "MonsterFigure/Monster_1022010.png"
+        "Figure": "MonsterFigure/Monster_1022010.png",
+        "Csxylic": "SCFragmentumMonsters/1022010"
     },
     {
         "_id": 102201001,
@@ -13627,7 +13829,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002400.png",
-        "Figure": "MonsterFigure/Monster_1022010.png"
+        "Figure": "MonsterFigure/Monster_1022010.png",
+        "Csxylic": "SCFragmentumMonsters/1022010"
     },
     {
         "_id": 102201002,
@@ -13673,7 +13876,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002400.png",
-        "Figure": "MonsterFigure/Monster_1022010.png"
+        "Figure": "MonsterFigure/Monster_1022010.png",
+        "Csxylic": "SCFragmentumMonsters/1022010"
     },
     {
         "_id": 102201003,
@@ -13722,7 +13926,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002400.png",
-        "Figure": "MonsterFigure/Monster_1022010.png"
+        "Figure": "MonsterFigure/Monster_1022010.png",
+        "Csxylic": "SCFragmentumMonsters/1022010"
     },
     {
         "_id": 102201004,
@@ -13768,7 +13973,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002400.png",
-        "Figure": "MonsterFigure/Monster_1022010.png"
+        "Figure": "MonsterFigure/Monster_1022010.png",
+        "Csxylic": "SCFragmentumMonsters/1022010"
     },
     {
         "_id": 102201005,
@@ -13814,7 +14020,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002400.png",
-        "Figure": "MonsterFigure/Monster_1022010.png"
+        "Figure": "MonsterFigure/Monster_1022010.png",
+        "Csxylic": "SCFragmentumMonsters/1022010"
     },
     {
         "_id": 102201006,
@@ -13863,7 +14070,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002400.png",
-        "Figure": "MonsterFigure/Monster_1022010.png"
+        "Figure": "MonsterFigure/Monster_1022010.png",
+        "Csxylic": "SCFragmentumMonsters/1022010"
     },
     {
         "_id": 102201007,
@@ -13909,7 +14117,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002400.png",
-        "Figure": "MonsterFigure/Monster_1022010.png"
+        "Figure": "MonsterFigure/Monster_1022010.png",
+        "Csxylic": "SCFragmentumMonsters/1022010"
     },
     {
         "_id": 102201008,
@@ -13955,7 +14164,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002400.png",
-        "Figure": "MonsterFigure/Monster_1022010.png"
+        "Figure": "MonsterFigure/Monster_1022010.png",
+        "Csxylic": "SCFragmentumMonsters/1022010"
     },
     {
         "_id": 102201009,
@@ -14001,7 +14211,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002400.png",
-        "Figure": "MonsterFigure/Monster_1022010.png"
+        "Figure": "MonsterFigure/Monster_1022010.png",
+        "Csxylic": "SCFragmentumMonsters/1022010"
     },
     {
         "_id": 102201010,
@@ -14047,7 +14258,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002400.png",
-        "Figure": "MonsterFigure/Monster_1022010.png"
+        "Figure": "MonsterFigure/Monster_1022010.png",
+        "Csxylic": "SCFragmentumMonsters/1022010"
     },
     {
         "_id": 102201011,
@@ -14093,7 +14305,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002400.png",
-        "Figure": "MonsterFigure/Monster_1022010.png"
+        "Figure": "MonsterFigure/Monster_1022010.png",
+        "Csxylic": "SCFragmentumMonsters/1022010"
     },
     {
         "_id": 102201012,
@@ -14139,7 +14352,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9002400.png",
-        "Figure": "MonsterFigure/Monster_1022010.png"
+        "Figure": "MonsterFigure/Monster_1022010.png",
+        "Csxylic": "SCFragmentumMonsters/1022010"
     },
     {
         "_id": 1022020,
@@ -14188,7 +14402,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1022020"
     },
     {
         "_id": 102202001,
@@ -14237,7 +14452,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1022020"
     },
     {
         "_id": 102202002,
@@ -14286,7 +14502,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1022020"
     },
     {
         "_id": 102202003,
@@ -14338,7 +14555,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1022020"
     },
     {
         "_id": 102202004,
@@ -14387,7 +14605,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1022020"
     },
     {
         "_id": 102202005,
@@ -14436,7 +14655,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1022020"
     },
     {
         "_id": 102202006,
@@ -14485,7 +14705,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1022020"
     },
     {
         "_id": 102202007,
@@ -14537,7 +14758,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1022020"
     },
     {
         "_id": 102202008,
@@ -14586,7 +14808,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1022020"
     },
     {
         "_id": 102202009,
@@ -14635,7 +14858,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1022020"
     },
     {
         "_id": 102202010,
@@ -14684,7 +14908,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1022020"
     },
     {
         "_id": 102202011,
@@ -14733,7 +14958,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1022020"
     },
     {
         "_id": 102202012,
@@ -14782,7 +15008,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1022020"
     },
     {
         "_id": 102202013,
@@ -14831,7 +15058,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1022020"
     },
     {
         "_id": 102202014,
@@ -14880,7 +15108,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1022020"
     },
     {
         "_id": 102202015,
@@ -14929,7 +15158,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1022020"
     },
     {
         "_id": 102202016,
@@ -14978,7 +15208,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1022020"
     },
     {
         "_id": 102202017,
@@ -15027,7 +15258,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1022020"
     },
     {
         "_id": 102202018,
@@ -15076,7 +15308,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1022020"
     },
     {
         "_id": 102202019,
@@ -15125,7 +15358,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1022020"
     },
     {
         "_id": 102202020,
@@ -15174,7 +15408,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1022020"
     },
     {
         "_id": 102202021,
@@ -15223,7 +15458,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1022020"
     },
     {
         "_id": 102202022,
@@ -15272,7 +15508,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1022020"
     },
     {
         "_id": 102202023,
@@ -15321,7 +15558,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1022020.png",
         "Status": [
             30020002
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1022020"
     },
     {
         "_id": 1023010,
@@ -15376,7 +15614,8 @@ var _monster = [
             30020002,
             210230101,
             210230102
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1023010"
     },
     {
         "_id": 102301001,
@@ -15435,7 +15674,8 @@ var _monster = [
             30020002,
             210230101,
             210230102
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1023010"
     },
     {
         "_id": 102301002,
@@ -15494,7 +15734,8 @@ var _monster = [
             30020002,
             210230101,
             210230102
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1023010"
     },
     {
         "_id": 102301003,
@@ -15549,7 +15790,8 @@ var _monster = [
             30020002,
             210230101,
             210230102
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1023010"
     },
     {
         "_id": 102301004,
@@ -15604,7 +15846,8 @@ var _monster = [
             30020002,
             210230101,
             210230102
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1023010"
     },
     {
         "_id": 102301005,
@@ -15663,7 +15906,8 @@ var _monster = [
             30020002,
             210230101,
             210230102
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1023010"
     },
     {
         "_id": 102301006,
@@ -15722,7 +15966,8 @@ var _monster = [
             30020002,
             210230101,
             210230102
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1023010"
     },
     {
         "_id": 102301007,
@@ -15781,7 +16026,8 @@ var _monster = [
             30020002,
             210230101,
             210230102
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1023010"
     },
     {
         "_id": 102301008,
@@ -15836,7 +16082,8 @@ var _monster = [
             30020002,
             210230101,
             210230102
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1023010"
     },
     {
         "_id": 102301009,
@@ -15891,7 +16138,8 @@ var _monster = [
             30020002,
             210230101,
             210230102
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1023010"
     },
     {
         "_id": 102301010,
@@ -15949,7 +16197,8 @@ var _monster = [
             30020002,
             210230101,
             210230102
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1023010"
     },
     {
         "_id": 102301011,
@@ -16004,7 +16253,8 @@ var _monster = [
             30020002,
             210230101,
             210230102
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1023010"
     },
     {
         "_id": 102301012,
@@ -16059,7 +16309,8 @@ var _monster = [
             30020002,
             210230101,
             210230102
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1023010"
     },
     {
         "_id": 102301013,
@@ -16117,7 +16368,8 @@ var _monster = [
             30020002,
             210230101,
             210230102
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1023010"
     },
     {
         "_id": 102301014,
@@ -16175,7 +16427,8 @@ var _monster = [
             30020002,
             210230101,
             210230102
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1023010"
     },
     {
         "_id": 1023011,
@@ -16295,7 +16548,8 @@ var _monster = [
             210230203,
             210230207,
             210230208
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1023020"
     },
     {
         "_id": 102302001,
@@ -16358,7 +16612,8 @@ var _monster = [
             210230203,
             210230207,
             210230208
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1023020"
     },
     {
         "_id": 102302002,
@@ -16421,7 +16676,8 @@ var _monster = [
             210230203,
             210230207,
             210230208
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1023020"
     },
     {
         "_id": 102302003,
@@ -16487,7 +16743,8 @@ var _monster = [
             210230203,
             210230207,
             210230208
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1023020"
     },
     {
         "_id": 102302004,
@@ -16554,7 +16811,8 @@ var _monster = [
             210230203,
             210230207,
             210230208
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/1023020"
     },
     {
         "_id": 1023021,
@@ -16672,7 +16930,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2002010.png",
         "Status": [
             30010041
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2002010"
     },
     {
         "_id": 200201001,
@@ -16726,7 +16985,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2002010.png",
         "Status": [
             30010041
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2002010"
     },
     {
         "_id": 200201002,
@@ -16783,7 +17043,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2002010.png",
         "Status": [
             30010041
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2002010"
     },
     {
         "_id": 200201003,
@@ -16837,7 +17098,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2002010.png",
         "Status": [
             30010041
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2002010"
     },
     {
         "_id": 200201004,
@@ -16894,7 +17156,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2002010.png",
         "Status": [
             30010041
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2002010"
     },
     {
         "_id": 200201005,
@@ -16948,7 +17211,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2002010.png",
         "Status": [
             30010041
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2002010"
     },
     {
         "_id": 200201006,
@@ -17005,7 +17269,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2002010.png",
         "Status": [
             30010041
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2002010"
     },
     {
         "_id": 2002020,
@@ -17050,7 +17315,8 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2002020.png"
+        "Icon": "MonsterIcon/Monster_2002020.png",
+        "Csxylic": "SCNonCategorized/2002020"
     },
     {
         "_id": 200202001,
@@ -17095,7 +17361,8 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2002020.png"
+        "Icon": "MonsterIcon/Monster_2002020.png",
+        "Csxylic": "SCNonCategorized/2002020"
     },
     {
         "_id": 200202002,
@@ -17140,7 +17407,8 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2002020.png"
+        "Icon": "MonsterIcon/Monster_2002020.png",
+        "Csxylic": "SCNonCategorized/2002020"
     },
     {
         "_id": 200202003,
@@ -17188,7 +17456,8 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2002020.png"
+        "Icon": "MonsterIcon/Monster_2002020.png",
+        "Csxylic": "SCNonCategorized/2002020"
     },
     {
         "_id": 2002021,
@@ -17418,7 +17687,8 @@ var _monster = [
         "Status": [
             220020301,
             220020302
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2002030"
     },
     {
         "_id": 200203001,
@@ -17465,7 +17735,8 @@ var _monster = [
         "Status": [
             220020301,
             220020302
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2002030"
     },
     {
         "_id": 200203002,
@@ -17512,7 +17783,8 @@ var _monster = [
         "Status": [
             220020301,
             220020302
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2002030"
     },
     {
         "_id": 200203003,
@@ -17559,7 +17831,8 @@ var _monster = [
         "Status": [
             220020301,
             220020302
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2002030"
     },
     {
         "_id": 200203004,
@@ -17606,7 +17879,8 @@ var _monster = [
         "Status": [
             220020301,
             220020302
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2002030"
     },
     {
         "_id": 2002031,
@@ -17798,7 +18072,8 @@ var _monster = [
         "Status": [
             30020004,
             30020028
-        ]
+        ],
+        "Csxylic": "SCStellaronHunters/2004010"
     },
     {
         "_id": 200401001,
@@ -17856,7 +18131,8 @@ var _monster = [
         "Status": [
             30020004,
             30020028
-        ]
+        ],
+        "Csxylic": "SCStellaronHunters/2004010"
     },
     {
         "_id": 200401002,
@@ -17911,7 +18187,8 @@ var _monster = [
         "Status": [
             30020004,
             30020028
-        ]
+        ],
+        "Csxylic": "SCStellaronHunters/2004010"
     },
     {
         "_id": 200401003,
@@ -17966,7 +18243,8 @@ var _monster = [
         "Status": [
             30020004,
             30020028
-        ]
+        ],
+        "Csxylic": "SCStellaronHunters/2004010"
     },
     {
         "_id": 200401004,
@@ -18021,7 +18299,8 @@ var _monster = [
         "Status": [
             30020004,
             30020028
-        ]
+        ],
+        "Csxylic": "SCStellaronHunters/2004010"
     },
     {
         "_id": 2004011,
@@ -18326,7 +18605,8 @@ var _monster = [
         "Status": [
             220040201,
             220040204
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2004020"
     },
     {
         "_id": 200402001,
@@ -18393,7 +18673,8 @@ var _monster = [
         "Status": [
             220040201,
             220040204
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2004020"
     },
     {
         "_id": 200402002,
@@ -18456,7 +18737,8 @@ var _monster = [
         "Status": [
             220040201,
             220040204
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2004020"
     },
     {
         "_id": 200402003,
@@ -18519,7 +18801,8 @@ var _monster = [
         "Status": [
             220040201,
             220040204
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2004020"
     },
     {
         "_id": 200402004,
@@ -18582,7 +18865,8 @@ var _monster = [
         "Status": [
             220040201,
             220040204
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2004020"
     },
     {
         "_id": 200402005,
@@ -18645,7 +18929,8 @@ var _monster = [
         "Status": [
             220040201,
             220040204
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2004020"
     },
     {
         "_id": 200402006,
@@ -18708,7 +18993,8 @@ var _monster = [
         "Status": [
             220040201,
             220040204
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2004020"
     },
     {
         "_id": 2004021,
@@ -18994,7 +19280,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2011010.png",
         "Status": [
             30010017
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2011010"
     },
     {
         "_id": 201101001,
@@ -19044,7 +19331,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2011010.png",
         "Status": [
             30010017
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2011010"
     },
     {
         "_id": 201101002,
@@ -19093,7 +19381,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2011010.png",
         "Status": [
             30010017
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2011010"
     },
     {
         "_id": 201101003,
@@ -19139,7 +19428,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2011010.png",
         "Status": [
             30010017
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2011010"
     },
     {
         "_id": 2011020,
@@ -19185,7 +19475,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2011020.png",
         "Status": [
             30010067
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2011020"
     },
     {
         "_id": 201102001,
@@ -19235,7 +19526,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2011020.png",
         "Status": [
             30010067
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2011020"
     },
     {
         "_id": 201102002,
@@ -19284,7 +19576,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2011020.png",
         "Status": [
             30010067
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2011020"
     },
     {
         "_id": 201102003,
@@ -19330,7 +19623,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2011020.png",
         "Status": [
             30010067
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2011020"
     },
     {
         "_id": 2012010,
@@ -19377,7 +19671,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2012010.png",
         "Status": [
             30010006
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2012010"
     },
     {
         "_id": 201201001,
@@ -19424,7 +19719,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2012010.png",
         "Status": [
             30010006
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2012010"
     },
     {
         "_id": 201201002,
@@ -19474,7 +19770,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2012010.png",
         "Status": [
             30010006
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2012010"
     },
     {
         "_id": 201201003,
@@ -19521,7 +19818,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2012010.png",
         "Status": [
             30010006
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2012010"
     },
     {
         "_id": 201201004,
@@ -19568,7 +19866,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2012010.png",
         "Status": [
             30010006
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2012010"
     },
     {
         "_id": 201201005,
@@ -19615,7 +19914,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2012010.png",
         "Status": [
             30010006
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2012010"
     },
     {
         "_id": 201201006,
@@ -19665,7 +19965,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2012010.png",
         "Status": [
             30010006
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2012010"
     },
     {
         "_id": 201201007,
@@ -19715,7 +20016,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2012010.png",
         "Status": [
             30010006
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2012010"
     },
     {
         "_id": 2013010,
@@ -19765,7 +20067,8 @@ var _monster = [
         "Status": [
             30010017,
             220130102
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2013010"
     },
     {
         "_id": 201301001,
@@ -19815,7 +20118,8 @@ var _monster = [
         "Status": [
             30010017,
             220130102
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2013010"
     },
     {
         "_id": 201301002,
@@ -19865,7 +20169,8 @@ var _monster = [
         "Status": [
             30010017,
             220130102
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2013010"
     },
     {
         "_id": 201301003,
@@ -19918,7 +20223,8 @@ var _monster = [
         "Status": [
             30010017,
             220130102
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2013010"
     },
     {
         "_id": 201301004,
@@ -19968,7 +20274,8 @@ var _monster = [
         "Status": [
             30010017,
             220130102
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2013010"
     },
     {
         "_id": 201301005,
@@ -20018,7 +20325,8 @@ var _monster = [
         "Status": [
             30010017,
             220130102
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2013010"
     },
     {
         "_id": 201301006,
@@ -20071,7 +20379,8 @@ var _monster = [
         "Status": [
             30010017,
             220130102
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2013010"
     },
     {
         "_id": 201301007,
@@ -20121,7 +20430,8 @@ var _monster = [
         "Status": [
             30010017,
             220130102
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2013010"
     },
     {
         "_id": 2013011,
@@ -20285,7 +20595,8 @@ var _monster = [
         "Status": [
             220020301,
             220020302
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2013020"
     },
     {
         "_id": 201302001,
@@ -20342,7 +20653,8 @@ var _monster = [
         "Status": [
             220020301,
             220020302
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2013020"
     },
     {
         "_id": 201302002,
@@ -20399,7 +20711,8 @@ var _monster = [
         "Status": [
             220020301,
             220020302
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2013020"
     },
     {
         "_id": 201302003,
@@ -20456,7 +20769,8 @@ var _monster = [
         "Status": [
             220020301,
             220020302
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2013020"
     },
     {
         "_id": 201302004,
@@ -20513,7 +20827,8 @@ var _monster = [
         "Status": [
             220020301,
             220020302
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2013020"
     },
     {
         "_id": 2013021,
@@ -20627,7 +20942,8 @@ var _monster = [
             30020003,
             220220101,
             220220102
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022010"
     },
     {
         "_id": 202201001,
@@ -20682,7 +20998,8 @@ var _monster = [
             30020003,
             220220101,
             220220102
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022010"
     },
     {
         "_id": 202201002,
@@ -20740,7 +21057,8 @@ var _monster = [
             30020003,
             220220101,
             220220102
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022010"
     },
     {
         "_id": 202201003,
@@ -20795,7 +21113,8 @@ var _monster = [
             30020003,
             220220101,
             220220102
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022010"
     },
     {
         "_id": 202201004,
@@ -20850,7 +21169,8 @@ var _monster = [
             30020003,
             220220101,
             220220102
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022010"
     },
     {
         "_id": 202201005,
@@ -20905,7 +21225,8 @@ var _monster = [
             30020003,
             220220101,
             220220102
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022010"
     },
     {
         "_id": 202201006,
@@ -20960,7 +21281,8 @@ var _monster = [
             30020003,
             220220101,
             220220102
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022010"
     },
     {
         "_id": 202201007,
@@ -21015,7 +21337,8 @@ var _monster = [
             30020003,
             220220101,
             220220102
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022010"
     },
     {
         "_id": 202201008,
@@ -21070,7 +21393,8 @@ var _monster = [
             30020003,
             220220101,
             220220102
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022010"
     },
     {
         "_id": 202201009,
@@ -21125,7 +21449,8 @@ var _monster = [
             30020003,
             220220101,
             220220102
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022010"
     },
     {
         "_id": 202201010,
@@ -21180,7 +21505,8 @@ var _monster = [
             30020003,
             220220101,
             220220102
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022010"
     },
     {
         "_id": 2022020,
@@ -21229,7 +21555,8 @@ var _monster = [
         "Status": [
             220220203,
             220220204
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022020"
     },
     {
         "_id": 202202001,
@@ -21278,7 +21605,8 @@ var _monster = [
         "Status": [
             220220203,
             220220204
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022020"
     },
     {
         "_id": 202202002,
@@ -21327,7 +21655,8 @@ var _monster = [
         "Status": [
             220220203,
             220220204
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022020"
     },
     {
         "_id": 202202003,
@@ -21380,7 +21709,8 @@ var _monster = [
         "Status": [
             220220203,
             220220204
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022020"
     },
     {
         "_id": 202202004,
@@ -21429,7 +21759,8 @@ var _monster = [
         "Status": [
             220220203,
             220220204
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022020"
     },
     {
         "_id": 202202005,
@@ -21478,7 +21809,8 @@ var _monster = [
         "Status": [
             220220203,
             220220204
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022020"
     },
     {
         "_id": 202202006,
@@ -21527,7 +21859,8 @@ var _monster = [
         "Status": [
             220220203,
             220220204
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022020"
     },
     {
         "_id": 202202007,
@@ -21576,7 +21909,8 @@ var _monster = [
         "Status": [
             220220203,
             220220204
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022020"
     },
     {
         "_id": 202202008,
@@ -21625,7 +21959,8 @@ var _monster = [
         "Status": [
             220220203,
             220220204
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022020"
     },
     {
         "_id": 202202009,
@@ -21674,7 +22009,8 @@ var _monster = [
         "Status": [
             220220203,
             220220204
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022020"
     },
     {
         "_id": 2022040,
@@ -21718,7 +22054,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022040.png",
-        "Figure": "MonsterFigure/Monster_2022040.png"
+        "Figure": "MonsterFigure/Monster_2022040.png",
+        "Csxylic": "SCTheXianzhouLuofu/2022040"
     },
     {
         "_id": 202204001,
@@ -21762,7 +22099,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022040.png",
-        "Figure": "MonsterFigure/Monster_2022040.png"
+        "Figure": "MonsterFigure/Monster_2022040.png",
+        "Csxylic": "SCTheXianzhouLuofu/2022040"
     },
     {
         "_id": 202204002,
@@ -21806,7 +22144,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022040.png",
-        "Figure": "MonsterFigure/Monster_2022040.png"
+        "Figure": "MonsterFigure/Monster_2022040.png",
+        "Csxylic": "SCTheXianzhouLuofu/2022040"
     },
     {
         "_id": 202204003,
@@ -21850,7 +22189,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022040.png",
-        "Figure": "MonsterFigure/Monster_2022040.png"
+        "Figure": "MonsterFigure/Monster_2022040.png",
+        "Csxylic": "SCTheXianzhouLuofu/2022040"
     },
     {
         "_id": 202204004,
@@ -21894,7 +22234,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022040.png",
-        "Figure": "MonsterFigure/Monster_2022040.png"
+        "Figure": "MonsterFigure/Monster_2022040.png",
+        "Csxylic": "SCTheXianzhouLuofu/2022040"
     },
     {
         "_id": 202204005,
@@ -21938,7 +22279,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022040.png",
-        "Figure": "MonsterFigure/Monster_2022040.png"
+        "Figure": "MonsterFigure/Monster_2022040.png",
+        "Csxylic": "SCTheXianzhouLuofu/2022040"
     },
     {
         "_id": 2022050,
@@ -21991,7 +22333,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2022050.png",
         "Status": [
             30020004
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022050"
     },
     {
         "_id": 202205001,
@@ -22044,7 +22387,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2022050.png",
         "Status": [
             30020004
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022050"
     },
     {
         "_id": 202205002,
@@ -22097,7 +22441,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2022050.png",
         "Status": [
             30020004
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022050"
     },
     {
         "_id": 202205003,
@@ -22150,7 +22495,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2022050.png",
         "Status": [
             30020004
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022050"
     },
     {
         "_id": 202205004,
@@ -22203,7 +22549,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2022050.png",
         "Status": [
             30020004
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022050"
     },
     {
         "_id": 2022051,
@@ -22248,7 +22595,8 @@ var _monster = [
         "Icon": "MonsterIcon/Monster_2022051.png",
         "Status": [
             30020004
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022051"
     },
     {
         "_id": 2022060,
@@ -22291,7 +22639,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022060.png",
-        "Figure": "MonsterFigure/Monster_2022060.png"
+        "Figure": "MonsterFigure/Monster_2022060.png",
+        "Csxylic": "SCTheXianzhouLuofu/2022060"
     },
     {
         "_id": 202206001,
@@ -22334,7 +22683,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022060.png",
-        "Figure": "MonsterFigure/Monster_2022060.png"
+        "Figure": "MonsterFigure/Monster_2022060.png",
+        "Csxylic": "SCTheXianzhouLuofu/2022060"
     },
     {
         "_id": 202206002,
@@ -22377,7 +22727,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022060.png",
-        "Figure": "MonsterFigure/Monster_2022060.png"
+        "Figure": "MonsterFigure/Monster_2022060.png",
+        "Csxylic": "SCTheXianzhouLuofu/2022060"
     },
     {
         "_id": 202206003,
@@ -22420,7 +22771,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2022060.png",
-        "Figure": "MonsterFigure/Monster_2022060.png"
+        "Figure": "MonsterFigure/Monster_2022060.png",
+        "Csxylic": "SCTheXianzhouLuofu/2022060"
     },
     {
         "_id": 2022070,
@@ -22466,7 +22818,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2022070.png",
         "Status": [
             30020029
-        ]
+        ],
+        "Csxylic": "SCNonCategorized/2022070"
     },
     {
         "_id": 2022071,
@@ -22609,7 +22962,8 @@ var _monster = [
         "Status": [
             220220801,
             220220802
-        ]
+        ],
+        "Csxylic": "SCNonCategorized/2022080"
     },
     {
         "_id": 2022081,
@@ -22755,7 +23109,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_2022090.png",
-        "Figure": "MonsterFigure/Monster_2022090.png"
+        "Figure": "MonsterFigure/Monster_2022090.png",
+        "Csxylic": "SCNonCategorized/2022090"
     },
     {
         "_id": 2022091,
@@ -22888,7 +23243,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2022100.png",
         "Status": [
             220221001
-        ]
+        ],
+        "Csxylic": "SCNonCategorized/2022100"
     },
     {
         "_id": 2022101,
@@ -23030,7 +23386,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2022110.png",
         "Status": [
             220221101
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022110"
     },
     {
         "_id": 202211001,
@@ -23078,7 +23435,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2022110.png",
         "Status": [
             220221101
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022110"
     },
     {
         "_id": 202211002,
@@ -23126,7 +23484,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2022110.png",
         "Status": [
             220221101
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022110"
     },
     {
         "_id": 202211003,
@@ -23174,7 +23533,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2022110.png",
         "Status": [
             220221101
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022110"
     },
     {
         "_id": 2023010,
@@ -23225,7 +23585,8 @@ var _monster = [
         "Status": [
             220220101,
             220230101
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023010"
     },
     {
         "_id": 202301001,
@@ -23279,7 +23640,8 @@ var _monster = [
         "Status": [
             220220101,
             220230101
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023010"
     },
     {
         "_id": 202301002,
@@ -23333,7 +23695,8 @@ var _monster = [
         "Status": [
             220220101,
             220230101
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023010"
     },
     {
         "_id": 202301003,
@@ -23384,7 +23747,8 @@ var _monster = [
         "Status": [
             220220101,
             220230101
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023010"
     },
     {
         "_id": 202301004,
@@ -23438,7 +23802,8 @@ var _monster = [
         "Status": [
             220220101,
             220230101
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023010"
     },
     {
         "_id": 202301005,
@@ -23492,7 +23857,8 @@ var _monster = [
         "Status": [
             220220101,
             220230101
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023010"
     },
     {
         "_id": 202301006,
@@ -23546,7 +23912,8 @@ var _monster = [
         "Status": [
             220220101,
             220230101
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023010"
     },
     {
         "_id": 202301007,
@@ -23597,7 +23964,8 @@ var _monster = [
         "Status": [
             220220101,
             220230101
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023010"
     },
     {
         "_id": 202301008,
@@ -23648,7 +24016,8 @@ var _monster = [
         "Status": [
             220220101,
             220230101
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023010"
     },
     {
         "_id": 202301009,
@@ -23699,7 +24068,8 @@ var _monster = [
         "Status": [
             220220101,
             220230101
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023010"
     },
     {
         "_id": 202301010,
@@ -23750,7 +24120,8 @@ var _monster = [
         "Status": [
             220220101,
             220230101
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023010"
     },
     {
         "_id": 202301011,
@@ -23801,7 +24172,8 @@ var _monster = [
         "Status": [
             220220101,
             220230101
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023010"
     },
     {
         "_id": 202301012,
@@ -23852,7 +24224,8 @@ var _monster = [
         "Status": [
             220220101,
             220230101
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023010"
     },
     {
         "_id": 2023011,
@@ -23967,7 +24340,8 @@ var _monster = [
             220230201,
             220230204,
             220230205
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023020"
     },
     {
         "_id": 202302001,
@@ -24028,7 +24402,8 @@ var _monster = [
             220230201,
             220230204,
             220230205
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023020"
     },
     {
         "_id": 202302002,
@@ -24086,7 +24461,8 @@ var _monster = [
             220230201,
             220230204,
             220230205
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023020"
     },
     {
         "_id": 202302003,
@@ -24144,7 +24520,8 @@ var _monster = [
             220230201,
             220230204,
             220230205
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023020"
     },
     {
         "_id": 202302004,
@@ -24202,7 +24579,8 @@ var _monster = [
             220230201,
             220230204,
             220230205
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023020"
     },
     {
         "_id": 202302005,
@@ -24260,7 +24638,8 @@ var _monster = [
             220230201,
             220230204,
             220230205
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023020"
     },
     {
         "_id": 202302006,
@@ -24318,7 +24697,8 @@ var _monster = [
             220230201,
             220230204,
             220230205
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023020"
     },
     {
         "_id": 2023021,
@@ -24426,7 +24806,8 @@ var _monster = [
             30020003,
             30020030,
             280030603
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023030"
     },
     {
         "_id": 202303001,
@@ -24478,7 +24859,8 @@ var _monster = [
             30020003,
             30020030,
             280030603
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023030"
     },
     {
         "_id": 202303002,
@@ -24533,7 +24915,8 @@ var _monster = [
             30020003,
             30020030,
             280030603
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023030"
     },
     {
         "_id": 202303003,
@@ -24585,7 +24968,8 @@ var _monster = [
             30020003,
             30020030,
             280030603
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023030"
     },
     {
         "_id": 202303004,
@@ -24637,7 +25021,8 @@ var _monster = [
             30020003,
             30020030,
             280030603
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023030"
     },
     {
         "_id": 202303005,
@@ -24689,7 +25074,8 @@ var _monster = [
             30020003,
             30020030,
             280030603
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023030"
     },
     {
         "_id": 202303006,
@@ -24741,7 +25127,8 @@ var _monster = [
             30020003,
             30020030,
             280030603
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023030"
     },
     {
         "_id": 202303007,
@@ -24793,7 +25180,8 @@ var _monster = [
             30020003,
             30020030,
             280030603
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023030"
     },
     {
         "_id": 2023031,
@@ -24918,7 +25306,8 @@ var _monster = [
         "Status": [
             220221001,
             220240101
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2024010"
     },
     {
         "_id": 202401001,
@@ -24992,7 +25381,8 @@ var _monster = [
         "Status": [
             220221001,
             220240101
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2024010"
     },
     {
         "_id": 202401002,
@@ -25066,7 +25456,8 @@ var _monster = [
         "Status": [
             220221001,
             220240101
-        ]
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2024010"
     },
     {
         "_id": 2024011,
@@ -25419,7 +25810,8 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2024020.png",
-        "Figure": "MonsterFigure/Monster_2024020.png"
+        "Figure": "MonsterFigure/Monster_2024020.png",
+        "Csxylic": "SCTheXianzhouLuofu/2024020"
     },
     {
         "_id": 202402001,
@@ -25461,7 +25853,8 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2024020.png",
-        "Figure": "MonsterFigure/Monster_2024020.png"
+        "Figure": "MonsterFigure/Monster_2024020.png",
+        "Csxylic": "SCTheXianzhouLuofu/2024020"
     },
     {
         "_id": 202402002,
@@ -25500,7 +25893,8 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2024020.png",
-        "Figure": "MonsterFigure/Monster_2024020.png"
+        "Figure": "MonsterFigure/Monster_2024020.png",
+        "Csxylic": "SCTheXianzhouLuofu/2024020"
     },
     {
         "_id": 202402003,
@@ -25539,7 +25933,8 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2024020.png",
-        "Figure": "MonsterFigure/Monster_2024020.png"
+        "Figure": "MonsterFigure/Monster_2024020.png",
+        "Csxylic": "SCTheXianzhouLuofu/2024020"
     },
     {
         "_id": 202402004,
@@ -25578,7 +25973,8 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 2,
         "Icon": "MonsterIcon/Monster_2024020.png",
-        "Figure": "MonsterFigure/Monster_2024020.png"
+        "Figure": "MonsterFigure/Monster_2024020.png",
+        "Csxylic": "SCTheXianzhouLuofu/2024020"
     },
     {
         "_id": 3001010,
@@ -26766,7 +27162,8 @@ var _monster = [
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_3012030.png",
         "Figure": "MonsterFigure/Monster_3012030.png",
-        "New": true
+        "New": true,
+        "Csxylic": "SCNonCategorized/3012030"
     },
     {
         "_id": 3012031,
@@ -27250,7 +27647,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_3021020.png",
         "Status": [
             230240102
-        ]
+        ],
+        "Csxylic": "SCNonCategorized/3021020"
     },
     {
         "_id": 3021021,
@@ -27338,7 +27736,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_3021030.png",
-        "Figure": "MonsterFigure/Monster_3021030.png"
+        "Figure": "MonsterFigure/Monster_3021030.png",
+        "Csxylic": "SCNonCategorized/3021030"
     },
     {
         "_id": 3021031,
@@ -27429,7 +27828,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_3021040.png",
         "Status": [
             220230203
-        ]
+        ],
+        "Csxylic": "SCNonCategorized/3021040"
     },
     {
         "_id": 3021041,
@@ -27543,7 +27943,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_3024010.png",
         "Status": [
             230240101
-        ]
+        ],
+        "Csxylic": "SCCosmos/3024010"
     },
     {
         "_id": 302401001,
@@ -27613,7 +28014,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_3024010.png",
         "Status": [
             230240101
-        ]
+        ],
+        "Csxylic": "SCCosmos/3024010"
     },
     {
         "_id": 302401002,
@@ -27683,7 +28085,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_3024010.png",
         "Status": [
             230240101
-        ]
+        ],
+        "Csxylic": "SCCosmos/3024010"
     },
     {
         "_id": 302401003,
@@ -27753,7 +28156,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_3024010.png",
         "Status": [
             230240101
-        ]
+        ],
+        "Csxylic": "SCCosmos/3024010"
     },
     {
         "_id": 3024011,
@@ -29682,7 +30086,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png"
+        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
         "_id": 800101001,
@@ -29728,7 +30133,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png"
+        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
         "_id": 800101002,
@@ -29777,7 +30183,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png"
+        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
         "_id": 800101003,
@@ -29823,7 +30230,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png"
+        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
         "_id": 800101004,
@@ -29872,7 +30280,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png"
+        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
         "_id": 800101005,
@@ -29921,7 +30330,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png"
+        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
         "_id": 800101006,
@@ -29970,7 +30380,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png"
+        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
         "_id": 800101007,
@@ -30019,7 +30430,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png"
+        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
         "_id": 800101008,
@@ -30065,7 +30477,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png"
+        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
         "_id": 800101009,
@@ -30111,7 +30524,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png"
+        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
         "_id": 800101010,
@@ -30157,7 +30571,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png"
+        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
         "_id": 800101011,
@@ -30203,7 +30618,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png"
+        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
         "_id": 800101012,
@@ -30249,7 +30665,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png"
+        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
         "_id": 800101013,
@@ -30295,7 +30712,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png"
+        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
         "_id": 800101014,
@@ -30344,7 +30762,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png"
+        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
         "_id": 800101015,
@@ -30390,7 +30809,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png"
+        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
         "_id": 800101016,
@@ -30436,7 +30856,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png"
+        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
         "_id": 8001020,
@@ -30482,7 +30903,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png"
+        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
         "_id": 800102001,
@@ -30528,7 +30950,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png"
+        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
         "_id": 800102002,
@@ -30577,7 +31000,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png"
+        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
         "_id": 800102003,
@@ -30626,7 +31050,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png"
+        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
         "_id": 800102004,
@@ -30672,7 +31097,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png"
+        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
         "_id": 800102005,
@@ -30721,7 +31147,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png"
+        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
         "_id": 800102006,
@@ -30770,7 +31197,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png"
+        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
         "_id": 800102007,
@@ -30816,7 +31244,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png"
+        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
         "_id": 800102008,
@@ -30865,7 +31294,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png"
+        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
         "_id": 800102009,
@@ -30914,7 +31344,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png"
+        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
         "_id": 800102010,
@@ -30960,7 +31391,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png"
+        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
         "_id": 800102011,
@@ -31006,7 +31438,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png"
+        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
         "_id": 800102012,
@@ -31055,7 +31488,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png"
+        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
         "_id": 800102013,
@@ -31101,7 +31535,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png"
+        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
         "_id": 800102014,
@@ -31147,7 +31582,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png"
+        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
         "_id": 800102015,
@@ -31193,7 +31629,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png"
+        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
         "_id": 800102016,
@@ -31239,7 +31676,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 3,
         "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png"
+        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
         "_id": 8001030,
@@ -31287,7 +31725,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8001030.png",
         "Status": [
             280010301
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8001030"
     },
     {
         "_id": 800103001,
@@ -31338,7 +31777,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8001030.png",
         "Status": [
             280010301
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8001030"
     },
     {
         "_id": 800103002,
@@ -31389,7 +31829,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8001030.png",
         "Status": [
             280010301
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8001030"
     },
     {
         "_id": 800103003,
@@ -31437,7 +31878,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8001030.png",
         "Status": [
             280010301
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8001030"
     },
     {
         "_id": 800103004,
@@ -31485,7 +31927,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8001030.png",
         "Status": [
             280010301
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8001030"
     },
     {
         "_id": 8001040,
@@ -31534,7 +31977,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8001040.png",
         "Status": [
             30020004
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8001040"
     },
     {
         "_id": 800104001,
@@ -31586,7 +32030,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8001040.png",
         "Status": [
             30020004
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8001040"
     },
     {
         "_id": 800104002,
@@ -31638,7 +32083,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8001040.png",
         "Status": [
             30020004
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8001040"
     },
     {
         "_id": 800104003,
@@ -31687,7 +32133,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8001040.png",
         "Status": [
             30020004
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8001040"
     },
     {
         "_id": 8001050,
@@ -31736,7 +32183,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8001050.png",
         "Status": [
             30020003
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8001050"
     },
     {
         "_id": 800105001,
@@ -31788,7 +32236,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8001050.png",
         "Status": [
             30020003
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8001050"
     },
     {
         "_id": 800105002,
@@ -31840,7 +32289,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8001050.png",
         "Status": [
             30020003
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8001050"
     },
     {
         "_id": 800105003,
@@ -31889,7 +32339,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8001050.png",
         "Status": [
             30020003
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8001050"
     },
     {
         "_id": 800105004,
@@ -31938,7 +32389,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8001050.png",
         "Status": [
             30020003
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8001050"
     },
     {
         "_id": 8002010,
@@ -31992,7 +32444,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8002010.png",
         "Status": [
             280020102
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8002010"
     },
     {
         "_id": 800201001,
@@ -32046,7 +32499,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8002010.png",
         "Status": [
             280020102
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8002010"
     },
     {
         "_id": 800201002,
@@ -32100,7 +32554,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8002010.png",
         "Status": [
             280020102
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8002010"
     },
     {
         "_id": 800201003,
@@ -32156,7 +32611,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8002010.png",
         "Status": [
             280020102
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8002010"
     },
     {
         "_id": 800201004,
@@ -32212,7 +32668,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8002010.png",
         "Status": [
             280020102
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8002010"
     },
     {
         "_id": 800201005,
@@ -32269,7 +32726,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8002010.png",
         "Status": [
             280020102
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8002010"
     },
     {
         "_id": 800201006,
@@ -32323,7 +32781,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8002010.png",
         "Status": [
             280020102
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8002010"
     },
     {
         "_id": 800201007,
@@ -32377,7 +32836,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8002010.png",
         "Status": [
             280020102
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8002010"
     },
     {
         "_id": 800201008,
@@ -32431,7 +32891,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8002010.png",
         "Status": [
             280020102
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8002010"
     },
     {
         "_id": 800201009,
@@ -32488,7 +32949,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8002010.png",
         "Status": [
             280020102
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8002010"
     },
     {
         "_id": 800201012,
@@ -32545,7 +33007,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8002010.png",
         "Status": [
             280020102
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8002010"
     },
     {
         "_id": 8002040,
@@ -32590,7 +33053,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 7,
         "Icon": "MonsterIcon/Monster_8002040.png",
-        "Figure": "MonsterFigure/Monster_8002040.png"
+        "Figure": "MonsterFigure/Monster_8002040.png",
+        "Csxylic": "SCCosmos/8002040"
     },
     {
         "_id": 800204001,
@@ -32638,7 +33102,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 7,
         "Icon": "MonsterIcon/Monster_8002040.png",
-        "Figure": "MonsterFigure/Monster_8002040.png"
+        "Figure": "MonsterFigure/Monster_8002040.png",
+        "Csxylic": "SCCosmos/8002040"
     },
     {
         "_id": 800204002,
@@ -32686,7 +33151,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 7,
         "Icon": "MonsterIcon/Monster_8002040.png",
-        "Figure": "MonsterFigure/Monster_8002040.png"
+        "Figure": "MonsterFigure/Monster_8002040.png",
+        "Csxylic": "SCCosmos/8002040"
     },
     {
         "_id": 800204003,
@@ -32731,7 +33197,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 7,
         "Icon": "MonsterIcon/Monster_8002040.png",
-        "Figure": "MonsterFigure/Monster_8002040.png"
+        "Figure": "MonsterFigure/Monster_8002040.png",
+        "Csxylic": "SCCosmos/8002040"
     },
     {
         "_id": 800204004,
@@ -32776,7 +33243,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 7,
         "Icon": "MonsterIcon/Monster_8002040.png",
-        "Figure": "MonsterFigure/Monster_8002040.png"
+        "Figure": "MonsterFigure/Monster_8002040.png",
+        "Csxylic": "SCCosmos/8002040"
     },
     {
         "_id": 8002041,
@@ -32867,7 +33335,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Csxylic": "SCCosmos/8002050"
     },
     {
         "_id": 800205001,
@@ -32915,7 +33384,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Csxylic": "SCCosmos/8002050"
     },
     {
         "_id": 800205002,
@@ -32964,7 +33434,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Csxylic": "SCCosmos/8002050"
     },
     {
         "_id": 800205003,
@@ -33012,7 +33483,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Csxylic": "SCCosmos/8002050"
     },
     {
         "_id": 800205004,
@@ -33060,7 +33532,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Csxylic": "SCCosmos/8002050"
     },
     {
         "_id": 800205005,
@@ -33108,7 +33581,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Csxylic": "SCCosmos/8002050"
     },
     {
         "_id": 800205006,
@@ -33156,7 +33630,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Csxylic": "SCCosmos/8002050"
     },
     {
         "_id": 800205007,
@@ -33204,7 +33679,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Csxylic": "SCCosmos/8002050"
     },
     {
         "_id": 800205008,
@@ -33252,7 +33728,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Csxylic": "SCCosmos/8002050"
     },
     {
         "_id": 800205009,
@@ -33300,7 +33777,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Csxylic": "SCCosmos/8002050"
     },
     {
         "_id": 800205010,
@@ -33348,7 +33826,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Csxylic": "SCCosmos/8002050"
     },
     {
         "_id": 800205011,
@@ -33396,7 +33875,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Csxylic": "SCCosmos/8002050"
     },
     {
         "_id": 800205012,
@@ -33444,7 +33924,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Csxylic": "SCCosmos/8002050"
     },
     {
         "_id": 800205013,
@@ -33492,7 +33973,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Csxylic": "SCCosmos/8002050"
     },
     {
         "_id": 800205014,
@@ -33540,7 +34022,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Csxylic": "SCCosmos/8002050"
     },
     {
         "_id": 800205015,
@@ -33588,7 +34071,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Csxylic": "SCCosmos/8002050"
     },
     {
         "_id": 800205016,
@@ -33636,7 +34120,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Csxylic": "SCCosmos/8002050"
     },
     {
         "_id": 800205017,
@@ -33684,7 +34169,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Csxylic": "SCCosmos/8002050"
     },
     {
         "_id": 800205018,
@@ -33732,7 +34218,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Csxylic": "SCCosmos/8002050"
     },
     {
         "_id": 800205019,
@@ -33780,7 +34267,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Csxylic": "SCCosmos/8002050"
     },
     {
         "_id": 800205020,
@@ -33828,7 +34316,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Csxylic": "SCCosmos/8002050"
     },
     {
         "_id": 800205021,
@@ -33876,7 +34365,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Csxylic": "SCCosmos/8002050"
     },
     {
         "_id": 800205022,
@@ -33924,7 +34414,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Csxylic": "SCCosmos/8002050"
     },
     {
         "_id": 800205023,
@@ -33972,7 +34463,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Csxylic": "SCCosmos/8002050"
     },
     {
         "_id": 800205024,
@@ -34020,7 +34512,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Csxylic": "SCCosmos/8002050"
     },
     {
         "_id": 800205025,
@@ -34068,7 +34561,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Csxylic": "SCCosmos/8002050"
     },
     {
         "_id": 800205026,
@@ -34116,7 +34610,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Csxylic": "SCCosmos/8002050"
     },
     {
         "_id": 800205027,
@@ -34164,7 +34659,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Csxylic": "SCCosmos/8002050"
     },
     {
         "_id": 8002051,
@@ -34209,7 +34705,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Csxylic": "SCCosmos/8002051"
     },
     {
         "_id": 8002052,
@@ -34254,7 +34751,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Csxylic": "SCCosmos/8002052"
     },
     {
         "_id": 8002053,
@@ -34299,7 +34797,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 4,
         "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Csxylic": "SCCosmos/8002053"
     },
     {
         "_id": 8002054,
@@ -34618,7 +35117,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8002050.png",
         "Status": [
             280020601
-        ]
+        ],
+        "Csxylic": "SCCosmos/8002060"
     },
     {
         "_id": 8002061,
@@ -34713,7 +35213,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8002050.png",
         "Status": [
             280020701
-        ]
+        ],
+        "Csxylic": "SCCosmos/8002070"
     },
     {
         "_id": 8002071,
@@ -34808,7 +35309,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8002050.png",
         "Status": [
             280020801
-        ]
+        ],
+        "Csxylic": "SCCosmos/8002080"
     },
     {
         "_id": 8002081,
@@ -35241,7 +35743,8 @@ var _monster = [
         "Status": [
             30020012,
             280030101
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003010"
     },
     {
         "_id": 800301001,
@@ -35302,7 +35805,8 @@ var _monster = [
         "Status": [
             30020012,
             280030101
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003010"
     },
     {
         "_id": 800301002,
@@ -35362,7 +35866,8 @@ var _monster = [
         "Status": [
             30020012,
             280030101
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003010"
     },
     {
         "_id": 800301003,
@@ -35420,7 +35925,8 @@ var _monster = [
         "Status": [
             30020012,
             280030101
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003010"
     },
     {
         "_id": 800301004,
@@ -35478,7 +35984,8 @@ var _monster = [
         "Status": [
             30020012,
             280030101
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003010"
     },
     {
         "_id": 800301005,
@@ -35536,7 +36043,8 @@ var _monster = [
         "Status": [
             30020012,
             280030101
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003010"
     },
     {
         "_id": 800301006,
@@ -35597,7 +36105,8 @@ var _monster = [
         "Status": [
             30020012,
             280030101
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003010"
     },
     {
         "_id": 800301007,
@@ -35658,7 +36167,8 @@ var _monster = [
         "Status": [
             30020012,
             280030101
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003010"
     },
     {
         "_id": 800301008,
@@ -35720,7 +36230,8 @@ var _monster = [
         "Status": [
             30020012,
             280030101
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003010"
     },
     {
         "_id": 800301009,
@@ -35781,7 +36292,8 @@ var _monster = [
         "Status": [
             30020012,
             280030101
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003010"
     },
     {
         "_id": 800301010,
@@ -35842,7 +36354,8 @@ var _monster = [
         "Status": [
             30020012,
             280030101
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003010"
     },
     {
         "_id": 800301011,
@@ -35904,7 +36417,8 @@ var _monster = [
         "Status": [
             30020012,
             280030101
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003010"
     },
     {
         "_id": 800301012,
@@ -35966,7 +36480,8 @@ var _monster = [
         "Status": [
             30020012,
             280030101
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003010"
     },
     {
         "_id": 800301013,
@@ -36027,7 +36542,8 @@ var _monster = [
         "Status": [
             30020012,
             280030101
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003010"
     },
     {
         "_id": 8003011,
@@ -36140,7 +36656,8 @@ var _monster = [
         "Status": [
             280030202,
             280030203
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003020"
     },
     {
         "_id": 800302001,
@@ -36196,7 +36713,8 @@ var _monster = [
         "Status": [
             280030202,
             280030203
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003020"
     },
     {
         "_id": 800302002,
@@ -36252,7 +36770,8 @@ var _monster = [
         "Status": [
             280030202,
             280030203
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003020"
     },
     {
         "_id": 800302003,
@@ -36305,7 +36824,8 @@ var _monster = [
         "Status": [
             280030202,
             280030203
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003020"
     },
     {
         "_id": 800302004,
@@ -36358,7 +36878,8 @@ var _monster = [
         "Status": [
             280030202,
             280030203
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003020"
     },
     {
         "_id": 800302005,
@@ -36411,7 +36932,8 @@ var _monster = [
         "Status": [
             280030202,
             280030203
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003020"
     },
     {
         "_id": 800302006,
@@ -36464,7 +36986,8 @@ var _monster = [
         "Status": [
             280030202,
             280030203
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003020"
     },
     {
         "_id": 800302007,
@@ -36520,7 +37043,8 @@ var _monster = [
         "Status": [
             280030202,
             280030203
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003020"
     },
     {
         "_id": 800302008,
@@ -36573,7 +37097,8 @@ var _monster = [
         "Status": [
             280030202,
             280030203
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003020"
     },
     {
         "_id": 800302009,
@@ -36629,7 +37154,8 @@ var _monster = [
         "Status": [
             280030202,
             280030203
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003020"
     },
     {
         "_id": 800302010,
@@ -36685,7 +37211,8 @@ var _monster = [
         "Status": [
             280030202,
             280030203
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003020"
     },
     {
         "_id": 800302011,
@@ -36741,7 +37268,8 @@ var _monster = [
         "Status": [
             280030202,
             280030203
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003020"
     },
     {
         "_id": 800302012,
@@ -36797,7 +37325,8 @@ var _monster = [
         "Status": [
             280030202,
             280030203
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003020"
     },
     {
         "_id": 800302013,
@@ -36853,7 +37382,8 @@ var _monster = [
         "Status": [
             280030202,
             280030203
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003020"
     },
     {
         "_id": 800302014,
@@ -36906,7 +37436,8 @@ var _monster = [
         "Status": [
             280030202,
             280030203
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003020"
     },
     {
         "_id": 800302015,
@@ -36962,7 +37493,8 @@ var _monster = [
         "Status": [
             280030202,
             280030203
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003020"
     },
     {
         "_id": 800302016,
@@ -37019,7 +37551,8 @@ var _monster = [
         "Status": [
             280030202,
             280030203
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003020"
     },
     {
         "_id": 800302017,
@@ -37072,7 +37605,8 @@ var _monster = [
         "Status": [
             280030202,
             280030203
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003020"
     },
     {
         "_id": 800302019,
@@ -37128,7 +37662,8 @@ var _monster = [
         "Status": [
             280030202,
             280030203
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003020"
     },
     {
         "_id": 8003021,
@@ -37245,7 +37780,8 @@ var _monster = [
             280030302,
             280030303,
             280030306
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003030"
     },
     {
         "_id": 800303001,
@@ -37310,7 +37846,8 @@ var _monster = [
             280030302,
             280030303,
             280030306
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003030"
     },
     {
         "_id": 800303002,
@@ -37375,7 +37912,8 @@ var _monster = [
             280030302,
             280030303,
             280030306
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003030"
     },
     {
         "_id": 800303003,
@@ -37440,7 +37978,8 @@ var _monster = [
             280030302,
             280030303,
             280030306
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003030"
     },
     {
         "_id": 800303004,
@@ -37502,7 +38041,8 @@ var _monster = [
             280030302,
             280030303,
             280030306
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003030"
     },
     {
         "_id": 800303005,
@@ -37564,7 +38104,8 @@ var _monster = [
             280030302,
             280030303,
             280030306
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003030"
     },
     {
         "_id": 800303006,
@@ -37626,7 +38167,8 @@ var _monster = [
             280030302,
             280030303,
             280030306
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003030"
     },
     {
         "_id": 800303007,
@@ -37691,7 +38233,8 @@ var _monster = [
             280030302,
             280030303,
             280030306
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003030"
     },
     {
         "_id": 800303008,
@@ -37756,7 +38299,8 @@ var _monster = [
             280030302,
             280030303,
             280030306
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003030"
     },
     {
         "_id": 800303009,
@@ -37818,7 +38362,8 @@ var _monster = [
             280030302,
             280030303,
             280030306
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003030"
     },
     {
         "_id": 800303010,
@@ -37880,7 +38425,8 @@ var _monster = [
             280030302,
             280030303,
             280030306
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003030"
     },
     {
         "_id": 800303011,
@@ -37946,7 +38492,8 @@ var _monster = [
             280030302,
             280030303,
             280030306
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003030"
     },
     {
         "_id": 800303012,
@@ -38011,7 +38558,8 @@ var _monster = [
             280030302,
             280030303,
             280030306
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003030"
     },
     {
         "_id": 8003031,
@@ -38130,7 +38678,8 @@ var _monster = [
         "Status": [
             30020013,
             280030405
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003040"
     },
     {
         "_id": 800304001,
@@ -38191,7 +38740,8 @@ var _monster = [
         "Status": [
             30020013,
             280030405
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003040"
     },
     {
         "_id": 800304002,
@@ -38252,7 +38802,8 @@ var _monster = [
         "Status": [
             30020013,
             280030405
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003040"
     },
     {
         "_id": 800304003,
@@ -38313,7 +38864,8 @@ var _monster = [
         "Status": [
             30020013,
             280030405
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003040"
     },
     {
         "_id": 800304004,
@@ -38371,7 +38923,8 @@ var _monster = [
         "Status": [
             30020013,
             280030405
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003040"
     },
     {
         "_id": 800304005,
@@ -38432,7 +38985,8 @@ var _monster = [
         "Status": [
             30020013,
             280030405
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003040"
     },
     {
         "_id": 800304006,
@@ -38493,7 +39047,8 @@ var _monster = [
         "Status": [
             30020013,
             280030405
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003040"
     },
     {
         "_id": 800304007,
@@ -38554,7 +39109,8 @@ var _monster = [
         "Status": [
             30020013,
             280030405
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003040"
     },
     {
         "_id": 800304008,
@@ -38615,7 +39171,8 @@ var _monster = [
         "Status": [
             30020013,
             280030405
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003040"
     },
     {
         "_id": 800304009,
@@ -38677,7 +39234,8 @@ var _monster = [
         "Status": [
             30020013,
             280030405
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003040"
     },
     {
         "_id": 8003041,
@@ -38856,7 +39414,8 @@ var _monster = [
             30020003,
             280130201,
             280130202
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003050"
     },
     {
         "_id": 800305001,
@@ -38917,7 +39476,8 @@ var _monster = [
             30020003,
             280130201,
             280130202
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003050"
     },
     {
         "_id": 800305002,
@@ -38978,7 +39538,8 @@ var _monster = [
             30020003,
             280130201,
             280130202
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003050"
     },
     {
         "_id": 800305003,
@@ -39039,7 +39600,8 @@ var _monster = [
             30020003,
             280130201,
             280130202
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003050"
     },
     {
         "_id": 800305004,
@@ -39099,7 +39661,8 @@ var _monster = [
             30020003,
             280130201,
             280130202
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003050"
     },
     {
         "_id": 800305005,
@@ -39159,7 +39722,8 @@ var _monster = [
             30020003,
             280130201,
             280130202
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003050"
     },
     {
         "_id": 800305006,
@@ -39220,7 +39784,8 @@ var _monster = [
             30020003,
             280130201,
             280130202
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003050"
     },
     {
         "_id": 800305007,
@@ -39278,7 +39843,8 @@ var _monster = [
             30020003,
             280130201,
             280130202
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003050"
     },
     {
         "_id": 800305008,
@@ -39339,7 +39905,8 @@ var _monster = [
             30020003,
             280130201,
             280130202
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003050"
     },
     {
         "_id": 800305009,
@@ -39401,7 +39968,8 @@ var _monster = [
             30020003,
             280130201,
             280130202
-        ]
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003050"
     },
     {
         "_id": 8003051,
@@ -39562,7 +40130,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011010.png",
-        "Figure": "MonsterFigure/Monster_8011010.png"
+        "Figure": "MonsterFigure/Monster_8011010.png",
+        "Csxylic": "SCAntimatterRegion/8011010"
     },
     {
         "_id": 801101001,
@@ -39605,7 +40174,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011010.png",
-        "Figure": "MonsterFigure/Monster_8011010.png"
+        "Figure": "MonsterFigure/Monster_8011010.png",
+        "Csxylic": "SCAntimatterRegion/8011010"
     },
     {
         "_id": 801101002,
@@ -39648,7 +40218,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011010.png",
-        "Figure": "MonsterFigure/Monster_8011010.png"
+        "Figure": "MonsterFigure/Monster_8011010.png",
+        "Csxylic": "SCAntimatterRegion/8011010"
     },
     {
         "_id": 801101003,
@@ -39691,7 +40262,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011010.png",
-        "Figure": "MonsterFigure/Monster_8011010.png"
+        "Figure": "MonsterFigure/Monster_8011010.png",
+        "Csxylic": "SCAntimatterRegion/8011010"
     },
     {
         "_id": 801101004,
@@ -39734,7 +40306,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011010.png",
-        "Figure": "MonsterFigure/Monster_8011010.png"
+        "Figure": "MonsterFigure/Monster_8011010.png",
+        "Csxylic": "SCAntimatterRegion/8011010"
     },
     {
         "_id": 801101005,
@@ -39780,7 +40353,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011010.png",
-        "Figure": "MonsterFigure/Monster_8011010.png"
+        "Figure": "MonsterFigure/Monster_8011010.png",
+        "Csxylic": "SCAntimatterRegion/8011010"
     },
     {
         "_id": 801101006,
@@ -39823,7 +40397,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011010.png",
-        "Figure": "MonsterFigure/Monster_8011010.png"
+        "Figure": "MonsterFigure/Monster_8011010.png",
+        "Csxylic": "SCAntimatterRegion/8011010"
     },
     {
         "_id": 801101007,
@@ -39866,7 +40441,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011010.png",
-        "Figure": "MonsterFigure/Monster_8011010.png"
+        "Figure": "MonsterFigure/Monster_8011010.png",
+        "Csxylic": "SCAntimatterRegion/8011010"
     },
     {
         "_id": 801101008,
@@ -39909,7 +40485,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011010.png",
-        "Figure": "MonsterFigure/Monster_8011010.png"
+        "Figure": "MonsterFigure/Monster_8011010.png",
+        "Csxylic": "SCAntimatterRegion/8011010"
     },
     {
         "_id": 8011020,
@@ -39952,7 +40529,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011020.png",
-        "Figure": "MonsterFigure/Monster_8011020.png"
+        "Figure": "MonsterFigure/Monster_8011020.png",
+        "Csxylic": "SCAntimatterRegion/8011020"
     },
     {
         "_id": 801102001,
@@ -39995,7 +40573,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011020.png",
-        "Figure": "MonsterFigure/Monster_8011020.png"
+        "Figure": "MonsterFigure/Monster_8011020.png",
+        "Csxylic": "SCAntimatterRegion/8011020"
     },
     {
         "_id": 801102002,
@@ -40041,7 +40620,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011020.png",
-        "Figure": "MonsterFigure/Monster_8011020.png"
+        "Figure": "MonsterFigure/Monster_8011020.png",
+        "Csxylic": "SCAntimatterRegion/8011020"
     },
     {
         "_id": 801102003,
@@ -40084,7 +40664,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011020.png",
-        "Figure": "MonsterFigure/Monster_8011020.png"
+        "Figure": "MonsterFigure/Monster_8011020.png",
+        "Csxylic": "SCAntimatterRegion/8011020"
     },
     {
         "_id": 801102004,
@@ -40127,7 +40708,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011020.png",
-        "Figure": "MonsterFigure/Monster_8011020.png"
+        "Figure": "MonsterFigure/Monster_8011020.png",
+        "Csxylic": "SCAntimatterRegion/8011020"
     },
     {
         "_id": 801102005,
@@ -40173,7 +40755,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011020.png",
-        "Figure": "MonsterFigure/Monster_8011020.png"
+        "Figure": "MonsterFigure/Monster_8011020.png",
+        "Csxylic": "SCAntimatterRegion/8011020"
     },
     {
         "_id": 801102007,
@@ -40216,7 +40799,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011020.png",
-        "Figure": "MonsterFigure/Monster_8011020.png"
+        "Figure": "MonsterFigure/Monster_8011020.png",
+        "Csxylic": "SCAntimatterRegion/8011020"
     },
     {
         "_id": 801102008,
@@ -40259,7 +40843,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 6,
         "Icon": "MonsterIcon/Monster_8011020.png",
-        "Figure": "MonsterFigure/Monster_8011020.png"
+        "Figure": "MonsterFigure/Monster_8011020.png",
+        "Csxylic": "SCAntimatterRegion/8011020"
     },
     {
         "_id": 8012010,
@@ -40312,7 +40897,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012010.png",
         "Status": [
             280120101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012010"
     },
     {
         "_id": 801201001,
@@ -40365,7 +40951,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012010.png",
         "Status": [
             280120101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012010"
     },
     {
         "_id": 801201002,
@@ -40418,7 +41005,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012010.png",
         "Status": [
             280120101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012010"
     },
     {
         "_id": 801201003,
@@ -40471,7 +41059,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012010.png",
         "Status": [
             280120101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012010"
     },
     {
         "_id": 801201004,
@@ -40524,7 +41113,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012010.png",
         "Status": [
             280120101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012010"
     },
     {
         "_id": 801201005,
@@ -40581,7 +41171,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012010.png",
         "Status": [
             280120101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012010"
     },
     {
         "_id": 801201006,
@@ -40634,7 +41225,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012010.png",
         "Status": [
             280120101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012010"
     },
     {
         "_id": 801201007,
@@ -40690,7 +41282,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012010.png",
         "Status": [
             280120101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012010"
     },
     {
         "_id": 801201008,
@@ -40743,7 +41336,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012010.png",
         "Status": [
             280120101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012010"
     },
     {
         "_id": 801201009,
@@ -40796,7 +41390,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012010.png",
         "Status": [
             280120101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012010"
     },
     {
         "_id": 801201010,
@@ -40852,7 +41447,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012010.png",
         "Status": [
             280120101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012010"
     },
     {
         "_id": 801201011,
@@ -40905,7 +41501,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012010.png",
         "Status": [
             280120101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012010"
     },
     {
         "_id": 801201012,
@@ -40958,7 +41555,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012010.png",
         "Status": [
             280120101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012010"
     },
     {
         "_id": 801201013,
@@ -41011,7 +41609,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012010.png",
         "Status": [
             280120101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012010"
     },
     {
         "_id": 801201014,
@@ -41067,7 +41666,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012010.png",
         "Status": [
             280120101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012010"
     },
     {
         "_id": 801201015,
@@ -41123,7 +41723,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012010.png",
         "Status": [
             280120101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012010"
     },
     {
         "_id": 801201016,
@@ -41179,7 +41780,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012010.png",
         "Status": [
             280120101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012010"
     },
     {
         "_id": 801201017,
@@ -41235,7 +41837,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012010.png",
         "Status": [
             280120101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012010"
     },
     {
         "_id": 801201018,
@@ -41288,7 +41891,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012010.png",
         "Status": [
             280120101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012010"
     },
     {
         "_id": 801201019,
@@ -41341,7 +41945,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012010.png",
         "Status": [
             280120101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012010"
     },
     {
         "_id": 801201020,
@@ -41394,7 +41999,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012010.png",
         "Status": [
             280120101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012010"
     },
     {
         "_id": 801201021,
@@ -41447,7 +42053,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012010.png",
         "Status": [
             280120101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012010"
     },
     {
         "_id": 801201023,
@@ -41500,7 +42107,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012010.png",
         "Status": [
             280120101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012010"
     },
     {
         "_id": 801201024,
@@ -41553,7 +42161,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012010.png",
         "Status": [
             280120101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012010"
     },
     {
         "_id": 801201025,
@@ -41606,7 +42215,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012010.png",
         "Status": [
             280120101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012010"
     },
     {
         "_id": 801201026,
@@ -41659,7 +42269,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012010.png",
         "Status": [
             280120101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012010"
     },
     {
         "_id": 8012020,
@@ -41706,7 +42317,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012020.png",
         "Status": [
             280120201
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012020"
     },
     {
         "_id": 801202001,
@@ -41753,7 +42365,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012020.png",
         "Status": [
             280120201
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012020"
     },
     {
         "_id": 801202002,
@@ -41800,7 +42413,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012020.png",
         "Status": [
             280120201
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012020"
     },
     {
         "_id": 801202003,
@@ -41847,7 +42461,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012020.png",
         "Status": [
             280120201
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012020"
     },
     {
         "_id": 801202004,
@@ -41894,7 +42509,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012020.png",
         "Status": [
             280120201
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012020"
     },
     {
         "_id": 801202005,
@@ -41941,7 +42557,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012020.png",
         "Status": [
             280120201
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012020"
     },
     {
         "_id": 801202006,
@@ -41988,7 +42605,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012020.png",
         "Status": [
             280120201
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012020"
     },
     {
         "_id": 801202007,
@@ -42038,7 +42656,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012020.png",
         "Status": [
             280120201
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012020"
     },
     {
         "_id": 801202008,
@@ -42088,7 +42707,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012020.png",
         "Status": [
             280120201
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012020"
     },
     {
         "_id": 801202009,
@@ -42135,7 +42755,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012020.png",
         "Status": [
             280120201
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012020"
     },
     {
         "_id": 801202010,
@@ -42185,7 +42806,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012020.png",
         "Status": [
             280120201
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012020"
     },
     {
         "_id": 801202011,
@@ -42232,7 +42854,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012020.png",
         "Status": [
             280120201
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012020"
     },
     {
         "_id": 801202012,
@@ -42279,7 +42902,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012020.png",
         "Status": [
             280120201
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012020"
     },
     {
         "_id": 801202013,
@@ -42326,7 +42950,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012020.png",
         "Status": [
             280120201
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012020"
     },
     {
         "_id": 8012021,
@@ -42521,7 +43146,8 @@ var _monster = [
         "Status": [
             280120301,
             280120302
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012030"
     },
     {
         "_id": 801203001,
@@ -42569,7 +43195,8 @@ var _monster = [
         "Status": [
             280120301,
             280120302
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012030"
     },
     {
         "_id": 801203002,
@@ -42617,7 +43244,8 @@ var _monster = [
         "Status": [
             280120301,
             280120302
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012030"
     },
     {
         "_id": 801203003,
@@ -42668,7 +43296,8 @@ var _monster = [
         "Status": [
             280120301,
             280120302
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012030"
     },
     {
         "_id": 801203004,
@@ -42716,7 +43345,8 @@ var _monster = [
         "Status": [
             280120301,
             280120302
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012030"
     },
     {
         "_id": 801203005,
@@ -42764,7 +43394,8 @@ var _monster = [
         "Status": [
             280120301,
             280120302
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012030"
     },
     {
         "_id": 801203006,
@@ -42815,7 +43446,8 @@ var _monster = [
         "Status": [
             280120301,
             280120302
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012030"
     },
     {
         "_id": 801203007,
@@ -42863,7 +43495,8 @@ var _monster = [
         "Status": [
             280120301,
             280120302
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012030"
     },
     {
         "_id": 8012140,
@@ -42920,7 +43553,8 @@ var _monster = [
         "Icon": "MonsterIcon/Monster_8012140.png",
         "Status": [
             30020013
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012140"
     },
     {
         "_id": 8012142,
@@ -42976,7 +43610,8 @@ var _monster = [
         "Icon": "MonsterIcon/Monster_8012142.png",
         "Status": [
             30020027
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8012142"
     },
     {
         "_id": 8012143,
@@ -43218,7 +43853,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012200.png",
         "Status": [
             280150203
-        ]
+        ],
+        "Csxylic": "SCNonCategorized/8012202"
     },
     {
         "_id": 8012203,
@@ -43266,7 +43902,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8012201.png",
         "Status": [
             280150203
-        ]
+        ],
+        "Csxylic": "SCNonCategorized/8012203"
     },
     {
         "_id": 8012210,
@@ -43452,7 +44089,8 @@ var _monster = [
             280150205,
             280150206,
             280150208
-        ]
+        ],
+        "Csxylic": "SCNonCategorized/8012212"
     },
     {
         "_id": 8012213,
@@ -43514,7 +44152,8 @@ var _monster = [
             280150205,
             280150206,
             280150208
-        ]
+        ],
+        "Csxylic": "SCNonCategorized/8012213"
     },
     {
         "_id": 8013010,
@@ -43565,7 +44204,8 @@ var _monster = [
         "Status": [
             30020027,
             280130101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8013010"
     },
     {
         "_id": 801301001,
@@ -43616,7 +44256,8 @@ var _monster = [
         "Status": [
             30020027,
             280130101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8013010"
     },
     {
         "_id": 801301002,
@@ -43667,7 +44308,8 @@ var _monster = [
         "Status": [
             30020027,
             280130101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8013010"
     },
     {
         "_id": 801301003,
@@ -43718,7 +44360,8 @@ var _monster = [
         "Status": [
             30020027,
             280130101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8013010"
     },
     {
         "_id": 801301004,
@@ -43769,7 +44412,8 @@ var _monster = [
         "Status": [
             30020027,
             280130101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8013010"
     },
     {
         "_id": 801301005,
@@ -43820,7 +44464,8 @@ var _monster = [
         "Status": [
             30020027,
             280130101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8013010"
     },
     {
         "_id": 801301006,
@@ -43871,7 +44516,8 @@ var _monster = [
         "Status": [
             30020027,
             280130101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8013010"
     },
     {
         "_id": 801301007,
@@ -43922,7 +44568,8 @@ var _monster = [
         "Status": [
             30020027,
             280130101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8013010"
     },
     {
         "_id": 801301008,
@@ -43973,7 +44620,8 @@ var _monster = [
         "Status": [
             30020027,
             280130101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8013010"
     },
     {
         "_id": 801301009,
@@ -44024,7 +44672,8 @@ var _monster = [
         "Status": [
             30020027,
             280130101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8013010"
     },
     {
         "_id": 801301010,
@@ -44075,7 +44724,8 @@ var _monster = [
         "Status": [
             30020027,
             280130101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8013010"
     },
     {
         "_id": 801301011,
@@ -44130,7 +44780,8 @@ var _monster = [
         "Status": [
             30020027,
             280130101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8013010"
     },
     {
         "_id": 801301012,
@@ -44184,7 +44835,8 @@ var _monster = [
         "Status": [
             30020027,
             280130101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8013010"
     },
     {
         "_id": 801301013,
@@ -44239,7 +44891,8 @@ var _monster = [
         "Status": [
             30020027,
             280130101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8013010"
     },
     {
         "_id": 801301014,
@@ -44294,7 +44947,8 @@ var _monster = [
         "Status": [
             30020027,
             280130101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8013010"
     },
     {
         "_id": 801301015,
@@ -44348,7 +45002,8 @@ var _monster = [
         "Status": [
             30020027,
             280130101
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8013010"
     },
     {
         "_id": 8013011,
@@ -44734,7 +45389,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8015010.png",
         "Status": [
             280150102
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8015011"
     },
     {
         "_id": 8015020,
@@ -44815,7 +45471,8 @@ var _monster = [
             280150202,
             280150204,
             280150208
-        ]
+        ],
+        "Csxylic": "SCAntimatterRegion/8015020"
     },
     {
         "_id": 8015021,
@@ -44953,7 +45610,8 @@ var _monster = [
             280240103,
             280240104,
             280240105
-        ]
+        ],
+        "Csxylic": "SCTheSwarm/8022010"
     },
     {
         "_id": 8022020,
@@ -45011,7 +45669,8 @@ var _monster = [
         "Status": [
             30020029,
             280240103
-        ]
+        ],
+        "Csxylic": "SCTheSwarm/8022020"
     },
     {
         "_id": 802202001,
@@ -45072,7 +45731,8 @@ var _monster = [
         "Status": [
             30020029,
             280240103
-        ]
+        ],
+        "Csxylic": "SCTheSwarm/8022020"
     },
     {
         "_id": 802202002,
@@ -45131,7 +45791,8 @@ var _monster = [
         "Status": [
             30020029,
             280240103
-        ]
+        ],
+        "Csxylic": "SCTheSwarm/8022020"
     },
     {
         "_id": 8022030,
@@ -45175,7 +45836,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 8,
         "Icon": "MonsterIcon/Monster_8022030.png",
-        "Figure": "MonsterFigure/Monster_8022030.png"
+        "Figure": "MonsterFigure/Monster_8022030.png",
+        "Csxylic": "SCTheSwarm/8022030"
     },
     {
         "_id": 8024010,
@@ -45337,7 +45999,8 @@ var _monster = [
             280240101,
             280240102,
             280240103
-        ]
+        ],
+        "Csxylic": "SCTheSwarm/8024011"
     },
     {
         "_id": 8024012,
@@ -45488,7 +46151,8 @@ var _monster = [
         "Rank": "BigBoss",
         "Camp": 8,
         "Icon": "MonsterIcon/Monster_8025010.png",
-        "Figure": "MonsterFigure/Monster_8025010.png"
+        "Figure": "MonsterFigure/Monster_8025010.png",
+        "Csxylic": "SCTheSwarm/8025010"
     },
     {
         "_id": 802501001,
@@ -45555,7 +46219,8 @@ var _monster = [
         "Rank": "BigBoss",
         "Camp": 8,
         "Icon": "MonsterIcon/Monster_8025010.png",
-        "Figure": "MonsterFigure/Monster_8025010.png"
+        "Figure": "MonsterFigure/Monster_8025010.png",
+        "Csxylic": "SCTheSwarm/8025010"
     },
     {
         "_id": 8032010,
@@ -45608,7 +46273,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8032010.png",
         "Status": [
             280330101
-        ]
+        ],
+        "Csxylic": "SCInterastralPeaceCorporation/8032010"
     },
     {
         "_id": 803201001,
@@ -45661,7 +46327,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8032010.png",
         "Status": [
             280330101
-        ]
+        ],
+        "Csxylic": "SCInterastralPeaceCorporation/8032010"
     },
     {
         "_id": 803201002,
@@ -45714,7 +46381,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8032010.png",
         "Status": [
             280330101
-        ]
+        ],
+        "Csxylic": "SCInterastralPeaceCorporation/8032010"
     },
     {
         "_id": 803201003,
@@ -45767,7 +46435,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8032010.png",
         "Status": [
             280330101
-        ]
+        ],
+        "Csxylic": "SCInterastralPeaceCorporation/8032010"
     },
     {
         "_id": 8032020,
@@ -45820,7 +46489,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8032020.png",
         "Status": [
             280330101
-        ]
+        ],
+        "Csxylic": "SCInterastralPeaceCorporation/8032020"
     },
     {
         "_id": 803202001,
@@ -45873,7 +46543,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8032020.png",
         "Status": [
             280330101
-        ]
+        ],
+        "Csxylic": "SCInterastralPeaceCorporation/8032020"
     },
     {
         "_id": 803202002,
@@ -45926,7 +46597,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8032020.png",
         "Status": [
             280330101
-        ]
+        ],
+        "Csxylic": "SCInterastralPeaceCorporation/8032020"
     },
     {
         "_id": 803202003,
@@ -45979,7 +46651,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8032020.png",
         "Status": [
             280330101
-        ]
+        ],
+        "Csxylic": "SCInterastralPeaceCorporation/8032020"
     },
     {
         "_id": 8033010,
@@ -46031,7 +46704,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8033010.png",
         "Status": [
             280330101
-        ]
+        ],
+        "Csxylic": "SCInterastralPeaceCorporation/8033010"
     },
     {
         "_id": 803301001,
@@ -46083,7 +46757,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8033010.png",
         "Status": [
             280330101
-        ]
+        ],
+        "Csxylic": "SCInterastralPeaceCorporation/8033010"
     },
     {
         "_id": 803301002,
@@ -46138,7 +46813,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_8033010.png",
         "Status": [
             280330101
-        ]
+        ],
+        "Csxylic": "SCInterastralPeaceCorporation/8033010"
     },
     {
         "_id": 8033011,
