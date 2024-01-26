@@ -48031,7 +48031,8 @@ var _SpiralAbyssFloorConfig = {
         },
         "ShowVers": [
             1,
-            2
+            2,
+            0
         ],
         "Chambers": [
             {
@@ -48260,7 +48261,8 @@ var _SpiralAbyssFloorConfig = {
                     {
                         "WaveDesc": 2,
                         "Vers": [
-                            2
+                            2,
+                            0
                         ],
                         "Monsters": [
                             {
@@ -48298,7 +48300,8 @@ var _SpiralAbyssFloorConfig = {
                     {
                         "WaveDesc": 2,
                         "Vers": [
-                            2
+                            2,
+                            0
                         ],
                         "Monsters": [
                             {
@@ -48390,7 +48393,8 @@ var _SpiralAbyssFloorConfig = {
         "ShowVers": [
             1,
             2,
-            3
+            3,
+            0
         ],
         "Chambers": [
             {
@@ -48501,7 +48505,8 @@ var _SpiralAbyssFloorConfig = {
                         "WaveDesc": 1,
                         "Vers": [
                             2,
-                            3
+                            3,
+                            0
                         ],
                         "Monsters": [
                             {
@@ -48520,7 +48525,8 @@ var _SpiralAbyssFloorConfig = {
                         "WaveDesc": 2,
                         "Vers": [
                             2,
-                            3
+                            3,
+                            0
                         ],
                         "Monsters": [
                             {
@@ -48533,7 +48539,8 @@ var _SpiralAbyssFloorConfig = {
                         "WaveDesc": 3,
                         "Vers": [
                             2,
-                            3
+                            3,
+                            0
                         ],
                         "Monsters": [
                             {
@@ -48616,7 +48623,8 @@ var _SpiralAbyssFloorConfig = {
                         "WaveDesc": 1,
                         "Vers": [
                             2,
-                            3
+                            3,
+                            0
                         ],
                         "Monsters": [
                             {
@@ -48633,7 +48641,8 @@ var _SpiralAbyssFloorConfig = {
                         "WaveDesc": 2,
                         "Vers": [
                             2,
-                            3
+                            3,
+                            0
                         ],
                         "Monsters": [
                             {
@@ -48664,7 +48673,8 @@ var _SpiralAbyssFloorConfig = {
                         "WaveDesc": 3,
                         "Vers": [
                             2,
-                            3
+                            3,
+                            0
                         ],
                         "Monsters": [
                             {
@@ -48747,7 +48757,8 @@ var _SpiralAbyssFloorConfig = {
                         "WaveDesc": 512,
                         "Vers": [
                             2,
-                            3
+                            3,
+                            0
                         ],
                         "Monsters": [
                             {
@@ -48780,7 +48791,8 @@ var _SpiralAbyssFloorConfig = {
                         "WaveDesc": 1,
                         "Vers": [
                             2,
-                            3
+                            3,
+                            0
                         ],
                         "Monsters": [
                             {
@@ -48808,7 +48820,8 @@ var _SpiralAbyssFloorConfig = {
                     {
                         "WaveDesc": 2,
                         "Vers": [
-                            3
+                            3,
+                            0
                         ],
                         "Monsters": [
                             {
