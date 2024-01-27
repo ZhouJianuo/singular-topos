@@ -128,7 +128,7 @@ popdialog {
     margin: 0px;
 }
 
-.mon_body, .mon_body_ {
+.mon_body, .mon_body_, .mon_csx {
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;

@@ -549,10 +549,14 @@ $(function () {
                                             }
                                             $(d.sender).addClass('active').siblings('schedule').removeClass('active');
                                             poptyp = parseInt($(d.sender).attr('data-id'))
+                                            if (poptyp != 2) {
+                                                $('.mon_csx').hide()
+                                            }
                                             if (poptyp == 1) {
                                                 renderBasic(me)
                                             } else if (poptyp == 2) {
-                                                renderCsxylic(me.Csxylic)
+                                                $('.mon_body').empty()
+                                                $('.mon_csx').show()
                                             } else if (poptyp == 3) {
                                                 renderSkill(me)
                                             } else if (poptyp == 4) {
@@ -585,6 +589,20 @@ $(function () {
                 {
                     div: '',
                     class: 'mon_body'
+                },
+                {
+                    div: {
+                        img: imgpre + (me.Csxylic ? ('SREnemyChart/' + me.Csxylic + '.png') : ('images/Misc/a.png')),
+                        style: {
+                            'max-width': '100%',
+                            'max-height': '600px',
+                        }
+                    },
+                    class: 'mon_csx',
+                    style: {
+                        display: 'none',
+                        'margin-top': '-20px'
+                    }
                 }
             ]
         })
@@ -1215,19 +1233,6 @@ $(function () {
         LV = parseInt($(this).attr('data-lv'))
         popMons(parseInt($(this).attr('data-id')) - 1)
     })
-
-    function renderCsxylic(L) {
-        $('.mon_body').empty()
-        $('.mon_body').render({
-            template: {
-                img: imgpre + 'SREnemyChart/' + L + '.png',
-                style: {
-                    'max-width': '100%',
-                    'max-height': '600px',
-                }
-            }
-        })
-    }
 
     function renderStatus(L) {
         $('.mon_body').empty()
