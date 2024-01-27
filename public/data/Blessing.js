@@ -7217,7 +7217,7 @@ var _blessingextra = {
     },
     "61000021": {
         "Name": {
-            "CH": "计算",
+            "CH": "知识",
             "EN": "Calculate"
         },
         "Desc": {

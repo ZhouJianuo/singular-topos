@@ -168,6 +168,10 @@ var SR = [
             "CH": "怪物",
             "EN": "Monsters"
         },
+        "Link": {
+            "CH": "sr.mons.wiki",
+            "EN": "sr.mons.wiki"
+        },
         "Features": [
             {
                 "CH": "怪物血量、速度、伤害抗性、效果抵抗等",
@@ -178,7 +182,7 @@ var SR = [
                 "EN": "Accurate monster skill data."
             },
             {
-                "CH": "部分怪物技能一图流（作者：Csxylic）",
+                "CH": "怪物技能一图流（作者：Csxylic）",
                 "EN": "Monster skill sheets by Csxylic."
             }
         ],
@@ -189,8 +193,48 @@ var SR = [
     },
     {
         "Title": {
+            "CH": "角色 光锥 遗器",
+            "EN": "Characters Lightcones Relics"
+        },
+        "Link": {
+            "CH": "sr.mons.wiki",
+            "EN": "sr.mons.wiki"
+        },
+        "Features": [
+            {
+                "CH": "角色数据、培养材料、故事、语音",
+                "EN": "Character stats, enhancement materials, stories, voicelines."
+            },
+            {
+                "CH": "角色技能、天赋、命之座",
+                "EN": "Character skills, talents, constellations."
+            },
+            {
+                "CH": "角色深度细节",
+                "EN": "Character in-depth details."
+            },
+            {
+                "CH": "武器数据、技能、培养材料、故事",
+                "EN": "Weapon stats, skills, enhancement materials, stories."
+            },
+            {
+                "CH": "圣遗物技能、故事",
+                "EN": "Artifact skills and stories."
+            }
+        ],
+        "Href": {
+            "CH": "/sr/char",
+            "EN": "/sr/char"
+        }
+    },
+    {
+        "Title": {
             "CH": "混沌回忆",
             "EN": "Memory of Chaos"
+        },
+        "Link": {
+            "CH": "sr.abyss.wiki",
+            "EN": "sr.abyss.wiki"
         },
         "Features": [
             {
