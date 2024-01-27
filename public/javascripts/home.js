@@ -130,7 +130,7 @@ $(function() {
                         },
                         {
                             div: {
-                                span: `[[Link]]`,
+                                span: `[[Link/${lang}]]`,
                             },
                             class: 'dir_link',
                             when: function (k) {

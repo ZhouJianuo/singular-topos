@@ -191,7 +191,7 @@ var SR = [
             "EN": "/sr/monster"
         }
     },
-    {
+    /*{
         "Title": {
             "CH": "角色 光锥 遗器",
             "EN": "Characters Lightcones Relics"
@@ -226,7 +226,7 @@ var SR = [
             "CH": "/sr/char",
             "EN": "/sr/char"
         }
-    },
+    },*/
     {
         "Title": {
             "CH": "混沌回忆",
