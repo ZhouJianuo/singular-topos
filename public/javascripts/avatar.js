@@ -460,49 +460,6 @@ $(function () {
                                                 'padding': '15px'
                                             }
                                         },
-                                        {
-                                            td: {
-                                                div: [
-                                                    {
-                                                        img: function (p) {
-                                                            return imgpre + 'homdgcat-res/monster/' + p.data.Pics[0] + '.png'
-                                                        },
-                                                        style: {
-                                                            height: '45px'
-                                                        }
-                                                    },
-                                                    {
-                                                        img: function (p) {
-                                                            return imgpre + 'homdgcat-res/monster/' + p.data.Pics[1] + '.png'
-                                                        },
-                                                        style: {
-                                                            height: '45px'
-                                                        }
-                                                    },
-                                                    {
-                                                        img: function (p) {
-                                                            return imgpre + 'homdgcat-res/monster/' + p.data.Pics[2] + '.png'
-                                                        },
-                                                        style: {
-                                                            height: '45px'
-                                                        }
-                                                    }
-                                                ],
-                                                style: {
-                                                    'width': '100%',
-                                                    'display': 'flex',
-                                                    'justify-content': 'space-evenly'
-                                                }
-                                            }
-                                        },
-                                        {
-                                            td: function (p) {
-                                                return computer_.AvatarTalentConfig[p.data.TalentMat][lang]
-                                            },
-                                            style: {
-                                                'text-align': 'center'
-                                            }
-                                        },
                                     ],
                                     click: function (p) {
                                         cur_avatar_id = p.org_data._id

@@ -400,14 +400,6 @@ var computer_ = {
             {
                 "CH": "突破",
                 "EN": "Ascension Stat"
-            },
-            {
-                "CH": "培养材料",
-                "EN": "Materials"
-            },
-            {
-                "CH": "天赋材料",
-                "EN": "Talent"
             }
         ],
         "Abyss_UI": [
