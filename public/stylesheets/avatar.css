@@ -664,7 +664,21 @@ tr {
     flex-wrap: wrap;
 }
 
-.avatar-card, .avatar-card2 {
+.avatar-card {
+    border-radius: 5px;
+    padding: 14px;
+    margin-top: 7px;
+    margin-bottom: 13px;
+    width: calc(50% - 15px);
+    line-height: 2;
+    background-color: #27363E;
+    color: #dddddd;
+    position: relative;
+    text-align: center;
+    cursor: pointer;
+}
+
+.avatar-card2 {
     border-radius: 5px;
     padding: 14px;
     margin-top: 7px;
