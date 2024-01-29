@@ -1185,12 +1185,12 @@ var _Achievement = [
         "_id": 84573,
         "Group": 0,
         "Name": {
-            "CH": "",
-            "EN": ""
+            "CH": "同流者",
+            "EN": "The Conformist"
         },
         "Desc": {
-            "CH": "",
-            "EN": ""
+            "CH": "见证某件与水文和光影有关的故事…",
+            "EN": "Witness a certain story regarding light, shadow and hydrology..."
         },
         "Ver": "4.4",
         "Hidden": true,
@@ -1201,12 +1201,12 @@ var _Achievement = [
         "_id": 84572,
         "Group": 0,
         "Name": {
-            "CH": "",
-            "EN": ""
+            "CH": "谁来说出真相？",
+            "EN": "Who Tells You the Truth?"
         },
         "Desc": {
-            "CH": "",
-            "EN": ""
+            "CH": "帮助吉雅罗寻找到了新的灵感…？",
+            "EN": "Help Guijarro find new inspiration...?"
         },
         "Ver": "4.4",
         "Hidden": true,
@@ -8086,7 +8086,7 @@ var _Achievement = [
         },
         "Desc": {
             "CH": "见证四处壁画。",
-            "EN": "Clean the moss off three murals."
+            "EN": "Witness four murals."
         },
         "Ver": "4.4",
         "Hidden": true,
@@ -8230,7 +8230,7 @@ var _Achievement = [
         },
         "Desc": {
             "CH": "运用仙力，短暂摆脱大地的束缚。",
-            "EN": "Use adeptal power to temporarily break free from the earth's shackles."
+            "EN": "Use adeptal energy to temporarily break free from the earth's shackles."
         },
         "Ver": "4.4",
         "Hidden": true,
@@ -8322,11 +8322,11 @@ var _Achievement = [
         "Group": 0,
         "Name": {
             "CH": "「赤璋巡岳府君」",
-            "EN": "\"Ruler of the Chizhang Mountains\""
+            "EN": "\"Rulers of the Chizhang Mountains\""
         },
         "Desc": {
             "CH": "战胜地方传奇 · 赤璋巡岳府君。",
-            "EN": "Defeat Local Legend, Ruler of the Chizhang Mountains."
+            "EN": "Defeat Local Legend, Rulers of the Chizhang Mountains."
         },
         "Ver": "4.4",
         "Hidden": true,

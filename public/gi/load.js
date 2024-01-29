@@ -14167,7 +14167,7 @@ var _LoadTip = [
                 },
                 "Desc": {
                     "CH": "投掷阶段：直接获得4个「万能元素」和4个不同的随机元素。<br>每回合打出的第一张行动牌费用-2。<br>「切换角色」总是「快速行动」。",
-                    "EN": "1. During the Roll Phase: Receive 4 Omni Dice and 4 different random Elemental Dice.<br>The first Action Card played each Round will cost 2 fewer Elemental Dice.<br>Switching Character Cards is always a Fast Action."
+                    "EN": "During the Roll Phase: Receive 4 Omni Dice and 4 different random Elemental Dice.<br>The first Action Card played each Round will cost 2 fewer Elemental Dice.<br>Switching Character Cards is always a Fast Action."
                 },
                 "Stage": [
                     60
@@ -14194,7 +14194,7 @@ var _LoadTip = [
                 "_id": 1699,
                 "Name": {
                     "CH": "「气鼓鼓仙像」",
-                    "EN": "Wrathful Simulacra"
+                    "EN": "Wrathful Simulacrum"
                 },
                 "Desc": {
                     "CH": "沉玉谷先民留下的仙像。<br>不知为何看上去总是气鼓鼓的，但似乎依然愿意帮助你在山间自由穿行。",
@@ -14210,7 +14210,7 @@ var _LoadTip = [
                 "_id": 1700,
                 "Name": {
                     "CH": "「慢悠悠仙像」",
-                    "EN": "Carefree Simulacra"
+                    "EN": "Carefree Simulacrum"
                 },
                 "Desc": {
                     "CH": "沉玉谷先民留下的仙像。<br>若是耐心聆听它们的话语，说不定会有意想不到的发现…",
@@ -14226,7 +14226,7 @@ var _LoadTip = [
                 "_id": 1701,
                 "Name": {
                     "CH": "「轻飘飘仙像」",
-                    "EN": "Flighty Simulacra"
+                    "EN": "Flighty Simulacrum"
                 },
                 "Desc": {
                     "CH": "沉玉谷先民留下的仙像。<br>虽说是石雕，不知为何总给人一种轻飘飘的感觉…",
@@ -14416,7 +14416,7 @@ var _LoadTip = [
                 },
                 "Desc": {
                     "CH": "若是担心货物的安全，不妨去委托剑匣镖局吧。",
-                    "EN": "The Sword and Strongbox Company is there for anyone worried about the safety of their goods!"
+                    "EN": "The Sword and Strongbox Secure Transport Agency is there for anyone worried about the safety of their goods!"
                 },
                 "Stage": [
                     61
