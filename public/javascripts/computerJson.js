@@ -644,7 +644,7 @@ var computer_ = {
         },
         "Avatar_Stats": {
             "CH": "角色数值",
-            "EN": "Avatar Stats"
+            "EN": "Character Stats"
         },
         "Avatar_Stat_HP": {
             "CH": "基础生命值：",
@@ -853,8 +853,8 @@ var computer_ = {
             "EN": "HomDGCat's Notes"
         },
         "Avatar_Norm_Title": {
-            "CH": "角色模",
-            "EN": "Character Norm"
+            "CH": "> 模是啥嘞？",
+            "EN": "> What is Norm?"
         },
         "Avatar_Norm_Info": {
             "CH": "<br><b>模 = 基础生命值 + 16 x 基础攻击力 + 10 x 基础防御力</b><br>同类角色的模基本相同，类别分为：<br>5★ 近战  >  4★ 近战 A  >  5★ 远程  >  4★ 近战 B > 4★ 远程。<br>有少部分角色不遵循此规律，模比常规高：珊瑚宫心海、夜兰、那维莱特。",

@@ -271,318 +271,245 @@ $(function () {
             char_id_list[_AvatarInfoConfig[o]._name] = o
         }
 
-        $('.avatar-table').remove()
+        $('.avatar-area').remove()
+
+        if (r == 4) {
+            $('.content').render({
+                div: computer_.MiscText.Avatar_Norm_Title[lang],
+                class: 'Norm'
+            })
+        } else {
+            $('.Norm').remove()
+        }
 
         $('.content').render({
             div: {
-                table: [
+                div: [
                     {
-                        thead: [
-                            {
-                                tr: function (d) {
-                                    $(d.container).render({
-                                        data: computer_.MiscText.Avatar_Table_Header,
-                                        template: {
-                                            th: `[[${lang}]]`,
-                                            a: {
-                                                class: function (d) {
-                                                    return d.data.EN
-                                                }
-                                            }
-                                        }
-                                    })
-                                }
-                            }
-                        ]
+                        p: function (u) {
+                            if (u.data.Version == 9.0) return '1.0'
+                            return u.data.Version.toString()
+                        },
+                        style: {
+                            'font-weight': 'bold'
+                        }
                     },
                     {
-                        tbody: function (d) {
-                            $(d.container).render({
-                                data: _AvatarInfoConfig,
-                                template: {
-                                    tr: [
-                                        {
-                                            td: function (p) {
-                                                if (!p.data.Version) {
-                                                    return "-"
-                                                }
-                                                return p.data.Version == "9.0" ? "1.0" : p.data.Version
-                                            },
-                                            style: {
-                                                'text-align': 'center',
-                                                'padding': '10px'
-                                            }
-                                        },
-                                        {
-                                            td: {
-                                                img: function (p) {
-                                                    avname = p.data.Icon
-                                                    return imgpre + 'homdgcat-res/Avatar/' + avname + '.png'
-                                                },
-                                                style: {
-                                                    height: '100px',
-                                                    display: 'block',
-                                                    margin: 'auto'
-                                                }
-                                            },
-                                            style: {
-                                                'text-align': 'center',
-                                            }
-                                        },
-                                        {
-                                            td: {
-                                                span: function (p) {
-                                                    return p.data.Name[lang]
-                                                },
-                                                style: {
-                                                    color: function (p) {
-                                                        elem = computer_.ElemNameConfig[p.data.Element]
-                                                        return computer_.TextColorConfig[elem.Color]
-                                                    },
-                                                    'font-weight': 'bold'
-                                                }
-                                            },
-                                            style: {
-                                                'text-align': 'center'
-                                            }
-                                        },
-                                        {
-                                            td: `[[Title/${lang}]]`,
-                                            style: {
-                                                'text-align': 'center'
-                                            }
-                                        },
-                                        {
-                                            td: `[[Grade]]`,
-                                            style: {
-                                                'text-align': 'center'
-                                            }
-                                        },
-                                        {
-                                            td: {
-                                                img: function (p) {
-                                                    avname = p.data.Element
-                                                    return imgpre + 'homdgcat-res/Csxylic/' + avname + '.png'
-                                                },
-                                                style: {
-                                                    height: '40px',
-                                                    display: 'block',
-                                                    margin: 'auto',
-                                                },
-                                            },
-                                            style: {
-                                                'text-align': 'center'
-                                            }
-                                        },
-                                        {
-                                            td: {
-                                                img: function (p) {
-                                                    avname = computer_.AvatarWeaponConfig[p.data.Weapon].EN
-                                                    switch (avname) {
-                                                        case 'Sword': 
-                                                            var imgp = imgpre + 'homdgcat-res/Weapon/UI_EquipIcon_Sword_Purewill_Awaken.png';
-                                                            break;
-                                                        case 'Claymore': 
-                                                            var imgp = imgpre + 'homdgcat-res/Weapon/UI_EquipIcon_Claymore_Wolfmound.png';
-                                                            break;
-                                                        case 'Catalyst': 
-                                                            var imgp = imgpre + 'homdgcat-res/Weapon/UI_EquipIcon_Catalyst_Ludiharpastum_Awaken.png';
-                                                            break;
-                                                        case 'Polearm': 
-                                                            var imgp = imgpre + 'homdgcat-res/Weapon/UI_EquipIcon_Pole_Morax_Awaken.png';
-                                                            break;
-                                                        case 'Bow': 
-                                                            var imgp = imgpre + 'homdgcat-res/Weapon/UI_EquipIcon_Bow_Widsith_Awaken.png';
-                                                            break;
-                                                        default: 
-                                                            var imgp = imgpre + 'homdgcat-res/monster/keq.png';
-                                                            break;
-                                                    }
-                                                    return imgp
-                                                },
-                                                style: {
-                                                    height: '60px',
-                                                    display: 'block',
-                                                    margin: 'auto'
-                                                }
-                                            },
-                                            style: {
-                                                'text-align': 'center'
-                                            }
-                                        },
-                                        {
-                                            td: function (p) {
-                                                return p.data.ShowStats.HP
-                                            },
-                                            style: {
-                                                'text-align': 'center'
-                                            }
-                                        },
-                                        {
-                                            td: function (p) {
-                                                return p.data.ShowStats.ATK
-                                            },
-                                            style: {
-                                                'text-align': 'center'
-                                            }
-                                        },
-                                        {
-                                            td: function (p) {
-                                                return p.data.ShowStats.DEF
-                                            },
-                                            style: {
-                                                'text-align': 'center'
-                                            }
-                                        },
-                                        {
-                                            td: function (p) {
-                                                return p.data.ShowStats.Norm
-                                            },
-                                            style: {
-                                                'text-align': 'center'
-                                            }
-                                        },
-                                        {
-                                            td: function (p) {
-                                                promote_value = p.data.ShowStats.Custom
-                                                if (!p.data.CustomPromote) {
-                                                    return "-"
-                                                }
-                                                promote_config = computer_.AvatarCustomPromoteConfig[p.data.CustomPromote]
-                                                if (promote_config.ShowType === "p") {
-                                                    promote_value = (promote_value * 100).toFixed(1).toString() + "%"
-                                                } else {
-                                                    promote_value = promote_value.toFixed(1).toString()
-                                                }
-                                                return promote_value + " " + promote_config.Text[lang]
-                                            },
-                                            style: {
-                                                'padding': '15px'
-                                            }
-                                        },
-                                    ],
-                                    click: function (p) {
-                                        cur_avatar_id = p.org_data._id
-                                        console.log(cur_avatar_id)
-                                        avatar_stat_ver = 0
-                                        is_calc = 1
-                                        talk_state = 0
-                                        poplayer({
-                                            header: '<span id="h_">' + p.org_data.Name[lang] + pop_ver + computer_.MiscText.Avatar_Table_Title_Extra[lang] + '</span>',
-                                            width: '100%',
-                                            data: p.org_data,
-                                            template: [
-                                                {
-                                                    section: function (g) {
-                                                        current_name = g.data._name
-                                                        avatar_codename = g.data._name
-                                                        $(g.container).render({
-                                                            data: computer_.MiscText.Avatar_Info_Select,
-                                                            template: {
-                                                                span: `[[${lang}]]`,
-                                                                a: { 'data-s': `[[${'EN'}]]` },
-                                                                click: function (d) {
-                                                                    if ($(d.sender).hasClass('active')) {
-                                                                        return
-                                                                    }
-                                                                    if (ou1 != undefined) clearInterval(ou1)
-                                                                    if (ou2 != undefined) clearInterval(ou2)
-                                                                    var text = $(d.sender).attr('data-s');
-                                                                    if (text == "Basic Info") {
-                                                                        is_calc = 1
-                                                                    } else {
-                                                                        is_calc = 0
-                                                                    }
-                                                                    $(d.sender).addClass('active').siblings('span').removeClass('active');
-                                                                    renderInfoPre(avatar_codename, text)
-                                                                }
-                                                            }
-                                                        })
-                                                        $(g.container).find('span').eq(0).addClass('active');
-                                                    },
-                                                    class: 'a_select'
-                                                },
-                                                {
-                                                    section: '',
-                                                    class: 'a_data',
-                                                    style: {
-                                                        'justify-content': 'space-evenly',
-                                                        'display': 'flex',
-                                                        'flex-wrap': 'wrap'
-                                                    }
-                                                },
-                                                {
-                                                    section: '',
-                                                    class: 'a_talk',
-                                                    style: {
-                                                        'justify-content': 'space-evenly',
-                                                        'display': 'flex',
-                                                        'flex-wrap': 'wrap',
-                                                        'display': 'none',
-                                                        'margin-bottom': '800px'
-                                                    }
-                                                }
-                                            ]
-                                        });
-                                        avatar_id = p.org_data._id
-                                        renderInfoPre(p.org_data._name, "Basic Info")
-                                        talk_need_init = 1
-                                        acs_cache = _AvatarCostumeStory[0].Data
+                        img: imgpre + `homdgcat-res/Avatar/[[Icon]].png`,
+                        class: 'avatar-head'
+                    },
+                    {
+                        p: `[[Name/${lang}]]`,
+                        style: {
+                            color: function (p) {
+                                elem = computer_.ElemNameConfig[p.data.Element]
+                                return colors[elem.Color]
+                            },
+                            'font-weight': 'bold'
+                        },
+                        class: 'avatar-name'
+                    },
+                    {
+                        p: `[[Title/${lang}]]`,
+                        class: 'avatar-title',
+                        when: r == 0
+                    },
+                    {
+                        p: [
+                            {
+                                span: [
+                                    {
+                                        img: imgpre + 'homdgcat-res/AvatarSkill/_HP.png',
+                                        class: 'avatar-staticon'
                                     },
-                                    style: {
-                                        'cursor': 'pointer',
-                                        'background-color': function (d) {
-                                            if (d.data._id == 42) return '#FFD2FF'
-                                            return ''
-                                        }
+                                    `[[ShowStats/HP]]`
+                                ],
+                                class: 'avatar-stat'
+                            },
+                            {
+                                span: [
+                                    {
+                                        img: imgpre + 'homdgcat-res/AvatarSkill/_ATK.png',
+                                        class: 'avatar-staticon'
                                     },
-                                    a: {
-                                        'data-id': function (d) {
-                                            return d.data._id
-                                        },
-                                        'data-name': function (d) {
-                                            return d.data._name
-                                        },
-                                        'data-namech': function (d) {
-                                            return d.data.Name.CH
-                                        },
-                                        'data-nameen': function (d) {
-                                            return d.data.Name.EN
-                                        }
+                                    `[[ShowStats/ATK]]`
+                                ],
+                                class: 'avatar-stat'
+                            },
+                            {
+                                span: [
+                                    {
+                                        img: imgpre + 'homdgcat-res/AvatarSkill/_DEF.png',
+                                        class: 'avatar-staticon'
+                                    },
+                                    `[[ShowStats/DEF]]`
+                                ],
+                                class: 'avatar-stat'
+                            }
+                        ],
+                        when: r != 0
+                    },
+                    {
+                        div: [
+                            {
+                                img: function (p) {
+                                    avname = p.data.Element
+                                    return imgpre + 'homdgcat-res/Csxylic/' + avname + '.png'
+                                },
+                                style: {
+                                    width: '30%',
+                                    'max-width': '48px',
+                                    margin: '0px',
+                                },
+                            },
+                            {
+                                img: function (p) {
+                                    avname = computer_.AvatarWeaponConfig[p.data.Weapon].EN
+                                    switch (avname) {
+                                        case 'Sword': 
+                                            var imgp = imgpre + 'homdgcat-res/AvatarSkill/Skill_A_01.png';
+                                            break;
+                                        case 'Claymore': 
+                                            var imgp = imgpre + 'homdgcat-res/AvatarSkill/Skill_A_04.png';
+                                            break;
+                                        case 'Catalyst': 
+                                            var imgp = imgpre + 'homdgcat-res/AvatarSkill/Skill_A_Catalyst_MD.png';
+                                            break;
+                                        case 'Polearm': 
+                                            var imgp = imgpre + 'homdgcat-res/AvatarSkill/Skill_A_03.png';
+                                            break;
+                                        case 'Bow': 
+                                            var imgp = imgpre + 'homdgcat-res/AvatarSkill/Skill_A_02.png';
+                                            break;
+                                        default: 
+                                            var imgp = imgpre + 'homdgcat-res/monster/keq.png';
+                                            break;
                                     }
+                                    return imgp
+                                },
+                                style: {
+                                    width: '30%',
+                                    'max-width': '48px',
+                                    margin: '0px',
                                 }
-                            })
+                            },
+                        ],
+                        when: r == 0,
+                        style: {
+                            display: 'flex',
+                            'justify-content': 'center',
+                            'flex-wrap': 'wrap',
+                            'margin-top': '10px',
+                            'margin-bottom': '10px'
                         }
                     }
                 ],
-                style: {
-                    width: '100%',
-                    'transform': 'rotateX(180deg)',
+                class: 'avatar-card',
+                data: _AvatarInfoConfig,
+                click: function (p) {
+                    cur_avatar_id = p.org_data._id
+                    console.log(cur_avatar_id)
+                    avatar_stat_ver = 0
+                    is_calc = 1
+                    talk_state = 0
+                    poplayer({
+                        header: '<span id="h_">' + p.org_data.Name[lang] + pop_ver + computer_.MiscText.Avatar_Table_Title_Extra[lang] + '</span>',
+                        width: '100%',
+                        data: p.org_data,
+                        template: [
+                            {
+                                section: function (g) {
+                                    current_name = g.data._name
+                                    avatar_codename = g.data._name
+                                    $(g.container).render({
+                                        data: computer_.MiscText.Avatar_Info_Select,
+                                        template: {
+                                            span: `[[${lang}]]`,
+                                            a: { 'data-s': `[[${'EN'}]]` },
+                                            click: function (d) {
+                                                if ($(d.sender).hasClass('active')) {
+                                                    return
+                                                }
+                                                if (ou1 != undefined) clearInterval(ou1)
+                                                if (ou2 != undefined) clearInterval(ou2)
+                                                var text = $(d.sender).attr('data-s');
+                                                if (text == "Basic Info") {
+                                                    is_calc = 1
+                                                } else {
+                                                    is_calc = 0
+                                                }
+                                                $(d.sender).addClass('active').siblings('span').removeClass('active');
+                                                renderInfoPre(avatar_codename, text)
+                                            }
+                                        }
+                                    })
+                                    $(g.container).find('span').eq(0).addClass('active');
+                                },
+                                class: 'a_select'
+                            },
+                            {
+                                section: '',
+                                class: 'a_data',
+                                style: {
+                                    'justify-content': 'space-evenly',
+                                    'display': 'flex',
+                                    'flex-wrap': 'wrap'
+                                }
+                            },
+                            {
+                                section: '',
+                                class: 'a_talk',
+                                style: {
+                                    'justify-content': 'space-evenly',
+                                    'display': 'flex',
+                                    'flex-wrap': 'wrap',
+                                    'display': 'none',
+                                    'margin-bottom': '800px'
+                                }
+                            }
+                        ]
+                    });
+                    avatar_id = p.org_data._id
+                    renderInfoPre(p.org_data._name, "Basic Info")
+                    talk_need_init = 1
+                    acs_cache = _AvatarCostumeStory[0].Data
                 },
-                class: 'main-table'
+                a: {
+                    'data-id': function (d) {
+                        return d.data._id
+                    },
+                    'data-name': function (d) {
+                        return d.data._name
+                    },
+                    'data-namech': function (d) {
+                        return d.data.Name.CH
+                    },
+                    'data-nameen': function (d) {
+                        return d.data.Name.EN
+                    }
+                }
             },
-            style: {
-                'overflow-x': 'scroll',
-                'transform': 'rotateX(180deg)',
-            },
-            class: 'avatar-table'
+            class: 'avatar-area'
         })
+
         if ($('#AVID').val()) {
             var come_id = $('#AVID').val()
             try {
-                if ($("tr[data-id='" + come_id + "']").length) {
-                    $("tr[data-id='" + come_id + "']").click()
-                } else if ($("tr[data-name='" + come_id + "']").length) {
-                    $("tr[data-name='" + come_id + "']").click()
-                } else if ($("tr[data-namech='" + come_id + "']").length) {
-                    $("tr[data-namech='" + come_id + "']").click()
+                if ($("div[data-id='" + come_id + "']").length) {
+                    $("div[data-id='" + come_id + "']").click()
+                } else if ($("div[data-name='" + come_id + "']").length) {
+                    $("div[data-name='" + come_id + "']").click()
+                } else if ($("div[data-namech='" + come_id + "']").length) {
+                    $("div[data-namech='" + come_id + "']").click()
                 } else {
-                    $("tr[data-nameen='" + come_id + "']").click()
+                    $("div[data-nameen='" + come_id + "']").click()
                 }
             } catch (err) {}
             renderWeaponInfoFind($('#AVID').val())
             doRelicFind($('#AVID').val())
+            $('#AVID').val('')
         }
+        
     }
 
     $("body").on("click", ".tlsub", function () {
@@ -699,6 +626,16 @@ $(function () {
                                 },
                                 {
                                     div: [
+                                        {
+                                            p: function (k) {
+                                                return (k.data.Grade == 5) ? '★ ★ ★ ★ ★' : '★ ★ ★ ★'
+                                            },
+                                            style: {
+                                                width: '100%',
+                                                'text-align': 'center',
+                                                'font-size': '20px'
+                                            }
+                                        },
                                         {
                                             img: function (k) {
                                                 return imgpre + 'homdgcat-res/Gacha/' + k.data.Icon.replace("AvatarIcon", "Gacha_AvatarImg") + '.png'
@@ -927,6 +864,56 @@ $(function () {
                             div: [
                                 {
                                     div: {
+                                        p: computer_.MiscText.Avatar_Stats[lang]
+                                    },
+                                    class: 'a_section_head',
+                                },
+                                {
+                                    div: [
+                                        {
+                                            div: [
+                                                {
+                                                    input: 'level',
+                                                    a: {
+                                                        type: 'number',
+                                                        placeholder: '1~90',
+                                                        value: '90',
+                                                        min: '1',
+                                                        max: '90'
+                                                    }
+                                                },
+                                                {
+                                                    button: computer_.MiscText.Avatar_IsPromote[0][lang],
+                                                    class: 'promote',
+                                                    click: function () {
+                                                        isp = 1 - isp
+                                                        $('.promote').html(computer_.MiscText.Avatar_IsPromote[isp][lang])
+                                                        cur_level = $('input[name=level]').val()
+                                                        if (cur_level > 0 && cur_level <= 90) {
+                                                            $('.avatar_stat').html(calcstats(cur_level, this_avatar))
+                                                        }
+                                                    }
+                                                }
+                                            ],
+                                            style: {
+                                                'display': 'flex',
+                                                'justify-content': 'space-between',
+                                            }
+                                        },
+                                        {
+                                            div: calcstats(90, this_avatar),
+                                            class: 'avatar_stat'
+                                        }
+                                    ],
+                                    class: 'a_section_content'
+                                },
+                            ],
+                            class: 'a_section_smallsmall'
+                        },
+                        {
+                            div: [
+                                {
+                                    div: {
                                         p: computer_.MiscText.Avatar_BasicInfo_Info[lang]
                                     },
                                     class: 'a_section_head'
@@ -973,56 +960,6 @@ $(function () {
                                                 return computer_.MiscText.Avatar_BasicInfo_2_4[lang] + avatar_color + _AvatarPromoteConfig[k.data._name].CV.KR[lang] + "</b></color>"
                                             }
                                         },
-                                    ],
-                                    class: 'a_section_content'
-                                },
-                            ],
-                            class: 'a_section_smallsmall'
-                        },
-                        {
-                            div: [
-                                {
-                                    div: {
-                                        p: computer_.MiscText.Avatar_Stats[lang]
-                                    },
-                                    class: 'a_section_head',
-                                },
-                                {
-                                    div: [
-                                        {
-                                            div: [
-                                                {
-                                                    input: 'level',
-                                                    a: {
-                                                        type: 'number',
-                                                        placeholder: '1~90',
-                                                        value: '90',
-                                                        min: '1',
-                                                        max: '90'
-                                                    }
-                                                },
-                                                {
-                                                    button: computer_.MiscText.Avatar_IsPromote[0][lang],
-                                                    class: 'promote',
-                                                    click: function () {
-                                                        isp = 1 - isp
-                                                        $('.promote').html(computer_.MiscText.Avatar_IsPromote[isp][lang])
-                                                        cur_level = $('input[name=level]').val()
-                                                        if (cur_level > 0 && cur_level <= 90) {
-                                                            $('.avatar_stat').html(calcstats(cur_level, this_avatar))
-                                                        }
-                                                    }
-                                                }
-                                            ],
-                                            style: {
-                                                'display': 'flex',
-                                                'justify-content': 'space-between',
-                                            }
-                                        },
-                                        {
-                                            div: calcstats(90, this_avatar),
-                                            class: 'avatar_stat'
-                                        }
                                     ],
                                     class: 'a_section_content'
                                 },
@@ -2510,157 +2447,80 @@ $(function () {
 
     function weaponResult(o, w) {
         return {
-            table: [
-                {
-                    thead: [{
-                        tr: function (d) {
-                            $(d.container).render({
-                                data: computer_.MiscText.Avatar_Weapon_Header,
-                                template: {
-                                    th: `[[${lang}]]`
-                                }
-                            })
-                        }
-                    }],
-                    class: 'weapon-head'
-                },
-                {
-                    tbody: function (d) {
-                        _WeaponConfig.forEach(function (wpn) {
-                            if (wpn.Type == o + 1 && wpn.Rank == w) {
-                                $(d.container).render({
-                                    data: wpn,
-                                    template: {
-                                        tr: [
-                                            {
-                                                td: function (k) {
-                                                    rlname = k.data.Icons[0]
-                                                    $(k.container).render({
-                                                        template: {
-                                                            img: imgpre + 'homdgcat-res/Weapon/' + rlname + '.png',
-                                                            class: 'weaponpic'
-                                                        }
-                                                    })
-                                                },
-                                                style: {
-                                                    padding: '0px'
-                                                }
-                                            },
-                                            {
-                                                td: function (k) {
-                                                    rlname = k.data.Icons[1]
-                                                    $(k.container).render({
-                                                        template: {
-                                                            img: imgpre + 'homdgcat-res/Weapon/' + rlname + '.png',
-                                                            class: 'weaponpic'
-                                                        }
-                                                    })
-                                                },
-                                                style: {
-                                                    padding: '0px'
-                                                }
-                                            },
-                                            {
-                                                td: `[[Name/${lang}]]`,
-                                                style: {
-                                                    'text-align': 'center'
-                                                }
-                                            },
-                                            {
-                                                td: function (k) {
-                                                    return k.data.Stat.toFixed(3)
-                                                },
-                                                style: {
-                                                    'text-align': 'center'
-                                                }
-                                            },
-                                            {
-                                                td: function (p) {
-                                                    promote_value = p.data.CustomStat
-                                                    if (!p.data.Custom) {
-                                                        return "-"
-                                                    }
-                                                    promote_config = computer_.AvatarCustomPromoteConfig[p.data.Custom]
-                                                    if (promote_config.ShowType === "p") {
-                                                        promote_value = (promote_value * 100).toFixed(1).toString() + "%"
-                                                    } else {
-                                                        promote_value = promote_value.toFixed(1).toString()
-                                                    }
-                                                    return promote_value + " " + promote_config.Text[lang]
-                                                },
-                                                style: {
-                                                    'padding': '0px 15px'
-                                                }
-                                            },
-                                            {
-                                                td: {
-                                                    div: [
-                                                        {
-                                                            img: function (p) {
-                                                                return imgpre + 'homdgcat-res/Mat/UI_ItemIcon_' + p.data.AscMatID + '.png'
-                                                            },
-                                                            style: {
-                                                                height: '40px',
-                                                                display: 'block',
-                                                                margin: 'auto'
-                                                            }
-                                                        },
-                                                        {
-                                                            p: function (p) {
-                                                                return computer_.AvatarNationConfig[weapon_asc[p.data.AscMatID][0]].Text[lang] + "<br>" + computer_.WeaponTalentConfig[weapon_asc[p.data.AscMatID][1]][lang]
-                                                            },
-                                                            style: {
-                                                                'text-align': 'center',
-                                                            }
-                                                        },
-                                                    ]
-                                                }
-                                            },
-                                            {
-                                                td: {
-                                                    div: [
-                                                        {
-                                                            img: function (p) {
-                                                                return imgpre + 'homdgcat-res/monster/' + p.data.MonIcons[0] + '.png'
-                                                            },
-                                                            style: {
-                                                                height: '60px'
-                                                            }
-                                                        },
-                                                        {
-                                                            img: function (p) {
-                                                                return imgpre + 'homdgcat-res/monster/' + p.data.MonIcons[1] + '.png'
-                                                            },
-                                                            style: {
-                                                                height: '60px'
-                                                            }
-                                                        },
-                                                    ],
-                                                    style: {
-                                                        'width': '100%',
-                                                        'display': 'flex',
-                                                        'justify-content': 'space-evenly'
-                                                    }
-                                                }
-                                            },
-                                        ],
-                                        style: {
-                                            'cursor': 'pointer'
-                                        },
-                                        click: function () {
-                                            if (click_cd) return
-                                            click_cd = 1
-                                            setTimeout(function () { click_cd = 0 }, 1500)
-                                            renderWeaponInfo(wpn)
-                                        }
+            div: function (d) {
+                _WeaponConfig.forEach(function (wpn) {
+                    if (wpn.Type == o + 1 && wpn.Rank == w) {
+                        $(d.container).render({
+                            div: [
+                                {
+                                    img: function (k) {
+                                        rlname = k.data.Icons[0]
+                                        return imgpre + `homdgcat-res/Weapon/${rlname}.png`
+                                    },
+                                    style: {
+                                        width: '50%',
+                                        'min-width': '80px'
                                     }
-                                })
+                                },
+                                {
+                                    img: function (k) {
+                                        rlname = k.data.Icons[1]
+                                        return imgpre + `homdgcat-res/Weapon/${rlname}.png`
+                                    },
+                                    style: {
+                                        width: '50%',
+                                        'min-width': '80px'
+                                    }
+                                },
+                                {
+                                    p: `[[Name/${lang}]]`,
+                                    style: {
+                                        'font-weight': 'bold'
+                                    },
+                                    class: 'avatar-name2'
+                                },
+                                {
+                                    p: [
+                                        {
+                                            img: imgpre + 'homdgcat-res/AvatarSkill/_ATK.png',
+                                            class: 'weapon-atk'
+                                        },
+                                        function (k) {
+                                            return k.data.Stat.toFixed(0)
+                                        }
+                                    ],
+                                    class: 'avatar-title2'
+                                },
+                                {
+                                    p: function (p) {
+                                        promote_value = p.data.CustomStat
+                                        if (!p.data.Custom) {
+                                            return "-"
+                                        }
+                                        promote_config = computer_.AvatarCustomPromoteConfig[p.data.Custom]
+                                        if (promote_config.ShowType === "p") {
+                                            promote_value = (promote_value * 100).toFixed(1).toString() + "%"
+                                        } else {
+                                            promote_value = promote_value.toFixed(1).toString()
+                                        }
+                                        return "+" + promote_value + " " + promote_config.Text[lang]
+                                    },
+                                    class: 'avatar-title2'
+                                },
+                            ],
+                            data: wpn,
+                            class: 'avatar-card2',
+                            click: function () {
+                                if (click_cd) return
+                                click_cd = 1
+                                setTimeout(function () { click_cd = 0 }, 1500)
+                                renderWeaponInfo(wpn)
                             }
                         })
-                    },
-                }
-            ],
-            class: 'weapon-table'
+                    }
+                })
+            },
+            class: 'avatar-area'
         }
     }
 
@@ -3040,7 +2900,7 @@ $(function () {
         console.log(1)
         poplayer({
             header: computer_.MiscText.Avatar_Norm_Title[lang] + computer_.MiscText.Avatar_Table_Title_Extra[lang],
-            width: '70%',
+            width: '95%',
             class: 'norm',
             template: [{
                 p: computer_.MiscText.Avatar_Norm_Info[lang],

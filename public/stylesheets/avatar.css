@@ -67,7 +67,7 @@ container {
 }
 
 .content {
-    padding: 20px 5px 5px;
+    padding: 20px 0px 5px;
     width: 100%;
     background-color: rgba(255, 255, 255, 1);
     min-height: 600px;
@@ -78,7 +78,7 @@ popdialog {
 }
 
 .norm popdialog {
-    height: 40%;
+    height: 70%;
 }
 
 popheader {
@@ -221,7 +221,7 @@ popbody {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    margin-bottom: 15px;
+    margin: 0px 10px 15px;
 }
 
 .generation schedule {
@@ -658,6 +658,108 @@ tr {
     margin: 0 0 0 5px;
 }
 
+.avatar-area {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.avatar-card, .avatar-card2 {
+    border-radius: 5px;
+    padding: 14px;
+    margin-top: 7px;
+    margin-bottom: 13px;
+    width: calc(100% - 10px);
+    line-height: 2;
+    background-color: #27363E;
+    color: #dddddd;
+    position: relative;
+    text-align: center;
+    cursor: pointer;
+}
+
+.avatar-head {
+    height: 100px;
+    margin: auto;
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 6px;
+}
+
+.avatar-name {
+    font-size: 16px;
+} 
+.avatar-name2 {
+    font-size: 17px;
+}  
+.avatar-title {
+    font-size: 14px;
+} 
+.avatar-title2 {
+    font-size: 14px;
+} 
+.weapon-atk {
+    height: 26px;
+    position: relative;
+    top: 7px;
+    margin-right: 4px;
+}
+.avatar-stat {
+    font-size: 13px;
+    margin-left: 4px;
+    margin-right: 4px;
+    white-space: pre;
+}
+.avatar-staticon {
+    height: 23px;
+    width: 23px;
+    position: relative;
+    top: 6px;
+}
+
+.Norm {
+    font-size: 15px;
+    text-align: center;
+    margin: auto;
+    position: relative;
+    top: -5px;
+    padding: 10px 20px;
+    width: max-content;
+    cursor: pointer;
+}
+
+schedule.selected {
+    border-width: 2px;
+    height: 63px;
+}
+schedule.selected:hover {
+    border: 2px solid red
+}
+schedule.selected img {
+    position: relative;
+    top: -2px;
+}
+
+.sort_w {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 5px 0px 15px;
+}
+
+.sort_w schedule {
+    padding: 0;
+    width: calc(20% - 12px);
+    margin: 0;
+}
+
+.sort_w img {
+    height: 100%;
+    max-height: 60px;
+    max-width: 100%;
+    aspect-ratio: 1;
+}
+
 @media screen and (min-width: 900px) {
     .relic-head tr :nth-child(2) {
         width: 12%;
@@ -681,6 +783,39 @@ tr {
 }
 
 @media screen and (min-width: 500px) and (max-width: 800px) {
+    schedule.selected {
+        border-width: 2px;
+        height: 73px;
+    }
+    
+    .avatar-name {
+        font-size: 16px;
+    } 
+    .avatar-name2 {
+        font-size: 17px;
+    }  
+    .avatar-title {
+        font-size: 14px;
+    }
+    .avatar-title2 {
+        font-size: 14px;
+    } 
+    .weapon-atk {
+        height: 26px;
+        top: 7px;
+    }
+
+    .avatar-head {
+        height: 120px;
+    }
+
+    .avatar-card {
+        width: calc(33% - 10px);
+    }
+    .avatar-card2 {
+        width: calc(50% - 10px);
+    }
+
     .head_left {
         width: 45px;
         height: 45px;
@@ -713,7 +848,7 @@ tr {
     }
 
     .content {
-        padding: 20px 10px 10px;
+        padding: 20px 0px 10px;
     }
 
     .avatar-table {
@@ -822,7 +957,73 @@ tr {
     }
 }
 
+@media screen and (min-width: 800px) and (max-width: 1000px) {
+    .avatar-name {
+        font-size: 17px;
+    }
+    .avatar-name2 {
+        font-size: 18px;
+    }  
+    .avatar-title {
+        font-size: 15px;
+    }
+    .avatar-title2 {
+        font-size: 15px;
+    } 
+    .weapon-atk {
+        height: 28px;
+        top: 8px;
+    }
+    .avatar-card {
+        width: calc(25% - 12px);
+    }
+    .avatar-card2 {
+        width: calc(33% - 10px);
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    .avatar-name {
+        font-size: 18px;
+    }
+    .avatar-name2 {
+        font-size: 18px;
+    }  
+    .avatar-title {
+        font-size: 16px;
+    }
+    .avatar-title2 {
+        font-size: 15px;
+    } 
+    .weapon-atk {
+        height: 30px;
+        top: 9px;
+    }
+    .avatar-card {
+        width: calc(20% - 14px);
+    }
+    .avatar-card2 {
+        width: calc(25% - 12px);
+    }
+}
+
 @media screen and (min-width: 800px) {
+    schedule.selected {
+        border-width: 2px;
+        height: 83px;
+    }
+    .avatar-stat {
+        font-size: 14px;
+    }
+    .avatar-staticon {
+        height: 27px;
+        width: 27px;
+        top: 8px;
+    }
+    .avatar-head {
+        height: 140px;
+    }
+
     .head_left {
         width: 50px;
         height: 50px;
@@ -855,7 +1056,7 @@ tr {
     }
 
     .content {
-        padding: 20px;
+        padding-top: 20px;
     }
 
     .avatar-table {
