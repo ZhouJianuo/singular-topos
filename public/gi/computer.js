@@ -1171,8 +1171,8 @@ var _Kingdoms = [
             {
                 "ID": 11006,
                 "Name": {
-                    "CH": "弱化",
-                    "EN": "Weakened"
+                    "CH": "深渊",
+                    "EN": "Abyss"
                 },
                 "Monsters": [
                     5102,
