@@ -38,6 +38,16 @@
     src: url('../fonts/Deshret.otf');
 }
 
+.hover-shadow {
+    position: relative;
+}
+
+.hover-shadow:hover {
+    box-shadow: 8px 8px 5px 0px rgba(0, 0, 0, 0.2);
+    left: -3px;
+    top: -3px;
+}
+
 * {
     margin: 0;
     padding: 0;
