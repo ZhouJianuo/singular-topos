@@ -33,6 +33,13 @@ var _AchievementData = [
                         "EN": "4.4"
                     },
                     "ID": "4.4"
+                },
+                {
+                    "Name": {
+                        "CH": "4.5",
+                        "EN": "4.5"
+                    },
+                    "ID": "4.5"
                 }
             ],
             "TotalPrimo": 9095,
