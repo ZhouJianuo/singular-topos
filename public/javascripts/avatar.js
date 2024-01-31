@@ -404,7 +404,7 @@ $(function () {
                         }
                     }
                 ],
-                class: 'avatar-card',
+                class: 'avatar-card hover-shadow',
                 data: _AvatarInfoConfig,
                 click: function (p) {
                     cur_avatar_id = p.org_data._id
@@ -2509,7 +2509,7 @@ $(function () {
                                 },
                             ],
                             data: wpn,
-                            class: 'avatar-card2',
+                            class: 'avatar-card2 hover-shadow',
                             click: function () {
                                 if (click_cd) return
                                 click_cd = 1
