@@ -4,7 +4,7 @@ var _AchievementData = [
     {
         "_id": 0,
         "Data": {
-            "TotalNum": 1186,
+            "TotalNum": 1189,
             "Vers": [
                 {
                     "Name": {
@@ -35,8 +35,8 @@ var _AchievementData = [
                     "ID": "4.4"
                 }
             ],
-            "TotalPrimo": 9065,
-            "TotalNumPre": 1140
+            "TotalPrimo": 9095,
+            "TotalNumPre": 1143
         }
     }
 ]

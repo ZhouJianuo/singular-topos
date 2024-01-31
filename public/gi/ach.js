@@ -4,7 +4,7 @@ var _AchievementData = [
     {
         "_id": 0,
         "Data": {
-            "TotalNum": 1186,
+            "TotalNum": 1189,
             "Vers": [
                 {
                     "Name": {
@@ -35,8 +35,8 @@ var _AchievementData = [
                     "ID": "4.4"
                 }
             ],
-            "TotalPrimo": 9065,
-            "TotalNumPre": 1140
+            "TotalPrimo": 9095,
+            "TotalNumPre": 1143
         }
     }
 ]
@@ -57,8 +57,8 @@ var _AchievementGroup = [
             "CH": "心跳的记忆",
             "EN": "Memories of the Heart"
         },
-        "Num": 54,
-        "Reward": 540
+        "Num": 57,
+        "Reward": 570
     },
     {
         "_id": 1,
@@ -2587,6 +2587,54 @@ var _Achievement = [
         "Ver": "",
         "Hidden": true,
         "Reward": 5,
+        "Total": 1
+    },
+    {
+        "_id": 84154,
+        "Group": 17,
+        "Name": {
+            "CH": "",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "",
+            "EN": ""
+        },
+        "Ver": "4.5",
+        "Hidden": true,
+        "Reward": 5,
+        "Total": 1
+    },
+    {
+        "_id": 84153,
+        "Group": 17,
+        "Name": {
+            "CH": "",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "",
+            "EN": ""
+        },
+        "Ver": "4.5",
+        "Hidden": true,
+        "Reward": 5,
+        "Total": 1
+    },
+    {
+        "_id": 84152,
+        "Group": 17,
+        "Name": {
+            "CH": "",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "",
+            "EN": ""
+        },
+        "Ver": "4.5",
+        "Hidden": false,
+        "Reward": 20,
         "Total": 1
     },
     {

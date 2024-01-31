@@ -1272,187 +1272,8 @@ var _Kingdoms = [
     {
         "ID": 23,
         "Name": {
-            "CH": "4.3 11层",
-            "EN": "4.3 F11"
-        },
-        "Disorder": {
-            "CH": "队伍中所有角色获得75%岩元素伤害加成。",
-            "EN": "All party members receive a 75% Geo DMG Bonus."
-        },
-        "Classes": [
-            {
-                "ID": 12111,
-                "Name": {
-                    "CH": "11-1 上半",
-                    "EN": "11-1 Upper"
-                },
-                "Interval": "11-1",
-                "Monsters": [
-                    106,
-                    107,
-                    109,
-                    111,
-                    113
-                ]
-            },
-            {
-                "ID": 12112,
-                "Name": {
-                    "CH": "11-1 下半",
-                    "EN": "11-1 Lower"
-                },
-                "Interval": "11-1",
-                "Monsters": [
-                    607,
-                    603,
-                    506,
-                    503,
-                    5020
-                ]
-            },
-            {
-                "ID": 12121,
-                "Name": {
-                    "CH": "11-2 上半",
-                    "EN": "11-2 Upper"
-                },
-                "Interval": "11-2",
-                "Monsters": [
-                    61601,
-                    61602,
-                    61603,
-                    40103
-                ]
-            },
-            {
-                "ID": 12122,
-                "Name": {
-                    "CH": "11-2 下半",
-                    "EN": "11-2 Lower"
-                },
-                "Interval": "11-2",
-                "Monsters": [
-                    10402,
-                    40302
-                ]
-            },
-            {
-                "ID": 12131,
-                "Name": {
-                    "CH": "11-3 上半",
-                    "EN": "11-3 Upper"
-                },
-                "Interval": "11-3",
-                "Monsters": [
-                    40662,
-                    40660
-                ]
-            },
-            {
-                "ID": 12132,
-                "Name": {
-                    "CH": "11-3 下半",
-                    "EN": "11-3 Lower"
-                },
-                "Interval": "11-3",
-                "Monsters": [
-                    61101
-                ]
-            }
-        ]
-    },
-    {
-        "ID": 25,
-        "Name": {
-            "CH": "4.3 12层",
-            "EN": "4.3 F12"
-        },
-        "Disorder": {
-            "CH": "仅在此层，地脉的涌流平缓通顺。",
-            "EN": "For this floor only, the Ley Line flow will be normal."
-        },
-        "Classes": [
-            {
-                "ID": 12211,
-                "Name": {
-                    "CH": "12-1 上半",
-                    "EN": "12-1 Upper"
-                },
-                "Interval": "12-1",
-                "Monsters": [
-                    40211
-                ]
-            },
-            {
-                "ID": 12212,
-                "Name": {
-                    "CH": "12-1 下半",
-                    "EN": "12-1 Lower"
-                },
-                "Interval": "12-1",
-                "Monsters": [
-                    701
-                ]
-            },
-            {
-                "ID": 12221,
-                "Name": {
-                    "CH": "12-2 上半",
-                    "EN": "12-2 Upper"
-                },
-                "Interval": "12-2",
-                "Monsters": [
-                    40101,
-                    40103,
-                    40662
-                ]
-            },
-            {
-                "ID": 12222,
-                "Name": {
-                    "CH": "12-2 下半",
-                    "EN": "12-2 Lower"
-                },
-                "Interval": "12-2",
-                "Monsters": [
-                    115,
-                    602,
-                    60401,
-                    60402,
-                    10205
-                ]
-            },
-            {
-                "ID": 12231,
-                "Name": {
-                    "CH": "12-3 上半",
-                    "EN": "12-3 Upper"
-                },
-                "Interval": "12-3",
-                "Monsters": [
-                    512
-                ]
-            },
-            {
-                "ID": 12232,
-                "Name": {
-                    "CH": "12-3 下半",
-                    "EN": "12-3 Lower"
-                },
-                "Interval": "12-3",
-                "Monsters": [
-                    10208,
-                    54103,
-                    54104
-                ]
-            }
-        ]
-    },
-    {
-        "ID": 19,
-        "Name": {
-            "CH": "<b>4.4v5 11层</b>",
-            "EN": "<b>4.4v5 F11</b>"
+            "CH": "4.4 11层",
+            "EN": "4.4 F11"
         },
         "Disorder": {
             "CH": "队伍中所有角色获得75%风元素伤害加成。",
@@ -1542,10 +1363,10 @@ var _Kingdoms = [
         ]
     },
     {
-        "ID": 21,
+        "ID": 25,
         "Name": {
-            "CH": "<b>4.4v5 12层</b>",
-            "EN": "<b>4.4v5 F12</b>"
+            "CH": "4.4 12层",
+            "EN": "4.4 F12"
         },
         "Disorder": {
             "CH": "仅在此层，地脉的涌流平缓通顺。",
@@ -1621,6 +1442,161 @@ var _Kingdoms = [
                 "Interval": "12-3",
                 "Monsters": [
                     40303
+                ]
+            }
+        ]
+    },
+    {
+        "ID": 19,
+        "Name": {
+            "CH": "<b>4.5 11层</b>",
+            "EN": "<b>4.5 F11</b>"
+        },
+        "Disorder": {
+            "CH": "队伍中所有角色获得75%风元素伤害加成。",
+            "EN": "All party members receive a 75% Anemo DMG Bonus."
+        },
+        "Classes": [
+            {
+                "ID": 12111,
+                "Name": {
+                    "CH": "11-1 上半",
+                    "EN": "11-1 Upper"
+                },
+                "Interval": "11-1",
+                "Monsters": []
+            },
+            {
+                "ID": 12112,
+                "Name": {
+                    "CH": "11-1 下半",
+                    "EN": "11-1 Lower"
+                },
+                "Interval": "11-1",
+                "Monsters": []
+            },
+            {
+                "ID": 12121,
+                "Name": {
+                    "CH": "11-2 上半",
+                    "EN": "11-2 Upper"
+                },
+                "Interval": "11-2",
+                "Monsters": []
+            },
+            {
+                "ID": 12122,
+                "Name": {
+                    "CH": "11-2 下半",
+                    "EN": "11-2 Lower"
+                },
+                "Interval": "11-2",
+                "Monsters": []
+            },
+            {
+                "ID": 12131,
+                "Name": {
+                    "CH": "11-3 上半",
+                    "EN": "11-3 Upper"
+                },
+                "Interval": "11-3",
+                "Monsters": []
+            },
+            {
+                "ID": 12132,
+                "Name": {
+                    "CH": "11-3 下半",
+                    "EN": "11-3 Lower"
+                },
+                "Interval": "11-3",
+                "Monsters": []
+            }
+        ]
+    },
+    {
+        "ID": 21,
+        "Name": {
+            "CH": "<b>4.5 12层</b>",
+            "EN": "<b>4.5 F12</b>"
+        },
+        "Disorder": {
+            "CH": "仅在此层，地脉的涌流平缓通顺。",
+            "EN": "For this floor only, the ley line flow will be normal."
+        },
+        "Classes": [
+            {
+                "ID": 12211,
+                "Name": {
+                    "CH": "12-1 上半",
+                    "EN": "12-1 Upper"
+                },
+                "Interval": "12-1",
+                "Monsters": [
+                    30605,
+                    30606,
+                    21103
+                ]
+            },
+            {
+                "ID": 12212,
+                "Name": {
+                    "CH": "12-1 下半",
+                    "EN": "12-1 Lower"
+                },
+                "Interval": "12-1",
+                "Monsters": [
+                    61101
+                ]
+            },
+            {
+                "ID": 12221,
+                "Name": {
+                    "CH": "12-2 上半",
+                    "EN": "12-2 Upper"
+                },
+                "Interval": "12-2",
+                "Monsters": [
+                    607,
+                    605,
+                    606,
+                    60102,
+                    20802,
+                    20702,
+                    20701,
+                    20703
+                ]
+            },
+            {
+                "ID": 12222,
+                "Name": {
+                    "CH": "12-2 下半",
+                    "EN": "12-2 Lower"
+                },
+                "Interval": "12-2",
+                "Monsters": [
+                    40211
+                ]
+            },
+            {
+                "ID": 12231,
+                "Name": {
+                    "CH": "12-3 上半",
+                    "EN": "12-3 Upper"
+                },
+                "Interval": "12-3",
+                "Monsters": [
+                    40702
+                ]
+            },
+            {
+                "ID": 12232,
+                "Name": {
+                    "CH": "12-3 下半",
+                    "EN": "12-3 Lower"
+                },
+                "Interval": "12-3",
+                "Monsters": [
+                    40632
                 ]
             }
         ]
