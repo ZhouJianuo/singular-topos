@@ -596,6 +596,31 @@ var _SpiralAbyssSchedule = [
         ]
     },
     {
+        "Name": "4.5v1",
+        "Show": {
+            "CH": "4.5v1",
+            "EN": "4.5v1"
+        },
+        "Generation": 99,
+        "OpenTime": "2024/03/16 - 2024/04/30",
+        "Phases": [
+            86,
+            87,
+            88
+        ],
+        "Blessings": [
+            82,
+            83,
+            84
+        ],
+        "Floors": [
+            57,
+            58,
+            69,
+            70
+        ]
+    },
+    {
         "Name": "1",
         "Show": {
             "CH": "惊喜 1",
@@ -2740,6 +2765,36 @@ var _SpiralAbyssBlessingConfig = {
                 "ShockWaveDMG": 6
             }
         ]
+    },
+    "82": {
+        "Name": {
+            "CH": "迸裂之月",
+            "EN": "Splitting Moon"
+        },
+        "Desc": {
+            "CH": "角色创造岩元素创造物时，将在角色的位置<color style='color:#0000FF;'>释放冲击波</color>，对附近的敌人造成真实伤害，每6秒至多通过这种方式释放一次冲击波。",
+            "EN": "When a character created a Geo Construct, <color style='color:#0000FF;'>a shock wave will be unleashed</color> at the character's position, dealing True DMG to nearby opponents. This can be triggered once every 6s."
+        }
+    },
+    "83": {
+        "Name": {
+            "CH": "砾石之月",
+            "EN": "Gravel Moon"
+        },
+        "Desc": {
+            "CH": "角色累计对敌人造成3次岩元素伤害后，<color style='color:#0000FF;'>获得50%岩元素伤害加成</color>，持续10秒。每0.1秒至多计入一次岩元素伤害。",
+            "EN": "After a character deals 3 instances of Geo DMG to opponents, the character <color style='color:#0000FF;'>gains 50% Geo DMG Bonus</color> for 10s. At most one instance of Geo DMG can be counted every 0.1s."
+        }
+    },
+    "84": {
+        "Name": {
+            "CH": "箭风之月",
+            "EN": "Arrowgale Moon"
+        },
+        "Desc": {
+            "CH": "角色触发扩散反应后，队伍中所有角色的<color style='color:#0000FF;'>普通攻击、重击与下落攻击造成的伤害提升20%</color>，该效果持续10秒，每0.1秒至多触发一次，至多叠加3层，每层独立计时。",
+            "EN": "When a character triggers the Swirl reaction, all party members' <color style='color:#0000FF;'>Normal, Charged and Plunge Attack DMG is increased by 20%</color> for 10s, max 3 stacks.<br>This effect can be triggered once every 0.1s and each stack is timed independently."
+        }
     },
     "1001": {
         "Name": {
@@ -49497,19 +49552,23 @@ var _SpiralAbyssFloorConfig = {
                             },
                             {
                                 "ID": 50103,
-                                "Num": "a"
+                                "Num": "a",
+                                "a": 114514
                             },
                             {
                                 "ID": 50104,
-                                "Num": "b"
+                                "Num": "b",
+                                "b": 114514
                             },
                             {
                                 "ID": 50105,
-                                "Num": "c"
+                                "Num": "c",
+                                "c": 114514
                             },
                             {
                                 "ID": 50106,
-                                "Num": "d"
+                                "Num": "d",
+                                "d": 114514
                             }
                         ]
                     }
@@ -50175,6 +50234,235 @@ var _SpiralAbyssFloorConfig = {
                         ]
                     }
                 ]
+            }
+        ]
+    },
+    "69": {
+        "Disorder": {
+            "CH": "队伍中所有角色获得75%岩元素伤害加成。",
+            "EN": "All party members receive a 75% Geo DMG Bonus."
+        },
+        "ShowVers": [
+            1,
+            2,
+            3
+        ],
+        "Chambers": [
+            {
+                "Name": "11-1",
+                "Level": 88,
+                "GoalType": 1,
+                "GoalParam": 0,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        7,
+                        22,
+                        31
+                    ]
+                },
+                "Upper": [],
+                "Lower": []
+            },
+            {
+                "Name": "11-2",
+                "Level": 90,
+                "GoalType": 0,
+                "GoalParam": 1,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        7,
+                        22,
+                        34
+                    ]
+                },
+                "Upper": [],
+                "Lower": []
+            },
+            {
+                "Name": "11-3",
+                "Level": 92,
+                "GoalType": 0,
+                "GoalParam": 3,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        19
+                    ]
+                },
+                "Upper": [],
+                "Lower": []
+            }
+        ]
+    },
+    "70": {
+        "Disorder": {
+            "CH": "仅在此层，地脉的涌流平缓通顺。",
+            "EN": "For this floor only, the ley line flow will be normal."
+        },
+        "ShowVers": [
+            1,
+            2,
+            3
+        ],
+        "Chambers": [
+            {
+                "Name": "12-1",
+                "Level": 95,
+                "GoalType": 0,
+                "GoalParam": 3,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        7,
+                        22,
+                        34
+                    ]
+                },
+                "Center": -10,
+                "Upper": [],
+                "Lower": []
+            },
+            {
+                "Name": "12-2",
+                "Level": 98,
+                "GoalType": 0,
+                "GoalParam": 3,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        7,
+                        22,
+                        34
+                    ]
+                },
+                "Center": -10,
+                "Upper": [],
+                "Lower": []
+            },
+            {
+                "Name": "12-3",
+                "Level": 100,
+                "GoalType": 0,
+                "GoalParam": 3,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        19
+                    ]
+                },
+                "Center": -10,
+                "Upper": [],
+                "Lower": []
             }
         ]
     },
