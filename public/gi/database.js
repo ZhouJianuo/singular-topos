@@ -571,10 +571,10 @@ var _SpiralAbyssSchedule = [
         ]
     },
     {
-        "Name": "4.4v5",
+        "Name": "4.4",
         "Show": {
-            "CH": "4.4v5",
-            "EN": "4.4v5"
+            "CH": "4.4",
+            "EN": "4.4"
         },
         "Generation": 4,
         "OpenTime": "2024/02/01 - 2024/03/15",
