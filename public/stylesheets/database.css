@@ -359,7 +359,7 @@ container {
 }
 
 .u_l_w {
-    padding: 25px 10px 0px 15px;
+    padding: 25px 10px 0px 20px;
 }
 
 .u_l_g {
@@ -384,7 +384,9 @@ container {
     width: 30px;
     height: 30px;
     vertical-align: middle;
-    margin-right: 5px;
+    margin-right: 7px;
+    position: relative;
+    top: -2px;
 }
 
 .u_l_w monster a {
@@ -442,7 +444,7 @@ container {
 
 .lrhp {
     position: relative;
-    top: -2.4px;
+    top: -1.4px;
 }
 
 .ui, .pos {
@@ -648,11 +650,11 @@ section>schedule,
 }
 
 .result_ .a_floor {
-    width: 61%
+    width: 65%
 }
 
 .result_ .p_b {
-    width: 31%;
+    width: 27%;
 }
 
 .result_ .p_h {

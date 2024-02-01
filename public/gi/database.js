@@ -601,7 +601,7 @@ var _SpiralAbyssSchedule = [
             "CH": "4.5v1",
             "EN": "4.5v1"
         },
-        "Generation": 99,
+        "Generation": 4,
         "OpenTime": "2024/03/16 - 2024/04/30",
         "Phases": [
             86,
@@ -1073,8 +1073,12 @@ var _SpiralAbyssDPSData = [
                 "DPS": 1674006
             },
             {
-                "Ver": "4.4v5",
+                "Ver": "4.4",
                 "DPS": 1833435
+            },
+            {
+                "Ver": "4.5v1",
+                "DPS": 1721835
             }
         ]
     },
@@ -1199,8 +1203,12 @@ var _SpiralAbyssDPSData = [
                 "DPS": 15591261
             },
             {
-                "Ver": "4.4v5",
+                "Ver": "4.4",
                 "DPS": 14335494
+            },
+            {
+                "Ver": "4.5v1",
+                "DPS": 18078432
             }
         ]
     },
@@ -1326,8 +1334,12 @@ var _SpiralAbyssDPSData = [
                 "DPS": 3747865
             },
             {
-                "Ver": "4.4v5",
+                "Ver": "4.4",
                 "DPS": 3566150
+            },
+            {
+                "Ver": "4.5v1",
+                "DPS": 4043151
             }
         ]
     },
@@ -1453,8 +1465,12 @@ var _SpiralAbyssDPSData = [
                 "DPS": 3636567
             },
             {
-                "Ver": "4.4v5",
+                "Ver": "4.4",
                 "DPS": 3090036
+            },
+            {
+                "Ver": "4.5v1",
+                "DPS": 3912229
             }
         ]
     },
@@ -1580,8 +1596,12 @@ var _SpiralAbyssDPSData = [
                 "DPS": 4570767
             },
             {
-                "Ver": "4.4v5",
+                "Ver": "4.4",
                 "DPS": 3688091
+            },
+            {
+                "Ver": "4.5v1",
+                "DPS": 4187321
             }
         ]
     }
@@ -2773,8 +2793,17 @@ var _SpiralAbyssBlessingConfig = {
         },
         "Desc": {
             "CH": "角色创造岩元素创造物时，将在角色的位置<color style='color:#0000FF;'>释放冲击波</color>，对附近的敌人造成真实伤害，每6秒至多通过这种方式释放一次冲击波。",
-            "EN": "When a character created a Geo Construct, <color style='color:#0000FF;'>a shock wave will be unleashed</color> at the character's position, dealing True DMG to nearby opponents. This can be triggered once every 6s."
-        }
+            "EN": "When a character creates a Geo Construct, <color style='color:#0000FF;'>a shock wave will be unleashed</color> at the character's position, dealing True DMG to nearby opponents. This can be triggered once every 6s."
+        },
+        "ShockWaveConfig": [
+            {
+                "ShockWaveDesc": {
+                    "CH": "半径：8m",
+                    "EN": "Radius: 8m"
+                },
+                "ShockWaveDMG": 18
+            }
+        ]
     },
     "83": {
         "Name": {
@@ -3515,8 +3544,8 @@ var _SpiralAbyssWaveDescConfig = {
     "40632": {
         "Show": {
             "Text": {
-                "CH": "<color style='color:#808080;'><b>> 地方传奇 · 算力增幅器 · 荒</b></color>",
-                "EN": "<color style='color:#808080;'><b>> Local Legend: Arithmetic Enhancer - Ousia</b></color>"
+                "CH": "<color style='color:#808080;'><b>> 自律超算型场力发生装置</b></color>",
+                "EN": "<color style='color:#808080;'><b>> Automated Supercomputing Field Generator</b></color>"
             }
         }
     },
@@ -50263,16 +50292,14 @@ var _SpiralAbyssFloorConfig = {
             "EN": "All party members receive a 75% Geo DMG Bonus."
         },
         "ShowVers": [
-            1,
-            2,
-            3
+            1
         ],
         "Chambers": [
             {
                 "Name": "11-1",
                 "Level": 88,
-                "GoalType": 1,
-                "GoalParam": 0,
+                "GoalType": 0,
+                "GoalParam": 1,
                 "Buff": {
                     "Buff1": [
                         1,
@@ -50299,8 +50326,275 @@ var _SpiralAbyssFloorConfig = {
                         31
                     ]
                 },
-                "Upper": [],
-                "Lower": []
+                "Center": 0,
+                "Upper": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 10203,
+                                "Num": 1,
+                                "Pos": [
+                                    [
+                                        9,
+                                        0
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 10112,
+                                "Num": 4,
+                                "Pos": [
+                                    [
+                                        7,
+                                        3
+                                    ],
+                                    [
+                                        7,
+                                        -3
+                                    ],
+                                    [
+                                        9,
+                                        6
+                                    ],
+                                    [
+                                        9,
+                                        -6
+                                    ]
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 10203,
+                                "Num": 1,
+                                "Pos": [
+                                    [
+                                        -9,
+                                        0
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 10112,
+                                "Num": 4,
+                                "Pos": [
+                                    [
+                                        -7,
+                                        3
+                                    ],
+                                    [
+                                        -7,
+                                        -3
+                                    ],
+                                    [
+                                        -9,
+                                        6
+                                    ],
+                                    [
+                                        -9,
+                                        -6
+                                    ]
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 3,
+                        "Monsters": [
+                            {
+                                "ID": 10203,
+                                "Num": 2,
+                                "Pos": [
+                                    [
+                                        2,
+                                        9
+                                    ],
+                                    [
+                                        -2,
+                                        9
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 10304,
+                                "Num": 1,
+                                "Pos": [
+                                    [
+                                        0,
+                                        -9
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 10105,
+                                "Num": 1,
+                                "Affix": [
+                                    5000
+                                ],
+                                "Pos": [
+                                    [
+                                        3,
+                                        -9
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 10109,
+                                "Num": 1,
+                                "Affix": [
+                                    5000
+                                ],
+                                "Pos": [
+                                    [
+                                        -3,
+                                        -9
+                                    ]
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 4,
+                        "Monsters": [
+                            {
+                                "ID": 10203,
+                                "Num": 2,
+                                "Pos": [
+                                    [
+                                        2,
+                                        -9
+                                    ],
+                                    [
+                                        -2,
+                                        -9
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 10304,
+                                "Num": 1,
+                                "Pos": [
+                                    [
+                                        0,
+                                        9
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 10105,
+                                "Num": 1,
+                                "Affix": [
+                                    5000
+                                ],
+                                "Pos": [
+                                    [
+                                        3,
+                                        9
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 10109,
+                                "Num": 1,
+                                "Affix": [
+                                    5000
+                                ],
+                                "Pos": [
+                                    [
+                                        -3,
+                                        9
+                                    ]
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 61201,
+                                "Num": 1,
+                                "Pos": [
+                                    [
+                                        10,
+                                        -4
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 61203,
+                                "Num": 1,
+                                "Pos": [
+                                    [
+                                        10,
+                                        4
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 61202,
+                                "Num": 1,
+                                "Pos": [
+                                    [
+                                        8,
+                                        0
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 61204,
+                                "Num": 1,
+                                "Pos": [
+                                    [
+                                        12,
+                                        0
+                                    ]
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 61601,
+                                "Num": 1,
+                                "Pos": [
+                                    [
+                                        -8,
+                                        4
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 61602,
+                                "Num": 1,
+                                "Pos": [
+                                    [
+                                        -8,
+                                        -4
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 61603,
+                                "Num": 1,
+                                "Pos": [
+                                    [
+                                        -10,
+                                        0
+                                    ]
+                                ]
+                            }
+                        ]
+                    }
+                ]
             },
             {
                 "Name": "11-2",
@@ -50333,8 +50627,108 @@ var _SpiralAbyssFloorConfig = {
                         34
                     ]
                 },
-                "Upper": [],
-                "Lower": []
+                "Center": 0,
+                "Upper": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 61902,
+                                "Num": 4,
+                                "Pos": [
+                                    [
+                                        -9,
+                                        6
+                                    ],
+                                    [
+                                        -9,
+                                        -6
+                                    ],
+                                    [
+                                        9,
+                                        6
+                                    ],
+                                    [
+                                        9,
+                                        -6
+                                    ]
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 40658,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "芒",
+                                        "EN": "Pneuma"
+                                    }
+                                },
+                                "Num": 1,
+                                "Pos": [
+                                    [
+                                        0,
+                                        -9
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 40660,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "芒",
+                                        "EN": "Pneuma"
+                                    }
+                                },
+                                "Num": 1,
+                                "Affix": [
+                                    5371
+                                ],
+                                "Pos": [
+                                    [
+                                        0,
+                                        9
+                                    ]
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 61002,
+                                "Num": 1,
+                                "Pos": [
+                                    [
+                                        9,
+                                        0
+                                    ]
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 61003,
+                                "Num": 1,
+                                "Pos": [
+                                    [
+                                        -9,
+                                        0
+                                    ]
+                                ]
+                            }
+                        ]
+                    }
+                ]
             },
             {
                 "Name": "11-3",
@@ -50365,8 +50759,89 @@ var _SpiralAbyssFloorConfig = {
                         19
                     ]
                 },
-                "Upper": [],
-                "Lower": []
+                "Center": 0,
+                "Upper": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 5102,
+                                "Num": 1,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "地方传奇",
+                                        "EN": "Local Legend"
+                                    }
+                                },
+                                "Pos": [
+                                    [
+                                        8,
+                                        -4
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 5112,
+                                "Num": 1,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "地方传奇",
+                                        "EN": "Local Legend"
+                                    }
+                                },
+                                "Pos": [
+                                    [
+                                        8,
+                                        4
+                                    ]
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 40602,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
+                                "Num": 1,
+                                "Pos": [
+                                    [
+                                        8,
+                                        0
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 40612,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
+                                "Num": 2,
+                                "Pos": [
+                                    [
+                                        8,
+                                        5
+                                    ],
+                                    [
+                                        8,
+                                        -5
+                                    ]
+                                ]
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     },
@@ -50376,9 +50851,7 @@ var _SpiralAbyssFloorConfig = {
             "EN": "For this floor only, the ley line flow will be normal."
         },
         "ShowVers": [
-            1,
-            2,
-            3
+            1
         ],
         "Chambers": [
             {
@@ -50413,8 +50886,113 @@ var _SpiralAbyssFloorConfig = {
                     ]
                 },
                 "Center": -10,
-                "Upper": [],
-                "Lower": []
+                "Upper": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 20101,
+                                "Num": 1,
+                                "Affix": [
+                                    5001,
+                                    1028
+                                ],
+                                "Note": {
+                                    "Text": {
+                                        "CH": "阴燃之火",
+                                        "EN": "Smoldering<br>Flames"
+                                    },
+                                    "Color": "Fire"
+                                },
+                                "Pos": [
+                                    [
+                                        0,
+                                        0
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 21103,
+                                "Num": 2,
+                                "Affix": [
+                                    4190
+                                ],
+                                "Pos": [
+                                    [
+                                        0,
+                                        -4
+                                    ],
+                                    [
+                                        0,
+                                        4
+                                    ]
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 30605,
+                                "Num": 1,
+                                "Name": {
+                                    "CH": "霜剑律从 · 安娜",
+                                    "EN": "Rimesword Servant: Anna"
+                                },
+                                "Note": {
+                                    "Text": {
+                                        "CH": "地方传奇",
+                                        "EN": "Local Legend"
+                                    }
+                                },
+                                "Pos": [
+                                    [
+                                        6,
+                                        5
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 30606,
+                                "Num": 1,
+                                "Name": {
+                                    "CH": "幽风铃兰 · 齐万卡",
+                                    "EN": "Gale-Lily Servant: Zivanka"
+                                },
+                                "Note": {
+                                    "Text": {
+                                        "CH": "地方传奇",
+                                        "EN": "Local Legend"
+                                    }
+                                },
+                                "Pos": [
+                                    [
+                                        6,
+                                        -5
+                                    ]
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 61101,
+                        "Monsters": [
+                            {
+                                "ID": 61101,
+                                "Num": 1,
+                                "Pos": [
+                                    [
+                                        0,
+                                        0
+                                    ]
+                                ]
+                            }
+                        ]
+                    }
+                ]
             },
             {
                 "Name": "12-2",
@@ -50448,8 +51026,160 @@ var _SpiralAbyssFloorConfig = {
                     ]
                 },
                 "Center": -10,
-                "Upper": [],
-                "Lower": []
+                "Upper": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 607,
+                                "Num": 2,
+                                "Pos": [
+                                    [
+                                        -4,
+                                        0
+                                    ],
+                                    [
+                                        2,
+                                        0
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 606,
+                                "Num": 2,
+                                "Pos": [
+                                    [
+                                        2,
+                                        -6
+                                    ],
+                                    [
+                                        2,
+                                        6
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 605,
+                                "Num": 2,
+                                "Pos": [
+                                    [
+                                        -4,
+                                        -6
+                                    ],
+                                    [
+                                        -4,
+                                        6
+                                    ]
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 60102,
+                                "Num": 3,
+                                "Pos": [
+                                    [
+                                        -10,
+                                        0
+                                    ],
+                                    [
+                                        -10,
+                                        -4
+                                    ],
+                                    [
+                                        -10,
+                                        4
+                                    ]
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 3,
+                        "Monsters": [
+                            {
+                                "ID": 20802,
+                                "Num": 1,
+                                "Affix": [
+                                    6103
+                                ],
+                                "Note": {
+                                    "Text": {
+                                        "CH": "翻涌岩潮",
+                                        "EN": "Rumbling<br>Stone"
+                                    },
+                                    "Color": "Rock"
+                                },
+                                "Pos": [
+                                    [
+                                        6,
+                                        0
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 20702,
+                                "Num": 1,
+                                "Pos": [
+                                    [
+                                        8,
+                                        -4
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 20701,
+                                "Num": 1,
+                                "Affix": [
+                                    1028
+                                ],
+                                "Note": {
+                                    "Text": {
+                                        "CH": "阴燃之火",
+                                        "EN": "Smoldering<br>Flames"
+                                    },
+                                    "Color": "Fire"
+                                },
+                                "Pos": [
+                                    [
+                                        10,
+                                        0
+                                    ]
+                                ]
+                            },
+                            {
+                                "ID": 20703,
+                                "Num": 1,
+                                "Pos": [
+                                    [
+                                        8,
+                                        4
+                                    ]
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 40211,
+                        "Monsters": [
+                            {
+                                "ID": 40211,
+                                "Num": 1,
+                                "Pos": [
+                                    [
+                                        0,
+                                        0
+                                    ]
+                                ]
+                            }
+                        ]
+                    }
+                ]
             },
             {
                 "Name": "12-3",
@@ -50481,8 +51211,59 @@ var _SpiralAbyssFloorConfig = {
                     ]
                 },
                 "Center": -10,
-                "Upper": [],
-                "Lower": []
+                "Upper": [
+                    {
+                        "WaveDesc": 40702,
+                        "Monsters": [
+                            {
+                                "ID": 40702,
+                                "Num": 1,
+                                "Affix": [
+                                    40701
+                                ],
+                                "Note": {
+                                    "Text": {
+                                        "CH": "深渊特化",
+                                        "EN": "Abyss Version"
+                                    }
+                                },
+                                "Pos": [
+                                    [
+                                        0,
+                                        0
+                                    ]
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 40632,
+                        "Monsters": [
+                            {
+                                "ID": 40632,
+                                "Num": 1,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "地方传奇",
+                                        "EN": "Local Legend"
+                                    }
+                                },
+                                "Name": {
+                                    "CH": "验证型 Aur001",
+                                    "EN": "Verified Type Aur001"
+                                },
+                                "Pos": [
+                                    [
+                                        0,
+                                        0
+                                    ]
+                                ]
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     },

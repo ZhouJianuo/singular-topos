@@ -1453,8 +1453,8 @@ var _Kingdoms = [
             "EN": "<b>4.5 F11</b>"
         },
         "Disorder": {
-            "CH": "队伍中所有角色获得75%风元素伤害加成。",
-            "EN": "All party members receive a 75% Anemo DMG Bonus."
+            "CH": "队伍中所有角色获得75%岩元素伤害加成。",
+            "EN": "All party members receive a 75% Geo DMG Bonus."
         },
         "Classes": [
             {
@@ -1464,7 +1464,13 @@ var _Kingdoms = [
                     "EN": "11-1 Upper"
                 },
                 "Interval": "11-1",
-                "Monsters": []
+                "Monsters": [
+                    10203,
+                    10304,
+                    10105,
+                    10109,
+                    10112
+                ]
             },
             {
                 "ID": 12112,
@@ -1473,7 +1479,15 @@ var _Kingdoms = [
                     "EN": "11-1 Lower"
                 },
                 "Interval": "11-1",
-                "Monsters": []
+                "Monsters": [
+                    61201,
+                    61203,
+                    61202,
+                    61204,
+                    61601,
+                    61602,
+                    61603
+                ]
             },
             {
                 "ID": 12121,
@@ -1482,7 +1496,11 @@ var _Kingdoms = [
                     "EN": "11-2 Upper"
                 },
                 "Interval": "11-2",
-                "Monsters": []
+                "Monsters": [
+                    61902,
+                    40658,
+                    40660
+                ]
             },
             {
                 "ID": 12122,
@@ -1491,7 +1509,10 @@ var _Kingdoms = [
                     "EN": "11-2 Lower"
                 },
                 "Interval": "11-2",
-                "Monsters": []
+                "Monsters": [
+                    61002,
+                    61003
+                ]
             },
             {
                 "ID": 12131,
@@ -1500,7 +1521,10 @@ var _Kingdoms = [
                     "EN": "11-3 Upper"
                 },
                 "Interval": "11-3",
-                "Monsters": []
+                "Monsters": [
+                    5102,
+                    5112
+                ]
             },
             {
                 "ID": 12132,
@@ -1509,7 +1533,10 @@ var _Kingdoms = [
                     "EN": "11-3 Lower"
                 },
                 "Interval": "11-3",
-                "Monsters": []
+                "Monsters": [
+                    40602,
+                    40612
+                ]
             }
         ]
     },
@@ -1532,6 +1559,7 @@ var _Kingdoms = [
                 },
                 "Interval": "12-1",
                 "Monsters": [
+                    20101,
                     30605,
                     30606,
                     21103
