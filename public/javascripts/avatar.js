@@ -493,7 +493,7 @@ $(function () {
         })
 
         if ($('#AVID').val()) {
-            var come_id = $('#AVID').val()
+            var come_id = $('#AVID').val().replaceAll('_', ' ')
             try {
                 if ($("div[data-id='" + come_id + "']").length) {
                     $("div[data-id='" + come_id + "']").click()
