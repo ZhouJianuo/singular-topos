@@ -1031,7 +1031,7 @@ $(function () {
                                         }
                                     ],
                                     class: 'a_section_content',
-                                    data: _AvatarCostumeConfig[this_avatar._id].Namecard,
+                                    data: _AvatarCostumeConfig[this_avatar._id] ? _AvatarCostumeConfig[this_avatar._id].Namecard : [],
                                     style: {
                                         'font-size': '16px'
                                     }
