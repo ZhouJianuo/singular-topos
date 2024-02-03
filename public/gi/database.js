@@ -50199,7 +50199,7 @@ var _SpiralAbyssFloorConfig = {
                                 "Pos": [
                                     [
                                         0,
-                                        4
+                                        -4
                                     ]
                                 ]
                             },
@@ -50215,7 +50215,7 @@ var _SpiralAbyssFloorConfig = {
                                 "Pos": [
                                     [
                                         0,
-                                        -4
+                                        4
                                     ]
                                 ]
                             }

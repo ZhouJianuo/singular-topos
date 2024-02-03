@@ -608,7 +608,7 @@ var computer_ = {
         },
         "Avatar_BasicInfo_1_3": {
             "CH": "所属：",
-            "EN": "Belong: "
+            "EN": "Affil­i­a­tion: "
         },
         "Avatar_BasicInfo_2_1": {
             "CH": "中文CV：",

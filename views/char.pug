@@ -1,0 +1,15 @@
+extends _
+block head
+    script(src="/javascripts/char.js")
+    script(src="/javascripts/txt.js")
+    link(rel="stylesheet", href="/stylesheets/char.css")
+block content
+    input(type="hidden" id="LANG" value=lang)
+    input(type="hidden" id="AVID" value=avid)
+    input(type="hidden" id="IMGPRE" value=imgpre)
+    container
+        h3
+            a.title
+            em.links 
+            em.subtitle
+            em.lang

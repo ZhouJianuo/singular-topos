@@ -1006,6 +1006,44 @@ $(function () {
                             div: [
                                 {
                                     div: {
+                                        p: _AvatarCostumeConfig[this_avatar._id] ? (_AvatarCostumeConfig[this_avatar._id].Namecard ? _AvatarCostumeConfig[this_avatar._id].Namecard.Name[lang] : '') : ''
+                                    },
+                                    class: 'a_section_head',
+                                    style: {
+                                        color: color0
+                                    }
+                                },
+                                {
+                                    div: [
+                                        {
+                                            img: function (k) {
+                                                return imgpre + 'homdgcat-res/Avatar/' + k.data.Pic + '.png'
+                                            },
+                                            class: 'namecard',
+                                        },
+                                        {
+                                            p: function (k) {
+                                                return k.data.Desc[lang]
+                                            },
+                                            style: {
+                                                'margin': '10px 0'
+                                            }
+                                        }
+                                    ],
+                                    class: 'a_section_content',
+                                    data: _AvatarCostumeConfig[this_avatar._id].Namecard,
+                                    style: {
+                                        'font-size': '16px'
+                                    }
+                                },
+                            ],
+                            class: 'a_section',
+                            when: _AvatarCostumeConfig[this_avatar._id] ? _AvatarCostumeConfig[this_avatar._id].Namecard : false
+                        },
+                        {
+                            div: [
+                                {
+                                    div: {
                                         p: computer_.MiscText.Avatar_Costume[lang]
                                     },
                                     class: 'a_section_head',
@@ -1070,13 +1108,14 @@ $(function () {
                                         }
                                     ],
                                     class: 'a_section_content',
-                                    data: _AvatarCostumeConfig[this_avatar._id].Costumes,
+                                    data: _AvatarCostumeConfig[this_avatar._id] ? _AvatarCostumeConfig[this_avatar._id].Costumes : [],
                                     style: {
                                         'font-size': '16px'
                                     }
                                 },
                             ],
-                            class: 'a_section'
+                            class: 'a_section',
+                            when: _AvatarCostumeConfig[this_avatar._id] ? (_AvatarCostumeConfig[this_avatar._id].Costumes && _AvatarCostumeConfig[this_avatar._id].Costumes.length) : false
                         },
                     ]
                 },
@@ -1097,10 +1136,30 @@ $(function () {
                                                 class: 'head_left'
                                             },
                                             {
+                                                img: function (k) {
+                                                    return imgpre + 'homdgcat-res/AvatarSkill/' + k.data.Icon2 + '.png'
+                                                },
+                                                class: 'head_left',
+                                                when: "Icon2"
+                                            },
+                                            {
+                                                img: function (k) {
+                                                    return imgpre + 'homdgcat-res/AvatarSkill/' + k.data.Icon3 + '.png'
+                                                },
+                                                class: 'head_left',
+                                                when: "Icon3"
+                                            },
+                                            {
                                                 p: function (k) {
                                                     return k.data.Name[lang]
                                                 },
-                                                class: 'head_right'
+                                                a: {
+                                                    class: function (k) {
+                                                        if (k.data.Icon3) return 'head_right hr_3'
+                                                        if (k.data.Icon2) return 'head_right hr_2'
+                                                        return 'head_right hr_1'
+                                                    }
+                                                }
                                             },
                                         ],
                                         class: 'a_section_head head_withimg'
@@ -1278,10 +1337,30 @@ $(function () {
                                         class: 'head_left'
                                     },
                                     {
+                                        img: function (k) {
+                                            return imgpre + 'homdgcat-res/AvatarSkill/' + k.data.Icon2 + '.png'
+                                        },
+                                        class: 'head_left',
+                                        when: "Icon2"
+                                    },
+                                    {
+                                        img: function (k) {
+                                            return imgpre + 'homdgcat-res/AvatarSkill/' + k.data.Icon3 + '.png'
+                                        },
+                                        class: 'head_left',
+                                        when: "Icon3"
+                                    },
+                                    {
                                         p: function (k) {
                                             return k.data.Name[lang]
                                         },
-                                        class: 'head_right'
+                                        a: {
+                                            class: function (k) {
+                                                if (k.data.Icon3) return 'head_right hr_3'
+                                                if (k.data.Icon2) return 'head_right hr_2'
+                                                return 'head_right hr_1'
+                                            }
+                                        }
                                     },
                                 ],
                                 class: 'a_section_head head_withimg'
@@ -1315,10 +1394,30 @@ $(function () {
                                         class: 'head_left'
                                     },
                                     {
+                                        img: function (k) {
+                                            return imgpre + 'homdgcat-res/AvatarSkill/' + k.data.Icon2 + '.png'
+                                        },
+                                        class: 'head_left',
+                                        when: "Icon2"
+                                    },
+                                    {
+                                        img: function (k) {
+                                            return imgpre + 'homdgcat-res/AvatarSkill/' + k.data.Icon3 + '.png'
+                                        },
+                                        class: 'head_left',
+                                        when: "Icon3"
+                                    },
+                                    {
                                         p: function (k) {
                                             return k.data.Name[lang]
                                         },
-                                        class: 'head_right'
+                                        a: {
+                                            class: function (k) {
+                                                if (k.data.Icon3) return 'head_right hr_3'
+                                                if (k.data.Icon2) return 'head_right hr_2'
+                                                return 'head_right hr_1'
+                                            }
+                                        }
                                     },
                                 ],
                                 class: 'a_section_head head_withimg'

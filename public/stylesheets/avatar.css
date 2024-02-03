@@ -575,6 +575,11 @@ tr {
     margin-left: calc(50% - min(900px, 170%) / 2);
     max-width: 900px;
 }
+.namecard {
+    width: 100%;
+    margin-left: calc(50% - min(700px, 100%) / 2);
+    max-width: 700px;
+}
 
 .reset_talk {
     width: 130px;
@@ -654,8 +659,16 @@ tr {
 }
 
 .head_right {
-    width: calc(100% - 45px);
     margin: 0 0 0 5px;
+}
+.hr_1 {
+    width: calc(100% - 45px);
+}
+.hr_2 {
+    width: calc(100% - 90px);
+}
+.hr_3 {
+    width: calc(100% - 135px);
 }
 
 .avatar-area {
@@ -836,10 +849,17 @@ schedule.selected img {
     }
     
     .head_right {
-        width: calc(100% - 50px);
         margin: 0 0 0 5px;
     }
-    
+    .hr_1 {
+        width: calc(100% - 50px);
+    }
+    .hr_2 {
+        width: calc(100% - 100px);
+    }
+    .hr_3 {
+        width: calc(100% - 150px);
+    }
 
     .generation img {
         height: 70px;
@@ -1044,10 +1064,17 @@ schedule.selected img {
     }
     
     .head_right {
-        width: calc(100% - 55px);
         margin: 0 0 0 5px;
     }
-    
+    .hr_1 {
+        width: calc(100% - 55px);
+    }
+    .hr_2 {
+        width: calc(100% - 110px);
+    }
+    .hr_3 {
+        width: calc(100% - 165px);
+    }
 
     .generation img {
         height: 80px;

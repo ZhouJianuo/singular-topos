@@ -165,6 +165,24 @@ app.get('/sr/curio', async (req, res) => {
     res.render('curio', result);
 });
 
+app.get('/sr/char/:id', async (req, res) => {
+    let result = {};
+    let { lang = ''} = req.query;
+    result.lang = lang;
+    result.avid = req.params.id;
+    result.imgpre = '../../';
+    res.render('char', result);
+});
+
+app.get('/sr/char', async (req, res) => {
+    let result = {};
+    let { lang = '', id = '' } = req.query;
+    result.lang = lang;
+    result.avid = id;
+    result.imgpre = '../';
+    res.render('char', result);
+});
+
 app.get('/gi/monster', async (req, res) => {
     let result = {};
     let { id = '', level = '', lang = '' } = req.query;
