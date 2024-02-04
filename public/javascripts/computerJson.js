@@ -896,7 +896,7 @@ var computer_ = {
         ],
         "Changelog": {
             "CH": "更新追踪",
-            "EN": "Update Track"
+            "EN": "Track Updates"
         },
         "Ach_Title": {
             "CH": "玉衡杯数据库",
