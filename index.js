@@ -230,6 +230,26 @@ app.get('/gi/char', async (req, res) => {
     res.render('avatar', result);
 });
 
+app.get('/gi/update', async (req, res) => {
+    let result = {};
+    let { lang = '', id = '' } = req.query;
+    result.lang = lang;
+    result.avid = id;
+    result.update = 1
+    result.imgpre = '../';
+    res.render('avatar', result);
+});
+
+app.get('/gi/change', async (req, res) => {
+    let result = {};
+    let { lang = '', id = '' } = req.query;
+    result.lang = lang;
+    result.avid = id;
+    result.update = 1
+    result.imgpre = '../';
+    res.render('avatar', result);
+});
+
 app.get('/gi/weapon/:id', async (req, res) => {
     let result = {};
     let { lang = ''} = req.query;

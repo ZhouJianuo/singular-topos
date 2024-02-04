@@ -894,6 +894,10 @@ var computer_ = {
                 "EN": "Sort by Norm"
             }
         ],
+        "Changelog": {
+            "CH": "更新追踪",
+            "EN": "Update Track"
+        },
         "Ach_Title": {
             "CH": "玉衡杯数据库",
             "EN": "HomDGCat Wiki"

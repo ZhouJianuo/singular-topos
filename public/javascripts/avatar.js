@@ -101,6 +101,9 @@ $(function () {
     $('h3 .subtitle').html(computer_.MiscText.Subtitle[lang]);
     $('h3 .tlsub').html(computer_.MiscText.Translate_Char[lang]);
 
+    cl_show = 0 
+    if ($("#UPDATE").val()) cl_show = 1
+
     begin()
 
     function begin() {
@@ -109,9 +112,65 @@ $(function () {
         this_ver_en = __AvatarInfoConfig[0].Note
         pop_ver = lang == 'CH' ? " " + this_ver_chs : " " + this_ver_en
 
+        var cl_select = {}
+        _changelog[0].Data.forEach(function (t, i) {
+            cl_select[t.Ver] = i
+        })
+
         $('container').render({
             template: {
                 div: [
+                    {
+                        section: [
+                            {
+                                schedule: computer_.MiscText.Changelog[lang],
+                                click: function (p) {
+                                    cl_show = 1 - cl_show
+                                    if (cl_show) {
+                                        $('.cl_all').show()
+                                    } else {
+                                        $('.cl_all').hide()
+                                    }
+                                },
+                                style: {
+                                    width: 'max-content',
+                                    padding: '10px 20px',
+                                    'font-weight': 'bold',
+                                    border: '2px solid #df903b'
+                                }
+                            },
+                        ],
+                        class: 'cl'
+                    },
+                    {
+                        div: [
+                            {
+                                div: {
+                                    select: '',
+                                    options: cl_select,
+                                    style: {
+                                        border: '2px solid black',
+                                        'border-radius': '5px'
+                                    }
+                                },
+                                class: 'changelog'
+                            },
+                            {
+                                div: [],
+                                class: 'cl_data',
+                            }
+                        ],
+                        class: 'cl_all',
+                        style: {
+                            display: cl_show ? '' : 'none'
+                        }
+                    },
+                    {
+                        hr: '',
+                        style: {
+                            margin: '20px 0px',
+                        }
+                    },
                     {
                         section: [
                             {
@@ -235,6 +294,8 @@ $(function () {
                 class: 'content'
             },
         })
+
+        renderCL($('.changelog select').val() || 0)
 
         $('.sort').hide()
 
@@ -493,6 +554,10 @@ $(function () {
         })
 
         if ($('#AVID').val()) {
+            if ($('#AVID').val() == 'update' || $('#AVID').val() == 'change') {
+                cl_show = 1
+                $('.cl_all').show()
+            }
             var come_id = $('#AVID').val().replaceAll('_', ' ')
             try {
                 if ($("div[data-id='" + come_id + "']").length) {
@@ -2138,6 +2203,41 @@ $(function () {
             options: options
         }
     }
+
+    function renderCL(v) {
+        $('.cl_data').empty()
+        _changelog[0].Data[v].Logs.forEach(function (t) {
+            $('.cl_data').render({
+                div: [
+                    {
+                        div: {
+                            p: t.Name[lang],
+                            style: {
+                                color: t.Color ? colors[t.Color] : ''
+                            }
+                        },
+                        class: 'a_section_head'
+                    },
+                    {
+                        div: {
+                            ul: {
+                                li: function (k) {
+                                    return "<br>" + k.data[lang]
+                                },
+                                data: t.Notes
+                            },
+                        },
+                        class: 'a_section_content'
+                    },
+                ],
+                class: 'a_section'
+            })
+        })
+    }
+
+    $('body').on('change', '.changelog select', function () {
+        renderCL($('.changelog select').val())
+    })
 
     function popRelic() {
         poplayer({

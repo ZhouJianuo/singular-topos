@@ -1,15 +1,15 @@
 var txt = {
     "Title": {
         "CH": "玉衡杯数据库",
-        "EN": "HomDGCat Database"
+        "EN": "HomDGCat Wiki"
     },
     "Affix": {
         "CH": " | <color style='color:#0066FF;'>玉衡杯数据库 homdgcat.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
         "EN": " | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color> | <color style='color:#0066FF;'>X@_homdgcat</color>"
     },
     "Subtitle": {
-        "CH": "<p>数据提供：<b>妮可少女 <span style='white-space:pre;'><a href='https://space.bilibili.com/3537104994831140' target='_blank'>bilibili@妮可少女</a> | <a href='http://t.me/homdgcat' target='_blank'>t.me/homdgcat</a></span></b></p>",
-        "EN": "<p>Data by <b>HomDGCat: <span style='white-space:pre;'><a href='http://t.me/homdgcat' target='_blank'>t.me/homdgcat</a> | <a href='https://www.twitter.com/_homdgcat' target='_blank'>X@_homdgcat</a></span></b></p>"
+        "CH": "<p><b><span style='white-space:pre;'><a href='https://space.bilibili.com/3537104994831140' target='_blank'>bilibili@妮可少女</a> | <a href='http://t.me/homdgcat' target='_blank'>t.me/homdgcat</a></span></b></p>",
+        "EN": "<p><b><span style='white-space:pre;'><a href='http://t.me/homdgcat' target='_blank'>t.me/homdgcat</a> | <a href='https://www.twitter.com/_homdgcat' target='_blank'>X@_homdgcat</a></span></b></p>"
     },
     "ChooseTitle": {
         "CH": "（星穹铁道）",
@@ -49,7 +49,7 @@ var txt = {
     ],
     "About": {
         "CH": "玉衡杯数据库部分依托玉衡杯网站建立，数据由<b>妮可少女</b>提供",
-        "EN": "HomDGCat Database (formerly Yuheng Cup Database) is built partly upon the site of Yuheng Cup, a Keqing-centered speedrunning contest held by Chinese Keqing players. The database is maintained by <b>HomDGCat</b>."
+        "EN": "HomDGCat Wiki (formerly the Yuheng Cup Database) is built partly upon the site of Yuheng Cup, a Keqing-centered speedrunning contest held by Chinese Keqing players. The database is maintained by <b>HomDGCat</b>."
     },
     "About_2": {
         "CH": "若发现数据有误或有建议<br>↓<br><a href='https://space.bilibili.com/3537104994831140' target='_blank'>(bilibili)</a> <a href='http://t.me/homdgcat'>(Telegram)</a> <a href='https://www.twitter.com/_homdgcat' target='_blank'>(Twitter)</a> <a href='https://www.reddit.com/user/homdgcat/' target='_blank'>(Reddit)</a>",
@@ -260,16 +260,16 @@ var txt = {
         "EN": " (Max # on field)"
     },
     "MoC": {
-        "CH": "混沌回忆 2.0v5",
-        "EN": "Memory of Chaos 2.0v5"
+        "CH": "混沌回忆",
+        "EN": "Memory of Chaos"
     },
     "Fiction": {
-        "CH": "虚构叙事 2.0v5",
-        "EN": "Pure Fiction2.0v5"
+        "CH": "虚构叙事",
+        "EN": "Pure Fiction"
     },
     "HS": {
         "CH": "<p><b>玉衡杯数据库 - bilibili@妮可少女 | t.me/homdgcat</b></p>",
-        "EN": "<p><b>HomDGCat Database - t.me/homdgcat</b></p>"
+        "EN": "<p><b>HomDGCat Wiki - t.me/homdgcat</b></p>"
     },
     "Links_": {
         "CH": "<b>[ homdgcat.wiki ]</b>",
@@ -285,7 +285,7 @@ var txt = {
     },
     "Chart_Subtitle": {
         "CH": "玉衡杯数据库 homdgcat.wiki",
-        "EN": "HomDGCat Database - homdgcat.wiki"
+        "EN": "HomDGCat Wiki - homdgcat.wiki"
     },
     "Fiction_HP": {
         "CH": "总血量",
@@ -431,6 +431,13 @@ var links = [
             "EN": "Monsters"
         },
         "Link": "/sr/monster"
+    },
+    {
+        "Name": {
+            "CH": "角色 光锥 遗器",
+            "EN": "Characters Lightcones Relics"
+        },
+        "Link": "/sr/char"
     },
     {
         "Name": {

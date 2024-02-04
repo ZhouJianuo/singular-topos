@@ -143,7 +143,6 @@ popbody {
     background-color: #27363E;
     color: #DDDDDD;
     position: relative;
-    z-index: -2;
 }
 
 .a_section_head,
@@ -197,6 +196,7 @@ popbody {
 }
 
 .generation,
+.cl,
 .weapon,
 .weapon-rarity,
 .sort {
@@ -280,6 +280,34 @@ button {
     position: relative;
     bottom: 3px;
 }
+.changelog select {
+    width: 108px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    height: 33px;
+}
+
+.changelog {
+    text-align: center;
+}
+
+.cl_data div {
+    margin: 15px 0;
+}
+
+.cl_all .a_section div {
+    margin: 15px;
+}
+
+.cl_data {
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
 
 .toggle_stat {
     width: 108px;
@@ -305,7 +333,6 @@ button {
     background-color: #27363E;
     color: #DDDDDD;
     width: 94.7%;
-    z-index: -2;
 }
 
 .battle_stat {
@@ -313,7 +340,6 @@ button {
     background-color: #27363E;
     color: #DDDDDD;
     width: 94.7%;
-    z-index: -2;
 }
 
 .param {

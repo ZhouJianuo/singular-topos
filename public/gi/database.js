@@ -596,10 +596,10 @@ var _SpiralAbyssSchedule = [
         ]
     },
     {
-        "Name": "4.5v1",
+        "Name": "4.5v2",
         "Show": {
-            "CH": "4.5v1",
-            "EN": "4.5v1"
+            "CH": "4.5v2",
+            "EN": "4.5v2"
         },
         "Generation": 4,
         "OpenTime": "2024/03/16 - 2024/04/30",
@@ -1077,7 +1077,7 @@ var _SpiralAbyssDPSData = [
                 "DPS": 1833435
             },
             {
-                "Ver": "4.5v1",
+                "Ver": "4.5v2",
                 "DPS": 1721835
             }
         ]
@@ -1207,7 +1207,7 @@ var _SpiralAbyssDPSData = [
                 "DPS": 14335494
             },
             {
-                "Ver": "4.5v1",
+                "Ver": "4.5v2",
                 "DPS": 18078432
             }
         ]
@@ -1338,7 +1338,7 @@ var _SpiralAbyssDPSData = [
                 "DPS": 3566150
             },
             {
-                "Ver": "4.5v1",
+                "Ver": "4.5v2",
                 "DPS": 4043151
             }
         ]
@@ -1469,7 +1469,7 @@ var _SpiralAbyssDPSData = [
                 "DPS": 3090036
             },
             {
-                "Ver": "4.5v1",
+                "Ver": "4.5v2",
                 "DPS": 3912229
             }
         ]
@@ -1600,7 +1600,7 @@ var _SpiralAbyssDPSData = [
                 "DPS": 3688091
             },
             {
-                "Ver": "4.5v1",
+                "Ver": "4.5v2",
                 "DPS": 4187321
             }
         ]
@@ -50292,7 +50292,8 @@ var _SpiralAbyssFloorConfig = {
             "EN": "All party members receive a 75% Geo DMG Bonus."
         },
         "ShowVers": [
-            1
+            1,
+            2
         ],
         "Chambers": [
             {
@@ -50851,7 +50852,8 @@ var _SpiralAbyssFloorConfig = {
             "EN": "For this floor only, the ley line flow will be normal."
         },
         "ShowVers": [
-            1
+            1,
+            2
         ],
         "Chambers": [
             {
