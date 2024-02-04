@@ -23,7 +23,7 @@ $(function () {
     if (lang == 'EN') {$('body').css('font-family', "'Segoe UI', sans-serif")}
     else {$('body').css('font-family', "'Microsoft YaHei', sans-serif")}
 
-    $('h3 .title').html(txt.Title[lang])
+    $('h3 .title').html(txt.Title[lang] + "<color style='font-size: 0.5em;'><br><b>" + VER_SR + "</b></color>")
     $('h3 .title').attr('href', (lang == 'CH') ? '/?game=SR' : '/en?game=SR')
     $('h3 .links').html(txt.Page[lang]);
     $('h3 .subtitle').html(txt.Subtitle[lang]);

@@ -2,15 +2,15 @@ var computer_ = {
     "MiscText": {
         "TITLE": {
             "CH": "玉衡杯数据库",
-            "EN": "HomDGCat Database"
+            "EN": "HomDGCat Wiki"
         },
         "Subtitle": {
-            "CH": "<p>数据提供：<b>妮可少女 <color style='white-space:pre;'><a href='https://space.bilibili.com/3537104994831140' target='_blank'>bilibili@妮可少女</a> | <a href='http://t.me/homdgcat' target='_blank'>t.me/homdgcat</a></color></b></p>",
-            "EN": "<p>Data by <b>HomDGCat: <color style='white-space:pre;'><a href='http://t.me/homdgcat' target='_blank'>t.me/homdgcat</a> | <a href='https://www.twitter.com/_homdgcat' target='_blank'>X@_homdgcat</a></color></b></p>"
+            "CH": "<p><b><color style='white-space:pre;'><a href='https://space.bilibili.com/3537104994831140' target='_blank'>bilibili@妮可少女</a> | <a href='http://t.me/homdgcat' target='_blank'>t.me/homdgcat</a></color></b></p>",
+            "EN": "<p><b><color style='white-space:pre;'><a href='http://t.me/homdgcat' target='_blank'>t.me/homdgcat</a> | <a href='https://www.twitter.com/_homdgcat' target='_blank'>X@_homdgcat</a></color></b></p>"
         },
         "Subtitle_": {
             "CH": "<p><b>玉衡杯数据库 - bilibili@妮可少女 | t.me/homdgcat</b></p>",
-            "EN": "<p><b>HomDGCat Database - t.me/homdgcat</b></p>"
+            "EN": "<p><b>HomDGCat Wiki - t.me/homdgcat</b></p>"
         },
         "Page": {
             "CH": "<p style='margin-top:13px;color:#df903b;cursor:pointer;'><b>【切换页面】</b></p>",
@@ -50,11 +50,11 @@ var computer_ = {
         },
         "Abyss_Reminder": {
             "CH": "<color style='color:#0066FF;'>玉衡杯数据库 abyss.wiki</color>",
-            "EN": "<color style='color:#0066FF;'>HomDGCat Database t.me/homdgcat</color>"
+            "EN": "<color style='color:#0066FF;'>HomDGCat Wiki t.me/homdgcat</color>"
         },
         "Abyss_Reminder2": {
             "CH": "<color style='color:#0066FF;'>玉衡杯数据库 abyss.wiki</color> <color style='color:#FF0000;'>⚠</color> <b>玩家自创阵容</b>",
-            "EN": "<color style='color:#0066FF;'>HomDGCat Database t.me/homdgcat</color> <color style='color:#FF0000;'>⚠</color> <b>Fan-Made Lineup</b>"
+            "EN": "<color style='color:#0066FF;'>HomDGCat Wiki t.me/homdgcat</color> <color style='color:#FF0000;'>⚠</color> <b>Fan-Made Lineup</b>"
         },
         "Abyss_DPS_Show": {
             "CH": "输出量：",
@@ -62,15 +62,15 @@ var computer_ = {
         },
         "Computer_Show": {
             "CH": "玉衡杯数据库 mons.wiki",
-            "EN": "HomDGCat Database t.me/homdgcat"
+            "EN": "HomDGCat Wiki t.me/homdgcat"
         },
         "Abyss_Show": {
             "CH": "玉衡杯数据库 abyss.wiki",
-            "EN": "HomDGCat Database t.me/homdgcat"
+            "EN": "HomDGCat Wiki t.me/homdgcat"
         },
         "ComputerTitle": {
             "CH": "玉衡杯数据库",
-            "EN": "HomDGCat Database"
+            "EN": "HomDGCat Wiki"
         },
         "ComputerTitle_": {
             "CH": "渊月螺旋 ",
@@ -294,7 +294,7 @@ var computer_ = {
         },
         "AbyssTitle": {
             "CH": "玉衡杯数据库",
-            "EN": "HomDGCat Database"
+            "EN": "HomDGCat Wiki"
         },
         "Abyss_Select": [
             {
@@ -350,7 +350,7 @@ var computer_ = {
         },
         "Avatar_Title": {
             "CH": "玉衡杯数据库",
-            "EN": "HomDGCat Database"
+            "EN": "HomDGCat Wiki"
         },
         "Avatar_Table_Header": [
             {
@@ -896,7 +896,7 @@ var computer_ = {
         ],
         "Ach_Title": {
             "CH": "玉衡杯数据库",
-            "EN": "HomDGCat Database"
+            "EN": "HomDGCat Wiki"
         },
         "Ach_Table_Header": [
             {
@@ -918,7 +918,7 @@ var computer_ = {
         },
         "Ach_Extra": {
             "CH": " | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
-            "EN": " | <color style='color:#0066FF;'>HomDGCat Database</color> | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
+            "EN": " | <color style='color:#0066FF;'>HomDGCat Wiki</color> | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
         "Ach_Inner_Header": [
             {
@@ -944,7 +944,7 @@ var computer_ = {
         ],
         "Load_Title": {
             "CH": "玉衡杯数据库",
-            "EN": "HomDGCat Database"
+            "EN": "HomDGCat Wiki"
         },
         "MS_Type": [
             {
@@ -976,7 +976,7 @@ var computer_ = {
         ],
         "MS_HP_Title": {
             "CH": "护盾血量 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
-            "EN": "Shield HP | <color style='color:#0066FF;'>HomDGCat Database</color> | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
+            "EN": "Shield HP | <color style='color:#0066FF;'>HomDGCat Wiki</color> | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
         "MS_HP_Desc": {
             "CH": "某些护盾具有血量：在受到不同属性的伤害时，会依此扣除护盾值。此效果与元素反应的消耗叠加。<br>护盾的血量是敌人本体血量的倍数。例如，5x 表示护盾血量是本体的 5 倍。",

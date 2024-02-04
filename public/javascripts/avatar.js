@@ -97,7 +97,7 @@ $(function () {
     var acs_notget = 1
 
     $('.tls' + lang).css("color", "#df903b");
-    $('h3 .title').text(computer_.MiscText.Avatar_Title[lang]);
+    $('h3 .title').html(computer_.MiscText.Avatar_Title[lang] + "<color style='font-size: 0.5em;'><br><b>" + VER_GI + "</b></color>");
     $('h3 .subtitle').html(computer_.MiscText.Subtitle[lang]);
     $('h3 .tlsub').html(computer_.MiscText.Translate_Char[lang]);
 
@@ -1423,11 +1423,13 @@ $(function () {
                                 class: 'a_section_head head_withimg'
                             },
                             {
-                                div: {
-                                    p: function (k) {
-                                        return k.data.Desc[lang]
-                                    }
-                                },
+                                div: [
+                                    {
+                                        p: function (k) {
+                                            return k.data.Desc[lang]
+                                        }
+                                    },
+                                ],
                                 class: 'a_section_content'
                             },
                         ],
@@ -1820,90 +1822,86 @@ $(function () {
                         }
                     ]
                 },
-                "Stories": {
-                    data: fetters.StoryList,
-                    template: [
-                        {
-                            div: [
-                                {
-                                    div: [
-                                        {
-                                            p: function (k) {
-                                                return k.data.Title[lang]
-                                            },
-                                            style: {
-                                                color: color0
-                                            }
-                                        }
-                                    ],
-                                    class: 'a_section_head'
-                                },
-                                {
-                                    div: [
-                                        {
-                                            p: function (k) {
-                                                return k.data[lang]
-                                            },
-                                            datapath: 'Tips',
-                                            style: {
-                                                'font-size': '15px',
-                                                'color': '#ffcc44',
-                                            }
-                                        },
-                                        {
-                                            p: function (k) {
-                                                return k.data.Content[lang]
-                                            }
-                                        },
-                                    ],
-                                    class: 'a_section_content'
-                                },
-                            ],
-                            class: 'a_section'
-                        }
-                    ]
-                },
-                "Voicelines": {
-                    data: fetters.VoiceList,
-                    template: [
-                        {
-                            div: [
-                                {
-                                    div: {
+                "Stories": [
+                    {
+                        div: [
+                            {
+                                div: [
+                                    {
                                         p: function (k) {
                                             return k.data.Title[lang]
                                         },
                                         style: {
                                             color: color0
                                         }
+                                    }
+                                ],
+                                class: 'a_section_head'
+                            },
+                            {
+                                div: [
+                                    {
+                                        p: function (k) {
+                                            return k.data[lang]
+                                        },
+                                        datapath: 'Tips',
+                                        style: {
+                                            'font-size': '15px',
+                                            'color': '#ffcc44',
+                                        }
                                     },
-                                    class: 'a_section_head'
+                                    {
+                                        p: function (k) {
+                                            return k.data.Content[lang]
+                                        }
+                                    },
+                                ],
+                                class: 'a_section_content'
+                            },
+                        ],
+                        class: 'a_section',
+                        data: fetters.StoryList,
+                    }
+                ],
+                "Voicelines": [
+                    {
+                        div: [
+                            {
+                                div: {
+                                    p: function (k) {
+                                        return k.data.Title[lang]
+                                    },
+                                    style: {
+                                        color: color0
+                                    }
                                 },
-                                {
-                                    div: [
-                                        {
-                                            p: function (k) {
-                                                return k.data[lang]
-                                            },
-                                            datapath: 'Tips',
-                                            style: {
-                                                'font-size': '15px',
-                                                'color': '#ffcc44',
-                                            }
+                                class: 'a_section_head'
+                            },
+                            {
+                                div: [
+                                    {
+                                        p: function (k) {
+                                            return k.data[lang]
                                         },
-                                        {
-                                            p: function (k) {
-                                                return k.data.Content[lang]
-                                            }
-                                        },
-                                    ],
-                                    class: 'a_section_content'
-                                },
-                            ],
-                            class: 'a_section_small'
-                        }
-                    ]
-                },
+                                        datapath: 'Tips',
+                                        style: {
+                                            'font-size': '15px',
+                                            'color': '#ffcc44',
+                                        }
+                                    },
+                                    {
+                                        p: function (k) {
+                                            return k.data.Content[lang]
+                                        }
+                                    },
+                                ],
+                                class: 'a_section_content'
+                            },
+                        ],
+                        class: 'a_section_small',
+                        data: fetters.VoiceList,
+                    }
+                ],
                 "Teapot Talks": {
                     template: [
                         {

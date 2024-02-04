@@ -26,7 +26,7 @@ $(function() {
     var r = -1
     var GAME = $('#GAME').val() ? $('#GAME').val() : 'GI'
     
-    $('h3 .title').html(txt.Title[lang])
+    $('h3 .title').html(txt.Title[lang] + "<color style='font-size: 0.5em;'><br><b>" + VER_SR + "</b></color>")
 
     $('h3 .lang').html(txt.Home_Lang[GAME][lang])
     $('h3 .lang').css('margin-top', '20px')
@@ -36,23 +36,32 @@ $(function() {
             {
                 section: [
                     {
-                        schedule: txt.Home_Sections[0][lang],
+                        schedule: txt.Home_Sections[0][lang] + " " + VER_GI,
                         a: {
                             'data-id': 1,
                             'class': GAME == 'GI' ? 'active' : ''
+                        },
+                        style: {
+                            'line-height': '1.7'
                         }
                     },
                     {
-                        schedule: txt.Home_Sections[1][lang],
+                        schedule: txt.Home_Sections[1][lang] + " " + VER_SR,
                         a: {
                             'data-id': 2,
                             'class': GAME == 'SR' ? 'active' : ''
+                        },
+                        style: {
+                            'line-height': '1.7'
                         }
                     },
                     {
                         schedule: txt.Home_Sections[2][lang],
                         a: {
                             'data-id': 3
+                        },
+                        style: {
+                            'display': 'flex'
                         }
                     },
                 ],

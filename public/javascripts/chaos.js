@@ -23,7 +23,7 @@ $(function () {
     if (lang == 'EN') { $('body').css('font-family', "'Segoe UI', sans-serif") }
     else { $('body').css('font-family', "'Microsoft YaHei', sans-serif") }
 
-    $('h3 .title').html(txt.Title[lang])
+    $('h3 .title').html(txt.Title[lang] + "<color style='font-size: 0.5em;'><br><b>" + VER_SR + "</b></color>")
     $('h3 .links').html(txt.Page[lang]);
     $('h3 .subtitle').html(txt.Subtitle[lang]);
     $('h3 .lang').html(txt.Lang[lang])
@@ -1275,7 +1275,7 @@ $(function () {
         if (HIDE_SHOW) {
             $('h3 .links').html(txt.Links_[lang]);
             $('.lang').hide()
-            $('.title').html(txt.MoC[lang])
+            $('.title').html(txt.MoC[lang] + ' ' + VER_SR)
             $('.subtitle').html(txt.HS[lang])
             $('.under').hide()
         } else {

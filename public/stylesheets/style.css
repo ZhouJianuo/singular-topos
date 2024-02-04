@@ -57,10 +57,11 @@ h3 {
     text-align: center;
     color: rgb(255, 255, 255);
     font-weight: 400;
+    line-height: 1.1;
 }
 
 h3 .title {
-    font-size: 50px;
+    font-size: 40px;
     position: relative;
 }
 
@@ -211,6 +212,9 @@ schedule.active{
 }
 
 @media screen and (min-width: 600px) and (max-width: 800px) {
+    h3 .title {
+        font-size: 45px;
+    }
     .figure {
         height: 290px;
     }
@@ -226,6 +230,9 @@ schedule.active{
 }
 
 @media screen and (min-width: 800px) {
+    h3 .title {
+        font-size: 50px;
+    }
     .figure {
         height: 320px;
     }

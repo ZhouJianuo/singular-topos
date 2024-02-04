@@ -14,7 +14,7 @@ $(function () {
     var cur_kingdom = {}
     var VERIFY = 0
     var showtop = 0
-    $('h3 .title').text(computer_.MiscText.ComputerTitle[lang])
+    $('h3 .title').html(computer_.MiscText.ComputerTitle[lang] + "<color style='font-size: 0.5em;'><br><b>" + VER_GI + "</b></color>")
     $('h3 .subtitle').html(computer_.MiscText.Subtitle[lang])
     $('h3 .tlsub').html(computer_.MiscText.Translate_Computer[lang])
 
@@ -1028,7 +1028,7 @@ $(function () {
             $('kingdom[data-hd=0]').show()
             $('kingdom[data-hd=1]').css('width', '')
             $('h3 .subtitle').html(computer_.MiscText.Subtitle[lang])
-            $('h3 .title').text(computer_.MiscText.ComputerTitle[lang])
+            $('h3 .title').html(computer_.MiscText.ComputerTitle[lang])
             $('h3 .subtitle').css('font-size', '')
             $('.kingdom').css('padding-bottom', '')
             $('h3 .links').html(computer_.MiscText.Page[lang])

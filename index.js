@@ -19,8 +19,8 @@ app.get('/', (req, res) => {
 
 app.get('/en', (req, res) => {
     let result = {};
-    let { lang = '' } = req.query;
-    result.game = 'GI';
+    let { game = '', lang = '' } = req.query;
+    result.game = game;
     result.lang = lang;
     result.title = 'HomDGCat Database'
     res.render('home', result);
