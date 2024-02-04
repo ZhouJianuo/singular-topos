@@ -26,7 +26,7 @@ $(function() {
     var r = -1
     var GAME = $('#GAME').val() ? $('#GAME').val() : 'GI'
     
-    $('h3 .title').html(txt.Title[lang] + "<color style='font-size: 0.5em;'><br><b>" + VER_SR + "</b></color>")
+    $('h3 .title').html(txt.Title[lang] + "<color style='font-size: 0.5em;'><br><b>" + VER_GI + " / " + VER_SR + "</b></color>")
 
     $('h3 .lang').html(txt.Home_Lang[GAME][lang])
     $('h3 .lang').css('margin-top', '20px')
@@ -61,7 +61,9 @@ $(function() {
                             'data-id': 3
                         },
                         style: {
-                            'display': 'flex'
+                            'display': 'flex',
+                            'justify-content': 'center',
+                            'flex-direction': 'column'
                         }
                     },
                 ],
