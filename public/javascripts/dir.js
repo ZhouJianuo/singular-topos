@@ -43,7 +43,7 @@ var GI = [
         "Features": [
             {
                 "CH": "角色数据、培养材料、故事、语音",
-                "EN": "Character stats, enhancement materials, stories, voicelines."
+                "EN": "Character stats, materials, stories, voicelines."
             },
             {
                 "CH": "角色技能、天赋、命之座",
@@ -55,7 +55,7 @@ var GI = [
             },
             {
                 "CH": "武器数据、技能、培养材料、故事",
-                "EN": "Weapon stats, skills, enhancement materials, stories."
+                "EN": "Weapon stats, skills, materials, stories."
             },
             {
                 "CH": "圣遗物技能、故事",
@@ -191,42 +191,42 @@ var SR = [
             "EN": "/sr/monster"
         }
     },
-    /*{
+    {
         "Title": {
             "CH": "角色 光锥 遗器",
             "EN": "Characters Lightcones Relics"
         },
         "Link": {
-            "CH": "sr.mons.wiki",
-            "EN": "sr.mons.wiki"
+            "CH": "sr.char.wiki",
+            "EN": "sr.char.wiki"
         },
         "Features": [
             {
                 "CH": "角色数据、培养材料、故事、语音",
-                "EN": "Character stats, enhancement materials, stories, voicelines."
+                "EN": "Character stats, materials, stories, voicelines."
             },
             {
                 "CH": "角色技能、天赋、命之座",
-                "EN": "Character skills, talents, constellations."
+                "EN": "Character skills, talents, eidolons."
             },
             {
                 "CH": "角色深度细节",
                 "EN": "Character in-depth details."
             },
             {
-                "CH": "武器数据、技能、培养材料、故事",
-                "EN": "Weapon stats, skills, enhancement materials, stories."
+                "CH": "光锥数据、技能、培养材料、故事",
+                "EN": "Lightcone stats, skills, materials, stories."
             },
             {
-                "CH": "圣遗物技能、故事",
-                "EN": "Artifact skills and stories."
+                "CH": "遗器技能、故事",
+                "EN": "Relic skills and stories."
             }
         ],
         "Href": {
             "CH": "/sr/char",
             "EN": "/sr/char"
         }
-    },*/
+    },
     {
         "Title": {
             "CH": "混沌回忆",
