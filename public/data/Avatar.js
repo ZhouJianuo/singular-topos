@@ -28,7 +28,7 @@ var _avatar = [
             130605,
             130606
         ],
-        "Icon": "AvatarIcon/1306.png",
+        "Icon": "AvatarIcon/1306",
         "Pic": "AvatarDrawCard/1306.png",
         "Mat": [
             114013,
@@ -178,7 +178,7 @@ var _avatar = [
             130705,
             130706
         ],
-        "Icon": "AvatarIcon/1307.png",
+        "Icon": "AvatarIcon/1307",
         "Pic": "AvatarDrawCard/1307.png",
         "Mat": [
             111003,
@@ -328,7 +328,7 @@ var _avatar = [
             131205,
             131206
         ],
-        "Icon": "AvatarIcon/1312.png",
+        "Icon": "AvatarIcon/1312",
         "Pic": "AvatarDrawCard/1312.png",
         "Mat": [
             114003,
@@ -478,7 +478,7 @@ var _avatar = [
             121405,
             121406
         ],
-        "Icon": "AvatarIcon/1214.png",
+        "Icon": "AvatarIcon/1214",
         "Pic": "AvatarDrawCard/1214.png",
         "Mat": [
             111003,
@@ -628,7 +628,7 @@ var _avatar = [
             130305,
             130306
         ],
-        "Icon": "AvatarIcon/1303.png",
+        "Icon": "AvatarIcon/1303",
         "Pic": "AvatarDrawCard/1303.png",
         "Mat": [
             113003,
@@ -778,7 +778,7 @@ var _avatar = [
             130505,
             130506
         ],
-        "Icon": "AvatarIcon/1305.png",
+        "Icon": "AvatarIcon/1305",
         "Pic": "AvatarDrawCard/1305.png",
         "Mat": [
             111013,
@@ -928,7 +928,7 @@ var _avatar = [
             121505,
             121506
         ],
-        "Icon": "AvatarIcon/1215.png",
+        "Icon": "AvatarIcon/1215",
         "Pic": "AvatarDrawCard/1215.png",
         "Mat": [
             113013,
@@ -1078,7 +1078,7 @@ var _avatar = [
             121705,
             121706
         ],
-        "Icon": "AvatarIcon/1217.png",
+        "Icon": "AvatarIcon/1217",
         "Pic": "AvatarDrawCard/1217.png",
         "Mat": [
             113003,
@@ -1229,7 +1229,7 @@ var _avatar = [
             130205,
             130206
         ],
-        "Icon": "AvatarIcon/1302.png",
+        "Icon": "AvatarIcon/1302",
         "Pic": "AvatarDrawCard/1302.png",
         "Mat": [
             111003,
@@ -1379,7 +1379,7 @@ var _avatar = [
             111205,
             111206
         ],
-        "Icon": "AvatarIcon/1112.png",
+        "Icon": "AvatarIcon/1112",
         "Pic": "AvatarDrawCard/1112.png",
         "Mat": [
             112003,
@@ -1529,7 +1529,7 @@ var _avatar = [
             121005,
             121006
         ],
-        "Icon": "AvatarIcon/1210.png",
+        "Icon": "AvatarIcon/1210",
         "Pic": "AvatarDrawCard/1210.png",
         "Mat": [
             113013,
@@ -1680,7 +1680,7 @@ var _avatar = [
             121205,
             121206
         ],
-        "Icon": "AvatarIcon/1212.png",
+        "Icon": "AvatarIcon/1212",
         "Pic": "AvatarDrawCard/1212.png",
         "Mat": [
             113003,
@@ -1830,7 +1830,7 @@ var _avatar = [
             111005,
             111006
         ],
-        "Icon": "AvatarIcon/1110.png",
+        "Icon": "AvatarIcon/1110",
         "Pic": "AvatarDrawCard/1110.png",
         "Mat": [
             111003,
@@ -1980,7 +1980,7 @@ var _avatar = [
             120805,
             120806
         ],
-        "Icon": "AvatarIcon/1208.png",
+        "Icon": "AvatarIcon/1208",
         "Pic": "AvatarDrawCard/1208.png",
         "Mat": [
             113013,
@@ -2134,7 +2134,7 @@ var _avatar = [
             121305,
             121306
         ],
-        "Icon": "AvatarIcon/1213.png",
+        "Icon": "AvatarIcon/1213",
         "Pic": "AvatarDrawCard/1213.png",
         "Mat": [
             113003,
@@ -2284,7 +2284,7 @@ var _avatar = [
             100505,
             100506
         ],
-        "Icon": "AvatarIcon/1005.png",
+        "Icon": "AvatarIcon/1005",
         "Pic": "AvatarDrawCard/1005.png",
         "Mat": [
             111013,
@@ -2435,7 +2435,7 @@ var _avatar = [
             111105,
             111106
         ],
-        "Icon": "AvatarIcon/1111.png",
+        "Icon": "AvatarIcon/1111",
         "Pic": "AvatarDrawCard/1111.png",
         "Mat": [
             112013,
@@ -2586,7 +2586,7 @@ var _avatar = [
             120505,
             120506
         ],
-        "Icon": "AvatarIcon/1205.png",
+        "Icon": "AvatarIcon/1205",
         "Pic": "AvatarDrawCard/1205.png",
         "Mat": [
             113003,
@@ -2736,7 +2736,7 @@ var _avatar = [
             100605,
             100606
         ],
-        "Icon": "AvatarIcon/1006.png",
+        "Icon": "AvatarIcon/1006",
         "Pic": "AvatarDrawCard/1006.png",
         "Mat": [
             112013,
@@ -2886,7 +2886,7 @@ var _avatar = [
             120305,
             120306
         ],
-        "Icon": "AvatarIcon/1203.png",
+        "Icon": "AvatarIcon/1203",
         "Pic": "AvatarDrawCard/1203.png",
         "Mat": [
             113013,
@@ -3036,7 +3036,7 @@ var _avatar = [
             120705,
             120706
         ],
-        "Icon": "AvatarIcon/1207.png",
+        "Icon": "AvatarIcon/1207",
         "Pic": "AvatarDrawCard/1207.png",
         "Mat": [
             113013,
@@ -3186,7 +3186,7 @@ var _avatar = [
             100105,
             100106
         ],
-        "Icon": "AvatarIcon/1001.png",
+        "Icon": "AvatarIcon/1001",
         "Pic": "AvatarDrawCard/1001.png",
         "Mat": [
             111013,
@@ -3336,7 +3336,7 @@ var _avatar = [
             100205,
             100206
         ],
-        "Icon": "AvatarIcon/1002.png",
+        "Icon": "AvatarIcon/1002",
         "Pic": "AvatarDrawCard/1002.png",
         "Mat": [
             111003,
@@ -3486,7 +3486,7 @@ var _avatar = [
             100305,
             100306
         ],
-        "Icon": "AvatarIcon/1003.png",
+        "Icon": "AvatarIcon/1003",
         "Pic": "AvatarDrawCard/1003.png",
         "Mat": [
             111003,
@@ -3636,7 +3636,7 @@ var _avatar = [
             100405,
             100406
         ],
-        "Icon": "AvatarIcon/1004.png",
+        "Icon": "AvatarIcon/1004",
         "Pic": "AvatarDrawCard/1004.png",
         "Mat": [
             112003,
@@ -3786,7 +3786,7 @@ var _avatar = [
             100805,
             100806
         ],
-        "Icon": "AvatarIcon/1008.png",
+        "Icon": "AvatarIcon/1008",
         "Pic": "AvatarDrawCard/1008.png",
         "Mat": [
             111003,
@@ -3936,7 +3936,7 @@ var _avatar = [
             100905,
             100906
         ],
-        "Icon": "AvatarIcon/1009.png",
+        "Icon": "AvatarIcon/1009",
         "Pic": "AvatarDrawCard/1009.png",
         "Mat": [
             112003,
@@ -4086,7 +4086,7 @@ var _avatar = [
             101305,
             101306
         ],
-        "Icon": "AvatarIcon/1013.png",
+        "Icon": "AvatarIcon/1013",
         "Pic": "AvatarDrawCard/1013.png",
         "Mat": [
             111003,
@@ -4236,7 +4236,7 @@ var _avatar = [
             110105,
             110106
         ],
-        "Icon": "AvatarIcon/1101.png",
+        "Icon": "AvatarIcon/1101",
         "Pic": "AvatarDrawCard/1101.png",
         "Mat": [
             112003,
@@ -4386,7 +4386,7 @@ var _avatar = [
             110205,
             110206
         ],
-        "Icon": "AvatarIcon/1102.png",
+        "Icon": "AvatarIcon/1102",
         "Pic": "AvatarDrawCard/1102.png",
         "Mat": [
             111013,
@@ -4536,7 +4536,7 @@ var _avatar = [
             110305,
             110306
         ],
-        "Icon": "AvatarIcon/1103.png",
+        "Icon": "AvatarIcon/1103",
         "Pic": "AvatarDrawCard/1103.png",
         "Mat": [
             112003,
@@ -4686,7 +4686,7 @@ var _avatar = [
             110405,
             110406
         ],
-        "Icon": "AvatarIcon/1104.png",
+        "Icon": "AvatarIcon/1104",
         "Pic": "AvatarDrawCard/1104.png",
         "Mat": [
             112003,
@@ -4836,7 +4836,7 @@ var _avatar = [
             110505,
             110506
         ],
-        "Icon": "AvatarIcon/1105.png",
+        "Icon": "AvatarIcon/1105",
         "Pic": "AvatarDrawCard/1105.png",
         "Mat": [
             112013,
@@ -4986,7 +4986,7 @@ var _avatar = [
             110605,
             110606
         ],
-        "Icon": "AvatarIcon/1106.png",
+        "Icon": "AvatarIcon/1106",
         "Pic": "AvatarDrawCard/1106.png",
         "Mat": [
             111003,
@@ -5136,7 +5136,7 @@ var _avatar = [
             110705,
             110706
         ],
-        "Icon": "AvatarIcon/1107.png",
+        "Icon": "AvatarIcon/1107",
         "Pic": "AvatarDrawCard/1107.png",
         "Mat": [
             112013,
@@ -5286,7 +5286,7 @@ var _avatar = [
             110805,
             110806
         ],
-        "Icon": "AvatarIcon/1108.png",
+        "Icon": "AvatarIcon/1108",
         "Pic": "AvatarDrawCard/1108.png",
         "Mat": [
             112013,
@@ -5437,7 +5437,7 @@ var _avatar = [
             110905,
             110906
         ],
-        "Icon": "AvatarIcon/1109.png",
+        "Icon": "AvatarIcon/1109",
         "Pic": "AvatarDrawCard/1109.png",
         "Mat": [
             112013,
@@ -5588,7 +5588,7 @@ var _avatar = [
             120105,
             120106
         ],
-        "Icon": "AvatarIcon/1201.png",
+        "Icon": "AvatarIcon/1201",
         "Pic": "AvatarDrawCard/1201.png",
         "Mat": [
             111013,
@@ -5738,7 +5738,7 @@ var _avatar = [
             120205,
             120206
         ],
-        "Icon": "AvatarIcon/1202.png",
+        "Icon": "AvatarIcon/1202",
         "Pic": "AvatarDrawCard/1202.png",
         "Mat": [
             113003,
@@ -5888,7 +5888,7 @@ var _avatar = [
             120405,
             120406
         ],
-        "Icon": "AvatarIcon/1204.png",
+        "Icon": "AvatarIcon/1204",
         "Pic": "AvatarDrawCard/1204.png",
         "Mat": [
             113003,
@@ -6038,7 +6038,7 @@ var _avatar = [
             120605,
             120606
         ],
-        "Icon": "AvatarIcon/1206.png",
+        "Icon": "AvatarIcon/1206",
         "Pic": "AvatarDrawCard/1206.png",
         "Mat": [
             113013,
@@ -6188,7 +6188,7 @@ var _avatar = [
             120905,
             120906
         ],
-        "Icon": "AvatarIcon/1209.png",
+        "Icon": "AvatarIcon/1209",
         "Pic": "AvatarDrawCard/1209.png",
         "Mat": [
             111013,
@@ -6338,7 +6338,7 @@ var _avatar = [
             121105,
             121106
         ],
-        "Icon": "AvatarIcon/1211.png",
+        "Icon": "AvatarIcon/1211",
         "Pic": "AvatarDrawCard/1211.png",
         "Mat": [
             111003,
@@ -6490,7 +6490,7 @@ var _avatar = [
             800105,
             800106
         ],
-        "Icon": "AvatarIcon/8001.png",
+        "Icon": "AvatarIcon/8001",
         "Pic": "AvatarDrawCard/8001.png",
         "Mat": [
             111013,
@@ -6642,7 +6642,7 @@ var _avatar = [
             800205,
             800206
         ],
-        "Icon": "AvatarIcon/8002.png",
+        "Icon": "AvatarIcon/8002",
         "Pic": "AvatarDrawCard/8002.png",
         "Mat": [
             111013,
@@ -6793,7 +6793,7 @@ var _avatar = [
             800305,
             800306
         ],
-        "Icon": "AvatarIcon/8003.png",
+        "Icon": "AvatarIcon/8003",
         "Pic": "AvatarDrawCard/8003.png",
         "Mat": [
             111013,
@@ -6944,7 +6944,7 @@ var _avatar = [
             800405,
             800406
         ],
-        "Icon": "AvatarIcon/8004.png",
+        "Icon": "AvatarIcon/8004",
         "Pic": "AvatarDrawCard/8004.png",
         "Mat": [
             111013,
@@ -39296,482 +39296,6 @@ var _avatarrank = {
 
 var _weapon = [
     {
-        "_id": 24003,
-        "Name": {
-            "CH": "孤独的疗愈",
-            "EN": "Solitary Healing"
-        },
-        "Desc": {
-            "CH": "诡秘天成，无相无形。<br>万有皆虚，倏忽一梦。<br>自灭者灭，欲生者生。<br>将熄还熠，将涸而盈。<br>悲悯混沌之救济，灵药滋长虚影。<br>背向星辰之暗面，徒然封装于瓶。<br><br><i>「如此悖论，而我等以为荣。」</i>",
-            "EN": "Things molded by the hands of secrecy are shapeless and incorporeal.<br>In the totality of emptiness, there yet exists a sudden dreaming.<br>Those that court destruction will reap ruinous fruit, while those that clamor to live will survive.<br>That which is extinguished may yet spark, and that which has dried may yet be filled anew.<br>In compassion for the salvation of chaos, the elixir nurtures the shadows.<br>With back faced to the darkness between the stars, the encapsulation of this vessel can only be done in vain.<br><br><i>\"Paradoxical these knowings are, in them shine the fullness of our pride.\"</i>"
-        },
-        "Rarity": 5,
-        "Path": "Nihility",
-        "Skill": 24003,
-        "Pic": "24003.png",
-        "Mat": [
-            111003,
-            110153
-        ],
-        "Stats": [
-            {
-                "HP": [
-                    48.0,
-                    7.2
-                ],
-                "ATK": [
-                    24.0,
-                    3.6
-                ],
-                "DEF": [
-                    18.0,
-                    2.7
-                ]
-            },
-            {
-                "HP": [
-                    105.6,
-                    7.2
-                ],
-                "ATK": [
-                    52.8,
-                    3.6
-                ],
-                "DEF": [
-                    39.6,
-                    2.7
-                ]
-            },
-            {
-                "HP": [
-                    182.4,
-                    7.2
-                ],
-                "ATK": [
-                    91.2,
-                    3.6
-                ],
-                "DEF": [
-                    68.4,
-                    2.7
-                ]
-            },
-            {
-                "HP": [
-                    259.2,
-                    7.2
-                ],
-                "ATK": [
-                    129.6,
-                    3.6
-                ],
-                "DEF": [
-                    97.2,
-                    2.7
-                ]
-            },
-            {
-                "HP": [
-                    336.0,
-                    7.2
-                ],
-                "ATK": [
-                    168.0,
-                    3.6
-                ],
-                "DEF": [
-                    126.0,
-                    2.7
-                ]
-            },
-            {
-                "HP": [
-                    412.8,
-                    7.2
-                ],
-                "ATK": [
-                    206.4,
-                    3.6
-                ],
-                "DEF": [
-                    154.8,
-                    2.7
-                ]
-            },
-            {
-                "HP": [
-                    489.6,
-                    7.2
-                ],
-                "ATK": [
-                    244.8,
-                    3.6
-                ],
-                "DEF": [
-                    183.6,
-                    2.7
-                ]
-            }
-        ]
-    },
-    {
-        "_id": 24002,
-        "Name": {
-            "CH": "记忆的质料",
-            "EN": "Texture of Memories"
-        },
-        "Desc": {
-            "CH": "宇宙像一片堆满垃圾的生荒地。<br>偶有琳琅，无人捡拾。<br>祂翻阅往日的罅隙，拣选记忆的种子<br>——新的生命要是萌芽，它的种子须是死的。<br>粉色、蓝色、白色的宝石被带了来，<br>在祂的苗圃中轻盈闪烁，<br>但宇宙依旧寂静如谜。",
-            "EN": "The universe was like a badland filled with rubbish.<br>There were the occasional treasure that lies undiscovered.<br>They looked through the cracks of the past, choosing seeds of memory.<br>...If a new life was to be born, its seed has to be dead.<br>Precious stones of pink, blue, and white were brought forth,<br>twinkling gently in their seed plot,<br>even though the universe held onto its enigmatic silence."
-        },
-        "Rarity": 5,
-        "Path": "Preservation",
-        "Skill": 24002,
-        "Pic": "24002.png",
-        "Mat": [
-            111003,
-            110143
-        ],
-        "Stats": [
-            {
-                "HP": [
-                    48.0,
-                    7.2
-                ],
-                "ATK": [
-                    19.2,
-                    2.88
-                ],
-                "DEF": [
-                    24.0,
-                    3.6
-                ]
-            },
-            {
-                "HP": [
-                    105.6,
-                    7.2
-                ],
-                "ATK": [
-                    42.24,
-                    2.88
-                ],
-                "DEF": [
-                    52.8,
-                    3.6
-                ]
-            },
-            {
-                "HP": [
-                    182.4,
-                    7.2
-                ],
-                "ATK": [
-                    72.96,
-                    2.88
-                ],
-                "DEF": [
-                    91.2,
-                    3.6
-                ]
-            },
-            {
-                "HP": [
-                    259.2,
-                    7.2
-                ],
-                "ATK": [
-                    103.68,
-                    2.88
-                ],
-                "DEF": [
-                    129.6,
-                    3.6
-                ]
-            },
-            {
-                "HP": [
-                    336.0,
-                    7.2
-                ],
-                "ATK": [
-                    134.4,
-                    2.88
-                ],
-                "DEF": [
-                    168.0,
-                    3.6
-                ]
-            },
-            {
-                "HP": [
-                    412.8,
-                    7.2
-                ],
-                "ATK": [
-                    165.12,
-                    2.88
-                ],
-                "DEF": [
-                    206.4,
-                    3.6
-                ]
-            },
-            {
-                "HP": [
-                    489.6,
-                    7.2
-                ],
-                "ATK": [
-                    195.84,
-                    2.88
-                ],
-                "DEF": [
-                    244.8,
-                    3.6
-                ]
-            }
-        ]
-    },
-    {
-        "_id": 24001,
-        "Name": {
-            "CH": "星海巡航",
-            "EN": "Cruising in the Stellar Sea"
-        },
-        "Desc": {
-            "CH": "来往于星海之间，<br>祂的速度有如虹霓闪光的一瞬。<br>围追不死孽物，<br>揽寻幻宝解药，<br>寻求解脱之途。<br>祂的航程将犹如永不被打破的誓言般，<br>永无尽头。",
-            "EN": "Coursing 'tween the sea of stars,<br>they cruise with the speed of a rainbow's chromatic flash.<br>A journey of hunting undying abominations,<br>collecting cures and miracles,<br>and seeking deliverance.<br>Akin to a vow unbroken, their voyage will be,<br>ad infinitum."
-        },
-        "Rarity": 5,
-        "Path": "Hunt",
-        "Skill": 24001,
-        "Pic": "24001.png",
-        "Mat": [
-            111003,
-            110123
-        ],
-        "Stats": [
-            {
-                "HP": [
-                    43.2,
-                    6.48
-                ],
-                "ATK": [
-                    24.0,
-                    3.6
-                ],
-                "DEF": [
-                    21.0,
-                    3.15
-                ]
-            },
-            {
-                "HP": [
-                    95.04,
-                    6.48
-                ],
-                "ATK": [
-                    52.8,
-                    3.6
-                ],
-                "DEF": [
-                    46.2,
-                    3.15
-                ]
-            },
-            {
-                "HP": [
-                    164.16,
-                    6.48
-                ],
-                "ATK": [
-                    91.2,
-                    3.6
-                ],
-                "DEF": [
-                    79.8,
-                    3.15
-                ]
-            },
-            {
-                "HP": [
-                    233.28,
-                    6.48
-                ],
-                "ATK": [
-                    129.6,
-                    3.6
-                ],
-                "DEF": [
-                    113.4,
-                    3.15
-                ]
-            },
-            {
-                "HP": [
-                    302.4,
-                    6.48
-                ],
-                "ATK": [
-                    168.0,
-                    3.6
-                ],
-                "DEF": [
-                    147.0,
-                    3.15
-                ]
-            },
-            {
-                "HP": [
-                    371.52,
-                    6.48
-                ],
-                "ATK": [
-                    206.4,
-                    3.6
-                ],
-                "DEF": [
-                    180.6,
-                    3.15
-                ]
-            },
-            {
-                "HP": [
-                    440.64,
-                    6.48
-                ],
-                "ATK": [
-                    244.8,
-                    3.6
-                ],
-                "DEF": [
-                    214.2,
-                    3.15
-                ]
-            }
-        ]
-    },
-    {
-        "_id": 24000,
-        "Name": {
-            "CH": "记一位星神的陨落",
-            "EN": "On the Fall of an Aeon"
-        },
-        "Desc": {
-            "CH": "从一道光开始。<br>祂们坠落，陨灭的威胁居高临下。<br>祂们不得不停止自我复制，争先恐后拥抱彼此，<br>试图用繁殖的权利为代价，换取生存的可能。<br>祂们携手，从未如此团结<br>——但命途戛然而止，<br>祂们趋向真正的死亡。",
-            "EN": "It began with a flash of light.<br>One by one, they fell as the threat of expiration loomed over them.<br>They had to stop self-replicating and rushed to embrace each other,<br>trying to offer the right to reproduce in exchange for a possibility of survival.<br>They held hands in a show of unprecedented unity.<br>...But the Paths met an abrupt end,<br>and they were headed to a true death."
-        },
-        "Rarity": 5,
-        "Path": "Destruction",
-        "Skill": 24000,
-        "Pic": "24000.png",
-        "Mat": [
-            111003,
-            110113
-        ],
-        "Stats": [
-            {
-                "HP": [
-                    48.0,
-                    7.2
-                ],
-                "ATK": [
-                    24.0,
-                    3.6
-                ],
-                "DEF": [
-                    18.0,
-                    2.7
-                ]
-            },
-            {
-                "HP": [
-                    105.6,
-                    7.2
-                ],
-                "ATK": [
-                    52.8,
-                    3.6
-                ],
-                "DEF": [
-                    39.6,
-                    2.7
-                ]
-            },
-            {
-                "HP": [
-                    182.4,
-                    7.2
-                ],
-                "ATK": [
-                    91.2,
-                    3.6
-                ],
-                "DEF": [
-                    68.4,
-                    2.7
-                ]
-            },
-            {
-                "HP": [
-                    259.2,
-                    7.2
-                ],
-                "ATK": [
-                    129.6,
-                    3.6
-                ],
-                "DEF": [
-                    97.2,
-                    2.7
-                ]
-            },
-            {
-                "HP": [
-                    336.0,
-                    7.2
-                ],
-                "ATK": [
-                    168.0,
-                    3.6
-                ],
-                "DEF": [
-                    126.0,
-                    2.7
-                ]
-            },
-            {
-                "HP": [
-                    412.8,
-                    7.2
-                ],
-                "ATK": [
-                    206.4,
-                    3.6
-                ],
-                "DEF": [
-                    154.8,
-                    2.7
-                ]
-            },
-            {
-                "HP": [
-                    489.6,
-                    7.2
-                ],
-                "ATK": [
-                    244.8,
-                    3.6
-                ],
-                "DEF": [
-                    183.6,
-                    2.7
-                ]
-            }
-        ]
-    },
-    {
         "_id": 23022,
         "Name": {
             "CH": "重塑时光之忆",
@@ -42500,6 +42024,482 @@ var _weapon = [
                 "ATK": [
                     269.28,
                     3.96
+                ],
+                "DEF": [
+                    183.6,
+                    2.7
+                ]
+            }
+        ]
+    },
+    {
+        "_id": 24003,
+        "Name": {
+            "CH": "孤独的疗愈",
+            "EN": "Solitary Healing"
+        },
+        "Desc": {
+            "CH": "诡秘天成，无相无形。<br>万有皆虚，倏忽一梦。<br>自灭者灭，欲生者生。<br>将熄还熠，将涸而盈。<br>悲悯混沌之救济，灵药滋长虚影。<br>背向星辰之暗面，徒然封装于瓶。<br><br><i>「如此悖论，而我等以为荣。」</i>",
+            "EN": "Things molded by the hands of secrecy are shapeless and incorporeal.<br>In the totality of emptiness, there yet exists a sudden dreaming.<br>Those that court destruction will reap ruinous fruit, while those that clamor to live will survive.<br>That which is extinguished may yet spark, and that which has dried may yet be filled anew.<br>In compassion for the salvation of chaos, the elixir nurtures the shadows.<br>With back faced to the darkness between the stars, the encapsulation of this vessel can only be done in vain.<br><br><i>\"Paradoxical these knowings are, in them shine the fullness of our pride.\"</i>"
+        },
+        "Rarity": 5,
+        "Path": "Nihility",
+        "Skill": 24003,
+        "Pic": "24003.png",
+        "Mat": [
+            111003,
+            110153
+        ],
+        "Stats": [
+            {
+                "HP": [
+                    48.0,
+                    7.2
+                ],
+                "ATK": [
+                    24.0,
+                    3.6
+                ],
+                "DEF": [
+                    18.0,
+                    2.7
+                ]
+            },
+            {
+                "HP": [
+                    105.6,
+                    7.2
+                ],
+                "ATK": [
+                    52.8,
+                    3.6
+                ],
+                "DEF": [
+                    39.6,
+                    2.7
+                ]
+            },
+            {
+                "HP": [
+                    182.4,
+                    7.2
+                ],
+                "ATK": [
+                    91.2,
+                    3.6
+                ],
+                "DEF": [
+                    68.4,
+                    2.7
+                ]
+            },
+            {
+                "HP": [
+                    259.2,
+                    7.2
+                ],
+                "ATK": [
+                    129.6,
+                    3.6
+                ],
+                "DEF": [
+                    97.2,
+                    2.7
+                ]
+            },
+            {
+                "HP": [
+                    336.0,
+                    7.2
+                ],
+                "ATK": [
+                    168.0,
+                    3.6
+                ],
+                "DEF": [
+                    126.0,
+                    2.7
+                ]
+            },
+            {
+                "HP": [
+                    412.8,
+                    7.2
+                ],
+                "ATK": [
+                    206.4,
+                    3.6
+                ],
+                "DEF": [
+                    154.8,
+                    2.7
+                ]
+            },
+            {
+                "HP": [
+                    489.6,
+                    7.2
+                ],
+                "ATK": [
+                    244.8,
+                    3.6
+                ],
+                "DEF": [
+                    183.6,
+                    2.7
+                ]
+            }
+        ]
+    },
+    {
+        "_id": 24002,
+        "Name": {
+            "CH": "记忆的质料",
+            "EN": "Texture of Memories"
+        },
+        "Desc": {
+            "CH": "宇宙像一片堆满垃圾的生荒地。<br>偶有琳琅，无人捡拾。<br>祂翻阅往日的罅隙，拣选记忆的种子<br>——新的生命要是萌芽，它的种子须是死的。<br>粉色、蓝色、白色的宝石被带了来，<br>在祂的苗圃中轻盈闪烁，<br>但宇宙依旧寂静如谜。",
+            "EN": "The universe was like a badland filled with rubbish.<br>There were the occasional treasure that lies undiscovered.<br>They looked through the cracks of the past, choosing seeds of memory.<br>...If a new life was to be born, its seed has to be dead.<br>Precious stones of pink, blue, and white were brought forth,<br>twinkling gently in their seed plot,<br>even though the universe held onto its enigmatic silence."
+        },
+        "Rarity": 5,
+        "Path": "Preservation",
+        "Skill": 24002,
+        "Pic": "24002.png",
+        "Mat": [
+            111003,
+            110143
+        ],
+        "Stats": [
+            {
+                "HP": [
+                    48.0,
+                    7.2
+                ],
+                "ATK": [
+                    19.2,
+                    2.88
+                ],
+                "DEF": [
+                    24.0,
+                    3.6
+                ]
+            },
+            {
+                "HP": [
+                    105.6,
+                    7.2
+                ],
+                "ATK": [
+                    42.24,
+                    2.88
+                ],
+                "DEF": [
+                    52.8,
+                    3.6
+                ]
+            },
+            {
+                "HP": [
+                    182.4,
+                    7.2
+                ],
+                "ATK": [
+                    72.96,
+                    2.88
+                ],
+                "DEF": [
+                    91.2,
+                    3.6
+                ]
+            },
+            {
+                "HP": [
+                    259.2,
+                    7.2
+                ],
+                "ATK": [
+                    103.68,
+                    2.88
+                ],
+                "DEF": [
+                    129.6,
+                    3.6
+                ]
+            },
+            {
+                "HP": [
+                    336.0,
+                    7.2
+                ],
+                "ATK": [
+                    134.4,
+                    2.88
+                ],
+                "DEF": [
+                    168.0,
+                    3.6
+                ]
+            },
+            {
+                "HP": [
+                    412.8,
+                    7.2
+                ],
+                "ATK": [
+                    165.12,
+                    2.88
+                ],
+                "DEF": [
+                    206.4,
+                    3.6
+                ]
+            },
+            {
+                "HP": [
+                    489.6,
+                    7.2
+                ],
+                "ATK": [
+                    195.84,
+                    2.88
+                ],
+                "DEF": [
+                    244.8,
+                    3.6
+                ]
+            }
+        ]
+    },
+    {
+        "_id": 24001,
+        "Name": {
+            "CH": "星海巡航",
+            "EN": "Cruising in the Stellar Sea"
+        },
+        "Desc": {
+            "CH": "来往于星海之间，<br>祂的速度有如虹霓闪光的一瞬。<br>围追不死孽物，<br>揽寻幻宝解药，<br>寻求解脱之途。<br>祂的航程将犹如永不被打破的誓言般，<br>永无尽头。",
+            "EN": "Coursing 'tween the sea of stars,<br>they cruise with the speed of a rainbow's chromatic flash.<br>A journey of hunting undying abominations,<br>collecting cures and miracles,<br>and seeking deliverance.<br>Akin to a vow unbroken, their voyage will be,<br>ad infinitum."
+        },
+        "Rarity": 5,
+        "Path": "Hunt",
+        "Skill": 24001,
+        "Pic": "24001.png",
+        "Mat": [
+            111003,
+            110123
+        ],
+        "Stats": [
+            {
+                "HP": [
+                    43.2,
+                    6.48
+                ],
+                "ATK": [
+                    24.0,
+                    3.6
+                ],
+                "DEF": [
+                    21.0,
+                    3.15
+                ]
+            },
+            {
+                "HP": [
+                    95.04,
+                    6.48
+                ],
+                "ATK": [
+                    52.8,
+                    3.6
+                ],
+                "DEF": [
+                    46.2,
+                    3.15
+                ]
+            },
+            {
+                "HP": [
+                    164.16,
+                    6.48
+                ],
+                "ATK": [
+                    91.2,
+                    3.6
+                ],
+                "DEF": [
+                    79.8,
+                    3.15
+                ]
+            },
+            {
+                "HP": [
+                    233.28,
+                    6.48
+                ],
+                "ATK": [
+                    129.6,
+                    3.6
+                ],
+                "DEF": [
+                    113.4,
+                    3.15
+                ]
+            },
+            {
+                "HP": [
+                    302.4,
+                    6.48
+                ],
+                "ATK": [
+                    168.0,
+                    3.6
+                ],
+                "DEF": [
+                    147.0,
+                    3.15
+                ]
+            },
+            {
+                "HP": [
+                    371.52,
+                    6.48
+                ],
+                "ATK": [
+                    206.4,
+                    3.6
+                ],
+                "DEF": [
+                    180.6,
+                    3.15
+                ]
+            },
+            {
+                "HP": [
+                    440.64,
+                    6.48
+                ],
+                "ATK": [
+                    244.8,
+                    3.6
+                ],
+                "DEF": [
+                    214.2,
+                    3.15
+                ]
+            }
+        ]
+    },
+    {
+        "_id": 24000,
+        "Name": {
+            "CH": "记一位星神的陨落",
+            "EN": "On the Fall of an Aeon"
+        },
+        "Desc": {
+            "CH": "从一道光开始。<br>祂们坠落，陨灭的威胁居高临下。<br>祂们不得不停止自我复制，争先恐后拥抱彼此，<br>试图用繁殖的权利为代价，换取生存的可能。<br>祂们携手，从未如此团结<br>——但命途戛然而止，<br>祂们趋向真正的死亡。",
+            "EN": "It began with a flash of light.<br>One by one, they fell as the threat of expiration loomed over them.<br>They had to stop self-replicating and rushed to embrace each other,<br>trying to offer the right to reproduce in exchange for a possibility of survival.<br>They held hands in a show of unprecedented unity.<br>...But the Paths met an abrupt end,<br>and they were headed to a true death."
+        },
+        "Rarity": 5,
+        "Path": "Destruction",
+        "Skill": 24000,
+        "Pic": "24000.png",
+        "Mat": [
+            111003,
+            110113
+        ],
+        "Stats": [
+            {
+                "HP": [
+                    48.0,
+                    7.2
+                ],
+                "ATK": [
+                    24.0,
+                    3.6
+                ],
+                "DEF": [
+                    18.0,
+                    2.7
+                ]
+            },
+            {
+                "HP": [
+                    105.6,
+                    7.2
+                ],
+                "ATK": [
+                    52.8,
+                    3.6
+                ],
+                "DEF": [
+                    39.6,
+                    2.7
+                ]
+            },
+            {
+                "HP": [
+                    182.4,
+                    7.2
+                ],
+                "ATK": [
+                    91.2,
+                    3.6
+                ],
+                "DEF": [
+                    68.4,
+                    2.7
+                ]
+            },
+            {
+                "HP": [
+                    259.2,
+                    7.2
+                ],
+                "ATK": [
+                    129.6,
+                    3.6
+                ],
+                "DEF": [
+                    97.2,
+                    2.7
+                ]
+            },
+            {
+                "HP": [
+                    336.0,
+                    7.2
+                ],
+                "ATK": [
+                    168.0,
+                    3.6
+                ],
+                "DEF": [
+                    126.0,
+                    2.7
+                ]
+            },
+            {
+                "HP": [
+                    412.8,
+                    7.2
+                ],
+                "ATK": [
+                    206.4,
+                    3.6
+                ],
+                "DEF": [
+                    154.8,
+                    2.7
+                ]
+            },
+            {
+                "HP": [
+                    489.6,
+                    7.2
+                ],
+                "ATK": [
+                    244.8,
+                    3.6
                 ],
                 "DEF": [
                     183.6,

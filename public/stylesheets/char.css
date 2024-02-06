@@ -63,3 +63,105 @@ schedule {
 .a_w_r img {
     width: 40px;
 }
+
+.area {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.avatar-stat {
+    font-size: 13px;
+    margin-left: 4px;
+    margin-right: 4px;
+    white-space: pre;
+}
+.avatar-staticon {
+    height: 23px;
+    width: 23px;
+    position: relative;
+    top: 6px;
+}
+
+.avatar-card {
+    border-radius: 5px;
+    padding: 12px 14px 17px;
+    margin-top: 7px;
+    margin-bottom: 13px;
+    width: calc(50% - 43px);
+    line-height: 2;
+    background-color: #27363E;
+    color: #dddddd;
+    position: relative;
+    text-align: center;
+    cursor: pointer;
+}
+
+
+.avatar-card p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.avatar-head {
+    height: 180px;
+    margin: auto;
+    display: block;
+    margin-bottom: -10px;
+    margin-top: -12px;
+    z-index: -1;
+    max-width: 100%;
+    object-fit: contain;
+}
+
+.weapon-head {
+    height: 180px;
+    margin: auto;
+    display: block;
+    margin-bottom: 6px;
+    margin-top: 6px;
+    z-index: -1;
+    max-width: 100%;
+    object-fit: contain;
+}
+
+.belowhead {
+    position: relative;
+    top: -40px;
+}
+
+@media screen and (min-width: 500px) and (max-width: 800px) {
+    .avatar-card {
+        width: calc(33% - 38px);
+    }
+    .avatar-head, .weapon-head {
+        height: 210px;
+    }
+}
+
+@media screen and (min-width: 800px) {
+    .avatar-stat {
+        font-size: 14px;
+    }
+    .avatar-staticon {
+        height: 27px;
+        width: 27px;
+        top: 8px;
+    }
+    .avatar-head, .weapon-head {
+        height: 240px;
+    }
+}
+
+@media screen and (min-width: 800px) and (max-width: 1000px) {
+    .avatar-card {
+        width: calc(25% - 40px);
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    .avatar-card {
+        width: calc(20% - 42px);
+    }
+}

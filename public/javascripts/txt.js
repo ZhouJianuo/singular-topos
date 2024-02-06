@@ -256,8 +256,8 @@ var txt = {
         }
     ],
     "Keep": {
-        "CH": "（最多#个在场）",
-        "EN": " (Max # on field)"
+        "CH": "最多#个在场",
+        "EN": "Max # on field"
     },
     "MoC": {
         "CH": "混沌回忆",

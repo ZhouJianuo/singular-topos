@@ -469,16 +469,6 @@ $(function () {
                                 },
                                 class: 'monelem'
                             },
-                            {
-                                span: t.Stance.toString(),
-                                class: 'monname',
-                                style: {
-                                    'margin-left': '5px',
-                                    'position': 'relative',
-                                    'bottom': '2px',
-                                    'font-weight': 'bold'
-                                }
-                            },
                         ],
                         class: 'monbottom'
                     },
@@ -520,7 +510,7 @@ $(function () {
         var temp = {
             div: [
                 {
-                    p: txt.Wave[i][lang] + txt.Keep[lang].replace("#", w.KeepNum.toString()),
+                    p: txt.Keep[lang].replace("#", w.KeepNum.toString()),
                     class: 'wave_name'
                 },
                 {
