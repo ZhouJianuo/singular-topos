@@ -1,0 +1,65 @@
+container {
+    display: block;
+    max-width: 2000px;
+}
+
+.content {
+    padding: 20px 0px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 1);
+    min-height: 600px;
+}
+
+popdialog {
+    height: 100%;
+}
+
+popheader {
+    height: 40px;
+    line-height: 40px;
+    background: #fff;
+    color: #333;
+    font-size: 18px;
+    font-weight: 600;
+    overflow: hidden;
+}
+
+popbody {
+    max-height: calc(100% - 40px) !important
+}
+
+.scroller {
+    overflow-x: hidden !important;
+}
+
+schedule {
+    display: block;
+    width: calc((100% - 50px) / 5);
+    text-align: center;
+    padding: 10px 0px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+.a_w_r {
+    margin-top: 0;
+}
+
+.a_w_r schedule {
+    background-color: #27363e;
+    width: 60px;
+    border-radius: 9px;
+    border-width: 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.a_w_r schedule.active {
+    background-color: #df903b;
+}
+
+.a_w_r img {
+    width: 40px;
+}

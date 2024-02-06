@@ -33,6 +33,73 @@ $(function () {
         popLinks(lang)
     })
 
+    $('container').render({
+        template: {
+            div: [
+                {
+                    section: [
+                        {
+                            schedule: {
+                                img: imgpre + 'images/Misc/IconAvatarDetail.png',
+                            },
+                            class: 'active _a'
+                        },
+                        {
+                            schedule: {
+                                img: imgpre + 'images/Misc/IconAvatarLightCone.png',
+                            },
+                            class: '_w'
+                        },
+                        /*{
+                            schedule: {
+                                img: imgpre + 'images/Misc/IconAvatarRelic.png',
+                            },
+                            class: '_r'
+                        }*/
+                    ],
+                    class: 'a_w_r'
+                },
+                {
+                    div: [],
+                    class: 'area'
+                }
+            ],
+            class: 'content'
+        }
+    })
+
+    $('body').on('click', '.a_w_r schedule', function () {
+        if ($(this).hasClass('active')) {
+            return;
+        }
+        $(this).addClass('active').siblings('schedule').removeClass('active');
+        if ($(this).hasClass('_a')) {
+            listAvatar()
+        } else if ($(this).hasClass('_w')) {
+            listWeapon()
+        } else {
+            listRelic()
+        }
+    })
+
+    function listAvatar() {
+        $('.area').empty().render({
+
+        })
+    }
+
+    function listWeapon() {
+        $('.area').empty().render({
+            
+        })
+    }
+
+    function listRelic() {
+        $('.area').empty().render({
+            
+        })
+    }
+
     $('body').on('click', '.subtitle', function () {
         IS_SW += 1
         if (IS_SW % 4 == 1) {
