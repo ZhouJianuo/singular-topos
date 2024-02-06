@@ -1189,6 +1189,21 @@ $(function () {
             dr = {
                 "Battle Skills": [
                     {
+                        div: {
+                            div: [
+                                {
+                                    span: computer_.MiscText.StatVerChoose[lang]
+                                },
+                                {
+                                    span: renderSVC(avatar),
+                                    class: 'stat_ver_choose'
+                                }
+                            ],
+                            class: 'a_section_head stat_ver_choose_wrap'
+                        },
+                        class: 'a_section'
+                    },
+                    {
                         div: [
                             {
                                 div: [
@@ -1385,12 +1400,23 @@ $(function () {
                             width: '100%'
                         }
                     },
-                    {
-                        div: renderSVC(avatar),
-                        class: 'stat_ver_choose'
-                    },
                 ],
                 "Passive Skills": [
+                    {
+                        div: {
+                            div: [
+                                {
+                                    span: computer_.MiscText.StatVerChoose[lang]
+                                },
+                                {
+                                    span: renderSVC(avatar),
+                                    class: 'stat_ver_choose'
+                                }
+                            ],
+                            class: 'a_section_head stat_ver_choose_wrap'
+                        },
+                        class: 'a_section'
+                    },
                     {
                         div: [
                             {
@@ -1442,12 +1468,23 @@ $(function () {
                         class: 'a_section',
                         data: skillconfig.PassiveSkills,
                     },
-                    {
-                        div: renderSVC(avatar),
-                        class: 'stat_ver_choose'
-                    },
                 ],
                 "Constellations": [
+                    {
+                        div: {
+                            div: [
+                                {
+                                    span: computer_.MiscText.StatVerChoose[lang]
+                                },
+                                {
+                                    span: renderSVC(avatar),
+                                    class: 'stat_ver_choose'
+                                }
+                            ],
+                            class: 'a_section_head stat_ver_choose_wrap'
+                        },
+                        class: 'a_section'
+                    },
                     {
                         div: [
                             {
@@ -1500,10 +1537,6 @@ $(function () {
                         ],
                         class: 'a_section',
                         data: skillconfig.Constellations,
-                    },
-                    {
-                        div: renderSVC(avatar),
-                        class: 'stat_ver_choose'
                     },
                 ],
                 "Damage Data": {

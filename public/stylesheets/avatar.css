@@ -258,16 +258,22 @@ button {
     width: 50px;
 }
 
-.stat_ver_choose {
-    margin: 15px 0 21px;
+.stat_ver_choose_wrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.stat_ver_choose_wrap span {
+    margin: 0px 15px;
 }
 
 .stat_ver_choose select {
     width: 108px;
     text-align: center;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: bold;
-    height: 33px;
+    height: 29px;
 }
 
 .stat_ver_choose_w select,

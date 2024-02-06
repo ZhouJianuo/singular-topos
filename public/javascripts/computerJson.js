@@ -895,8 +895,12 @@ var computer_ = {
             }
         ],
         "Changelog": {
-            "CH": "更新追踪",
+            "CH": "聚焦更新",
             "EN": "Track Updates"
+        },
+        "StatVerChoose": {
+            "CH": "版本",
+            "EN": "Version"
         },
         "Ach_Title": {
             "CH": "玉衡杯数据库",
