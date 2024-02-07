@@ -303,6 +303,74 @@ var txt = {
         "CH": "新增成就",
         "EN": "New Achievements"
     },
+    "Avatar_Head": [
+        {
+            "CH": "基本信息",
+            "EN": "Basic Info"
+        },
+        {
+            "CH": "技能",
+            "EN": "Skills"
+        },
+        {
+            "CH": "行迹",
+            "EN": "Traces"
+        },
+        {
+            "CH": "星魂",
+            "EN": "Eidolons"
+        },
+        {
+            "CH": "故事",
+            "EN": "Stories"
+        },
+        {
+            "CH": "语音",
+            "EN": "Voicelines"
+        },
+        {
+            "CH": "妮可少女的研究",
+            "EN": "HomDGCat's Notes"
+        }
+    ],
+    "Avatar_Mats": {
+        "CH": "角色材料",
+        "EN": "Materials"
+    },
+    "Avatar_Stats": {
+        "CH": "角色数值",
+        "EN": "Stats"
+    },
+    "Avatar_Story": {
+        "CH": "角色故事 ",
+        "EN": "Character Story "
+    },
+    "StatVerChoose": {
+        "CH": "版本",
+        "EN": "Version"
+    },
+    "AddProp": {
+        "CH": "数值提升",
+        "EN": "Stat Boosts"
+    },
+    "Avatar_StanceBreak": {
+        "CH": "技能削韧：",
+        "EN": "Toughness Break: "
+    },
+    "Avatar_StanceBreak_Specific": [
+        {
+            "CH": "单体 ",
+            "EN": "Single "
+        },
+        {
+            "CH": "所有 ",
+            "EN": "All  "
+        },
+        {
+            "CH": "相邻 ",
+            "EN": "Adjacent  "
+        }
+    ]
 }
 
 var elemcolor = {
@@ -312,7 +380,7 @@ var elemcolor = {
     "Fire": "ff8877",
     "Ice": "8addff",
     "Wind": "97ffb7",
-    "Quantum": "6e8de7",
+    "Quantum": "7f9aea",
     "Imaginary": "ffe779",
 }
 

@@ -37,6 +37,13 @@ $(function () {
     var this_avatar = 0
     var this_weapon = 0
     var this_relic = 0
+    var cur_avatar_page = 1
+
+    var this_avatar_vers = 0
+    var this_avatar_cur_ver = 0
+
+    var this_weapon_vers = 0
+    var this_weapon_cur_ver = 0
 
     $('container').render({
         template: {
@@ -122,7 +129,7 @@ $(function () {
                                     style: {
                                         width: '22%',
                                         'max-width': '35px',
-                                        margin: '0px',
+                                        margin: '0px 5px',
                                     },
                                 },
                                 {
@@ -130,7 +137,7 @@ $(function () {
                                     style: {
                                         width: '22%',
                                         'max-width': '35px',
-                                        margin: '0px',
+                                        margin: '0px 5px',
                                     }
                                 },
                             ],
@@ -181,6 +188,16 @@ $(function () {
                                             class: 'avatar-staticon'
                                         },
                                         t.Stats[6].SPD.toFixed(0)
+                                    ],
+                                    class: 'avatar-stat'
+                                },
+                                {
+                                    span: [
+                                        {
+                                            img: imgpre + 'images/Misc/_ENERGY.png',
+                                            class: 'avatar-staticon'
+                                        },
+                                        t.SP.toFixed(0)
                                     ],
                                     class: 'avatar-stat'
                                 }
@@ -298,7 +315,7 @@ $(function () {
                     ],
                     class: 'avatar-card hover-shadow',
                     click: function (p) {
-                        popAvatar(i)
+                        popWeapon(i)
                     }
                 }
             })
@@ -312,8 +329,763 @@ $(function () {
     }
 
     function popAvatar(ai) {
-        this_avatar = _avatar[i]
+        cur_avatar_page = 1
+        this_avatar = _avatar[ai]
+        this_avatar_vers = getVer(_avatarskill[this_avatar.Skills[0]])
+        this_avatar_cur_ver = this_avatar_vers[1]
+        poplayer({
+            header: this_avatar.Name[lang] + txt.Affix[lang],
+            width: '100%',
+            template: [
+                {
+                    section: function (k) {
+                        txt.Avatar_Head.forEach(function (t, i) {
+                            $(k.container).render({
+                                schedule: t[lang],
+                                class: 'mon_head_option' + (i ? '' : ' active'),
+                                a: {
+                                    'data-id': i + 1,
+                                    'data-tu': t.EN
+                                },
+                                event: {
+                                    click: function (d) {
+                                        if ($(d.sender).hasClass('active')) {
+                                            return;
+                                        }
+                                        $(d.sender).addClass('active').siblings('schedule').removeClass('active');
+                                        poptyp = parseInt($(d.sender).attr('data-id'))
+                                        renderAvatar(poptyp)
+                                    }
+                                },
+                            })
+                        })
+                    },
+                    class: 'mon_head'
+                },
+                {
+                    div: '',
+                    class: 'mon_body'
+                },
+            ]
+        })
+        renderAvatar(cur_avatar_page)
     }
+
+    function renderAvatar(i) {
+        cur_avatar_page = i
+        $('.mon_body').empty()
+        if (i == 1) {
+            $('.mon_body').render([
+                {
+                    div: [
+                        {
+                            div: {
+                                p: this_avatar.Name[lang],
+                                style: {
+                                    'text-align': 'center',
+                                    color: "#" + elemcolor[this_avatar.Element]
+                                }
+                            },
+                            class: 'a_section_head'
+                        },
+                        {
+                            div: [
+                                {
+                                    p: (this_avatar.Rarity == 5) ? '★ ★ ★ ★ ★' : '★ ★ ★ ★',
+                                    style: {
+                                        width: '100%',
+                                        'text-align': 'center',
+                                        'font-size': '20px',
+                                        margin: '0 auto',
+                                    }
+                                },
+                                {
+                                    img: imgpre + 'images/' + this_avatar.Pic,
+                                    class: 'gacha',
+                                },
+                                {
+                                    div: [
+                                        {
+                                            img: imgpre + 'images/Element/' + this_avatar.Element + '.png',
+                                            style: {
+                                                width: '13%',
+                                                'max-width': '48px',
+                                                margin: '0px 5px',
+                                            },
+                                        },
+                                        {
+                                            img: imgpre + 'images/Paths/' + this_avatar.Path + '.png',
+                                            style: {
+                                                width: '13%',
+                                                'max-width': '48px',
+                                                margin: '0px 5px',
+                                            }
+                                        },
+                                    ],
+                                    style: {
+                                        display: 'flex',
+                                        'justify-content': 'center',
+                                        'flex-wrap': 'wrap',
+                                        'margin-top': '0px',
+                                        'margin-bottom': '10px'
+                                    }
+                                },
+                            ],
+                            class: 'a_section_content',
+                            style: {
+                                'overflow-x': 'hidden',
+                                'margin-top': '-12px'
+                            }
+                        },
+                    ],
+                    class: 'a_section'
+                },
+                {
+                    div: [
+                        {
+                            div: {
+                                p: txt.Avatar_Mats[lang]
+                            },
+                            class: 'a_section_head'
+                        },
+                        {
+                            div: [
+                                {
+                                    div: [
+                                        {
+                                            img: imgpre + "images/" + _item[this_avatar.Mat[0] - 2].Icon
+                                        },
+                                        {
+                                            img: imgpre + "images/" + _item[this_avatar.Mat[0] - 1].Icon
+                                        },
+                                        {
+                                            img: imgpre + "images/" + _item[this_avatar.Mat[0]].Icon
+                                        },
+                                        {
+                                            p: _item[this_avatar.Mat[0]].Name[lang],
+                                            style: {
+                                                'font-weight': 'bold'
+                                            }
+                                        },
+                                        {
+                                            p: (this_avatar.Rarity == 5) ? 'x56 / x71 / x73' : 'x40 / x55 / x54',
+                                        }
+                                    ],
+                                    class: 'avatar_mat',
+                                },
+                                {
+                                    div: [
+                                        {
+                                            img: imgpre + "images/" + _item[this_avatar.Mat[1]].Icon
+                                        },
+                                        {
+                                            p: _item[this_avatar.Mat[1]].Name[lang],
+                                            style: {
+                                                'font-weight': 'bold'
+                                            }
+                                        },
+                                        {
+                                            p: (this_avatar.Rarity == 5) ? 'x65' : 'x50',
+                                        }
+                                    ],
+                                    class: 'avatar_mat',
+                                },
+                                {
+                                    div: [
+                                        {
+                                            img: imgpre + "images/" + _item[this_avatar.Mat[2] - 2].Icon
+                                        },
+                                        {
+                                            img: imgpre + "images/" + _item[this_avatar.Mat[2] - 1].Icon
+                                        },
+                                        {
+                                            img: imgpre + "images/" + _item[this_avatar.Mat[2]].Icon
+                                        },
+                                        {
+                                            p: _item[this_avatar.Mat[2]].Name[lang],
+                                            style: {
+                                                'font-weight': 'bold'
+                                            }
+                                        },
+                                        {
+                                            p: (this_avatar.Rarity == 5) ? 'x18 / x69 / x139' : 'x12 / x54 / x105',
+                                        }
+                                    ],
+                                    class: 'avatar_mat',
+                                },
+                                {
+                                    div: [
+                                        {
+                                            img: imgpre + "images/" + _item[this_avatar.Mat[3]].Icon
+                                        },
+                                        {
+                                            p: _item[this_avatar.Mat[3]].Name[lang],
+                                            style: {
+                                                'font-weight': 'bold'
+                                            }
+                                        },
+                                        {
+                                            p: (this_avatar.Rarity == 5) ? 'x12' : 'x12',
+                                        }
+                                    ],
+                                    class: 'avatar_mat',
+                                },
+                            ],
+                            class: 'a_section_content',
+                            style: {
+                                'overflow-x': 'hidden',
+                                display: 'flex',
+                                'justify-content': 'space-evenly',
+                                'flex-wrap': 'wrap',
+                            }
+                        },
+                    ],
+                    class: 'a_section'
+                },
+                {
+                    div: [
+                        {
+                            div: {
+                                p: txt.Avatar_Stats[lang]
+                            },
+                            class: 'a_section_head'
+                        },
+                        {
+                            div: [
+                                
+                            ],
+                            class: 'a_section_content',
+                            style: {
+                                'overflow-x': 'hidden',
+                            }
+                        },
+                    ],
+                    class: 'a_section'
+                },
+            ])
+        }
+        if (i == 2) {
+            $('.mon_body').render({
+                div: {
+                    div: [
+                        {
+                            span: txt.StatVerChoose[lang]
+                        },
+                        {
+                            span: {
+                                select: '',
+                                options: this_avatar_vers[0]
+                            },
+                            class: 'stat_ver_choose'
+                        }
+                    ],
+                    class: 'a_section_head stat_ver_choose_wrap'
+                },
+                class: 'a_section'
+            })
+            $('.stat_ver_choose select').val(this_avatar_cur_ver)
+            this_avatar.Skills.forEach(function (s, i) {
+                var S = _avatarskill[s][this_avatar_cur_ver]
+                var recommendLV = 1
+                if (S.MaxLevel == 15) recommendLV = 10
+                if (S.MaxLevel == 9) recommendLV = 6
+                if (S.Stance) {
+                    var stanceshow = txt.Avatar_StanceBreak[lang] + (S.Stance[0] ? ('| ' + txt.Avatar_StanceBreak_Specific[0][lang] + "<color style='color:#" + elemcolor[this_avatar.Element] + "'><b>" + S.Stance[0] + '</b></color> ') : '') + (S.Stance[1] ? ('| ' + txt.Avatar_StanceBreak_Specific[1][lang] + "<color style='color:#" + elemcolor[this_avatar.Element] + "'><b>" + S.Stance[1] + '</b></color> ') : '') + (S.Stance[2] ? ('| ' + txt.Avatar_StanceBreak_Specific[2][lang] + "<color style='color:#" + elemcolor[this_avatar.Element] + "'><b>" + S.Stance[2] + '</b></color> ') : '')
+                } else {
+                    var stanceshow = ''
+                }
+                $('.mon_body').render({
+                    div: [
+                        {
+                            div: [
+                                {
+                                    img: imgpre + 'images/AvatarSkill/' + S.Icon + '.png',
+                                    class: 'head_left'
+                                },
+                                {
+                                    p: S.Name[lang],
+                                    class: 'head_right hr_1',
+                                    style: {
+                                        color: "#" + elemcolor[this_avatar.Element]
+                                    }
+                                },
+                            ],
+                            class: 'a_section_head head_withimg'
+                        },
+                        {
+                            div: [
+                                {
+                                    div: [
+                                        {
+                                            span: 'Lv' + recommendLV,
+                                            style: {
+                                                'margin-right': '8px',
+                                                'font-weight': 'bold'
+                                            },
+                                            class: 'ld-' + s
+                                        },
+                                        {
+                                            span: {
+                                                span: '▲',
+                                                style: {
+                                                    'font-size': '16px',
+                                                    'line-height': '24px'
+                                                }
+                                            },
+                                            class: 'up',
+                                            a: {
+                                                'data-id': s,
+                                                'data-max': S.MaxLevel
+                                            }
+                                        },
+                                        {
+                                            span: {
+                                                span: '▼',
+                                                style: {
+                                                    'font-size': '16px',
+                                                    'line-height': '24px'
+                                                }
+                                            },
+                                            class: 'down',
+                                            a: {
+                                                'data-id': s,
+                                            }
+                                        },
+                                        /*{
+                                            span: S.Type[lang],
+                                            style: {
+                                                margin: 'auto 6px'
+                                            }
+                                        },
+                                        {
+                                            span: S.Tag[lang],
+                                            style: {
+                                                margin: 'auto 6px'
+                                            }
+                                        }*/
+                                    ],
+                                    class: 'control',
+                                    when: S.MaxLevel > 1
+                                },
+                                {
+                                    p: param(S.Desc[lang], S.Params[recommendLV - 1]),
+                                    class: 'sd sd-' + s
+                                },
+                                {
+                                    p: stanceshow.replaceAll("：| ", "：").replaceAll(": | ", ": "),
+                                    when: S.Stance && (S.Stance[0] + S.Stance[1] + S.Stance[2]),
+                                    style: {
+                                        'margin-top': '10px'
+                                    }
+                                },
+                                {
+                                    p: [
+                                        {
+                                            span: S.Type[lang],
+                                            class: 'sbp',
+                                            style: {
+                                                'font-weight': 'bold',
+                                                color: "#" + elemcolor[this_avatar.Element]
+                                            }
+                                        },
+                                        {
+                                            span: S.Tag[lang],
+                                            class: 'sbp',
+                                            style: {
+                                                'font-weight': 'bold',
+                                                color: "#" + elemcolor[this_avatar.Element]
+                                            }
+                                        },
+                                        {
+                                            span: [
+                                                {
+                                                    img: imgpre + 'images/Misc/PointBPFull.png'
+                                                },
+                                                {
+                                                    span: (S.BP > 0) ? '+' + S.BP : S.BP.toString()
+                                                }
+                                            ],
+                                            class: 'sbp',
+                                            when: S.BP,
+                                        },
+                                        {
+                                            span: [
+                                                {
+                                                    img: imgpre + 'images/AddProp/IconEnergyLimit.png'
+                                                },
+                                                {
+                                                    span: S.SPNeed ? S.SPNeed.toFixed(0) : ''
+                                                }
+                                            ],
+                                            class: 'sbp',
+                                            when: S.SPNeed
+                                        },
+                                        {
+                                            span: [
+                                                {
+                                                    img: imgpre + 'images/AddProp/IconEnergyRecovery.png'
+                                                },
+                                                {
+                                                    span: (S.SPAdd > 0) ? '+' + S.SPAdd : S.SPAdd.toString()
+                                                }
+                                            ],
+                                            class: 'sbp',
+                                            when: S.SPAdd
+                                        },
+                                    ],
+                                    style: {
+                                        'margin-top': '10px'
+                                    },
+                                    when: !(S.Type.CH.includes('dev'))
+                                }
+                            ],
+                            class: 'a_section_content',
+                            a: {
+                                'data-id': s,
+                                'data-lv': recommendLV
+                            }
+                        }
+                    ],
+                    class: 'a_section'
+                })
+            })
+        }
+        if (i == 3) {
+            $('.mon_body').render({
+                div: {
+                    div: [
+                        {
+                            span: txt.StatVerChoose[lang]
+                        },
+                        {
+                            span: {
+                                select: '',
+                                options: this_avatar_vers[0]
+                            },
+                            class: 'stat_ver_choose'
+                        }
+                    ],
+                    class: 'a_section_head stat_ver_choose_wrap'
+                },
+                class: 'a_section'
+            })
+            $('.stat_ver_choose select').val(this_avatar_cur_ver)
+            ST = _avatarskilltree[this_avatar._id][this_avatar_cur_ver]
+            $('.mon_body').render([
+                {
+                    div: [
+                        {
+                            div: [
+                                {
+                                    img: imgpre + 'images/Misc/_ADD.png',
+                                    class: 'head_left'
+                                },
+                                {
+                                    p: txt.AddProp[lang],
+                                    class: 'head_right hr_1',
+                                    style: {
+                                        color: "#" + elemcolor[this_avatar.Element]
+                                    }
+                                },
+                            ],
+                            class: 'a_section_head head_withimg'
+                        },
+                        {
+                            div: {
+                                div: [
+                                    {
+                                        img: function (k) {
+                                            return imgpre + 'images/AddProp/' + _propiconname[k.data]
+                                        },
+                                    },
+                                    {
+                                        span: function (k) {
+                                            if (k.data == 'SpeedDelta') return ' +<b>' + ST.Add[k.data] + '</b> ' + _propname[k.data][lang]
+                                            return ' +<b>' + (ST.Add[k.data] * 100).toFixed(1) + '%</b> ' + _propname[k.data][lang]
+                                        },
+                                    }
+                                ],
+                                data: Object.keys(ST.Add),
+                                class: 'addprop'
+                            },
+                            class: 'a_section_content mon_head',
+                            style: {
+                                'padding-bottom': '10px'
+                            }
+                        }
+                    ],
+                    class: 'a_section',
+                },
+                {
+                    div: [
+                        {
+                            div: [
+                                {
+                                    img: imgpre + 'images/AvatarSkill/' + ST.Tree1.Icon + '.png',
+                                    class: 'head_left'
+                                },
+                                {
+                                    p: ST.Tree1.Name[lang],
+                                    class: 'head_right hr_1',
+                                    style: {
+                                        color: "#" + elemcolor[this_avatar.Element]
+                                    }
+                                },
+                            ],
+                            class: 'a_section_head head_withimg'
+                        },
+                        {
+                            div: {
+                                p: ST.Tree1.Desc[lang],
+                            },
+                            class: 'a_section_content'
+                        }
+                    ],
+                    class: 'a_section',
+                },
+                {
+                    div: [
+                        {
+                            div: [
+                                {
+                                    img: imgpre + 'images/AvatarSkill/' + ST.Tree2.Icon + '.png',
+                                    class: 'head_left'
+                                },
+                                {
+                                    p: ST.Tree2.Name[lang],
+                                    class: 'head_right hr_1',
+                                    style: {
+                                        color: "#" + elemcolor[this_avatar.Element]
+                                    }
+                                },
+                            ],
+                            class: 'a_section_head head_withimg'
+                        },
+                        {
+                            div: {
+                                p: ST.Tree2.Desc[lang],
+                            },
+                            class: 'a_section_content'
+                        }
+                    ],
+                    class: 'a_section',
+                },
+                {
+                    div: [
+                        {
+                            div: [
+                                {
+                                    img: imgpre + 'images/AvatarSkill/' + ST.Tree3.Icon + '.png',
+                                    class: 'head_left'
+                                },
+                                {
+                                    p: ST.Tree3.Name[lang],
+                                    class: 'head_right hr_1',
+                                    style: {
+                                        color: "#" + elemcolor[this_avatar.Element]
+                                    }
+                                },
+                            ],
+                            class: 'a_section_head head_withimg'
+                        },
+                        {
+                            div: {
+                                p: ST.Tree3.Desc[lang],
+                            },
+                            class: 'a_section_content'
+                        }
+                    ],
+                    class: 'a_section',
+                }
+            ])
+        }
+        if (i == 4) {
+            $('.mon_body').render({
+                div: {
+                    div: [
+                        {
+                            span: txt.StatVerChoose[lang]
+                        },
+                        {
+                            span: {
+                                select: '',
+                                options: this_avatar_vers[0]
+                            },
+                            class: 'stat_ver_choose'
+                        }
+                    ],
+                    class: 'a_section_head stat_ver_choose_wrap'
+                },
+                class: 'a_section'
+            })
+            $('.stat_ver_choose select').val(this_avatar_cur_ver)
+            this_avatar.Ranks.forEach(function (s, i) {
+                var S = _avatarrank[s]
+                $('.mon_body').render({
+                    div: [
+                        {
+                            div: [
+                                {
+                                    img: imgpre + 'images/AvatarSkill/' + S[this_avatar_cur_ver].Icon + '.png',
+                                    class: 'head_left'
+                                },
+                                {
+                                    p: S[this_avatar_cur_ver].Name[lang],
+                                    class: 'head_right hr_1',
+                                    style: {
+                                        color: "#" + elemcolor[this_avatar.Element]
+                                    }
+                                },
+                            ],
+                            class: 'a_section_head head_withimg'
+                        },
+                        {
+                            div: {
+                                p: S[this_avatar_cur_ver].Desc[lang],
+                            },
+                            class: 'a_section_content'
+                        }
+                    ],
+                    class: 'a_section',
+                })
+            })
+        }
+        if (i == 5) {
+            $('.mon_body').render({
+                div: [
+                    {
+                        div: {
+                            p: txt.Avatar_Story[lang] + `[[_id]]`
+                        },
+                        class: 'a_section_head',
+                        style: {
+                            color: "#" + elemcolor[this_avatar.Element]
+                        }
+                    },
+                    {
+                        div: {
+                            p: `[[Story/${lang}]]`
+                        },
+                        class: 'a_section_content'
+                    }
+                ],
+                class: 'a_section',
+                data: _story[this_avatar._id]
+            })
+        }
+        if (i == 6) {
+            $('.mon_body').render({
+                div: [
+                    {
+                        div: {
+                            p: `[[Title/${lang}]]`
+                        },
+                        class: 'a_section_head',
+                        style: {
+                            color: "#" + elemcolor[this_avatar.Element]
+                        }
+                    },
+                    {
+                        div: {
+                            p: `[[Voice/${lang}]]`
+                        },
+                        class: 'a_section_content'
+                    }
+                ],
+                class: 'a_section_small',
+                data: _voice[this_avatar._id]
+            })
+        }
+        if (i == 7) {
+            $('.mon_body').render({
+                div: [
+                    {
+                        div: {
+                            p: txt.Avatar_Head[6][lang]
+                        },
+                        class: 'a_section_head',
+                        style: {
+                            color: "#" + elemcolor[this_avatar.Element]
+                        }
+                    },
+                    {
+                        div: {
+                            p: `[[${lang}]]`,
+                            data: this_avatar.Data
+                        },
+                        class: 'a_section_content'
+                    }
+                ],
+                class: 'a_section',
+            })
+        }
+    }
+
+    $('body').on('click', '.up', function () {
+        var sid = $(this).attr('data-id')
+        var lv = parseInt($(".ld-" + sid)[0].innerHTML.replace("Lv", ""))
+        var max = parseInt($(this).attr('data-max'))
+        if (lv == max) return
+        lv += 1
+        $(".ld-" + sid).html("Lv" + lv)
+        var S = _avatarskill[sid][this_avatar_cur_ver]
+        $('.sd-' + sid).html(param(S.Desc[lang], S.Params[lv - 1]))
+    })
+
+    $('body').on('click', '.down', function () {
+        var sid = $(this).attr('data-id')
+        var lv = parseInt($(".ld-" + sid)[0].innerHTML.replace("Lv", ""))
+        if (lv == 1) return
+        lv -= 1
+        $(".ld-" + sid).html("Lv" + lv)
+        var S = _avatarskill[sid][this_avatar_cur_ver]
+        $('.sd-' + sid).html(param(S.Desc[lang], S.Params[lv - 1]))
+    })
+
+    function popWeapon(ai) {
+        this_weapon = _weapon[ai]
+        poplayer({
+            header: this_weapon.Name[lang] + txt.Affix[lang],
+            width: '100%',
+            template: [
+                {
+                    div: [],
+                    class: 'mon_body'
+                },
+            ]
+        })
+    }
+
+    function getVer(dic) {
+        var di = Object.keys(dic)
+        var out = {}
+        di.forEach(function (k) {
+            if (k == "Pre" || k == "Live") {
+                out[(lang == "CH") ? '正式' : 'Live'] = k
+            } else {
+                out[k] = k
+            }
+        })
+        return [out, di[0]]
+    }
+
+    function param(text, params) {
+        var PP = text.replaceAll("#1[f]", params[0]).replaceAll("#2[f]", params[1]).replaceAll("#3[f]", params[2]).replaceAll("#4[f]", params[3]).replaceAll("#5[f]", params[4]).replaceAll("#6[f]", params[5]).replaceAll("#7[f]", params[6]).replaceAll("#8[f]", params[7]).replaceAll("#9[f]", params[8]).replaceAll("#10[f]", params[9]).replaceAll("#11[f]", params[10]).replaceAll("#12[f]", params[11]).replaceAll("#1[p]", rn(params[0] * 100) + "%").replaceAll("#2[p]", rn(params[1] * 100) + "%").replaceAll("#3[p]", rn(params[2] * 100) + "%").replaceAll("#4[p]", rn(params[3] * 100) + "%").replaceAll("#5[p]", rn(params[4] * 100) + "%").replaceAll("#6[p]", rn(params[5] * 100) + "%").replaceAll("#7[p]", rn(params[6] * 100) + "%").replaceAll("#8[p]", rn(params[7] * 100) + "%").replaceAll("#9[p]", rn(params[8] * 100) + "%").replaceAll("#10[p]", rn(params[9] * 100) + "%").replaceAll("#11[p]", rn(params[10] * 100) + "%").replaceAll("#12[p]", rn(params[11] * 100) + "%")
+        return PP
+    }
+
+    function rn(n) {
+        if (!n.toString().includes('.')) return n.toString()
+        var s = n.toString().substring(n.toString().indexOf('.'))
+        if (s.includes('999')) return n.toFixed(s.indexOf('999') - 1)
+        if (s.includes('000')) return n.toFixed(s.indexOf('000') - 1)
+        return n.toString()
+    }
+
+    $('body').on('change', '.stat_ver_choose select', function () {
+        this_avatar_cur_ver = $(this).val()
+        renderAvatar(cur_avatar_page)
+    })
 
     $('body').on('click', '.subtitle', function () {
         IS_SW += 1
