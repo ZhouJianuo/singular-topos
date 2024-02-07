@@ -500,13 +500,13 @@ var links = [
         },
         "Link": "/sr/monster"
     },
-    {
+    /*{
         "Name": {
             "CH": "角色 光锥 遗器",
             "EN": "Characters Lightcones Relics"
         },
         "Link": "/sr/char"
-    },
+    }*/,
     {
         "Name": {
             "CH": "混沌回忆",
