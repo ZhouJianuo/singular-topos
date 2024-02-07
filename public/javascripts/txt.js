@@ -350,7 +350,7 @@ var txt = {
         "EN": "Version"
     },
     "AddProp": {
-        "CH": "数值强化",
+        "CH": "属性强化",
         "EN": "Stat Boosts"
     },
     "Avatar_StanceBreak": {
