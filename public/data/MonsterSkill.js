@@ -15260,8 +15260,8 @@ var _monsterskill = {
             "EN": "The Can's Tribulations"
         },
         "Desc": {
-            "CH": "使自身的攻击力提高<color style='color:#f29e38;'>100%</color>。该效果可叠加，且不可被驱散。",
-            "EN": "Increases own ATK by <color style='color:#f29e38;'>100%</color>. This effect is stackable and unremoveable."
+            "CH": "使自身的攻击力提高<color style='color:#f29e38;'>2<sup>n</sup>×100%</color>。该效果可叠加，且不可被驱散。",
+            "EN": "Increases own ATK by <color style='color:#f29e38;'>2<sup>n</sup>×100%</color>. This effect is stackable and unremoveable."
         },
         "SP": 0
     },
@@ -17742,8 +17742,8 @@ var _monsterskill = {
             "EN": "The Can's Tribulations"
         },
         "Desc": {
-            "CH": "使自身的攻击力提高<color style='color:#f29e38;'>30%</color>。该效果可叠加，且不可被驱散。",
-            "EN": "Increases own ATK by <color style='color:#f29e38;'>30%</color>. This effect is stackable and unremoveable."
+            "CH": "使自身的攻击力提高<color style='color:#f29e38;'>2<sup>n</sup>×30%</color>。该效果可叠加，且不可被驱散。",
+            "EN": "Increases own ATK by <color style='color:#f29e38;'>2<sup>n</sup>×30%</color>. This effect is stackable and unremoveable."
         },
         "SP": 0
     },
