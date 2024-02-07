@@ -157,6 +157,282 @@ var _loadingdesc = [
         }
     },
     {
+        "_id": 10013,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "{NICKNAME}",
+            "EN": "{NICKNAME}"
+        },
+        "Desc": {
+            "CH": "登上星穹列车的{F#少女}{M#少年}。<br>为了消除星核带来的危机，选择与星穹列车同行。",
+            "EN": "A {F#girl}{M#boy} who boarded the Astral Express.<br>They chose to travel with the Astral Express to eliminate the dangers posed by the Stellaron."
+        }
+    },
+    {
+        "_id": 10014,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "三月七",
+            "EN": "March 7th"
+        },
+        "Desc": {
+            "CH": "一度沉睡于恒冰，对过去一无所知的少女。<br>为了寻找身世的真相，选择与星穹列车同行。<br>目前为自己准备了约六十七种「身世故事」。",
+            "EN": "A girl who once slumbered in eternal ice and knows nothing about her past.<br>To find out the truth about her origins, she decided to travel with the Astral Express.<br>As of right now, she has prepared about 67 different versions of her life story for herself."
+        }
+    },
+    {
+        "_id": 10015,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "丹恒",
+            "EN": "Dan Heng"
+        },
+        "Desc": {
+            "CH": "对自己的过去讳莫如深，清冷寡言的青年。<br>为了躲避血裔同族，选择与星穹列车同行。",
+            "EN": "A cold and reserved young man who is reticent about his past.<br>To avoid his kin, he decided to travel with the Astral Express."
+        }
+    },
+    {
+        "_id": 10016,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "姬子",
+            "EN": "Himeko"
+        },
+        "Desc": {
+            "CH": "星穹列车的修复者。<br>为了见证广阔的星空，选择与星穹列车同行。<br>爱好是制作手调咖啡。",
+            "EN": "The one who repaired the Astral Express.<br>To witness the vast starry sky, she decided to travel aboard the Astral Express.<br>Her hobby is brewing hand-made coffee."
+        }
+    },
+    {
+        "_id": 10017,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "瓦尔特•杨",
+            "EN": "Welt Yang"
+        },
+        "Desc": {
+            "CH": "老成持重的列车组前辈。<br>享受着久违的冒险奇遇，心底埋藏的热血再度燃烧。<br>偶尔还会将经历的冒险旅程画在本子里。",
+            "EN": "A senior member of the Crew.<br>The passion in his heart burns for another long and enjoyable adventure.<br>Occasionally, he might draw the experiences of his journey in a sketchbook."
+        }
+    },
+    {
+        "_id": 10018,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "艾丝妲",
+            "EN": "Asta"
+        },
+        "Desc": {
+            "CH": "空间站「黑塔」的站长，出身名门的大小姐。<br>好奇心旺盛的天文研究者，擅长管理空间站各抒己见的科员。",
+            "EN": "The lead researcher of Herta Space Station and a lady from a renowned family.<br>She's an astronomer overflowing with curiosity, and excels at managing the disparate staff of the space station."
+        }
+    },
+    {
+        "_id": 10019,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "阿兰",
+            "EN": "Arlan"
+        },
+        "Desc": {
+            "CH": "空间站「黑塔」的防卫科负责人。<br>不善言辞，希望保护珍视研究的人们顺利完成他们的研究。",
+            "EN": "The head of Herta Space Station's Security Department.<br>This inarticulate boy is willing to protect the researchers in pursuit of their work with his life."
+        }
+    },
+    {
+        "_id": 10020,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "卡芙卡",
+            "EN": "Kafka"
+        },
+        "Desc": {
+            "CH": "「星核猎手」的成员，潇洒从容的职业装丽人。<br>利用言灵术，设计令开拓者吸收星核。<br>爱好是购买及整理大衣。",
+            "EN": "A member of the Stellaron Hunters. A dashing, collected, and professional beauty.<br>Used the enchantment of Spirit Whisper to set up Trailblazer to absorb the Stellaron.<br>Her hobby is shopping for and organizing her collection of coats."
+        }
+    },
+    {
+        "_id": 10021,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "银狼",
+            "EN": "Silver Wolf"
+        },
+        "Desc": {
+            "CH": "「星核猎手」的成员，骇客高手。<br>将宇宙视作大型沉浸式模拟游戏，玩乐其中。<br>掌握了能够修改现实数据的「以太编辑」。",
+            "EN": "A member of the Stellaron Hunters and a genius hacker.<br>She sees the universe as a big immersive simulation game and has fun with it.<br>She's mastered the skill known as \"aether editing,\" which can be used to tamper with the data of reality."
+        }
+    },
+    {
+        "_id": 10022,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "刃",
+            "EN": "Blade"
+        },
+        "Desc": {
+            "CH": "「星核猎手」的成员，弃身锋刃的剑客。<br>效忠于「命运的奴隶」，拥有可怖的自愈能力。",
+            "EN": "A member of the Stellaron Hunters, and a swordsman who abandoned his body to become a blade.<br>He pledges loyalty to Destiny's Slave, and possesses a terrifying self-healing ability."
+        }
+    },
+    {
+        "_id": 10023,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "艾利欧",
+            "EN": "Elio"
+        },
+        "Desc": {
+            "CH": "「星核猎手」的首领，被称为「命运的奴隶」。<br>拥有预见未来可能性的能力/诅咒。",
+            "EN": "The leader of the Stellaron Hunters who is referred to as \"Destiny's Slave.\"<br>Possesses the ability/curse to foresee future possibilities."
+        }
+    },
+    {
+        "_id": 10024,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "黑塔",
+            "EN": "Herta"
+        },
+        "Desc": {
+            "CH": "「天才俱乐部」#83号会员，空间站的真正主人。<br>智慧过人却毫无同理心的大科学家。",
+            "EN": "Member 83 of the Genius Society, the real master of the space station.<br>An incredibly intelligent yet unsympathetic scientist."
+        }
+    },
+    {
+        "_id": 10025,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "布洛妮娅•兰德",
+            "EN": "Bronya Rand"
+        },
+        "Desc": {
+            "CH": "贝洛伯格「大守护者」的继承人。<br>兼有公主的高傲和军人的坚贞。",
+            "EN": "Heir apparent to the Supreme Guardian of Belobog.<br>She possesses pride befitting of a princess, but also the determination and integrity of a soldier."
+        }
+    },
+    {
+        "_id": 10026,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "希儿",
+            "EN": "Seele"
+        },
+        "Desc": {
+            "CH": "地底反抗组织「地火」的骨干，别号「蝴蝶」。<br>性格率真直爽，内心隐藏着细腻敏锐的一面。",
+            "EN": "A resident of the Underworld and the backbone of Wildfire. She goes by the alias \"Babochka.\"<br>She has a frank personality, but there is a delicate and sensitive hidden side to her deep in her heart."
+        }
+    },
+    {
+        "_id": 10027,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "杰帕德•朗道",
+            "EN": "Gepard Landau"
+        },
+        "Desc": {
+            "CH": "银鬃铁卫的戍卫官，贝洛伯格数一数二的战士。<br>表里如一，一丝不苟，从不懈怠。",
+            "EN": "A captain in the Silvermane Guards and an outstanding warrior of Belobog.<br>He is meticulous and vigilant to the core and is always true to himself."
+        }
+    },
+    {
+        "_id": 10028,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "希露瓦•朗道",
+            "EN": "Serval Landau"
+        },
+        "Desc": {
+            "CH": "贝洛伯格的机械师，曾任筑城者技术部研究员。<br>身为杰帕德•朗道的姐姐，性格却与弟弟截然不同。<br>钟爱大寒潮前一种名为「摇滚」的古老音乐艺术。",
+            "EN": "A Belobog mechanic who used to be a researcher for the Technology Division of the Architects.<br>As Gepard Landau's elder sister, her personality stands in stark contrast to her brother's.<br>She loves an ancient form of music known as \"rock 'n' roll\" that was popular before the Eternal Freeze."
+        }
+    },
+    {
+        "_id": 10029,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "可可利亚•兰德",
+            "EN": "Cocolia Rand"
+        },
+        "Desc": {
+            "CH": "贝洛伯格的现任大守护者。<br>寡欲无情，以她所坚信的方式守望着这个冰雪世界。",
+            "EN": "Belobog's current supreme guardian.<br>Cold and devoid of worldly desires, she watches over this frozen world in her own way."
+        }
+    },
+    {
+        "_id": 10030,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "桑博•科斯基",
+            "EN": "Sampo Koski"
+        },
+        "Desc": {
+            "CH": "地表和地底之间来去自如的行商。<br>自来熟，热情幽默，习惯插科打诨。",
+            "EN": "A merchant who freely travels between the Overworld and the Underworld.<br>He acts like he is everyone's friend, is enthusiastically humorous, and is good at bantering."
+        }
+    },
+    {
+        "_id": 10031,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "佩拉格娅•谢尔盖耶夫娜",
+            "EN": "Pelageya Sergeyevna"
+        },
+        "Desc": {
+            "CH": "银鬃铁卫的情报官。<br>性格认真，深受铁卫成员们敬畏。",
+            "EN": "An intelligence officer for the Silvermane Guards.<br>She has a serious personality and is revered by other members of the Silvermane Guards."
+        }
+    },
+    {
+        "_id": 10032,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "娜塔莎",
+            "EN": "Natasha"
+        },
+        "Desc": {
+            "CH": "贝洛伯格下层区的医生，也是孩子们的照料者。<br>性格温柔可亲、又藏着危险的一面。",
+            "EN": "A doctor from the Underworld and a caregiver of children.<br>Alongside her kindness and caring, she also has a hidden dangerous side."
+        }
+    },
+    {
+        "_id": 10033,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "虎克",
+            "EN": "Hook"
+        },
+        "Desc": {
+            "CH": "地底冒险团队「鼹鼠党」的老大（自封）。<br>热爱自由，将生活视为一场又一场冒险。",
+            "EN": "Boss (self-proclaimed) of an Underworld adventure squad, The Moles.<br>She loves freedom and sees life as a series of adventures."
+        }
+    },
+    {
+        "_id": 10034,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "史瓦罗",
+            "EN": "Svarog"
+        },
+        "Desc": {
+            "CH": "旧世界遗留的智能机器人。<br>始终以自己的方式满足着克拉拉的心愿。",
+            "EN": "An intelligent combat robot left behind from the Old World.<br>Despite all else, it attempts to fulfill Clara's desires through its own methods."
+        }
+    },
+    {
+        "_id": 10035,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "克拉拉",
+            "EN": "Clara"
+        },
+        "Desc": {
+            "CH": "与机械生活在一起的流浪少女。<br>内向、温柔，有一颗纯粹的心。<br>渴望下层区的大家都能成为彼此的「家人」。",
+            "EN": "A vagrant girl who lives with robots.<br>She is introverted, gentle, and has a pure heart.<br>She wishes for all Underworlders to become a family."
+        }
+    },
+    {
         "_id": 10036,
         "Ver": 1.0,
         "Name": {
@@ -361,6 +637,18 @@ var _loadingdesc = [
         }
     },
     {
+        "_id": 10053,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "星核猎手",
+            "EN": "Stellaron Hunters"
+        },
+        "Desc": {
+            "CH": "穿行诸界之间狩猎星核的组织。<br>赐予其能力的星神是谁尚不明了。",
+            "EN": "An organization that travels between the worlds hunting for Stellarons.<br>It is unknown which Aeon bestows them with their power."
+        }
+    },
+    {
         "_id": 10054,
         "Ver": 1.0,
         "Name": {
@@ -433,6 +721,78 @@ var _loadingdesc = [
         }
     },
     {
+        "_id": 10060,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "雅利洛-Ⅵ",
+            "EN": "Jarilo-VI"
+        },
+        "Desc": {
+            "CH": "列车星图中记载的世界名称，寒冷严酷的「冰霜世界」。",
+            "EN": "The name of a world recorded in the train's astral charts. The harsh and bitter World of Frost."
+        }
+    },
+    {
+        "_id": 10061,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "贝洛伯格",
+            "EN": "Belobog"
+        },
+        "Desc": {
+            "CH": "人类对抗寒潮最后的堡垒，由筑城者们建立的避难所城市。",
+            "EN": "The sanctuary city built by the Architects, humanity's last bastion against the Eternal Freeze."
+        }
+    },
+    {
+        "_id": 10062,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "大守护者",
+            "EN": "Supreme Guardian"
+        },
+        "Desc": {
+            "CH": "贝洛伯格的最高领导者，筑城者意志的代言人。<br>现任大守护者为可可利亚•兰德。",
+            "EN": "The supreme leader of Belobog, representative of the Architects' will.<br>The current supreme guardian is Cocolia Rand."
+        }
+    },
+    {
+        "_id": 10063,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "上层区",
+            "EN": "The Overworld"
+        },
+        "Desc": {
+            "CH": "贝洛伯格位于地表的城市部分，筑城者总部的所在地。<br>是贝洛伯格的行政、商业、农业、军事中心。",
+            "EN": "The part of Belobog that lies above ground, where the headquarters of the Architects are.<br>Serves as the administrative, commercial, agricultural, and military center of Belobog."
+        }
+    },
+    {
+        "_id": 10064,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "下层区",
+            "EN": "The Underworld"
+        },
+        "Desc": {
+            "CH": "贝洛伯格位于地底的城市部分，矿民在此聚集成群。<br>负责采掘稀有的能源矿石「地髓」，为地上下供给热能。",
+            "EN": "The part of Belobog that lies underground. Miners make it their home and workplace.<br>The rare Geomarrow ore deposits it offers supply heat energy for both the surface and underground."
+        }
+    },
+    {
+        "_id": 10065,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "仙舟",
+            "EN": "Xianzhou"
+        },
+        "Desc": {
+            "CH": "跨越星海的天舟世界，原是受古国派遣，前往天之外海寻求「仙迹」的舰队。",
+            "EN": "Xianzhou was originally a fleet dispatched by a primeval imperium to search the cosmos for \"celestial traces.\""
+        }
+    },
+    {
         "_id": 10066,
         "Ver": 1.0,
         "Name": {
@@ -457,6 +817,42 @@ var _loadingdesc = [
         }
     },
     {
+        "_id": 10068,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "地髓",
+            "EN": "Geomarrow"
+        },
+        "Desc": {
+            "CH": "雅利洛-Ⅵ行星上盛产的一种矿石，贝洛伯格主要的能量来源。",
+            "EN": "A mysterious ore produced on Jarilo-VI. Serves as the main energy source for Belobog."
+        }
+    },
+    {
+        "_id": 10069,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "地火",
+            "EN": "Wildfire"
+        },
+        "Desc": {
+            "CH": "贝洛伯格下层区的民间团体。<br>他们自发地组织起来，维护地下的秩序。",
+            "EN": "A grassroots organization based in the Underworld of Belobog.<br>Formed voluntarily with the aim of maintaining order in the underground."
+        }
+    },
+    {
+        "_id": 10070,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "银鬃铁卫",
+            "EN": "Silvermane Guards"
+        },
+        "Desc": {
+            "CH": "贝洛伯格的防御部队，受筑城者指挥与裂界怪物作战。",
+            "EN": "Belobog's defensive force that takes orders from the Architects to fight monsters spawned from the Fragmentum."
+        }
+    },
+    {
         "_id": 10071,
         "Ver": 1.0,
         "Name": {
@@ -478,6 +874,18 @@ var _loadingdesc = [
         "Desc": {
             "CH": "裂界与采集到的生物数据同化后复制生成的怪物。<br>保留了原始生物形态却又兼有变异。",
             "EN": "Monsters duplicated from the Fragmentum's assimilation of the biological data it has collected.<br>These monsters retain the original forms of the creatures in question, but also have mutations."
+        }
+    },
+    {
+        "_id": 10073,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "求药使",
+            "EN": "Elixir Seekers"
+        },
+        "Desc": {
+            "CH": "追求长生的远行者。<br>在星辰海洋中寻找星神药师的所在。",
+            "EN": "Far-flung voyagers in pursuit of immortality.<br>They search for the location of the Aeon, Yaoshi, in the ocean of stars."
         }
     },
     {
@@ -841,6 +1249,210 @@ var _loadingdesc = [
         }
     },
     {
+        "_id": 10104,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "素裳",
+            "EN": "Sushang"
+        },
+        "Desc": {
+            "CH": "出生于仙舟「曜青」，前往「罗浮」云骑军接受历练的新兵。<br>身佩母亲赠予的家传剑器，憧憬着自己即将书写的未来。",
+            "EN": "Born on the Xianzhou Yaoqing, sent to the Cloud Knights of the Luofu for military training.<br>She wields her family sword, a gift from her mother, and longs for the future she will go on to write."
+        }
+    },
+    {
+        "_id": 10105,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "景元",
+            "EN": "Jing Yuan"
+        },
+        "Desc": {
+            "CH": "仙舟联盟帝弓七天将之一，负责节制罗浮云骑军的「神策将军」。<br>师从前代「罗浮」剑首，但并不显名于武力。",
+            "EN": "The Divine Foresight, one of the Seven Arbiter-Generals of the Xianzhou Alliance, leads the Cloud Knights of the Xianzhou Luofu.<br>A student of the Luofu's previous Sword Champion, though not known for his martial prowess."
+        }
+    },
+    {
+        "_id": 10106,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "罗刹",
+            "EN": "Luocha"
+        },
+        "Desc": {
+            "CH": "随身携带着棺椁，自天之外海而来的化外行商。<br>医术精湛。",
+            "EN": "Carrying a coffin wherever he goes, he is a foreign trader who came from beyond the stellar seas.<br>Has excellent medical skills."
+        }
+    },
+    {
+        "_id": 10107,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "彦卿",
+            "EN": "Yanqing"
+        },
+        "Desc": {
+            "CH": "将军景元的侍卫，不过总角之年的御剑天才。<br>手中握剑，即立于不败之地。",
+            "EN": "General Jing Yuan's retainer. A gifted swordsman who hasn't even come of age.<br>No one can best Yanqing when he holds a sword in hand."
+        }
+    },
+    {
+        "_id": 10108,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "停云",
+            "EN": "Tingyun"
+        },
+        "Desc": {
+            "CH": "仙舟「罗浮」天舶司的接渡使。<br>随商团出使过众多世界，缔结贸易与盟谊。",
+            "EN": "Amicassador of the Sky-Faring Commission of the Xianzhou Luofu.<br>She travels with business delegates, forging trade relationships and alliances with many worlds."
+        }
+    },
+    {
+        "_id": 10109,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "驭空",
+            "EN": "Yukong"
+        },
+        "Desc": {
+            "CH": "仙舟「罗浮」天舶司的首领，久历战阵的飞行士与射手。<br>而今却陷于繁冗公务，难以抽身。",
+            "EN": "Head of the Sky-Faring Commission on the Xianzhou Luofu. Yukong was a seasoned pilot and a deadshot.<br>Since heading up the commission, she's been buried under mountains of paperwork."
+        }
+    },
+    {
+        "_id": 10110,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "青雀",
+            "EN": "Qingque"
+        },
+        "Desc": {
+            "CH": "仙舟「罗浮」太卜司的卜者，兼书库管理员。<br>因工作一再偷闲摸鱼，即将贬无可贬成为「掌门人」。",
+            "EN": "Diviner of the Divination Commission on the Xianzhou Luofu, and a librarian.<br>Always slacks off and is about to be demoted to a \"door guardian.\""
+        }
+    },
+    {
+        "_id": 10111,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "白露",
+            "EN": "Bailu"
+        },
+        "Desc": {
+            "CH": "仙舟「罗浮」持明族的尊长，有「衔药龙女」之称的医士。<br>以独门医理和唯有龙脉方可施行的「医疗手段」救死扶伤。",
+            "EN": "The High Elder of the Vidyadhara, who is also known as the \"Healer Lady\" on the Luofu.<br>She uses her unique medical science and the medical treatment that can only be provided by the Vidyadhara dragon race to save lives."
+        }
+    },
+    {
+        "_id": 10112,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "雪衣",
+            "EN": "Xueyi"
+        },
+        "Desc": {
+            "CH": "仙舟「罗浮」上监察生死的机构「十王司」的判官。<br>借偃偶身躯「还阳」，履行使命。",
+            "EN": "Judge of the Ten-Lords Commission, which controls life and death on the Luofu.<br>She inhabits a puppet body to return to the world and carry out her missions."
+        }
+    },
+    {
+        "_id": 10113,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "符玄",
+            "EN": "Fu Xuan"
+        },
+        "Desc": {
+            "CH": "仙舟「罗浮」太卜司之首。<br>凭借第三眼与穷观阵为仙舟占算航路，预卜事务吉凶。",
+            "EN": "Head of the Divination Commission on the Luofu.<br>The person who uses the third eye and Matrix of Prescience to foretell the route of Xianzhou and the outcomes of events."
+        }
+    },
+    {
+        "_id": 10114,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "互",
+            "EN": "HooH"
+        },
+        "Desc": {
+            "CH": "执掌「均衡」命途的星神，形态不明。<br>互与其手下的令使潜移默化地影响宇宙，试图促成理想状态下的平衡。",
+            "EN": "The Aeon on the Path of Equilibrium. Their form is unknown.<br>HooH and their Emanators influence the universe surreptitiously, trying to achieve an ideal balance."
+        }
+    },
+    {
+        "_id": 10115,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "仲裁官",
+            "EN": "Arbitrators"
+        },
+        "Desc": {
+            "CH": "仲裁官奉星神「互」的指示行动，追求宇宙的「零和」。<br>他们在许多个世界中被误会为「神明」。",
+            "EN": "Arbitrators act according to the commands of the Aeon HooH, seeking a zero-sum state of the universe.<br>They are mistaken as gods in many worlds."
+        }
+    },
+    {
+        "_id": 10116,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "效果解除",
+            "EN": "Effect Dispel"
+        },
+        "Desc": {
+            "CH": "部分角色的技能可以解除我方目标陷入的「负面效果」，在必要时刻可发挥关键作用。",
+            "EN": "Abilities from certain characters can remove debuffs applied to allied characters. These can turn the tide of battle in a pinch."
+        }
+    },
+    {
+        "_id": 10117,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "效果解除",
+            "EN": "Effect Dispel"
+        },
+        "Desc": {
+            "CH": "部分角色的技能可以解除敌方目标拥有的「增益效果」，在与特殊敌人交战时可发挥奇效。",
+            "EN": "Abilities from certain characters can remove buffs applied to enemies. These can change the battlefield when fighting special enemies."
+        }
+    },
+    {
+        "_id": 10118,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "布洛妮娅•兰德",
+            "EN": "Bronya Rand"
+        },
+        "Desc": {
+            "CH": "贝洛伯格现任「大守护者」。<br>兼有公主的高傲和军人的坚贞。",
+            "EN": "Belobog's current Supreme Guardian.<br>She possesses pride befitting of a princess, but also the determination and integrity of a soldier."
+        }
+    },
+    {
+        "_id": 10119,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "可可利亚•兰德",
+            "EN": "Cocolia Rand"
+        },
+        "Desc": {
+            "CH": "贝洛伯格的前任大守护者。<br>寡欲无情，以她所坚信的方式守望着这个冰雪世界。",
+            "EN": "Belobog's former Supreme Guardian.<br>Impassive and devoid of worldly desires, she watches over this frozen world in her own way."
+        }
+    },
+    {
+        "_id": 10120,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "大守护者",
+            "EN": "Supreme Guardian"
+        },
+        "Desc": {
+            "CH": "贝洛伯格的最高领导者，筑城者意志的代言人。<br>现任大守护者为布洛妮娅•兰德。",
+            "EN": "The supreme leader of Belobog, representative of the Architects' will.<br>The current Supreme Guardian is Bronya Rand."
+        }
+    },
+    {
         "_id": 10121,
         "Ver": 1.2,
         "Name": {
@@ -865,6 +1477,18 @@ var _loadingdesc = [
         }
     },
     {
+        "_id": 10123,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "镜流",
+            "EN": "Jingliu"
+        },
+        "Desc": {
+            "CH": "曾经的罗浮剑首，云骑军不败盛名的缔造者。<br>而今其名字已被抹去，成为行走于魔阴身边缘的仙舟叛徒。",
+            "EN": "Former Sword Champion of the Luofu, and the reason behind the Cloud Knights' mythical reputation of implacable might.<br>Now, her name has been wiped from the records, and she is a traitor of the Xianzhou walking on the fine line between sanity and mara-struck."
+        }
+    },
+    {
         "_id": 10124,
         "Ver": 1.3,
         "Name": {
@@ -874,6 +1498,18 @@ var _loadingdesc = [
         "Desc": {
             "CH": "丹恒身为持明族的本相，其上一世「饮月君」所遗存的力量。<br>接受了额顶的峥嵘角冠，就要接受那罪人所立的一切功过。",
             "EN": "Dan Heng's true form from his Vidyadhara lineage carries the residual power left behind by his past incarnation, the Imbibitor Lunae.<br>Upon accepting the majestic horned crown atop his forehead, he must accept all the merits and faults attributed to that sinner."
+        }
+    },
+    {
+        "_id": 10125,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "龙师",
+            "EN": "The Preceptors"
+        },
+        "Desc": {
+            "CH": "持明一族中位高权重的长老。<br>既是辅佐龙尊传承的导师，也是为陷入「龙狂」的龙尊准备的杀手。",
+            "EN": "A Vidyadhara elder with immense sway.<br>Serves as the mentor to the high elders' succession and the executioner of high elders who had fallen into Dragon's Delirium."
         }
     },
     {
@@ -1009,6 +1645,54 @@ var _loadingdesc = [
         }
     },
     {
+        "_id": 10137,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "藿藿",
+            "EN": "Huohuo"
+        },
+        "Desc": {
+            "CH": "仙舟罗浮的十王司见习判官，被岁阳附身的狐人小女孩。<br>性格怯懦，弱小可怜，害怕种种怪异之事却肩负起勾摄邪魔的职责。",
+            "EN": "A trainee Ten-Lords Commission Judge of the Xianzhou Luofu, she is a young Foxian girl possessed by a heliobus.<br>She is a timid and weak girl who is afraid of all kinds of strange things, but is responsible for luring and subduing evil spirits."
+        }
+    },
+    {
+        "_id": 10138,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "银枝",
+            "EN": "Argenti"
+        },
+        "Desc": {
+            "CH": "「纯美骑士团」的古典骑士，虔诚地仰慕着已失踪的「纯美」星神伊德莉拉。<br>为人正直、光明磊落，于宇宙中漫游，宣扬伊德莉拉的美名。",
+            "EN": "A classic knight of the \"Knights of Beauty\" who is piously seeking his missing Aeon Idrila the \"Beauty.\"<br>Forthright and candid, he wanders the cosmos espousing the virtues of Idrila's good name."
+        }
+    },
+    {
+        "_id": 10139,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "十王司",
+            "EN": "Ten-Lords Commission"
+        },
+        "Desc": {
+            "CH": "仙舟联盟负责监察长生种寿数与法度的机构。<br>负责接引即将堕入魔阴身的仙舟人，收容犯下不赦十恶的长生种。",
+            "EN": "The commission responsible for supervising and regulating the longevity and laws of the long-life species on the Xianzhou Alliance.<br>They are tasked with guiding the Xianzhou natives who are on the verge of being stricken with mara, and apprehending long-life species who have committed the Ten Unpardonable Sins."
+        }
+    },
+    {
+        "_id": 10140,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "岁阳",
+            "EN": "Heliobi"
+        },
+        "Desc": {
+            "CH": "不具形体的天外星火之精。归属无形目的能量生命。<br>岁阳渴望占夺一切有形智慧生命的躯壳，品尝其欲望和情绪的变化。<br>在耗尽宿主的躯壳后，它们会寻找下一个受害者。",
+            "EN": "The shapeless otherworldly Starfire Essence, an energy life form belonging to the Shapeless Order.<br>Heliobi yearn to possess the bodies of all corporeal intelligent lifeforms, savoring the changes in their desires and emotions.<br>After depleting the host's shell, they will seek out the next victim."
+        }
+    },
+    {
         "_id": 10141,
         "Ver": 1.6,
         "Name": {
@@ -1054,258 +1738,6 @@ var _loadingdesc = [
         "Desc": {
             "CH": "塔伊兹育罗斯，于仇恨与孤独中飞升为「繁育」之星神。<br>接着，一场浩瀚的「虫潮」席卷了宇宙。",
             "EN": "Tayzzyronth, who amidst hatred and solitude ascended to become the Aeon of Propagation.<br>Then, a vast \"Swarm\" swept across the universe."
-        }
-    },
-    {
-        "_id": 10145,
-        "Ver": 2.0,
-        "Name": {
-            "CH": "米沙",
-            "EN": "Misha"
-        },
-        "Desc": {
-            "CH": "「白日梦」酒店的门童，对星穹列车所行的「开拓」之道十分向往。",
-            "EN": "A doorman at The Reverie who takes a keen interest in the Path of Trailblaze upon which the Astral Express strides."
-        }
-    },
-    {
-        "_id": 10146,
-        "Ver": 2.0,
-        "Name": {
-            "CH": "「钟表匠」",
-            "EN": "Watchmaker"
-        },
-        "Desc": {
-            "CH": "匹诺康尼的传奇大亨，被誉为「匹诺康尼之父」，梦境世界的奠基人。<br>然而无人知晓其真身。",
-            "EN": "A legendary figure known as the Father of Penacony and the founder of the Dreamscape.<br>However, his true identity remains a mystery."
-        }
-    },
-    {
-        "_id": 10147,
-        "Ver": 2.0,
-        "Name": {
-            "CH": "星期日",
-            "EN": "Sunday"
-        },
-        "Desc": {
-            "CH": "博爱克己的橡木家系家主，美梦乐园天生的领导者。<br>备受外界瞩目，知更鸟的兄长。",
-            "EN": "The benevolent and revered leader of the Oak Family and Sweetdream Paradise.<br>This powerhouse garners great respect from the outside world and is Robin's elder brother."
-        }
-    },
-    {
-        "_id": 10148,
-        "Ver": 2.0,
-        "Name": {
-            "CH": "知更鸟",
-            "EN": "Robin"
-        },
-        "Desc": {
-            "CH": "闻名银河的歌者，星空舞台天生的主角。<br>以自己的歌声向全宇宙传唱「同谐」的美名。",
-            "EN": "A singer renowned across the cosmos, regarded as the superstar of the Starry Stage.<br>Her captivating voice serenades Harmony to audiences across the universe."
-        }
-    },
-    {
-        "_id": 10149,
-        "Ver": 2.0,
-        "Name": {
-            "CH": "砂金",
-            "EN": "Aventurine"
-        },
-        "Desc": {
-            "CH": "星际和平公司「战略投资部」的高级干部，「石心十人」之一，基石为「诡弈砂金」。<br>时常面带笑容，真心却难以揣测，恪守「风险越大回报越大」的人生信条。",
-            "EN": "A senior manager in the IPC Strategic Investment Department and one of the Ten Stonehearts, known for his cornerstone \"Aventurine of stratagems.\"<br>He always dons a smile that conceals his true intentions and lives by the principle of \"the greater the risk, the greater the reward.\""
-        }
-    },
-    {
-        "_id": 10151,
-        "Ver": 2.0,
-        "Name": {
-            "CH": "萨姆",
-            "EN": "Sam"
-        },
-        "Desc": {
-            "CH": "星核猎手的成员，身披坚甲的战士。<br>他的机械铠甲能够释放炽焰，点燃战场，发动烈火般的攻势。",
-            "EN": "One of the Stellaron Hunters, a warrior donning formidable armor.<br>The mecha suit possesses the power to unleash fiery attacks, engulfing the battlefield in flames."
-        }
-    },
-    {
-        "_id": 10152,
-        "Ver": 2.0,
-        "Name": {
-            "CH": "黄泉",
-            "EN": "Acheron"
-        },
-        "Desc": {
-            "CH": "冷漠寡言的旅人，与巡海游侠联系紧密。似乎容易忘记重要的事。",
-            "EN": "A reserved and introverted traveler, closely associated with the Galaxy Ranger. Often prone to forgetting important things."
-        }
-    },
-    {
-        "_id": 10156,
-        "Ver": 2.0,
-        "Name": {
-            "CH": "钟表小子",
-            "EN": "Clockie"
-        },
-        "Desc": {
-            "CH": "匹诺康尼知名系列动画剧集的主人公，乐观机智，充满活力，也有莽撞冒失的一面。<br>不知为何在梦中的匹诺康尼屡次现身，似乎只有「有童心的人」才能看见他。",
-            "EN": "The protagonist of a popular animated series in Penacony, Clockie embodies optimism, wit, and boundless energy, yet also displays a reckless side.<br>For reasons unknown, Clockie frequently appears in the Dreamscape, visible only to those with a childlike soul."
-        }
-    },
-    {
-        "_id": 10157,
-        "Ver": 2.0,
-        "Name": {
-            "CH": "匹诺康尼（现实）",
-            "EN": "Penacony (Reality)"
-        },
-        "Desc": {
-            "CH": "阿斯德纳星系的巨构建筑，高耸的「白日梦酒店」是其醒目标识。<br>曾经是公司的边陲监狱，如今在家族的建设下成为美梦乐园的大门暨星际交通枢纽。",
-            "EN": "A colossal structure located in the Asdana system, featuring the iconic hotel \"The Reverie\" as its prominent emblem.<br>Once a frontier prison belonging to IPC, it now serves as an interstellar transportation hub and the gateway to the Sweetdream Paradise, managed by The Family."
-        }
-    },
-    {
-        "_id": 10158,
-        "Ver": 2.0,
-        "Name": {
-            "CH": "匹诺康尼（梦境）",
-            "EN": "Penacony (Dreamscape)"
-        },
-        "Desc": {
-            "CH": "川流不息、金碧辉煌的大都会，实为家族对星系联觉梦境精心维护的成果。<br>在「白日梦酒店」入睡后，客人的意识与梦境相连，由此来到「梦中的匹诺康尼」。",
-            "EN": "A magnificent metropolis characterized by a continuous influx of visitors, meticulously maintained by The Family in the Synesthesia Dreamscape.<br>When guests fall asleep at The Reverie, their consciousness becomes linked to the Dreamscape, enabling them to enter the enchanting dream world of Penacony."
-        }
-    },
-    {
-        "_id": 10159,
-        "Ver": 2.0,
-        "Name": {
-            "CH": "「白日梦」酒店",
-            "EN": "The Reverie Hotel"
-        },
-        "Desc": {
-            "CH": "匹诺康尼的地标性建筑，迷幻奢华的顶级星际度假酒店。<br>既为银河中的过客提供休憩之地，也是人们通向享乐主义天堂的唯一入口。",
-            "EN": "A surreal and luxurious intergalactic resort, serving as a prominent landmark in Penacony.<br>It serves as a haven for galactic travelers and stands as the exclusive gateway to the Dreamscape, a hedonistic paradise."
-        }
-    },
-    {
-        "_id": 10163,
-        "Ver": 2.0,
-        "Name": {
-            "CH": "忆域",
-            "EN": "Memory Zone"
-        },
-        "Desc": {
-            "CH": "由「忆质」凝聚形成的空间，无法对其中的内容进行直接观测，只有「记忆」的命途行者——或使用非正常手段才能在其中来去自如。<br>过去，「神秘」曾在宇宙与忆域的边界凿出大量泄口。",
-            "EN": "A realm created by memoria, inaccessible to direct observation. Only Pathstriders who follow the Path of Remembrance or individuals well-versed in unconventional methods can navigate its boundaries.<br>In the past, the Enigmata caused numerous breaches on the border between realspace and the Memory Zone."
-        }
-    },
-    {
-        "_id": 10164,
-        "Ver": 2.0,
-        "Name": {
-            "CH": "忆质",
-            "EN": "Memoria"
-        },
-        "Desc": {
-            "CH": "人类记忆与意识的载体、质料。若非忆者，直接接触未经处理的忆质将受到不同程度的影响。<br>「忆域」和「忆泡」都是忆质的聚合体，仅有规模大小之分。",
-            "EN": "Memoria serves as a vessel for human memory and consciousness. Individuals who are not Memokeepers may experience varying degrees of negative impact upon direct contact with unprocessed memoria.<br>The Memory Zone and Memory Bubbles both consist of aggregates of memoria, differing only in size."
-        }
-    },
-    {
-        "_id": 10165,
-        "Ver": 2.0,
-        "Name": {
-            "CH": "联觉梦境",
-            "EN": "Synesthesia Dreamscape"
-        },
-        "Desc": {
-            "CH": "一种器质性精神障碍的特殊表现，多发生于与忆质泄口密切相关的星系。<br>无数梦境交错重叠，人们得以在梦中的世界相会，甚至展开全新的生活。",
-            "EN": "A unique manifestation of organic mental disorder, closely linked to memoria breaches.<br>Countless dreams intersect and merge here, enabling individuals to meet in the dream world and even embark on entirely new lives."
-        }
-    },
-    {
-        "_id": 10166,
-        "Ver": 2.0,
-        "Name": {
-            "CH": "谐乐大典",
-            "EN": "Charmony Festival"
-        },
-        "Desc": {
-            "CH": "匹诺康尼一纪一度的重要仪式。<br>传闻当某个世界奏响天体谐乐时，希佩的化身便会降临，为信者与不信者一同降下无私的祝福。",
-            "EN": "A significant ritual in Penacony, occurring only once in each Amber Era.<br>When the Charmony Festival is performed on any planet, Xipe's incarnation will descend to bestow blessings upon both believers and non-believers alike."
-        }
-    },
-    {
-        "_id": 10167,
-        "Ver": 2.0,
-        "Name": {
-            "CH": "梦主",
-            "EN": "Dreammaster"
-        },
-        "Desc": {
-            "CH": "美梦的主人，家族在匹诺康尼分家的真正领导者。<br>通常隐于幕后，美梦的管理工作多交由橡木家系代行。",
-            "EN": "The master of the Dreamscape and the true leader of The Family in Penacony.<br>He operates behind the scenes, pulling the strings, and delegates the majority of actual management to the Oak Family."
-        }
-    },
-    {
-        "_id": 10170,
-        "Ver": 2.0,
-        "Name": {
-            "CH": "黄金的时刻",
-            "EN": "Golden Hour"
-        },
-        "Desc": {
-            "CH": "匹诺康尼的十二梦境之一，对应时间为「午夜」。<br>这里的时间永远停留在0点，第二天不会到来，这一夜的狂欢也永远不会结束。",
-            "EN": "One of the twelve Dreamscapes in Penacony, and its time coincides with midnight.<br>Here, the dream's time is forever stuck at 00:00. Tomorrow will not come, and this night of revelry will never end."
-        }
-    },
-    {
-        "_id": 10171,
-        "Ver": 2.0,
-        "Name": {
-            "CH": "美梦剧团",
-            "EN": "Sweet Dreams Troupe"
-        },
-        "Desc": {
-            "CH": "经由家族驯化，用于服务宾客的物品、设施。它们受到梦中情绪影响，获得了自我意识。<br>其中遭到负面情绪影响而形如怪物、四处破坏的被称作「惊梦剧团」。",
-            "EN": "Devices and facilities that have been domesticated by The Family to serve guests. Influenced by the emotions in the Dreamscape, these objects have gained self-awareness.<br>Those affected by negative emotions and having turned into feral monsters are referred to as the Dreamjolt Troupe."
-        }
-    },
-    {
-        "_id": 10172,
-        "Ver": 2.0,
-        "Name": {
-            "CH": "梦泡",
-            "EN": "Dream Bubble"
-        },
-        "Desc": {
-            "CH": "遭到「神秘」力量影响的忆泡，未经雕琢的梦泡通常承载了强烈的情绪感受。<br>在家族的调整下，人们可以安全地将其用于刻录个人梦境，因而成为匹诺康尼最有趣的特产。",
-            "EN": "Memory Bubbles affected by enigmatic forces. Raw Dream Bubbles typically carry intense emotional sentiments.<br>With The Family's adjustment, they can be safely utilized to record personal dreams, making them one of Penacony's most intriguing specialties."
-        }
-    },
-    {
-        "_id": 10173,
-        "Ver": 2.0,
-        "Name": {
-            "CH": "忆域迷因",
-            "EN": "Memory Zone Meme"
-        },
-        "Desc": {
-            "CH": "蕴含特定认知的实体，由忆域中的潜意识碎片堆积而成。<br>不具备智能，只会不断基于自身所承载的认知行事，渴望吞纳更多的记忆。",
-            "EN": "Entities composed of specific perceptions that originate from subconscious fragments within the Memory Zone.<br>Lacking intelligence, they act solely based on the perceptions they carry, driven to consume more memories."
-        }
-    },
-    {
-        "_id": 10174,
-        "Ver": 2.0,
-        "Name": {
-            "CH": "梦境护照",
-            "EN": "Dreamscape Pass"
-        },
-        "Desc": {
-            "CH": "入住匹诺康尼「白日梦酒店」的宾客人手一份的纪念品，内含多种功能。",
-            "EN": "A memento provided to all guests staying at The Reverie Hotel, featuring a range of functions."
         }
     }
 ]

@@ -1012,7 +1012,7 @@ var _curio = [
         },
         "Desc": {
             "CH": "立即获得 1.0 个随机3星祝福，下一次进入【事件】区域时，将不会遇见任何事件。效果触发 1.0 次后该奇物损毁",
-            "EN": "Immediately gain 1.0 random 3-star Blessing(s). The next time you enter an Occurrence domain, no Occurrence will be triggered. This Curio will be destroyed after the effect is triggered 1.0 time(s)."
+            "EN": "Immediately gain 1.0 random 3-star Blessing(s). The next time you enter an Occurrence domain, no occurrence will be triggered. This Curio will be destroyed after the effect is triggered 1.0 time(s)."
         },
         "Story": {
             "CH": "琥珀纪与联觉信标推广一百纪后，星际贸易持续发展，资源交换成为燃眉之急。一些星球跃升成为炙手可热的星际埠口，第二次繁荣来临——史称「血锦之纪」，持续近五百个琥珀纪。血锦之纪在晚期进入荼蘼之势，然而即使是堪称浩劫的星际能源战争也未能耗尽第二次繁荣的辉煌成果。与此同时，「智识」博识尊突然中断了对宇宙奥秘的运算。",
@@ -1097,7 +1097,7 @@ var _curio = [
         },
         "Desc": {
             "CH": "获得该奇物后，获得宇宙碎片时额外获得 100.0% ，但战斗结束无法再获取祝福",
-            "EN": "After obtaining this Curio, Cosmic Fragments obtained will increase by 100.0%, but Blessings will no longer be obtained after combat."
+            "EN": "After obtaining this Curio, Cosmic Fragments obtained will increase by 100.0%, but Blessings will no longer be obtained after combat"
         },
         "Story": {
             "CH": "「黑塔情商低下，螺丝咕姆则需要学习更多有机生命的常识！」俱乐部粉丝群总对天才们议论纷纷，他们围绕斯蒂芬•劳艾德的真实年龄争论不下，有人认为他是中年男士，有人则坚称他是孩童。纷杂议论中，粉丝提出这样一件趣事：曾有传言称天才俱乐部里的「科学怪人」是位男性，没想到她不仅是位女科学家，并且气质脱俗。于是他们吸取经验，抛出了新的问题：斯蒂芬•劳艾德的性别是真是伪？",
@@ -1573,7 +1573,7 @@ var _curio = [
         },
         "Desc": {
             "CH": "拥有该奇物视为拥有所有命途的祝福各 1.0 个",
-            "EN": "Possessing this Curio is considered the equivalent of possessing 1.0 Blessing(s) of each Path."
+            "EN": "Possessing this Curio is considered the equivalent of possessing 1.0 Blessing(s) of each Path"
         },
         "Story": {
             "CH": "真理究竟为何物？无人能能参透。倘若「愚钝」是世界的顽疾，传播智慧便是在医治宇宙。但「书」可以医治众生吗？根据博识学会记载：历史上，月桂冠系的哲学家联合曾爆发过一场内乱，血液和机油浸染了沉思者柱廊的所有书籍，哲人们死伤无数，最终被目睹这一切的公司雇员称为「理性的溃败」——书籍以这样荒谬的方式，实现了对一个世界的再清洗。",
@@ -1593,7 +1593,7 @@ var _curio = [
             "EN": "After resetting Blessings, at least 1 Blessing from the current Path will appear. This Curio will be destroyed after its effect has been triggered 3.0 times"
         },
         "Story": {
-            "CH": "一个能够预判开启者想法的匣子，在打开它的时候，匣中之物就会幻化为你头脑中的想象。它曾被黑塔评为最难对付的奇物之一，她与「猜不透匣」数次较劲，但每次都无法在开启匣子时控制自己脑内的构想。最后黑塔扔下「猜不透匣」，再也没碰过它——也许黑塔无所不能，唯独做不到放空大脑。",
+            "CH": "一个能够预判开启者想法的匣子，在打开它的时候，匣中之物就会幻化为你头脑中的想象。它曾被黑塔评为最难对付的奇物之一，她与「秘境之匣」数次较劲，但每次都无法在开启匣子时控制自己脑内的构想。最后黑塔扔下「秘境之匣」，再也没碰过它——也许黑塔无所不能，唯独做不到放空大脑。",
             "EN": "A box that can predict the thoughts of the one who opens it. When the box's hatch is lifted, the item within will manifest into what your mind envisions. Herta once rated it as one of the hardest Curios to deal with. She had butted heads with the Indecipherable Box numerous times, but never was she able to control the thoughts in her mind when she opened it. Finally, she cast it down and never touched it again. Perhaps Herta is capable of almost anything - except completely emptying her mind."
         },
         "Icon": "1037.png",

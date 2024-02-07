@@ -6040,12 +6040,12 @@ var _blessing = [
         },
         "Desc": [
             {
-                "CH": "若角色的<u class='infou'>群攻</u>技能只攻击了1个敌方目标，则本次攻击对受到攻击的敌方目标额外造成等同于原伤害<color style='color:#f29e38;'> 40.0% </color>的固定数值的伤害。",
-                "EN": "If characters' <u class='infou'>AoE ATK</u> ability only attacks 1 enemy, this ATK will deal an additional set amount of DMG equal to <color style='color:#f29e38;'>40.0%</color> of the original DMG to the attacked enemy target."
+                "CH": "若角色的<u class='infou'>群攻</u>技能只攻击了1个敌方目标，则本次攻击对受到攻击的敌方目标造成等同于原伤害<color style='color:#f29e38;'> 40.0% </color>的固定数值的伤害。",
+                "EN": "If characters' <u class='infou'>AoE ATK</u> ability only attacks 1 enemy, this ATK will deal a set amount of DMG equal to <color style='color:#f29e38;'>40.0%</color> of the original DMG to the attacked enemy target."
             },
             {
-                "CH": "若角色的<u class='infou'>群攻</u>技能只攻击了1个敌方目标，则本次攻击对受到攻击的敌方目标额外造成等同于原伤害<color style='color:#f29e38;'> 60.0% </color>的固定数值的伤害。",
-                "EN": "If characters' <u class='infou'>AoE ATK</u> ability only attacks 1 enemy, this ATK will deal an additional set amount of DMG equal to <color style='color:#f29e38;'>60.0%</color> of the original DMG to the attacked enemy target."
+                "CH": "若角色的<u class='infou'>群攻</u>技能只攻击了1个敌方目标，则本次攻击对受到攻击的敌方目标造成等同于原伤害<color style='color:#f29e38;'> 60.0% </color>的固定数值的伤害。",
+                "EN": "If characters' <u class='infou'>AoE ATK</u> ability only attacks 1 enemy, this ATK will deal a set amount of DMG equal to <color style='color:#f29e38;'>60.0%</color> of the original DMG to the attacked enemy target."
             }
         ],
         "SimpleDesc": [
@@ -7218,7 +7218,7 @@ var _blessingextra = {
     "61000021": {
         "Name": {
             "CH": "知识",
-            "EN": "Calculate"
+            "EN": "Knowledge"
         },
         "Desc": {
             "CH": "通过骰子能力标记的区域，根据所选被动能力的不同，会发挥出不一样的效果。",
@@ -7252,7 +7252,7 @@ var _blessingextra = {
         },
         "Desc": {
             "CH": "特殊事件区域，在这个区域中会更容易遇到风险较大的事件。",
-            "EN": "Special Occurrence Domain. You are more likely to encounter Occurrences with higher risks in this domain."
+            "EN": "Special Occurrence Domain. You are more likely to encounter occurrences with higher risks in this domain."
         }
     },
     "61000025": {
@@ -7272,7 +7272,7 @@ var _blessingextra = {
         },
         "Desc": {
             "CH": "选择信标，带有该信标的区域中，事件的数量变为3个。开启任意事件后，其他2个事件会消失。",
-            "EN": "Select Beacon. Domains with this beacon will have 3 Occurrences within them. After starting any of the Occurrences, the other 2 will disappear."
+            "EN": "Select Beacon. Domains with this beacon will have 3 occurrences within them. After starting any of the occurrences, the other 2 will disappear."
         }
     },
     "61000031": {

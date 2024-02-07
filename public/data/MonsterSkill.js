@@ -1800,7 +1800,7 @@ var _monsterskill = {
     "100501110": {
         "Key": "SkillPerform01",
         "Name": {
-            "CH": "dev_巨大化表演",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
@@ -6328,44 +6328,6 @@ var _monsterskill = {
         },
         "SP": 0,
         "Elem": "Fire",
-        "Threat": true
-    },
-    "700204001": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "SP": 0,
-        "Elem": "Elec"
-    },
-    "700204002": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "SP": 0
-    },
-    "700204003": {
-        "Key": "Skill03",
-        "Name": {
-            "CH": "",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "SP": 0,
         "Threat": true
     },
     "700205001": {
@@ -11418,70 +11380,6 @@ var _monsterskill = {
         "Elem": "Fire",
         "Threat": true
     },
-    "700305001": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "SP": 0,
-        "Elem": "Imaginary"
-    },
-    "700305002": {
-        "Key": "Skill03",
-        "Name": {
-            "CH": "",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "SP": 0,
-        "Elem": "Imaginary"
-    },
-    "700305003": {
-        "Key": "Skill05",
-        "Name": {
-            "CH": "",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "SP": 0
-    },
-    "700305004": {
-        "Key": "Skill04",
-        "Name": {
-            "CH": "",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "SP": 0,
-        "Elem": "Imaginary",
-        "Threat": true
-    },
-    "700305005": {
-        "Key": "SkillP01",
-        "Name": {
-            "CH": "",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "SP": 0
-    },
     "802401011": {
         "Key": "Skill10",
         "Name": {
@@ -11796,42 +11694,6 @@ var _monsterskill = {
             "EN": "Greatly increases DMG in accordance with the number of Performance Points. A stackable Shield will be obtained when receiving Performance Points, and the Shield will be removed when there are no Performance Points. When the Shield is broken or the character is downed, the Performance Points will be seized."
         },
         "SP": 0
-    },
-    "300101001": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "掷点",
-            "EN": "Throw Dice"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成<1>物理属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入虚弱状态：效果抵抗降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>1</color>回合。",
-            "EN": "Deals <1> Physical DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to Weaken them: Status RES decreased by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>1</color> turn."
-        },
-        "SP": 10.0,
-        "Elem": "Phys",
-        "DMG": [
-            2.5
-        ],
-        "Status": [
-            230010101
-        ]
-    },
-    "300102001": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "邀舞",
-            "EN": "Dance Invite"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成<1>物理属性伤害，有<color style='color:#f29e38;'>50%</color>基础概率使受到攻击的我方目标陷入<b>裂伤</b>状态。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
-            "EN": "Deals <1> Physical DMG to a single target, with a <color style='color:#f29e38;'>50%</color> Base Chance to inflict <b>Bleed</b> on them.<br>Bleed DoT: Every layer deals <2> Physical DMG, lasts <color style='color:#f29e38;'>2</color> turns, max 10 layers."
-        },
-        "SP": 10.0,
-        "Elem": "Phys",
-        "DMG": [
-            2.5,
-            0.2
-        ]
     },
     "700211001": {
         "Key": "Skill01",
@@ -12537,32 +12399,6 @@ var _monsterskill = {
         },
         "SP": 0
     },
-    "300208901": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "test_单攻",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "dev_对指定我方单体造成物理属性伤害。",
-            "EN": ""
-        },
-        "SP": 10.0,
-        "Elem": "Phys"
-    },
-    "300208902": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "test_亡语",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "test_受到致命攻击时，使与自身相邻的敌方目标获得加速并陷入裂伤状态。",
-            "EN": ""
-        },
-        "SP": 0,
-        "Elem": "Phys"
-    },
     "800209101": {
         "Key": "Skill01",
         "Name": {
@@ -12602,7 +12438,7 @@ var _monsterskill = {
     "900460001": {
         "Key": "SkillP01",
         "Name": {
-            "CH": "dev_被动",
+            "CH": "",
             "EN": ""
         },
         "Desc": {
@@ -12754,33 +12590,97 @@ var _monsterskill = {
         "Elem": "Quantum",
         "Threat": true
     },
-    "300203001": {
+    "900310001": {
         "Key": "Skill01",
         "Name": {
-            "CH": "邀饮",
-            "EN": "Drink Invite"
+            "CH": "",
+            "EN": ""
         },
         "Desc": {
-            "CH": "对指定我方单体造成<1>物理属性伤害。",
-            "EN": "Deals <1> Physical DMG to a single target."
+            "CH": "",
+            "EN": ""
+        },
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "900310002": {
+        "Key": "Skill02",
+        "Name": {
+            "CH": "",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "",
+            "EN": ""
+        },
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "900310003": {
+        "Key": "Skill03",
+        "Name": {
+            "CH": "",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "",
+            "EN": ""
+        },
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "900310004": {
+        "Key": "Skill05",
+        "Name": {
+            "CH": "",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "",
+            "EN": ""
         },
         "SP": 10.0,
         "Elem": "Phys",
-        "DMG": [
-            2.5
-        ]
+        "Threat": true
     },
-    "300203002": {
-        "Key": "Skill02",
+    "900310005": {
+        "Key": "Skill04",
         "Name": {
-            "CH": "泼洒甜蜜",
-            "EN": "Libation of Sweetness"
+            "CH": "",
+            "EN": ""
         },
         "Desc": {
-            "CH": "受到致命攻击时，使自身相邻的敌方目标速度提高<color style='color:#f29e38;'>30%</color>，但会对其造成<color style='color:#f29e38;'>1%生命值上限</color>的物理伤害，并使其陷入裂伤状态。",
-            "EN": "Upon taking fatal DMG, increases adjacent friendly units' SPD by <color style='color:#f29e38;'>30%</color>, but will deal <color style='color:#f29e38;'>1% Max HP</color> Physical DMG to them and inflict them with Bleed."
+            "CH": "",
+            "EN": ""
         },
-        "SP": 0
+        "SP": 0,
+        "Elem": "Phys"
+    },
+    "900310006": {
+        "Key": "Skill06",
+        "Name": {
+            "CH": "",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "",
+            "EN": ""
+        },
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "900310007": {
+        "Key": "SkillP01",
+        "Name": {
+            "CH": "",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "",
+            "EN": ""
+        },
+        "SP": 10.0,
+        "Elem": "Phys"
     },
     "800205801": {
         "Key": "Skill01",
@@ -12961,21 +12861,6 @@ var _monsterskill = {
             "EN": "The Trotter flees in an instant."
         },
         "SP": 0
-    },
-    "300203003": {
-        "Key": "SkillP01",
-        "Name": {
-            "CH": "酣畅",
-            "EN": "Hearty Revelry"
-        },
-        "Desc": {
-            "CH": "受到攻击或持续伤害时，获得1层可叠加的【苏乐达陶醉】：造成的伤害提高<color style='color:#f29e38;'>50%</color>，最多叠加<color style='color:#f29e38;'>4</color>层。",
-            "EN": "Upon being attacked or taking DMG from DoT effects, gains a stack of SoulGlad Revel: DMG dealt increases by <color style='color:#f29e38;'>50%</color>, max <color style='color:#f29e38;'>4</color> stacks."
-        },
-        "SP": 0,
-        "Status": [
-            230020301
-        ]
     },
     "302401001": {
         "Key": "Skill01",
@@ -13249,176 +13134,6 @@ var _monsterskill = {
         "SP": 0,
         "Elem": "Wind",
         "Threat": true
-    },
-    "301402001": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "葬仪之吻",
-            "EN": "Funereal Kiss"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成<1>物理属性伤害。",
-            "EN": "Deals <1> Physical DMG to a single target."
-        },
-        "SP": 15.0,
-        "Elem": "Phys",
-        "DMG": [
-            4
-        ]
-    },
-    "301402002": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "沦没黑雨",
-            "EN": "Sunken Rain"
-        },
-        "Desc": {
-            "CH": "对我方全体造成<1>物理属性伤害。",
-            "EN": "Deals <1> Physical DMG to all targets."
-        },
-        "SP": 10.0,
-        "Elem": "Phys",
-        "DMG": [
-            2.5
-        ]
-    },
-    "301402003": {
-        "Key": "Skill03",
-        "Name": {
-            "CH": "锋锐悼词",
-            "EN": "Biting Obituary"
-        },
-        "Desc": {
-            "CH": "使自身造成的伤害提升<color style='color:#f29e38;'>100%</color>，持续1回合，陷入弱点击破状态后解除。",
-            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>100%</color> for 1 turn. This effect is removed when this unit become Weakness Broken."
-        },
-        "SP": 0,
-        "Status": [
-            230140207
-        ]
-    },
-    "301402004": {
-        "Key": "Skill04",
-        "Name": {
-            "CH": "光明消歇",
-            "EN": "Fading Radiance"
-        },
-        "Desc": {
-            "CH": "进入<color style='color:#f29e38;'>【白日西沉】</color>状态。每当我方施放普攻、战技、终结技时叠加1层，当【白日西沉】叠加至3层时，立即对上一个行动的我方施放<color style='color:#f29e38;'>【已在黄昏失色】</color>。施放过一次【已在黄昏失色】或被弱点击破后解除该状态。",
-            "EN": "Enters the <color style='color:#f29e38;'>Sunset</color> state. Gains 1 stack each time a character uses Basic ATK, Skill, or Ultimate. When 3 stacks are gained, immediately uses <color style='color:#f29e38;'>Losing Eventide Light</color> on the last-acting character. This effect is removed after using Losing Eventide Light once or after becoming Weakness Broken."
-        },
-        "SP": 0,
-        "Threat": true,
-        "Status": [
-            230140204
-        ]
-    },
-    "301402005": {
-        "Key": "Skill05",
-        "Name": {
-            "CH": "已在黄昏失色",
-            "EN": "Losing Eventide Light"
-        },
-        "Desc": {
-            "CH": "立即对上一名施放普攻、战技、终结技的我方目标发动致命攻击，使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。",
-            "EN": "Immediately launches a killing blow on the last-acting character who used Basic ATK, Skill, or Ultimate, and inflicts <color style='color:#f29e38;'>Morbid Dream</color> on them."
-        },
-        "SP": 0,
-        "Threat": true,
-        "Status": [
-            230140201
-        ]
-    },
-    "301402006": {
-        "Key": "Skill06",
-        "Name": {
-            "CH": "步入良夜",
-            "EN": "Toward Moonrise"
-        },
-        "Desc": {
-            "CH": "进入<color style='color:#f29e38;'>【夜幕降临】</color>状态，期间会锁定2名最先行动的我方目标。下次行动时使用<color style='color:#f29e38;'>【如水逝于水中】</color>。",
-            "EN": "Enters the <color style='color:#f29e38;'>Nightfall</color> state and locks onto the 2 characters who are due to act next. Uses <color style='color:#f29e38;'>Watery Dissolution</color> in the next action."
-        },
-        "SP": 0,
-        "Threat": true,
-        "Status": [
-            230140202
-        ]
-    },
-    "301402007": {
-        "Key": "Skill07",
-        "Name": {
-            "CH": "如水逝于水中",
-            "EN": "Watery Dissolution"
-        },
-        "Desc": {
-            "CH": "立即对所有被锁定的我方目标发动致命攻击，使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。如果没有被锁定的目标，则随机对2名我方目标发动致命攻击并使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。",
-            "EN": "Immediately deals killing blow to all locked-on targets, making them enter <color style='color:#f29e38;'>Morbid Dream</color>. If no targets are being locked on, randomly lock on to two targets."
-        },
-        "SP": 0,
-        "Threat": true
-    },
-    "301402008": {
-        "Key": "Skill08",
-        "Name": {
-            "CH": "",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "SP": 0
-    },
-    "301402009": {
-        "Key": "PassiveSkill02",
-        "Name": {
-            "CH": "无从凭吊的荒场",
-            "EN": "Desolation Without Lamentation"
-        },
-        "Desc": {
-            "CH": "每当我方目标陷入<color style='color:#f29e38;'>【梦死】</color>状态时，召唤一个对应的<color style='color:#f29e38;'>【永眠墓碣】</color>；当我方全体陷入【梦死】状态或无法战斗状态时，战斗失败。",
-            "EN": "Whenever a target enters the <color style='color:#f29e38;'>Morbid Dream</color> state, summons a corresponding <color style='color:#f29e38;'>Sombrous Sepulcher</color>. When all targets enter the Morbid Dream state or are knocked down, this battle will be considered a defeat."
-        },
-        "SP": 0
-    },
-    "301402010": {
-        "Key": "Skill10",
-        "Name": {
-            "CH": "dev_猎杀模式",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "dev_开启猎杀模式，每当有角色行动（使用终结技，普攻，战技），就会积累1点进度，当动能条满时，立即对上一个行动的角色施放【死亡宣告】。施放一次死亡宣告或被弱点击破后猎杀模式结束。",
-            "EN": ""
-        },
-        "SP": 0,
-        "Threat": true
-    },
-    "301402011": {
-        "Key": "Skill11",
-        "Name": {
-            "CH": "dev_弹射（废弃）",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "dev_对我方随机目标造成6次物理属性伤害。",
-            "EN": ""
-        },
-        "SP": 10.0,
-        "Elem": "Phys"
-    },
-    "301402012": {
-        "Key": "PassiveSkill02",
-        "Name": {
-            "CH": "dev_被动",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "dev_猎杀者开启了猎杀领域，本场战斗中所有角色受到致命伤害时不会立即死去，而是进入放逐状态；每当场上有一名角色被放逐，则召唤一颗灵魂石；击杀灵魂石，救回被放逐的角色，能回复一定的sp和生命值，获得破盾效率提升；当场上所有角色都进入放逐状态后，立即杀死所有角色。",
-            "EN": ""
-        },
-        "SP": 0
     },
     "800304201": {
         "Key": "Skill01",
@@ -13738,55 +13453,6 @@ var _monsterskill = {
             280240103
         ]
     },
-    "301203001": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "惊醒无声的长眠",
-            "EN": "Slumber Awakening"
-        },
-        "Desc": {
-            "CH": "当永眠墓碣受到致命攻击后，对应我方目标将解除<color style='color:#f29e38;'>【梦死】</color>状态，回复<color style='color:#f29e38;'>50%生命值上限</color>和全部能量。",
-            "EN": "After Sombrous Sepulcher receives a killing blow, the <color style='color:#f29e38;'>Morbid Dream</color> state on the corresponding character will be dispelled, and restores <color style='color:#f29e38;'>50% Max HP</color> and all Energy to this character."
-        },
-        "SP": 0
-    },
-    "301203002": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "一切逝去的时间",
-            "EN": "Temporal Departure"
-        },
-        "Desc": {
-            "CH": "永眠墓碣不会进行行动。",
-            "EN": "Sombrous Sepulcher will not take action."
-        },
-        "SP": 0
-    },
-    "301203003": {
-        "Key": "SkillP01",
-        "Name": {
-            "CH": "化入永恒的延续",
-            "EN": "Eternal Continuation"
-        },
-        "Desc": {
-            "CH": "永眠墓碣拥有<color style='color:#f29e38;'>5</color>格生命值。每次受到攻击，弱点击破和持续伤害时，都会直接扣除自身1格生命值。",
-            "EN": "Sombrous Sepulcher has <color style='color:#f29e38;'>5</color> HP bars. Each time it is attacked, Weakness Broken, or receives DMG from DoT, 1 bar of HP will be depleted."
-        },
-        "SP": 0
-    },
-    "301203004": {
-        "Key": "PassiveSkill03",
-        "Name": {
-            "CH": "test_巨掌之间",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "dev_不显示。",
-            "EN": ""
-        },
-        "SP": 0,
-        "Elem": "Phys"
-    },
     "302102001": {
         "Key": "Skill01",
         "Name": {
@@ -13873,62 +13539,6 @@ var _monsterskill = {
         "Status": [
             220230203
         ]
-    },
-    "300201001": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "惊喜综艺",
-            "EN": "Surprise Variety Show"
-        },
-        "Desc": {
-            "CH": "使指定我方单体恢复<color style='color:#f29e38;'>50%</color>能量。只能在【惊喜频道】状态下使用。",
-            "EN": "Regenerates <color style='color:#f29e38;'>50%</color> Energy for a single target. This ability can only be used while under the Surprise Channel state."
-        },
-        "SP": 0
-    },
-    "300201002": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "惊吓播报",
-            "EN": "Startling Broadcast"
-        },
-        "Desc": {
-            "CH": "对我方全体造成<1>量子属性伤害，并使我方全体损失<color style='color:#f29e38;'>20%</color>能量。只能在【惊吓频道】状态下使用。",
-            "EN": "Deals <1> Quantum DMG to all targets and causes all targets to lose <color style='color:#f29e38;'>20%</color> Energy. This ability can only be used while under the Fright Channel state."
-        },
-        "SP": 0,
-        "Elem": "Quantum",
-        "DMG": [
-            1.6
-        ]
-    },
-    "300201003": {
-        "Key": "Skill03",
-        "Name": {
-            "CH": "频道切换",
-            "EN": "Channel Switch"
-        },
-        "Desc": {
-            "CH": "将【惊喜频道】状态转变为【惊吓频道】状态。",
-            "EN": "Switches the Surprise Channel status to the Fright Channel status."
-        },
-        "SP": 0,
-        "Status": [
-            230020101,
-            230020102
-        ]
-    },
-    "300201004": {
-        "Key": "SkillP01",
-        "Name": {
-            "CH": "串台",
-            "EN": "Channel Crossover"
-        },
-        "Desc": {
-            "CH": "初始为【惊吓频道】状态。<br>在受到攻击后，会从【惊喜频道】状态转变为【惊吓频道】状态，或从【惊吓频道】状态转变为【惊喜频道】状态。",
-            "EN": "Initially, has the Fright Channel status.<br>After being attacked, switch from the Surprise Channel status to the Fright Channel status, or vice versa."
-        },
-        "SP": 0
     },
     "802203001": {
         "Key": "Skill01",
@@ -14623,75 +14233,6 @@ var _monsterskill = {
         },
         "SP": 0
     },
-    "300302001": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "限量赠饮",
-            "EN": "Limited Free Drinks"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害，如果目标身上拥有护盾，则造成伤害后还会对自身造成<color style='color:#f29e38;'>8%生命值上限</color>的冰属性伤害，并有<color style='color:#f29e38;'>150%</color>基础概率使自身防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
-            "EN": "Deals <1> Ice DMG to a single target. If the target has Shield, will deal <color style='color:#f29e38;'>8% Max HP</color> Ice DMG to self, and has a <color style='color:#f29e38;'>150%</color> Base Chance to decrease self DEF by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>2</color> turns."
-        },
-        "SP": 10.0,
-        "Elem": "Ice",
-        "DMG": [
-            3.8
-        ]
-    },
-    "300302002": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "无限畅饮",
-            "EN": "Unlimited Free Drinks"
-        },
-        "Desc": {
-            "CH": "随机对我方单体造成4次<1>冰属性伤害。每次造成伤害后，如果目标身上拥有护盾，则还会对自身造成<color style='color:#f29e38;'>8%生命值上限</color>的冰属性伤害，并有<color style='color:#f29e38;'>150%</color>基础概率使自身防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
-            "EN": "Randomly deals <1> Ice DMG 4 times to single targets. After every hit, if the target has Shield, will deal <color style='color:#f29e38;'>8% Max HP</color> Ice DMG to self, and has a <color style='color:#f29e38;'>150%</color> Base Chance to decrease self DEF by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>2</color> turns."
-        },
-        "SP": 10.0,
-        "Elem": "Ice",
-        "Threat": true,
-        "DMG": [
-            3.8
-        ]
-    },
-    "300302003": {
-        "Key": "Skill03",
-        "Name": {
-            "CH": "苏乐达派对",
-            "EN": "SoulGlad Party"
-        },
-        "Desc": {
-            "CH": "召唤2只【气泡锂犬】。",
-            "EN": "Summons 2 Bubble Hounds."
-        },
-        "SP": 0
-    },
-    "300302004": {
-        "Key": "Skill04",
-        "Name": {
-            "CH": "酬宾喷泉",
-            "EN": "Celebration Fountain"
-        },
-        "Desc": {
-            "CH": "进入蓄力状态，获得<color style='color:#f29e38;'>韧性保护</color>，下次行动时施放<color style='color:#f29e38;'>【无限畅饮】</color>。",
-            "EN": "Enters the Charge stage and gains <color style='color:#f29e38;'>Toughness Protection</color>. Uses <color style='color:#f29e38;'>Bottomless Free Drink</color> during the next action."
-        },
-        "SP": 0
-    },
-    "300302005": {
-        "Key": "SkillP01",
-        "Name": {
-            "CH": "dev_被动",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "dev_受到攻击或持续伤害时，获得可乐标记，可叠加。可乐标记层数越高，造成的伤害越高，造成伤害后可乐标记清零。",
-            "EN": ""
-        },
-        "SP": 0
-    },
     "200203201": {
         "Key": "Skill01",
         "Name": {
@@ -14738,237 +14279,6 @@ var _monsterskill = {
         "SP": 0,
         "Status": [
             280330101
-        ]
-    },
-    "300301001": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "大力颠勺",
-            "EN": "Ladle Swirl"
-        },
-        "Desc": {
-            "CH": "对我方单体造成<1>火属性伤害。",
-            "EN": "Deals <1> Fire DMG to a single target."
-        },
-        "SP": 10.0,
-        "Elem": "Fire",
-        "DMG": [
-            3.2
-        ]
-    },
-    "300301002": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "旋风翻锅",
-            "EN": "Tornado Toss"
-        },
-        "Desc": {
-            "CH": "对我方单体造成<1>火属性伤害，对相邻目标造成<2>火属性伤害。",
-            "EN": "Deals <1> Fire DMG to a single target and <2> Fire DMG to adjacent units."
-        },
-        "SP": 10.0,
-        "Elem": "Fire",
-        "DMG": [
-            2.8,
-            2.2
-        ]
-    },
-    "300301003": {
-        "Key": "Skill06",
-        "Name": {
-            "CH": "点燃炉灶",
-            "EN": "Ignite Stove"
-        },
-        "Desc": {
-            "CH": "进入蓄力状态。若在下次行动时未将<color style='color:#f29e38;'>【炉灶过热】</color>叠加至<color style='color:#f29e38;'>6</color>层，则释放<color style='color:#f29e38;'>【烈焰爆炒】</color>，并清除所有【炉灶过热】和【炉灶加温】层数。",
-            "EN": "Enters a Charge state. In the next action, uses <color style='color:#f29e38;'>Flaming Stir-Fry</color> if <color style='color:#f29e38;'>Stove Overheating</color> has not reached <color style='color:#f29e38;'>6</color> stacks, then clears all Stove Heating and Stove Overheating stacks."
-        },
-        "SP": 0,
-        "Elem": "Fire"
-    },
-    "300301004": {
-        "Key": "Skill04",
-        "Name": {
-            "CH": "烈焰爆炒",
-            "EN": "Flaming Stir-Fry"
-        },
-        "Desc": {
-            "CH": "对我方全体造成<1>火属性伤害。",
-            "EN": "Deals <1> Fire DMG to all targets."
-        },
-        "SP": 20.0,
-        "Elem": "Fire",
-        "Threat": true,
-        "DMG": [
-            6.2
-        ]
-    },
-    "300301005": {
-        "Key": "Skill05",
-        "Name": {
-            "CH": "厨房事故",
-            "EN": "Kitchen Mishap"
-        },
-        "Desc": {
-            "CH": "进入蓄力状态后，当<color style='color:#f29e38;'>【炉灶过热】</color>叠加至<color style='color:#f29e38;'>6</color>层时，对自身造成<color style='color:#f29e38;'>30%生命值上限</color>的火属性伤害和<color style='color:#f29e38;'>10</color>点火属性削韧，对敌方其他目标造成<color style='color:#f29e38;'>5%生命值上限</color>的火属性伤害和<color style='color:#f29e38;'>3</color>点火属性削韧，并使自身防御降低<color style='color:#f29e38;'>50%</color>，同时清除所有【炉灶加温】和【炉灶过热】层数。",
-            "EN": "After entering the Charge state, once <color style='color:#f29e38;'>Stove Overheating</color> has <color style='color:#f29e38;'>6</color> stacks, deals <color style='color:#f29e38;'>30% Max HP</color> Fire DMG and <color style='color:#f29e38;'>10</color> Fire Toughness DMG to self, deals <color style='color:#f29e38;'>5% Max HP</color> Fire DMG and <color style='color:#f29e38;'>3</color> Fire Toughness DMG to other friendly units, and decreases own DEF by <color style='color:#f29e38;'>50%</color>.<br>Then, clears all Stove Heating and Stove Overheating stacks."
-        },
-        "SP": 0,
-        "Elem": "Fire"
-    },
-    "300301006": {
-        "Key": "Skill03",
-        "Name": {
-            "CH": "火炼佳肴",
-            "EN": "Flame-Forged Feast"
-        },
-        "Desc": {
-            "CH": "当<color style='color:#f29e38;'>【炉灶加温】</color>叠加至<color style='color:#f29e38;'>6</color>层时立即行动，并释放<color style='color:#f29e38;'>【点燃炉灶】</color>。",
-            "EN": "Immediately takes action when <color style='color:#f29e38;'>Stove Heating</color> reaches <color style='color:#f29e38;'>6</color> stacks, and uses <color style='color:#f29e38;'>Ignite Stove</color>."
-        },
-        "SP": 0
-    },
-    "300301007": {
-        "Key": "PassiveSkillInitiate",
-        "Name": {
-            "CH": "猛火炉灶",
-            "EN": "Inferno Stove"
-        },
-        "Desc": {
-            "CH": "在<b>【文火】</b>期间，受到攻击或持续伤害会积累1层【炉灶加温】。<br>积累<color style='color:#f29e38;'>6</color>层后进入<b>【急火】</b>状态，此时受到攻击或持续伤害会改为积累1层【炉灶过热】，攻击命中角色时有<color style='color:#f29e38;'>50%</color>基础概率使目标减速<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
-            "EN": "When in the <b>Simmer</b> state, receiving attacks or DoT will increase <color style='color:#f29e38;'>Stove Heating</color> by 1 stack. When Stove Heating reaches <color style='color:#f29e38;'>6</color> stacks, enters the <b>Boil</b> state.<br>In <b>Boil</b> state, receiving attacks or DoT will instead increase <color style='color:#f29e38;'>Stove Overheating</color> by 1 stack, and has a <color style='color:#f29e38;'>50%</color> Base Chance to reduce the target's SPD by <color style='color:#f29e38;'>20%</color> when attacking, lasting <color style='color:#f29e38;'>2</color> turns."
-        },
-        "SP": 0,
-        "Status": [
-            230030104,
-            230030105
-        ]
-    },
-    "301202001": {
-        "Key": "Skill03",
-        "Name": {
-            "CH": "排异",
-            "EN": "Structural Deviation"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成<1>物理属性伤害。",
-            "EN": "Deals <1> Physical DMG to a single target."
-        },
-        "SP": 10.0,
-        "Elem": "Phys",
-        "DMG": [
-            3
-        ]
-    },
-    "301202002": {
-        "Key": "SkillP01",
-        "Name": {
-            "CH": "刚愎盾甲",
-            "EN": "Aegis of the Unyielding"
-        },
-        "Desc": {
-            "CH": "进入<color style='color:#f29e38;'>【守备】</color>状态，弱点未被击破时受到的伤害降低<color style='color:#f29e38;'>60%</color>，被击破时行动额外延后<color style='color:#f29e38;'>75%</color>，被击破后受到的伤害提高<color style='color:#f29e38;'>50%</color>。",
-            "EN": "Enters <color style='color:#f29e38;'>Safeguard</color> state, and reduces DMG received by <color style='color:#f29e38;'>60%</color> when not Weakness Broken. Once it is Weakness Broken, action will be delayed by an extra <color style='color:#f29e38;'>75%</color> and increases DMG received by <color style='color:#f29e38;'>50%</color>."
-        },
-        "SP": 0,
-        "Status": [
-            230120201
-        ]
-    },
-    "302402001": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "BHF-轰炎推进",
-            "EN": "BHF: Fiery Advance"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成<1>火属性伤害。",
-            "EN": "Deals <1> Fire DMG to a single target."
-        },
-        "SP": 10.0,
-        "Elem": "Fire",
-        "DMG": [
-            2
-        ]
-    },
-    "302402002": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "BHF-天火",
-            "EN": "BHF: Heavenly Fire"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成<1>火属性伤害，对其相邻目标造成<2>火属性伤害。",
-            "EN": "Deals <1> Fire DMG to a single target and <2> Fire DMG to adjacent units."
-        },
-        "SP": 10.0,
-        "Elem": "Fire",
-        "DMG": [
-            2.4,
-            1.6
-        ]
-    },
-    "302402003": {
-        "Key": "Skill03",
-        "Name": {
-            "CH": "BBHF-焦土作战",
-            "EN": "BBHF: Scorched Earth"
-        },
-        "Desc": {
-            "CH": "对我方全体造成<1>火属性伤害。",
-            "EN": "Deals <1> Fire DMG to all targets."
-        },
-        "SP": 15.0,
-        "Elem": "Fire",
-        "DMG": [
-            1.8
-        ]
-    },
-    "302402004": {
-        "Key": "Skill04",
-        "Name": {
-            "CH": "DHGDR-次级燃烧",
-            "EN": "DHGDR: Secondary Combustion"
-        },
-        "Desc": {
-            "CH": "初始弱点无效。消耗<color style='color:#f29e38;'>3%生命值上限</color>，进入<color style='color:#f29e38;'>【次级燃烧】</color>状态：解除<color style='color:#f29e38;'>【弱点无效】</color>效果，且速度提升<color style='color:#f29e38;'>50%</color>。此后所有攻击都会消耗自身<color style='color:#f29e38;'>1%生命值上限</color>。",
-            "EN": "Initially has Weakness Protected. Consumes <color style='color:#f29e38;'>3% Max HP</color> to enter the <color style='color:#f29e38;'>Secondary Combustion</color> state, removes <color style='color:#f29e38;'>Weakness Protected</color> and increases SPD by <color style='color:#f29e38;'>50%</color>. All his subsequent attacks consume <color style='color:#f29e38;'>1% Max HP</color>."
-        },
-        "SP": 0,
-        "Threat": true
-    },
-    "302402005": {
-        "Key": "Skill05",
-        "Name": {
-            "CH": "DHGDR-超新星过载",
-            "EN": "DHGDR: Supernova Overload"
-        },
-        "Desc": {
-            "CH": "对我方全体造成<1>火属性伤害，并有<color style='color:#f29e38;'>120%</color>基础概率使受到攻击的我方目标陷入<b>灼烧</b>状态。<br>灼烧持续伤害：<2>火属性伤害，持续<color style='color:#f29e38;'>3</color>回合。",
-            "EN": "Deals <1> Fire DMG to all targets and has <color style='color:#f29e38;'>120%</color> Base Chance of inflicting <b>Burn</b>.<br>Burn DoT: <2> Fire DMG, lasing <color style='color:#f29e38;'>3</color> turns."
-        },
-        "SP": 20.0,
-        "Elem": "Fire",
-        "Threat": true,
-        "DMG": [
-            2.7,
-            1.2
-        ]
-    },
-    "302402006": {
-        "Key": "PassiveSkill01",
-        "Name": {
-            "CH": "SGE-熔火垓心",
-            "EN": "SGE: Molten Core"
-        },
-        "Desc": {
-            "CH": "进入【次级燃烧】后使场地燃烧，同时燃烧我方的战技点。<br>我方消耗任意数目的燃烧战技点<color style='color:#f29e38;'>（不包括替代战技点）</color>时，会受到固定的<1>火属性伤害，但会额外造成等同于原伤害数值的<color style='color:#f29e38;'>30%</color>的火属性伤害。<br>我方接受其他角色<color style='color:#f29e38;'>（不包括自身和光锥）</color>的治疗时，治疗加成降低<color style='color:#f29e38;'>90%</color>。",
-            "EN": "After entering Secondary Combustion, Combusts the area and targets' Skill Points.<br>When consuming any number of Combusted Skill Points <color style='color:#f29e38;'>(excluding Alternative Skill Points)</color>, targets take a fixed <1> Fire DMG, but will additionally deal Fire DMG equal to <color style='color:#f29e38;'>30%</color> of the original DMG.<br>When receiving healing from other characters <color style='color:#f29e38;'>(excluding self and Lightcones)</color>, Healing Bonus is reduced by <color style='color:#f29e38;'>90%</color>."
-        },
-        "SP": 0,
-        "Elem": "Fire",
-        "DMG": [
-            1.6
         ]
     },
     "302401101": {
@@ -15236,46 +14546,6 @@ var _monsterskill = {
             "EN": ""
         },
         "SP": 15.0
-    },
-    "300205001": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "桶的锤炼",
-            "EN": "The Can's Trials"
-        },
-        "Desc": {
-            "CH": "对我方单体造成<1>物理属性伤害。",
-            "EN": "Deals <1> Physical DMG to a single target."
-        },
-        "SP": 0,
-        "Elem": "Phys",
-        "DMG": [
-            4
-        ]
-    },
-    "300205002": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "桶的磨砺",
-            "EN": "The Can's Tribulations"
-        },
-        "Desc": {
-            "CH": "使自身的攻击力提高<color style='color:#f29e38;'>100%</color>。该效果可叠加，且不可被驱散。",
-            "EN": "Increases own ATK by <color style='color:#f29e38;'>100%</color>. This effect is stackable and unremoveable."
-        },
-        "SP": 0
-    },
-    "300205003": {
-        "Key": "SkillP01",
-        "Name": {
-            "CH": "桶的信条",
-            "EN": "The Can's Creed"
-        },
-        "Desc": {
-            "CH": "当自身被弱点击破时将会离开战斗。当自身受到我方攻击时，将会被添加此次攻击对应的属性弱点，至多添加2个弱点。",
-            "EN": "When this unit is Weakness Broken, it will leave the battle. When attacked, a Weakness corresponding to the attack's Type will be implanted, up to 2 Weaknesses."
-        },
-        "SP": 0
     },
     "101301403": {
         "Key": "Skill05",
@@ -15998,161 +15268,6 @@ var _monsterskill = {
             "EN": ""
         },
         "SP": 0
-    },
-    "100501301": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "碎骨寒流",
-            "EN": "Bone-Shattering Cold"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成冰属性伤害。",
-            "EN": "Deals Ice DMG to a single target."
-        },
-        "SP": 10.0,
-        "Elem": "Ice"
-    },
-    "100501302": {
-        "Key": "Skill10",
-        "Name": {
-            "CH": "灭世纪的预兆",
-            "EN": "Harbinger of Annihilation"
-        },
-        "Desc": {
-            "CH": "锁定我方单体，下次行动对该目标施放【裂魂寒流】。",
-            "EN": "Locks Onto a single target. In the next action, use \"Soulrend Coldstream.\""
-        },
-        "SP": 0
-    },
-    "100501303": {
-        "Key": "Skill06",
-        "Name": {
-            "CH": "裂魂寒流",
-            "EN": "Soulrend Coldstream"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成大量冰属性伤害，并大概率使受到攻击的我方目标陷入冻结状态。该技能会对【无尽寒冬之槊（幻象）】锁定的目标追加释放。",
-            "EN": "Deals massive Ice DMG to a single target, with a high chance to Freeze the target. This ability will be additionally released on targets locked-on by Lance of the Eternal Freeze (Illusion)."
-        },
-        "SP": 15.0,
-        "Elem": "Ice",
-        "Threat": true
-    },
-    "100501304": {
-        "Key": "Skill04",
-        "Name": {
-            "CH": "",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "SP": 10.0,
-        "Elem": "Ice"
-    },
-    "100501305": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "冷酷灭世者之唤",
-            "EN": "Heartless Annihilator Call"
-        },
-        "Desc": {
-            "CH": "召唤【无尽寒冬之槊（幻象）】。",
-            "EN": "Summons Lances of the Eternal Freeze (Illusion)."
-        },
-        "SP": 0
-    },
-    "100501306": {
-        "Key": "Skill11",
-        "Name": {
-            "CH": "创世者的决意",
-            "EN": "Creator's Resolve"
-        },
-        "Desc": {
-            "CH": "转化为虚数属性，速度提高且攻击造成的伤害，解除韧性保护状态。",
-            "EN": "Converts to Imaginary-Type, increases SPD and DMG dealt, and removes the Toughness Protection state."
-        },
-        "SP": 0,
-        "Elem": "Imaginary"
-    },
-    "100501307": {
-        "Key": "Skill07",
-        "Name": {
-            "CH": "创世和弦",
-            "EN": "Genesis Chord"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成虚数属性伤害，并大概率使受到攻击的我方目标陷入禁锢状态。该技能会对【无尽寒冬之槊（幻象）】锁定的目标追加释放。",
-            "EN": "Deals Imaginary DMG to a single target, with a high chance to Imprison the target. This ability will be additionally released on targets locked-on by Lance of the Eternal Freeze (Illusion)."
-        },
-        "SP": 10.0,
-        "Elem": "Imaginary",
-        "Threat": true
-    },
-    "100501308": {
-        "Key": "Skill08",
-        "Name": {
-            "CH": "创世纪的前奏",
-            "EN": "The Creation's Prelude"
-        },
-        "Desc": {
-            "CH": "进入蓄力状态，下次行动对我方全体施放【创世绝响】。",
-            "EN": "Enters the Charge state. The next action uses \"Last Choir of Genesis\" on all targets."
-        },
-        "SP": 0
-    },
-    "100501309": {
-        "Key": "Skill09",
-        "Name": {
-            "CH": "创世绝响",
-            "EN": "Last Choir of Genesis"
-        },
-        "Desc": {
-            "CH": "对我方全体造成大量虚数属性伤害。",
-            "EN": "Deals massive Imaginary DMG to all targets."
-        },
-        "SP": 20.0,
-        "Elem": "Imaginary",
-        "Threat": true
-    },
-    "100501310": {
-        "Key": "SkillP02",
-        "Name": {
-            "CH": "",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "SP": 0,
-        "Elem": "Ice"
-    },
-    "100501311": {
-        "Key": "SkillP01",
-        "Name": {
-            "CH": "狂雪之灾",
-            "EN": "Blizzardous Crisis"
-        },
-        "Desc": {
-            "CH": "每有1个我方目标陷入冻结或禁锢状态，自身及召唤物造成的伤害提高。",
-            "EN": "This unit and all its summoned objects gain increased DMG for each Frozen or Imprisoned target on the opposing team."
-        },
-        "SP": 0
-    },
-    "100501312": {
-        "Key": "SkillP03",
-        "Name": {
-            "CH": "",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "SP": 0,
-        "Elem": "Ice"
     },
     "200401301": {
         "Key": "Skill01",
@@ -17091,22 +16206,6 @@ var _monsterskill = {
         },
         "SP": 0
     },
-    "301101001": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "他者凝视",
-            "EN": "Glare of the Other"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成<1>量子属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标行动延后<color style='color:#f29e38;'>20%</color>。",
-            "EN": "Deals <1> Quantum DMG to a single target, with a <color style='color:#f29e38;'>100%</color> Base Chance to delay their action by <color style='color:#f29e38;'>20%</color>."
-        },
-        "SP": 10.0,
-        "Elem": "Quantum",
-        "DMG": [
-            2.5
-        ]
-    },
     "201302004": {
         "Key": "Skill04",
         "Name": {
@@ -17289,6 +16388,161 @@ var _monsterskill = {
         },
         "SP": 0
     },
+    "100501301": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "碎骨寒流",
+            "EN": "Bone-Shattering Cold"
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成冰属性伤害。",
+            "EN": "Deals Ice DMG to a single target."
+        },
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "100501302": {
+        "Key": "Skill10",
+        "Name": {
+            "CH": "灭世纪的预兆",
+            "EN": "Harbinger of Annihilation"
+        },
+        "Desc": {
+            "CH": "锁定我方单体，下次行动对该目标施放【裂魂寒流】。",
+            "EN": "Locks Onto a single target. In the next action, use \"Soulrend Coldstream.\""
+        },
+        "SP": 0
+    },
+    "100501303": {
+        "Key": "Skill06",
+        "Name": {
+            "CH": "裂魂寒流",
+            "EN": "Soulrend Coldstream"
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成大量冰属性伤害，并大概率使受到攻击的我方目标陷入冻结状态。该技能会对【无尽寒冬之槊（幻象）】锁定的目标追加释放。",
+            "EN": "Deals massive Ice DMG to a single target, with a high chance to Freeze the target. This ability will be additionally released on targets locked-on by Lance of the Eternal Freeze (Illusion)."
+        },
+        "SP": 15.0,
+        "Elem": "Ice",
+        "Threat": true
+    },
+    "100501304": {
+        "Key": "Skill04",
+        "Name": {
+            "CH": "",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "",
+            "EN": ""
+        },
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "100501305": {
+        "Key": "Skill02",
+        "Name": {
+            "CH": "冷酷灭世者之唤",
+            "EN": "Heartless Annihilator Call"
+        },
+        "Desc": {
+            "CH": "召唤【无尽寒冬之槊（幻象）】。",
+            "EN": "Summons Lances of the Eternal Freeze (Illusion)."
+        },
+        "SP": 0
+    },
+    "100501306": {
+        "Key": "Skill11",
+        "Name": {
+            "CH": "创世者的决意",
+            "EN": "Creator's Resolve"
+        },
+        "Desc": {
+            "CH": "转化为虚数属性，速度提高且攻击造成的伤害，解除韧性保护状态。",
+            "EN": "Converts to Imaginary-Type, increases SPD and DMG dealt, and removes the Toughness Protection state."
+        },
+        "SP": 0,
+        "Elem": "Imaginary"
+    },
+    "100501307": {
+        "Key": "Skill07",
+        "Name": {
+            "CH": "创世和弦",
+            "EN": "Genesis Chord"
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成虚数属性伤害，并大概率使受到攻击的我方目标陷入禁锢状态。该技能会对【无尽寒冬之槊（幻象）】锁定的目标追加释放。",
+            "EN": "Deals Imaginary DMG to a single target, with a high chance to Imprison the target. This ability will be additionally released on targets locked-on by Lance of the Eternal Freeze (Illusion)."
+        },
+        "SP": 10.0,
+        "Elem": "Imaginary",
+        "Threat": true
+    },
+    "100501308": {
+        "Key": "Skill08",
+        "Name": {
+            "CH": "创世纪的前奏",
+            "EN": "The Creation's Prelude"
+        },
+        "Desc": {
+            "CH": "进入蓄力状态，下次行动对我方全体施放【创世绝响】。",
+            "EN": "Enters the Charge state. The next action uses \"Last Choir of Genesis\" on all targets."
+        },
+        "SP": 0
+    },
+    "100501309": {
+        "Key": "Skill09",
+        "Name": {
+            "CH": "创世绝响",
+            "EN": "Last Choir of Genesis"
+        },
+        "Desc": {
+            "CH": "对我方全体造成大量虚数属性伤害。",
+            "EN": "Deals massive Imaginary DMG to all targets."
+        },
+        "SP": 20.0,
+        "Elem": "Imaginary",
+        "Threat": true
+    },
+    "100501310": {
+        "Key": "SkillP02",
+        "Name": {
+            "CH": "",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "",
+            "EN": ""
+        },
+        "SP": 0,
+        "Elem": "Ice"
+    },
+    "100501311": {
+        "Key": "SkillP01",
+        "Name": {
+            "CH": "狂雪之灾",
+            "EN": "Blizzardous Crisis"
+        },
+        "Desc": {
+            "CH": "每有1个我方目标陷入冻结或禁锢状态，自身及召唤物造成的伤害提高。",
+            "EN": "This unit and all its summoned objects gain increased DMG for each Frozen or Imprisoned target on the opposing team."
+        },
+        "SP": 0
+    },
+    "100501312": {
+        "Key": "SkillP03",
+        "Name": {
+            "CH": "",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "",
+            "EN": ""
+        },
+        "SP": 0,
+        "Elem": "Ice"
+    },
     "200402310": {
         "Key": "Skill02_Extra",
         "Name": {
@@ -17301,631 +16555,6 @@ var _monsterskill = {
         },
         "SP": 10.0,
         "Threat": true
-    },
-    "301203101": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "惊醒无声的长眠",
-            "EN": "Slumber Awakening"
-        },
-        "Desc": {
-            "CH": "当永眠墓碣受到致命攻击后，对应我方目标将解除<color style='color:#f29e38;'>【梦死】</color>状态，回复<color style='color:#f29e38;'>50%生命值上限</color>和全部能量。",
-            "EN": "After Sombrous Sepulcher receives a killing blow, the <color style='color:#f29e38;'>Morbid Dream</color> state on the corresponding character will be dispelled, and restores <color style='color:#f29e38;'>50% Max HP</color> and all Energy to this character."
-        },
-        "SP": 0
-    },
-    "301203102": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "一切逝去的时间",
-            "EN": "Temporal Departure"
-        },
-        "Desc": {
-            "CH": "永眠墓碣不会进行行动。",
-            "EN": "Sombrous Sepulcher will not take action."
-        },
-        "SP": 0
-    },
-    "301203103": {
-        "Key": "SkillP01",
-        "Name": {
-            "CH": "化入永恒的延续",
-            "EN": "Eternal Continuation"
-        },
-        "Desc": {
-            "CH": "永眠墓碣拥有<color style='color:#f29e38;'>5</color>格生命值。每次受到攻击，弱点击破和持续伤害时，都会直接扣除自身1格生命值。",
-            "EN": "Sombrous Sepulcher has <color style='color:#f29e38;'>5</color> HP bars. Each time it is attacked, Weakness Broken, or receives DMG from DoT, 1 bar of HP will be depleted."
-        },
-        "SP": 0
-    },
-    "301203104": {
-        "Key": "PassiveSkill03",
-        "Name": {
-            "CH": "test_巨掌之间",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "dev_不显示。",
-            "EN": ""
-        },
-        "SP": 0,
-        "Elem": "Phys"
-    },
-    "300301101": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "大力颠勺",
-            "EN": "Ladle Swirl"
-        },
-        "Desc": {
-            "CH": "对我方单体造成<1>火属性伤害。",
-            "EN": "Deals <1> Fire DMG to a single target."
-        },
-        "SP": 10.0,
-        "Elem": "Fire",
-        "DMG": [
-            3.0
-        ]
-    },
-    "300301102": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "旋风翻锅",
-            "EN": "Tornado Toss"
-        },
-        "Desc": {
-            "CH": "对我方单体造成<1>火属性伤害，对相邻目标造成<2>火属性伤害。",
-            "EN": "Deals <1> Fire DMG to a single target and <2> Fire DMG to adjacent units."
-        },
-        "SP": 10.0,
-        "Elem": "Fire",
-        "DMG": [
-            2.5,
-            2
-        ]
-    },
-    "300301103": {
-        "Key": "Skill06",
-        "Name": {
-            "CH": "点燃炉灶",
-            "EN": "Ignite Stove"
-        },
-        "Desc": {
-            "CH": "进入蓄力状态。下次行动释放<color style='color:#f29e38;'>【烈焰爆炒】</color>，并清除所有【炉灶过热】和【炉灶加温】层数。",
-            "EN": "Enters a Charge state. In the next action, uses <color style='color:#f29e38;'>Flaming Stir-Fry</color>, then clears all Stove Heating and Stove Overheating stacks."
-        },
-        "SP": 0,
-        "Elem": "Fire"
-    },
-    "300301104": {
-        "Key": "Skill04",
-        "Name": {
-            "CH": "烈焰爆炒",
-            "EN": "Flaming Stir-Fry"
-        },
-        "Desc": {
-            "CH": "对我方全体造成<1>火属性伤害。",
-            "EN": "Deals <1> Fire DMG to all targets."
-        },
-        "SP": 20.0,
-        "Elem": "Fire",
-        "Threat": true,
-        "DMG": [
-            5
-        ]
-    },
-    "300301105": {
-        "Key": "Skill05",
-        "Name": {
-            "CH": "厨房事故",
-            "EN": "Kitchen Mishap"
-        },
-        "Desc": {
-            "CH": "进入蓄力状态后，当【炉灶过热】叠加至<color style='color:#f29e38;'>9</color>层时，对自身造成<color style='color:#f29e38;'>33%生命值上限</color>的火属性伤害和<color style='color:#f29e38;'>10</color>点火属性削韧，对敌方其他目标造成<color style='color:#f29e38;'>2.5%生命值上限</color>的火属性伤害和<color style='color:#f29e38;'>3</color>点火属性削韧，并使自身防御降低<color style='color:#f29e38;'>10%</color>，为我方全部角色恢复<color style='color:#f29e38;'>50%</color>能量。<br>清除所有【炉灶加温】和【炉灶过热】层数。",
-            "EN": "After entering the Charge state, once Stove Overheating has <color style='color:#f29e38;'>9</color> stacks, deals <color style='color:#f29e38;'>33% Max HP</color> Fire DMG and <color style='color:#f29e38;'>10</color> Fire Toughness DMG to self, deals <color style='color:#f29e38;'>2.5% Max HP</color> Fire DMG and <color style='color:#f29e38;'>3</color> Fire Toughness DMG to other friendly units, and decreases own DEF by <color style='color:#f29e38;'>10%</color>, and revive <color style='color:#f29e38;'>50%</color> Energy for all characters.<br>Then, clears all Stove Heating and Stove Overheating stacks."
-        },
-        "SP": 0,
-        "Elem": "Fire"
-    },
-    "300301106": {
-        "Key": "Skill03",
-        "Name": {
-            "CH": "火炼佳肴",
-            "EN": "Flame-Forged Feast"
-        },
-        "Desc": {
-            "CH": "当<color style='color:#f29e38;'>【炉灶加温】</color>叠加至<color style='color:#f29e38;'>3</color>层时立即行动，并释放<color style='color:#f29e38;'>【点燃炉灶】</color>。",
-            "EN": "Immediately takes action when <color style='color:#f29e38;'>Stove Heating</color> reaches <color style='color:#f29e38;'>3</color> stacks, and uses <color style='color:#f29e38;'>Ignite Stove</color>."
-        },
-        "SP": 0
-    },
-    "300301107": {
-        "Key": "PassiveSkillInitiate",
-        "Name": {
-            "CH": "猛火炉灶",
-            "EN": "Inferno Stove"
-        },
-        "Desc": {
-            "CH": "在<b>【文火】</b>期间，受到攻击或持续伤害会积累1层【炉灶加温】。积累<color style='color:#f29e38;'>3</color>层后进入<b>【急火】</b>状态，期间受到攻击或持续伤害会积累1层【炉灶过热】，攻击命中角色时有<color style='color:#f29e38;'>50%</color>基础概率使目标减速<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
-            "EN": "When in the <b>Simmer</b> state, receiving attacks or DoT will increase <color style='color:#f29e38;'>Stove Heating</color> by 1 stack. When Stove Heating reaches <color style='color:#f29e38;'>3</color> stacks, enters the <b>Boil</b> state. In <b>Boil</b> state, receiving attacks or DoT will increase <color style='color:#f29e38;'>Stove Overheating</color> by 1 stack, and has a <color style='color:#f29e38;'>50%</color> Base Chance to reduce the target's SPD by <color style='color:#f29e38;'>20%</color> when attacking, lasting <color style='color:#f29e38;'>2</color> turns."
-        },
-        "SP": 0,
-        "Status": [
-            230030104,
-            230030105
-        ]
-    },
-    "300302101": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "限量赠饮",
-            "EN": "Limited Free Drinks"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害，并使其行动提前<color style='color:#f29e38;'>50%</color>。<br>如果目标身上拥有护盾，则造成伤害后还会对自身造成<color style='color:#f29e38;'>20%生命值上限</color>的冰属性伤害，并有<color style='color:#f29e38;'>150%</color>基础概率使自身防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
-            "EN": "Deals <1> Ice DMG to a single target and advance their action by <color style='color:#f29e38;'>50%</color>.<br>If the target has Shield, will deal <color style='color:#f29e38;'>20% Max HP</color> Ice DMG to self, and has a <color style='color:#f29e38;'>150%</color> Base Chance to decrease self DEF by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>2</color> turns."
-        },
-        "SP": 10.0,
-        "Elem": "Ice",
-        "DMG": [
-            2
-        ]
-    },
-    "300302102": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "无限畅饮",
-            "EN": "Unlimited Free Drinks"
-        },
-        "Desc": {
-            "CH": "对被监视的我方单体造成<1>冰属性伤害（分4次伤害），并使其行动提前<color style='color:#f29e38;'>50%</color>。<br>每次造成伤害后，如果目标身上拥有护盾，则会对自身造成<color style='color:#f29e38;'>20%生命值上限</color>的冰属性伤害，并对随机敌方造成<color style='color:#f29e38;'>1%生命值上限</color>的冰属性伤害，并有<color style='color:#f29e38;'>150%</color>基础概率使自身防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
-            "EN": "Deals <1> Ice DMG to the Marked target (in 4 hits) and advance their action by <color style='color:#f29e38;'>50%</color>.<br> After every hit, if the target has Shield, will deal <color style='color:#f29e38;'>20% Max HP</color> Ice DMG to self and <color style='color:#f29e38;'>1% Max HP</color> Ice DMG to a random ally, and has a <color style='color:#f29e38;'>150%</color> Base Chance to decrease self DEF by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>2</color> turns."
-        },
-        "SP": 10.0,
-        "Elem": "Ice",
-        "Threat": true,
-        "DMG": [
-            8
-        ]
-    },
-    "300302103": {
-        "Key": "Skill03",
-        "Name": {
-            "CH": "苏乐达派对",
-            "EN": "SoulGlad Party"
-        },
-        "Desc": {
-            "CH": "召唤2只【气泡锂犬】。",
-            "EN": "Summons 2 Bubble Hounds."
-        },
-        "SP": 0
-    },
-    "300302104": {
-        "Key": "Skill04",
-        "Name": {
-            "CH": "酬宾喷泉",
-            "EN": "Celebration Fountain"
-        },
-        "Desc": {
-            "CH": "进入蓄力状态，获得<color style='color:#f29e38;'>韧性保护</color>，下次行动时施放<color style='color:#f29e38;'>【无限畅饮】</color>。<br>将随机我方单体标记为<color style='color:#f29e38;'>监视目标</color>。每当我方目标施放战技时，会转为标记最新施放战技的目标。此状态下，自身受到攻击时行动将会提前<color style='color:#f29e38;'>10%%</color>。",
-            "EN": "Enters the Charge stage and gains <color style='color:#f29e38;'>Toughness Protection</color>. Uses <color style='color:#f29e38;'>Bottomless Free Drink</color> during the next action.<br>Will <color style='color:#f29e38;'>Mark</color> a random target. When a character uses their Skill, Mark will be moved to the new Skill user. When attacked, advances own action by <color style='color:#f29e38;'>10%</color>."
-        },
-        "SP": 0
-    },
-    "302402101": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "BHF-轰炎推进",
-            "EN": "BHF: Fiery Advance"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成<1>火属性伤害。",
-            "EN": "Deals <1> Fire DMG to a single target."
-        },
-        "SP": 10.0,
-        "Elem": "Fire",
-        "DMG": [
-            2
-        ]
-    },
-    "302402102": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "BHF-天火",
-            "EN": "BHF: Heavenly Fire"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成<1>火属性伤害，对其相邻目标造成<2>火属性伤害。",
-            "EN": "Deals <1> Fire DMG to a single target and <2> Fire DMG to adjacent units."
-        },
-        "SP": 10.0,
-        "Elem": "Fire",
-        "DMG": [
-            2.4,
-            1.2
-        ]
-    },
-    "302402103": {
-        "Key": "Skill03",
-        "Name": {
-            "CH": "BBHF-焦土作战",
-            "EN": "BBHF: Scorched Earth"
-        },
-        "Desc": {
-            "CH": "对我方全体造成<1>火属性伤害。",
-            "EN": "Deals <1> Fire DMG to all targets."
-        },
-        "SP": 15.0,
-        "Elem": "Fire",
-        "DMG": [
-            1.8
-        ]
-    },
-    "302402104": {
-        "Key": "Skill04",
-        "Name": {
-            "CH": "DHGDR-次级燃烧",
-            "EN": "DHGDR: Secondary Combustion"
-        },
-        "Desc": {
-            "CH": "初始弱点无效。消耗<color style='color:#f29e38;'>3%生命值上限</color>，进入<color style='color:#f29e38;'>【次级燃烧】</color>状态：解除<color style='color:#f29e38;'>【弱点无效】</color>效果，且速度提升<color style='color:#f29e38;'>50%</color>。此后所有攻击都会消耗自身<color style='color:#f29e38;'>1%生命值上限</color>。",
-            "EN": "Initially has Weakness Protected. Consumes <color style='color:#f29e38;'>3% Max HP</color> to enter the <color style='color:#f29e38;'>Secondary Combustion</color> state, removes <color style='color:#f29e38;'>Weakness Protected</color> and increases SPD by <color style='color:#f29e38;'>50%</color>. All his subsequent attacks consume <color style='color:#f29e38;'>1% Max HP</color>."
-        },
-        "SP": 0,
-        "Threat": true
-    },
-    "302402105": {
-        "Key": "Skill05",
-        "Name": {
-            "CH": "DHGDR-超新星过载",
-            "EN": "DHGDR: Supernova Overload"
-        },
-        "Desc": {
-            "CH": "对我方全体造成<1>火属性伤害，并有<color style='color:#f29e38;'>120%</color>基础概率使受到攻击的我方目标陷入<b>灼烧</b>状态。<br>灼烧持续伤害：<2>火属性伤害，持续<color style='color:#f29e38;'>3</color>回合。",
-            "EN": "Deals <1> Fire DMG to all targets and has <color style='color:#f29e38;'>120%</color> Base Chance of inflicting <b>Burn</b>.<br>Burn DoT: <2> Fire DMG, lasing <color style='color:#f29e38;'>3</color> turns."
-        },
-        "SP": 20.0,
-        "Elem": "Fire",
-        "Threat": true,
-        "DMG": [
-            3,
-            1.2
-        ]
-    },
-    "302402106": {
-        "Key": "PassiveSkill01",
-        "Name": {
-            "CH": "SGE-熔火垓心",
-            "EN": "SGE: Molten Core"
-        },
-        "Desc": {
-            "CH": "进入【次级燃烧】后使场地燃烧，同时燃烧我方的战技点。<br>我方消耗任意数目的燃烧战技点<color style='color:#f29e38;'>（不包括替代战技点）</color>时，会受到固定的<1>火属性伤害，但会额外造成等同于原伤害数值的<color style='color:#f29e38;'>30%</color>的火属性伤害。<br>我方接受其他角色<color style='color:#f29e38;'>（不包括自身和光锥）</color>的治疗时，治疗加成降低<color style='color:#f29e38;'>70%</color>。",
-            "EN": "After entering Secondary Combustion, Combusts the area and targets' Skill Points.<br>When consuming any number of Combusted Skill Points <color style='color:#f29e38;'>(excluding Alternative Skill Points)</color>, targets take a fixed <1> Fire DMG, but will additionally deal Fire DMG equal to <color style='color:#f29e38;'>30%</color> of the original DMG.<br>When receiving healing from other characters <color style='color:#f29e38;'>(excluding self and Lightcones)</color>, Healing Bonus is reduced by <color style='color:#f29e38;'>70%</color>."
-        },
-        "SP": 0,
-        "DMG": [
-            2.4
-        ]
-    },
-    "202401401": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "衔枝 · 肃风",
-            "EN": "Pedicel: Wintry Wind"
-        },
-        "Desc": {
-            "CH": "召唤建木枝梢【肃风之杪】。",
-            "EN": "Summons Ambrosial Arbor branch \"Twig of Wintry Wind\""
-        },
-        "SP": 0
-    },
-    "202401402": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "衔枝 · 缃叶",
-            "EN": "Pedicel: Marple Leaf"
-        },
-        "Desc": {
-            "CH": "召唤建木枝梢【缃叶之杪】。",
-            "EN": "Summons Ambrosial Arbor branch \"Twig of Marple Leaf\""
-        },
-        "SP": 0
-    },
-    "202401403": {
-        "Key": "Skill03",
-        "Name": {
-            "CH": "衔枝 · 繁花",
-            "EN": "Pedicel: Glorious Blooms"
-        },
-        "Desc": {
-            "CH": "召唤建木枝梢【繁花之杪】。",
-            "EN": "Summons Ambrosial Arbor branch \"Twig of Glorious Blooms\""
-        },
-        "SP": 0
-    },
-    "202401404": {
-        "Key": "Skill04",
-        "Name": {
-            "CH": "衔枝 · 嘉实",
-            "EN": "Pedicel: Lavish Fruits"
-        },
-        "Desc": {
-            "CH": "召唤建木枝梢【嘉实之杪】。",
-            "EN": "Summons Ambrosial Arbor branch \"Twig of Lavish Fruits.\""
-        },
-        "SP": 0
-    },
-    "202401405": {
-        "Key": "Skill05",
-        "Name": {
-            "CH": "呦鸣",
-            "EN": "Wavering Bleat"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成雷属性伤害。",
-            "EN": "Deals Lightning DMG to a single target."
-        },
-        "SP": 20.0,
-        "Elem": "Elec"
-    },
-    "202401406": {
-        "Key": "Skill06",
-        "Name": {
-            "CH": "绾风",
-            "EN": "Caress of Wind"
-        },
-        "Desc": {
-            "CH": "对我方全体造成少量风属性伤害。",
-            "EN": "Deals minor Wind DMG to all targets."
-        },
-        "SP": 15.0,
-        "Elem": "Wind"
-    },
-    "202401407": {
-        "Key": "Skill07",
-        "Name": {
-            "CH": "蕉覆",
-            "EN": "Hardy Leaf Sheath"
-        },
-        "Desc": {
-            "CH": "提高防御力，且使自身韧性无法受到伤害。",
-            "EN": "Increases DEF. Toughness cannot be reduced."
-        },
-        "SP": 0
-    },
-    "202401408": {
-        "Key": "Skill08",
-        "Name": {
-            "CH": "斑龙触",
-            "EN": "Flamboyant Gore"
-        },
-        "Desc": {
-            "CH": "当场上存在2个【嘉实】时立即施放该技能，对我方全体造成雷属性伤害。场上【建木枝梢】数量越多，造成的伤害越高。施放技能后，清除场上所有的【建木枝梢】。",
-            "EN": "Uses this ability immediately when there are 2 Lavish Fruits on the field. Deals Lightning DMG to all targets. Deals more damage for every \"Ambrosial Arbor Branches\" on the field. After the ability is used, remove all \"Ambrosial Arbor Branches\" on the field."
-        },
-        "SP": 20.0,
-        "Elem": "Elec",
-        "Threat": true
-    },
-    "202401409": {
-        "Key": "Skill09",
-        "Name": {
-            "CH": "回生",
-            "EN": "Rebirth"
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "SP": 0
-    },
-    "300205101": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "桶的锤炼",
-            "EN": "The Can's Trials"
-        },
-        "Desc": {
-            "CH": "对我方单体造成<1>物理属性伤害。",
-            "EN": "Deals <1> Physical DMG to a single target."
-        },
-        "SP": 0,
-        "Elem": "Phys",
-        "DMG": [
-            3
-        ]
-    },
-    "300205102": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "桶的磨砺",
-            "EN": "The Can's Tribulations"
-        },
-        "Desc": {
-            "CH": "使自身的攻击力提高<color style='color:#f29e38;'>30%</color>。该效果可叠加，且不可被驱散。",
-            "EN": "Increases own ATK by <color style='color:#f29e38;'>30%</color>. This effect is stackable and unremoveable."
-        },
-        "SP": 0
-    },
-    "300205103": {
-        "Key": "SkillP01",
-        "Name": {
-            "CH": "桶的信条",
-            "EN": "The Can's Creed"
-        },
-        "Desc": {
-            "CH": "当自身被弱点击破时将会击破所有除【王下一桶（投影）】外的敌方目标的弱点，同时自身离开战斗。当受到我方攻击时，将会被添加此次攻击对应的属性弱点。",
-            "EN": "When this unit's Weakness is Broken, Weakness will be Broken for all friendly units except Lordly Trashcan (Projection). At the same time, this unit will exit the battle. When attacked, a Weakness corresponding to the attack's Type will be implanted."
-        },
-        "SP": 0
-    },
-    "301402101": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "葬仪之吻",
-            "EN": "Funereal Kiss"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成<1>物理属性伤害。",
-            "EN": "Deals <1> Physical DMG to a single target."
-        },
-        "SP": 15.0,
-        "Elem": "Phys",
-        "DMG": [
-            4
-        ]
-    },
-    "301402102": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "沦没黑雨",
-            "EN": "Sunken Rain"
-        },
-        "Desc": {
-            "CH": "对我方全体造成<1>物理属性伤害。",
-            "EN": "Deals <1> Physical DMG to all targets."
-        },
-        "SP": 10.0,
-        "Elem": "Phys",
-        "DMG": [
-            2.5
-        ]
-    },
-    "301402103": {
-        "Key": "Skill03",
-        "Name": {
-            "CH": "锋锐悼词",
-            "EN": "Biting Obituary"
-        },
-        "Desc": {
-            "CH": "使自身造成的伤害提升<color style='color:#f29e38;'>100%</color>，持续1回合，陷入弱点击破状态后解除。",
-            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>100%</color> for 1 turn. This effect is removed when this unit become Weakness Broken."
-        },
-        "SP": 0,
-        "Status": [
-            230140207
-        ]
-    },
-    "301402104": {
-        "Key": "Skill04",
-        "Name": {
-            "CH": "光明消歇",
-            "EN": "Fading Radiance"
-        },
-        "Desc": {
-            "CH": "进入<color style='color:#f29e38;'>【白日西沉】</color>状态。每当我方施放普攻、战技、终结技时叠加1层，当【白日西沉】叠加至3层时，立即对上一个行动的我方施放<color style='color:#f29e38;'>【已在黄昏失色】</color>。施放过一次【已在黄昏失色】或被弱点击破后解除该状态。",
-            "EN": "Enters the <color style='color:#f29e38;'>Sunset</color> state. Gains 1 stack each time a character uses Basic ATK, Skill, or Ultimate. When 3 stacks are gained, immediately uses <color style='color:#f29e38;'>Losing Eventide Light</color> on the last-acting character. This effect is removed after using Losing Eventide Light once or after becoming Weakness Broken."
-        },
-        "SP": 0,
-        "Threat": true,
-        "Status": [
-            230140204
-        ]
-    },
-    "301402105": {
-        "Key": "Skill05",
-        "Name": {
-            "CH": "已在黄昏失色",
-            "EN": "Losing Eventide Light"
-        },
-        "Desc": {
-            "CH": "立即对上一名施放普攻、战技、终结技的我方目标发动致命攻击，使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。",
-            "EN": "Immediately deals a killing blow to the character last used Basic ATK, Skill, or Ultimate, making them enter <color style='color:#f29e38;'>Morbid Dream</color>."
-        },
-        "SP": 0,
-        "Threat": true,
-        "Status": [
-            230140201
-        ]
-    },
-    "301402106": {
-        "Key": "Skill06",
-        "Name": {
-            "CH": "步入良夜",
-            "EN": "Toward Moonrise"
-        },
-        "Desc": {
-            "CH": "进入<color style='color:#f29e38;'>【夜幕降临】</color>状态，期间会锁定2名最先行动的我方目标。下次行动时使用<color style='color:#f29e38;'>【如水逝于水中】</color>。",
-            "EN": "Enters the <color style='color:#f29e38;'>Nightfall</color> state and locks onto the 2 characters who are due to act next. Uses <color style='color:#f29e38;'>Watery Dissolution</color> in the next action."
-        },
-        "SP": 0,
-        "Threat": true,
-        "Status": [
-            230140202
-        ]
-    },
-    "301402107": {
-        "Key": "Skill07",
-        "Name": {
-            "CH": "如水逝于水中",
-            "EN": "Watery Dissolution"
-        },
-        "Desc": {
-            "CH": "立即对所有被锁定的我方目标发动致命攻击，使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。如果没有被锁定的目标，则随机对2名我方目标发动致命攻击并使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。",
-            "EN": "Immediately deals killing blow to all locked-on targets, making them enter <color style='color:#f29e38;'>Morbid Dream</color>. If no targets are being locked on, randomly lock on to two targets."
-        },
-        "SP": 0,
-        "Threat": true
-    },
-    "301402108": {
-        "Key": "Skill08",
-        "Name": {
-            "CH": "",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "SP": 0
-    },
-    "301402109": {
-        "Key": "PassiveSkill02",
-        "Name": {
-            "CH": "无从凭吊的荒场",
-            "EN": "Desolation Without Lamentation"
-        },
-        "Desc": {
-            "CH": "每当我方目标陷入<color style='color:#f29e38;'>【梦死】</color>状态时，召唤一个对应的<color style='color:#f29e38;'>【永眠墓碣】</color>；当我方全体陷入【梦死】状态或无法战斗状态时，战斗失败。",
-            "EN": "Whenever a target enters the <color style='color:#f29e38;'>Morbid Dream</color> state, summons a corresponding <color style='color:#f29e38;'>Sombrous Sepulcher</color>. When all targets enter the Morbid Dream state or are knocked down, this battle will be considered a defeat."
-        },
-        "SP": 0
-    },
-    "302402007": {
-        "Key": "Skill06",
-        "Name": {
-            "CH": "SGE-熔火引擎",
-            "EN": "SGE: Molten Engine"
-        },
-        "Desc": {
-            "CH": "萨姆在【次级燃烧】下拥有<color style='color:#f29e38;'>5</color>点【熔火能量】。当萨姆被我方消耗了燃烧的战技点<color style='color:#f29e38;'>（包括替代战技点）</color>的攻击命中时，会依据消耗战技点的数目，扣除熔火能量。<br>【熔火能量】耗尽时解除【次级燃烧】，并恢复我方所有战技点。此时萨姆自动被弱点击破，且受到的伤害提高<color style='color:#f29e38;'>50%</color>，持续至韧性恢复。",
-            "EN": "While in Secondary Combustion, Sam possesses <color style='color:#f29e38;'>5</color> Molten Energy. When Sam is hit by characters' skills that consumed Combusted Skill Points <color style='color:#f29e38;'>(including Alternative Skill Points)</color>, Molten Energy will be deducted according to the amount of Skill Points Consumed.<br>When Molten Energy is depleted, all Skill Points are regenerated for allies. Sam will exit Secondary Combustion and be automatically Weakness Broken, during which Sam receives <color style='color:#f29e38;'>50%</color> increased DMG."
-        },
-        "SP": 0,
-        "Status": [
-            230240201,
-            230240202,
-            230240203,
-            230240204
-        ]
-    },
-    "302402107": {
-        "Key": "Skill06",
-        "Name": {
-            "CH": "SGE-熔火引擎",
-            "EN": "SGE: Molten Engine"
-        },
-        "Desc": {
-            "CH": "萨姆在【次级燃烧】下拥有<color style='color:#f29e38;'>5</color>点【熔火能量】。当萨姆被我方消耗了燃烧的战技点<color style='color:#f29e38;'>（包括替代战技点）</color>的攻击命中时，会依据消耗战技点的数目，扣除熔火能量。<br>【熔火能量】耗尽时解除【次级燃烧】，并恢复我方所有战技点。此时萨姆自动被弱点击破，且受到的伤害提高<color style='color:#f29e38;'>50%</color>，持续至韧性恢复。",
-            "EN": "While in Secondary Combustion, Sam possesses <color style='color:#f29e38;'>5</color> Molten Energy. When Sam is hit by characters' skills that consumed Combusted Skill Points <color style='color:#f29e38;'>(including Alternative Skill Points)</color>, Molten Energy will be deducted according to the amount of Skill Points Consumed.<br>When Molten Energy is depleted, all Skill Points are regenerated for allies. Sam will exit Secondary Combustion and be automatically Weakness Broken, during which Sam receives <color style='color:#f29e38;'>50%</color> increased DMG."
-        },
-        "SP": 0,
-        "Status": [
-            230240201,
-            230240202,
-            230240203,
-            230240204
-        ]
     },
     "104201": {
         "Name": {

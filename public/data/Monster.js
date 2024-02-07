@@ -1556,7 +1556,7 @@ var _monster = [
             }
         ],
         "Rank": "MinionLv2",
-        "Camp": 0,
+        "Camp": 1,
         "Icon": "MonsterIcon/Monster_1002020.png",
         "Figure": "MonsterFigure/Monster_1002020.png"
     },
@@ -5779,71 +5779,6 @@ var _monster = [
         "Csxylic": "SCJarilo-VI/1004010"
     },
     {
-        "_id": 100401004,
-        "Key": "Monster_W1_CocoliaP1_00_Config",
-        "Name": {
-            "CH": "可可利亚",
-            "EN": "Cocolia"
-        },
-        "Desc": {
-            "CH": "贝洛伯格的守护者，永屹之城贝洛伯格无可质疑的统治者。<br>可可利亚秉持传承自历代守护者的神迹权能，在战斗中号令冰雪的力量冻结敌人。",
-            "EN": "The Guardian of Belobog, and the indisputable ruler of the Towering Citadel, Belobog.<br>Cocolia possesses the divine authority passed down through the generations of Guardians, giving her command over ice and snow to freeze her enemies in battle."
-        },
-        "Stats": {
-            "HP": 20.0,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 120.0,
-            "Stance": 12.0
-        },
-        "StatsExtra": {
-            "Stance": 2.0
-        },
-        "Weak": [
-            "Fire",
-            "Elec",
-            "Quantum"
-        ],
-        "RESBase": {
-            "Phys": 0.4,
-            "Ice": 0.6,
-            "Wind": 0.4,
-            "Imaginary": 0.2
-        },
-        "StatusRESBase": 0.3,
-        "DebuffRES": {
-            "CTRL": 0.5,
-            "Frozen": 1.0
-        },
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    100401001,
-                    100401002,
-                    100401003,
-                    100401004,
-                    100401005
-                ]
-            },
-            {
-                "Phase": 0,
-                "Skills": [
-                    100401006
-                ]
-            }
-        ],
-        "Rank": "LittleBoss",
-        "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1004010.png",
-        "Figure": "MonsterFigure/Monster_1004010.png",
-        "Status": [
-            30020012,
-            210040114
-        ],
-        "Csxylic": "SCJarilo-VI/1004010"
-    },
-    {
         "_id": 1004011,
         "Key": "Monster_W1_CocoliaP1_00_Config_RL",
         "Name": {
@@ -6379,14 +6314,11 @@ var _monster = [
             "EN": "Captain of the Silvermane Guards.<br>Gepard can command his soldiers to focus their attacks, and provide each of them with a barrier that blocks one attack."
         },
         "Stats": {
-            "HP": 17.0,
+            "HP": 7.2,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 120.0,
             "Stance": 10.0
-        },
-        "StatsExtra": {
-            "Stance": 2.0
         },
         "Weak": [
             "Phys",
@@ -6920,14 +6852,11 @@ var _monster = [
             "EN": "Successor to Belobog's Guardian, and commander of the Silvermane Guards.<br>Bronya can use various tactics to attack her enemies, and greatly enhance the battle prowess of all allies."
         },
         "Stats": {
-            "HP": 17.0,
+            "HP": 12.0,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 120.0,
             "Stance": 7.0
-        },
-        "StatsExtra": {
-            "Stance": 1.0
         },
         "Weak": [
             "Phys",
@@ -7609,8 +7538,8 @@ var _monster = [
             "EN": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies."
         },
         "Stats": {
-            "HP": 1.75,
-            "ATK": 12.00006,
+            "HP": 1.2,
+            "ATK": 9.0,
             "DEF": 1.0,
             "SPD": 100.0,
             "Stance": 2.0
@@ -9031,57 +8960,6 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_1012020.png"
     },
     {
-        "_id": 101202111,
-        "Key": "Monster_W1_Mecha01_00_Config",
-        "Name": {
-            "CH": "自动机兵 · 蜘蛛",
-            "EN": "Automaton Spider"
-        },
-        "Desc": {
-            "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责替代人类进行最基础的体力劳动。<br>战斗中，自动机兵「蜘蛛」的动力非常不稳定，极易在损毁时发生殉爆事故。",
-            "EN": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor.<br>In combat, Automaton Spiders are highly unstable, capable of exploding when damaged."
-        },
-        "Stats": {
-            "HP": 1.5,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 83.0,
-            "Stance": 2.0
-        },
-        "Weak": [
-            "Elec",
-            "Wind"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Fire": 0.2,
-            "Ice": 0.2,
-            "Quantum": 0.2,
-            "Imaginary": 0.2
-        },
-        "StatusRESBase": 0.1,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    101202102,
-                    101202103,
-                    101202104
-                ]
-            },
-            {
-                "Phase": 0,
-                "Skills": [
-                    101202101
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1012020.png",
-        "Figure": "MonsterFigure/Monster_1012020.png"
-    },
-    {
         "_id": 1012030,
         "Key": "Monster_W1_Mecha01_01_Config",
         "Name": {
@@ -9728,50 +9606,6 @@ var _monster = [
         "Stats": {
             "HP": 3.5,
             "ATK": 8.18172,
-            "DEF": 1.0,
-            "SPD": 100.0,
-            "Stance": 2.0
-        },
-        "Weak": [
-            "Elec",
-            "Wind",
-            "Imaginary"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Fire": 0.2,
-            "Ice": 0.2,
-            "Quantum": 0.2
-        },
-        "StatusRESBase": 0.1,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    101203001
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012030.png",
-        "Figure": "MonsterFigure/Monster_1012030.png",
-        "Csxylic": "SCJarilo-VI/1012030"
-    },
-    {
-        "_id": 101203015,
-        "Key": "Monster_W1_Mecha01_01_Config",
-        "Name": {
-            "CH": "自动机兵 · 甲虫",
-            "EN": "Automaton Beetle"
-        },
-        "Desc": {
-            "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责移动的附肢上装置着信号灯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「甲虫」会创造力场护盾保护自己。",
-            "EN": "An automaton pieced together with Old World technology. A signal light is placed on its legs, and the unit may have been used for mining or construction operations.<br>In combat, Automaton Beetles can create forcefields to shield themselves."
-        },
-        "Stats": {
-            "HP": 4.5,
-            "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 100.0,
             "Stance": 2.0
@@ -11077,66 +10911,6 @@ var _monster = [
             "DEF": 1.0,
             "SPD": 120.0,
             "Stance": 14.0
-        },
-        "Weak": [
-            "Fire",
-            "Ice",
-            "Elec"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Wind": 0.2,
-            "Quantum": 0.2,
-            "Imaginary": 0.2
-        },
-        "StatusRESBase": 0.2,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    101301001,
-                    101301002,
-                    101301003,
-                    101301004,
-                    101301009
-                ]
-            },
-            {
-                "Phase": 0,
-                "Skills": [
-                    101301005
-                ]
-            }
-        ],
-        "Rank": "Elite",
-        "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png",
-        "Figure": "MonsterFigure/Monster_1013010.png",
-        "Status": [
-            30020010
-        ],
-        "Csxylic": "SCJarilo-VI/1013010"
-    },
-    {
-        "_id": 101301019,
-        "Key": "Monster_W1_Mecha03_00_Config",
-        "Name": {
-            "CH": "自动机兵 · 灰熊",
-            "EN": "Automaton Grizzly"
-        },
-        "Desc": {
-            "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，加装了厚重的铠甲，用于冲锋陷阵保护银鬃铁卫。<br>战斗中，自动机兵「灰熊」会发出信号召来「蜘蛛」合作战斗，同时会积蓄动能发出强力一击。",
-            "EN": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack."
-        },
-        "Stats": {
-            "HP": 15.0,
-            "ATK": 12.00006,
-            "DEF": 1.0,
-            "SPD": 120.0,
-            "Stance": 14.0
-        },
-        "StatsExtra": {
-            "Stance": -4.0
         },
         "Weak": [
             "Fire",
@@ -12542,60 +12316,6 @@ var _monster = [
         "Csxylic": "SCJarilo-VI/1013020"
     },
     {
-        "_id": 101302024,
-        "Key": "Monster_W1_Mecha04_00_Config",
-        "Name": {
-            "CH": "自动机兵 · 齿狼",
-            "EN": "Automaton Direwolf"
-        },
-        "Desc": {
-            "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，少见的人形机械，其右臂部分统一装置着链锯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「齿狼」的链锯会造成裂伤，令对手持续损失生命值。",
-            "EN": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT."
-        },
-        "Stats": {
-            "HP": 12.5,
-            "ATK": 7.2,
-            "DEF": 1.0,
-            "SPD": 144.0,
-            "Stance": 10.0
-        },
-        "StatsExtra": {
-            "SPD": -44.0
-        },
-        "Weak": [
-            "Ice",
-            "Elec",
-            "Imaginary"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Fire": 0.2,
-            "Wind": 0.2,
-            "Quantum": 0.2
-        },
-        "StatusRESBase": 0.2,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    101302001,
-                    101302002,
-                    101302003,
-                    101302004
-                ]
-            }
-        ],
-        "Rank": "Elite",
-        "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png",
-        "Figure": "MonsterFigure/Monster_1013020.png",
-        "Status": [
-            210130201,
-            210130202
-        ],
-        "Csxylic": "SCJarilo-VI/1013020"
-    },
-    {
         "_id": 1013021,
         "Key": "Monster_W1_Mecha04_00_Config_A",
         "Name": {
@@ -13440,73 +13160,6 @@ var _monster = [
         },
         "Stats": {
             "HP": 27.5,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 120.0,
-            "Stance": 12.0
-        },
-        "Weak": [
-            "Fire",
-            "Elec",
-            "Wind"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Ice": 0.2,
-            "Quantum": 0.2,
-            "Imaginary": 0.2
-        },
-        "StatusRESBase": 0.3,
-        "DebuffRES": {
-            "CTRL": 0.5
-        },
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    101401001,
-                    101401002,
-                    101401004,
-                    101401007
-                ]
-            },
-            {
-                "Phase": 0,
-                "Skills": [
-                    101401003,
-                    101401005,
-                    101401006,
-                    101401008,
-                    101401009,
-                    101401010,
-                    101401011
-                ]
-            }
-        ],
-        "Rank": "LittleBoss",
-        "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1004020.png",
-        "Figure": "MonsterFigure/Monster_1014010.png",
-        "Status": [
-            30010006,
-            210040204,
-            210120401
-        ],
-        "Csxylic": "SCJarilo-VI/1014010"
-    },
-    {
-        "_id": 101401009,
-        "Key": "Monster_W1_Svarog_00_Config",
-        "Name": {
-            "CH": "史瓦罗",
-            "EN": "Svarog"
-        },
-        "Desc": {
-            "CH": "旧世界的古老遗物，地髓开拓团的时代遗留下的自动控制单元。与大部分无智、只接受指令的机器不同，史瓦罗具有复杂的思考能力。<br>在战斗中，史瓦罗会召来机械臂抓取和控制敌人，对目标进行沉重的打击。",
-            "EN": "This ancient relic from the Old World was an automated control unit left behind during the times of the Geomarrow Development Group. Unlike other mindless machines that could only receive instructions, Svarog is capable of complex thoughts.<br>In battle, Svarog summons mechanical arms to grab and control his enemies, delivering devastating attacks."
-        },
-        "Stats": {
-            "HP": 23.0,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 120.0,
@@ -15475,56 +15128,6 @@ var _monster = [
         "Stats": {
             "HP": 1.5,
             "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 100.0,
-            "Stance": 2.0
-        },
-        "Weak": [
-            "Ice",
-            "Wind",
-            "Imaginary"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Fire": 0.4,
-            "Elec": 0.2,
-            "Quantum": 0.2
-        },
-        "StatusRESBase": 0.1,
-        "DebuffRES": {
-            "Burn": 1.0
-        },
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    102202001
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png",
-        "Figure": "MonsterFigure/Monster_1022020.png",
-        "Status": [
-            30020002
-        ],
-        "Csxylic": "SCFragmentumMonsters/1022020"
-    },
-    {
-        "_id": 102202023,
-        "Key": "Monster_W1_Soldier01_01_Config",
-        "Name": {
-            "CH": "火焚灾影",
-            "EN": "Incineration Shadewalker"
-        },
-        "Desc": {
-            "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形。其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的燃烬所取代。<br>战斗中火焚灾影会挥舞燃烧的斧刃，灼烧敌人。",
-            "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle."
-        },
-        "Stats": {
-            "HP": 0.75,
-            "ATK": 7.2,
             "DEF": 1.0,
             "SPD": 100.0,
             "Stance": 2.0
@@ -18552,8 +18155,8 @@ var _monster = [
             "EN": "Cloud Knight Lieutenant: Yanqing"
         },
         "Desc": {
-            "CH": "…",
-            "EN": "..."
+            "CH": "将军景元的侍卫，不过总角之年的御剑天才。",
+            "EN": "General Jing Yuan's retainer. A gifted swordsman who hasn't even come of age."
         },
         "Stats": {
             "HP": 15.0,
@@ -18616,8 +18219,8 @@ var _monster = [
             "EN": "Cloud Knight Lieutenant: Yanqing"
         },
         "Desc": {
-            "CH": "…",
-            "EN": "..."
+            "CH": "将军景元的侍卫，不过总角之年的御剑天才。",
+            "EN": "General Jing Yuan's retainer. A gifted swordsman who hasn't even come of age."
         },
         "Stats": {
             "HP": 6.5,
@@ -18684,8 +18287,8 @@ var _monster = [
             "EN": "Cloud Knight Lieutenant: Yanqing"
         },
         "Desc": {
-            "CH": "…",
-            "EN": "..."
+            "CH": "将军景元的侍卫，不过总角之年的御剑天才。",
+            "EN": "General Jing Yuan's retainer. A gifted swordsman who hasn't even come of age."
         },
         "Stats": {
             "HP": 22.5,
@@ -18876,76 +18479,12 @@ var _monster = [
             "EN": "Cloud Knight Lieutenant: Yanqing"
         },
         "Desc": {
-            "CH": "…",
-            "EN": "..."
+            "CH": "将军景元的侍卫，不过总角之年的御剑天才。",
+            "EN": "General Jing Yuan's retainer. A gifted swordsman who hasn't even come of age."
         },
         "Stats": {
             "HP": 35.0,
             "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 120.0,
-            "Stance": 16.0
-        },
-        "Weak": [
-            "Elec",
-            "Wind",
-            "Imaginary"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Fire": 0.2,
-            "Ice": 0.4,
-            "Quantum": 0.2
-        },
-        "StatusRESBase": 0.2,
-        "DebuffRES": {
-            "Frozen": 0.5,
-            "Confine": 0.5,
-            "Entangle": 0.5
-        },
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    200402001,
-                    200402002,
-                    200402003,
-                    200402004,
-                    200402005,
-                    200402006
-                ]
-            },
-            {
-                "Phase": 0,
-                "Skills": [
-                    200402007
-                ]
-            }
-        ],
-        "Rank": "LittleBoss",
-        "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2004020.png",
-        "Figure": "MonsterFigure/Monster_2004020.png",
-        "Status": [
-            220040201,
-            220040204
-        ],
-        "Csxylic": "SCTheXianzhouLuofu/2004020"
-    },
-    {
-        "_id": 200402006,
-        "Key": "Monster_W2_Yanqing_00_Config",
-        "Name": {
-            "CH": "云骑骁卫 · 彦卿",
-            "EN": "Cloud Knight Lieutenant: Yanqing"
-        },
-        "Desc": {
-            "CH": "…",
-            "EN": "..."
-        },
-        "Stats": {
-            "HP": 25.0,
-            "ATK": 18.94734,
             "DEF": 1.0,
             "SPD": 120.0,
             "Stance": 16.0
@@ -19004,8 +18543,8 @@ var _monster = [
             "EN": "Cloud Knight Lieutenant: Yanqing (Complete)"
         },
         "Desc": {
-            "CH": "…",
-            "EN": "…"
+            "CH": "代码受到影响后的完整投影。参照本体为将军景元的侍卫，不过总角之年的御剑天才。",
+            "EN": "A complete projection produced by compromised codes. The referenced entity is General Jing Yuan's retainer, a gifted swordsman who hasn't even come of age."
         },
         "Stats": {
             "HP": 10.0,
@@ -25714,66 +25253,6 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_2024010.png"
     },
     {
-        "_id": 2024014,
-        "Key": "Monster_W2_Xuanlu_00_Config_Pingshu",
-        "Name": {
-            "CH": "丰饶玄鹿",
-            "EN": "Abundant Ebon Deer"
-        },
-        "Desc": {
-            "CH": "由「建木」化生，拱卫其根系的灵瑞之兽，履迹所之，和泽滋生，枝杪郁敷。<br>自毁于太古时代的战争后，「建木」终于在星核的修补下再度生长。彼时仙人们所造的珍禽奇兽纷至沓来，宛如旧梦重临。",
-            "EN": "An auspicious spiritual beast wrought into being by the Ambrosial Arbor and protects its roots. Its arrival brings along exuberant vegetation and promises good fortune.<br>Once destroyed during ancient wars, the Ambrosial Arbor is mended by the Stellaron and finally revives. Rare creatures and legendary beasts made by celestials of the past all return to this world, like an old dream coming alive again."
-        },
-        "Stats": {
-            "HP": 27.5,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 115.0,
-            "Stance": 14.0
-        },
-        "Weak": [
-            "Fire",
-            "Ice",
-            "Quantum"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Elec": 0.4,
-            "Wind": 0.4,
-            "Imaginary": 0.2
-        },
-        "StatusRESBase": 0.3,
-        "DebuffRES": {
-            "Frozen": 0.5,
-            "Confine": 0.5
-        },
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    202401401,
-                    202401402,
-                    202401403,
-                    202401404,
-                    202401405,
-                    202401406,
-                    202401407,
-                    202401408
-                ]
-            },
-            {
-                "Phase": 0,
-                "Skills": [
-                    202401409
-                ]
-            }
-        ],
-        "Rank": "LittleBoss",
-        "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2024010.png",
-        "Figure": "MonsterFigure/Monster_2024010.png"
-    },
-    {
         "_id": 2024020,
         "Key": "Monster_W2_Fuyan_00_Config",
         "Name": {
@@ -25935,1672 +25414,6 @@ var _monster = [
         "Icon": "MonsterIcon/Monster_2024020.png",
         "Figure": "MonsterFigure/Monster_2024020.png",
         "Csxylic": "SCTheXianzhouLuofu/2024020"
-    },
-    {
-        "_id": 202402004,
-        "Key": "Monster_W2_Fuyan_00_Config",
-        "Name": {
-            "CH": "浮烟",
-            "EN": "Cirrus"
-        },
-        "Desc": {
-            "CH": "大岁阳「燎原」的碎片。融聚众多岁阳碎片，试图重现「燎原」之气魄。",
-            "EN": "A fragment of the great heliobus, Ignamar. Gather the numerous fragments of the heliobus to recreate Ignamar's spirit."
-        },
-        "Stats": {
-            "HP": 15.0,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 100.0,
-            "Stance": 0.0
-        },
-        "Weak": [],
-        "RESBase": {},
-        "StatusRESBase": 1.0,
-        "DebuffRES": {
-            "CTRL": 1.0
-        },
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    202402001,
-                    202402002,
-                    202402003
-                ]
-            }
-        ],
-        "Rank": "LittleBoss",
-        "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2024020.png",
-        "Figure": "MonsterFigure/Monster_2024020.png",
-        "Csxylic": "SCTheXianzhouLuofu/2024020"
-    },
-    {
-        "_id": 3001010,
-        "Key": "Monster_W2_Mecha01_02_Config",
-        "Name": {
-            "CH": "惊梦剧团的弹簧荷官",
-            "EN": "Dreamjolt Troupe's Spring Loader"
-        },
-        "Desc": {
-            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>本是牌桌上的娱乐道具，失控后仍在舞动着手中的骰子，用粗鲁的方式进行游戏。",
-            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a tool for entertainment on the card table, it is still shaking the dice in its hands after losing control, continuing the game in a crude manner."
-        },
-        "Stats": {
-            "HP": 1.0,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 83.0,
-            "Stance": 1.0
-        },
-        "Weak": [
-            "Phys",
-            "Wind"
-        ],
-        "RESBase": {
-            "Fire": 0.2,
-            "Ice": 0.2,
-            "Elec": 0.2,
-            "Quantum": 0.2,
-            "Imaginary": 0.2
-        },
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    300101001
-                ]
-            }
-        ],
-        "Rank": "Minion",
-        "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3001010.png",
-        "Figure": "MonsterFigure/Monster_3001010.png",
-        "Status": [
-            230010101
-        ],
-        "New": true
-    },
-    {
-        "_id": 300101001,
-        "Key": "Monster_W2_Mecha01_02_Config",
-        "Name": {
-            "CH": "柯柯娜的善良",
-            "EN": "Cocona's Kindness"
-        },
-        "Desc": {
-            "CH": "善良之心，曾相信人人本性良善。",
-            "EN": "A kind heart that once believed that everyone is good by nature."
-        },
-        "Stats": {
-            "HP": 1.0,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 83.0,
-            "Stance": 1.0
-        },
-        "Weak": [
-            "Phys",
-            "Wind"
-        ],
-        "RESBase": {
-            "Fire": 0.2,
-            "Ice": 0.2,
-            "Elec": 0.2,
-            "Quantum": 0.2,
-            "Imaginary": 0.2
-        },
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    300101001
-                ]
-            }
-        ],
-        "Rank": "Minion",
-        "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3001010.png",
-        "Figure": "MonsterFigure/Monster_3001010.png",
-        "Status": [
-            230010101
-        ]
-    },
-    {
-        "_id": 3001020,
-        "Key": "Monster_XP_Minion01_04_Config",
-        "Name": {
-            "CH": "惊梦剧团的舞鸫假面",
-            "EN": "Dreamjolt Troupe's Birdskull"
-        },
-        "Desc": {
-            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>本是剧场中的演出道具，失控后仍在演绎台上的闹剧，将混乱的舞步带往各处。",
-            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a prop in the theater, it is still performing the farce on the stage after losing control, bringing cacophonic dance steps to every direction."
-        },
-        "Stats": {
-            "HP": 1.0,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 83.0,
-            "Stance": 1.0
-        },
-        "Weak": [
-            "Elec",
-            "Imaginary"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Fire": 0.2,
-            "Ice": 0.2,
-            "Wind": 0.2,
-            "Quantum": 0.2
-        },
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    300102001
-                ]
-            }
-        ],
-        "Rank": "Minion",
-        "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3001020.png",
-        "Figure": "MonsterFigure/Monster_3001020.png",
-        "New": true
-    },
-    {
-        "_id": 300102001,
-        "Key": "Monster_XP_Minion01_04_Config",
-        "Name": {
-            "CH": "柯柯娜的诚实",
-            "EN": "Cocona's Honesty"
-        },
-        "Desc": {
-            "CH": "诚实之心，曾相信只要以诚对人他人便会以诚待己。",
-            "EN": "A soul of honesty. She once believed that as long as she is honest with others, they will be honest with her, too."
-        },
-        "Stats": {
-            "HP": 1.0,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 83.0,
-            "Stance": 1.0
-        },
-        "Weak": [
-            "Elec",
-            "Imaginary"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Fire": 0.2,
-            "Ice": 0.2,
-            "Wind": 0.2,
-            "Quantum": 0.2
-        },
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    300102001
-                ]
-            }
-        ],
-        "Rank": "Minion",
-        "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3001020.png",
-        "Figure": "MonsterFigure/Monster_3001020.png"
-    },
-    {
-        "_id": 3002010,
-        "Key": "Monster_W3_TV_00_Config",
-        "Name": {
-            "CH": "惊梦剧团的圆幕先生",
-            "EN": "Dreamjolt Troupe's Mr. Domescreen"
-        },
-        "Desc": {
-            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是电视节目中的娱乐演员，失控后仍在演绎自己多变的身份，为观众带来惊喜或是惊吓。",
-            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally an entertainer in TV shows, it is still portraying its ever-changing roles after losing control and continues to bring surprises or scares to the audience."
-        },
-        "Stats": {
-            "HP": 2.75,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 100.0,
-            "Stance": 3.0
-        },
-        "Weak": [
-            "Ice",
-            "Elec",
-            "Imaginary"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Fire": 0.2,
-            "Wind": 0.2,
-            "Quantum": 0.2
-        },
-        "StatusRESBase": 0.1,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    300201001,
-                    300201002,
-                    300201003,
-                    300201004
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3002010.png",
-        "Figure": "MonsterFigure/Monster_3002010.png",
-        "Status": [
-            230020101,
-            230020102
-        ],
-        "New": true
-    },
-    {
-        "_id": 300201001,
-        "Key": "Monster_W3_TV_00_Config",
-        "Name": {
-            "CH": "惊梦剧团的圆幕先生（投影）",
-            "EN": "Dreamjolt Troupe's Mr. Domescreen (Projection)"
-        },
-        "Desc": {
-            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是电视节目中的娱乐演员，失控后仍在演绎自己多变的身份，为观众带来惊喜或是惊吓。",
-            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally an entertainer in TV shows, it is still portraying its ever-changing roles after losing control and continues to bring surprises or scares to the audience."
-        },
-        "Stats": {
-            "HP": 100.0,
-            "ATK": 5.9999400000000005,
-            "DEF": 1.0,
-            "SPD": 100.0,
-            "Stance": 3.0
-        },
-        "StatsExtra": {
-            "Stance": 47.0
-        },
-        "Weak": [
-            "Ice",
-            "Elec",
-            "Imaginary"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Fire": 0.2,
-            "Wind": 0.2,
-            "Quantum": 0.2
-        },
-        "StatusRESBase": 0.1,
-        "DebuffRES": {
-            "CTRL": 1.0
-        },
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    300201001,
-                    300201002,
-                    300201003,
-                    300201004
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3002010.png",
-        "Figure": "MonsterFigure/Monster_3002010.png",
-        "Status": [
-            230020101,
-            230020102
-        ]
-    },
-    {
-        "_id": 300201002,
-        "Key": "Monster_W3_TV_00_Config",
-        "Name": {
-            "CH": "惊梦剧团的圆幕先生（投影）",
-            "EN": "Dreamjolt Troupe's Mr. Domescreen (Projection)"
-        },
-        "Desc": {
-            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是电视节目中的娱乐演员，失控后仍在演绎自己多变的身份，为观众带来惊喜或是惊吓。",
-            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally an entertainer in TV shows, it is still portraying its ever-changing roles after losing control and continues to bring surprises or scares to the audience."
-        },
-        "Stats": {
-            "HP": 100.0,
-            "ATK": 5.9999400000000005,
-            "DEF": 1.0,
-            "SPD": 100.0,
-            "Stance": 3.0
-        },
-        "StatsExtra": {
-            "Stance": 47.0
-        },
-        "Weak": [
-            "Ice",
-            "Elec",
-            "Imaginary"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Fire": 0.2,
-            "Wind": 0.2,
-            "Quantum": 0.2
-        },
-        "StatusRESBase": 0.1,
-        "DebuffRES": {
-            "CTRL": 1.0
-        },
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    300201001,
-                    300201002,
-                    300201003,
-                    300201004
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3002010.png",
-        "Figure": "MonsterFigure/Monster_3002010.png",
-        "Status": [
-            230020101,
-            230020102
-        ]
-    },
-    {
-        "_id": 300201003,
-        "Key": "Monster_W3_TV_00_Config",
-        "Name": {
-            "CH": "柯柯娜的纯真",
-            "EN": "Cocona's Purity"
-        },
-        "Desc": {
-            "CH": "纯真之心，曾相信这世界无论有多少苦难，结局终是美好的。",
-            "EN": "A kind heart that once believed that no matter how much suffering was in this world, the ending would always be a happy one."
-        },
-        "Stats": {
-            "HP": 2.75,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 100.0,
-            "Stance": 3.0
-        },
-        "Weak": [
-            "Ice",
-            "Elec",
-            "Imaginary"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Fire": 0.2,
-            "Wind": 0.2,
-            "Quantum": 0.2
-        },
-        "StatusRESBase": 0.1,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    300201001,
-                    300201002,
-                    300201003,
-                    300201004
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3002010.png",
-        "Figure": "MonsterFigure/Monster_3002010.png",
-        "Status": [
-            230020101,
-            230020102
-        ]
-    },
-    {
-        "_id": 3002030,
-        "Key": "Monster_W2_Beast01_03_Config",
-        "Name": {
-            "CH": "惊梦剧团的气泡锂犬",
-            "EN": "Dreamjolt Troupe's Bubble Hound"
-        },
-        "Desc": {
-            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是「苏乐达」汽水的派送员，失控后仍在挥洒甜蜜，让所有人都来品尝美味的饮品。",
-            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a delivery robot of SoulGlad, it is still dispensing sweetness after losing control, inviting everyone to taste this delicacy."
-        },
-        "Stats": {
-            "HP": 2.25,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 100.0,
-            "Stance": 3.0
-        },
-        "Weak": [
-            "Phys",
-            "Elec",
-            "Wind"
-        ],
-        "RESBase": {
-            "Fire": 0.2,
-            "Ice": 0.2,
-            "Quantum": 0.2,
-            "Imaginary": 0.2
-        },
-        "StatusRESBase": 0.1,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    300203001,
-                    300203002,
-                    300203003
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3002030.png",
-        "Figure": "MonsterFigure/Monster_3002030.png",
-        "Status": [
-            230020301
-        ],
-        "New": true
-    },
-    {
-        "_id": 300203001,
-        "Key": "Monster_W2_Beast01_03_Config",
-        "Name": {
-            "CH": "惊梦剧团的气泡锂犬",
-            "EN": "Dreamjolt Troupe's Bubble Hound"
-        },
-        "Desc": {
-            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是「苏乐达」汽水的派送员，失控后仍在挥洒甜蜜，让所有人都来品尝美味的饮品。",
-            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a delivery robot of SoulGlad, it is still dispensing sweetness after losing control, inviting everyone to taste this delicacy."
-        },
-        "Stats": {
-            "HP": 2.25,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 100.0,
-            "Stance": 3.0
-        },
-        "Weak": [
-            "Phys",
-            "Elec",
-            "Wind"
-        ],
-        "RESBase": {
-            "Fire": 0.2,
-            "Ice": 0.2,
-            "Quantum": 0.2,
-            "Imaginary": 0.2
-        },
-        "StatusRESBase": 0.1,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    300203001,
-                    300203002,
-                    300203003
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3002030.png",
-        "Figure": "MonsterFigure/Monster_3002030.png",
-        "Status": [
-            230020301
-        ]
-    },
-    {
-        "_id": 300203002,
-        "Key": "Monster_W2_Beast01_03_Config",
-        "Name": {
-            "CH": "柯柯娜的原则",
-            "EN": "Cocona's Principles"
-        },
-        "Desc": {
-            "CH": "坚定之心，曾相信总有些底线不能被逾越。",
-            "EN": "A firm heart that once believed there were lines that could not be crossed."
-        },
-        "Stats": {
-            "HP": 2.25,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 100.0,
-            "Stance": 3.0
-        },
-        "Weak": [
-            "Phys",
-            "Elec",
-            "Wind"
-        ],
-        "RESBase": {
-            "Fire": 0.2,
-            "Ice": 0.2,
-            "Quantum": 0.2,
-            "Imaginary": 0.2
-        },
-        "StatusRESBase": 0.1,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    300203001,
-                    300203002,
-                    300203003
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3002030.png",
-        "Figure": "MonsterFigure/Monster_3002030.png",
-        "Status": [
-            230020301
-        ]
-    },
-    {
-        "_id": 3002050,
-        "Key": "Monster_W3_Junk_00_Config",
-        "Name": {
-            "CH": "王下一桶",
-            "EN": "Lordly Trashcan"
-        },
-        "Desc": {
-            "CH": "于虚构中诞生的古怪之物，它的故事记录于无名的史书：孤高悍勇的一桶承载着垃圾之王的使命，寻觅强而有力的战士，扫除危害世间的废料。",
-            "EN": "A peculiar entity born within the realm of fiction, its story documented in the nameless chronicles: a lone and valiant trashcan bearing the mission of the Garbage King to seek formidable warriors to eliminate wastes that threaten the world."
-        },
-        "Stats": {
-            "HP": 50.0,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 144.0,
-            "Stance": 12.0
-        },
-        "Weak": [],
-        "RESBase": {},
-        "StatusRESBase": 0.1,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    300205001,
-                    300205002,
-                    300205003
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 7,
-        "Icon": "MonsterIcon/Monster_3002050.png",
-        "Figure": "MonsterFigure/Monster_3002050.png",
-        "New": true
-    },
-    {
-        "_id": 300205002,
-        "Key": "Monster_W3_Junk_00_Config",
-        "Name": {
-            "CH": "柯柯娜的诚实",
-            "EN": "Cocona's Honesty"
-        },
-        "Desc": {
-            "CH": "诚实之心，曾相信只要以诚对人他人便会以诚待己。",
-            "EN": "An honest heart that once believed that sincerity given would be sincerity returned."
-        },
-        "Stats": {
-            "HP": 2.25,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 144.0,
-            "Stance": 12.0
-        },
-        "StatsExtra": {
-            "Stance": -9.0
-        },
-        "Weak": [],
-        "RESBase": {},
-        "StatusRESBase": 0.1,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    300205001,
-                    300205002,
-                    300205003
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 7,
-        "Icon": "MonsterIcon/Monster_3002050.png",
-        "Figure": "MonsterFigure/Monster_3002050.png"
-    },
-    {
-        "_id": 3002051,
-        "Key": "Monster_W3_Junk_00_Config_ActivityTelevision",
-        "Name": {
-            "CH": "王下一桶（投影）",
-            "EN": "Lordly Trashcan (Projection)"
-        },
-        "Desc": {
-            "CH": "于虚构中诞生的古怪之物，它的故事记录于无名的史书：孤高悍勇的一桶承载着垃圾之王的使命，寻觅强而有力的战士，扫除危害世间的废料。",
-            "EN": "A peculiar entity born within the realm of fiction, its story documented in the nameless chronicles: a lone and valiant trashcan bearing the mission of the Garbage King to seek formidable warriors to eliminate wastes that threaten the world."
-        },
-        "Stats": {
-            "HP": 100.0,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 144.0,
-            "Stance": 10.0
-        },
-        "Weak": [],
-        "RESBase": {},
-        "StatusRESBase": 0.1,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    300205101,
-                    300205102,
-                    300205103
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3002050.png",
-        "Figure": "MonsterFigure/Monster_3002050.png",
-        "New": true
-    },
-    {
-        "_id": 3002089,
-        "Key": "Monster_W2_Beast01_03_Config",
-        "Name": {
-            "CH": "test_可乐狗",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "Stats": {
-            "HP": 2.0,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 120.0,
-            "Stance": 2.0
-        },
-        "Weak": [
-            "Wind",
-            "Imaginary"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Fire": 0.2,
-            "Ice": 0.2,
-            "Elec": 0.2,
-            "Quantum": 0.2
-        },
-        "StatusRESBase": 0.1,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    300208901,
-                    300208902
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2022040.png",
-        "Figure": "MonsterFigure/Monster_2022040.png"
-    },
-    {
-        "_id": 3003010,
-        "Key": "Monster_W3_Dinosaur_00_Config",
-        "Name": {
-            "CH": "惊梦剧团的十七分熟",
-            "EN": "Dreamjolt Troupe's Beyond Overcooked"
-        },
-        "Desc": {
-            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是烹饪食物的料理机器，失控后仍在喷吐炙烤食材的烈焰，企图将食客一同烧成焦炭。",
-            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a culinary robot, it is still breathing fire for grilling ingredients after losing control, intending to burn the diners to crisps."
-        },
-        "Stats": {
-            "HP": 18.0,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 100.0,
-            "Stance": 16.0
-        },
-        "Weak": [
-            "Fire",
-            "Elec",
-            "Wind"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Ice": 0.2,
-            "Quantum": 0.2,
-            "Imaginary": 0.2
-        },
-        "StatusRESBase": 0.2,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    300301001,
-                    300301002,
-                    300301007,
-                    300301006,
-                    300301003,
-                    300301004,
-                    300301005
-                ]
-            }
-        ],
-        "Rank": "Elite",
-        "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3003010.png",
-        "Figure": "MonsterFigure/Monster_3003010.png",
-        "Status": [
-            230030104,
-            230030105
-        ],
-        "New": true
-    },
-    {
-        "_id": 3003011,
-        "Key": "Monster_W3_Dinosaur_00_Config_ActivityTelevision",
-        "Name": {
-            "CH": "惊梦剧团的十七分熟（投影）",
-            "EN": "Dreamjolt Troupe's Beyond Overcooked (Projection)"
-        },
-        "Desc": {
-            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是烹饪食物的料理机器，失控后仍在喷吐炙烤食材的烈焰，企图将食客一同烧成焦炭。",
-            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a culinary robot, it is still breathing fire for grilling ingredients after losing control, intending to burn the diners to crisps."
-        },
-        "Stats": {
-            "HP": 125.0,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 100.0,
-            "Stance": 24.0
-        },
-        "Weak": [
-            "Fire",
-            "Elec",
-            "Wind"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.2,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    300301101,
-                    300301102,
-                    300301107,
-                    300301106,
-                    300301103,
-                    300301104,
-                    300301105
-                ]
-            }
-        ],
-        "Rank": "Elite",
-        "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3003010.png",
-        "Figure": "MonsterFigure/Monster_3003010.png",
-        "Status": [
-            230030104,
-            230030105
-        ],
-        "New": true
-    },
-    {
-        "_id": 300301101,
-        "Key": "Monster_W3_Dinosaur_00_Config_ActivityTelevision",
-        "Name": {
-            "CH": "惊梦剧团的十七分熟（投影）",
-            "EN": "Dreamjolt Troupe's Beyond Overcooked (Projection)"
-        },
-        "Desc": {
-            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是烹饪食物的料理机器，失控后仍在喷吐炙烤食材的烈焰，企图将食客一同烧成焦炭。",
-            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a culinary robot, it is still breathing fire for grilling ingredients after losing control, intending to burn the diners to crisps."
-        },
-        "Stats": {
-            "HP": 7.5,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 100.0,
-            "Stance": 24.0
-        },
-        "Weak": [
-            "Fire",
-            "Elec",
-            "Wind"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.2,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    300301101,
-                    300301102,
-                    300301103,
-                    300301104,
-                    300301105,
-                    300301106,
-                    300301107
-                ]
-            }
-        ],
-        "Rank": "Elite",
-        "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3003010.png",
-        "Figure": "MonsterFigure/Monster_3003010.png",
-        "Status": [
-            230030104,
-            230030105
-        ]
-    },
-    {
-        "_id": 3003020,
-        "Key": "Monster_W2_Beast02_01_Config",
-        "Name": {
-            "CH": "惊梦剧团的甜猿泰山",
-            "EN": "Dreamjolt Troupe's Sweet Gorilla"
-        },
-        "Desc": {
-            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是「苏乐达」汽水的运输工，失控后仍在分享背负的美味，向路过的宾客抛掷它的礼物。",
-            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a transport robot of SoulGlad, it is still carrying the burden of the delicacy after losing control while launching its gift to guests passing by."
-        },
-        "Stats": {
-            "HP": 18.0,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 144.0,
-            "Stance": 10.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Imaginary"
-        ],
-        "RESBase": {
-            "Ice": 0.2,
-            "Elec": 0.2,
-            "Wind": 0.2,
-            "Quantum": 0.2
-        },
-        "StatusRESBase": 0.2,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    300302001,
-                    300302002,
-                    300302003,
-                    300302004
-                ]
-            }
-        ],
-        "Rank": "Elite",
-        "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3003020.png",
-        "Figure": "MonsterFigure/Monster_3003020.png",
-        "New": true
-    },
-    {
-        "_id": 300302001,
-        "Key": "Monster_W2_Beast02_01_Config",
-        "Name": {
-            "CH": "惊梦剧团的甜猿泰山",
-            "EN": "Dreamjolt Troupe's Sweet Gorilla"
-        },
-        "Desc": {
-            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是「苏乐达」汽水的运输工，失控后仍在分享背负的美味，向路过的宾客抛掷它的礼物。",
-            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a transport robot of SoulGlad, it is still carrying the burden of the delicacy after losing control while launching its gift to guests passing by."
-        },
-        "Stats": {
-            "HP": 18.0,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 144.0,
-            "Stance": 10.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Imaginary"
-        ],
-        "RESBase": {
-            "Ice": 0.2,
-            "Elec": 0.2,
-            "Wind": 0.2,
-            "Quantum": 0.2
-        },
-        "StatusRESBase": 0.2,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    300302001,
-                    300302002,
-                    300302003,
-                    300302004
-                ]
-            }
-        ],
-        "Rank": "Elite",
-        "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3003020.png",
-        "Figure": "MonsterFigure/Monster_3003020.png"
-    },
-    {
-        "_id": 3003021,
-        "Key": "Monster_W2_Beast02_01_Config_ActivityTelevision",
-        "Name": {
-            "CH": "惊梦剧团的甜猿泰山（投影）",
-            "EN": "Dreamjolt Troupe's Sweet Gorilla (Projection)"
-        },
-        "Desc": {
-            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是「苏乐达」汽水的运输工，失控后仍在分享背负的美味，向路过的宾客抛掷它的礼物。",
-            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a transport robot of SoulGlad, it is still carrying the burden of the delicacy after losing control while launching its gift to guests passing by."
-        },
-        "Stats": {
-            "HP": 150.0,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 100.0,
-            "Stance": 10.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Imaginary"
-        ],
-        "RESBase": {
-            "Ice": 0.2,
-            "Elec": 0.2,
-            "Wind": 0.2,
-            "Quantum": 0.2
-        },
-        "StatusRESBase": 0.2,
-        "DebuffRES": {
-            "CTRL": 1.0
-        },
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    300302101,
-                    300302102,
-                    300302104
-                ]
-            },
-            {
-                "Phase": 0,
-                "Skills": [
-                    300302103
-                ]
-            }
-        ],
-        "Rank": "Elite",
-        "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3003020.png",
-        "Figure": "MonsterFigure/Monster_3003020.png",
-        "New": true
-    },
-    {
-        "_id": 3011010,
-        "Key": "Monster_AML_Minion01_02_Config",
-        "Name": {
-            "CH": "忆域迷因「视线无处不在」",
-            "EN": "Memory Zone Meme \"Allseer\""
-        },
-        "Desc": {
-            "CH": "蕴含特定认知的实体，由忆域中的潜意识碎片堆积而成。<br>注目、回望、审视…在生命的生存行为和对自身生存的领悟中，「视」与「看」的记忆如影随形，最终成为生命本身。",
-            "EN": "An entity infused with a certain cognition, constructed from fragments of subconsciousness in the Memory Zone.<br>Observation, retrospection, inspection... In the pursuit of preservation and existential understanding of the self, the memories of \"seeing\" and \"looking\" go hand-in-hand, eventually becoming an integral part of life itself."
-        },
-        "Stats": {
-            "HP": 1.0,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 100.0,
-            "Stance": 1.0
-        },
-        "Weak": [
-            "Ice",
-            "Elec"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Fire": 0.2,
-            "Wind": 0.2,
-            "Quantum": 0.2,
-            "Imaginary": 0.2
-        },
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    301101001
-                ]
-            }
-        ],
-        "Rank": "Minion",
-        "Camp": 11,
-        "Icon": "MonsterIcon/Monster_3011010.png",
-        "Figure": "MonsterFigure/Monster_3011010.png",
-        "New": true
-    },
-    {
-        "_id": 3012020,
-        "Key": "Monster_W3_Clock_01_Config",
-        "Name": {
-            "CH": "忆域迷因「我心支离破碎」",
-            "EN": "Memory Zone Meme \"Heartbreaker\""
-        },
-        "Desc": {
-            "CH": "蕴含特定认知的实体，由忆域中的潜意识碎片堆积而成。<br>坚不可摧的障壁包裹起生命，阻拦异己。但在那坚硬的躯壳下，却是脆弱不堪的无名地带。",
-            "EN": "An entity that bears certain cognitions formed from an accruement of subconscious fragments in the Memory Zone.<br>Life is parceled in impenetrable barriers, obstructing the intrusion of the alien. But beneath that ironclad shell, there is a region both nameless and fragile."
-        },
-        "Stats": {
-            "HP": 1.4,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 100.0,
-            "Stance": 2.0
-        },
-        "Weak": [
-            "Fire",
-            "Ice",
-            "Elec"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Wind": 0.2,
-            "Quantum": 0.2,
-            "Imaginary": 0.2
-        },
-        "StatusRESBase": 0.1,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    301202001,
-                    301202002
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 11,
-        "Icon": "MonsterIcon/Monster_3012020.png",
-        "Figure": "MonsterFigure/Monster_3012020.png",
-        "Status": [
-            230120201
-        ],
-        "New": true
-    },
-    {
-        "_id": 301202001,
-        "Key": "Monster_W3_Clock_01_Config",
-        "Name": {
-            "CH": "忆域迷因「我心支离破碎」",
-            "EN": "Memory Zone Meme \"Heartbreaker\""
-        },
-        "Desc": {
-            "CH": "蕴含特定认知的实体，由忆域中的潜意识碎片堆积而成。<br>坚不可摧的障壁包裹起生命，阻拦异己。但在那坚硬的躯壳下，却是脆弱不堪的无名地带。",
-            "EN": "An entity that bears certain cognitions formed from an accruement of subconscious fragments in the Memory Zone.<br>Life is parceled in impenetrable barriers, obstructing the intrusion of the alien. But beneath that ironclad shell, there is a region both nameless and fragile."
-        },
-        "Stats": {
-            "HP": 1.1,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 100.0,
-            "Stance": 2.0
-        },
-        "Weak": [
-            "Fire",
-            "Ice",
-            "Elec"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Wind": 0.2,
-            "Quantum": 0.2,
-            "Imaginary": 0.2
-        },
-        "StatusRESBase": 0.1,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    301202001,
-                    301202002
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 11,
-        "Icon": "MonsterIcon/Monster_3012020.png",
-        "Figure": "MonsterFigure/Monster_3012020.png",
-        "Status": [
-            230120201
-        ]
-    },
-    {
-        "_id": 3012030,
-        "Key": "Monster_W3_DeathPart_00_Config",
-        "Name": {
-            "CH": "永眠墓碣",
-            "EN": "Sombrous Sepulcher"
-        },
-        "Desc": {
-            "CH": "破碎的生命聚作终焉的符号，彼岸的灵魂仍在凝望此岸，眼中倒映忘却与离别的碑文。<br>无辜的灵魂在永眠墓碣中沉睡，消灭永眠墓碣可以唤醒他们。",
-            "EN": "Shattered existences serve as symbols of ultimate closure. Across the ethereal expanse, spirits cast their gaze upon the mortal realm, their eyes reflecting the etchings of oblivion and separation.<br>Innocent souls slumber within the Sombrous Sepulcher. Defeat the Tomb to awaken them."
-        },
-        "Stats": {
-            "HP": 2.0,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 200.0,
-            "Stance": 3.0
-        },
-        "Weak": [
-            "Fire",
-            "Wind",
-            "Imaginary"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Ice": 0.2,
-            "Elec": 0.2,
-            "Quantum": 0.2
-        },
-        "StatusRESBase": 0.1,
-        "DebuffRES": {
-            "Frozen": 1.0,
-            "Entangle": 1.0
-        },
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    301203001,
-                    301203003
-                ]
-            },
-            {
-                "Phase": 0,
-                "Skills": [
-                    301203002
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3012030.png",
-        "Figure": "MonsterFigure/Monster_3012030.png",
-        "New": true,
-        "Csxylic": "SCNonCategorized/3012030"
-    },
-    {
-        "_id": 3012031,
-        "Key": "Monster_W3_DeathPart_00_Config_Main2",
-        "Name": {
-            "CH": "永眠墓碣",
-            "EN": "Sombrous Sepulcher"
-        },
-        "Desc": {
-            "CH": "破碎的生命聚作终焉的符号，彼岸的灵魂仍在凝望此岸，眼中倒映忘却与离别的碑文。<br>无辜的灵魂在永眠墓碣中沉睡，消灭永眠墓碣可以唤醒他们。",
-            "EN": "Shattered existences serve as symbols of ultimate closure. Across the ethereal expanse, spirits cast their gaze upon the mortal realm, their eyes reflecting the etchings of oblivion and separation.<br>Innocent souls slumber within the Sombrous Sepulcher. Defeat the Tomb to awaken them."
-        },
-        "Stats": {
-            "HP": 2.0,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 200.0,
-            "Stance": 3.0
-        },
-        "Weak": [
-            "Fire",
-            "Wind",
-            "Imaginary"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Ice": 0.2,
-            "Elec": 0.2,
-            "Quantum": 0.2
-        },
-        "StatusRESBase": 0.1,
-        "DebuffRES": {
-            "Frozen": 1.0,
-            "Entangle": 1.0
-        },
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    301203101,
-                    301203103
-                ]
-            },
-            {
-                "Phase": 0,
-                "Skills": [
-                    301203102
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3012030.png",
-        "Figure": "MonsterFigure/Monster_3012030.png",
-        "New": true
-    },
-    {
-        "_id": 3014020,
-        "Key": "Monster_W3_Death_00_Config",
-        "Name": {
-            "CH": "忆域迷因「何物朝向死亡」",
-            "EN": "Memory Zone Meme \"Something Unto Death\""
-        },
-        "Desc": {
-            "CH": "蕴含特定认知的实体，由忆域中的潜意识碎片堆积而成。<br>神秘危险的忆域迷因，被视作梦中不应存在的「死亡」。它的邪影游荡于十二时分，所及之处必有不测之祸，以利刃散布噩耗，以死荫笼罩美梦。",
-            "EN": "Entity imbued with specific cognition, accumulated from fragments of the subconscious in the Memory Zone.<br>A mysterious and dangerous Memory Zone Meme, seen as the \"death\" that shouldn't exist in dreams. Its sinister shadow wanders within the Twelve Hours, bringing unforeseen calamity wherever it goes. It spreads misfortune like a sharp blade, casting a shadow of death over beautiful dreams."
-        },
-        "Stats": {
-            "HP": 22.0,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 144.0,
-            "Stance": 24.0
-        },
-        "Weak": [
-            "Fire",
-            "Wind",
-            "Imaginary"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Ice": 0.2,
-            "Elec": 0.2,
-            "Quantum": 0.2
-        },
-        "StatusRESBase": 0.3,
-        "DebuffRES": {
-            "Frozen": 0.5,
-            "Entangle": 0.5
-        },
-        "HPCount": 2,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    301402001,
-                    301402002,
-                    301402003,
-                    301402004,
-                    301402005,
-                    301402009
-                ]
-            },
-            {
-                "Phase": 2,
-                "Skills": [
-                    301402001,
-                    301402002,
-                    301402003,
-                    301402006,
-                    301402007,
-                    301402009
-                ]
-            },
-            {
-                "Phase": 0,
-                "Skills": [
-                    301402008
-                ]
-            }
-        ],
-        "Rank": "LittleBoss",
-        "Camp": 11,
-        "Icon": "MonsterIcon/Monster_3014020.png",
-        "Figure": "MonsterFigure/Monster_3014020.png",
-        "Status": [
-            230140201,
-            230140202,
-            230140204,
-            230140207
-        ],
-        "New": true
-    },
-    {
-        "_id": 301402001,
-        "Key": "Monster_W3_Death_00_Config",
-        "Name": {
-            "CH": "忆域迷因「何物朝向死亡」",
-            "EN": "Memory Zone Meme \"Something Unto Death\""
-        },
-        "Desc": {
-            "CH": "蕴含特定认知的实体，由忆域中的潜意识碎片堆积而成。<br>神秘危险的忆域迷因，被视作梦中不应存在的「死亡」。它的邪影游荡于十二时分，所及之处必有不测之祸，以利刃散布噩耗，以死荫笼罩美梦。",
-            "EN": "Entity imbued with specific cognition, accumulated from fragments of the subconscious in the Memory Zone.<br>A mysterious and dangerous Memory Zone Meme, seen as the \"death\" that shouldn't exist in dreams. Its sinister shadow wanders within the Twelve Hours, bringing unforeseen calamity wherever it goes. It spreads misfortune like a sharp blade, casting a shadow of death over beautiful dreams."
-        },
-        "Stats": {
-            "HP": 20.0,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 144.0,
-            "Stance": 24.0
-        },
-        "Weak": [
-            "Fire",
-            "Wind",
-            "Imaginary"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Ice": 0.2,
-            "Elec": 0.2,
-            "Quantum": 0.2
-        },
-        "StatusRESBase": 0.3,
-        "DebuffRES": {
-            "Frozen": 0.5,
-            "Entangle": 0.5
-        },
-        "HPCount": 2,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    301402001,
-                    301402002,
-                    301402003,
-                    301402004,
-                    301402005,
-                    301402009
-                ]
-            },
-            {
-                "Phase": 2,
-                "Skills": [
-                    301402001,
-                    301402002,
-                    301402003,
-                    301402006,
-                    301402007,
-                    301402009
-                ]
-            },
-            {
-                "Phase": 0,
-                "Skills": [
-                    301402008
-                ]
-            }
-        ],
-        "Rank": "LittleBoss",
-        "Camp": 11,
-        "Icon": "MonsterIcon/Monster_3014020.png",
-        "Figure": "MonsterFigure/Monster_3014020.png",
-        "Status": [
-            230140201,
-            230140202,
-            230140204,
-            230140207
-        ]
-    },
-    {
-        "_id": 301402002,
-        "Key": "Monster_W3_Death_00_Config",
-        "Name": {
-            "CH": "忆域迷因「何物朝向死亡」",
-            "EN": "Memory Zone Meme \"Something Unto Death\""
-        },
-        "Desc": {
-            "CH": "蕴含特定认知的实体，由忆域中的潜意识碎片堆积而成。<br>神秘危险的忆域迷因，被视作梦中不应存在的「死亡」。它的邪影游荡于十二时分，所及之处必有不测之祸，以利刃散布噩耗，以死荫笼罩美梦。",
-            "EN": "Entity imbued with specific cognition, accumulated from fragments of the subconscious in the Memory Zone.<br>A mysterious and dangerous Memory Zone Meme, seen as the \"death\" that shouldn't exist in dreams. Its sinister shadow wanders within the Twelve Hours, bringing unforeseen calamity wherever it goes. It spreads misfortune like a sharp blade, casting a shadow of death over beautiful dreams."
-        },
-        "Stats": {
-            "HP": 25.0,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 144.0,
-            "Stance": 24.0
-        },
-        "Weak": [
-            "Fire",
-            "Wind",
-            "Imaginary"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Ice": 0.2,
-            "Elec": 0.2,
-            "Quantum": 0.2
-        },
-        "StatusRESBase": 0.3,
-        "DebuffRES": {
-            "Frozen": 0.5,
-            "Entangle": 0.5
-        },
-        "HPCount": 2,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    301402001,
-                    301402002,
-                    301402003,
-                    301402004,
-                    301402005,
-                    301402009
-                ]
-            },
-            {
-                "Phase": 2,
-                "Skills": [
-                    301402001,
-                    301402002,
-                    301402003,
-                    301402006,
-                    301402007,
-                    301402009
-                ]
-            },
-            {
-                "Phase": 0,
-                "Skills": [
-                    301402008
-                ]
-            }
-        ],
-        "Rank": "LittleBoss",
-        "Camp": 11,
-        "Icon": "MonsterIcon/Monster_3014020.png",
-        "Figure": "MonsterFigure/Monster_3014020.png",
-        "Status": [
-            230140201,
-            230140202,
-            230140204,
-            230140207
-        ]
-    },
-    {
-        "_id": 301402003,
-        "Key": "Monster_W3_Death_00_Config",
-        "Name": {
-            "CH": "忆域迷因「何物朝向死亡」",
-            "EN": "Memory Zone Meme \"Something Unto Death\""
-        },
-        "Desc": {
-            "CH": "蕴含特定认知的实体，由忆域中的潜意识碎片堆积而成。<br>神秘危险的忆域迷因，被视作梦中不应存在的「死亡」。它的邪影游荡于十二时分，所及之处必有不测之祸，以利刃散布噩耗，以死荫笼罩美梦。",
-            "EN": "Entity imbued with specific cognition, accumulated from fragments of the subconscious in the Memory Zone.<br>A mysterious and dangerous Memory Zone Meme, seen as the \"death\" that shouldn't exist in dreams. Its sinister shadow wanders within the Twelve Hours, bringing unforeseen calamity wherever it goes. It spreads misfortune like a sharp blade, casting a shadow of death over beautiful dreams."
-        },
-        "Stats": {
-            "HP": 22.0,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 144.0,
-            "Stance": 24.0
-        },
-        "Weak": [
-            "Fire",
-            "Wind",
-            "Imaginary"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Ice": 0.2,
-            "Elec": 0.2,
-            "Quantum": 0.2
-        },
-        "StatusRESBase": 0.3,
-        "DebuffRES": {
-            "Frozen": 0.5,
-            "Entangle": 0.5
-        },
-        "HPCount": 2,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    301402001,
-                    301402002,
-                    301402003,
-                    301402004,
-                    301402005,
-                    301402009
-                ]
-            },
-            {
-                "Phase": 2,
-                "Skills": [
-                    301402001,
-                    301402002,
-                    301402003,
-                    301402006,
-                    301402007,
-                    301402009
-                ]
-            },
-            {
-                "Phase": 0,
-                "Skills": [
-                    301402008
-                ]
-            }
-        ],
-        "Rank": "LittleBoss",
-        "Camp": 11,
-        "Icon": "MonsterIcon/Monster_3014020.png",
-        "Figure": "MonsterFigure/Monster_3014020.png",
-        "Status": [
-            230140201,
-            230140202,
-            230140204,
-            230140207
-        ]
-    },
-    {
-        "_id": 3014021,
-        "Key": "Monster_W3_Death_00_Config",
-        "Name": {
-            "CH": "忆域迷因「何物朝向死亡」（投影）",
-            "EN": "Memory Zone Meme \"Something Unto Death\" (Projection)"
-        },
-        "Desc": {
-            "CH": "蕴含特定认知的实体，由忆域中的潜意识碎片堆积而成。<br>神秘危险的忆域迷因，被视作梦中不应存在的「死亡」。它的邪影游荡于十二时分，所及之处必有不测之祸，以利刃散布噩耗，以死荫笼罩美梦。",
-            "EN": "An entity that bears certain cognitions formed from an accruement of subconscious fragments in the Memory Zone.<br>A mysterious and dangerous Memory Zone Meme, seen as the \"death\" that shouldn't exist in dreams. Its sinister shadow wanders within the Twelve Hours, bringing unforeseen calamity wherever it goes. It spreads misfortune like a sharp blade, casting a shadow of death over beautiful dreams."
-        },
-        "Stats": {
-            "HP": 22.0,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 144.0,
-            "Stance": 24.0
-        },
-        "Weak": [
-            "Fire",
-            "Wind",
-            "Imaginary"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Ice": 0.2,
-            "Elec": 0.2,
-            "Quantum": 0.2
-        },
-        "StatusRESBase": 0.3,
-        "DebuffRES": {
-            "Frozen": 0.5,
-            "Entangle": 0.5
-        },
-        "HPCount": 2,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    301402101,
-                    301402102,
-                    301402103,
-                    301402104,
-                    301402105,
-                    301402109
-                ]
-            },
-            {
-                "Phase": 2,
-                "Skills": [
-                    301402101,
-                    301402102,
-                    301402103,
-                    301402106,
-                    301402107,
-                    301402109
-                ]
-            },
-            {
-                "Phase": 0,
-                "Skills": [
-                    301402108
-                ]
-            }
-        ],
-        "Rank": "LittleBoss",
-        "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3014020.png",
-        "Figure": "MonsterFigure/Monster_3014020.png",
-        "Status": [
-            230140201,
-            230140202,
-            230140204,
-            230140207
-        ],
-        "New": true
     },
     {
         "_id": 3021020,
@@ -28294,175 +26107,6 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_3024010.png"
     },
     {
-        "_id": 3024020,
-        "Key": "Monster_W3_Sam_00_Config",
-        "Name": {
-            "CH": "「星核猎手」萨姆",
-            "EN": "Stellaron Hunter: Sam"
-        },
-        "Desc": {
-            "CH": "星核猎手的一员，身着沉重装甲的神秘战士。他的铁甲能够释放炽焰，点燃战场，发动烈火般的攻势。",
-            "EN": "One of the Stellaron Hunters, a mysterious warrior donning formidable armor.<br>The mecha suit possesses the power to unleash fiery attacks, engulfing the battlefield in flames."
-        },
-        "Stats": {
-            "HP": 50.0,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 120.0,
-            "Stance": 20.0
-        },
-        "Weak": [
-            "Elec",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Fire": 0.2,
-            "Ice": 0.2,
-            "Wind": 0.2
-        },
-        "StatusRESBase": 0.3,
-        "DebuffRES": {
-            "CTRL": 0.5
-        },
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    302402001,
-                    302402002,
-                    302402003,
-                    302402004,
-                    302402005,
-                    302402006,
-                    302402007
-                ]
-            }
-        ],
-        "Rank": "LittleBoss",
-        "Camp": 5,
-        "Icon": "MonsterIcon/Monster_3024020.png",
-        "Figure": "MonsterFigure/Monster_3024020.png",
-        "Status": [
-            230240201,
-            230240202,
-            230240203,
-            230240204
-        ],
-        "New": true
-    },
-    {
-        "_id": 302402001,
-        "Key": "Monster_W3_Sam_00_Config",
-        "Name": {
-            "CH": "「星核猎手」萨姆",
-            "EN": "Stellaron Hunter: Sam"
-        },
-        "Desc": {
-            "CH": "星核猎手的一员，身着沉重装甲的神秘战士。他的铁甲能够释放炽焰，点燃战场，发动烈火般的攻势。",
-            "EN": "One of the Stellaron Hunters, a mysterious warrior donning formidable armor.<br>The mecha suit possesses the power to unleash fiery attacks, engulfing the battlefield in flames."
-        },
-        "Stats": {
-            "HP": 53.7035,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 120.0,
-            "Stance": 20.0
-        },
-        "Weak": [
-            "Ice",
-            "Elec",
-            "Quantum"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Fire": 0.2,
-            "Wind": 0.2,
-            "Imaginary": 0.2
-        },
-        "StatusRESBase": 0.3,
-        "DebuffRES": {
-            "CTRL": 0.5
-        },
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    302402001,
-                    302402002,
-                    302402003,
-                    302402004,
-                    302402005,
-                    302402006
-                ]
-            }
-        ],
-        "Rank": "LittleBoss",
-        "Camp": 5,
-        "Icon": "MonsterIcon/Monster_3024020.png",
-        "Figure": "MonsterFigure/Monster_3024020.png"
-    },
-    {
-        "_id": 3024021,
-        "Key": "Monster_W3_Sam_00_Config_Main",
-        "Name": {
-            "CH": "「星核猎手」萨姆",
-            "EN": "Stellaron Hunter: Sam"
-        },
-        "Desc": {
-            "CH": "星核猎手的一员，身着沉重装甲的神秘战士。他的铁甲能够释放炽焰，点燃战场，发动烈火般的攻势。",
-            "EN": "One of the Stellaron Hunters, a mysterious warrior donning formidable armor.<br>The mecha suit possesses the power to unleash fiery attacks, engulfing the battlefield in flames."
-        },
-        "Stats": {
-            "HP": 77.5,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 120.0,
-            "Stance": 18.0
-        },
-        "Weak": [
-            "Elec",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Fire": 0.2,
-            "Ice": 0.2,
-            "Wind": 0.2
-        },
-        "StatusRESBase": 0.3,
-        "DebuffRES": {
-            "CTRL": 0.5
-        },
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    302402101,
-                    302402102,
-                    302402103,
-                    302402104,
-                    302402105,
-                    302402106,
-                    302402107
-                ]
-            }
-        ],
-        "Rank": "LittleBoss",
-        "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3024020.png",
-        "Figure": "MonsterFigure/Monster_3024020.png",
-        "Status": [
-            230240201,
-            230240202,
-            230240203,
-            230240204
-        ],
-        "New": true
-    },
-    {
         "_id": 7001010,
         "Key": "Monster_AetherDivide_W2_Mecha01_00_Config",
         "Name": {
@@ -28898,53 +26542,6 @@ var _monster = [
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_9002410.png",
         "Figure": "MonsterFigure/Monster_1022020.png"
-    },
-    {
-        "_id": 7002040,
-        "Key": "Monster_AetherDivide_W1_Mecha02_00_Config",
-        "Name": {
-            "CH": "",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "Stats": {
-            "HP": 15.0,
-            "ATK": 18.0,
-            "DEF": 0.0,
-            "SPD": 90.0,
-            "Stance": 2.0
-        },
-        "StatsExtra": {
-            "Stance": 0.03333
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700204001,
-                    700204002,
-                    700204003
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png"
     },
     {
         "_id": 7002050,
@@ -29761,52 +27358,6 @@ var _monster = [
         "Camp": 0,
         "Icon": "MonsterIcon/Monster_8013010.png",
         "Figure": "MonsterFigure/Monster_8013010.png"
-    },
-    {
-        "_id": 7003050,
-        "Key": "Monster_AetherDivide_XP_Elite02_01_Config",
-        "Name": {
-            "CH": "",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "Stats": {
-            "HP": 25.0,
-            "ATK": 18.0,
-            "DEF": 0.0,
-            "SPD": 120.0,
-            "Stance": 10.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700305001,
-                    700305002,
-                    700305003,
-                    700305004,
-                    700305005
-                ]
-            }
-        ],
-        "Rank": "Elite",
-        "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8003040.png",
-        "Figure": "MonsterFigure/Monster_8003040.png"
     },
     {
         "_id": 7003060,
@@ -32953,64 +30504,6 @@ var _monster = [
         "Csxylic": "SCFragmentumMonsters/8002010"
     },
     {
-        "_id": 800201012,
-        "Key": "Monster_XP_Minion02_00_Config",
-        "Name": {
-            "CH": "虚数织叶者",
-            "EN": "Imaginary Weaver"
-        },
-        "Desc": {
-            "CH": "不属此世的怪异生命，自深黯星空的彼端，透过重重帷幕而来。其身躯犹如病态的枝叶探入现实中，使用虚数的力量肆意改造现实。",
-            "EN": "Strange beings that do not belong to this world. Passing through countless barriers, they arrive from the other side of the vast, dark, starry sky. Their bodies are like diseased branches breaching into reality, using Imaginary power to twist reality at will."
-        },
-        "Stats": {
-            "HP": 1.9,
-            "ATK": 10.00008,
-            "DEF": 1.0,
-            "SPD": 120.0,
-            "Stance": 2.0
-        },
-        "StatsExtra": {
-            "SPD": -20.0
-        },
-        "Weak": [
-            "Phys",
-            "Elec",
-            "Quantum"
-        ],
-        "RESBase": {
-            "Fire": 0.2,
-            "Ice": 0.2,
-            "Wind": 0.2,
-            "Imaginary": 0.2
-        },
-        "StatusRESBase": 0.1,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    800201001,
-                    800201002,
-                    800201003
-                ]
-            },
-            {
-                "Phase": 0,
-                "Skills": [
-                    800201004
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8002010.png",
-        "Figure": "MonsterFigure/Monster_8002010.png",
-        "Status": [
-            280020102
-        ],
-        "Csxylic": "SCFragmentumMonsters/8002010"
-    },
-    {
         "_id": 8002040,
         "Key": "Monster_XP_Minion04_00_Config",
         "Name": {
@@ -34252,398 +31745,6 @@ var _monster = [
             "Wind": 0.2,
             "Quantum": 0.2,
             "Imaginary": 0.2
-        },
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    800205001,
-                    800205002,
-                    800205003
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
-        "Csxylic": "SCCosmos/8002050"
-    },
-    {
-        "_id": 800205020,
-        "Key": "Monster_XP_Minion04_01_Config",
-        "Name": {
-            "CH": "序列扑满",
-            "EN": "Sequence Trotter"
-        },
-        "Desc": {
-            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
-            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
-        },
-        "Stats": {
-            "HP": 4.4,
-            "ATK": 18.0,
-            "DEF": 1.5,
-            "SPD": 83.0,
-            "Stance": 3.0
-        },
-        "StatsExtra": {
-            "SPD": 37.0
-        },
-        "Weak": [
-            "Fire",
-            "Wind"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Ice": 0.2,
-            "Elec": 0.2,
-            "Quantum": 0.2,
-            "Imaginary": 0.2
-        },
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    800205001,
-                    800205002,
-                    800205003
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
-        "Csxylic": "SCCosmos/8002050"
-    },
-    {
-        "_id": 800205021,
-        "Key": "Monster_XP_Minion04_01_Config",
-        "Name": {
-            "CH": "序列扑满",
-            "EN": "Sequence Trotter"
-        },
-        "Desc": {
-            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
-            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
-        },
-        "Stats": {
-            "HP": 4.4,
-            "ATK": 18.0,
-            "DEF": 1.5,
-            "SPD": 83.0,
-            "Stance": 3.0
-        },
-        "StatsExtra": {
-            "SPD": 37.0
-        },
-        "Weak": [
-            "Phys",
-            "Elec"
-        ],
-        "RESBase": {
-            "Fire": 0.2,
-            "Ice": 0.2,
-            "Wind": 0.2,
-            "Quantum": 0.2,
-            "Imaginary": 0.2
-        },
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    800205001,
-                    800205002,
-                    800205003
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
-        "Csxylic": "SCCosmos/8002050"
-    },
-    {
-        "_id": 800205022,
-        "Key": "Monster_XP_Minion04_01_Config",
-        "Name": {
-            "CH": "序列扑满",
-            "EN": "Sequence Trotter"
-        },
-        "Desc": {
-            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
-            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
-        },
-        "Stats": {
-            "HP": 4.4,
-            "ATK": 18.0,
-            "DEF": 1.5,
-            "SPD": 83.0,
-            "Stance": 3.0
-        },
-        "StatsExtra": {
-            "SPD": 37.0
-        },
-        "Weak": [
-            "Elec",
-            "Wind"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Fire": 0.2,
-            "Ice": 0.2,
-            "Quantum": 0.2,
-            "Imaginary": 0.2
-        },
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    800205001,
-                    800205002,
-                    800205003
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
-        "Csxylic": "SCCosmos/8002050"
-    },
-    {
-        "_id": 800205023,
-        "Key": "Monster_XP_Minion04_01_Config",
-        "Name": {
-            "CH": "序列扑满",
-            "EN": "Sequence Trotter"
-        },
-        "Desc": {
-            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
-            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
-        },
-        "Stats": {
-            "HP": 4.4,
-            "ATK": 18.0,
-            "DEF": 1.5,
-            "SPD": 83.0,
-            "Stance": 3.0
-        },
-        "StatsExtra": {
-            "SPD": 37.0
-        },
-        "Weak": [
-            "Phys",
-            "Wind"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Ice": 0.2,
-            "Elec": 0.2,
-            "Wind": 0.2,
-            "Imaginary": 0.2
-        },
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    800205001,
-                    800205002,
-                    800205003
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
-        "Csxylic": "SCCosmos/8002050"
-    },
-    {
-        "_id": 800205024,
-        "Key": "Monster_XP_Minion04_01_Config",
-        "Name": {
-            "CH": "序列扑满",
-            "EN": "Sequence Trotter"
-        },
-        "Desc": {
-            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
-            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
-        },
-        "Stats": {
-            "HP": 4.4,
-            "ATK": 18.0,
-            "DEF": 1.5,
-            "SPD": 83.0,
-            "Stance": 3.0
-        },
-        "StatsExtra": {
-            "SPD": 37.0
-        },
-        "Weak": [
-            "Phys",
-            "Elec"
-        ],
-        "RESBase": {
-            "Fire": 0.2,
-            "Ice": 0.2,
-            "Elec": 0.2,
-            "Quantum": 0.2,
-            "Imaginary": 0.2
-        },
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    800205001,
-                    800205002,
-                    800205003
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
-        "Csxylic": "SCCosmos/8002050"
-    },
-    {
-        "_id": 800205025,
-        "Key": "Monster_XP_Minion04_01_Config",
-        "Name": {
-            "CH": "序列扑满",
-            "EN": "Sequence Trotter"
-        },
-        "Desc": {
-            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
-            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
-        },
-        "Stats": {
-            "HP": 4.4,
-            "ATK": 18.0,
-            "DEF": 1.5,
-            "SPD": 83.0,
-            "Stance": 3.0
-        },
-        "StatsExtra": {
-            "SPD": 37.0
-        },
-        "Weak": [
-            "Elec",
-            "Imaginary"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Fire": 0.2,
-            "Ice": 0.2,
-            "Wind": 0.2,
-            "Quantum": 0.2
-        },
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    800205001,
-                    800205002,
-                    800205003
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
-        "Csxylic": "SCCosmos/8002050"
-    },
-    {
-        "_id": 800205026,
-        "Key": "Monster_XP_Minion04_01_Config",
-        "Name": {
-            "CH": "序列扑满",
-            "EN": "Sequence Trotter"
-        },
-        "Desc": {
-            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
-            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
-        },
-        "Stats": {
-            "HP": 4.4,
-            "ATK": 18.0,
-            "DEF": 1.5,
-            "SPD": 83.0,
-            "Stance": 3.0
-        },
-        "StatsExtra": {
-            "SPD": 37.0
-        },
-        "Weak": [
-            "Fire",
-            "Ice"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Elec": 0.2,
-            "Wind": 0.2,
-            "Quantum": 0.2,
-            "Imaginary": 0.2
-        },
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    800205001,
-                    800205002,
-                    800205003
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
-        "Csxylic": "SCCosmos/8002050"
-    },
-    {
-        "_id": 800205027,
-        "Key": "Monster_XP_Minion04_01_Config",
-        "Name": {
-            "CH": "序列扑满",
-            "EN": "Sequence Trotter"
-        },
-        "Desc": {
-            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
-            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
-        },
-        "Stats": {
-            "HP": 4.4,
-            "ATK": 18.0,
-            "DEF": 1.5,
-            "SPD": 83.0,
-            "Stance": 3.0
-        },
-        "StatsExtra": {
-            "SPD": 37.0
-        },
-        "Weak": [
-            "Elec",
-            "Imaginary"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Fire": 0.2,
-            "Ice": 0.2,
-            "Wind": 0.2,
-            "Quantum": 0.2
         },
         "StatusRESBase": 0.0,
         "Skills": [
@@ -36484,68 +33585,6 @@ var _monster = [
         "Csxylic": "SCFragmentumMonsters/8003010"
     },
     {
-        "_id": 800301013,
-        "Key": "Monster_XP_Elite01_01_Config",
-        "Name": {
-            "CH": "外宇宙之冰",
-            "EN": "Ice Out of Space"
-        },
-        "Desc": {
-            "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上倒映着幽深黯淡的星空。<br>战斗中，外宇宙之冰能轻易将敌人冻结凝固。",
-            "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches."
-        },
-        "Stats": {
-            "HP": 16.0,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 100.0,
-            "Stance": 10.0
-        },
-        "StatsExtra": {
-            "Stance": 2.0
-        },
-        "Weak": [
-            "Fire",
-            "Wind",
-            "Quantum"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Ice": 0.4,
-            "Elec": 0.2,
-            "Imaginary": 0.2
-        },
-        "StatusRESBase": 0.2,
-        "DebuffRES": {
-            "Frozen": 1.0
-        },
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    800301001,
-                    800301002,
-                    800301003
-                ]
-            },
-            {
-                "Phase": 0,
-                "Skills": [
-                    800301004
-                ]
-            }
-        ],
-        "Rank": "Elite",
-        "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003010.png",
-        "Figure": "MonsterFigure/Monster_8003010.png",
-        "Status": [
-            30020012,
-            280030101
-        ],
-        "Csxylic": "SCFragmentumMonsters/8003010"
-    },
-    {
         "_id": 8003011,
         "Key": "Monster_XP_Elite01_01_Config_A",
         "Name": {
@@ -37571,63 +34610,6 @@ var _monster = [
             "DEF": 1.0,
             "SPD": 120.0,
             "Stance": 10.0
-        },
-        "Weak": [
-            "Phys",
-            "Ice",
-            "Quantum"
-        ],
-        "RESBase": {
-            "Fire": 0.4,
-            "Elec": 0.2,
-            "Wind": 0.2,
-            "Imaginary": 0.2
-        },
-        "StatusRESBase": 0.2,
-        "DebuffRES": {
-            "Burn": 1.0
-        },
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    800302001,
-                    800302002,
-                    800302003,
-                    800302004
-                ]
-            }
-        ],
-        "Rank": "Elite",
-        "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png",
-        "Figure": "MonsterFigure/Monster_8003020.png",
-        "Status": [
-            280030202,
-            280030203
-        ],
-        "Csxylic": "SCFragmentumMonsters/8003020"
-    },
-    {
-        "_id": 800302019,
-        "Key": "Monster_XP_Elite01_00_Config",
-        "Name": {
-            "CH": "外宇宙之炎",
-            "EN": "Blaze Out of Space"
-        },
-        "Desc": {
-            "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上燃烧着星辰内核的烈焰。<br>在战斗中，外宇宙之炎能轻易将敌人焚作灰烬。",
-            "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum created by the Stellaron, it parasitize upon this world's root structures to obtain energy. Its armor burns with the blazing flames in the core of stars.<br>In combat, the Blaze Out of Space will incinerate anything it touches."
-        },
-        "Stats": {
-            "HP": 13.0,
-            "ATK": 14.99994,
-            "DEF": 1.0,
-            "SPD": 120.0,
-            "Stance": 10.0
-        },
-        "StatsExtra": {
-            "SPD": 10.0
         },
         "Weak": [
             "Phys",
@@ -39350,7 +36332,7 @@ var _monster = [
             }
         ],
         "Rank": "Elite",
-        "Camp": 0,
+        "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003040.png",
         "Figure": "MonsterFigure/Monster_8003040.png",
         "Status": [
@@ -40085,7 +37067,7 @@ var _monster = [
             }
         ],
         "Rank": "Elite",
-        "Camp": 0,
+        "Camp": 3,
         "Icon": "MonsterIcon/Monster_8003050.png",
         "Figure": "MonsterFigure/Monster_8003050.png"
     },
@@ -45153,7 +42135,7 @@ var _monster = [
             }
         ],
         "Rank": "Elite",
-        "Camp": 0,
+        "Camp": 6,
         "Icon": "MonsterIcon/Monster_8013010.png",
         "Figure": "MonsterFigure/Monster_8013010.png"
     },
@@ -45400,8 +42382,8 @@ var _monster = [
             "EN": "Phantylia the Undying"
         },
         "Desc": {
-            "CH": "…",
-            "EN": "..."
+            "CH": "反物质军团的绝灭大君「幻胧」自建木中生成的躯壳。<br>兼具「毁灭」与「丰饶」之力，生灭循环的肉体。也是建木复生后结出的第一颗「果实」。",
+            "EN": "The body born out of the Ambrosial Arbor by Phantylia, Lord Ravager of the Antimatter Legion.<br>This flesh possesses the powers of both Destruction and Abundance, a form that embodies the cycle of death and rebirth. It is also the first \"fruit\" borne from the rejuvenated Ambrosial Arbor."
         },
         "Stats": {
             "HP": 13.0,
@@ -45482,8 +42464,8 @@ var _monster = [
             "EN": "Phantylia the Undying"
         },
         "Desc": {
-            "CH": "…",
-            "EN": "..."
+            "CH": "反物质军团的绝灭大君「幻胧」自建木中生成的躯壳。<br>兼具「毁灭」与「丰饶」之力，生灭循环的肉体。也是建木复生后结出的第一颗「果实」。",
+            "EN": "The body born out of the Ambrosial Arbor by Phantylia, Lord Ravager of the Antimatter Legion.<br>This flesh possesses the powers of both Destruction and Abundance, a form that embodies the cycle of death and rebirth. It is also the first \"fruit\" borne from the rejuvenated Ambrosial Arbor."
         },
         "Stats": {
             "HP": 13.0,
@@ -47120,772 +44102,715 @@ var _monsterindex = {
     "100401001": 112,
     "100401002": 113,
     "100401003": 114,
-    "100401004": 115,
-    "1004011": 116,
-    "1004012": 117,
-    "1004013": 118,
-    "1004020": 119,
-    "100402001": 120,
-    "100402002": 121,
-    "100402003": 122,
-    "100402004": 123,
-    "100402005": 124,
-    "1004021": 125,
-    "1004022": 126,
-    "1004023": 127,
-    "1004024": 128,
-    "1004025": 129,
-    "1004030": 130,
-    "100403001": 131,
-    "100403002": 132,
-    "1004031": 133,
-    "100403101": 134,
-    "1004032": 135,
-    "1005010": 136,
-    "1005011": 137,
-    "1005012": 138,
-    "1005013": 139,
-    "1012010": 140,
-    "101201001": 141,
-    "101201002": 142,
-    "101201003": 143,
-    "101201004": 144,
-    "101201005": 145,
-    "101201006": 146,
-    "101201007": 147,
-    "101201008": 148,
-    "101201009": 149,
-    "101201010": 150,
-    "101201011": 151,
-    "101201012": 152,
-    "101201013": 153,
-    "101201014": 154,
-    "101201015": 155,
-    "101201016": 156,
-    "1012011": 157,
-    "1012020": 158,
-    "101202001": 159,
-    "101202002": 160,
-    "101202003": 161,
-    "1012021": 162,
-    "101202101": 163,
-    "101202102": 164,
-    "101202103": 165,
-    "101202104": 166,
-    "101202105": 167,
-    "101202106": 168,
-    "101202107": 169,
-    "101202108": 170,
-    "101202109": 171,
-    "101202110": 172,
-    "101202111": 173,
-    "1012030": 174,
-    "101203001": 175,
-    "101203002": 176,
-    "101203003": 177,
-    "101203004": 178,
-    "101203005": 179,
-    "101203006": 180,
-    "101203007": 181,
-    "101203008": 182,
-    "101203009": 183,
-    "101203010": 184,
-    "101203011": 185,
-    "101203012": 186,
-    "101203013": 187,
-    "101203014": 188,
-    "101203015": 189,
-    "1012040": 190,
-    "1012041": 191,
-    "1012042": 192,
-    "1013010": 193,
-    "101301001": 194,
-    "101301002": 195,
-    "101301003": 196,
-    "101301004": 197,
-    "101301005": 198,
-    "101301006": 199,
-    "101301007": 200,
-    "101301008": 201,
-    "101301009": 202,
-    "101301010": 203,
-    "101301011": 204,
-    "101301012": 205,
-    "101301013": 206,
-    "101301014": 207,
-    "101301015": 208,
-    "101301016": 209,
-    "101301017": 210,
-    "101301018": 211,
-    "101301019": 212,
-    "1013011": 213,
-    "1013012": 214,
-    "1013013": 215,
-    "1013014": 216,
-    "1013020": 217,
-    "101302001": 218,
-    "101302002": 219,
-    "101302003": 220,
-    "101302004": 221,
-    "101302005": 222,
-    "101302006": 223,
-    "101302007": 224,
-    "101302008": 225,
-    "101302009": 226,
-    "101302010": 227,
-    "101302011": 228,
-    "101302012": 229,
-    "101302013": 230,
-    "101302014": 231,
-    "101302015": 232,
-    "101302020": 233,
-    "101302021": 234,
-    "101302022": 235,
-    "101302023": 236,
-    "101302024": 237,
-    "1013021": 238,
-    "1013022": 239,
-    "1013023": 240,
-    "1013024": 241,
-    "1014010": 242,
-    "101401001": 243,
-    "101401002": 244,
-    "101401003": 245,
-    "101401004": 246,
-    "101401005": 247,
-    "101401006": 248,
-    "101401007": 249,
-    "101401008": 250,
-    "101401009": 251,
-    "1014011": 252,
-    "1014012": 253,
-    "1022010": 254,
-    "102201001": 255,
-    "102201002": 256,
-    "102201003": 257,
-    "102201004": 258,
-    "102201005": 259,
-    "102201006": 260,
-    "102201007": 261,
-    "102201008": 262,
-    "102201009": 263,
-    "102201010": 264,
-    "102201011": 265,
-    "102201012": 266,
-    "1022020": 267,
-    "102202001": 268,
-    "102202002": 269,
-    "102202003": 270,
-    "102202004": 271,
-    "102202005": 272,
-    "102202006": 273,
-    "102202007": 274,
-    "102202008": 275,
-    "102202009": 276,
-    "102202010": 277,
-    "102202011": 278,
-    "102202012": 279,
-    "102202013": 280,
-    "102202014": 281,
-    "102202015": 282,
-    "102202016": 283,
-    "102202017": 284,
-    "102202018": 285,
-    "102202019": 286,
-    "102202020": 287,
-    "102202021": 288,
-    "102202022": 289,
-    "102202023": 290,
-    "1023010": 291,
-    "102301001": 292,
-    "102301002": 293,
-    "102301003": 294,
-    "102301004": 295,
-    "102301005": 296,
-    "102301006": 297,
-    "102301007": 298,
-    "102301008": 299,
-    "102301009": 300,
-    "102301010": 301,
-    "102301011": 302,
-    "102301012": 303,
-    "102301013": 304,
-    "102301014": 305,
-    "1023011": 306,
-    "1023020": 307,
-    "102302001": 308,
-    "102302002": 309,
-    "102302003": 310,
-    "102302004": 311,
-    "1023021": 312,
-    "2002010": 313,
-    "200201001": 314,
-    "200201002": 315,
-    "200201003": 316,
-    "200201004": 317,
-    "200201005": 318,
-    "200201006": 319,
-    "2002020": 320,
-    "200202001": 321,
-    "200202002": 322,
-    "200202003": 323,
-    "2002021": 324,
-    "200202101": 325,
-    "200202102": 326,
-    "200202103": 327,
-    "2002030": 328,
-    "200203001": 329,
-    "200203002": 330,
-    "200203003": 331,
-    "200203004": 332,
-    "2002031": 333,
-    "200203201": 334,
-    "200203202": 335,
-    "2004010": 336,
-    "200401001": 337,
-    "200401002": 338,
-    "200401003": 339,
-    "200401004": 340,
-    "2004011": 341,
-    "2004012": 342,
-    "2004013": 343,
-    "2004020": 344,
-    "200402001": 345,
-    "200402002": 346,
-    "200402003": 347,
-    "200402004": 348,
-    "200402005": 349,
-    "200402006": 350,
-    "2004021": 351,
-    "2004022": 352,
-    "2004023": 353,
-    "2011010": 354,
-    "201101001": 355,
-    "201101002": 356,
-    "201101003": 357,
-    "2011020": 358,
-    "201102001": 359,
-    "201102002": 360,
-    "201102003": 361,
-    "2012010": 362,
-    "201201001": 363,
-    "201201002": 364,
-    "201201003": 365,
-    "201201004": 366,
-    "201201005": 367,
-    "201201006": 368,
-    "201201007": 369,
-    "2013010": 370,
-    "201301001": 371,
-    "201301002": 372,
-    "201301003": 373,
-    "201301004": 374,
-    "201301005": 375,
-    "201301006": 376,
-    "201301007": 377,
-    "2013011": 378,
-    "2013012": 379,
-    "2013020": 380,
-    "201302001": 381,
-    "201302002": 382,
-    "201302003": 383,
-    "201302004": 384,
-    "2013021": 385,
-    "2022010": 386,
-    "202201001": 387,
-    "202201002": 388,
-    "202201003": 389,
-    "202201004": 390,
-    "202201005": 391,
-    "202201006": 392,
-    "202201007": 393,
-    "202201008": 394,
-    "202201009": 395,
-    "202201010": 396,
-    "2022020": 397,
-    "202202001": 398,
-    "202202002": 399,
-    "202202003": 400,
-    "202202004": 401,
-    "202202005": 402,
-    "202202006": 403,
-    "202202007": 404,
-    "202202008": 405,
-    "202202009": 406,
-    "2022040": 407,
-    "202204001": 408,
-    "202204002": 409,
-    "202204003": 410,
-    "202204004": 411,
-    "202204005": 412,
-    "2022050": 413,
-    "202205001": 414,
-    "202205002": 415,
-    "202205003": 416,
-    "202205004": 417,
-    "2022051": 418,
-    "2022060": 419,
-    "202206001": 420,
-    "202206002": 421,
-    "202206003": 422,
-    "2022070": 423,
-    "2022071": 424,
-    "202207101": 425,
-    "2022080": 426,
-    "2022081": 427,
-    "202208101": 428,
-    "2022090": 429,
-    "2022091": 430,
-    "202209101": 431,
-    "2022100": 432,
-    "2022101": 433,
-    "202210101": 434,
-    "2022110": 435,
-    "202211001": 436,
-    "202211002": 437,
-    "202211003": 438,
-    "2023010": 439,
-    "202301001": 440,
-    "202301002": 441,
-    "202301003": 442,
-    "202301004": 443,
-    "202301005": 444,
-    "202301006": 445,
-    "202301007": 446,
-    "202301008": 447,
-    "202301009": 448,
-    "202301010": 449,
-    "202301011": 450,
-    "202301012": 451,
-    "2023011": 452,
-    "2023020": 453,
-    "202302001": 454,
-    "202302002": 455,
-    "202302003": 456,
-    "202302004": 457,
-    "202302005": 458,
-    "202302006": 459,
-    "2023021": 460,
-    "2023030": 461,
-    "202303001": 462,
-    "202303002": 463,
-    "202303003": 464,
-    "202303004": 465,
-    "202303005": 466,
-    "202303006": 467,
-    "202303007": 468,
-    "2023031": 469,
-    "2024010": 470,
-    "202401001": 471,
-    "202401002": 472,
-    "2024011": 473,
-    "2024012": 474,
-    "2024013": 475,
-    "2024014": 476,
-    "2024020": 477,
-    "202402001": 478,
-    "202402002": 479,
-    "202402003": 480,
-    "202402004": 481,
-    "3001010": 482,
-    "300101001": 483,
-    "3001020": 484,
-    "300102001": 485,
-    "3002010": 486,
-    "300201001": 487,
-    "300201002": 488,
-    "300201003": 489,
-    "3002030": 490,
-    "300203001": 491,
-    "300203002": 492,
-    "3002050": 493,
-    "300205002": 494,
-    "3002051": 495,
-    "3002089": 496,
-    "3003010": 497,
-    "3003011": 498,
-    "300301101": 499,
-    "3003020": 500,
-    "300302001": 501,
-    "3003021": 502,
-    "3011010": 503,
-    "3012020": 504,
-    "301202001": 505,
-    "3012030": 506,
-    "3012031": 507,
-    "3014020": 508,
-    "301402001": 509,
-    "301402002": 510,
-    "301402003": 511,
-    "3014021": 512,
-    "3021020": 513,
-    "3021021": 514,
-    "3021030": 515,
-    "3021031": 516,
-    "3021040": 517,
-    "3021041": 518,
-    "3024010": 519,
-    "302401001": 520,
-    "302401002": 521,
-    "302401003": 522,
-    "3024011": 523,
-    "3024012": 524,
-    "3024020": 525,
-    "302402001": 526,
-    "3024021": 527,
-    "7001010": 528,
-    "7001011": 529,
-    "7001012": 530,
-    "7001013": 531,
-    "7002010": 532,
-    "7002011": 533,
-    "7002020": 534,
-    "7002030": 535,
-    "700203001": 536,
-    "700203002": 537,
-    "7002040": 538,
-    "7002050": 539,
-    "700205001": 540,
-    "7002060": 541,
-    "7002070": 542,
-    "700207001": 543,
-    "700207002": 544,
-    "7002080": 545,
-    "7002090": 546,
-    "700209001": 547,
-    "7002100": 548,
-    "7002110": 549,
-    "7002120": 550,
-    "7002130": 551,
-    "7002140": 552,
-    "7003010": 553,
-    "7003020": 554,
-    "7003030": 555,
-    "7003040": 556,
-    "7003050": 557,
-    "7003060": 558,
-    "7003070": 559,
-    "7003080": 560,
-    "7003090": 561,
-    "7003100": 562,
-    "8001010": 563,
-    "800101001": 564,
-    "800101002": 565,
-    "800101003": 566,
-    "800101004": 567,
-    "800101005": 568,
-    "800101006": 569,
-    "800101007": 570,
-    "800101008": 571,
-    "800101009": 572,
-    "800101010": 573,
-    "800101011": 574,
-    "800101012": 575,
-    "800101013": 576,
-    "800101014": 577,
-    "800101015": 578,
-    "800101016": 579,
-    "8001020": 580,
-    "800102001": 581,
-    "800102002": 582,
-    "800102003": 583,
-    "800102004": 584,
-    "800102005": 585,
-    "800102006": 586,
-    "800102007": 587,
-    "800102008": 588,
-    "800102009": 589,
-    "800102010": 590,
-    "800102011": 591,
-    "800102012": 592,
-    "800102013": 593,
-    "800102014": 594,
-    "800102015": 595,
-    "800102016": 596,
-    "8001030": 597,
-    "800103001": 598,
-    "800103002": 599,
-    "800103003": 600,
-    "800103004": 601,
-    "8001040": 602,
-    "800104001": 603,
-    "800104002": 604,
-    "800104003": 605,
-    "8001050": 606,
-    "800105001": 607,
-    "800105002": 608,
-    "800105003": 609,
-    "800105004": 610,
-    "8002010": 611,
-    "800201001": 612,
-    "800201002": 613,
-    "800201003": 614,
-    "800201004": 615,
-    "800201005": 616,
-    "800201006": 617,
-    "800201007": 618,
-    "800201008": 619,
-    "800201009": 620,
-    "800201012": 621,
-    "8002040": 622,
-    "800204001": 623,
-    "800204002": 624,
-    "800204003": 625,
-    "800204004": 626,
-    "8002041": 627,
-    "8002050": 628,
-    "800205001": 629,
-    "800205002": 630,
-    "800205003": 631,
-    "800205004": 632,
-    "800205005": 633,
-    "800205006": 634,
-    "800205007": 635,
-    "800205008": 636,
-    "800205009": 637,
-    "800205010": 638,
-    "800205011": 639,
-    "800205012": 640,
-    "800205013": 641,
-    "800205014": 642,
-    "800205015": 643,
-    "800205016": 644,
-    "800205017": 645,
-    "800205018": 646,
-    "800205019": 647,
-    "800205020": 648,
-    "800205021": 649,
-    "800205022": 650,
-    "800205023": 651,
-    "800205024": 652,
-    "800205025": 653,
-    "800205026": 654,
-    "800205027": 655,
-    "8002051": 656,
-    "8002052": 657,
-    "8002053": 658,
-    "8002054": 659,
-    "8002055": 660,
-    "8002056": 661,
-    "8002057": 662,
-    "8002058": 663,
-    "8002059": 664,
-    "8002060": 665,
-    "8002061": 666,
-    "8002070": 667,
-    "8002071": 668,
-    "8002080": 669,
-    "8002081": 670,
-    "800208101": 671,
-    "8002082": 672,
-    "8002090": 673,
-    "8002091": 674,
-    "8002100": 675,
-    "8002101": 676,
-    "8002102": 677,
-    "8003010": 678,
-    "800301001": 679,
-    "800301002": 680,
-    "800301003": 681,
-    "800301004": 682,
-    "800301005": 683,
-    "800301006": 684,
-    "800301007": 685,
-    "800301008": 686,
-    "800301009": 687,
-    "800301010": 688,
-    "800301011": 689,
-    "800301012": 690,
-    "800301013": 691,
-    "8003011": 692,
-    "8003020": 693,
-    "800302001": 694,
-    "800302002": 695,
-    "800302003": 696,
-    "800302004": 697,
-    "800302005": 698,
-    "800302006": 699,
-    "800302007": 700,
-    "800302008": 701,
-    "800302009": 702,
-    "800302010": 703,
-    "800302011": 704,
-    "800302012": 705,
-    "800302013": 706,
-    "800302014": 707,
-    "800302015": 708,
-    "800302016": 709,
-    "800302017": 710,
-    "800302019": 711,
-    "8003021": 712,
-    "8003030": 713,
-    "800303001": 714,
-    "800303002": 715,
-    "800303003": 716,
-    "800303004": 717,
-    "800303005": 718,
-    "800303006": 719,
-    "800303007": 720,
-    "800303008": 721,
-    "800303009": 722,
-    "800303010": 723,
-    "800303011": 724,
-    "800303012": 725,
-    "8003031": 726,
-    "8003040": 727,
-    "800304001": 728,
-    "800304002": 729,
-    "800304003": 730,
-    "800304004": 731,
-    "800304005": 732,
-    "800304006": 733,
-    "800304007": 734,
-    "800304008": 735,
-    "800304009": 736,
-    "8003041": 737,
-    "8003042": 738,
-    "8003050": 739,
-    "800305001": 740,
-    "800305002": 741,
-    "800305003": 742,
-    "800305004": 743,
-    "800305005": 744,
-    "800305006": 745,
-    "800305007": 746,
-    "800305008": 747,
-    "800305009": 748,
-    "8003051": 749,
-    "8003052": 750,
-    "8011010": 751,
-    "801101001": 752,
-    "801101002": 753,
-    "801101003": 754,
-    "801101004": 755,
-    "801101005": 756,
-    "801101006": 757,
-    "801101007": 758,
-    "801101008": 759,
-    "8011020": 760,
-    "801102001": 761,
-    "801102002": 762,
-    "801102003": 763,
-    "801102004": 764,
-    "801102005": 765,
-    "801102007": 766,
-    "801102008": 767,
-    "8012010": 768,
-    "801201001": 769,
-    "801201002": 770,
-    "801201003": 771,
-    "801201004": 772,
-    "801201005": 773,
-    "801201006": 774,
-    "801201007": 775,
-    "801201008": 776,
-    "801201009": 777,
-    "801201010": 778,
-    "801201011": 779,
-    "801201012": 780,
-    "801201013": 781,
-    "801201014": 782,
-    "801201015": 783,
-    "801201016": 784,
-    "801201017": 785,
-    "801201018": 786,
-    "801201019": 787,
-    "801201020": 788,
-    "801201021": 789,
-    "801201023": 790,
-    "801201024": 791,
-    "801201025": 792,
-    "801201026": 793,
-    "8012020": 794,
-    "801202001": 795,
-    "801202002": 796,
-    "801202003": 797,
-    "801202004": 798,
-    "801202005": 799,
-    "801202006": 800,
-    "801202007": 801,
-    "801202008": 802,
-    "801202009": 803,
-    "801202010": 804,
-    "801202011": 805,
-    "801202012": 806,
-    "801202013": 807,
-    "8012021": 808,
-    "801202101": 809,
-    "801202102": 810,
-    "8012030": 811,
-    "801203001": 812,
-    "801203002": 813,
-    "801203003": 814,
-    "801203004": 815,
-    "801203005": 816,
-    "801203006": 817,
-    "801203007": 818,
-    "8012140": 819,
-    "8012142": 820,
-    "8012143": 821,
-    "8012145": 822,
-    "8012200": 823,
-    "8012201": 824,
-    "8012202": 825,
-    "8012203": 826,
-    "8012210": 827,
-    "8012211": 828,
-    "8012212": 829,
-    "8012213": 830,
-    "8013010": 831,
-    "801301001": 832,
-    "801301002": 833,
-    "801301003": 834,
-    "801301004": 835,
-    "801301005": 836,
-    "801301006": 837,
-    "801301007": 838,
-    "801301008": 839,
-    "801301009": 840,
-    "801301010": 841,
-    "801301011": 842,
-    "801301012": 843,
-    "801301013": 844,
-    "801301014": 845,
-    "801301015": 846,
-    "8013011": 847,
-    "8013012": 848,
-    "8013013": 849,
-    "8013141": 850,
-    "8013144": 851,
-    "8015010": 852,
-    "8015011": 853,
-    "8015020": 854,
-    "8015021": 855,
-    "8022010": 856,
-    "8022020": 857,
-    "802202001": 858,
-    "802202002": 859,
-    "8022030": 860,
-    "8024010": 861,
-    "8024011": 862,
-    "8024012": 863,
-    "8025010": 864,
-    "802501001": 865,
-    "8032010": 866,
-    "803201001": 867,
-    "803201002": 868,
-    "803201003": 869,
-    "8032020": 870,
-    "803202001": 871,
-    "803202002": 872,
-    "803202003": 873,
-    "8033010": 874,
-    "803301001": 875,
-    "803301002": 876,
-    "8033011": 877,
-    "803301202": 878,
-    "9003020": 879,
-    "9004600": 880
+    "1004011": 115,
+    "1004012": 116,
+    "1004013": 117,
+    "1004020": 118,
+    "100402001": 119,
+    "100402002": 120,
+    "100402003": 121,
+    "100402004": 122,
+    "100402005": 123,
+    "1004021": 124,
+    "1004022": 125,
+    "1004023": 126,
+    "1004024": 127,
+    "1004025": 128,
+    "1004030": 129,
+    "100403001": 130,
+    "100403002": 131,
+    "1004031": 132,
+    "100403101": 133,
+    "1004032": 134,
+    "1005010": 135,
+    "1005011": 136,
+    "1005012": 137,
+    "1005013": 138,
+    "1012010": 139,
+    "101201001": 140,
+    "101201002": 141,
+    "101201003": 142,
+    "101201004": 143,
+    "101201005": 144,
+    "101201006": 145,
+    "101201007": 146,
+    "101201008": 147,
+    "101201009": 148,
+    "101201010": 149,
+    "101201011": 150,
+    "101201012": 151,
+    "101201013": 152,
+    "101201014": 153,
+    "101201015": 154,
+    "101201016": 155,
+    "1012011": 156,
+    "1012020": 157,
+    "101202001": 158,
+    "101202002": 159,
+    "101202003": 160,
+    "1012021": 161,
+    "101202101": 162,
+    "101202102": 163,
+    "101202103": 164,
+    "101202104": 165,
+    "101202105": 166,
+    "101202106": 167,
+    "101202107": 168,
+    "101202108": 169,
+    "101202109": 170,
+    "101202110": 171,
+    "1012030": 172,
+    "101203001": 173,
+    "101203002": 174,
+    "101203003": 175,
+    "101203004": 176,
+    "101203005": 177,
+    "101203006": 178,
+    "101203007": 179,
+    "101203008": 180,
+    "101203009": 181,
+    "101203010": 182,
+    "101203011": 183,
+    "101203012": 184,
+    "101203013": 185,
+    "101203014": 186,
+    "1012040": 187,
+    "1012041": 188,
+    "1012042": 189,
+    "1013010": 190,
+    "101301001": 191,
+    "101301002": 192,
+    "101301003": 193,
+    "101301004": 194,
+    "101301005": 195,
+    "101301006": 196,
+    "101301007": 197,
+    "101301008": 198,
+    "101301009": 199,
+    "101301010": 200,
+    "101301011": 201,
+    "101301012": 202,
+    "101301013": 203,
+    "101301014": 204,
+    "101301015": 205,
+    "101301016": 206,
+    "101301017": 207,
+    "101301018": 208,
+    "1013011": 209,
+    "1013012": 210,
+    "1013013": 211,
+    "1013014": 212,
+    "1013020": 213,
+    "101302001": 214,
+    "101302002": 215,
+    "101302003": 216,
+    "101302004": 217,
+    "101302005": 218,
+    "101302006": 219,
+    "101302007": 220,
+    "101302008": 221,
+    "101302009": 222,
+    "101302010": 223,
+    "101302011": 224,
+    "101302012": 225,
+    "101302013": 226,
+    "101302014": 227,
+    "101302015": 228,
+    "101302020": 229,
+    "101302021": 230,
+    "101302022": 231,
+    "101302023": 232,
+    "1013021": 233,
+    "1013022": 234,
+    "1013023": 235,
+    "1013024": 236,
+    "1014010": 237,
+    "101401001": 238,
+    "101401002": 239,
+    "101401003": 240,
+    "101401004": 241,
+    "101401005": 242,
+    "101401006": 243,
+    "101401007": 244,
+    "101401008": 245,
+    "1014011": 246,
+    "1014012": 247,
+    "1022010": 248,
+    "102201001": 249,
+    "102201002": 250,
+    "102201003": 251,
+    "102201004": 252,
+    "102201005": 253,
+    "102201006": 254,
+    "102201007": 255,
+    "102201008": 256,
+    "102201009": 257,
+    "102201010": 258,
+    "102201011": 259,
+    "102201012": 260,
+    "1022020": 261,
+    "102202001": 262,
+    "102202002": 263,
+    "102202003": 264,
+    "102202004": 265,
+    "102202005": 266,
+    "102202006": 267,
+    "102202007": 268,
+    "102202008": 269,
+    "102202009": 270,
+    "102202010": 271,
+    "102202011": 272,
+    "102202012": 273,
+    "102202013": 274,
+    "102202014": 275,
+    "102202015": 276,
+    "102202016": 277,
+    "102202017": 278,
+    "102202018": 279,
+    "102202019": 280,
+    "102202020": 281,
+    "102202021": 282,
+    "102202022": 283,
+    "1023010": 284,
+    "102301001": 285,
+    "102301002": 286,
+    "102301003": 287,
+    "102301004": 288,
+    "102301005": 289,
+    "102301006": 290,
+    "102301007": 291,
+    "102301008": 292,
+    "102301009": 293,
+    "102301010": 294,
+    "102301011": 295,
+    "102301012": 296,
+    "102301013": 297,
+    "102301014": 298,
+    "1023011": 299,
+    "1023020": 300,
+    "102302001": 301,
+    "102302002": 302,
+    "102302003": 303,
+    "102302004": 304,
+    "1023021": 305,
+    "2002010": 306,
+    "200201001": 307,
+    "200201002": 308,
+    "200201003": 309,
+    "200201004": 310,
+    "200201005": 311,
+    "200201006": 312,
+    "2002020": 313,
+    "200202001": 314,
+    "200202002": 315,
+    "200202003": 316,
+    "2002021": 317,
+    "200202101": 318,
+    "200202102": 319,
+    "200202103": 320,
+    "2002030": 321,
+    "200203001": 322,
+    "200203002": 323,
+    "200203003": 324,
+    "200203004": 325,
+    "2002031": 326,
+    "200203201": 327,
+    "200203202": 328,
+    "2004010": 329,
+    "200401001": 330,
+    "200401002": 331,
+    "200401003": 332,
+    "200401004": 333,
+    "2004011": 334,
+    "2004012": 335,
+    "2004013": 336,
+    "2004020": 337,
+    "200402001": 338,
+    "200402002": 339,
+    "200402003": 340,
+    "200402004": 341,
+    "200402005": 342,
+    "2004021": 343,
+    "2004022": 344,
+    "2004023": 345,
+    "2011010": 346,
+    "201101001": 347,
+    "201101002": 348,
+    "201101003": 349,
+    "2011020": 350,
+    "201102001": 351,
+    "201102002": 352,
+    "201102003": 353,
+    "2012010": 354,
+    "201201001": 355,
+    "201201002": 356,
+    "201201003": 357,
+    "201201004": 358,
+    "201201005": 359,
+    "201201006": 360,
+    "201201007": 361,
+    "2013010": 362,
+    "201301001": 363,
+    "201301002": 364,
+    "201301003": 365,
+    "201301004": 366,
+    "201301005": 367,
+    "201301006": 368,
+    "201301007": 369,
+    "2013011": 370,
+    "2013012": 371,
+    "2013020": 372,
+    "201302001": 373,
+    "201302002": 374,
+    "201302003": 375,
+    "201302004": 376,
+    "2013021": 377,
+    "2022010": 378,
+    "202201001": 379,
+    "202201002": 380,
+    "202201003": 381,
+    "202201004": 382,
+    "202201005": 383,
+    "202201006": 384,
+    "202201007": 385,
+    "202201008": 386,
+    "202201009": 387,
+    "202201010": 388,
+    "2022020": 389,
+    "202202001": 390,
+    "202202002": 391,
+    "202202003": 392,
+    "202202004": 393,
+    "202202005": 394,
+    "202202006": 395,
+    "202202007": 396,
+    "202202008": 397,
+    "202202009": 398,
+    "2022040": 399,
+    "202204001": 400,
+    "202204002": 401,
+    "202204003": 402,
+    "202204004": 403,
+    "202204005": 404,
+    "2022050": 405,
+    "202205001": 406,
+    "202205002": 407,
+    "202205003": 408,
+    "202205004": 409,
+    "2022051": 410,
+    "2022060": 411,
+    "202206001": 412,
+    "202206002": 413,
+    "202206003": 414,
+    "2022070": 415,
+    "2022071": 416,
+    "202207101": 417,
+    "2022080": 418,
+    "2022081": 419,
+    "202208101": 420,
+    "2022090": 421,
+    "2022091": 422,
+    "202209101": 423,
+    "2022100": 424,
+    "2022101": 425,
+    "202210101": 426,
+    "2022110": 427,
+    "202211001": 428,
+    "202211002": 429,
+    "202211003": 430,
+    "2023010": 431,
+    "202301001": 432,
+    "202301002": 433,
+    "202301003": 434,
+    "202301004": 435,
+    "202301005": 436,
+    "202301006": 437,
+    "202301007": 438,
+    "202301008": 439,
+    "202301009": 440,
+    "202301010": 441,
+    "202301011": 442,
+    "202301012": 443,
+    "2023011": 444,
+    "2023020": 445,
+    "202302001": 446,
+    "202302002": 447,
+    "202302003": 448,
+    "202302004": 449,
+    "202302005": 450,
+    "202302006": 451,
+    "2023021": 452,
+    "2023030": 453,
+    "202303001": 454,
+    "202303002": 455,
+    "202303003": 456,
+    "202303004": 457,
+    "202303005": 458,
+    "202303006": 459,
+    "202303007": 460,
+    "2023031": 461,
+    "2024010": 462,
+    "202401001": 463,
+    "202401002": 464,
+    "2024011": 465,
+    "2024012": 466,
+    "2024013": 467,
+    "2024020": 468,
+    "202402001": 469,
+    "202402002": 470,
+    "202402003": 471,
+    "3021020": 472,
+    "3021021": 473,
+    "3021030": 474,
+    "3021031": 475,
+    "3021040": 476,
+    "3021041": 477,
+    "3024010": 478,
+    "302401001": 479,
+    "302401002": 480,
+    "302401003": 481,
+    "3024011": 482,
+    "3024012": 483,
+    "7001010": 484,
+    "7001011": 485,
+    "7001012": 486,
+    "7001013": 487,
+    "7002010": 488,
+    "7002011": 489,
+    "7002020": 490,
+    "7002030": 491,
+    "700203001": 492,
+    "700203002": 493,
+    "7002050": 494,
+    "700205001": 495,
+    "7002060": 496,
+    "7002070": 497,
+    "700207001": 498,
+    "700207002": 499,
+    "7002080": 500,
+    "7002090": 501,
+    "700209001": 502,
+    "7002100": 503,
+    "7002110": 504,
+    "7002120": 505,
+    "7002130": 506,
+    "7002140": 507,
+    "7003010": 508,
+    "7003020": 509,
+    "7003030": 510,
+    "7003040": 511,
+    "7003060": 512,
+    "7003070": 513,
+    "7003080": 514,
+    "7003090": 515,
+    "7003100": 516,
+    "8001010": 517,
+    "800101001": 518,
+    "800101002": 519,
+    "800101003": 520,
+    "800101004": 521,
+    "800101005": 522,
+    "800101006": 523,
+    "800101007": 524,
+    "800101008": 525,
+    "800101009": 526,
+    "800101010": 527,
+    "800101011": 528,
+    "800101012": 529,
+    "800101013": 530,
+    "800101014": 531,
+    "800101015": 532,
+    "800101016": 533,
+    "8001020": 534,
+    "800102001": 535,
+    "800102002": 536,
+    "800102003": 537,
+    "800102004": 538,
+    "800102005": 539,
+    "800102006": 540,
+    "800102007": 541,
+    "800102008": 542,
+    "800102009": 543,
+    "800102010": 544,
+    "800102011": 545,
+    "800102012": 546,
+    "800102013": 547,
+    "800102014": 548,
+    "800102015": 549,
+    "800102016": 550,
+    "8001030": 551,
+    "800103001": 552,
+    "800103002": 553,
+    "800103003": 554,
+    "800103004": 555,
+    "8001040": 556,
+    "800104001": 557,
+    "800104002": 558,
+    "800104003": 559,
+    "8001050": 560,
+    "800105001": 561,
+    "800105002": 562,
+    "800105003": 563,
+    "800105004": 564,
+    "8002010": 565,
+    "800201001": 566,
+    "800201002": 567,
+    "800201003": 568,
+    "800201004": 569,
+    "800201005": 570,
+    "800201006": 571,
+    "800201007": 572,
+    "800201008": 573,
+    "800201009": 574,
+    "8002040": 575,
+    "800204001": 576,
+    "800204002": 577,
+    "800204003": 578,
+    "800204004": 579,
+    "8002041": 580,
+    "8002050": 581,
+    "800205001": 582,
+    "800205002": 583,
+    "800205003": 584,
+    "800205004": 585,
+    "800205005": 586,
+    "800205006": 587,
+    "800205007": 588,
+    "800205008": 589,
+    "800205009": 590,
+    "800205010": 591,
+    "800205011": 592,
+    "800205012": 593,
+    "800205013": 594,
+    "800205014": 595,
+    "800205015": 596,
+    "800205016": 597,
+    "800205017": 598,
+    "800205018": 599,
+    "800205019": 600,
+    "8002051": 601,
+    "8002052": 602,
+    "8002053": 603,
+    "8002054": 604,
+    "8002055": 605,
+    "8002056": 606,
+    "8002057": 607,
+    "8002058": 608,
+    "8002059": 609,
+    "8002060": 610,
+    "8002061": 611,
+    "8002070": 612,
+    "8002071": 613,
+    "8002080": 614,
+    "8002081": 615,
+    "800208101": 616,
+    "8002082": 617,
+    "8002090": 618,
+    "8002091": 619,
+    "8002100": 620,
+    "8002101": 621,
+    "8002102": 622,
+    "8003010": 623,
+    "800301001": 624,
+    "800301002": 625,
+    "800301003": 626,
+    "800301004": 627,
+    "800301005": 628,
+    "800301006": 629,
+    "800301007": 630,
+    "800301008": 631,
+    "800301009": 632,
+    "800301010": 633,
+    "800301011": 634,
+    "800301012": 635,
+    "8003011": 636,
+    "8003020": 637,
+    "800302001": 638,
+    "800302002": 639,
+    "800302003": 640,
+    "800302004": 641,
+    "800302005": 642,
+    "800302006": 643,
+    "800302007": 644,
+    "800302008": 645,
+    "800302009": 646,
+    "800302010": 647,
+    "800302011": 648,
+    "800302012": 649,
+    "800302013": 650,
+    "800302014": 651,
+    "800302015": 652,
+    "800302016": 653,
+    "800302017": 654,
+    "8003021": 655,
+    "8003030": 656,
+    "800303001": 657,
+    "800303002": 658,
+    "800303003": 659,
+    "800303004": 660,
+    "800303005": 661,
+    "800303006": 662,
+    "800303007": 663,
+    "800303008": 664,
+    "800303009": 665,
+    "800303010": 666,
+    "800303011": 667,
+    "800303012": 668,
+    "8003031": 669,
+    "8003040": 670,
+    "800304001": 671,
+    "800304002": 672,
+    "800304003": 673,
+    "800304004": 674,
+    "800304005": 675,
+    "800304006": 676,
+    "800304007": 677,
+    "800304008": 678,
+    "800304009": 679,
+    "8003041": 680,
+    "8003042": 681,
+    "8003050": 682,
+    "800305001": 683,
+    "800305002": 684,
+    "800305003": 685,
+    "800305004": 686,
+    "800305005": 687,
+    "800305006": 688,
+    "800305007": 689,
+    "800305008": 690,
+    "800305009": 691,
+    "8003051": 692,
+    "8003052": 693,
+    "8011010": 694,
+    "801101001": 695,
+    "801101002": 696,
+    "801101003": 697,
+    "801101004": 698,
+    "801101005": 699,
+    "801101006": 700,
+    "801101007": 701,
+    "801101008": 702,
+    "8011020": 703,
+    "801102001": 704,
+    "801102002": 705,
+    "801102003": 706,
+    "801102004": 707,
+    "801102005": 708,
+    "801102007": 709,
+    "801102008": 710,
+    "8012010": 711,
+    "801201001": 712,
+    "801201002": 713,
+    "801201003": 714,
+    "801201004": 715,
+    "801201005": 716,
+    "801201006": 717,
+    "801201007": 718,
+    "801201008": 719,
+    "801201009": 720,
+    "801201010": 721,
+    "801201011": 722,
+    "801201012": 723,
+    "801201013": 724,
+    "801201014": 725,
+    "801201015": 726,
+    "801201016": 727,
+    "801201017": 728,
+    "801201018": 729,
+    "801201019": 730,
+    "801201020": 731,
+    "801201021": 732,
+    "801201023": 733,
+    "801201024": 734,
+    "801201025": 735,
+    "801201026": 736,
+    "8012020": 737,
+    "801202001": 738,
+    "801202002": 739,
+    "801202003": 740,
+    "801202004": 741,
+    "801202005": 742,
+    "801202006": 743,
+    "801202007": 744,
+    "801202008": 745,
+    "801202009": 746,
+    "801202010": 747,
+    "801202011": 748,
+    "801202012": 749,
+    "801202013": 750,
+    "8012021": 751,
+    "801202101": 752,
+    "801202102": 753,
+    "8012030": 754,
+    "801203001": 755,
+    "801203002": 756,
+    "801203003": 757,
+    "801203004": 758,
+    "801203005": 759,
+    "801203006": 760,
+    "801203007": 761,
+    "8012140": 762,
+    "8012142": 763,
+    "8012143": 764,
+    "8012145": 765,
+    "8012200": 766,
+    "8012201": 767,
+    "8012202": 768,
+    "8012203": 769,
+    "8012210": 770,
+    "8012211": 771,
+    "8012212": 772,
+    "8012213": 773,
+    "8013010": 774,
+    "801301001": 775,
+    "801301002": 776,
+    "801301003": 777,
+    "801301004": 778,
+    "801301005": 779,
+    "801301006": 780,
+    "801301007": 781,
+    "801301008": 782,
+    "801301009": 783,
+    "801301010": 784,
+    "801301011": 785,
+    "801301012": 786,
+    "801301013": 787,
+    "801301014": 788,
+    "801301015": 789,
+    "8013011": 790,
+    "8013012": 791,
+    "8013013": 792,
+    "8013141": 793,
+    "8013144": 794,
+    "8015010": 795,
+    "8015011": 796,
+    "8015020": 797,
+    "8015021": 798,
+    "8022010": 799,
+    "8022020": 800,
+    "802202001": 801,
+    "802202002": 802,
+    "8022030": 803,
+    "8024010": 804,
+    "8024011": 805,
+    "8024012": 806,
+    "8025010": 807,
+    "802501001": 808,
+    "8032010": 809,
+    "803201001": 810,
+    "803201002": 811,
+    "803201003": 812,
+    "8032020": 813,
+    "803202001": 814,
+    "803202002": 815,
+    "803202003": 816,
+    "8033010": 817,
+    "803301001": 818,
+    "803301002": 819,
+    "8033011": 820,
+    "803301202": 821,
+    "9003020": 822,
+    "9004600": 823
 }
 
 var _status = {
@@ -49198,18 +46123,6 @@ var _status = {
         },
         "CanNotDispel": true
     },
-    "230010101": {
-        "Name": {
-            "CH": "test_效果抵抗降低",
-            "EN": ""
-        },
-        "Modifier": "Monster_W2_Mecha01_02_ResistanceDown",
-        "Desc": {
-            "CH": "效果抵抗降低<color style='color:#f29e38;'> [MDF_PropertyValue] </color>。",
-            "EN": "Effect RES reduces by <color style='color:#f29e38;'>[MDF_PropertyValue]</color>."
-        },
-        "Type": "Debuff"
-    },
     "220130111": {
         "Name": {
             "CH": "锁定",
@@ -49259,18 +46172,6 @@ var _status = {
         },
         "Type": "Buff"
     },
-    "230020301": {
-        "Name": {
-            "CH": "苏乐达陶醉",
-            "EN": "SoulGlad Revel"
-        },
-        "Modifier": "Monster_W2_Beast01_03_LayerCount",
-        "Desc": {
-            "CH": "强化技能效果，最多叠加<color style='color:#f29e38;'> [MDF_ShowValue] </color>层。",
-            "EN": "Enhances ability effects, stacking up to <color style='color:#f29e38;'>[MDF_ShowValue]</color> times."
-        },
-        "CanNotDispel": true
-    },
     "220230211": {
         "Name": {
             "CH": "鼓勇",
@@ -49319,54 +46220,6 @@ var _status = {
         },
         "Type": "Buff"
     },
-    "230140201": {
-        "Name": {
-            "CH": "梦死",
-            "EN": "Morbid Dream"
-        },
-        "Modifier": "M_Death_CTRL",
-        "Desc": {
-            "CH": "无法被选定，无法行动。",
-            "EN": "Cannot be selected, cannot take action."
-        },
-        "CanNotDispel": true
-    },
-    "230140202": {
-        "Name": {
-            "CH": "夜幕将临",
-            "EN": "Nightfall"
-        },
-        "Modifier": "Modifier_W3_Death_00_ChargeShoot",
-        "Desc": {
-            "CH": "锁定接下来使用普攻、战技、终结技的2名我方目标。",
-            "EN": "Locks on to the next 2 characters who either use their Basic ATK, Skill, or Ultimate."
-        },
-        "CanNotDispel": true
-    },
-    "230140204": {
-        "Name": {
-            "CH": "白日西沉",
-            "EN": "Sunset"
-        },
-        "Modifier": "Modifier_W3_Death_00_HuntingMode1",
-        "Desc": {
-            "CH": "已叠加1层【白日西沉】。",
-            "EN": "Gained 1 stack of Sunset."
-        },
-        "CanNotDispel": true
-    },
-    "230140207": {
-        "Name": {
-            "CH": "锋锐悼词",
-            "EN": "Biting Obituary"
-        },
-        "Modifier": "Monster_W3_Death_00_AllDamageUp",
-        "Desc": {
-            "CH": "造成的伤害提高<color style='color:#f29e38;'> [MDF_ShowValue1] </color>，陷入弱点击破状态后移除。",
-            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_ShowValue1]</color>. This effect is removed when this unit becomes Weakness Broken."
-        },
-        "Type": "Buff"
-    },
     "210130221": {
         "Name": {
             "CH": "作战加速",
@@ -49379,113 +46232,5 @@ var _status = {
         },
         "Type": "Buff",
         "CanNotDispel": true
-    },
-    "230020101": {
-        "Name": {
-            "CH": "惊喜频道",
-            "EN": "Surprise Channel"
-        },
-        "Modifier": "MModifier_Monster_W3_TV_00_Side1",
-        "Desc": {
-            "CH": "圆幕先生能够使用【惊喜综艺】技能。受到攻击后转变为【惊吓频道】状态。",
-            "EN": "Mr. Domescreen can use the \"Surprise Variety Show\" ability. After it has been attacked, switches to the Fright Channel state."
-        },
-        "CanNotDispel": true
-    },
-    "230020102": {
-        "Name": {
-            "CH": "惊吓频道",
-            "EN": "Fright Channel"
-        },
-        "Modifier": "MModifier_Monster_W3_TV_00_Side2",
-        "Desc": {
-            "CH": "圆幕先生能够使用【惊吓播报】技能。受到攻击后转变为【惊喜频道】状态。",
-            "EN": "Mr. Domescreen can use the \"Startling Broadcast\" ability. After it has been attacked, switches to the Surprise Channel state."
-        },
-        "CanNotDispel": true
-    },
-    "230030104": {
-        "Name": {
-            "CH": "文火",
-            "EN": "Simmer"
-        },
-        "Modifier": "MModifier_Monster_W3_Dinosaur_00_Calm",
-        "Desc": {
-            "CH": "当自身受到攻击或持续伤害时，叠加一层【炉灶加温】。",
-            "EN": "When this unit is attacked or takes DoT, gain 1 stack of Stove Heating."
-        },
-        "CanNotDispel": true
-    },
-    "230030105": {
-        "Name": {
-            "CH": "急火",
-            "EN": "Boil"
-        },
-        "Modifier": "MModifier_Monster_W3_Dinosaur_00_Fury",
-        "Desc": {
-            "CH": "当自身受到攻击或持续伤害时，叠加一层【炉灶加温】。",
-            "EN": "When this unit is attacked or takes DoT, gain 1 stack of Stove Heating."
-        },
-        "CanNotDispel": true
-    },
-    "230120201": {
-        "Name": {
-            "CH": "守备",
-            "EN": "Safeguard"
-        },
-        "Modifier": "MCommon_SuperArmor",
-        "Desc": {
-            "CH": "受到的伤害降低，弱点被击破时解除。弱点被击破时行动额外延后，被击破后受到的伤害提高。",
-            "EN": "Takes less DMG. This effect is removed when Weakness is broken. This unit's action will be delayed further when it is Weakness Broken."
-        },
-        "CanNotDispel": true
-    },
-    "230240201": {
-        "Name": {
-            "CH": "次级燃烧",
-            "EN": "Secondary Combustion"
-        },
-        "Modifier": "Monster_W3_Sam_00_Enhance",
-        "Desc": {
-            "CH": "攻击时消耗生命值，同时速度提高<color style='color:#f29e38;'> [MDF_SpeedUpRatio] </color>且额外获得一次行动。当前还剩<color style='color:#f29e38;'> [MDF_CurrentPoint] </color>点【熔火能量】退出【次级燃烧】。",
-            "EN": "All attacks consume HP. Increases SPD by <color style='color:#f29e38;'>[MDF_SpeedUpRatio]</color> and gains an additional action. When only <color style='color:#f29e38;'>[MDF_CurrentPoint]</color> points of Molten Energy remain, the Secondary Combustion state expires."
-        },
-        "CanNotDispel": true
-    },
-    "230240202": {
-        "Name": {
-            "CH": "弱点无效",
-            "EN": "Weakness Protected"
-        },
-        "Modifier": "Monster_W3_Sam_00_WeakPointProtected",
-        "Desc": {
-            "CH": "进入【次级燃烧】前，萨姆的韧性无法受到伤害。",
-            "EN": "Sam cannot lose Toughness after entering the Secondary Combustion state."
-        },
-        "CanNotDispel": true
-    },
-    "230240203": {
-        "Name": {
-            "CH": "熔火垓心",
-            "EN": "Molten Core"
-        },
-        "Modifier": "Monster_W3_Sam_00_BurningBP",
-        "Desc": {
-            "CH": "我方消耗燃烧的战技点时消耗生命值，同时额外造成等同于原伤害<color style='color:#f29e38;'> [MDF_DamageUpRatio] </color>的固定数值火属性伤害，并且接受其他角色的治疗时，生命值回复量大幅降低。",
-            "EN": "When consuming Combusted Skill Points, the attacking ally loses HP and additionally deals a set amount of Fire DMG equal to <color style='color:#f29e38;'>[MDF_DamageUpRatio]</color> of the original DMG. When they receive healing from other characters, the amount of HP restored is massively reduced."
-        },
-        "CanNotDispel": true
-    },
-    "230240204": {
-        "Name": {
-            "CH": "易伤",
-            "EN": "Vulnerability"
-        },
-        "Modifier": "Monster_W3_Sam_00_TakenDamage",
-        "Desc": {
-            "CH": "受到的伤害提高<color style='color:#f29e38;'> [MDF_DamageTakenUpRatio_PerLayer] </color>，该效果当萨姆从弱点击破状态恢复时解除。",
-            "EN": "Takes <color style='color:#f29e38;'>[MDF_DamageTakenUpRatio_PerLayer]</color> more DMG. This effect expires when Sam recovers from Weakness Break state."
-        },
-        "Type": "Debuff"
     }
 }
