@@ -45,6 +45,8 @@ $(function () {
     var this_weapon_vers = 0
     var this_weapon_cur_ver = 0
 
+    var cur_rarity = '5'
+
     $('container').render({
         template: {
             div: [
@@ -72,6 +74,32 @@ $(function () {
                     class: 'a_w_r'
                 },
                 {
+                    section: [
+                        {
+                            schedule: '★ ★ ★ ★ ★',
+                            class: 'active _r5',
+                            a: {
+                                'data-id': 5
+                            }
+                        },
+                        {
+                            schedule: '★ ★ ★ ★',
+                            class: '_r4',
+                            a: {
+                                'data-id': 4
+                            }
+                        },
+                        {
+                            schedule: '★ ★ ★',
+                            class: '_r3',
+                            a: {
+                                'data-id': 3
+                            }
+                        }
+                    ],
+                    class: 'rar'
+                },
+                {
                     div: [],
                     class: 'area'
                 }
@@ -96,6 +124,27 @@ $(function () {
         } else {
             a_w_r = 3
             listRelic()
+        }
+    })
+
+    $('body').on('click', '.rar schedule', function () {
+        if ($(this).hasClass('active')) {
+            return;
+        }
+        $(this).addClass('active').siblings('schedule').removeClass('active');
+        cur_rarity = $(this).attr('data-id')
+        if (cur_rarity == 3) {
+            $('.rar-3').show()
+            $('.rar-4').hide()
+            $('.rar-5').hide()
+        } else if (cur_rarity == 4) {
+            $('.rar-3').hide()
+            $('.rar-4').show()
+            $('.rar-5').hide()
+        } else {
+            $('.rar-3').hide()
+            $('.rar-4').hide()
+            $('.rar-5').show()
         }
     })
 
@@ -204,7 +253,10 @@ $(function () {
                             ]
                         },
                     ],
-                    class: 'avatar-card hover-shadow',
+                    class: 'avatar-card hover-shadow rar-' + t.Rarity,
+                    style: {
+                        display: (t.Rarity == cur_rarity) ? '' : 'none'
+                    },
                     click: function (p) {
                         popAvatar(i)
                     }
@@ -313,7 +365,10 @@ $(function () {
                             'margin-bottom': '12px'
                         },
                     ],
-                    class: 'avatar-card hover-shadow',
+                    class: 'avatar-card hover-shadow rar-' + t.Rarity,
+                    style: {
+                        display: (t.Rarity == cur_rarity) ? '' : 'none'
+                    },
                     click: function (p) {
                         popWeapon(i)
                     }
