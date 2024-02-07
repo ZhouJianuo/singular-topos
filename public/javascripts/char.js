@@ -1066,7 +1066,7 @@ $(function () {
                 out[k] = k
             }
         })
-        return [out, di[0]]
+        return [out, di[di.length - 1]]
     }
 
     function param(text, params) {
