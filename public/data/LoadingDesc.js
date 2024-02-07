@@ -297,7 +297,7 @@ var _loadingdesc = [
         },
         "Desc": {
             "CH": "「天才俱乐部」#83号会员，空间站的真正主人。<br>智慧过人却毫无同理心的大科学家。",
-            "EN": "Member 83 of the Genius Society, the real master of the space station.<br>An incredibly intelligent yet unsympathetic scientist."
+            "EN": "Member 83 of the Genius Society. The real master of the space station.<br>An incredibly intelligent yet unsympathetic scientist."
         }
     },
     {
@@ -1738,6 +1738,366 @@ var _loadingdesc = [
         "Desc": {
             "CH": "塔伊兹育罗斯，于仇恨与孤独中飞升为「繁育」之星神。<br>接着，一场浩瀚的「虫潮」席卷了宇宙。",
             "EN": "Tayzzyronth, who amidst hatred and solitude ascended to become the Aeon of Propagation.<br>Then, a vast \"Swarm\" swept across the universe."
+        }
+    },
+    {
+        "_id": 10145,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "米沙",
+            "EN": "Misha"
+        },
+        "Desc": {
+            "CH": "「白日梦」酒店的门童，对星穹列车所行的「开拓」之道十分向往。",
+            "EN": "A doorman at The Reverie who takes a keen interest in the Path of Trailblaze upon which the Astral Express strides."
+        }
+    },
+    {
+        "_id": 10146,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "「钟表匠」",
+            "EN": "Watchmaker"
+        },
+        "Desc": {
+            "CH": "匹诺康尼的传奇大亨，被誉为「匹诺康尼之父」，梦境世界的奠基人。<br>然而无人知晓其真身。",
+            "EN": "A legendary figure known as the Father of Penacony and the founder of the Dreamscape.<br>However, his true identity remains a mystery."
+        }
+    },
+    {
+        "_id": 10147,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "星期日",
+            "EN": "Sunday"
+        },
+        "Desc": {
+            "CH": "博爱克己的橡木家系家主，美梦乐园天生的领导者。<br>备受外界瞩目，知更鸟的兄长。",
+            "EN": "The benevolent and revered leader of the Oak Family and Sweetdream Paradise.<br>This powerhouse garners great respect from the outside world and is Robin's elder brother."
+        }
+    },
+    {
+        "_id": 10148,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "知更鸟",
+            "EN": "Robin"
+        },
+        "Desc": {
+            "CH": "闻名银河的歌者，星空舞台天生的主角。<br>以自己的歌声向全宇宙传唱「同谐」的美名。",
+            "EN": "A singer renowned across the cosmos, regarded as the superstar of the Starry Stage.<br>Her captivating voice serenades Harmony to audiences across the universe."
+        }
+    },
+    {
+        "_id": 10149,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "砂金",
+            "EN": "Aventurine"
+        },
+        "Desc": {
+            "CH": "星际和平公司「战略投资部」的高级干部，「石心十人」之一，基石为「诡弈砂金」。<br>时常面带笑容，真心却难以揣测，恪守「风险越大回报越大」的人生信条。",
+            "EN": "A senior manager in the IPC Strategic Investment Department and one of the Ten Stonehearts, known for his cornerstone \"Aventurine of stratagems.\"<br>He always dons a smile that conceals his true intentions and lives by the principle of \"the greater the risk, the greater the reward.\""
+        }
+    },
+    {
+        "_id": 10150,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "流萤",
+            "EN": "Firefly"
+        },
+        "Desc": {
+            "CH": "自称是鸢尾花家系的新人艺者。<br>被猎犬家系成员当作偷渡犯，后为报答开拓者出手解围主动担任导游一职。",
+            "EN": "Claiming herself to be a new artist from the Iris Family.<br>She was initially accused of smuggling by the Bloodhound Family. After Trailblazer offered assistance, she willingly volunteered to serve as a tour guide."
+        }
+    },
+    {
+        "_id": 10151,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "萨姆",
+            "EN": "Sam"
+        },
+        "Desc": {
+            "CH": "星核猎手的成员，身披坚甲的战士。<br>他的机械铠甲能够释放炽焰，点燃战场，发动烈火般的攻势。",
+            "EN": "One of the Stellaron Hunters, a warrior donning formidable armor.<br>The mecha suit possesses the power to unleash fiery attacks, engulfing the battlefield in flames."
+        }
+    },
+    {
+        "_id": 10152,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "黄泉",
+            "EN": "Acheron"
+        },
+        "Desc": {
+            "CH": "冷漠寡言的旅人，与巡海游侠联系紧密。似乎容易忘记重要的事。",
+            "EN": "A reserved and introverted traveler, closely associated with the Galaxy Ranger. Often prone to forgetting important things."
+        }
+    },
+    {
+        "_id": 10153,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "花火",
+            "EN": "Sparkle"
+        },
+        "Desc": {
+            "CH": "假面愚者的成员，热情烂漫却阴晴不定。<br>为了取乐游走在各大派系间，凭一己之力将世界搞得天翻地覆。",
+            "EN": "A member of the Masked Fools, passionate yet unpredictable.<br>She roams between major factions, amusing herself by turning the world upside down on her own."
+        }
+    },
+    {
+        "_id": 10154,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "黑天鹅",
+            "EN": "Black Swan"
+        },
+        "Desc": {
+            "CH": "慵懒神秘的忆者，热衷于收藏各种有趣的记忆。<br>认为命运并非不可捉摸，一切都将成为存在于永恒记忆中的「已知」。",
+            "EN": "A laid-back and enigmatic Memokeeper who collects intriguing memories.<br>She firmly believes that fate is not beyond comprehension and that everything will eventually become \"known\" within the eternal realm of memories."
+        }
+    },
+    {
+        "_id": 10155,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "加拉赫",
+            "EN": "Gallagher"
+        },
+        "Desc": {
+            "CH": "不修边幅的调饮师，也是猎犬家系的治安官。<br>身为匹诺康尼本地人，阅历异常丰富，却很少主动向人提及。",
+            "EN": "A disheveled bartender and a security officer from the Bloodhound Family.<br>A local of Penacony, he possesses an exceptional knowledge base, although he rarely mentions it to others."
+        }
+    },
+    {
+        "_id": 10156,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "钟表小子",
+            "EN": "Clockie"
+        },
+        "Desc": {
+            "CH": "匹诺康尼知名系列动画剧集的主人公，乐观机智，充满活力，也有莽撞冒失的一面。<br>不知为何在梦中的匹诺康尼屡次现身，似乎只有「有童心的人」才能看见他。",
+            "EN": "The protagonist of a popular animated series in Penacony, Clockie embodies optimism, wit, and boundless energy, yet also displays a reckless side.<br>For reasons unknown, Clockie frequently appears in the Dreamscape, visible only to those with a childlike soul."
+        }
+    },
+    {
+        "_id": 10157,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "匹诺康尼（现实）",
+            "EN": "Penacony (Reality)"
+        },
+        "Desc": {
+            "CH": "阿斯德纳星系的巨构建筑，高耸的「白日梦酒店」是其醒目标识。<br>曾经是公司的边陲监狱，如今在家族的建设下成为美梦乐园的大门暨星际交通枢纽。",
+            "EN": "A colossal structure located in the Asdana system, featuring the iconic hotel \"The Reverie\" as its prominent emblem.<br>Once a frontier prison belonging to IPC, it now serves as an interstellar transportation hub and the gateway to the Sweetdream Paradise, managed by The Family."
+        }
+    },
+    {
+        "_id": 10158,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "匹诺康尼（梦境）",
+            "EN": "Penacony (Dreamscape)"
+        },
+        "Desc": {
+            "CH": "川流不息、金碧辉煌的大都会，实为家族对星系联觉梦境精心维护的成果。<br>在「白日梦酒店」入睡后，客人的意识与梦境相连，由此来到「梦中的匹诺康尼」。",
+            "EN": "A magnificent metropolis characterized by a continuous influx of visitors, meticulously maintained by The Family in the Synesthesia Dreamscape.<br>When guests fall asleep at The Reverie, their consciousness becomes linked to the Dreamscape, enabling them to enter the enchanting dream world of Penacony."
+        }
+    },
+    {
+        "_id": 10159,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "「白日梦」酒店",
+            "EN": "The Reverie Hotel"
+        },
+        "Desc": {
+            "CH": "匹诺康尼的地标性建筑，迷幻奢华的顶级星际度假酒店。<br>既为银河中的过客提供休憩之地，也是人们通向享乐主义天堂的唯一入口。",
+            "EN": "A surreal and luxurious intergalactic resort, serving as a prominent landmark in Penacony.<br>It serves as a haven for galactic travelers and stands as the exclusive gateway to the Dreamscape, a hedonistic paradise."
+        }
+    },
+    {
+        "_id": 10160,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "稚子的梦",
+            "EN": "A Child's Dream"
+        },
+        "Desc": {
+            "CH": "不知是从谁人的记忆中切下的薄薄一片。似乎与匹诺康尼某个难见天日的巨大秘密有关。",
+            "EN": "A fragment extracted from someone's memory, presumably connected to a profound secret of Penacony."
+        }
+    },
+    {
+        "_id": 10161,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "茨冈尼亚",
+            "EN": "Sigonia"
+        },
+        "Desc": {
+            "CH": "位于德涅斯-普鲁阡-多瑙三大星系交界地带的无主星区。<br>星区中的天体长期处于多颗恒星星风及游离天体作用下，行星表面气候以极端恶劣著称。",
+            "EN": "An unannexed sector located at the convergence of the Dnies, Pruthian, and Dorneau systems.<br>Celestial objects within this sector constantly endure the relentless assault of stellar winds and stray celestial bodies, resulting in an exceptionally harsh climate on the surface of its planets."
+        }
+    },
+    {
+        "_id": 10162,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "埃维金人",
+            "EN": "Avgin"
+        },
+        "Desc": {
+            "CH": "茨冈尼亚-Ⅳ的原住民之一，精通与悬崖绝壁为伴的生活之道。<br>「埃维金」在茨冈尼亚语中意为「蜂蜜」，用以强调他们钻营取巧、口蜜腹剑的天性。",
+            "EN": "One of the aborigine inhabitants of Sigonia-IV, possessing extensive knowledge of life on cliffs.<br>\"Avgin\" means \"honey\" in the Sigonian language, highlighting their reputation for cunning, persuasive, and treacherous nature."
+        }
+    },
+    {
+        "_id": 10163,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "忆域",
+            "EN": "Memory Zone"
+        },
+        "Desc": {
+            "CH": "由「忆质」凝聚形成的空间，无法对其中的内容进行直接观测，只有「记忆」的命途行者——或使用非正常手段才能在其中来去自如。<br>过去，「神秘」曾在宇宙与忆域的边界凿出大量泄口。",
+            "EN": "A realm created by memoria, inaccessible to direct observation. Only Pathstriders who follow the Path of Remembrance or individuals well-versed in unconventional methods can navigate its boundaries.<br>In the past, the Enigmata caused numerous breaches on the border between realspace and the Memory Zone."
+        }
+    },
+    {
+        "_id": 10164,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "忆质",
+            "EN": "Memoria"
+        },
+        "Desc": {
+            "CH": "人类记忆与意识的载体、质料。若非忆者，直接接触未经处理的忆质将受到不同程度的影响。<br>「忆域」和「忆泡」都是忆质的聚合体，仅有规模大小之分。",
+            "EN": "Memoria serves as a vessel for human memory and consciousness. Individuals who are not Memokeepers may experience varying degrees of negative impact upon direct contact with unprocessed memoria.<br>The Memory Zone and Memory Bubbles both consist of aggregates of memoria, differing only in size."
+        }
+    },
+    {
+        "_id": 10165,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "联觉梦境",
+            "EN": "Synesthesia Dreamscape"
+        },
+        "Desc": {
+            "CH": "一种器质性精神障碍的特殊表现，多发生于与忆质泄口密切相关的星系。<br>无数梦境交错重叠，人们得以在梦中的世界相会，甚至展开全新的生活。",
+            "EN": "A unique manifestation of organic mental disorder, closely linked to memoria breaches.<br>Countless dreams intersect and merge here, enabling individuals to meet in the dream world and even embark on entirely new lives."
+        }
+    },
+    {
+        "_id": 10166,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "谐乐大典",
+            "EN": "Charmony Festival"
+        },
+        "Desc": {
+            "CH": "匹诺康尼一纪一度的重要仪式。<br>传闻当某个世界奏响天体谐乐时，希佩的化身便会降临，为信者与不信者一同降下无私的祝福。",
+            "EN": "A significant ritual in Penacony, occurring only once in each Amber Era.<br>When the Charmony Festival is performed on any planet, Xipe's incarnation will descend to bestow blessings upon both believers and non-believers alike."
+        }
+    },
+    {
+        "_id": 10167,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "梦主",
+            "EN": "Dreammaster"
+        },
+        "Desc": {
+            "CH": "美梦的主人，家族在匹诺康尼分家的真正领导者。<br>通常隐于幕后，美梦的管理工作多交由橡木家系代行。",
+            "EN": "The master of the Dreamscape and the true leader of The Family in Penacony.<br>He operates behind the scenes, pulling the strings, and delegates the majority of actual management to the Oak Family."
+        }
+    },
+    {
+        "_id": 10168,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "钟表把戏",
+            "EN": "Clockwork"
+        },
+        "Desc": {
+            "CH": "钟表小子赋予开拓者的特殊能力。<br>能够让流淌在梦境中的各种情绪回到人们心中。",
+            "EN": "A unique ability bestowed upon Trailblazers by Clockie.<br>With the ability, Trailblazers can channel the various emotions flowing through dreams back to the souls of their owners."
+        }
+    },
+    {
+        "_id": 10169,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "「何物朝向死亡」",
+            "EN": "\"Something Unto Death\""
+        },
+        "Desc": {
+            "CH": "神秘的忆域迷因，据称是人们对「死亡」与「谋杀」恐惧情绪的具现。<br>来无影去无踪，行为逻辑无人能知，已在匹诺康尼的梦境中犯下多起恶性案件。",
+            "EN": "An enigmatic meme in the Memory Zone, believed to be a manifestation of people's fear of death and murder.<br>Highly elusive, it follows unknown behavioral patterns and has committed numerous nefarious murders within the Dreamscape in Penacony."
+        }
+    },
+    {
+        "_id": 10170,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "黄金的时刻",
+            "EN": "Golden Hour"
+        },
+        "Desc": {
+            "CH": "匹诺康尼的十二梦境之一，对应时间为「午夜」。<br>这里的时间永远停留在0点，第二天不会到来，这一夜的狂欢也永远不会结束。",
+            "EN": "One of the twelve Dreamscapes in Penacony, and its time coincides with midnight.<br>Here, the dream's time is forever stuck at 00:00. Tomorrow will not come, and this night of revelry will never end."
+        }
+    },
+    {
+        "_id": 10171,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "美梦剧团",
+            "EN": "Sweet Dreams Troupe"
+        },
+        "Desc": {
+            "CH": "经由家族驯化，用于服务宾客的物品、设施。它们受到梦中情绪影响，获得了自我意识。<br>其中遭到负面情绪影响而形如怪物、四处破坏的被称作「惊梦剧团」。",
+            "EN": "Devices and facilities that have been domesticated by The Family to serve guests. Influenced by the emotions in the Dreamscape, these objects have gained self-awareness.<br>Those affected by negative emotions and having turned into feral monsters are referred to as the Dreamjolt Troupe."
+        }
+    },
+    {
+        "_id": 10172,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "梦泡",
+            "EN": "Dream Bubble"
+        },
+        "Desc": {
+            "CH": "遭到「神秘」力量影响的忆泡，未经雕琢的梦泡通常承载了强烈的情绪感受。<br>在家族的调整下，人们可以安全地将其用于刻录个人梦境，因而成为匹诺康尼最有趣的特产。",
+            "EN": "Memory Bubbles affected by enigmatic forces. Raw Dream Bubbles typically carry intense emotional sentiments.<br>With The Family's adjustment, they can be safely utilized to record personal dreams, making them one of Penacony's most intriguing specialties."
+        }
+    },
+    {
+        "_id": 10173,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "忆域迷因",
+            "EN": "Memory Zone Meme"
+        },
+        "Desc": {
+            "CH": "蕴含特定认知的实体，由忆域中的潜意识碎片堆积而成。<br>不具备智能，只会不断基于自身所承载的认知行事，渴望吞纳更多的记忆。",
+            "EN": "Entities composed of specific perceptions that originate from subconscious fragments within the Memory Zone.<br>Lacking intelligence, they act solely based on the perceptions they carry, driven to consume more memories."
+        }
+    },
+    {
+        "_id": 10174,
+        "Ver": 2.0,
+        "Name": {
+            "CH": "梦境护照",
+            "EN": "Dreamscape Pass"
+        },
+        "Desc": {
+            "CH": "入住匹诺康尼「白日梦酒店」的宾客人手一份的纪念品，内含多种功能。",
+            "EN": "A memento provided to all guests staying at The Reverie Hotel, featuring a range of functions."
         }
     }
 ]

@@ -93,6 +93,20 @@ var _kingdoms = [
         }
     },
     {
+        "_id": 10,
+        "Name": {
+            "CH": "惊梦剧团",
+            "EN": "Dreamjolt Troupe"
+        }
+    },
+    {
+        "_id": 11,
+        "Name": {
+            "CH": "忆域迷因",
+            "EN": "Memory Zone Meme"
+        }
+    },
+    {
         "_id": 7,
         "Name": {
             "CH": "银河",

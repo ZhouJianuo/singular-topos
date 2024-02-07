@@ -2,6 +2,1125 @@
 
 var _fiction = [
     {
+        "_id": 2003,
+        "Name": {
+            "CH": "舌灿莲花",
+            "EN": "An Expression of Eloquence"
+        },
+        "Blessing": {
+            "Name": {
+                "CH": "巧言令色",
+                "EN": "Devious Flattery"
+            },
+            "Desc": {
+                "CH": "我方施放的追加攻击造成伤害后，累计造成的伤害值。当伤害值累计达到 100% 时，对敌方全体造成固定数值的伤害。",
+                "EN": "Accumulate the amount of DMG dealt by follow-up attacks by allies. When this DMG amount reaches 100%, deal a set amount of DMG to all enemies."
+            }
+        },
+        "Buffs": [
+            {
+                "Name": {
+                    "CH": "献谄",
+                    "EN": "Blarney"
+                },
+                "Desc": {
+                    "CH": "角色的追加攻击造成的伤害提高<color style='color:#f29e38;'> 50.0% </color>，且触发【怪诞逸闻】的效果后会额外再触发1次效果。",
+                    "EN": "Characters' follow-up attacks deal <color style='color:#f29e38;'>50.0%</color> increased DMG, and this effect will be triggered 1 additional time after triggering Whimsicality's effect."
+                }
+            },
+            {
+                "Name": {
+                    "CH": "阿谀",
+                    "EN": "Flattery"
+                },
+                "Desc": {
+                    "CH": "施放终结技对敌方目标造成伤害时，被视为发动了追加攻击。",
+                    "EN": "When Ultimate deals DMG to the enemy target, it will be considered as a follow-up attack."
+                }
+            },
+            {
+                "Name": {
+                    "CH": "便侫",
+                    "EN": "Spiel"
+                },
+                "Desc": {
+                    "CH": "角色施放追加攻击击中敌方目标时，我方全体行动提前<color style='color:#f29e38;'> 14.0% </color>。该效果每次攻击只能触发1次。",
+                    "EN": "Whenever a character hits an enemy with a follow-up attack, all allies' actions are Advanced Forward by <color style='color:#f29e38;'>14.0%</color>. This effect can only be triggered once for each attack."
+                }
+            }
+        ],
+        "Floors": [
+            {
+                "Floor": 1,
+                "ElemUpper": [
+                    "Phys",
+                    "Ice"
+                ],
+                "ElemLower": [
+                    "Elec",
+                    "Wind"
+                ],
+                "Targets": [
+                    {
+                        "CH": "获得40000分",
+                        "EN": "Gain 40000 points"
+                    },
+                    {
+                        "CH": "获得50000分",
+                        "EN": "Gain 50000 points"
+                    },
+                    {
+                        "CH": "获得60000分",
+                        "EN": "Gain 60000 points"
+                    }
+                ],
+                "Upper": [
+                    {
+                        "Level": 55,
+                        "Waves": [
+                            {
+                                "KeepNum": 5,
+                                "EliteGroup": {
+                                    "ID": 56,
+                                    "ATK": 0.6
+                                },
+                                "Monsters": [
+                                    {
+                                        "ID": 1002050,
+                                        "Num": 6,
+                                        "Score": 500,
+                                        "HP": 3829,
+                                        "SPD": 100,
+                                        "Stance": 2
+                                    },
+                                    {
+                                        "ID": 1002030,
+                                        "Num": 6,
+                                        "Score": 500,
+                                        "HP": 7310,
+                                        "SPD": 100,
+                                        "Stance": 3
+                                    },
+                                    {
+                                        "ID": 1003010,
+                                        "Num": 1,
+                                        "Score": 4000,
+                                        "HP": 34812,
+                                        "SPD": 120,
+                                        "Stance": 8
+                                    }
+                                ]
+                            },
+                            {
+                                "KeepNum": 5,
+                                "EliteGroup": {
+                                    "ID": 56,
+                                    "ATK": 0.6
+                                },
+                                "Monsters": [
+                                    {
+                                        "ID": 2022060,
+                                        "Num": 4,
+                                        "Score": 500,
+                                        "HP": 7659,
+                                        "SPD": 83,
+                                        "Stance": 3
+                                    },
+                                    {
+                                        "ID": 2002030,
+                                        "Num": 4,
+                                        "Score": 500,
+                                        "HP": 5222,
+                                        "SPD": 120,
+                                        "Stance": 2
+                                    },
+                                    {
+                                        "ID": 800205020,
+                                        "Num": 2,
+                                        "Score": 2000,
+                                        "HP": 15317,
+                                        "SPD": 120,
+                                        "Stance": 3
+                                    },
+                                    {
+                                        "ID": 8001010,
+                                        "Num": 4,
+                                        "Score": 500,
+                                        "HP": 2089,
+                                        "SPD": 83,
+                                        "Stance": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "KeepNum": 5,
+                                "EliteGroup": {
+                                    "ID": 56,
+                                    "ATK": 0.6
+                                },
+                                "Monsters": [
+                                    {
+                                        "ID": 1002050,
+                                        "Num": 12,
+                                        "Score": 500,
+                                        "HP": 6893,
+                                        "SPD": 100,
+                                        "Stance": 2
+                                    },
+                                    {
+                                        "ID": 1002030,
+                                        "Num": 12,
+                                        "Score": 500,
+                                        "HP": 13159,
+                                        "SPD": 100,
+                                        "Stance": 3
+                                    },
+                                    {
+                                        "ID": 1003010,
+                                        "Num": 2,
+                                        "Score": 4000,
+                                        "HP": 62661,
+                                        "SPD": 120,
+                                        "Stance": 8
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "Level": 55,
+                        "Waves": [
+                            {
+                                "KeepNum": 4,
+                                "EliteGroup": {
+                                    "ID": 56,
+                                    "ATK": 0.6
+                                },
+                                "Monsters": [
+                                    {
+                                        "ID": 1012021,
+                                        "Num": 4,
+                                        "Score": 500,
+                                        "HP": 2611,
+                                        "SPD": 83,
+                                        "Stance": 2
+                                    },
+                                    {
+                                        "ID": 1012030,
+                                        "Num": 4,
+                                        "Score": 500,
+                                        "HP": 4874,
+                                        "SPD": 100,
+                                        "Stance": 2
+                                    },
+                                    {
+                                        "ID": 8003040,
+                                        "Num": 1,
+                                        "Score": 4000,
+                                        "HP": 34812,
+                                        "SPD": 172,
+                                        "Stance": 10
+                                    },
+                                    {
+                                        "ID": 8001020,
+                                        "Num": 4,
+                                        "Score": 500,
+                                        "HP": 2089,
+                                        "SPD": 83,
+                                        "Stance": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "KeepNum": 4,
+                                "EliteGroup": {
+                                    "ID": 56,
+                                    "ATK": 0.6
+                                },
+                                "Monsters": [
+                                    {
+                                        "ID": 3002030,
+                                        "Num": 4,
+                                        "Score": 500,
+                                        "HP": 7833,
+                                        "SPD": 100,
+                                        "Stance": 3
+                                    },
+                                    {
+                                        "ID": 3001010,
+                                        "Num": 4,
+                                        "Score": 500,
+                                        "HP": 3481,
+                                        "SPD": 83,
+                                        "Stance": 1
+                                    },
+                                    {
+                                        "ID": 800205021,
+                                        "Num": 2,
+                                        "Score": 2000,
+                                        "HP": 15317,
+                                        "SPD": 120,
+                                        "Stance": 3
+                                    },
+                                    {
+                                        "ID": 3001020,
+                                        "Num": 4,
+                                        "Score": 500,
+                                        "HP": 3481,
+                                        "SPD": 83,
+                                        "Stance": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "KeepNum": 4,
+                                "EliteGroup": {
+                                    "ID": 56,
+                                    "ATK": 0.6
+                                },
+                                "Monsters": [
+                                    {
+                                        "ID": 1012021,
+                                        "Num": 8,
+                                        "Score": 500,
+                                        "HP": 4700,
+                                        "SPD": 83,
+                                        "Stance": 2
+                                    },
+                                    {
+                                        "ID": 1012030,
+                                        "Num": 8,
+                                        "Score": 500,
+                                        "HP": 8773,
+                                        "SPD": 100,
+                                        "Stance": 2
+                                    },
+                                    {
+                                        "ID": 8003040,
+                                        "Num": 2,
+                                        "Score": 4000,
+                                        "HP": 62661,
+                                        "SPD": 172,
+                                        "Stance": 10
+                                    },
+                                    {
+                                        "ID": 8001020,
+                                        "Num": 8,
+                                        "Score": 500,
+                                        "HP": 3760,
+                                        "SPD": 83,
+                                        "Stance": 1
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Floor": 2,
+                "ElemUpper": [
+                    "Fire",
+                    "Quantum"
+                ],
+                "ElemLower": [
+                    "Ice",
+                    "Elec"
+                ],
+                "Targets": [
+                    {
+                        "CH": "获得40000分",
+                        "EN": "Gain 40000 points"
+                    },
+                    {
+                        "CH": "获得50000分",
+                        "EN": "Gain 50000 points"
+                    },
+                    {
+                        "CH": "获得60000分",
+                        "EN": "Gain 60000 points"
+                    }
+                ],
+                "Upper": [
+                    {
+                        "Level": 65,
+                        "Waves": [
+                            {
+                                "KeepNum": 5,
+                                "EliteGroup": {
+                                    "ID": 56,
+                                    "ATK": 0.6
+                                },
+                                "Monsters": [
+                                    {
+                                        "ID": 1022010,
+                                        "Num": 6,
+                                        "Score": 500,
+                                        "HP": 10303,
+                                        "SPD": 100,
+                                        "Stance": 2
+                                    },
+                                    {
+                                        "ID": 8002010,
+                                        "Num": 6,
+                                        "Score": 500,
+                                        "HP": 13050,
+                                        "SPD": 120,
+                                        "Stance": 2
+                                    },
+                                    {
+                                        "ID": 8003010,
+                                        "Num": 1,
+                                        "Score": 4000,
+                                        "HP": 68686,
+                                        "SPD": 100,
+                                        "Stance": 10
+                                    }
+                                ]
+                            },
+                            {
+                                "KeepNum": 5,
+                                "EliteGroup": {
+                                    "ID": 56,
+                                    "ATK": 0.6
+                                },
+                                "Monsters": [
+                                    {
+                                        "ID": 2022010,
+                                        "Num": 4,
+                                        "Score": 500,
+                                        "HP": 8242,
+                                        "SPD": 83,
+                                        "Stance": 2
+                                    },
+                                    {
+                                        "ID": 1002020,
+                                        "Num": 4,
+                                        "Score": 500,
+                                        "HP": 10303,
+                                        "SPD": 100,
+                                        "Stance": 2
+                                    },
+                                    {
+                                        "ID": 800205022,
+                                        "Num": 2,
+                                        "Score": 2000,
+                                        "HP": 30222,
+                                        "SPD": 120,
+                                        "Stance": 3
+                                    },
+                                    {
+                                        "ID": 8001030,
+                                        "Num": 4,
+                                        "Score": 500,
+                                        "HP": 6869,
+                                        "SPD": 100,
+                                        "Stance": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "KeepNum": 5,
+                                "EliteGroup": {
+                                    "ID": 56,
+                                    "ATK": 0.6
+                                },
+                                "Monsters": [
+                                    {
+                                        "ID": 1022010,
+                                        "Num": 12,
+                                        "Score": 500,
+                                        "HP": 20606,
+                                        "SPD": 100,
+                                        "Stance": 2
+                                    },
+                                    {
+                                        "ID": 8002010,
+                                        "Num": 12,
+                                        "Score": 500,
+                                        "HP": 26101,
+                                        "SPD": 120,
+                                        "Stance": 2
+                                    },
+                                    {
+                                        "ID": 8003010,
+                                        "Num": 2,
+                                        "Score": 4000,
+                                        "HP": 137372,
+                                        "SPD": 100,
+                                        "Stance": 10
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "Level": 65,
+                        "Waves": [
+                            {
+                                "KeepNum": 4,
+                                "EliteGroup": {
+                                    "ID": 56,
+                                    "ATK": 0.6
+                                },
+                                "Monsters": [
+                                    {
+                                        "ID": 3012020,
+                                        "Num": 4,
+                                        "Score": 500,
+                                        "HP": 9616,
+                                        "SPD": 100,
+                                        "Stance": 2
+                                    },
+                                    {
+                                        "ID": 2022110,
+                                        "Num": 4,
+                                        "Score": 500,
+                                        "HP": 13737,
+                                        "SPD": 100,
+                                        "Stance": 3
+                                    },
+                                    {
+                                        "ID": 2023030,
+                                        "Num": 1,
+                                        "Score": 4000,
+                                        "HP": 75554,
+                                        "SPD": 120,
+                                        "Stance": 14
+                                    },
+                                    {
+                                        "ID": 8001050,
+                                        "Num": 4,
+                                        "Score": 500,
+                                        "HP": 4121,
+                                        "SPD": 83,
+                                        "Stance": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "KeepNum": 4,
+                                "EliteGroup": {
+                                    "ID": 56,
+                                    "ATK": 0.6
+                                },
+                                "Monsters": [
+                                    {
+                                        "ID": 3002010,
+                                        "Num": 4,
+                                        "Score": 500,
+                                        "HP": 18889,
+                                        "SPD": 100,
+                                        "Stance": 3
+                                    },
+                                    {
+                                        "ID": 8002010,
+                                        "Num": 4,
+                                        "Score": 500,
+                                        "HP": 13050,
+                                        "SPD": 120,
+                                        "Stance": 2
+                                    },
+                                    {
+                                        "ID": 800205023,
+                                        "Num": 2,
+                                        "Score": 2000,
+                                        "HP": 30222,
+                                        "SPD": 120,
+                                        "Stance": 3
+                                    },
+                                    {
+                                        "ID": 3011010,
+                                        "Num": 4,
+                                        "Score": 500,
+                                        "HP": 6869,
+                                        "SPD": 100,
+                                        "Stance": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "KeepNum": 4,
+                                "EliteGroup": {
+                                    "ID": 56,
+                                    "ATK": 0.6
+                                },
+                                "Monsters": [
+                                    {
+                                        "ID": 3012020,
+                                        "Num": 8,
+                                        "Score": 500,
+                                        "HP": 19232,
+                                        "SPD": 100,
+                                        "Stance": 2
+                                    },
+                                    {
+                                        "ID": 2022110,
+                                        "Num": 8,
+                                        "Score": 500,
+                                        "HP": 27474,
+                                        "SPD": 100,
+                                        "Stance": 3
+                                    },
+                                    {
+                                        "ID": 2023030,
+                                        "Num": 2,
+                                        "Score": 4000,
+                                        "HP": 151109,
+                                        "SPD": 120,
+                                        "Stance": 14
+                                    },
+                                    {
+                                        "ID": 8001050,
+                                        "Num": 8,
+                                        "Score": 500,
+                                        "HP": 8242,
+                                        "SPD": 83,
+                                        "Stance": 1
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Floor": 3,
+                "ElemUpper": [
+                    "Phys",
+                    "Fire"
+                ],
+                "ElemLower": [
+                    "Elec",
+                    "Wind"
+                ],
+                "Targets": [
+                    {
+                        "CH": "获得40000分",
+                        "EN": "Gain 40000 points"
+                    },
+                    {
+                        "CH": "获得50000分",
+                        "EN": "Gain 50000 points"
+                    },
+                    {
+                        "CH": "获得60000分",
+                        "EN": "Gain 60000 points"
+                    }
+                ],
+                "Upper": [
+                    {
+                        "Level": 75,
+                        "Waves": [
+                            {
+                                "KeepNum": 5,
+                                "EliteGroup": {
+                                    "ID": 56,
+                                    "ATK": 0.6
+                                },
+                                "Monsters": [
+                                    {
+                                        "ID": 3002030,
+                                        "Num": 6,
+                                        "Score": 500,
+                                        "HP": 25424,
+                                        "SPD": 110,
+                                        "Stance": 3
+                                    },
+                                    {
+                                        "ID": 8012030,
+                                        "Num": 6,
+                                        "Score": 500,
+                                        "HP": 23729,
+                                        "SPD": 110,
+                                        "Stance": 3
+                                    },
+                                    {
+                                        "ID": 300302001,
+                                        "Num": 1,
+                                        "Score": 4000,
+                                        "HP": 203389,
+                                        "SPD": 158,
+                                        "Stance": 10
+                                    }
+                                ]
+                            },
+                            {
+                                "KeepNum": 5,
+                                "EliteGroup": {
+                                    "ID": 56,
+                                    "ATK": 0.6
+                                },
+                                "Monsters": [
+                                    {
+                                        "ID": 1022010,
+                                        "Num": 4,
+                                        "Score": 500,
+                                        "HP": 16949,
+                                        "SPD": 110,
+                                        "Stance": 2
+                                    },
+                                    {
+                                        "ID": 8002010,
+                                        "Num": 4,
+                                        "Score": 500,
+                                        "HP": 21469,
+                                        "SPD": 132,
+                                        "Stance": 2
+                                    },
+                                    {
+                                        "ID": 800205024,
+                                        "Num": 2,
+                                        "Score": 2000,
+                                        "HP": 49717,
+                                        "SPD": 128,
+                                        "Stance": 3
+                                    },
+                                    {
+                                        "ID": 8001020,
+                                        "Num": 4,
+                                        "Score": 500,
+                                        "HP": 6780,
+                                        "SPD": 91,
+                                        "Stance": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "KeepNum": 5,
+                                "EliteGroup": {
+                                    "ID": 56,
+                                    "ATK": 0.6
+                                },
+                                "Monsters": [
+                                    {
+                                        "ID": 3002030,
+                                        "Num": 12,
+                                        "Score": 500,
+                                        "HP": 50847,
+                                        "SPD": 110,
+                                        "Stance": 3
+                                    },
+                                    {
+                                        "ID": 8012030,
+                                        "Num": 12,
+                                        "Score": 500,
+                                        "HP": 47458,
+                                        "SPD": 110,
+                                        "Stance": 3
+                                    },
+                                    {
+                                        "ID": 300302001,
+                                        "Num": 2,
+                                        "Score": 4000,
+                                        "HP": 406779,
+                                        "SPD": 158,
+                                        "Stance": 10
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "Level": 75,
+                        "Waves": [
+                            {
+                                "KeepNum": 4,
+                                "EliteGroup": {
+                                    "ID": 56,
+                                    "ATK": 0.6
+                                },
+                                "Monsters": [
+                                    {
+                                        "ID": 3002030,
+                                        "Num": 4,
+                                        "Score": 500,
+                                        "HP": 25424,
+                                        "SPD": 110,
+                                        "Stance": 3
+                                    },
+                                    {
+                                        "ID": 3002010,
+                                        "Num": 4,
+                                        "Score": 500,
+                                        "HP": 31073,
+                                        "SPD": 110,
+                                        "Stance": 3
+                                    },
+                                    {
+                                        "ID": 3003010,
+                                        "Num": 1,
+                                        "Score": 4000,
+                                        "HP": 203389,
+                                        "SPD": 110,
+                                        "Stance": 16
+                                    },
+                                    {
+                                        "ID": 3001010,
+                                        "Num": 4,
+                                        "Score": 500,
+                                        "HP": 11299,
+                                        "SPD": 91,
+                                        "Stance": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "KeepNum": 4,
+                                "EliteGroup": {
+                                    "ID": 56,
+                                    "ATK": 0.6
+                                },
+                                "Monsters": [
+                                    {
+                                        "ID": 1012021,
+                                        "Num": 4,
+                                        "Score": 500,
+                                        "HP": 8475,
+                                        "SPD": 91,
+                                        "Stance": 2
+                                    },
+                                    {
+                                        "ID": 1012010,
+                                        "Num": 4,
+                                        "Score": 500,
+                                        "HP": 15819,
+                                        "SPD": 110,
+                                        "Stance": 2
+                                    },
+                                    {
+                                        "ID": 800205025,
+                                        "Num": 2,
+                                        "Score": 2000,
+                                        "HP": 49717,
+                                        "SPD": 128,
+                                        "Stance": 3
+                                    },
+                                    {
+                                        "ID": 8001040,
+                                        "Num": 4,
+                                        "Score": 500,
+                                        "HP": 6780,
+                                        "SPD": 91,
+                                        "Stance": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "KeepNum": 4,
+                                "EliteGroup": {
+                                    "ID": 56,
+                                    "ATK": 0.6
+                                },
+                                "Monsters": [
+                                    {
+                                        "ID": 3002030,
+                                        "Num": 8,
+                                        "Score": 500,
+                                        "HP": 50847,
+                                        "SPD": 110,
+                                        "Stance": 3
+                                    },
+                                    {
+                                        "ID": 3002010,
+                                        "Num": 8,
+                                        "Score": 500,
+                                        "HP": 62147,
+                                        "SPD": 110,
+                                        "Stance": 3
+                                    },
+                                    {
+                                        "ID": 3003010,
+                                        "Num": 2,
+                                        "Score": 4000,
+                                        "HP": 406779,
+                                        "SPD": 110,
+                                        "Stance": 16
+                                    },
+                                    {
+                                        "ID": 3001010,
+                                        "Num": 8,
+                                        "Score": 500,
+                                        "HP": 22599,
+                                        "SPD": 91,
+                                        "Stance": 1
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Floor": 4,
+                "ElemUpper": [
+                    "Fire",
+                    "Ice"
+                ],
+                "ElemLower": [
+                    "Elec",
+                    "Imaginary"
+                ],
+                "Targets": [
+                    {
+                        "CH": "获得40000分",
+                        "EN": "Gain 40000 points"
+                    },
+                    {
+                        "CH": "获得50000分",
+                        "EN": "Gain 50000 points"
+                    },
+                    {
+                        "CH": "获得60000分",
+                        "EN": "Gain 60000 points"
+                    }
+                ],
+                "Upper": [
+                    {
+                        "Level": 85,
+                        "Waves": [
+                            {
+                                "KeepNum": 5,
+                                "EliteGroup": {
+                                    "ID": 56,
+                                    "ATK": 0.6
+                                },
+                                "Monsters": [
+                                    {
+                                        "ID": 1002020,
+                                        "Num": 6,
+                                        "Score": 500,
+                                        "HP": 26263,
+                                        "SPD": 120,
+                                        "Stance": 2
+                                    },
+                                    {
+                                        "ID": 3012020,
+                                        "Num": 6,
+                                        "Score": 500,
+                                        "HP": 24512,
+                                        "SPD": 120,
+                                        "Stance": 2
+                                    },
+                                    {
+                                        "ID": 8003050,
+                                        "Num": 1,
+                                        "Score": 4000,
+                                        "HP": 192594,
+                                        "SPD": 120,
+                                        "Stance": 10
+                                    }
+                                ]
+                            },
+                            {
+                                "KeepNum": 5,
+                                "EliteGroup": {
+                                    "ID": 56,
+                                    "ATK": 0.6
+                                },
+                                "Monsters": [
+                                    {
+                                        "ID": 8032020,
+                                        "Num": 6,
+                                        "Score": 500,
+                                        "HP": 38519,
+                                        "SPD": 120,
+                                        "Stance": 3
+                                    },
+                                    {
+                                        "ID": 8032010,
+                                        "Num": 6,
+                                        "Score": 500,
+                                        "HP": 28014,
+                                        "SPD": 142,
+                                        "Stance": 2
+                                    },
+                                    {
+                                        "ID": 800205026,
+                                        "Num": 2,
+                                        "Score": 2000,
+                                        "HP": 77037,
+                                        "SPD": 137,
+                                        "Stance": 3
+                                    }
+                                ]
+                            },
+                            {
+                                "KeepNum": 5,
+                                "EliteGroup": {
+                                    "ID": 56,
+                                    "ATK": 0.6
+                                },
+                                "Monsters": [
+                                    {
+                                        "ID": 2022070,
+                                        "Num": 6,
+                                        "Score": 500,
+                                        "HP": 56027,
+                                        "SPD": 120,
+                                        "Stance": 3
+                                    },
+                                    {
+                                        "ID": 2022080,
+                                        "Num": 12,
+                                        "Score": 500,
+                                        "HP": 70034,
+                                        "SPD": 144,
+                                        "Stance": 3
+                                    },
+                                    {
+                                        "ID": 2024014,
+                                        "Num": 1,
+                                        "Score": 8000,
+                                        "HP": 962968,
+                                        "SPD": 138,
+                                        "Stance": 14
+                                    },
+                                    {
+                                        "ID": 2022090,
+                                        "Num": 6,
+                                        "Score": 500,
+                                        "HP": 70034,
+                                        "SPD": 120,
+                                        "Stance": 3
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "Level": 85,
+                        "Waves": [
+                            {
+                                "KeepNum": 4,
+                                "EliteGroup": {
+                                    "ID": 56,
+                                    "ATK": 0.6
+                                },
+                                "Monsters": [
+                                    {
+                                        "ID": 1012030,
+                                        "Num": 4,
+                                        "Score": 500,
+                                        "HP": 24512,
+                                        "SPD": 120,
+                                        "Stance": 2
+                                    },
+                                    {
+                                        "ID": 2012010,
+                                        "Num": 4,
+                                        "Score": 500,
+                                        "HP": 26263,
+                                        "SPD": 120,
+                                        "Stance": 2
+                                    },
+                                    {
+                                        "ID": 1023010,
+                                        "Num": 1,
+                                        "Score": 4000,
+                                        "HP": 192594,
+                                        "SPD": 120,
+                                        "Stance": 10
+                                    },
+                                    {
+                                        "ID": 2011020,
+                                        "Num": 4,
+                                        "Score": 500,
+                                        "HP": 15758,
+                                        "SPD": 100,
+                                        "Stance": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "KeepNum": 4,
+                                "EliteGroup": {
+                                    "ID": 56,
+                                    "ATK": 0.6
+                                },
+                                "Monsters": [
+                                    {
+                                        "ID": 3002010,
+                                        "Num": 4,
+                                        "Score": 500,
+                                        "HP": 48148,
+                                        "SPD": 120,
+                                        "Stance": 3
+                                    },
+                                    {
+                                        "ID": 3002030,
+                                        "Num": 4,
+                                        "Score": 500,
+                                        "HP": 39394,
+                                        "SPD": 120,
+                                        "Stance": 3
+                                    },
+                                    {
+                                        "ID": 800205027,
+                                        "Num": 2,
+                                        "Score": 2000,
+                                        "HP": 77037,
+                                        "SPD": 137,
+                                        "Stance": 3
+                                    },
+                                    {
+                                        "ID": 3001020,
+                                        "Num": 4,
+                                        "Score": 500,
+                                        "HP": 17509,
+                                        "SPD": 100,
+                                        "Stance": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "KeepNum": 5,
+                                "EliteGroup": {
+                                    "ID": 56,
+                                    "ATK": 0.6
+                                },
+                                "Monsters": [
+                                    {
+                                        "ID": 202402004,
+                                        "Num": 1,
+                                        "Score": 8000,
+                                        "HP": 525255,
+                                        "SPD": 120,
+                                        "Stance": 0
+                                    },
+                                    {
+                                        "ID": 2012010,
+                                        "Num": 12,
+                                        "Score": 500,
+                                        "HP": 52526,
+                                        "SPD": 120,
+                                        "Stance": 2
+                                    },
+                                    {
+                                        "ID": 2022110,
+                                        "Num": 12,
+                                        "Score": 500,
+                                        "HP": 70034,
+                                        "SPD": 120,
+                                        "Stance": 3
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "_id": 2002,
         "Name": {
             "CH": "羁鸟奇谭",
@@ -13,8 +1132,8 @@ var _fiction = [
                 "EN": "Sharp Words, Blunt Knife"
             },
             "Desc": {
-                "CH": "敌方目标受到的持续伤害提高<color style='color:#f29e38;'> 50.0% </color>。持有持续伤害状态的敌方目标造成的伤害大幅降低<color style='color:#f29e38;'> 35.0% </color>，被攻击后行动提前<color style='color:#f29e38;'> 35.0% </color>。",
-                "EN": "Increases DoT taken by enemies by <color style='color:#f29e38;'>50.0%</color>. The DMG dealt by enemies with DoT is massively reduced by <color style='color:#f29e38;'>35.0%</color> and their action will be Advanced Forward by <color style='color:#f29e38;'>35.0%</color> after being attacked."
+                "CH": "敌方目标受到的持续伤害提高<color style='color:#f29e38;'> 50.0% </color>。受到持续伤害的敌方目标造成的伤害降低<color style='color:#f29e38;'> 35.0% </color>，被攻击后行动提前<color style='color:#f29e38;'> 35.0% </color>。",
+                "EN": "Increases DoT taken by enemy targets by <color style='color:#f29e38;'>50.0%</color>. Enemy targets that receive DoT have their DMG dealt reduced by <color style='color:#f29e38;'>35.0%</color>. After they are attacked, their action is Advanced Forward by <color style='color:#f29e38;'>35.0%</color>."
             }
         },
         "Buffs": [
@@ -1160,8 +2279,8 @@ var _fiction = [
                     "EN": "Erupt"
                 },
                 "Desc": {
-                    "CH": "我方施放终结技攻击敌方目标时，将为目标额外附上1层【爆裂】。",
-                    "EN": "When allies use an Ultimate to attack enemy targets, additionally inflicts 1 stack of Shatter to the target."
+                    "CH": "我方施放终结技攻击敌方目标后，将为目标附上2层【爆裂】。",
+                    "EN": "When allies use an Ultimate to attack targets, inflicts 2 stacks of Shatter to the target."
                 }
             },
             {
@@ -2284,6 +3403,14 @@ var _fiction = [
 
 var _fictionschedule = [
     {
+        "_id": 2003,
+        "Name": {
+            "CH": "舌灿莲花",
+            "EN": "An Expression of Eloquence"
+        },
+        "Time": "2024/03/04 - 2024/04/15"
+    },
+    {
         "_id": 2002,
         "Name": {
             "CH": "羁鸟奇谭",
@@ -2306,85 +3433,102 @@ var _fictionhp = {
         "Name": {
             "CH": [
                 "游辞漫说",
-                "羁鸟奇谭"
+                "羁鸟奇谭",
+                "舌灿莲花"
             ],
             "EN": [
                 "Youci's Wandering Words",
-                "Tales of a Tethered Bird"
+                "Tales of a Tethered Bird",
+                "An Expression of Eloquence"
             ]
         },
         "HP": [
             1101866,
-            1057724
+            1057724,
+            984202
         ],
         "Index": {
             "2001": 0,
-            "2002": 1
+            "2002": 1,
+            "2003": 2
         }
     },
     "2": {
         "Name": {
             "CH": [
                 "游辞漫说",
-                "羁鸟奇谭"
+                "羁鸟奇谭",
+                "舌灿莲花"
             ],
             "EN": [
                 "Youci's Wandering Words",
-                "Tales of a Tethered Bird"
+                "Tales of a Tethered Bird",
+                "An Expression of Eloquence"
             ]
         },
         "HP": [
             2268004,
-            2079805
+            2079805,
+            2349053
         ],
         "Index": {
             "2001": 0,
-            "2002": 1
+            "2002": 1,
+            "2003": 2
         }
     },
     "3": {
         "Name": {
             "CH": [
                 "游辞漫说",
-                "羁鸟奇谭"
+                "羁鸟奇谭",
+                "舌灿莲花"
             ],
             "EN": [
                 "Youci's Wandering Words",
-                "Tales of a Tethered Bird"
+                "Tales of a Tethered Bird",
+                "An Expression of Eloquence"
             ]
         },
         "HP": [
             4237281,
-            3566096
+            3566096,
+            5368352
         ],
         "Index": {
             "2001": 0,
-            "2002": 1
+            "2002": 1,
+            "2003": 2
         }
     },
     "4": {
         "Name": {
             "CH": [
                 "游辞漫说",
-                "羁鸟奇谭"
+                "羁鸟奇谭",
+                "舌灿莲花"
             ],
             "EN": [
                 "Youci's Wandering Words",
-                "Tales of a Tethered Bird"
+                "Tales of a Tethered Bird",
+                "An Expression of Eloquence"
             ]
         },
         "HP": [
             5931885,
-            6282615
+            6282615,
+            6639229
         ],
         "Index": {
             "2001": 0,
-            "2002": 1
+            "2002": 1,
+            "2003": 2
         }
     }
 }
 
 var _fictiondict = {
     "2001": -1,
-    "2002": -2
+    "2002": -2,
+    "2003": -3
 }

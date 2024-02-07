@@ -2,7 +2,7 @@
 
 var _achievementdata = [
     2.0,
-    620,
+    716,
     1.6,
     620
 ]
@@ -8698,6 +8698,1350 @@ var _achievement = [
             "EN": "In Simulated Universe: Gold and Gears, use Ultimate 10.0 times in succession"
         },
         "Reward": 5
+    },
+    {
+        "_id": 4043001,
+        "Ver": 2.0,
+        "Series": 4,
+        "Name": {
+            "CH": "天堂的这一边",
+            "EN": "This Side of Paradise"
+        },
+        "Desc": {
+            "CH": "在匹诺康尼激活 15.0 次界域定锚",
+            "EN": "Activate Space Anchors 15.0 times in Penacony."
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4043002,
+        "Ver": 2.0,
+        "Series": 4,
+        "Name": {
+            "CH": "匹诺康尼梦",
+            "EN": "Penacony Dreams"
+        },
+        "Desc": {
+            "CH": "开启 120.0 次匹诺康尼战利品",
+            "EN": "Open Treasures 120.0 times in Penacony."
+        },
+        "Reward": 10
+    },
+    {
+        "_id": 4043003,
+        "Ver": 2.0,
+        "Series": 4,
+        "Name": {
+            "CH": "太空漫步",
+            "EN": "\"Space Walk\""
+        },
+        "Desc": {
+            "CH": "完成「屠场」任务，查清梦境酒店背后的真相",
+            "EN": "Complete the mission \"Slaughterhouse\" and uncover the truth within the hotel in the Dreamscape."
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4043004,
+        "Ver": 2.0,
+        "Series": 4,
+        "Name": {
+            "CH": "啾？",
+            "EN": "Chirp?"
+        },
+        "Desc": {
+            "CH": "帮助 1.0 只折纸小鸟回到「大树」",
+            "EN": "Help 1.0 Origami Bird(s) return to the Great Tree."
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4043005,
+        "Ver": 2.0,
+        "Series": 4,
+        "Name": {
+            "CH": "啾啾啾！",
+            "EN": "Chirp! Chirp!"
+        },
+        "Desc": {
+            "CH": "帮助 60.0 只折纸小鸟回到「大树」",
+            "EN": "Help 60.0 Origami Bird(s) return to the Great Tree."
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4043006,
+        "Ver": 2.0,
+        "Series": 4,
+        "Name": {
+            "CH": "永远与时间同步",
+            "EN": "Always Sync With Time"
+        },
+        "Desc": {
+            "CH": "修复 15.0 个梦境迷钟",
+            "EN": "Fix 15.0 Dream Tickers."
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4043007,
+        "Ver": 2.0,
+        "Series": 4,
+        "Name": {
+            "CH": "谁人的梦？",
+            "EN": "Whose Dream Is It?"
+        },
+        "Desc": {
+            "CH": "首次见证稚子梦中的神秘奇观",
+            "EN": "Witness the mysterious wonders in the child's dream for the first time."
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4083001,
+        "Ver": 2.0,
+        "Series": 8,
+        "Name": {
+            "CH": "摩擦，摩擦",
+            "EN": "Friction, Friction"
+        },
+        "Desc": {
+            "CH": "通过梦客漫步能力在同一条梦泡桥梁上来回通过多次",
+            "EN": "Traverse the same Bubble Bridge multiple times using the Dreamwalker ability"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053001,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "请勿摇晃汽水",
+            "EN": "Don't Shake Your Soda"
+        },
+        "Desc": {
+            "CH": "首次使用气泡弹珠",
+            "EN": "Use the Bubble Pinball for the first time"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4043008,
+        "Ver": 2.0,
+        "Series": 4,
+        "Name": {
+            "CH": "集异璧",
+            "EN": "Eternal Golden Braid"
+        },
+        "Desc": {
+            "CH": "首次通过筑梦遥眼拼凑出不可能的道路，并通过它",
+            "EN": "Use the Dream's Eye to forge the impossible path and traverse it."
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4043009,
+        "Ver": 2.0,
+        "Series": 4,
+        "Name": {
+            "CH": "画中世界",
+            "EN": "Pictorial World"
+        },
+        "Desc": {
+            "CH": "通过筑梦拼图获得 10.0 次奖励",
+            "EN": "Earn rewards 10.0 times from the Dream Jigsaw."
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4083002,
+        "Ver": 2.0,
+        "Series": 8,
+        "Name": {
+            "CH": "视差怪",
+            "EN": "Parallax"
+        },
+        "Desc": {
+            "CH": "在2.0分钟内与筑梦遥眼装置交互5.0次以上",
+            "EN": "Interact with the Dream's Eye 5.0 or more times within 2.0 minutes"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4083003,
+        "Ver": 2.0,
+        "Series": 8,
+        "Name": {
+            "CH": "鸟为什么会飞？",
+            "EN": "Why Do Birds Fly?"
+        },
+        "Desc": {
+            "CH": "在1.0分钟内与控制筑梦模块的鸟型装置交互5.0次以上",
+            "EN": "Interact with the bird-shaped device controlling Dream Modules 5.0 or more times within 1.0 minutes"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4083004,
+        "Ver": 2.0,
+        "Series": 8,
+        "Name": {
+            "CH": "彭罗斯三角",
+            "EN": "Penrose Triangle"
+        },
+        "Desc": {
+            "CH": "通过调整视角拼凑出筑梦边境的「彭罗斯三角」",
+            "EN": "Adjust your perspective and form the Penrose Triangle at the Dream's Edge"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4043010,
+        "Ver": 2.0,
+        "Series": 4,
+        "Name": {
+            "CH": "Fly me 2 the balloon",
+            "EN": "FlyMe2theBaloon"
+        },
+        "Desc": {
+            "CH": "打破黄金的时刻中的特殊石头先生气球",
+            "EN": "Break the special Mr. Stone balloon in the Golden Hour."
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4043011,
+        "Ver": 2.0,
+        "Series": 4,
+        "Name": {
+            "CH": "气球学园2",
+            "EN": "Balloon Gakuen 2"
+        },
+        "Desc": {
+            "CH": "打破筑梦边境中的特殊石头先生气球",
+            "EN": "Break the special Mr. Stone balloon at the Dream's Edge."
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4043012,
+        "Ver": 2.0,
+        "Series": 4,
+        "Name": {
+            "CH": "气球3",
+            "EN": "Balloon Impact 3rd"
+        },
+        "Desc": {
+            "CH": "打破稚子的梦中的特殊石头先生气球",
+            "EN": "Break the special Mr. Stone balloon in \"A Child's Dream.\""
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4043013,
+        "Ver": 2.0,
+        "Series": 4,
+        "Name": {
+            "CH": "气球：匹诺康尼",
+            "EN": "Penacony: Balloon Rail"
+        },
+        "Desc": {
+            "CH": "打破「白日梦」酒店-梦境中的特殊石头先生气球",
+            "EN": "Break the special Mr. Stone balloon in The Reverie (Dreamscape)"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4043014,
+        "Ver": 2.0,
+        "Series": 4,
+        "Name": {
+            "CH": "年满十八",
+            "EN": "I'm a Grown-up!"
+        },
+        "Desc": {
+            "CH": "首次来到「惊梦酒吧」",
+            "EN": "Arrive at the Dreamjolt Hostelry for the first time."
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4043015,
+        "Ver": 2.0,
+        "Series": 4,
+        "Name": {
+            "CH": "所有悲伤的年轻人",
+            "EN": "All the Sad Young Men"
+        },
+        "Desc": {
+            "CH": "首次进入某个「白日梦」酒店-现实中的「特殊客房」",
+            "EN": "Enter the special hotel room in The Reverie (Reality) for the first time"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4043016,
+        "Ver": 2.0,
+        "Series": 4,
+        "Name": {
+            "CH": "面面俱到",
+            "EN": "Jack of All Trades"
+        },
+        "Desc": {
+            "CH": "通过梦客漫步能力首次走上梦泡桥梁",
+            "EN": "Walk onto the Bubble Bridge using the Dreamwalker ability for the first time."
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4073001,
+        "Ver": 2.0,
+        "Series": 7,
+        "Name": {
+            "CH": "晚安厨房",
+            "EN": "Good Night Kitchen"
+        },
+        "Desc": {
+            "CH": "单次战斗中，利用惊梦剧团的十七分熟施放的「厨房事故」消灭至少两个敌人",
+            "EN": "Defeat at least 2 enemies using \"Kitchen Mishap\" from Dreamjolt Troupe's Beyond Overcooked in a single battle"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4073002,
+        "Ver": 2.0,
+        "Series": 7,
+        "Name": {
+            "CH": "全民欢乐秀",
+            "EN": "National Sensation"
+        },
+        "Desc": {
+            "CH": "单次战斗中，使 3.0 个连续的惊梦剧团的圆幕先生都进入「惊喜频道」状态",
+            "EN": "Switch 3.0 Dreamjolt Troupe's Mr. Domescreens to the Surprise Channel consecutively in a single battle"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4073003,
+        "Ver": 2.0,
+        "Series": 7,
+        "Name": {
+            "CH": "有害垃圾",
+            "EN": "Hazardous Waste"
+        },
+        "Desc": {
+            "CH": "战斗中1.0名我方角色被王下一桶击败",
+            "EN": "Have 1.0 allies get defeated by the Lordly Trashcan"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4073004,
+        "Ver": 2.0,
+        "Series": 7,
+        "Name": {
+            "CH": "万般皆注定",
+            "EN": "All Is Predestined"
+        },
+        "Desc": {
+            "CH": "黑天鹅施放秘技「取此真相，弃舍表征」进入战斗时，累计使敌方目标陷入大于等于20.0层「奥迹」",
+            "EN": "Inflict at least 20.0 stacks of Arcana on enemies when Black Swan uses her Technique \"From Façade to Vérité\" and enters a battle"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4073005,
+        "Ver": 2.0,
+        "Series": 7,
+        "Name": {
+            "CH": "对、对、对、对不起",
+            "EN": "I... I... I'm So Sorry!"
+        },
+        "Desc": {
+            "CH": "米沙施放终结技「要…要迟到了！」时，单次攻击同时使至少4.0个不同的敌人陷入冻结状态",
+            "EN": "When Misha uses Ultimate \"G—Gonna Be Late!\", freeze at least 4.0 enemies with a single attack"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4073006,
+        "Ver": 2.0,
+        "Series": 7,
+        "Name": {
+            "CH": "打上花火",
+            "EN": "Sparkling Sparkle"
+        },
+        "Desc": {
+            "CH": "单场战斗中，使用花火的终结技「一人千役」共计获得20.0个战技点",
+            "EN": "Gain 20.0 Skill Points using Sparkle's Ultimate \"The Hero with a Thousand Faces\" in a single battle"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4073007,
+        "Ver": 2.0,
+        "Series": 7,
+        "Name": {
+            "CH": "持续断糖",
+            "EN": "Withdrawal from Sweets"
+        },
+        "Desc": {
+            "CH": "单次战斗中，使用护盾反弹同一惊梦剧团的甜猿泰山扔出的10.0个汽水瓶",
+            "EN": "Rebound 10.0 Soda Bottle(s) thrown by Dreamjolt Troupe's Sweet Gorilla with a Shield in a single battle"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4073008,
+        "Ver": 2.0,
+        "Series": 7,
+        "Name": {
+            "CH": "存在朝向死亡",
+            "EN": "Memento Mori"
+        },
+        "Desc": {
+            "CH": "在只有一人可以行动的情况下击败忆域迷因「何物朝向死亡」",
+            "EN": "Defeat the Memory Zone meme \"Something Unto Death\" with only one character able to take action"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4073009,
+        "Ver": 2.0,
+        "Series": 7,
+        "Name": {
+            "CH": "安静燃烧",
+            "EN": "Quiet Burning"
+        },
+        "Desc": {
+            "CH": "在与「星核猎手」萨姆的战斗中，敌方萨姆进入「次级燃烧」后没有使用「DHGDR-超新星过载」就解除该状态",
+            "EN": "During the battle against Stellaron Hunter Sam, Sam did not use \"DHGDR: Supernova Overload\" when their Secondary Combustion state is dispelled"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4073010,
+        "Ver": 2.0,
+        "Series": 7,
+        "Name": {
+            "CH": "燃我心火，焚尽其身",
+            "EN": "Ignite My Heart, Inflame My Flesh"
+        },
+        "Desc": {
+            "CH": "在和「星核猎手」萨姆的战斗中，使用燃烧的战技点使我方1.0名角色的生命值低于5.0%",
+            "EN": "During the battle against Stellaron Hunter Sam, use Skill Points with the Combustion effect to reduce 1.0 allies' HP to below 5.0%"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4043017,
+        "Ver": 2.0,
+        "Series": 4,
+        "Name": {
+            "CH": "与狼同行",
+            "EN": "Walks with Wolves"
+        },
+        "Desc": {
+            "CH": "收集《小小哈努行动•上篇》全集",
+            "EN": "Collect the complete <i>Hanu's Adventure (Part 1)</i> collection"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4043018,
+        "Ver": 2.0,
+        "Series": 4,
+        "Name": {
+            "CH": "让敌人高估你的缺点",
+            "EN": "Lie in Wait"
+        },
+        "Desc": {
+            "CH": "在「小小哈努行动」中推下的重物没有砸到怪物",
+            "EN": "Push down objects in Hanu's Adventure without hitting any enemies."
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4043019,
+        "Ver": 2.0,
+        "Series": 4,
+        "Name": {
+            "CH": "抵达逃逸速度",
+            "EN": "Escape Velocity Reached"
+        },
+        "Desc": {
+            "CH": "在「小小哈努行动」中的火箭传送时间超过4.0秒",
+            "EN": "The rocket teleportation in Hanu's Adventure lasts more than 4.0 seconds."
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4043020,
+        "Ver": 2.0,
+        "Series": 4,
+        "Name": {
+            "CH": "警戒度 100% ",
+            "EN": "100% Alertness"
+        },
+        "Desc": {
+            "CH": "在「小小哈努行动」中死里逃生",
+            "EN": "Survive in Hanu's Adventure"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053002,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "向着明亮的那方",
+            "EN": "Towards the Brighter Side"
+        },
+        "Desc": {
+            "CH": "哪怕生活充满痛苦，也绝不放手",
+            "EN": "Hold on to your life, even in the face of adversity"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053003,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "他也在这阳光下长大",
+            "EN": "He Grew Up Under This Sunshine"
+        },
+        "Desc": {
+            "CH": "或许…放手也是正确的选择",
+            "EN": "Perhaps... it is time to let it go"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053004,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "伊甸园之东",
+            "EN": "East of Eden"
+        },
+        "Desc": {
+            "CH": "见证一位转瞬即逝的银河巨星的故事",
+            "EN": "Witness the story of a fleeting cosmic superstar"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053005,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "罪与罚",
+            "EN": "Crime and Punishment"
+        },
+        "Desc": {
+            "CH": "见证一位「好人」的故事",
+            "EN": "Witness the story of a \"good person\""
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053006,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "舞会进行时",
+            "EN": "The Dance Is On"
+        },
+        "Desc": {
+            "CH": "完成同行任务「假面双人舞」",
+            "EN": "Complete the Companion Mission \"Masquerade Duet\""
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053007,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "保护人者是前世所修善行",
+            "EN": "The Good Deeds a Man Has Done"
+        },
+        "Desc": {
+            "CH": "见证一位科学家挣扎曲折的一生",
+            "EN": "Witness the struggling life of a scientist"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053008,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "虚构动物学家",
+            "EN": "Zoologist in Fiction"
+        },
+        "Desc": {
+            "CH": "驱散5.0座猎犬雕像",
+            "EN": "Dispel 5.0 Hound Statue(s)"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053009,
+        "Ver": 2.0,
+        "Series": 8,
+        "Name": {
+            "CH": "千爵时代的故事",
+            "EN": "Tales of a Card Shark"
+        },
+        "Desc": {
+            "CH": "通过作弊的方式赢得「幸运转盘」的特殊奖励",
+            "EN": "Win the special reward in Lucky Wheel by cheating"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053010,
+        "Ver": 2.0,
+        "Series": 8,
+        "Name": {
+            "CH": "如脆筒般脆弱",
+            "EN": "As Fragile as Crisp Cone"
+        },
+        "Desc": {
+            "CH": "使用消耗品「美梦脆筒」后，对错误的敌方目标施放技能",
+            "EN": "After using the consumable Dreamy Cone, cast a skill on the wrong target."
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053011,
+        "Ver": 2.0,
+        "Series": 8,
+        "Name": {
+            "CH": "精神分析学入门",
+            "EN": "Introduction to Psychoanalysis"
+        },
+        "Desc": {
+            "CH": "合成「选择背叛的刹那」、「一瞬间的幸福」、「弥留之际」、「热烈的气氛」、「疑虑的阴云」、「片刻自由」中的任意一个消耗品",
+            "EN": "Synthesize any one of the following consumables: The Moment of Betrayal, Fleeting Happiness, The Moment Before Death, Bustling Ambience, The Cloud of Doubt, or Momentary Freedom."
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053012,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "品味感觉",
+            "EN": "Savor Emotions"
+        },
+        "Desc": {
+            "CH": "「钟表把戏」能带来什么？<br><color style='color:#8790ab;'>※在梦中引导1.0个人的情绪</color>",
+            "EN": "What does Clockwork do?<br><color style='color:#8790ab;'>※ Guide the emotions of 1.0 people in the Dreamscape.</color>"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053014,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "感到一阵温暖",
+            "EN": "Surge of Warmth"
+        },
+        "Desc": {
+            "CH": "「钟表把戏」能帮人找回真正的自我<br><color style='color:#8790ab;'>※解决1.0次钟表把戏的突发事件</color>",
+            "EN": "Clockwork helps people discover their true selves.<br><color style='color:#8790ab;'>※ Resolve 1.0 emergencies in Clockwork.</color>"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053015,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "心脏怦怦直跳",
+            "EN": "Thumping Heart"
+        },
+        "Desc": {
+            "CH": "在梦里，就连情绪都有实体<br><color style='color:#8790ab;'>※收集1.0个情绪齿轮</color>",
+            "EN": "In dreams, even emotions are tangible.<br><color style='color:#8790ab;'>※ Collect 1.0 Emo Gears.</color>"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053016,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "我懂你的心",
+            "EN": "I Know Your Thoughts"
+        },
+        "Desc": {
+            "CH": "你能抵御心理辅导的诱惑吗？<br><color style='color:#8790ab;'>※在梦中引导至少5.0个人的情绪</color>",
+            "EN": "Can you resist the temptation of counseling?<br><color style='color:#8790ab;'>※ Guide the emotions of at least 5.0 people in the Dreamscape.</color>"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4043021,
+        "Ver": 2.0,
+        "Series": 4,
+        "Name": {
+            "CH": "睡眠学习法",
+            "EN": "Learning in Sleep"
+        },
+        "Desc": {
+            "CH": "收集 15.0 件来自匹诺康尼的阅读物",
+            "EN": "Collect 15.0 readable items in Penacony"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4033001,
+        "Ver": 2.0,
+        "Series": 3,
+        "Name": {
+            "CH": "你还记得我吗？",
+            "EN": "Do you remember me?"
+        },
+        "Desc": {
+            "CH": "在旅程之初遇见了意外的人…<br><color style='color:#8790ab;'>※在陌生的梦境与黄泉邂逅</color>",
+            "EN": "At the outset of your journey, you find yourself accompanied by someone unexpected...<br><color style='color:#8790ab;'>※ Encounter Acheron in a strange dreamland.</color>"
+        },
+        "Reward": 10
+    },
+    {
+        "_id": 4033002,
+        "Ver": 2.0,
+        "Series": 3,
+        "Name": {
+            "CH": "梦之国的开拓者",
+            "EN": "Trailblazer in Dreamscape"
+        },
+        "Desc": {
+            "CH": "来到不可思议的梦想之地！<br><color style='color:#8790ab;'>※抵达「黄金的时刻」</color>",
+            "EN": "You have arrived at the Incredible Land of the Dreams!<br><color style='color:#8790ab;'>※ Arrive at the Golden Hour.</color>"
+        },
+        "Reward": 10
+    },
+    {
+        "_id": 4033003,
+        "Ver": 2.0,
+        "Series": 3,
+        "Name": {
+            "CH": "夜色名为温柔",
+            "EN": "Gentleness, the Name of Nocturne"
+        },
+        "Desc": {
+            "CH": "目睹流星划过梦中的天空<br><color style='color:#8790ab;'>※在筑梦边境得知流萤的秘密</color>",
+            "EN": "See how shooting stars fly across the dream sky.<br><color style='color:#8790ab;'>※ Learn Firefly's secrets at the Dream's Edge.</color>"
+        },
+        "Reward": 10
+    },
+    {
+        "_id": 4033004,
+        "Ver": 2.0,
+        "Series": 3,
+        "Name": {
+            "CH": "当甜蜜来敲门",
+            "EN": "The Pursuit of Sweetness"
+        },
+        "Desc": {
+            "CH": "发现梦境世界的意外之喜<br><color style='color:#8790ab;'>※逃离「死亡」的阴影</color>",
+            "EN": "Discover the serendipitous joy in dreamscape<br><color style='color:#8790ab;'>※ Escape from the shadow of \"death\"</color>"
+        },
+        "Reward": 10
+    },
+    {
+        "_id": 4033005,
+        "Ver": 2.0,
+        "Series": 3,
+        "Name": {
+            "CH": "老朋友，新朋友",
+            "EN": "Old Friends, New Friends"
+        },
+        "Desc": {
+            "CH": "在记忆的深海中感受温暖…<br><color style='color:#8790ab;'>※与星核猎手萨姆交战</color>",
+            "EN": "Embrace the warmth in the ocean of memories...<br><color style='color:#8790ab;'>※ Fight Stellaron Hunter Sam.</color>"
+        },
+        "Reward": 10
+    },
+    {
+        "_id": 4033006,
+        "Ver": 2.0,
+        "Series": 3,
+        "Name": {
+            "CH": "使一颗心免于哀伤",
+            "EN": "If I Can Stop One Heart From Breaking"
+        },
+        "Desc": {
+            "CH": "整个匹诺康尼都将为之疯狂…<br><color style='color:#8790ab;'>※见证第二起命案</color>",
+            "EN": "The entire Penacony will go mad...<br><color style='color:#8790ab;'>※ Witness the second murder.</color>"
+        },
+        "Reward": 10
+    },
+    {
+        "_id": 4053017,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "我的爱车",
+            "EN": "My Favorite Car"
+        },
+        "Desc": {
+            "CH": "在「白日梦酒店」的专属车位停放车辆",
+            "EN": "Park your car in the exclusive parking space at The Reverie"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053018,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "回本的路",
+            "EN": "Breaking Even"
+        },
+        "Desc": {
+            "CH": "委托出租车赚得足够的收入",
+            "EN": "Make enough money through taxicab assignments."
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053019,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "您拨打的号码暂时无法接通",
+            "EN": "The Number You Have Dialed Is Unavailable"
+        },
+        "Desc": {
+            "CH": "总有些地方不对外开放<br><color style='color:#8790ab;'>※打给一个不能被接通的号码</color>",
+            "EN": "There are always off-limits places.<br><color style='color:#8790ab;'>※ Call an unreachable number.</color>"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053020,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "城里的酒杯",
+            "EN": "Glasses in the City"
+        },
+        "Desc": {
+            "CH": "撮合水晶杯与廉价葡萄酒",
+            "EN": "Matchmake crystal chalice with cheap wine"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053021,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "磐石的心意",
+            "EN": "Heart of the Rock"
+        },
+        "Desc": {
+            "CH": "撮合水晶杯与朗姆酒",
+            "EN": "Matchmake crystal chalice with rum"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053022,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "了不起的香槟瓶",
+            "EN": "The Great Champagne"
+        },
+        "Desc": {
+            "CH": "撮合水晶杯与金色香槟酒",
+            "EN": "Matchmake crystal chalice with golden champagne"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053023,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "勿要拾起不祥之物",
+            "EN": "Don't Pick Up Anything Ominous"
+        },
+        "Desc": {
+            "CH": "并非所有都市传说都只是传说<br><color style='color:#8790ab;'>※捡到了一盘诡异的磁带</color>",
+            "EN": "Not all urban myths are just myths.<br><color style='color:#8790ab;'>※ Pick up an eerie tape.</color>"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053024,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "格拉克斯之狼",
+            "EN": "The Wolf of Glaux Avenue"
+        },
+        "Desc": {
+            "CH": "找出喷钞取款机卡顿的原因",
+            "EN": "Figure out why the cash-spewer is stuck"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053025,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "每个赌徒都有借口",
+            "EN": "Every Gambler Has Their Excuses"
+        },
+        "Desc": {
+            "CH": "见证传奇赌神的结局",
+            "EN": "Witness the ending of the legendary Ace Gambler's story"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053026,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "堕落天使",
+            "EN": "Fallen Angel"
+        },
+        "Desc": {
+            "CH": "知晓浔桑的真实来历",
+            "EN": "Discover the true origins of Xunsang"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053027,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "罗生门",
+            "EN": "Rashomon"
+        },
+        "Desc": {
+            "CH": "所以…是谁撞了谁？<br><color style='color:#8790ab;'>※目睹格拉克斯大道车祸的来龙去脉</color>",
+            "EN": "So... who hit whom?<br><color style='color:#8790ab;'>※ Witness the entire process of the car accident at Glaux Avenue.</color>"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053028,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "魔形皮皮西",
+            "EN": "Magique Pepeshi"
+        },
+        "Desc": {
+            "CH": "皮皮西？变形怪？<br><color style='color:#8790ab;'>※在酒店大堂识破「皮皮西」的真身</color>",
+            "EN": "Pepeshi? Or mimic?<br><color style='color:#8790ab;'>※ Figure out the true identity of the \"Pepeshi\" at the hotel lobby.</color>"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053029,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "盛会之星与六苜蓿币",
+            "EN": "The Planet Of Festivities and Six Alfalfa Credits"
+        },
+        "Desc": {
+            "CH": "爱和梦想究竟哪个更重要？<br><color style='color:#8790ab;'>※了解一个被梦想撕碎的家庭的故事</color>",
+            "EN": "Which is more important? Love, or dream?<br><color style='color:#8790ab;'>※ Discover the story of a family torn apart by the dreams of its members.</color>"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053030,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "精神卫生",
+            "EN": "Mental Health Care"
+        },
+        "Desc": {
+            "CH": "保护环境，从我做起<br><color style='color:#8790ab;'>※帮助格-蕾回收梦境中的垃圾</color>",
+            "EN": "The environment must be protected.<br><color style='color:#8790ab;'>※ Help Go-Ray recycle trash in the Dreamscape.</color>"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053031,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "梦的解析",
+            "EN": "The Interpretation of Dreams"
+        },
+        "Desc": {
+            "CH": "通过窥梦电话探视 7.0 个人的梦境",
+            "EN": "Peek into 7.0 people's dreams through the Dreampeek Call"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4083006,
+        "Ver": 2.0,
+        "Series": 8,
+        "Name": {
+            "CH": "常在路边走…",
+            "EN": "Rules Are Made to Be Broken..."
+        },
+        "Desc": {
+            "CH": "违反交通规则，被匹诺康尼的交通工具撞飞",
+            "EN": "Violate traffic rules and get hit by a vehicle in Penacony"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4083007,
+        "Ver": 2.0,
+        "Series": 8,
+        "Name": {
+            "CH": "广——告——牌——",
+            "EN": "Bill — Board"
+        },
+        "Desc": {
+            "CH": "想办法让匹诺康尼的广告牌被交通工具撞飞",
+            "EN": "Make a Penacony billboard get hit by a vehicle"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053032,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "四海牌友",
+            "EN": "We Are All Friends Here"
+        },
+        "Desc": {
+            "CH": "认识所有种类的贱贱广告牌",
+            "EN": "Meet all the types of animated billboards"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053033,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "无人交响乐",
+            "EN": "No Man's Symphony"
+        },
+        "Desc": {
+            "CH": "当欢乐的演奏家变得更欢乐会发生什么？<br><color style='color:#8790ab;'>※麦克斯的音乐变得更加欢乐</color>",
+            "EN": "What happens when a joyful player becomes even more joyful?<br><color style='color:#8790ab;'>※ Enhance Max's music with even more joy</color>"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053034,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "踏上「贪饕」命途…",
+            "EN": "On the Path of Voracity..."
+        },
+        "Desc": {
+            "CH": "吃掉维塔利的「脆筒舞者」",
+            "EN": "Consume the Cone Dancer in Vitali"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053035,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "跳进兔子洞",
+            "EN": "Into the Rabbit Hole"
+        },
+        "Desc": {
+            "CH": "在梦境中聆听多样物品的神秘低语",
+            "EN": "Listen to the mysterious whispers of various objects in the Dreamscape."
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053036,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "天空与你之间",
+            "EN": "Between the Sky and You"
+        },
+        "Desc": {
+            "CH": "独自重游故地<br><color style='color:#8790ab;'>※在一切结束后，回到流萤的秘密基地</color>",
+            "EN": "Revisit the secret place alone<br><color style='color:#8790ab;'>※ Return to Firefly's secret base after everything has concluded</color>"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053037,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "看见那梯子了吗？",
+            "EN": "See That Ladder? You Can Climb It!"
+        },
+        "Desc": {
+            "CH": "试图爬上筑梦边境的梯子<br><color style='color:#8790ab;'>※但是爬不上去</color>",
+            "EN": "Attempt to climb the ladder at the Dream's Edge<br><color style='color:#8790ab;'>※ Actually, you can't climb it</color>"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053038,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "重力泉",
+            "EN": "Gravity Waterfall"
+        },
+        "Desc": {
+            "CH": "在稚子之梦中观赏奇异的瀑布",
+            "EN": "Enjoy the peculiar waterfall in A Child's Dream"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053039,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "幸运条纹人",
+            "EN": "Lucky Striper"
+        },
+        "Desc": {
+            "CH": "累积获得超过77.0个艾迪恩代币",
+            "EN": "Accumulate more than 77.0 Aideen Tokens"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053040,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "我爱这游戏",
+            "EN": "I'm Lovin' This Game"
+        },
+        "Desc": {
+            "CH": "发现藏在「美梦排排乐」游戏中的终极奖励",
+            "EN": "Discover the ultimate prize hidden in Dreamy Slots"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053041,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "就没有皮皮西人吗？",
+            "EN": "Are There No Pepeshi?"
+        },
+        "Desc": {
+            "CH": "使用比切诺更矮的我方角色与她对话",
+            "EN": "Talk to Cielo using a character shorter than her"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053042,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "既视感",
+            "EN": "Deja Vu"
+        },
+        "Desc": {
+            "CH": "在梦境中邂逅熟悉的风景<br><color style='color:#8790ab;'>※没错，是垃圾桶！</color>",
+            "EN": "Encounter the familiar \"sights\" in the Dreamscape<br><color style='color:#8790ab;'>※ Yep, it's the trashcans!</color>"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053043,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "垃美西斯二世",
+            "EN": "Ramesrash II"
+        },
+        "Desc": {
+            "CH": "挑战「白日梦」酒店、黄金的时刻、稚子的梦、筑梦边境中全部的王下一桶",
+            "EN": "Challenge all the Lordly Trashcans in The Reverie, Golden Hour, A Child's Dream, and Dream's Edge"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053044,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "后窗",
+            "EN": "Rear Window"
+        },
+        "Desc": {
+            "CH": "调查酒店中所有紧锁的房间",
+            "EN": "Investigate all the locked rooms in the hotel"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053045,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "全民公敌",
+            "EN": "Enemy of the Pepeshi"
+        },
+        "Desc": {
+            "CH": "精准而迅速地冒犯遇见的每位皮皮西<br><color style='color:#8790ab;'>※尝试触摸「黄金的时刻」中所有皮皮西的绒球</color>",
+            "EN": "Offend every Pepeshi you encounter with precision and speed.<br><color style='color:#8790ab;'>※ Try to touch the fluff ball of every Pepeshi in the Golden Hour</color>"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053046,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "最「糟糕」的无名客",
+            "EN": "The Worst Nameless Ever"
+        },
+        "Desc": {
+            "CH": "给帕姆看看某个特定的梦泡",
+            "EN": "Show Pom-Pom a specific dream bubble"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053047,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "遥星之门",
+            "EN": "Gate to Stars"
+        },
+        "Desc": {
+            "CH": "冒险家还是海盗？<br><color style='color:#8790ab;'>※倾听科琳关于宇宙的故事</color>",
+            "EN": "Explorer or pirate?<br><color style='color:#8790ab;'>※ Listen to Colleen's story about the universe</color>"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053048,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "就是这么牛",
+            "EN": "This Is Simply Amazing"
+        },
+        "Desc": {
+            "CH": "见证一个「伟大的愿景」<br><color style='color:#8790ab;'>※收集家族成员对于筑梦边境项目的评价</color>",
+            "EN": "Witness a \"great vision\"<br><color style='color:#8790ab;'>※ Collect Family members' comments on the Dream's Edge project</color>"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053049,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "托拉斯之梦",
+            "EN": "Dream of Trustification"
+        },
+        "Desc": {
+            "CH": "你看见的都是我的专利！<br><color style='color:#8790ab;'>※帮助艾默里奇完成他的计划</color>",
+            "EN": "Everything you see is MY invention!<br><color style='color:#8790ab;'>※ Help Emmrich complete his plan</color>"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053050,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "现实太重，梦想太轻",
+            "EN": "Reality Sinks, Dream Drifts"
+        },
+        "Desc": {
+            "CH": "人类终归无法相互理解<br><color style='color:#8790ab;'>※旁听拉洛丝与芙尔拉的对话</color>",
+            "EN": "Humans can't empathize with each other after all<br><color style='color:#8790ab;'>※ Listen to the conversation between Larose and Forla</color>"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053051,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "漫长的告别",
+            "EN": "The Long Goodbye"
+        },
+        "Desc": {
+            "CH": "愿她早日告别旧时阴霾<br><color style='color:#8790ab;'>※见证卢•阿彻的故事</color>",
+            "EN": "May she bid farewell to her troubled past<br><color style='color:#8790ab;'>※ Witness Lew Archer's story</color>"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4083008,
+        "Ver": 2.0,
+        "Series": 8,
+        "Name": {
+            "CH": "一切真理须如货币般流通",
+            "EN": "Truth Must Circulate Like Currency"
+        },
+        "Desc": {
+            "CH": "在支援助战中使用真理医生参与1.0场战斗",
+            "EN": "Take part in 1.0 match(es) in Support Assist using Dr. Ratio"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053052,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "食不过三",
+            "EN": "Third Cone's the Charm"
+        },
+        "Desc": {
+            "CH": "在「黄金的时刻」一次性吃掉太多脆筒……",
+            "EN": "Consume way too many crispy cones at one time in the Golden Hour..."
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053053,
+        "Ver": 2.0,
+        "Series": 5,
+        "Name": {
+            "CH": "奥帝经济学",
+            "EN": "Oti's Economics"
+        },
+        "Desc": {
+            "CH": "人人都发钱，等于没发钱<br><color style='color:#8790ab;'>※反复触发街头的喷钞机</color>",
+            "EN": "If everyone gets money, then no one gets money<br><color style='color:#8790ab;'>※ Repeatedly trigger the cash-spewer on the streets</color>"
+        },
+        "Reward": 5
     }
 ]
 
@@ -8752,7 +10096,7 @@ var _achievementseries = [
             "EN": "The Rail Unto the Stars"
         },
         "Icon": "MainLineAchievementIcon.png",
-        "Count": 19
+        "Count": 25
     },
     {
         "_id": 4,
@@ -8761,7 +10105,7 @@ var _achievementseries = [
             "EN": "Fathom the Unfathomable"
         },
         "Icon": "ExploreAchievementIcon.png",
-        "Count": 45
+        "Count": 66
     },
     {
         "_id": 5,
@@ -8770,7 +10114,7 @@ var _achievementseries = [
             "EN": "The Memories We Share"
         },
         "Icon": "ReputationAchievementIcon.png",
-        "Count": 179
+        "Count": 228
     },
     {
         "_id": 6,
@@ -8788,7 +10132,7 @@ var _achievementseries = [
             "EN": "Eager for Battle"
         },
         "Icon": "BattleAchievementIcon.png",
-        "Count": 129
+        "Count": 139
     },
     {
         "_id": 8,
@@ -8797,7 +10141,7 @@ var _achievementseries = [
             "EN": "Moment of Joy"
         },
         "Icon": "TrackAchievementIcon.png",
-        "Count": 62
+        "Count": 72
     },
     {
         "_id": 9,
