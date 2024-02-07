@@ -347,7 +347,7 @@ var txt = {
     },
     "StatVerChoose": {
         "CH": "版本",
-        "EN": "Ver"
+        "EN": "Version"
     },
     "AddProp": {
         "CH": "属性强化",
