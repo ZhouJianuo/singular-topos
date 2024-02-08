@@ -72,7 +72,7 @@ popdialog {
     margin: 0px;
 }
 .monicon {
-    height: 97px;
+    height: 87px;
     vertical-align: middle;
 }
 
@@ -95,8 +95,8 @@ popdialog {
 }
 
 .monster_card {
-    padding: 10px;
-    margin: 0px 7px;
+    padding: 10px 0;
+    margin: 0px 4px;
     cursor: pointer;
     display: block;
 }
@@ -491,6 +491,9 @@ input[type=number] {
 }
 
 @media screen and (min-width: 500px) and (max-width: 800px) {
+    .monster_card {
+        margin: 0px 6px;
+    }
     .monright {
         line-height: 1.5;
     }
@@ -535,7 +538,7 @@ input[type=number] {
         font-size: 15px;
     }
     .monicon {
-        height: 112px;
+        height: 107px;
     }
     .monname {
         font-size: 14px
@@ -546,6 +549,9 @@ input[type=number] {
 }
 
 @media screen and (min-width: 800px) {
+    .monster_card {
+        margin: 0px 8px;
+    }
     .monright {
         line-height: 1.6;
     }
