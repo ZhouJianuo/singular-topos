@@ -540,13 +540,13 @@ $(function () {
                         return d.data._id
                     },
                     'data-name': function (d) {
-                        return d.data._name
+                        return d.data._name.replaceAll(' ', '').toUpperCase()
                     },
                     'data-namech': function (d) {
-                        return d.data.Name.CH
+                        return d.data.Name.CH.replaceAll(' ', '').toUpperCase()
                     },
                     'data-nameen': function (d) {
-                        return d.data.Name.EN
+                        return d.data.Name.EN.replaceAll(' ', '').toUpperCase()
                     }
                 }
             },
@@ -558,7 +558,7 @@ $(function () {
                 cl_show = 1
                 $('.cl_all').show()
             }
-            var come_id = $('#AVID').val().replaceAll('_', ' ')
+            var come_id = $('#AVID').val().replaceAll('_', '').replaceAll(' ', '').replaceAll("-", "").replaceAll("'", "").toUpperCase()
             try {
                 if ($("div[data-id='" + come_id + "']").length) {
                     $("div[data-id='" + come_id + "']").click()
@@ -570,8 +570,8 @@ $(function () {
                     $("div[data-nameen='" + come_id + "']").click()
                 }
             } catch (err) {}
-            renderWeaponInfoFind($('#AVID').val())
-            doRelicFind($('#AVID').val())
+            renderWeaponInfoFind(come_id)
+            doRelicFind(come_id)
             $('#AVID').val('')
         }
         
@@ -2382,7 +2382,7 @@ $(function () {
 
     function doRelicFind(strid) {
         _RelicConfig.forEach(function (wpn) {
-            if (wpn.ID.toString() == strid || wpn.Name.CH == strid || wpn.Name.EN == strid) {
+            if (wpn.ID.toString() == strid || wpn.Name.CH.replaceAll(" ", "").replaceAll("_", "").replaceAll("-", "").replaceAll("'", "").toUpperCase() == strid || wpn.Name.EN.replaceAll(" ", "").replaceAll("_", "").replaceAll("-", "").replaceAll("'", "").toUpperCase() == strid) {
                 doRelic(wpn)
                 return
             }
@@ -2756,7 +2756,7 @@ $(function () {
 
     function renderWeaponInfoFind(strid) {
         _WeaponConfig.forEach(function (wpn) {
-            if (wpn._id.toString() == strid || wpn.Name.CH == strid || wpn.Name.EN == strid) {
+            if (wpn._id.toString() == strid || wpn.Name.CH.replaceAll(' ', '').replaceAll("-", "").replaceAll("'", "").toUpperCase() == strid || wpn.Name.EN.replaceAll(' ', '').replaceAll("-", "").replaceAll("'", "").toUpperCase() == strid) {
                 renderWeaponInfo(wpn)
                 return
             }

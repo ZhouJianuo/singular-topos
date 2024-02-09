@@ -183,7 +183,6 @@ schedule {
     margin-left: 15px;
     margin-right: 15px;
     line-height: 2;
-    overflow-x: scroll;
 }
 
 .TUT_Text {
@@ -199,7 +198,19 @@ schedule {
 .addprop img {
     height: 36px;
     position: relative;
-    top: 10px;
+    top: 12px;
+    margin-right: 3px;
+}
+
+.addprop_ img {
+    height: 24px;
+    position: relative;
+    top: 8px;
+    margin-right: 1px;
+}
+
+.addprop_ span {
+    font-size: 13px;
 }
 
 .a_section_content input {
@@ -271,8 +282,8 @@ schedule {
 }
 
 .avatar_mat img {
-    width: 54px;
-    margin: auto;
+    height: 50px;
+    margin: 0px 5px;
 }
 
 .avatar_mat_1,
@@ -350,7 +361,82 @@ schedule {
     white-space: pre;
 }
 
+.rar schedule {
+    min-width: 86px;
+    font-size: 14px;
+}
+
+.addprop_ {
+    margin: 0px auto 10px;
+}
+
+.weapon_left {
+    width: 100%;
+    max-width: 250px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.weapon_right {
+    width: 100%;
+    margin-top: -25px;
+}
+.weapon_left img {
+    width: 100%;
+    margin: 20px auto;
+}
+
+.weapon_title {
+    font-size: 16px;
+}
+.weapon_story {
+    font-size: 14px;
+}
+
+.stat_ver_choose_w select,
+.story_this select {
+    width: 72px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+    height: 22px;
+    position: relative;
+    bottom: 3px;
+}
+
 @media screen and (min-width: 500px) and (max-width: 800px) {
+    .stat_ver_choose_w select,
+    .story_this select {
+        width: 75px;
+        font-size: 13px;
+        height: 24px;
+    }
+    .weapon_title {
+        font-size: 18px;
+    }
+    .weapon_story {
+        font-size: 15px;
+    }
+    .weapon_left {
+        width: 100%;
+        max-width: 250px;
+    }
+    .weapon_right {
+        width: 100%;
+        margin-top: -25px;
+    }
+    .addprop_ span {
+        font-size: 15px;
+    }
+    .addprop_ img {
+        top: 12px;
+        height: 36px;
+        margin-right: 3px;
+    }
+    .rar schedule {
+        font-size: 15px;
+    }
+    
     .head_left {
         width: 45px;
         height: 45px;
@@ -369,8 +455,8 @@ schedule {
         width: calc(100% - 150px);
     }
     .avatar_mat img {
-        width: 60px;
-        margin: auto;
+        height: 57px;
+        margin: 0px 5px;
     }
 
     .avatar_mat {
@@ -426,6 +512,36 @@ schedule {
 }
 
 @media screen and (min-width: 800px) {
+    .stat_ver_choose_w select,
+    .story_this select {
+        width: 77px;
+        font-size: 14px;
+        height: 26px;
+    }
+    .weapon_title {
+        font-size: 20px;
+    }
+    .weapon_story {
+        font-size: 16px;
+    }
+    .weapon_left {
+        width: 38%
+    }
+    .weapon_right {
+        width: calc(62% - 40px);
+        margin-top: 15px;
+    }
+    .addprop_ span {
+        font-size: 16px;
+    }
+    .addprop_ img {
+        top: 12px;
+        height: 36px;
+        margin-right: 1px;
+    }
+    .rar schedule {
+        font-size: 16px;
+    }
     .head_left {
         width: 50px;
         height: 50px;
@@ -444,8 +560,8 @@ schedule {
         width: calc(100% - 165px);
     }
     .avatar_mat img {
-        width: 65px;
-        margin: auto;
+        height: 64px;
+        margin: 0px 5px;
     }
 
     .avatar_mat {

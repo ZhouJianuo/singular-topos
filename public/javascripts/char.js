@@ -17,7 +17,7 @@ $(function () {
     }
 
     var imgpre = $('#IMGPRE').val()
-    var avid = $('#avid').val()
+    var avid = $('#AVID').val()
 
     if (lang == 'CH') document.title = '玉衡杯数据库'
 
@@ -46,6 +46,9 @@ $(function () {
     var this_weapon_cur_ver = 0
 
     var cur_rarity = '5'
+
+    var cur_level = 80
+    var cur_promote = 1
 
     $('container').render({
         template: {
@@ -107,6 +110,15 @@ $(function () {
             class: 'content'
         }
     })
+
+    if (avid) {
+        avid = avid.replaceAll("_", "").replaceAll("-", "").replaceAll(" ", "").replaceAll("'", "").toUpperCase()
+        if (_search_avatar[avid] != undefined) {
+            popAvatar(_search_avatar[avid])
+        } else if (_search_weapon[avid] != undefined) {
+            popWeapon(_search_weapon[avid])
+        }
+    }
 
     listAvatar()
 
@@ -384,6 +396,8 @@ $(function () {
     }
 
     function popAvatar(ai) {
+        cur_level = 80
+        cur_promote = 1
         cur_avatar_page = 1
         this_avatar = _avatar[ai]
         this_avatar_vers = getVer(_avatarskill[this_avatar.Skills[0]])
@@ -438,7 +452,8 @@ $(function () {
                                 p: this_avatar.Name[lang],
                                 style: {
                                     'text-align': 'center',
-                                    color: "#" + elemcolor[this_avatar.Element]
+                                    color: "#" + elemcolor[this_avatar.Element],
+                                    'margin-top': '20px'
                                 }
                             },
                             class: 'a_section_head'
@@ -485,6 +500,15 @@ $(function () {
                                         'margin-bottom': '10px'
                                     }
                                 },
+                                {
+                                    div: {
+                                        p: _camp[this_avatar.Camp][lang],
+                                        style: {
+                                            'font-weight': 'bold',
+                                            'text-align': 'center'
+                                        }
+                                    }
+                                },
                             ],
                             class: 'a_section_content',
                             style: {
@@ -499,9 +523,14 @@ $(function () {
                     div: [
                         {
                             div: {
-                                p: txt.Avatar_Mats[lang]
+                                p: txt.Avatar_Mats[lang],
                             },
-                            class: 'a_section_head'
+                            class: 'a_section_head',
+                            style: {
+                                'text-align': 'center',
+                                'padding-top': '6px',
+                                color: "#" + elemcolor[this_avatar.Element],
+                            }
                         },
                         {
                             div: [
@@ -601,19 +630,171 @@ $(function () {
                     div: [
                         {
                             div: {
-                                p: txt.Avatar_Stats[lang]
+                                p: txt.Avatar_Stats[lang],
                             },
-                            class: 'a_section_head'
+                            class: 'a_section_head',
+                            style: {
+                                'text-align': 'center',
+                                'padding-top': '6px',
+                                color: "#" + elemcolor[this_avatar.Element],
+                            }
                         },
                         {
                             div: [
-                                
+                                {
+                                    div: [
+                                        {
+                                            img: imgpre + 'images/Misc/_HP.png'
+                                        },
+                                        {
+                                            span: props.HP[lang] + ' <b>' + (this_avatar.Stats[6].HP[0] + 80 * this_avatar.Stats[6].HP[1]).toFixed(1) + '</b> '
+                                        }
+                                    ],
+                                    class: 'addprop'
+                                },
+                                {
+                                    div: [
+                                        {
+                                            img: imgpre + 'images/Misc/_ATK.png'
+                                        },
+                                        {
+                                            span: props.ATK[lang] + ' <b>' + (this_avatar.Stats[6].ATK[0] + 80 * this_avatar.Stats[6].ATK[1]).toFixed(2) + '</b> '
+                                        }
+                                    ],
+                                    class: 'addprop'
+                                },
+                                {
+                                    div: [
+                                        {
+                                            img: imgpre + 'images/Misc/_DEF.png'
+                                        },
+                                        {
+                                            span: props.DEF[lang] + ' <b>' + (this_avatar.Stats[6].DEF[0] + 80 * this_avatar.Stats[6].DEF[1]).toFixed(2) + '</b> '
+                                        }
+                                    ],
+                                    class: 'addprop'
+                                },
+                                {
+                                    div: [
+                                        {
+                                            img: imgpre + 'images/Misc/_SPD.png'
+                                        },
+                                        {
+                                            span: props.SPD[lang] + ' <b>' + (this_avatar.Stats[6].SPD).toFixed(0) + '</b> '
+                                        }
+                                    ],
+                                    class: 'addprop'
+                                },
+                                {
+                                    div: [
+                                        {
+                                            img: imgpre + 'images/Misc/IconMonsterTaunted.png'
+                                        },
+                                        {
+                                            span: txt.Avatar_Aggro[lang] + ' <b>' + (this_avatar.Stats[6].Aggro).toFixed(0) + '</b> '
+                                        }
+                                    ],
+                                    class: 'addprop'
+                                }
                             ],
-                            class: 'a_section_content',
+                            class: 'a_section_content mon_head',
                             style: {
-                                'overflow-x': 'hidden',
+                                'padding-bottom': '10px'
+                            }
+                        }
+                    ],
+                    class: 'a_section'
+                },
+                {
+                    div: [
+                        {
+                            div: {
+                                p: txt.Avatar_CV[lang],
+                            },
+                            class: 'a_section_head',
+                            style: {
+                                'text-align': 'center',
+                                'padding-top': '6px',
+                                color: "#" + elemcolor[this_avatar.Element],
                             }
                         },
+                        {
+                            div: [
+                                {
+                                    div: [
+                                        {
+                                            p: 'CN',
+                                            style: {
+                                                'font-size': '13px',
+                                                color: '#eeeeee'
+                                            }
+                                        },
+                                        {
+                                            p: this_avatar.CV[0][lang],
+                                            style: {
+                                                'font-weight': 'bold'
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    div: [
+                                        {
+                                            p: 'EN',
+                                            style: {
+                                                'font-size': '13px',
+                                                color: '#eeeeee'
+                                            }
+                                        },
+                                        {
+                                            p: this_avatar.CV[1][lang],
+                                            style: {
+                                                'font-weight': 'bold'
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    div: [
+                                        {
+                                            p: 'JP',
+                                            style: {
+                                                'font-size': '13px',
+                                                color: '#eeeeee'
+                                            }
+                                        },
+                                        {
+                                            p: this_avatar.CV[2][lang],
+                                            style: {
+                                                'font-weight': 'bold'
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    div: [
+                                        {
+                                            p: 'KR',
+                                            style: {
+                                                'font-size': '13px',
+                                                color: '#eeeeee'
+                                            }
+                                        },
+                                        {
+                                            p: this_avatar.CV[3][lang],
+                                            style: {
+                                                'font-weight': 'bold'
+                                            }
+                                        }
+                                    ]
+                                }
+                            ],
+                            class: 'a_section_content mon_head',
+                            style: {
+                                'padding-bottom': '10px',
+                                'text-align': 'center'
+                            }
+                        }
                     ],
                     class: 'a_section'
                 },
@@ -1099,12 +1280,201 @@ $(function () {
 
     function popWeapon(ai) {
         this_weapon = _weapon[ai]
+        this_weapon_vers = getVer(_weaponskill[this_weapon.Skill])
+        this_weapon_cur_ver = this_weapon_vers[1]
         poplayer({
             header: this_weapon.Name[lang] + txt.Affix[lang],
             width: '100%',
             template: [
                 {
-                    div: [],
+                    div: [
+                        {
+                            div: {
+                                div: [
+                                    {
+                                        div: {
+                                            img: imgpre + 'images/Weapon/' + this_weapon.Pic,
+                                        },
+                                        class: 'weapon_left'
+                                    },
+                                    {
+                                        div: [
+                                            {
+                                                div: [
+                                                    {
+                                                        p: this_weapon.Name[lang],
+                                                        style: {
+                                                            'font-weight': 'bold',
+                                                            'text-align': 'center'
+                                                        },
+                                                        class: 'weapon_title'
+                                                    },
+                                                    {
+                                                        p: {
+                                                            img: imgpre + 'images/Paths/' + this_weapon.Path + '.png',
+                                                            style: {
+                                                                width: '13%',
+                                                                'max-width': '48px',
+                                                                margin: '9px auto',
+                                                            }
+                                                        },
+                                                        style: {
+                                                            'text-align': 'center'
+                                                        },
+                                                    },
+                                                    {
+                                                        p: this_weapon.Desc[lang],
+                                                        class: 'weapon_story'
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                div: [
+                                                    {
+                                                        div: [
+                                                            {
+                                                                img: imgpre + 'images/Misc/_HP.png'
+                                                            },
+                                                            {
+                                                                span: ' <b>' + (this_weapon.Stats[6].HP[0] + 80 * this_weapon.Stats[6].HP[1]).toFixed(1) + '</b> '
+                                                            }
+                                                        ],
+                                                        class: 'addprop_'
+                                                    },
+                                                    {
+                                                        div: [
+                                                            {
+                                                                img: imgpre + 'images/Misc/_ATK.png'
+                                                            },
+                                                            {
+                                                                span: ' <b>' + (this_weapon.Stats[6].ATK[0] + 80 * this_weapon.Stats[6].ATK[1]).toFixed(2) + '</b> '
+                                                            }
+                                                        ],
+                                                        class: 'addprop_'
+                                                    },
+                                                    {
+                                                        div: [
+                                                            {
+                                                                img: imgpre + 'images/Misc/_DEF.png'
+                                                            },
+                                                            {
+                                                                span: ' <b>' + (this_weapon.Stats[6].DEF[0] + 80 * this_weapon.Stats[6].DEF[1]).toFixed(2) + '</b> '
+                                                            }
+                                                        ],
+                                                        class: 'addprop_'
+                                                    },
+                                                ],
+                                                class: 'mon_head'
+                                            },
+                                        ],
+                                        class: 'weapon_right'
+                                    }
+                                ],
+                                class: 'a_section_content mon_head'
+                            },
+                            class: 'a_section'
+                        },
+                        {
+                            div: [
+                                {
+                                    div: [
+                                        {
+                                            span: _weaponskill[this_weapon.Skill][this_weapon_cur_ver].Name[lang],
+                                            style: {
+                                                'margin': '0'
+                                            },
+                                            class: 'weapon_skill_name'
+                                        },
+                                        {
+                                            span: {
+                                                select: '',
+                                                options: this_weapon_vers[0]
+                                            },
+                                            class: 'stat_ver_choose_w'
+                                        }
+                                    ],
+                                    class: 'a_section_head'
+                                },
+                                {
+                                    div: {
+                                        p: `[[${lang}]]`.replaceAll("<color style='color:#f29e38;'> <b>", "<color style='color:#f29e38;'>").replaceAll("<color style='color:#f29e38;'><b>", "<color style='color:#f29e38;'>").replaceAll("</b> </color>", "</color>").replaceAll("</b></color>", "</color>"),
+                                        data: _weaponskill[this_weapon.Skill][this_weapon_cur_ver].Desc
+                                    },
+                                    class: 'a_section_content weapon_skill'
+                                },
+                                
+                            ],
+                            class: 'a_section'
+                        },
+                        {
+                            div: [
+                                {
+                                    div: {
+                                        p: txt.Weapon_Mats[lang]
+                                    },
+                                    class: 'a_section_head'
+                                },
+                                {
+                                    div: [
+                                        {
+                                            div: [
+                                                {
+                                                    img: imgpre + "images/" + _item[this_weapon.Mat[0] - 2].Icon
+                                                },
+                                                {
+                                                    img: imgpre + "images/" + _item[this_weapon.Mat[0] - 1].Icon
+                                                },
+                                                {
+                                                    img: imgpre + "images/" + _item[this_weapon.Mat[0]].Icon
+                                                },
+                                                {
+                                                    p: _item[this_weapon.Mat[0]].Name[lang],
+                                                    style: {
+                                                        'font-weight': 'bold'
+                                                    }
+                                                },
+                                                {
+                                                    p: (this_weapon.Rarity == 5) ? 'x20 / x20 / x14' : ((this_weapon.Rarity == 4) ? 'x15 / x15 / x12' : 'x12 / x10 / x8'),
+                                                }
+                                            ],
+                                            class: 'avatar_mat',
+                                        },
+                                        {
+                                            div: [
+                                                {
+                                                    img: imgpre + "images/" + _item[this_weapon.Mat[1] - 2].Icon
+                                                },
+                                                {
+                                                    img: imgpre + "images/" + _item[this_weapon.Mat[1] - 1].Icon
+                                                },
+                                                {
+                                                    img: imgpre + "images/" + _item[this_weapon.Mat[1]].Icon
+                                                },
+                                                {
+                                                    p: _item[this_weapon.Mat[1]].Name[lang],
+                                                    style: {
+                                                        'font-weight': 'bold'
+                                                    }
+                                                },
+                                                {
+                                                    p: (this_weapon.Rarity == 5) ? 'x4 / x12 / x15' : ((this_weapon.Rarity == 4) ? 'x3 / x9 / x12' : 'x2 / x6 / x9'),
+                                                }
+                                            ],
+                                            class: 'avatar_mat',
+                                        },
+                                    ],
+                                    class: 'a_section_content',
+                                    style: {
+                                        'overflow-x': 'hidden',
+                                        display: 'flex',
+                                        'justify-content': 'space-evenly',
+                                        'flex-wrap': 'wrap',
+                                    }
+                                },
+                            ],
+                            class: 'a_section'
+                        },
+                    ],
                     class: 'mon_body'
                 },
             ]
@@ -1140,6 +1510,15 @@ $(function () {
     $('body').on('change', '.stat_ver_choose select', function () {
         this_avatar_cur_ver = $(this).val()
         renderAvatar(cur_avatar_page)
+    })
+
+    $('body').on('change', '.stat_ver_choose_w select', function () {
+        this_weapon_cur_ver = $(this).val()
+        $('.weapon_skill_name').html(_weaponskill[this_weapon.Skill][this_weapon_cur_ver].Name[lang])
+        $('.weapon_skill').empty.render({
+            p: `[[${lang}]]`.replaceAll("<color style='color:#f29e38;'> <b>", "<color style='color:#f29e38;'>").replaceAll("<color style='color:#f29e38;'><b>", "<color style='color:#f29e38;'>").replaceAll("</b> </color>", "</color>").replaceAll("</b></color>", "</color>").replaceAll("<b>", ""),
+            data: _weaponskill[this_weapon.Skill][this_weapon_cur_ver].Desc
+        })
     })
 
     $('body').on('click', '.subtitle', function () {

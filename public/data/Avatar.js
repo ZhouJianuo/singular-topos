@@ -149,7 +149,26 @@ var _avatar = [
                 "SPD": 101.0,
                 "Aggro": 100.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "赵爽",
+                "EN": "赵爽"
+            },
+            {
+                "CH": "Lizzie Freeman",
+                "EN": "Lizzie Freeman"
+            },
+            {
+                "CH": "上田麗奈",
+                "EN": "上田麗奈"
+            },
+            {
+                "CH": "성예원",
+                "EN": "성예원"
+            }
+        ],
+        "Camp": 110
     },
     {
         "_id": 1307,
@@ -299,7 +318,26 @@ var _avatar = [
                 "SPD": 102.0,
                 "Aggro": 100.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "杨梦露",
+                "EN": "杨梦露"
+            },
+            {
+                "CH": "Arryn Zech",
+                "EN": "Arryn Zech"
+            },
+            {
+                "CH": "生天目仁美",
+                "EN": "生天目仁美"
+            },
+            {
+                "CH": "김하영",
+                "EN": "김하영"
+            }
+        ],
+        "Camp": 109
     },
     {
         "_id": 1312,
@@ -449,7 +487,26 @@ var _avatar = [
                 "SPD": 96.0,
                 "Aggro": 125.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "柳知萧",
+                "EN": "柳知萧"
+            },
+            {
+                "CH": "Cat Protano",
+                "EN": "Cat Protano"
+            },
+            {
+                "CH": "松井恵理子",
+                "EN": "松井恵理子"
+            },
+            {
+                "CH": "박신희",
+                "EN": "박신희"
+            }
+        ],
+        "Camp": 108
     },
     {
         "_id": 1214,
@@ -599,7 +656,26 @@ var _avatar = [
                 "SPD": 103.0,
                 "Aggro": 125.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "溯浔",
+                "EN": "溯浔"
+            },
+            {
+                "CH": "Jenny Yokobori",
+                "EN": "Jenny Yokobori"
+            },
+            {
+                "CH": "河瀬茉希",
+                "EN": "河瀬茉希"
+            },
+            {
+                "CH": "박리나",
+                "EN": "박리나"
+            }
+        ],
+        "Camp": 104
     },
     {
         "_id": 1303,
@@ -749,7 +825,26 @@ var _avatar = [
                 "SPD": 104.0,
                 "Aggro": 100.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "张文钰",
+                "EN": "张文钰"
+            },
+            {
+                "CH": "Emi Lo",
+                "EN": "Emi Lo"
+            },
+            {
+                "CH": "大西沙織",
+                "EN": "大西沙織"
+            },
+            {
+                "CH": "윤여진",
+                "EN": "윤여진"
+            }
+        ],
+        "Camp": 102
     },
     {
         "_id": 1305,
@@ -899,7 +994,26 @@ var _avatar = [
                 "SPD": 103.0,
                 "Aggro": 75.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "桑毓泽",
+                "EN": "桑毓泽"
+            },
+            {
+                "CH": "Jordan Paul Haro",
+                "EN": "Jordan Paul Haro"
+            },
+            {
+                "CH": "武内駿輔",
+                "EN": "武内駿輔"
+            },
+            {
+                "CH": "이동훈",
+                "EN": "이동훈"
+            }
+        ],
+        "Camp": 107
     },
     {
         "_id": 1215,
@@ -1049,7 +1163,26 @@ var _avatar = [
                 "SPD": 110.0,
                 "Aggro": 100.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "张雨曦",
+                "EN": "张雨曦"
+            },
+            {
+                "CH": "Suzie Yeung",
+                "EN": "Suzie Yeung"
+            },
+            {
+                "CH": "鈴代紗弓",
+                "EN": "鈴代紗弓"
+            },
+            {
+                "CH": "윤은서",
+                "EN": "윤은서"
+            }
+        ],
+        "Camp": 104
     },
     {
         "_id": 1217,
@@ -1199,7 +1332,26 @@ var _avatar = [
                 "SPD": 98.0,
                 "Aggro": 100.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "葛子瑞&刘北辰",
+                "EN": "葛子瑞&刘北辰"
+            },
+            {
+                "CH": "Courtney Lin & Adam Michael Gold",
+                "EN": "Courtney Lin & Adam Michael Gold"
+            },
+            {
+                "CH": "長縄まりあ&平林剛",
+                "EN": "長縄まりあ&平林剛"
+            },
+            {
+                "CH": "김채린&한복현",
+                "EN": "김채린&한복현"
+            }
+        ],
+        "Camp": 104
     },
     {
         "_id": 1302,
@@ -1350,7 +1502,26 @@ var _avatar = [
                 "SPD": 103.0,
                 "Aggro": 75.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "梁达伟",
+                "EN": "梁达伟"
+            },
+            {
+                "CH": "Adam Michael Gold",
+                "EN": "Adam Michael Gold"
+            },
+            {
+                "CH": "立花慎之介",
+                "EN": "立花慎之介"
+            },
+            {
+                "CH": "최승훈",
+                "EN": "최승훈"
+            }
+        ],
+        "Camp": 106
     },
     {
         "_id": 1112,
@@ -1500,7 +1671,26 @@ var _avatar = [
                 "SPD": 110.0,
                 "Aggro": 75.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "陆敏悦",
+                "EN": "陆敏悦"
+            },
+            {
+                "CH": "Sam Slade",
+                "EN": "Sam Slade"
+            },
+            {
+                "CH": "南條愛乃",
+                "EN": "南條愛乃"
+            },
+            {
+                "CH": "방시우",
+                "EN": "방시우"
+            }
+        ],
+        "Camp": 105
     },
     {
         "_id": 1210,
@@ -1650,7 +1840,26 @@ var _avatar = [
                 "SPD": 106.0,
                 "Aggro": 100.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "小敢",
+                "EN": "小敢"
+            },
+            {
+                "CH": "Morgan Lauré",
+                "EN": "Morgan Lauré"
+            },
+            {
+                "CH": "直田姫奈",
+                "EN": "直田姫奈"
+            },
+            {
+                "CH": "김수영",
+                "EN": "김수영"
+            }
+        ],
+        "Camp": 104
     },
     {
         "_id": 1212,
@@ -1801,7 +2010,26 @@ var _avatar = [
                 "SPD": 96.0,
                 "Aggro": 125.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "杜冥鸦",
+                "EN": "杜冥鸦"
+            },
+            {
+                "CH": "AmaLee",
+                "EN": "AmaLee"
+            },
+            {
+                "CH": "桑島法子",
+                "EN": "桑島法子"
+            },
+            {
+                "CH": "박이서",
+                "EN": "박이서"
+            }
+        ],
+        "Camp": 104
     },
     {
         "_id": 1110,
@@ -1951,7 +2179,26 @@ var _avatar = [
                 "SPD": 100.0,
                 "Aggro": 100.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "米糊",
+                "EN": "米糊"
+            },
+            {
+                "CH": "Risa Mei",
+                "EN": "Risa Mei"
+            },
+            {
+                "CH": "照井春佳",
+                "EN": "照井春佳"
+            },
+            {
+                "CH": "이은조",
+                "EN": "이은조"
+            }
+        ],
+        "Camp": 103
     },
     {
         "_id": 1208,
@@ -2101,7 +2348,26 @@ var _avatar = [
                 "SPD": 100.0,
                 "Aggro": 150.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "花玲",
+                "EN": "花玲"
+            },
+            {
+                "CH": "Sarah Wiedenheft",
+                "EN": "Sarah Wiedenheft"
+            },
+            {
+                "CH": "伊藤美来",
+                "EN": "伊藤美来"
+            },
+            {
+                "CH": "이지현",
+                "EN": "이지현"
+            }
+        ],
+        "Camp": 104
     },
     {
         "_id": 1213,
@@ -2255,7 +2521,26 @@ var _avatar = [
                 "SPD": 102.0,
                 "Aggro": 125.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "李春胤",
+                "EN": "李春胤"
+            },
+            {
+                "CH": "Nicholas Leung",
+                "EN": "Nicholas Leung"
+            },
+            {
+                "CH": "伊東健人",
+                "EN": "伊東健人"
+            },
+            {
+                "CH": "김혜성",
+                "EN": "김혜성"
+            }
+        ],
+        "Camp": 104
     },
     {
         "_id": 1005,
@@ -2405,7 +2690,26 @@ var _avatar = [
                 "SPD": 100.0,
                 "Aggro": 100.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "徐慧",
+                "EN": "徐慧"
+            },
+            {
+                "CH": "Cheryl Texiera",
+                "EN": "Cheryl Texiera"
+            },
+            {
+                "CH": "伊藤静",
+                "EN": "伊藤静"
+            },
+            {
+                "CH": "사문영",
+                "EN": "사문영"
+            }
+        ],
+        "Camp": 101
     },
     {
         "_id": 1111,
@@ -2556,7 +2860,26 @@ var _avatar = [
                 "SPD": 103.0,
                 "Aggro": 100.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "萧翟",
+                "EN": "萧翟"
+            },
+            {
+                "CH": "Howard Wang",
+                "EN": "Howard Wang"
+            },
+            {
+                "CH": "梶原岳人",
+                "EN": "梶原岳人"
+            },
+            {
+                "CH": "이주승",
+                "EN": "이주승"
+            }
+        ],
+        "Camp": 103
     },
     {
         "_id": 1205,
@@ -2707,7 +3030,26 @@ var _avatar = [
                 "SPD": 97.0,
                 "Aggro": 125.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "刘以嘉",
+                "EN": "刘以嘉"
+            },
+            {
+                "CH": "Daman Mills",
+                "EN": "Daman Mills"
+            },
+            {
+                "CH": "三木眞一郎",
+                "EN": "三木眞一郎"
+            },
+            {
+                "CH": "곽윤상",
+                "EN": "곽윤상"
+            }
+        ],
+        "Camp": 101
     },
     {
         "_id": 1006,
@@ -2857,7 +3199,26 @@ var _avatar = [
                 "SPD": 107.0,
                 "Aggro": 100.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "Hanser",
+                "EN": "Hanser"
+            },
+            {
+                "CH": "Melissa Fahn",
+                "EN": "Melissa Fahn"
+            },
+            {
+                "CH": "阿澄佳奈",
+                "EN": "阿澄佳奈"
+            },
+            {
+                "CH": "장미",
+                "EN": "장미"
+            }
+        ],
+        "Camp": 101
     },
     {
         "_id": 1203,
@@ -3007,7 +3368,26 @@ var _avatar = [
                 "SPD": 101.0,
                 "Aggro": 100.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "赵路",
+                "EN": "赵路"
+            },
+            {
+                "CH": "Craig Lee Thomas",
+                "EN": "Craig Lee Thomas"
+            },
+            {
+                "CH": "石田彰",
+                "EN": "石田彰"
+            },
+            {
+                "CH": "신용우",
+                "EN": "신용우"
+            }
+        ],
+        "Camp": 104
     },
     {
         "_id": 1207,
@@ -3157,7 +3537,26 @@ var _avatar = [
                 "SPD": 107.0,
                 "Aggro": 100.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "钟可",
+                "EN": "钟可"
+            },
+            {
+                "CH": "Dawn M. Bennett",
+                "EN": "Dawn M. Bennett"
+            },
+            {
+                "CH": "冬馬由美",
+                "EN": "冬馬由美"
+            },
+            {
+                "CH": "전숙경",
+                "EN": "전숙경"
+            }
+        ],
+        "Camp": 104
     },
     {
         "_id": 1001,
@@ -3307,7 +3706,26 @@ var _avatar = [
                 "SPD": 101.0,
                 "Aggro": 150.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "诺亚",
+                "EN": "诺亚"
+            },
+            {
+                "CH": "Skyler Davenport",
+                "EN": "Skyler Davenport"
+            },
+            {
+                "CH": "小倉唯",
+                "EN": "小倉唯"
+            },
+            {
+                "CH": "정혜원",
+                "EN": "정혜원"
+            }
+        ],
+        "Camp": 100
     },
     {
         "_id": 1002,
@@ -3457,7 +3875,26 @@ var _avatar = [
                 "SPD": 110.0,
                 "Aggro": 75.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "李春胤",
+                "EN": "李春胤"
+            },
+            {
+                "CH": "Nicholas Leung",
+                "EN": "Nicholas Leung"
+            },
+            {
+                "CH": "伊東健人",
+                "EN": "伊東健人"
+            },
+            {
+                "CH": "김혜성",
+                "EN": "김혜성"
+            }
+        ],
+        "Camp": 100
     },
     {
         "_id": 1003,
@@ -3607,7 +4044,26 @@ var _avatar = [
                 "SPD": 96.0,
                 "Aggro": 75.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "林簌",
+                "EN": "林簌"
+            },
+            {
+                "CH": "Cia Court",
+                "EN": "Cia Court"
+            },
+            {
+                "CH": "田中理恵",
+                "EN": "田中理恵"
+            },
+            {
+                "CH": "김보나",
+                "EN": "김보나"
+            }
+        ],
+        "Camp": 100
     },
     {
         "_id": 1004,
@@ -3757,7 +4213,26 @@ var _avatar = [
                 "SPD": 102.0,
                 "Aggro": 100.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "彭博",
+                "EN": "彭博"
+            },
+            {
+                "CH": "Corey Landis",
+                "EN": "Corey Landis"
+            },
+            {
+                "CH": "細谷佳正",
+                "EN": "細谷佳正"
+            },
+            {
+                "CH": "한신",
+                "EN": "한신"
+            }
+        ],
+        "Camp": 100
     },
     {
         "_id": 1008,
@@ -3907,7 +4382,26 @@ var _avatar = [
                 "SPD": 102.0,
                 "Aggro": 125.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "陶典",
+                "EN": "陶典"
+            },
+            {
+                "CH": "Dani Chambers",
+                "EN": "Dani Chambers"
+            },
+            {
+                "CH": "白石涼子",
+                "EN": "白石涼子"
+            },
+            {
+                "CH": "김율",
+                "EN": "김율"
+            }
+        ],
+        "Camp": 102
     },
     {
         "_id": 1009,
@@ -4057,7 +4551,26 @@ var _avatar = [
                 "SPD": 106.0,
                 "Aggro": 100.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "龟娘",
+                "EN": "龟娘"
+            },
+            {
+                "CH": "Felecia Angelle",
+                "EN": "Felecia Angelle"
+            },
+            {
+                "CH": "赤﨑千夏",
+                "EN": "赤﨑千夏"
+            },
+            {
+                "CH": "김현지",
+                "EN": "김현지"
+            }
+        ],
+        "Camp": 102
     },
     {
         "_id": 1013,
@@ -4207,7 +4720,26 @@ var _avatar = [
                 "SPD": 100.0,
                 "Aggro": 75.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "侯小菲",
+                "EN": "侯小菲"
+            },
+            {
+                "CH": "PJ Mattson",
+                "EN": "PJ Mattson"
+            },
+            {
+                "CH": "山崎はるか",
+                "EN": "山崎はるか"
+            },
+            {
+                "CH": "김서영",
+                "EN": "김서영"
+            }
+        ],
+        "Camp": 102
     },
     {
         "_id": 1101,
@@ -4358,6 +4890,25 @@ var _avatar = [
                 "Aggro": 100.0
             }
         ],
+        "CV": [
+            {
+                "CH": "谢莹",
+                "EN": "谢莹"
+            },
+            {
+                "CH": "Madeline Reiter",
+                "EN": "Madeline Reiter"
+            },
+            {
+                "CH": "阿澄佳奈",
+                "EN": "阿澄佳奈"
+            },
+            {
+                "CH": "이보희",
+                "EN": "이보희"
+            }
+        ],
+        "Camp": 103,
         "Data": [
             {
                 "CH": "（有较高的概率会使虫群警戒值大幅提升）",
@@ -4521,7 +5072,26 @@ var _avatar = [
                 "SPD": 115.0,
                 "Aggro": 75.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "唐雅菁",
+                "EN": "唐雅菁"
+            },
+            {
+                "CH": "Molly Zhang",
+                "EN": "Molly Zhang"
+            },
+            {
+                "CH": "中原麻衣",
+                "EN": "中原麻衣"
+            },
+            {
+                "CH": "송하림",
+                "EN": "송하림"
+            }
+        ],
+        "Camp": 103
     },
     {
         "_id": 1103,
@@ -4671,7 +5241,26 @@ var _avatar = [
                 "SPD": 104.0,
                 "Aggro": 75.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "穆雪婷",
+                "EN": "穆雪婷"
+            },
+            {
+                "CH": "Natalie Van Sistine",
+                "EN": "Natalie Van Sistine"
+            },
+            {
+                "CH": "愛美",
+                "EN": "愛美"
+            },
+            {
+                "CH": "민아",
+                "EN": "민아"
+            }
+        ],
+        "Camp": 103
     },
     {
         "_id": 1104,
@@ -4821,7 +5410,26 @@ var _avatar = [
                 "SPD": 92.0,
                 "Aggro": 150.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "马洋",
+                "EN": "马洋"
+            },
+            {
+                "CH": "Bryson Baugus",
+                "EN": "Bryson Baugus"
+            },
+            {
+                "CH": "古川慎",
+                "EN": "古川慎"
+            },
+            {
+                "CH": "민승우",
+                "EN": "민승우"
+            }
+        ],
+        "Camp": 103
     },
     {
         "_id": 1105,
@@ -4971,7 +5579,26 @@ var _avatar = [
                 "SPD": 98.0,
                 "Aggro": 100.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "秦紫翼",
+                "EN": "秦紫翼"
+            },
+            {
+                "CH": "Elizabeth Maxwell",
+                "EN": "Elizabeth Maxwell"
+            },
+            {
+                "CH": "内山夕実",
+                "EN": "内山夕実"
+            },
+            {
+                "CH": "강은애",
+                "EN": "강은애"
+            }
+        ],
+        "Camp": 103
     },
     {
         "_id": 1106,
@@ -5121,7 +5748,26 @@ var _avatar = [
                 "SPD": 105.0,
                 "Aggro": 100.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "宴宁",
+                "EN": "宴宁"
+            },
+            {
+                "CH": "Xanthe Huynh",
+                "EN": "Xanthe Huynh"
+            },
+            {
+                "CH": "諸星すみれ",
+                "EN": "諸星すみれ"
+            },
+            {
+                "CH": "이다은",
+                "EN": "이다은"
+            }
+        ],
+        "Camp": 103
     },
     {
         "_id": 1107,
@@ -5271,7 +5917,26 @@ var _avatar = [
                 "SPD": 90.0,
                 "Aggro": 125.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "紫苏九月&王宇航",
+                "EN": "紫苏九月&王宇航"
+            },
+            {
+                "CH": "Emily Sun & D.C. Douglas",
+                "EN": "Emily Sun & D.C. Douglas"
+            },
+            {
+                "CH": "日高里菜&安元洋貴",
+                "EN": "日高里菜&安元洋貴"
+            },
+            {
+                "CH": "김예림&최낙윤",
+                "EN": "김예림&최낙윤"
+            }
+        ],
+        "Camp": 103
     },
     {
         "_id": 1108,
@@ -5421,7 +6086,26 @@ var _avatar = [
                 "SPD": 102.0,
                 "Aggro": 100.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "刘圣博",
+                "EN": "刘圣博"
+            },
+            {
+                "CH": "Roger Rose",
+                "EN": "Roger Rose"
+            },
+            {
+                "CH": "平川大輔",
+                "EN": "平川大輔"
+            },
+            {
+                "CH": "정재헌",
+                "EN": "정재헌"
+            }
+        ],
+        "Camp": 103
     },
     {
         "_id": 1109,
@@ -5572,7 +6256,26 @@ var _avatar = [
                 "SPD": 94.0,
                 "Aggro": 125.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "王晓彤",
+                "EN": "王晓彤"
+            },
+            {
+                "CH": "Felecia Angelle",
+                "EN": "Felecia Angelle"
+            },
+            {
+                "CH": "徳井青空",
+                "EN": "徳井青空"
+            },
+            {
+                "CH": "이재현",
+                "EN": "이재현"
+            }
+        ],
+        "Camp": 103
     },
     {
         "_id": 1201,
@@ -5723,7 +6426,26 @@ var _avatar = [
                 "SPD": 98.0,
                 "Aggro": 75.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "刘十四",
+                "EN": "刘十四"
+            },
+            {
+                "CH": "Bryn Apprill",
+                "EN": "Bryn Apprill"
+            },
+            {
+                "CH": "伊達朱里紗",
+                "EN": "伊達朱里紗"
+            },
+            {
+                "CH": "서다혜",
+                "EN": "서다혜"
+            }
+        ],
+        "Camp": 104
     },
     {
         "_id": 1202,
@@ -5873,7 +6595,26 @@ var _avatar = [
                 "SPD": 112.0,
                 "Aggro": 100.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "蒋丽",
+                "EN": "蒋丽"
+            },
+            {
+                "CH": "Laci Morgan",
+                "EN": "Laci Morgan"
+            },
+            {
+                "CH": "高田憂希",
+                "EN": "高田憂希"
+            },
+            {
+                "CH": "이명호",
+                "EN": "이명호"
+            }
+        ],
+        "Camp": 104
     },
     {
         "_id": 1204,
@@ -6023,7 +6764,26 @@ var _avatar = [
                 "SPD": 99.0,
                 "Aggro": 75.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "孙晔",
+                "EN": "孙晔"
+            },
+            {
+                "CH": "Alejandro Saab",
+                "EN": "Alejandro Saab"
+            },
+            {
+                "CH": "小野大輔",
+                "EN": "小野大輔"
+            },
+            {
+                "CH": "류승곤",
+                "EN": "류승곤"
+            }
+        ],
+        "Camp": 104
     },
     {
         "_id": 1206,
@@ -6173,7 +6933,26 @@ var _avatar = [
                 "SPD": 107.0,
                 "Aggro": 75.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "陈婷婷",
+                "EN": "陈婷婷"
+            },
+            {
+                "CH": "Anjali Kunapaneni",
+                "EN": "Anjali Kunapaneni"
+            },
+            {
+                "CH": "福圓美里",
+                "EN": "福圓美里"
+            },
+            {
+                "CH": "박시윤",
+                "EN": "박시윤"
+            }
+        ],
+        "Camp": 104
     },
     {
         "_id": 1209,
@@ -6323,7 +7102,26 @@ var _avatar = [
                 "SPD": 109.0,
                 "Aggro": 75.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "喵酱",
+                "EN": "喵酱"
+            },
+            {
+                "CH": "Amber May",
+                "EN": "Amber May"
+            },
+            {
+                "CH": "井上麻里奈",
+                "EN": "井上麻里奈"
+            },
+            {
+                "CH": "이새아",
+                "EN": "이새아"
+            }
+        ],
+        "Camp": 104
     },
     {
         "_id": 1211,
@@ -6473,7 +7271,26 @@ var _avatar = [
                 "SPD": 98.0,
                 "Aggro": 100.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "多多",
+                "EN": "多多"
+            },
+            {
+                "CH": "Su Ling Chan",
+                "EN": "Su Ling Chan"
+            },
+            {
+                "CH": "加藤英美里",
+                "EN": "加藤英美里"
+            },
+            {
+                "CH": "조현정",
+                "EN": "조현정"
+            }
+        ],
+        "Camp": 104
     },
     {
         "_id": 8001,
@@ -6625,7 +7442,26 @@ var _avatar = [
                 "SPD": 100.0,
                 "Aggro": 125.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "秦且歌",
+                "EN": "秦且歌"
+            },
+            {
+                "CH": "Caleb Yen",
+                "EN": "Caleb Yen"
+            },
+            {
+                "CH": "榎木淳弥",
+                "EN": "榎木淳弥"
+            },
+            {
+                "CH": "김명준",
+                "EN": "김명준"
+            }
+        ],
+        "Camp": 100
     },
     {
         "_id": 8002,
@@ -6777,7 +7613,26 @@ var _avatar = [
                 "SPD": 100.0,
                 "Aggro": 125.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "陈婷婷",
+                "EN": "陈婷婷"
+            },
+            {
+                "CH": "Rachael Chau",
+                "EN": "Rachael Chau"
+            },
+            {
+                "CH": "石川由依",
+                "EN": "石川由依"
+            },
+            {
+                "CH": "김하루",
+                "EN": "김하루"
+            }
+        ],
+        "Camp": 100
     },
     {
         "_id": 8003,
@@ -6928,7 +7783,26 @@ var _avatar = [
                 "SPD": 95.0,
                 "Aggro": 150.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "秦且歌",
+                "EN": "秦且歌"
+            },
+            {
+                "CH": "Caleb Yen",
+                "EN": "Caleb Yen"
+            },
+            {
+                "CH": "榎木淳弥",
+                "EN": "榎木淳弥"
+            },
+            {
+                "CH": "김명준",
+                "EN": "김명준"
+            }
+        ],
+        "Camp": 100
     },
     {
         "_id": 8004,
@@ -7079,7 +7953,26 @@ var _avatar = [
                 "SPD": 95.0,
                 "Aggro": 150.0
             }
-        ]
+        ],
+        "CV": [
+            {
+                "CH": "陈婷婷",
+                "EN": "陈婷婷"
+            },
+            {
+                "CH": "Rachael Chau",
+                "EN": "Rachael Chau"
+            },
+            {
+                "CH": "石川由依",
+                "EN": "石川由依"
+            },
+            {
+                "CH": "김하루",
+                "EN": "김하루"
+            }
+        ],
+        "Camp": 100
     }
 ]
 
@@ -75787,1303 +76680,1303 @@ var _weapon = [
 
 var _weaponskill = {
     "20000": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "危机",
                 "EN": "Crisis"
             },
             "Desc": [
                 {
-                    "CH": "战斗开始时，使装备者的暴击率提高 <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>15.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>21.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> ，持续 <b>3.0</b> 回合。",
-                    "EN": "At the start of the battle, the wearer's CRIT Rate increases by <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>15.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>21.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color>  for <b>3.0</b> turn(s)."
+                    "CH": "战斗开始时，使装备者的暴击率提高 <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> ，持续 <b>3.0</b> 回合。",
+                    "EN": "At the start of the battle, the wearer's CRIT Rate increases by <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color>  for <b>3.0</b> turn(s)."
                 }
             ]
         }
     },
     "20001": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "繁盛",
                 "EN": "Prosperity"
             },
             "Desc": [
                 {
-                    "CH": "装备者施放战技和终结技时，治疗量提高 <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>15.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>21.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> 。",
-                    "EN": "When the wearer uses their Skill or Ultimate, their Outgoing Healing increases by <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>15.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>21.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> ."
+                    "CH": "装备者施放战技和终结技时，治疗量提高 <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> 。",
+                    "EN": "When the wearer uses their Skill or Ultimate, their Outgoing Healing increases by <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> ."
                 }
             ]
         }
     },
     "20002": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "破灭",
                 "EN": "Havoc"
             },
             "Desc": [
                 {
-                    "CH": "使装备者普攻和战技造成的伤害提高 <color style='color:#f29e38;'> <b>20.0%</b> </color> / <color style='color:#f29e38;'> <b>25.0%</b> </color> / <color style='color:#f29e38;'> <b>30.0%</b> </color> / <color style='color:#f29e38;'> <b>35.0%</b> </color> / <color style='color:#f29e38;'> <b>40.0%</b> </color> 。",
-                    "EN": "Increases the wearer's Basic ATK and Skill DMG by <color style='color:#f29e38;'><b>20.0%</b></color> / <color style='color:#f29e38;'><b>25.0%</b></color> / <color style='color:#f29e38;'><b>30.0%</b></color> / <color style='color:#f29e38;'><b>35.0%</b></color> / <color style='color:#f29e38;'><b>40.0%</b></color> ."
+                    "CH": "使装备者普攻和战技造成的伤害提高 <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>25.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>40.0%</color> 。",
+                    "EN": "Increases the wearer's Basic ATK and Skill DMG by <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>25.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>40.0%</color> ."
                 }
             ]
         }
     },
     "20003": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "静滞",
                 "EN": "Stasis"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的防御力提高 <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>32.0%</b> </color> 。当装备者当前生命值百分比小于 <b>50.0%</b> 时，其防御力额外提高 <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>32.0%</b> </color> 。",
-                    "EN": "Increases the wearer's DEF by <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>32.0%</b></color> . If the wearer's current HP is lower than <b>50.0%</b>, increases their DEF by a further <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>32.0%</b></color> ."
+                    "CH": "使装备者的防御力提高 <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> 。当装备者当前生命值百分比小于 <b>50.0%</b> 时，其防御力额外提高 <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> 。",
+                    "EN": "Increases the wearer's DEF by <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> . If the wearer's current HP is lower than <b>50.0%</b>, increases their DEF by a further <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> ."
                 }
             ]
         }
     },
     "20004": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "沉沦",
                 "EN": "Fallen"
             },
             "Desc": [
                 {
-                    "CH": "战斗开始时，使装备者的效果命中提高 <color style='color:#f29e38;'> <b>20.0%</b> </color> / <color style='color:#f29e38;'> <b>25.0%</b> </color> / <color style='color:#f29e38;'> <b>30.0%</b> </color> / <color style='color:#f29e38;'> <b>35.0%</b> </color> / <color style='color:#f29e38;'> <b>40.0%</b> </color> ，持续 <b>3.0</b> 回合。",
-                    "EN": "At the start of the battle, the wearer's Effect Hit Rate increases by <color style='color:#f29e38;'><b>20.0%</b></color> / <color style='color:#f29e38;'><b>25.0%</b></color> / <color style='color:#f29e38;'><b>30.0%</b></color> / <color style='color:#f29e38;'><b>35.0%</b></color> / <color style='color:#f29e38;'><b>40.0%</b></color>  for <b>3.0</b> turn(s)."
+                    "CH": "战斗开始时，使装备者的效果命中提高 <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>25.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>40.0%</color> ，持续 <b>3.0</b> 回合。",
+                    "EN": "At the start of the battle, the wearer's Effect Hit Rate increases by <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>25.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>40.0%</color>  for <b>3.0</b> turn(s)."
                 }
             ]
         }
     },
     "20005": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "协力",
                 "EN": "Concerted"
             },
             "Desc": [
                 {
-                    "CH": "进入战斗后，使我方全体的攻击力提高 <color style='color:#f29e38;'> <b>8.0%</b> </color> / <color style='color:#f29e38;'> <b>9.0%</b> </color> / <color style='color:#f29e38;'> <b>10.0%</b> </color> / <color style='color:#f29e38;'> <b>11.0%</b> </color> / <color style='color:#f29e38;'> <b>12.0%</b> </color> 。同类技能无法重复生效。",
-                    "EN": "After entering battle, increases the ATK of all allies by <color style='color:#f29e38;'><b>8.0%</b></color> / <color style='color:#f29e38;'><b>9.0%</b></color> / <color style='color:#f29e38;'><b>10.0%</b></color> / <color style='color:#f29e38;'><b>11.0%</b></color> / <color style='color:#f29e38;'><b>12.0%</b></color> . Effects of the same type cannot stack."
+                    "CH": "进入战斗后，使我方全体的攻击力提高 <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>11.0%</color> / <color style='color:#f29e38;'>12.0%</color> 。同类技能无法重复生效。",
+                    "EN": "After entering battle, increases the ATK of all allies by <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>11.0%</color> / <color style='color:#f29e38;'>12.0%</color> . Effects of the same type cannot stack."
                 }
             ]
         }
     },
     "20006": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "博识",
                 "EN": "Learned"
             },
             "Desc": [
                 {
-                    "CH": "使装备者终结技造成的伤害提高 <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>35.0%</b> </color> / <color style='color:#f29e38;'> <b>42.0%</b> </color> / <color style='color:#f29e38;'> <b>49.0%</b> </color> / <color style='color:#f29e38;'> <b>56.0%</b> </color> 。",
-                    "EN": "Increases the wearer's Ultimate DMG by <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>35.0%</b></color> / <color style='color:#f29e38;'><b>42.0%</b></color> / <color style='color:#f29e38;'><b>49.0%</b></color> / <color style='color:#f29e38;'><b>56.0%</b></color> ."
+                    "CH": "使装备者终结技造成的伤害提高 <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>49.0%</color> / <color style='color:#f29e38;'>56.0%</color> 。",
+                    "EN": "Increases the wearer's Ultimate DMG by <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>49.0%</color> / <color style='color:#f29e38;'>56.0%</color> ."
                 }
             ]
         }
     },
     "20007": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "鸣角",
                 "EN": "War Cry"
             },
             "Desc": [
                 {
-                    "CH": "使装备者消灭敌方目标后，攻击力提高 <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>30.0%</b> </color> / <color style='color:#f29e38;'> <b>36.0%</b> </color> / <color style='color:#f29e38;'> <b>42.0%</b> </color> / <color style='color:#f29e38;'> <b>48.0%</b> </color> ，持续 <b>3.0</b> 回合。",
-                    "EN": "When the wearer defeats an enemy, increases ATK by <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>30.0%</b></color> / <color style='color:#f29e38;'><b>36.0%</b></color> / <color style='color:#f29e38;'><b>42.0%</b></color> / <color style='color:#f29e38;'><b>48.0%</b></color>  for <b>3.0</b> turn(s)."
+                    "CH": "使装备者消灭敌方目标后，攻击力提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> ，持续 <b>3.0</b> 回合。",
+                    "EN": "When the wearer defeats an enemy, increases ATK by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color>  for <b>3.0</b> turn(s)."
                 }
             ]
         }
     },
     "20008": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "甘美",
                 "EN": "Savor"
             },
             "Desc": [
                 {
-                    "CH": "战斗开始时，立即为我方全体恢复 <color style='color:#f29e38;'> <b>6.0</b> </color> / <color style='color:#f29e38;'> <b>7.5</b> </color> / <color style='color:#f29e38;'> <b>9.0</b> </color> / <color style='color:#f29e38;'> <b>10.5</b> </color> / <color style='color:#f29e38;'> <b>12.0</b> </color> 点能量。",
-                    "EN": "At the start of the battle, immediately regenerates <color style='color:#f29e38;'><b>6.0</b></color> / <color style='color:#f29e38;'><b>7.5</b></color> / <color style='color:#f29e38;'><b>9.0</b></color> / <color style='color:#f29e38;'><b>10.5</b></color> / <color style='color:#f29e38;'><b>12.0</b></color>  Energy for all allies."
+                    "CH": "战斗开始时，立即为我方全体恢复 <color style='color:#f29e38;'>6.0</color> / <color style='color:#f29e38;'>7.5</color> / <color style='color:#f29e38;'>9.0</color> / <color style='color:#f29e38;'>10.5</color> / <color style='color:#f29e38;'>12.0</color> 点能量。",
+                    "EN": "At the start of the battle, immediately regenerates <color style='color:#f29e38;'>6.0</color> / <color style='color:#f29e38;'>7.5</color> / <color style='color:#f29e38;'>9.0</color> / <color style='color:#f29e38;'>10.5</color> / <color style='color:#f29e38;'>12.0</color>  Energy for all allies."
                 }
             ]
         }
     },
     "20009": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "诛讨",
                 "EN": "Eradication"
             },
             "Desc": [
                 {
-                    "CH": "使装备者对当前生命值百分比大于 <b>50.0%</b> 的敌方目标造成的伤害提高 <color style='color:#f29e38;'> <b>20.0%</b> </color> / <color style='color:#f29e38;'> <b>25.0%</b> </color> / <color style='color:#f29e38;'> <b>30.0%</b> </color> / <color style='color:#f29e38;'> <b>35.0%</b> </color> / <color style='color:#f29e38;'> <b>40.0%</b> </color> 。",
-                    "EN": "The wearer deals <color style='color:#f29e38;'><b>20.0%</b></color> / <color style='color:#f29e38;'><b>25.0%</b></color> / <color style='color:#f29e38;'><b>30.0%</b></color> / <color style='color:#f29e38;'><b>35.0%</b></color> / <color style='color:#f29e38;'><b>40.0%</b></color>  more DMG to enemy targets whose HP percentage is greater than <b>50.0%</b>."
+                    "CH": "使装备者对当前生命值百分比大于 <b>50.0%</b> 的敌方目标造成的伤害提高 <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>25.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>40.0%</color> 。",
+                    "EN": "The wearer deals <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>25.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>40.0%</color>  more DMG to enemy targets whose HP percentage is greater than <b>50.0%</b>."
                 }
             ]
         }
     },
     "20010": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "兴复",
                 "EN": "Revitalization"
             },
             "Desc": [
                 {
-                    "CH": "使装备者施放终结技时，回复等同于自身生命上限 <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>21.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>27.0%</b> </color> / <color style='color:#f29e38;'> <b>30.0%</b> </color> 的生命值。",
-                    "EN": "When the wearer unleashes their Ultimate, they restore HP by <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>21.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>27.0%</b></color> / <color style='color:#f29e38;'><b>30.0%</b></color>  of their Max HP."
+                    "CH": "使装备者施放终结技时，回复等同于自身生命上限 <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>27.0%</color> / <color style='color:#f29e38;'>30.0%</color> 的生命值。",
+                    "EN": "When the wearer unleashes their Ultimate, they restore HP by <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>27.0%</color> / <color style='color:#f29e38;'>30.0%</color>  of their Max HP."
                 }
             ]
         }
     },
     "20011": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "追逼",
                 "EN": "Pursuit"
             },
             "Desc": [
                 {
-                    "CH": "使装备者对减速状态下的敌方目标造成的伤害提高 <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>30.0%</b> </color> / <color style='color:#f29e38;'> <b>36.0%</b> </color> / <color style='color:#f29e38;'> <b>42.0%</b> </color> / <color style='color:#f29e38;'> <b>48.0%</b> </color> 。",
-                    "EN": "Increases DMG dealt from its wearer to Slowed enemies by <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>30.0%</b></color> / <color style='color:#f29e38;'><b>36.0%</b></color> / <color style='color:#f29e38;'><b>42.0%</b></color> / <color style='color:#f29e38;'><b>48.0%</b></color> ."
+                    "CH": "使装备者对减速状态下的敌方目标造成的伤害提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> 。",
+                    "EN": "Increases DMG dealt from its wearer to Slowed enemies by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> ."
                 }
             ]
         }
     },
     "20012": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "速决",
                 "EN": "Fleet Triumph"
             },
             "Desc": [
                 {
-                    "CH": "使装备者施放攻击或受到攻击后，额外恢复 <color style='color:#f29e38;'> <b>4.0</b> </color> / <color style='color:#f29e38;'> <b>5.0</b> </color> / <color style='color:#f29e38;'> <b>6.0</b> </color> / <color style='color:#f29e38;'> <b>7.0</b> </color> / <color style='color:#f29e38;'> <b>8.0</b> </color> 点能量，该效果单个回合内不可重复触发。",
-                    "EN": "After the wearer uses attacks or gets hit, additionally regenerates <color style='color:#f29e38;'><b>4.0</b></color> / <color style='color:#f29e38;'><b>5.0</b></color> / <color style='color:#f29e38;'><b>6.0</b></color> / <color style='color:#f29e38;'><b>7.0</b></color> / <color style='color:#f29e38;'><b>8.0</b></color>  Energy. This effect cannot be repeatedly triggered in a single turn."
+                    "CH": "使装备者施放攻击或受到攻击后，额外恢复 <color style='color:#f29e38;'>4.0</color> / <color style='color:#f29e38;'>5.0</color> / <color style='color:#f29e38;'>6.0</color> / <color style='color:#f29e38;'>7.0</color> / <color style='color:#f29e38;'>8.0</color> 点能量，该效果单个回合内不可重复触发。",
+                    "EN": "After the wearer uses attacks or gets hit, additionally regenerates <color style='color:#f29e38;'>4.0</color> / <color style='color:#f29e38;'>5.0</color> / <color style='color:#f29e38;'>6.0</color> / <color style='color:#f29e38;'>7.0</color> / <color style='color:#f29e38;'>8.0</color>  Energy. This effect cannot be repeatedly triggered in a single turn."
                 }
             ]
         }
     },
     "20013": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "顿悟",
                 "EN": "Epiphany"
             },
             "Desc": [
                 {
-                    "CH": "使装备者施放战技后额外恢复 <color style='color:#f29e38;'> <b>8.0</b> </color> / <color style='color:#f29e38;'> <b>9.0</b> </color> / <color style='color:#f29e38;'> <b>10.0</b> </color> / <color style='color:#f29e38;'> <b>11.0</b> </color> / <color style='color:#f29e38;'> <b>12.0</b> </color> 点能量，该效果单个回合内不可重复触发。",
-                    "EN": "After the wearer uses their Skill, additionally regenerates <color style='color:#f29e38;'><b>8.0</b></color> / <color style='color:#f29e38;'><b>9.0</b></color> / <color style='color:#f29e38;'><b>10.0</b></color> / <color style='color:#f29e38;'><b>11.0</b></color> / <color style='color:#f29e38;'><b>12.0</b></color>  Energy. This effect cannot be repeatedly triggered in a single turn."
+                    "CH": "使装备者施放战技后额外恢复 <color style='color:#f29e38;'>8.0</color> / <color style='color:#f29e38;'>9.0</color> / <color style='color:#f29e38;'>10.0</color> / <color style='color:#f29e38;'>11.0</color> / <color style='color:#f29e38;'>12.0</color> 点能量，该效果单个回合内不可重复触发。",
+                    "EN": "After the wearer uses their Skill, additionally regenerates <color style='color:#f29e38;'>8.0</color> / <color style='color:#f29e38;'>9.0</color> / <color style='color:#f29e38;'>10.0</color> / <color style='color:#f29e38;'>11.0</color> / <color style='color:#f29e38;'>12.0</color>  Energy. This effect cannot be repeatedly triggered in a single turn."
                 }
             ]
         }
     },
     "20014": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "联盟",
                 "EN": "Alliance"
             },
             "Desc": [
                 {
-                    "CH": "使装备者在消灭敌方目标后，速度提高 <color style='color:#f29e38;'> <b>10.0%</b> </color> / <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>14.0%</b> </color> / <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> ，持续 <b>2.0</b> 回合。",
-                    "EN": "When the wearer defeats an enemy, increases SPD by <color style='color:#f29e38;'><b>10.0%</b></color> / <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>14.0%</b></color> / <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color>  for <b>2.0</b> turn(s)."
+                    "CH": "使装备者在消灭敌方目标后，速度提高 <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> ，持续 <b>2.0</b> 回合。",
+                    "EN": "When the wearer defeats an enemy, increases SPD by <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color>  for <b>2.0</b> turn(s)."
                 }
             ]
         }
     },
     "20015": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "丰饶民",
                 "EN": "Denizens of Abundance"
             },
             "Desc": [
                 {
-                    "CH": "当装备者施放普攻后，使下一次行动提前 <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>14.0%</b> </color> / <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> 。",
-                    "EN": "After the wearer uses their Basic ATK, their next action will be Advanced Forward by <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>14.0%</b></color> / <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color> ."
+                    "CH": "当装备者施放普攻后，使下一次行动提前 <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> 。",
+                    "EN": "After the wearer uses their Basic ATK, their next action will be Advanced Forward by <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> ."
                 }
             ]
         }
     },
     "20016": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "军团",
                 "EN": "Legion"
             },
             "Desc": [
                 {
-                    "CH": "装备者当前生命值百分比小于 <b>80.0%</b> 时，暴击率提高 <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>15.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>21.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> 。",
-                    "EN": "If the wearer's current HP is lower than <b>80.0%</b>, CRIT Rate increases by <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>15.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>21.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> ."
+                    "CH": "装备者当前生命值百分比小于 <b>80.0%</b> 时，暴击率提高 <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> 。",
+                    "EN": "If the wearer's current HP is lower than <b>80.0%</b>, CRIT Rate increases by <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> ."
                 }
             ]
         }
     },
     "20017": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "公司",
                 "EN": "IPC"
             },
             "Desc": [
                 {
-                    "CH": "当装备者击破敌方目标的弱点时，回复等同于自身生命上限 <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>14.0%</b> </color> / <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> 的生命值。",
-                    "EN": "When the wearer Breaks an enemy's Weakness, the wearer restores HP by <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>14.0%</b></color> / <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color>  of their Max HP."
+                    "CH": "当装备者击破敌方目标的弱点时，回复等同于自身生命上限 <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> 的生命值。",
+                    "EN": "When the wearer Breaks an enemy's Weakness, the wearer restores HP by <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color>  of their Max HP."
                 }
             ]
         }
     },
     "20018": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "机关",
                 "EN": "Mechanism"
             },
             "Desc": [
                 {
-                    "CH": "施放战技后，使装备者的下一次普攻对敌方目标造成等同于自身 <color style='color:#f29e38;'> <b>60.0%</b> </color> / <color style='color:#f29e38;'> <b>75.0%</b> </color> / <color style='color:#f29e38;'> <b>90.0%</b> </color> / <color style='color:#f29e38;'> <b>105.0%</b> </color> / <color style='color:#f29e38;'> <b>120.0%</b> </color> 攻击力的附加伤害。",
-                    "EN": "After using Skill, the wearer's next Basic ATK deals Additional DMG equal to <color style='color:#f29e38;'><b>60.0%</b></color> / <color style='color:#f29e38;'><b>75.0%</b></color> / <color style='color:#f29e38;'><b>90.0%</b></color> / <color style='color:#f29e38;'><b>105.0%</b></color> / <color style='color:#f29e38;'><b>120.0%</b></color>  of ATK to the target enemy."
+                    "CH": "施放战技后，使装备者的下一次普攻对敌方目标造成等同于自身 <color style='color:#f29e38;'>60.0%</color> / <color style='color:#f29e38;'>75.0%</color> / <color style='color:#f29e38;'>90.0%</color> / <color style='color:#f29e38;'>105.0%</color> / <color style='color:#f29e38;'>120.0%</color> 攻击力的附加伤害。",
+                    "EN": "After using Skill, the wearer's next Basic ATK deals Additional DMG equal to <color style='color:#f29e38;'>60.0%</color> / <color style='color:#f29e38;'>75.0%</color> / <color style='color:#f29e38;'>90.0%</color> / <color style='color:#f29e38;'>105.0%</color> / <color style='color:#f29e38;'>120.0%</color>  of ATK to the target enemy."
                 }
             ]
         }
     },
     "20019": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "家族",
                 "EN": "Family"
             },
             "Desc": [
                 {
-                    "CH": "进入战斗时，我方全体速度提高 <color style='color:#f29e38;'> <b>12.0</b> </color> / <color style='color:#f29e38;'> <b>14.0</b> </color> / <color style='color:#f29e38;'> <b>16.0</b> </color> / <color style='color:#f29e38;'> <b>18.0</b> </color> / <color style='color:#f29e38;'> <b>20.0</b> </color> 点，持续 <b>1.0</b> 回合。",
-                    "EN": "Upon entering battle, increases SPD of all allies by <color style='color:#f29e38;'><b>12.0</b></color> / <color style='color:#f29e38;'><b>14.0</b></color> / <color style='color:#f29e38;'><b>16.0</b></color> / <color style='color:#f29e38;'><b>18.0</b></color> / <color style='color:#f29e38;'><b>20.0</b></color>  points for <b>1.0</b> turn(s)."
+                    "CH": "进入战斗时，我方全体速度提高 <color style='color:#f29e38;'>12.0</color> / <color style='color:#f29e38;'>14.0</color> / <color style='color:#f29e38;'>16.0</color> / <color style='color:#f29e38;'>18.0</color> / <color style='color:#f29e38;'>20.0</color> 点，持续 <b>1.0</b> 回合。",
+                    "EN": "Upon entering battle, increases SPD of all allies by <color style='color:#f29e38;'>12.0</color> / <color style='color:#f29e38;'>14.0</color> / <color style='color:#f29e38;'>16.0</color> / <color style='color:#f29e38;'>18.0</color> / <color style='color:#f29e38;'>20.0</color>  points for <b>1.0</b> turn(s)."
                 }
             ]
         }
     },
     "20020": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "天才",
                 "EN": "Genius"
             },
             "Desc": [
                 {
-                    "CH": "当装备者施放终结技时，攻击力提高 <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>30.0%</b> </color> / <color style='color:#f29e38;'> <b>36.0%</b> </color> / <color style='color:#f29e38;'> <b>42.0%</b> </color> / <color style='color:#f29e38;'> <b>48.0%</b> </color> ，持续 <b>2.0</b> 回合。",
-                    "EN": "When the wearer uses their Ultimate, increases ATK by <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>30.0%</b></color> / <color style='color:#f29e38;'><b>36.0%</b></color> / <color style='color:#f29e38;'><b>42.0%</b></color> / <color style='color:#f29e38;'><b>48.0%</b></color>  for <b>2.0</b> turn(s)."
+                    "CH": "当装备者施放终结技时，攻击力提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> ，持续 <b>2.0</b> 回合。",
+                    "EN": "When the wearer uses their Ultimate, increases ATK by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color>  for <b>2.0</b> turn(s)."
                 }
             ]
         }
     },
     "21000": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "互相治愈",
                 "EN": "Mutual Healing"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的能量恢复效率提高 <color style='color:#f29e38;'> <b>8.0%</b> </color> / <color style='color:#f29e38;'> <b>10.0%</b> </color> / <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>14.0%</b> </color> / <color style='color:#f29e38;'> <b>16.0%</b> </color> ，并在施放终结技时治疗量提高 <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>15.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>21.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> 。",
-                    "EN": "Increases the wearer's Energy Regeneration Rate by <color style='color:#f29e38;'><b>8.0%</b></color> / <color style='color:#f29e38;'><b>10.0%</b></color> / <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>14.0%</b></color> / <color style='color:#f29e38;'><b>16.0%</b></color>  and increases Outgoing Healing when they use their Ultimate by <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>15.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>21.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> ."
+                    "CH": "使装备者的能量恢复效率提高 <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> ，并在施放终结技时治疗量提高 <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> 。",
+                    "EN": "Increases the wearer's Energy Regeneration Rate by <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color>  and increases Outgoing Healing when they use their Ultimate by <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> ."
                 }
             ]
         }
     },
     "21001": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "劳碌者",
                 "EN": "Toiler"
             },
             "Desc": [
                 {
-                    "CH": "敌方目标每承受1个负面效果，装备者对其造成的伤害提高 <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>15.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>21.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> ，最多叠加 <b>3.0</b> 层。该效果对持续伤害也会生效。",
-                    "EN": "For every debuff the target enemy has, the DMG dealt by the wearer increases by <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>15.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>21.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> , stacking up to <b>3.0</b> time(s). This effect also applies to DoT."
+                    "CH": "敌方目标每承受1个负面效果，装备者对其造成的伤害提高 <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> ，最多叠加 <b>3.0</b> 层。该效果对持续伤害也会生效。",
+                    "EN": "For every debuff the target enemy has, the DMG dealt by the wearer increases by <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> , stacking up to <b>3.0</b> time(s). This effect also applies to DoT."
                 }
             ]
         }
     },
     "21002": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "此刻定格",
                 "EN": "At This Very Moment"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的防御力提高 <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> / <color style='color:#f29e38;'> <b>22.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> 。进入战斗后，使我方全体的全属性抗性提高 <color style='color:#f29e38;'> <b>8.0%</b> </color> / <color style='color:#f29e38;'> <b>9.0%</b> </color> / <color style='color:#f29e38;'> <b>10.0%</b> </color> / <color style='color:#f29e38;'> <b>11.0%</b> </color> / <color style='color:#f29e38;'> <b>12.0%</b> </color> 。同类技能无法重复生效。",
-                    "EN": "Increases the wearer's DEF by <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color> / <color style='color:#f29e38;'><b>22.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> . After entering battle, increases All-Type RES of all allies by <color style='color:#f29e38;'><b>8.0%</b></color> / <color style='color:#f29e38;'><b>9.0%</b></color> / <color style='color:#f29e38;'><b>10.0%</b></color> / <color style='color:#f29e38;'><b>11.0%</b></color> / <color style='color:#f29e38;'><b>12.0%</b></color> . Effects of the same type cannot stack."
+                    "CH": "使装备者的防御力提高 <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>22.0%</color> / <color style='color:#f29e38;'>24.0%</color> 。进入战斗后，使我方全体的全属性抗性提高 <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>11.0%</color> / <color style='color:#f29e38;'>12.0%</color> 。同类技能无法重复生效。",
+                    "EN": "Increases the wearer's DEF by <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>22.0%</color> / <color style='color:#f29e38;'>24.0%</color> . After entering battle, increases All-Type RES of all allies by <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>11.0%</color> / <color style='color:#f29e38;'>12.0%</color> . Effects of the same type cannot stack."
                 }
             ]
         }
     },
     "21003": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "记录",
                 "EN": "Record"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的攻击力提高 <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>32.0%</b> </color> 。当场上的敌方目标数量小于等于2时，装备者的暴击率提高 <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>15.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>21.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> 。",
-                    "EN": "Increases the wearer's ATK by <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>32.0%</b></color> . If there are 2 or fewer enemies on the field, increases wearer's CRIT Rate by <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>15.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>21.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> ."
+                    "CH": "使装备者的攻击力提高 <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> 。当场上的敌方目标数量小于等于2时，装备者的暴击率提高 <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> 。",
+                    "EN": "Increases the wearer's ATK by <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> . If there are 2 or fewer enemies on the field, increases wearer's CRIT Rate by <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> ."
                 }
             ]
         }
     },
     "21004": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "老相片",
                 "EN": "Old Photo"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的击破特攻提高 <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>35.0%</b> </color> / <color style='color:#f29e38;'> <b>42.0%</b> </color> / <color style='color:#f29e38;'> <b>49.0%</b> </color> / <color style='color:#f29e38;'> <b>56.0%</b> </color> 。装备者施放攻击后，额外恢复 <color style='color:#f29e38;'> <b>4.0</b> </color> / <color style='color:#f29e38;'> <b>5.0</b> </color> / <color style='color:#f29e38;'> <b>6.0</b> </color> / <color style='color:#f29e38;'> <b>7.0</b> </color> / <color style='color:#f29e38;'> <b>8.0</b> </color> 点能量，该效果单个回合内不可重复触发。",
-                    "EN": "Increases the wearer's Break Effect by <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>35.0%</b></color> / <color style='color:#f29e38;'><b>42.0%</b></color> / <color style='color:#f29e38;'><b>49.0%</b></color> / <color style='color:#f29e38;'><b>56.0%</b></color> . When the wearer attacks, additionally regenerates <color style='color:#f29e38;'><b>4.0</b></color> / <color style='color:#f29e38;'><b>5.0</b></color> / <color style='color:#f29e38;'><b>6.0</b></color> / <color style='color:#f29e38;'><b>7.0</b></color> / <color style='color:#f29e38;'><b>8.0</b></color>  Energy. This effect cannot be repeatedly triggered in a single turn."
+                    "CH": "使装备者的击破特攻提高 <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>49.0%</color> / <color style='color:#f29e38;'>56.0%</color> 。装备者施放攻击后，额外恢复 <color style='color:#f29e38;'>4.0</color> / <color style='color:#f29e38;'>5.0</color> / <color style='color:#f29e38;'>6.0</color> / <color style='color:#f29e38;'>7.0</color> / <color style='color:#f29e38;'>8.0</color> 点能量，该效果单个回合内不可重复触发。",
+                    "EN": "Increases the wearer's Break Effect by <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>49.0%</color> / <color style='color:#f29e38;'>56.0%</color> . When the wearer attacks, additionally regenerates <color style='color:#f29e38;'>4.0</color> / <color style='color:#f29e38;'>5.0</color> / <color style='color:#f29e38;'>6.0</color> / <color style='color:#f29e38;'>7.0</color> / <color style='color:#f29e38;'>8.0</color>  Energy. This effect cannot be repeatedly triggered in a single turn."
                 }
             ]
         }
     },
     "21005": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "奇妙冒险",
                 "EN": "Fantastic Adventure"
             },
             "Desc": [
                 {
-                    "CH": "装备者施放普攻、战技或终结技攻击敌方目标后，分别获取一层【淘气值】。每层使装备者的攻击力提高 <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>15.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>21.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> 。",
-                    "EN": "When the wearer uses Basic ATK, Skill, or Ultimate to attack enemies, the wearer gains one stack of Mischievous. Each stack increases the wearer's ATK by <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>15.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>21.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> ."
+                    "CH": "装备者施放普攻、战技或终结技攻击敌方目标后，分别获取一层【淘气值】。每层使装备者的攻击力提高 <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> 。",
+                    "EN": "When the wearer uses Basic ATK, Skill, or Ultimate to attack enemies, the wearer gains one stack of Mischievous. Each stack increases the wearer's ATK by <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> ."
                 }
             ]
         }
     },
     "21006": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "画像少女",
                 "EN": "The Maiden in the Painting"
             },
             "Desc": [
                 {
-                    "CH": "使装备者追加攻击造成的伤害提高 <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>30.0%</b> </color> / <color style='color:#f29e38;'> <b>36.0%</b> </color> / <color style='color:#f29e38;'> <b>42.0%</b> </color> / <color style='color:#f29e38;'> <b>48.0%</b> </color> 。若该敌方目标当前生命值百分比小于等于 <b>50.0%</b> ，则追加攻击造成的伤害额外提高 <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>30.0%</b> </color> / <color style='color:#f29e38;'> <b>36.0%</b> </color> / <color style='color:#f29e38;'> <b>42.0%</b> </color> / <color style='color:#f29e38;'> <b>48.0%</b> </color> 。",
-                    "EN": "Increases DMG dealt by the wearer's follow-up attacks by <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>30.0%</b></color> / <color style='color:#f29e38;'><b>36.0%</b></color> / <color style='color:#f29e38;'><b>42.0%</b></color> / <color style='color:#f29e38;'><b>48.0%</b></color> . If the current HP of the target enemy is below or equal to <b>50.0%</b>, increases DMG dealt by follow-up attacks by an extra <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>30.0%</b></color> / <color style='color:#f29e38;'><b>36.0%</b></color> / <color style='color:#f29e38;'><b>42.0%</b></color> / <color style='color:#f29e38;'><b>48.0%</b></color> ."
+                    "CH": "使装备者追加攻击造成的伤害提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> 。若该敌方目标当前生命值百分比小于等于 <b>50.0%</b> ，则追加攻击造成的伤害额外提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> 。",
+                    "EN": "Increases DMG dealt by the wearer's follow-up attacks by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> . If the current HP of the target enemy is below or equal to <b>50.0%</b>, increases DMG dealt by follow-up attacks by an extra <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> ."
                 }
             ]
         }
     },
     "21008": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "自信",
                 "EN": "Self-Confidence"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的效果命中提高 <color style='color:#f29e38;'> <b>20.0%</b> </color> / <color style='color:#f29e38;'> <b>25.0%</b> </color> / <color style='color:#f29e38;'> <b>30.0%</b> </color> / <color style='color:#f29e38;'> <b>35.0%</b> </color> / <color style='color:#f29e38;'> <b>40.0%</b> </color> ，同时造成的持续伤害提高 <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>30.0%</b> </color> / <color style='color:#f29e38;'> <b>36.0%</b> </color> / <color style='color:#f29e38;'> <b>42.0%</b> </color> / <color style='color:#f29e38;'> <b>48.0%</b> </color> 。",
-                    "EN": "Increases the wearer's Effect Hit Rate by <color style='color:#f29e38;'><b>20.0%</b></color> / <color style='color:#f29e38;'><b>25.0%</b></color> / <color style='color:#f29e38;'><b>30.0%</b></color> / <color style='color:#f29e38;'><b>35.0%</b></color> / <color style='color:#f29e38;'><b>40.0%</b></color>  and increases DoT by <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>30.0%</b></color> / <color style='color:#f29e38;'><b>36.0%</b></color> / <color style='color:#f29e38;'><b>42.0%</b></color> / <color style='color:#f29e38;'><b>48.0%</b></color> ."
+                    "CH": "使装备者的效果命中提高 <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>25.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>40.0%</color> ，同时造成的持续伤害提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> 。",
+                    "EN": "Increases the wearer's Effect Hit Rate by <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>25.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>40.0%</color>  and increases DoT by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> ."
                 }
             ]
         }
     },
     "21009": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "时光如梭",
                 "EN": "Time Fleets Away"
             },
             "Desc": [
                 {
-                    "CH": "使装备者受到攻击的概率提高，同时受到的伤害降低 <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> / <color style='color:#f29e38;'> <b>22.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> 。<br>隐藏数值：2.0",
-                    "EN": "The wearer is more likely to be attacked, and DMG taken is reduced by <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color> / <color style='color:#f29e38;'><b>22.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> .<br>Hidden Stat: 2.0"
+                    "CH": "使装备者受到攻击的概率提高，同时受到的伤害降低 <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>22.0%</color> / <color style='color:#f29e38;'>24.0%</color> 。<br>隐藏数值：2.0",
+                    "EN": "The wearer is more likely to be attacked, and DMG taken is reduced by <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>22.0%</color> / <color style='color:#f29e38;'>24.0%</color> .<br>Hidden Stat: 2.0"
                 }
             ]
         }
     },
     "21010": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "各自的答案",
                 "EN": "Answers of Their Own"
             },
             "Desc": [
                 {
-                    "CH": "当装备者多次击中同一敌方目标时，每次造成的伤害提高 <color style='color:#f29e38;'> <b>8.0%</b> </color> / <color style='color:#f29e38;'> <b>10.0%</b> </color> / <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>14.0%</b> </color> / <color style='color:#f29e38;'> <b>16.0%</b> </color> ，该效果最多叠加 <b>5.0</b> 层。若攻击目标发生变化，立即解除当前的增益效果。",
-                    "EN": "For each time the wearer hits the same target, DMG dealt increases by <color style='color:#f29e38;'><b>8.0%</b></color> / <color style='color:#f29e38;'><b>10.0%</b></color> / <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>14.0%</b></color> / <color style='color:#f29e38;'><b>16.0%</b></color> , stacking up to <b>5.0</b> time(s). This effect will be dispelled when the wearer changes targets."
+                    "CH": "当装备者多次击中同一敌方目标时，每次造成的伤害提高 <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> ，该效果最多叠加 <b>5.0</b> 层。若攻击目标发生变化，立即解除当前的增益效果。",
+                    "EN": "For each time the wearer hits the same target, DMG dealt increases by <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> , stacking up to <b>5.0</b> time(s). This effect will be dispelled when the wearer changes targets."
                 }
             ]
         }
     },
     "21011": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "启程",
                 "EN": "Departure"
             },
             "Desc": [
                 {
-                    "CH": "进入战斗后，当我方目标造成与装备者相同属性的伤害时，造成的伤害提高 <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>15.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>21.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> 。",
-                    "EN": "After entering battle, if an ally deals the same DMG Type as the wearer, DMG dealt increases by <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>15.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>21.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> ."
+                    "CH": "进入战斗后，当我方目标造成与装备者相同属性的伤害时，造成的伤害提高 <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> 。",
+                    "EN": "After entering battle, if an ally deals the same DMG Type as the wearer, DMG dealt increases by <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> ."
                 }
             ]
         }
     },
     "21012": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "竭力而为",
                 "EN": "Spare No Effort"
             },
             "Desc": [
                 {
-                    "CH": "使装备者造成的伤害提高 <color style='color:#f29e38;'> <b>20.0%</b> </color> / <color style='color:#f29e38;'> <b>25.0%</b> </color> / <color style='color:#f29e38;'> <b>30.0%</b> </color> / <color style='color:#f29e38;'> <b>35.0%</b> </color> / <color style='color:#f29e38;'> <b>40.0%</b> </color> ，同时对当前生命值百分比大于等于装备者自身当前生命值百分比的敌方目标造成的伤害额外提高 <color style='color:#f29e38;'> <b>20.0%</b> </color> / <color style='color:#f29e38;'> <b>25.0%</b> </color> / <color style='color:#f29e38;'> <b>30.0%</b> </color> / <color style='color:#f29e38;'> <b>35.0%</b> </color> / <color style='color:#f29e38;'> <b>40.0%</b> </color> 。",
-                    "EN": "Increases DMG dealt by the wearer by <color style='color:#f29e38;'><b>20.0%</b></color> / <color style='color:#f29e38;'><b>25.0%</b></color> / <color style='color:#f29e38;'><b>30.0%</b></color> / <color style='color:#f29e38;'><b>35.0%</b></color> / <color style='color:#f29e38;'><b>40.0%</b></color> . The wearer also deals an extra <color style='color:#f29e38;'><b>20.0%</b></color> / <color style='color:#f29e38;'><b>25.0%</b></color> / <color style='color:#f29e38;'><b>30.0%</b></color> / <color style='color:#f29e38;'><b>35.0%</b></color> / <color style='color:#f29e38;'><b>40.0%</b></color>  of DMG to enemies whose current HP percentage is equal to or higher than the wearer's current HP percentage."
+                    "CH": "使装备者造成的伤害提高 <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>25.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>40.0%</color> ，同时对当前生命值百分比大于等于装备者自身当前生命值百分比的敌方目标造成的伤害额外提高 <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>25.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>40.0%</color> 。",
+                    "EN": "Increases DMG dealt by the wearer by <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>25.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>40.0%</color> . The wearer also deals an extra <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>25.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>40.0%</color>  of DMG to enemies whose current HP percentage is equal to or higher than the wearer's current HP percentage."
                 }
             ]
         }
     },
     "21013": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "声音的力量",
                 "EN": "The Power of Sound"
             },
             "Desc": [
                 {
-                    "CH": "使装备者进入战斗时立即恢复 <color style='color:#f29e38;'> <b>20.0</b> </color> / <color style='color:#f29e38;'> <b>23.0</b> </color> / <color style='color:#f29e38;'> <b>26.0</b> </color> / <color style='color:#f29e38;'> <b>29.0</b> </color> / <color style='color:#f29e38;'> <b>32.0</b> </color> 点能量，同时使其终结技造成的伤害提高 <color style='color:#f29e38;'> <b>32.0%</b> </color> / <color style='color:#f29e38;'> <b>40.0%</b> </color> / <color style='color:#f29e38;'> <b>48.0%</b> </color> / <color style='color:#f29e38;'> <b>56.0%</b> </color> / <color style='color:#f29e38;'> <b>64.0%</b> </color> 。",
-                    "EN": "The wearer regenerates <color style='color:#f29e38;'><b>20.0</b></color> / <color style='color:#f29e38;'><b>23.0</b></color> / <color style='color:#f29e38;'><b>26.0</b></color> / <color style='color:#f29e38;'><b>29.0</b></color> / <color style='color:#f29e38;'><b>32.0</b></color>  Energy immediately upon entering battle, and increases Ultimate DMG by <color style='color:#f29e38;'><b>32.0%</b></color> / <color style='color:#f29e38;'><b>40.0%</b></color> / <color style='color:#f29e38;'><b>48.0%</b></color> / <color style='color:#f29e38;'><b>56.0%</b></color> / <color style='color:#f29e38;'><b>64.0%</b></color> ."
+                    "CH": "使装备者进入战斗时立即恢复 <color style='color:#f29e38;'>20.0</color> / <color style='color:#f29e38;'>23.0</color> / <color style='color:#f29e38;'>26.0</color> / <color style='color:#f29e38;'>29.0</color> / <color style='color:#f29e38;'>32.0</color> 点能量，同时使其终结技造成的伤害提高 <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>56.0%</color> / <color style='color:#f29e38;'>64.0%</color> 。",
+                    "EN": "The wearer regenerates <color style='color:#f29e38;'>20.0</color> / <color style='color:#f29e38;'>23.0</color> / <color style='color:#f29e38;'>26.0</color> / <color style='color:#f29e38;'>29.0</color> / <color style='color:#f29e38;'>32.0</color>  Energy immediately upon entering battle, and increases Ultimate DMG by <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>56.0%</color> / <color style='color:#f29e38;'>64.0%</color> ."
                 }
             ]
         }
     },
     "21014": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "折射的视线",
                 "EN": "Refraction of Sightline"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的效果抵抗提高 <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>32.0%</b> </color> ，并使装备者的治疗量提高，提高数值等同于效果抵抗的 <color style='color:#f29e38;'> <b>33.0%</b> </color> / <color style='color:#f29e38;'> <b>36.0%</b> </color> / <color style='color:#f29e38;'> <b>39.0%</b> </color> / <color style='color:#f29e38;'> <b>42.0%</b> </color> / <color style='color:#f29e38;'> <b>45.0%</b> </color> ，最多使治疗量提高 <color style='color:#f29e38;'> <b>15.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>21.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>27.0%</b> </color> 。",
-                    "EN": "Increases the wearer's Effect RES by <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>32.0%</b></color>  and increases Outgoing Healing by an amount that is equal to <color style='color:#f29e38;'><b>33.0%</b></color> / <color style='color:#f29e38;'><b>36.0%</b></color> / <color style='color:#f29e38;'><b>39.0%</b></color> / <color style='color:#f29e38;'><b>42.0%</b></color> / <color style='color:#f29e38;'><b>45.0%</b></color>  of Effect RES. Outgoing Healing can be increased this way by up to <color style='color:#f29e38;'><b>15.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>21.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>27.0%</b></color> ."
+                    "CH": "使装备者的效果抵抗提高 <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> ，并使装备者的治疗量提高，提高数值等同于效果抵抗的 <color style='color:#f29e38;'>33.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>39.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>45.0%</color> ，最多使治疗量提高 <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>27.0%</color> 。",
+                    "EN": "Increases the wearer's Effect RES by <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color>  and increases Outgoing Healing by an amount that is equal to <color style='color:#f29e38;'>33.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>39.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>45.0%</color>  of Effect RES. Outgoing Healing can be increased this way by up to <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>27.0%</color> ."
                 }
             ]
         }
     },
     "21015": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "回眸",
                 "EN": "Glance Back"
             },
             "Desc": [
                 {
-                    "CH": "当装备者击中敌方目标时，如果该目标不处于【攻陷】状态，则有 <color style='color:#f29e38;'> <b>60.0%</b> </color> / <color style='color:#f29e38;'> <b>70.0%</b> </color> / <color style='color:#f29e38;'> <b>80.0%</b> </color> / <color style='color:#f29e38;'> <b>90.0%</b> </color> / <color style='color:#f29e38;'> <b>100.0%</b> </color> 的基础概率使其陷入【攻陷】状态。【攻陷】状态下的敌方目标防御力降低 <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>13.0%</b> </color> / <color style='color:#f29e38;'> <b>14.0%</b> </color> / <color style='color:#f29e38;'> <b>15.0%</b> </color> / <color style='color:#f29e38;'> <b>16.0%</b> </color> ，持续 <b>1.0</b> 回合。",
-                    "EN": "When the wearer hits an enemy and if the hit enemy is not already Ensnared, then there is a <color style='color:#f29e38;'><b>60.0%</b></color> / <color style='color:#f29e38;'><b>70.0%</b></color> / <color style='color:#f29e38;'><b>80.0%</b></color> / <color style='color:#f29e38;'><b>90.0%</b></color> / <color style='color:#f29e38;'><b>100.0%</b></color>  base chance to Ensnare the hit enemy. Ensnared enemies' DEF decreases by <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>13.0%</b></color> / <color style='color:#f29e38;'><b>14.0%</b></color> / <color style='color:#f29e38;'><b>15.0%</b></color> / <color style='color:#f29e38;'><b>16.0%</b></color>  for <b>1.0</b> turn(s)."
+                    "CH": "当装备者击中敌方目标时，如果该目标不处于【攻陷】状态，则有 <color style='color:#f29e38;'>60.0%</color> / <color style='color:#f29e38;'>70.0%</color> / <color style='color:#f29e38;'>80.0%</color> / <color style='color:#f29e38;'>90.0%</color> / <color style='color:#f29e38;'>100.0%</color> 的基础概率使其陷入【攻陷】状态。【攻陷】状态下的敌方目标防御力降低 <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>13.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>16.0%</color> ，持续 <b>1.0</b> 回合。",
+                    "EN": "When the wearer hits an enemy and if the hit enemy is not already Ensnared, then there is a <color style='color:#f29e38;'>60.0%</color> / <color style='color:#f29e38;'>70.0%</color> / <color style='color:#f29e38;'>80.0%</color> / <color style='color:#f29e38;'>90.0%</color> / <color style='color:#f29e38;'>100.0%</color>  base chance to Ensnare the hit enemy. Ensnared enemies' DEF decreases by <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>13.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>16.0%</color>  for <b>1.0</b> turn(s)."
                 }
             ]
         }
     },
     "21016": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "新一轮洗牌",
                 "EN": "A New Round of Shuffling"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的防御力提高 <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>32.0%</b> </color> 。当装备者受到攻击后，有 <color style='color:#f29e38;'> <b>100.0%</b> </color> / <color style='color:#f29e38;'> <b>105.0%</b> </color> / <color style='color:#f29e38;'> <b>110.0%</b> </color> / <color style='color:#f29e38;'> <b>115.0%</b> </color> / <color style='color:#f29e38;'> <b>120.0%</b> </color> 的基础概率使敌方目标陷入灼烧状态，每回合造成等同于装备者 <color style='color:#f29e38;'> <b>40.0%</b> </color> / <color style='color:#f29e38;'> <b>50.0%</b> </color> / <color style='color:#f29e38;'> <b>60.0%</b> </color> / <color style='color:#f29e38;'> <b>70.0%</b> </color> / <color style='color:#f29e38;'> <b>80.0%</b> </color> 防御力的持续伤害，持续 <b>2.0</b> 回合。",
-                    "EN": "Increases the wearer's DEF by <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>32.0%</b></color> . When the wearer is attacked, there is a <color style='color:#f29e38;'><b>100.0%</b></color> / <color style='color:#f29e38;'><b>105.0%</b></color> / <color style='color:#f29e38;'><b>110.0%</b></color> / <color style='color:#f29e38;'><b>115.0%</b></color> / <color style='color:#f29e38;'><b>120.0%</b></color>  base chance to Burn the enemy. For each turn, the wearer deals DoT that is equal to <color style='color:#f29e38;'><b>40.0%</b></color> / <color style='color:#f29e38;'><b>50.0%</b></color> / <color style='color:#f29e38;'><b>60.0%</b></color> / <color style='color:#f29e38;'><b>70.0%</b></color> / <color style='color:#f29e38;'><b>80.0%</b></color>  of the wearer's DEF for <b>2.0</b> turn(s)."
+                    "CH": "使装备者的防御力提高 <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> 。当装备者受到攻击后，有 <color style='color:#f29e38;'>100.0%</color> / <color style='color:#f29e38;'>105.0%</color> / <color style='color:#f29e38;'>110.0%</color> / <color style='color:#f29e38;'>115.0%</color> / <color style='color:#f29e38;'>120.0%</color> 的基础概率使敌方目标陷入灼烧状态，每回合造成等同于装备者 <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>50.0%</color> / <color style='color:#f29e38;'>60.0%</color> / <color style='color:#f29e38;'>70.0%</color> / <color style='color:#f29e38;'>80.0%</color> 防御力的持续伤害，持续 <b>2.0</b> 回合。",
+                    "EN": "Increases the wearer's DEF by <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> . When the wearer is attacked, there is a <color style='color:#f29e38;'>100.0%</color> / <color style='color:#f29e38;'>105.0%</color> / <color style='color:#f29e38;'>110.0%</color> / <color style='color:#f29e38;'>115.0%</color> / <color style='color:#f29e38;'>120.0%</color>  base chance to Burn the enemy. For each turn, the wearer deals DoT that is equal to <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>50.0%</color> / <color style='color:#f29e38;'>60.0%</color> / <color style='color:#f29e38;'>70.0%</color> / <color style='color:#f29e38;'>80.0%</color>  of the wearer's DEF for <b>2.0</b> turn(s)."
                 }
             ]
         }
     },
     "21017": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "不赞不许走！",
                 "EN": "Like Before You Leave!"
             },
             "Desc": [
                 {
-                    "CH": "使装备者普攻和战技造成的伤害提高 <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>30.0%</b> </color> / <color style='color:#f29e38;'> <b>36.0%</b> </color> / <color style='color:#f29e38;'> <b>42.0%</b> </color> / <color style='color:#f29e38;'> <b>48.0%</b> </color> ，当装备者的当前能量值等于其能量上限时，该效果额外提高 <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>30.0%</b> </color> / <color style='color:#f29e38;'> <b>36.0%</b> </color> / <color style='color:#f29e38;'> <b>42.0%</b> </color> / <color style='color:#f29e38;'> <b>48.0%</b> </color> 。",
-                    "EN": "Increases the DMG of the wearer's Basic ATK and Skill by <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>30.0%</b></color> / <color style='color:#f29e38;'><b>36.0%</b></color> / <color style='color:#f29e38;'><b>42.0%</b></color> / <color style='color:#f29e38;'><b>48.0%</b></color> . This effect increases by an extra <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>30.0%</b></color> / <color style='color:#f29e38;'><b>36.0%</b></color> / <color style='color:#f29e38;'><b>42.0%</b></color> / <color style='color:#f29e38;'><b>48.0%</b></color>  when the wearer's current Energy reaches its max level."
+                    "CH": "使装备者普攻和战技造成的伤害提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> ，当装备者的当前能量值等于其能量上限时，该效果额外提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> 。",
+                    "EN": "Increases the DMG of the wearer's Basic ATK and Skill by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> . This effect increases by an extra <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color>  when the wearer's current Energy reaches its max level."
                 }
             ]
         }
     },
     "21018": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "停不下来啦！",
                 "EN": "Cannot Stop It!"
             },
             "Desc": [
                 {
-                    "CH": "当装备者施放终结技后，我方全体行动提前 <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> / <color style='color:#f29e38;'> <b>22.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> 。",
-                    "EN": "When the wearer uses their Ultimate, all allies' actions are Advanced Forward by <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color> / <color style='color:#f29e38;'><b>22.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> ."
+                    "CH": "当装备者施放终结技后，我方全体行动提前 <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>22.0%</color> / <color style='color:#f29e38;'>24.0%</color> 。",
+                    "EN": "When the wearer uses their Ultimate, all allies' actions are Advanced Forward by <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>22.0%</color> / <color style='color:#f29e38;'>24.0%</color> ."
                 }
             ]
         }
     },
     "21019": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "暖阳麦浪",
                 "EN": "Rye Under the Sun"
             },
             "Desc": [
                 {
-                    "CH": "使装备者攻击力提高 <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>32.0%</b> </color> ，当装备者消灭敌方目标后，暴击率提高 <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>15.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>21.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> ，持续 <b>3.0</b> 回合。",
-                    "EN": "Increases the wearer's ATK by <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>32.0%</b></color> . When the wearer defeats an enemy, the wearer's CRIT Rate increases by <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>15.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>21.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color>  for <b>3.0</b> turn(s)."
+                    "CH": "使装备者攻击力提高 <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> ，当装备者消灭敌方目标后，暴击率提高 <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> ，持续 <b>3.0</b> 回合。",
+                    "EN": "Increases the wearer's ATK by <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> . When the wearer defeats an enemy, the wearer's CRIT Rate increases by <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color>  for <b>3.0</b> turn(s)."
                 }
             ]
         }
     },
     "21020": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "各得其所",
                 "EN": "Each Now Has a Role to Play"
             },
             "Desc": [
                 {
-                    "CH": "使装备者攻击力提高 <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>32.0%</b> </color> ，当装备者消灭敌方目标后，暴击伤害提高 <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>30.0%</b> </color> / <color style='color:#f29e38;'> <b>36.0%</b> </color> / <color style='color:#f29e38;'> <b>42.0%</b> </color> / <color style='color:#f29e38;'> <b>48.0%</b> </color> ，持续 <b>3.0</b> 回合。",
-                    "EN": "Increases the wearer's ATK by <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>32.0%</b></color> . When the wearer defeats an enemy, the wearer's CRIT DMG increases by <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>30.0%</b></color> / <color style='color:#f29e38;'><b>36.0%</b></color> / <color style='color:#f29e38;'><b>42.0%</b></color> / <color style='color:#f29e38;'><b>48.0%</b></color>  for <b>3.0</b> turn(s)."
+                    "CH": "使装备者攻击力提高 <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> ，当装备者消灭敌方目标后，暴击伤害提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> ，持续 <b>3.0</b> 回合。",
+                    "EN": "Increases the wearer's ATK by <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> . When the wearer defeats an enemy, the wearer's CRIT DMG increases by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color>  for <b>3.0</b> turn(s)."
                 }
             ]
         }
     },
     "21021": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "酣适",
                 "EN": "Enjoy With Rapture"
             },
             "Desc": [
                 {
-                    "CH": "当装备者的回合开始时，随机为1个当前能量百分比小于 <b>50.0%</b> 的我方其他目标恢复 <color style='color:#f29e38;'> <b>8.0</b> </color> / <color style='color:#f29e38;'> <b>10.0</b> </color> / <color style='color:#f29e38;'> <b>12.0</b> </color> / <color style='color:#f29e38;'> <b>14.0</b> </color> / <color style='color:#f29e38;'> <b>16.0</b> </color> 点能量。",
-                    "EN": "At the start of the wearer's turn, regenerates <color style='color:#f29e38;'><b>8.0</b></color> / <color style='color:#f29e38;'><b>10.0</b></color> / <color style='color:#f29e38;'><b>12.0</b></color> / <color style='color:#f29e38;'><b>14.0</b></color> / <color style='color:#f29e38;'><b>16.0</b></color>  Energy for a randomly chosen ally (excluding the wearer) whose current Energy is lower than <b>50.0%</b>."
+                    "CH": "当装备者的回合开始时，随机为1个当前能量百分比小于 <b>50.0%</b> 的我方其他目标恢复 <color style='color:#f29e38;'>8.0</color> / <color style='color:#f29e38;'>10.0</color> / <color style='color:#f29e38;'>12.0</color> / <color style='color:#f29e38;'>14.0</color> / <color style='color:#f29e38;'>16.0</color> 点能量。",
+                    "EN": "At the start of the wearer's turn, regenerates <color style='color:#f29e38;'>8.0</color> / <color style='color:#f29e38;'>10.0</color> / <color style='color:#f29e38;'>12.0</color> / <color style='color:#f29e38;'>14.0</color> / <color style='color:#f29e38;'>16.0</color>  Energy for a randomly chosen ally (excluding the wearer) whose current Energy is lower than <b>50.0%</b>."
                 }
             ]
         }
     },
     "21022": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "休止符",
                 "EN": "Semibreve Rest"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的击破特攻提高 <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>32.0%</b> </color> ，对处于触电或风化状态的敌方目标造成的伤害提高 <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>32.0%</b> </color> ，该效果对持续伤害也会生效。",
-                    "EN": "Increases the Break Effect dealt by the wearer by <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>32.0%</b></color> , and increases their DMG to enemies afflicted with Shock or Wind Shear by <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>32.0%</b></color> . This also applies to DoT."
+                    "CH": "使装备者的击破特攻提高 <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> ，对处于触电或风化状态的敌方目标造成的伤害提高 <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> ，该效果对持续伤害也会生效。",
+                    "EN": "Increases the Break Effect dealt by the wearer by <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> , and increases their DMG to enemies afflicted with Shock or Wind Shear by <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> . This also applies to DoT."
                 }
             ]
         }
     },
     "21023": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "泪中人",
                 "EN": "Teary-Eyed"
             },
             "Desc": [
                 {
-                    "CH": "战斗开始时，使我方全体受到的伤害降低 <color style='color:#f29e38;'> <b>8.0%</b> </color> / <color style='color:#f29e38;'> <b>10.0%</b> </color> / <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>14.0%</b> </color> / <color style='color:#f29e38;'> <b>16.0%</b> </color> ，持续 <b>5.0</b> 回合。同时立即为我方全体回复等同于各自已损失生命值 <color style='color:#f29e38;'> <b>30.0%</b> </color> / <color style='color:#f29e38;'> <b>35.0%</b> </color> / <color style='color:#f29e38;'> <b>40.0%</b> </color> / <color style='color:#f29e38;'> <b>45.0%</b> </color> / <color style='color:#f29e38;'> <b>50.0%</b> </color> 的生命值。",
-                    "EN": "At the start of the battle, the DMG dealt to all allies decreases by <color style='color:#f29e38;'><b>8.0%</b></color> / <color style='color:#f29e38;'><b>10.0%</b></color> / <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>14.0%</b></color> / <color style='color:#f29e38;'><b>16.0%</b></color>  for <b>5.0</b> turn(s). At the same time, immediately restores HP to all allies equal to <color style='color:#f29e38;'><b>30.0%</b></color> / <color style='color:#f29e38;'><b>35.0%</b></color> / <color style='color:#f29e38;'><b>40.0%</b></color> / <color style='color:#f29e38;'><b>45.0%</b></color> / <color style='color:#f29e38;'><b>50.0%</b></color>  of the respective HP difference between the characters' Max HP and current HP."
+                    "CH": "战斗开始时，使我方全体受到的伤害降低 <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> ，持续 <b>5.0</b> 回合。同时立即为我方全体回复等同于各自已损失生命值 <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>45.0%</color> / <color style='color:#f29e38;'>50.0%</color> 的生命值。",
+                    "EN": "At the start of the battle, the DMG dealt to all allies decreases by <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color>  for <b>5.0</b> turn(s). At the same time, immediately restores HP to all allies equal to <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>45.0%</color> / <color style='color:#f29e38;'>50.0%</color>  of the respective HP difference between the characters' Max HP and current HP."
                 }
             ]
         }
     },
     "21024": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "驱散余寒",
                 "EN": "Stave Off the Lingering Cold"
             },
             "Desc": [
                 {
-                    "CH": "进入战斗后，使装备者速度提高 <color style='color:#f29e38;'> <b>8.0%</b> </color> / <color style='color:#f29e38;'> <b>9.0%</b> </color> / <color style='color:#f29e38;'> <b>10.0%</b> </color> / <color style='color:#f29e38;'> <b>11.0%</b> </color> / <color style='color:#f29e38;'> <b>12.0%</b> </color> ，造成的伤害提高 <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>15.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>21.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> 。当装备者受到伤害后该效果失效，下个回合结束时该效果恢复。",
-                    "EN": "After entering battle, increases the wearer's SPD by <color style='color:#f29e38;'><b>8.0%</b></color> / <color style='color:#f29e38;'><b>9.0%</b></color> / <color style='color:#f29e38;'><b>10.0%</b></color> / <color style='color:#f29e38;'><b>11.0%</b></color> / <color style='color:#f29e38;'><b>12.0%</b></color>  and DMG by <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>15.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>21.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> . When the wearer takes DMG, this effect will disappear. This effect will resume after the end of the wearer's next turn."
+                    "CH": "进入战斗后，使装备者速度提高 <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>11.0%</color> / <color style='color:#f29e38;'>12.0%</color> ，造成的伤害提高 <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> 。当装备者受到伤害后该效果失效，下个回合结束时该效果恢复。",
+                    "EN": "After entering battle, increases the wearer's SPD by <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>11.0%</color> / <color style='color:#f29e38;'>12.0%</color>  and DMG by <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> . When the wearer takes DMG, this effect will disappear. This effect will resume after the end of the wearer's next turn."
                 }
             ]
         }
     },
     "21026": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "快溜",
                 "EN": "Run!"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的攻击力提高 <color style='color:#f29e38;'> <b>10.0%</b> </color> / <color style='color:#f29e38;'> <b>12.5%</b> </color> / <color style='color:#f29e38;'> <b>15.0%</b> </color> / <color style='color:#f29e38;'> <b>17.5%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> ，对处于灼烧或裂伤状态的敌方目标造成的伤害提高 <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>32.0%</b> </color> ，该效果对持续伤害也会生效。",
-                    "EN": "Increases the wearer's ATK by <color style='color:#f29e38;'><b>10.0%</b></color> / <color style='color:#f29e38;'><b>12.5%</b></color> / <color style='color:#f29e38;'><b>15.0%</b></color> / <color style='color:#f29e38;'><b>17.5%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color> , and increases their DMG to enemies afflicted with Burn or Bleed by <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>32.0%</b></color> . This also applies to DoT."
+                    "CH": "使装备者的攻击力提高 <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>12.5%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>17.5%</color> / <color style='color:#f29e38;'>20.0%</color> ，对处于灼烧或裂伤状态的敌方目标造成的伤害提高 <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> ，该效果对持续伤害也会生效。",
+                    "EN": "Increases the wearer's ATK by <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>12.5%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>17.5%</color> / <color style='color:#f29e38;'>20.0%</color> , and increases their DMG to enemies afflicted with Burn or Bleed by <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> . This also applies to DoT."
                 }
             ]
         }
     },
     "21027": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "各就其位",
                 "EN": "Get Ready"
             },
             "Desc": [
                 {
-                    "CH": "使装备者造成伤害提高 <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>15.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>21.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> 。每消灭1个敌方目标，装备者的攻击力提高 <color style='color:#f29e38;'> <b>4.0%</b> </color> / <color style='color:#f29e38;'> <b>5.0%</b> </color> / <color style='color:#f29e38;'> <b>6.0%</b> </color> / <color style='color:#f29e38;'> <b>7.0%</b> </color> / <color style='color:#f29e38;'> <b>8.0%</b> </color> ，该效果最多叠加 <b>3.0</b> 层。",
-                    "EN": "Increases the wearer's DMG by <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>15.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>21.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> . For every enemy defeated by the wearer, the wearer's ATK increases by <color style='color:#f29e38;'><b>4.0%</b></color> / <color style='color:#f29e38;'><b>5.0%</b></color> / <color style='color:#f29e38;'><b>6.0%</b></color> / <color style='color:#f29e38;'><b>7.0%</b></color> / <color style='color:#f29e38;'><b>8.0%</b></color> , stacking up to <b>3.0</b> time(s)."
+                    "CH": "使装备者造成伤害提高 <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> 。每消灭1个敌方目标，装备者的攻击力提高 <color style='color:#f29e38;'>4.0%</color> / <color style='color:#f29e38;'>5.0%</color> / <color style='color:#f29e38;'>6.0%</color> / <color style='color:#f29e38;'>7.0%</color> / <color style='color:#f29e38;'>8.0%</color> ，该效果最多叠加 <b>3.0</b> 层。",
+                    "EN": "Increases the wearer's DMG by <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> . For every enemy defeated by the wearer, the wearer's ATK increases by <color style='color:#f29e38;'>4.0%</color> / <color style='color:#f29e38;'>5.0%</color> / <color style='color:#f29e38;'>6.0%</color> / <color style='color:#f29e38;'>7.0%</color> / <color style='color:#f29e38;'>8.0%</color> , stacking up to <b>3.0</b> time(s)."
                 }
             ]
         }
     },
     "21028": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "小小灯火",
                 "EN": "Tiny Light"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的生命上限提高 <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>32.0%</b> </color> 。施放普攻或战技后，为我方全体回复等同于各自生命上限 <color style='color:#f29e38;'> <b>2.0%</b> </color> / <color style='color:#f29e38;'> <b>2.5%</b> </color> / <color style='color:#f29e38;'> <b>3.0%</b> </color> / <color style='color:#f29e38;'> <b>3.5%</b> </color> / <color style='color:#f29e38;'> <b>4.0%</b> </color> 的生命值。",
-                    "EN": "Increases the wearer's Max HP by <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>32.0%</b></color> . When using Basic ATK or Skill, restores all allies' HP by an amount equal to <color style='color:#f29e38;'><b>2.0%</b></color> / <color style='color:#f29e38;'><b>2.5%</b></color> / <color style='color:#f29e38;'><b>3.0%</b></color> / <color style='color:#f29e38;'><b>3.5%</b></color> / <color style='color:#f29e38;'><b>4.0%</b></color>  of their respective Max HP."
+                    "CH": "使装备者的生命上限提高 <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> 。施放普攻或战技后，为我方全体回复等同于各自生命上限 <color style='color:#f29e38;'>2.0%</color> / <color style='color:#f29e38;'>2.5%</color> / <color style='color:#f29e38;'>3.0%</color> / <color style='color:#f29e38;'>3.5%</color> / <color style='color:#f29e38;'>4.0%</color> 的生命值。",
+                    "EN": "Increases the wearer's Max HP by <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> . When using Basic ATK or Skill, restores all allies' HP by an amount equal to <color style='color:#f29e38;'>2.0%</color> / <color style='color:#f29e38;'>2.5%</color> / <color style='color:#f29e38;'>3.0%</color> / <color style='color:#f29e38;'>3.5%</color> / <color style='color:#f29e38;'>4.0%</color>  of their respective Max HP."
                 }
             ]
         }
     },
     "21029": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "交手如交谈",
                 "EN": "A Discourse in Arms"
             },
             "Desc": [
                 {
-                    "CH": "装备者施放普攻或战技后，对随机1个受到攻击的敌方目标造成等同于自身 <color style='color:#f29e38;'> <b>48.0%</b> </color> / <color style='color:#f29e38;'> <b>60.0%</b> </color> / <color style='color:#f29e38;'> <b>72.0%</b> </color> / <color style='color:#f29e38;'> <b>84.0%</b> </color> / <color style='color:#f29e38;'> <b>96.0%</b> </color> 攻击力的附加伤害。",
-                    "EN": "After the wearer uses Basic ATK or Skill, deals Additional DMG equal to <color style='color:#f29e38;'><b>48.0%</b></color> / <color style='color:#f29e38;'><b>60.0%</b></color> / <color style='color:#f29e38;'><b>72.0%</b></color> / <color style='color:#f29e38;'><b>84.0%</b></color> / <color style='color:#f29e38;'><b>96.0%</b></color>  of the wearer's ATK to a random enemy that has been attacked."
+                    "CH": "装备者施放普攻或战技后，对随机1个受到攻击的敌方目标造成等同于自身 <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>60.0%</color> / <color style='color:#f29e38;'>72.0%</color> / <color style='color:#f29e38;'>84.0%</color> / <color style='color:#f29e38;'>96.0%</color> 攻击力的附加伤害。",
+                    "EN": "After the wearer uses Basic ATK or Skill, deals Additional DMG equal to <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>60.0%</color> / <color style='color:#f29e38;'>72.0%</color> / <color style='color:#f29e38;'>84.0%</color> / <color style='color:#f29e38;'>96.0%</color>  of the wearer's ATK to a random enemy that has been attacked."
                 }
             ]
         }
     },
     "21030": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "新篇章",
                 "EN": "New Chapter"
             },
             "Desc": [
                 {
-                    "CH": "使装备者防御力提高 <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>32.0%</b> </color> 。使装备者施放终结技时造成的伤害值提高，提高数值等同于装备者防御力的 <color style='color:#f29e38;'> <b>60.0%</b> </color> / <color style='color:#f29e38;'> <b>75.0%</b> </color> / <color style='color:#f29e38;'> <b>90.0%</b> </color> / <color style='color:#f29e38;'> <b>105.0%</b> </color> / <color style='color:#f29e38;'> <b>120.0%</b> </color> ，该效果每次施放终结技时对每个敌方目标仅生效1次。",
-                    "EN": "Increases the wearer's DEF by <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>32.0%</b></color> . Increases the DMG of the wearer when they use their Ultimate by <color style='color:#f29e38;'><b>60.0%</b></color> / <color style='color:#f29e38;'><b>75.0%</b></color> / <color style='color:#f29e38;'><b>90.0%</b></color> / <color style='color:#f29e38;'><b>105.0%</b></color> / <color style='color:#f29e38;'><b>120.0%</b></color>  of the wearer's DEF. This effect only applies 1 time per enemy target during each use of the wearer's Ultimate."
+                    "CH": "使装备者防御力提高 <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> 。使装备者施放终结技时造成的伤害值提高，提高数值等同于装备者防御力的 <color style='color:#f29e38;'>60.0%</color> / <color style='color:#f29e38;'>75.0%</color> / <color style='color:#f29e38;'>90.0%</color> / <color style='color:#f29e38;'>105.0%</color> / <color style='color:#f29e38;'>120.0%</color> ，该效果每次施放终结技时对每个敌方目标仅生效1次。",
+                    "EN": "Increases the wearer's DEF by <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> . Increases the DMG of the wearer when they use their Ultimate by <color style='color:#f29e38;'>60.0%</color> / <color style='color:#f29e38;'>75.0%</color> / <color style='color:#f29e38;'>90.0%</color> / <color style='color:#f29e38;'>105.0%</color> / <color style='color:#f29e38;'>120.0%</color>  of the wearer's DEF. This effect only applies 1 time per enemy target during each use of the wearer's Ultimate."
                 }
             ]
         }
     },
     "21031": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "汹涌",
                 "EN": "Raging Waves"
             },
             "Desc": [
                 {
-                    "CH": "使装备者暴击率提高 <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>15.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>21.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> 。暴击后有 <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>32.0%</b> </color> 的固定概率解除被攻击敌方目标所持有的1个增益效果，该效果每次攻击只可触发1次。",
-                    "EN": "Increases the wearer's CRIT Rate by <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>15.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>21.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> . After a CRIT Hit, there is a <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>32.0%</b></color>  fixed chance to dispel 1 buff on the target enemy. This effect can only trigger 1 time per attack."
+                    "CH": "使装备者暴击率提高 <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> 。暴击后有 <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> 的固定概率解除被攻击敌方目标所持有的1个增益效果，该效果每次攻击只可触发1次。",
+                    "EN": "Increases the wearer's CRIT Rate by <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> . After a CRIT Hit, there is a <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color>  fixed chance to dispel 1 buff on the target enemy. This effect can only trigger 1 time per attack."
                 }
             ]
         }
     },
     "21032": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "秘密",
                 "EN": "Secret"
             },
             "Desc": [
                 {
-                    "CH": "在战斗开始时以及当装备者回合开始时，随机生效1个效果。该效果生效时，替换上次的效果且本次不会与上次重复。效果包含：使我方全体攻击力提高 <color style='color:#f29e38;'> <b>10.0%</b> </color> / <color style='color:#f29e38;'> <b>12.5%</b> </color> / <color style='color:#f29e38;'> <b>15.0%</b> </color> / <color style='color:#f29e38;'> <b>17.5%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> ；使我方全体暴击伤害提高 <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>15.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>21.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> ；使我方全体能量恢复效率提高 <color style='color:#f29e38;'> <b>6.0%</b> </color> / <color style='color:#f29e38;'> <b>7.5%</b> </color> / <color style='color:#f29e38;'> <b>9.0%</b> </color> / <color style='color:#f29e38;'> <b>10.5%</b> </color> / <color style='color:#f29e38;'> <b>12.0%</b> </color> 。同类效果无法叠加，在装备者陷入无法战斗状态时解除。",
-                    "EN": "At the start of the battle and whenever the wearer's turn begins, one of the following effects is applied randomly: All allies' ATK increases by <color style='color:#f29e38;'><b>10.0%</b></color> / <color style='color:#f29e38;'><b>12.5%</b></color> / <color style='color:#f29e38;'><b>15.0%</b></color> / <color style='color:#f29e38;'><b>17.5%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color> , all allies' CRIT DMG increases by <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>15.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>21.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> , or all allies' Energy Regeneration Rate increases by <color style='color:#f29e38;'><b>6.0%</b></color> / <color style='color:#f29e38;'><b>7.5%</b></color> / <color style='color:#f29e38;'><b>9.0%</b></color> / <color style='color:#f29e38;'><b>10.5%</b></color> / <color style='color:#f29e38;'><b>12.0%</b></color> . The applied effect cannot be identical to the last effect applied, and will replace the previous effect. The applied effect will be removed when the wearer has been knocked down. Effects of the similar type cannot be stacked."
+                    "CH": "在战斗开始时以及当装备者回合开始时，随机生效1个效果。该效果生效时，替换上次的效果且本次不会与上次重复。效果包含：使我方全体攻击力提高 <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>12.5%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>17.5%</color> / <color style='color:#f29e38;'>20.0%</color> ；使我方全体暴击伤害提高 <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> ；使我方全体能量恢复效率提高 <color style='color:#f29e38;'>6.0%</color> / <color style='color:#f29e38;'>7.5%</color> / <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.5%</color> / <color style='color:#f29e38;'>12.0%</color> 。同类效果无法叠加，在装备者陷入无法战斗状态时解除。",
+                    "EN": "At the start of the battle and whenever the wearer's turn begins, one of the following effects is applied randomly: All allies' ATK increases by <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>12.5%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>17.5%</color> / <color style='color:#f29e38;'>20.0%</color> , all allies' CRIT DMG increases by <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> , or all allies' Energy Regeneration Rate increases by <color style='color:#f29e38;'>6.0%</color> / <color style='color:#f29e38;'>7.5%</color> / <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.5%</color> / <color style='color:#f29e38;'>12.0%</color> . The applied effect cannot be identical to the last effect applied, and will replace the previous effect. The applied effect will be removed when the wearer has been knocked down. Effects of the similar type cannot be stacked."
                 }
             ]
         }
     },
     "21033": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "绝境",
                 "EN": "Desperate Times"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的攻击力提高 <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>30.0%</b> </color> / <color style='color:#f29e38;'> <b>36.0%</b> </color> / <color style='color:#f29e38;'> <b>42.0%</b> </color> / <color style='color:#f29e38;'> <b>48.0%</b> </color> 。当装备者消灭敌方目标时，回复等同于自身 <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>15.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>21.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> 攻击力的生命值。",
-                    "EN": "Increases the wearer's ATK by <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>30.0%</b></color> / <color style='color:#f29e38;'><b>36.0%</b></color> / <color style='color:#f29e38;'><b>42.0%</b></color> / <color style='color:#f29e38;'><b>48.0%</b></color> . Whenever the wearer defeats an enemy, they restore HP equal to <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>15.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>21.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color>  of their ATK."
+                    "CH": "使装备者的攻击力提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> 。当装备者消灭敌方目标时，回复等同于自身 <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> 攻击力的生命值。",
+                    "EN": "Increases the wearer's ATK by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> . Whenever the wearer defeats an enemy, they restore HP equal to <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color>  of their ATK."
                 }
             ]
         }
     },
     "21034": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "风雨将至",
                 "EN": "A Storm Is Coming"
             },
             "Desc": [
                 {
-                    "CH": "进入战斗后，根据装备者的能量上限，提高装备者造成的伤害：每点能量提高 <color style='color:#f29e38;'> <b>0.2%</b> </color> / <color style='color:#f29e38;'> <b>0.25%</b> </color> / <color style='color:#f29e38;'> <b>0.3%</b> </color> / <color style='color:#f29e38;'> <b>0.35%</b> </color> / <color style='color:#f29e38;'> <b>0.4%</b> </color> ，最多计入 <b>160.0</b> 点。",
-                    "EN": "After entering battle, increases the wearer's DMG based on their Max Energy. DMG increases by <color style='color:#f29e38;'><b>0.2%</b></color> / <color style='color:#f29e38;'><b>0.25%</b></color> / <color style='color:#f29e38;'><b>0.3%</b></color> / <color style='color:#f29e38;'><b>0.35%</b></color> / <color style='color:#f29e38;'><b>0.4%</b></color>  per point of Energy, up to <b>160.0</b> Energy."
+                    "CH": "进入战斗后，根据装备者的能量上限，提高装备者造成的伤害：每点能量提高 <color style='color:#f29e38;'>0.2%</color> / <color style='color:#f29e38;'>0.25%</color> / <color style='color:#f29e38;'>0.3%</color> / <color style='color:#f29e38;'>0.35%</color> / <color style='color:#f29e38;'>0.4%</color> ，最多计入 <b>160.0</b> 点。",
+                    "EN": "After entering battle, increases the wearer's DMG based on their Max Energy. DMG increases by <color style='color:#f29e38;'>0.2%</color> / <color style='color:#f29e38;'>0.25%</color> / <color style='color:#f29e38;'>0.3%</color> / <color style='color:#f29e38;'>0.35%</color> / <color style='color:#f29e38;'>0.4%</color>  per point of Energy, up to <b>160.0</b> Energy."
                 }
             ]
         }
     },
     "22000": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "眼疾手快",
                 "EN": "Quick on the Draw"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的效果命中提高 <color style='color:#f29e38;'> <b>20.0%</b> </color> / <color style='color:#f29e38;'> <b>25.0%</b> </color> / <color style='color:#f29e38;'> <b>30.0%</b> </color> / <color style='color:#f29e38;'> <b>35.0%</b> </color> / <color style='color:#f29e38;'> <b>40.0%</b> </color> 。当装备者攻击防御力被降低的敌方目标后，恢复 <color style='color:#f29e38;'> <b>4.0</b> </color> / <color style='color:#f29e38;'> <b>5.0</b> </color> / <color style='color:#f29e38;'> <b>6.0</b> </color> / <color style='color:#f29e38;'> <b>7.0</b> </color> / <color style='color:#f29e38;'> <b>8.0</b> </color> 点能量。",
-                    "EN": "Increases the wearer's Effect Hit Rate by <color style='color:#f29e38;'><b>20.0%</b></color> / <color style='color:#f29e38;'><b>25.0%</b></color> / <color style='color:#f29e38;'><b>30.0%</b></color> / <color style='color:#f29e38;'><b>35.0%</b></color> / <color style='color:#f29e38;'><b>40.0%</b></color> . When the wearer attacks DEF-reduced enemies, regenerates <color style='color:#f29e38;'><b>4.0</b></color> / <color style='color:#f29e38;'><b>5.0</b></color> / <color style='color:#f29e38;'><b>6.0</b></color> / <color style='color:#f29e38;'><b>7.0</b></color> / <color style='color:#f29e38;'><b>8.0</b></color>  Energy."
+                    "CH": "使装备者的效果命中提高 <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>25.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>40.0%</color> 。当装备者攻击防御力被降低的敌方目标后，恢复 <color style='color:#f29e38;'>4.0</color> / <color style='color:#f29e38;'>5.0</color> / <color style='color:#f29e38;'>6.0</color> / <color style='color:#f29e38;'>7.0</color> / <color style='color:#f29e38;'>8.0</color> 点能量。",
+                    "EN": "Increases the wearer's Effect Hit Rate by <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>25.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>40.0%</color> . When the wearer attacks DEF-reduced enemies, regenerates <color style='color:#f29e38;'>4.0</color> / <color style='color:#f29e38;'>5.0</color> / <color style='color:#f29e38;'>6.0</color> / <color style='color:#f29e38;'>7.0</color> / <color style='color:#f29e38;'>8.0</color>  Energy."
                 }
             ]
         }
     },
     "23000": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "流星群",
                 "EN": "Meteor Swarm"
             },
             "Desc": [
                 {
-                    "CH": "场上每有1个敌方目标，使装备者的攻击力提高 <color style='color:#f29e38;'> <b>9.0%</b> </color> / <color style='color:#f29e38;'> <b>10.5%</b> </color> / <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>13.5%</b> </color> / <color style='color:#f29e38;'> <b>15.0%</b> </color> ，该效果最多叠加5层。当有敌方目标的弱点被击破时，装备者造成的伤害提高 <color style='color:#f29e38;'> <b>30.0%</b> </color> / <color style='color:#f29e38;'> <b>35.0%</b> </color> / <color style='color:#f29e38;'> <b>40.0%</b> </color> / <color style='color:#f29e38;'> <b>45.0%</b> </color> / <color style='color:#f29e38;'> <b>50.0%</b> </color> ，持续1回合。",
-                    "EN": "For every enemy on the field, increases the wearer's ATK by <color style='color:#f29e38;'><b>9.0%</b></color> / <color style='color:#f29e38;'><b>10.5%</b></color> / <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>13.5%</b></color> / <color style='color:#f29e38;'><b>15.0%</b></color> , up to 5 stacks. When an enemy is inflicted with Weakness Break, the DMG dealt by the wearer increases by <color style='color:#f29e38;'><b>30.0%</b></color> / <color style='color:#f29e38;'><b>35.0%</b></color> / <color style='color:#f29e38;'><b>40.0%</b></color> / <color style='color:#f29e38;'><b>45.0%</b></color> / <color style='color:#f29e38;'><b>50.0%</b></color>  for 1 turn."
+                    "CH": "场上每有1个敌方目标，使装备者的攻击力提高 <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.5%</color> / <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>13.5%</color> / <color style='color:#f29e38;'>15.0%</color> ，该效果最多叠加5层。当有敌方目标的弱点被击破时，装备者造成的伤害提高 <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>45.0%</color> / <color style='color:#f29e38;'>50.0%</color> ，持续1回合。",
+                    "EN": "For every enemy on the field, increases the wearer's ATK by <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.5%</color> / <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>13.5%</color> / <color style='color:#f29e38;'>15.0%</color> , up to 5 stacks. When an enemy is inflicted with Weakness Break, the DMG dealt by the wearer increases by <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>45.0%</color> / <color style='color:#f29e38;'>50.0%</color>  for 1 turn."
                 }
             ]
         }
     },
     "23001": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "花与蝶",
                 "EN": "Flowers and Butterflies"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的暴击率提高 <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>21.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>27.0%</b> </color> / <color style='color:#f29e38;'> <b>30.0%</b> </color> 。当装备者在战斗中速度大于 <b>100</b> 时，每超过 <b>10.0</b> 点，普攻和战技造成的伤害提高 <color style='color:#f29e38;'> <b>6.0%</b> </color> / <color style='color:#f29e38;'> <b>7.0%</b> </color> / <color style='color:#f29e38;'> <b>8.0%</b> </color> / <color style='color:#f29e38;'> <b>9.0%</b> </color> / <color style='color:#f29e38;'> <b>10.0%</b> </color> ，同时终结技的暴击伤害提高 <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>14.0%</b> </color> / <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> ，该效果可叠加 <b>6.0</b> 层。",
-                    "EN": "Increases the wearer's CRIT Rate by <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>21.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>27.0%</b></color> / <color style='color:#f29e38;'><b>30.0%</b></color> . While the wearer is in battle, for every <b>10.0</b> SPD that exceeds <b>100</b>, the DMG of the wearer's Basic ATK and Skill is increased by <color style='color:#f29e38;'><b>6.0%</b></color> / <color style='color:#f29e38;'><b>7.0%</b></color> / <color style='color:#f29e38;'><b>8.0%</b></color> / <color style='color:#f29e38;'><b>9.0%</b></color> / <color style='color:#f29e38;'><b>10.0%</b></color>  and the CRIT DMG of their Ultimate is increased by <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>14.0%</b></color> / <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color> . This effect can stack up to <b>6.0</b> time(s)."
+                    "CH": "使装备者的暴击率提高 <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>27.0%</color> / <color style='color:#f29e38;'>30.0%</color> 。当装备者在战斗中速度大于 <b>100</b> 时，每超过 <b>10.0</b> 点，普攻和战技造成的伤害提高 <color style='color:#f29e38;'>6.0%</color> / <color style='color:#f29e38;'>7.0%</color> / <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.0%</color> ，同时终结技的暴击伤害提高 <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> ，该效果可叠加 <b>6.0</b> 层。",
+                    "EN": "Increases the wearer's CRIT Rate by <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>27.0%</color> / <color style='color:#f29e38;'>30.0%</color> . While the wearer is in battle, for every <b>10.0</b> SPD that exceeds <b>100</b>, the DMG of the wearer's Basic ATK and Skill is increased by <color style='color:#f29e38;'>6.0%</color> / <color style='color:#f29e38;'>7.0%</color> / <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.0%</color>  and the CRIT DMG of their Ultimate is increased by <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> . This effect can stack up to <b>6.0</b> time(s)."
                 }
             ]
         }
     },
     "23002": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "家人",
                 "EN": "Kinship"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的攻击力提高 <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>32.0%</b> </color> / <color style='color:#f29e38;'> <b>36.0%</b> </color> / <color style='color:#f29e38;'> <b>40.0%</b> </color> 。当装备者消灭敌方目标或受到攻击后，立即回复等同于装备者攻击力 <color style='color:#f29e38;'> <b>8.0%</b> </color> / <color style='color:#f29e38;'> <b>9.0%</b> </color> / <color style='color:#f29e38;'> <b>10.0%</b> </color> / <color style='color:#f29e38;'> <b>11.0%</b> </color> / <color style='color:#f29e38;'> <b>12.0%</b> </color> 的生命值，同时造成的伤害提高 <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>32.0%</b> </color> / <color style='color:#f29e38;'> <b>36.0%</b> </color> / <color style='color:#f29e38;'> <b>40.0%</b> </color> ，持续到自身下个回合结束。该效果不可叠加，每回合只可触发1次。",
-                    "EN": "Increases the wearer's ATK by <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>32.0%</b></color> / <color style='color:#f29e38;'><b>36.0%</b></color> / <color style='color:#f29e38;'><b>40.0%</b></color> . When the wearer defeats an enemy or is hit, immediately restores HP equal to <color style='color:#f29e38;'><b>8.0%</b></color> / <color style='color:#f29e38;'><b>9.0%</b></color> / <color style='color:#f29e38;'><b>10.0%</b></color> / <color style='color:#f29e38;'><b>11.0%</b></color> / <color style='color:#f29e38;'><b>12.0%</b></color>  of the wearer's ATK. At the same time, the wearer's DMG is increased by <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>32.0%</b></color> / <color style='color:#f29e38;'><b>36.0%</b></color> / <color style='color:#f29e38;'><b>40.0%</b></color>  until the end of their next turn. This effect cannot stack and can only trigger 1 time per turn."
+                    "CH": "使装备者的攻击力提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> 。当装备者消灭敌方目标或受到攻击后，立即回复等同于装备者攻击力 <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>11.0%</color> / <color style='color:#f29e38;'>12.0%</color> 的生命值，同时造成的伤害提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> ，持续到自身下个回合结束。该效果不可叠加，每回合只可触发1次。",
+                    "EN": "Increases the wearer's ATK by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> . When the wearer defeats an enemy or is hit, immediately restores HP equal to <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>11.0%</color> / <color style='color:#f29e38;'>12.0%</color>  of the wearer's ATK. At the same time, the wearer's DMG is increased by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color>  until the end of their next turn. This effect cannot stack and can only trigger 1 time per turn."
                 }
             ]
         }
     },
     "23003": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "继承人",
                 "EN": "Heir"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的能量恢复效率提高 <color style='color:#f29e38;'> <b>10.0%</b> </color> / <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>14.0%</b> </color> / <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> ，并在对我方目标施放终结技时恢复1个战技点。该效果每施放2次终结技可触发1次。当装备者施放战技后，使下一个行动的我方其他目标造成的伤害提高 <color style='color:#f29e38;'> <b>30.0%</b> </color> / <color style='color:#f29e38;'> <b>35.0%</b> </color> / <color style='color:#f29e38;'> <b>40.0%</b> </color> / <color style='color:#f29e38;'> <b>45.0%</b> </color> / <color style='color:#f29e38;'> <b>50.0%</b> </color> ，持续 <b>1.0</b> 回合。",
-                    "EN": "Increases the wearer's Energy Regeneration Rate by <color style='color:#f29e38;'><b>10.0%</b></color> / <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>14.0%</b></color> / <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color>  and regenerates 1 Skill Point when the wearer uses their Ultimate on an ally. This effect can be triggered once after every 2 uses of the wearer's Ultimate. When the wearer uses their Skill, the next ally taking action (except the wearer) deals <color style='color:#f29e38;'><b>30.0%</b></color> / <color style='color:#f29e38;'><b>35.0%</b></color> / <color style='color:#f29e38;'><b>40.0%</b></color> / <color style='color:#f29e38;'><b>45.0%</b></color> / <color style='color:#f29e38;'><b>50.0%</b></color>  more DMG for <b>1.0</b> turn(s)."
+                    "CH": "使装备者的能量恢复效率提高 <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> ，并在对我方目标施放终结技时恢复1个战技点。该效果每施放2次终结技可触发1次。当装备者施放战技后，使下一个行动的我方其他目标造成的伤害提高 <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>45.0%</color> / <color style='color:#f29e38;'>50.0%</color> ，持续 <b>1.0</b> 回合。",
+                    "EN": "Increases the wearer's Energy Regeneration Rate by <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color>  and regenerates 1 Skill Point when the wearer uses their Ultimate on an ally. This effect can be triggered once after every 2 uses of the wearer's Ultimate. When the wearer uses their Skill, the next ally taking action (except the wearer) deals <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>45.0%</color> / <color style='color:#f29e38;'>50.0%</color>  more DMG for <b>1.0</b> turn(s)."
                 }
             ]
         }
     },
     "23004": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "传承者",
                 "EN": "Inheritor"
             },
             "Desc": [
                 {
-                    "CH": "使装备者对陷入负面效果的敌方目标造成的伤害提高 <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>32.0%</b> </color> / <color style='color:#f29e38;'> <b>36.0%</b> </color> / <color style='color:#f29e38;'> <b>40.0%</b> </color> 。当装备者施放战技时，装备者此次攻击的效果命中提高 <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>21.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>27.0%</b> </color> / <color style='color:#f29e38;'> <b>30.0%</b> </color> ，攻击力提高 <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>32.0%</b> </color> / <color style='color:#f29e38;'> <b>36.0%</b> </color> / <color style='color:#f29e38;'> <b>40.0%</b> </color> 。",
-                    "EN": "Increases the wearer's DMG to debuffed enemies by <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>32.0%</b></color> / <color style='color:#f29e38;'><b>36.0%</b></color> / <color style='color:#f29e38;'><b>40.0%</b></color> . When the wearer uses their Skill, the Effect Hit Rate for this attack increases by <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>21.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>27.0%</b></color> / <color style='color:#f29e38;'><b>30.0%</b></color> , and ATK increases by <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>32.0%</b></color> / <color style='color:#f29e38;'><b>36.0%</b></color> / <color style='color:#f29e38;'><b>40.0%</b></color> ."
+                    "CH": "使装备者对陷入负面效果的敌方目标造成的伤害提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> 。当装备者施放战技时，装备者此次攻击的效果命中提高 <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>27.0%</color> / <color style='color:#f29e38;'>30.0%</color> ，攻击力提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> 。",
+                    "EN": "Increases the wearer's DMG to debuffed enemies by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> . When the wearer uses their Skill, the Effect Hit Rate for this attack increases by <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>27.0%</color> / <color style='color:#f29e38;'>30.0%</color> , and ATK increases by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> ."
                 }
             ]
         }
     },
     "23005": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "决断",
                 "EN": "Verdict"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的防御力提高 <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>32.0%</b> </color> / <color style='color:#f29e38;'> <b>36.0%</b> </color> / <color style='color:#f29e38;'> <b>40.0%</b> </color> ，效果命中提高 <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>32.0%</b> </color> / <color style='color:#f29e38;'> <b>36.0%</b> </color> / <color style='color:#f29e38;'> <b>40.0%</b> </color> ，同时使自身受到攻击的概率提高。当装备者受到攻击后，防御力额外提高 <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>32.0%</b> </color> / <color style='color:#f29e38;'> <b>36.0%</b> </color> / <color style='color:#f29e38;'> <b>40.0%</b> </color> ，持续到自身回合结束。<br>隐藏数值：2.0",
-                    "EN": "Increases the wearer's DEF by <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>32.0%</b></color> / <color style='color:#f29e38;'><b>36.0%</b></color> / <color style='color:#f29e38;'><b>40.0%</b></color>  and Effect Hit Rate by <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>32.0%</b></color> / <color style='color:#f29e38;'><b>36.0%</b></color> / <color style='color:#f29e38;'><b>40.0%</b></color> . Increases the chance for the wearer to be attacked by enemies. When the wearer is attacked, increase their DEF by an extra <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>32.0%</b></color> / <color style='color:#f29e38;'><b>36.0%</b></color> / <color style='color:#f29e38;'><b>40.0%</b></color>  until the end of the wearer's turn.<br>Hidden Stat: 2.0"
+                    "CH": "使装备者的防御力提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> ，效果命中提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> ，同时使自身受到攻击的概率提高。当装备者受到攻击后，防御力额外提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> ，持续到自身回合结束。<br>隐藏数值：2.0",
+                    "EN": "Increases the wearer's DEF by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color>  and Effect Hit Rate by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> . Increases the chance for the wearer to be attacked by enemies. When the wearer is attacked, increase their DEF by an extra <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color>  until the end of the wearer's turn.<br>Hidden Stat: 2.0"
                 }
             ]
         }
     },
     "23006": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "蜘蛛的网",
                 "EN": "Spider Web"
             },
             "Desc": [
                 {
-                    "CH": "使装备者造成的伤害提高 <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>32.0%</b> </color> / <color style='color:#f29e38;'> <b>36.0%</b> </color> / <color style='color:#f29e38;'> <b>40.0%</b> </color> 。装备者每次施放攻击后，速度提高 <color style='color:#f29e38;'> <b>4.8%</b> </color> / <color style='color:#f29e38;'> <b>5.6%</b> </color> / <color style='color:#f29e38;'> <b>6.4%</b> </color> / <color style='color:#f29e38;'> <b>7.2%</b> </color> / <color style='color:#f29e38;'> <b>8.0%</b> </color> ，最多叠加 <b>3.0</b> 层。\n当装备者击中敌方目标时，如果该目标不处于【游丝】状态，则有 <b>100%</b> 的基础概率使其陷入【游丝】状态。当敌方目标处于【游丝】状态时，也会被视为陷入了触电状态。【游丝】状态下，敌方目标每回合开始时受到等同于装备者 <color style='color:#f29e38;'> <b>60.0%</b> </color> / <color style='color:#f29e38;'> <b>70.0%</b> </color> / <color style='color:#f29e38;'> <b>80.0%</b> </color> / <color style='color:#f29e38;'> <b>90.0%</b> </color> / <color style='color:#f29e38;'> <b>100.0%</b> </color> 攻击力的雷属性持续伤害，持续 <b>1.0</b> 回合。",
-                    "EN": "Increases DMG dealt by the wearer by <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>32.0%</b></color> / <color style='color:#f29e38;'><b>36.0%</b></color> / <color style='color:#f29e38;'><b>40.0%</b></color> . After every attack launched by wearer, their SPD increases by <color style='color:#f29e38;'><b>4.8%</b></color> / <color style='color:#f29e38;'><b>5.6%</b></color> / <color style='color:#f29e38;'><b>6.4%</b></color> / <color style='color:#f29e38;'><b>7.2%</b></color> / <color style='color:#f29e38;'><b>8.0%</b></color> , stacking up to <b>3.0</b> times.\nIf the wearer hits an enemy target that is not afflicted by Erode, there is a <b>100%</b> base chance to inflict Erode to the target. Enemies afflicted with Erode are also considered to be Shocked and will receive Lightning DoT at the start of each turn equal to <color style='color:#f29e38;'><b>60.0%</b></color> / <color style='color:#f29e38;'><b>70.0%</b></color> / <color style='color:#f29e38;'><b>80.0%</b></color> / <color style='color:#f29e38;'><b>90.0%</b></color> / <color style='color:#f29e38;'><b>100.0%</b></color>  of the wearer's ATK, lasting for <b>1.0</b> turn(s)."
+                    "CH": "使装备者造成的伤害提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> 。装备者每次施放攻击后，速度提高 <color style='color:#f29e38;'>4.8%</color> / <color style='color:#f29e38;'>5.6%</color> / <color style='color:#f29e38;'>6.4%</color> / <color style='color:#f29e38;'>7.2%</color> / <color style='color:#f29e38;'>8.0%</color> ，最多叠加 <b>3.0</b> 层。\n当装备者击中敌方目标时，如果该目标不处于【游丝】状态，则有 <b>100%</b> 的基础概率使其陷入【游丝】状态。当敌方目标处于【游丝】状态时，也会被视为陷入了触电状态。【游丝】状态下，敌方目标每回合开始时受到等同于装备者 <color style='color:#f29e38;'>60.0%</color> / <color style='color:#f29e38;'>70.0%</color> / <color style='color:#f29e38;'>80.0%</color> / <color style='color:#f29e38;'>90.0%</color> / <color style='color:#f29e38;'>100.0%</color> 攻击力的雷属性持续伤害，持续 <b>1.0</b> 回合。",
+                    "EN": "Increases DMG dealt by the wearer by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> . After every attack launched by wearer, their SPD increases by <color style='color:#f29e38;'>4.8%</color> / <color style='color:#f29e38;'>5.6%</color> / <color style='color:#f29e38;'>6.4%</color> / <color style='color:#f29e38;'>7.2%</color> / <color style='color:#f29e38;'>8.0%</color> , stacking up to <b>3.0</b> times.\nIf the wearer hits an enemy target that is not afflicted by Erode, there is a <b>100%</b> base chance to inflict Erode to the target. Enemies afflicted with Erode are also considered to be Shocked and will receive Lightning DoT at the start of each turn equal to <color style='color:#f29e38;'>60.0%</color> / <color style='color:#f29e38;'>70.0%</color> / <color style='color:#f29e38;'>80.0%</color> / <color style='color:#f29e38;'>90.0%</color> / <color style='color:#f29e38;'>100.0%</color>  of the wearer's ATK, lasting for <b>1.0</b> turn(s)."
                 }
             ]
         }
     },
     "23007": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "幻影现实",
                 "EN": "Mirage of Reality"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的效果命中提高 <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>32.0%</b> </color> / <color style='color:#f29e38;'> <b>36.0%</b> </color> / <color style='color:#f29e38;'> <b>40.0%</b> </color> 。当装备者对同时处于大于等于 <b>3.0</b> 个负面效果的敌方目标造成伤害时，暴击率提高 <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>14.0%</b> </color> / <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> 。装备者施放普攻、战技、终结技后，有 <b>100.0%</b> 的基础概率对随机1个未持有【以太编码】的受击目标施加【以太编码】。持有【以太编码】的目标受到的伤害提高 <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>14.0%</b> </color> / <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> ，持续1回合。",
-                    "EN": "Increases the wearer's Effect Hit Rate by <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>32.0%</b></color> / <color style='color:#f29e38;'><b>36.0%</b></color> / <color style='color:#f29e38;'><b>40.0%</b></color> . When the wearer deals DMG to an enemy that currently has <b>3.0</b> or more debuffs, increases the wearer's CRIT Rate by <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>14.0%</b></color> / <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color> . After the wearer uses their Basic ATK, Skill, or Ultimate, there is a <b>100.0%</b> base chance to implant Aether Code on a random hit target that does not yet have it. Targets with Aether Code receive <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>14.0%</b></color> / <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color>  increased DMG for 1 turn."
+                    "CH": "使装备者的效果命中提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> 。当装备者对同时处于大于等于 <b>3.0</b> 个负面效果的敌方目标造成伤害时，暴击率提高 <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> 。装备者施放普攻、战技、终结技后，有 <b>100.0%</b> 的基础概率对随机1个未持有【以太编码】的受击目标施加【以太编码】。持有【以太编码】的目标受到的伤害提高 <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> ，持续1回合。",
+                    "EN": "Increases the wearer's Effect Hit Rate by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> . When the wearer deals DMG to an enemy that currently has <b>3.0</b> or more debuffs, increases the wearer's CRIT Rate by <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> . After the wearer uses their Basic ATK, Skill, or Ultimate, there is a <b>100.0%</b> base chance to implant Aether Code on a random hit target that does not yet have it. Targets with Aether Code receive <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color>  increased DMG for 1 turn."
                 }
             ]
         }
     },
     "23008": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "荆棘",
                 "EN": "Thorns"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的攻击力提高 <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>32.0%</b> </color> / <color style='color:#f29e38;'> <b>36.0%</b> </color> / <color style='color:#f29e38;'> <b>40.0%</b> </color> 。当装备者施放攻击后，每击中1名不同的敌方目标，恢复 <color style='color:#f29e38;'> <b>3.0</b> </color> / <color style='color:#f29e38;'> <b>3.5</b> </color> / <color style='color:#f29e38;'> <b>4.0</b> </color> / <color style='color:#f29e38;'> <b>4.5</b> </color> / <color style='color:#f29e38;'> <b>5.0</b> </color> 点能量，每次攻击最多通过该方式恢复 <b>3.0</b> 次能量。当装备者施放终结技后，使我方全体速度提高 <color style='color:#f29e38;'> <b>12.0</b> </color> / <color style='color:#f29e38;'> <b>14.0</b> </color> / <color style='color:#f29e38;'> <b>16.0</b> </color> / <color style='color:#f29e38;'> <b>18.0</b> </color> / <color style='color:#f29e38;'> <b>20.0</b> </color> 点，持续1回合。",
-                    "EN": "Increases the wearer's ATK by <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>32.0%</b></color> / <color style='color:#f29e38;'><b>36.0%</b></color> / <color style='color:#f29e38;'><b>40.0%</b></color> . After the wearer uses an attack, for each different enemy target the wearer hits, regenerates <color style='color:#f29e38;'><b>3.0</b></color> / <color style='color:#f29e38;'><b>3.5</b></color> / <color style='color:#f29e38;'><b>4.0</b></color> / <color style='color:#f29e38;'><b>4.5</b></color> / <color style='color:#f29e38;'><b>5.0</b></color>  Energy. Each attack can regenerate Energy up to <b>3.0</b> time(s) this way. After the wearer uses their Ultimate, all allies gain <color style='color:#f29e38;'><b>12.0</b></color> / <color style='color:#f29e38;'><b>14.0</b></color> / <color style='color:#f29e38;'><b>16.0</b></color> / <color style='color:#f29e38;'><b>18.0</b></color> / <color style='color:#f29e38;'><b>20.0</b></color>  SPD for 1 turn."
+                    "CH": "使装备者的攻击力提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> 。当装备者施放攻击后，每击中1名不同的敌方目标，恢复 <color style='color:#f29e38;'>3.0</color> / <color style='color:#f29e38;'>3.5</color> / <color style='color:#f29e38;'>4.0</color> / <color style='color:#f29e38;'>4.5</color> / <color style='color:#f29e38;'>5.0</color> 点能量，每次攻击最多通过该方式恢复 <b>3.0</b> 次能量。当装备者施放终结技后，使我方全体速度提高 <color style='color:#f29e38;'>12.0</color> / <color style='color:#f29e38;'>14.0</color> / <color style='color:#f29e38;'>16.0</color> / <color style='color:#f29e38;'>18.0</color> / <color style='color:#f29e38;'>20.0</color> 点，持续1回合。",
+                    "EN": "Increases the wearer's ATK by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> . After the wearer uses an attack, for each different enemy target the wearer hits, regenerates <color style='color:#f29e38;'>3.0</color> / <color style='color:#f29e38;'>3.5</color> / <color style='color:#f29e38;'>4.0</color> / <color style='color:#f29e38;'>4.5</color> / <color style='color:#f29e38;'>5.0</color>  Energy. Each attack can regenerate Energy up to <b>3.0</b> time(s) this way. After the wearer uses their Ultimate, all allies gain <color style='color:#f29e38;'>12.0</color> / <color style='color:#f29e38;'>14.0</color> / <color style='color:#f29e38;'>16.0</color> / <color style='color:#f29e38;'>18.0</color> / <color style='color:#f29e38;'>20.0</color>  SPD for 1 turn."
                 }
             ]
         }
     },
     "23009": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "不得",
                 "EN": "Unfulfilled Yearning"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的暴击率提高 <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>21.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>27.0%</b> </color> / <color style='color:#f29e38;'> <b>30.0%</b> </color> ，生命上限提高 <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>21.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>27.0%</b> </color> / <color style='color:#f29e38;'> <b>30.0%</b> </color> 。当装备者受到攻击或装备者消耗自身生命值后，造成的伤害提高 <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>32.0%</b> </color> / <color style='color:#f29e38;'> <b>36.0%</b> </color> / <color style='color:#f29e38;'> <b>40.0%</b> </color> ，该效果在装备者施放攻击后解除。",
-                    "EN": "Increases the wearer's CRIT rate by <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>21.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>27.0%</b></color> / <color style='color:#f29e38;'><b>30.0%</b></color>  and increases their Max HP by <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>21.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>27.0%</b></color> / <color style='color:#f29e38;'><b>30.0%</b></color> . When the wearer is attacked or consumes their own HP, their DMG increases by <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>32.0%</b></color> / <color style='color:#f29e38;'><b>36.0%</b></color> / <color style='color:#f29e38;'><b>40.0%</b></color> . This effect is removed after the wearer uses an attack."
+                    "CH": "使装备者的暴击率提高 <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>27.0%</color> / <color style='color:#f29e38;'>30.0%</color> ，生命上限提高 <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>27.0%</color> / <color style='color:#f29e38;'>30.0%</color> 。当装备者受到攻击或装备者消耗自身生命值后，造成的伤害提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> ，该效果在装备者施放攻击后解除。",
+                    "EN": "Increases the wearer's CRIT rate by <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>27.0%</color> / <color style='color:#f29e38;'>30.0%</color>  and increases their Max HP by <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>27.0%</color> / <color style='color:#f29e38;'>30.0%</color> . When the wearer is attacked or consumes their own HP, their DMG increases by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> . This effect is removed after the wearer uses an attack."
                 }
             ]
         }
     },
     "23010": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "长夜",
                 "EN": "Long Night"
             },
             "Desc": [
                 {
-                    "CH": "使装备者暴击伤害提高 <color style='color:#f29e38;'> <b>36.0%</b> </color> / <color style='color:#f29e38;'> <b>42.0%</b> </color> / <color style='color:#f29e38;'> <b>48.0%</b> </color> / <color style='color:#f29e38;'> <b>54.0%</b> </color> / <color style='color:#f29e38;'> <b>60.0%</b> </color> 。使装备者战技和终结技造成的伤害提高 <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>21.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>27.0%</b> </color> / <color style='color:#f29e38;'> <b>30.0%</b> </color> 。当装备者施放战技或终结技后，获得【梦身】效果。触发追加攻击时，消耗【梦身】，使追加攻击造成的伤害提高 <color style='color:#f29e38;'> <b>48.0%</b> </color> / <color style='color:#f29e38;'> <b>56.0%</b> </color> / <color style='color:#f29e38;'> <b>64.0%</b> </color> / <color style='color:#f29e38;'> <b>72.0%</b> </color> / <color style='color:#f29e38;'> <b>80.0%</b> </color> 。",
-                    "EN": "Increases the wearer's CRIT DMG by <color style='color:#f29e38;'><b>36.0%</b></color> / <color style='color:#f29e38;'><b>42.0%</b></color> / <color style='color:#f29e38;'><b>48.0%</b></color> / <color style='color:#f29e38;'><b>54.0%</b></color> / <color style='color:#f29e38;'><b>60.0%</b></color> . Increases the wearer's Skill and Ultimate DMG by <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>21.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>27.0%</b></color> / <color style='color:#f29e38;'><b>30.0%</b></color> . After the wearer uses their Skill or Ultimate, they gain Somnus Corpus. Upon triggering a follow-up attack, Somnus Corpus will be consumed and the follow-up attack DMG increases by <color style='color:#f29e38;'><b>48.0%</b></color> / <color style='color:#f29e38;'><b>56.0%</b></color> / <color style='color:#f29e38;'><b>64.0%</b></color> / <color style='color:#f29e38;'><b>72.0%</b></color> / <color style='color:#f29e38;'><b>80.0%</b></color> ."
+                    "CH": "使装备者暴击伤害提高 <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>54.0%</color> / <color style='color:#f29e38;'>60.0%</color> 。使装备者战技和终结技造成的伤害提高 <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>27.0%</color> / <color style='color:#f29e38;'>30.0%</color> 。当装备者施放战技或终结技后，获得【梦身】效果。触发追加攻击时，消耗【梦身】，使追加攻击造成的伤害提高 <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>56.0%</color> / <color style='color:#f29e38;'>64.0%</color> / <color style='color:#f29e38;'>72.0%</color> / <color style='color:#f29e38;'>80.0%</color> 。",
+                    "EN": "Increases the wearer's CRIT DMG by <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>54.0%</color> / <color style='color:#f29e38;'>60.0%</color> . Increases the wearer's Skill and Ultimate DMG by <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>27.0%</color> / <color style='color:#f29e38;'>30.0%</color> . After the wearer uses their Skill or Ultimate, they gain Somnus Corpus. Upon triggering a follow-up attack, Somnus Corpus will be consumed and the follow-up attack DMG increases by <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>56.0%</color> / <color style='color:#f29e38;'>64.0%</color> / <color style='color:#f29e38;'>72.0%</color> / <color style='color:#f29e38;'>80.0%</color> ."
                 }
             ]
         }
     },
     "23011": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "视界",
                 "EN": "Visioscape"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的生命上限提高 <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>32.0%</b> </color> / <color style='color:#f29e38;'> <b>36.0%</b> </color> / <color style='color:#f29e38;'> <b>40.0%</b> </color> ，能量恢复效率提高 <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>14.0%</b> </color> / <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> 。当装备者的生命值降低时，使我方全体造成的伤害提高 <color style='color:#f29e38;'> <b>9.0%</b> </color> / <color style='color:#f29e38;'> <b>10.5%</b> </color> / <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>13.5%</b> </color> / <color style='color:#f29e38;'> <b>15.0%</b> </color> ，持续 <b>2.0</b> 回合。\n每个波次开始时，为我方全体回复等同于各自已损失生命值 <color style='color:#f29e38;'> <b>80.0%</b> </color> / <color style='color:#f29e38;'> <b>85.0%</b> </color> / <color style='color:#f29e38;'> <b>90.0%</b> </color> / <color style='color:#f29e38;'> <b>95.0%</b> </color> / <color style='color:#f29e38;'> <b>100.0%</b> </color> 的生命值。",
-                    "EN": "Increases the wearer's Max HP by <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>32.0%</b></color> / <color style='color:#f29e38;'><b>36.0%</b></color> / <color style='color:#f29e38;'><b>40.0%</b></color>  and Energy Regeneration Rate by <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>14.0%</b></color> / <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color> . When the wearer's HP is reduced, all allies' DMG dealt increases by <color style='color:#f29e38;'><b>9.0%</b></color> / <color style='color:#f29e38;'><b>10.5%</b></color> / <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>13.5%</b></color> / <color style='color:#f29e38;'><b>15.0%</b></color> , lasting for <b>2.0</b> turn(s).\nAt the start of every wave, restores HP to all allies by an amount equal to <color style='color:#f29e38;'><b>80.0%</b></color> / <color style='color:#f29e38;'><b>85.0%</b></color> / <color style='color:#f29e38;'><b>90.0%</b></color> / <color style='color:#f29e38;'><b>95.0%</b></color> / <color style='color:#f29e38;'><b>100.0%</b></color>  of their respective lost HP."
+                    "CH": "使装备者的生命上限提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> ，能量恢复效率提高 <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> 。当装备者的生命值降低时，使我方全体造成的伤害提高 <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.5%</color> / <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>13.5%</color> / <color style='color:#f29e38;'>15.0%</color> ，持续 <b>2.0</b> 回合。\n每个波次开始时，为我方全体回复等同于各自已损失生命值 <color style='color:#f29e38;'>80.0%</color> / <color style='color:#f29e38;'>85.0%</color> / <color style='color:#f29e38;'>90.0%</color> / <color style='color:#f29e38;'>95.0%</color> / <color style='color:#f29e38;'>100.0%</color> 的生命值。",
+                    "EN": "Increases the wearer's Max HP by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color>  and Energy Regeneration Rate by <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> . When the wearer's HP is reduced, all allies' DMG dealt increases by <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.5%</color> / <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>13.5%</color> / <color style='color:#f29e38;'>15.0%</color> , lasting for <b>2.0</b> turn(s).\nAt the start of every wave, restores HP to all allies by an amount equal to <color style='color:#f29e38;'>80.0%</color> / <color style='color:#f29e38;'>85.0%</color> / <color style='color:#f29e38;'>90.0%</color> / <color style='color:#f29e38;'>95.0%</color> / <color style='color:#f29e38;'>100.0%</color>  of their respective lost HP."
                 }
             ]
         }
     },
     "23012": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "美梦",
                 "EN": "Sweet Dreams"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的暴击伤害提高 <color style='color:#f29e38;'> <b>30.0%</b> </color> / <color style='color:#f29e38;'> <b>35.0%</b> </color> / <color style='color:#f29e38;'> <b>40.0%</b> </color> / <color style='color:#f29e38;'> <b>45.0%</b> </color> / <color style='color:#f29e38;'> <b>50.0%</b> </color> 。当装备者的普攻或战技伤害未造成暴击时，使自身暴击率提高 <color style='color:#f29e38;'> <b>36.0%</b> </color> / <color style='color:#f29e38;'> <b>42.0%</b> </color> / <color style='color:#f29e38;'> <b>48.0%</b> </color> / <color style='color:#f29e38;'> <b>54.0%</b> </color> / <color style='color:#f29e38;'> <b>60.0%</b> </color> ，持续 <b>1.0</b> 回合。该效果每 <b>3.0</b> 回合可以触发1次。",
-                    "EN": "Increases the wearer's CRIT DMG by <color style='color:#f29e38;'><b>30.0%</b></color> / <color style='color:#f29e38;'><b>35.0%</b></color> / <color style='color:#f29e38;'><b>40.0%</b></color> / <color style='color:#f29e38;'><b>45.0%</b></color> / <color style='color:#f29e38;'><b>50.0%</b></color> . When the wearer's Basic ATK or Skill does not result in a CRIT Hit, increases their CRIT Rate by <color style='color:#f29e38;'><b>36.0%</b></color> / <color style='color:#f29e38;'><b>42.0%</b></color> / <color style='color:#f29e38;'><b>48.0%</b></color> / <color style='color:#f29e38;'><b>54.0%</b></color> / <color style='color:#f29e38;'><b>60.0%</b></color>  for <b>1.0</b> turn(s). This effect can only trigger once every <b>3.0</b> turn(s)."
+                    "CH": "使装备者的暴击伤害提高 <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>45.0%</color> / <color style='color:#f29e38;'>50.0%</color> 。当装备者的普攻或战技伤害未造成暴击时，使自身暴击率提高 <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>54.0%</color> / <color style='color:#f29e38;'>60.0%</color> ，持续 <b>1.0</b> 回合。该效果每 <b>3.0</b> 回合可以触发1次。",
+                    "EN": "Increases the wearer's CRIT DMG by <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>45.0%</color> / <color style='color:#f29e38;'>50.0%</color> . When the wearer's Basic ATK or Skill does not result in a CRIT Hit, increases their CRIT Rate by <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>54.0%</color> / <color style='color:#f29e38;'>60.0%</color>  for <b>1.0</b> turn(s). This effect can only trigger once every <b>3.0</b> turn(s)."
                 }
             ]
         }
     },
     "23013": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "日有四时",
                 "EN": "Morn, Noon, Dusk, and Night"
             },
             "Desc": [
                 {
-                    "CH": "使装备者生命上限提高 <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>21.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>27.0%</b> </color> / <color style='color:#f29e38;'> <b>30.0%</b> </color> ，治疗量提高 <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>14.0%</b> </color> / <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> 。当装备者对我方目标提供治疗时，记录治疗量。当任意我方目标施放攻击后，根据记录治疗量的 <color style='color:#f29e38;'> <b>36.0%</b> </color> / <color style='color:#f29e38;'> <b>42.0%</b> </color> / <color style='color:#f29e38;'> <b>48.0%</b> </color> / <color style='color:#f29e38;'> <b>54.0%</b> </color> / <color style='color:#f29e38;'> <b>60.0%</b> </color> ，对随机1个受到攻击的敌方目标造成基于装备者属性的附加伤害。该伤害不受加成影响，每回合最多结算1次。",
-                    "EN": "Increases the wearer's Max HP by <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>21.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>27.0%</b></color> / <color style='color:#f29e38;'><b>30.0%</b></color>  and Outgoing Healing by <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>14.0%</b></color> / <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color> . When the wearer heals allies, record the amount of Outgoing Healing. When any ally launches an attack, a random attacked enemy takes Additional DMG equal to <color style='color:#f29e38;'><b>36.0%</b></color> / <color style='color:#f29e38;'><b>42.0%</b></color> / <color style='color:#f29e38;'><b>48.0%</b></color> / <color style='color:#f29e38;'><b>54.0%</b></color> / <color style='color:#f29e38;'><b>60.0%</b></color>  of the recorded Outgoing Healing value. The type of this Additional DMG is of the same Type as the wearer's. This Additional DMG is not affected by other buffs, and can only occur 1 time per turn."
+                    "CH": "使装备者生命上限提高 <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>27.0%</color> / <color style='color:#f29e38;'>30.0%</color> ，治疗量提高 <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> 。当装备者对我方目标提供治疗时，记录治疗量。当任意我方目标施放攻击后，根据记录治疗量的 <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>54.0%</color> / <color style='color:#f29e38;'>60.0%</color> ，对随机1个受到攻击的敌方目标造成基于装备者属性的附加伤害。该伤害不受加成影响，每回合最多结算1次。",
+                    "EN": "Increases the wearer's Max HP by <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>27.0%</color> / <color style='color:#f29e38;'>30.0%</color>  and Outgoing Healing by <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> . When the wearer heals allies, record the amount of Outgoing Healing. When any ally launches an attack, a random attacked enemy takes Additional DMG equal to <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>54.0%</color> / <color style='color:#f29e38;'>60.0%</color>  of the recorded Outgoing Healing value. The type of this Additional DMG is of the same Type as the wearer's. This Additional DMG is not affected by other buffs, and can only occur 1 time per turn."
                 }
             ]
         }
     },
     "23014": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "执此宵玉",
                 "EN": "With This Evening Jade"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的暴击伤害提高 <color style='color:#f29e38;'> <b>20.0%</b> </color> / <color style='color:#f29e38;'> <b>23.0%</b> </color> / <color style='color:#f29e38;'> <b>26.0%</b> </color> / <color style='color:#f29e38;'> <b>29.0%</b> </color> / <color style='color:#f29e38;'> <b>32.0%</b> </color> 。当队友受到攻击或消耗生命值后，装备者获得1层【月蚀】，最多叠加 <b>3.0</b> 层。每层【月蚀】使装备者下一次攻击造成的伤害提高 <color style='color:#f29e38;'> <b>14.0%</b> </color> / <color style='color:#f29e38;'> <b>16.5%</b> </color> / <color style='color:#f29e38;'> <b>19.0%</b> </color> / <color style='color:#f29e38;'> <b>21.5%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> 。叠满 <b>3.0</b> 层时，额外使该次攻击无视目标 <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>14.0%</b> </color> / <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> 的防御力。该效果在装备者施放攻击后解除。",
-                    "EN": "Increases the wearer's CRIT DMG by <color style='color:#f29e38;'><b>20.0%</b></color> / <color style='color:#f29e38;'><b>23.0%</b></color> / <color style='color:#f29e38;'><b>26.0%</b></color> / <color style='color:#f29e38;'><b>29.0%</b></color> / <color style='color:#f29e38;'><b>32.0%</b></color> . When an ally (excluding the wearer) gets attacked or loses HP, the wearer gains 1 stack of Eclipse, up to a max of <b>3.0</b> stack(s). Each stack of Eclipse increases the DMG of the wearer's next attack by <color style='color:#f29e38;'><b>14.0%</b></color> / <color style='color:#f29e38;'><b>16.5%</b></color> / <color style='color:#f29e38;'><b>19.0%</b></color> / <color style='color:#f29e38;'><b>21.5%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> . When <b>3.0</b> stack(s) are reached, additionally enables that attack to ignore <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>14.0%</b></color> / <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color>  of the enemy's DEF. This effect will be removed after the wearer uses an attack."
+                    "CH": "使装备者的暴击伤害提高 <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>23.0%</color> / <color style='color:#f29e38;'>26.0%</color> / <color style='color:#f29e38;'>29.0%</color> / <color style='color:#f29e38;'>32.0%</color> 。当队友受到攻击或消耗生命值后，装备者获得1层【月蚀】，最多叠加 <b>3.0</b> 层。每层【月蚀】使装备者下一次攻击造成的伤害提高 <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.5%</color> / <color style='color:#f29e38;'>19.0%</color> / <color style='color:#f29e38;'>21.5%</color> / <color style='color:#f29e38;'>24.0%</color> 。叠满 <b>3.0</b> 层时，额外使该次攻击无视目标 <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> 的防御力。该效果在装备者施放攻击后解除。",
+                    "EN": "Increases the wearer's CRIT DMG by <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>23.0%</color> / <color style='color:#f29e38;'>26.0%</color> / <color style='color:#f29e38;'>29.0%</color> / <color style='color:#f29e38;'>32.0%</color> . When an ally (excluding the wearer) gets attacked or loses HP, the wearer gains 1 stack of Eclipse, up to a max of <b>3.0</b> stack(s). Each stack of Eclipse increases the DMG of the wearer's next attack by <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.5%</color> / <color style='color:#f29e38;'>19.0%</color> / <color style='color:#f29e38;'>21.5%</color> / <color style='color:#f29e38;'>24.0%</color> . When <b>3.0</b> stack(s) are reached, additionally enables that attack to ignore <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color>  of the enemy's DEF. This effect will be removed after the wearer uses an attack."
                 }
             ]
         }
     },
     "23015": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "抵死",
                 "EN": "Defiant Till Death"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的暴击率提高 <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>21.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>27.0%</b> </color> / <color style='color:#f29e38;'> <b>30.0%</b> </color> 。当装备者施放普攻时，获得1层【龙吟】，持续 <b>2.0</b> 回合。每层【龙吟】使装备者的攻击力提高 <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>21.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>27.0%</b> </color> / <color style='color:#f29e38;'> <b>30.0%</b> </color> ，能量恢复效率提高 <color style='color:#f29e38;'> <b>6.0%</b> </color> / <color style='color:#f29e38;'> <b>7.0%</b> </color> / <color style='color:#f29e38;'> <b>8.0%</b> </color> / <color style='color:#f29e38;'> <b>9.0%</b> </color> / <color style='color:#f29e38;'> <b>10.0%</b> </color> 。【龙吟】最多叠加 <b>2.0</b> 层。",
-                    "EN": "Increases the wearer's CRIT Rate by <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>21.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>27.0%</b></color> / <color style='color:#f29e38;'><b>30.0%</b></color> . When the wearer uses their Basic ATK, they will gain 1 stack of Dragon's Call, lasting for <b>2.0</b> turns. Each stack of Dragon's Call increases the wearer's ATK by <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>21.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>27.0%</b></color> / <color style='color:#f29e38;'><b>30.0%</b></color>  and Energy Regeneration Rate by <color style='color:#f29e38;'><b>6.0%</b></color> / <color style='color:#f29e38;'><b>7.0%</b></color> / <color style='color:#f29e38;'><b>8.0%</b></color> / <color style='color:#f29e38;'><b>9.0%</b></color> / <color style='color:#f29e38;'><b>10.0%</b></color> . Dragon's Call can be stacked up to <b>2.0</b> times."
+                    "CH": "使装备者的暴击率提高 <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>27.0%</color> / <color style='color:#f29e38;'>30.0%</color> 。当装备者施放普攻时，获得1层【龙吟】，持续 <b>2.0</b> 回合。每层【龙吟】使装备者的攻击力提高 <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>27.0%</color> / <color style='color:#f29e38;'>30.0%</color> ，能量恢复效率提高 <color style='color:#f29e38;'>6.0%</color> / <color style='color:#f29e38;'>7.0%</color> / <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.0%</color> 。【龙吟】最多叠加 <b>2.0</b> 层。",
+                    "EN": "Increases the wearer's CRIT Rate by <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>27.0%</color> / <color style='color:#f29e38;'>30.0%</color> . When the wearer uses their Basic ATK, they will gain 1 stack of Dragon's Call, lasting for <b>2.0</b> turns. Each stack of Dragon's Call increases the wearer's ATK by <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>27.0%</color> / <color style='color:#f29e38;'>30.0%</color>  and Energy Regeneration Rate by <color style='color:#f29e38;'>6.0%</color> / <color style='color:#f29e38;'>7.0%</color> / <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.0%</color> . Dragon's Call can be stacked up to <b>2.0</b> times."
                 }
             ]
         }
     },
     "23016": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "一个一个来",
                 "EN": "One At A Time"
             },
             "Desc": [
                 {
-                    "CH": "使装备者暴击率提高 <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>21.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>27.0%</b> </color> / <color style='color:#f29e38;'> <b>30.0%</b> </color> ，追加攻击造成的伤害提高 <color style='color:#f29e38;'> <b>30.0%</b> </color> / <color style='color:#f29e38;'> <b>35.0%</b> </color> / <color style='color:#f29e38;'> <b>40.0%</b> </color> / <color style='color:#f29e38;'> <b>45.0%</b> </color> / <color style='color:#f29e38;'> <b>50.0%</b> </color> 。装备者施放追加攻击后，使目标陷入【温驯】状态，该效果最多叠加 <b>2.0</b> 层。我方目标击中【温驯】状态下的敌方目标时，每层【温驯】使造成的暴击伤害提高 <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>14.0%</b> </color> / <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> 。",
-                    "EN": "Increase the wearer's CRIT Rate by <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>21.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>27.0%</b></color> / <color style='color:#f29e38;'><b>30.0%</b></color>  and their follow-up attacks' DMG by <color style='color:#f29e38;'><b>30.0%</b></color> / <color style='color:#f29e38;'><b>35.0%</b></color> / <color style='color:#f29e38;'><b>40.0%</b></color> / <color style='color:#f29e38;'><b>45.0%</b></color> / <color style='color:#f29e38;'><b>50.0%</b></color> . After the wearer uses a follow-up attack, apply the Tame state to the target, stacking up to <b>2.0</b> stacks. When allies hit enemy targets under the Tame state, every Tame stack increases the CRIT DMG dealt by <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>14.0%</b></color> / <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color> ."
+                    "CH": "使装备者暴击率提高 <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>27.0%</color> / <color style='color:#f29e38;'>30.0%</color> ，追加攻击造成的伤害提高 <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>45.0%</color> / <color style='color:#f29e38;'>50.0%</color> 。装备者施放追加攻击后，使目标陷入【温驯】状态，该效果最多叠加 <b>2.0</b> 层。我方目标击中【温驯】状态下的敌方目标时，每层【温驯】使造成的暴击伤害提高 <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> 。",
+                    "EN": "Increase the wearer's CRIT Rate by <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>27.0%</color> / <color style='color:#f29e38;'>30.0%</color>  and their follow-up attacks' DMG by <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>45.0%</color> / <color style='color:#f29e38;'>50.0%</color> . After the wearer uses a follow-up attack, apply the Tame state to the target, stacking up to <b>2.0</b> stacks. When allies hit enemy targets under the Tame state, every Tame stack increases the CRIT DMG dealt by <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> ."
                 }
             ]
         }
     },
     "24000": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "扑火",
                 "EN": "Moth to Flames"
             },
             "Desc": [
                 {
-                    "CH": "当装备者施放攻击时，使装备者本场战斗中的攻击力提高 <color style='color:#f29e38;'> <b>8.0%</b> </color> / <color style='color:#f29e38;'> <b>10.0%</b> </color> / <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>14.0%</b> </color> / <color style='color:#f29e38;'> <b>16.0%</b> </color> ，该效果最多叠加 <b>4.0</b> 层。当装备者击破敌方目标弱点后，造成的伤害提高 <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>15.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>21.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> ，持续 <b>2.0</b> 回合。",
-                    "EN": "Whenever the wearer attacks, their ATK is increased by <color style='color:#f29e38;'><b>8.0%</b></color> / <color style='color:#f29e38;'><b>10.0%</b></color> / <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>14.0%</b></color> / <color style='color:#f29e38;'><b>16.0%</b></color>  in this battle. This effect can stack up to <b>4.0</b> time(s). After a character inflicts Weakness Break on an enemy, the wearer's DMG increases by <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>15.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>21.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color>  for <b>2.0</b> turn(s)."
+                    "CH": "当装备者施放攻击时，使装备者本场战斗中的攻击力提高 <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> ，该效果最多叠加 <b>4.0</b> 层。当装备者击破敌方目标弱点后，造成的伤害提高 <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> ，持续 <b>2.0</b> 回合。",
+                    "EN": "Whenever the wearer attacks, their ATK is increased by <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color>  in this battle. This effect can stack up to <b>4.0</b> time(s). After a character inflicts Weakness Break on an enemy, the wearer's DMG increases by <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color>  for <b>2.0</b> turn(s)."
                 }
             ]
         }
     },
     "24001": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "猎逐",
                 "EN": "Chase"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的暴击率提高 <color style='color:#f29e38;'> <b>8.0%</b> </color> / <color style='color:#f29e38;'> <b>10.0%</b> </color> / <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>14.0%</b> </color> / <color style='color:#f29e38;'> <b>16.0%</b> </color> ，装备者对生命值百分比小于等于 <b>50.0%</b> 的敌方目标暴击率额外提高 <color style='color:#f29e38;'> <b>8.0%</b> </color> / <color style='color:#f29e38;'> <b>10.0%</b> </color> / <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>14.0%</b> </color> / <color style='color:#f29e38;'> <b>16.0%</b> </color> 。当装备者消灭敌方目标后，攻击力提高 <color style='color:#f29e38;'> <b>20.0%</b> </color> / <color style='color:#f29e38;'> <b>25.0%</b> </color> / <color style='color:#f29e38;'> <b>30.0%</b> </color> / <color style='color:#f29e38;'> <b>35.0%</b> </color> / <color style='color:#f29e38;'> <b>40.0%</b> </color> ，持续 <b>2.0</b> 回合。",
-                    "EN": "Increases the wearer's CRIT rate by <color style='color:#f29e38;'><b>8.0%</b></color> / <color style='color:#f29e38;'><b>10.0%</b></color> / <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>14.0%</b></color> / <color style='color:#f29e38;'><b>16.0%</b></color> , and increases their CRIT rate against enemies with HP less than or equal to <b>50.0%</b> by an extra <color style='color:#f29e38;'><b>8.0%</b></color> / <color style='color:#f29e38;'><b>10.0%</b></color> / <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>14.0%</b></color> / <color style='color:#f29e38;'><b>16.0%</b></color> . When the wearer defeats an enemy, their ATK is increased by <color style='color:#f29e38;'><b>20.0%</b></color> / <color style='color:#f29e38;'><b>25.0%</b></color> / <color style='color:#f29e38;'><b>30.0%</b></color> / <color style='color:#f29e38;'><b>35.0%</b></color> / <color style='color:#f29e38;'><b>40.0%</b></color>  for <b>2.0</b> turn(s)."
+                    "CH": "使装备者的暴击率提高 <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> ，装备者对生命值百分比小于等于 <b>50.0%</b> 的敌方目标暴击率额外提高 <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> 。当装备者消灭敌方目标后，攻击力提高 <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>25.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>40.0%</color> ，持续 <b>2.0</b> 回合。",
+                    "EN": "Increases the wearer's CRIT rate by <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> , and increases their CRIT rate against enemies with HP less than or equal to <b>50.0%</b> by an extra <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> . When the wearer defeats an enemy, their ATK is increased by <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>25.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>40.0%</color>  for <b>2.0</b> turn(s)."
                 }
             ]
         }
     },
     "24002": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "珍存",
                 "EN": "Treasure"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的效果抵抗提高 <color style='color:#f29e38;'> <b>8.0%</b> </color> / <color style='color:#f29e38;'> <b>10.0%</b> </color> / <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>14.0%</b> </color> / <color style='color:#f29e38;'> <b>16.0%</b> </color> ，当装备者受到攻击后，如果自身未持有护盾，则获得1个等同于装备者 <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>32.0%</b> </color> 生命上限的护盾，持续 <b>2.0</b> 回合。该效果每 <b>3.0</b> 回合只能触发1次。如果装备者持有护盾，则使自身受到的伤害降低 <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>15.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>21.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> 。",
-                    "EN": "Increases the wearer's Effect RES by <color style='color:#f29e38;'><b>8.0%</b></color> / <color style='color:#f29e38;'><b>10.0%</b></color> / <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>14.0%</b></color> / <color style='color:#f29e38;'><b>16.0%</b></color> . If the wearer is attacked and has no Shield, they gain a Shield equal to <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>32.0%</b></color>  of their Max HP for <b>2.0</b> turn(s). This effect can only be triggered once every <b>3.0</b> turn(s). If the wearer has a Shield when attacked, the DMG they receive decreases by <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>15.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>21.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> ."
+                    "CH": "使装备者的效果抵抗提高 <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> ，当装备者受到攻击后，如果自身未持有护盾，则获得1个等同于装备者 <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> 生命上限的护盾，持续 <b>2.0</b> 回合。该效果每 <b>3.0</b> 回合只能触发1次。如果装备者持有护盾，则使自身受到的伤害降低 <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> 。",
+                    "EN": "Increases the wearer's Effect RES by <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> . If the wearer is attacked and has no Shield, they gain a Shield equal to <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color>  of their Max HP for <b>2.0</b> turn(s). This effect can only be triggered once every <b>3.0</b> turn(s). If the wearer has a Shield when attacked, the DMG they receive decreases by <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>21.0%</color> / <color style='color:#f29e38;'>24.0%</color> ."
                 }
             ]
         }
     },
     "21025": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "旧日纸鸢",
                 "EN": "Kites From the Past"
             },
             "Desc": [
                 {
-                    "CH": "当装备者施放战技后，使下一个行动的我方其他目标造成的伤害提高 <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>32.0%</b> </color> ，持续 <b>1.0</b> 回合。",
-                    "EN": "When the wearer uses their Skill, the next ally taking action (except the wearer) deals <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>32.0%</b></color>  increased DMG for <b>1.0</b> turn(s)."
+                    "CH": "当装备者施放战技后，使下一个行动的我方其他目标造成的伤害提高 <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> ，持续 <b>1.0</b> 回合。",
+                    "EN": "When the wearer uses their Skill, the next ally taking action (except the wearer) deals <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color>  increased DMG for <b>1.0</b> turn(s)."
                 }
             ]
         }
     },
     "23017": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "深度深呼吸",
                 "EN": "Deep, Deep Breaths"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的能量恢复效率提高 <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>14.0%</b> </color> / <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> 。我方目标施放终结技时，装备者为当前生命值百分比最低的我方目标回复等同于其 <color style='color:#f29e38;'> <b>10.0%</b> </color> / <color style='color:#f29e38;'> <b>11.0%</b> </color> / <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>13.0%</b> </color> / <color style='color:#f29e38;'> <b>14.0%</b> </color> 生命上限的生命值。当装备者为我方目标提供治疗时，使该目标的攻击力提高 <color style='color:#f29e38;'> <b>2.4%</b> </color> / <color style='color:#f29e38;'> <b>2.8%</b> </color> / <color style='color:#f29e38;'> <b>3.2%</b> </color> / <color style='color:#f29e38;'> <b>3.6%</b> </color> / <color style='color:#f29e38;'> <b>4.0%</b> </color> ，该效果最多叠加 <b>5.0</b> 层，持续 <b>2.0</b> 回合。",
-                    "EN": "Increases the wearer's Energy Regeneration Rate by <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>14.0%</b></color> / <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color> . When any ally uses their Ultimate, the wearer restores HP for the ally currently with the lowest HP percentage by an amount equal to <color style='color:#f29e38;'><b>10.0%</b></color> / <color style='color:#f29e38;'><b>11.0%</b></color> / <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>13.0%</b></color> / <color style='color:#f29e38;'><b>14.0%</b></color>  of the healed ally's Max HP. When the wearer provides healing for an ally, increases the healed ally's ATK by <color style='color:#f29e38;'><b>2.4%</b></color> / <color style='color:#f29e38;'><b>2.8%</b></color> / <color style='color:#f29e38;'><b>3.2%</b></color> / <color style='color:#f29e38;'><b>3.6%</b></color> / <color style='color:#f29e38;'><b>4.0%</b></color> . This effect can stack up to <b>5.0</b> times and lasts for <b>2.0</b> turn(s)."
+                    "CH": "使装备者的能量恢复效率提高 <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> 。我方目标施放终结技时，装备者为当前生命值百分比最低的我方目标回复等同于其 <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>11.0%</color> / <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>13.0%</color> / <color style='color:#f29e38;'>14.0%</color> 生命上限的生命值。当装备者为我方目标提供治疗时，使该目标的攻击力提高 <color style='color:#f29e38;'>2.4%</color> / <color style='color:#f29e38;'>2.8%</color> / <color style='color:#f29e38;'>3.2%</color> / <color style='color:#f29e38;'>3.6%</color> / <color style='color:#f29e38;'>4.0%</color> ，该效果最多叠加 <b>5.0</b> 层，持续 <b>2.0</b> 回合。",
+                    "EN": "Increases the wearer's Energy Regeneration Rate by <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> . When any ally uses their Ultimate, the wearer restores HP for the ally currently with the lowest HP percentage by an amount equal to <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>11.0%</color> / <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>13.0%</color> / <color style='color:#f29e38;'>14.0%</color>  of the healed ally's Max HP. When the wearer provides healing for an ally, increases the healed ally's ATK by <color style='color:#f29e38;'>2.4%</color> / <color style='color:#f29e38;'>2.8%</color> / <color style='color:#f29e38;'>3.2%</color> / <color style='color:#f29e38;'>3.6%</color> / <color style='color:#f29e38;'>4.0%</color> . This effect can stack up to <b>5.0</b> times and lasts for <b>2.0</b> turn(s)."
                 }
             ]
         }
     },
     "23018": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "骑士巡礼",
                 "EN": "A Knight's Pilgrimage"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的暴击伤害提高 <color style='color:#f29e38;'> <b>36.0%</b> </color> / <color style='color:#f29e38;'> <b>42.0%</b> </color> / <color style='color:#f29e38;'> <b>48.0%</b> </color> / <color style='color:#f29e38;'> <b>54.0%</b> </color> / <color style='color:#f29e38;'> <b>60.0%</b> </color> 。当装备者施放终结技时，根据装备者的能量上限，提高装备者终结技造成的伤害：每点能量提高 <color style='color:#f29e38;'> <b>0.36%</b> </color> / <color style='color:#f29e38;'> <b>0.42%</b> </color> / <color style='color:#f29e38;'> <b>0.48%</b> </color> / <color style='color:#f29e38;'> <b>0.54%</b> </color> / <color style='color:#f29e38;'> <b>0.6%</b> </color> ，最多计入 <b>180.0</b> 点。",
-                    "EN": "Increases the wearer's CRIT DMG by <color style='color:#f29e38;'><b>36.0%</b></color> / <color style='color:#f29e38;'><b>42.0%</b></color> / <color style='color:#f29e38;'><b>48.0%</b></color> / <color style='color:#f29e38;'><b>54.0%</b></color> / <color style='color:#f29e38;'><b>60.0%</b></color> . When the wearer uses Ultimate, increases the wearer's Ultimate DMG based on their Max Energy. Each point of Energy increases the Ultimate DMG by <color style='color:#f29e38;'><b>0.36%</b></color> / <color style='color:#f29e38;'><b>0.42%</b></color> / <color style='color:#f29e38;'><b>0.48%</b></color> / <color style='color:#f29e38;'><b>0.54%</b></color> / <color style='color:#f29e38;'><b>0.6%</b></color> , up to <b>180.0</b> points of Energy."
+                    "CH": "使装备者的暴击伤害提高 <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>54.0%</color> / <color style='color:#f29e38;'>60.0%</color> 。当装备者施放终结技时，根据装备者的能量上限，提高装备者终结技造成的伤害：每点能量提高 <color style='color:#f29e38;'>0.36%</color> / <color style='color:#f29e38;'>0.42%</color> / <color style='color:#f29e38;'>0.48%</color> / <color style='color:#f29e38;'>0.54%</color> / <color style='color:#f29e38;'>0.6%</color> ，最多计入 <b>180.0</b> 点。",
+                    "EN": "Increases the wearer's CRIT DMG by <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>54.0%</color> / <color style='color:#f29e38;'>60.0%</color> . When the wearer uses Ultimate, increases the wearer's Ultimate DMG based on their Max Energy. Each point of Energy increases the Ultimate DMG by <color style='color:#f29e38;'>0.36%</color> / <color style='color:#f29e38;'>0.42%</color> / <color style='color:#f29e38;'>0.48%</color> / <color style='color:#f29e38;'>0.54%</color> / <color style='color:#f29e38;'>0.6%</color> , up to <b>180.0</b> points of Energy."
                 }
             ]
         }
     },
     "23019": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "彻骨梅香",
                 "EN": "The Plum Fragrance In My Bones"
             },
             "Desc": [
                 {
-                    "CH": "使装备者击破特攻提高 <color style='color:#f29e38;'> <b>60.0%</b> </color> / <color style='color:#f29e38;'> <b>70.0%</b> </color> / <color style='color:#f29e38;'> <b>80.0%</b> </color> / <color style='color:#f29e38;'> <b>90.0%</b> </color> / <color style='color:#f29e38;'> <b>100.0%</b> </color> 。装备者施放终结技后，使我方全体造成的伤害提高 <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>32.0%</b> </color> / <color style='color:#f29e38;'> <b>36.0%</b> </color> / <color style='color:#f29e38;'> <b>40.0%</b> </color> ，持续 <b>3.0</b> 回合，并且若装备者击破特攻大于等于 <b>150.0%</b> ，则恢复1个战技点。\n每个波次开始时，我方全体立即恢复 <color style='color:#f29e38;'> <b>10.0</b> </color> / <color style='color:#f29e38;'> <b>12.5</b> </color> / <color style='color:#f29e38;'> <b>15.0</b> </color> / <color style='color:#f29e38;'> <b>17.5</b> </color> / <color style='color:#f29e38;'> <b>20.0</b> </color> 点能量，同类技能无法重复生效。",
-                    "EN": "Increases the wearer's Break Effect by <color style='color:#f29e38;'><b>60.0%</b></color> / <color style='color:#f29e38;'><b>70.0%</b></color> / <color style='color:#f29e38;'><b>80.0%</b></color> / <color style='color:#f29e38;'><b>90.0%</b></color> / <color style='color:#f29e38;'><b>100.0%</b></color> . When the wearer uses their Ultimate, increases all allies' DMG by <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>32.0%</b></color> / <color style='color:#f29e38;'><b>36.0%</b></color> / <color style='color:#f29e38;'><b>40.0%</b></color> , lasting for <b>3.0</b> turn(s). Should the wearer's Break Effect exceed or equal <b>150.0%</b>, 1 Skill Point will be recovered.\nAt the start of each wave, all allies regenerate <color style='color:#f29e38;'><b>10.0</b></color> / <color style='color:#f29e38;'><b>12.5</b></color> / <color style='color:#f29e38;'><b>15.0</b></color> / <color style='color:#f29e38;'><b>17.5</b></color> / <color style='color:#f29e38;'><b>20.0</b></color>  Energy immediately. Effects of the same type cannot stack."
+                    "CH": "使装备者击破特攻提高 <color style='color:#f29e38;'>60.0%</color> / <color style='color:#f29e38;'>70.0%</color> / <color style='color:#f29e38;'>80.0%</color> / <color style='color:#f29e38;'>90.0%</color> / <color style='color:#f29e38;'>100.0%</color> 。装备者施放终结技后，使我方全体造成的伤害提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> ，持续 <b>3.0</b> 回合，并且若装备者击破特攻大于等于 <b>150.0%</b> ，则恢复1个战技点。\n每个波次开始时，我方全体立即恢复 <color style='color:#f29e38;'>10.0</color> / <color style='color:#f29e38;'>12.5</color> / <color style='color:#f29e38;'>15.0</color> / <color style='color:#f29e38;'>17.5</color> / <color style='color:#f29e38;'>20.0</color> 点能量，同类技能无法重复生效。",
+                    "EN": "Increases the wearer's Break Effect by <color style='color:#f29e38;'>60.0%</color> / <color style='color:#f29e38;'>70.0%</color> / <color style='color:#f29e38;'>80.0%</color> / <color style='color:#f29e38;'>90.0%</color> / <color style='color:#f29e38;'>100.0%</color> . When the wearer uses their Ultimate, increases all allies' DMG by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> , lasting for <b>3.0</b> turn(s). Should the wearer's Break Effect exceed or equal <b>150.0%</b>, 1 Skill Point will be recovered.\nAt the start of each wave, all allies regenerate <color style='color:#f29e38;'>10.0</color> / <color style='color:#f29e38;'>12.5</color> / <color style='color:#f29e38;'>15.0</color> / <color style='color:#f29e38;'>17.5</color> / <color style='color:#f29e38;'>20.0</color>  Energy immediately. Effects of the same type cannot stack."
                 }
             ]
         }
     },
     "23021": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "善变",
                 "EN": "Capriciousness"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的暴击伤害提高 <color style='color:#f29e38;'> <b>32.0%</b> </color> / <color style='color:#f29e38;'> <b>39.0%</b> </color> / <color style='color:#f29e38;'> <b>46.0%</b> </color> / <color style='color:#f29e38;'> <b>53.0%</b> </color> / <color style='color:#f29e38;'> <b>60.0%</b> </color> 。战斗开始时，使装备者获得【假面】，持续 <b>3.0</b> 回合。当装备者持有【假面】时，装备者的队友暴击率提高 <color style='color:#f29e38;'> <b>10.0%</b> </color> / <color style='color:#f29e38;'> <b>11.0%</b> </color> / <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>13.0%</b> </color> / <color style='color:#f29e38;'> <b>14.0%</b> </color> ，暴击伤害提高 <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>35.0%</b> </color> / <color style='color:#f29e38;'> <b>42.0%</b> </color> / <color style='color:#f29e38;'> <b>49.0%</b> </color> / <color style='color:#f29e38;'> <b>56.0%</b> </color> 。装备者每恢复1个战技点，获得1层【彩焰】，恢复时溢出的战技点也会被计算在内。当【彩焰】达到 <b>4.0</b> 层后，移除所有【彩焰】并获得【假面】，持续 <b>4.0</b> 回合。",
-                    "EN": "Increases the wearer's CRIT DMG by <color style='color:#f29e38;'><b>32.0%</b></color> / <color style='color:#f29e38;'><b>39.0%</b></color> / <color style='color:#f29e38;'><b>46.0%</b></color> / <color style='color:#f29e38;'><b>53.0%</b></color> / <color style='color:#f29e38;'><b>60.0%</b></color> . The wearer gains Mask at the beginning of the battle for <b>3.0</b> turn(s). While the wearer has Mask, the wearer's allies have their CRIT Rate increased by <color style='color:#f29e38;'><b>10.0%</b></color> / <color style='color:#f29e38;'><b>11.0%</b></color> / <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>13.0%</b></color> / <color style='color:#f29e38;'><b>14.0%</b></color>  and CRIT DMG increased by <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>35.0%</b></color> / <color style='color:#f29e38;'><b>42.0%</b></color> / <color style='color:#f29e38;'><b>49.0%</b></color> / <color style='color:#f29e38;'><b>56.0%</b></color> . Every time the wearer recovers a Skill Point (including Skill Points exceeding the limit), they gain a stack of Radiant Flame, and when the wearer has <b>4.0</b> Radiant Flame stacks, removes all the stacks and gains Mask for <b>4.0</b> turn(s)."
+                    "CH": "使装备者的暴击伤害提高 <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>39.0%</color> / <color style='color:#f29e38;'>46.0%</color> / <color style='color:#f29e38;'>53.0%</color> / <color style='color:#f29e38;'>60.0%</color> 。战斗开始时，使装备者获得【假面】，持续 <b>3.0</b> 回合。当装备者持有【假面】时，装备者的队友暴击率提高 <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>11.0%</color> / <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>13.0%</color> / <color style='color:#f29e38;'>14.0%</color> ，暴击伤害提高 <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>49.0%</color> / <color style='color:#f29e38;'>56.0%</color> 。装备者每恢复1个战技点，获得1层【彩焰】，恢复时溢出的战技点也会被计算在内。当【彩焰】达到 <b>4.0</b> 层后，移除所有【彩焰】并获得【假面】，持续 <b>4.0</b> 回合。",
+                    "EN": "Increases the wearer's CRIT DMG by <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>39.0%</color> / <color style='color:#f29e38;'>46.0%</color> / <color style='color:#f29e38;'>53.0%</color> / <color style='color:#f29e38;'>60.0%</color> . At the start of the battle, the wearer gains Mask, lasting for <b>3.0</b> turn(s). While the wearer has Mask, the wearer's allies have their CRIT Rate increased by <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>11.0%</color> / <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>13.0%</color> / <color style='color:#f29e38;'>14.0%</color>  and their CRIT DMG increased by <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>49.0%</color> / <color style='color:#f29e38;'>56.0%</color> . For every 1 Skill Point the wearer recovers (including Skill Points that exceed the limit), they gain 1 stack of Radiant Flame. And when the wearer has <b>4.0</b> stacks of Radiant Flame, all the stacks are removed, and they gain Mask, lasting for <b>4.0</b> turn(s)."
                 }
             ]
         }
     },
     "23020": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "思想训练",
                 "EN": "Mental Training"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的暴击伤害提高 <color style='color:#f29e38;'> <b>20.0%</b> </color> / <color style='color:#f29e38;'> <b>23.0%</b> </color> / <color style='color:#f29e38;'> <b>26.0%</b> </color> / <color style='color:#f29e38;'> <b>29.0%</b> </color> / <color style='color:#f29e38;'> <b>32.0%</b> </color> 。敌方目标每承受1个负面效果，装备者对其造成的暴击伤害额外提高 <color style='color:#f29e38;'> <b>8.0%</b> </color> / <color style='color:#f29e38;'> <b>9.0%</b> </color> / <color style='color:#f29e38;'> <b>10.0%</b> </color> / <color style='color:#f29e38;'> <b>11.0%</b> </color> / <color style='color:#f29e38;'> <b>12.0%</b> </color> ，最多叠加 <b>3.0</b> 层。施放终结技攻击敌方目标时，使装备者获得【论辩】效果，造成的伤害提高 <color style='color:#f29e38;'> <b>36.0%</b> </color> / <color style='color:#f29e38;'> <b>42.0%</b> </color> / <color style='color:#f29e38;'> <b>48.0%</b> </color> / <color style='color:#f29e38;'> <b>54.0%</b> </color> / <color style='color:#f29e38;'> <b>60.0%</b> </color> ，追加攻击无视目标 <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>32.0%</b> </color> / <color style='color:#f29e38;'> <b>36.0%</b> </color> / <color style='color:#f29e38;'> <b>40.0%</b> </color> 的防御力，该效果持续 <b>2.0</b> 回合。",
-                    "EN": "Increases the wearer's CRIT DMG by <color style='color:#f29e38;'><b>20.0%</b></color> / <color style='color:#f29e38;'><b>23.0%</b></color> / <color style='color:#f29e38;'><b>26.0%</b></color> / <color style='color:#f29e38;'><b>29.0%</b></color> / <color style='color:#f29e38;'><b>32.0%</b></color> . For every debuff on the enemy target, the wearer's CRIT DMG dealt against this target additionally increases by <color style='color:#f29e38;'><b>8.0%</b></color> / <color style='color:#f29e38;'><b>9.0%</b></color> / <color style='color:#f29e38;'><b>10.0%</b></color> / <color style='color:#f29e38;'><b>11.0%</b></color> / <color style='color:#f29e38;'><b>12.0%</b></color> , stacking up to <b>3.0</b> times. When using Ultimate to attack the enemy target, the wearer receives the Disputation effect, which increases DMG dealt by <color style='color:#f29e38;'><b>36.0%</b></color> / <color style='color:#f29e38;'><b>42.0%</b></color> / <color style='color:#f29e38;'><b>48.0%</b></color> / <color style='color:#f29e38;'><b>54.0%</b></color> / <color style='color:#f29e38;'><b>60.0%</b></color>  and enables their follow-up attacks to ignore <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>32.0%</b></color> / <color style='color:#f29e38;'><b>36.0%</b></color> / <color style='color:#f29e38;'><b>40.0%</b></color>  of the target's DEF. This effect lasts for <b>2.0</b> turns."
+                    "CH": "使装备者的暴击伤害提高 <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>23.0%</color> / <color style='color:#f29e38;'>26.0%</color> / <color style='color:#f29e38;'>29.0%</color> / <color style='color:#f29e38;'>32.0%</color> 。敌方目标每承受1个负面效果，装备者对其造成的暴击伤害额外提高 <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>11.0%</color> / <color style='color:#f29e38;'>12.0%</color> ，最多叠加 <b>3.0</b> 层。施放终结技攻击敌方目标时，使装备者获得【论辩】效果，造成的伤害提高 <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>54.0%</color> / <color style='color:#f29e38;'>60.0%</color> ，追加攻击无视目标 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> 的防御力，该效果持续 <b>2.0</b> 回合。",
+                    "EN": "Increases the wearer's CRIT DMG by <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>23.0%</color> / <color style='color:#f29e38;'>26.0%</color> / <color style='color:#f29e38;'>29.0%</color> / <color style='color:#f29e38;'>32.0%</color> . For every debuff on the enemy target, the wearer's CRIT DMG dealt against this target additionally increases by <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>11.0%</color> / <color style='color:#f29e38;'>12.0%</color> , stacking up to <b>3.0</b> times. When using Ultimate to attack the enemy target, the wearer receives the Disputation effect, which increases DMG dealt by <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>54.0%</color> / <color style='color:#f29e38;'>60.0%</color>  and enables their follow-up attacks to ignore <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color>  of the target's DEF. This effect lasts for <b>2.0</b> turns."
                 }
             ]
         }
     },
     "24003": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "混沌灵药",
                 "EN": "Chaos Elixir"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的击破特攻提高 <color style='color:#f29e38;'> <b>20.0%</b> </color> / <color style='color:#f29e38;'> <b>25.0%</b> </color> / <color style='color:#f29e38;'> <b>30.0%</b> </color> / <color style='color:#f29e38;'> <b>35.0%</b> </color> / <color style='color:#f29e38;'> <b>40.0%</b> </color> 。当装备者施放终结技时，使装备者造成的持续伤害提高 <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>30.0%</b> </color> / <color style='color:#f29e38;'> <b>36.0%</b> </color> / <color style='color:#f29e38;'> <b>42.0%</b> </color> / <color style='color:#f29e38;'> <b>48.0%</b> </color> ，持续 <b>2.0</b> 回合。陷入装备者施加的持续伤害效果的敌方目标被消灭时，装备者恢复 <color style='color:#f29e38;'> <b>4.0</b> </color> / <color style='color:#f29e38;'> <b>4.5</b> </color> / <color style='color:#f29e38;'> <b>5.0</b> </color> / <color style='color:#f29e38;'> <b>5.5</b> </color> / <color style='color:#f29e38;'> <b>6.0</b> </color> 点能量。",
-                    "EN": "Increases the wearer's Break Effect by <color style='color:#f29e38;'><b>20.0%</b></color> / <color style='color:#f29e38;'><b>25.0%</b></color> / <color style='color:#f29e38;'><b>30.0%</b></color> / <color style='color:#f29e38;'><b>35.0%</b></color> / <color style='color:#f29e38;'><b>40.0%</b></color> . When the wearer uses their Ultimate, increases DoT dealt by the wearer by <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>30.0%</b></color> / <color style='color:#f29e38;'><b>36.0%</b></color> / <color style='color:#f29e38;'><b>42.0%</b></color> / <color style='color:#f29e38;'><b>48.0%</b></color> , lasting for <b>2.0</b> turn(s). When a target enemy suffering from DoT imposed by the wearer is defeated, regenerates <color style='color:#f29e38;'><b>4.0</b></color> / <color style='color:#f29e38;'><b>4.5</b></color> / <color style='color:#f29e38;'><b>5.0</b></color> / <color style='color:#f29e38;'><b>5.5</b></color> / <color style='color:#f29e38;'><b>6.0</b></color>  Energy for the wearer."
+                    "CH": "使装备者的击破特攻提高 <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>25.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>40.0%</color> 。当装备者施放终结技时，使装备者造成的持续伤害提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> ，持续 <b>2.0</b> 回合。陷入装备者施加的持续伤害效果的敌方目标被消灭时，装备者恢复 <color style='color:#f29e38;'>4.0</color> / <color style='color:#f29e38;'>4.5</color> / <color style='color:#f29e38;'>5.0</color> / <color style='color:#f29e38;'>5.5</color> / <color style='color:#f29e38;'>6.0</color> 点能量。",
+                    "EN": "Increases the wearer's Break Effect by <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>25.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>40.0%</color> . When the wearer uses their Ultimate, increases DoT dealt by the wearer by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> , lasting for <b>2.0</b> turn(s). When a target enemy suffering from DoT imposed by the wearer is defeated, regenerates <color style='color:#f29e38;'>4.0</color> / <color style='color:#f29e38;'>4.5</color> / <color style='color:#f29e38;'>5.0</color> / <color style='color:#f29e38;'>5.5</color> / <color style='color:#f29e38;'>6.0</color>  Energy for the wearer."
                 }
             ]
         }
     },
     "21035": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "假设",
                 "EN": "Hypothesis"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的击破特攻提高 <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>30.0%</b> </color> / <color style='color:#f29e38;'> <b>36.0%</b> </color> / <color style='color:#f29e38;'> <b>42.0%</b> </color> / <color style='color:#f29e38;'> <b>48.0%</b> </color> 。施放普攻后，装备者回复等同于 <color style='color:#f29e38;'> <b>2.0%</b> </color> / <color style='color:#f29e38;'> <b>2.5%</b> </color> / <color style='color:#f29e38;'> <b>3.0%</b> </color> / <color style='color:#f29e38;'> <b>3.5%</b> </color> / <color style='color:#f29e38;'> <b>4.0%</b> </color> 生命上限+ <b>800.0</b> 点的生命值。",
-                    "EN": "Increases the wearer's Break Effect by <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>30.0%</b></color> / <color style='color:#f29e38;'><b>36.0%</b></color> / <color style='color:#f29e38;'><b>42.0%</b></color> / <color style='color:#f29e38;'><b>48.0%</b></color> . Wearer's Basic ATKs restore an amount equal to <color style='color:#f29e38;'><b>2.0%</b></color> / <color style='color:#f29e38;'><b>2.5%</b></color> / <color style='color:#f29e38;'><b>3.0%</b></color> / <color style='color:#f29e38;'><b>3.5%</b></color> / <color style='color:#f29e38;'><b>4.0%</b></color>  of Max HP plus <b>800.0</b> for themselves."
+                    "CH": "使装备者的击破特攻提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> 。施放普攻后，装备者回复等同于 <color style='color:#f29e38;'>2.0%</color> / <color style='color:#f29e38;'>2.5%</color> / <color style='color:#f29e38;'>3.0%</color> / <color style='color:#f29e38;'>3.5%</color> / <color style='color:#f29e38;'>4.0%</color> 生命上限+ <b>800.0</b> 点的生命值。",
+                    "EN": "Increases the wearer's Break Effect by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> . After using Basic ATK, restores HP for the wearer by an amount equal to <color style='color:#f29e38;'>2.0%</color> / <color style='color:#f29e38;'>2.5%</color> / <color style='color:#f29e38;'>3.0%</color> / <color style='color:#f29e38;'>3.5%</color> / <color style='color:#f29e38;'>4.0%</color>  of Max HP plus <b>800.0</b>."
                 }
             ]
         }
     },
     "21038": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "爆燃",
                 "EN": "Deflagration"
             },
             "Desc": [
                 {
-                    "CH": "当装备者在单次受到攻击中累计损失的生命值超过最大生命值的 <b>25.0%</b> ，或单次消耗自身生命值超过最大生命值的 <b>25.0%</b> ，则立即回复等同于装备者生命上限 <b>15.0%</b> 的生命值，同时使装备者造成的伤害提高 <color style='color:#f29e38;'> <b>25.0%</b> </color> / <color style='color:#f29e38;'> <b>31.25%</b> </color> / <color style='color:#f29e38;'> <b>37.5%</b> </color> / <color style='color:#f29e38;'> <b>43.75%</b> </color> / <color style='color:#f29e38;'> <b>50.0%</b> </color> ，持续 <b>2.0</b> 回合。该效果每 <b>3.0</b> 回合只能触发1次。",
-                    "EN": "When the HP lost by the wearer during a single attack exceeds <b>25.0%</b> of their Max HP, or if the HP they consume is greater than <b>25.0%</b> of their Max HP, then immediately heals them for <b>15.0%</b> of their Max HP while also increasing the DMG they deal by <color style='color:#f29e38;'><b>25.0%</b></color> / <color style='color:#f29e38;'><b>31.25%</b></color> / <color style='color:#f29e38;'><b>37.5%</b></color> / <color style='color:#f29e38;'><b>43.75%</b></color> / <color style='color:#f29e38;'><b>50.0%</b></color>  for <b>2.0</b> turn(s). This effect can only be triggered once every <b>3.0</b> turn(s)."
+                    "CH": "当装备者在单次受到攻击中累计损失的生命值超过最大生命值的 <b>25.0%</b> ，或单次消耗自身生命值超过最大生命值的 <b>25.0%</b> ，则立即回复等同于装备者生命上限 <b>15.0%</b> 的生命值，同时使装备者造成的伤害提高 <color style='color:#f29e38;'>25.0%</color> / <color style='color:#f29e38;'>31.25%</color> / <color style='color:#f29e38;'>37.5%</color> / <color style='color:#f29e38;'>43.75%</color> / <color style='color:#f29e38;'>50.0%</color> ，持续 <b>2.0</b> 回合。该效果每 <b>3.0</b> 回合只能触发1次。",
+                    "EN": "When the wearer's cumulative HP loss during one attack exceeds <b>25.0%</b> of their Max HP, or if the amount of their own HP consumed at one time is greater than <b>25.0%</b> of their Max HP, immediately heals the wearer for <b>15.0%</b> of their Max HP, and at the same time, increases the DMG they deal by <color style='color:#f29e38;'>25.0%</color> / <color style='color:#f29e38;'>31.25%</color> / <color style='color:#f29e38;'>37.5%</color> / <color style='color:#f29e38;'>43.75%</color> / <color style='color:#f29e38;'>50.0%</color>  for <b>2.0</b> turn(s). This effect can only be triggered once every <b>3.0</b> turn(s)."
                 }
             ]
         }
     },
     "21039": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "洞见",
                 "EN": "Insight"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的效果抵抗提高 <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>14.0%</b> </color> / <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> 。装备者每有 <b>100.0</b> 点防御力，使装备者造成的伤害提高 <color style='color:#f29e38;'> <b>0.8%</b> </color> / <color style='color:#f29e38;'> <b>0.9%</b> </color> / <color style='color:#f29e38;'> <b>1.0%</b> </color> / <color style='color:#f29e38;'> <b>1.1%</b> </color> / <color style='color:#f29e38;'> <b>1.2%</b> </color> ，最多使造成的伤害提高 <color style='color:#f29e38;'> <b>32.0%</b> </color> / <color style='color:#f29e38;'> <b>36.0%</b> </color> / <color style='color:#f29e38;'> <b>40.0%</b> </color> / <color style='color:#f29e38;'> <b>44.0%</b> </color> / <color style='color:#f29e38;'> <b>48.0%</b> </color> 。",
-                    "EN": "Increases the wearer's Effect RES by <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>14.0%</b></color> / <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color> . For every <b>100.0</b> of DEF the wearer has, increases the DMG dealt by <color style='color:#f29e38;'><b>0.8%</b></color> / <color style='color:#f29e38;'><b>0.9%</b></color> / <color style='color:#f29e38;'><b>1.0%</b></color> / <color style='color:#f29e38;'><b>1.1%</b></color> / <color style='color:#f29e38;'><b>1.2%</b></color>  to a max increase of <color style='color:#f29e38;'><b>32.0%</b></color> / <color style='color:#f29e38;'><b>36.0%</b></color> / <color style='color:#f29e38;'><b>40.0%</b></color> / <color style='color:#f29e38;'><b>44.0%</b></color> / <color style='color:#f29e38;'><b>48.0%</b></color> ."
+                    "CH": "使装备者的效果抵抗提高 <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> 。装备者每有 <b>100.0</b> 点防御力，使装备者造成的伤害提高 <color style='color:#f29e38;'>0.8%</color> / <color style='color:#f29e38;'>0.9%</color> / <color style='color:#f29e38;'>1.0%</color> / <color style='color:#f29e38;'>1.1%</color> / <color style='color:#f29e38;'>1.2%</color> ，最多使造成的伤害提高 <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>44.0%</color> / <color style='color:#f29e38;'>48.0%</color> 。",
+                    "EN": "Increases the wearer's Effect RES by <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> . For every <b>100.0</b> of DEF the wearer has, increases the wearer's DMG dealt by <color style='color:#f29e38;'>0.8%</color> / <color style='color:#f29e38;'>0.9%</color> / <color style='color:#f29e38;'>1.0%</color> / <color style='color:#f29e38;'>1.1%</color> / <color style='color:#f29e38;'>1.2%</color> , up to a maximum DMG increase of <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>44.0%</color> / <color style='color:#f29e38;'>48.0%</color> ."
                 }
             ]
         }
     },
     "21040": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "攻略",
                 "EN": "Stratagem"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的攻击力提高 <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> / <color style='color:#f29e38;'> <b>22.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> 。装备者施放攻击后，若有不少于2个被攻击的敌方目标具有对应属性弱点，装备者的暴击伤害提高 <color style='color:#f29e38;'> <b>20.0%</b> </color> / <color style='color:#f29e38;'> <b>25.0%</b> </color> / <color style='color:#f29e38;'> <b>30.0%</b> </color> / <color style='color:#f29e38;'> <b>35.0%</b> </color> / <color style='color:#f29e38;'> <b>40.0%</b> </color> ，持续 <b>2.0</b> 回合。",
-                    "EN": "Increases the wearer's ATK by <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color> / <color style='color:#f29e38;'><b>22.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> . When the wearer uses an attack and affects no fewer than 2 attacked enemies with a corresponding Weakness, the wearer's CRIT DMG increases by <color style='color:#f29e38;'><b>20.0%</b></color> / <color style='color:#f29e38;'><b>25.0%</b></color> / <color style='color:#f29e38;'><b>30.0%</b></color> / <color style='color:#f29e38;'><b>35.0%</b></color> / <color style='color:#f29e38;'><b>40.0%</b></color>  for <b>2.0</b> turn(s)."
+                    "CH": "使装备者的攻击力提高 <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>22.0%</color> / <color style='color:#f29e38;'>24.0%</color> 。装备者施放攻击后，若有不少于2个被攻击的敌方目标具有对应属性弱点，装备者的暴击伤害提高 <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>25.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>40.0%</color> ，持续 <b>2.0</b> 回合。",
+                    "EN": "Increases the wearer's ATK by <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>22.0%</color> / <color style='color:#f29e38;'>24.0%</color> . When the wearer uses an attack and at least 2 attacked enemies have the corresponding Weakness, the wearer's CRIT DMG increases by <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>25.0%</color> / <color style='color:#f29e38;'>30.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>40.0%</color> , lasting for <b>2.0</b> turn(s)."
                 }
             ]
         }
     },
     "21041": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "自娱自乐",
                 "EN": "Self-Amusement"
             },
             "Desc": [
                 {
-                    "CH": "装备者对敌方目标施加负面状态后，获得一层【戏法】，每层【戏法】使装备者造成的伤害提高 <color style='color:#f29e38;'> <b>6.0%</b> </color> / <color style='color:#f29e38;'> <b>7.0%</b> </color> / <color style='color:#f29e38;'> <b>8.0%</b> </color> / <color style='color:#f29e38;'> <b>9.0%</b> </color> / <color style='color:#f29e38;'> <b>10.0%</b> </color> ，最多叠加 <b>3.0</b> 层，持续 <b>1.0</b> 回合。当装备者的效果命中大于等于 <b>80.0%</b> 时，攻击力提高 <color style='color:#f29e38;'> <b>20.0%</b> </color> / <color style='color:#f29e38;'> <b>24.0%</b> </color> / <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>32.0%</b> </color> / <color style='color:#f29e38;'> <b>36.0%</b> </color> 。",
-                    "EN": "When the wearer inflicts a debuff on an enemy, they gain a stack of Trick. Every stack of Trick increases the wearer's DMG dealt by <color style='color:#f29e38;'><b>6.0%</b></color> / <color style='color:#f29e38;'><b>7.0%</b></color> / <color style='color:#f29e38;'><b>8.0%</b></color> / <color style='color:#f29e38;'><b>9.0%</b></color> / <color style='color:#f29e38;'><b>10.0%</b></color>  for a max of <b>3.0</b> stack(s). This effect lasts for <b>1.0</b> turn(s). When the wearer's Effect Hit Rate is greater than or equal to <b>80.0%</b>, increases ATK by <color style='color:#f29e38;'><b>20.0%</b></color> / <color style='color:#f29e38;'><b>24.0%</b></color> / <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>32.0%</b></color> / <color style='color:#f29e38;'><b>36.0%</b></color> ."
+                    "CH": "装备者对敌方目标施加负面状态后，获得一层【戏法】，每层【戏法】使装备者造成的伤害提高 <color style='color:#f29e38;'>6.0%</color> / <color style='color:#f29e38;'>7.0%</color> / <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.0%</color> ，最多叠加 <b>3.0</b> 层，持续 <b>1.0</b> 回合。当装备者的效果命中大于等于 <b>80.0%</b> 时，攻击力提高 <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> 。",
+                    "EN": "When the wearer inflicts a debuff on an enemy, gains a stack of Trick. Every stack of Trick increases the wearer's DMG dealt by <color style='color:#f29e38;'>6.0%</color> / <color style='color:#f29e38;'>7.0%</color> / <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.0%</color> , stacking up to <b>3.0</b> time(s). This effect lasts for <b>1.0</b> turn(s). When the wearer's Effect Hit Rate is <b>80.0%</b> or higher, increases ATK by <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> ."
                 }
             ]
         }
     },
     "23022": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "结晶",
                 "EN": "Crystallize"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的效果命中提高 <color style='color:#f29e38;'> <b>40.0%</b> </color> / <color style='color:#f29e38;'> <b>45.0%</b> </color> / <color style='color:#f29e38;'> <b>50.0%</b> </color> / <color style='color:#f29e38;'> <b>55.0%</b> </color> / <color style='color:#f29e38;'> <b>60.0%</b> </color> 。装备者对陷入风化、灼烧、触电、裂伤状态的敌方目标造成伤害时，分别获得1层【先知】，最多叠加 <b>4.0</b> 层。单场战斗中，每种持续伤害状态类型仅可叠加1次【先知】效果。每层【先知】使装备者的攻击力提高 <color style='color:#f29e38;'> <b>5.0%</b> </color> / <color style='color:#f29e38;'> <b>6.0%</b> </color> / <color style='color:#f29e38;'> <b>7.0%</b> </color> / <color style='color:#f29e38;'> <b>8.0%</b> </color> / <color style='color:#f29e38;'> <b>9.0%</b> </color> ，造成的持续伤害无视目标 <color style='color:#f29e38;'> <b>7.2%</b> </color> / <color style='color:#f29e38;'> <b>7.9%</b> </color> / <color style='color:#f29e38;'> <b>8.6%</b> </color> / <color style='color:#f29e38;'> <b>9.3%</b> </color> / <color style='color:#f29e38;'> <b>10.0%</b> </color> 的防御力。",
-                    "EN": "Increases wearer's Effect Hit Rate by <color style='color:#f29e38;'><b>40.0%</b></color> / <color style='color:#f29e38;'><b>45.0%</b></color> / <color style='color:#f29e38;'><b>50.0%</b></color> / <color style='color:#f29e38;'><b>55.0%</b></color> / <color style='color:#f29e38;'><b>60.0%</b></color> . When the wearer deals DMG to an enemy inflicted with Wind Shear, Burn, Shock, or Bleed, they will individually gain 1 stack of Prophet. This effect can stack up to <b>4.0</b> times. In a single battle, each type of DoT can only generate 1 stack of Prophet. Every stack of Prophet increases wearer's ATK by <color style='color:#f29e38;'><b>5.0%</b></color> / <color style='color:#f29e38;'><b>6.0%</b></color> / <color style='color:#f29e38;'><b>7.0%</b></color> / <color style='color:#f29e38;'><b>8.0%</b></color> / <color style='color:#f29e38;'><b>9.0%</b></color>  and the DoT dealt will ignore <color style='color:#f29e38;'><b>7.2%</b></color> / <color style='color:#f29e38;'><b>7.9%</b></color> / <color style='color:#f29e38;'><b>8.6%</b></color> / <color style='color:#f29e38;'><b>9.3%</b></color> / <color style='color:#f29e38;'><b>10.0%</b></color>  of the target's DEF."
+                    "CH": "使装备者的效果命中提高 <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>45.0%</color> / <color style='color:#f29e38;'>50.0%</color> / <color style='color:#f29e38;'>55.0%</color> / <color style='color:#f29e38;'>60.0%</color> 。装备者对陷入风化、灼烧、触电、裂伤状态的敌方目标造成伤害时，分别获得1层【先知】，最多叠加 <b>4.0</b> 层。单场战斗中，每种持续伤害状态类型仅可叠加1次【先知】效果。每层【先知】使装备者的攻击力提高 <color style='color:#f29e38;'>5.0%</color> / <color style='color:#f29e38;'>6.0%</color> / <color style='color:#f29e38;'>7.0%</color> / <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>9.0%</color> ，造成的持续伤害无视目标 <color style='color:#f29e38;'>7.2%</color> / <color style='color:#f29e38;'>7.9%</color> / <color style='color:#f29e38;'>8.6%</color> / <color style='color:#f29e38;'>9.3%</color> / <color style='color:#f29e38;'>10.0%</color> 的防御力。",
+                    "EN": "Increases the wearer's Effect Hit Rate by <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>45.0%</color> / <color style='color:#f29e38;'>50.0%</color> / <color style='color:#f29e38;'>55.0%</color> / <color style='color:#f29e38;'>60.0%</color> . When the wearer deals DMG to an enemy inflicted with Wind Shear, Burn, Shock, or Bleed, each respectively grants 1 stack of Prophet, stacking up to <b>4.0</b> time(s). In a single battle, only 1 stack of Prophet can be granted for each type of DoT. Every stack of Prophet increases wearer's ATK by <color style='color:#f29e38;'>5.0%</color> / <color style='color:#f29e38;'>6.0%</color> / <color style='color:#f29e38;'>7.0%</color> / <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>9.0%</color>  and enables the DoT dealt to ignore <color style='color:#f29e38;'>7.2%</color> / <color style='color:#f29e38;'>7.9%</color> / <color style='color:#f29e38;'>8.6%</color> / <color style='color:#f29e38;'>9.3%</color> / <color style='color:#f29e38;'>10.0%</color>  of the target's DEF."
                 }
             ]
         }
     },
     "21007": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "救治与维修",
                 "EN": "Cure and Repair"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的治疗量提高 <color style='color:#f29e38;'> <b>10.0%</b> </color> / <color style='color:#f29e38;'> <b>12.5%</b> </color> / <color style='color:#f29e38;'> <b>15.0%</b> </color> / <color style='color:#f29e38;'> <b>17.5%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> ，并在施放战技时为我方全体恢复 <color style='color:#f29e38;'> <b>2.0</b> </color> / <color style='color:#f29e38;'> <b>2.5</b> </color> / <color style='color:#f29e38;'> <b>3.0</b> </color> / <color style='color:#f29e38;'> <b>3.5</b> </color> / <color style='color:#f29e38;'> <b>4.0</b> </color> 点能量。",
-                    "EN": "Increases the wearer's Outgoing Healing by <color style='color:#f29e38;'><b>10.0%</b></color> / <color style='color:#f29e38;'><b>12.5%</b></color> / <color style='color:#f29e38;'><b>15.0%</b></color> / <color style='color:#f29e38;'><b>17.5%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color> . When using Skill, regenerates <color style='color:#f29e38;'><b>2.0</b></color> / <color style='color:#f29e38;'><b>2.5</b></color> / <color style='color:#f29e38;'><b>3.0</b></color> / <color style='color:#f29e38;'><b>3.5</b></color> / <color style='color:#f29e38;'><b>4.0</b></color>  Energy for all allies."
+                    "CH": "使装备者的治疗量提高 <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>12.5%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>17.5%</color> / <color style='color:#f29e38;'>20.0%</color> ，并在施放战技时为我方全体恢复 <color style='color:#f29e38;'>2.0</color> / <color style='color:#f29e38;'>2.5</color> / <color style='color:#f29e38;'>3.0</color> / <color style='color:#f29e38;'>3.5</color> / <color style='color:#f29e38;'>4.0</color> 点能量。",
+                    "EN": "Increases the wearer's Outgoing Healing by <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>12.5%</color> / <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>17.5%</color> / <color style='color:#f29e38;'>20.0%</color> . When using Skill, regenerates <color style='color:#f29e38;'>2.0</color> / <color style='color:#f29e38;'>2.5</color> / <color style='color:#f29e38;'>3.0</color> / <color style='color:#f29e38;'>3.5</color> / <color style='color:#f29e38;'>4.0</color>  Energy for all allies."
                 }
             ]
         }
     },
     "22001": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "不怕不怕啦",
                 "EN": "I'm Not Afraid!"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的生命上限提高 <color style='color:#f29e38;'> <b>8.0%</b> </color> / <color style='color:#f29e38;'> <b>9.0%</b> </color> / <color style='color:#f29e38;'> <b>10.0%</b> </color> / <color style='color:#f29e38;'> <b>11.0%</b> </color> / <color style='color:#f29e38;'> <b>12.0%</b> </color> 。当装备者施放战技时，治疗量提高 <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>19.0%</b> </color> / <color style='color:#f29e38;'> <b>22.0%</b> </color> / <color style='color:#f29e38;'> <b>25.0%</b> </color> / <color style='color:#f29e38;'> <b>28.0%</b> </color> ，持续 <b>2.0</b> 回合。",
-                    "EN": "Increases the wearer's Max HP by <color style='color:#f29e38;'><b>8.0%</b></color> / <color style='color:#f29e38;'><b>9.0%</b></color> / <color style='color:#f29e38;'><b>10.0%</b></color> / <color style='color:#f29e38;'><b>11.0%</b></color> / <color style='color:#f29e38;'><b>12.0%</b></color> . When the wearer uses their Skill, increases Outgoing Healing by <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>19.0%</b></color> / <color style='color:#f29e38;'><b>22.0%</b></color> / <color style='color:#f29e38;'><b>25.0%</b></color> / <color style='color:#f29e38;'><b>28.0%</b></color> , lasting for <b>2.0</b> turn(s)."
+                    "CH": "使装备者的生命上限提高 <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>11.0%</color> / <color style='color:#f29e38;'>12.0%</color> 。当装备者施放战技时，治疗量提高 <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>19.0%</color> / <color style='color:#f29e38;'>22.0%</color> / <color style='color:#f29e38;'>25.0%</color> / <color style='color:#f29e38;'>28.0%</color> ，持续 <b>2.0</b> 回合。",
+                    "EN": "Increases the wearer's Max HP by <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>11.0%</color> / <color style='color:#f29e38;'>12.0%</color> . When the wearer uses their Skill, increases Outgoing Healing by <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>19.0%</color> / <color style='color:#f29e38;'>22.0%</color> / <color style='color:#f29e38;'>25.0%</color> / <color style='color:#f29e38;'>28.0%</color> , lasting for <b>2.0</b> turn(s)."
                 }
             ]
         }
     },
     "21042": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "传承",
                 "EN": "Inheritance"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的击破特攻提高 <color style='color:#f29e38;'> <b>28.0%</b> </color> / <color style='color:#f29e38;'> <b>35.0%</b> </color> / <color style='color:#f29e38;'> <b>42.0%</b> </color> / <color style='color:#f29e38;'> <b>49.0%</b> </color> / <color style='color:#f29e38;'> <b>56.0%</b> </color> 。当装备者释放终结技时，暴击率提高 <color style='color:#f29e38;'> <b>15.0%</b> </color> / <color style='color:#f29e38;'> <b>18.75%</b> </color> / <color style='color:#f29e38;'> <b>22.5%</b> </color> / <color style='color:#f29e38;'> <b>26.25%</b> </color> / <color style='color:#f29e38;'> <b>30.0%</b> </color> ，持续 <b>2.0</b> 回合。",
-                    "EN": "Increases the wearer's Break Effect by <color style='color:#f29e38;'><b>28.0%</b></color> / <color style='color:#f29e38;'><b>35.0%</b></color> / <color style='color:#f29e38;'><b>42.0%</b></color> / <color style='color:#f29e38;'><b>49.0%</b></color> / <color style='color:#f29e38;'><b>56.0%</b></color> . When the wearer uses their Ultimate, increases CRIT Rate by <color style='color:#f29e38;'><b>15.0%</b></color> / <color style='color:#f29e38;'><b>18.75%</b></color> / <color style='color:#f29e38;'><b>22.5%</b></color> / <color style='color:#f29e38;'><b>26.25%</b></color> / <color style='color:#f29e38;'><b>30.0%</b></color> , lasting for <b>2.0</b> turn(s)."
+                    "CH": "使装备者的击破特攻提高 <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>49.0%</color> / <color style='color:#f29e38;'>56.0%</color> 。当装备者释放终结技时，暴击率提高 <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.75%</color> / <color style='color:#f29e38;'>22.5%</color> / <color style='color:#f29e38;'>26.25%</color> / <color style='color:#f29e38;'>30.0%</color> ，持续 <b>2.0</b> 回合。",
+                    "EN": "Increases the wearer's Break Effect by <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>35.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>49.0%</color> / <color style='color:#f29e38;'>56.0%</color> . When the wearer uses their Ultimate, increases CRIT Rate by <color style='color:#f29e38;'>15.0%</color> / <color style='color:#f29e38;'>18.75%</color> / <color style='color:#f29e38;'>22.5%</color> / <color style='color:#f29e38;'>26.25%</color> / <color style='color:#f29e38;'>30.0%</color> , lasting for <b>2.0</b> turn(s)."
                 }
             ]
         }
     },
     "21037": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "下注",
-                "EN": "All In"
+                "EN": "Wager"
             },
             "Desc": [
                 {
-                    "CH": "使装备者的攻击力提高 <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>14.0%</b> </color> / <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> 。当装备者对敌方目标造成暴击后获得一层【好运】，最多叠加 <b>4.0</b> 层。每层【好运】使装备者的暴击伤害提高 <color style='color:#f29e38;'> <b>8.0%</b> </color> / <color style='color:#f29e38;'> <b>9.0%</b> </color> / <color style='color:#f29e38;'> <b>10.0%</b> </color> / <color style='color:#f29e38;'> <b>11.0%</b> </color> / <color style='color:#f29e38;'> <b>12.0%</b> </color> ，【好运】在装备者的回合结束时移除。",
-                    "EN": "Increases the wearer's ATK by <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>14.0%</b></color> / <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color> . When the wearer lands a CRIT hit on enemies, they will gain a stack of Good Fortune. This effect can be stacked <b>4.0</b> time(s). Every stack of Good Fortune the wearer has will increase their CRIT DMG by <color style='color:#f29e38;'><b>8.0%</b></color> / <color style='color:#f29e38;'><b>9.0%</b></color> / <color style='color:#f29e38;'><b>10.0%</b></color> / <color style='color:#f29e38;'><b>11.0%</b></color> / <color style='color:#f29e38;'><b>12.0%</b></color> . Good Fortune will be removed at the end of the wearer's turn."
+                    "CH": "使装备者的攻击力提高 <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> 。当装备者对敌方目标造成暴击后获得一层【好运】，最多叠加 <b>4.0</b> 层。每层【好运】使装备者的暴击伤害提高 <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>11.0%</color> / <color style='color:#f29e38;'>12.0%</color> ，【好运】在装备者的回合结束时移除。",
+                    "EN": "Increases the wearer's ATK by <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> . When the wearer lands a CRIT hit on enemies, gains 1 stack of Good Fortune. This can stack up to <b>4.0</b> time(s). Every stack of Good Fortune increases the wearer's CRIT DMG by <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>11.0%</color> / <color style='color:#f29e38;'>12.0%</color> . Good Fortune will be removed at the end of the wearer's turn."
                 }
             ]
         }
     },
     "21036": {
-        "Pre": {
+        "Live": {
             "Name": {
                 "CH": "团结",
                 "EN": "Solidarity"
             },
             "Desc": [
                 {
-                    "CH": "装备者施放普攻、战技、终结技中某一类型的技能后，为我方全体附加【童心】，【童心】可以使我方目标对应类型的技能所造成的伤害提高 <color style='color:#f29e38;'> <b>12.0%</b> </color> / <color style='color:#f29e38;'> <b>14.0%</b> </color> / <color style='color:#f29e38;'> <b>16.0%</b> </color> / <color style='color:#f29e38;'> <b>18.0%</b> </color> / <color style='color:#f29e38;'> <b>20.0%</b> </color> 。【童心】仅对装备者最新使用的技能类型生效，且不可叠加。",
-                    "EN": "After the wearer uses a Basic ATK, Skill, or Ultimate, all allies gain Childishness, which increases the DMG dealt by the corresponding ability they used by <color style='color:#f29e38;'><b>12.0%</b></color> / <color style='color:#f29e38;'><b>14.0%</b></color> / <color style='color:#f29e38;'><b>16.0%</b></color> / <color style='color:#f29e38;'><b>18.0%</b></color> / <color style='color:#f29e38;'><b>20.0%</b></color> . Childishness only takes effect with the most recent ability used by the wearer and cannot be stacked."
+                    "CH": "装备者施放普攻、战技、终结技中某一类型的技能后，为我方全体附加【童心】，【童心】可以使我方目标对应类型的技能所造成的伤害提高 <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> 。【童心】仅对装备者最新使用的技能类型生效，且不可叠加。",
+                    "EN": "After the wearer uses a certain type of ability such as Basic ATK, Skill, or Ultimate, all allies gain Childishness, which increases allies' DMG for the same type of ability as used by the wearer by <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> . Childishness only takes effect for the most recent type of ability the wearer used and cannot be stacked."
                 }
             ]
         }
@@ -77702,4 +78595,471 @@ var _propname = {
         "CH": "速度强化",
         "EN": "SPD Boost"
     }
+}
+
+var _camp = {
+    "100": {
+        "CH": "星穹列车",
+        "EN": "Astral Express"
+    },
+    "101": {
+        "CH": "星核猎手",
+        "EN": "Stellaron Hunters"
+    },
+    "102": {
+        "CH": "空间站「黑塔」",
+        "EN": "Herta Space Station"
+    },
+    "103": {
+        "CH": "贝洛伯格",
+        "EN": "Belobog"
+    },
+    "104": {
+        "CH": "仙舟「罗浮」",
+        "EN": "The Xianzhou Luofu"
+    },
+    "105": {
+        "CH": "星际和平公司",
+        "EN": "Interastral Peace Corporation"
+    },
+    "106": {
+        "CH": "纯美骑士团",
+        "EN": "The Knights of Beauty"
+    },
+    "107": {
+        "CH": "博识学会",
+        "EN": "Intelligentsia Guild"
+    },
+    "108": {
+        "CH": "匹诺康尼",
+        "EN": "Penacony"
+    },
+    "109": {
+        "CH": "流光忆庭",
+        "EN": "Garden of Recollection"
+    },
+    "110": {
+        "CH": "假面愚者",
+        "EN": "Masked Fools"
+    }
+}
+
+var _search_avatar = {
+    "1306": 0,
+    "花火": 0,
+    "SPARKLE": 0,
+    "1307": 1,
+    "黑天鹅": 1,
+    "BLACKSWAN": 1,
+    "1312": 2,
+    "米沙": 2,
+    "MISHA": 2,
+    "1214": 3,
+    "雪衣": 3,
+    "XUEYI": 3,
+    "1303": 4,
+    "阮·梅": 4,
+    "RUANMEI": 4,
+    "1305": 5,
+    "真理医生": 5,
+    "DR.RATIO": 5,
+    "1215": 6,
+    "寒鸦": 6,
+    "HANYA": 6,
+    "1217": 7,
+    "藿藿": 7,
+    "HUOHUO": 7,
+    "1302": 8,
+    "银枝": 8,
+    "ARGENTI": 8,
+    "1112": 9,
+    "托帕&账账": 9,
+    "TOPAZ&NUMBY": 9,
+    "1210": 10,
+    "桂乃芬": 10,
+    "GUINAIFEN": 10,
+    "1212": 11,
+    "镜流": 11,
+    "JINGLIU": 11,
+    "1110": 12,
+    "玲可": 12,
+    "LYNX": 12,
+    "1208": 13,
+    "符玄": 13,
+    "FUXUAN": 13,
+    "1213": 14,
+    "丹恒·饮月": 14,
+    "DANHENG•IMBIBITORLUNAE": 14,
+    "1005": 15,
+    "卡芙卡": 15,
+    "KAFKA": 15,
+    "1111": 16,
+    "卢卡": 16,
+    "LUKA": 16,
+    "1205": 17,
+    "刃": 17,
+    "BLADE": 17,
+    "1006": 18,
+    "银狼": 18,
+    "SILVERWOLF": 18,
+    "1203": 19,
+    "罗刹": 19,
+    "LUOCHA": 19,
+    "1207": 20,
+    "驭空": 20,
+    "YUKONG": 20,
+    "1001": 21,
+    "三月七": 21,
+    "MARCH7TH": 21,
+    "1002": 22,
+    "丹恒": 22,
+    "DANHENG": 22,
+    "1003": 23,
+    "姬子": 23,
+    "HIMEKO": 23,
+    "1004": 24,
+    "瓦尔特": 24,
+    "WELT": 24,
+    "1008": 25,
+    "阿兰": 25,
+    "ARLAN": 25,
+    "1009": 26,
+    "艾丝妲": 26,
+    "ASTA": 26,
+    "1013": 27,
+    "黑塔": 27,
+    "HERTA": 27,
+    "1101": 28,
+    "布洛妮娅": 28,
+    "BRONYA": 28,
+    "1102": 29,
+    "希儿": 29,
+    "SEELE": 29,
+    "1103": 30,
+    "希露瓦": 30,
+    "SERVAL": 30,
+    "1104": 31,
+    "杰帕德": 31,
+    "GEPARD": 31,
+    "1105": 32,
+    "娜塔莎": 32,
+    "NATASHA": 32,
+    "1106": 33,
+    "佩拉": 33,
+    "PELA": 33,
+    "1107": 34,
+    "克拉拉": 34,
+    "CLARA": 34,
+    "1108": 35,
+    "桑博": 35,
+    "SAMPO": 35,
+    "1109": 36,
+    "虎克": 36,
+    "HOOK": 36,
+    "1201": 37,
+    "青雀": 37,
+    "QINGQUE": 37,
+    "1202": 38,
+    "停云": 38,
+    "TINGYUN": 38,
+    "1204": 39,
+    "景元": 39,
+    "JINGYUAN": 39,
+    "1206": 40,
+    "素裳": 40,
+    "SUSHANG": 40,
+    "1209": 41,
+    "彦卿": 41,
+    "YANQING": 41,
+    "1211": 42,
+    "白露": 42,
+    "BAILU": 42,
+    "8001": 43,
+    "开拓者": 46,
+    "TRAILBLAZER": 46,
+    "8002": 44,
+    "8003": 45,
+    "8004": 46
+}
+
+var _search_weapon = {
+    "23022": 0,
+    "重塑时光之忆": 0,
+    "REFORGEDREMEMBRANCE": 0,
+    "23021": 1,
+    "游戏尘寰": 1,
+    "EARTHLYESCAPADE": 1,
+    "23020": 2,
+    "纯粹思维的洗礼": 2,
+    "BAPTISMOFPURETHOUGHT": 2,
+    "23019": 3,
+    "镜中故我": 3,
+    "PASTSELFINMIRROR": 3,
+    "23018": 4,
+    "片刻，留在眼底": 4,
+    "ANINSTANTBEFOREAGAZE": 4,
+    "23017": 5,
+    "惊魂夜": 5,
+    "NIGHTOFFRIGHT": 5,
+    "23016": 6,
+    "烦恼着，幸福着": 6,
+    "WORRISOME,BLISSFUL": 6,
+    "23015": 7,
+    "比阳光更明亮的": 7,
+    "BRIGHTERTHANTHESUN": 7,
+    "23014": 8,
+    "此身为剑": 8,
+    "ISHALLBEMYOWNSWORD": 8,
+    "23013": 9,
+    "时节不居": 9,
+    "TIMEWAITSFORNOONE": 9,
+    "23012": 10,
+    "如泥酣眠": 10,
+    "SLEEPLIKETHEDEAD": 10,
+    "23011": 11,
+    "她已闭上双眼": 11,
+    "SHEALREADYSHUTHEREYES": 11,
+    "23010": 12,
+    "拂晓之前": 12,
+    "BEFOREDAWN": 12,
+    "23009": 13,
+    "到不了的彼岸": 13,
+    "THEUNREACHABLESIDE": 13,
+    "23008": 14,
+    "棺的回响": 14,
+    "ECHOESOFTHECOFFIN": 14,
+    "23007": 15,
+    "雨一直下": 15,
+    "INCESSANTRAIN": 15,
+    "23006": 16,
+    "只需等待": 16,
+    "PATIENCEISALLYOUNEED": 16,
+    "23005": 17,
+    "制胜的瞬间": 17,
+    "MOMENTOFVICTORY": 17,
+    "23004": 18,
+    "以世界之名": 18,
+    "INTHENAMEOFTHEWORLD": 18,
+    "23003": 19,
+    "但战斗还未结束": 19,
+    "BUTTHEBATTLEISNTOVER": 19,
+    "23002": 20,
+    "无可取代的东西": 20,
+    "SOMETHINGIRREPLACEABLE": 20,
+    "23001": 21,
+    "于夜色中": 21,
+    "INTHENIGHT": 21,
+    "23000": 22,
+    "银河铁道之夜": 22,
+    "NIGHTONTHEMILKYWAY": 22,
+    "24003": 23,
+    "孤独的疗愈": 23,
+    "SOLITARYHEALING": 23,
+    "24002": 24,
+    "记忆的质料": 24,
+    "TEXTUREOFMEMORIES": 24,
+    "24001": 25,
+    "星海巡航": 25,
+    "CRUISINGINTHESTELLARSEA": 25,
+    "24000": 26,
+    "记一位星神的陨落": 26,
+    "ONTHEFALLOFANAEON": 26,
+    "22001": 27,
+    "嘿，我在这儿": 27,
+    "HEY,OVERHERE": 27,
+    "22000": 28,
+    "新手任务开始前": 28,
+    "BEFORETHETUTORIALMISSIONSTARTS": 28,
+    "21042": 29,
+    "铭记于心的约定": 29,
+    "INDELIBLEPROMISE": 29,
+    "21041": 30,
+    "好戏开演": 30,
+    "ITSSHOWTIME": 30,
+    "21040": 31,
+    "银河沦陷日": 31,
+    "THEDAYTHECOSMOSFELL": 31,
+    "21039": 32,
+    "织造命运之线": 32,
+    "DESTINYSTHREADSFOREWOVEN": 32,
+    "21038": 33,
+    "在火的远处": 33,
+    "FLAMESAFAR": 33,
+    "21037": 34,
+    "最后的赢家": 34,
+    "FINALVICTOR": 34,
+    "21036": 35,
+    "美梦小镇大冒险": 35,
+    "DREAMVILLEADVENTURE": 35,
+    "21035": 36,
+    "何物为真": 36,
+    "WHATISREAL?": 36,
+    "21034": 37,
+    "今日亦是和平的一日": 37,
+    "TODAYISANOTHERPEACEFULDAY": 37,
+    "21033": 38,
+    "无处可逃": 38,
+    "NOWHERETORUN": 38,
+    "21032": 39,
+    "镂月裁云之意": 39,
+    "CARVETHEMOON,WEAVETHECLOUDS": 39,
+    "21031": 40,
+    "重返幽冥": 40,
+    "RETURNTODARKNESS": 40,
+    "21030": 41,
+    "这就是我啦！": 41,
+    "THISISME!": 41,
+    "21029": 42,
+    "后会有期": 42,
+    "WEWILLMEETAGAIN": 42,
+    "21028": 43,
+    "暖夜不会漫长": 43,
+    "WARMTHSHORTENSCOLDNIGHTS": 43,
+    "21027": 44,
+    "早餐的仪式感": 44,
+    "THESERIOUSNESSOFBREAKFAST": 44,
+    "21026": 45,
+    "汪！散步时间！": 45,
+    "WOOF!WALKTIME!": 45,
+    "21025": 46,
+    "过往未来": 46,
+    "PASTANDFUTURE": 46,
+    "21024": 47,
+    "春水初生": 47,
+    "RIVERFLOWSINSPRING": 47,
+    "21023": 48,
+    "我们是地火": 48,
+    "WEAREWILDFIRE": 48,
+    "21022": 49,
+    "延长记号": 49,
+    "FERMATA": 49,
+    "21021": 50,
+    "等价交换": 50,
+    "QUIDPROQUO": 50,
+    "21020": 51,
+    "天才们的休憩": 51,
+    "GENIUSESREPOSE": 51,
+    "21019": 52,
+    "在蓝天下": 52,
+    "UNDERTHEBLUESKY": 52,
+    "21018": 53,
+    "舞！舞！舞！": 53,
+    "DANCE!DANCE!DANCE!": 53,
+    "21017": 54,
+    "点个关注吧！": 54,
+    "SUBSCRIBEFORMORE!": 54,
+    "21016": 55,
+    "宇宙市场趋势": 55,
+    "TRENDOFTHEUNIVERSALMARKET": 55,
+    "21015": 56,
+    "决心如汗珠般闪耀": 56,
+    "RESOLUTIONSHINESASPEARLSOFSWEAT": 56,
+    "21014": 57,
+    "此时恰好": 57,
+    "PERFECTTIMING": 57,
+    "21013": 58,
+    "别让世界静下来": 58,
+    "MAKETHEWORLDCLAMOR": 58,
+    "21012": 59,
+    "秘密誓心": 59,
+    "ASECRETVOW": 59,
+    "21011": 60,
+    "与行星相会": 60,
+    "PLANETARYRENDEZVOUS": 60,
+    "21010": 61,
+    "论剑": 61,
+    "SWORDPLAY": 61,
+    "21009": 62,
+    "朗道的选择": 62,
+    "LANDAUSCHOICE": 62,
+    "21008": 63,
+    "猎物的视线": 63,
+    "EYESOFTHEPREY": 63,
+    "21007": 64,
+    "同一种心情": 64,
+    "SHAREDFEELING": 64,
+    "21006": 65,
+    "「我」的诞生": 65,
+    "THEBIRTHOFTHESELF": 65,
+    "21005": 66,
+    "鼹鼠党欢迎你": 66,
+    "THEMOLESWELCOMEYOU": 66,
+    "21004": 67,
+    "记忆中的模样": 67,
+    "MEMORIESOFTHEPAST": 67,
+    "21003": 68,
+    "唯有沉默": 68,
+    "ONLYSILENCEREMAINS": 68,
+    "21002": 69,
+    "余生的第一天": 69,
+    "DAYONEOFMYNEWLIFE": 69,
+    "21001": 70,
+    "晚安与睡颜": 70,
+    "GOODNIGHTANDSLEEPWELL": 70,
+    "21000": 71,
+    "一场术后对话": 71,
+    "POSTOPCONVERSATION": 71,
+    "20020": 72,
+    "睿见": 72,
+    "SAGACITY": 72,
+    "20019": 73,
+    "调和": 73,
+    "MEDIATION": 73,
+    "20018": 74,
+    "匿影": 74,
+    "HIDDENSHADOW": 74,
+    "20017": 75,
+    "开疆": 75,
+    "PIONEERING": 75,
+    "20016": 76,
+    "俱殁": 76,
+    "MUTUALDEMISE": 76,
+    "20015": 77,
+    "蕃息": 77,
+    "MULTIPLICATION": 77,
+    "20014": 78,
+    "相抗": 78,
+    "ADVERSARIAL": 78,
+    "20013": 79,
+    "灵钥": 79,
+    "PASSKEY": 79,
+    "20012": 80,
+    "轮契": 80,
+    "MESHINGCOGS": 80,
+    "20011": 81,
+    "渊环": 81,
+    "LOOP": 81,
+    "20010": 82,
+    "戍御": 82,
+    "DEFENSE": 82,
+    "20009": 83,
+    "乐圮": 83,
+    "SHATTEREDHOME": 83,
+    "20008": 84,
+    "嘉果": 84,
+    "FINEFRUIT": 84,
+    "20007": 85,
+    "离弦": 85,
+    "DARTINGARROW": 85,
+    "20006": 86,
+    "智库": 86,
+    "DATABANK": 86,
+    "20005": 87,
+    "齐颂": 87,
+    "CHORUS": 87,
+    "20004": 88,
+    "幽邃": 88,
+    "VOID": 88,
+    "20003": 89,
+    "琥珀": 89,
+    "AMBER": 89,
+    "20002": 90,
+    "天倾": 90,
+    "COLLAPSINGSKY": 90,
+    "20001": 91,
+    "物穰": 91,
+    "CORNUCOPIA": 91,
+    "20000": 92,
+    "锋镝": 92,
+    "ARROWS": 92
 }

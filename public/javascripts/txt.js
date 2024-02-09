@@ -370,7 +370,27 @@ var txt = {
             "CH": "相邻 ",
             "EN": "Adjacent  "
         }
-    ]
+    ],
+    "Avatar_Aggro": {
+        "CH": "嘲讽值",
+        "EN": "Taunt Value"
+    },
+    "Avatar_CV": {
+        "CH": "配音演员",
+        "EN": "Voice Actor"
+    },
+    "Weapon_Stat": {
+        "CH": "光锥数值",
+        "EN": "Stats"
+    },
+    "Weapon_Mats": {
+        "CH": "光锥材料",
+        "EN": "Materials"
+    },
+    "Weapon_Skill": {
+        "CH": "光锥技能",
+        "EN": "Skill"
+    },
 }
 
 var elemcolor = {
