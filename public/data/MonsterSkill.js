@@ -13336,8 +13336,8 @@ var _monsterskill = {
             "EN": "Go Into That Good Night"
         },
         "Desc": {
-            "CH": "进入<color style='color:#f29e38;'>【夜幕降临】</color>状态，期间会锁定2名最先行动的我方目标。下次行动时使用<color style='color:#f29e38;'>【如水逝于水中】</color>。",
-            "EN": "Enters the <color style='color:#f29e38;'>Nightfall</color> state and locks onto the 2 characters who are due to act next. Uses <color style='color:#f29e38;'>Watery Dissolution</color> in the next action."
+            "CH": "恢复我方全体全部能量，并进入<color style='color:#f29e38;'>【夜幕降临】</color>状态：锁定2名最先行动的我方目标。下次行动时使用<color style='color:#f29e38;'>【如水逝于水中】</color>。",
+            "EN": "Revive all energy for all characters, and enters the <color style='color:#f29e38;'>Nightfall</color> state, locking onto the 2 characters who are due to act next. Uses <color style='color:#f29e38;'>Watery Dissolution</color> in the next action."
         },
         "SP": 0,
         "Threat": true,
@@ -17845,8 +17845,8 @@ var _monsterskill = {
             "EN": "Go Into That Good Night"
         },
         "Desc": {
-            "CH": "进入<color style='color:#f29e38;'>【夜幕降临】</color>状态，期间会锁定2名最先行动的我方目标。下次行动时使用<color style='color:#f29e38;'>【如水逝于水中】</color>。",
-            "EN": "Enters the <color style='color:#f29e38;'>Nightfall</color> state and locks onto the 2 characters who are due to act next. Uses <color style='color:#f29e38;'>Watery Dissolution</color> in the next action."
+            "CH": "恢复我方全体全部能量，并进入<color style='color:#f29e38;'>【夜幕降临】</color>状态：锁定2名最先行动的我方目标。下次行动时使用<color style='color:#f29e38;'>【如水逝于水中】</color>。",
+            "EN": "Revive all energy for all characters, and enters the <color style='color:#f29e38;'>Nightfall</color> state, locking onto the 2 characters who are due to act next. Uses <color style='color:#f29e38;'>Watery Dissolution</color> in the next action."
         },
         "SP": 0,
         "Threat": true,
