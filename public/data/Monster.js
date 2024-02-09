@@ -26021,7 +26021,8 @@ var _monster = [
         "Status": [
             230010101
         ],
-        "New": true
+        "New": true,
+        "Csxylic": "SCDreamjoltTroupe/3001010"
     },
     {
         "_id": 300101001,
@@ -26067,7 +26068,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_3001010.png",
         "Status": [
             230010101
-        ]
+        ],
+        "Csxylic": "SCDreamjoltTroupe/3001010"
     },
     {
         "_id": 3001020,
@@ -26111,7 +26113,8 @@ var _monster = [
         "Camp": 10,
         "Icon": "MonsterIcon/Monster_3001020.png",
         "Figure": "MonsterFigure/Monster_3001020.png",
-        "New": true
+        "New": true,
+        "Csxylic": "SCDreamjoltTroupe/3001020"
     },
     {
         "_id": 300102001,
@@ -26154,7 +26157,8 @@ var _monster = [
         "Rank": "Minion",
         "Camp": 10,
         "Icon": "MonsterIcon/Monster_3001020.png",
-        "Figure": "MonsterFigure/Monster_3001020.png"
+        "Figure": "MonsterFigure/Monster_3001020.png",
+        "Csxylic": "SCDreamjoltTroupe/3001020"
     },
     {
         "_id": 3002010,
@@ -26205,7 +26209,8 @@ var _monster = [
             230020101,
             230020102
         ],
-        "New": true
+        "New": true,
+        "Csxylic": "SCDreamjoltTroupe/3002010"
     },
     {
         "_id": 300201001,
@@ -26261,7 +26266,8 @@ var _monster = [
         "Status": [
             230020101,
             230020102
-        ]
+        ],
+        "Csxylic": "SCDreamjoltTroupe/3002010"
     },
     {
         "_id": 300201002,
@@ -26317,7 +26323,8 @@ var _monster = [
         "Status": [
             230020101,
             230020102
-        ]
+        ],
+        "Csxylic": "SCDreamjoltTroupe/3002010"
     },
     {
         "_id": 300201003,
@@ -26367,7 +26374,8 @@ var _monster = [
         "Status": [
             230020101,
             230020102
-        ]
+        ],
+        "Csxylic": "SCDreamjoltTroupe/3002010"
     },
     {
         "_id": 3002030,
@@ -26416,7 +26424,8 @@ var _monster = [
         "Status": [
             230020301
         ],
-        "New": true
+        "New": true,
+        "Csxylic": "SCDreamjoltTroupe/3002030"
     },
     {
         "_id": 300203001,
@@ -26464,7 +26473,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_3002030.png",
         "Status": [
             230020301
-        ]
+        ],
+        "Csxylic": "SCDreamjoltTroupe/3002030"
     },
     {
         "_id": 300203002,
@@ -26512,7 +26522,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_3002030.png",
         "Status": [
             230020301
-        ]
+        ],
+        "Csxylic": "SCDreamjoltTroupe/3002030"
     },
     {
         "_id": 3002050,
@@ -26549,7 +26560,8 @@ var _monster = [
         "Camp": 7,
         "Icon": "MonsterIcon/Monster_3002050.png",
         "Figure": "MonsterFigure/Monster_3002050.png",
-        "New": true
+        "New": true,
+        "Csxylic": "SCCosmos/3002050"
     },
     {
         "_id": 300205002,
@@ -26588,7 +26600,8 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 7,
         "Icon": "MonsterIcon/Monster_3002050.png",
-        "Figure": "MonsterFigure/Monster_3002050.png"
+        "Figure": "MonsterFigure/Monster_3002050.png",
+        "Csxylic": "SCCosmos/3002050"
     },
     {
         "_id": 3002051,
@@ -26723,7 +26736,8 @@ var _monster = [
             230030104,
             230030105
         ],
-        "New": true
+        "New": true,
+        "Csxylic": "SCDreamjoltTroupe/3003010"
     },
     {
         "_id": 3003011,
@@ -26867,7 +26881,8 @@ var _monster = [
         "Camp": 10,
         "Icon": "MonsterIcon/Monster_3003020.png",
         "Figure": "MonsterFigure/Monster_3003020.png",
-        "New": true
+        "New": true,
+        "Csxylic": "SCDreamjoltTroupe/3003020"
     },
     {
         "_id": 300302001,
@@ -26913,7 +26928,8 @@ var _monster = [
         "Rank": "Elite",
         "Camp": 10,
         "Icon": "MonsterIcon/Monster_3003020.png",
-        "Figure": "MonsterFigure/Monster_3003020.png"
+        "Figure": "MonsterFigure/Monster_3003020.png",
+        "Csxylic": "SCDreamjoltTroupe/3003020"
     },
     {
         "_id": 3003021,
@@ -27012,7 +27028,8 @@ var _monster = [
         "Camp": 11,
         "Icon": "MonsterIcon/Monster_3011010.png",
         "Figure": "MonsterFigure/Monster_3011010.png",
-        "New": true
+        "New": true,
+        "Csxylic": "SCMemoryZoneMeme/3011010"
     },
     {
         "_id": 3012020,
@@ -27060,7 +27077,8 @@ var _monster = [
         "Status": [
             230120201
         ],
-        "New": true
+        "New": true,
+        "Csxylic": "SCMemoryZoneMeme/3012020"
     },
     {
         "_id": 301202001,
@@ -27107,7 +27125,8 @@ var _monster = [
         "Figure": "MonsterFigure/Monster_3012020.png",
         "Status": [
             230120201
-        ]
+        ],
+        "Csxylic": "SCMemoryZoneMeme/3012020"
     },
     {
         "_id": 3012030,
@@ -27295,7 +27314,8 @@ var _monster = [
             230140204,
             230140207
         ],
-        "New": true
+        "New": true,
+        "Csxylic": "SCMemoryZoneMeme/3014020"
     },
     {
         "_id": 301402001,
@@ -27371,7 +27391,8 @@ var _monster = [
             230140202,
             230140204,
             230140207
-        ]
+        ],
+        "Csxylic": "SCMemoryZoneMeme/3014020"
     },
     {
         "_id": 301402002,
@@ -27447,7 +27468,8 @@ var _monster = [
             230140202,
             230140204,
             230140207
-        ]
+        ],
+        "Csxylic": "SCMemoryZoneMeme/3014020"
     },
     {
         "_id": 301402003,
@@ -27523,7 +27545,8 @@ var _monster = [
             230140202,
             230140204,
             230140207
-        ]
+        ],
+        "Csxylic": "SCMemoryZoneMeme/3014020"
     },
     {
         "_id": 3014021,
@@ -28350,7 +28373,8 @@ var _monster = [
             230240203,
             230240204
         ],
-        "New": true
+        "New": true,
+        "Csxylic": "SCStellaronHunters/3024020"
     },
     {
         "_id": 302402001,
@@ -28401,7 +28425,8 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 5,
         "Icon": "MonsterIcon/Monster_3024020.png",
-        "Figure": "MonsterFigure/Monster_3024020.png"
+        "Figure": "MonsterFigure/Monster_3024020.png",
+        "Csxylic": "SCStellaronHunters/3024020"
     },
     {
         "_id": 3024021,
