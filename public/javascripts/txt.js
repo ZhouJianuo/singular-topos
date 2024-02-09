@@ -377,7 +377,7 @@ var txt = {
     },
     "Avatar_CV": {
         "CH": "配音演员",
-        "EN": "Voice Actor"
+        "EN": "Voice Actors"
     },
     "Weapon_Stat": {
         "CH": "光锥数值",

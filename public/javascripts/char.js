@@ -699,7 +699,8 @@ $(function () {
                             ],
                             class: 'a_section_content mon_head',
                             style: {
-                                'padding-bottom': '10px'
+                                'margin-bottom': '20px',
+                                'margin-top': '-10px'
                             }
                         }
                     ],
@@ -735,7 +736,10 @@ $(function () {
                                                 'font-weight': 'bold'
                                             }
                                         }
-                                    ]
+                                    ],
+                                    style: {
+                                        margin: '10px'
+                                    }
                                 },
                                 {
                                     div: [
@@ -752,7 +756,10 @@ $(function () {
                                                 'font-weight': 'bold'
                                             }
                                         }
-                                    ]
+                                    ],
+                                    style: {
+                                        margin: '10px'
+                                    }
                                 },
                                 {
                                     div: [
@@ -769,7 +776,10 @@ $(function () {
                                                 'font-weight': 'bold'
                                             }
                                         }
-                                    ]
+                                    ],
+                                    style: {
+                                        margin: '10px'
+                                    }
                                 },
                                 {
                                     div: [
@@ -786,7 +796,10 @@ $(function () {
                                                 'font-weight': 'bold'
                                             }
                                         }
-                                    ]
+                                    ],
+                                    style: {
+                                        margin: '10px'
+                                    }
                                 }
                             ],
                             class: 'a_section_content mon_head',
