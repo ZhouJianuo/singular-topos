@@ -13792,9 +13792,9 @@ var _Monsters = {
             }
         ],
         "Ball": {
-            "Type": 2,
+            "Type": 0,
             "Point": 4,
-            "Drop": "1114"
+            "Drop": "1116"
         },
         "Icon": [
             "UI_MonsterIcon_MachinaIustitia_Pylon"
