@@ -18032,7 +18032,10 @@ var _Monsters = {
         "Tutorial": {
             "CH": "<b><color style='color:#FF0000;'>「赤璋巡岳府君 · 移即」</color></b> 和 <b><color style='color:#00B0F0;'>「赤璋巡岳府君 · 天虞」</color></b>是在璃月成对出现的一对岩龙蜥地方传奇。二者<b>免疫石化</b>，并且永久具有冰元素增幅和火元素增幅状态，具有70%火/冰元素抗性、50%岩元素抗性、30%物理抗性。<br>- 击杀其中一只岩龙蜥后，如果在15秒内未能击败第二只，先被击败的岩龙蜥会复活。<br>- 在战斗中，二者会协力释放强大的组合技。部分技能如果没有被护盾抵挡，则会进行追加攻击。",
             "EN": "<b><color style='color:#FF0000;'>\"The Rising Fire: Yiji\"</color></b> and <b><color style='color:#00B0F0;'>\"The Imminent Freeze: Tianyu\"</color></b> are a twin Local Legend of Liyue. They are <b>immune to Petrification</b>, and are permanently enhanced with Pyro and Cryo. They have 70% Pyro/Cryo RES, 50% Geo RES and 30% Physical RES.<br>- If one of the Geovishaps is killed but the second is not killed within 15s, the first Geovishap will revive.<br>- In combat, they will unleash powerful cooperated attacks. If certain attacks are not blocked by a shield, they will perform extra follow-up attacks."
-        }
+        },
+        "Csx": [
+            "ECLegends/赤璋巡岳府君"
+        ]
     },
     "60407": {
         "_id": 60407,
@@ -18076,7 +18079,10 @@ var _Monsters = {
         "Tutorial": {
             "CH": "<b><color style='color:#FF0000;'>「赤璋巡岳府君 · 移即」</color></b> 和 <b><color style='color:#00B0F0;'>「赤璋巡岳府君 · 天虞」</color></b>是在璃月成对出现的一对岩龙蜥地方传奇。二者<b>免疫石化</b>，并且永久具有冰元素增幅和火元素增幅状态，具有70%火/冰元素抗性、50%岩元素抗性、30%物理抗性。<br>- 击杀其中一只岩龙蜥后，如果在15秒内未能击败第二只，先被击败的岩龙蜥会复活。<br>- 在战斗中，二者会协力释放强大的组合技。部分技能如果没有被护盾抵挡，则会进行追加攻击。",
             "EN": "<b><color style='color:#FF0000;'>\"The Rising Fire: Yiji\"</color></b> and <b><color style='color:#00B0F0;'>\"The Imminent Freeze: Tianyu\"</color></b> are a twin Local Legend of Liyue. They are <b>immune to Petrification</b>, and are permanently enhanced with Pyro and Cryo. They have 70% Pyro/Cryo RES, 50% Geo RES and 30% Physical RES.<br>- If one of the Geovishaps is killed but the second is not killed within 15s, the first Geovishap will revive.<br>- In combat, they will unleash powerful cooperated attacks. If certain attacks are not blocked by a shield, they will perform extra follow-up attacks."
-        }
+        },
+        "Csx": [
+            "ECLegends/赤璋巡岳府君"
+        ]
     },
     "60410": {
         "_id": 60410,
@@ -18116,7 +18122,14 @@ var _Monsters = {
         ],
         "Grade": 3,
         "Weight": 250,
-        "EndureTemplateID": 4000
+        "EndureTemplateID": 4000,
+        "Tutorial": {
+            "CH": "<b><color style='color:#FF0000;'>「赤璋巡岳府君 · 移即」</color></b> 和 <b><color style='color:#00B0F0;'>「赤璋巡岳府君 · 天虞」</color></b>是在璃月成对出现的一对岩龙蜥地方传奇。二者<b>免疫石化</b>，并且永久具有冰元素增幅和火元素增幅状态，具有70%火/冰元素抗性、50%岩元素抗性、30%物理抗性。<br>- 击杀其中一只岩龙蜥后，如果在15秒内未能击败第二只，先被击败的岩龙蜥会复活。<br>- 在战斗中，二者会协力释放强大的组合技。部分技能如果没有被护盾抵挡，则会进行追加攻击。",
+            "EN": "<b><color style='color:#FF0000;'>\"The Rising Fire: Yiji\"</color></b> and <b><color style='color:#00B0F0;'>\"The Imminent Freeze: Tianyu\"</color></b> are a twin Local Legend of Liyue. They are <b>immune to Petrification</b>, and are permanently enhanced with Pyro and Cryo. They have 70% Pyro/Cryo RES, 50% Geo RES and 30% Physical RES.<br>- If one of the Geovishaps is killed but the second is not killed within 15s, the first Geovishap will revive.<br>- In combat, they will unleash powerful cooperated attacks. If certain attacks are not blocked by a shield, they will perform extra follow-up attacks."
+        },
+        "Csx": [
+            "ECLegends/赤璋巡岳府君"
+        ]
     },
     "60411": {
         "_id": 60411,
@@ -18156,7 +18169,14 @@ var _Monsters = {
         ],
         "Grade": 3,
         "Weight": 250,
-        "EndureTemplateID": 4000
+        "EndureTemplateID": 4000,
+        "Tutorial": {
+            "CH": "<b><color style='color:#FF0000;'>「赤璋巡岳府君 · 移即」</color></b> 和 <b><color style='color:#00B0F0;'>「赤璋巡岳府君 · 天虞」</color></b>是在璃月成对出现的一对岩龙蜥地方传奇。二者<b>免疫石化</b>，并且永久具有冰元素增幅和火元素增幅状态，具有70%火/冰元素抗性、50%岩元素抗性、30%物理抗性。<br>- 击杀其中一只岩龙蜥后，如果在15秒内未能击败第二只，先被击败的岩龙蜥会复活。<br>- 在战斗中，二者会协力释放强大的组合技。部分技能如果没有被护盾抵挡，则会进行追加攻击。",
+            "EN": "<b><color style='color:#FF0000;'>\"The Rising Fire: Yiji\"</color></b> and <b><color style='color:#00B0F0;'>\"The Imminent Freeze: Tianyu\"</color></b> are a twin Local Legend of Liyue. They are <b>immune to Petrification</b>, and are permanently enhanced with Pyro and Cryo. They have 70% Pyro/Cryo RES, 50% Geo RES and 30% Physical RES.<br>- If one of the Geovishaps is killed but the second is not killed within 15s, the first Geovishap will revive.<br>- In combat, they will unleash powerful cooperated attacks. If certain attacks are not blocked by a shield, they will perform extra follow-up attacks."
+        },
+        "Csx": [
+            "ECLegends/赤璋巡岳府君"
+        ]
     },
     "60501": {
         "_id": 60501,
@@ -21352,7 +21372,10 @@ var _Monsters = {
         "Tutorial": {
             "CH": "栖息于深山中的仙兽，会周期性凝聚仙力，交替释放<b>水终结技</b>和<b>风终结技</b>，期间全部抗性提升200%，持续10秒。<br><br>水终结技：在周围随机地段，持续造成水元素伤害。结束时，在7个大型圆形区域内翻起巨浪，造成巨额水元素伤害。<br><b>期间自身会附着水元素。利用冰元素使其冻结，再使用<color style='color:#f29e38;'>超导、融化、扩散、结晶、碎冰反应</color>破坏其冻结状态，可以解除其抗性提升效果，并使其短暂瘫痪。</b><br><br>风终结技：召唤3枚移动的灵风珠，并在周围随机地段，持续造成风元素伤害。结束时，对全场造成巨额风元素伤害，剩余的灵风珠将转化为涡眼，持续牵引角色并造成伤害。<br><b>利用<color style='color:#f29e38;'>雷、水、冰、火元素</color>触发扩散反应破坏全部灵风珠，可以解除其抗性提升效果，并使其短暂瘫痪。</b><br><br>水终结技和风终结技会交替释放，间隔30s~60s，第一次必定为水。生命值降低至70%时，无视间隔使用一次水终结技。生命值降低至40%时，无视间隔使用一次风终结技。<br><b>深渊特化版：入战后立刻使用水终结技，然后立刻使用风终结技。</b>",
             "EN": "A beast dwelling in the deep mountains. It will periodically draw upon the adeptal powers and alternately unleash <b>Hydro Ult</b> and <b>Anemo Ult</b>. During its Ults, all-type RES is increased by 200% for 10s.<br><br>Hydro Ult: Continuously deal Hydro DMG in random surrounding areas. In the end, summon deadly tides in 7 huge circles, dealing massive Hydro DMG.<br><b>During the Ult it will apply Hydro to itself. Freeze it with Cryo attacks and destroy its Frozen state with the <color style='color:#f29e38;'>Superconduct, Melt, Swirl, Crystallize or Shatter</color> Reactions to remove its RES increase and temporarily paralyze it.</b><br><br>Anemo Ult: Summon 3 moving Gale Orbs and continuously deal Anemo DMG in random surrounding areas. In the end, deal massive Anemo DMG to the entire arena. The Gale Orbs will transform into vertexes, pulling characters in and dealing Anemo DoT. <br><b>Swirl all three Gale Orbs with the <color style='color:#f29e38;'>Electro, Hydro, Cryo or Pyro Elements</color> to remove its RES increase and temporarily paralyze it.</b><br><br>Hydro and Anemo Adeptal Powers are used alternately, at intervals of 30s~60s. The first is always Hydro. When HP falls below 70%, uses Hydro Ult ignoring interval. When HP falls below 40%, uses Anemo Ult ignoring interval.<br><b>Abyss Version: Upon entering battle, immediately use Hydro Ult, and then immediately use Anemo Ult.</b>"
-        }
+        },
+        "Csx": [
+            "ECMysticalBeasts/隐山猊兽"
+        ]
     },
     "61902": {
         "_id": 61902,
@@ -21405,6 +21428,9 @@ var _Monsters = {
                     0.2626
                 ]
             }
+        ],
+        "Csx": [
+            "ECMysticalBeasts/玄文兽"
         ]
     },
     "80203": {
@@ -21504,7 +21530,10 @@ var _Monsters = {
         ],
         "Grade": 0,
         "Weight": 80,
-        "EndureTemplateID": 50
+        "EndureTemplateID": 50,
+        "Csx": [
+            "ECAnimals/柔柔羊"
+        ]
     },
     "80601": {
         "_id": 80601,
