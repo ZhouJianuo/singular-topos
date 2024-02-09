@@ -218,7 +218,7 @@ $(function () {
                                             img: imgpre + 'images/Misc/_HP.png',
                                             class: 'avatar-staticon'
                                         },
-                                        (t.Stats[6].HP[0] + 80 * t.Stats[6].HP[1]).toFixed(0)
+                                        (t.Stats[6].HP[0] + 79 * t.Stats[6].HP[1]).toFixed(0)
                                     ],
                                     class: 'avatar-stat'
                                 },
@@ -228,7 +228,7 @@ $(function () {
                                             img: imgpre + 'images/Misc/_ATK.png',
                                             class: 'avatar-staticon'
                                         },
-                                        (t.Stats[6].ATK[0] + 80 * t.Stats[6].ATK[1]).toFixed(0)
+                                        (t.Stats[6].ATK[0] + 79 * t.Stats[6].ATK[1]).toFixed(0)
                                     ],
                                     class: 'avatar-stat'
                                 },
@@ -238,7 +238,7 @@ $(function () {
                                             img: imgpre + 'images/Misc/_DEF.png',
                                             class: 'avatar-staticon'
                                         },
-                                        (t.Stats[6].DEF[0] + 80 * t.Stats[6].DEF[1]).toFixed(0)
+                                        (t.Stats[6].DEF[0] + 79 * t.Stats[6].DEF[1]).toFixed(0)
                                     ],
                                     class: 'avatar-stat'
                                 },
@@ -349,7 +349,7 @@ $(function () {
                                             img: imgpre + 'images/Misc/_HP.png',
                                             class: 'avatar-staticon'
                                         },
-                                        (t.Stats[6].HP[0] + 80 * t.Stats[6].HP[1]).toFixed(0)
+                                        (t.Stats[6].HP[0] + 79 * t.Stats[6].HP[1]).toFixed(0)
                                     ],
                                     class: 'avatar-stat'
                                 },
@@ -359,7 +359,7 @@ $(function () {
                                             img: imgpre + 'images/Misc/_ATK.png',
                                             class: 'avatar-staticon'
                                         },
-                                        (t.Stats[6].ATK[0] + 80 * t.Stats[6].ATK[1]).toFixed(0)
+                                        (t.Stats[6].ATK[0] + 79 * t.Stats[6].ATK[1]).toFixed(0)
                                     ],
                                     class: 'avatar-stat'
                                 },
@@ -369,7 +369,7 @@ $(function () {
                                             img: imgpre + 'images/Misc/_DEF.png',
                                             class: 'avatar-staticon'
                                         },
-                                        (t.Stats[6].DEF[0] + 80 * t.Stats[6].DEF[1]).toFixed(0)
+                                        (t.Stats[6].DEF[0] + 79 * t.Stats[6].DEF[1]).toFixed(0)
                                     ],
                                     class: 'avatar-stat'
                                 },
@@ -647,7 +647,7 @@ $(function () {
                                             img: imgpre + 'images/Misc/_HP.png'
                                         },
                                         {
-                                            span: props.HP[lang] + ' <b>' + (this_avatar.Stats[6].HP[0] + 80 * this_avatar.Stats[6].HP[1]).toFixed(1) + '</b> '
+                                            span: props.HP[lang] + ' <b>' + (this_avatar.Stats[6].HP[0] + 79 * this_avatar.Stats[6].HP[1]).toFixed(1) + '</b> '
                                         }
                                     ],
                                     class: 'addprop'
@@ -658,7 +658,7 @@ $(function () {
                                             img: imgpre + 'images/Misc/_ATK.png'
                                         },
                                         {
-                                            span: props.ATK[lang] + ' <b>' + (this_avatar.Stats[6].ATK[0] + 80 * this_avatar.Stats[6].ATK[1]).toFixed(2) + '</b> '
+                                            span: props.ATK[lang] + ' <b>' + (this_avatar.Stats[6].ATK[0] + 79 * this_avatar.Stats[6].ATK[1]).toFixed(2) + '</b> '
                                         }
                                     ],
                                     class: 'addprop'
@@ -669,7 +669,7 @@ $(function () {
                                             img: imgpre + 'images/Misc/_DEF.png'
                                         },
                                         {
-                                            span: props.DEF[lang] + ' <b>' + (this_avatar.Stats[6].DEF[0] + 80 * this_avatar.Stats[6].DEF[1]).toFixed(2) + '</b> '
+                                            span: props.DEF[lang] + ' <b>' + (this_avatar.Stats[6].DEF[0] + 79 * this_avatar.Stats[6].DEF[1]).toFixed(2) + '</b> '
                                         }
                                     ],
                                     class: 'addprop'
@@ -1349,7 +1349,7 @@ $(function () {
                                                                 img: imgpre + 'images/Misc/_HP.png'
                                                             },
                                                             {
-                                                                span: ' <b>' + (this_weapon.Stats[6].HP[0] + 80 * this_weapon.Stats[6].HP[1]).toFixed(1) + '</b> '
+                                                                span: ' <b>' + (this_weapon.Stats[6].HP[0] + 79 * this_weapon.Stats[6].HP[1]).toFixed(1) + '</b> '
                                                             }
                                                         ],
                                                         class: 'addprop_'
@@ -1360,7 +1360,7 @@ $(function () {
                                                                 img: imgpre + 'images/Misc/_ATK.png'
                                                             },
                                                             {
-                                                                span: ' <b>' + (this_weapon.Stats[6].ATK[0] + 80 * this_weapon.Stats[6].ATK[1]).toFixed(2) + '</b> '
+                                                                span: ' <b>' + (this_weapon.Stats[6].ATK[0] + 79 * this_weapon.Stats[6].ATK[1]).toFixed(2) + '</b> '
                                                             }
                                                         ],
                                                         class: 'addprop_'
@@ -1371,7 +1371,7 @@ $(function () {
                                                                 img: imgpre + 'images/Misc/_DEF.png'
                                                             },
                                                             {
-                                                                span: ' <b>' + (this_weapon.Stats[6].DEF[0] + 80 * this_weapon.Stats[6].DEF[1]).toFixed(2) + '</b> '
+                                                                span: ' <b>' + (this_weapon.Stats[6].DEF[0] + 79 * this_weapon.Stats[6].DEF[1]).toFixed(2) + '</b> '
                                                             }
                                                         ],
                                                         class: 'addprop_'
