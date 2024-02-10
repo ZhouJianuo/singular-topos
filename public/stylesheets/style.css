@@ -178,8 +178,8 @@ schedule.active{
 }
 
 .elem_ {
-    height: 22px;
-    width: 22px;
+    height: 25px;
+    width: 25px;
 }
 
 ::-webkit-scrollbar {
@@ -212,6 +212,10 @@ schedule.active{
 }
 
 @media screen and (min-width: 600px) and (max-width: 800px) {
+    .elem_ {
+        height: 27px;
+        width: 27px;
+    }
     h3 .title {
         font-size: 45px;
     }
@@ -230,6 +234,10 @@ schedule.active{
 }
 
 @media screen and (min-width: 800px) {
+    .elem_ {
+        height: 30px;
+        width: 30px;
+    }
     h3 .title {
         font-size: 50px;
     }
@@ -244,5 +252,14 @@ schedule.active{
     .elem_small {
         height: 22px;
         width: 22px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    popbody::-webkit-scrollbar {
+        width: 0px
+    }
+    container::-webkit-scrollbar {
+        width: 0px
     }
 }

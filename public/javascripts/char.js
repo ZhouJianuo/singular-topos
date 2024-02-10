@@ -79,21 +79,28 @@ $(function () {
                 {
                     section: [
                         {
-                            schedule: '★ ★ ★ ★ ★',
+                            schedule: (lang == 'CH') ? '隐藏' : 'Hidden',
+                            class: '_r6',
+                            a: {
+                                'data-id': 6
+                            }
+                        },
+                        {
+                            schedule: '5★',
                             class: 'active _r5',
                             a: {
                                 'data-id': 5
                             }
                         },
                         {
-                            schedule: '★ ★ ★ ★',
+                            schedule: '4★',
                             class: '_r4',
                             a: {
                                 'data-id': 4
                             }
                         },
                         {
-                            schedule: '★ ★ ★',
+                            schedule: '3★',
                             class: '_r3',
                             a: {
                                 'data-id': 3
@@ -149,25 +156,43 @@ $(function () {
             $('.rar-3').show()
             $('.rar-4').hide()
             $('.rar-5').hide()
+            $('.rar-6').hide()
         } else if (cur_rarity == 4) {
             $('.rar-3').hide()
             $('.rar-4').show()
             $('.rar-5').hide()
-        } else {
+            $('.rar-6').hide()
+        } else if (cur_rarity == 5) {
             $('.rar-3').hide()
             $('.rar-4').hide()
             $('.rar-5').show()
+            $('.rar-6').hide()
+        } else {
+            $('.rar-3').hide()
+            $('.rar-4').hide()
+            $('.rar-5').hide()
+            $('.rar-6').show()
         }
     })
 
     function listAvatar() {
         $('.area').empty()
         _avatar.forEach(function (t, i) {
+            var stats = t.Stats
+            if (!stats) {
+                stats = [0, 0, 0, 0, 0, 0, {
+                    HP: [0, 0],
+                    ATK: [0, 0],
+                    DEF: [0, 0],
+                    SPD: 0,
+                    Aggro: 0
+                }]
+            }
             $('.area').render({
                 template: {
                     div: [
                         {
-                            p: t.Ver.replace('9.0', '???'),
+                            p: t.Ver ? t.Ver : '???',
                             style: {
                                 'font-weight': 'bold'
                             }
@@ -199,7 +224,8 @@ $(function () {
                                         width: '22%',
                                         'max-width': '35px',
                                         margin: '0px 5px',
-                                    }
+                                    },
+                                    when: t.Path
                                 },
                             ],
                             style: {
@@ -218,7 +244,7 @@ $(function () {
                                             img: imgpre + 'images/Misc/_HP.png',
                                             class: 'avatar-staticon'
                                         },
-                                        (t.Stats[6].HP[0] + 79 * t.Stats[6].HP[1]).toFixed(0)
+                                        (stats[6].HP[0] + 79 * stats[6].HP[1]).toFixed(0)
                                     ],
                                     class: 'avatar-stat'
                                 },
@@ -228,7 +254,7 @@ $(function () {
                                             img: imgpre + 'images/Misc/_ATK.png',
                                             class: 'avatar-staticon'
                                         },
-                                        (t.Stats[6].ATK[0] + 79 * t.Stats[6].ATK[1]).toFixed(0)
+                                        (stats[6].ATK[0] + 79 * stats[6].ATK[1]).toFixed(0)
                                     ],
                                     class: 'avatar-stat'
                                 },
@@ -238,7 +264,7 @@ $(function () {
                                             img: imgpre + 'images/Misc/_DEF.png',
                                             class: 'avatar-staticon'
                                         },
-                                        (t.Stats[6].DEF[0] + 79 * t.Stats[6].DEF[1]).toFixed(0)
+                                        (stats[6].DEF[0] + 79 * stats[6].DEF[1]).toFixed(0)
                                     ],
                                     class: 'avatar-stat'
                                 },
@@ -248,7 +274,7 @@ $(function () {
                                             img: imgpre + 'images/Misc/_SPD.png',
                                             class: 'avatar-staticon'
                                         },
-                                        t.Stats[6].SPD.toFixed(0)
+                                        stats[6].SPD.toFixed(0)
                                     ],
                                     class: 'avatar-stat'
                                 },
@@ -258,16 +284,17 @@ $(function () {
                                             img: imgpre + 'images/Misc/_ENERGY.png',
                                             class: 'avatar-staticon'
                                         },
-                                        t.SP.toFixed(0)
+                                        (t.SP ? t.SP : 0).toFixed(0)
                                     ],
                                     class: 'avatar-stat'
                                 }
-                            ]
+                            ],
+                            when: t.Stats
                         },
                     ],
-                    class: 'avatar-card hover-shadow rar-' + t.Rarity,
+                    class: 'avatar-card hover-shadow rar-' + (t.Rarity ? t.Rarity : '6'),
                     style: {
-                        display: (t.Rarity == cur_rarity) ? '' : 'none'
+                        display: ((t.Rarity == cur_rarity)) ? '' : 'none'
                     },
                     click: function (p) {
                         popAvatar(i)
@@ -280,6 +307,14 @@ $(function () {
     function listWeapon() {
         $('.area').empty()
         _weapon.forEach(function (t, i) {
+            var stats = t.Stats
+            if (!stats) {
+                stats = [0, 0, 0, 0, 0, 0, {
+                    HP: 0,
+                    ATK: 0,
+                    DEF: 0
+                }]
+            }
             $('.area').render({
                 template: {
                     div: [
@@ -319,7 +354,7 @@ $(function () {
                             when: t.Rarity == 3
                         },
                         {
-                            img: imgpre + `images/WeaponIcon/${t.Pic}`,
+                            img: imgpre + `images/lightconemediumicon/${t.Pic}`,
                             class: 'weapon-head'
                         },
                         {
@@ -330,7 +365,8 @@ $(function () {
                                         width: '30%',
                                         'max-width': '48px',
                                         margin: '0px',
-                                    }
+                                    },
+                                    when : t.Path
                                 },
                             ],
                             style: {
@@ -349,7 +385,7 @@ $(function () {
                                             img: imgpre + 'images/Misc/_HP.png',
                                             class: 'avatar-staticon'
                                         },
-                                        (t.Stats[6].HP[0] + 79 * t.Stats[6].HP[1]).toFixed(0)
+                                        (stats[6].HP[0] + 79 * stats[6].HP[1]).toFixed(0)
                                     ],
                                     class: 'avatar-stat'
                                 },
@@ -359,7 +395,7 @@ $(function () {
                                             img: imgpre + 'images/Misc/_ATK.png',
                                             class: 'avatar-staticon'
                                         },
-                                        (t.Stats[6].ATK[0] + 79 * t.Stats[6].ATK[1]).toFixed(0)
+                                        (stats[6].ATK[0] + 79 * stats[6].ATK[1]).toFixed(0)
                                     ],
                                     class: 'avatar-stat'
                                 },
@@ -369,17 +405,17 @@ $(function () {
                                             img: imgpre + 'images/Misc/_DEF.png',
                                             class: 'avatar-staticon'
                                         },
-                                        (t.Stats[6].DEF[0] + 79 * t.Stats[6].DEF[1]).toFixed(0)
+                                        (stats[6].DEF[0] + 79 * stats[6].DEF[1]).toFixed(0)
                                     ],
                                     class: 'avatar-stat'
                                 },
                             ],
-                            'margin-bottom': '12px'
+                            when: t.Stats
                         },
                     ],
-                    class: 'avatar-card hover-shadow rar-' + t.Rarity,
+                    class: 'avatar-card hover-shadow rar-' + (t.Rarity ? t.Rarity : '6'),
                     style: {
-                        display: (t.Rarity == cur_rarity) ? '' : 'none'
+                        display: ((t.Rarity == cur_rarity)) ? '' : 'none'
                     },
                     click: function (p) {
                         popWeapon(i)
@@ -442,6 +478,24 @@ $(function () {
 
     function renderAvatar(i) {
         cur_avatar_page = i
+        var mats = this_avatar.Mat
+        if (!mats) {
+            mats = [112003, 112003, 112003, 112003]
+        }
+        var stats = this_avatar.Stats
+        if (!stats) {
+            stats = [0, 0, 0, 0, 0, 0, {
+                HP: [0, 0],
+                ATK: [0, 0],
+                DEF: [0, 0],
+                SPD: 0,
+                Aggro: 0
+            }]
+        }
+        var cv = this_avatar.CV
+        if (!cv) {
+            cv = [{}, {}, {}, {}]
+        }
         $('.mon_body').empty()
         if (i == 1) {
             $('.mon_body').render([
@@ -461,13 +515,24 @@ $(function () {
                         {
                             div: [
                                 {
-                                    p: (this_avatar.Rarity == 5) ? '★ ★ ★ ★ ★' : '★ ★ ★ ★',
+                                    p: '★ ★ ★ ★ ★',
                                     style: {
                                         width: '100%',
                                         'text-align': 'center',
                                         'font-size': '20px',
                                         margin: '0 auto',
-                                    }
+                                    },
+                                    when: this_avatar.Rarity == 5
+                                },
+                                {
+                                    p: '★ ★ ★ ★',
+                                    style: {
+                                        width: '100%',
+                                        'text-align': 'center',
+                                        'font-size': '20px',
+                                        margin: '0 auto',
+                                    },
+                                    when: this_avatar.Rarity == 4
                                 },
                                 {
                                     img: imgpre + 'images/' + this_avatar.Pic,
@@ -489,7 +554,8 @@ $(function () {
                                                 width: '13%',
                                                 'max-width': '48px',
                                                 margin: '0px 5px',
-                                            }
+                                            },
+                                            when : this_avatar.Path
                                         },
                                     ],
                                     style: {
@@ -502,11 +568,12 @@ $(function () {
                                 },
                                 {
                                     div: {
-                                        p: _camp[this_avatar.Camp][lang],
+                                        p: this_avatar.Camp ? _camp[this_avatar.Camp][lang] : '',
                                         style: {
                                             'font-weight': 'bold',
                                             'text-align': 'center'
-                                        }
+                                        },
+                                        when: this_avatar.Camp
                                     }
                                 },
                             ],
@@ -537,16 +604,16 @@ $(function () {
                                 {
                                     div: [
                                         {
-                                            img: imgpre + "images/" + _item[this_avatar.Mat[0] - 2].Icon
+                                            img: imgpre + "images/" + _item[mats[0] - 2].Icon
                                         },
                                         {
-                                            img: imgpre + "images/" + _item[this_avatar.Mat[0] - 1].Icon
+                                            img: imgpre + "images/" + _item[mats[0] - 1].Icon
                                         },
                                         {
-                                            img: imgpre + "images/" + _item[this_avatar.Mat[0]].Icon
+                                            img: imgpre + "images/" + _item[mats[0]].Icon
                                         },
                                         {
-                                            p: _item[this_avatar.Mat[0]].Name[lang],
+                                            p: _item[mats[0]].Name[lang],
                                             style: {
                                                 'font-weight': 'bold'
                                             }
@@ -560,10 +627,10 @@ $(function () {
                                 {
                                     div: [
                                         {
-                                            img: imgpre + "images/" + _item[this_avatar.Mat[1]].Icon
+                                            img: imgpre + "images/" + _item[mats[1]].Icon
                                         },
                                         {
-                                            p: _item[this_avatar.Mat[1]].Name[lang],
+                                            p: _item[mats[1]].Name[lang],
                                             style: {
                                                 'font-weight': 'bold'
                                             }
@@ -577,16 +644,16 @@ $(function () {
                                 {
                                     div: [
                                         {
-                                            img: imgpre + "images/" + _item[this_avatar.Mat[2] - 2].Icon
+                                            img: imgpre + "images/" + _item[mats[2] - 2].Icon
                                         },
                                         {
-                                            img: imgpre + "images/" + _item[this_avatar.Mat[2] - 1].Icon
+                                            img: imgpre + "images/" + _item[mats[2] - 1].Icon
                                         },
                                         {
-                                            img: imgpre + "images/" + _item[this_avatar.Mat[2]].Icon
+                                            img: imgpre + "images/" + _item[mats[2]].Icon
                                         },
                                         {
-                                            p: _item[this_avatar.Mat[2]].Name[lang],
+                                            p: _item[mats[2]].Name[lang],
                                             style: {
                                                 'font-weight': 'bold'
                                             }
@@ -600,10 +667,10 @@ $(function () {
                                 {
                                     div: [
                                         {
-                                            img: imgpre + "images/" + _item[this_avatar.Mat[3]].Icon
+                                            img: imgpre + "images/" + _item[mats[3]].Icon
                                         },
                                         {
-                                            p: _item[this_avatar.Mat[3]].Name[lang],
+                                            p: _item[mats[3]].Name[lang],
                                             style: {
                                                 'font-weight': 'bold'
                                             }
@@ -624,7 +691,8 @@ $(function () {
                             }
                         },
                     ],
-                    class: 'a_section'
+                    class: 'a_section',
+                    when: this_avatar.Mat
                 },
                 {
                     div: [
@@ -647,7 +715,7 @@ $(function () {
                                             img: imgpre + 'images/Misc/_HP.png'
                                         },
                                         {
-                                            span: props.HP[lang] + ' <b>' + (this_avatar.Stats[6].HP[0] + 79 * this_avatar.Stats[6].HP[1]).toFixed(1) + '</b> '
+                                            span: props.HP[lang] + ' <b>' + (stats[6].HP[0] + 79 * stats[6].HP[1]).toFixed(1) + '</b> '
                                         }
                                     ],
                                     class: 'addprop'
@@ -658,7 +726,7 @@ $(function () {
                                             img: imgpre + 'images/Misc/_ATK.png'
                                         },
                                         {
-                                            span: props.ATK[lang] + ' <b>' + (this_avatar.Stats[6].ATK[0] + 79 * this_avatar.Stats[6].ATK[1]).toFixed(2) + '</b> '
+                                            span: props.ATK[lang] + ' <b>' + (stats[6].ATK[0] + 79 * stats[6].ATK[1]).toFixed(2) + '</b> '
                                         }
                                     ],
                                     class: 'addprop'
@@ -669,7 +737,7 @@ $(function () {
                                             img: imgpre + 'images/Misc/_DEF.png'
                                         },
                                         {
-                                            span: props.DEF[lang] + ' <b>' + (this_avatar.Stats[6].DEF[0] + 79 * this_avatar.Stats[6].DEF[1]).toFixed(2) + '</b> '
+                                            span: props.DEF[lang] + ' <b>' + (stats[6].DEF[0] + 79 * stats[6].DEF[1]).toFixed(2) + '</b> '
                                         }
                                     ],
                                     class: 'addprop'
@@ -680,7 +748,7 @@ $(function () {
                                             img: imgpre + 'images/Misc/_SPD.png'
                                         },
                                         {
-                                            span: props.SPD[lang] + ' <b>' + (this_avatar.Stats[6].SPD).toFixed(0) + '</b> '
+                                            span: props.SPD[lang] + ' <b>' + (stats[6].SPD).toFixed(0) + '</b> '
                                         }
                                     ],
                                     class: 'addprop'
@@ -691,7 +759,7 @@ $(function () {
                                             img: imgpre + 'images/Misc/IconMonsterTaunted.png'
                                         },
                                         {
-                                            span: txt.Avatar_Aggro[lang] + ' <b>' + (this_avatar.Stats[6].Aggro).toFixed(0) + '</b> '
+                                            span: txt.Avatar_Aggro[lang] + ' <b>' + (stats[6].Aggro).toFixed(0) + '</b> '
                                         }
                                     ],
                                     class: 'addprop'
@@ -704,7 +772,7 @@ $(function () {
                             }
                         }
                     ],
-                    class: 'a_section'
+                    class: 'a_section',
                 },
                 {
                     div: [
@@ -731,7 +799,7 @@ $(function () {
                                             }
                                         },
                                         {
-                                            p: this_avatar.CV[0][lang],
+                                            p: cv[0][lang],
                                             style: {
                                                 'font-weight': 'bold'
                                             }
@@ -751,7 +819,7 @@ $(function () {
                                             }
                                         },
                                         {
-                                            p: this_avatar.CV[1][lang],
+                                            p: cv[1][lang],
                                             style: {
                                                 'font-weight': 'bold'
                                             }
@@ -771,7 +839,7 @@ $(function () {
                                             }
                                         },
                                         {
-                                            p: this_avatar.CV[2][lang],
+                                            p: cv[2][lang],
                                             style: {
                                                 'font-weight': 'bold'
                                             }
@@ -791,7 +859,7 @@ $(function () {
                                             }
                                         },
                                         {
-                                            p: this_avatar.CV[3][lang],
+                                            p: cv[3][lang],
                                             style: {
                                                 'font-weight': 'bold'
                                             }
@@ -806,7 +874,8 @@ $(function () {
                             style: {
                                 'padding-bottom': '10px',
                                 'text-align': 'center'
-                            }
+                            },
+                            when: this_avatar.CV
                         }
                     ],
                     class: 'a_section'
@@ -814,24 +883,34 @@ $(function () {
             ])
         }
         if (i == 2) {
-            $('.mon_body').render({
-                div: {
-                    div: [
-                        {
-                            span: txt.StatVerChoose[lang]
-                        },
-                        {
-                            span: {
-                                select: '',
-                                options: this_avatar_vers[0]
+            $('.mon_body').render([
+                {
+                    div: {
+                        div: [
+                            {
+                                span: txt.StatVerChoose[lang]
                             },
-                            class: 'stat_ver_choose'
-                        }
-                    ],
-                    class: 'a_section_head stat_ver_choose_wrap'
+                            {
+                                span: {
+                                    select: '',
+                                    options: this_avatar_vers[0]
+                                },
+                                class: 'stat_ver_choose'
+                            }
+                        ],
+                        class: 'a_section_head stat_ver_choose_wrap'
+                    },
+                    class: 'a_section',
+                    when: !this_avatar.isDev
                 },
-                class: 'a_section'
-            })
+                {
+                    div: {
+                        p: txt.DEV[lang]
+                    },
+                    class: 'a_section',
+                    when: this_avatar.isDev
+                }
+            ])
             $('.stat_ver_choose select').val(this_avatar_cur_ver)
             this_avatar.Skills.forEach(function (s, i) {
                 var S = _avatarskill[s][this_avatar_cur_ver]
@@ -848,7 +927,7 @@ $(function () {
                         {
                             div: [
                                 {
-                                    img: imgpre + 'images/AvatarSkill/' + S.Icon + '.png',
+                                    img: imgpre + 'images/skillicons/' + this_avatar._id + '/' + S.Icon + '.png',
                                     class: 'head_left'
                                 },
                                 {
@@ -1000,24 +1079,34 @@ $(function () {
             })
         }
         if (i == 3) {
-            $('.mon_body').render({
-                div: {
-                    div: [
-                        {
-                            span: txt.StatVerChoose[lang]
-                        },
-                        {
-                            span: {
-                                select: '',
-                                options: this_avatar_vers[0]
+            $('.mon_body').render([
+                {
+                    div: {
+                        div: [
+                            {
+                                span: txt.StatVerChoose[lang]
                             },
-                            class: 'stat_ver_choose'
-                        }
-                    ],
-                    class: 'a_section_head stat_ver_choose_wrap'
+                            {
+                                span: {
+                                    select: '',
+                                    options: this_avatar_vers[0]
+                                },
+                                class: 'stat_ver_choose'
+                            }
+                        ],
+                        class: 'a_section_head stat_ver_choose_wrap'
+                    },
+                    class: 'a_section',
+                    when: !this_avatar.isDev
                 },
-                class: 'a_section'
-            })
+                {
+                    div: {
+                        p: txt.DEV[lang]
+                    },
+                    class: 'a_section',
+                    when: this_avatar.isDev
+                }
+            ])
             $('.stat_ver_choose select').val(this_avatar_cur_ver)
             ST = _avatarskilltree[this_avatar._id][this_avatar_cur_ver]
             $('.mon_body').render([
@@ -1059,7 +1148,8 @@ $(function () {
                             },
                             class: 'a_section_content mon_head',
                             style: {
-                                'padding-bottom': '10px'
+                                'margin-bottom': '20px',
+                                'margin-top': '-10px'
                             }
                         }
                     ],
@@ -1070,7 +1160,7 @@ $(function () {
                         {
                             div: [
                                 {
-                                    img: imgpre + 'images/AvatarSkill/' + ST.Tree1.Icon + '.png',
+                                    img: imgpre + 'images/skillicons/' + this_avatar._id + '/' + ST.Tree1.Icon + '.png',
                                     class: 'head_left'
                                 },
                                 {
@@ -1097,7 +1187,7 @@ $(function () {
                         {
                             div: [
                                 {
-                                    img: imgpre + 'images/AvatarSkill/' + ST.Tree2.Icon + '.png',
+                                    img: imgpre + 'images/skillicons/' + this_avatar._id + '/' + ST.Tree2.Icon + '.png',
                                     class: 'head_left'
                                 },
                                 {
@@ -1124,7 +1214,7 @@ $(function () {
                         {
                             div: [
                                 {
-                                    img: imgpre + 'images/AvatarSkill/' + ST.Tree3.Icon + '.png',
+                                    img: imgpre + 'images/skillicons/' + this_avatar._id + '/' + ST.Tree3.Icon + '.png',
                                     class: 'head_left'
                                 },
                                 {
@@ -1149,24 +1239,34 @@ $(function () {
             ])
         }
         if (i == 4) {
-            $('.mon_body').render({
-                div: {
-                    div: [
-                        {
-                            span: txt.StatVerChoose[lang]
-                        },
-                        {
-                            span: {
-                                select: '',
-                                options: this_avatar_vers[0]
+            $('.mon_body').render([
+                {
+                    div: {
+                        div: [
+                            {
+                                span: txt.StatVerChoose[lang]
                             },
-                            class: 'stat_ver_choose'
-                        }
-                    ],
-                    class: 'a_section_head stat_ver_choose_wrap'
+                            {
+                                span: {
+                                    select: '',
+                                    options: this_avatar_vers[0]
+                                },
+                                class: 'stat_ver_choose'
+                            }
+                        ],
+                        class: 'a_section_head stat_ver_choose_wrap'
+                    },
+                    class: 'a_section',
+                    when: !this_avatar.isDev
                 },
-                class: 'a_section'
-            })
+                {
+                    div: {
+                        p: txt.DEV[lang]
+                    },
+                    class: 'a_section',
+                    when: this_avatar.isDev
+                }
+            ])
             $('.stat_ver_choose select').val(this_avatar_cur_ver)
             this_avatar.Ranks.forEach(function (s, i) {
                 var S = _avatarrank[s]
@@ -1175,7 +1275,7 @@ $(function () {
                         {
                             div: [
                                 {
-                                    img: imgpre + 'images/AvatarSkill/' + S[this_avatar_cur_ver].Icon + '.png',
+                                    img: imgpre + 'images/skillicons/' + this_avatar._id + '/' + S[this_avatar_cur_ver].Icon + '.png',
                                     class: 'head_left'
                                 },
                                 {
@@ -1295,6 +1395,18 @@ $(function () {
         this_weapon = _weapon[ai]
         this_weapon_vers = getVer(_weaponskill[this_weapon.Skill])
         this_weapon_cur_ver = this_weapon_vers[1]
+        var mats = this_weapon.Mat
+        if (!mats) {
+            mats = [112003, 112003]
+        }
+        var stats = this_weapon.Stats
+        if (!stats) {
+            stats = [0, 0, 0, 0, 0, 0, {
+                HP: 0,
+                ATK: 0,
+                DEF: 0
+            }]
+        }
         poplayer({
             header: this_weapon.Name[lang] + txt.Affix[lang],
             width: '100%',
@@ -1306,7 +1418,7 @@ $(function () {
                                 div: [
                                     {
                                         div: {
-                                            img: imgpre + 'images/Weapon/' + this_weapon.Pic,
+                                            img: imgpre + 'images/lightconemaxfigures/' + this_weapon.Pic,
                                         },
                                         class: 'weapon_left'
                                     },
@@ -1329,7 +1441,8 @@ $(function () {
                                                                 width: '13%',
                                                                 'max-width': '48px',
                                                                 margin: '9px auto',
-                                                            }
+                                                            },
+                                                            when: this_weapon.Path
                                                         },
                                                         style: {
                                                             'text-align': 'center'
@@ -1349,7 +1462,7 @@ $(function () {
                                                                 img: imgpre + 'images/Misc/_HP.png'
                                                             },
                                                             {
-                                                                span: ' <b>' + (this_weapon.Stats[6].HP[0] + 79 * this_weapon.Stats[6].HP[1]).toFixed(1) + '</b> '
+                                                                span: ' <b>' + (stats[6].HP[0] + 79 * stats[6].HP[1]).toFixed(1) + '</b> '
                                                             }
                                                         ],
                                                         class: 'addprop_'
@@ -1360,7 +1473,7 @@ $(function () {
                                                                 img: imgpre + 'images/Misc/_ATK.png'
                                                             },
                                                             {
-                                                                span: ' <b>' + (this_weapon.Stats[6].ATK[0] + 79 * this_weapon.Stats[6].ATK[1]).toFixed(2) + '</b> '
+                                                                span: ' <b>' + (stats[6].ATK[0] + 79 * stats[6].ATK[1]).toFixed(2) + '</b> '
                                                             }
                                                         ],
                                                         class: 'addprop_'
@@ -1371,7 +1484,7 @@ $(function () {
                                                                 img: imgpre + 'images/Misc/_DEF.png'
                                                             },
                                                             {
-                                                                span: ' <b>' + (this_weapon.Stats[6].DEF[0] + 79 * this_weapon.Stats[6].DEF[1]).toFixed(2) + '</b> '
+                                                                span: ' <b>' + (stats[6].DEF[0] + 79 * stats[6].DEF[1]).toFixed(2) + '</b> '
                                                             }
                                                         ],
                                                         class: 'addprop_'
@@ -1432,16 +1545,16 @@ $(function () {
                                         {
                                             div: [
                                                 {
-                                                    img: imgpre + "images/" + _item[this_weapon.Mat[0] - 2].Icon
+                                                    img: imgpre + "images/" + _item[mats[0] - 2].Icon
                                                 },
                                                 {
-                                                    img: imgpre + "images/" + _item[this_weapon.Mat[0] - 1].Icon
+                                                    img: imgpre + "images/" + _item[mats[0] - 1].Icon
                                                 },
                                                 {
-                                                    img: imgpre + "images/" + _item[this_weapon.Mat[0]].Icon
+                                                    img: imgpre + "images/" + _item[mats[0]].Icon
                                                 },
                                                 {
-                                                    p: _item[this_weapon.Mat[0]].Name[lang],
+                                                    p: _item[mats[0]].Name[lang],
                                                     style: {
                                                         'font-weight': 'bold'
                                                     }
@@ -1455,16 +1568,16 @@ $(function () {
                                         {
                                             div: [
                                                 {
-                                                    img: imgpre + "images/" + _item[this_weapon.Mat[1] - 2].Icon
+                                                    img: imgpre + "images/" + _item[mats[1] - 2].Icon
                                                 },
                                                 {
-                                                    img: imgpre + "images/" + _item[this_weapon.Mat[1] - 1].Icon
+                                                    img: imgpre + "images/" + _item[mats[1] - 1].Icon
                                                 },
                                                 {
-                                                    img: imgpre + "images/" + _item[this_weapon.Mat[1]].Icon
+                                                    img: imgpre + "images/" + _item[mats[1]].Icon
                                                 },
                                                 {
-                                                    p: _item[this_weapon.Mat[1]].Name[lang],
+                                                    p: _item[mats[1]].Name[lang],
                                                     style: {
                                                         'font-weight': 'bold'
                                                     }
@@ -1485,7 +1598,8 @@ $(function () {
                                     }
                                 },
                             ],
-                            class: 'a_section'
+                            class: 'a_section',
+                            when: this_weapon.Mat
                         },
                     ],
                     class: 'mon_body'

@@ -50,11 +50,11 @@ var computer_ = {
         },
         "Abyss_Reminder": {
             "CH": "<color style='color:#0066FF;'>玉衡杯数据库 abyss.wiki</color>",
-            "EN": "<color style='color:#0066FF;'>HomDGCat Wiki t.me/homdgcat</color>"
+            "EN": "<color style='color:#0066FF;'>homdgcat.wiki | t.me/homdgcat</color>"
         },
         "Abyss_Reminder2": {
             "CH": "<color style='color:#0066FF;'>玉衡杯数据库 abyss.wiki</color> <color style='color:#FF0000;'>⚠</color> <b>玩家自创阵容</b>",
-            "EN": "<color style='color:#0066FF;'>HomDGCat Wiki t.me/homdgcat</color> <color style='color:#FF0000;'>⚠</color> <b>Fan-Made Lineup</b>"
+            "EN": "<color style='color:#0066FF;'>homdgcat.wiki | t.me/homdgcat</color> <color style='color:#FF0000;'>⚠</color> <b>Fan-Made Lineup</b>"
         },
         "Abyss_DPS_Show": {
             "CH": "输出量：",
@@ -62,11 +62,11 @@ var computer_ = {
         },
         "Computer_Show": {
             "CH": "玉衡杯数据库 mons.wiki",
-            "EN": "HomDGCat Wiki t.me/homdgcat"
+            "EN": "homdgcat.wiki | t.me/homdgcat"
         },
         "Abyss_Show": {
             "CH": "玉衡杯数据库 abyss.wiki",
-            "EN": "HomDGCat Wiki t.me/homdgcat"
+            "EN": "homdgcat.wiki | t.me/homdgcat"
         },
         "ComputerTitle": {
             "CH": "玉衡杯数据库",
@@ -6042,12 +6042,12 @@ var links = [
     },
     {
         "Name": {
-            "CH": "角色 武器 圣遗物",
-            "EN": "<color style='font-size:17px;'>Characters Weapons Artifacts</color>"
+            "CH": "<b>星穹铁道</b>",
+            "EN": "<b>Star Rail</b>"
         },
         "Link": {
-            "CH": "/gi/char",
-            "EN": "/gi/char"
+            "CH": "/sr",
+            "EN": "/sr"
         }
     },
     {
@@ -6058,6 +6058,16 @@ var links = [
         "Link": {
             "CH": "/gi/monster",
             "EN": "/gi/monster"
+        }
+    },
+    {
+        "Name": {
+            "CH": "角色 武器 圣遗物",
+            "EN": "<color style='font-size:17px;'>Characters Weapons Artifacts</color>"
+        },
+        "Link": {
+            "CH": "/gi/char",
+            "EN": "/gi/char"
         }
     },
     {

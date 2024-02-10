@@ -42,6 +42,8 @@ $(function () {
     var cm = {}
     var skill_phase = 0
 
+    var show_sch = 0
+
     if ($('#MONSTER').val() && (_monsterindex[$('#MONSTER').val()] != undefined)) popMons(_monsterindex[$('#MONSTER').val()])
     if ($('#MONSTERID').val() && (_monsterindex[$('#MONSTERID').val()] != undefined)) popMons(_monsterindex[$('#MONSTERID').val()])
 
@@ -49,12 +51,23 @@ $(function () {
         template: {
             div: [
                 {
+                    p: '+',
+                    style: {
+                        'font-weight': 'bold',
+                        'font-size': '28px',
+                        'text-align': 'center',
+                        margin: '10px auto -10px',
+                        cursor: 'pointer'
+                    },
+                    class: 'toggle'
+                },
+                {
                     section: {
                         schedule: `[[Name/${lang}]]`,
                         data: _kingdoms,
                         a: {
                             class: function (d) {
-                                return (d.data._id == 9999) ? 'active' : ''
+                                return ((d.data._id == 9999) ? 'active' : '') + ((d.data._id == 9999 || _focus.includes(d.data._id)) ? '' : ' shh')
                             }
                         },
                         event: {
@@ -83,75 +96,97 @@ $(function () {
         }
     })
 
+    if (!show_sch) {
+        $('.shh').hide()
+    }
+
     monsterRender(9999)
 
     function monsterRender(kid) {
         $('.monster_card_area').empty()
-        _monster.forEach(function (me, ind) {
+        _monster.forEach(function (t, ind) {
             if (kid == 1000) {
                 show = true
             } else if (kid == 1001) {
-                show = me.Name.EN.includes('Bug')
+                show = this.Name.EN.includes('Bug')
             } else if (kid == 1002) {
-                show = me.Name.EN.includes('Complete')
+                show = t.Name.EN.includes('Complete')
             } else if (kid == 1003) {
-                show = me.Name.EN.includes('Illusion')
+                show = t.Name.EN.includes('Illusion')
             } else if (kid == 9999) {
-                show = me.New
+                show = t.New
             } else if (kid == 7000) {
-                show = me._id.toString()[0] == "7"
+                show = t._id.toString()[0] == "7"
             } else if (kid == 99) {
-                show = (me.Camp == 0) && (me._id < 9999999)
+                show = (t.Camp == 0) && (t._id < 9999999)
             } else {
-                show = (me.Camp == kid) && (me._id < 9999999)
+                show = (t.Camp == kid) && (t._id < 9999999)
             }
             if (show) {
                 $('.monster_card_area').render({
                     template: {
-                        span: [
+                        div: [
                             {
-                                img: imgpre + 'images/' + me.Icon,
-                                class: 'monicon'
+                                p: t.Name[lang],
+                                style: {
+                                    'font-weight': 'bold'
+                                },
+                                class: 'avatar-name'
+                            },
+                            {
+                                img: imgpre + `images/${t.Figure}`,
+                                class: 'avatar-head'
                             },
                             {
                                 div: [
                                     {
-                                        span: me.Name[lang],
-                                        class: 'monname'
+                                        img: function (k) {
+                                            return imgpre + 'images/Element/' + k.data + '.png'
+                                        },
+                                        style: {
+                                            width: '17%',
+                                            'min-width': '22px',
+                                            margin: '0px 3px',
+                                        },
+                                        data: t.Weak
                                     },
                                     {
-                                        br: ''
+                                        span: '<b><color style="color:#99ffff;">' + (t.Stats ? t.Stats.Stance.toFixed(0) : '') + '</color></b>',
+                                        class: 'avatar-stat',
+                                        style: {
+                                            'margin': '0px 8px',
+                                            'line-height': '1',
+                                            'display': 'flex',
+                                            'flex-direction': 'column',
+                                            'justify-content': 'center'
+                                        }
                                     },
+                                ],
+                                style: {
+                                    display: 'flex',
+                                    'justify-content': 'center',
+                                    'flex-wrap': 'wrap',
+                                    'margin-top': '10px',
+                                    'margin-bottom': '0px'
+                                },
+                            },
+                            {
+                                p: [
                                     {
                                         span: [
                                             {
-                                                span: {
-                                                    img: function (k) {
-                                                        return imgpre + 'images/Element/' + k.data + '.png'
-                                                    },
-                                                    class: 'elem',
-                                                    data: me.Weak
-                                                },
-                                                class: 'monelem'
+                                                img: imgpre + 'images/Misc/_HP.png',
+                                                class: 'avatar-staticon'
                                             },
-                                            {
-                                                span: function () {
-                                                    var s = 'HP <b><color style="color:#cc0000;">' + me.Stats.HP.toString() + '</color></b>'
-                                                    if (me.HPCount && me.HPCount > 1) {
-                                                        s += '×' + me.HPCount
-                                                    }
-                                                    return s
-                                                },
-                                                when: !(me.StatsExtra && me.StatsExtra.HP),
-                                            },
+                                            '<b><color style="color:#f29e38;">' + t.Stats.HP.toString() + '</color></b>' + ((t.HPCount && t.HPCount > 1) ? ('×' + t.HPCount) : '')
                                         ],
-                                        class: 'monname_'
+                                        class: 'avatar-stat'
                                     },
                                 ],
-                                class: 'monright'
-                            }
+                                when: t.Stats
+                            },
                         ],
-                        class: 'monster_card',
+                        class: 'avatar-card hover-shadow',
                         a: {
                             'data-id': ind + 1
                         }
@@ -392,7 +427,7 @@ $(function () {
                             }
                         }
                     ],
-                    class: 'a_section_small_4'
+                    class: 'a_section_small'
                 },
                 {
                     div: [
@@ -401,78 +436,98 @@ $(function () {
                             class: 'a_section_head'
                         },
                         {
-                            div: {
-                                table: function (k) {
-                                    elemlist.forEach(function (e) {
-                                        $(k.container).render({
-                                            template: {
-                                                tr: [
-                                                    {
-                                                        td: {
-                                                            img: imgpre + 'images/Element/' + e + '.png',
-                                                            class: 'statpageicon'
-                                                        }
-                                                    },
-                                                    {
-                                                        td: cur_mon.RESBase[e] ? (parseInt(cur_mon.RESBase[e] * 100) + '%') : '0%'
-                                                    }
-                                                ]
-                                            }
-                                        })
-                                    })
-                                }
-                            },
-                            class: 'a_section_content'
-                        },
-                    ],
-                    class: 'a_section_small_3'
-                },
-                {
-                    div: [
-                        {
-                            div: txt.MonsterLowerStats[2][lang],
-                            class: 'a_section_head'
-                        },
-                        {
-                            div: {
-                                table: function (k) {
-                                    debufflist.forEach(function (e) {
-                                        if (cur_mon.DebuffRES && cur_mon.DebuffRES[e.ID]) {
-                                            if (cur_mon.DebuffRES[e.ID] != 1) {
-                                                var res = parseInt(cur_mon.DebuffRES[e.ID] * 100) + '%'
-                                            } else {
-                                                var res = txt.Immune[lang]
-                                            }
+                            div: [
+                                {
+                                    table: function (k) {
+                                        elemlist.forEach(function (e) {
                                             $(k.container).render({
                                                 template: {
                                                     tr: [
                                                         {
                                                             td: {
-                                                                img: imgpre + 'images/Debuff/' + e.Icon + '.png',
+                                                                img: imgpre + 'images/Element/' + e + '.png',
                                                                 class: 'statpageicon'
                                                             }
                                                         },
                                                         {
-                                                            td: e.Name[lang]
-                                                        },
-                                                        {
-                                                            td: res,
-                                                            style: {
-                                                                'padding-left': '15px'
-                                                            }
+                                                            td: cur_mon.RESBase[e] ? (parseInt(cur_mon.RESBase[e] * 100) + '%') : '0%'
                                                         }
                                                     ]
                                                 }
                                             })
+                                        })
+                                    }
+                                },
+                                {
+                                    table: function (k) {
+                                        var count = 0
+                                        debufflist.forEach(function (e) {
+                                            if (cur_mon.DebuffRES && cur_mon.DebuffRES[e.ID]) {
+                                                if (cur_mon.DebuffRES[e.ID] != 1) {
+                                                    var res = parseInt(cur_mon.DebuffRES[e.ID] * 100) + '%'
+                                                } else {
+                                                    var res = txt.Immune[lang]
+                                                }
+                                                $(k.container).render({
+                                                    template: {
+                                                        tr: [
+                                                            {
+                                                                td: {
+                                                                    img: imgpre + 'images/Debuff/' + e.Icon + '.png',
+                                                                    class: 'statpageicon'
+                                                                }
+                                                            },
+                                                            {
+                                                                td: e.Name[lang]
+                                                            },
+                                                            {
+                                                                td: res,
+                                                                style: {
+                                                                    'padding-left': '15px'
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                })
+                                                count += 1
+                                            }
+                                        })
+                                        while (count < elemlist.length) {
+                                            $(k.container).render({
+                                                template: {
+                                                    tr: [
+                                                        {
+                                                            td: '1',
+                                                            style: {
+                                                                opacity: '0'
+                                                            }
+                                                        },
+                                                        {
+                                                            td: ''
+                                                        },
+                                                        {
+                                                            td: ''
+                                                        }
+                                                    ]
+                                                }
+                                            })
+                                            count += 1
                                         }
-                                    })
+                                    },
+                                    style: {
+                                        'padding-left': '10%'
+                                    }
                                 }
-                            },
-                            class: 'a_section_content'
-                        }
+                            ],
+                            class: 'a_section_content',
+                            style: {
+                                display: 'flex',
+                                'flex-wrap': 'wrap',
+                            }
+                        },
                     ],
-                    class: 'a_section_smallsmall'
-                }
+                    class: 'a_section_small'
+                },
             ]
         })
         renderStat(cur_mon)
@@ -534,7 +589,40 @@ $(function () {
                 template: {
                     div: [
                         {
-                            div: (skill.Threat ? "<color style='color:#f29e38;font-weight:normal;'>⚠ </color>" : '') + skill.Name[lang] + (skill.SP ? "<span style='font-size:14px;color:#fff;font-weight:normal;margin-left:10px;margin-right:5px;float:right;'>" + txt.HitSP[lang] + skill.SP.toFixed(0) + "</span>" : ''),
+                            div: [
+                                (skill.Threat ? "<color style='color:#f29e38;font-weight:normal;'>⚠ </color>" : '') + skill.Name[lang],
+                                {
+                                    span: [
+                                        {
+                                            img: imgpre + 'images/Addprop/IconEnergyRecovery.png',
+                                            style: {
+                                                width: '26px',
+                                                position: 'relative',
+                                                top: '-2px'
+                                            }
+                                        },
+                                        {
+                                            span: '+' + (skill.SP ? skill.SP : 0).toFixed(0),
+                                            style: {
+                                                'font-size': '14px',
+                                                color: '#fff',
+                                                'font-weight': 'normal',
+                                                float: 'right',
+                                                'margin-left': '0px',
+                                                'margin-right': '0px',
+                                            },
+                                        }
+                                    ],
+                                    style: {
+                                        'margin-left': '10px',
+                                        'margin-right': '5px',
+                                        'margin-top': '3px',
+                                        'margin-bottom': '-10px',
+                                        float: 'right'
+                                    },
+                                    when: skill.SP
+                                }
+                            ],
                             class: 'a_section_head'
                         },
                         {
@@ -873,8 +961,17 @@ $(function () {
         $(".mon_head_option[data-tu='Skills']").click()
     })
 
-    $('body').on('click', '.monster_card', function () {
+    $('body').on('click', '.avatar-card', function () {
         popMons(parseInt($(this).attr('data-id')) - 1)
+    })
+
+    $('body').on('click', '.toggle', function () {
+        show_sch = 1 - show_sch
+        if (show_sch) {
+            $('.shh').show()
+        } else {
+            $('.shh').hide()
+        }
     })
 
     function renderStatus(L) {

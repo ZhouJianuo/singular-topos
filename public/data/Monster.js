@@ -77,8 +77,8 @@ var _monster = [
         ],
         "Rank": "BigBoss",
         "Camp": 7,
-        "Icon": "MonsterIcon/keq.png",
-        "Figure": "MonsterFigure/keq.png",
+        "Icon": "mostericon/keq.png",
+        "Figure": "monsterfigure/keq.png",
         "New": true,
         "Csxylic": "SCNonCategorized/9001042"
     },
@@ -125,8 +125,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1002011.png",
-        "Figure": "MonsterFigure/Monster_1002011.png",
+        "Icon": "mostericon/Monster_1002011.png",
+        "Figure": "monsterfigure/Monster_1002011.png",
+        "AllSkills": [
+            100201101
+        ],
         "Csxylic": "SCNonCategorized/1002011"
     },
     {
@@ -172,8 +175,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1002011.png",
-        "Figure": "MonsterFigure/Monster_1002012.png",
+        "Icon": "mostericon/Monster_1002011.png",
+        "Figure": "monsterfigure/Monster_1002012.png",
+        "AllSkills": [
+            100201201
+        ],
         "Csxylic": "SCNonCategorized/1002012"
     },
     {
@@ -219,8 +225,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1002017.png",
-        "Figure": "MonsterFigure/Monster_1002013.png"
+        "Icon": "mostericon/Monster_1002017.png",
+        "Figure": "monsterfigure/Monster_1002013.png",
+        "AllSkills": [
+            100201301
+        ]
     },
     {
         "_id": 1002014,
@@ -265,8 +274,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1002017.png",
-        "Figure": "MonsterFigure/Monster_1002014.png"
+        "Icon": "mostericon/Monster_1002017.png",
+        "Figure": "monsterfigure/Monster_1002014.png",
+        "AllSkills": [
+            100201401
+        ]
     },
     {
         "_id": 1002015,
@@ -317,8 +329,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1002011.png",
-        "Figure": "MonsterFigure/Monster_1002011.png"
+        "Icon": "mostericon/Monster_1002011.png",
+        "Figure": "monsterfigure/Monster_1002011.png",
+        "AllSkills": [
+            100201501
+        ]
     },
     {
         "_id": 100201501,
@@ -369,8 +384,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1002011.png",
-        "Figure": "MonsterFigure/Monster_1002011.png"
+        "Icon": "mostericon/Monster_1002011.png",
+        "Figure": "monsterfigure/Monster_1002011.png",
+        "AllSkills": [
+            100201501
+        ]
     },
     {
         "_id": 1002016,
@@ -421,8 +439,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1002011.png",
-        "Figure": "MonsterFigure/Monster_1002012.png"
+        "Icon": "mostericon/Monster_1002011.png",
+        "Figure": "monsterfigure/Monster_1002012.png",
+        "AllSkills": [
+            100201601
+        ]
     },
     {
         "_id": 100201601,
@@ -473,8 +494,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1002011.png",
-        "Figure": "MonsterFigure/Monster_1002012.png"
+        "Icon": "mostericon/Monster_1002011.png",
+        "Figure": "monsterfigure/Monster_1002012.png",
+        "AllSkills": [
+            100201601
+        ]
     },
     {
         "_id": 1002017,
@@ -525,8 +549,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1002017.png",
-        "Figure": "MonsterFigure/Monster_1002013.png",
+        "Icon": "mostericon/Monster_1002017.png",
+        "Figure": "monsterfigure/Monster_1002013.png",
+        "AllSkills": [
+            100201701
+        ],
         "Csxylic": "SCNonCategorized/1002017"
     },
     {
@@ -578,8 +605,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1002017.png",
-        "Figure": "MonsterFigure/Monster_1002013.png",
+        "Icon": "mostericon/Monster_1002017.png",
+        "Figure": "monsterfigure/Monster_1002013.png",
+        "AllSkills": [
+            100201701
+        ],
         "Csxylic": "SCNonCategorized/1002017"
     },
     {
@@ -631,8 +661,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1002017.png",
-        "Figure": "MonsterFigure/Monster_1002014.png",
+        "Icon": "mostericon/Monster_1002017.png",
+        "Figure": "monsterfigure/Monster_1002014.png",
+        "AllSkills": [
+            100201801
+        ],
         "Csxylic": "SCNonCategorized/1002018"
     },
     {
@@ -684,8 +717,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1002017.png",
-        "Figure": "MonsterFigure/Monster_1002014.png",
+        "Icon": "mostericon/Monster_1002017.png",
+        "Figure": "monsterfigure/Monster_1002014.png",
+        "AllSkills": [
+            100201801
+        ],
         "Csxylic": "SCNonCategorized/1002018"
     },
     {
@@ -729,10 +765,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png",
-        "Figure": "MonsterFigure/Monster_1002020.png",
+        "Icon": "mostericon/Monster_1002020.png",
+        "Figure": "monsterfigure/Monster_1002020.png",
         "Status": [
             210020201
+        ],
+        "AllSkills": [
+            100202001,
+            100202002
         ],
         "Csxylic": "SCJarilo-VI/1002020"
     },
@@ -777,10 +817,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png",
-        "Figure": "MonsterFigure/Monster_1002020.png",
+        "Icon": "mostericon/Monster_1002020.png",
+        "Figure": "monsterfigure/Monster_1002020.png",
         "Status": [
             210020201
+        ],
+        "AllSkills": [
+            100202001,
+            100202002
         ],
         "Csxylic": "SCJarilo-VI/1002020"
     },
@@ -825,10 +869,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png",
-        "Figure": "MonsterFigure/Monster_1002020.png",
+        "Icon": "mostericon/Monster_1002020.png",
+        "Figure": "monsterfigure/Monster_1002020.png",
         "Status": [
             210020201
+        ],
+        "AllSkills": [
+            100202001,
+            100202002
         ],
         "Csxylic": "SCJarilo-VI/1002020"
     },
@@ -873,10 +921,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png",
-        "Figure": "MonsterFigure/Monster_1002020.png",
+        "Icon": "mostericon/Monster_1002020.png",
+        "Figure": "monsterfigure/Monster_1002020.png",
         "Status": [
             210020201
+        ],
+        "AllSkills": [
+            100202001,
+            100202002
         ],
         "Csxylic": "SCJarilo-VI/1002020"
     },
@@ -921,10 +973,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png",
-        "Figure": "MonsterFigure/Monster_1002020.png",
+        "Icon": "mostericon/Monster_1002020.png",
+        "Figure": "monsterfigure/Monster_1002020.png",
         "Status": [
             210020201
+        ],
+        "AllSkills": [
+            100202001,
+            100202002
         ],
         "Csxylic": "SCJarilo-VI/1002020"
     },
@@ -972,10 +1028,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png",
-        "Figure": "MonsterFigure/Monster_1002020.png",
+        "Icon": "mostericon/Monster_1002020.png",
+        "Figure": "monsterfigure/Monster_1002020.png",
         "Status": [
             210020201
+        ],
+        "AllSkills": [
+            100202001,
+            100202002
         ],
         "Csxylic": "SCJarilo-VI/1002020"
     },
@@ -1020,10 +1080,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png",
-        "Figure": "MonsterFigure/Monster_1002020.png",
+        "Icon": "mostericon/Monster_1002020.png",
+        "Figure": "monsterfigure/Monster_1002020.png",
         "Status": [
             210020201
+        ],
+        "AllSkills": [
+            100202001,
+            100202002
         ],
         "Csxylic": "SCJarilo-VI/1002020"
     },
@@ -1068,10 +1132,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png",
-        "Figure": "MonsterFigure/Monster_1002020.png",
+        "Icon": "mostericon/Monster_1002020.png",
+        "Figure": "monsterfigure/Monster_1002020.png",
         "Status": [
             210020201
+        ],
+        "AllSkills": [
+            100202001,
+            100202002
         ],
         "Csxylic": "SCJarilo-VI/1002020"
     },
@@ -1116,10 +1184,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png",
-        "Figure": "MonsterFigure/Monster_1002020.png",
+        "Icon": "mostericon/Monster_1002020.png",
+        "Figure": "monsterfigure/Monster_1002020.png",
         "Status": [
             210020201
+        ],
+        "AllSkills": [
+            100202001,
+            100202002
         ],
         "Csxylic": "SCJarilo-VI/1002020"
     },
@@ -1164,10 +1236,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png",
-        "Figure": "MonsterFigure/Monster_1002020.png",
+        "Icon": "mostericon/Monster_1002020.png",
+        "Figure": "monsterfigure/Monster_1002020.png",
         "Status": [
             210020201
+        ],
+        "AllSkills": [
+            100202001,
+            100202002
         ],
         "Csxylic": "SCJarilo-VI/1002020"
     },
@@ -1215,10 +1291,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png",
-        "Figure": "MonsterFigure/Monster_1002020.png",
+        "Icon": "mostericon/Monster_1002020.png",
+        "Figure": "monsterfigure/Monster_1002020.png",
         "Status": [
             210020201
+        ],
+        "AllSkills": [
+            100202001,
+            100202002
         ],
         "Csxylic": "SCJarilo-VI/1002020"
     },
@@ -1263,10 +1343,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png",
-        "Figure": "MonsterFigure/Monster_1002020.png",
+        "Icon": "mostericon/Monster_1002020.png",
+        "Figure": "monsterfigure/Monster_1002020.png",
         "Status": [
             210020201
+        ],
+        "AllSkills": [
+            100202001,
+            100202002
         ],
         "Csxylic": "SCJarilo-VI/1002020"
     },
@@ -1311,10 +1395,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png",
-        "Figure": "MonsterFigure/Monster_1002020.png",
+        "Icon": "mostericon/Monster_1002020.png",
+        "Figure": "monsterfigure/Monster_1002020.png",
         "Status": [
             210020201
+        ],
+        "AllSkills": [
+            100202001,
+            100202002
         ],
         "Csxylic": "SCJarilo-VI/1002020"
     },
@@ -1359,10 +1447,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png",
-        "Figure": "MonsterFigure/Monster_1002020.png",
+        "Icon": "mostericon/Monster_1002020.png",
+        "Figure": "monsterfigure/Monster_1002020.png",
         "Status": [
             210020201
+        ],
+        "AllSkills": [
+            100202001,
+            100202002
         ],
         "Csxylic": "SCJarilo-VI/1002020"
     },
@@ -1410,10 +1502,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png",
-        "Figure": "MonsterFigure/Monster_1002020.png",
+        "Icon": "mostericon/Monster_1002020.png",
+        "Figure": "monsterfigure/Monster_1002020.png",
         "Status": [
             210020201
+        ],
+        "AllSkills": [
+            100202001,
+            100202002
         ],
         "Csxylic": "SCJarilo-VI/1002020"
     },
@@ -1458,10 +1554,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png",
-        "Figure": "MonsterFigure/Monster_1002020.png",
+        "Icon": "mostericon/Monster_1002020.png",
+        "Figure": "monsterfigure/Monster_1002020.png",
         "Status": [
             210020201
+        ],
+        "AllSkills": [
+            100202001,
+            100202002
         ],
         "Csxylic": "SCJarilo-VI/1002020"
     },
@@ -1506,10 +1606,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002020.png",
-        "Figure": "MonsterFigure/Monster_1002020.png",
+        "Icon": "mostericon/Monster_1002020.png",
+        "Figure": "monsterfigure/Monster_1002020.png",
         "Status": [
             210020201
+        ],
+        "AllSkills": [
+            100202001,
+            100202002
         ],
         "Csxylic": "SCJarilo-VI/1002020"
     },
@@ -1557,8 +1661,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1002020.png",
-        "Figure": "MonsterFigure/Monster_1002020.png"
+        "Icon": "mostericon/Monster_1002020.png",
+        "Figure": "monsterfigure/Monster_1002020.png",
+        "AllSkills": [
+            100202101,
+            100202102
+        ]
     },
     {
         "_id": 1002030,
@@ -1607,11 +1715,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002030.png",
-        "Figure": "MonsterFigure/Monster_1002030.png",
+        "Icon": "mostericon/Monster_1002030.png",
+        "Figure": "monsterfigure/Monster_1002030.png",
         "Status": [
             210020301,
             210020302
+        ],
+        "AllSkills": [
+            100203001,
+            100203002
         ],
         "Csxylic": "SCJarilo-VI/1002030"
     },
@@ -1662,11 +1774,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002030.png",
-        "Figure": "MonsterFigure/Monster_1002030.png",
+        "Icon": "mostericon/Monster_1002030.png",
+        "Figure": "monsterfigure/Monster_1002030.png",
         "Status": [
             210020301,
             210020302
+        ],
+        "AllSkills": [
+            100203001,
+            100203002
         ],
         "Csxylic": "SCJarilo-VI/1002030"
     },
@@ -1717,11 +1833,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002030.png",
-        "Figure": "MonsterFigure/Monster_1002030.png",
+        "Icon": "mostericon/Monster_1002030.png",
+        "Figure": "monsterfigure/Monster_1002030.png",
         "Status": [
             210020301,
             210020302
+        ],
+        "AllSkills": [
+            100203001,
+            100203002
         ],
         "Csxylic": "SCJarilo-VI/1002030"
     },
@@ -1772,11 +1892,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002030.png",
-        "Figure": "MonsterFigure/Monster_1002030.png",
+        "Icon": "mostericon/Monster_1002030.png",
+        "Figure": "monsterfigure/Monster_1002030.png",
         "Status": [
             210020301,
             210020302
+        ],
+        "AllSkills": [
+            100203001,
+            100203002
         ],
         "Csxylic": "SCJarilo-VI/1002030"
     },
@@ -1830,11 +1954,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002030.png",
-        "Figure": "MonsterFigure/Monster_1002030.png",
+        "Icon": "mostericon/Monster_1002030.png",
+        "Figure": "monsterfigure/Monster_1002030.png",
         "Status": [
             210020301,
             210020302
+        ],
+        "AllSkills": [
+            100203001,
+            100203002
         ],
         "Csxylic": "SCJarilo-VI/1002030"
     },
@@ -1885,11 +2013,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002030.png",
-        "Figure": "MonsterFigure/Monster_1002030.png",
+        "Icon": "mostericon/Monster_1002030.png",
+        "Figure": "monsterfigure/Monster_1002030.png",
         "Status": [
             210020301,
             210020302
+        ],
+        "AllSkills": [
+            100203001,
+            100203002
         ],
         "Csxylic": "SCJarilo-VI/1002030"
     },
@@ -1940,11 +2072,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002030.png",
-        "Figure": "MonsterFigure/Monster_1002030.png",
+        "Icon": "mostericon/Monster_1002030.png",
+        "Figure": "monsterfigure/Monster_1002030.png",
         "Status": [
             210020301,
             210020302
+        ],
+        "AllSkills": [
+            100203001,
+            100203002
         ],
         "Csxylic": "SCJarilo-VI/1002030"
     },
@@ -1998,11 +2134,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002030.png",
-        "Figure": "MonsterFigure/Monster_1002030.png",
+        "Icon": "mostericon/Monster_1002030.png",
+        "Figure": "monsterfigure/Monster_1002030.png",
         "Status": [
             210020301,
             210020302
+        ],
+        "AllSkills": [
+            100203001,
+            100203002
         ],
         "Csxylic": "SCJarilo-VI/1002030"
     },
@@ -2053,11 +2193,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002030.png",
-        "Figure": "MonsterFigure/Monster_1002030.png",
+        "Icon": "mostericon/Monster_1002030.png",
+        "Figure": "monsterfigure/Monster_1002030.png",
         "Status": [
             210020301,
             210020302
+        ],
+        "AllSkills": [
+            100203001,
+            100203002
         ],
         "Csxylic": "SCJarilo-VI/1002030"
     },
@@ -2111,11 +2255,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002030.png",
-        "Figure": "MonsterFigure/Monster_1002030.png",
+        "Icon": "mostericon/Monster_1002030.png",
+        "Figure": "monsterfigure/Monster_1002030.png",
         "Status": [
             210020301,
             210020302
+        ],
+        "AllSkills": [
+            100203001,
+            100203002
         ],
         "Csxylic": "SCJarilo-VI/1002030"
     },
@@ -2169,11 +2317,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002030.png",
-        "Figure": "MonsterFigure/Monster_1002030.png",
+        "Icon": "mostericon/Monster_1002030.png",
+        "Figure": "monsterfigure/Monster_1002030.png",
         "Status": [
             210020301,
             210020302
+        ],
+        "AllSkills": [
+            100203001,
+            100203002
         ],
         "Csxylic": "SCJarilo-VI/1002030"
     },
@@ -2227,11 +2379,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002030.png",
-        "Figure": "MonsterFigure/Monster_1002030.png",
+        "Icon": "mostericon/Monster_1002030.png",
+        "Figure": "monsterfigure/Monster_1002030.png",
         "Status": [
             210020301,
             210020302
+        ],
+        "AllSkills": [
+            100203001,
+            100203002
         ],
         "Csxylic": "SCJarilo-VI/1002030"
     },
@@ -2282,11 +2438,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1002030.png",
-        "Figure": "MonsterFigure/Monster_1002030.png",
+        "Icon": "mostericon/Monster_1002030.png",
+        "Figure": "monsterfigure/Monster_1002030.png",
         "Status": [
             210020301,
             210020302
+        ],
+        "AllSkills": [
+            100203001,
+            100203002
         ],
         "Csxylic": "SCJarilo-VI/1002030"
     },
@@ -2330,10 +2490,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png",
-        "Figure": "MonsterFigure/Monster_1002040.png",
+        "Icon": "mostericon/Monster_1001010.png",
+        "Figure": "monsterfigure/Monster_1002040.png",
         "Status": [
             210010101
+        ],
+        "AllSkills": [
+            100204001
         ],
         "Csxylic": "SCJarilo-VI/1002040"
     },
@@ -2380,10 +2543,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png",
-        "Figure": "MonsterFigure/Monster_1002040.png",
+        "Icon": "mostericon/Monster_1001010.png",
+        "Figure": "monsterfigure/Monster_1002040.png",
         "Status": [
             210010101
+        ],
+        "AllSkills": [
+            100204001
         ],
         "Csxylic": "SCJarilo-VI/1002040"
     },
@@ -2427,10 +2593,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png",
-        "Figure": "MonsterFigure/Monster_1002040.png",
+        "Icon": "mostericon/Monster_1001010.png",
+        "Figure": "monsterfigure/Monster_1002040.png",
         "Status": [
             210010101
+        ],
+        "AllSkills": [
+            100204001
         ],
         "Csxylic": "SCJarilo-VI/1002040"
     },
@@ -2474,10 +2643,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png",
-        "Figure": "MonsterFigure/Monster_1002040.png",
+        "Icon": "mostericon/Monster_1001010.png",
+        "Figure": "monsterfigure/Monster_1002040.png",
         "Status": [
             210010101
+        ],
+        "AllSkills": [
+            100204001
         ],
         "Csxylic": "SCJarilo-VI/1002040"
     },
@@ -2521,10 +2693,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png",
-        "Figure": "MonsterFigure/Monster_1002040.png",
+        "Icon": "mostericon/Monster_1001010.png",
+        "Figure": "monsterfigure/Monster_1002040.png",
         "Status": [
             210010101
+        ],
+        "AllSkills": [
+            100204001
         ],
         "Csxylic": "SCJarilo-VI/1002040"
     },
@@ -2568,10 +2743,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png",
-        "Figure": "MonsterFigure/Monster_1002040.png",
+        "Icon": "mostericon/Monster_1001010.png",
+        "Figure": "monsterfigure/Monster_1002040.png",
         "Status": [
             210010101
+        ],
+        "AllSkills": [
+            100204001
         ],
         "Csxylic": "SCJarilo-VI/1002040"
     },
@@ -2615,10 +2793,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png",
-        "Figure": "MonsterFigure/Monster_1002040.png",
+        "Icon": "mostericon/Monster_1001010.png",
+        "Figure": "monsterfigure/Monster_1002040.png",
         "Status": [
             210010101
+        ],
+        "AllSkills": [
+            100204001
         ],
         "Csxylic": "SCJarilo-VI/1002040"
     },
@@ -2662,10 +2843,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png",
-        "Figure": "MonsterFigure/Monster_1002040.png",
+        "Icon": "mostericon/Monster_1001010.png",
+        "Figure": "monsterfigure/Monster_1002040.png",
         "Status": [
             210010101
+        ],
+        "AllSkills": [
+            100204001
         ],
         "Csxylic": "SCJarilo-VI/1002040"
     },
@@ -2703,10 +2887,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png",
-        "Figure": "MonsterFigure/Monster_1002040.png",
+        "Icon": "mostericon/Monster_1001010.png",
+        "Figure": "monsterfigure/Monster_1002040.png",
         "Status": [
             210010101
+        ],
+        "AllSkills": [
+            100204001
         ],
         "Csxylic": "SCJarilo-VI/1002040"
     },
@@ -2747,10 +2934,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png",
-        "Figure": "MonsterFigure/Monster_1002040.png",
+        "Icon": "mostericon/Monster_1001010.png",
+        "Figure": "monsterfigure/Monster_1002040.png",
         "Status": [
             210010101
+        ],
+        "AllSkills": [
+            100204001
         ],
         "Csxylic": "SCJarilo-VI/1002040"
     },
@@ -2791,10 +2981,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png",
-        "Figure": "MonsterFigure/Monster_1002040.png",
+        "Icon": "mostericon/Monster_1001010.png",
+        "Figure": "monsterfigure/Monster_1002040.png",
         "Status": [
             210010101
+        ],
+        "AllSkills": [
+            100204001
         ],
         "Csxylic": "SCJarilo-VI/1002040"
     },
@@ -2832,10 +3025,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png",
-        "Figure": "MonsterFigure/Monster_1002040.png",
+        "Icon": "mostericon/Monster_1001010.png",
+        "Figure": "monsterfigure/Monster_1002040.png",
         "Status": [
             210010101
+        ],
+        "AllSkills": [
+            100204001
         ],
         "Csxylic": "SCJarilo-VI/1002040"
     },
@@ -2882,10 +3078,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png",
-        "Figure": "MonsterFigure/Monster_1002040.png",
+        "Icon": "mostericon/Monster_1001010.png",
+        "Figure": "monsterfigure/Monster_1002040.png",
         "Status": [
             210010101
+        ],
+        "AllSkills": [
+            100204001
         ],
         "Csxylic": "SCJarilo-VI/1002040"
     },
@@ -2929,10 +3128,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png",
-        "Figure": "MonsterFigure/Monster_1002040.png",
+        "Icon": "mostericon/Monster_1001010.png",
+        "Figure": "monsterfigure/Monster_1002040.png",
         "Status": [
             210010101
+        ],
+        "AllSkills": [
+            100204001
         ],
         "Csxylic": "SCJarilo-VI/1002040"
     },
@@ -2976,10 +3178,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png",
-        "Figure": "MonsterFigure/Monster_1002040.png",
+        "Icon": "mostericon/Monster_1001010.png",
+        "Figure": "monsterfigure/Monster_1002040.png",
         "Status": [
             210010101
+        ],
+        "AllSkills": [
+            100204001
         ],
         "Csxylic": "SCJarilo-VI/1002040"
     },
@@ -3026,10 +3231,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png",
-        "Figure": "MonsterFigure/Monster_1002040.png",
+        "Icon": "mostericon/Monster_1001010.png",
+        "Figure": "monsterfigure/Monster_1002040.png",
         "Status": [
             210010101
+        ],
+        "AllSkills": [
+            100204001
         ],
         "Csxylic": "SCJarilo-VI/1002040"
     },
@@ -3067,10 +3275,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png",
-        "Figure": "MonsterFigure/Monster_1002040.png",
+        "Icon": "mostericon/Monster_1001010.png",
+        "Figure": "monsterfigure/Monster_1002040.png",
         "Status": [
             210010101
+        ],
+        "AllSkills": [
+            100204001
         ],
         "Csxylic": "SCJarilo-VI/1002040"
     },
@@ -3108,10 +3319,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png",
-        "Figure": "MonsterFigure/Monster_1002040.png",
+        "Icon": "mostericon/Monster_1001010.png",
+        "Figure": "monsterfigure/Monster_1002040.png",
         "Status": [
             210010101
+        ],
+        "AllSkills": [
+            100204001
         ],
         "Csxylic": "SCJarilo-VI/1002040"
     },
@@ -3155,10 +3369,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png",
-        "Figure": "MonsterFigure/Monster_1002040.png",
+        "Icon": "mostericon/Monster_1001010.png",
+        "Figure": "monsterfigure/Monster_1002040.png",
         "Status": [
             210010101
+        ],
+        "AllSkills": [
+            100204001
         ],
         "Csxylic": "SCJarilo-VI/1002040"
     },
@@ -3205,10 +3422,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png",
-        "Figure": "MonsterFigure/Monster_1002040.png",
+        "Icon": "mostericon/Monster_1001010.png",
+        "Figure": "monsterfigure/Monster_1002040.png",
         "Status": [
             210010101
+        ],
+        "AllSkills": [
+            100204001
         ],
         "Csxylic": "SCJarilo-VI/1002040"
     },
@@ -3255,10 +3475,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png",
-        "Figure": "MonsterFigure/Monster_1002040.png",
+        "Icon": "mostericon/Monster_1001010.png",
+        "Figure": "monsterfigure/Monster_1002040.png",
         "Status": [
             210010101
+        ],
+        "AllSkills": [
+            100204001
         ],
         "Csxylic": "SCJarilo-VI/1002040"
     },
@@ -3296,10 +3519,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png",
-        "Figure": "MonsterFigure/Monster_1002040.png",
+        "Icon": "mostericon/Monster_1001010.png",
+        "Figure": "monsterfigure/Monster_1002040.png",
         "Status": [
             210010101
+        ],
+        "AllSkills": [
+            100204001
         ],
         "Csxylic": "SCJarilo-VI/1002040"
     },
@@ -3340,10 +3566,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png",
-        "Figure": "MonsterFigure/Monster_1002040.png",
+        "Icon": "mostericon/Monster_1001010.png",
+        "Figure": "monsterfigure/Monster_1002040.png",
         "Status": [
             210010101
+        ],
+        "AllSkills": [
+            100204001
         ],
         "Csxylic": "SCJarilo-VI/1002040"
     },
@@ -3387,10 +3616,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001010.png",
-        "Figure": "MonsterFigure/Monster_1002040.png",
+        "Icon": "mostericon/Monster_1001010.png",
+        "Figure": "monsterfigure/Monster_1002040.png",
         "Status": [
             210010101
+        ],
+        "AllSkills": [
+            100204001
         ],
         "Csxylic": "SCJarilo-VI/1002040"
     },
@@ -3434,10 +3666,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1001010.png",
-        "Figure": "MonsterFigure/Monster_1002040.png",
+        "Icon": "mostericon/Monster_1001010.png",
+        "Figure": "monsterfigure/Monster_1002040.png",
         "Status": [
             210010101
+        ],
+        "AllSkills": [
+            100204101
         ]
     },
     {
@@ -3480,10 +3715,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1001010.png",
-        "Figure": "MonsterFigure/Monster_1002040.png",
+        "Icon": "mostericon/Monster_1001010.png",
+        "Figure": "monsterfigure/Monster_1002040.png",
         "Status": [
             210010101
+        ],
+        "AllSkills": [
+            100204101
         ]
     },
     {
@@ -3526,10 +3764,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png",
-        "Figure": "MonsterFigure/Monster_1002050.png",
+        "Icon": "mostericon/Monster_1001020.png",
+        "Figure": "monsterfigure/Monster_1002050.png",
         "Status": [
             30020005
+        ],
+        "AllSkills": [
+            100205001
         ],
         "Csxylic": "SCJarilo-VI/1002050"
     },
@@ -3573,10 +3814,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png",
-        "Figure": "MonsterFigure/Monster_1002050.png",
+        "Icon": "mostericon/Monster_1001020.png",
+        "Figure": "monsterfigure/Monster_1002050.png",
         "Status": [
             30020005
+        ],
+        "AllSkills": [
+            100205001
         ],
         "Csxylic": "SCJarilo-VI/1002050"
     },
@@ -3620,10 +3864,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png",
-        "Figure": "MonsterFigure/Monster_1002050.png",
+        "Icon": "mostericon/Monster_1001020.png",
+        "Figure": "monsterfigure/Monster_1002050.png",
         "Status": [
             30020005
+        ],
+        "AllSkills": [
+            100205001
         ],
         "Csxylic": "SCJarilo-VI/1002050"
     },
@@ -3667,10 +3914,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png",
-        "Figure": "MonsterFigure/Monster_1002050.png",
+        "Icon": "mostericon/Monster_1001020.png",
+        "Figure": "monsterfigure/Monster_1002050.png",
         "Status": [
             30020005
+        ],
+        "AllSkills": [
+            100205001
         ],
         "Csxylic": "SCJarilo-VI/1002050"
     },
@@ -3714,10 +3964,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png",
-        "Figure": "MonsterFigure/Monster_1002050.png",
+        "Icon": "mostericon/Monster_1001020.png",
+        "Figure": "monsterfigure/Monster_1002050.png",
         "Status": [
             30020005
+        ],
+        "AllSkills": [
+            100205001
         ],
         "Csxylic": "SCJarilo-VI/1002050"
     },
@@ -3761,10 +4014,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png",
-        "Figure": "MonsterFigure/Monster_1002050.png",
+        "Icon": "mostericon/Monster_1001020.png",
+        "Figure": "monsterfigure/Monster_1002050.png",
         "Status": [
             30020005
+        ],
+        "AllSkills": [
+            100205001
         ],
         "Csxylic": "SCJarilo-VI/1002050"
     },
@@ -3808,10 +4064,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png",
-        "Figure": "MonsterFigure/Monster_1002050.png",
+        "Icon": "mostericon/Monster_1001020.png",
+        "Figure": "monsterfigure/Monster_1002050.png",
         "Status": [
             30020005
+        ],
+        "AllSkills": [
+            100205001
         ],
         "Csxylic": "SCJarilo-VI/1002050"
     },
@@ -3849,10 +4108,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png",
-        "Figure": "MonsterFigure/Monster_1002050.png",
+        "Icon": "mostericon/Monster_1001020.png",
+        "Figure": "monsterfigure/Monster_1002050.png",
         "Status": [
             30020005
+        ],
+        "AllSkills": [
+            100205001
         ],
         "Csxylic": "SCJarilo-VI/1002050"
     },
@@ -3890,10 +4152,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png",
-        "Figure": "MonsterFigure/Monster_1002050.png",
+        "Icon": "mostericon/Monster_1001020.png",
+        "Figure": "monsterfigure/Monster_1002050.png",
         "Status": [
             30020005
+        ],
+        "AllSkills": [
+            100205001
         ],
         "Csxylic": "SCJarilo-VI/1002050"
     },
@@ -3940,10 +4205,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png",
-        "Figure": "MonsterFigure/Monster_1002050.png",
+        "Icon": "mostericon/Monster_1001020.png",
+        "Figure": "monsterfigure/Monster_1002050.png",
         "Status": [
             30020005
+        ],
+        "AllSkills": [
+            100205001
         ],
         "Csxylic": "SCJarilo-VI/1002050"
     },
@@ -3987,10 +4255,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png",
-        "Figure": "MonsterFigure/Monster_1002050.png",
+        "Icon": "mostericon/Monster_1001020.png",
+        "Figure": "monsterfigure/Monster_1002050.png",
         "Status": [
             30020005
+        ],
+        "AllSkills": [
+            100205001
         ],
         "Csxylic": "SCJarilo-VI/1002050"
     },
@@ -4034,10 +4305,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png",
-        "Figure": "MonsterFigure/Monster_1002050.png",
+        "Icon": "mostericon/Monster_1001020.png",
+        "Figure": "monsterfigure/Monster_1002050.png",
         "Status": [
             30020005
+        ],
+        "AllSkills": [
+            100205001
         ],
         "Csxylic": "SCJarilo-VI/1002050"
     },
@@ -4084,10 +4358,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png",
-        "Figure": "MonsterFigure/Monster_1002050.png",
+        "Icon": "mostericon/Monster_1001020.png",
+        "Figure": "monsterfigure/Monster_1002050.png",
         "Status": [
             30020005
+        ],
+        "AllSkills": [
+            100205001
         ],
         "Csxylic": "SCJarilo-VI/1002050"
     },
@@ -4134,10 +4411,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png",
-        "Figure": "MonsterFigure/Monster_1002050.png",
+        "Icon": "mostericon/Monster_1001020.png",
+        "Figure": "monsterfigure/Monster_1002050.png",
         "Status": [
             30020005
+        ],
+        "AllSkills": [
+            100205001
         ],
         "Csxylic": "SCJarilo-VI/1002050"
     },
@@ -4181,10 +4461,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png",
-        "Figure": "MonsterFigure/Monster_1002050.png",
+        "Icon": "mostericon/Monster_1001020.png",
+        "Figure": "monsterfigure/Monster_1002050.png",
         "Status": [
             30020005
+        ],
+        "AllSkills": [
+            100205001
         ],
         "Csxylic": "SCJarilo-VI/1002050"
     },
@@ -4231,10 +4514,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png",
-        "Figure": "MonsterFigure/Monster_1002050.png",
+        "Icon": "mostericon/Monster_1001020.png",
+        "Figure": "monsterfigure/Monster_1002050.png",
         "Status": [
             30020005
+        ],
+        "AllSkills": [
+            100205001
         ],
         "Csxylic": "SCJarilo-VI/1002050"
     },
@@ -4281,10 +4567,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png",
-        "Figure": "MonsterFigure/Monster_1002050.png",
+        "Icon": "mostericon/Monster_1001020.png",
+        "Figure": "monsterfigure/Monster_1002050.png",
         "Status": [
             30020005
+        ],
+        "AllSkills": [
+            100205001
         ],
         "Csxylic": "SCJarilo-VI/1002050"
     },
@@ -4328,10 +4617,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png",
-        "Figure": "MonsterFigure/Monster_1002050.png",
+        "Icon": "mostericon/Monster_1001020.png",
+        "Figure": "monsterfigure/Monster_1002050.png",
         "Status": [
             30020005
+        ],
+        "AllSkills": [
+            100205001
         ],
         "Csxylic": "SCJarilo-VI/1002050"
     },
@@ -4375,10 +4667,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1001020.png",
-        "Figure": "MonsterFigure/Monster_1002050.png",
+        "Icon": "mostericon/Monster_1001020.png",
+        "Figure": "monsterfigure/Monster_1002050.png",
         "Status": [
             30020005
+        ],
+        "AllSkills": [
+            100205001
         ],
         "Csxylic": "SCJarilo-VI/1002050"
     },
@@ -4425,10 +4720,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png",
-        "Figure": "MonsterFigure/Monster_1003010.png",
+        "Icon": "mostericon/Monster_1003010.png",
+        "Figure": "monsterfigure/Monster_1003010.png",
         "Status": [
             210030102
+        ],
+        "AllSkills": [
+            100301001,
+            100301002,
+            100301003,
+            100301004
         ],
         "Csxylic": "SCJarilo-VI/1003010"
     },
@@ -4475,10 +4776,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png",
-        "Figure": "MonsterFigure/Monster_1003010.png",
+        "Icon": "mostericon/Monster_1003010.png",
+        "Figure": "monsterfigure/Monster_1003010.png",
         "Status": [
             210030102
+        ],
+        "AllSkills": [
+            100301001,
+            100301002,
+            100301003,
+            100301004
         ],
         "Csxylic": "SCJarilo-VI/1003010"
     },
@@ -4525,10 +4832,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png",
-        "Figure": "MonsterFigure/Monster_1003010.png",
+        "Icon": "mostericon/Monster_1003010.png",
+        "Figure": "monsterfigure/Monster_1003010.png",
         "Status": [
             210030102
+        ],
+        "AllSkills": [
+            100301001,
+            100301002,
+            100301003,
+            100301004
         ],
         "Csxylic": "SCJarilo-VI/1003010"
     },
@@ -4575,10 +4888,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png",
-        "Figure": "MonsterFigure/Monster_1003010.png",
+        "Icon": "mostericon/Monster_1003010.png",
+        "Figure": "monsterfigure/Monster_1003010.png",
         "Status": [
             210030102
+        ],
+        "AllSkills": [
+            100301001,
+            100301002,
+            100301003,
+            100301004
         ],
         "Csxylic": "SCJarilo-VI/1003010"
     },
@@ -4628,10 +4947,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png",
-        "Figure": "MonsterFigure/Monster_1003010.png",
+        "Icon": "mostericon/Monster_1003010.png",
+        "Figure": "monsterfigure/Monster_1003010.png",
         "Status": [
             210030102
+        ],
+        "AllSkills": [
+            100301001,
+            100301002,
+            100301003,
+            100301004
         ],
         "Csxylic": "SCJarilo-VI/1003010"
     },
@@ -4682,10 +5007,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png",
-        "Figure": "MonsterFigure/Monster_1003010.png",
+        "Icon": "mostericon/Monster_1003010.png",
+        "Figure": "monsterfigure/Monster_1003010.png",
         "Status": [
             210030102
+        ],
+        "AllSkills": [
+            100301001,
+            100301002,
+            100301003,
+            100301004
         ],
         "Csxylic": "SCJarilo-VI/1003010"
     },
@@ -4735,10 +5066,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png",
-        "Figure": "MonsterFigure/Monster_1003010.png",
+        "Icon": "mostericon/Monster_1003010.png",
+        "Figure": "monsterfigure/Monster_1003010.png",
         "Status": [
             210030102
+        ],
+        "AllSkills": [
+            100301001,
+            100301002,
+            100301003,
+            100301004
         ],
         "Csxylic": "SCJarilo-VI/1003010"
     },
@@ -4785,10 +5122,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png",
-        "Figure": "MonsterFigure/Monster_1003010.png",
+        "Icon": "mostericon/Monster_1003010.png",
+        "Figure": "monsterfigure/Monster_1003010.png",
         "Status": [
             210030102
+        ],
+        "AllSkills": [
+            100301001,
+            100301002,
+            100301003,
+            100301004
         ],
         "Csxylic": "SCJarilo-VI/1003010"
     },
@@ -4835,10 +5178,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png",
-        "Figure": "MonsterFigure/Monster_1003010.png",
+        "Icon": "mostericon/Monster_1003010.png",
+        "Figure": "monsterfigure/Monster_1003010.png",
         "Status": [
             210030102
+        ],
+        "AllSkills": [
+            100301001,
+            100301002,
+            100301003,
+            100301004
         ],
         "Csxylic": "SCJarilo-VI/1003010"
     },
@@ -4889,10 +5238,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png",
-        "Figure": "MonsterFigure/Monster_1003010.png",
+        "Icon": "mostericon/Monster_1003010.png",
+        "Figure": "monsterfigure/Monster_1003010.png",
         "Status": [
             210030102
+        ],
+        "AllSkills": [
+            100301001,
+            100301002,
+            100301003,
+            100301004
         ],
         "Csxylic": "SCJarilo-VI/1003010"
     },
@@ -4942,10 +5297,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png",
-        "Figure": "MonsterFigure/Monster_1003010.png",
+        "Icon": "mostericon/Monster_1003010.png",
+        "Figure": "monsterfigure/Monster_1003010.png",
         "Status": [
             210030102
+        ],
+        "AllSkills": [
+            100301001,
+            100301002,
+            100301003,
+            100301004
         ],
         "Csxylic": "SCJarilo-VI/1003010"
     },
@@ -4995,10 +5356,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png",
-        "Figure": "MonsterFigure/Monster_1003010.png",
+        "Icon": "mostericon/Monster_1003010.png",
+        "Figure": "monsterfigure/Monster_1003010.png",
         "Status": [
             210030102
+        ],
+        "AllSkills": [
+            100301001,
+            100301002,
+            100301003,
+            100301004
         ],
         "Csxylic": "SCJarilo-VI/1003010"
     },
@@ -5048,10 +5415,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png",
-        "Figure": "MonsterFigure/Monster_1003010.png",
+        "Icon": "mostericon/Monster_1003010.png",
+        "Figure": "monsterfigure/Monster_1003010.png",
         "Status": [
             210030102
+        ],
+        "AllSkills": [
+            100301001,
+            100301002,
+            100301003,
+            100301004
         ],
         "Csxylic": "SCJarilo-VI/1003010"
     },
@@ -5101,10 +5474,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png",
-        "Figure": "MonsterFigure/Monster_1003010.png",
+        "Icon": "mostericon/Monster_1003010.png",
+        "Figure": "monsterfigure/Monster_1003010.png",
         "Status": [
             210030102
+        ],
+        "AllSkills": [
+            100301001,
+            100301002,
+            100301003,
+            100301004
         ],
         "Csxylic": "SCJarilo-VI/1003010"
     },
@@ -5155,10 +5534,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png",
-        "Figure": "MonsterFigure/Monster_1003010.png",
+        "Icon": "mostericon/Monster_1003010.png",
+        "Figure": "monsterfigure/Monster_1003010.png",
         "Status": [
             210030102
+        ],
+        "AllSkills": [
+            100301001,
+            100301002,
+            100301003,
+            100301004
         ],
         "Csxylic": "SCJarilo-VI/1003010"
     },
@@ -5208,10 +5593,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png",
-        "Figure": "MonsterFigure/Monster_1003010.png",
+        "Icon": "mostericon/Monster_1003010.png",
+        "Figure": "monsterfigure/Monster_1003010.png",
         "Status": [
             210030102
+        ],
+        "AllSkills": [
+            100301001,
+            100301002,
+            100301003,
+            100301004
         ],
         "Csxylic": "SCJarilo-VI/1003010"
     },
@@ -5258,10 +5649,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png",
-        "Figure": "MonsterFigure/Monster_1003010.png",
+        "Icon": "mostericon/Monster_1003010.png",
+        "Figure": "monsterfigure/Monster_1003010.png",
         "Status": [
             210030102
+        ],
+        "AllSkills": [
+            100301001,
+            100301002,
+            100301003,
+            100301004
         ],
         "Csxylic": "SCJarilo-VI/1003010"
     },
@@ -5308,10 +5705,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png",
-        "Figure": "MonsterFigure/Monster_1003010.png",
+        "Icon": "mostericon/Monster_1003010.png",
+        "Figure": "monsterfigure/Monster_1003010.png",
         "Status": [
             210030102
+        ],
+        "AllSkills": [
+            100301001,
+            100301002,
+            100301003,
+            100301004
         ],
         "Csxylic": "SCJarilo-VI/1003010"
     },
@@ -5361,10 +5764,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003010.png",
-        "Figure": "MonsterFigure/Monster_1003010.png",
+        "Icon": "mostericon/Monster_1003010.png",
+        "Figure": "monsterfigure/Monster_1003010.png",
         "Status": [
             210030102
+        ],
+        "AllSkills": [
+            100301001,
+            100301002,
+            100301003,
+            100301004
         ],
         "Csxylic": "SCJarilo-VI/1003010"
     },
@@ -5412,11 +5821,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1003010.png",
-        "Figure": "MonsterFigure/Monster_1003010.png",
+        "Icon": "mostericon/Monster_1003010.png",
+        "Figure": "monsterfigure/Monster_1003010.png",
         "Status": [
             210020201,
             210030102
+        ],
+        "AllSkills": [
+            100301101,
+            100301102,
+            100301103,
+            100301104,
+            100301105
         ]
     },
     {
@@ -5467,8 +5883,12 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1003010.png",
-        "Figure": "MonsterFigure/Monster_1003010.png"
+        "Icon": "mostericon/Monster_1003010.png",
+        "Figure": "monsterfigure/Monster_1003010.png",
+        "AllSkills": [
+            100301201,
+            100301202
+        ]
     },
     {
         "_id": 1003013,
@@ -5518,10 +5938,14 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1003010.png",
-        "Figure": "MonsterFigure/Monster_1003010.png",
+        "Icon": "mostericon/Monster_1003010.png",
+        "Figure": "monsterfigure/Monster_1003010.png",
         "Status": [
             210030102
+        ],
+        "AllSkills": [
+            100301301,
+            100301302
         ]
     },
     {
@@ -5578,11 +6002,18 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1004010.png",
-        "Figure": "MonsterFigure/Monster_1004010.png",
+        "Icon": "mostericon/Monster_1004010.png",
+        "Figure": "monsterfigure/Monster_1004010.png",
         "Status": [
             30020012,
             210040114
+        ],
+        "AllSkills": [
+            100401001,
+            100401002,
+            100401003,
+            100401004,
+            100401005
         ],
         "Csxylic": "SCJarilo-VI/1004010"
     },
@@ -5643,11 +6074,18 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1004010.png",
-        "Figure": "MonsterFigure/Monster_1004010.png",
+        "Icon": "mostericon/Monster_1004010.png",
+        "Figure": "monsterfigure/Monster_1004010.png",
         "Status": [
             30020012,
             210040114
+        ],
+        "AllSkills": [
+            100401001,
+            100401002,
+            100401003,
+            100401004,
+            100401005
         ],
         "Csxylic": "SCJarilo-VI/1004010"
     },
@@ -5708,11 +6146,18 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1004010.png",
-        "Figure": "MonsterFigure/Monster_1004010.png",
+        "Icon": "mostericon/Monster_1004010.png",
+        "Figure": "monsterfigure/Monster_1004010.png",
         "Status": [
             30020012,
             210040114
+        ],
+        "AllSkills": [
+            100401001,
+            100401002,
+            100401003,
+            100401004,
+            100401005
         ],
         "Csxylic": "SCJarilo-VI/1004010"
     },
@@ -5770,11 +6215,18 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1004010.png",
-        "Figure": "MonsterFigure/Monster_1004010.png",
+        "Icon": "mostericon/Monster_1004010.png",
+        "Figure": "monsterfigure/Monster_1004010.png",
         "Status": [
             30020012,
             210040114
+        ],
+        "AllSkills": [
+            100401001,
+            100401002,
+            100401003,
+            100401004,
+            100401005
         ],
         "Csxylic": "SCJarilo-VI/1004010"
     },
@@ -5835,11 +6287,18 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1004010.png",
-        "Figure": "MonsterFigure/Monster_1004010.png",
+        "Icon": "mostericon/Monster_1004010.png",
+        "Figure": "monsterfigure/Monster_1004010.png",
         "Status": [
             30020012,
             210040114
+        ],
+        "AllSkills": [
+            100401001,
+            100401002,
+            100401003,
+            100401004,
+            100401005
         ],
         "Csxylic": "SCJarilo-VI/1004010"
     },
@@ -5915,12 +6374,21 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1004010.png",
-        "Figure": "MonsterFigure/Monster_1004010.png",
+        "Icon": "mostericon/Monster_1004010.png",
+        "Figure": "monsterfigure/Monster_1004010.png",
         "Status": [
             30020012,
             210040111,
             210040114
+        ],
+        "AllSkills": [
+            100401101,
+            100401102,
+            100401104,
+            100401107,
+            100401103,
+            100401105,
+            100401106
         ]
     },
     {
@@ -5995,12 +6463,21 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1004010.png",
-        "Figure": "MonsterFigure/Monster_1004010.png",
+        "Icon": "mostericon/Monster_1004010.png",
+        "Figure": "monsterfigure/Monster_1004010.png",
         "Status": [
             30020012,
             210040111,
             210040114
+        ],
+        "AllSkills": [
+            100401201,
+            100401202,
+            100401204,
+            100401207,
+            100401203,
+            100401205,
+            100401206
         ]
     },
     {
@@ -6073,8 +6550,17 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1004010.png",
-        "Figure": "MonsterFigure/Monster_1004010.png"
+        "Icon": "mostericon/Monster_1004010.png",
+        "Figure": "monsterfigure/Monster_1004010.png",
+        "AllSkills": [
+            100401301,
+            100401302,
+            100401303,
+            100401304,
+            100401305,
+            100401306,
+            100401307
+        ]
     },
     {
         "_id": 1004020,
@@ -6123,11 +6609,18 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003020.png",
-        "Figure": "MonsterFigure/Monster_1004020.png",
+        "Icon": "mostericon/Monster_1003020.png",
+        "Figure": "monsterfigure/Monster_1004020.png",
         "Status": [
             210030201,
             210030204
+        ],
+        "AllSkills": [
+            100402001,
+            100402002,
+            100402003,
+            100402004,
+            100402005
         ],
         "Csxylic": "SCJarilo-VI/1004020"
     },
@@ -6181,11 +6674,18 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003020.png",
-        "Figure": "MonsterFigure/Monster_1004020.png",
+        "Icon": "mostericon/Monster_1003020.png",
+        "Figure": "monsterfigure/Monster_1004020.png",
         "Status": [
             210030201,
             210030204
+        ],
+        "AllSkills": [
+            100402001,
+            100402002,
+            100402003,
+            100402004,
+            100402005
         ],
         "Csxylic": "SCJarilo-VI/1004020"
     },
@@ -6239,11 +6739,18 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003020.png",
-        "Figure": "MonsterFigure/Monster_1004020.png",
+        "Icon": "mostericon/Monster_1003020.png",
+        "Figure": "monsterfigure/Monster_1004020.png",
         "Status": [
             210030201,
             210030204
+        ],
+        "AllSkills": [
+            100402001,
+            100402002,
+            100402003,
+            100402004,
+            100402005
         ],
         "Csxylic": "SCJarilo-VI/1004020"
     },
@@ -6304,11 +6811,18 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003020.png",
-        "Figure": "MonsterFigure/Monster_1004020.png",
+        "Icon": "mostericon/Monster_1003020.png",
+        "Figure": "monsterfigure/Monster_1004020.png",
         "Status": [
             210030201,
             210030204
+        ],
+        "AllSkills": [
+            100402001,
+            100402002,
+            100402003,
+            100402004,
+            100402005
         ],
         "Csxylic": "SCJarilo-VI/1004020"
     },
@@ -6359,11 +6873,18 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003020.png",
-        "Figure": "MonsterFigure/Monster_1004020.png",
+        "Icon": "mostericon/Monster_1003020.png",
+        "Figure": "monsterfigure/Monster_1004020.png",
         "Status": [
             210030201,
             210030204
+        ],
+        "AllSkills": [
+            100402001,
+            100402002,
+            100402003,
+            100402004,
+            100402005
         ],
         "Csxylic": "SCJarilo-VI/1004020"
     },
@@ -6417,11 +6938,18 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1003020.png",
-        "Figure": "MonsterFigure/Monster_1004020.png",
+        "Icon": "mostericon/Monster_1003020.png",
+        "Figure": "monsterfigure/Monster_1004020.png",
         "Status": [
             210030201,
             210030204
+        ],
+        "AllSkills": [
+            100402001,
+            100402002,
+            100402003,
+            100402004,
+            100402005
         ],
         "Csxylic": "SCJarilo-VI/1004020"
     },
@@ -6473,11 +7001,18 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1003020.png",
-        "Figure": "MonsterFigure/Monster_1004020.png",
+        "Icon": "mostericon/Monster_1003020.png",
+        "Figure": "monsterfigure/Monster_1004020.png",
         "Status": [
             210030201,
             210030204
+        ],
+        "AllSkills": [
+            100402101,
+            100402102,
+            100402103,
+            100402104,
+            100402105
         ]
     },
     {
@@ -6561,14 +7096,25 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1003020.png",
-        "Figure": "MonsterFigure/Monster_1004020.png",
+        "Icon": "mostericon/Monster_1003020.png",
+        "Figure": "monsterfigure/Monster_1004020.png",
         "Status": [
             210030201,
             210040221,
             210040222,
             210040223,
             210040224
+        ],
+        "AllSkills": [
+            100402201,
+            100402202,
+            100402204,
+            100402205,
+            100402208,
+            100402209,
+            100402203,
+            100402210,
+            100402211
         ]
     },
     {
@@ -6654,14 +7200,25 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1003020.png",
-        "Figure": "MonsterFigure/Monster_1004020.png",
+        "Icon": "mostericon/Monster_1003020.png",
+        "Figure": "monsterfigure/Monster_1004020.png",
         "Status": [
             210030201,
             210040221,
             210040222,
             210040223,
             210040224
+        ],
+        "AllSkills": [
+            100402301,
+            100402302,
+            100402304,
+            100402305,
+            100402308,
+            100402309,
+            100402303,
+            100402310,
+            100402311
         ]
     },
     {
@@ -6725,8 +7282,14 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1003020.png",
-        "Figure": "MonsterFigure/Monster_1004020.png"
+        "Icon": "mostericon/Monster_1003020.png",
+        "Figure": "monsterfigure/Monster_1004020.png",
+        "AllSkills": [
+            100402401,
+            100402402,
+            100402403,
+            100402408
+        ]
     },
     {
         "_id": 1004025,
@@ -6802,8 +7365,19 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1003020.png",
-        "Figure": "MonsterFigure/Monster_1004020.png"
+        "Icon": "mostericon/Monster_1003020.png",
+        "Figure": "monsterfigure/Monster_1004020.png",
+        "AllSkills": [
+            100402501,
+            100402502,
+            100402504,
+            100402508,
+            100402509,
+            100402510,
+            100402511,
+            100402503,
+            100402512
+        ]
     },
     {
         "_id": 1004030,
@@ -6851,8 +7425,14 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1004030.png",
-        "Figure": "MonsterFigure/Monster_1004030.png",
+        "Icon": "mostericon/Monster_1004030.png",
+        "Figure": "monsterfigure/Monster_1004030.png",
+        "AllSkills": [
+            100403001,
+            100403002,
+            100403003,
+            100403004
+        ],
         "Csxylic": "SCJarilo-VI/1004030"
     },
     {
@@ -6904,8 +7484,14 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1004030.png",
-        "Figure": "MonsterFigure/Monster_1004030.png",
+        "Icon": "mostericon/Monster_1004030.png",
+        "Figure": "monsterfigure/Monster_1004030.png",
+        "AllSkills": [
+            100403001,
+            100403002,
+            100403003,
+            100403004
+        ],
         "Csxylic": "SCJarilo-VI/1004030"
     },
     {
@@ -6957,8 +7543,14 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1004030.png",
-        "Figure": "MonsterFigure/Monster_1004030.png",
+        "Icon": "mostericon/Monster_1004030.png",
+        "Figure": "monsterfigure/Monster_1004030.png",
+        "AllSkills": [
+            100403001,
+            100403002,
+            100403003,
+            100403004
+        ],
         "Csxylic": "SCJarilo-VI/1004030"
     },
     {
@@ -7012,8 +7604,13 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1004030.png",
-        "Figure": "MonsterFigure/Monster_1004030.png"
+        "Icon": "mostericon/Monster_1004030.png",
+        "Figure": "monsterfigure/Monster_1004030.png",
+        "AllSkills": [
+            100403101,
+            100403102,
+            100403104
+        ]
     },
     {
         "_id": 100403101,
@@ -7069,8 +7666,13 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1004030.png",
-        "Figure": "MonsterFigure/Monster_1004030.png"
+        "Icon": "mostericon/Monster_1004030.png",
+        "Figure": "monsterfigure/Monster_1004030.png",
+        "AllSkills": [
+            100403101,
+            100403102,
+            100403104
+        ]
     },
     {
         "_id": 1004032,
@@ -7141,8 +7743,18 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1004030.png",
-        "Figure": "MonsterFigure/Monster_1004030.png"
+        "Icon": "mostericon/Monster_1004030.png",
+        "Figure": "monsterfigure/Monster_1004030.png",
+        "AllSkills": [
+            100403201,
+            100403202,
+            100403203,
+            100403204,
+            100403206,
+            100403207,
+            100403208,
+            100403205
+        ]
     },
     {
         "_id": 1005010,
@@ -7207,12 +7819,22 @@ var _monster = [
         ],
         "Rank": "BigBoss",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1005010.png",
-        "Figure": "MonsterFigure/Monster_1005010.png",
+        "Icon": "mostericon/Monster_1005010.png",
+        "Figure": "monsterfigure/Monster_1005010.png",
         "Status": [
             30020013,
             210050101,
             210050105
+        ],
+        "AllSkills": [
+            100501001,
+            100501002,
+            100501004,
+            100501008,
+            100501009,
+            100501005,
+            100501006,
+            100501007
         ],
         "Csxylic": "SCJarilo-VI/1005010"
     },
@@ -7274,12 +7896,18 @@ var _monster = [
         ],
         "Rank": "BigBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1005010.png",
-        "Figure": "MonsterFigure/Monster_1005010.png",
+        "Icon": "mostericon/Monster_1005010.png",
+        "Figure": "monsterfigure/Monster_1005010.png",
         "Status": [
             30020013,
             210050101,
             210050105
+        ],
+        "AllSkills": [
+            100501101,
+            100501102,
+            100501104,
+            100501108
         ]
     },
     {
@@ -7346,12 +7974,22 @@ var _monster = [
         ],
         "Rank": "BigBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1005010.png",
-        "Figure": "MonsterFigure/Monster_1005010.png",
+        "Icon": "mostericon/Monster_1005010.png",
+        "Figure": "monsterfigure/Monster_1005010.png",
         "Status": [
             30020013,
             210050101,
             210050105
+        ],
+        "AllSkills": [
+            100501201,
+            100501202,
+            100501204,
+            100501208,
+            100501210,
+            100501205,
+            100501206,
+            100501207
         ]
     },
     {
@@ -7414,8 +8052,18 @@ var _monster = [
         ],
         "Rank": "BigBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1005010.png",
-        "Figure": "MonsterFigure/Monster_1005010.png"
+        "Icon": "mostericon/Monster_1005010.png",
+        "Figure": "monsterfigure/Monster_1005010.png",
+        "AllSkills": [
+            100501302,
+            100501303,
+            100501305,
+            100501306,
+            100501307,
+            100501308,
+            100501309,
+            100501311
+        ]
     },
     {
         "_id": 1012010,
@@ -7458,8 +8106,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Icon": "mostericon/Monster_1012010.png",
+        "Figure": "monsterfigure/Monster_1012010.png",
+        "AllSkills": [
+            101201001,
+            101201002
+        ],
         "Csxylic": "SCJarilo-VI/1012010"
     },
     {
@@ -7503,8 +8155,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Icon": "mostericon/Monster_1012010.png",
+        "Figure": "monsterfigure/Monster_1012010.png",
+        "AllSkills": [
+            101201001,
+            101201002
+        ],
         "Csxylic": "SCJarilo-VI/1012010"
     },
     {
@@ -7548,8 +8204,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Icon": "mostericon/Monster_1012010.png",
+        "Figure": "monsterfigure/Monster_1012010.png",
+        "AllSkills": [
+            101201001,
+            101201002
+        ],
         "Csxylic": "SCJarilo-VI/1012010"
     },
     {
@@ -7593,8 +8253,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Icon": "mostericon/Monster_1012010.png",
+        "Figure": "monsterfigure/Monster_1012010.png",
+        "AllSkills": [
+            101201001,
+            101201002
+        ],
         "Csxylic": "SCJarilo-VI/1012010"
     },
     {
@@ -7638,8 +8302,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Icon": "mostericon/Monster_1012010.png",
+        "Figure": "monsterfigure/Monster_1012010.png",
+        "AllSkills": [
+            101201001,
+            101201002
+        ],
         "Csxylic": "SCJarilo-VI/1012010"
     },
     {
@@ -7683,8 +8351,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Icon": "mostericon/Monster_1012010.png",
+        "Figure": "monsterfigure/Monster_1012010.png",
+        "AllSkills": [
+            101201001,
+            101201002
+        ],
         "Csxylic": "SCJarilo-VI/1012010"
     },
     {
@@ -7728,8 +8400,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Icon": "mostericon/Monster_1012010.png",
+        "Figure": "monsterfigure/Monster_1012010.png",
+        "AllSkills": [
+            101201001,
+            101201002
+        ],
         "Csxylic": "SCJarilo-VI/1012010"
     },
     {
@@ -7773,8 +8449,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Icon": "mostericon/Monster_1012010.png",
+        "Figure": "monsterfigure/Monster_1012010.png",
+        "AllSkills": [
+            101201001,
+            101201002
+        ],
         "Csxylic": "SCJarilo-VI/1012010"
     },
     {
@@ -7818,8 +8498,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Icon": "mostericon/Monster_1012010.png",
+        "Figure": "monsterfigure/Monster_1012010.png",
+        "AllSkills": [
+            101201001,
+            101201002
+        ],
         "Csxylic": "SCJarilo-VI/1012010"
     },
     {
@@ -7863,8 +8547,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Icon": "mostericon/Monster_1012010.png",
+        "Figure": "monsterfigure/Monster_1012010.png",
+        "AllSkills": [
+            101201001,
+            101201002
+        ],
         "Csxylic": "SCJarilo-VI/1012010"
     },
     {
@@ -7911,8 +8599,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Icon": "mostericon/Monster_1012010.png",
+        "Figure": "monsterfigure/Monster_1012010.png",
+        "AllSkills": [
+            101201001,
+            101201002
+        ],
         "Csxylic": "SCJarilo-VI/1012010"
     },
     {
@@ -7956,8 +8648,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Icon": "mostericon/Monster_1012010.png",
+        "Figure": "monsterfigure/Monster_1012010.png",
+        "AllSkills": [
+            101201001,
+            101201002
+        ],
         "Csxylic": "SCJarilo-VI/1012010"
     },
     {
@@ -8004,8 +8700,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Icon": "mostericon/Monster_1012010.png",
+        "Figure": "monsterfigure/Monster_1012010.png",
+        "AllSkills": [
+            101201001,
+            101201002
+        ],
         "Csxylic": "SCJarilo-VI/1012010"
     },
     {
@@ -8052,8 +8752,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Icon": "mostericon/Monster_1012010.png",
+        "Figure": "monsterfigure/Monster_1012010.png",
+        "AllSkills": [
+            101201001,
+            101201002
+        ],
         "Csxylic": "SCJarilo-VI/1012010"
     },
     {
@@ -8100,8 +8804,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Icon": "mostericon/Monster_1012010.png",
+        "Figure": "monsterfigure/Monster_1012010.png",
+        "AllSkills": [
+            101201001,
+            101201002
+        ],
         "Csxylic": "SCJarilo-VI/1012010"
     },
     {
@@ -8145,8 +8853,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Icon": "mostericon/Monster_1012010.png",
+        "Figure": "monsterfigure/Monster_1012010.png",
+        "AllSkills": [
+            101201001,
+            101201002
+        ],
         "Csxylic": "SCJarilo-VI/1012010"
     },
     {
@@ -8190,8 +8902,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png",
+        "Icon": "mostericon/Monster_1012010.png",
+        "Figure": "monsterfigure/Monster_1012010.png",
+        "AllSkills": [
+            101201001,
+            101201002
+        ],
         "Csxylic": "SCJarilo-VI/1012010"
     },
     {
@@ -8240,8 +8956,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png"
+        "Icon": "mostericon/Monster_1012010.png",
+        "Figure": "monsterfigure/Monster_1012010.png",
+        "AllSkills": [
+            101201102
+        ]
     },
     {
         "_id": 1012020,
@@ -8292,8 +9011,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012020.png",
-        "Figure": "MonsterFigure/Monster_1012020.png",
+        "Icon": "mostericon/Monster_1012020.png",
+        "Figure": "monsterfigure/Monster_1012020.png",
+        "AllSkills": [
+            101202001,
+            101202002,
+            101202003,
+            101202004
+        ],
         "Csxylic": "SCJarilo-VI/1012020"
     },
     {
@@ -8348,8 +9073,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012020.png",
-        "Figure": "MonsterFigure/Monster_1012020.png",
+        "Icon": "mostericon/Monster_1012020.png",
+        "Figure": "monsterfigure/Monster_1012020.png",
+        "AllSkills": [
+            101202001,
+            101202002,
+            101202003,
+            101202004
+        ],
         "Csxylic": "SCJarilo-VI/1012020"
     },
     {
@@ -8404,8 +9135,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012020.png",
-        "Figure": "MonsterFigure/Monster_1012020.png",
+        "Icon": "mostericon/Monster_1012020.png",
+        "Figure": "monsterfigure/Monster_1012020.png",
+        "AllSkills": [
+            101202001,
+            101202002,
+            101202003,
+            101202004
+        ],
         "Csxylic": "SCJarilo-VI/1012020"
     },
     {
@@ -8457,8 +9194,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012020.png",
-        "Figure": "MonsterFigure/Monster_1012020.png",
+        "Icon": "mostericon/Monster_1012020.png",
+        "Figure": "monsterfigure/Monster_1012020.png",
+        "AllSkills": [
+            101202001,
+            101202002,
+            101202003,
+            101202004
+        ],
         "Csxylic": "SCJarilo-VI/1012020"
     },
     {
@@ -8509,8 +9252,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1012020.png",
-        "Figure": "MonsterFigure/Monster_1012020.png"
+        "Icon": "mostericon/Monster_1012020.png",
+        "Figure": "monsterfigure/Monster_1012020.png",
+        "AllSkills": [
+            101202102,
+            101202103,
+            101202104
+        ]
     },
     {
         "_id": 101202101,
@@ -8560,8 +9308,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1012020.png",
-        "Figure": "MonsterFigure/Monster_1012020.png"
+        "Icon": "mostericon/Monster_1012020.png",
+        "Figure": "monsterfigure/Monster_1012020.png",
+        "AllSkills": [
+            101202102,
+            101202103,
+            101202104
+        ]
     },
     {
         "_id": 101202102,
@@ -8611,8 +9364,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1012020.png",
-        "Figure": "MonsterFigure/Monster_1012020.png"
+        "Icon": "mostericon/Monster_1012020.png",
+        "Figure": "monsterfigure/Monster_1012020.png",
+        "AllSkills": [
+            101202102,
+            101202103,
+            101202104
+        ]
     },
     {
         "_id": 101202103,
@@ -8662,8 +9420,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1012020.png",
-        "Figure": "MonsterFigure/Monster_1012020.png"
+        "Icon": "mostericon/Monster_1012020.png",
+        "Figure": "monsterfigure/Monster_1012020.png",
+        "AllSkills": [
+            101202102,
+            101202103,
+            101202104
+        ]
     },
     {
         "_id": 101202104,
@@ -8717,8 +9480,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1012020.png",
-        "Figure": "MonsterFigure/Monster_1012020.png"
+        "Icon": "mostericon/Monster_1012020.png",
+        "Figure": "monsterfigure/Monster_1012020.png",
+        "AllSkills": [
+            101202102,
+            101202103,
+            101202104
+        ]
     },
     {
         "_id": 101202105,
@@ -8768,8 +9536,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1012020.png",
-        "Figure": "MonsterFigure/Monster_1012020.png"
+        "Icon": "mostericon/Monster_1012020.png",
+        "Figure": "monsterfigure/Monster_1012020.png",
+        "AllSkills": [
+            101202102,
+            101202103,
+            101202104
+        ]
     },
     {
         "_id": 101202106,
@@ -8819,8 +9592,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1012020.png",
-        "Figure": "MonsterFigure/Monster_1012020.png"
+        "Icon": "mostericon/Monster_1012020.png",
+        "Figure": "monsterfigure/Monster_1012020.png",
+        "AllSkills": [
+            101202102,
+            101202103,
+            101202104
+        ]
     },
     {
         "_id": 101202107,
@@ -8874,8 +9652,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1012020.png",
-        "Figure": "MonsterFigure/Monster_1012020.png"
+        "Icon": "mostericon/Monster_1012020.png",
+        "Figure": "monsterfigure/Monster_1012020.png",
+        "AllSkills": [
+            101202102,
+            101202103,
+            101202104
+        ]
     },
     {
         "_id": 101202108,
@@ -8925,8 +9708,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1012020.png",
-        "Figure": "MonsterFigure/Monster_1012020.png"
+        "Icon": "mostericon/Monster_1012020.png",
+        "Figure": "monsterfigure/Monster_1012020.png",
+        "AllSkills": [
+            101202102,
+            101202103,
+            101202104
+        ]
     },
     {
         "_id": 101202109,
@@ -8976,8 +9764,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1012020.png",
-        "Figure": "MonsterFigure/Monster_1012020.png"
+        "Icon": "mostericon/Monster_1012020.png",
+        "Figure": "monsterfigure/Monster_1012020.png",
+        "AllSkills": [
+            101202102,
+            101202103,
+            101202104
+        ]
     },
     {
         "_id": 101202110,
@@ -9027,8 +9820,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1012020.png",
-        "Figure": "MonsterFigure/Monster_1012020.png"
+        "Icon": "mostericon/Monster_1012020.png",
+        "Figure": "monsterfigure/Monster_1012020.png",
+        "AllSkills": [
+            101202102,
+            101202103,
+            101202104
+        ]
     },
     {
         "_id": 101202111,
@@ -9078,8 +9876,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1012020.png",
-        "Figure": "MonsterFigure/Monster_1012020.png"
+        "Icon": "mostericon/Monster_1012020.png",
+        "Figure": "monsterfigure/Monster_1012020.png",
+        "AllSkills": [
+            101202102,
+            101202103,
+            101202104
+        ]
     },
     {
         "_id": 1012030,
@@ -9121,8 +9924,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012030.png",
-        "Figure": "MonsterFigure/Monster_1012030.png",
+        "Icon": "mostericon/Monster_1012030.png",
+        "Figure": "monsterfigure/Monster_1012030.png",
+        "AllSkills": [
+            101203001
+        ],
         "Csxylic": "SCJarilo-VI/1012030"
     },
     {
@@ -9172,8 +9978,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012030.png",
-        "Figure": "MonsterFigure/Monster_1012030.png",
+        "Icon": "mostericon/Monster_1012030.png",
+        "Figure": "monsterfigure/Monster_1012030.png",
+        "AllSkills": [
+            101203001
+        ],
         "Csxylic": "SCJarilo-VI/1012030"
     },
     {
@@ -9223,8 +10032,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012030.png",
-        "Figure": "MonsterFigure/Monster_1012030.png",
+        "Icon": "mostericon/Monster_1012030.png",
+        "Figure": "monsterfigure/Monster_1012030.png",
+        "AllSkills": [
+            101203001
+        ],
         "Csxylic": "SCJarilo-VI/1012030"
     },
     {
@@ -9270,8 +10082,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012030.png",
-        "Figure": "MonsterFigure/Monster_1012030.png",
+        "Icon": "mostericon/Monster_1012030.png",
+        "Figure": "monsterfigure/Monster_1012030.png",
+        "AllSkills": [
+            101203001
+        ],
         "Csxylic": "SCJarilo-VI/1012030"
     },
     {
@@ -9314,8 +10129,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012030.png",
-        "Figure": "MonsterFigure/Monster_1012030.png",
+        "Icon": "mostericon/Monster_1012030.png",
+        "Figure": "monsterfigure/Monster_1012030.png",
+        "AllSkills": [
+            101203001
+        ],
         "Csxylic": "SCJarilo-VI/1012030"
     },
     {
@@ -9358,8 +10176,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012030.png",
-        "Figure": "MonsterFigure/Monster_1012030.png",
+        "Icon": "mostericon/Monster_1012030.png",
+        "Figure": "monsterfigure/Monster_1012030.png",
+        "AllSkills": [
+            101203001
+        ],
         "Csxylic": "SCJarilo-VI/1012030"
     },
     {
@@ -9402,8 +10223,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012030.png",
-        "Figure": "MonsterFigure/Monster_1012030.png",
+        "Icon": "mostericon/Monster_1012030.png",
+        "Figure": "monsterfigure/Monster_1012030.png",
+        "AllSkills": [
+            101203001
+        ],
         "Csxylic": "SCJarilo-VI/1012030"
     },
     {
@@ -9446,8 +10270,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012030.png",
-        "Figure": "MonsterFigure/Monster_1012030.png",
+        "Icon": "mostericon/Monster_1012030.png",
+        "Figure": "monsterfigure/Monster_1012030.png",
+        "AllSkills": [
+            101203001
+        ],
         "Csxylic": "SCJarilo-VI/1012030"
     },
     {
@@ -9490,8 +10317,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012030.png",
-        "Figure": "MonsterFigure/Monster_1012030.png",
+        "Icon": "mostericon/Monster_1012030.png",
+        "Figure": "monsterfigure/Monster_1012030.png",
+        "AllSkills": [
+            101203001
+        ],
         "Csxylic": "SCJarilo-VI/1012030"
     },
     {
@@ -9534,8 +10364,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012030.png",
-        "Figure": "MonsterFigure/Monster_1012030.png",
+        "Icon": "mostericon/Monster_1012030.png",
+        "Figure": "monsterfigure/Monster_1012030.png",
+        "AllSkills": [
+            101203001
+        ],
         "Csxylic": "SCJarilo-VI/1012030"
     },
     {
@@ -9578,8 +10411,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012030.png",
-        "Figure": "MonsterFigure/Monster_1012030.png",
+        "Icon": "mostericon/Monster_1012030.png",
+        "Figure": "monsterfigure/Monster_1012030.png",
+        "AllSkills": [
+            101203001
+        ],
         "Csxylic": "SCJarilo-VI/1012030"
     },
     {
@@ -9622,8 +10458,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012030.png",
-        "Figure": "MonsterFigure/Monster_1012030.png",
+        "Icon": "mostericon/Monster_1012030.png",
+        "Figure": "monsterfigure/Monster_1012030.png",
+        "AllSkills": [
+            101203001
+        ],
         "Csxylic": "SCJarilo-VI/1012030"
     },
     {
@@ -9666,8 +10505,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012030.png",
-        "Figure": "MonsterFigure/Monster_1012030.png",
+        "Icon": "mostericon/Monster_1012030.png",
+        "Figure": "monsterfigure/Monster_1012030.png",
+        "AllSkills": [
+            101203001
+        ],
         "Csxylic": "SCJarilo-VI/1012030"
     },
     {
@@ -9710,8 +10552,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012030.png",
-        "Figure": "MonsterFigure/Monster_1012030.png",
+        "Icon": "mostericon/Monster_1012030.png",
+        "Figure": "monsterfigure/Monster_1012030.png",
+        "AllSkills": [
+            101203001
+        ],
         "Csxylic": "SCJarilo-VI/1012030"
     },
     {
@@ -9754,8 +10599,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012030.png",
-        "Figure": "MonsterFigure/Monster_1012030.png",
+        "Icon": "mostericon/Monster_1012030.png",
+        "Figure": "monsterfigure/Monster_1012030.png",
+        "AllSkills": [
+            101203001
+        ],
         "Csxylic": "SCJarilo-VI/1012030"
     },
     {
@@ -9798,8 +10646,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1012030.png",
-        "Figure": "MonsterFigure/Monster_1012030.png",
+        "Icon": "mostericon/Monster_1012030.png",
+        "Figure": "monsterfigure/Monster_1012030.png",
+        "AllSkills": [
+            101203001
+        ],
         "Csxylic": "SCJarilo-VI/1012030"
     },
     {
@@ -9856,12 +10707,18 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1004021.png",
-        "Figure": "MonsterFigure/Monster_1012040.png",
+        "Icon": "mostericon/Monster_1004021.png",
+        "Figure": "monsterfigure/Monster_1012040.png",
         "Status": [
             210040204,
             210120401,
             210120402
+        ],
+        "AllSkills": [
+            101204004,
+            101204005,
+            101204006,
+            101204007
         ],
         "Csxylic": "SCNonCategorized/1012040"
     },
@@ -9921,12 +10778,18 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1004021.png",
-        "Figure": "MonsterFigure/Monster_1012040.png",
+        "Icon": "mostericon/Monster_1004021.png",
+        "Figure": "monsterfigure/Monster_1012040.png",
         "Status": [
             210040113,
             210120402,
             210120411
+        ],
+        "AllSkills": [
+            101204104,
+            101204105,
+            101204106,
+            101204107
         ]
     },
     {
@@ -9985,12 +10848,18 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1004021.png",
-        "Figure": "MonsterFigure/Monster_1012040.png",
+        "Icon": "mostericon/Monster_1004021.png",
+        "Figure": "monsterfigure/Monster_1012040.png",
         "Status": [
             210040113,
             210120402,
             210120411
+        ],
+        "AllSkills": [
+            101204204,
+            101204205,
+            101204206,
+            101204207
         ]
     },
     {
@@ -10043,10 +10912,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png",
-        "Figure": "MonsterFigure/Monster_1013010.png",
+        "Icon": "mostericon/Monster_1013010.png",
+        "Figure": "monsterfigure/Monster_1013010.png",
         "Status": [
             30020010
+        ],
+        "AllSkills": [
+            101301001,
+            101301002,
+            101301003,
+            101301004,
+            101301009
         ],
         "Csxylic": "SCJarilo-VI/1013010"
     },
@@ -10110,10 +10986,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png",
-        "Figure": "MonsterFigure/Monster_1013010.png",
+        "Icon": "mostericon/Monster_1013010.png",
+        "Figure": "monsterfigure/Monster_1013010.png",
         "Status": [
             30020010
+        ],
+        "AllSkills": [
+            101301001,
+            101301002,
+            101301003,
+            101301004,
+            101301009
         ],
         "Csxylic": "SCJarilo-VI/1013010"
     },
@@ -10170,10 +11053,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png",
-        "Figure": "MonsterFigure/Monster_1013010.png",
+        "Icon": "mostericon/Monster_1013010.png",
+        "Figure": "monsterfigure/Monster_1013010.png",
         "Status": [
             30020010
+        ],
+        "AllSkills": [
+            101301001,
+            101301002,
+            101301003,
+            101301004,
+            101301009
         ],
         "Csxylic": "SCJarilo-VI/1013010"
     },
@@ -10227,10 +11117,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png",
-        "Figure": "MonsterFigure/Monster_1013010.png",
+        "Icon": "mostericon/Monster_1013010.png",
+        "Figure": "monsterfigure/Monster_1013010.png",
         "Status": [
             30020010
+        ],
+        "AllSkills": [
+            101301001,
+            101301002,
+            101301003,
+            101301004,
+            101301009
         ],
         "Csxylic": "SCJarilo-VI/1013010"
     },
@@ -10294,10 +11191,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png",
-        "Figure": "MonsterFigure/Monster_1013010.png",
+        "Icon": "mostericon/Monster_1013010.png",
+        "Figure": "monsterfigure/Monster_1013010.png",
         "Status": [
             30020010
+        ],
+        "AllSkills": [
+            101301001,
+            101301002,
+            101301003,
+            101301004,
+            101301009
         ],
         "Csxylic": "SCJarilo-VI/1013010"
     },
@@ -10351,10 +11255,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png",
-        "Figure": "MonsterFigure/Monster_1013010.png",
+        "Icon": "mostericon/Monster_1013010.png",
+        "Figure": "monsterfigure/Monster_1013010.png",
         "Status": [
             30020010
+        ],
+        "AllSkills": [
+            101301001,
+            101301002,
+            101301003,
+            101301004,
+            101301009
         ],
         "Csxylic": "SCJarilo-VI/1013010"
     },
@@ -10408,10 +11319,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png",
-        "Figure": "MonsterFigure/Monster_1013010.png",
+        "Icon": "mostericon/Monster_1013010.png",
+        "Figure": "monsterfigure/Monster_1013010.png",
         "Status": [
             30020010
+        ],
+        "AllSkills": [
+            101301001,
+            101301002,
+            101301003,
+            101301004,
+            101301009
         ],
         "Csxylic": "SCJarilo-VI/1013010"
     },
@@ -10465,10 +11383,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png",
-        "Figure": "MonsterFigure/Monster_1013010.png",
+        "Icon": "mostericon/Monster_1013010.png",
+        "Figure": "monsterfigure/Monster_1013010.png",
         "Status": [
             30020010
+        ],
+        "AllSkills": [
+            101301001,
+            101301002,
+            101301003,
+            101301004,
+            101301009
         ],
         "Csxylic": "SCJarilo-VI/1013010"
     },
@@ -10522,10 +11447,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png",
-        "Figure": "MonsterFigure/Monster_1013010.png",
+        "Icon": "mostericon/Monster_1013010.png",
+        "Figure": "monsterfigure/Monster_1013010.png",
         "Status": [
             30020010
+        ],
+        "AllSkills": [
+            101301001,
+            101301002,
+            101301003,
+            101301004,
+            101301009
         ],
         "Csxylic": "SCJarilo-VI/1013010"
     },
@@ -10582,10 +11514,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png",
-        "Figure": "MonsterFigure/Monster_1013010.png",
+        "Icon": "mostericon/Monster_1013010.png",
+        "Figure": "monsterfigure/Monster_1013010.png",
         "Status": [
             30020010
+        ],
+        "AllSkills": [
+            101301001,
+            101301002,
+            101301003,
+            101301004,
+            101301009
         ],
         "Csxylic": "SCJarilo-VI/1013010"
     },
@@ -10642,10 +11581,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png",
-        "Figure": "MonsterFigure/Monster_1013010.png",
+        "Icon": "mostericon/Monster_1013010.png",
+        "Figure": "monsterfigure/Monster_1013010.png",
         "Status": [
             30020010
+        ],
+        "AllSkills": [
+            101301001,
+            101301002,
+            101301003,
+            101301004,
+            101301009
         ],
         "Csxylic": "SCJarilo-VI/1013010"
     },
@@ -10699,10 +11645,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png",
-        "Figure": "MonsterFigure/Monster_1013010.png",
+        "Icon": "mostericon/Monster_1013010.png",
+        "Figure": "monsterfigure/Monster_1013010.png",
         "Status": [
             30020010
+        ],
+        "AllSkills": [
+            101301001,
+            101301002,
+            101301003,
+            101301004,
+            101301009
         ],
         "Csxylic": "SCJarilo-VI/1013010"
     },
@@ -10756,10 +11709,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png",
-        "Figure": "MonsterFigure/Monster_1013010.png",
+        "Icon": "mostericon/Monster_1013010.png",
+        "Figure": "monsterfigure/Monster_1013010.png",
         "Status": [
             30020010
+        ],
+        "AllSkills": [
+            101301001,
+            101301002,
+            101301003,
+            101301004,
+            101301009
         ],
         "Csxylic": "SCJarilo-VI/1013010"
     },
@@ -10816,10 +11776,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png",
-        "Figure": "MonsterFigure/Monster_1013010.png",
+        "Icon": "mostericon/Monster_1013010.png",
+        "Figure": "monsterfigure/Monster_1013010.png",
         "Status": [
             30020010
+        ],
+        "AllSkills": [
+            101301001,
+            101301002,
+            101301003,
+            101301004,
+            101301009
         ],
         "Csxylic": "SCJarilo-VI/1013010"
     },
@@ -10873,10 +11840,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png",
-        "Figure": "MonsterFigure/Monster_1013010.png",
+        "Icon": "mostericon/Monster_1013010.png",
+        "Figure": "monsterfigure/Monster_1013010.png",
         "Status": [
             30020010
+        ],
+        "AllSkills": [
+            101301001,
+            101301002,
+            101301003,
+            101301004,
+            101301009
         ],
         "Csxylic": "SCJarilo-VI/1013010"
     },
@@ -10933,10 +11907,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png",
-        "Figure": "MonsterFigure/Monster_1013010.png",
+        "Icon": "mostericon/Monster_1013010.png",
+        "Figure": "monsterfigure/Monster_1013010.png",
         "Status": [
             30020010
+        ],
+        "AllSkills": [
+            101301001,
+            101301002,
+            101301003,
+            101301004,
+            101301009
         ],
         "Csxylic": "SCJarilo-VI/1013010"
     },
@@ -10993,10 +11974,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png",
-        "Figure": "MonsterFigure/Monster_1013010.png",
+        "Icon": "mostericon/Monster_1013010.png",
+        "Figure": "monsterfigure/Monster_1013010.png",
         "Status": [
             30020010
+        ],
+        "AllSkills": [
+            101301001,
+            101301002,
+            101301003,
+            101301004,
+            101301009
         ],
         "Csxylic": "SCJarilo-VI/1013010"
     },
@@ -11053,10 +12041,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png",
-        "Figure": "MonsterFigure/Monster_1013010.png",
+        "Icon": "mostericon/Monster_1013010.png",
+        "Figure": "monsterfigure/Monster_1013010.png",
         "Status": [
             30020010
+        ],
+        "AllSkills": [
+            101301001,
+            101301002,
+            101301003,
+            101301004,
+            101301009
         ],
         "Csxylic": "SCJarilo-VI/1013010"
     },
@@ -11110,10 +12105,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png",
-        "Figure": "MonsterFigure/Monster_1013010.png",
+        "Icon": "mostericon/Monster_1013010.png",
+        "Figure": "monsterfigure/Monster_1013010.png",
         "Status": [
             30020010
+        ],
+        "AllSkills": [
+            101301001,
+            101301002,
+            101301003,
+            101301004,
+            101301009
         ],
         "Csxylic": "SCJarilo-VI/1013010"
     },
@@ -11170,10 +12172,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013010.png",
-        "Figure": "MonsterFigure/Monster_1013010.png",
+        "Icon": "mostericon/Monster_1013010.png",
+        "Figure": "monsterfigure/Monster_1013010.png",
         "Status": [
             30020010
+        ],
+        "AllSkills": [
+            101301001,
+            101301002,
+            101301003,
+            101301004,
+            101301009
         ],
         "Csxylic": "SCJarilo-VI/1013010"
     },
@@ -11227,11 +12236,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1013010.png",
-        "Figure": "MonsterFigure/Monster_1013010.png",
+        "Icon": "mostericon/Monster_1013010.png",
+        "Figure": "monsterfigure/Monster_1013010.png",
         "Status": [
             30020010,
             210130101
+        ],
+        "AllSkills": [
+            101301101,
+            101301102,
+            101301103,
+            101301104,
+            101301109
         ]
     },
     {
@@ -11311,12 +12327,20 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1013010.png",
-        "Figure": "MonsterFigure/Monster_1013010.png",
+        "Icon": "mostericon/Monster_1013010.png",
+        "Figure": "monsterfigure/Monster_1013010.png",
         "Status": [
             30020010,
             210130101,
             210130122
+        ],
+        "AllSkills": [
+            101301201,
+            101301203,
+            101301204,
+            101301205,
+            101301206,
+            101301208
         ]
     },
     {
@@ -11387,12 +12411,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1013010.png",
-        "Figure": "MonsterFigure/Monster_1013010.png",
+        "Icon": "mostericon/Monster_1013010.png",
+        "Figure": "monsterfigure/Monster_1013010.png",
         "Status": [
             30020010,
             210130101,
             210130122
+        ],
+        "AllSkills": [
+            101301301,
+            101301303,
+            101301304,
+            101301305,
+            101301306
         ]
     },
     {
@@ -11473,8 +12504,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1013010.png",
-        "Figure": "MonsterFigure/Monster_1013010.png"
+        "Icon": "mostericon/Monster_1013010.png",
+        "Figure": "monsterfigure/Monster_1013010.png",
+        "AllSkills": [
+            101301401,
+            101301403,
+            101301404,
+            101301405,
+            101301406,
+            101301409,
+            101301408
+        ]
     },
     {
         "_id": 1013020,
@@ -11519,11 +12559,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png",
-        "Figure": "MonsterFigure/Monster_1013020.png",
+        "Icon": "mostericon/Monster_1013020.png",
+        "Figure": "monsterfigure/Monster_1013020.png",
         "Status": [
             210130201,
             210130202
+        ],
+        "AllSkills": [
+            101302001,
+            101302002,
+            101302003,
+            101302004
         ],
         "Csxylic": "SCJarilo-VI/1013020"
     },
@@ -11573,11 +12619,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png",
-        "Figure": "MonsterFigure/Monster_1013020.png",
+        "Icon": "mostericon/Monster_1013020.png",
+        "Figure": "monsterfigure/Monster_1013020.png",
         "Status": [
             210130201,
             210130202
+        ],
+        "AllSkills": [
+            101302001,
+            101302002,
+            101302003,
+            101302004
         ],
         "Csxylic": "SCJarilo-VI/1013020"
     },
@@ -11628,11 +12680,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png",
-        "Figure": "MonsterFigure/Monster_1013020.png",
+        "Icon": "mostericon/Monster_1013020.png",
+        "Figure": "monsterfigure/Monster_1013020.png",
         "Status": [
             210130201,
             210130202
+        ],
+        "AllSkills": [
+            101302001,
+            101302002,
+            101302003,
+            101302004
         ],
         "Csxylic": "SCJarilo-VI/1013020"
     },
@@ -11683,11 +12741,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png",
-        "Figure": "MonsterFigure/Monster_1013020.png",
+        "Icon": "mostericon/Monster_1013020.png",
+        "Figure": "monsterfigure/Monster_1013020.png",
         "Status": [
             210130201,
             210130202
+        ],
+        "AllSkills": [
+            101302001,
+            101302002,
+            101302003,
+            101302004
         ],
         "Csxylic": "SCJarilo-VI/1013020"
     },
@@ -11734,11 +12798,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png",
-        "Figure": "MonsterFigure/Monster_1013020.png",
+        "Icon": "mostericon/Monster_1013020.png",
+        "Figure": "monsterfigure/Monster_1013020.png",
         "Status": [
             210130201,
             210130202
+        ],
+        "AllSkills": [
+            101302001,
+            101302002,
+            101302003,
+            101302004
         ],
         "Csxylic": "SCJarilo-VI/1013020"
     },
@@ -11785,11 +12855,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png",
-        "Figure": "MonsterFigure/Monster_1013020.png",
+        "Icon": "mostericon/Monster_1013020.png",
+        "Figure": "monsterfigure/Monster_1013020.png",
         "Status": [
             210130201,
             210130202
+        ],
+        "AllSkills": [
+            101302001,
+            101302002,
+            101302003,
+            101302004
         ],
         "Csxylic": "SCJarilo-VI/1013020"
     },
@@ -11839,11 +12915,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png",
-        "Figure": "MonsterFigure/Monster_1013020.png",
+        "Icon": "mostericon/Monster_1013020.png",
+        "Figure": "monsterfigure/Monster_1013020.png",
         "Status": [
             210130201,
             210130202
+        ],
+        "AllSkills": [
+            101302001,
+            101302002,
+            101302003,
+            101302004
         ],
         "Csxylic": "SCJarilo-VI/1013020"
     },
@@ -11894,11 +12976,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png",
-        "Figure": "MonsterFigure/Monster_1013020.png",
+        "Icon": "mostericon/Monster_1013020.png",
+        "Figure": "monsterfigure/Monster_1013020.png",
         "Status": [
             210130201,
             210130202
+        ],
+        "AllSkills": [
+            101302001,
+            101302002,
+            101302003,
+            101302004
         ],
         "Csxylic": "SCJarilo-VI/1013020"
     },
@@ -11948,11 +13036,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png",
-        "Figure": "MonsterFigure/Monster_1013020.png",
+        "Icon": "mostericon/Monster_1013020.png",
+        "Figure": "monsterfigure/Monster_1013020.png",
         "Status": [
             210130201,
             210130202
+        ],
+        "AllSkills": [
+            101302001,
+            101302002,
+            101302003,
+            101302004
         ],
         "Csxylic": "SCJarilo-VI/1013020"
     },
@@ -12009,11 +13103,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png",
-        "Figure": "MonsterFigure/Monster_1013020.png",
+        "Icon": "mostericon/Monster_1013020.png",
+        "Figure": "monsterfigure/Monster_1013020.png",
         "Status": [
             210130201,
             210130202
+        ],
+        "AllSkills": [
+            101302001,
+            101302002,
+            101302003,
+            101302004
         ],
         "Csxylic": "SCJarilo-VI/1013020"
     },
@@ -12060,11 +13160,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png",
-        "Figure": "MonsterFigure/Monster_1013020.png",
+        "Icon": "mostericon/Monster_1013020.png",
+        "Figure": "monsterfigure/Monster_1013020.png",
         "Status": [
             210130201,
             210130202
+        ],
+        "AllSkills": [
+            101302001,
+            101302002,
+            101302003,
+            101302004
         ],
         "Csxylic": "SCJarilo-VI/1013020"
     },
@@ -12111,11 +13217,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png",
-        "Figure": "MonsterFigure/Monster_1013020.png",
+        "Icon": "mostericon/Monster_1013020.png",
+        "Figure": "monsterfigure/Monster_1013020.png",
         "Status": [
             210130201,
             210130202
+        ],
+        "AllSkills": [
+            101302001,
+            101302002,
+            101302003,
+            101302004
         ],
         "Csxylic": "SCJarilo-VI/1013020"
     },
@@ -12162,11 +13274,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png",
-        "Figure": "MonsterFigure/Monster_1013020.png",
+        "Icon": "mostericon/Monster_1013020.png",
+        "Figure": "monsterfigure/Monster_1013020.png",
         "Status": [
             210130201,
             210130202
+        ],
+        "AllSkills": [
+            101302001,
+            101302002,
+            101302003,
+            101302004
         ],
         "Csxylic": "SCJarilo-VI/1013020"
     },
@@ -12213,11 +13331,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png",
-        "Figure": "MonsterFigure/Monster_1013020.png",
+        "Icon": "mostericon/Monster_1013020.png",
+        "Figure": "monsterfigure/Monster_1013020.png",
         "Status": [
             210130201,
             210130202
+        ],
+        "AllSkills": [
+            101302001,
+            101302002,
+            101302003,
+            101302004
         ],
         "Csxylic": "SCJarilo-VI/1013020"
     },
@@ -12264,11 +13388,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png",
-        "Figure": "MonsterFigure/Monster_1013020.png",
+        "Icon": "mostericon/Monster_1013020.png",
+        "Figure": "monsterfigure/Monster_1013020.png",
         "Status": [
             210130201,
             210130202
+        ],
+        "AllSkills": [
+            101302001,
+            101302002,
+            101302003,
+            101302004
         ],
         "Csxylic": "SCJarilo-VI/1013020"
     },
@@ -12319,11 +13449,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png",
-        "Figure": "MonsterFigure/Monster_1013020.png",
+        "Icon": "mostericon/Monster_1013020.png",
+        "Figure": "monsterfigure/Monster_1013020.png",
         "Status": [
             210130201,
             210130202
+        ],
+        "AllSkills": [
+            101302001,
+            101302002,
+            101302003,
+            101302004
         ],
         "Csxylic": "SCJarilo-VI/1013020"
     },
@@ -12374,11 +13510,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png",
-        "Figure": "MonsterFigure/Monster_1013020.png",
+        "Icon": "mostericon/Monster_1013020.png",
+        "Figure": "monsterfigure/Monster_1013020.png",
         "Status": [
             210130201,
             210130202
+        ],
+        "AllSkills": [
+            101302001,
+            101302002,
+            101302003,
+            101302004
         ],
         "Csxylic": "SCJarilo-VI/1013020"
     },
@@ -12428,11 +13570,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png",
-        "Figure": "MonsterFigure/Monster_1013020.png",
+        "Icon": "mostericon/Monster_1013020.png",
+        "Figure": "monsterfigure/Monster_1013020.png",
         "Status": [
             210130201,
             210130202
+        ],
+        "AllSkills": [
+            101302001,
+            101302002,
+            101302003,
+            101302004
         ],
         "Csxylic": "SCJarilo-VI/1013020"
     },
@@ -12482,11 +13630,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png",
-        "Figure": "MonsterFigure/Monster_1013020.png",
+        "Icon": "mostericon/Monster_1013020.png",
+        "Figure": "monsterfigure/Monster_1013020.png",
         "Status": [
             210130201,
             210130202
+        ],
+        "AllSkills": [
+            101302001,
+            101302002,
+            101302003,
+            101302004
         ],
         "Csxylic": "SCJarilo-VI/1013020"
     },
@@ -12533,11 +13687,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png",
-        "Figure": "MonsterFigure/Monster_1013020.png",
+        "Icon": "mostericon/Monster_1013020.png",
+        "Figure": "monsterfigure/Monster_1013020.png",
         "Status": [
             210130201,
             210130202
+        ],
+        "AllSkills": [
+            101302001,
+            101302002,
+            101302003,
+            101302004
         ],
         "Csxylic": "SCJarilo-VI/1013020"
     },
@@ -12587,11 +13747,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1013020.png",
-        "Figure": "MonsterFigure/Monster_1013020.png",
+        "Icon": "mostericon/Monster_1013020.png",
+        "Figure": "monsterfigure/Monster_1013020.png",
         "Status": [
             210130201,
             210130202
+        ],
+        "AllSkills": [
+            101302001,
+            101302002,
+            101302003,
+            101302004
         ],
         "Csxylic": "SCJarilo-VI/1013020"
     },
@@ -12644,11 +13810,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1013020.png",
-        "Figure": "MonsterFigure/Monster_1013020.png",
+        "Icon": "mostericon/Monster_1013020.png",
+        "Figure": "monsterfigure/Monster_1013020.png",
         "Status": [
             210130201,
             210130202
+        ],
+        "AllSkills": [
+            101302101,
+            101302103,
+            101302105
         ]
     },
     {
@@ -12723,13 +13894,22 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1013020.png",
-        "Figure": "MonsterFigure/Monster_1013020.png",
+        "Icon": "mostericon/Monster_1013020.png",
+        "Figure": "monsterfigure/Monster_1013020.png",
         "Status": [
             210130201,
             210130202,
             210130221,
             210130222
+        ],
+        "AllSkills": [
+            101302201,
+            101302202,
+            101302205,
+            101302206,
+            101302204,
+            101302203,
+            101302208
         ]
     },
     {
@@ -12797,13 +13977,21 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1013020.png",
-        "Figure": "MonsterFigure/Monster_1013020.png",
+        "Icon": "mostericon/Monster_1013020.png",
+        "Figure": "monsterfigure/Monster_1013020.png",
         "Status": [
             210130201,
             210130202,
             210130221,
             210130222
+        ],
+        "AllSkills": [
+            101302301,
+            101302302,
+            101302305,
+            101302306,
+            101302303,
+            101302304
         ]
     },
     {
@@ -12879,8 +14067,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1013020.png",
-        "Figure": "MonsterFigure/Monster_1013020.png"
+        "Icon": "mostericon/Monster_1013020.png",
+        "Figure": "monsterfigure/Monster_1013020.png",
+        "AllSkills": [
+            101302401,
+            101302402,
+            101302405,
+            101302406,
+            101302404,
+            101302409,
+            101302408
+        ]
     },
     {
         "_id": 1014010,
@@ -12940,12 +14137,18 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1004020.png",
-        "Figure": "MonsterFigure/Monster_1014010.png",
+        "Icon": "mostericon/Monster_1004020.png",
+        "Figure": "monsterfigure/Monster_1014010.png",
         "Status": [
             30010006,
             210040204,
             210120401
+        ],
+        "AllSkills": [
+            101401001,
+            101401002,
+            101401004,
+            101401007
         ],
         "Csxylic": "SCJarilo-VI/1014010"
     },
@@ -13007,12 +14210,18 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1004020.png",
-        "Figure": "MonsterFigure/Monster_1014010.png",
+        "Icon": "mostericon/Monster_1004020.png",
+        "Figure": "monsterfigure/Monster_1014010.png",
         "Status": [
             30010006,
             210040204,
             210120401
+        ],
+        "AllSkills": [
+            101401001,
+            101401002,
+            101401004,
+            101401007
         ],
         "Csxylic": "SCJarilo-VI/1014010"
     },
@@ -13077,12 +14286,18 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1004020.png",
-        "Figure": "MonsterFigure/Monster_1014010.png",
+        "Icon": "mostericon/Monster_1004020.png",
+        "Figure": "monsterfigure/Monster_1014010.png",
         "Status": [
             30010006,
             210040204,
             210120401
+        ],
+        "AllSkills": [
+            101401001,
+            101401002,
+            101401004,
+            101401007
         ],
         "Csxylic": "SCJarilo-VI/1014010"
     },
@@ -13144,12 +14359,18 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1004020.png",
-        "Figure": "MonsterFigure/Monster_1014010.png",
+        "Icon": "mostericon/Monster_1004020.png",
+        "Figure": "monsterfigure/Monster_1014010.png",
         "Status": [
             30010006,
             210040204,
             210120401
+        ],
+        "AllSkills": [
+            101401001,
+            101401002,
+            101401004,
+            101401007
         ],
         "Csxylic": "SCJarilo-VI/1014010"
     },
@@ -13211,12 +14432,18 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1004020.png",
-        "Figure": "MonsterFigure/Monster_1014010.png",
+        "Icon": "mostericon/Monster_1004020.png",
+        "Figure": "monsterfigure/Monster_1014010.png",
         "Status": [
             30010006,
             210040204,
             210120401
+        ],
+        "AllSkills": [
+            101401001,
+            101401002,
+            101401004,
+            101401007
         ],
         "Csxylic": "SCJarilo-VI/1014010"
     },
@@ -13281,12 +14508,18 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1004020.png",
-        "Figure": "MonsterFigure/Monster_1014010.png",
+        "Icon": "mostericon/Monster_1004020.png",
+        "Figure": "monsterfigure/Monster_1014010.png",
         "Status": [
             30010006,
             210040204,
             210120401
+        ],
+        "AllSkills": [
+            101401001,
+            101401002,
+            101401004,
+            101401007
         ],
         "Csxylic": "SCJarilo-VI/1014010"
     },
@@ -13351,12 +14584,18 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1004020.png",
-        "Figure": "MonsterFigure/Monster_1014010.png",
+        "Icon": "mostericon/Monster_1004020.png",
+        "Figure": "monsterfigure/Monster_1014010.png",
         "Status": [
             30010006,
             210040204,
             210120401
+        ],
+        "AllSkills": [
+            101401001,
+            101401002,
+            101401004,
+            101401007
         ],
         "Csxylic": "SCJarilo-VI/1014010"
     },
@@ -13418,12 +14657,18 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1004020.png",
-        "Figure": "MonsterFigure/Monster_1014010.png",
+        "Icon": "mostericon/Monster_1004020.png",
+        "Figure": "monsterfigure/Monster_1014010.png",
         "Status": [
             30010006,
             210040204,
             210120401
+        ],
+        "AllSkills": [
+            101401001,
+            101401002,
+            101401004,
+            101401007
         ],
         "Csxylic": "SCJarilo-VI/1014010"
     },
@@ -13485,12 +14730,18 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1004020.png",
-        "Figure": "MonsterFigure/Monster_1014010.png",
+        "Icon": "mostericon/Monster_1004020.png",
+        "Figure": "monsterfigure/Monster_1014010.png",
         "Status": [
             30010006,
             210040204,
             210120401
+        ],
+        "AllSkills": [
+            101401001,
+            101401002,
+            101401004,
+            101401007
         ],
         "Csxylic": "SCJarilo-VI/1014010"
     },
@@ -13552,12 +14803,18 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 1,
-        "Icon": "MonsterIcon/Monster_1004020.png",
-        "Figure": "MonsterFigure/Monster_1014010.png",
+        "Icon": "mostericon/Monster_1004020.png",
+        "Figure": "monsterfigure/Monster_1014010.png",
         "Status": [
             30010006,
             210040204,
             210120401
+        ],
+        "AllSkills": [
+            101401001,
+            101401002,
+            101401004,
+            101401007
         ],
         "Csxylic": "SCJarilo-VI/1014010"
     },
@@ -13641,12 +14898,21 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1004020.png",
-        "Figure": "MonsterFigure/Monster_1014010.png",
+        "Icon": "mostericon/Monster_1004020.png",
+        "Figure": "monsterfigure/Monster_1014010.png",
         "Status": [
             30010006,
             210040113,
             210120411
+        ],
+        "AllSkills": [
+            101401101,
+            101401102,
+            101401112,
+            101401113,
+            101401104,
+            101401114,
+            101401107
         ]
     },
     {
@@ -13730,12 +14996,21 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1004020.png",
-        "Figure": "MonsterFigure/Monster_1014010.png",
+        "Icon": "mostericon/Monster_1004020.png",
+        "Figure": "monsterfigure/Monster_1014010.png",
         "Status": [
             30010006,
             210040113,
             210120411
+        ],
+        "AllSkills": [
+            101401201,
+            101401202,
+            101401212,
+            101401213,
+            101401204,
+            101401214,
+            101401207
         ]
     },
     {
@@ -13781,8 +15056,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002400.png",
-        "Figure": "MonsterFigure/Monster_1022010.png",
+        "Icon": "mostericon/Monster_9002400.png",
+        "Figure": "monsterfigure/Monster_1022010.png",
+        "AllSkills": [
+            102201001
+        ],
         "Csxylic": "SCFragmentumMonsters/1022010"
     },
     {
@@ -13828,8 +15106,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002400.png",
-        "Figure": "MonsterFigure/Monster_1022010.png",
+        "Icon": "mostericon/Monster_9002400.png",
+        "Figure": "monsterfigure/Monster_1022010.png",
+        "AllSkills": [
+            102201001
+        ],
         "Csxylic": "SCFragmentumMonsters/1022010"
     },
     {
@@ -13875,8 +15156,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002400.png",
-        "Figure": "MonsterFigure/Monster_1022010.png",
+        "Icon": "mostericon/Monster_9002400.png",
+        "Figure": "monsterfigure/Monster_1022010.png",
+        "AllSkills": [
+            102201001
+        ],
         "Csxylic": "SCFragmentumMonsters/1022010"
     },
     {
@@ -13925,8 +15209,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002400.png",
-        "Figure": "MonsterFigure/Monster_1022010.png",
+        "Icon": "mostericon/Monster_9002400.png",
+        "Figure": "monsterfigure/Monster_1022010.png",
+        "AllSkills": [
+            102201001
+        ],
         "Csxylic": "SCFragmentumMonsters/1022010"
     },
     {
@@ -13972,8 +15259,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002400.png",
-        "Figure": "MonsterFigure/Monster_1022010.png",
+        "Icon": "mostericon/Monster_9002400.png",
+        "Figure": "monsterfigure/Monster_1022010.png",
+        "AllSkills": [
+            102201001
+        ],
         "Csxylic": "SCFragmentumMonsters/1022010"
     },
     {
@@ -14019,8 +15309,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002400.png",
-        "Figure": "MonsterFigure/Monster_1022010.png",
+        "Icon": "mostericon/Monster_9002400.png",
+        "Figure": "monsterfigure/Monster_1022010.png",
+        "AllSkills": [
+            102201001
+        ],
         "Csxylic": "SCFragmentumMonsters/1022010"
     },
     {
@@ -14069,8 +15362,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002400.png",
-        "Figure": "MonsterFigure/Monster_1022010.png",
+        "Icon": "mostericon/Monster_9002400.png",
+        "Figure": "monsterfigure/Monster_1022010.png",
+        "AllSkills": [
+            102201001
+        ],
         "Csxylic": "SCFragmentumMonsters/1022010"
     },
     {
@@ -14116,8 +15412,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002400.png",
-        "Figure": "MonsterFigure/Monster_1022010.png",
+        "Icon": "mostericon/Monster_9002400.png",
+        "Figure": "monsterfigure/Monster_1022010.png",
+        "AllSkills": [
+            102201001
+        ],
         "Csxylic": "SCFragmentumMonsters/1022010"
     },
     {
@@ -14163,8 +15462,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002400.png",
-        "Figure": "MonsterFigure/Monster_1022010.png",
+        "Icon": "mostericon/Monster_9002400.png",
+        "Figure": "monsterfigure/Monster_1022010.png",
+        "AllSkills": [
+            102201001
+        ],
         "Csxylic": "SCFragmentumMonsters/1022010"
     },
     {
@@ -14210,8 +15512,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002400.png",
-        "Figure": "MonsterFigure/Monster_1022010.png",
+        "Icon": "mostericon/Monster_9002400.png",
+        "Figure": "monsterfigure/Monster_1022010.png",
+        "AllSkills": [
+            102201001
+        ],
         "Csxylic": "SCFragmentumMonsters/1022010"
     },
     {
@@ -14257,8 +15562,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002400.png",
-        "Figure": "MonsterFigure/Monster_1022010.png",
+        "Icon": "mostericon/Monster_9002400.png",
+        "Figure": "monsterfigure/Monster_1022010.png",
+        "AllSkills": [
+            102201001
+        ],
         "Csxylic": "SCFragmentumMonsters/1022010"
     },
     {
@@ -14304,8 +15612,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002400.png",
-        "Figure": "MonsterFigure/Monster_1022010.png",
+        "Icon": "mostericon/Monster_9002400.png",
+        "Figure": "monsterfigure/Monster_1022010.png",
+        "AllSkills": [
+            102201001
+        ],
         "Csxylic": "SCFragmentumMonsters/1022010"
     },
     {
@@ -14351,8 +15662,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002400.png",
-        "Figure": "MonsterFigure/Monster_1022010.png",
+        "Icon": "mostericon/Monster_9002400.png",
+        "Figure": "monsterfigure/Monster_1022010.png",
+        "AllSkills": [
+            102201001
+        ],
         "Csxylic": "SCFragmentumMonsters/1022010"
     },
     {
@@ -14398,10 +15712,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png",
-        "Figure": "MonsterFigure/Monster_1022020.png",
+        "Icon": "mostericon/Monster_9002410.png",
+        "Figure": "monsterfigure/Monster_1022020.png",
         "Status": [
             30020002
+        ],
+        "AllSkills": [
+            102202001
         ],
         "Csxylic": "SCFragmentumMonsters/1022020"
     },
@@ -14448,10 +15765,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png",
-        "Figure": "MonsterFigure/Monster_1022020.png",
+        "Icon": "mostericon/Monster_9002410.png",
+        "Figure": "monsterfigure/Monster_1022020.png",
         "Status": [
             30020002
+        ],
+        "AllSkills": [
+            102202001
         ],
         "Csxylic": "SCFragmentumMonsters/1022020"
     },
@@ -14498,10 +15818,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png",
-        "Figure": "MonsterFigure/Monster_1022020.png",
+        "Icon": "mostericon/Monster_9002410.png",
+        "Figure": "monsterfigure/Monster_1022020.png",
         "Status": [
             30020002
+        ],
+        "AllSkills": [
+            102202001
         ],
         "Csxylic": "SCFragmentumMonsters/1022020"
     },
@@ -14551,10 +15874,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png",
-        "Figure": "MonsterFigure/Monster_1022020.png",
+        "Icon": "mostericon/Monster_9002410.png",
+        "Figure": "monsterfigure/Monster_1022020.png",
         "Status": [
             30020002
+        ],
+        "AllSkills": [
+            102202001
         ],
         "Csxylic": "SCFragmentumMonsters/1022020"
     },
@@ -14601,10 +15927,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png",
-        "Figure": "MonsterFigure/Monster_1022020.png",
+        "Icon": "mostericon/Monster_9002410.png",
+        "Figure": "monsterfigure/Monster_1022020.png",
         "Status": [
             30020002
+        ],
+        "AllSkills": [
+            102202001
         ],
         "Csxylic": "SCFragmentumMonsters/1022020"
     },
@@ -14651,10 +15980,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png",
-        "Figure": "MonsterFigure/Monster_1022020.png",
+        "Icon": "mostericon/Monster_9002410.png",
+        "Figure": "monsterfigure/Monster_1022020.png",
         "Status": [
             30020002
+        ],
+        "AllSkills": [
+            102202001
         ],
         "Csxylic": "SCFragmentumMonsters/1022020"
     },
@@ -14701,10 +16033,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png",
-        "Figure": "MonsterFigure/Monster_1022020.png",
+        "Icon": "mostericon/Monster_9002410.png",
+        "Figure": "monsterfigure/Monster_1022020.png",
         "Status": [
             30020002
+        ],
+        "AllSkills": [
+            102202001
         ],
         "Csxylic": "SCFragmentumMonsters/1022020"
     },
@@ -14754,10 +16089,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png",
-        "Figure": "MonsterFigure/Monster_1022020.png",
+        "Icon": "mostericon/Monster_9002410.png",
+        "Figure": "monsterfigure/Monster_1022020.png",
         "Status": [
             30020002
+        ],
+        "AllSkills": [
+            102202001
         ],
         "Csxylic": "SCFragmentumMonsters/1022020"
     },
@@ -14804,10 +16142,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png",
-        "Figure": "MonsterFigure/Monster_1022020.png",
+        "Icon": "mostericon/Monster_9002410.png",
+        "Figure": "monsterfigure/Monster_1022020.png",
         "Status": [
             30020002
+        ],
+        "AllSkills": [
+            102202001
         ],
         "Csxylic": "SCFragmentumMonsters/1022020"
     },
@@ -14854,10 +16195,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png",
-        "Figure": "MonsterFigure/Monster_1022020.png",
+        "Icon": "mostericon/Monster_9002410.png",
+        "Figure": "monsterfigure/Monster_1022020.png",
         "Status": [
             30020002
+        ],
+        "AllSkills": [
+            102202001
         ],
         "Csxylic": "SCFragmentumMonsters/1022020"
     },
@@ -14904,10 +16248,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png",
-        "Figure": "MonsterFigure/Monster_1022020.png",
+        "Icon": "mostericon/Monster_9002410.png",
+        "Figure": "monsterfigure/Monster_1022020.png",
         "Status": [
             30020002
+        ],
+        "AllSkills": [
+            102202001
         ],
         "Csxylic": "SCFragmentumMonsters/1022020"
     },
@@ -14954,10 +16301,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png",
-        "Figure": "MonsterFigure/Monster_1022020.png",
+        "Icon": "mostericon/Monster_9002410.png",
+        "Figure": "monsterfigure/Monster_1022020.png",
         "Status": [
             30020002
+        ],
+        "AllSkills": [
+            102202001
         ],
         "Csxylic": "SCFragmentumMonsters/1022020"
     },
@@ -15004,10 +16354,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png",
-        "Figure": "MonsterFigure/Monster_1022020.png",
+        "Icon": "mostericon/Monster_9002410.png",
+        "Figure": "monsterfigure/Monster_1022020.png",
         "Status": [
             30020002
+        ],
+        "AllSkills": [
+            102202001
         ],
         "Csxylic": "SCFragmentumMonsters/1022020"
     },
@@ -15054,10 +16407,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png",
-        "Figure": "MonsterFigure/Monster_1022020.png",
+        "Icon": "mostericon/Monster_9002410.png",
+        "Figure": "monsterfigure/Monster_1022020.png",
         "Status": [
             30020002
+        ],
+        "AllSkills": [
+            102202001
         ],
         "Csxylic": "SCFragmentumMonsters/1022020"
     },
@@ -15104,10 +16460,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png",
-        "Figure": "MonsterFigure/Monster_1022020.png",
+        "Icon": "mostericon/Monster_9002410.png",
+        "Figure": "monsterfigure/Monster_1022020.png",
         "Status": [
             30020002
+        ],
+        "AllSkills": [
+            102202001
         ],
         "Csxylic": "SCFragmentumMonsters/1022020"
     },
@@ -15154,10 +16513,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png",
-        "Figure": "MonsterFigure/Monster_1022020.png",
+        "Icon": "mostericon/Monster_9002410.png",
+        "Figure": "monsterfigure/Monster_1022020.png",
         "Status": [
             30020002
+        ],
+        "AllSkills": [
+            102202001
         ],
         "Csxylic": "SCFragmentumMonsters/1022020"
     },
@@ -15204,10 +16566,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png",
-        "Figure": "MonsterFigure/Monster_1022020.png",
+        "Icon": "mostericon/Monster_9002410.png",
+        "Figure": "monsterfigure/Monster_1022020.png",
         "Status": [
             30020002
+        ],
+        "AllSkills": [
+            102202001
         ],
         "Csxylic": "SCFragmentumMonsters/1022020"
     },
@@ -15254,10 +16619,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png",
-        "Figure": "MonsterFigure/Monster_1022020.png",
+        "Icon": "mostericon/Monster_9002410.png",
+        "Figure": "monsterfigure/Monster_1022020.png",
         "Status": [
             30020002
+        ],
+        "AllSkills": [
+            102202001
         ],
         "Csxylic": "SCFragmentumMonsters/1022020"
     },
@@ -15304,10 +16672,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png",
-        "Figure": "MonsterFigure/Monster_1022020.png",
+        "Icon": "mostericon/Monster_9002410.png",
+        "Figure": "monsterfigure/Monster_1022020.png",
         "Status": [
             30020002
+        ],
+        "AllSkills": [
+            102202001
         ],
         "Csxylic": "SCFragmentumMonsters/1022020"
     },
@@ -15354,10 +16725,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png",
-        "Figure": "MonsterFigure/Monster_1022020.png",
+        "Icon": "mostericon/Monster_9002410.png",
+        "Figure": "monsterfigure/Monster_1022020.png",
         "Status": [
             30020002
+        ],
+        "AllSkills": [
+            102202001
         ],
         "Csxylic": "SCFragmentumMonsters/1022020"
     },
@@ -15404,10 +16778,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png",
-        "Figure": "MonsterFigure/Monster_1022020.png",
+        "Icon": "mostericon/Monster_9002410.png",
+        "Figure": "monsterfigure/Monster_1022020.png",
         "Status": [
             30020002
+        ],
+        "AllSkills": [
+            102202001
         ],
         "Csxylic": "SCFragmentumMonsters/1022020"
     },
@@ -15454,10 +16831,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png",
-        "Figure": "MonsterFigure/Monster_1022020.png",
+        "Icon": "mostericon/Monster_9002410.png",
+        "Figure": "monsterfigure/Monster_1022020.png",
         "Status": [
             30020002
+        ],
+        "AllSkills": [
+            102202001
         ],
         "Csxylic": "SCFragmentumMonsters/1022020"
     },
@@ -15504,10 +16884,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png",
-        "Figure": "MonsterFigure/Monster_1022020.png",
+        "Icon": "mostericon/Monster_9002410.png",
+        "Figure": "monsterfigure/Monster_1022020.png",
         "Status": [
             30020002
+        ],
+        "AllSkills": [
+            102202001
         ],
         "Csxylic": "SCFragmentumMonsters/1022020"
     },
@@ -15554,10 +16937,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9002410.png",
-        "Figure": "MonsterFigure/Monster_1022020.png",
+        "Icon": "mostericon/Monster_9002410.png",
+        "Figure": "monsterfigure/Monster_1022020.png",
         "Status": [
             30020002
+        ],
+        "AllSkills": [
+            102202001
         ],
         "Csxylic": "SCFragmentumMonsters/1022020"
     },
@@ -15608,12 +16994,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023010.png",
-        "Figure": "MonsterFigure/Monster_1023010.png",
+        "Icon": "mostericon/Monster_1023010.png",
+        "Figure": "monsterfigure/Monster_1023010.png",
         "Status": [
             30020002,
             210230101,
             210230102
+        ],
+        "AllSkills": [
+            102301001,
+            102301002,
+            102301003,
+            102301004,
+            102301005
         ],
         "Csxylic": "SCFragmentumMonsters/1023010"
     },
@@ -15668,12 +17061,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023010.png",
-        "Figure": "MonsterFigure/Monster_1023010.png",
+        "Icon": "mostericon/Monster_1023010.png",
+        "Figure": "monsterfigure/Monster_1023010.png",
         "Status": [
             30020002,
             210230101,
             210230102
+        ],
+        "AllSkills": [
+            102301001,
+            102301002,
+            102301003,
+            102301004,
+            102301005
         ],
         "Csxylic": "SCFragmentumMonsters/1023010"
     },
@@ -15728,12 +17128,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023010.png",
-        "Figure": "MonsterFigure/Monster_1023010.png",
+        "Icon": "mostericon/Monster_1023010.png",
+        "Figure": "monsterfigure/Monster_1023010.png",
         "Status": [
             30020002,
             210230101,
             210230102
+        ],
+        "AllSkills": [
+            102301001,
+            102301002,
+            102301003,
+            102301004,
+            102301005
         ],
         "Csxylic": "SCFragmentumMonsters/1023010"
     },
@@ -15784,12 +17191,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023010.png",
-        "Figure": "MonsterFigure/Monster_1023010.png",
+        "Icon": "mostericon/Monster_1023010.png",
+        "Figure": "monsterfigure/Monster_1023010.png",
         "Status": [
             30020002,
             210230101,
             210230102
+        ],
+        "AllSkills": [
+            102301001,
+            102301002,
+            102301003,
+            102301004,
+            102301005
         ],
         "Csxylic": "SCFragmentumMonsters/1023010"
     },
@@ -15840,12 +17254,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023010.png",
-        "Figure": "MonsterFigure/Monster_1023010.png",
+        "Icon": "mostericon/Monster_1023010.png",
+        "Figure": "monsterfigure/Monster_1023010.png",
         "Status": [
             30020002,
             210230101,
             210230102
+        ],
+        "AllSkills": [
+            102301001,
+            102301002,
+            102301003,
+            102301004,
+            102301005
         ],
         "Csxylic": "SCFragmentumMonsters/1023010"
     },
@@ -15900,12 +17321,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023010.png",
-        "Figure": "MonsterFigure/Monster_1023010.png",
+        "Icon": "mostericon/Monster_1023010.png",
+        "Figure": "monsterfigure/Monster_1023010.png",
         "Status": [
             30020002,
             210230101,
             210230102
+        ],
+        "AllSkills": [
+            102301001,
+            102301002,
+            102301003,
+            102301004,
+            102301005
         ],
         "Csxylic": "SCFragmentumMonsters/1023010"
     },
@@ -15960,12 +17388,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023010.png",
-        "Figure": "MonsterFigure/Monster_1023010.png",
+        "Icon": "mostericon/Monster_1023010.png",
+        "Figure": "monsterfigure/Monster_1023010.png",
         "Status": [
             30020002,
             210230101,
             210230102
+        ],
+        "AllSkills": [
+            102301001,
+            102301002,
+            102301003,
+            102301004,
+            102301005
         ],
         "Csxylic": "SCFragmentumMonsters/1023010"
     },
@@ -16020,12 +17455,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023010.png",
-        "Figure": "MonsterFigure/Monster_1023010.png",
+        "Icon": "mostericon/Monster_1023010.png",
+        "Figure": "monsterfigure/Monster_1023010.png",
         "Status": [
             30020002,
             210230101,
             210230102
+        ],
+        "AllSkills": [
+            102301001,
+            102301002,
+            102301003,
+            102301004,
+            102301005
         ],
         "Csxylic": "SCFragmentumMonsters/1023010"
     },
@@ -16076,12 +17518,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023010.png",
-        "Figure": "MonsterFigure/Monster_1023010.png",
+        "Icon": "mostericon/Monster_1023010.png",
+        "Figure": "monsterfigure/Monster_1023010.png",
         "Status": [
             30020002,
             210230101,
             210230102
+        ],
+        "AllSkills": [
+            102301001,
+            102301002,
+            102301003,
+            102301004,
+            102301005
         ],
         "Csxylic": "SCFragmentumMonsters/1023010"
     },
@@ -16132,12 +17581,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023010.png",
-        "Figure": "MonsterFigure/Monster_1023010.png",
+        "Icon": "mostericon/Monster_1023010.png",
+        "Figure": "monsterfigure/Monster_1023010.png",
         "Status": [
             30020002,
             210230101,
             210230102
+        ],
+        "AllSkills": [
+            102301001,
+            102301002,
+            102301003,
+            102301004,
+            102301005
         ],
         "Csxylic": "SCFragmentumMonsters/1023010"
     },
@@ -16191,12 +17647,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023010.png",
-        "Figure": "MonsterFigure/Monster_1023010.png",
+        "Icon": "mostericon/Monster_1023010.png",
+        "Figure": "monsterfigure/Monster_1023010.png",
         "Status": [
             30020002,
             210230101,
             210230102
+        ],
+        "AllSkills": [
+            102301001,
+            102301002,
+            102301003,
+            102301004,
+            102301005
         ],
         "Csxylic": "SCFragmentumMonsters/1023010"
     },
@@ -16247,12 +17710,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023010.png",
-        "Figure": "MonsterFigure/Monster_1023010.png",
+        "Icon": "mostericon/Monster_1023010.png",
+        "Figure": "monsterfigure/Monster_1023010.png",
         "Status": [
             30020002,
             210230101,
             210230102
+        ],
+        "AllSkills": [
+            102301001,
+            102301002,
+            102301003,
+            102301004,
+            102301005
         ],
         "Csxylic": "SCFragmentumMonsters/1023010"
     },
@@ -16303,12 +17773,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023010.png",
-        "Figure": "MonsterFigure/Monster_1023010.png",
+        "Icon": "mostericon/Monster_1023010.png",
+        "Figure": "monsterfigure/Monster_1023010.png",
         "Status": [
             30020002,
             210230101,
             210230102
+        ],
+        "AllSkills": [
+            102301001,
+            102301002,
+            102301003,
+            102301004,
+            102301005
         ],
         "Csxylic": "SCFragmentumMonsters/1023010"
     },
@@ -16362,12 +17839,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023010.png",
-        "Figure": "MonsterFigure/Monster_1023010.png",
+        "Icon": "mostericon/Monster_1023010.png",
+        "Figure": "monsterfigure/Monster_1023010.png",
         "Status": [
             30020002,
             210230101,
             210230102
+        ],
+        "AllSkills": [
+            102301001,
+            102301002,
+            102301003,
+            102301004,
+            102301005
         ],
         "Csxylic": "SCFragmentumMonsters/1023010"
     },
@@ -16421,12 +17905,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023010.png",
-        "Figure": "MonsterFigure/Monster_1023010.png",
+        "Icon": "mostericon/Monster_1023010.png",
+        "Figure": "monsterfigure/Monster_1023010.png",
         "Status": [
             30020002,
             210230101,
             210230102
+        ],
+        "AllSkills": [
+            102301001,
+            102301002,
+            102301003,
+            102301004,
+            102301005
         ],
         "Csxylic": "SCFragmentumMonsters/1023010"
     },
@@ -16479,12 +17970,21 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1023010.png",
-        "Figure": "MonsterFigure/Monster_1023010.png",
+        "Icon": "mostericon/Monster_1023010.png",
+        "Figure": "monsterfigure/Monster_1023010.png",
         "Status": [
             30020002,
             210230101,
             210230102
+        ],
+        "AllSkills": [
+            102301101,
+            102301102,
+            102301103,
+            102301104,
+            102301105,
+            102301106,
+            102301107
         ]
     },
     {
@@ -16541,13 +18041,20 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023020.png",
-        "Figure": "MonsterFigure/Monster_1023020.png",
+        "Icon": "mostericon/Monster_1023020.png",
+        "Figure": "monsterfigure/Monster_1023020.png",
         "Status": [
             210230202,
             210230203,
             210230207,
             210230208
+        ],
+        "AllSkills": [
+            102302001,
+            102302005,
+            102302006,
+            102302007,
+            102302009
         ],
         "Csxylic": "SCFragmentumMonsters/1023020"
     },
@@ -16605,13 +18112,20 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023020.png",
-        "Figure": "MonsterFigure/Monster_1023020.png",
+        "Icon": "mostericon/Monster_1023020.png",
+        "Figure": "monsterfigure/Monster_1023020.png",
         "Status": [
             210230202,
             210230203,
             210230207,
             210230208
+        ],
+        "AllSkills": [
+            102302001,
+            102302005,
+            102302006,
+            102302007,
+            102302009
         ],
         "Csxylic": "SCFragmentumMonsters/1023020"
     },
@@ -16669,13 +18183,20 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023020.png",
-        "Figure": "MonsterFigure/Monster_1023020.png",
+        "Icon": "mostericon/Monster_1023020.png",
+        "Figure": "monsterfigure/Monster_1023020.png",
         "Status": [
             210230202,
             210230203,
             210230207,
             210230208
+        ],
+        "AllSkills": [
+            102302001,
+            102302005,
+            102302006,
+            102302007,
+            102302009
         ],
         "Csxylic": "SCFragmentumMonsters/1023020"
     },
@@ -16736,13 +18257,20 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023020.png",
-        "Figure": "MonsterFigure/Monster_1023020.png",
+        "Icon": "mostericon/Monster_1023020.png",
+        "Figure": "monsterfigure/Monster_1023020.png",
         "Status": [
             210230202,
             210230203,
             210230207,
             210230208
+        ],
+        "AllSkills": [
+            102302001,
+            102302005,
+            102302006,
+            102302007,
+            102302009
         ],
         "Csxylic": "SCFragmentumMonsters/1023020"
     },
@@ -16804,13 +18332,20 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_1023020.png",
-        "Figure": "MonsterFigure/Monster_1023020.png",
+        "Icon": "mostericon/Monster_1023020.png",
+        "Figure": "monsterfigure/Monster_1023020.png",
         "Status": [
             210230202,
             210230203,
             210230207,
             210230208
+        ],
+        "AllSkills": [
+            102302001,
+            102302005,
+            102302006,
+            102302007,
+            102302009
         ],
         "Csxylic": "SCFragmentumMonsters/1023020"
     },
@@ -16870,12 +18405,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1023020.png",
-        "Figure": "MonsterFigure/Monster_1023020.png",
+        "Icon": "mostericon/Monster_1023020.png",
+        "Figure": "monsterfigure/Monster_1023020.png",
         "Status": [
             210230202,
             210230203,
             210230207
+        ],
+        "AllSkills": [
+            102302101,
+            102302105,
+            102302106,
+            102302110,
+            102302111
         ]
     },
     {
@@ -16926,10 +18468,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2002010.png",
-        "Figure": "MonsterFigure/Monster_2002010.png",
+        "Icon": "mostericon/Monster_2002010.png",
+        "Figure": "monsterfigure/Monster_2002010.png",
         "Status": [
             30010041
+        ],
+        "AllSkills": [
+            200201001
         ],
         "Csxylic": "SCTheXianzhouLuofu/2002010"
     },
@@ -16981,10 +18526,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2002010.png",
-        "Figure": "MonsterFigure/Monster_2002010.png",
+        "Icon": "mostericon/Monster_2002010.png",
+        "Figure": "monsterfigure/Monster_2002010.png",
         "Status": [
             30010041
+        ],
+        "AllSkills": [
+            200201001
         ],
         "Csxylic": "SCTheXianzhouLuofu/2002010"
     },
@@ -17039,10 +18587,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2002010.png",
-        "Figure": "MonsterFigure/Monster_2002010.png",
+        "Icon": "mostericon/Monster_2002010.png",
+        "Figure": "monsterfigure/Monster_2002010.png",
         "Status": [
             30010041
+        ],
+        "AllSkills": [
+            200201001
         ],
         "Csxylic": "SCTheXianzhouLuofu/2002010"
     },
@@ -17094,10 +18645,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2002010.png",
-        "Figure": "MonsterFigure/Monster_2002010.png",
+        "Icon": "mostericon/Monster_2002010.png",
+        "Figure": "monsterfigure/Monster_2002010.png",
         "Status": [
             30010041
+        ],
+        "AllSkills": [
+            200201001
         ],
         "Csxylic": "SCTheXianzhouLuofu/2002010"
     },
@@ -17152,10 +18706,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2002010.png",
-        "Figure": "MonsterFigure/Monster_2002010.png",
+        "Icon": "mostericon/Monster_2002010.png",
+        "Figure": "monsterfigure/Monster_2002010.png",
         "Status": [
             30010041
+        ],
+        "AllSkills": [
+            200201001
         ],
         "Csxylic": "SCTheXianzhouLuofu/2002010"
     },
@@ -17207,10 +18764,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2002010.png",
-        "Figure": "MonsterFigure/Monster_2002010.png",
+        "Icon": "mostericon/Monster_2002010.png",
+        "Figure": "monsterfigure/Monster_2002010.png",
         "Status": [
             30010041
+        ],
+        "AllSkills": [
+            200201001
         ],
         "Csxylic": "SCTheXianzhouLuofu/2002010"
     },
@@ -17265,10 +18825,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2002010.png",
-        "Figure": "MonsterFigure/Monster_2002010.png",
+        "Icon": "mostericon/Monster_2002010.png",
+        "Figure": "monsterfigure/Monster_2002010.png",
         "Status": [
             30010041
+        ],
+        "AllSkills": [
+            200201001
         ],
         "Csxylic": "SCTheXianzhouLuofu/2002010"
     },
@@ -17315,7 +18878,10 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2002020.png",
+        "Icon": "mostericon/Monster_2002020.png",
+        "AllSkills": [
+            200202001
+        ],
         "Csxylic": "SCNonCategorized/2002020"
     },
     {
@@ -17361,7 +18927,10 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2002020.png",
+        "Icon": "mostericon/Monster_2002020.png",
+        "AllSkills": [
+            200202001
+        ],
         "Csxylic": "SCNonCategorized/2002020"
     },
     {
@@ -17407,7 +18976,10 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2002020.png",
+        "Icon": "mostericon/Monster_2002020.png",
+        "AllSkills": [
+            200202001
+        ],
         "Csxylic": "SCNonCategorized/2002020"
     },
     {
@@ -17456,7 +19028,10 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2002020.png",
+        "Icon": "mostericon/Monster_2002020.png",
+        "AllSkills": [
+            200202001
+        ],
         "Csxylic": "SCNonCategorized/2002020"
     },
     {
@@ -17502,7 +19077,10 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2002020.png"
+        "Icon": "mostericon/Monster_2002020.png",
+        "AllSkills": [
+            200202101
+        ]
     },
     {
         "_id": 200202101,
@@ -17547,7 +19125,10 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2002020.png"
+        "Icon": "mostericon/Monster_2002020.png",
+        "AllSkills": [
+            200202101
+        ]
     },
     {
         "_id": 200202102,
@@ -17592,7 +19173,10 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2002020.png"
+        "Icon": "mostericon/Monster_2002020.png",
+        "AllSkills": [
+            200202101
+        ]
     },
     {
         "_id": 200202103,
@@ -17640,7 +19224,10 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2002020.png"
+        "Icon": "mostericon/Monster_2002020.png",
+        "AllSkills": [
+            200202101
+        ]
     },
     {
         "_id": 2002030,
@@ -17682,11 +19269,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2002030.png",
-        "Figure": "MonsterFigure/Monster_2002030.png",
+        "Icon": "mostericon/Monster_2002030.png",
+        "Figure": "monsterfigure/Monster_2002030.png",
         "Status": [
             220020301,
             220020302
+        ],
+        "AllSkills": [
+            200203001
         ],
         "Csxylic": "SCTheXianzhouLuofu/2002030"
     },
@@ -17730,11 +19320,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2002030.png",
-        "Figure": "MonsterFigure/Monster_2002030.png",
+        "Icon": "mostericon/Monster_2002030.png",
+        "Figure": "monsterfigure/Monster_2002030.png",
         "Status": [
             220020301,
             220020302
+        ],
+        "AllSkills": [
+            200203001
         ],
         "Csxylic": "SCTheXianzhouLuofu/2002030"
     },
@@ -17778,11 +19371,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2002030.png",
-        "Figure": "MonsterFigure/Monster_2002030.png",
+        "Icon": "mostericon/Monster_2002030.png",
+        "Figure": "monsterfigure/Monster_2002030.png",
         "Status": [
             220020301,
             220020302
+        ],
+        "AllSkills": [
+            200203001
         ],
         "Csxylic": "SCTheXianzhouLuofu/2002030"
     },
@@ -17826,11 +19422,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2002030.png",
-        "Figure": "MonsterFigure/Monster_2002030.png",
+        "Icon": "mostericon/Monster_2002030.png",
+        "Figure": "monsterfigure/Monster_2002030.png",
         "Status": [
             220020301,
             220020302
+        ],
+        "AllSkills": [
+            200203001
         ],
         "Csxylic": "SCTheXianzhouLuofu/2002030"
     },
@@ -17874,11 +19473,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2002030.png",
-        "Figure": "MonsterFigure/Monster_2002030.png",
+        "Icon": "mostericon/Monster_2002030.png",
+        "Figure": "monsterfigure/Monster_2002030.png",
         "Status": [
             220020301,
             220020302
+        ],
+        "AllSkills": [
+            200203001
         ],
         "Csxylic": "SCTheXianzhouLuofu/2002030"
     },
@@ -17922,8 +19524,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2002030.png",
-        "Figure": "MonsterFigure/Monster_2002030.png"
+        "Icon": "mostericon/Monster_2002030.png",
+        "Figure": "monsterfigure/Monster_2002030.png",
+        "AllSkills": [
+            200203101
+        ]
     },
     {
         "_id": 200203201,
@@ -17965,11 +19570,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2002030.png",
-        "Figure": "MonsterFigure/Monster_2002030.png",
+        "Icon": "mostericon/Monster_2002030.png",
+        "Figure": "monsterfigure/Monster_2002030.png",
         "Status": [
             220020301,
             220020302
+        ],
+        "AllSkills": [
+            200203201
         ]
     },
     {
@@ -18012,11 +19620,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2002030.png",
-        "Figure": "MonsterFigure/Monster_2002030.png",
+        "Icon": "mostericon/Monster_2002030.png",
+        "Figure": "monsterfigure/Monster_2002030.png",
         "Status": [
             220020301,
             220020302
+        ],
+        "AllSkills": [
+            200203201
         ]
     },
     {
@@ -18067,11 +19678,19 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 5,
-        "Icon": "MonsterIcon/Monster_2004010.png",
-        "Figure": "MonsterFigure/Monster_2004010.png",
+        "Icon": "mostericon/Monster_2004010.png",
+        "Figure": "monsterfigure/Monster_2004010.png",
         "Status": [
             30020004,
             30020028
+        ],
+        "AllSkills": [
+            200401001,
+            200401002,
+            200401003,
+            200401004,
+            200401005,
+            200401006
         ],
         "Csxylic": "SCStellaronHunters/2004010"
     },
@@ -18126,11 +19745,19 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 5,
-        "Icon": "MonsterIcon/Monster_2004010.png",
-        "Figure": "MonsterFigure/Monster_2004010.png",
+        "Icon": "mostericon/Monster_2004010.png",
+        "Figure": "monsterfigure/Monster_2004010.png",
         "Status": [
             30020004,
             30020028
+        ],
+        "AllSkills": [
+            200401001,
+            200401002,
+            200401003,
+            200401004,
+            200401005,
+            200401006
         ],
         "Csxylic": "SCStellaronHunters/2004010"
     },
@@ -18182,11 +19809,19 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 5,
-        "Icon": "MonsterIcon/Monster_2004010.png",
-        "Figure": "MonsterFigure/Monster_2004010.png",
+        "Icon": "mostericon/Monster_2004010.png",
+        "Figure": "monsterfigure/Monster_2004010.png",
         "Status": [
             30020004,
             30020028
+        ],
+        "AllSkills": [
+            200401001,
+            200401002,
+            200401003,
+            200401004,
+            200401005,
+            200401006
         ],
         "Csxylic": "SCStellaronHunters/2004010"
     },
@@ -18238,11 +19873,19 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 5,
-        "Icon": "MonsterIcon/Monster_2004010.png",
-        "Figure": "MonsterFigure/Monster_2004010.png",
+        "Icon": "mostericon/Monster_2004010.png",
+        "Figure": "monsterfigure/Monster_2004010.png",
         "Status": [
             30020004,
             30020028
+        ],
+        "AllSkills": [
+            200401001,
+            200401002,
+            200401003,
+            200401004,
+            200401005,
+            200401006
         ],
         "Csxylic": "SCStellaronHunters/2004010"
     },
@@ -18294,11 +19937,19 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 5,
-        "Icon": "MonsterIcon/Monster_2004010.png",
-        "Figure": "MonsterFigure/Monster_2004010.png",
+        "Icon": "mostericon/Monster_2004010.png",
+        "Figure": "monsterfigure/Monster_2004010.png",
         "Status": [
             30020004,
             30020028
+        ],
+        "AllSkills": [
+            200401001,
+            200401002,
+            200401003,
+            200401004,
+            200401005,
+            200401006
         ],
         "Csxylic": "SCStellaronHunters/2004010"
     },
@@ -18376,13 +20027,24 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2004010.png",
-        "Figure": "MonsterFigure/Monster_2004010.png",
+        "Icon": "mostericon/Monster_2004010.png",
+        "Figure": "monsterfigure/Monster_2004010.png",
         "Status": [
             30020004,
             30020028,
             220040111,
             220040112
+        ],
+        "AllSkills": [
+            200401101,
+            200401102,
+            200401103,
+            200401104,
+            200401107,
+            200401108,
+            200401109,
+            200401106,
+            200401105
         ]
     },
     {
@@ -18459,13 +20121,24 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2004010.png",
-        "Figure": "MonsterFigure/Monster_2004010.png",
+        "Icon": "mostericon/Monster_2004010.png",
+        "Figure": "monsterfigure/Monster_2004010.png",
         "Status": [
             30020004,
             30020028,
             220040111,
             220040112
+        ],
+        "AllSkills": [
+            200401201,
+            200401202,
+            200401203,
+            200401204,
+            200401207,
+            200401208,
+            200401209,
+            200401206,
+            200401205
         ]
     },
     {
@@ -18541,8 +20214,21 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2004010.png",
-        "Figure": "MonsterFigure/Monster_2004010.png"
+        "Icon": "mostericon/Monster_2004010.png",
+        "Figure": "monsterfigure/Monster_2004010.png",
+        "AllSkills": [
+            200401301,
+            200401302,
+            200401303,
+            200401304,
+            200401306,
+            200401308,
+            200401309,
+            200401310,
+            200401312,
+            200401307,
+            200401311
+        ]
     },
     {
         "_id": 2004020,
@@ -18600,11 +20286,19 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2004020.png",
-        "Figure": "MonsterFigure/Monster_2004020.png",
+        "Icon": "mostericon/Monster_2004020.png",
+        "Figure": "monsterfigure/Monster_2004020.png",
         "Status": [
             220040201,
             220040204
+        ],
+        "AllSkills": [
+            200402001,
+            200402002,
+            200402003,
+            200402004,
+            200402005,
+            200402006
         ],
         "Csxylic": "SCTheXianzhouLuofu/2004020"
     },
@@ -18668,11 +20362,19 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2004020.png",
-        "Figure": "MonsterFigure/Monster_2004020.png",
+        "Icon": "mostericon/Monster_2004020.png",
+        "Figure": "monsterfigure/Monster_2004020.png",
         "Status": [
             220040201,
             220040204
+        ],
+        "AllSkills": [
+            200402001,
+            200402002,
+            200402003,
+            200402004,
+            200402005,
+            200402006
         ],
         "Csxylic": "SCTheXianzhouLuofu/2004020"
     },
@@ -18732,11 +20434,19 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2004020.png",
-        "Figure": "MonsterFigure/Monster_2004020.png",
+        "Icon": "mostericon/Monster_2004020.png",
+        "Figure": "monsterfigure/Monster_2004020.png",
         "Status": [
             220040201,
             220040204
+        ],
+        "AllSkills": [
+            200402001,
+            200402002,
+            200402003,
+            200402004,
+            200402005,
+            200402006
         ],
         "Csxylic": "SCTheXianzhouLuofu/2004020"
     },
@@ -18796,11 +20506,19 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2004020.png",
-        "Figure": "MonsterFigure/Monster_2004020.png",
+        "Icon": "mostericon/Monster_2004020.png",
+        "Figure": "monsterfigure/Monster_2004020.png",
         "Status": [
             220040201,
             220040204
+        ],
+        "AllSkills": [
+            200402001,
+            200402002,
+            200402003,
+            200402004,
+            200402005,
+            200402006
         ],
         "Csxylic": "SCTheXianzhouLuofu/2004020"
     },
@@ -18860,11 +20578,19 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2004020.png",
-        "Figure": "MonsterFigure/Monster_2004020.png",
+        "Icon": "mostericon/Monster_2004020.png",
+        "Figure": "monsterfigure/Monster_2004020.png",
         "Status": [
             220040201,
             220040204
+        ],
+        "AllSkills": [
+            200402001,
+            200402002,
+            200402003,
+            200402004,
+            200402005,
+            200402006
         ],
         "Csxylic": "SCTheXianzhouLuofu/2004020"
     },
@@ -18924,11 +20650,19 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2004020.png",
-        "Figure": "MonsterFigure/Monster_2004020.png",
+        "Icon": "mostericon/Monster_2004020.png",
+        "Figure": "monsterfigure/Monster_2004020.png",
         "Status": [
             220040201,
             220040204
+        ],
+        "AllSkills": [
+            200402001,
+            200402002,
+            200402003,
+            200402004,
+            200402005,
+            200402006
         ],
         "Csxylic": "SCTheXianzhouLuofu/2004020"
     },
@@ -18988,11 +20722,19 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2004020.png",
-        "Figure": "MonsterFigure/Monster_2004020.png",
+        "Icon": "mostericon/Monster_2004020.png",
+        "Figure": "monsterfigure/Monster_2004020.png",
         "Status": [
             220040201,
             220040204
+        ],
+        "AllSkills": [
+            200402001,
+            200402002,
+            200402003,
+            200402004,
+            200402005,
+            200402006
         ],
         "Csxylic": "SCTheXianzhouLuofu/2004020"
     },
@@ -19076,13 +20818,23 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2004020.png",
-        "Figure": "MonsterFigure/Monster_2004020.png",
+        "Icon": "mostericon/Monster_2004020.png",
+        "Figure": "monsterfigure/Monster_2004020.png",
         "Status": [
             220040201,
             220040211,
             220040212,
             220040215
+        ],
+        "AllSkills": [
+            200402101,
+            200402103,
+            200402104,
+            200402105,
+            200402106,
+            200402102,
+            200402107,
+            200402108
         ]
     },
     {
@@ -19165,8 +20917,18 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2004020.png",
-        "Figure": "MonsterFigure/Monster_2004020.png"
+        "Icon": "mostericon/Monster_2004020.png",
+        "Figure": "monsterfigure/Monster_2004020.png",
+        "AllSkills": [
+            200402201,
+            200402203,
+            200402204,
+            200402205,
+            200402206,
+            200402202,
+            200402207,
+            200402208
+        ]
     },
     {
         "_id": 2004023,
@@ -19233,8 +20995,20 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2004020.png",
-        "Figure": "MonsterFigure/Monster_2004020.png"
+        "Icon": "mostericon/Monster_2004020.png",
+        "Figure": "monsterfigure/Monster_2004020.png",
+        "AllSkills": [
+            200402301,
+            200402302,
+            200402303,
+            200402304,
+            200402305,
+            200402306,
+            200402307,
+            200402308,
+            200402309,
+            200402310
+        ]
     },
     {
         "_id": 2011010,
@@ -19276,10 +21050,13 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2011010.png",
-        "Figure": "MonsterFigure/Monster_2011010.png",
+        "Icon": "mostericon/Monster_2011010.png",
+        "Figure": "monsterfigure/Monster_2011010.png",
         "Status": [
             30010017
+        ],
+        "AllSkills": [
+            201101001
         ],
         "Csxylic": "SCTheXianzhouLuofu/2011010"
     },
@@ -19327,10 +21104,13 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2011010.png",
-        "Figure": "MonsterFigure/Monster_2011010.png",
+        "Icon": "mostericon/Monster_2011010.png",
+        "Figure": "monsterfigure/Monster_2011010.png",
         "Status": [
             30010017
+        ],
+        "AllSkills": [
+            201101001
         ],
         "Csxylic": "SCTheXianzhouLuofu/2011010"
     },
@@ -19377,10 +21157,13 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2011010.png",
-        "Figure": "MonsterFigure/Monster_2011010.png",
+        "Icon": "mostericon/Monster_2011010.png",
+        "Figure": "monsterfigure/Monster_2011010.png",
         "Status": [
             30010017
+        ],
+        "AllSkills": [
+            201101001
         ],
         "Csxylic": "SCTheXianzhouLuofu/2011010"
     },
@@ -19424,10 +21207,13 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2011010.png",
-        "Figure": "MonsterFigure/Monster_2011010.png",
+        "Icon": "mostericon/Monster_2011010.png",
+        "Figure": "monsterfigure/Monster_2011010.png",
         "Status": [
             30010017
+        ],
+        "AllSkills": [
+            201101001
         ],
         "Csxylic": "SCTheXianzhouLuofu/2011010"
     },
@@ -19471,10 +21257,13 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2011020.png",
-        "Figure": "MonsterFigure/Monster_2011020.png",
+        "Icon": "mostericon/Monster_2011020.png",
+        "Figure": "monsterfigure/Monster_2011020.png",
         "Status": [
             30010067
+        ],
+        "AllSkills": [
+            201102001
         ],
         "Csxylic": "SCTheXianzhouLuofu/2011020"
     },
@@ -19522,10 +21311,13 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2011020.png",
-        "Figure": "MonsterFigure/Monster_2011020.png",
+        "Icon": "mostericon/Monster_2011020.png",
+        "Figure": "monsterfigure/Monster_2011020.png",
         "Status": [
             30010067
+        ],
+        "AllSkills": [
+            201102001
         ],
         "Csxylic": "SCTheXianzhouLuofu/2011020"
     },
@@ -19572,10 +21364,13 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2011020.png",
-        "Figure": "MonsterFigure/Monster_2011020.png",
+        "Icon": "mostericon/Monster_2011020.png",
+        "Figure": "monsterfigure/Monster_2011020.png",
         "Status": [
             30010067
+        ],
+        "AllSkills": [
+            201102001
         ],
         "Csxylic": "SCTheXianzhouLuofu/2011020"
     },
@@ -19619,10 +21414,13 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2011020.png",
-        "Figure": "MonsterFigure/Monster_2011020.png",
+        "Icon": "mostericon/Monster_2011020.png",
+        "Figure": "monsterfigure/Monster_2011020.png",
         "Status": [
             30010067
+        ],
+        "AllSkills": [
+            201102001
         ],
         "Csxylic": "SCTheXianzhouLuofu/2011020"
     },
@@ -19667,10 +21465,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2012010.png",
-        "Figure": "MonsterFigure/Monster_2012010.png",
+        "Icon": "mostericon/Monster_2012010.png",
+        "Figure": "monsterfigure/Monster_2012010.png",
         "Status": [
             30010006
+        ],
+        "AllSkills": [
+            201201001,
+            201201002
         ],
         "Csxylic": "SCTheXianzhouLuofu/2012010"
     },
@@ -19715,10 +21517,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2012010.png",
-        "Figure": "MonsterFigure/Monster_2012010.png",
+        "Icon": "mostericon/Monster_2012010.png",
+        "Figure": "monsterfigure/Monster_2012010.png",
         "Status": [
             30010006
+        ],
+        "AllSkills": [
+            201201001,
+            201201002
         ],
         "Csxylic": "SCTheXianzhouLuofu/2012010"
     },
@@ -19766,10 +21572,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2012010.png",
-        "Figure": "MonsterFigure/Monster_2012010.png",
+        "Icon": "mostericon/Monster_2012010.png",
+        "Figure": "monsterfigure/Monster_2012010.png",
         "Status": [
             30010006
+        ],
+        "AllSkills": [
+            201201001,
+            201201002
         ],
         "Csxylic": "SCTheXianzhouLuofu/2012010"
     },
@@ -19814,10 +21624,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2012010.png",
-        "Figure": "MonsterFigure/Monster_2012010.png",
+        "Icon": "mostericon/Monster_2012010.png",
+        "Figure": "monsterfigure/Monster_2012010.png",
         "Status": [
             30010006
+        ],
+        "AllSkills": [
+            201201001,
+            201201002
         ],
         "Csxylic": "SCTheXianzhouLuofu/2012010"
     },
@@ -19862,10 +21676,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2012010.png",
-        "Figure": "MonsterFigure/Monster_2012010.png",
+        "Icon": "mostericon/Monster_2012010.png",
+        "Figure": "monsterfigure/Monster_2012010.png",
         "Status": [
             30010006
+        ],
+        "AllSkills": [
+            201201001,
+            201201002
         ],
         "Csxylic": "SCTheXianzhouLuofu/2012010"
     },
@@ -19910,10 +21728,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2012010.png",
-        "Figure": "MonsterFigure/Monster_2012010.png",
+        "Icon": "mostericon/Monster_2012010.png",
+        "Figure": "monsterfigure/Monster_2012010.png",
         "Status": [
             30010006
+        ],
+        "AllSkills": [
+            201201001,
+            201201002
         ],
         "Csxylic": "SCTheXianzhouLuofu/2012010"
     },
@@ -19961,10 +21783,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2012010.png",
-        "Figure": "MonsterFigure/Monster_2012010.png",
+        "Icon": "mostericon/Monster_2012010.png",
+        "Figure": "monsterfigure/Monster_2012010.png",
         "Status": [
             30010006
+        ],
+        "AllSkills": [
+            201201001,
+            201201002
         ],
         "Csxylic": "SCTheXianzhouLuofu/2012010"
     },
@@ -20012,10 +21838,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2012010.png",
-        "Figure": "MonsterFigure/Monster_2012010.png",
+        "Icon": "mostericon/Monster_2012010.png",
+        "Figure": "monsterfigure/Monster_2012010.png",
         "Status": [
             30010006
+        ],
+        "AllSkills": [
+            201201001,
+            201201002
         ],
         "Csxylic": "SCTheXianzhouLuofu/2012010"
     },
@@ -20062,11 +21892,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2013010.png",
-        "Figure": "MonsterFigure/Monster_2013010.png",
+        "Icon": "mostericon/Monster_2013010.png",
+        "Figure": "monsterfigure/Monster_2013010.png",
         "Status": [
             30010017,
             220130102
+        ],
+        "AllSkills": [
+            201301001,
+            201301002,
+            201301003,
+            201301004
         ],
         "Csxylic": "SCTheXianzhouLuofu/2013010"
     },
@@ -20113,11 +21949,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2013010.png",
-        "Figure": "MonsterFigure/Monster_2013010.png",
+        "Icon": "mostericon/Monster_2013010.png",
+        "Figure": "monsterfigure/Monster_2013010.png",
         "Status": [
             30010017,
             220130102
+        ],
+        "AllSkills": [
+            201301001,
+            201301002,
+            201301003,
+            201301004
         ],
         "Csxylic": "SCTheXianzhouLuofu/2013010"
     },
@@ -20164,11 +22006,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2013010.png",
-        "Figure": "MonsterFigure/Monster_2013010.png",
+        "Icon": "mostericon/Monster_2013010.png",
+        "Figure": "monsterfigure/Monster_2013010.png",
         "Status": [
             30010017,
             220130102
+        ],
+        "AllSkills": [
+            201301001,
+            201301002,
+            201301003,
+            201301004
         ],
         "Csxylic": "SCTheXianzhouLuofu/2013010"
     },
@@ -20218,11 +22066,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2013010.png",
-        "Figure": "MonsterFigure/Monster_2013010.png",
+        "Icon": "mostericon/Monster_2013010.png",
+        "Figure": "monsterfigure/Monster_2013010.png",
         "Status": [
             30010017,
             220130102
+        ],
+        "AllSkills": [
+            201301001,
+            201301002,
+            201301003,
+            201301004
         ],
         "Csxylic": "SCTheXianzhouLuofu/2013010"
     },
@@ -20269,11 +22123,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2013010.png",
-        "Figure": "MonsterFigure/Monster_2013010.png",
+        "Icon": "mostericon/Monster_2013010.png",
+        "Figure": "monsterfigure/Monster_2013010.png",
         "Status": [
             30010017,
             220130102
+        ],
+        "AllSkills": [
+            201301001,
+            201301002,
+            201301003,
+            201301004
         ],
         "Csxylic": "SCTheXianzhouLuofu/2013010"
     },
@@ -20320,11 +22180,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2013010.png",
-        "Figure": "MonsterFigure/Monster_2013010.png",
+        "Icon": "mostericon/Monster_2013010.png",
+        "Figure": "monsterfigure/Monster_2013010.png",
         "Status": [
             30010017,
             220130102
+        ],
+        "AllSkills": [
+            201301001,
+            201301002,
+            201301003,
+            201301004
         ],
         "Csxylic": "SCTheXianzhouLuofu/2013010"
     },
@@ -20374,11 +22240,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2013010.png",
-        "Figure": "MonsterFigure/Monster_2013010.png",
+        "Icon": "mostericon/Monster_2013010.png",
+        "Figure": "monsterfigure/Monster_2013010.png",
         "Status": [
             30010017,
             220130102
+        ],
+        "AllSkills": [
+            201301001,
+            201301002,
+            201301003,
+            201301004
         ],
         "Csxylic": "SCTheXianzhouLuofu/2013010"
     },
@@ -20425,11 +22297,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2013010.png",
-        "Figure": "MonsterFigure/Monster_2013010.png",
+        "Icon": "mostericon/Monster_2013010.png",
+        "Figure": "monsterfigure/Monster_2013010.png",
         "Status": [
             30010017,
             220130102
+        ],
+        "AllSkills": [
+            201301001,
+            201301002,
+            201301003,
+            201301004
         ],
         "Csxylic": "SCTheXianzhouLuofu/2013010"
     },
@@ -20481,13 +22359,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2013010.png",
-        "Figure": "MonsterFigure/Monster_2013010.png",
+        "Icon": "mostericon/Monster_2013010.png",
+        "Figure": "monsterfigure/Monster_2013010.png",
         "Status": [
             30010017,
             30020013,
             220130111,
             220130112
+        ],
+        "AllSkills": [
+            201301101,
+            201301102,
+            201301104
         ]
     },
     {
@@ -20533,11 +22416,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2013010.png",
-        "Figure": "MonsterFigure/Monster_2013010.png",
+        "Icon": "mostericon/Monster_2013010.png",
+        "Figure": "monsterfigure/Monster_2013010.png",
         "Status": [
             30010017,
             220130102
+        ],
+        "AllSkills": [
+            201301201,
+            201301202,
+            201301203,
+            201301204
         ]
     },
     {
@@ -20590,11 +22479,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2013020.png",
-        "Figure": "MonsterFigure/Monster_2013020.png",
+        "Icon": "mostericon/Monster_2013020.png",
+        "Figure": "monsterfigure/Monster_2013020.png",
         "Status": [
             220020301,
             220020302
+        ],
+        "AllSkills": [
+            201302001,
+            201302002,
+            201302003,
+            201302004,
+            201302005
         ],
         "Csxylic": "SCTheXianzhouLuofu/2013020"
     },
@@ -20648,11 +22544,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2013020.png",
-        "Figure": "MonsterFigure/Monster_2013020.png",
+        "Icon": "mostericon/Monster_2013020.png",
+        "Figure": "monsterfigure/Monster_2013020.png",
         "Status": [
             220020301,
             220020302
+        ],
+        "AllSkills": [
+            201302001,
+            201302002,
+            201302003,
+            201302004,
+            201302005
         ],
         "Csxylic": "SCTheXianzhouLuofu/2013020"
     },
@@ -20706,11 +22609,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2013020.png",
-        "Figure": "MonsterFigure/Monster_2013020.png",
+        "Icon": "mostericon/Monster_2013020.png",
+        "Figure": "monsterfigure/Monster_2013020.png",
         "Status": [
             220020301,
             220020302
+        ],
+        "AllSkills": [
+            201302001,
+            201302002,
+            201302003,
+            201302004,
+            201302005
         ],
         "Csxylic": "SCTheXianzhouLuofu/2013020"
     },
@@ -20764,11 +22674,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2013020.png",
-        "Figure": "MonsterFigure/Monster_2013020.png",
+        "Icon": "mostericon/Monster_2013020.png",
+        "Figure": "monsterfigure/Monster_2013020.png",
         "Status": [
             220020301,
             220020302
+        ],
+        "AllSkills": [
+            201302001,
+            201302002,
+            201302003,
+            201302004,
+            201302005
         ],
         "Csxylic": "SCTheXianzhouLuofu/2013020"
     },
@@ -20822,11 +22739,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2013020.png",
-        "Figure": "MonsterFigure/Monster_2013020.png",
+        "Icon": "mostericon/Monster_2013020.png",
+        "Figure": "monsterfigure/Monster_2013020.png",
         "Status": [
             220020301,
             220020302
+        ],
+        "AllSkills": [
+            201302001,
+            201302002,
+            201302003,
+            201302004,
+            201302005
         ],
         "Csxylic": "SCTheXianzhouLuofu/2013020"
     },
@@ -20882,11 +22806,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2013020.png",
-        "Figure": "MonsterFigure/Monster_2013020.png",
+        "Icon": "mostericon/Monster_2013020.png",
+        "Figure": "monsterfigure/Monster_2013020.png",
         "Status": [
             220020301,
             220020302
+        ],
+        "AllSkills": [
+            201302101,
+            201302102,
+            201302103,
+            201302104,
+            201302105,
+            201302106
         ]
     },
     {
@@ -20936,12 +22868,16 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022010.png",
-        "Figure": "MonsterFigure/Monster_2022010.png",
+        "Icon": "mostericon/Monster_2022010.png",
+        "Figure": "monsterfigure/Monster_2022010.png",
         "Status": [
             30020003,
             220220101,
             220220102
+        ],
+        "AllSkills": [
+            202201001,
+            202201002
         ],
         "Csxylic": "SCTheXianzhouLuofu/2022010"
     },
@@ -20992,12 +22928,16 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022010.png",
-        "Figure": "MonsterFigure/Monster_2022010.png",
+        "Icon": "mostericon/Monster_2022010.png",
+        "Figure": "monsterfigure/Monster_2022010.png",
         "Status": [
             30020003,
             220220101,
             220220102
+        ],
+        "AllSkills": [
+            202201001,
+            202201002
         ],
         "Csxylic": "SCTheXianzhouLuofu/2022010"
     },
@@ -21051,12 +22991,16 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022010.png",
-        "Figure": "MonsterFigure/Monster_2022010.png",
+        "Icon": "mostericon/Monster_2022010.png",
+        "Figure": "monsterfigure/Monster_2022010.png",
         "Status": [
             30020003,
             220220101,
             220220102
+        ],
+        "AllSkills": [
+            202201001,
+            202201002
         ],
         "Csxylic": "SCTheXianzhouLuofu/2022010"
     },
@@ -21107,12 +23051,16 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022010.png",
-        "Figure": "MonsterFigure/Monster_2022010.png",
+        "Icon": "mostericon/Monster_2022010.png",
+        "Figure": "monsterfigure/Monster_2022010.png",
         "Status": [
             30020003,
             220220101,
             220220102
+        ],
+        "AllSkills": [
+            202201001,
+            202201002
         ],
         "Csxylic": "SCTheXianzhouLuofu/2022010"
     },
@@ -21163,12 +23111,16 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022010.png",
-        "Figure": "MonsterFigure/Monster_2022010.png",
+        "Icon": "mostericon/Monster_2022010.png",
+        "Figure": "monsterfigure/Monster_2022010.png",
         "Status": [
             30020003,
             220220101,
             220220102
+        ],
+        "AllSkills": [
+            202201001,
+            202201002
         ],
         "Csxylic": "SCTheXianzhouLuofu/2022010"
     },
@@ -21219,12 +23171,16 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022010.png",
-        "Figure": "MonsterFigure/Monster_2022010.png",
+        "Icon": "mostericon/Monster_2022010.png",
+        "Figure": "monsterfigure/Monster_2022010.png",
         "Status": [
             30020003,
             220220101,
             220220102
+        ],
+        "AllSkills": [
+            202201001,
+            202201002
         ],
         "Csxylic": "SCTheXianzhouLuofu/2022010"
     },
@@ -21275,12 +23231,16 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022010.png",
-        "Figure": "MonsterFigure/Monster_2022010.png",
+        "Icon": "mostericon/Monster_2022010.png",
+        "Figure": "monsterfigure/Monster_2022010.png",
         "Status": [
             30020003,
             220220101,
             220220102
+        ],
+        "AllSkills": [
+            202201001,
+            202201002
         ],
         "Csxylic": "SCTheXianzhouLuofu/2022010"
     },
@@ -21331,12 +23291,16 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022010.png",
-        "Figure": "MonsterFigure/Monster_2022010.png",
+        "Icon": "mostericon/Monster_2022010.png",
+        "Figure": "monsterfigure/Monster_2022010.png",
         "Status": [
             30020003,
             220220101,
             220220102
+        ],
+        "AllSkills": [
+            202201001,
+            202201002
         ],
         "Csxylic": "SCTheXianzhouLuofu/2022010"
     },
@@ -21387,12 +23351,16 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022010.png",
-        "Figure": "MonsterFigure/Monster_2022010.png",
+        "Icon": "mostericon/Monster_2022010.png",
+        "Figure": "monsterfigure/Monster_2022010.png",
         "Status": [
             30020003,
             220220101,
             220220102
+        ],
+        "AllSkills": [
+            202201001,
+            202201002
         ],
         "Csxylic": "SCTheXianzhouLuofu/2022010"
     },
@@ -21443,12 +23411,16 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022010.png",
-        "Figure": "MonsterFigure/Monster_2022010.png",
+        "Icon": "mostericon/Monster_2022010.png",
+        "Figure": "monsterfigure/Monster_2022010.png",
         "Status": [
             30020003,
             220220101,
             220220102
+        ],
+        "AllSkills": [
+            202201001,
+            202201002
         ],
         "Csxylic": "SCTheXianzhouLuofu/2022010"
     },
@@ -21499,12 +23471,16 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022010.png",
-        "Figure": "MonsterFigure/Monster_2022010.png",
+        "Icon": "mostericon/Monster_2022010.png",
+        "Figure": "monsterfigure/Monster_2022010.png",
         "Status": [
             30020003,
             220220101,
             220220102
+        ],
+        "AllSkills": [
+            202201001,
+            202201002
         ],
         "Csxylic": "SCTheXianzhouLuofu/2022010"
     },
@@ -21550,11 +23526,16 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022020.png",
-        "Figure": "MonsterFigure/Monster_2022020.png",
+        "Icon": "mostericon/Monster_2022020.png",
+        "Figure": "monsterfigure/Monster_2022020.png",
         "Status": [
             220220203,
             220220204
+        ],
+        "AllSkills": [
+            202202001,
+            202202002,
+            202202003
         ],
         "Csxylic": "SCTheXianzhouLuofu/2022020"
     },
@@ -21600,11 +23581,16 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022020.png",
-        "Figure": "MonsterFigure/Monster_2022020.png",
+        "Icon": "mostericon/Monster_2022020.png",
+        "Figure": "monsterfigure/Monster_2022020.png",
         "Status": [
             220220203,
             220220204
+        ],
+        "AllSkills": [
+            202202001,
+            202202002,
+            202202003
         ],
         "Csxylic": "SCTheXianzhouLuofu/2022020"
     },
@@ -21650,11 +23636,16 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022020.png",
-        "Figure": "MonsterFigure/Monster_2022020.png",
+        "Icon": "mostericon/Monster_2022020.png",
+        "Figure": "monsterfigure/Monster_2022020.png",
         "Status": [
             220220203,
             220220204
+        ],
+        "AllSkills": [
+            202202001,
+            202202002,
+            202202003
         ],
         "Csxylic": "SCTheXianzhouLuofu/2022020"
     },
@@ -21704,11 +23695,16 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022020.png",
-        "Figure": "MonsterFigure/Monster_2022020.png",
+        "Icon": "mostericon/Monster_2022020.png",
+        "Figure": "monsterfigure/Monster_2022020.png",
         "Status": [
             220220203,
             220220204
+        ],
+        "AllSkills": [
+            202202001,
+            202202002,
+            202202003
         ],
         "Csxylic": "SCTheXianzhouLuofu/2022020"
     },
@@ -21754,11 +23750,16 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022020.png",
-        "Figure": "MonsterFigure/Monster_2022020.png",
+        "Icon": "mostericon/Monster_2022020.png",
+        "Figure": "monsterfigure/Monster_2022020.png",
         "Status": [
             220220203,
             220220204
+        ],
+        "AllSkills": [
+            202202001,
+            202202002,
+            202202003
         ],
         "Csxylic": "SCTheXianzhouLuofu/2022020"
     },
@@ -21804,11 +23805,16 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022020.png",
-        "Figure": "MonsterFigure/Monster_2022020.png",
+        "Icon": "mostericon/Monster_2022020.png",
+        "Figure": "monsterfigure/Monster_2022020.png",
         "Status": [
             220220203,
             220220204
+        ],
+        "AllSkills": [
+            202202001,
+            202202002,
+            202202003
         ],
         "Csxylic": "SCTheXianzhouLuofu/2022020"
     },
@@ -21854,11 +23860,16 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022020.png",
-        "Figure": "MonsterFigure/Monster_2022020.png",
+        "Icon": "mostericon/Monster_2022020.png",
+        "Figure": "monsterfigure/Monster_2022020.png",
         "Status": [
             220220203,
             220220204
+        ],
+        "AllSkills": [
+            202202001,
+            202202002,
+            202202003
         ],
         "Csxylic": "SCTheXianzhouLuofu/2022020"
     },
@@ -21904,11 +23915,16 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022020.png",
-        "Figure": "MonsterFigure/Monster_2022020.png",
+        "Icon": "mostericon/Monster_2022020.png",
+        "Figure": "monsterfigure/Monster_2022020.png",
         "Status": [
             220220203,
             220220204
+        ],
+        "AllSkills": [
+            202202001,
+            202202002,
+            202202003
         ],
         "Csxylic": "SCTheXianzhouLuofu/2022020"
     },
@@ -21954,11 +23970,16 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022020.png",
-        "Figure": "MonsterFigure/Monster_2022020.png",
+        "Icon": "mostericon/Monster_2022020.png",
+        "Figure": "monsterfigure/Monster_2022020.png",
         "Status": [
             220220203,
             220220204
+        ],
+        "AllSkills": [
+            202202001,
+            202202002,
+            202202003
         ],
         "Csxylic": "SCTheXianzhouLuofu/2022020"
     },
@@ -22004,11 +24025,16 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022020.png",
-        "Figure": "MonsterFigure/Monster_2022020.png",
+        "Icon": "mostericon/Monster_2022020.png",
+        "Figure": "monsterfigure/Monster_2022020.png",
         "Status": [
             220220203,
             220220204
+        ],
+        "AllSkills": [
+            202202001,
+            202202002,
+            202202003
         ],
         "Csxylic": "SCTheXianzhouLuofu/2022020"
     },
@@ -22053,8 +24079,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022040.png",
-        "Figure": "MonsterFigure/Monster_2022040.png",
+        "Icon": "mostericon/Monster_2022040.png",
+        "Figure": "monsterfigure/Monster_2022040.png",
+        "AllSkills": [
+            202204001,
+            202204002
+        ],
         "Csxylic": "SCTheXianzhouLuofu/2022040"
     },
     {
@@ -22098,8 +24128,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022040.png",
-        "Figure": "MonsterFigure/Monster_2022040.png",
+        "Icon": "mostericon/Monster_2022040.png",
+        "Figure": "monsterfigure/Monster_2022040.png",
+        "AllSkills": [
+            202204001,
+            202204002
+        ],
         "Csxylic": "SCTheXianzhouLuofu/2022040"
     },
     {
@@ -22143,8 +24177,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022040.png",
-        "Figure": "MonsterFigure/Monster_2022040.png",
+        "Icon": "mostericon/Monster_2022040.png",
+        "Figure": "monsterfigure/Monster_2022040.png",
+        "AllSkills": [
+            202204001,
+            202204002
+        ],
         "Csxylic": "SCTheXianzhouLuofu/2022040"
     },
     {
@@ -22188,8 +24226,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022040.png",
-        "Figure": "MonsterFigure/Monster_2022040.png",
+        "Icon": "mostericon/Monster_2022040.png",
+        "Figure": "monsterfigure/Monster_2022040.png",
+        "AllSkills": [
+            202204001,
+            202204002
+        ],
         "Csxylic": "SCTheXianzhouLuofu/2022040"
     },
     {
@@ -22233,8 +24275,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022040.png",
-        "Figure": "MonsterFigure/Monster_2022040.png",
+        "Icon": "mostericon/Monster_2022040.png",
+        "Figure": "monsterfigure/Monster_2022040.png",
+        "AllSkills": [
+            202204001,
+            202204002
+        ],
         "Csxylic": "SCTheXianzhouLuofu/2022040"
     },
     {
@@ -22278,8 +24324,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022040.png",
-        "Figure": "MonsterFigure/Monster_2022040.png",
+        "Icon": "mostericon/Monster_2022040.png",
+        "Figure": "monsterfigure/Monster_2022040.png",
+        "AllSkills": [
+            202204001,
+            202204002
+        ],
         "Csxylic": "SCTheXianzhouLuofu/2022040"
     },
     {
@@ -22329,10 +24379,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022050.png",
-        "Figure": "MonsterFigure/Monster_2022050.png",
+        "Icon": "mostericon/Monster_2022050.png",
+        "Figure": "monsterfigure/Monster_2022050.png",
         "Status": [
             30020004
+        ],
+        "AllSkills": [
+            202205001,
+            202205002
         ],
         "Csxylic": "SCTheXianzhouLuofu/2022050"
     },
@@ -22383,10 +24437,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022050.png",
-        "Figure": "MonsterFigure/Monster_2022050.png",
+        "Icon": "mostericon/Monster_2022050.png",
+        "Figure": "monsterfigure/Monster_2022050.png",
         "Status": [
             30020004
+        ],
+        "AllSkills": [
+            202205001,
+            202205002
         ],
         "Csxylic": "SCTheXianzhouLuofu/2022050"
     },
@@ -22437,10 +24495,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022050.png",
-        "Figure": "MonsterFigure/Monster_2022050.png",
+        "Icon": "mostericon/Monster_2022050.png",
+        "Figure": "monsterfigure/Monster_2022050.png",
         "Status": [
             30020004
+        ],
+        "AllSkills": [
+            202205001,
+            202205002
         ],
         "Csxylic": "SCTheXianzhouLuofu/2022050"
     },
@@ -22491,10 +24553,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022050.png",
-        "Figure": "MonsterFigure/Monster_2022050.png",
+        "Icon": "mostericon/Monster_2022050.png",
+        "Figure": "monsterfigure/Monster_2022050.png",
         "Status": [
             30020004
+        ],
+        "AllSkills": [
+            202205001,
+            202205002
         ],
         "Csxylic": "SCTheXianzhouLuofu/2022050"
     },
@@ -22545,10 +24611,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022050.png",
-        "Figure": "MonsterFigure/Monster_2022050.png",
+        "Icon": "mostericon/Monster_2022050.png",
+        "Figure": "monsterfigure/Monster_2022050.png",
         "Status": [
             30020004
+        ],
+        "AllSkills": [
+            202205001,
+            202205002
         ],
         "Csxylic": "SCTheXianzhouLuofu/2022050"
     },
@@ -22592,9 +24662,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2022051.png",
+        "Icon": "mostericon/Monster_2022051.png",
         "Status": [
             30020004
+        ],
+        "AllSkills": [
+            202205101
         ],
         "Csxylic": "SCTheXianzhouLuofu/2022051"
     },
@@ -22638,8 +24711,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022060.png",
-        "Figure": "MonsterFigure/Monster_2022060.png",
+        "Icon": "mostericon/Monster_2022060.png",
+        "Figure": "monsterfigure/Monster_2022060.png",
+        "AllSkills": [
+            202206001
+        ],
         "Csxylic": "SCTheXianzhouLuofu/2022060"
     },
     {
@@ -22682,8 +24758,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022060.png",
-        "Figure": "MonsterFigure/Monster_2022060.png",
+        "Icon": "mostericon/Monster_2022060.png",
+        "Figure": "monsterfigure/Monster_2022060.png",
+        "AllSkills": [
+            202206001
+        ],
         "Csxylic": "SCTheXianzhouLuofu/2022060"
     },
     {
@@ -22726,8 +24805,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022060.png",
-        "Figure": "MonsterFigure/Monster_2022060.png",
+        "Icon": "mostericon/Monster_2022060.png",
+        "Figure": "monsterfigure/Monster_2022060.png",
+        "AllSkills": [
+            202206001
+        ],
         "Csxylic": "SCTheXianzhouLuofu/2022060"
     },
     {
@@ -22770,8 +24852,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022060.png",
-        "Figure": "MonsterFigure/Monster_2022060.png",
+        "Icon": "mostericon/Monster_2022060.png",
+        "Figure": "monsterfigure/Monster_2022060.png",
+        "AllSkills": [
+            202206001
+        ],
         "Csxylic": "SCTheXianzhouLuofu/2022060"
     },
     {
@@ -22814,10 +24899,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2022070.png",
-        "Figure": "MonsterFigure/Monster_2022070.png",
+        "Icon": "mostericon/Monster_2022070.png",
+        "Figure": "monsterfigure/Monster_2022070.png",
         "Status": [
             30020029
+        ],
+        "AllSkills": [
+            202207001
         ],
         "Csxylic": "SCNonCategorized/2022070"
     },
@@ -22861,11 +24949,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2022070.png",
-        "Figure": "MonsterFigure/Monster_2022070.png",
+        "Icon": "mostericon/Monster_2022070.png",
+        "Figure": "monsterfigure/Monster_2022070.png",
         "Status": [
             30020003,
             30020029
+        ],
+        "AllSkills": [
+            202207101
         ]
     },
     {
@@ -22908,11 +24999,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2022070.png",
-        "Figure": "MonsterFigure/Monster_2022070.png",
+        "Icon": "mostericon/Monster_2022070.png",
+        "Figure": "monsterfigure/Monster_2022070.png",
         "Status": [
             30020003,
             30020029
+        ],
+        "AllSkills": [
+            202207101
         ]
     },
     {
@@ -22957,11 +25051,16 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2022080.png",
-        "Figure": "MonsterFigure/Monster_2022080.png",
+        "Icon": "mostericon/Monster_2022080.png",
+        "Figure": "monsterfigure/Monster_2022080.png",
         "Status": [
             220220801,
             220220802
+        ],
+        "AllSkills": [
+            202208001,
+            202208002,
+            202208003
         ],
         "Csxylic": "SCNonCategorized/2022080"
     },
@@ -23007,12 +25106,17 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2022080.png",
-        "Figure": "MonsterFigure/Monster_2022080.png",
+        "Icon": "mostericon/Monster_2022080.png",
+        "Figure": "monsterfigure/Monster_2022080.png",
         "Status": [
             30020004,
             220220801,
             220220802
+        ],
+        "AllSkills": [
+            202208101,
+            202208102,
+            202208103
         ]
     },
     {
@@ -23060,12 +25164,17 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2022080.png",
-        "Figure": "MonsterFigure/Monster_2022080.png",
+        "Icon": "mostericon/Monster_2022080.png",
+        "Figure": "monsterfigure/Monster_2022080.png",
         "Status": [
             30020004,
             220220801,
             220220802
+        ],
+        "AllSkills": [
+            202208101,
+            202208102,
+            202208103
         ]
     },
     {
@@ -23108,8 +25217,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2022090.png",
-        "Figure": "MonsterFigure/Monster_2022090.png",
+        "Icon": "mostericon/Monster_2022090.png",
+        "Figure": "monsterfigure/Monster_2022090.png",
+        "AllSkills": [
+            202209001
+        ],
         "Csxylic": "SCNonCategorized/2022090"
     },
     {
@@ -23152,8 +25264,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2022090.png",
-        "Figure": "MonsterFigure/Monster_2022090.png"
+        "Icon": "mostericon/Monster_2022090.png",
+        "Figure": "monsterfigure/Monster_2022090.png",
+        "AllSkills": [
+            202209101
+        ]
     },
     {
         "_id": 202209101,
@@ -23195,8 +25310,11 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2022090.png",
-        "Figure": "MonsterFigure/Monster_2022090.png"
+        "Icon": "mostericon/Monster_2022090.png",
+        "Figure": "monsterfigure/Monster_2022090.png",
+        "AllSkills": [
+            202209101
+        ]
     },
     {
         "_id": 2022100,
@@ -23239,10 +25357,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2022100.png",
-        "Figure": "MonsterFigure/Monster_2022100.png",
+        "Icon": "mostericon/Monster_2022100.png",
+        "Figure": "monsterfigure/Monster_2022100.png",
         "Status": [
             220221001
+        ],
+        "AllSkills": [
+            202210001,
+            202210002
         ],
         "Csxylic": "SCNonCategorized/2022100"
     },
@@ -23287,10 +25409,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2022100.png",
-        "Figure": "MonsterFigure/Monster_2022100.png",
+        "Icon": "mostericon/Monster_2022100.png",
+        "Figure": "monsterfigure/Monster_2022100.png",
         "Status": [
             220221001
+        ],
+        "AllSkills": [
+            202210101,
+            202210102
         ]
     },
     {
@@ -23334,10 +25460,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2022100.png",
-        "Figure": "MonsterFigure/Monster_2022100.png",
+        "Icon": "mostericon/Monster_2022100.png",
+        "Figure": "monsterfigure/Monster_2022100.png",
         "Status": [
             220221001
+        ],
+        "AllSkills": [
+            202210101,
+            202210102
         ]
     },
     {
@@ -23382,10 +25512,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022110.png",
-        "Figure": "MonsterFigure/Monster_2022110.png",
+        "Icon": "mostericon/Monster_2022110.png",
+        "Figure": "monsterfigure/Monster_2022110.png",
         "Status": [
             220221101
+        ],
+        "AllSkills": [
+            202211001,
+            202211002,
+            202211003
         ],
         "Csxylic": "SCTheXianzhouLuofu/2022110"
     },
@@ -23431,10 +25566,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022110.png",
-        "Figure": "MonsterFigure/Monster_2022110.png",
+        "Icon": "mostericon/Monster_2022110.png",
+        "Figure": "monsterfigure/Monster_2022110.png",
         "Status": [
             220221101
+        ],
+        "AllSkills": [
+            202211001,
+            202211002,
+            202211003
         ],
         "Csxylic": "SCTheXianzhouLuofu/2022110"
     },
@@ -23480,10 +25620,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022110.png",
-        "Figure": "MonsterFigure/Monster_2022110.png",
+        "Icon": "mostericon/Monster_2022110.png",
+        "Figure": "monsterfigure/Monster_2022110.png",
         "Status": [
             220221101
+        ],
+        "AllSkills": [
+            202211001,
+            202211002,
+            202211003
         ],
         "Csxylic": "SCTheXianzhouLuofu/2022110"
     },
@@ -23529,10 +25674,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2022110.png",
-        "Figure": "MonsterFigure/Monster_2022110.png",
+        "Icon": "mostericon/Monster_2022110.png",
+        "Figure": "monsterfigure/Monster_2022110.png",
         "Status": [
             220221101
+        ],
+        "AllSkills": [
+            202211001,
+            202211002,
+            202211003
         ],
         "Csxylic": "SCTheXianzhouLuofu/2022110"
     },
@@ -23580,11 +25730,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023010.png",
-        "Figure": "MonsterFigure/Monster_2023010.png",
+        "Icon": "mostericon/Monster_2023010.png",
+        "Figure": "monsterfigure/Monster_2023010.png",
         "Status": [
             220220101,
             220230101
+        ],
+        "AllSkills": [
+            202301001,
+            202301002,
+            202301003,
+            202301004,
+            202301005
         ],
         "Csxylic": "SCTheXianzhouLuofu/2023010"
     },
@@ -23635,11 +25792,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023010.png",
-        "Figure": "MonsterFigure/Monster_2023010.png",
+        "Icon": "mostericon/Monster_2023010.png",
+        "Figure": "monsterfigure/Monster_2023010.png",
         "Status": [
             220220101,
             220230101
+        ],
+        "AllSkills": [
+            202301001,
+            202301002,
+            202301003,
+            202301004,
+            202301005
         ],
         "Csxylic": "SCTheXianzhouLuofu/2023010"
     },
@@ -23690,11 +25854,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023010.png",
-        "Figure": "MonsterFigure/Monster_2023010.png",
+        "Icon": "mostericon/Monster_2023010.png",
+        "Figure": "monsterfigure/Monster_2023010.png",
         "Status": [
             220220101,
             220230101
+        ],
+        "AllSkills": [
+            202301001,
+            202301002,
+            202301003,
+            202301004,
+            202301005
         ],
         "Csxylic": "SCTheXianzhouLuofu/2023010"
     },
@@ -23742,11 +25913,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023010.png",
-        "Figure": "MonsterFigure/Monster_2023010.png",
+        "Icon": "mostericon/Monster_2023010.png",
+        "Figure": "monsterfigure/Monster_2023010.png",
         "Status": [
             220220101,
             220230101
+        ],
+        "AllSkills": [
+            202301001,
+            202301002,
+            202301003,
+            202301004,
+            202301005
         ],
         "Csxylic": "SCTheXianzhouLuofu/2023010"
     },
@@ -23797,11 +25975,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023010.png",
-        "Figure": "MonsterFigure/Monster_2023010.png",
+        "Icon": "mostericon/Monster_2023010.png",
+        "Figure": "monsterfigure/Monster_2023010.png",
         "Status": [
             220220101,
             220230101
+        ],
+        "AllSkills": [
+            202301001,
+            202301002,
+            202301003,
+            202301004,
+            202301005
         ],
         "Csxylic": "SCTheXianzhouLuofu/2023010"
     },
@@ -23852,11 +26037,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023010.png",
-        "Figure": "MonsterFigure/Monster_2023010.png",
+        "Icon": "mostericon/Monster_2023010.png",
+        "Figure": "monsterfigure/Monster_2023010.png",
         "Status": [
             220220101,
             220230101
+        ],
+        "AllSkills": [
+            202301001,
+            202301002,
+            202301003,
+            202301004,
+            202301005
         ],
         "Csxylic": "SCTheXianzhouLuofu/2023010"
     },
@@ -23907,11 +26099,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023010.png",
-        "Figure": "MonsterFigure/Monster_2023010.png",
+        "Icon": "mostericon/Monster_2023010.png",
+        "Figure": "monsterfigure/Monster_2023010.png",
         "Status": [
             220220101,
             220230101
+        ],
+        "AllSkills": [
+            202301001,
+            202301002,
+            202301003,
+            202301004,
+            202301005
         ],
         "Csxylic": "SCTheXianzhouLuofu/2023010"
     },
@@ -23959,11 +26158,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023010.png",
-        "Figure": "MonsterFigure/Monster_2023010.png",
+        "Icon": "mostericon/Monster_2023010.png",
+        "Figure": "monsterfigure/Monster_2023010.png",
         "Status": [
             220220101,
             220230101
+        ],
+        "AllSkills": [
+            202301001,
+            202301002,
+            202301003,
+            202301004,
+            202301005
         ],
         "Csxylic": "SCTheXianzhouLuofu/2023010"
     },
@@ -24011,11 +26217,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023010.png",
-        "Figure": "MonsterFigure/Monster_2023010.png",
+        "Icon": "mostericon/Monster_2023010.png",
+        "Figure": "monsterfigure/Monster_2023010.png",
         "Status": [
             220220101,
             220230101
+        ],
+        "AllSkills": [
+            202301001,
+            202301002,
+            202301003,
+            202301004,
+            202301005
         ],
         "Csxylic": "SCTheXianzhouLuofu/2023010"
     },
@@ -24063,11 +26276,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023010.png",
-        "Figure": "MonsterFigure/Monster_2023010.png",
+        "Icon": "mostericon/Monster_2023010.png",
+        "Figure": "monsterfigure/Monster_2023010.png",
         "Status": [
             220220101,
             220230101
+        ],
+        "AllSkills": [
+            202301001,
+            202301002,
+            202301003,
+            202301004,
+            202301005
         ],
         "Csxylic": "SCTheXianzhouLuofu/2023010"
     },
@@ -24115,11 +26335,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023010.png",
-        "Figure": "MonsterFigure/Monster_2023010.png",
+        "Icon": "mostericon/Monster_2023010.png",
+        "Figure": "monsterfigure/Monster_2023010.png",
         "Status": [
             220220101,
             220230101
+        ],
+        "AllSkills": [
+            202301001,
+            202301002,
+            202301003,
+            202301004,
+            202301005
         ],
         "Csxylic": "SCTheXianzhouLuofu/2023010"
     },
@@ -24167,11 +26394,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023010.png",
-        "Figure": "MonsterFigure/Monster_2023010.png",
+        "Icon": "mostericon/Monster_2023010.png",
+        "Figure": "monsterfigure/Monster_2023010.png",
         "Status": [
             220220101,
             220230101
+        ],
+        "AllSkills": [
+            202301001,
+            202301002,
+            202301003,
+            202301004,
+            202301005
         ],
         "Csxylic": "SCTheXianzhouLuofu/2023010"
     },
@@ -24219,11 +26453,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023010.png",
-        "Figure": "MonsterFigure/Monster_2023010.png",
+        "Icon": "mostericon/Monster_2023010.png",
+        "Figure": "monsterfigure/Monster_2023010.png",
         "Status": [
             220220101,
             220230101
+        ],
+        "AllSkills": [
+            202301001,
+            202301002,
+            202301003,
+            202301004,
+            202301005
         ],
         "Csxylic": "SCTheXianzhouLuofu/2023010"
     },
@@ -24277,11 +26518,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2023010.png",
-        "Figure": "MonsterFigure/Monster_2023010.png",
+        "Icon": "mostericon/Monster_2023010.png",
+        "Figure": "monsterfigure/Monster_2023010.png",
         "Status": [
             220220101,
             220230101
+        ],
+        "AllSkills": [
+            202301101,
+            202301102,
+            202301103,
+            202301105,
+            202301106
         ]
     },
     {
@@ -24334,12 +26582,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023020.png",
-        "Figure": "MonsterFigure/Monster_2023020.png",
+        "Icon": "mostericon/Monster_2023020.png",
+        "Figure": "monsterfigure/Monster_2023020.png",
         "Status": [
             220230201,
             220230204,
             220230205
+        ],
+        "AllSkills": [
+            202302001,
+            202302003,
+            202302004
         ],
         "Csxylic": "SCTheXianzhouLuofu/2023020"
     },
@@ -24396,12 +26649,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023020.png",
-        "Figure": "MonsterFigure/Monster_2023020.png",
+        "Icon": "mostericon/Monster_2023020.png",
+        "Figure": "monsterfigure/Monster_2023020.png",
         "Status": [
             220230201,
             220230204,
             220230205
+        ],
+        "AllSkills": [
+            202302001,
+            202302003,
+            202302004
         ],
         "Csxylic": "SCTheXianzhouLuofu/2023020"
     },
@@ -24455,12 +26713,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023020.png",
-        "Figure": "MonsterFigure/Monster_2023020.png",
+        "Icon": "mostericon/Monster_2023020.png",
+        "Figure": "monsterfigure/Monster_2023020.png",
         "Status": [
             220230201,
             220230204,
             220230205
+        ],
+        "AllSkills": [
+            202302001,
+            202302003,
+            202302004
         ],
         "Csxylic": "SCTheXianzhouLuofu/2023020"
     },
@@ -24514,12 +26777,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023020.png",
-        "Figure": "MonsterFigure/Monster_2023020.png",
+        "Icon": "mostericon/Monster_2023020.png",
+        "Figure": "monsterfigure/Monster_2023020.png",
         "Status": [
             220230201,
             220230204,
             220230205
+        ],
+        "AllSkills": [
+            202302001,
+            202302003,
+            202302004
         ],
         "Csxylic": "SCTheXianzhouLuofu/2023020"
     },
@@ -24573,12 +26841,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023020.png",
-        "Figure": "MonsterFigure/Monster_2023020.png",
+        "Icon": "mostericon/Monster_2023020.png",
+        "Figure": "monsterfigure/Monster_2023020.png",
         "Status": [
             220230201,
             220230204,
             220230205
+        ],
+        "AllSkills": [
+            202302001,
+            202302003,
+            202302004
         ],
         "Csxylic": "SCTheXianzhouLuofu/2023020"
     },
@@ -24632,12 +26905,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023020.png",
-        "Figure": "MonsterFigure/Monster_2023020.png",
+        "Icon": "mostericon/Monster_2023020.png",
+        "Figure": "monsterfigure/Monster_2023020.png",
         "Status": [
             220230201,
             220230204,
             220230205
+        ],
+        "AllSkills": [
+            202302001,
+            202302003,
+            202302004
         ],
         "Csxylic": "SCTheXianzhouLuofu/2023020"
     },
@@ -24691,12 +26969,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023020.png",
-        "Figure": "MonsterFigure/Monster_2023020.png",
+        "Icon": "mostericon/Monster_2023020.png",
+        "Figure": "monsterfigure/Monster_2023020.png",
         "Status": [
             220230201,
             220230204,
             220230205
+        ],
+        "AllSkills": [
+            202302001,
+            202302003,
+            202302004
         ],
         "Csxylic": "SCTheXianzhouLuofu/2023020"
     },
@@ -24749,11 +27032,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2023020.png",
-        "Figure": "MonsterFigure/Monster_2023020.png",
+        "Icon": "mostericon/Monster_2023020.png",
+        "Figure": "monsterfigure/Monster_2023020.png",
         "Status": [
             220230211,
             220230212
+        ],
+        "AllSkills": [
+            202302101,
+            202302102,
+            202302104
         ]
     },
     {
@@ -24800,12 +27088,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023030.png",
-        "Figure": "MonsterFigure/Monster_2023030.png",
+        "Icon": "mostericon/Monster_2023030.png",
+        "Figure": "monsterfigure/Monster_2023030.png",
         "Status": [
             30020003,
             30020030,
             280030603
+        ],
+        "AllSkills": [
+            202303001,
+            202303002,
+            202303003,
+            202303004,
+            202303005
         ],
         "Csxylic": "SCTheXianzhouLuofu/2023030"
     },
@@ -24853,12 +27148,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023030.png",
-        "Figure": "MonsterFigure/Monster_2023030.png",
+        "Icon": "mostericon/Monster_2023030.png",
+        "Figure": "monsterfigure/Monster_2023030.png",
         "Status": [
             30020003,
             30020030,
             280030603
+        ],
+        "AllSkills": [
+            202303001,
+            202303002,
+            202303003,
+            202303004,
+            202303005
         ],
         "Csxylic": "SCTheXianzhouLuofu/2023030"
     },
@@ -24909,12 +27211,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023030.png",
-        "Figure": "MonsterFigure/Monster_2023030.png",
+        "Icon": "mostericon/Monster_2023030.png",
+        "Figure": "monsterfigure/Monster_2023030.png",
         "Status": [
             30020003,
             30020030,
             280030603
+        ],
+        "AllSkills": [
+            202303001,
+            202303002,
+            202303003,
+            202303004,
+            202303005
         ],
         "Csxylic": "SCTheXianzhouLuofu/2023030"
     },
@@ -24962,12 +27271,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023030.png",
-        "Figure": "MonsterFigure/Monster_2023030.png",
+        "Icon": "mostericon/Monster_2023030.png",
+        "Figure": "monsterfigure/Monster_2023030.png",
         "Status": [
             30020003,
             30020030,
             280030603
+        ],
+        "AllSkills": [
+            202303001,
+            202303002,
+            202303003,
+            202303004,
+            202303005
         ],
         "Csxylic": "SCTheXianzhouLuofu/2023030"
     },
@@ -25015,12 +27331,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023030.png",
-        "Figure": "MonsterFigure/Monster_2023030.png",
+        "Icon": "mostericon/Monster_2023030.png",
+        "Figure": "monsterfigure/Monster_2023030.png",
         "Status": [
             30020003,
             30020030,
             280030603
+        ],
+        "AllSkills": [
+            202303001,
+            202303002,
+            202303003,
+            202303004,
+            202303005
         ],
         "Csxylic": "SCTheXianzhouLuofu/2023030"
     },
@@ -25068,12 +27391,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023030.png",
-        "Figure": "MonsterFigure/Monster_2023030.png",
+        "Icon": "mostericon/Monster_2023030.png",
+        "Figure": "monsterfigure/Monster_2023030.png",
         "Status": [
             30020003,
             30020030,
             280030603
+        ],
+        "AllSkills": [
+            202303001,
+            202303002,
+            202303003,
+            202303004,
+            202303005
         ],
         "Csxylic": "SCTheXianzhouLuofu/2023030"
     },
@@ -25121,12 +27451,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023030.png",
-        "Figure": "MonsterFigure/Monster_2023030.png",
+        "Icon": "mostericon/Monster_2023030.png",
+        "Figure": "monsterfigure/Monster_2023030.png",
         "Status": [
             30020003,
             30020030,
             280030603
+        ],
+        "AllSkills": [
+            202303001,
+            202303002,
+            202303003,
+            202303004,
+            202303005
         ],
         "Csxylic": "SCTheXianzhouLuofu/2023030"
     },
@@ -25174,12 +27511,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2023030.png",
-        "Figure": "MonsterFigure/Monster_2023030.png",
+        "Icon": "mostericon/Monster_2023030.png",
+        "Figure": "monsterfigure/Monster_2023030.png",
         "Status": [
             30020003,
             30020030,
             280030603
+        ],
+        "AllSkills": [
+            202303001,
+            202303002,
+            202303003,
+            202303004,
+            202303005
         ],
         "Csxylic": "SCTheXianzhouLuofu/2023030"
     },
@@ -25227,11 +27571,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2023030.png",
-        "Figure": "MonsterFigure/Monster_2023030.png",
+        "Icon": "mostericon/Monster_2023030.png",
+        "Figure": "monsterfigure/Monster_2023030.png",
         "Status": [
             30020003,
             30020030
+        ],
+        "AllSkills": [
+            202303101,
+            202303102,
+            202303103,
+            202303104,
+            202303105
         ]
     },
     {
@@ -25301,11 +27652,21 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2024010.png",
-        "Figure": "MonsterFigure/Monster_2024010.png",
+        "Icon": "mostericon/Monster_2024010.png",
+        "Figure": "monsterfigure/Monster_2024010.png",
         "Status": [
             220221001,
             220240101
+        ],
+        "AllSkills": [
+            202401001,
+            202401002,
+            202401005,
+            202401006,
+            202401003,
+            202401004,
+            202401007,
+            202401008
         ],
         "Csxylic": "SCTheXianzhouLuofu/2024010"
     },
@@ -25376,11 +27737,21 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2024010.png",
-        "Figure": "MonsterFigure/Monster_2024010.png",
+        "Icon": "mostericon/Monster_2024010.png",
+        "Figure": "monsterfigure/Monster_2024010.png",
         "Status": [
             220221001,
             220240101
+        ],
+        "AllSkills": [
+            202401001,
+            202401002,
+            202401005,
+            202401006,
+            202401003,
+            202401004,
+            202401007,
+            202401008
         ],
         "Csxylic": "SCTheXianzhouLuofu/2024010"
     },
@@ -25451,11 +27822,21 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2024010.png",
-        "Figure": "MonsterFigure/Monster_2024010.png",
+        "Icon": "mostericon/Monster_2024010.png",
+        "Figure": "monsterfigure/Monster_2024010.png",
         "Status": [
             220221001,
             220240101
+        ],
+        "AllSkills": [
+            202401001,
+            202401002,
+            202401005,
+            202401006,
+            202401003,
+            202401004,
+            202401007,
+            202401008
         ],
         "Csxylic": "SCTheXianzhouLuofu/2024010"
     },
@@ -25538,13 +27919,25 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2024010.png",
-        "Figure": "MonsterFigure/Monster_2024010.png",
+        "Icon": "mostericon/Monster_2024010.png",
+        "Figure": "monsterfigure/Monster_2024010.png",
         "Status": [
             220221001,
             220240101,
             220240111,
             220240112
+        ],
+        "AllSkills": [
+            202401105,
+            202401106,
+            202401110,
+            202401111,
+            202401114,
+            202401109,
+            202401112,
+            202401107,
+            202401108,
+            202401113
         ]
     },
     {
@@ -25626,13 +28019,25 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2024010.png",
-        "Figure": "MonsterFigure/Monster_2024010.png",
+        "Icon": "mostericon/Monster_2024010.png",
+        "Figure": "monsterfigure/Monster_2024010.png",
         "Status": [
             220221001,
             220240101,
             220240111,
             220240112
+        ],
+        "AllSkills": [
+            202401205,
+            202401206,
+            202401210,
+            202401211,
+            202401214,
+            202401209,
+            202401212,
+            202401207,
+            202401208,
+            202401213
         ]
     },
     {
@@ -25710,8 +28115,18 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2024010.png",
-        "Figure": "MonsterFigure/Monster_2024010.png"
+        "Icon": "mostericon/Monster_2024010.png",
+        "Figure": "monsterfigure/Monster_2024010.png",
+        "AllSkills": [
+            202401305,
+            202401306,
+            202401310,
+            202401314,
+            202401315,
+            202401316,
+            202401308,
+            202401311
+        ]
     },
     {
         "_id": 2024014,
@@ -25770,8 +28185,18 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2024010.png",
-        "Figure": "MonsterFigure/Monster_2024010.png"
+        "Icon": "mostericon/Monster_2024010.png",
+        "Figure": "monsterfigure/Monster_2024010.png",
+        "AllSkills": [
+            202401401,
+            202401402,
+            202401403,
+            202401404,
+            202401405,
+            202401406,
+            202401407,
+            202401408
+        ]
     },
     {
         "_id": 2024020,
@@ -25809,8 +28234,13 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2024020.png",
-        "Figure": "MonsterFigure/Monster_2024020.png",
+        "Icon": "mostericon/Monster_2024020.png",
+        "Figure": "monsterfigure/Monster_2024020.png",
+        "AllSkills": [
+            202402001,
+            202402002,
+            202402003
+        ],
         "Csxylic": "SCTheXianzhouLuofu/2024020"
     },
     {
@@ -25852,8 +28282,13 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2024020.png",
-        "Figure": "MonsterFigure/Monster_2024020.png",
+        "Icon": "mostericon/Monster_2024020.png",
+        "Figure": "monsterfigure/Monster_2024020.png",
+        "AllSkills": [
+            202402001,
+            202402002,
+            202402003
+        ],
         "Csxylic": "SCTheXianzhouLuofu/2024020"
     },
     {
@@ -25892,8 +28327,13 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2024020.png",
-        "Figure": "MonsterFigure/Monster_2024020.png",
+        "Icon": "mostericon/Monster_2024020.png",
+        "Figure": "monsterfigure/Monster_2024020.png",
+        "AllSkills": [
+            202402001,
+            202402002,
+            202402003
+        ],
         "Csxylic": "SCTheXianzhouLuofu/2024020"
     },
     {
@@ -25932,8 +28372,13 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2024020.png",
-        "Figure": "MonsterFigure/Monster_2024020.png",
+        "Icon": "mostericon/Monster_2024020.png",
+        "Figure": "monsterfigure/Monster_2024020.png",
+        "AllSkills": [
+            202402001,
+            202402002,
+            202402003
+        ],
         "Csxylic": "SCTheXianzhouLuofu/2024020"
     },
     {
@@ -25972,8 +28417,13 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 2,
-        "Icon": "MonsterIcon/Monster_2024020.png",
-        "Figure": "MonsterFigure/Monster_2024020.png",
+        "Icon": "mostericon/Monster_2024020.png",
+        "Figure": "monsterfigure/Monster_2024020.png",
+        "AllSkills": [
+            202402001,
+            202402002,
+            202402003
+        ],
         "Csxylic": "SCTheXianzhouLuofu/2024020"
     },
     {
@@ -26016,10 +28466,13 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3001010.png",
-        "Figure": "MonsterFigure/Monster_3001010.png",
+        "Icon": "mostericon/Monster_3001010.png",
+        "Figure": "monsterfigure/Monster_3001010.png",
         "Status": [
             230010101
+        ],
+        "AllSkills": [
+            300101001
         ],
         "New": true,
         "Csxylic": "SCDreamjoltTroupe/3001010"
@@ -26064,10 +28517,13 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3001010.png",
-        "Figure": "MonsterFigure/Monster_3001010.png",
+        "Icon": "mostericon/Monster_3001010.png",
+        "Figure": "monsterfigure/Monster_3001010.png",
         "Status": [
             230010101
+        ],
+        "AllSkills": [
+            300101001
         ],
         "Csxylic": "SCDreamjoltTroupe/3001010"
     },
@@ -26111,8 +28567,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3001020.png",
-        "Figure": "MonsterFigure/Monster_3001020.png",
+        "Icon": "mostericon/Monster_3001020.png",
+        "Figure": "monsterfigure/Monster_3001020.png",
+        "AllSkills": [
+            300102001
+        ],
         "New": true,
         "Csxylic": "SCDreamjoltTroupe/3001020"
     },
@@ -26156,8 +28615,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3001020.png",
-        "Figure": "MonsterFigure/Monster_3001020.png",
+        "Icon": "mostericon/Monster_3001020.png",
+        "Figure": "monsterfigure/Monster_3001020.png",
+        "AllSkills": [
+            300102001
+        ],
         "Csxylic": "SCDreamjoltTroupe/3001020"
     },
     {
@@ -26203,11 +28665,17 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3002010.png",
-        "Figure": "MonsterFigure/Monster_3002010.png",
+        "Icon": "mostericon/Monster_3002010.png",
+        "Figure": "monsterfigure/Monster_3002010.png",
         "Status": [
             230020101,
             230020102
+        ],
+        "AllSkills": [
+            300201001,
+            300201002,
+            300201003,
+            300201004
         ],
         "New": true,
         "Csxylic": "SCDreamjoltTroupe/3002010"
@@ -26261,11 +28729,17 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3002010.png",
-        "Figure": "MonsterFigure/Monster_3002010.png",
+        "Icon": "mostericon/Monster_3002010.png",
+        "Figure": "monsterfigure/Monster_3002010.png",
         "Status": [
             230020101,
             230020102
+        ],
+        "AllSkills": [
+            300201001,
+            300201002,
+            300201003,
+            300201004
         ],
         "Csxylic": "SCDreamjoltTroupe/3002010"
     },
@@ -26318,11 +28792,17 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3002010.png",
-        "Figure": "MonsterFigure/Monster_3002010.png",
+        "Icon": "mostericon/Monster_3002010.png",
+        "Figure": "monsterfigure/Monster_3002010.png",
         "Status": [
             230020101,
             230020102
+        ],
+        "AllSkills": [
+            300201001,
+            300201002,
+            300201003,
+            300201004
         ],
         "Csxylic": "SCDreamjoltTroupe/3002010"
     },
@@ -26369,11 +28849,17 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3002010.png",
-        "Figure": "MonsterFigure/Monster_3002010.png",
+        "Icon": "mostericon/Monster_3002010.png",
+        "Figure": "monsterfigure/Monster_3002010.png",
         "Status": [
             230020101,
             230020102
+        ],
+        "AllSkills": [
+            300201001,
+            300201002,
+            300201003,
+            300201004
         ],
         "Csxylic": "SCDreamjoltTroupe/3002010"
     },
@@ -26419,10 +28905,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3002030.png",
-        "Figure": "MonsterFigure/Monster_3002030.png",
+        "Icon": "mostericon/Monster_3002030.png",
+        "Figure": "monsterfigure/Monster_3002030.png",
         "Status": [
             230020301
+        ],
+        "AllSkills": [
+            300203001,
+            300203002,
+            300203003
         ],
         "New": true,
         "Csxylic": "SCDreamjoltTroupe/3002030"
@@ -26469,10 +28960,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3002030.png",
-        "Figure": "MonsterFigure/Monster_3002030.png",
+        "Icon": "mostericon/Monster_3002030.png",
+        "Figure": "monsterfigure/Monster_3002030.png",
         "Status": [
             230020301
+        ],
+        "AllSkills": [
+            300203001,
+            300203002,
+            300203003
         ],
         "Csxylic": "SCDreamjoltTroupe/3002030"
     },
@@ -26518,10 +29014,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3002030.png",
-        "Figure": "MonsterFigure/Monster_3002030.png",
+        "Icon": "mostericon/Monster_3002030.png",
+        "Figure": "monsterfigure/Monster_3002030.png",
         "Status": [
             230020301
+        ],
+        "AllSkills": [
+            300203001,
+            300203002,
+            300203003
         ],
         "Csxylic": "SCDreamjoltTroupe/3002030"
     },
@@ -26558,8 +29059,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 7,
-        "Icon": "MonsterIcon/Monster_3002050.png",
-        "Figure": "MonsterFigure/Monster_3002050.png",
+        "Icon": "mostericon/Monster_3002050.png",
+        "Figure": "monsterfigure/Monster_3002050.png",
+        "AllSkills": [
+            300205001,
+            300205002,
+            300205003
+        ],
         "New": true,
         "Csxylic": "SCCosmos/3002050"
     },
@@ -26599,8 +29105,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 7,
-        "Icon": "MonsterIcon/Monster_3002050.png",
-        "Figure": "MonsterFigure/Monster_3002050.png",
+        "Icon": "mostericon/Monster_3002050.png",
+        "Figure": "monsterfigure/Monster_3002050.png",
+        "AllSkills": [
+            300205001,
+            300205002,
+            300205003
+        ],
         "Csxylic": "SCCosmos/3002050"
     },
     {
@@ -26636,8 +29147,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3002050.png",
-        "Figure": "MonsterFigure/Monster_3002050.png",
+        "Icon": "mostericon/Monster_3002050.png",
+        "Figure": "monsterfigure/Monster_3002050.png",
+        "AllSkills": [
+            300205101,
+            300205102,
+            300205103
+        ],
         "New": true
     },
     {
@@ -26681,8 +29197,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2022040.png",
-        "Figure": "MonsterFigure/Monster_2022040.png"
+        "Icon": "mostericon/Monster_2022040.png",
+        "Figure": "monsterfigure/Monster_2022040.png",
+        "AllSkills": [
+            300208901,
+            300208902
+        ]
     },
     {
         "_id": 3003010,
@@ -26730,11 +29250,20 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3003010.png",
-        "Figure": "MonsterFigure/Monster_3003010.png",
+        "Icon": "mostericon/Monster_3003010.png",
+        "Figure": "monsterfigure/Monster_3003010.png",
         "Status": [
             230030104,
             230030105
+        ],
+        "AllSkills": [
+            300301001,
+            300301002,
+            300301007,
+            300301006,
+            300301003,
+            300301004,
+            300301005
         ],
         "New": true,
         "Csxylic": "SCDreamjoltTroupe/3003010"
@@ -26780,11 +29309,20 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3003010.png",
-        "Figure": "MonsterFigure/Monster_3003010.png",
+        "Icon": "mostericon/Monster_3003010.png",
+        "Figure": "monsterfigure/Monster_3003010.png",
         "Status": [
             230030104,
             230030105
+        ],
+        "AllSkills": [
+            300301101,
+            300301102,
+            300301107,
+            300301106,
+            300301103,
+            300301104,
+            300301105
         ],
         "New": true
     },
@@ -26829,11 +29367,20 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3003010.png",
-        "Figure": "MonsterFigure/Monster_3003010.png",
+        "Icon": "mostericon/Monster_3003010.png",
+        "Figure": "monsterfigure/Monster_3003010.png",
         "Status": [
             230030104,
             230030105
+        ],
+        "AllSkills": [
+            300301101,
+            300301102,
+            300301103,
+            300301104,
+            300301105,
+            300301106,
+            300301107
         ]
     },
     {
@@ -26879,8 +29426,14 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3003020.png",
-        "Figure": "MonsterFigure/Monster_3003020.png",
+        "Icon": "mostericon/Monster_3003020.png",
+        "Figure": "monsterfigure/Monster_3003020.png",
+        "AllSkills": [
+            300302001,
+            300302002,
+            300302003,
+            300302004
+        ],
         "New": true,
         "Csxylic": "SCDreamjoltTroupe/3003020"
     },
@@ -26927,8 +29480,14 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 10,
-        "Icon": "MonsterIcon/Monster_3003020.png",
-        "Figure": "MonsterFigure/Monster_3003020.png",
+        "Icon": "mostericon/Monster_3003020.png",
+        "Figure": "monsterfigure/Monster_3003020.png",
+        "AllSkills": [
+            300302001,
+            300302002,
+            300302003,
+            300302004
+        ],
         "Csxylic": "SCDreamjoltTroupe/3003020"
     },
     {
@@ -26982,8 +29541,13 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3003020.png",
-        "Figure": "MonsterFigure/Monster_3003020.png",
+        "Icon": "mostericon/Monster_3003020.png",
+        "Figure": "monsterfigure/Monster_3003020.png",
+        "AllSkills": [
+            300302101,
+            300302102,
+            300302104
+        ],
         "New": true
     },
     {
@@ -27026,8 +29590,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 11,
-        "Icon": "MonsterIcon/Monster_3011010.png",
-        "Figure": "MonsterFigure/Monster_3011010.png",
+        "Icon": "mostericon/Monster_3011010.png",
+        "Figure": "monsterfigure/Monster_3011010.png",
+        "AllSkills": [
+            301101001
+        ],
         "New": true,
         "Csxylic": "SCMemoryZoneMeme/3011010"
     },
@@ -27072,10 +29639,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 11,
-        "Icon": "MonsterIcon/Monster_3012020.png",
-        "Figure": "MonsterFigure/Monster_3012020.png",
+        "Icon": "mostericon/Monster_3012020.png",
+        "Figure": "monsterfigure/Monster_3012020.png",
         "Status": [
             230120201
+        ],
+        "AllSkills": [
+            301202001,
+            301202002
         ],
         "New": true,
         "Csxylic": "SCMemoryZoneMeme/3012020"
@@ -27121,10 +29692,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 11,
-        "Icon": "MonsterIcon/Monster_3012020.png",
-        "Figure": "MonsterFigure/Monster_3012020.png",
+        "Icon": "mostericon/Monster_3012020.png",
+        "Figure": "monsterfigure/Monster_3012020.png",
         "Status": [
             230120201
+        ],
+        "AllSkills": [
+            301202001,
+            301202002
         ],
         "Csxylic": "SCMemoryZoneMeme/3012020"
     },
@@ -27179,8 +29754,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3012030.png",
-        "Figure": "MonsterFigure/Monster_3012030.png",
+        "Icon": "mostericon/Monster_3012030.png",
+        "Figure": "monsterfigure/Monster_3012030.png",
+        "AllSkills": [
+            301203001,
+            301203003
+        ],
         "New": true,
         "Csxylic": "SCNonCategorized/3012030"
     },
@@ -27235,8 +29814,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3012030.png",
-        "Figure": "MonsterFigure/Monster_3012030.png",
+        "Icon": "mostericon/Monster_3012030.png",
+        "Figure": "monsterfigure/Monster_3012030.png",
+        "AllSkills": [
+            301203101,
+            301203103
+        ],
         "New": true
     },
     {
@@ -27306,13 +29889,23 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 11,
-        "Icon": "MonsterIcon/Monster_3014020.png",
-        "Figure": "MonsterFigure/Monster_3014020.png",
+        "Icon": "mostericon/Monster_3014020.png",
+        "Figure": "monsterfigure/Monster_3014020.png",
         "Status": [
             230140201,
             230140202,
             230140204,
             230140207
+        ],
+        "AllSkills": [
+            301402001,
+            301402002,
+            301402003,
+            301402004,
+            301402005,
+            301402009,
+            301402006,
+            301402007
         ],
         "New": true,
         "Csxylic": "SCMemoryZoneMeme/3014020"
@@ -27384,13 +29977,23 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 11,
-        "Icon": "MonsterIcon/Monster_3014020.png",
-        "Figure": "MonsterFigure/Monster_3014020.png",
+        "Icon": "mostericon/Monster_3014020.png",
+        "Figure": "monsterfigure/Monster_3014020.png",
         "Status": [
             230140201,
             230140202,
             230140204,
             230140207
+        ],
+        "AllSkills": [
+            301402001,
+            301402002,
+            301402003,
+            301402004,
+            301402005,
+            301402009,
+            301402006,
+            301402007
         ],
         "Csxylic": "SCMemoryZoneMeme/3014020"
     },
@@ -27461,13 +30064,23 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 11,
-        "Icon": "MonsterIcon/Monster_3014020.png",
-        "Figure": "MonsterFigure/Monster_3014020.png",
+        "Icon": "mostericon/Monster_3014020.png",
+        "Figure": "monsterfigure/Monster_3014020.png",
         "Status": [
             230140201,
             230140202,
             230140204,
             230140207
+        ],
+        "AllSkills": [
+            301402001,
+            301402002,
+            301402003,
+            301402004,
+            301402005,
+            301402009,
+            301402006,
+            301402007
         ],
         "Csxylic": "SCMemoryZoneMeme/3014020"
     },
@@ -27538,13 +30151,23 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 11,
-        "Icon": "MonsterIcon/Monster_3014020.png",
-        "Figure": "MonsterFigure/Monster_3014020.png",
+        "Icon": "mostericon/Monster_3014020.png",
+        "Figure": "monsterfigure/Monster_3014020.png",
         "Status": [
             230140201,
             230140202,
             230140204,
             230140207
+        ],
+        "AllSkills": [
+            301402001,
+            301402002,
+            301402003,
+            301402004,
+            301402005,
+            301402009,
+            301402006,
+            301402007
         ],
         "Csxylic": "SCMemoryZoneMeme/3014020"
     },
@@ -27615,13 +30238,23 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3014020.png",
-        "Figure": "MonsterFigure/Monster_3014020.png",
+        "Icon": "mostericon/Monster_3014020.png",
+        "Figure": "monsterfigure/Monster_3014020.png",
         "Status": [
             230140201,
             230140202,
             230140204,
             230140207
+        ],
+        "AllSkills": [
+            301402101,
+            301402102,
+            301402103,
+            301402104,
+            301402105,
+            301402109,
+            301402106,
+            301402107
         ],
         "New": true
     },
@@ -27666,10 +30299,14 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3021020.png",
-        "Figure": "MonsterFigure/Monster_3021020.png",
+        "Icon": "mostericon/Monster_3021020.png",
+        "Figure": "monsterfigure/Monster_3021020.png",
         "Status": [
             230240102
+        ],
+        "AllSkills": [
+            302102001,
+            302102002
         ],
         "Csxylic": "SCNonCategorized/3021020"
     },
@@ -27714,8 +30351,12 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3021020.png",
-        "Figure": "MonsterFigure/Monster_3021020.png"
+        "Icon": "mostericon/Monster_3021020.png",
+        "Figure": "monsterfigure/Monster_3021020.png",
+        "AllSkills": [
+            302102101,
+            302102102
+        ]
     },
     {
         "_id": 3021030,
@@ -27758,8 +30399,12 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3021030.png",
-        "Figure": "MonsterFigure/Monster_3021030.png",
+        "Icon": "mostericon/Monster_3021030.png",
+        "Figure": "monsterfigure/Monster_3021030.png",
+        "AllSkills": [
+            302103001,
+            302103002
+        ],
         "Csxylic": "SCNonCategorized/3021030"
     },
     {
@@ -27803,8 +30448,12 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3021030.png",
-        "Figure": "MonsterFigure/Monster_3021030.png"
+        "Icon": "mostericon/Monster_3021030.png",
+        "Figure": "monsterfigure/Monster_3021030.png",
+        "AllSkills": [
+            302103101,
+            302103102
+        ]
     },
     {
         "_id": 3021040,
@@ -27847,10 +30496,14 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3021040.png",
-        "Figure": "MonsterFigure/Monster_3021040.png",
+        "Icon": "mostericon/Monster_3021040.png",
+        "Figure": "monsterfigure/Monster_3021040.png",
         "Status": [
             220230203
+        ],
+        "AllSkills": [
+            302104001,
+            302104002
         ],
         "Csxylic": "SCNonCategorized/3021040"
     },
@@ -27895,8 +30548,12 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3021040.png",
-        "Figure": "MonsterFigure/Monster_3021040.png"
+        "Icon": "mostericon/Monster_3021040.png",
+        "Figure": "monsterfigure/Monster_3021040.png",
+        "AllSkills": [
+            302104101,
+            302104102
+        ]
     },
     {
         "_id": 3024010,
@@ -27962,10 +30619,17 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 7,
-        "Icon": "MonsterIcon/Monster_3024010.png",
-        "Figure": "MonsterFigure/Monster_3024010.png",
+        "Icon": "mostericon/Monster_3024010.png",
+        "Figure": "monsterfigure/Monster_3024010.png",
         "Status": [
             230240101
+        ],
+        "AllSkills": [
+            302401001,
+            302401002,
+            302401003,
+            302401004,
+            302401005
         ],
         "Csxylic": "SCCosmos/3024010"
     },
@@ -28033,10 +30697,17 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 7,
-        "Icon": "MonsterIcon/Monster_3024010.png",
-        "Figure": "MonsterFigure/Monster_3024010.png",
+        "Icon": "mostericon/Monster_3024010.png",
+        "Figure": "monsterfigure/Monster_3024010.png",
         "Status": [
             230240101
+        ],
+        "AllSkills": [
+            302401001,
+            302401002,
+            302401003,
+            302401004,
+            302401005
         ],
         "Csxylic": "SCCosmos/3024010"
     },
@@ -28104,10 +30775,17 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 7,
-        "Icon": "MonsterIcon/Monster_3024010.png",
-        "Figure": "MonsterFigure/Monster_3024010.png",
+        "Icon": "mostericon/Monster_3024010.png",
+        "Figure": "monsterfigure/Monster_3024010.png",
         "Status": [
             230240101
+        ],
+        "AllSkills": [
+            302401001,
+            302401002,
+            302401003,
+            302401004,
+            302401005
         ],
         "Csxylic": "SCCosmos/3024010"
     },
@@ -28175,10 +30853,17 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 7,
-        "Icon": "MonsterIcon/Monster_3024010.png",
-        "Figure": "MonsterFigure/Monster_3024010.png",
+        "Icon": "mostericon/Monster_3024010.png",
+        "Figure": "monsterfigure/Monster_3024010.png",
         "Status": [
             230240101
+        ],
+        "AllSkills": [
+            302401001,
+            302401002,
+            302401003,
+            302401004,
+            302401005
         ],
         "Csxylic": "SCCosmos/3024010"
     },
@@ -28257,8 +30942,18 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3024010.png",
-        "Figure": "MonsterFigure/Monster_3024010.png"
+        "Icon": "mostericon/Monster_3024010.png",
+        "Figure": "monsterfigure/Monster_3024010.png",
+        "AllSkills": [
+            302401101,
+            302401102,
+            302401103,
+            302401104,
+            302401105,
+            302401110,
+            302401106,
+            302401108
+        ]
     },
     {
         "_id": 3024012,
@@ -28313,8 +31008,15 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3024010.png",
-        "Figure": "MonsterFigure/Monster_3024010.png"
+        "Icon": "mostericon/Monster_3024010.png",
+        "Figure": "monsterfigure/Monster_3024010.png",
+        "AllSkills": [
+            302401201,
+            302401202,
+            302401203,
+            302401204,
+            302401205
+        ]
     },
     {
         "_id": 3024020,
@@ -28365,13 +31067,22 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 5,
-        "Icon": "MonsterIcon/Monster_3024020.png",
-        "Figure": "MonsterFigure/Monster_3024020.png",
+        "Icon": "mostericon/Monster_3024020.png",
+        "Figure": "monsterfigure/Monster_3024020.png",
         "Status": [
             230240201,
             230240202,
             230240203,
             230240204
+        ],
+        "AllSkills": [
+            302402001,
+            302402002,
+            302402003,
+            302402004,
+            302402005,
+            302402006,
+            302402007
         ],
         "New": true,
         "Csxylic": "SCStellaronHunters/3024020"
@@ -28424,8 +31135,16 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 5,
-        "Icon": "MonsterIcon/Monster_3024020.png",
-        "Figure": "MonsterFigure/Monster_3024020.png",
+        "Icon": "mostericon/Monster_3024020.png",
+        "Figure": "monsterfigure/Monster_3024020.png",
+        "AllSkills": [
+            302402001,
+            302402002,
+            302402003,
+            302402004,
+            302402005,
+            302402006
+        ],
         "Csxylic": "SCStellaronHunters/3024020"
     },
     {
@@ -28477,13 +31196,22 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_3024020.png",
-        "Figure": "MonsterFigure/Monster_3024020.png",
+        "Icon": "mostericon/Monster_3024020.png",
+        "Figure": "monsterfigure/Monster_3024020.png",
         "Status": [
             230240201,
             230240202,
             230240203,
             230240204
+        ],
+        "AllSkills": [
+            302402101,
+            302402102,
+            302402103,
+            302402104,
+            302402105,
+            302402106,
+            302402107
         ],
         "New": true
     },
@@ -28528,8 +31256,13 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2011010.png",
-        "Figure": "MonsterFigure/Monster_2011010.png"
+        "Icon": "mostericon/Monster_2011010.png",
+        "Figure": "monsterfigure/Monster_2011010.png",
+        "AllSkills": [
+            700101001,
+            700101002,
+            700101003
+        ]
     },
     {
         "_id": 7001011,
@@ -28571,8 +31304,12 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012010.png",
-        "Figure": "MonsterFigure/Monster_8012010.png"
+        "Icon": "mostericon/Monster_8012010.png",
+        "Figure": "monsterfigure/Monster_8012010.png",
+        "AllSkills": [
+            700101101,
+            700101102
+        ]
     },
     {
         "_id": 7001012,
@@ -28615,8 +31352,13 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012030.png",
-        "Figure": "MonsterFigure/Monster_8012030.png"
+        "Icon": "mostericon/Monster_8012030.png",
+        "Figure": "monsterfigure/Monster_8012030.png",
+        "AllSkills": [
+            700101201,
+            700101202,
+            700101203
+        ]
     },
     {
         "_id": 7001013,
@@ -28658,8 +31400,12 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            700101301,
+            700101302
+        ]
     },
     {
         "_id": 7002010,
@@ -28702,8 +31448,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2022050.png",
-        "Figure": "MonsterFigure/Monster_2022050.png"
+        "Icon": "mostericon/Monster_2022050.png",
+        "Figure": "monsterfigure/Monster_2022050.png",
+        "AllSkills": [
+            700201001,
+            700201002,
+            700201003
+        ]
     },
     {
         "_id": 7002011,
@@ -28744,7 +31495,10 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2022051.png"
+        "Icon": "mostericon/Monster_2022051.png",
+        "AllSkills": [
+            700201101
+        ]
     },
     {
         "_id": 7002020,
@@ -28786,8 +31540,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1002020.png",
-        "Figure": "MonsterFigure/Monster_1002020.png"
+        "Icon": "mostericon/Monster_1002020.png",
+        "Figure": "monsterfigure/Monster_1002020.png",
+        "AllSkills": [
+            700202001,
+            700202002
+        ]
     },
     {
         "_id": 7002030,
@@ -28829,8 +31587,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_9002410.png",
-        "Figure": "MonsterFigure/Monster_1022020.png"
+        "Icon": "mostericon/Monster_9002410.png",
+        "Figure": "monsterfigure/Monster_1022020.png",
+        "AllSkills": [
+            700203001,
+            700203002
+        ]
     },
     {
         "_id": 700203001,
@@ -28875,8 +31637,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_9002410.png",
-        "Figure": "MonsterFigure/Monster_1022020.png"
+        "Icon": "mostericon/Monster_9002410.png",
+        "Figure": "monsterfigure/Monster_1022020.png",
+        "AllSkills": [
+            700203001,
+            700203002
+        ]
     },
     {
         "_id": 700203002,
@@ -28921,8 +31687,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_9002410.png",
-        "Figure": "MonsterFigure/Monster_1022020.png"
+        "Icon": "mostericon/Monster_9002410.png",
+        "Figure": "monsterfigure/Monster_1022020.png",
+        "AllSkills": [
+            700203001,
+            700203002
+        ]
     },
     {
         "_id": 7002040,
@@ -28968,8 +31738,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1012010.png",
-        "Figure": "MonsterFigure/Monster_1012010.png"
+        "Icon": "mostericon/Monster_1012010.png",
+        "Figure": "monsterfigure/Monster_1012010.png",
+        "AllSkills": [
+            700204001,
+            700204002,
+            700204003
+        ]
     },
     {
         "_id": 7002050,
@@ -29015,8 +31790,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2012010.png",
-        "Figure": "MonsterFigure/Monster_2012010.png"
+        "Icon": "mostericon/Monster_2012010.png",
+        "Figure": "monsterfigure/Monster_2012010.png",
+        "AllSkills": [
+            700205001,
+            700205002,
+            700205003
+        ]
     },
     {
         "_id": 700205001,
@@ -29062,8 +31842,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2012010.png",
-        "Figure": "MonsterFigure/Monster_2012010.png"
+        "Icon": "mostericon/Monster_2012010.png",
+        "Figure": "monsterfigure/Monster_2012010.png",
+        "AllSkills": [
+            700205001,
+            700205002,
+            700205003
+        ]
     },
     {
         "_id": 7002060,
@@ -29106,8 +31891,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1002030.png",
-        "Figure": "MonsterFigure/Monster_1002030.png"
+        "Icon": "mostericon/Monster_1002030.png",
+        "Figure": "monsterfigure/Monster_1002030.png",
+        "AllSkills": [
+            700206001,
+            700206002,
+            700206003
+        ]
     },
     {
         "_id": 7002070,
@@ -29149,8 +31939,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8002010.png",
-        "Figure": "MonsterFigure/Monster_8002010.png"
+        "Icon": "mostericon/Monster_8002010.png",
+        "Figure": "monsterfigure/Monster_8002010.png",
+        "AllSkills": [
+            700207001,
+            700207002
+        ]
     },
     {
         "_id": 700207001,
@@ -29195,8 +31989,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8002010.png",
-        "Figure": "MonsterFigure/Monster_8002010.png"
+        "Icon": "mostericon/Monster_8002010.png",
+        "Figure": "monsterfigure/Monster_8002010.png",
+        "AllSkills": [
+            700207001,
+            700207002
+        ]
     },
     {
         "_id": 700207002,
@@ -29241,8 +32039,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8002010.png",
-        "Figure": "MonsterFigure/Monster_8002010.png"
+        "Icon": "mostericon/Monster_8002010.png",
+        "Figure": "monsterfigure/Monster_8002010.png",
+        "AllSkills": [
+            700207001,
+            700207002
+        ]
     },
     {
         "_id": 7002080,
@@ -29284,8 +32086,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1001020.png",
-        "Figure": "MonsterFigure/Monster_1002050.png"
+        "Icon": "mostericon/Monster_1001020.png",
+        "Figure": "monsterfigure/Monster_1002050.png",
+        "AllSkills": [
+            700208001,
+            700208002
+        ]
     },
     {
         "_id": 7002090,
@@ -29328,8 +32134,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1001010.png",
-        "Figure": "MonsterFigure/Monster_1002040.png"
+        "Icon": "mostericon/Monster_1001010.png",
+        "Figure": "monsterfigure/Monster_1002040.png",
+        "AllSkills": [
+            700209001,
+            700209002,
+            700209003
+        ]
     },
     {
         "_id": 700209001,
@@ -29375,8 +32186,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1001010.png",
-        "Figure": "MonsterFigure/Monster_1002040.png"
+        "Icon": "mostericon/Monster_1001010.png",
+        "Figure": "monsterfigure/Monster_1002040.png",
+        "AllSkills": [
+            700209001,
+            700209002,
+            700209003
+        ]
     },
     {
         "_id": 7002100,
@@ -29419,8 +32235,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1012020.png",
-        "Figure": "MonsterFigure/Monster_1012020.png"
+        "Icon": "mostericon/Monster_1012020.png",
+        "Figure": "monsterfigure/Monster_1012020.png",
+        "AllSkills": [
+            700210001,
+            700210002,
+            700210003
+        ]
     },
     {
         "_id": 7002110,
@@ -29463,8 +32284,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1012020.png",
-        "Figure": "MonsterFigure/Monster_1012020.png"
+        "Icon": "mostericon/Monster_1012020.png",
+        "Figure": "monsterfigure/Monster_1012020.png",
+        "AllSkills": [
+            700211001,
+            700211002,
+            700211003
+        ]
     },
     {
         "_id": 7002120,
@@ -29507,8 +32333,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8032010.png",
-        "Figure": "MonsterFigure/Monster_8032010.png"
+        "Icon": "mostericon/Monster_8032010.png",
+        "Figure": "monsterfigure/Monster_8032010.png",
+        "AllSkills": [
+            700212001,
+            700212002,
+            700212003
+        ]
     },
     {
         "_id": 7002130,
@@ -29551,8 +32382,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8032020.png",
-        "Figure": "MonsterFigure/Monster_8032020.png"
+        "Icon": "mostericon/Monster_8032020.png",
+        "Figure": "monsterfigure/Monster_8032020.png",
+        "AllSkills": [
+            700213001,
+            700213002,
+            700213003
+        ]
     },
     {
         "_id": 7002140,
@@ -29594,8 +32430,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_9002400.png",
-        "Figure": "MonsterFigure/Monster_1022010.png"
+        "Icon": "mostericon/Monster_9002400.png",
+        "Figure": "monsterfigure/Monster_1022010.png",
+        "AllSkills": [
+            700214001,
+            700214002
+        ]
     },
     {
         "_id": 7003010,
@@ -29646,8 +32486,15 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8003020.png",
-        "Figure": "MonsterFigure/Monster_8003020.png"
+        "Icon": "mostericon/Monster_8003020.png",
+        "Figure": "monsterfigure/Monster_8003020.png",
+        "AllSkills": [
+            700301002,
+            700301003,
+            700301004,
+            700301005,
+            700301006
+        ]
     },
     {
         "_id": 7003020,
@@ -29692,8 +32539,15 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_2013010.png",
-        "Figure": "MonsterFigure/Monster_2013010.png"
+        "Icon": "mostericon/Monster_2013010.png",
+        "Figure": "monsterfigure/Monster_2013010.png",
+        "AllSkills": [
+            700302001,
+            700302002,
+            700302003,
+            700302004,
+            700302005
+        ]
     },
     {
         "_id": 7003030,
@@ -29737,8 +32591,14 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1003010.png",
-        "Figure": "MonsterFigure/Monster_1003010.png"
+        "Icon": "mostericon/Monster_1003010.png",
+        "Figure": "monsterfigure/Monster_1003010.png",
+        "AllSkills": [
+            700303001,
+            700303002,
+            700303003,
+            700303004
+        ]
     },
     {
         "_id": 7003040,
@@ -29784,8 +32644,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8013010.png",
-        "Figure": "MonsterFigure/Monster_8013010.png"
+        "Icon": "mostericon/Monster_8013010.png",
+        "Figure": "monsterfigure/Monster_8013010.png",
+        "AllSkills": [
+            700304001,
+            700304002,
+            700304003,
+            700304004,
+            700304005,
+            700304006
+        ]
     },
     {
         "_id": 7003050,
@@ -29830,8 +32698,15 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8003040.png",
-        "Figure": "MonsterFigure/Monster_8003040.png"
+        "Icon": "mostericon/Monster_8003040.png",
+        "Figure": "monsterfigure/Monster_8003040.png",
+        "AllSkills": [
+            700305001,
+            700305002,
+            700305003,
+            700305004,
+            700305005
+        ]
     },
     {
         "_id": 7003060,
@@ -29874,8 +32749,13 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1023020.png",
-        "Figure": "MonsterFigure/Monster_1023020.png"
+        "Icon": "mostericon/Monster_1023020.png",
+        "Figure": "monsterfigure/Monster_1023020.png",
+        "AllSkills": [
+            700306001,
+            700306002,
+            700306003
+        ]
     },
     {
         "_id": 7003070,
@@ -29919,8 +32799,14 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1013020.png",
-        "Figure": "MonsterFigure/Monster_1013020.png"
+        "Icon": "mostericon/Monster_1013020.png",
+        "Figure": "monsterfigure/Monster_1013020.png",
+        "AllSkills": [
+            700307001,
+            700307002,
+            700307003,
+            700307004
+        ]
     },
     {
         "_id": 7003080,
@@ -29970,8 +32856,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1023010.png",
-        "Figure": "MonsterFigure/Monster_1023010.png"
+        "Icon": "mostericon/Monster_1023010.png",
+        "Figure": "monsterfigure/Monster_1023010.png",
+        "AllSkills": [
+            700308001,
+            700308002,
+            700308003,
+            700308004,
+            700308005,
+            700308006,
+            700308007
+        ]
     },
     {
         "_id": 7003090,
@@ -30016,8 +32911,15 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_1013010.png",
-        "Figure": "MonsterFigure/Monster_1013010.png"
+        "Icon": "mostericon/Monster_1013010.png",
+        "Figure": "monsterfigure/Monster_1013010.png",
+        "AllSkills": [
+            700309001,
+            700309002,
+            700309003,
+            700309004,
+            700309005
+        ]
     },
     {
         "_id": 7003100,
@@ -30064,8 +32966,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8033010.png",
-        "Figure": "MonsterFigure/Monster_8033010.png"
+        "Icon": "mostericon/Monster_8033010.png",
+        "Figure": "monsterfigure/Monster_8033010.png",
+        "AllSkills": [
+            700310001,
+            700310002,
+            700310003,
+            700310004,
+            700310005,
+            700310006,
+            700310007
+        ]
     },
     {
         "_id": 8001010,
@@ -30110,8 +33021,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Icon": "mostericon/Monster_9001020.png",
+        "Figure": "monsterfigure/Monster_8001010.png",
+        "AllSkills": [
+            800101001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
@@ -30157,8 +33071,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Icon": "mostericon/Monster_9001020.png",
+        "Figure": "monsterfigure/Monster_8001010.png",
+        "AllSkills": [
+            800101001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
@@ -30207,8 +33124,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Icon": "mostericon/Monster_9001020.png",
+        "Figure": "monsterfigure/Monster_8001010.png",
+        "AllSkills": [
+            800101001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
@@ -30254,8 +33174,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Icon": "mostericon/Monster_9001020.png",
+        "Figure": "monsterfigure/Monster_8001010.png",
+        "AllSkills": [
+            800101001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
@@ -30304,8 +33227,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Icon": "mostericon/Monster_9001020.png",
+        "Figure": "monsterfigure/Monster_8001010.png",
+        "AllSkills": [
+            800101001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
@@ -30354,8 +33280,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Icon": "mostericon/Monster_9001020.png",
+        "Figure": "monsterfigure/Monster_8001010.png",
+        "AllSkills": [
+            800101001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
@@ -30404,8 +33333,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Icon": "mostericon/Monster_9001020.png",
+        "Figure": "monsterfigure/Monster_8001010.png",
+        "AllSkills": [
+            800101001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
@@ -30454,8 +33386,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Icon": "mostericon/Monster_9001020.png",
+        "Figure": "monsterfigure/Monster_8001010.png",
+        "AllSkills": [
+            800101001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
@@ -30501,8 +33436,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Icon": "mostericon/Monster_9001020.png",
+        "Figure": "monsterfigure/Monster_8001010.png",
+        "AllSkills": [
+            800101001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
@@ -30548,8 +33486,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Icon": "mostericon/Monster_9001020.png",
+        "Figure": "monsterfigure/Monster_8001010.png",
+        "AllSkills": [
+            800101001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
@@ -30595,8 +33536,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Icon": "mostericon/Monster_9001020.png",
+        "Figure": "monsterfigure/Monster_8001010.png",
+        "AllSkills": [
+            800101001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
@@ -30642,8 +33586,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Icon": "mostericon/Monster_9001020.png",
+        "Figure": "monsterfigure/Monster_8001010.png",
+        "AllSkills": [
+            800101001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
@@ -30689,8 +33636,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Icon": "mostericon/Monster_9001020.png",
+        "Figure": "monsterfigure/Monster_8001010.png",
+        "AllSkills": [
+            800101001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
@@ -30736,8 +33686,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Icon": "mostericon/Monster_9001020.png",
+        "Figure": "monsterfigure/Monster_8001010.png",
+        "AllSkills": [
+            800101001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
@@ -30786,8 +33739,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Icon": "mostericon/Monster_9001020.png",
+        "Figure": "monsterfigure/Monster_8001010.png",
+        "AllSkills": [
+            800101001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
@@ -30833,8 +33789,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Icon": "mostericon/Monster_9001020.png",
+        "Figure": "monsterfigure/Monster_8001010.png",
+        "AllSkills": [
+            800101001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
@@ -30880,8 +33839,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001020.png",
-        "Figure": "MonsterFigure/Monster_8001010.png",
+        "Icon": "mostericon/Monster_9001020.png",
+        "Figure": "monsterfigure/Monster_8001010.png",
+        "AllSkills": [
+            800101001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
@@ -30927,8 +33889,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Icon": "mostericon/Monster_9001030.png",
+        "Figure": "monsterfigure/Monster_8001020.png",
+        "AllSkills": [
+            800102001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
@@ -30974,8 +33939,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Icon": "mostericon/Monster_9001030.png",
+        "Figure": "monsterfigure/Monster_8001020.png",
+        "AllSkills": [
+            800102001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
@@ -31024,8 +33992,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Icon": "mostericon/Monster_9001030.png",
+        "Figure": "monsterfigure/Monster_8001020.png",
+        "AllSkills": [
+            800102001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
@@ -31074,8 +34045,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Icon": "mostericon/Monster_9001030.png",
+        "Figure": "monsterfigure/Monster_8001020.png",
+        "AllSkills": [
+            800102001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
@@ -31121,8 +34095,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Icon": "mostericon/Monster_9001030.png",
+        "Figure": "monsterfigure/Monster_8001020.png",
+        "AllSkills": [
+            800102001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
@@ -31171,8 +34148,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Icon": "mostericon/Monster_9001030.png",
+        "Figure": "monsterfigure/Monster_8001020.png",
+        "AllSkills": [
+            800102001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
@@ -31221,8 +34201,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Icon": "mostericon/Monster_9001030.png",
+        "Figure": "monsterfigure/Monster_8001020.png",
+        "AllSkills": [
+            800102001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
@@ -31268,8 +34251,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Icon": "mostericon/Monster_9001030.png",
+        "Figure": "monsterfigure/Monster_8001020.png",
+        "AllSkills": [
+            800102001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
@@ -31318,8 +34304,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Icon": "mostericon/Monster_9001030.png",
+        "Figure": "monsterfigure/Monster_8001020.png",
+        "AllSkills": [
+            800102001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
@@ -31368,8 +34357,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Icon": "mostericon/Monster_9001030.png",
+        "Figure": "monsterfigure/Monster_8001020.png",
+        "AllSkills": [
+            800102001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
@@ -31415,8 +34407,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Icon": "mostericon/Monster_9001030.png",
+        "Figure": "monsterfigure/Monster_8001020.png",
+        "AllSkills": [
+            800102001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
@@ -31462,8 +34457,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Icon": "mostericon/Monster_9001030.png",
+        "Figure": "monsterfigure/Monster_8001020.png",
+        "AllSkills": [
+            800102001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
@@ -31512,8 +34510,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Icon": "mostericon/Monster_9001030.png",
+        "Figure": "monsterfigure/Monster_8001020.png",
+        "AllSkills": [
+            800102001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
@@ -31559,8 +34560,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Icon": "mostericon/Monster_9001030.png",
+        "Figure": "monsterfigure/Monster_8001020.png",
+        "AllSkills": [
+            800102001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
@@ -31606,8 +34610,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Icon": "mostericon/Monster_9001030.png",
+        "Figure": "monsterfigure/Monster_8001020.png",
+        "AllSkills": [
+            800102001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
@@ -31653,8 +34660,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Icon": "mostericon/Monster_9001030.png",
+        "Figure": "monsterfigure/Monster_8001020.png",
+        "AllSkills": [
+            800102001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
@@ -31700,8 +34710,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_9001030.png",
-        "Figure": "MonsterFigure/Monster_8001020.png",
+        "Icon": "mostericon/Monster_9001030.png",
+        "Figure": "monsterfigure/Monster_8001020.png",
+        "AllSkills": [
+            800102001
+        ],
         "Csxylic": "SCFragmentumMonsters/8001020"
     },
     {
@@ -31746,10 +34759,15 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8001030.png",
-        "Figure": "MonsterFigure/Monster_8001030.png",
+        "Icon": "mostericon/Monster_8001030.png",
+        "Figure": "monsterfigure/Monster_8001030.png",
         "Status": [
             280010301
+        ],
+        "AllSkills": [
+            800103001,
+            800103002,
+            800103003
         ],
         "Csxylic": "SCFragmentumMonsters/8001030"
     },
@@ -31798,10 +34816,15 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8001030.png",
-        "Figure": "MonsterFigure/Monster_8001030.png",
+        "Icon": "mostericon/Monster_8001030.png",
+        "Figure": "monsterfigure/Monster_8001030.png",
         "Status": [
             280010301
+        ],
+        "AllSkills": [
+            800103001,
+            800103002,
+            800103003
         ],
         "Csxylic": "SCFragmentumMonsters/8001030"
     },
@@ -31850,10 +34873,15 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8001030.png",
-        "Figure": "MonsterFigure/Monster_8001030.png",
+        "Icon": "mostericon/Monster_8001030.png",
+        "Figure": "monsterfigure/Monster_8001030.png",
         "Status": [
             280010301
+        ],
+        "AllSkills": [
+            800103001,
+            800103002,
+            800103003
         ],
         "Csxylic": "SCFragmentumMonsters/8001030"
     },
@@ -31899,10 +34927,15 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8001030.png",
-        "Figure": "MonsterFigure/Monster_8001030.png",
+        "Icon": "mostericon/Monster_8001030.png",
+        "Figure": "monsterfigure/Monster_8001030.png",
         "Status": [
             280010301
+        ],
+        "AllSkills": [
+            800103001,
+            800103002,
+            800103003
         ],
         "Csxylic": "SCFragmentumMonsters/8001030"
     },
@@ -31948,10 +34981,15 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8001030.png",
-        "Figure": "MonsterFigure/Monster_8001030.png",
+        "Icon": "mostericon/Monster_8001030.png",
+        "Figure": "monsterfigure/Monster_8001030.png",
         "Status": [
             280010301
+        ],
+        "AllSkills": [
+            800103001,
+            800103002,
+            800103003
         ],
         "Csxylic": "SCFragmentumMonsters/8001030"
     },
@@ -31998,10 +35036,13 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8001040.png",
-        "Figure": "MonsterFigure/Monster_8001040.png",
+        "Icon": "mostericon/Monster_8001040.png",
+        "Figure": "monsterfigure/Monster_8001040.png",
         "Status": [
             30020004
+        ],
+        "AllSkills": [
+            800104001
         ],
         "Csxylic": "SCFragmentumMonsters/8001040"
     },
@@ -32051,10 +35092,13 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8001040.png",
-        "Figure": "MonsterFigure/Monster_8001040.png",
+        "Icon": "mostericon/Monster_8001040.png",
+        "Figure": "monsterfigure/Monster_8001040.png",
         "Status": [
             30020004
+        ],
+        "AllSkills": [
+            800104001
         ],
         "Csxylic": "SCFragmentumMonsters/8001040"
     },
@@ -32104,10 +35148,13 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8001040.png",
-        "Figure": "MonsterFigure/Monster_8001040.png",
+        "Icon": "mostericon/Monster_8001040.png",
+        "Figure": "monsterfigure/Monster_8001040.png",
         "Status": [
             30020004
+        ],
+        "AllSkills": [
+            800104001
         ],
         "Csxylic": "SCFragmentumMonsters/8001040"
     },
@@ -32154,10 +35201,13 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8001040.png",
-        "Figure": "MonsterFigure/Monster_8001040.png",
+        "Icon": "mostericon/Monster_8001040.png",
+        "Figure": "monsterfigure/Monster_8001040.png",
         "Status": [
             30020004
+        ],
+        "AllSkills": [
+            800104001
         ],
         "Csxylic": "SCFragmentumMonsters/8001040"
     },
@@ -32204,10 +35254,13 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8001050.png",
-        "Figure": "MonsterFigure/Monster_8001050.png",
+        "Icon": "mostericon/Monster_8001050.png",
+        "Figure": "monsterfigure/Monster_8001050.png",
         "Status": [
             30020003
+        ],
+        "AllSkills": [
+            800105001
         ],
         "Csxylic": "SCFragmentumMonsters/8001050"
     },
@@ -32257,10 +35310,13 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8001050.png",
-        "Figure": "MonsterFigure/Monster_8001050.png",
+        "Icon": "mostericon/Monster_8001050.png",
+        "Figure": "monsterfigure/Monster_8001050.png",
         "Status": [
             30020003
+        ],
+        "AllSkills": [
+            800105001
         ],
         "Csxylic": "SCFragmentumMonsters/8001050"
     },
@@ -32310,10 +35366,13 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8001050.png",
-        "Figure": "MonsterFigure/Monster_8001050.png",
+        "Icon": "mostericon/Monster_8001050.png",
+        "Figure": "monsterfigure/Monster_8001050.png",
         "Status": [
             30020003
+        ],
+        "AllSkills": [
+            800105001
         ],
         "Csxylic": "SCFragmentumMonsters/8001050"
     },
@@ -32360,10 +35419,13 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8001050.png",
-        "Figure": "MonsterFigure/Monster_8001050.png",
+        "Icon": "mostericon/Monster_8001050.png",
+        "Figure": "monsterfigure/Monster_8001050.png",
         "Status": [
             30020003
+        ],
+        "AllSkills": [
+            800105001
         ],
         "Csxylic": "SCFragmentumMonsters/8001050"
     },
@@ -32410,10 +35472,13 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8001050.png",
-        "Figure": "MonsterFigure/Monster_8001050.png",
+        "Icon": "mostericon/Monster_8001050.png",
+        "Figure": "monsterfigure/Monster_8001050.png",
         "Status": [
             30020003
+        ],
+        "AllSkills": [
+            800105001
         ],
         "Csxylic": "SCFragmentumMonsters/8001050"
     },
@@ -32465,10 +35530,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8002010.png",
-        "Figure": "MonsterFigure/Monster_8002010.png",
+        "Icon": "mostericon/Monster_8002010.png",
+        "Figure": "monsterfigure/Monster_8002010.png",
         "Status": [
             280020102
+        ],
+        "AllSkills": [
+            800201001,
+            800201002,
+            800201003
         ],
         "Csxylic": "SCFragmentumMonsters/8002010"
     },
@@ -32520,10 +35590,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8002010.png",
-        "Figure": "MonsterFigure/Monster_8002010.png",
+        "Icon": "mostericon/Monster_8002010.png",
+        "Figure": "monsterfigure/Monster_8002010.png",
         "Status": [
             280020102
+        ],
+        "AllSkills": [
+            800201001,
+            800201002,
+            800201003
         ],
         "Csxylic": "SCFragmentumMonsters/8002010"
     },
@@ -32575,10 +35650,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8002010.png",
-        "Figure": "MonsterFigure/Monster_8002010.png",
+        "Icon": "mostericon/Monster_8002010.png",
+        "Figure": "monsterfigure/Monster_8002010.png",
         "Status": [
             280020102
+        ],
+        "AllSkills": [
+            800201001,
+            800201002,
+            800201003
         ],
         "Csxylic": "SCFragmentumMonsters/8002010"
     },
@@ -32632,10 +35712,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8002010.png",
-        "Figure": "MonsterFigure/Monster_8002010.png",
+        "Icon": "mostericon/Monster_8002010.png",
+        "Figure": "monsterfigure/Monster_8002010.png",
         "Status": [
             280020102
+        ],
+        "AllSkills": [
+            800201001,
+            800201002,
+            800201003
         ],
         "Csxylic": "SCFragmentumMonsters/8002010"
     },
@@ -32689,10 +35774,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8002010.png",
-        "Figure": "MonsterFigure/Monster_8002010.png",
+        "Icon": "mostericon/Monster_8002010.png",
+        "Figure": "monsterfigure/Monster_8002010.png",
         "Status": [
             280020102
+        ],
+        "AllSkills": [
+            800201001,
+            800201002,
+            800201003
         ],
         "Csxylic": "SCFragmentumMonsters/8002010"
     },
@@ -32747,10 +35837,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8002010.png",
-        "Figure": "MonsterFigure/Monster_8002010.png",
+        "Icon": "mostericon/Monster_8002010.png",
+        "Figure": "monsterfigure/Monster_8002010.png",
         "Status": [
             280020102
+        ],
+        "AllSkills": [
+            800201001,
+            800201002,
+            800201003
         ],
         "Csxylic": "SCFragmentumMonsters/8002010"
     },
@@ -32802,10 +35897,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8002010.png",
-        "Figure": "MonsterFigure/Monster_8002010.png",
+        "Icon": "mostericon/Monster_8002010.png",
+        "Figure": "monsterfigure/Monster_8002010.png",
         "Status": [
             280020102
+        ],
+        "AllSkills": [
+            800201001,
+            800201002,
+            800201003
         ],
         "Csxylic": "SCFragmentumMonsters/8002010"
     },
@@ -32857,10 +35957,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8002010.png",
-        "Figure": "MonsterFigure/Monster_8002010.png",
+        "Icon": "mostericon/Monster_8002010.png",
+        "Figure": "monsterfigure/Monster_8002010.png",
         "Status": [
             280020102
+        ],
+        "AllSkills": [
+            800201001,
+            800201002,
+            800201003
         ],
         "Csxylic": "SCFragmentumMonsters/8002010"
     },
@@ -32912,10 +36017,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8002010.png",
-        "Figure": "MonsterFigure/Monster_8002010.png",
+        "Icon": "mostericon/Monster_8002010.png",
+        "Figure": "monsterfigure/Monster_8002010.png",
         "Status": [
             280020102
+        ],
+        "AllSkills": [
+            800201001,
+            800201002,
+            800201003
         ],
         "Csxylic": "SCFragmentumMonsters/8002010"
     },
@@ -32970,10 +36080,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8002010.png",
-        "Figure": "MonsterFigure/Monster_8002010.png",
+        "Icon": "mostericon/Monster_8002010.png",
+        "Figure": "monsterfigure/Monster_8002010.png",
         "Status": [
             280020102
+        ],
+        "AllSkills": [
+            800201001,
+            800201002,
+            800201003
         ],
         "Csxylic": "SCFragmentumMonsters/8002010"
     },
@@ -33028,10 +36143,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8002010.png",
-        "Figure": "MonsterFigure/Monster_8002010.png",
+        "Icon": "mostericon/Monster_8002010.png",
+        "Figure": "monsterfigure/Monster_8002010.png",
         "Status": [
             280020102
+        ],
+        "AllSkills": [
+            800201001,
+            800201002,
+            800201003
         ],
         "Csxylic": "SCFragmentumMonsters/8002010"
     },
@@ -33077,8 +36197,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 7,
-        "Icon": "MonsterIcon/Monster_8002040.png",
-        "Figure": "MonsterFigure/Monster_8002040.png",
+        "Icon": "mostericon/Monster_8002040.png",
+        "Figure": "monsterfigure/Monster_8002040.png",
+        "AllSkills": [
+            800204001,
+            800204002,
+            800204003
+        ],
         "Csxylic": "SCCosmos/8002040"
     },
     {
@@ -33126,8 +36251,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 7,
-        "Icon": "MonsterIcon/Monster_8002040.png",
-        "Figure": "MonsterFigure/Monster_8002040.png",
+        "Icon": "mostericon/Monster_8002040.png",
+        "Figure": "monsterfigure/Monster_8002040.png",
+        "AllSkills": [
+            800204001,
+            800204002,
+            800204003
+        ],
         "Csxylic": "SCCosmos/8002040"
     },
     {
@@ -33175,8 +36305,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 7,
-        "Icon": "MonsterIcon/Monster_8002040.png",
-        "Figure": "MonsterFigure/Monster_8002040.png",
+        "Icon": "mostericon/Monster_8002040.png",
+        "Figure": "monsterfigure/Monster_8002040.png",
+        "AllSkills": [
+            800204001,
+            800204002,
+            800204003
+        ],
         "Csxylic": "SCCosmos/8002040"
     },
     {
@@ -33221,8 +36356,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 7,
-        "Icon": "MonsterIcon/Monster_8002040.png",
-        "Figure": "MonsterFigure/Monster_8002040.png",
+        "Icon": "mostericon/Monster_8002040.png",
+        "Figure": "monsterfigure/Monster_8002040.png",
+        "AllSkills": [
+            800204001,
+            800204002,
+            800204003
+        ],
         "Csxylic": "SCCosmos/8002040"
     },
     {
@@ -33267,8 +36407,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 7,
-        "Icon": "MonsterIcon/Monster_8002040.png",
-        "Figure": "MonsterFigure/Monster_8002040.png",
+        "Icon": "mostericon/Monster_8002040.png",
+        "Figure": "monsterfigure/Monster_8002040.png",
+        "AllSkills": [
+            800204001,
+            800204002,
+            800204003
+        ],
         "Csxylic": "SCCosmos/8002040"
     },
     {
@@ -33314,8 +36459,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8002040.png",
-        "Figure": "MonsterFigure/Monster_8002040.png"
+        "Icon": "mostericon/Monster_8002040.png",
+        "Figure": "monsterfigure/Monster_8002040.png",
+        "AllSkills": [
+            800204101,
+            800204102,
+            800204103,
+            800204104
+        ]
     },
     {
         "_id": 8002050,
@@ -33359,8 +36510,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
         "Csxylic": "SCCosmos/8002050"
     },
     {
@@ -33408,8 +36564,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
         "Csxylic": "SCCosmos/8002050"
     },
     {
@@ -33458,8 +36619,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
         "Csxylic": "SCCosmos/8002050"
     },
     {
@@ -33507,8 +36673,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
         "Csxylic": "SCCosmos/8002050"
     },
     {
@@ -33556,8 +36727,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
         "Csxylic": "SCCosmos/8002050"
     },
     {
@@ -33605,8 +36781,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
         "Csxylic": "SCCosmos/8002050"
     },
     {
@@ -33654,8 +36835,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
         "Csxylic": "SCCosmos/8002050"
     },
     {
@@ -33703,8 +36889,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
         "Csxylic": "SCCosmos/8002050"
     },
     {
@@ -33752,8 +36943,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
         "Csxylic": "SCCosmos/8002050"
     },
     {
@@ -33801,8 +36997,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
         "Csxylic": "SCCosmos/8002050"
     },
     {
@@ -33850,8 +37051,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
         "Csxylic": "SCCosmos/8002050"
     },
     {
@@ -33899,8 +37105,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
         "Csxylic": "SCCosmos/8002050"
     },
     {
@@ -33948,8 +37159,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
         "Csxylic": "SCCosmos/8002050"
     },
     {
@@ -33997,8 +37213,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
         "Csxylic": "SCCosmos/8002050"
     },
     {
@@ -34046,8 +37267,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
         "Csxylic": "SCCosmos/8002050"
     },
     {
@@ -34095,8 +37321,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
         "Csxylic": "SCCosmos/8002050"
     },
     {
@@ -34144,8 +37375,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
         "Csxylic": "SCCosmos/8002050"
     },
     {
@@ -34193,8 +37429,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
         "Csxylic": "SCCosmos/8002050"
     },
     {
@@ -34242,8 +37483,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
         "Csxylic": "SCCosmos/8002050"
     },
     {
@@ -34291,8 +37537,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
         "Csxylic": "SCCosmos/8002050"
     },
     {
@@ -34340,8 +37591,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
         "Csxylic": "SCCosmos/8002050"
     },
     {
@@ -34389,8 +37645,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
         "Csxylic": "SCCosmos/8002050"
     },
     {
@@ -34438,8 +37699,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
         "Csxylic": "SCCosmos/8002050"
     },
     {
@@ -34487,8 +37753,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
         "Csxylic": "SCCosmos/8002050"
     },
     {
@@ -34536,8 +37807,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
         "Csxylic": "SCCosmos/8002050"
     },
     {
@@ -34585,8 +37861,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
         "Csxylic": "SCCosmos/8002050"
     },
     {
@@ -34634,8 +37915,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
         "Csxylic": "SCCosmos/8002050"
     },
     {
@@ -34683,8 +37969,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
         "Csxylic": "SCCosmos/8002050"
     },
     {
@@ -34729,8 +38020,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205101,
+            800205102,
+            800205103
+        ],
         "Csxylic": "SCCosmos/8002051"
     },
     {
@@ -34775,8 +38071,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205201,
+            800205202,
+            800205203
+        ],
         "Csxylic": "SCCosmos/8002052"
     },
     {
@@ -34821,8 +38122,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205301,
+            800205302,
+            800205303
+        ],
         "Csxylic": "SCCosmos/8002053"
     },
     {
@@ -34867,8 +38173,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205401,
+            800205402,
+            800205403
+        ]
     },
     {
         "_id": 8002055,
@@ -34912,8 +38223,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205501,
+            800205502,
+            800205503
+        ]
     },
     {
         "_id": 8002056,
@@ -34957,8 +38273,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205601,
+            800205602,
+            800205603
+        ]
     },
     {
         "_id": 8002057,
@@ -35002,8 +38323,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205701,
+            800205702,
+            800205703
+        ]
     },
     {
         "_id": 8002058,
@@ -35047,8 +38373,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205801,
+            800205802,
+            800205803
+        ]
     },
     {
         "_id": 8002059,
@@ -35092,8 +38423,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205901,
+            800205902,
+            800205903
+        ]
     },
     {
         "_id": 8002060,
@@ -35138,10 +38474,16 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
         "Status": [
             280020601
+        ],
+        "AllSkills": [
+            800206001,
+            800206002,
+            800206003,
+            800206004
         ],
         "Csxylic": "SCCosmos/8002060"
     },
@@ -35188,8 +38530,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800206101,
+            800206102,
+            800206103,
+            800206104
+        ]
     },
     {
         "_id": 8002070,
@@ -35234,10 +38582,16 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
         "Status": [
             280020701
+        ],
+        "AllSkills": [
+            800207001,
+            800207002,
+            800207003,
+            800207004
         ],
         "Csxylic": "SCCosmos/8002070"
     },
@@ -35284,8 +38638,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800207101,
+            800207102,
+            800207103,
+            800207104
+        ]
     },
     {
         "_id": 8002080,
@@ -35330,10 +38690,16 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
         "Status": [
             280020801
+        ],
+        "AllSkills": [
+            800208001,
+            800208002,
+            800208003,
+            800208004
         ],
         "Csxylic": "SCCosmos/8002080"
     },
@@ -35383,10 +38749,16 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
         "Status": [
             280020801
+        ],
+        "AllSkills": [
+            800208101,
+            800208102,
+            800208103,
+            800208104
         ]
     },
     {
@@ -35435,10 +38807,16 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png",
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
         "Status": [
             280020801
+        ],
+        "AllSkills": [
+            800208101,
+            800208102,
+            800208103,
+            800208104
         ]
     },
     {
@@ -35484,8 +38862,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800208201,
+            800208202,
+            800208203,
+            800208204
+        ]
     },
     {
         "_id": 8002090,
@@ -35529,8 +38913,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800209001,
+            800209002,
+            800209003
+        ]
     },
     {
         "_id": 8002091,
@@ -35574,8 +38963,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800209101,
+            800209102,
+            800209103
+        ]
     },
     {
         "_id": 8002100,
@@ -35619,8 +39013,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800210001,
+            800210002,
+            800210003
+        ]
     },
     {
         "_id": 8002101,
@@ -35664,8 +39063,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800210101,
+            800210102,
+            800210103
+        ]
     },
     {
         "_id": 8002102,
@@ -35709,8 +39113,13 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 4,
-        "Icon": "MonsterIcon/Monster_8002050.png",
-        "Figure": "MonsterFigure/Monster_8002050.png"
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800210201,
+            800210202,
+            800210203
+        ]
     },
     {
         "_id": 8003010,
@@ -35763,11 +39172,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003010.png",
-        "Figure": "MonsterFigure/Monster_8003010.png",
+        "Icon": "mostericon/Monster_8003010.png",
+        "Figure": "monsterfigure/Monster_8003010.png",
         "Status": [
             30020012,
             280030101
+        ],
+        "AllSkills": [
+            800301001,
+            800301002,
+            800301003
         ],
         "Csxylic": "SCFragmentumMonsters/8003010"
     },
@@ -35825,11 +39239,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003010.png",
-        "Figure": "MonsterFigure/Monster_8003010.png",
+        "Icon": "mostericon/Monster_8003010.png",
+        "Figure": "monsterfigure/Monster_8003010.png",
         "Status": [
             30020012,
             280030101
+        ],
+        "AllSkills": [
+            800301001,
+            800301002,
+            800301003
         ],
         "Csxylic": "SCFragmentumMonsters/8003010"
     },
@@ -35886,11 +39305,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003010.png",
-        "Figure": "MonsterFigure/Monster_8003010.png",
+        "Icon": "mostericon/Monster_8003010.png",
+        "Figure": "monsterfigure/Monster_8003010.png",
         "Status": [
             30020012,
             280030101
+        ],
+        "AllSkills": [
+            800301001,
+            800301002,
+            800301003
         ],
         "Csxylic": "SCFragmentumMonsters/8003010"
     },
@@ -35945,11 +39369,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003010.png",
-        "Figure": "MonsterFigure/Monster_8003010.png",
+        "Icon": "mostericon/Monster_8003010.png",
+        "Figure": "monsterfigure/Monster_8003010.png",
         "Status": [
             30020012,
             280030101
+        ],
+        "AllSkills": [
+            800301001,
+            800301002,
+            800301003
         ],
         "Csxylic": "SCFragmentumMonsters/8003010"
     },
@@ -36004,11 +39433,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003010.png",
-        "Figure": "MonsterFigure/Monster_8003010.png",
+        "Icon": "mostericon/Monster_8003010.png",
+        "Figure": "monsterfigure/Monster_8003010.png",
         "Status": [
             30020012,
             280030101
+        ],
+        "AllSkills": [
+            800301001,
+            800301002,
+            800301003
         ],
         "Csxylic": "SCFragmentumMonsters/8003010"
     },
@@ -36063,11 +39497,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003010.png",
-        "Figure": "MonsterFigure/Monster_8003010.png",
+        "Icon": "mostericon/Monster_8003010.png",
+        "Figure": "monsterfigure/Monster_8003010.png",
         "Status": [
             30020012,
             280030101
+        ],
+        "AllSkills": [
+            800301001,
+            800301002,
+            800301003
         ],
         "Csxylic": "SCFragmentumMonsters/8003010"
     },
@@ -36125,11 +39564,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003010.png",
-        "Figure": "MonsterFigure/Monster_8003010.png",
+        "Icon": "mostericon/Monster_8003010.png",
+        "Figure": "monsterfigure/Monster_8003010.png",
         "Status": [
             30020012,
             280030101
+        ],
+        "AllSkills": [
+            800301001,
+            800301002,
+            800301003
         ],
         "Csxylic": "SCFragmentumMonsters/8003010"
     },
@@ -36187,11 +39631,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003010.png",
-        "Figure": "MonsterFigure/Monster_8003010.png",
+        "Icon": "mostericon/Monster_8003010.png",
+        "Figure": "monsterfigure/Monster_8003010.png",
         "Status": [
             30020012,
             280030101
+        ],
+        "AllSkills": [
+            800301001,
+            800301002,
+            800301003
         ],
         "Csxylic": "SCFragmentumMonsters/8003010"
     },
@@ -36250,11 +39699,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003010.png",
-        "Figure": "MonsterFigure/Monster_8003010.png",
+        "Icon": "mostericon/Monster_8003010.png",
+        "Figure": "monsterfigure/Monster_8003010.png",
         "Status": [
             30020012,
             280030101
+        ],
+        "AllSkills": [
+            800301001,
+            800301002,
+            800301003
         ],
         "Csxylic": "SCFragmentumMonsters/8003010"
     },
@@ -36312,11 +39766,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003010.png",
-        "Figure": "MonsterFigure/Monster_8003010.png",
+        "Icon": "mostericon/Monster_8003010.png",
+        "Figure": "monsterfigure/Monster_8003010.png",
         "Status": [
             30020012,
             280030101
+        ],
+        "AllSkills": [
+            800301001,
+            800301002,
+            800301003
         ],
         "Csxylic": "SCFragmentumMonsters/8003010"
     },
@@ -36374,11 +39833,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003010.png",
-        "Figure": "MonsterFigure/Monster_8003010.png",
+        "Icon": "mostericon/Monster_8003010.png",
+        "Figure": "monsterfigure/Monster_8003010.png",
         "Status": [
             30020012,
             280030101
+        ],
+        "AllSkills": [
+            800301001,
+            800301002,
+            800301003
         ],
         "Csxylic": "SCFragmentumMonsters/8003010"
     },
@@ -36437,11 +39901,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003010.png",
-        "Figure": "MonsterFigure/Monster_8003010.png",
+        "Icon": "mostericon/Monster_8003010.png",
+        "Figure": "monsterfigure/Monster_8003010.png",
         "Status": [
             30020012,
             280030101
+        ],
+        "AllSkills": [
+            800301001,
+            800301002,
+            800301003
         ],
         "Csxylic": "SCFragmentumMonsters/8003010"
     },
@@ -36500,11 +39969,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003010.png",
-        "Figure": "MonsterFigure/Monster_8003010.png",
+        "Icon": "mostericon/Monster_8003010.png",
+        "Figure": "monsterfigure/Monster_8003010.png",
         "Status": [
             30020012,
             280030101
+        ],
+        "AllSkills": [
+            800301001,
+            800301002,
+            800301003
         ],
         "Csxylic": "SCFragmentumMonsters/8003010"
     },
@@ -36562,11 +40036,16 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003010.png",
-        "Figure": "MonsterFigure/Monster_8003010.png",
+        "Icon": "mostericon/Monster_8003010.png",
+        "Figure": "monsterfigure/Monster_8003010.png",
         "Status": [
             30020012,
             280030101
+        ],
+        "AllSkills": [
+            800301001,
+            800301002,
+            800301003
         ],
         "Csxylic": "SCFragmentumMonsters/8003010"
     },
@@ -36623,11 +40102,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8003010.png",
-        "Figure": "MonsterFigure/Monster_8003010.png",
+        "Icon": "mostericon/Monster_8003010.png",
+        "Figure": "monsterfigure/Monster_8003010.png",
         "Status": [
             30020012,
             280030101
+        ],
+        "AllSkills": [
+            800301101,
+            800301102,
+            800301103,
+            800301106
         ]
     },
     {
@@ -36676,11 +40161,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png",
-        "Figure": "MonsterFigure/Monster_8003020.png",
+        "Icon": "mostericon/Monster_8003020.png",
+        "Figure": "monsterfigure/Monster_8003020.png",
         "Status": [
             280030202,
             280030203
+        ],
+        "AllSkills": [
+            800302001,
+            800302002,
+            800302003,
+            800302004
         ],
         "Csxylic": "SCFragmentumMonsters/8003020"
     },
@@ -36733,11 +40224,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png",
-        "Figure": "MonsterFigure/Monster_8003020.png",
+        "Icon": "mostericon/Monster_8003020.png",
+        "Figure": "monsterfigure/Monster_8003020.png",
         "Status": [
             280030202,
             280030203
+        ],
+        "AllSkills": [
+            800302001,
+            800302002,
+            800302003,
+            800302004
         ],
         "Csxylic": "SCFragmentumMonsters/8003020"
     },
@@ -36790,11 +40287,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png",
-        "Figure": "MonsterFigure/Monster_8003020.png",
+        "Icon": "mostericon/Monster_8003020.png",
+        "Figure": "monsterfigure/Monster_8003020.png",
         "Status": [
             280030202,
             280030203
+        ],
+        "AllSkills": [
+            800302001,
+            800302002,
+            800302003,
+            800302004
         ],
         "Csxylic": "SCFragmentumMonsters/8003020"
     },
@@ -36844,11 +40347,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png",
-        "Figure": "MonsterFigure/Monster_8003020.png",
+        "Icon": "mostericon/Monster_8003020.png",
+        "Figure": "monsterfigure/Monster_8003020.png",
         "Status": [
             280030202,
             280030203
+        ],
+        "AllSkills": [
+            800302001,
+            800302002,
+            800302003,
+            800302004
         ],
         "Csxylic": "SCFragmentumMonsters/8003020"
     },
@@ -36898,11 +40407,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png",
-        "Figure": "MonsterFigure/Monster_8003020.png",
+        "Icon": "mostericon/Monster_8003020.png",
+        "Figure": "monsterfigure/Monster_8003020.png",
         "Status": [
             280030202,
             280030203
+        ],
+        "AllSkills": [
+            800302001,
+            800302002,
+            800302003,
+            800302004
         ],
         "Csxylic": "SCFragmentumMonsters/8003020"
     },
@@ -36952,11 +40467,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png",
-        "Figure": "MonsterFigure/Monster_8003020.png",
+        "Icon": "mostericon/Monster_8003020.png",
+        "Figure": "monsterfigure/Monster_8003020.png",
         "Status": [
             280030202,
             280030203
+        ],
+        "AllSkills": [
+            800302001,
+            800302002,
+            800302003,
+            800302004
         ],
         "Csxylic": "SCFragmentumMonsters/8003020"
     },
@@ -37006,11 +40527,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png",
-        "Figure": "MonsterFigure/Monster_8003020.png",
+        "Icon": "mostericon/Monster_8003020.png",
+        "Figure": "monsterfigure/Monster_8003020.png",
         "Status": [
             280030202,
             280030203
+        ],
+        "AllSkills": [
+            800302001,
+            800302002,
+            800302003,
+            800302004
         ],
         "Csxylic": "SCFragmentumMonsters/8003020"
     },
@@ -37063,11 +40590,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png",
-        "Figure": "MonsterFigure/Monster_8003020.png",
+        "Icon": "mostericon/Monster_8003020.png",
+        "Figure": "monsterfigure/Monster_8003020.png",
         "Status": [
             280030202,
             280030203
+        ],
+        "AllSkills": [
+            800302001,
+            800302002,
+            800302003,
+            800302004
         ],
         "Csxylic": "SCFragmentumMonsters/8003020"
     },
@@ -37117,11 +40650,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png",
-        "Figure": "MonsterFigure/Monster_8003020.png",
+        "Icon": "mostericon/Monster_8003020.png",
+        "Figure": "monsterfigure/Monster_8003020.png",
         "Status": [
             280030202,
             280030203
+        ],
+        "AllSkills": [
+            800302001,
+            800302002,
+            800302003,
+            800302004
         ],
         "Csxylic": "SCFragmentumMonsters/8003020"
     },
@@ -37174,11 +40713,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png",
-        "Figure": "MonsterFigure/Monster_8003020.png",
+        "Icon": "mostericon/Monster_8003020.png",
+        "Figure": "monsterfigure/Monster_8003020.png",
         "Status": [
             280030202,
             280030203
+        ],
+        "AllSkills": [
+            800302001,
+            800302002,
+            800302003,
+            800302004
         ],
         "Csxylic": "SCFragmentumMonsters/8003020"
     },
@@ -37231,11 +40776,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png",
-        "Figure": "MonsterFigure/Monster_8003020.png",
+        "Icon": "mostericon/Monster_8003020.png",
+        "Figure": "monsterfigure/Monster_8003020.png",
         "Status": [
             280030202,
             280030203
+        ],
+        "AllSkills": [
+            800302001,
+            800302002,
+            800302003,
+            800302004
         ],
         "Csxylic": "SCFragmentumMonsters/8003020"
     },
@@ -37288,11 +40839,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png",
-        "Figure": "MonsterFigure/Monster_8003020.png",
+        "Icon": "mostericon/Monster_8003020.png",
+        "Figure": "monsterfigure/Monster_8003020.png",
         "Status": [
             280030202,
             280030203
+        ],
+        "AllSkills": [
+            800302001,
+            800302002,
+            800302003,
+            800302004
         ],
         "Csxylic": "SCFragmentumMonsters/8003020"
     },
@@ -37345,11 +40902,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png",
-        "Figure": "MonsterFigure/Monster_8003020.png",
+        "Icon": "mostericon/Monster_8003020.png",
+        "Figure": "monsterfigure/Monster_8003020.png",
         "Status": [
             280030202,
             280030203
+        ],
+        "AllSkills": [
+            800302001,
+            800302002,
+            800302003,
+            800302004
         ],
         "Csxylic": "SCFragmentumMonsters/8003020"
     },
@@ -37402,11 +40965,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png",
-        "Figure": "MonsterFigure/Monster_8003020.png",
+        "Icon": "mostericon/Monster_8003020.png",
+        "Figure": "monsterfigure/Monster_8003020.png",
         "Status": [
             280030202,
             280030203
+        ],
+        "AllSkills": [
+            800302001,
+            800302002,
+            800302003,
+            800302004
         ],
         "Csxylic": "SCFragmentumMonsters/8003020"
     },
@@ -37456,11 +41025,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png",
-        "Figure": "MonsterFigure/Monster_8003020.png",
+        "Icon": "mostericon/Monster_8003020.png",
+        "Figure": "monsterfigure/Monster_8003020.png",
         "Status": [
             280030202,
             280030203
+        ],
+        "AllSkills": [
+            800302001,
+            800302002,
+            800302003,
+            800302004
         ],
         "Csxylic": "SCFragmentumMonsters/8003020"
     },
@@ -37513,11 +41088,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png",
-        "Figure": "MonsterFigure/Monster_8003020.png",
+        "Icon": "mostericon/Monster_8003020.png",
+        "Figure": "monsterfigure/Monster_8003020.png",
         "Status": [
             280030202,
             280030203
+        ],
+        "AllSkills": [
+            800302001,
+            800302002,
+            800302003,
+            800302004
         ],
         "Csxylic": "SCFragmentumMonsters/8003020"
     },
@@ -37571,11 +41152,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png",
-        "Figure": "MonsterFigure/Monster_8003020.png",
+        "Icon": "mostericon/Monster_8003020.png",
+        "Figure": "monsterfigure/Monster_8003020.png",
         "Status": [
             280030202,
             280030203
+        ],
+        "AllSkills": [
+            800302001,
+            800302002,
+            800302003,
+            800302004
         ],
         "Csxylic": "SCFragmentumMonsters/8003020"
     },
@@ -37625,11 +41212,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png",
-        "Figure": "MonsterFigure/Monster_8003020.png",
+        "Icon": "mostericon/Monster_8003020.png",
+        "Figure": "monsterfigure/Monster_8003020.png",
         "Status": [
             280030202,
             280030203
+        ],
+        "AllSkills": [
+            800302001,
+            800302002,
+            800302003,
+            800302004
         ],
         "Csxylic": "SCFragmentumMonsters/8003020"
     },
@@ -37682,11 +41275,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003020.png",
-        "Figure": "MonsterFigure/Monster_8003020.png",
+        "Icon": "mostericon/Monster_8003020.png",
+        "Figure": "monsterfigure/Monster_8003020.png",
         "Status": [
             280030202,
             280030203
+        ],
+        "AllSkills": [
+            800302001,
+            800302002,
+            800302003,
+            800302004
         ],
         "Csxylic": "SCFragmentumMonsters/8003020"
     },
@@ -37738,11 +41337,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8003020.png",
-        "Figure": "MonsterFigure/Monster_8003020.png",
+        "Icon": "mostericon/Monster_8003020.png",
+        "Figure": "monsterfigure/Monster_8003020.png",
         "Status": [
             280030202,
             280030203
+        ],
+        "AllSkills": [
+            800302101,
+            800302102,
+            800302103,
+            800302104,
+            800302105,
+            800302106
         ]
     },
     {
@@ -37797,14 +41404,23 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003030.png",
-        "Figure": "MonsterFigure/Monster_8003030.png",
+        "Icon": "mostericon/Monster_8003030.png",
+        "Figure": "monsterfigure/Monster_8003030.png",
         "Status": [
             30020004,
             280030301,
             280030302,
             280030303,
             280030306
+        ],
+        "AllSkills": [
+            800303001,
+            800303002,
+            800303003,
+            800303004,
+            800303005,
+            800303006,
+            800303007
         ],
         "Csxylic": "SCFragmentumMonsters/8003030"
     },
@@ -37863,14 +41479,23 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003030.png",
-        "Figure": "MonsterFigure/Monster_8003030.png",
+        "Icon": "mostericon/Monster_8003030.png",
+        "Figure": "monsterfigure/Monster_8003030.png",
         "Status": [
             30020004,
             280030301,
             280030302,
             280030303,
             280030306
+        ],
+        "AllSkills": [
+            800303001,
+            800303002,
+            800303003,
+            800303004,
+            800303005,
+            800303006,
+            800303007
         ],
         "Csxylic": "SCFragmentumMonsters/8003030"
     },
@@ -37929,14 +41554,23 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003030.png",
-        "Figure": "MonsterFigure/Monster_8003030.png",
+        "Icon": "mostericon/Monster_8003030.png",
+        "Figure": "monsterfigure/Monster_8003030.png",
         "Status": [
             30020004,
             280030301,
             280030302,
             280030303,
             280030306
+        ],
+        "AllSkills": [
+            800303001,
+            800303002,
+            800303003,
+            800303004,
+            800303005,
+            800303006,
+            800303007
         ],
         "Csxylic": "SCFragmentumMonsters/8003030"
     },
@@ -37995,14 +41629,23 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003030.png",
-        "Figure": "MonsterFigure/Monster_8003030.png",
+        "Icon": "mostericon/Monster_8003030.png",
+        "Figure": "monsterfigure/Monster_8003030.png",
         "Status": [
             30020004,
             280030301,
             280030302,
             280030303,
             280030306
+        ],
+        "AllSkills": [
+            800303001,
+            800303002,
+            800303003,
+            800303004,
+            800303005,
+            800303006,
+            800303007
         ],
         "Csxylic": "SCFragmentumMonsters/8003030"
     },
@@ -38058,14 +41701,23 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003030.png",
-        "Figure": "MonsterFigure/Monster_8003030.png",
+        "Icon": "mostericon/Monster_8003030.png",
+        "Figure": "monsterfigure/Monster_8003030.png",
         "Status": [
             30020004,
             280030301,
             280030302,
             280030303,
             280030306
+        ],
+        "AllSkills": [
+            800303001,
+            800303002,
+            800303003,
+            800303004,
+            800303005,
+            800303006,
+            800303007
         ],
         "Csxylic": "SCFragmentumMonsters/8003030"
     },
@@ -38121,14 +41773,23 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003030.png",
-        "Figure": "MonsterFigure/Monster_8003030.png",
+        "Icon": "mostericon/Monster_8003030.png",
+        "Figure": "monsterfigure/Monster_8003030.png",
         "Status": [
             30020004,
             280030301,
             280030302,
             280030303,
             280030306
+        ],
+        "AllSkills": [
+            800303001,
+            800303002,
+            800303003,
+            800303004,
+            800303005,
+            800303006,
+            800303007
         ],
         "Csxylic": "SCFragmentumMonsters/8003030"
     },
@@ -38184,14 +41845,23 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003030.png",
-        "Figure": "MonsterFigure/Monster_8003030.png",
+        "Icon": "mostericon/Monster_8003030.png",
+        "Figure": "monsterfigure/Monster_8003030.png",
         "Status": [
             30020004,
             280030301,
             280030302,
             280030303,
             280030306
+        ],
+        "AllSkills": [
+            800303001,
+            800303002,
+            800303003,
+            800303004,
+            800303005,
+            800303006,
+            800303007
         ],
         "Csxylic": "SCFragmentumMonsters/8003030"
     },
@@ -38250,14 +41920,23 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003030.png",
-        "Figure": "MonsterFigure/Monster_8003030.png",
+        "Icon": "mostericon/Monster_8003030.png",
+        "Figure": "monsterfigure/Monster_8003030.png",
         "Status": [
             30020004,
             280030301,
             280030302,
             280030303,
             280030306
+        ],
+        "AllSkills": [
+            800303001,
+            800303002,
+            800303003,
+            800303004,
+            800303005,
+            800303006,
+            800303007
         ],
         "Csxylic": "SCFragmentumMonsters/8003030"
     },
@@ -38316,14 +41995,23 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003030.png",
-        "Figure": "MonsterFigure/Monster_8003030.png",
+        "Icon": "mostericon/Monster_8003030.png",
+        "Figure": "monsterfigure/Monster_8003030.png",
         "Status": [
             30020004,
             280030301,
             280030302,
             280030303,
             280030306
+        ],
+        "AllSkills": [
+            800303001,
+            800303002,
+            800303003,
+            800303004,
+            800303005,
+            800303006,
+            800303007
         ],
         "Csxylic": "SCFragmentumMonsters/8003030"
     },
@@ -38379,14 +42067,23 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003030.png",
-        "Figure": "MonsterFigure/Monster_8003030.png",
+        "Icon": "mostericon/Monster_8003030.png",
+        "Figure": "monsterfigure/Monster_8003030.png",
         "Status": [
             30020004,
             280030301,
             280030302,
             280030303,
             280030306
+        ],
+        "AllSkills": [
+            800303001,
+            800303002,
+            800303003,
+            800303004,
+            800303005,
+            800303006,
+            800303007
         ],
         "Csxylic": "SCFragmentumMonsters/8003030"
     },
@@ -38442,14 +42139,23 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003030.png",
-        "Figure": "MonsterFigure/Monster_8003030.png",
+        "Icon": "mostericon/Monster_8003030.png",
+        "Figure": "monsterfigure/Monster_8003030.png",
         "Status": [
             30020004,
             280030301,
             280030302,
             280030303,
             280030306
+        ],
+        "AllSkills": [
+            800303001,
+            800303002,
+            800303003,
+            800303004,
+            800303005,
+            800303006,
+            800303007
         ],
         "Csxylic": "SCFragmentumMonsters/8003030"
     },
@@ -38509,14 +42215,23 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003030.png",
-        "Figure": "MonsterFigure/Monster_8003030.png",
+        "Icon": "mostericon/Monster_8003030.png",
+        "Figure": "monsterfigure/Monster_8003030.png",
         "Status": [
             30020004,
             280030301,
             280030302,
             280030303,
             280030306
+        ],
+        "AllSkills": [
+            800303001,
+            800303002,
+            800303003,
+            800303004,
+            800303005,
+            800303006,
+            800303007
         ],
         "Csxylic": "SCFragmentumMonsters/8003030"
     },
@@ -38575,14 +42290,23 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003030.png",
-        "Figure": "MonsterFigure/Monster_8003030.png",
+        "Icon": "mostericon/Monster_8003030.png",
+        "Figure": "monsterfigure/Monster_8003030.png",
         "Status": [
             30020004,
             280030301,
             280030302,
             280030303,
             280030306
+        ],
+        "AllSkills": [
+            800303001,
+            800303002,
+            800303003,
+            800303004,
+            800303005,
+            800303006,
+            800303007
         ],
         "Csxylic": "SCFragmentumMonsters/8003030"
     },
@@ -38638,13 +42362,22 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8003030.png",
-        "Figure": "MonsterFigure/Monster_8003030.png",
+        "Icon": "mostericon/Monster_8003030.png",
+        "Figure": "monsterfigure/Monster_8003030.png",
         "Status": [
             30020004,
             280030301,
             280030302,
             280030303
+        ],
+        "AllSkills": [
+            800303101,
+            800303102,
+            800303103,
+            800303104,
+            800303105,
+            800303106,
+            800303107
         ]
     },
     {
@@ -38698,11 +42431,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003040.png",
-        "Figure": "MonsterFigure/Monster_8003040.png",
+        "Icon": "mostericon/Monster_8003040.png",
+        "Figure": "monsterfigure/Monster_8003040.png",
         "Status": [
             30020013,
             280030405
+        ],
+        "AllSkills": [
+            800304002,
+            800304003,
+            800304004,
+            800304005,
+            800304006
         ],
         "Csxylic": "SCFragmentumMonsters/8003040"
     },
@@ -38760,11 +42500,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003040.png",
-        "Figure": "MonsterFigure/Monster_8003040.png",
+        "Icon": "mostericon/Monster_8003040.png",
+        "Figure": "monsterfigure/Monster_8003040.png",
         "Status": [
             30020013,
             280030405
+        ],
+        "AllSkills": [
+            800304002,
+            800304003,
+            800304004,
+            800304005,
+            800304006
         ],
         "Csxylic": "SCFragmentumMonsters/8003040"
     },
@@ -38822,11 +42569,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003040.png",
-        "Figure": "MonsterFigure/Monster_8003040.png",
+        "Icon": "mostericon/Monster_8003040.png",
+        "Figure": "monsterfigure/Monster_8003040.png",
         "Status": [
             30020013,
             280030405
+        ],
+        "AllSkills": [
+            800304002,
+            800304003,
+            800304004,
+            800304005,
+            800304006
         ],
         "Csxylic": "SCFragmentumMonsters/8003040"
     },
@@ -38884,11 +42638,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003040.png",
-        "Figure": "MonsterFigure/Monster_8003040.png",
+        "Icon": "mostericon/Monster_8003040.png",
+        "Figure": "monsterfigure/Monster_8003040.png",
         "Status": [
             30020013,
             280030405
+        ],
+        "AllSkills": [
+            800304002,
+            800304003,
+            800304004,
+            800304005,
+            800304006
         ],
         "Csxylic": "SCFragmentumMonsters/8003040"
     },
@@ -38943,11 +42704,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003040.png",
-        "Figure": "MonsterFigure/Monster_8003040.png",
+        "Icon": "mostericon/Monster_8003040.png",
+        "Figure": "monsterfigure/Monster_8003040.png",
         "Status": [
             30020013,
             280030405
+        ],
+        "AllSkills": [
+            800304002,
+            800304003,
+            800304004,
+            800304005,
+            800304006
         ],
         "Csxylic": "SCFragmentumMonsters/8003040"
     },
@@ -39005,11 +42773,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003040.png",
-        "Figure": "MonsterFigure/Monster_8003040.png",
+        "Icon": "mostericon/Monster_8003040.png",
+        "Figure": "monsterfigure/Monster_8003040.png",
         "Status": [
             30020013,
             280030405
+        ],
+        "AllSkills": [
+            800304002,
+            800304003,
+            800304004,
+            800304005,
+            800304006
         ],
         "Csxylic": "SCFragmentumMonsters/8003040"
     },
@@ -39067,11 +42842,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003040.png",
-        "Figure": "MonsterFigure/Monster_8003040.png",
+        "Icon": "mostericon/Monster_8003040.png",
+        "Figure": "monsterfigure/Monster_8003040.png",
         "Status": [
             30020013,
             280030405
+        ],
+        "AllSkills": [
+            800304002,
+            800304003,
+            800304004,
+            800304005,
+            800304006
         ],
         "Csxylic": "SCFragmentumMonsters/8003040"
     },
@@ -39129,11 +42911,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003040.png",
-        "Figure": "MonsterFigure/Monster_8003040.png",
+        "Icon": "mostericon/Monster_8003040.png",
+        "Figure": "monsterfigure/Monster_8003040.png",
         "Status": [
             30020013,
             280030405
+        ],
+        "AllSkills": [
+            800304002,
+            800304003,
+            800304004,
+            800304005,
+            800304006
         ],
         "Csxylic": "SCFragmentumMonsters/8003040"
     },
@@ -39191,11 +42980,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003040.png",
-        "Figure": "MonsterFigure/Monster_8003040.png",
+        "Icon": "mostericon/Monster_8003040.png",
+        "Figure": "monsterfigure/Monster_8003040.png",
         "Status": [
             30020013,
             280030405
+        ],
+        "AllSkills": [
+            800304002,
+            800304003,
+            800304004,
+            800304005,
+            800304006
         ],
         "Csxylic": "SCFragmentumMonsters/8003040"
     },
@@ -39254,11 +43050,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003040.png",
-        "Figure": "MonsterFigure/Monster_8003040.png",
+        "Icon": "mostericon/Monster_8003040.png",
+        "Figure": "monsterfigure/Monster_8003040.png",
         "Status": [
             30020013,
             280030405
+        ],
+        "AllSkills": [
+            800304002,
+            800304003,
+            800304004,
+            800304005,
+            800304006
         ],
         "Csxylic": "SCFragmentumMonsters/8003040"
     },
@@ -39315,11 +43118,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8003040.png",
-        "Figure": "MonsterFigure/Monster_8003040.png",
+        "Icon": "mostericon/Monster_8003040.png",
+        "Figure": "monsterfigure/Monster_8003040.png",
         "Status": [
             30020013,
             280030405
+        ],
+        "AllSkills": [
+            800304102,
+            800304103,
+            800304104,
+            800304106,
+            800304108
         ]
     },
     {
@@ -39376,11 +43186,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8003040.png",
-        "Figure": "MonsterFigure/Monster_8003040.png",
+        "Icon": "mostericon/Monster_8003040.png",
+        "Figure": "monsterfigure/Monster_8003040.png",
         "Status": [
             30020013,
             280030405
+        ],
+        "AllSkills": [
+            800304202,
+            800304203,
+            800304204,
+            800304205,
+            800304206
         ]
     },
     {
@@ -39433,12 +43250,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003050.png",
-        "Figure": "MonsterFigure/Monster_8003050.png",
+        "Icon": "mostericon/Monster_8003050.png",
+        "Figure": "monsterfigure/Monster_8003050.png",
         "Status": [
             30020003,
             280130201,
             280130202
+        ],
+        "AllSkills": [
+            800305001,
+            800305002,
+            800305003,
+            800305004,
+            800305005
         ],
         "Csxylic": "SCFragmentumMonsters/8003050"
     },
@@ -39495,12 +43319,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003050.png",
-        "Figure": "MonsterFigure/Monster_8003050.png",
+        "Icon": "mostericon/Monster_8003050.png",
+        "Figure": "monsterfigure/Monster_8003050.png",
         "Status": [
             30020003,
             280130201,
             280130202
+        ],
+        "AllSkills": [
+            800305001,
+            800305002,
+            800305003,
+            800305004,
+            800305005
         ],
         "Csxylic": "SCFragmentumMonsters/8003050"
     },
@@ -39557,12 +43388,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003050.png",
-        "Figure": "MonsterFigure/Monster_8003050.png",
+        "Icon": "mostericon/Monster_8003050.png",
+        "Figure": "monsterfigure/Monster_8003050.png",
         "Status": [
             30020003,
             280130201,
             280130202
+        ],
+        "AllSkills": [
+            800305001,
+            800305002,
+            800305003,
+            800305004,
+            800305005
         ],
         "Csxylic": "SCFragmentumMonsters/8003050"
     },
@@ -39619,12 +43457,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003050.png",
-        "Figure": "MonsterFigure/Monster_8003050.png",
+        "Icon": "mostericon/Monster_8003050.png",
+        "Figure": "monsterfigure/Monster_8003050.png",
         "Status": [
             30020003,
             280130201,
             280130202
+        ],
+        "AllSkills": [
+            800305001,
+            800305002,
+            800305003,
+            800305004,
+            800305005
         ],
         "Csxylic": "SCFragmentumMonsters/8003050"
     },
@@ -39680,12 +43525,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003050.png",
-        "Figure": "MonsterFigure/Monster_8003050.png",
+        "Icon": "mostericon/Monster_8003050.png",
+        "Figure": "monsterfigure/Monster_8003050.png",
         "Status": [
             30020003,
             280130201,
             280130202
+        ],
+        "AllSkills": [
+            800305001,
+            800305002,
+            800305003,
+            800305004,
+            800305005
         ],
         "Csxylic": "SCFragmentumMonsters/8003050"
     },
@@ -39741,12 +43593,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003050.png",
-        "Figure": "MonsterFigure/Monster_8003050.png",
+        "Icon": "mostericon/Monster_8003050.png",
+        "Figure": "monsterfigure/Monster_8003050.png",
         "Status": [
             30020003,
             280130201,
             280130202
+        ],
+        "AllSkills": [
+            800305001,
+            800305002,
+            800305003,
+            800305004,
+            800305005
         ],
         "Csxylic": "SCFragmentumMonsters/8003050"
     },
@@ -39803,12 +43662,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003050.png",
-        "Figure": "MonsterFigure/Monster_8003050.png",
+        "Icon": "mostericon/Monster_8003050.png",
+        "Figure": "monsterfigure/Monster_8003050.png",
         "Status": [
             30020003,
             280130201,
             280130202
+        ],
+        "AllSkills": [
+            800305001,
+            800305002,
+            800305003,
+            800305004,
+            800305005
         ],
         "Csxylic": "SCFragmentumMonsters/8003050"
     },
@@ -39862,12 +43728,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003050.png",
-        "Figure": "MonsterFigure/Monster_8003050.png",
+        "Icon": "mostericon/Monster_8003050.png",
+        "Figure": "monsterfigure/Monster_8003050.png",
         "Status": [
             30020003,
             280130201,
             280130202
+        ],
+        "AllSkills": [
+            800305001,
+            800305002,
+            800305003,
+            800305004,
+            800305005
         ],
         "Csxylic": "SCFragmentumMonsters/8003050"
     },
@@ -39924,12 +43797,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003050.png",
-        "Figure": "MonsterFigure/Monster_8003050.png",
+        "Icon": "mostericon/Monster_8003050.png",
+        "Figure": "monsterfigure/Monster_8003050.png",
         "Status": [
             30020003,
             280130201,
             280130202
+        ],
+        "AllSkills": [
+            800305001,
+            800305002,
+            800305003,
+            800305004,
+            800305005
         ],
         "Csxylic": "SCFragmentumMonsters/8003050"
     },
@@ -39987,12 +43867,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 3,
-        "Icon": "MonsterIcon/Monster_8003050.png",
-        "Figure": "MonsterFigure/Monster_8003050.png",
+        "Icon": "mostericon/Monster_8003050.png",
+        "Figure": "monsterfigure/Monster_8003050.png",
         "Status": [
             30020003,
             280130201,
             280130202
+        ],
+        "AllSkills": [
+            800305001,
+            800305002,
+            800305003,
+            800305004,
+            800305005
         ],
         "Csxylic": "SCFragmentumMonsters/8003050"
     },
@@ -40049,12 +43936,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8003050.png",
-        "Figure": "MonsterFigure/Monster_8003050.png",
+        "Icon": "mostericon/Monster_8003050.png",
+        "Figure": "monsterfigure/Monster_8003050.png",
         "Status": [
             30020003,
             280130201,
             280130202
+        ],
+        "AllSkills": [
+            800305102,
+            800305103,
+            800305104,
+            800305105,
+            800305109
         ]
     },
     {
@@ -40111,8 +44005,15 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8003050.png",
-        "Figure": "MonsterFigure/Monster_8003050.png"
+        "Icon": "mostericon/Monster_8003050.png",
+        "Figure": "monsterfigure/Monster_8003050.png",
+        "AllSkills": [
+            800305201,
+            800305202,
+            800305203,
+            800305204,
+            800305205
+        ]
     },
     {
         "_id": 8011010,
@@ -40154,8 +44055,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8011010.png",
-        "Figure": "MonsterFigure/Monster_8011010.png",
+        "Icon": "mostericon/Monster_8011010.png",
+        "Figure": "monsterfigure/Monster_8011010.png",
+        "AllSkills": [
+            801101001
+        ],
         "Csxylic": "SCAntimatterRegion/8011010"
     },
     {
@@ -40198,8 +44102,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8011010.png",
-        "Figure": "MonsterFigure/Monster_8011010.png",
+        "Icon": "mostericon/Monster_8011010.png",
+        "Figure": "monsterfigure/Monster_8011010.png",
+        "AllSkills": [
+            801101001
+        ],
         "Csxylic": "SCAntimatterRegion/8011010"
     },
     {
@@ -40242,8 +44149,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8011010.png",
-        "Figure": "MonsterFigure/Monster_8011010.png",
+        "Icon": "mostericon/Monster_8011010.png",
+        "Figure": "monsterfigure/Monster_8011010.png",
+        "AllSkills": [
+            801101001
+        ],
         "Csxylic": "SCAntimatterRegion/8011010"
     },
     {
@@ -40286,8 +44196,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8011010.png",
-        "Figure": "MonsterFigure/Monster_8011010.png",
+        "Icon": "mostericon/Monster_8011010.png",
+        "Figure": "monsterfigure/Monster_8011010.png",
+        "AllSkills": [
+            801101001
+        ],
         "Csxylic": "SCAntimatterRegion/8011010"
     },
     {
@@ -40330,8 +44243,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8011010.png",
-        "Figure": "MonsterFigure/Monster_8011010.png",
+        "Icon": "mostericon/Monster_8011010.png",
+        "Figure": "monsterfigure/Monster_8011010.png",
+        "AllSkills": [
+            801101001
+        ],
         "Csxylic": "SCAntimatterRegion/8011010"
     },
     {
@@ -40377,8 +44293,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8011010.png",
-        "Figure": "MonsterFigure/Monster_8011010.png",
+        "Icon": "mostericon/Monster_8011010.png",
+        "Figure": "monsterfigure/Monster_8011010.png",
+        "AllSkills": [
+            801101001
+        ],
         "Csxylic": "SCAntimatterRegion/8011010"
     },
     {
@@ -40421,8 +44340,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8011010.png",
-        "Figure": "MonsterFigure/Monster_8011010.png",
+        "Icon": "mostericon/Monster_8011010.png",
+        "Figure": "monsterfigure/Monster_8011010.png",
+        "AllSkills": [
+            801101001
+        ],
         "Csxylic": "SCAntimatterRegion/8011010"
     },
     {
@@ -40465,8 +44387,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8011010.png",
-        "Figure": "MonsterFigure/Monster_8011010.png",
+        "Icon": "mostericon/Monster_8011010.png",
+        "Figure": "monsterfigure/Monster_8011010.png",
+        "AllSkills": [
+            801101001
+        ],
         "Csxylic": "SCAntimatterRegion/8011010"
     },
     {
@@ -40509,8 +44434,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8011010.png",
-        "Figure": "MonsterFigure/Monster_8011010.png",
+        "Icon": "mostericon/Monster_8011010.png",
+        "Figure": "monsterfigure/Monster_8011010.png",
+        "AllSkills": [
+            801101001
+        ],
         "Csxylic": "SCAntimatterRegion/8011010"
     },
     {
@@ -40553,8 +44481,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8011020.png",
-        "Figure": "MonsterFigure/Monster_8011020.png",
+        "Icon": "mostericon/Monster_8011020.png",
+        "Figure": "monsterfigure/Monster_8011020.png",
+        "AllSkills": [
+            801102001
+        ],
         "Csxylic": "SCAntimatterRegion/8011020"
     },
     {
@@ -40597,8 +44528,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8011020.png",
-        "Figure": "MonsterFigure/Monster_8011020.png",
+        "Icon": "mostericon/Monster_8011020.png",
+        "Figure": "monsterfigure/Monster_8011020.png",
+        "AllSkills": [
+            801102001
+        ],
         "Csxylic": "SCAntimatterRegion/8011020"
     },
     {
@@ -40644,8 +44578,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8011020.png",
-        "Figure": "MonsterFigure/Monster_8011020.png",
+        "Icon": "mostericon/Monster_8011020.png",
+        "Figure": "monsterfigure/Monster_8011020.png",
+        "AllSkills": [
+            801102001
+        ],
         "Csxylic": "SCAntimatterRegion/8011020"
     },
     {
@@ -40688,8 +44625,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8011020.png",
-        "Figure": "MonsterFigure/Monster_8011020.png",
+        "Icon": "mostericon/Monster_8011020.png",
+        "Figure": "monsterfigure/Monster_8011020.png",
+        "AllSkills": [
+            801102001
+        ],
         "Csxylic": "SCAntimatterRegion/8011020"
     },
     {
@@ -40732,8 +44672,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8011020.png",
-        "Figure": "MonsterFigure/Monster_8011020.png",
+        "Icon": "mostericon/Monster_8011020.png",
+        "Figure": "monsterfigure/Monster_8011020.png",
+        "AllSkills": [
+            801102001
+        ],
         "Csxylic": "SCAntimatterRegion/8011020"
     },
     {
@@ -40779,8 +44722,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8011020.png",
-        "Figure": "MonsterFigure/Monster_8011020.png",
+        "Icon": "mostericon/Monster_8011020.png",
+        "Figure": "monsterfigure/Monster_8011020.png",
+        "AllSkills": [
+            801102001
+        ],
         "Csxylic": "SCAntimatterRegion/8011020"
     },
     {
@@ -40823,8 +44769,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8011020.png",
-        "Figure": "MonsterFigure/Monster_8011020.png",
+        "Icon": "mostericon/Monster_8011020.png",
+        "Figure": "monsterfigure/Monster_8011020.png",
+        "AllSkills": [
+            801102001
+        ],
         "Csxylic": "SCAntimatterRegion/8011020"
     },
     {
@@ -40867,8 +44816,11 @@ var _monster = [
         ],
         "Rank": "Minion",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8011020.png",
-        "Figure": "MonsterFigure/Monster_8011020.png",
+        "Icon": "mostericon/Monster_8011020.png",
+        "Figure": "monsterfigure/Monster_8011020.png",
+        "AllSkills": [
+            801102001
+        ],
         "Csxylic": "SCAntimatterRegion/8011020"
     },
     {
@@ -40918,10 +44870,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png",
-        "Figure": "MonsterFigure/Monster_8012010.png",
+        "Icon": "mostericon/Monster_8012010.png",
+        "Figure": "monsterfigure/Monster_8012010.png",
         "Status": [
             280120101
+        ],
+        "AllSkills": [
+            801201001,
+            801201002
         ],
         "Csxylic": "SCAntimatterRegion/8012010"
     },
@@ -40972,10 +44928,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png",
-        "Figure": "MonsterFigure/Monster_8012010.png",
+        "Icon": "mostericon/Monster_8012010.png",
+        "Figure": "monsterfigure/Monster_8012010.png",
         "Status": [
             280120101
+        ],
+        "AllSkills": [
+            801201001,
+            801201002
         ],
         "Csxylic": "SCAntimatterRegion/8012010"
     },
@@ -41026,10 +44986,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png",
-        "Figure": "MonsterFigure/Monster_8012010.png",
+        "Icon": "mostericon/Monster_8012010.png",
+        "Figure": "monsterfigure/Monster_8012010.png",
         "Status": [
             280120101
+        ],
+        "AllSkills": [
+            801201001,
+            801201002
         ],
         "Csxylic": "SCAntimatterRegion/8012010"
     },
@@ -41080,10 +45044,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png",
-        "Figure": "MonsterFigure/Monster_8012010.png",
+        "Icon": "mostericon/Monster_8012010.png",
+        "Figure": "monsterfigure/Monster_8012010.png",
         "Status": [
             280120101
+        ],
+        "AllSkills": [
+            801201001,
+            801201002
         ],
         "Csxylic": "SCAntimatterRegion/8012010"
     },
@@ -41134,10 +45102,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png",
-        "Figure": "MonsterFigure/Monster_8012010.png",
+        "Icon": "mostericon/Monster_8012010.png",
+        "Figure": "monsterfigure/Monster_8012010.png",
         "Status": [
             280120101
+        ],
+        "AllSkills": [
+            801201001,
+            801201002
         ],
         "Csxylic": "SCAntimatterRegion/8012010"
     },
@@ -41192,10 +45164,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png",
-        "Figure": "MonsterFigure/Monster_8012010.png",
+        "Icon": "mostericon/Monster_8012010.png",
+        "Figure": "monsterfigure/Monster_8012010.png",
         "Status": [
             280120101
+        ],
+        "AllSkills": [
+            801201001,
+            801201002
         ],
         "Csxylic": "SCAntimatterRegion/8012010"
     },
@@ -41246,10 +45222,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png",
-        "Figure": "MonsterFigure/Monster_8012010.png",
+        "Icon": "mostericon/Monster_8012010.png",
+        "Figure": "monsterfigure/Monster_8012010.png",
         "Status": [
             280120101
+        ],
+        "AllSkills": [
+            801201001,
+            801201002
         ],
         "Csxylic": "SCAntimatterRegion/8012010"
     },
@@ -41303,10 +45283,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png",
-        "Figure": "MonsterFigure/Monster_8012010.png",
+        "Icon": "mostericon/Monster_8012010.png",
+        "Figure": "monsterfigure/Monster_8012010.png",
         "Status": [
             280120101
+        ],
+        "AllSkills": [
+            801201001,
+            801201002
         ],
         "Csxylic": "SCAntimatterRegion/8012010"
     },
@@ -41357,10 +45341,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png",
-        "Figure": "MonsterFigure/Monster_8012010.png",
+        "Icon": "mostericon/Monster_8012010.png",
+        "Figure": "monsterfigure/Monster_8012010.png",
         "Status": [
             280120101
+        ],
+        "AllSkills": [
+            801201001,
+            801201002
         ],
         "Csxylic": "SCAntimatterRegion/8012010"
     },
@@ -41411,10 +45399,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png",
-        "Figure": "MonsterFigure/Monster_8012010.png",
+        "Icon": "mostericon/Monster_8012010.png",
+        "Figure": "monsterfigure/Monster_8012010.png",
         "Status": [
             280120101
+        ],
+        "AllSkills": [
+            801201001,
+            801201002
         ],
         "Csxylic": "SCAntimatterRegion/8012010"
     },
@@ -41468,10 +45460,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png",
-        "Figure": "MonsterFigure/Monster_8012010.png",
+        "Icon": "mostericon/Monster_8012010.png",
+        "Figure": "monsterfigure/Monster_8012010.png",
         "Status": [
             280120101
+        ],
+        "AllSkills": [
+            801201001,
+            801201002
         ],
         "Csxylic": "SCAntimatterRegion/8012010"
     },
@@ -41522,10 +45518,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png",
-        "Figure": "MonsterFigure/Monster_8012010.png",
+        "Icon": "mostericon/Monster_8012010.png",
+        "Figure": "monsterfigure/Monster_8012010.png",
         "Status": [
             280120101
+        ],
+        "AllSkills": [
+            801201001,
+            801201002
         ],
         "Csxylic": "SCAntimatterRegion/8012010"
     },
@@ -41576,10 +45576,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png",
-        "Figure": "MonsterFigure/Monster_8012010.png",
+        "Icon": "mostericon/Monster_8012010.png",
+        "Figure": "monsterfigure/Monster_8012010.png",
         "Status": [
             280120101
+        ],
+        "AllSkills": [
+            801201001,
+            801201002
         ],
         "Csxylic": "SCAntimatterRegion/8012010"
     },
@@ -41630,10 +45634,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png",
-        "Figure": "MonsterFigure/Monster_8012010.png",
+        "Icon": "mostericon/Monster_8012010.png",
+        "Figure": "monsterfigure/Monster_8012010.png",
         "Status": [
             280120101
+        ],
+        "AllSkills": [
+            801201001,
+            801201002
         ],
         "Csxylic": "SCAntimatterRegion/8012010"
     },
@@ -41687,10 +45695,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png",
-        "Figure": "MonsterFigure/Monster_8012010.png",
+        "Icon": "mostericon/Monster_8012010.png",
+        "Figure": "monsterfigure/Monster_8012010.png",
         "Status": [
             280120101
+        ],
+        "AllSkills": [
+            801201001,
+            801201002
         ],
         "Csxylic": "SCAntimatterRegion/8012010"
     },
@@ -41744,10 +45756,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png",
-        "Figure": "MonsterFigure/Monster_8012010.png",
+        "Icon": "mostericon/Monster_8012010.png",
+        "Figure": "monsterfigure/Monster_8012010.png",
         "Status": [
             280120101
+        ],
+        "AllSkills": [
+            801201001,
+            801201002
         ],
         "Csxylic": "SCAntimatterRegion/8012010"
     },
@@ -41801,10 +45817,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png",
-        "Figure": "MonsterFigure/Monster_8012010.png",
+        "Icon": "mostericon/Monster_8012010.png",
+        "Figure": "monsterfigure/Monster_8012010.png",
         "Status": [
             280120101
+        ],
+        "AllSkills": [
+            801201001,
+            801201002
         ],
         "Csxylic": "SCAntimatterRegion/8012010"
     },
@@ -41858,10 +45878,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png",
-        "Figure": "MonsterFigure/Monster_8012010.png",
+        "Icon": "mostericon/Monster_8012010.png",
+        "Figure": "monsterfigure/Monster_8012010.png",
         "Status": [
             280120101
+        ],
+        "AllSkills": [
+            801201001,
+            801201002
         ],
         "Csxylic": "SCAntimatterRegion/8012010"
     },
@@ -41912,10 +45936,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png",
-        "Figure": "MonsterFigure/Monster_8012010.png",
+        "Icon": "mostericon/Monster_8012010.png",
+        "Figure": "monsterfigure/Monster_8012010.png",
         "Status": [
             280120101
+        ],
+        "AllSkills": [
+            801201001,
+            801201002
         ],
         "Csxylic": "SCAntimatterRegion/8012010"
     },
@@ -41966,10 +45994,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png",
-        "Figure": "MonsterFigure/Monster_8012010.png",
+        "Icon": "mostericon/Monster_8012010.png",
+        "Figure": "monsterfigure/Monster_8012010.png",
         "Status": [
             280120101
+        ],
+        "AllSkills": [
+            801201001,
+            801201002
         ],
         "Csxylic": "SCAntimatterRegion/8012010"
     },
@@ -42020,10 +46052,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png",
-        "Figure": "MonsterFigure/Monster_8012010.png",
+        "Icon": "mostericon/Monster_8012010.png",
+        "Figure": "monsterfigure/Monster_8012010.png",
         "Status": [
             280120101
+        ],
+        "AllSkills": [
+            801201001,
+            801201002
         ],
         "Csxylic": "SCAntimatterRegion/8012010"
     },
@@ -42074,10 +46110,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png",
-        "Figure": "MonsterFigure/Monster_8012010.png",
+        "Icon": "mostericon/Monster_8012010.png",
+        "Figure": "monsterfigure/Monster_8012010.png",
         "Status": [
             280120101
+        ],
+        "AllSkills": [
+            801201001,
+            801201002
         ],
         "Csxylic": "SCAntimatterRegion/8012010"
     },
@@ -42128,10 +46168,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png",
-        "Figure": "MonsterFigure/Monster_8012010.png",
+        "Icon": "mostericon/Monster_8012010.png",
+        "Figure": "monsterfigure/Monster_8012010.png",
         "Status": [
             280120101
+        ],
+        "AllSkills": [
+            801201001,
+            801201002
         ],
         "Csxylic": "SCAntimatterRegion/8012010"
     },
@@ -42182,10 +46226,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png",
-        "Figure": "MonsterFigure/Monster_8012010.png",
+        "Icon": "mostericon/Monster_8012010.png",
+        "Figure": "monsterfigure/Monster_8012010.png",
         "Status": [
             280120101
+        ],
+        "AllSkills": [
+            801201001,
+            801201002
         ],
         "Csxylic": "SCAntimatterRegion/8012010"
     },
@@ -42236,10 +46284,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png",
-        "Figure": "MonsterFigure/Monster_8012010.png",
+        "Icon": "mostericon/Monster_8012010.png",
+        "Figure": "monsterfigure/Monster_8012010.png",
         "Status": [
             280120101
+        ],
+        "AllSkills": [
+            801201001,
+            801201002
         ],
         "Csxylic": "SCAntimatterRegion/8012010"
     },
@@ -42290,10 +46342,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012010.png",
-        "Figure": "MonsterFigure/Monster_8012010.png",
+        "Icon": "mostericon/Monster_8012010.png",
+        "Figure": "monsterfigure/Monster_8012010.png",
         "Status": [
             280120101
+        ],
+        "AllSkills": [
+            801201001,
+            801201002
         ],
         "Csxylic": "SCAntimatterRegion/8012010"
     },
@@ -42338,10 +46394,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012020.png",
-        "Figure": "MonsterFigure/Monster_8012020.png",
+        "Icon": "mostericon/Monster_8012020.png",
+        "Figure": "monsterfigure/Monster_8012020.png",
         "Status": [
             280120201
+        ],
+        "AllSkills": [
+            801202001,
+            801202002
         ],
         "Csxylic": "SCAntimatterRegion/8012020"
     },
@@ -42386,10 +46446,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012020.png",
-        "Figure": "MonsterFigure/Monster_8012020.png",
+        "Icon": "mostericon/Monster_8012020.png",
+        "Figure": "monsterfigure/Monster_8012020.png",
         "Status": [
             280120201
+        ],
+        "AllSkills": [
+            801202001,
+            801202002
         ],
         "Csxylic": "SCAntimatterRegion/8012020"
     },
@@ -42434,10 +46498,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012020.png",
-        "Figure": "MonsterFigure/Monster_8012020.png",
+        "Icon": "mostericon/Monster_8012020.png",
+        "Figure": "monsterfigure/Monster_8012020.png",
         "Status": [
             280120201
+        ],
+        "AllSkills": [
+            801202001,
+            801202002
         ],
         "Csxylic": "SCAntimatterRegion/8012020"
     },
@@ -42482,10 +46550,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012020.png",
-        "Figure": "MonsterFigure/Monster_8012020.png",
+        "Icon": "mostericon/Monster_8012020.png",
+        "Figure": "monsterfigure/Monster_8012020.png",
         "Status": [
             280120201
+        ],
+        "AllSkills": [
+            801202001,
+            801202002
         ],
         "Csxylic": "SCAntimatterRegion/8012020"
     },
@@ -42530,10 +46602,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012020.png",
-        "Figure": "MonsterFigure/Monster_8012020.png",
+        "Icon": "mostericon/Monster_8012020.png",
+        "Figure": "monsterfigure/Monster_8012020.png",
         "Status": [
             280120201
+        ],
+        "AllSkills": [
+            801202001,
+            801202002
         ],
         "Csxylic": "SCAntimatterRegion/8012020"
     },
@@ -42578,10 +46654,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012020.png",
-        "Figure": "MonsterFigure/Monster_8012020.png",
+        "Icon": "mostericon/Monster_8012020.png",
+        "Figure": "monsterfigure/Monster_8012020.png",
         "Status": [
             280120201
+        ],
+        "AllSkills": [
+            801202001,
+            801202002
         ],
         "Csxylic": "SCAntimatterRegion/8012020"
     },
@@ -42626,10 +46706,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012020.png",
-        "Figure": "MonsterFigure/Monster_8012020.png",
+        "Icon": "mostericon/Monster_8012020.png",
+        "Figure": "monsterfigure/Monster_8012020.png",
         "Status": [
             280120201
+        ],
+        "AllSkills": [
+            801202001,
+            801202002
         ],
         "Csxylic": "SCAntimatterRegion/8012020"
     },
@@ -42677,10 +46761,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012020.png",
-        "Figure": "MonsterFigure/Monster_8012020.png",
+        "Icon": "mostericon/Monster_8012020.png",
+        "Figure": "monsterfigure/Monster_8012020.png",
         "Status": [
             280120201
+        ],
+        "AllSkills": [
+            801202001,
+            801202002
         ],
         "Csxylic": "SCAntimatterRegion/8012020"
     },
@@ -42728,10 +46816,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012020.png",
-        "Figure": "MonsterFigure/Monster_8012020.png",
+        "Icon": "mostericon/Monster_8012020.png",
+        "Figure": "monsterfigure/Monster_8012020.png",
         "Status": [
             280120201
+        ],
+        "AllSkills": [
+            801202001,
+            801202002
         ],
         "Csxylic": "SCAntimatterRegion/8012020"
     },
@@ -42776,10 +46868,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012020.png",
-        "Figure": "MonsterFigure/Monster_8012020.png",
+        "Icon": "mostericon/Monster_8012020.png",
+        "Figure": "monsterfigure/Monster_8012020.png",
         "Status": [
             280120201
+        ],
+        "AllSkills": [
+            801202001,
+            801202002
         ],
         "Csxylic": "SCAntimatterRegion/8012020"
     },
@@ -42827,10 +46923,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012020.png",
-        "Figure": "MonsterFigure/Monster_8012020.png",
+        "Icon": "mostericon/Monster_8012020.png",
+        "Figure": "monsterfigure/Monster_8012020.png",
         "Status": [
             280120201
+        ],
+        "AllSkills": [
+            801202001,
+            801202002
         ],
         "Csxylic": "SCAntimatterRegion/8012020"
     },
@@ -42875,10 +46975,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012020.png",
-        "Figure": "MonsterFigure/Monster_8012020.png",
+        "Icon": "mostericon/Monster_8012020.png",
+        "Figure": "monsterfigure/Monster_8012020.png",
         "Status": [
             280120201
+        ],
+        "AllSkills": [
+            801202001,
+            801202002
         ],
         "Csxylic": "SCAntimatterRegion/8012020"
     },
@@ -42923,10 +47027,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012020.png",
-        "Figure": "MonsterFigure/Monster_8012020.png",
+        "Icon": "mostericon/Monster_8012020.png",
+        "Figure": "monsterfigure/Monster_8012020.png",
         "Status": [
             280120201
+        ],
+        "AllSkills": [
+            801202001,
+            801202002
         ],
         "Csxylic": "SCAntimatterRegion/8012020"
     },
@@ -42971,10 +47079,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012020.png",
-        "Figure": "MonsterFigure/Monster_8012020.png",
+        "Icon": "mostericon/Monster_8012020.png",
+        "Figure": "monsterfigure/Monster_8012020.png",
         "Status": [
             280120201
+        ],
+        "AllSkills": [
+            801202001,
+            801202002
         ],
         "Csxylic": "SCAntimatterRegion/8012020"
     },
@@ -43019,10 +47131,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012020.png",
-        "Figure": "MonsterFigure/Monster_8012020.png",
+        "Icon": "mostericon/Monster_8012020.png",
+        "Figure": "monsterfigure/Monster_8012020.png",
         "Status": [
             280120201
+        ],
+        "AllSkills": [
+            801202101,
+            801202102
         ]
     },
     {
@@ -43069,10 +47185,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012020.png",
-        "Figure": "MonsterFigure/Monster_8012020.png",
+        "Icon": "mostericon/Monster_8012020.png",
+        "Figure": "monsterfigure/Monster_8012020.png",
         "Status": [
             280120201
+        ],
+        "AllSkills": [
+            801202101,
+            801202102
         ]
     },
     {
@@ -43119,10 +47239,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012020.png",
-        "Figure": "MonsterFigure/Monster_8012020.png",
+        "Icon": "mostericon/Monster_8012020.png",
+        "Figure": "monsterfigure/Monster_8012020.png",
         "Status": [
             280120201
+        ],
+        "AllSkills": [
+            801202101,
+            801202102
         ]
     },
     {
@@ -43166,11 +47290,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012030.png",
-        "Figure": "MonsterFigure/Monster_8012030.png",
+        "Icon": "mostericon/Monster_8012030.png",
+        "Figure": "monsterfigure/Monster_8012030.png",
         "Status": [
             280120301,
             280120302
+        ],
+        "AllSkills": [
+            801203001,
+            801203002
         ],
         "Csxylic": "SCAntimatterRegion/8012030"
     },
@@ -43215,11 +47343,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012030.png",
-        "Figure": "MonsterFigure/Monster_8012030.png",
+        "Icon": "mostericon/Monster_8012030.png",
+        "Figure": "monsterfigure/Monster_8012030.png",
         "Status": [
             280120301,
             280120302
+        ],
+        "AllSkills": [
+            801203001,
+            801203002
         ],
         "Csxylic": "SCAntimatterRegion/8012030"
     },
@@ -43264,11 +47396,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012030.png",
-        "Figure": "MonsterFigure/Monster_8012030.png",
+        "Icon": "mostericon/Monster_8012030.png",
+        "Figure": "monsterfigure/Monster_8012030.png",
         "Status": [
             280120301,
             280120302
+        ],
+        "AllSkills": [
+            801203001,
+            801203002
         ],
         "Csxylic": "SCAntimatterRegion/8012030"
     },
@@ -43316,11 +47452,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012030.png",
-        "Figure": "MonsterFigure/Monster_8012030.png",
+        "Icon": "mostericon/Monster_8012030.png",
+        "Figure": "monsterfigure/Monster_8012030.png",
         "Status": [
             280120301,
             280120302
+        ],
+        "AllSkills": [
+            801203001,
+            801203002
         ],
         "Csxylic": "SCAntimatterRegion/8012030"
     },
@@ -43365,11 +47505,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012030.png",
-        "Figure": "MonsterFigure/Monster_8012030.png",
+        "Icon": "mostericon/Monster_8012030.png",
+        "Figure": "monsterfigure/Monster_8012030.png",
         "Status": [
             280120301,
             280120302
+        ],
+        "AllSkills": [
+            801203001,
+            801203002
         ],
         "Csxylic": "SCAntimatterRegion/8012030"
     },
@@ -43414,11 +47558,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012030.png",
-        "Figure": "MonsterFigure/Monster_8012030.png",
+        "Icon": "mostericon/Monster_8012030.png",
+        "Figure": "monsterfigure/Monster_8012030.png",
         "Status": [
             280120301,
             280120302
+        ],
+        "AllSkills": [
+            801203001,
+            801203002
         ],
         "Csxylic": "SCAntimatterRegion/8012030"
     },
@@ -43466,11 +47614,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012030.png",
-        "Figure": "MonsterFigure/Monster_8012030.png",
+        "Icon": "mostericon/Monster_8012030.png",
+        "Figure": "monsterfigure/Monster_8012030.png",
         "Status": [
             280120301,
             280120302
+        ],
+        "AllSkills": [
+            801203001,
+            801203002
         ],
         "Csxylic": "SCAntimatterRegion/8012030"
     },
@@ -43515,11 +47667,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8012030.png",
-        "Figure": "MonsterFigure/Monster_8012030.png",
+        "Icon": "mostericon/Monster_8012030.png",
+        "Figure": "monsterfigure/Monster_8012030.png",
         "Status": [
             280120301,
             280120302
+        ],
+        "AllSkills": [
+            801203001,
+            801203002
         ],
         "Csxylic": "SCAntimatterRegion/8012030"
     },
@@ -43575,9 +47731,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012140.png",
+        "Icon": "mostericon/Monster_8012140.png",
         "Status": [
             30020013
+        ],
+        "AllSkills": [
+            801214001,
+            801214002,
+            801214003
         ],
         "Csxylic": "SCAntimatterRegion/8012140"
     },
@@ -43632,9 +47793,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012142.png",
+        "Icon": "mostericon/Monster_8012142.png",
         "Status": [
             30020027
+        ],
+        "AllSkills": [
+            801214201,
+            801214202,
+            801214203
         ],
         "Csxylic": "SCAntimatterRegion/8012142"
     },
@@ -43685,7 +47851,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012140.png"
+        "Icon": "mostericon/Monster_8012140.png",
+        "AllSkills": [
+            801214301,
+            801214302,
+            801214303
+        ]
     },
     {
         "_id": 8012145,
@@ -43734,7 +47905,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012142.png"
+        "Icon": "mostericon/Monster_8012142.png",
+        "AllSkills": [
+            801214501,
+            801214502,
+            801214503
+        ]
     },
     {
         "_id": 8012200,
@@ -43778,10 +47954,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012200.png",
-        "Figure": "MonsterFigure/Monster_8012200.png",
+        "Icon": "mostericon/Monster_8012200.png",
+        "Figure": "monsterfigure/Monster_8012200.png",
         "Status": [
             280150203
+        ],
+        "AllSkills": [
+            801220001,
+            801220002,
+            801220003
         ]
     },
     {
@@ -43826,10 +48007,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012201.png",
-        "Figure": "MonsterFigure/Monster_8012201.png",
+        "Icon": "mostericon/Monster_8012201.png",
+        "Figure": "monsterfigure/Monster_8012201.png",
         "Status": [
             280150203
+        ],
+        "AllSkills": [
+            801220101,
+            801220102,
+            801220103
         ]
     },
     {
@@ -43874,10 +48060,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012200.png",
-        "Figure": "MonsterFigure/Monster_8012200.png",
+        "Icon": "mostericon/Monster_8012200.png",
+        "Figure": "monsterfigure/Monster_8012200.png",
         "Status": [
             280150203
+        ],
+        "AllSkills": [
+            801220201,
+            801220202,
+            801220203
         ],
         "Csxylic": "SCNonCategorized/8012202"
     },
@@ -43923,10 +48114,15 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012201.png",
-        "Figure": "MonsterFigure/Monster_8012201.png",
+        "Icon": "mostericon/Monster_8012201.png",
+        "Figure": "monsterfigure/Monster_8012201.png",
         "Status": [
             280150203
+        ],
+        "AllSkills": [
+            801220301,
+            801220302,
+            801220303
         ],
         "Csxylic": "SCNonCategorized/8012203"
     },
@@ -43982,14 +48178,20 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012210.png",
-        "Figure": "MonsterFigure/Monster_8012210.png",
+        "Icon": "mostericon/Monster_8012210.png",
+        "Figure": "monsterfigure/Monster_8012210.png",
         "Status": [
             30020030,
             280150204,
             280150205,
             280150206,
             280150208
+        ],
+        "AllSkills": [
+            801221001,
+            801221003,
+            801221004,
+            801221005
         ]
     },
     {
@@ -44044,14 +48246,20 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012211.png",
-        "Figure": "MonsterFigure/Monster_8012211.png",
+        "Icon": "mostericon/Monster_8012211.png",
+        "Figure": "monsterfigure/Monster_8012211.png",
         "Status": [
             30020030,
             280150204,
             280150205,
             280150206,
             280150208
+        ],
+        "AllSkills": [
+            801221101,
+            801221103,
+            801221104,
+            801221105
         ]
     },
     {
@@ -44106,14 +48314,20 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012210.png",
-        "Figure": "MonsterFigure/Monster_8012210.png",
+        "Icon": "mostericon/Monster_8012210.png",
+        "Figure": "monsterfigure/Monster_8012210.png",
         "Status": [
             30020030,
             280150204,
             280150205,
             280150206,
             280150208
+        ],
+        "AllSkills": [
+            801221201,
+            801221203,
+            801221204,
+            801221205
         ],
         "Csxylic": "SCNonCategorized/8012212"
     },
@@ -44169,14 +48383,20 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012211.png",
-        "Figure": "MonsterFigure/Monster_8012211.png",
+        "Icon": "mostericon/Monster_8012211.png",
+        "Figure": "monsterfigure/Monster_8012211.png",
         "Status": [
             30020030,
             280150204,
             280150205,
             280150206,
             280150208
+        ],
+        "AllSkills": [
+            801221301,
+            801221303,
+            801221304,
+            801221305
         ],
         "Csxylic": "SCNonCategorized/8012213"
     },
@@ -44224,11 +48444,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8013010.png",
-        "Figure": "MonsterFigure/Monster_8013010.png",
+        "Icon": "mostericon/Monster_8013010.png",
+        "Figure": "monsterfigure/Monster_8013010.png",
         "Status": [
             30020027,
             280130101
+        ],
+        "AllSkills": [
+            801301001,
+            801301002,
+            801301003,
+            801301004,
+            801301005
         ],
         "Csxylic": "SCAntimatterRegion/8013010"
     },
@@ -44276,11 +48503,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8013010.png",
-        "Figure": "MonsterFigure/Monster_8013010.png",
+        "Icon": "mostericon/Monster_8013010.png",
+        "Figure": "monsterfigure/Monster_8013010.png",
         "Status": [
             30020027,
             280130101
+        ],
+        "AllSkills": [
+            801301001,
+            801301002,
+            801301003,
+            801301004,
+            801301005
         ],
         "Csxylic": "SCAntimatterRegion/8013010"
     },
@@ -44328,11 +48562,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8013010.png",
-        "Figure": "MonsterFigure/Monster_8013010.png",
+        "Icon": "mostericon/Monster_8013010.png",
+        "Figure": "monsterfigure/Monster_8013010.png",
         "Status": [
             30020027,
             280130101
+        ],
+        "AllSkills": [
+            801301001,
+            801301002,
+            801301003,
+            801301004,
+            801301005
         ],
         "Csxylic": "SCAntimatterRegion/8013010"
     },
@@ -44380,11 +48621,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8013010.png",
-        "Figure": "MonsterFigure/Monster_8013010.png",
+        "Icon": "mostericon/Monster_8013010.png",
+        "Figure": "monsterfigure/Monster_8013010.png",
         "Status": [
             30020027,
             280130101
+        ],
+        "AllSkills": [
+            801301001,
+            801301002,
+            801301003,
+            801301004,
+            801301005
         ],
         "Csxylic": "SCAntimatterRegion/8013010"
     },
@@ -44432,11 +48680,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8013010.png",
-        "Figure": "MonsterFigure/Monster_8013010.png",
+        "Icon": "mostericon/Monster_8013010.png",
+        "Figure": "monsterfigure/Monster_8013010.png",
         "Status": [
             30020027,
             280130101
+        ],
+        "AllSkills": [
+            801301001,
+            801301002,
+            801301003,
+            801301004,
+            801301005
         ],
         "Csxylic": "SCAntimatterRegion/8013010"
     },
@@ -44484,11 +48739,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8013010.png",
-        "Figure": "MonsterFigure/Monster_8013010.png",
+        "Icon": "mostericon/Monster_8013010.png",
+        "Figure": "monsterfigure/Monster_8013010.png",
         "Status": [
             30020027,
             280130101
+        ],
+        "AllSkills": [
+            801301001,
+            801301002,
+            801301003,
+            801301004,
+            801301005
         ],
         "Csxylic": "SCAntimatterRegion/8013010"
     },
@@ -44536,11 +48798,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8013010.png",
-        "Figure": "MonsterFigure/Monster_8013010.png",
+        "Icon": "mostericon/Monster_8013010.png",
+        "Figure": "monsterfigure/Monster_8013010.png",
         "Status": [
             30020027,
             280130101
+        ],
+        "AllSkills": [
+            801301001,
+            801301002,
+            801301003,
+            801301004,
+            801301005
         ],
         "Csxylic": "SCAntimatterRegion/8013010"
     },
@@ -44588,11 +48857,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8013010.png",
-        "Figure": "MonsterFigure/Monster_8013010.png",
+        "Icon": "mostericon/Monster_8013010.png",
+        "Figure": "monsterfigure/Monster_8013010.png",
         "Status": [
             30020027,
             280130101
+        ],
+        "AllSkills": [
+            801301001,
+            801301002,
+            801301003,
+            801301004,
+            801301005
         ],
         "Csxylic": "SCAntimatterRegion/8013010"
     },
@@ -44640,11 +48916,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8013010.png",
-        "Figure": "MonsterFigure/Monster_8013010.png",
+        "Icon": "mostericon/Monster_8013010.png",
+        "Figure": "monsterfigure/Monster_8013010.png",
         "Status": [
             30020027,
             280130101
+        ],
+        "AllSkills": [
+            801301001,
+            801301002,
+            801301003,
+            801301004,
+            801301005
         ],
         "Csxylic": "SCAntimatterRegion/8013010"
     },
@@ -44692,11 +48975,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8013010.png",
-        "Figure": "MonsterFigure/Monster_8013010.png",
+        "Icon": "mostericon/Monster_8013010.png",
+        "Figure": "monsterfigure/Monster_8013010.png",
         "Status": [
             30020027,
             280130101
+        ],
+        "AllSkills": [
+            801301001,
+            801301002,
+            801301003,
+            801301004,
+            801301005
         ],
         "Csxylic": "SCAntimatterRegion/8013010"
     },
@@ -44744,11 +49034,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8013010.png",
-        "Figure": "MonsterFigure/Monster_8013010.png",
+        "Icon": "mostericon/Monster_8013010.png",
+        "Figure": "monsterfigure/Monster_8013010.png",
         "Status": [
             30020027,
             280130101
+        ],
+        "AllSkills": [
+            801301001,
+            801301002,
+            801301003,
+            801301004,
+            801301005
         ],
         "Csxylic": "SCAntimatterRegion/8013010"
     },
@@ -44800,11 +49097,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8013010.png",
-        "Figure": "MonsterFigure/Monster_8013010.png",
+        "Icon": "mostericon/Monster_8013010.png",
+        "Figure": "monsterfigure/Monster_8013010.png",
         "Status": [
             30020027,
             280130101
+        ],
+        "AllSkills": [
+            801301001,
+            801301002,
+            801301003,
+            801301004,
+            801301005
         ],
         "Csxylic": "SCAntimatterRegion/8013010"
     },
@@ -44855,11 +49159,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8013010.png",
-        "Figure": "MonsterFigure/Monster_8013010.png",
+        "Icon": "mostericon/Monster_8013010.png",
+        "Figure": "monsterfigure/Monster_8013010.png",
         "Status": [
             30020027,
             280130101
+        ],
+        "AllSkills": [
+            801301001,
+            801301002,
+            801301003,
+            801301004,
+            801301005
         ],
         "Csxylic": "SCAntimatterRegion/8013010"
     },
@@ -44911,11 +49222,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8013010.png",
-        "Figure": "MonsterFigure/Monster_8013010.png",
+        "Icon": "mostericon/Monster_8013010.png",
+        "Figure": "monsterfigure/Monster_8013010.png",
         "Status": [
             30020027,
             280130101
+        ],
+        "AllSkills": [
+            801301001,
+            801301002,
+            801301003,
+            801301004,
+            801301005
         ],
         "Csxylic": "SCAntimatterRegion/8013010"
     },
@@ -44967,11 +49285,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8013010.png",
-        "Figure": "MonsterFigure/Monster_8013010.png",
+        "Icon": "mostericon/Monster_8013010.png",
+        "Figure": "monsterfigure/Monster_8013010.png",
         "Status": [
             30020027,
             280130101
+        ],
+        "AllSkills": [
+            801301001,
+            801301002,
+            801301003,
+            801301004,
+            801301005
         ],
         "Csxylic": "SCAntimatterRegion/8013010"
     },
@@ -45022,11 +49347,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8013010.png",
-        "Figure": "MonsterFigure/Monster_8013010.png",
+        "Icon": "mostericon/Monster_8013010.png",
+        "Figure": "monsterfigure/Monster_8013010.png",
         "Status": [
             30020027,
             280130101
+        ],
+        "AllSkills": [
+            801301001,
+            801301002,
+            801301003,
+            801301004,
+            801301005
         ],
         "Csxylic": "SCAntimatterRegion/8013010"
     },
@@ -45074,11 +49406,18 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8013010.png",
-        "Figure": "MonsterFigure/Monster_8013010.png",
+        "Icon": "mostericon/Monster_8013010.png",
+        "Figure": "monsterfigure/Monster_8013010.png",
         "Status": [
             30020027,
             280130101
+        ],
+        "AllSkills": [
+            801301101,
+            801301102,
+            801301103,
+            801301104,
+            801301105
         ]
     },
     {
@@ -45125,10 +49464,17 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8013010.png",
-        "Figure": "MonsterFigure/Monster_8013010.png",
+        "Icon": "mostericon/Monster_8013010.png",
+        "Figure": "monsterfigure/Monster_8013010.png",
         "Status": [
             280130101
+        ],
+        "AllSkills": [
+            801301201,
+            801301202,
+            801301203,
+            801301204,
+            801301205
         ]
     },
     {
@@ -45179,8 +49525,15 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8013010.png",
-        "Figure": "MonsterFigure/Monster_8013010.png"
+        "Icon": "mostericon/Monster_8013010.png",
+        "Figure": "monsterfigure/Monster_8013010.png",
+        "AllSkills": [
+            801301301,
+            801301302,
+            801301303,
+            801301304,
+            801301305
+        ]
     },
     {
         "_id": 8013141,
@@ -45242,11 +49595,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012141.png",
+        "Icon": "mostericon/Monster_8012141.png",
         "Status": [
             280150103,
             280150104,
             280150105
+        ],
+        "AllSkills": [
+            801314101,
+            801314102,
+            801314104,
+            801314103,
+            801314105,
+            801314106
         ]
     },
     {
@@ -45305,11 +49666,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8012141.png",
+        "Icon": "mostericon/Monster_8012141.png",
         "Status": [
             280150103,
             280150104,
             280150105
+        ],
+        "AllSkills": [
+            801314401,
+            801314402,
+            801314404,
+            801314403,
+            801314405,
+            801314406
         ]
     },
     {
@@ -45358,10 +49727,13 @@ var _monster = [
         ],
         "Rank": "BigBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8015010.png",
-        "Figure": "MonsterFigure/Monster_8015010.png",
+        "Icon": "mostericon/Monster_8015010.png",
+        "Figure": "monsterfigure/Monster_8015010.png",
         "Status": [
             280150102
+        ],
+        "AllSkills": [
+            801501001
         ]
     },
     {
@@ -45410,10 +49782,13 @@ var _monster = [
         ],
         "Rank": "BigBoss",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8015010.png",
-        "Figure": "MonsterFigure/Monster_8015010.png",
+        "Icon": "mostericon/Monster_8015010.png",
+        "Figure": "monsterfigure/Monster_8015010.png",
         "Status": [
             280150102
+        ],
+        "AllSkills": [
+            801501101
         ],
         "Csxylic": "SCAntimatterRegion/8015011"
     },
@@ -45490,12 +49865,26 @@ var _monster = [
         ],
         "Rank": "BigBoss",
         "Camp": 6,
-        "Icon": "MonsterIcon/Monster_8015020.png",
-        "Figure": "MonsterFigure/Monster_8015020.png",
+        "Icon": "mostericon/Monster_8015020.png",
+        "Figure": "monsterfigure/Monster_8015020.png",
         "Status": [
             280150202,
             280150204,
             280150208
+        ],
+        "AllSkills": [
+            801502001,
+            801502002,
+            801502003,
+            801502004,
+            801502005,
+            801502006,
+            801502007,
+            801502009,
+            801502010,
+            801502011,
+            801502012,
+            801502013
         ],
         "Csxylic": "SCAntimatterRegion/8015020"
     },
@@ -45572,12 +49961,26 @@ var _monster = [
         ],
         "Rank": "BigBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8015020.png",
-        "Figure": "MonsterFigure/Monster_8015020.png",
+        "Icon": "mostericon/Monster_8015020.png",
+        "Figure": "monsterfigure/Monster_8015020.png",
         "Status": [
             280150202,
             280150204,
             280150208
+        ],
+        "AllSkills": [
+            801502101,
+            801502102,
+            801502103,
+            801502104,
+            801502105,
+            801502106,
+            801502107,
+            801502109,
+            801502110,
+            801502111,
+            801502112,
+            801502113
         ]
     },
     {
@@ -45628,13 +50031,18 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 8,
-        "Icon": "MonsterIcon/Monster_8022010.png",
-        "Figure": "MonsterFigure/Monster_8022010.png",
+        "Icon": "mostericon/Monster_8022010.png",
+        "Figure": "monsterfigure/Monster_8022010.png",
         "Status": [
             280240101,
             280240103,
             280240104,
             280240105
+        ],
+        "AllSkills": [
+            802201001,
+            802201002,
+            802201004
         ],
         "Csxylic": "SCTheSwarm/8022010"
     },
@@ -45689,11 +50097,16 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 8,
-        "Icon": "MonsterIcon/Monster_8022020.png",
-        "Figure": "MonsterFigure/Monster_8022020.png",
+        "Icon": "mostericon/Monster_8022020.png",
+        "Figure": "monsterfigure/Monster_8022020.png",
         "Status": [
             30020029,
             280240103
+        ],
+        "AllSkills": [
+            802202001,
+            802202002,
+            802202004
         ],
         "Csxylic": "SCTheSwarm/8022020"
     },
@@ -45751,11 +50164,16 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 8,
-        "Icon": "MonsterIcon/Monster_8022020.png",
-        "Figure": "MonsterFigure/Monster_8022020.png",
+        "Icon": "mostericon/Monster_8022020.png",
+        "Figure": "monsterfigure/Monster_8022020.png",
         "Status": [
             30020029,
             280240103
+        ],
+        "AllSkills": [
+            802202001,
+            802202002,
+            802202004
         ],
         "Csxylic": "SCTheSwarm/8022020"
     },
@@ -45811,11 +50229,16 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 8,
-        "Icon": "MonsterIcon/Monster_8022020.png",
-        "Figure": "MonsterFigure/Monster_8022020.png",
+        "Icon": "mostericon/Monster_8022020.png",
+        "Figure": "monsterfigure/Monster_8022020.png",
         "Status": [
             30020029,
             280240103
+        ],
+        "AllSkills": [
+            802202001,
+            802202002,
+            802202004
         ],
         "Csxylic": "SCTheSwarm/8022020"
     },
@@ -45860,8 +50283,12 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 8,
-        "Icon": "MonsterIcon/Monster_8022030.png",
-        "Figure": "MonsterFigure/Monster_8022030.png",
+        "Icon": "mostericon/Monster_8022030.png",
+        "Figure": "monsterfigure/Monster_8022030.png",
+        "AllSkills": [
+            802203001,
+            802203002
+        ],
         "Csxylic": "SCTheSwarm/8022030"
     },
     {
@@ -45945,12 +50372,22 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8024010.png",
-        "Figure": "MonsterFigure/Monster_8024010.png",
+        "Icon": "mostericon/Monster_8024010.png",
+        "Figure": "monsterfigure/Monster_8024010.png",
         "Status": [
             280240101,
             280240102,
             280240103
+        ],
+        "AllSkills": [
+            802401001,
+            802401002,
+            802401003,
+            802401004,
+            802401008,
+            802401005,
+            802401006,
+            802401009
         ]
     },
     {
@@ -46018,12 +50455,21 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 8,
-        "Icon": "MonsterIcon/Monster_8024010.png",
-        "Figure": "MonsterFigure/Monster_8024010.png",
+        "Icon": "mostericon/Monster_8024010.png",
+        "Figure": "monsterfigure/Monster_8024010.png",
         "Status": [
             280240101,
             280240102,
             280240103
+        ],
+        "AllSkills": [
+            802401101,
+            802401102,
+            802401103,
+            802401104,
+            802401105,
+            802401106,
+            802401109
         ],
         "Csxylic": "SCTheSwarm/8024011"
     },
@@ -46108,8 +50554,18 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8024010.png",
-        "Figure": "MonsterFigure/Monster_8024010.png"
+        "Icon": "mostericon/Monster_8024010.png",
+        "Figure": "monsterfigure/Monster_8024010.png",
+        "AllSkills": [
+            802401201,
+            802401202,
+            802401203,
+            802401204,
+            802401208,
+            802401205,
+            802401206,
+            802401209
+        ]
     },
     {
         "_id": 8025010,
@@ -46175,8 +50631,16 @@ var _monster = [
         ],
         "Rank": "BigBoss",
         "Camp": 8,
-        "Icon": "MonsterIcon/Monster_8025010.png",
-        "Figure": "MonsterFigure/Monster_8025010.png",
+        "Icon": "mostericon/Monster_8025010.png",
+        "Figure": "monsterfigure/Monster_8025010.png",
+        "AllSkills": [
+            802501001,
+            802501002,
+            802501003,
+            802501005,
+            802501006,
+            802501007
+        ],
         "Csxylic": "SCTheSwarm/8025010"
     },
     {
@@ -46243,8 +50707,16 @@ var _monster = [
         ],
         "Rank": "BigBoss",
         "Camp": 8,
-        "Icon": "MonsterIcon/Monster_8025010.png",
-        "Figure": "MonsterFigure/Monster_8025010.png",
+        "Icon": "mostericon/Monster_8025010.png",
+        "Figure": "monsterfigure/Monster_8025010.png",
+        "AllSkills": [
+            802501001,
+            802501002,
+            802501003,
+            802501005,
+            802501006,
+            802501007
+        ],
         "Csxylic": "SCTheSwarm/8025010"
     },
     {
@@ -46294,10 +50766,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 9,
-        "Icon": "MonsterIcon/Monster_8032010.png",
-        "Figure": "MonsterFigure/Monster_8032010.png",
+        "Icon": "mostericon/Monster_8032010.png",
+        "Figure": "monsterfigure/Monster_8032010.png",
         "Status": [
             280330101
+        ],
+        "AllSkills": [
+            803201001,
+            803201002
         ],
         "Csxylic": "SCInterastralPeaceCorporation/8032010"
     },
@@ -46348,10 +50824,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 9,
-        "Icon": "MonsterIcon/Monster_8032010.png",
-        "Figure": "MonsterFigure/Monster_8032010.png",
+        "Icon": "mostericon/Monster_8032010.png",
+        "Figure": "monsterfigure/Monster_8032010.png",
         "Status": [
             280330101
+        ],
+        "AllSkills": [
+            803201001,
+            803201002
         ],
         "Csxylic": "SCInterastralPeaceCorporation/8032010"
     },
@@ -46402,10 +50882,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 9,
-        "Icon": "MonsterIcon/Monster_8032010.png",
-        "Figure": "MonsterFigure/Monster_8032010.png",
+        "Icon": "mostericon/Monster_8032010.png",
+        "Figure": "monsterfigure/Monster_8032010.png",
         "Status": [
             280330101
+        ],
+        "AllSkills": [
+            803201001,
+            803201002
         ],
         "Csxylic": "SCInterastralPeaceCorporation/8032010"
     },
@@ -46456,10 +50940,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 9,
-        "Icon": "MonsterIcon/Monster_8032010.png",
-        "Figure": "MonsterFigure/Monster_8032010.png",
+        "Icon": "mostericon/Monster_8032010.png",
+        "Figure": "monsterfigure/Monster_8032010.png",
         "Status": [
             280330101
+        ],
+        "AllSkills": [
+            803201001,
+            803201002
         ],
         "Csxylic": "SCInterastralPeaceCorporation/8032010"
     },
@@ -46510,10 +50998,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 9,
-        "Icon": "MonsterIcon/Monster_8032020.png",
-        "Figure": "MonsterFigure/Monster_8032020.png",
+        "Icon": "mostericon/Monster_8032020.png",
+        "Figure": "monsterfigure/Monster_8032020.png",
         "Status": [
             280330101
+        ],
+        "AllSkills": [
+            803202001,
+            803202002
         ],
         "Csxylic": "SCInterastralPeaceCorporation/8032020"
     },
@@ -46564,10 +51056,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 9,
-        "Icon": "MonsterIcon/Monster_8032020.png",
-        "Figure": "MonsterFigure/Monster_8032020.png",
+        "Icon": "mostericon/Monster_8032020.png",
+        "Figure": "monsterfigure/Monster_8032020.png",
         "Status": [
             280330101
+        ],
+        "AllSkills": [
+            803202001,
+            803202002
         ],
         "Csxylic": "SCInterastralPeaceCorporation/8032020"
     },
@@ -46618,10 +51114,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 9,
-        "Icon": "MonsterIcon/Monster_8032020.png",
-        "Figure": "MonsterFigure/Monster_8032020.png",
+        "Icon": "mostericon/Monster_8032020.png",
+        "Figure": "monsterfigure/Monster_8032020.png",
         "Status": [
             280330101
+        ],
+        "AllSkills": [
+            803202001,
+            803202002
         ],
         "Csxylic": "SCInterastralPeaceCorporation/8032020"
     },
@@ -46672,10 +51172,14 @@ var _monster = [
         ],
         "Rank": "MinionLv2",
         "Camp": 9,
-        "Icon": "MonsterIcon/Monster_8032020.png",
-        "Figure": "MonsterFigure/Monster_8032020.png",
+        "Icon": "mostericon/Monster_8032020.png",
+        "Figure": "monsterfigure/Monster_8032020.png",
         "Status": [
             280330101
+        ],
+        "AllSkills": [
+            803202001,
+            803202002
         ],
         "Csxylic": "SCInterastralPeaceCorporation/8032020"
     },
@@ -46725,10 +51229,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 9,
-        "Icon": "MonsterIcon/Monster_8033010.png",
-        "Figure": "MonsterFigure/Monster_8033010.png",
+        "Icon": "mostericon/Monster_8033010.png",
+        "Figure": "monsterfigure/Monster_8033010.png",
         "Status": [
             280330101
+        ],
+        "AllSkills": [
+            803301001,
+            803301002,
+            803301003,
+            803301004,
+            803301005,
+            803301006,
+            803301007
         ],
         "Csxylic": "SCInterastralPeaceCorporation/8033010"
     },
@@ -46778,10 +51291,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 9,
-        "Icon": "MonsterIcon/Monster_8033010.png",
-        "Figure": "MonsterFigure/Monster_8033010.png",
+        "Icon": "mostericon/Monster_8033010.png",
+        "Figure": "monsterfigure/Monster_8033010.png",
         "Status": [
             280330101
+        ],
+        "AllSkills": [
+            803301001,
+            803301002,
+            803301003,
+            803301004,
+            803301005,
+            803301006,
+            803301007
         ],
         "Csxylic": "SCInterastralPeaceCorporation/8033010"
     },
@@ -46834,10 +51356,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 9,
-        "Icon": "MonsterIcon/Monster_8033010.png",
-        "Figure": "MonsterFigure/Monster_8033010.png",
+        "Icon": "mostericon/Monster_8033010.png",
+        "Figure": "monsterfigure/Monster_8033010.png",
         "Status": [
             280330101
+        ],
+        "AllSkills": [
+            803301001,
+            803301002,
+            803301003,
+            803301004,
+            803301005,
+            803301006,
+            803301007
         ],
         "Csxylic": "SCInterastralPeaceCorporation/8033010"
     },
@@ -46893,10 +51424,19 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8033010.png",
-        "Figure": "MonsterFigure/Monster_8033010.png",
+        "Icon": "mostericon/Monster_8033010.png",
+        "Figure": "monsterfigure/Monster_8033010.png",
         "Status": [
             280330101
+        ],
+        "AllSkills": [
+            803301101,
+            803301102,
+            803301103,
+            803301104,
+            803301105,
+            803301106,
+            803301108
         ]
     },
     {
@@ -46954,8 +51494,15 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8033010.png",
-        "Figure": "MonsterFigure/Monster_8033010.png"
+        "Icon": "mostericon/Monster_8033010.png",
+        "Figure": "monsterfigure/Monster_8033010.png",
+        "AllSkills": [
+            803301201,
+            803301202,
+            803301203,
+            803301204,
+            803301207
+        ]
     },
     {
         "_id": 9003020,
@@ -46988,8 +51535,9 @@ var _monster = [
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_9003020.png",
-        "Figure": "MonsterFigure/Monster_9003020.png"
+        "Icon": "mostericon/Monster_9003020.png",
+        "Figure": "monsterfigure/Monster_9003020.png",
+        "AllSkills": []
     },
     {
         "_id": 9004600,
@@ -47025,7 +51573,10 @@ var _monster = [
         ],
         "Rank": "LittleBoss",
         "Camp": 0,
-        "Icon": "MonsterIcon/Monster_8013010.png"
+        "Icon": "mostericon/Monster_8013010.png",
+        "AllSkills": [
+            900460001
+        ]
     }
 ]
 
@@ -49514,3 +54065,11 @@ var _status = {
         "Type": "Debuff"
     }
 }
+
+var _focus = [
+    1001,
+    1002,
+    5,
+    10,
+    11
+]

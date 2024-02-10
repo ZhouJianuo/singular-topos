@@ -362,8 +362,9 @@ schedule {
 }
 
 .rar schedule {
-    min-width: 86px;
+    min-width: 60px;
     font-size: 14px;
+    width: calc((100% - 70px) / 7)
 }
 
 .addprop_ {

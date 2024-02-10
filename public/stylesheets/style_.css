@@ -701,3 +701,12 @@ h3 .tlsub {
     display: block;
     margin: auto
 }
+
+@media screen and (max-width: 500px) {
+    popbody::-webkit-scrollbar {
+        width: 0px
+    }
+    container::-webkit-scrollbar {
+        width: 0px
+    }
+}

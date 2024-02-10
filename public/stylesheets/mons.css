@@ -66,7 +66,8 @@ popdialog {
 .monster_card_area {
     display: flex;
     flex-wrap: wrap;
-    padding: 15px 24px 24px 24px;
+    padding: 15px 0px 24px 0px;
+    justify-content: space-evenly;
 }
 
 .monster_card {
@@ -224,13 +225,14 @@ input[type=number] {
 .statpageicon {
     width: 22px;
     margin-right: 5px;
-    vertical-align: middle;
+    position: relative;
+    top: 5px;
 }
 
 .stat_ {
-    padding-left: 15px;
     font-weight: bold;
     color: #fff;
+    padding-left: 0px;
 }
 
 .base_stat_input {
@@ -297,6 +299,48 @@ input[type=number] {
     padding: 0px;
 }
 
+.avatar-card {
+    border-radius: 5px;
+    padding: 12px 14px 17px;
+    margin-top: 7px;
+    margin-bottom: 13px;
+    width: calc(50% - 43px);
+    line-height: 2;
+    background-color: #27363E;
+    color: #dddddd;
+    position: relative;
+    text-align: center;
+    cursor: pointer;
+}
+
+
+.avatar-card p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.avatar-head {
+    height: 180px;
+    margin: auto;
+    display: block;
+    z-index: -1;
+    max-width: 100%;
+    object-fit: contain;
+}
+
+.avatar-staticon {
+    height: 26px;
+    width: 26px;
+    position: relative;
+    top: 7px;
+}
+.avatar-stat {
+    font-size: 15px;
+}
+.avatar-name {
+    font-size: 14px;
+}
+
 @media screen and (min-width: 400px) {
     .base_stat_table {
         border-left: 1px solid white;
@@ -310,6 +354,15 @@ input[type=number] {
 }
 
 @media screen and (min-width: 500px) and (max-width: 800px) {
+    .avatar-name {
+        font-size: 15px;
+    }
+    .avatar-head, .weapon-head {
+        height: 210px;
+    }
+    .avatar-card {
+        width: calc(33% - 38px);
+    }
     .statpageicon {
         width: 26px;
     }
@@ -349,6 +402,20 @@ input[type=number] {
 }
 
 @media screen and (min-width: 800px) {
+    .avatar-name {
+        font-size: 16px;
+    }
+    .avatar-staticon {
+        height: 33px;
+        width: 33px;
+        top: 10px;
+    }
+    .avatar-stat {
+        font-size: 17px;
+    }
+    .avatar-head, .weapon-head {
+        height: 240px;
+    }
     .statpageicon {
         width: 30px;
     }
@@ -390,5 +457,23 @@ input[type=number] {
     }
     .monright {
         max-width: calc(100% - 76px);
+    }
+}
+
+@media screen and (min-width: 600px) {
+    .stat_ {
+        padding-left: 18px;
+    }
+}
+
+@media screen and (min-width: 800px) and (max-width: 1000px) {
+    .avatar-card {
+        width: calc(25% - 40px);
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    .avatar-card {
+        width: calc(20% - 42px);
     }
 }

@@ -251,13 +251,14 @@ input[type=number] {
 .statpageicon {
     width: 22px;
     margin-right: 5px;
-    vertical-align: middle;
+    position: relative;
+    top: 5px;
 }
 
 .stat_ {
-    padding-left: 15px;
     font-weight: bold;
     color: #fff;
+    padding-left: 0px;
 }
 
 .base_stat_input {
@@ -609,5 +610,11 @@ input[type=number] {
     }
     .ver_text_name, .ver_text_time {
         font-size: 17px;
+    }
+}
+
+@media screen and (min-width: 600px) {
+    .stat_ {
+        padding-left: 18px;
     }
 }

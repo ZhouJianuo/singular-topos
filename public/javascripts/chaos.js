@@ -269,7 +269,15 @@ $(function () {
                             },
                             class: 'elem_',
                             data: cur_floor_data.ElemUpper
-                        }
+                        },
+                        {
+                            p: txt.Chart_Subtitle[lang],
+                            style: {
+                                'font-size': '0.75em',
+                                color: '#0066FF',
+                                'margin-bottom': '27px'
+                            }
+                        },
                     ]
                 }
             ]
@@ -287,7 +295,15 @@ $(function () {
                             },
                             class: 'elem_',
                             data: cur_floor_data.ElemLower
-                        }
+                        },
+                        {
+                            p: txt.Chart_Subtitle[lang],
+                            style: {
+                                'font-size': '0.75em',
+                                color: '#0066FF',
+                                'margin-bottom': '27px'
+                            }
+                        },
                     ]
                 }
             ]
@@ -746,7 +762,7 @@ $(function () {
                             }
                         }
                     ],
-                    class: 'a_section_small_4'
+                    class: 'a_section_small'
                 },
                 {
                     div: [
@@ -755,78 +771,98 @@ $(function () {
                             class: 'a_section_head'
                         },
                         {
-                            div: {
-                                table: function (k) {
-                                    elemlist.forEach(function (e) {
-                                        $(k.container).render({
-                                            template: {
-                                                tr: [
-                                                    {
-                                                        td: {
-                                                            img: imgpre + 'images/Element/' + e + '.png',
-                                                            class: 'statpageicon'
-                                                        }
-                                                    },
-                                                    {
-                                                        td: cur_mon.RESBase[e] ? (parseInt(cur_mon.RESBase[e] * 100) + '%') : '0%'
-                                                    }
-                                                ]
-                                            }
-                                        })
-                                    })
-                                }
-                            },
-                            class: 'a_section_content'
-                        },
-                    ],
-                    class: 'a_section_small_3'
-                },
-                {
-                    div: [
-                        {
-                            div: txt.MonsterLowerStats[2][lang],
-                            class: 'a_section_head'
-                        },
-                        {
-                            div: {
-                                table: function (k) {
-                                    debufflist.forEach(function (e) {
-                                        if (cur_mon.DebuffRES && cur_mon.DebuffRES[e.ID]) {
-                                            if (cur_mon.DebuffRES[e.ID] != 1) {
-                                                var res = parseInt(cur_mon.DebuffRES[e.ID] * 100) + '%'
-                                            } else {
-                                                var res = txt.Immune[lang]
-                                            }
+                            div: [
+                                {
+                                    table: function (k) {
+                                        elemlist.forEach(function (e) {
                                             $(k.container).render({
                                                 template: {
                                                     tr: [
                                                         {
                                                             td: {
-                                                                img: imgpre + 'images/Debuff/' + e.Icon + '.png',
+                                                                img: imgpre + 'images/Element/' + e + '.png',
                                                                 class: 'statpageicon'
                                                             }
                                                         },
                                                         {
-                                                            td: e.Name[lang]
-                                                        },
-                                                        {
-                                                            td: res,
-                                                            style: {
-                                                                'padding-left': '15px'
-                                                            }
+                                                            td: cur_mon.RESBase[e] ? (parseInt(cur_mon.RESBase[e] * 100) + '%') : '0%'
                                                         }
                                                     ]
                                                 }
                                             })
+                                        })
+                                    }
+                                },
+                                {
+                                    table: function (k) {
+                                        var count = 0
+                                        debufflist.forEach(function (e) {
+                                            if (cur_mon.DebuffRES && cur_mon.DebuffRES[e.ID]) {
+                                                if (cur_mon.DebuffRES[e.ID] != 1) {
+                                                    var res = parseInt(cur_mon.DebuffRES[e.ID] * 100) + '%'
+                                                } else {
+                                                    var res = txt.Immune[lang]
+                                                }
+                                                $(k.container).render({
+                                                    template: {
+                                                        tr: [
+                                                            {
+                                                                td: {
+                                                                    img: imgpre + 'images/Debuff/' + e.Icon + '.png',
+                                                                    class: 'statpageicon'
+                                                                }
+                                                            },
+                                                            {
+                                                                td: e.Name[lang]
+                                                            },
+                                                            {
+                                                                td: res,
+                                                                style: {
+                                                                    'padding-left': '15px'
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                })
+                                                count += 1
+                                            }
+                                        })
+                                        while (count < elemlist.length) {
+                                            $(k.container).render({
+                                                template: {
+                                                    tr: [
+                                                        {
+                                                            td: '1',
+                                                            style: {
+                                                                opacity: '0'
+                                                            }
+                                                        },
+                                                        {
+                                                            td: ''
+                                                        },
+                                                        {
+                                                            td: ''
+                                                        }
+                                                    ]
+                                                }
+                                            })
+                                            count += 1
                                         }
-                                    })
+                                    },
+                                    style: {
+                                        'padding-left': '8%'
+                                    }
                                 }
-                            },
-                            class: 'a_section_content'
-                        }
+                            ],
+                            class: 'a_section_content',
+                            style: {
+                                display: 'flex',
+                                'flex-wrap': 'wrap',
+                            }
+                        },
                     ],
-                    class: 'a_section_smallsmall'
-                }
+                    class: 'a_section_small'
+                },
             ]
         })
         renderStat(cur_mon)
@@ -888,7 +924,40 @@ $(function () {
                 template: {
                     div: [
                         {
-                            div: (skill.Threat ? "<color style='color:#f29e38;font-weight:normal;'>⚠ </color>" : '') + skill.Name[lang] + (skill.SP ? "<span style='font-size:14px;color:#fff;font-weight:normal;margin-left:10px;margin-right:5px;float:right;'>" + txt.HitSP[lang] + skill.SP.toFixed(0) + "</span>" : ''),
+                            div: [
+                                (skill.Threat ? "<color style='color:#f29e38;font-weight:normal;'>⚠ </color>" : '') + skill.Name[lang],
+                                {
+                                    span: [
+                                        {
+                                            img: imgpre + 'images/Addprop/IconEnergyRecovery.png',
+                                            style: {
+                                                width: '26px',
+                                                position: 'relative',
+                                                top: '-2px'
+                                            }
+                                        },
+                                        {
+                                            span: '+' + (skill.SP ? skill.SP : 0).toFixed(0),
+                                            style: {
+                                                'font-size': '14px',
+                                                color: '#fff',
+                                                'font-weight': 'normal',
+                                                float: 'right',
+                                                'margin-left': '0px',
+                                                'margin-right': '0px',
+                                            },
+                                        }
+                                    ],
+                                    style: {
+                                        'margin-left': '10px',
+                                        'margin-right': '5px',
+                                        'margin-top': '3px',
+                                        'margin-bottom': '-10px',
+                                        float: 'right'
+                                    },
+                                    when: skill.SP
+                                }
+                            ],
                             class: 'a_section_head'
                         },
                         {

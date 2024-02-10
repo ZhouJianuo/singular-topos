@@ -256,13 +256,14 @@ input[type=number] {
 .statpageicon {
     width: 22px;
     margin-right: 5px;
-    vertical-align: middle;
+    position: relative;
+    top: 5px;
 }
 
 .stat_ {
-    padding-left: 15px;
     font-weight: bold;
     color: #fff;
+    padding-left: 0px;
 }
 
 .base_stat_input {
@@ -678,5 +679,11 @@ input[type=number] {
         width: 21px;
         line-height: 21px;
         font-size: 14px;
+    }
+}
+
+@media screen and (min-width: 600px) {
+    .stat_ {
+        padding-left: 18px;
     }
 }

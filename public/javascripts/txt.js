@@ -147,8 +147,8 @@ var txt = {
             "EN": "Stats"
         },
         {
-            "CH": "伤害抗性",
-            "EN": "Damage RES"
+            "CH": "抗性",
+            "EN": "RES"
         },
         {
             "CH": "状态抗性",
@@ -248,11 +248,11 @@ var txt = {
     "Recommended": [
         {
             "CH": "上半 ",
-            "EN": "Upper Half "
+            "EN": "Upper "
         },
         {
             "CH": "下半 ",
-            "EN": "Lower Half "
+            "EN": "Lower "
         }
     ],
     "Keep": {
@@ -285,7 +285,7 @@ var txt = {
     },
     "Chart_Subtitle": {
         "CH": "玉衡杯数据库 homdgcat.wiki",
-        "EN": "HomDGCat Wiki - homdgcat.wiki"
+        "EN": "homdgcat.wiki | t.me/homdgcat"
     },
     "Fiction_HP": {
         "CH": "总血量",
@@ -390,6 +390,10 @@ var txt = {
     "Weapon_Skill": {
         "CH": "光锥技能",
         "EN": "Skill"
+    },
+    "DEV": {
+        "CH": "测试技能 | 由<b>妮可少女</b>提供翻译",
+        "EN": "Test kit translated by <b>HomDGCat</b> | Subject to change"
     },
 }
 
@@ -512,6 +516,13 @@ var links = [
             "EN": "<b>Main Page</b>"
         },
         "Link": "/sr"
+    },
+    {
+        "Name": {
+            "CH": "<b>原神</b>",
+            "EN": "<b>Genshin Impact</b>"
+        },
+        "Link": "/gi"
     },
     {
         "Name": {
