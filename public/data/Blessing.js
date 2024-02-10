@@ -6861,8 +6861,8 @@ var _blessingextra = {
             "EN": "Dissociation"
         },
         "Desc": {
-            "CH": "由特定「记忆」命途祝福施加的负面效果。\n被视为冻结状态，一定回合内无法行动，该状态解除时会造成等同于敌方目标生命上限 30.0% 的冰属性附加伤害。",
-            "EN": "Debuff caused by specific Blessings of Remembrance.\nThe enemy is considered Frozen and will be unable to act for a designated number of turns. After Freeze is removed, deals Additional Ice DMG equal to 30.0% of the enemy's Max HP."
+            "CH": "由特定「记忆」命途祝福施加的负面效果。<br>被视为冻结状态，一定回合内无法行动，该状态解除时会造成等同于敌方目标生命上限 30.0% 的冰属性附加伤害。",
+            "EN": "Debuff caused by specific Blessings of Remembrance.<br>The enemy is considered Frozen and will be unable to act for a designated number of turns. After Freeze is removed, deals Additional Ice DMG equal to 30.0% of the enemy's Max HP."
         }
     },
     "60000003": {
@@ -6881,8 +6881,8 @@ var _blessingextra = {
             "EN": "Critical Boost"
         },
         "Desc": {
-            "CH": "由特定「巡猎」命途祝福施加的增益效果。\n每层使暴击率提高 6.0% ，暴击伤害提高 12.0% ，该效果最多叠加 8.0 层，可以传递给下一个回合开始的我方目标。当任意我方目标受到攻击后层数清零。",
-            "EN": "Buff brought by certain Hunt Blessings.\nFor each stack, increases CRIT Rate by 6.0% and CRIT DMG by 12.0%. Stacks up to 8.0 times. This buff can be transferred to allies when the next turn starts. Stacks reset when any ally is attacked."
+            "CH": "由特定「巡猎」命途祝福施加的增益效果。<br>每层使暴击率提高 6.0% ，暴击伤害提高 12.0% ，该效果最多叠加 8.0 层，可以传递给下一个回合开始的我方目标。当任意我方目标受到攻击后层数清零。",
+            "EN": "Buff brought by certain Hunt Blessings.<br>For each stack, increases CRIT Rate by 6.0% and CRIT DMG by 12.0%. Stacks up to 8.0 times. This buff can be transferred to allies when the next turn starts. Stacks reset when any ally is attacked."
         }
     },
     "60000005": {
@@ -6891,8 +6891,8 @@ var _blessingextra = {
             "EN": "Fighting Spirit"
         },
         "Desc": {
-            "CH": "由特定「毁灭」命途祝福施加的增益效果。\n每层使攻击力提高 3.0% ，防御力提高 3.0% ，该效果最多叠加 35.0 层。",
-            "EN": "Buff brought by certain Destruction Blessings.\nFor each stack, increases ATK by 3.0% and DEF by 3.0%. Stacks up to 35.0 times."
+            "CH": "由特定「毁灭」命途祝福施加的增益效果。<br>每层使攻击力提高 3.0% ，防御力提高 3.0% ，该效果最多叠加 35.0 层。",
+            "EN": "Buff brought by certain Destruction Blessings.<br>For each stack, increases ATK by 3.0% and DEF by 3.0%. Stacks up to 35.0 times."
         }
     },
     "60000006": {
@@ -6961,8 +6961,8 @@ var _blessingextra = {
             "EN": "Suspicion"
         },
         "Desc": {
-            "CH": "由特定「虚无」命途祝福施加的负面效果。\n每层使受到的持续伤害提高 1.0% ，该效果最多叠加 99.0 层，在回合结束时失去 2.0 层。",
-            "EN": "Debuff brought by certain Nihility Blessings.\nIncreases DoT taken by 1.0%. Stacks up to 99.0 times, but loses 2.0 stacks at the end of the turn."
+            "CH": "由特定「虚无」命途祝福施加的负面效果。<br>每层使受到的持续伤害提高 1.0% ，该效果最多叠加 99.0 层，在回合结束时失去 2.0 层。",
+            "EN": "Debuff brought by certain Nihility Blessings.<br>Increases DoT taken by 1.0%. Stacks up to 99.0 times, but loses 2.0 stacks at the end of the turn."
         }
     },
     "60000013": {
@@ -6971,8 +6971,8 @@ var _blessingextra = {
             "EN": "Dewdrop"
         },
         "Desc": {
-            "CH": "由特定「丰饶」命途祝福形成的充能效果。\n充能值不超过角色生命上限的 500.0% 。施放攻击后破裂，基于充能值对攻击的敌方目标造成附加伤害。",
-            "EN": "An effect that can be charged up, formed by specific Blessings of Abundance.\nThe Charge cannot exceed 500.0% of the character's Max HP. Dewdrop ruptures after the character attacks, dealing Additional DMG to the attacked enemy based on Charge value."
+            "CH": "由特定「丰饶」命途祝福形成的充能效果。<br>充能值不超过角色生命上限的 500.0% 。施放攻击后破裂，基于充能值对攻击的敌方目标造成附加伤害。",
+            "EN": "An effect that can be charged up, formed by specific Blessings of Abundance.<br>The Charge cannot exceed 500.0% of the character's Max HP. Dewdrop ruptures after the character attacks, dealing Additional DMG to the attacked enemy based on Charge value."
         }
     },
     "60000014": {
@@ -7041,8 +7041,8 @@ var _blessingextra = {
             "EN": "Mercy"
         },
         "Desc": {
-            "CH": "进入带有该效果的区域时，倒计时不会消耗，且会增加1点；\n（该效果在触发【位面紊乱！】后不再生效）",
-            "EN": "When entering domains with this effect applied, the countdown is not consumed and increases by 1 point.\n(This effect will expire after triggering Planar Disarray.)"
+            "CH": "进入带有该效果的区域时，倒计时不会消耗，且会增加1点；<br>（该效果在触发【位面紊乱！】后不再生效）",
+            "EN": "When entering domains with this effect applied, the countdown is not consumed and increases by 1 point.<br>(This effect will expire after triggering Planar Disarray.)"
         }
     },
     "61000004": {
