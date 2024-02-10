@@ -555,7 +555,7 @@ $(function () {
                                                 'max-width': '48px',
                                                 margin: '0px 5px',
                                             },
-                                            when : this_avatar.Path
+                                            when : this_avatar.Path != undefined
                                         },
                                     ],
                                     style: {
@@ -1442,7 +1442,7 @@ $(function () {
                                                                 'max-width': '48px',
                                                                 margin: '9px auto',
                                                             },
-                                                            when: this_weapon.Path
+                                                            when: this_weapon.Path != undefined
                                                         },
                                                         style: {
                                                             'text-align': 'center'
