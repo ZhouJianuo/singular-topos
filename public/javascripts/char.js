@@ -590,6 +590,86 @@ $(function () {
                     div: [
                         {
                             div: {
+                                p: txt.Avatar_Stats[lang],
+                            },
+                            class: 'a_section_head',
+                            style: {
+                                'text-align': 'center',
+                                'padding-top': '6px',
+                                color: "#" + elemcolor[this_avatar.Element],
+                            }
+                        },
+                        {
+                            div: [
+                                {
+                                    div: [
+                                        {
+                                            img: imgpre + 'images/Misc/_HP.png'
+                                        },
+                                        {
+                                            span: (window.innerWidth >= 800 ? props.HP[lang] : '') + ' <b>' + (stats[6].HP[0] + 79 * stats[6].HP[1]).toFixed(1) + '</b> '
+                                        }
+                                    ],
+                                    class: 'addprop'
+                                },
+                                {
+                                    div: [
+                                        {
+                                            img: imgpre + 'images/Misc/_ATK.png'
+                                        },
+                                        {
+                                            span: (window.innerWidth >= 800 ? props.ATK[lang] : '') + ' <b>' + (stats[6].ATK[0] + 79 * stats[6].ATK[1]).toFixed(2) + '</b> '
+                                        }
+                                    ],
+                                    class: 'addprop'
+                                },
+                                {
+                                    div: [
+                                        {
+                                            img: imgpre + 'images/Misc/_DEF.png'
+                                        },
+                                        {
+                                            span: (window.innerWidth >= 800 ? props.DEF[lang] : '') + ' <b>' + (stats[6].DEF[0] + 79 * stats[6].DEF[1]).toFixed(2) + '</b> '
+                                        }
+                                    ],
+                                    class: 'addprop'
+                                },
+                                {
+                                    div: [
+                                        {
+                                            img: imgpre + 'images/Misc/_SPD.png'
+                                        },
+                                        {
+                                            span: (window.innerWidth >= 800 ? props.SPD[lang] : '') + ' <b>' + (stats[6].SPD).toFixed(0) + '</b> '
+                                        }
+                                    ],
+                                    class: 'addprop'
+                                },
+                                {
+                                    div: [
+                                        {
+                                            img: imgpre + 'images/Misc/IconMonsterTaunted.png'
+                                        },
+                                        {
+                                            span: (window.innerWidth >= 800 ? txt.Avatar_Aggro[lang] : '') + ' <b>' + (stats[6].Aggro).toFixed(0) + '</b> '
+                                        }
+                                    ],
+                                    class: 'addprop'
+                                }
+                            ],
+                            class: 'a_section_content mon_head',
+                            style: {
+                                'margin-bottom': '20px',
+                                'margin-top': '-10px'
+                            }
+                        }
+                    ],
+                    class: 'a_section',
+                },
+                {
+                    div: [
+                        {
+                            div: {
                                 p: txt.Avatar_Mats[lang],
                             },
                             class: 'a_section_head',
@@ -693,86 +773,6 @@ $(function () {
                     ],
                     class: 'a_section',
                     when: this_avatar.Mat
-                },
-                {
-                    div: [
-                        {
-                            div: {
-                                p: txt.Avatar_Stats[lang],
-                            },
-                            class: 'a_section_head',
-                            style: {
-                                'text-align': 'center',
-                                'padding-top': '6px',
-                                color: "#" + elemcolor[this_avatar.Element],
-                            }
-                        },
-                        {
-                            div: [
-                                {
-                                    div: [
-                                        {
-                                            img: imgpre + 'images/Misc/_HP.png'
-                                        },
-                                        {
-                                            span: props.HP[lang] + ' <b>' + (stats[6].HP[0] + 79 * stats[6].HP[1]).toFixed(1) + '</b> '
-                                        }
-                                    ],
-                                    class: 'addprop'
-                                },
-                                {
-                                    div: [
-                                        {
-                                            img: imgpre + 'images/Misc/_ATK.png'
-                                        },
-                                        {
-                                            span: props.ATK[lang] + ' <b>' + (stats[6].ATK[0] + 79 * stats[6].ATK[1]).toFixed(2) + '</b> '
-                                        }
-                                    ],
-                                    class: 'addprop'
-                                },
-                                {
-                                    div: [
-                                        {
-                                            img: imgpre + 'images/Misc/_DEF.png'
-                                        },
-                                        {
-                                            span: props.DEF[lang] + ' <b>' + (stats[6].DEF[0] + 79 * stats[6].DEF[1]).toFixed(2) + '</b> '
-                                        }
-                                    ],
-                                    class: 'addprop'
-                                },
-                                {
-                                    div: [
-                                        {
-                                            img: imgpre + 'images/Misc/_SPD.png'
-                                        },
-                                        {
-                                            span: props.SPD[lang] + ' <b>' + (stats[6].SPD).toFixed(0) + '</b> '
-                                        }
-                                    ],
-                                    class: 'addprop'
-                                },
-                                {
-                                    div: [
-                                        {
-                                            img: imgpre + 'images/Misc/IconMonsterTaunted.png'
-                                        },
-                                        {
-                                            span: txt.Avatar_Aggro[lang] + ' <b>' + (stats[6].Aggro).toFixed(0) + '</b> '
-                                        }
-                                    ],
-                                    class: 'addprop'
-                                }
-                            ],
-                            class: 'a_section_content mon_head',
-                            style: {
-                                'margin-bottom': '20px',
-                                'margin-top': '-10px'
-                            }
-                        }
-                    ],
-                    class: 'a_section',
                 },
                 {
                     div: [
