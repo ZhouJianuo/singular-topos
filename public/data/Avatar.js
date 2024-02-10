@@ -4,8 +4,8 @@ var _avatar = [
     {
         "_id": 9001,
         "Name": {
-            "CH": "",
-            "EN": ""
+            "CH": "黄泉",
+            "EN": "Acheron"
         },
         "Element": "",
         "Skills": [],
@@ -16,8 +16,8 @@ var _avatar = [
     {
         "_id": 9002,
         "Name": {
-            "CH": "",
-            "EN": ""
+            "CH": "砂金",
+            "EN": "Aventurine"
         },
         "Element": "",
         "Skills": [],
@@ -43707,6 +43707,98 @@ var _story = {
                 "EN": "As the pocket watch struck six o'clock again in the morning, the familiar aroma of milk and toast wafted into his narrow bedroom from the kitchen as usual.<br><br>He had settled into this life, burying his dreams deep within his heart. He was no longer easily captivated by the stories of the guests, nor did he hold onto the hope of his grandfather's immediate return.<br><br><i>\"Maybe that's how adults are. They don't keep their promises, and they don't really want to listen to children.\"</i><br>He took the guests' suitcases and bags. The guests walked away without a second glance, leaving him alone and muttering to himself.<br><br>He went back to his room of clocks and checked the various clocks displaying different times from different time zones as usual. He stared blankly at the wall full of clocks, imagining the stories and worlds that existed within them. Lost in thoughts of these fantastical realms, he unfolded a drawing paper and began sketching the adventures he experienced with his imaginary companions.<br><br>That was the end of the story.<br><br><i>\"Farewell, my companions! I'll stay in the New World, and once it's fully built, I'll continue traveling with you to other new worlds!\"<br>\"Farewell, Captain Misha! May our paths cross again!\"</i><br>All his companions left except his ever-excited first mate, Mr. Pocket Watch, and the gentle Miss Mirror. They had navigated through the mists and across the sea together. In crucial moments, Misha had steered their ship in the right direction. Now, the child named Misha would embark to build a new kingdom on a new continent until the opportunity arose for another journey.<br><br><i>\"If I'm to draw something else, my next creation will be about the adventures in the new world.\"</i><br>As he finished the last stroke, he sensed some kind of familiar sound paired with vibrations, as if a colossal being had emerged from the depths of the universe and landed outside the hotel gate.<br><br>He dropped his brushes, opened the door, and ran out...<br><br><i>\"Welcome to...\"</i><br><br>The Astral Express, glistening in the morning light, tiredly, proudly waited there, parked and quiet.<br>...Just like in the dream."
             }
         }
+    ],
+    "8003": [
+        {
+            "_id": 11,
+            "Story": {
+                "CH": "为了消除星核带来的危机，{F#少女}{M#少年}开拓者选择与星穹列车同行。",
+                "EN": "A {F#girl}{M#boy}, Trailblazer, decides to travel with the Astral Express to eliminate the threat of the Stellaron."
+            }
+        },
+        {
+            "_id": 12,
+            "Story": {
+                "CH": "你记得不多。<br>你并非来自此地，也并非来自彼方，你本不去往任意一处——<br>直到模糊的声在你耳边吹拂，那悲伤爱怜的劝导，似是而非的催促……<br>种子扎根。你睁开双眼，那说话的人已不在。<br><br>只是声音愈来愈多愈清晰。<br>有无虑的关照，有镇静的劝告，有毅然的坚持，有温柔的点拨……<br>你看到锦线正织成明日。<br><br>巨大的兽自无垠降下，<br>金色的瞳从黑夜俯视，<br>你也不再被过去抛弃。<br>你还将开拓漫长旅途，<br>踏过的荆棘都成了路。<br><br>列车鸣笛，愿你抵达将至的未来<br>——以你自己的意志。",
+                "EN": "You don't remember much.<br>You're not from around here, nor did you come from elsewhere. You're not really going anywhere—<br>Just then, that indistinct voice whispers into your ear. That sorrowful and tender persuasion, that deceptive goading...<br>The seeds take root. You open your eyes, and the speaker is no longer there.<br><br>But there are more and more voices, and they are getting clearer and clearer.<br>Some give easygoing care, some calmly provide advice, some speak firm support, and some gift gentle direction...<br>You see the silken thread being woven to form tomorrow.<br><br>A huge beast descends from infinity,<br>golden pupils stare down from the darkness,<br>and you are no longer abandoned by the past.<br>You will also set upon a long journey,<br>and the thorns you have stepped on have become your path.<br><br>The train whistles, wishing you a successful journey to the coming future<br>...by your own will."
+            }
+        },
+        {
+            "_id": 13,
+            "Story": {
+                "CH": "你来到了「存护之城」。<br>雪幕之后，风似钢剑，火种留存。<br>远方不会听见，大地同样震颤，只有哭喊的人们迎风而上。<br><br>外敌、寒潮、裂隙之后，溃烂始于堡垒之中。<br>你施予援手，却遭背弃。<br>有人曾看轻你，误解你，但你仍走到他们身边，寻找他们的路。<br>更多的人挂怀你，担心你，面向他们的苦难，为苦恼之人找到药方。<br>最终他们走到你的身边。<br><br>冰雪中，你恰如一团火，存护这个世界的灵魂<br>——即使你将日日夜夜焚烧自己。",
+                "EN": "You have arrived at the \"City of Preservation.\"<br>Behind the snow curtain, the wind lashes like steel blades, but the kindling burns on.<br>Distant lands won't hear them, and the earth trembles in kind, with only the wailing crowds braving the wind.<br><br>After facing foreign enemies, the Eternal Freeze, and reality's fissures, a rot begins to fester within the fort.<br>You try lending a helping hand, but are forsaken.<br>Some once looked down on you and misunderstood you, but still you stood by their side and helped them find their way.<br>More care about you and worry about you. They face their suffering, and find the cure for the distressed.<br>Eventually, they come to your side.<br><br>In the ice and snow, you are like a fire, protecting the soul of this world<br>...Even though you must scorch yourself day and night."
+            }
+        }
+    ],
+    "8004": [
+        {
+            "_id": 11,
+            "Story": {
+                "CH": "为了消除星核带来的危机，{F#少女}{M#少年}开拓者选择与星穹列车同行。",
+                "EN": "A {F#girl}{M#boy}, Trailblazer, decides to travel with the Astral Express to eliminate the threat of the Stellaron."
+            }
+        },
+        {
+            "_id": 12,
+            "Story": {
+                "CH": "你记得不多。<br>你并非来自此地，也并非来自彼方，你本不去往任意一处——<br>直到模糊的声在你耳边吹拂，那悲伤爱怜的劝导，似是而非的催促……<br>种子扎根。你睁开双眼，那说话的人已不在。<br><br>只是声音愈来愈多愈清晰。<br>有无虑的关照，有镇静的劝告，有毅然的坚持，有温柔的点拨……<br>你看到锦线正织成明日。<br><br>巨大的兽自无垠降下，<br>金色的瞳从黑夜俯视，<br>你也不再被过去抛弃。<br>你还将开拓漫长旅途，<br>踏过的荆棘都成了路。<br><br>列车鸣笛，愿你抵达将至的未来<br>——以你自己的意志。",
+                "EN": "You don't remember much.<br>You're not from around here, nor did you come from elsewhere. You're not really going anywhere—<br>Just then, that indistinct voice whispers into your ear. That sorrowful and tender persuasion, that deceptive goading...<br>The seeds take root. You open your eyes, and the speaker is no longer there.<br><br>But there are more and more voices, and they are getting clearer and clearer.<br>Some give easygoing care, some calmly provide advice, some speak firm support, and some gift gentle direction...<br>You see the silken thread being woven to form tomorrow.<br><br>A huge beast descends from infinity,<br>golden pupils stare down from the darkness,<br>and you are no longer abandoned by the past.<br>You will also set upon a long journey,<br>and the thorns you have stepped on have become your path.<br><br>The train whistles, wishing you a successful journey to the coming future<br>...by your own will."
+            }
+        },
+        {
+            "_id": 13,
+            "Story": {
+                "CH": "你来到了「存护之城」。<br>雪幕之后，风似钢剑，火种留存。<br>远方不会听见，大地同样震颤，只有哭喊的人们迎风而上。<br><br>外敌、寒潮、裂隙之后，溃烂始于堡垒之中。<br>你施予援手，却遭背弃。<br>有人曾看轻你，误解你，但你仍走到他们身边，寻找他们的路。<br>更多的人挂怀你，担心你，面向他们的苦难，为苦恼之人找到药方。<br>最终他们走到你的身边。<br><br>冰雪中，你恰如一团火，存护这个世界的灵魂<br>——即使你将日日夜夜焚烧自己。",
+                "EN": "You have arrived at the \"City of Preservation.\"<br>Behind the snow curtain, the wind lashes like steel blades, but the kindling burns on.<br>Distant lands won't hear them, and the earth trembles in kind, with only the wailing crowds braving the wind.<br><br>After facing foreign enemies, the Eternal Freeze, and reality's fissures, a rot begins to fester within the fort.<br>You try lending a helping hand, but are forsaken.<br>Some once looked down on you and misunderstood you, but still you stood by their side and helped them find their way.<br>More care about you and worry about you. They face their suffering, and find the cure for the distressed.<br>Eventually, they come to your side.<br><br>In the ice and snow, you are like a fire, protecting the soul of this world<br>...Even though you must scorch yourself day and night."
+            }
+        }
+    ],
+    "8005": [
+        {
+            "_id": 11,
+            "Story": {
+                "CH": "为了消除星核带来的危机，{F#少女}{M#少年}开拓者选择与星穹列车同行。",
+                "EN": "A {F#girl}{M#boy}, Trailblazer, decides to travel with the Astral Express to eliminate the threat of the Stellaron."
+            }
+        },
+        {
+            "_id": 12,
+            "Story": {
+                "CH": "你记得不多。<br>你并非来自此地，也并非来自彼方，你本不去往任意一处——<br>直到模糊的声在你耳边吹拂，那悲伤爱怜的劝导，似是而非的催促……<br>种子扎根。你睁开双眼，那说话的人已不在。<br><br>只是声音愈来愈多愈清晰。<br>有无虑的关照，有镇静的劝告，有毅然的坚持，有温柔的点拨……<br>你看到锦线正织成明日。<br><br>巨大的兽自无垠降下，<br>金色的瞳从黑夜俯视，<br>你也不再被过去抛弃。<br>你还将开拓漫长旅途，<br>踏过的荆棘都成了路。<br><br>列车鸣笛，愿你抵达将至的未来<br>——以你自己的意志。",
+                "EN": "You don't remember much.<br>You're not from around here, nor did you come from elsewhere. You're not really going anywhere—<br>Just then, that indistinct voice whispers into your ear. That sorrowful and tender persuasion, that deceptive goading...<br>The seeds take root. You open your eyes, and the speaker is no longer there.<br><br>But there are more and more voices, and they are getting clearer and clearer.<br>Some give easygoing care, some calmly provide advice, some speak firm support, and some gift gentle direction...<br>You see the silken thread being woven to form tomorrow.<br><br>A huge beast descends from infinity,<br>golden pupils stare down from the darkness,<br>and you are no longer abandoned by the past.<br>You will also set upon a long journey,<br>and the thorns you have stepped on have become your path.<br><br>The train whistles, wishing you a successful journey to the coming future<br>...by your own will."
+            }
+        },
+        {
+            "_id": 13,
+            "Story": {
+                "CH": "你来到了「存护之城」。<br>雪幕之后，风似钢剑，火种留存。<br>远方不会听见，大地同样震颤，只有哭喊的人们迎风而上。<br><br>外敌、寒潮、裂隙之后，溃烂始于堡垒之中。<br>你施予援手，却遭背弃。<br>有人曾看轻你，误解你，但你仍走到他们身边，寻找他们的路。<br>更多的人挂怀你，担心你，面向他们的苦难，为苦恼之人找到药方。<br>最终他们走到你的身边。<br><br>冰雪中，你恰如一团火，存护这个世界的灵魂<br>——即使你将日日夜夜焚烧自己。",
+                "EN": "You have arrived at the \"City of Preservation.\"<br>Behind the snow curtain, the wind lashes like steel blades, but the kindling burns on.<br>Distant lands won't hear them, and the earth trembles in kind, with only the wailing crowds braving the wind.<br><br>After facing foreign enemies, the Eternal Freeze, and reality's fissures, a rot begins to fester within the fort.<br>You try lending a helping hand, but are forsaken.<br>Some once looked down on you and misunderstood you, but still you stood by their side and helped them find their way.<br>More care about you and worry about you. They face their suffering, and find the cure for the distressed.<br>Eventually, they come to your side.<br><br>In the ice and snow, you are like a fire, protecting the soul of this world<br>...Even though you must scorch yourself day and night."
+            }
+        }
+    ],
+    "8006": [
+        {
+            "_id": 11,
+            "Story": {
+                "CH": "为了消除星核带来的危机，{F#少女}{M#少年}开拓者选择与星穹列车同行。",
+                "EN": "A {F#girl}{M#boy}, Trailblazer, decides to travel with the Astral Express to eliminate the threat of the Stellaron."
+            }
+        },
+        {
+            "_id": 12,
+            "Story": {
+                "CH": "你记得不多。<br>你并非来自此地，也并非来自彼方，你本不去往任意一处——<br>直到模糊的声在你耳边吹拂，那悲伤爱怜的劝导，似是而非的催促……<br>种子扎根。你睁开双眼，那说话的人已不在。<br><br>只是声音愈来愈多愈清晰。<br>有无虑的关照，有镇静的劝告，有毅然的坚持，有温柔的点拨……<br>你看到锦线正织成明日。<br><br>巨大的兽自无垠降下，<br>金色的瞳从黑夜俯视，<br>你也不再被过去抛弃。<br>你还将开拓漫长旅途，<br>踏过的荆棘都成了路。<br><br>列车鸣笛，愿你抵达将至的未来<br>——以你自己的意志。",
+                "EN": "You don't remember much.<br>You're not from around here, nor did you come from elsewhere. You're not really going anywhere—<br>Just then, that indistinct voice whispers into your ear. That sorrowful and tender persuasion, that deceptive goading...<br>The seeds take root. You open your eyes, and the speaker is no longer there.<br><br>But there are more and more voices, and they are getting clearer and clearer.<br>Some give easygoing care, some calmly provide advice, some speak firm support, and some gift gentle direction...<br>You see the silken thread being woven to form tomorrow.<br><br>A huge beast descends from infinity,<br>golden pupils stare down from the darkness,<br>and you are no longer abandoned by the past.<br>You will also set upon a long journey,<br>and the thorns you have stepped on have become your path.<br><br>The train whistles, wishing you a successful journey to the coming future<br>...by your own will."
+            }
+        },
+        {
+            "_id": 13,
+            "Story": {
+                "CH": "你来到了「存护之城」。<br>雪幕之后，风似钢剑，火种留存。<br>远方不会听见，大地同样震颤，只有哭喊的人们迎风而上。<br><br>外敌、寒潮、裂隙之后，溃烂始于堡垒之中。<br>你施予援手，却遭背弃。<br>有人曾看轻你，误解你，但你仍走到他们身边，寻找他们的路。<br>更多的人挂怀你，担心你，面向他们的苦难，为苦恼之人找到药方。<br>最终他们走到你的身边。<br><br>冰雪中，你恰如一团火，存护这个世界的灵魂<br>——即使你将日日夜夜焚烧自己。",
+                "EN": "You have arrived at the \"City of Preservation.\"<br>Behind the snow curtain, the wind lashes like steel blades, but the kindling burns on.<br>Distant lands won't hear them, and the earth trembles in kind, with only the wailing crowds braving the wind.<br><br>After facing foreign enemies, the Eternal Freeze, and reality's fissures, a rot begins to fester within the fort.<br>You try lending a helping hand, but are forsaken.<br>Some once looked down on you and misunderstood you, but still you stood by their side and helped them find their way.<br>More care about you and worry about you. They face their suffering, and find the cure for the distressed.<br>Eventually, they come to your side.<br><br>In the ice and snow, you are like a fire, protecting the soul of this world<br>...Even though you must scorch yourself day and night."
+            }
+        }
     ]
 }
 
@@ -65629,6 +65721,2414 @@ var _voice = {
                 "EN": "It's getting late. Where to now?"
             }
         }
+    ],
+    "8003": [
+        {
+            "Title": {
+                "CH": "回忆 · 关于自己",
+                "EN": "Memory: About Self"
+            },
+            "Voice": {
+                "CH": "当有机会做出选择的时候，不要让自己后悔……",
+                "EN": "When there is the chance to make a choice, make one that you know you won't regret..."
+            }
+        },
+        {
+            "Title": {
+                "CH": "回忆 · 列车",
+                "EN": "Memory: The Express"
+            },
+            "Voice": {
+                "CH": "如果没有选择登上列车，我会度过怎样的一生…不，不会有如果。",
+                "EN": "What kind of a life would I have lived if I didn't choose to board the Express... No, there is no such possibility."
+            }
+        },
+        {
+            "Title": {
+                "CH": "回忆 · 帕姆",
+                "EN": "Memory: Pom-Pom"
+            },
+            "Voice": {
+                "CH": "虽然嘴上说着不高兴，身体的反应还是很真实的。还是多去找找帕姆吧！",
+                "EN": "They may sound annoyed, but their body language is more honest. I should visit Pom-Pom more often."
+            }
+        },
+        {
+            "Title": {
+                "CH": "回忆 · 空间站「黑塔」",
+                "EN": "Memory: Herta Space Station"
+            },
+            "Voice": {
+                "CH": "我的武器也是空间站的奇物之一，虽然不知道它的来历——但被黑塔女士看中，一定有其重要之处。",
+                "EN": "My weapon is also one of the Curios of the space station. I don't know where it came from, but it must be important if it appeals to Madam Herta."
+            }
+        },
+        {
+            "Title": {
+                "CH": "回忆 · 「毁灭」",
+                "EN": "Memory: Destruction"
+            },
+            "Voice": {
+                "CH": "「毁灭」的意志究竟从何而来，真的是因为体内的星核么……",
+                "EN": "Just where did the will of Destruction come from? Was it really because of the Stellaron within me...?"
+            }
+        },
+        {
+            "Title": {
+                "CH": "回忆 · 贝洛伯格",
+                "EN": "Memory: Belobog"
+            },
+            "Voice": {
+                "CH": "贝洛伯格的人们和我一样，也是第一次看到这颗星球上原生的那片天空。",
+                "EN": "Just like me, the people of Belobog are also seeing the native sky of this planet for the first time."
+            }
+        },
+        {
+            "Title": {
+                "CH": "回忆 · 「存护」",
+                "EN": "Memory: Preservation"
+            },
+            "Voice": {
+                "CH": "「存护」的种子一直都在贝洛伯格，我只是重新唤起了这座城市生存的意志…即使微弱，它也未到熄灭的时刻。",
+                "EN": "The seed of Preservation has always been within Belobog, and I simply re-ignited this city's will to live... That will may be weak, but this was not the time for it to go out."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」星魂激活",
+                "EN": "Destruction Eidolon Activation"
+            },
+            "Voice": {
+                "CH": "选择，并非像看上去那般遥不可及。",
+                "EN": "Choice isn't as elusive as it seems."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」星魂激活",
+                "EN": "Preservation Eidolon Activation"
+            },
+            "Voice": {
+                "CH": "选择的价值，因坚定的意志而可贵。",
+                "EN": "The value of choice lies in unwavering resolve."
+            }
+        },
+        {
+            "Title": {
+                "CH": "角色晋阶",
+                "EN": "Character Ascension"
+            },
+            "Voice": {
+                "CH": "还未到止步的时候。",
+                "EN": "I'm not done yet."
+            }
+        },
+        {
+            "Title": {
+                "CH": "角色满级",
+                "EN": "Max Level Reached"
+            },
+            "Voice": {
+                "CH": "旅程…不会结束。",
+                "EN": "Journeys never end."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」行迹激活",
+                "EN": "Destruction Trace Activation"
+            },
+            "Voice": {
+                "CH": "这就是…我的意志。",
+                "EN": "This is... my will."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」行迹激活",
+                "EN": "Preservation Trace Activation"
+            },
+            "Voice": {
+                "CH": "「存护」…由行动来决定。",
+                "EN": "Preservation is determined by our actions."
+            }
+        },
+        {
+            "Title": {
+                "CH": "队伍编成 · 三月七",
+                "EN": "Added to Team With March 7th"
+            },
+            "Voice": {
+                "CH": "反击就靠你了，三月。我相信你。",
+                "EN": "March, lead the counterattack. I believe in you."
+            }
+        },
+        {
+            "Title": {
+                "CH": "队伍编成 · 丹恒",
+                "EN": "Added to Team With Dan Heng"
+            },
+            "Voice": {
+                "CH": "丹恒，我们速战速决。",
+                "EN": "Dan Heng, let's make this quick."
+            }
+        },
+        {
+            "Title": {
+                "CH": "队伍编成 · 丹恒 · 饮月",
+                "EN": "Added to Team With Dan Heng • Imbibitor Lunae"
+            },
+            "Voice": {
+                "CH": "就像平时那样，丹恒，我们速战速决。",
+                "EN": "Like always, Dan Heng, let's make this quick!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "队伍编成 · 姬子",
+                "EN": "Added to Team With Himeko"
+            },
+            "Voice": {
+                "CH": "这次也拜托姬子小姐收尾了。",
+                "EN": "I'm counting on you to wrap this up, Himeko."
+            }
+        },
+        {
+            "Title": {
+                "CH": "队伍编成 · 瓦尔特",
+                "EN": "Added to Team With Welt"
+            },
+            "Voice": {
+                "CH": "放心交给我吧，杨叔…咳，瓦尔特先生。",
+                "EN": "I'm on it, Wel—... Ahem, Mr. Yang."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」战斗开始 · 弱点击破",
+                "EN": "Battle Begins: Weakness Break (Destruction)"
+            },
+            "Voice": {
+                "CH": "机不可失。",
+                "EN": "This is our chance."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」战斗开始 · 危险预警",
+                "EN": "Battle Begins: Danger Alert (Destruction)"
+            },
+            "Voice": {
+                "CH": "警惕起来。",
+                "EN": "Stay alert."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」回合开始 · 一",
+                "EN": "Turn Begins 1 (Destruction)"
+            },
+            "Voice": {
+                "CH": "要开始了。",
+                "EN": "Let's go."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」回合开始 · 二",
+                "EN": "Turn Begins 2 (Destruction)"
+            },
+            "Voice": {
+                "CH": "速战速决吧。",
+                "EN": "Let's make it quick."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」回合待机",
+                "EN": "Turn Idling (Destruction)"
+            },
+            "Voice": {
+                "CH": "下一个是谁？",
+                "EN": "Who's next?"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」普攻",
+                "EN": "Basic ATK (Destruction)"
+            },
+            "Voice": {
+                "CH": "轮到你了。",
+                "EN": "Batter up."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」战技",
+                "EN": "Skill (Destruction)"
+            },
+            "Voice": {
+                "CH": "尝尝这个！",
+                "EN": "How about this!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」轻受击",
+                "EN": "Hit by Light Attack (Destruction)"
+            },
+            "Voice": {
+                "CH": "不痛不痒。",
+                "EN": "Just a scratch."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」重受击",
+                "EN": "Hit by Heavy Attack (Destruction)"
+            },
+            "Voice": {
+                "CH": "还差得远。",
+                "EN": "It'll take more than that."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」终结技 · 激活",
+                "EN": "Ultimate: Activate (Destruction)"
+            },
+            "Voice": {
+                "CH": "规则，就是用来打破的。",
+                "EN": "Rules are made to be broken!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」终结技 · 施放 · 一",
+                "EN": "Ultimate: Unleash 1 (Destruction)"
+            },
+            "Voice": {
+                "CH": "你出局了！",
+                "EN": "You're out!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」终结技 · 施放 · 二",
+                "EN": "Ultimate: Unleash 2 (Destruction)"
+            },
+            "Voice": {
+                "CH": "我来送你上路。",
+                "EN": "You've outstayed your welcome!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」终结技 · 施放 · 三",
+                "EN": "Ultimate: Unleash 3 (Destruction)"
+            },
+            "Voice": {
+                "CH": "致胜一击！",
+                "EN": "Decisive strike!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」无法战斗",
+                "EN": "Downed (Destruction)"
+            },
+            "Voice": {
+                "CH": "是我…输了……",
+                "EN": "So this is... defeat..."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」重回战斗",
+                "EN": "Return to Battle (Destruction)"
+            },
+            "Voice": {
+                "CH": "开始第二轮吧。",
+                "EN": "One more at bat."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」回复生命",
+                "EN": "Health Recovery (Destruction)"
+            },
+            "Voice": {
+                "CH": "好多了。",
+                "EN": "Much better."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」秘技",
+                "EN": "Technique (Destruction)"
+            },
+            "Voice": {
+                "CH": "再坚持一下。",
+                "EN": "Keep at it."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」战斗开始 · 弱点击破",
+                "EN": "Weakness Break (Preservation)"
+            },
+            "Voice": {
+                "CH": "进攻的时机来了。",
+                "EN": "Time to go on the offensive."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」战斗开始 · 危险预警",
+                "EN": "Battle Begins: Danger Alert (Preservation)"
+            },
+            "Voice": {
+                "CH": "警惕起来。",
+                "EN": "Stay alert."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」回合开始 · 一",
+                "EN": "Turn Begins 1 (Preservation)"
+            },
+            "Voice": {
+                "CH": "骑枪，备战。",
+                "EN": "Lance at the ready."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」回合开始 · 二",
+                "EN": "Turn Begins 2 (Preservation)"
+            },
+            "Voice": {
+                "CH": "我来守护。",
+                "EN": "I'm on guard."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」回合待机",
+                "EN": "Turn Idling (Preservation)"
+            },
+            "Voice": {
+                "CH": "战势拖得太久了。",
+                "EN": "Don't lose momentum."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」普攻",
+                "EN": "Basic ATK (Preservation)"
+            },
+            "Voice": {
+                "CH": "贯穿！",
+                "EN": "To the finish!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」强化普攻",
+                "EN": "Enhanced Basic ATK (Preservation)"
+            },
+            "Voice": {
+                "CH": "裂地！",
+                "EN": "Fracture!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」战技 · 一",
+                "EN": "Skill 1 (Preservation)"
+            },
+            "Voice": {
+                "CH": "坚不可摧。",
+                "EN": "Indestructible."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」战技 · 二",
+                "EN": "Skill 2 (Preservation)"
+            },
+            "Voice": {
+                "CH": "以强援弱。",
+                "EN": "Defend the weak."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」轻受击",
+                "EN": "Hit by Light Attack (Preservation)"
+            },
+            "Voice": {
+                "CH": "毫发无伤。",
+                "EN": "Not a scratch."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」重受击",
+                "EN": "Hit by Heavy Attack (Preservation)"
+            },
+            "Voice": {
+                "CH": "我…没事。",
+                "EN": "I'm... okay."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」终结技 · 激活",
+                "EN": "Ultimate: Activate (Preservation)"
+            },
+            "Voice": {
+                "CH": "枪尖已经点燃。",
+                "EN": "Lance ablaze."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」终结技 · 施放",
+                "EN": "Ultimate: Unleash (Preservation)"
+            },
+            "Voice": {
+                "CH": "炎枪！冲锋！",
+                "EN": "Flaming lance! Forward!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」无法战斗",
+                "EN": "Downed (Preservation)"
+            },
+            "Voice": {
+                "CH": "我…必须坚持…",
+                "EN": "I... have to keep going..."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」重回战斗",
+                "EN": "Return to Battle (Preservation)"
+            },
+            "Voice": {
+                "CH": "我绝不后退。",
+                "EN": "I won't fall back."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」回复生命",
+                "EN": "Health Recovery (Preservation)"
+            },
+            "Voice": {
+                "CH": "配合得不错。",
+                "EN": "Nice teamwork."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」秘技",
+                "EN": "Technique (Preservation)"
+            },
+            "Voice": {
+                "CH": "存护之志！",
+                "EN": "Will of Preservation!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "战斗胜利",
+                "EN": "Battle Won"
+            },
+            "Voice": {
+                "CH": "以自己的意志，抵达结局吧。",
+                "EN": "Reach the end of the story in your own way."
+            }
+        },
+        {
+            "Title": {
+                "CH": "开启战利品 · 一",
+                "EN": "Treasure Opening 1"
+            },
+            "Voice": {
+                "CH": "看起来不错。",
+                "EN": "Looks good."
+            }
+        },
+        {
+            "Title": {
+                "CH": "开启战利品 · 二",
+                "EN": "Treasure Opening 2"
+            },
+            "Voice": {
+                "CH": "这就见底了？",
+                "EN": "Is that all?"
+            }
+        },
+        {
+            "Title": {
+                "CH": "开启贵重战利品",
+                "EN": "Precious Treasure Opening"
+            },
+            "Voice": {
+                "CH": "好，多多益善。",
+                "EN": "Great, the more the better."
+            }
+        },
+        {
+            "Title": {
+                "CH": "解谜成功 · 一",
+                "EN": "Successful Puzzle-Solving 1"
+            },
+            "Voice": {
+                "CH": "原来是这样么……",
+                "EN": "So that's how it works..."
+            }
+        },
+        {
+            "Title": {
+                "CH": "解谜成功 · 二",
+                "EN": "Successful Puzzle-Solving 2"
+            },
+            "Voice": {
+                "CH": "还难不倒我。",
+                "EN": "No match for me!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "发现敌方目标",
+                "EN": "Enemy Target Found"
+            },
+            "Voice": {
+                "CH": "想想该怎么对付它。",
+                "EN": "We need a strategy."
+            }
+        },
+        {
+            "Title": {
+                "CH": "返回城镇",
+                "EN": "Returning to Town"
+            },
+            "Voice": {
+                "CH": "时间还早，现在去哪？",
+                "EN": "It's getting late. Where to now?"
+            }
+        }
+    ],
+    "8004": [
+        {
+            "Title": {
+                "CH": "回忆 · 关于自己",
+                "EN": "Memory: About Self"
+            },
+            "Voice": {
+                "CH": "当有机会做出选择的时候，不要让自己后悔……",
+                "EN": "When there is the chance to make a choice, make one that you know you won't regret..."
+            }
+        },
+        {
+            "Title": {
+                "CH": "回忆 · 列车",
+                "EN": "Memory: The Express"
+            },
+            "Voice": {
+                "CH": "如果没有选择登上列车，我会度过怎样的一生…不，不会有如果。",
+                "EN": "What kind of a life would I have lived if I didn't choose to board the Express... No, there is no such possibility."
+            }
+        },
+        {
+            "Title": {
+                "CH": "回忆 · 帕姆",
+                "EN": "Memory: Pom-Pom"
+            },
+            "Voice": {
+                "CH": "虽然嘴上说着不高兴，身体的反应还是很真实的。还是多去找找帕姆吧！",
+                "EN": "They may sound annoyed, but their body language is more honest. I should visit Pom-Pom more often."
+            }
+        },
+        {
+            "Title": {
+                "CH": "回忆 · 空间站「黑塔」",
+                "EN": "Memory: Herta Space Station"
+            },
+            "Voice": {
+                "CH": "我的武器也是空间站的奇物之一，虽然不知道它的来历——但被黑塔女士看中，一定有其重要之处。",
+                "EN": "My weapon is also one of the Curios of the space station. I don't know where it came from, but it must be important if it appeals to Madam Herta."
+            }
+        },
+        {
+            "Title": {
+                "CH": "回忆 · 「毁灭」",
+                "EN": "Memory: Destruction"
+            },
+            "Voice": {
+                "CH": "「毁灭」的意志究竟从何而来，真的是因为体内的星核么……",
+                "EN": "Just where did the will of Destruction come from? Was it really because of the Stellaron within me...?"
+            }
+        },
+        {
+            "Title": {
+                "CH": "回忆 · 贝洛伯格",
+                "EN": "Memory: Belobog"
+            },
+            "Voice": {
+                "CH": "贝洛伯格的人们和我一样，也是第一次看到这颗星球上原生的那片天空。",
+                "EN": "Just like me, the people of Belobog are also seeing the native sky of this planet for the first time."
+            }
+        },
+        {
+            "Title": {
+                "CH": "回忆 · 「存护」",
+                "EN": "Memory: Preservation"
+            },
+            "Voice": {
+                "CH": "「存护」的种子一直都在贝洛伯格，我只是重新唤起了这座城市生存的意志…即使微弱，它也未到熄灭的时刻。",
+                "EN": "The seed of Preservation has always been within Belobog, and I simply re-ignited this city's will to live... That will may be weak, but this was not the time for it to go out."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」星魂激活",
+                "EN": "Destruction Eidolon Activation"
+            },
+            "Voice": {
+                "CH": "选择，并非像看上去那般遥不可及。",
+                "EN": "Choice isn't as elusive as it may appear."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」星魂激活",
+                "EN": "Preservation Eidolon Activation"
+            },
+            "Voice": {
+                "CH": "选择的价值，因坚定的意志而可贵。",
+                "EN": "The value of choice lies in unwavering resolve."
+            }
+        },
+        {
+            "Title": {
+                "CH": "角色晋阶",
+                "EN": "Character Ascension"
+            },
+            "Voice": {
+                "CH": "还未到止步的时候。",
+                "EN": "I'm not done yet."
+            }
+        },
+        {
+            "Title": {
+                "CH": "角色满级",
+                "EN": "Max Level Reached"
+            },
+            "Voice": {
+                "CH": "旅程…不会结束。",
+                "EN": "Journeys never end."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」行迹激活",
+                "EN": "Destruction Trace Activation"
+            },
+            "Voice": {
+                "CH": "这就是…我的意志。",
+                "EN": "This is... my will."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」行迹激活",
+                "EN": "Preservation Trace Activation"
+            },
+            "Voice": {
+                "CH": "「存护」…由行动来决定。",
+                "EN": "Preservation is determined by our actions."
+            }
+        },
+        {
+            "Title": {
+                "CH": "队伍编成 · 三月七",
+                "EN": "Added to Team With March 7th"
+            },
+            "Voice": {
+                "CH": "反击就靠你了，三月。我相信你。",
+                "EN": "March, lead the counterattack. I believe in you."
+            }
+        },
+        {
+            "Title": {
+                "CH": "队伍编成 · 丹恒",
+                "EN": "Added to Team With Dan Heng"
+            },
+            "Voice": {
+                "CH": "丹恒，我们速战速决。",
+                "EN": "Dan Heng, let's make this quick."
+            }
+        },
+        {
+            "Title": {
+                "CH": "队伍编成 · 丹恒 · 饮月",
+                "EN": "Added to Team With Dan Heng • Imbibitor Lunae"
+            },
+            "Voice": {
+                "CH": "就像平时那样，丹恒，我们速战速决。",
+                "EN": "Like always, Dan Heng, let's make this quick!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "队伍编成 · 姬子",
+                "EN": "Added to Team With Himeko"
+            },
+            "Voice": {
+                "CH": "这次也拜托姬子小姐收尾了。",
+                "EN": "I'm counting on you to wrap this up, Himeko."
+            }
+        },
+        {
+            "Title": {
+                "CH": "队伍编成 · 瓦尔特",
+                "EN": "Added to Team With Welt"
+            },
+            "Voice": {
+                "CH": "放心交给我吧，杨叔…咳，瓦尔特先生。",
+                "EN": "I'm on it, Wel—... Ahem, Mr. Yang."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」战斗开始 · 弱点击破",
+                "EN": "Battle Begins: Weakness Break (Destruction)"
+            },
+            "Voice": {
+                "CH": "机不可失。",
+                "EN": "This is our chance."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」战斗开始 · 危险预警",
+                "EN": "Battle Begins: Danger Alert (Destruction)"
+            },
+            "Voice": {
+                "CH": "警惕起来。",
+                "EN": "Stay alert."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」回合开始 · 一",
+                "EN": "Turn Begins 1 (Destruction)"
+            },
+            "Voice": {
+                "CH": "要开始了。",
+                "EN": "Let's go."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」回合开始 · 二",
+                "EN": "Turn Begins 2 (Destruction)"
+            },
+            "Voice": {
+                "CH": "速战速决吧。",
+                "EN": "Let's make it quick."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」回合待机",
+                "EN": "Turn Idling (Destruction)"
+            },
+            "Voice": {
+                "CH": "下一个是谁？",
+                "EN": "Who's next?"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」普攻",
+                "EN": "Basic ATK (Destruction)"
+            },
+            "Voice": {
+                "CH": "轮到你了。",
+                "EN": "Batter up."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」战技",
+                "EN": "Skill (Destruction)"
+            },
+            "Voice": {
+                "CH": "尝尝这个！",
+                "EN": "Take this!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」轻受击",
+                "EN": "Hit by Light Attack (Destruction)"
+            },
+            "Voice": {
+                "CH": "不痛不痒。",
+                "EN": "Just a scratch."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」重受击",
+                "EN": "Hit by Heavy Attack (Destruction)"
+            },
+            "Voice": {
+                "CH": "还差得远。",
+                "EN": "It'll take more than that."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」终结技 · 激活",
+                "EN": "Ultimate: Activate (Destruction)"
+            },
+            "Voice": {
+                "CH": "规则，就是用来打破的。",
+                "EN": "Rules are made to be broken!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」终结技 · 施放 · 一",
+                "EN": "Ultimate: Unleash 1 (Destruction)"
+            },
+            "Voice": {
+                "CH": "你出局了！",
+                "EN": "You're out!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」终结技 · 施放 · 二",
+                "EN": "Ultimate: Unleash 2 (Destruction)"
+            },
+            "Voice": {
+                "CH": "我来送你上路。",
+                "EN": "You've outstayed your welcome!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」终结技 · 施放 · 三",
+                "EN": "Ultimate: Unleash 3 (Destruction)"
+            },
+            "Voice": {
+                "CH": "致胜一击！",
+                "EN": "Decisive strike!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」无法战斗",
+                "EN": "Downed (Destruction)"
+            },
+            "Voice": {
+                "CH": "是我…输了……",
+                "EN": "So this is... defeat..."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」重回战斗",
+                "EN": "Return to Battle (Destruction)"
+            },
+            "Voice": {
+                "CH": "开始第二轮吧。",
+                "EN": "One more at bat."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」回复生命",
+                "EN": "Health Recovery (Destruction)"
+            },
+            "Voice": {
+                "CH": "好多了。",
+                "EN": "Much better."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」秘技",
+                "EN": "Technique (Destruction)"
+            },
+            "Voice": {
+                "CH": "再坚持一下。",
+                "EN": "Keep at it."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」战斗开始 · 弱点击破",
+                "EN": "Weakness Break (Preservation)"
+            },
+            "Voice": {
+                "CH": "进攻的时机来了。",
+                "EN": "Time to go on the offensive."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」战斗开始 · 危险预警",
+                "EN": "Battle Begins: Danger Alert (Preservation)"
+            },
+            "Voice": {
+                "CH": "警惕起来。",
+                "EN": "Stay alert."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」回合开始 · 一",
+                "EN": "Turn Begins 1 (Preservation)"
+            },
+            "Voice": {
+                "CH": "骑枪，备战。",
+                "EN": "Lance at the ready."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」回合开始 · 二",
+                "EN": "Turn Begins 2 (Preservation)"
+            },
+            "Voice": {
+                "CH": "我来守护。",
+                "EN": "I'm on guard."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」回合待机",
+                "EN": "Turn Idling (Preservation)"
+            },
+            "Voice": {
+                "CH": "战势拖得太久了。",
+                "EN": "Don't lose momentum."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」普攻",
+                "EN": "Basic ATK (Preservation)"
+            },
+            "Voice": {
+                "CH": "贯穿！",
+                "EN": "To the finish!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」强化普攻",
+                "EN": "Enhanced Basic ATK (Preservation)"
+            },
+            "Voice": {
+                "CH": "裂地！",
+                "EN": "Fracture!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」战技 · 一",
+                "EN": "Skill 1 (Preservation)"
+            },
+            "Voice": {
+                "CH": "坚不可摧。",
+                "EN": "Indestructible."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」战技 · 二",
+                "EN": "Skill 2 (Preservation)"
+            },
+            "Voice": {
+                "CH": "以强援弱。",
+                "EN": "Defend the weak."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」轻受击",
+                "EN": "Hit by Light Attack (Preservation)"
+            },
+            "Voice": {
+                "CH": "毫发无伤。",
+                "EN": "Not a scratch."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」重受击",
+                "EN": "Hit by Heavy Attack (Preservation)"
+            },
+            "Voice": {
+                "CH": "我…没事。",
+                "EN": "I'm... okay."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」终结技 · 激活",
+                "EN": "Ultimate: Activate (Preservation)"
+            },
+            "Voice": {
+                "CH": "枪尖已经点燃。",
+                "EN": "Lance ablaze."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」终结技 · 施放",
+                "EN": "Ultimate: Unleash (Preservation)"
+            },
+            "Voice": {
+                "CH": "炎枪！冲锋！",
+                "EN": "Flaming lance! Forward!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」无法战斗",
+                "EN": "Downed (Preservation)"
+            },
+            "Voice": {
+                "CH": "我…必须坚持…",
+                "EN": "I have to keep... going..."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」重回战斗",
+                "EN": "Return to Battle (Preservation)"
+            },
+            "Voice": {
+                "CH": "我绝不后退。",
+                "EN": "I won't fall back."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」回复生命",
+                "EN": "Health Recovery (Preservation)"
+            },
+            "Voice": {
+                "CH": "配合得不错。",
+                "EN": "Nice teamwork."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」秘技",
+                "EN": "Technique (Preservation)"
+            },
+            "Voice": {
+                "CH": "存护之志！",
+                "EN": "Will of Preservation!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "战斗胜利",
+                "EN": "Battle Won"
+            },
+            "Voice": {
+                "CH": "以自己的意志，抵达结局吧。",
+                "EN": "Reach the end of the story in your own way."
+            }
+        },
+        {
+            "Title": {
+                "CH": "开启战利品 · 一",
+                "EN": "Treasure Opening 1"
+            },
+            "Voice": {
+                "CH": "看起来不错。",
+                "EN": "Looks good."
+            }
+        },
+        {
+            "Title": {
+                "CH": "开启战利品 · 二",
+                "EN": "Treasure Opening 2"
+            },
+            "Voice": {
+                "CH": "这就见底了？",
+                "EN": "Is that all?"
+            }
+        },
+        {
+            "Title": {
+                "CH": "开启贵重战利品",
+                "EN": "Precious Treasure Opening"
+            },
+            "Voice": {
+                "CH": "好，多多益善。",
+                "EN": "Great, the more the better."
+            }
+        },
+        {
+            "Title": {
+                "CH": "解谜成功 · 一",
+                "EN": "Successful Puzzle-Solving 1"
+            },
+            "Voice": {
+                "CH": "原来是这样么……",
+                "EN": "So that's how it works..."
+            }
+        },
+        {
+            "Title": {
+                "CH": "解谜成功 · 二",
+                "EN": "Successful Puzzle-Solving 2"
+            },
+            "Voice": {
+                "CH": "还难不倒我。",
+                "EN": "No match for me!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "发现敌方目标",
+                "EN": "Enemy Target Found"
+            },
+            "Voice": {
+                "CH": "想想该怎么对付它。",
+                "EN": "We need a strategy."
+            }
+        },
+        {
+            "Title": {
+                "CH": "返回城镇",
+                "EN": "Returning to Town"
+            },
+            "Voice": {
+                "CH": "时间还早，现在去哪？",
+                "EN": "It's getting late. Where to now?"
+            }
+        }
+    ],
+    "8005": [
+        {
+            "Title": {
+                "CH": "回忆 · 关于自己",
+                "EN": "Memory: About Self"
+            },
+            "Voice": {
+                "CH": "当有机会做出选择的时候，不要让自己后悔……",
+                "EN": "When there is the chance to make a choice, make one that you know you won't regret..."
+            }
+        },
+        {
+            "Title": {
+                "CH": "回忆 · 列车",
+                "EN": "Memory: The Express"
+            },
+            "Voice": {
+                "CH": "如果没有选择登上列车，我会度过怎样的一生…不，不会有如果。",
+                "EN": "What kind of a life would I have lived if I didn't choose to board the Express... No, there is no such possibility."
+            }
+        },
+        {
+            "Title": {
+                "CH": "回忆 · 帕姆",
+                "EN": "Memory: Pom-Pom"
+            },
+            "Voice": {
+                "CH": "虽然嘴上说着不高兴，身体的反应还是很真实的。还是多去找找帕姆吧！",
+                "EN": "They may sound annoyed, but their body language is more honest. I should visit Pom-Pom more often."
+            }
+        },
+        {
+            "Title": {
+                "CH": "回忆 · 空间站「黑塔」",
+                "EN": "Memory: Herta Space Station"
+            },
+            "Voice": {
+                "CH": "我的武器也是空间站的奇物之一，虽然不知道它的来历——但被黑塔女士看中，一定有其重要之处。",
+                "EN": "My weapon is also one of the Curios of the space station. I don't know where it came from, but it must be important if it appeals to Madam Herta."
+            }
+        },
+        {
+            "Title": {
+                "CH": "回忆 · 「毁灭」",
+                "EN": "Memory: Destruction"
+            },
+            "Voice": {
+                "CH": "「毁灭」的意志究竟从何而来，真的是因为体内的星核么……",
+                "EN": "Just where did the will of Destruction come from? Was it really because of the Stellaron within me...?"
+            }
+        },
+        {
+            "Title": {
+                "CH": "回忆 · 贝洛伯格",
+                "EN": "Memory: Belobog"
+            },
+            "Voice": {
+                "CH": "贝洛伯格的人们和我一样，也是第一次看到这颗星球上原生的那片天空。",
+                "EN": "Just like me, the people of Belobog are also seeing the native sky of this planet for the first time."
+            }
+        },
+        {
+            "Title": {
+                "CH": "回忆 · 「存护」",
+                "EN": "Memory: Preservation"
+            },
+            "Voice": {
+                "CH": "「存护」的种子一直都在贝洛伯格，我只是重新唤起了这座城市生存的意志…即使微弱，它也未到熄灭的时刻。",
+                "EN": "The seed of Preservation has always been within Belobog, and I simply re-ignited this city's will to live... That will may be weak, but this was not the time for it to go out."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」星魂激活",
+                "EN": "Destruction Eidolon Activation"
+            },
+            "Voice": {
+                "CH": "选择，并非像看上去那般遥不可及。",
+                "EN": "Choice isn't as elusive as it seems."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」星魂激活",
+                "EN": "Preservation Eidolon Activation"
+            },
+            "Voice": {
+                "CH": "选择的价值，因坚定的意志而可贵。",
+                "EN": "The value of choice lies in unwavering resolve."
+            }
+        },
+        {
+            "Title": {
+                "CH": "角色晋阶",
+                "EN": "Character Ascension"
+            },
+            "Voice": {
+                "CH": "还未到止步的时候。",
+                "EN": "I'm not done yet."
+            }
+        },
+        {
+            "Title": {
+                "CH": "角色满级",
+                "EN": "Max Level Reached"
+            },
+            "Voice": {
+                "CH": "旅程…不会结束。",
+                "EN": "Journeys never end."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」行迹激活",
+                "EN": "Destruction Trace Activation"
+            },
+            "Voice": {
+                "CH": "这就是…我的意志。",
+                "EN": "This is... my will."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」行迹激活",
+                "EN": "Preservation Trace Activation"
+            },
+            "Voice": {
+                "CH": "「存护」…由行动来决定。",
+                "EN": "Preservation is determined by our actions."
+            }
+        },
+        {
+            "Title": {
+                "CH": "队伍编成 · 三月七",
+                "EN": "Added to Team With March 7th"
+            },
+            "Voice": {
+                "CH": "反击就靠你了，三月。我相信你。",
+                "EN": "March, lead the counterattack. I believe in you."
+            }
+        },
+        {
+            "Title": {
+                "CH": "队伍编成 · 丹恒",
+                "EN": "Added to Team With Dan Heng"
+            },
+            "Voice": {
+                "CH": "丹恒，我们速战速决。",
+                "EN": "Dan Heng, let's make this quick."
+            }
+        },
+        {
+            "Title": {
+                "CH": "队伍编成 · 丹恒 · 饮月",
+                "EN": "Added to Team With Dan Heng • Imbibitor Lunae"
+            },
+            "Voice": {
+                "CH": "就像平时那样，丹恒，我们速战速决。",
+                "EN": "Like always, Dan Heng, let's make this quick!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "队伍编成 · 姬子",
+                "EN": "Added to Team With Himeko"
+            },
+            "Voice": {
+                "CH": "这次也拜托姬子小姐收尾了。",
+                "EN": "I'm counting on you to wrap this up, Himeko."
+            }
+        },
+        {
+            "Title": {
+                "CH": "队伍编成 · 瓦尔特",
+                "EN": "Added to Team With Welt"
+            },
+            "Voice": {
+                "CH": "放心交给我吧，杨叔…咳，瓦尔特先生。",
+                "EN": "I'm on it, Wel—... Ahem, Mr. Yang."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」战斗开始 · 弱点击破",
+                "EN": "Battle Begins: Weakness Break (Destruction)"
+            },
+            "Voice": {
+                "CH": "机不可失。",
+                "EN": "This is our chance."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」战斗开始 · 危险预警",
+                "EN": "Battle Begins: Danger Alert (Destruction)"
+            },
+            "Voice": {
+                "CH": "警惕起来。",
+                "EN": "Stay alert."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」回合开始 · 一",
+                "EN": "Turn Begins 1 (Destruction)"
+            },
+            "Voice": {
+                "CH": "要开始了。",
+                "EN": "Let's go."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」回合开始 · 二",
+                "EN": "Turn Begins 2 (Destruction)"
+            },
+            "Voice": {
+                "CH": "速战速决吧。",
+                "EN": "Let's make it quick."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」回合待机",
+                "EN": "Turn Idling (Destruction)"
+            },
+            "Voice": {
+                "CH": "下一个是谁？",
+                "EN": "Who's next?"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」普攻",
+                "EN": "Basic ATK (Destruction)"
+            },
+            "Voice": {
+                "CH": "轮到你了。",
+                "EN": "Batter up."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」战技",
+                "EN": "Skill (Destruction)"
+            },
+            "Voice": {
+                "CH": "尝尝这个！",
+                "EN": "How about this!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」轻受击",
+                "EN": "Hit by Light Attack (Destruction)"
+            },
+            "Voice": {
+                "CH": "不痛不痒。",
+                "EN": "Just a scratch."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」重受击",
+                "EN": "Hit by Heavy Attack (Destruction)"
+            },
+            "Voice": {
+                "CH": "还差得远。",
+                "EN": "It'll take more than that."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」终结技 · 激活",
+                "EN": "Ultimate: Activate (Destruction)"
+            },
+            "Voice": {
+                "CH": "规则，就是用来打破的。",
+                "EN": "Rules are made to be broken!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」终结技 · 施放 · 一",
+                "EN": "Ultimate: Unleash 1 (Destruction)"
+            },
+            "Voice": {
+                "CH": "你出局了！",
+                "EN": "You're out!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」终结技 · 施放 · 二",
+                "EN": "Ultimate: Unleash 2 (Destruction)"
+            },
+            "Voice": {
+                "CH": "我来送你上路。",
+                "EN": "You've outstayed your welcome!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」终结技 · 施放 · 三",
+                "EN": "Ultimate: Unleash 3 (Destruction)"
+            },
+            "Voice": {
+                "CH": "致胜一击！",
+                "EN": "Decisive strike!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」无法战斗",
+                "EN": "Downed (Destruction)"
+            },
+            "Voice": {
+                "CH": "是我…输了……",
+                "EN": "So this is... defeat..."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」重回战斗",
+                "EN": "Return to Battle (Destruction)"
+            },
+            "Voice": {
+                "CH": "开始第二轮吧。",
+                "EN": "One more at bat."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」回复生命",
+                "EN": "Health Recovery (Destruction)"
+            },
+            "Voice": {
+                "CH": "好多了。",
+                "EN": "Much better."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」秘技",
+                "EN": "Technique (Destruction)"
+            },
+            "Voice": {
+                "CH": "再坚持一下。",
+                "EN": "Keep at it."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」战斗开始 · 弱点击破",
+                "EN": "Weakness Break (Preservation)"
+            },
+            "Voice": {
+                "CH": "进攻的时机来了。",
+                "EN": "Time to go on the offensive."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」战斗开始 · 危险预警",
+                "EN": "Battle Begins: Danger Alert (Preservation)"
+            },
+            "Voice": {
+                "CH": "警惕起来。",
+                "EN": "Stay alert."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」回合开始 · 一",
+                "EN": "Turn Begins 1 (Preservation)"
+            },
+            "Voice": {
+                "CH": "骑枪，备战。",
+                "EN": "Lance at the ready."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」回合开始 · 二",
+                "EN": "Turn Begins 2 (Preservation)"
+            },
+            "Voice": {
+                "CH": "我来守护。",
+                "EN": "I'm on guard."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」回合待机",
+                "EN": "Turn Idling (Preservation)"
+            },
+            "Voice": {
+                "CH": "战势拖得太久了。",
+                "EN": "Don't lose momentum."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」普攻",
+                "EN": "Basic ATK (Preservation)"
+            },
+            "Voice": {
+                "CH": "贯穿！",
+                "EN": "To the finish!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」强化普攻",
+                "EN": "Enhanced Basic ATK (Preservation)"
+            },
+            "Voice": {
+                "CH": "裂地！",
+                "EN": "Fracture!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」战技 · 一",
+                "EN": "Skill 1 (Preservation)"
+            },
+            "Voice": {
+                "CH": "坚不可摧。",
+                "EN": "Indestructible."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」战技 · 二",
+                "EN": "Skill 2 (Preservation)"
+            },
+            "Voice": {
+                "CH": "以强援弱。",
+                "EN": "Defend the weak."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」轻受击",
+                "EN": "Hit by Light Attack (Preservation)"
+            },
+            "Voice": {
+                "CH": "毫发无伤。",
+                "EN": "Not a scratch."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」重受击",
+                "EN": "Hit by Heavy Attack (Preservation)"
+            },
+            "Voice": {
+                "CH": "我…没事。",
+                "EN": "I'm... okay."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」终结技 · 激活",
+                "EN": "Ultimate: Activate (Preservation)"
+            },
+            "Voice": {
+                "CH": "枪尖已经点燃。",
+                "EN": "Lance ablaze."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」终结技 · 施放",
+                "EN": "Ultimate: Unleash (Preservation)"
+            },
+            "Voice": {
+                "CH": "炎枪！冲锋！",
+                "EN": "Flaming lance! Forward!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」无法战斗",
+                "EN": "Downed (Preservation)"
+            },
+            "Voice": {
+                "CH": "我…必须坚持…",
+                "EN": "I... have to keep going..."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」重回战斗",
+                "EN": "Return to Battle (Preservation)"
+            },
+            "Voice": {
+                "CH": "我绝不后退。",
+                "EN": "I won't fall back."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」回复生命",
+                "EN": "Health Recovery (Preservation)"
+            },
+            "Voice": {
+                "CH": "配合得不错。",
+                "EN": "Nice teamwork."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」秘技",
+                "EN": "Technique (Preservation)"
+            },
+            "Voice": {
+                "CH": "存护之志！",
+                "EN": "Will of Preservation!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "战斗胜利",
+                "EN": "Battle Won"
+            },
+            "Voice": {
+                "CH": "以自己的意志，抵达结局吧。",
+                "EN": "Reach the end of the story in your own way."
+            }
+        },
+        {
+            "Title": {
+                "CH": "开启战利品 · 一",
+                "EN": "Treasure Opening 1"
+            },
+            "Voice": {
+                "CH": "看起来不错。",
+                "EN": "Looks good."
+            }
+        },
+        {
+            "Title": {
+                "CH": "开启战利品 · 二",
+                "EN": "Treasure Opening 2"
+            },
+            "Voice": {
+                "CH": "这就见底了？",
+                "EN": "Is that all?"
+            }
+        },
+        {
+            "Title": {
+                "CH": "开启贵重战利品",
+                "EN": "Precious Treasure Opening"
+            },
+            "Voice": {
+                "CH": "好，多多益善。",
+                "EN": "Great, the more the better."
+            }
+        },
+        {
+            "Title": {
+                "CH": "解谜成功 · 一",
+                "EN": "Successful Puzzle-Solving 1"
+            },
+            "Voice": {
+                "CH": "原来是这样么……",
+                "EN": "So that's how it works..."
+            }
+        },
+        {
+            "Title": {
+                "CH": "解谜成功 · 二",
+                "EN": "Successful Puzzle-Solving 2"
+            },
+            "Voice": {
+                "CH": "还难不倒我。",
+                "EN": "No match for me!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "发现敌方目标",
+                "EN": "Enemy Target Found"
+            },
+            "Voice": {
+                "CH": "想想该怎么对付它。",
+                "EN": "We need a strategy."
+            }
+        },
+        {
+            "Title": {
+                "CH": "返回城镇",
+                "EN": "Returning to Town"
+            },
+            "Voice": {
+                "CH": "时间还早，现在去哪？",
+                "EN": "It's getting late. Where to now?"
+            }
+        }
+    ],
+    "8006": [
+        {
+            "Title": {
+                "CH": "回忆 · 关于自己",
+                "EN": "Memory: About Self"
+            },
+            "Voice": {
+                "CH": "当有机会做出选择的时候，不要让自己后悔……",
+                "EN": "When there is the chance to make a choice, make one that you know you won't regret..."
+            }
+        },
+        {
+            "Title": {
+                "CH": "回忆 · 列车",
+                "EN": "Memory: The Express"
+            },
+            "Voice": {
+                "CH": "如果没有选择登上列车，我会度过怎样的一生…不，不会有如果。",
+                "EN": "What kind of a life would I have lived if I didn't choose to board the Express... No, there is no such possibility."
+            }
+        },
+        {
+            "Title": {
+                "CH": "回忆 · 帕姆",
+                "EN": "Memory: Pom-Pom"
+            },
+            "Voice": {
+                "CH": "虽然嘴上说着不高兴，身体的反应还是很真实的。还是多去找找帕姆吧！",
+                "EN": "They may sound annoyed, but their body language is more honest. I should visit Pom-Pom more often."
+            }
+        },
+        {
+            "Title": {
+                "CH": "回忆 · 空间站「黑塔」",
+                "EN": "Memory: Herta Space Station"
+            },
+            "Voice": {
+                "CH": "我的武器也是空间站的奇物之一，虽然不知道它的来历——但被黑塔女士看中，一定有其重要之处。",
+                "EN": "My weapon is also one of the Curios of the space station. I don't know where it came from, but it must be important if it appeals to Madam Herta."
+            }
+        },
+        {
+            "Title": {
+                "CH": "回忆 · 「毁灭」",
+                "EN": "Memory: Destruction"
+            },
+            "Voice": {
+                "CH": "「毁灭」的意志究竟从何而来，真的是因为体内的星核么……",
+                "EN": "Just where did the will of Destruction come from? Was it really because of the Stellaron within me...?"
+            }
+        },
+        {
+            "Title": {
+                "CH": "回忆 · 贝洛伯格",
+                "EN": "Memory: Belobog"
+            },
+            "Voice": {
+                "CH": "贝洛伯格的人们和我一样，也是第一次看到这颗星球上原生的那片天空。",
+                "EN": "Just like me, the people of Belobog are also seeing the native sky of this planet for the first time."
+            }
+        },
+        {
+            "Title": {
+                "CH": "回忆 · 「存护」",
+                "EN": "Memory: Preservation"
+            },
+            "Voice": {
+                "CH": "「存护」的种子一直都在贝洛伯格，我只是重新唤起了这座城市生存的意志…即使微弱，它也未到熄灭的时刻。",
+                "EN": "The seed of Preservation has always been within Belobog, and I simply re-ignited this city's will to live... That will may be weak, but this was not the time for it to go out."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」星魂激活",
+                "EN": "Destruction Eidolon Activation"
+            },
+            "Voice": {
+                "CH": "选择，并非像看上去那般遥不可及。",
+                "EN": "Choice isn't as elusive as it may appear."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」星魂激活",
+                "EN": "Preservation Eidolon Activation"
+            },
+            "Voice": {
+                "CH": "选择的价值，因坚定的意志而可贵。",
+                "EN": "The value of choice lies in unwavering resolve."
+            }
+        },
+        {
+            "Title": {
+                "CH": "角色晋阶",
+                "EN": "Character Ascension"
+            },
+            "Voice": {
+                "CH": "还未到止步的时候。",
+                "EN": "I'm not done yet."
+            }
+        },
+        {
+            "Title": {
+                "CH": "角色满级",
+                "EN": "Max Level Reached"
+            },
+            "Voice": {
+                "CH": "旅程…不会结束。",
+                "EN": "Journeys never end."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」行迹激活",
+                "EN": "Destruction Trace Activation"
+            },
+            "Voice": {
+                "CH": "这就是…我的意志。",
+                "EN": "This is... my will."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」行迹激活",
+                "EN": "Preservation Trace Activation"
+            },
+            "Voice": {
+                "CH": "「存护」…由行动来决定。",
+                "EN": "Preservation is determined by our actions."
+            }
+        },
+        {
+            "Title": {
+                "CH": "队伍编成 · 三月七",
+                "EN": "Added to Team With March 7th"
+            },
+            "Voice": {
+                "CH": "反击就靠你了，三月。我相信你。",
+                "EN": "March, lead the counterattack. I believe in you."
+            }
+        },
+        {
+            "Title": {
+                "CH": "队伍编成 · 丹恒",
+                "EN": "Added to Team With Dan Heng"
+            },
+            "Voice": {
+                "CH": "丹恒，我们速战速决。",
+                "EN": "Dan Heng, let's make this quick."
+            }
+        },
+        {
+            "Title": {
+                "CH": "队伍编成 · 丹恒 · 饮月",
+                "EN": "Added to Team With Dan Heng • Imbibitor Lunae"
+            },
+            "Voice": {
+                "CH": "就像平时那样，丹恒，我们速战速决。",
+                "EN": "Like always, Dan Heng, let's make this quick!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "队伍编成 · 姬子",
+                "EN": "Added to Team With Himeko"
+            },
+            "Voice": {
+                "CH": "这次也拜托姬子小姐收尾了。",
+                "EN": "I'm counting on you to wrap this up, Himeko."
+            }
+        },
+        {
+            "Title": {
+                "CH": "队伍编成 · 瓦尔特",
+                "EN": "Added to Team With Welt"
+            },
+            "Voice": {
+                "CH": "放心交给我吧，杨叔…咳，瓦尔特先生。",
+                "EN": "I'm on it, Wel—... Ahem, Mr. Yang."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」战斗开始 · 弱点击破",
+                "EN": "Battle Begins: Weakness Break (Destruction)"
+            },
+            "Voice": {
+                "CH": "机不可失。",
+                "EN": "This is our chance."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」战斗开始 · 危险预警",
+                "EN": "Battle Begins: Danger Alert (Destruction)"
+            },
+            "Voice": {
+                "CH": "警惕起来。",
+                "EN": "Stay alert."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」回合开始 · 一",
+                "EN": "Turn Begins 1 (Destruction)"
+            },
+            "Voice": {
+                "CH": "要开始了。",
+                "EN": "Let's go."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」回合开始 · 二",
+                "EN": "Turn Begins 2 (Destruction)"
+            },
+            "Voice": {
+                "CH": "速战速决吧。",
+                "EN": "Let's make it quick."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」回合待机",
+                "EN": "Turn Idling (Destruction)"
+            },
+            "Voice": {
+                "CH": "下一个是谁？",
+                "EN": "Who's next?"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」普攻",
+                "EN": "Basic ATK (Destruction)"
+            },
+            "Voice": {
+                "CH": "轮到你了。",
+                "EN": "Batter up."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」战技",
+                "EN": "Skill (Destruction)"
+            },
+            "Voice": {
+                "CH": "尝尝这个！",
+                "EN": "Take this!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」轻受击",
+                "EN": "Hit by Light Attack (Destruction)"
+            },
+            "Voice": {
+                "CH": "不痛不痒。",
+                "EN": "Just a scratch."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」重受击",
+                "EN": "Hit by Heavy Attack (Destruction)"
+            },
+            "Voice": {
+                "CH": "还差得远。",
+                "EN": "It'll take more than that."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」终结技 · 激活",
+                "EN": "Ultimate: Activate (Destruction)"
+            },
+            "Voice": {
+                "CH": "规则，就是用来打破的。",
+                "EN": "Rules are made to be broken!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」终结技 · 施放 · 一",
+                "EN": "Ultimate: Unleash 1 (Destruction)"
+            },
+            "Voice": {
+                "CH": "你出局了！",
+                "EN": "You're out!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」终结技 · 施放 · 二",
+                "EN": "Ultimate: Unleash 2 (Destruction)"
+            },
+            "Voice": {
+                "CH": "我来送你上路。",
+                "EN": "You've outstayed your welcome!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」终结技 · 施放 · 三",
+                "EN": "Ultimate: Unleash 3 (Destruction)"
+            },
+            "Voice": {
+                "CH": "致胜一击！",
+                "EN": "Decisive strike!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」无法战斗",
+                "EN": "Downed (Destruction)"
+            },
+            "Voice": {
+                "CH": "是我…输了……",
+                "EN": "So this is... defeat..."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」重回战斗",
+                "EN": "Return to Battle (Destruction)"
+            },
+            "Voice": {
+                "CH": "开始第二轮吧。",
+                "EN": "One more at bat."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」回复生命",
+                "EN": "Health Recovery (Destruction)"
+            },
+            "Voice": {
+                "CH": "好多了。",
+                "EN": "Much better."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「毁灭」秘技",
+                "EN": "Technique (Destruction)"
+            },
+            "Voice": {
+                "CH": "再坚持一下。",
+                "EN": "Keep at it."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」战斗开始 · 弱点击破",
+                "EN": "Weakness Break (Preservation)"
+            },
+            "Voice": {
+                "CH": "进攻的时机来了。",
+                "EN": "Time to go on the offensive."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」战斗开始 · 危险预警",
+                "EN": "Battle Begins: Danger Alert (Preservation)"
+            },
+            "Voice": {
+                "CH": "警惕起来。",
+                "EN": "Stay alert."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」回合开始 · 一",
+                "EN": "Turn Begins 1 (Preservation)"
+            },
+            "Voice": {
+                "CH": "骑枪，备战。",
+                "EN": "Lance at the ready."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」回合开始 · 二",
+                "EN": "Turn Begins 2 (Preservation)"
+            },
+            "Voice": {
+                "CH": "我来守护。",
+                "EN": "I'm on guard."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」回合待机",
+                "EN": "Turn Idling (Preservation)"
+            },
+            "Voice": {
+                "CH": "战势拖得太久了。",
+                "EN": "Don't lose momentum."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」普攻",
+                "EN": "Basic ATK (Preservation)"
+            },
+            "Voice": {
+                "CH": "贯穿！",
+                "EN": "To the finish!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」强化普攻",
+                "EN": "Enhanced Basic ATK (Preservation)"
+            },
+            "Voice": {
+                "CH": "裂地！",
+                "EN": "Fracture!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」战技 · 一",
+                "EN": "Skill 1 (Preservation)"
+            },
+            "Voice": {
+                "CH": "坚不可摧。",
+                "EN": "Indestructible."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」战技 · 二",
+                "EN": "Skill 2 (Preservation)"
+            },
+            "Voice": {
+                "CH": "以强援弱。",
+                "EN": "Defend the weak."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」轻受击",
+                "EN": "Hit by Light Attack (Preservation)"
+            },
+            "Voice": {
+                "CH": "毫发无伤。",
+                "EN": "Not a scratch."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」重受击",
+                "EN": "Hit by Heavy Attack (Preservation)"
+            },
+            "Voice": {
+                "CH": "我…没事。",
+                "EN": "I'm... okay."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」终结技 · 激活",
+                "EN": "Ultimate: Activate (Preservation)"
+            },
+            "Voice": {
+                "CH": "枪尖已经点燃。",
+                "EN": "Lance ablaze."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」终结技 · 施放",
+                "EN": "Ultimate: Unleash (Preservation)"
+            },
+            "Voice": {
+                "CH": "炎枪！冲锋！",
+                "EN": "Flaming lance! Forward!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」无法战斗",
+                "EN": "Downed (Preservation)"
+            },
+            "Voice": {
+                "CH": "我…必须坚持…",
+                "EN": "I have to keep... going..."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」重回战斗",
+                "EN": "Return to Battle (Preservation)"
+            },
+            "Voice": {
+                "CH": "我绝不后退。",
+                "EN": "I won't fall back."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」回复生命",
+                "EN": "Health Recovery (Preservation)"
+            },
+            "Voice": {
+                "CH": "配合得不错。",
+                "EN": "Nice teamwork."
+            }
+        },
+        {
+            "Title": {
+                "CH": "「存护」秘技",
+                "EN": "Technique (Preservation)"
+            },
+            "Voice": {
+                "CH": "存护之志！",
+                "EN": "Will of Preservation!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "战斗胜利",
+                "EN": "Battle Won"
+            },
+            "Voice": {
+                "CH": "以自己的意志，抵达结局吧。",
+                "EN": "Reach the end of the story in your own way."
+            }
+        },
+        {
+            "Title": {
+                "CH": "开启战利品 · 一",
+                "EN": "Treasure Opening 1"
+            },
+            "Voice": {
+                "CH": "看起来不错。",
+                "EN": "Looks good."
+            }
+        },
+        {
+            "Title": {
+                "CH": "开启战利品 · 二",
+                "EN": "Treasure Opening 2"
+            },
+            "Voice": {
+                "CH": "这就见底了？",
+                "EN": "Is that all?"
+            }
+        },
+        {
+            "Title": {
+                "CH": "开启贵重战利品",
+                "EN": "Precious Treasure Opening"
+            },
+            "Voice": {
+                "CH": "好，多多益善。",
+                "EN": "Great, the more the better."
+            }
+        },
+        {
+            "Title": {
+                "CH": "解谜成功 · 一",
+                "EN": "Successful Puzzle-Solving 1"
+            },
+            "Voice": {
+                "CH": "原来是这样么……",
+                "EN": "So that's how it works..."
+            }
+        },
+        {
+            "Title": {
+                "CH": "解谜成功 · 二",
+                "EN": "Successful Puzzle-Solving 2"
+            },
+            "Voice": {
+                "CH": "还难不倒我。",
+                "EN": "No match for me!"
+            }
+        },
+        {
+            "Title": {
+                "CH": "发现敌方目标",
+                "EN": "Enemy Target Found"
+            },
+            "Voice": {
+                "CH": "想想该怎么对付它。",
+                "EN": "We need a strategy."
+            }
+        },
+        {
+            "Title": {
+                "CH": "返回城镇",
+                "EN": "Returning to Town"
+            },
+            "Voice": {
+                "CH": "时间还早，现在去哪？",
+                "EN": "It's getting late. Where to now?"
+            }
+        }
     ]
 }
 
@@ -78670,8 +81170,11 @@ var _camp = {
 
 var _search_avatar = {
     "9001": 0,
-    "": 1,
+    "黄泉": 0,
+    "ACHERON": 0,
     "9002": 1,
+    "砂金": 1,
+    "AVENTURINE": 1,
     "1306": 2,
     "花火": 2,
     "SPARKLE": 2,
