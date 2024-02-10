@@ -225,7 +225,7 @@ $(function () {
                                         'max-width': '35px',
                                         margin: '0px 5px',
                                     },
-                                    when: t.Path
+                                    when: t.Path != undefined
                                 },
                             ],
                             style: {
@@ -366,7 +366,7 @@ $(function () {
                                         'max-width': '48px',
                                         margin: '0px',
                                     },
-                                    when : t.Path
+                                    when: t.Path != undefined
                                 },
                             ],
                             style: {
@@ -901,14 +901,14 @@ $(function () {
                         class: 'a_section_head stat_ver_choose_wrap'
                     },
                     class: 'a_section',
-                    when: !this_avatar.isDev
+                    when: this_avatar.Rarity
                 },
                 {
                     div: {
                         p: txt.DEV[lang]
                     },
                     class: 'a_section',
-                    when: this_avatar.isDev
+                    when: !this_avatar.Rarity
                 }
             ])
             $('.stat_ver_choose select').val(this_avatar_cur_ver)
