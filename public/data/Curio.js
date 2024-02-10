@@ -484,12 +484,12 @@ var _curio = [
             "EN": "Corrupted Code"
         },
         "Desc": {
-            "CH": "将这段代码修复成正常的奇物需要花费3场战斗\n修复期间，角色击破敌人弱点后，清空自身全部能量\n代码修复后，该奇物能够使角色恢复自身能量",
-            "EN": "Fixing this code into a normal Curio takes 3 battles.\nWhile the code is being fixed, a character loses all their Energy when they Break enemy Weaknesses.\nOnce the code is fixed, this Curio regenerates characters' Energy."
+            "CH": "将这段代码修复成正常的奇物需要花费3场战斗<br>修复期间，角色击破敌人弱点后，清空自身全部能量<br>代码修复后，该奇物能够使角色恢复自身能量",
+            "EN": "Fixing this code into a normal Curio takes 3 battles.<br>While the code is being fixed, a character loses all their Energy when they Break enemy Weaknesses.<br>Once the code is fixed, this Curio regenerates characters' Energy."
         },
         "Story": {
-            "CH": "没有缩进，换行随意，连变量和函数名都是不知所云的缩写…它是如此丑陋，以至于你无法用肉眼确认是否存在错误。\n\n<i>「但万一呢？」</i>",
-            "EN": "There's no indentation, random line breaks, and even the names of variants and functions are incomprehensible abbreviations... It's so ugly to the point that you can't proofread it with the naked eye.\n\n<i>\"But what if it works?\"</i>"
+            "CH": "没有缩进，换行随意，连变量和函数名都是不知所云的缩写…它是如此丑陋，以至于你无法用肉眼确认是否存在错误。<br><br><i>「但万一呢？」</i>",
+            "EN": "There's no indentation, random line breaks, and even the names of variants and functions are incomprehensible abbreviations... It's so ugly to the point that you can't proofread it with the naked eye.<br><br><i>\"But what if it works?\"</i>"
         },
         "Icon": "420001.png",
         "Ver": "1.0"
@@ -505,8 +505,8 @@ var _curio = [
             "EN": "When a character Breaks enemy Weaknesses, they regenerate 40.0 Energy."
         },
         "Story": {
-            "CH": "没有缩进，换行随意，连变量和函数名都是不知所云的缩写…它是如此丑陋，以至于你无法用肉眼确认是否存在错误。\n\n<i>「但万一呢？」</i>",
-            "EN": "There's no indentation, random line breaks, and even the names of variants and functions are incomprehensible abbreviations... It's so ugly to the point that you can't proofread it with the naked eye.\n\n<i>\"But what if it works?\"</i>"
+            "CH": "没有缩进，换行随意，连变量和函数名都是不知所云的缩写…它是如此丑陋，以至于你无法用肉眼确认是否存在错误。<br><br><i>「但万一呢？」</i>",
+            "EN": "There's no indentation, random line breaks, and even the names of variants and functions are incomprehensible abbreviations... It's so ugly to the point that you can't proofread it with the naked eye.<br><br><i>\"But what if it works?\"</i>"
         },
         "Icon": "420001.png",
         "Ver": "1.0"
@@ -518,12 +518,12 @@ var _curio = [
             "EN": "Odd Code"
         },
         "Desc": {
-            "CH": "将这段代码修复成正常的奇物需要花费3场战斗\n修复期间，角色每次施放终结技后，将损失等同于 30.0% 当前生命值的生命值\n代码修复后，该奇物能够使角色回复自身生命值",
-            "EN": "Fixing this code into a normal Curio takes 3 battles.\nWhile the code is being fixed, a character loses 30.0% of their current HP every time they use their Ultimate.\nOnce the code is fixed, this Curio restores HP for characters."
+            "CH": "将这段代码修复成正常的奇物需要花费3场战斗<br>修复期间，角色每次施放终结技后，将损失等同于 30.0% 当前生命值的生命值<br>代码修复后，该奇物能够使角色回复自身生命值",
+            "EN": "Fixing this code into a normal Curio takes 3 battles.<br>While the code is being fixed, a character loses 30.0% of their current HP every time they use their Ultimate.<br>Once the code is fixed, this Curio restores HP for characters."
         },
         "Story": {
-            "CH": "直觉告诉你这代码没什么问题，直觉也告诉你直觉不怎么可信。\n\n<i>「这里好像写了个死循环，但也不是不能跑跑看……」</i>",
-            "EN": "Your instincts tell you that the code should be okay, but they also tell you that your instincts can be wrong.\n\n<i>\"This here looks like an infinite loop, but we can always try to run it anyways...\"</i>"
+            "CH": "直觉告诉你这代码没什么问题，直觉也告诉你直觉不怎么可信。<br><br><i>「这里好像写了个死循环，但也不是不能跑跑看……」</i>",
+            "EN": "Your instincts tell you that the code should be okay, but they also tell you that your instincts can be wrong.<br><br><i>\"This here looks like an infinite loop, but we can always try to run it anyways...\"</i>"
         },
         "Icon": "420002.png",
         "Ver": "1.0"
@@ -539,8 +539,8 @@ var _curio = [
             "EN": "Every time a character uses their Ultimate, they restore HP equal to 30.0% of their Max HP."
         },
         "Story": {
-            "CH": "直觉告诉你这代码没什么问题，直觉也告诉你直觉不怎么可信。\n\n<i>「这里好像写了个死循环，但也不是不能跑跑看……」</i>",
-            "EN": "Your instincts tell you that the code should be okay, but they also tell you that your instincts can be wrong.\n\n<i>\"This here looks like an infinite loop, but we can always try to run it anyways...\"</i>"
+            "CH": "直觉告诉你这代码没什么问题，直觉也告诉你直觉不怎么可信。<br><br><i>「这里好像写了个死循环，但也不是不能跑跑看……」</i>",
+            "EN": "Your instincts tell you that the code should be okay, but they also tell you that your instincts can be wrong.<br><br><i>\"This here looks like an infinite loop, but we can always try to run it anyways...\"</i>"
         },
         "Icon": "420002.png",
         "Ver": "1.0"
@@ -552,12 +552,12 @@ var _curio = [
             "EN": "Normal Code"
         },
         "Desc": {
-            "CH": "将这段代码修复成正常的奇物需要花费3场战斗\n修复期间，角色当前生命值百分比小于 50.0% 时，受到的伤害提高 35.0% \n代码修复后，该奇物能够使角色受到的伤害降低",
-            "EN": "Fixing this code into a normal Curio takes 3 battles.\nWhile the code is being fixed, allies take 35.0% more DMG while their HP percentage is below 50.0% of their Max HP.\nOnce the code is fixed, this Curio reduces DMG taken by allies."
+            "CH": "将这段代码修复成正常的奇物需要花费3场战斗<br>修复期间，角色当前生命值百分比小于 50.0% 时，受到的伤害提高 35.0% <br>代码修复后，该奇物能够使角色受到的伤害降低",
+            "EN": "Fixing this code into a normal Curio takes 3 battles.<br>While the code is being fixed, allies take 35.0% more DMG while their HP percentage is below 50.0% of their Max HP.<br>Once the code is fixed, this Curio reduces DMG taken by allies."
         },
         "Story": {
-            "CH": "这段代码逻辑勉强算是通顺，但作者显然牺牲了时间与空间复杂度。\n\n<i>「没关系，用户反正也看不出区别…如果他觉得卡，我们就说该升级内存了。」</i>",
-            "EN": "This code might get away with its logic, but that is achieved at the expense of time and spacial complexity.\n\n<i>\"It's alright. The users can't tell the difference anyways... If anyone whinges about lag, we just tell them to upgrade their RAM.\"</i>"
+            "CH": "这段代码逻辑勉强算是通顺，但作者显然牺牲了时间与空间复杂度。<br><br><i>「没关系，用户反正也看不出区别…如果他觉得卡，我们就说该升级内存了。」</i>",
+            "EN": "This code might get away with its logic, but that is achieved at the expense of time and spacial complexity.<br><br><i>\"It's alright. The users can't tell the difference anyways... If anyone whinges about lag, we just tell them to upgrade their RAM.\"</i>"
         },
         "Icon": "420003.png",
         "Ver": "1.0"
@@ -573,8 +573,8 @@ var _curio = [
             "EN": "Characters receive 25.0% less DMG while their HP percentage is below 50.0% of their Max HP."
         },
         "Story": {
-            "CH": "这段代码逻辑勉强算是通顺，但作者显然牺牲了时间与空间复杂度。\n\n<i>「没关系，用户反正也看不出区别…如果他觉得卡，我们就说该升级内存了。」</i>",
-            "EN": "This code might get away with its logic, but that is achieved at the expense of time and spacial complexity.\n\n<i>\"It's alright. The users can't tell the difference anyways... If anyone whinges about lag, we just tell them to upgrade their RAM.\"</i>"
+            "CH": "这段代码逻辑勉强算是通顺，但作者显然牺牲了时间与空间复杂度。<br><br><i>「没关系，用户反正也看不出区别…如果他觉得卡，我们就说该升级内存了。」</i>",
+            "EN": "This code might get away with its logic, but that is achieved at the expense of time and spacial complexity.<br><br><i>\"It's alright. The users can't tell the difference anyways... If anyone whinges about lag, we just tell them to upgrade their RAM.\"</i>"
         },
         "Icon": "420003.png",
         "Ver": "1.0"
@@ -586,12 +586,12 @@ var _curio = [
             "EN": "Elegant Code"
         },
         "Desc": {
-            "CH": "将这段代码修复成正常的奇物需要花费3场战斗\n修复期间，角色施放战技后，使随机敌方目标行动提前 35.0% \n代码修复后，该奇物能够使角色自身行动提前",
-            "EN": "Fixing this code into a normal Curio takes 3 battles.\nWhile the code is being fixed, a random enemy's action will be Advanced Forward by 35.0% every time a character uses a Skill.\nOnce the code is fixed, this Curio Advances Forward characters' actions."
+            "CH": "将这段代码修复成正常的奇物需要花费3场战斗<br>修复期间，角色施放战技后，使随机敌方目标行动提前 35.0% <br>代码修复后，该奇物能够使角色自身行动提前",
+            "EN": "Fixing this code into a normal Curio takes 3 battles.<br>While the code is being fixed, a random enemy's action will be Advanced Forward by 35.0% every time a character uses a Skill.<br>Once the code is fixed, this Curio Advances Forward characters' actions."
         },
         "Story": {
-            "CH": "这段代码仅仅阅读都赏心悦目，但携带它的结果依然可怕。\n\n<i>「没有一个字符是多余的…这是艺术。」</i>",
-            "EN": "You'd feel delighted just by reading the code, but taking it with you still bears terrifying consequences.\n\n<i>\"Not a single extra character... This is a piece of art.\"</i>"
+            "CH": "这段代码仅仅阅读都赏心悦目，但携带它的结果依然可怕。<br><br><i>「没有一个字符是多余的…这是艺术。」</i>",
+            "EN": "You'd feel delighted just by reading the code, but taking it with you still bears terrifying consequences.<br><br><i>\"Not a single extra character... This is a piece of art.\"</i>"
         },
         "Icon": "420004.png",
         "Ver": "1.0"
@@ -607,8 +607,8 @@ var _curio = [
             "EN": "After a character uses a Skill, their next action will be advanced forward by 25.0%."
         },
         "Story": {
-            "CH": "这段代码仅仅阅读都赏心悦目，但携带它的结果依然可怕。\n\n<i>「没有一个字符是多余的…这是艺术。」</i>",
-            "EN": "You'd feel delighted just by reading the code, but taking it with you still bears terrifying consequences.\n\n<i>\"Not a single extra character... This is a piece of art.\"</i>"
+            "CH": "这段代码仅仅阅读都赏心悦目，但携带它的结果依然可怕。<br><br><i>「没有一个字符是多余的…这是艺术。」</i>",
+            "EN": "You'd feel delighted just by reading the code, but taking it with you still bears terrifying consequences.<br><br><i>\"Not a single extra character... This is a piece of art.\"</i>"
         },
         "Icon": "420004.png",
         "Ver": "1.0"
@@ -620,12 +620,12 @@ var _curio = [
             "EN": "Mysterious Code"
         },
         "Desc": {
-            "CH": "将这段代码修复成正常的奇物需要花费3场战斗\n修复期间，角色消灭敌方目标后，其他敌方目标造成的伤害提高 35.0% \n代码修复后，该奇物能够使我方全体伤害提高",
-            "EN": "Fixing this code into a normal Curio takes 3 battles.\nWhile the code is being fixed, enemies deal 35.0% more DMG when another enemy unit is defeated by a character.\nOnce the code is fixed, this Curio increases DMG dealt by all allies."
+            "CH": "将这段代码修复成正常的奇物需要花费3场战斗<br>修复期间，角色消灭敌方目标后，其他敌方目标造成的伤害提高 35.0% <br>代码修复后，该奇物能够使我方全体伤害提高",
+            "EN": "Fixing this code into a normal Curio takes 3 battles.<br>While the code is being fixed, enemies deal 35.0% more DMG when another enemy unit is defeated by a character.<br>Once the code is fixed, this Curio increases DMG dealt by all allies."
         },
         "Story": {
-            "CH": "运行它是一种风险，写作它则是一种罪孽。\n\n<i>「这谁写的？我能不能以蓄意伤害罪名起诉他？！」</i>",
-            "EN": "It's a risk to run it, but writing it was a sin.\n\n<i>\"Who wrote this? Can I charge them with deliberate assault?\"</i>"
+            "CH": "运行它是一种风险，写作它则是一种罪孽。<br><br><i>「这谁写的？我能不能以蓄意伤害罪名起诉他？！」</i>",
+            "EN": "It's a risk to run it, but writing it was a sin.<br><br><i>\"Who wrote this? Can I charge them with deliberate assault?\"</i>"
         },
         "Icon": "420005.png",
         "Ver": "1.0"
@@ -641,8 +641,8 @@ var _curio = [
             "EN": "All allies deal 25.0% more DMG after an enemy is defeated."
         },
         "Story": {
-            "CH": "运行它是一种风险，写作它则是一种罪孽。\n\n<i>「这谁写的？我能不能以蓄意伤害罪名起诉他？！」</i>",
-            "EN": "It's a risk to run it, but writing it was a sin.\n\n<i>\"Who wrote this? Can I charge them with deliberate assault?\"</i>"
+            "CH": "运行它是一种风险，写作它则是一种罪孽。<br><br><i>「这谁写的？我能不能以蓄意伤害罪名起诉他？！」</i>",
+            "EN": "It's a risk to run it, but writing it was a sin.<br><br><i>\"Who wrote this? Can I charge them with deliberate assault?\"</i>"
         },
         "Icon": "420005.png",
         "Ver": "1.0"
@@ -654,12 +654,12 @@ var _curio = [
             "EN": "Infinitely Recursive Code"
         },
         "Desc": {
-            "CH": "将这段代码修复成正常的奇物需要花费3场战斗\n修复期间，角色施放战技后会额外消耗 1.0 点战技点\n代码修复后，该奇物能够使角色施放普攻额外恢复战技点",
-            "EN": "Fixing this code into a normal Curio takes 3 battles.\nWhile the code is being fixed, each time after a character uses a Skill, they consume 1.0 extra Skill Points.\nOnce the code is fixed, this Curio makes characters' Basic ATK recover extra Skill Points."
+            "CH": "将这段代码修复成正常的奇物需要花费3场战斗<br>修复期间，角色施放战技后会额外消耗 1.0 点战技点<br>代码修复后，该奇物能够使角色施放普攻额外恢复战技点",
+            "EN": "Fixing this code into a normal Curio takes 3 battles.<br>While the code is being fixed, each time after a character uses a Skill, they consume 1.0 extra Skill Points.<br>Once the code is fixed, this Curio makes characters' Basic ATK recover extra Skill Points."
         },
         "Story": {
-            "CH": "你十分确定运行这段代码会导致栈溢出，填满存储空间。\n但这么做能让你收获大量宇宙碎片，所以何乐而不为呢？\n\n<i>「伟大的机械公爵呵，我不明白你为什么允许这种代码存在于我们完美的项目中！」\n「前提：完美与错谬相悖。提问：现实宇宙是完美的吗？答案：否定。结论：模拟宇宙不应完美，模拟宇宙需要错谬。」</i>",
-            "EN": "You are almost certain that running this will cause stack overflow, eating up all available memory.\nBut doing so will give you loads of Cosmic Fragments, so why not?\n\n<i>\"My almighty Mechanical Duke, I do not understand why you tolerate such heinous codes in our impeccable project!\"\n\"Premise: Perfection is the opposite of mistakes. Question: Is the real universe perfect? Answer: Negative. Conclusion: Simulated Universe should not be perfect. It must allow mistakes.\"</i>"
+            "CH": "你十分确定运行这段代码会导致栈溢出，填满存储空间。<br>但这么做能让你收获大量宇宙碎片，所以何乐而不为呢？<br><br><i>「伟大的机械公爵呵，我不明白你为什么允许这种代码存在于我们完美的项目中！」<br>「前提：完美与错谬相悖。提问：现实宇宙是完美的吗？答案：否定。结论：模拟宇宙不应完美，模拟宇宙需要错谬。」</i>",
+            "EN": "You are almost certain that running this will cause stack overflow, eating up all available memory.<br>But doing so will give you loads of Cosmic Fragments, so why not?<br><br><i>\"My almighty Mechanical Duke, I do not understand why you tolerate such heinous codes in our impeccable project!\"<br>\"Premise: Perfection is the opposite of mistakes. Question: Is the real universe perfect? Answer: Negative. Conclusion: Simulated Universe should not be perfect. It must allow mistakes.\"</i>"
         },
         "Icon": "420006.png",
         "Ver": "1.0"
@@ -675,8 +675,8 @@ var _curio = [
             "EN": "Recovers 1.0 extra Skill Point(s) when characters use Basic ATK."
         },
         "Story": {
-            "CH": "你十分确定运行这段代码会导致栈溢出，填满存储空间。\n但这么做能让你收获大量宇宙碎片，所以何乐而不为呢？\n\n<i>「伟大的机械公爵呵，我不明白你为什么允许这种代码存在于我们完美的项目中！」\n「前提：完美与错谬相悖。提问：现实宇宙是完美的吗？答案：否定。结论：模拟宇宙不应完美，模拟宇宙需要错谬。」</i>",
-            "EN": "You are almost certain that running this will cause stack overflow, eating up all available memory.\nBut doing so will give you loads of Cosmic Fragments, so why not?\n\n<i>\"My almighty Mechanical Duke, I do not understand why you tolerate such heinous codes in our impeccable project!\"\n\"Premise: Perfection is the opposite of mistakes. Question: Is the real universe perfect? Answer: Negative. Conclusion: Simulated Universe should not be perfect. It must allow mistakes.\"</i>"
+            "CH": "你十分确定运行这段代码会导致栈溢出，填满存储空间。<br>但这么做能让你收获大量宇宙碎片，所以何乐而不为呢？<br><br><i>「伟大的机械公爵呵，我不明白你为什么允许这种代码存在于我们完美的项目中！」<br>「前提：完美与错谬相悖。提问：现实宇宙是完美的吗？答案：否定。结论：模拟宇宙不应完美，模拟宇宙需要错谬。」</i>",
+            "EN": "You are almost certain that running this will cause stack overflow, eating up all available memory.<br>But doing so will give you loads of Cosmic Fragments, so why not?<br><br><i>\"My almighty Mechanical Duke, I do not understand why you tolerate such heinous codes in our impeccable project!\"<br>\"Premise: Perfection is the opposite of mistakes. Question: Is the real universe perfect? Answer: Negative. Conclusion: Simulated Universe should not be perfect. It must allow mistakes.\"</i>"
         },
         "Icon": "420006.png",
         "Ver": "1.0"
@@ -1338,8 +1338,8 @@ var _curio = [
             "EN": "The number of Cosmic Fragments received after winning a battle <color style='color:#f29e38;'>increases by 150.0%</color>"
         },
         "Story": {
-            "CH": "天才俱乐部6以利亚萨拉斯曾经有个美好的愿望：俱乐部里的天才们能够欢聚一堂，其乐融融地交流生活、爱情与梦想。为此，他发明了「俱乐部券」，并设计了一整套系统，保证即使在他死后，每位入会的新人都能得到这张能够即时传送到某个宴会位面的入场券。事实是，6以后的每位会员都确实使用过「俱乐部券」，可时间从来没有重合过哪怕一次。\n（该奇物已发生数据膨胀）",
-            "EN": "Genius Society 6, Elias Salas, once had a beautiful dream. He wished the geniuses of the Society could come together and happily converse about their lives, loves, and dreams. For that purpose, he invented \"Society Tickets\" and designed an entire system that ensured every new Society member would receive this ticket even after his death. This ticket would instantly teleport the user to a specific dimension decked with festivities. The truth is that every new member after 6 had indeed used their Society Ticket, but not a single one of them had used it at the same time as someone else.\n(This Curio already underwent data expansion)"
+            "CH": "天才俱乐部6以利亚萨拉斯曾经有个美好的愿望：俱乐部里的天才们能够欢聚一堂，其乐融融地交流生活、爱情与梦想。为此，他发明了「俱乐部券」，并设计了一整套系统，保证即使在他死后，每位入会的新人都能得到这张能够即时传送到某个宴会位面的入场券。事实是，6以后的每位会员都确实使用过「俱乐部券」，可时间从来没有重合过哪怕一次。<br>（该奇物已发生数据膨胀）",
+            "EN": "Genius Society 6, Elias Salas, once had a beautiful dream. He wished the geniuses of the Society could come together and happily converse about their lives, loves, and dreams. For that purpose, he invented \"Society Tickets\" and designed an entire system that ensured every new Society member would receive this ticket even after his death. This ticket would instantly teleport the user to a specific dimension decked with festivities. The truth is that every new member after 6 had indeed used their Society Ticket, but not a single one of them had used it at the same time as someone else.<br>(This Curio already underwent data expansion)"
         },
         "Icon": "1012.png",
         "Ver": "1.4"
@@ -1355,8 +1355,8 @@ var _curio = [
             "EN": "The Cosmic Fragments required for Blessing Enhancement, Blessing Reset, and for resetting downed characters is <color style='color:#f29e38;'>reduced by 50.0%</color>"
         },
         "Story": {
-            "CH": "在星际和平公司中荣升P 40 级的员工，都将获得认购「信仰债券」的权利。它意味着路易斯•弗莱明对你的肯定，并附带了一项神圣无比的承诺：即在「琥珀王」命中注定的存护伟业之中将拥有你的一席之地。你的能力微乎其微，你的财富不足为道，你的信仰如同浩瀚星海中的一粒微尘。但一代又一代的「你」汇聚起来，终将拥有守护整个宇宙的力量。\n（该奇物已发生数据膨胀）",
-            "EN": "Interastral Peace Corporation staff members who are promoted to level P40 gain the right to purchase Faith Bonds. These bonds indicate Louis Fleming's affirmation of the individual and come with a sacred vow: The staff now has a place in the Amber Lord's destined achievement of Preservation. One person's abilities amount to nothing, their wealth also amounts to nothing, and their faith is like a single particle of dust in the wide starry seas. However, generations of humanity will join together, and ultimately obtain the power to protect the entire universe.\n(This Curio already underwent data expansion)"
+            "CH": "在星际和平公司中荣升P 40 级的员工，都将获得认购「信仰债券」的权利。它意味着路易斯•弗莱明对你的肯定，并附带了一项神圣无比的承诺：即在「琥珀王」命中注定的存护伟业之中将拥有你的一席之地。你的能力微乎其微，你的财富不足为道，你的信仰如同浩瀚星海中的一粒微尘。但一代又一代的「你」汇聚起来，终将拥有守护整个宇宙的力量。<br>（该奇物已发生数据膨胀）",
+            "EN": "Interastral Peace Corporation staff members who are promoted to level P40 gain the right to purchase Faith Bonds. These bonds indicate Louis Fleming's affirmation of the individual and come with a sacred vow: The staff now has a place in the Amber Lord's destined achievement of Preservation. One person's abilities amount to nothing, their wealth also amounts to nothing, and their faith is like a single particle of dust in the wide starry seas. However, generations of humanity will join together, and ultimately obtain the power to protect the entire universe.<br>(This Curio already underwent data expansion)"
         },
         "Icon": "1013.png",
         "Ver": "1.4"
@@ -1372,8 +1372,8 @@ var _curio = [
             "EN": "Upon entering a new domain, gain Cosmic Fragments equal to <color style='color:#f29e38;'>12.0%</color> of the Cosmic Fragments currently in possession."
         },
         "Story": {
-            "CH": "并非所有星球都对星际和平公司的商业帝国张开双臂表示欢迎，在不断扩张的星系版图之中，总有极个别的例外拒绝了公司的好意。「谢谢，」他们说，「但我们不需要信用点，我们完全有能力照顾自己。」面对如上情况时，公司的代表会耸耸肩，然后轻描淡写地摧毁该星球的金融体系根基——通常是黄金。\n（该奇物已发生数据膨胀）",
-            "EN": "Not all planets opened their arms and welcomed the expansion of the Interastral Peace Corporation's commercial empire. While the cosmic map kept expanding, there were always rare exceptions that refused the IPC's beneficence. \"Thank you,\" they stated, \"but we don't need credits. We can look after ourselves just fine.\" The representative of the IPC would usually shrug at these statements, then casually destroy the root of that planet's commercial system — it was usually based on gold.\n(This Curio already underwent data expansion)"
+            "CH": "并非所有星球都对星际和平公司的商业帝国张开双臂表示欢迎，在不断扩张的星系版图之中，总有极个别的例外拒绝了公司的好意。「谢谢，」他们说，「但我们不需要信用点，我们完全有能力照顾自己。」面对如上情况时，公司的代表会耸耸肩，然后轻描淡写地摧毁该星球的金融体系根基——通常是黄金。<br>（该奇物已发生数据膨胀）",
+            "EN": "Not all planets opened their arms and welcomed the expansion of the Interastral Peace Corporation's commercial empire. While the cosmic map kept expanding, there were always rare exceptions that refused the IPC's beneficence. \"Thank you,\" they stated, \"but we don't need credits. We can look after ourselves just fine.\" The representative of the IPC would usually shrug at these statements, then casually destroy the root of that planet's commercial system — it was usually based on gold.<br>(This Curio already underwent data expansion)"
         },
         "Icon": "1015.png",
         "Ver": "1.4"
@@ -1389,8 +1389,8 @@ var _curio = [
             "EN": "Randomly <color style='color:#f29e38;'>Enhances 5.0 Blessing(s)</color> immediately after obtaining this Curio."
         },
         "Story": {
-            "CH": "万象无常骰曾在宇宙中极为常见，造成无数微小但邪恶的混乱。它的使用方法是这样的：手掌紧紧握住骰子，默念任意一句有意义的话，想着你最想吃的食物同时将骰子掷出。某一面向上时你会得到意外之财，某一面向上时你会收获美好的爱情，但更多面的结局是疾病、霉运、诅咒和终生相伴的梅雨。尽管如此，仍有许多人热衷于投掷万象无常骰，并快乐地宣称这不过是假面愚者的一个玩笑。\n（该奇物已发生数据膨胀）",
-            "EN": "Entropic Dice are common in the universe and cause countless tiny but malevolent disturbances. To use it, you grab the die tightly and think of any meaningful sentence in your head, then as you throw the die, think about the food you want to eat the most. You will receive unexpected wealth if the die lands on a certain number and wonderful love on another number, but the ends you will meet for other numbers include illness, bad luck, curses, and lifelong rain. Despite this, many people still love to play with these dice, and happily declare that these items are just a joke made by the Masked Fools.\n(This Curio already underwent data expansion)"
+            "CH": "万象无常骰曾在宇宙中极为常见，造成无数微小但邪恶的混乱。它的使用方法是这样的：手掌紧紧握住骰子，默念任意一句有意义的话，想着你最想吃的食物同时将骰子掷出。某一面向上时你会得到意外之财，某一面向上时你会收获美好的爱情，但更多面的结局是疾病、霉运、诅咒和终生相伴的梅雨。尽管如此，仍有许多人热衷于投掷万象无常骰，并快乐地宣称这不过是假面愚者的一个玩笑。<br>（该奇物已发生数据膨胀）",
+            "EN": "Entropic Dice are common in the universe and cause countless tiny but malevolent disturbances. To use it, you grab the die tightly and think of any meaningful sentence in your head, then as you throw the die, think about the food you want to eat the most. You will receive unexpected wealth if the die lands on a certain number and wonderful love on another number, but the ends you will meet for other numbers include illness, bad luck, curses, and lifelong rain. Despite this, many people still love to play with these dice, and happily declare that these items are just a joke made by the Masked Fools.<br>(This Curio already underwent data expansion)"
         },
         "Icon": "1034.png",
         "Ver": "1.4"
@@ -1406,8 +1406,8 @@ var _curio = [
             "EN": "Upon entering battle, all characters' DMG <color style='color:#f29e38;'>increase by 5.0%</color> for every destructible object that has been destroyed."
         },
         "Story": {
-            "CH": "如果用这把烛剪剪断烛芯，愤怒的反物质火焰反而会将蜡烛点燃，粒子碰撞下整个蜡烛会在燃烧数秒后立刻湮灭。如果用剪刀划过你的皮肤，则会立刻发生能量逸散反应，它触碰过的部分都会立刻化成负粒子在躯体中震荡，接着四散逃逸。\n（该奇物已发生数据膨胀）",
-            "EN": "If this candle wick trimmer is used to cut a wick, the angry anti-matter flames will ignite the candle, and the entire candlestick will be obliterated within seconds under the intense particle collisions. Exothermic reactions will be immediately triggered if this trimmer grazes your skin. Any parts of the body that the trimmer touches will instantly turn into antiprotons, reverberate throughout the body, and then scatter.\n(This Curio already underwent data expansion)"
+            "CH": "如果用这把烛剪剪断烛芯，愤怒的反物质火焰反而会将蜡烛点燃，粒子碰撞下整个蜡烛会在燃烧数秒后立刻湮灭。如果用剪刀划过你的皮肤，则会立刻发生能量逸散反应，它触碰过的部分都会立刻化成负粒子在躯体中震荡，接着四散逃逸。<br>（该奇物已发生数据膨胀）",
+            "EN": "If this candle wick trimmer is used to cut a wick, the angry anti-matter flames will ignite the candle, and the entire candlestick will be obliterated within seconds under the intense particle collisions. Exothermic reactions will be immediately triggered if this trimmer grazes your skin. Any parts of the body that the trimmer touches will instantly turn into antiprotons, reverberate throughout the body, and then scatter.<br>(This Curio already underwent data expansion)"
         },
         "Icon": "1046.png",
         "Ver": "1.4"
@@ -1440,8 +1440,8 @@ var _curio = [
             "EN": "<color style='color:#f29e38;'>On top of the original effect of the Omniscient Capsule, further increases the chance of destructible objects appearing</color> and <color style='color:#f29e38;'>doubles the rewards</color> for destroying them."
         },
         "Story": {
-            "CH": "博识学会中有一群人认为科学与魔法本为一体。发达的科学即是魔法，严谨的魔法则是科学。他们从远古的奇幻传说中汲取灵感，制造了「万识囊」——一种轻巧的便携储物装置。在博识学会的构想中，万识囊最终将连接向一个个独立的半位面，拥有无限的空间，而不是如今所使用的超距折叠技术……他们仍在努力。\n（该奇物已发生数据膨胀）",
-            "EN": "There is a group in the Intelligentsia Guild that believes science was originally the same as magic, that advanced science is magic and rigorous magic is science. They drew inspiration from ancient fantastic mythologies and created the Omniscient Capsule, a light-weight and convenient storage gadget. The Intelligentsia Guild planned for the Omniscient Capsule to ultimately lead to independent demiplanes, thus obtaining infinite space beyond the advanced spatial compression technologies currently in use... And they are still trying.\n(This Curio already underwent data expansion)"
+            "CH": "博识学会中有一群人认为科学与魔法本为一体。发达的科学即是魔法，严谨的魔法则是科学。他们从远古的奇幻传说中汲取灵感，制造了「万识囊」——一种轻巧的便携储物装置。在博识学会的构想中，万识囊最终将连接向一个个独立的半位面，拥有无限的空间，而不是如今所使用的超距折叠技术……他们仍在努力。<br>（该奇物已发生数据膨胀）",
+            "EN": "There is a group in the Intelligentsia Guild that believes science was originally the same as magic, that advanced science is magic and rigorous magic is science. They drew inspiration from ancient fantastic mythologies and created the Omniscient Capsule, a light-weight and convenient storage gadget. The Intelligentsia Guild planned for the Omniscient Capsule to ultimately lead to independent demiplanes, thus obtaining infinite space beyond the advanced spatial compression technologies currently in use... And they are still trying.<br>(This Curio already underwent data expansion)"
         },
         "Icon": "1030.png",
         "Ver": "1.4"
@@ -1457,8 +1457,8 @@ var _curio = [
             "EN": "Upon entering battle, there is a 100.0% fixed chance to apply <color style='color:#f29e38;'>all Weakness(es)</color> of the same Type(s) as characters currently on the field to all enemies. These Weakness(es) last(s) for 5.0 turn(s)."
         },
         "Story": {
-            "CH": "生命只是一场游戏——对于赛博世界「朋克洛德」的一众黑客，这句玩笑并非戏言。他们游走于网络空间，用名为以太编辑的技术改写现实，将人生编写成一场宏大的游戏。偶有天才之中的天才，得以飞向星球之外，将广袤的银河当作新手村外的第二片舞台。这张卡带记录了某位传奇黑客的故事，他的一生始于朋克洛德的地下水库，终于巡海游侠的簇拥之中。据说那场葬礼安静、无声，只有一张游戏卡带静躺于棺木之上，为一位黑客的结局落下「通关」的注脚。\n（该奇物已发生数据膨胀）",
-            "EN": "Life is just a game — This sentence is no mere jest for hackers from the cyberworld Punklorde. They traverse the internet and use a technology known as aether editing to alter reality, making life into a great game. Occasionally, the cream of the crop among them gets to soar away from the planet and use the vast cosmos as the second stage beyond the tutorial area. This cassette tape records the story of a legendary hacker. His life began in Punklorde's underground water reservoirs and ended in the company of the Galaxy Rangers. It is said that the funeral was a quiet one, with only a game cassette silently lying atop the coffin, serving as a footnote of \"Finished the Game\" at the hacker's final rites.\n(This Curio already underwent data expansion)"
+            "CH": "生命只是一场游戏——对于赛博世界「朋克洛德」的一众黑客，这句玩笑并非戏言。他们游走于网络空间，用名为以太编辑的技术改写现实，将人生编写成一场宏大的游戏。偶有天才之中的天才，得以飞向星球之外，将广袤的银河当作新手村外的第二片舞台。这张卡带记录了某位传奇黑客的故事，他的一生始于朋克洛德的地下水库，终于巡海游侠的簇拥之中。据说那场葬礼安静、无声，只有一张游戏卡带静躺于棺木之上，为一位黑客的结局落下「通关」的注脚。<br>（该奇物已发生数据膨胀）",
+            "EN": "Life is just a game — This sentence is no mere jest for hackers from the cyberworld Punklorde. They traverse the internet and use a technology known as aether editing to alter reality, making life into a great game. Occasionally, the cream of the crop among them gets to soar away from the planet and use the vast cosmos as the second stage beyond the tutorial area. This cassette tape records the story of a legendary hacker. His life began in Punklorde's underground water reservoirs and ended in the company of the Galaxy Rangers. It is said that the funeral was a quiet one, with only a game cassette silently lying atop the coffin, serving as a footnote of \"Finished the Game\" at the hacker's final rites.<br>(This Curio already underwent data expansion)"
         },
         "Icon": "1048.png",
         "Ver": "1.4"
@@ -1474,8 +1474,8 @@ var _curio = [
             "EN": "When entering battle, <color style='color:#f29e38;'>increases all characters' DMG by 8.0%</color> for every 100.0 Cosmic Fragments that has been obtained in this run <color style='color:#f29e38;'>(including those that have already been spent)</color>"
         },
         "Story": {
-            "CH": "纯美骑士纵横星海的时代，全宇宙都为他们的风采所倾倒；这群追寻着美的高贵骑士身着光耀照人的金银甲胄，肩披丝线与星光织就的华美战袍，在头盔之下，是俊美有如天神的绝代容颜。即使在「纯美」已然消逝的现代，那些曾经一睹骑士风华的人们依然相信伊德莉拉终将归来。\n（该奇物已发生数据膨胀）",
-            "EN": "The entire universe bowed before the grace of the Knights of Beauty while they still traversed the skies. These noble knights who chased beauty wore resplendent gold and silver armor, and donned magnificent robes woven from silk and starlight. They had divinely beautiful features under their helmets. Even in the current era when The Beauty had already faded, those who had once witnessed the magnificence of the knights still believe Idrila will one day return.\n(This Curio already underwent data expansion)"
+            "CH": "纯美骑士纵横星海的时代，全宇宙都为他们的风采所倾倒；这群追寻着美的高贵骑士身着光耀照人的金银甲胄，肩披丝线与星光织就的华美战袍，在头盔之下，是俊美有如天神的绝代容颜。即使在「纯美」已然消逝的现代，那些曾经一睹骑士风华的人们依然相信伊德莉拉终将归来。<br>（该奇物已发生数据膨胀）",
+            "EN": "The entire universe bowed before the grace of the Knights of Beauty while they still traversed the skies. These noble knights who chased beauty wore resplendent gold and silver armor, and donned magnificent robes woven from silk and starlight. They had divinely beautiful features under their helmets. Even in the current era when The Beauty had already faded, those who had once witnessed the magnificence of the knights still believe Idrila will one day return.<br>(This Curio already underwent data expansion)"
         },
         "Icon": "1014.png",
         "Ver": "1.4"
@@ -1491,8 +1491,8 @@ var _curio = [
             "EN": "Cosmic Fragments are not received upon winning battles. After triggering this effect <color style='color:#f29e38;'>3.0</color> time(s), this Curio will be destroyed and you will receive Cosmic Fragments equal to <color style='color:#f29e38;'>70.0%</color> of the Cosmic Fragment(s) you currently possess."
         },
         "Story": {
-            "CH": "星际和平公司业务巩固部推出的谢债发行机，打开外壳后会通过电子波粒聚象成天使计数器，公司同时推出了多种型号，包括腕戴型号与助眠抱枕型号，客户使用它时需定期投喂金币，谢债周期结束后将获得数倍收益，本质上是个投资产品。\n（该奇物已发生数据膨胀）",
-            "EN": "A debt dispenser distributed by the Business Consolidation Department of the Interastral Peace Corporation. Once the outer shell is opened, it will condense into an angel-shaped counter through electron particle-wave projection. The IPC simultaneously produced many types of this item, including ones that can be worn on the wrist or in the shape of hug pillows that act as sleep aids. When using it, the client needs to periodically feed it Gold Coins, and will receive returns many times higher than the principal at the end of the debt cycle. In essence, it is an investment product.\n(This Curio already underwent data expansion)"
+            "CH": "星际和平公司业务巩固部推出的谢债发行机，打开外壳后会通过电子波粒聚象成天使计数器，公司同时推出了多种型号，包括腕戴型号与助眠抱枕型号，客户使用它时需定期投喂金币，谢债周期结束后将获得数倍收益，本质上是个投资产品。<br>（该奇物已发生数据膨胀）",
+            "EN": "A debt dispenser distributed by the Business Consolidation Department of the Interastral Peace Corporation. Once the outer shell is opened, it will condense into an angel-shaped counter through electron particle-wave projection. The IPC simultaneously produced many types of this item, including ones that can be worn on the wrist or in the shape of hug pillows that act as sleep aids. When using it, the client needs to periodically feed it Gold Coins, and will receive returns many times higher than the principal at the end of the debt cycle. In essence, it is an investment product.<br>(This Curio already underwent data expansion)"
         },
         "Icon": "1044.png",
         "Ver": "1.4"
@@ -1508,8 +1508,8 @@ var _curio = [
             "EN": "Increase Movement SPD by 20.0% when on the map. During combat, characters' actions are Advanced Forward by 10.0% after they take action. <color style='color:#f29e38;'>When you capture a Trotter, you can additionally gain a Blessing 1 more time</color>"
         },
         "Story": {
-            "CH": "在黄昏战争前，混沌星云膨胀所产生的爆炸碎屑可以作为饵料，其特有的宇宙尘埃芳香能够吸引到古兽前来觅食。但在这场覆界浩劫之后，「碎星芳饵」似乎失去了其原有作用，无论学者如何研究改造饵料，都再没有人能够成功寻得古兽身影。\n（该奇物已发生数据膨胀）",
-            "EN": "Before the Dusk Wars, the exploded fragments born out of the expansion of disordered nebulas could be used as lures, and their unique aroma of cosmic dust could attract Leviathans to feed on them. However, the Shattered Star Bait seems to have lost its original effectiveness after that catastrophic disaster. No matter how much scholars researched and modified the lure, no one was ever able to glimpse the form of the Leviathans again.\n(This Curio already underwent data expansion)"
+            "CH": "在黄昏战争前，混沌星云膨胀所产生的爆炸碎屑可以作为饵料，其特有的宇宙尘埃芳香能够吸引到古兽前来觅食。但在这场覆界浩劫之后，「碎星芳饵」似乎失去了其原有作用，无论学者如何研究改造饵料，都再没有人能够成功寻得古兽身影。<br>（该奇物已发生数据膨胀）",
+            "EN": "Before the Dusk Wars, the exploded fragments born out of the expansion of disordered nebulas could be used as lures, and their unique aroma of cosmic dust could attract Leviathans to feed on them. However, the Shattered Star Bait seems to have lost its original effectiveness after that catastrophic disaster. No matter how much scholars researched and modified the lure, no one was ever able to glimpse the form of the Leviathans again.<br>(This Curio already underwent data expansion)"
         },
         "Icon": "1029.png",
         "Ver": "1.4"
