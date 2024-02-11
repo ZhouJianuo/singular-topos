@@ -35367,7 +35367,7 @@ var _avatarskill = {
             "MaxLevel": 1,
             "Desc": {
                 "CH": "基于防御力，为我方全体提供可叠加的【砂金护盾】。<br>任何角色如果不持有 A 牌，则会进行一次抽牌：从 A B C D 四张牌中随机选取一张。砂金护盾消失时，会移除此牌。",
-                "EN": "Applies stackable Aventurine Shield to all allies, strength based on Aventurine's DEF.<br>If an ally does not have an A card, they will pull a card from thr 4 cards: A, B, C, D. When the Aventurine Shield expires, the card will also disappear."
+                "EN": "Applies stackable Aventurine Shield to all allies, strength based on Aventurine's DEF.<br>If an ally does not have an A card, they will pull a card from the 4 cards: A, B, C, D. When the Aventurine Shield expires, the card will also disappear."
             }
         }
     },
@@ -35392,8 +35392,8 @@ var _avatarskill = {
             },
             "MaxLevel": 1,
             "Desc": {
-                "CH": "砂金护盾庇护下的角色（砂金自身除外）施放攻击时，砂金会获得一枚【金币】。<br>砂金护盾庇护下的角色受到攻击时，砂金会获得一枚【金币】；若此角色持有A牌，则砂金额外获得数枚【金币】。<br>砂金拥有 6 枚金币时，会消耗 6 枚金币，立刻施放【金币攻击】：基于防御力，对随机敌方单体造成多段攻击，且有概率使目标的效果命中降低。此后，拥有砂金护盾的角色舍弃原来的牌，重新抽牌。",
-                "EN": "When allies protected by Aventurine Shield perform an attack, Aventurine gains 1 Coin.<br>When allies protected by Aventurine Shield suffer from a attack, Aventurine gains 1 Coin. If the character has an A card, Aventurine will gain extra Coins.<br>When Aventurine has 6 Coins, he will consume 6 coins to unleash the Coin Attack: Deal multiple instances of Imaginary DMG to random targets, with a chance to lower the target's Effect Hit Rate. Then, all allies under Aventurine Shield will discard their card and pull a new one.."
+                "CH": "砂金护盾庇护下的角色（砂金自身除外）施放攻击时，砂金会获得一枚【金币】。<br>砂金护盾庇护下的角色受到攻击时，砂金会获得一枚【金币】；若此角色持有 A 牌，则砂金额外获得数枚【金币】。<br>砂金拥有 6 枚金币时，会消耗 6 枚金币，立刻施放【金币攻击】：基于防御力，对随机敌方单体造成多段攻击，且有概率使目标的效果命中降低。此后，拥有砂金护盾的角色舍弃原来的牌，重新抽牌。",
+                "EN": "When allies protected by Aventurine Shield perform an attack, Aventurine gains 1 Coin.<br>When allies protected by Aventurine Shield suffer from an attack, Aventurine gains 1 Coin. If the character has an A card, Aventurine will gain extra Coins.<br>When Aventurine has 6 Coins, he will consume 6 coins to unleash the Coin Attack: Deal multiple instances of Imaginary DMG to random targets, with a chance to lower the target's Effect Hit Rate. Then, all allies under Aventurine Shield will discard their card and pull a new one."
             }
         }
     },
@@ -35405,7 +35405,7 @@ var _avatarskill = {
             },
             "MaxLevel": 1,
             "Desc": {
-                "CH": "砂金随机掷骰，有 1 / 2 / 3 三种结果。若施放多次数后仍然未获得 3 ，下一次必然获得 3 。<br>进入战斗后，按照此结果提升砂金的防御力（ 1 提升最低，3 提升最高）。<br>此外，进入战斗后还会为全部角色提供砂金护盾，并令全部角色抽 A B C D 牌。",
+                "CH": "砂金随机掷骰，有 1 / 2 / 3 三种结果。若施放多次数后仍然未获得 3 ，下一次必然获得 3 。<br>进入战斗后，按照此结果提升砂金的防御力（ 1 提升最低，3 提升最高 ）。<br>此外，进入战斗后还会为全部角色提供砂金护盾，并令全部角色抽 A B C D 牌。",
                 "EN": "Aventurine rolls a dice, with three results: 1, 2, 3. If Aventurine does not obtain a 3 after a certain number of rolls, the next roll is guaranteed to give a 3.<br>After entering combat, Aventurine's DEF is increased based on the result of the dice, with 3 giving the most DEF.<br>After entering battle, will also apply Aventurine Shield to all allies and let all allies pull a card."
             }
         }
@@ -37845,7 +37845,7 @@ var _avatarskilltree = {
                 },
                 "Desc": {
                     "CH": "施放金币攻击后：<br>1 为所有角色叠加砂金护盾的护盾值，并为队伍中护盾值最低的角色额外追加一部分。<br>2 延长所有角色的砂金护盾的持续时间。若砂金自己持有砂金护盾，则额外延长所有角色的砂金护盾的持续时间。<br>3 令不持有牌的角色抽牌。",
-                    "EN": "After performing Coin Attack:<br>1 Stacks Aventurine Shield for all allies, and stacks an extra amount to the ally with the least shield.<br>2 Increases the duration of all allies' Aventurine Shield. If Aventurine has Aventurine Shield, the duration of all allies' Aventurine Shield is further increased.<br>3 All allies without a card pulls a card."
+                    "EN": "After performing Coin Attack:<br>1 Stacks Aventurine Shield for all allies, and stacks an extra amount to the ally with the least shield.<br>2 Increases the duration of all allies' Aventurine Shield. If Aventurine has Aventurine Shield, the duration of all allies' Aventurine Shield is further increased.<br>3 All allies without a card pull a card."
                 }
             }
         }
@@ -42531,64 +42531,12 @@ var _avatarrank = {
                 "EN": "Eidolon"
             },
             "Desc": {
-                "CH": "",
-                "EN": ""
-            }
-        }
-    },
-    "900202": {
-        "v0": {
-            "Rank": 2,
-            "Name": {
-                "CH": "星魂",
-                "EN": "Eidolon"
-            },
-            "Desc": {
-                "CH": "",
-                "EN": ""
-            }
-        }
-    },
-    "900204": {
-        "v0": {
-            "Rank": 4,
-            "Name": {
-                "CH": "星魂",
-                "EN": "Eidolon"
-            },
-            "Desc": {
-                "CH": "",
-                "EN": ""
-            }
-        }
-    },
-    "900206": {
-        "v0": {
-            "Rank": 6,
-            "Name": {
-                "CH": "星魂",
-                "EN": "Eidolon"
-            },
-            "Desc": {
-                "CH": "",
-                "EN": ""
-            }
-        }
-    },
-    "900301": {
-        "v0": {
-            "Rank": 1,
-            "Name": {
-                "CH": "星魂",
-                "EN": "Eidolon"
-            },
-            "Desc": {
                 "CH": "角色拥有砂金护盾时，持有 B 牌使暴击伤害提升，持有 A 牌使暴击伤害进一步提升。",
                 "EN": "Allies under Aventurine Shield with a B card will have their Crit DMG boosted. Allies with an A card will gain an even bigger boost."
             }
         }
     },
-    "900302": {
+    "900202": {
         "v0": {
             "Rank": 2,
             "Name": {
@@ -42601,7 +42549,7 @@ var _avatarrank = {
             }
         }
     },
-    "900304": {
+    "900204": {
         "v0": {
             "Rank": 4,
             "Name": {
@@ -42614,7 +42562,7 @@ var _avatarrank = {
             }
         }
     },
-    "900306": {
+    "900206": {
         "v0": {
             "Rank": 6,
             "Name": {
@@ -42624,6 +42572,58 @@ var _avatarrank = {
             "Desc": {
                 "CH": "根据队伍中持有护盾的角色数目，提升砂金造成的伤害。",
                 "EN": "Increases Aventurine's DMG dealt based on the number of allies protected by a shield."
+            }
+        }
+    },
+    "900301": {
+        "v0": {
+            "Rank": 1,
+            "Name": {
+                "CH": "星魂",
+                "EN": "Eidolon"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            }
+        }
+    },
+    "900302": {
+        "v0": {
+            "Rank": 2,
+            "Name": {
+                "CH": "星魂",
+                "EN": "Eidolon"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            }
+        }
+    },
+    "900304": {
+        "v0": {
+            "Rank": 4,
+            "Name": {
+                "CH": "星魂",
+                "EN": "Eidolon"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            }
+        }
+    },
+    "900306": {
+        "v0": {
+            "Rank": 6,
+            "Name": {
+                "CH": "星魂",
+                "EN": "Eidolon"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
             }
         }
     }
