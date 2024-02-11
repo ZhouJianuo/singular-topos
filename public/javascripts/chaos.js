@@ -929,7 +929,7 @@ $(function () {
                                 {
                                     span: [
                                         {
-                                            img: imgpre + 'images/Addprop/IconEnergyRecovery.png',
+                                            img: imgpre + 'images/AddProp/IconEnergyRecovery.png',
                                             style: {
                                                 width: '26px',
                                                 position: 'relative',
