@@ -1279,7 +1279,7 @@ $(function () {
                                     class: 'head_left'
                                 },
                                 {
-                                    p: S[this_avatar_cur_ver].Name[lang],
+                                    p: (i + 1) + ' ' + S[this_avatar_cur_ver].Name[lang],
                                     class: 'head_right hr_1',
                                     style: {
                                         color: "#" + elemcolor[this_avatar.Element]
