@@ -4,26 +4,27 @@ var _avatar = [
     {
         "_id": 9001,
         "Name": {
-            "CH": "黄泉",
-            "EN": "Acheron"
+            "CH": "加拉赫",
+            "EN": "Gallagher"
         },
-        "Element": "",
-        "Skills": [],
-        "Ranks": [],
-        "Icon": "",
-        "Pic": ""
-    },
-    {
-        "_id": 9002,
-        "Name": {
-            "CH": "砂金",
-            "EN": "Aventurine"
-        },
-        "Element": "",
-        "Skills": [],
-        "Ranks": [],
-        "Icon": "",
-        "Pic": ""
+        "Element": "Fire",
+        "Path": "Abundance",
+        "Skills": [
+            900101,
+            900102,
+            900103,
+            900104,
+            900105,
+            900107
+        ],
+        "Ranks": [
+            900101,
+            900102,
+            900104,
+            900106
+        ],
+        "Icon": "avatarshopicon/999",
+        "Pic": "avatardrawcard/999.png"
     },
     {
         "_id": 1306,
@@ -35173,6 +35174,116 @@ var _avatarskill = {
             ],
             "Icon": "SkillIcon_1006_Maze"
         }
+    },
+    "900101": {
+        "v0": {
+            "Name": {
+                "CH": "普攻",
+                "EN": "Basic ATK"
+            },
+            "MaxLevel": 1,
+            "Desc": {
+                "CH": "基于加拉赫的攻击力，对目标造成少量火属性伤害。",
+                "EN": "Deals minor Fire DMG based on Gallagher's ATK."
+            }
+        }
+    },
+    "900102": {
+        "v0": {
+            "Name": {
+                "CH": "强化普攻",
+                "EN": "Enhanced Basic ATK"
+            },
+            "MaxLevel": 1,
+            "Desc": {
+                "CH": "基于加拉赫的攻击力，对目标造成少量火属性伤害，并使其攻击力降低，持续一些回合。",
+                "EN": "Deals minor Fire DMG based on Gallagher's ATK, and decreases the target's ATK for some turns."
+            }
+        }
+    },
+    "900103": {
+        "v0": {
+            "Name": {
+                "CH": "战技",
+                "EN": "Skill"
+            },
+            "MaxLevel": 1,
+            "Desc": {
+                "CH": "使我方目标回复一定比例生命值。",
+                "EN": "Heals a certain percentage of HP for allies."
+            }
+        }
+    },
+    "900104": {
+        "v0": {
+            "Name": {
+                "CH": "终结技",
+                "EN": "Ultimate"
+            },
+            "MaxLevel": 1,
+            "Desc": {
+                "CH": "基于加拉赫的攻击力，对敌方全体造成火属性伤害，并对敌方全体施加<color style='color:#f29e38'>【印记】</color>，持续一些回合。<br>下一次施放普攻时，改为施放<color style='color:#f29e38'>强化普攻</color>。",
+                "EN": "Deals Fire DMG to all enemy targets based on Gallagher's ATK, and inflicts <color style='color:#f29e38'>Mark</color> on all targets, lasting some turns.<br>When using Basic ATK after this, will unleash <color style='color:#f29e38'>Enhanced Basic ATK</color> instead. This can be triggered once."
+            }
+        }
+    },
+    "900105": {
+        "v0": {
+            "Name": {
+                "CH": "天赋",
+                "EN": "Talent"
+            },
+            "MaxLevel": 1,
+            "Desc": {
+                "CH": "持有【印记】的敌方目标<color style='color:#f29e38'>受到的击破伤害提升</color>。<br>持有【印记】的敌方目标受到攻击时，加拉赫为自身<color style='color:#f29e38'>回复一定比例生命值</color>。",
+                "EN": "Enemies with Mark will <color style='color:#f29e38'>take increased Break DMG</color>.<br>When enemies with Mark are attacked, Gallagher will <color style='color:#f29e38'>regenerate a certain percentage of HP</color> for himself."
+            }
+        }
+    },
+    "900106": {
+        "v0": {
+            "Name": {
+                "CH": "攻击",
+                "EN": "Attack"
+            },
+            "MaxLevel": 1,
+            "Type": {
+                "CH": "dev_连携",
+                "EN": ""
+            },
+            "Tag": {
+                "CH": "",
+                "EN": ""
+            },
+            "Desc": {
+                "CH": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
+                "EN": "Attacks an enemy, and when the battle starts, reduces their Toughness of the corresponding Type."
+            },
+            "Params": [
+                []
+            ],
+            "BP": 0,
+            "SPAdd": 0,
+            "AttackType": "MazeNormal",
+            "Stance": [
+                1.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    "900107": {
+        "v0": {
+            "Name": {
+                "CH": "秘技",
+                "EN": "Technique"
+            },
+            "MaxLevel": 1,
+            "Desc": {
+                "CH": "立即攻击敌人，进入战斗后基于加拉赫的攻击力，对敌方全体目标造成火属性伤害，并对敌方全体施加【印记】，持续一些回合。",
+                "EN": "Immediately attacks the enemy. After entering battle, deals Fire DMG to all targets based on Gallagher's ATK and inflicts Mark on all targets, lasting some turns."
+            }
+        }
     }
 }
 
@@ -37478,6 +37589,40 @@ var _avatarskilltree = {
                     "EN": "<br><br>Hidden Stat: 3.0<br>Hidden Stat: 0.03"
                 },
                 "Icon": "SkillIcon_Com_Sun"
+            }
+        }
+    },
+    "9001": {
+        "v0": {
+            "Tree1": {
+                "Name": {
+                    "CH": "行迹 1",
+                    "EN": "Trace 1"
+                },
+                "Desc": {
+                    "CH": "基于自身击破特攻的一定比例，提升自身治疗加成。",
+                    "EN": "Increases Gallagher's Heal Bonus based on a percentage of Gallagher's Break Effect."
+                }
+            },
+            "Tree2": {
+                "Name": {
+                    "CH": "行迹 2",
+                    "EN": "Trace 2"
+                },
+                "Desc": {
+                    "CH": "进入战斗时，恢复一定能量。",
+                    "EN": "Regenerate a certain amount of Energy after entering battle."
+                }
+            },
+            "Tree3": {
+                "Name": {
+                    "CH": "行迹 3",
+                    "EN": "Trace 3"
+                },
+                "Desc": {
+                    "CH": "具有【印记】的敌方目标受到加拉赫的强化普攻时，加拉赫不会只使自身回复生命值，而是改为使全部角色回复生命值。",
+                    "EN": "When enemies with Mark are attacked by Gallagher's Enhanced Basic ATK, Gallagher will not only heal HP for himself, but will heal HP for all allies."
+                }
             }
         }
     }
@@ -42066,6 +42211,58 @@ var _avatarrank = {
                 "EN": "<br><br>Hidden Stat: 0.2<br>Hidden Stat: 1.0"
             },
             "Icon": "SkillIcon_1006_Rank6"
+        }
+    },
+    "900101": {
+        "v0": {
+            "Rank": 1,
+            "Name": {
+                "CH": "星魂",
+                "EN": "Eidolon"
+            },
+            "Desc": {
+                "CH": "释放终结技后，加拉赫行动提前100%。",
+                "EN": "After using Ultimate, Gallagher's action is advanced by 100%."
+            }
+        }
+    },
+    "900102": {
+        "v0": {
+            "Rank": 2,
+            "Name": {
+                "CH": "星魂",
+                "EN": "Eidolon"
+            },
+            "Desc": {
+                "CH": "具有【印记】的敌方目标，根据自身陷入负面状态的个数，进一步提升受到的击破伤害。",
+                "EN": "Enemies with Mark will have their Break DMG further increased based on the number of Debuffs they are inflicted with."
+            }
+        }
+    },
+    "900104": {
+        "v0": {
+            "Rank": 4,
+            "Name": {
+                "CH": "星魂",
+                "EN": "Eidolon"
+            },
+            "Desc": {
+                "CH": "终结技施加的【印记】持续时间延长。",
+                "EN": "When inflicting Mark with Ultimate, its duration is increased."
+            }
+        }
+    },
+    "900106": {
+        "v0": {
+            "Rank": 6,
+            "Name": {
+                "CH": "星魂",
+                "EN": "Eidolon"
+            },
+            "Desc": {
+                "CH": "加拉赫的击破特攻提升，弱点击破效率提升。",
+                "EN": "Gallagher's Break Effect and Weakness Break Efficiency are boosted."
+            }
         }
     }
 }
@@ -81170,146 +81367,143 @@ var _camp = {
 
 var _search_avatar = {
     "9001": 0,
-    "黄泉": 0,
-    "ACHERON": 0,
-    "9002": 1,
-    "砂金": 1,
-    "AVENTURINE": 1,
-    "1306": 2,
-    "花火": 2,
-    "SPARKLE": 2,
-    "1307": 3,
-    "黑天鹅": 3,
-    "BLACKSWAN": 3,
-    "1312": 4,
-    "米沙": 4,
-    "MISHA": 4,
-    "1214": 5,
-    "雪衣": 5,
-    "XUEYI": 5,
-    "1303": 6,
-    "阮·梅": 6,
-    "RUANMEI": 6,
-    "1305": 7,
-    "真理医生": 7,
-    "DR.RATIO": 7,
-    "1215": 8,
-    "寒鸦": 8,
-    "HANYA": 8,
-    "1217": 9,
-    "藿藿": 9,
-    "HUOHUO": 9,
-    "1302": 10,
-    "银枝": 10,
-    "ARGENTI": 10,
-    "1112": 11,
-    "托帕&账账": 11,
-    "TOPAZ&NUMBY": 11,
-    "1210": 12,
-    "桂乃芬": 12,
-    "GUINAIFEN": 12,
-    "1212": 13,
-    "镜流": 13,
-    "JINGLIU": 13,
-    "1110": 14,
-    "玲可": 14,
-    "LYNX": 14,
-    "1208": 15,
-    "符玄": 15,
-    "FUXUAN": 15,
-    "1213": 16,
-    "丹恒·饮月": 16,
-    "DANHENG•IMBIBITORLUNAE": 16,
-    "1005": 17,
-    "卡芙卡": 17,
-    "KAFKA": 17,
-    "1111": 18,
-    "卢卡": 18,
-    "LUKA": 18,
-    "1205": 19,
-    "刃": 19,
-    "BLADE": 19,
-    "1006": 20,
-    "银狼": 20,
-    "SILVERWOLF": 20,
-    "1203": 21,
-    "罗刹": 21,
-    "LUOCHA": 21,
-    "1207": 22,
-    "驭空": 22,
-    "YUKONG": 22,
-    "1001": 23,
-    "三月七": 23,
-    "MARCH7TH": 23,
-    "1002": 24,
-    "丹恒": 24,
-    "DANHENG": 24,
-    "1003": 25,
-    "姬子": 25,
-    "HIMEKO": 25,
-    "1004": 26,
-    "瓦尔特": 26,
-    "WELT": 26,
-    "1008": 27,
-    "阿兰": 27,
-    "ARLAN": 27,
-    "1009": 28,
-    "艾丝妲": 28,
-    "ASTA": 28,
-    "1013": 29,
-    "黑塔": 29,
-    "HERTA": 29,
-    "1101": 30,
-    "布洛妮娅": 30,
-    "BRONYA": 30,
-    "1102": 31,
-    "希儿": 31,
-    "SEELE": 31,
-    "1103": 32,
-    "希露瓦": 32,
-    "SERVAL": 32,
-    "1104": 33,
-    "杰帕德": 33,
-    "GEPARD": 33,
-    "1105": 34,
-    "娜塔莎": 34,
-    "NATASHA": 34,
-    "1106": 35,
-    "佩拉": 35,
-    "PELA": 35,
-    "1107": 36,
-    "克拉拉": 36,
-    "CLARA": 36,
-    "1108": 37,
-    "桑博": 37,
-    "SAMPO": 37,
-    "1109": 38,
-    "虎克": 38,
-    "HOOK": 38,
-    "1201": 39,
-    "青雀": 39,
-    "QINGQUE": 39,
-    "1202": 40,
-    "停云": 40,
-    "TINGYUN": 40,
-    "1204": 41,
-    "景元": 41,
-    "JINGYUAN": 41,
-    "1206": 42,
-    "素裳": 42,
-    "SUSHANG": 42,
-    "1209": 43,
-    "彦卿": 43,
-    "YANQING": 43,
-    "1211": 44,
-    "白露": 44,
-    "BAILU": 44,
-    "8001": 45,
-    "开拓者": 48,
-    "TRAILBLAZER": 48,
-    "8002": 46,
-    "8003": 47,
-    "8004": 48
+    "加拉赫": 0,
+    "GALLAGHER": 0,
+    "1306": 1,
+    "花火": 1,
+    "SPARKLE": 1,
+    "1307": 2,
+    "黑天鹅": 2,
+    "BLACKSWAN": 2,
+    "1312": 3,
+    "米沙": 3,
+    "MISHA": 3,
+    "1214": 4,
+    "雪衣": 4,
+    "XUEYI": 4,
+    "1303": 5,
+    "阮·梅": 5,
+    "RUANMEI": 5,
+    "1305": 6,
+    "真理医生": 6,
+    "DR.RATIO": 6,
+    "1215": 7,
+    "寒鸦": 7,
+    "HANYA": 7,
+    "1217": 8,
+    "藿藿": 8,
+    "HUOHUO": 8,
+    "1302": 9,
+    "银枝": 9,
+    "ARGENTI": 9,
+    "1112": 10,
+    "托帕&账账": 10,
+    "TOPAZ&NUMBY": 10,
+    "1210": 11,
+    "桂乃芬": 11,
+    "GUINAIFEN": 11,
+    "1212": 12,
+    "镜流": 12,
+    "JINGLIU": 12,
+    "1110": 13,
+    "玲可": 13,
+    "LYNX": 13,
+    "1208": 14,
+    "符玄": 14,
+    "FUXUAN": 14,
+    "1213": 15,
+    "丹恒·饮月": 15,
+    "DANHENG•IMBIBITORLUNAE": 15,
+    "1005": 16,
+    "卡芙卡": 16,
+    "KAFKA": 16,
+    "1111": 17,
+    "卢卡": 17,
+    "LUKA": 17,
+    "1205": 18,
+    "刃": 18,
+    "BLADE": 18,
+    "1006": 19,
+    "银狼": 19,
+    "SILVERWOLF": 19,
+    "1203": 20,
+    "罗刹": 20,
+    "LUOCHA": 20,
+    "1207": 21,
+    "驭空": 21,
+    "YUKONG": 21,
+    "1001": 22,
+    "三月七": 22,
+    "MARCH7TH": 22,
+    "1002": 23,
+    "丹恒": 23,
+    "DANHENG": 23,
+    "1003": 24,
+    "姬子": 24,
+    "HIMEKO": 24,
+    "1004": 25,
+    "瓦尔特": 25,
+    "WELT": 25,
+    "1008": 26,
+    "阿兰": 26,
+    "ARLAN": 26,
+    "1009": 27,
+    "艾丝妲": 27,
+    "ASTA": 27,
+    "1013": 28,
+    "黑塔": 28,
+    "HERTA": 28,
+    "1101": 29,
+    "布洛妮娅": 29,
+    "BRONYA": 29,
+    "1102": 30,
+    "希儿": 30,
+    "SEELE": 30,
+    "1103": 31,
+    "希露瓦": 31,
+    "SERVAL": 31,
+    "1104": 32,
+    "杰帕德": 32,
+    "GEPARD": 32,
+    "1105": 33,
+    "娜塔莎": 33,
+    "NATASHA": 33,
+    "1106": 34,
+    "佩拉": 34,
+    "PELA": 34,
+    "1107": 35,
+    "克拉拉": 35,
+    "CLARA": 35,
+    "1108": 36,
+    "桑博": 36,
+    "SAMPO": 36,
+    "1109": 37,
+    "虎克": 37,
+    "HOOK": 37,
+    "1201": 38,
+    "青雀": 38,
+    "QINGQUE": 38,
+    "1202": 39,
+    "停云": 39,
+    "TINGYUN": 39,
+    "1204": 40,
+    "景元": 40,
+    "JINGYUAN": 40,
+    "1206": 41,
+    "素裳": 41,
+    "SUSHANG": 41,
+    "1209": 42,
+    "彦卿": 42,
+    "YANQING": 42,
+    "1211": 43,
+    "白露": 43,
+    "BAILU": 43,
+    "8001": 44,
+    "开拓者": 47,
+    "TRAILBLAZER": 47,
+    "8002": 45,
+    "8003": 46,
+    "8004": 47
 }
 
 var _search_weapon = {

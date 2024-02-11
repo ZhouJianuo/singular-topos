@@ -392,8 +392,8 @@ var txt = {
         "EN": "Skill"
     },
     "DEV": {
-        "CH": "隐藏测试技能 | 由<b>妮可少女</b>转录",
-        "EN": "Hidden test kit | Transcribed by <b>HomDGCat</b>"
+        "CH": "<b>隐藏测试技能 | 由<color style='color:#f29e38'>妮可少女</color>转录</b>",
+        "EN": "<b>Hidden test kit | Transcribed by <color style='color:#f29e38'>HomDGCat</color></b>"
     },
 }
 

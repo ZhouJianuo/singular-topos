@@ -905,7 +905,11 @@ $(function () {
                 },
                 {
                     div: {
-                        p: txt.DEV[lang]
+                        p: txt.DEV[lang],
+                        style: {
+                            'text-align': 'center',
+                            margin: '15px auto'
+                        }
                     },
                     class: 'a_section',
                     when: !this_avatar.Rarity
@@ -928,11 +932,12 @@ $(function () {
                             div: [
                                 {
                                     img: imgpre + 'images/skillicons/' + this_avatar._id + '/' + S.Icon + '.png',
-                                    class: 'head_left'
+                                    class: 'head_left',
+                                    when: S.Icon != undefined
                                 },
                                 {
                                     p: S.Name[lang],
-                                    class: 'head_right hr_1',
+                                    class: S.Icon ? 'head_right hr_1' : 'hr_1',
                                     style: {
                                         color: "#" + elemcolor[this_avatar.Element]
                                     }
@@ -996,7 +1001,7 @@ $(function () {
                                     when: S.MaxLevel > 1
                                 },
                                 {
-                                    p: param(S.Desc[lang], S.Params[recommendLV - 1]),
+                                    p: param(S.Desc[lang], S.Params ? S.Params[recommendLV - 1] : []),
                                     class: 'sd sd-' + s
                                 },
                                 {
@@ -1009,20 +1014,22 @@ $(function () {
                                 {
                                     p: [
                                         {
-                                            span: S.Type[lang],
+                                            span: S.Type ? S.Type[lang] : '',
                                             class: 'sbp',
                                             style: {
                                                 'font-weight': 'bold',
                                                 color: "#" + elemcolor[this_avatar.Element]
-                                            }
+                                            },
+                                            when: S.Type
                                         },
                                         {
-                                            span: S.Tag[lang],
+                                            span: S.Tag ? S.Tag[lang] : '',
                                             class: 'sbp',
                                             style: {
                                                 'font-weight': 'bold',
                                                 color: "#" + elemcolor[this_avatar.Element]
-                                            }
+                                            },
+                                            when: S.Tag
                                         },
                                         {
                                             span: [
@@ -1030,7 +1037,7 @@ $(function () {
                                                     img: imgpre + 'images/Misc/PointBPFull.png'
                                                 },
                                                 {
-                                                    span: (S.BP > 0) ? '+' + S.BP : S.BP.toString()
+                                                    span: (S.BP > 0) ? ('+' + S.BP) : (S.BP ? S.BP.toString() : '')
                                                 }
                                             ],
                                             class: 'sbp',
@@ -1054,7 +1061,7 @@ $(function () {
                                                     img: imgpre + 'images/AddProp/IconEnergyRecovery.png'
                                                 },
                                                 {
-                                                    span: (S.SPAdd > 0) ? '+' + S.SPAdd : S.SPAdd.toString()
+                                                    span: (S.SPAdd > 0) ? ('+' + S.SPAdd) : (S.SPAdd ? S.SPAdd.toString() : '')
                                                 }
                                             ],
                                             class: 'sbp',
@@ -1064,7 +1071,7 @@ $(function () {
                                     style: {
                                         'margin-top': '10px'
                                     },
-                                    when: !(S.Type.CH.includes('dev'))
+                                    when: !(S.Type && S.Type.CH.includes('dev'))
                                 }
                             ],
                             class: 'a_section_content',
@@ -1097,14 +1104,18 @@ $(function () {
                         class: 'a_section_head stat_ver_choose_wrap'
                     },
                     class: 'a_section',
-                    when: !this_avatar.isDev
+                    when: this_avatar.Rarity
                 },
                 {
                     div: {
-                        p: txt.DEV[lang]
+                        p: txt.DEV[lang],
+                        style: {
+                            'text-align': 'center',
+                            margin: '15px auto'
+                        }
                     },
                     class: 'a_section',
-                    when: this_avatar.isDev
+                    when: !this_avatar.Rarity
                 }
             ])
             $('.stat_ver_choose select').val(this_avatar_cur_ver)
@@ -1143,7 +1154,7 @@ $(function () {
                                         },
                                     }
                                 ],
-                                data: Object.keys(ST.Add),
+                                data: ST.Add ? Object.keys(ST.Add) : [],
                                 class: 'addprop'
                             },
                             class: 'a_section_content mon_head',
@@ -1154,6 +1165,7 @@ $(function () {
                         }
                     ],
                     class: 'a_section',
+                    when: ST.Add
                 },
                 {
                     div: [
@@ -1161,11 +1173,12 @@ $(function () {
                             div: [
                                 {
                                     img: imgpre + 'images/skillicons/' + this_avatar._id + '/' + ST.Tree1.Icon + '.png',
-                                    class: 'head_left'
+                                    class: 'head_left',
+                                    when: ST.Tree1.Icon != undefined
                                 },
                                 {
                                     p: ST.Tree1.Name[lang],
-                                    class: 'head_right hr_1',
+                                    class: ST.Tree1.Icon ? 'head_right hr_1' : 'hr_1',
                                     style: {
                                         color: "#" + elemcolor[this_avatar.Element]
                                     }
@@ -1188,11 +1201,12 @@ $(function () {
                             div: [
                                 {
                                     img: imgpre + 'images/skillicons/' + this_avatar._id + '/' + ST.Tree2.Icon + '.png',
-                                    class: 'head_left'
+                                    class: 'head_left',
+                                    when: ST.Tree2.Icon != undefined
                                 },
                                 {
                                     p: ST.Tree2.Name[lang],
-                                    class: 'head_right hr_1',
+                                    class: ST.Tree2.Icon ? 'head_right hr_1' : 'hr_1',
                                     style: {
                                         color: "#" + elemcolor[this_avatar.Element]
                                     }
@@ -1215,11 +1229,12 @@ $(function () {
                             div: [
                                 {
                                     img: imgpre + 'images/skillicons/' + this_avatar._id + '/' + ST.Tree3.Icon + '.png',
-                                    class: 'head_left'
+                                    class: 'head_left',
+                                    when: ST.Tree3.Icon != undefined
                                 },
                                 {
                                     p: ST.Tree3.Name[lang],
-                                    class: 'head_right hr_1',
+                                    class: ST.Tree3.Icon ? 'head_right hr_1' : 'hr_1',
                                     style: {
                                         color: "#" + elemcolor[this_avatar.Element]
                                     }
@@ -1257,14 +1272,18 @@ $(function () {
                         class: 'a_section_head stat_ver_choose_wrap'
                     },
                     class: 'a_section',
-                    when: !this_avatar.isDev
+                    when: this_avatar.Rarity
                 },
                 {
                     div: {
-                        p: txt.DEV[lang]
+                        p: txt.DEV[lang],
+                        style: {
+                            'text-align': 'center',
+                            margin: '15px auto'
+                        }
                     },
                     class: 'a_section',
-                    when: this_avatar.isDev
+                    when: !this_avatar.Rarity
                 }
             ])
             $('.stat_ver_choose select').val(this_avatar_cur_ver)
@@ -1276,11 +1295,12 @@ $(function () {
                             div: [
                                 {
                                     img: imgpre + 'images/skillicons/' + this_avatar._id + '/' + S[this_avatar_cur_ver].Icon + '.png',
-                                    class: 'head_left'
+                                    class: 'head_left',
+                                    when: S[this_avatar_cur_ver].Icon != undefined
                                 },
                                 {
-                                    p: (i + 1) + ' ' + S[this_avatar_cur_ver].Name[lang],
-                                    class: 'head_right hr_1',
+                                    p: S[this_avatar_cur_ver].Rank + ' ' + S[this_avatar_cur_ver].Name[lang],
+                                    class: S[this_avatar_cur_ver].Icon ? 'head_right hr_1' : 'hr_1',
                                     style: {
                                         color: "#" + elemcolor[this_avatar.Element]
                                     }
@@ -1378,7 +1398,7 @@ $(function () {
         lv += 1
         $(".ld-" + sid).html("Lv" + lv)
         var S = _avatarskill[sid][this_avatar_cur_ver]
-        $('.sd-' + sid).html(param(S.Desc[lang], S.Params[lv - 1]))
+        $('.sd-' + sid).html(param(S.Desc[lang], S.Params ? S.Params[lv - 1] : []))
     })
 
     $('body').on('click', '.down', function () {
@@ -1388,7 +1408,7 @@ $(function () {
         lv -= 1
         $(".ld-" + sid).html("Lv" + lv)
         var S = _avatarskill[sid][this_avatar_cur_ver]
-        $('.sd-' + sid).html(param(S.Desc[lang], S.Params[lv - 1]))
+        $('.sd-' + sid).html(param(S.Desc[lang], S.Params ? S.Params[lv - 1] : []))
     })
 
     function popWeapon(ai) {
