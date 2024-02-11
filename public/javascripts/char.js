@@ -898,6 +898,17 @@ $(function () {
                                 }
                             },
                             {
+                                p: txt.Chart_Subtitle[lang],
+                                style: {
+                                    margin: '-5px auto 15px',
+                                    'font-size': '14px',
+                                    'text-align': 'center',
+                                    'color': '#f29e38',
+                                    width: '100%',
+                                    'font-weight': 'normal'
+                                }
+                            },
+                            {
                                 span: txt.StatVerChoose[lang]
                             },
                             {
@@ -920,9 +931,19 @@ $(function () {
                             style: {
                                 'text-align': 'center',
                                 margin: '15px auto',
-                                'font-size': '1.5em',
+                                'font-size': '1.3em',
                                 color: "#" + elemcolor[this_avatar.Element],
                                 'font-weight': 'bold'
+                            }
+                        },
+                        {
+                            p: txt.Chart_Subtitle[lang],
+                            style: {
+                                margin: '2px auto',
+                                'font-size': '14px',
+                                'text-align': 'center',
+                                'color': '#f29e38',
+                                width: '100%',
                             }
                         },
                         {
@@ -1123,6 +1144,17 @@ $(function () {
                                 }
                             },
                             {
+                                p: txt.Chart_Subtitle[lang],
+                                style: {
+                                    margin: '-5px auto 15px',
+                                    'font-size': '14px',
+                                    'text-align': 'center',
+                                    'color': '#f29e38',
+                                    width: '100%',
+                                    'font-weight': 'normal'
+                                }
+                            },
+                            {
                                 span: txt.StatVerChoose[lang]
                             },
                             {
@@ -1145,9 +1177,19 @@ $(function () {
                             style: {
                                 'text-align': 'center',
                                 margin: '15px auto',
-                                'font-size': '1.5em',
+                                'font-size': '1.3em',
                                 color: "#" + elemcolor[this_avatar.Element],
                                 'font-weight': 'bold'
+                            }
+                        },
+                        {
+                            p: txt.Chart_Subtitle[lang],
+                            style: {
+                                margin: '2px auto',
+                                'font-size': '14px',
+                                'text-align': 'center',
+                                'color': '#f29e38',
+                                width: '100%',
                             }
                         },
                         {
@@ -1313,6 +1355,17 @@ $(function () {
                                 }
                             },
                             {
+                                p: txt.Chart_Subtitle[lang],
+                                style: {
+                                    margin: '-5px auto 15px',
+                                    'font-size': '14px',
+                                    'text-align': 'center',
+                                    'color': '#f29e38',
+                                    width: '100%',
+                                    'font-weight': 'normal'
+                                }
+                            },
+                            {
                                 span: txt.StatVerChoose[lang]
                             },
                             {
@@ -1335,9 +1388,19 @@ $(function () {
                             style: {
                                 'text-align': 'center',
                                 margin: '15px auto',
-                                'font-size': '1.5em',
+                                'font-size': '1.3em',
                                 color: "#" + elemcolor[this_avatar.Element],
                                 'font-weight': 'bold'
+                            }
+                        },
+                        {
+                            p: txt.Chart_Subtitle[lang],
+                            style: {
+                                margin: '2px auto',
+                                'font-size': '14px',
+                                'text-align': 'center',
+                                'color': '#f29e38',
+                                width: '100%',
                             }
                         },
                         {
