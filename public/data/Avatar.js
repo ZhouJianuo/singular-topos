@@ -42558,7 +42558,7 @@ var _avatarrank = {
             },
             "Desc": {
                 "CH": "砂金施放普攻后，进行追加攻击：基于队伍中角色持有的护盾量总和，对目标造成虚数伤害。",
-                "EN": "After Aventurine performs a Basic ATK, he will perform a follow-up attack, dealing Imaginary DMG based on the sum of all allies' shield HP."
+                "EN": "After Aventurine performs a Basic ATK, Aventurine will perform a follow-up attack, dealing Imaginary DMG based on the sum of all allies' shield HP."
             }
         }
     },
