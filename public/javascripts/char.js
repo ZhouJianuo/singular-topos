@@ -888,6 +888,16 @@ $(function () {
                     div: {
                         div: [
                             {
+                                p: this_avatar.Name[lang],
+                                style: {
+                                    'text-align': 'center',
+                                    margin: '0px auto 15px',
+                                    width: '100%',
+                                    color: "#" + elemcolor[this_avatar.Element],
+                                    'font-weight': 'bold'
+                                }
+                            },
+                            {
                                 span: txt.StatVerChoose[lang]
                             },
                             {
@@ -904,13 +914,25 @@ $(function () {
                     when: this_avatar.Rarity
                 },
                 {
-                    div: {
-                        p: txt.DEV[lang],
-                        style: {
-                            'text-align': 'center',
-                            margin: '15px auto'
+                    div: [
+                        {
+                            p: this_avatar.Name[lang],
+                            style: {
+                                'text-align': 'center',
+                                margin: '15px auto',
+                                'font-size': '1.5em',
+                                color: "#" + elemcolor[this_avatar.Element],
+                                'font-weight': 'bold'
+                            }
+                        },
+                        {
+                            p: txt.DEV[lang],
+                            style: {
+                                'text-align': 'center',
+                                margin: '15px auto'
+                            }
                         }
-                    },
+                    ],
                     class: 'a_section',
                     when: !this_avatar.Rarity
                 }
@@ -1091,6 +1113,16 @@ $(function () {
                     div: {
                         div: [
                             {
+                                p: this_avatar.Name[lang],
+                                style: {
+                                    'text-align': 'center',
+                                    margin: '0px auto 15px',
+                                    width: '100%',
+                                    color: "#" + elemcolor[this_avatar.Element],
+                                    'font-weight': 'bold'
+                                }
+                            },
+                            {
                                 span: txt.StatVerChoose[lang]
                             },
                             {
@@ -1107,13 +1139,25 @@ $(function () {
                     when: this_avatar.Rarity
                 },
                 {
-                    div: {
-                        p: txt.DEV[lang],
-                        style: {
-                            'text-align': 'center',
-                            margin: '15px auto'
+                    div: [
+                        {
+                            p: this_avatar.Name[lang],
+                            style: {
+                                'text-align': 'center',
+                                margin: '15px auto',
+                                'font-size': '1.5em',
+                                color: "#" + elemcolor[this_avatar.Element],
+                                'font-weight': 'bold'
+                            }
+                        },
+                        {
+                            p: txt.DEV[lang],
+                            style: {
+                                'text-align': 'center',
+                                margin: '15px auto'
+                            }
                         }
-                    },
+                    ],
                     class: 'a_section',
                     when: !this_avatar.Rarity
                 }
@@ -1259,6 +1303,16 @@ $(function () {
                     div: {
                         div: [
                             {
+                                p: this_avatar.Name[lang],
+                                style: {
+                                    'text-align': 'center',
+                                    margin: '0px auto 15px',
+                                    width: '100%',
+                                    color: "#" + elemcolor[this_avatar.Element],
+                                    'font-weight': 'bold'
+                                }
+                            },
+                            {
                                 span: txt.StatVerChoose[lang]
                             },
                             {
@@ -1275,13 +1329,25 @@ $(function () {
                     when: this_avatar.Rarity
                 },
                 {
-                    div: {
-                        p: txt.DEV[lang],
-                        style: {
-                            'text-align': 'center',
-                            margin: '15px auto'
+                    div: [
+                        {
+                            p: this_avatar.Name[lang],
+                            style: {
+                                'text-align': 'center',
+                                margin: '15px auto',
+                                'font-size': '1.5em',
+                                color: "#" + elemcolor[this_avatar.Element],
+                                'font-weight': 'bold'
+                            }
+                        },
+                        {
+                            p: txt.DEV[lang],
+                            style: {
+                                'text-align': 'center',
+                                margin: '15px auto'
+                            }
                         }
-                    },
+                    ],
                     class: 'a_section',
                     when: !this_avatar.Rarity
                 }
