@@ -24,7 +24,25 @@ var _avatar = [
             900106
         ],
         "Icon": "avatarshopicon/999",
-        "Pic": "avatardrawcard/999.png"
+        "Pic": "avatardrawcard/999.png",
+        "CV": [
+            {
+                "CH": "马语非",
+                "EN": "马语非"
+            },
+            {
+                "CH": "Erik Braa",
+                "EN": "Erik Braa"
+            },
+            {
+                "CH": "三上哲",
+                "EN": "三上哲"
+            },
+            {
+                "CH": "박상훈",
+                "EN": "박상훈"
+            }
+        ]
     },
     {
         "_id": 1306,
