@@ -405,7 +405,17 @@ schedule {
     bottom: 3px;
 }
 
+.-dev {
+    text-align: center;
+    font-size: 14px;
+    margin: 15px 15px;
+    line-height: 1.5;
+}
+
 @media screen and (min-width: 500px) and (max-width: 800px) {
+    .-dev {
+        font-size: 15px;
+    }
     .stat_ver_choose_w select,
     .story_this select {
         width: 75px;
@@ -513,6 +523,9 @@ schedule {
 }
 
 @media screen and (min-width: 800px) {
+    .-dev {
+        font-size: 16px;
+    }
     .stat_ver_choose_w select,
     .story_this select {
         width: 77px;

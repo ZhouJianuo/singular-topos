@@ -948,10 +948,7 @@ $(function () {
                         },
                         {
                             p: txt.DEV[lang],
-                            style: {
-                                'text-align': 'center',
-                                margin: '15px auto'
-                            }
+                            class: "-dev"
                         }
                     ],
                     class: 'a_section',
@@ -1194,10 +1191,7 @@ $(function () {
                         },
                         {
                             p: txt.DEV[lang],
-                            style: {
-                                'text-align': 'center',
-                                margin: '15px auto'
-                            }
+                            class: "-dev"
                         }
                     ],
                     class: 'a_section',
@@ -1405,10 +1399,7 @@ $(function () {
                         },
                         {
                             p: txt.DEV[lang],
-                            style: {
-                                'text-align': 'center',
-                                margin: '15px auto'
-                            }
+                            class: "-dev"
                         }
                     ],
                     class: 'a_section',
