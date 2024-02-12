@@ -52,8 +52,8 @@ var txt = {
         "EN": "HomDGCat Wiki (formerly the Yuheng Cup Database) is built partly upon the site of Yuheng Cup, a Keqing-centered speedrunning contest held by Chinese Keqing players. The database is maintained by <b>HomDGCat</b>."
     },
     "About_2": {
-        "CH": "若发现数据有误或有建议<br>↓<br><a href='https://space.bilibili.com/3537104994831140' target='_blank'>(bilibili)</a> <a href='http://t.me/homdgcat'>(Telegram)</a> <a href='https://www.twitter.com/_homdgcat' target='_blank'>(Twitter)</a> <a href='https://www.reddit.com/user/homdgcat/' target='_blank'>(Reddit)</a>",
-        "EN": "If you spot errors or have suggestions<br>↓<br><a href='https://space.bilibili.com/3537104994831140' target='_blank'>(bilibili)</a> <a href='http://t.me/homdgcat'>(Telegram)</a> <a href='https://www.twitter.com/_homdgcat' target='_blank'>(Twitter)</a> <a href='https://www.reddit.com/user/homdgcat/' target='_blank'>(Reddit)</a>"
+        "CH": "若发现数据有误或有建议<br>↓<br><a href='https://space.bilibili.com/3537104994831140' target='_blank'>(bilibili)</a> <a href='http://t.me/homdgcat'>(Telegram)</a> <a href='https://www.twitter.com/_homdgcat' target='_blank'>(Twitter)</a> <a href='https://www.reddit.com/user/homdgcat2/' target='_blank'>(Reddit)</a>",
+        "EN": "If you spot errors or have suggestions<br>↓<br><a href='https://space.bilibili.com/3537104994831140' target='_blank'>(bilibili)</a> <a href='http://t.me/homdgcat'>(Telegram)</a> <a href='https://www.twitter.com/_homdgcat' target='_blank'>(Twitter)</a> <a href='https://www.reddit.com/user/homdgcat2/' target='_blank'>(Reddit)</a>"
     },
     "DidYouKnow": {
         "CH": "小知识",
