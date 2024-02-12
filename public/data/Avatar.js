@@ -87,6 +87,48 @@ var _avatar = [
         ]
     },
     {
+        "_id": 1308,
+        "Name": {
+            "CH": "黄泉",
+            "EN": "Acheron"
+        },
+        "Element": "Elec",
+        "Path": "Nihility",
+        "Skills": [
+            900301,
+            900303,
+            900304,
+            900305,
+            900307
+        ],
+        "Ranks": [
+            900301,
+            900302,
+            900304,
+            900306
+        ],
+        "Icon": "avatarshopicon/999",
+        "Pic": "avatardrawcard/999.png",
+        "CV": [
+            {
+                "CH": "菊花花",
+                "EN": "菊花花"
+            },
+            {
+                "CH": "Allegra Clark",
+                "EN": "Allegra Clark"
+            },
+            {
+                "CH": "泽城美雪",
+                "EN": "泽城美雪"
+            },
+            {
+                "CH": "박지윤",
+                "EN": "박지윤"
+            }
+        ]
+    },
+    {
         "_id": 1306,
         "Ver": "2.0",
         "Name": {
@@ -35418,8 +35460,8 @@ var _avatarskill = {
             },
             "MaxLevel": 1,
             "Desc": {
-                "CH": "",
-                "EN": ""
+                "CH": "基于攻击力造成雷属性伤害，并获得 1 点能量。",
+                "EN": "Deals Thunder DMG based on ATK, and gains 1 Energy Point."
             }
         }
     },
@@ -35431,8 +35473,8 @@ var _avatarskill = {
             },
             "MaxLevel": 1,
             "Desc": {
-                "CH": "",
-                "EN": ""
+                "CH": "基于攻击力，对指定敌方单体和相邻目标造成雷属性伤害，并获得 2 点能量。",
+                "EN": "Deals Thunder DMG to a single target and adjacent targets based on ATK, and gains 2 Energy Points."
             }
         }
     },
@@ -35444,8 +35486,8 @@ var _avatarskill = {
             },
             "MaxLevel": 1,
             "Desc": {
-                "CH": "",
-                "EN": ""
+                "CH": "消耗所有能量点，进入终结态势，在回合内做出以下行动。终结态势期间敌方全体全属性抗性降低。<br><br>· 对敌方全体造成雷属性伤害，并对所有持有【红莲】的单体目标触发<color style='color:#f29e38'>【红莲开绽】</color>。<br>· 再次行动，对敌方全体造成雷属性伤害，并对所有持有【红莲】的单体目标触发<color style='color:#f29e38'>【红莲开绽】</color>。<br>· 再次行动，对敌方全体造成雷属性伤害，并对所有持有【红莲】的单体目标触发<color style='color:#f29e38'>【红莲开绽】</color>。<br>· 再次行动，对敌方全体造成雷属性伤害。最后移除敌方所有【红莲】，并退出终结态势。",
+                "EN": "Consumes all Energy Points, and enters the Ultra Pose, performing the following actions within 1 turn. During Ultra Pose, all enemies' All-Type RES is decreased.<br><br>· Deals Thunder DMG to all targets, and triggers <color style='color:#f29e38'>Lotus Bloom</color> on every single target that has Lotus.<br>· Acts again, dealing Thunder DMG to all targets, and triggers <color style='color:#f29e38'>Lotus Bloom</color> on every single target that has Lotus.<br>· Acts again, dealing Thunder DMG to all targets, and triggers <color style='color:#f29e38'>Lotus Bloom</color> on every single target that has Lotus.<br>· Acts again, dealing Thunder DMG to all targets. In the end, remove all Lotus from enemies and exits Ultra Pose."
             }
         }
     },
@@ -35457,8 +35499,8 @@ var _avatarskill = {
             },
             "MaxLevel": 1,
             "Desc": {
-                "CH": "",
-                "EN": ""
+                "CH": "<color style='color:#f29e38'><b>能量点</b></color><br>黄泉初始具有 0 点能量。持有足够能量点时，可以施放终结技。黄泉每获得 1 点能量，会对黄泉攻击的目标单体施加 1 枚【红莲】。若黄泉没有目标，则优先选择持有红莲数目多的目标和精英目标。<br><br>任意敌方被施加负面状态时，黄泉获得 1 点能量。该效果每回合至多触发1次。<br>敌方被击败或逃跑时，持有的红莲会转移到其他目标。<br><br><color style='color:#f29e38'><b>红莲开绽</b></color><br>消耗指定单体的【红莲】，每个单体最多消耗 3 枚。<br>对敌方全体造成雷属性伤害，此伤害视为终结技伤害。每消耗 1 枚红莲，此伤害额外提升 100%（此效果为独立提升）。",
+                "EN": "<color style='color:#f29e38'><b>Energy Point</b></color><br>Acheron initially has 0 Energy Points. When Acheron has enough Enegry Points, the Ultimate will be available. For every Energy Point gained, Acheron will apply 1 Lotus to a her target. If Acheron does not have a target, the target holding the highest number of Lotus will be selected, prioritizing Elite enemies.<br><br>When any enemy is inflicted with a debuff, Acheron gains 1 Energy Point. This can be triggered once every turn.<br>When an enemy is defeated or escapes, their Lotus will be transferred to other targets.<br><br><color style='color:#f29e38'><b>Lotus Bloom</b></color><br>Consumes the Lotus held by a single target, with an upper limit of 3 per target.<br>Deals Thunder DMG to all targets. This DMG counts as Ultimate DMG. For every Lotus consumed, this DMG is increased by 100%, independent from other buffs."
             }
         }
     },
@@ -35470,8 +35512,8 @@ var _avatarskill = {
             },
             "MaxLevel": 1,
             "Desc": {
-                "CH": "",
-                "EN": ""
+                "CH": "立刻击杀敌方目标。若未能击杀，则进入战斗后对敌方全体造成雷属性伤害，并获得一些能量点。",
+                "EN": "Immediately kills an enemy target. If unsuccessful, will deal Thunder DMG to all targets after entering battle, and gains some Energy Points."
             }
         }
     }
@@ -37858,8 +37900,8 @@ var _avatarskilltree = {
                     "EN": "Trace 1"
                 },
                 "Desc": {
-                    "CH": "",
-                    "EN": ""
+                    "CH": "进入战斗时，获得一些能量点。",
+                    "EN": "After entering battle, will gain some Energy Points."
                 }
             },
             "Tree2": {
@@ -37868,8 +37910,8 @@ var _avatarskilltree = {
                     "EN": "Trace 2"
                 },
                 "Desc": {
-                    "CH": "",
-                    "EN": ""
+                    "CH": "根据队伍中虚无命途的角色的个数，黄泉造成的普攻、战技、终结技伤害获得独立提升。最多计入 2 名虚无命途角色，黄泉自身不计入。",
+                    "EN": "Acheron's Normal ATK, Skill and Ultimate DMG is increased (independently from other buffs) for every Nihility Path character in the team apart from Acheron. This counts a maximum of 2 Nihility Path characters."
                 }
             },
             "Tree3": {
@@ -37878,8 +37920,42 @@ var _avatarskilltree = {
                     "EN": "Trace 3"
                 },
                 "Desc": {
-                    "CH": "",
-                    "EN": ""
+                    "CH": "黄泉触发【红莲开绽】时，每消耗 1 枚红莲，自身造成的伤害提升，持续一些回合。",
+                    "EN": "When triggering Lotus Bloom, for every Lotus consumed, Acheron's DMG dealt is increased for some turns."
+                }
+            }
+        }
+    },
+    "1308": {
+        "v0": {
+            "Tree1": {
+                "Name": {
+                    "CH": "行迹 1",
+                    "EN": "Trace 1"
+                },
+                "Desc": {
+                    "CH": "进入战斗时，获得一些能量点。",
+                    "EN": "After entering battle, will gain some Energy Points."
+                }
+            },
+            "Tree2": {
+                "Name": {
+                    "CH": "行迹 2",
+                    "EN": "Trace 2"
+                },
+                "Desc": {
+                    "CH": "根据队伍中虚无命途的角色的个数，黄泉造成的伤害获得独立提升。最多计入 2 名虚无命途角色，黄泉自身不计入。",
+                    "EN": "For every Nihility Path character in the team, Acheron's DMG dealt is increased independently from other buffs. This counts a maximum of 2 Nihility Path characters, and does not count Acheron herself."
+                }
+            },
+            "Tree3": {
+                "Name": {
+                    "CH": "行迹 3",
+                    "EN": "Trace 3"
+                },
+                "Desc": {
+                    "CH": "黄泉触发<color style='color:#f29e38'>【红莲开绽】</color>时，每消耗 1 枚红莲，自身造成的伤害提升，持续一些回合。",
+                    "EN": "When triggering <color style='color:#f29e38'>Lotus Bloom</color>, for every Lotus consumed, Acheron's DMG dealt is increased for some turns."
                 }
             }
         }
@@ -42583,8 +42659,8 @@ var _avatarrank = {
                 "EN": "Eidolon"
             },
             "Desc": {
-                "CH": "",
-                "EN": ""
+                "CH": "我方角色对敌方施加负面状态时，黄泉的攻击力提升，暴击率提升。此效果持续整个战斗，有叠加上限。",
+                "EN": "When an ally applies a debuff to an enemy, Acheron's ATK and Crit Rate is increased. This effect lasts the entire battle and has an upper limit."
             }
         }
     },
@@ -42596,8 +42672,8 @@ var _avatarrank = {
                 "EN": "Eidolon"
             },
             "Desc": {
-                "CH": "",
-                "EN": ""
+                "CH": "行迹 #2 视为额外计入 1 名虚无命途角色。黄泉的回合开始时，获得 1 点能量。<br>需要解锁行迹 #2 。",
+                "EN": "Trace #2 will count 1 extra Nihility Path character. When Acheron's turn begins, Acheron will gain 1 Energy Point.<br>Trace #2 needs to be unlocked."
             }
         }
     },
@@ -42609,8 +42685,8 @@ var _avatarrank = {
                 "EN": "Eidolon"
             },
             "Desc": {
-                "CH": "",
-                "EN": ""
+                "CH": "施放终结技时，使全部敌方受到的终结技伤害提升，持续一些回合。",
+                "EN": "When performing Ultimate, all targets will recieve increased Ultimate DMG for some turns."
             }
         }
     },
@@ -42622,8 +42698,8 @@ var _avatarrank = {
                 "EN": "Eidolon"
             },
             "Desc": {
-                "CH": "",
-                "EN": ""
+                "CH": "黄泉造成的终结技伤害提升。黄泉的普攻和战技视为终结技。",
+                "EN": "Acheron's Ultimate DMG is increased. Acheron's Normal ATK and Skill will be regarded as Ultimate."
             }
         }
     }
@@ -81734,141 +81810,144 @@ var _search_avatar = {
     "9002": 1,
     "砂金": 1,
     "AVENTURINE": 1,
-    "1306": 2,
-    "花火": 2,
-    "SPARKLE": 2,
-    "1307": 3,
-    "黑天鹅": 3,
-    "BLACKSWAN": 3,
-    "1312": 4,
-    "米沙": 4,
-    "MISHA": 4,
-    "1214": 5,
-    "雪衣": 5,
-    "XUEYI": 5,
-    "1303": 6,
-    "阮·梅": 6,
-    "RUANMEI": 6,
-    "1305": 7,
-    "真理医生": 7,
-    "DR.RATIO": 7,
-    "1215": 8,
-    "寒鸦": 8,
-    "HANYA": 8,
-    "1217": 9,
-    "藿藿": 9,
-    "HUOHUO": 9,
-    "1302": 10,
-    "银枝": 10,
-    "ARGENTI": 10,
-    "1112": 11,
-    "托帕&账账": 11,
-    "TOPAZ&NUMBY": 11,
-    "1210": 12,
-    "桂乃芬": 12,
-    "GUINAIFEN": 12,
-    "1212": 13,
-    "镜流": 13,
-    "JINGLIU": 13,
-    "1110": 14,
-    "玲可": 14,
-    "LYNX": 14,
-    "1208": 15,
-    "符玄": 15,
-    "FUXUAN": 15,
-    "1213": 16,
-    "丹恒·饮月": 16,
-    "DANHENG•IMBIBITORLUNAE": 16,
-    "1005": 17,
-    "卡芙卡": 17,
-    "KAFKA": 17,
-    "1111": 18,
-    "卢卡": 18,
-    "LUKA": 18,
-    "1205": 19,
-    "刃": 19,
-    "BLADE": 19,
-    "1006": 20,
-    "银狼": 20,
-    "SILVERWOLF": 20,
-    "1203": 21,
-    "罗刹": 21,
-    "LUOCHA": 21,
-    "1207": 22,
-    "驭空": 22,
-    "YUKONG": 22,
-    "1001": 23,
-    "三月七": 23,
-    "MARCH7TH": 23,
-    "1002": 24,
-    "丹恒": 24,
-    "DANHENG": 24,
-    "1003": 25,
-    "姬子": 25,
-    "HIMEKO": 25,
-    "1004": 26,
-    "瓦尔特": 26,
-    "WELT": 26,
-    "1008": 27,
-    "阿兰": 27,
-    "ARLAN": 27,
-    "1009": 28,
-    "艾丝妲": 28,
-    "ASTA": 28,
-    "1013": 29,
-    "黑塔": 29,
-    "HERTA": 29,
-    "1101": 30,
-    "布洛妮娅": 30,
-    "BRONYA": 30,
-    "1102": 31,
-    "希儿": 31,
-    "SEELE": 31,
-    "1103": 32,
-    "希露瓦": 32,
-    "SERVAL": 32,
-    "1104": 33,
-    "杰帕德": 33,
-    "GEPARD": 33,
-    "1105": 34,
-    "娜塔莎": 34,
-    "NATASHA": 34,
-    "1106": 35,
-    "佩拉": 35,
-    "PELA": 35,
-    "1107": 36,
-    "克拉拉": 36,
-    "CLARA": 36,
-    "1108": 37,
-    "桑博": 37,
-    "SAMPO": 37,
-    "1109": 38,
-    "虎克": 38,
-    "HOOK": 38,
-    "1201": 39,
-    "青雀": 39,
-    "QINGQUE": 39,
-    "1202": 40,
-    "停云": 40,
-    "TINGYUN": 40,
-    "1204": 41,
-    "景元": 41,
-    "JINGYUAN": 41,
-    "1206": 42,
-    "素裳": 42,
-    "SUSHANG": 42,
-    "1209": 43,
-    "彦卿": 43,
-    "YANQING": 43,
-    "1211": 44,
-    "白露": 44,
-    "BAILU": 44,
-    "8001": 45,
-    "开拓者": 48,
-    "TRAILBLAZER": 48,
-    "8002": 46,
-    "8003": 47,
-    "8004": 48
+    "1308": 2,
+    "黄泉": 2,
+    "ACHERON": 2,
+    "1306": 3,
+    "花火": 3,
+    "SPARKLE": 3,
+    "1307": 4,
+    "黑天鹅": 4,
+    "BLACKSWAN": 4,
+    "1312": 5,
+    "米沙": 5,
+    "MISHA": 5,
+    "1214": 6,
+    "雪衣": 6,
+    "XUEYI": 6,
+    "1303": 7,
+    "阮·梅": 7,
+    "RUANMEI": 7,
+    "1305": 8,
+    "真理医生": 8,
+    "DR.RATIO": 8,
+    "1215": 9,
+    "寒鸦": 9,
+    "HANYA": 9,
+    "1217": 10,
+    "藿藿": 10,
+    "HUOHUO": 10,
+    "1302": 11,
+    "银枝": 11,
+    "ARGENTI": 11,
+    "1112": 12,
+    "托帕&账账": 12,
+    "TOPAZ&NUMBY": 12,
+    "1210": 13,
+    "桂乃芬": 13,
+    "GUINAIFEN": 13,
+    "1212": 14,
+    "镜流": 14,
+    "JINGLIU": 14,
+    "1110": 15,
+    "玲可": 15,
+    "LYNX": 15,
+    "1208": 16,
+    "符玄": 16,
+    "FUXUAN": 16,
+    "1213": 17,
+    "丹恒·饮月": 17,
+    "DANHENG•IMBIBITORLUNAE": 17,
+    "1005": 18,
+    "卡芙卡": 18,
+    "KAFKA": 18,
+    "1111": 19,
+    "卢卡": 19,
+    "LUKA": 19,
+    "1205": 20,
+    "刃": 20,
+    "BLADE": 20,
+    "1006": 21,
+    "银狼": 21,
+    "SILVERWOLF": 21,
+    "1203": 22,
+    "罗刹": 22,
+    "LUOCHA": 22,
+    "1207": 23,
+    "驭空": 23,
+    "YUKONG": 23,
+    "1001": 24,
+    "三月七": 24,
+    "MARCH7TH": 24,
+    "1002": 25,
+    "丹恒": 25,
+    "DANHENG": 25,
+    "1003": 26,
+    "姬子": 26,
+    "HIMEKO": 26,
+    "1004": 27,
+    "瓦尔特": 27,
+    "WELT": 27,
+    "1008": 28,
+    "阿兰": 28,
+    "ARLAN": 28,
+    "1009": 29,
+    "艾丝妲": 29,
+    "ASTA": 29,
+    "1013": 30,
+    "黑塔": 30,
+    "HERTA": 30,
+    "1101": 31,
+    "布洛妮娅": 31,
+    "BRONYA": 31,
+    "1102": 32,
+    "希儿": 32,
+    "SEELE": 32,
+    "1103": 33,
+    "希露瓦": 33,
+    "SERVAL": 33,
+    "1104": 34,
+    "杰帕德": 34,
+    "GEPARD": 34,
+    "1105": 35,
+    "娜塔莎": 35,
+    "NATASHA": 35,
+    "1106": 36,
+    "佩拉": 36,
+    "PELA": 36,
+    "1107": 37,
+    "克拉拉": 37,
+    "CLARA": 37,
+    "1108": 38,
+    "桑博": 38,
+    "SAMPO": 38,
+    "1109": 39,
+    "虎克": 39,
+    "HOOK": 39,
+    "1201": 40,
+    "青雀": 40,
+    "QINGQUE": 40,
+    "1202": 41,
+    "停云": 41,
+    "TINGYUN": 41,
+    "1204": 42,
+    "景元": 42,
+    "JINGYUAN": 42,
+    "1206": 43,
+    "素裳": 43,
+    "SUSHANG": 43,
+    "1209": 44,
+    "彦卿": 44,
+    "YANQING": 44,
+    "1211": 45,
+    "白露": 45,
+    "BAILU": 45,
+    "8001": 46,
+    "开拓者": 49,
+    "TRAILBLAZER": 49,
+    "8002": 47,
+    "8003": 48,
+    "8004": 49
 }
 
 var _search_weapon = {
