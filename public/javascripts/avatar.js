@@ -2319,9 +2319,12 @@ $(function () {
                         div: {
                             ul: {
                                 li: function (k) {
-                                    return "<br>" + k.data[lang]
+                                    return k.data[lang]
                                 },
-                                data: t.Notes
+                                data: t.Notes,
+                                style: {
+                                    'margin-top': '10px'
+                                }
                             },
                         },
                         class: 'a_section_content'
