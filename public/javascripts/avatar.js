@@ -1192,6 +1192,27 @@ $(function () {
                         div: {
                             div: [
                                 {
+                                    p: this_avatar.Name[lang],
+                                    style: {
+                                        'text-align': 'center',
+                                        margin: '0px auto 15px',
+                                        width: '100%',
+                                        color: color0,
+                                        'font-weight': 'bold'
+                                    }
+                                },
+                                {
+                                    p: computer_.MiscText.Chart_Subtitle[lang],
+                                    style: {
+                                        margin: '-5px auto 15px',
+                                        'font-size': '14px',
+                                        'text-align': 'center',
+                                        'color': '#f29e38',
+                                        width: '100%',
+                                        'font-weight': 'normal'
+                                    }
+                                },
+                                {
                                     span: computer_.MiscText.StatVerChoose[lang]
                                 },
                                 {
@@ -1406,6 +1427,27 @@ $(function () {
                         div: {
                             div: [
                                 {
+                                    p: this_avatar.Name[lang],
+                                    style: {
+                                        'text-align': 'center',
+                                        margin: '0px auto 15px',
+                                        width: '100%',
+                                        color: color0,
+                                        'font-weight': 'bold'
+                                    }
+                                },
+                                {
+                                    p: computer_.MiscText.Chart_Subtitle[lang],
+                                    style: {
+                                        margin: '-5px auto 15px',
+                                        'font-size': '14px',
+                                        'text-align': 'center',
+                                        'color': '#f29e38',
+                                        width: '100%',
+                                        'font-weight': 'normal'
+                                    }
+                                },
+                                {
                                     span: computer_.MiscText.StatVerChoose[lang]
                                 },
                                 {
@@ -1473,6 +1515,27 @@ $(function () {
                     {
                         div: {
                             div: [
+                                {
+                                    p: this_avatar.Name[lang],
+                                    style: {
+                                        'text-align': 'center',
+                                        margin: '0px auto 15px',
+                                        width: '100%',
+                                        color: color0,
+                                        'font-weight': 'bold'
+                                    }
+                                },
+                                {
+                                    p: computer_.MiscText.Chart_Subtitle[lang],
+                                    style: {
+                                        margin: '-5px auto 15px',
+                                        'font-size': '14px',
+                                        'text-align': 'center',
+                                        'color': '#f29e38',
+                                        width: '100%',
+                                        'font-weight': 'normal'
+                                    }
+                                },
                                 {
                                     span: computer_.MiscText.StatVerChoose[lang]
                                 },

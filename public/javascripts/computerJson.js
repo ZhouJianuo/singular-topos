@@ -1,5 +1,9 @@
 var computer_ = {
     "MiscText": {
+        "Chart_Subtitle": {
+            "CH": "玉衡杯数据库 homdgcat.wiki",
+            "EN": "homdgcat.wiki | t.me/homdgcat"
+        },
         "TITLE": {
             "CH": "玉衡杯数据库",
             "EN": "HomDGCat Wiki"
