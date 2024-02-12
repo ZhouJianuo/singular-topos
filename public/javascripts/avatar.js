@@ -26,6 +26,7 @@ $(function () {
     var cur_avatar = {}
     var cur_tnext = []
     var talk_state = 0
+    var easymode = 0
     colors = {
         "Fire": "#FF9999",
         "Water": "#80C0FF",
@@ -3371,6 +3372,17 @@ $(function () {
             $('.sort').show()
         } else {
             $('.sort').hide()
+        }
+    })
+
+    $('body').on('click', '.title', function () {
+        easymode = 1 - easymode
+        if (!easymode) {
+            $('.tlsub').show()
+            $('.links').show()
+        } else {
+            $('.tlsub').hide()
+            $('.links').hide()
         }
     })
 
