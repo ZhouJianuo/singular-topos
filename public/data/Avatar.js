@@ -35434,8 +35434,8 @@ var _avatarskill = {
             },
             "MaxLevel": 1,
             "Desc": {
-                "CH": "砂金护盾庇护下的角色（砂金自身除外）施放攻击时，砂金会获得一枚【金币】。<br>砂金护盾庇护下的角色受到攻击时，砂金会获得一枚【金币】；若此角色持有 A 牌，则砂金额外获得数枚【金币】。<br>砂金拥有 6 枚金币时，会消耗 6 枚金币，立刻施放追加攻击【金币攻击】：基于防御力，对随机敌方单体造成多段攻击，且有概率使目标的效果命中降低。此后，拥有砂金护盾的角色舍弃原来的牌，重新抽牌。",
-                "EN": "When allies protected by Aventurine Shield perform an attack, Aventurine gains 1 Coin.<br>When allies protected by Aventurine Shield suffer from an attack, Aventurine gains 1 Coin. If the character has an A card, Aventurine will gain extra Coins.<br>When Aventurine has 6 Coins, he will consume 6 coins to perform the follow-up attack \"Coin Attack\": Deal multiple instances of Imaginary DMG to random targets, with a chance to lower the target's Effect Hit Rate. Then, all allies under Aventurine Shield will discard their card and pull a new one."
+                "CH": "砂金护盾庇护下的角色（砂金自身除外）施放追加攻击时，砂金会获得一枚【金币】。<br>砂金护盾庇护下的角色受到攻击时，砂金会获得一枚【金币】；若此角色持有 A 牌，则砂金额外获得数枚【金币】。<br>砂金拥有 6 枚金币时，会消耗 6 枚金币，立刻施放追加攻击【金币攻击】：基于防御力，对随机敌方单体造成多段攻击，且有概率使目标的效果命中降低。此后，拥有砂金护盾的角色舍弃原来的牌，重新抽牌。",
+                "EN": "When allies protected by Aventurine Shield (excluding Aventurine) perform a follow-up attack, Aventurine gains 1 Coin.<br>When allies protected by Aventurine Shield suffer from an attack, Aventurine gains 1 Coin. If the character has an A card, Aventurine will gain extra Coins.<br>When Aventurine has 6 Coins, he will consume 6 coins to perform the follow-up attack \"Coin Attack\": Deal multiple instances of Imaginary DMG to random targets, with a chance to lower the target's Effect Hit Rate. Then, all allies under Aventurine Shield will discard their card and pull a new one."
             }
         }
     },
