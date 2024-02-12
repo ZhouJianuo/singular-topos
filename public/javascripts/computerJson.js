@@ -9,8 +9,8 @@ var computer_ = {
             "EN": "HomDGCat Wiki"
         },
         "Subtitle": {
-            "CH": "<p><b><color style='white-space:pre;'><a href='https://space.bilibili.com/3537104994831140' target='_blank'>bilibili@妮可少女</a> | <a href='http://t.me/homdgcat' target='_blank'>t.me/homdgcat</a></color></b></p>",
-            "EN": "<p><b><color style='white-space:pre;'><a href='http://t.me/homdgcat' target='_blank'>t.me/homdgcat</a> | <a href='https://www.twitter.com/_homdgcat' target='_blank'>X@_homdgcat</a></color></b></p>"
+            "CH": "<p><b><span style='white-space:pre;'><a href='https://space.bilibili.com/3537104994831140' target='_blank'>bilibili@妮可少女</a> | <a href='http://t.me/homdgcat' target='_blank'>t.me/homdgcat</a></span></b></p>",
+            "EN": "<p><b>homdgcat.wiki | <span style='white-space:pre;'><a href='http://t.me/homdgcat' target='_blank'>t.me/homdgcat</a></span></b></p>"
         },
         "Subtitle_": {
             "CH": "<p><b>玉衡杯数据库 - bilibili@妮可少女 | t.me/homdgcat</b></p>",
