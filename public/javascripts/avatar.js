@@ -1252,7 +1252,7 @@ $(function () {
                                             },
                                             {
                                                 p: function (k) {
-                                                    return k.data.Name[lang]
+                                                    return is_ru ? (k.data.Name.RU ? k.data.Name.RU : k.data.Name.EN) : k.data.Name[lang]
                                                 },
                                                 a: {
                                                     class: function (k) {
@@ -1269,7 +1269,7 @@ $(function () {
                                         div: [
                                             {
                                                 p: function (k) {
-                                                    return k.data.Desc[lang]
+                                                    return is_ru ? (k.data.Desc.RU ? k.data.Desc.RU : k.data.Desc.EN) : k.data.Desc[lang]
                                                 }
                                             }
                                         ],
@@ -1318,7 +1318,7 @@ $(function () {
                                                 div: [
                                                     {
                                                         span: function (s) {
-                                                            return s.data.Desc[lang]
+                                                            return is_ru ? (s.data.Desc.RU ? s.data.Desc.RU : s.data.Desc.EN) : s.data.Desc[lang]
                                                         },
                                                         style: {
                                                             width: 'max-content'
@@ -1485,7 +1485,7 @@ $(function () {
                                     },
                                     {
                                         p: function (k) {
-                                            return k.data.Name[lang]
+                                            return is_ru ? (k.data.Name.RU ? k.data.Name.RU : k.data.Name.EN) : k.data.Name[lang]
                                         },
                                         a: {
                                             class: function (k) {
@@ -1501,7 +1501,7 @@ $(function () {
                             {
                                 div: {
                                     p: function (k) {
-                                        return k.data.Desc[lang]
+                                        return is_ru ? (k.data.Desc.RU ? k.data.Desc.RU : k.data.Desc.EN) : k.data.Desc[lang]
                                     }
                                 },
                                 class: 'a_section_content'
@@ -1574,7 +1574,7 @@ $(function () {
                                     },
                                     {
                                         p: function (k) {
-                                            return k.data.Name[lang]
+                                            return is_ru ? (k.data.Name.RU ? k.data.Name.RU : k.data.Name.EN) : k.data.Name[lang]
                                         },
                                         a: {
                                             class: function (k) {
@@ -1591,7 +1591,7 @@ $(function () {
                                 div: [
                                     {
                                         p: function (k) {
-                                            return k.data.Desc[lang]
+                                            return is_ru ? (k.data.Desc.RU ? k.data.Desc.RU : k.data.Desc.EN) : k.data.Desc[lang]
                                         }
                                     },
                                 ],

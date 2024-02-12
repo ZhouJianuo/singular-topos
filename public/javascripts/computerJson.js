@@ -6116,6 +6116,8 @@ var links = [
     },
 ]
 
+var is_ru = 0
+
 var _lang = 0
 var DATE = new Date()
 document.cookie.split(";").forEach(function (c) { 
@@ -6127,6 +6129,11 @@ document.cookie.split(";").forEach(function (c) {
 });
 
 var lang_ = $('#LANG').val()
+if (lang_ == 'RU') {
+    is_ru = 1
+    lang_ = 'EN'
+}
+    
 var lang = 'EN'
 if (lang_) {
     lang = lang_
