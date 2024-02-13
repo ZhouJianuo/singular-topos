@@ -18,7 +18,8 @@ $(function() {
         document.cookie = 'lang=' + (is_ru ? 'RU' : lang_) + ';expires=' + new Date(DATE.getTime() + 8640000000).toUTCString() + ';path=/'
     } else {
         if (_lang == 'RU') {
-            lang = 'RU'
+            is_ru = 1
+            lang = 'EN'
         } else {
             lang = (_lang === 'CH') ? 'CH' : 'EN';
         }
