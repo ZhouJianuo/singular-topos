@@ -518,6 +518,17 @@ $(function () {
                         {
                             div: [
                                 {
+                                    p: 'ID ' + this_avatar._id,
+                                    style: {
+                                        'text-align': 'center',
+                                        'font-size': '0.8em',
+                                        'font-weight': 'bold',
+                                        'margin-top': '4px',
+                                        'margin-bottom': '-4px'
+                                    },
+                                    when: this_avatar.Rarity == 5
+                                },
+                                {
                                     p: '★ ★ ★ ★ ★',
                                     style: {
                                         width: '100%',
@@ -1138,6 +1149,7 @@ $(function () {
             })
         }
         if (i == 3) {
+            var skill_id = (this_avatar._id > 8000) ? ((this_avatar._id % 2 == 1) ? this_avatar._id : this_avatar._id - 1) : this_avatar._id
             $('.mon_body').render([
                 {
                     div: {
@@ -1264,7 +1276,7 @@ $(function () {
                         {
                             div: [
                                 {
-                                    img: imgpre + 'images/skillicons/' + this_avatar._id + '/' + ST.Tree1.Icon + '.png',
+                                    img: imgpre + 'images/skillicons/' + skill_id + '/' + ST.Tree1.Icon + '.png',
                                     class: 'head_left',
                                     when: ST.Tree1.Icon != undefined
                                 },
@@ -1292,7 +1304,7 @@ $(function () {
                         {
                             div: [
                                 {
-                                    img: imgpre + 'images/skillicons/' + this_avatar._id + '/' + ST.Tree2.Icon + '.png',
+                                    img: imgpre + 'images/skillicons/' + skill_id + '/' + ST.Tree2.Icon + '.png',
                                     class: 'head_left',
                                     when: ST.Tree2.Icon != undefined
                                 },
@@ -1320,7 +1332,7 @@ $(function () {
                         {
                             div: [
                                 {
-                                    img: imgpre + 'images/skillicons/' + this_avatar._id + '/' + ST.Tree3.Icon + '.png',
+                                    img: imgpre + 'images/skillicons/' + skill_id + '/' + ST.Tree3.Icon + '.png',
                                     class: 'head_left',
                                     when: ST.Tree3.Icon != undefined
                                 },
