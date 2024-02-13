@@ -17,7 +17,11 @@ $(function() {
         var lang = lang_
         document.cookie = 'lang=' + (is_ru ? 'RU' : lang_) + ';expires=' + new Date(DATE.getTime() + 8640000000).toUTCString() + ';path=/'
     } else {
-        var lang = (_lang === 'CH') ? 'CH' : 'EN';
+        if (_lang == 'RU') {
+            lang = 'RU'
+        } else {
+            lang = (_lang === 'CH') ? 'CH' : 'EN';
+        }
     }
 
     if (lang == 'CH') document.title = '玉衡杯数据库'
