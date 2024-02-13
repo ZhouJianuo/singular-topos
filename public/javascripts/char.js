@@ -579,6 +579,15 @@ $(function () {
                                         when: this_avatar.Camp
                                     }
                                 },
+                                {
+                                    div: {
+                                        p: this_avatar.Desc ? this_avatar.Desc[lang] : '',
+                                        style: {
+                                            'text-align': 'center'
+                                        },
+                                        when: this_avatar.Desc
+                                    }
+                                },
                             ],
                             class: 'a_section_content',
                             style: {
@@ -1412,33 +1421,57 @@ $(function () {
             $('.stat_ver_choose select').val(this_avatar_cur_ver)
             this_avatar.Ranks.forEach(function (s, i) {
                 var S = _avatarrank[s]
+                var skill_id = (this_avatar._id > 8000) ? ((this_avatar._id % 2 == 1) ? this_avatar._id : this_avatar._id - 1) : this_avatar._id
                 $('.mon_body').render({
                     div: [
                         {
-                            div: [
-                                {
-                                    img: imgpre + 'images/skillicons/' + this_avatar._id + '/' + S[this_avatar_cur_ver].Icon + '.png',
-                                    class: 'head_left',
-                                    when: S[this_avatar_cur_ver].Icon != undefined
-                                },
-                                {
-                                    p: S[this_avatar_cur_ver].Rank + ' ' + S[this_avatar_cur_ver].Name[lang],
-                                    class: S[this_avatar_cur_ver].Icon ? 'head_right hr_1' : 'hr_1',
-                                    style: {
-                                        color: "#" + elemcolor[this_avatar.Element]
-                                    }
-                                },
-                            ],
-                            class: 'a_section_head head_withimg'
+                            div: {
+                                img: imgpre + 'images/rank/_dependencies/textures/' + this_avatar._id + '/' + this_avatar._id + '_Rank_' + (i + 1) + '.png',
+                                style: {
+                                    width: '100%'
+                                }
+                            },
+                            class: 'rank_up',
+                            when: this_avatar.Rarity != undefined
                         },
                         {
-                            div: {
-                                p: S[this_avatar_cur_ver].Desc[lang],
-                            },
-                            class: 'a_section_content'
+                            div: [
+                                {
+                                    div: [
+                                        {
+                                            img: imgpre + 'images/skillicons/' + skill_id + '/' + S[this_avatar_cur_ver].Icon + '.png',
+                                            class: 'head_left',
+                                            when: S[this_avatar_cur_ver].Icon != undefined
+                                        },
+                                        {
+                                            p: S[this_avatar_cur_ver].Rank + ' ' + S[this_avatar_cur_ver].Name[lang],
+                                            class: S[this_avatar_cur_ver].Icon ? 'head_right hr_1' : 'hr_1',
+                                            style: {
+                                                color: "#" + elemcolor[this_avatar.Element]
+                                            }
+                                        },
+                                    ],
+                                    class: 'a_section_head head_withimg'
+                                },
+                                {
+                                    div: {
+                                        p: S[this_avatar_cur_ver].Desc[lang],
+                                    },
+                                    class: 'a_section_content'
+                                }
+                            ],
+                            class: 'rank_down',
+                            style: {
+                                width: (this_avatar.Rarity != undefined) ? '' : '100%'
+                            }
                         }
                     ],
                     class: 'a_section',
+                    style: {
+                        display: 'flex',
+                        'flex-wrap': 'wrap',
+                        'justify-content': 'center'
+                    }
                 })
             })
         }

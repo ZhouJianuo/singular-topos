@@ -135,6 +135,10 @@ var _avatar = [
             "CH": "花火",
             "EN": "Sparkle"
         },
+        "Desc": {
+            "CH": "「假面愚者」的成员之一，难以捉摸，不择手段。<br>危险的戏剧大师，沉迷于扮演，身怀千张假面，能化万种面相。<br>财富、地位、权利…于花火而言都不重要，能让她出手的，唯有「乐趣」。",
+            "EN": "A member of the Masked Fools. Inscrutable and unscrupulous.<br>A dangerous maestro of theatrics, utterly engrossed in the art of performance. Adorned with innumerable masks, she is the hero with a thousand faces.<br>Wealth, status, power... None of those matters to Sparkle. The only thing that can get her attention is \"amusement.\""
+        },
         "Rarity": 5,
         "Element": "Quantum",
         "Path": "Harmony",
@@ -303,6 +307,10 @@ var _avatar = [
         "Name": {
             "CH": "黑天鹅",
             "EN": "Black Swan"
+        },
+        "Desc": {
+            "CH": "流光忆庭的忆者，慵懒神秘的占卜师。<br>耐心聆听他人「记忆」，诸般命运尽在掌握。",
+            "EN": "A Memokeeper of the Garden of Recollection. An indolent and mysterious soothsayer.<br>\"Remembrance\" of men are hers to heed, threads of fate are hers to tug."
         },
         "Rarity": 5,
         "Element": "Wind",
@@ -473,6 +481,10 @@ var _avatar = [
             "CH": "米沙",
             "EN": "Misha"
         },
+        "Desc": {
+            "CH": "匹诺康尼酒店的门童侍应，乖巧懂事的小男孩。<br>对无名客抱有极大憧憬，梦想有朝一日自己也能踏上旅途。",
+            "EN": "A well-behaved young man serving as a hotel bellboy in Penacony.<br>Misha has a great longing for the Nameless and dreams of one day embarking on a journey of his own."
+        },
         "Rarity": 4,
         "Element": "Ice",
         "Path": "Destruction",
@@ -641,6 +653,10 @@ var _avatar = [
         "Name": {
             "CH": "雪衣",
             "EN": "Xueyi"
+        },
+        "Desc": {
+            "CH": "仙舟「罗浮」上监察生死的机构「十王司」的判官。<br>早已身死道消多年，借偃偶身躯「还阳」，履行使命。",
+            "EN": "Judge of the Ten-Lords Commission, which presides over the jurisdiction of life and death on the Luofu.<br>For years after her death, she inhabited a puppet body and returned to the world to fulfill her mission."
         },
         "Rarity": 4,
         "Element": "Quantum",
@@ -811,6 +827,10 @@ var _avatar = [
             "CH": "阮 · 梅",
             "EN": "Ruan Mei"
         },
+        "Desc": {
+            "CH": "天才俱乐部会员，生命科学领域专家，与黑塔等人联手研发模拟宇宙。",
+            "EN": "A member of the Genius Society and an expert in life sciences. She teamed up with Herta and others to develop the Simulated Universe."
+        },
         "Rarity": 5,
         "Element": "Ice",
         "Path": "Harmony",
@@ -979,6 +999,10 @@ var _avatar = [
         "Name": {
             "CH": "真理医生",
             "EN": "Dr. Ratio"
+        },
+        "Desc": {
+            "CH": "博识学会学者。<br>性情古怪、言辞刻薄却又风度翩翩。<br>奇异石膏头雕下的面容似乎出人意料的俊美。",
+            "EN": "Member of the Intelligentsia Guild.<br>Eccentric temperament, sharp-tongued but with an elegant demeanor.<br>The face under the strange alabaster head sculpture is apparently unexpectedly handsome."
         },
         "Rarity": 5,
         "Element": "Imaginary",
@@ -1149,6 +1173,10 @@ var _avatar = [
             "CH": "寒鸦",
             "EN": "Hanya"
         },
+        "Desc": {
+            "CH": "仙舟「罗浮」十王司的判官之一。<br>受命十王，执掌冥谶天笔，读取罪业种种，并下达业报判罚。",
+            "EN": "One of the judges of the Xianzhou Luofu's Ten-Lords Commission.<br>Ordained by the Ten-Lords and wielding the authority of the Oracle Brush, she reads the multitudes of human sins and transgressions, then issues punishments and karmic retribution."
+        },
         "Rarity": 4,
         "Element": "Phys",
         "Path": "Harmony",
@@ -1318,6 +1346,10 @@ var _avatar = [
             "CH": "藿藿",
             "EN": "Huohuo"
         },
+        "Desc": {
+            "CH": "仙舟罗浮的十王司见习判官，被岁阳附身的狐人小女孩。<br>性格怯懦，弱小可怜，害怕种种怪异之事却肩负起勾摄邪魔的职责。",
+            "EN": "A trainee Ten-Lords Commission Judge of the Xianzhou Luofu, she is a young Foxian girl possessed by a heliobus.<br>She is a timid and weak girl who is afraid of all kinds of strange things, but is responsible for luring and subduing evil spirits."
+        },
         "Rarity": 5,
         "Element": "Wind",
         "Path": "Abundance",
@@ -1486,6 +1518,10 @@ var _avatar = [
         "Name": {
             "CH": "银枝",
             "EN": "Argenti"
+        },
+        "Desc": {
+            "CH": "「纯美骑士团」的古典骑士，虔诚地仰慕着已失踪的「纯美」星神伊德莉拉。<br>为人正直、光明磊落，于宇宙中漫游，宣扬伊德莉拉的美名。",
+            "EN": "A classic knight of the \"Knights of Beauty\" who is piously seeking his missing Aeon Idrila the \"Beauty.\"<br>Forthright and candid, he wanders the cosmos espousing the virtues of Idrila's good name."
         },
         "Rarity": 5,
         "Element": "Phys",
@@ -1657,6 +1693,10 @@ var _avatar = [
             "CH": "托帕&账账",
             "EN": "Topaz & Numby"
         },
+        "Desc": {
+            "CH": "星际和平公司旗下「战略投资部」高级干部托帕，领导特殊债务纠察小组。<br>年纪轻轻便已成为「石心十人」之一，基石为「催讨黄玉」。<br>搭档次元扑满「账账」则能敏锐感知「财富」所在，即便是安保、催债、精算等工作也不在话下。<br>如今他们正一同巡行银河，追究各类影响公司业务开展的债务纠纷。",
+            "EN": "Topaz is the Leader of the Special Debts Picket Team and high-level manager of the Strategic Investment Department under the Interastral Peace Corporation.<br>A member of the \"Ten Stonehearts\" at a young age, Topaz's foundational expertise is \"debt retrieval.\"<br>Her partner, the Warp Trotter \"Numby,\" is also capable of keenly perceiving where \"riches\" are located, ensuring that jobs based in security, debt collection, and actuarial varieties are of no great challenge.<br>At presently they are traveling the cosmos together, seeking all manner of liability disputes that might be affecting the stable progression of the IPC's businesses."
+        },
         "Rarity": 5,
         "Element": "Fire",
         "Path": "Hunt",
@@ -1826,6 +1866,10 @@ var _avatar = [
             "CH": "桂乃芬",
             "EN": "Guinaifen"
         },
+        "Desc": {
+            "CH": "客居仙舟「罗浮」的行为艺术家——或者说，街头艺人。<br>在三餐温饱之余，追逐着自己在罗浮的新生活。",
+            "EN": "A performance artist visiting the Xianzhou Luofu — in other words, a street performer.<br>She's chasing a new life on the Luofu when not concerned with food and shelter."
+        },
         "Rarity": 4,
         "Element": "Fire",
         "Path": "Nihility",
@@ -1994,6 +2038,10 @@ var _avatar = [
         "Name": {
             "CH": "镜流",
             "EN": "Jingliu"
+        },
+        "Desc": {
+            "CH": "曾经的罗浮剑首，云骑军不败盛名的缔造者。<br>而今其名字已被抹去，成为行走于魔阴身边缘的仙舟叛徒。",
+            "EN": "Former Sword Champion of the Luofu, and the creator of the Cloud Knights' legends of undefeated might.<br>Now, her name has been wiped from the records, and she is a traitor of the Xianzhou walking on the fine line between sanity and mara-struck."
         },
         "Rarity": 5,
         "Element": "Ice",
@@ -2165,6 +2213,10 @@ var _avatar = [
             "CH": "玲可",
             "EN": "Lynx"
         },
+        "Desc": {
+            "CH": "贝洛伯格的雪原探险家，朗道家的小妹妹。<br>性格淡定，行动力极强。常常孤身前往雪原探险。",
+            "EN": "A Belobogian Snow Plains Explorer, and the youngest of the Landau siblings.<br>Calm and collected, with a strong drive for action. Often embarks on solo adventures to explore the snowy wilderness."
+        },
         "Rarity": 4,
         "Element": "Quantum",
         "Path": "Abundance",
@@ -2334,6 +2386,10 @@ var _avatar = [
             "CH": "符玄",
             "EN": "Fu Xuan"
         },
+        "Desc": {
+            "CH": "仙舟「罗浮」太卜司之首。<br>凭借第三眼与穷观阵为仙舟占算航路，预卜事务吉凶。",
+            "EN": "Head of the Divination Commission on the Luofu.<br>The person who uses the third eye and Matrix of Prescience to foretell the route of Xianzhou and the outcomes of events."
+        },
         "Rarity": 5,
         "Element": "Quantum",
         "Path": "Preservation",
@@ -2502,6 +2558,10 @@ var _avatar = [
         "Name": {
             "CH": "丹恒 · 饮月",
             "EN": "Dan Heng • Imbibitor Lunae"
+        },
+        "Desc": {
+            "CH": "丹恒身为持明族的本相，其上一世「饮月君」所遗存的力量。<br>接受了额顶的峥嵘角冠，就要接受那罪人所立的一切功过。",
+            "EN": "Dan Heng's true form from his Vidyadhara lineage carries the residual power left behind by his past incarnation, the Imbibitor Lunae.<br>Upon accepting the majestic horns atop his crown, he must accept all the merits and faults attributed to that sinner."
         },
         "Rarity": 5,
         "Element": "Imaginary",
@@ -2676,6 +2736,10 @@ var _avatar = [
             "CH": "卡芙卡",
             "EN": "Kafka"
         },
+        "Desc": {
+            "CH": "「星核猎手」的成员，潇洒从容的职业装丽人。<br>利用言灵术，设计令开拓者吸收星核。<br>爱好是购买及整理大衣。",
+            "EN": "A member of the Stellaron Hunters. A dashing, collected, and professional beauty.<br>Used the enchantment of Spirit Whisper to set up Trailblazer to absorb the Stellaron.<br>Her hobby is shopping for and organizing her collection of coats."
+        },
         "Rarity": 5,
         "Element": "Elec",
         "Path": "Nihility",
@@ -2844,6 +2908,10 @@ var _avatar = [
         "Name": {
             "CH": "卢卡",
             "EN": "Luka"
+        },
+        "Desc": {
+            "CH": "贝洛伯格下层区的冠军拳手，「地火」的得力干将之一。<br>搏击俱乐部的蝉联冠军，以自身的热情激励着下层区有梦想的孩子们。",
+            "EN": "The boxing champion in Belobog's Underworld, and one of Wildfire's most capable fighters.<br>The consecutive reigning champion of the Fight Club, whose enthusiasm inspires children of the Underworld to dream big."
         },
         "Rarity": 4,
         "Element": "Phys",
@@ -3015,6 +3083,10 @@ var _avatar = [
             "CH": "刃",
             "EN": "Blade"
         },
+        "Desc": {
+            "CH": "「星核猎手」的成员，弃身锋刃的剑客。<br>效忠于「命运的奴隶」，拥有可怖的自愈能力。",
+            "EN": "A member of the Stellaron Hunters, and a swordsman who abandoned his body to become a blade.<br>Pledges loyalty to \"Destiny's Slave,\" and possesses a terrifying self-healing ability."
+        },
         "Rarity": 5,
         "Element": "Wind",
         "Path": "Destruction",
@@ -3185,6 +3257,10 @@ var _avatar = [
             "CH": "银狼",
             "EN": "Silver Wolf"
         },
+        "Desc": {
+            "CH": "「星核猎手」的成员，骇客高手。<br>将宇宙视作大型沉浸式模拟游戏，玩乐其中。<br>掌握了能够修改现实数据的「以太编辑」。",
+            "EN": "A member of the Stellaron Hunters and a genius hacker.<br>She sees the universe as a massive immersive simulation game and has fun with it.<br>She's mastered the skill known as \"aether editing,\" which can be used to tamper with the data of reality."
+        },
         "Rarity": 5,
         "Element": "Quantum",
         "Path": "Nihility",
@@ -3353,6 +3429,10 @@ var _avatar = [
         "Name": {
             "CH": "罗刹",
             "EN": "Luocha"
+        },
+        "Desc": {
+            "CH": "随身携带着棺椁，自天之外海而来的化外行商。<br>医术精湛。",
+            "EN": "Carrying a coffin wherever he goes, he is a foreign trader who came from beyond the stellar seas.<br>Has excellent medical skills."
         },
         "Rarity": 5,
         "Element": "Imaginary",
@@ -3523,6 +3603,10 @@ var _avatar = [
             "CH": "驭空",
             "EN": "Yukong"
         },
+        "Desc": {
+            "CH": "仙舟「罗浮」天舶司的首领，久历战阵的飞行士与射手。<br>而今却陷于繁冗公务，难以抽身。",
+            "EN": "Head of the Sky-Faring Commission on the Xianzhou Luofu. Yukong was a seasoned pilot and a deadshot.<br>Since heading up the commission, she's been buried under mountains of paperwork."
+        },
         "Rarity": 4,
         "Element": "Imaginary",
         "Path": "Harmony",
@@ -3691,6 +3775,10 @@ var _avatar = [
         "Name": {
             "CH": "三月七",
             "EN": "March 7th"
+        },
+        "Desc": {
+            "CH": "一度沉睡于恒冰，对过去一无所知的少女。<br>为了寻找身世的真相，选择与星穹列车同行。<br>目前为自己准备了约六十七种「身世故事」。",
+            "EN": "A girl who once slumbered in eternal ice and knows nothing about her past.<br>To find out the truth about her origins, she decided to travel with the Astral Express.<br>As of right now, she has prepared about 67 different versions of her life story for herself."
         },
         "Rarity": 4,
         "Element": "Ice",
@@ -3861,6 +3949,10 @@ var _avatar = [
             "CH": "丹恒",
             "EN": "Dan Heng"
         },
+        "Desc": {
+            "CH": "对自己的过去讳莫如深，清冷寡言的青年。<br>为了躲避血裔同族，选择与星穹列车同行。",
+            "EN": "A cold and reserved young man who is reticent about his past.<br>To avoid his kin, he decided to travel with the Astral Express."
+        },
         "Rarity": 4,
         "Element": "Wind",
         "Path": "Hunt",
@@ -4029,6 +4121,10 @@ var _avatar = [
         "Name": {
             "CH": "姬子",
             "EN": "Himeko"
+        },
+        "Desc": {
+            "CH": "星穹列车的修复者。<br>为了见证广阔的星空，选择与星穹列车同行。<br>爱好是制作手调咖啡。",
+            "EN": "The one who repaired the Astral Express.<br>To witness the vast starry sky, she decided to travel with the Astral Express.<br>Her hobby is brewing hand-made coffee."
         },
         "Rarity": 5,
         "Element": "Fire",
@@ -4199,6 +4295,10 @@ var _avatar = [
             "CH": "瓦尔特",
             "EN": "Welt"
         },
+        "Desc": {
+            "CH": "老成持重的列车组前辈。<br>享受着久违的冒险奇遇，心底埋藏的热血再度燃烧。<br>偶尔还会将经历的冒险旅程画在本子里。",
+            "EN": "A seasoned member of the Express Crew.<br>The passion buried in his heart burns anew as he enjoys this fresh adventure.<br>Occasionally, he would sketch the experiences in a notebook."
+        },
         "Rarity": 5,
         "Element": "Imaginary",
         "Path": "Nihility",
@@ -4367,6 +4467,10 @@ var _avatar = [
         "Name": {
             "CH": "阿兰",
             "EN": "Arlan"
+        },
+        "Desc": {
+            "CH": "空间站「黑塔」的防卫科负责人。<br>不善言辞，希望保护珍视研究的人们顺利完成他们的研究。",
+            "EN": "The head of Herta Space Station's Security Department.<br>This quiet boy hopes to protect the researchers who value their pursuit of knowledge, and to help them to complete their work."
         },
         "Rarity": 4,
         "Element": "Elec",
@@ -4537,6 +4641,10 @@ var _avatar = [
             "CH": "艾丝妲",
             "EN": "Asta"
         },
+        "Desc": {
+            "CH": "空间站「黑塔」的站长，出身名门的大小姐。<br>好奇心旺盛的天文研究者，擅长管理空间站各抒己见的科员。",
+            "EN": "The lead researcher of Herta Space Station and a lady from a renowned family.<br>She's an astronomer overflowing with curiosity, and excels at managing the disparate staff of the space station."
+        },
         "Rarity": 4,
         "Element": "Fire",
         "Path": "Harmony",
@@ -4706,6 +4814,10 @@ var _avatar = [
             "CH": "黑塔",
             "EN": "Herta"
         },
+        "Desc": {
+            "CH": "「天才俱乐部」#83号会员，空间站的真正主人。<br>智慧过人却毫无同理心的大科学家。",
+            "EN": "Member 83 of the Genius Society. The real master of the space station.<br>An incredibly intelligent yet unsympathetic scientist."
+        },
         "Rarity": 4,
         "Element": "Ice",
         "Path": "Erudition",
@@ -4874,6 +4986,10 @@ var _avatar = [
         "Name": {
             "CH": "布洛妮娅",
             "EN": "Bronya"
+        },
+        "Desc": {
+            "CH": "贝洛伯格「大守护者」的继承人。<br>兼有公主的高傲和军人的坚贞。",
+            "EN": "Heir apparent to the Supreme Guardian of Belobog.<br>She possesses pride befitting of a princess, but also the determination and integrity of a soldier."
         },
         "Rarity": 5,
         "Element": "Wind",
@@ -5058,6 +5174,10 @@ var _avatar = [
             "CH": "希儿",
             "EN": "Seele"
         },
+        "Desc": {
+            "CH": "地底反抗组织「地火」的骨干，别号「蝴蝶」。<br>性格率真直爽，内心隐藏着细腻敏锐的一面。",
+            "EN": "A resident of the Underworld and the backbone of Wildfire. She goes by the alias \"Babochka.\"<br>She has a frank personality, but there is a delicate and sensitive hidden side to her deep in her heart."
+        },
         "Rarity": 5,
         "Element": "Quantum",
         "Path": "Hunt",
@@ -5226,6 +5346,10 @@ var _avatar = [
         "Name": {
             "CH": "希露瓦",
             "EN": "Serval"
+        },
+        "Desc": {
+            "CH": "贝洛伯格的机械师，曾任筑城者技术部研究员。<br>身为杰帕德 · 朗道的姐姐，性格却与弟弟截然不同。<br>钟爱大寒潮前一种名为「摇滚」的古老音乐艺术。",
+            "EN": "A Belobog mechanic who used to be a researcher for the Technology Division of the Architects.<br>As Gepard Landau's elder sister, her personality stands in stark contrast to her brother's.<br>She loves an ancient form of music known as \"rock 'n' roll\" that was popular before the Eternal Freeze."
         },
         "Rarity": 4,
         "Element": "Elec",
@@ -5396,6 +5520,10 @@ var _avatar = [
             "CH": "杰帕德",
             "EN": "Gepard"
         },
+        "Desc": {
+            "CH": "银鬃铁卫的戍卫官，贝洛伯格数一数二的战士。<br>表里如一，一丝不苟，从不懈怠。",
+            "EN": "A captain in the Silvermane Guards and an outstanding warrior of Belobog.<br>He is meticulous and vigilant to the core and is always true to himself."
+        },
         "Rarity": 5,
         "Element": "Ice",
         "Path": "Preservation",
@@ -5564,6 +5692,10 @@ var _avatar = [
         "Name": {
             "CH": "娜塔莎",
             "EN": "Natasha"
+        },
+        "Desc": {
+            "CH": "贝洛伯格下层区的医生，也是孩子们的照料者。<br>性格温柔可亲、又藏着危险的一面。",
+            "EN": "A doctor from the Underworld and a caregiver of children.<br>Alongside her kindness and caring, she also has a hidden dangerous side."
         },
         "Rarity": 4,
         "Element": "Phys",
@@ -5734,6 +5866,10 @@ var _avatar = [
             "CH": "佩拉",
             "EN": "Pela"
         },
+        "Desc": {
+            "CH": "银鬃铁卫的情报官。<br>性格认真，深受铁卫成员们敬畏。",
+            "EN": "An intelligence officer for the Silvermane Guards.<br>She has a serious personality and is revered by other members of the Silvermane Guards."
+        },
         "Rarity": 4,
         "Element": "Ice",
         "Path": "Nihility",
@@ -5902,6 +6038,10 @@ var _avatar = [
         "Name": {
             "CH": "克拉拉",
             "EN": "Clara"
+        },
+        "Desc": {
+            "CH": "与机械生活在一起的流浪少女。<br>内向、温柔，有一颗纯粹的心。<br>渴望下层区的大家都能成为彼此的「家人」。",
+            "EN": "A vagrant girl who lives with robots.<br>She is introverted, gentle, and has a pure heart.<br>She wishes for all Underworlders to become a family."
         },
         "Rarity": 5,
         "Element": "Phys",
@@ -6072,6 +6212,10 @@ var _avatar = [
             "CH": "桑博",
             "EN": "Sampo"
         },
+        "Desc": {
+            "CH": "地表和地底之间来去自如的行商。<br>自来熟，热情幽默，习惯插科打诨。",
+            "EN": "A merchant who freely travels between the Overworld and the Underworld.<br>He acts like he is everyone's friend, is enthusiastically humorous, and is good at bantering."
+        },
         "Rarity": 4,
         "Element": "Wind",
         "Path": "Nihility",
@@ -6240,6 +6384,10 @@ var _avatar = [
         "Name": {
             "CH": "虎克",
             "EN": "Hook"
+        },
+        "Desc": {
+            "CH": "地底冒险团队「鼹鼠党」的老大（自封）。<br>热爱自由，将生活视为一场又一场冒险。",
+            "EN": "Boss (self-proclaimed) of an Underworld adventure squad, The Moles.<br>She loves freedom and sees life as a series of adventures."
         },
         "Rarity": 4,
         "Element": "Fire",
@@ -6411,6 +6559,10 @@ var _avatar = [
             "CH": "青雀",
             "EN": "Qingque"
         },
+        "Desc": {
+            "CH": "仙舟「罗浮」太卜司的卜者，兼书库管理员。<br>因工作一再偷闲摸鱼，即将贬无可贬成为「掌门人」。",
+            "EN": "Diviner of the Divination Commission on the Xianzhou Luofu, and a librarian.<br>Always slacks off and is about to be demoted to a \"door guardian.\""
+        },
         "Rarity": 4,
         "Element": "Quantum",
         "Path": "Erudition",
@@ -6581,6 +6733,10 @@ var _avatar = [
             "CH": "停云",
             "EN": "Tingyun"
         },
+        "Desc": {
+            "CH": "仙舟「罗浮」天舶司的接渡使。<br>随商团出使过众多世界，缔结贸易与盟谊。",
+            "EN": "Amicassador of the Sky-Faring Commission of the Xianzhou Luofu.<br>She travels with business delegates, forging trade relationships and alliances with many worlds."
+        },
         "Rarity": 4,
         "Element": "Elec",
         "Path": "Harmony",
@@ -6749,6 +6905,10 @@ var _avatar = [
         "Name": {
             "CH": "景元",
             "EN": "Jing Yuan"
+        },
+        "Desc": {
+            "CH": "仙舟联盟帝弓七天将之一，负责节制罗浮云骑军的「神策将军」。<br>师从前代「罗浮」剑首，但并不显名于武力。",
+            "EN": "The Divine Foresight, one of the Seven Arbiter-Generals of the Xianzhou Alliance, leads the Cloud Knights of the Xianzhou Luofu.<br>A student of the Luofu's previous Sword Champion, though not known for his martial prowess."
         },
         "Rarity": 5,
         "Element": "Elec",
@@ -6919,6 +7079,10 @@ var _avatar = [
             "CH": "素裳",
             "EN": "Sushang"
         },
+        "Desc": {
+            "CH": "出生于仙舟「曜青」，前往「罗浮」云骑军接受历练的新兵。<br>身佩母亲赠予的家传剑器，憧憬着自己即将书写的未来。",
+            "EN": "Born on the Xianzhou Yaoqing, sent to the Cloud Knights of the Luofu for military training.<br>She wields her family sword, a gift from her mother, and longs for the future she will go on to write."
+        },
         "Rarity": 4,
         "Element": "Phys",
         "Path": "Hunt",
@@ -7087,6 +7251,10 @@ var _avatar = [
         "Name": {
             "CH": "彦卿",
             "EN": "Yanqing"
+        },
+        "Desc": {
+            "CH": "将军景元的侍卫，不过总角之年的御剑天才。<br>手中握剑，即立于不败之地。",
+            "EN": "General Jing Yuan's retainer. A gifted swordsman who hasn't even come of age.<br>No one can best Yanqing when he holds a sword in hand."
         },
         "Rarity": 5,
         "Element": "Ice",
@@ -7257,6 +7425,10 @@ var _avatar = [
             "CH": "白露",
             "EN": "Bailu"
         },
+        "Desc": {
+            "CH": "仙舟「罗浮」持明族的尊长，有「衔药龙女」之称的医士。<br>以独门医理和唯有龙脉方可施行的「医疗手段」救死扶伤。",
+            "EN": "The High Elder of the Vidyadhara, who is also known as the \"Healer Lady\" on the Luofu.<br>She uses her unique medical science and the medical treatment that can only be provided by the Vidyadhara dragon race to save lives."
+        },
         "Rarity": 5,
         "Element": "Elec",
         "Path": "Abundance",
@@ -7425,6 +7597,10 @@ var _avatar = [
         "Name": {
             "CH": "开拓者",
             "EN": "Trailblazer"
+        },
+        "Desc": {
+            "CH": "登上星穹列车的{F#少女}{M#少年}。<br>为了消除星核带来的危机，选择与星穹列车同行。",
+            "EN": "A {F#girl}{M#boy} who boarded the Astral Express.<br>They chose to travel with the Astral Express to eliminate the dangers posed by the Stellaron."
         },
         "Rarity": 5,
         "Element": "Phys",
@@ -7597,6 +7773,10 @@ var _avatar = [
             "CH": "开拓者",
             "EN": "Trailblazer"
         },
+        "Desc": {
+            "CH": "登上星穹列车的{F#少女}{M#少年}。<br>为了消除星核带来的危机，选择与星穹列车同行。",
+            "EN": "A {F#girl}{M#boy} who boarded the Astral Express.<br>They chose to travel with the Astral Express to eliminate the dangers posed by the Stellaron."
+        },
         "Rarity": 5,
         "Element": "Phys",
         "Path": "Destruction",
@@ -7768,6 +7948,10 @@ var _avatar = [
             "CH": "开拓者",
             "EN": "Trailblazer"
         },
+        "Desc": {
+            "CH": "登上星穹列车的{F#少女}{M#少年}。<br>为了消除星核带来的危机，选择与星穹列车同行。",
+            "EN": "A {F#girl}{M#boy} who boarded the Astral Express.<br>They chose to travel with the Astral Express to eliminate the dangers posed by the Stellaron."
+        },
         "Rarity": 5,
         "Element": "Fire",
         "Path": "Preservation",
@@ -7937,6 +8121,10 @@ var _avatar = [
         "Name": {
             "CH": "开拓者",
             "EN": "Trailblazer"
+        },
+        "Desc": {
+            "CH": "登上星穹列车的{F#少女}{M#少年}。<br>为了消除星核带来的危机，选择与星穹列车同行。",
+            "EN": "A {F#girl}{M#boy} who boarded the Astral Express.<br>They chose to travel with the Astral Express to eliminate the dangers posed by the Stellaron."
         },
         "Rarity": 5,
         "Element": "Fire",
