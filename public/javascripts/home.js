@@ -8,6 +8,7 @@ $(function() {
         }
     });
 
+    var is_ru = 0
     var lang_ = $('#LANG').val().toUpperCase()
     if (lang_ == 'RU') {
         is_ru = 1
@@ -94,7 +95,7 @@ $(function() {
             template: {
                 div : {
                     a: function (k) {
-                        return k.data.Href[lang] + '?lang=' + lang
+                        return k.data.Href[lang] + '?lang=' + (is_ru ? 'RU' : lang)
                     },
                     t: [
                         {
@@ -139,7 +140,7 @@ $(function() {
                 div : {
                     a: function (k) {
                         if (k.data.Disable) return 'javascript:void(0)'
-                        return k.data.Href[lang] + '?lang=' + lang
+                        return k.data.Href[lang] + '?lang=' + (is_ru ? 'RU' : lang)
                     },
                     t: [
                         {

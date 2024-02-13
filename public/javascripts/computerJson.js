@@ -6185,7 +6185,7 @@ $('body').on('click', '.links', function () {
                         template: {
                             schedule: {
                                 a: function (j) {
-                                    return j.data.Link[lang] + '?lang=' + lang
+                                    return j.data.Link[lang] + '?lang=' + (is_ru ? 'RU' : lang)
                                 },
                                 t: {
                                     span: `[[Name/${lang}]]`,
