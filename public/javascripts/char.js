@@ -525,8 +525,7 @@ $(function () {
                                         'font-weight': 'bold',
                                         'margin-top': '4px',
                                         'margin-bottom': '-4px'
-                                    },
-                                    when: this_avatar.Rarity == 5
+                                    }
                                 },
                                 {
                                     p: '★ ★ ★ ★ ★',
