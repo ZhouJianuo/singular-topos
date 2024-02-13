@@ -69,6 +69,23 @@ schedule {
     cursor: pointer;
 }
 
+.path schedule {
+    background-color: #27363e;
+    width: 60px;
+    border-radius: 9px;
+    border-width: 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.path schedule.active {
+    background-color: #2545ba;
+}
+
+.path img {
+    width: 40px;
+}
+
 @media screen and (min-width: 600px) and (max-width: 900px) {
     schedule {
         font-size: 15px;

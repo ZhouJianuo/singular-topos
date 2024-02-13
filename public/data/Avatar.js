@@ -81991,6 +81991,2001 @@ var _camp = {
     }
 }
 
+var _relic = [
+    {
+        "_id": 312,
+        "Name": {
+            "CH": "梦想之地匹诺康尼",
+            "EN": "Penacony, Land of the Dreams"
+        },
+        "Icon": "71027.png",
+        "Skills": [
+            {
+                "CH": "使装备者的能量恢复效率提高 <b>5.0%</b> 。使队伍中与装备者属性相同的我方其他角色造成的伤害提高 <b>10.0%</b> 。",
+                "EN": "Increases wearer's Energy Regeneration Rate by <b>5.0%</b>. Increases DMG by <b>10.0%</b> for all other allies that are of the same Type as the wearer."
+            }
+        ],
+        "Items": [
+            {
+                "Name": {
+                    "CH": "匹诺康尼的堂皇酒店",
+                    "EN": "Penacony's Grand Hotel"
+                },
+                "Desc": {
+                    "CH": "位面封装的是匹诺康尼的主体——「白日梦」酒店。在此下榻的宾客将去往美梦的世界，在无所不可的大都会中，享受纸醉金迷的盛宴。",
+                    "EN": "Encapsulated in the plane is Penacony's main structure — the Reverie hotel. Guests staying here will travel to a world of sweet dreams and enjoy a feast of luxury and extravagance in a seemingly omnipotent metropolis."
+                },
+                "Story": {
+                    "CH": "侍者们带着整齐划一的笑容鞠躬执礼，伴着音乐朗声迎宾：「欢迎光临盛会之星！美妙梦境欢迎您。」宾客们微笑前行，接过注满气泡的饮料一饮而尽。<br><br>景色渐渐光怪陆离，感知也仿佛丝绸扬起。异乡的客人们超脱重力，信步于墙壁。奇异的玩具获得生命，在街上游荡欢庆。泉水漾作巨鲸，遨游于广厦堂厅。推开窗棂，遥望所见不再是深空的群星，而是城市川流变幻的光影，捧起巨钟和剧院不绝的回音。宾客此刻终于意识到自己从未苏醒，而是在梦中见证匹诺康尼的真容——时光永驻的梦想之地。<br><br>人人皆知，在「家族」的治理下，匹诺康尼的大门向群星开启：为了超越现实的体验，为了灵感迸发的刺激，为了抚平烦扰与伤痕——上上之宾纷至沓来，交出痛苦，换得安宁，饮下佳酿，徜徉于梦的海洋。有人在此度过难忘的假日，满足离去；有人则为歌舞盛会沉沦，就此定居。繁星簇拥的酒店是织梦者的明珠，造梦者的国度，逐梦者的乐土。<br><br>鲜有宾客知晓尘封的历史：编织梦境的纱线产自现实。今日匹诺康尼天鹅绒般轻薄的华贵，诞自咸涩的铁锈、沉重的镣铐，和被剥夺的自由。盛会之星曾是公司的监牢，数之不尽的囚犯被迁移至此，为忆庭打捞汹涌流溢的忆泡。人们重复天无宁日的苦劳，直至身躯似灌铅般沉重，灵魂却变得如泡沫般轻巧：不知何时开始，狭小的牢房将现实隔断，人们的意识却在梦中联缀。在午夜的钟声里，那共同的梦境如此真实，反倒显得现实如此虚伪。<br><br>直至「毁灭」熔断公司的铁链，「开拓」将边陲与群星相连，「同谐」应邀而至，撒下和平的种子。自由终于破土发芽，并为最初的美梦添上新名——「匹诺康尼」。<br><br>如今，破败的监牢已无迹可寻。梦境中，万千高楼拔地而起，荒漠戈壁被修葺一新，变作通都大邑——逐梦之人追寻财富机遇的新大陆，寻欢之人纵情声色犬马的乌托邦，「盛会之星」的往昔如同偶然间落进柜底的相片，切实存在，但已无人问津。<br><br>如今梦想之地欢歌悦耳，过往杂音化作趣话闲谈，不声不息地遗落在某场喜剧的幕间、某部卡通的花絮，或某本杂志的边栏。",
+                    "EN": "The attendants bow and salute with uniform smiles, and greet the guests with music: \"Welcome to the Planet of Festivities! Beautiful dreams await you.\" The guests smile as they move forward, accepting their drinks infused full of bubbles and gulping them down.<br><br>The scenery gradually becomes more and more incredulous, and the senses feel as if one has been lifted by silk. Guests from other lands defy gravity and walk on walls. Strange toys come to life and roam the streets in celebration. The water from the spring turn into a giant whale and swim through the halls. Opening a window no longer show a view of the stars in the deep sky, but of the city's shifting streams of light and shadows, holding up the constant echoes of giant clocks and theaters. The guests finally realize that they were never awake, but are instead witnessing Penacony's true nature in a dream — a place where time stops in a neverending dreamscape.<br><br>Everyone knows that, under the rule of \"The Family,\" the doors of Penacony are open to everyone amidst the stars. For a transcendent experience, for an inspirational excitement, for the soothing of worries and wounds — guests of the highest caliber come to surrender their pain in exchange for peace and tranquility, to drink the best of the best, and to wander in the sea of dreams. Some spend unforgettable holidays here and leave content, while others become obsessed with the festivities and settle down here. The star-studded hotel is the jewel of dream weavers, the kingdom of dream makers, and the playground of dream seekers.<br><br>Few guests are aware of the dusty history of the past — the thread that weaves the dreams comes from reality. The velvety splendor of today's Penacony was born of salty rust, heavy shackles, and deprived freedom. The Planet of Festivities was once an IPC prison, where countless inmates were relocated to salvage the overflowing Memory Bubbles for the Garden of Recollection. People repeated their endless toils until their bodies were as heavy as lead, but their souls became as light as bubbles. At some unknown point in time, the small cells cut off access to reality, but people's consciousnesses became linked in dreams. In the midnight bell, that shared dream seemed so real, reflecting the sheer hypocrisy of reality.<br><br>It lasted until the Destruction melted the chains of the IPC, the Trailblaze connected this frontier to the other stars, and the Harmony arrived upon invitation to sow the seeds of peace. Freedom finally broke ground and added a new name to the original dream — Penacony.<br><br>Today, there is no trace of the crumbling prison. In the dream world, a myriad of skyscrapers has been erected and the desert has been rebuilt and transformed into a metropolis — a new world for dreamers in search of wealth and opportunities, and a utopia for those in search of indulgence and pleasure. The past of the Planet of Festivities is like a photo that fell to the bottom of a cupboard — it exists, but is seen by no one.<br><br>Nowadays, the land of dreams is filled with songs of joy, and the noise of the past have been relegated to gossip, silently lost in the interlude of a comedy, in the behind-the-scenes of some cartoon, or in the side column of some magazine."
+                },
+                "Icon": "IconRelic_312_5.png"
+            },
+            {
+                "Name": {
+                    "CH": "匹诺康尼的逐梦轨道",
+                    "EN": "Penacony's Dream-Seeking Tracks"
+                },
+                "Desc": {
+                    "CH": "匹诺康尼的梦境都市里，复杂的轨道盘绕于楼宇之间，托起游客搭乘的球笼，将五色缤纷的梦连为一体。",
+                    "EN": "In Penacony's dreamscape city, intricate tracks meander between buildings, supporting the Spheroids that visitors ride in, and connecting rich and diverse dreams together."
+                },
+                "Story": {
+                    "CH": "造访过匹诺康尼的宾客一定会赞同，「建于美梦之上」并非浮夸譬喻，而是千真万确的陈述。富丽堂皇的酒店不过是盛会之星的冰山一角，「下榻入梦」才算是正式踏入匹诺康尼。自此，由十二片梦境构成的梦之国度在客人眼前缓缓铺开。<br><br>初到的客人一时或为这狂欢的舞台无所适从。但不必惊慌，抬头看看，在重楼飞阁间交错的金属轨道，和轨道上飞快滚动的「球笼」，乃是这座梦境城市最为瞩目的交通方式，众宾客们游历城市各处的向导。<br><br>自中央车站起始，错综复杂的球笼轨道如同大都会的血脉，无论是在「黎明的时刻」地底管道、在「热砂的时刻」辽阔原野，还是在「星辰的时刻」闪耀赛场，彩色的圆球翻滚不休，将人流准确高效、安稳舒适地送往各个站点，为匹诺康尼的梦境注入不眠的活力。<br><br>梦为一切披上轻薄曼妙的质感，一颗颗坚果般的「球笼」被视作梦想之地的载具和玩具。却极少有人记得：「球笼」本是「囚笼」。通往美梦的车流，原是关押犯人的囚具。<br><br>久远之前，公司将数量庞大的囚犯送往阿斯德纳星系，试图阻止一场灾难的蔓延。人们在此回收忆质，逐渐在现实与幻想间迷离。真空中的球形工作舱成了囚犯们难忘的「记忆」：坚硬的曲面内壁、难受的翻滚体验、每日无比煎熬的出勤——或许这些痛苦过于深刻，重获自由的人开垦荒芜梦境时，球笼亦随之降临。<br><br>但今时不同往日，和平与自由诞下乐观的精神：与其一遍遍销毁挥之不去的噩梦，不如为其添上这里应有的色彩，将之吸纳、包容——于是过去的「囚笼」，变作今日的「球笼」。<br><br>此刻，匹诺康尼的城市中遍布快速流动的彩色球笼，和其中传来的轻微震动…悄声隐藏在梦境都市的光怪陆离之中，与那些雄心壮志、欢声笑语融为一体，一如时光永驻的梦想之地。",
+                    "EN": "Those who have visited Penacony will agree that \"built on dreams\" is not just some saying, but is a very real statement. The opulent hotel is just the tip of the iceberg of the Planet of Festivities, and it is only when you \"stay and dream\" that you are considered to have officially arrived at Penacony. From then on, the land of dreams, consisting of twelve dreamscapes, slowly expands before the guests' eyes.<br><br>Guests who are new to the place may be overwhelmed by this carnival stage, but do not be alarmed. Look up and see the metal tracks crisscrossing the skyscrapers and the Spheroids rapidly rolling along them. They are the most visible means of transportation in this dreamscape metropolis and guide guests to each and every place around the city.<br><br>Starting from the central station, the complicated Spheroid tracks are like the blood vessels of the metropolis. Whether it is the underground tunnels of the Moment of Daybreak, the vast fields of the Moment of Scorchsand, or the glittering stadium of the Moment of Stars, the colorful Spheroids roll on and on, delivering people to each station accurately, efficiently, safely, and comfortably, pouring a sleepless energy into the dream world of Penacony.<br><br>Dreams give a light and delicate texture to everything, and the nut-like Spheroids are regarded as both vehicles and as toys in the land of dreams. However, few remember that the Spheroids are actually imprisonment cages — the vehicle towards dreams are tools originally used for locking up prisoners.<br><br>A long time ago, the IPC sent a huge number of prisoners to the Asdana star system in an attempt to stop a catastrophe from spreading. There, people reclaimed memoria, gradually becoming lost between fantasy and reality. The spherical work chambers in vacuum became an unforgettable \"memory\" for the prisoners — the hard curved interior walls, the awful experience of tumbling around, the unbearable daily attendance — perhaps these pains ran too deep. When those who regained their freedom pioneered the barren dreamscape, the spherical cages came along with them.<br><br>But now, unlike in the past, peace and freedom have given birth to optimism. Instead of trying to destroy the inescapable nightmares over and over, it is better to add to them the color this place should have, to take them in, and embrace them. So, the spherical imprisonment cages of the past have become today's Spheroids.<br><br>In the present, the fast-moving colorful Spheroids moving all over Penacony and the slight reverberations coming from within them... are all quietly hidden in the light of the dream city, blending in with the ambitions and laughter, like a land of dreams where time forever stands still."
+                },
+                "Icon": "IconRelic_312_6.png"
+            }
+        ]
+    },
+    {
+        "_id": 311,
+        "Name": {
+            "CH": "苍穹战线格拉默",
+            "EN": "Firmament Frontline: Glamoth"
+        },
+        "Icon": "71026.png",
+        "Skills": [
+            {
+                "CH": "使装备者的攻击力提高 <b>12.0%</b> 。当装备者的速度大于等于 <b>135.0</b> / <b>160.0</b> 时，使装备者造成的伤害提高 <b>12.0%</b> / <b>18.0%</b> 。",
+                "EN": "Increases the wearer's ATK by <b>12.0%</b>. When the wearer's SPD is equal to or higher than <b>135.0</b>/<b>160.0</b>, the wearer deals <b>12.0%</b>/<b>18.0%</b> more DMG."
+            }
+        ],
+        "Items": [
+            {
+                "Name": {
+                    "CH": "格拉默的铁骑兵团",
+                    "EN": "Glamoth's Iron Cavalry Regiment"
+                },
+                "Desc": {
+                    "CH": "位面球中封装的是格拉默帝国盛名在外的铁骑变形鞘。无数白银机甲被装载进舰船，驶向星系外缘，抵御自深空而来的虫群恶蠹。",
+                    "EN": "Encapsulated in the Planar Sphere is the renowned shapeshifting oothecae of the Glamoth Empire's Iron Cavalry. Countless silver mechas were loaded into warships and sailed to the outer edges of the galaxy to fend off the vicious Swarm from deep space."
+                },
+                "Story": {
+                    "CH": "苍穹帝国格拉默享有数万光年的广大疆域，远眺银河，雄心勃勃。在帝国最强盛的纪元里，格拉默的女皇，至尊无上的泰坦尼娅陛下建立恢宏的舰队，誓将文明硕果带往所有蛮荒的边境，令其领略帝国的仁慈，归于一统。<br><br>然而远征最终折戟沉沙，自天幕彼端，虫裔汹涌而来、无穷无尽。格拉默的军队抗击，失败，抗击，再失败…殖民地尽数失散，引以为傲的钢铁舰队接连沦陷。在生有复眼与鞘翅的群魔围攻之下，格拉默子民的呼告声被绝望淹没，苍穹从此支离破碎。<br><br>直到某一日，身披机械战甲的骑士从天而降，将铺天的蠹虫歼灭殆尽。银白的铁骑从此往返于帝国各个星区，跨越满目疮痍的疆土，抵挡覆灭星系的灾厄。他们宛如为对抗虫群而生的战士，无人知晓这些铁人面具下的真容，但他们的降临有如神明垂恩，令苍穹的曙光再现人间。在女皇的统率下，格拉默的铁骑兵团驰骋天际，终于遏阻敌潮，为帝国带来片刻喘息。<br><br>但在和世仇永无休止的战斗中，帝国变得越来越像自己的敌人——越来越多的铁骑飞上高空，一如虫潮来袭的那一日，将苍天遮蔽。人们投向女皇和骑士的视线，已然和对待虫群异类的恐惧目光毫无二致。也许终有一日，帝国会获得它想要的胜利。可是那一天，格拉默是否还是人类安憩的乐园？<br><br>在战火不熄的格拉默边境，铁骑兵团构成了最后的防线。战舰之上，沉默的骑士们身负使命，承载着整个帝国的希望，迎击淹没群星的敌潮。",
+                    "EN": "The Welkin Empire of Glamoth enjoyed a vast territory spanning tens of thousands of light-years, ambitiously setting its sight on the cosmos. At the height of the empire's power, Her Majesty Empress Titania built a magnificent fleet, vowing to bring the fruits of civilization to all the barbaric borders, allowing them a taste of the empire's benevolence in hopes of uniting them under one rule.<br><br>However, the expedition was eventually halted by endless waves of raging insectoids coming from beyond the sky. Glamoth's armies fought and failed, again and again... Colonies were scattered, and the proud iron fleet fell one after another. Beseiged by the monsters with compound eyes and sheathed wings, the cries of the people of Glamoth were drowned out by despair, and the Welkin Empire was shattered from then on.<br><br>Until one day knights clad in mechanical armor descended from the sky and wiped out the sun-swallowing Swarm. Since then, the silver-white iron knights have traveled to and from the various star systems in the empire, crossing the devastated territories and fighting back against the calamity that wiped out the galaxy. They were like warriors born to fight the Swarm. No one knew the faces lying beneath the masks of the Iron Calvary, but their arrival was like a gift from the gods, bringing the light of day back to the human world. Under the Empress' command, Glamoth's Iron Cavalry charged across the skies, finally stemming the tide of enemies and bringing a moment of respite to the empire.<br><br>But in the never-ending battle against their archenemy, the empire started becoming more and more like its adversary — more and more Iron Calvary flew high into the sky, blotting out the heavens just as the Swarm did on that fateful day. The look people cast on the Empress and the cavalry turned to one of fear, a fear akin to what they felt toward the Swarm. Perhaps one day the empire would attain the victory it so desired. But on that day, will Glamoth still be a paradise for humanity to rest in?<br><br>The Iron Cavalry Regiment formed the last line of defense at the border of Glamoth, where the battle raged on endlessly. Upon their warships, the silent knights bore a mission, carrying the hopes of the entire empire, and faced the tides of enemies drowning out the stars."
+                },
+                "Icon": "IconRelic_311_5.png"
+            },
+            {
+                "Name": {
+                    "CH": "格拉默的寂静坟碑",
+                    "EN": "Glamoth's Silent Tombstone"
+                },
+                "Desc": {
+                    "CH": "鼎盛的「帝国」格拉默化为了尘埃。没有任何东西能证明它往日的辉煌，唯有星尘、机甲、舰船与虫群的残骸飘荡在真空中绵延成河，维持着惨烈战线的原状，也成了它陨落的纪念碑。",
+                    "EN": "The flourishing Empire of Glamoth turned into dust. There was no evidence of its former glory. Only the debris of stardust, mechas, warships, and the corpses of the Swarm were left drifting in the vacuum to form a river of residua — preserving the original battle scene of the bloody warfronts and serving as a monument to its downfall."
+                },
+                "Story": {
+                    "CH": "博识学会的史学家认为格拉默共和国毁于虫潮之灾；而另一种观点称，格拉默共和国毁于对强敌的全面超越。<br><br>为了自虫群的恐怖攻势下扭转局势，执政议会孤注一掷，决心为适应战争而动摇人类的本质——创造出「为战而生」的兵器。<br><br>这一切的成果便是「泰坦尼娅」。不掌握任何权力的女皇以心灵感应指挥、约束着与她相连的骑士。在这些战士被编织的梦中，存在的意义即为守护泰坦尼娅和她的「帝国」。在短暂的生命中，他们学习、战斗，接受女皇的统领，无畏迎敌，又光荣战死。<br><br>无人知晓这一谎言是何时被揭破的。是从格拉默领土上的旧人类低于某个比例的那一天开始？是从科学家们发现女皇开始向囚禁发起反抗的那一天开始？还是…当虫群的攻势消散殆尽的那一天开始？<br><br>人们只知晓铁骑兵团为不存在的「帝国」付出了一切。在数十年的血战后，机甲与虫肢的残骸化为漫天碎片洒在格拉默星域的每一处，连缀成一条「死亡之河」。当残余的虫群再也无法构成威胁，议会的领袖敲响和平的钟声，告知万民他们驱散了遮蔽苍穹的天灾，而共和国将重新迎来黎明的曙光——但到来的却非白昼，而是另一场黑夜的伊始。<br><br>那之后，名为格拉默的文明消逝了，人们渴盼许久的和平永远降临在了无主的星域。星尘与残骸汇成长河，与一同在星间静静流淌。",
+                    "EN": "Historians of the Intelligentsia Guild believe that the Republic of Glamoth was destroyed by the scourge of the Swarm. Another view claims that the Republic of Glamoth was destroyed by how it completely overshot its powerful enemy.<br><br>In order to turn the tide in the horrific invasion of the Swarm, the ruling council threw down the gauntlet and resolved to alter the essence of humanity in an effort to adapt to the war — they will create a weapon \"born to fight.\"<br><br>The result of all this was \"Titania.\" The Empress, who holds no power, telepathically commands and controls the knights connected to her. In the dreams that these warriors are woven into, the sole meaning of their existence is to guard Titania and her \"empire.\" In their short lives, they studied, fought, received the Empress' commands, faced the enemy fearlessly, and died with honor.<br><br>No one knew when this falsehood was revealed. Was it from the day when the old humans in Glamoth's territories fell below a certain percentage? Was it the day when scientists realized that the Empress was beginning to revolt against her captivity? Or... maybe the day when the Swarm's onslaught dissipated into thin air?<br><br>All the people knew was that the Iron Cavalry gave their all for the non-existent \"empire.\" After decades of bloody battles, the remains of mechas and insect limbs turned into dense debris strewn throughout Glamoth's star system, connecting with each other to form a \"River of Death.\" When the remnants of the Swarm no longer posed a threat and the leaders of the council rang the bell of peace, informing the citizens that they had dispelled the apocalypse that clouded the heavens and the republic would be ushered back into the light of day — What arrived was not daylight, but the beginning of another sunless night.<br><br>After that, the civilization known as Glamoth faded away, and the long-awaited peace came to the empty stars. The long river of stardust and debris flows silently along the void."
+                },
+                "Icon": "IconRelic_311_6.png"
+            }
+        ]
+    },
+    {
+        "_id": 310,
+        "Name": {
+            "CH": "折断的龙骨",
+            "EN": "Broken Keel"
+        },
+        "Icon": "71023.png",
+        "Skills": [
+            {
+                "CH": "使装备者的效果抵抗提高 <b>10.0%</b> 。当装备者的效果抵抗大于等于 <b>30.0%</b> 时，我方全体暴击伤害提高 <b>10.0%</b> 。",
+                "EN": "Increases the wearer's Effect RES by <b>10.0%</b>. When the wearer's Effect RES is at <b>30.0%</b> or higher, all allies' CRIT DMG increases by <b>10.0%</b>."
+            }
+        ],
+        "Items": [
+            {
+                "Name": {
+                    "CH": "伊须磨洲的残船鲸落",
+                    "EN": "Insumousu's Whalefall Ship"
+                },
+                "Desc": {
+                    "CH": "位面封装的是塔拉萨的伊须磨洲自治区。仙舟「岱舆」断舰坠毁于此，启迪了伊须磨洲文明。",
+                    "EN": "The plane encapsulates the Insumousu Autonomous Region of Thalassa. The Xianzhou Daiyu had crashed here, inspiring the civilization of Insumousu."
+                },
+                "Story": {
+                    "CH": "「在很久很久以前，众神的宫殿自高天之上陨落。」<br><br>先是大气层外的影子，紧接着是大气摩擦的火光，最后它露出了全貌——那是一座偌大的宫殿，即便聚集起整个伊须磨洲的工匠，也造不出的伟物。它下坠得很缓慢，就像是凝结在天边一样，伊须磨洲的海洋足够宽阔，但没人确定它足以容纳这座自高天之上陨落的仙宫。<br><br>「一些人四散奔逃，一些人留在海底和陆上的村落中，等待着神陨的降临。」<br><br>陨落的仙舟「岱舆」残舰撞击了塔拉萨行星表面。伊须磨洲海域中心被撞出深井似的水坑，七个行星日后才逐渐平复。宏伟的废墟静默地屹立在海床之上，宛若神骸，悲凉又壮丽。劫后余生的伊须磨洲人原本就生活在海底，他们惊叹、惋惜，熟悉的家园被天外仙宫砸得粉碎。他们欢呼、雀跃，「神陨」之后，「岱舆」的断舰残骸成为了他们新的家园。<br><br>生存条件改善，伊须磨洲人有了更多时间和精力用于思考。环顾天降宏伟废墟，他们终于来得及提出重要的问题：「他们」是谁？「他们」从何而来？<br><br>彼时，伊须磨洲人不知冶炼金属，也尚未发明文字。只好用想象力弥补知识，用故事理解一切。于是，「传说」诞生了。传说口耳相闻，「神话」便应运而生。神话构筑认知，「文明」便由此创生。星移物换几百年以后，塔拉萨已成为了仙舟联盟的贸易伙伴，伊须磨洲的水居者们第一次踏入「仙宫」，第一次见识到仙舟全貌，也终于知晓了「神陨」的真相。<br><br>学养良好的伊须磨洲人总是将自己视为「岱舆」的某种存续，「岱舆曾追随的即是我们应追随的，岱舆曾抗击的即是我们应抗击的」。当他们谈起过去的故事时，依然会如此开头——<br><br>「在很久很久以前，众神的宫殿自高天之上陨落。」",
+                    "EN": "\"Once upon a time, the palace of the gods fell from the heavens.\"<br><br>Firstly, there was a shadow beyond the atmosphere, then a fiery glow as it entered the layers of air. At the end, its full form was revealed — It was a grand palace, a heavenly wonder beyond even the combined skill of all of Insumousu's greatest artisans. It descended slowly, as if it had condensed from the heavens themselves. Insumousu's ocean was vast, but could it truly contain this celestial palace fallen from the skies? No one knew for certain.<br><br>\"Amidst the chaos, some dispersed and fled in all directions. Others remained in the villages on land and under the sea, anticipating the descent of the Divine Fall.\"<br><br>The fallen Xianzhou Daiyu crashed onto the surface of Thalassa, leaving a deep watery crater in the heart of the Insumousu sea. For seven planetary days, the world trembled, while the magnificent ruins stood silently on the sea bed like the tragic and magnificent remains of a god. The survivors of Insumousu, living in their abodes in the sea bed, witnessed how their beloved homes were shattered by the celestial palace from beyond. Yet, with joy and elation, they soon found a new home in the remnants of the Daiyu after the Divine Fall.<br><br>As living conditions improved, the people of Insumousu had more time and energy to think. They finally had the opportunity to ask the most important questions as they gazed upon the magnificent ruins that descended from the heavens: Who were \"they\"? And from whence did \"they\" come?<br><br>In the days of old, the people of Insumousu knew not the art of metallurgy, nor had they yet invented written language. Thus, they turned to imagination to supplement their knowledge, and sought to understand all through the telling of stories. \"Legends\" were born as stories passed through the generations, turning into \"myths\" over time. \"Myths\" then shaped cognition as they themselves endure the flow of time — until \"civilization\" was born. As centuries passed and stars shifted in the sky, Thalassa became a trade partner of the Xianzhou Alliance. It was then that the aquatic people of Insumousu set foot inside the \"celestial palace\" for the first time. There, they beheld the complete grandeur of the Xianzhou, and at last learned the truth behind the Divine Fall.<br><br>The well-educated Insumousu gentry always regarded themselves as a continuation of the Daiyu. \"What the Daiyu once followed, we should follow. What the Daiyu once fought against, we should also fight.\" When they tell stories from the past, they would still begin with these words:<br><br>\"Once upon a time, the palace of the gods fell from the heavens.\""
+                },
+                "Icon": "IconRelic_310_5.png"
+            },
+            {
+                "Name": {
+                    "CH": "伊须磨洲的坼裂缆索",
+                    "EN": "Insumousu's Frayed Hawser"
+                },
+                "Desc": {
+                    "CH": "坠落的仙舟「岱舆」断舰永远地碇泊在异乡，也许是时候解开缆索，让它返航了。",
+                    "EN": "The fallen Xianzhou Daiyu is forever anchored in a foreign land. Perhaps it is time to untie its mooring ropes and let it return home."
+                },
+                "Story": {
+                    "CH": "随着文明启迪，伊须磨洲人不再将断舰中的遭难者们视为陨落的神明，但这分毫不改变他们崇敬之情。伊须磨洲的诗人如是吟咏：「大海吞没的是凡人，魂灵却永生不死。」<br><br>按照伊须磨洲的历法，每年潮骚月的第二个休息日是「神陨节」——水居者们吟诵经文、吞食草药、随着水流跳起怪异的舞蹈，以纪念那些自身陨落却为伊须磨洲带来庇佑的「神明」。到了近现代，「神陨节」逐渐失去原本的宗教意义——歌谣代替了经文，美食取代了草药，只剩下怪异的舞蹈作为文化遗产传承至今。<br><br>最近数百个星历年中，伊须磨洲毫不吝啬地将独特的文化与外界共享，神陨节的形式也在悄然发生着改变。<br><br>伊须磨洲的陆地城市通常是年轻人的世界，神陨节期间更是通宵达旦、彻夜笙歌。域外访客们常常选择神陨节期间共襄盛举，尤其仙舟游客都很喜欢这里，他们钟情于城市中生机勃勃的气氛，如火焰般热辣炽热、如海啸般势不可挡。随着青春期过去，水居者肺部会逐渐萎缩，颈侧演变成鳃状，手脚和双眼也会变得更适合海底生活。诗人们总是说「伊须磨洲人将喧闹狂欢的青春留给了陆地，将沉静肃穆的暮年留给了海洋」。<br><br>在仙舟天驱商会推动下，神陨节多了一项仪式——潜入「岱舆」断舰中搜寻到仙舟人遗骨敛入星槎，发射至塔拉萨所属的恒星。<br><br>伊须磨洲人接触到「岱舆」历史的同时，也了解了陨落时刻的悲剧：当岱舆仙舟四分五裂，一切都已无可挽回之时，岱舆的领袖青竹即刻决断，誓用壮绝的牺牲断绝寿瘟诅咒的污染。仙舟联盟希望陨落的英雄们能得到体面的慰灵奠仪，而免遭罹难的伊须磨洲人也给出了自己的回答。<br><br>神陨节的夜晚的某个时刻，狂欢戛然而止——青年、孩子与仙舟人们坐在岸边，年长者浮出水面，肃穆地凝望着海平面。紧接着，几艘星槎破水而出，自海底向着恒星飞去。<br><br>星槎上镌刻着一行秀丽的伊须磨洲文字——「你应为溺亡的水手解下缆索。别哭泣，我死后你便能平安航行。」",
+                    "EN": "As the people of Insumousu became enlightened by civilization, they longer see the broken ship's deceased crew as fallen gods. However, their reverence remains unchanged. Insumousu's poets thus sing: \"The ocean may swallow mortals, yet their spirits live on forevermore.\"<br><br>In accordance with the calendar of Insumousu, the second day of rest in the Month of Tides is Divine Fall Day — when the water dwellers recite scriptures, consume herbs, and perform bizarre dances along the current in honor of the fallen \"gods\" who brought a blessing to Insumousu. In modern times, Divine Fall Day gradually lost its original religious meaning — songs replace scriptures, delicacies replace herbs, and only the peculiar dances remain to this day as a cultural heritage.<br><br>In the past few hundred Star Calendar years, Insumousu has been generous in sharing its unique culture with the outside world, and the form of Divine Fall Day has quietly undergone more changes.<br><br>Insumousu's land cities are usually full of young people, prone to staying up all night singing and dancing during Divine Fall Day. Foreign visitors, especially Xianzhou tourists, often choose to join in the festivities. Foreigners frequently fall in love with the vibrant atmosphere of the cities, these places filled with fiery passion as unstoppable as tsunamis. As the water dwellers grow out of their adolescent years, their lungs would gradually shrink, their necks metamorphose into gills, and their hands, feet, and eyes become more suited for underwater life. The poets always say, \"The people of Insumousu give their noisy and boisterous youth to the land, and their quiet and solemn old age to the ocean.\"<br><br>With the support of Xianzhou's Celestial Guild, a new ritual was added to the Divine Fall Day celebration — People would dive into the wreckage of the Xianzhou Daiyu to search for the remains of Xianzhou humans, then inter them into starskiffs and launch the skiffs into the star of the Thalassa system.<br><br>Through their discovery of the history of the Daiyu, the people of Insumousu also learned of the tragedy behind its fall. When the Xianzhou Daiyu was irreparably damaged and breaking apart, Qingzhu, leader of the Daiyu, made the courageous decision to sacrifice herself and the entire ship to end the curse of the immortality plague. The Xianzhou Alliance hopes that the fallen heroes will receive a dignified soul-soothing ceremony and the people of Insumousu, who were spared from the disaster, have given their response.<br><br>At some point during the night of Divine Fall Day, the revelry would come to an abrupt halt. Adolescents, children, and Xianzhou residents would sit by the shore as adults emerge from the water and solemnly gaze at the oceanic horizon. Then, several starskiffs break through the water and fly from the bottom of the sea toward the star.<br><br>The starskiffs are each inscribed with a row of beautiful Insumousu calligraphy that reads, \"You should undo the ropes for drowned sailors. Don't cry. You can sail safely after my demise.\""
+                },
+                "Icon": "IconRelic_310_6.png"
+            }
+        ]
+    },
+    {
+        "_id": 309,
+        "Name": {
+            "CH": "繁星竞技场",
+            "EN": "Rutilant Arena"
+        },
+        "Icon": "71022.png",
+        "Skills": [
+            {
+                "CH": "使装备者的暴击率提高 <b>8.0%</b> 。当装备者的当前暴击率大于等于 <b>70.0%</b> 时，普攻和战技造成的伤害提高 <b>20.0%</b> 。",
+                "EN": "Increases the wearer's CRIT Rate by <b>8.0%</b>. When the wearer's current CRIT Rate reaches <b>70.0%</b> or higher, the wearer's Basic ATK and Skill DMG increase by <b>20.0%</b>."
+            }
+        ],
+        "Items": [
+            {
+                "Name": {
+                    "CH": "泰科铵的镭射球场",
+                    "EN": "Taikiyan Laser Stadium"
+                },
+                "Desc": {
+                    "CH": "位面封装的泰科铵星规格最高的竞技场——泰科铵大球馆。球馆内外人声鼎沸，彩旗展动…激动人心的机动球竞技比赛将在万众瞩目中盛大开幕。",
+                    "EN": "The plane encapsulates the most advanced arena on Planet Taikiyan — the Taikiyan Stadium. The atmosphere is lively both inside and outside the dome as flags wave in the air. With all eyes on the arena, an exciting game of Roboball is about to kick off."
+                },
+                "Story": {
+                    "CH": "泰科铵星曾是公司的沉船港星球，定损业务员会被派去清理旧船残骸，发掘剩余价值。<br><br>业务员将「派驻泰科铵星」视作一去不返的流放。在这颗小行星上，成山的碳纤维与不锈钢描摹着巨船退役前的轮廓，钢筋废墟上投下虚无的阴影，渴望召回的欲望愈演愈烈。数年间，业务员们在甲板之下抢夺高规零件，穿着推进设备在沉船舱通道中疾速追逃，形成了一套阴影中的「地下法则」…即便如此，困兽们也未能得偿所愿，终究无人返航。<br><br>困兽们的「地下法则」从未躲过监视，被随身影像传回公司，化为高位者的饭后笑谈。「传统项目部」投资人颔首沉思，从中嗅到一丝「娱乐」的可能性。<br><br>按照规划，全银河首个以「泰科铵机动球」为主体的竞赛项目将在泰科铵星横空出世。数座星球改造机器降临这里，它们将废弃的星船连根拔起，不留一处阴影。默默无闻的小行星，围绕着「机动球」运动改头换面，转眼之间成为璀璨耀眼的竞技圣地。「届时，将无人会乎荒诞的原型，留下的只有纯洁的运动精神、以及高额的商业合同」。<br><br>身着推进器护甲的运动员，变幻莫测的立体赛道，激荡火花的身体对抗…「机动球大赛」一经推出，便跻身银河焦点。终年夜色的泰科铵星上从此镭光四射，不见阴影。<br><br>大球馆内，球队主客攻防难解难分，声嘶力竭的观众座无虚席，他们高呼战队的名字，高呼球星的名字，山呼海啸的喝彩声经久不绝；大球馆外，泰科铵星也未曾安静片刻，转播授权、特许赞助、广告合同在交易市场上明争暗夺，地下世界的乐透式投注也常常暗潮汹涌，各自欢喜离愁…如同墨水一般的夜色阴翳早已化为镭光底板，默默衬托着竞技场的流光溢彩。<br><br>泰科铵大球馆从诞生起便一直夜如白昼，谁也不记得褪去的阴影究竟藏在何处了。",
+                    "EN": "Planet Taikiyan was once an IPC scuttle site for spaceships, where value assessors were dispatched to clean up old ship wreckage for any remaining value.<br><br>Assessors regarded an assignment to station in Planet Taikiyan as an exile with no return. On this tiny planet, mountains of carbon fiber and stainless steel traced the pre-decommissioned outlines of giant ships, casting a shadow of emptiness over the steel ruins. Out here, the exiles' desire to be recalled intensified to a boiling point. Assessors wearing propulsion equipment fought for high-quality parts below-deck for many years, their lightning-fast figures mutually fleeing from and in pursuit of each other in the corridors of sunken ships. They had formed their own underground rules in the shadows... And yet none of these trapped beasts had their wishes fulfilled. No one was ever able to return.<br><br>The rules established by these abandoned humans, reduced to caged animals, did not escape the IPC's surveillance. Footage from their wearable cameras were transmitted back to the IPC and passed as after-dinner laughingstock by the high and powerful. The investor of the Traditional Project Department, however, scented out the faint possibility for \"entertainment\" after some consideration.<br><br>With this new plan, the first competition in the cosmos featuring the Taikiyan Roboball would have its glorious debut on planet Taikiyan. Several planet terraforming machines descended to the surface and yanked out the decommissioned spaceships in their entirety, not leaving a single inch of their former shadows behind. The obscure little planet had been transformed by the sport of Roboball, becoming a dazzling athletic hub in the blink of an eye. \"No one will care about its ludicrous beginnings by that time. There will only be pure sportsmanship and high-value commercial agreements.\"<br><br>The competition had athletes wearing propulsion equipment and armor, ever-changing three-dimensional race tracks, and physical clashes that sent sparks flying... The attention of the entire cosmos was thoroughly captured the moment the Roboball Competition was announced. From that moment forth, the planet once shrouded in darkness has never again seen a moment of night.<br><br>Both the home and visitor teams are evenly matched in the massive stadium, and the vociferous audience fills up the dome in countless multitudes. They roar the names of the team and the players, giving birth to a thunderous cacophony that does not end. Outside the dome, the planet is also bustling with activity as broadcast licenses, exclusive sponsorship, and advertising contracts are fought over in the trading market, while underground betting is rife as excitement and disappointment share the spotlight in equal measure... The inky shade of the night has long been transformed into a silent radium backdrop to the overflowing lights of the stadium.<br><br>The Taikiyan Stadium has been bright as day from the moment of its inauguration, and no one even remembers where the begone shadows are now hidden."
+                },
+                "Icon": "IconRelic_309_5.png"
+            },
+            {
+                "Name": {
+                    "CH": "泰科铵的弧光赛道",
+                    "EN": "Taikiyan's Arclight Race Track"
+                },
+                "Desc": {
+                    "CH": "泰科铵大球馆的标准赛道通常为金属结构外覆光滑混凝土与原木地板。为了让场内观众清晰观赛，大量透明聚碳酸酯材料被投入球馆，战况一览无余。",
+                    "EN": "The Taikiyan Stadium's standard race track is usually made with a metal structure covered with smooth concrete and natural wooden floors. A large amount of transparent polycarbonate material was used in the construction of the stadium to give the audience an unobstructed view of the games."
+                },
+                "Story": {
+                    "CH": "「传统项目部」召集来星际和平娱乐的运动专家，要求他们剔除所有荒蛮要素，将泰科铵的「地下法则」改造成「能赚钱的竞技比赛」。<br><br>材料专家率先设计出「机动球」尝试满足需求——直径 35 厘米，重约 30 公斤，混合了碳纤维与不锈钢的科技铁球。它无时无刻不追逐着相位灵火的变换，通过无规律移动增加了比赛的意外性。运动装备专家跟进设计，开发出机动球标准推进护甲，方便尖端的运动、医疗企业能够呈现企业素质，确保了稳定收入与安全竞技的可持续性。<br><br>至此，泰科铵机动球协会正式成立，制定了初版《泰科铵机动球比赛规则》。两支队伍各7人的比赛制度也从此确立。<br><br>博识学会的赛道建筑师将「竞逐」概念提制成立体环状赛道——标准长度 2.91 公里，赛道中心平直区域宽5米，两侧弧形区域宽2到 14 米不等…机动球队员们将在宽敞明亮的赛道上单向飞驰数圈，伴着呼啸声与碰撞声，完成整场比赛。根据实际测试，在赛道高速行进过程中，非连贯的点状光源会在运动员视觉暂留中连接成线，数条幽明可现的流明会形成专属的弧光赛道。星际和平娱乐向富商们发出邀请，承诺他们最受瞩目的竞技应有的曝光率。随即，联赛俱乐部建制完备，最具天赋的球员齐聚一堂、整装待发。<br><br>星际和平影视独占赛事转播，借助超距遥感，他们将实况比赛放送到殊方异域的角落。顶尖运动员的感官体验也被全程录制，足不出户的观众能直接体验速度与碰撞、呼啸与弧光。旧日沉船港停满观光舰船，纷乱的人群在布满灯光与广告的街头汇集，随后缓慢地流向大球馆内。他们确认好席位，四处张望，满眼尽是横幅彩旗与麦芽飞沫，明亮的赛道在探照灯下静静伫立。<br><br>在山呼海啸的欢呼声中，第一场比赛开始了。",
+                    "EN": "The Traditional Project Department invited sport experts from Interastral Peace Entertainment and requested that they remove all savage elements of Taikiyan's underground rules and transform it into a lucrative competition.<br><br>Material experts designed a Roboball to satisfy the request — a high-tech iron ball with a diameter of 35 centimeters, weighing 30 kilograms, and of carbon fiber and stainless steel. It constantly chases alterations of the Phase Flame, increasing the unpredictability of the game through its irregular movements. Sports equipment experts followed that by developing a standard-issue propulsion protective armor for Roboball games, allowing top sport equipment and medical organizations to better demonstrate their quality and ensuring the sustainability of a stable income and safe competition.<br><br>And thus, the Taikiyan Roboball Association was formally established, and the initial version of the Taikiyan Roboball Game Rules was formulated. The game system comprising two teams with seven players each was also established from then on.<br><br>The track architects of the Intelligentsia Guild had turned the concept of \"racing\" into a three-dimensional circular track — the standard length of which is 2.91 kilometers. The flat central area of the track is 5 meters wide, and the curved areas on both sides range from 2 to 14 meters in width. The Roboball players will fly unidirectionally for several laps on the spacious and bright track, accompanied by the sound of whistling and collision, completing the entire game. According to actual testing, during high-speed travel on the track, disconnected point light sources will connect into lines with the athletes' visual persistence, and several dimly visible lumens will form an exclusive arclight track. Interastral Peace Entertainment invited the wealthy to participate in the league, promising them the exposure their favorite sport deserved. Subsequently, the league clubs were established, and the most talented players were assembled and ready to go.<br><br>Interastral Peace Media had exclusive broadcasting rights for the event and, with the help of ultraremote sensing technology, they broadcasted the live competition far and wide. The sensory experience of top athletes was also recorded throughout the event, allowing homebound viewers to also experience the speed, collisions, whistles, and arclights of the competition from the comfort of their own homes. The old scuttling site was filled with sightseeing cruises and bustling crowds gathered in the streets, illuminated by lights and advertisements, slowly streaming into the stadium. They confirmed their seats, looked around, and were greeted with banners, flags, and airborne malt foam. The bright track stood silently under the spotlights.<br><br>Amid the roar of the crowd, the first game began."
+                },
+                "Icon": "IconRelic_309_6.png"
+            }
+        ]
+    },
+    {
+        "_id": 308,
+        "Name": {
+            "CH": "生命的翁瓦克",
+            "EN": "Sprightly Vonwacq"
+        },
+        "Icon": "71019.png",
+        "Skills": [
+            {
+                "CH": "使装备者的能量恢复效率提高 <b>5.0%</b> 。当装备者的速度大于等于 <b>120.0</b> 时，进入战斗时立刻使行动提前 <b>40.0%</b> 。",
+                "EN": "Increases the wearer's Energy Regeneration Rate by <b>5.0%</b>. When the wearer's SPD reaches <b>120.0</b> or higher, the wearer's action is Advanced Forward by <b>40.0%</b> immediately upon entering battle."
+            }
+        ],
+        "Items": [
+            {
+                "Name": {
+                    "CH": "翁瓦克的诞生之岛",
+                    "EN": "Vonwacq's Island of Birth"
+                },
+                "Desc": {
+                    "CH": "位面封装的翁瓦克星球上最著名的岛屿——瓦克岛。整座岛屿郁郁葱葱，在名为「西斯腾」的大树上，结满了各式动物的果实。",
+                    "EN": "Teeming with plant life, Wacq Island was the most well-known island on Planet Vonwacq and is sealed within the plane. On the island was a gigantic tree called Thestang, bearing fruits that would give birth to the various kinds of the island's wildlife."
+                },
+                "Story": {
+                    "CH": "翁瓦克是颗狭小拥挤的星球，遍布着雨林和岛屿，旺盛的生命力是这最醒目的象征。<br><br>旺盛的生命力使得翁瓦克赤道附近的雨林遮天蔽日，雨林低处常年不见日照，满是腐生菌类和弱光植物。生存在这里的智慧生物聚集在回归线附近，无论高低的植物在这里都能自然发育，每天都有新的蔬果长成，随时随处都可摘取，当地人也大多以蔬果为食。<br><br>不过，无论是迁居至此的人类还是土著种族瓦克瓦克，始终对西斯腾大树上的动物果实保持着近似宗教的敬畏。<br><br>西斯腾大树总是一刻不停结成果实——那些澄黄半透明的球形果实，随着时间逐渐变大、变得沉重，从树枝上垂下，直到果梗承受不住，它便会发出清脆的响声坠向地面。纤薄果皮碎裂开来，各式各样的生物从此处诞生：鱼类、飞鸟、寒带的白熊…在翁瓦克星，他们有着共同的母亲。<br><br>被称为「魔王」的生物也在西斯腾的果实中诞生，它自醒来一刻便懂得挥动刀斧般的巨钳，向翁瓦克的整个生态宣战。<br><br>然而每隔六十个自然年，西斯腾大树都会诞下新的魔王，周而复始。翁瓦克住民们对绝望的宿命轮回早有防备，临近魔王苏醒之时，他们便会暂置争端、携手与共，组织起最强的战士驶向瓦克岛…六十年后又六十年，荒谬的讨伐战在狭小地貌上反反复复上演了数百年。魔王是翁瓦克恒常的灾难，文明的缓存被周期性地清理干净。<br><br>因此，对翁瓦克而言，旺盛的生命们彼此争斗不休，看似变化动荡激烈，实则如同一潭死水。",
+                    "EN": "Vonwacq is a small and crowded planet, almost entirely covered by rainforests and islands, with its exuberant wildlife being its most recognizable feature.<br><br>Vonwacq's effervescent vitality made the rainforests near its equator grow so large and tall that their shades would cover the sky above and even block out the sun. The lack of sunlight in the undergrowth of the rainforest throughout the year creates a perfect space for fungi and other low-light plants to grow. Intelligent creatures inhabited regions near the tropics. Plants, irrespective of height, would grow naturally here. Fresh fruits and vegetables could be picked at any time and anywhere, which was what the locals mostly fed on.<br><br>However, be it the new immigrants or the indigenous Wacqwacq beings, they have always maintained a quasi-religious reverence for the animal fruits growing on the Thestang tree.<br><br>The great Thestang tree never stopped bearing fruit, not even for a moment. With time, all those yellowish and translucent oval-shaped fruits grew larger and heavier, hanging down from the branches until the stems could no longer bear their weight. When the time came, fruits would fall to the ground with a loud and crisp sound, cracking their thin skin and releasing whatever was held within. The fauna of Vonwacq was all born this way, be it fish, birds, or polar bears. On Planet Vonwacq, creatures of all kinds shared one common birth mother.<br><br>The fiend known as the \"Demon King\" was also born from one such fruit of the Thestang tree. From the moment of its birth, it instinctively knew how to swing its giant ax-like pincers toward others, waging war upon the entire biosphere of Vonwacq.<br><br>Every sixty natural years, the Thestang tree would give birth to a new demon king, and the cycle went on and on. The people of Vonwacq had long been used to and prepared for such cyclical fates of doom. Whenever a demon king's awakening approached, they would temporarily set aside their disputes and work together, assembling their strongest warriors to set sail for Wacq Island... One sixty years after another sixty years, these seemingly pointless crusades had been launched over and over again for hundreds of years in such narrow landscapes on this small planet. The demon kings were the permanent disaster of Vonwacq, and the caches of civilization were periodically wiped out.<br><br>Thus, it could be said that Planet Vonwacq was more like a stagnating pool of dead water, even though it was teeming with lively creatures that were ceaselessly fighting with each other, seemingly full of possibilities for change."
+                },
+                "Icon": "IconRelic_308_5.png"
+            },
+            {
+                "Name": {
+                    "CH": "翁瓦克的环岛海岸",
+                    "EN": "Vonwacq's Islandic Coast"
+                },
+                "Desc": {
+                    "CH": "瓦克岛的海岸线上，海面时高时低，浪潮时涨时落…千年不变的风景，见证了如同潮汐一般的兴衰。",
+                    "EN": "On the coastline of Wacq Island, tidal waves rose and fell... This landscape remained the same for millennia and witnessed the rise and fall of civilizations just like those changing tides."
+                },
+                "Story": {
+                    "CH": "随着西斯腾的果实因丰硕而坠落地面，不同种类的生物在瓦克岛上苏醒、啼哭、随即离开，它们离开海岸线在翁瓦克上寻找自己的栖息地。<br><br>一开始，星际外来者被当作是莽撞的窃贼，在部落式的「亲切问候」中，逐渐理解了翁瓦克的文明困境。随即外来者乘上当地住民的木船驶向瓦克岛的海岸线，好奇怎样的魔王会从果实中诞生。部落战士们心怀忐忑地潜伏在浅滩上，握紧石器时代的武器，为了六十个自然年的和平安宁，他们早已下定不归家的决心。<br><br>随着战事深入，外来者查清了「魔王」的面目——那是曾一度绝种的星际虫类，从未有人想过它会如在宇宙角落里以这样的面目出现。<br><br>惨烈的讨伐结束之后，幸存的少数本地居民带着胜利的消息离开了海岸线，而好事的外来者则悄悄留了下来。他们拨开巨树垂下的树枝，陷进淹没半身的泥沼，在雨林洼地之下，外来者找到深处的管理舱室——至此，关于翁瓦克的秘密得以揭晓：高等文明的物种恢复系统化身西斯腾大树，将无数生命方程解码放出，以恢复星球生态。<br><br>周期性出现的魔王，不过是茫茫生物库中的一条数据。外来者删除了魔王数据，离开了翁瓦克，深藏功与名。<br><br>瓦克岛的海岸线上只有潮汐静静拍打的声音，翁瓦克的土著联军列阵以待，确信魔王再也没有降临。他们举杯同庆、彻夜欢歌，畅谈未来。然而两族盟友转身告别之后，便各自策划着独占翁瓦克的战争…没有魔王的翁瓦克，盟约只是一纸空谈。狭小的星球经不起两个种族的冲突，短暂而脆弱的和平从此消失踪迹。<br><br>瓦克岛的海岸线依旧平静。人类与瓦克瓦克退出历史舞台之后，翁瓦克终于完成了生态恢复。",
+                    "EN": "The fruits of the Thestang tree matured and fell to the ground, giving birth to creatures of all kinds. Then these creatures awakened, cried, and subsequently left Wacq Island to seek a habitat of their own on Planet Vonwacq.<br><br>At first, the outsiders from the stars were seen as reckless thieves who, upon receiving a \"friendly\" tribal welcome, began to understand the civilizational dilemma of Vonwacq. Soon after, the outsiders boarded the locals' boats and sailed to Wacq Island, curious about how a demon king would be born from the fruit. The tribal warriors lay low on the shoals in trepidation, closely clenching their Stone Age weapons. To fight for sixty years of peace, they seemed determined, ready to make the ultimate sacrifice, one where they may never return home.<br><br>As the war went on, the outsiders discovered the truth about the \"Demon King\" — It was a species of interstellar worm that had once been considered extinct. It was simply unexpected that these creatures would appear in such a form in this corner of the universe.<br><br>When the brutal expedition was finally over, the surviving few natives left the coastline with news of their victory, while the curious outsiders quietly stayed behind. They pushed aside the drooping branches of the giant tree and sank into the quagmire, almost half-submerged. In the sunken lands of the rainforest, the outsiders found a control cabin. It was then that the secret of Vonwacq was finally revealed — the Thestang tree turned out to be the eco genesis system from a much higher civilization, which could decode and then release innumerable life forms to restore the planet's biosphere.<br><br>The demon king that cyclically rampaged the planet turned out to be just one single piece of data in the vast biologic database. The outsiders deleted the data of the demon king and then left Vonwacq, not seeking any credit or gratitude from the locals.<br><br>The sound of tidal waves battering against the seaside land was the only audible sound on the coastline of Wacq Island. The indigenous coalition forces of Vonwacq were all lined up and were convinced that the demon king would never come again. Then they cheered, toasted, sang, and talked all night about a future without demon kings. However, almost immediately after the two allied tribes bid farewell and returned to their respective homelands, the two tribes began plotting wars for their takeover of the whole of Vonwacq... Without a common threat such as the demon king, their alliance was but a non-binding piece of paper. The small planet was never designed to withstand a conflict between the two tribes. And the short-lived, fragile peace had since shattered out of existence.<br><br>The coastline of Wacq Island remained in its enigmatic calm as if nothing had ever transpired on these shores. With humans and Wacqwacq gone from its center stage, Vonwacq had finally reclaimed peace and completed its ecological restoration."
+                },
+                "Icon": "IconRelic_308_6.png"
+            }
+        ]
+    },
+    {
+        "_id": 307,
+        "Name": {
+            "CH": "盗贼公国塔利亚",
+            "EN": "Talia: Kingdom of Banditry"
+        },
+        "Icon": "71018.png",
+        "Skills": [
+            {
+                "CH": "使装备者的击破特攻提高 <b>16.0%</b> 。当装备者的速度大于等于 <b>145.0</b> 时，击破特攻额外提高 <b>20.0%</b> 。",
+                "EN": "Increases the wearer's Break Effect by <b>16.0%</b>. When the wearer's SPD reaches <b>145.0</b> or higher, the wearer's Break Effect increases by an extra <b>20.0%</b>."
+            }
+        ],
+        "Items": [
+            {
+                "Name": {
+                    "CH": "塔利亚的钉壳小镇",
+                    "EN": "Talia's Nailscrap Town"
+                },
+                "Desc": {
+                    "CH": "位面封装的是塔利亚上无依无靠的破落小镇：「钉壳」。盗贼们在这个水源地建立破布、钢筋和木板的小镇，为了暂时的和平。",
+                    "EN": "Enclosed within the plane is Talia's miserable desolate small town called Nailscrap. For a short-lived peace, bandits chose this place for its water supplies and built this small town out of rags, rebars, and planks."
+                },
+                "Story": {
+                    "CH": "一场意外，慌忙逃生的星际盗贼来到了塔利亚，为了躲避「巡海游侠」的追击。<br><br>最开始的时候，塔利亚只是被称为「繁星垃圾场」的荒凉地，曾经的灭星战事给塔利亚表面带来了堆积如山的断迹残垣、弥散不去的辐射污染，同时也带走了这里的仅存生机。慌张的盗贼走投无路，却落入了星球表面之下的洞窟，那是鼠类种族曾经留下的隧道…盗贼们逃过一劫，有关「盗贼公国」的理想在遗落秘境中悄然诞生。<br><br>无数的地穴网络，互相连接，如同巨大的迷宫。更多的盗贼团体被理想吸引，来到这里积累财富、交换技术，为公国打下了基础。<br><br>越来越多的盗贼在这里定居，蛮荒的星球开始热闹非凡。大盗贼演说着「盗贼公国」的理想，承诺「金库」将用于建立人人公平的国家。但当财富越来越多时，妄图独占它的大盗贼们又撕毁了脆弱的协议。佣兵、暴乱、里应外合…混乱的战争此起彼伏，也许筹划者们从一开始就不相信所谓人人公平的理想。<br><br>于是痛恨幻想的盗贼们再次回到了「无知者为王」的混沌时代，他们抢占水源建立城镇，嘲弄着公平正义。<br><br>「钉壳镇」里人人皆是悍匪，他们驾驶着气质暴戾的越野车横征暴敛，与荒漠上其他的匪帮争夺资源，用废铁和旧电线创造了机甲和武器…越是贫瘠的废料堆上，反而越能获得末路狂欢的洒脱。那些甜美的理想如同辐射热风中的一缕狗屁，早已经没有留下什么痕迹了。<br><br>觥筹交错恍惚间，半梦半醒的盗贼们理解了，「盗贼公国」从来就不是建立什么，而在于摧毁什么。",
+                    "EN": "It was by pure accident that the interstellar thieves came to Talia in their hasty escape from the pursuit of the Galaxy Ranger.<br><br>At first, Talia was just a desolate place known by many as the Starry Junkyard. The planet-destroying wars of the past brought mountains upon mountains of ruins and wreckage onto the surface of Talia, resulting in imperishable radiation and taking away the last remaining hope to sustain life. The thieves had nowhere else to go and fell into a cave beneath the surface of the planet, which turned out to be a tunnel left by the rodent race... The thieves managed a narrow escape, and their dream of establishing a Kingdom of Banditry was thus discreetly born in this lost realm of seclusion.<br><br>Innumerable caverns were interconnected in a massive labyrinth. More groups of thieves and bandits were lured in by this supposed dreamland meant for them and came to accumulate wealth and exchange technology, subsequently laying the foundation for the kingdom.<br><br>As more and more thieves and bandits settled down here, the once desolate planet became extraordinarily bustling with life. Thieves of great renown spoke of their ideal of a Kingdom of Banditry, promising to use the treasury to build a nation of equity and fairness. But as the amount of accumulated wealth grew larger and larger, the same thieves tore up their flimsy promises right away and attempted to monopolize all the wealth. Mercenaries, riots, double crossings, and betrayals... Chaos ensued one after another. Perhaps the initiators never even once believed in their ideal of so-called equity for all.<br><br>Henceforth, thieves who resented lofty ideals found themselves in a chaotic age where ignorance was glorified. They seized water sources to build towns of their own and mocked the very idea of fairness and justice.<br><br>Everyone in Nailscrap Town was a bandit. They drove violently destructive off-road vehicles and fought for resources with other hordes of bandits in the desert. They created mechanical armor and weapons out of scrap iron and old wires... The more barren the wasteland was, the more freedom they got out of it, like one final frenzy before doomsday. Those sweet dreams were like wisps of nonsense in the radiating heat waves and had long ceased to leave any trace behind.<br><br>In a half-awake trance, the thieves came to the realization that the Kingdom of Banditry was never about creation but about destruction."
+                },
+                "Icon": "IconRelic_307_5.png"
+            },
+            {
+                "Name": {
+                    "CH": "塔利亚的裸皮电线",
+                    "EN": "Talia's Exposed Electric Wire"
+                },
+                "Desc": {
+                    "CH": "这是从废料场中收捡来电线，它的绝缘层部分脱落，部分残留，但仍然没有退役。在塔利亚的盗匪小镇上，从来就没有真正的废物。",
+                    "EN": "This is a stretch of wire scavenged from the junkyard. Despite bits of its insulation falling off, there is still some use left in it. No such thing as useless trash exists in Talia's small bandit towns."
+                },
+                "Story": {
+                    "CH": "这条裸皮电线是陈旧的，它曾整齐排布在一艘慌忙逃窜的星舰上，直到巨大的冲击让它与潮湿的空气接触一起。<br><br>整艘星舰被拖入错综复杂的地下通路之中。盗贼星舰上，钢板钢甲被逐层卸下，电源线路被粗暴拆解，它们被用来建立最初的同盟市集。随后，盗贼们在这里积攒财富，畅谈理想…随后，旷日持久的尔虞我诈开始了，互相猜忌与背叛，独裁者和叛徒的战火从地下隧洞烧到了地上荒漠。<br><br>这条裸皮电线依然是陈旧的，它被匪徒从坑洞中挖出，连接在一辆四面漏风的巨大改装越野车上，奔向远方的水源地。<br><br>告别背叛战争之后的幸存者们当务之急是寻找塔利亚的水源地。他们驾驶着简陋无比，质量堪忧的交通工具，在满是玻璃碎渣的戈壁上日行千里。悍匪们的车队，时而相互追逐，扬起沙尘与浓烟；时而自由地将人类抛出，扔进车上或者其他任何地方…生存的压力让他们别无他想，只有闷头前进时不会迷惘。<br><br>这条裸皮电线始终是陈旧的，它又被匪徒从越野车上拆下，添置到小镇的灯箱里，老化的电线致使灯光闪烁频频。<br><br>自称是「警官」的老流氓建立了最初的「钉壳镇」。他手腕强硬、作风毒辣，凭借着个人魅力将废料场打理得井井有条，小镇也日渐热闹。缺根筋的工程师做出意料之外的废物机器，不要命的废土客也喜欢在地下的竞技场打得有来有回…在夜深的吧台前，他们斟满汽油味的葡萄汁儿，把杯子碰在一起，庆祝着侥幸又活过一天。<br><br>塔利亚没有什么新鲜事物，不过是老东西随着变动的时代得到新使命罢了。",
+                    "EN": "This exposed wire was old. It had once been neatly lined up on a starship until one hasty escape attempt of the starship led to a huge shock wave, which subsequently exposed the wire to the moisture in the air.<br><br>The entire starship was dragged into a labyrinth of underground passages. On the thieves' starship, shields made of steel plates were removed layer by layer, and the power lines were crudely stripped apart, all of which were then used to build the first-ever alliance market. The thieves there began to accumulate wealth and at the same time started to talk about their ideals. Soon after, the protracted infighting began, where suspicion and betrayal were expressed by and against one another. The flames of the war fought between the dictator and their detractors eventually spread from the underground tunnel to the surface-level desert grounds...<br><br>This exposed wire was even older. It was dug out of a pothole by the bandits and then connected to a revamped overland vehicle with air leaking in from all directions, which was driven to a distant water source.<br><br>The top priority for all survivors of the war of betrayal was to locate Talia's water sources. They drove thousands of miles a day on deserts littered with glass shards in extremely shabby and poorly made vehicles. The caravans of the bandits sometimes chased each other, raising dust and heavy smoke, and other times they just wantonly threw people on or off the car... The sheer pressure of survival forced them to give up all other thoughts. Only by forging ahead could they be saved from confusion.<br><br>This naked wire was always old. It was further removed from the overland vehicle and placed into the town's lightbox by the bandits. The aging wire caused the lights to flicker frequently.<br><br>It was an old gangster who claimed to be the \"police officer\" who founded the original Nailscrap Town. With his strongarm tactics and charisma, he managed to keep the junkyard in good order. The town became livelier than ever. Eccentric engineers accidentally made machinery out of waste, and desperate wastelanders also enjoyed fighting back and forth in the underground arena... Late at night in a bar, they filled their glasses with grape juice that smelled like gasoline and cheered together, celebrating the fact that they had managed yet another day of survival.<br><br>There was nothing new in Talia, just old things repurposed differently in changing times."
+                },
+                "Icon": "IconRelic_307_6.png"
+            }
+        ]
+    },
+    {
+        "_id": 306,
+        "Name": {
+            "CH": "停转的萨尔索图",
+            "EN": "Inert Salsotto"
+        },
+        "Icon": "71017.png",
+        "Skills": [
+            {
+                "CH": "使装备者的暴击率提高 <b>8.0%</b> 。当装备者当前暴击率大于等于 <b>50.0%</b> 时，终结技和追加攻击造成的伤害提高 <b>15.0%</b> 。",
+                "EN": "Increases the wearer's CRIT Rate by <b>8.0%</b>. When the wearer's current CRIT Rate reaches <b>50.0%</b> or higher, the wearer's Ultimate and follow-up attack DMG increases by <b>15.0%</b>."
+            }
+        ],
+        "Items": [
+            {
+                "Name": {
+                    "CH": "萨尔索图的移动城市",
+                    "EN": "Salsotto's Moving City"
+                },
+                "Desc": {
+                    "CH": "位面封装的是萨尔索图星上仅剩的移动城市之一：风滚草。这座城市从未停下，才勉强做到不被黑夜或者极昼吞没。",
+                    "EN": "Enclosed within the plane is one of Salsotto's last remaining moving cities — Tumbleweed. This city never stopped and barely escaped from a fate of being swallowed up either by the dark night or the midnight sun."
+                },
+                "Story": {
+                    "CH": "若从宇宙的视角看去，萨尔索图星整体因广袤的沙海而呈现出发亮的金色，星球表面的巨大陨石坑群也清晰可见。<br><br>在某个时刻，奇特的陨石雨连续不断坠入萨尔索图星。「陨石星群」造成的持久冲击与行星形成了特殊的夹角，让星球的自转渐行渐止。像是摁下了「世界停止」的按钮，萨尔索图的昼夜逐步延长，直到日出日落漫长无比，直到没有人能够忍受，直到整个星球的自转停了下来……<br><br>长达半年的日照酷暑和黑夜严寒既成事实。整个萨尔索图只剩下唯二的移动城市，仍紧紧咬住晨昏线，一刻不停地移动。<br><br>磅礴的空中堡垒如同体积巨大的雨云，缓缓从金色沙漠的上空飞过，鸣声轰响如雷；所经之处沙尘如瀑，铺天盖地。在巨大的移动城市之上，背负翼装的萨尔索图人在城市建筑间上下翻飞。天灾中侥幸生存下来的飞行民族，属于天空，却又被束缚于天空。<br><br>清晨，空渔人们从港口出发，俯冲向沙地，猎捕燃素水母，于傍晚回到城市。借着神秘的能量生物，城市勉强地维系着航行。<br><br>尽管生存延续的危机仅寄托在两片脆弱的羽翼之上，但是萨尔索图人生性乐观，不愿意让沉重的命运压弯了脊梁。他们花费时间与家人一同练习玻璃制成的乐器，将乐声录进玻璃蚀刻之中；他们也爱好结交笔友，将书信放进「蒲公英信箱」里，留给晨昏线另一端的移动城市……<br><br>地磁场逐渐衰弱，大气层也日渐稀薄。即便末日近在眼前，但生命尚未熄灭，翔鹰便会一刻不停地飞下去。",
+                    "EN": "If viewed from a cosmic perspective, Planet Salsotto as a whole, due to its vast seas of sand, shined in the most dazzling shade of gold, with its giant meteorite craters clearly visible.<br><br>At a certain fateful moment, waves upon waves of strange meteorites ceaselessly fell onto Planet Salsotto. The long-lasting impact caused by the Meteoric Starfall relentlessly hitting the planet at such a particular angle caused the planet's rotation to gradually come to a halt. It was like pushing a world-deactivate button. Salsotto's days and nights became longer and longer, until every sunrise and sunset would last for a seeming eternity, until nobody could take it any longer, until the whole planet's rotation was finally brought to a standstill...<br><br>It had become a fact of life that sizzling summers under the scorching sun and dark nights of bitter coldness would last for half a year. What was left of the whole Salsotto were the last two remaining cities that were moving non-stop, always running right after the terminator line.<br><br>The colossal fortress was floating in the air like a gargantuan raincloud, slowly hovering across the sky above the golden desert with thundering noise. Wherever it went, overwhelming storms of sand were cascading down and over. In the giant moving city, the Salsottians in winged suits were flying up and down among the city's buildings. These flying folks who had survived the calamity by sheer luck now belonged to the sky and were bound to it at the same time.<br><br>In the morning, skyfishers departed from the port and dove right for the sand, where they would hunt the phlogiston jellyfish. They would only return to the city after dusk. By the power of mysterious creatures, the city barely managed to voyage ahead.<br><br>Even though their entire survival relied squarely on those two fragile wings, the Salsottians were optimistic by nature and would never let the heavy burden of fate lower their spirit or bend their spine. They would find time to spend with their family playing glass musical instruments, with such an attitude that it was almost as if they could carve the musical notes right into the glass. They also enjoyed making pen pals and would often place their written messages in the Dandelion Letterbox, meant for the moving city on the other end of the terminator line.<br><br>Gradually, the planet's magnetic field weakened and the atmosphere thinned. In the face of a fated doom, the sparkles of life were not yet snuffed out, and the eagles would never cease to fly."
+                },
+                "Icon": "IconRelic_306_5.png"
+            },
+            {
+                "Name": {
+                    "CH": "萨尔索图的晨昏界线",
+                    "EN": "Salsotto's Terminator Line"
+                },
+                "Desc": {
+                    "CH": "停止自转的萨尔索图星的日夜周期漫长无比，人们只有追逐着「晨昏交界线」不断迁徙，才能勉强维持住仅剩的生存空间。",
+                    "EN": "Planet Salsotto's own rotation stopped, and thus each cycle of its day and night seemed to last forever. People can only gain the bare minimum space for survival when they ceaselessly migrated and closely chased the ever-moving terminator line."
+                },
+                "Story": {
+                    "CH": "自从「陨石星群」造成的停滞开始，「晨昏交界线」便成为了萨尔索图人狭隘的生命线。<br><br>当一切刚开始的时候，人们仍然以为昼夜交替理所当然。晨昏线拂过大地，翻越山峰、跨过沟壑，给未醒的带去黎明，给将眠的送上晚霞…而当光与暗的步伐缓慢之后，白昼和黑夜不再熟悉，无尽漫长的酷热严寒如同地狱泥沼，将深陷其中的生命缓慢埋葬。于是，挣扎求生的萨尔索图人，搭上飞行的移动城市，追逐着晨昏。<br><br>登上移动城市「风滚草」的瞭望台，顺着前进的方向看去，前方是白昼，身后则是黑夜。<br><br>「风滚草」的追赶并非只是为了生存，更是为了尊严的生活。它前进得比晨昏线更快一些，清晨就会步入午后；比晨昏线更慢一些，黄昏便潜入深夜。生性乐观的萨尔索图人还原了每一个「平凡一日」。与生俱来中的浪漫基因，让他们能在安宁闲适的午后吟唱，也能在满缀繁星的夜晚酣睡。<br><br>然而，顽强执拗的飞翔却终究是陷落了，移动城市的残垣断壁还是被晨昏线甩在了身后。<br><br>多年以后，两座始终互不相见的移动城市矗立在一起，残骸中炮塔分别指向彼此。想必是某座城市跨越过半颗星球的昼夜奔向了另一座城市，率先挑起了战争。两座城市惨烈的战争痕迹在沙丘之下若隐若现，连同无名的仇恨合二为一，化为了同一座废墟。<br><br>萨尔索图星沉默着，不知从何时起，它的自转周期渐渐减少，将在无人的未来迎来星球自愈。",
+                    "EN": "Ever since the stagnation caused by the Meteoric Starfall, the terminator line had become the lifeline of the Salsottians.<br><br>When it all started, people still took the shifting of day and night for granted. The line of dawn and dusk swept across the earth, climbed over mountains and ravines, brought dawn to those still awake, and sent sunset to those who would soon sleep... But when the rhythm of light and darkness slowed down, day and night were no longer familiar, and the seemingly eternal heat and coldness were like the quagmire of hell, slowly burying all lives entrapped within. This was why the Salsottian people, barely surviving at the time, boarded the floating mobile city and began their chase with dawn and dusk.<br><br>Climbing atop the observation deck of the mobile city of Tumbleweed and looking in the direction that they were moving, daylight lies ahead and dark night behind.<br><br>The pursuit of \"Tumbleweed\" is not only for survival but also for a dignified life. When it moved faster than the terminator line, then the early morning light would march into the afternoon; when slower than the terminator line, then the dusk light would fade into the late night. In this way, the naturally optimistic Salsottian managed to restore every day to its original state. The romance in their bloodline blessed them with the easygoing spirit to sing leisurely in peaceful afternoons and sleep soundly on starry nights.<br><br>However, this voyage of tenacity and perseverance would, at last, come to its final downfall, and the ruins of the once mobile city were eventually left far behind by the ever-shifting terminator line.<br><br>Years later, the two moving cities that had never met each other would finally stand against each other, with their respective turrets among the wreckage still aimed in opposition. One of the two cities must have crossed half of the planet to the other one and started the initial incursion. Traces of brutal warfare between the two cities were still occasionally discernible under the sand dunes, which merged with unnameable hatred and morphed together into the same ruins.<br><br>Planet Salsotto kept its silence. And ever since a certain unknown time, the duration of each of its rotation cycles had somehow gradually decreased, ushering in its own self-healing in an unpopulated future."
+                },
+                "Icon": "IconRelic_306_6.png"
+            }
+        ]
+    },
+    {
+        "_id": 305,
+        "Name": {
+            "CH": "星体差分机",
+            "EN": "Celestial Differentiator"
+        },
+        "Icon": "71016.png",
+        "Skills": [
+            {
+                "CH": "使装备者的暴击伤害提高 <b>16.0%</b> 。当装备者的暴击伤害大于等于 <b>120.0%</b> 时，进入战斗后装备者的暴击率提高 <b>60.0%</b> ，持续到施放首次攻击后结束。",
+                "EN": "Increases the wearer's CRIT DMG by <b>16.0%</b>. When the wearer's current CRIT DMG reaches <b>120.0%</b> or higher, after entering battle, the wearer's CRIT Rate increases by <b>60.0%</b> until the end of their first attack."
+            }
+        ],
+        "Items": [
+            {
+                "Name": {
+                    "CH": "螺丝星的机械烈阳",
+                    "EN": "Planet Screwllum's Mechanical Sun"
+                },
+                "Desc": {
+                    "CH": "位面封装的是螺丝星的核心——行星被囚于由无数杠杆、活塞与齿轮构成的囚笼中，螺丝星的住民美其名曰「钢铁太阳」。",
+                    "EN": "The plane encapsulates the core of Planet Screwllum, imprisoned in a cage composed of countless levers, pistons, and gears. The inhabitants of Planet Screwllum euphemistically refer to it as the \"Steel Sun.\""
+                },
+                "Story": {
+                    "CH": "关于机械生命的本源，博识学会的碳基学者们有个意趣的推测：一簇偶然诞生的电子流。<br><br>电流于大气和岩层中四处流窜，在无数次引力与斥力作用下又分化成大小不一的次级形态——在学者们的自圆其说中，此举无异于碳基生命演化中的「复制」；随后，无数电流又经由行星表面天然形成的晶体管结构随机输出高低不一的电位，缔造了最原始的程序——学者们自鸣得意，正论机械便是如此拥有媲美碳基生命的「思想」。<br><br>某位机械学者对此提出异议：尚无法解明本身生命起源的碳基生命，何来权利对这谬论言之凿凿？一言既出，寰宇学界便剧烈震荡——机械生命开始重新审视蛮横的「碳基中心主义」、审视自身的本源。<br><br>然而，螺丝星上的螺丝族却只能暂缓步伐——因星体能源比它们的灵感回路枯竭得更快。它们必须首先寻求种群存续的方式。<br><br>最终，它们决定践行超越数个琥珀纪的疯狂计划：它们将那濒临死寂的星球当作燃料，用以驱动星体差分机。令人惊叹的齿轮巨构不知疲倦地吞吐刻有空隙的纸带，有条不紊地反复演算。在行星级的能源供给下，庞然机械将模拟出逼真且稳定的超生态系统——它们将围绕母星打造新的家园。<br><br>行星危机解除，螺丝族暂得歇息。向来理智、乐观、优雅的它们决心以纯粹理性的方式探索起源的答案。<br><br>庞大的系统中充斥着轴承摩擦的声响，致密的咬合驱动着打孔纸带流动数据。一个分支流淌出复数的分支，无数的分支又指引着数以万亿的齿轮轰响…随后，这些分支再一次次收束、倾倒，坠入熔炉之中，在泡沫的寂灭里归于沉静。在漫长的时间中，程序设定的超生态系统渐趋于一种绝妙的相对稳定——有关机械根源的猜想开始令螺丝族浮想联翩。<br><br>驱动废星的钢铁架构再次激活了灵动的思想电流。它们将继续思考、探索自身本源何在，直到那举目恒见的机械烈阳彻底燃尽为止。",
+                    "EN": "Regarding the origin of mechanical life, the carbon-based scholars of the Intelligentsia Guild have a unique speculation: A cluster of electrons born by chance.<br><br>Electric currents flow throughout the atmosphere and ground. It separated into secondary forms of different magnitudes under the countless acts of gravity and repulsive forces. According to the scholars' hypothesis, this action is tantamount to cell division in carbon-based life. Thereafter, currents randomly output different potentials via the transistor structure naturally formed on the planetary surface, creating the most primitive program. The proud scholars argued that in this way, machines have \"thoughts\" that are comparable to carbon-based life.<br><br>A mechanic objected to this: How can carbon-based life, which has not even been able to understand the origin of their own beings, have the gall to spout such fallacies? As soon as the words came out, the academic world of the universe was shaken to the core. Mechanical life began to re-examine the arrogant \"carbon-based centrism\" and examine its own origin.<br><br>However, the Screwllumites on the Planet Screwllum had no choice but to pause their march — their planet's energy was being exhausted faster than their inspiration circuits. They needed to first find a way for their population to survive.<br><br>In the end, they decided to carry out an extreme plan that transcended several Amber Eras: They used the dying planet as fuel to power the Celestial Differentiator. The awe-inspiring, gigantic gear tirelessly processed the punched tape, methodically repeating calculations. With its planetary energy supply, the huge machine simulated a bona fide and stable superecosystem. They would then build their new home around this parent star.<br><br>With their planetary crisis lifted, the Screwllumites could rest. Always rational, optimistic, and elegant, they are determined to explore the answer to their origins in a purely rational manner.<br><br>The massive system is filled with the sound of bearings grinding against each other, and the dense teeth of cogs drive the punched tape to churn out data. One branch flows into multiple branches, and countless branches guide trillions of gears to roar... Then, these branches collapse again and again, falling into the furnace and returning to silence in the bubbling core. Over a long period of time, the programmed super-ecosystem gradually became a wonderful and relatively stable one. Eventually, speculations about the origins of machines began to cause Screwllumites' imaginations to wander.<br><br>The steel construct that drives the dying star once again activated their intelligent thought circuits. They will continue to ponder and explore their origins until the ever-present mechanical sun completely burns out."
+                },
+                "Icon": "IconRelic_305_5.png"
+            },
+            {
+                "Name": {
+                    "CH": "螺丝星的环星孔带",
+                    "EN": "Planet Screwllum's Ring System"
+                },
+                "Desc": {
+                    "CH": "行星环承载着螺丝星的一切——有多少人曾意识到密布的矩形孔隙阵列书写了行星系统的真相？",
+                    "EN": "The planetary ring supports all of Planet Screwllum. Just how many are aware that the dense porous rectangular array reflects the truth about the planetary system?"
+                },
+                "Story": {
+                    "CH": "绝大多数螺丝族都有所不知——螺丝星正是无机生命解答本源问题的一次伟大尝试。<br><br>螺丝咕姆感到有些空虚。解明螺丝星的运作逻辑一事甚至没能在它的智能脉冲波形图上引发哪怕一组异常震荡。<br><br>他站在自家宅邸的宽阔露台上，仰头遥望着那未曾止熄的行星引擎。方孔密布的行星环从星体背后穿出，这颗星球所承载的一切就坐落在条带之上，以引擎为轴静静公转，日复一日。他已见证过了，这个行星系统的本质实在荒诞到令人绝望：一串优雅的状态转移方程，一只巨大且冰冷的滚筒——这就是螺丝星的全部，别无其他。<br><br>根据他对方程的解读——行星差分机诞生之初，它的领衔缔造者试图将宇宙本源解释为一种元胞自动机及其递归，而螺丝星本身即为一种生命游戏的实践。<br><br>螺丝族及其他星球表面的无机生命担任该自动机中的「细胞」，同时也是规模更小的细胞自动机。自动机总由许多更小的自动机构成，一直可以追溯到组成宇宙间一切物质的最小组分。可最小组分是什么？没人知道，螺丝咕姆不知道，那位首先提出打造差分机的学者恐怕也不知道。<br><br>这就是螺丝咕姆感到空虚的原因。<br><br>那位学者的尝试难道就此失败了吗？可行星差分机已不知疲倦地运作了数个琥珀纪；这岂不是意味着螺丝族与母星、乃至全宇宙的本源都可归于那串优雅的方程？又不尽然——在这超生态系统彻底崩溃之前，那方程是不可证伪的。<br><br>他摇晃着盛满机油饮品的精美玻璃杯，视线不曾从那记录着行星真相的星环上移开。巨幕般的打孔环星带不知疲倦，矩形孔隙阵列筛下后夜的月光。螺丝咕姆不住地沉思。他想，递归的出口真的存在吗？无机生命——或更进一步地，宇宙的本源究竟是什么？<br><br>他真的甘于只做前人思想的见证者吗？<br><br>「不。」螺丝咕姆得出结论。他决定求取答案。",
+                    "EN": "The vast majority of Screwllumites were unaware that Planet Screwllum was a great attempt by inorganic life to investigate their origin.<br><br>Screwllum felt a little empty. The event of understanding the operation logic of Planet Screwllum did not even cause any exceptional fluctuations in his Intelligent Pulse Waveform.<br><br>He stood on the wide terrace of his mansion, looking up at the unstoppable planetary engine. The ring system with dense square holes pierced up from the back of the planet. Everything the planet supports was situated on the strip, revolving quietly with the engine as its axis, day after day. He had seen the despairingly absurd nature of this planetary system: An elegant string of state transient equations, a giant, icy cylinder — that's all Planet Screwllum is, nothing more.<br><br>According to his interpretation of the equations, at the birth of the Celestial Differentiator, its lead creator tried to explain the origin of the universe as a cellular automaton and its recursion, and Planet Screwllum itself was a result of the game of life.<br><br>Screwllumites and other inorganic life on the planet acted as the \"cells\" in this automaton, while also being smaller-scale cellular automatons. Automatons were always made up of many smaller automatons, going back to the smallest components that form the building blocks of the universe. What was the smallest component? No one knows. Neither Screwllum nor the scholar who first proposed building the Celestial Differentiator do.<br><br>That was why Screwllum felt empty.<br><br>Did that scholar's attempt fail? But the Celestial Differentiator had worked tirelessly for many Amber Eras. Did that not mean that the origin of the Screwllumites, their parent star, and even the entire universe can be attributed to that elegant string of equations? Not really. Until the super-ecosystem collapsed entirely, the equations remained unfalsifiable.<br><br>He swirled the fine glass of machine oil, never taking his eyes off the ring that recorded the truth of the planet. The giant screen-like perforated belt was tireless, and the rectangular array filtered the late-night moonlight. Screwllum couldn't stop thinking. <i>Do ends to recursions really exist?</i> He thought. <i>What is the nature of inorganic life — or yet, what is the origin of the universe?</i><br><br><i>Am I really willing to be only a witness to the ideas of my predecessors?</i><br><br>\"No,\" Screwllum concluded. He decided to seek answers."
+                },
+                "Icon": "IconRelic_305_6.png"
+            }
+        ]
+    },
+    {
+        "_id": 304,
+        "Name": {
+            "CH": "筑城者的贝洛伯格",
+            "EN": "Belobog of the Architects"
+        },
+        "Icon": "71015.png",
+        "Skills": [
+            {
+                "CH": "使装备者的防御力提高 <b>15.0%</b> 。当装备者的效果命中大于等于 <b>50.0%</b> 时，防御力额外提高 <b>15.0%</b> 。",
+                "EN": "Increases the wearer's DEF by <b>15.0%</b>. When the wearer's Effect Hit Rate is <b>50.0%</b> or higher, the wearer gains an extra <b>15.0%</b> DEF."
+            }
+        ],
+        "Items": [
+            {
+                "Name": {
+                    "CH": "贝洛伯格的存护堡垒",
+                    "EN": "Belobog's Fortress of Preservation"
+                },
+                "Desc": {
+                    "CH": "位面封装的是贝洛伯格行政区最常见的风景：永冬铭碑。人们从这里路过，感受到来自遥远而温暖的目光守护着他们。",
+                    "EN": "The Everwinter Monument, the most obvious landmark in Belobog's Administrative District, is enclosed within the plane. Those passing this monument can all feel a distant and warm gaze protecting them."
+                },
+                "Story": {
+                    "CH": "几千年前，彼时的雅利洛-Ⅵ拥有四季如春的气候与令人嫉妒的海洋环境。<br><br>林中缀满硕果，潮汐送来湿润暖意，美酒如甘泉般可随手掬取、人人痛饮。当地的居民极富进取心与活力，修建了道路、城市、海边的别墅以及精美的宫殿。富足滋润的生活似乎总是从晨曦的一杯咖啡开始，到暮色的一杯麦芽酿结束。<br><br>随后星轨连通了雅利洛-Ⅵ的世界，为这里带来了星间贸易和天外科技。<br><br>一开始，异界的访客们为追寻地髓矿石而来，这些晶莹剔透的矿物蕴藏着驱动工业的血液，琥珀色的反射倒映出存护的光彩；再后来，异界的访客们为长住久安的生活而来，它的海湾、棕榈树、节奏轻快的乐曲，适合任何疲惫的旅客寻求归宿——人们相信假以时日，这颗气候湿润的星球必将如同其他耀目明星一般在银河闪烁。<br><br>约摸一千年前，一枚星核划过天际，坠落在这个世界上。<br><br>随即，整个星球的命运急转直下，如同荒诞的闹剧。暴戾的毁灭军团从天而降，滔天的战火此起彼伏。筑城者们构筑起城墙与战线，百米巨像峨然耸立与龙形巨兽角力——紧接着，毫无征兆的寒潮突然出现，凛冽的风暴不分敌我，吞没了一切，整颗星球万籁俱寂…看不见的巨大空间屏障遮覆了堡垒城市，就像寒夜里怀中护住的烛火，文明因此延续。<br><br>再后来，这座城市被称为贝洛伯格。",
+                    "EN": "Thousands of years ago, Jarilo-VI's climate was balmy year-round, and ocean vistas that were the envy of all.<br><br>Sweet fruits dangled upon boughs in the forests and humid warmth was brought by the tides, while ambrosial wine overflowed like springwater for all to partake in. The locals were full of vigor and ambition, constructing roads, cities, seaside villas, and palaces of grandeur. Their rich and satisfactory life always started with a cup of hot coffee in the morning, and ended with a jug of malt brew at dusk.<br><br>Soon, the star rail connected with Jarilo-VI's world, bringing in interstellar trade and extra-celestial technology.<br><br>In the beginning, otherworldly visitors came in pursuit of Geomarrow. This crystal clear mineral contained energy that served as the lifeblood of industrialization, and their amber-colored reflections sparked with Preservation's light. Later, visitors came here to settle and live a peaceful life. Jarilo-VI's picturesque bays, palm trees, and joyous melodies made it a perfect destination for any tired traveler. People believed that, given time, this humid planet would shine as bright as any other planet of renown throughout the cosmos.<br><br>About a thousand years ago, a Stellaron fell through the atmosphere and landed on this world.<br><br>Immediately thereafter, the planet was plunged into chaos, like something out of an utterly absurd farce. Destruction's catastrophic Legion descended from the sky, and the flames of war surged across the lands. The Architects built defensive walls and fortifications, and hundred-meter constructs contended with draconian monstrosities... Then, an unending cold front suddenly appeared, and a chilling blizzard swallowed friend and foe alike. The whole planet was shrouded in utter silence, with an invisible spatial barrier covered a single fortress city, like the flame of a candle being protected in a person's embrace during a cold night. That was how civilization survived.<br><br>Later, this city was to be named Belobog."
+                },
+                "Icon": "IconRelic_304_5.png"
+            },
+            {
+                "Name": {
+                    "CH": "贝洛伯格的铁卫防线",
+                    "EN": "Belobog's Iron Defense"
+                },
+                "Desc": {
+                    "CH": "贝洛伯格的银鬃铁卫矗立在风雪之中，他们排成一线，等待着前来进犯的天外入侵者。铁卫的意志坚不可摧，铁卫的阵线也绝不后退。",
+                    "EN": "The Silvermane Guards of Belobog stood firmly in the icy winter storm, forming a line as they wait for the incoming assault from invaders beyond the sky. The will of the Silvermane Guards was indestructible, and their line of defense would never falter."
+                },
+                "Story": {
+                    "CH": "灾难来临前，筑城者曾对雅利洛-Ⅵ有过美好畅想。<br><br>筑城者效仿克里珀伟力，铸造出能够改造行星的机械。数百座「造物引擎」吐息烈焰，轰然行于大地，犹如不倦的巨人园丁修葺荒芜的花田。短短几十年，沟壑与丘陵被整为平原与森林，城市星罗棋布耸立于海岸之畔。<br><br>「毁灭」的预兆降临后，筑城者将机械悉数投入战场，构筑起最初的「铁卫防线」。<br><br>毁灭的兵卒们如同蹈火的飞萤，紧随星核而至，在地表划下生灵涂炭的轨迹。曾用于「造物」的机械也不得不沦为凶器，在不属于它们的战场上抡动铁拳；最终，耕耘花园的巨人力尽倒下，仿佛一座座文明的墓碑，标记了阵线逐日溃退的历程。<br><br>退无可退的那一日，铁卫们握紧武器，身后是仅存的家园。<br><br>寒潮的到来出乎所有的人的意料。天外的怪物与前线的士兵锋刃交错的瞬间，雪线漫涌天际。一片混沌中，贝洛伯格成了世间唯一的灯火。为了扑灭它，为了守护它，双方陷入了漫无止境的厮杀。铁卫们咆哮着阿丽萨 · 兰德的名字，返身进入风雪深处，再也没有回来。<br><br>直到暴雪止歇，贝洛伯格的居民战战兢兢地攀上城头远眺。<br><br>他们见证了最后的「铁卫防线」。",
+                    "EN": "The Architects had great hopes for Jarilo-VI before the calamity.<br><br>Mimicking Qlipoth's power, the Architects created machinery that could terraform planets. Hundreds of fire-breathing Engines of Creation roared across the land, like giant gardeners cultivating abandoned flower beds. Mere decades later, valleys and hills were remade into plains and forests, and cities were thickly dotted along the coast.<br><br>After the arrival of Destruction's omen, the Architects sent all their machines into war, making them the first guards of the \"Iron Defense.\"<br><br>Following the arrival of the Stellaron, soldiers of destruction landed like moths to flame, leaving tracks of desolation on the planet's surface. The machines once used for creation were now forced to become weapons of war, throwing their iron fists on battlefields where they didn't belong. Eventually, the giant gardeners fell to the ground in exhaustion like tombstones of a civilization, marking the gradual collapse of the defense line.<br><br>On the day when there was no more room for retreat, Silvermane Guards held tightly onto their weapons, for their homeland was mere steps behind.<br><br>The arrival of the Eternal Freeze came as a surprise to everyone. The monsters from beyond the sky and the soldiers on the front lines were trading lethal blows when snow and ice filled up the whole battlefield. In utter chaos, Belobog became the only light in the whole world. The two sides fell into endless slaughter to either sniff out or protect this light. Roaring the name of Alisa Rand, the Guards re-entered into the snow storms and never returned.<br><br>The residents of Belobog only dared to climb up the city walls to look out when the blizzard halted.<br><br>And they beheld the final guards of the \"Iron Defense.\""
+                },
+                "Icon": "IconRelic_304_6.png"
+            }
+        ]
+    },
+    {
+        "_id": 303,
+        "Name": {
+            "CH": "泛银河商业公司",
+            "EN": "Pan-Cosmic Commercial Enterprise"
+        },
+        "Icon": "71014.png",
+        "Skills": [
+            {
+                "CH": "使装备者的效果命中提高 <b>10.0%</b> 。同时提高装备者等同于当前效果命中 <b>25.0%</b> 的攻击力，最多提高 <b>25.0%</b> 。",
+                "EN": "Increases the wearer's Effect Hit Rate by <b>10.0%</b>. Meanwhile, the wearer's ATK increases by an amount that is equal to <b>25.0%</b> of the current Effect Hit Rate, up to a maximum of <b>25.0%</b>."
+            }
+        ],
+        "Items": [
+            {
+                "Name": {
+                    "CH": "公司的巨构总部",
+                    "EN": "The IPC's Mega HQ"
+                },
+                "Desc": {
+                    "CH": "位于庇尔波因特的公司总部被封存在位面球中。在星际和平公司的商业宏图之中，没有一颗星球可以置身事外，他们前往深空，是为了将全宇宙的力量集合起来。",
+                    "EN": "The IPC's headquarters at Pier Point is sealed within a Planar Sphere. No planet can hide from the grand business plan of the Interastral Peace Corporation. They ventured into deep space to harvest the power of the entire universe."
+                },
+                "Story": {
+                    "CH": "亚空间的敲击撼天震地，沉默的巨像孤独地铸造着横垣星河的壁障。自称领受神谕之人开始行动，他们要协助星神克里珀筑墙。<br><br>宇宙危在旦夕，筑墙更是刻不容缓。渺小的人类无意效仿神明壮举，他们聚集成群，自命为星神的「后援队」，愿意将一切奉献给琥珀王——「后援队」借助存护之力，驾驶舰队去往不同的星系，采购石块、木料、黄金、超钛等建筑材料，片刻不停将建材运向亚空障壁，堆满行星荒原。<br><br>短暂的黎明发展期结束之后，「后援队」在庇尔波因特站稳脚跟，成立了「星际和平公司」。为贯彻奉献的愿景，他们将目光投向深空。<br><br>路易斯 · 弗莱明振臂一呼，远航贸易船队驶离星神克里珀身旁的星系，大宗贸易商品不再局限于建筑材料…他们计划连结银河、采办一切。随后，东方启行为跨越星河的商业世界执规行矩，构筑「信用点」体系，给寰宇中的一切商品制定价格。数以兆计的资产汇聚在庇尔波因特的巨构建筑之下，它像是沉默的黑洞，侵吞着人们关于财富尽头的想象。<br><br>如今，星际和平公司的舰船遍布星河，仍未停止过扩张。「商业独裁」的言论甚嚣尘上，公司毫不在意，他们自知初心从一至终。<br><br>公司新人入职培训方式日新月异，近八百个琥珀纪后，唯有一项历史观摩活动从未改变——彼时，公司创始人路易斯 · 弗莱明站在「后援队」前激情演讲，他提出联合宇宙的宏愿，支援星神保护宇宙的理想。演讲话音刚落，遥远而巨大的敲击声落下，为这庄严肃穆的一刻注入了崇高的使命，那时他们便知道，这就是百折不移的信仰。<br><br>「一切献给琥珀王。」",
+                    "EN": "The impact within the subspace shook the universe as the silent and lonely colossus committed to building the great barrier across the cosmos. Those who claimed to have received the oracle of the god began to act, wishing to help the Aeon Qlipoth to build the wall.<br><br>The universe is in imminent peril, and the building of the wall cannot wait. The puny humans had no intention of imitating the feats of the god, instead gathering into a self-proclaimed \"support team\" for the Aeon, willing to devote everything to the Amber Lord. With the power of Preservation, the support team piloted their fleet to different stellar systems to purchase building materials such as stone, wood, gold, and supernium, then tirelessly transported these to the subspace barrier, piling the items on the planetary wasteland.<br><br>After the end of the short development period, the support team took a firm foothold in Pier Point and established the Interastral Peace Corporation. In order to fully carry out their devotion, they turned their sights to deep space.<br><br>Louis Fleming raised a call for action, and the long-distance trade fleet left the star systems adjacent to Aeon Qlipoth. Their commodities were no longer limited to building materials... They plan to connect the whole Cosmos and trade everything. Soon after, Dongfang Qixing implemented Cosmos-wide trade regulations and built a \"credit\" system to set a price for everything across the universe. Trillions of assets gathered under their megastructure on Pier Point. Like a silent black hole, the building destroyed people's notions about the limits of wealth.<br><br>Today, the ships of the Interastral Peace Corporation are all over the cosmos. Despite being criticized as a corporate dictatorship, the IPC has not stopped expanding. They don't care what other people think and have never forgotten their founding mission.<br><br>The IPC's recruit training methods change with each passing day, but after nearly eight hundred Amber Eras, there is only one historical practice that never changed. Once upon a time, Louis Fleming, the founder of the IPC, stood in front of the support team and made a passionate speech. He put forward the aspiration of uniting the universe and supporting the Aeon's wishes to protect the universe. As soon as the speech ended, the distant and huge sound of a cosmic impact sounded, injecting a lofty calling into this solemn and sublime moment. From that moment on, they knew this would become their unswerving belief.<br><br>\"All in the name of the Amber Lord.\""
+                },
+                "Icon": "IconRelic_303_5.png"
+            },
+            {
+                "Name": {
+                    "CH": "公司的贸易航道",
+                    "EN": "The IPC's Trade Route"
+                },
+                "Desc": {
+                    "CH": "借助「信用点体系」的便利，跨越星际的商贸得以成立。星际和平公司用经济活动连缀繁星，拓展了贸易边界。",
+                    "EN": "With the convenient help of the credit system, interstellar commerce was established. The Interastral Peace Corporation connected the stars with economic activity and expanded the borders of trade."
+                },
+                "Story": {
+                    "CH": "「后援队」围绕着星神克里珀身边的星系往来匆匆，旧日舰船轨迹形成了最初的航道。<br><br>深信着星神所为必有意义的「后援队」，向邻近的星系跨出物物交换的第一步。「后援队」备好运力充足的舰队，稀缺珍贵的物资，以及难以拒绝的条件，无数跨越星系的贸易就此产生。随即，「后援队」掌管航道信息，独占议价权利，率先制定了银河商业铁则。<br><br>满载着木材、石头、钢筋、超钛的舰队行过星神克里珀身边，如同飞虫盘旋。琥珀王不言不语，未曾投下注视。<br><br>时移世易，邻近星系的贸易已经不再满足繁忙的「后援队」。两位聪明人决心纵深银河，星际和平公司就此成立。公司提供一切其他星球感兴趣的商品，并用「信用点」标上了公平价格。从此以后，银河的贸易航道建立起来，加入公司商业网络的各星球都能共享同样的货币，购买同样的商品，享用同样的服务。<br><br>「信用点体系」下的商船在星海间流动，贸易航道交叠重合，交织成泛银河网络。满载着远星异宝的舰船无数次行过星神克里珀身边，仍如萤虫环绕，星神沉默如旧。<br><br>自「后援队」时代累积的建材，已经堆满星神克里珀身边的每颗星球，数目只增不减。星神克里珀无意采用殷勤的馈赠，祂始终关注着凡人不可预见的危机，不得不以光年为单位铸造障壁。昔日采办采办物资的小组织，早已成为银河中伸手云覆手雨的庞大势力，他们凝望着无首巨像，从未觉得这一切都是徒然无功。<br><br>「一切资本的翻滚及增长，都是为了在克里珀有需要之时，能够满足星神的愿望。」",
+                    "EN": "The support team hurried around the star system close to the Aeon Qlipoth, with the old ships' trajectories forming the first routes.<br><br>Believing in the meaningfulness of the Aeon's actions, the support team took the first step in exchanging goods for other goods with a neighboring star system. The support team prepared an adequate fleet, rare and precious goods, and offers that were hard to refuse, thus creating countless trades across star systems. Then, the support team controlled trade route and business information, held exclusive bargaining rights, and spearheaded the formulation of the cosmos's trade regulations.<br><br>Fleets full of wood, stone, rebar, and supernium passed by Aeon Qlipoth like a swarm of circling flies. The Amber Lord kept silent, never once casting their gaze upon the humans.<br><br>Eventually, times changed and trade with neighboring star systems was no longer sufficient for the bustling support team. The two wise ones were determined to delve deeper into the cosmos, and thus the Interastral Peace Corporation was born. The IPC offered anything a planet could ever want, at fair prices pegged to their \"credits.\" Since then, the cosmos's trade route was founded, and all planets that join the IPC's business network can share the same currency, buy the same goods, and enjoy the same services.<br><br>Merchant ships under the credit system travel between the stars, and the trade routes merge and separate to weave a pan-cosmic network. The ships full of treasures from distant stars passed the Aeon Qlipoth countless times like fireflies, and yet the Aeon remained as silent as before.<br><br>The building materials accumulated since the time of the support team piled up on every planet around the Aeon Qlipoth, and the amount will only increase. The Aeon Qlipoth has no intention of accepting these eager gifts, instead always solely focused on the crisis that will befall the unsuspecting mortals, having to cast the gargantuan barriers measured in light years. The small organization that used to purchase materials has long since become a tremendous influence in the cosmos. They gaze upon the headless colossus, never once feeling that their efforts were in vain.<br><br>\"All the toil and growth of our capital is for Qlipoth, and to execute the Aeon's will when the time comes.\""
+                },
+                "Icon": "IconRelic_303_6.png"
+            }
+        ]
+    },
+    {
+        "_id": 302,
+        "Name": {
+            "CH": "不老者的仙舟",
+            "EN": "Fleet of the Ageless"
+        },
+        "Icon": "71013.png",
+        "Skills": [
+            {
+                "CH": "使装备者的生命上限提高 <b>12.0%</b> 。当装备者的速度大于等于 <b>120.0</b> 时，我方全体攻击力提高 <b>8.0%</b> 。",
+                "EN": "Increases the wearer's Max HP by <b>12.0%</b>. When the wearer's SPD reaches <b>120.0</b> or higher, all allies' ATK increases by <b>8.0%</b>."
+            }
+        ],
+        "Items": [
+            {
+                "Name": {
+                    "CH": "罗浮仙舟的天外楼船",
+                    "EN": "The Xianzhou Luofu's Celestial Ark"
+                },
+                "Desc": {
+                    "CH": "泛于星海的罗浮仙舟被收拢于球中，玉界门上浮槎去来，若星月之出入。无数人曾来此寻求长生之秘，却又失望而归。",
+                    "EN": "The Xianzhou Luofu floating above the seas of stars was enclosed within the sphere. Skiffs went to and fro through the Jade Gate just like the celestial movements of stars and moons. Countless people had come here to seek the secrets of immortality, only to return in disappointment."
+                },
+                "Story": {
+                    "CH": "罗浮仙舟数千年前从古老国度出发，横渡深空，谒见神明，求取不死仙药。<br><br>生态巨舰缓缓驶入星空，如同坠入夜色中寂静的清月，长路漫漫而不知所向。在孤航旅程中，人们交替不断地沉睡、醒来、沉睡…追逐流星的鲸群在天顶陨落，亚空晶格结构体跨越光年延绵不绝。求药使们亲眼见证了超然伟力的存在，暗自欢喜，坚定了寻得长生不死的信心。<br><br>罗浮仙舟航行数千年渐行渐止，在现实与虚幻混淆不清的边界遭遇「丰饶」之主。药师在舰船上降下神迹，倏忽间「建木」生成。其荫如云，遮天蔽日，其根繁密，包覆仙舟——罗浮仙舟遂如活物般获得了生命。<br><br>贪求长生之人吞下「建木」果实，寻得梦寐以求的「无尽形寿」。自诩天人的仙舟民开始纵情享受无尽的生命，又以「建木」阐演仙道，造就种种非人奇迹。<br><br>然而物盛而衰，乐极则悲，日中而移，月盈而亏。直到三劫既出，民不聊生，仙舟民才认清「奇迹」的真面目，是无法承受的灾厄。<br><br>危难之时，英雄力挽帝弓，斫断建木。仙舟诸民重拾人本尊严，誓愿「复归凡身，清除寰宇不死劫」。随后的岁月里，仙舟开始巡猎星河，以清除长生孽物为己任。狐族重获自由与天空，持明封印污染与遗祸，三族缔结盟契，仙舟联盟于兹成立。<br><br>繁荣与灾厄在航行中交迭同行，英雄与传说也伴随着历史不断登场。如今罗浮仙舟在得来不易的平和中休养重建，自由的商贸与开放的态度让它重焕生机。<br><br>长生不老永久地塑造了罗浮仙舟，使它几经沉浮，沉淀出独特的、有关古典与现代的气质。寰宇商人途径此处，只消伫立片刻便能感受到时间留下了什么。",
+                    "EN": "Thousands of years ago, the Xianzhou Luofu set sail from an ancient nation, crossing deep space to seek an audience with a god in pursuit of the elixir of immortality.<br><br>The colossal ship enclosing entire biospheres lumbered into the starry sky like a lucid moon silently falling into the night, embarking on an endless and aimless journey. In this lonely voyage, people slumbered, woke up, and slumbered again in incessant alternation... Star-chasing whales fell from the dome of heaven, and crystalline entities made of subgrain lattice managed to span light years without a single crack. The Elixir Seekers witnessed the majesty of various supernatural powers. In covert delight, they further hardened their resolve to obtain immortality.<br><br>After voyaging for thousands of years, the Xianzhou Luofu gradually came to a halt, whereupon it encountered the master of Abundance in the limbo between the reality and the imaginary. Yaoshi bestowed a divine miracle upon the ship, and it immediately manifested as the Ambrosial Arbor. Its shade was as large as clouds, blocking out the sky and sun. Its roots were thick and dense, enveloping the entire Xianzhou ship — the Luofu seemed to be brought to life.<br><br>Those who coveted immortality swallowed the fruit of the Ambrosial Arbor, and finally obtained the Endless Lifespan they had dreamed so much about. The Xianzhou residents began to claim they were celestial beings worthy of endless lifespans in abundance, and they also learned to use the Ambrosial Arbor to create various inhuman marvels via the blessings of immortality.<br><br>Yet, just like the shifting of the sun and moon, what once prospered was fated to decline and what once brought elation must eventually induce agony. It was not until the arrival of the Three Sufferings, when people were tormented to near extinction, that the Xianzhou people finally came to understand the true nature of this so-called miracle, which was nothing but harrowing calamity.<br><br>In the midst of disaster, a hero rose with the Reignbow and split the Ambrosial Arbor in half. The Xianzhou people regained their dignity as humans, and vowed to return to mortality and purge all deathless doom in this universe. In the ensuing years, Xianzhou went on a hunt across the stellar seas, taking it upon themselves to purge all deathless abominations. The Foxians regained their freedom and took back control of the sky, while the Vidyadhara sealed off the contamination and any residual catastrophes. The three races were then brought together in a covenant and coalition. Thus was born the Xianzhou Alliance.<br><br>Prosperity and calamity came and went in cycles during the voyage. Heroes and legends rose to fame and glory one after another as history marched on. Now, the Xianzhou Luofu is healing and reconstructing in a period of hard-won peace. Free trade and open minds truly brought it back to life.<br><br>Immortality had permanently molded the Xianzhou Luofu. With its ups and downs through history, the Xianzhou Luofu accumulated its own unique aura that combined both antiquity and modernity. It would only take any traveling merchant mere seconds to feel the marks left by the passage of time on this ark."
+                },
+                "Icon": "IconRelic_302_5.png"
+            },
+            {
+                "Name": {
+                    "CH": "罗浮仙舟的建木枝蔓",
+                    "EN": "The Xianzhou Luofu's Ambrosial Arbor Vines"
+                },
+                "Desc": {
+                    "CH": "曾经罗浮仙舟因建木生发，成为仙舟舰队之尊；后来罗浮仙舟因建木成祸，自食长寿恶果…建木枝蔓已经牢牢缠住罗浮命运，难以分离。",
+                    "EN": "Once, the Luofu reigned supreme over other ships in the Xianzhou fleet due to the grace of the Ambrosial Arbor. Later, when people consumed the cursed fruit of immortality, calamity was brought upon the Luofu by the Ambrosial Arbor, whose vines had already entrapped the Luofu in its firm and inseparable grip."
+                },
+                "Story": {
+                    "CH": "「丰饶」之主在罗浮仙舟中心埋下因果的种子，赐予求药使们名为「建木」的奇迹。而奇迹之所以被称为奇迹，是因为当它发生时，人们能立刻领会它的意义。<br><br>建木缔结神实，满溢生命活力，求药使们所追求的无尽形寿蕴藏其中。从此，古老的禁忌与律法化为一纸废话，衰老与死亡的伦理也成为尘封旧史。人们遵循「仙道」对建木数度开发，使得坌土息壤掘之不尽，自在应身血肉化形，鸡犬得智能言…无数难以想象的技术，也在建木垂枝下化为有形。<br><br>然而，建木却在时间催化下逐渐褪去面纱，初露狰狞，使长寿之人开始承受长寿之苦。<br><br>仙人们繁衍不尽，却未尝一死。舰船上人满为患、饿殍遍地；仙舟社会少者郁志难伸，老者盘桓高位，更是结构崩溃、大厦将倾…金人叛乱、外敌当头，千年混乱劫余之后，人们又发现了藏在长生血脉中的黑暗，所谓「天人之体」只是超越人智的技术，堕入「魔阴身」的倾向警示仙舟人，自身与孽物仅差一步之遥。<br><br>万般绝望之时，英雄长矢破空，天裂一射，斫断建木…尽管建木烬毁成桩，但仙舟命运从未与之断绝。<br><br>它招引着外患侵凌，丰饶孽物数度入侵，开凿血肉扭曲形骸，誓将仙舟民吞噬殆尽；它也诱惑着仙舟民，药王秘传破除禁忌，深入建木丰饶之秘，重铸长生强权帝国…在漫长的外忧内患中，建木遗骸如同暗处绵延不绝的藤蔓，潜伏起来，意图择日再起灾祸。<br><br>所幸，罗浮仙舟从未对「垂死枯木」放松警惕，他们誓将一切扭曲的源头，带往一切终结的尽头。",
+                    "EN": "The master of Abundance buried the seed of karma in the center of the Xianzhou Luofu and gifted the Elixir Seekers with something named \"Ambrosial Arbor,\" which was considered a miracle as people were able to immediately understand its implications.<br><br>The Ambrosial Arbor grew fruits of divinity that brimmed with life and vitality, containing the Endless Lifespan sought by the Elixir Seekers. From that moment, the ancient taboos and laws were rendered useless, and nature's dictum and ethics regarding aging and death became irrelevant history. People followed the way of immortality to exploit the Ambrosial Arbor with increasing intensity, making Fallow Earth that never exhausted itself, molding their own bodies to shapeshift, and giving the gift of thinking and talking to animals... Innumerable unimaginable technologies were brought into existence under the branches of the Ambrosial Arbor.<br><br>However, the Ambrosial Arbor took off its disguise as time went by, revealing its hideous visage as the agony of immortality crept upon the immortals.<br><br>The celestials ceaselessly reproduced, yet tasted no death. The ship groaned from overpopulation, as hunger and starvation tormented many. Xianzhou's young can never realize their life's ambitions while their elders clang to power, and society teetered at the edge of structural collapse... Rebellions of the aurumatons and external invasions marked a ruinous millennium, after which the darkness hidden in immortal bloodlines also showed its face. The so-called \"Body of Celestials\" was simply a technology that surpassed human intellect. The propensity to be stricken with mara was a warning to all Xianzhou natives, a reminder that they were a mere step away from becoming abominations themselves.<br><br>In desperation, a hero tore through the sky with a powerful shot from their bow, splitting the Ambrosial Arbor in half... Yet even if all there was left of the Ambrosial Arbor was a burnt stump, the fate of Xianzhou could never be separated from it.<br><br>It attracted external forces to invade Xianzhou. The Abominations of Abundance launched multitudes of assaults, where flesh was distorted and blood was spilled, for the sole purpose of devouring Xianzhou whole. The Arbor also tempted the Xianzhou residents. The Disciples of Sanctus Medicus broke the taboos and ventured deep into the secret of Abundance within the Ambrosial Arbor, hoping to reforge the once mighty immortal empire... In the long days of foreign and domestic troubles, the remaining corpus of the Ambrosial Arbor lurked like unending vines propagating in the shadows, waiting for an opportunity to wreak havoc again.<br><br>Fortunately, the Xianzhou Luofu never lowered its guard against the withered tree. The people had vowed to cast this source of all distortions into the end of all things."
+                },
+                "Icon": "IconRelic_302_6.png"
+            }
+        ]
+    },
+    {
+        "_id": 301,
+        "Name": {
+            "CH": "太空封印站",
+            "EN": "Space Sealing Station"
+        },
+        "Icon": "71012.png",
+        "Skills": [
+            {
+                "CH": "使装备者的攻击力提高 <b>12.0%</b> 。当装备者的速度大于等于 <b>120.0</b> 时，攻击力额外提高 <b>12.0%</b> 。",
+                "EN": "Increases the wearer's ATK by <b>12.0%</b>. When the wearer's SPD reaches <b>120.0</b> or higher, the wearer's ATK increases by an extra <b>12.0%</b>."
+            }
+        ],
+        "Items": [
+            {
+                "Name": {
+                    "CH": "「黑塔」的空间站点",
+                    "EN": "Herta's Space Station"
+                },
+                "Desc": {
+                    "CH": "位面封装的是「黑塔」空间站，它停靠在湛蓝星上空，沿着既定轨道缓缓漂流，寂静的银河像是本书卷等待翻阅。",
+                    "EN": "Sealed within this plane is the Herta Space Station. Parked above The Blue, it slowly drifts along its predetermined orbit, with the silent cosmos looking like a book waiting to be read."
+                },
+                "Story": {
+                    "CH": "黑塔女士曾一度为遍历星域的藏品发愁，数量巨大、封装不易，本人更是不愿打理。<br><br>热情慷慨的星际和平公司随即提出方案，封存智慧与秘密的空间站「黑塔」便由此诞生。站内上下围绕藏品制定详尽的收容措施，力求「于清晰合理之中包罗万象」。现象被特殊容器收纳，奇物被奇物条目规范——大千藏品被分门别类，封藏于站内深处以供研究。<br><br>随即公司提出共同探索繁星奥秘的倡议，求新探异的学者们纷纷进驻站点，开展学问。<br><br>科员们大多仰慕黑塔女士，誓愿践行星空理想，探寻寰宇间繁星低语的秘密。他们探秘星空生命的疆域，明辩义理争论的正义，概拓星河原野的风貌，破解宗仪典祀的玄秘，践行格物致知的精神…秉承「传历智识」之理念，从事着自由而广阔的研究。<br><br>但空间站进入航道后便自行其是，黑塔女士鲜少露面。公司此时才发现，站内满是科员的日常，而天才不见踪影。<br><br>不同舱段的光照很难让人感到时间流逝，只有在倦怠的生活气息中，可以窥探到一丝痕迹。常有为藏品争论不休的三两干员，随着时间推移扭打一起；也有负责安保人士缺席日常巡逻，躲在行军床上小憩；年长的科员们向后辈讲起过往恋爱经历，伪装成临时杂工的大人物等待着下次转机…研究之余这里亦是生活，望向舷外便知，繁星沿途同行。<br><br>虽行止有限，科员们仍会以浪漫的方式提起空间站内的庶务生活：星河是隽永的诗篇，「黑塔」空间站正徐徐地翻开书卷。",
+                    "EN": "Madam Herta was once very troubled by the huge collection of items spread across the cosmos. Countless in quantity, they were difficult to store, and she couldn't be bothered to manage them herself.<br><br>The generous and charitable Interastral Peace Corporation then proposed a solution and that was how the Herta Space Station, where wisdom and secrets are stored, was born. Comprehensive containment measures were made throughout the space station, all in the pursuit of organizing everything in the collection with order and clarity. Phenomena were stored in specialized containers while Curios were regulated in indices. Innumerable items were categorized and classified, then stored deep within the station for research.<br><br>The IPC then proposed a collaboration in exploring the secrets of the stars together, which brought curious and adventurous scholars into the station to conduct research.<br><br>Most of them admired Madam Herta, vowing to never abandon their ethereal aspirations and explore the secrets whispered among the stars. They investigated the star systems and realms of living beings, debated true justice in discourses on ethics and philosophies, outlined valleys and peaks within galaxies, deciphered secrets behind religious rituals and ceremonies, held on to the way of seeking truth from practice... They were the true believers of passing knowledge to posterity, and practiced unrestrained and divergent research.<br><br>However, once the space station moved into orbit, it started to operate on its own and Madam Herta rarely showed herself. It was then that the IPC realized the whole station was filled with the mundane daily activities of the researchers, yet the genius was nowhere to be seen.<br><br>Light from different zones rendered people unaware of the passage of time, the traces of which could only be detected in the burnt out lifestyle in the station. Often a smattering of researchers would argue non-stop about a particular piece of collection, even going so far as to start a fight. Occasionally a security officer would be absent from their daily patrol and nap instead on their military-styled bunker. Sometimes senior researchers would share with their younger peers tales of past romances, while some big shots would disguise themselves as temporary workers to bid their time for the next big turn of luck... Besides research, there was also life. They just had to look outside the hull — for the stars were journeying with them.<br><br>Despite all the limitations, the researchers still talked about the everyday life in the space station in their own romantic way — The cosmos was a profound epic poem, and Herta Space Station was slowly cracking open the poetry collection."
+                },
+                "Icon": "IconRelic_301_5.png"
+            },
+            {
+                "Name": {
+                    "CH": "「黑塔」的漫历轨迹",
+                    "EN": "Herta's Wandering Trek"
+                },
+                "Desc": {
+                    "CH": "「黑塔」空间站建立起那一刻，黑塔女士便失去了兴致。它在湛蓝星上空保持着第一宇宙速度，在卫星轨道上留下环绕的轨迹。",
+                    "EN": "Madam Herta lost all interest in the space station the moment it was complete. The station maintains a steady orbital velocity as it circles The Blue, leaving a track of its circular motion on the planet below."
+                },
+                "Story": {
+                    "CH": "「黑塔」空间站因为其真正主人黑塔女士，经历了无数危机，也渡过了无数危机。<br><br>满载着全宇宙中最奇异的藏品，就像是垂涎欲滴的肥猪置于饥饿食客的眼前，从来都不是安全的。仅凭公司招募的防卫科员、略显先进的防御系统，空间站还不足以承受来自星间的歹意…黑塔女士预先调遣，空间站留下一道优雅弧线，让谋划已久的太空阴谋来不及上演就已匆匆结束。<br><br>至于逢凶化吉的情报本事，则被本人轻描淡写地描述为「将别人看书的时间用在了泡咖啡上」。<br><br>比起意欲窃取藏品的盗贼、目的不明的各式派系，空间站最主要的威胁仍然来自其主人自身。她要是突发奇想，空间站便即刻遭殃。拟态恒星湮灭的奇物、暗星系碰撞的畸变引力场…黑塔女士趁着兴致，将各式藏品收集起来；实际到手后，她又常常失去兴致，再也不予问津。<br><br>因此，尽管「黑塔」在深空中不言不语，其珍藏的各形态危机却像柄重锋宝剑悬于头顶。<br><br>上级科员们对危险的现状早已熟稔于心，深知「秘密藏于危险之中」的道理。他们严格守护高度机密，切实按照标准执行收容，将危险隐没于平静之中…在空间站的茶水间里，他们是插科打诨的朋友；在空间站的收容舱深处，他们是技巧娴熟的专家，在这里，秘密将始终是秘密。<br><br>在湛蓝星的近地轨道上，空间站一如既往地运行着，正如在冰湖表面上推出一枚砾石，它将依旧平缓滑行，悄无声息。",
+                    "EN": "The space station endured and survived many a crisis due to being owned by Madam Herta.<br><br>Laden with the rarest items in the entire universe like a feast set before ravenous guests, the space station was never free from threats or unwanted attention. Relying on the security personnel hired by the IPC and a somewhat advanced defensive system proved insufficient to handle the hostility from the stars... Madam Herta once made prescient judgment and steered the station away in an elegant curve, ending a conspiratorial attempt to assault the station before it even initiated.<br><br>As for her mastery in gathering intel to solve crises, she simply described it as \"I spend time brewing coffee while others are reading books.\"<br><br>Rather than thieves who intend to steal its collection or mysterious factions with unknown objectives, the main threat faced by the space station remains its owner. The station could immediately fall into disaster if she ever had a wild idea. Curios that simulate a stellar collapse, a distorted gravitational field caused by the collision of dark galaxies... Madam Herta collected them all when she was in the mood, but would often lose interest once she got her hands on them.<br><br>Hence, though the space station appears to be floating peacefully in space, its treasure hoard of multi-shaped crises hung above it like a sword waiting to fall.<br><br>Senior researchers had long been aware of the dangers they faced, and understood that \"secrets lie deep within danger.\" They strictly adhere to confidentiality agreements and faithfully carry out regulated containment procedures, thus burying danger within an outward silence... In the cafeteria, they were friends who could joke around. Yet, deep in the bowels of the space station's storage zones, they were highly skilled experts. In this place, secrets would always remain secrets.<br><br>The space station is operating as usual in low orbit around The Blue. Just like a pebble pushed out onto the smooth surface of a frozen lake, the station will continue to glide evenly and steadily in complete silence."
+                },
+                "Icon": "IconRelic_301_6.png"
+            }
+        ]
+    },
+    {
+        "_id": 118,
+        "Name": {
+            "CH": "机心戏梦的钟表匠",
+            "EN": "Watchmaker, Master of Dream Machinations"
+        },
+        "Icon": "71029.png",
+        "Skills": [
+            {
+                "CH": "击破特攻提高 <b>16.0%</b> 。",
+                "EN": "Increases Break Effect by <b>16.0%</b>."
+            },
+            {
+                "CH": "当装备者对我方目标施放终结技时，我方全体击破特攻提高 <b>30.0%</b> ，持续 <b>2.0</b> 回合，该效果无法叠加。",
+                "EN": "When the wearer uses their Ultimate on an ally, all allies' Break Effect increases by <b>30.0%</b> for <b>2.0</b> turn(s). This effect cannot be stacked."
+            }
+        ],
+        "Items": [
+            {
+                "Name": {
+                    "CH": "钟表匠的极目透镜",
+                    "EN": "Watchmaker's Telescoping Lens"
+                },
+                "Desc": {
+                    "CH": "一枚金雕目镜，镜片映照远方的纷繁奇象，助它的主人望穿迷梦。",
+                    "EN": "An eyepiece with gold carvings. The lens reflects the wonders from far away to help its owner peer through the illusory dreams."
+                },
+                "Story": {
+                    "CH": "在匹诺康尼关于「钟表匠」的故事里，他总是别具慧眼，能轻易看穿梦幻泡影下的商机，创造出谁也未曾料想的伟大事业。<br><br>边陲监狱在万界之癌中争得自由，又在家族的光照下迎来和平与繁荣。据说钟表匠就是在此刻入局，他的目镜映出这片梦境的本质——人们在「薄暮的时刻」挥金如土，只为寻得「梦中的不可能之事」。从此，匹诺康尼的梦中出现了许多不可思议的事物：会讲笑话的茶壶、一边行驶一边旋转的跑车、每天都会变换位置的豪宅…它们大多毫无用处，却标卖着天文数字，而那些远道而来的人们，却愿意为之挥霍无度。<br><br>此乃虚幻梦境，何不放肆狂想？一句「独存梦中，独一无二」，便将梦境中的奢侈与价值重新定义。<br><br>苜蓿草家系与商界的老逐梦客们总为此事感到懊悔，埋怨自己为何没有早点看到这样的机会。而钟表匠只不过是看得比他们远了一点——每次都远了一点。",
+                    "EN": "In the stories about the Watchmaker in Penacony, he always possesses a unique insight that allows him to easily discern business opportunities beneath the dreamy bubbles, and create grandiose enterprises that none have thought of.<br><br>The frontier prison earned its freedom amidst the Cancer of All Worlds, and welcomed peace and prosperity under the radiance of The Family. It is said that was when the Watchmaker entered the fray. His eyepiece reflected the essence of this Dreamscape — People spend like wastrels in the Moment of Dusk only to \"seek the impossible in dreams.\" From then on, Penacony's dreams started to contain many incredulous objects: Teapots that can tell jokes, race cars that twirl as they drive, and mansions that switch their location every day... Most of them are utterly useless, however they are being sold at astronomical prices. And those who visit from afar are willing to toss mountains of cash for them.<br><br>This is a fantastical Dreamscape, so why not indulge in madness? The words \"Exclusive and only in the dream\" are enough to redefine the worth of luxuries in the Dreamscape.<br><br>The Alfalfa Family and old Dreamchasers from the commercial world often feel regret about this, lamenting that they did not spot these opportunities at earlier times. The Watchmaker simply saw a bit further than them — Just a bit further every time."
+                },
+                "Icon": "IconRelic_118_1.png"
+            },
+            {
+                "Name": {
+                    "CH": "钟表匠的交运腕表",
+                    "EN": "Watchmaker's Fortuitous Wristwatch"
+                },
+                "Desc": {
+                    "CH": "一块做工精美的手表，有着奇特的子盘与时针，据说是梦境中好运的象征。",
+                    "EN": "A wristwatch of fine craftsmanship. It contains a unique watch face and clock hands. It is said to be the symbol of good luck in the Dreamscape."
+                },
+                "Story": {
+                    "CH": "「钟表匠」被称作钟表匠的原因，是系列故事最大的谜团。<br><br>有人说他曾是钟楼的修补工匠，有人说他曾是贩售钟表的行商，甚至有人说他真的有一个表盘形状的脑袋——就像他创作的钟表小子一样。<br><br>随着流言四起，梦中的腕表也借着钟表匠的名声一炮而红。逐梦客们知晓它们与本尊毫无联系，却依然将之视作对他的敬意，幸运的象征。在一系列商业行为的推动下，钟表图案成了匹诺康尼最常见的事物——服装、首饰、食品…从街头小巷的涂鸦到酒店大堂的巨钟，这位传奇大亨的影子无处不在。<br><br>「在匹诺康尼，谁会不喜欢钟表呢？」<br><br>而真正的钟表匠似乎默许了这一切，从未对那款最初的腕表发表过任何意见。直到钟表图案在匹诺康尼变成理所当然，直到再没有人追问钟表匠的来由。",
+                    "EN": "Why the Watchmaker is called \"the Watchmaker\" is the biggest puzzle in this serialized story.<br><br>Some say he was once a craftsman at a clocktower. Some say he was once a merchant who sold timepieces. There are even those who say his head is shaped like a watch face — Just like Clockie, which he created.<br><br>As rumors abound, the wristwatches in the dream soared in popularity with the Watchmaker's fame. The Dreamchasers know these watches have nothing to do with the esteemed man, yet still regard the watches as a way to show their respect for him and a symbol of good fortune. Due to the promotion of many commercial activities, the clock symbol became the most ubiquitous thing in Penacony — Clothes, accessories, food... From graffiti in the alleys to the giant timepieces in the hotel lobbies, the influence of this legendary mogul can be seen anywhere.<br><br>\"Who wouldn't like clocks in Penacony?\"<br><br>The real Watchmaker seems to have assented to this and never expressed any opinions against that initial wristwatch design, till the clock symbol just became another fact of life in Penacony, till no one ever asked about the origin of the Watchmaker again."
+                },
+                "Icon": "IconRelic_118_2.png"
+            },
+            {
+                "Name": {
+                    "CH": "钟表匠的空幻礼服",
+                    "EN": "Watchmaker's Illusory Formal Suit"
+                },
+                "Desc": {
+                    "CH": "一身富丽堂皇的皮领礼服，华美典雅，通常用于宴会等正式场合。",
+                    "EN": "A splendid and luxurious formal suit with leather collars. It is magnificent and elegant, usually reserved for formal occasions such as feasts."
+                },
+                "Story": {
+                    "CH": "在匹诺康尼的诸多传闻中，「钟表匠」有着截然不同的身份与外表。<br><br>在虚构无端的故事里，他时而是和蔼的老者，时而是优雅的淑女，甚至有传言说他是一位身高百尺的巨人绅士…但无论在哪个故事里，他总有一身华丽的行头。<br><br>传言钟表匠会在晨昏交界的梦境中，将自己的秘密分享给舞伴。听闻此言，人们纷纷步入华服舞会，向每一位藏在金装玉裹的人群中的神秘宾客发出邀请——越来越多的逐梦客借此相识相知，舞会也渐渐变成友情与爱情的交际场。价格高昂的入场券总是开售即空，哪怕传闻中身着华服的主人从未现身，也不妨碍来宾们寻求邂逅的热情。<br><br>「瞧您的打扮，莫非就是大名鼎鼎的钟表匠？」这句话从最初的真诚询问，到后来的夸赞奉承，最终成了邀舞的托词。<br><br>钟表匠多了一份舞会的生意，而梦境中也多了一份浪漫与激情。",
+                    "EN": "In the various legends in Penacony, the Watchmaker has very diverse identities and appearances.<br><br>In these rootless fables, he is sometimes a kind old gentleman, an elegant lady, and even a giant gentleman hundreds of feet tall... however, no matter the version of the story, he is always magnificently dressed.<br><br>Legends say that the Watchmaker will share his secret with his dance partner at the Dreamscape where dusk and dawn intertwines. Hearing this, people eagerly join the dance floor and invite every single mysterious guest hidden in the lavishly-dressed crowd — More and more Dreamchasers meet each other in this way and the ball gradually becomes a place to socialize for friendships and love. The expensive tickets are always sold out upon release. Even if the master dressed to the nines from legends never appeared, it did not hinder the passion with which the guests sought an encounter with him.<br><br>\"Your outfit... could you be the famous Watchmaker?\" This question went from what was initially a genuine query to an expression of flattery, finally becoming a code phrase for an invitation to a dance.<br><br>The Watchmaker gained a new business of hosting balls, and the Dreamscape had an extra dash of romance and passion added to it."
+                },
+                "Icon": "IconRelic_118_3.png"
+            },
+            {
+                "Name": {
+                    "CH": "钟表匠的隐梦革履",
+                    "EN": "Watchmaker's Dream-Concealing Dress Shoes"
+                },
+                "Desc": {
+                    "CH": "一双款式优雅的皮靴，穿戴者曾以深秘的姿态踏梦潜行。",
+                    "EN": "A pair of elegant leather shoes. The wearer had once stealthily walked upon dreams in an arcane form."
+                },
+                "Story": {
+                    "CH": "「钟表匠」踏遍了每一刻梦境，也踏遍了匹诺康尼的历史。他的名字已然在梦想之地流传了数百年，而如今的逐梦客却依然能听见他的动向。<br><br>人们不禁开始怀疑，钟表匠究竟是一个人，还是一个团体，抑或是家族的一个谎言？<br><br>一些逐梦客誓要发掘出钟表匠的真相，前往各个梦境探寻神秘豪绅的踪迹，最后却只寻得掠影浮光——某次商业会谈的神秘来客、某个异军突起的无主品牌、某笔来路不明的巨额投资…每当他们试图推论钟表匠并不存在，却反而印证了钟表匠在梦中无处不在。<br><br>关于钟表匠的书籍塞满了「初醒图书馆」的书架，他的名字永远萦绕着匹诺康尼。<br><br>人们越是想要探究真相，就越是被谎言掩蔽…在千篇故事与万般传言中，这位盛会巨星只是留下足迹，不曾留下身影。",
+                    "EN": "The Watchmaker has trodden over every inch of the Dreamscape and also across the annals of Penacony's history. His name has been talked about for centuries in this land of dreams, and Dreamchasers of today can still hear of his whereabouts.<br><br>People start to suspect whether the Watchmaker is one person, a group, or a lie woven by The Family.<br><br>Some Dreamchasers swear to unveil the truth about the Watchmaker. They head to various Dreamscapes to seek traces of the mysterious mogul, only to gain nothing but mirages — A mysterious guest at a certain business negotiation, a masterless brand that soared into unexpected success, a huge investment with no traceable source... Every time they try to deduce that the Watchmaker does not exist, they are proving that the Watchmaker is everywhere in the dream.<br><br>Books about the Watchmaker fill the bookshelves in the Primal Waking Library. His name forever envelops Penacony.<br><br>The more people want to discover the truth, the more they will be blinded by lies... Amidst the thousands of legends and rumors, this superstar of the festivities will only leave his footprints, but never his face."
+                },
+                "Icon": "IconRelic_118_4.png"
+            }
+        ]
+    },
+    {
+        "_id": 117,
+        "Name": {
+            "CH": "死水深潜的先驱",
+            "EN": "Pioneer Diver of Dead Waters"
+        },
+        "Icon": "71028.png",
+        "Skills": [
+            {
+                "CH": "对受负面状态影响的敌人造成的伤害提高 <b>12.0%</b> 。",
+                "EN": "Increases DMG dealt to enemies with debuff by <b>12.0%</b>."
+            },
+            {
+                "CH": "暴击率提高 <b>4.0%</b> ，装备者对陷入不少于 <b>2.0</b> / <b>3.0</b> 个负面效果的敌方目标造成的暴击伤害提高 <b>8.0%</b> / <b>12.0%</b> 。装备者对敌方目标施加负面效果后，上述效果提高 <b>100%</b> ，持续 <b>1.0</b> 回合。",
+                "EN": "Increases CRIT Rate by <b>4.0%</b>. The wearer deals <b>8.0%</b>/<b>12.0%</b> increased CRIT DMG to enemies with at least <b>2.0</b>/<b>3.0</b> debuffs. After the wearer inflicts a debuff on enemy targets, the aforementioned effects increase by <b>100%</b>, lasting for <b>1.0</b> turn(s)."
+            }
+        ],
+        "Items": [
+            {
+                "Name": {
+                    "CH": "先驱的绝热围壳",
+                    "EN": "Pioneer's Heatproof Shell"
+                },
+                "Desc": {
+                    "CH": "俄尔刻龙常见款式的潜水重盔。透过小小的舷窗只能看到令人难以忍受的无边黑暗。",
+                    "EN": "A heavy diving helmet in a style common in Orkron. Through the small porthole, one can only see the unbearable and endless expanse of darkness."
+                },
+                "Story": {
+                    "CH": "俄尔刻龙的夜晚积云层层，烁烁行星环遮掩其中。紫红色的雪花落在厚重的头盔上，静静填补了锈铁的沟壑，将侵蚀的痕迹掩盖起来。她和她坐在雪松林间…旅途暂歇片刻。<br><br>「看！俄尔刻龙的空气是树莓味的。」紫红色的雪花落在松软如云朵的糖絮上，很快消失不见。来自推罗的小小无名客吃吃地笑着，马上又弯腰捧腹，她笑自己的用词——气味怎能用眼睛看到呢！欢声笑语之后，安静就像刀锋一般尖锐，空中好像霎时结了霜。<br><br>「扶里巴斯，你还是要往『IX』的深处去么？」发问的是那位旅伴，总提着一柄长刀。她是个好伙伴，但没人知道她从哪里来。<br><br>小小的无名客躲在笨重的潜水衣里，沉默半晌，她递给对方一枝微微焦黑的棉花糖，眼睛眯得像张满的帆：<br><br>「当然啦——因为我要走一条比阿基维利更深、更远的路！」",
+                    "EN": "Clouds accumulate over Orkron's night sky, and shimmering planetary rings are concealed within them. Scarlet snowflakes fall on the heavy helmet, quietly filling the grooves of rusted iron, covering the traces of erosion. The two girls sit in the cedarwood forest... taking a momentary break in their journey.<br><br>\"Look! The air in Orkron smells like raspberries.\" Scarlet snowflakes fall on the soft, cloud-like sugar threads and quickly disappear. The little Nameless from Toyro laughs and then bends over, holding her stomach. She laughs at her own choice of words — how can one see a scent with one's eyes? After a moment of shared laughter, the silence cuts like a sharpened blade, and the air seems to frost over in an instant.<br><br>\"Frebass, are you still going to the depths of IX?\" The question comes from her companion who is always carrying a long blade. She is a good companion, but no one knows where she comes from.<br><br>The little Nameless hides inside her bulky diving suit. A long pause later, she hands the companion a slightly burnt marshmallow, her eyes narrowed like the silhouette of a fully opened sail:<br><br>\"Of course — because I will walk on a road deeper and further than Akivili's!\""
+                },
+                "Icon": "IconRelic_117_1.png"
+            },
+            {
+                "Name": {
+                    "CH": "先驱的虚极罗盘",
+                    "EN": "Pioneer's Lacuna Compass"
+                },
+                "Desc": {
+                    "CH": "一块腕表式指南针，磁针已被拆去，不再能指示任何方向。",
+                    "EN": "A compass in the form of a wristwatch. The magnetic needle has been removed and can no longer point in any direction."
+                },
+                "Story": {
+                    "CH": "「海底的一股洋流，<br>「低语着啄她的骨头，就在一起一落的时光，<br>「她经历了苍老和青春的阶段，<br>「而进入旋涡。」<br><br>女孩听过这样一个故事。在故事里，人们所处的世界被描绘成参天大树，由无主的能量构成。「这种能量看不见摸不着，既不可理解，也没有意义，」她思考，「就像『IX』也没有意义。」<br><br>小小的无名客有些怅然，她为自己步入「虚无」深处后该如何辨识方向而发愁。但不久她就有了灵感——十四岁那年，妈妈留给她最后一件生日礼物，一块小小的罗盘。<br><br>「既然这样，只要让罗盘感应到的不是磁场，而是『能量』，不就可以解决问题了吗？」<br><br>小小无名客拆下了罗盘的磁针，可当女孩潜入黑暗的瞬间，她意识到罗盘唯一的方向只有下落。",
+                    "EN": "\"The undercurrent in the sea,<br>Whispering as it pecked at her bones, in one rise and fall of time,<br>She experienced the stages of old age and youth,<br>And entered the vortex.\"<br><br>The girl has heard a story like this. In the story, the world people inhabit is depicted as a towering tree, composed of ownerless energy. \"This kind of energy is invisible, intangible, incomprehensible, and meaningless,\" she thought, \"just like how IX has no meaning.\"<br><br>The little Nameless is somewhat melancholic, worrying about how she would orient herself after stepping into the depths of \"Nihility.\" But soon, she had an inspiration — on her fourteenth birthday, her mother left her with one last gift... a small compass.<br><br>\"If that's the case, as long as the compass senses not the magnetic field but 'energy,' wouldn't that solve the problem?\" <br><br>The little Nameless removed the magnetic needle from the compass, but when the girl descended into the darkness, she realized that the compass' only direction was down."
+                },
+                "Icon": "IconRelic_117_2.png"
+            },
+            {
+                "Name": {
+                    "CH": "先驱的密合铅衣",
+                    "EN": "Pioneer's Sealed Lead Apron"
+                },
+                "Desc": {
+                    "CH": "废铁打造的重型潜水服，密不透风，使用者也常常调侃它更像是一具深水棺材。",
+                    "EN": "A heavy diving suit crafted from scrap iron, airtight and impenetrable. Even its wearer often jests that it resembles more of a deep-sea coffin."
+                },
+                "Story": {
+                    "CH": "「扶里巴斯，那来自推罗的无名客，死了十四个日夜，<br>「她忘了海鸥的啼哭，深渊里的涛声，<br>「利益和损失。」<br><br>小小的无名客望向那比推罗大道还要宽阔的行星环，她决定将自己发射到黑洞里的奇点去。<br><br>「就连阿基维利都没能去到那里。」女孩总能听到涛声在她心底隐隐回荡：「我一定能比祂走得更深、更远。」她为此做足了准备——来历不明的锈铁皮、二手氧气瓶、废旧陀螺仪姿态控制装置、自循环生命支持系统和整流罩…她将材料全部锻在一起，确保整套装甲密不透风，她觉得这样可以保护自己远离「虚无」的伤害。<br><br>她拾起爸爸留下的潜水头盔，佩戴上一枚自制的「荣誉徽章」。临行前，她与旅伴再次前往雪松林间，最后再烤一次棉花糖。<br><br>后来，当扶里巴斯的飞行器抵近黑洞边缘时，这便是她所能回想起的、有关俄尔刻龙的全部回忆。",
+                    "EN": "\"Frebass, the Nameless from Toyro, died for fourteen days and nights.<br>She forgot the cries of seagulls, the roar of the abyss,<br>The gains, and the losses.\"<br><br>The little Nameless gazed at the planetary ring wider than the boulevards of Toyro. She decided to launch herself into the singularity in the black hole.<br><br>\"Even Akivili didn't manage to go there.\" The girl could always hear the distant sound of waves echoing in her heart. \"I will walk on a road deeper and further than Akivili's.\" She prepared herself thoroughly — unidentified rusty metal plates, used oxygen tanks, discarded gyroscopic posture control devices, a self-circulating life support system, and a rectifying hood... She soldered all the materials together, ensuring that the entire suit was airtight. She believed it would protect her from the harm of Nihility.<br><br>She picked up the diving helmet her father left behind and wore a self-made \"Medallion of Honor.\" Before leaving, she and her companion once again went to the cedarwood forest, toasting marshmallows one last time.<br><br>Later, when Frebass' spacecraft approached the edge of the black hole, this was all she could recall about Orkron."
+                },
+                "Icon": "IconRelic_117_3.png"
+            },
+            {
+                "Name": {
+                    "CH": "先驱的泊星桩锚",
+                    "EN": "Pioneer's Starfaring Anchor"
+                },
+                "Desc": {
+                    "CH": "重靴形似船锚，它的主人已经做好了永不返回水面的打算。",
+                    "EN": "The heavy boots are formed like the anchor of a ship. Its owner is prepared to never return to the surface."
+                },
+                "Story": {
+                    "CH": "「你们呵，转动舵轮和观望风向的人，<br>「想想她，扶里巴斯，<br>「也曾像你们一样漂亮而高大。」<br><br>铁锚般的铅靴领着女孩不断下坠，它们正忠实地履行着设计之初便赋予的使命。<br><br>女孩始终没有合上眼睛，与冰冷而孤独的黑暗顽强对抗。她想起自己第一次听说阿基维利的故事；想起踏上旅途的那一天，她为自己打造的「荣誉徽章」；她想起与旅伴同行的 30 日；想起她们第一次和最后一次集合的林间空地，那里的空气是树莓味的；想起口哨、吉他和竹笛，以及她们一起唱过的歌；想起紫红色的雪花落在微焦的棉花糖上，很快不见踪影。<br><br>历历在目的回忆末尾，莫大的空虚行将来临，她突然见到一抹鲜红在黑色的世界中心转瞬即逝。<br><br>于是，小小的无名客想起佩刀的她最后一次接过棉花糖时，自己发自内心的笑：<br><br>「我从没想过能遇见和自己一样的人。在这条「路」上，你走过的距离比我远了好多。<br>「所以你也一定会陪我走到最后的，对吧？<br>「当然，我们的结局早已注定…但就和你说的一样——<br>「哪怕我最终会化作一潭浅浅的死水，但在走向那一刻的路上，我能做的事依然很多。所以无论如何，我都一定要去试试看——<br>「——因为我要走一条比阿基维利更深、更远的路！」",
+                    "EN": "\"O, you who turn the wheel and watch the wind,<br>Think of Frebass,<br>And how she was once as beautiful and stood as tall as you.\"<br><br>The lead boots, like iron anchors, drag the girl down further and further. They are dutifully carrying out the task bestowed upon them from the beginning of their conception.<br><br>The girl never closes her eyes, fighting boldly against the cold and lonely darkness. She remembers the first time she heard stories about Akivili. She remembers the first day she set upon the journey and the \"Medallion of Honor\" she forged for herself. She remembers the 30 days she spent journeying with her companion. She remembers the forest glade they gathered in for the first and last time, and how the air there tasted like raspberries. She remembers whistles, guitars, and the flute, and the songs they sang together. She remembers scarlet snow falling on slightly burnt marshmallows and disappearing.<br><br>The vast void looms near the end of the vivid memories, yet she suddenly sees a dash of crimson blinking briefly into existence in the center of the pitch-black world.<br><br>Therefore, the little Nameless remembers the smile she gave from the bottom of her heart when the girl with the sword took the marshmallows for the final time.<br><br>\"I never thought I would meet anyone similar to me. You've walked so much further on this road than me.<br>Therefore, you will surely walk with me till then end, right?\"<br>\"Of course. Our end has already been determined... However, just like you said —<br>Even though I may turn into a shallow puddle of dead water in the end, there is still a lot I can do on my journey toward that moment. Therefore, no matter what, I have to go try it—<br>— Because I will walk on a road deeper and further than Akivili's!\""
+                },
+                "Icon": "IconRelic_117_4.png"
+            }
+        ]
+    },
+    {
+        "_id": 116,
+        "Name": {
+            "CH": "幽锁深牢的系囚",
+            "EN": "Prisoner in Deep Confinement"
+        },
+        "Icon": "71025.png",
+        "Skills": [
+            {
+                "CH": "攻击力提高 <b>12.0%</b> 。",
+                "EN": "ATK increases by <b>12.0%</b>."
+            },
+            {
+                "CH": "敌方目标每承受1个持续伤害效果，装备者对其造成伤害时就无视其 <b>6.0%</b> 的防御力，最多计入 <b>3.0</b> 个持续伤害效果。",
+                "EN": "For every DoT the target enemy is afflicted with, the wearer will ignore <b>6.0%</b> of its DEF when dealing DMG to it. This effect is valid for a max of <b>3.0</b> DoTs."
+            }
+        ],
+        "Items": [
+            {
+                "Name": {
+                    "CH": "系囚的合啮拘笼",
+                    "EN": "Prisoner's Sealed Muzzle"
+                },
+                "Desc": {
+                    "CH": "紧扣兽面囚徒面部的犬嘴笼，严防末路恶逆露出獠牙伤人。",
+                    "EN": "A muzzle designed to tightly encage the captive's beastly visage, guarding against the feral fangs that yearn to inflict harm."
+                },
+                "Story": {
+                    "CH": "嗅觉曾经构建了歩离人战首的感官世界，雨、尘土、篝火、鲜血、伤药...从战场最深处摇摇晃晃、幽幽荡荡地传来，汇成气味洪流，淹没他每一寸神经。<br><br>如今他只能嗅到刑具的沉重坚固、与陪审者的畏缩恐惧充盈空气。<br><br>他知道这些血肉软弱的审判者忌惮獠牙锐利——他曾伫立陡峭的崖顶，沐浴疯狂的月华，感受血脉中本能冲动；他曾循着气味组成的迷宫，于无光黑夜里，深入敌营，逐一咬碎猎物的头颅…歩离人战首崇敬磋磨后的獠牙，将其视为砥锋白刃，是撕裂一切的力量与自信。<br><br>「步离巢父，啮噬吮血，荼害无辜。判其拘笼终身覆面，钳口固齿，问十恶重罪。」<br><br>战首轻蔑地环视着四周，如冰海怒涛般席卷一切的剑客不在这里…他对繁芜的判词不感兴趣。",
+                    "EN": "Smell was the sense that constructed the borisin Warmuhtars' sense of the world. Rain, dust, campfire, blood, medicine... From the deepest part of the battlefield, they came shaking and wafting, with a torrent of odors that flooded every inch of his neurons.<br><br>All he could smell now is the heavy sturdiness of the torture devices, and the cowering fear of the jurors filling the air.<br><br>He knows that these weak-fleshed judges are afraid of the sharpness of his fangs — He had stood on the precipice of a steep cliff, bathed in the moonlight of madness, and felt the instinctive impulse in his veins. He had followed the labyrinth of smells, penetrating into the enemy's camp in the darkness of a lightless night, and crushed the skulls of his prey one by one... The borisin Warmuhtars admire the concept of polished fangs, regarding them as blades and spears, symbols of the power and confidence to tear apart anything.<br><br>\"The borisin Brood Lord gnashed and gnawed on flesh, devouring the blood of innocents. He is sentenced to a lifetime in a cage with his face covered in a closed-mouth muzzle, convicted of the Ten Unpardonable Sins.\"<br><br>The Warmuhtar contemptuously looks around — the swordsmaster who engulfed everything like an icy sea of fury is not there... He has no interest in this tedious sentence."
+                },
+                "Icon": "IconRelic_116_1.png"
+            },
+            {
+                "Name": {
+                    "CH": "系囚的铅石梏铐",
+                    "EN": "Prisoner's Leadstone Shackles"
+                },
+                "Desc": {
+                    "CH": "紧缚魔手的沉重镣铐，钢针钉腕，钳制凶爪恶逆再造杀孽。",
+                    "EN": "Heavy shackles that tightly bind the evildoer's hands with steel needles pinning into the wrists, preventing the vicious claws from doing harm again."
+                },
+                "Story": {
+                    "CH": "云开雾散，朦月幽光倾覆于步离战首伤痕累累的身体之上。被银发剑客斩去的巨爪遗落一旁，走投无路的战首血脉奔涌，伴随着痛苦的长嚎，再次生长出利爪。<br><br>月狂催化下，战首勉强追上如同月光的剑击。他默祷着丰饶之力，决心完成最后的困兽斗。<br><br>他已忘记步离军队是第几次突围，只记得手足们无数次用利爪撕开前进的缺口，随即又严密合上。疲惫不已的步离人依仗着难以摧毁的复苏之力，挣扎着撕毁一切阻碍——战首鲜血沃灌着双爪，如陷迷狂，恍惚间惊觉自己无处脱逃，也早已无人追随。<br><br>「步离巢父，手刃生灵，杀业无数。须铅石缚手，严加管制。」<br><br>战首终是无力倒在剑客面前，第一次感受到精疲力尽的濒死体验。「那真是无与伦比的剑」，他不禁想到，「那真是无与伦比的刺激！」",
+                    "EN": "As the clouds parted, the moon's shadowy light poured over the Warmuhtar's scarred body. The huge claw that was slashed off by the silver-haired swordsmaster was left aside, and the desperate Warmuhtar's blood vessels pulsated furiously. Accompanied by a long, painful howl, he grew his sharp claw once more.<br><br>Catalyzed by Moon Madness, the Warmuhtar barely caught up with the moonlight-like sword strikes. He prayed silently to the power of Abundance, determined to finish the final fight as a trapped beast.<br><br>He had already forgotten how many times the borisin army had broken through, only remembering the countless times his soldiers had used their claws to tear open the gaps in their advance, only for it to tightly close again. The exhausted borisin relied on their nigh indestructible regeneration, struggling to tear down all obstacles before them — The Warmuhtar's blood soaked his claws and he sank into a trance, only to suddenly realize that he had nowhere to run, and there are no more soldiers following him.<br><br>\"Borisin Brood Lord, you have taken countless lives by your own hand. Your wrists shall be bound in lead and stone and put under strict control.\"<br><br>The Warmuhtar finally collapsed, powerless, in front of the swordsmaster. For the first time, he felt that exhausting near-death experience. \"What an incomparable blade,\" he couldn't help but think, \"What an incomparable thrill!\""
+                },
+                "Icon": "IconRelic_116_2.png"
+            },
+            {
+                "Name": {
+                    "CH": "系囚的幽闭缚束",
+                    "EN": "Prisoner's Repressive Straitjacket"
+                },
+                "Desc": {
+                    "CH": "捆缚危险重犯的拘束囚服，反扣关节，限制囚徒身的变化能力。",
+                    "EN": "A prisoner's garment that restrains dangerous criminals. Its reversed-joint design confines the prisoner's body."
+                },
+                "Story": {
+                    "CH": "步离人天生便是战士。他们骨架宽阔瘦长，下颌与颈部肌肉有力，犬齿发达，颅顶生有兽耳，手足生就锐利指爪——氏族同胞崇拜健硕躯体，将其视作神恩厚泽。<br><br>战首既是精神领袖，亦是部族最强战力，指挥着如同黑潮的军队，主宰着战场的生死。<br><br>出征的狰狞兽舰铺天盖地，他俯视战场那些躁动不安的战士——步离战首感应月狂呼唤，锋利刺骨撑破肌体，漆黑鲜血如雾般消失在风中。他如同殉道者伸展双臂，步离狼毒——那致人恐惧的信息素，随着血雾弥散开来，刺激着步离人战士感官，如神鬼附身。<br><br>「巢父大人，赐予我等铜筋铁骨。巢父大人，赐予我等通天神力。」<br><br>他回想起血肉不受拘束的日子。承受「月狂」的步离儿女突破血肉限制，皮开肉绽，再也不会感到疼痛与恐惧。指引他们，曾是专属于强者的特权和责任。",
+                    "EN": "The borisin are warriors by nature. Their bone structure is broad and lean, with powerful jaws and neck muscles. They have well-developed canine teeth, beast-like ears on top of their heads, and sharp claws on their hands and feet. The borisin worship the concept of a strong body, seeing strong physique as a blessing from the gods.<br><br>The Warmuhtar is both the spiritual leader and the strongest warrior of the tribe, commanding its tide-like army, and dominating life and death on the battlefield.<br><br>The fearsome beast ships setting off covered the very sky, and he looked down at the restless warriors on the battlefield — The borisin Warmuhtar felt the call of Moon Madness. Sharp bone spikes pierced through his body, and his pitch-black blood disappeared in the wind like mist. He stretched out his arms like a martyr — the borisin's Lupitoxin, the fear-inducing pheromone, dispersed along with the blood mist and stimulated the borisin warriors' senses, making them seem possessed by the power of gods and demons.<br><br>\"O' Brood Lord, grant us muscles of iron and bones of steel. O' Brood Lord, grant us the power of the gods.\"<br><br>He recalled the days when flesh and blood were not restrained. Children of the borisin, who carry Moon Madness in them, had broken through the limitations of flesh and blood. Their bodies erupted and deformed, yet no longer able to feel pain or fear. Guiding them was once a privilege and responsibility reserved only for the strong."
+                },
+                "Icon": "IconRelic_116_3.png"
+            },
+            {
+                "Name": {
+                    "CH": "系囚的绝足锁桎",
+                    "EN": "Prisoner's Restrictive Fetters"
+                },
+                "Desc": {
+                    "CH": "桎缚兽足的金属脚镣，禁锢末路恶逆，以防脱逃酿祸。",
+                    "EN": "Metal shackles that bind the feet of the beasts, imprisoning evils and preventing them from escaping and wrecking havoc."
+                },
+                "Story": {
+                    "CH": "步离族人游牧于银河之间，鄙夷固土而居的文明形态。他们掳走和平安稳，带来滔天战火。苛刻的生存信仰迫使他们征战不停，始终投入到刀尖舔血生活之中。<br><br>他们自有信念与手段，使步离人置足之处，便是歩离人的疆域国土。<br><br>步离战首骄傲于燃起一处又一处的凄艳战火，碾压守护者尊严，痛饮流离者眼泪，践踏亲密者信任。他任荆棘疯长，沃土尽毁，他迫人为奴，奢侈享乐…为了超越历代王者，新任战首不得不抛却安稳，率将士远征外界以战功立名，巩固族中地位。<br><br>「步离巢父，行则战至，祸遍诸界。判其绝足禁闭，不得受生 。」<br><br>战首对判词感到疑惑，他环顾四周，惊讶于弱者们的审判。那些所谓罪行，不过是生存的法则。",
+                    "EN": "The borisin roam the galaxy, despising the settled civilizations. They took away peace and tranquility and brought all-consuming war with them. Their harsh beliefs in survival compel them to fight incessantly, ever-devoting themselves to a life of bloodshed.<br><br>They have their own beliefs and ways — wherever the borisin set foot, it becomes their territory and nation.<br><br>The borisin Warmuhtar takes pride from igniting one flame of war after another, crushing the dignity of protectors, drinking the tears of the displaced, and trampling on the trust of close ones. He allowed thorns to grow wild and fertile land to be destroyed, forced people into slavery and enjoyed an extravagant life... In order to surpass the past leaders, the new Warmuhtar had to cast aside peace and lead his soldiers on an expedition to the outside world in order to make a name for himself and affirm his position in the tribe.<br><br>\"Borisin Brood Lord, with you come war and a scourge upon all worlds. Your sentence is to be eternally detained and imprisoned, never to be reborn.\"<br><br>The Warmuhtar is puzzled by the sentence. He looks around, confused at the trials of the weak. Those so-called crimes are nothing more than the laws of survival."
+                },
+                "Icon": "IconRelic_116_4.png"
+            }
+        ]
+    },
+    {
+        "_id": 115,
+        "Name": {
+            "CH": "毁烬焚骨的大公",
+            "EN": "The Ashblazing Grand Duke"
+        },
+        "Icon": "71024.png",
+        "Skills": [
+            {
+                "CH": "追加攻击造成的伤害提高 <b>20.0%</b> 。",
+                "EN": "Increases the DMG dealt by follow-up attacks by <b>20.0%</b>."
+            },
+            {
+                "CH": "装备者施放追加攻击时，根据追加攻击造成伤害的次数，每次造成伤害时使装备者的攻击力提高 <b>6.0%</b> ，最多叠加 <b>8.0</b> 次，持续 <b>3.0</b> 回合。该效果在装备者下一次施放追加攻击时移除。",
+                "EN": "When the wearer uses follow-up attacks, increases the wearer's ATK by <b>6.0%</b> for every time the follow-up attack deals DMG. This effect can stack up to <b>8.0</b> time(s) and lasts for <b>3.0</b> turn(s). This effect is removed the next time the wearer uses a follow-up attack."
+            }
+        ],
+        "Items": [
+            {
+                "Name": {
+                    "CH": "大公的冥焰冠冕",
+                    "EN": "Grand Duke's Crown of Netherflame"
+                },
+                "Desc": {
+                    "CH": "不停燃烧的火焰冠冕，熊熊野心是它的不尽燃料。",
+                    "EN": "A crown of unceasing flame, with its burning ambition serving as its inexhaustible fuel."
+                },
+                "Story": {
+                    "CH": "优雅的火魔于万火之火中诞生，并笃信毁灭是赐予陀斐特的至上冠冕。<br><br>「我，于毁灭之际诞生，是陀斐特的罪恶信仰。我，即是纳努克的怒火。」<br><br>纳努克亲手覆灭陀斐特，白星烈焰与毁灭之力共同孕育了等离子体生命。优雅的火魔将诞生视为蒙受天启——「毁灭君主今日征服陀斐特，祂以炽焰授勋，轻浮与空虚的荣誉随日珥逸散，沉重与厚实的荣誉将为我加冕。」阿弗利特自诞生起，便痴迷于破坏与杀戮。<br><br>「世间荣誉的桂冠，皆是荆棘编织而成；胜过荆棘的桂冠，只有我无上的冥焰冠冕。」<br><br>毁灭星神灭星的余烬，被阿弗利特亲手捧起，捏制成陀斐特王冠的模样，佩戴至今。",
+                    "EN": "The elegant fire demon was born in the most fiery of all fires, and believes Destruction to be the supreme glory bestowed upon Fetora.<br><br>\"I, born on the eve of destruction, am the sinful belief of Fetora. I am the furious flames of Nanook.\"<br><br>Nanook destroyed Fetora by their own hands, and the White Star's flames coalesced with the power of Destruction to birth a plasmic lifeforms. The elegant fire demon saw its birth as a revelation. \"Today, the Lord of Destruction conquered Fetora. They honored it with blazing flames. The frivolous and meaningless glory evaporate with the solar flare, but concrete and heavy glory shall mark my coronation.\" Ifrit has been obsessed with destruction and slaughter since birth.<br><br>\"The laurels of honor in this world are all woven of thorns. The only laurel that surpasses these thorns is my supreme crown of netherflame.\"<br><br>The embers left behind from the Aeon of Destruction's annihilation of a star were clasped in Ifrit's own hands, molded into the shape of Fetora's crown, and worn to this day."
+                },
+                "Icon": "IconRelic_115_1.png"
+            },
+            {
+                "Name": {
+                    "CH": "大公的绒火指套",
+                    "EN": "Grand Duke's Gloves of Fieryfur"
+                },
+                "Desc": {
+                    "CH": "以火焰为绒毛的洁白手套，将暴戾藏于缎面之下。",
+                    "EN": "Pure white gloves with flames as its fur, hiding its brutality under smooth silk."
+                },
+                "Story": {
+                    "CH": "阿弗利特策动无数次生灵湮灭的危机，大公自诩为指挥家，只有带好手套才能握住有刺的短棍。<br><br>「我奉毁灭天启而来，一手用来夺走，一手用来给予。」<br><br>笃信「物之珍稀，在其绝迹」，冥火大公将里沙利特星的历史文化付之一炬，焚毁贵族光华灿烂的丝绸，烧光诗人侈丽闳衍的长卷，燃尽绘师妙手丹青的壁画…「文明如同若虫，只有在焚毁烧尽的处刑中化为黑蝴蝶随风飘荡而去，才能获得新生。」阿弗利特如同低头监视的焚化炉的送葬者，引导着文明的绝唱。<br><br>「通过我的努力、想象和指挥，使不同的灾难之间的配合、演奏次序、音调以及速度…融合为一幕精彩的毁灭表演。」<br><br>阿弗利特在意满的毁灭结束后，擦去手上血污，戴上洁白手套，如同殷实富足的访客参加宴会。",
+                    "EN": "Ifrit orchestrated countless crises bent on annihilating lives. The Grand Duke fancied themselves as a conductor, and must wear gloves to hold the conductor's baton covered in thorns.<br><br>\"I come with Destruction's revelation. One hand giveth, and the other taketh away.\"<br><br>Firmly believing that \"the preciousness of something can only be appreciated in its eradication,\" Duke Inferno torched the history and culture of the planet Lisalit, scorching the brilliant silks of the aristocracy, incinerating the long scrolls of the poets, razing the vivid murals of the painters to ash... \"Civilization is like a larva. It will only be reborn in a burning execution, when it turns into a black butterfly that flutters away in the wind.\" Like an undertaker who lowers their head to monitor the crematorium's furnace, Ifrit guides civilizations into their swansong.<br><br>\"Through my efforts, imagination, and direction... the synchronization, number of performances, tone, and tempo of the different catastrophes... all fuse into a brilliant masterpiece of destructive performance.\"<br><br>After the end of a satisfying destruction, Ifrit wipes the blood off their hands and dons pristine white gloves again, as if they were an aristocrat attending a banquet."
+                },
+                "Icon": "IconRelic_115_2.png"
+            },
+            {
+                "Name": {
+                    "CH": "大公的蒙恩长袍",
+                    "EN": "Grand Duke's Robe of Grace"
+                },
+                "Desc": {
+                    "CH": "一袭华美的袍，彰显长袍主人的端庄风雅。",
+                    "EN": "A gorgeous robe that emphasizes the dignity and elegance of its owner."
+                },
+                "Story": {
+                    "CH": "优雅的火魔在惨无人道的屠杀之后，欣赏着穿衣镜中的身姿，觐见君主总是需要适宜的华服。<br><br>「服装的目的不在于修饰仪表，而是展现本质；如同烈焰的本质，便是在于毁灭。」<br><br>恒远燃烧的火魔一族视纳努克为皇帝，称其为恩主，却从未得到星神瞥视。阿弗利特的毁灭掺杂了炫耀与权利、征服与动机，「永火官邸」与「耶佩拉兄弟会」的争夺更是肮脏不堪。「不纯的毁灭比污垢更容易弄脏最华丽的衣饰。」关于纯粹，阿弗利特始终不得其要领。<br><br>「毁灭之价值，在于被毁灭之物的价值；吾等之价值，便是践行毁灭直到君主瞩目。」<br><br>阿弗利特心怀虔诚，穿戴锦缎华服，以缁绛色的火焰织就，等待着毁灭传召。",
+                    "EN": "The elegant fire demon admires their image in the dressing mirror after an inhumane massacre. An audience with a monarch always requires appropriate finery.<br><br> \"The purpose of clothing is not to adorn one's appearance, but to display one's true essence — just as the essence of flame is to destroy.\"<br><br>The ever-burning clan of fire demons regards Nanook as their emperor and savior, but the Aeon had never glimpsed at them. Ifrit's destruction is laced with flaunts, power, conquest, and motivation, and the rivalry between the Ever-Flame Mansion and the Jepella Brotherhood was even more sordid. \"Impure destruction stains the most magnificent garments more easily than dirt.\" Regarding purity, Ifrit has never been able to grasp its essence from the start.<br><br>\"The value of destruction lies in the value of the thing destroyed. Our value lies in our practice of Destruction until our emperor takes notice.\"<br><br>Ifrit, with piety in their heart, wears brocaded garments woven with velvet-red flames, and waits for the summon of the Destruction."
+                },
+                "Icon": "IconRelic_115_3.png"
+            },
+            {
+                "Name": {
+                    "CH": "大公的绅雅礼靴",
+                    "EN": "Grand Duke's Ceremonial Boots"
+                },
+                "Desc": {
+                    "CH": "经典而舒适的靴子，保养完好，造型挺括，修饰脚型。",
+                    "EN": "A pair of classic and comfortable boots in pristine condition, with a sleek design and flattering style."
+                },
+                "Story": {
+                    "CH": "优雅的火魔足迹逶迤之处，被焚毁的文明总是无声哭诉。阿弗利特从来不曾理会——<br><br>「无路可走的人是不需要靴子的，那穷途末路的文明又何必对我控诉？」<br><br>头顶火冠的「冥火大公」被诸多文明视为天外恶魔，却受到盛宴之星的邀请。阿弗利特欣然盛装出席，「我会备好礼数周到的毁灭，一截残骨也别想留下」。优雅的火魔集结了星海恶党，盘算着为宴会献上尸山血海的盛况…那些被毁掉的文明，不过是通往毁灭的巡礼之路，匹诺康尼也只是道中站点而已。<br><br>「毁灭你们，与你们无关，而是为了祂的注视」。<br><br>在远方的宴会声呼唤下，阿弗利特欣然踏上漫长旅途赴宴。",
+                    "EN": "Wherever the elegant fire demon's trail wound, the smoldered civilizations silently wailed. Ifrit never paid them any attention —<br><br>\"Those who have no roads left to walk on don't need boots. Why must these civilizations at their end whinge at me?\"<br><br>Duke Inferno, with the crown of fire on their head, is considered by many civilizations as an otherworldly demon, yet their receives an invitation from the planet of festivities. Ifrit is happy to attend in full ceremonial garb. \"I will prepare a courteous and thoughtful destruction, and not a single bone will be left behind.\" The elegant fire demon assembles a party of cosmic evil, and plans the grandiose scene of offering a mountain of corpses and a sea of blood for the banquet... Those destroyed civilizations are but mere stops on the pilgrimage to Destruction, and Penacony will just be another pitstop along the way.<br><br> \"Your destruction is nothing personal. It is just for the purpose of earning their gaze.\"<br><br>At the sound of the distant banquet calling, Ifrit cheerfully embarks on the long journey to the feast."
+                },
+                "Icon": "IconRelic_115_4.png"
+            }
+        ]
+    },
+    {
+        "_id": 114,
+        "Name": {
+            "CH": "骇域漫游的信使",
+            "EN": "Messenger Traversing Hackerspace"
+        },
+        "Icon": "71021.png",
+        "Skills": [
+            {
+                "CH": "速度提高 <b>6.0%</b> 。",
+                "EN": "Increases SPD by <b>6.0%</b>."
+            },
+            {
+                "CH": "当装备者对我方目标施放终结技时，我方全体速度提高 <b>12.0%</b> ，持续 <b>1.0</b> 回合，该效果无法叠加。",
+                "EN": "When the wearer uses their Ultimate on an ally, SPD for all allies increases by <b>12.0%</b> for <b>1.0</b> turn(s). This effect cannot be stacked."
+            }
+        ],
+        "Items": [
+            {
+                "Name": {
+                    "CH": "信使的全息目镜",
+                    "EN": "Messenger's Holovisor"
+                },
+                "Desc": {
+                    "CH": "外形酷似滑雪目镜，不仅能防眩光，还能看虚拟人直播。",
+                    "EN": "The shape is exactly like a ski goggle. Not only does it have anti-glare properties, it can also be used to watch virtual live streams."
+                },
+                "Story": {
+                    "CH": "热夜之都的信使们为了躲避财阀的私警部队，通常在警备较少的城市上空进行移动。<br><br>他们喜欢嚼着便宜的口香糖、佩戴着高度改造的全息目镜，开启脉冲扫视整座赛博城市。<br><br>目镜会将城市的实时信息投影在视网膜上，使不可能的路线变成信使的空中走廊：建筑天台，空调外箱、广告板，起重机的吊臂…甚至物流无人机都可以成为走廊中的一环。因此信使们必须掌握足够的技巧，否则偏差一步便是意外的坠亡。<br><br>「有个混蛋把目镜无差别地黑掉了，而我当时正巧在空中，落地的那一瞬间真是糟透了。」<br><br>这款「小黄鸭」目镜是绝版的旧款式，据说在爱好者中价值不菲。",
+                    "EN": "To avoid the private forces hired by the financial magnates, messengers in the Capital of Passion usually travel in the skies above the city, where security forces are scarce.<br><br>They like to turn on pulse-scanning and look over the entire cyber city while chewing cheap gum and donning heavily modified holovisors.<br><br>The holovisors project real-time information of the city directly onto the messenger's retina, turning impossible routes into an aerial path for the messengers: Building rooftops, air conditioning units, billboards, the arms of cranes... even unmanned logistics drones can become part of the path. Therefore, messengers must be skilled enough, as even one misstep would result in an unexpected and lethal fall.<br><br>\"Some fool jammed all the holovisors indiscriminately while I was in the air! That crash was the worst I've ever had.\"<br><br>This Yellow Ducky holovisor is a discontinued old model that is said to be of considerable value among enthusiasts."
+                },
+                "Icon": "IconRelic_114_1.png"
+            },
+            {
+                "Name": {
+                    "CH": "信使的百变义手",
+                    "EN": "Messenger's Transformative Arm"
+                },
+                "Desc": {
+                    "CH": "可随便拆卸的机械义手，能够将指节像子弹一样发射出去。",
+                    "EN": "A cybernetic prosthetic arm that can be disassembled at will. Capable of firing knuckles like bullets."
+                },
+                "Story": {
+                    "CH": "并非所有的信使都拥有机械义手，但拥有义手的信使总会热衷于义手改造。毕竟，没有人能接受自己的赛博义肢长得和别人一模一样。<br><br>热夜之都的居民们痴迷于赛博义体，有限的城市法规只能规劝过度义体化带来的狂热。<br><br>热夜之都登记备案的改造标准只有三大类计十八种，对于离经叛道的信使们来说这显然不够。他们将巨额的薪资投入在突发奇想的设计上：让义手上的电子转机能放出落雷，让义手能像导弹一样发射…改造的蓝图越来越夸张，而信使的邮费更是水涨船高。<br><br>「这些信使到底是为了保护信息在奔跑，还是在为了天价邮费在奔跑呢？」<br><br>这只「小黄鸭」义手经过特殊改造，每一个手指指节都能高速旋转，并像子弹一样发射出去。",
+                    "EN": "Not all messengers have cybernetic prosthetic arms, but those who do often have a strong passion to modify it. After all, no one wants to have a cybernetic limb that looks identical to everyone else's.<br><br>The residents of the Capital of Passion are obsessed with cybernetic prosthetics, while the city's limited regulations can only advise against the frenzy of excessive body modification.<br><br>The registered standards for modifications in the Capital of Passion only contains three categories, with a total of eighteen types. This is clearly not enough for the rebellious messengers. They invest huge amounts of their salaries into imaginative designs. They create blueprints that enable their electronic conversion machinery to release lightning or transform their prosthetic hands into missiles, and the designs become increasingly outrageous as fees to engage messengers skyrocket.<br><br>\"Are these messengers running to protect information, or are they running to earn exorbitant fees?\"<br><br>This Yellow Ducky prosthetic arm has undergone special modifications, with each finger joint able to rotate at high speeds and be launched like a bullet."
+                },
+                "Icon": "IconRelic_114_2.png"
+            },
+            {
+                "Name": {
+                    "CH": "信使的密信挎包",
+                    "EN": "Messenger's Secret Satchel"
+                },
+                "Desc": {
+                    "CH": "时尚的信使邮差包，添加了各种挂件，看上去有些可爱。",
+                    "EN": "A trendy courier satchel. It's adorned with many cute accessories."
+                },
+                "Story": {
+                    "CH": "热夜之都的财阀们监管着城市中所有的信息流动，他们习惯性运用信息垄断的方式维持着财阀的统治地位，任何妄图颠覆之人，都会受到治安法的规范。<br><br>人们曾经抗议过，于是财阀们许诺了便捷的承诺。很快，人们便放弃了「私密」。<br><br>无论是在现实还是虚拟的场合，无论是有用还是无用的信息，事无巨细，财阀们都会贪婪地搜集起来。如此一来，信使们的邮差包便成为了「私密」的最终防线。邮差包轻便小巧，仅能用来携带芯片或是文件。然而，正是这样一个又一个狭窄的信息盲区，保障了热夜之都仅剩的「信息独立」。<br><br>「为什么在繁华的热夜之都，还有人会用网络之外的渠道传输信息呢？信使们也想知道。」<br><br>这个限量的「小黄鸭」邮差包虽有一些陈旧，但是各种配件让它看上去还很时尚。",
+                    "EN": "Financial magnates in the Capital of Passion monitor all information flow in the city. They are used to maintaining their dominance using information monopoly, and all who try to subvert this control will be punished by the Public Security Regulation.<br><br>People once protested, which only made the financial magnates dish out some convenient compromises. Soon enough, people gave up on the idea of \"privacy.\"<br><br>The financial magnates greedily collect every piece of information whether it is important or trivial, or whether it arose from reality or virtual realms. As a result, the messengers' courier satchels have become the final bastion of privacy. The satchel is small, lightweight, and can only carry chips or documents. Despite these shortcomings, the final remains of \"information independence\" in the Capital of Passion was solely ensured by these tiny blind spots.<br><br>\"Why do people still transmit information outside of the internet in the prosperous Capital of Passion? The messengers also want to know the answer.\"<br><br>This limited edition Yellow Ducky courier satchel may be a bit old, but its various accessories make it still in fashion."
+                },
+                "Icon": "IconRelic_114_3.png"
+            },
+            {
+                "Name": {
+                    "CH": "信使的酷跑板鞋",
+                    "EN": "Messenger's Par-kool Sneakers"
+                },
+                "Desc": {
+                    "CH": "支持自由跑酷的滑板鞋，穿上去很舒服，仅此而已。",
+                    "EN": "A pair of sneakers that support parkour activities. It is comfortable, and that is all it needs."
+                },
+                "Story": {
+                    "CH": "热夜之都曾经的信使们将板鞋扔于一处，短暂沉默之后便各自离开。大多数的信使们不会在这座城市里留下名字，也不会留下痕迹，这种行为不过是一个自我感动的休止音符。<br><br>信使们也很难说清从哪一天开始「信使的性质」变了，信使变成了自己最讨厌的人。<br><br>不知不觉间，信使保障的「信息独立」变成了垄断；不知不觉间，信使面对的风险变成了价码；不知不觉间，信使成了阴谋家的帮凶…财阀们未能摧毁他们，是不成熟的理想背叛了信使。在一切彻底失控之前，信使们聚集在一起，告别了奔走的生涯。<br><br>「也许，信使就应该止步于此，让所有人看清这座城市，让真正的改革者们行动起来。」<br><br>这是双弃置于路边的「小黄鸭」板鞋，热夜之都的信使们已经成为了过去的传说。",
+                    "EN": "The former Capital of Passion messengers all throw their sneakers into one spot, and leaves after a brief moment of silence. Most messengers wouldn't leave their name or even a trace in this city, making their behavior nothing but a self-indulgent coda.<br><br>Even messengers can't pinpoint when the \"nature of being a messenger\" had changed to make them the people they hated the most.<br><br>Insidiously, the \"information independence\" that messengers protected became a monopoly. Insidiously, the risks that messengers faced became a bargaining chip. Insidiously, messengers became the accomplices of conspirators... The financial magnates did not destroy the messengers — It was their immature ideas that betrayed them. The messengers assemble before everything totally spirals out of control, and bid a last farewell to their hurried lives.<br><br>\"Perhaps this should be the end for the messengers. Perhaps we should let everyone see the truth of this city, and let the true reformists take action.\"<br><br>These are a pair of Yellow Ducky sneakers abandoned on the side of the road. The messengers of the Capital of Passion have long become a legend of the past."
+                },
+                "Icon": "IconRelic_114_4.png"
+            }
+        ]
+    },
+    {
+        "_id": 113,
+        "Name": {
+            "CH": "宝命长存的莳者",
+            "EN": "Longevous Disciple"
+        },
+        "Icon": "71020.png",
+        "Skills": [
+            {
+                "CH": "生命上限提高 <b>12.0%</b> 。",
+                "EN": "Increases Max HP by <b>12.0%</b>."
+            },
+            {
+                "CH": "当装备者受到攻击或被我方目标消耗生命值后，暴击率提高 <b>8.0%</b> ，持续 <b>2.0</b> 回合，该效果最多叠加 <b>2.0</b> 层。",
+                "EN": "When the wearer is hit or has their HP consumed by an ally or themselves, their CRIT Rate increases by <b>8.0%</b> for <b>2.0</b> turn(s) and up to <b>2.0</b> stacks."
+            }
+        ],
+        "Items": [
+            {
+                "Name": {
+                    "CH": "莳者的复明义眼",
+                    "EN": "Disciple's Prosthetic Eye"
+                },
+                "Desc": {
+                    "CH": "曾属于某人的机巧义眼，如今它被逐出主人的身体，百无一用。",
+                    "EN": "An ingenium eye that once belonged to someone. After being expelled from its owner's body, it is now completely useless."
+                },
+                "Story": {
+                    "CH": "在晦暗混沌的梦境之中，她总会梦见光明复现那几日看到的事物。千顷楹树悠然摇曳，花瓣翩翩。靛蓝海浪击打着礁石，凝作逸散白玉。飞鸟展开银翼，消失在碧绿的竹林之中。<br><br>她总在梦中徒劳地寻找着另一个人，一个本该与她共同欣赏美景的人。<br><br>但她只能看到一个模糊的影子。她清楚地记得那人绸缎似的短发与墨玉似的眸子，但回忆却像是坠入了神经系统构建的迷宫，她总是在看清面庞前便骤然惊醒。惺忪恍惚间，她摩挲着令她百般疼痛的义眼。借助虚假的眼睛，她便不必再靠声音、气味和指尖拼凑一个模糊的影子。<br><br>「它已是无用之物。」烬灭祸祖的令使道。她听见扇面轻摇的风，还有令使细碎的笑声。「很快，你就能看到所有你想看到的事物了——用你自己的眼睛。」<br><br>「这便是在下自己的眼睛。」她轻笑了一声，「况且它曾目睹的美景，在下已经再也无缘得见了。」",
+                    "EN": "In the dim, chaotic dreamscape, she always dreamed of the brightness she had seen in those few days. Thousands of acres of eucalyptus trees swayed gently, and petals fluttered in the breeze. The indigo waves beat against the rocks and turned into scattering white jade. Flying birds spread their silver wings and disappeared into the green bamboo forest.<br><br>She was always searching for someone else in her dreams, the one who should have enjoyed the scenery with her.<br><br>But all she could see was a blurry figure. She remembered clearly the short, silky hair and the eyes like black jade stones, but her memories were faded into a maze constructed by her nervous system, and she always woke up with a start just before seeing the face clearly. In a daze, she touched her prosthetic eye that had caused her so much pain. With the help of the false eye, she no longer needed to piece together a blurry figure by sound, smell, and touch.<br><br>\"It's no longer of use,\" said the Emanator of the Ruin Author. She heard the sound of the swaying hand fan and the flitting laughter of the Emanator. \"Soon, you'll be able to see everything you want to see — with your own eyes.\"<br><br>\"This is my own eye,\" she chuckled, \"Besides, never will I have the chance to see the scenery it once witnessed again.\""
+                },
+                "Icon": "IconRelic_113_1.png"
+            },
+            {
+                "Name": {
+                    "CH": "莳者的机巧木手",
+                    "EN": "Disciple's Ingenium Hand"
+                },
+                "Desc": {
+                    "CH": "专为长生种制造的机巧义肢，使用时无需侵入肉体。",
+                    "EN": "An ingenium prosthetic limb made specifically for long-life species. Requires no invasive procedure to use."
+                },
+                "Story": {
+                    "CH": "在发育不全的手臂末端涂抹上保护凝胶，再将神经电讯号接收器紧紧贴合在皮肤上，最后调节松紧，将机巧木手牢牢固定在身体上——这是她几百年来每日的早课。<br><br>木手给她带来了多余的关注。可她既不想招来祸端，也绝不愿博取同情。<br><br>即便残缺之人如她，身怀世所罕见的才能，掌握司部决策的权力，也从未改变过他人态度中的疏离感：欺软怕硬的宵小迟早会作鸟兽散去，另一些自以为心怀慈悲的伪善之辈，却又会像苍蝇似的盘旋而来，称赞她为「了不起的盲眼独臂天缺者」。<br><br>过去她听过几万次，每一次都令她作呕。如今她亲眼注视着摇尾乞怜的目光，更觉得糟心。<br><br>她不自觉地将左手搭在滚烫的炉鼎上，霎时间一阵尖锐的疼痛传来——她赶忙抽回手，烫伤正在掌心急速愈合。<br><br>「有时候觉得，还是原先的那只木手好用一些。」",
+                    "EN": "Applying protective gel to her underdeveloped arm stump, attaching the neural signal receivers tightly to her skin, and adjusting the tightness to firmly fix the ingenium wooden hand to her body — this has been her morning ablutions every morning for hundreds of years.<br><br>The wooden hand has brought her unwanted attention, but she neither wanted to invite trouble nor seek sympathy.<br><br>Despite possessing unrivaled talents and holding the reins of an entire Commission in her hands, the alienating attitude other showed towards her as a broken person never changed. Cowardly bullies eventually scattered to the winds, only to be replaced by flattering hypocrites with pretended pity who gathered like flies around her and gave fake praises to \"the amazing blind and one-armed Incomplete One.\"<br><br>She has heard variations of this sentence thousands upon thousands of times in the past, and each time it made her wanting to puke. Now, as she faces these fawning faces begging for her mercy, she only feels disgust.<br><br>She unconsciously places her left hand onto the boiling cauldron. A sharp pain instantly shoots through her body. She quickly withdraws her hand, and see the blister in her palm healing rapidly.<br><br>\"Sometimes, I feel the old wooden hand is more useful.\""
+                },
+                "Icon": "IconRelic_113_2.png"
+            },
+            {
+                "Name": {
+                    "CH": "莳者的承露羽衣",
+                    "EN": "Disciple's Dewy Feather Garb"
+                },
+                "Desc": {
+                    "CH": "据古籍记载纺织的羽衣，它属于万古的妖人，亦或万人的救主。",
+                    "EN": "A feather garb made according to old scrolls. Its owner was either a demon reviled in the pages of history or a savior of humanity."
+                },
+                "Story": {
+                    "CH": "在逸史残篇中寻找信息对盲人来说尤为艰难，伙伴将浩如烟海的古籍不加分辨地读给她听，她将其中文句编纂摘录，探幽索秘。<br><br>天资聪颖如她，大多经籍听过一遍便能记住。但从故纸堆中找到「被羽妖妇」的志异故事，她却反复听了数遍仍不满足。<br><br>相传某位洞天主人为了挽救伴侣，将之托体鸟雀，延续长生。可她最终禁不住鸟儿的呼唤，也幻化形体，与之比翼同飞。天长日久，洞天主人最终迷乱了本性，成了半羸半羽的异形。当她的臣民率军攻入宫城，以炽燃矛矢刺穿她时，两只鸟儿啼出最后的哀唱，同化为飞灰散去。<br><br>她喜爱这个故事，于是取来鸟雀的精髓，在丹鼎间炼化成形，而后命人织造了一身奢丽的羽衣。她不知羽衣的华美，但喜欢穿着它在屋中踱步——那是穿给一个不再存在的人看的。<br><br>在衣袂飘飞的瞬间，她总觉得有灵魂似鸟儿飞舞穿行在指掌肩头，不曾离去。",
+                    "EN": "Searching for information in fragments of historical texts is particularly difficult for the blind. Her companions read the vast amount of ancient texts to her indiscriminately, and she compiled and excerpted the sentences in order to explore the mysteries within.<br><br>With her extraordinary intelligence, she can remember most of the passages after only listening to them once. However, she listened repeatedly to the <i>The Witch in Robe of Feather</i> ghost story unearthed from a scroll pile, never growing bored by it.<br><br>According to the legend, a certain delvemaster saved her partner by placing their soul into a bird, granting them immortality. However, she eventually could not resist the call of the avian and also transformed into a bird, flying alongside them. Over time, the delvemaster became confused and lost her true form, becoming a half-feathered, half-human monster. When her subjects stormed the palace and pierced her with blazing spears and arrows, the two birds sang a final mournful song and turned to ashes together.<br><br>She loved this story so much that she took the essence and marrow of birds and transformed them in the alchemical furnace, then had someone weave these materials into a luxurious feather coat. She could not see just how beautiful the coat was, but nonetheless enjoyed walking around the house while wearing it — it was meant to be seen by a person who no longer existed.<br><br>As the garb fluttered, she always felt that a bird-like soul was flying and passing through her hands and shoulders, ever-present."
+                },
+                "Icon": "IconRelic_113_3.png"
+            },
+            {
+                "Name": {
+                    "CH": "莳者的天人丝履",
+                    "EN": "Disciple's Celestial Silk Sandals"
+                },
+                "Desc": {
+                    "CH": "一双鞋底薄如蝉翼的丝履，它的主人一定长久不曾用双脚行走了。",
+                    "EN": "A pair of silk boots with soles as thin as cicada's wings. Its owner must not have walked on their feet for a long time."
+                },
+                "Story": {
+                    "CH": "每当她为了向教众展示仙迹，漂浮在半空，脱离大地掌控时，总是不自觉想起古国神话传说——<br><br>「有修道有成者行于地上，尽汲地脉之气施展仙道，变化万端，无不应验。那修道者试图御风空行，与星辰同列，却发现自己早已远离地脉，最终失足堕入死亡的渊薮。」<br><br>但此刻的情况有所不同，她念道，仙舟本无根，是「建木」给予它根系，使它与丰饶之主一体共存，也将它与药师所允诺的无垠净土紧密相连。而如今，叛徒们斩断了仙道连接，使仙舟重新成了飘摇的孤岛。<br><br>仙舟上虚伪的大地不能给予她力量，她所寻找的根系并不在脚下，而在天渊之间。她将带领莳者们重生「建木」，拥抱丰饶的无上恩典。<br><br>她穿着轻薄的丝履漂浮在千人之上，用洪亮地声音宣告道：「众人啊，当你们仰视我时，仰视的并非是我，而是高天之上本应属于你们的位置。」",
+                    "EN": "Whenever she detaches herself from the grasp of gravity and levitates to display celestial traces to the faithful, she can't help but think of an ancient legend from the Primeval Imperium —<br><br>\"There once was a practitioner of immortal arts who had some success in their pursuit. They walked on the earth, employing the essence of its leylines to perform a myriad of miraculous techniques. The practitioner then attempted to take to the skies to be among the stars, but found that they had long since drifted away from the earth's leylines, and eventually fell into the abyss of death.\"<br><br>However, she believes the current situation is different. The Xianzhou had no roots. It was the Ambrosial Arbor that gave it a connection and a co-existence with the Aeon of Abundance, tying it tightly together with the immaculate pure land promised by Yaoshi. But now, the traitors have severed the connection to the way of immortality, making the Xianzhou once again a precarious island floating rootless in space.<br><br>The false earth on the Xianzhou cannot give her strength. The roots she seek are not under her feet, but in the bottomless chasm between stars. She will lead the disciples to give the Ambrosial Arbor a second life and embrace the supreme grace of Abundance.<br><br>Floating above thousands of people, clad in boots light as silk, she declares in a resounding voice, \"When you look up at me, what you see is not me, but the celestial and elevated position that should have belonged to you.\""
+                },
+                "Icon": "IconRelic_113_4.png"
+            }
+        ]
+    },
+    {
+        "_id": 112,
+        "Name": {
+            "CH": "盗匪荒漠的废土客",
+            "EN": "Wastelander of Banditry Desert"
+        },
+        "Icon": "71011.png",
+        "Skills": [
+            {
+                "CH": "虚数属性伤害提高 <b>10.0%</b> 。",
+                "EN": "Increases Imaginary DMG by <b>10.0%</b>."
+            },
+            {
+                "CH": "装备者对陷入负面效果的敌方目标造成伤害时暴击率提高 <b>10.0%</b> ，对陷入禁锢状态的敌方目标造成伤害时暴击伤害提高 <b>20.0%</b> 。",
+                "EN": "When attacking debuffed enemies, the wearer's CRIT Rate increases by <b>10.0%</b>, and their CRIT DMG increases by <b>20.0%</b> against Imprisoned enemies."
+            }
+        ],
+        "Items": [
+            {
+                "Name": {
+                    "CH": "废土客的呼吸面罩",
+                    "EN": "Wastelander's Breathing Mask"
+                },
+                "Desc": {
+                    "CH": "能够过滤沙尘与辐射的面罩，像是由废弃呼吸器改造而来。",
+                    "EN": "A breathing mask able to filter sand and radiation out from the air. It seems like it was made from a discarded respirator."
+                },
+                "Story": {
+                    "CH": "塔利亚的废土客们总是时刻备着呼吸面罩，毕竟辐射和沙尘暴是这里的家常便饭。谁都很难说这样擅自改造的呼吸面具符合了什么科学原理，不过是一点儿自我安慰而已。<br><br>「听说了没有？山谷那边有个老东西在面罩上插着水管呢！换我我肯定受不了。」<br><br>废土客们似乎很少抱怨塔利亚极端的恶劣天气，一来他们无力改变现状，这破地方自从核爆以来就一直沙尘漫天；二来他们极其乐观，在红沙遮天蔽日的时候，他们会戴上防尘面罩冲向其他的匪窝，裹挟着风尘滚滚，如同阎罗鬼煞打家劫舍。<br><br>一伙有准备土匪突袭另一伙没有准备土匪，这便是塔利亚的生存法则。<br><br>这个防尘面罩看上去穿脱不便，还有着「钉壳镇」的防伪标记。",
+                    "EN": "The Wastelanders of Talia must wear a mask at all times to protect themselves from the ever-present threats of residual radiation and sandstorms. Nobody knew if any scientific principles were even taken into account when such wild re-modifications of the ventilator mask were made. Perhaps it was all just a placebo effect.<br><br>\"Haven't you heard? That old fool across the valley plugged water tubes into his mask! I definitely couldn't take that, if it were me.\"<br><br>The Wastelanders seldom complain about the extremely harsh climate in Talia. For one thing, ever since the nuclear blast filled the atmosphere with sand and dust, nothing could be done about it. Another reason, however, was that when red sand filled the air and blocked out the sun, it provided them with a prime opportunity to ambush the encampments of other bandit groups, as they could put on breathing masks and pop up out of nowhere among the sweeping sandstorms.<br><br>A cohort of prepared bandits attacking another cohort of unprepared bandits — such is the law of survival in Talia.<br><br>This sandstorm mask looks like a hassle to put on and remove. It has a \"Nailscrap Town\" anti-fraud production mark on it."
+                },
+                "Icon": "IconRelic_112_1.png"
+            },
+            {
+                "Name": {
+                    "CH": "废土客的荒漠终端",
+                    "EN": "Wastelander's Desert Terminal"
+                },
+                "Desc": {
+                    "CH": "能检测电离辐射气体的多功能垃圾，会讲垃圾话。",
+                    "EN": "Multi-functional trash that can detect ionizing radiation in the air. It can also trash-talk."
+                },
+                "Story": {
+                    "CH": "塔利亚在成为盗贼公国之前，就以「繁星的垃圾场」之名远近闻名，不同世界的科技废品在这里找到第二次春天。<br><br>「不要问我是不是喜欢戴着比枷锁还重的手部终端设备！关键时候，它比锤子还厉害。」<br><br>钉壳镇建立之后，塔利亚最离谱的废土工程专家们终于找到一处安全的场所大展拳脚，他们创造了独属于塔利亚的「凭感觉科技」。铯尘计数器和会讲脏话的手部智能终端桥接在一起，就能诞生废土特有的多功能垃圾「荒漠终端」。<br><br>所谓「凭感觉科技」的核心就在于：不要询问原理，也不要询问目的，没人在乎的。<br><br>「竟然把我和垃圾组合在一起，你们简直是地沟里的臭老鼠。」智能终端的声音真诚而又热切。",
+                    "EN": "Before Talia became the \"Kingdom of Banditry,\" it was notoriously reviled as the \"Junkyard of the Cosmos.\" Discarded junk of old technology from other planets became another man's treasure here.<br><br>\"Don't ever ask me if I enjoy wearing a mobile device heavier than shackles. It came in handy and was more powerful than a hammer in the most decisive moments.\"<br><br>After Nailscrap Town was established, the most unconventional of Talian wasteland engineers finally had a safe and secure location to exhibit their outrageous idea, creating Talia's unique \"Sensory Technology.\" By combining a cesium dust counter and a cheeky-AI mobile device, they gave birth to the Desert Terminal, a multi-functional invention from wasteland junk.<br><br>The core idea for the so-called \"Sensory Technology\" is — Don't ask how, don't ask why, nobody cares.<br><br>\"You attached that piece of junk to me? You rump-fed, scurvy sewer rat...\" The AI terminal speaks with a tone of honesty and earnestness."
+                },
+                "Icon": "IconRelic_112_2.png"
+            },
+            {
+                "Name": {
+                    "CH": "废土客的修士长袍",
+                    "EN": "Wastelander's Friar Robe"
+                },
+                "Desc": {
+                    "CH": "宽松的长袍，由传教士的款式改造而来。",
+                    "EN": "A baggy robe adapted from a missionary's attire."
+                },
+                "Story": {
+                    "CH": "塔利亚的悍匪们大多没期待过救赎，更不知道什么是修士。他们只觉得这长袍子看上去中用，可以拿回去擦灰。<br><br>「『无知为王的时代还没结束』？这是什么狗屁不通的句子！」<br><br>废土客们发现了早已荒无人烟的修道院，甚至翻出了旧文明的典籍。他们近乎直觉地察觉到文明记录的珍贵价值，在一番虚情假意的感慨之后，欢快地付之一炬。废土客们带走的只有修士们剩下的长袍，除此以外的破东西在钉壳镇可是一文不值。<br><br>废土客大多都没有文化，再多有关文明的资料都比不上一顿饱餐更有用，这也不应该指责他们。<br><br>至少修士们的长袍留了下来，这也是一种文明存在的形式。",
+                    "EN": "Most of the gangsters in Talia have never expected salvation, nor do they know about friars. All they knew was that their robes looked useful enough as cleaning rags.<br><br>\"'Ignorance is still king'? What a load of nonsense!\"<br><br>Wastelanders found a monastery that had long since lain desolate and discovered some ancient volumes from an old civilization. Their gut feeling was that the recordings were precious. After hypocritically feigning appreciation, they happily burned those books to ashes, only taking along the robes left by the friars. After all, the other things wouldn't be worth a penny in Nailscrap Town.<br><br>Most Wastelanders were illiterate. No amount of records of civilization would be more useful to them than a hot meal. And they were not the ones to blame.<br><br>At least, the robes of friars remained, contributing to the continued existence of a long-forgotten civilization."
+                },
+                "Icon": "IconRelic_112_3.png"
+            },
+            {
+                "Name": {
+                    "CH": "废土客的动力腿甲",
+                    "EN": "Wastelander's Powered Greaves"
+                },
+                "Desc": {
+                    "CH": "动力甲的腿部，废铁和旧电线制作的外骨骼。",
+                    "EN": "The leg part of powered armor, an exoskeleton made from scrap metals and old wires."
+                },
+                "Story": {
+                    "CH": "钉壳镇的匪徒们需要一些手段来捍卫他们来之不易的水源和垃圾，用来凑数的匪徒科技就此应运而生，华而不实的动力装甲只有腿部实现了运转。<br><br>「我要的是一整套动力装甲，现在你告诉我上面的部分都炸了？！你问问你自己，这腿甲你敢用吗？」<br><br>隔三差五爆发的钉壳镇保卫战促进了「凭感觉科技」的战时发展，来路不明的材料和一拍脑门的工艺甚至能做出动力装甲。遗憾的是，初代废铁动力装甲只剩下了腿甲的部分，大幅简化之后仍然能让人像火箭一样发射出去，具体原因工程师也不太清楚。<br><br>按照设计师的说法解释到：这是半梦半醒之间完成的设计，是一生只有一次的灵感之作。<br><br>管他是可回收垃圾还是有害垃圾，还能用的垃圾就是好垃圾。",
+                    "EN": "Nailscrap Town's bandits needed some means to defend their hard-earned water sources and junks, which was how the subpar banditry technology came to be. The powered armor was needlessly flamboyant, with its leg parts being the only functional section<br><br>\"I need a whole set of fully powered armor, and now you are telling me all the sections above were all blown up!? Ask yourself if you dared to wear this set of greaves yourself!\"<br><br>The defenses of Nailscrap Town that happened every now and then boosted the wartime development of Sensory Technology. Once, a random idea hit the engineers. With some materials of unknown source, they produced a set of powered armor. Unfortunately, only the leg part of the first generation of that cheap powered armor has survived. Even after being greatly simplified, the greaves still allow their wearer to take off like a rocket — a mechanism that confuses engineers nowadays.<br><br>According to the engineers, the design was completed in the limbo between dreams and reality. It was a once-in-a-lifetime masterpiece of sheer ingenuity.<br><br>A useful piece of junk is a good piece of junk, be it recyclable or hazardous."
+                },
+                "Icon": "IconRelic_112_4.png"
+            }
+        ]
+    },
+    {
+        "_id": 111,
+        "Name": {
+            "CH": "流星追迹的怪盗",
+            "EN": "Thief of Shooting Meteor"
+        },
+        "Icon": "71010.png",
+        "Skills": [
+            {
+                "CH": "击破特攻提高 <b>16.0%</b> 。",
+                "EN": "Increases Break Effect by <b>16.0%</b>."
+            },
+            {
+                "CH": "使装备者的击破特攻提高 <b>16.0%</b> 。当装备者击破敌方目标弱点后，恢复 <b>3.0</b> 点能量。",
+                "EN": "Increases the wearer's Break Effect by <b>16.0%</b>. After the wearer inflicts Weakness Break on an enemy, regenerates <b>3.0</b> Energy."
+            }
+        ],
+        "Items": [
+            {
+                "Name": {
+                    "CH": "怪盗的千人假面",
+                    "EN": "Thief's Myriad-Faced Mask"
+                },
+                "Desc": {
+                    "CH": "用以改变面貌的面具，结合精湛的演技便能以假乱真。",
+                    "EN": "A mask used to change one's facial appearance. Coupled with evocative acting skills, it can help you deceive anyone."
+                },
+                "Story": {
+                    "CH": "流星怪盗卢布朗视行窃之事如参加假面舞会，隐藏身份是礼仪的一部分。<br><br>「为什么面具还能改变身高和声音？哈哈哈哈，这是在下的专利技术，保密。」<br><br>怪盗借用假面化身普通员工，潜入公司的安保会议之中，并对「怪盗防范措施」献计献策。直到偷盗结束后半个月后，安保部门才回想起自己从没见过这位「同事」。<br><br>盗贼过着双重生活，总是需要一些掩人耳目的手段，这是怪盗界的传统。<br><br>「让你们的编剧想想办法，看能不能让怪盗全程戴面具。」公司影视部门的市场营销对制片人说道，「我再强调下这个面具周边的需求，价格低廉，大受欢迎。」",
+                    "EN": "Meteor Thief Leblanc saw heists as participating in a masquerade ball, and hiding his identity was part of the etiquette.<br><br>\"How could a mask change a person's height and voice? Hahaha, it's a patented secret. Completely confidential.\"<br><br>Wearing a mask, Leblanc disguised himself as an ordinary staff member, sneaked into the IPC's security meeting, and offered advice on their \"thief prevention measures.\" It was not until half a month after the theft that the security team recalled that they didn't know that \"colleague\" at the meeting.<br><br>Thieves had to lead a double life, requiring various means of disguise. Such was the tradition of the world of thievery.<br><br>\"Can your writers make the thief wear the mask throughout the film?\" The marketing team of the IPC's Radio, Film, and Television Department said to the producer. \"I am once again stressing the need for this mask as merchandise. Affordability and popularity are equally important.\""
+                },
+                "Icon": "IconRelic_111_1.png"
+            },
+            {
+                "Name": {
+                    "CH": "怪盗的绘纹手套",
+                    "EN": "Thief's Gloves With Prints"
+                },
+                "Desc": {
+                    "CH": "编入纳米材料的特殊手套，可即时编写手套表面纹样。",
+                    "EN": "A pair of special gloves interlaced with nanomaterials. The prints on its surface can change in real time."
+                },
+                "Story": {
+                    "CH": "流星怪盗卢布朗没有不留痕迹的洁癖，他总是留下些误导的线索、恰到好处的挑衅。<br><br>「为什么公司的人会因为假指纹上当无数次？也许，你应该问的是公司而不是我。」<br><br>他的手套能够生成各种纹样，不仅让公司的指纹探测技术沦为笑话，还留下了一堆无伤大雅的「盗贼破绽」。安保部门在存放宝物的密室里找到了上百个印记，其中包括史前翼龙、星际瓢虫，拉布拉多…当然，没有一个属于他自己。<br><br>仅仅是销声匿迹未免太过无趣，只会和那些担惊受怕的小毛贼们拉不开格局。<br><br>「戏说也不能胡说，现在谁还用指纹系统？」公司安保部门抱怨道。「这些编剧到底有没有生活常识啊？」",
+                    "EN": "Meteor Thief Leblanc was never a neat freak. He didn't care about leaving traces. He would always leave misleading clues, serving the right amount of provocation.<br><br>\"How could these people in the IPC have been fooled so many times? Perhaps the fault should lie with the IPC, not me.\"<br><br>His gloves could generate all sorts of prints, which always made a fool of the IPC's fingerprint detection devices, leaving them with a bunch of harmless so-called \"thief's flaws.\" The security team found hundreds of prints in their secret treasure storage room, including those of prehistoric pterosaurs, interstellar ladybugs, labradors... Needless to say, none of them belonged to the thief.<br><br>Vanishing without a trace was tedious and served only to group one alongside those timid little thieves who've got absolutely no style.<br><br>\"Fiction should never outright contradict reality. Who still uses fingerprint systems these days?\" The IPC's security team complained. \"Do these writers have any common sense at all?\""
+                },
+                "Icon": "IconRelic_111_2.png"
+            },
+            {
+                "Name": {
+                    "CH": "怪盗的纤钢爪钩",
+                    "EN": "Thief's Steel Grappling Hook"
+                },
+                "Desc": {
+                    "CH": "伪装成编织腰带的钢索，腰带卡扣里隐藏着挂钩和滑轮。",
+                    "EN": "A steel cable disguised as a woven belt, with hooks and pulleys hidden in its buckle."
+                },
+                "Story": {
+                    "CH": "考虑周全的怪盗总能在绝境之中安全撤离，腰间常备救命钩索。<br><br>「腰间的钩索要怎么瞄准到想去的位置…你会解释你是如何迈出脚步吗？」<br><br>放置宝物的密室里机关遍布险象环生，然而怪盗借助腰部的飞索抓钩闪转腾挪，如同在半空中舞出华尔兹。抓钩在三分之一秒内发射至数十米高墙上，滑轮随即回转，瞬间便将怪盗送到「狮子座之星」的面前。<br><br>借助腰间的钢索就能飞天遁地，这便是飞贼的基本职业素养。<br><br>「续作可以让我们的特技替身出演，还能省笔预算呢。」动作指导讥讽道。「反正带着面具，观众也看不出来谁是谁。」",
+                    "EN": "A well-prepared thief can always escape safely from desperate situations with a life-saving grappling hook equipped under his belt at all times.<br><br>\"How to throw the grappling hook at the right target... Could you explain how you made all those moves?\"<br><br>The secret treasure storage room was full of lethal mechanisms, but the thief danced around them using the grappling hook at his waist as if he were performing a waltz in mid-air. In a split second from when he reached for his belt, Leblanc threw the grappling hook to a wall tens of meters high, and the pulley then rolled and instantly sent the thief to the \"Star of Leo.\"<br><br>To come and go anywhere one so desires, with just the steel grappling hook equipped under one's belt, is the basic qualification required of a professional thief.<br><br>\"You know, we could just let the stunt double play his part in the sequel. That'll save us a lot of money,\" the action choreographer quipped. \"The audience wouldn't know who was under the mask anyway.\""
+                },
+                "Icon": "IconRelic_111_3.png"
+            },
+            {
+                "Name": {
+                    "CH": "怪盗的流星快靴",
+                    "EN": "Thief's Meteor Boots"
+                },
+                "Desc": {
+                    "CH": "一双辅助增强人体机能的靴子，帮助怪盗在楼宇之间大步流星。",
+                    "EN": "A pair of boots that enhances any human's physical prowess. It helps the Meteor Thief stride between buildings."
+                },
+                "Story": {
+                    "CH": "怪盗在城市上空快速跃动时，会刻意留下炫目的残影，这便是「流星」之名的来历。<br><br>「要是没有高楼大厦的话该怎么逃走？哈哈哈哈，请不要再问这些缺乏趣味的问题了。」<br><br>无数次有惊无险的逃亡过程让怪盗早已驾轻就熟。没有人能够在城市中追上怪盗的流星快靴，除非有人能够知晓怪盗的据点。让怪盗意外的是，一位鸡窝头侦探端着咖啡杯正坐在卢布朗的椅子上，早已等候多时。<br><br>怪盗的故事已经完结，接下来该讲讲侦探的故事了。<br><br>「很多人不相信我们敢这么写，这就是我们这么写的原因。」编剧（匿名）解释充满争议的盗贼结局。",
+                    "EN": "Leblanc would deliberately leave a beam of dazzling light behind him when jumping from roof to roof, earning him the title of the \"Meteor Thief.\"<br><br>\"How would one escape if there were no skyscrapers? Hahahaha, spare me these ignorant questions.\"<br><br>He had sneaked away from countless chases, and it made him a master of escape. No one could catch up with his Meteor Boots in the city unless someone knew where his base of operations was. To Leblanc's surprise, a detective with messy hair was sitting inside with his coffee cup, having waited for Leblanc for a long time.<br><br>The story of the thief is over. Now is the time for the legend of the detective.<br><br>\"Many people don't believe we would write like this, which is exactly why we do so.\" An anonymous writer explained the controversial end of the Meteor Thief."
+                },
+                "Icon": "IconRelic_111_4.png"
+            }
+        ]
+    },
+    {
+        "_id": 110,
+        "Name": {
+            "CH": "晨昏交界的翔鹰",
+            "EN": "Eagle of Twilight Line"
+        },
+        "Icon": "71009.png",
+        "Skills": [
+            {
+                "CH": "风属性伤害提高 <b>10.0%</b> 。",
+                "EN": "Increases Wind DMG by <b>10.0%</b>."
+            },
+            {
+                "CH": "当装备者施放终结技后，使其行动提前 <b>25.0%</b> 。",
+                "EN": "After the wearer uses their Ultimate, their action is Advanced Forward by <b>25.0%</b>."
+            }
+        ],
+        "Items": [
+            {
+                "Name": {
+                    "CH": "翔鹰的长喙头盔",
+                    "EN": "Eagle's Beaked Helmet"
+                },
+                "Desc": {
+                    "CH": "高速飞行中使用的流体头盔，形似空渔鹰的鸟喙。",
+                    "EN": "An aerodynamic helmet used in high-speed flights. It is shaped like the beak of a skyfish eagle."
+                },
+                "Story": {
+                    "CH": "萨尔索图的空渔人每日黎明时从移动城市的「空港」出发，展开扑翼装在空中翱翔，猎捕从沙地中飞出的燃素水母。<br><br>构成「灵火」的燃素是驱动着巨大移动城市的血液，必须捕捞充足，才能保证整座城市不会被晨昏线甩在身后。<br><br>若有人力竭而亡，抑或是遭到巨禽的袭击罹难，萨尔索图人会尽一切可能带回其遗骸，将翼装和鹰盔伴他一同葬入黑暗的大地。在萨尔索图的传统仪式中，「落地」即为死亡，即为永恒的休憩。<br><br>飞行不能停下，城市亦不能停下。<br><br>这顶鹰盔的鸟喙部分刻着一句悼词。「大地并非鹰的枷锁，翅膀才是。因为它，你必须飞翔。」",
+                    "EN": "Every day at dawn, Salsotto's skyfishers would depart from the moving city's skyport, soaring in the air with their winged suits, hunting for phlogiston jellyfish that flew out of the sand.<br><br>Phlogiston, an essential component of the Phase Flame, was the blood of the colossal moving city. Phlogiston must be sufficiently captured and gathered to ensure that the whole city could always stay ahead before the twilight zone that divided day and night.<br><br>If any skyfishers died from exhaustion or were attacked by giant birds, Salsottians would spare no effort in bringing back their remains and would bury their winged suits and eagle helmets with them in the dark land. According to the traditional Salsottian rituals, \"landing\" equals death and is a symbol of eternal rest.<br><br>The flight must never stop, just like how the city must never stop moving.<br><br>This eagle helmet has a short condolence message carved on its beak: \"Landing is not the eagles' shackle, wings are, because of which you have to fly.\""
+                },
+                "Icon": "IconRelic_110_1.png"
+            },
+            {
+                "Name": {
+                    "CH": "翔鹰的鹰击指环",
+                    "EN": "Eagle's Soaring Ring"
+                },
+                "Desc": {
+                    "CH": "卓越空渔人大师所佩戴的指环，空渔鹰双翅纹样紧抱手指。",
+                    "EN": "A ring worn by an outstanding skyfisher master, with a pair of skyfish eagle's wings holding tight the wearer's finger."
+                },
+                "Story": {
+                    "CH": "只有技术最为卓越、最值得尊敬和依赖的渔猎队长会被授予「鹰击指环」。他们在空中吹动渔哨，组织起严丝合缝的协同，是最为敏锐的猎鹰。<br><br>对队员们来说，每一次翱翔总是孤独而脆弱的，能依靠的只有队长传来的 124 种「哨型」。<br><br>因此，在萨尔索图流传着一句话：「空渔人将三分之一的性命交付给千锤百炼的技术，将三分之一的性命交给巧夺天工的装备。而最后的三分之一交给他们信赖的渔猎队长。」<br><br>肩负着不同家庭托付的队长，时刻感受到小小指环所承载的重量。<br><br>这枚鹰击指环的蚀刻已经斑驳了，指环内侧刻着一个词语：「责任」。",
+                    "EN": "Only the most skilled, respected, and reliable skyfisher captains would receive a Soaring Ring. They blew their fishing whistles in the sky and seamlessly coordinated with one another, like they were the most sharp-eyed hunting eagles.<br><br>For the duration of each flight, each team member was lonely and vulnerable. All they could rely on were the 124 types of whistles that could be performed by their team captain.<br><br>Hence, there had long been a saying in Salsotto — \"Skyfishers entrusted one-third of their lives to the rigorously developed technology, one-third to their ingeniously refined equipment, and one-third to their reliable lead skyfisher captain.\"<br><br>Being asked by so many families to take care of their skyfisher children, the team captain constantly felt the burden of this little ring he wore.<br><br>This Soaring Ring's etching was mottled, with one word engraved on the inner side of the ring: \"Responsibility.\""
+                },
+                "Icon": "IconRelic_110_2.png"
+            },
+            {
+                "Name": {
+                    "CH": "翔鹰的翼装束带",
+                    "EN": "Eagle's Winged Suit Harness"
+                },
+                "Desc": {
+                    "CH": "连接扑翼装的腰带，金属支撑藏在粗麻束带中，柔软贴身。",
+                    "EN": "A belt harness that connects the winged suit with metal supports embedded in thick linen. Soft and tight-fitting."
+                },
+                "Story": {
+                    "CH": "萨尔索图的空渔人围捕从沙地中飞出的燃素水母并非易事。面对的凌乱气流，乍看柔软贴身的束带，在强风吹拂的城外空域里成为了空渔人的生命纽带。<br><br>围捕从沙地中飞出的燃素水母绝不容易，佯动、驱赶、以及拦截捕获，在每一个环节上都伴随着陨落的风险。<br><br>未成年的空渔人需要取父母各自的一根发丝同金属支撑一同包裹在束带中，已婚的则由配偶提供，这样的翼装束带就会受到名为「家」的祝福，保护空渔人始终能回到家中。<br><br>在残酷的生存世界里，只有「家」能将空渔人轻轻托起。<br><br>这条束带中的发丝仍然完整，它来自一名女性，发根处微微发白。",
+                    "EN": "It was no easy feat for Salsotto's skyfishers to entrap and hunt phlogiston jellyfish that flew out of the sand. During turbulent flights, the seemingly tender and soft safety harness was the thread of life for a skyfisher.<br><br>Hunting phlogiston jellyfish was never easy. From trick moves to intense chasing, from precise blocking to the final capturing act, one wrong move in any one of these links in the chain could mean mortal danger.<br><br>It was customary for a young skyfisher to get one strand of hair from each parent and weave them into the harness with metal supports, while a married one should get one from their spouse. In this manner, the harness would be blessed by the power of \"home\" and ensure that the skyfisher always returned safely.<br><br>In this cruel world where all fought hard for survival, \"home\" was the only place that could offer comfort and support for a skyfisher.<br><br>The hair inside this harness was still intact, with a faint white at the root. It came from a female."
+                },
+                "Icon": "IconRelic_110_3.png"
+            },
+            {
+                "Name": {
+                    "CH": "翔鹰的绒羽绑带",
+                    "EN": "Eagle's Quilted Puttees"
+                },
+                "Desc": {
+                    "CH": "飞行中确保腿部保暖的绑带，装饰着空渔鹰的翎羽。",
+                    "EN": "Puttees to keep the legs warm during flights, decorated with a skyfish eagle's bristle feathers."
+                },
+                "Story": {
+                    "CH": "萨尔索图的空渔人渔猎燃素水母的过程，是一场漫长的生存竞逐。远离心脏的双腿，必须借助绒羽绑带保持温度。<br><br>总是在长时间高度紧张的狩猎结束后，极限的身体才开始暴露出痛感和疲惫。<br><br>未做好周全准备的空渔人，此时才会感受到严重冻伤导致的局部坏死。因此，空渔人在出发之前，都会反复确认绑带的牢固程度，毕竟在高速的飞行中，是不会有机会二次调整的。<br><br>他们踏入天空的那一刻就已经明白，疾风会带走什么。<br><br>这条绑带内置的金属壳中有少量的石灰粉和铝粉的使用痕迹，像是用来应急加热的手段。",
+                    "EN": "Hunting phlogiston jellyfish was a long survival game for skyfishers from Salsotto. Legs, being far from the heart, can only maintain their temperature when tightly strapped in fluffy feather puttees.<br><br>Only at the end of the long and highly stressful hunt would an exhausted skyfisher begin to feel pain and fatigue.<br><br>For those unprepared, it would be too late to discover their partial necrosis caused by severe frostbite. Therefore, skyfishers would check if they had tightened their puttees many times before taking off. After all, they wouldn't get another chance to do so in high-speed flight.<br><br>They knew what the wind would take away as they stepped into the sky.<br><br>Traces of lime powder and aluminum powder were found in the metal shell embedded in the puttee, which seemed to be a means of emergency heating."
+                },
+                "Icon": "IconRelic_110_4.png"
+            }
+        ]
+    },
+    {
+        "_id": 109,
+        "Name": {
+            "CH": "激奏雷电的乐队",
+            "EN": "Band of Sizzling Thunder"
+        },
+        "Icon": "71008.png",
+        "Skills": [
+            {
+                "CH": "雷属性伤害提高 <b>10.0%</b> 。",
+                "EN": "Increases Lightning DMG by <b>10.0%</b>."
+            },
+            {
+                "CH": "当装备者施放战技时，使装备者的攻击力提高 <b>20.0%</b> ，持续 <b>1.0</b> 回合。",
+                "EN": "When the wearer uses their Skill, increases the wearer's ATK by <b>20.0%</b> for <b>1.0</b> turn(s)."
+            }
+        ],
+        "Items": [
+            {
+                "Name": {
+                    "CH": "乐队的偏光墨镜",
+                    "EN": "Band's Polarized Sunglasses"
+                },
+                "Desc": {
+                    "CH": "主唱之一的詹尼斯所戴的经典款墨镜，镀铬镜片反射着蓝色的光芒。",
+                    "EN": "A pair of classic sunglasses worn by one of the lead singers, Janis, whose chrome lenses reflect a blue hue."
+                },
+                "Story": {
+                    "CH": "恒星的寿命加剧消逝。在红巨星彻底爆发之前，爱墨瑞得-Ⅲ的住民逃离了母星。<br><br>面对无处可逃的未来，精英们带走了希望，佯装没有听见绝望的恸哭。<br><br>詹尼斯的父母支付了巨额信用点登上飞船，被动地期待星间的救赎。行星将在红巨星爆发中毁灭，而恒星则坍缩变成白矮星…在可以预见的终末降临前，逃离是唯一的答案。但混沌医师詹尼斯却打算直面星系的湮灭，她竭尽全力，试图证明存在的痕迹不会化为虚无。<br><br>濒死的太阳愈发灼眼，詹尼斯拿走母亲的墨镜，和志同道合的年轻人回到母星。<br><br>「懦夫只会向外逃去，口中却嚷着救赎之名。」《廉价救赎》，激雷乐队第一张专辑里的单曲，詹尼斯将与父母吵架时说的气话改成了歌词。",
+                    "EN": "The star's lifespan was plunging. Residents of Emerald-III fled their home planet before the red giant exploded.<br><br>Faced with a future of no escape, the elites took away hope, feigning ignorance to cries of desperation.<br><br>Janis' parents paid a massive amount of credits to board the ship, helplessly praying for an interstellar salvation. The explosion of the red giant would destroy the planet, and it would collapse into a white dwarf... Before the arrival of the imminent doom, escape was the only option. Janis, the Doctor of Chaos, however, decided to try her best to face the annihilation of her home system head-on, attempting to prove that the existence of her home would never perish.<br><br>As the dying sun burnt brighter, Janis took her mother's sunglasses and returned to the home planet with like-minded youngsters.<br><br>\"Only cowards flee while shouting the name of the redeemer.\" Cited from \"Cheap Salvation,\" the hit of Sizzling Thunder's first album, Janis reworded her angry words during a dispute with her parents into lyrics."
+                },
+                "Icon": "IconRelic_109_1.png"
+            },
+            {
+                "Name": {
+                    "CH": "乐队的巡演手绳",
+                    "EN": "Band's Touring Bracelet"
+                },
+                "Desc": {
+                    "CH": "贝斯手席德的手绳，由巡演时的丝带手环编织而成，上面写着几句歌词。",
+                    "EN": "Bassist Sid's bracelet, woven from silk wristbands from tours. Several lines of lyrics are written on it."
+                },
+                "Story": {
+                    "CH": "爱墨瑞得-Ⅲ的激雷乐队凭借着几支强劲的先行曲，迅速点燃了整个星球的激情。<br><br>节奏吉他手戴夫激烈扫弦时迸发出的雷电火花，是巡演开场的标志，却被乐迷们视为余生唯一的光。<br><br>乐队的巡演皆由乐迷们自发维持秩序，他们在进场时派发丝质手环用以识别身份。这些乐迷们大多支付不起高昂的逃生费用，无奈接受了等待电磁爆发的命运。但自从目睹叛逆的年轻人重返行星，便感到自己的灵魂也在这一刻点燃。他们在手环上记录了歌词，记录了每一场演出的时间，也记录了自己的无声呐喊。<br><br>贝斯手席德收集了每一场巡演的手环，他让女友南希编成了手绳，并一直戴着。<br><br>「没有意义没有方向，没有别的地方可去，我们没有未来。」《我们的路》，激雷乐队第二张专辑里的单曲，席德的人生信条。",
+                    "EN": "Sizzling Thunder from Emerald-III quickly emblazed the whole planet's enthusiasm with several hits.<br><br>Marking the beginning of their concert tour were the dazzling sparkles of electrifying thunder when Dave the rhythm guitarist fiercely struck chords, which coincidentally was also worshiped by hordes of their music fans as the only light in their lives.<br><br>In every concert tour the band had, there would be fans keeping order voluntarily and handing out wristbands to everyone upon entering the concert grounds. Most of these fans could not afford the costly fees for an escape, so accepting their fate and waiting for the electromagnetic burst to arrive was their only option. Ever since witnessing the return of these rebellious youths to the planet, they had felt it in their bones that their souls were ignited at this very moment. Onto these wristbands they wrote their lyrics, their showtime, as well as the band's unvoiced scream.<br><br>Sid the bassist collected the wristbands for every tour. His girlfriend wove them into a bracelet, which Sid then wore all the time.<br><br>\"There's no meaning, no direction, nowhere else to go, and no future for us.\" From \"Our Way,\" a single from Sizzling Thunder's second album, and Sid's life credo."
+                },
+                "Icon": "IconRelic_109_2.png"
+            },
+            {
+                "Name": {
+                    "CH": "乐队的钉刺皮衣",
+                    "EN": "Band's Leather Jacket With Studs"
+                },
+                "Desc": {
+                    "CH": "主唱之一的大卫在皮衣背面画上了白色的星星，它成为了乐队最后一张专辑的封面。",
+                    "EN": "David, one of the band's lead singers, drew a white star on the back of this leather jacket and made it the cover of the band's final album."
+                },
+                "Story": {
+                    "CH": "激雷乐队的摇滚响彻星系，不甘逃亡的年轻人们纷纷返航，回到了即将毁灭的爱墨瑞得-Ⅲ。<br><br>主音吉他手吉米将乐队带到了地下，他们将在这里歌唱，他们将把行星毁灭的悲鸣传遍整个宇宙。<br><br>在演出开始之前，大卫给钉刺皮衣的背面喷涂上白色的星星，那是恒星坍缩之后的白矮星，是恒星存在过的证明。无论是离开了星系的人，还是留下来面对毁灭的人，都一同聆听着激雷般的摇滚，共同挥舞着同一个醒目的符号。<br><br>乐队虽已消亡，但他们的存在却被刻进了乐曲之中，成为了永恒。<br><br>「我们要用生命燃烧下去，点燃孤独的白矮星。」《白星》，激雷乐队最后一张专辑的同名曲，词曲由大卫一手包办。",
+                    "EN": "The rock 'n' roll of Sizzling Thunder resounded through the planetary system, attracting involuntarily displaced youngsters to return to the crumbling Emerald-III.<br><br>Lead guitarist Jimmy brought the band underground. There they sang about the tragedy of planetary destruction, which echoed throughout the entire universe.<br><br>David printed the back of his leather jacket with a white star, or, more accurately, the white dwarf their star would become after the collapse. This would be their star's proof of existence. Those who left the planetary system and those who stayed behind all listened to that thunder-like rock 'n' roll and brandished the same striking symbol.<br><br>Despite ceasing to exist, their presence had been remixed into the music and carved into eternity.<br><br>\"We'll burn with our life, 'cause the white star needs a spark to ignite.\" From \"White Star,\" a single from Sizzling Thunder's final album of the same name. David wrote both the lyrics and the music."
+                },
+                "Icon": "IconRelic_109_3.png"
+            },
+            {
+                "Name": {
+                    "CH": "乐队的铆钉短靴",
+                    "EN": "Band's Ankle Boots With Rivets"
+                },
+                "Desc": {
+                    "CH": "鼓手博纳姆的短靴，折射着舞台灯光的漆面上粘着铆钉尖刺。",
+                    "EN": "Drummer Bonham's ankle boots, the dark leather surface glued with rivets reflecting the stage lights."
+                },
+                "Story": {
+                    "CH": "激雷乐队改变了人们面对终末的态度，改变不了终末到来的结局。<br><br>荒凉的行星地表满是荒颓和惆怅，在物资匮乏的时代，乐队用废弃的X光片灌录了所有专辑。<br><br>在爱墨瑞得-Ⅲ的长夜来临时，地表温度骤降，原本难耐的空气凉爽了不少。人们纷纷从地下避难所走出，追寻着乐队演出的地点。在最后一场「雷鸣」巡演的现场，焦躁的空气中满是电磁风暴的预兆，天雷通过金属脚手架传导到舞台之上。电光在博纳姆的靴下跃动，乐队与雷电彻底融为一体。安可曲结束之后，巨大的球形闪电吞没了舞台。<br><br>谢幕之夜过去，激雷乐队的演出就此变成了绝唱，一如他们的歌词。<br><br>「雷鸣覆盖了我们的声浪，闪电在我们血液里流淌。带着我们的音乐，和恒星一同消亡。」《激雷之歌》，激雷乐队最后一张专辑里的单曲，博纳姆的得意之作。",
+                    "EN": "Sizzling Thunder may have changed people's attitude toward finality, but they could not change their destiny.<br><br>Desolation and despair were all that lay on the surface of the doomed planet. In the era of scarce resources, the band made all their albums out of discarded X-ray films.<br><br>Before the long night of Emerald-III, the temperature on the planet's surface had plunged. The once unbearable air cooled down quite a bit as people walked out of their underground shelter and set out for the place where the band was putting on a show. At the final concert of their \"Thunderclap\" tour, the restless air filled with the warning signs of electromagnetic storms, and lightning was conducted through the metal scaffolding to the stage. Sparks leaped under Bonham's boots. The entire band merged with thunder and lightning. After the encore, a huge ball of lightning engulfed the stage and announced the end of Sizzling Thunder's show.<br><br>After the night of their twilight show, Sizzling Thunder came to a permanent end, just like in their lyrics.<br><br>\"Thunderclaps drown out our voice, lightning runs through our veins. We'll perish with our music and our star.\" From \"Song of Sizzling Thunder,\" a single from Sizzling Thunder's final album, Bonham's masterpiece."
+                },
+                "Icon": "IconRelic_109_4.png"
+            }
+        ]
+    },
+    {
+        "_id": 108,
+        "Name": {
+            "CH": "繁星璀璨的天才",
+            "EN": "Genius of Brilliant Stars"
+        },
+        "Icon": "71007.png",
+        "Skills": [
+            {
+                "CH": "量子属性伤害提高 <b>10.0%</b> 。",
+                "EN": "Increases Quantum DMG by <b>10.0%</b>."
+            },
+            {
+                "CH": "当装备者对敌方目标造成伤害时，无视其 <b>10.0%</b> 的防御力。若目标拥有量子属性弱点，额外无视其 <b>10.0%</b> 的防御力。",
+                "EN": "When the wearer deals DMG to the target enemy, ignores <b>10.0%</b> DEF. If the target enemy has Quantum Weakness, the wearer additionally ignores <b>10.0%</b> DEF."
+            }
+        ],
+        "Items": [
+            {
+                "Name": {
+                    "CH": "天才的超距遥感",
+                    "EN": "Genius's Ultraremote Sensing Visor"
+                },
+                "Desc": {
+                    "CH": "基于超距遥感技术制造出的通讯目镜，打破了传播介质与距离的束缚。",
+                    "EN": "A pair of communication goggles embedded with ultraremote sensing technology that breaks through the shackles of limited transmission and remote distances."
+                },
+                "Story": {
+                    "CH": "天才俱乐部的成员大多都是怪人，怪人之间缺少交流是公认的事实。<br><br>对旅居不同世界的天才们来说，社交确是一种多余的负担。对凡人来说，又何尝不是呢？<br><br>但#56会员，俱乐部第二任会长以利亚萨拉斯曾尝试解决这一问题。他热心地为当时的会员们准备了搭载超距遥感功能的通讯目镜。遗憾的是，即便跨越远星的桥梁已经搭好，愿意过桥之人仍然寥寥无几——银河史上最好的通讯装置问世以来，从未进行过真正的有效对话。<br><br>「『您所胡椒的用户不在糊物区』，假装人工智能拒绝我的时候也认真一点吧……」<br><br>叹息的以利亚萨拉斯知道这确实是强人所难，他总得试试，反正这技术总能派上用处。",
+                    "EN": "It is a truth universally acknowledged, that among members of the Genius Society, there is an overabundance of eccentricity and a lack of communication.<br><br>Social interaction is indeed a burden for most people, even more so for geniuses traveling between worlds.<br><br>Elias Salas, member 56 and the second head of the Genius Society once tried to resolve this problem. He ardently prepared communication goggles equipped with ultraremote sensing capabilities for all members. Although he succeeded in establishing a bridge between the most distant of stars, few were willing to connect. Thus, the universe's greatest-ever communication device was never fully utilized.<br><br>\"'The number you have dialed is not in service.' Can't you just show a bit more commitment when you pretend to be an AI...?\"<br><br>Elias Salas sighed and understood that this indeed was a huge ask. But he's got to give it a try, believing his technology would one day have its use one way or another."
+                },
+                "Icon": "IconRelic_108_1.png"
+            },
+            {
+                "Name": {
+                    "CH": "天才的频变捕手",
+                    "EN": "Genius's Frequency Catcher"
+                },
+                "Desc": {
+                    "CH": "装有精密的频变捕捉器的手套，能够对客观的声光振动进行直观地操作。",
+                    "EN": "A pair of gloves equipped with a precision frequency-capture device, which enables direct manipulation of otherwise-intangible sound and light vibrations."
+                },
+                "Story": {
+                    "CH": "由于寄居在养父的水果店中打零工，如何偷懒，以及如何偷懒不被发现便成为#84会员斯蒂芬 · 劳艾德的小课题。<br><br>他制作了能捕捉特定频段的手套，抓取声光逃逸，让自己可以尽情躲在频段栅栏后研究弦乐。<br><br>能够留住特定区域内声音和光线而不流动，是能够改变科学轨迹的重大发现，至少在现有的利尔他经典科学体系中实在很难解释…不过他无心对当今的科学界造成任何冲击，本人并没有将这项技术投入公共领域的考虑，毕竟这只是为了偷懒随手制造的玩具而已。<br><br>「斯蒂芬，虽然不知道你具体做了什么，但你肯定在偷懒对吧？」<br><br>尽管斯蒂芬 · 劳艾德被称为「天才中的天才」，但对养父来说，这就只是个喜欢幻想和偷懒的孩子。",
+                    "EN": "\"How to slack off at work without being noticed\" was an ongoing problem for Stephen Lloyd, 84th member of the Genius Society, who was living in his foster father's fruit store. <br><br>He made a pair of gloves that could capture specific frequencies and the escaping sound and light, allowing himself the pleasure of researching the stringed instruments behind the frequency fence.<br><br>This technology could capture and confine all light and sounds within the designated area, and was simply inexplicable within the current confines of Aiden classic sciences. It was indeed an outstanding invention that could change the course of science to say the least, but Stephen had no interest in introducing this technology to the public. After all, to him, it was just a toy he made to loaf on the job.<br><br>\"Stephen, I don't know exactly what you've done, but you're definitely slacking off, right?\"<br><br>Even though Stephen Lloyd was celebrated as a genius among geniuses, to his foster father, Stephen was just a child that liked fantasizing and goofing around."
+                },
+                "Icon": "IconRelic_108_2.png"
+            },
+            {
+                "Name": {
+                    "CH": "天才的元域深潜",
+                    "EN": "Genius's Metafield Suit"
+                },
+                "Desc": {
+                    "CH": "启动后形似包裹全身的潜水服，将全身的神经信号实时传输至元域空间。",
+                    "EN": "Diving-suit-like attire that envelops the body when activated, sending neural signals from your whole body to the metafield in real time."
+                },
+                "Story": {
+                    "CH": "#29会员丝丝喀尔建立的元域空间超越了生物种族与多元维度，任何生物只需借助深潜装置，便能将神经信号同步到意识网络中。<br><br>那些无法跨越世界的生物也能借由一个共通的梦境相连，寻找现实中不存在的平静与安详。<br><br>宇宙生灵在虚拟数据编织成的元域空间里创造了数不尽的文化资产，新生的秩序正在悄然建立。正当有人预言新兴的乐土将取代现实时，「创世织网者」丝丝喀尔却如同玩笑一般将意识网络的连接彻底切断，整个元域空间如同冬日寂静。<br><br>「整天讨论元域空间的投资人都已经疯了，产业赋能了无数次，元域却没了。」<br><br>人们总在失去之后止不住地猜想：元域原本是灵魂的培养皿，邀请不同的生物进入其中只是为了得到免费的灵魂样本罢了。",
+                    "EN": "The metafield space created by Sserkal, member 29, transcended biological race and multiple dimensions. Any living creature could synchronize its neural signals into the consciousness network, simply with the help of a diving suit.<br><br>For these creatures that were unable to travel between worlds, this collective dream domain granted them a chance to connect with one another and seek peace and tranquility that were non-existent in the real world.<br><br>Within this metafield of virtual data, these creatures created countless cultural assets, and a new order was quietly established. Just when it looked like this virtual eden would finally replace reality, Sserkal the Net Weaver of all Creation cut off the connection to the consciousness network, as if it had been one big joke. The entire metafield suddenly sank into silence.<br><br>\"All those investors who would yammer about metafield space all day have all gone mad. The industry has been empowered countless times, but now the metafield is gone.\"<br><br>People are prone to any supposition when they lose something. The metafield might have been designed to be a petri dish for the soul. Inviting creatures of various kinds might just be a ruse for getting free soul samples."
+                },
+                "Icon": "IconRelic_108_3.png"
+            },
+            {
+                "Name": {
+                    "CH": "天才的引力漫步",
+                    "EN": "Genius's Gravity Walker"
+                },
+                "Desc": {
+                    "CH": "穿戴式引力捕获装置，形似冰鞋，能在快速滑行时倒映出群星的光芒。",
+                    "EN": "A wearable gravity-capture device. It is shaped like a pair of ice skates that reflects the stars' twinkling lights during quick gliding."
+                },
+                "Story": {
+                    "CH": "俱乐部#64会员：恶名昭彰的「原始博士」因其所犯下的大罪，一生都在躲避无穷尽的星际追捕。<br><br>「原始博士」似乎乐在其中，有意把握了与游侠的距离，不至于被抓住，也不会消踪匿迹。<br><br>他将某种引力捕获的技术应用在逃亡过程中，能够在仅仅运用引力的情况下，自由漫步于太空之中。博识学会的天体物理学家未能参透其中的原理，只能假想行星间的引力差发挥了核心作用。追猎者们的驾驶着重力时代的代步工具，勉为其难地紧随其后，立志将大罪之人捉拿归案。<br><br>「太空漫步是件浪漫的事，」巡海游侠说，「可惜那个人是原始博士。」<br><br>直至「原始博士」彻底失踪之后，巡海游侠并不相信「推定的死亡」，仍然不停追捕。",
+                    "EN": "The notorious Dr. Primitive, member 64, had spent his life running away from interstellar pursuers for the great crimes he had committed.<br><br>Dr. Primitive seemed to enjoy the thrill of being pursued, always keeping a carefully managed distance from those who were hunting him, never too close to be caught nor too far to be untraceable.<br><br>He applied some kind of gravity-capture technology to his escape where he was able to use gravity to wander freely across space. Astrophysicists from the Intelligentsia Guild could not understand the principles of this technology, so they merely assumed that it was something to do with the gravitational potential difference between stars. His pursuers riding in vehicles of the gravity era struggled to catch up to his speed, swearing to bring him to justice.<br><br>\"Watching someone spacewalking should've been a feast for the eyes,\" a Galaxy Ranger said. \"Too bad, that 'someone' is Dr. Primitive.\"<br><br>The Galaxy Ranger still refused to believe in Dr. Primitive's presumptive death and continued the hunt for him even after he had completely vanished."
+                },
+                "Icon": "IconRelic_108_4.png"
+            }
+        ]
+    },
+    {
+        "_id": 107,
+        "Name": {
+            "CH": "熔岩锻铸的火匠",
+            "EN": "Firesmith of Lava-Forging"
+        },
+        "Icon": "71006.png",
+        "Skills": [
+            {
+                "CH": "火属性伤害提高 <b>10.0%</b> 。",
+                "EN": "Increases Fire DMG by <b>10.0%</b>."
+            },
+            {
+                "CH": "使装备者战技造成的伤害提高 <b>12.0%</b> ，并使施放终结技后的下一次攻击造成的火属性伤害提高 <b>12.0%</b> 。",
+                "EN": "Increases the wearer's Skill DMG by <b>12.0%</b>. After unleashing Ultimate, increases the wearer's Fire DMG by <b>12.0%</b> for the next attack."
+            }
+        ],
+        "Items": [
+            {
+                "Name": {
+                    "CH": "火匠的黑曜目镜",
+                    "EN": "Firesmith's Obsidian Goggles"
+                },
+                "Desc": {
+                    "CH": "以漆黑焰晶打造的防护目镜，在镜片之下，激烈的火星迸裂也只不过是斑驳残影。",
+                    "EN": "Protective goggles crafted from dark-black fire crystals. Through these lenses, even the flurry of intense sparks becomes a mosaic of dull shadows."
+                },
+                "Story": {
+                    "CH": "铸造神兵利刃对于火匠一族来说，既是天赋的使命又是伴生的诅咒。<br><br>被解放的火匠一族自从来到战争熔炉的世界中，才华在极致的释放下开始染上毁灭的气息。<br><br>炉光与火花耀目灼眼，在漫长的锻造过程中，胚料铸成神器，而匠人失去视力。弗埃曾在火山底部找到一簇罕见的曜石焰晶，将其仔细打磨做成了护目镜片，激烈的火花从此化作苍白的剪影。但是贪心的匠人未能逃避诅咒的命运，他也在极致的火光中燃尽了一切。<br><br>弗埃将战争熔炉中的反物质军团视作锤炼的素材，而自己便是那升腾的烈火。<br><br>「有没有一种可能，比如说，将热核反应变成我的熔炉？」弗埃寻找提升至极限的炉火，并在失控的聚变反应中毁灭。",
+                    "EN": "To the Firesmith clan, crafting unparalleled weapons is both their talent's calling and a lifelong curse.<br><br>Ever since the arrival of the liberated Firesmith Clan in the world of Warforge, their skills bloomed to the extremes while also becoming tainted with the aura of Destruction.<br><br>The dazzling light of the furnace, the sparks of metal clashing, and the long-lasting forging process can turn raw ore into a fine weapon, but can also gradually strip the firesmith of their eyesight. One day, at the bottom of a volcano, Foy found a deposit of rare obsidian flame crystal. From this, he carefully polished a pair of protective goggles, which transformed the fierce sparks of fire into pale-white silhouettes. However, the greedy smith was unable to fully escape his cursed fate either, burning everything he was into cinders in the ultimate fire.<br><br>Foy deemed the Antimatter Legion in the Warforge as the raw materials for his creations, and himself as the rising flame.<br><br>\"I wonder... is it possible to harness the power of a thermonuclear reaction in my furnace?\" Foy's pursuit of the ultimate fire came to an unfruitful end in an out-of-control thermonuclear fusion."
+                },
+                "Icon": "IconRelic_107_1.png"
+            },
+            {
+                "Name": {
+                    "CH": "火匠的御火戒指",
+                    "EN": "Firesmith's Ring of Flame-Mastery"
+                },
+                "Desc": {
+                    "CH": "有着火焰标志的戒指，是火匠一族中最高荣誉的象征。",
+                    "EN": "A ring with a symbol of flames. It is the highest symbol of honor among the Firesmith clan."
+                },
+                "Story": {
+                    "CH": "九百度的篝火能烧土成陶，上千度的炉火能熔断铜锡…越是本质的塑造，越渴求着极限的温度。<br><br>军团的生物渴望着从物质形态中剥离开来，祈求着只有毁灭热浪才能带来的更新质变。<br><br>技艺纯熟的火匠大师能够将炉火提升到不可思议的程度：烈焰的黑体辐射呈现蓝色光谱，几与濒死的恒星相近。火匠皆是掌控烈焰的天才，但只有其中佼佼者才被授予象征大师技艺的御火戒指。<br><br>战争熔炉早已不分匠人与匠材，锤炼着反物质生灵的火匠大师们也成为了毁灭武器的一部分。<br><br>「铸器由炉温决定，炉温由火匠决定。」对掌握毁灭技艺的火匠们来说，这再理所当然不过了。",
+                    "EN": "A 900-degree kiln can turn clay into ceramic, a 1000-degree furnace can melt tin and copper... As one pursues a purer creation, one must also pursue a more extreme temperature.<br><br>Creatures of the Legion crave for separation from the material existence, longing for the fundamental mutations that can only be brought forth by the scorching heat waves of Destruction.<br><br>A highly-skilled master Firesmith can raise the forge's temperature to unbelievable levels — the flame's black-body radiation would exhibit the blue spectrum like that of a dying star. Firesmiths are also geniuses at controlling flames, but only the best among them are bestowed with a ring of flame-mastery as a mark of their superb skill.<br><br>The Warforge had long ceased to differentiate between the smith and the smithed. All those Firesmith masters who had been smelting the Antimatter Creatures had also become parts of the Weapons of Destruction<br><br>\"The smelting depends on the temperature, and the temperature depends on the Firesmith.\" This is matter-of-fact knowledge to any Firesmith who can control the art of Destruction."
+                },
+                "Icon": "IconRelic_107_2.png"
+            },
+            {
+                "Name": {
+                    "CH": "火匠的阻燃围裙",
+                    "EN": "Firesmith's Fireproof Apron"
+                },
+                "Desc": {
+                    "CH": "铁匠围裙没有多余的装饰，只有皮革纹理与家族标识清晰可见。",
+                    "EN": "A blacksmith's apron without any superfluous adornment. The texture of the leather and the family emblem are clearly visible."
+                },
+                "Story": {
+                    "CH": "反物质军团将衰亡的「战争熔炉」赠予火匠，让他们在烈焰世界中自由锻造。<br><br>在熔岩灼目的世界里，只要锤炼不止，新生与毁灭便不再是二元对立。<br><br>苏鲁特擅长利用活火山中喷涌的熔浆，为军团的生灵注入一道暴戾的毁灭气息。无论剧毒气体的沸动、还是热熔岩浆的翻滚，都不能打断苏鲁特淬火的专注。热浪喷溅着苏鲁特的围裙，那是由火巨蜥皮制成的阻燃衣料，待熔浆退去，皮革表面依然光洁如新。<br><br>大量的军团战力，在洪炉中被反复锤炼，直到肉体和武器在火匠的熔锤下结为一体，成为毁灭的武器。<br><br>「无与伦比的毁灭之力……」驾驭火焰的工匠们从不掩饰他们寄托在武器中的可怖愿望。",
+                    "EN": "The Antimatter Legion gifted the dying Warforge to the Firesmiths, letting them forge to their hearts' desire in a fiery world.<br><br>In this scorching world of lava, as long as the smelting and hammering never ceased, creation and destruction were no longer polar opposites of each other.<br><br>Surtur was especially good at using the molten magma that erupted from active volcanoes to infuse the Legion's creatures with a violent aura of destruction. Neither the bubbling of toxic gases nor the gurgling of magma could interrupt Surtur's concentration at the forge. Though burning waves of molten rock would splash on Surtur's fireproof apron of giant firelizard skin, the leather never lost its luster when the flames faded.<br><br>A massive proportion of the Legion's fighting forces were repeatedly hammered and smelted in the forge until their flesh and weaponry were fused together under the hammers of the Firesmiths, becoming weapons of Destruction.<br><br>\"This incomparable power of destruction...\" The Firesmiths who control the flames have never hidden the terrible aspirations they place in their weapons."
+                },
+                "Icon": "IconRelic_107_3.png"
+            },
+            {
+                "Name": {
+                    "CH": "火匠的合金义肢",
+                    "EN": "Firesmith's Alloy Leg"
+                },
+                "Desc": {
+                    "CH": "金属材质的义肢，表面上缠绕着火焰的立体花纹。",
+                    "EN": "A prosthetic produced from metallic alloy. Its surface is entwined with vivid fiery carvings."
+                },
+                "Story": {
+                    "CH": "旧日监牢主人担忧失去世间无二的锻造技术，只好用低劣的手段束缚着火匠一族——在被禁锢的岁月里，火匠的族长无一例外都必有腿部缺陷。<br><br>毁灭的主人解放了被囚禁的火匠一族，毁灭印记赋予了火匠们用之不竭的力量。<br><br>离开牢笼之后，火匠族长无法再像常人一般行动自如，但他获得了真正的自由——不再因卓越的技艺而被囚禁的自由。族长将怨恨与屈辱倾注其中，锤击数日也不会感到疲惫。顽固而高傲的反物质生灵在一次次锤击下，不得不改变形态，屈从于毁灭者的改造。<br><br>纵使牢狱不再有形，火匠对铸造的痴狂又何尝不是一种牢笼呢。<br><br>「血肉是种拖累，铸造亦是毁灭。」族长看着残缺的匠人越来越多，不禁感慨道。",
+                    "EN": "In the old days, the prison masters feared losing the extraordinary arts of Firesmithing, so they would employ the most despicable tricks to incarcerate the Firesmith clan — all the chiefs of the Firesmiths would undoubtedly suffer deformities in the legs in those days of imprisonment.<br><br>It was the Master of Destruction that set free the imprisoned Firesmith clan and bestowed upon them the mark of Destruction which in turn granted the Firesmiths unlimited power.<br><br>Despite the inability to move around like an able-bodied man, the chief of Firesmith obtained true freedom, for he was no longer imprisoned just for his extraordinary skills and talents in the art of Firesmithing. The chief poured in all his resentment and humiliation into the forge and would never be tired, not even by days of non-stop hammering. Upon one hammering after another, the once stubborn and proud antimatter creatures had to eventually change their form and give in to the remolding by the Destroyer.<br><br>Despite being free from any tangible cages, the Firesmiths' obsession with forging had become another form of prison for them, had it not?<br><br>\"Flesh and blood are a burden. Forging is also destruction.\" The chief looked at the ever-growing number of deformed Firesmiths and lamented."
+                },
+                "Icon": "IconRelic_107_4.png"
+            }
+        ]
+    },
+    {
+        "_id": 106,
+        "Name": {
+            "CH": "戍卫风雪的铁卫",
+            "EN": "Guard of Wuthering Snow"
+        },
+        "Icon": "71005.png",
+        "Skills": [
+            {
+                "CH": "受到伤害降低 <b>8.0%</b> 。",
+                "EN": "Reduces DMG taken by <b>8.0%</b>."
+            },
+            {
+                "CH": "回合开始时，如果装备者当前生命值百分比小于等于 <b>50.0%</b> ，则回复等同于自身生命上限 <b>8.0%</b> 的生命值，并恢复 <b>5.0</b> 点能量。",
+                "EN": "At the beginning of the turn, if the wearer's HP is equal to or less than <b>50.0%</b>, restores HP equal to <b>8.0%</b> of their Max HP and regenerates <b>5.0</b> Energy."
+            }
+        ],
+        "Items": [
+            {
+                "Name": {
+                    "CH": "铁卫的铸铁面盔",
+                    "EN": "Guard's Cast Iron Helmet"
+                },
+                "Desc": {
+                    "CH": "经过统一改造过的覆面头盔，通过内部的填充物使头部保持温暖。",
+                    "EN": "A standard-issue helmet that covers the head and face. It has lining inside to help keep its wearer warm."
+                },
+                "Story": {
+                    "CH": "在寒潮之中严阵以待绝非易事，但雅利洛-Ⅵ的银鬃铁卫们早已习惯如此。凛冽的寒风从面甲的缝隙里穿过，就像是寒铁小刀轻轻划过。<br><br>自天外而来的怪物再次整顿军势，全副武装的士兵在大守护者的命令下严阵以待。<br><br>负责前哨的士兵们常常需要在雪地中蛰伏数日，侦察怪物们的行动。长时间的霜寒将士兵的肌肤、汗水以及填充面甲的棉绒一同冻住，往往需要热水浇灌才能将头盔安全取下。筑城者的工匠们将铸铁面盔的片状金属板弧度偏折，尽可能减少重盔在风雪中承受的阻力。<br><br>坚硬、温暖、威风凛凛，铁卫面盔的制式就这样一直传承了下来。<br><br>「你们戴着这么个面罩，到底是怎么看得清路的？」每个执勤的铁卫都曾被询问过同一个问题。",
+                    "EN": "It was no easy task staying prepared for battle in the Eternal Freeze, but Jarilo-VI's Silvermane Guards are used to it. The sharp cold wind howled through the gaps in the helmet, slashing skin as if it were icy razor-blades.<br><br>The monsters from beyond the sky renewed their formation, and soldiers armed to the teeth stood ready under the command of the Supreme Guardian.<br><br>Vanguards stationed forward often need to hunker down in the snow for days at a time as they look out for any monster activity. After being exposed to the elements for such a long time, the soldiers' skin, sweat, and the velvet lining of their helmet will freeze and stick together, such that hot water must be poured over their helmets for safe removal. The Architects' craftsmen then altered the curvature of the cast iron helmet's metal plates, minimizing the air resistance of the heavy helmet in the snow.<br><br>Sturdy, warm, majestic — these traits of the Silvermane Guard's helmet were passed down for generations.<br><br>\"How can you even see with that thing on?\" Every patrolling guard has been asked this question."
+                },
+                "Icon": "IconRelic_106_1.png"
+            },
+            {
+                "Name": {
+                    "CH": "铁卫的银鳞手甲",
+                    "EN": "Guard's Shining Gauntlets"
+                },
+                "Desc": {
+                    "CH": "闪耀着银光的金属手甲，复合的机械结构深藏其中。",
+                    "EN": "Metal gauntlets that give off a silvery sparkle. A complex mechanical structure is hidden within its design."
+                },
+                "Story": {
+                    "CH": "身携毁灭印记的入侵者阻断了近卫队的去路，拉斯洛 · 朗道命令队员保护守护者撤离，自己则独自留下断后。<br><br>即便是银鬃铁卫中最骁勇善战的戍卫官，也没有办法在怪物洪流中全身而退。<br><br>凶狠野蛮的怪异生物叫嚣不歇，猛烈的攻势如同疾风骤雨，尽管孽物们从未停止过冲锋，但未能突破朗道孤身固守的防线。激烈的攻防漫长持久，拉斯洛疲于招架，直到援军出现，他才体力不支地昏厥过去。士兵们发现，拉斯洛在惨烈的战斗中失去了双手。<br><br>筑城者最好的工匠铸造了精致的手甲赠予英雄，让他终能重执军旗。<br><br>「美中不足啊，」拉斯洛看着精致的手甲，喃喃说道，「这双手再也感受不到琴弓的震颤了。」",
+                    "EN": "After the invaders carrying the marks of Destruction cut off the guard unit's retreat, Laszlo Landau ordered his troops to protect the Supreme Guardian and escape while he stayed behind to hold off the enemy.<br><br>Even the most valiant captain among the Silvermane Guards could not retreat unscathed from the swarms of monsters.<br><br>The terrifying cries and ferocious assaults of the twisted monsters were unrelenting. Despite their incessant charges, none of these monstrosities managed to break the lone defense line set up by Landau. The unending fierce battles gradually exhausted Laszlo, but he managed to hold on until reinforcements finally showed up. It was only then that he collapsed into unconsciousness. The soldiers found out that Laszlo had lost both of his hands in the battle.<br><br>The Architects' best blacksmith forged a pair of exquisite gauntlets to bestow upon the hero, such that he may once again hold up the Silvermane Guards banner.<br><br>\"The only regret,\" Laszlo lamented to himself as he marveled at the gauntlets, \"is that I will no longer be able to feel the vibration of the bow.\""
+                },
+                "Icon": "IconRelic_106_2.png"
+            },
+            {
+                "Name": {
+                    "CH": "铁卫的旧制军服",
+                    "EN": "Guard's Uniform of Old"
+                },
+                "Desc": {
+                    "CH": "熨烫妥帖的银鬃铁卫旧制军服，结实的排扣将布料压出褶痕。",
+                    "EN": "A neatly-ironed uniform of the Silvermane Guards from long ago. The sturdy buttons press creases in the fabric."
+                },
+                "Story": {
+                    "CH": "歌德家祖传的旧款军服长期被压在箱底，只有属于军人的荣誉才能将之唤回世间。<br><br>面对毁灭士卒的蛮荒推进，银鬃铁卫誓守天险，早已经没有退路。<br><br>维瓦洛保卫战中，霍尔斯 · 歌德率领敢死队苦守隘口长达数月，直到增援的号角回荡山谷，众人才知道英雄们早已尸骨无存。大守护者阿丽萨在嘉奖仪式上亲手为英勇的霍尔斯 · 歌德后人别上荣誉勋章，小歌德身穿旧制军服，代表逝去的英雄们，挺起了胸膛。<br><br>小歌德看到的是军服和勋章，而大守护者看到的却是英雄们留下的遗产——贝洛伯格的未来。<br><br>「霍尔斯 · 歌德是真正的战士，你应以歌德之姓为豪。」这句话是年轻的歌德对大守护者仅有的记忆。",
+                    "EN": "An old-fashioned Silvermane Guard uniform passed down for generations in the Goethe family. This uniform has long been buried at the bottom of a chest, and only a soldier's honor might be worthy of its return to the world.<br><br>As the soldiers of Destruction marched ever closer, the Silvermane Guards swore to defend the last barrier even when there was no possibility of a retreat.<br><br>During the Defense of Vevalo, Horace Goethe led his squad in the months-long defense of a key mountain pass. When the trumpets of arriving reinforcements finally sounded in the valley, that valiant company of heroes was long gone, and even their remains were nowhere to be found. At the commendation ceremony, Supreme Guardian Alisa pinned a medal of honor on Horace Goethe's young son. The boy stood upright in this old-fashioned uniform, representing those who had made the ultimate sacrifice.<br><br>The young Goethe junior saw uniforms and medals on that day, but the Supreme Guardian saw so much more. She witnessed the greatest legacy left behind by heroes — the future of Belobog.<br><br>\"Horace Goethe was a true warrior. You should be proud to bear the Goethe name.\" This was the young Goethe's only memory of the Supreme Guardian."
+                },
+                "Icon": "IconRelic_106_3.png"
+            },
+            {
+                "Name": {
+                    "CH": "铁卫的白银护胫",
+                    "EN": "Guard's Silver Greaves"
+                },
+                "Desc": {
+                    "CH": "坚硬的白银色金属护胫，注重防护的同时，足够轻巧又保暖。",
+                    "EN": "A pair of hard, silver-white metal greaves. They provide protection while also being lightweight and warm."
+                },
+                "Story": {
+                    "CH": "银鬃铁卫野战部队常因战术需要，不得不在齐腰深的积雪中日行千里。长途奔袭的疲惫、严重的冻伤考验着战士们的双足。<br><br>漫漫的雪地远征，偶尔会遇到一些久违的老友。<br><br>负责雪原游击的银鬃铁卫时常在营地里听见冰原狼的长嚎，这种可怜的生物也在入侵者的铁蹄下流离失所。野战中队的耶格尔士官本是猎户出身，将狼鬃做成皮草制品是他的看家本领。而在漫无止境的寒潮来临之后，他极少再见到这些凶猛野兽。寒夜里，少数冰原狼放下戒备心，凑近铁卫的营火，伏卧在耶格尔身旁一言不发。黎明时分，这些野兽在温暖的梦境中永久睡去。<br><br>耶格尔士官将处理过的狼鬃填进士兵的白银护胫里，让他们的远行稍微好受一些。<br><br>「冰原狼还没有彻底失去家园，我们也一样。」耶格尔士官如此表达对冰原狼的怜惜。",
+                    "EN": "The Silvermane Guard field battalions often found themselves forced to march for miles in deep snow due to tactical needs. Exhaustion induced by the long-range raids and awful frostbite on their feet were the bitter ordeals all soldiers had to endure.<br><br>The long march across the Snowy Plains, however, would occasionally bring back friends from the old days.<br><br>Silvermane Guards tasked with patrolling the Snow Plains will often hear the howls of direwolves. These pitiful creatures were also driven from their homes by the invaders. Field Company Sergeant Jaeger, who came from a family of hunters, was skilled at making fur cloaks from direwolf manes. However, after the onset of the Eternal Freeze, he rarely saw these ferocious animals. Occasionally, on cold winter nights, a direwolf desperate for warmth would approach the guards' campfire and silently lie down right next to Jaeger, falling into warm, pleasant dreams. After dawn, however, the beast would never wake up again.<br><br>Sergeant Jaeger would often stuff the processed wolf mane into the soldiers' silver greaves to alleviate the pain during their long march on foot.<br><br>\"The direwolves haven't completely lost their home, just like us,\" Sergeant Jaeger thus lamented the plight the direwolves."
+                },
+                "Icon": "IconRelic_106_4.png"
+            }
+        ]
+    },
+    {
+        "_id": 105,
+        "Name": {
+            "CH": "街头出身的拳王",
+            "EN": "Champion of Streetwise Boxing"
+        },
+        "Icon": "71004.png",
+        "Skills": [
+            {
+                "CH": "物理属性伤害提高 <b>10.0%</b> 。",
+                "EN": "Increases Physical DMG by <b>10.0%</b>."
+            },
+            {
+                "CH": "当装备者施放攻击或受到攻击后，其在本场战斗中攻击力提高 <b>5.0%</b> ，最多叠加 <b>5.0</b> 层。",
+                "EN": "After the wearer attacks or is hit, their ATK increases by <b>5.0%</b> for the rest of the battle. This effect can stack up to <b>5.0</b> time(s)."
+            }
+        ],
+        "Items": [
+            {
+                "Name": {
+                    "CH": "拳王的冠军护头",
+                    "EN": "Champion's Headgear"
+                },
+                "Desc": {
+                    "CH": "防护效果极佳的拳击护头，与物件主人的脸型完美贴合。",
+                    "EN": "Boxing headgear that provides excellent protection. It perfectly fits the shape of the owner's face."
+                },
+                "Story": {
+                    "CH": "混迹街头的林赛从未考虑过正经拳赛的邀约，打一开始她就不相信有人能击败自己，更不必说是个半百老人。<br><br>自称拳击教练的老人为林赛准备好护具，并向林赛发出挑战，如若胜利便要林赛成为她的徒弟。<br><br>林赛不屑于繁复的穿戴，将老人递来的护具弃置一旁。原以为自己能够凭借反应速度轻松取胜，却没想到被三步之内被老人近身，快拳直取面门。在短暂的昏厥之后，林赛将拳击护头捡起，在狭小的视野中，她看到了一个崭新的世界。<br><br>「这就是拳击手的拳头吗？有意思，你要是打算教我的话，就得让我成为最强的。」<br><br>尽管嘴上颇有抱怨，林赛还是愿赌服输。她佩戴起护具，正式跨入拳击的世界。",
+                    "EN": "Having grown up on the streets, Lindsay had never thought of boxing in official matches for she never believed she could be defeated by anyone, let alone someone who already has a foot in the grave.<br><br>The old lady calling herself a boxing coach provided Lindsay with a full set of protective gear and challenged the young girl to a bout, demanding Lindsay to train under her if the old lady managed a win.<br><br>Lindsay was too proud to use the complicated protective gears and tossed them all aside. She thought she could rely on her quick reactions for an easy win, but the old lady got near her in three strides and landed a blow straight to her face. When Lindsay regained consciousness, she picked up the boxing headgear she had tossed aside. Through the narrow opening of the headgear, she saw a brand-new world.<br><br>\"So, these are the fists of a true boxer, huh? Interesting. If you want teach me, then train me to be the strongest boxer that ever lived.\"<br><br>Though a bit begrudgingly, Lindsay accepted that she had lost the bet. Now, wearing protective equipment for the first time, she officially stepped into the world of boxing."
+                },
+                "Icon": "IconRelic_105_1.png"
+            },
+            {
+                "Name": {
+                    "CH": "拳王的重炮拳套",
+                    "EN": "Champion's Heavy Gloves"
+                },
+                "Desc": {
+                    "CH": "保养得极好的拳击手套，细微的破损并不影响实际的使用。",
+                    "EN": "A pair of boxing gloves kept in excellent condition. Some slight wear doesn't hinder their effectiveness."
+                },
+                "Story": {
+                    "CH": "初入拳场时的林赛拳法犀利，只懂得进攻，却不懂得如何防御。<br><br>街头的经验并不完全能够在围绳擂台上适用，伊卡翠娜安排的拳赛挫去了野小子的高傲。<br><br>在地方赛事中受挫之后，她原本高高在上的尊严和自信散落一地，不得不开始思考伊卡翠娜教给她的攻防节奏。原本只懂得挥拳的林赛仿佛被格斗女神亲吻，逐渐理解了攻防转换的趣味。当她回过神来，第一次发现凝胶护指已经断裂，而那双拳套也已浸满了血液与汗水。<br><br>「你要找到自己的节奏，不要掉进对手的陷阱里。」<br><br>林赛恍惚间理解了伊卡的箴言，也明白了温情似水的眼神，一向严厉的伊卡早已将她视若己出。",
+                    "EN": "When Lindsay first entered the boxing ring, her fighting style was utterly unbalanced, for she only knew how to attack but never how to defend. <br><br>All her years of street fighting were inadequate to prepare her for the fight in the ring. The match arranged by Ekaterina put Linsay into her place.<br><br>A series of successive defeats in local fights shattered Linsay's arrogance and deeply humbled her, forcing her to reflect on the balanced offensive and defensive rhythm that Ekaterina was teaching her. As if kissed by the goddess of combat, this once-stubborn street fighter gradually came to understand the significance and joy of balancing offense with defense. The next thing she knew, her hand wraps were torn and her gloves soaked with sweat and blood.<br><br>\"Never let yourself fall into your opponent's traps. Remember your own rhythm.\" <br><br>Now Linsay finally came to appreciate Ekat's words and her loving gaze. The usually stern Ekat had long loved Lindsay like she would her own child."
+                },
+                "Icon": "IconRelic_105_2.png"
+            },
+            {
+                "Name": {
+                    "CH": "拳王的贴身护胸",
+                    "EN": "Champion's Chest Guard"
+                },
+                "Desc": {
+                    "CH": "拳击手的专业护胸，外罩和内衬垫相互组合，既保障了安全又不影响技术发挥。",
+                    "EN": "A boxer's professional-level chest guard. The outer and inner padding is designed to provide protection while not hindering movement."
+                },
+                "Story": {
+                    "CH": "拳王争夺战前夜的训练馆如同往日，快速而又沉重的拳头将沙袋击打得嘶嘶作响。<br><br>汗水浸透了贴身的护胸，灼热的蒸汽将林赛和现实隔离开来，她想要逃避。<br><br>林赛竭力控制着情绪，汗水混杂泪水在她的面孔上反射微光。深夜里，她卸下拳击护胸，在内侧写上「伊卡」的名字，她想为这个名字许下胜利的承诺。这是通向拳王的关键比赛，也是林赛第一场没有教练陪伴的比赛。走上擂台前，林赛对着镜头骄傲地挺起胸膛。<br><br>「林赛…你和我的女儿竟然有着一样的名字。当她离开时，我以为世界已经崩塌了，直到我遇见了你。谢谢你，林赛。」<br><br>「保护我，伊卡。」最重要的名字正贴着心脏。",
+                    "EN": "The scene in the training gym on the night before the championship fight was like the old days. The sounds of quick and heavy punches on the sandbag echoed throughout the gym.<br><br>Sweat soaked through her chest guard and the scorching steam detached Lindsay from reality, making her crave to escape it all.<br><br>Lindsay tried her best to control her emotions as her face glimmered with sweat and tears. Late into the night, she finally took off her chest guard and wrote the name \"Ekat\" on the inside. She wants to swear she would achieve victory for this name. This was a key match in Lindsay's path to becoming the boxing champion, and her first fight without her coach by her side. Before Lindsay stepped into the ring, she held out her chest proudly to the camera.<br><br>\"Lindsay.. I couldn't believe you share the same name with my daughter. I always thought I was done with the world for good when she passed, until I finally met you. Thank you, Lindsay.\"<br><br>\"Protect me, Ekat.\" The most important name was right by her heart."
+                },
+                "Icon": "IconRelic_105_3.png"
+            },
+            {
+                "Name": {
+                    "CH": "拳王的弧步战靴",
+                    "EN": "Champion's Fleetfoot Boots"
+                },
+                "Desc": {
+                    "CH": "巧妙地将皮革和网结合，采用了厚鞋垫、薄鞋底的设计，保证了脚步灵活。",
+                    "EN": "Intricately crafted from leather and mesh, the combination of a thick insole and thin outsole ensures the wearer can be agile on their feet."
+                },
+                "Story": {
+                    "CH": "身材娇小的林赛以快速灵动的出拳风格而闻名，翩跹的步法轻快得如蝴蝶穿花。<br><br>尽管对手的快拳凌厉如雨，却始终只能与林赛擦肩而过，这便是招牌的「林赛舞步」。<br><br>为了训练林赛的特殊步伐，伊卡翠娜将街头少女带到上流的舞会里，手牵着手，旋转接着旋转……林赛从磕磕绊绊到逐渐跟上脚步，她好像明白了，这个自称是拳击教练的老人，似乎不仅是教练这样简单。在迷离的舞池里，林赛心中某处柔软的地方突然被一道奇妙的感觉击中。<br><br>「想再跳一支舞吗？」<br><br>街头出身的林赛从未想过会有这样的体验，她望着伊卡翠娜澄澈的双眼，无法拒绝。",
+                    "EN": "With a rather petite figure, Lindsay became famous for her fast punches and nimble footwork that allowed her to dance in the ring like a fluttering butterfly amidst flowers.<br><br>Regardless of how fast her opponents could throw a punch, all their strikes could never hit Lindsay. Such was the power of what was known as Lindsay's Dance.<br><br>To train Lindsay's unique footwork, Ekaterina took the street urchin to a high-society ball, where they danced hand in hand, spin after spin... Though clumsy at first, Lindsay eventually got the hang of the refined dance steps. She realized that there was more to this old boxing coach than met the eye. Among the flowing sea of dancers, a soft spot in Lindsay's heart was suddenly struck by a magical feeling.<br><br>\"One more dance?\"<br><br>Lindsay's upbringing on the street did not at all prepare her for such experiences. Seeing the twinkle in Ekaterina's eyes, how could Lindsay refuse?"
+                },
+                "Icon": "IconRelic_105_4.png"
+            }
+        ]
+    },
+    {
+        "_id": 104,
+        "Name": {
+            "CH": "密林卧雪的猎人",
+            "EN": "Hunter of Glacial Forest"
+        },
+        "Icon": "71003.png",
+        "Skills": [
+            {
+                "CH": "冰属性伤害提高 <b>10.0%</b> 。",
+                "EN": "Increases Ice DMG by <b>10.0%</b>."
+            },
+            {
+                "CH": "当装备者施放终结技时，暴击伤害提高 <b>25.0%</b> ，持续 <b>2.0</b> 回合。",
+                "EN": "After the wearer uses their Ultimate, their CRIT DMG increases by <b>25.0%</b> for <b>2.0</b> turn(s)."
+            }
+        ],
+        "Items": [
+            {
+                "Name": {
+                    "CH": "雪猎的荒神兜帽",
+                    "EN": "Hunter's Artaius Hood"
+                },
+                "Desc": {
+                    "CH": "巨大的雪原熊头部毛皮做成的兜帽。毛皮似乎寄宿鬼神，刀枪不入。",
+                    "EN": "A hood made from the head of a huge Snow Plains bear. The fur seems to be possessed by some ghost or deity, making it invulnerable to physical attacks."
+                },
+                "Story": {
+                    "CH": "在斯诺兰德的雪原上流传着属于猎人们的生存铁则：在「荒神」捕食的期间，绝对不能去山岭的南面，那位撼山震岳的白色巨熊不欢迎任何人。<br><br>作为协会指派的猎人，休格收到救援信号赶往岭南，未曾想到会遭遇到一场计划已久的埋伏。<br><br>从漫长的枪击休克中醒来之后，休格立刻意识到自己曾在生死关前躲过一劫；但在下一秒，休格就立刻意识到，危机并未过去，他正处在「荒神」的注视下。即便掌击再近再快，「荒神」毫无章法的攻击也未必能够全部命中…休格冷静地等待机会，抽出带着剧毒的骨刀，以超越常人的动作瞬间跃起，胜负就在这一瞬间逆转了。<br><br>他取下「荒神」的头颅与皮毛，在枪伤未愈的情况下，撑过了第一个风雪之夜。<br><br>多日后，猎人协会找到了无头的「荒神」遗体。那时开始，他们便知道该死去的猎人未能死去，而未曾预料的复仇者却因此诞生。",
+                    "EN": "The hunters' rule for surviving the Snow Plains of Snowland was simple enough — Never go to the south of the mountain during Artaius' hunting season, since that mountain-shaking white bear did not welcome anyone.<br><br>As the hunter sent by the association, Hugh went to the south of the mountain after receiving the rescue call. Never did he expect to walk right into an ambush long in the planning.<br><br>After waking up from a long shock induced by gunshots, Hugh immediately realized he just barely escaped death. However, he also realized his plight was far from over, for Artaius was staring right at him. Despite the short range and fast pace, some of Artaius' messy attacks were bound to miss... Hugh calmly waited for an opening, then he whipped out his bone blade soaked in poison and jumped up for an extraordinary strike in the blink of an eye. Their positions as the predator and the prey were reverted.<br><br>After removing Artaius' head and fur, he managed to survive the first night in snow despite his untreated gunshot wounds.<br><br>Days later, the Hunters Association located Artaius' the headless corpse. It was then they realized the hunter who was supposed to die had survived, and an unforeseen avenger was born."
+                },
+                "Icon": "IconRelic_104_1.png"
+            },
+            {
+                "Name": {
+                    "CH": "雪猎的巨蜥手套",
+                    "EN": "Hunter's Lizard Gloves"
+                },
+                "Desc": {
+                    "CH": "雪岩巨蜥的鳞爪与战术手套紧密缝合起来，可以在任何墙面上自由地攀爬悬挂。",
+                    "EN": "A pair of tactical gloves, on which scaly claws of snowrock lizards are tightly sewn. It can be used to safely climb up and hang on to any wall."
+                },
+                "Story": {
+                    "CH": "雪岩巨蜥既缺乏敏捷的身手，也没有压倒性的力量。它们可以在岩壁上蛰伏半月，直到猎物放松警惕、露出破绽，出现一击致命的机会。<br><br>然而注册猎人已经无法忍受等待，他们决心全面进入雪山猎捕休格，以消除迫近的威胁。<br><br>协会的注册猎人虽然强手如云，但他们从来都不是性命相托的伙伴。猎人们为了协会的天价赏金而聚齐在一起，也时常为赏金而互相背叛——毕竟，荒野上任何事情都可能发生…只要除掉老猎人休格，所有人就能赚到更多的赏金，他们达成了共识，并付出了相应的代价。<br><br>休格做足了准备，狩猎顶尖的猎户不比怪物更加容易，他必须比以往更加耐心，耐心才是猎人最重要的品质。<br><br>猎人公会的注册猎人不断减少，「不死休格」的恐惧感正在不断蔓延。",
+                    "EN": "Snowrock lizards lack agility and strength, but they can wait in ambush on a rock for two weeks for the precise moment when their prey lets down its guard, then finally striking a fatal blow.<br><br>Registered hunters, however, couldn't wait that long. They decided to march into the snowy mountains to hunt down Hugh and neutralize this approaching threat.<br><br>Though there were many exceptionally powerful talents among the registered hunters of the association, they were never comrades who had each other's back. Hunters congregated only for the hefty prize of the bounty, and would betray one another without hesitation for the right price. After all, anything could happen on these desolate plains... As long as the old hunter Hugh was taken care of, everyone would earn more bounty. That was their consensus, for which they paid the price.<br><br>Hugh made more than enough preparations. Hunting the top hunters would be no easier a task than hunting monsters. Hugh must be more patient than ever, for patience was always the most valued trait in a hunter.<br><br>Before long, the number of registered hunters in the Hunters Association began to dwindle, for the horror known as Hugh the Undead was spreading."
+                },
+                "Icon": "IconRelic_104_2.png"
+            },
+            {
+                "Name": {
+                    "CH": "雪猎的冰龙披风",
+                    "EN": "Hunter's Ice Dragon Cloak"
+                },
+                "Desc": {
+                    "CH": "由冰龙细鳞制作的披风，在奇妙光学折射下，近乎隐形。",
+                    "EN": "A cloak made from the fine scales of the Ice Dragon, nearly invisible under the brilliant refraction of light."
+                },
+                "Story": {
+                    "CH": "「冰湖之主」栉生独特的鳞片，在日光下能反射出炫目强光，潜入水中便能隐藏身形。很少有猎人能够掌握与无形巨物之间的对决。<br><br>多日后，猎人协会的注册猎人们找到被剥去鳞甲的冰龙遗体，那一瞬间，恐惧胜过了惊讶。<br><br>休格狩猎过成百上千头雪原上的野兽，每一次对手都独一无二，都弥足珍贵。对猎人来说，只有将猎物的个性与习性琢磨透彻，狩猎才能算是完成…「冰湖之主」对休格来说就像是雪原上的最后一块拼图，他必须完成狩猎，完成他的猎人之魂。<br><br>原赏金榜最高位的「冰湖之主」被「猎人休格」所替换， 丑陋的全面猎捕开始了。<br><br>所有猎人都必须做好成为猎物的觉悟，休格如此，背叛者更应该如此。",
+                    "EN": "The Lord of the Ice Lake, whose body was fully covered in unique scales that dazzlingly reflected the sunlight, could easily render itself invisible by diving underwater. Few hunters could handle a battle with such an invisible monstrosity.<br><br>Days later, the registered hunters of the association stumbled upon the Ice Dragon's carcass with its scales already peeled off. At that moment, their horror surpassed their shock.<br><br>The beasts that Hugh had hunted down numbered in the thousands, each and every one of which was uniquely precious. Only by reaching a thorough understanding of the prey's traits and habits would a hunter truly achieve the full completion of a hunt... For Hugh, the Lord of the Ice Lake was the last piece in the puzzle that was the Snow Plains. Hence, he must finish the hunt, to bring his Hunter's Soul to completion.<br><br>And now, the highest prized bounty was put on the head of Hugh the Hunter, instead of the Lord of the Ice Lake, marking the beginning of a hideous all-out hunt.<br><br>All hunters should be prepared to become the prey. It was so for Hugh, and even more so for those traitors."
+                },
+                "Icon": "IconRelic_104_3.png"
+            },
+            {
+                "Name": {
+                    "CH": "雪猎的鹿皮软靴",
+                    "EN": "Hunter's Soft Elkskin Boots"
+                },
+                "Desc": {
+                    "CH": "麋鹿柔软的毛皮包裹着增强动力靴，在雪原，猎户的鞋底只会留下浅浅的印记。",
+                    "EN": "A pair of enhanced power boots wrapped in soft elk fur. With these, the hunter will only leave shallow footprints behind in the Snow Plains."
+                },
+                "Story": {
+                    "CH": "即便身负重伤，体温不足以融化冰雪，在垂死之际的炬角大麋也能够成为最具致命性的野兽。<br><br>休格举起猎枪正对垂死的大麋时，他总是在想，那双能将人彻底瞪住的眼睛，和自己一模一样。<br><br>自从被注册猎人埋伏之后，休格的生命之火就早已经是风中残烛。他清楚自己之所以能够勉强生存，无非是他那鬼神不让的复仇念头，一旦他的欲念得到满足，他的生命也将随飞雪而去…尽管休格总是觉得脚步沉重，但是宽底的鹿皮软靴却没有留下任何足迹，他必须紧绷起精神面对生命中最后一次狩猎。<br><br>猎人协会在恐惧之中逐渐分崩离析，慌乱地肃清起背叛者，希望得到休格的饶恕，换来的却只是相互猜忌的自我毁灭。<br><br>休格没等到品尝完复仇成功的快感，便永远地倒在了雪原之上。",
+                    "EN": "Despite being deeply wounded and too weak to maintain a body temperature that can melt snow, a dying torch-antler elk was still a most dangerous beast.<br><br>Hugh pointed his hunting rifle straight at the dying elk. Looking at those awe-inducing eyes, he thought those reminded him of his own.<br><br>Ever since the ambush by the registered hunters, Hugh's life force had already become depleted like a dying candle in the wind. He was sharply aware that the only reason he managed to survive was due to his unyielding desire for revenge. Should it become satiated, his life would instantly come to an end, scattered like snowflakes... Despite his heavy footsteps, Hugh's large soft elk-skin boots did not leave any prints on the ground. He must stay sharp for the last hunt of his life.<br><br>Amid panic and hysteria, the Hunters Association began to crumble. They began to purge traitors in haste, hoping it could grant them Hugh's mercy. Instead, it only led to their own self-destruction by mutual distrust.<br><br>Hugh fell down for good on the Snowy Plains before he could get a taste of the pleasure of completing his revenge."
+                },
+                "Icon": "IconRelic_104_4.png"
+            }
+        ]
+    },
+    {
+        "_id": 103,
+        "Name": {
+            "CH": "净庭教宗的圣骑士",
+            "EN": "Knight of Purity Palace"
+        },
+        "Icon": "71002.png",
+        "Skills": [
+            {
+                "CH": "防御力提高 <b>15.0%</b> 。",
+                "EN": "Increases DEF by <b>15.0%</b>."
+            },
+            {
+                "CH": "使装备者提供的护盾量提高 <b>20.0%</b> 。",
+                "EN": "Increases the max DMG that can be absorbed by the Shield created by the wearer by <b>20.0%</b>."
+            }
+        ],
+        "Items": [
+            {
+                "Name": {
+                    "CH": "圣骑的宽恕盔面",
+                    "EN": "Knight's Forgiving Casque"
+                },
+                "Desc": {
+                    "CH": "如同宗教石雕宽恕女神的面具头盔，用以隐藏自己的相貌。",
+                    "EN": "A casque that resembles the religious stone statues of the Goddess of Forgiveness. It was used to hide the wearer's appearance."
+                },
+                "Story": {
+                    "CH": "肃静骑士从未在人前卸下过坚硬厚重的面具，肃穆的宗教面庞与萨菲娜的沉默共同塑造了难以呼吸的威圧感。<br><br>无论目中无人的恶魔，还是陷入疯狂的圣职，只会在肃穆的威压下露出本能的畏惧。<br><br>只有少数教廷的圣职知道，在那宗教盔面之下，是萨菲娜隐藏起的恶魔出身。教廷畏惧恶魔，又渴望恶魔的力量，这才有了矛盾的结果…俘获了幼年的恶魔，将她培养成骁勇的肃静骑士，却禁止她在人前露出真实的面孔，而是服从教宗的命令，化身为圣女的沉默骑士。<br><br>年龄相仿的圣女瓦妮拉曾亲自教导萨菲娜学习经文，她还记得烛光里恶魔的侧颜。<br><br>「我亲爱的萨菲娜，我见过你的面庞，我始终都记得。」圣女瓦妮拉在成年之后逐渐失明。",
+                    "EN": "The Solemn Knight had never taken off her hard and heavy casque before anybody. Safina's religious solemnity and silence projected an unbearable air of intimidation.<br><br>Haughty devils and mad clergy all instinctively cowered in fear before her solemn presence.<br><br>Only few of the clergy knew that Safina's devilish origins were concealed behind that casque of religiosity. The church both feared and craved for the devils' powers, which was how the conflicted result came to be... The church captured a newborn devil, trained her to become a valiant Solemn Knight, yet forbid her to ever reveal her true appearance, molded her to always obey the pontiff's order, and eventually made her the Maiden's silent knight.<br><br>Maiden Vanira was of a similar age to Safina, and she was the one who guided Safina to learn the scriptures. To this day, Maiden Vanira could still remember the devil's profile in candlelight.<br><br>\"My dear Safina, I have seen your face. I will remember it, always.\" Maiden Vanira gradually lost her eyesight after reaching adulthood."
+                },
+                "Icon": "IconRelic_103_1.png"
+            },
+            {
+                "Name": {
+                    "CH": "圣骑的沉默誓环",
+                    "EN": "Knight's Silent Oath Ring"
+                },
+                "Desc": {
+                    "CH": "装饰着教会纹样的银戒，镶嵌着看上去些许浑浊的宝石。",
+                    "EN": "A silver ring decorated with an ecclesiastical pattern, embedded with a rather cloudy gemstone."
+                },
+                "Story": {
+                    "CH": "教宗骑士同僚挥剑相向，庄严和礼仪逐渐崩塌，誓约守护的戒指开始变得浑浊不堪。<br><br>星海降下的力量赋予教会惩戒恶魔的实力，同时也传播了丧失人性的疯病。<br><br>疯病折磨的教宗骑士已经分不清礼仪与秩序，叫嚣着要驱逐出所有的恶魔后裔，让教会得到救赎。面对迫近圣女的威胁，萨菲娜没有犹豫的间隙，即便对方是净庭教会的骑士长，她也不能手下留情。<br><br>肃静骑士必须要保护好圣女，萨菲娜没有忘记。<br><br>「我亲爱的萨菲娜，你不必愧疚，这是觊觎星神力量的下场，理应如此。」教堂只剩下最后的圣女和守护骑士。",
+                    "EN": "Bit by bit, solemnity and decorum crumbled, and the Knights of the Church raised their swords against each other as the rings they swore to protect grew dim.<br><br>The power granted from the stellar seas gifted the Church the strength to punish devils, but also spread an insanity that ate away at human rationality.<br><br>Tormented by this madness, the Knights of the Church could no longer discern decorum and order, obsessed with expelling all devil-spawns for the salvation of the whole church. When these threats came for the Maiden, Safina had no time to hesitate. She cannot stay her hand even if her opponent was the Arch Knight of the Church of Purity Palace.<br><br>The Solemn Knight must always protect and defend the Maiden. Safina did not forget that creed.<br><br>\"My dear Safina, there is no need to feel guilty. This is the consequence of coveting the power of the Aeons.\" All there were left in the church were the last Maiden and her guardian knight."
+                },
+                "Icon": "IconRelic_103_2.png"
+            },
+            {
+                "Name": {
+                    "CH": "圣骑的肃穆胸甲",
+                    "EN": "Knight's Solemn Breastplate"
+                },
+                "Desc": {
+                    "CH": "厚重的胸甲装饰着净庭教会鲜明的符号，关节处也都密不透风。",
+                    "EN": "A heavy breastplate decorated with the distinctive symbols of the Church of Purity Palace. Even the joints are airtight."
+                },
+                "Story": {
+                    "CH": "肃静骑士的盔甲需要接受圣女瓦妮拉的祝福，这是缔结守护骑士誓约的仪式。<br><br>教廷曾用金属锁链绑住幼年恶魔的手脚。如今萨菲娜恳求将来自恶魔之乡的金属铸成铠甲，以便安葬时有故土傍身。<br><br>净庭教会的圣女仔细擦洗着盔甲上的罪孽，虔诚地献上神明的祷词，将久远的奇迹封印在胸甲上心脏的位置。教会并不相信恶魔的忠诚，但却坚信教义拥有净化一切的力量。萨菲娜沉默着，注视着复古的仪式赋予自己的责任。<br><br>圣女并不相信仪式本身的目的，没有什么能清洗掉莫须有的罪恶。<br><br>「我亲爱的萨菲娜，骑士可要保护好圣女啊。」瓦妮拉依靠在萨菲娜的胸甲上，听见剧烈的心跳声。",
+                    "EN": "The armor of the Solemn Knight must be blessed by Maiden Vanira, a ceremony where one makes a vow to become the guardian knight.<br><br>The Church once constrained the young devil's hands and feet in metal chains. Now, Safina appealed that her armor should be forged with metals from the land of devils, so that one day she may rest in peace alongside something from her homeland.<br><br>The Maiden of the Church of Purity Palace carefully washed the sins from the armor, recited reverent prayers to god, and sealed an ancient miracle on a point on the breastplate right above the heart. The Church did not believe in the loyalty of devils, but they were convinced that their doctrines could purify everything. Safina gazed in silence while this ancient ritual assigned the responsibility to her.<br><br>The Maiden did not believe that the ceremony had any purpose, or that there are any make-belief sins to be washed away.<br><br>\"My dear Safina, the knight must protect the Maiden well.\" Leaning against Safina's breastplate, Vanira could clearly hear the intense beating of Safina's heart."
+                },
+                "Icon": "IconRelic_103_3.png"
+            },
+            {
+                "Name": {
+                    "CH": "圣骑的秩序铁靴",
+                    "EN": "Knight's Iron Boots of Order"
+                },
+                "Desc": {
+                    "CH": "净庭教会骑士的标准骑士长靴，脚后跟上刻印着简短的单词：「秩序」。",
+                    "EN": "Standard boots distributed to the Knights of the Church of Purity Palace, with a simple word carved on their heels: Order."
+                },
+                "Story": {
+                    "CH": "净庭教会已经崩塌，萨菲娜卸下骑士的铁靴，和圣女瓦妮拉踏上前往恶魔之乡的远行。<br><br>在圣女的恳求下，萨菲娜没有让任何教宗骑士将疯病带离教廷，秘密被永远留在她们心中。<br><br>不知何时，人们听说了一个传言：被教会驱逐的恶魔后裔附身在圣洁的肃静骑士身上，邪恶的魔女驱使着骑士破坏了教宗的秩序…传言化为了「真相」，虔诚的信徒将绝望和疯狂倾泻在肃静骑士的身上，将她看作是一切的罪魁祸首。<br><br>失去了容身之所之后，圣女提出了归乡远行的建议。<br><br>「从此，我成为了魔女，你变回了恶魔。」面对瓦妮拉的说法，萨菲娜无法否认。",
+                    "EN": "After the collapse of the Church of Purity Palace, Safina took off the knight's iron boots and embarked with Maiden Vanira on a long journey to the land of devils.<br><br>At the request of the Maiden, Safina did not let any Knights of the Church carry the madness out of the Church. This secret was forever buried deep down in their hearts.<br><br>No one knew when this rumor started — a devil-spawn once banished by the Church had possessed the holy Solemn Knight, and an evil witch drove the Knight to break down the order of the pontiff... As time passed, rumors became truths. The devout followers of the Church blamed it all on the Solemn Knight, dumping all their desperation and madness onto her, deeming her as the source of all disasters.<br><br>After losing their place of refuge, the Maiden suggested that they should set forth for their homeland.<br><br>\"Henceforth, I will become a witch, and you will return to being a devil.\" Safina could not deny the validity of Vanira's statement."
+                },
+                "Icon": "IconRelic_103_4.png"
+            }
+        ]
+    },
+    {
+        "_id": 102,
+        "Name": {
+            "CH": "野穗伴行的快枪手",
+            "EN": "Musketeer of Wild Wheat"
+        },
+        "Icon": "71001.png",
+        "Skills": [
+            {
+                "CH": "攻击力提高 <b>12.0%</b> 。",
+                "EN": "ATK increases by <b>12.0%</b>."
+            },
+            {
+                "CH": "使装备者的速度提高 <b>6.0%</b> ，普攻造成的伤害提高 <b>10.0%</b> 。",
+                "EN": "The wearer's SPD increases by <b>6.0%</b> and Basic ATK DMG increases by <b>10.0%</b>."
+            }
+        ],
+        "Items": [
+            {
+                "Name": {
+                    "CH": "快枪手的野穗毡帽",
+                    "EN": "Musketeer's Wild Wheat Felt Hat"
+                },
+                "Desc": {
+                    "CH": "一顶绑着野生麦穗的牛仔毡帽，传奇枪手奥克莱的标志。",
+                    "EN": "A cowboy hat decorated with wild wheat — a mark of the legendary Musketeer Oakley."
+                },
+                "Story": {
+                    "CH": "奥克莱的毡帽继承自去世的父亲，她把野穗别在帽带上作为装饰，看上去可爱了许多。赏金客们有意无意地创作自己的标志，希望可以留给后人作为传说的开头。<br><br>星际和平公司利用悬赏招募奇人异士去追缉星际盗团，而独来独往的奥克莱总是选择那些难捱的荒漠边陲。<br><br>烈日数日，寒夜也数日。孤独的旅途中，奥克莱枕着毡帽、靠近篝火便能悄然入梦。梦境中总会被一名神秘枪手闯入，自称是来自远方的赏金客，他身形瘦削，却目光锐利。枪手要求奥克莱的父亲同他在正午决斗，枪声响起，毡帽飞离，父亲仰面倒下，随即便是母亲的嚎啕哭声……<br><br>小奥克莱怔怔地盯着神秘枪手，那人的动作一气呵成，父亲毫无胜算。<br><br>从梦中醒来，毡帽上留下泪水的痕迹。小奥克莱就是想要父亲那顶帅气的帽子，才开始学枪的。",
+                    "EN": "Oakley inherited this felt hat from her deceased father. Now that she tucked ears of wheat into the hat as ornaments, it looked much cuter than before. Bounty hunters, whether intentionally or not, always sought to craft emblems of their own, in the hope that these items could one day become the beginning of great legends.<br><br>The Interastral Peace Corporation offered bounties to enlist experts of the highest caliber to hunt down Interastral Pirates and Oakley, as one who always worked alone, forever sought out the most challenging regions of desolation among the farthest reaches of the world.<br><br>Days under the scorching hot sun were coupled with bitterly cold nights. In her lonely odyssey, Oakley could fall asleep with her head pillowed on her felt hat whenever she was near a bonfire. All her dreams were intruded by a mysterious gunslinger, who claimed to be a bounty hunter from afar. His scrawny figure was in sharp contrast with his fiercely stern gaze. The gunslinger challenged Oakley's father to a duel to the death at high noon. Shots were fired, a felt-hat was dropped, and Oakley's father was falling backwards to the ground, followed by the sounds of weeping and wailing from Oakley's mother...<br><br>Little Oakley gawked at the gunslinger in stupor, whose aptitude with a gun was so superb that her father could never stand a chance.<br><br>Waking up, there would be traces of damp tears on Oakley's felt hat. As a child, she learned how to shoot a gun only because she had wanted her father's handsome and stylish hat."
+                },
+                "Icon": "IconRelic_102_1.png"
+            },
+            {
+                "Name": {
+                    "CH": "快枪手的粗革手套",
+                    "EN": "Musketeer's Coarse Leather Gloves"
+                },
+                "Desc": {
+                    "CH": "表面已经部分开裂的皮革手套，握枪处磨损尤其严重。",
+                    "EN": "A pair of leather gloves with partially cracked surfaces. The part where one holds a gun is particularly worn out."
+                },
+                "Story": {
+                    "CH": "童年的奥克莱练习时不知疲惫，她在牧场中练习射击从日出开始，到日落为止。父亲有时为她的天赋暗自惊喜，有时又会为枪手的命运徒然忧愁。<br><br>只有母亲可怜她那双白皙的小手，埋怨父亲不应该教授女儿枪法。<br><br>从那场决斗之后，再到第一次悬赏任务完成，到后来名声大作，奥克莱已经戴着破旧的手套握枪多年。其他赏金客们并不理解她对手套的坚持，只有她自己才明白这其中矛盾的情感。那是母亲送给自己的饯别礼物。<br><br>固执着不支持自己学枪的母亲，又到底是下了怎样的决心呢？<br><br>那场决斗之后，母亲在奥克莱的怀中啜泣不止，奥克莱什么都没说，母亲已经知晓她的心意。",
+                    "EN": "Young Oakley practiced and practiced. She trained in the ranch from dawn to dusk. At times, her father felt surreptitiously surprised by and proud of little Oakley's talents, while other times he fretted over her future living the life of a musketeer.<br><br>Oakley's mother seemed to be the only one who actually cared and felt for young Oakley's tender little hands, often blaming Oakley's father for teaching her how to fire a gun.<br><br>From the time of that fateful duel to the time when she scored her first ever bounty earning much of her later fame, Oakley had used the same pair of worn gloves for years. Her peers didn't understand her insistence on wearing the same pair of broken gloves — Only she knew the conflicting emotions within those gloves, for they were the parting gifts her mother gave her.<br><br>What sort of emotional struggles must Oakley's mother have gone through, when she had been so stubbornly opposed to Oakley learning her way around guns?<br><br>After that duel, her mother wept unceasingly in Oakley's arms. Oakley didn't say anything, but her mother had already read Oakley's thoughts."
+                },
+                "Icon": "IconRelic_102_2.png"
+            },
+            {
+                "Name": {
+                    "CH": "快枪手的猎风披肩",
+                    "EN": "Musketeer's Wind-Hunting Shawl"
+                },
+                "Desc": {
+                    "CH": "看上去是有民族风格的编制披肩，内衬部分编织了能够防弹的纤维。",
+                    "EN": "A knitted cape in an ethnic style, lined with bulletproof fibers."
+                },
+                "Story": {
+                    "CH": "枪手绝不该在决斗时率先露出破绽，奥克莱能不动声色地填弹上膛，并瞄准目标。外人看来她那蓬松的斗篷好像一动不动，直到枪声响起，人们也未能理解这是如何做到的。<br><br>「细微的动作在披肩的掩护之下到位，决斗要在子弹出膛之前完成。」父亲曾反复叮嘱到。<br><br>无意撞上一伙持枪歹徒后，奥克莱冷静地站定，并开始观察现况。出枪之前，奥克莱犹如几百年未曾移动的磐岩，在歹徒行动之前，奥克莱早已完成了所有准备。在数声清脆的枪响结束之后，奥克莱故意放走了一个强盗，她需要给盗贼团体一个巧妙的威慑。<br><br>没有想法、没有表情，常常让对手觉得毫无胜算。这便是其他赏金客对奥克莱的评价。<br><br>决斗时的奥克莱更像是那个闯入梦中的神秘枪手，干净利落、没有一点多余的动作。当她意识到自己与仇敌越来越像时，不禁对自己嫌弃起来。",
+                    "EN": "A musketeer should never show their opening first when dueling. Oakley could discreetly load bullets into the chamber and lock onto the mark without alarming her targets. For any onlookers, her loose-fitting cloak never moved one inch until the shot was fired. No one could figure out how she did it.<br><br>\"Intricate moves should be done under the cover of the cloak. The duel must be over before the bullet had left the gun.\" Her father repeatedly emphasized.<br><br>After accidentally encountering a group of armed bandits, Oakley calmly steadied herself and observed the situation. Before pulling out her gun, she had remained upright like a mountain rock that had not been moved in centuries. She finished all her preparations before the bandits could even move a finger. After a round of clear-sounding shots, Oakley intentionally let go of one bandit to send out a warning to the whole cohort.<br><br>Thoughtless, expressionless, often leaving her opponents with no hope of ever defeating her — that was how her fellow bounty hunters viewed Oakley.<br><br>While dueling, Oakley was more like that one mysterious intruding gunslinger in her dreams, with her brisk and clean shots and not a single superfluous move. She couldn't help but resent her own self when she realized that she was becoming more and more like her nemesis."
+                },
+                "Icon": "IconRelic_102_3.png"
+            },
+            {
+                "Name": {
+                    "CH": "快枪手的铆钉马靴",
+                    "EN": "Musketeer's Rivets Riding Boots"
+                },
+                "Desc": {
+                    "CH": "马靴有着V形剪裁的开口，看上去随性松弛，穿起来非常舒适。",
+                    "EN": "These riding boots have a V-shaped cutout. Appearing casual and loose, they are also very comfortable to wear."
+                },
+                "Story": {
+                    "CH": "漫长旅途的滋味并不好受，而形单影只的奥克莱早已习惯。奥克莱总是蹬上马靴，去往那些无人问津的边陲世界，领取微不足道的赏金。<br><br>因为她有一种直觉：那个神秘枪手也不是个合群的人，他们的相遇必然不是个热闹的地方。<br><br>得到口琴之后，断断续续的练习曲消磨掉了她大部分孤独的时间，路过的听众也不过狼蛛、沙尘以及风滚草而已。奥克莱独自消遣的技巧在旅程之中愈发熟练，曾有风儿为之驻足，曲终方散。公司向赏金客们提供了星际旅行的可能，孤独的枪手从不挑剔去往何方。<br><br>神秘的枪手销声匿迹已久，说不定自己只是在追逐着幻影。但是她只是一次又次地出发而已。<br><br>奥克莱笃信着，只要「野穗」的名声足够响亮，神秘枪手就会找上自己，就像当时他闯入牧场找上父亲一样。",
+                    "EN": "The journey was long and arduous, but Oakley was long used to such loneliness. She was always wearing her riding boots to march to the farthest reaches of the world, regardless of how meager a pay she would get<br><br>She had a hunch — that mysterious gunslinger must also be a man of seclusion. Their encounter would inevitably occur at a place frequented by few.<br><br>After coming by a harmonica, Oakley spent most of her alone time on intermittent practicing of songs. Her audience? No one but tarantulas, sandstorms, and tumbleweeds. Through her journey, Oakley was becoming better at coming up with techniques to kill time. It was said that wind had once stood and listened to Oakley's play on the harmonica, only leaving when the whole song came to an end. The IPC offered bounty hunters plenty of opportunities for interstellar traveling, and the destination was never a concern for this particular lone musketeer.<br><br>Sometimes Oakley did wonder if she was just chasing a phantom all this time, since that mysterious gunslinger was long gone without a trace. Sometimes it seemed that all Oakley ever did was to set out for one mission after another.<br><br>Oakley insisted, however, that as long as her fame as the Wild Wheat was far-reaching enough, the mysterious gunslinger would eventually show up at her door, just like how he once did at the ranch to duel her father."
+                },
+                "Icon": "IconRelic_102_4.png"
+            }
+        ]
+    },
+    {
+        "_id": 101,
+        "Name": {
+            "CH": "云无留迹的过客",
+            "EN": "Passerby of Wandering Cloud"
+        },
+        "Icon": "71000.png",
+        "Skills": [
+            {
+                "CH": "治疗量提高 <b>10.0%</b> 。",
+                "EN": "Increases Outgoing Healing by <b>10.0%</b>."
+            },
+            {
+                "CH": "在战斗开始时，立即为我方恢复1个战技点。",
+                "EN": "At the start of the battle, immediately regenerates 1 Skill Point."
+            }
+        ],
+        "Items": [
+            {
+                "Name": {
+                    "CH": "过客的逢春木簪",
+                    "EN": "Passerby's Rejuvenated Wooden Hairstick"
+                },
+                "Desc": {
+                    "CH": "枯木曾作发簪，枝梢有花苞初绽。而今往事已矣，花苞鎏金嵌入簪中，用以纪念新生的开始。",
+                    "EN": "A withered twig that was used as a hairstick, with new flower buds sprouting on the end. Now, the past is long gone, and the stick inlaid with parcel-gilt flower buds commemorates the beginning of a new life."
+                },
+                "Story": {
+                    "CH": "佚名之人自漫长的沉眠中醒来，遥远而熟悉的紧张感挥之不散，幻痛清晰锐利。过去种种成了锋利的碎片，自己的姓字也已忘却。<br><br>在漫无目的的流离中，他接饮落雪解渴，搏杀野兽充饥，信手斩下一截枯枝作木簪绾住长发。<br><br>黑发如山泉流水汩汩而出，皮下肌肉如江鲫翻涌般抽搐鼓动…奇妙的力量不断重塑着躯体，传来筋骨断开复又连接的苦楚。伴随着无数次幻痛折磨，支离破碎的过往开始缝合完整…他从水中窥觑自我倒影时，惨剧的始末也逐渐清晰。<br><br>直到水中的面孔不再陌生，佚名之人倏忽间看见枯枝生出了花芽。<br><br>他恍然醒悟。长生不死的诅咒其势甚烈，旧日的恩怨并未死去，他就是这条枯枝上新生的花朵。",
+                    "EN": "A distant and yet familiar feeling of nervousness wrapped around him, sharp and distinct with phantom pain, as the unnamed woke from his long and deep slumber. His past was shattered into razor-edged shards, and he forgot even his own name.<br><br>Wandering aimlessly, he drank melted snow to quench his thirst, hunted wild beasts to fill his stomach, and chopped a withered branch to use as a wooden hair-stick to fasten his flowing hair.<br><br>Like the incessantly flowing stream of a mountain spring, his long, black hair never ceased growing. His flesh twitched and throbbed beneath his skin, like river carps flipping and swarming... Fascinating powers ceaselessly reconstructed his body, bringing an everlasting pain of bones and tendons rupturing and healing. As countless phantom agonies and torments tore through his body, his shattered past was also beginning to come together... As he glanced at his own reflection in the water, the story of that tragedy gradually cleared in his mind.<br><br>When the face in the reflection was no longer a stranger's, the unnamed suddenly realized the dead branch was sprouting flower buds.<br><br>Epiphany struck him like lightning. The curse of immortality still raged on, and the grudge of past misgivings never died out. HE was now the newborn flower on this once-dead branch."
+                },
+                "Icon": "IconRelic_101_1.png"
+            },
+            {
+                "Name": {
+                    "CH": "过客的游龙臂鞲",
+                    "EN": "Passerby's Roaming Dragon Bracer"
+                },
+                "Desc": {
+                    "CH": "如水的珊瑚金与未知的兽革制成的腕甲，唯有龙脉一族的巧匠才能打造出这等非凡工艺。",
+                    "EN": "Bracers made from flowing coral gold and the leather of unknown beasts. Only master artisans from the Vidyadhara dragon race can create this kind of superior armor."
+                },
+                "Story": {
+                    "CH": "成双之物间似乎会遥相感应，佚名之人所持的护腕虽仅有一只，指尖触碰下却隐隐能感受到另一只的温度。<br><br>他闭上眼，试图全力捕捉与另一只护腕若有似无的联系：它的位置，它的主人。<br><br>一只修长有力的手曾穿戴另一只腕甲，手执长枪与自己比武，枪尖寒芒坠如流星。腕甲的主人也曾与自己推杯换盅，望向冷月，彼此无言沉默；最后，也是那人和自己一意孤行，将挚爱变成了怪物，让所有人坠入无穷悔恨的渊薮。<br><br>成双之物总有一天会再度相逢，而此间绵长仇恨应如陈酒冰冷浓烈，慢慢啜饮，直至一切恩怨清偿为止。<br><br>另一只护腕的主人也有同感么？他不想知道。",
+                    "EN": "It seems that pairs of objects have telepathic connections with each other. Though the unnamed only had one bracer in his possession, his fingertips could still faintly feel the temperature from the other.<br><br>He closed his eyes, trying his best to extract any information about the other bracer from the tenuous connection, be it its location or master.<br><br>A slender yet strong hand once wore the other bracer. That owner, whose sharp spear glinted with a cold light and flourished like shooting stars, once sparred with the unnamed. That owner also once shared company and drinks with the unnamed, the two of them simply gazing at the moon with no words exchanged. However, in the end, it was also this person who stubbornly adhered to their plans with the unnamed, turned the beloved into a monstrosity, and pushed all into an abyss of eternal hatred and remorse.<br><br>Pairs of objects are destined for an eventual reunion. The long years of grudges and hatred between them should be savored, like ice-cold aged liquor, one slow sip after another until the bottle of resentment is finally empty.<br><br>Would the wearer of the other bracer feel the same? The unnamed didn't want to know."
+                },
+                "Icon": "IconRelic_101_2.png"
+            },
+            {
+                "Name": {
+                    "CH": "过客的残绣风衣",
+                    "EN": "Passerby's Ragged Embroided Coat"
+                },
+                "Desc": {
+                    "CH": "长摆残破的古旧风衣，绣纹被剑痕撕碎。肉体会快速愈合，但外衣却不能，正如人的痛苦。",
+                    "EN": "An old coat with a ragged hemline. The embroidery has been ruined by blade marks. Flesh heals quickly, but a coat does not, nor does a person's pain."
+                },
+                "Story": {
+                    "CH": "佚名之人漂泊在长久的放逐途中，一如尸骸，阻住尸骸去路的，是墨镜女子和高大铠甲。二人邀约未至，回绝的剑锋既出，缠斗之后，女人笑着提出了他无法回绝的交易。<br><br>于是，佚名之人接受邀请，获得全新的身份，再次回到文明与秩序之中。<br><br>佚名之人被带到裁缝铺里，量身制版、裁剪缝纫，作出体面的衣物…还有人为他修剪鬓发、整理仪表，重现旧日模样。恍惚间，他开始难辨今夕何夕，在暧昧的旧时光里，原本准备将亲手打造的玉壶相赠友人，却在暗下决心之后，惊觉伊人不在。<br><br>他意识到倚之行走世间的一切：这具形骸、这次生命、这段爱恨……乃至这身衣物，一切都是借贷。<br><br>他要将这一切全数偿还，然后呼出最后一口气。",
+                    "EN": "The unnamed roamed everywhere in his exile like a walking corpse, until a woman in sunglasses and a person wearing colossal armor stood in his way. Before they could extend their invitation, the unnamed had already unsheathed his sword in refusal. After an exchange of blows, the smiling woman offered a deal that the unnamed could not refuse.<br><br>The unnamed accepted the deal, obtained a new identity, and went back to the world of civilization and order.<br><br>The unnamed was brought into a tailor's shop, where his sizes were measured and presentable clothes were custom-made... People even dressed his hair, groomed his face, and made him regain his old appearance. In a trance, he began to lose track of time. In hazy memories of the olden days, he finally made up his mind to gift his bosom friend with his hand-made jade flask, only to realize with a shock that the person he longed for was no longer there.<br><br>He realized that everything he relied on to walk this earth — this body, this life, this love and hatred, and even this set of clothes — were just loaned items.<br><br>He will repay all of them in full, then draw his last breath."
+                },
+                "Icon": "IconRelic_101_3.png"
+            },
+            {
+                "Name": {
+                    "CH": "过客的冥途游履",
+                    "EN": "Passerby's Stygian Hiking Boots"
+                },
+                "Desc": {
+                    "CH": "一双经久耐用的短靴，曾踏遍诸多世界，出入死生。",
+                    "EN": "A durable pair of boots that have left shoe-prints on many worlds and have witnessed many lethal situations."
+                },
+                "Story": {
+                    "CH": "佚名之人追随着奴隶的命令，与刚结识的同伴去往天空彼岸。他的足履带着茫然与恨意在无数个世界间行走，在生死间屡屡徘徊。<br><br>他早已忘却了造物的快乐，只顾得脚步匆匆，从一个战场奔赴另一个战场。<br><br>在过去，他曾身尝无数极致的剑光，身体在成百上千次败北中四分五裂，对手总会以一记穿心的剑招做结。而如今，那些错杂伤痕刻印下的剑招永志不忘，随着生死交锋而百炼升华。他挥洒剑光，为众人斩开阻碍，一次次倒地又一次次站起。在屏息舞剑的专注中，他一度遗忘了仇恨。<br><br>奴隶许诺，会给他和他所恨的一切永恒的终结，永眠的葬仪。佚名之人点头，还剑入鞘，奔向下一个世界。<br><br>如果人生是步伐连缀而成的路途，那末他希望抵达「终点」之前，能跨过深恨之人的血泊。",
+                    "EN": "The unnamed followed the slave's orders and traveled to the other side of the sky with his new companions. He walked with bewilderment and hatred among countless worlds, often finding himself in grave crises of life and death.<br><br>He had long forgotten the joy of creation, lost in his hurries from one battlefield to the next.<br><br>In his past battles, he had sustained an innumerable number of sword slashes and cuts. In his past defeats, his body was splintered and smashed into pieces over and over again. His opponent would always end the battle with one finishing move right through his heart. And now, all those masterly sword moves that had induced his numerous scars were forever imprinted in his memory, and his martial prowess was refined in countless lethal encounters. The unnamed wielded his sword and slashed his way through obstacles for his allies. Wherever he fell, he rose right up, over and over again. He seemed to have let go of all his hatred in his dedication to the sword dance.<br><br>The slave promised to bring an eternal end and a final funeral to the unnamed's life and to everything he had ever hated. The unnamed nodded, put his sword back in its sheath, then raced to the next world.<br><br>If life could be deemed as a continuous journey, then the unnamed wishes to step over the pool of blood made of all whom he deeply resented before reaching his own end."
+                },
+                "Icon": "IconRelic_101_4.png"
+            }
+        ]
+    }
+]
+
 var _search_avatar = {
     "9001": 0,
     "加拉赫": 0,
@@ -82418,4 +84413,97 @@ var _search_weapon = {
     "20000": 92,
     "锋镝": 92,
     "ARROWS": 92
+}
+
+var _search_relic = {
+    "312": 0,
+    "梦想之地匹诺康尼": 0,
+    "PENACONY,LANDOFTHEDREAMS": 0,
+    "311": 1,
+    "苍穹战线格拉默": 1,
+    "FIRMAMENTFRONTLINE:GLAMOTH": 1,
+    "310": 2,
+    "折断的龙骨": 2,
+    "BROKENKEEL": 2,
+    "309": 3,
+    "繁星竞技场": 3,
+    "RUTILANTARENA": 3,
+    "308": 4,
+    "生命的翁瓦克": 4,
+    "SPRIGHTLYVONWACQ": 4,
+    "307": 5,
+    "盗贼公国塔利亚": 5,
+    "TALIA:KINGDOMOFBANDITRY": 5,
+    "306": 6,
+    "停转的萨尔索图": 6,
+    "INERTSALSOTTO": 6,
+    "305": 7,
+    "星体差分机": 7,
+    "CELESTIALDIFFERENTIATOR": 7,
+    "304": 8,
+    "筑城者的贝洛伯格": 8,
+    "BELOBOGOFTHEARCHITECTS": 8,
+    "303": 9,
+    "泛银河商业公司": 9,
+    "PANCOSMICCOMMERCIALENTERPRISE": 9,
+    "302": 10,
+    "不老者的仙舟": 10,
+    "FLEETOFTHEAGELESS": 10,
+    "301": 11,
+    "太空封印站": 11,
+    "SPACESEALINGSTATION": 11,
+    "118": 12,
+    "机心戏梦的钟表匠": 12,
+    "WATCHMAKER,MASTEROFDREAMMACHINATIONS": 12,
+    "117": 13,
+    "死水深潜的先驱": 13,
+    "PIONEERDIVEROFDEADWATERS": 13,
+    "116": 14,
+    "幽锁深牢的系囚": 14,
+    "PRISONERINDEEPCONFINEMENT": 14,
+    "115": 15,
+    "毁烬焚骨的大公": 15,
+    "THEASHBLAZINGGRANDDUKE": 15,
+    "114": 16,
+    "骇域漫游的信使": 16,
+    "MESSENGERTRAVERSINGHACKERSPACE": 16,
+    "113": 17,
+    "宝命长存的莳者": 17,
+    "LONGEVOUSDISCIPLE": 17,
+    "112": 18,
+    "盗匪荒漠的废土客": 18,
+    "WASTELANDEROFBANDITRYDESERT": 18,
+    "111": 19,
+    "流星追迹的怪盗": 19,
+    "THIEFOFSHOOTINGMETEOR": 19,
+    "110": 20,
+    "晨昏交界的翔鹰": 20,
+    "EAGLEOFTWILIGHTLINE": 20,
+    "109": 21,
+    "激奏雷电的乐队": 21,
+    "BANDOFSIZZLINGTHUNDER": 21,
+    "108": 22,
+    "繁星璀璨的天才": 22,
+    "GENIUSOFBRILLIANTSTARS": 22,
+    "107": 23,
+    "熔岩锻铸的火匠": 23,
+    "FIRESMITHOFLAVAFORGING": 23,
+    "106": 24,
+    "戍卫风雪的铁卫": 24,
+    "GUARDOFWUTHERINGSNOW": 24,
+    "105": 25,
+    "街头出身的拳王": 25,
+    "CHAMPIONOFSTREETWISEBOXING": 25,
+    "104": 26,
+    "密林卧雪的猎人": 26,
+    "HUNTEROFGLACIALFOREST": 26,
+    "103": 27,
+    "净庭教宗的圣骑士": 27,
+    "KNIGHTOFPURITYPALACE": 27,
+    "102": 28,
+    "野穗伴行的快枪手": 28,
+    "MUSKETEEROFWILDWHEAT": 28,
+    "101": 29,
+    "云无留迹的过客": 29,
+    "PASSERBYOFWANDERINGCLOUD": 29
 }

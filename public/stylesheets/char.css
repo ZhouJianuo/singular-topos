@@ -61,7 +61,7 @@ schedule {
 }
 
 .a_w_r schedule.active {
-    background-color: #df903b;
+    background-color: #2545ba;
 }
 
 .a_w_r img {
@@ -426,7 +426,48 @@ schedule {
     margin: 0;
 }
 
+.curio {
+    border-radius: 5px;
+    padding: 18px;
+    margin-top: 21px;
+    width: calc(100% - 80px);
+    line-height: 2;
+    background-color: #27363E;
+    color: #dddddd;
+    position: relative;
+}
+
+.name {
+    text-align: center;
+    font-weight: bold;
+    margin: 15px auto;
+    font-size: 16px;
+}
+
+.icon {
+    height: 120px;
+    margin: auto;
+    display: block;
+}
+
+.desc {
+    font-size: 14px;
+    margin-top: 11px;
+}
+
 @media screen and (min-width: 500px) and (max-width: 800px) {
+    .curio {
+        width: calc((100% - 140px) / 2);
+    }
+    .icon {
+        height: 140px;
+    }
+    .desc {
+        font-size: 15px;
+    }
+    .name {
+        font-size: 17px;
+    }
     .rank_up {
         width: 24%;
         padding-left: 15px;
@@ -547,6 +588,18 @@ schedule {
 }
 
 @media screen and (min-width: 800px) {
+    .icon {
+        height: 160px;
+    }
+    .curio {
+        width: calc((100% - 200px) / 3);
+    }
+    .desc {
+        font-size: 16px;
+    }
+    .name {
+        font-size: 18px;
+    }
     .rank_up {
         width: 200px;
         padding-left: 15px;

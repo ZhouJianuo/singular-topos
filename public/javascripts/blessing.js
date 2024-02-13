@@ -44,7 +44,11 @@ $(function () {
             div: [
                 {
                     section: {
-                        schedule: `[[Name/${lang}]]`,
+                        schedule: {
+                            img: function (k) {
+                                return imgpre + `images/Paths/` + k.data.Name.EN + `.png`
+                            }
+                        },
                         data: _blessingtypes,
                         event: {
                             click: function (d) {

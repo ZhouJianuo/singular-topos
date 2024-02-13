@@ -70,12 +70,18 @@ $(function () {
                             },
                             class: '_w'
                         },
-                        /*{
+                        {
+                            schedule: {
+                                img: imgpre + 'images/Misc/IconRelicFoot.png',
+                            },
+                            class: '_r1'
+                        },
+                        {
                             schedule: {
                                 img: imgpre + 'images/Misc/IconAvatarRelic.png',
                             },
-                            class: '_r'
-                        }*/
+                            class: '_r2'
+                        }
                     ],
                     class: 'a_w_r'
                 },
@@ -127,6 +133,8 @@ $(function () {
             popAvatar(_search_avatar[avid])
         } else if (_search_weapon[avid] != undefined) {
             popWeapon(_search_weapon[avid])
+        } else if (_search_relic[avid] != undefined) {
+            popRelic(_search_relic[avid])
         }
     }
 
@@ -140,12 +148,19 @@ $(function () {
         if ($(this).hasClass('_a')) {
             a_w_r = 1
             listAvatar()
+            $('.rar').show()
         } else if ($(this).hasClass('_w')) {
             a_w_r = 2
             listWeapon()
-        } else {
+            $('.rar').show()
+        } else if ($(this).hasClass('_r1')) {
             a_w_r = 3
-            listRelic()
+            listRelic(1)
+            $('.rar').hide()
+        } else {
+            a_w_r = 4
+            listRelic(2)
+            $('.rar').hide()
         }
     })
 
@@ -428,9 +443,31 @@ $(function () {
         })
     }
 
-    function listRelic() {
-        $('.area').empty().render({
-            
+    function listRelic(tp) {
+        $('.area').empty()
+        _relic.forEach(function (t, i) {
+            if (t.Skills.length == tp) return
+            $('.area').render({
+                div: [
+                    {
+                        img: imgpre + 'images/itemfigures/' + t.Icon,
+                        class: 'icon'
+                    },
+                    {
+                        p: t.Name[lang],
+                        class: 'name'
+                    },
+                    {
+                        p: `[[${lang}]]`,
+                        class: 'desc',
+                        data: t.Skills
+                    },
+                ],
+                class: 'curio hover-shadow',
+                click: function (p) {
+                    popRelic(i)
+                }
+            })
         })
     }
 
@@ -1792,6 +1829,58 @@ $(function () {
                     class: 'mon_body'
                 },
             ]
+        })
+    }
+
+    function popRelic(ai) {
+        this_relic = _relic[ai]
+        poplayer({
+            header: this_relic.Name[lang] + txt.Affix[lang],
+            template: {
+                div: [],
+                class: 'mon_body'
+            }
+        })
+        this_relic.Items.forEach(function (t, i) {
+            $('.mon_body').render({
+                template: {
+                    div: {
+                        div: [
+                            {
+                                img: imgpre + 'images/relicfigures/' + t.Icon,
+                                class: 'icon'
+                            },
+                            {
+                                p: t.Name[lang],
+                                class: 'name',
+                                style: {
+                                    'font-size': '1.2em'
+                                }
+                            },
+                            {
+                                p: t.Desc[lang],
+                                class: 'desc',
+                                style: {
+                                    'text-align': 'center'
+                                }
+                            },
+                            {
+                                hr: '',
+                                style: {
+                                    'border-color': '#bbbbbb',
+                                    margin: '25px auto 20px'
+                                }
+                            },
+                            {
+                                p: t.Story[lang],
+                                class: 'desc'
+                            }
+                        ],
+                        class: 'a_section_content'
+                    },
+                    class: 'a_section',
+                }
+            })
         })
     }
 
