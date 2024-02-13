@@ -9,6 +9,9 @@ $(function () {
     });
 
     var lang_ = $('#LANG').val()
+    if (lang_ == 'RU') {
+        lang_ = 'EN'
+    }
     if (lang_) {
         var lang = lang_
         document.cookie = 'lang=' + lang_ + ';expires=' + new Date(DATE.getTime() + 8640000000).toUTCString() + ';path=/'
