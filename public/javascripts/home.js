@@ -8,10 +8,14 @@ $(function() {
         }
     });
 
-    var lang_ = $('#LANG').val()
+    var lang_ = $('#LANG').val().toUpperCase()
+    if (lang_ == 'RU') {
+        is_ru = 1
+        lang_ = 'EN'
+    }
     if (lang_) {
         var lang = lang_
-        document.cookie = 'lang=' + lang_ + ';expires=' + new Date(DATE.getTime() + 8640000000).toUTCString() + ';path=/'
+        document.cookie = 'lang=' + (is_ru ? 'RU' : lang_) + ';expires=' + new Date(DATE.getTime() + 8640000000).toUTCString() + ';path=/'
     } else {
         var lang = (_lang === 'CH') ? 'CH' : 'EN';
     }
