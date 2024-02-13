@@ -294,7 +294,7 @@ $(function () {
                     ],
                     class: 'avatar-card hover-shadow rar-' + (t.Rarity ? t.Rarity : '6'),
                     style: {
-                        display: ((t.Rarity == cur_rarity)) ? '' : 'none'
+                        display: (((t.Rarity ? t.Rarity : '6') == cur_rarity)) ? '' : 'none'
                     },
                     click: function (p) {
                         popAvatar(i)
@@ -415,7 +415,7 @@ $(function () {
                     ],
                     class: 'avatar-card hover-shadow rar-' + (t.Rarity ? t.Rarity : '6'),
                     style: {
-                        display: ((t.Rarity == cur_rarity)) ? '' : 'none'
+                        display: (((t.Rarity ? t.Rarity : '6') == cur_rarity)) ? '' : 'none'
                     },
                     click: function (p) {
                         popWeapon(i)
