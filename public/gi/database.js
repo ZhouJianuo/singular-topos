@@ -57367,30 +57367,25 @@ var _SpiralAbyssFloorConfig = {
                         "WaveDesc": 1,
                         "Monsters": [
                             {
-                                "WaveDesc": 1,
-                                "Monsters": [
-                                    {
-                                        "ID": 20201,
-                                        "Num": 1
-                                    },
-                                    {
-                                        "ID": 20703,
-                                        "Num": 3
-                                    }
-                                ]
+                                "ID": 20201,
+                                "Num": 1
                             },
                             {
-                                "WaveDesc": 2,
-                                "Monsters": [
-                                    {
-                                        "ID": 20301,
-                                        "Num": 1
-                                    },
-                                    {
-                                        "ID": 20701,
-                                        "Num": 3
-                                    }
-                                ]
+                                "ID": 20703,
+                                "Num": 3
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 20301,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 20701,
+                                "Num": 3
                             }
                         ]
                     }
