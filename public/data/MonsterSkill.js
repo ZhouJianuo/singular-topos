@@ -13352,8 +13352,8 @@ var _monsterskill = {
             "EN": "Watery Dissolution"
         },
         "Desc": {
-            "CH": "立即对所有被锁定的我方目标发动致命攻击，使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。如果没有被锁定的目标，则随机对2名我方目标发动致命攻击并使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。",
-            "EN": "Immediately deals killing blow to all locked-on targets, making them enter <color style='color:#f29e38;'>Morbid Dream</color>. If no targets are being locked on, randomly lock on to two targets."
+            "CH": "（第二阶段开启时立刻强制施放一次）<br>立即对所有被锁定的我方目标发动致命攻击，使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。如果没有被锁定的目标，则随机对2名我方目标发动致命攻击并使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。",
+            "EN": "(This skill is used immediately upon entering Phase 2)<br>Immediately deals killing blow to all locked-on targets, making them enter <color style='color:#f29e38;'>Morbid Dream</color>. If no targets are being locked on, randomly lock on to two targets."
         },
         "SP": 0,
         "Threat": true
@@ -17861,8 +17861,8 @@ var _monsterskill = {
             "EN": "Watery Dissolution"
         },
         "Desc": {
-            "CH": "立即对所有被锁定的我方目标发动致命攻击，使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。如果没有被锁定的目标，则随机对2名我方目标发动致命攻击并使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。",
-            "EN": "Immediately deals killing blow to all locked-on targets, making them enter <color style='color:#f29e38;'>Morbid Dream</color>. If no targets are being locked on, randomly lock on to two targets."
+            "CH": "（第二阶段开启时立刻强制施放一次）<br>立即对所有被锁定的我方目标发动致命攻击，使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。如果没有被锁定的目标，则随机对2名我方目标发动致命攻击并使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。",
+            "EN": "(This skill is used immediately upon entering Phase 2)<br>Immediately deals killing blow to all locked-on targets, making them enter <color style='color:#f29e38;'>Morbid Dream</color>. If no targets are being locked on, randomly lock on to two targets."
         },
         "SP": 0,
         "Threat": true
