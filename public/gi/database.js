@@ -57456,11 +57456,11 @@ var _SpiralAbyssFloorConfig = {
                         "WaveDesc": 9999,
                         "Monsters": [
                             {
-                                "ID": 61901,
+                                "ID": 60410,
                                 "Num": 1
                             },
                             {
-                                "ID": 61901,
+                                "ID": 60411,
                                 "Num": 1
                             }
                         ]
