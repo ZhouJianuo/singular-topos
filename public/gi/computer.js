@@ -3653,6 +3653,49 @@ var _Monsters = {
             "ECElementalLifeforms/无相之冰"
         ]
     },
+    "4051": {
+        "_id": 4051,
+        "KingdomID": 0,
+        "ClassID": 10004,
+        "Name": {
+            "CH": "奏鸣曲 · 霜锐之阵",
+            "EN": "Sonata of the Snowy Path"
+        },
+        "Title": [
+            {
+                "CH": "「塔勒特」",
+                "EN": "Daleth"
+            }
+        ],
+        "Desc": {
+            "CH": "代号为「塔勒特」的高级冰元素生命。\n根据研究，无相元素与常规的元素生物在物质构成上有着细微的差别。而这些细微的成分差别，或许就是它们高度稳定的形态与机械般的行动方式的由来吧。",
+            "EN": "Code name: Daleth. A high-purity Cryo entity.\nResearch suggests that there are subtle differences between elemental hypostases and other elemental life forms in terms of their physical composition. Perhaps these differences can account for their high level of homeostasis and their almost mechanical movements."
+        },
+        "Color": "Ice",
+        "HP": 4.5,
+        "HPCurve": 2,
+        "ATK": 6.0,
+        "ATKCurve": 4,
+        "Immune": [
+            "Ice"
+        ],
+        "Element": {
+            "Type": "Frozen",
+            "Value": 4,
+            "Immutable": true
+        },
+        "Ball": {
+            "Type": 4,
+            "Point": 4,
+            "Drop": "3333"
+        },
+        "Icon": [
+            "ch"
+        ],
+        "Grade": 3,
+        "Weight": 300,
+        "EndureTemplateID": 4000
+    },
     "406": {
         "_id": 406,
         "KingdomID": 0,

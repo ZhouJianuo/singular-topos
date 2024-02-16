@@ -183,6 +183,69 @@ app.get('/sr/char', async (req, res) => {
     res.render('char', result);
 });
 
+app.get('/sr/item', async (req, res) => {
+    let result = {};
+    let { lang = '', id = '' } = req.query;
+    result.lang = lang;
+    result.avid = id;
+    result.imgpre = '../';
+    res.render('item', result);
+});
+
+app.get('/sr/item/:id', async (req, res) => {
+    let result = {};
+    let { lang = '' } = req.query;
+    result.lang = lang;
+    result.avid = req.params.id;
+    result.imgpre = '../../';
+    res.render('item', result);
+});
+
+app.get('/sr/items', async (req, res) => {
+    let result = {};
+    let { lang = '', id = '' } = req.query;
+    result.lang = lang;
+    result.avid = id;
+    result.imgpre = '../';
+    res.render('item', result);
+});
+
+app.get('/sr/items/:id', async (req, res) => {
+    let result = {};
+    let { lang = '' } = req.query;
+    result.lang = lang;
+    result.avid = req.params.id;
+    result.imgpre = '../../';
+    res.render('item', result);
+});
+
+app.get('/sr/event', async (req, res) => {
+    let result = {};
+    let { lang = '', id = '' } = req.query;
+    result.lang = lang;
+    result.avid = id;
+    result.imgpre = '../';
+    res.render('event', result);
+});
+
+app.get('/sr/events', async (req, res) => {
+    let result = {};
+    let { lang = '', id = '' } = req.query;
+    result.lang = lang;
+    result.avid = id;
+    result.imgpre = '../';
+    res.render('event', result);
+});
+
+app.get('/sr/rec', async (req, res) => {
+    let result = {};
+    let { lang = '', id = '' } = req.query;
+    result.lang = lang;
+    result.avid = id;
+    result.imgpre = '../';
+    res.render('rec', result);
+});
+
 app.get('/gi/monster', async (req, res) => {
     let result = {};
     let { id = '', level = '', lang = '' } = req.query;

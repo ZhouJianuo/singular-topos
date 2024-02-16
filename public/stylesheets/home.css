@@ -48,6 +48,7 @@ schedule {
     justify-content: space-evenly;
     flex-wrap: wrap;
     width: 100%;
+    margin-bottom: 30px;
 }
 
 .dir {

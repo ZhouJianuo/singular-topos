@@ -1,0 +1,16 @@
+extends _
+block head
+    script(src="/javascripts/rec.js")
+    script(src="/javascripts/txt.js")
+    script(src="/data/Rec.js")
+    link(rel="stylesheet", href="/stylesheets/rec.css")
+block content
+    input(type="hidden" id="LANG" value=lang)
+    input(type="hidden" id="AVID" value=avid)
+    input(type="hidden" id="IMGPRE" value=imgpre)
+    container
+        h3
+            span.title
+            em.links 
+            em.subtitle
+            em.lang

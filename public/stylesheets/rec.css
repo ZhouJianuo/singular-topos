@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+}
+
+container {
+    display: block;
+    max-width: 2000px;
+}
+
+.content {
+    padding: 20px 0px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 1);
+    min-height: 600px;
+}
+
+::-webkit-scrollbar-thumb:vertical {
+    background-color: #aaaaaa;
+    border-radius: 4px;
+}
+
+.curio {
+    border-radius: 5px;
+    padding: 18px;
+    margin-top: 21px;
+    width: calc(100% - 80px);
+    line-height: 2;
+    background-color: #27363E;
+    color: #dddddd;
+    position: relative;
+}
+
+.name {
+    text-align: center;
+    font-weight: bold;
+    margin: 15px auto;
+    font-size: 16px;
+}
+
+.icon {
+    height: 120px;
+    margin: auto;
+    display: block;
+}
+
+.desc {
+    font-size: 14px;
+    margin-top: -31px;
+}
+
+.miracle_card_area {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+@media screen and (min-width: 500px) and (max-width: 800px) {
+    .curio {
+        width: calc((100% - 140px) / 2);
+    }
+    .icon {
+        height: 140px;
+    }
+    .desc {
+        font-size: 15px;
+    }
+    .name {
+        font-size: 17px;
+    }
+}
+
+@media screen and (min-width: 800px) {
+    .icon {
+        height: 160px;
+    }
+    .curio {
+        width: calc((100% - 200px) / 3);
+    }
+    .desc {
+        font-size: 16px;
+    }
+    .name {
+        font-size: 18px;
+    }
+}

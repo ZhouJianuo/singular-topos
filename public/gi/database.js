@@ -596,10 +596,10 @@ var _SpiralAbyssSchedule = [
         ]
     },
     {
-        "Name": "4.5v2",
+        "Name": "4.5v3",
         "Show": {
-            "CH": "4.5v2",
-            "EN": "4.5v2"
+            "CH": "4.5v3",
+            "EN": "4.5v3"
         },
         "Generation": 4,
         "OpenTime": "2024/03/16 - 2024/04/30",
@@ -947,6 +947,31 @@ var _SpiralAbyssSchedule = [
             67,
             1028
         ]
+    },
+    {
+        "Name": "14",
+        "Show": {
+            "CH": "惊喜 14",
+            "EN": "Surprise 14"
+        },
+        "Generation": 99,
+        "OpenTime": "By 妮可少女HomDGCat、析茉Csxylic<br>2024/02/15",
+        "Phases": [
+            89,
+            90,
+            91
+        ],
+        "Blessings": [
+            1020,
+            1021,
+            1022
+        ],
+        "Floors": [
+            57,
+            58,
+            67,
+            1030
+        ]
     }
 ]
 
@@ -1077,7 +1102,7 @@ var _SpiralAbyssDPSData = [
                 "DPS": 1833435
             },
             {
-                "Ver": "4.5v2",
+                "Ver": "4.5v3",
                 "DPS": 1721835
             }
         ]
@@ -1207,7 +1232,7 @@ var _SpiralAbyssDPSData = [
                 "DPS": 14335494
             },
             {
-                "Ver": "4.5v2",
+                "Ver": "4.5v3",
                 "DPS": 18078432
             }
         ]
@@ -1338,7 +1363,7 @@ var _SpiralAbyssDPSData = [
                 "DPS": 3566150
             },
             {
-                "Ver": "4.5v2",
+                "Ver": "4.5v3",
                 "DPS": 4043151
             }
         ]
@@ -1469,7 +1494,7 @@ var _SpiralAbyssDPSData = [
                 "DPS": 3090036
             },
             {
-                "Ver": "4.5v2",
+                "Ver": "4.5v3",
                 "DPS": 3912229
             }
         ]
@@ -1600,7 +1625,7 @@ var _SpiralAbyssDPSData = [
                 "DPS": 3688091
             },
             {
-                "Ver": "4.5v2",
+                "Ver": "4.5v3",
                 "DPS": 4187321
             }
         ]
@@ -3434,6 +3459,14 @@ var _SpiralAbyssWaveDescConfig = {
             "Text": {
                 "CH": "<color style='color:#808080;'><b>>「塔勒特」</b></color>",
                 "EN": "<color style='color:#808080;'><b>> \"Daleth\"</b></color>"
+            }
+        }
+    },
+    "4051": {
+        "Show": {
+            "Text": {
+                "CH": "<color style='color:#808080;'><b>> 交响诗「无相之冰」</b></color>",
+                "EN": "<color style='color:#808080;'><b>> Hypostatic Symphony \"Cryo Hypostasis\"</b></color>"
             }
         }
     },
@@ -6000,6 +6033,49 @@ var _Monsters = {
         "Csx": [
             "ECElementalLifeforms/无相之冰"
         ]
+    },
+    "4051": {
+        "_id": 4051,
+        "KingdomID": 0,
+        "ClassID": 10004,
+        "Name": {
+            "CH": "奏鸣曲 · 霜锐之阵",
+            "EN": "Sonata of the Snowy Path"
+        },
+        "Title": [
+            {
+                "CH": "「塔勒特」",
+                "EN": "Daleth"
+            }
+        ],
+        "Desc": {
+            "CH": "代号为「塔勒特」的高级冰元素生命。\n根据研究，无相元素与常规的元素生物在物质构成上有着细微的差别。而这些细微的成分差别，或许就是它们高度稳定的形态与机械般的行动方式的由来吧。",
+            "EN": "Code name: Daleth. A high-purity Cryo entity.\nResearch suggests that there are subtle differences between elemental hypostases and other elemental life forms in terms of their physical composition. Perhaps these differences can account for their high level of homeostasis and their almost mechanical movements."
+        },
+        "Color": "Ice",
+        "HP": 4.5,
+        "HPCurve": 2,
+        "ATK": 6.0,
+        "ATKCurve": 4,
+        "Immune": [
+            "Ice"
+        ],
+        "Element": {
+            "Type": "Frozen",
+            "Value": 4,
+            "Immutable": true
+        },
+        "Ball": {
+            "Type": 4,
+            "Point": 4,
+            "Drop": "3333"
+        },
+        "Icon": [
+            "ch"
+        ],
+        "Grade": 3,
+        "Weight": 300,
+        "EndureTemplateID": 4000
     },
     "406": {
         "_id": 406,
@@ -50322,7 +50398,8 @@ var _SpiralAbyssFloorConfig = {
         },
         "ShowVers": [
             1,
-            2
+            2,
+            3
         ],
         "Chambers": [
             {
@@ -50882,7 +50959,8 @@ var _SpiralAbyssFloorConfig = {
         },
         "ShowVers": [
             1,
-            2
+            2,
+            3
         ],
         "Chambers": [
             {
@@ -57166,6 +57244,229 @@ var _SpiralAbyssFloorConfig = {
                                         "EN": "Defense<br>Enhance"
                                     }
                                 }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "1030": {
+        "Disorder": {
+            "CH": "仅在此层，地脉的涌流平缓通顺。",
+            "EN": "For this floor only, the ley line flow will be normal."
+        },
+        "ShowVers": [
+            7
+        ],
+        "Chambers": [
+            {
+                "Name": "12-1",
+                "Level": 95,
+                "GoalType": 0,
+                "GoalParam": 3,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        7,
+                        22,
+                        34
+                    ]
+                },
+                "Upper": [
+                    {
+                        "WaveDesc": 4051,
+                        "Monsters": [
+                            {
+                                "ID": 4051,
+                                "Num": 1
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 40302,
+                                "Num": 2
+                            },
+                            {
+                                "ID": 60506,
+                                "Num": 2
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 30501,
+                                "Num": 2
+                            },
+                            {
+                                "ID": 30601,
+                                "Num": 2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Name": "12-2",
+                "Level": 98,
+                "GoalType": 0,
+                "GoalParam": 3,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        7,
+                        22,
+                        34
+                    ]
+                },
+                "Upper": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "WaveDesc": 1,
+                                "Monsters": [
+                                    {
+                                        "ID": 20201,
+                                        "Num": 1
+                                    },
+                                    {
+                                        "ID": 20703,
+                                        "Num": 3
+                                    }
+                                ]
+                            },
+                            {
+                                "WaveDesc": 2,
+                                "Monsters": [
+                                    {
+                                        "ID": 20301,
+                                        "Num": 1
+                                    },
+                                    {
+                                        "ID": 20701,
+                                        "Num": 3
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 9999,
+                        "Monsters": [
+                            {
+                                "ID": 50108,
+                                "Num": 1,
+                                "HPOverride": 9.15
+                            },
+                            {
+                                "ID": 50602,
+                                "Num": 1,
+                                "HPOverride": 9.6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Name": "12-3",
+                "Level": 100,
+                "GoalType": 0,
+                "GoalParam": 3,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        19
+                    ]
+                },
+                "Upper": [
+                    {
+                        "WaveDesc": 61901,
+                        "Monsters": [
+                            {
+                                "ID": 61901,
+                                "Num": 1,
+                                "Affix": [
+                                    5427
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 9999,
+                        "Monsters": [
+                            {
+                                "ID": 61901,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 61901,
+                                "Num": 1
                             }
                         ]
                     }
