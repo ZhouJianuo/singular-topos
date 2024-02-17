@@ -185,6 +185,10 @@ $(function () {
     $('body').on('click', '.info', function () {
     })
 
+    $('body').on('click', '.hover-shadow-', function () {
+        popItem($(this).attr('data-id'))
+    })
+
     function popItem(y) {
         this_item = _item[y]
         poplayer({
