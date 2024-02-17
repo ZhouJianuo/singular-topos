@@ -235,9 +235,9 @@ $(function () {
             width: '90%',
             template: [
                 {
-                    img: imgpre + 'images/itemfigures/' + this_item.Pic,
+                    img: this_item.Pic.includes('LightConeMaxFigures') ? (imgpre + 'images/lightconemaxfigures/' + this_item.Pic.replace('SpriteOutput/LightConeMaxFigures', '')) : (imgpre + 'images/itemfigures/' + this_item.Pic),
                     class: 'icon',
-                    when: (this_item.Pic != undefined) && (this_item.Pic != "") && !this_item.Pic.includes('SpriteOutput')
+                    when: (this_item.Pic != undefined) && (this_item.Pic != "") && !(this_item.Pic.includes('SpriteOutput') && !this_item.Pic.includes('LightConeMaxFigures'))
                 },
                 {
                     p: this_item.Name[lang],

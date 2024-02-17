@@ -2215,7 +2215,7 @@ var _item = {
             "CH": "从一道光开始。<br>祂们坠落，陨灭的威胁居高临下。<br>祂们不得不停止自我复制，争先恐后拥抱彼此，<br>试图用繁殖的权利为代价，换取生存的可能。<br>祂们携手，从未如此团结<br>——但命途戛然而止，<br>祂们趋向真正的死亡。",
             "EN": "It began with a flash of light.<br>One by one, they fell as the threat of expiration loomed over them.<br>They had to stop self-replicating and rushed to embrace each other,<br>trying to offer the right to reproduce in exchange for a possibility of survival.<br>They held hands in a show of unprecedented unity.<br>...But the Paths met an abrupt end,<br>and they were headed to a true death."
         },
-        "Icon": "LightConeIcons/24000.png",
+        "Icon": "lightconeicons/24000.png",
         "Pic": "SpriteOutput/LightConeMaxFigures/24000.png"
     },
     "24001": {
@@ -2233,7 +2233,7 @@ var _item = {
             "CH": "来往于星海之间，<br>祂的速度有如虹霓闪光的一瞬。<br>围追不死孽物，<br>揽寻幻宝解药，<br>寻求解脱之途。<br>祂的航程将犹如永不被打破的誓言般，<br>永无尽头。",
             "EN": "Coursing 'tween the sea of stars,<br>they cruise with the speed of a rainbow's chromatic flash.<br>A journey of hunting undying abominations,<br>collecting cures and miracles,<br>and seeking deliverance.<br>Akin to a vow unbroken, their voyage will be,<br>ad infinitum."
         },
-        "Icon": "LightConeIcons/24001.png",
+        "Icon": "lightconeicons/24001.png",
         "Pic": "SpriteOutput/LightConeMaxFigures/24001.png"
     },
     "24002": {
@@ -2251,7 +2251,7 @@ var _item = {
             "CH": "宇宙像一片堆满垃圾的生荒地。<br>偶有琳琅，无人捡拾。<br>祂翻阅往日的罅隙，拣选记忆的种子<br>——新的生命要是萌芽，它的种子须是死的。<br>粉色、蓝色、白色的宝石被带了来，<br>在祂的苗圃中轻盈闪烁，<br>但宇宙依旧寂静如谜。",
             "EN": "The universe was like a badland filled with rubbish.<br>There were the occasional treasure that lies undiscovered.<br>They looked through the cracks of the past, choosing seeds of memory.<br>...If a new life was to be born, its seed has to be dead.<br>Precious stones of pink, blue, and white were brought forth,<br>twinkling gently in their seed plot,<br>even though the universe held onto its enigmatic silence."
         },
-        "Icon": "LightConeIcons/24002.png",
+        "Icon": "lightconeicons/24002.png",
         "Pic": "SpriteOutput/LightConeMaxFigures/24002.png"
     },
     "24003": {
@@ -2269,7 +2269,7 @@ var _item = {
             "CH": "诡秘天成，无相无形。<br>万有皆虚，倏忽一梦。<br>自灭者灭，欲生者生。<br>将熄还熠，将涸而盈。<br>悲悯混沌之救济，灵药滋长虚影。<br>背向星辰之暗面，徒然封装于瓶。<br><br><i>「如此悖论，而我等以为荣。」</i>",
             "EN": "Things molded by the hands of secrecy are shapeless and incorporeal.<br>In the totality of emptiness, there yet exists a sudden dreaming.<br>Those that court destruction will reap ruinous fruit, while those that clamor to live will survive.<br>That which is extinguished may yet spark, and that which has dried may yet be filled anew.<br>In compassion for the salvation of chaos, the elixir nurtures the shadows.<br>With back faced to the darkness between the stars, the encapsulation of this vessel can only be done in vain.<br><br><i>\"Paradoxical these knowings are, in them shine the fullness of our pride.\"</i>"
         },
-        "Icon": "LightConeIcons/24003.png",
+        "Icon": "lightconeicons/24003.png",
         "Pic": "SpriteOutput/LightConeMaxFigures/24003.png"
     },
     "110406": {
@@ -2669,8 +2669,8 @@ var _item = {
             "CH": "<i>「帕金斯乖乖，把宝箱开开！」<br>「不开…不开…我不开…克拉拉…没回来……」</i>",
             "EN": "<i>\"Perkins, be a good robot and open up the chest!\"<br>\"I won't... I won't... not until Clara is back...\"</i>"
         },
-        "Icon": "ChatBubble/220001.png",
-        "Pic": "ChatBubble/220001.png",
+        "Icon": "chatbubble/220001.png",
+        "Pic": "chatbubble/220001.png",
         "Src": [
             {
                 "CH": "「地城探宝」活动获得",
@@ -2693,8 +2693,8 @@ var _item = {
             "CH": "「{TEXTJOIN#54}会梦到开拓者吗？」<br>「——我不知道。」<br>「但我知道就算在梦里，我们也会是最棒的旅伴。」",
             "EN": "\"Will {TEXTJOIN#54} dream of the Trailblazer?\"<br>\"...I don't know.\"<br>\"But I know we will be the best travel buddies even in dreams.\""
         },
-        "Icon": "ChatBubble/220002.png",
-        "Pic": "ChatBubble/220002.png",
+        "Icon": "chatbubble/220002.png",
+        "Pic": "chatbubble/220002.png",
         "Src": [
             {
                 "CH": "「以太战线」活动获得",
@@ -2717,8 +2717,8 @@ var _item = {
             "CH": "模拟星体的诞生和点心造物的共同之处，大概在于它们都是关乎「生命」的培育。",
             "EN": "The common thread between the birth of simulated celestial bodies and the creation of delicate pastries lies in their shared focus on nurturing \"life.\""
         },
-        "Icon": "ChatBubble/220003.png",
-        "Pic": "ChatBubble/220003.png",
+        "Icon": "chatbubble/220003.png",
+        "Pic": "chatbubble/220003.png",
         "Src": [
             {
                 "CH": "「异宠拾遗」活动获得",
@@ -2887,7 +2887,7 @@ var _item = {
             "CH": "<i>「还有多久开始行动？」<br>「你居然会问我这个…是新人出什么事了？」<br>「没有。」<br>「虽然艾利欧招揽她是因为别的原因，但她至少得活得过新手任务。」<br>「她很轻松。」<br>「那我放心了。看来阿刃也已经是非常靠谱的前辈了。」<br>「……」</i>",
             "EN": "<i>How much longer until the action starts?<br>You have the nerve to ask a question like that... is something wrong with the new recruit?<br>No.<br>Elio didn't choose her because she was good at field work, but she has to at least survive this rookie assignment.<br>She's cruising.<br>Then I'm relieved. It seems that Bladie has proved to be a reliable operative as well.<br>...</i>"
         },
-        "Icon": "LightConeIcons/22000.png",
+        "Icon": "lightconeicons/22000.png",
         "Pic": "SpriteOutput/LightConeMaxFigures/22000.png"
     },
     "241": {
@@ -2941,7 +2941,7 @@ var _item = {
             "CH": "三位少女行走于黑夜之中，周遭的景物在此刻增加了几分鬼魅的气息。<br>「藿藿你动作快点，不然我们不等你啦！」<br>她举着手机往前大步迈进，似乎并未被灵异的氛围所影响。<br>「我…我在这里！」<br>站在前方的少女怯生生地回应着。<br>「诶？原来你在前面啊，那我和裳裳背后的是……」<br><br>此情此景最圆满的句号，一定就是少女的尖叫。",
             "EN": "Three girls stroll in the darkness, and the surroundings seem to gain a hint of eeriness.<br>\"Huohuo, hurry up, or we won't wait for you!\"<br>She steps forward confidently with her phone clutched in her hand, seemingly unaffected by the paranormal ambiance.<br>\"I—I'm over here!\"<br>The girl standing ahead responds timidly.<br>\"Huh? So you were in the front all along, then who is following Shangshang and me...\"<br><br>The perfect end for this scene would definitely be a girlish scream."
         },
-        "Icon": "LightConeIcons/22001.png",
+        "Icon": "lightconeicons/22001.png",
         "Pic": "SpriteOutput/LightConeMaxFigures/22001.png"
     },
     "401021": {

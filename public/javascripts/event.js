@@ -118,6 +118,7 @@ $(function () {
                     {
                         div: {
                             img: function (k) {
+                                if (_item[k.data].Icon.includes('AvatarIcon')) return imgpre + 'images/avataricon/' + _item[k.data].Icon.replace('SpriteOutput/AvatarIcon/', '')
                                 return imgpre + 'images/itemicon/' + _item[k.data].Icon
                             },
                             data: t.Reward,
@@ -196,9 +197,9 @@ $(function () {
             width: '90%',
             template: [
                 {
-                    img: imgpre + 'images/itemfigures/' + this_item.Pic,
+                    img: this_item.Pic.includes('LightConeMaxFigures') ? (imgpre + 'images/lightconemaxfigures/' + this_item.Pic.replace('SpriteOutput/LightConeMaxFigures', '')) : (imgpre + 'images/itemfigures/' + this_item.Pic),
                     class: 'icon',
-                    when: (this_item.Pic != undefined) && (this_item.Pic != "") && !this_item.Pic.includes('SpriteOutput')
+                    when: (this_item.Pic != undefined) && (this_item.Pic != "") && !(this_item.Pic.includes('SpriteOutput') && !this_item.Pic.includes('LightConeMaxFigures'))
                 },
                 {
                     p: this_item.Name[lang],
