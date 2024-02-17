@@ -284,6 +284,7 @@ $(function () {
                 },
             ],
         })
+        $('popbody').css('max-height', (window.innerHeight * 0.9 - 65).toFixed(0) + 'px')
     }
 
 })
