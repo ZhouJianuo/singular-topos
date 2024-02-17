@@ -1110,11 +1110,11 @@ function poplayer(p) {
         closeicon.onclick = closepop;
         closeicon.onmouseover = function() {
             this.style.filter = 'alpha(opacity=80)';
-            this.style.opacity = '.8';
+            this.style.opacity = '1';
         };
         closeicon.onmouseout = function() {
             this.style.filter = 'alpha(opacity=50)';
-            this.style.opacity = '.5';
+            this.style.opacity = '1';
         };
         header.appendChild(closeicon);
         modaldialog.appendChild(header);
