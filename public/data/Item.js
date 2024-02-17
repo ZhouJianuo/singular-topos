@@ -19,7 +19,8 @@ var _item = {
                 "EN": "A fleeting gleam arrowing across the night sky. Catch it before it's gone. Maybe it can be used to barter?<br><br><i>\"Some say that the lights are wishes of sentient beings. While insignificant and elusive, they did light up the pocket of sky around them, right?\"</i>"
             },
             "Icon": "900001.png",
-            "Pic": "900001.png"
+            "Pic": "900001.png",
+            "Ver": "1.x"
         },
         {
             "_id": 2,
@@ -64,7 +65,8 @@ var _item = {
                     "CH": "余烬兑换",
                     "EN": "Embers Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 3,
@@ -83,7 +85,8 @@ var _item = {
                 "EN": "Crystallized lights floating in the sea of stars, pulsing with the residual dream of an ancient Leviathan. Everything of the old world turned in the end into candlelight that illuminates the darkness ahead."
             },
             "Icon": "3.png",
-            "Pic": "3.png"
+            "Pic": "3.png",
+            "Ver": "1.x"
         },
         {
             "_id": 11,
@@ -102,7 +105,8 @@ var _item = {
                 "EN": "The Imaginary power residing in the engines of the Astral Express that protects travelers on the Path of Trailblaze.<br><br><i>\"Explore, understand, establish, and connect — that is what it means to trailblaze. Akivili may have fallen, but their legacy continues!\"</i>"
             },
             "Icon": "11.png",
-            "Pic": "11.png"
+            "Pic": "11.png",
+            "Ver": "1.x"
         },
         {
             "_id": 12,
@@ -121,7 +125,8 @@ var _item = {
                 "EN": "Reserve resources for the Express that functions as a reliable safeguard for the trailblazing expedition.<br><br><i>\"Resource reserves. Hmm, do we have reserves of reserves? Such was Trailblazer's question.\"</i>"
             },
             "Icon": "12.png",
-            "Pic": "12.png"
+            "Pic": "12.png",
+            "Ver": "1.x"
         },
         {
             "_id": 21,
@@ -140,7 +145,8 @@ var _item = {
                 "EN": "<i>\"I am not Fuli... I only believe in myself, for the path of immortality never ends.\"</i>"
             },
             "Icon": "21.png",
-            "Pic": "21.png"
+            "Pic": "21.png",
+            "Ver": "1.x"
         },
         {
             "_id": 22,
@@ -169,7 +175,8 @@ var _item = {
                     "CH": "消耗开拓力",
                     "EN": "Trailblaze Power consumption"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 23,
@@ -188,7 +195,8 @@ var _item = {
                 "EN": ""
             },
             "Icon": "SpriteOutput/DailyMission/ActiveIcon.png",
-            "Pic": "SpriteOutput/DailyMission/ActiveIcon.png"
+            "Pic": "SpriteOutput/DailyMission/ActiveIcon.png",
+            "Ver": "1.x"
         },
         {
             "_id": 24,
@@ -207,7 +215,8 @@ var _item = {
                 "EN": "The Relic of a Nameless. An item that might have been a pocket watch or a compass.<br>It is said that the first part to break was the chain. It suddenly snapped during a warp jump, the links scattering everywhere.<br>Then, it was the back. Hit by a lead bullet, it was on the verge of falling apart.<br>Lastly, it was the markings on the face. They were gradually worn flat over the long years, becoming no longer visible.<br>It broke countless times and underwent endless repairs. Its former shape was no longer discernible, and only the stilled sharp hands were pointing ever forward.<br><br><i>Take it, Legwork. It's yours now... Then, continue onward...</i>"
             },
             "Icon": "24.png",
-            "Pic": "24.png"
+            "Pic": "24.png",
+            "Ver": "1.x"
         },
         {
             "_id": 25,
@@ -226,7 +235,8 @@ var _item = {
                 "EN": "<i>Tracks left behind by the Nameless. Follow its guidance to find your way back to Trailblaze's star rail.</i>"
             },
             "Icon": "25.png",
-            "Pic": "25.png"
+            "Pic": "25.png",
+            "Ver": "1.x"
         },
         {
             "_id": 31,
@@ -245,7 +255,8 @@ var _item = {
                 "EN": "File fragments generated when the Simulated Universe is running. When they pile up, the performance of Simulated Universe will be significantly affected.<br><br><i>\"Sort them regularly. In return, the admin can perhaps change your stats every now and then.\"</i>"
             },
             "Icon": "31.png",
-            "Pic": "31.png"
+            "Pic": "31.png",
+            "Ver": "1.x"
         },
         {
             "_id": 32,
@@ -264,7 +275,8 @@ var _item = {
                 "EN": "A number you can accumulate or spend to strengthen Support systems in the Simulated Universe.<br><br><i>\"It even took Screwllum two system hours to develop an anti-cheat module.\"</i>"
             },
             "Icon": "32.png",
-            "Pic": "32.png"
+            "Pic": "32.png",
+            "Ver": "1.x"
         },
         {
             "_id": 33,
@@ -283,7 +295,8 @@ var _item = {
                 "EN": "This digitized Trailblaze Power can only be used in the Simulated Universe.<br><br><i>\"Explore, understand, establish, and connect — that is what it means to trailblaze. Akivili may have fallen, but their legacy continues!\"</i>"
             },
             "Icon": "33.png",
-            "Pic": "33.png"
+            "Pic": "33.png",
+            "Ver": "1.x"
         },
         {
             "_id": 41,
@@ -302,7 +315,8 @@ var _item = {
                 "EN": "<i>\"The definition of success is broader than conquering a formidable foe or touching the stars. Success is every time you achieve something you've never done before.\"</i>"
             },
             "Icon": "41.png",
-            "Pic": "41.png"
+            "Pic": "41.png",
+            "Ver": "1.x"
         },
         {
             "_id": 51,
@@ -321,7 +335,8 @@ var _item = {
                 "EN": "Accept the gifts of those who came before and begin your own trailblazing expedition.<br><br><i>\"Experience often comes at a cost, but that is why they are irreplaceable.\"</i>"
             },
             "Icon": "51.png",
-            "Pic": "51.png"
+            "Pic": "51.png",
+            "Ver": "1.x"
         },
         {
             "_id": 52,
@@ -340,7 +355,8 @@ var _item = {
                 "EN": "Accept the gifts of those who came before and begin your own trailblazing expedition.<br><br><i>\"Experience often comes at a cost, but that is why they are irreplaceable.\"</i>"
             },
             "Icon": "51.png",
-            "Pic": "51.png"
+            "Pic": "51.png",
+            "Ver": "1.x"
         },
         {
             "_id": 53,
@@ -359,7 +375,8 @@ var _item = {
                 "EN": "As the museum continues to revitalize and improve, the Architects will issue a development budget for upgrading and recruiting staff, so that Trailblazer can better manage the various exhibit halls."
             },
             "Icon": "53.png",
-            "Pic": "53.png"
+            "Pic": "53.png",
+            "Ver": "1.x"
         },
         {
             "_id": 100000,
@@ -378,7 +395,8 @@ var _item = {
                 "EN": ""
             },
             "Icon": "100000.png",
-            "Pic": "100000.png"
+            "Pic": "100000.png",
+            "Ver": "1.x"
         },
         {
             "_id": 100001,
@@ -397,7 +415,8 @@ var _item = {
                 "EN": ""
             },
             "Icon": "100001.png",
-            "Pic": "100001.png"
+            "Pic": "100001.png",
+            "Ver": "1.x"
         },
         {
             "_id": 281001,
@@ -422,7 +441,8 @@ var _item = {
                     "CH": "前往金人巷码头进行码放货物获得",
                     "EN": "Obtained from Inventory Arrangement at the Aurum Alley Dock"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 281002,
@@ -441,7 +461,8 @@ var _item = {
                 "EN": ""
             },
             "Icon": "281001.png",
-            "Pic": "SpriteOutput/ItemIcon/281001.png"
+            "Pic": "SpriteOutput/ItemIcon/281001.png",
+            "Ver": "1.x"
         },
         {
             "_id": 281003,
@@ -460,7 +481,8 @@ var _item = {
                 "EN": "\"The great life-nurturing potion is actually... strawberry-flavored?\"<br>\"I don't believe it unless you let me taste it.\""
             },
             "Icon": "281001.png",
-            "Pic": "SpriteOutput/ItemIcon/281001.png"
+            "Pic": "SpriteOutput/ItemIcon/281001.png",
+            "Ver": "1.x"
         },
         {
             "_id": 281004,
@@ -479,7 +501,8 @@ var _item = {
                 "EN": ""
             },
             "Icon": "281001.png",
-            "Pic": "SpriteOutput/ItemIcon/281001.png"
+            "Pic": "SpriteOutput/ItemIcon/281001.png",
+            "Ver": "1.x"
         },
         {
             "_id": 281012,
@@ -498,7 +521,8 @@ var _item = {
                 "EN": ""
             },
             "Icon": "Icon_Testmaterial01.png",
-            "Pic": "Figure_Testmaterial01.png"
+            "Pic": "Figure_Testmaterial01.png",
+            "Ver": "1.x"
         },
         {
             "_id": 281013,
@@ -517,7 +541,8 @@ var _item = {
                 "EN": "A number that you can accumulate and consume to increase the strength of the Support system inside Simulated Universe: Gold and Gears.<br><br><i>\"An impulse arising from organic life, requiring some effort to capture inside the nervous system... And in the deduction, it becomes a, uh, a number?\"</i>"
             },
             "Icon": "281013.png",
-            "Pic": "281013.png"
+            "Pic": "281013.png",
+            "Ver": "1.x"
         }
     ],
     "3": [
@@ -538,7 +563,8 @@ var _item = {
                 "EN": "Astral Express Universal Pass. Travel as far as the Star Rail stretches.<br><br><i>\"Map worlds, meet people, make memories.\"</i>"
             },
             "Icon": "101.png",
-            "Pic": "101.png"
+            "Pic": "101.png",
+            "Ver": "1.x"
         },
         {
             "_id": 102,
@@ -557,7 +583,8 @@ var _item = {
                 "EN": "Direct ticket for the Astral Express with coordinates of specific worlds, suitable for passengers who just want to go from point A to point B.<br><br><i>\"Need to catch up with an old friend? Hop on and see the universe with him/her/it/them!\"</i>"
             },
             "Icon": "102.png",
-            "Pic": "102.png"
+            "Pic": "102.png",
+            "Ver": "1.x"
         },
         {
             "_id": 170,
@@ -576,7 +603,8 @@ var _item = {
                 "EN": ""
             },
             "Icon": "Icon_Testmaterial01.png",
-            "Pic": "Figure_Testmaterial01.png"
+            "Pic": "Figure_Testmaterial01.png",
+            "Ver": "1.x"
         },
         {
             "_id": 171,
@@ -595,7 +623,8 @@ var _item = {
                 "EN": ""
             },
             "Icon": "Icon_Testmaterial01.png",
-            "Pic": "Figure_Testmaterial01.png"
+            "Pic": "Figure_Testmaterial01.png",
+            "Ver": "1.x"
         },
         {
             "_id": 201,
@@ -620,7 +649,8 @@ var _item = {
                     "CH": "等级奖励",
                     "EN": "Level Rewards"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 211,
@@ -657,7 +687,8 @@ var _item = {
                     "CH": "委托奖励",
                     "EN": "Assignment rewards"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 212,
@@ -698,7 +729,8 @@ var _item = {
                     "CH": "余烬兑换",
                     "EN": "Embers Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 213,
@@ -735,7 +767,8 @@ var _item = {
                     "CH": "「忘却之庭」",
                     "EN": "Forgotten Hall"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 221,
@@ -772,7 +805,8 @@ var _item = {
                     "CH": "委托奖励",
                     "EN": "Assignment rewards"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 222,
@@ -809,7 +843,8 @@ var _item = {
                     "CH": "余烬兑换",
                     "EN": "Embers Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 223,
@@ -846,7 +881,8 @@ var _item = {
                     "CH": "「忘却之庭」",
                     "EN": "Forgotten Hall"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 231,
@@ -871,7 +907,8 @@ var _item = {
                     "CH": "遗器分解",
                     "EN": "Salvage Relic"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 232,
@@ -904,7 +941,8 @@ var _item = {
                     "CH": "余烬兑换",
                     "EN": "Embers Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 233,
@@ -929,7 +967,8 @@ var _item = {
                     "CH": "「忘却之庭」",
                     "EN": "Forgotten Hall"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 234,
@@ -948,7 +987,8 @@ var _item = {
                 "EN": "A large Fragmentum dust crystal that had densified after being reduced to its original form.<br><br><i>\"It can even recreate our deceased mother if it has enough information! It really can! Even if it was only for 26 seconds... I just have one question after I completed the experiment: Just why was the Fragmentum created?\"</i>"
             },
             "Icon": "234.png",
-            "Pic": "234.png"
+            "Pic": "234.png",
+            "Ver": "1.x"
         },
         {
             "_id": 235,
@@ -973,7 +1013,8 @@ var _item = {
                     "CH": "遗器分解",
                     "EN": "Salvage Relic"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 236,
@@ -998,7 +1039,8 @@ var _item = {
                     "CH": "无名勋礼",
                     "EN": "Nameless Honor"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 241,
@@ -1035,7 +1077,8 @@ var _item = {
                     "CH": "限时活动奖励",
                     "EN": "Limited-Time Event Rewards"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 251,
@@ -1060,7 +1103,8 @@ var _item = {
                     "CH": "跃迁",
                     "EN": "Warp"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 252,
@@ -1085,7 +1129,8 @@ var _item = {
                     "CH": "跃迁",
                     "EN": "Warp"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 261,
@@ -1130,7 +1175,8 @@ var _item = {
                     "CH": "历战余响【禁闭舱段】",
                     "EN": "Echo of War (Seclusion Zone)"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 262,
@@ -1159,7 +1205,8 @@ var _item = {
                     "CH": "「虚构叙事」",
                     "EN": "Pure Fiction"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 271,
@@ -1178,7 +1225,8 @@ var _item = {
                 "EN": "A special gadget made by Herta. Its principles are not stated.<br><br><i>\"Be grateful, Trailblazer. I've prepared everything for you.\"</i>"
             },
             "Icon": "271.png",
-            "Pic": "271.png"
+            "Pic": "271.png",
+            "Ver": "1.x"
         },
         {
             "_id": 503,
@@ -1203,7 +1251,8 @@ var _item = {
                     "CH": "「模拟宇宙」积分奖励",
                     "EN": "Simulated Universe Point Rewards"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 800,
@@ -1222,7 +1271,8 @@ var _item = {
                 "EN": "A blessing offered to those starting their journey.<br><br>May you embrace the skies and give the greetings of your first voyage to the endless starry seas.<br>May you cross the snowstorm and ignite an eternal flame at the end of the frigid winter.<br>The footsteps you leave behind will one day become a road upon which stars would shine."
             },
             "Icon": "800.png",
-            "Pic": "800.png"
+            "Pic": "800.png",
+            "Ver": "1.x"
         },
         {
             "_id": 801,
@@ -1241,7 +1291,8 @@ var _item = {
                 "EN": "A blessing offered to those starting their journey.<br><br>May you embrace the skies and give the greetings of your first voyage to the endless starry seas.<br>May you cross the snowstorm and ignite an eternal flame at the end of the frigid winter.<br>The footsteps you leave behind will one day become a road upon which stars would shine."
             },
             "Icon": "800.png",
-            "Pic": "800.png"
+            "Pic": "800.png",
+            "Ver": "1.x"
         },
         {
             "_id": 999,
@@ -1260,7 +1311,8 @@ var _item = {
                 "EN": ""
             },
             "Icon": "Icon_Testmaterial01.png",
-            "Pic": "Figure_Testmaterial01.png"
+            "Pic": "Figure_Testmaterial01.png",
+            "Ver": "1.x"
         },
         {
             "_id": 110101,
@@ -1285,7 +1337,8 @@ var _item = {
                     "CH": "无名勋礼",
                     "EN": "Nameless Honor"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110111,
@@ -1322,7 +1375,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110112,
@@ -1363,7 +1417,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110113,
@@ -1400,7 +1455,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110121,
@@ -1437,7 +1493,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110122,
@@ -1478,7 +1535,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110123,
@@ -1515,7 +1573,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110131,
@@ -1552,7 +1611,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110132,
@@ -1593,7 +1653,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110133,
@@ -1630,7 +1691,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110141,
@@ -1667,7 +1729,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110142,
@@ -1708,7 +1771,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110143,
@@ -1745,7 +1809,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110151,
@@ -1782,7 +1847,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110152,
@@ -1823,7 +1889,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110153,
@@ -1860,7 +1927,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110161,
@@ -1897,7 +1965,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110162,
@@ -1938,7 +2007,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110163,
@@ -1975,7 +2045,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110171,
@@ -2012,7 +2083,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110172,
@@ -2053,7 +2125,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110173,
@@ -2090,7 +2163,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110181,
@@ -2128,7 +2202,7 @@ var _item = {
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 110182,
@@ -2170,7 +2244,7 @@ var _item = {
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 110183,
@@ -2208,7 +2282,7 @@ var _item = {
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 110221,
@@ -2246,7 +2320,7 @@ var _item = {
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 110222,
@@ -2288,7 +2362,7 @@ var _item = {
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 110223,
@@ -2326,7 +2400,7 @@ var _item = {
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 110231,
@@ -2364,7 +2438,7 @@ var _item = {
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 110232,
@@ -2406,7 +2480,7 @@ var _item = {
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 110233,
@@ -2444,7 +2518,7 @@ var _item = {
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 110400,
@@ -2473,7 +2547,8 @@ var _item = {
                     "CH": "等级奖励",
                     "EN": "Level Rewards"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110401,
@@ -2506,7 +2581,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110402,
@@ -2539,7 +2615,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110403,
@@ -2572,7 +2649,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110404,
@@ -2605,7 +2683,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110405,
@@ -2638,7 +2717,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110406,
@@ -2671,7 +2751,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110407,
@@ -2704,7 +2785,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110411,
@@ -2737,7 +2819,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110412,
@@ -2770,7 +2853,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110413,
@@ -2803,7 +2887,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110414,
@@ -2836,7 +2921,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110415,
@@ -2869,7 +2955,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110416,
@@ -2902,7 +2989,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110417,
@@ -2935,7 +3023,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110423,
@@ -2969,7 +3058,7 @@ var _item = {
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 110426,
@@ -3003,7 +3092,7 @@ var _item = {
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 110501,
@@ -3028,7 +3117,8 @@ var _item = {
                     "CH": "历战余响【支援舱段】",
                     "EN": "Echo of War (Supply Zone)"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110502,
@@ -3053,7 +3143,8 @@ var _item = {
                     "CH": "历战余响【永冬岭】",
                     "EN": "Echo of War (Everwinter Hill)"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110503,
@@ -3078,7 +3169,8 @@ var _item = {
                     "CH": "历战余响【鳞渊境】",
                     "EN": "Echo of War (Scalegorge Waterscape)"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 110504,
@@ -3103,7 +3195,8 @@ var _item = {
                     "CH": "历战余响【禁闭舱段】",
                     "EN": "Echo of War (Seclusion Zone)"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 111001,
@@ -3148,7 +3241,8 @@ var _item = {
                     "CH": "拟造花萼（金）",
                     "EN": "Calyx (Golden)"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 111002,
@@ -3185,7 +3279,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 111003,
@@ -3222,7 +3317,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 111011,
@@ -3267,7 +3363,8 @@ var _item = {
                     "CH": "拟造花萼（金）",
                     "EN": "Calyx (Golden)"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 111012,
@@ -3304,7 +3401,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 111013,
@@ -3341,7 +3439,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 112001,
@@ -3390,7 +3489,8 @@ var _item = {
                     "CH": "拟造花萼（金）",
                     "EN": "Calyx (Golden)"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 112002,
@@ -3431,7 +3531,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 112003,
@@ -3472,7 +3573,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 112011,
@@ -3517,7 +3619,8 @@ var _item = {
                     "CH": "拟造花萼（金）",
                     "EN": "Calyx (Golden)"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 112012,
@@ -3554,7 +3657,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 112013,
@@ -3591,7 +3695,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 113001,
@@ -3636,7 +3741,8 @@ var _item = {
                     "CH": "拟造花萼（金）",
                     "EN": "Calyx (Golden)"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 113002,
@@ -3673,7 +3779,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 113003,
@@ -3710,7 +3817,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 113011,
@@ -3755,7 +3863,8 @@ var _item = {
                     "CH": "拟造花萼（金）",
                     "EN": "Calyx (Golden)"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 113012,
@@ -3792,7 +3901,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 113013,
@@ -3829,7 +3939,8 @@ var _item = {
                     "CH": "「万能合成机」- 材料置换",
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 114001,
@@ -3875,7 +3986,7 @@ var _item = {
                     "EN": "Calyx (Golden)"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 114002,
@@ -3913,7 +4024,7 @@ var _item = {
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 114003,
@@ -3951,7 +4062,7 @@ var _item = {
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 114011,
@@ -3997,7 +4108,7 @@ var _item = {
                     "EN": "Calyx (Golden)"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 114012,
@@ -4035,7 +4146,7 @@ var _item = {
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 114013,
@@ -4073,7 +4184,7 @@ var _item = {
                     "EN": "Omni-Synthesizer — Material Exchange"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 120000,
@@ -4102,7 +4213,8 @@ var _item = {
                     "CH": "冒险任务获得",
                     "EN": "Adventure Missions"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 120001,
@@ -4131,7 +4243,8 @@ var _item = {
                     "CH": "冒险任务获得",
                     "EN": "Adventure Missions"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 120002,
@@ -4160,7 +4273,8 @@ var _item = {
                     "CH": "冒险任务获得",
                     "EN": "Adventure Missions"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 120003,
@@ -4194,7 +4308,7 @@ var _item = {
                     "EN": "Adventure Missions"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 121000,
@@ -4213,7 +4327,8 @@ var _item = {
                 "EN": "A candy favored by a certain Stellaron Hunter. It contains rocket tree gum, and the crispy sound of bubbles popping is absolutely irresistible.<br><br><i>\"Pop!\"</i>"
             },
             "Icon": "121000.png",
-            "Pic": "121000.png"
+            "Pic": "121000.png",
+            "Ver": "1.x"
         },
         {
             "_id": 121001,
@@ -4238,7 +4353,8 @@ var _item = {
                     "CH": "通过升级「罗浮杂俎」的人气阶段获得",
                     "EN": "Obtained via leveling your popularity level in \"Ghostly Grove\""
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 122000,
@@ -4268,7 +4384,7 @@ var _item = {
                     "EN": "Exploring Penacony"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 180001,
@@ -4305,7 +4421,8 @@ var _item = {
                     "CH": "拟造花萼（金）",
                     "EN": "Calyx (Golden)"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 180002,
@@ -4334,7 +4451,8 @@ var _item = {
                     "CH": "行政区商店",
                     "EN": "Administrative District Shop"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 180004,
@@ -4367,7 +4485,8 @@ var _item = {
                     "CH": "行政区商店",
                     "EN": "Administrative District Shop"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 180005,
@@ -4396,7 +4515,8 @@ var _item = {
                     "CH": "行政区商店",
                     "EN": "Administrative District Shop"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 180006,
@@ -4429,7 +4549,8 @@ var _item = {
                     "CH": "拟造花萼（金）",
                     "EN": "Calyx (Golden)"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 180007,
@@ -4458,7 +4579,8 @@ var _item = {
                     "CH": "杂货小摊",
                     "EN": "Grocery Stand"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 180008,
@@ -4491,7 +4613,8 @@ var _item = {
                     "CH": "拟造花萼（金）",
                     "EN": "Calyx (Golden)"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 180009,
@@ -4524,7 +4647,8 @@ var _item = {
                     "CH": "拟造花萼（金）",
                     "EN": "Calyx (Golden)"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 180010,
@@ -4562,7 +4686,7 @@ var _item = {
                     "EN": "Calyx (Golden)"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 180011,
@@ -4600,7 +4724,7 @@ var _item = {
                     "EN": "Calyx (Golden)"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 180012,
@@ -4638,7 +4762,7 @@ var _item = {
                     "EN": "Ferdinand"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 181001,
@@ -4675,7 +4799,8 @@ var _item = {
                     "CH": "拟造花萼（金）",
                     "EN": "Calyx (Golden)"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 181002,
@@ -4708,7 +4833,8 @@ var _item = {
                     "CH": "杂货小摊",
                     "EN": "Grocery Stand"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 181003,
@@ -4741,7 +4867,8 @@ var _item = {
                     "CH": "杂货小摊",
                     "EN": "Grocery Stand"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 181004,
@@ -4774,7 +4901,8 @@ var _item = {
                     "CH": "行政区商店",
                     "EN": "Administrative District Shop"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 181005,
@@ -4803,7 +4931,8 @@ var _item = {
                     "CH": "行政区商店",
                     "EN": "Administrative District Shop"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 181006,
@@ -4832,7 +4961,8 @@ var _item = {
                     "CH": "杂货小摊",
                     "EN": "Grocery Stand"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 181007,
@@ -4865,7 +4995,8 @@ var _item = {
                     "CH": "杂货小摊",
                     "EN": "Grocery Stand"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 181008,
@@ -4894,7 +5025,8 @@ var _item = {
                     "CH": "行政区商店",
                     "EN": "Administrative District Shop"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 181009,
@@ -4923,7 +5055,8 @@ var _item = {
                     "CH": "杂货小摊",
                     "EN": "Grocery Stand"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 181010,
@@ -4956,7 +5089,8 @@ var _item = {
                     "CH": "行政区商店",
                     "EN": "Administrative District Shop"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 181011,
@@ -4985,7 +5119,8 @@ var _item = {
                     "CH": "陈机铺",
                     "EN": "Oldies Depot"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 181012,
@@ -5014,7 +5149,8 @@ var _item = {
                     "CH": "寿考堂",
                     "EN": "Longevity Hall"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 181013,
@@ -5043,7 +5179,8 @@ var _item = {
                     "CH": "拟造花萼（金）",
                     "EN": "Calyx (Golden)"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 181014,
@@ -5077,7 +5214,7 @@ var _item = {
                     "EN": "Calyx (Golden)"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 181015,
@@ -5107,7 +5244,7 @@ var _item = {
                     "EN": "Penacony: Destructible Objects"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 181016,
@@ -5145,7 +5282,7 @@ var _item = {
                     "EN": "Ferdinand"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 182001,
@@ -5170,7 +5307,8 @@ var _item = {
                     "CH": "虚卒 · 掠夺者等敌方掉落【收容舱段】",
                     "EN": "Storage Zone: Voidranger: Reavers or other enemies"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 182002,
@@ -5195,7 +5333,8 @@ var _item = {
                     "CH": "魔阴身士卒等敌方掉落【流云渡】",
                     "EN": "Cloudford: Mara-Struck Soldiers or other enemies"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 182003,
@@ -5220,7 +5359,8 @@ var _item = {
                     "CH": "杂货小摊",
                     "EN": "Grocery Stand"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 182004,
@@ -5245,7 +5385,8 @@ var _item = {
                     "CH": "永冬灾影等敌方掉落【残响回廊】",
                     "EN": "Corridor of Fading Echoes: Everwinter Shadewalkers or other enemies"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 182005,
@@ -5270,7 +5411,8 @@ var _item = {
                     "CH": "虚数织叶者等敌方掉落【铆钉镇】",
                     "EN": "Rivet Town: Imaginary Weavers or other enemies"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 182006,
@@ -5295,7 +5437,8 @@ var _item = {
                     "CH": "自动机兵等敌方掉落【机械聚落】",
                     "EN": "Robot Settlement: Automatons or other enemies"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 182007,
@@ -5320,7 +5463,8 @@ var _item = {
                     "CH": "入魔机巧 · 率从狻猊等敌方掉落【迴星港】",
                     "EN": "Stargazer Navalia: Entranced Ingenium: Obedient Dracolion or other enemies"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 182008,
@@ -5345,7 +5489,8 @@ var _item = {
                     "CH": "泠泠的药材摊",
                     "EN": "Lingling's Medicine Stand"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 182009,
@@ -5371,7 +5516,7 @@ var _item = {
                     "EN": "The Reverie Hotel: Memory Zone Meme \"Heartbreaker\" or other enemies"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 182010,
@@ -5401,7 +5546,7 @@ var _item = {
                     "EN": "Ferdinand"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 183001,
@@ -5426,7 +5571,8 @@ var _item = {
                     "CH": "魔阴身士卒等敌方掉落【流云渡】",
                     "EN": "Cloudford: Mara-Struck Soldiers or other enemies"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 183002,
@@ -5451,7 +5597,8 @@ var _item = {
                     "CH": "自动机兵等敌方掉落【机械聚落】",
                     "EN": "Robot Settlement: Automatons or other enemies"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 183003,
@@ -5476,7 +5623,8 @@ var _item = {
                     "CH": "永冬灾影等敌方掉落【残响回廊】",
                     "EN": "Corridor of Fading Echoes: Everwinter Shadewalkers or other enemies"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 183004,
@@ -5501,7 +5649,8 @@ var _item = {
                     "CH": "虚数织叶者等敌方掉落【铆钉镇】",
                     "EN": "Rivet Town: Imaginary Weavers or other enemies"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 183005,
@@ -5527,7 +5676,7 @@ var _item = {
                     "EN": "The Reverie Hotel: Memory Zone Meme \"Heartbreaker\" or other enemies"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 183006,
@@ -5557,7 +5706,7 @@ var _item = {
                     "EN": "Ferdinand"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 250320,
@@ -5576,7 +5725,8 @@ var _item = {
                 "EN": "It was rumored that in the earliest version of Aetherium Wars, only the first Aether Spirit who battled can obtain experience, until the emergence of this chip which greatly reduced the grinding time needed for players."
             },
             "Icon": "250320.png",
-            "Pic": "250320.png"
+            "Pic": "250320.png",
+            "Ver": "1.x"
         },
         {
             "_id": 270000,
@@ -5595,7 +5745,8 @@ var _item = {
                 "EN": "Countless graffiti flourish on the streets of Punklorde, and this plain smiley face is one of the favorite signatures of internet dwellers. Once, when the hacker known as Zero paralyzed the entire planet's network, this smile of freedom was everywhere in Rainbow City."
             },
             "Icon": "270000.png",
-            "Pic": "270000.png"
+            "Pic": "270000.png",
+            "Ver": "1.x"
         },
         {
             "_id": 270001,
@@ -5628,7 +5779,8 @@ var _item = {
                     "CH": "完成金人巷街巷事件获得",
                     "EN": "Obtainable through Aurum Alley Streetside Events"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 270002,
@@ -5661,7 +5813,8 @@ var _item = {
                     "CH": "通过回复罗浮杂俎中帖子或评论获得",
                     "EN": "Obtained by replying to threads or comments on the Ghostly Grove"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         }
     ],
     "6": [
@@ -5683,7 +5836,7 @@ var _item = {
             },
             "Icon": "71000.png",
             "Pic": "71000.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 71001,
@@ -5703,7 +5856,7 @@ var _item = {
             },
             "Icon": "71001.png",
             "Pic": "71001.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 71002,
@@ -5723,7 +5876,7 @@ var _item = {
             },
             "Icon": "71002.png",
             "Pic": "71002.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 71003,
@@ -5743,7 +5896,7 @@ var _item = {
             },
             "Icon": "71003.png",
             "Pic": "71003.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 71004,
@@ -5763,7 +5916,7 @@ var _item = {
             },
             "Icon": "71004.png",
             "Pic": "71004.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 71005,
@@ -5783,7 +5936,7 @@ var _item = {
             },
             "Icon": "71005.png",
             "Pic": "71005.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 71006,
@@ -5803,7 +5956,7 @@ var _item = {
             },
             "Icon": "71006.png",
             "Pic": "71006.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 71007,
@@ -5823,7 +5976,7 @@ var _item = {
             },
             "Icon": "71007.png",
             "Pic": "71007.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 71008,
@@ -5843,7 +5996,7 @@ var _item = {
             },
             "Icon": "71008.png",
             "Pic": "71008.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 71009,
@@ -5863,7 +6016,7 @@ var _item = {
             },
             "Icon": "71009.png",
             "Pic": "71009.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 71010,
@@ -5883,7 +6036,7 @@ var _item = {
             },
             "Icon": "71010.png",
             "Pic": "71010.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 71011,
@@ -5903,7 +6056,7 @@ var _item = {
             },
             "Icon": "71011.png",
             "Pic": "71011.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 71012,
@@ -5923,7 +6076,7 @@ var _item = {
             },
             "Icon": "71012.png",
             "Pic": "71012.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 71013,
@@ -5943,7 +6096,7 @@ var _item = {
             },
             "Icon": "71013.png",
             "Pic": "71013.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 71014,
@@ -5963,7 +6116,7 @@ var _item = {
             },
             "Icon": "71014.png",
             "Pic": "71014.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 71015,
@@ -5983,7 +6136,7 @@ var _item = {
             },
             "Icon": "71015.png",
             "Pic": "71015.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 71016,
@@ -6003,7 +6156,7 @@ var _item = {
             },
             "Icon": "71016.png",
             "Pic": "71016.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 71017,
@@ -6023,7 +6176,7 @@ var _item = {
             },
             "Icon": "71017.png",
             "Pic": "71017.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 71018,
@@ -6043,7 +6196,7 @@ var _item = {
             },
             "Icon": "71018.png",
             "Pic": "71018.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 71019,
@@ -6063,7 +6216,7 @@ var _item = {
             },
             "Icon": "71019.png",
             "Pic": "71019.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 300002,
@@ -6083,7 +6236,7 @@ var _item = {
             },
             "Icon": "300002.png",
             "Pic": "300002.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 300003,
@@ -6103,7 +6256,7 @@ var _item = {
             },
             "Icon": "300003.png",
             "Pic": "300003.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 300011,
@@ -6123,7 +6276,7 @@ var _item = {
             },
             "Icon": "300011.png",
             "Pic": "300011.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 300020,
@@ -6143,7 +6296,7 @@ var _item = {
             },
             "Icon": "300020.png",
             "Pic": "300020.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 300031,
@@ -6163,7 +6316,7 @@ var _item = {
             },
             "Icon": "300031.png",
             "Pic": "300031.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 300041,
@@ -6183,7 +6336,7 @@ var _item = {
             },
             "Icon": "300041.png",
             "Pic": "300041.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 300042,
@@ -6203,7 +6356,7 @@ var _item = {
             },
             "Icon": "300042.png",
             "Pic": "300042.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 300051,
@@ -6223,7 +6376,7 @@ var _item = {
             },
             "Icon": "300051.png",
             "Pic": "300051.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 300052,
@@ -6243,7 +6396,7 @@ var _item = {
             },
             "Icon": "300052.png",
             "Pic": "300052.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 300101,
@@ -6263,7 +6416,7 @@ var _item = {
             },
             "Icon": "300101.png",
             "Pic": "300101.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 300102,
@@ -6283,7 +6436,7 @@ var _item = {
             },
             "Icon": "300102.png",
             "Pic": "300102.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 300103,
@@ -6303,7 +6456,7 @@ var _item = {
             },
             "Icon": "300103.png",
             "Pic": "300103.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 300104,
@@ -6323,7 +6476,7 @@ var _item = {
             },
             "Icon": "300104.png",
             "Pic": "300104.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 300200,
@@ -6343,7 +6496,7 @@ var _item = {
             },
             "Icon": "190001.png",
             "Pic": "190001.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 300201,
@@ -6363,7 +6516,7 @@ var _item = {
             },
             "Icon": "300201.png",
             "Pic": "300201.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 309001,
@@ -6383,7 +6536,7 @@ var _item = {
             },
             "Icon": "309001.png",
             "Pic": "309001.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 309002,
@@ -6403,7 +6556,7 @@ var _item = {
             },
             "Icon": "309001.png",
             "Pic": "309001.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 310001,
@@ -6423,7 +6576,7 @@ var _item = {
             },
             "Icon": "310001.png",
             "Pic": "310001.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 310002,
@@ -6443,7 +6596,7 @@ var _item = {
             },
             "Icon": "310002.png",
             "Pic": "310002.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 310003,
@@ -6463,7 +6616,7 @@ var _item = {
             },
             "Icon": "310003.png",
             "Pic": "310003.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 310004,
@@ -6483,7 +6636,7 @@ var _item = {
             },
             "Icon": "310004.png",
             "Pic": "310004.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 310005,
@@ -6503,7 +6656,7 @@ var _item = {
             },
             "Icon": "310005.png",
             "Pic": "310005.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 310006,
@@ -6523,7 +6676,7 @@ var _item = {
             },
             "Icon": "310006.png",
             "Pic": "310006.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 310007,
@@ -6543,7 +6696,7 @@ var _item = {
             },
             "Icon": "310007.png",
             "Pic": "310007.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 310008,
@@ -6563,7 +6716,7 @@ var _item = {
             },
             "Icon": "310008.png",
             "Pic": "310008.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 310009,
@@ -6583,7 +6736,7 @@ var _item = {
             },
             "Icon": "310009.png",
             "Pic": "310009.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 310010,
@@ -6603,7 +6756,7 @@ var _item = {
             },
             "Icon": "310010.png",
             "Pic": "310010.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 310011,
@@ -6623,7 +6776,7 @@ var _item = {
             },
             "Icon": "310011.png",
             "Pic": "310011.png",
-            "New": true
+            "Ver": "2.0"
         }
     ],
     "4": [
@@ -6644,7 +6797,8 @@ var _item = {
                 "EN": "In this grand universe, moral standards are materialized into physical form. Thumbs-up approvals aren't a rare sight to behold.<br>What matters is that you are recognized!"
             },
             "Icon": "140005.png",
-            "Pic": "SpriteOutput/ItemIcon/140005.png"
+            "Pic": "SpriteOutput/ItemIcon/140005.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140004,
@@ -6669,7 +6823,8 @@ var _item = {
                     "CH": "「雅利洛-Ⅵ」可破坏物掉落",
                     "EN": "Found in destructible objects in Jarilo-VI"
                 }
-            ]
+            ],
+            "Ver": "1.x"
         },
         {
             "_id": 140017,
@@ -6688,7 +6843,8 @@ var _item = {
                 "EN": "Defective parts collected from a malfunctioning robot.<br><br><i>\"You get what you pay for. Obviously, this is worthless.\"</i>"
             },
             "Icon": "140017.png",
-            "Pic": "140017.png"
+            "Pic": "140017.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140021,
@@ -6707,7 +6863,8 @@ var _item = {
                 "EN": "According to Sampo, it's a piece of mining equipment that he lost.<br><br><i>\"A pickaxe with a polished point might make for a decent weapon?\"</i>"
             },
             "Icon": "140021.png",
-            "Pic": "140021.png"
+            "Pic": "140021.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140022,
@@ -6726,7 +6883,8 @@ var _item = {
                 "EN": "According to Sampo, it's a piece of mining equipment that he lost.<br><br><i>\"An ordinary respirator.\"</i>"
             },
             "Icon": "140022.png",
-            "Pic": "140022.png"
+            "Pic": "140022.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140023,
@@ -6745,7 +6903,8 @@ var _item = {
                 "EN": "According to Sampo, it's a piece of mining equipment that he lost.<br><br><i>\"Put it on and you'll be the finest in the mines.\"</i>"
             },
             "Icon": "140023.png",
-            "Pic": "140023.png"
+            "Pic": "140023.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140024,
@@ -6764,7 +6923,8 @@ var _item = {
                 "EN": "A strange ornament you found in the Corridor of Fading Echoes resembling a delicate drill.<br><br><i>\"'Balakin' is inscribed onto the back. Your intuition tells you this device isn't something simple...\"</i>"
             },
             "Icon": "140024.png",
-            "Pic": "140024.png"
+            "Pic": "140024.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140025,
@@ -6783,7 +6943,8 @@ var _item = {
                 "EN": "An iron box passed down by the Balakin family, containing secrets left behind by their ancestors hundreds of years ago.<br><br><i>\"My ancestors left behind the iron box, but forgot to leave its key. Funny, very funny.\"</i>"
             },
             "Icon": "140025.png",
-            "Pic": "140025.png"
+            "Pic": "140025.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140026,
@@ -6802,7 +6963,8 @@ var _item = {
                 "EN": "An encryption key used to activate the energy core in the restricted zone.<br><br><i>\"Despite its apparent similarities to other cores, it is clear the energy core inside the Silvermane Guard Restricted Zone is highly-customized.\"</i>"
             },
             "Icon": "140026.png",
-            "Pic": "140026.png"
+            "Pic": "140026.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140027,
@@ -6821,7 +6983,8 @@ var _item = {
                 "EN": "A custom key that can unlock the gear bridge inside the Silvermane Guard Restricted Zone. Only officers are granted access permissions."
             },
             "Icon": "140026.png",
-            "Pic": "140026.png"
+            "Pic": "140026.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140032,
@@ -6840,7 +7003,8 @@ var _item = {
                 "EN": "A temporary pass allowing entry into the Silvermane Guard Restricted Zone.<br><br><i>\"Temporary workers in possession of this temporary pass may enter the restricted zone within three hours. Lending this pass to others is a felony, and offenders will suffer serious consequences.\"</i>"
             },
             "Icon": "140032.png",
-            "Pic": "140032.png"
+            "Pic": "140032.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140033,
@@ -6859,7 +7023,8 @@ var _item = {
                 "EN": "A part used to connect the body and chassis of a mine cart.<br><br><i>\"It is this small part that supports the entire structural integrity of the mine cart.\"</i>"
             },
             "Icon": "140033.png",
-            "Pic": "140033.png"
+            "Pic": "140033.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140034,
@@ -6878,7 +7043,8 @@ var _item = {
                 "EN": "Level-1 certification for opening the entrance of the Robot Settlement. Only those who have obtained all three certification levels can gain permission to open the door.<br><br><i>\"Hey, ow! Ow, ow, ow... Can't this robot be more gentle with a pretty girl's hand?\"</i>"
             },
             "Icon": "140034.png",
-            "Pic": "140034.png"
+            "Pic": "140034.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140035,
@@ -6897,7 +7063,8 @@ var _item = {
                 "EN": "Level-2 certification for opening the entrance of the Robot Settlement. Only those who have obtained all three certification levels can gain permission to open the door.<br><br><i>\"Hey, ow! Ow, ow, ow... Can't this robot be more gentle with a pretty girl's hand?\"</i>"
             },
             "Icon": "140035.png",
-            "Pic": "140035.png"
+            "Pic": "140035.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140036,
@@ -6916,7 +7083,8 @@ var _item = {
                 "EN": "Level-3 certification for opening the entrance of the Robot Settlement. Only those who have obtained all three certification levels can gain permission to open the door.<br><br><i>\"Hey, ow! Ow, ow, ow... Can't this robot be more gentle with a pretty girl's hand?\"</i>"
             },
             "Icon": "140036.png",
-            "Pic": "140036.png"
+            "Pic": "140036.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140037,
@@ -6935,7 +7103,8 @@ var _item = {
                 "EN": "A Space Station Special Permit issued by Asta and Arlan. Allows you to freely enter and exit most cabins of the space station.<br><br><i>\"Why not all cabins you ask? Let's just say, researchers of Herta Space Station are all crouching tigers, I don't want to limit their imaginations when it comes to unlocking things.\"</i>"
             },
             "Icon": "140037.png",
-            "Pic": "140037.png"
+            "Pic": "140037.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140039,
@@ -6954,7 +7123,8 @@ var _item = {
                 "EN": "A part used for connecting mine cart wheels.<br><br><i>\"A sturdy axle connects two mine cart wheels.\"</i>"
             },
             "Icon": "140039.png",
-            "Pic": "140039.png"
+            "Pic": "140039.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140040,
@@ -6973,7 +7143,8 @@ var _item = {
                 "EN": "Proof of Julian's capacities.<br><br><i>\"There are no masters and newbies with marbles. Only those who grab the opportunities can win.\"</i>"
             },
             "Icon": "140040.png",
-            "Pic": "140040.png"
+            "Pic": "140040.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140041,
@@ -6992,7 +7163,8 @@ var _item = {
                 "EN": "Treasure across time.<br><br><i>\"I didn't dig out ninety percent of the time capsules.\"</i>"
             },
             "Icon": "140041.png",
-            "Pic": "140041.png"
+            "Pic": "140041.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140046,
@@ -7011,7 +7183,8 @@ var _item = {
                 "EN": "A key that can be used in the Rivet Town Commercial District.<br><br><i>\"The Fragmentum has come and everyone has fled. What Chamber of Commerce?\"</i>"
             },
             "Icon": "140009.png",
-            "Pic": "140009.png"
+            "Pic": "140009.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140065,
@@ -7030,7 +7203,8 @@ var _item = {
                 "EN": "A big bear doll that has been stashed away.<br><br><i>\"Natasha's hand-made bear doll. Admittedly, it is rather cute.\"</i>"
             },
             "Icon": "140065.png",
-            "Pic": "140065.png"
+            "Pic": "140065.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140066,
@@ -7049,7 +7223,8 @@ var _item = {
                 "EN": "A map that supposedly leads to treasure.<br><br><i>\"A Treasure Map that looks rather sketchy. Is it... accurate?\"</i>"
             },
             "Icon": "140066.png",
-            "Pic": "140066.png"
+            "Pic": "140066.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140067,
@@ -7068,7 +7243,8 @@ var _item = {
                 "EN": "A map that supposedly leads to treasure.<br><br><i>\"A Treasure Map made a long time ago. Judging by how old it is, seems quite convincing.\"</i>"
             },
             "Icon": "140066.png",
-            "Pic": "140066.png"
+            "Pic": "140066.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140068,
@@ -7087,7 +7263,8 @@ var _item = {
                 "EN": "Chitin that looks like armor, taken from a Fragmentum Monster.<br><br><i>\"Who wants something like this...\"</i>"
             },
             "Icon": "140068.png",
-            "Pic": "140068.png"
+            "Pic": "140068.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140069,
@@ -7106,7 +7283,8 @@ var _item = {
                 "EN": "A pamphlet about the used item auction.<br><br><i>\"A way for vagrants to trade... an auction sounds like a good idea.\"</i>"
             },
             "Icon": "140069.png",
-            "Pic": "140069.png"
+            "Pic": "140069.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140070,
@@ -7125,7 +7303,8 @@ var _item = {
                 "EN": "A navigation map with \"recipient address\" marked on it.<br><br><i>\"Heron Express would like to warn you about the latest scam, 'We left your delivery at your door.'\"</i>"
             },
             "Icon": "140066.png",
-            "Pic": "140066.png"
+            "Pic": "140066.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140071,
@@ -7144,7 +7323,8 @@ var _item = {
                 "EN": "Intricate parts dotted around the Disposal Site. Hardly anyone would notice these dated-looking dull little things. Iron and nickel are gifts from the shooting star, but ultra nickel is something entirely different... Produced with mysterious methods, this superalloy, though outdated in the eyes of Herta, is patented and has no competition in the entire universe.<br><br><i>\"No competition? You get one of these for 10 credits on the black market. They say you can use it to repair all the beacons in the universe, very versatile.\"</i>"
             },
             "Icon": "140071.png",
-            "Pic": "140071.png"
+            "Pic": "140071.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140072,
@@ -7163,7 +7343,8 @@ var _item = {
                 "EN": "A signal log in which is recorded the affirmative answer from Lesley and the truth about the starquake. It is sweet yet cruel.<br><br><i>\"Knowing how Rocky is, even I can't predict what he might do when he learns the truth.\"</i>"
             },
             "Icon": "140072.png",
-            "Pic": "140072.png"
+            "Pic": "140072.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140073,
@@ -7182,7 +7363,8 @@ var _item = {
                 "EN": "A fake log with Lesley's answer. Whoever made this hopes to maintain the fragile balance of Rocky's life using abrupt rejection.<br><br><i>\"She will say no to him and his life will go on. It's always easier to forget than to heal.\"</i>"
             },
             "Icon": "140073.png",
-            "Pic": "140073.png"
+            "Pic": "140073.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140074,
@@ -7201,7 +7383,8 @@ var _item = {
                 "EN": "A clip of the footage captured by the Herta Panopticon System. With all researchers under constant watch, there's no keeping secrets.<br><br><i>\"Surveillance is the bane of secrets but also the best historian-to-be. You can trace back to the beginning of everything, be it good or bad.\"</i>"
             },
             "Icon": "113007.png",
-            "Pic": "113007.png"
+            "Pic": "113007.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140075,
@@ -7220,7 +7403,8 @@ var _item = {
                 "EN": "A videotape that recorded the intricate secrets of the space station. Its maker went the extra mile in making it secure by installing a most extraordinary security mechanism.<br><br><i>\"As if you have fallen into a space that has neither beginning nor end, you look through a standard-issue navigation visor and stare into the deepest retreat of the vast universe. In the distance, you see a dim blue dot, like a drop of water before the canvas of darkness.\"</i>"
             },
             "Icon": "113006.png",
-            "Pic": "113006.png"
+            "Pic": "113006.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140076,
@@ -7239,7 +7423,8 @@ var _item = {
                 "EN": "A videotape that recorded the intricate secrets of the space station. Its maker went the extra mile in making it secure by installing a most extraordinary security mechanism.<br><br><i>\"That's the most direct evidence of the power of the Aeons. The justice people are seeking seems almost amusing in the face of a doomed planet... The hollow and eerily fast utterance is proof that the last bit of the videotape has been corrupted by something.\"</i>"
             },
             "Icon": "113006.png",
-            "Pic": "113006.png"
+            "Pic": "113006.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140077,
@@ -7258,7 +7443,8 @@ var _item = {
                 "EN": "A videotape that recorded the intricate secrets of the space station. Its maker went the extra mile in making it secure by installing a most extraordinary security mechanism.<br><br><i>\"There are no reinforcements. If you can, please come back following the route we agreed on in advance. Do you copy? The intermittent sound from the cosmic radio is calling a name repeatedly. There is no reply.\"</i>"
             },
             "Icon": "113006.png",
-            "Pic": "113006.png"
+            "Pic": "113006.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140078,
@@ -7277,7 +7463,8 @@ var _item = {
                 "EN": "An envelope found in Belobog.<br>The envelope reads: Dear kindhearted soul, can you buy me a stamp and post this for me? A thousand thanks!<br>Maybe someone in the Overworld can help you with this unsent letter."
             },
             "Icon": "190003.png",
-            "Pic": "190003.png"
+            "Pic": "190003.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140079,
@@ -7296,7 +7483,8 @@ var _item = {
                 "EN": "An envelope found in Belobog.<br>The envelope reads: To Carlo Eyre, Room B03, Building 35, 6th Street, Administrative District.<br>Maybe someone in the Overworld can help you with this unsent letter."
             },
             "Icon": "190003.png",
-            "Pic": "190003.png"
+            "Pic": "190003.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140080,
@@ -7315,7 +7503,8 @@ var _item = {
                 "EN": "An envelope found in Belobog.<br>The envelope reads: To my one and only; my precious; my eternally youthful; my clever and witty; the one worthy of all my love to protect; the one who may not even exist: The true love of my future.<br>Maybe someone in the Overworld can help you with this unsent letter."
             },
             "Icon": "190003.png",
-            "Pic": "190003.png"
+            "Pic": "190003.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140081,
@@ -7334,7 +7523,8 @@ var _item = {
                 "EN": "An envelope found in Belobog.<br>The envelope reads: The trash I wrote should never see the light of day. That's fine, it can rot forever in the bottom of the dark mailbox.<br>Maybe someone in the Overworld can help you with this unsent letter."
             },
             "Icon": "190003.png",
-            "Pic": "190003.png"
+            "Pic": "190003.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140082,
@@ -7353,7 +7543,8 @@ var _item = {
                 "EN": "One of the anonymous packages delivered to the clinic.<br><br><i>\"Milk powder and a thermal baby bottle. Very thoughtful indeed...\"</i>"
             },
             "Icon": "140082.png",
-            "Pic": "140082.png"
+            "Pic": "140082.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140083,
@@ -7372,7 +7563,8 @@ var _item = {
                 "EN": "Anonymous package not yet delivered to the clinic.<br><br><i>\"Next to the anonymous package lies its sender.\"</i>"
             },
             "Icon": "140082.png",
-            "Pic": "140082.png"
+            "Pic": "140082.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140084,
@@ -7391,7 +7583,8 @@ var _item = {
                 "EN": "A mysterious card used to access an unknown facility. Its corner has been chipped away and the letters on it have become unrecognizable. But when you hold it under the light at a certain angle, you can see the faint letters that read \"Thousand Stars.\"<br><br><i>\"Obviously this card was extremely valuable, but it was discarded like trash when someone lost interest... Sounds like something Herta would do.\"</i>"
             },
             "Icon": "140084.png",
-            "Pic": "140084.png"
+            "Pic": "140084.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140085,
@@ -7410,7 +7603,8 @@ var _item = {
                 "EN": "A mysterious card used to access an unknown facility. Its corner has been chipped away and the letters on it have become unrecognizable. But when you hold it under the light at a certain angle, you can see the faint letters that read \"██.\" <i>\"When you run your fingers past the incomprehensible letters, you can't help but think: maybe this card is one of those collector's edition things. Could it be that having all the cards can grant you the power to summon... that Aeon?\"</i>"
             },
             "Icon": "140085.png",
-            "Pic": "140085.png"
+            "Pic": "140085.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140086,
@@ -7429,7 +7623,8 @@ var _item = {
                 "EN": "A mysterious card used to access an unknown facility. Its corner has been chipped away, and the letters on it have become unrecognizable. But when you hold it under the light at a certain angle, you can see the faint letters that read \"Corporate.\"<br><br><i>\"Trust me, this is no doubt an access card used to open multiple layers of secured hatches, and it must have been developed by big corporations. The room it unlocks must also have been built by some pan-cosmic magnate.\"</i>"
             },
             "Icon": "140086.png",
-            "Pic": "140086.png"
+            "Pic": "140086.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140090,
@@ -7448,7 +7643,8 @@ var _item = {
                 "EN": "A box of medical supplies urgently needed by Natasha.<br><br><i>\"Rubbing alcohol — hope it hasn't evaporated too much...\"</i>"
             },
             "Icon": "140082.png",
-            "Pic": "140082.png"
+            "Pic": "140082.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140091,
@@ -7467,7 +7663,8 @@ var _item = {
                 "EN": "A box of medical supplies urgently needed by Natasha.<br><br><i>\"Natasha's home-made painkillers. People faint just from the smell.\"</i>"
             },
             "Icon": "140082.png",
-            "Pic": "140082.png"
+            "Pic": "140082.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140095,
@@ -7486,7 +7683,8 @@ var _item = {
                 "EN": "One of the anonymous packages delivered to the clinic.<br><br><i>\"Children fall asleep to stories. A must-try for young parents...\"</i>"
             },
             "Icon": "140082.png",
-            "Pic": "140082.png"
+            "Pic": "140082.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140096,
@@ -7505,7 +7703,8 @@ var _item = {
                 "EN": "One of the anonymous packages delivered to the clinic.<br><br><i>\"Soft and breathable, our quality clothing is designed to protect your baby from sweat. Perfect for silky-smooth skin.\"</i>"
             },
             "Icon": "140082.png",
-            "Pic": "140082.png"
+            "Pic": "140082.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140097,
@@ -7524,7 +7723,8 @@ var _item = {
                 "EN": "Old letters that Kluzer carries around.<br><br><i>\"He didn't have the time to post them... maybe he didn't need to anymore...\"</i>"
             },
             "Icon": "190003.png",
-            "Pic": "190003.png"
+            "Pic": "190003.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140098,
@@ -7543,7 +7743,8 @@ var _item = {
                 "EN": "An old yellowing photo. Evidence of a certain individual's part in a certain historic event.<br>The figure in the picture did not seem to plan to let people feel the historical weight this photo should carry.<br><br><i>\"What will become of Belobog in a hundred years? Well, you'll have to see it through your eyes.\"</i>"
             },
             "Icon": "149975.png",
-            "Pic": "149975.png"
+            "Pic": "149975.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140103,
@@ -7562,7 +7763,8 @@ var _item = {
                 "EN": "Commodity contract for the auction. Use it to get paid based on the value of the goods.<br><br><i>\"They always put 'Handle with Care' on the contract but everyone ignores it.\"</i>"
             },
             "Icon": "190002.png",
-            "Pic": "190002.png"
+            "Pic": "190002.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140104,
@@ -7581,7 +7783,8 @@ var _item = {
                 "EN": "Rare relic from ancient times. Can be used with intricate Old World instruments.<br><br><i>\"A way for vagrants to trade... an auction sounds like a good idea.\"</i>"
             },
             "Icon": "140104.png",
-            "Pic": "140104.png"
+            "Pic": "140104.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140105,
@@ -7600,7 +7803,8 @@ var _item = {
                 "EN": "Letter from outer space by Hosea Lazaro the comet hunter — full of rubbish.<br><br><i>\"Back when I was still in the space station, I would look into the night sky in search of those faraway celestial bodies. Those clouds of stars, soft and alluring, captured my anxious heart. If you are like me, it's only a matter of time before people crown you with the title 'comet hunter'.\"</i>"
             },
             "Icon": "140105.png",
-            "Pic": "140105.png"
+            "Pic": "140105.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140106,
@@ -7619,7 +7823,8 @@ var _item = {
                 "EN": "Letter from outer space by Hosea Lazaro the comet hunter — full of rubbish.<br><br><i>\"Back when I was still in the space station, I would look into the night sky in search of those faraway celestial bodies. Those clouds of stars, soft and alluring, captured my anxious heart. If you are like me, it's only a matter of time before people crown you with the title 'comet hunter'.\"</i>"
             },
             "Icon": "140105.png",
-            "Pic": "140105.png"
+            "Pic": "140105.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140107,
@@ -7638,7 +7843,8 @@ var _item = {
                 "EN": "Letter from outer space by Hosea Lazaro the comet hunter — full of rubbish.<br><br><i>\"Back when I was still in the space station, I would look into the night sky in search of those faraway celestial bodies. Those clouds of stars, soft and alluring, captured my anxious heart. If you are like me, it's only a matter of time before people crown you with the title 'comet hunter'.\"</i>"
             },
             "Icon": "140105.png",
-            "Pic": "140105.png"
+            "Pic": "140105.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140108,
@@ -7657,7 +7863,8 @@ var _item = {
                 "EN": "The Xenohydro was confined within a Mystic Case in the shape of a trapezohedron, with one of the planes made from the Absolutely Objective Lens. It is observed that the Xenohydro has icy blue skin that has silver spots dotted around. If you look through other planes to observe the Xenohydro, you'll find that it looks rather different. In fact, the image of the Xenohydro will vary from person to person.<br><br><i>\"I have a feeling that compared with the Xenohydro, this case is the actual curio. It can be worth quite a lot on the curio market.\"</i>"
             },
             "Icon": "140108.png",
-            "Pic": "140108.png"
+            "Pic": "140108.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140109,
@@ -7676,7 +7883,8 @@ var _item = {
                 "EN": "The king of soft drinks, rough around the edges but good for your buddies — give 'em the strong kick they deserve.<br><br><i>\"A big barrel of pure caramel, a few jumping peas here and there, a handful of fresh canterbury bells, and some interdimensional leaves. Don't forget a drop of Ambergris of Abundance and a few rolls of orchid zest. How much of a kick you want is your choice.\"</i>"
             },
             "Icon": "113005.png",
-            "Pic": "113005.png"
+            "Pic": "113005.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140110,
@@ -7695,7 +7903,8 @@ var _item = {
                 "EN": ""
             },
             "Icon": "140110.png",
-            "Pic": "140110.png"
+            "Pic": "140110.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140111,
@@ -7714,7 +7923,8 @@ var _item = {
                 "EN": "A key with its teeth all worn smooth and not looking like it can open doors anytime soon.<br><br><i>\"Rivet Town Chamber of Commerce? Ask Julian if he knows about it.\"</i>"
             },
             "Icon": "140009.png",
-            "Pic": "140009.png"
+            "Pic": "140009.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140112,
@@ -7733,7 +7943,8 @@ var _item = {
                 "EN": "A treasure map decoded with a Special Autoradiograph, revealing hidden coordinates within the space station.<br><br><i>\"I heard that scoundrel left behind some good stuff in the space station. This must be where the treasure is.\"</i>"
             },
             "Icon": "113007.png",
-            "Pic": "113007.png"
+            "Pic": "113007.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140114,
@@ -7752,7 +7963,8 @@ var _item = {
                 "EN": "Bronya's toy as a child. The snowy owl circles above the snowfields, looking for the best opportunity to hunt the hare.<br><br><i>\"Even if our connection with the past is completely broken, there are still things that can complete us.\"</i>"
             },
             "Icon": "140114.png",
-            "Pic": "140114.png"
+            "Pic": "140114.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140115,
@@ -7771,7 +7983,8 @@ var _item = {
                 "EN": "A very expensive flower. It blooms only once a year for a month.<br><br><i>\"But honestly, the price is completely worth that one month of bloom!\"</i>"
             },
             "Icon": "140115.png",
-            "Pic": "140115.png"
+            "Pic": "140115.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140116,
@@ -7790,7 +8003,8 @@ var _item = {
                 "EN": "An eight-petalled flower with white spots at each tip, just like snowflakes.<br><br><i>\"A long time ago, the initial snow of the year symbolized harvest and joy.\"</i>"
             },
             "Icon": "140116.png",
-            "Pic": "140116.png"
+            "Pic": "140116.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140117,
@@ -7809,7 +8023,8 @@ var _item = {
                 "EN": "An aristocratic flower beloved by high society.<br><br><i>\"Rumor has it that a noblewoman spent her entire family's fortune on one of these flowers. This was why it was given the name Marquise.\"</i>"
             },
             "Icon": "140117.png",
-            "Pic": "140117.png"
+            "Pic": "140117.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140118,
@@ -7828,7 +8043,8 @@ var _item = {
                 "EN": "A lovely small red-and-yellow flower that looks like the sun.<br><br><i>\"Just looking at it makes you feel warm inside.\"</i>"
             },
             "Icon": "140118.png",
-            "Pic": "140118.png"
+            "Pic": "140118.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140119,
@@ -7847,7 +8063,8 @@ var _item = {
                 "EN": "Common mechanical parts used everywhere.<br><br><i>\"The prospectors say this is the specialty of corners and gaps. It kinda makes sense...\"</i>"
             },
             "Icon": "140119.png",
-            "Pic": "140119.png"
+            "Pic": "140119.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140120,
@@ -7866,7 +8083,8 @@ var _item = {
                 "EN": "A metal casing removed from discarded robots. Maybe it can still be used.<br><br><i>\"It's common for animals to molt, but have you seen robots molt?\"</i>"
             },
             "Icon": "140120.png",
-            "Pic": "140120.png"
+            "Pic": "140120.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140121,
@@ -7885,7 +8103,8 @@ var _item = {
                 "EN": "A cold metallic construct, but a burning passion perhaps hides beneath the petals.<br><br><i>\"It is cold to the touch, but warm if you put it against your body. Where on your body? Try your heart.\"</i>"
             },
             "Icon": "140121.png",
-            "Pic": "140121.png"
+            "Pic": "140121.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140123,
@@ -7904,7 +8123,8 @@ var _item = {
                 "EN": "Portable backup power source for the elevator. Can be used in an emergency after being assembled.<br><br><i>\"Safety and portability are both great, but the capacity... who designed this!?\"</i>"
             },
             "Icon": "140013.png",
-            "Pic": "140013.png"
+            "Pic": "140013.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140124,
@@ -7923,7 +8143,8 @@ var _item = {
                 "EN": "A token required to cross an important location."
             },
             "Icon": "140124.png",
-            "Pic": "140124.png"
+            "Pic": "140124.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140125,
@@ -7942,7 +8163,8 @@ var _item = {
                 "EN": "This seems to be a note that Mei had dropped. Messy writing fills the page with records on how to look after some common flower species."
             },
             "Icon": "140125.png",
-            "Pic": "140125.png"
+            "Pic": "140125.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140126,
@@ -7961,7 +8183,8 @@ var _item = {
                 "EN": "This seems to be a note that Mei had dropped. Messy writing fills the page with records of what she had learned from other housekeepers."
             },
             "Icon": "140125.png",
-            "Pic": "140125.png"
+            "Pic": "140125.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140127,
@@ -7980,7 +8203,8 @@ var _item = {
                 "EN": "Testimony that Tantan had recorded at the scene of the incident. It is no simple task to get useful information out of the victim's jumbled statements."
             },
             "Icon": "140125.png",
-            "Pic": "140125.png"
+            "Pic": "140125.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140128,
@@ -7999,7 +8223,8 @@ var _item = {
                 "EN": "Testimony that Tantan had recorded at the scene of the incident. It is no simple task to get useful information out of the witness' jumbled statements."
             },
             "Icon": "140125.png",
-            "Pic": "140125.png"
+            "Pic": "140125.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140129,
@@ -8018,7 +8243,8 @@ var _item = {
                 "EN": "Testimony that Tantan had recorded at the scene of the incident. It is no simple task to get useful information out of the witness' jumbled statements."
             },
             "Icon": "140125.png",
-            "Pic": "140125.png"
+            "Pic": "140125.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140130,
@@ -8037,7 +8263,8 @@ var _item = {
                 "EN": "A picture of the lane taken by the cycrane. Starskiffs fly to and fro within the lane. The offending starskiff tried to hide within the traffic, only to expose itself."
             },
             "Icon": "149975.png",
-            "Pic": "149975.png"
+            "Pic": "149975.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140132,
@@ -8056,7 +8283,8 @@ var _item = {
                 "EN": "Handwritten cards with words of encouragement from Capote to his fans.<br><br><i>\"Master Capote's care and love for everyone is contained in these words!\"</i>"
             },
             "Icon": "140132.png",
-            "Pic": "140132.png"
+            "Pic": "140132.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140133,
@@ -8075,7 +8303,8 @@ var _item = {
                 "EN": "A photo snapped from a unique angle and contains Capote's autograph.<br><br><i>\"Master Capote authorized it! It's not an intrusion of privacy!\"</i>"
             },
             "Icon": "113004.png",
-            "Pic": "113004.png"
+            "Pic": "113004.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140134,
@@ -8094,7 +8323,8 @@ var _item = {
                 "EN": "The wiki-style encyclopedia that Capote's fans created themselves. Its contents mostly involve Capote's sayings.<br><br><i>\"Master Capote's keyword in life has been updated. The most recent version is: illumination!\"</i>"
             },
             "Icon": "113006.png",
-            "Pic": "113006.png"
+            "Pic": "113006.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140135,
@@ -8113,7 +8343,8 @@ var _item = {
                 "EN": "A personal special pass belonging to Arlan, with Peppy's photo stuck to it.<br><br><i>\"Brother is certainly loyal, and he carries his good friend's photo whenever he goes.\"</i>"
             },
             "Icon": "140135.png",
-            "Pic": "140135.png"
+            "Pic": "140135.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140136,
@@ -8132,7 +8363,8 @@ var _item = {
                 "EN": "An alloy ceiling tile that is heavily damaged after a strong impact.<br><br><i>\"Will us Security Department have to... pay the bill for repairs?\"</i>"
             },
             "Icon": "140136.png",
-            "Pic": "140136.png"
+            "Pic": "140136.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140137,
@@ -8151,7 +8383,8 @@ var _item = {
                 "EN": "Arlan used too much force during combat and left a footprint on the floor tile.<br><br><i>\"We Security Department should use this as our insignia next year!\"</i>"
             },
             "Icon": "140137.png",
-            "Pic": "140137.png"
+            "Pic": "140137.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140138,
@@ -8170,7 +8403,8 @@ var _item = {
                 "EN": "A photo of Arlan's back as he heads to the suspicious crystal on his own to investigate. The determination in his steps is obvious.<br><br><i>\"Brother is definitely a bear amongst horses! His figure is so cool!\"</i>"
             },
             "Icon": "113007.png",
-            "Pic": "113007.png"
+            "Pic": "113007.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140139,
@@ -8189,7 +8423,8 @@ var _item = {
                 "EN": "A white ribbon stained beyond recognition by an unknown filth.<br>A bell is pinned to the end of the delicate woven fabric, its chime guiding the blind girl through the darkness.<br><br><i>\"That familiar, crisp chime... Big Sis, are you back...\"</i>"
             },
             "Icon": "140139.png",
-            "Pic": "140139.png"
+            "Pic": "140139.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140140,
@@ -8208,7 +8443,8 @@ var _item = {
                 "EN": "A small, handcrafted music box. Though kept under good care for many years, it has fallen into a state of disrepair.<br>The melody produced by the wooden box was somewhat unsettling, nonetheless, it was cherished by the two girls, who relied on each other like sisters.<br><br><i>\"Welcome... home...</i>\""
             },
             "Icon": "140140.png",
-            "Pic": "140140.png"
+            "Pic": "140140.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140141,
@@ -8227,7 +8463,8 @@ var _item = {
                 "EN": "A black envelope. A pitiful pin hangs on the spot where there should have been a fire lacquer seal. On the back is writing in large, crooked letters: \"Invitation.\" <br><br><i>\"I see you're a chosen one...\"</i>"
             },
             "Icon": "140141.png",
-            "Pic": "140141.png"
+            "Pic": "140141.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140146,
@@ -8246,7 +8483,8 @@ var _item = {
                 "EN": "A package not delivered by Wildfire in time. Peak is its intended recipient."
             },
             "Icon": "140082.png",
-            "Pic": "140082.png"
+            "Pic": "140082.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140147,
@@ -8265,7 +8503,8 @@ var _item = {
                 "EN": "A package not delivered by Wildfire in time. The rapper Eunice is its intended recipient."
             },
             "Icon": "140082.png",
-            "Pic": "140082.png"
+            "Pic": "140082.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140148,
@@ -8284,7 +8523,8 @@ var _item = {
                 "EN": "A package not delivered by Wildfire in time. Its intended recipient could be one of the patients in the clinic."
             },
             "Icon": "140082.png",
-            "Pic": "140082.png"
+            "Pic": "140082.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140149,
@@ -8303,7 +8543,8 @@ var _item = {
                 "EN": "Gaily wrapped gift. From the appearance, it can be seen that a lot of thought was spent on packaging this gift. <br><br><i>\"Giving disposable cutlery as a gift... You're implying that the recipient doesn't like to wash dishes.\"</i>"
             },
             "Icon": "140149.png",
-            "Pic": "140149.png"
+            "Pic": "140149.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140150,
@@ -8322,7 +8563,8 @@ var _item = {
                 "EN": "A watch that was almost mistaken for a bomb. It was said that a person's prized accessories can reflect their taste to an extent.<br><br><i>\"So I offered up three mansions in exchange for his watch...\"</i>"
             },
             "Icon": "140150.png",
-            "Pic": "140150.png"
+            "Pic": "140150.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140151,
@@ -8341,7 +8583,8 @@ var _item = {
                 "EN": "A bouquet of fresh Ball Peony blossoms. In floriography, it means \"patience.\""
             },
             "Icon": "140115.png",
-            "Pic": "140115.png"
+            "Pic": "140115.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140152,
@@ -8360,7 +8603,8 @@ var _item = {
                 "EN": "A bunch of tiny Rainbow blossoms. In floriography, it means \"the beauty of the ordinary.\""
             },
             "Icon": "140019.png",
-            "Pic": "140019.png"
+            "Pic": "140019.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140153,
@@ -8379,7 +8623,8 @@ var _item = {
                 "EN": "A bouquet of fresh First Snow blossoms. In floriography, it means \"purity and kindness.\""
             },
             "Icon": "140116.png",
-            "Pic": "140116.png"
+            "Pic": "140116.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140154,
@@ -8398,7 +8643,8 @@ var _item = {
                 "EN": "A stalk of exquisite Marquise blossoms. It represents a status of prestige."
             },
             "Icon": "140117.png",
-            "Pic": "140117.png"
+            "Pic": "140117.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140155,
@@ -8417,7 +8663,8 @@ var _item = {
                 "EN": "A letter from the Restricted Zone Logistics Officer Gilbert to his daughter Lila in the Overworld."
             },
             "Icon": "190003.png",
-            "Pic": "190003.png"
+            "Pic": "190003.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140156,
@@ -8436,7 +8683,8 @@ var _item = {
                 "EN": "A badge representing justice. It might shed some light on this Disciple of Sanctus Medicus' social identity. If you flaunt it carelessly, you'll only invite unwanted ridicule to yourself."
             },
             "Icon": "140156.png",
-            "Pic": "140156.png"
+            "Pic": "140156.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140157,
@@ -8455,7 +8703,8 @@ var _item = {
                 "EN": "A letter between the Disciples of Sanctus Medicus. The correct words will only appear in the hands of the intended recipient."
             },
             "Icon": "140157.png",
-            "Pic": "140157.png"
+            "Pic": "140157.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140158,
@@ -8474,7 +8723,8 @@ var _item = {
                 "EN": "A family photo taken somewhere not on the Xianzhou Luofu. Evidently, this Disciple of Sanctus Medicus came from a different world. He came here either chasing the distant idea of immortality or to cure a disease. He has a bright smile in the photo, drastically different to how he looked when you met him on the street.<br><br><i>\"We'll take another family photo together on the seaside rocks when you're back...\"</i>"
             },
             "Icon": "140158.png",
-            "Pic": "140158.png"
+            "Pic": "140158.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140159,
@@ -8493,7 +8743,8 @@ var _item = {
                 "EN": "A medical prescription. The messy writing makes one question the sanity of the author.<br><br><i>\"5 mace of Daiyu angelica, 3 mace of Tian Dong, mixed into the... of Xianzhou natives who have reached 600 years of age.\"</i>"
             },
             "Icon": "140159.png",
-            "Pic": "140159.png"
+            "Pic": "140159.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140161,
@@ -8512,7 +8763,8 @@ var _item = {
                 "EN": "A standard package for delivery. It is tightly sealed and heading towards its recipient."
             },
             "Icon": "140161.png",
-            "Pic": "140161.png"
+            "Pic": "140161.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140162,
@@ -8531,7 +8783,8 @@ var _item = {
                 "EN": "A polearm that was sliced in half. One can imagine the fate that befell its master."
             },
             "Icon": "140162.png",
-            "Pic": "140162.png"
+            "Pic": "140162.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140163,
@@ -8550,7 +8803,8 @@ var _item = {
                 "EN": "A token required to traverse across an important location. Looks like the process of acquiring this token was not very smooth."
             },
             "Icon": "140163.png",
-            "Pic": "140163.png"
+            "Pic": "140163.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140164,
@@ -8569,7 +8823,8 @@ var _item = {
                 "EN": "A grenade with its pin pulled. It is silent, as though it might start growling at any moment.<br><br><i>\"A little gift for the lost...\"</i>"
             },
             "Icon": "140164.png",
-            "Pic": "140164.png"
+            "Pic": "140164.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140165,
@@ -8588,7 +8843,8 @@ var _item = {
                 "EN": "A chip for regulating language mastery, especially for standard-issue Belobogian Automaton."
             },
             "Icon": "140013.png",
-            "Pic": "140013.png"
+            "Pic": "140013.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140166,
@@ -8607,7 +8863,8 @@ var _item = {
                 "EN": "A piece of paper casually folded into a flower. The petals are delicate and life-like, and one wonders what kind of person would have bestowed such likenesses onto the paper."
             },
             "Icon": "140166.png",
-            "Pic": "140166.png"
+            "Pic": "140166.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140167,
@@ -8626,7 +8883,8 @@ var _item = {
                 "EN": "This seems to be a page torn from a Department of Insight researcher's notebook. It is full of obscure and difficult symbols and sentences. There are cute cat stickers on the back of the page — the owner was probably a cat lover.<br><br><i>\"For Department of Insight internal use only. Do not leak out this document.\"</i>"
             },
             "Icon": "149978.png",
-            "Pic": "149978.png"
+            "Pic": "149978.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140168,
@@ -8645,7 +8903,8 @@ var _item = {
                 "EN": "A few pages from a children's adventure book very popular in Belobog.<br><br><i>\"The Moles, the Moles, are brilliant and strong! The Moles, the Moles, take the reins!\"</i>"
             },
             "Icon": "190002.png",
-            "Pic": "190002.png"
+            "Pic": "190002.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140169,
@@ -8664,7 +8923,8 @@ var _item = {
                 "EN": "A few pages from a children's adventure book very popular in Belobog.<br><br><i>\"The Moles, the Moles, are brilliant and strong! The Moles, the Moles, take the reins!\"</i>"
             },
             "Icon": "190002.png",
-            "Pic": "190002.png"
+            "Pic": "190002.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140170,
@@ -8683,7 +8943,8 @@ var _item = {
                 "EN": "A few pages from a children's adventure book very popular in Belobog.<br><br><i>\"The Moles, the Moles, are brilliant and strong! The Moles, the Moles, take the reins!\"</i>"
             },
             "Icon": "190002.png",
-            "Pic": "190002.png"
+            "Pic": "190002.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140171,
@@ -8702,7 +8963,8 @@ var _item = {
                 "EN": "A few pages from a children's adventure book very popular in Belobog.<br><br><i>\"The Moles, the Moles, are brilliant and strong! The Moles, the Moles, take the reins!\"</i>"
             },
             "Icon": "190002.png",
-            "Pic": "190002.png"
+            "Pic": "190002.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140172,
@@ -8721,7 +8983,8 @@ var _item = {
                 "EN": "A few pages from a children's adventure book very popular in Belobog.<br><br><i>\"The Moles, the Moles, are brilliant and strong! The Moles, the Moles, take the reins!\"</i>"
             },
             "Icon": "190002.png",
-            "Pic": "190002.png"
+            "Pic": "190002.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140173,
@@ -8740,7 +9003,8 @@ var _item = {
                 "EN": "A few pages from a children's adventure book very popular in Belobog.<br><br><i>\"The Moles, the Moles, are brilliant and strong! The Moles, the Moles, take the reins!\"</i>"
             },
             "Icon": "190002.png",
-            "Pic": "190002.png"
+            "Pic": "190002.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140174,
@@ -8759,7 +9023,8 @@ var _item = {
                 "EN": "A few pages from a children's adventure book very popular in Belobog.<br><br><i>\"The Moles, the Moles, are brilliant and strong! The Moles, the Moles, take the reins!\"</i>"
             },
             "Icon": "190002.png",
-            "Pic": "190002.png"
+            "Pic": "190002.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140175,
@@ -8778,7 +9043,8 @@ var _item = {
                 "EN": "An invitation for joining the Interastral Peace Corporation as a designer. Enthusiastic, cordial, with an astonishing salary offer.<br><br><i>\"Congratulations, Designer Ryan. We warmly invite you to join the IPC Technology Department.\"</i>"
             },
             "Icon": "140175.png",
-            "Pic": "140175.png"
+            "Pic": "140175.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140176,
@@ -8797,7 +9063,8 @@ var _item = {
                 "EN": "Standard parts set from the Artisanship Commission used to assemble different aurumatons.<br><br><i>\"I've told you a hundred times before that we want to industrialize. In. Dus. Tri. Al. Ize!\"</i>"
             },
             "Icon": "140176.png",
-            "Pic": "140176.png"
+            "Pic": "140176.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140177,
@@ -8816,7 +9083,8 @@ var _item = {
                 "EN": "This boat Chengjie folded out of paper is like a tiny starskiff. Meticulously made and cute.<br><br><i>\"Master, I've finally graduated!\"</i>"
             },
             "Icon": "140177.png",
-            "Pic": "140177.png"
+            "Pic": "140177.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140178,
@@ -8835,7 +9103,8 @@ var _item = {
                 "EN": "A fist-sized geomarrow crystal, reflecting an indigo luster.<br>That supervisor Antonia probably knows how much it's worth."
             },
             "Icon": "140029.png",
-            "Pic": "140029.png"
+            "Pic": "140029.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140179,
@@ -8854,7 +9123,8 @@ var _item = {
                 "EN": "A thermal mining pickaxe for Underworld miners. Often on-sold.<br>80% new."
             },
             "Icon": "140021.png",
-            "Pic": "140021.png"
+            "Pic": "140021.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140180,
@@ -8873,7 +9143,8 @@ var _item = {
                 "EN": "A thermal mining pickaxe for Underworld miners. Often on-sold.<br>60% new."
             },
             "Icon": "140021.png",
-            "Pic": "140021.png"
+            "Pic": "140021.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140181,
@@ -8892,7 +9163,8 @@ var _item = {
                 "EN": "Only the extremely lucky can get their hands on this crystal.<br>It doesn't look like it has any practical value, but it could be sold for a very good price."
             },
             "Icon": "140011.png",
-            "Pic": "140011.png"
+            "Pic": "140011.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140182,
@@ -8911,7 +9183,8 @@ var _item = {
                 "EN": "A small part used for mechanical production. Smaller than a person's fist.<br><i>\"It is this small part that supports an avenger's moral cleanliness.\"</i>"
             },
             "Icon": "140033.png",
-            "Pic": "140033.png"
+            "Pic": "140033.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140183,
@@ -8930,7 +9203,8 @@ var _item = {
                 "EN": "A rather artsy tin box sitting there silently like a book.<br><i>\"Please put this tin box on sale on the shelf on the second row to the right of Spare Time Book Shop's door...\"</i>"
             },
             "Icon": "140041.png",
-            "Pic": "140041.png"
+            "Pic": "140041.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140184,
@@ -8949,7 +9223,8 @@ var _item = {
                 "EN": "Mineral deposit formed by some kind of creature. Rumored to be pearls that solidified from drakons' tears, and is very popular among Outworlders who love such legends.<br><i>\"Drakons in the ancient sea, centuries long they may live. Tears shed dry into pearls, fat burns in lamps of old.\"</i>"
             },
             "Icon": "140040.png",
-            "Pic": "140040.png"
+            "Pic": "140040.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140185,
@@ -8968,7 +9243,8 @@ var _item = {
                 "EN": "A Xianzhou-style scroll, on which <i>Thousand-Handed Merciful Medicus' Salvation</i> is written 500 times. Closer inspection reveals the last few hundred handwritings to be different from the first few hundred ones. Let's hope this doesn't get discovered."
             },
             "Icon": "190007.png",
-            "Pic": "190007.png"
+            "Pic": "190007.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140186,
@@ -8987,7 +9263,8 @@ var _item = {
                 "EN": "An unsent letter addressed home. The author seems to have undergone some experimental \"treatment.\""
             },
             "Icon": "190009.png",
-            "Pic": "190009.png"
+            "Pic": "190009.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140187,
@@ -9006,7 +9283,8 @@ var _item = {
                 "EN": "A small nuclear weapon. Its countdown will begin automatically when it no longer detects the registrant's vital signs — In other words, you can't just throw it away.<br><br><i>\"Maybe we can chuck it in a lake somewhere...\"</i>"
             },
             "Icon": "140082.png",
-            "Pic": "140082.png"
+            "Pic": "140082.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140188,
@@ -9025,7 +9303,8 @@ var _item = {
                 "EN": "An access code provided by a weird person. Go to Starskiff Haven and give it to Ziqiao. Maybe you'll get a pleasant surprise."
             },
             "Icon": "140125.png",
-            "Pic": "140125.png"
+            "Pic": "140125.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140189,
@@ -9044,7 +9323,8 @@ var _item = {
                 "EN": "A silly teacher forgot to wear clothes when he left in the morning. Go give him these clothes."
             },
             "Icon": "140082.png",
-            "Pic": "140082.png"
+            "Pic": "140082.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140190,
@@ -9063,7 +9343,8 @@ var _item = {
                 "EN": "Everyone has a beating heart. Emotions are often more effective than logic when persuading someone."
             },
             "Icon": "140125.png",
-            "Pic": "140125.png"
+            "Pic": "140125.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140191,
@@ -9082,7 +9363,8 @@ var _item = {
                 "EN": "The Realm-Keeping Commission require their officers to be upright, kind, just, industrious, and empathetic. Not many people in reality can tick all those boxes."
             },
             "Icon": "140125.png",
-            "Pic": "140125.png"
+            "Pic": "140125.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140192,
@@ -9101,7 +9383,8 @@ var _item = {
                 "EN": "Ever seen a fist this big? It's all yours~"
             },
             "Icon": "140125.png",
-            "Pic": "140125.png"
+            "Pic": "140125.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140193,
@@ -9120,7 +9403,8 @@ var _item = {
                 "EN": "Any problem you can solve with money isn't a problem. It's a shame money isn't omnipotent."
             },
             "Icon": "140125.png",
-            "Pic": "140125.png"
+            "Pic": "140125.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140194,
@@ -9139,7 +9423,8 @@ var _item = {
                 "EN": "Even those most skilled in lies and flattery often cannot resist the power of \"sincerity.\""
             },
             "Icon": "140125.png",
-            "Pic": "140125.png"
+            "Pic": "140125.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140195,
@@ -9158,7 +9443,8 @@ var _item = {
                 "EN": "March 7th brandishes this imaginary title page and decisively declares, \"The passphrase is maybe — probably — definitely written on it!\""
             },
             "Icon": "140125.png",
-            "Pic": "140125.png"
+            "Pic": "140125.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140196,
@@ -9177,7 +9463,8 @@ var _item = {
                 "EN": "A research report on the Draught of Draconic Surge written by Dan Shu, the Alchemy Commission's genius chief alchemist. Hurry and pass this to the Seat of Divine Foresight."
             },
             "Icon": "190007.png",
-            "Pic": "190007.png"
+            "Pic": "190007.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140197,
@@ -9196,7 +9483,8 @@ var _item = {
                 "EN": "A medicine Dan Shu concocted for a young patient. Its sweet smell is probably deliberate, made to entice the child to take their medicine properly."
             },
             "Icon": "140198.png",
-            "Pic": "140198.png"
+            "Pic": "140198.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140198,
@@ -9215,7 +9503,8 @@ var _item = {
                 "EN": "Dan Shu said this medicine can invigorate the body and prolong one's life. She's the Alchemy Commission's chief alchemist and your close associate — You should be able to trust her and ingest this without issue."
             },
             "Icon": "140198.png",
-            "Pic": "140198.png"
+            "Pic": "140198.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140199,
@@ -9234,7 +9523,8 @@ var _item = {
                 "EN": "The jade abacus accessory that Yanqing left behind while carrying out an operation. It records his activities, and was dropped at a timely moment to warn the Seat of Divine Foresight."
             },
             "Icon": "140199.png",
-            "Pic": "140199.png"
+            "Pic": "140199.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140200,
@@ -9253,7 +9543,8 @@ var _item = {
                 "EN": "Messy writing that only a doctor can read.<br><br><i>\"This prescription can save people, but those who take it will hiccup uncontrollably every single day!\"</i>"
             },
             "Icon": "140125.png",
-            "Pic": "140125.png"
+            "Pic": "140125.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140201,
@@ -9272,7 +9563,8 @@ var _item = {
                 "EN": "A package containing the gift for Banxia, wrapped in fabric and tied up with twine.<br><br><i>\"I know she's busy... I wanted to give this to her personally, but now I have to ask you to deliver it to her.\"</i>"
             },
             "Icon": "140082.png",
-            "Pic": "140082.png"
+            "Pic": "140082.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140202,
@@ -9291,7 +9583,8 @@ var _item = {
                 "EN": "A row of ready-to-eat raw frostweave salmon slices. The meat is firm and smooth and looks very tasty.<br><br><i>\"It's all thanks to the Eternal Freeze. We can eat raw fish from 700 years ago!\"</i>"
             },
             "Icon": "140202.png",
-            "Pic": "140202.png"
+            "Pic": "140202.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140203,
@@ -9310,7 +9603,8 @@ var _item = {
                 "EN": "A mimic snow slug, one of the components of the local biome out on the Belobog Snow Plains.<br>They can change their appearance to match the external environment and disguise themselves from their natural enemies.<br><br><i>\"These slugs taste really good once they've been barbecued over a fire...\"</i>"
             },
             "Icon": "140203.png",
-            "Pic": "140203.png"
+            "Pic": "140203.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140206,
@@ -9329,7 +9623,8 @@ var _item = {
                 "EN": "A universal component in Belobog used to activate Geomarrow conduits.<br><br><i>\"Bro, you need to ask the real smart people. No one knows how to fix a machine better than Marev.\"</i>"
             },
             "Icon": "140206.png",
-            "Pic": "140206.png"
+            "Pic": "140206.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140207,
@@ -9348,7 +9643,8 @@ var _item = {
                 "EN": "A cold platter made from air-fried preserved frostweave salmon and bread, with a bowl of redsunset jam for free.<br>Nowadays, frostweave salmon are mostly bred inside Belobog's walls. Their taste is miles off from the frostweave salmons fished from the wilds outside the city.<br><br><i>\"I heard having raw fish slices together with bread can delay the onset of diarrhea effectively. Is that true?\"</i><br><i>\"Heck if I know. Go ask Natasha.\"</i>"
             },
             "Icon": "408409.png",
-            "Pic": "408409.png"
+            "Pic": "408409.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140208,
@@ -9367,7 +9663,8 @@ var _item = {
                 "EN": "The steel skewer has all sorts of Belobog delicacies on it, and is barbecued thoroughly using high heat.<br>Its ingredients are mostly harmless. It is also the favorite food of Belobog's adventurers out in the wild, as well as being the most easily obtainable.<br><br><i>\"This tastes so good! What kinds of meat are in it, though?\"</i><br><i>\"You wouldn't want to know.\"</i>"
             },
             "Icon": "408204.png",
-            "Pic": "408204.png"
+            "Pic": "408204.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140209,
@@ -9386,7 +9683,8 @@ var _item = {
                 "EN": "The iron bucket contains all sorts of Belobog delicacies as a stew, and is simmered thoroughly using low heat.<br>Ingredients with outlandish appearances float in the soup, but it smells very delicious.<br><br><i>\"What's wrong if they were once specimens? Aren't they dead animals and plants anyways?\"</i>"
             },
             "Icon": "402018.png",
-            "Pic": "402018.png"
+            "Pic": "402018.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140210,
@@ -9405,7 +9703,8 @@ var _item = {
                 "EN": "A digital data storage component that has been frozen for more than a decade. It looks very primitive.<br>A young girl is being held by someone in the picture, but that someone's face is no longer distinguishable.<br><br><i>\"Did you hear about that outstanding outdoors explorer who died 16 years ago? The best explorer out of all Belobog...\"</i>"
             },
             "Icon": "140210.png",
-            "Pic": "140210.png"
+            "Pic": "140210.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140211,
@@ -9424,7 +9723,8 @@ var _item = {
                 "EN": "A meteor fragment that bore witness to Belobog's 700 years of decline. It should be returned to the History and Culture Museum."
             },
             "Icon": "140211.png",
-            "Pic": "140211.png"
+            "Pic": "140211.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140212,
@@ -9443,7 +9743,8 @@ var _item = {
                 "EN": "A lost roll of film. It should be returned to the History and Culture Museum."
             },
             "Icon": "140212.png",
-            "Pic": "140212.png"
+            "Pic": "140212.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140213,
@@ -9462,7 +9763,8 @@ var _item = {
                 "EN": "Parts of the modern sculpture <i>Gears and Wisdom</i> that has been disassembled into countless tiny pieces. These parts have evidently been modified artistically and will not run as a machine."
             },
             "Icon": "140213.png",
-            "Pic": "140213.png"
+            "Pic": "140213.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140214,
@@ -9481,7 +9783,8 @@ var _item = {
                 "EN": ""
             },
             "Icon": "149975.png",
-            "Pic": "SpriteOutput/ItemIcon/149975.png"
+            "Pic": "SpriteOutput/ItemIcon/149975.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140215,
@@ -9500,7 +9803,8 @@ var _item = {
                 "EN": "An old photo revealing the location of the exhibit \"Mechanism Energy Hub.\""
             },
             "Icon": "149975.png",
-            "Pic": "SpriteOutput/ItemIcon/149975.png"
+            "Pic": "SpriteOutput/ItemIcon/149975.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140216,
@@ -9519,7 +9823,8 @@ var _item = {
                 "EN": "A treasure map revealing the location of the exhibit \"Cannon.\""
             },
             "Icon": "140066.png",
-            "Pic": "140066.png"
+            "Pic": "140066.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140217,
@@ -9538,7 +9843,8 @@ var _item = {
                 "EN": ""
             },
             "Icon": "140066.png",
-            "Pic": "140066.png"
+            "Pic": "140066.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140218,
@@ -9557,7 +9863,8 @@ var _item = {
                 "EN": "A treasure map revealing the location of the exhibit \"Information Terminal and Display Monitor Set.\""
             },
             "Icon": "140066.png",
-            "Pic": "140066.png"
+            "Pic": "140066.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140219,
@@ -9576,7 +9883,8 @@ var _item = {
                 "EN": "Qingni remembered how affectionate her mother was, but she also remembered how stubborn and unreasonable her mother was when it came to \"becoming a pilot.\""
             },
             "Icon": "140157.png",
-            "Pic": "140157.png"
+            "Pic": "140157.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140220,
@@ -9595,7 +9903,8 @@ var _item = {
                 "EN": "At the end of the Third Denizens of Abundance War, Reignbow Arbiter's Sky-Shattering Lux Arrow wiped out everything along the way. The Xianzhou people used the burning embers of the arrow to create many divine objects, and this is one of them. Yukong carries it with her, lest she forgets.<br><br><i>\"We were so happy then. I wish we could stay in those moments forever.\"</i>"
             },
             "Icon": "140238.png",
-            "Pic": "140238.png"
+            "Pic": "140238.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140221,
@@ -9614,7 +9923,8 @@ var _item = {
                 "EN": "Jing Yuan still clearly remembers those two young pilots. They were optimistic, brave, and talented. But, he also remembers how it all ended."
             },
             "Icon": "140125.png",
-            "Pic": "140125.png"
+            "Pic": "140125.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140222,
@@ -9633,7 +9943,8 @@ var _item = {
                 "EN": "Yukong hopes to still be that carefree Foxian girl, flying through the skies. But time will always pass by turbulently."
             },
             "Icon": "140225.png",
-            "Pic": "140225.png"
+            "Pic": "140225.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140223,
@@ -9652,7 +9963,8 @@ var _item = {
                 "EN": "Caiyi hopes that her friend can take care of her daughter, and let her daughter be anything the child wants to be... Except a fighter pilot."
             },
             "Icon": "140230.png",
-            "Pic": "140230.png"
+            "Pic": "140230.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140225,
@@ -9671,7 +9983,8 @@ var _item = {
                 "EN": "A Xianzhou medical compendium compiled by the Alchemy Commission. It includes prescriptions to many decoctions and have been listed in the <i>Required Reading for New Recruits to the Alchemy Commission</i> list.<br><br><i>\"Memorize these, you will be tested on them.\"</i>"
             },
             "Icon": "140225.png",
-            "Pic": "140225.png"
+            "Pic": "140225.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140228,
@@ -9690,7 +10003,8 @@ var _item = {
                 "EN": "A branch that exudes an eerie aura, it is a rare ingredient in some prescriptions.<br><br><i>\"Does this... really have medicinal use?\"</i>"
             },
             "Icon": "140228.png",
-            "Pic": "140228.png"
+            "Pic": "140228.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140229,
@@ -9709,7 +10023,8 @@ var _item = {
                 "EN": "A lost and found notice for a missing ingenium.<br><br><i>\"I'm unsure of the exact time, but I lost a Baroumbrella ingenium that can write poetry near Synwood Pavilion in the Exalting Sanctum...\"</i>"
             },
             "Icon": "140229.png",
-            "Pic": "140229.png"
+            "Pic": "140229.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140230,
@@ -9728,7 +10043,8 @@ var _item = {
                 "EN": "A collection of poems left by a Vidyadhara poet from the Xianzhou Luofu that contains 523 untitled poems, and the themes are almost all about extremely mundane things.<br><br><i>\"To those who love poetry: Whoever does not talk about this collection is shallow and ignorant.\"</i>"
             },
             "Icon": "140230.png",
-            "Pic": "140230.png"
+            "Pic": "140230.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140231,
@@ -9747,7 +10063,8 @@ var _item = {
                 "EN": "A Jade Abacus that stores machine learning data and codes. It is used to help Cong write poems.<br><br><i>\"They say 'Poetry cannot be about technology, as it is not romantic,' but technology can be romantic, right?\"</i>"
             },
             "Icon": "140231.png",
-            "Pic": "140231.png"
+            "Pic": "140231.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140232,
@@ -9766,7 +10083,8 @@ var _item = {
                 "EN": "When Cong emerged from his hatching rebirth, he carried this Unity Lock with him.<br><br><i>\"If those who love each other are bound by the Unity Lock, they will be united forever.\"</i>"
             },
             "Icon": "140232.png",
-            "Pic": "140232.png"
+            "Pic": "140232.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140233,
@@ -9785,7 +10103,8 @@ var _item = {
                 "EN": "In the middle of the reward plaque is written \"Genius Diviner.\"<br><br><i>\"Your talent and knowledge are as solid as stainless steel.\"</i>"
             },
             "Icon": "140233.png",
-            "Pic": "140233.png"
+            "Pic": "140233.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140234,
@@ -9804,7 +10123,8 @@ var _item = {
                 "EN": "A new generation flagship jade abacus, its off-white material feels exquisite to the touch.<br><br><i>\"Never buy an old jade abacus — they put out new models all the time.\"</i>"
             },
             "Icon": "140234.png",
-            "Pic": "140234.png"
+            "Pic": "140234.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140235,
@@ -9823,7 +10143,8 @@ var _item = {
                 "EN": "The Nimbus Chronicles series women's cropped jacket with a stand-up collar launched by Cloudbreadth Sleeves is tailored using mid-length-fiber nylon-wool mixed fabric and pure silk.<br><br><i>\"The Cloudbreadth Sleeves clothes are delicate, ethereal, and expensive!\"</i>"
             },
             "Icon": "140235.png",
-            "Pic": "140235.png"
+            "Pic": "140235.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140237,
@@ -9842,7 +10163,8 @@ var _item = {
                 "EN": "The computer module that Zhongshan handed to you. Adding it to those damaged automatons seems to be able to \"resurrect them from the dead.\" Somehow, this module also has a solar panel attached to it."
             },
             "Icon": "140237.png",
-            "Pic": "140237.png"
+            "Pic": "140237.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140239,
@@ -9861,7 +10183,8 @@ var _item = {
                 "EN": "The torn manuscript contains faintly discernible notes on conjectures related to \"Sensor No. 223\" and the \"big universe time tunnel\" theory."
             },
             "Icon": "140092.png",
-            "Pic": "140092.png"
+            "Pic": "140092.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140240,
@@ -9880,7 +10203,8 @@ var _item = {
                 "EN": "A slightly rusty key with no clear indication of which lock it corresponds to. Try it on all the locks you can until you find the right one!"
             },
             "Icon": "140009.png",
-            "Pic": "140009.png"
+            "Pic": "140009.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140241,
@@ -9899,7 +10223,8 @@ var _item = {
                 "EN": "The torn manuscript contains faintly discernible notes on conjectures related to \"Sensor No. 223\" and the \"big universe time tunnel\" theory."
             },
             "Icon": "140092.png",
-            "Pic": "140092.png"
+            "Pic": "140092.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140242,
@@ -9918,7 +10243,8 @@ var _item = {
                 "EN": "A cake roll that is too cute to eat.<br>It gets its name from the beautiful patterns on the roll that resembles a tuskpir's fur.<br><br><i>\"This cake roll is so cute and looks like a tuskpir!\"</i><br><i>\"It's actually made of tuskpirs.\"</i><br><i>\"???\"</i>"
             },
             "Icon": "408201.png",
-            "Pic": "408201.png"
+            "Pic": "408201.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140243,
@@ -9937,7 +10263,8 @@ var _item = {
                 "EN": "A classic snack made from songlotus on the Luofu.<br>Once you take a bite, it makes a crisp laughing sound. Occasionally, Luofu's gormandizers use it to tease outworlders.<br><br><i>\"You scared the life out of me!\"</i>"
             },
             "Icon": "408407.png",
-            "Pic": "408407.png"
+            "Pic": "408407.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140244,
@@ -9956,7 +10283,8 @@ var _item = {
                 "EN": "Berrypheasants live in symbiosis with plants, with many fruit hanging from their tail.<br>Berrypheasant Skewers are actually fruit skewers. No Berrypheasants were harmed during the production process.<br><br><i>\"So... is this a meat dish or a vegetarian dish?\"</i>"
             },
             "Icon": "408202.png",
-            "Pic": "408202.png"
+            "Pic": "408202.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140245,
@@ -9975,7 +10303,8 @@ var _item = {
                 "EN": "Puffergoat milk, also known as Gentle Halcyon milk, is a specialty of the Xianzhou Alliance.<br>The milk is difficult to preserve and rarely seen outside Xianzhou.<br>It is sweet after warming without needing extra sugar, but it becomes bitter after cooling, so it must be drunk while hot.<br><br><i>\"According to the </i>Lifitide<i> magazine, General Jing Yuan has to drink a large bowl of freshly-squeezed Puffergoat milk every morning. The Seat of Divine Foresight has denied this report.\"</i>"
             },
             "Icon": "408408.png",
-            "Pic": "408408.png"
+            "Pic": "408408.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140246,
@@ -9994,7 +10323,8 @@ var _item = {
                 "EN": "Made from fermented legume-based products. It smells sour and pungent, but tastes cool and refreshing.<br>If you can drink a big bottle of mung bean soda and remain calm, you will definitely impress the gormandizers on the Luofu.<br><br><i>\"Like mung beans? Like soda? Then what are you complaining about!?\"</i>"
             },
             "Icon": "408405.png",
-            "Pic": "408405.png"
+            "Pic": "408405.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140247,
@@ -10013,7 +10343,8 @@ var _item = {
                 "EN": "A box containing the Golden Cloud Toad. The name and contact information of the sender were deliberately crossed out, but records from Heron Express show that the sender is A-Feng."
             },
             "Icon": "140161.png",
-            "Pic": "140161.png"
+            "Pic": "140161.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140248,
@@ -10032,7 +10363,8 @@ var _item = {
                 "EN": "Dock Worker A-Feng's payment record. The record shows recently received credit remitted by the Interastral Peace Corporation, spaced out over several installments."
             },
             "Icon": "140254.png",
-            "Pic": "140254.png"
+            "Pic": "140254.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140249,
@@ -10051,7 +10383,8 @@ var _item = {
                 "EN": "The testimony of dock worker A-Feng, who has admitted to disrupting the normal operations of the dock in exchange for payment from the IPC."
             },
             "Icon": "140125.png",
-            "Pic": "140125.png"
+            "Pic": "140125.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140250,
@@ -10070,7 +10403,8 @@ var _item = {
                 "EN": "The most tangible achievement of the Aurum Alley revival project. It demonstrates that the Alley still has plenty of life in it."
             },
             "Icon": "140247.png",
-            "Pic": "140247.png"
+            "Pic": "140247.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140251,
@@ -10089,7 +10423,8 @@ var _item = {
                 "EN": "This contract can prove that the Merchant Guild has legitimate rights to operate the dock."
             },
             "Icon": "190002.png",
-            "Pic": "190002.png"
+            "Pic": "190002.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140252,
@@ -10108,7 +10443,8 @@ var _item = {
                 "EN": "The most tangible achievement of the Aurum Alley revival project. It demonstrates that the Alley still has plenty of life in it."
             },
             "Icon": "140247.png",
-            "Pic": "140247.png"
+            "Pic": "140247.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140253,
@@ -10127,7 +10463,8 @@ var _item = {
                 "EN": "Since Artistry Hardware partnered with the dock, its scope of operations has expanded, and its revenue and customer satisfaction have both increased."
             },
             "Icon": "190002.png",
-            "Pic": "190002.png"
+            "Pic": "190002.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140254,
@@ -10146,7 +10483,8 @@ var _item = {
                 "EN": "It is evident that at its peak, the old Aurum Alley had a trading volume similar to what the Alley has today."
             },
             "Icon": "140248.png",
-            "Pic": "140248.png"
+            "Pic": "140248.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140255,
@@ -10165,7 +10503,8 @@ var _item = {
                 "EN": "The most tangible achievement of the Aurum Alley revival project. It demonstrates that the Alley still has plenty of life in it."
             },
             "Icon": "140254.png",
-            "Pic": "140254.png"
+            "Pic": "140254.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140256,
@@ -10184,7 +10523,8 @@ var _item = {
                 "EN": "The Special Combo Set that Spices Supreme has produced serves to prove that the Alley is still a strong contender, and is highly competitive as a food street."
             },
             "Icon": "140250.png",
-            "Pic": "140250.png"
+            "Pic": "140250.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140257,
@@ -10203,7 +10543,8 @@ var _item = {
                 "EN": "Surveys conducted to gauge the shop owners' intentions. More and more shops have voiced their support for the guild and expressed their confidence in the revival project."
             },
             "Icon": "190002.png",
-            "Pic": "190002.png"
+            "Pic": "190002.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140258,
@@ -10222,7 +10563,8 @@ var _item = {
                 "EN": "A rubbing put together at a particular angle, portraying the secret insignia left by Scholar Bernini, who was Todd's teacher. It seems to be hiding some important information."
             },
             "Icon": "149975.png",
-            "Pic": "149975.png"
+            "Pic": "149975.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140259,
@@ -10241,7 +10583,8 @@ var _item = {
                 "EN": "A rubbing put together at a particular angle, portraying the secret insignia left by Scholar Bernini, who was Todd's teacher. It seems to be hiding some important information."
             },
             "Icon": "149975.png",
-            "Pic": "149975.png"
+            "Pic": "149975.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140260,
@@ -10260,7 +10603,8 @@ var _item = {
                 "EN": "A rubbing put together at a particular angle, portraying the secret insignia left by Scholar Bernini, who was Todd's teacher. It seems to be hiding some important information."
             },
             "Icon": "149975.png",
-            "Pic": "149975.png"
+            "Pic": "149975.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140261,
@@ -10279,7 +10623,8 @@ var _item = {
                 "EN": "A rubbing put together at a particular angle, portraying the secret insignia left by Scholar Bernini, who was Todd's teacher. It seems to be hiding some important information."
             },
             "Icon": "149975.png",
-            "Pic": "149975.png"
+            "Pic": "149975.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140262,
@@ -10298,7 +10643,8 @@ var _item = {
                 "EN": "A rubbing put together at a particular angle, portraying the secret insignia left by Scholar Bernini, who was Todd's teacher. It seems to be hiding some important information."
             },
             "Icon": "149975.png",
-            "Pic": "149975.png"
+            "Pic": "149975.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140263,
@@ -10317,7 +10663,8 @@ var _item = {
                 "EN": "A rubbing put together at a particular angle, portraying the secret insignia left by Scholar Bernini, who was Todd's teacher. It seems to be hiding some important information."
             },
             "Icon": "149975.png",
-            "Pic": "149975.png"
+            "Pic": "149975.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140264,
@@ -10336,7 +10683,8 @@ var _item = {
                 "EN": "A rubbing put together at a particular angle, portraying the secret insignia left by Scholar Bernini, who was Todd's teacher. It seems to be hiding some important information."
             },
             "Icon": "149975.png",
-            "Pic": "149975.png"
+            "Pic": "149975.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140265,
@@ -10355,7 +10703,8 @@ var _item = {
                 "EN": "A rubbing put together at a particular angle, portraying the secret insignia left by Scholar Bernini, who was Todd's teacher. It seems to be hiding some important information."
             },
             "Icon": "149975.png",
-            "Pic": "149975.png"
+            "Pic": "149975.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140266,
@@ -10374,7 +10723,8 @@ var _item = {
                 "EN": "A scene you photographed. It seems to be that of a father and son parting.<br><br><i>\"I'm going to buy some oranges for you. Stay here and don't wander off, okay?\"</i>"
             },
             "Icon": "149975.png",
-            "Pic": "149975.png"
+            "Pic": "149975.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140267,
@@ -10393,7 +10743,8 @@ var _item = {
                 "EN": "A scene you photographed. It seems to be that of lovers parting.<br><br><i>\"Chonghua, I love you. 'Till mara do us part.\"</i>"
             },
             "Icon": "149975.png",
-            "Pic": "149975.png"
+            "Pic": "149975.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140268,
@@ -10412,7 +10763,8 @@ var _item = {
                 "EN": "A scene you photographed. It seems to be that of friends parting.<br><br><i>\"I'm afraid we might never see each other again after this goodbye.\"</i>"
             },
             "Icon": "149975.png",
-            "Pic": "149975.png"
+            "Pic": "149975.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140269,
@@ -10431,7 +10783,8 @@ var _item = {
                 "EN": "A Jade Abacus that stores machine learning data and codes. It is used to help Cong write poems.<br><br><i>\"They say 'Poetry cannot be about technology, as it is not romantic,' but technology can be romantic, right?\"</i>"
             },
             "Icon": "140231.png",
-            "Pic": "140231.png"
+            "Pic": "140231.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140270,
@@ -10450,7 +10803,8 @@ var _item = {
                 "EN": "A Jade Abacus that stores machine learning data and codes. It is used to help Cong write poems.<br><br><i>\"They say 'Poetry cannot be about technology, as it is not romantic,' but technology can be romantic, right?\"</i>"
             },
             "Icon": "140231.png",
-            "Pic": "140231.png"
+            "Pic": "140231.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140271,
@@ -10469,7 +10823,8 @@ var _item = {
                 "EN": "A special stone slate left by the Vidyadhara. There seems to be information about certain \"sequences\" hidden in its mottled markings.<br><br><i>\"Follow the lights, as the stone describes.\"</i>"
             },
             "Icon": "140271.png",
-            "Pic": "140271.png"
+            "Pic": "140271.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140272,
@@ -10488,7 +10843,8 @@ var _item = {
                 "EN": "Todd always carries his notebook with him to record his profound thoughts and research on different topics."
             },
             "Icon": "140230.png",
-            "Pic": "140230.png"
+            "Pic": "140230.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140273,
@@ -10507,7 +10863,8 @@ var _item = {
                 "EN": "The fan Tingyun carried on her person. It used to be a pair, but one had gone missing."
             },
             "Icon": "140273.png",
-            "Pic": "140273.png"
+            "Pic": "140273.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140274,
@@ -10526,7 +10883,8 @@ var _item = {
                 "EN": "The minuscule jade stamp worn by Amicassadors of the Sky-Faring Commission."
             },
             "Icon": "140274.png",
-            "Pic": "140274.png"
+            "Pic": "140274.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140275,
@@ -10545,7 +10903,8 @@ var _item = {
                 "EN": "A small chest that stores plant seeds. The crest for the Sleepless Earl is stamped onto the lid."
             },
             "Icon": "140275.png",
-            "Pic": "140275.png"
+            "Pic": "140275.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140276,
@@ -10564,7 +10923,8 @@ var _item = {
                 "EN": "A sharp kitchen knife wrapped in soft silk. It also contains an advertisement hiring workers for Spices Supreme."
             },
             "Icon": "140276.png",
-            "Pic": "140276.png"
+            "Pic": "140276.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140277,
@@ -10583,7 +10943,8 @@ var _item = {
                 "EN": "An archery set with supreme balance. Surprisingly, it seems to have been completely hand-crafted. No Xianzhou technology was used to create it, and the arrow can't track enemies or automatically make turns."
             },
             "Icon": "140277.png",
-            "Pic": "140277.png"
+            "Pic": "140277.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140278,
@@ -10602,7 +10963,8 @@ var _item = {
                 "EN": "A new tea variety brewed using the improved Whale-Tide Spring, Emerald Hills, and Dawndew strains. It has a sweet, long-lasting taste, twirling about inside your mouth like clouds."
             },
             "Icon": "140278.png",
-            "Pic": "140278.png"
+            "Pic": "140278.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140279,
@@ -10621,7 +10983,8 @@ var _item = {
                 "EN": "A bowl of fresh, fragrant, boiling, and spicy beef offal stew. It's made with yellow boulder beef chunks and offal together with redcloud chili sauce."
             },
             "Icon": "140279.png",
-            "Pic": "140279.png"
+            "Pic": "140279.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140280,
@@ -10640,7 +11003,8 @@ var _item = {
                 "EN": "A paper kite commemorating the pilot who can no longer fly."
             },
             "Icon": "140280.png",
-            "Pic": "140280.png"
+            "Pic": "140280.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140281,
@@ -10659,7 +11023,8 @@ var _item = {
                 "EN": "One half of the jade abacus of allying oath gifted to you by Jing Yuan. Hold on to the jade abacus and send out information, and the other half will immediately receive it. No matter the distance, the Luofu Cloud Knights will surely arrive at your side and carry out your request."
             },
             "Icon": "140281.png",
-            "Pic": "140281.png"
+            "Pic": "140281.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140282,
@@ -10678,7 +11043,8 @@ var _item = {
                 "EN": "A treasure map guiding players to find the encryption key for the elevator in Herta Space Station's Victory Zone. The map depicts a Wubbaboo hiding inside a room. Finding it might grant access to the elevator encryption key."
             },
             "Icon": "140066.png",
-            "Pic": "140066.png"
+            "Pic": "140066.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140283,
@@ -10697,7 +11063,8 @@ var _item = {
                 "EN": "A treasure map guiding players to find the Championship Contender Pass in Herta Space Station's Victory Zone. The map depicts a Wubbaboo hiding in... a toilet? Finding it might grant access to the Championship Contender Pass, but the correct toilet needs to be found first."
             },
             "Icon": "140066.png",
-            "Pic": "140066.png"
+            "Pic": "140066.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140284,
@@ -10716,7 +11083,8 @@ var _item = {
                 "EN": "A treasure map guiding players to find the Championship Contender Pass in Herta Space Station's Victory Zone. The map depicts a Wubbaboo surrounded by paper cranes. Finding it might grant access to the Championship Contender Pass. Try to collect all the paper cranes."
             },
             "Icon": "140066.png",
-            "Pic": "140066.png"
+            "Pic": "140066.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140285,
@@ -10735,7 +11103,8 @@ var _item = {
                 "EN": "A treasure map guiding players to find the Championship Contender Pass in Herta Space Station's Victory Zone. The map depicts a Wubbaboo hiding in a Curio Cabinet. Finding it might grant access to the Championship Contender Pass. The Curios depicted on the treasure map are Crackup Conch, Joy Filtration Set, Unbearable Weight, and Total Eclipse of the Heart, in that order. Try to arrange these Curios according to the map."
             },
             "Icon": "140066.png",
-            "Pic": "140066.png"
+            "Pic": "140066.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140286,
@@ -10754,7 +11123,8 @@ var _item = {
                 "EN": "A necessary item to play Aetherium Wars. Can store creatures in the form of an Aether — and then manifest them as Aether Spirits to battle against other players.<br><br><i>\"Collect, battle, train, and upgrade!\"</i>"
             },
             "Icon": "140286.png",
-            "Pic": "140286.png"
+            "Pic": "140286.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140287,
@@ -10773,7 +11143,8 @@ var _item = {
                 "EN": "An encryption key hidden by Wubbaboo that activates the elevator in Herta Space Station's Victory Zone. Elevator encryption key specially designed by Herta Space Station for usage in the Aetherium Wars."
             },
             "Icon": "140287.png",
-            "Pic": "140287.png"
+            "Pic": "140287.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140288,
@@ -10792,7 +11163,8 @@ var _item = {
                 "EN": "One of three passes required to challenge the championship contender in the Victory Zone of Herta Space Station. With Herta's reluctant consent, the Aetherium Wars Tournament Association revamped the space station and set up obstacles for the players."
             },
             "Icon": "140288.png",
-            "Pic": "140288.png"
+            "Pic": "140288.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140289,
@@ -10811,7 +11183,8 @@ var _item = {
                 "EN": "One of three passes required to challenge the championship contender in the Victory Zone of Herta Space Station. With Herta's reluctant consent, the Aetherium Wars Tournament Association revamped the space station and set up obstacles for the players."
             },
             "Icon": "140289.png",
-            "Pic": "140289.png"
+            "Pic": "140289.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140290,
@@ -10830,7 +11203,8 @@ var _item = {
                 "EN": "One of three passes required to challenge the championship contender in the Victory Zone of Herta Space Station. With Herta's reluctant consent, the Aetherium Wars Tournament Association revamped the space station and set up obstacles for the players."
             },
             "Icon": "140290.png",
-            "Pic": "140290.png"
+            "Pic": "140290.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140291,
@@ -10849,7 +11223,8 @@ var _item = {
                 "EN": "The miracle medicine Mr. Xiyan made up in the story. He claims these medicines have parallels in real life, but you're not silly enough to believe in that.<br><br><i>\"What Trailblazer beholds is a lotus blooming with ice crystals while in flames... This is a medicine that has been extinct since the Theophany Era! The Icefire Lotus!\"</i>"
             },
             "Icon": "140291.png",
-            "Pic": "140291.png"
+            "Pic": "140291.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140292,
@@ -10868,7 +11243,8 @@ var _item = {
                 "EN": "The miracle medicine Mr. Xiyan made up in the story. He claims these medicines have parallels in real life, but you're not silly enough to believe in that.<br><br><i>\"What the warrior beholds is a mushroom that seems to waft in and out of existence. This is no mere mushroom. It sits within a state between existence and non-existence, constantly fluctuating between the real and the imaginary... It's called the 'Life-Death Polypore'.\"</i>"
             },
             "Icon": "140292.png",
-            "Pic": "140292.png"
+            "Pic": "140292.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140293,
@@ -10887,7 +11263,8 @@ var _item = {
                 "EN": "The miracle medicine Mr. Xiyan made up in the story. He claims these medicines have parallels in real life, but you're not silly enough to believe in that.<br><br><i>\"There is no wind, yet the aerial roots wave in the wind. The air is cleaved apart and lightning sparks following the curvature of their movements. That is the most precious medicine in all the Alchemy Commission — the Whirlbolt Pneumatophore!\" </i>"
             },
             "Icon": "140293.png",
-            "Pic": "140293.png"
+            "Pic": "140293.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140294,
@@ -10906,7 +11283,8 @@ var _item = {
                 "EN": "The miracle medicine Mr. Xiyan made up in the story. He claims it can make people \"be born anew and achieve transcendence,\" but the name sounds pretty dodgy.<br><br><i>\"Listen, this isn't some half-baked 'cure-all quackery'. All it does is help you 'ascend to the heavens,' which is not that far-fetched, plotwise.\"</i>"
             },
             "Icon": "140294.png",
-            "Pic": "140294.png"
+            "Pic": "140294.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140295,
@@ -10925,7 +11303,8 @@ var _item = {
                 "EN": "A high-tech medicine used to nurture starskiff seeds in Mr. Xiyan's story. This thing may exist in reality — just not with the exaggerated effects.<br><br><i>\"You might not be aware that the seeds used by the Xianzhou to grow starskiffs are of the same origin as the Arbor. Using such wood to make sword hilts won't be the same as using wood straight off the Arbor, but it's more than enough to defeat one mere Lord Ravager.\"</i><br><i>\"Seriously?\"</i><br><i>\"Who cares. Just say the lines!\"</i>"
             },
             "Icon": "140099.png",
-            "Pic": "140099.png"
+            "Pic": "140099.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140296,
@@ -10944,7 +11323,8 @@ var _item = {
                 "EN": "In Mr. Xiyan's story, this is a treasure map recording the location of the Ignis Aureliae. But in your eyes, this is just an Alchemy Commission map with a random circle drawn on it.<br><br><i>\"It is said that 'A Sword Is Mightier When Hidden.' He therefore hid the Ignis Aureliae away from potential thieves before he was incarcerated.\"</i><br><i>\"There it is! The classic adventure story trope where a century-old treasure map just gets discovered out of nowhere!\"</i>"
             },
             "Icon": "140066.png",
-            "Pic": "140066.png"
+            "Pic": "140066.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140297,
@@ -10963,7 +11343,8 @@ var _item = {
                 "EN": "A snack that Todd wants to eat. It may be childish for a child, but is just right for an adult."
             },
             "Icon": "408202.png",
-            "Pic": "408202.png"
+            "Pic": "408202.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140298,
@@ -10982,7 +11363,8 @@ var _item = {
                 "EN": "In Mr. Xiyan's story, this is wood from the Arbor, ready to be made into a weapon hilt. But in your eyes, this is just a tree branch.<br><br><i>\"The seed in the vessel gradually sprouts and countless twigs converge into one, as if an invisible hand is weaving it into the shape of a hilt.\"</i><br><i>\"Say what you want. This is still just a tree branch.\"</i>"
             },
             "Icon": "140298.png",
-            "Pic": "140298.png"
+            "Pic": "140298.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140299,
@@ -11001,7 +11383,8 @@ var _item = {
                 "EN": "In Mr. Xiyan's story, this is the metal required to forge divine weapons. But in your eyes, this is probably something Mr. Xiyan dug out of a trashcan.<br><br><i>\"This looks like someone barbecued it. Is it really safe?\"</i><br><i>\"It's special effects. I added special effects.\"</i>"
             },
             "Icon": "140299.png",
-            "Pic": "140299.png"
+            "Pic": "140299.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140300,
@@ -11020,7 +11403,8 @@ var _item = {
                 "EN": "In Mr. Xiyan's story, this is the weapon you and {TEXTJOIN#59} managed to forge. You can tell at a glance that this {TEXTJOIN#61}, glowing with iridescent and otherworldly light, is no ordinary item.<br>In actuality, it is fitted with some LEDs in there. They light up if you press the switch. (Hold down the switch and the weapon will play a sound that says \"Villain! Prepare to die!\".)"
             },
             "Icon": "140300.png",
-            "Pic": "140300.png"
+            "Pic": "140300.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140301,
@@ -11039,7 +11423,8 @@ var _item = {
                 "EN": "In Mr. Xiyan's story, this is the weapon you and {TEXTJOIN#59} managed to forge. You can tell at a glance that this {TEXTJOIN#61}, emitting an aura of pure danger, is no ordinary item.<br>It's actually a toy laser gun belonging to Mr. Xiyan's little niece. He forcibly got the toy off her to use it as a prop, and she didn't talk to him for three days. (He returned the toy laser gun to her later and apologized sincerely.)"
             },
             "Icon": "140301.png",
-            "Pic": "140301.png"
+            "Pic": "140301.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140302,
@@ -11058,7 +11443,8 @@ var _item = {
                 "EN": "Mr. Xiyan shoves a jewelry box into your hands. The box is full of fake emerald pendants made from green beer bottle glass and fake diamond rings made of glass marbles. He says this is the high elders' secret treasure. You say there's no way that's the case. He says he's the scriptwriter, not you. You decide to get him back later.<br><br><i>\"Never mind... just perform it like it's a mime without prop...\"</i>"
             },
             "Icon": "140302.png",
-            "Pic": "140302.png"
+            "Pic": "140302.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140303,
@@ -11077,7 +11463,8 @@ var _item = {
                 "EN": "The storytelling collection that Mr. Xiyan had written based on your adventures. The title page contains \"Based On A True Story\" in big letters, but most of the content is made up. The process of making up this story was pure chaos, but honestly the final story was not half bad. Artistic creation is a wonder indeed.<br><br><i>\"The Trailblazer's legend continues!\"</i>"
             },
             "Icon": "140303.png",
-            "Pic": "140303.png"
+            "Pic": "140303.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140304,
@@ -11096,7 +11483,8 @@ var _item = {
                 "EN": "In Mr. Xiyan's story, this is the weapon you and {TEXTJOIN#59} managed to forge. You can tell at a glance that this dark and faded {TEXTJOIN#61} has a legendary past.<br>Originally there were LEDs in there. They light up if you press the switch and looked really fancy. Then the batteries went flat and Mr. Xiyan hasn't gotten around to change them yet."
             },
             "Icon": "140304.png",
-            "Pic": "140304.png"
+            "Pic": "140304.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140305,
@@ -11115,7 +11503,8 @@ var _item = {
                 "EN": "In Mr. Xiyan's story, this is the weapon you and {TEXTJOIN#59} managed to forge. You can tell at a glance that this dark and faded {TEXTJOIN#61} has a legendary past.<br>It's actually a toy laser gun belonging to Mr. Xiyan's little niece. Then he ran its batteries flat, and she didn't talk to him for three days. (He returned the toy laser gun to her after replacing the batteries. They have now reconciled.)"
             },
             "Icon": "140305.png",
-            "Pic": "140305.png"
+            "Pic": "140305.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140306,
@@ -11134,7 +11523,8 @@ var _item = {
                 "EN": "Notes compiled by Little Tian. However, the perplexing rare illnesses within the cosmos have long exceeded her scope of expertise."
             },
             "Icon": "140225.png",
-            "Pic": "140225.png"
+            "Pic": "140225.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140307,
@@ -11153,7 +11543,8 @@ var _item = {
                 "EN": "Proof that Little Tian also plays Celestial Jade. One can imagine how Qingque and Little Tian became acquainted."
             },
             "Icon": "140230.png",
-            "Pic": "140230.png"
+            "Pic": "140230.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140308,
@@ -11172,7 +11563,8 @@ var _item = {
                 "EN": "Healer's note previously presented by Qingque. Later on, the Alchemy Commission dispatched specialists to verify the fictional ailments."
             },
             "Icon": "140125.png",
-            "Pic": "140125.png"
+            "Pic": "140125.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140309,
@@ -11191,7 +11583,8 @@ var _item = {
                 "EN": "The IPC has sent invites to all guild merchants in Aurum Alley wishing to strike deals with all of them."
             },
             "Icon": "140175.png",
-            "Pic": "140175.png"
+            "Pic": "140175.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140310,
@@ -11210,7 +11603,8 @@ var _item = {
                 "EN": "Storytellers spin up tales all the time about heroes and heroines and legions and knights. Yet this tale goes beyond a storyteller's imagination — it draws inspiration from your extraordinary adventures.<br><br><i>To find out what happens next, please tune in next time.</i>"
             },
             "Icon": "140303.png",
-            "Pic": "140303.png"
+            "Pic": "140303.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140311,
@@ -11229,7 +11623,8 @@ var _item = {
                 "EN": "The Light Cone gifted by the Garden of Recollection to March 7th. The memory sealed within is none other than her \"origin.\"<br><br><i>\"An eagle borne on mighty wings will never miss the cliffs it once fell from, and a full-mast ship will never miss the beach where she once ran aground.<br>And you, my child, know that the past is as intangible as a hazy mirage.<br>But everything you are experiencing right now will surely be etched in stone by those who come after.\"</i>"
             },
             "Icon": "140311.png",
-            "Pic": "140311.png"
+            "Pic": "140311.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140312,
@@ -11248,7 +11643,8 @@ var _item = {
                 "EN": "An item obtained from the Abundance Sprite: Wooden Lupus. It is not a natural creation, and its edibility is unknown.<br><br><i>\"Seriously? They're trying to unshackle this thing? Are they just trying to 'unshackle' themselves from life?\"</i>"
             },
             "Icon": "140082.png",
-            "Pic": "140082.png"
+            "Pic": "140082.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140313,
@@ -11267,7 +11663,8 @@ var _item = {
                 "EN": "Confidential documents from the Seat of Divine Foresight. It records the entire process of Yongren joining the Cloud Knights.<br><br><i>\"Codename: 27-149\"</i>"
             },
             "Icon": "140125.png",
-            "Pic": "140125.png"
+            "Pic": "140125.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140314,
@@ -11286,7 +11683,8 @@ var _item = {
                 "EN": "Recordings of Mr. Xiyan's storytelling, can be played repeatedly.<br><br><i>\"Last time, we were talking about...\"</i>"
             },
             "Icon": "140231.png",
-            "Pic": "140231.png"
+            "Pic": "140231.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140315,
@@ -11305,7 +11703,8 @@ var _item = {
                 "EN": "Recordings of Back'n and Forth's crosstalk routine. Can be played repeatedly.<br><br><i>\"I will be presenting a crosstalk segment today...\"</i><br><i>\"Since you can do it yourself, what am I here for.\"</i>"
             },
             "Icon": "140231.png",
-            "Pic": "140231.png"
+            "Pic": "140231.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140316,
@@ -11324,7 +11723,8 @@ var _item = {
                 "EN": "The \"goods\" that Mr. Huo entrusted you to transport, the box is tightly wrapped, and you can't see what's inside.<br><br><i>\"Top secret! Looking's for free, but don't touch!\"</i>"
             },
             "Icon": "140161.png",
-            "Pic": "140161.png"
+            "Pic": "140161.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140317,
@@ -11343,7 +11743,8 @@ var _item = {
                 "EN": "A forbidden text readable only by the illiterate, for when those of literary awareness lay gaze upon its pages, they run the risk of being stripped clean of all knowledge.<br><br><i>\"Alright. Got it all in your head yet?\"</i><br><i>\"My head's empty. I've forgotten everything.\"</i>"
             },
             "Icon": "140230.png",
-            "Pic": "140230.png"
+            "Pic": "140230.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140318,
@@ -11362,7 +11763,8 @@ var _item = {
                 "EN": "A book readable only by the blind. It is said that reading this text will grant one a special kind of awareness and alter their perception of the world.<br><br><i>\"It's not like a sound echoing within your mind, but the actual presence of someone by your side.\"</i>"
             },
             "Icon": "140271.png",
-            "Pic": "140271.png"
+            "Pic": "140271.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140319,
@@ -11381,7 +11783,8 @@ var _item = {
                 "EN": "A text that can drive one mad if even glanced upon. Not every victim experiences the same kind of insanity, but most types of madness remained extremely dangerous.<br><br><i>\"Don'treaditdon'treaditdon'treadit.\"</i>"
             },
             "Icon": "140230.png",
-            "Pic": "140230.png"
+            "Pic": "140230.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140320,
@@ -11400,7 +11803,8 @@ var _item = {
                 "EN": "\"We've been through a huge crisis and are still recovering... but there are some who are trying to exploit the chaos to agitate the workforce.\"<br>\"People are growing more and more distrustful of the management here. It's probably turned into a big headache for Asta too.\""
             },
             "Icon": "140320.png",
-            "Pic": "140320.png"
+            "Pic": "140320.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140321,
@@ -11419,7 +11823,8 @@ var _item = {
                 "EN": "\"Some researchers have been questioning the management and security of the space station ever since the invasion.\"<br>\"Things had settled down a bit with the reconstruction efforts, but the researchers' disappearances has rattled them again.\""
             },
             "Icon": "140323.png",
-            "Pic": "140323.png"
+            "Pic": "140323.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140322,
@@ -11438,7 +11843,8 @@ var _item = {
                 "EN": "\"A Curio without a body but is alive... I've heard of such a species.\"<br>\"A colleague who came back from a business trip said that the Xianzhou Alliance has lifeforms like that.\""
             },
             "Icon": "140324.png",
-            "Pic": "140324.png"
+            "Pic": "140324.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140323,
@@ -11457,7 +11863,8 @@ var _item = {
                 "EN": "\"I heard something like that also exists in the Xianzhou Alliance.\"<br>\"Ah, that's right. They're called heliobi. I guess you could say that wubbaboos and heliobi are sort of like cousins — both are types of energy lifeforms.\""
             },
             "Icon": "140320.png",
-            "Pic": "140320.png"
+            "Pic": "140320.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140324,
@@ -11476,7 +11883,8 @@ var _item = {
                 "EN": "\"That means every victim's disappearance was accompanied by incomprehensible fires.\"<br>\"When we made visits to the scenes, some witness testimonies proved that too...\"<br>\"The words they used were... 'Spontaneous combustion of the human body.'\""
             },
             "Icon": "140324.png",
-            "Pic": "140324.png"
+            "Pic": "140324.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140325,
@@ -11495,7 +11903,8 @@ var _item = {
                 "EN": "\"Let me describe it again in case you forgot: It's an energy lifeform. It doesn't have a body, but it is alive.\"<br>\"An energy lifeform?\"<br>\"That's not the point. I wouldn't be bothering with it if it didn't have something to do with the Genius Society.\""
             },
             "Icon": "140323.png",
-            "Pic": "140323.png"
+            "Pic": "140323.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140326,
@@ -11514,7 +11923,8 @@ var _item = {
                 "EN": "Arlan compiled a list of victims during the investigation of the spontaneous human body combustion incidents. On the surface, these people have nothing in common with each other, but perceptive ones like Pamela still found subtle connections between them."
             },
             "Icon": "140326.png",
-            "Pic": "140326.png"
+            "Pic": "140326.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140327,
@@ -11533,7 +11943,8 @@ var _item = {
                 "EN": "Wen Shiling said Adler kept muttering the word \"phrase\" before he disappeared. Is it possible that it was some other word with a similar pronunciation?"
             },
             "Icon": "140327.png",
-            "Pic": "140327.png"
+            "Pic": "140327.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140328,
@@ -11552,7 +11963,8 @@ var _item = {
                 "EN": "The booklet Adler was reading up to his disappearance. It records the lives of a few Genius Society members — The content consists of quite a few pieces of interesting information."
             },
             "Icon": "140328.png",
-            "Pic": "140328.png"
+            "Pic": "140328.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140329,
@@ -11571,7 +11983,8 @@ var _item = {
                 "EN": "According to Dan Heng's speculation, Ifrit's flame may have abilities other than just burning. Moreover, there happens to be a kind of fire that can phase through dimensions and possesses similar properties — \"Burns through worlds, leaving numerous scions of flame behind.\""
             },
             "Icon": "140329.png",
-            "Pic": "140329.png"
+            "Pic": "140329.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140330,
@@ -11590,7 +12003,8 @@ var _item = {
                 "EN": "\"We've been through a huge crisis and are still recovering... but there are some who are trying to exploit the chaos to agitate the workforce.\"<br>\"People are growing more and more distrustful of the management here. It's probably turned into a big headache for Asta too.\""
             },
             "Icon": "140320.png",
-            "Pic": "140320.png"
+            "Pic": "140320.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140331,
@@ -11609,7 +12023,8 @@ var _item = {
                 "EN": "A letter of unknown origin. Its penmanship is like swordplay, strokes unrestrained."
             },
             "Icon": "140125.png",
-            "Pic": "140125.png"
+            "Pic": "140125.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140332,
@@ -11628,7 +12043,8 @@ var _item = {
                 "EN": ""
             },
             "Icon": "140125.png",
-            "Pic": "140125.png"
+            "Pic": "140125.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140333,
@@ -11647,7 +12063,8 @@ var _item = {
                 "EN": ""
             },
             "Icon": "140125.png",
-            "Pic": "140125.png"
+            "Pic": "140125.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140334,
@@ -11666,7 +12083,8 @@ var _item = {
                 "EN": "\"That means every victim's disappearance was accompanied by incomprehensible fires.\"<br>\"When we made visits to the scenes, some witness testimonies proved that too...\"<br>\"The words they used were... 'Spontaneous combustion of the human body.'\""
             },
             "Icon": "140324.png",
-            "Pic": "140324.png"
+            "Pic": "140324.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140335,
@@ -11685,7 +12103,8 @@ var _item = {
                 "EN": "\"Let me describe it again in case you forgot: It's an energy lifeform. It doesn't have a body, but it is alive.\"<br>\"An energy lifeform?\"<br>\"That's not the point. I wouldn't be bothering with it if it didn't have something to do with the Genius Society.\""
             },
             "Icon": "140323.png",
-            "Pic": "140323.png"
+            "Pic": "140323.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140336,
@@ -11704,7 +12123,8 @@ var _item = {
                 "EN": "The timeline of the Trailblazer's own actions around the period Herta was attacked. This was reconstructed by the Trailblazer via sorting out their memories."
             },
             "Icon": "140323.png",
-            "Pic": "140323.png"
+            "Pic": "140323.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140339,
@@ -11724,7 +12144,7 @@ var _item = {
             },
             "Icon": "140339.png",
             "Pic": "140339.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140340,
@@ -11744,7 +12164,7 @@ var _item = {
             },
             "Icon": "140339.png",
             "Pic": "140339.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140341,
@@ -11764,7 +12184,7 @@ var _item = {
             },
             "Icon": "140341.png",
             "Pic": "140341.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140342,
@@ -11784,7 +12204,7 @@ var _item = {
             },
             "Icon": "140342.png",
             "Pic": "140342.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140343,
@@ -11804,7 +12224,7 @@ var _item = {
             },
             "Icon": "140343.png",
             "Pic": "140343.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140344,
@@ -11824,7 +12244,7 @@ var _item = {
             },
             "Icon": "140344.png",
             "Pic": "140344.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140345,
@@ -11844,7 +12264,7 @@ var _item = {
             },
             "Icon": "140345.png",
             "Pic": "140345.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140346,
@@ -11864,7 +12284,7 @@ var _item = {
             },
             "Icon": "140346.png",
             "Pic": "140346.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140347,
@@ -11884,7 +12304,7 @@ var _item = {
             },
             "Icon": "140347.png",
             "Pic": "140347.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140348,
@@ -11904,7 +12324,7 @@ var _item = {
             },
             "Icon": "140348.png",
             "Pic": "140348.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140349,
@@ -11924,7 +12344,7 @@ var _item = {
             },
             "Icon": "140349.png",
             "Pic": "140349.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140350,
@@ -11944,7 +12364,7 @@ var _item = {
             },
             "Icon": "140350.png",
             "Pic": "140350.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140351,
@@ -11964,7 +12384,7 @@ var _item = {
             },
             "Icon": "140351.png",
             "Pic": "140351.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140352,
@@ -11984,7 +12404,7 @@ var _item = {
             },
             "Icon": "140352.png",
             "Pic": "140352.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140353,
@@ -12004,7 +12424,7 @@ var _item = {
             },
             "Icon": "270000.png",
             "Pic": "270000.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140354,
@@ -12023,7 +12443,8 @@ var _item = {
                 "EN": "The heliobus possessing March 7th's camera. Pure and kind, they longs for the sceneries in the pictures that she took.<br><br><i>\"There's still so much I haven't done... so many sights I haven't seen...\"</i>"
             },
             "Icon": "140354.png",
-            "Pic": "140354.png"
+            "Pic": "140354.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140355,
@@ -12042,7 +12463,8 @@ var _item = {
                 "EN": "Gifts sent by Guinaifen's enthusiastic, stalking fan.<br><br><i>\"Little Gui, you're really cool. I like you even more now!\"</i>"
             },
             "Icon": "140355.png",
-            "Pic": "140355.png"
+            "Pic": "140355.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140356,
@@ -12061,7 +12483,8 @@ var _item = {
                 "EN": "A property deed faded with time. It is registered under Renault, an outworlder, which doesn't match the \"Renault\" you've encountered before."
             },
             "Icon": "140356.png",
-            "Pic": "140356.png"
+            "Pic": "140356.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140357,
@@ -12080,7 +12503,8 @@ var _item = {
                 "EN": "The commemorative medallion sent by Ghostly Grove to influencers attaining one million subscribers.<br><br><i>\"Congratulations, you have one million subscribers on Ghostly Grove!\"</i>"
             },
             "Icon": "140357.png",
-            "Pic": "140357.png"
+            "Pic": "140357.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140358,
@@ -12099,7 +12523,8 @@ var _item = {
                 "EN": "The commemorative medallion sent by Ghostly Grove to influencers attaining one hundred thousand subscribers.<br><br><i>\"Congratulations, you have one hundred thousand subscribers on Ghostly Grove!\"</i>"
             },
             "Icon": "140358.png",
-            "Pic": "140358.png"
+            "Pic": "140358.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140359,
@@ -12118,7 +12543,8 @@ var _item = {
                 "EN": ""
             },
             "Icon": "140359.png",
-            "Pic": "140359.png"
+            "Pic": "140359.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140360,
@@ -12137,7 +12563,8 @@ var _item = {
                 "EN": ""
             },
             "Icon": "140360.png",
-            "Pic": "140360.png"
+            "Pic": "140360.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140361,
@@ -12156,7 +12583,8 @@ var _item = {
                 "EN": "The specialized exorcism tool created by the Ten-Lords Commission for dealing with heliobi. It captures heliobi and locks them inside.<br><br><i>\"It can absorb the malevolent energy between heaven and earth, possessing the ability to ward off evil and avert calamity.\"</i>"
             },
             "Icon": "140361.png",
-            "Pic": "140361.png"
+            "Pic": "140361.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140362,
@@ -12175,7 +12603,8 @@ var _item = {
                 "EN": "The specialized exorcism tool created by the Ten-Lords Commission for dealing with heliobi. Ring the bell to resonate it with heliobi's illusory maze.<br><br><i>\"With resounding clarity, it purifies all directions.\"</i>"
             },
             "Icon": "140362.png",
-            "Pic": "140362.png"
+            "Pic": "140362.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140363,
@@ -12194,7 +12623,8 @@ var _item = {
                 "EN": "A ruined booklet. The pages are yellowish and fragile, and the notes written are extremely blurred. It is said that some of its text records some long-lost ancient Belobogian martial arts techniques.<br><br>\"I am almost certain that this booklet was made to look old by being fed to Funeral Worms before soaked in Moo-Moo urine... But the contents written upon its pages might very well be real, as certain contemporary texts can attest. Ah... Don't cry yet, let's get the appraisal fee settled first, thank you.\" — Balaway \"Miner's Lamp\""
             },
             "Icon": "140363.png",
-            "Pic": "140363.png"
+            "Pic": "140363.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140364,
@@ -12213,7 +12643,8 @@ var _item = {
                 "EN": "Recordings of a guqin being played at Swallowsong Pavilion. The recordingly can be played repeatedly.<br><br><i>\"Towering like that of a mountain, flowing like that of rapid water...\"</i>"
             },
             "Icon": "140231.png",
-            "Pic": "140231.png"
+            "Pic": "140231.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140365,
@@ -12232,7 +12663,8 @@ var _item = {
                 "EN": "Recordings of a guqin music piece downloaded from the network. The recording can be played repeatedly.<br><br><i>\"An introduction for to-be guqin-lovers.\"</i>"
             },
             "Icon": "140231.png",
-            "Pic": "140231.png"
+            "Pic": "140231.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140366,
@@ -12251,7 +12683,8 @@ var _item = {
                 "EN": "A lodestone dropped from an unknown source. Life hack: You can use a lodestone to move metal objects on the other side of a piece of cardboard."
             },
             "Icon": "140211.png",
-            "Pic": "140211.png"
+            "Pic": "140211.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140367,
@@ -12270,7 +12703,8 @@ var _item = {
                 "EN": "Looks like a key to unlock a moon gate."
             },
             "Icon": "140009.png",
-            "Pic": "140009.png"
+            "Pic": "140009.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140370,
@@ -12289,7 +12723,8 @@ var _item = {
                 "EN": "Looks like a key to unlock a moon gate."
             },
             "Icon": "140009.png",
-            "Pic": "140009.png"
+            "Pic": "140009.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140372,
@@ -12308,7 +12743,8 @@ var _item = {
                 "EN": "A picture of a family of three. On it is written: \"When we first arrived in Xianzhou — Renault.\" It seems to be dated about a hundred years ago..."
             },
             "Icon": "140158.png",
-            "Pic": "140158.png"
+            "Pic": "140158.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140373,
@@ -12327,7 +12763,8 @@ var _item = {
                 "EN": "A stack of discarded, unused letter paper. The owner seems to have written a few pages before stopping, much like a sudden and transient enthusiasm for learning."
             },
             "Icon": "190009.png",
-            "Pic": "190009.png"
+            "Pic": "190009.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140374,
@@ -12346,7 +12783,8 @@ var _item = {
                 "EN": "Text obtained through rubbing the faint engravings on a stone monument to a piece of tracing paper. Appears to have been intentionally left behind by the homeowner."
             },
             "Icon": "190011.png",
-            "Pic": "190011.png"
+            "Pic": "190011.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140376,
@@ -12365,7 +12803,8 @@ var _item = {
                 "EN": "A square-shaped rice \"ball\" taken out of a lunchbox. Different foods are mixed together within. It might taste good?"
             },
             "Icon": "140376.png",
-            "Pic": "140376.png"
+            "Pic": "140376.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140377,
@@ -12384,7 +12823,8 @@ var _item = {
                 "EN": "Broken weapon fragments, sharp enough to be used as a paper cutter."
             },
             "Icon": "140162.png",
-            "Pic": "140162.png"
+            "Pic": "140162.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140378,
@@ -12403,7 +12843,8 @@ var _item = {
                 "EN": "An old bell. It can produce a clear, crisp sound, and looks like an item used to attract small animals."
             },
             "Icon": "140139.png",
-            "Pic": "140139.png"
+            "Pic": "140139.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140380,
@@ -12422,7 +12863,8 @@ var _item = {
                 "EN": "A medicine exclusive to the Xianzhou Yaoqing, said to have the effect of improving overall fitness and rendering those who take it immune to all diseases for a short period of time.<br>On the Yaoqing, legend holds that a healer who went by the surname of Yu fell in love with a Foxian trader girl. But the Vidyadhara could live for a thousand years, much longer than the Foxians. Yu searched for ways to release his lover from the grip of death. He fell for the trickery of the Disciples of Sanctus Medicus and asked his lover to take the longevity medicine of Abundance without telling her what it was. The Foxian girl turned into an abomination that no longer loved him before being slain by the Cloud Knights. To prevent Yu, who was overwhelmed by grief, from becoming mara-struck, the Alchemy Commission ordered him to take the Longevity Pill of Cruelty that deprived him of love and desire until his demise.<br>The legend has another version, in which Yu was not of the Vidyadhara but a mere mortal, and the Foxian girl was a spy planted by the Disciples to infiltrate the Alchemy Commission. This version is not as popular, for it turns a romance story into a political power struggle.<br><br><i>\"Those who love and live deeply fall into mara, while those who sever desire and passions can live for a millennium. Ask yourself, then, why fear mara, and why take joy in a long life?\"</i>"
             },
             "Icon": "403006.png",
-            "Pic": "403006.png"
+            "Pic": "403006.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140381,
@@ -12441,7 +12883,8 @@ var _item = {
                 "EN": "A trash bag filled with celestial jade tiles. Celestial jade tiles possess differing levels of rarity, and the sorting can be seen from the colors of the trash bags.<br><br><i>\"Enjoy responsibly, spend wisely.\"</i>"
             },
             "Icon": "408001.png",
-            "Pic": "408001.png"
+            "Pic": "408001.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140382,
@@ -12460,7 +12903,8 @@ var _item = {
                 "EN": "A trash bag filled with celestial jade tiles. Celestial jade tiles possess differing levels of rarity, and the sorting can be seen from the colors of the trash bags.<br><br><i>\"Enjoy responsibly, spend wisely.\"</i>"
             },
             "Icon": "408002.png",
-            "Pic": "408002.png"
+            "Pic": "408002.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140383,
@@ -12479,7 +12923,8 @@ var _item = {
                 "EN": "These appear to be heliobi fragments scattered across the land when Cirrus shattered.<br><br><i>\"Powerful heliobi can possibly swallow weaker ones and temporarily force them to be joined as one...\"</i><br><i>\"However, upon being affected by an outside force, this equilibrium is also easy to collapse.\"</i>"
             },
             "Icon": "Icon_Suiyang01.png",
-            "Pic": "Icon_Suiyang01.png"
+            "Pic": "Icon_Suiyang01.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140384,
@@ -12498,7 +12943,8 @@ var _item = {
                 "EN": "These appear to be heliobi fragments scattered across the land when Cirrus shattered.<br><br><i>\"Powerful heliobi can possibly swallow weaker ones and temporarily force them to be joined as one...\"</i><br><i>\"However, upon being affected by an outside force, this equilibrium is also easy to collapse.\"</i>"
             },
             "Icon": "Icon_Suiyang01.png",
-            "Pic": "Icon_Suiyang01.png"
+            "Pic": "Icon_Suiyang01.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140385,
@@ -12517,7 +12963,8 @@ var _item = {
                 "EN": "These appear to be heliobi fragments scattered across the land when Cirrus shattered.<br><br><i>\"Powerful heliobi can possibly swallow weaker ones and temporarily force them to be joined as one...\"</i><br><i>\"However, upon being affected by an outside force, this equilibrium is also easy to collapse.\"</i>"
             },
             "Icon": "Icon_Suiyang01.png",
-            "Pic": "Icon_Suiyang01.png"
+            "Pic": "Icon_Suiyang01.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140386,
@@ -12536,7 +12983,8 @@ var _item = {
                 "EN": "A trash bag filled with celestial jade tiles. Celestial jade tiles possess differing levels of rarity, and the sorting can be seen from the colors of the trash bags.<br><br><i>\"Enjoy responsibly, spend wisely.\"</i>"
             },
             "Icon": "408001.png",
-            "Pic": "408001.png"
+            "Pic": "408001.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140387,
@@ -12555,7 +13003,8 @@ var _item = {
                 "EN": "A trash bag filled with celestial jade tiles. Celestial jade tiles possess differing levels of rarity, and the sorting can be seen from the colors of the trash bags.<br><br><i>\"Enjoy responsibly, spend wisely.\"</i>"
             },
             "Icon": "408001.png",
-            "Pic": "408001.png"
+            "Pic": "408001.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140388,
@@ -12574,7 +13023,8 @@ var _item = {
                 "EN": "A trash bag filled with celestial jade tiles. Celestial jade tiles possess differing levels of rarity, and the sorting can be seen from the colors of the trash bags.<br><br><i>\"Enjoy responsibly, spend wisely.\"</i>"
             },
             "Icon": "408001.png",
-            "Pic": "408001.png"
+            "Pic": "408001.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140389,
@@ -12593,7 +13043,8 @@ var _item = {
                 "EN": "A trash bag filled with celestial jade tiles. Celestial jade tiles possess differing levels of rarity, and the sorting can be seen from the colors of the trash bags.<br><br><i>\"Enjoy responsibly, spend wisely.\"</i>"
             },
             "Icon": "408001.png",
-            "Pic": "408001.png"
+            "Pic": "408001.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140390,
@@ -12612,7 +13063,8 @@ var _item = {
                 "EN": "A trash bag filled with celestial jade tiles. Celestial jade tiles possess differing levels of rarity, and the sorting can be seen from the colors of the trash bags.<br><br><i>\"Enjoy responsibly, spend wisely.\"</i>"
             },
             "Icon": "408001.png",
-            "Pic": "408001.png"
+            "Pic": "408001.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140391,
@@ -12631,7 +13083,8 @@ var _item = {
                 "EN": "A trash bag filled with celestial jade tiles. Celestial jade tiles possess differing levels of rarity, and the sorting can be seen from the colors of the trash bags.<br><br><i>\"Enjoy responsibly, spend wisely.\"</i>"
             },
             "Icon": "408001.png",
-            "Pic": "408001.png"
+            "Pic": "408001.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140392,
@@ -12650,7 +13103,8 @@ var _item = {
                 "EN": "A trash bag filled with celestial jade tiles. Celestial jade tiles possess differing levels of rarity, and the sorting can be seen from the colors of the trash bags.<br><br><i>\"Enjoy responsibly, spend wisely.\"</i>"
             },
             "Icon": "408001.png",
-            "Pic": "408001.png"
+            "Pic": "408001.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140393,
@@ -12669,7 +13123,8 @@ var _item = {
                 "EN": "A trash bag filled with celestial jade tiles. Celestial jade tiles possess differing levels of rarity, and the sorting can be seen from the colors of the trash bags.<br><br><i>\"Enjoy responsibly, spend wisely.\"</i>"
             },
             "Icon": "408001.png",
-            "Pic": "408001.png"
+            "Pic": "408001.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140394,
@@ -12688,7 +13143,8 @@ var _item = {
                 "EN": "A trash bag filled with celestial jade tiles. Celestial jade tiles possess differing levels of rarity, and the sorting can be seen from the colors of the trash bags.<br><br><i>\"Enjoy responsibly, spend wisely.\"</i>"
             },
             "Icon": "408001.png",
-            "Pic": "408001.png"
+            "Pic": "408001.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140395,
@@ -12708,7 +13164,7 @@ var _item = {
             },
             "Icon": "402026.png",
             "Pic": "402026.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140396,
@@ -12728,7 +13184,7 @@ var _item = {
             },
             "Icon": "140396.png",
             "Pic": "140396.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140397,
@@ -12748,7 +13204,7 @@ var _item = {
             },
             "Icon": "140397.png",
             "Pic": "140397.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140398,
@@ -12768,7 +13224,7 @@ var _item = {
             },
             "Icon": "180011.png",
             "Pic": "180011.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140399,
@@ -12788,7 +13244,7 @@ var _item = {
             },
             "Icon": "140399.png",
             "Pic": "140399.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140400,
@@ -12808,7 +13264,7 @@ var _item = {
             },
             "Icon": "140400.png",
             "Pic": "140400.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140401,
@@ -12828,7 +13284,7 @@ var _item = {
             },
             "Icon": "2.png",
             "Pic": "2.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140402,
@@ -12847,7 +13303,8 @@ var _item = {
                 "EN": "The researchers' favorite work meal. It's not very fresh and not very clean. One wonders whether one will see the Aeons after eating it."
             },
             "Icon": "401003.png",
-            "Pic": "401003.png"
+            "Pic": "401003.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140403,
@@ -12866,7 +13323,8 @@ var _item = {
                 "EN": "Surveillance images provided by the security robot. It records the suspicious figure that recently approached the door security system."
             },
             "Icon": "113007.png",
-            "Pic": "113007.png"
+            "Pic": "113007.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140404,
@@ -12885,7 +13343,8 @@ var _item = {
                 "EN": "Data copied from the space station's terminal. It clearly and comprehensively records all external communication from the terminal."
             },
             "Icon": "113006.png",
-            "Pic": "113006.png"
+            "Pic": "113006.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140405,
@@ -12904,7 +13363,8 @@ var _item = {
                 "EN": "Fresh and tasty cake. Probably dropped by some unfortunate researcher."
             },
             "Icon": "408606.png",
-            "Pic": "408606.png"
+            "Pic": "408606.png",
+            "Ver": "1.x"
         },
         {
             "_id": 140406,
@@ -12924,7 +13384,7 @@ var _item = {
             },
             "Icon": "140406.png",
             "Pic": "140406.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140407,
@@ -12944,7 +13404,7 @@ var _item = {
             },
             "Icon": "140407.png",
             "Pic": "140407.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140408,
@@ -12964,7 +13424,7 @@ var _item = {
             },
             "Icon": "140408.png",
             "Pic": "140408.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140409,
@@ -12984,7 +13444,7 @@ var _item = {
             },
             "Icon": "140409.png",
             "Pic": "140409.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140410,
@@ -13004,7 +13464,7 @@ var _item = {
             },
             "Icon": "190005.png",
             "Pic": "190005.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140411,
@@ -13024,7 +13484,7 @@ var _item = {
             },
             "Icon": "140105.png",
             "Pic": "140105.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140412,
@@ -13044,7 +13504,7 @@ var _item = {
             },
             "Icon": "140412.png",
             "Pic": "SpriteOutput/ItemIcon/140412.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140414,
@@ -13064,7 +13524,7 @@ var _item = {
             },
             "Icon": "140414.png",
             "Pic": "140414.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140415,
@@ -13084,7 +13544,7 @@ var _item = {
             },
             "Icon": "140415.png",
             "Pic": "140415.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140416,
@@ -13104,7 +13564,7 @@ var _item = {
             },
             "Icon": "140416.png",
             "Pic": "140416.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140417,
@@ -13124,7 +13584,7 @@ var _item = {
             },
             "Icon": "140417.png",
             "Pic": "140417.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140418,
@@ -13144,7 +13604,7 @@ var _item = {
             },
             "Icon": "140418.png",
             "Pic": "140418.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140419,
@@ -13164,7 +13624,7 @@ var _item = {
             },
             "Icon": "140419.png",
             "Pic": "140419.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140420,
@@ -13184,7 +13644,7 @@ var _item = {
             },
             "Icon": "140413.png",
             "Pic": "140413.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140421,
@@ -13204,7 +13664,7 @@ var _item = {
             },
             "Icon": "190005.png",
             "Pic": "190005.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140422,
@@ -13224,7 +13684,7 @@ var _item = {
             },
             "Icon": "190013.png",
             "Pic": "190013.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140423,
@@ -13244,7 +13704,7 @@ var _item = {
             },
             "Icon": "190002.png",
             "Pic": "190002.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140424,
@@ -13264,7 +13724,7 @@ var _item = {
             },
             "Icon": "140212.png",
             "Pic": "140212.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140425,
@@ -13284,7 +13744,7 @@ var _item = {
             },
             "Icon": "190002.png",
             "Pic": "190002.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140426,
@@ -13304,7 +13764,7 @@ var _item = {
             },
             "Icon": "190002.png",
             "Pic": "190002.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140427,
@@ -13324,7 +13784,7 @@ var _item = {
             },
             "Icon": "190002.png",
             "Pic": "190002.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140428,
@@ -13344,7 +13804,7 @@ var _item = {
             },
             "Icon": "190002.png",
             "Pic": "190002.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140429,
@@ -13364,7 +13824,7 @@ var _item = {
             },
             "Icon": "140429.png",
             "Pic": "140429.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140430,
@@ -13384,7 +13844,7 @@ var _item = {
             },
             "Icon": "140430.png",
             "Pic": "140430.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140431,
@@ -13404,7 +13864,7 @@ var _item = {
             },
             "Icon": "140099.png",
             "Pic": "140099.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140432,
@@ -13424,7 +13884,7 @@ var _item = {
             },
             "Icon": "140432.png",
             "Pic": "140432.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140433,
@@ -13444,7 +13904,7 @@ var _item = {
             },
             "Icon": "140013.png",
             "Pic": "140013.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140434,
@@ -13464,7 +13924,7 @@ var _item = {
             },
             "Icon": "140013.png",
             "Pic": "140013.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140435,
@@ -13484,7 +13944,7 @@ var _item = {
             },
             "Icon": "401025.png",
             "Pic": "401025.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140436,
@@ -13504,7 +13964,7 @@ var _item = {
             },
             "Icon": "140033.png",
             "Pic": "140033.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140437,
@@ -13524,7 +13984,7 @@ var _item = {
             },
             "Icon": "140437.png",
             "Pic": "140437.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140438,
@@ -13544,7 +14004,7 @@ var _item = {
             },
             "Icon": "140437.png",
             "Pic": "140437.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140439,
@@ -13564,7 +14024,7 @@ var _item = {
             },
             "Icon": "140437.png",
             "Pic": "140437.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140466,
@@ -13584,7 +14044,7 @@ var _item = {
             },
             "Icon": "140466.png",
             "Pic": "140466.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140467,
@@ -13604,7 +14064,7 @@ var _item = {
             },
             "Icon": "140437.png",
             "Pic": "140437.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140468,
@@ -13624,7 +14084,7 @@ var _item = {
             },
             "Icon": "190005.png",
             "Pic": "190005.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 140469,
@@ -13644,7 +14104,7 @@ var _item = {
             },
             "Icon": "140407.png",
             "Pic": "140407.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 149957,
@@ -13663,7 +14123,8 @@ var _item = {
                 "EN": "Trailblazer and March 7th's group photo.<br><br><i>\"We adventure together, explore together, and capture wonderful memories together. In the journeys to come, we will \"trailblaze\" more beautiful moments, preserving them with our camera, our eyes, and our hearts.\"</i>"
             },
             "Icon": "149957.png",
-            "Pic": "149957.png"
+            "Pic": "149957.png",
+            "Ver": "1.x"
         },
         {
             "_id": 149958,
@@ -13682,7 +14143,8 @@ var _item = {
                 "EN": "Trailblazer and March 7th's group photo.<br><br><i>\"We adventure together, explore together, and capture wonderful memories together. In the journeys to come, we will \"trailblaze\" more beautiful moments, preserving them with our camera, our eyes, and our hearts.\"</i>"
             },
             "Icon": "149958.png",
-            "Pic": "149958.png"
+            "Pic": "149958.png",
+            "Ver": "1.x"
         },
         {
             "_id": 149959,
@@ -13701,7 +14163,8 @@ var _item = {
                 "EN": "Modified by Serval, the Silvermane Guards' Snowshine Lamps can now automatically transfer kindlings."
             },
             "Icon": "149959.png",
-            "Pic": "149959.png"
+            "Pic": "149959.png",
+            "Ver": "1.x"
         },
         {
             "_id": 149960,
@@ -13720,7 +14183,8 @@ var _item = {
                 "EN": ""
             },
             "Icon": "140084.png",
-            "Pic": "140084.png"
+            "Pic": "140084.png",
+            "Ver": "1.x"
         },
         {
             "_id": 149961,
@@ -13739,7 +14203,8 @@ var _item = {
                 "EN": ""
             },
             "Icon": "140084.png",
-            "Pic": "140084.png"
+            "Pic": "140084.png",
+            "Ver": "1.x"
         },
         {
             "_id": 149962,
@@ -13758,7 +14223,8 @@ var _item = {
                 "EN": ""
             },
             "Icon": "140084.png",
-            "Pic": "140084.png"
+            "Pic": "140084.png",
+            "Ver": "1.x"
         },
         {
             "_id": 149963,
@@ -13777,7 +14243,8 @@ var _item = {
                 "EN": ""
             },
             "Icon": "140084.png",
-            "Pic": "140084.png"
+            "Pic": "140084.png",
+            "Ver": "1.x"
         },
         {
             "_id": 149964,
@@ -13796,7 +14263,8 @@ var _item = {
                 "EN": ""
             },
             "Icon": "140084.png",
-            "Pic": "140084.png"
+            "Pic": "140084.png",
+            "Ver": "1.x"
         },
         {
             "_id": 149965,
@@ -13815,7 +14283,8 @@ var _item = {
                 "EN": ""
             },
             "Icon": "140084.png",
-            "Pic": "140084.png"
+            "Pic": "140084.png",
+            "Ver": "1.x"
         },
         {
             "_id": 149966,
@@ -13834,7 +14303,8 @@ var _item = {
                 "EN": ""
             },
             "Icon": "140084.png",
-            "Pic": "140084.png"
+            "Pic": "140084.png",
+            "Ver": "1.x"
         },
         {
             "_id": 149967,
@@ -13853,7 +14323,8 @@ var _item = {
                 "EN": ""
             },
             "Icon": "140084.png",
-            "Pic": "140084.png"
+            "Pic": "140084.png",
+            "Ver": "1.x"
         },
         {
             "_id": 149975,
@@ -13872,7 +14343,8 @@ var _item = {
                 "EN": "An old yellowing photo. Evidence of a certain individual's part in a certain historic event.<br>The figure in the picture did not seem to plan to let people feel the historical weight this photo should carry.<br><br><i>\"What will become of Belobog in a hundred years? Well, you'll have to see it through your eyes.\"</i>"
             },
             "Icon": "149975.png",
-            "Pic": "149975.png"
+            "Pic": "149975.png",
+            "Ver": "1.x"
         },
         {
             "_id": 149976,
@@ -13891,7 +14363,8 @@ var _item = {
                 "EN": "A small circular frame with a portrait within. Evidence of a certain individual's part in a certain historic event.<br>The figure in the picture did not seem to plan to let people feel the historical weight this photo should carry.<br><br><i>\"What will become of Belobog in a hundred years? Well, you'll have to see it through your eyes.\"</i>"
             },
             "Icon": "Icon_Testmaterial01.png",
-            "Pic": "Figure_Testmaterial01.png"
+            "Pic": "Figure_Testmaterial01.png",
+            "Ver": "1.x"
         },
         {
             "_id": 149977,
@@ -13910,7 +14383,8 @@ var _item = {
                 "EN": "A small circular frame with a portrait. The expression of the man dressed in an old military uniform in the frame is... complicated.<br>A clockwise-pointing arrow is drawn on the back, accompanied by the phrase \"The next clue sleeps soundly in the shade of the arch.\"<br><br><i>\"What will become of Belobog in a hundred years? Well, you'll have to see it through your eyes.\"</i>"
             },
             "Icon": "140002.png",
-            "Pic": "140002.png"
+            "Pic": "140002.png",
+            "Ver": "1.x"
         },
         {
             "_id": 149978,
@@ -13929,7 +14403,8 @@ var _item = {
                 "EN": "Pela's notes with her elegant handwriting.<br>In the note, there is a curved arrow pointing clockwise and another pointing counterclockwise. Next to the drawing, there is a comment that reads \"Might have something to do with a certain kind of rotatable structure.\"<br><br><i>\"...G—Give me back that piece of paper, or I'll take it!\"</i>"
             },
             "Icon": "149978.png",
-            "Pic": "149978.png"
+            "Pic": "149978.png",
+            "Ver": "1.x"
         },
         {
             "_id": 149979,
@@ -13948,7 +14423,8 @@ var _item = {
                 "EN": "Pela's notes with her elegant handwriting. The clues you find in the Fragmentum are recorded here.<br>In the note, there is a curved arrow pointing clockwise, another pointing counterclockwise, and another pointing clockwise. Next to the drawing, there is a comment that reads \"Might have something to do with a certain kind of rotatable structure.\"<br><br><i>\"...G—Give me back that piece of paper, or I'll take it!\"</i>"
             },
             "Icon": "140028.png",
-            "Pic": "140028.png"
+            "Pic": "140028.png",
+            "Ver": "1.x"
         },
         {
             "_id": 149980,
@@ -13967,7 +14443,8 @@ var _item = {
                 "EN": "A certificate for participants in restricted zone training. Evidence of having defeated the Silvermane Guards before."
             },
             "Icon": "140004.png",
-            "Pic": "140004.png"
+            "Pic": "140004.png",
+            "Ver": "1.x"
         },
         {
             "_id": 149981,
@@ -13986,7 +14463,8 @@ var _item = {
                 "EN": "A certificate for participants in restricted zone training. Evidence of having defeated the Silvermane Guards before."
             },
             "Icon": "140004.png",
-            "Pic": "140004.png"
+            "Pic": "140004.png",
+            "Ver": "1.x"
         },
         {
             "_id": 149982,
@@ -14005,7 +14483,8 @@ var _item = {
                 "EN": "A certificate for participants in restricted zone training. Evidence of having defeated the Silvermane Guards before."
             },
             "Icon": "140004.png",
-            "Pic": "140004.png"
+            "Pic": "140004.png",
+            "Ver": "1.x"
         },
         {
             "_id": 149983,
@@ -14024,7 +14503,8 @@ var _item = {
                 "EN": ""
             },
             "Icon": "140084.png",
-            "Pic": "140084.png"
+            "Pic": "140084.png",
+            "Ver": "1.x"
         },
         {
             "_id": 149984,
@@ -14043,7 +14523,8 @@ var _item = {
                 "EN": ""
             },
             "Icon": "140084.png",
-            "Pic": "140084.png"
+            "Pic": "140084.png",
+            "Ver": "1.x"
         },
         {
             "_id": 149985,
@@ -14062,7 +14543,8 @@ var _item = {
                 "EN": ""
             },
             "Icon": "140084.png",
-            "Pic": "140084.png"
+            "Pic": "140084.png",
+            "Ver": "1.x"
         },
         {
             "_id": 149986,
@@ -14081,7 +14563,8 @@ var _item = {
                 "EN": ""
             },
             "Icon": "140084.png",
-            "Pic": "140084.png"
+            "Pic": "140084.png",
+            "Ver": "1.x"
         },
         {
             "_id": 149987,
@@ -14100,7 +14583,8 @@ var _item = {
                 "EN": ""
             },
             "Icon": "140084.png",
-            "Pic": "140084.png"
+            "Pic": "140084.png",
+            "Ver": "1.x"
         },
         {
             "_id": 149988,
@@ -14119,7 +14603,8 @@ var _item = {
                 "EN": ""
             },
             "Icon": "140084.png",
-            "Pic": "140084.png"
+            "Pic": "140084.png",
+            "Ver": "1.x"
         },
         {
             "_id": 149989,
@@ -14138,7 +14623,8 @@ var _item = {
                 "EN": ""
             },
             "Icon": "140084.png",
-            "Pic": "140084.png"
+            "Pic": "140084.png",
+            "Ver": "1.x"
         },
         {
             "_id": 149991,
@@ -14157,7 +14643,8 @@ var _item = {
                 "EN": "Medical supplies urgently needed by Natasha.<br><br><i>\"A full box of metal plates and bandages, exactly what Natasha needs.\"</i>"
             },
             "Icon": "140082.png",
-            "Pic": "140082.png"
+            "Pic": "140082.png",
+            "Ver": "1.x"
         },
         {
             "_id": 149997,
@@ -14177,7 +14664,7 @@ var _item = {
             },
             "Icon": "420001.png",
             "Pic": "420001.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 149998,
@@ -14197,7 +14684,7 @@ var _item = {
             },
             "Icon": "420001.png",
             "Pic": "420001.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 149999,
@@ -14217,7 +14704,7 @@ var _item = {
             },
             "Icon": "420001.png",
             "Pic": "420001.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 149990,
@@ -14237,7 +14724,7 @@ var _item = {
             },
             "Icon": "420001.png",
             "Pic": "420001.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 150000,
@@ -14257,7 +14744,7 @@ var _item = {
             },
             "Icon": "140082.png",
             "Pic": "140082.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 150001,
@@ -14277,7 +14764,7 @@ var _item = {
             },
             "Icon": "420001.png",
             "Pic": "420001.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 150002,
@@ -14297,7 +14784,7 @@ var _item = {
             },
             "Icon": "420001.png",
             "Pic": "420001.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 150003,
@@ -14317,7 +14804,7 @@ var _item = {
             },
             "Icon": "420001.png",
             "Pic": "420001.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 150004,
@@ -14337,7 +14824,7 @@ var _item = {
             },
             "Icon": "420001.png",
             "Pic": "420001.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 222000,
@@ -14357,7 +14844,7 @@ var _item = {
             },
             "Icon": "222000.png",
             "Pic": "222000.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 250401,
@@ -14376,7 +14863,8 @@ var _item = {
                 "EN": "In the game Aetherium Wars, the proof of passing the Victory Zone test can be obtained by collecting four Mastery Marks, which qualifies you to participate in the championship. The Victory Zone of the Corridor of Fading Echoes grants you this proof, signifying your victory against the formidable championship contenders, Serval and Pela.<br><br><i>\"You are a calm, yet passionate player!\"</i>"
             },
             "Icon": "250401.png",
-            "Pic": "250401.png"
+            "Pic": "250401.png",
+            "Ver": "1.x"
         },
         {
             "_id": 250402,
@@ -14395,7 +14883,8 @@ var _item = {
                 "EN": "In the game Aetherium Wars, the proof of passing the Victory Zone test can be obtained by collecting four Mastery Marks, which qualifies you to participate in the championship. The Victory Zone of Cloudford grants you this proof, signifying your victory against the formidable championship contender, Master Gongshu.<br><br><i>\"You are a skilled and masterful player!\"</i>"
             },
             "Icon": "250402.png",
-            "Pic": "250402.png"
+            "Pic": "250402.png",
+            "Ver": "1.x"
         },
         {
             "_id": 250403,
@@ -14414,7 +14903,8 @@ var _item = {
                 "EN": "In the game Aetherium Wars, the proof of passing the Victory Zone test can be obtained by collecting four Mastery Marks, which qualifies you to participate in the championship. The Victory Zone of Herta Space Station grants you this proof, signifying your victory against the formidable championship contender, Herta.<br><br><i>\"You are an intelligent player!\"</i>"
             },
             "Icon": "250403.png",
-            "Pic": "250403.png"
+            "Pic": "250403.png",
+            "Ver": "1.x"
         },
         {
             "_id": 250404,
@@ -14433,7 +14923,8 @@ var _item = {
                 "EN": "In the game Aetherium Wars, the proof of passing the Victory Zone test can be obtained by collecting four Mastery Marks, which qualifies you to participate in the championship. The Victory Zone of Great Mine grants you this proof, signifying your victory against the formidable championship contender, Giovanni.<br><br><i>\"You are a player who knows how to enjoy!\"</i>"
             },
             "Icon": "250404.png",
-            "Pic": "250404.png"
+            "Pic": "250404.png",
+            "Ver": "1.x"
         }
     ],
     "7": [
@@ -14465,7 +14956,7 @@ var _item = {
                     "EN": "Vending Machine"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 400005,
@@ -14491,7 +14982,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 400006,
@@ -14521,7 +15012,7 @@ var _item = {
                     "EN": "Vending Machine"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 400007,
@@ -14551,7 +15042,7 @@ var _item = {
                     "EN": "Vending Machine"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 400008,
@@ -14577,7 +15068,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 401003,
@@ -14607,7 +15098,7 @@ var _item = {
                     "EN": "Vending Machine"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 401004,
@@ -14633,7 +15124,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 401005,
@@ -14659,7 +15150,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 401006,
@@ -14689,7 +15180,7 @@ var _item = {
                     "EN": "Vending Machine"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 401007,
@@ -14715,7 +15206,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 401008,
@@ -14745,7 +15236,7 @@ var _item = {
                     "EN": "Vending Machine"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 401009,
@@ -14771,7 +15262,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 401010,
@@ -14797,7 +15288,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 401011,
@@ -14823,7 +15314,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 401012,
@@ -14849,7 +15340,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 401013,
@@ -14875,7 +15366,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 401014,
@@ -14905,7 +15396,7 @@ var _item = {
                     "EN": "Spices Supreme"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 401015,
@@ -14935,7 +15426,7 @@ var _item = {
                     "EN": "Du's Teahouse"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 401016,
@@ -14961,7 +15452,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 401017,
@@ -14987,7 +15478,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 401018,
@@ -15013,7 +15504,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 401019,
@@ -15039,7 +15530,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 401020,
@@ -15065,7 +15556,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 401021,
@@ -15095,7 +15586,7 @@ var _item = {
                     "EN": "Clock Diner"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 401022,
@@ -15125,7 +15616,7 @@ var _item = {
                     "EN": "Clock Diner"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 401023,
@@ -15155,7 +15646,7 @@ var _item = {
                     "EN": "Clock Diner"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 401024,
@@ -15185,7 +15676,7 @@ var _item = {
                     "EN": "Clock Diner"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 401025,
@@ -15215,7 +15706,7 @@ var _item = {
                     "EN": "Anderson"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 401026,
@@ -15245,7 +15736,7 @@ var _item = {
                     "EN": "Popcorn Food Truck"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 401027,
@@ -15275,7 +15766,7 @@ var _item = {
                     "EN": "Ice Cream Trolley"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 401028,
@@ -15305,7 +15796,7 @@ var _item = {
                     "EN": "Dreamscape Sales Store"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 402001,
@@ -15331,7 +15822,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 402002,
@@ -15357,7 +15848,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 402003,
@@ -15383,7 +15874,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 402004,
@@ -15409,7 +15900,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 402005,
@@ -15435,7 +15926,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 402006,
@@ -15461,7 +15952,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 402007,
@@ -15487,7 +15978,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 402008,
@@ -15513,7 +16004,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 402009,
@@ -15539,7 +16030,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 402010,
@@ -15565,7 +16056,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 402011,
@@ -15591,7 +16082,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 402012,
@@ -15617,7 +16108,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 402013,
@@ -15643,7 +16134,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 402014,
@@ -15669,7 +16160,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 402015,
@@ -15695,7 +16186,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 402016,
@@ -15721,7 +16212,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 402017,
@@ -15747,7 +16238,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 402018,
@@ -15773,7 +16264,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 402019,
@@ -15799,7 +16290,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 402020,
@@ -15829,7 +16320,7 @@ var _item = {
                     "EN": "Du's Teahouse"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 402021,
@@ -15859,7 +16350,7 @@ var _item = {
                     "EN": "Longevity Hall"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 402022,
@@ -15889,7 +16380,7 @@ var _item = {
                     "EN": "Longevity Hall"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 402023,
@@ -15915,7 +16406,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 402024,
@@ -15941,7 +16432,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 402025,
@@ -15971,7 +16462,7 @@ var _item = {
                     "EN": "Clock Diner"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 402026,
@@ -16001,7 +16492,7 @@ var _item = {
                     "EN": "Dreamscape Sales Store"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 402027,
@@ -16031,7 +16522,7 @@ var _item = {
                     "EN": "Dreamscape Sales Store"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 402028,
@@ -16061,7 +16552,7 @@ var _item = {
                     "EN": "Dreamscape Sales Store"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 403001,
@@ -16087,7 +16578,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 403002,
@@ -16113,7 +16604,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 403003,
@@ -16139,7 +16630,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 403004,
@@ -16165,7 +16656,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 403005,
@@ -16191,7 +16682,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 403006,
@@ -16217,7 +16708,7 @@ var _item = {
                     "EN": "Omni-Synthesizer"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 403007,
@@ -16247,7 +16738,7 @@ var _item = {
                     "EN": "Spices Supreme"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 403008,
@@ -16277,7 +16768,7 @@ var _item = {
                     "EN": "Oldies Depot"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 403009,
@@ -16307,7 +16798,7 @@ var _item = {
                     "EN": "Dreamscape Sales Store"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 403010,
@@ -16337,7 +16828,7 @@ var _item = {
                     "EN": "Dreamscape Sales Store"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 408001,
@@ -16363,7 +16854,7 @@ var _item = {
                     "EN": "Found in destructible objects in Jarilo-VI"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408002,
@@ -16383,7 +16874,7 @@ var _item = {
             },
             "Icon": "408002.png",
             "Pic": "408002.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408003,
@@ -16403,7 +16894,7 @@ var _item = {
             },
             "Icon": "408003.png",
             "Pic": "408003.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408004,
@@ -16423,7 +16914,7 @@ var _item = {
             },
             "Icon": "408004.png",
             "Pic": "408004.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408005,
@@ -16443,7 +16934,7 @@ var _item = {
             },
             "Icon": "140110.png",
             "Pic": "140110.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408201,
@@ -16469,7 +16960,7 @@ var _item = {
                     "EN": "Food Stall"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408202,
@@ -16495,7 +16986,7 @@ var _item = {
                     "EN": "Food Stall"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408203,
@@ -16521,7 +17012,7 @@ var _item = {
                     "EN": "Food Stall"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408204,
@@ -16547,7 +17038,7 @@ var _item = {
                     "EN": "Extreme Explorer Lynx"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408205,
@@ -16573,7 +17064,7 @@ var _item = {
                     "EN": "Oldies Depot"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408206,
@@ -16599,7 +17090,7 @@ var _item = {
                     "EN": "Yongren's Medicine Stand"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408207,
@@ -16625,7 +17116,7 @@ var _item = {
                     "EN": "Yongren's Medicine Stand"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408208,
@@ -16651,7 +17142,7 @@ var _item = {
                     "EN": "Newspaper Trolley"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 408401,
@@ -16677,7 +17168,7 @@ var _item = {
                     "EN": "Food Stall"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408402,
@@ -16703,7 +17194,7 @@ var _item = {
                     "EN": "Food Stall"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408403,
@@ -16729,7 +17220,7 @@ var _item = {
                     "EN": "Food Stall"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408404,
@@ -16755,7 +17246,7 @@ var _item = {
                     "EN": "Food Stall"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408405,
@@ -16781,7 +17272,7 @@ var _item = {
                     "EN": "Vending Machine"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408406,
@@ -16807,7 +17298,7 @@ var _item = {
                     "EN": "Vending Machine"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408407,
@@ -16833,7 +17324,7 @@ var _item = {
                     "EN": "Food Stall"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408408,
@@ -16859,7 +17350,7 @@ var _item = {
                     "EN": "Food Stall"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408409,
@@ -16885,7 +17376,7 @@ var _item = {
                     "EN": "Extreme Explorer Lynx"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408410,
@@ -16911,7 +17402,7 @@ var _item = {
                     "EN": "Procurement Point for Expired Parcels"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408411,
@@ -16937,7 +17428,7 @@ var _item = {
                     "EN": "Procurement Point for Expired Parcels"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408412,
@@ -16963,7 +17454,7 @@ var _item = {
                     "EN": "Procurement Point for Expired Parcels"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408413,
@@ -16989,7 +17480,7 @@ var _item = {
                     "EN": "Oldies Depot"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408414,
@@ -17015,7 +17506,7 @@ var _item = {
                     "EN": "Longevity Hall"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408415,
@@ -17041,7 +17532,7 @@ var _item = {
                     "EN": "Popcorn Food Truck"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 408416,
@@ -17067,7 +17558,7 @@ var _item = {
                     "EN": "Dreamscape Sales Store"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 408417,
@@ -17093,7 +17584,7 @@ var _item = {
                     "EN": "Dreamscape Sales Store"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 408418,
@@ -17119,7 +17610,7 @@ var _item = {
                     "EN": "Dreamscape Sales Store"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 408601,
@@ -17145,7 +17636,7 @@ var _item = {
                     "EN": "Food Stall"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408602,
@@ -17171,7 +17662,7 @@ var _item = {
                     "EN": "Food Stall"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408603,
@@ -17197,7 +17688,7 @@ var _item = {
                     "EN": "The Sleepless Earl"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408604,
@@ -17223,7 +17714,7 @@ var _item = {
                     "EN": "NutriTreasures"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408605,
@@ -17249,7 +17740,7 @@ var _item = {
                     "EN": "Delicacy Pavilion"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408606,
@@ -17269,7 +17760,7 @@ var _item = {
             },
             "Icon": "408606.png",
             "Pic": "408606.png",
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408607,
@@ -17295,7 +17786,7 @@ var _item = {
                     "EN": "Procurement Point for Expired Parcels"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408608,
@@ -17321,7 +17812,7 @@ var _item = {
                     "EN": "Procurement Point for Expired Parcels"
                 }
             ],
-            "New": true
+            "Ver": "1.x"
         },
         {
             "_id": 408609,
@@ -17347,7 +17838,7 @@ var _item = {
                     "EN": "Clock Diner"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 408610,
@@ -17373,7 +17864,7 @@ var _item = {
                     "EN": "Clock Diner"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 408611,
@@ -17399,7 +17890,7 @@ var _item = {
                     "EN": "Clock Diner"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 408612,
@@ -17425,7 +17916,7 @@ var _item = {
                     "EN": "Clock Diner"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 408613,
@@ -17451,7 +17942,7 @@ var _item = {
                     "EN": "Anderson"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 408614,
@@ -17477,7 +17968,7 @@ var _item = {
                     "EN": "Dreamscape Sales Store"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 408615,
@@ -17503,7 +17994,7 @@ var _item = {
                     "EN": "Dreamscape Sales Store"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 408616,
@@ -17529,7 +18020,7 @@ var _item = {
                     "EN": "Dreamscape Sales Store"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 408617,
@@ -17555,7 +18046,7 @@ var _item = {
                     "EN": "Dreamjoy Fashion Store"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 408618,
@@ -17581,7 +18072,7 @@ var _item = {
                     "EN": "Dreamjoy Fashion Store"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 408619,
@@ -17607,7 +18098,7 @@ var _item = {
                     "EN": "Dreamjoy Fashion Store"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 408801,
@@ -17633,7 +18124,7 @@ var _item = {
                     "EN": "Ice Cream Trolley"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 408802,
@@ -17659,7 +18150,7 @@ var _item = {
                     "EN": "Dreamscape Sales Store"
                 }
             ],
-            "New": true
+            "Ver": "2.0"
         }
     ],
     "2": [
@@ -17680,7 +18171,8 @@ var _item = {
                 "EN": ""
             },
             "Icon": "SpriteOutput/AvatarRoundIcon/UI_Message_Contacts_Anonymous.png",
-            "Pic": ""
+            "Pic": "",
+            "Ver": "1.x"
         },
         {
             "_id": 200101,
@@ -17699,7 +18191,8 @@ var _item = {
                 "EN": "March 7th, participant of the Express Crew Newbie Welcome Party.<br><br><i>\"The best donuts around are all for you!\"</i>"
             },
             "Icon": "avatarhead/IconHeadS1_1001.png",
-            "Pic": "avatarhead/IconHeadS1_1001.png"
+            "Pic": "avatarhead/IconHeadS1_1001.png",
+            "Ver": "1.x"
         },
         {
             "_id": 200102,
@@ -17718,7 +18211,8 @@ var _item = {
                 "EN": "Dan Heng, participant of the Express Crew Newbie Welcome Party.<br><br><i>\"Have some water if you've been talking too much.\"</i>"
             },
             "Icon": "avatarhead/IconHeadS1_1002.png",
-            "Pic": "avatarhead/IconHeadS1_1002.png"
+            "Pic": "avatarhead/IconHeadS1_1002.png",
+            "Ver": "1.x"
         },
         {
             "_id": 200103,
@@ -17737,7 +18231,8 @@ var _item = {
                 "EN": "Himeko, participant of the Express Crew Newbie Welcome Party.<br><br><i>\"It's a newbie tradition: You can't leave until you've finished three cups of coffee.\"</i>"
             },
             "Icon": "avatarhead/IconHeadS1_1003.png",
-            "Pic": "avatarhead/IconHeadS1_1003.png"
+            "Pic": "avatarhead/IconHeadS1_1003.png",
+            "Ver": "1.x"
         },
         {
             "_id": 200104,
@@ -17756,7 +18251,8 @@ var _item = {
                 "EN": "Welt, participant of the Express Crew Newbie Welcome Party.<br><br><i>\"I hope the finished cake can help you forget about the carnage in the kitchen.\"</i>"
             },
             "Icon": "avatarhead/IconHeadS1_1004.png",
-            "Pic": "avatarhead/IconHeadS1_1004.png"
+            "Pic": "avatarhead/IconHeadS1_1004.png",
+            "Ver": "1.x"
         },
         {
             "_id": 200105,
@@ -17775,7 +18271,8 @@ var _item = {
                 "EN": "Trailblazer, participant of the Express Crew Newbie Welcome Party.<br><br><i>\"Hi everyone, I'm Trailblazer, the newbie for the Express Crew Newbie Welcome Party.\"</i>"
             },
             "Icon": "avatarhead/IconHeadS1_8001.png",
-            "Pic": "avatarhead/IconHeadS1_8001.png"
+            "Pic": "avatarhead/IconHeadS1_8001.png",
+            "Ver": "1.x"
         },
         {
             "_id": 200106,
@@ -17794,7 +18291,8 @@ var _item = {
                 "EN": "Trailblazer, participant of the Express Crew Newbie Welcome Party.<br><br><i>\"Hi everyone, I'm Trailblazer, the newbie for the Express Crew Newbie Welcome Party.\"</i>"
             },
             "Icon": "avatarhead/IconHeadS1_8002.png",
-            "Pic": "avatarhead/IconHeadS1_8002.png"
+            "Pic": "avatarhead/IconHeadS1_8002.png",
+            "Ver": "1.x"
         },
         {
             "_id": 200107,
@@ -17813,7 +18311,8 @@ var _item = {
                 "EN": "Kafka on a special mission.<br><br><i>\"Promise me, forget everything about tonight.\"</i>"
             },
             "Icon": "avatarhead/IconHead_200107.png",
-            "Pic": "avatarhead/IconHead_200107.png"
+            "Pic": "avatarhead/IconHead_200107.png",
+            "Ver": "1.x"
         },
         {
             "_id": 200108,
@@ -17832,7 +18331,8 @@ var _item = {
                 "EN": "Blade on a special mission.<br><br><i>\"I'm just following the script. I'm not into this at all.\"</i>"
             },
             "Icon": "avatarhead/IconHead_200108.png",
-            "Pic": "avatarhead/IconHead_200108.png"
+            "Pic": "avatarhead/IconHead_200108.png",
+            "Ver": "1.x"
         },
         {
             "_id": 200109,
@@ -17851,7 +18351,8 @@ var _item = {
                 "EN": "Jing Yuan is enjoying himself in leisure during a brief moment of respite in his busy calendar.<br><br><i>\"When warmth intwines, a siesta beckons.\"</i>"
             },
             "Icon": "avatarhead/IconHead_200109.png",
-            "Pic": "avatarhead/IconHead_200109.png"
+            "Pic": "avatarhead/IconHead_200109.png",
+            "Ver": "1.x"
         },
         {
             "_id": 200110,
@@ -17870,7 +18371,8 @@ var _item = {
                 "EN": "Fu Xuan is enjoying herself in leisure during a brief moment of respite in her busy calendar.<br><br><i>\"The auguries indicate that I should relax and enjoy myself today. I shall engage with work at a later time.\"</i>"
             },
             "Icon": "avatarhead/IconHead_200110.png",
-            "Pic": "avatarhead/IconHead_200110.png"
+            "Pic": "avatarhead/IconHead_200110.png",
+            "Ver": "1.x"
         },
         {
             "_id": 200111,
@@ -17889,7 +18391,8 @@ var _item = {
                 "EN": "Bronya participating in holiday festivities.<br><br><i>\"Every time this city shines with boundless vitality and vigor, it's like a flower choosing to bloom regardless of the snow pressing down upon it.\"</i>"
             },
             "Icon": "avatarhead/IconHead_200111.png",
-            "Pic": "avatarhead/IconHead_200111.png"
+            "Pic": "avatarhead/IconHead_200111.png",
+            "Ver": "1.x"
         },
         {
             "_id": 200112,
@@ -17908,7 +18411,8 @@ var _item = {
                 "EN": "Gepard participating in holiday festivities.<br><br><i>\"I'll be in charge of everyone's safety during the celeb—uh, sorry. Force of habit. I hope everyone can enjoy themselves.\"</i>"
             },
             "Icon": "avatarhead/IconHead_200112.png",
-            "Pic": "avatarhead/IconHead_200112.png"
+            "Pic": "avatarhead/IconHead_200112.png",
+            "Ver": "1.x"
         },
         {
             "_id": 200113,
@@ -17927,7 +18431,8 @@ var _item = {
                 "EN": "Jingliu treading the path to enlightenment.<br><br><i>\"Between the places where the light strikes the water, there are innumerable edges of enlightenment to be gleaned by a wielder of the blade.\"</i>"
             },
             "Icon": "avatarhead/IconHead_200113.png",
-            "Pic": "avatarhead/IconHead_200113.png"
+            "Pic": "avatarhead/IconHead_200113.png",
+            "Ver": "1.x"
         },
         {
             "_id": 200114,
@@ -17946,7 +18451,8 @@ var _item = {
                 "EN": "Yanqing treading the path to enlightenment.<br><br><i>\"In this journey, there must be plenty of opportunities to witness esteemed displays of martial prowess at every turn!\"</i>"
             },
             "Icon": "avatarhead/IconHead_200114.png",
-            "Pic": "avatarhead/IconHead_200114.png"
+            "Pic": "avatarhead/IconHead_200114.png",
+            "Ver": "1.x"
         },
         {
             "_id": 200115,
@@ -17965,7 +18471,8 @@ var _item = {
                 "EN": "Ruan Mei overseeing research projects.<br><br><i>\"Life may vary in the way it blooms, but stays the same in the way it ends.\"</i>"
             },
             "Icon": "avatarhead/IconHead_200115.png",
-            "Pic": "avatarhead/IconHead_200115.png"
+            "Pic": "avatarhead/IconHead_200115.png",
+            "Ver": "1.x"
         },
         {
             "_id": 200116,
@@ -17984,7 +18491,8 @@ var _item = {
                 "EN": "Dr. Ratio overseeing research projects.<br><br><i>\"Such unique insights are indeed rare, for which 10 points shall be tentatively rewarded.\"</i>"
             },
             "Icon": "avatarhead/IconHead_200116.png",
-            "Pic": "avatarhead/IconHead_200116.png"
+            "Pic": "avatarhead/IconHead_200116.png",
+            "Ver": "1.x"
         },
         {
             "_id": 200117,
@@ -18004,7 +18512,7 @@ var _item = {
             },
             "Icon": "avatarhead/IconHead_200117.png",
             "Pic": "avatarhead/IconHead_200117.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 200118,
@@ -18024,7 +18532,7 @@ var _item = {
             },
             "Icon": "avatarhead/IconHead_200118.png",
             "Pic": "avatarhead/IconHead_200118.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 202001,
@@ -18043,7 +18551,8 @@ var _item = {
                 "EN": "As Astral Spirits contained by the Department of Ecology, it took a lot of effort to teach Wubbaboos to look at the camera.<br><br><i>\"Here, look here. Wooo wooo. Wooo whooo wooo? Did you get it?\"</i>"
             },
             "Icon": "avatarhead/IconHead_202001.png",
-            "Pic": "avatarhead/IconHead_202001.png"
+            "Pic": "avatarhead/IconHead_202001.png",
+            "Ver": "1.x"
         },
         {
             "_id": 202002,
@@ -18062,7 +18571,8 @@ var _item = {
                 "EN": "Guys who can laugh at themselves usually have plenty of friends.<br><br><i>\"Who are you cursing out?\"</i>"
             },
             "Icon": "avatarhead/IconHead_202002.png",
-            "Pic": "avatarhead/IconHead_202002.png"
+            "Pic": "avatarhead/IconHead_202002.png",
+            "Ver": "1.x"
         },
         {
             "_id": 202003,
@@ -18081,7 +18591,8 @@ var _item = {
                 "EN": "You know Natasha is more than capable of sewing it more precisely... But you prefer the tattered punk rock look.<br><br><i>\"Junjun! Junjun! Let me ask you — who's the baddest of the bad guys down in the Underworld?\"</i>"
             },
             "Icon": "avatarhead/IconHead_202003.png",
-            "Pic": "avatarhead/IconHead_202003.png"
+            "Pic": "avatarhead/IconHead_202003.png",
+            "Ver": "1.x"
         },
         {
             "_id": 202004,
@@ -18100,7 +18611,8 @@ var _item = {
                 "EN": "Peppy's name card picture, taken when he got employed by the Space Station.<br><br><i>\"*sniff* ...Woof woof woof! Woof!\"</i>"
             },
             "Icon": "avatarhead/IconHead_202004.png",
-            "Pic": "avatarhead/IconHead_202004.png"
+            "Pic": "avatarhead/IconHead_202004.png",
+            "Ver": "1.x"
         },
         {
             "_id": 202005,
@@ -18119,7 +18631,8 @@ var _item = {
                 "EN": "It only takes three days to analyze the entire archives of the Artisanship Commission and customize its own staff profile pic.<br><br><i>\"Master Artisan, I found this in the payroll. It... What's this money for?\"</i>"
             },
             "Icon": "avatarhead/IconHead_202005.png",
-            "Pic": "avatarhead/IconHead_202005.png"
+            "Pic": "avatarhead/IconHead_202005.png",
+            "Ver": "1.x"
         },
         {
             "_id": 202006,
@@ -18138,7 +18651,8 @@ var _item = {
                 "EN": "The portrait of the heroes who saved Belobog. These pictures are demure and solemn, containing a hint of liveliness.<br><br><i>\"This is the pinnacle of abstract art in the winter city.\"</i>"
             },
             "Icon": "avatarhead/IconHead_202006.png",
-            "Pic": "avatarhead/IconHead_202006.png"
+            "Pic": "avatarhead/IconHead_202006.png",
+            "Ver": "1.x"
         },
         {
             "_id": 202007,
@@ -18157,7 +18671,8 @@ var _item = {
                 "EN": "Pom-Pom invites everyone to enjoy some delicious food.<br><br><i>\"You're finally back! All of these are prepared for Trailblazer, March 7th, and Dan Heng!\"</i>"
             },
             "Icon": "avatarhead/IconHead_202007.png",
-            "Pic": "avatarhead/IconHead_202007.png"
+            "Pic": "avatarhead/IconHead_202007.png",
+            "Ver": "1.x"
         },
         {
             "_id": 202008,
@@ -18176,7 +18691,8 @@ var _item = {
                 "EN": "Friendly snack creations.<br><br><i>\"Meow... meow meow~ (E—Everyone... let's play together~)\"<br>\"Woof! Woof! (Hmph! Come play with this genius!)\"</i>"
             },
             "Icon": "avatarhead/IconHead_202008.png",
-            "Pic": "avatarhead/IconHead_202008.png"
+            "Pic": "avatarhead/IconHead_202008.png",
+            "Ver": "1.x"
         },
         {
             "_id": 202009,
@@ -18195,7 +18711,8 @@ var _item = {
                 "EN": "Trailblazer, who leaves a trail among the stars.<br><br><i>\"Look at the past to glimpse into the future. Trailblazers, onward!\"</i>"
             },
             "Icon": "avatarhead/IconHead_202009.png",
-            "Pic": "avatarhead/IconHead_202009.png"
+            "Pic": "avatarhead/IconHead_202009.png",
+            "Ver": "1.x"
         },
         {
             "_id": 202010,
@@ -18214,7 +18731,8 @@ var _item = {
                 "EN": "Trailblazer, who leaves a trail among the stars.<br><br><i>\"Look at the past to glimpse into the future. Trailblazers, onward!\"</i>"
             },
             "Icon": "avatarhead/IconHead_202010.png",
-            "Pic": "avatarhead/IconHead_202010.png"
+            "Pic": "avatarhead/IconHead_202010.png",
+            "Ver": "1.x"
         },
         {
             "_id": 202011,
@@ -18234,7 +18752,7 @@ var _item = {
             },
             "Icon": "avatarhead/IconHead_202011.png",
             "Pic": "avatarhead/IconHead_202011.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 202012,
@@ -18254,7 +18772,7 @@ var _item = {
             },
             "Icon": "avatarhead/IconHead_202012.png",
             "Pic": "avatarhead/IconHead_202012.png",
-            "New": true
+            "Ver": "2.0"
         },
         {
             "_id": 202013,
@@ -18274,7 +18792,7 @@ var _item = {
             },
             "Icon": "avatarhead/IconHead_202013.png",
             "Pic": "avatarhead/IconHead_202013.png",
-            "New": true
+            "Ver": "2.0"
         }
     ]
 }
@@ -19864,3 +20382,8 @@ var _index = {
     "202012": 30,
     "202013": 31
 }
+
+var _ver = [
+    "1.x",
+    "2.0"
+]

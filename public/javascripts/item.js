@@ -32,12 +32,13 @@ $(function () {
     $('h3 .subtitle').html(txt.Subtitle[lang]);
     $('h3 .lang').html(txt.Lang[lang])
     
-    var isNew = 0
-    var I_TYPE = '1'
+    var isNew = _ver[_ver.length - 1]
+    var I_TYPE = '3'
 
     if (avid) {
-        if (_index[avid]) {
+        if (_index[avid] != undefined) {
             I_TYPE = _type[avid]
+            isNew = _item[I_TYPE][_index[avid]].Ver
             popItem(_index[avid] + 1)
         }
     }
@@ -77,7 +78,7 @@ $(function () {
                             schedule: {
                                 img: imgpre + 'images/itemicon/900001.png',
                             },
-                            class: 'active',
+                            class: (I_TYPE == '1') ? 'active' : '',
                             a: {
                                 'data-id': '1'
                             }
@@ -86,6 +87,7 @@ $(function () {
                             schedule: {
                                 img: imgpre + 'images/itemicon/avatarhead/IconHead_202002.png',
                             },
+                            class: (I_TYPE == '2') ? 'active' : '',
                             a: {
                                 'data-id': '2'
                             }
@@ -94,6 +96,7 @@ $(function () {
                             schedule: {
                                 img: imgpre + 'images/itemicon/213.png',
                             },
+                            class: (I_TYPE == '3') ? 'active' : '',
                             a: {
                                 'data-id': '3'
                             }
@@ -102,6 +105,7 @@ $(function () {
                             schedule: {
                                 img: imgpre + 'images/itemicon/140005.png',
                             },
+                            class: (I_TYPE == '4') ? 'active' : '',
                             a: {
                                 'data-id': '4'
                             }
@@ -110,6 +114,7 @@ $(function () {
                             schedule: {
                                 img: imgpre + 'images/itemicon/114514.png',
                             },
+                            class: (I_TYPE == '5') ? 'active' : '',
                             a: {
                                 'data-id': '5'
                             }
@@ -118,6 +123,7 @@ $(function () {
                             schedule: {
                                 img: imgpre + 'images/itemicon/300011.png',
                             },
+                            class: (I_TYPE == '6') ? 'active' : '',
                             a: {
                                 'data-id': '6'
                             }
@@ -126,6 +132,7 @@ $(function () {
                             schedule: {
                                 img: imgpre + 'images/itemicon/401003.png',
                             },
+                            class: (I_TYPE == '7') ? 'active' : '',
                             a: {
                                 'data-id': '7'
                             }
@@ -137,21 +144,7 @@ $(function () {
                     hr: ''
                 },
                 {
-                    section: [
-                        {
-                            schedule: txt.Item_New[0][lang],
-                            class: 'active',
-                            a: {
-                                'data-id': '1'
-                            }
-                        },
-                        {
-                            schedule: txt.Item_New[1][lang],
-                            a: {
-                                'data-id': '2'
-                            }
-                        },
-                    ],
+                    section: '',
                     class: 'rar'
                 },
                 {
@@ -164,6 +157,16 @@ $(function () {
             ],
             class: 'content'
         }
+    })
+
+    _ver.forEach(function (o, j) {
+        $('.rar').render({
+            schedule: o,
+            class: (o == isNew) ? 'active' : '',
+            a: {
+                'data-id': o
+            }
+        },)
     })
 
     renderItems()
@@ -180,7 +183,7 @@ $(function () {
         if ($(this).hasClass('active')) {
             return;
         }
-        isNew = parseInt($(this).attr('data-id')) - 1
+        isNew = $(this).attr('data-id')
         $(this).addClass('active').siblings('schedule').removeClass('active');
         renderItems()
     })
@@ -190,7 +193,7 @@ $(function () {
         $('.area').empty()
 
         _item[I_TYPE].forEach(function (t, i) {
-            if (isNew && !t.New) return
+            if (isNew != t.Ver) return
             $('.area').render({
                 div: [
                     {
