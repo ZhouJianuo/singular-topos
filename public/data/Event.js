@@ -725,7 +725,7 @@ var _event = [
             "EN": "◆ Event Details ◆<br>During the character trial event \"Aptitude Showcase,\" Trailblazers can use set teams that include trial characters to repeatedly experience specific stages.<br>Team setup, character levels, and the equipped Light Cones and Relics cannot be changed while experiencing the event stage.<br><br>◆ Event Rewards ◆<br>Rewards for the trial stage can be obtained from the event screen after completing the stage. Each trial stage reward may only be claimed once during the event."
         },
         "Reward": [],
-        "Ver": "2.0"
+        "Ver": "1.x"
     },
     {
         "_id": 20022,
@@ -743,7 +743,7 @@ var _event = [
             "EN": "◆ Event Details ◆<br>During the character trial event \"Aptitude Showcase,\" Trailblazers can use set teams that include trial characters to repeatedly experience specific stages.<br>Team setup, character levels, and the equipped Light Cones and Relics cannot be changed while experiencing the event stage.<br><br>◆ Event Rewards ◆<br>Rewards for the trial stage can be obtained from the event screen after completing the stage. Each trial stage reward may only be claimed once during the event."
         },
         "Reward": [],
-        "Ver": "2.0"
+        "Ver": "1.x"
     },
     {
         "_id": 20020,
@@ -761,7 +761,7 @@ var _event = [
             "EN": "◆ Event Details ◆<br>During the character trial event \"Aptitude Showcase,\" Trailblazers can use set teams that include trial characters to repeatedly experience specific stages.<br>Team setup, character levels, and the equipped Light Cones and Relics cannot be changed while experiencing the event stage.<br><br>◆ Event Rewards ◆<br>Rewards for the trial stage can be obtained from the event screen after completing the stage. Each trial stage reward may only be claimed once during the event."
         },
         "Reward": [],
-        "Ver": "2.0"
+        "Ver": "1.x"
     },
     {
         "_id": 20019,
@@ -779,7 +779,7 @@ var _event = [
             "EN": "◆ Event Details ◆<br>During the character trial event \"Aptitude Showcase,\" Trailblazers can use set teams that include trial characters to repeatedly experience specific stages.<br>Team setup, character levels, and the equipped Light Cones and Relics cannot be changed while experiencing the event stage.<br><br>◆ Event Rewards ◆<br>Rewards for the trial stage can be obtained from the event screen after completing the stage. Each trial stage reward may only be claimed once during the event."
         },
         "Reward": [],
-        "Ver": "2.0"
+        "Ver": "1.x"
     },
     {
         "_id": 20017,
@@ -797,7 +797,7 @@ var _event = [
             "EN": "◆ Event Details ◆<br>During the character trial event \"Aptitude Showcase,\" Trailblazers can use set teams that include trial characters to repeatedly experience specific stages.<br>Team setup, character levels, and the equipped Light Cones and Relics cannot be changed while experiencing the event stage.<br><br>◆ Event Rewards ◆<br>Rewards for the trial stage can be obtained from the event screen after completing the stage. Each trial stage reward may only be claimed once during the event."
         },
         "Reward": [],
-        "Ver": "2.0"
+        "Ver": "1.x"
     },
     {
         "_id": 20016,
@@ -815,7 +815,7 @@ var _event = [
             "EN": "◆ Event Details ◆<br>During the character trial event \"Aptitude Showcase,\" Trailblazers can use set teams that include trial characters to repeatedly experience specific stages.<br>Team setup, character levels, and the equipped Light Cones and Relics cannot be changed while experiencing the event stage.<br><br>◆ Event Rewards ◆<br>Rewards for the trial stage can be obtained from the event screen after completing the stage. Each trial stage reward may only be claimed once during the event."
         },
         "Reward": [],
-        "Ver": "2.0"
+        "Ver": "1.x"
     },
     {
         "_id": 20015,

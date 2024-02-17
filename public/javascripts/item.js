@@ -231,7 +231,7 @@ $(function () {
     function popItem(y) {
         this_item = _item[I_TYPE][y - 1]
         poplayer({
-            header: this_item.Name[lang] + txt.Affix[lang],
+            header: txt.Affix[lang].substring(3),
             width: '90%',
             template: [
                 {
@@ -281,7 +281,7 @@ $(function () {
                         data: this_item.Src,
                         when: this_item.Src
                     },
-                }
+                },
             ],
         })
     }

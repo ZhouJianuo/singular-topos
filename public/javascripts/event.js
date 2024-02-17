@@ -21,6 +21,7 @@ $(function () {
 
     var imgpre = $('#IMGPRE').val()
     var avid = $('#AVID').val()
+    var isNew = _ver[_ver.length - 1]
 
     if (lang == 'CH') document.title = '玉衡杯数据库'
 
@@ -49,5 +50,197 @@ $(function () {
             else { $('body').css('font-family', "'Microsoft YaHei', sans-serif") }
         }
     })
+
+    $('container').render({
+        template: {
+            div: [
+                {
+                    section: '',
+                    class: 'rar'
+                },
+                {
+                    hr: ''
+                },
+                {
+                    div: [],
+                    class: 'area'
+                }
+            ],
+            class: 'content'
+        }
+    })
+
+    _ver.forEach(function (o, j) {
+        $('.rar').render({
+            schedule: o,
+            class: (o == isNew) ? 'active' : '',
+            a: {
+                'data-id': o
+            }
+        },)
+    })
+
+    renderEvents()
+
+    $('body').on('click', '.rar schedule', function () {
+        if ($(this).hasClass('active')) {
+            return;
+        }
+        isNew = $(this).attr('data-id')
+        $(this).addClass('active').siblings('schedule').removeClass('active');
+        renderEvents()
+    })
+
+    function renderEvents() {
+        $('.area').empty()
+        _event.forEach(function (t, i) {
+            if (t.Ver != isNew) return
+            $('.area').render({
+                div: [
+                    {
+                        p: t.Name[lang],
+                        class: 'event-name'
+                    },
+                    {
+                        div: {
+                            img: imgpre + 'images/tabicon/' + t.Icon
+                        },
+                        class: 'event-img',
+                        style: {
+                            width: '100%'
+                        }
+                    },
+                    {
+                        p: t.Desc[lang],
+                        class: 'event-desc',
+                        when: t.Desc[lang].length
+                    },
+                    {
+                        div: {
+                            img: function (k) {
+                                return imgpre + 'images/itemicon/' + _item[k.data].Icon
+                            },
+                            data: t.Reward,
+                            class: 'hover-shadow-',
+                            a: {
+                                'data-id': function (k) {
+                                    return k.data
+                                }
+                            }
+                        },
+                        class: 'event-reward',
+                        when: t.Reward.length
+                    },
+                    {
+                        hr: '',
+                        style: {
+                            'margin-top': '20px'
+                        }
+                    },
+                    {
+                        div: [
+                            {
+                                span: 'ⓘ',
+                                class: 'info',
+                                a: {
+                                    'data-id': t._id
+                                },
+                                when: t.Tutorial
+                            },
+                            {
+                                span: '＋',
+                                class: 'plus',
+                                a: {
+                                    'data-id': t._id
+                                }
+                            }
+                        ],
+                        class: 'event-sel'
+                    },
+                    {
+                        p: t.Story[lang],
+                        class: 'event-story es-' + t._id,
+                        style: {
+                            display: 'none'
+                        }
+                    },
+                ],
+                class: 'a_section'
+            })
+        })
+    }
+
+    $('body').on('click', '.plus', function () {
+        var id = $(this).attr('data-id')
+        var T = $('.es-' + id)
+        if (T.css('display') == 'none') {
+            T.show()
+            $(this).html('−')
+        } else {
+            T.hide()
+            $(this).html('＋')
+        }
+    })
+
+    $('body').on('click', '.info', function () {
+    })
+
+    function popItem(y) {
+        this_item = _item[y]
+        poplayer({
+            header: txt.Affix[lang].substring(3),
+            width: '90%',
+            template: [
+                {
+                    img: imgpre + 'images/itemfigures/' + this_item.Pic,
+                    class: 'icon',
+                    when: (this_item.Pic != undefined) && (this_item.Pic != "") && !this_item.Pic.includes('SpriteOutput')
+                },
+                {
+                    p: this_item.Name[lang],
+                    class: 'name',
+                    style: {
+                        'font-size': '1.2em'
+                    }
+                },
+                {
+                    p: this_item.Desc[lang],
+                    class: 'desc',
+                    style: {
+                        'text-align': 'center'
+                    }
+                },
+                {
+                    hr: '',
+                    style: {
+                        'border-color': '#bbbbbb',
+                        margin: '20px auto 15px'
+                    }
+                },
+                {
+                    p: this_item.Story[lang],
+                    class: 'desc'
+                },
+                {
+                    hr: '',
+                    style: {
+                        'border-color': '#bbbbbb',
+                        margin: '20px auto 15px'
+                    },
+                    when: this_item.Src
+                },
+                {
+                    div: {
+                        p: function (k) {
+                            return '- ' + k.data[lang]
+                        },
+                        class: 'desc',
+                        data: this_item.Src,
+                        when: this_item.Src
+                    },
+                }
+            ],
+        })
+    }
 
 })
