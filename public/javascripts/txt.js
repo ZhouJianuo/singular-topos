@@ -4,11 +4,11 @@ var txt = {
         "EN": "HomDGCat Wiki"
     },
     "Affix": {
-        "CH": " | <color style='color:#0066FF;'>玉衡杯数据库 homdgcat.wiki</color> | <color style='color:#0066FF;'>b站@妮可少女</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
+        "CH": " | <color style='color:#0066FF;'>玉衡杯数据库 homdgcat.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
         "EN": " | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
     },
     "Subtitle": {
-        "CH": "<p><b>yuhengcup.top/wiki | <span style='white-space:pre;'><a href='http://t.me/homdgcat' target='_blank'>t.me/homdgcat</a></span></b></p>",
+        "CH": "<p><b>homdgcat.wiki | <span style='white-space:pre;'><a href='http://t.me/homdgcat' target='_blank'>妮可少女 HomDGCat</a></span></b></p>",
         "EN": "<p><b>homdgcat.wiki | <span style='white-space:pre;'><a href='http://t.me/homdgcat' target='_blank'>t.me/homdgcat</a></span></b></p>"
     },
     "ChooseTitle": {
@@ -268,7 +268,7 @@ var txt = {
         "EN": "Pure Fiction"
     },
     "HS": {
-        "CH": "<p><b>玉衡杯数据库 - b站@妮可少女 | t.me/homdgcat</b></p>",
+        "CH": "<p><b>玉衡杯数据库 - bilibili@妮可少女 | t.me/homdgcat</b></p>",
         "EN": "<p><b>HomDGCat Wiki - t.me/homdgcat</b></p>"
     },
     "Links_": {

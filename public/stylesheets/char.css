@@ -288,7 +288,16 @@ schedule {
 
 .avatar_mat img {
     height: 50px;
-    margin: 0px 5px;
+    border: 2px solid #27363e;
+    border-radius: 5px;
+    padding: 4px;
+    cursor: pointer;
+}
+
+.avatar_mat img:hover {
+    height: 50px;
+    border: 2px solid #dddddd;
+    border-radius: 5px;
 }
 
 .avatar_mat_1,
@@ -537,7 +546,13 @@ schedule {
     }
     .avatar_mat img {
         height: 57px;
-        margin: 0px 5px;
+        border: 2px solid #27363e;
+        border-radius: 5px;
+    }
+    .avatar_mat img:hover {
+        height: 57px;
+        border: 2px solid #dddddd;
+        border-radius: 5px;
     }
 
     .avatar_mat {
@@ -667,7 +682,13 @@ schedule {
     }
     .avatar_mat img {
         height: 64px;
-        margin: 0px 5px;
+        border: 2px solid #27363e;
+        border-radius: 5px;
+    }
+    .avatar_mat img:hover {
+        height: 64px;
+        border: 2px solid #dddddd;
+        border-radius: 5px;
     }
 
     .avatar_mat {

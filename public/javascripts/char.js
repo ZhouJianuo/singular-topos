@@ -742,14 +742,23 @@ $(function () {
                             div: [
                                 {
                                     div: [
-                                        {
-                                            img: imgpre + "images/" + _item[mats[0] - 2].Icon
+                                        {   
+                                            img: imgpre + "images/" + _item[mats[0] - 2].Icon,
+                                            a: {
+                                                'data-id': mats[0] - 2
+                                            }
                                         },
                                         {
-                                            img: imgpre + "images/" + _item[mats[0] - 1].Icon
+                                            img: imgpre + "images/" + _item[mats[0] - 1].Icon,
+                                            a: {
+                                                'data-id': mats[0] - 1
+                                            }
                                         },
                                         {
-                                            img: imgpre + "images/" + _item[mats[0]].Icon
+                                            img: imgpre + "images/" + _item[mats[0]].Icon,
+                                            a: {
+                                                'data-id': mats[0]
+                                            }
                                         },
                                         {
                                             p: _item[mats[0]].Name[lang],
@@ -766,7 +775,10 @@ $(function () {
                                 {
                                     div: [
                                         {
-                                            img: imgpre + "images/" + _item[mats[1]].Icon
+                                            img: imgpre + "images/" + _item[mats[1]].Icon,
+                                            a: {
+                                                'data-id': mats[1]
+                                            }
                                         },
                                         {
                                             p: _item[mats[1]].Name[lang],
@@ -783,13 +795,22 @@ $(function () {
                                 {
                                     div: [
                                         {
-                                            img: imgpre + "images/" + _item[mats[2] - 2].Icon
+                                            img: imgpre + "images/" + _item[mats[2] - 2].Icon,
+                                            a: {
+                                                'data-id': mats[2] - 2
+                                            }
                                         },
                                         {
-                                            img: imgpre + "images/" + _item[mats[2] - 1].Icon
+                                            img: imgpre + "images/" + _item[mats[2] - 1].Icon,
+                                            a: {
+                                                'data-id': mats[2] - 1
+                                            }
                                         },
                                         {
-                                            img: imgpre + "images/" + _item[mats[2]].Icon
+                                            img: imgpre + "images/" + _item[mats[2]].Icon,
+                                            a: {
+                                                'data-id': mats[2]
+                                            }
                                         },
                                         {
                                             p: _item[mats[2]].Name[lang],
@@ -806,7 +827,10 @@ $(function () {
                                 {
                                     div: [
                                         {
-                                            img: imgpre + "images/" + _item[mats[3]].Icon
+                                            img: imgpre + "images/" + _item[mats[3]].Icon,
+                                            a: {
+                                                'data-id': mats[3]
+                                            }
                                         },
                                         {
                                             p: _item[mats[3]].Name[lang],
@@ -1595,6 +1619,10 @@ $(function () {
         }
     }
 
+    $('body').on('click', '.avatar_mat img', function () {
+        window.open('/sr/item/' + $(this).attr('data-id'))
+    })
+
     $('body').on('click', '.up', function () {
         var sid = $(this).attr('data-id')
         var lv = parseInt($(".ld-" + sid)[0].innerHTML.replace("Lv", ""))
@@ -1770,13 +1798,22 @@ $(function () {
                                         {
                                             div: [
                                                 {
-                                                    img: imgpre + "images/" + _item[mats[0] - 2].Icon
+                                                    img: imgpre + "images/" + _item[mats[0] - 2].Icon,
+                                                    a: {
+                                                        'data-id': mats[0] - 2
+                                                    }
                                                 },
                                                 {
-                                                    img: imgpre + "images/" + _item[mats[0] - 1].Icon
+                                                    img: imgpre + "images/" + _item[mats[0] - 1].Icon,
+                                                    a: {
+                                                        'data-id': mats[0] - 1
+                                                    }
                                                 },
                                                 {
-                                                    img: imgpre + "images/" + _item[mats[0]].Icon
+                                                    img: imgpre + "images/" + _item[mats[0]].Icon,
+                                                    a: {
+                                                        'data-id': mats[0]
+                                                    }
                                                 },
                                                 {
                                                     p: _item[mats[0]].Name[lang],
@@ -1793,13 +1830,22 @@ $(function () {
                                         {
                                             div: [
                                                 {
-                                                    img: imgpre + "images/" + _item[mats[1] - 2].Icon
+                                                    img: imgpre + "images/" + _item[mats[1] - 2].Icon,
+                                                    a: {
+                                                        'data-id': mats[1] - 2
+                                                    }
                                                 },
                                                 {
-                                                    img: imgpre + "images/" + _item[mats[1] - 1].Icon
+                                                    img: imgpre + "images/" + _item[mats[1] - 1].Icon,
+                                                    a: {
+                                                        'data-id': mats[1] - 1
+                                                    }
                                                 },
                                                 {
-                                                    img: imgpre + "images/" + _item[mats[1]].Icon
+                                                    img: imgpre + "images/" + _item[mats[1]].Icon,
+                                                    a: {
+                                                        'data-id': mats[1]
+                                                    }
                                                 },
                                                 {
                                                     p: _item[mats[1]].Name[lang],
