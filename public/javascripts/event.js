@@ -20,6 +20,7 @@ $(function () {
     }
 
     var imgpre = $('#IMGPRE').val()
+    var avid = $('#AVID').val()
 
     if (lang == 'CH') document.title = '玉衡杯数据库'
 

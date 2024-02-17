@@ -256,16 +256,7 @@ var SR = [
             "CH": "虚构叙事",
             "EN": "Pure Fiction"
         },
-        "Features": [
-            {
-                "CH": "敌方阵容、弱点、血量、分波站位",
-                "EN": "Enemy lineup, weakness, HP."
-            },
-            {
-                "CH": "记忆紊流、敌方血量调整",
-                "EN": "Memory Turbulence, enemy HP adjustments."
-            }
-        ],
+        "Features": [],
         "Href": {
             "CH": "/sr/fiction",
             "EN": "/sr/fiction"
@@ -291,6 +282,39 @@ var SR = [
         "Href": {
             "CH": "/sr/load",
             "EN": "/sr/load"
+        }
+    },
+    {
+        "Title": {
+            "CH": "物品",
+            "EN": "Items"
+        },
+        "Features": [],
+        "Href": {
+            "CH": "/sr/item",
+            "EN": "/sr/item"
+        }
+    },
+    {
+        "Title": {
+            "CH": "活动",
+            "EN": "Events"
+        },
+        "Features": [],
+        "Href": {
+            "CH": "/sr/event",
+            "EN": "/sr/event"
+        }
+    },
+    {
+        "Title": {
+            "CH": "留声机碟片",
+            "EN": "Phonograph Records"
+        },
+        "Features": [],
+        "Href": {
+            "CH": "/sr/rec",
+            "EN": "/sr/rec"
         }
     },
     {

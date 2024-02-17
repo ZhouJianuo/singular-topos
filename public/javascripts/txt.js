@@ -8,7 +8,7 @@ var txt = {
         "EN": " | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
     },
     "Subtitle": {
-        "CH": "<p><b><span style='white-space:pre;'><a href='https://space.bilibili.com/3537104994831140' target='_blank'>bilibili@妮可少女</a> | <a href='http://t.me/homdgcat' target='_blank'>t.me/homdgcat</a></span></b></p>",
+        "CH": "<p><b>homdgcat.wiki | <span style='white-space:pre;'><a href='https://space.bilibili.com/3537104994831140' target='_blank'>bilibili@妮可少女</a> | <a href='http://t.me/homdgcat' target='_blank'>t.me/homdgcat</a></span></b></p>",
         "EN": "<p><b>homdgcat.wiki | <span style='white-space:pre;'><a href='http://t.me/homdgcat' target='_blank'>t.me/homdgcat</a></span></b></p>"
     },
     "ChooseTitle": {
@@ -395,6 +395,16 @@ var txt = {
         "CH": "<b>隐藏先行测试技能 | 由<color style='color:#f29e38'>妮可少女</color>转录 | 仅供参考</b>",
         "EN": "<b>Preliminary hidden test kit | Transcribed by <color style='color:#f29e38'>HomDGCat</color> | Subject to change</b>"
     },
+    "Item_New": [
+        {
+            "CH": "全部",
+            "EN": "All"
+        },
+        {
+            "CH": "新增",
+            "EN": "New"
+        }
+    ],
 }
 
 var elemcolor = {
@@ -565,6 +575,27 @@ var links = [
             "EN": "Loading Tips"
         },
         "Link" : "/sr/load"
+    },
+    {
+        "Name": {
+            "CH": "物品",
+            "EN": "Items"
+        },
+        "Link" : "/sr/item"
+    },
+    {
+        "Name": {
+            "CH": "活动",
+            "EN": "Events"
+        },
+        "Link" : "/sr/event"
+    },
+    {
+        "Name": {
+            "CH": "留声机碟片",
+            "EN": "Phonograph Records"
+        },
+        "Link" : "/sr/rec"
     },
     {
         "Name": {

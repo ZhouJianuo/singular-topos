@@ -20,6 +20,7 @@ $(function () {
     }
 
     var imgpre = $('#IMGPRE').val()
+    var avid = $('#AVID').val()
 
     if (lang == 'CH') document.title = '玉衡杯数据库'
 
@@ -30,6 +31,24 @@ $(function () {
     $('h3 .links').html(txt.Page[lang]);
     $('h3 .subtitle').html(txt.Subtitle[lang]);
     $('h3 .lang').html(txt.Lang[lang])
+    
+    var isNew = 0
+    var I_TYPE = '1'
+
+    if (avid) {
+        if (_index[avid]) {
+            I_TYPE = _type[avid]
+            popItem(_index[avid] + 1)
+        }
+    }
+
+    var rarity_color = {
+        1: "#919299",
+        2: "#3c7c77",
+        3: "#4174bd",
+        4: "#7c54bc",
+        5: "#d1a96a"
+    }
 
     $('body').on('click', '.links', function () {
         popLinks(lang)
@@ -48,5 +67,220 @@ $(function () {
             else { $('body').css('font-family', "'Microsoft YaHei', sans-serif") }
         }
     })
+
+    $('container').render({
+        template: {
+            div: [
+                {
+                    section: [
+                        {
+                            schedule: {
+                                img: imgpre + 'images/itemicon/900001.png',
+                            },
+                            class: 'active',
+                            a: {
+                                'data-id': '1'
+                            }
+                        },
+                        {
+                            schedule: {
+                                img: imgpre + 'images/itemicon/avatarhead/IconHead_202002.png',
+                            },
+                            a: {
+                                'data-id': '2'
+                            }
+                        },
+                        {
+                            schedule: {
+                                img: imgpre + 'images/itemicon/213.png',
+                            },
+                            a: {
+                                'data-id': '3'
+                            }
+                        },
+                        {
+                            schedule: {
+                                img: imgpre + 'images/itemicon/140005.png',
+                            },
+                            a: {
+                                'data-id': '4'
+                            }
+                        },
+                        /*{
+                            schedule: {
+                                img: imgpre + 'images/itemicon/114514.png',
+                            },
+                            a: {
+                                'data-id': '5'
+                            }
+                        },*/
+                        {
+                            schedule: {
+                                img: imgpre + 'images/itemicon/300011.png',
+                            },
+                            a: {
+                                'data-id': '6'
+                            }
+                        },
+                        {
+                            schedule: {
+                                img: imgpre + 'images/itemicon/401003.png',
+                            },
+                            a: {
+                                'data-id': '7'
+                            }
+                        }
+                    ],
+                    class: 'a_w_r'
+                },
+                {
+                    hr: ''
+                },
+                {
+                    section: [
+                        {
+                            schedule: txt.Item_New[0][lang],
+                            class: 'active',
+                            a: {
+                                'data-id': '1'
+                            }
+                        },
+                        {
+                            schedule: txt.Item_New[1][lang],
+                            a: {
+                                'data-id': '2'
+                            }
+                        },
+                    ],
+                    class: 'rar'
+                },
+                {
+                    hr: ''
+                },
+                {
+                    div: [],
+                    class: 'area'
+                }
+            ],
+            class: 'content'
+        }
+    })
+
+    renderItems()
+
+    $('body').on('click', '.a_w_r schedule', function () {
+        if ($(this).hasClass('active')) {
+            return;
+        }
+        $(this).addClass('active').siblings('schedule').removeClass('active');
+        I_TYPE = $(this).attr('data-id')
+        renderItems()
+    })
+    $('body').on('click', '.rar schedule', function () {
+        if ($(this).hasClass('active')) {
+            return;
+        }
+        isNew = parseInt($(this).attr('data-id')) - 1
+        $(this).addClass('active').siblings('schedule').removeClass('active');
+        renderItems()
+    })
+
+    function renderItems() {
+
+        $('.area').empty()
+
+        _item[I_TYPE].forEach(function (t, i) {
+            if (isNew && !t.New) return
+            $('.area').render({
+                div: [
+                    {
+                        div: {
+                            img: imgpre + 'images/itemicon/' + (t.Icon.includes('SpriteOutput') ? 'IconAvatarDetail.png' : t.Icon),
+                            class: 'item-icon',
+                            when: (t.Icon != undefined) && (t.Icon != '')
+                        },
+                        class: 'item-up',
+                    },
+                    {
+                        div: {
+                            p: t.Name[lang].length ? t.Name[lang] : '???',
+                            class: 'item-name'
+                        },
+                        class: 'item-down'
+                    }
+                ],
+                class: 'item-card hover-shadow',
+                style: {
+                    'background-image': `linear-gradient(180deg, ${rarity_color[t.Rarity]}, #fff)`
+                },
+                a: {
+                    'data-id': i + 1
+                }
+            })
+        })
+
+    }
+
+    $('body').on('click', '.item-card', function () {
+        popItem(parseInt($(this).attr('data-id')))
+    })
+
+    function popItem(y) {
+        this_item = _item[I_TYPE][y - 1]
+        poplayer({
+            header: this_item.Name[lang] + txt.Affix[lang],
+            width: '90%',
+            template: [
+                {
+                    img: imgpre + 'images/itemfigures/' + this_item.Pic,
+                    class: 'icon',
+                    when: (this_item.Pic != undefined) && (this_item.Pic != "") && !this_item.Pic.includes('SpriteOutput')
+                },
+                {
+                    p: this_item.Name[lang],
+                    class: 'name',
+                    style: {
+                        'font-size': '1.2em'
+                    }
+                },
+                {
+                    p: this_item.Desc[lang],
+                    class: 'desc',
+                    style: {
+                        'text-align': 'center'
+                    }
+                },
+                {
+                    hr: '',
+                    style: {
+                        'border-color': '#bbbbbb',
+                        margin: '20px auto 15px'
+                    }
+                },
+                {
+                    p: this_item.Story[lang],
+                    class: 'desc'
+                },
+                {
+                    hr: '',
+                    style: {
+                        'border-color': '#bbbbbb',
+                        margin: '20px auto 15px'
+                    },
+                    when: this_item.Src
+                },
+                {
+                    div: {
+                        p: function (k) {
+                            return '- ' + k.data[lang]
+                        },
+                        class: 'desc',
+                        data: this_item.Src,
+                        when: this_item.Src
+                    },
+                }
+            ],
+        })
+    }
 
 })

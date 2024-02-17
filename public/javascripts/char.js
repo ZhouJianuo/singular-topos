@@ -1015,6 +1015,7 @@ $(function () {
                 }
             ])
             $('.stat_ver_choose select').val(this_avatar_cur_ver)
+            var skill_id = (this_avatar._id > 8000) ? ((this_avatar._id % 2 == 1) ? this_avatar._id : this_avatar._id - 1) : this_avatar._id
             this_avatar.Skills.forEach(function (s, i) {
                 var S = _avatarskill[s][this_avatar_cur_ver]
                 var recommendLV = 1
@@ -1030,7 +1031,7 @@ $(function () {
                         {
                             div: [
                                 {
-                                    img: imgpre + 'images/skillicons/' + this_avatar._id + '/' + S.Icon + '.png',
+                                    img: imgpre + 'images/skillicons/' + skill_id + '/' + S.Icon + '.png',
                                     class: 'head_left',
                                     when: S.Icon != undefined
                                 },
