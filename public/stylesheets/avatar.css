@@ -815,6 +815,25 @@ schedule.selected img {
     aspect-ratio: 1;
 }
 
+.addprop img {
+    height: 36px;
+    position: relative;
+    top: 12px;
+    margin-right: 3px;
+}
+
+.addprop {
+    margin: 0px 7px;
+    font-weight: bold;
+}
+
+.mon_head {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: -6px auto 10px;
+}
+
 @media screen and (min-width: 900px) {
     .relic-head tr :nth-child(2) {
         width: 12%;

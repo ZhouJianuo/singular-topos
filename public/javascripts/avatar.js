@@ -683,6 +683,11 @@ $(function () {
                                     div: {
                                         p: function (k) {
                                             return k.data.Name[lang] + (lang == "CH" ? " · " : " - ") + k.data.Title[lang].replace("<br>", " / ")
+                                        },
+                                        style: {
+                                            'text-align': 'center',
+                                            'position': 'relative',
+                                            'top': '9px',
                                         }
                                     },
                                     class: 'a_section_head',
@@ -716,13 +721,58 @@ $(function () {
                                                 return k.data.Desc[lang]
                                             },
                                             style: {
-                                                'margin': '10px 0'
+                                                'margin': '10px 0',
+                                                'text-align': 'center'
                                             }
+                                        },
+                                        {
+                                            div: [
+                                                {
+                                                    div: [
+                                                        {
+                                                            img: imgpre + 'homdgcat-res/Abyss/_HP.png'
+                                                        },
+                                                        {
+                                                            span: function (k) {
+                                                                return k.data.ShowStats.HP
+                                                            }
+                                                        }
+                                                    ],
+                                                    class: 'addprop'
+                                                },
+                                                {
+                                                    div: [
+                                                        {
+                                                            img: imgpre + 'homdgcat-res/Abyss/_ATK.png'
+                                                        },
+                                                        {
+                                                            span: function (k) {
+                                                                return k.data.ShowStats.ATK
+                                                            }
+                                                        }
+                                                    ],
+                                                    class: 'addprop'
+                                                },
+                                                {
+                                                    div: [
+                                                        {
+                                                            img: imgpre + 'homdgcat-res/Abyss/_DEF.png'
+                                                        },
+                                                        {
+                                                            span: function (k) {
+                                                                return k.data.ShowStats.DEF
+                                                            }
+                                                        }
+                                                    ],
+                                                    class: 'addprop'
+                                                },
+                                            ],
+                                            class: 'mon_head',
                                         }
                                     ],
                                     class: 'a_section_content',
                                     style: {
-                                        'overflow-x': 'hidden'
+                                        'overflow': 'hidden'
                                     }
                                 },
                             ],
