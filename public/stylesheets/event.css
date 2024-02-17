@@ -180,7 +180,7 @@ schedule {
 .event-desc {
     font-size: 15px;
     text-align: center;
-    margin: 20px auto;
+    margin: 5px auto 15px;
 }
 .event-story {
     font-size: 14px;
@@ -201,9 +201,9 @@ schedule {
     margin-bottom: 20px;
 }
 .event-reward img {
-    width: 40px;
-    height: 40px;
-    margin: 4px;
+    width: 50px;
+    height: 50px;
+    margin: 5px;
 }
 
 .hover-shadow- {
@@ -256,9 +256,9 @@ schedule {
 
 @media screen and (min-width: 500px) and (max-width: 800px) {
     .event-reward img {
-        height: 55px;
-        width: 55px;
-        margin: 10px;
+        height: 60px;
+        width: 60px;
+        margin: 70px;
     }
     .event-name {
         font-size: 23px;
