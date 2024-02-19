@@ -23,8 +23,6 @@ var _avatar = [
             900104,
             900106
         ],
-        "Icon": "avatarshopicon/999",
-        "Pic": "avatardrawcard/999.png",
         "CV": [
             {
                 "CH": "马语非",
@@ -65,8 +63,6 @@ var _avatar = [
             900204,
             900206
         ],
-        "Icon": "avatarshopicon/999",
-        "Pic": "avatardrawcard/999.png",
         "CV": [
             {
                 "CH": "杨超然",
@@ -107,8 +103,6 @@ var _avatar = [
             900304,
             900306
         ],
-        "Icon": "avatarshopicon/999",
-        "Pic": "avatardrawcard/999.png",
         "CV": [
             {
                 "CH": "菊花花",

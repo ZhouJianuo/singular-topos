@@ -1,5 +1,7 @@
 $(function () {
 
+    var no_skillicon = [9001, 9002, 1308, 1304, 1301]
+
     var _lang = 0
     var DATE = new Date()
     document.cookie.split(";").forEach(function (c) { 
@@ -216,7 +218,7 @@ $(function () {
                             }
                         },
                         {
-                            img: imgpre + `images/${t.Icon}.png`,
+                            img: no_skillicon.includes(t._id) ? (imgpre + `images/avatarshopicon/999.png`) : (imgpre + `images/${t.Icon}.png`),
                             class: 'avatar-head'
                         },
                         {
@@ -585,7 +587,7 @@ $(function () {
                                     when: this_avatar.Rarity == 4
                                 },
                                 {
-                                    img: imgpre + 'images/' + this_avatar.Pic,
+                                    img: no_skillicon.includes(this_avatar._id) ? (imgpre + 'images/avatardrawcard/999.png') : (imgpre + 'images/' + this_avatar.Pic),
                                     class: 'gacha',
                                 },
                                 {
@@ -1057,11 +1059,11 @@ $(function () {
                                 {
                                     img: imgpre + 'images/skillicons/' + skill_id + '/' + S.Icon + '.png',
                                     class: 'head_left',
-                                    when: S.Icon != undefined
+                                    when: (S.Icon != undefined) && !no_skillicon.includes(this_avatar._id)
                                 },
                                 {
                                     p: S.Name[lang],
-                                    class: S.Icon ? 'head_right hr_1' : 'hr_1',
+                                    class: ((S.Icon != undefined) && !no_skillicon.includes(this_avatar._id)) ? 'head_right hr_1' : 'hr_1',
                                     style: {
                                         color: "#" + elemcolor[this_avatar.Element]
                                     }
@@ -1339,11 +1341,11 @@ $(function () {
                                 {
                                     img: imgpre + 'images/skillicons/' + skill_id + '/' + ST.Tree1.Icon + '.png',
                                     class: 'head_left',
-                                    when: ST.Tree1.Icon != undefined
+                                    when: (ST.Tree1.Icon != undefined) && !no_skillicon.includes(this_avatar._id)
                                 },
                                 {
                                     p: ST.Tree1.Name[lang],
-                                    class: ST.Tree1.Icon ? 'head_right hr_1' : 'hr_1',
+                                    class: ((ST.Tree1.Icon != undefined) && !no_skillicon.includes(this_avatar._id)) ? 'head_right hr_1' : 'hr_1',
                                     style: {
                                         color: "#" + elemcolor[this_avatar.Element]
                                     }
@@ -1367,11 +1369,11 @@ $(function () {
                                 {
                                     img: imgpre + 'images/skillicons/' + skill_id + '/' + ST.Tree2.Icon + '.png',
                                     class: 'head_left',
-                                    when: ST.Tree2.Icon != undefined
+                                    when: (ST.Tree2.Icon != undefined) && !no_skillicon.includes(this_avatar._id)
                                 },
                                 {
                                     p: ST.Tree2.Name[lang],
-                                    class: ST.Tree2.Icon ? 'head_right hr_1' : 'hr_1',
+                                    class: ((ST.Tree2.Icon != undefined) && !no_skillicon.includes(this_avatar._id)) ? 'head_right hr_1' : 'hr_1',
                                     style: {
                                         color: "#" + elemcolor[this_avatar.Element]
                                     }
@@ -1395,11 +1397,11 @@ $(function () {
                                 {
                                     img: imgpre + 'images/skillicons/' + skill_id + '/' + ST.Tree3.Icon + '.png',
                                     class: 'head_left',
-                                    when: ST.Tree3.Icon != undefined
+                                    when: (ST.Tree3.Icon != undefined) && !no_skillicon.includes(this_avatar._id)
                                 },
                                 {
                                     p: ST.Tree3.Name[lang],
-                                    class: ST.Tree3.Icon ? 'head_right hr_1' : 'hr_1',
+                                    class: ((ST.Tree3.Icon != undefined) && !no_skillicon.includes(this_avatar._id)) ? 'head_right hr_1' : 'hr_1',
                                     style: {
                                         color: "#" + elemcolor[this_avatar.Element]
                                     }
@@ -1505,7 +1507,7 @@ $(function () {
                                 }
                             },
                             class: 'rank_up',
-                            when: this_avatar.Rarity != undefined
+                            when: (this_avatar.Rarity != undefined) && !no_skillicon.includes(this_avatar._id)
                         },
                         {
                             div: [
@@ -1514,11 +1516,11 @@ $(function () {
                                         {
                                             img: imgpre + 'images/skillicons/' + skill_id + '/' + S[this_avatar_cur_ver].Icon + '.png',
                                             class: 'head_left',
-                                            when: S[this_avatar_cur_ver].Icon != undefined
+                                            when: (S[this_avatar_cur_ver].Icon != undefined) && !no_skillicon.includes(this_avatar._id)
                                         },
                                         {
                                             p: S[this_avatar_cur_ver].Rank + ' ' + S[this_avatar_cur_ver].Name[lang],
-                                            class: S[this_avatar_cur_ver].Icon ? 'head_right hr_1' : 'hr_1',
+                                            class: ((S[this_avatar_cur_ver].Icon != undefined) && !no_skillicon.includes(this_avatar._id)) ? 'head_right hr_1' : 'hr_1',
                                             style: {
                                                 color: "#" + elemcolor[this_avatar.Element]
                                             }
@@ -1535,7 +1537,7 @@ $(function () {
                             ],
                             class: 'rank_down',
                             style: {
-                                width: (this_avatar.Rarity != undefined) ? '' : '100%'
+                                width: ((this_avatar.Rarity != undefined) && !no_skillicon.includes(this_avatar._id)) ? '' : '100%'
                             }
                         }
                     ],
