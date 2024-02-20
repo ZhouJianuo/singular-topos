@@ -445,7 +445,6 @@ $(function () {
                                         var count_ = 0
                                         elemlist.forEach(function (e) {
                                             if (!cur_mon.RESBase[e]) return
-                                            count_ += 1
                                             $(k.container).render({
                                                 template: {
                                                     tr: [
@@ -461,6 +460,7 @@ $(function () {
                                                     ]
                                                 }
                                             })
+                                            count_ += 1
                                         })
                                         while (count_ < elemlist.length) {
                                             $(k.container).render({
