@@ -777,6 +777,7 @@ $(function () {
                             div: [
                                 {
                                     table: function (k) {
+                                        var count_ = 0
                                         elemlist.forEach(function (e) {
                                             if (!cur_mon.RESBase[e]) return
                                             $(k.container).render({
@@ -795,6 +796,27 @@ $(function () {
                                                 }
                                             })
                                         })
+                                        while (count_ < elemlist.length) {
+                                            $(k.container).render({
+                                                template: {
+                                                    tr: [
+                                                        {
+                                                            td: '1',
+                                                            style: {
+                                                                opacity: '0'
+                                                            }
+                                                        },
+                                                        {
+                                                            td: ''
+                                                        },
+                                                        {
+                                                            td: ''
+                                                        }
+                                                    ]
+                                                }
+                                            })
+                                            count_ += 1
+                                        }
                                     }
                                 },
                                 {
