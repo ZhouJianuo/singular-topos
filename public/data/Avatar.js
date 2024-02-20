@@ -23,6 +23,8 @@ var _avatar = [
             900104,
             900106
         ],
+        "Icon": "avatarshopicon/999",
+        "Pic": "avatardrawcard/999.png",
         "CV": [
             {
                 "CH": "马语非",
@@ -63,6 +65,8 @@ var _avatar = [
             900204,
             900206
         ],
+        "Icon": "avatarshopicon/999",
+        "Pic": "avatardrawcard/999.png",
         "CV": [
             {
                 "CH": "杨超然",
@@ -103,6 +107,8 @@ var _avatar = [
             900304,
             900306
         ],
+        "Icon": "avatarshopicon/999",
+        "Pic": "avatardrawcard/999.png",
         "CV": [
             {
                 "CH": "菊花花",
@@ -8361,8 +8367,8 @@ var _avatarskill = {
                 "EN": "AoE"
             },
             "Desc": {
-                "CH": "对敌方全体造成等同于三月七<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的冰属性伤害。受到攻击的敌方目标有 <b>#2[p]</b> <u>基础概率</u>陷入冻结状态，持续 <b>#3[f]</b> 回合。\n冻结状态下，敌方目标不能行动同时每回合开始时受到等同于三月七<color style='color:#f29e38;'> <b>#4[p]</b> </color>攻击力的冰属性<u>附加伤害</u>。",
-                "EN": "Deals Ice DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of March 7th's ATK to all enemies. Hit enemies have a <b>#2[p]</b> <u>base chance</u> to be Frozen for <b>#3[f]</b> turn(s).\nWhile Frozen, enemies cannot take action and will receive <u>Additional</u> Ice DMG equal to <color style='color:#f29e38;'><b>#4[p]</b></color> of March 7th's ATK at the beginning of each turn."
+                "CH": "对敌方全体造成等同于三月七<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的冰属性伤害。受到攻击的敌方目标有 <b>#2[p]</b> <u>基础概率</u>陷入冻结状态，持续 <b>#3[f]</b> 回合。<br>冻结状态下，敌方目标不能行动同时每回合开始时受到等同于三月七<color style='color:#f29e38;'> <b>#4[p]</b> </color>攻击力的冰属性<u>附加伤害</u>。",
+                "EN": "Deals Ice DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of March 7th's ATK to all enemies. Hit enemies have a <b>#2[p]</b> <u>base chance</u> to be Frozen for <b>#3[f]</b> turn(s).<br>While Frozen, enemies cannot take action and will receive <u>Additional</u> Ice DMG equal to <color style='color:#f29e38;'><b>#4[p]</b></color> of March 7th's ATK at the beginning of each turn."
             },
             "Params": [
                 [
@@ -8608,8 +8614,8 @@ var _avatarskill = {
                 "EN": ""
             },
             "Desc": {
-                "CH": "立即攻击敌人，进入战斗后有 <b>#1[p]</b> 的<u>基础概率</u>使随机敌方单体陷入冻结状态，持续 <b>#2[f]</b> 回合。\n冻结状态下，敌方目标不能行动同时每回合开始时受到等同于三月七 <b>#3[p]</b> 攻击力的冰属性<u>附加伤害</u>。",
-                "EN": "Immediately attacks the enemy. After entering battle, there is a <b>#1[p]</b> <u>base chance</u> to Freeze a random enemy for <b>#2[f]</b> turn(s).\nWhile Frozen, the enemy cannot take action and will take <u>Additional</u> Ice DMG equal to <b>#3[p]</b> of March 7th's ATK at the beginning of each turn."
+                "CH": "立即攻击敌人，进入战斗后有 <b>#1[p]</b> 的<u>基础概率</u>使随机敌方单体陷入冻结状态，持续 <b>#2[f]</b> 回合。<br>冻结状态下，敌方目标不能行动同时每回合开始时受到等同于三月七 <b>#3[p]</b> 攻击力的冰属性<u>附加伤害</u>。",
+                "EN": "Immediately attacks the enemy. After entering battle, there is a <b>#1[p]</b> <u>base chance</u> to Freeze a random enemy for <b>#2[f]</b> turn(s).<br>While Frozen, the enemy cannot take action and will take <u>Additional</u> Ice DMG equal to <b>#3[p]</b> of March 7th's ATK at the beginning of each turn."
             },
             "Params": [
                 [
@@ -8704,8 +8710,8 @@ var _avatarskill = {
                 "EN": "Single Target"
             },
             "Desc": {
-                "CH": "对指定敌方单体造成等同于丹恒<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的风属性伤害。\n战技造成的伤害触发暴击时，有 <b>#4[p]</b> 的<u>基础概率</u>使受到攻击的敌方目标速度降低 <b>#2[p]</b> ，持续 <b>#3[f]</b> 回合。",
-                "EN": "Deals Wind DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Dan Heng's ATK to a single enemy.\nOn a CRIT Hit, there is a <b>#4[p]</b> <u>base chance</u> to reduce the target's SPD by <b>#2[p]</b> for <b>#3[f]</b> turn(s)."
+                "CH": "对指定敌方单体造成等同于丹恒<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的风属性伤害。<br>战技造成的伤害触发暴击时，有 <b>#4[p]</b> 的<u>基础概率</u>使受到攻击的敌方目标速度降低 <b>#2[p]</b> ，持续 <b>#3[f]</b> 回合。",
+                "EN": "Deals Wind DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Dan Heng's ATK to a single enemy.<br>On a CRIT Hit, there is a <b>#4[p]</b> <u>base chance</u> to reduce the target's SPD by <b>#2[p]</b> for <b>#3[f]</b> turn(s)."
             },
             "Params": [
                 [
@@ -9232,8 +9238,8 @@ var _avatarskill = {
                 "EN": "AoE"
             },
             "Desc": {
-                "CH": "当有敌方目标的弱点被击破时，姬子获得充能，上限 <b>#2[f]</b> 点。\n当我方目标施放攻击后，若姬子的充能达到上限则立即发动1次<u>追加攻击</u>，对敌方全体目标造成等同于姬子<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的火属性伤害，并消耗全部充能。\n战斗开始时获得1点充能。",
-                "EN": "When an enemy is inflicted with Weakness Break, Himeko gains 1 point of Charge (max <b>#2[f]</b> points).\nIf Himeko is fully Charged when an ally performs an attack, Himeko immediately performs 1 <u>follow-up attack</u> and deals Fire DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of her ATK to all enemies, consuming all Charge points.\nAt the start of the battle, Himeko gains 1 point of Charge."
+                "CH": "当有敌方目标的弱点被击破时，姬子获得充能，上限 <b>#2[f]</b> 点。<br>当我方目标施放攻击后，若姬子的充能达到上限则立即发动1次<u>追加攻击</u>，对敌方全体目标造成等同于姬子<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的火属性伤害，并消耗全部充能。<br>战斗开始时获得1点充能。",
+                "EN": "When an enemy is inflicted with Weakness Break, Himeko gains 1 point of Charge (max <b>#2[f]</b> points).<br>If Himeko is fully Charged when an ally performs an attack, Himeko immediately performs 1 <u>follow-up attack</u> and deals Fire DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of her ATK to all enemies, consuming all Charge points.<br>At the start of the battle, Himeko gains 1 point of Charge."
             },
             "Params": [
                 [
@@ -9684,8 +9690,8 @@ var _avatarskill = {
                 "EN": "Impair"
             },
             "Desc": {
-                "CH": "使用秘技后，制造1片持续 <b>#4[f]</b> 秒的特殊领域。处于特殊领域内的敌人移动速度降低 <b>#5[p]</b> 。与处于特殊领域内的敌人进入战斗后，有 <b>#1[p]</b> 的<u>基础概率</u>使敌方目标陷入禁锢状态，持续1回合。\n禁锢状态下，敌方目标<u>行动延后</u> <b>#2[p]</b> ，速度降低 <b>#3[p]</b> 。我方制造的领域效果最多存在1个。",
-                "EN": "After using Welt's Technique, create a dimension that lasts for <b>#4[f]</b> second(s). Enemies in this dimension have their Movement SPD reduced by <b>#5[p]</b>. After entering battle with enemies in the dimension, there is a <b>#1[p]</b> <u>base chance</u> to Imprison the enemies for 1 turn.\nImprisoned enemies have their <u>actions delayed</u> by <b>#2[p]</b> and SPD reduced by <b>#3[p]</b>. Only 1 dimension created by allies can exist at the same time."
+                "CH": "使用秘技后，制造1片持续 <b>#4[f]</b> 秒的特殊领域。处于特殊领域内的敌人移动速度降低 <b>#5[p]</b> 。与处于特殊领域内的敌人进入战斗后，有 <b>#1[p]</b> 的<u>基础概率</u>使敌方目标陷入禁锢状态，持续1回合。<br>禁锢状态下，敌方目标<u>行动延后</u> <b>#2[p]</b> ，速度降低 <b>#3[p]</b> 。我方制造的领域效果最多存在1个。",
+                "EN": "After using Welt's Technique, create a dimension that lasts for <b>#4[f]</b> second(s). Enemies in this dimension have their Movement SPD reduced by <b>#5[p]</b>. After entering battle with enemies in the dimension, there is a <b>#1[p]</b> <u>base chance</u> to Imprison the enemies for 1 turn.<br>Imprisoned enemies have their <u>actions delayed</u> by <b>#2[p]</b> and SPD reduced by <b>#3[p]</b>. Only 1 dimension created by allies can exist at the same time."
             },
             "Params": [
                 [
@@ -10356,8 +10362,8 @@ var _avatarskill = {
                 "EN": "Support"
             },
             "Desc": {
-                "CH": "每击中1名不同的敌方目标获得1层蓄能，若受到攻击的敌方目标弱点为火属性，则额外获得1层蓄能。\n艾丝妲每拥有1层蓄能，会使我方全体攻击力提高<color style='color:#f29e38;'> <b>#1[p]</b> </color>，该效果最多叠加 <b>#2[f]</b> 层。\n从自身的第2回合开始，艾丝妲每回合开始时蓄能层数减少 <b>#3[f]</b> 层。",
-                "EN": "Gains 1 stack of Charging for every different enemy hit by Asta plus an extra stack if the enemy hit has Fire Weakness.\nFor every stack of Charging Asta has, all allies' ATK increases by <color style='color:#f29e38;'><b>#1[p]</b></color>, up to <b>#2[f]</b> time(s).\nStarting from her second turn, Asta's Charging stack count is reduced by <b>#3[f]</b> at the beginning of every turn."
+                "CH": "每击中1名不同的敌方目标获得1层蓄能，若受到攻击的敌方目标弱点为火属性，则额外获得1层蓄能。<br>艾丝妲每拥有1层蓄能，会使我方全体攻击力提高<color style='color:#f29e38;'> <b>#1[p]</b> </color>，该效果最多叠加 <b>#2[f]</b> 层。<br>从自身的第2回合开始，艾丝妲每回合开始时蓄能层数减少 <b>#3[f]</b> 层。",
+                "EN": "Gains 1 stack of Charging for every different enemy hit by Asta plus an extra stack if the enemy hit has Fire Weakness.<br>For every stack of Charging Asta has, all allies' ATK increases by <color style='color:#f29e38;'><b>#1[p]</b></color>, up to <b>#2[f]</b> time(s).<br>Starting from her second turn, Asta's Charging stack count is reduced by <b>#3[f]</b> at the beginning of every turn."
             },
             "Params": [
                 [
@@ -10993,8 +10999,8 @@ var _avatarskill = {
                 "EN": "Support"
             },
             "Desc": {
-                "CH": "解除指定我方单体的1个<u>负面效果</u>，并使该目标立即行动，造成的伤害提高<color style='color:#f29e38;'> <b>#1[p]</b> </color>，持续 <b>#3[f]</b> 回合。\n当对自身施放该技能时，无法触发立即行动效果。<br>隐藏数值：#2[f]<br>隐藏数值：#4[f]",
-                "EN": "Dispels a <u>debuff</u> from a single ally, allows them to immediately take action, and increases their DMG by <color style='color:#f29e38;'><b>#1[p]</b></color> for <b>#3[f]</b> turn(s).\nWhen this Skill is used on Bronya herself, she cannot immediately take action again.<br>Hidden Stat: #2[f]<br>Hidden Stat: #4[f]"
+                "CH": "解除指定我方单体的1个<u>负面效果</u>，并使该目标立即行动，造成的伤害提高<color style='color:#f29e38;'> <b>#1[p]</b> </color>，持续 <b>#3[f]</b> 回合。<br>当对自身施放该技能时，无法触发立即行动效果。<br>隐藏数值：#2[f]<br>隐藏数值：#4[f]",
+                "EN": "Dispels a <u>debuff</u> from a single ally, allows them to immediately take action, and increases their DMG by <color style='color:#f29e38;'><b>#1[p]</b></color> for <b>#3[f]</b> turn(s).<br>When this Skill is used on Bronya herself, she cannot immediately take action again.<br>Hidden Stat: #2[f]<br>Hidden Stat: #4[f]"
             },
             "Params": [
                 [
@@ -11627,8 +11633,8 @@ var _avatarskill = {
                 "EN": "Enhance"
             },
             "Desc": {
-                "CH": "施放普攻、战技、终结技消灭敌方目标时立即获得1个<u>额外回合</u>并进入增幅状态，增幅状态下希儿施放攻击造成的伤害提高<color style='color:#f29e38;'> <b>#1[p]</b> </color>，持续 <b>#2[f]</b> 回合。\n若希儿在因天赋【再现】获得的<u>额外回合</u>中消灭敌方目标，此天赋不会生效。",
-                "EN": "Enters the buffed state upon defeating an enemy with Basic ATK, Skill, or Ultimate, and receives an <u>extra turn</u>. While in the buffed state, the DMG of Seele's attacks increases by <color style='color:#f29e38;'><b>#1[p]</b></color> for <b>#2[f]</b> turn(s).\nEnemies defeated in the <u>extra turn</u> provided by \"Resurgence\" will not trigger another \"Resurgence.\""
+                "CH": "施放普攻、战技、终结技消灭敌方目标时立即获得1个<u>额外回合</u>并进入增幅状态，增幅状态下希儿施放攻击造成的伤害提高<color style='color:#f29e38;'> <b>#1[p]</b> </color>，持续 <b>#2[f]</b> 回合。<br>若希儿在因天赋【再现】获得的<u>额外回合</u>中消灭敌方目标，此天赋不会生效。",
+                "EN": "Enters the buffed state upon defeating an enemy with Basic ATK, Skill, or Ultimate, and receives an <u>extra turn</u>. While in the buffed state, the DMG of Seele's attacks increases by <color style='color:#f29e38;'><b>#1[p]</b></color> for <b>#2[f]</b> turn(s).<br>Enemies defeated in the <u>extra turn</u> provided by \"Resurgence\" will not trigger another \"Resurgence.\""
             },
             "Params": [
                 [
@@ -12030,8 +12036,8 @@ var _avatarskill = {
                 "EN": "Single Target"
             },
             "Desc": {
-                "CH": "对指定敌方单体造成等同于杰帕德<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的冰属性伤害，同时有 <b>#2[p]</b> 的<u>基础概率</u>使受到攻击的敌方目标陷入冻结状态，持续 <b>#3[f]</b> 回合。\n冻结状态下，敌方目标不能行动同时每回合开始时受到等同于杰帕德<color style='color:#f29e38;'> <b>#4[p]</b> </color>攻击力的冰属性<u>附加伤害</u>。",
-                "EN": "Deals Ice DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Gepard's ATK to a single enemy, with a <b>#2[p]</b> <u>base chance</u> to Freeze the enemy for <b>#3[f]</b> turn(s).\nWhile Frozen, the enemy cannot take action and will take <u>Additional</u> Ice DMG equal to <color style='color:#f29e38;'><b>#4[p]</b></color> of Gepard's ATK at the beginning of each turn."
+                "CH": "对指定敌方单体造成等同于杰帕德<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的冰属性伤害，同时有 <b>#2[p]</b> 的<u>基础概率</u>使受到攻击的敌方目标陷入冻结状态，持续 <b>#3[f]</b> 回合。<br>冻结状态下，敌方目标不能行动同时每回合开始时受到等同于杰帕德<color style='color:#f29e38;'> <b>#4[p]</b> </color>攻击力的冰属性<u>附加伤害</u>。",
+                "EN": "Deals Ice DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Gepard's ATK to a single enemy, with a <b>#2[p]</b> <u>base chance</u> to Freeze the enemy for <b>#3[f]</b> turn(s).<br>While Frozen, the enemy cannot take action and will take <u>Additional</u> Ice DMG equal to <color style='color:#f29e38;'><b>#4[p]</b></color> of Gepard's ATK at the beginning of each turn."
             },
             "Params": [
                 [
@@ -12946,8 +12952,8 @@ var _avatarskill = {
                 "EN": "AoE"
             },
             "Desc": {
-                "CH": "对敌方全体造成等同于克拉拉<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的物理属性伤害，并对所有被史瓦罗标上【反击标记】的敌方目标额外造成等同于克拉拉<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力物理属性伤害。\n战技施放后所有【反击标记】失效。",
-                "EN": "Deals Physical DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Clara's ATK to all enemies, and additionally deals Physical DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Clara's ATK to enemies marked by Svarog with a Mark of Counter.\nAll Marks of Counter will be removed after this Skill is used."
+                "CH": "对敌方全体造成等同于克拉拉<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的物理属性伤害，并对所有被史瓦罗标上【反击标记】的敌方目标额外造成等同于克拉拉<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力物理属性伤害。<br>战技施放后所有【反击标记】失效。",
+                "EN": "Deals Physical DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Clara's ATK to all enemies, and additionally deals Physical DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Clara's ATK to enemies marked by Svarog with a Mark of Counter.<br>All Marks of Counter will be removed after this Skill is used."
             },
             "Params": [
                 [
@@ -13038,8 +13044,8 @@ var _avatarskill = {
                 "EN": "Enhance"
             },
             "Desc": {
-                "CH": "施放终结技后克拉拉受到的伤害额外降低<color style='color:#f29e38;'> <b>#4[p]</b> </color>且被敌方目标攻击的概率大幅提高，持续 <b>#3[f]</b> 回合。\n同时史瓦罗的<u>反击</u>得到强化，当任意我方目标受到攻击后史瓦罗立即施放<u>反击</u>，对敌方目标造成的伤害倍率提高<color style='color:#f29e38;'> <b>#2[p]</b> </color>，并对其相邻目标造成相当于主目标 <b>50%</b> 的伤害。强化效果可生效 <b>#5[f]</b> 次。<br>隐藏数值：#1[f]",
-                "EN": "After Clara uses Ultimate, DMG dealt to her is reduced by an extra <color style='color:#f29e38;'><b>#4[p]</b></color>, and she has greatly increased chances of being attacked by enemies for <b>#3[f]</b> turn(s).\nIn addition, Svarog's <u>Counter</u> is enhanced. When an ally is attacked, Svarog immediately launches a <u>Counter</u>, and its DMG multiplier against the enemy increases by <color style='color:#f29e38;'><b>#2[p]</b></color>. Enemies adjacent to it take <b>50%</b> of the DMG dealt to the target enemy. Enhanced <u>Counter(s)</u> can take effect <b>#5[f]</b> time(s).<br>Hidden Stat: #1[f]"
+                "CH": "施放终结技后克拉拉受到的伤害额外降低<color style='color:#f29e38;'> <b>#4[p]</b> </color>且被敌方目标攻击的概率大幅提高，持续 <b>#3[f]</b> 回合。<br>同时史瓦罗的<u>反击</u>得到强化，当任意我方目标受到攻击后史瓦罗立即施放<u>反击</u>，对敌方目标造成的伤害倍率提高<color style='color:#f29e38;'> <b>#2[p]</b> </color>，并对其相邻目标造成相当于主目标 <b>50%</b> 的伤害。强化效果可生效 <b>#5[f]</b> 次。<br>隐藏数值：#1[f]",
+                "EN": "After Clara uses Ultimate, DMG dealt to her is reduced by an extra <color style='color:#f29e38;'><b>#4[p]</b></color>, and she has greatly increased chances of being attacked by enemies for <b>#3[f]</b> turn(s).<br>In addition, Svarog's <u>Counter</u> is enhanced. When an ally is attacked, Svarog immediately launches a <u>Counter</u>, and its DMG multiplier against the enemy increases by <color style='color:#f29e38;'><b>#2[p]</b></color>. Enemies adjacent to it take <b>50%</b> of the DMG dealt to the target enemy. Enhanced <u>Counter(s)</u> can take effect <b>#5[f]</b> time(s).<br>Hidden Stat: #1[f]"
             },
             "Params": [
                 [
@@ -13625,8 +13631,8 @@ var _avatarskill = {
                 "EN": "Enhance"
             },
             "Desc": {
-                "CH": "桑博击中敌方目标后有 <b>#1[p]</b> 的<u>基础概率</u>使目标陷入风化状态，持续 <b>#3[f]</b> 回合。\n风化状态下，敌方目标每回合开始时受到等同于桑博<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力的风属性持续伤害。风化状态最多叠加 <b>#4[f]</b> 层。",
-                "EN": "Sampo's attacks have a <b>#1[p]</b> <u>base chance</u> to inflict Wind Shear for <b>#3[f]</b> turn(s).\nEnemies inflicted with Wind Shear will take Wind DoT equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Sampo's ATK at the beginning of each turn. Wind Shear can stack up to <b>#4[f]</b> time(s)."
+                "CH": "桑博击中敌方目标后有 <b>#1[p]</b> 的<u>基础概率</u>使目标陷入风化状态，持续 <b>#3[f]</b> 回合。<br>风化状态下，敌方目标每回合开始时受到等同于桑博<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力的风属性持续伤害。风化状态最多叠加 <b>#4[f]</b> 层。",
+                "EN": "Sampo's attacks have a <b>#1[p]</b> <u>base chance</u> to inflict Wind Shear for <b>#3[f]</b> turn(s).<br>Enemies inflicted with Wind Shear will take Wind DoT equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Sampo's ATK at the beginning of each turn. Wind Shear can stack up to <b>#4[f]</b> time(s)."
             },
             "Params": [
                 [
@@ -13779,8 +13785,8 @@ var _avatarskill = {
                 "EN": "Impair"
             },
             "Desc": {
-                "CH": "使用秘技后使一定区域内的敌人陷入 <b>#1[f]</b> 秒的目盲状态，目盲状态下的敌人无法发现我方目标。\n若主动攻击陷入目盲状态的敌人，进入战斗时有 <b>#2[p]</b> <u>固定概率</u>使敌方每个单体目标行动延后 <b>#3[p]</b> 。",
-                "EN": "After Sampo uses his Technique, enemies in a set area are inflicted with Blind for <b>#1[f]</b> second(s). Blinded enemies cannot detect your team.\nWhen initiating combat against a Blinded enemy, there is a <b>#2[p]</b> <u>fixed chance</u> to delay all enemies' action by <b>#3[p]</b>."
+                "CH": "使用秘技后使一定区域内的敌人陷入 <b>#1[f]</b> 秒的目盲状态，目盲状态下的敌人无法发现我方目标。<br>若主动攻击陷入目盲状态的敌人，进入战斗时有 <b>#2[p]</b> <u>固定概率</u>使敌方每个单体目标行动延后 <b>#3[p]</b> 。",
+                "EN": "After Sampo uses his Technique, enemies in a set area are inflicted with Blind for <b>#1[f]</b> second(s). Blinded enemies cannot detect your team.<br>When initiating combat against a Blinded enemy, there is a <b>#2[p]</b> <u>fixed chance</u> to delay all enemies' action by <b>#3[p]</b>."
             },
             "Params": [
                 [
@@ -13875,8 +13881,8 @@ var _avatarskill = {
                 "EN": "Single Target"
             },
             "Desc": {
-                "CH": "对指定敌方单体造成等同于虎克<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的火属性伤害，同时有 <b>#2[p]</b> 的<u>基础概率</u>使其陷入灼烧状态，持续 <b>#3[f]</b> 回合。\n灼烧状态下，敌方目标每回合开始时受到等同于虎克<color style='color:#f29e38;'> <b>#4[p]</b> </color>攻击力的火属性持续伤害。",
-                "EN": "Deals Fire DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Hook's ATK to a single enemy. In addition, there is a <b>#2[p]</b> <u>base chance</u> to inflict Burn for <b>#3[f]</b> turn(s).\nWhen afflicted with Burn, enemies will take Fire DoT equal to <color style='color:#f29e38;'><b>#4[p]</b></color> of Hook's ATK at the beginning of each turn."
+                "CH": "对指定敌方单体造成等同于虎克<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的火属性伤害，同时有 <b>#2[p]</b> 的<u>基础概率</u>使其陷入灼烧状态，持续 <b>#3[f]</b> 回合。<br>灼烧状态下，敌方目标每回合开始时受到等同于虎克<color style='color:#f29e38;'> <b>#4[p]</b> </color>攻击力的火属性持续伤害。",
+                "EN": "Deals Fire DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Hook's ATK to a single enemy. In addition, there is a <b>#2[p]</b> <u>base chance</u> to inflict Burn for <b>#3[f]</b> turn(s).<br>When afflicted with Burn, enemies will take Fire DoT equal to <color style='color:#f29e38;'><b>#4[p]</b></color> of Hook's ATK at the beginning of each turn."
             },
             "Params": [
                 [
@@ -13997,8 +14003,8 @@ var _avatarskill = {
                 "EN": "Single Target"
             },
             "Desc": {
-                "CH": "对指定敌方单体造成等同于虎克<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的火属性伤害。\n施放终结技后，下一次施放的战技得到强化，强化后的战技能够同时对指定敌方单体及其相邻目标造成伤害。",
-                "EN": "Deals Fire DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Hook's ATK to a single enemy.\nAfter using Ultimate, the next Skill to be used is Enhanced, which deals DMG to a single enemy and enemies adjacent to it."
+                "CH": "对指定敌方单体造成等同于虎克<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的火属性伤害。<br>施放终结技后，下一次施放的战技得到强化，强化后的战技能够同时对指定敌方单体及其相邻目标造成伤害。",
+                "EN": "Deals Fire DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Hook's ATK to a single enemy.<br>After using Ultimate, the next Skill to be used is Enhanced, which deals DMG to a single enemy and enemies adjacent to it."
             },
             "Params": [
                 [
@@ -14199,8 +14205,8 @@ var _avatarskill = {
                 "EN": ""
             },
             "Desc": {
-                "CH": "立即攻击敌人，进入战斗后对敌方随机单体造成等同于虎克 <b>#4[p]</b> 攻击力的火属性伤害，同时有 <b>#1[p]</b> 的<u>基础概率</u>使敌方每个单体目标陷入灼烧状态，持续 <b>#3[f]</b> 回合。\n灼烧状态下，敌方目标每回合开始时受到等同于虎克 <b>#2[p]</b> 攻击力的火属性持续伤害。",
-                "EN": "Immediately attacks the enemy. Upon entering battle, Hook deals Fire DMG equal to <b>#4[p]</b> of her ATK to a random enemy. In addition, there is a <b>#1[p]</b> <u>base chance</u> to inflict Burn on every enemy for <b>#3[f]</b> turn(s).\nWhen afflicted with Burn, enemies will take Fire DoT equal to <b>#2[p]</b> of Hook's ATK at the beginning of each turn."
+                "CH": "立即攻击敌人，进入战斗后对敌方随机单体造成等同于虎克 <b>#4[p]</b> 攻击力的火属性伤害，同时有 <b>#1[p]</b> 的<u>基础概率</u>使敌方每个单体目标陷入灼烧状态，持续 <b>#3[f]</b> 回合。<br>灼烧状态下，敌方目标每回合开始时受到等同于虎克 <b>#2[p]</b> 攻击力的火属性持续伤害。",
+                "EN": "Immediately attacks the enemy. Upon entering battle, Hook deals Fire DMG equal to <b>#4[p]</b> of her ATK to a random enemy. In addition, there is a <b>#1[p]</b> <u>base chance</u> to inflict Burn on every enemy for <b>#3[f]</b> turn(s).<br>When afflicted with Burn, enemies will take Fire DoT equal to <b>#2[p]</b> of Hook's ATK at the beginning of each turn."
             },
             "Params": [
                 [
@@ -14237,8 +14243,8 @@ var _avatarskill = {
                 "EN": "Blast"
             },
             "Desc": {
-                "CH": "对指定敌方单体造成等同于虎克<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的火属性伤害，同时有 <b>#2[p]</b> 的<u>基础概率</u>使其陷入灼烧状态，持续 <b>#3[f]</b> 回合。此外对其相邻目标造成等同于虎克<color style='color:#f29e38;'> <b>#5[p]</b> </color>攻击力的火属性伤害。\n灼烧状态下，敌方目标每回合开始时受到等同于虎克<color style='color:#f29e38;'> <b>#4[p]</b> </color>攻击力的火属性持续伤害。",
-                "EN": "Deals Fire DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Hook's ATK to a single enemy, with a <b>#2[p]</b> <u>base chance</u> to Burn them for <b>#3[f]</b> turn(s). Additionally, deals Fire DMG equal to <color style='color:#f29e38;'><b>#5[p]</b></color> of Hook's ATK to enemies adjacent to it.\nWhen afflicted with Burn, enemies will take Fire DoT equal to <color style='color:#f29e38;'><b>#4[p]</b></color> of Hook's ATK at the beginning of each turn."
+                "CH": "对指定敌方单体造成等同于虎克<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的火属性伤害，同时有 <b>#2[p]</b> 的<u>基础概率</u>使其陷入灼烧状态，持续 <b>#3[f]</b> 回合。此外对其相邻目标造成等同于虎克<color style='color:#f29e38;'> <b>#5[p]</b> </color>攻击力的火属性伤害。<br>灼烧状态下，敌方目标每回合开始时受到等同于虎克<color style='color:#f29e38;'> <b>#4[p]</b> </color>攻击力的火属性持续伤害。",
+                "EN": "Deals Fire DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Hook's ATK to a single enemy, with a <b>#2[p]</b> <u>base chance</u> to Burn them for <b>#3[f]</b> turn(s). Additionally, deals Fire DMG equal to <color style='color:#f29e38;'><b>#5[p]</b></color> of Hook's ATK to enemies adjacent to it.<br>When afflicted with Burn, enemies will take Fire DoT equal to <color style='color:#f29e38;'><b>#4[p]</b></color> of Hook's ATK at the beginning of each turn."
             },
             "Params": [
                 [
@@ -14433,8 +14439,8 @@ var _avatarskill = {
                 "EN": "Restore"
             },
             "Desc": {
-                "CH": "为指定我方单体附上【求生反应】，提高等同于玲可<color style='color:#f29e38;'> <b>#1[p]</b> </color>生命上限+<color style='color:#f29e38;'> <b>#2[f]</b> </color>的生命上限，若该目标为「毁灭」或「存护」命途，被敌方攻击的概率大幅提高，【求生反应】持续 <b>#3[f]</b> 回合。\n使该目标回复等同于玲可<color style='color:#f29e38;'> <b>#4[p]</b> </color>生命上限+<color style='color:#f29e38;'> <b>#5[f]</b> </color>的生命值。<br>隐藏数值：#6[f]",
-                "EN": "Applies \"Survival Response\" to a single target ally and increases their Max HP by <color style='color:#f29e38;'><b>#1[p]</b></color> of Lynx's Max HP plus <color style='color:#f29e38;'><b>#2[f]</b></color>. If the target ally is a character on the Path of Destruction or Preservation, the chance of them being attacked by enemies will greatly increase. \"Survival Response\" lasts for <b>#3[f]</b> turn(s).\nRestores the target's HP by <color style='color:#f29e38;'><b>#4[p]</b></color> of Lynx's Max HP plus <color style='color:#f29e38;'><b>#5[f]</b></color>.<br>Hidden Stat: #6[f]"
+                "CH": "为指定我方单体附上【求生反应】，提高等同于玲可<color style='color:#f29e38;'> <b>#1[p]</b> </color>生命上限+<color style='color:#f29e38;'> <b>#2[f]</b> </color>的生命上限，若该目标为「毁灭」或「存护」命途，被敌方攻击的概率大幅提高，【求生反应】持续 <b>#3[f]</b> 回合。<br>使该目标回复等同于玲可<color style='color:#f29e38;'> <b>#4[p]</b> </color>生命上限+<color style='color:#f29e38;'> <b>#5[f]</b> </color>的生命值。<br>隐藏数值：#6[f]",
+                "EN": "Applies \"Survival Response\" to a single target ally and increases their Max HP by <color style='color:#f29e38;'><b>#1[p]</b></color> of Lynx's Max HP plus <color style='color:#f29e38;'><b>#2[f]</b></color>. If the target ally is a character on the Path of Destruction or Preservation, the chance of them being attacked by enemies will greatly increase. \"Survival Response\" lasts for <b>#3[f]</b> turn(s).<br>Restores the target's HP by <color style='color:#f29e38;'><b>#4[p]</b></color> of Lynx's Max HP plus <color style='color:#f29e38;'><b>#5[f]</b></color>.<br>Hidden Stat: #6[f]"
             },
             "Params": [
                 [
@@ -14956,8 +14962,8 @@ var _avatarskill = {
                 "EN": "Single Target"
             },
             "Desc": {
-                "CH": "消耗2层【斗志】，先使用【直冲拳】施放3段攻击，每段攻击对指定敌方单体造成等同于卢卡<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的物理属性伤害。\n再使用【碎天拳】施放1段攻击，对指定敌方单体造成等同于卢卡<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力的物理属性伤害。",
-                "EN": "Consumes 2 stacks of Fighting Will. First, uses Direct Punch to deal 3 hits, with each hit dealing Physical DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Luka's ATK to a single enemy target.\nThen, uses Rising Uppercut to deal 1 hit, dealing Physical DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Luka's ATK to the single enemy target."
+                "CH": "消耗2层【斗志】，先使用【直冲拳】施放3段攻击，每段攻击对指定敌方单体造成等同于卢卡<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的物理属性伤害。<br>再使用【碎天拳】施放1段攻击，对指定敌方单体造成等同于卢卡<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力的物理属性伤害。",
+                "EN": "Consumes 2 stacks of Fighting Will. First, uses Direct Punch to deal 3 hits, with each hit dealing Physical DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Luka's ATK to a single enemy target.<br>Then, uses Rising Uppercut to deal 1 hit, dealing Physical DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Luka's ATK to the single enemy target."
             },
             "Params": [
                 [
@@ -15024,8 +15030,8 @@ var _avatarskill = {
                 "EN": "Single Target"
             },
             "Desc": {
-                "CH": "对指定敌方单体造成等同于卢卡<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的物理属性伤害，随后有 <b>#2[p]</b> 的<u>基础概率</u>使目标陷入裂伤状态，持续 <b>#5[f]</b> 回合。\n裂伤状态下，敌方目标每回合开始时受到等同于自身 <b>#3[p]</b> 生命上限的物理属性持续伤害，最多不超过卢卡攻击力的<color style='color:#f29e38;'> <b>#4[p]</b> </color>。",
-                "EN": "Deals Physical DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Luka's ATK to a single enemy target. In addition, there is a <b>#2[p]</b> <u>base chance</u> to inflict Bleed on them, lasting for <b>#5[f]</b> turn(s).\nWhile Bleeding, the enemy will take <b>#3[p]</b> of their Max HP as Physical DoT at the start of each turn. This DMG will not exceed more than <color style='color:#f29e38;'><b>#4[p]</b></color> of Luka's ATK."
+                "CH": "对指定敌方单体造成等同于卢卡<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的物理属性伤害，随后有 <b>#2[p]</b> 的<u>基础概率</u>使目标陷入裂伤状态，持续 <b>#5[f]</b> 回合。<br>裂伤状态下，敌方目标每回合开始时受到等同于自身 <b>#3[p]</b> 生命上限的物理属性持续伤害，最多不超过卢卡攻击力的<color style='color:#f29e38;'> <b>#4[p]</b> </color>。",
+                "EN": "Deals Physical DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Luka's ATK to a single enemy target. In addition, there is a <b>#2[p]</b> <u>base chance</u> to inflict Bleed on them, lasting for <b>#5[f]</b> turn(s).<br>While Bleeding, the enemy will take <b>#3[p]</b> of their Max HP as Physical DoT at the start of each turn. This DMG will not exceed more than <color style='color:#f29e38;'><b>#4[p]</b></color> of Luka's ATK."
             },
             "Params": [
                 [
@@ -15518,8 +15524,8 @@ var _avatarskill = {
                 "EN": "Blast"
             },
             "Desc": {
-                "CH": "对指定敌方单体造成等同于青雀<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的量子属性伤害，并对其相邻目标造成等同于青雀<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力的量子属性伤害。\n【杠上开花！】无法恢复战技点。",
-                "EN": "Deals Quantum DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Qingque's ATK to a single enemy, and deals Quantum DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Qingque's ATK to enemies adjacent to it.\n\"Cherry on Top!\" cannot recover Skill Points."
+                "CH": "对指定敌方单体造成等同于青雀<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的量子属性伤害，并对其相邻目标造成等同于青雀<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力的量子属性伤害。<br>【杠上开花！】无法恢复战技点。",
+                "EN": "Deals Quantum DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Qingque's ATK to a single enemy, and deals Quantum DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Qingque's ATK to enemies adjacent to it.<br>\"Cherry on Top!\" cannot recover Skill Points."
             },
             "Params": [
                 [
@@ -15771,8 +15777,8 @@ var _avatarskill = {
                 "EN": "Enhance"
             },
             "Desc": {
-                "CH": "我方目标回合开始时，青雀会从3种不同花色的琼玉牌中随机抽取1张，最多持有4张琼玉牌。\n青雀回合开始时，若持有的琼玉牌数为4且花色相同，青雀消耗所有琼玉牌进入【暗杠】状态。\n处于【暗杠】状态时无法再次施放战技，同时使自身攻击力提高<color style='color:#f29e38;'> <b>#1[p]</b> </color>，普攻【门前清】强化为【杠上开花！】，【暗杠】状态会在施放【杠上开花！】后结束。",
-                "EN": "When an ally's turn starts, Qingque randomly draws 1 tile from 3 different suits and can hold up to 4 tiles at one time.\nIf Qingque starts her turn with 4 tiles of the same suit, she consumes all tiles to enter the \"Hidden Hand\" state.\nWhile in this state, Qingque cannot use her Skill again. At the same time, Qingque's ATK increases by <color style='color:#f29e38;'><b>#1[p]</b></color>, and her Basic ATK \"Flower Pick\" is enhanced, becoming \"Cherry on Top!\" The \"Hidden Hand\" state ends after using \"Cherry on Top!\"."
+                "CH": "我方目标回合开始时，青雀会从3种不同花色的琼玉牌中随机抽取1张，最多持有4张琼玉牌。<br>青雀回合开始时，若持有的琼玉牌数为4且花色相同，青雀消耗所有琼玉牌进入【暗杠】状态。<br>处于【暗杠】状态时无法再次施放战技，同时使自身攻击力提高<color style='color:#f29e38;'> <b>#1[p]</b> </color>，普攻【门前清】强化为【杠上开花！】，【暗杠】状态会在施放【杠上开花！】后结束。",
+                "EN": "When an ally's turn starts, Qingque randomly draws 1 tile from 3 different suits and can hold up to 4 tiles at one time.<br>If Qingque starts her turn with 4 tiles of the same suit, she consumes all tiles to enter the \"Hidden Hand\" state.<br>While in this state, Qingque cannot use her Skill again. At the same time, Qingque's ATK increases by <color style='color:#f29e38;'><b>#1[p]</b></color>, and her Basic ATK \"Flower Pick\" is enhanced, becoming \"Cherry on Top!\" The \"Hidden Hand\" state ends after using \"Cherry on Top!\"."
             },
             "Params": [
                 [
@@ -16410,8 +16416,8 @@ var _avatarskill = {
                 "EN": "Blast"
             },
             "Desc": {
-                "CH": "消耗等同于刃生命上限 <b>#1[p]</b> 的生命值，对指定敌方单体造成等同于刃<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力+<color style='color:#f29e38;'> <b>#4[p]</b> </color>生命上限的风属性伤害，同时对其相邻目标造成等同于刃<color style='color:#f29e38;'> <b>#3[p]</b> </color>攻击力+<color style='color:#f29e38;'> <b>#5[p]</b> </color>生命上限的风属性伤害。\n若当前生命值不足，施放【无间剑树】时刃的当前生命值降低至1点。\n【无间剑树】无法恢复战技点。",
-                "EN": "Consumes HP equal to <b>#1[p]</b> of Blade's Max HP and deals Wind DMG equal to the sum of <color style='color:#f29e38;'><b>#2[p]</b></color> of his ATK and <color style='color:#f29e38;'><b>#4[p]</b></color> of his Max HP to a single enemy. In addition, deals Wind DMG equal to the sum of <color style='color:#f29e38;'><b>#3[p]</b></color> of Blade's ATK and <color style='color:#f29e38;'><b>#5[p]</b></color> of his Max HP to adjacent targets.\nIf Blade's current HP is insufficient, his HP will be reduced to 1 when using Forest of Swords.\nForest of Swords cannot regenerate Skill Points."
+                "CH": "消耗等同于刃生命上限 <b>#1[p]</b> 的生命值，对指定敌方单体造成等同于刃<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力+<color style='color:#f29e38;'> <b>#4[p]</b> </color>生命上限的风属性伤害，同时对其相邻目标造成等同于刃<color style='color:#f29e38;'> <b>#3[p]</b> </color>攻击力+<color style='color:#f29e38;'> <b>#5[p]</b> </color>生命上限的风属性伤害。<br>若当前生命值不足，施放【无间剑树】时刃的当前生命值降低至1点。<br>【无间剑树】无法恢复战技点。",
+                "EN": "Consumes HP equal to <b>#1[p]</b> of Blade's Max HP and deals Wind DMG equal to the sum of <color style='color:#f29e38;'><b>#2[p]</b></color> of his ATK and <color style='color:#f29e38;'><b>#4[p]</b></color> of his Max HP to a single enemy. In addition, deals Wind DMG equal to the sum of <color style='color:#f29e38;'><b>#3[p]</b></color> of Blade's ATK and <color style='color:#f29e38;'><b>#5[p]</b></color> of his Max HP to adjacent targets.<br>If Blade's current HP is insufficient, his HP will be reduced to 1 when using Forest of Swords.<br>Forest of Swords cannot regenerate Skill Points."
             },
             "Params": [
                 [
@@ -16505,8 +16511,8 @@ var _avatarskill = {
                 "EN": "Blast"
             },
             "Desc": {
-                "CH": "将刃的当前生命值转化为生命上限的 <b>50%</b> ，并对敌方单体造成等同于刃<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力+<color style='color:#f29e38;'> <b>#2[p]</b> </color>生命上限+<color style='color:#f29e38;'> <b>#5[p]</b> </color>本场战斗中累计已损失生命值的风属性伤害，同时对其相邻目标造成等同于刃<color style='color:#f29e38;'> <b>#3[p]</b> </color>攻击力+<color style='color:#f29e38;'> <b>#4[p]</b> </color>生命上限+<color style='color:#f29e38;'> <b>#6[p]</b> </color>本场战斗中累计已损失生命值的风属性伤害。\n本场战斗中累计已损失生命值最高不超过刃生命上限的 <b>#7[p]</b> ，施放终结技后会清空并进行重新累计。",
-                "EN": "Sets Blade's current HP to <b>50%</b> of his Max HP and deals Wind DMG to a single enemy equal to the sum of <color style='color:#f29e38;'><b>#1[p]</b></color> of his ATK, <color style='color:#f29e38;'><b>#2[p]</b></color> of his Max HP, and <color style='color:#f29e38;'><b>#5[p]</b></color> of the tally of Blade's HP loss in the current battle. At the same time, deals Wind DMG to adjacent targets equal to the sum of <color style='color:#f29e38;'><b>#3[p]</b></color> of his ATK, <color style='color:#f29e38;'><b>#4[p]</b></color> of his Max HP, and <color style='color:#f29e38;'><b>#6[p]</b></color> of the tally of his HP loss in the current battle.\nThe tally of Blade's HP loss in the current battle is capped at <b>#7[p]</b> of his Max HP. This value will be reset and re-accumulated after his Ultimate has been used."
+                "CH": "将刃的当前生命值转化为生命上限的 <b>50%</b> ，并对敌方单体造成等同于刃<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力+<color style='color:#f29e38;'> <b>#2[p]</b> </color>生命上限+<color style='color:#f29e38;'> <b>#5[p]</b> </color>本场战斗中累计已损失生命值的风属性伤害，同时对其相邻目标造成等同于刃<color style='color:#f29e38;'> <b>#3[p]</b> </color>攻击力+<color style='color:#f29e38;'> <b>#4[p]</b> </color>生命上限+<color style='color:#f29e38;'> <b>#6[p]</b> </color>本场战斗中累计已损失生命值的风属性伤害。<br>本场战斗中累计已损失生命值最高不超过刃生命上限的 <b>#7[p]</b> ，施放终结技后会清空并进行重新累计。",
+                "EN": "Sets Blade's current HP to <b>50%</b> of his Max HP and deals Wind DMG to a single enemy equal to the sum of <color style='color:#f29e38;'><b>#1[p]</b></color> of his ATK, <color style='color:#f29e38;'><b>#2[p]</b></color> of his Max HP, and <color style='color:#f29e38;'><b>#5[p]</b></color> of the tally of Blade's HP loss in the current battle. At the same time, deals Wind DMG to adjacent targets equal to the sum of <color style='color:#f29e38;'><b>#3[p]</b></color> of his ATK, <color style='color:#f29e38;'><b>#4[p]</b></color> of his Max HP, and <color style='color:#f29e38;'><b>#6[p]</b></color> of the tally of his HP loss in the current battle.<br>The tally of Blade's HP loss in the current battle is capped at <b>#7[p]</b> of his Max HP. This value will be reset and re-accumulated after his Ultimate has been used."
             },
             "Params": [
                 [
@@ -16706,8 +16712,8 @@ var _avatarskill = {
                 "EN": ""
             },
             "Desc": {
-                "CH": "立即攻击敌人，进入战斗后消耗等同于刃生命上限 <b>#2[p]</b> 的生命值，同时对敌方全体造成等同于刃生命上限 <b>#1[p]</b> 的风属性伤害。\n若当前生命值不足，施放秘技时刃的当前生命值降低至1点。",
-                "EN": "Immediately attacks the enemy. After entering combat, consumes <b>#2[p]</b> of Blade's Max HP while dealing Wind DMG equal to <b>#1[p]</b> of his Max HP to all enemies.\nIf Blade's current HP is insufficient, his HP will be reduced to 1 when this Technique is used."
+                "CH": "立即攻击敌人，进入战斗后消耗等同于刃生命上限 <b>#2[p]</b> 的生命值，同时对敌方全体造成等同于刃生命上限 <b>#1[p]</b> 的风属性伤害。<br>若当前生命值不足，施放秘技时刃的当前生命值降低至1点。",
+                "EN": "Immediately attacks the enemy. After entering combat, consumes <b>#2[p]</b> of Blade's Max HP while dealing Wind DMG equal to <b>#1[p]</b> of his Max HP to all enemies.<br>If Blade's current HP is insufficient, his HP will be reduced to 1 when this Technique is used."
             },
             "Params": [
                 [
@@ -16801,8 +16807,8 @@ var _avatarskill = {
                 "EN": "Single Target"
             },
             "Desc": {
-                "CH": "对指定敌方单体造成等同于素裳<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的物理属性伤害。同时最后一击后有 <b>#3[p]</b> 概率发动【剑势】，对目标造成等同于素裳<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力的物理属性<u>附加伤害</u>。\n若该目标处于<u>弱点击破状态</u>，则【剑势】必定发动。",
-                "EN": "Deals Physical DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Sushang's ATK to a single enemy. In addition, there is a <b>#3[p]</b> chance to trigger Sword Stance on the final hit, dealing <u>Additional</u> Physical DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Sushang's ATK to the enemy.\nIf the enemy is inflicted with <u>Weakness Break</u>, Sword Stance is guaranteed to trigger."
+                "CH": "对指定敌方单体造成等同于素裳<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的物理属性伤害。同时最后一击后有 <b>#3[p]</b> 概率发动【剑势】，对目标造成等同于素裳<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力的物理属性<u>附加伤害</u>。<br>若该目标处于<u>弱点击破状态</u>，则【剑势】必定发动。",
+                "EN": "Deals Physical DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Sushang's ATK to a single enemy. In addition, there is a <b>#3[p]</b> chance to trigger Sword Stance on the final hit, dealing <u>Additional</u> Physical DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Sushang's ATK to the enemy.<br>If the enemy is inflicted with <u>Weakness Break</u>, Sword Stance is guaranteed to trigger."
             },
             "Params": [
                 [
@@ -16908,8 +16914,8 @@ var _avatarskill = {
                 "EN": "Single Target"
             },
             "Desc": {
-                "CH": "对指定敌方单体造成等同于素裳<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的物理属性伤害，并使素裳立即行动。同时使其攻击力提高<color style='color:#f29e38;'> <b>#4[p]</b> </color>，且施放战技时额外增加2次【剑势】的发动判定，持续 <b>#2[f]</b> 回合。\n通过额外判定发动的【剑势】伤害为原伤害的 <b>#3[p]</b> 。",
-                "EN": "Deals Physical DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Sushang's ATK to a single enemy target, and she immediately takes action again. In addition, Sushang's ATK increases by <color style='color:#f29e38;'><b>#4[p]</b></color> and using her Skill has 2 extra chances to trigger Sword Stance for <b>#2[f]</b> turn(s).\nSword Stance triggered from the extra chances deals <b>#3[p]</b> of the original DMG."
+                "CH": "对指定敌方单体造成等同于素裳<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的物理属性伤害，并使素裳立即行动。同时使其攻击力提高<color style='color:#f29e38;'> <b>#4[p]</b> </color>，且施放战技时额外增加2次【剑势】的发动判定，持续 <b>#2[f]</b> 回合。<br>通过额外判定发动的【剑势】伤害为原伤害的 <b>#3[p]</b> 。",
+                "EN": "Deals Physical DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Sushang's ATK to a single enemy target, and she immediately takes action again. In addition, Sushang's ATK increases by <color style='color:#f29e38;'><b>#4[p]</b></color> and using her Skill has 2 extra chances to trigger Sword Stance for <b>#2[f]</b> turn(s).<br>Sword Stance triggered from the extra chances deals <b>#3[p]</b> of the original DMG."
             },
             "Params": [
                 [
@@ -17249,8 +17255,8 @@ var _avatarskill = {
                 "EN": "Support"
             },
             "Desc": {
-                "CH": "获得 <b>#1[f]</b> 层【鸣弦号令】，最多持有不超过2层。当驭空持有【鸣弦号令】时，我方全体攻击力提高<color style='color:#f29e38;'> <b>#2[p]</b> </color>，且每次我方目标回合结束时，移除驭空1层【鸣弦号令】。\n驭空施放战技获得【鸣弦号令】的回合，不会移除【鸣弦号令】。",
-                "EN": "Obtains <b>#1[f]</b> stack(s) of \"Roaring Bowstrings\" (to a maximum of 2 stacks). When \"Roaring Bowstrings\" is active, the ATK of all allies increases by <color style='color:#f29e38;'><b>#2[p]</b></color>, and every time an ally's turn (including Yukong's) ends, Yukong loses 1 stack of \"Roaring Bowstrings.\"\nWhen it's the turn where Yukong gains \"Roaring Bowstrings\" by using Skill, \"Roaring Bowstrings\" will not be removed."
+                "CH": "获得 <b>#1[f]</b> 层【鸣弦号令】，最多持有不超过2层。当驭空持有【鸣弦号令】时，我方全体攻击力提高<color style='color:#f29e38;'> <b>#2[p]</b> </color>，且每次我方目标回合结束时，移除驭空1层【鸣弦号令】。<br>驭空施放战技获得【鸣弦号令】的回合，不会移除【鸣弦号令】。",
+                "EN": "Obtains <b>#1[f]</b> stack(s) of \"Roaring Bowstrings\" (to a maximum of 2 stacks). When \"Roaring Bowstrings\" is active, the ATK of all allies increases by <color style='color:#f29e38;'><b>#2[p]</b></color>, and every time an ally's turn (including Yukong's) ends, Yukong loses 1 stack of \"Roaring Bowstrings.\"<br>When it's the turn where Yukong gains \"Roaring Bowstrings\" by using Skill, \"Roaring Bowstrings\" will not be removed."
             },
             "Params": [
                 [
@@ -17576,8 +17582,8 @@ var _avatarskill = {
                 "EN": "Defense"
             },
             "Desc": {
-                "CH": "开启【穷观阵】，使符玄队友所承受的未受护盾抵挡之前的伤害的 <b>#1[p]</b> <u>分摊</u>给符玄，持续 <b>#3[f]</b> 回合。\n处于【穷观阵】的我方全体获得【鉴知】。【鉴知】状态下的我方目标生命上限提高，提高数值等同于符玄生命上限的<color style='color:#f29e38;'> <b>#4[p]</b> </color>，暴击率提高<color style='color:#f29e38;'> <b>#5[p]</b> </color>。\n当符玄陷入<u>无法战斗状态</u>时，【穷观阵】也会被解除。<br>隐藏数值：#2[f]",
-                "EN": "Activates Matrix of Prescience, via which other team members will <u>Distribute</u> <b>#1[p]</b> of the DMG they receive (before this DMG is mitigated by any Shields) to Fu Xuan for <b>#3[f]</b> turn(s).\nWhile affected by Matrix of Prescience, all team members gain the Knowledge effect, which increases their respective Max HP by <color style='color:#f29e38;'><b>#4[p]</b></color> of Fu Xuan's Max HP, and increases CRIT Rate by <color style='color:#f29e38;'><b>#5[p]</b></color>.\nWhen Fu Xuan is <u>knocked down</u>, the Matrix of Prescience will be dispelled.<br>Hidden Stat: #2[f]"
+                "CH": "开启【穷观阵】，使符玄队友所承受的未受护盾抵挡之前的伤害的 <b>#1[p]</b> <u>分摊</u>给符玄，持续 <b>#3[f]</b> 回合。<br>处于【穷观阵】的我方全体获得【鉴知】。【鉴知】状态下的我方目标生命上限提高，提高数值等同于符玄生命上限的<color style='color:#f29e38;'> <b>#4[p]</b> </color>，暴击率提高<color style='color:#f29e38;'> <b>#5[p]</b> </color>。<br>当符玄陷入<u>无法战斗状态</u>时，【穷观阵】也会被解除。<br>隐藏数值：#2[f]",
+                "EN": "Activates Matrix of Prescience, via which other team members will <u>Distribute</u> <b>#1[p]</b> of the DMG they receive (before this DMG is mitigated by any Shields) to Fu Xuan for <b>#3[f]</b> turn(s).<br>While affected by Matrix of Prescience, all team members gain the Knowledge effect, which increases their respective Max HP by <color style='color:#f29e38;'><b>#4[p]</b></color> of Fu Xuan's Max HP, and increases CRIT Rate by <color style='color:#f29e38;'><b>#5[p]</b></color>.<br>When Fu Xuan is <u>knocked down</u>, the Matrix of Prescience will be dispelled.<br>Hidden Stat: #2[f]"
             },
             "Params": [
                 [
@@ -17791,8 +17797,8 @@ var _avatarskill = {
                 "EN": "Restore"
             },
             "Desc": {
-                "CH": "当符玄处于可战斗状态时，为我方全体附加【避厄】。【避厄】状态下的我方目标受到的伤害降低<color style='color:#f29e38;'> <b>#1[p]</b> </color>。\n当符玄当前生命值百分比小于等于 <b>#2[p]</b> 时触发生命回复，使自身回复等同于已损失生命值<color style='color:#f29e38;'> <b>#3[p]</b> </color>的生命值，受到致命攻击时无法触发该效果。该效果初始拥有1次触发次数，最多可拥有2次触发次数。",
-                "EN": "While Fu Xuan is still active in battle, Misfortune Avoidance is applied to the entire team. With Misfortune Avoidance, allies take <color style='color:#f29e38;'><b>#1[p]</b></color> less DMG.\nWhen Fu Xuan's current HP falls to <b>#2[p]</b> of her Max HP or less, HP Restore will be triggered for Fu Xuan, restoring her HP by <color style='color:#f29e38;'><b>#3[p]</b></color> of the amount of HP she is currently missing. This effect cannot be triggered if she receives a killing blow. This effect has 1 trigger count by default and can hold up to a maximum of 2 trigger counts."
+                "CH": "当符玄处于可战斗状态时，为我方全体附加【避厄】。【避厄】状态下的我方目标受到的伤害降低<color style='color:#f29e38;'> <b>#1[p]</b> </color>。<br>当符玄当前生命值百分比小于等于 <b>#2[p]</b> 时触发生命回复，使自身回复等同于已损失生命值<color style='color:#f29e38;'> <b>#3[p]</b> </color>的生命值，受到致命攻击时无法触发该效果。该效果初始拥有1次触发次数，最多可拥有2次触发次数。",
+                "EN": "While Fu Xuan is still active in battle, Misfortune Avoidance is applied to the entire team. With Misfortune Avoidance, allies take <color style='color:#f29e38;'><b>#1[p]</b></color> less DMG.<br>When Fu Xuan's current HP falls to <b>#2[p]</b> of her Max HP or less, HP Restore will be triggered for Fu Xuan, restoring her HP by <color style='color:#f29e38;'><b>#3[p]</b></color> of the amount of HP she is currently missing. This effect cannot be triggered if she receives a killing blow. This effect has 1 trigger count by default and can hold up to a maximum of 2 trigger counts."
             },
             "Params": [
                 [
@@ -18210,8 +18216,8 @@ var _avatarskill = {
                 "EN": "Single Target"
             },
             "Desc": {
-                "CH": "彦卿处于【智剑连心】效果时，受到攻击的概率降低，并为自身提高<color style='color:#f29e38;'> <b>#1[p]</b> </color>暴击率和<color style='color:#f29e38;'> <b>#2[p]</b> </color>暴击伤害。对敌方目标施放攻击后，有<color style='color:#f29e38;'> <b>#3[p]</b> </color>的<u>固定概率</u>发动<u>追加攻击</u>，对目标造成等同于彦卿<color style='color:#f29e38;'> <b>#4[p]</b> </color>攻击力的冰属性伤害，并有 <b>#6[p]</b> 的<u>基础概率</u>使其陷入冻结状态，持续1回合。\n冻结状态下，敌方目标不能行动，同时每回合开始时受到等同于彦卿<color style='color:#f29e38;'> <b>#5[p]</b> </color>攻击力的冰属性<u>附加伤害</u>。\n当彦卿受到伤害后，【智剑连心】将会消失。",
-                "EN": "When Soulsteel Sync is active, Yanqing is less likely to be attacked by enemies. Yanqing's CRIT Rate increases by <color style='color:#f29e38;'><b>#1[p]</b></color> and his CRIT DMG increases by <color style='color:#f29e38;'><b>#2[p]</b></color>. After Yanqing attacks an enemy, there is a <color style='color:#f29e38;'><b>#3[p]</b></color> <u>fixed chance</u> to perform a <u>follow-up attack</u>, dealing Ice DMG equal to <color style='color:#f29e38;'><b>#4[p]</b></color> of Yanqing's ATK to the enemy, which has a <b>#6[p]</b> <u>base chance</u> to Freeze the enemy for 1 turn.\nThe Frozen target cannot take action and receives <u>Additional</u> Ice DMG equal to <color style='color:#f29e38;'><b>#5[p]</b></color> of Yanqing's ATK at the beginning of each turn.\nWhen Yanqing receives DMG, the Soulsteel Sync effect will disappear."
+                "CH": "彦卿处于【智剑连心】效果时，受到攻击的概率降低，并为自身提高<color style='color:#f29e38;'> <b>#1[p]</b> </color>暴击率和<color style='color:#f29e38;'> <b>#2[p]</b> </color>暴击伤害。对敌方目标施放攻击后，有<color style='color:#f29e38;'> <b>#3[p]</b> </color>的<u>固定概率</u>发动<u>追加攻击</u>，对目标造成等同于彦卿<color style='color:#f29e38;'> <b>#4[p]</b> </color>攻击力的冰属性伤害，并有 <b>#6[p]</b> 的<u>基础概率</u>使其陷入冻结状态，持续1回合。<br>冻结状态下，敌方目标不能行动，同时每回合开始时受到等同于彦卿<color style='color:#f29e38;'> <b>#5[p]</b> </color>攻击力的冰属性<u>附加伤害</u>。<br>当彦卿受到伤害后，【智剑连心】将会消失。",
+                "EN": "When Soulsteel Sync is active, Yanqing is less likely to be attacked by enemies. Yanqing's CRIT Rate increases by <color style='color:#f29e38;'><b>#1[p]</b></color> and his CRIT DMG increases by <color style='color:#f29e38;'><b>#2[p]</b></color>. After Yanqing attacks an enemy, there is a <color style='color:#f29e38;'><b>#3[p]</b></color> <u>fixed chance</u> to perform a <u>follow-up attack</u>, dealing Ice DMG equal to <color style='color:#f29e38;'><b>#4[p]</b></color> of Yanqing's ATK to the enemy, which has a <b>#6[p]</b> <u>base chance</u> to Freeze the enemy for 1 turn.<br>The Frozen target cannot take action and receives <u>Additional</u> Ice DMG equal to <color style='color:#f29e38;'><b>#5[p]</b></color> of Yanqing's ATK at the beginning of each turn.<br>When Yanqing receives DMG, the Soulsteel Sync effect will disappear."
             },
             "Params": [
                 [
@@ -19122,8 +19128,8 @@ var _avatarskill = {
                 "EN": "Restore"
             },
             "Desc": {
-                "CH": "立即为我方全体回复等同于白露<color style='color:#f29e38;'> <b>#1[p]</b> </color>生命上限+<color style='color:#f29e38;'> <b>#2[f]</b> </color>的生命值。\n对于没有【生息】的我方目标，白露使其附上【生息】，对于已拥有【生息】的我方目标，白露使其已有的【生息】持续时间延长1回合。\n【生息】可持续 <b>#3[f]</b> 回合，该效果不可叠加。",
-                "EN": "Heals all allies for <color style='color:#f29e38;'><b>#1[p]</b></color> of Bailu's Max HP plus <color style='color:#f29e38;'><b>#2[f]</b></color>.\nBailu applies Invigoration to allies that are not already Invigorated. For those already Invigorated, Bailu extends the duration of their Invigoration by 1 turn.\nThe effect of Invigoration can last for <b>#3[f]</b> turn(s). This effect cannot stack."
+                "CH": "立即为我方全体回复等同于白露<color style='color:#f29e38;'> <b>#1[p]</b> </color>生命上限+<color style='color:#f29e38;'> <b>#2[f]</b> </color>的生命值。<br>对于没有【生息】的我方目标，白露使其附上【生息】，对于已拥有【生息】的我方目标，白露使其已有的【生息】持续时间延长1回合。<br>【生息】可持续 <b>#3[f]</b> 回合，该效果不可叠加。",
+                "EN": "Heals all allies for <color style='color:#f29e38;'><b>#1[p]</b></color> of Bailu's Max HP plus <color style='color:#f29e38;'><b>#2[f]</b></color>.<br>Bailu applies Invigoration to allies that are not already Invigorated. For those already Invigorated, Bailu extends the duration of their Invigoration by 1 turn.<br>The effect of Invigoration can last for <b>#3[f]</b> turn(s). This effect cannot stack."
             },
             "Params": [
                 [
@@ -19552,8 +19558,8 @@ var _avatarskill = {
                 "EN": "Enhance"
             },
             "Desc": {
-                "CH": "使普攻的效果得到强化，最多可连续强化3次，施放本技能不消耗战技点且不视为使用战技。\n强化1次，【泽芝】变为【瞬华】。\n强化2次，【泽芝】变为【天矢阴】。\n强化3次，【泽芝】变为【盘拏耀跃】。\n施放【天矢阴】或【盘拏耀跃】时，从第4段攻击开始每段攻击前获得1层【叱咤】，使丹恒•饮月的暴击伤害提高<color style='color:#f29e38;'> <b>#1[p]</b> </color>，该效果最多叠加 <b>#2[f]</b> 层，持续至自身回合结束。",
-                "EN": "Enhances Basic ATK. Enhancements may be applied up to 3 times consecutively. Using this ability does not consume Skill Points and is not considered as using a Skill.\nEnhanced once, Beneficent Lotus becomes Transcendence.\nEnhanced twice, Beneficent Lotus becomes Divine Spear.\nEnhanced thrice, Beneficent Lotus becomes Fulgurant Leap.\nWhen using Divine Spear or Fulgurant Leap, starting from the fourth hit, 1 stack of Outroar is gained before every hit. Each stack of Outroar increases Dan Heng • Imbibitor Lunae's CRIT DMG by <color style='color:#f29e38;'><b>#1[p]</b></color>, for a max of <b>#2[f]</b> stacks. These stacks last until the end of his turn."
+                "CH": "使普攻的效果得到强化，最多可连续强化3次，施放本技能不消耗战技点且不视为使用战技。<br>强化1次，【泽芝】变为【瞬华】。<br>强化2次，【泽芝】变为【天矢阴】。<br>强化3次，【泽芝】变为【盘拏耀跃】。<br>施放【天矢阴】或【盘拏耀跃】时，从第4段攻击开始每段攻击前获得1层【叱咤】，使丹恒•饮月的暴击伤害提高<color style='color:#f29e38;'> <b>#1[p]</b> </color>，该效果最多叠加 <b>#2[f]</b> 层，持续至自身回合结束。",
+                "EN": "Enhances Basic ATK. Enhancements may be applied up to 3 times consecutively. Using this ability does not consume Skill Points and is not considered as using a Skill.<br>Enhanced once, Beneficent Lotus becomes Transcendence.<br>Enhanced twice, Beneficent Lotus becomes Divine Spear.<br>Enhanced thrice, Beneficent Lotus becomes Fulgurant Leap.<br>When using Divine Spear or Fulgurant Leap, starting from the fourth hit, 1 stack of Outroar is gained before every hit. Each stack of Outroar increases Dan Heng • Imbibitor Lunae's CRIT DMG by <color style='color:#f29e38;'><b>#1[p]</b></color>, for a max of <b>#2[f]</b> stacks. These stacks last until the end of his turn."
             },
             "Params": [
                 [
@@ -19644,8 +19650,8 @@ var _avatarskill = {
                 "EN": "Blast"
             },
             "Desc": {
-                "CH": "施放3段攻击对指定敌方单体造成等同于丹恒•饮月<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的虚数属性伤害，同时对其相邻目标造成等同于丹恒•饮月<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力的虚数属性伤害。并使自身获得 <b>#3[f]</b> 个【逆鳞】。\n【逆鳞】最多持有 <b>#4[f]</b> 个，可用来抵扣丹恒•饮月的战技点消耗。消耗【逆鳞】视为消耗战技点。",
-                "EN": "Uses a 3-hit attack and deals Imaginary DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Dan Heng • Imbibitor Lunae's ATK to a single enemy target. At the same time, deals Imaginary DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Dan Heng • Imbibitor Lunae's ATK to adjacent targets. Then, obtains <b>#3[f]</b> Squama Sacrosancta.\nIt's possible to hold up to <b>#4[f]</b> Squama Sacrosancta, which can be used to offset Dan Heng • Imbibitor Lunae's consumption of skill points. Consuming Squama Sacrosancta is considered equivalent to consuming skill points."
+                "CH": "施放3段攻击对指定敌方单体造成等同于丹恒•饮月<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的虚数属性伤害，同时对其相邻目标造成等同于丹恒•饮月<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力的虚数属性伤害。并使自身获得 <b>#3[f]</b> 个【逆鳞】。<br>【逆鳞】最多持有 <b>#4[f]</b> 个，可用来抵扣丹恒•饮月的战技点消耗。消耗【逆鳞】视为消耗战技点。",
+                "EN": "Uses a 3-hit attack and deals Imaginary DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Dan Heng • Imbibitor Lunae's ATK to a single enemy target. At the same time, deals Imaginary DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Dan Heng • Imbibitor Lunae's ATK to adjacent targets. Then, obtains <b>#3[f]</b> Squama Sacrosancta.<br>It's possible to hold up to <b>#4[f]</b> Squama Sacrosancta, which can be used to offset Dan Heng • Imbibitor Lunae's consumption of skill points. Consuming Squama Sacrosancta is considered equivalent to consuming skill points."
             },
             "Params": [
                 [
@@ -20079,8 +20085,8 @@ var _avatarskill = {
                 "EN": "Single Target"
             },
             "Desc": {
-                "CH": "对指定敌方单体造成等同于雪衣<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的量子属性伤害，本次攻击无视弱点属性削减敌方单体的韧性。击破弱点时，触发量子属性的弱点击破效果。\n在本次攻击中，削减的韧性越多，造成的伤害越高，最多提高<color style='color:#f29e38;'> <b>#3[p]</b> </color>。<br>隐藏数值：#2[f]",
-                "EN": "Deals Quantum DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Xueyi's ATK to a single target enemy. This attack ignores Weakness Types and reduces the enemy's Toughness. When the enemy's Weakness is Broken, the Quantum Weakness Break effect is triggered.\nIn this attack, the more Toughness is reduced, the higher the DMG will be dealt, up to a max of <color style='color:#f29e38;'><b>#3[p]</b></color> increase.<br>Hidden Stat: #2[f]"
+                "CH": "对指定敌方单体造成等同于雪衣<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的量子属性伤害，本次攻击无视弱点属性削减敌方单体的韧性。击破弱点时，触发量子属性的弱点击破效果。<br>在本次攻击中，削减的韧性越多，造成的伤害越高，最多提高<color style='color:#f29e38;'> <b>#3[p]</b> </color>。<br>隐藏数值：#2[f]",
+                "EN": "Deals Quantum DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Xueyi's ATK to a single target enemy. This attack ignores Weakness Types and reduces the enemy's Toughness. When the enemy's Weakness is Broken, the Quantum Weakness Break effect is triggered.<br>In this attack, the more Toughness is reduced, the higher the DMG will be dealt, up to a max of <color style='color:#f29e38;'><b>#3[p]</b></color> increase.<br>Hidden Stat: #2[f]"
             },
             "Params": [
                 [
@@ -20187,8 +20193,8 @@ var _avatarskill = {
                 "EN": "Bounce"
             },
             "Desc": {
-                "CH": "雪衣施放攻击削减敌方韧性时，会叠加【恶报】层数，削减的韧性越多叠加【恶报】层数越多，可以叠加 <b>#1[f]</b> 层。\n当雪衣的队友施放攻击削减敌方韧性后，雪衣叠加 <b>#3[f]</b> 层【恶报】。\n当【恶报】叠加至上限时消耗当前所有【恶报】，立即对敌方目标发动<u>追加攻击</u>，造成3次伤害，每次伤害对敌方随机单体造成等同于雪衣<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力的量子属性伤害。本次追加攻击无法叠加【恶报】。",
-                "EN": "When Xueyi reduces enemy Toughness with attacks, Karma will be stacked. The more Toughness is reduced, the more stacks of Karma are added, up to <b>#1[f]</b> stacks.\nWhen Xueyi's allies reduce enemy Toughness with attacks, Xueyi gains <b>#3[f]</b> stack(s) of Karma.\nWhen Karma reaches the max number of stacks, consumes all current Karma stacks and immediately launches a <u>follow-up attack</u> against an enemy target, dealing DMG for 3 times, with each time dealing Quantum DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Xueyi's ATK to a single random enemy. This follow-up attack will not add Karma stacks."
+                "CH": "雪衣施放攻击削减敌方韧性时，会叠加【恶报】层数，削减的韧性越多叠加【恶报】层数越多，可以叠加 <b>#1[f]</b> 层。<br>当雪衣的队友施放攻击削减敌方韧性后，雪衣叠加 <b>#3[f]</b> 层【恶报】。<br>当【恶报】叠加至上限时消耗当前所有【恶报】，立即对敌方目标发动<u>追加攻击</u>，造成3次伤害，每次伤害对敌方随机单体造成等同于雪衣<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力的量子属性伤害。本次追加攻击无法叠加【恶报】。",
+                "EN": "When Xueyi reduces enemy Toughness with attacks, Karma will be stacked. The more Toughness is reduced, the more stacks of Karma are added, up to <b>#1[f]</b> stacks.<br>When Xueyi's allies reduce enemy Toughness with attacks, Xueyi gains <b>#3[f]</b> stack(s) of Karma.<br>When Karma reaches the max number of stacks, consumes all current Karma stacks and immediately launches a <u>follow-up attack</u> against an enemy target, dealing DMG for 3 times, with each time dealing Quantum DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Xueyi's ATK to a single random enemy. This follow-up attack will not add Karma stacks."
             },
             "Params": [
                 [
@@ -20420,8 +20426,8 @@ var _avatarskill = {
                 "EN": "Single Target"
             },
             "Desc": {
-                "CH": "对指定敌方单体造成等同于寒鸦<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的物理属性伤害，并使其陷入【承负】状态。\n每当我方目标对【承负】状态下的敌方目标施放2次普攻、战技、终结技后，立即为我方恢复1个战技点。【承负】仅对最新被施加的目标生效，并会在触发 <b>#2[f]</b> 次战技点恢复效果后自动解除。",
-                "EN": "Deals Physical DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Hanya's ATK to a single target enemy, then applies Burden to them.\nFor every 2 Basic ATKs, Skills, or Ultimates allies use on an enemy with Burden, allies will immediately recover 1 Skill Point. Burden is only active on the latest target it is applied to, and will be dispelled automatically after the Skill Point recovery effect has been triggered <b>#2[f]</b> times."
+                "CH": "对指定敌方单体造成等同于寒鸦<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的物理属性伤害，并使其陷入【承负】状态。<br>每当我方目标对【承负】状态下的敌方目标施放2次普攻、战技、终结技后，立即为我方恢复1个战技点。【承负】仅对最新被施加的目标生效，并会在触发 <b>#2[f]</b> 次战技点恢复效果后自动解除。",
+                "EN": "Deals Physical DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Hanya's ATK to a single target enemy, then applies Burden to them.<br>For every 2 Basic ATKs, Skills, or Ultimates allies use on an enemy with Burden, allies will immediately recover 1 Skill Point. Burden is only active on the latest target it is applied to, and will be dispelled automatically after the Skill Point recovery effect has been triggered <b>#2[f]</b> times."
             },
             "Params": [
                 [
@@ -20913,8 +20919,8 @@ var _avatarskill = {
                 "EN": "Enhance"
             },
             "Desc": {
-                "CH": "在两种攻击模式中选择其一挥出全力一击。\n【全胜•再见安打】：对指定敌方单体造成等同于开拓者<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的物理属性伤害。\n【全胜•安息全垒打】：对指定敌方单体造成等同于开拓者<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力的物理属性伤害，并对其相邻目标造成等同于开拓者<color style='color:#f29e38;'> <b>#3[p]</b> </color>攻击力的物理属性伤害。",
-                "EN": "Choose between two attack modes to deliver a full strike.\nBlowout: Farewell Hit deals Physical DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of the Trailblazer's ATK to a single enemy.\nBlowout: RIP Home Run deals Physical DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of the Trailblazer's ATK to a single enemy, and Physical DMG equal to <color style='color:#f29e38;'><b>#3[p]</b></color> of the Trailblazer's ATK to enemies adjacent to it."
+                "CH": "在两种攻击模式中选择其一挥出全力一击。<br>【全胜•再见安打】：对指定敌方单体造成等同于开拓者<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的物理属性伤害。<br>【全胜•安息全垒打】：对指定敌方单体造成等同于开拓者<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力的物理属性伤害，并对其相邻目标造成等同于开拓者<color style='color:#f29e38;'> <b>#3[p]</b> </color>攻击力的物理属性伤害。",
+                "EN": "Choose between two attack modes to deliver a full strike.<br>Blowout: Farewell Hit deals Physical DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of the Trailblazer's ATK to a single enemy.<br>Blowout: RIP Home Run deals Physical DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of the Trailblazer's ATK to a single enemy, and Physical DMG equal to <color style='color:#f29e38;'><b>#3[p]</b></color> of the Trailblazer's ATK to enemies adjacent to it."
             },
             "Params": [
                 [
@@ -21487,8 +21493,8 @@ var _avatarskill = {
                 "EN": "Enhance"
             },
             "Desc": {
-                "CH": "在两种攻击模式中选择其一挥出全力一击。\n【全胜•再见安打】：对指定敌方单体造成等同于开拓者<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的物理属性伤害。\n【全胜•安息全垒打】：对指定敌方单体造成等同于开拓者<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力的物理属性伤害，并对其相邻目标造成等同于开拓者<color style='color:#f29e38;'> <b>#3[p]</b> </color>攻击力的物理属性伤害。",
-                "EN": "Choose between two attack modes to deliver a full strike.\nBlowout: Farewell Hit deals Physical DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of the Trailblazer's ATK to a single enemy.\nBlowout: RIP Home Run deals Physical DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of the Trailblazer's ATK to a single enemy, and Physical DMG equal to <color style='color:#f29e38;'><b>#3[p]</b></color> of the Trailblazer's ATK to enemies adjacent to it."
+                "CH": "在两种攻击模式中选择其一挥出全力一击。<br>【全胜•再见安打】：对指定敌方单体造成等同于开拓者<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的物理属性伤害。<br>【全胜•安息全垒打】：对指定敌方单体造成等同于开拓者<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力的物理属性伤害，并对其相邻目标造成等同于开拓者<color style='color:#f29e38;'> <b>#3[p]</b> </color>攻击力的物理属性伤害。",
+                "EN": "Choose between two attack modes to deliver a full strike.<br>Blowout: Farewell Hit deals Physical DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of the Trailblazer's ATK to a single enemy.<br>Blowout: RIP Home Run deals Physical DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of the Trailblazer's ATK to a single enemy, and Physical DMG equal to <color style='color:#f29e38;'><b>#3[p]</b></color> of the Trailblazer's ATK to enemies adjacent to it."
             },
             "Params": [
                 [
@@ -22252,8 +22258,8 @@ var _avatarskill = {
                 "EN": "Enhance"
             },
             "Desc": {
-                "CH": "每受到1次攻击，叠加1层【灼热意志】，最多可叠加 <b>#3[f]</b> 层。\n【灼热意志】层数不低于4时，普攻将获得强化，对指定敌方单体及其相邻目标同时造成伤害。\n开拓者施放普攻、战技、终结技后，为我方全体提供能够抵消等同于开拓者<color style='color:#f29e38;'> <b>#1[p]</b> </color>防御力+<color style='color:#f29e38;'> <b>#4[f]</b> </color>伤害的护盾，持续 <b>#2[f]</b> 回合。",
-                "EN": "Each time the Trailblazer is hit, they gain 1 stack of Magma Will for a max of <b>#3[f]</b> stack(s).\nWhen Magma Will has no fewer than 4 stacks, the Trailblazer's Basic ATK becomes enhanced, dealing DMG to a single enemy and enemies adjacent to it.\nWhen the Trailblazer uses Basic ATK, Skill, or Ultimate, apply a Shield to all allies that absorbs DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of the Trailblazer's DEF plus <color style='color:#f29e38;'><b>#4[f]</b></color>. The Shield lasts for <b>#2[f]</b> turn(s)."
+                "CH": "每受到1次攻击，叠加1层【灼热意志】，最多可叠加 <b>#3[f]</b> 层。<br>【灼热意志】层数不低于4时，普攻将获得强化，对指定敌方单体及其相邻目标同时造成伤害。<br>开拓者施放普攻、战技、终结技后，为我方全体提供能够抵消等同于开拓者<color style='color:#f29e38;'> <b>#1[p]</b> </color>防御力+<color style='color:#f29e38;'> <b>#4[f]</b> </color>伤害的护盾，持续 <b>#2[f]</b> 回合。",
+                "EN": "Each time the Trailblazer is hit, they gain 1 stack of Magma Will for a max of <b>#3[f]</b> stack(s).<br>When Magma Will has no fewer than 4 stacks, the Trailblazer's Basic ATK becomes enhanced, dealing DMG to a single enemy and enemies adjacent to it.<br>When the Trailblazer uses Basic ATK, Skill, or Ultimate, apply a Shield to all allies that absorbs DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of the Trailblazer's DEF plus <color style='color:#f29e38;'><b>#4[f]</b></color>. The Shield lasts for <b>#2[f]</b> turn(s)."
             },
             "Params": [
                 [
@@ -22770,8 +22776,8 @@ var _avatarskill = {
                 "EN": "Enhance"
             },
             "Desc": {
-                "CH": "每受到1次攻击，叠加1层【灼热意志】，最多可叠加 <b>#3[f]</b> 层。\n【灼热意志】层数不低于4时，普攻将获得强化，对指定敌方单体及其相邻目标同时造成伤害。\n开拓者施放普攻、战技、终结技后，为我方全体提供能够抵消等同于开拓者<color style='color:#f29e38;'> <b>#1[p]</b> </color>防御力+<color style='color:#f29e38;'> <b>#4[f]</b> </color>伤害的护盾，持续 <b>#2[f]</b> 回合。",
-                "EN": "Each time the Trailblazer is hit, they gain 1 stack of Magma Will for a max of <b>#3[f]</b> stack(s).\nWhen Magma Will has no fewer than 4 stacks, the Trailblazer's Basic ATK becomes enhanced, dealing DMG to a single enemy and enemies adjacent to it.\nWhen the Trailblazer uses Basic ATK, Skill, or Ultimate, apply a Shield to all allies that absorbs DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of the Trailblazer's DEF plus <color style='color:#f29e38;'><b>#4[f]</b></color>. The Shield lasts for <b>#2[f]</b> turn(s)."
+                "CH": "每受到1次攻击，叠加1层【灼热意志】，最多可叠加 <b>#3[f]</b> 层。<br>【灼热意志】层数不低于4时，普攻将获得强化，对指定敌方单体及其相邻目标同时造成伤害。<br>开拓者施放普攻、战技、终结技后，为我方全体提供能够抵消等同于开拓者<color style='color:#f29e38;'> <b>#1[p]</b> </color>防御力+<color style='color:#f29e38;'> <b>#4[f]</b> </color>伤害的护盾，持续 <b>#2[f]</b> 回合。",
+                "EN": "Each time the Trailblazer is hit, they gain 1 stack of Magma Will for a max of <b>#3[f]</b> stack(s).<br>When Magma Will has no fewer than 4 stacks, the Trailblazer's Basic ATK becomes enhanced, dealing DMG to a single enemy and enemies adjacent to it.<br>When the Trailblazer uses Basic ATK, Skill, or Ultimate, apply a Shield to all allies that absorbs DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of the Trailblazer's DEF plus <color style='color:#f29e38;'><b>#4[f]</b></color>. The Shield lasts for <b>#2[f]</b> turn(s)."
             },
             "Params": [
                 [
@@ -23020,8 +23026,8 @@ var _avatarskill = {
                 "EN": "Single Target"
             },
             "Desc": {
-                "CH": "有<color style='color:#f29e38;'> <b>#2[p]</b> </color>的<u>基础概率</u>为指定敌方单体目标添加1个场上我方目标持有属性的弱点，且该弱点对应属性的抗性降低 <b>#4[p]</b> ，持续 <b>#3[f]</b> 回合。若添加的是敌方目标原有属性的弱点，则不会触发对应属性的抗性降低效果。\n单个敌方目标仅能被银狼添加1个弱点，当银狼对其再次添加弱点时，仅保留最新添加的弱点。\n有 <b>#5[p]</b> 的<u>基础概率</u>额外使该目标的全属性抗性降低<color style='color:#f29e38;'> <b>#6[p]</b> </color>，持续 <b>#7[f]</b> 回合。\n对该目标造成等同于银狼<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的量子属性伤害。",
-                "EN": "There is a <color style='color:#f29e38;'><b>#2[p]</b></color> <u>base chance</u> to add 1 Weakness of an on-field character's Type to the target enemy. This also reduces the enemy's DMG RES to that Weakness Type by <b>#4[p]</b> for <b>#3[f]</b> turn(s). If the enemy already has that Type Weakness, the effect of DMG RES reduction to that Weakness Type will not be triggered.\nEach enemy can only have 1 Weakness implanted by Silver Wolf. When Silver Wolf implants another Weakness to the target, only the most recent implanted Weakness will be kept.\nIn addition, there is a <b>#5[p]</b> <u>base chance</u> to further reduce the All-Type RES of the enemy by <color style='color:#f29e38;'><b>#6[p]</b></color> for <b>#7[f]</b> turn(s).\nDeals Quantum DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Silver Wolf's ATK to this enemy."
+                "CH": "有<color style='color:#f29e38;'> <b>#2[p]</b> </color>的<u>基础概率</u>为指定敌方单体目标添加1个场上我方目标持有属性的弱点，且该弱点对应属性的抗性降低 <b>#4[p]</b> ，持续 <b>#3[f]</b> 回合。若添加的是敌方目标原有属性的弱点，则不会触发对应属性的抗性降低效果。<br>单个敌方目标仅能被银狼添加1个弱点，当银狼对其再次添加弱点时，仅保留最新添加的弱点。<br>有 <b>#5[p]</b> 的<u>基础概率</u>额外使该目标的全属性抗性降低<color style='color:#f29e38;'> <b>#6[p]</b> </color>，持续 <b>#7[f]</b> 回合。<br>对该目标造成等同于银狼<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的量子属性伤害。",
+                "EN": "There is a <color style='color:#f29e38;'><b>#2[p]</b></color> <u>base chance</u> to add 1 Weakness of an on-field character's Type to the target enemy. This also reduces the enemy's DMG RES to that Weakness Type by <b>#4[p]</b> for <b>#3[f]</b> turn(s). If the enemy already has that Type Weakness, the effect of DMG RES reduction to that Weakness Type will not be triggered.<br>Each enemy can only have 1 Weakness implanted by Silver Wolf. When Silver Wolf implants another Weakness to the target, only the most recent implanted Weakness will be kept.<br>In addition, there is a <b>#5[p]</b> <u>base chance</u> to further reduce the All-Type RES of the enemy by <color style='color:#f29e38;'><b>#6[p]</b></color> for <b>#7[f]</b> turn(s).<br>Deals Quantum DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Silver Wolf's ATK to this enemy."
             },
             "Params": [
                 [
@@ -23310,8 +23316,8 @@ var _avatarskill = {
                 "EN": "Impair"
             },
             "Desc": {
-                "CH": "银狼能够制造：攻击力降低<color style='color:#f29e38;'> <b>#1[p]</b> </color>、防御力降低<color style='color:#f29e38;'> <b>#2[p]</b> </color>、速度降低<color style='color:#f29e38;'> <b>#3[p]</b> </color>3种【缺陷】。\n银狼每次施放攻击后有<color style='color:#f29e38;'> <b>#4[p]</b> </color>的<u>基础概率</u>给受到攻击的敌方目标植入1个随机【缺陷】，持续 <b>#5[f]</b> 回合。",
-                "EN": "Silver Wolf can create three types of Bugs: reduce ATK by <color style='color:#f29e38;'><b>#1[p]</b></color>, reduce DEF by <color style='color:#f29e38;'><b>#2[p]</b></color>, and reduce SPD by <color style='color:#f29e38;'><b>#3[p]</b></color>.\nEvery time Silver Wolf attacks, she has a <color style='color:#f29e38;'><b>#4[p]</b></color> <u>base chance</u> to implant a random Bug that lasts for <b>#5[f]</b> turn(s) in an enemy target."
+                "CH": "银狼能够制造：攻击力降低<color style='color:#f29e38;'> <b>#1[p]</b> </color>、防御力降低<color style='color:#f29e38;'> <b>#2[p]</b> </color>、速度降低<color style='color:#f29e38;'> <b>#3[p]</b> </color>3种【缺陷】。<br>银狼每次施放攻击后有<color style='color:#f29e38;'> <b>#4[p]</b> </color>的<u>基础概率</u>给受到攻击的敌方目标植入1个随机【缺陷】，持续 <b>#5[f]</b> 回合。",
+                "EN": "Silver Wolf can create three types of Bugs: reduce ATK by <color style='color:#f29e38;'><b>#1[p]</b></color>, reduce DEF by <color style='color:#f29e38;'><b>#2[p]</b></color>, and reduce SPD by <color style='color:#f29e38;'><b>#3[p]</b></color>.<br>Every time Silver Wolf attacks, she has a <color style='color:#f29e38;'><b>#4[p]</b></color> <u>base chance</u> to implant a random Bug that lasts for <b>#5[f]</b> turn(s) in an enemy target."
             },
             "Params": [
                 [
@@ -23606,8 +23612,8 @@ var _avatarskill = {
                 "EN": "AoE"
             },
             "Desc": {
-                "CH": "有 <b>#1[p]</b> 的<u>基础概率</u>使敌方每个单体目标陷入【通解】状态，同时对敌方全体造成等同于佩拉<color style='color:#f29e38;'> <b>#4[p]</b> </color>攻击力的冰属性伤害。\n【通解】状态下，敌方目标防御力降低<color style='color:#f29e38;'> <b>#2[p]</b> </color>，持续 <b>#3[f]</b> 回合。",
-                "EN": "Deals Ice DMG equal to <color style='color:#f29e38;'><b>#4[p]</b></color> of Pela's ATK to all enemies, with a <b>#1[p]</b> <u>base chance</u> to inflict Exposed on all enemies.\nWhen Exposed, enemies' DEF is reduced by <color style='color:#f29e38;'><b>#2[p]</b></color> for <b>#3[f]</b> turn(s)."
+                "CH": "有 <b>#1[p]</b> 的<u>基础概率</u>使敌方每个单体目标陷入【通解】状态，同时对敌方全体造成等同于佩拉<color style='color:#f29e38;'> <b>#4[p]</b> </color>攻击力的冰属性伤害。<br>【通解】状态下，敌方目标防御力降低<color style='color:#f29e38;'> <b>#2[p]</b> </color>，持续 <b>#3[f]</b> 回合。",
+                "EN": "Deals Ice DMG equal to <color style='color:#f29e38;'><b>#4[p]</b></color> of Pela's ATK to all enemies, with a <b>#1[p]</b> <u>base chance</u> to inflict Exposed on all enemies.<br>When Exposed, enemies' DEF is reduced by <color style='color:#f29e38;'><b>#2[p]</b></color> for <b>#3[f]</b> turn(s)."
             },
             "Params": [
                 [
@@ -23729,8 +23735,8 @@ var _avatarskill = {
                 "EN": "Support"
             },
             "Desc": {
-                "CH": "为指定我方单体提供【赐福】，使其攻击力提高<color style='color:#f29e38;'> <b>#2[p]</b> </color>，最高不超过停云当前攻击力的<color style='color:#f29e38;'> <b>#4[p]</b> </color>。\n获得【赐福】的目标施放攻击后，会额外造成1次等同于其自身<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的雷属性<u>附加伤害</u>。\n【赐福】持续 <b>#3[f]</b> 回合且仅对停云战技最新的施放目标生效。",
-                "EN": "Grants a single ally with Benediction to increase their ATK by <color style='color:#f29e38;'><b>#2[p]</b></color>, up to <color style='color:#f29e38;'><b>#4[p]</b></color> of Tingyun's current ATK.\nWhen the ally with Benediction attacks, they will deal <u>Additional</u> Lightning DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of that ally's ATK for 1 time.\nBenediction lasts for <b>#3[f]</b> turn(s) and is only effective on the most recent receiver of Tingyun's Skill."
+                "CH": "为指定我方单体提供【赐福】，使其攻击力提高<color style='color:#f29e38;'> <b>#2[p]</b> </color>，最高不超过停云当前攻击力的<color style='color:#f29e38;'> <b>#4[p]</b> </color>。<br>获得【赐福】的目标施放攻击后，会额外造成1次等同于其自身<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的雷属性<u>附加伤害</u>。<br>【赐福】持续 <b>#3[f]</b> 回合且仅对停云战技最新的施放目标生效。",
+                "EN": "Grants a single ally with Benediction to increase their ATK by <color style='color:#f29e38;'><b>#2[p]</b></color>, up to <color style='color:#f29e38;'><b>#4[p]</b></color> of Tingyun's current ATK.<br>When the ally with Benediction attacks, they will deal <u>Additional</u> Lightning DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of that ally's ATK for 1 time.<br>Benediction lasts for <b>#3[f]</b> turn(s) and is only effective on the most recent receiver of Tingyun's Skill."
             },
             "Params": [
                 [
@@ -23851,8 +23857,8 @@ var _avatarskill = {
                 "EN": ""
             },
             "Desc": {
-                "CH": "立即攻击敌人，进入战斗后对敌方随机单体造成等同于娜塔莎 <b>#4[p]</b> 攻击力的物理属性伤害，并有 <b>#1[p]</b> 的<u>基础概率</u>使敌方每个单体目标陷入虚弱状态。\n虚弱状态下的敌方目标对我方造成的伤害降低 <b>#2[p]</b> ，持续 <b>#3[f]</b> 回合。",
-                "EN": "Immediately attacks the enemy. After entering battle, deals Physical DMG equal to <b>#4[p]</b> of Natasha's ATK to a random enemy, with a <b>#1[p]</b> <u>base chance</u> to Weaken all enemies.\nWhile Weakened, enemies deal <b>#2[p]</b> less DMG to allies for <b>#3[f]</b> turn(s)."
+                "CH": "立即攻击敌人，进入战斗后对敌方随机单体造成等同于娜塔莎 <b>#4[p]</b> 攻击力的物理属性伤害，并有 <b>#1[p]</b> 的<u>基础概率</u>使敌方每个单体目标陷入虚弱状态。<br>虚弱状态下的敌方目标对我方造成的伤害降低 <b>#2[p]</b> ，持续 <b>#3[f]</b> 回合。",
+                "EN": "Immediately attacks the enemy. After entering battle, deals Physical DMG equal to <b>#4[p]</b> of Natasha's ATK to a random enemy, with a <b>#1[p]</b> <u>base chance</u> to Weaken all enemies.<br>While Weakened, enemies deal <b>#2[p]</b> less DMG to allies for <b>#3[f]</b> turn(s)."
             },
             "Params": [
                 [
@@ -24257,8 +24263,8 @@ var _avatarskill = {
                 "EN": "Impair"
             },
             "Desc": {
-                "CH": "使用秘技后使一定区域内的敌人陷入 <b>#1[f]</b> 秒的晕眩状态，晕眩状态下敌人不会主动攻击我方目标。\n若主动攻击陷入晕眩状态的敌人，进入战斗时，对敌方全体造成等同于银枝 <b>#2[p]</b> 攻击力的物理属性伤害，并使银枝恢复 <b>#3[f]</b> 点能量。",
-                "EN": "After using the Technique, enemies in a set area are inflicted with Daze for <b>#1[f]</b> second(s). Dazed enemies will not actively attack the team.\nWhen attacking a Dazed enemy to enter combat, deals Physical DMG to all enemies equal to <b>#2[p]</b> of Argenti's ATK and regenerates his Energy by <b>#3[f]</b>."
+                "CH": "使用秘技后使一定区域内的敌人陷入 <b>#1[f]</b> 秒的晕眩状态，晕眩状态下敌人不会主动攻击我方目标。<br>若主动攻击陷入晕眩状态的敌人，进入战斗时，对敌方全体造成等同于银枝 <b>#2[p]</b> 攻击力的物理属性伤害，并使银枝恢复 <b>#3[f]</b> 点能量。",
+                "EN": "After using the Technique, enemies in a set area are inflicted with Daze for <b>#1[f]</b> second(s). Dazed enemies will not actively attack the team.<br>When attacking a Dazed enemy to enter combat, deals Physical DMG to all enemies equal to <b>#2[p]</b> of Argenti's ATK and regenerates his Energy by <b>#3[f]</b>."
             },
             "Params": [
                 [
@@ -25080,8 +25086,8 @@ var _avatarskill = {
                 "EN": "Support"
             },
             "Desc": {
-                "CH": "阮•梅展开结界，持续 <b>#2[f]</b> 回合，自身每回合开始时结界持续回合数减1。\n处于结界中时我方全体全属性抗性穿透提高<color style='color:#f29e38;'> <b>#1[p]</b> </color>，且攻击后会对敌方目标施加【残梅绽】。\n【残梅绽】会在敌方目标尝试从弱点击破状态恢复时触发，延长目标的弱点击破状态并使其行动延后，延后数值等同于阮•梅 <b>#3[p]</b> 的击破特攻+ <b>#4[p]</b> ，并对其造成等同于阮•梅<color style='color:#f29e38;'> <b>#5[p]</b> </color>冰属性击破伤害的击破伤害。\n敌方目标从弱点击破状态恢复前不可被再次附加【残梅绽】。",
-                "EN": "Ruan Mei deploys a field that lasts for <b>#2[f]</b> turns. The field's duration decreases by 1 at the start of her turn.\nWhile inside the field, all allies' All-Type RES PEN increases by <color style='color:#f29e38;'><b>#1[p]</b></color> and their attacks apply Thanatoplum Rebloom to the enemies hit.\nWhen these enemies attempt to recover from Weakness Break, Thanatoplum Rebloom is triggered, extending the duration of their Weakness Break, delaying their action by an amount equal to <b>#3[p]</b> of Ruan Mei's Break Effect plus <b>#4[p]</b>, and dealing Break DMG equal to <color style='color:#f29e38;'><b>#5[p]</b></color> of Ruan Mei's Ice Break DMG.\nEnemy targets cannot have Thanatoplum Rebloom re-applied to them until they recover from Weakness Break."
+                "CH": "阮•梅展开结界，持续 <b>#2[f]</b> 回合，自身每回合开始时结界持续回合数减1。<br>处于结界中时我方全体全属性抗性穿透提高<color style='color:#f29e38;'> <b>#1[p]</b> </color>，且攻击后会对敌方目标施加【残梅绽】。<br>【残梅绽】会在敌方目标尝试从弱点击破状态恢复时触发，延长目标的弱点击破状态并使其行动延后，延后数值等同于阮•梅 <b>#3[p]</b> 的击破特攻+ <b>#4[p]</b> ，并对其造成等同于阮•梅<color style='color:#f29e38;'> <b>#5[p]</b> </color>冰属性击破伤害的击破伤害。<br>敌方目标从弱点击破状态恢复前不可被再次附加【残梅绽】。",
+                "EN": "Ruan Mei deploys a field that lasts for <b>#2[f]</b> turns. The field's duration decreases by 1 at the start of her turn.<br>While inside the field, all allies' All-Type RES PEN increases by <color style='color:#f29e38;'><b>#1[p]</b></color> and their attacks apply Thanatoplum Rebloom to the enemies hit.<br>When these enemies attempt to recover from Weakness Break, Thanatoplum Rebloom is triggered, extending the duration of their Weakness Break, delaying their action by an amount equal to <b>#3[p]</b> of Ruan Mei's Break Effect plus <b>#4[p]</b>, and dealing Break DMG equal to <color style='color:#f29e38;'><b>#5[p]</b></color> of Ruan Mei's Ice Break DMG.<br>Enemy targets cannot have Thanatoplum Rebloom re-applied to them until they recover from Weakness Break."
             },
             "Params": [
                 [
@@ -25342,8 +25348,8 @@ var _avatarskill = {
                 "EN": "Enhance"
             },
             "Desc": {
-                "CH": "使用秘技后，获得【拭琴抚罗袂】，使下一次战斗开始时自动触发 <b>#1[f]</b> 次战技，此次触发不消耗战技点。\n在模拟宇宙中，当阮•梅拥有【拭琴抚罗袂】时，我方主动攻击敌人时总会视为利用弱点进入战斗，且本次攻击可以无视弱点属性削减敌方全体的韧性。击破弱点时，触发攻击者自身属性的弱点击破效果。每拥有1个祝福，本次攻击造成的削韧伤害额外提高 <b>#2[p]</b> ，且击破敌方目标弱点后对其额外造成等同于阮•梅 <b>#3[p]</b> 冰属性击破伤害的击破伤害，最多计入 <b>#4[f]</b> 个祝福。",
-                "EN": "After using the Technique, gains Silken Serenade. At the start of the next battle, automatically triggers the Skill for <b>#1[f]</b> time(s) without consuming Skill Points.\nIn Simulated Universe, when Ruan Mei has Silken Serenade, the team actively attacking enemies will always be regarded as attacking their Weakness to enter battle, and this attack can reduce all enemies' Toughness regardless of Weakness types. When breaking Weakness, triggers Weakness Break Effect corresponding to the attacker's Type. For every Blessing in possession (up to a maximum of <b>#4[f]</b> Blessings), additionally increases the Toughness-Reducing DMG of this attack by <b>#2[p]</b>. After breaking an enemy target's Weakness, additionally deals to the enemy target Break DMG equal to <b>#3[p]</b> of Ruan Mei's Ice Break DMG."
+                "CH": "使用秘技后，获得【拭琴抚罗袂】，使下一次战斗开始时自动触发 <b>#1[f]</b> 次战技，此次触发不消耗战技点。<br>在模拟宇宙中，当阮•梅拥有【拭琴抚罗袂】时，我方主动攻击敌人时总会视为利用弱点进入战斗，且本次攻击可以无视弱点属性削减敌方全体的韧性。击破弱点时，触发攻击者自身属性的弱点击破效果。每拥有1个祝福，本次攻击造成的削韧伤害额外提高 <b>#2[p]</b> ，且击破敌方目标弱点后对其额外造成等同于阮•梅 <b>#3[p]</b> 冰属性击破伤害的击破伤害，最多计入 <b>#4[f]</b> 个祝福。",
+                "EN": "After using the Technique, gains Silken Serenade. At the start of the next battle, automatically triggers the Skill for <b>#1[f]</b> time(s) without consuming Skill Points.<br>In Simulated Universe, when Ruan Mei has Silken Serenade, the team actively attacking enemies will always be regarded as attacking their Weakness to enter battle, and this attack can reduce all enemies' Toughness regardless of Weakness types. When breaking Weakness, triggers Weakness Break Effect corresponding to the attacker's Type. For every Blessing in possession (up to a maximum of <b>#4[f]</b> Blessings), additionally increases the Toughness-Reducing DMG of this attack by <b>#2[p]</b>. After breaking an enemy target's Weakness, additionally deals to the enemy target Break DMG equal to <b>#3[p]</b> of Ruan Mei's Ice Break DMG."
             },
             "Params": [
                 [
@@ -25380,8 +25386,8 @@ var _avatarskill = {
                 "EN": "Restore"
             },
             "Desc": {
-                "CH": "施放战技后立即为指定我方单体回复等同于罗刹<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力+<color style='color:#f29e38;'> <b>#2[f]</b> </color>的生命值，并使罗刹获得1层【白花之刻】。\n当我方任意单体当前生命值百分比小于等于 <b>#3[p]</b> 时，罗刹会立即对其触发1次等同于战技的效果，此次触发不消耗战技点。该效果在 <b>#4[f]</b> 回合后可再次触发。",
-                "EN": "After using his Skill, Luocha immediately restores the target ally's HP equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Luocha's ATK plus <color style='color:#f29e38;'><b>#2[f]</b></color>. Meanwhile, Luocha gains 1 stack of Abyss Flower.\nWhen any ally's HP percentage drops to <b>#3[p]</b> or lower, an effect equivalent to Luocha's Skill will immediately be triggered and applied to this ally for one time (without consuming Skill Points). This effect can be triggered again after <b>#4[f]</b> turn(s)."
+                "CH": "施放战技后立即为指定我方单体回复等同于罗刹<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力+<color style='color:#f29e38;'> <b>#2[f]</b> </color>的生命值，并使罗刹获得1层【白花之刻】。<br>当我方任意单体当前生命值百分比小于等于 <b>#3[p]</b> 时，罗刹会立即对其触发1次等同于战技的效果，此次触发不消耗战技点。该效果在 <b>#4[f]</b> 回合后可再次触发。",
+                "EN": "After using his Skill, Luocha immediately restores the target ally's HP equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Luocha's ATK plus <color style='color:#f29e38;'><b>#2[f]</b></color>. Meanwhile, Luocha gains 1 stack of Abyss Flower.<br>When any ally's HP percentage drops to <b>#3[p]</b> or lower, an effect equivalent to Luocha's Skill will immediately be triggered and applied to this ally for one time (without consuming Skill Points). This effect can be triggered again after <b>#4[f]</b> turn(s)."
             },
             "Params": [
                 [
@@ -25561,8 +25567,8 @@ var _avatarskill = {
                 "EN": "Single Target"
             },
             "Desc": {
-                "CH": "使指定敌方单体陷入【负债证明】状态，使其受到的<u>追加攻击</u>伤害提高<color style='color:#f29e38;'> <b>#2[p]</b> </color>。【负债证明】仅对最新被施加的目标生效，我方目标回合开始或行动时，若场上不存在陷入【负债证明】状态的敌方目标，托帕使随机敌方目标陷入【负债证明】状态。\n使账账对该目标造成等同于托帕<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的火属性伤害。施放此战技造成伤害时，被视为发动了<u>追加攻击</u>。",
-                "EN": "Inflicts a single target enemy with a Proof of Debt status, increasing the DMG it takes from <u>follow-up attacks</u> by <color style='color:#f29e38;'><b>#2[p]</b></color>. Proof of Debt only takes effect on the most recent target it is applied to. If there are no enemies inflicted with Proof of Debt on the field when an ally's turn starts or when an ally takes action, Topaz will inflict a random enemy with Proof of Debt.\nNumby deals Fire DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Topaz's ATK to this target. Using this Skill to deal DMG is considered as launching a <u>follow-up attack</u>."
+                "CH": "使指定敌方单体陷入【负债证明】状态，使其受到的<u>追加攻击</u>伤害提高<color style='color:#f29e38;'> <b>#2[p]</b> </color>。【负债证明】仅对最新被施加的目标生效，我方目标回合开始或行动时，若场上不存在陷入【负债证明】状态的敌方目标，托帕使随机敌方目标陷入【负债证明】状态。<br>使账账对该目标造成等同于托帕<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的火属性伤害。施放此战技造成伤害时，被视为发动了<u>追加攻击</u>。",
+                "EN": "Inflicts a single target enemy with a Proof of Debt status, increasing the DMG it takes from <u>follow-up attacks</u> by <color style='color:#f29e38;'><b>#2[p]</b></color>. Proof of Debt only takes effect on the most recent target it is applied to. If there are no enemies inflicted with Proof of Debt on the field when an ally's turn starts or when an ally takes action, Topaz will inflict a random enemy with Proof of Debt.<br>Numby deals Fire DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Topaz's ATK to this target. Using this Skill to deal DMG is considered as launching a <u>follow-up attack</u>."
             },
             "Params": [
                 [
@@ -25776,8 +25782,8 @@ var _avatarskill = {
                 "EN": "Single Target"
             },
             "Desc": {
-                "CH": "战斗开始时召唤账账。账账初始拥有 <b>#1[f]</b> 点速度，行动时发动<u>追加攻击</u>，对陷入【负债证明】状态下的敌方单体造成等同于托帕<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力的火属性伤害。\n陷入【负债证明】状态下的敌方目标受到我方的追加攻击时，账账行动提前 <b>#3[p]</b> 。在账账自身回合内，无法触发行动提前效果。\n当托帕陷入<u>无法战斗状态</u>时账账消失。",
-                "EN": "Summons Numby at the start of battle. Numby has <b>#1[f]</b> SPD by default. When taking action, Numby launches <u>follow-up attacks</u> on a single enemy target afflicted with Proof of Debt, dealing Fire DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Topaz's ATK.\nWhen enemies afflicted with Proof of Debt receive an ally's follow-up attacks, Numby's action is Advanced Forward by <b>#3[p]</b>. The action Advance Forward effect cannot be triggered during Numby's own turn.\nWhen Topaz is <u>downed</u>, Numby disappears."
+                "CH": "战斗开始时召唤账账。账账初始拥有 <b>#1[f]</b> 点速度，行动时发动<u>追加攻击</u>，对陷入【负债证明】状态下的敌方单体造成等同于托帕<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力的火属性伤害。<br>陷入【负债证明】状态下的敌方目标受到我方的追加攻击时，账账行动提前 <b>#3[p]</b> 。在账账自身回合内，无法触发行动提前效果。<br>当托帕陷入<u>无法战斗状态</u>时账账消失。",
+                "EN": "Summons Numby at the start of battle. Numby has <b>#1[f]</b> SPD by default. When taking action, Numby launches <u>follow-up attacks</u> on a single enemy target afflicted with Proof of Debt, dealing Fire DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Topaz's ATK.<br>When enemies afflicted with Proof of Debt receive an ally's follow-up attacks, Numby's action is Advanced Forward by <b>#3[p]</b>. The action Advance Forward effect cannot be triggered during Numby's own turn.<br>When Topaz is <u>downed</u>, Numby disappears."
             },
             "Params": [
                 [
@@ -25915,8 +25921,8 @@ var _avatarskill = {
                 "EN": "Enhance"
             },
             "Desc": {
-                "CH": "托帕入场时召唤账账，账账会自动搜寻一定范围内的普通战利品与扑满。\n主动施放秘技使下一场战斗中账账施放首次攻击后，托帕恢复 <b>#1[f]</b> 点能量。\n主动施放秘技与大地图内的敌人战斗胜利后，若托帕仍在队伍中，则在获取信用点时额外获取少量信用点，每个地球日内最多额外获取 <b>#2[f]</b> 点。\n主动施放秘技与模拟宇宙内的敌人战斗胜利后，额外获取少量宇宙碎片并有小概率获得1个随机奇物。",
-                "EN": "Summons Numby when Topaz enters the overworld. Numby will automatically search for Basic Treasures and Trotters within a set radius.\nUsing her Technique will regenerate <b>#1[f]</b> Energy for Topaz after Numby's first attack in the next battle.\nIf Topaz is still in the team after using her Technique and defeating overworld enemies, a small bonus amount of credits will be added to the earned credits. A maximum of <b>#2[f]</b> bonus credits can be received per calendar day.\nAfter using her Technique and defeating enemies in Simulated Universe, additionally receive a small amount of Cosmic Fragments with a small chance to obtain 1 random Curio."
+                "CH": "托帕入场时召唤账账，账账会自动搜寻一定范围内的普通战利品与扑满。<br>主动施放秘技使下一场战斗中账账施放首次攻击后，托帕恢复 <b>#1[f]</b> 点能量。<br>主动施放秘技与大地图内的敌人战斗胜利后，若托帕仍在队伍中，则在获取信用点时额外获取少量信用点，每个地球日内最多额外获取 <b>#2[f]</b> 点。<br>主动施放秘技与模拟宇宙内的敌人战斗胜利后，额外获取少量宇宙碎片并有小概率获得1个随机奇物。",
+                "EN": "Summons Numby when Topaz enters the overworld. Numby will automatically search for Basic Treasures and Trotters within a set radius.<br>Using her Technique will regenerate <b>#1[f]</b> Energy for Topaz after Numby's first attack in the next battle.<br>If Topaz is still in the team after using her Technique and defeating overworld enemies, a small bonus amount of credits will be added to the earned credits. A maximum of <b>#2[f]</b> bonus credits can be received per calendar day.<br>After using her Technique and defeating enemies in Simulated Universe, additionally receive a small amount of Cosmic Fragments with a small chance to obtain 1 random Curio."
             },
             "Params": [
                 [
@@ -26255,8 +26261,8 @@ var _avatarskill = {
                 "EN": "Restore"
             },
             "Desc": {
-                "CH": "施放战技后藿藿获得【禳命】，持续 <b>#1[f]</b> 回合，藿藿每回合开始时持续回合数减1。当藿藿拥有【禳命】时，我方目标回合开始或施放终结技时回复自身等同于藿藿<color style='color:#f29e38;'> <b>#3[p]</b> </color>生命上限+<color style='color:#f29e38;'> <b>#5[f]</b> </color>的生命值，同时对每个当前生命值百分比小于等于 <b>#6[p]</b> 的我方目标各产生1次回复效果。\n触发【禳命】为我方目标提供治疗时，解除该目标 <b>#2[f]</b> 个<u>负面效果</u>，该效果可以触发 <b>#7[f]</b> 次，再次施放战技后将刷新效果可触发次数。<br>隐藏数值：#4[f]",
-                "EN": "After using her Skill, Huohuo gains Divine Provision, lasting for <b>#1[f]</b> turn(s). This duration decreases by 1 turn at the start of each Huohuo's turn. If Huohuo has Divine Provision when an ally's turn starts or when an ally uses their Ultimate, restores HP for that ally by an amount equal to <color style='color:#f29e38;'><b>#3[p]</b></color> of Huohuo's Max HP plus <color style='color:#f29e38;'><b>#5[f]</b></color>. At the same time, every ally with <b>#6[p]</b> HP or lower receives healing once.\nWhen Divine Provision is triggered to heal an ally, dispel <b>#2[f]</b> <u>debuff(s)</u> from that ally. This effect can be triggered up to <b>#7[f]</b> time(s). Using the skill again resets the effect's trigger count.<br>Hidden Stat: #4[f]"
+                "CH": "施放战技后藿藿获得【禳命】，持续 <b>#1[f]</b> 回合，藿藿每回合开始时持续回合数减1。当藿藿拥有【禳命】时，我方目标回合开始或施放终结技时回复自身等同于藿藿<color style='color:#f29e38;'> <b>#3[p]</b> </color>生命上限+<color style='color:#f29e38;'> <b>#5[f]</b> </color>的生命值，同时对每个当前生命值百分比小于等于 <b>#6[p]</b> 的我方目标各产生1次回复效果。<br>触发【禳命】为我方目标提供治疗时，解除该目标 <b>#2[f]</b> 个<u>负面效果</u>，该效果可以触发 <b>#7[f]</b> 次，再次施放战技后将刷新效果可触发次数。<br>隐藏数值：#4[f]",
+                "EN": "After using her Skill, Huohuo gains Divine Provision, lasting for <b>#1[f]</b> turn(s). This duration decreases by 1 turn at the start of each Huohuo's turn. If Huohuo has Divine Provision when an ally's turn starts or when an ally uses their Ultimate, restores HP for that ally by an amount equal to <color style='color:#f29e38;'><b>#3[p]</b></color> of Huohuo's Max HP plus <color style='color:#f29e38;'><b>#5[f]</b></color>. At the same time, every ally with <b>#6[p]</b> HP or lower receives healing once.<br>When Divine Provision is triggered to heal an ally, dispel <b>#2[f]</b> <u>debuff(s)</u> from that ally. This effect can be triggered up to <b>#7[f]</b> time(s). Using the skill again resets the effect's trigger count.<br>Hidden Stat: #4[f]"
             },
             "Params": [
                 [
@@ -26820,8 +26826,8 @@ var _avatarskill = {
                 "EN": "Bounce"
             },
             "Desc": {
-                "CH": "初始拥有 <b>#1[f]</b> 段攻击段数。首先施放1段攻击对指定敌方单体造成等同于米沙<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力的冰属性伤害，其余每段攻击对敌方随机单体造成等同于米沙<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力的冰属性伤害。每段攻击前有<color style='color:#f29e38;'> <b>#3[p]</b> </color>的<u>基础概率</u>使目标陷入冻结状态，持续1回合。\n冻结状态下，敌方目标不能行动，同时每回合开始时受到等同于米沙<color style='color:#f29e38;'> <b>#4[p]</b> </color>攻击力的冰属性<u>附加伤害</u>。\n终结技最多累计 <b>#5[f]</b> 段攻击段数，施放终结技后攻击段数恢复至初始状态。",
-                "EN": "Has <b>#1[f]</b> Hits Per Action by default. First, uses 1 hit to deal Ice DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Misha's ATK to a single target enemy. Then, the rest of the hits each deals Ice DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Misha's ATK to a single random enemy. Just before each hit lands, there is a <color style='color:#f29e38;'><b>#3[p]</b></color> <u>base chance</u> to Freeze the target, lasting for 1 turn.\nWhile Frozen, enemy targets cannot take any actions, and at the start of their turn, they receive <u>Additional Ice DMG</u> equal to <color style='color:#f29e38;'><b>#4[p]</b></color> of Misha's ATK.\nThis Ultimate can possess up to <b>#5[f]</b> Hits Per Action. After the Ultimate is used, its Hits Per Action will be reset to the default level."
+                "CH": "初始拥有 <b>#1[f]</b> 段攻击段数。首先施放1段攻击对指定敌方单体造成等同于米沙<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力的冰属性伤害，其余每段攻击对敌方随机单体造成等同于米沙<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力的冰属性伤害。每段攻击前有<color style='color:#f29e38;'> <b>#3[p]</b> </color>的<u>基础概率</u>使目标陷入冻结状态，持续1回合。<br>冻结状态下，敌方目标不能行动，同时每回合开始时受到等同于米沙<color style='color:#f29e38;'> <b>#4[p]</b> </color>攻击力的冰属性<u>附加伤害</u>。<br>终结技最多累计 <b>#5[f]</b> 段攻击段数，施放终结技后攻击段数恢复至初始状态。",
+                "EN": "Has <b>#1[f]</b> Hits Per Action by default. First, uses 1 hit to deal Ice DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Misha's ATK to a single target enemy. Then, the rest of the hits each deals Ice DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Misha's ATK to a single random enemy. Just before each hit lands, there is a <color style='color:#f29e38;'><b>#3[p]</b></color> <u>base chance</u> to Freeze the target, lasting for 1 turn.<br>While Frozen, enemy targets cannot take any actions, and at the start of their turn, they receive <u>Additional Ice DMG</u> equal to <color style='color:#f29e38;'><b>#4[p]</b></color> of Misha's ATK.<br>This Ultimate can possess up to <b>#5[f]</b> Hits Per Action. After the Ultimate is used, its Hits Per Action will be reset to the default level."
             },
             "Params": [
                 [
@@ -26956,8 +26962,8 @@ var _avatarskill = {
                 "EN": "Bounce"
             },
             "Desc": {
-                "CH": "初始拥有 <b>#1[f]</b> 段攻击段数。首先施放1段攻击对指定敌方单体造成等同于米沙<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力的冰属性伤害，其余每段攻击对敌方随机单体造成等同于米沙<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力的冰属性伤害。每段攻击前有<color style='color:#f29e38;'> <b>#3[p]</b> </color>的<u>基础概率</u>使目标陷入冻结状态，持续1回合。\n冻结状态下，敌方目标不能行动，同时每回合开始时受到等同于米沙<color style='color:#f29e38;'> <b>#4[p]</b> </color>攻击力的冰属性<u>附加伤害</u>。\n终结技最多累计 <b>#5[f]</b> 段攻击段数，施放终结技后攻击段数恢复至初始状态。",
-                "EN": "Has <b>#1[f]</b> Hits Per Action by default. First, uses 1 hit to deal Ice DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Misha's ATK to a single target enemy. Then, the rest of the hits each deals Ice DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Misha's ATK to a single random enemy. Just before each hit lands, there is a <color style='color:#f29e38;'><b>#3[p]</b></color> <u>base chance</u> to Freeze the target, lasting for 1 turn.\nWhile Frozen, enemy targets cannot take any actions, and at the start of their turn, they receive <u>Additional Ice DMG</u> equal to <color style='color:#f29e38;'><b>#4[p]</b></color> of Misha's ATK.\nThis Ultimate can possess up to <b>#5[f]</b> Hits Per Action. After the Ultimate is used, its Hits Per Action will be reset to the default level."
+                "CH": "初始拥有 <b>#1[f]</b> 段攻击段数。首先施放1段攻击对指定敌方单体造成等同于米沙<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力的冰属性伤害，其余每段攻击对敌方随机单体造成等同于米沙<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力的冰属性伤害。每段攻击前有<color style='color:#f29e38;'> <b>#3[p]</b> </color>的<u>基础概率</u>使目标陷入冻结状态，持续1回合。<br>冻结状态下，敌方目标不能行动，同时每回合开始时受到等同于米沙<color style='color:#f29e38;'> <b>#4[p]</b> </color>攻击力的冰属性<u>附加伤害</u>。<br>终结技最多累计 <b>#5[f]</b> 段攻击段数，施放终结技后攻击段数恢复至初始状态。",
+                "EN": "Has <b>#1[f]</b> Hits Per Action by default. First, uses 1 hit to deal Ice DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Misha's ATK to a single target enemy. Then, the rest of the hits each deals Ice DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Misha's ATK to a single random enemy. Just before each hit lands, there is a <color style='color:#f29e38;'><b>#3[p]</b></color> <u>base chance</u> to Freeze the target, lasting for 1 turn.<br>While Frozen, enemy targets cannot take any actions, and at the start of their turn, they receive <u>Additional Ice DMG</u> equal to <color style='color:#f29e38;'><b>#4[p]</b></color> of Misha's ATK.<br>This Ultimate can possess up to <b>#5[f]</b> Hits Per Action. After the Ultimate is used, its Hits Per Action will be reset to the default level."
             },
             "Params": [
                 [
@@ -27501,8 +27507,8 @@ var _avatarskill = {
                 "EN": "Restore"
             },
             "Desc": {
-                "CH": "当【白花之刻】达到 <b>#1[f]</b> 层时，罗刹会消耗全部【白花之刻】展开结界。\n处于结界中的任意敌方目标受到攻击后，施放攻击的我方目标立即回复等同于罗刹<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力+<color style='color:#f29e38;'> <b>#4[f]</b> </color>的生命值。\n结界效果持续 <b>#3[f]</b> 回合。当罗刹陷入<u>无法战斗状态</u>时，结界也会被解除。",
-                "EN": "When Abyss Flower reaches <b>#1[f]</b> stacks, Luocha consumes all stacks of Abyss Flower to deploy a Field against the enemy.\nWhen any enemy in the Field is attacked by an ally, the attacking ally's HP is immediately restored by an amount equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Luocha's ATK plus <color style='color:#f29e38;'><b>#4[f]</b></color>.\nThe Field's effect lasts for <b>#3[f]</b> turns. When Luocha is <u>knocked down</u>, the Field will be dispelled."
+                "CH": "当【白花之刻】达到 <b>#1[f]</b> 层时，罗刹会消耗全部【白花之刻】展开结界。<br>处于结界中的任意敌方目标受到攻击后，施放攻击的我方目标立即回复等同于罗刹<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力+<color style='color:#f29e38;'> <b>#4[f]</b> </color>的生命值。<br>结界效果持续 <b>#3[f]</b> 回合。当罗刹陷入<u>无法战斗状态</u>时，结界也会被解除。",
+                "EN": "When Abyss Flower reaches <b>#1[f]</b> stacks, Luocha consumes all stacks of Abyss Flower to deploy a Field against the enemy.<br>When any enemy in the Field is attacked by an ally, the attacking ally's HP is immediately restored by an amount equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Luocha's ATK plus <color style='color:#f29e38;'><b>#4[f]</b></color>.<br>The Field's effect lasts for <b>#3[f]</b> turns. When Luocha is <u>knocked down</u>, the Field will be dispelled."
             },
             "Params": [
                 [
@@ -27622,8 +27628,8 @@ var _avatarskill = {
                 "EN": "Defense"
             },
             "Desc": {
-                "CH": "为指定我方单体提供能够抵消等同于三月七<color style='color:#f29e38;'> <b>#1[p]</b> </color>防御力+<color style='color:#f29e38;'> <b>#4[f]</b> </color>伤害的护盾，持续 <b>#2[f]</b> 回合。\n若该目标当前生命值百分比大于等于 <b>#3[p]</b> ，被敌方攻击的概率大幅提高。<br>隐藏数值：#5[f]",
-                "EN": "Provides a single ally with a Shield that can absorb DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of March 7th's DEF plus <color style='color:#f29e38;'><b>#4[f]</b></color> for <b>#2[f]</b> turn(s).\nIf the ally's current HP percentage is <b>#3[p]</b> or higher, greatly increases the chance of enemies attacking that ally.<br>Hidden Stat: #5[f]"
+                "CH": "为指定我方单体提供能够抵消等同于三月七<color style='color:#f29e38;'> <b>#1[p]</b> </color>防御力+<color style='color:#f29e38;'> <b>#4[f]</b> </color>伤害的护盾，持续 <b>#2[f]</b> 回合。<br>若该目标当前生命值百分比大于等于 <b>#3[p]</b> ，被敌方攻击的概率大幅提高。<br>隐藏数值：#5[f]",
+                "EN": "Provides a single ally with a Shield that can absorb DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of March 7th's DEF plus <color style='color:#f29e38;'><b>#4[f]</b></color> for <b>#2[f]</b> turn(s).<br>If the ally's current HP percentage is <b>#3[p]</b> or higher, greatly increases the chance of enemies attacking that ally.<br>Hidden Stat: #5[f]"
             },
             "Params": [
                 [
@@ -28214,8 +28220,8 @@ var _avatarskill = {
                 "EN": "Single Target"
             },
             "Desc": {
-                "CH": "对指定敌方单体造成等同于真理医生<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的虚数属性伤害，并附上【智者的短见】。真理医生的队友攻击持有【智者的短见】的目标时，真理医生对该目标发动1次天赋的<u>追加攻击</u>。\n【智者的短见】效果最多触发 <b>#2[f]</b> 次且仅对真理医生终结技最新施放的目标生效。施放终结技后重置该效果触发次数。",
-                "EN": "Deals Imaginary DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Dr. Ratio's ATK to a single target enemy and applies Wiseman's Folly. When Dr. Ratio's allies attack a target afflicted with Wiseman's Folly, Dr. Ratio launches his Talent's <u>follow-up attack</u> for 1 time against this target.\nWiseman's Folly can be triggered for up to <b>#2[f]</b> times and only affects the most recent target of Dr. Ratio's Ultimate. This trigger count resets after Dr. Ratio's Ultimate is used."
+                "CH": "对指定敌方单体造成等同于真理医生<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的虚数属性伤害，并附上【智者的短见】。真理医生的队友攻击持有【智者的短见】的目标时，真理医生对该目标发动1次天赋的<u>追加攻击</u>。<br>【智者的短见】效果最多触发 <b>#2[f]</b> 次且仅对真理医生终结技最新施放的目标生效。施放终结技后重置该效果触发次数。",
+                "EN": "Deals Imaginary DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Dr. Ratio's ATK to a single target enemy and applies Wiseman's Folly. When Dr. Ratio's allies attack a target afflicted with Wiseman's Folly, Dr. Ratio launches his Talent's <u>follow-up attack</u> for 1 time against this target.<br>Wiseman's Folly can be triggered for up to <b>#2[f]</b> times and only affects the most recent target of Dr. Ratio's Ultimate. This trigger count resets after Dr. Ratio's Ultimate is used."
             },
             "Params": [
                 [
@@ -28484,8 +28490,8 @@ var _avatarskill = {
                 "EN": "AoE"
             },
             "Desc": {
-                "CH": "对敌方全体造成等同于瓦尔特<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的虚数属性伤害，有 <b>#3[p]</b> 的<u>基础概率</u>使受到攻击的敌方目标陷入禁锢状态，持续1回合。\n禁锢状态下，敌方目标<u>行动延后</u><color style='color:#f29e38;'> <b>#2[p]</b> </color>，速度降低 <b>#4[p]</b> 。",
-                "EN": "Deals Imaginary DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Welt's ATK to all enemies, with a <b>#3[p]</b> <u>base chance</u> for enemies hit by this ability to be Imprisoned for 1 turn.\nImprisoned enemies have their <u>actions delayed</u> by <color style='color:#f29e38;'><b>#2[p]</b></color> and SPD reduced by <b>#4[p]</b>."
+                "CH": "对敌方全体造成等同于瓦尔特<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的虚数属性伤害，有 <b>#3[p]</b> 的<u>基础概率</u>使受到攻击的敌方目标陷入禁锢状态，持续1回合。<br>禁锢状态下，敌方目标<u>行动延后</u><color style='color:#f29e38;'> <b>#2[p]</b> </color>，速度降低 <b>#4[p]</b> 。",
+                "EN": "Deals Imaginary DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Welt's ATK to all enemies, with a <b>#3[p]</b> <u>base chance</u> for enemies hit by this ability to be Imprisoned for 1 turn.<br>Imprisoned enemies have their <u>actions delayed</u> by <color style='color:#f29e38;'><b>#2[p]</b></color> and SPD reduced by <b>#4[p]</b>."
             },
             "Params": [
                 [
@@ -28715,8 +28721,8 @@ var _avatarskill = {
                 "EN": "Restore"
             },
             "Desc": {
-                "CH": "拥有【生息】的我方目标，在受到攻击后会回复等同于白露<color style='color:#f29e38;'> <b>#1[p]</b> </color>生命上限+<color style='color:#f29e38;'> <b>#2[f]</b> </color>的生命值，该效果可以触发 <b>#5[f]</b> 次。\n当白露的队友受到致命攻击时，不会陷入<u>无法战斗状态</u>，白露会立即为其提供治疗，回复等同于白露<color style='color:#f29e38;'> <b>#3[p]</b> </color>生命上限+<color style='color:#f29e38;'> <b>#4[f]</b> </color>的生命值。该效果单场战斗中可以触发1次。",
-                "EN": "After an ally with Invigoration is hit, restores the ally's HP for <color style='color:#f29e38;'><b>#1[p]</b></color> of Bailu's Max HP plus <color style='color:#f29e38;'><b>#2[f]</b></color>. This effect can trigger <b>#5[f]</b> time(s).\nWhen an ally receives a killing blow, they will not be <u>knocked down</u>. Bailu immediately heals the ally for <color style='color:#f29e38;'><b>#3[p]</b></color> of Bailu's Max HP plus <color style='color:#f29e38;'><b>#4[f]</b></color> HP. This effect can be triggered 1 time per battle."
+                "CH": "拥有【生息】的我方目标，在受到攻击后会回复等同于白露<color style='color:#f29e38;'> <b>#1[p]</b> </color>生命上限+<color style='color:#f29e38;'> <b>#2[f]</b> </color>的生命值，该效果可以触发 <b>#5[f]</b> 次。<br>当白露的队友受到致命攻击时，不会陷入<u>无法战斗状态</u>，白露会立即为其提供治疗，回复等同于白露<color style='color:#f29e38;'> <b>#3[p]</b> </color>生命上限+<color style='color:#f29e38;'> <b>#4[f]</b> </color>的生命值。该效果单场战斗中可以触发1次。",
+                "EN": "After an ally with Invigoration is hit, restores the ally's HP for <color style='color:#f29e38;'><b>#1[p]</b></color> of Bailu's Max HP plus <color style='color:#f29e38;'><b>#2[f]</b></color>. This effect can trigger <b>#5[f]</b> time(s).<br>When an ally receives a killing blow, they will not be <u>knocked down</u>. Bailu immediately heals the ally for <color style='color:#f29e38;'><b>#3[p]</b></color> of Bailu's Max HP plus <color style='color:#f29e38;'><b>#4[f]</b></color> HP. This effect can be triggered 1 time per battle."
             },
             "Params": [
                 [
@@ -29141,8 +29147,8 @@ var _avatarskill = {
                 "EN": "Blast"
             },
             "Desc": {
-                "CH": "对指定敌方单体造成等同于希露瓦<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的雷属性伤害，同时对其相邻目标造成等同于希露瓦<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力的雷属性伤害，此外有 <b>#3[p]</b> 的<u>基础概率</u>使受到攻击的敌方目标陷入触电状态，持续 <b>#4[f]</b> 回合。\n触电状态下，敌方目标每回合开始时受到等同于希露瓦<color style='color:#f29e38;'> <b>#5[p]</b> </color>攻击力的雷属性持续伤害。",
-                "EN": "Deals Lightning DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Serval's ATK to a single enemy and Lightning DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Serval's ATK to enemies adjacent to it, with a <b>#3[p]</b> <u>base chance</u> for enemies hit to become Shocked for <b>#4[f]</b> turn(s).\nWhile Shocked, enemies take Lightning DoT equal to <color style='color:#f29e38;'><b>#5[p]</b></color> of Serval's ATK at the beginning of each turn."
+                "CH": "对指定敌方单体造成等同于希露瓦<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的雷属性伤害，同时对其相邻目标造成等同于希露瓦<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力的雷属性伤害，此外有 <b>#3[p]</b> 的<u>基础概率</u>使受到攻击的敌方目标陷入触电状态，持续 <b>#4[f]</b> 回合。<br>触电状态下，敌方目标每回合开始时受到等同于希露瓦<color style='color:#f29e38;'> <b>#5[p]</b> </color>攻击力的雷属性持续伤害。",
+                "EN": "Deals Lightning DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Serval's ATK to a single enemy and Lightning DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Serval's ATK to enemies adjacent to it, with a <b>#3[p]</b> <u>base chance</u> for enemies hit to become Shocked for <b>#4[f]</b> turn(s).<br>While Shocked, enemies take Lightning DoT equal to <color style='color:#f29e38;'><b>#5[p]</b></color> of Serval's ATK at the beginning of each turn."
             },
             "Params": [
                 [
@@ -29354,8 +29360,8 @@ var _avatarskill = {
                 "EN": ""
             },
             "Desc": {
-                "CH": "立即攻击敌人，进入战斗后对敌方随机单体造成等同于希露瓦 <b>#4[p]</b> 攻击力的雷属性伤害，同时有 <b>#1[p]</b> 的<u>基础概率</u>使敌方每个单体目标陷入触电状态，持续 <b>#3[f]</b> 回合。\n触电状态下，敌方目标每回合开始时受到等同于希露瓦 <b>#2[p]</b> 攻击力的雷属性持续伤害。",
-                "EN": "Immediately attacks the enemy. After entering battle, deals Lightning DMG equal to <b>#4[p]</b> of Serval's ATK to a random enemy, with a <b>#1[p]</b> <u>base chance</u> for all enemies to become Shocked for <b>#3[f]</b> turn(s).\nWhile Shocked, enemies will take Lightning DoT equal to <b>#2[p]</b> of Serval's ATK at the beginning of each turn."
+                "CH": "立即攻击敌人，进入战斗后对敌方随机单体造成等同于希露瓦 <b>#4[p]</b> 攻击力的雷属性伤害，同时有 <b>#1[p]</b> 的<u>基础概率</u>使敌方每个单体目标陷入触电状态，持续 <b>#3[f]</b> 回合。<br>触电状态下，敌方目标每回合开始时受到等同于希露瓦 <b>#2[p]</b> 攻击力的雷属性持续伤害。",
+                "EN": "Immediately attacks the enemy. After entering battle, deals Lightning DMG equal to <b>#4[p]</b> of Serval's ATK to a random enemy, with a <b>#1[p]</b> <u>base chance</u> for all enemies to become Shocked for <b>#3[f]</b> turn(s).<br>While Shocked, enemies will take Lightning DoT equal to <b>#2[p]</b> of Serval's ATK at the beginning of each turn."
             },
             "Params": [
                 [
@@ -29392,8 +29398,8 @@ var _avatarskill = {
                 "EN": "Blast"
             },
             "Desc": {
-                "CH": "对指定敌方单体造成等同于卡芙卡<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的雷属性伤害，同时对其相邻目标造成等同于卡芙卡<color style='color:#f29e38;'> <b>#3[p]</b> </color>攻击力的雷属性伤害。\n若指定敌方单体处于持续伤害状态，其当前承受的所有持续伤害立即产生相当于原伤害<color style='color:#f29e38;'> <b>#2[p]</b> </color>的伤害。",
-                "EN": "Deals Lightning DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Kafka's ATK to a target enemy and Lightning DMG equal to <color style='color:#f29e38;'><b>#3[p]</b></color> of Kafka's ATK to enemies adjacent to it.\nIf the target enemy is currently receiving DoT, all DoTs currently placed on that enemy immediately produce DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of their original DMG."
+                "CH": "对指定敌方单体造成等同于卡芙卡<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的雷属性伤害，同时对其相邻目标造成等同于卡芙卡<color style='color:#f29e38;'> <b>#3[p]</b> </color>攻击力的雷属性伤害。<br>若指定敌方单体处于持续伤害状态，其当前承受的所有持续伤害立即产生相当于原伤害<color style='color:#f29e38;'> <b>#2[p]</b> </color>的伤害。",
+                "EN": "Deals Lightning DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Kafka's ATK to a target enemy and Lightning DMG equal to <color style='color:#f29e38;'><b>#3[p]</b></color> of Kafka's ATK to enemies adjacent to it.<br>If the target enemy is currently receiving DoT, all DoTs currently placed on that enemy immediately produce DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of their original DMG."
             },
             "Params": [
                 [
@@ -29499,8 +29505,8 @@ var _avatarskill = {
                 "EN": "AoE"
             },
             "Desc": {
-                "CH": "对敌方全体造成等同于卡芙卡<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的雷属性伤害，有 <b>#2[p]</b> 的<u>基础概率</u>使受到攻击的敌方目标陷入触电状态，并使其当前承受的触电状态立即产生相当于原伤害<color style='color:#f29e38;'> <b>#5[p]</b> </color>的伤害。触电状态持续 <b>#3[f]</b> 回合。\n触电状态下，敌方目标每回合开始时受到等同于卡芙卡<color style='color:#f29e38;'> <b>#4[p]</b> </color>攻击力的雷属性持续伤害。",
-                "EN": "Deals Lightning DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Kafka's ATK to all enemies, with a <b>#2[p]</b> <u>base chance</u> for enemies hit to become Shocked and immediately take DMG from their current Shock state, equal to <color style='color:#f29e38;'><b>#5[p]</b></color> of its original DMG. Shock lasts for <b>#3[f]</b> turn(s).\nWhile Shocked, enemies receive Lightning DoT equal to <color style='color:#f29e38;'><b>#4[p]</b></color> of Kafka's ATK at the beginning of each turn."
+                "CH": "对敌方全体造成等同于卡芙卡<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的雷属性伤害，有 <b>#2[p]</b> 的<u>基础概率</u>使受到攻击的敌方目标陷入触电状态，并使其当前承受的触电状态立即产生相当于原伤害<color style='color:#f29e38;'> <b>#5[p]</b> </color>的伤害。触电状态持续 <b>#3[f]</b> 回合。<br>触电状态下，敌方目标每回合开始时受到等同于卡芙卡<color style='color:#f29e38;'> <b>#4[p]</b> </color>攻击力的雷属性持续伤害。",
+                "EN": "Deals Lightning DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Kafka's ATK to all enemies, with a <b>#2[p]</b> <u>base chance</u> for enemies hit to become Shocked and immediately take DMG from their current Shock state, equal to <color style='color:#f29e38;'><b>#5[p]</b></color> of its original DMG. Shock lasts for <b>#3[f]</b> turn(s).<br>While Shocked, enemies receive Lightning DoT equal to <color style='color:#f29e38;'><b>#4[p]</b></color> of Kafka's ATK at the beginning of each turn."
             },
             "Params": [
                 [
@@ -30010,8 +30016,8 @@ var _avatarskill = {
                 "EN": "Enhance"
             },
             "Desc": {
-                "CH": "消耗等同于刃生命上限 <b>#1[p]</b> 的生命值，进入【地狱变】状态。\n处于【地狱变】状态时无法施放战技，同时使自身造成的伤害提高<color style='color:#f29e38;'> <b>#4[p]</b> </color>，普攻【支离剑】强化为【无间剑树】，持续 <b>#2[f]</b> 回合。\n若当前生命值不足，施放战技时刃的当前生命值降低至1点。\n该战技无法恢复能量。施放该战技后，本回合不会结束。<br>隐藏数值：#3[f]",
-                "EN": "Consumes HP equal to <b>#1[p]</b> of Blade's Max HP to enter the Hellscape state.\nWhen Hellscape is active, his Skill cannot be used, his DMG dealt increases by <color style='color:#f29e38;'><b>#4[p]</b></color>, and his Basic ATK Shard Sword is enhanced to Forest of Swords for <b>#2[f]</b> turn(s).\nIf Blade's current HP is insufficient, his HP will be reduced to 1 when he uses his Skill.\nThis Skill does not regenerate Energy. Using this Skill does not end the current turn.<br>Hidden Stat: #3[f]"
+                "CH": "消耗等同于刃生命上限 <b>#1[p]</b> 的生命值，进入【地狱变】状态。<br>处于【地狱变】状态时无法施放战技，同时使自身造成的伤害提高<color style='color:#f29e38;'> <b>#4[p]</b> </color>，普攻【支离剑】强化为【无间剑树】，持续 <b>#2[f]</b> 回合。<br>若当前生命值不足，施放战技时刃的当前生命值降低至1点。<br>该战技无法恢复能量。施放该战技后，本回合不会结束。<br>隐藏数值：#3[f]",
+                "EN": "Consumes HP equal to <b>#1[p]</b> of Blade's Max HP to enter the Hellscape state.<br>When Hellscape is active, his Skill cannot be used, his DMG dealt increases by <color style='color:#f29e38;'><b>#4[p]</b></color>, and his Basic ATK Shard Sword is enhanced to Forest of Swords for <b>#2[f]</b> turn(s).<br>If Blade's current HP is insufficient, his HP will be reduced to 1 when he uses his Skill.<br>This Skill does not regenerate Energy. Using this Skill does not end the current turn.<br>Hidden Stat: #3[f]"
             },
             "Params": [
                 [
@@ -30132,8 +30138,8 @@ var _avatarskill = {
                 "EN": "AoE"
             },
             "Desc": {
-                "CH": "刃受到伤害或消耗生命值时，获得1层充能，最多叠加5层。该效果每次受到攻击最多叠加1层。\n当充能叠加至上限时，立即对敌方全体施放1次<u>追加攻击</u>，造成等同于刃<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力+<color style='color:#f29e38;'> <b>#4[p]</b> </color>生命上限的风属性伤害并回复等同于刃生命上限 <b>#3[p]</b> 的生命值，施放追加攻击后，消耗所有充能。<br>隐藏数值：#1[f]",
-                "EN": "When Blade sustains DMG or consumes his HP, he gains 1 stack of Charge, stacking up to 5 times. A max of 1 Charge stack can be gained every time he is attacked.\nWhen Charge stack reaches maximum, immediately launches a <u>follow-up attack</u> on all enemies, dealing Wind DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Blade's ATK plus <color style='color:#f29e38;'><b>#4[p]</b></color> of his Max HP. At the same time, restores Blade's HP by <b>#3[p]</b> of his Max HP. After the follow-up attack, all Charges are consumed.<br>Hidden Stat: #1[f]"
+                "CH": "刃受到伤害或消耗生命值时，获得1层充能，最多叠加5层。该效果每次受到攻击最多叠加1层。<br>当充能叠加至上限时，立即对敌方全体施放1次<u>追加攻击</u>，造成等同于刃<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力+<color style='color:#f29e38;'> <b>#4[p]</b> </color>生命上限的风属性伤害并回复等同于刃生命上限 <b>#3[p]</b> 的生命值，施放追加攻击后，消耗所有充能。<br>隐藏数值：#1[f]",
+                "EN": "When Blade sustains DMG or consumes his HP, he gains 1 stack of Charge, stacking up to 5 times. A max of 1 Charge stack can be gained every time he is attacked.<br>When Charge stack reaches maximum, immediately launches a <u>follow-up attack</u> on all enemies, dealing Wind DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Blade's ATK plus <color style='color:#f29e38;'><b>#4[p]</b></color> of his Max HP. At the same time, restores Blade's HP by <b>#3[p]</b> of his Max HP. After the follow-up attack, all Charges are consumed.<br>Hidden Stat: #1[f]"
             },
             "Params": [
                 [
@@ -30438,8 +30444,8 @@ var _avatarskill = {
                 "EN": "Bounce"
             },
             "Desc": {
-                "CH": "战斗开始时召唤【神君】。【神君】初始拥有 <b>#1[f]</b> 点速度以及 <b>#4[f]</b> 段攻击段数，行动时发动<u>追加攻击</u>，每段攻击对随机敌方单体造成等同于景元攻击力<color style='color:#f29e38;'> <b>#2[p]</b> </color>的雷属性伤害，同时对其相邻目标造成等同于主目标 <b>#5[p]</b> 的雷属性伤害。\n【神君】最多累计 <b>#6[f]</b> 段攻击段数且每增加1段攻击段数，速度提高 <b>#3[f]</b> 点，行动结束后速度和攻击段数恢复至初始状态。\n当景元陷入<u>无法战斗状态</u>时【神君】消失。\n当景元受到<u>控制类负面状态</u>影响时【神君】也无法行动。",
-                "EN": "Summons Lightning-Lord at the start of the battle. Lightning-Lord has <b>#1[f]</b> base SPD and <b>#4[f]</b> base Hits Per Action. When the Lightning-Lord takes action, its hits are considered as <u>follow-up attacks</u>, with each hit dealing Lightning DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Jing Yuan's ATK to a random single enemy, and enemies adjacent to it also receive Lightning DMG equal to <b>#5[p]</b> of the DMG dealt to the target enemy.\nThe Lightning-Lord's Hits Per Action can reach a max of <b>#6[f]</b>. Every time Lightning-Lord's Hits Per Action increases by 1, its SPD increases by <b>#3[f]</b>. After the Lightning-Lord's action ends, its SPD and Hits Per Action return to their base values.\nWhen Jing Yuan is <u>knocked down</u>, the Lightning-Lord will disappear.\nWhen Jing Yuan is affected by <u>Crowd Control debuff</u>, the Lightning-Lord is unable to take action."
+                "CH": "战斗开始时召唤【神君】。【神君】初始拥有 <b>#1[f]</b> 点速度以及 <b>#4[f]</b> 段攻击段数，行动时发动<u>追加攻击</u>，每段攻击对随机敌方单体造成等同于景元攻击力<color style='color:#f29e38;'> <b>#2[p]</b> </color>的雷属性伤害，同时对其相邻目标造成等同于主目标 <b>#5[p]</b> 的雷属性伤害。<br>【神君】最多累计 <b>#6[f]</b> 段攻击段数且每增加1段攻击段数，速度提高 <b>#3[f]</b> 点，行动结束后速度和攻击段数恢复至初始状态。<br>当景元陷入<u>无法战斗状态</u>时【神君】消失。<br>当景元受到<u>控制类负面状态</u>影响时【神君】也无法行动。",
+                "EN": "Summons Lightning-Lord at the start of the battle. Lightning-Lord has <b>#1[f]</b> base SPD and <b>#4[f]</b> base Hits Per Action. When the Lightning-Lord takes action, its hits are considered as <u>follow-up attacks</u>, with each hit dealing Lightning DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Jing Yuan's ATK to a random single enemy, and enemies adjacent to it also receive Lightning DMG equal to <b>#5[p]</b> of the DMG dealt to the target enemy.<br>The Lightning-Lord's Hits Per Action can reach a max of <b>#6[f]</b>. Every time Lightning-Lord's Hits Per Action increases by 1, its SPD increases by <b>#3[f]</b>. After the Lightning-Lord's action ends, its SPD and Hits Per Action return to their base values.<br>When Jing Yuan is <u>knocked down</u>, the Lightning-Lord will disappear.<br>When Jing Yuan is affected by <u>Crowd Control debuff</u>, the Lightning-Lord is unable to take action."
             },
             "Params": [
                 [
@@ -30740,8 +30746,8 @@ var _avatarskill = {
                 "EN": "Support"
             },
             "Desc": {
-                "CH": "使指定我方单体的暴击伤害提高，提高数值等同于花火<color style='color:#f29e38;'> <b>#1[p]</b> </color>暴击伤害+<color style='color:#f29e38;'> <b>#2[p]</b> </color>，持续 <b>#3[f]</b> 回合，并使该目标行动提前 <b>#4[p]</b> 。\n当花火对自身施放该技能时，无法触发行动提前效果。",
-                "EN": "Increases the CRIT DMG of a single ally by <color style='color:#f29e38;'><b>#1[p]</b></color> of Sparkle's CRIT DMG plus <color style='color:#f29e38;'><b>#2[p]</b></color>, lasting for <b>#3[f]</b> turn(s). And at the same time, Advances Forward this ally's action by <b>#4[p]</b>.\nWhen Sparkle uses this ability on herself, the Action Advance effect will not trigger."
+                "CH": "使指定我方单体的暴击伤害提高，提高数值等同于花火<color style='color:#f29e38;'> <b>#1[p]</b> </color>暴击伤害+<color style='color:#f29e38;'> <b>#2[p]</b> </color>，持续 <b>#3[f]</b> 回合，并使该目标行动提前 <b>#4[p]</b> 。<br>当花火对自身施放该技能时，无法触发行动提前效果。",
+                "EN": "Increases the CRIT DMG of a single ally by <color style='color:#f29e38;'><b>#1[p]</b></color> of Sparkle's CRIT DMG plus <color style='color:#f29e38;'><b>#2[p]</b></color>, lasting for <b>#3[f]</b> turn(s). And at the same time, Advances Forward this ally's action by <b>#4[p]</b>.<br>When Sparkle uses this ability on herself, the Action Advance effect will not trigger."
             },
             "Params": [
                 [
@@ -30860,8 +30866,8 @@ var _avatarskill = {
                 "EN": "Support"
             },
             "Desc": {
-                "CH": "使指定我方单体的暴击伤害提高，提高数值等同于花火<color style='color:#f29e38;'> <b>#1[p]</b> </color>暴击伤害+<color style='color:#f29e38;'> <b>#2[p]</b> </color>，持续 <b>#3[f]</b> 回合，并使该目标行动提前 <b>#4[p]</b> 。\n当花火对自身施放该技能时，无法触发行动提前效果。",
-                "EN": "Increases the CRIT DMG of a single target ally by <color style='color:#f29e38;'><b>#1[p]</b></color> of Sparkle's CRIT DMG plus <color style='color:#f29e38;'><b>#2[p]</b></color>, lasting for <b>#3[f]</b> turn(s). And at the same time, Advances Forward this ally's action by <b>#4[p]</b>.\nWhen Sparkle uses this ability on herself, the Action Advance effect will not trigger."
+                "CH": "使指定我方单体的暴击伤害提高，提高数值等同于花火<color style='color:#f29e38;'> <b>#1[p]</b> </color>暴击伤害+<color style='color:#f29e38;'> <b>#2[p]</b> </color>，持续 <b>#3[f]</b> 回合，并使该目标行动提前 <b>#4[p]</b> 。<br>当花火对自身施放该技能时，无法触发行动提前效果。",
+                "EN": "Increases the CRIT DMG of a single target ally by <color style='color:#f29e38;'><b>#1[p]</b></color> of Sparkle's CRIT DMG plus <color style='color:#f29e38;'><b>#2[p]</b></color>, lasting for <b>#3[f]</b> turn(s). And at the same time, Advances Forward this ally's action by <b>#4[p]</b>.<br>When Sparkle uses this ability on herself, the Action Advance effect will not trigger."
             },
             "Params": [
                 [
@@ -31600,8 +31606,8 @@ var _avatarskill = {
                 "EN": "Impair"
             },
             "Desc": {
-                "CH": "敌方目标每回合开始时每受到1次持续伤害，有<color style='color:#f29e38;'> <b>#2[p]</b> </color>的<u>基础概率</u>陷入1层【<u>奥迹</u>】。\n【<u>奥迹</u>】状态下，敌方目标每回合开始时受到等同于黑天鹅<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的风属性持续伤害，每层【<u>奥迹</u>】使此伤害倍率提高<color style='color:#f29e38;'> <b>#3[p]</b> </color>，随后重置为1层。【<u>奥迹</u>】最多叠加 <b>#8[f]</b> 层。\n仅在敌方目标回合开始【<u>奥迹</u>】造成伤害时，黑天鹅根据目标陷入的【<u>奥迹</u>】层数触发额外效果：\n大于等于 <b>#4[f]</b> 层：对相邻目标造成等同于黑天鹅<color style='color:#f29e38;'> <b>#5[p]</b> </color>攻击力的风属性持续伤害，并且有<color style='color:#f29e38;'> <b>#2[p]</b> </color>的<u>基础概率</u>使相邻目标陷入1层【<u>奥迹</u>】。\n大于等于 <b>#6[f]</b> 层：使本次造成的持续伤害无视该目标及其相邻目标 <b>#7[p]</b> 的防御力。",
-                "EN": "Every time an enemy target receives DoT at the start of each turn, there is a <color style='color:#f29e38;'><b>#2[p]</b></color> <u>base chance</u> for it to be inflicted with <u>Arcana</u>.\nWhile afflicted with <u>Arcana</u>, enemy targets receive Wind DoT equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Black Swan's ATK at the start of each turn. Each stack of <u>Arcana</u> increases this DoT DMG multiplier by <color style='color:#f29e38;'><b>#3[p]</b></color>. Then <u>Arcana</u> resets to 1 stack. <u>Arcana</u> can stack up to <b>#8[f]</b> times.\nOnly when <u>Arcana</u> causes DMG at the start of an enemy target's turn, Black Swan triggers additional effects based on the number of <u>Arcana</u> stacks inflicted on the target:\nWhen there are <b>#4[f]</b> or more <u>Arcana</u> stacks, deals Wind DoT equal to <color style='color:#f29e38;'><b>#5[p]</b></color> of Black Swan's ATK to adjacent targets, with a <color style='color:#f29e38;'><b>#2[p]</b></color> <u>base chance</u> of inflicting 1 stack of <u>Arcana</u> on adjacent targets.\nWhen there are <b>#6[f]</b> or more <u>Arcana</u> stacks, enables the current DoT dealt this time to ignore <b>#7[p]</b> of the target's and adjacent targets' DEF."
+                "CH": "敌方目标每回合开始时每受到1次持续伤害，有<color style='color:#f29e38;'> <b>#2[p]</b> </color>的<u>基础概率</u>陷入1层【<u>奥迹</u>】。<br>【<u>奥迹</u>】状态下，敌方目标每回合开始时受到等同于黑天鹅<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的风属性持续伤害，每层【<u>奥迹</u>】使此伤害倍率提高<color style='color:#f29e38;'> <b>#3[p]</b> </color>，随后重置为1层。【<u>奥迹</u>】最多叠加 <b>#8[f]</b> 层。<br>仅在敌方目标回合开始【<u>奥迹</u>】造成伤害时，黑天鹅根据目标陷入的【<u>奥迹</u>】层数触发额外效果：<br>大于等于 <b>#4[f]</b> 层：对相邻目标造成等同于黑天鹅<color style='color:#f29e38;'> <b>#5[p]</b> </color>攻击力的风属性持续伤害，并且有<color style='color:#f29e38;'> <b>#2[p]</b> </color>的<u>基础概率</u>使相邻目标陷入1层【<u>奥迹</u>】。<br>大于等于 <b>#6[f]</b> 层：使本次造成的持续伤害无视该目标及其相邻目标 <b>#7[p]</b> 的防御力。",
+                "EN": "Every time an enemy target receives DoT at the start of each turn, there is a <color style='color:#f29e38;'><b>#2[p]</b></color> <u>base chance</u> for it to be inflicted with <u>Arcana</u>.<br>While afflicted with <u>Arcana</u>, enemy targets receive Wind DoT equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Black Swan's ATK at the start of each turn. Each stack of <u>Arcana</u> increases this DoT DMG multiplier by <color style='color:#f29e38;'><b>#3[p]</b></color>. Then <u>Arcana</u> resets to 1 stack. <u>Arcana</u> can stack up to <b>#8[f]</b> times.<br>Only when <u>Arcana</u> causes DMG at the start of an enemy target's turn, Black Swan triggers additional effects based on the number of <u>Arcana</u> stacks inflicted on the target:<br>When there are <b>#4[f]</b> or more <u>Arcana</u> stacks, deals Wind DoT equal to <color style='color:#f29e38;'><b>#5[p]</b></color> of Black Swan's ATK to adjacent targets, with a <color style='color:#f29e38;'><b>#2[p]</b></color> <u>base chance</u> of inflicting 1 stack of <u>Arcana</u> on adjacent targets.<br>When there are <b>#6[f]</b> or more <u>Arcana</u> stacks, enables the current DoT dealt this time to ignore <b>#7[p]</b> of the target's and adjacent targets' DEF."
             },
             "Params": [
                 [
@@ -31779,8 +31785,8 @@ var _avatarskill = {
                 "EN": "Impair"
             },
             "Desc": {
-                "CH": "敌方目标每回合开始时每受到1次持续伤害，有<color style='color:#f29e38;'> <b>#2[p]</b> </color>的<u>基础概率</u>陷入1层【<u>奥迹</u>】。\n【<u>奥迹</u>】状态下，敌方目标每回合开始时受到等同于黑天鹅<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的风属性持续伤害，每层【<u>奥迹</u>】使此伤害倍率提高<color style='color:#f29e38;'> <b>#3[p]</b> </color>，随后重置为1层。【<u>奥迹</u>】最多叠加 <b>#8[f]</b> 层。\n仅在敌方目标回合开始【<u>奥迹</u>】造成伤害时，黑天鹅根据目标陷入的【<u>奥迹</u>】层数触发额外效果：\n大于等于 <b>#4[f]</b> 层：对相邻目标造成等同于黑天鹅<color style='color:#f29e38;'> <b>#5[p]</b> </color>攻击力的风属性持续伤害，并且有<color style='color:#f29e38;'> <b>#2[p]</b> </color>的<u>基础概率</u>使相邻目标陷入1层【<u>奥迹</u>】。\n大于等于 <b>#6[f]</b> 层：使本次造成的持续伤害无视该目标及其相邻目标 <b>#7[p]</b> 的防御力。",
-                "EN": "Every time an enemy target receives DoT at the start of each turn, there is a <color style='color:#f29e38;'><b>#2[p]</b></color> <u>base chance</u> for it to be inflicted with 1 stack of <u>Arcana</u>.\nWhile afflicted with <u>Arcana</u>, enemy targets receive Wind DoT equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Black Swan's ATK at the start of each turn. Each stack of <u>Arcana</u> increases this DMG multiplier by <color style='color:#f29e38;'><b>#3[p]</b></color>. Then <u>Arcana</u> resets to 1 stack. <u>Arcana</u> can stack up to <b>#8[f]</b> times.\nOnly when <u>Arcana</u> causes DMG at the start of an enemy target's turn, Black Swan triggers additional effects based on the number of <u>Arcana</u> stacks inflicted on the target:\nWhen there are <b>#4[f]</b> or more <u>Arcana</u> stacks, deals Wind DoT equal to <color style='color:#f29e38;'><b>#5[p]</b></color> of Black Swan's ATK to adjacent targets, with a <color style='color:#f29e38;'><b>#2[p]</b></color> <u>base chance</u> of inflicting 1 stack of <u>Arcana</u> on adjacent targets.\nWhen there are <b>#6[f]</b> or more <u>Arcana</u> stacks, enables the current DoT dealt this time to ignore <b>#7[p]</b> of the target's and adjacent targets' DEF."
+                "CH": "敌方目标每回合开始时每受到1次持续伤害，有<color style='color:#f29e38;'> <b>#2[p]</b> </color>的<u>基础概率</u>陷入1层【<u>奥迹</u>】。<br>【<u>奥迹</u>】状态下，敌方目标每回合开始时受到等同于黑天鹅<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的风属性持续伤害，每层【<u>奥迹</u>】使此伤害倍率提高<color style='color:#f29e38;'> <b>#3[p]</b> </color>，随后重置为1层。【<u>奥迹</u>】最多叠加 <b>#8[f]</b> 层。<br>仅在敌方目标回合开始【<u>奥迹</u>】造成伤害时，黑天鹅根据目标陷入的【<u>奥迹</u>】层数触发额外效果：<br>大于等于 <b>#4[f]</b> 层：对相邻目标造成等同于黑天鹅<color style='color:#f29e38;'> <b>#5[p]</b> </color>攻击力的风属性持续伤害，并且有<color style='color:#f29e38;'> <b>#2[p]</b> </color>的<u>基础概率</u>使相邻目标陷入1层【<u>奥迹</u>】。<br>大于等于 <b>#6[f]</b> 层：使本次造成的持续伤害无视该目标及其相邻目标 <b>#7[p]</b> 的防御力。",
+                "EN": "Every time an enemy target receives DoT at the start of each turn, there is a <color style='color:#f29e38;'><b>#2[p]</b></color> <u>base chance</u> for it to be inflicted with 1 stack of <u>Arcana</u>.<br>While afflicted with <u>Arcana</u>, enemy targets receive Wind DoT equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Black Swan's ATK at the start of each turn. Each stack of <u>Arcana</u> increases this DMG multiplier by <color style='color:#f29e38;'><b>#3[p]</b></color>. Then <u>Arcana</u> resets to 1 stack. <u>Arcana</u> can stack up to <b>#8[f]</b> times.<br>Only when <u>Arcana</u> causes DMG at the start of an enemy target's turn, Black Swan triggers additional effects based on the number of <u>Arcana</u> stacks inflicted on the target:<br>When there are <b>#4[f]</b> or more <u>Arcana</u> stacks, deals Wind DoT equal to <color style='color:#f29e38;'><b>#5[p]</b></color> of Black Swan's ATK to adjacent targets, with a <color style='color:#f29e38;'><b>#2[p]</b></color> <u>base chance</u> of inflicting 1 stack of <u>Arcana</u> on adjacent targets.<br>When there are <b>#6[f]</b> or more <u>Arcana</u> stacks, enables the current DoT dealt this time to ignore <b>#7[p]</b> of the target's and adjacent targets' DEF."
             },
             "Params": [
                 [
@@ -31960,8 +31966,8 @@ var _avatarskill = {
                 "EN": "AoE"
             },
             "Desc": {
-                "CH": "使敌方全体陷入【揭露】状态，持续 <b>#2[f]</b> 回合。\n【揭露】状态下，敌方目标自身回合内受到的伤害提高<color style='color:#f29e38;'> <b>#3[p]</b> </color>，且当敌方目标处于【<u>奥迹</u>】状态时，也会被视为同时陷入了风化、裂伤、灼烧、触电状态，并且【<u>奥迹</u>】每回合开始造成伤害后不会重置层数。【<u>奥迹</u>】不会重置层数的效果在【揭露】状态持续时间内最多触发 <b>#4[f]</b> 次，再次陷入【揭露】状态会刷新触发次数。\n对敌方全体造成等同于黑天鹅<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的风属性伤害。",
-                "EN": "Inflicts Epiphany on all enemies for <b>#2[f]</b> turn(s).\nEnemies affected by Epiphany take <color style='color:#f29e38;'><b>#3[p]</b></color> more DMG in their turn, and their <u>Sacrament</u> effect is regarded as Wind Shear, Bleed, Burn, and Shock effects. In addition, when their <u>Sacrament</u> effect is triggered at the beginning of the next turn, the <u>Sacrament</u> stacks are not reset. The stack non-reset effect can be triggered up to <b>#4[f]</b> time(s) in Epiphany's duration, and its charges are replenished when Epiphany is applied again.\nDeals Wind DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Black Swan's ATK to all enemies."
+                "CH": "使敌方全体陷入【揭露】状态，持续 <b>#2[f]</b> 回合。<br>【揭露】状态下，敌方目标自身回合内受到的伤害提高<color style='color:#f29e38;'> <b>#3[p]</b> </color>，且当敌方目标处于【<u>奥迹</u>】状态时，也会被视为同时陷入了风化、裂伤、灼烧、触电状态，并且【<u>奥迹</u>】每回合开始造成伤害后不会重置层数。【<u>奥迹</u>】不会重置层数的效果在【揭露】状态持续时间内最多触发 <b>#4[f]</b> 次，再次陷入【揭露】状态会刷新触发次数。<br>对敌方全体造成等同于黑天鹅<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的风属性伤害。",
+                "EN": "Inflicts Epiphany on all enemies for <b>#2[f]</b> turn(s).<br>Enemies affected by Epiphany take <color style='color:#f29e38;'><b>#3[p]</b></color> more DMG in their turn, and their <u>Sacrament</u> effect is regarded as Wind Shear, Bleed, Burn, and Shock effects. In addition, when their <u>Sacrament</u> effect is triggered at the beginning of the next turn, the <u>Sacrament</u> stacks are not reset. The stack non-reset effect can be triggered up to <b>#4[f]</b> time(s) in Epiphany's duration, and its charges are replenished when Epiphany is applied again.<br>Deals Wind DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Black Swan's ATK to all enemies."
             },
             "Params": [
                 [
@@ -32081,8 +32087,8 @@ var _avatarskill = {
                 "EN": "AoE"
             },
             "Desc": {
-                "CH": "使敌方全体陷入【揭露】状态，持续 <b>#2[f]</b> 回合。\n【揭露】状态下，敌方目标自身回合内受到的伤害提高<color style='color:#f29e38;'> <b>#3[p]</b> </color>，且当敌方目标处于【<u>奥迹</u>】状态时，也会被视为同时陷入了风化、裂伤、灼烧、触电状态，并且【<u>奥迹</u>】每回合开始造成伤害后不会重置层数。【<u>奥迹</u>】不会重置层数的效果在【揭露】状态持续时间内最多触发 <b>#4[f]</b> 次，再次陷入【揭露】状态会刷新触发次数。\n对敌方全体造成等同于黑天鹅<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的风属性伤害。",
-                "EN": "Inflicts Epiphany on all enemies for <b>#2[f]</b> turn(s).\nWhile afflicted with Epiphany, enemies take <color style='color:#f29e38;'><b>#3[p]</b></color> increased DMG in their turn. Additionally, if enemies are also inflicted with <u>Arcana</u>, they are considered to be simultaneously afflicted with Wind Shear, Bleed, Burn, and Shock. After <u>Arcana</u> causes DMG at the start of each turn, its stacks are not reset. This non-reset effect of <u>Arcana</u> stacks can be triggered up to <b>#4[f]</b> time(s) for the duration of Epiphany. And the trigger count resets when Epiphany is applied again.\nDeals Wind DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Black Swan's ATK to all enemies."
+                "CH": "使敌方全体陷入【揭露】状态，持续 <b>#2[f]</b> 回合。<br>【揭露】状态下，敌方目标自身回合内受到的伤害提高<color style='color:#f29e38;'> <b>#3[p]</b> </color>，且当敌方目标处于【<u>奥迹</u>】状态时，也会被视为同时陷入了风化、裂伤、灼烧、触电状态，并且【<u>奥迹</u>】每回合开始造成伤害后不会重置层数。【<u>奥迹</u>】不会重置层数的效果在【揭露】状态持续时间内最多触发 <b>#4[f]</b> 次，再次陷入【揭露】状态会刷新触发次数。<br>对敌方全体造成等同于黑天鹅<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的风属性伤害。",
+                "EN": "Inflicts Epiphany on all enemies for <b>#2[f]</b> turn(s).<br>While afflicted with Epiphany, enemies take <color style='color:#f29e38;'><b>#3[p]</b></color> increased DMG in their turn. Additionally, if enemies are also inflicted with <u>Arcana</u>, they are considered to be simultaneously afflicted with Wind Shear, Bleed, Burn, and Shock. After <u>Arcana</u> causes DMG at the start of each turn, its stacks are not reset. This non-reset effect of <u>Arcana</u> stacks can be triggered up to <b>#4[f]</b> time(s) for the duration of Epiphany. And the trigger count resets when Epiphany is applied again.<br>Deals Wind DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Black Swan's ATK to all enemies."
             },
             "Params": [
                 [
@@ -41788,7 +41794,7 @@ var _avatarrank = {
             },
             "Desc": {
                 "CH": "战技等级+2，最多不超过 <b><color style='color:#f29e38'>15</color></b> 级；普攻等级+1，最多不超过 <b><color style='color:#f29e38'>10</color></b> 级。",
-                "EN": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>."
+                "EN": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>."
             },
             "Icon": "SkillIcon_1306_BP"
         }
@@ -41840,7 +41846,7 @@ var _avatarrank = {
             },
             "Desc": {
                 "CH": "终结技等级+2，最多不超过 <b><color style='color:#f29e38'>15</color></b> 级；天赋等级+2，最多不超过 <b><color style='color:#f29e38'>15</color></b> 级。",
-                "EN": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>."
+                "EN": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>."
             },
             "Icon": "SkillIcon_1306_Ultra"
         }
@@ -41944,7 +41950,7 @@ var _avatarrank = {
             },
             "Desc": {
                 "CH": "终结技等级+2，最多不超过 <b><color style='color:#f29e38'>15</color></b> 级，普攻等级+1，最多不超过 <b><color style='color:#f29e38'>10</color></b> 级。",
-                "EN": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>."
+                "EN": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>."
             },
             "Icon": "SkillIcon_1312_Ultra"
         }
@@ -41996,7 +42002,7 @@ var _avatarrank = {
             },
             "Desc": {
                 "CH": "战技等级+2，最多不超过 <b><color style='color:#f29e38'>15</color></b> 级，天赋等级+2，最多不超过 <b><color style='color:#f29e38'>15</color></b> 级。",
-                "EN": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>."
+                "EN": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>."
             },
             "Icon": "SkillIcon_1312_BP"
         }
@@ -42142,7 +42148,7 @@ var _avatarrank = {
             },
             "Desc": {
                 "CH": "战技等级+2，最多不超过 <b><color style='color:#f29e38'>15</color></b> 级，天赋等级+2，最多不超过 <b><color style='color:#f29e38'>15</color></b> 级。",
-                "EN": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nTalent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>."
+                "EN": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>."
             },
             "Icon": "SkillIcon_1307_BP"
         }
@@ -42194,7 +42200,7 @@ var _avatarrank = {
             },
             "Desc": {
                 "CH": "终结技等级+2，最多不超过 <b><color style='color:#f29e38'>15</color></b> 级，普攻等级+1，最多不超过 <b><color style='color:#f29e38'>10</color></b> 级。",
-                "EN": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.\nBasic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>."
+                "EN": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>."
             },
             "Icon": "SkillIcon_1307_Ultra"
         }
@@ -42303,8 +42309,8 @@ var _avatarrank = {
                 "EN": "Pantheon Merciful, Masses Pitiful"
             },
             "Desc": {
-                "CH": "当敌方目标受到黑天鹅的队友的攻击时，黑天鹅有 <b><color style='color:#f29e38'>65.0%</color></b> 的基础概率使目标陷入1层【奥迹】。\n每当黑天鹅使敌方目标陷入【奥迹】时，有 <b><color style='color:#f29e38'>50.0%</color></b> 的固定概率使本次叠加的【奥迹】层数额外提高 <b><color style='color:#f29e38'>1.0</color></b> 层。",
-                "EN": "When an enemy target gets attacked by Black Swan's allies, Black Swan has a <b><color style='color:#f29e38'>65.0%</color></b> base chance of inflicting 1 stack of Arcana on the target.\nEvery time Black Swan inflicts Arcana on an enemy target, there is a <b><color style='color:#f29e38'>50.0%</color></b> fixed chance to additionally increase the number of Arcana stacked this time by <b><color style='color:#f29e38'>1.0</color></b>."
+                "CH": "当敌方目标受到黑天鹅的队友的攻击时，黑天鹅有 <b><color style='color:#f29e38'>65.0%</color></b> 的基础概率使目标陷入1层【奥迹】。<br>每当黑天鹅使敌方目标陷入【奥迹】时，有 <b><color style='color:#f29e38'>50.0%</color></b> 的固定概率使本次叠加的【奥迹】层数额外提高 <b><color style='color:#f29e38'>1.0</color></b> 层。",
+                "EN": "When an enemy target gets attacked by Black Swan's allies, Black Swan has a <b><color style='color:#f29e38'>65.0%</color></b> base chance of inflicting 1 stack of Arcana on the target.<br>Every time Black Swan inflicts Arcana on an enemy target, there is a <b><color style='color:#f29e38'>50.0%</color></b> fixed chance to additionally increase the number of Arcana stacked this time by <b><color style='color:#f29e38'>1.0</color></b>."
             },
             "Icon": "SkillIcon_1307_Rank6"
         }
@@ -80882,8 +80888,8 @@ var _weaponskill = {
             },
             "Desc": [
                 {
-                    "CH": "使装备者造成的伤害提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> 。装备者每次施放攻击后，速度提高 <color style='color:#f29e38;'>4.8%</color> / <color style='color:#f29e38;'>5.6%</color> / <color style='color:#f29e38;'>6.4%</color> / <color style='color:#f29e38;'>7.2%</color> / <color style='color:#f29e38;'>8.0%</color> ，最多叠加 <b>3.0</b> 层。\n当装备者击中敌方目标时，如果该目标不处于【游丝】状态，则有 <b>100%</b> 的基础概率使其陷入【游丝】状态。当敌方目标处于【游丝】状态时，也会被视为陷入了触电状态。【游丝】状态下，敌方目标每回合开始时受到等同于装备者 <color style='color:#f29e38;'>60.0%</color> / <color style='color:#f29e38;'>70.0%</color> / <color style='color:#f29e38;'>80.0%</color> / <color style='color:#f29e38;'>90.0%</color> / <color style='color:#f29e38;'>100.0%</color> 攻击力的雷属性持续伤害，持续 <b>1.0</b> 回合。",
-                    "EN": "Increases DMG dealt by the wearer by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> . After every attack launched by wearer, their SPD increases by <color style='color:#f29e38;'>4.8%</color> / <color style='color:#f29e38;'>5.6%</color> / <color style='color:#f29e38;'>6.4%</color> / <color style='color:#f29e38;'>7.2%</color> / <color style='color:#f29e38;'>8.0%</color> , stacking up to <b>3.0</b> times.\nIf the wearer hits an enemy target that is not afflicted by Erode, there is a <b>100%</b> base chance to inflict Erode to the target. Enemies afflicted with Erode are also considered to be Shocked and will receive Lightning DoT at the start of each turn equal to <color style='color:#f29e38;'>60.0%</color> / <color style='color:#f29e38;'>70.0%</color> / <color style='color:#f29e38;'>80.0%</color> / <color style='color:#f29e38;'>90.0%</color> / <color style='color:#f29e38;'>100.0%</color>  of the wearer's ATK, lasting for <b>1.0</b> turn(s)."
+                    "CH": "使装备者造成的伤害提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> 。装备者每次施放攻击后，速度提高 <color style='color:#f29e38;'>4.8%</color> / <color style='color:#f29e38;'>5.6%</color> / <color style='color:#f29e38;'>6.4%</color> / <color style='color:#f29e38;'>7.2%</color> / <color style='color:#f29e38;'>8.0%</color> ，最多叠加 <b>3.0</b> 层。<br>当装备者击中敌方目标时，如果该目标不处于【游丝】状态，则有 <b>100%</b> 的基础概率使其陷入【游丝】状态。当敌方目标处于【游丝】状态时，也会被视为陷入了触电状态。【游丝】状态下，敌方目标每回合开始时受到等同于装备者 <color style='color:#f29e38;'>60.0%</color> / <color style='color:#f29e38;'>70.0%</color> / <color style='color:#f29e38;'>80.0%</color> / <color style='color:#f29e38;'>90.0%</color> / <color style='color:#f29e38;'>100.0%</color> 攻击力的雷属性持续伤害，持续 <b>1.0</b> 回合。",
+                    "EN": "Increases DMG dealt by the wearer by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> . After every attack launched by wearer, their SPD increases by <color style='color:#f29e38;'>4.8%</color> / <color style='color:#f29e38;'>5.6%</color> / <color style='color:#f29e38;'>6.4%</color> / <color style='color:#f29e38;'>7.2%</color> / <color style='color:#f29e38;'>8.0%</color> , stacking up to <b>3.0</b> times.<br>If the wearer hits an enemy target that is not afflicted by Erode, there is a <b>100%</b> base chance to inflict Erode to the target. Enemies afflicted with Erode are also considered to be Shocked and will receive Lightning DoT at the start of each turn equal to <color style='color:#f29e38;'>60.0%</color> / <color style='color:#f29e38;'>70.0%</color> / <color style='color:#f29e38;'>80.0%</color> / <color style='color:#f29e38;'>90.0%</color> / <color style='color:#f29e38;'>100.0%</color>  of the wearer's ATK, lasting for <b>1.0</b> turn(s)."
                 }
             ]
         }
@@ -80952,8 +80958,8 @@ var _weaponskill = {
             },
             "Desc": [
                 {
-                    "CH": "使装备者的生命上限提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> ，能量恢复效率提高 <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> 。当装备者的生命值降低时，使我方全体造成的伤害提高 <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.5%</color> / <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>13.5%</color> / <color style='color:#f29e38;'>15.0%</color> ，持续 <b>2.0</b> 回合。\n每个波次开始时，为我方全体回复等同于各自已损失生命值 <color style='color:#f29e38;'>80.0%</color> / <color style='color:#f29e38;'>85.0%</color> / <color style='color:#f29e38;'>90.0%</color> / <color style='color:#f29e38;'>95.0%</color> / <color style='color:#f29e38;'>100.0%</color> 的生命值。",
-                    "EN": "Increases the wearer's Max HP by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color>  and Energy Regeneration Rate by <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> . When the wearer's HP is reduced, all allies' DMG dealt increases by <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.5%</color> / <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>13.5%</color> / <color style='color:#f29e38;'>15.0%</color> , lasting for <b>2.0</b> turn(s).\nAt the start of every wave, restores HP to all allies by an amount equal to <color style='color:#f29e38;'>80.0%</color> / <color style='color:#f29e38;'>85.0%</color> / <color style='color:#f29e38;'>90.0%</color> / <color style='color:#f29e38;'>95.0%</color> / <color style='color:#f29e38;'>100.0%</color>  of their respective lost HP."
+                    "CH": "使装备者的生命上限提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> ，能量恢复效率提高 <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> 。当装备者的生命值降低时，使我方全体造成的伤害提高 <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.5%</color> / <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>13.5%</color> / <color style='color:#f29e38;'>15.0%</color> ，持续 <b>2.0</b> 回合。<br>每个波次开始时，为我方全体回复等同于各自已损失生命值 <color style='color:#f29e38;'>80.0%</color> / <color style='color:#f29e38;'>85.0%</color> / <color style='color:#f29e38;'>90.0%</color> / <color style='color:#f29e38;'>95.0%</color> / <color style='color:#f29e38;'>100.0%</color> 的生命值。",
+                    "EN": "Increases the wearer's Max HP by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color>  and Energy Regeneration Rate by <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>14.0%</color> / <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>18.0%</color> / <color style='color:#f29e38;'>20.0%</color> . When the wearer's HP is reduced, all allies' DMG dealt increases by <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.5%</color> / <color style='color:#f29e38;'>12.0%</color> / <color style='color:#f29e38;'>13.5%</color> / <color style='color:#f29e38;'>15.0%</color> , lasting for <b>2.0</b> turn(s).<br>At the start of every wave, restores HP to all allies by an amount equal to <color style='color:#f29e38;'>80.0%</color> / <color style='color:#f29e38;'>85.0%</color> / <color style='color:#f29e38;'>90.0%</color> / <color style='color:#f29e38;'>95.0%</color> / <color style='color:#f29e38;'>100.0%</color>  of their respective lost HP."
                 }
             ]
         }
@@ -81120,8 +81126,8 @@ var _weaponskill = {
             },
             "Desc": [
                 {
-                    "CH": "使装备者击破特攻提高 <color style='color:#f29e38;'>60.0%</color> / <color style='color:#f29e38;'>70.0%</color> / <color style='color:#f29e38;'>80.0%</color> / <color style='color:#f29e38;'>90.0%</color> / <color style='color:#f29e38;'>100.0%</color> 。装备者施放终结技后，使我方全体造成的伤害提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> ，持续 <b>3.0</b> 回合，并且若装备者击破特攻大于等于 <b>150.0%</b> ，则恢复1个战技点。\n每个波次开始时，我方全体立即恢复 <color style='color:#f29e38;'>10.0</color> / <color style='color:#f29e38;'>12.5</color> / <color style='color:#f29e38;'>15.0</color> / <color style='color:#f29e38;'>17.5</color> / <color style='color:#f29e38;'>20.0</color> 点能量，同类技能无法重复生效。",
-                    "EN": "Increases the wearer's Break Effect by <color style='color:#f29e38;'>60.0%</color> / <color style='color:#f29e38;'>70.0%</color> / <color style='color:#f29e38;'>80.0%</color> / <color style='color:#f29e38;'>90.0%</color> / <color style='color:#f29e38;'>100.0%</color> . When the wearer uses their Ultimate, increases all allies' DMG by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> , lasting for <b>3.0</b> turn(s). Should the wearer's Break Effect exceed or equal <b>150.0%</b>, 1 Skill Point will be recovered.\nAt the start of each wave, all allies regenerate <color style='color:#f29e38;'>10.0</color> / <color style='color:#f29e38;'>12.5</color> / <color style='color:#f29e38;'>15.0</color> / <color style='color:#f29e38;'>17.5</color> / <color style='color:#f29e38;'>20.0</color>  Energy immediately. Effects of the same type cannot stack."
+                    "CH": "使装备者击破特攻提高 <color style='color:#f29e38;'>60.0%</color> / <color style='color:#f29e38;'>70.0%</color> / <color style='color:#f29e38;'>80.0%</color> / <color style='color:#f29e38;'>90.0%</color> / <color style='color:#f29e38;'>100.0%</color> 。装备者施放终结技后，使我方全体造成的伤害提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> ，持续 <b>3.0</b> 回合，并且若装备者击破特攻大于等于 <b>150.0%</b> ，则恢复1个战技点。<br>每个波次开始时，我方全体立即恢复 <color style='color:#f29e38;'>10.0</color> / <color style='color:#f29e38;'>12.5</color> / <color style='color:#f29e38;'>15.0</color> / <color style='color:#f29e38;'>17.5</color> / <color style='color:#f29e38;'>20.0</color> 点能量，同类技能无法重复生效。",
+                    "EN": "Increases the wearer's Break Effect by <color style='color:#f29e38;'>60.0%</color> / <color style='color:#f29e38;'>70.0%</color> / <color style='color:#f29e38;'>80.0%</color> / <color style='color:#f29e38;'>90.0%</color> / <color style='color:#f29e38;'>100.0%</color> . When the wearer uses their Ultimate, increases all allies' DMG by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> , lasting for <b>3.0</b> turn(s). Should the wearer's Break Effect exceed or equal <b>150.0%</b>, 1 Skill Point will be recovered.<br>At the start of each wave, all allies regenerate <color style='color:#f29e38;'>10.0</color> / <color style='color:#f29e38;'>12.5</color> / <color style='color:#f29e38;'>15.0</color> / <color style='color:#f29e38;'>17.5</color> / <color style='color:#f29e38;'>20.0</color>  Energy immediately. Effects of the same type cannot stack."
                 }
             ]
         }
