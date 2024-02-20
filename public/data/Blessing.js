@@ -6844,4 +6844,1125 @@ var _blessingtypes = [
     }
 ]
 
-var _blessingextra = {}
+var _blessingextra = {
+    "10000000": {
+        "Name": {
+            "CH": "额外回合",
+            "EN": "Extra Turn"
+        },
+        "Desc": {
+            "CH": "获得1个不消耗回合数的额外回合，在此回合中无法插入施放终结技。",
+            "EN": "Gain 1 extra turn that won't expend your remaining turns when taking action. During this extra turn, no Ultimate can be used."
+        }
+    },
+    "10000001": {
+        "Name": {
+            "CH": "行动提前",
+            "EN": "Action advanced"
+        },
+        "Desc": {
+            "CH": "使目标在下次行动前的等待间隔缩短。",
+            "EN": "Reduces the target's waiting interval before the next action."
+        }
+    },
+    "10000002": {
+        "Name": {
+            "CH": "行动延后",
+            "EN": "Action delayed"
+        },
+        "Desc": {
+            "CH": "使目标在下次行动前的等待间隔延长。",
+            "EN": "Increases the target's waiting interval before the next action."
+        }
+    },
+    "10000003": {
+        "Name": {
+            "CH": "反击",
+            "EN": "Counter"
+        },
+        "Desc": {
+            "CH": "当目标受到攻击后自动触发的效果，对攻击者施放1次额外的攻击。<br>反击也属于追加攻击。",
+            "EN": "An effect that automatically triggers when the target is attacked, which unleashes an extra attack on the attacker.<br>Counter is also considered a follow-up attack."
+        }
+    },
+    "10000004": {
+        "Name": {
+            "CH": "追加攻击",
+            "EN": "Follow-Up Attack"
+        },
+        "Desc": {
+            "CH": "满足条件时自动触发的效果，对目标施放1次额外的攻击。",
+            "EN": "Unleashes an extra attack on the target. This effect is triggered automatically when requirements are met."
+        }
+    },
+    "10000005": {
+        "Name": {
+            "CH": "附加伤害",
+            "EN": "Additional DMG"
+        },
+        "Desc": {
+            "CH": "使受击者额外受到1次伤害，本次伤害不视为造成了1次攻击。",
+            "EN": "Causes the target being hit to take extra DMG, which is not considered an attack."
+        }
+    },
+    "10000006": {
+        "Name": {
+            "CH": "弱点击破状态",
+            "EN": "Weakness Break State"
+        },
+        "Desc": {
+            "CH": "当敌方目标的韧性被削减至0时进入的特殊状态，进入该状态的目标行动会被延后。",
+            "EN": "When enemy targets' Toughness is reduced to 0, they will enter the Weakness Break State, which delays their actions."
+        }
+    },
+    "10000007": {
+        "Name": {
+            "CH": "无法战斗状态",
+            "EN": "Downed State"
+        },
+        "Desc": {
+            "CH": "当我方目标的当前生命值被削减至0时进入的特殊状态，处于该状态的目标无法继续战斗。",
+            "EN": "An ally will be incapacitated once their HP is reduced to 0."
+        }
+    },
+    "10000008": {
+        "Name": {
+            "CH": "弱点击破效率",
+            "EN": "Weakness Break Efficiency"
+        },
+        "Desc": {
+            "CH": "弱点击破效率越高，对韧性造成的伤害就越高。",
+            "EN": "The higher the Weakness Break efficiency is, the more the DMG will be dealt to Toughness."
+        }
+    },
+    "10000009": {
+        "Name": {
+            "CH": "增益效果",
+            "EN": "Buff"
+        },
+        "Desc": {
+            "CH": "对战斗有增益效果的所有持续状态，若无特殊说明则可以被解除。",
+            "EN": "Can buff combat ability for a period of time, which can be dispelled unless otherwise specified."
+        }
+    },
+    "10000010": {
+        "Name": {
+            "CH": "负面效果",
+            "EN": "Debuff"
+        },
+        "Desc": {
+            "CH": "对战斗有负面效果的所有持续状态，若无特殊说明则可以被解除。",
+            "EN": "Debuffs are negative status effects that render units weaker. Unless otherwise specified, debuffs can be dispelled."
+        }
+    },
+    "10000011": {
+        "Name": {
+            "CH": "控制类负面状态",
+            "EN": "Crowd Control debuff"
+        },
+        "Desc": {
+            "CH": "冻结，纠缠，禁锢，支配，怒噪，强烈震荡。",
+            "EN": "Frozen, Entanglement, Imprisonment, Dominated, Outrage, and Strong Reverberation"
+        }
+    },
+    "10000012": {
+        "Name": {
+            "CH": "持续伤害类负面状态",
+            "EN": "DoT Debuff"
+        },
+        "Desc": {
+            "CH": "裂伤，灼烧，触电，风化。",
+            "EN": "Bleed, Burn, Shock, Wind Shear."
+        }
+    },
+    "10000013": {
+        "Name": {
+            "CH": "分摊",
+            "EN": "Distribute"
+        },
+        "Desc": {
+            "CH": "在伤害结算之前将攻击方的一部分伤害分给其他单个或多个目标，受击方承担剩余部分。分摊给其他目标的伤害无法再次被分摊。",
+            "EN": "Before DMG is calculated, distribute a part of the attacking unit's DMG to another target (or multiple other targets), with the target hit by the attack taking the rest of the DMG. DMG distributed to other targets cannot be distributed again."
+        }
+    },
+    "10013071": {
+        "Name": {
+            "CH": "奥迹",
+            "EN": "Arcana"
+        },
+        "Desc": {
+            "CH": "【奥迹】属于持续伤害类负面状态，该状态无法被解除。<br>处于【奥迹】状态时，也会被视为陷入了风化状态。【奥迹】状态下，目标每回合开始受到风属性持续伤害。<br>施加【奥迹】状态时无视目标的风化抵抗、裂伤抵抗、灼烧抵抗、触电抵抗。",
+            "EN": "Arcana is a debuff that deals DMG over time. This debuff cannot be dispelled.<br>While in the Arcana state, the unit is also considered to be in the Wind Shear state and takes Wind DoT at the start of each turn.<br>The infliction of Arcana ignores the target's Wind Shear RES, Bleed RES, Burn RES, and Shock RES."
+        }
+    },
+    "30000001": {
+        "Name": {
+            "CH": "基础概率",
+            "EN": "Base Chance"
+        },
+        "Desc": {
+            "CH": "给受击者添加负面效果的基础概率。<br>最终概率会被攻击者的效果命中和敌方目标的效果抵抗所影响。",
+            "EN": "The base chance of applying debuffs to targets hit. <br>The final probability is affected by the attacker's Effect Hit Rate and enemy targets' Effect RES."
+        }
+    },
+    "30000002": {
+        "Name": {
+            "CH": "固定概率",
+            "EN": "Fixed Chance"
+        },
+        "Desc": {
+            "CH": "不会被任何因素影响的固定概率。",
+            "EN": "Fixed chance will not be affected by any factor."
+        }
+    },
+    "30000003": {
+        "Name": {
+            "CH": "效果抵抗",
+            "EN": "Effect RES"
+        },
+        "Desc": {
+            "CH": "效果抵抗能抵抗攻击者造成的负面效果。<br>这个数值越高，成功抵抗负面效果的概率就越高。",
+            "EN": "Effect RES increases resistance against incoming debuffs from attackers. <br>A higher Effect RES will result in higher chances of successfully resisting a debuff."
+        }
+    },
+    "30000004": {
+        "Name": {
+            "CH": "效果命中",
+            "EN": "Effect Hit Rate"
+        },
+        "Desc": {
+            "CH": "效果命中能提高对敌方目标造成负面效果的概率。<br>这个数值越高，成功造成负面效果的概率就越高。",
+            "EN": "Effect Hit Rate increases the chance of applying debuffs to enemy targets. <br>A higher Effect Hit Rate will result in higher chances of successfully applying a debuff."
+        }
+    },
+    "30000005": {
+        "Name": {
+            "CH": "抗性穿透",
+            "EN": "RES PEN"
+        },
+        "Desc": {
+            "CH": "当造成伤害时，无视敌方目标的一部分对应伤害属性的抗性值。",
+            "EN": "When dealing DMG, ignore a part of the enemy target's resistance to the corresponding damage type."
+        }
+    },
+    "30000006": {
+        "Name": {
+            "CH": "击破特攻",
+            "EN": "Break Effect"
+        },
+        "Desc": {
+            "CH": "击破特攻能提高造成弱点击破时产生的各类效果。<br>包括触发时造成的伤害、持续伤害的威力、行动延迟的幅度。",
+            "EN": "Break Effect enhances the various Weakness Break effects. <br>Such as the amount of DMG dealt upon Weakness Break, the amount of DMG dealt by DoTs per turn, and how far enemy actions are delayed."
+        }
+    },
+    "30000007": {
+        "Name": {
+            "CH": "能量恢复效率",
+            "EN": "Energy Regeneration Rate"
+        },
+        "Desc": {
+            "CH": "能量恢复效率能够提高角色在施放技能、消灭敌人、受到攻击等行为时获取的能量值。<br>这个数值越高，角色能量恢复得越快。<br>部分恢复我方目标能量的效果所恢复的能量值不会受到能量恢复效率的影响。",
+            "EN": "Energy Regeneration Rate can boost the amount of Energy a character gains when performing actions such as using abilities, defeating enemies, or taking DMG.<br>A higher rate means faster Energy regeneration.<br>However, certain Energy-Regenerating effects won't be impacted by this rate."
+        }
+    },
+    "30000008": {
+        "Name": {
+            "CH": "速度",
+            "EN": "SPD"
+        },
+        "Desc": {
+            "CH": "速度会影响目标两次行动之间的间隔，速度越快，间隔越短。<br>同时速度也会影响进入战斗时的行动序列。",
+            "EN": "SPD affects the interval between the target's actions. The faster the SPD, the shorter the interval.<br>At the same time, SPD will also affect the Action Order when entering combat."
+        }
+    },
+    "30000009": {
+        "Name": {
+            "CH": "能量上限",
+            "EN": "Max Energy"
+        },
+        "Desc": {
+            "CH": "角色施放一次终结技所需的能量值。",
+            "EN": "Energy required for a character to unleash Ultimate."
+        }
+    },
+    "30001010": {
+        "Name": {
+            "CH": "dev_基础概率",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_对敌方施加负面效果的命中概率，受角色的状态概率影响",
+            "EN": ""
+        }
+    },
+    "40010201": {
+        "Name": {
+            "CH": "dev_流血",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_每回合开始受到物理伤害",
+            "EN": ""
+        }
+    },
+    "40010202": {
+        "Name": {
+            "CH": "dev_灼烧",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_每回合开始受到火焰伤害",
+            "EN": ""
+        }
+    },
+    "40010301": {
+        "Name": {
+            "CH": "dev_回春",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_每回合开始生回复命值",
+            "EN": ""
+        }
+    },
+    "40010302": {
+        "Name": {
+            "CH": "dev_回能",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_每回合开始回复能量",
+            "EN": ""
+        }
+    },
+    "40010401": {
+        "Name": {
+            "CH": "dev_免疫伤害",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_受到伤害为0，可以触发受击额外效果",
+            "EN": ""
+        }
+    },
+    "40010501": {
+        "Name": {
+            "CH": "dev_嘲讽",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_只能选择施法者为攻击目标",
+            "EN": ""
+        }
+    },
+    "40010502": {
+        "Name": {
+            "CH": "dev_眩晕",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_不能行动",
+            "EN": ""
+        }
+    },
+    "40010503": {
+        "Name": {
+            "CH": "dev_冻结",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_不能行动",
+            "EN": ""
+        }
+    },
+    "40010601": {
+        "Name": {
+            "CH": "dev_禁疗",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_不能受到回复效果",
+            "EN": ""
+        }
+    },
+    "40010602": {
+        "Name": {
+            "CH": "dev_沉默",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_只能使用普通攻击",
+            "EN": ""
+        }
+    },
+    "40010701": {
+        "Name": {
+            "CH": "dev_潜行",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_当存在友方非潜行单位时，无法成为技能的目标",
+            "EN": ""
+        }
+    },
+    "40010801": {
+        "Name": {
+            "CH": "dev_爪牙",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_当召唤者被消灭时，爪牙也会一同消灭",
+            "EN": ""
+        }
+    },
+    "50000101": {
+        "Name": {
+            "CH": "dev_额外回合",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_立刻执行额外回合，不会影响自身的行动回合",
+            "EN": ""
+        }
+    },
+    "50000102": {
+        "Name": {
+            "CH": "dev_再行动",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_在自身回合结束前触发再次行动",
+            "EN": ""
+        }
+    },
+    "60000001": {
+        "Name": {
+            "CH": "反震",
+            "EN": "Quake"
+        },
+        "Desc": {
+            "CH": "由特定「存护」命途祝福造成的附加伤害。",
+            "EN": "Additional DMG dealt by specific Blessings of Preservation."
+        }
+    },
+    "60000002": {
+        "Name": {
+            "CH": "离神",
+            "EN": "Dissociation"
+        },
+        "Desc": {
+            "CH": "由特定「记忆」命途祝福施加的负面效果。<br>被视为冻结状态，一定回合内无法行动，该状态解除时会造成等同于敌方目标生命上限 30.0% 的冰属性附加伤害。",
+            "EN": "Debuff caused by specific Blessings of Remembrance.<br>The enemy is considered Frozen and will be unable to act for a designated number of turns. After Freeze is removed, deals Additional Ice DMG equal to 30.0% of the enemy's Max HP."
+        }
+    },
+    "60000003": {
+        "Name": {
+            "CH": "回味",
+            "EN": "Aftertaste"
+        },
+        "Desc": {
+            "CH": "由特定「欢愉」命途祝福造成的随机属性追加攻击伤害。",
+            "EN": "Follow-up attack of random DMG Types dealt by specific Blessings of Elation."
+        }
+    },
+    "60000004": {
+        "Name": {
+            "CH": "会心",
+            "EN": "Critical Boost"
+        },
+        "Desc": {
+            "CH": "由特定「巡猎」命途祝福施加的增益效果。<br>每层使暴击率提高 6.0% ，暴击伤害提高 12.0% ，该效果最多叠加 8.0 层，可以传递给下一个回合开始的我方目标。当任意我方目标受到攻击后层数清零。",
+            "EN": "Buff brought by certain Hunt Blessings.<br>For each stack, increases CRIT Rate by 6.0% and CRIT DMG by 12.0%. Stacks up to 8.0 times. This buff can be transferred to allies when the next turn starts. Stacks reset when any ally is attacked."
+        }
+    },
+    "60000005": {
+        "Name": {
+            "CH": "战意",
+            "EN": "Fighting Spirit"
+        },
+        "Desc": {
+            "CH": "由特定「毁灭」命途祝福施加的增益效果。<br>每层使攻击力提高 3.0% ，防御力提高 3.0% ，该效果最多叠加 35.0 层。",
+            "EN": "Buff brought by certain Destruction Blessings.<br>For each stack, increases ATK by 3.0% and DEF by 3.0%. Stacks up to 35.0 times."
+        }
+    },
+    "60000006": {
+        "Name": {
+            "CH": "琥珀",
+            "EN": "Amber"
+        },
+        "Desc": {
+            "CH": "拥有护盾角色受到会使护盾耗尽的攻击，溢出护盾的伤害无效，生效后移除。",
+            "EN": "When a character with a Shield receives DMG that exceeds the max DMG that can be absorbed by the Shield, the excess DMG becomes invalid. This effect is removed after 1 activation."
+        }
+    },
+    "60000007": {
+        "Name": {
+            "CH": "迷惘",
+            "EN": "Confusion"
+        },
+        "Desc": {
+            "CH": "陷入弱点击破状态时，每层【迷惘】会使其当前承受的所有持续伤害立即造成相当于原伤害 30.0% 的伤害，随后消耗1层该状态。该状态最多叠加5层。",
+            "EN": "When enemies are Weakness Broken, every stack of Confusion will cause all DoTs currently on the enemy to immediately deal DMG equal to 30.0% of their original DoT. Consumes 1 stack of Confusion. Confusion can stack up to 5 times."
+        }
+    },
+    "60000008": {
+        "Name": {
+            "CH": "空乏",
+            "EN": "Devoid"
+        },
+        "Desc": {
+            "CH": "每层使韧性恢复量降低 10.0% 。该状态最多叠加5层。",
+            "EN": "Each stack reduces Toughness regeneration by 10.0%, stacking up to 5 times."
+        }
+    },
+    "60000009": {
+        "Name": {
+            "CH": "调伏诸厄",
+            "EN": "Subduing Evils"
+        },
+        "Desc": {
+            "CH": "可以消耗1层该状态抵抗1次负面效果，并在抵抗后回复等同于自身 10.0% 生命上限的生命值。该状态最多叠加 5.0 层。",
+            "EN": "Can consume 1 stack of this state to resist a debuff once, and then restore HP equal to 10.0% of the character's Max HP. This state can stack up to 5.0 time(s)."
+        }
+    },
+    "60000010": {
+        "Name": {
+            "CH": "光巡天矢",
+            "EN": "Light-Hunting Celestial Arrow"
+        },
+        "Desc": {
+            "CH": "暴击伤害提高，提高数值等同于暴击率的 80.0% ，并在击败敌方目标后获得追加回合，该效果无法重复触发。",
+            "EN": "CRIT DMG increases by an amount equal to 80.0% of CRIT Rate. Gains one extra turn after defeating the enemy. This effect cannot trigger repeatedly."
+        }
+    },
+    "60000011": {
+        "Name": {
+            "CH": "熵灭笞罚",
+            "EN": "Entropic Retribution"
+        },
+        "Desc": {
+            "CH": "防御力降低 20.0% ，每回合开始时受到等同于我方全体已损失生命值总量 125.0% 的火属性附加伤害。",
+            "EN": "DEF decreases by 20.0%. At the beginning of each turn, the unit receives Additional Fire DMG equal to 125.0% of the HP difference between all allied characters' Max HP and their current HP."
+        }
+    },
+    "60000012": {
+        "Name": {
+            "CH": "怀疑",
+            "EN": "Suspicion"
+        },
+        "Desc": {
+            "CH": "由特定「虚无」命途祝福施加的负面效果。<br>每层使受到的持续伤害提高 1.0% ，该效果最多叠加 99.0 层，在回合结束时失去 2.0 层。",
+            "EN": "Debuff brought by certain Nihility Blessings.<br>Increases DoT taken by 1.0%. Stacks up to 99.0 times, but loses 2.0 stacks at the end of the turn."
+        }
+    },
+    "60000013": {
+        "Name": {
+            "CH": "珠露",
+            "EN": "Dewdrop"
+        },
+        "Desc": {
+            "CH": "由特定「丰饶」命途祝福形成的充能效果。<br>充能值不超过角色生命上限的 500.0% 。施放攻击后破裂，基于充能值对攻击的敌方目标造成附加伤害。",
+            "EN": "An effect that can be charged up, formed by specific Blessings of Abundance.<br>The Charge cannot exceed 500.0% of the character's Max HP. Dewdrop ruptures after the character attacks, dealing Additional DMG to the attacked enemy based on Charge value."
+        }
+    },
+    "60000014": {
+        "Name": {
+            "CH": "感官追猎",
+            "EN": "Sensory Pursuit"
+        },
+        "Desc": {
+            "CH": "每层使受到的追加攻击伤害提高 8.0% 。",
+            "EN": "Each stack increases the received follow-up attack DMG by 8.0%."
+        }
+    },
+    "60000015": {
+        "Name": {
+            "CH": "永恒河流",
+            "EN": "Eonian River"
+        },
+        "Desc": {
+            "CH": "陷入负面效果时，该负面效果的持续时间翻倍。",
+            "EN": "When debuffed, the duration of this debuff doubles."
+        }
+    },
+    "60000016": {
+        "Name": {
+            "CH": "蜕变",
+            "EN": "Metamorphosis"
+        },
+        "Desc": {
+            "CH": "攻击时，每消耗或恢复1个战技点，该次攻击可无视敌方目标 10.0% 的全属性抗性，该效果最多叠加 2.0 层。",
+            "EN": "During an attack, for every skill point consumed or recovered, the attack can ignore 10.0% of the target enemy's all-Type RES. This effect can stack up to 2.0 times."
+        }
+    },
+    "60000017": {
+        "Name": {
+            "CH": "孢子",
+            "EN": "Spores"
+        },
+        "Desc": {
+            "CH": "当持有数量大于等于 3.0 个时，会在受到角色攻击时爆裂，对持有目标造成不受加成影响的风属性附加伤害。爆裂后会传播给随机相邻目标，且无法二次传播，每个敌方目标最多持有 6.0 个。",
+            "EN": "When the spore count is equal to or greater than 3.0, it will burst upon being attacked by a character, causing Additional Wind DMG (unaffected by bonuses) to the target with the Spores. After the explosion, it will spread to a random adjacent target and cannot spread again. Each enemy target can hold a maximum of 6.0 spores."
+        }
+    },
+    "61000001": {
+        "Name": {
+            "CH": "追猎",
+            "EN": "Hounding Pursuit"
+        },
+        "Desc": {
+            "CH": "带有该效果的区域不会与相邻区域互换位置（突发事件除外）",
+            "EN": "Domains with this effect will not swap positions with adjacent domains (Aside from Emergencies)"
+        }
+    },
+    "61000002": {
+        "Name": {
+            "CH": "基石",
+            "EN": "Cornerstone"
+        },
+        "Desc": {
+            "CH": "带有该效果的区域不会发生塌陷",
+            "EN": "Domains with this effect will not collapse"
+        }
+    },
+    "61000003": {
+        "Name": {
+            "CH": "慈怀",
+            "EN": "Mercy"
+        },
+        "Desc": {
+            "CH": "进入带有该效果的区域时，倒计时不会消耗，且会增加1点；<br>（该效果在触发【位面紊乱！】后不再生效）",
+            "EN": "When entering domains with this effect applied, the countdown is not consumed and increases by 1 point.<br>(This effect will expire after triggering Planar Disarray.)"
+        }
+    },
+    "61000004": {
+        "Name": {
+            "CH": "追忆",
+            "EN": "Recollection"
+        },
+        "Desc": {
+            "CH": "进入带有该效果的区域时将提高我方全体效果命中",
+            "EN": "Increases the Effect Hit Rate of all allies when entering any domains with this effect."
+        }
+    },
+    "61000005": {
+        "Name": {
+            "CH": "强化",
+            "EN": "Enhance"
+        },
+        "Desc": {
+            "CH": "强化信标，带有该信标的区域中敌人获得强化。战斗胜利后选择祝福时，升级所有祝福。",
+            "EN": "Enhance beacon. Enemies in domains with this beacon are enhanced. When selecting a Blessing after winning a battle, enhance all Blessings."
+        }
+    },
+    "61000006": {
+        "Name": {
+            "CH": "异化",
+            "EN": "Mutation"
+        },
+        "Desc": {
+            "CH": "异化信标，带有该信标的区域中敌人将变成「错误」的敌人。战斗胜利后获得额外的宇宙碎片。",
+            "EN": "Mutation beacon. Enemies in the domains with this beacon will become \"Bugs.\" After winning a battle, receive additional Cosmic Fragments."
+        }
+    },
+    "61000007": {
+        "Name": {
+            "CH": "祝福扑满",
+            "EN": "Blessing Trotter"
+        },
+        "Desc": {
+            "CH": "祝福扑满信标，带有该信标的区域中战斗会出现扑满，消灭后可获得额外的祝福。",
+            "EN": "Blessing Trotter beacon. There will be a Trotter in domains with this beacon. Defeat it to obtain additional Blessings."
+        }
+    },
+    "61000008": {
+        "Name": {
+            "CH": "奇物扑满",
+            "EN": "Curio Trotter"
+        },
+        "Desc": {
+            "CH": "奇物扑满信标，带有该信标的区域中战斗会出现扑满，消灭后可获得额外的奇物。",
+            "EN": "Curio Trotter beacon. There will be a Trotter in domains with this beacon. Defeat it to obtain additional Curios."
+        }
+    },
+    "61000009": {
+        "Name": {
+            "CH": "空白",
+            "EN": "Blank"
+        },
+        "Desc": {
+            "CH": "空白区域，在这个区域中不会发生任何事件。",
+            "EN": "Blank Domain. Nothing will happen in this domain."
+        }
+    },
+    "61000010": {
+        "Name": {
+            "CH": "休整",
+            "EN": "Respite"
+        },
+        "Desc": {
+            "CH": "休整区域，在这个区域中可以进行祝福强化、角色下载与角色重置。",
+            "EN": "Respite Domain. You can enhance Blessings, download characters, and reset characters in this domain."
+        }
+    },
+    "61000011": {
+        "Name": {
+            "CH": "战斗",
+            "EN": "Combat"
+        },
+        "Desc": {
+            "CH": "战斗区域，在这个区域中战胜敌人可以获得祝福。",
+            "EN": "Combat Domain. Defeat enemies in this domain to receive Blessings."
+        }
+    },
+    "61000012": {
+        "Name": {
+            "CH": "战斗•虫群",
+            "EN": "Combat: Swarm"
+        },
+        "Desc": {
+            "CH": "特殊战斗区域，在这个区域中战胜虫群敌人可以获得「繁育」祝福。",
+            "EN": "Special Combat Domain. Defeat Swarm enemies in this domain to receive Blessings of Propagation."
+        }
+    },
+    "61000013": {
+        "Name": {
+            "CH": "精英",
+            "EN": "Elite"
+        },
+        "Desc": {
+            "CH": "精英区域，在这个区域中战胜精英敌人有机会获得1个1-3星祝福。",
+            "EN": "Elite Domain. Defeat Elite Enemies in this domain for a chance to receive a 1-3 star Blessing."
+        }
+    },
+    "61000014": {
+        "Name": {
+            "CH": "冒险",
+            "EN": "Adventure"
+        },
+        "Desc": {
+            "CH": "冒险区域，在这个区域中完成各种挑战可以获得奖励。",
+            "EN": "Adventure Domain. Complete the various challenges in this domain to obtain rewards."
+        }
+    },
+    "61000015": {
+        "Name": {
+            "CH": "奖励",
+            "EN": "Reward"
+        },
+        "Desc": {
+            "CH": "奖励区域，在这个区域中可以通过选择获得不同的奖励。",
+            "EN": "Reward Domain. Select from different rewards in this domain."
+        }
+    },
+    "61000016": {
+        "Name": {
+            "CH": "事件",
+            "EN": "Occurrence"
+        },
+        "Desc": {
+            "CH": "事件区域，在这个区域中可以通过选择达成不同的结果。",
+            "EN": "Occurrence Domain. Different outcomes can be achieved in this domain based on your choices."
+        }
+    },
+    "61000017": {
+        "Name": {
+            "CH": "事件•虫群",
+            "EN": "Occurrence: Swarm"
+        },
+        "Desc": {
+            "CH": "特殊事件区域，在这个区域中做的选择会提高虫群警戒值。虫群警戒值越高，这个区域中的事件会变得更危险。",
+            "EN": "Special Occurrence Domain. The Swarm's alertness can be affected by the choices you make in this domain. The higher the Swarm's alertness, the more dangerous the Special Occurrence in the domain becomes."
+        }
+    },
+    "61000018": {
+        "Name": {
+            "CH": "首领",
+            "EN": "Boss"
+        },
+        "Desc": {
+            "CH": "首领区域，在这个区域中战胜首领可以通关本位面，获得祝福和奇物。",
+            "EN": "Boss Domain. Defeat the Boss in this domain to pass this plane and receive Blessings and Curios."
+        }
+    },
+    "61000019": {
+        "Name": {
+            "CH": "首领•虫群",
+            "EN": "Boss: Swarm"
+        },
+        "Desc": {
+            "CH": "特殊首领区域，在这个区域中战胜虫群•真蛰虫（完整）可以通关本次模拟宇宙。",
+            "EN": "Special Boss Domain. Defeating Swarm: True Sting (Complete) in this domain can clear this run of Simulated Universe."
+        }
+    },
+    "61000020": {
+        "Name": {
+            "CH": "交易",
+            "EN": "Transaction"
+        },
+        "Desc": {
+            "CH": "交易区域，在这个区域中可以消耗宇宙碎片购买祝福和奇物。",
+            "EN": "Transaction Domain. Consume Cosmic Fragments in this domain to purchase Blessings and Curios."
+        }
+    },
+    "61000021": {
+        "Name": {
+            "CH": "知识",
+            "EN": "Knowledge"
+        },
+        "Desc": {
+            "CH": "通过骰子能力标记的区域，根据所选被动能力的不同，会发挥出不一样的效果。",
+            "EN": "Domains marked by the dice's power will manifest different effects based on the different Passive Abilities chosen."
+        }
+    },
+    "61000022": {
+        "Name": {
+            "CH": "命途强化",
+            "EN": "Path Boost"
+        },
+        "Desc": {
+            "CH": "满足骰子的被动效果要求时，根据所选的命途，提供不同效果的增益。",
+            "EN": "After fulfilling the dice's passive effect requirements, different effect bonuses will be provided based on the chosen Path."
+        }
+    },
+    "61000023": {
+        "Name": {
+            "CH": "自我认知",
+            "EN": "Intra-Cognition"
+        },
+        "Desc": {
+            "CH": "特殊事件区域，在这个区域中可以调整自我认知的数值，从而前往不同的分支。",
+            "EN": "Special Occurrence Domain. You can adjust your Intra-Cognition value in this domain and go to varied branches."
+        }
+    },
+    "61000024": {
+        "Name": {
+            "CH": "事件•异常",
+            "EN": "Occurrence: Abnormal"
+        },
+        "Desc": {
+            "CH": "特殊事件区域，在这个区域中会更容易遇到风险较大的事件。",
+            "EN": "Special Occurrence Domain. You are more likely to encounter Occurrences with higher risks in this domain."
+        }
+    },
+    "61000025": {
+        "Name": {
+            "CH": "双倍",
+            "EN": "Double"
+        },
+        "Desc": {
+            "CH": "双倍信标，带有该信标的精英区域中，精英敌人的数量翻倍；带有该信标的事件区域，奖励区域，异常区域中事件的数量翻倍。",
+            "EN": "Double Beacon. In Elite Domains with this beacon, the number of Elite Enemies are doubled. Occurrence, Reward, and Abnormal Domains with this beacon will also have the number of events in the domains doubled."
+        }
+    },
+    "61000026": {
+        "Name": {
+            "CH": "选择",
+            "EN": "Select"
+        },
+        "Desc": {
+            "CH": "选择信标，带有该信标的区域中，事件的数量变为3个。开启任意事件后，其他2个事件会消失。",
+            "EN": "Select Beacon. Domains with this beacon will have 3 Occurrences within them. After starting any of the Occurrences, the other 2 will disappear."
+        }
+    },
+    "61000031": {
+        "Name": {
+            "CH": "回响推演：「巡猎」",
+            "EN": "Resonance Extrapolation: \"The Hunt\""
+        },
+        "Desc": {
+            "CH": "回响推演：「巡猎」行动时会基于首领敌人的属性对我方全体造成风属性伤害，任意单位的行动均会使回响行动提前。",
+            "EN": "When Resonance Extrapolation: \"The Hunt\" takes action, it deals Wind DMG to all allies based on the boss' Type . All units' actions Advance Forward the Resonance's action."
+        }
+    },
+    "61000032": {
+        "Name": {
+            "CH": "构音推演：柘弓危矢",
+            "EN": "Formation Extrapolation: Bow and Arrow"
+        },
+        "Desc": {
+            "CH": "回响推演对当前生命值小于生命上限 50.0% 的我方目标造成伤害时，暴击率提高 100% ，暴击伤害提高至 40.0% 。",
+            "EN": "When Resonance Extrapolation deals DMG to allies with HP below 50.0% of their Max HP, its CRIT Rate increases by 100% and CRIT DMG increases to 40.0%."
+        }
+    },
+    "61000033": {
+        "Name": {
+            "CH": "构音推演：狩星巡日",
+            "EN": "Formation Extrapolation: Star Hunter"
+        },
+        "Desc": {
+            "CH": "回响推演攻击后，使首领敌人立刻行动。",
+            "EN": "The boss immediately acts after the Resonance Extrapolation's attack."
+        }
+    },
+    "61000034": {
+        "Name": {
+            "CH": "回响推演：「毁灭」",
+            "EN": "Resonance Extrapolation: \"Destruction\""
+        },
+        "Desc": {
+            "CH": "回响推演：「毁灭」行动时会对我方全体造成火属性伤害，任意单位的行动均会使回响行动提前。",
+            "EN": "When Resonance Extrapolation: \"Destruction\" takes action, it deals Fire DMG to all allies. All units' actions Advance Forward the Resonance's action."
+        }
+    },
+    "61000035": {
+        "Name": {
+            "CH": "构音推演：极端氦闪",
+            "EN": "Formation Extrapolation: Extreme Helium Flash"
+        },
+        "Desc": {
+            "CH": "回响推演攻击后，使角色防御力降低 30.0% ，持续 2.0 回合。",
+            "EN": "The Resonance Extrapolation's attacks reduce the target's DEF by 30.0% for 2.0 turn(s)."
+        }
+    },
+    "61000036": {
+        "Name": {
+            "CH": "构音推演：零龄主序",
+            "EN": "Formation Extrapolation: Zero Age Main Sequence"
+        },
+        "Desc": {
+            "CH": "敌方目标被消灭后，使回响推演行动提前 50.0% 。",
+            "EN": "After a target is defeated, Resonance Extrapolation's action will Advanced Forward by 50.0%."
+        }
+    },
+    "61000037": {
+        "Name": {
+            "CH": "回响推演：「虚无」",
+            "EN": "Resonance Extrapolation: \"Nihility\""
+        },
+        "Desc": {
+            "CH": "回响推演：「虚无」行动时有概率对玩家施加持续伤害，任意单位的行动均会使回响行动提前。",
+            "EN": "When Resonance Extrapolation: \"Nihility\" takes action, it has a chance to inflict DoT effects on the characters. All units' actions Advance Forward the Resonance's action."
+        }
+    },
+    "61000038": {
+        "Name": {
+            "CH": "构音推演：怀疑的四重根",
+            "EN": "Formation Extrapolation: The Doubtful Fourfold Root"
+        },
+        "Desc": {
+            "CH": "回响推演施加持续伤害状态的概率提高，持续时间增加 1.0 回合。",
+            "EN": "The Resonance Extrapolation has a higher chance of inflicting DoT effects for the next 1.0 turn(s)."
+        }
+    },
+    "61000039": {
+        "Name": {
+            "CH": "构音推演：局外人",
+            "EN": "Formation Extrapolation: Outsider"
+        },
+        "Desc": {
+            "CH": "我方目标受到持续伤害时，回响推演行动提前。",
+            "EN": "When allies receive DMG from a DoT effect, the Resonance Extrapolation's action is Advanced Forward."
+        }
+    },
+    "61000040": {
+        "Name": {
+            "CH": "回响推演：「丰饶」",
+            "EN": "Resonance Extrapolation: \"Abundance\""
+        },
+        "Desc": {
+            "CH": "回响推演：「丰饶」行动时为敌方全体回复生命值，任意单位的行动均会使回响行动提前。",
+            "EN": "When Resonance Extrapolation: \"Abundance\" takes action, it restores HP for all enemies. All units' actions Advance Forward the Resonance's action."
+        }
+    },
+    "61000041": {
+        "Name": {
+            "CH": "构音推演：诸行无常",
+            "EN": "Formation Extrapolation: Anicca"
+        },
+        "Desc": {
+            "CH": "回响推演行动时，为敌方全体各解除 4.0 个负面状态。",
+            "EN": "When the Resonance Extrapolation acts, it removes 4.0 debuff(s) from each enemy."
+        }
+    },
+    "61000042": {
+        "Name": {
+            "CH": "构音推演：先照高山",
+            "EN": "Formation Extrapolation: Mountain High"
+        },
+        "Desc": {
+            "CH": "回响推演行动时，使敌方全体攻击力提高 30.0% ，持续 1.0 回合。",
+            "EN": "When the Resonance Extrapolation acts, it increases all enemies' ATK by 30.0% for 1.0 turn(s)."
+        }
+    },
+    "61000043": {
+        "Name": {
+            "CH": "突触共鸣",
+            "EN": "Synapse Resonance"
+        },
+        "Desc": {
+            "CH": "受到角色攻击后，使自身及血量上限最高的敌方目标受到一次等同于攻击者 70.0% 攻击力的终结技伤害，并消耗1次可生效次数，在敌方全体触发 15.0 次效果后被移除。",
+            "EN": "After receiving an attack from a character, this unit and the enemy target with the highest Max HP take Ultimate DMG equal to 70.0% of the attacker's ATK one time. Then, 1 trigger count is consumed. This effect expires after being triggered 15.0 time(s) in total."
+        }
+    },
+    "61000044": {
+        "Name": {
+            "CH": "罐中脑",
+            "EN": "Brain in a Vat"
+        },
+        "Desc": {
+            "CH": "若【罐中脑】的启迪充能比例达到 100% ，角色使用【罐中脑】以外的方式施放终结技后，会再次激活终结技，通过该方式施放终结技会消耗 100% 的启迪充能。",
+            "EN": "When characters use Ultimates via ways other than Brain in a Vat, and if Brain in a Vat's Enlightenment Charge ratio is at 100%, temporary Energy can be granted to allow using the Ultimate for an extra time. The temporary Energy lasts until the beginning of the next turn. If the Ultimate is successfully used an extra time, consume all Enlightenment Charges."
+        }
+    },
+    "61000045": {
+        "Name": {
+            "CH": "群攻",
+            "EN": "AoE ATK"
+        },
+        "Desc": {
+            "CH": "技能标签的一种，以群体攻击为主要效果的技能会拥有该标签。",
+            "EN": "A kind of ability tag. Ability effects that are primarily AoE attacks will have this tag."
+        }
+    },
+    "70000001": {
+        "Name": {
+            "CH": "连续鞭腿",
+            "EN": "Continuous Hook Kick"
+        },
+        "Desc": {
+            "CH": "一定回合内，每回合开始时受到风属性伤害，该状态层数可以叠加。",
+            "EN": "Takes Wind DMG at the start of each turn for a certain number of turns. This status can be stacked."
+        }
+    },
+    "70000002": {
+        "Name": {
+            "CH": "雷霆耳光",
+            "EN": "Thunderous Slap"
+        },
+        "Desc": {
+            "CH": "受到雷属性终结技的攻击后，会额外造成雷属性附加伤害。",
+            "EN": "Receive Additional Lightning DMG after being attacked by Lightning-Type Ultimates."
+        }
+    },
+    "70000003": {
+        "Name": {
+            "CH": "转身鞭拳",
+            "EN": "Spinning Back Fist"
+        },
+        "Desc": {
+            "CH": "同时陷入灼烧和弱点击破状态的单位，受到攻击后会额外受到火属性附加伤害。",
+            "EN": "Units that are both Weakness Broken and Burned will receive Additional Fire DMG when they are attacked."
+        }
+    },
+    "70000004": {
+        "Name": {
+            "CH": "下颚粉碎",
+            "EN": "Jawbreaker"
+        },
+        "Desc": {
+            "CH": "当陷入冻结状态时，受到我方单位攻击后，额外造成基于目标攻击力的冰属性附加伤害。",
+            "EN": "When Frozen enemies are attacked by allies, receive Additional Ice DMG based on the enemy's ATK."
+        }
+    },
+    "70000101": {
+        "Name": {
+            "CH": "暗火",
+            "EN": "Gloomfire"
+        },
+        "Desc": {
+            "CH": "一定回合内，每回合开始时受到基于角色攻击力的火属性伤害。",
+            "EN": "For a certain number of turns, takes Fire DMG that is based on character ATK at the start of each turn."
+        }
+    },
+    "70000102": {
+        "Name": {
+            "CH": "反震",
+            "EN": "Quake"
+        },
+        "Desc": {
+            "CH": "关卡增益造成的附加伤害，若在受到攻击时触发，则无法消灭敌方目标。",
+            "EN": "Additional DMG caused by Stage Buff. If triggered during an attack, cannot defeat the enemy target."
+        }
+    },
+    "220020301": {
+        "Name": {
+            "CH": "震荡",
+            "EN": "Reverberation"
+        },
+        "Desc": {
+            "CH": "受到攻击后，陷入【强烈震荡】状态，然后解除【震荡】状态。",
+            "EN": "After receiving an attack, become afflicted with Strong Reverberation, then dispels Reverberation."
+        }
+    },
+    "70000201": {
+        "Name": {
+            "CH": "溢出伤害",
+            "EN": "Overflow DMG"
+        },
+        "Desc": {
+            "CH": "消灭目标时，本次攻击造成的伤害超出目标当前生命值的伤害量。",
+            "EN": "The DMG that this attack deals will exceed the target's current HP when they are defeated."
+        }
+    },
+    "70000202": {
+        "Name": {
+            "CH": "爆弹",
+            "EN": "Detonate"
+        },
+        "Desc": {
+            "CH": "持有者每次被攻击时基于【爆弹】层数受到额外的固定伤害，伤害随炸弹叠加层数提升，持有者行动时清除。",
+            "EN": "Every unit afflicted by this effect will additionally take a fixed amount of DMG on account of the Detonate stacks. The DMG will increase with the number of Detonate stacks. The effect is dispelled when the affected unit takes action."
+        }
+    },
+    "70000203": {
+        "Name": {
+            "CH": "风怒",
+            "EN": "Galefury"
+        },
+        "Desc": {
+            "CH": "角色持有【风怒】时，回合结束时消耗1层【风怒】，行动立即提前 100% 。",
+            "EN": "Characters with Galefury will consume one of its stacks at the end of their turn and have their Action Advanced forward by 100%."
+        }
+    },
+    "70000204": {
+        "Name": {
+            "CH": "颤栗",
+            "EN": "Shudder"
+        },
+        "Desc": {
+            "CH": "扑满受到额外的伤害。",
+            "EN": "The Trotter additionally takes DMG."
+        }
+    },
+    "70000205": {
+        "Name": {
+            "CH": "风化",
+            "EN": "Wind Shear"
+        },
+        "Desc": {
+            "CH": "一定回合内，每回合开始时受到风属性伤害，该状态层数可以叠加。",
+            "EN": "Takes Wind DMG at the start of each turn for a certain number of turns. This status can be stacked."
+        }
+    },
+    "70000206": {
+        "Name": {
+            "CH": "疲惫",
+            "EN": "Fatigued"
+        },
+        "Desc": {
+            "CH": "每层【疲惫】都将使敌方目标受到的伤害提高。",
+            "EN": "Each stack of Fatigue causes enemies to receive more DMG."
+        }
+    },
+    "70000207": {
+        "Name": {
+            "CH": "呐喊",
+            "EN": "Bellow"
+        },
+        "Desc": {
+            "CH": "每层【呐喊】都将使持有者造成的伤害提高。",
+            "EN": "Each stack of Bellow causes the unit with the effect to deal more DMG."
+        }
+    },
+    "70000208": {
+        "Name": {
+            "CH": "血狂",
+            "EN": "Blood Rage"
+        },
+        "Desc": {
+            "CH": "每层【血狂】都将使持有者的暴击率和暴击伤害提高。",
+            "EN": "Each stack of Blood Rage increases the CRIT Rate and CRIT DMG of the affected unit."
+        }
+    }
+}
