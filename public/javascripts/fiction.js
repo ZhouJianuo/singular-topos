@@ -785,6 +785,7 @@ $(function () {
                                 {
                                     table: function (k) {
                                         elemlist.forEach(function (e) {
+                                            if (cur_mon.RESBase[e] == 0) return
                                             $(k.container).render({
                                                 template: {
                                                     tr: [
