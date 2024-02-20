@@ -1,6 +1,6 @@
 $(function () {
 
-    var no_skillicon = [9001, 9002, 1308, 1304, 1301]
+    var no_skillicon = [9001, 9002]
 
     var _lang = 0
     var DATE = new Date()
