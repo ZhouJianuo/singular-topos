@@ -3,7 +3,7 @@
 var _event = [
     {
         "_id": 50010,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestTelevision.png",
+        "Icon": "BtnQuestTelevision.png",
         "Name": {
             "CH": "战意狂潮",
             "EN": "Tides of War"
@@ -29,7 +29,7 @@ var _event = [
     },
     {
         "_id": 50009,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestDrinkMaker.png",
+        "Icon": "BtnQuestDrinkMaker.png",
         "Name": {
             "CH": "杯中逸事",
             "EN": "Vignettes in a Cup"
@@ -57,7 +57,7 @@ var _event = [
     },
     {
         "_id": 50008,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestMonopoly.png",
+        "Icon": "BtnQuestMonopoly.png",
         "Name": {
             "CH": "银河强手棋",
             "EN": "Cosmodyssey"
@@ -86,7 +86,7 @@ var _event = [
     },
     {
         "_id": 30010,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestPenaconyActivityTimeLimit.png",
+        "Icon": "BtnQuestPenaconyActivityTimeLimit.png",
         "Name": {
             "CH": "《逐梦客时讯》",
             "EN": "<i>Dreamchaser Bulletin</i>"
@@ -111,7 +111,7 @@ var _event = [
     },
     {
         "_id": 40005,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestTelevision.png",
+        "Icon": "BtnQuestTelevision.png",
         "Name": {
             "CH": "惊梦电视台",
             "EN": "Dreamjolt TV"
@@ -137,7 +137,7 @@ var _event = [
     },
     {
         "_id": 50007,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestMiniGame.png",
+        "Icon": "BtnQuestMiniGame.png",
         "Name": {
             "CH": "哈努兄弟越狱记",
             "EN": "Hanu's Prison Break"
@@ -165,7 +165,7 @@ var _event = [
     },
     {
         "_id": 30009,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestPenaconyGift.png",
+        "Icon": "BtnQuestPenaconyGift.png",
         "Name": {
             "CH": "匹诺康尼美食庆典",
             "EN": "Penacony Food Fest"
@@ -194,7 +194,7 @@ var _event = [
     },
     {
         "_id": 30008,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestSpaceZoo.png",
+        "Icon": "BtnQuestSpaceZoo.png",
         "Name": {
             "CH": "异宠拾遗",
             "EN": "Critter Pick"
@@ -221,7 +221,7 @@ var _event = [
     },
     {
         "_id": 40004,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestActivityStrongChallenge.png",
+        "Icon": "BtnQuestActivityStrongChallenge.png",
         "Name": {
             "CH": "虚境味探",
             "EN": "Virtual Scentventure"
@@ -247,7 +247,7 @@ var _event = [
     },
     {
         "_id": 140007,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnBoxingClubResonance.png",
+        "Icon": "BtnBoxingClubResonance.png",
         "Name": {
             "CH": "磐岩镇超级联赛",
             "EN": "Boulder Town Super League"
@@ -271,7 +271,7 @@ var _event = [
     },
     {
         "_id": 40003,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnBoxingClubResonance.png",
+        "Icon": "BtnBoxingClubResonance.png",
         "Name": {
             "CH": "磐岩镇斗技表演赛",
             "EN": "Boulder Town Martial Exhibition"
@@ -299,7 +299,7 @@ var _event = [
     },
     {
         "_id": 50006,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuesHeliobus.png",
+        "Icon": "BtnQuesHeliobus.png",
         "Name": {
             "CH": "狐斋志异",
             "EN": "A Foxian Tale of the Haunted"
@@ -330,7 +330,7 @@ var _event = [
     },
     {
         "_id": 60008,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnRogueM9.png",
+        "Icon": "BtnRogueM9.png",
         "Name": {
             "CH": "模拟宇宙 · 第九世界",
             "EN": "Simulated Universe (World 9)"
@@ -354,7 +354,7 @@ var _event = [
     },
     {
         "_id": 60007,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestRogueNous.png",
+        "Icon": "BtnQuestRogueNous.png",
         "Name": {
             "CH": "模拟宇宙：黄金与机械",
             "EN": "Simulated Universe: Gold and Gears"
@@ -382,7 +382,7 @@ var _event = [
     },
     {
         "_id": 60006,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnRogueReward.png",
+        "Icon": "BtnRogueReward.png",
         "Name": {
             "CH": "无尽位面",
             "EN": "Planar Infinity"
@@ -409,7 +409,7 @@ var _event = [
     },
     {
         "_id": 60003,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnRogueDlcQuestBannerSmall1.png",
+        "Icon": "BtnRogueDlcQuestBannerSmall1.png",
         "Name": {
             "CH": "模拟宇宙：寰宇蝗灾",
             "EN": "Simulated Universe:<br>Swarm Disaster"
@@ -437,7 +437,7 @@ var _event = [
     },
     {
         "_id": 60001,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnRogueReward.png",
+        "Icon": "BtnRogueReward.png",
         "Name": {
             "CH": "模拟宇宙",
             "EN": "Simulated Universe"
@@ -462,7 +462,7 @@ var _event = [
     },
     {
         "_id": 40002,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnFantasticStory.png",
+        "Icon": "BtnFantasticStory.png",
         "Name": {
             "CH": "评书奇谭",
             "EN": "Tales of the Fantastic"
@@ -489,7 +489,7 @@ var _event = [
     },
     {
         "_id": 50005,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestAetherDivide.png",
+        "Icon": "BtnQuestAetherDivide.png",
         "Name": {
             "CH": "以太战线",
             "EN": "Aetherium Wars"
@@ -520,7 +520,7 @@ var _event = [
     },
     {
         "_id": 80005,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnMainStory160.png",
+        "Icon": "BtnMainStory160.png",
         "Name": {
             "CH": "庸与神的冠冕",
             "EN": "Crown of the<br>Mundane and Divine"
@@ -538,7 +538,7 @@ var _event = [
     },
     {
         "_id": 80004,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnSubStory140.png",
+        "Icon": "BtnSubStory140.png",
         "Name": {
             "CH": "云无留迹",
             "EN": "Clouds Leave No Trace"
@@ -564,7 +564,7 @@ var _event = [
     },
     {
         "_id": 80003,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnMainStory140.png",
+        "Icon": "BtnMainStory140.png",
         "Name": {
             "CH": "未来市场",
             "EN": "Future Market"
@@ -582,7 +582,7 @@ var _event = [
     },
     {
         "_id": 80002,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnMainStory130.png",
+        "Icon": "BtnMainStory130.png",
         "Name": {
             "CH": "安灵布奠，天清路远",
             "EN": "Obsequies Performed, A Long Road Ahead"
@@ -600,7 +600,7 @@ var _event = [
     },
     {
         "_id": 80001,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestPrincipalLineBanner.png",
+        "Icon": "BtnQuestPrincipalLineBanner.png",
         "Name": {
             "CH": "仙骸有终",
             "EN": "Even Immortality Ends"
@@ -618,7 +618,7 @@ var _event = [
     },
     {
         "_id": 50004,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnTresureDungeon.png",
+        "Icon": "BtnTresureDungeon.png",
         "Name": {
             "CH": "地城探宝",
             "EN": "Underground Treasure Hunt"
@@ -646,7 +646,7 @@ var _event = [
     },
     {
         "_id": 22001,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestColleague.png",
+        "Icon": "BtnQuestColleague.png",
         "Name": {
             "CH": "",
             "EN": ""
@@ -664,7 +664,7 @@ var _event = [
     },
     {
         "_id": 50003,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuesAlley.png",
+        "Icon": "BtnQuesAlley.png",
         "Name": {
             "CH": "金人旧巷市廛喧",
             "EN": "Aurum Alley's Hustle and Bustle"
@@ -692,7 +692,7 @@ var _event = [
     },
     {
         "_id": 30007,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestMedicineAssignment.png",
+        "Icon": "BtnQuestMedicineAssignment.png",
         "Name": {
             "CH": "空间站特派",
             "EN": "Space Station Task Force"
@@ -715,7 +715,7 @@ var _event = [
     },
     {
         "_id": 30006,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestGuessTheSilhouetteTask.png",
+        "Icon": "BtnQuestGuessTheSilhouetteTask.png",
         "Name": {
             "CH": "星旅寻影",
             "EN": "Stellar Shadowseeker"
@@ -740,7 +740,7 @@ var _event = [
     },
     {
         "_id": 20030,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial17.png",
+        "Icon": "BtnQuestRoleTrial17.png",
         "Name": {
             "CH": "锋芒崭露",
             "EN": ""
@@ -758,7 +758,7 @@ var _event = [
     },
     {
         "_id": 20027,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial15.png",
+        "Icon": "BtnQuestRoleTrial15.png",
         "Name": {
             "CH": "锋芒崭露",
             "EN": ""
@@ -776,7 +776,7 @@ var _event = [
     },
     {
         "_id": 20024,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial13.png",
+        "Icon": "BtnQuestRoleTrial13.png",
         "Name": {
             "CH": "锋芒崭露",
             "EN": "Aptitude Showcase"
@@ -794,7 +794,7 @@ var _event = [
     },
     {
         "_id": 20021,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial11.png",
+        "Icon": "BtnQuestRoleTrial11.png",
         "Name": {
             "CH": "锋芒崭露",
             "EN": "Aptitude Showcase"
@@ -812,7 +812,7 @@ var _event = [
     },
     {
         "_id": 20018,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial10.png",
+        "Icon": "BtnQuestRoleTrial10.png",
         "Name": {
             "CH": "锋芒崭露",
             "EN": "Aptitude Showcase"
@@ -830,7 +830,7 @@ var _event = [
     },
     {
         "_id": 20015,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial7.png",
+        "Icon": "BtnQuestRoleTrial7.png",
         "Name": {
             "CH": "",
             "EN": ""
@@ -848,7 +848,7 @@ var _event = [
     },
     {
         "_id": 20012,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial8.png",
+        "Icon": "BtnQuestRoleTrial8.png",
         "Name": {
             "CH": "锋芒崭露",
             "EN": "Aptitude Showcase"
@@ -866,7 +866,7 @@ var _event = [
     },
     {
         "_id": 20011,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial7.png",
+        "Icon": "BtnQuestRoleTrial7.png",
         "Name": {
             "CH": "锋芒崭露",
             "EN": "Aptitude Showcase"
@@ -884,7 +884,7 @@ var _event = [
     },
     {
         "_id": 20009,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial6.png",
+        "Icon": "BtnQuestRoleTrial6.png",
         "Name": {
             "CH": "锋芒崭露",
             "EN": "Aptitude Showcase"
@@ -902,7 +902,7 @@ var _event = [
     },
     {
         "_id": 20008,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial5.png",
+        "Icon": "BtnQuestRoleTrial5.png",
         "Name": {
             "CH": "锋芒崭露",
             "EN": "Aptitude Showcase"
@@ -920,7 +920,7 @@ var _event = [
     },
     {
         "_id": 20006,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial4.png",
+        "Icon": "BtnQuestRoleTrial4.png",
         "Name": {
             "CH": "锋芒崭露",
             "EN": "Aptitude Showcase"
@@ -938,7 +938,7 @@ var _event = [
     },
     {
         "_id": 20005,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial3.png",
+        "Icon": "BtnQuestRoleTrial3.png",
         "Name": {
             "CH": "锋芒崭露",
             "EN": "Aptitude Showcase"
@@ -956,7 +956,7 @@ var _event = [
     },
     {
         "_id": 30005,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnPocketMonster.png",
+        "Icon": "BtnPocketMonster.png",
         "Name": {
             "CH": "实验助手请就位",
             "EN": "Lab Assistants In Position"
@@ -980,7 +980,7 @@ var _event = [
     },
     {
         "_id": 30004,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestTreasureTrotter.png",
+        "Icon": "BtnQuestTreasureTrotter.png",
         "Name": {
             "CH": "神奇扑满在哪里",
             "EN": "Where Are You, Mystery Trotter?"
@@ -1006,7 +1006,7 @@ var _event = [
     },
     {
         "_id": 50002,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestMuseum.png",
+        "Icon": "BtnQuestMuseum.png",
         "Name": {
             "CH": "冬城博物珍奇簿",
             "EN": "Everwinter City Museum<br>Ledger of Curiosities"
@@ -1032,7 +1032,7 @@ var _event = [
     },
     {
         "_id": 50001,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestGraffiti.png",
+        "Icon": "BtnQuestGraffiti.png",
         "Name": {
             "CH": "猎星游戏",
             "EN": "Starhunt Game"
@@ -1058,7 +1058,7 @@ var _event = [
     },
     {
         "_id": 50000,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnFistClubQuestMission.png",
+        "Icon": "BtnFistClubQuestMission.png",
         "Name": {
             "CH": "磐岩镇超级联赛",
             "EN": "Boulder Town Super League"
@@ -1083,7 +1083,7 @@ var _event = [
     },
     {
         "_id": 40001,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestStarBattle.png",
+        "Icon": "BtnQuestStarBattle.png",
         "Name": {
             "CH": "星芒战幕",
             "EN": "Stellar Flare"
@@ -1109,7 +1109,7 @@ var _event = [
     },
     {
         "_id": 30002,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnAntiVirus.png",
+        "Icon": "BtnAntiVirus.png",
         "Name": {
             "CH": "太空大战争",
             "EN": "Cosmic Warfare"
@@ -1134,7 +1134,7 @@ var _event = [
     },
     {
         "_id": 20002,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial2.png",
+        "Icon": "BtnQuestRoleTrial2.png",
         "Name": {
             "CH": "锋芒崭露",
             "EN": "Aptitude Showcase"
@@ -1152,7 +1152,7 @@ var _event = [
     },
     {
         "_id": 20001,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial.png",
+        "Icon": "BtnQuestRoleTrial.png",
         "Name": {
             "CH": "锋芒崭露",
             "EN": "Aptitude Showcase"
@@ -1170,7 +1170,7 @@ var _event = [
     },
     {
         "_id": 10047,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnSevenDayVersion0200.png",
+        "Icon": "BtnSevenDayVersion0200.png",
         "Name": {
             "CH": "巡星之礼",
             "EN": "Gift of Odyssey"
@@ -1188,7 +1188,7 @@ var _event = [
     },
     {
         "_id": 10043,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestRetrunRecall.png",
+        "Icon": "BtnQuestRetrunRecall.png",
         "Name": {
             "CH": "重返群星之旅",
             "EN": "Festival Invitation"
@@ -1206,7 +1206,7 @@ var _event = [
     },
     {
         "_id": 10042,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnAbyssAlternation.png",
+        "Icon": "BtnAbyssAlternation.png",
         "Name": {
             "CH": "诳语诡宴",
             "EN": "Feast of Deceits"
@@ -1232,7 +1232,7 @@ var _event = [
     },
     {
         "_id": 10041,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnChallengeStoryReward_1110.png",
+        "Icon": "BtnChallengeStoryReward_1110.png",
         "Name": {
             "CH": "雪原露营",
             "EN": "Camping in the Snow"
@@ -1250,7 +1250,7 @@ var _event = [
     },
     {
         "_id": 10040,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnSevenDayVersion0160.png",
+        "Icon": "BtnSevenDayVersion0160.png",
         "Name": {
             "CH": "巡星之礼",
             "EN": "Gift of Odyssey"
@@ -1268,7 +1268,7 @@ var _event = [
     },
     {
         "_id": 10039,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnSevenDayVersion0131.png",
+        "Icon": "BtnSevenDayVersion0131.png",
         "Name": {
             "CH": "巡光之礼",
             "EN": "Gift of Radiance"
@@ -1286,7 +1286,7 @@ var _event = [
     },
     {
         "_id": 10035,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnSevenDayVersion0150.png",
+        "Icon": "BtnSevenDayVersion0150.png",
         "Name": {
             "CH": "巡星之礼",
             "EN": "Gift of Odyssey"
@@ -1304,7 +1304,7 @@ var _event = [
     },
     {
         "_id": 10032,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnSevenDayVersion0140.png",
+        "Icon": "BtnSevenDayVersion0140.png",
         "Name": {
             "CH": "巡星之礼",
             "EN": "Gift of Odyssey"
@@ -1322,7 +1322,7 @@ var _event = [
     },
     {
         "_id": 10028,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnSevenDayVersion0130.png",
+        "Icon": "BtnSevenDayVersion0130.png",
         "Name": {
             "CH": "巡星之礼",
             "EN": "Gift of Odyssey"
@@ -1340,7 +1340,7 @@ var _event = [
     },
     {
         "_id": 10025,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnAbyssReward_1207.png",
+        "Icon": "BtnAbyssReward_1207.png",
         "Name": {
             "CH": "登栖敛翼",
             "EN": "To Retire Upon the Perch"
@@ -1358,7 +1358,7 @@ var _event = [
     },
     {
         "_id": 10024,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnFarmMultipleDrop2Set.png",
+        "Icon": "BtnFarmMultipleDrop2Set.png",
         "Name": {
             "CH": "位面分裂",
             "EN": "Planar Fissure"
@@ -1376,7 +1376,7 @@ var _event = [
     },
     {
         "_id": 10023,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnSevenDayRewardPanelVersion0120.png",
+        "Icon": "BtnSevenDayRewardPanelVersion0120.png",
         "Name": {
             "CH": "巡星之礼",
             "EN": "Gift of Odyssey"
@@ -1394,7 +1394,7 @@ var _event = [
     },
     {
         "_id": 10022,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnAbyssAlternation.png",
+        "Icon": "BtnAbyssAlternation.png",
         "Name": {
             "CH": "混沌重现",
             "EN": "Chaos Resurgence"
@@ -1420,7 +1420,7 @@ var _event = [
     },
     {
         "_id": 10021,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnFarmMultipleDrop.png",
+        "Icon": "BtnFarmMultipleDrop.png",
         "Name": {
             "CH": "异器盈界",
             "EN": "Realm of the Strange"
@@ -1438,7 +1438,7 @@ var _event = [
     },
     {
         "_id": 10020,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnDoubleCocoon.png",
+        "Icon": "BtnDoubleCocoon.png",
         "Name": {
             "CH": "花藏繁生",
             "EN": "Garden of Plenty"
@@ -1456,7 +1456,7 @@ var _event = [
     },
     {
         "_id": 10019,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuesPlayerReturn.png",
+        "Icon": "BtnQuesPlayerReturn.png",
         "Name": {
             "CH": "循星归程",
             "EN": "Starlit Homecoming"
@@ -1474,7 +1474,7 @@ var _event = [
     },
     {
         "_id": 10018,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnSevenDayVervionDH.png",
+        "Icon": "BtnSevenDayVervionDH.png",
         "Name": {
             "CH": "巡星之礼",
             "EN": "Gift of Odyssey"
@@ -1492,7 +1492,7 @@ var _event = [
     },
     {
         "_id": 10017,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnImgSingleTask.png",
+        "Icon": "BtnImgSingleTask.png",
         "Name": {
             "CH": "清龙入梦",
             "EN": "Turquoise's Reverie"
@@ -1510,7 +1510,7 @@ var _event = [
     },
     {
         "_id": 10016,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestNewbieMission.png",
+        "Icon": "BtnQuestNewbieMission.png",
         "Name": {
             "CH": "星轺旅进",
             "EN": "Starkissed Synchrony"
@@ -1528,7 +1528,7 @@ var _event = [
     },
     {
         "_id": 10015,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestExploitMission.png",
+        "Icon": "BtnQuestExploitMission.png",
         "Name": {
             "CH": "拓宇行疆之志",
             "EN": "Trailblazing Will"
@@ -1546,7 +1546,7 @@ var _event = [
     },
     {
         "_id": 10014,
-        "Icon": "SpriteOutput/Quest/TabIcon/BtnSevenDayReward2.png",
+        "Icon": "BtnSevenDayReward2.png",
         "Name": {
             "CH": "邀游天外",
             "EN": "A World Beyond"
@@ -1564,7 +1564,7 @@ var _event = [
     },
     {
         "_id": 10012,
-        "Icon": "SpriteOutput/Quest/TabIcon/ButtonChallengeQuest.png",
+        "Icon": "ButtonChallengeQuest.png",
         "Name": {
             "CH": "搏击俱乐部",
             "EN": "Fight Club"
