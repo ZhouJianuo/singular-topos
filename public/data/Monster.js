@@ -79,7 +79,6 @@ var _monster = [
         "Camp": 7,
         "Icon": "mostericon/keq.png",
         "Figure": "monsterfigure/keq.png",
-        "New": true,
         "Csxylic": "SCNonCategorized/9001042"
     },
     {
@@ -32080,7 +32079,6 @@ var _monster = [
         "AllSkills": [
             300101001
         ],
-        "New": true,
         "Csxylic": "SCDreamjoltTroupe/3001010"
     },
     {
@@ -32337,7 +32335,6 @@ var _monster = [
         "AllSkills": [
             300102001
         ],
-        "New": true,
         "Csxylic": "SCDreamjoltTroupe/3001020"
     },
     {
@@ -32583,7 +32580,6 @@ var _monster = [
             300201003,
             300201004
         ],
-        "New": true,
         "Csxylic": "SCDreamjoltTroupe/3002010"
     },
     {
@@ -32878,7 +32874,6 @@ var _monster = [
             300203002,
             300203003
         ],
-        "New": true,
         "Csxylic": "SCDreamjoltTroupe/3002030"
     },
     {
@@ -33256,7 +33251,8 @@ var _monster = [
             300204001,
             300204002,
             300204003
-        ]
+        ],
+        "New": true
     },
     {
         "_id": 300204001,
@@ -33348,7 +33344,6 @@ var _monster = [
             300205002,
             300205003
         ],
-        "New": true,
         "Csxylic": "SCCosmos/3002050"
     },
     {
@@ -33435,8 +33430,7 @@ var _monster = [
             300205101,
             300205102,
             300205103
-        ],
-        "New": true
+        ]
     },
     {
         "_id": 3002089,
@@ -33547,7 +33541,6 @@ var _monster = [
             300301004,
             300301005
         ],
-        "New": true,
         "Csxylic": "SCDreamjoltTroupe/3003010"
     },
     {
@@ -33668,8 +33661,7 @@ var _monster = [
             300301103,
             300301104,
             300301105
-        ],
-        "New": true
+        ]
     },
     {
         "_id": 300301101,
@@ -33784,7 +33776,8 @@ var _monster = [
             300301205,
             300301206,
             300301207
-        ]
+        ],
+        "New": true
     },
     {
         "_id": 3003020,
@@ -33837,7 +33830,6 @@ var _monster = [
             300302003,
             300302004
         ],
-        "New": true,
         "Csxylic": "SCDreamjoltTroupe/3003020"
     },
     {
@@ -34063,8 +34055,7 @@ var _monster = [
             300302101,
             300302102,
             300302104
-        ],
-        "New": true
+        ]
     },
     {
         "_id": 3003022,
@@ -34116,7 +34107,8 @@ var _monster = [
             300302202,
             300302203,
             300302204
-        ]
+        ],
+        "New": true
     },
     {
         "_id": 3011010,
@@ -34163,7 +34155,6 @@ var _monster = [
         "AllSkills": [
             301101001
         ],
-        "New": true,
         "Csxylic": "SCMemoryZoneMeme/3011010"
     },
     {
@@ -34215,7 +34206,8 @@ var _monster = [
         "Icon": "mostericon/Monster_3012010.png",
         "AllSkills": [
             301201001
-        ]
+        ],
+        "New": true
     },
     {
         "_id": 301201001,
@@ -34318,7 +34310,6 @@ var _monster = [
             301202001,
             301202002
         ],
-        "New": true,
         "Csxylic": "SCMemoryZoneMeme/3012020"
     },
     {
@@ -34430,7 +34421,6 @@ var _monster = [
             301203001,
             301203003
         ],
-        "New": true,
         "Csxylic": "SCNonCategorized/3012030"
     },
     {
@@ -34489,8 +34479,7 @@ var _monster = [
         "AllSkills": [
             301203101,
             301203103
-        ],
-        "New": true
+        ]
     },
     {
         "_id": 3013010,
@@ -34543,7 +34532,8 @@ var _monster = [
             301301003,
             301301004,
             301301005
-        ]
+        ],
+        "New": true
     },
     {
         "_id": 301301001,
@@ -34655,7 +34645,8 @@ var _monster = [
             301301103,
             301301104,
             301301105
-        ]
+        ],
+        "New": true
     },
     {
         "_id": 3014020,
@@ -34742,7 +34733,6 @@ var _monster = [
             301402006,
             301402007
         ],
-        "New": true,
         "Csxylic": "SCMemoryZoneMeme/3014020"
     },
     {
@@ -35090,8 +35080,7 @@ var _monster = [
             301402109,
             301402106,
             301402107
-        ],
-        "New": true
+        ]
     },
     {
         "_id": 3014022,
@@ -35184,7 +35173,8 @@ var _monster = [
             301402209,
             301402206,
             301402207
-        ]
+        ],
+        "New": true
     },
     {
         "_id": 3021020,
@@ -36075,7 +36065,6 @@ var _monster = [
             302402006,
             302402007
         ],
-        "New": true,
         "Csxylic": "SCStellaronHunters/3024020"
     },
     {
@@ -36279,8 +36268,7 @@ var _monster = [
             302402105,
             302402106,
             302402107
-        ],
-        "New": true
+        ]
     },
     {
         "_id": 8001010,
@@ -57449,7 +57437,8 @@ var _monster = [
         "Icon": "mostericon/Monster_8032030.png",
         "AllSkills": [
             803203001
-        ]
+        ],
+        "New": true
     },
     {
         "_id": 8033010,
@@ -58117,7 +58106,8 @@ var _monster = [
             803401008,
             803401005,
             803401007
-        ]
+        ],
+        "New": true
     },
     {
         "_id": 803401001,
@@ -59374,6 +59364,7 @@ var _focus = [
     1001,
     1002,
     5,
+    9,
     10,
     11
 ]
