@@ -523,7 +523,13 @@ var _avatar = [
                 "EN": ""
             }
         ],
-        "Camp": 0
+        "Camp": 0,
+        "Data": [
+            {
+                "CH": "行迹 #3【雷心】的额外伤害没有削韧。",
+                "EN": "Trace #3 [Thunder Core]'s additional DMG does not damage Toughness."
+            }
+        ]
     },
     {
         "_id": 1306,
@@ -5548,21 +5554,7 @@ var _avatar = [
                 "EN": "..."
             }
         ],
-        "Camp": 103,
-        "Data": [
-            {
-                "CH": "（有较高的概率会使虫群警戒值大幅提升）",
-                "EN": "test_该BOSS死亡时发现者获得"
-            },
-            {
-                "CH": "（有较高的概率会使虫群警戒值大幅提升）",
-                "EN": "test_该BOSS死亡时发现者获得"
-            },
-            {
-                "CH": "（有较高的概率会使虫群警戒值大幅提升）",
-                "EN": "test_该BOSS死亡时发现者获得"
-            }
-        ]
+        "Camp": 103
     },
     {
         "_id": 1102,
@@ -71567,7 +71559,10 @@ var _voice = {
                 "EN": "It's getting late. Where to now?"
             }
         }
-    ]
+    ],
+    "1301": [],
+    "1304": [],
+    "1308": []
 }
 
 var _weapon = [
