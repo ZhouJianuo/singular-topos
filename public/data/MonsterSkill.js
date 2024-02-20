@@ -13339,11 +13339,14 @@ var _monsterskill = {
             "EN": "Heavy Stakes"
         },
         "Desc": {
-            "CH": "对指定我方单体造成虚数属性伤害。",
-            "EN": "Deals Imaginary DMG to a single target."
+            "CH": "对指定我方单体造成 <1> 虚数属性伤害。",
+            "EN": "Deals <1> Imaginary DMG to a single target."
         },
         "SP": 10.0,
-        "Elem": "Imaginary"
+        "Elem": "Imaginary",
+        "DMG": [
+            3.5
+        ]
     },
     "803401002": {
         "Key": "Skill02",
@@ -13352,11 +13355,14 @@ var _monsterskill = {
             "EN": "Distributed Investment"
         },
         "Desc": {
-            "CH": "连续对我方随机单体造成少量虚数属性伤害。",
-            "EN": "Deals successive minor Imaginary DMG to random targets."
+            "CH": "连续 <color style='color:#f29e38;'>5</color>（一阶段）或 <color style='color:#f29e38;'>8</color>（二阶段）对我方随机单体造成 <1> 虚数属性伤害。",
+            "EN": "Deals <color style='color:#f29e38;'>5</color> (Phase 1) or <color style='color:#f29e38;'>8</color> (Phase 2) instances of <1> Imaginary DMG to random targets."
         },
         "SP": 5.0,
-        "Elem": "Imaginary"
+        "Elem": "Imaginary",
+        "DMG": [
+            1.2
+        ]
     },
     "803401003": {
         "Key": "Skill03",
@@ -13365,11 +13371,14 @@ var _monsterskill = {
             "EN": "Points Fountain"
         },
         "Desc": {
-            "CH": "对我方全体造成少量虚数属性伤害，并减少我方全体的能量。",
-            "EN": "Deals minor Imaginary DMG to all targets and reduce all targets' Energy."
+            "CH": "对我方全体造成 <1> 虚数属性伤害，并减少我方全体 <color style='color:#f29e38;'>10</color> 点能量。",
+            "EN": "Deals <1> Imaginary DMG to all targets and cause all targets to lose <color style='color:#f29e38;'>10</color> Energy."
         },
         "SP": 0,
-        "Elem": "Imaginary"
+        "Elem": "Imaginary",
+        "DMG": [
+            2.5
+        ]
     },
     "803401004": {
         "Key": "Skill04",
@@ -13378,8 +13387,8 @@ var _monsterskill = {
             "EN": "Time For A Bet"
         },
         "Desc": {
-            "CH": "召唤【「所有或一无所有」】并使我方单体进入赌局，每个【「所有或一无所有」】每次受到进入赌局的我方目标攻击时，会使其获得1个随机1到6的点数。进入赌局的我方单体回合结束时，点数低于诡弈砂金视为输掉赌局并受到攻击；点数高于诡弈砂金视为赢得赌局获得1个额外回合并使我方恢复1个战技点。同时使没有进入赌局的我方目标陷入【观局勿语】状态，赌局结束后解除。",
-            "EN": "Summons All or Nothing and makes a single target enter the gamble. Every time an All or Nothing is attacked by a target that is in the gamble, the target will receive a random number between 1 and 6. After a target that is in the gamble has finished their turn, targets with numbers lower than Aventurine of Stratagems are considered to have lost the bet and will be attacked, while those with a number higher than Aventurine of Stratagems are considered to have won the bet and will receive 1 extra turn and recovers 1 Skill Point for the team. At the same time, targets that have not entered the gamble are afflicted with the \"Look, Don't Speak\" status, which is dispelled when the gamble ends."
+            "CH": "召唤<color style='color:#f29e38;'>「所有或一无所有」</color>并使我方单体进入赌局，同时自身获得一个随机 1~6 的点数。<br>每个「所有或一无所有」每次受到进入赌局的我方目标攻击时，会使其获得一个随机 1~6 的点数。<br>进入赌局的我方单体回合结束时，点数低于诡弈砂金视为输掉赌局并承受<color style='color:#f29e38;'>【败者退席】</color>技能；点数高于诡弈砂金视为赢得赌局获得一个额外回合并使我方恢复 <color style='color:#f29e38;'>1</color> 个战技点。",
+            "EN": "Summons <color style='color:#f29e38;'>All or Nothing</color> and makes a single target enter the gamble, and chooses a random number for himself between 1 and 6. <br>Every time an All or Nothing is attacked by a target that is in the gamble, the target will receive a random number between 1 and 6.<br>After a target that is in the gamble has finished their turn, targets with numbers lower than Aventurine of Stratagems are considered to have lost the bet and will suffer from the skill <color style='color:#f29e38;'>The Loser's Time Is Over</color>, while those with a number higher than Aventurine of Stratagems are considered to have won the bet and will receive 1 extra turn and recovers <color style='color:#f29e38;'>1</color> Skill Point for the team.<br><br><b><color style='color:#f29e38;'>Look, Don't Speak</color></b><br>Characters who have not taken part in the gamble will be inflicted with <b>Strong Reverberation</b> until the end of the Gamble. This effect cannot be immunized against or resisted."
         },
         "SP": 0,
         "Threat": true
@@ -13391,8 +13400,8 @@ var _monsterskill = {
             "EN": "Big Spenders' Mad Party"
         },
         "Desc": {
-            "CH": "召唤【「所有或一无所有」】并使我方全体进入赌局，每个【「所有或一无所有」】每次受到攻击时会使进行攻击的我方目标获得1个随机1到6的点数。下次诡弈砂金行动时，点数低于诡弈砂金的我方目标视为输掉赌局并受到攻击；点数高于诡弈砂金的我方目标视为赢得赌局获得1个额外回合并使我方恢复1个战技点。",
-            "EN": "Summons All or Nothing and makes all targets enter the gamble. Every time an All or Nothing is attacked, the target that launched the attack will receive a random number between 1 and 6. The next time Aventurine of Stratagems takes a turn, targets with numbers lower than Aventurine of Stratagems are considered to have lost the bet and will be attacked, while targets with numbers higher than Aventurine of Stratagems are considered to have won the bet and will receive 1 extra turn and recovers 1 Skill Point for the team."
+            "CH": "召唤<color style='color:#f29e38;'>「所有或一无所有」</color>并使我方全体进入赌局，同时自身获得一个随机 1~6 的点数。<br>每个「所有或一无所有」每次受到攻击时，会使进行攻击的我方目标获得一个随机 1~6 的点数。<br>下次诡弈砂金行动时，对点数低于诡弈砂金的我方目标施放<color style='color:#f29e38;'>【胜者通杀】</color>技能；点数高于诡弈砂金的我方目标视为赢得赌局获得一个额外回合并使我方恢复 <color style='color:#f29e38;'>1</color> 个战技点。",
+            "EN": "Summons <color style='color:#f29e38;'>All or Nothing</color> and makes all targets enter the gamble, and chooses a random number for himself between 1 and 6.<br>Every time an All or Nothing is attacked, the target that launched the attack will receive a random number between 1 and 6.<br>The next time Aventurine of Stratagems takes a turn, will unleash <color style='color:#f29e38;'>The Winner Takes It All</color> on targets with numbers lower than Aventurine of Stratagems. Targets with numbers higher than Aventurine of Stratagems are considered to have won the bet and will receive 1 extra turn and recovers <color style='color:#f29e38;'>1</color> Skill Point for the team."
         },
         "SP": 0,
         "Threat": true
@@ -13404,11 +13413,14 @@ var _monsterskill = {
             "EN": "The Loser's Time Is Over"
         },
         "Desc": {
-            "CH": "对输掉赌局的我方单体造成虚数属性伤害，并大概率使受到攻击的我方单体陷入禁锢状态。",
-            "EN": "Deals Imaginary DMG to a target that lost the gamble, with a high chance of inflicting Imprisonment on the attacked target."
+            "CH": "对输掉赌局的我方单体造成 <1> 虚数属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方单体陷入禁锢状态。<br><br>禁锢：无法行动，行动延后<color style='color:#f29e38;'>30%</color>。",
+            "EN": "Deals <1> Imaginary DMG to a target that lost the gamble, with a <color style='color:#f29e38;'>100%</color> Base Chance of inflicting Imprisonment on the attacked target.<br><br>Imprisonment: Cannot take action, action delayed by <color style='color:#f29e38;'>30%</color>."
         },
         "SP": 20.0,
-        "Elem": "Imaginary"
+        "Elem": "Imaginary",
+        "DMG": [
+            6.2
+        ]
     },
     "803401007": {
         "Key": "Skill07",
@@ -13417,11 +13429,14 @@ var _monsterskill = {
             "EN": "The Winner Takes It All"
         },
         "Desc": {
-            "CH": "对所有输掉赌局的我方目标造成大量虚数属性伤害，并大概率使受到攻击的我方目标陷入禁锢状态。",
-            "EN": "Deals Imaginary DMG to all targets that lost the gamble, with a high chance of inflicting Imprisonment on the attacked targets."
+            "CH": "对所有输掉赌局的我方目标造成 <1> 虚数属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入禁锢状态。<br><br>禁锢：无法行动，行动延后<color style='color:#f29e38;'>30%</color>。",
+            "EN": "Deals <1> Imaginary DMG to all targets that lost the gamble, with a <color style='color:#f29e38;'>100%</color> Base Chance of inflicting Imprisonment on the attacked targets.<br><br>Imprisonment: Cannot take action, action delayed by <color style='color:#f29e38;'>30%</color>."
         },
         "SP": 20.0,
-        "Elem": "Imaginary"
+        "Elem": "Imaginary",
+        "DMG": [
+            6.2
+        ]
     },
     "803401008": {
         "Key": "Skill08",
@@ -13430,8 +13445,8 @@ var _monsterskill = {
             "EN": "Strategems' Wagering"
         },
         "Desc": {
-            "CH": "每次赢得赌局的我方目标获得【鸿运当头】效果，造成的伤害提高；每次输掉赌局的我方目标获得【时运不济】效果，受到的伤害提高。",
-            "EN": "Every time a target wins the gamble, they receive the Favored by Fortune effect that increases their DMG dealt. Every time a target loses the gamble, they receive the Down on Your Luck effect that increases DMG taken."
+            "CH": "每次赢得赌局的我方目标获得<b>【鸿运当头】</b>效果：造成的伤害提高 <color style='color:#f29e38;'>50%</color>。<br>每次输掉赌局的我方目标获得<b>【时运不济】</b>效果：受到的伤害提高 <color style='color:#f29e38;'>20%</color>。<br><br><b><color style='color:#f29e38;'>观局勿语</color></b><br>未参与赌局的角色会被施加<b>【强烈震荡】</b>状态，直至赌局结束，该效果无法被免疫或抵抗。",
+            "EN": "Every time a target wins the gamble, they receive the <b>Favored by Fortune</b> effect: increases DMG dealt by <color style='color:#f29e38;'>50%</color>.<br>Every time a target loses the gamble, they receive the <b>Down on Your Luck</b> effect: increases DMG taken by <color style='color:#f29e38;'>20%</color>.<br><br><b><color style='color:#f29e38;'>Look, Don't Speak</color></b><br>Characters who have not taken part in the gamble will be inflicted with <b>Strong Reverberation</b> until the end of the Gamble. This effect cannot be immunized against or resisted."
         },
         "SP": 0
     },
@@ -16656,8 +16671,8 @@ var _monsterskill = {
             "EN": "Disembodied Shell"
         },
         "Desc": {
-            "CH": "进入<b>【守备】</b>状态，弱点未被击破时受到的伤害降低 <color style='color:#f29e38;'>60%</color>。被击破时行动额外延后 <color style='color:#f29e38;'>75%</color>，被击破后受到的伤害提高 <color style='color:#f29e38;'>50%</color>。",
-            "EN": "Enters the <b>Safeguard</b> state. When not Weakness Broken, reduces DMG received by <color style='color:#f29e38;'>60%</color>. Once Weakness is Broken, action will be delayed by <color style='color:#f29e38;'>75%</color>. After Weakness is Broken, increases DMG received by <color style='color:#f29e38;'>50%</color>."
+            "CH": "弱点未被击破时具有<b>【守备】</b>状态：受到的伤害降低 <color style='color:#f29e38;'>60%</color>。被击破时行动额外延后 <color style='color:#f29e38;'>75%</color>，被击破后受到的伤害提高 <color style='color:#f29e38;'>50%</color>。",
+            "EN": "When not Weakness Broken, has the <b>Safeguard</b> state: reduces DMG received by <color style='color:#f29e38;'>60%</color>. Once Weakness is Broken, action will be delayed by <color style='color:#f29e38;'>75%</color>. After Weakness is Broken, increases DMG received by <color style='color:#f29e38;'>50%</color>."
         },
         "SP": 0
     },
@@ -17465,8 +17480,8 @@ var _monsterskill = {
             "EN": "Disembodied Shell"
         },
         "Desc": {
-            "CH": "进入<b>【守备】</b>状态，弱点未被击破时受到的伤害降低 <color style='color:#f29e38;'>30%</color>。被击破时行动额外延后 <color style='color:#f29e38;'>75%</color>，被击破后受到的伤害提高 <color style='color:#f29e38;'>50%</color>。",
-            "EN": "Enters the <b>Safeguard</b> state. When not Weakness Broken, reduces DMG received by <color style='color:#f29e38;'>30%</color>. Once Weakness is Broken, action will be delayed by <color style='color:#f29e38;'>75%</color>. After Weakness is Broken, increases DMG received by <color style='color:#f29e38;'>50%</color>."
+            "CH": "弱点未被击破时具有<b>【守备】</b>状态：受到的伤害降低 <color style='color:#f29e38;'>30%</color>。被击破时行动额外延后 <color style='color:#f29e38;'>75%</color>，被击破后受到的伤害提高 <color style='color:#f29e38;'>50%</color>。",
+            "EN": "When not Weakness Broken, has the <b>Safeguard</b> state: reduces DMG received by <color style='color:#f29e38;'>30%</color>. Once Weakness is Broken, action will be delayed by <color style='color:#f29e38;'>75%</color>. After Weakness is Broken, increases DMG received by <color style='color:#f29e38;'>50%</color>."
         },
         "SP": 0
     },
