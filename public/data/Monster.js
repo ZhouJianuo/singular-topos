@@ -34529,6 +34529,9 @@ var _monster = [
         "Camp": 11,
         "Icon": "mostericon/Monster_3013010.png",
         "Figure": "monsterfigure/Monster_3013010.png",
+        "Status": [
+            230130101
+        ],
         "AllSkills": [
             301301001,
             301301002,
@@ -34587,6 +34590,9 @@ var _monster = [
         "Camp": 11,
         "Icon": "mostericon/Monster_3013010.png",
         "Figure": "monsterfigure/Monster_3013010.png",
+        "Status": [
+            230130101
+        ],
         "AllSkills": [
             301301001,
             301301002,
@@ -34644,6 +34650,9 @@ var _monster = [
         "Camp": 11,
         "Icon": "mostericon/Monster_3013010.png",
         "Figure": "monsterfigure/Monster_3013010.png",
+        "Status": [
+            230130101
+        ],
         "AllSkills": [
             301301101,
             301301102,
@@ -59365,6 +59374,1438 @@ var _status = {
             "EN": "Cannot be controlled. Automatically attacks a random enemy target. If the target is about to have any debuff removed by an ability, then the Outrage state will be prioritized for removal."
         },
         "Type": "Debuff"
+    },
+    "210010101": {
+        "Name": {
+            "CH": "防御降低",
+            "EN": "DEF Reduction"
+        },
+        "Modifier": "Monster_W1_Soldier01_00_DefenceRatioDown",
+        "Desc": {
+            "CH": "防御力降低<color style='color:#f29e38;'> [MDF_PropertyValue] </color>。",
+            "EN": "DEF -<color style='color:#f29e38;'>[MDF_PropertyValue]</color>."
+        },
+        "Type": "Debuff"
+    },
+    "210020201": {
+        "Name": {
+            "CH": "攻击提高",
+            "EN": "ATK Boost"
+        },
+        "Modifier": "Monster_W1_Soldier01_03_Buff",
+        "Desc": {
+            "CH": "攻击力提高<color style='color:#f29e38;'> [Modifier_AttackAddedRatio] </color>。",
+            "EN": "ATK +<color style='color:#f29e38;'>[Modifier_AttackAddedRatio]</color>."
+        },
+        "Type": "Buff"
+    },
+    "210020301": {
+        "Name": {
+            "CH": "支援",
+            "EN": "Support"
+        },
+        "Modifier": "MMonster_W1_Soldier04_00_SkillP01_Supporting",
+        "Desc": {
+            "CH": "受到自身支援的敌方单体对我方目标施放攻击后，自身立刻对受到攻击的该目标发动1次追加攻击。",
+            "EN": "When a Supported friendly unit attacks any target, this unit will immediately launch a follow-up attack on the target."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "210020302": {
+        "Name": {
+            "CH": "援军",
+            "EN": "Reinforced"
+        },
+        "Modifier": "MMonster_W1_Soldier04_00_SkillP01_Supported",
+        "Desc": {
+            "CH": "受到<color style='color:#f29e38;'>%CasterName</color>支援。",
+            "EN": "Receives Support from <color style='color:#f29e38;'>%CasterName</color>."
+        },
+        "CanNotDispel": true
+    },
+    "210030102": {
+        "Name": {
+            "CH": "反击",
+            "EN": "Counter"
+        },
+        "Modifier": "MMonster_W1_Soldier03_00_ListenBeingAttacked",
+        "Desc": {
+            "CH": "受到攻击后，立即对攻击者展开强力反击。",
+            "EN": "Uses a Powerful Counter on the attacker after being attacked."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "210030201": {
+        "Name": {
+            "CH": "集火",
+            "EN": "Aggravate"
+        },
+        "Modifier": "Monster_Gepard_Attack_Sign",
+        "Desc": {
+            "CH": "被所有银鬃铁卫锁定为攻击目标。",
+            "EN": "Silvermane Guards will focus their attacks on this target."
+        },
+        "Type": "Debuff"
+    },
+    "210030204": {
+        "Name": {
+            "CH": "屏障",
+            "EN": "Barrier"
+        },
+        "Modifier": "MMonster_W1_Gepard_00_BlockDamage",
+        "Desc": {
+            "CH": "抵抗除持续伤害外的所有伤害，受到攻击后解除。",
+            "EN": "Nullifies all DMG received except for DoT until after being attacked."
+        },
+        "Type": "Buff"
+    },
+    "210040111": {
+        "Name": {
+            "CH": "伤害提高",
+            "EN": "DMG Boost"
+        },
+        "Modifier": "Monster_W1_CocoliaP1_00_RL_DamageUp",
+        "Desc": {
+            "CH": "造成的伤害提高<color style='color:#f29e38;'> [MDF_DamageUpRatio_PerLayer] </color>，该效果可叠加。",
+            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>. This effect can stack."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "210040113": {
+        "Name": {
+            "CH": "拘束",
+            "EN": "Restrain"
+        },
+        "Modifier": "Monster_W1_Svarog_00_RL_Control_Modifier",
+        "Desc": {
+            "CH": "【拘束】状态下的目标无法行动。",
+            "EN": "Restrained. Cannot take action."
+        },
+        "Type": "Debuff",
+        "CanNotDispel": true
+    },
+    "210040114": {
+        "Name": {
+            "CH": "伤害提高",
+            "EN": "DMG Boost"
+        },
+        "Modifier": "Monster_W1_CocoliaP1_00_RL_Skill05_Buff",
+        "Desc": {
+            "CH": "造成的伤害提高<color style='color:#f29e38;'> [ModifierDamageUpValue] </color>。",
+            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[ModifierDamageUpValue]</color>."
+        },
+        "Type": "Buff"
+    },
+    "210040204": {
+        "Name": {
+            "CH": "拘束",
+            "EN": "Restrain"
+        },
+        "Modifier": "Svarog_Control_Modifier",
+        "Desc": {
+            "CH": "【拘束】状态下的目标无法行动。",
+            "EN": "Restrained. Cannot take action."
+        },
+        "Type": "Debuff",
+        "CanNotDispel": true
+    },
+    "210040221": {
+        "Name": {
+            "CH": "伤害提高",
+            "EN": "DMG Boost"
+        },
+        "Modifier": "Monster_W1_Gepard_00_RL_DamageUP",
+        "Desc": {
+            "CH": "造成的伤害提高<color style='color:#f29e38;'> [MDF_DamageAddedRatio] </color>。",
+            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageAddedRatio]</color>."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "210040222": {
+        "Name": {
+            "CH": "反击",
+            "EN": "Counter"
+        },
+        "Modifier": "MMonster_W1_Gepard_00_RL_ListenBeingAttacked",
+        "Desc": {
+            "CH": "受到攻击后，立即对攻击者展开强力反击。",
+            "EN": "Uses a Powerful Counter on the attacker after being attacked."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "210040223": {
+        "Name": {
+            "CH": "全体护盾",
+            "EN": "Shield for All"
+        },
+        "Modifier": "MAvatar_Gepard_00_RL_ShieldIcon",
+        "Desc": {
+            "CH": "能够抵消敌方全体受到伤害的护盾。护盾耗尽或效果消失前我方目标的攻击不会对敌方持有护盾的目标的生命值造成削减。",
+            "EN": "A Shield that absorbs DMG taken by all enemies. While the Shield persists, allies' attacks will not reduce the Shielded enemies' HP."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "210040224": {
+        "Name": {
+            "CH": "弱点无效",
+            "EN": "Weakness Protected"
+        },
+        "Modifier": "MAvatar_Gepard_00_RL_ShieldIcon2",
+        "Desc": {
+            "CH": "在【全体护盾】消失前，敌方目标的韧性无法受到伤害。",
+            "EN": "Before Shield for All ends, enemy targets' Toughness cannot be depleted."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "210050101": {
+        "Name": {
+            "CH": "灭世纪的预兆",
+            "EN": "Harbinger of Annihilation"
+        },
+        "Modifier": "MMonster_W1_CocoliaP2_00_Skill10_TargetLock",
+        "Desc": {
+            "CH": "被<color style='color:#f29e38;'>%CasterName</color>锁定为攻击目标。",
+            "EN": "<color style='color:#f29e38;'>%CasterName</color> will focus attacks on this target."
+        },
+        "CanNotDispel": true
+    },
+    "210050105": {
+        "Name": {
+            "CH": "创世纪的前奏",
+            "EN": "The Creation's Prelude"
+        },
+        "Modifier": "MMonster_W1_CocoliaP2_00_Skill08_Charge",
+        "Desc": {
+            "CH": "下次攻击对我方全体施放【创世绝响】。",
+            "EN": "The next attack will cause Last Choir of Genesis to all targets."
+        },
+        "CanNotDispel": true
+    },
+    "210120401": {
+        "Name": {
+            "CH": "过载时限",
+            "EN": "Overload Countdown"
+        },
+        "Modifier": "Monster_W1_SvarogPart_00_CountDown",
+        "Desc": {
+            "CH": "辅助机械臂单元进入过载倒计时，倒计时结束时施放【过载警告】。",
+            "EN": "Auxiliary Robot Arm Unit initiates Overload countdown. After the countdown ends, cast Overload Warning."
+        },
+        "CanNotDispel": true
+    },
+    "210120402": {
+        "Name": {
+            "CH": "过载",
+            "EN": "Overload"
+        },
+        "Modifier": "Monster_W1_SvarogPart_00_Overload",
+        "Desc": {
+            "CH": "下次行动施放【控场起爆】。",
+            "EN": "Casts Controlled Blasting in the next action."
+        },
+        "CanNotDispel": true
+    },
+    "210120411": {
+        "Name": {
+            "CH": "过载时限",
+            "EN": "Overload Countdown"
+        },
+        "Modifier": "Monster_W1_SvarogPart_00_RL_CountDown",
+        "Desc": {
+            "CH": "辅助机械臂单元进入过载倒计时，倒计时结束时施放【过载警告】。",
+            "EN": "Auxiliary Robot Arm Unit initiates Overload countdown. After the countdown ends, cast Overload Warning."
+        },
+        "CanNotDispel": true
+    },
+    "210130101": {
+        "Name": {
+            "CH": "蓄力",
+            "EN": "Charge"
+        },
+        "Modifier": "W1_Mecha02_AttackBuff",
+        "Desc": {
+            "CH": "对我方造成的伤害提高<color style='color:#f29e38;'> [ModifierDamageUpValue] </color>。",
+            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[ModifierDamageUpValue]</color>."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "210130122": {
+        "Name": {
+            "CH": "伤害提高",
+            "EN": "DMG Boost"
+        },
+        "Modifier": "Monster_W1_Mecha03_00_RL_Skill03_DamageUp",
+        "Desc": {
+            "CH": "造成的伤害提高<color style='color:#f29e38;'> [MDF_DamageUpRatio_PerLayer] </color>。该效果可叠加。",
+            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>. This effect can stack."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "210130201": {
+        "Name": {
+            "CH": "锁定",
+            "EN": "Lock On"
+        },
+        "Modifier": "Sign_W1_Mecha02",
+        "Desc": {
+            "CH": "被<color style='color:#f29e38;'>%CasterName</color>锁定为攻击目标。",
+            "EN": "<color style='color:#f29e38;'>%CasterName</color> will focus attacks on this target."
+        },
+        "CanNotDispel": true
+    },
+    "210130202": {
+        "Name": {
+            "CH": "裂伤",
+            "EN": "Bleed"
+        },
+        "Modifier": "W1_Mecha02_ThunderDOT",
+        "Desc": {
+            "CH": "一定回合内，每回合开始时受到基于生命上限的物理伤害，最多叠加<color style='color:#f29e38;'> [MDF_MaxLayer] </color>次。",
+            "EN": "For a certain number of turns, receive Physical DMG based on Max HP at the beginning of each turn, stacking up to <color style='color:#f29e38;'>[MDF_MaxLayer]</color> time(s)."
+        },
+        "Type": "Debuff"
+    },
+    "210130221": {
+        "Name": {
+            "CH": "作战加速",
+            "EN": "Combat Speed-Up"
+        },
+        "Modifier": "Monster_W1_Mecha04_00_RL_Phase3Passive",
+        "Desc": {
+            "CH": "速度提高<color style='color:#f29e38;'> [MDF_SpeedAddedRatio] </color>。每次施放【协力指令】时使自身速度进一步提高。",
+            "EN": "Increases SPD by <color style='color:#f29e38;'>[MDF_SpeedAddedRatio]</color>. SPD increases further every time Teamwork Order is used."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "210130222": {
+        "Name": {
+            "CH": "加速",
+            "EN": "SPD Boost"
+        },
+        "Modifier": "Monster_W1_Mecha04_00_RL_Skill12_SpeedUp",
+        "Desc": {
+            "CH": "速度提高<color style='color:#f29e38;'> [MDF_SpeedAddedRatio_PerLayer] </color>。该效果可叠加。",
+            "EN": "Increases SPD by <color style='color:#f29e38;'>[MDF_SpeedAddedRatio_PerLayer]</color>. This effect can stack."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "210230101": {
+        "Name": {
+            "CH": "失控",
+            "EN": "Out of Control"
+        },
+        "Modifier": "Monster_W1_Mecha_Fire_Passive",
+        "Desc": {
+            "CH": "造成的伤害提高<color style='color:#f29e38;'> [ModifierCriticalChanceRatio] </color>，最多叠加5层。",
+            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[ModifierCriticalChanceRatio]</color>. Stack up to 5 times."
+        },
+        "Type": "Buff"
+    },
+    "210230102": {
+        "Name": {
+            "CH": "狂热",
+            "EN": "Mania"
+        },
+        "Modifier": "Monster_W1_Mecha_Fire_Burning",
+        "Desc": {
+            "CH": "攻击力提高<color style='color:#f29e38;'> [Modifier_AttackAddedRatio] </color>。速度提高<color style='color:#f29e38;'> [Modifier_SpeedDelta] </color>点。",
+            "EN": "Increases ATK by <color style='color:#f29e38;'>[Modifier_AttackAddedRatio]</color> and SPD by <color style='color:#f29e38;'>[Modifier_SpeedDelta]</color> pts."
+        },
+        "Type": "Buff"
+    },
+    "210230202": {
+        "Name": {
+            "CH": "深寒",
+            "EN": "Deep Freeze"
+        },
+        "Modifier": "Monster_W1_Mecha03_01_Frozen",
+        "Desc": {
+            "CH": "冰属性抗性降低<color style='color:#f29e38;'> [MDF_IceResistanceRatio_PerLayer] </color>，速度降低<color style='color:#f29e38;'> [MDF_SpeedAddedDelta_PerLayer] </color>，最多叠加<color style='color:#f29e38;'> [MDF_MaxLayer] </color>层。",
+            "EN": "Reduces Ice RES by <color style='color:#f29e38;'>[MDF_IceResistanceRatio_PerLayer]</color> and SPD by <color style='color:#f29e38;'>[MDF_SpeedAddedDelta_PerLayer]</color>. Can stack up to <color style='color:#f29e38;'>[MDF_MaxLayer]</color> time(s)."
+        },
+        "Type": "Debuff"
+    },
+    "210230203": {
+        "Name": {
+            "CH": "防御降低",
+            "EN": "DEF Reduction"
+        },
+        "Modifier": "Monster_W1_Mecha03_01_Overheat",
+        "Desc": {
+            "CH": "防御力降低<color style='color:#f29e38;'> [MDF_DefenceAddedRatio] </color>。",
+            "EN": "DEF -<color style='color:#f29e38;'>[MDF_DefenceAddedRatio]</color>."
+        },
+        "Type": "Debuff"
+    },
+    "210230207": {
+        "Name": {
+            "CH": "超限",
+            "EN": "Surpass"
+        },
+        "Modifier": "Monster_W1_Mecha03_01_Rage",
+        "Desc": {
+            "CH": "攻击力提高<color style='color:#f29e38;'> [MDF_AttackAddedRatio] </color>。",
+            "EN": "ATK +<color style='color:#f29e38;'>[MDF_AttackAddedRatio]</color>."
+        },
+        "Type": "Buff"
+    },
+    "210230208": {
+        "Name": {
+            "CH": "锁定",
+            "EN": "Lock On"
+        },
+        "Modifier": "Monster_W1_Mecha03_01_Sign",
+        "Desc": {
+            "CH": "被<color style='color:#f29e38;'>%CasterName</color>锁定为攻击目标。",
+            "EN": "<color style='color:#f29e38;'>%CasterName</color> will focus attacks on this target."
+        },
+        "CanNotDispel": true
+    },
+    "220020301": {
+        "Name": {
+            "CH": "震荡",
+            "EN": "Reverberation"
+        },
+        "Modifier": "MCommon_Unstable",
+        "Desc": {
+            "CH": "受到攻击后，陷入【强烈震荡】状态，然后解除【震荡】状态。",
+            "EN": "After receiving an attack, enters Strong Reverberation, then dispels Reverberation."
+        },
+        "Type": "Debuff"
+    },
+    "220020302": {
+        "Name": {
+            "CH": "强烈震荡",
+            "EN": "Strong Reverberation"
+        },
+        "Modifier": "MCommon_Shake",
+        "Desc": {
+            "CH": "一定回合内无法行动。",
+            "EN": "Unable to take action for a certain number of turns."
+        },
+        "Type": "Debuff"
+    },
+    "220040111": {
+        "Name": {
+            "CH": "伤害提高",
+            "EN": "DMG Boost"
+        },
+        "Modifier": "Monster_W2_Kafka_00_RL_DamageUp",
+        "Desc": {
+            "CH": "造成的伤害提高<color style='color:#f29e38;'> [MDF_DamageUpRatio_PerLayer] </color>。该效果可叠加。",
+            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>. This effect can stack."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "220040112": {
+        "Name": {
+            "CH": "心理暗示",
+            "EN": "Psychological Suggestion"
+        },
+        "Modifier": "Monster_W2_Kafka_00_RL_MindControl_True",
+        "Desc": {
+            "CH": "下次【揭晓】时触发。可以被优先解除。",
+            "EN": "Triggered at the next Revelation. Can be removed before that action."
+        },
+        "Type": "Debuff"
+    },
+    "220040201": {
+        "Name": {
+            "CH": "阵眼",
+            "EN": "Formation Core"
+        },
+        "Modifier": "MMonster_W2_Yanqing_00_Skill02_UnknownWeakPoint_01",
+        "Desc": {
+            "CH": "该敌方目标的弱点属性为风、雷、虚数的其中一种，对其施放正确属性的攻击，可以知晓其真实的弱点属性；对该目标造成弱点击破可以直接消灭该目标。",
+            "EN": "The Weakness of the target enemy is one of the following: Wind, Lightning, Imaginary. Use attacks of the corresponding Types to figure out the real Weakness Type. Inflict Weakness Break on the target to destroy the enemy."
+        },
+        "CanNotDispel": true
+    },
+    "220040204": {
+        "Name": {
+            "CH": "剑阵",
+            "EN": "Sword Formation"
+        },
+        "Modifier": "MMonster_W2_Yanqing_00_Skill02_UnknownWeakPoint_Core",
+        "Desc": {
+            "CH": "彦卿的韧性无法受到伤害且速度提高<color style='color:#f29e38;'> [MDF_SpeedDelta] </color>点。消灭所有的【飞剑】可以解除该效果并对彦卿造成伤害。",
+            "EN": "Yanqing's Toughness cannot be depleted, and his SPD increases by <color style='color:#f29e38;'>[MDF_SpeedDelta]</color>. Destroy all of Yanqing's Flying Swords to dispel that effect and cause DMG to Yanqing."
+        },
+        "CanNotDispel": true
+    },
+    "220040211": {
+        "Name": {
+            "CH": "剑阵",
+            "EN": "Sword Formation"
+        },
+        "Modifier": "MMonster_W2_Yanqing_00_Skill02_UnknownWeakPoint_Core_RL",
+        "Desc": {
+            "CH": "彦卿的韧性无法受到伤害且速度提高<color style='color:#f29e38;'> [MDF_SpeedDelta] </color>点。消灭所有的【飞剑】可以解除该效果并对彦卿造成伤害。",
+            "EN": "Yanqing's Toughness cannot be depleted, and his SPD increases by <color style='color:#f29e38;'>[MDF_SpeedDelta]</color>. Destroy all of Yanqing's Flying Swords to dispel this effect and cause DMG to Yanqing."
+        },
+        "CanNotDispel": true
+    },
+    "220040212": {
+        "Name": {
+            "CH": "砥砺",
+            "EN": "Ordeal"
+        },
+        "Modifier": "MMonster_W2_Yanqing_00_SwordPowerUp",
+        "Desc": {
+            "CH": "该召唤物获得强化，韧性上限提高。施放攻击后，大概率使目标陷入冻结状态。",
+            "EN": "This summon receives an enhancement and increases Max Toughness. After attacking, there is a high chance of Freezing the target."
+        },
+        "CanNotDispel": true
+    },
+    "220040215": {
+        "Name": {
+            "CH": "寒芒",
+            "EN": "Chilling Light"
+        },
+        "Modifier": "MMonster_W2_Yanqing_00_Common_Overdrive",
+        "Desc": {
+            "CH": "造成的伤害提高<color style='color:#f29e38;'> [MDF_AllDamageTypeAddedRatio] </color>。该效果可叠加。",
+            "EN": "DMG dealt increases by <color style='color:#f29e38;'>[MDF_AllDamageTypeAddedRatio]</color>. This effect can stack."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "220130102": {
+        "Name": {
+            "CH": "罚恶模式",
+            "EN": "Sanction Mode"
+        },
+        "Modifier": "MMonster_W2_Mecha03_00_Overdrive_On",
+        "Desc": {
+            "CH": "金人司阍的韧性无法受到伤害且速度提高<color style='color:#f29e38;'> [MDF_SpeedAddedValue] </color>点，并开启使用技能：戒退和缚束。",
+            "EN": "The Aurumaton Gatekeeper's Toughness cannot be damaged. Its SPD increases by <color style='color:#f29e38;'>[MDF_SpeedAddedValue]</color> and it activates the abilities Restraint and Enchainment."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "220130111": {
+        "Name": {
+            "CH": "锁定",
+            "EN": "Lock On"
+        },
+        "Modifier": "Monster_W2_Mecha03_00_Sign",
+        "Desc": {
+            "CH": "被<color style='color:#f29e38;'>%CasterName</color>锁定为攻击目标。",
+            "EN": "<color style='color:#f29e38;'>%CasterName</color> will focus attacks on this target."
+        },
+        "CanNotDispel": true
+    },
+    "220130112": {
+        "Name": {
+            "CH": "罚恶模式•慎刑",
+            "EN": "Sanction Mode: Punisher"
+        },
+        "Modifier": "Monster_W2_Mecha03_00_Overdrive_On_RLElite",
+        "Desc": {
+            "CH": "金人司阍的韧性无法受到伤害且速度提高<color style='color:#f29e38;'> [MDF_SpeedUpRatio] </color>，并开启使用技能：追摄。",
+            "EN": "The Aurumaton Gatekeeper's Toughness cannot be damaged. Its SPD increases by <color style='color:#f29e38;'>[MDF_SpeedUpRatio]</color>, and it activates the ability Track Down."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "220220101": {
+        "Name": {
+            "CH": "重生",
+            "EN": "Rebirth"
+        },
+        "Modifier": "Monster_W2_Abomi01_00_Revive",
+        "Desc": {
+            "CH": "受到致命攻击时，立即回复一定生命值。",
+            "EN": "Upon receiving a killing blow, restores a certain amount of HP."
+        },
+        "Type": "Buff"
+    },
+    "220220102": {
+        "Name": {
+            "CH": "加速",
+            "EN": "SPD Boost"
+        },
+        "Modifier": "Monster_W2_Abomi01_00_Accelerate",
+        "Desc": {
+            "CH": "速度提高。",
+            "EN": "SPD Increased."
+        },
+        "Type": "Buff"
+    },
+    "220220203": {
+        "Name": {
+            "CH": "引动雷劫",
+            "EN": "Spur of Thunderwoe"
+        },
+        "Modifier": "Monster_W2_Abomi02_00_Mark",
+        "Desc": {
+            "CH": "当「药王秘传」内丹士受到致命攻击时，对所有陷入被其添加的【引动雷劫】状态的我方目标造成1次伤害。",
+            "EN": "Upon receiving a killing blow, the Disciples of Sanctus Medicus: Internal Alchemist deals DMG 1 time to targets that are inflicted with Spur of Thunderwoe by them."
+        },
+        "Type": "Debuff"
+    },
+    "220220204": {
+        "Name": {
+            "CH": "结丹者",
+            "EN": "Core Formation"
+        },
+        "Modifier": "Monster_W2_Abomi02_00_TargetList",
+        "Desc": {
+            "CH": "受到致命攻击时，对所有陷入被自身添加的【引动雷劫】状态的我方目标造成1次伤害。\n当前陷入【引动雷劫】状态的我方目标有：<color style='color:#f29e38;'>%DynamicTargetName</color>。",
+            "EN": "Upon receiving a killing blow, the unit deals DMG 1 time to targets that are afflicted with Spur of Thunderwoe by them.\nThe current targets who have Spur of Thunderwoe on them are: <color style='color:#f29e38;'>%DynamicTargetName</color>."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "220220801": {
+        "Name": {
+            "CH": "复还",
+            "EN": "Retaliation"
+        },
+        "Modifier": "MMonster_W2_Xuanlu_02_Counter",
+        "Desc": {
+            "CH": "受到攻击后，对攻击者造成伤害。",
+            "EN": "When attacked by an enemy, deals DMG to that enemy."
+        },
+        "Type": "Buff"
+    },
+    "220220802": {
+        "Name": {
+            "CH": "繁生",
+            "EN": "Engender"
+        },
+        "Modifier": "MMonster_W2_Xuanlu_02_Buff",
+        "Desc": {
+            "CH": "攻击力提高。",
+            "EN": "Increases ATK."
+        },
+        "Type": "Buff"
+    },
+    "220221001": {
+        "Name": {
+            "CH": "嘉实",
+            "EN": "Lavish Fruit"
+        },
+        "Modifier": "MMonster_W2_Xuanlu_04_Charge",
+        "Desc": {
+            "CH": "当场上存在2个【嘉实】时，丰饶玄鹿会立即施放【班龙触】。",
+            "EN": "When there are 2 Lavish Fruits on the field, the Abundant Ebon Deer will immediately use Flamboyant Gore."
+        },
+        "CanNotDispel": true
+    },
+    "220221101": {
+        "Name": {
+            "CH": "嗔恚",
+            "EN": "Maddened"
+        },
+        "Modifier": "MMonster_W2_Valkyrie01_01_SkillP01_ComboAttack",
+        "Desc": {
+            "CH": "攻击改为施放【锯恶•斩】。",
+            "EN": "Attack changes to Sawing Evil: Sever."
+        },
+        "Type": "Buff"
+    },
+    "220230101": {
+        "Name": {
+            "CH": "击中回复",
+            "EN": "Draining Hit"
+        },
+        "Modifier": "MMonster_W2_Abomi04_00_HitToHeal",
+        "Desc": {
+            "CH": "当场上存在其他带有【重生】效果的敌方目标时，「药王秘传」炼形者具有以下效果：击中我方目标后，回复其自身生命值。",
+            "EN": "When there are other enemy targets with \"Rebirth\" remaining on the field, Disciples of Sanctus Medicus: Shape Shifter will have the following effect — restores its HP when its attack hits."
+        },
+        "Type": "Buff"
+    },
+    "220230201": {
+        "Name": {
+            "CH": "元气",
+            "EN": "Gusto"
+        },
+        "Modifier": "Monster_W2_Beast02_00_Bullet",
+        "Desc": {
+            "CH": "【长右】当前拥有的【元气】。",
+            "EN": "Malefic Ape's current Gusto amount."
+        },
+        "CanNotDispel": true
+    },
+    "220230203": {
+        "Name": {
+            "CH": "屏障",
+            "EN": "Barrier"
+        },
+        "Modifier": "MMonster_W2_Beast02_00_BlockDamage",
+        "Desc": {
+            "CH": "抵抗除持续伤害外的所有伤害，受到攻击后解除。",
+            "EN": "Nullifies all DMG received except DoTs. This status is dispelled after being attacked."
+        },
+        "Type": "Buff"
+    },
+    "220230204": {
+        "Name": {
+            "CH": "监视",
+            "EN": "Monitor"
+        },
+        "Modifier": "Monster_Beast02_Attack_Sign",
+        "Desc": {
+            "CH": "被<color style='color:#f29e38;'>%CasterName</color>标记为监视目标。",
+            "EN": "Marked by <color style='color:#f29e38;'>%CasterName</color> for Monitoring."
+        },
+        "CanNotDispel": true
+    },
+    "220230205": {
+        "Name": {
+            "CH": "伤害提高",
+            "EN": "DMG Boost"
+        },
+        "Modifier": "Monster_Common_Layer_DamageUP",
+        "Desc": {
+            "CH": "造成的伤害提高<color style='color:#f29e38;'> [MDF_DamageAddedRatio] </color>。最多叠加<color style='color:#f29e38;'> [MDF_MaxLayer] </color>层。",
+            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageAddedRatio]</color> for up to <color style='color:#f29e38;'>[MDF_MaxLayer]</color> stacks."
+        },
+        "Type": "Buff"
+    },
+    "220230211": {
+        "Name": {
+            "CH": "鼓勇",
+            "EN": "Gather Courage"
+        },
+        "Modifier": "MMonster_W2_Beast02_00_RLElite_GennkiMark",
+        "Desc": {
+            "CH": "已积攒<color style='color:#f29e38;'> [MDF_PropertyValue] </color>层元气。",
+            "EN": "<color style='color:#f29e38;'>[MDF_PropertyValue]</color> stacks of Gusto accumulated."
+        },
+        "CanNotDispel": true
+    },
+    "220230212": {
+        "Name": {
+            "CH": "监视",
+            "EN": "Monitor"
+        },
+        "Modifier": "Monster_W2_Beast02_00_RLElite_Attack_Sign",
+        "Desc": {
+            "CH": "被<color style='color:#f29e38;'>%CasterName</color>标记为监视目标。",
+            "EN": "Marked by <color style='color:#f29e38;'>%CasterName</color> for Monitoring."
+        },
+        "CanNotDispel": true
+    },
+    "220240101": {
+        "Name": {
+            "CH": "蕉覆",
+            "EN": "Hardy Leaf Sheath"
+        },
+        "Modifier": "MMonster_W2_Xuanlu_00_Skill07_NoWeakness",
+        "Desc": {
+            "CH": "防御力提高，韧性无法受到伤害。",
+            "EN": "Increases DEF. Toughness cannot be reduced."
+        },
+        "Type": "Buff"
+    },
+    "220240111": {
+        "Name": {
+            "CH": "若木化生",
+            "EN": "Synwood Renewal"
+        },
+        "Modifier": "MMonster_W2_Xuanlu_10_EnergyDrain",
+        "Desc": {
+            "CH": "每回合回复等同于自身生命上限<color style='color:#f29e38;'> [MMonster_W2_Xuanlu_10_EnergyDrain_TurnHealRatio] </color>的生命值。",
+            "EN": "In every turn, restores HP equal to <color style='color:#f29e38;'>[MMonster_W2_Xuanlu_10_EnergyDrain_TurnHealRatio]</color> of the unit's Max HP."
+        },
+        "Type": "Buff"
+    },
+    "220240112": {
+        "Name": {
+            "CH": "生机充盈",
+            "EN": "Vigor Overflow"
+        },
+        "Modifier": "MMonster_W2_Xuanlu_10_RL_DamageUp",
+        "Desc": {
+            "CH": "造成的伤害提高<color style='color:#f29e38;'> [MDF_DamageUpRatio_PerLayer] </color>。该效果可叠加。",
+            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>. This effect is stackable."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "230010101": {
+        "Name": {
+            "CH": "test_效果抵抗降低",
+            "EN": ""
+        },
+        "Modifier": "Monster_W2_Mecha01_02_ResistanceDown",
+        "Desc": {
+            "CH": "效果抵抗降低<color style='color:#f29e38;'> [MDF_PropertyValue] </color>。",
+            "EN": "Effect RES reduces by <color style='color:#f29e38;'>[MDF_PropertyValue]</color>."
+        },
+        "Type": "Debuff"
+    },
+    "230020101": {
+        "Name": {
+            "CH": "惊喜频道",
+            "EN": "Surprise Channel"
+        },
+        "Modifier": "MModifier_Monster_W3_TV_00_Side1",
+        "Desc": {
+            "CH": "圆幕先生能够使用【惊喜综艺】技能。受到攻击后转变为【惊吓频道】状态。",
+            "EN": "Mr. Domescreen can use the \"Surprise Variety Show\" ability. After it has been attacked, switches to the Fright Channel state."
+        },
+        "CanNotDispel": true
+    },
+    "230020102": {
+        "Name": {
+            "CH": "惊吓频道",
+            "EN": "Fright Channel"
+        },
+        "Modifier": "MModifier_Monster_W3_TV_00_Side2",
+        "Desc": {
+            "CH": "圆幕先生能够使用【惊吓播报】技能。受到攻击后转变为【惊喜频道】状态。",
+            "EN": "Mr. Domescreen can use the \"Startling Broadcast\" ability. After it has been attacked, switches to the Surprise Channel state."
+        },
+        "CanNotDispel": true
+    },
+    "230020301": {
+        "Name": {
+            "CH": "苏乐达陶醉",
+            "EN": "SoulGlad Revel"
+        },
+        "Modifier": "Monster_W2_Beast01_03_LayerCount",
+        "Desc": {
+            "CH": "强化技能效果，最多叠加<color style='color:#f29e38;'> [MDF_ShowValue] </color>层。",
+            "EN": "Enhances ability effects, stacking up to <color style='color:#f29e38;'>[MDF_ShowValue]</color> times."
+        },
+        "CanNotDispel": true
+    },
+    "230030104": {
+        "Name": {
+            "CH": "文火",
+            "EN": "Simmer"
+        },
+        "Modifier": "MModifier_Monster_W3_Dinosaur_00_Calm",
+        "Desc": {
+            "CH": "当自身受到攻击或持续伤害时，叠加一层【炉灶加温】。",
+            "EN": "When this unit is attacked or takes DoT, gain 1 stack of Stove Heating."
+        },
+        "CanNotDispel": true
+    },
+    "230030105": {
+        "Name": {
+            "CH": "急火",
+            "EN": "Boil"
+        },
+        "Modifier": "MModifier_Monster_W3_Dinosaur_00_Fury",
+        "Desc": {
+            "CH": "当自身受到攻击或持续伤害时，叠加一层【炉灶加温】。",
+            "EN": "When this unit is attacked or takes DoT, gain 1 stack of Stove Heating."
+        },
+        "CanNotDispel": true
+    },
+    "230120201": {
+        "Name": {
+            "CH": "守备",
+            "EN": "Safeguard"
+        },
+        "Modifier": "MCommon_SuperArmor",
+        "Desc": {
+            "CH": "受到的伤害降低，弱点被击破时解除。弱点被击破时行动额外延后，被击破后受到的伤害提高。",
+            "EN": "DMG taken decreases. This effect is removed when Weakness is Broken. This unit's action will be delayed further when it is Weakness Broken and also takes increased DMG."
+        },
+        "CanNotDispel": true
+    },
+    "230130101": {
+        "Name": {
+            "CH": "无明火",
+            "EN": "Obscure Blaze"
+        },
+        "Modifier": "MMonster_W3_Dinosaur_01_Common_Growth",
+        "Desc": {
+            "CH": "每层使【痛恶如刺剔骨】额外造成1次伤害，上限为5层。弱点被击破时解除。",
+            "EN": "Each stack causes Bonepiercing Odium to deal DMG 1 additional time, up to 5 times. This effect is removed when its Weakness is Broken."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "230140201": {
+        "Name": {
+            "CH": "梦死",
+            "EN": "Morbid Dream"
+        },
+        "Modifier": "M_Death_CTRL",
+        "Desc": {
+            "CH": "无法被选定，无法行动。",
+            "EN": "Cannot be selected, cannot take action."
+        },
+        "CanNotDispel": true
+    },
+    "230140202": {
+        "Name": {
+            "CH": "夜幕将临",
+            "EN": "Nightfall"
+        },
+        "Modifier": "Modifier_W3_Death_00_ChargeShoot",
+        "Desc": {
+            "CH": "锁定接下来使用普攻、战技、终结技的2名我方目标。",
+            "EN": "Locks on to the next 2 characters who either use their Basic ATK, Skill, or Ultimate."
+        },
+        "CanNotDispel": true
+    },
+    "230140204": {
+        "Name": {
+            "CH": "白日西沉",
+            "EN": "Sunset"
+        },
+        "Modifier": "Modifier_W3_Death_00_HuntingMode1",
+        "Desc": {
+            "CH": "已叠加1层【白日西沉】。",
+            "EN": "Gained 1 stack of Sunset."
+        },
+        "CanNotDispel": true
+    },
+    "230140207": {
+        "Name": {
+            "CH": "锋锐悼词",
+            "EN": "Biting Obituary"
+        },
+        "Modifier": "Monster_W3_Death_00_AllDamageUp",
+        "Desc": {
+            "CH": "造成的伤害提高<color style='color:#f29e38;'> [MDF_ShowValue1] </color>，陷入弱点击破状态后移除。",
+            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_ShowValue1]</color>. This effect is removed when this unit becomes Weakness Broken."
+        },
+        "Type": "Buff"
+    },
+    "230240101": {
+        "Name": {
+            "CH": "灵魂释放",
+            "EN": "Soulfreed"
+        },
+        "Modifier": "MMonster_W2_Argenti_00_Power",
+        "Desc": {
+            "CH": "骑士的祷告将灵魂释放，技能得到了强化。",
+            "EN": "The knight's prayers bid the liberation of souls. Abilities have been enhanced."
+        },
+        "Type": "Buff"
+    },
+    "230240102": {
+        "Name": {
+            "CH": "伤害提高",
+            "EN": "DMG Boost"
+        },
+        "Modifier": "MMonster_Argenti_DamageUP",
+        "Desc": {
+            "CH": "造成的伤害提高<color style='color:#f29e38;'> [MDF_ShowValue1] </color>。",
+            "EN": "DMG dealt increases by <color style='color:#f29e38;'>[MDF_ShowValue1]</color>."
+        },
+        "Type": "Buff"
+    },
+    "230240201": {
+        "Name": {
+            "CH": "次级燃烧",
+            "EN": "Secondary Combustion"
+        },
+        "Modifier": "Monster_W3_Sam_00_Enhance",
+        "Desc": {
+            "CH": "攻击时消耗生命值，同时速度提高<color style='color:#f29e38;'> [MDF_SpeedUpRatio] </color>且额外获得一次行动。当前还剩<color style='color:#f29e38;'> [MDF_CurrentPoint] </color>点【熔火能量】解除【次级燃烧】。",
+            "EN": "All attacks consume HP. Increases SPD by <color style='color:#f29e38;'>[MDF_SpeedUpRatio]</color> and gains an additional action. When only <color style='color:#f29e38;'>[MDF_CurrentPoint]</color> points of Molten Energy remain, the Secondary Combustion state expires."
+        },
+        "CanNotDispel": true
+    },
+    "230240202": {
+        "Name": {
+            "CH": "弱点无效",
+            "EN": "Weakness Protected"
+        },
+        "Modifier": "Monster_W3_Sam_00_WeakPointProtected",
+        "Desc": {
+            "CH": "进入【次级燃烧】前，萨姆的韧性无法受到伤害。",
+            "EN": "Sam cannot lose Toughness before entering the Secondary Combustion state."
+        },
+        "CanNotDispel": true
+    },
+    "230240203": {
+        "Name": {
+            "CH": "熔火垓心",
+            "EN": "Molten Core"
+        },
+        "Modifier": "Monster_W3_Sam_00_BurningBP",
+        "Desc": {
+            "CH": "我方消耗燃烧的战技点时消耗生命值，同时额外造成等同于原伤害<color style='color:#f29e38;'> [MDF_DamageUpRatio] </color>的固定数值火属性伤害，并且接受其他角色的治疗时，生命值回复量大幅降低。",
+            "EN": "When consuming Combusted Skill Points, the attacking ally loses HP and additionally deals a set amount of Fire DMG equal to <color style='color:#f29e38;'>[MDF_DamageUpRatio]</color> of the original DMG. When they receive healing from other characters, the amount of HP restored is massively reduced."
+        },
+        "CanNotDispel": true
+    },
+    "230240204": {
+        "Name": {
+            "CH": "易伤",
+            "EN": "Vulnerability"
+        },
+        "Modifier": "Monster_W3_Sam_00_TakenDamage",
+        "Desc": {
+            "CH": "受到的伤害提高<color style='color:#f29e38;'> [MDF_DamageTakenUpRatio_PerLayer] </color>，该效果当萨姆从弱点击破状态恢复时解除。",
+            "EN": "Takes <color style='color:#f29e38;'>[MDF_DamageTakenUpRatio_PerLayer]</color> more DMG. This effect expires when Sam recovers from Weakness Break state."
+        },
+        "Type": "Debuff"
+    },
+    "280010301": {
+        "Name": {
+            "CH": "攻击提高",
+            "EN": "ATK Boost"
+        },
+        "Modifier": "Monster_XP_Minion03_00_Attack",
+        "Desc": {
+            "CH": "攻击力提高<color style='color:#f29e38;'> [MDF_AttackAddedRatio] </color>。",
+            "EN": "ATK +<color style='color:#f29e38;'>[MDF_AttackAddedRatio]</color>."
+        },
+        "Type": "Buff"
+    },
+    "280020102": {
+        "Name": {
+            "CH": "后手",
+            "EN": "Defensive Position"
+        },
+        "Modifier": "XP_Minion02_00_Attack",
+        "Desc": {
+            "CH": "下次行动时施放【颂歌爆发】，对我方目标造成的伤害提高<color style='color:#f29e38;'> [MDF_DamageAddedRatio] </color>。",
+            "EN": "Uses Carolburst during the next action and increases DMG dealt to targets by <color style='color:#f29e38;'>[MDF_DamageAddedRatio]</color>."
+        },
+        "Type": "Buff"
+    },
+    "280020601": {
+        "Name": {
+            "CH": "报…报复你",
+            "EN": "T—Taking Revenge"
+        },
+        "Modifier": "MMonster_XP_Minion04_02_Introduce",
+        "Desc": {
+            "CH": "当我方目标攻击敌方目标后，【毁灭扑满】对我方全体进行攻击，攻击次数相当于本次攻击击中的敌方目标数量。",
+            "EN": "When a friendly unit is attacked, Trotter of Destruction will attack all targets. The attack count is equal to the number of the targets attacked."
+        },
+        "CanNotDispel": true
+    },
+    "280020701": {
+        "Name": {
+            "CH": "治…治好你",
+            "EN": "C—Cure You"
+        },
+        "Modifier": "MMonster_XP_Minion04_03_Introduce",
+        "Desc": {
+            "CH": "当【丰饶扑满】队友受到我方目标攻击后，消耗自身当前生命值为被受到攻击的敌方目标回复生命值。",
+            "EN": "When a friendly unit is attacked by a target, Trotter of Abundance consumes its own HP to heal the attacked friendly unit."
+        },
+        "CanNotDispel": true
+    },
+    "280020801": {
+        "Name": {
+            "CH": "保…保护你",
+            "EN": "P—Protect You"
+        },
+        "Modifier": "MMonster_XP_Minion04_02_Cunhu_Buff",
+        "Desc": {
+            "CH": "每层【保…保护你】可抵抗1次伤害，敌方全体共享【保…保护你】层数。",
+            "EN": "Each stack of P—Protect You can absorb DMG from 1 incoming hit. P—Protect You stacks are shared across the team."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "280030101": {
+        "Name": {
+            "CH": "冰点",
+            "EN": "Freezing Point"
+        },
+        "Modifier": "XP_Ice_Elite_Powerful_Modifier",
+        "Desc": {
+            "CH": "外宇宙之冰的攻击模式得到强化。",
+            "EN": "Ice Out of Space's attack mode is enhanced."
+        },
+        "CanNotDispel": true
+    },
+    "280030202": {
+        "Name": {
+            "CH": "自燃",
+            "EN": "Spontaneous Combustion"
+        },
+        "Modifier": "XP_Fire_Elite_Burning_Modifier_2",
+        "Desc": {
+            "CH": "外宇宙之炎的攻击模式得到强化。",
+            "EN": "Blaze Out of Space's attack mode is enhanced."
+        },
+        "CanNotDispel": true
+    },
+    "280030203": {
+        "Name": {
+            "CH": "焚烧",
+            "EN": "Enkindle"
+        },
+        "Modifier": "MMonster_XP_Elite01_00_Burn",
+        "Desc": {
+            "CH": "一定回合内，每回合开始时受到火属性伤害。",
+            "EN": "Takes Fire DMG at the beginning of each turn for a certain number of turns."
+        },
+        "Type": "Debuff"
+    },
+    "280030301": {
+        "Name": {
+            "CH": "禁令",
+            "EN": "Ban"
+        },
+        "Modifier": "Monster_XP_Elite02_00_Edict01",
+        "Desc": {
+            "CH": "攻击<color style='color:#f29e38;'>%CasterName</color>会立即受到1次攻击。",
+            "EN": "Whoever attacks <color style='color:#f29e38;'>%CasterName</color> will be attacked 1 time."
+        },
+        "Type": "Debuff"
+    },
+    "280030302": {
+        "Name": {
+            "CH": "禁令",
+            "EN": "Ban"
+        },
+        "Modifier": "Monster_XP_Elite02_00_Edict02",
+        "Desc": {
+            "CH": "施放普攻会立即受到1次攻击。",
+            "EN": "Whoever uses Basic ATK will be attacked 1 time."
+        },
+        "Type": "Debuff"
+    },
+    "280030303": {
+        "Name": {
+            "CH": "禁令",
+            "EN": "Ban"
+        },
+        "Modifier": "Monster_XP_Elite02_00_Edict03",
+        "Desc": {
+            "CH": "施放战技会立即受到1次攻击。",
+            "EN": "Whoever uses Skills will be attacked 1 time."
+        },
+        "Type": "Debuff"
+    },
+    "280030306": {
+        "Name": {
+            "CH": "dev_debuff减防",
+            "EN": ""
+        },
+        "Modifier": "Monster_XP_Elite02_00_DebuffEnhanceEffect",
+        "Desc": {
+            "CH": "dev_每层使防御力降低<color style='color:#f29e38;'> [MDF_DefenceAddedRatio_PerLayer] </color>，最多叠加<color style='color:#f29e38;'> [MDF_MaxLayer] </color>层",
+            "EN": ""
+        },
+        "Type": "Debuff",
+        "CanNotDispel": true
+    },
+    "280030405": {
+        "Name": {
+            "CH": "追忆深度",
+            "EN": "Gauge Recollection"
+        },
+        "Modifier": "Monster_XP_Elite02_01_EnergyLayer",
+        "Desc": {
+            "CH": "当前拥有<color style='color:#f29e38;'> [ModifierLayers] </color>层【追忆刻度】，每次受到攻击后失去1层【追忆刻度】。",
+            "EN": "Current stacks of Gauge Recollection: <color style='color:#f29e38;'>[ModifierLayers]</color>. Loses 1 stack of Gauge Recollection after being hit."
+        },
+        "CanNotDispel": true
+    },
+    "280030603": {
+        "Name": {
+            "CH": "持咒",
+            "EN": "Japa"
+        },
+        "Modifier": "Monster_XP_Elite02_02_ChargeEffect",
+        "Desc": {
+            "CH": "下次行动对我方全体施放【玄气噬身】。",
+            "EN": "Uses Black Prana's Snare on all targets during the next action."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "280120101": {
+        "Name": {
+            "CH": "速度提高",
+            "EN": "SPD Boost"
+        },
+        "Modifier": "Monster_AML_Minion02_00_SpeedUp",
+        "Desc": {
+            "CH": "速度提高<color style='color:#f29e38;'> [MDF_SpeedAddedRatio_PerLayer] </color>，最多叠加<color style='color:#f29e38;'> [MDF_MaxLayer] </color>层。",
+            "EN": "Increases SPD by <color style='color:#f29e38;'>[MDF_SpeedAddedRatio_PerLayer]</color>. Can stack up to <color style='color:#f29e38;'>[MDF_MaxLayer]</color> time(s)."
+        },
+        "Type": "Buff"
+    },
+    "280120201": {
+        "Name": {
+            "CH": "锁定",
+            "EN": "Lock On"
+        },
+        "Modifier": "MMonster_AML_Minion03_00_Target",
+        "Desc": {
+            "CH": "被<color style='color:#f29e38;'>%CasterName</color>锁定为攻击目标。",
+            "EN": "<color style='color:#f29e38;'>%CasterName</color> will focus attacks on this target."
+        },
+        "CanNotDispel": true
+    },
+    "280120301": {
+        "Name": {
+            "CH": "起爆",
+            "EN": "Detonated"
+        },
+        "Modifier": "MMonster_AML_Minion04_00_Mark",
+        "Desc": {
+            "CH": "被<color style='color:#f29e38;'>虚卒•抹消者</color>附上起爆物，遭到攻击后额外受到1次附加伤害。",
+            "EN": "Has been attached a detonator by <color style='color:#f29e38;'>Voidranger: Eliminator</color>. Takes Additional DMG after being attacked."
+        },
+        "Type": "Debuff"
+    },
+    "280120302": {
+        "Name": {
+            "CH": "超负荷",
+            "EN": "Overloaded"
+        },
+        "Modifier": "MMonster_AML_Minion04_00_Overheat",
+        "Desc": {
+            "CH": "能量超出负荷，暂时无法施放攻击。",
+            "EN": "Temporarily unable to attack due to Energy overload."
+        },
+        "Type": "Debuff",
+        "CanNotDispel": true
+    },
+    "280130101": {
+        "Name": {
+            "CH": "锁定",
+            "EN": "Lock On"
+        },
+        "Modifier": "MMonster_AML_Elite01_00_Aim",
+        "Desc": {
+            "CH": "被<color style='color:#f29e38;'>%CasterName</color>锁定为攻击目标。",
+            "EN": "<color style='color:#f29e38;'>%CasterName</color> will focus attacks on this target."
+        },
+        "CanNotDispel": true
+    },
+    "280130201": {
+        "Name": {
+            "CH": "锁定",
+            "EN": "Lock On"
+        },
+        "Modifier": "MMonster_AML_Elite01_01_DOTAim",
+        "Desc": {
+            "CH": "被<color style='color:#f29e38;'>%CasterName</color>锁定为攻击目标。",
+            "EN": "<color style='color:#f29e38;'>%CasterName</color> will focus attacks on this target."
+        },
+        "CanNotDispel": true
+    },
+    "280130202": {
+        "Name": {
+            "CH": "攻击提高",
+            "EN": "ATK Boost"
+        },
+        "Modifier": "MMonster_AML_Elite01_01_AttackAdd",
+        "Desc": {
+            "CH": "攻击力提高<color style='color:#f29e38;'> [ModifierAttackAddedRatio] </color>，最多叠加<color style='color:#f29e38;'> [ModifierMaxLayer] </color>层。",
+            "EN": "Increases ATK by <color style='color:#f29e38;'>[ModifierAttackAddedRatio]</color>, stacking up to <color style='color:#f29e38;'>[ModifierMaxLayer]</color> time(s)."
+        },
+        "Type": "Buff"
+    },
+    "280150102": {
+        "Name": {
+            "CH": "余威",
+            "EN": "Lingering Power"
+        },
+        "Modifier": "MMonster_WMonster_W0_Boss_00_Unselectable",
+        "Desc": {
+            "CH": "【灾虐的右手】【黎明的左手】【反物质引擎】被全部击溃前无法被指定为攻击目标。",
+            "EN": "Cannot be targeted until Disaster's Right Hand, Dawn's Left Hand, and Antimatter Engine have all been destroyed."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "280150103": {
+        "Name": {
+            "CH": "增幅",
+            "EN": "Buff"
+        },
+        "Modifier": "MMonster_W0_Boss_00_Part2_AttackUp",
+        "Desc": {
+            "CH": "攻击力提高<color style='color:#f29e38;'> [MDF_AttackAddedRatio] </color>，技能得到强化。",
+            "EN": "ATK +<color style='color:#f29e38;'>[MDF_AttackAddedRatio]</color>. Abilities are enhanced."
+        },
+        "Type": "Buff"
+    },
+    "280150104": {
+        "Name": {
+            "CH": "升变",
+            "EN": "Ascend"
+        },
+        "Modifier": "MMonster_WMonster_W0_Boss_00_Part2_Skill07",
+        "Desc": {
+            "CH": "韧性完全恢复，弱点发生变化。",
+            "EN": "Toughness fully regenerates and Weakness Type changes."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "280150105": {
+        "Name": {
+            "CH": "爆发",
+            "EN": "Burst"
+        },
+        "Modifier": "MMonster_W0_Boss_00_Part2_OnPhase3SpeedUp",
+        "Desc": {
+            "CH": "速度提高。",
+            "EN": "Speed increased."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "280150202": {
+        "Name": {
+            "CH": "锁定",
+            "EN": "Lock On"
+        },
+        "Modifier": "Monster_W2_Huanlong_00_Sign",
+        "Desc": {
+            "CH": "被<color style='color:#f29e38;'>%CasterName</color>锁定为攻击目标。",
+            "EN": "<color style='color:#f29e38;'>%CasterName</color> will focus attacks on this target."
+        },
+        "CanNotDispel": true
+    },
+    "280150203": {
+        "Name": {
+            "CH": "愈合",
+            "EN": "Vigor"
+        },
+        "Modifier": "Monster_W2_HuanlongPart_00_Heal",
+        "Desc": {
+            "CH": "每次行动回复<color style='color:#f29e38;'> [MDF_HealRatio] </color>的生命值。",
+            "EN": "Every action taken restores <color style='color:#f29e38;'>[MDF_HealRatio]</color> HP."
+        },
+        "Type": "Buff"
+    },
+    "280150204": {
+        "Name": {
+            "CH": "绽放",
+            "EN": "Bloom"
+        },
+        "Modifier": "Monster_W2_HuanlongPart_01_Activity",
+        "Desc": {
+            "CH": "下次行动施放【破灭】，该状态可被技能解除。",
+            "EN": "Will use Havoc during the next action. This status can be dispelled by abilities."
+        },
+        "Type": "Buff"
+    },
+    "280150205": {
+        "Name": {
+            "CH": "易伤",
+            "EN": "Vulnerability"
+        },
+        "Modifier": "Monster_W2_HuanlongPart_01_Success",
+        "Desc": {
+            "CH": "受到的伤害提高<color style='color:#f29e38;'> [MDF_DamageTakenUpRatio_PerLayer] </color>，该效果可叠加。",
+            "EN": "Increases DMG received by <color style='color:#f29e38;'>[MDF_DamageTakenUpRatio_PerLayer]</color>. This effect is stackable."
+        },
+        "Type": "Debuff"
+    },
+    "280150206": {
+        "Name": {
+            "CH": "休眠",
+            "EN": "Repose"
+        },
+        "Modifier": "Monster_W2_HuanlongPart_01_Dormancy",
+        "Desc": {
+            "CH": "处于【休眠】状态。",
+            "EN": "In Repose."
+        },
+        "CanNotDispel": true
+    },
+    "280150208": {
+        "Name": {
+            "CH": "弱点无效",
+            "EN": "Weakness Protected"
+        },
+        "Modifier": "Monster_W2_HuanlongPart_01_WeakControl",
+        "Desc": {
+            "CH": "当【破灭玄莲】不处于【绽放】状态时，自身韧性无法受到伤害。",
+            "EN": "When Destruction Lotus is not in Bloom, its Toughness cannot be reduced."
+        },
+        "CanNotDispel": true
+    },
+    "280240101": {
+        "Name": {
+            "CH": "风化",
+            "EN": "Wind Shear"
+        },
+        "Modifier": "Monster_SW_Boss_00_DOT_Poison",
+        "Desc": {
+            "CH": "一定回合内，每回合开始时受到风属性伤害。",
+            "EN": "Takes Wind DMG at the start of each turn for a certain number of turns."
+        },
+        "Type": "Debuff"
+    },
+    "280240102": {
+        "Name": {
+            "CH": "伤害提高",
+            "EN": "DMG Boost"
+        },
+        "Modifier": "Monster_SW_Boss_00_DamageUp",
+        "Desc": {
+            "CH": "造成的伤害提高<color style='color:#f29e38;'> [MDF_DamageUpRatio_PerLayer] </color>，该效果可叠加。",
+            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>. This effect is stackable."
+        },
+        "Type": "Buff",
+        "CanNotDispel": true
+    },
+    "280240103": {
+        "Name": {
+            "CH": "易伤",
+            "EN": "Vulnerability"
+        },
+        "Modifier": "Monster_SW_Boss_00_DamageTakenUp",
+        "Desc": {
+            "CH": "受到的伤害提高<color style='color:#f29e38;'> [MDF_DamageTakenUpRatio_PerLayer] </color>，该效果可叠加。",
+            "EN": "Increases DMG received by <color style='color:#f29e38;'>[MDF_DamageTakenUpRatio_PerLayer]</color>. This effect is stackable."
+        },
+        "Type": "Debuff"
+    },
+    "280240104": {
+        "Name": {
+            "CH": "分裂•预警",
+            "EN": "Mitosis: Warning"
+        },
+        "Modifier": "Monster_SW_Minion01_00_Split",
+        "Desc": {
+            "CH": "<color style='color:#f29e38;'> [Modifier_TurnCount] </color>回合后进行繁殖，弱点击破效果恢复的回合无法进行繁殖。",
+            "EN": "Propagate after <color style='color:#f29e38;'>[Modifier_TurnCount]</color> turn(s). Cannot propagate during the turn in which this unit recovers from Weakness Break."
+        },
+        "CanNotDispel": true
+    },
+    "280240105": {
+        "Name": {
+            "CH": "繁殖",
+            "EN": "Propagation"
+        },
+        "Modifier": "Monster_SW_Minion01_00_SplitEffect",
+        "Desc": {
+            "CH": "下个回合进行繁殖。",
+            "EN": "Propagate in the next turn."
+        },
+        "CanNotDispel": true
+    },
+    "280330101": {
+        "Name": {
+            "CH": "绩效点",
+            "EN": "Performance Points"
+        },
+        "Modifier": "Monster_Company_Coin",
+        "Desc": {
+            "CH": "星际和平公司雇员的【绩效点】，每层使持有者造成的伤害提高<color style='color:#f29e38;'> [MDF_DamageUpRatio] </color>，最多叠加<color style='color:#f29e38;'> [MaxLayer] </color>层。攻击时消耗所有【绩效点】。在自身弱点被击破或受到致命攻击时可被攻击者夺取。",
+            "EN": "Interastral Peace Corporation's employee Performance Points. Each stack increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageUpRatio]</color>, stacking up to <color style='color:#f29e38;'>[MaxLayer]</color> time(s). All Performance Points are consumed when this unit uses an attack. Performance Points can be seized by the attacker when this unit's Weakness is Broken or this unit receives a killing blow."
+        },
+        "Type": "Buff"
     }
 }
 

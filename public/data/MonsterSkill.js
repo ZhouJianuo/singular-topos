@@ -16590,6 +16590,9 @@ var _monsterskill = {
         "Elem": "Quantum",
         "DMG": [
             3
+        ],
+        "Status": [
+            230130101
         ]
     },
     "301301002": {
@@ -16602,7 +16605,10 @@ var _monsterskill = {
             "CH": "自身获得3层【无明火】。",
             "EN": "Gains 3 stacks of Obscure Blaze."
         },
-        "SP": 0
+        "SP": 0,
+        "Status": [
+            230130101
+        ]
     },
     "301301003": {
         "Key": "Skill06",
@@ -16618,6 +16624,9 @@ var _monsterskill = {
         "Elem": "Quantum",
         "DMG": [
             2
+        ],
+        "Status": [
+            230130101
         ]
     },
     "301301004": {
@@ -16635,6 +16644,9 @@ var _monsterskill = {
         "Threat": true,
         "DMG": [
             2.2
+        ],
+        "Status": [
+            230130101
         ]
     },
     "301301005": {
@@ -17387,6 +17399,9 @@ var _monsterskill = {
         "Elem": "Quantum",
         "DMG": [
             3
+        ],
+        "Status": [
+            230130101
         ]
     },
     "301301102": {
@@ -17399,7 +17414,10 @@ var _monsterskill = {
             "CH": "自身获得3层【无明火】。",
             "EN": "Gains 3 stacks of Obscure Blaze."
         },
-        "SP": 0
+        "SP": 0,
+        "Status": [
+            230130101
+        ]
     },
     "301301103": {
         "Key": "Skill06",
@@ -17415,6 +17433,9 @@ var _monsterskill = {
         "Elem": "Quantum",
         "DMG": [
             2
+        ],
+        "Status": [
+            230130101
         ]
     },
     "301301104": {
@@ -17432,6 +17453,9 @@ var _monsterskill = {
         "Threat": true,
         "DMG": [
             2.2
+        ],
+        "Status": [
+            230130101
         ]
     },
     "301301105": {
