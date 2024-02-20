@@ -4,8 +4,8 @@ var _kingdoms = [
     {
         "_id": 9999,
         "Name": {
-            "CH": "<b>2.0 新增</b>",
-            "EN": "<b>New in 2.0</b>"
+            "CH": "<b>2.1 新增</b>",
+            "EN": "<b>New in 2.1</b>"
         }
     },
     {

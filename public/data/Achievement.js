@@ -1,10 +1,10 @@
 // Auto Generated
 
 var _achievementdata = [
+    2.1,
+    763,
     2.0,
-    716,
-    1.6,
-    620
+    716
 ]
 
 var _achievementvers = [
@@ -15,7 +15,8 @@ var _achievementvers = [
     "1.4",
     "1.5",
     "1.6",
-    "2.0"
+    "2.0",
+    "2.1"
 ]
 
 var _achievement = [
@@ -6152,6 +6153,20 @@ var _achievement = [
         "Reward": 10
     },
     {
+        "_id": 4052602,
+        "Ver": 2.1,
+        "Series": 5,
+        "Name": {
+            "CH": "顺凯风，见天地",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "完成任务「金戺重喧•尾声」，见证明曦的远行",
+            "EN": ""
+        },
+        "Reward": 5
+    },
+    {
         "_id": 4052603,
         "Ver": 1.3,
         "Series": 5,
@@ -10042,6 +10057,650 @@ var _achievement = [
             "EN": "If everyone gets money, then no one gets money<br><color style='color:#8790ab;'>※ Repeatedly trigger the cash-spewer on the streets</color>"
         },
         "Reward": 5
+    },
+    {
+        "_id": 4033007,
+        "Ver": 2.1,
+        "Series": 3,
+        "Name": {
+            "CH": "…",
+            "EN": "..."
+        },
+        "Desc": {
+            "CH": "…",
+            "EN": "..."
+        },
+        "Reward": 10
+    },
+    {
+        "_id": 4033009,
+        "Ver": 2.1,
+        "Series": 3,
+        "Name": {
+            "CH": "…",
+            "EN": "..."
+        },
+        "Desc": {
+            "CH": "…",
+            "EN": "..."
+        },
+        "Reward": 10
+    },
+    {
+        "_id": 4033010,
+        "Ver": 2.1,
+        "Series": 3,
+        "Name": {
+            "CH": "…",
+            "EN": "..."
+        },
+        "Desc": {
+            "CH": "…",
+            "EN": "..."
+        },
+        "Reward": 10
+    },
+    {
+        "_id": 4033011,
+        "Ver": 2.1,
+        "Series": 3,
+        "Name": {
+            "CH": "…",
+            "EN": "..."
+        },
+        "Desc": {
+            "CH": "…",
+            "EN": "..."
+        },
+        "Reward": 10
+    },
+    {
+        "_id": 4043022,
+        "Ver": 2.1,
+        "Series": 4,
+        "Name": {
+            "CH": "小鬼当家",
+            "EN": "Home Alone"
+        },
+        "Desc": {
+            "CH": "在一次小小哈努行动中一次性击败3个石头老板的爪牙",
+            "EN": "Defeat 3 of Boss Stone's minions at once in a Hanu's Adventure stage"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4043023,
+        "Ver": 2.1,
+        "Series": 4,
+        "Name": {
+            "CH": "逆球",
+            "EN": "Anti-Balloon"
+        },
+        "Desc": {
+            "CH": "打破克劳克影视乐园中的特殊石头老板气球",
+            "EN": "Break the special Boss Stone balloon in Clock Studios Theme Park"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4043024,
+        "Ver": 2.1,
+        "Series": 4,
+        "Name": {
+            "CH": "梦都风云录",
+            "EN": "Saga of the Dreamhaven Tumult"
+        },
+        "Desc": {
+            "CH": "打破朝露公馆中的特殊石头老板气球",
+            "EN": "Break the special Boss Stone balloon in Dewlight Pavilion"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4043025,
+        "Ver": 2.1,
+        "Series": 4,
+        "Name": {
+            "CH": "安全车",
+            "EN": "Safety Car"
+        },
+        "Desc": {
+            "CH": "在《钟表小子》外传的任意模式中，无伤完成拍摄",
+            "EN": "Complete the shoot without any damage in any mode in Clockie's Side Story"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4043026,
+        "Ver": 2.1,
+        "Series": 4,
+        "Name": {
+            "CH": "非标准赛车线",
+            "EN": "Non-Racing Line"
+        },
+        "Desc": {
+            "CH": "在《钟表小子》外传的任意模式中，持续停留在轨道中间10.0秒",
+            "EN": "Stay in the middle lane continuously for 10.0 seconds in any mode in Clockie's Side Story"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4043027,
+        "Ver": 2.1,
+        "Series": 4,
+        "Name": {
+            "CH": "Pole To Win",
+            "EN": "Pole to Win"
+        },
+        "Desc": {
+            "CH": "在《钟表小子》外传的任意模式中，「坚果冲刺」或「哈努时间」持续期间再次积满能量",
+            "EN": "Re-accumulate maximum energy  within the duration of Veloci-Dash or Hanu Time in any mode in Clockie's Side Story"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4043028,
+        "Ver": 2.1,
+        "Series": 4,
+        "Name": {
+            "CH": "DRS最大受益者",
+            "EN": "Biggest DRS Beneficiary"
+        },
+        "Desc": {
+            "CH": "在《钟表小子》外传的《速度与坚果》中，连续完成 10.0 次「极限超车」，中间没有失误中断",
+            "EN": "Perform Last-Minute Overtake 10.0 times in a row without mistakes or interruption in Clockie's Side Story: Fast & Furynuts"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4043029,
+        "Ver": 2.1,
+        "Series": 4,
+        "Name": {
+            "CH": "地狱低速公路",
+            "EN": "Slow Road to Hell"
+        },
+        "Desc": {
+            "CH": "在《钟表小子》外传的《狼之道》中，消灭所有出现的敌人",
+            "EN": "Defeat all enemies that appeared in Clockie's Side Story: The Way of the Wolf"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4043030,
+        "Ver": 2.1,
+        "Series": 4,
+        "Name": {
+            "CH": "梦幻的小镇，橡木乐园！",
+            "EN": "A Dreamy Town, Oak Paradise!"
+        },
+        "Desc": {
+            "CH": "首次闯入朝露公馆的微缩沙盘",
+            "EN": "Enter the miniature sandpit in Dewlight Pavilion for the first time"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4043031,
+        "Ver": 2.1,
+        "Series": 4,
+        "Name": {
+            "CH": "筑梦工业化",
+            "EN": "Dreamweaving Industrialization"
+        },
+        "Desc": {
+            "CH": "完成朝露公馆的梦客漫步挑战，赚取外快",
+            "EN": "Complete the Dreamwalker Challenge at the Dewlight Pavilion for some extra income"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4043032,
+        "Ver": 2.1,
+        "Series": 4,
+        "Name": {
+            "CH": "石中榨血",
+            "EN": "To Get Blood Out of a Stone"
+        },
+        "Desc": {
+            "CH": "变成哈努兄弟后首次使用「哈努飞弹」击败石头老板的爪牙",
+            "EN": "Transform into Hanu and use the Hanu Missile to defeat Boss Stone's minions for the first time"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4043033,
+        "Ver": 2.1,
+        "Series": 4,
+        "Name": {
+            "CH": "狼伴归途",
+            "EN": "Living With a Wolf"
+        },
+        "Desc": {
+            "CH": "收集《小小哈努行动•中篇》全集",
+            "EN": "Collect the complete <i>Hanu's Adventure (Part 2)</i> collection"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4043034,
+        "Ver": 2.1,
+        "Series": 4,
+        "Name": {
+            "CH": "全副武装",
+            "EN": "Armed to the Teeth"
+        },
+        "Desc": {
+            "CH": "在小小哈努行动中「哈努飞弹」弹药达到上限",
+            "EN": "Obtain the maximum ammo limit of Hanu Missile in Hanu's Adventure"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4043035,
+        "Ver": 2.1,
+        "Series": 4,
+        "Name": {
+            "CH": "秘密派对",
+            "EN": "Secret Party"
+        },
+        "Desc": {
+            "CH": "通过气泡弹珠发现克劳克影视乐园的隐藏区域",
+            "EN": "Discover Clock Studios Theme Park's hidden area via Bubble Pinball"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053054,
+        "Ver": 2.1,
+        "Series": 5,
+        "Name": {
+            "CH": "…",
+            "EN": "..."
+        },
+        "Desc": {
+            "CH": "…",
+            "EN": "..."
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053055,
+        "Ver": 2.1,
+        "Series": 5,
+        "Name": {
+            "CH": "…",
+            "EN": "..."
+        },
+        "Desc": {
+            "CH": "…",
+            "EN": "..."
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053056,
+        "Ver": 2.1,
+        "Series": 5,
+        "Name": {
+            "CH": "…",
+            "EN": "..."
+        },
+        "Desc": {
+            "CH": "…",
+            "EN": "..."
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053057,
+        "Ver": 2.1,
+        "Series": 5,
+        "Name": {
+            "CH": "…",
+            "EN": "..."
+        },
+        "Desc": {
+            "CH": "…",
+            "EN": "..."
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053058,
+        "Ver": 2.1,
+        "Series": 5,
+        "Name": {
+            "CH": "…",
+            "EN": "..."
+        },
+        "Desc": {
+            "CH": "…",
+            "EN": "..."
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053059,
+        "Ver": 2.1,
+        "Series": 5,
+        "Name": {
+            "CH": "…",
+            "EN": "..."
+        },
+        "Desc": {
+            "CH": "…",
+            "EN": "..."
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053060,
+        "Ver": 2.1,
+        "Series": 5,
+        "Name": {
+            "CH": "…",
+            "EN": "..."
+        },
+        "Desc": {
+            "CH": "…",
+            "EN": "..."
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053061,
+        "Ver": 2.1,
+        "Series": 5,
+        "Name": {
+            "CH": "…",
+            "EN": "..."
+        },
+        "Desc": {
+            "CH": "…",
+            "EN": "..."
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053062,
+        "Ver": 2.1,
+        "Series": 5,
+        "Name": {
+            "CH": "…",
+            "EN": "..."
+        },
+        "Desc": {
+            "CH": "…",
+            "EN": "..."
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053063,
+        "Ver": 2.1,
+        "Series": 5,
+        "Name": {
+            "CH": "…",
+            "EN": "..."
+        },
+        "Desc": {
+            "CH": "…",
+            "EN": "..."
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053064,
+        "Ver": 2.1,
+        "Series": 5,
+        "Name": {
+            "CH": "大人物！",
+            "EN": "Big Shot!"
+        },
+        "Desc": {
+            "CH": "在「惊梦酒吧」留下属于你的特调",
+            "EN": "Leave your special mix at the Dreamjolt Hostelry"
+        },
+        "Reward": 10
+    },
+    {
+        "_id": 4053065,
+        "Ver": 2.1,
+        "Series": 5,
+        "Name": {
+            "CH": "快乐美梦速速达",
+            "EN": "Make Your Dream a Blast"
+        },
+        "Desc": {
+            "CH": "帮助「惊梦酒吧」里的所有怪物解决情绪困扰",
+            "EN": "Help all the monsters in the Dreamjolt Hostelry deal with their emotional troubles"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053066,
+        "Ver": 2.1,
+        "Series": 5,
+        "Name": {
+            "CH": "各饮所需",
+            "EN": "To Each Their Own Drink"
+        },
+        "Desc": {
+            "CH": "为顾客提供正确饮品的次数达到10.0次",
+            "EN": "Serve the correct drinks to the customers 10.0 times"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053067,
+        "Ver": 2.1,
+        "Series": 5,
+        "Name": {
+            "CH": "Omakase",
+            "EN": "Omakase"
+        },
+        "Desc": {
+            "CH": "为顾客提供错误饮品的次数达到5.0次",
+            "EN": "Serve the wrong drinks to the customers 5.0 times"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053068,
+        "Ver": 2.1,
+        "Series": 5,
+        "Name": {
+            "CH": "梦核朋克酒保行动",
+            "EN": "Dreampunk Drinksmith Action"
+        },
+        "Desc": {
+            "CH": "完成「惊梦酒吧」全部配方推导",
+            "EN": "Complete all Dreamjolt Hostelry recipe deductions"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053069,
+        "Ver": 2.1,
+        "Series": 5,
+        "Name": {
+            "CH": "梦回仙舟",
+            "EN": "Dreaming Back to the Xianzhou"
+        },
+        "Desc": {
+            "CH": "在「惊梦酒吧」调制一次苏打豆汁儿",
+            "EN": "Mix Mung Bean Soda at the Dreamjolt Hostelry once"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4073011,
+        "Ver": 2.1,
+        "Series": 7,
+        "Name": {
+            "CH": "双六",
+            "EN": "Boxcars"
+        },
+        "Desc": {
+            "CH": "在和「石心十人」诡弈砂金的战斗中，单次攻击使至少2.0个「所有或一无所有」同时掷出6.0点",
+            "EN": "In the battle against Ten Stonehearts: Aventurine of Stratagems, cause at least 2.0 All or Nothing to roll a 6.0 simultaneously in a single attack"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4073012,
+        "Ver": 2.1,
+        "Series": 7,
+        "Name": {
+            "CH": "All my people, all my people…",
+            "EN": "All My People, All My People..."
+        },
+        "Desc": {
+            "CH": "在和「石心十人」诡弈砂金的战斗中，队伍中4.0名角色在同一次赌局中全部获胜",
+            "EN": "In the battle against Ten Stonehearts: Aventurine of Stratagems, have 4.0 characters in the team win in the same round of Gamble"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4073013,
+        "Ver": 2.1,
+        "Series": 7,
+        "Name": {
+            "CH": "修罗雪姬",
+            "EN": "Lady Snowblood"
+        },
+        "Desc": {
+            "CH": "在单场战斗中，使用黄泉的终结技「残梦尽染，一刀缭断」消灭所有敌人并获得战斗胜利",
+            "EN": "In a single battle, using Acheron's Ultimate Slashed Dream Cries in Red to defeat all enemies and achieve victory in the battle"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4073014,
+        "Ver": 2.1,
+        "Series": 7,
+        "Name": {
+            "CH": "偷盲注",
+            "EN": "Blind Stealing"
+        },
+        "Desc": {
+            "CH": "单场战斗中，「盲注」为0.0时，使用砂金的终结技「轮盘勋爵」获得7.0点「盲注」",
+            "EN": "In a single battle, when Blind Bet is at 0.0 points, use Aventurine's Ultimate Roulette Shark to obtain 7.0 Blind Bet point(s)"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4073015,
+        "Ver": 2.1,
+        "Series": 7,
+        "Name": {
+            "CH": "泻泻火",
+            "EN": "Purging Heatiness"
+        },
+        "Desc": {
+            "CH": "在一次弱点击破中清除忆域迷因「狂怒褪去之壳」满层的「无明火」",
+            "EN": "Clear the full stack of Obscure Blaze on the Memory Zone Meme \"Shell of Faded Rage\" during a Weakness Break"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4073016,
+        "Ver": 2.1,
+        "Series": 7,
+        "Name": {
+            "CH": "硬碰硬",
+            "EN": "Fight Fire With Fire"
+        },
+        "Desc": {
+            "CH": "单场战斗中，不造成弱点击破的情况下击败忆域迷因「狂怒褪去之壳」",
+            "EN": "In a single battle, defeat Memory Zone Meme \"Shell of Faded Rage\" without causing Weakness Break"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4073017,
+        "Ver": 2.1,
+        "Series": 7,
+        "Name": {
+            "CH": "绩效面谈",
+            "EN": "Performance Evaluation"
+        },
+        "Desc": {
+            "CH": "使用我方角色砂金对战资深员工•组长时完成制胜一击",
+            "EN": "Use ally Aventurine to fight Senior Staff: Team Leader and deal the finishing blow"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4083009,
+        "Ver": 2.1,
+        "Series": 7,
+        "Name": {
+            "CH": "天斩无斩",
+            "EN": "Divine Judgment Does Not Discriminate"
+        },
+        "Desc": {
+            "CH": "在探索中，使用黄泉秘技「四相断我」连续消灭5.0个敌人",
+            "EN": "During exploration, use Acheron's Technique Quadrivalent Ascendance to defeat 5.0 enemies consecutively"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4083010,
+        "Ver": 2.1,
+        "Series": 8,
+        "Name": {
+            "CH": "折纸鸟为什么那么大？",
+            "EN": "Why Is the Origami Bird So Huge?"
+        },
+        "Desc": {
+            "CH": "在「朝露公馆」拔出折纸大鸟",
+            "EN": "Yank the Origami Big Bird out at Dewlight Pavilion"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053070,
+        "Ver": 2.1,
+        "Series": 5,
+        "Name": {
+            "CH": "全家福",
+            "EN": "Family Portrait"
+        },
+        "Desc": {
+            "CH": "在克劳克影视乐园的拍照板处拍摄一张列车组全家福",
+            "EN": "Take a family photo of the Express Crew at the photo board in Clock Studios Theme Park"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4053071,
+        "Ver": 2.1,
+        "Series": 5,
+        "Name": {
+            "CH": "乐园打卡",
+            "EN": "\"Clock\" In"
+        },
+        "Desc": {
+            "CH": "在克劳克影视乐园的拍照板处拍摄一张合照",
+            "EN": "Take a group photo at the photo board in Clock Studios Theme Park"
+        },
+        "Reward": 5
+    },
+    {
+        "_id": 4043036,
+        "Ver": 2.1,
+        "Series": 4,
+        "Name": {
+            "CH": "《吃豆人》",
+            "EN": "Pac-Man"
+        },
+        "Desc": {
+            "CH": "击碎克劳克影视乐园迷宫花园中的所有可破坏物",
+            "EN": "Smash all destructible objects in Clock Studios Theme Park's maze garden"
+        },
+        "Reward": 5
     }
 ]
 
@@ -10055,7 +10714,8 @@ var _option = {
         "1.4",
         "1.5",
         "1.6",
-        "2.0"
+        "2.0",
+        "2.1"
     ],
     "EN": [
         "All",
@@ -10066,7 +10726,8 @@ var _option = {
         "1.4",
         "1.5",
         "1.6",
-        "2.0"
+        "2.0",
+        "2.1"
     ]
 }
 
@@ -10096,7 +10757,7 @@ var _achievementseries = [
             "EN": "The Rail Unto the Stars"
         },
         "Icon": "MainLineAchievementIcon.png",
-        "Count": 25
+        "Count": 29
     },
     {
         "_id": 4,
@@ -10105,7 +10766,7 @@ var _achievementseries = [
             "EN": "Fathom the Unfathomable"
         },
         "Icon": "ExploreAchievementIcon.png",
-        "Count": 66
+        "Count": 81
     },
     {
         "_id": 5,
@@ -10114,7 +10775,7 @@ var _achievementseries = [
             "EN": "The Memories We Share"
         },
         "Icon": "ReputationAchievementIcon.png",
-        "Count": 228
+        "Count": 247
     },
     {
         "_id": 6,
@@ -10132,7 +10793,7 @@ var _achievementseries = [
             "EN": "Eager for Battle"
         },
         "Icon": "BattleAchievementIcon.png",
-        "Count": 139
+        "Count": 147
     },
     {
         "_id": 8,
@@ -10141,7 +10802,7 @@ var _achievementseries = [
             "EN": "Moment of Joy"
         },
         "Icon": "TrackAchievementIcon.png",
-        "Count": 72
+        "Count": 73
     },
     {
         "_id": 9,

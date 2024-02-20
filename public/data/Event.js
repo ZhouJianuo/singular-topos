@@ -2216,7 +2216,7 @@ var _item = {
             "EN": "It began with a flash of light.<br>One by one, they fell as the threat of expiration loomed over them.<br>They had to stop self-replicating and rushed to embrace each other,<br>trying to offer the right to reproduce in exchange for a possibility of survival.<br>They held hands in a show of unprecedented unity.<br>...But the Paths met an abrupt end,<br>and they were headed to a true death."
         },
         "Icon": "lightconeicons/24000.png",
-        "Pic": "SpriteOutput/LightConeMaxFigures/24000.png"
+        "Pic": "LightCone/24000.png"
     },
     "24001": {
         "_id": 24001,
@@ -2234,7 +2234,7 @@ var _item = {
             "EN": "Coursing 'tween the sea of stars,<br>they cruise with the speed of a rainbow's chromatic flash.<br>A journey of hunting undying abominations,<br>collecting cures and miracles,<br>and seeking deliverance.<br>Akin to a vow unbroken, their voyage will be,<br>ad infinitum."
         },
         "Icon": "lightconeicons/24001.png",
-        "Pic": "SpriteOutput/LightConeMaxFigures/24001.png"
+        "Pic": "LightCone/24001.png"
     },
     "24002": {
         "_id": 24002,
@@ -2252,7 +2252,7 @@ var _item = {
             "EN": "The universe was like a badland filled with rubbish.<br>There were the occasional treasure that lies undiscovered.<br>They looked through the cracks of the past, choosing seeds of memory.<br>...If a new life was to be born, its seed has to be dead.<br>Precious stones of pink, blue, and white were brought forth,<br>twinkling gently in their seed plot,<br>even though the universe held onto its enigmatic silence."
         },
         "Icon": "lightconeicons/24002.png",
-        "Pic": "SpriteOutput/LightConeMaxFigures/24002.png"
+        "Pic": "LightCone/24002.png"
     },
     "24003": {
         "_id": 24003,
@@ -2270,7 +2270,7 @@ var _item = {
             "EN": "Things molded by the hands of secrecy are shapeless and incorporeal.<br>In the totality of emptiness, there yet exists a sudden dreaming.<br>Those that court destruction will reap ruinous fruit, while those that clamor to live will survive.<br>That which is extinguished may yet spark, and that which has dried may yet be filled anew.<br>In compassion for the salvation of chaos, the elixir nurtures the shadows.<br>With back faced to the darkness between the stars, the encapsulation of this vessel can only be done in vain.<br><br><i>\"Paradoxical these knowings are, in them shine the fullness of our pride.\"</i>"
         },
         "Icon": "lightconeicons/24003.png",
-        "Pic": "SpriteOutput/LightConeMaxFigures/24003.png"
+        "Pic": "LightCone/24003.png"
     },
     "110406": {
         "_id": 110406,
@@ -2426,8 +2426,8 @@ var _item = {
         "_id": 221003,
         "Rarity": 4,
         "Name": {
-            "CH": "星火游园",
-            "EN": "Starfire Parkland"
+            "CH": "…",
+            "EN": "..."
         },
         "Desc": {
             "CH": "手机壁纸，获得后可在手机功能中进行更换",
@@ -2658,16 +2658,16 @@ var _item = {
         "_id": 220001,
         "Rarity": 4,
         "Name": {
-            "CH": "兔子在哪里？",
-            "EN": "Where's the Rabbit?"
+            "CH": "…",
+            "EN": "..."
         },
         "Desc": {
-            "CH": "短信和聊天对话框，获得后可在短信及聊天中进行更换",
-            "EN": "Chat Box for Message and Chat. Once obtained, they can be used in the Message or Chat functions"
+            "CH": "…",
+            "EN": "..."
         },
         "Story": {
-            "CH": "<i>「帕金斯乖乖，把宝箱开开！」<br>「不开…不开…我不开…克拉拉…没回来……」</i>",
-            "EN": "<i>\"Perkins, be a good robot and open up the chest!\"<br>\"I won't... I won't... not until Clara is back...\"</i>"
+            "CH": "…",
+            "EN": "..."
         },
         "Icon": "chatbubble/220001.png",
         "Pic": "chatbubble/220001.png",
@@ -2888,7 +2888,7 @@ var _item = {
             "EN": "<i>How much longer until the action starts?<br>You have the nerve to ask a question like that... is something wrong with the new recruit?<br>No.<br>Elio didn't choose her because she was good at field work, but she has to at least survive this rookie assignment.<br>She's cruising.<br>Then I'm relieved. It seems that Bladie has proved to be a reliable operative as well.<br>...</i>"
         },
         "Icon": "lightconeicons/22000.png",
-        "Pic": "SpriteOutput/LightConeMaxFigures/22000.png"
+        "Pic": "LightCone/22000.png"
     },
     "241": {
         "_id": 241,
@@ -2942,7 +2942,7 @@ var _item = {
             "EN": "Three girls stroll in the darkness, and the surroundings seem to gain a hint of eeriness.<br>\"Huohuo, hurry up, or we won't wait for you!\"<br>She steps forward confidently with her phone clutched in her hand, seemingly unaffected by the paranormal ambiance.<br>\"I—I'm over here!\"<br>The girl standing ahead responds timidly.<br>\"Huh? So you were in the front all along, then who is following Shangshang and me...\"<br><br>The perfect end for this scene would definitely be a girlish scream."
         },
         "Icon": "lightconeicons/22001.png",
-        "Pic": "SpriteOutput/LightConeMaxFigures/22001.png"
+        "Pic": "LightCone/22001.png"
     },
     "401021": {
         "_id": 401021,

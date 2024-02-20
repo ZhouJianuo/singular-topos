@@ -6200,535 +6200,6 @@ var _monsterskill = {
             220221001
         ]
     },
-    "700101001": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "狮子吼",
-            "EN": "Lion's Roar"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成少量伤害，并有概率使受到攻击的我方目标陷入虚弱状态。",
-            "EN": "Deals minor DMG to a single target, with a chance to Weaken them."
-        },
-        "SP": 0,
-        "Elem": "Fire"
-    },
-    "700101002": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "应急模式",
-            "EN": "Emergency Mode"
-        },
-        "Desc": {
-            "CH": "受到致命伤害时不会陷入无法战斗状态，而是回复一定生命值并驱散负面效果。",
-            "EN": "Instead of being knocked down after taking fatal DMG, a certain amount of HP will be recovered and debuffs will be dispelled."
-        },
-        "SP": 0
-    },
-    "700101003": {
-        "Key": "SkillP01",
-        "Name": {
-            "CH": "自我重构",
-            "EN": "Self-Reconstruction"
-        },
-        "Desc": {
-            "CH": "消耗所有充能。重置【应急模式】的可触发次数。",
-            "EN": "Consumes all Charges. Resets the number of times the Emergency Mode can be triggered."
-        },
-        "SP": 0,
-        "Threat": true
-    },
-    "700201001": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "狼餐",
-            "EN": "Wolf Predation"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成伤害，并大概率使受到攻击的我方目标陷入触电状态。",
-            "EN": "Deals DMG to a single target, with a high chance to Shock the target."
-        },
-        "SP": 0,
-        "Elem": "Elec"
-    },
-    "700201002": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "狼噬",
-            "EN": "Wolf Consumption"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成伤害，若目标处于持续伤害状态，其当前承受的所有持续伤害立即产生1次伤害。之后，大概率使受到攻击的我方目标陷入触电状态。",
-            "EN": "Deals DMG to a single target. If the target is in a DoT state, then all DoT effects currently applied to the target will cause DMG for 1 time. Afterward, there is a high chance to Shock the target."
-        },
-        "SP": 0,
-        "Elem": "Elec"
-    },
-    "700201101": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "狼餐",
-            "EN": "Wolf Predation"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成伤害，并大概率使受到攻击的我方目标陷入触电状态。",
-            "EN": "Deals DMG to a single target, with a high chance to Shock the target."
-        },
-        "SP": 0,
-        "Elem": "Elec"
-    },
-    "700202001": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "铲击",
-            "EN": "Shovel Attack"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成少量伤害。",
-            "EN": "Deals minor DMG to a single target."
-        },
-        "SP": 0,
-        "Elem": "Phys"
-    },
-    "700202002": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "大幅鼓舞",
-            "EN": "Great Inspiration"
-        },
-        "Desc": {
-            "CH": "消耗所有充能。使指定敌方单体攻击力提高，速度提高，如果目标非自身则还会使其立即行动。进入战斗时该技能充能为满。",
-            "EN": "Consumes all Charges. Increases ATK and SPD for a single chosen unit. If not chosen, then this unit immediately takes action. When battle starts, this ability starts fully Charged."
-        },
-        "SP": 0,
-        "Threat": true
-    },
-    "700203001": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "灼炎重击",
-            "EN": "Scorching Crush"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成伤害，并大概率使受到攻击的我方目标陷入灼烧状态。",
-            "EN": "Deals DMG to a single target, with a high chance to Burn the target."
-        },
-        "SP": 0,
-        "Elem": "Fire"
-    },
-    "700203002": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "灼炎冲击波",
-            "EN": "Scorching Blast"
-        },
-        "Desc": {
-            "CH": "消耗所有充能。对指定我方单体造成大量伤害，并大概率使受到攻击的我方目标陷入灼烧状态。",
-            "EN": "Consumes all Charges. Deals massive DMG to target, and has a high chance of inflicting burn on target."
-        },
-        "SP": 0,
-        "Elem": "Fire",
-        "Threat": true
-    },
-    "700204001": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "SP": 0,
-        "Elem": "Elec"
-    },
-    "700204002": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "SP": 0
-    },
-    "700204003": {
-        "Key": "Skill03",
-        "Name": {
-            "CH": "",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "SP": 0,
-        "Threat": true
-    },
-    "700205001": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "宵明",
-            "EN": "Nightly Luminosity"
-        },
-        "Desc": {
-            "CH": "对我方全体造成少量伤害，并大概率使受到攻击的我方目标陷入随机持续伤害状态。",
-            "EN": "Deals minor DMG to all targets and has a high chance to inflict a random DoT."
-        },
-        "SP": 0,
-        "Elem": "Fire"
-    },
-    "700205002": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "放个烟花",
-            "EN": "Display Fireworks"
-        },
-        "Desc": {
-            "CH": "消耗所有充能。迸发出耀眼的烟花，什么都不会发生，但很好看。",
-            "EN": "Consumes all Charges. Fires out spectacular fireworks that don't really do anything, but hey, they're nice to look at."
-        },
-        "SP": 0,
-        "Elem": "Fire",
-        "Threat": true
-    },
-    "700205003": {
-        "Key": "SkillP01",
-        "Name": {
-            "CH": "烛花",
-            "EN": "Candle Flame"
-        },
-        "Desc": {
-            "CH": "陷入无法战斗状态时，对敌方全体造成伤害，并大概率使受到攻击的敌方目标受到的伤害提高。",
-            "EN": "When downed, deals DMG to all friendly units, with a high chance to increase their DMG received."
-        },
-        "SP": 0,
-        "Elem": "Fire"
-    },
-    "700206001": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "炮击",
-            "EN": "Barrage"
-        },
-        "Desc": {
-            "CH": "对指定我方单体及其相邻目标造成伤害。",
-            "EN": "Deals DMG to a single target and any adjacent targets."
-        },
-        "SP": 0,
-        "Elem": "Phys"
-    },
-    "700206002": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "炮火上膛",
-            "EN": "Lock and Load"
-        },
-        "Desc": {
-            "CH": "消耗所有充能。为指定敌方单体提供支援，并使自身和所有被支援的敌方攻击力提高。",
-            "EN": "Consumes all Charges. Provides Support to a friendly unit and increases the ATK of this unit and the Supported unit."
-        },
-        "SP": 0,
-        "Threat": true
-    },
-    "700206003": {
-        "Key": "SkillP01",
-        "Name": {
-            "CH": "掩护支援",
-            "EN": "Covering Support"
-        },
-        "Desc": {
-            "CH": "进入战斗时，为指定敌方单体提供支援，在被支援的敌方目标攻击我方目标后施放1次追加攻击，对受到攻击的我方目标及其相邻目标造成少量伤害。",
-            "EN": "When entering battle, provides support to a friendly unit. After the supported unit attacks a target, this unit performs 1 follow-up attack, dealing minor DMG to the attacked target and adjacent targets."
-        },
-        "SP": 0,
-        "Elem": "Phys"
-    },
-    "700207001": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "颂歌震荡",
-            "EN": "Reverberating Carol"
-        },
-        "Desc": {
-            "CH": "对指定我方单体及其相邻目标造成伤害。首次使用后，使自身行动大幅提前。",
-            "EN": "Deals DMG to a single target and adjacent targets. When used for the first time, this will greatly advance this unit's action."
-        },
-        "SP": 0,
-        "Elem": "Imaginary"
-    },
-    "700207002": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "颂歌爆发",
-            "EN": "Carolburst"
-        },
-        "Desc": {
-            "CH": "消耗所有充能。对指定我方单体造成大量伤害。",
-            "EN": "Consumes all Charges. Deals massive DMG to a single target."
-        },
-        "SP": 0,
-        "Elem": "Imaginary",
-        "Threat": true
-    },
-    "700208001": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "铳击",
-            "EN": "Cannon Strike"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成少量伤害，使用后使自身行动提前一定比例。",
-            "EN": "Deals minor DMG to a single target. This unit's action will be advanced by a certain percentage after this skill is used."
-        },
-        "SP": 0,
-        "Elem": "Phys"
-    },
-    "700208002": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "破甲榴弹",
-            "EN": "Piercing Grenade"
-        },
-        "Desc": {
-            "CH": "消耗所有充能。对指定我方单体造成伤害，使其每次受到攻击后会受到额外伤害，并使其成为敌方全体的攻击目标。进入战斗时该技能充能为满。",
-            "EN": "Consumes all Charges. Deals DMG to a single target, causing them to take extra DMG each time they are attacked and to become the target of all units' attacks. When battle starts, this ability starts fully Charged."
-        },
-        "SP": 0,
-        "Elem": "Phys",
-        "Threat": true
-    },
-    "700209001": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "奔袭",
-            "EN": "Tireless Charge"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成少量伤害。",
-            "EN": "Deals minor DMG to a single target."
-        },
-        "SP": 0,
-        "Elem": "Phys"
-    },
-    "700209002": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "鼓舞士气",
-            "EN": "Morale Booster"
-        },
-        "Desc": {
-            "CH": "消耗所有充能。敌方全队获得5层【士气】。",
-            "EN": "Consumes all Charges. All enemies gain 5 stacks of Morale."
-        },
-        "SP": 0,
-        "Threat": true
-    },
-    "700209003": {
-        "Key": "SkillP01",
-        "Name": {
-            "CH": "铁卫铠甲",
-            "EN": "Silvermane Armor"
-        },
-        "Desc": {
-            "CH": "敌方单位攻击后，敌方全队获得1层【士气】。每层士气提高造成的和伤害和速度，降低受到的伤害。",
-            "EN": "After attacking a target, all friendly units (including this unit) gain a stack of Morale. Each stack of Morale increases DMG dealt and SPD while decreasing DMG taken."
-        },
-        "SP": 0
-    },
-    "700301001": {
-        "Key": "Skill03",
-        "Name": {
-            "CH": "汲取炎华",
-            "EN": "Blazing Absorption"
-        },
-        "Desc": {
-            "CH": "dev_不显示。",
-            "EN": ""
-        },
-        "SP": 0
-    },
-    "700301002": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "咆哮之火",
-            "EN": "Bellowing Inferno"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成少量伤害，并大概率使受到攻击的我方目标陷入【焚烧】状态。",
-            "EN": "Deals minor DMG to a single target and has a high chance to inflict Enkindle."
-        },
-        "SP": 0,
-        "Elem": "Fire"
-    },
-    "700301003": {
-        "Key": "Skill05",
-        "Name": {
-            "CH": "净炎之雨",
-            "EN": "Rain of Purifying Flames"
-        },
-        "Desc": {
-            "CH": "连续对我方随机单体造成少量伤害，并大概率使受到攻击的我方目标陷入【焚烧】状态。",
-            "EN": "Deals successive minor DMG to a random single target, with a high chance to inflict Enkindle."
-        },
-        "SP": 0,
-        "Elem": "Fire"
-    },
-    "700301004": {
-        "Key": "Skill07",
-        "Name": {
-            "CH": "熔聚",
-            "EN": "Molten Fusion"
-        },
-        "Desc": {
-            "CH": "使自身攻击力提高。",
-            "EN": "Increases this unit's ATK."
-        },
-        "SP": 0
-    },
-    "700301005": {
-        "Key": "Skill08",
-        "Name": {
-            "CH": "轰炸前兆",
-            "EN": "Bomb Warning"
-        },
-        "Desc": {
-            "CH": "积蓄力量，下次行动施放【火炽轰炸】。",
-            "EN": "Starts charging, and unleashes Bomb en Masse for the next action."
-        },
-        "SP": 0
-    },
-    "700301006": {
-        "Key": "Skill09",
-        "Name": {
-            "CH": "火炽轰炸",
-            "EN": "Bomb en Masse"
-        },
-        "Desc": {
-            "CH": "消耗所有充能。对我方全体造成大量伤害。",
-            "EN": "Consumes all Charges. Deals massive DMG to all targets."
-        },
-        "SP": 0,
-        "Elem": "Fire",
-        "Threat": true
-    },
-    "700302001": {
-        "Key": "SkillP01",
-        "Name": {
-            "CH": "奉辞罚罪",
-            "EN": "Farewell Etiquette"
-        },
-        "Desc": {
-            "CH": "当我方目标施放战技或终结技进行攻击时会积累【惩戒度】等级，当【惩戒度】等级满级时会释放【罚恶模式】。",
-            "EN": "The Sanction Rate level increases when your team uses Skills or Ultimates. When the Sanction Rate reaches its level cap, unleashes Sanction Mode."
-        },
-        "SP": 0
-    },
-    "700302002": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "儆惧",
-            "EN": "Dread"
-        },
-        "Desc": {
-            "CH": "提高【惩戒度】等级，并对我方全体造成少量伤害，同时大概率使我方目标陷入虚弱状态。",
-            "EN": "Increases Sanction Rate level and deals minor DMG to all targets. Has a high chance to inflict Weaken on the targets."
-        },
-        "SP": 0,
-        "Elem": "Imaginary"
-    },
-    "700302003": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "戒退",
-            "EN": "Restraint"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成伤害。",
-            "EN": "Deals DMG to a single target."
-        },
-        "SP": 0,
-        "Elem": "Imaginary"
-    },
-    "700302004": {
-        "Key": "Skill03",
-        "Name": {
-            "CH": "缚束",
-            "EN": "Enchainment"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成大量伤害，同时有大概率使受到攻击的我方目标陷入禁锢状态。",
-            "EN": "Deals massive DMG to a single target, with a high chance of inflicting Imprisonment."
-        },
-        "SP": 0,
-        "Elem": "Imaginary"
-    },
-    "700302005": {
-        "Key": "Skill04",
-        "Name": {
-            "CH": "罚恶模式",
-            "EN": "Sanction Mode"
-        },
-        "Desc": {
-            "CH": "消耗所有充能。速度提高，行动时会释放强力的攻击技能，持续2回合，同时召唤【入魔机巧 • 灯昼龙鱼】。",
-            "EN": "Consumes all Charges. Increases SPD and when taking action, uses a powerful attack ability, lasting for 2 turns. Summons the Illumination Dragonfish at the same time."
-        },
-        "SP": 0,
-        "Threat": true
-    },
-    "700303001": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "突击",
-            "EN": "Assault"
-        },
-        "Desc": {
-            "CH": "造成单体伤害。",
-            "EN": "Deals single target DMG."
-        },
-        "SP": 0,
-        "Elem": "Ice"
-    },
-    "700303002": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "盾阵",
-            "EN": "Defense Line"
-        },
-        "Desc": {
-            "CH": "为敌方全体提供护盾。",
-            "EN": "Applies Shields to all enemies."
-        },
-        "SP": 0
-    },
-    "700303003": {
-        "Key": "Skill03",
-        "Name": {
-            "CH": "全面备战",
-            "EN": "Total Preparation"
-        },
-        "Desc": {
-            "CH": "消耗所有充能。大概率使我方全体进入嘲讽状态，并为自身提供大量护盾。",
-            "EN": "Consumes all Charges. Has a high chance of Taunting all targets and providing massive Shields for oneself."
-        },
-        "SP": 0,
-        "Threat": true
-    },
-    "700303004": {
-        "Key": "SkillP01",
-        "Name": {
-            "CH": "铁卫号令",
-            "EN": "Silvermane Command"
-        },
-        "Desc": {
-            "CH": "敌方有护盾的目标被攻击后，自动进行反击。",
-            "EN": "Automatically Counters when Shielded target is attacked."
-        },
-        "SP": 0
-    },
     "800101001": {
         "Key": "Skill01",
         "Name": {
@@ -10357,19 +9828,6 @@ var _monsterskill = {
             30020030
         ]
     },
-    "900302001": {
-        "Key": "Skill08",
-        "Name": {
-            "CH": "dev_【不会显示】滋激光",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "dev_【不会显示】对敌方全体造成冰伤害，该伤害每次提高",
-            "EN": ""
-        },
-        "SP": 10.0,
-        "Elem": "Fire"
-    },
     "801501001": {
         "Key": "PassiveSkill02",
         "Name": {
@@ -11247,241 +10705,6 @@ var _monsterskill = {
         },
         "SP": 0
     },
-    "700101101": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "狩猎之刃",
-            "EN": "Hunting Blade"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成少量伤害。",
-            "EN": "Deals minor DMG to a single target."
-        },
-        "SP": 0,
-        "Elem": "Imaginary"
-    },
-    "700101102": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "涡旋跃袭",
-            "EN": "Vortex Leap"
-        },
-        "Desc": {
-            "CH": "对指定我方单体及其相邻目标造成伤害，若此技能消灭我方目标则回复所有能量。",
-            "EN": "Deals DMG to a single target and any adjacent targets, and regenerates all Energy if the Skill destroys the target."
-        },
-        "SP": 0,
-        "Elem": "Imaginary",
-        "Threat": true
-    },
-    "700101201": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "虚灼炮攻",
-            "EN": "Void Cannon"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成伤害。",
-            "EN": "Deals DMG to a single target."
-        },
-        "SP": 0,
-        "Elem": "Imaginary"
-    },
-    "700101202": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "反物质加速",
-            "EN": "Antimatter Speed Boost"
-        },
-        "Desc": {
-            "CH": "消耗所有充能。自身速度大幅提高。",
-            "EN": "Consumes all Charges. Greatly increases this unit's SPD."
-        },
-        "SP": 0,
-        "Threat": true
-    },
-    "700304001": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "虚实的投影",
-            "EN": "Unreal Projection"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成伤害。",
-            "EN": "Deals DMG to a single target."
-        },
-        "SP": 0,
-        "Elem": "Quantum"
-    },
-    "700304002": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "侵略的铁蹄",
-            "EN": "Rule of Force"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成伤害。",
-            "EN": "Deals DMG to a single target."
-        },
-        "SP": 0,
-        "Elem": "Quantum"
-    },
-    "700304003": {
-        "Key": "Skill03",
-        "Name": {
-            "CH": "战争的践踏",
-            "EN": "War Trample"
-        },
-        "Desc": {
-            "CH": "消耗所有充能。对指定我方单体及其相邻目标造成大量伤害。",
-            "EN": "Consumes all Charges. Deals DMG to a single target and units adjacent to the target."
-        },
-        "SP": 0,
-        "Elem": "Quantum",
-        "Threat": true
-    },
-    "700304004": {
-        "Key": "Skill04",
-        "Name": {
-            "CH": "螺旋的弓矢",
-            "EN": "Spiral Arrow"
-        },
-        "Desc": {
-            "CH": "锁定我方单体，下次行动对该目标施放【强弩的终结】。",
-            "EN": "Locks on to a single target. Cast \"End of Bow\" to this target in the next action."
-        },
-        "SP": 0,
-        "Elem": "Quantum"
-    },
-    "700304005": {
-        "Key": "Skill05",
-        "Name": {
-            "CH": "强弩的终结",
-            "EN": "End of Bow"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成大量伤害。",
-            "EN": "Deals massive DMG to a single target."
-        },
-        "SP": 0,
-        "Elem": "Quantum"
-    },
-    "700304006": {
-        "Key": "SkillP01",
-        "Name": {
-            "CH": "反物质铁蹄",
-            "EN": "Anti-Matter Oppression"
-        },
-        "Desc": {
-            "CH": "敌方或我方目标被消灭时，使自身立即行动。",
-            "EN": "Gains an immediate action when target is defeated."
-        },
-        "SP": 0,
-        "Elem": "Quantum"
-    },
-    "700210001": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "冲撞",
-            "EN": "Ram"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成少量伤害。",
-            "EN": "Deals minor DMG to a single target."
-        },
-        "SP": 0,
-        "Elem": "Phys"
-    },
-    "700210002": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "定时模块",
-            "EN": "Timed Module"
-        },
-        "Desc": {
-            "CH": "下次行动施放【自爆模块】。",
-            "EN": "The next action uses Self-Exploding Module."
-        },
-        "SP": 0
-    },
-    "700210003": {
-        "Key": "Skill03",
-        "Name": {
-            "CH": "自爆模块",
-            "EN": "Self-Exploding Module"
-        },
-        "Desc": {
-            "CH": "消耗所有充能。引爆自身，对指定我方单体及其相邻目标造成大量伤害。",
-            "EN": "Consumes all Charges. Self-destructs, dealing DMG to a single target and adjacent targets."
-        },
-        "SP": 0,
-        "Elem": "Fire",
-        "Threat": true
-    },
-    "700305001": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "SP": 0,
-        "Elem": "Imaginary"
-    },
-    "700305002": {
-        "Key": "Skill03",
-        "Name": {
-            "CH": "",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "SP": 0,
-        "Elem": "Imaginary"
-    },
-    "700305003": {
-        "Key": "Skill05",
-        "Name": {
-            "CH": "",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "SP": 0
-    },
-    "700305004": {
-        "Key": "Skill04",
-        "Name": {
-            "CH": "",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "SP": 0,
-        "Elem": "Imaginary",
-        "Threat": true
-    },
-    "700305005": {
-        "Key": "SkillP01",
-        "Name": {
-            "CH": "",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "SP": 0
-    },
     "802401011": {
         "Key": "Skill10",
         "Name": {
@@ -11491,309 +10714,6 @@ var _monsterskill = {
         "Desc": {
             "CH": "繁殖真蛰虫群。",
             "EN": ""
-        },
-        "SP": 0
-    },
-    "700306001": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "冰轮碎碾",
-            "EN": "Ice Wheel Crusher"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成伤害。",
-            "EN": "Deals DMG to a single target."
-        },
-        "SP": 0,
-        "Elem": "Ice"
-    },
-    "700307001": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "砍伐指令",
-            "EN": "Felling Order"
-        },
-        "Desc": {
-            "CH": "造成伤害，每击有低概率施加裂伤。",
-            "EN": "Deals DMG, with each hit having a low chance to inflict Bleed."
-        },
-        "SP": 0,
-        "Elem": "Phys"
-    },
-    "700307002": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "作战加速",
-            "EN": "Combat Speed-Up"
-        },
-        "Desc": {
-            "CH": "消耗所有充能。获得3层【加压】，每层可提高自身攻击力和速度。",
-            "EN": "Consumes all Charges. Gains 3 stacks of Pressure, with each stack increasing ATK and SPD."
-        },
-        "SP": 0,
-        "Threat": true
-    },
-    "700307003": {
-        "Key": "SkillP01",
-        "Name": {
-            "CH": "目标锁定",
-            "EN": "Lock On Target"
-        },
-        "Desc": {
-            "CH": "战斗开始时或锁定目标陷入无法战斗状态时，锁定我方单体并获得3层【加压】。",
-            "EN": "When the battle begins or when the locked on target is downed, locks on to a single target and gains 3 stacks of Pressure."
-        },
-        "SP": 0
-    },
-    "700307004": {
-        "Key": "SkillP02",
-        "Name": {
-            "CH": "解体拆除",
-            "EN": "Dismantle"
-        },
-        "Desc": {
-            "CH": "使用【砍伐指令】后，有概率追加攻击并获得1层【加压】，目标已损失生命值越多，追加攻击概率越高。",
-            "EN": "After using Felling Order, there is a chance to deliver a follow-up attack and get 1 stack of Pressure. The more HP the target has already lost, the higher the chances of delivering a follow-up attack."
-        },
-        "SP": 0,
-        "Elem": "Phys"
-    },
-    "700308001": {
-        "Key": "Skill06",
-        "Name": {
-            "CH": "赤红刀锋",
-            "EN": "Crimson Blade"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成伤害，并大概率使受到攻击的我方目标陷入灼烧状态。",
-            "EN": "Deals DMG to a single target, with a high chance to Burn the target."
-        },
-        "SP": 0,
-        "Elem": "Fire"
-    },
-    "700308002": {
-        "Key": "Skill07",
-        "Name": {
-            "CH": "燃焰斩击",
-            "EN": "Combustion Slash"
-        },
-        "Desc": {
-            "CH": "对指定我方单体及其相邻目标造成伤害。",
-            "EN": "Deals DMG to a single target and any adjacent targets."
-        },
-        "SP": 0,
-        "Elem": "Fire"
-    },
-    "700308003": {
-        "Key": "PassiveSkillInitiate",
-        "Name": {
-            "CH": "熔解",
-            "EN": "Melt"
-        },
-        "Desc": {
-            "CH": "对陷入灼烧状态的我方单体施放攻击后自身造成的伤害提高。",
-            "EN": "After attacking a Burned target, receives a DMG increase."
-        },
-        "SP": 0
-    },
-    "700308004": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "高温运转",
-            "EN": "High-Temperature Operation"
-        },
-        "Desc": {
-            "CH": "使自身攻击力小幅提高，速度大幅提高。",
-            "EN": "Slightly increases ATK and greatly increases SPD."
-        },
-        "SP": 0
-    },
-    "700308005": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "飞舞烬火",
-            "EN": "Dancing Cinders"
-        },
-        "Desc": {
-            "CH": "对我方全体造成伤害。使陷入灼烧状态的我方目标受到额外伤害的同时解除该目标的灼烧状态。",
-            "EN": "Deals DMG to all targets. Targets suffering from Burn are dealt additional DMG and have Burn removed."
-        },
-        "SP": 0,
-        "Elem": "Fire"
-    },
-    "700309001": {
-        "Key": "Skill05",
-        "Name": {
-            "CH": "爆裂指令",
-            "EN": "Detonation Order"
-        },
-        "Desc": {
-            "CH": "召唤【自动机兵•蜘蛛】。",
-            "EN": "Summons Automaton Spider."
-        },
-        "SP": 0
-    },
-    "700309002": {
-        "Key": "Skill04",
-        "Name": {
-            "CH": "愤怒指令",
-            "EN": "Enrage Order"
-        },
-        "Desc": {
-            "CH": "有概率使我方全体陷入嘲讽状态。",
-            "EN": "Has a chance to Taunt all targets."
-        },
-        "SP": 0
-    },
-    "700309003": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "过载指令",
-            "EN": "Overcombust Order"
-        },
-        "Desc": {
-            "CH": "进入蓄力状态，下次行动对我方全体施放【剿灭指令】。",
-            "EN": "Enters the Charge state. The next action uses Purge Order on all targets."
-        },
-        "SP": 0
-    },
-    "700309004": {
-        "Key": "Skill03",
-        "Name": {
-            "CH": "剿灭指令",
-            "EN": "Purge Order"
-        },
-        "Desc": {
-            "CH": "对我方全体造成大量伤害。",
-            "EN": "Deals massive DMG to all targets."
-        },
-        "SP": 0,
-        "Elem": "Phys",
-        "Threat": true
-    },
-    "700309005": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "破坏指令",
-            "EN": "Destruction Order"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成伤害。",
-            "EN": "Deals DMG to a single target."
-        },
-        "SP": 0,
-        "Elem": "Phys"
-    },
-    "700309009": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "破坏指令",
-            "EN": "Destruction Order"
-        },
-        "Desc": {
-            "CH": "test_对指定我方单体造成物理属性伤害。",
-            "EN": ""
-        },
-        "SP": 0,
-        "Elem": "Phys"
-    },
-    "700101203": {
-        "Key": "SkillP01",
-        "Name": {
-            "CH": "反物质重炮",
-            "EN": "Antimatter Bombardment"
-        },
-        "Desc": {
-            "CH": "自身攻击后叠加1层【过热】，【过热】达到5.0层时消耗自身大量生命值并移除【过热】。消灭我方目标时移除【过热】。",
-            "EN": "After attacking, gains a stack of Overheat. When Overheat reaches 5.0 stack(s), consumes a massive amount of this unit's own HP and removes Overheat. Defeating a target will also remove Overheat."
-        },
-        "SP": 0
-    },
-    "700310001": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "处分",
-            "EN": "Disciplined"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成伤害，如当前无【绩效点】，获得1个【绩效点】，否则消耗所有【绩效点】。",
-            "EN": "Deals DMG to a single target, and if there are no Performance Points at the time, gains 1 Performance Point. Otherwise, consumes all Performance Points."
-        },
-        "SP": 0,
-        "Elem": "Phys"
-    },
-    "700310003": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "培训中…",
-            "EN": "In Training..."
-        },
-        "Desc": {
-            "CH": "自身进入蓄力状态。下次行动施放【企业文化冲击】。",
-            "EN": "Enters the Charge state. Uses Work Culture Shock for the next action."
-        },
-        "SP": 0
-    },
-    "700310004": {
-        "Key": "Skill03",
-        "Name": {
-            "CH": "企业文化冲击",
-            "EN": "Work Culture Shock"
-        },
-        "Desc": {
-            "CH": "消耗所有充能。对我方全体造成大量伤害，并消耗所有【绩效点】。",
-            "EN": "Consumes all Charges. Deals massive DMG to all targets and expends all Performance Points."
-        },
-        "SP": 0,
-        "Elem": "Phys",
-        "Threat": true
-    },
-    "700310005": {
-        "Key": "Skill04",
-        "Name": {
-            "CH": " 720 度考核",
-            "EN": "720-Degree Review"
-        },
-        "Desc": {
-            "CH": "夺取除自身外敌方其他目标1个【绩效点】。",
-            "EN": "Seizes 1 Performance Points from all other friendly units."
-        },
-        "SP": 0
-    },
-    "700310006": {
-        "Key": "Skill05",
-        "Name": {
-            "CH": "团建",
-            "EN": "Team Building"
-        },
-        "Desc": {
-            "CH": "召唤星际和平公司雇员，并使其获得1个【绩效点】。",
-            "EN": "Summons Interastral Peace Corporation Employee and gains 1 Performance Point."
-        },
-        "SP": 0
-    },
-    "700310002": {
-        "Key": "Skill06",
-        "Name": {
-            "CH": "降本增效",
-            "EN": "Cost Reduction"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成大量伤害，获得1个【绩效点】。",
-            "EN": "Deals massive DMG to a single target and gains 1 Performance Point."
-        },
-        "SP": 0,
-        "Elem": "Phys"
-    },
-    "700310007": {
-        "Key": "PassiveSkillInitiate",
-        "Name": {
-            "CH": "公司雇员",
-            "EN": "IPC Employee"
-        },
-        "Desc": {
-            "CH": "根据【绩效点】数量大幅提高伤害。获得【绩效点】时，获得可叠加的护盾，无【绩效点】时会移除该护盾。护盾被击破或陷入无法战斗状态时【绩效点】会被夺取。",
-            "EN": "Greatly increases DMG in accordance with the number of Performance Points. A stackable Shield will be obtained when receiving Performance Points, and the Shield will be removed when there are no Performance Points. When the Shield is broken or the character is downed, the Performance Points will be seized."
         },
         "SP": 0
     },
@@ -11832,189 +10752,6 @@ var _monsterskill = {
             2.5,
             0.2
         ]
-    },
-    "700211001": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "冲撞",
-            "EN": "Ram"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成少量伤害。",
-            "EN": "Deals minor DMG to a single target."
-        },
-        "SP": 0,
-        "Elem": "Phys"
-    },
-    "700211002": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "定时模块",
-            "EN": "Timed Module"
-        },
-        "Desc": {
-            "CH": "下次行动施放【自爆模块】。",
-            "EN": "The next action uses Self-Exploding Module."
-        },
-        "SP": 0
-    },
-    "700211003": {
-        "Key": "Skill03",
-        "Name": {
-            "CH": "自爆模块",
-            "EN": "Self-Exploding Module"
-        },
-        "Desc": {
-            "CH": "消耗所有充能。引爆自身，对指定我方单体及其相邻目标造成大量伤害。",
-            "EN": "Consumes all Charges. Self-destructs, dealing DMG to a single target and adjacent targets."
-        },
-        "SP": 0,
-        "Elem": "Fire",
-        "Threat": true
-    },
-    "700212001": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "打卡",
-            "EN": "Clock In"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成伤害，获得1个【绩效点】。",
-            "EN": "Deals DMG to a single target and gains 1 Performance Point."
-        },
-        "SP": 0,
-        "Elem": "Phys"
-    },
-    "700212002": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "年终结算",
-            "EN": "Annual Accounting"
-        },
-        "Desc": {
-            "CH": "消耗所有充能。对指定我方单体造成伤害，若已持有【绩效点】则使其受到伤害提高。消耗所有【绩效点】。",
-            "EN": "Consumes all charges. Deals DMG to a single target. If they are present, Performance Points will increase DMG. All Performance Points will be expended."
-        },
-        "SP": 0,
-        "Elem": "Phys",
-        "Threat": true
-    },
-    "700212003": {
-        "Key": "PassiveSkillInitiate",
-        "Name": {
-            "CH": "公司雇员",
-            "EN": "IPC Employee"
-        },
-        "Desc": {
-            "CH": "根据【绩效点】数量大幅提高伤害。获得【绩效点】时，获得可叠加的护盾，无【绩效点】时会移除该护盾。护盾被击破或陷入无法战斗状态时【绩效点】会被夺取。",
-            "EN": "Greatly increases DMG in accordance with the number of Performance Points. A stackable Shield will be obtained when receiving Performance Points, and the Shield will be removed when there are no Performance Points. When the Shield is broken or the character is downed, the Performance Points will be seized."
-        },
-        "SP": 0
-    },
-    "700213001": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "申诉",
-            "EN": "Appeal"
-        },
-        "Desc": {
-            "CH": "对指定我方单体及相邻目标造成伤害，获得1个【绩效点】。",
-            "EN": "Deals DMG to a single target and adjacent targets. Gains 1 Performance Point."
-        },
-        "SP": 0,
-        "Elem": "Phys"
-    },
-    "700213002": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "绩效总结",
-            "EN": "Performance Review"
-        },
-        "Desc": {
-            "CH": "消耗所有充能。对指定我方单体及相邻目标造成伤害，若已持有【绩效点】则自身行动提前一定比例。消耗所有【绩效点】。",
-            "EN": "Consumes all Charges. Deals DMG to a single target and adjacent targets. If they are present, Performance Points will advance this unit's action by a certain proportion. All Performance Points will be expended."
-        },
-        "SP": 0,
-        "Elem": "Phys",
-        "Threat": true
-    },
-    "700213003": {
-        "Key": "PassiveSkillInitiate",
-        "Name": {
-            "CH": "公司雇员",
-            "EN": "IPC Employee"
-        },
-        "Desc": {
-            "CH": "根据【绩效点】数量大幅提高伤害。获得【绩效点】时，获得可叠加的护盾，无【绩效点】时会移除该护盾。护盾被击破或陷入无法战斗状态时【绩效点】会被夺取。",
-            "EN": "Greatly increases DMG in accordance with the number of Performance Points. A stackable Shield will be obtained when receiving Performance Points, and the Shield will be removed when there are no Performance Points. When the Shield is broken or the character is downed, the Performance Points will be seized."
-        },
-        "SP": 0
-    },
-    "700212004": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "test_破甲榴弹2",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "test_对指定我方单体造成物理属性伤害。",
-            "EN": ""
-        },
-        "SP": 10.0,
-        "Elem": "Phys"
-    },
-    "700213004": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "test_炮击2",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "test_对指定我方单体及相邻目标造成物理属性伤害，额外夺取1枚金币",
-            "EN": ""
-        },
-        "SP": 10.0,
-        "Elem": "Phys"
-    },
-    "700101301": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "激励",
-            "EN": "Motivation"
-        },
-        "Desc": {
-            "CH": "为除自身外敌方其他目标提供1个【绩效点】。",
-            "EN": "Provides 1 Performance Point to a friendly unit aside from oneself."
-        },
-        "SP": 0,
-        "Threat": true
-    },
-    "700201003": {
-        "Key": "Skill03",
-        "Name": {
-            "CH": "啸聚",
-            "EN": "Rallying Howl"
-        },
-        "Desc": {
-            "CH": "消耗所有充能。召唤1个当前生命值与自身相同的【狈影】。",
-            "EN": "Consumes all Charges. Summons 1 Shadow Jackhyena with the same Current HP as oneself."
-        },
-        "SP": 0,
-        "Threat": true
-    },
-    "700308006": {
-        "Key": "Skill08",
-        "Name": {
-            "CH": "爆裂缭灼",
-            "EN": "Scorching Burst"
-        },
-        "Desc": {
-            "CH": "消耗所有充能。对我方全体造成伤害，使陷入灼烧状态的我方目标发生爆炸同时对自身及相邻目标造成伤害，同时解除该目标的灼烧状态。",
-            "EN": "Consumes all Charges. Deals DMG to all targets. Burned target will explode, subsequently dealing DMG to the Burned target and units adjacent to the target. The Burn status will be removed afterward."
-        },
-        "SP": 0,
-        "Elem": "Fire",
-        "Threat": true
     },
     "201301102": {
         "Key": "Skill01",
@@ -12184,57 +10921,6 @@ var _monsterskill = {
             220220101,
             220230101
         ]
-    },
-    "700101302": {
-        "Key": "PassiveSkillInitiate",
-        "Name": {
-            "CH": "企业向心力",
-            "EN": "Entreprenuerial Spirit"
-        },
-        "Desc": {
-            "CH": "每次受到攻击，除自身外敌方其他目标速度提高。",
-            "EN": "Every time the unit is attacked, the SPD of a friendly unit aside from oneself increases."
-        },
-        "SP": 0
-    },
-    "700308007": {
-        "Key": "Skill09",
-        "Name": {
-            "CH": "爆裂前兆",
-            "EN": "Augury of Fireburst"
-        },
-        "Desc": {
-            "CH": "下次行动施放【爆裂缭灼】。",
-            "EN": "Uses Scorching Burst in the next action."
-        },
-        "SP": 0
-    },
-    "700214001": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "霜冻重击",
-            "EN": "Frost Crush"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成伤害，并使受到攻击的我方目标行动延后。",
-            "EN": "Deals DMG to a single target and delays their action."
-        },
-        "SP": 0,
-        "Elem": "Ice"
-    },
-    "700214002": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "霜冻超重击",
-            "EN": "Frost Supercrush"
-        },
-        "Desc": {
-            "CH": "消耗所有充能。对指定我方单体造成伤害，并大概率使受到攻击的我方目标陷入冻结状态。",
-            "EN": "Consumes all Charges. Deals DMG to a single target, with a high chance of Freezing the target."
-        },
-        "SP": 0,
-        "Elem": "Ice",
-        "Threat": true
     },
     "200402007": {
         "Key": "SkillP01",
@@ -12598,19 +11284,6 @@ var _monsterskill = {
             "EN": "The Trotter flees in an instant."
         },
         "SP": 0
-    },
-    "900460001": {
-        "Key": "SkillP01",
-        "Name": {
-            "CH": "dev_被动",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "dev_自身无法被选择和攻击，场上怪物被击杀时会扣血",
-            "EN": ""
-        },
-        "SP": 0,
-        "Elem": "Quantum"
     },
     "800305201": {
         "Key": "Skill01",
@@ -14623,39 +13296,6 @@ var _monsterskill = {
         },
         "SP": 0
     },
-    "300302001": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "限量赠饮",
-            "EN": "Limited Free Drinks"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害，如果目标身上拥有护盾，则造成伤害后还会对自身造成<color style='color:#f29e38;'>8%生命值上限</color>的冰属性伤害，并有<color style='color:#f29e38;'>150%</color>基础概率使自身防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
-            "EN": "Deals <1> Ice DMG to a single target. If the target has Shield, will deal <color style='color:#f29e38;'>8% Max HP</color> Ice DMG to self, and has a <color style='color:#f29e38;'>150%</color> Base Chance to decrease self DEF by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>2</color> turns."
-        },
-        "SP": 10.0,
-        "Elem": "Ice",
-        "DMG": [
-            3.8
-        ]
-    },
-    "300302002": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "无限畅饮",
-            "EN": "Unlimited Free Drinks"
-        },
-        "Desc": {
-            "CH": "随机对我方单体造成4次<1>冰属性伤害。每次造成伤害后，如果目标身上拥有护盾，则还会对自身造成<color style='color:#f29e38;'>8%生命值上限</color>的冰属性伤害，并有<color style='color:#f29e38;'>150%</color>基础概率使自身防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
-            "EN": "Randomly deals <1> Ice DMG 4 times to single targets. After every hit, if the target has Shield, will deal <color style='color:#f29e38;'>8% Max HP</color> Ice DMG to self, and has a <color style='color:#f29e38;'>150%</color> Base Chance to decrease self DEF by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>2</color> turns."
-        },
-        "SP": 10.0,
-        "Elem": "Ice",
-        "Threat": true,
-        "DMG": [
-            3.8
-        ]
-    },
     "300302003": {
         "Key": "Skill03",
         "Name": {
@@ -14689,6 +13329,121 @@ var _monsterskill = {
         "Desc": {
             "CH": "dev_受到攻击或持续伤害时，获得可乐标记，可叠加。可乐标记层数越高，造成的伤害越高，造成伤害后可乐标记清零。",
             "EN": ""
+        },
+        "SP": 0
+    },
+    "803401001": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "押以重注",
+            "EN": "Heavy Stakes"
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成虚数属性伤害。",
+            "EN": "Deals Imaginary DMG to a single target."
+        },
+        "SP": 10.0,
+        "Elem": "Imaginary"
+    },
+    "803401002": {
+        "Key": "Skill02",
+        "Name": {
+            "CH": "分散投资",
+            "EN": "Distributed Investment"
+        },
+        "Desc": {
+            "CH": "连续对我方随机单体造成少量虚数属性伤害。",
+            "EN": "Deals successive minor Imaginary DMG to random targets."
+        },
+        "SP": 5.0,
+        "Elem": "Imaginary"
+    },
+    "803401003": {
+        "Key": "Skill03",
+        "Name": {
+            "CH": "点数喷泉",
+            "EN": "Points Fountain"
+        },
+        "Desc": {
+            "CH": "对我方全体造成少量虚数属性伤害，并减少我方全体的能量。",
+            "EN": "Deals minor Imaginary DMG to all targets and reduce all targets' Energy."
+        },
+        "SP": 0,
+        "Elem": "Imaginary"
+    },
+    "803401004": {
+        "Key": "Skill04",
+        "Name": {
+            "CH": "对赌时刻",
+            "EN": "Time For A Bet"
+        },
+        "Desc": {
+            "CH": "召唤【「所有或一无所有」】并使我方单体进入赌局，每个【「所有或一无所有」】每次受到进入赌局的我方目标攻击时，会使其获得1个随机1到6的点数。进入赌局的我方单体回合结束时，点数低于诡弈砂金视为输掉赌局并受到攻击；点数高于诡弈砂金视为赢得赌局获得1个额外回合并使我方恢复1个战技点。同时使没有进入赌局的我方目标陷入【观局勿语】状态，赌局结束后解除。",
+            "EN": "Summons All or Nothing and makes a single target enter the gamble. Every time an All or Nothing is attacked by a target that is in the gamble, the target will receive a random number between 1 and 6. After a target that is in the gamble has finished their turn, targets with numbers lower than Aventurine of Stratagems are considered to have lost the bet and will be attacked, while those with a number higher than Aventurine of Stratagems are considered to have won the bet and will receive 1 extra turn and recovers 1 Skill Point for the team. At the same time, targets that have not entered the gamble are afflicted with the \"Look, Don't Speak\" status, which is dispelled when the gamble ends."
+        },
+        "SP": 0,
+        "Threat": true
+    },
+    "803401005": {
+        "Key": "Skill05",
+        "Name": {
+            "CH": "豪赌盛宴",
+            "EN": "Big Spenders' Mad Party"
+        },
+        "Desc": {
+            "CH": "召唤【「所有或一无所有」】并使我方全体进入赌局，每个【「所有或一无所有」】每次受到攻击时会使进行攻击的我方目标获得1个随机1到6的点数。下次诡弈砂金行动时，点数低于诡弈砂金的我方目标视为输掉赌局并受到攻击；点数高于诡弈砂金的我方目标视为赢得赌局获得1个额外回合并使我方恢复1个战技点。",
+            "EN": "Summons All or Nothing and makes all targets enter the gamble. Every time an All or Nothing is attacked, the target that launched the attack will receive a random number between 1 and 6. The next time Aventurine of Stratagems takes a turn, targets with numbers lower than Aventurine of Stratagems are considered to have lost the bet and will be attacked, while targets with numbers higher than Aventurine of Stratagems are considered to have won the bet and will receive 1 extra turn and recovers 1 Skill Point for the team."
+        },
+        "SP": 0,
+        "Threat": true
+    },
+    "803401006": {
+        "Key": "Skill06",
+        "Name": {
+            "CH": "败者退席",
+            "EN": "The Loser's Time Is Over"
+        },
+        "Desc": {
+            "CH": "对输掉赌局的我方单体造成虚数属性伤害，并大概率使受到攻击的我方单体陷入禁锢状态。",
+            "EN": "Deals Imaginary DMG to a target that lost the gamble, with a high chance of inflicting Imprisonment on the attacked target."
+        },
+        "SP": 20.0,
+        "Elem": "Imaginary"
+    },
+    "803401007": {
+        "Key": "Skill07",
+        "Name": {
+            "CH": "胜者通杀",
+            "EN": "The Winner Takes It All"
+        },
+        "Desc": {
+            "CH": "对所有输掉赌局的我方目标造成大量虚数属性伤害，并大概率使受到攻击的我方目标陷入禁锢状态。",
+            "EN": "Deals Imaginary DMG to all targets that lost the gamble, with a high chance of inflicting Imprisonment on the attacked targets."
+        },
+        "SP": 20.0,
+        "Elem": "Imaginary"
+    },
+    "803401008": {
+        "Key": "Skill08",
+        "Name": {
+            "CH": "诡弈赌约",
+            "EN": "Strategems' Wagering"
+        },
+        "Desc": {
+            "CH": "每次赢得赌局的我方目标获得【鸿运当头】效果，造成的伤害提高；每次输掉赌局的我方目标获得【时运不济】效果，受到的伤害提高。",
+            "EN": "Every time a target wins the gamble, they receive the Favored by Fortune effect that increases their DMG dealt. Every time a target loses the gamble, they receive the Down on Your Luck effect that increases DMG taken."
+        },
+        "SP": 0
+    },
+    "803203001": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "运数莫测",
+            "EN": "Fickle Fortune"
+        },
+        "Desc": {
+            "CH": "不会受到伤害，受到进入赌局的目标攻击时使其获得1个随机1到6的点数。",
+            "EN": "Immune to DMG. When this unit is attacked by a target that has entered the gamble, apply 1 random number (between 1 and 6) to the target."
         },
         "SP": 0
     },
@@ -14843,6 +13598,43 @@ var _monsterskill = {
             230030104,
             230030105
         ]
+    },
+    "300204001": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "预定闹钟",
+            "EN": "Set The Time"
+        },
+        "Desc": {
+            "CH": "进入蓄力状态，下次行动时施放【起床铃声】。",
+            "EN": "Enters the Charge state. Uses Wake-Up Alarm for the next action."
+        },
+        "SP": 0
+    },
+    "300204002": {
+        "Key": "Skill02",
+        "Name": {
+            "CH": "起床铃声",
+            "EN": "Wake-Up Alarm"
+        },
+        "Desc": {
+            "CH": "使除自身外的敌方全体立即行动。",
+            "EN": "Causes all friendly units apart from this unit to immediately take action."
+        },
+        "SP": 0
+    },
+    "300204003": {
+        "Key": "Skill03",
+        "Name": {
+            "CH": "清醒铁拳",
+            "EN": "Wake-Up Punch"
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成物理属性伤害。",
+            "EN": "Deals Physical DMG to a single target."
+        },
+        "SP": 10.0,
+        "Elem": "Phys"
     },
     "301202001": {
         "Key": "Skill03",
@@ -16901,71 +15693,20 @@ var _monsterskill = {
         },
         "SP": 0
     },
-    "900311001": {
+    "301201001": {
         "Key": "Skill01",
         "Name": {
-            "CH": "",
-            "EN": ""
+            "CH": "镜像认同",
+            "EN": "Mirror Cognition"
         },
         "Desc": {
-            "CH": "",
-            "EN": ""
+            "CH": "变身为其他敌方单位，并复制其技能。变身后继承自身的基础属性。",
+            "EN": "Shapeshift into other friendly units and copies their abilities. After shapeshifting, this unit's Base Stats is inherited."
         },
-        "SP": 15.0,
-        "Elem": "Quantum"
+        "SP": 0
     },
-    "900311002": {
+    "301201002": {
         "Key": "Skill02",
-        "Name": {
-            "CH": "",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "SP": 15.0,
-        "Elem": "Quantum"
-    },
-    "900311003": {
-        "Key": "Skill03",
-        "Name": {
-            "CH": "",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "SP": 0
-    },
-    "900311004": {
-        "Key": "Skill04",
-        "Name": {
-            "CH": "",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "SP": 0,
-        "Threat": true
-    },
-    "900311005": {
-        "Key": "Skill05",
-        "Name": {
-            "CH": "",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "SP": 0
-    },
-    "900311006": {
-        "Key": "SkillP01",
         "Name": {
             "CH": "",
             "EN": ""
@@ -16985,32 +15726,6 @@ var _monsterskill = {
         "Desc": {
             "CH": "每次使用【纯美的勇气赞歌】后，使自身造成的伤害提高，伤害提高效果可叠加。",
             "EN": "After every use of Hymn of Gorgeous Courage, increases DMG. This effect is stackable."
-        },
-        "SP": 0
-    },
-    "700306002": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "冻结风暴",
-            "EN": "Frozen Storm"
-        },
-        "Desc": {
-            "CH": "消耗所有充能。对我方全体造成伤害，并有大概率使受到攻击的我方目标陷入【深寒】状态。",
-            "EN": "Consumes all Charges. Deals DMG to all targets, with a high chance to Deep Freeze the targets."
-        },
-        "SP": 0,
-        "Elem": "Ice",
-        "Threat": true
-    },
-    "700306003": {
-        "Key": "Skill03",
-        "Name": {
-            "CH": "低温榨取",
-            "EN": "Cryo-Extraction"
-        },
-        "Desc": {
-            "CH": "存在友方单位时，消耗相邻友方单位生命值，攻击力提高，并立即再次行动。",
-            "EN": "When friendly units exist, consumes adjacent friendly units' HP to increase ATK and immediately take another action."
         },
         "SP": 0
     },
@@ -17455,39 +16170,6 @@ var _monsterskill = {
             230030105
         ]
     },
-    "300302101": {
-        "Key": "Skill01",
-        "Name": {
-            "CH": "限量赠饮",
-            "EN": "Limited Free Drinks"
-        },
-        "Desc": {
-            "CH": "对指定我方单体造成<1>冰属性伤害，并使其行动提前<color style='color:#f29e38;'>50%</color>。<br>如果目标身上拥有护盾，则造成伤害后还会对自身造成<color style='color:#f29e38;'>20%生命值上限</color>的冰属性伤害，并有<color style='color:#f29e38;'>150%</color>基础概率使自身防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
-            "EN": "Deals <1> Ice DMG to a single target and advance their action by <color style='color:#f29e38;'>50%</color>.<br>If the target has Shield, will deal <color style='color:#f29e38;'>20% Max HP</color> Ice DMG to self, and has a <color style='color:#f29e38;'>150%</color> Base Chance to decrease self DEF by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>2</color> turns."
-        },
-        "SP": 10.0,
-        "Elem": "Ice",
-        "DMG": [
-            2
-        ]
-    },
-    "300302102": {
-        "Key": "Skill02",
-        "Name": {
-            "CH": "无限畅饮",
-            "EN": "Unlimited Free Drinks"
-        },
-        "Desc": {
-            "CH": "对被监视的我方单体造成<1>冰属性伤害（分4次伤害），并使其行动提前<color style='color:#f29e38;'>50%</color>。<br>每次造成伤害后，如果目标身上拥有护盾，则会对自身造成<color style='color:#f29e38;'>20%生命值上限</color>的冰属性伤害，并对随机敌方造成<color style='color:#f29e38;'>1%生命值上限</color>的冰属性伤害，并有<color style='color:#f29e38;'>150%</color>基础概率使自身防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
-            "EN": "Deals <1> Ice DMG to the Marked target (in 4 hits) and advance their action by <color style='color:#f29e38;'>50%</color>.<br> After every hit, if the target has Shield, will deal <color style='color:#f29e38;'>20% Max HP</color> Ice DMG to self and <color style='color:#f29e38;'>1% Max HP</color> Ice DMG to a random ally, and has a <color style='color:#f29e38;'>150%</color> Base Chance to decrease self DEF by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>2</color> turns."
-        },
-        "SP": 10.0,
-        "Elem": "Ice",
-        "Threat": true,
-        "DMG": [
-            8
-        ]
-    },
     "300302103": {
         "Key": "Skill03",
         "Name": {
@@ -17891,6 +16573,122 @@ var _monsterskill = {
         },
         "SP": 0
     },
+    "301301001": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "怀恨礼",
+            "EN": "Grudging Courtesy"
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成量子属性伤害。并使自身获得1层【无明火】。",
+            "EN": "Deals minor Quantum DMG to a single target and gains 1 stack of Obscure Blaze."
+        },
+        "SP": 10.0,
+        "Elem": "Quantum"
+    },
+    "301301002": {
+        "Key": "Skill04",
+        "Name": {
+            "CH": "怒叱如雷轰鸣",
+            "EN": "Roar of Furious Thunder"
+        },
+        "Desc": {
+            "CH": "自身获得3层【无明火】。",
+            "EN": "Gains 3 stacks of Obscure Blaze."
+        },
+        "SP": 0
+    },
+    "301301003": {
+        "Key": "Skill06",
+        "Name": {
+            "CH": "宿怨如浪翻涌",
+            "EN": "Tide of Enduring Grudges"
+        },
+        "Desc": {
+            "CH": "对我方全体造成少量量子属性伤害。并使自身获得1层【无明火】。",
+            "EN": "Deals Quantum DMG to all targets and gains 1 stack of Obscure Blaze."
+        },
+        "SP": 10.0,
+        "Elem": "Quantum"
+    },
+    "301301004": {
+        "Key": "Skill07",
+        "Name": {
+            "CH": "痛恶如刺剔骨",
+            "EN": "Bonepiercing Odium"
+        },
+        "Desc": {
+            "CH": "连续对我方随机单体造成少量量子属性伤害。每层【无明火】额外造成1段伤害。",
+            "EN": "Deals successive Quantum DMG to random targets. Each stack of Obscure Blaze additionally deals DMG 1 time."
+        },
+        "SP": 5.0,
+        "Elem": "Quantum",
+        "Threat": true
+    },
+    "301301005": {
+        "Key": "SkillP01",
+        "Name": {
+            "CH": "癔症身壳",
+            "EN": "Disembodied Shell"
+        },
+        "Desc": {
+            "CH": "进入【守备】状态，弱点未被击破时受到的伤害降低，被击破时行动额外延后，被击破后受到的伤害提高。",
+            "EN": "Enters the Safeguard state. When not Weakness Broken, reduces DMG received. Once Weakness is Broken, action will be delayed further. After Weakness is Broken, increases DMG received."
+        },
+        "SP": 0
+    },
+    "301301006": {
+        "Key": "Skill06",
+        "Name": {
+            "CH": "dev_AOE",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_对我方全体造成火属性伤害。并使自身获得1层【dev_成长】",
+            "EN": ""
+        },
+        "SP": 10.0,
+        "Elem": "Fire"
+    },
+    "301301007": {
+        "Key": "Skill07",
+        "Name": {
+            "CH": "dev_弹射攻击",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_连续对我方随机单体造成火属性伤害。每层【dev_成长】额外造成1段伤害",
+            "EN": ""
+        },
+        "SP": 5.0,
+        "Elem": "Fire",
+        "Threat": true
+    },
+    "301301008": {
+        "Key": "SkillP01",
+        "Name": {
+            "CH": "dev_超级护甲",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_未击破时受到的伤害降低，击破时行动额外延后，击破后受到的伤害提高。",
+            "EN": ""
+        },
+        "SP": 0
+    },
+    "102302201": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "dev_吞噬衍生物",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_吞噬衍生物，若失败减防御",
+            "EN": ""
+        },
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
     "302402007": {
         "Key": "Skill06",
         "Name": {
@@ -17926,6 +16724,706 @@ var _monsterskill = {
             230240203,
             230240204
         ]
+    },
+    "100301401": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "突击",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成物理属性伤害。",
+            "EN": ""
+        },
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "100301402": {
+        "Key": "Skill06",
+        "Name": {
+            "CH": "穿刺",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成大量物理属性伤害。",
+            "EN": ""
+        },
+        "SP": 20.0,
+        "Elem": "Phys"
+    },
+    "100301403": {
+        "Key": "Skill07",
+        "Name": {
+            "CH": "盾反",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "进入反击状态，在受到我方单体攻击后获得1个额外回合，对该目标造成物理属性伤害。",
+            "EN": ""
+        },
+        "SP": 0
+    },
+    "100301404": {
+        "Key": "Skill08",
+        "Name": {
+            "CH": "增援",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "召唤【银鬃近卫】或【银鬃射手】。",
+            "EN": ""
+        },
+        "SP": 0
+    },
+    "100301405": {
+        "Key": "Skill09",
+        "Name": {
+            "CH": "鼓劲",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "使敌方除【银鬃尉官（错误）】外的目标攻击力提高并立即行动。",
+            "EN": ""
+        },
+        "SP": 0,
+        "Threat": true
+    },
+    "803301301": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "dev_处分",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_对指定我方单体造成少量物理属性伤害。",
+            "EN": ""
+        },
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "803301303": {
+        "Key": "Skill02",
+        "Name": {
+            "CH": "dev_培训中…",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_进入蓄力状态，下次行动施放【企业文化冲击】。",
+            "EN": ""
+        },
+        "SP": 0
+    },
+    "803301304": {
+        "Key": "Skill03",
+        "Name": {
+            "CH": "dev_企业文化冲击",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_对我方全体造成物理属性伤害。",
+            "EN": ""
+        },
+        "SP": 20.0,
+        "Elem": "Phys",
+        "Threat": true
+    },
+    "803301305": {
+        "Key": "Skill04",
+        "Name": {
+            "CH": "dev_ 720 度考核",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_夺取所有【基层员工•外勤】和【基层员工•安保】的【绩效点】。",
+            "EN": ""
+        },
+        "SP": 0
+    },
+    "803301306": {
+        "Key": "Skill05",
+        "Name": {
+            "CH": "dev_末位淘汰",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_消灭1名没有【绩效点】的【基层员工•外勤】或【基层员工•安保】，并召唤至多4名【基层员工•外勤】或【基层员工•安保】，同时使场上所有【基层员工•外勤】和【基层员工•安保】获得1个【绩效点】。",
+            "EN": ""
+        },
+        "SP": 0
+    },
+    "803301302": {
+        "Key": "Skill06",
+        "Name": {
+            "CH": "dev_降本增效",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_对指定我方单体造成物理属性伤害。",
+            "EN": ""
+        },
+        "SP": 15.0,
+        "Elem": "Phys"
+    },
+    "803301307": {
+        "Key": "Skill07",
+        "Name": {
+            "CH": "dev_末位淘汰",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_消灭1名没有【绩效点】的【基层员工•外勤】或【基层员工•安保】，并召唤至多4名【基层员工•外勤】或【基层员工•安保】，同时使场上所有【基层员工•外勤】和【基层员工•安保】获得1个【绩效点】。",
+            "EN": ""
+        },
+        "SP": 0
+    },
+    "803301308": {
+        "Key": "PassiveSkillInitiate",
+        "Name": {
+            "CH": "dev_提升业绩",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_每次施放攻击后获得1个【绩效点】。【绩效点】可在自身弱点被击破或受到致命攻击时被攻击者夺取。",
+            "EN": ""
+        },
+        "SP": 0
+    },
+    "802401301": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "作战时刻",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成少量风属性伤害，并大概率使受到攻击的我方目标陷入2层风化状态。",
+            "EN": ""
+        },
+        "SP": 10.0,
+        "Elem": "Wind"
+    },
+    "802401310": {
+        "Key": "Skill08",
+        "Name": {
+            "CH": "",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "",
+            "EN": ""
+        },
+        "SP": 10.0,
+        "Elem": "Wind"
+    },
+    "802401302": {
+        "Key": "Skill02",
+        "Name": {
+            "CH": "战争兵器",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成少量风属性伤害。如受到攻击的目标正处于风化状态，则直接造成1次风化伤害。",
+            "EN": ""
+        },
+        "SP": 20.0,
+        "Elem": "Wind"
+    },
+    "802401303": {
+        "Key": "Skill03",
+        "Name": {
+            "CH": "飓风",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "对我方全体造成风属性伤害，并大概率使受到攻击的我方目标陷入风化状态。",
+            "EN": ""
+        },
+        "SP": 10.0,
+        "Elem": "Wind"
+    },
+    "802401304": {
+        "Key": "Skill04",
+        "Name": {
+            "CH": "繁殖",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "繁殖真蛰虫群。",
+            "EN": ""
+        },
+        "SP": 0
+    },
+    "802401311": {
+        "Key": "Skill10",
+        "Name": {
+            "CH": "繁殖",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "繁殖真蛰虫群。",
+            "EN": ""
+        },
+        "SP": 0
+    },
+    "802401305": {
+        "Key": "Skill05",
+        "Name": {
+            "CH": "指挥准备",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "进入蓄力状态，下次行动施放【虫群突袭】。",
+            "EN": ""
+        },
+        "SP": 0
+    },
+    "802401306": {
+        "Key": "Skill06",
+        "Name": {
+            "CH": "虫群突袭",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "解除场上所有真蛰虫群的控制类负面状态与弱点击破状态，并对我方目标造成风属性伤害，使我方目标每次受到攻击时大概率陷入1层风化状态。",
+            "EN": ""
+        },
+        "SP": 10.0,
+        "Elem": "Wind",
+        "Threat": true
+    },
+    "802401307": {
+        "Key": "Skill07",
+        "Name": {
+            "CH": "虫群突袭",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "解除场上所有真蛰虫群的控制类负面状态与弱点击破状态，并对我方目标造成风属性伤害，使我方目标每次受到攻击时大概率陷入1层风化状态。",
+            "EN": ""
+        },
+        "SP": 10.0,
+        "Elem": "Wind"
+    },
+    "802401308": {
+        "Key": "PassiveSkill01",
+        "Name": {
+            "CH": "传衍信息素",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "场上每繁殖出1个真蛰虫群，所有真蛰虫群获得1层伤害提高。场上仅能有1个【传衍信息素】效果生效。",
+            "EN": ""
+        },
+        "SP": 0
+    },
+    "802401309": {
+        "Key": "PassiveSkill02",
+        "Name": {
+            "CH": "蛰亡语",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "受到致命攻击时，对敌方全体造成风属性伤害，并大概率使受到攻击的敌方目标受到的伤害小幅提高。",
+            "EN": ""
+        },
+        "SP": 0,
+        "Elem": "Wind"
+    },
+    "300302001": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "限量赠饮",
+            "EN": "Limited Free Drinks"
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成<1>冰属性伤害，如果目标身上拥有护盾，则造成伤害后还会对自身造成<color style='color:#f29e38;'>8%生命值上限</color>的冰属性伤害，并有<color style='color:#f29e38;'>150%</color>基础概率使自身防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+            "EN": "Deals <1> Ice DMG to a single target. If the target has Shield, will deal <color style='color:#f29e38;'>8% Max HP</color> Ice DMG to self, and has a <color style='color:#f29e38;'>150%</color> Base Chance to decrease self DEF by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>2</color> turns."
+        },
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            3.8
+        ]
+    },
+    "300302002": {
+        "Key": "Skill02",
+        "Name": {
+            "CH": "无限畅饮",
+            "EN": "Unlimited Free Drinks"
+        },
+        "Desc": {
+            "CH": "随机对我方单体造成4次<1>冰属性伤害。每次造成伤害后，如果目标身上拥有护盾，则还会对自身造成<color style='color:#f29e38;'>8%生命值上限</color>的冰属性伤害，并有<color style='color:#f29e38;'>150%</color>基础概率使自身防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+            "EN": "Randomly deals <1> Ice DMG 4 times to single targets. After every hit, if the target has Shield, will deal <color style='color:#f29e38;'>8% Max HP</color> Ice DMG to self, and has a <color style='color:#f29e38;'>150%</color> Base Chance to decrease self DEF by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>2</color> turns."
+        },
+        "SP": 10.0,
+        "Elem": "Ice",
+        "Threat": true,
+        "DMG": [
+            3.8
+        ]
+    },
+    "300302101": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "限量赠饮",
+            "EN": "Limited Free Drinks"
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成<1>冰属性伤害，并使其行动提前<color style='color:#f29e38;'>50%</color>。<br>如果目标身上拥有护盾，则造成伤害后还会对自身造成<color style='color:#f29e38;'>20%生命值上限</color>的冰属性伤害，并有<color style='color:#f29e38;'>150%</color>基础概率使自身防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+            "EN": "Deals <1> Ice DMG to a single target and advance their action by <color style='color:#f29e38;'>50%</color>.<br>If the target has Shield, will deal <color style='color:#f29e38;'>20% Max HP</color> Ice DMG to self, and has a <color style='color:#f29e38;'>150%</color> Base Chance to decrease self DEF by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>2</color> turns."
+        },
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            2
+        ]
+    },
+    "300302102": {
+        "Key": "Skill02",
+        "Name": {
+            "CH": "无限畅饮",
+            "EN": "Unlimited Free Drinks"
+        },
+        "Desc": {
+            "CH": "对被监视的我方单体造成<1>冰属性伤害（分4次伤害），并使其行动提前<color style='color:#f29e38;'>50%</color>。<br>每次造成伤害后，如果目标身上拥有护盾，则会对自身造成<color style='color:#f29e38;'>20%生命值上限</color>的冰属性伤害，并对随机敌方造成<color style='color:#f29e38;'>1%生命值上限</color>的冰属性伤害，并有<color style='color:#f29e38;'>150%</color>基础概率使自身防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+            "EN": "Deals <1> Ice DMG to the Marked target (in 4 hits) and advance their action by <color style='color:#f29e38;'>50%</color>.<br> After every hit, if the target has Shield, will deal <color style='color:#f29e38;'>20% Max HP</color> Ice DMG to self and <color style='color:#f29e38;'>1% Max HP</color> Ice DMG to a random ally, and has a <color style='color:#f29e38;'>150%</color> Base Chance to decrease self DEF by <color style='color:#f29e38;'>20%</color> for <color style='color:#f29e38;'>2</color> turns."
+        },
+        "SP": 10.0,
+        "Elem": "Ice",
+        "Threat": true,
+        "DMG": [
+            8
+        ]
+    },
+    "803401009": {
+        "Key": "PassiveSkillInitiate",
+        "Name": {
+            "CH": "",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "",
+            "EN": ""
+        },
+        "SP": 0
+    },
+    "301402201": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "葬仪之吻",
+            "EN": "Funereal Kiss"
+        },
+        "Desc": {
+            "CH": "对我方单体造成物理属性伤害。",
+            "EN": "Deals Physical DMG to a single target."
+        },
+        "SP": 15.0,
+        "Elem": "Phys"
+    },
+    "301402202": {
+        "Key": "Skill02",
+        "Name": {
+            "CH": "沦没黑雨",
+            "EN": "Sunken Rain"
+        },
+        "Desc": {
+            "CH": "对我方全体造成物理属性伤害。",
+            "EN": "Deals Physical DMG to all targets."
+        },
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "301402203": {
+        "Key": "Skill03",
+        "Name": {
+            "CH": "彻心悼词",
+            "EN": "Harrowing Obituary"
+        },
+        "Desc": {
+            "CH": "极大提升自身造成的伤害，持续1回合，陷入弱点击破状态后解除。每次释放时获得1层伤害提高，并使后续召唤的【永眠墓碣】生命值增加1格。",
+            "EN": "Tremendously increases DMG dealt for 1 turn. This effect is removed when this unit becomes Weakness Broken. Every time this ability is used, gains 1 stack of DMG Boost, and increases the HP of any subsequently summoned Sombrous Sepulcher by 1 bar."
+        },
+        "SP": 0
+    },
+    "301402204": {
+        "Key": "Skill04",
+        "Name": {
+            "CH": "光明消歇",
+            "EN": "Fading Radiance"
+        },
+        "Desc": {
+            "CH": "进入【白日西沉】状态。每当有角色主动行动时叠加1层，当叠加3层时，立即对上一个行动的角色施放【已在黄昏失色】。施放过一次【已在黄昏失色】或被弱点击破后解除该状态。",
+            "EN": "Enters the Sunset state. Gains 1 stack each time a character takes action. When 3 stacks are gained, immediately uses Losing Eventide Light on the last-acting character. This effect is removed after using Losing Eventide Light once or after becoming Weakness Broken."
+        },
+        "SP": 0,
+        "Threat": true
+    },
+    "301402205": {
+        "Key": "Skill05",
+        "Name": {
+            "CH": "已在黄昏失色",
+            "EN": "Losing Eventide Light"
+        },
+        "Desc": {
+            "CH": "立即对上一名行动的角色造成致命伤害。",
+            "EN": "Immediately deals a killing blow to the character that acted last."
+        },
+        "SP": 0,
+        "Threat": true
+    },
+    "301402206": {
+        "Key": "Skill06",
+        "Name": {
+            "CH": "步入良夜",
+            "EN": "Go Into That Good Night"
+        },
+        "Desc": {
+            "CH": "进入【夜幕降临】状态并获得【弱点无效】效果，期间会锁定我方优先行动的2名角色。下次行动时使用【如水逝于水中】。",
+            "EN": "Enters the Nightfall state and gains the Weakness Protected effect. During this effect, lock on to 2 characters who are due to act next. Uses Watery Dissolution in the next action."
+        },
+        "SP": 0,
+        "Threat": true
+    },
+    "301402207": {
+        "Key": "Skill07",
+        "Name": {
+            "CH": "如水逝于水中",
+            "EN": "Watery Dissolution"
+        },
+        "Desc": {
+            "CH": "立即对所有锁定的我方角色造成致命伤害。如果没有被锁定的角色，则随机锁定两名我方角色。",
+            "EN": "Immediately deals fatal damage to all locked-on targets. If no targets are being locked on, randomly lock on to two targets."
+        },
+        "SP": 0,
+        "Threat": true
+    },
+    "301402208": {
+        "Key": "Skill08",
+        "Name": {
+            "CH": "",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "",
+            "EN": ""
+        },
+        "SP": 0
+    },
+    "301402209": {
+        "Key": "PassiveSkill02",
+        "Name": {
+            "CH": "无从凭吊的荒场",
+            "EN": "Sad True Lover Never Find My Grave"
+        },
+        "Desc": {
+            "CH": "每当我方目标陷入【梦死】状态时，召唤一个对应的【永眠墓碣】；当我方全体陷入【梦死】状态或无法战斗状态时，战斗失败。",
+            "EN": "Whenever a target gets inflicted with Morbid Dream, summons a corresponding Sombrous Sepulcher. When all targets get inflicted with Morbid Dream or are knocked down, this battle will be considered a defeat."
+        },
+        "SP": 0
+    },
+    "300301201": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "大力颠勺",
+            "EN": "Ladle Swirl"
+        },
+        "Desc": {
+            "CH": "对我方单体造成火属性伤害。",
+            "EN": "Deals Fire DMG to a single target."
+        },
+        "SP": 10.0,
+        "Elem": "Fire"
+    },
+    "300301202": {
+        "Key": "Skill02",
+        "Name": {
+            "CH": "旋风翻锅",
+            "EN": "Tornado Toss"
+        },
+        "Desc": {
+            "CH": "对我方单体及相邻目标造成少量火属性伤害。",
+            "EN": "Deals minor Fire DMG to a single target and adjacent targets."
+        },
+        "SP": 10.0,
+        "Elem": "Fire"
+    },
+    "300301203": {
+        "Key": "Skill06",
+        "Name": {
+            "CH": "引爆炉灶",
+            "EN": "Stov Detonation"
+        },
+        "Desc": {
+            "CH": "进入蓄力状态，速度提高，在【炉灶加温】叠加至一定层数前，每次行动都会释放【烈焰爆炒】。",
+            "EN": "Enters the Charge state and increases SPD. Until Stove Heating has reached a certain number of stacks, this unit will use Flaming Stir-Fry at every turn."
+        },
+        "SP": 0,
+        "Elem": "Fire"
+    },
+    "300301204": {
+        "Key": "Skill04",
+        "Name": {
+            "CH": "烈焰爆炒",
+            "EN": "Flaming Stir-Fry"
+        },
+        "Desc": {
+            "CH": "对我方全体造成大量火属性伤害。",
+            "EN": "Deals massive Fire DMG to all targets."
+        },
+        "SP": 20.0,
+        "Elem": "Fire",
+        "Threat": true
+    },
+    "300301205": {
+        "Key": "Skill05",
+        "Name": {
+            "CH": "厨房事故",
+            "EN": "Kitchen Mishap"
+        },
+        "Desc": {
+            "CH": "进入蓄力状态后，当【炉灶加温】叠加至一定层数时，立即对敌方全体目标造成大量火属性伤害，并使自身防御力降低，同时清除所有【炉灶加温】层数。",
+            "EN": "After entering the Charge state, deals massive Fire DMG to all friendly units and decreases this unit's DEF if Stove Heating has a certain number of stacks. Then, clears all Stove Heating stacks."
+        },
+        "SP": 0,
+        "Elem": "Fire"
+    },
+    "300301206": {
+        "Key": "Skill03",
+        "Name": {
+            "CH": "火炼佳肴",
+            "EN": "Flame-Forged Feast"
+        },
+        "Desc": {
+            "CH": "不处于蓄力状态时，当【炉灶加温】叠加一定层数时立即行动，并释放【引爆炉灶】。",
+            "EN": "While not under the Charge state, immediately takes action when Stove Heating reaches a certain number of stacks, and uses Stov Detonation."
+        },
+        "SP": 0
+    },
+    "300301207": {
+        "Key": "PassiveSkillInitiate",
+        "Name": {
+            "CH": "猛火炉灶",
+            "EN": "Inferno Stove"
+        },
+        "Desc": {
+            "CH": "自身在攻击时有概率对目标施加减速状态。当自身受到攻击或持续伤害时，叠加一层【炉灶加温】。",
+            "EN": "When attacking, this unit has a chance to Slow the target. When this unit is attacked or takes DoT, gains 1 stack of Stove Heating."
+        },
+        "SP": 0
+    },
+    "300302201": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "不限量赠饮",
+            "EN": "Limitless Free Drinks"
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成冰属性伤害，有小概率使受到攻击且没有护盾的目标陷入冻结状态，如果目标身上拥有护盾，则造成伤害后还会对自身造成冰属性伤害，并大概率使自身防御力降低。",
+            "EN": "Deals Ice DMG to a single target, with a small chance of applying Freeze to the attacked target if it does not have a Shield. If the target has Shield, additionally deal Ice DMG to this unit with a high chance to decrease this unit's DEF."
+        },
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "300302202": {
+        "Key": "Skill02",
+        "Name": {
+            "CH": "疯狂畅饮",
+            "EN": "Frenzied Free Drinks"
+        },
+        "Desc": {
+            "CH": "对我方随机单体造成4次冰属性伤害，有大概率使受到攻击且没有护盾的目标陷入冻结状态，如果目标身上拥有护盾，则造成伤害后还会对自身造成冰属性伤害，并大概率使自身防御力降低。",
+            "EN": "Deals Ice DMG 4 times to a random single target, with a high chance of applying Freeze to the attacked target if it does not have a Shield. If the target has Shield, additionally deal Ice DMG to this unit with a high chance to decrease this unit's DEF."
+        },
+        "SP": 10.0,
+        "Elem": "Ice",
+        "Threat": true
+    },
+    "300302203": {
+        "Key": "Skill03",
+        "Name": {
+            "CH": "苏乐达派对",
+            "EN": "SoulGlad Party"
+        },
+        "Desc": {
+            "CH": "召唤2只【气泡锂犬】。",
+            "EN": "Summons 2 Bubble Hounds."
+        },
+        "SP": 0
+    },
+    "300302204": {
+        "Key": "Skill04",
+        "Name": {
+            "CH": "酬宾喷泉",
+            "EN": "Celebration Fountain"
+        },
+        "Desc": {
+            "CH": "进入蓄力状态，获得韧性保护，下次行动时施放【疯狂畅饮】。",
+            "EN": "Enters the Charge state and gains Toughness Protection. Uses Frenzied Free Drinks during the next action."
+        },
+        "SP": 0
+    },
+    "301301101": {
+        "Key": "Skill01",
+        "Name": {
+            "CH": "怀恨礼",
+            "EN": "Grudging Courtesy"
+        },
+        "Desc": {
+            "CH": "对指定我方单体造成量子属性伤害。并使自身获得1层【无明火】。",
+            "EN": "Deals minor Quantum DMG to a single target and gains 1 stack of Obscure Blaze."
+        },
+        "SP": 10.0,
+        "Elem": "Quantum"
+    },
+    "301301102": {
+        "Key": "Skill04",
+        "Name": {
+            "CH": "怒叱如雷轰鸣",
+            "EN": "Roar of Furious Thunder"
+        },
+        "Desc": {
+            "CH": "自身获得3层【无明火】。",
+            "EN": "Gains 3 stacks of Obscure Blaze."
+        },
+        "SP": 0
+    },
+    "301301103": {
+        "Key": "Skill06",
+        "Name": {
+            "CH": "宿怨如浪翻涌",
+            "EN": "Tide of Enduring Grudges"
+        },
+        "Desc": {
+            "CH": "对我方全体造成少量量子属性伤害。并使自身获得1层【无明火】。",
+            "EN": "Deals Quantum DMG to all targets and gains 1 stack of Obscure Blaze."
+        },
+        "SP": 10.0,
+        "Elem": "Quantum"
+    },
+    "301301104": {
+        "Key": "Skill07",
+        "Name": {
+            "CH": "痛恶如刺剔骨",
+            "EN": "Bonepiercing Odium"
+        },
+        "Desc": {
+            "CH": "连续对我方随机单体造成少量量子属性伤害。每层【无明火】额外造成1段伤害。",
+            "EN": "Deals successive Quantum DMG to a random target. Each stack of Obscure Blaze additionally deals DMG 1 time."
+        },
+        "SP": 5.0,
+        "Elem": "Quantum",
+        "Threat": true
+    },
+    "301301105": {
+        "Key": "SkillP01",
+        "Name": {
+            "CH": "癔症身壳",
+            "EN": "Disembodied Shell"
+        },
+        "Desc": {
+            "CH": "进入【守备】状态，弱点未被击破时受到的伤害降低，被击破时行动额外延后，被击破后受到的伤害提高。",
+            "EN": "Enters the Safeguard state. When not Weakness Broken, reduces DMG received. Once Weakness is Broken, action will be delayed. After Weakness is Broken, increases DMG received."
+        },
+        "SP": 0
     },
     "104201": {
         "Name": {

@@ -3,8 +3,88 @@
 var _rec = [
     {
         "Name": {
+            "CH": "《公民哈努努》",
+            "EN": "\"Citizen Hanunu\""
+        },
+        "Desc": {
+            "CH": "<br><i>亲爱的米哈伊尔：你提供散文诗，我来提供战争。</i>",
+            "EN": "<br><i>Dear Mikhail: You provide prose poetry, and I'll provide warfare.</i>"
+        }
+    },
+    {
+        "Name": {
+            "CH": "《关于记忆永恒的解构》",
+            "EN": "\"On The Disintegration of Evermemoria\""
+        },
+        "Desc": {
+            "CH": "<br><i>地狱是个乐趣永存的地方，那儿不存在道德。</i>",
+            "EN": "<br><i>Hell is a place where pleasure persists and morality does not exist.</i>"
+        }
+    },
+    {
+        "Name": {
+            "CH": "《乐园陌影》",
+            "EN": "\"Stranger Than Paradise\""
+        },
+        "Desc": {
+            "CH": "<br><i>一片全新的天地，一切照旧的天地。</i>",
+            "EN": "<br><i>A whole new world, where everything remains the same.</i>"
+        }
+    },
+    {
+        "Name": {
+            "CH": "《假如醒于午夜》",
+            "EN": "\"If One Wakes at Midnight\""
+        },
+        "Desc": {
+            "CH": "<br><i>疑惑的知更鸟，阴郁的树——远远好过凝固的黎明。</i>",
+            "EN": "<br><i>The puzzled robin, the gloomy tree — far better than the frozen dawn.</i>"
+        }
+    },
+    {
+        "Name": {
+            "CH": "《午夜特快》",
+            "EN": "\"The Midnight Special\""
+        },
+        "Desc": {
+            "CH": "<br><i>就让这午夜列车，载我前往蜜糖之地。</i>",
+            "EN": "<br><i>Let this midnight train take me to the land of honey.</i>"
+        }
+    },
+    {
+        "Name": {
+            "CH": "《嗨，多莉！》",
+            "EN": "\"Hi, Dolly!\""
+        },
+        "Desc": {
+            "CH": "<br><i>多莉，以后再也别离开啦！</i>",
+            "EN": "<br><i>Don't you ever leave again, Dolly!</i>"
+        }
+    },
+    {
+        "Name": {
+            "CH": "《意乱情迷》",
+            "EN": "\"Spellbound\""
+        },
+        "Desc": {
+            "CH": "<br><i>每个精神分析医生都要先让别人诊断一下自己。</i>",
+            "EN": "<br><i>Every psychoanalyst must first have someone else diagnose them.</i>"
+        }
+    },
+    {
+        "Name": {
+            "CH": "《山巅之城》",
+            "EN": "\"City upon a Hill\""
+        },
+        "Desc": {
+            "CH": "<br><i>城造在山上，没有阴影可以遮蔽它。</i>",
+            "EN": "<br><i>The city is built on the mountain, with no shadow to shield it.</i>"
+        }
+    },
+    {
+        "Name": {
             "CH": "《镜像阶段》",
-            "EN": "<i>Stade du Miroir</i>"
+            "EN": "\"Stade du Miroir\""
         },
         "Desc": {
             "CH": "<br><i>名为「我」的存在，究竟是何时何地从何处诞生的？</i>",
@@ -14,7 +94,7 @@ var _rec = [
     {
         "Name": {
             "CH": "《能指链条》",
-            "EN": "<i>Chaîne Signifiante</i>"
+            "EN": "\"Chaîne Signifiante\""
         },
         "Desc": {
             "CH": "<br><i>请务必将支离破碎的存在连缀成世界的图景。</i>",
@@ -24,7 +104,7 @@ var _rec = [
     {
         "Name": {
             "CH": "《使一颗心免于哀伤》",
-            "EN": "<i>If I Can Stop One Heart From Breaking</i>"
+            "EN": "\"If I Can Stop One Heart From Breaking\""
         },
         "Desc": {
             "CH": "<br><i>消除一个生命的痛苦，平息一种酸辛，帮助一只昏厥的鸟儿回到巢中。</i>",
@@ -34,7 +114,7 @@ var _rec = [
     {
         "Name": {
             "CH": "《半途之屋》",
-            "EN": "<i>Halfway House</i>"
+            "EN": "\"Halfway House\""
         },
         "Desc": {
             "CH": "<br><i>通往无意识的漫长旅途。</i>",
@@ -44,7 +124,7 @@ var _rec = [
     {
         "Name": {
             "CH": "《快乐原则》",
-            "EN": "<i>Lustprinzip</i>"
+            "EN": "\"Lustprinzip\""
         },
         "Desc": {
             "CH": "<br><i>抛弃一切伤痛吧。入睡后，你便要加入无尽的狂欢了。</i>",
@@ -54,7 +134,7 @@ var _rec = [
     {
         "Name": {
             "CH": "《现实原则》",
-            "EN": "<i>Realitätsprinzip</i>"
+            "EN": "\"Realitätsprinzip\""
         },
         "Desc": {
             "CH": "<br><i>与一切规则道别吧。入睡后，你便不再需要它们了。</i>",
@@ -64,7 +144,7 @@ var _rec = [
     {
         "Name": {
             "CH": "《长眠不醒》",
-            "EN": "<i>The Big Sleep</i>"
+            "EN": "\"The Big Sleep\""
         },
         "Desc": {
             "CH": "<br><i>如果梦境如此美好，谁又舍得醒来呢？</i>",
@@ -74,7 +154,7 @@ var _rec = [
     {
         "Name": {
             "CH": "《倒扣的王牌》",
-            "EN": "<i>Ace in the Hole</i>"
+            "EN": "\"Ace in the Hole\""
         },
         "Desc": {
             "CH": "<br><i>最好的娱乐往往伴随着最大的风险。</i>",
@@ -84,7 +164,7 @@ var _rec = [
     {
         "Name": {
             "CH": "《黄金之地》",
-            "EN": "<i>Golden Land</i>"
+            "EN": "\"Golden Land\""
         },
         "Desc": {
             "CH": "<br><i>在银河最大的销金窟中，「消费主义」是本地的第一大宗教。</i>",
@@ -94,7 +174,7 @@ var _rec = [
     {
         "Name": {
             "CH": "《尘世乐园》",
-            "EN": "<i>This Side of Paradise</i>"
+            "EN": "\"This Side of Paradise\""
         },
         "Desc": {
             "CH": "<br><i>设想一个这样的梦境：你可在其中完全地控制自己，并获得一切自己所能设想的美好。</i>",
@@ -104,7 +184,7 @@ var _rec = [
     {
         "Name": {
             "CH": "《永不复焉》",
-            "EN": "<i>Nevermore</i>"
+            "EN": "\"Nevermore\""
         },
         "Desc": {
             "CH": "<br><i>乌鸦答曰：永不复焉！</i>",
@@ -124,7 +204,7 @@ var _rec = [
     {
         "Name": {
             "CH": "《公平游戏》",
-            "EN": "<i>Fair Play</i>"
+            "EN": "\"Fair Play\""
         },
         "Desc": {
             "CH": "<br><i>…第一、必须明确、公正地将所有线索呈现给主角……</i>",
@@ -134,7 +214,7 @@ var _rec = [
     {
         "Name": {
             "CH": "《另一方玩家》",
-            "EN": "<i>The Player on The Other Side</i>"
+            "EN": "\"The Player on The Other Side\""
         },
         "Desc": {
             "CH": "<br><i>在这场盛大的欢宴中，你并非唯一的玩家。</i>",
@@ -144,7 +224,7 @@ var _rec = [
     {
         "Name": {
             "CH": "《挑战读者》",
-            "EN": "<i>Challenge to the Reader</i>"
+            "EN": "\"Challenge to the Reader\""
         },
         "Desc": {
             "CH": "<br><i>所有线索已备齐，祝君狩猎愉快。</i>",
@@ -154,7 +234,7 @@ var _rec = [
     {
         "Name": {
             "CH": "《抵抗白昼》",
-            "EN": "<i>Against The Day</i>"
+            "EN": "\"Against The Day\""
         },
         "Desc": {
             "CH": "<br><i>心跳声如影随形，并时有金石交击之声。</i>",
@@ -624,7 +704,7 @@ var _rec = [
     {
         "Name": {
             "CH": "《一触即发》",
-            "EN": "<i>Flashpoint</i>"
+            "EN": "\"Flashpoint\""
         },
         "Desc": {
             "CH": "<br><i>压力爆炸的瞬间，甚至连呼吸都已忘却。</i>",

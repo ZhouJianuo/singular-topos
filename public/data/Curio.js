@@ -774,7 +774,7 @@ var _curio = [
         },
         "Desc": {
             "CH": "进入战斗时，所有角色星魂同调等级提高 1.0 级",
-            "EN": "Upon entering battle, increase all ally's Eidolon Resonance level by 1.0."
+            "EN": "Upon entering battle, increase all allies' Eidolon Resonance level by 1.0."
         },
         "Story": {
             "CH": "被做成奶酪外型的多面棱镜，每一个小孔都是单独镜面，被不同棱面照射到会产生不同效果，部分参与实验者被棱面照射后身体被放大或缩小，而部分参与实验者被照射后身体与原来并无区别，却无一例外接收了不属于自己的记忆，他们患上虚构记忆症，并认为在棱面中看到了星神浮黎谜样的面容。",
@@ -1015,8 +1015,8 @@ var _curio = [
             "EN": "Immediately gain 1.0 random 3-star Blessing(s). The next time you enter an Occurrence domain, no Occurrence will be triggered. This Curio will be destroyed after the effect is triggered 1.0 time(s)."
         },
         "Story": {
-            "CH": "琥珀纪与联觉信标推广一百纪后，星际贸易持续发展，资源交换成为燃眉之急。一些星球跃升成为炙手可热的星际埠口，第二次繁荣来临——史称「血锦之纪」，持续近五百个琥珀纪。血锦之纪在晚期进入荼蘼之势，然而即使是堪称浩劫的星际能源战争也未能耗尽第二次繁荣的辉煌成果。与此同时，「智识」博识尊突然中断了对宇宙奥秘的运算。",
-            "EN": "A hundred Eras after the proliferation of the Amber Era system and the Synesthesia Beacon, interstellar trade continued to develop and resource exchange became a pressing matter. A few planets ascended to become bustling interstellar hubs, signaling the onset of the Second Prosperity termed the \"Gloryblood Era.\" The Second Prosperity endured for nearly five hundred Amber Eras before entering a gradual decline, but not even the apocalyptic Interstellar Energy War could erase its resplendent achievements. At same time, Nous the Erudition unexpectedly terminated their calculations regarding the mysteries of the universe."
+            "CH": "琥珀纪与联觉信标推广一百纪后，星际贸易持续发展，资源交换成为燃眉之急。一些星球跃升成为炙手可热的星际埠口，第二次繁荣来临——史称「血锦之纪」，持续近五百个琥珀纪。血锦之纪在晚期进入颓靡之势，然而即使是堪称浩劫的星际能源战争也未能耗尽第二次繁荣的辉煌成果。与此同时，「智识」博识尊突然中断了对宇宙奥秘的运算。",
+            "EN": "A hundred Amber Eras after the proliferation of the Amber Era system and the Synesthesia Beacon, interstellar trade continued to develop and resource exchange became a pressing matter. A few planets ascended to become bustling interstellar hubs, signaling the onset of the Second Prosperity termed the \"Gloryblood Era.\" The Second Prosperity endured for nearly five hundred Amber Eras before entering a gradual decline, but not even the apocalyptic Interstellar Energy War could erase its resplendent achievements. At the same time, Nous the Erudition unexpectedly terminated their calculations regarding the mysteries of the universe."
         },
         "Icon": "1069.png",
         "Ver": "1.3"
@@ -1253,8 +1253,8 @@ var _curio = [
             "EN": "Gains 1.0 cheat attempt(s) after obtaining this Curio."
         },
         "Story": {
-            "CH": "相较石块、木料、黄金、超钛金属与货币，游牧矿工更热衷于挖掘「以太」。他们曾一度痴迷在矿地间用手指挖掘巨量「以太」的手感，但这种体验曾遭来不幸：数名超巨型矿工终在不明区域被火药炸死，其间仅一位身材矮小的矿工得以幸存，它的胡须自此以后永远跳跃着一撮火焰。",
-            "EN": "Compared to currencies of stone, wood, gold, or supernium metals, the nomadic miners are more obsessed with the excavation of Aether. There was a period where they were even infatuated with the sensation of digging vast quantities of Aether using their bare hands while in the mines, but these experiences brought calamity upon them. Several large-statured miners met their ends via exploding gunpowder in unknown areas, while only a short and small miner managed to survive. Its beard henceforth always flickered with a pinch of flame."
+            "CH": "相较石块、木料、黄金、超钛金属与货币，游牧矿工更热衷于挖掘「以太」。他们曾一度痴迷在矿地间用手指挖掘巨量「以太」的手感，但这种体验曾招来不幸：数名超巨型矿工终在不明区域被火药炸死，其间仅一位身材矮小的矿工得以幸存，它的胡须自此以后永远跳跃着一撮火焰。",
+            "EN": "Compared to currencies of stone, wood, gold, or supernium metals, the nomadic miners are more obsessed with the excavation of Aether. There was a period when they were infatuated with the sensation of digging vast quantities of Aether using their bare hands while in the mines, but these experiences brought calamity upon them. Several large-statured miners finally met their ends via exploding gunpowder in unknown areas, while only a short and small miner managed to survive. Its beard henceforth always flickered with a pinch of flame."
         },
         "Icon": "1066.png",
         "Ver": "1.3"
@@ -1576,7 +1576,7 @@ var _curio = [
             "EN": "Possessing this Curio is considered the equivalent of possessing 1.0 Blessing(s) of each Path."
         },
         "Story": {
-            "CH": "真理究竟为何物？无人能能参透。倘若「愚钝」是世界的顽疾，传播智慧便是在医治宇宙。但「书」可以医治众生吗？根据博识学会记载：历史上，月桂冠系的哲学家联合曾爆发过一场内乱，血液和机油浸染了沉思者柱廊的所有书籍，哲人们死伤无数，最终被目睹这一切的公司雇员称为「理性的溃败」——书籍以这样荒谬的方式，实现了对一个世界的再清洗。",
+            "CH": "真理究竟为何物？无人能参透。倘若「愚钝」是世界的顽疾，传播智慧便是在医治宇宙。但「书」可以医治众生吗？根据博识学会记载：历史上，月桂冠系的哲学家联合曾爆发过一场内乱，血液和机油浸染了沉思者柱廊的所有书籍，哲人们死伤无数，最终被目睹这一切的公司雇员称为「理性的溃败」——书籍以这样荒谬的方式，实现了对一个世界的再清洗。",
             "EN": "What is truth? No one truly knows. Supposing that \"stupidity\" is an incurable disease in this world, then disseminating knowledge counts as a treatment for the universe. But can \"books\" mend all living things? According to the Intelligentsia Guild's historical records, the Philosopher Union of the Laurel Wreath Galaxy once erupted in civil war, and blood and machine oil had stained all the books in the contemplators' corridors. Uncountable numbers of scholars died, and the IPC employees who witnessed it all deemed this occurrence \"Rationality's Fall\" — Through such absurd means, books cleansed a world of its impurities once more."
         },
         "Icon": "1080.png",
@@ -1678,7 +1678,7 @@ var _curio = [
             "EN": "Immediately obtains 3.0 random Blessings. After winning a battle, the selectable number of Blessings becomes 1. This Curio will be destroyed after 2.0 battles"
         },
         "Story": {
-            "CH": "天才俱乐部群星荟萃，总有人想为天才们的创造分个高低——阮·梅的口袋便在其中名列前茅。据称她希望将宇宙随身携带，却最终因为口袋内的维度不断膨胀而不得不将其封印；阿阮袋最后的时光在橱窗中度过，斯蒂芬·劳艾德曾将其视作重要的伙伴，大抵是因为某种特殊的情节——他不曾向任何人透露过，自己想钻进口袋里躲避家人的想法。",
+            "CH": "天才俱乐部群星荟萃，总有人想为天才们的创造分个高低——阮·梅的口袋便在其中名列前茅。据称她希望将宇宙随身携带，却最终因为口袋内的维度不断膨胀而不得不将其封印；阿阮袋最后的时光在橱窗中度过，斯蒂芬·劳艾德曾将其视作重要的伙伴，大抵是因为某种特殊的情结——他不曾向任何人透露过，自己想钻进口袋里躲避家人的想法。",
             "EN": "The Genius Society is awash with legendary figures, and so there are always people who wish to rank the creations of each genius. Ruan Mei's pouch stands at the forefront of such creations. It is said that she wished to carry the universe in her pocket, yet was forced to seal it when the dimensionality within continued to expand. The A-Ruan Pouch spent the remainder of its time in a display window. Stephen Lloyd once viewed it as his important companion for some reason — he never revealed to anyone how he contemplated hiding within the pouch to avoid his family."
         },
         "Icon": "1078.png",

@@ -133,6 +133,56 @@ var _monster = [
         "Csxylic": "SCNonCategorized/1002011"
     },
     {
+        "_id": 100201101,
+        "Key": "Monster_W1_CocoliaP1_01_Config",
+        "Name": {
+            "CH": "冰锋",
+            "EN": "Ice Edge"
+        },
+        "Desc": {
+            "CH": "守护者创造的巨大冰矛，能释放出席卷全场的刺骨霜风。",
+            "EN": "A giant lance of ice created by the guardian. It can unleash a piercing frost wind that sweeps across the field."
+        },
+        "Stats": {
+            "HP": 0.2,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "Frozen": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100201101
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_1002011.png",
+        "Figure": "monsterfigure/Monster_1002011.png",
+        "AllSkills": [
+            100201101
+        ],
+        "Csxylic": "SCNonCategorized/1002011"
+    },
+    {
         "_id": 1002012,
         "Key": "Monster_W1_CocoliaP1_02_Config",
         "Name": {
@@ -145,6 +195,56 @@ var _monster = [
         },
         "Stats": {
             "HP": 0.75,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Fire",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "Frozen": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100201201
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_1002011.png",
+        "Figure": "monsterfigure/Monster_1002012.png",
+        "AllSkills": [
+            100201201
+        ],
+        "Csxylic": "SCNonCategorized/1002012"
+    },
+    {
+        "_id": 100201201,
+        "Key": "Monster_W1_CocoliaP1_02_Config",
+        "Name": {
+            "CH": "冰锋",
+            "EN": "Ice Edge"
+        },
+        "Desc": {
+            "CH": "守护者创造的巨大冰矛，能释放出席卷全场的刺骨霜风。",
+            "EN": "A giant lance of ice created by the guardian. It can unleash a piercing frost wind that sweeps across the field."
+        },
+        "Stats": {
+            "HP": 0.2,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 100.0,
@@ -1618,6 +1718,116 @@ var _monster = [
         "Csxylic": "SCJarilo-VI/1002020"
     },
     {
+        "_id": 100202017,
+        "Key": "Monster_W1_Soldier01_03_Config",
+        "Name": {
+            "CH": "流浪者",
+            "EN": "Vagrant"
+        },
+        "Desc": {
+            "CH": "困居于下层区的人们为了生存，往往会不惜铤而走险深入裂界寻找任何可用的物资，其中被他们掘出的古代机器成了他们最好的帮手。",
+            "EN": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper."
+        },
+        "Stats": {
+            "HP": 2.0,
+            "ATK": 22.5,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 2.0
+        },
+        "StatsExtra": {
+            "SPD": 44.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100202001,
+                    100202002
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1002020.png",
+        "Figure": "monsterfigure/Monster_1002020.png",
+        "Status": [
+            210020201
+        ],
+        "AllSkills": [
+            100202001,
+            100202002
+        ],
+        "Csxylic": "SCJarilo-VI/1002020"
+    },
+    {
+        "_id": 100202019,
+        "Key": "Monster_W1_Soldier01_03_Config",
+        "Name": {
+            "CH": "流浪者",
+            "EN": "Vagrant"
+        },
+        "Desc": {
+            "CH": "困居于下层区的人们为了生存，往往会不惜铤而走险深入裂界寻找任何可用的物资，其中被他们掘出的古代机器成了他们最好的帮手。",
+            "EN": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper."
+        },
+        "Stats": {
+            "HP": 4.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 2.0
+        },
+        "StatsExtra": {
+            "Stance": 1.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100202001,
+                    100202002
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1002020.png",
+        "Figure": "monsterfigure/Monster_1002020.png",
+        "Status": [
+            210020201
+        ],
+        "AllSkills": [
+            100202001,
+            100202002
+        ],
+        "Csxylic": "SCJarilo-VI/1002020"
+    },
+    {
         "_id": 100202101,
         "Key": "Monster_W1_Soldier01_03_Config",
         "Name": {
@@ -2416,6 +2626,189 @@ var _monster = [
         ],
         "RESBase": {
             "Fire": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100203001,
+                    100203002
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    100203003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1002030.png",
+        "Figure": "monsterfigure/Monster_1002030.png",
+        "Status": [
+            210020301,
+            210020302
+        ],
+        "AllSkills": [
+            100203001,
+            100203002
+        ],
+        "Csxylic": "SCJarilo-VI/1002030"
+    },
+    {
+        "_id": 100203013,
+        "Key": "Monster_W1_Soldier04_00_Config",
+        "Name": {
+            "CH": "银鬃炮手",
+            "EN": "Silvermane Cannoneer"
+        },
+        "Desc": {
+            "CH": "银鬃铁卫中的炮手，使用便携的手炮进行战斗。<br> 在战斗中，银鬃炮手会和其它目标发动猛烈的连携攻击。",
+            "EN": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, Silvermane Cannoneers will launch brutal chain attacks with their allies."
+        },
+        "Stats": {
+            "HP": 0.66,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 20.0
+        },
+        "Weak": [
+            "Imaginary",
+            "Fire",
+            "Phys"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100203001,
+                    100203002
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    100203003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1002030.png",
+        "Figure": "monsterfigure/Monster_1002030.png",
+        "Status": [
+            210020301,
+            210020302
+        ],
+        "AllSkills": [
+            100203001,
+            100203002
+        ],
+        "Csxylic": "SCJarilo-VI/1002030"
+    },
+    {
+        "_id": 100203016,
+        "Key": "Monster_W1_Soldier04_00_Config",
+        "Name": {
+            "CH": "银鬃炮手",
+            "EN": "Silvermane Cannoneer"
+        },
+        "Desc": {
+            "CH": "银鬃铁卫中的炮手，使用便携的手炮进行战斗。<br> 在战斗中，银鬃炮手会和其它目标发动猛烈的连携攻击。",
+            "EN": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, Silvermane Cannoneers will launch brutal chain attacks with their allies."
+        },
+        "Stats": {
+            "HP": 2.1,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Imaginary",
+            "Fire",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100203001,
+                    100203002
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    100203003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1002030.png",
+        "Figure": "monsterfigure/Monster_1002030.png",
+        "Status": [
+            210020301,
+            210020302
+        ],
+        "AllSkills": [
+            100203001,
+            100203002
+        ],
+        "Csxylic": "SCJarilo-VI/1002030"
+    },
+    {
+        "_id": 100203017,
+        "Key": "Monster_W1_Soldier04_00_Config",
+        "Name": {
+            "CH": "银鬃炮手",
+            "EN": "Silvermane Cannoneer"
+        },
+        "Desc": {
+            "CH": "银鬃铁卫中的炮手，使用便携的手炮进行战斗。<br> 在战斗中，银鬃炮手会和其它目标发动猛烈的连携攻击。",
+            "EN": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, Silvermane Cannoneers will launch brutal chain attacks with their allies."
+        },
+        "Stats": {
+            "HP": 2.75,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 40.0
+        },
+        "Weak": [
+            "Imaginary",
+            "Fire",
+            "Phys"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
             "Elec": 0.2,
             "Wind": 0.2,
             "Quantum": 0.2
@@ -3627,6 +4020,56 @@ var _monster = [
         "Csxylic": "SCJarilo-VI/1002040"
     },
     {
+        "_id": 100204024,
+        "Key": "Monster_W1_Soldier01_00_Config",
+        "Name": {
+            "CH": "银鬃近卫",
+            "EN": "Silvermane Soldier"
+        },
+        "Desc": {
+            "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的近卫战士，负责冲锋陷阵。<br>战斗中，银鬃近卫的攻击会降低我方的防御力。",
+            "EN": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers' attacks will reduce their enemies' defense during combat."
+        },
+        "Stats": {
+            "HP": 1.6,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 83.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100204001
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1001010.png",
+        "Figure": "monsterfigure/Monster_1002040.png",
+        "Status": [
+            210010101
+        ],
+        "AllSkills": [
+            100204001
+        ],
+        "Csxylic": "SCJarilo-VI/1002040"
+    },
+    {
         "_id": 1002041,
         "Key": "Monster_W1_Soldier01_00_Config",
         "Name": {
@@ -3688,7 +4131,7 @@ var _monster = [
         },
         "Stats": {
             "HP": 2.0,
-            "ATK": 22.5,
+            "ATK": 13.84614,
             "DEF": 1.0,
             "SPD": 83.0,
             "Stance": 2.0
@@ -4654,6 +5097,109 @@ var _monster = [
             "Elec": 0.2,
             "Wind": 0.2,
             "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100205001
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1001020.png",
+        "Figure": "monsterfigure/Monster_1002050.png",
+        "Status": [
+            30020005
+        ],
+        "AllSkills": [
+            100205001
+        ],
+        "Csxylic": "SCJarilo-VI/1002050"
+    },
+    {
+        "_id": 100205019,
+        "Key": "Monster_W1_Soldier02_00_Config",
+        "Name": {
+            "CH": "银鬃射手",
+            "EN": "Silvermane Gunner"
+        },
+        "Desc": {
+            "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的射手，负责狙击敌人。<br>战斗中，银鬃射手的射击会对我方造成裂伤。",
+            "EN": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat."
+        },
+        "Stats": {
+            "HP": 1.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Phys",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100205001
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1001020.png",
+        "Figure": "monsterfigure/Monster_1002050.png",
+        "Status": [
+            30020005
+        ],
+        "AllSkills": [
+            100205001
+        ],
+        "Csxylic": "SCJarilo-VI/1002050"
+    },
+    {
+        "_id": 100205020,
+        "Key": "Monster_W1_Soldier02_00_Config",
+        "Name": {
+            "CH": "银鬃射手",
+            "EN": "Silvermane Gunner"
+        },
+        "Desc": {
+            "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的射手，负责狙击敌人。<br>战斗中，银鬃射手的射击会对我方造成裂伤。",
+            "EN": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners' shots will inflict Bleed on their enemies during combat."
+        },
+        "Stats": {
+            "HP": 0.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 2.0
+        },
+        "StatsExtra": {
+            "SPD": 40.0
+        },
+        "Weak": [
+            "Phys",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
             "Imaginary": 0.2
         },
         "StatusRESBase": 0.1,
@@ -5778,6 +6324,125 @@ var _monster = [
         "Csxylic": "SCJarilo-VI/1003010"
     },
     {
+        "_id": 100301019,
+        "Key": "Monster_W1_Soldier03_00_Config",
+        "Name": {
+            "CH": "银鬃尉官",
+            "EN": "Silvermane Lieutenant"
+        },
+        "Desc": {
+            "CH": "贝洛伯格的戍卫部队「银鬃铁卫」分队的领导者。<br>战斗中，银鬃尉官会架起巨盾并强化自身。攻击架盾状态下的银鬃尉官，会立即遭到强力的反击。",
+            "EN": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter."
+        },
+        "Stats": {
+            "HP": 5.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 8.0
+        },
+        "StatsExtra": {
+            "Stance": -2.0
+        },
+        "Weak": [
+            "Phys",
+            "Ice",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100301001,
+                    100301002,
+                    100301003,
+                    100301004
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1003010.png",
+        "Figure": "monsterfigure/Monster_1003010.png",
+        "Status": [
+            210030102
+        ],
+        "AllSkills": [
+            100301001,
+            100301002,
+            100301003,
+            100301004
+        ],
+        "Csxylic": "SCJarilo-VI/1003010"
+    },
+    {
+        "_id": 100301020,
+        "Key": "Monster_W1_Soldier03_00_Config",
+        "Name": {
+            "CH": "银鬃尉官",
+            "EN": "Silvermane Lieutenant"
+        },
+        "Desc": {
+            "CH": "贝洛伯格的戍卫部队「银鬃铁卫」分队的领导者。<br>战斗中，银鬃尉官会架起巨盾并强化自身。攻击架盾状态下的银鬃尉官，会立即遭到强力的反击。",
+            "EN": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can raise a giant shield during combat and Enhance themselves. Attacking a Silvermane Lieutenant with their shield raised will immediately result in a fierce Counter."
+        },
+        "Stats": {
+            "HP": 10.0,
+            "ATK": 13.84614,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 8.0
+        },
+        "StatsExtra": {
+            "SPD": -40.0,
+            "Stance": 4.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Elec"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100301001,
+                    100301002,
+                    100301003,
+                    100301004
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1003010.png",
+        "Figure": "monsterfigure/Monster_1003010.png",
+        "Status": [
+            210030102
+        ],
+        "AllSkills": [
+            100301001,
+            100301002,
+            100301003,
+            100301004
+        ],
+        "Csxylic": "SCJarilo-VI/1003010"
+    },
+    {
         "_id": 1003011,
         "Key": "Monster_W1_Soldier03_00_Config_A",
         "Name": {
@@ -5804,6 +6469,67 @@ var _monster = [
             "Fire": 0.2,
             "Elec": 0.2,
             "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100301101,
+                    100301102,
+                    100301103,
+                    100301104,
+                    100301105
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_1003010.png",
+        "Figure": "monsterfigure/Monster_1003010.png",
+        "Status": [
+            210020201,
+            210030102
+        ],
+        "AllSkills": [
+            100301101,
+            100301102,
+            100301103,
+            100301104,
+            100301105
+        ]
+    },
+    {
+        "_id": 100301101,
+        "Key": "Monster_W1_Soldier03_00_Config_A",
+        "Name": {
+            "CH": "银鬃尉官（错误）",
+            "EN": "Silvermane Lieutenant (Bug)"
+        },
+        "Desc": {
+            "CH": "代码受到影响后的错误投影。参照本体为贝洛伯格的戍卫部队「银鬃铁卫」分队的领导者。<br>战斗中，只要敌方还有队友存在，银鬃尉官会一直架起巨盾。攻击架盾状态下的银鬃尉官，会立即遭到强力的反击。",
+            "EN": "A false projection produced by compromised codes. The original reference entity is the leader of a squad of Belobog's Silvermane Guards.<br>As long as there are remaining friendly units, Silvermane Lieutenants will persistently raise a giant shield during combat. Attacking a Silvermane Lieutenant with their shield raised will result in a fierce counterattack."
+        },
+        "Stats": {
+            "HP": 16.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 12.0
+        },
+        "StatsExtra": {
+            "Stance": 6.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2,
             "Imaginary": 0.2
         },
         "StatusRESBase": 0.2,
@@ -5946,6 +6672,63 @@ var _monster = [
         "AllSkills": [
             100301301,
             100301302
+        ]
+    },
+    {
+        "_id": 1003014,
+        "Key": "Monster_W1_Soldier03_00_Config_A_Fever",
+        "Name": {
+            "CH": "dev_银鬃尉官（错误）",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_代码受到影响后的错误投影。参照本体为贝洛伯格的戍卫部队「银鬃铁卫」分队的领导者。<br>战斗中，只要敌方还有队友存在，银鬃尉官会一直架起巨盾。攻击架盾状态下的银鬃尉官，会立即遭到强力的反击。",
+            "EN": ""
+        },
+        "Stats": {
+            "HP": 16.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 12.0
+        },
+        "StatsExtra": {
+            "Stance": 6.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100301401,
+                    100301402,
+                    100301403,
+                    100301404,
+                    100301405
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_1003010.png",
+        "Figure": "monsterfigure/Monster_1003010.png",
+        "AllSkills": [
+            100301401,
+            100301402,
+            100301403,
+            100301404,
+            100301405
         ]
     },
     {
@@ -6260,6 +7043,148 @@ var _monster = [
             "Phys": 0.4,
             "Ice": 0.6,
             "Wind": 0.4,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.5,
+            "Frozen": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100401001,
+                    100401002,
+                    100401003,
+                    100401004,
+                    100401005
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    100401006
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1004010.png",
+        "Figure": "monsterfigure/Monster_1004010.png",
+        "Status": [
+            30020012,
+            210040114
+        ],
+        "AllSkills": [
+            100401001,
+            100401002,
+            100401003,
+            100401004,
+            100401005
+        ],
+        "Csxylic": "SCJarilo-VI/1004010"
+    },
+    {
+        "_id": 100401005,
+        "Key": "Monster_W1_CocoliaP1_00_Config",
+        "Name": {
+            "CH": "可可利亚",
+            "EN": "Cocolia"
+        },
+        "Desc": {
+            "CH": "贝洛伯格的守护者，永屹之城贝洛伯格无可质疑的统治者。<br>可可利亚秉持传承自历代守护者的神迹权能，在战斗中号令冰雪的力量冻结敌人。",
+            "EN": "The Guardian of Belobog, and the indisputable ruler of the Towering Citadel, Belobog.<br>Cocolia possesses the divine authority passed down through the generations of Guardians, giving her command over ice and snow to freeze her enemies in battle."
+        },
+        "Stats": {
+            "HP": 20.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 12.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.4,
+            "Ice": 0.6,
+            "Wind": 0.4,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.5,
+            "Frozen": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100401001,
+                    100401002,
+                    100401003,
+                    100401004,
+                    100401005
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    100401006
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1004010.png",
+        "Figure": "monsterfigure/Monster_1004010.png",
+        "Status": [
+            30020012,
+            210040114
+        ],
+        "AllSkills": [
+            100401001,
+            100401002,
+            100401003,
+            100401004,
+            100401005
+        ],
+        "Csxylic": "SCJarilo-VI/1004010"
+    },
+    {
+        "_id": 100401006,
+        "Key": "Monster_W1_CocoliaP1_00_Config",
+        "Name": {
+            "CH": "可可利亚",
+            "EN": "Cocolia"
+        },
+        "Desc": {
+            "CH": "贝洛伯格的守护者，永屹之城贝洛伯格无可质疑的统治者。<br>可可利亚秉持传承自历代守护者的神迹权能，在战斗中号令冰雪的力量冻结敌人。",
+            "EN": "The Guardian of Belobog, and the indisputable ruler of the Towering Citadel, Belobog.<br>Cocolia possesses the divine authority passed down through the generations of Guardians, giving her command over ice and snow to freeze her enemies in battle."
+        },
+        "Stats": {
+            "HP": 99.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 12.0
+        },
+        "StatsExtra": {
+            "SPD": 10.0,
+            "Stance": 4.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Ice": 0.6,
+            "Wind": 0.4,
+            "Quantum": 0.2,
             "Imaginary": 0.2
         },
         "StatusRESBase": 0.3,
@@ -6954,6 +7879,131 @@ var _monster = [
         "Csxylic": "SCJarilo-VI/1004020"
     },
     {
+        "_id": 100402006,
+        "Key": "Monster_W1_Gepard_00_Config",
+        "Name": {
+            "CH": "杰帕德",
+            "EN": "Gepard"
+        },
+        "Desc": {
+            "CH": "银鬃铁卫的戍卫长。<br>杰帕德会指挥麾下士兵集中攻击，并且能为士兵提供免疫一次攻击的屏障。",
+            "EN": "Captain of the Silvermane Guards.<br>Gepard can command his soldiers to focus their attacks, and provide each of them with a barrier that blocks one attack."
+        },
+        "Stats": {
+            "HP": 20.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 10.0
+        },
+        "Weak": [
+            "Phys",
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100402001,
+                    100402002,
+                    100402003,
+                    100402004,
+                    100402005
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1003020.png",
+        "Figure": "monsterfigure/Monster_1004020.png",
+        "Status": [
+            210030201,
+            210030204
+        ],
+        "AllSkills": [
+            100402001,
+            100402002,
+            100402003,
+            100402004,
+            100402005
+        ],
+        "Csxylic": "SCJarilo-VI/1004020"
+    },
+    {
+        "_id": 100402007,
+        "Key": "Monster_W1_Gepard_00_Config",
+        "Name": {
+            "CH": "杰帕德",
+            "EN": "Gepard"
+        },
+        "Desc": {
+            "CH": "银鬃铁卫的戍卫长。<br>杰帕德会指挥麾下士兵集中攻击，并且能为士兵提供免疫一次攻击的屏障。",
+            "EN": "Captain of the Silvermane Guards.<br>Gepard can command his soldiers to focus their attacks, and provide each of them with a barrier that blocks one attack."
+        },
+        "Stats": {
+            "HP": 142.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 10.0
+        },
+        "Weak": [
+            "Phys",
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.4,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100402001,
+                    100402002,
+                    100402003,
+                    100402004,
+                    100402005
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1003020.png",
+        "Figure": "monsterfigure/Monster_1004020.png",
+        "Status": [
+            210030201,
+            210030204
+        ],
+        "AllSkills": [
+            100402001,
+            100402002,
+            100402003,
+            100402004,
+            100402005
+        ],
+        "Csxylic": "SCJarilo-VI/1004020"
+    },
+    {
         "_id": 1004021,
         "Key": "Monster_W1_Gepard_00_Config",
         "Name": {
@@ -7514,6 +8564,122 @@ var _monster = [
         },
         "StatsExtra": {
             "Stance": 1.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100403001,
+                    100403002,
+                    100403003,
+                    100403004
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1004030.png",
+        "Figure": "monsterfigure/Monster_1004030.png",
+        "AllSkills": [
+            100403001,
+            100403002,
+            100403003,
+            100403004
+        ],
+        "Csxylic": "SCJarilo-VI/1004030"
+    },
+    {
+        "_id": 100403003,
+        "Key": "Monster_W1_Bronya_00_Config",
+        "Name": {
+            "CH": "布洛妮娅",
+            "EN": "Bronya"
+        },
+        "Desc": {
+            "CH": "贝洛伯格守护者的继任者，银鬃铁卫的统帅。<br>布洛妮娅会使用多种战术攻击敌人，并大幅提升友军的作战能力。",
+            "EN": "Successor to Belobog's Guardian, and commander of the Silvermane Guards.<br>Bronya can use various tactics to attack her enemies, and greatly enhance the battle prowess of all allies."
+        },
+        "Stats": {
+            "HP": 21.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 7.0
+        },
+        "StatsExtra": {
+            "SPD": 20.0,
+            "Stance": 13.0
+        },
+        "Weak": [
+            "Fire",
+            "Phys",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    100403001,
+                    100403002,
+                    100403003,
+                    100403004
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1004030.png",
+        "Figure": "monsterfigure/Monster_1004030.png",
+        "AllSkills": [
+            100403001,
+            100403002,
+            100403003,
+            100403004
+        ],
+        "Csxylic": "SCJarilo-VI/1004030"
+    },
+    {
+        "_id": 100403004,
+        "Key": "Monster_W1_Bronya_00_Config",
+        "Name": {
+            "CH": "布洛妮娅",
+            "EN": "Bronya"
+        },
+        "Desc": {
+            "CH": "贝洛伯格守护者的继任者，银鬃铁卫的统帅。<br>布洛妮娅会使用多种战术攻击敌人，并大幅提升友军的作战能力。",
+            "EN": "Successor to Belobog's Guardian, and commander of the Silvermane Guards.<br>Bronya can use various tactics to attack her enemies, and greatly enhance the battle prowess of all allies."
+        },
+        "Stats": {
+            "HP": 20.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 7.0
         },
         "Weak": [
             "Phys",
@@ -8888,6 +10054,55 @@ var _monster = [
             "Ice": 0.2,
             "Wind": 0.2,
             "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    101201001,
+                    101201002
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1012010.png",
+        "Figure": "monsterfigure/Monster_1012010.png",
+        "AllSkills": [
+            101201001,
+            101201002
+        ],
+        "Csxylic": "SCJarilo-VI/1012010"
+    },
+    {
+        "_id": 101201017,
+        "Key": "Monster_W1_Mecha02_00_Config",
+        "Name": {
+            "CH": "自动机兵 · 战犬",
+            "EN": "Automaton Hound"
+        },
+        "Desc": {
+            "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，形如某种载具，然而人们似乎早就忘却了它载具的用途。<br>战斗中自动机兵「战犬」能提供支援，回复战友的生命。",
+            "EN": "An automaton pieced together with Old World technology. It looks like a transportation vehicle whose purpose has long been forgotten.<br>In combat, Automaton Hounds can provide support and restore HP to its allies."
+        },
+        "Stats": {
+            "HP": 0.75,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Quantum",
+            "Elec"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
             "Imaginary": 0.2
         },
         "StatusRESBase": 0.1,
@@ -12187,6 +13402,271 @@ var _monster = [
         "Csxylic": "SCJarilo-VI/1013010"
     },
     {
+        "_id": 101301020,
+        "Key": "Monster_W1_Mecha03_00_Config",
+        "Name": {
+            "CH": "自动机兵 · 灰熊",
+            "EN": "Automaton Grizzly"
+        },
+        "Desc": {
+            "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，加装了厚重的铠甲，用于冲锋陷阵保护银鬃铁卫。<br>战斗中，自动机兵「灰熊」会发出信号召来「蜘蛛」合作战斗，同时会积蓄动能发出强力一击。",
+            "EN": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack."
+        },
+        "Stats": {
+            "HP": 13.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 14.0
+        },
+        "Weak": [
+            "Fire",
+            "Quantum",
+            "Phys"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    101301001,
+                    101301002,
+                    101301003,
+                    101301004,
+                    101301009
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    101301005
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1013010.png",
+        "Figure": "monsterfigure/Monster_1013010.png",
+        "Status": [
+            30020010
+        ],
+        "AllSkills": [
+            101301001,
+            101301002,
+            101301003,
+            101301004,
+            101301009
+        ],
+        "Csxylic": "SCJarilo-VI/1013010"
+    },
+    {
+        "_id": 101301021,
+        "Key": "Monster_W1_Mecha03_00_Config",
+        "Name": {
+            "CH": "自动机兵 · 灰熊",
+            "EN": "Automaton Grizzly"
+        },
+        "Desc": {
+            "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，加装了厚重的铠甲，用于冲锋陷阵保护银鬃铁卫。<br>战斗中，自动机兵「灰熊」会发出信号召来「蜘蛛」合作战斗，同时会积蓄动能发出强力一击。",
+            "EN": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack."
+        },
+        "Stats": {
+            "HP": 9.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 14.0
+        },
+        "StatsExtra": {
+            "Stance": -2.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Elec"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    101301001,
+                    101301002,
+                    101301003,
+                    101301004,
+                    101301009
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    101301005
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1013010.png",
+        "Figure": "monsterfigure/Monster_1013010.png",
+        "Status": [
+            30020010
+        ],
+        "AllSkills": [
+            101301001,
+            101301002,
+            101301003,
+            101301004,
+            101301009
+        ],
+        "Csxylic": "SCJarilo-VI/1013010"
+    },
+    {
+        "_id": 101301022,
+        "Key": "Monster_W1_Mecha03_00_Config",
+        "Name": {
+            "CH": "自动机兵 · 灰熊",
+            "EN": "Automaton Grizzly"
+        },
+        "Desc": {
+            "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，加装了厚重的铠甲，用于冲锋陷阵保护银鬃铁卫。<br>战斗中，自动机兵「灰熊」会发出信号召来「蜘蛛」合作战斗，同时会积蓄动能发出强力一击。",
+            "EN": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack."
+        },
+        "Stats": {
+            "HP": 11.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 14.0
+        },
+        "StatsExtra": {
+            "Stance": -7.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    101301001,
+                    101301002,
+                    101301003,
+                    101301004,
+                    101301009
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    101301005
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1013010.png",
+        "Figure": "monsterfigure/Monster_1013010.png",
+        "Status": [
+            30020010
+        ],
+        "AllSkills": [
+            101301001,
+            101301002,
+            101301003,
+            101301004,
+            101301009
+        ],
+        "Csxylic": "SCJarilo-VI/1013010"
+    },
+    {
+        "_id": 101301023,
+        "Key": "Monster_W1_Mecha03_00_Config",
+        "Name": {
+            "CH": "自动机兵 · 灰熊",
+            "EN": "Automaton Grizzly"
+        },
+        "Desc": {
+            "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，加装了厚重的铠甲，用于冲锋陷阵保护银鬃铁卫。<br>战斗中，自动机兵「灰熊」会发出信号召来「蜘蛛」合作战斗，同时会积蓄动能发出强力一击。",
+            "EN": "An automaton pieced together with Old World technology. It has been reinforced with durable armor, so it can charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlys will summon Automaton Spiders and unleash a powerful charged attack."
+        },
+        "Stats": {
+            "HP": 5.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 14.0
+        },
+        "StatsExtra": {
+            "Stance": -8.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Elec"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    101301001,
+                    101301002,
+                    101301003,
+                    101301004,
+                    101301009
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    101301005
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1013010.png",
+        "Figure": "monsterfigure/Monster_1013010.png",
+        "Status": [
+            30020010
+        ],
+        "AllSkills": [
+            101301001,
+            101301002,
+            101301003,
+            101301004,
+            101301009
+        ],
+        "Csxylic": "SCJarilo-VI/1013010"
+    },
+    {
         "_id": 1013011,
         "Key": "Monster_W1_Mecha03_00_Config",
         "Name": {
@@ -12212,6 +13692,73 @@ var _monster = [
         "RESBase": {
             "Phys": 0.2,
             "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    101301101,
+                    101301102,
+                    101301103,
+                    101301104,
+                    101301109
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    101301105
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_1013010.png",
+        "Figure": "monsterfigure/Monster_1013010.png",
+        "Status": [
+            30020010,
+            210130101
+        ],
+        "AllSkills": [
+            101301101,
+            101301102,
+            101301103,
+            101301104,
+            101301109
+        ]
+    },
+    {
+        "_id": 101301101,
+        "Key": "Monster_W1_Mecha03_00_Config",
+        "Name": {
+            "CH": "自动机兵 · 灰熊（错误）",
+            "EN": "Automaton Grizzly (Bug)"
+        },
+        "Desc": {
+            "CH": "代码受到影响后的错误投影。参照本体为以旧世界遗留的科技拼凑制造的自动机器单元，加装了厚重的铠甲，用于冲锋陷阵保护银鬃铁卫。<br>战斗中，自动机兵「灰熊」（错误）会发出信号召来「蜘蛛」和「甲虫」合作战斗，同时会积蓄动能发出强力攻击。",
+            "EN": "A false projection produced by compromised codes. The original reference entity is an automaton pieced together with Old World technology. It's been reinforced with durable armor to charge forward and protect the Silvermane Guards.<br>In combat, Automaton Grizzlies (Bug) will send out a signal to summon Automaton Spiders and Beatles, and at the same time unleash powerful charged attacks."
+        },
+        "Stats": {
+            "HP": 18.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 16.0
+        },
+        "StatsExtra": {
+            "Stance": 4.0
+        },
+        "Weak": [
+            "Wind",
+            "Ice",
+            "Elec"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
             "Quantum": 0.2,
             "Imaginary": 0.2
         },
@@ -13762,6 +15309,244 @@ var _monster = [
         "Csxylic": "SCJarilo-VI/1013020"
     },
     {
+        "_id": 101302025,
+        "Key": "Monster_W1_Mecha04_00_Config",
+        "Name": {
+            "CH": "自动机兵 · 齿狼",
+            "EN": "Automaton Direwolf"
+        },
+        "Desc": {
+            "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，少见的人形机械，其右臂部分统一装置着链锯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「齿狼」的链锯会造成裂伤，令对手持续损失生命值。",
+            "EN": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT."
+        },
+        "Stats": {
+            "HP": 38.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 10.0
+        },
+        "Weak": [
+            "Ice",
+            "Elec",
+            "Fire"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    101302001,
+                    101302002,
+                    101302003,
+                    101302004
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1013020.png",
+        "Figure": "monsterfigure/Monster_1013020.png",
+        "Status": [
+            210130201,
+            210130202
+        ],
+        "AllSkills": [
+            101302001,
+            101302002,
+            101302003,
+            101302004
+        ],
+        "Csxylic": "SCJarilo-VI/1013020"
+    },
+    {
+        "_id": 101302026,
+        "Key": "Monster_W1_Mecha04_00_Config",
+        "Name": {
+            "CH": "自动机兵 · 齿狼",
+            "EN": "Automaton Direwolf"
+        },
+        "Desc": {
+            "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，少见的人形机械，其右臂部分统一装置着链锯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「齿狼」的链锯会造成裂伤，令对手持续损失生命值。",
+            "EN": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT."
+        },
+        "Stats": {
+            "HP": 4.5,
+            "ATK": 14.99994,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "SPD": -24.0,
+            "Stance": -4.0
+        },
+        "Weak": [
+            "Ice",
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    101302001,
+                    101302002,
+                    101302003,
+                    101302004
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1013020.png",
+        "Figure": "monsterfigure/Monster_1013020.png",
+        "Status": [
+            210130201,
+            210130202
+        ],
+        "AllSkills": [
+            101302001,
+            101302002,
+            101302003,
+            101302004
+        ],
+        "Csxylic": "SCJarilo-VI/1013020"
+    },
+    {
+        "_id": 101302027,
+        "Key": "Monster_W1_Mecha04_00_Config",
+        "Name": {
+            "CH": "自动机兵 · 齿狼",
+            "EN": "Automaton Direwolf"
+        },
+        "Desc": {
+            "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，少见的人形机械，其右臂部分统一装置着链锯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「齿狼」的链锯会造成裂伤，令对手持续损失生命值。",
+            "EN": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT."
+        },
+        "Stats": {
+            "HP": 11.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "Stance": -3.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    101302001,
+                    101302002,
+                    101302003,
+                    101302004
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1013020.png",
+        "Figure": "monsterfigure/Monster_1013020.png",
+        "Status": [
+            210130201,
+            210130202
+        ],
+        "AllSkills": [
+            101302001,
+            101302002,
+            101302003,
+            101302004
+        ],
+        "Csxylic": "SCJarilo-VI/1013020"
+    },
+    {
+        "_id": 101302028,
+        "Key": "Monster_W1_Mecha04_00_Config",
+        "Name": {
+            "CH": "自动机兵 · 齿狼",
+            "EN": "Automaton Direwolf"
+        },
+        "Desc": {
+            "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，少见的人形机械，其右臂部分统一装置着链锯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「齿狼」的链锯会造成裂伤，令对手持续损失生命值。",
+            "EN": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs will use their chainsaw to Bleed enemies, dealing DoT."
+        },
+        "Stats": {
+            "HP": 5.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "Stance": -4.0
+        },
+        "Weak": [
+            "Ice",
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    101302001,
+                    101302002,
+                    101302003,
+                    101302004
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 1,
+        "Icon": "mostericon/Monster_1013020.png",
+        "Figure": "monsterfigure/Monster_1013020.png",
+        "Status": [
+            210130201,
+            210130202
+        ],
+        "AllSkills": [
+            101302001,
+            101302002,
+            101302003,
+            101302004
+        ],
+        "Csxylic": "SCJarilo-VI/1013020"
+    },
+    {
         "_id": 1013021,
         "Key": "Monster_W1_Mecha04_00_Config_A",
         "Name": {
@@ -15014,6 +16799,103 @@ var _monster = [
         ]
     },
     {
+        "_id": 1014013,
+        "Key": "Monster_W1_Svarog_00_Config_Fever",
+        "Name": {
+            "CH": "史瓦罗",
+            "EN": "Svarog"
+        },
+        "Desc": {
+            "CH": "代码受到影响后的完整投影。参照本体为旧世界的古老遗物，地髓开拓团的时代遗留下的自动控制单元。与大部分无智、只接受指令的机器不同，史瓦罗具有复杂的思考能力。<br>在战斗中，史瓦罗（完整）能召唤各种类型的机械并操控机械臂抓取和控制敌人，对目标进行沉重的打击。",
+            "EN": ""
+        },
+        "Stats": {
+            "HP": 7.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 12.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.75,
+            "Confine": 0.75,
+            "Entangle": 0.75
+        },
+        "HPCount": 3,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    101401101,
+                    101401102,
+                    101401112,
+                    101401113
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    101401101,
+                    101401102,
+                    101401104,
+                    101401112,
+                    101401114
+                ]
+            },
+            {
+                "Phase": 3,
+                "Skills": [
+                    101401101,
+                    101401102,
+                    101401104,
+                    101401107
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    101401103,
+                    101401105,
+                    101401106,
+                    101401108,
+                    101401109,
+                    101401110,
+                    101401111
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_1004020.png",
+        "Figure": "monsterfigure/Monster_1014010.png",
+        "Status": [
+            30010006,
+            210040113,
+            210120411
+        ],
+        "AllSkills": [
+            101401101,
+            101401102,
+            101401112,
+            101401113,
+            101401104,
+            101401114,
+            101401107
+        ]
+    },
+    {
         "_id": 1022010,
         "Key": "Monster_W1_Soldier01_02_Config",
         "Name": {
@@ -15645,6 +17527,56 @@ var _monster = [
         "RESBase": {
             "Ice": 0.4,
             "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "DebuffRES": {
+            "Frozen": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    102201001
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_9002400.png",
+        "Figure": "monsterfigure/Monster_1022010.png",
+        "AllSkills": [
+            102201001
+        ],
+        "Csxylic": "SCFragmentumMonsters/1022010"
+    },
+    {
+        "_id": 102201013,
+        "Key": "Monster_W1_Soldier01_02_Config",
+        "Name": {
+            "CH": "永冬灾影",
+            "EN": "Everwinter Shadewalker"
+        },
+        "Desc": {
+            "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形，其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的冰棱所取代。<br>战斗中永冬灾影会挥舞冰造的斧刃，延缓敌人的行动。",
+            "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by an icicle of faceless ice.<br>Everwinter Shadewalkers will swing their ice ax and slow their enemies in battle."
+        },
+        "Stats": {
+            "HP": 1.6,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Elec",
+            "Fire",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.4,
             "Wind": 0.2,
             "Imaginary": 0.2
         },
@@ -16948,6 +18880,112 @@ var _monster = [
         "Csxylic": "SCFragmentumMonsters/1022020"
     },
     {
+        "_id": 102202024,
+        "Key": "Monster_W1_Soldier01_01_Config",
+        "Name": {
+            "CH": "火焚灾影",
+            "EN": "Incineration Shadewalker"
+        },
+        "Desc": {
+            "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形。其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的燃烬所取代。<br>战斗中火焚灾影会挥舞燃烧的斧刃，灼烧敌人。",
+            "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle."
+        },
+        "Stats": {
+            "HP": 1.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Ice",
+            "Wind",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.4,
+            "Elec": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "DebuffRES": {
+            "Burn": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    102202001
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_9002410.png",
+        "Figure": "monsterfigure/Monster_1022020.png",
+        "Status": [
+            30020002
+        ],
+        "AllSkills": [
+            102202001
+        ],
+        "Csxylic": "SCFragmentumMonsters/1022020"
+    },
+    {
+        "_id": 102202025,
+        "Key": "Monster_W1_Soldier01_01_Config",
+        "Name": {
+            "CH": "火焚灾影",
+            "EN": "Incineration Shadewalker"
+        },
+        "Desc": {
+            "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形。其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的燃烬所取代。<br>战斗中火焚灾影会挥舞燃烧的斧刃，灼烧敌人。",
+            "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armors as the Belobog warriors, its skull is however replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle."
+        },
+        "Stats": {
+            "HP": 0.4,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Ice",
+            "Phys",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Fire": 0.4,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "DebuffRES": {
+            "Burn": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    102202001
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_9002410.png",
+        "Figure": "monsterfigure/Monster_1022020.png",
+        "Status": [
+            30020002
+        ],
+        "AllSkills": [
+            102202001
+        ],
+        "Csxylic": "SCFragmentumMonsters/1022020"
+    },
+    {
         "_id": 1023010,
         "Key": "Monster_W1_Mecha04_01_Config",
         "Name": {
@@ -17922,6 +19960,205 @@ var _monster = [
         "Csxylic": "SCFragmentumMonsters/1023010"
     },
     {
+        "_id": 102301015,
+        "Key": "Monster_W1_Mecha04_01_Config",
+        "Name": {
+            "CH": "炽燃徘徊者",
+            "EN": "Searing Prowler"
+        },
+        "Desc": {
+            "CH": "徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>炽燃徘徊者的攻击会对处于灼烧状态的敌人造成额外效果。",
+            "EN": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn."
+        },
+        "Stats": {
+            "HP": 12.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "SPD": 40.0,
+            "Stance": 5.0
+        },
+        "Weak": [
+            "Ice",
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.4,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "Burn": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    102301001,
+                    102301002,
+                    102301003,
+                    102301004,
+                    102301005
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_1023010.png",
+        "Figure": "monsterfigure/Monster_1023010.png",
+        "Status": [
+            30020002,
+            210230101,
+            210230102
+        ],
+        "AllSkills": [
+            102301001,
+            102301002,
+            102301003,
+            102301004,
+            102301005
+        ],
+        "Csxylic": "SCFragmentumMonsters/1023010"
+    },
+    {
+        "_id": 102301016,
+        "Key": "Monster_W1_Mecha04_01_Config",
+        "Name": {
+            "CH": "炽燃徘徊者",
+            "EN": "Searing Prowler"
+        },
+        "Desc": {
+            "CH": "徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>炽燃徘徊者的攻击会对处于灼烧状态的敌人造成额外效果。",
+            "EN": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn."
+        },
+        "Stats": {
+            "HP": 8.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Ice",
+            "Phys",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.4,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "Burn": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    102301001,
+                    102301002,
+                    102301003,
+                    102301004,
+                    102301005
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_1023010.png",
+        "Figure": "monsterfigure/Monster_1023010.png",
+        "Status": [
+            30020002,
+            210230101,
+            210230102
+        ],
+        "AllSkills": [
+            102301001,
+            102301002,
+            102301003,
+            102301004,
+            102301005
+        ],
+        "Csxylic": "SCFragmentumMonsters/1023010"
+    },
+    {
+        "_id": 102301017,
+        "Key": "Monster_W1_Mecha04_01_Config",
+        "Name": {
+            "CH": "炽燃徘徊者",
+            "EN": "Searing Prowler"
+        },
+        "Desc": {
+            "CH": "徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>炽燃徘徊者的攻击会对处于灼烧状态的敌人造成额外效果。",
+            "EN": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn."
+        },
+        "Stats": {
+            "HP": 5.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "Stance": -4.0
+        },
+        "Weak": [
+            "Ice",
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.4,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "Burn": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    102301001,
+                    102301002,
+                    102301003,
+                    102301004,
+                    102301005
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_1023010.png",
+        "Figure": "monsterfigure/Monster_1023010.png",
+        "Status": [
+            30020002,
+            210230101,
+            210230102
+        ],
+        "AllSkills": [
+            102301001,
+            102301002,
+            102301003,
+            102301004,
+            102301005
+        ],
+        "Csxylic": "SCFragmentumMonsters/1023010"
+    },
+    {
         "_id": 1023011,
         "Key": "Monster_W1_Mecha04_01_Config_A",
         "Name": {
@@ -18350,6 +20587,77 @@ var _monster = [
         "Csxylic": "SCFragmentumMonsters/1023020"
     },
     {
+        "_id": 102302005,
+        "Key": "Monster_W1_Mecha03_01_Config",
+        "Name": {
+            "CH": "深寒徘徊者",
+            "EN": "Frigid Prowler"
+        },
+        "Desc": {
+            "CH": "徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>深寒徘徊者会吸引永冬灾影，同时能降低我方的速度与冰属性抗性。",
+            "EN": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Frigid Prowlers will attract Everwinter Shadewalkers and reduce its enemy's SPD and Ice RES."
+        },
+        "Stats": {
+            "HP": 12.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 10.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.4,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "Frozen": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    102302001,
+                    102302005,
+                    102302006,
+                    102302007,
+                    102302009
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    102302008,
+                    102302010
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_1023020.png",
+        "Figure": "monsterfigure/Monster_1023020.png",
+        "Status": [
+            210230202,
+            210230203,
+            210230207,
+            210230208
+        ],
+        "AllSkills": [
+            102302001,
+            102302005,
+            102302006,
+            102302007,
+            102302009
+        ],
+        "Csxylic": "SCFragmentumMonsters/1023020"
+    },
+    {
         "_id": 1023021,
         "Key": "Monster_W1_Mecha03_01_Config_A",
         "Name": {
@@ -18418,6 +20726,134 @@ var _monster = [
             102302106,
             102302110,
             102302111
+        ]
+    },
+    {
+        "_id": 102302101,
+        "Key": "Monster_W1_Mecha03_01_Config_A",
+        "Name": {
+            "CH": "深寒徘徊者（错误）",
+            "EN": "Frigid Prowler (Bug)"
+        },
+        "Desc": {
+            "CH": "代码受到影响后的错误投影。参照本体为徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>深寒徘徊者（错误）会吸引永冬灾影，同时能降低我方的速度与冰属性抗性。",
+            "EN": "A false projection produced by compromised codes. The referenced entity is a machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Frigid Prowler (Bug) will attract Everwinter Shadewalker and reduce its opponents' SPD and Ice RES."
+        },
+        "Stats": {
+            "HP": 25.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 12.0
+        },
+        "StatsExtra": {
+            "SPD": 20.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Fire",
+            "Phys",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Ice": 0.4,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "Frozen": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    102302101,
+                    102302105,
+                    102302106,
+                    102302110,
+                    102302111
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    102302107,
+                    102302108,
+                    102302109,
+                    102302112
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_1023020.png",
+        "Figure": "monsterfigure/Monster_1023020.png",
+        "Status": [
+            210230202,
+            210230203,
+            210230207
+        ],
+        "AllSkills": [
+            102302101,
+            102302105,
+            102302106,
+            102302110,
+            102302111
+        ]
+    },
+    {
+        "_id": 1023022,
+        "Key": "Config/ConfigCharacter/WhiteBox/Monster/WMonster_W1_Mecha03_03_Config",
+        "Name": {
+            "CH": "dev_深寒徘徊者",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>深寒徘徊者会吸引永冬灾影，同时能降低我方的速度与冰属性抗性。",
+            "EN": ""
+        },
+        "Stats": {
+            "HP": 50.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "SPD": 140.0,
+            "Stance": -4.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.4,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "Frozen": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    102302201
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_1023020.png",
+        "Figure": "monsterfigure/Monster_1023020.png",
+        "AllSkills": [
+            102302201
         ]
     },
     {
@@ -19954,6 +22390,73 @@ var _monster = [
         "Csxylic": "SCStellaronHunters/2004010"
     },
     {
+        "_id": 200401005,
+        "Key": "Monster_W2_Kafka_00_Config",
+        "Name": {
+            "CH": "「星核猎手」卡芙卡",
+            "EN": "Stellaron Hunter: Kafka"
+        },
+        "Desc": {
+            "CH": "「星核猎手」的一员，面带莫测笑容的杀手丽人，善用种类纷繁的武器和心控之术。正是她将星穹列车引至此处，以实现某个计划……",
+            "EN": "One of the Stellaron Hunters. A beautiful assassin wearing an enigmatic smile, she excels in manipulation and various weaponry. It was by her design that the Astral Express was led here, all of which was simply part of a certain plan..."
+        },
+        "Stats": {
+            "HP": 35.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 119.0,
+            "Stance": 15.0
+        },
+        "StatsExtra": {
+            "Stance": 1.0
+        },
+        "Weak": [
+            "Phys",
+            "Ice",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Elec": 0.4,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "Frozen": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    200401001,
+                    200401002,
+                    200401003,
+                    200401004,
+                    200401005,
+                    200401006
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 5,
+        "Icon": "mostericon/Monster_2004010.png",
+        "Figure": "monsterfigure/Monster_2004010.png",
+        "Status": [
+            30020004,
+            30020028
+        ],
+        "AllSkills": [
+            200401001,
+            200401002,
+            200401003,
+            200401004,
+            200401005,
+            200401006
+        ],
+        "Csxylic": "SCStellaronHunters/2004010"
+    },
+    {
         "_id": 2004011,
         "Key": "Monster_W2_Kafka_00_Config_RL",
         "Name": {
@@ -20238,8 +22741,8 @@ var _monster = [
             "EN": "Cloud Knight Lieutenant: Yanqing"
         },
         "Desc": {
-            "CH": "将军景元的侍卫，不过总角之年的御剑天才。",
-            "EN": "General Jing Yuan's retainer. A gifted swordsman who hasn't even come of age."
+            "CH": "…",
+            "EN": "..."
         },
         "Stats": {
             "HP": 15.0,
@@ -20310,8 +22813,8 @@ var _monster = [
             "EN": "Cloud Knight Lieutenant: Yanqing"
         },
         "Desc": {
-            "CH": "将军景元的侍卫，不过总角之年的御剑天才。",
-            "EN": "General Jing Yuan's retainer. A gifted swordsman who hasn't even come of age."
+            "CH": "…",
+            "EN": "..."
         },
         "Stats": {
             "HP": 6.5,
@@ -20386,8 +22889,8 @@ var _monster = [
             "EN": "Cloud Knight Lieutenant: Yanqing"
         },
         "Desc": {
-            "CH": "将军景元的侍卫，不过总角之年的御剑天才。",
-            "EN": "General Jing Yuan's retainer. A gifted swordsman who hasn't even come of age."
+            "CH": "…",
+            "EN": "..."
         },
         "Stats": {
             "HP": 22.5,
@@ -20602,8 +23105,8 @@ var _monster = [
             "EN": "Cloud Knight Lieutenant: Yanqing"
         },
         "Desc": {
-            "CH": "将军景元的侍卫，不过总角之年的御剑天才。",
-            "EN": "General Jing Yuan's retainer. A gifted swordsman who hasn't even come of age."
+            "CH": "…",
+            "EN": "..."
         },
         "Stats": {
             "HP": 35.0,
@@ -20674,8 +23177,8 @@ var _monster = [
             "EN": "Cloud Knight Lieutenant: Yanqing"
         },
         "Desc": {
-            "CH": "将军景元的侍卫，不过总角之年的御剑天才。",
-            "EN": "General Jing Yuan's retainer. A gifted swordsman who hasn't even come of age."
+            "CH": "…",
+            "EN": "..."
         },
         "Stats": {
             "HP": 25.0,
@@ -20746,8 +23249,8 @@ var _monster = [
             "EN": "Cloud Knight Lieutenant: Yanqing (Complete)"
         },
         "Desc": {
-            "CH": "代码受到影响后的完整投影。参照本体为将军景元的侍卫，不过总角之年的御剑天才。",
-            "EN": "A complete projection produced by compromised codes. The referenced entity is General Jing Yuan's retainer, a gifted swordsman who hasn't even come of age."
+            "CH": "…",
+            "EN": "…"
         },
         "Stats": {
             "HP": 10.0,
@@ -20839,6 +23342,99 @@ var _monster = [
     },
     {
         "_id": 2004022,
+        "Key": "Monster_W2_Yanqing_00_Config_RL",
+        "Name": {
+            "CH": "云骑骁卫 · 彦卿（完整）",
+            "EN": "Cloud Knight Lieutenant: Yanqing (Complete)"
+        },
+        "Desc": {
+            "CH": "代码受到影响后的完整投影。参照本体为将军景元的侍卫，不过总角之年的御剑天才。",
+            "EN": "A complete projection produced by compromised codes. The referenced entity is General Jing Yuan's retainer, a gifted swordsman who hasn't even come of age."
+        },
+        "Stats": {
+            "HP": 10.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 12.0
+        },
+        "Weak": [
+            "Elec",
+            "Wind",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.4,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.75,
+            "Confine": 0.75,
+            "Entangle": 0.75
+        },
+        "HPCount": 3,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    200402201,
+                    200402203,
+                    200402204,
+                    200402205,
+                    200402206
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    200402201,
+                    200402202,
+                    200402203,
+                    200402204,
+                    200402205,
+                    200402206
+                ]
+            },
+            {
+                "Phase": 3,
+                "Skills": [
+                    200402201,
+                    200402202,
+                    200402203,
+                    200402204,
+                    200402205,
+                    200402206,
+                    200402207,
+                    200402208
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    200402209
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_2004020.png",
+        "Figure": "monsterfigure/Monster_2004020.png",
+        "AllSkills": [
+            200402201,
+            200402203,
+            200402204,
+            200402205,
+            200402206,
+            200402202,
+            200402207,
+            200402208
+        ]
+    },
+    {
+        "_id": 200402201,
         "Key": "Monster_W2_Yanqing_00_Config_RL",
         "Name": {
             "CH": "云骑骁卫 · 彦卿（完整）",
@@ -21850,6 +24446,58 @@ var _monster = [
         "Csxylic": "SCTheXianzhouLuofu/2012010"
     },
     {
+        "_id": 201201008,
+        "Key": "Monster_W2_Mecha02_00_Config",
+        "Name": {
+            "CH": "入魔机巧 · 灯昼龙鱼",
+            "EN": "Entranced Ingenium: Illumination Dragonfish"
+        },
+        "Desc": {
+            "CH": "工造司匠人随手造就的机巧发明。原本是不具灵智，用以烛照黑暗的灯具，如今却因为某些异变被赋予了短暂的「生命」。",
+            "EN": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate illuminator used for casting light upon darkness, but now it has been given a short-lived \"life\" due to certain mutations."
+        },
+        "Stats": {
+            "HP": 1.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Phys",
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    201201001,
+                    201201002
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 2,
+        "Icon": "mostericon/Monster_2012010.png",
+        "Figure": "monsterfigure/Monster_2012010.png",
+        "Status": [
+            30010006
+        ],
+        "AllSkills": [
+            201201001,
+            201201002
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2012010"
+    },
+    {
         "_id": 2013010,
         "Key": "Monster_W2_Mecha03_00_Config",
         "Name": {
@@ -22206,14 +24854,11 @@ var _monster = [
             "EN": "Garrison aurumaton created with ancient ingenium technology.<br>Countless years ago, the aurumatons set sail with the Xianzhou to seek divine recipes of immortality, and were tasked to oversee humanity and to aid humankind during warfare. However, after countless rebellions, they were finally overpowered by the Xianzhou natives.<br>Now, all aurumatons are strictly controlled with talismans, and are employed to guard important places."
         },
         "Stats": {
-            "HP": 12.0,
-            "ATK": 13.84614,
+            "HP": 8.0,
+            "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 100.0,
             "Stance": 10.0
-        },
-        "StatsExtra": {
-            "SPD": 40.0
         },
         "Weak": [
             "Elec",
@@ -22706,6 +25351,142 @@ var _monster = [
             "DEF": 1.0,
             "SPD": 120.0,
             "Stance": 10.0
+        },
+        "Weak": [
+            "Phys",
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    201302001,
+                    201302002,
+                    201302003,
+                    201302004,
+                    201302005
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    201302006
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 2,
+        "Icon": "mostericon/Monster_2013020.png",
+        "Figure": "monsterfigure/Monster_2013020.png",
+        "Status": [
+            220020301,
+            220020302
+        ],
+        "AllSkills": [
+            201302001,
+            201302002,
+            201302003,
+            201302004,
+            201302005
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2013020"
+    },
+    {
+        "_id": 201302006,
+        "Key": "Monster_W2_Valkyrie02_00_Config",
+        "Name": {
+            "CH": "金人勾魂使",
+            "EN": "Aurumaton Spectral Envoy"
+        },
+        "Desc": {
+            "CH": "刻录着《十王武经》，听命于十王司的执法金人。<br>血肉易受五阴之苦所执，唯有金铁不动其心，奉行十王敕令不渝。<br>这些金人执法者以力降伏脱离生命秩序的邪物，将之带入幽府，接受判罚，其权限有时甚于判官。",
+            "EN": "A law-enforcing aurumaton engraved with the Ten-Lords Martial Scriptures and taking orders from the Ten-Lords Commission.<br>Living beings are susceptible to the corporeal and mental existence of the self, but gold and metal will never be swayed and will unwaveringly follow the Ten-Lords' edicts.<br>These aurumaton law enforcers use their strength to subdue evils that have strayed from the natural order of life, and bring them to the Netherworld to meet their sentence. Its authority is sometimes even greater than that of a judge."
+        },
+        "Stats": {
+            "HP": 5.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "Stance": -4.0
+        },
+        "Weak": [
+            "Phys",
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    201302001,
+                    201302002,
+                    201302003,
+                    201302004,
+                    201302005
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    201302006
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 2,
+        "Icon": "mostericon/Monster_2013020.png",
+        "Figure": "monsterfigure/Monster_2013020.png",
+        "Status": [
+            220020301,
+            220020302
+        ],
+        "AllSkills": [
+            201302001,
+            201302002,
+            201302003,
+            201302004,
+            201302005
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2013020"
+    },
+    {
+        "_id": 201302007,
+        "Key": "Monster_W2_Valkyrie02_00_Config",
+        "Name": {
+            "CH": "金人勾魂使",
+            "EN": "Aurumaton Spectral Envoy"
+        },
+        "Desc": {
+            "CH": "刻录着《十王武经》，听命于十王司的执法金人。<br>血肉易受五阴之苦所执，唯有金铁不动其心，奉行十王敕令不渝。<br>这些金人执法者以力降伏脱离生命秩序的邪物，将之带入幽府，接受判罚，其权限有时甚于判官。",
+            "EN": "A law-enforcing aurumaton engraved with the Ten-Lords Martial Scriptures and taking orders from the Ten-Lords Commission.<br>Living beings are susceptible to the corporeal and mental existence of the self, but gold and metal will never be swayed and will unwaveringly follow the Ten-Lords' edicts.<br>These aurumaton law enforcers use their strength to subdue evils that have strayed from the natural order of life, and bring them to the Netherworld to meet their sentence. Its authority is sometimes even greater than that of a judge."
+        },
+        "Stats": {
+            "HP": 20.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "Stance": 4.0
         },
         "Weak": [
             "Phys",
@@ -23485,6 +26266,66 @@ var _monster = [
         "Csxylic": "SCTheXianzhouLuofu/2022010"
     },
     {
+        "_id": 202201011,
+        "Key": "Monster_W2_Abomi01_00_Config",
+        "Name": {
+            "CH": "魔阴身士卒",
+            "EN": "Mara-Struck Soldier"
+        },
+        "Desc": {
+            "CH": "不知何故陷入狂乱的仙舟士兵，躯壳已不见人形，只余无穷的增生变异。相传无量寿中，仙舟人会堕入名为「魔阴身」的状态。",
+            "EN": "Soldiers of the Xianzhou who somehow fell into madness. Their bodies continue to grow and mutate and have long lost their humanoid form. It is said that the long-lived Xianzhou natives would eventually be stricken with mara."
+        },
+        "Stats": {
+            "HP": 1.2,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 83.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.4,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    202201001,
+                    202201002
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    202201003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 2,
+        "Icon": "mostericon/Monster_2022010.png",
+        "Figure": "monsterfigure/Monster_2022010.png",
+        "Status": [
+            30020003,
+            220220101,
+            220220102
+        ],
+        "AllSkills": [
+            202201001,
+            202201002
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022010"
+    },
+    {
         "_id": 2022020,
         "Key": "Monster_W2_Abomi02_00_Config",
         "Name": {
@@ -23940,22 +26781,22 @@ var _monster = [
             "EN": "A member of the Disciples of Sanctus Medicus, the secret sect that hid within the Xianzhou Luofu. <br>With medicine, purify the heart. With elixir, transform one's body. They long to revive the ancient mysteries of Abundance, hoping to spur Xianzhou natives towards their next stage of evolution."
         },
         "Stats": {
-            "HP": 1.2,
+            "HP": 2.0,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 100.0,
             "Stance": 2.0
         },
         "Weak": [
-            "Phys",
-            "Imaginary"
+            "Quantum",
+            "Fire"
         ],
         "RESBase": {
-            "Fire": 0.2,
+            "Phys": 0.2,
             "Ice": 0.2,
             "Elec": 0.4,
             "Wind": 0.2,
-            "Quantum": 0.2
+            "Imaginary": 0.2
         },
         "StatusRESBase": 0.1,
         "Skills": [
@@ -24247,55 +27088,6 @@ var _monster = [
         },
         "Stats": {
             "HP": 1.6,
-            "ATK": 18.0,
-            "DEF": 1.0,
-            "SPD": 118.0,
-            "Stance": 3.0
-        },
-        "Weak": [
-            "Ice",
-            "Elec",
-            "Wind"
-        ],
-        "RESBase": {
-            "Phys": 0.2,
-            "Fire": 0.2,
-            "Quantum": 0.2,
-            "Imaginary": 0.2
-        },
-        "StatusRESBase": 0.1,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    202204001,
-                    202204002
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 2,
-        "Icon": "mostericon/Monster_2022040.png",
-        "Figure": "monsterfigure/Monster_2022040.png",
-        "AllSkills": [
-            202204001,
-            202204002
-        ],
-        "Csxylic": "SCTheXianzhouLuofu/2022040"
-    },
-    {
-        "_id": 202204005,
-        "Key": "Monster_W2_Beast01_00_Config",
-        "Name": {
-            "CH": "丰饶灵兽 · 娄金",
-            "EN": "Abundance Sprite: Golden Hound"
-        },
-        "Desc": {
-            "CH": "金缕错饰的猎犬，行动优雅迅疾。<br>在「建木」上一次伫立时，仙舟人曾以奇术繁育众多异兽珍禽。娄金即为伴随军阵行进的战兽之一。",
-            "EN": "A gilded hunting hound that moves with grace and speed.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with esoteric techniques. Golden Hounds were one of the war beasts that walked alongside the army."
-        },
-        "Stats": {
-            "HP": 0.1,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 118.0,
@@ -24860,6 +27652,147 @@ var _monster = [
         "Csxylic": "SCTheXianzhouLuofu/2022060"
     },
     {
+        "_id": 202206004,
+        "Key": "Monster_W2_Abomi03_00_Config",
+        "Name": {
+            "CH": "「药王秘传」器元士",
+            "EN": "Disciples of Sanctus Medicus: Ballistarius"
+        },
+        "Desc": {
+            "CH": "潜伏于罗浮仙舟中的秘密传承「药王秘传」的成员。<br>借器修道，与之连同一体。他们渴求复兴古老的丰饶之秘，令仙舟人跨入下一阶段的进化。",
+            "EN": "A member of the Disciples of Sanctus Medicus, the secret organization that had lain hidden in the Xianzhou Luofu.<br>They pursue cultivation using tools and merge with them. They long to revive the lost secrets of Abundance, hoping to spur Xianzhou natives toward their next stage of evolution."
+        },
+        "Stats": {
+            "HP": 2.2,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Phys",
+            "Ice",
+            "Wind"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    202206001
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 2,
+        "Icon": "mostericon/Monster_2022060.png",
+        "Figure": "monsterfigure/Monster_2022060.png",
+        "AllSkills": [
+            202206001
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022060"
+    },
+    {
+        "_id": 202206005,
+        "Key": "Monster_W2_Abomi03_00_Config",
+        "Name": {
+            "CH": "「药王秘传」器元士",
+            "EN": "Disciples of Sanctus Medicus: Ballistarius"
+        },
+        "Desc": {
+            "CH": "潜伏于罗浮仙舟中的秘密传承「药王秘传」的成员。<br>借器修道，与之连同一体。他们渴求复兴古老的丰饶之秘，令仙舟人跨入下一阶段的进化。",
+            "EN": "A member of the Disciples of Sanctus Medicus, the secret organization that had lain hidden in the Xianzhou Luofu.<br>They pursue cultivation using tools and merge with them. They long to revive the lost secrets of Abundance, hoping to spur Xianzhou natives toward their next stage of evolution."
+        },
+        "Stats": {
+            "HP": 2.2,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Phys",
+            "Ice",
+            "Wind"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    202206001
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 2,
+        "Icon": "mostericon/Monster_2022060.png",
+        "Figure": "monsterfigure/Monster_2022060.png",
+        "AllSkills": [
+            202206001
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022060"
+    },
+    {
+        "_id": 202206006,
+        "Key": "Monster_W2_Abomi03_00_Config",
+        "Name": {
+            "CH": "「药王秘传」器元士",
+            "EN": "Disciples of Sanctus Medicus: Ballistarius"
+        },
+        "Desc": {
+            "CH": "潜伏于罗浮仙舟中的秘密传承「药王秘传」的成员。<br>借器修道，与之连同一体。他们渴求复兴古老的丰饶之秘，令仙舟人跨入下一阶段的进化。",
+            "EN": "A member of the Disciples of Sanctus Medicus, the secret organization that had lain hidden in the Xianzhou Luofu.<br>They pursue cultivation using tools and merge with them. They long to revive the lost secrets of Abundance, hoping to spur Xianzhou natives toward their next stage of evolution."
+        },
+        "Stats": {
+            "HP": 2.2,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Fire",
+            "Quantum",
+            "Phys"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    202206001
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 2,
+        "Icon": "mostericon/Monster_2022060.png",
+        "Figure": "monsterfigure/Monster_2022060.png",
+        "AllSkills": [
+            202206001
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022060"
+    },
+    {
         "_id": 2022070,
         "Key": "Monster_W2_Xuanlu_01_Config",
         "Name": {
@@ -24887,6 +27820,56 @@ var _monster = [
             "Fire": 0.2,
             "Elec": 0.2,
             "Wind": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    202207001
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_2022070.png",
+        "Figure": "monsterfigure/Monster_2022070.png",
+        "Status": [
+            30020029
+        ],
+        "AllSkills": [
+            202207001
+        ],
+        "Csxylic": "SCNonCategorized/2022070"
+    },
+    {
+        "_id": 202207001,
+        "Key": "Monster_W2_Xuanlu_01_Config",
+        "Name": {
+            "CH": "肃风之杪",
+            "EN": "Twig of Wintry Wind"
+        },
+        "Desc": {
+            "CH": "随玄鹿足迹而生的建木枝梢。",
+            "EN": "A branch of Ambrosial Arbor created from the Ebon Deer's footprint"
+        },
+        "Stats": {
+            "HP": 1.6,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Ice",
+            "Quantum",
+            "Phys"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
         },
         "StatusRESBase": 0.0,
         "Skills": [
@@ -25036,6 +28019,61 @@ var _monster = [
             "Ice": 0.2,
             "Elec": 0.2,
             "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    202208001,
+                    202208002,
+                    202208003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_2022080.png",
+        "Figure": "monsterfigure/Monster_2022080.png",
+        "Status": [
+            220220801,
+            220220802
+        ],
+        "AllSkills": [
+            202208001,
+            202208002,
+            202208003
+        ],
+        "Csxylic": "SCNonCategorized/2022080"
+    },
+    {
+        "_id": 202208001,
+        "Key": "Monster_W2_Xuanlu_02_Config",
+        "Name": {
+            "CH": "缃叶之杪",
+            "EN": "Twig of Marple Leaf"
+        },
+        "Desc": {
+            "CH": "随玄鹿足迹而生的建木枝梢。",
+            "EN": "A branch of Ambrosial Arbor created from the Ebon Deer's footprint"
+        },
+        "Stats": {
+            "HP": 2.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
             "Imaginary": 0.2
         },
         "StatusRESBase": 0.0,
@@ -25659,6 +28697,60 @@ var _monster = [
             "Phys": 0.2,
             "Fire": 0.2,
             "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    202211001,
+                    202211002,
+                    202211003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 2,
+        "Icon": "mostericon/Monster_2022110.png",
+        "Figure": "monsterfigure/Monster_2022110.png",
+        "Status": [
+            220221101
+        ],
+        "AllSkills": [
+            202211001,
+            202211002,
+            202211003
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2022110"
+    },
+    {
+        "_id": 202211004,
+        "Key": "Monster_W2_Valkyrie01_01_Config",
+        "Name": {
+            "CH": "魔阴武弁",
+            "EN": "Mara-Struck Warden"
+        },
+        "Desc": {
+            "CH": "堕入魔阴身的十王司武卫。<br>只要还是血肉凡胎，仙舟人终不能斩断宿命。",
+            "EN": "A Ten-Lords Commission soldier that has fallen to mara.<br>As long as they are still mortals of flesh and blood, the people of Xianzhou will never be able to escape their fate."
+        },
+        "Stats": {
+            "HP": 0.4,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Ice",
+            "Elec",
+            "Phys"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
             "Imaginary": 0.2
         },
         "StatusRESBase": 0.1,
@@ -26533,6 +29625,70 @@ var _monster = [
         ]
     },
     {
+        "_id": 202301101,
+        "Key": "Monster_W2_Abomi04_00_Config_RLElite",
+        "Name": {
+            "CH": "「药王秘传」炼形者（错误）",
+            "EN": "Disciples of Sanctus Medicus: Shape Shifter (Bug)"
+        },
+        "Desc": {
+            "CH": "代码受到影响后的错误投影。参照本体为渴求复兴古老的丰饶之秘，并引领仙舟人再度踏上解脱登仙大道的修炼者。<br>如今，他们的愿望得遂。受赐于古老神迹的力量，以其为甲胄、为武器，并触及了长生不死的秘密。",
+            "EN": "A false projection produced by compromised codes. The original referent entity is a cultivator who longs to revive the ancient mysteries of Abundance, and to guide the Xianzhou natives back on the liberating path of immortality.<br>Now, their wish has been fulfilled. Gifted by the power of the ancient miracle and using it as both weapon and armor, they managed to touch on the secret of immortality."
+        },
+        "Stats": {
+            "HP": 17.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 12.0
+        },
+        "Weak": [
+            "Ice",
+            "Wind",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    202301101,
+                    202301102,
+                    202301103,
+                    202301105,
+                    202301106
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    202301104
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_2023010.png",
+        "Figure": "monsterfigure/Monster_2023010.png",
+        "Status": [
+            220220101,
+            220230101
+        ],
+        "AllSkills": [
+            202301101,
+            202301102,
+            202301103,
+            202301105,
+            202301106
+        ]
+    },
+    {
         "_id": 2023020,
         "Key": "Monster_W2_Beast02_00_Config",
         "Name": {
@@ -26936,6 +30092,140 @@ var _monster = [
             "DEF": 1.0,
             "SPD": 144.0,
             "Stance": 12.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    202302001,
+                    202302003,
+                    202302004
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    202302002,
+                    202302005,
+                    202302006
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 2,
+        "Icon": "mostericon/Monster_2023020.png",
+        "Figure": "monsterfigure/Monster_2023020.png",
+        "Status": [
+            220230201,
+            220230204,
+            220230205
+        ],
+        "AllSkills": [
+            202302001,
+            202302003,
+            202302004
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023020"
+    },
+    {
+        "_id": 202302007,
+        "Key": "Monster_W2_Beast02_00_Config",
+        "Name": {
+            "CH": "丰饶灵兽 · 长右",
+            "EN": "Abundance Sprite: Malefic Ape"
+        },
+        "Desc": {
+            "CH": "高如山岩的苍猿，破坏力惊人。<br>在「建木」上一次伫立时，仙舟人曾以奇术繁育众多异兽珍禽。长右即为伴随军阵行进的战兽之一。",
+            "EN": "An ape as tall as mountainous boulders with terrifying might.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with their esoteric techniques. Malefic Apes were one of the war beasts that walked alongside the army."
+        },
+        "Stats": {
+            "HP": 12.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 12.0
+        },
+        "StatsExtra": {
+            "Stance": 8.0
+        },
+        "Weak": [
+            "Fire",
+            "Quantum",
+            "Ice"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    202302001,
+                    202302003,
+                    202302004
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    202302002,
+                    202302005,
+                    202302006
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 2,
+        "Icon": "mostericon/Monster_2023020.png",
+        "Figure": "monsterfigure/Monster_2023020.png",
+        "Status": [
+            220230201,
+            220230204,
+            220230205
+        ],
+        "AllSkills": [
+            202302001,
+            202302003,
+            202302004
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023020"
+    },
+    {
+        "_id": 202302008,
+        "Key": "Monster_W2_Beast02_00_Config",
+        "Name": {
+            "CH": "丰饶灵兽 · 长右",
+            "EN": "Abundance Sprite: Malefic Ape"
+        },
+        "Desc": {
+            "CH": "高如山岩的苍猿，破坏力惊人。<br>在「建木」上一次伫立时，仙舟人曾以奇术繁育众多异兽珍禽。长右即为伴随军阵行进的战兽之一。",
+            "EN": "An ape as tall as mountainous boulders with terrifying might.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with their esoteric techniques. Malefic Apes were one of the war beasts that walked alongside the army."
+        },
+        "Stats": {
+            "HP": 5.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 12.0
+        },
+        "StatsExtra": {
+            "Stance": -6.0
         },
         "Weak": [
             "Fire",
@@ -27479,8 +30769,254 @@ var _monster = [
             "EN": "The form that the Disciples of Sanctus Medicus crave. A true appearance that cast off the burdens of humanity and has been reforged using the way of immortality.<br>In ancient times, those who sought immortality received wisdom from the Ambrosial Arbor and called themselves Celestials. They lived without restraints and molded the flesh of themselves and others at will. They have long forgotten their original appearances after countless metamorphoses."
         },
         "Stats": {
-            "HP": 10.0,
-            "ATK": 13.84614,
+            "HP": 35.0,
+            "ATK": 14.99994,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 14.0
+        },
+        "Weak": [
+            "Phys",
+            "Ice",
+            "Elec"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    202303001,
+                    202303002,
+                    202303003,
+                    202303004,
+                    202303005
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 2,
+        "Icon": "mostericon/Monster_2023030.png",
+        "Figure": "monsterfigure/Monster_2023030.png",
+        "Status": [
+            30020003,
+            30020030,
+            280030603
+        ],
+        "AllSkills": [
+            202303001,
+            202303002,
+            202303003,
+            202303004,
+            202303005
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023030"
+    },
+    {
+        "_id": 202303008,
+        "Key": "Monster_XP_Elite02_02_Config",
+        "Name": {
+            "CH": "承露天人",
+            "EN": "The Ascended"
+        },
+        "Desc": {
+            "CH": "「药王秘传」信徒渴求的形态，摆脱人性重负，以仙道重塑的真体。<br>太古时代，求道者们自建木中参悟玄旨，自诩「仙人」。他们自在无拘，将血肉众生如泥塑形。在无数次变化间，他们忘却了自己的本来面目。",
+            "EN": "The form that the Disciples of Sanctus Medicus crave. A true appearance that cast off the burdens of humanity and has been reforged using the way of immortality.<br>In ancient times, those who sought immortality received wisdom from the Ambrosial Arbor and called themselves Celestials. They lived without restraints and molded the flesh of themselves and others at will. They have long forgotten their original appearances after countless metamorphoses."
+        },
+        "Stats": {
+            "HP": 11.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 14.0
+        },
+        "Weak": [
+            "Phys",
+            "Ice",
+            "Elec"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Wind": 0.4,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    202303001,
+                    202303002,
+                    202303003,
+                    202303004,
+                    202303005
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 2,
+        "Icon": "mostericon/Monster_2023030.png",
+        "Figure": "monsterfigure/Monster_2023030.png",
+        "Status": [
+            30020003,
+            30020030,
+            280030603
+        ],
+        "AllSkills": [
+            202303001,
+            202303002,
+            202303003,
+            202303004,
+            202303005
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023030"
+    },
+    {
+        "_id": 202303009,
+        "Key": "Monster_XP_Elite02_02_Config",
+        "Name": {
+            "CH": "承露天人",
+            "EN": "The Ascended"
+        },
+        "Desc": {
+            "CH": "「药王秘传」信徒渴求的形态，摆脱人性重负，以仙道重塑的真体。<br>太古时代，求道者们自建木中参悟玄旨，自诩「仙人」。他们自在无拘，将血肉众生如泥塑形。在无数次变化间，他们忘却了自己的本来面目。",
+            "EN": "The form that the Disciples of Sanctus Medicus crave. A true appearance that cast off the burdens of humanity and has been reforged using the way of immortality.<br>In ancient times, those who sought immortality received wisdom from the Ambrosial Arbor and called themselves Celestials. They lived without restraints and molded the flesh of themselves and others at will. They have long forgotten their original appearances after countless metamorphoses."
+        },
+        "Stats": {
+            "HP": 5.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 14.0
+        },
+        "StatsExtra": {
+            "Stance": -8.0
+        },
+        "Weak": [
+            "Phys",
+            "Ice",
+            "Elec"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Wind": 0.4,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    202303001,
+                    202303002,
+                    202303003,
+                    202303004,
+                    202303005
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 2,
+        "Icon": "mostericon/Monster_2023030.png",
+        "Figure": "monsterfigure/Monster_2023030.png",
+        "Status": [
+            30020003,
+            30020030,
+            280030603
+        ],
+        "AllSkills": [
+            202303001,
+            202303002,
+            202303003,
+            202303004,
+            202303005
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023030"
+    },
+    {
+        "_id": 202303010,
+        "Key": "Monster_XP_Elite02_02_Config",
+        "Name": {
+            "CH": "承露天人",
+            "EN": "The Ascended"
+        },
+        "Desc": {
+            "CH": "「药王秘传」信徒渴求的形态，摆脱人性重负，以仙道重塑的真体。<br>太古时代，求道者们自建木中参悟玄旨，自诩「仙人」。他们自在无拘，将血肉众生如泥塑形。在无数次变化间，他们忘却了自己的本来面目。",
+            "EN": "The form that the Disciples of Sanctus Medicus crave. A true appearance that cast off the burdens of humanity and has been reforged using the way of immortality.<br>In ancient times, those who sought immortality received wisdom from the Ambrosial Arbor and called themselves Celestials. They lived without restraints and molded the flesh of themselves and others at will. They have long forgotten their original appearances after countless metamorphoses."
+        },
+        "Stats": {
+            "HP": 7.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 14.0
+        },
+        "StatsExtra": {
+            "Stance": -7.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Elec"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Wind": 0.4,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    202303001,
+                    202303002,
+                    202303003,
+                    202303004,
+                    202303005
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 2,
+        "Icon": "mostericon/Monster_2023030.png",
+        "Figure": "monsterfigure/Monster_2023030.png",
+        "Status": [
+            30020003,
+            30020030,
+            280030603
+        ],
+        "AllSkills": [
+            202303001,
+            202303002,
+            202303003,
+            202303004,
+            202303005
+        ],
+        "Csxylic": "SCTheXianzhouLuofu/2023030"
+    },
+    {
+        "_id": 202303011,
+        "Key": "Monster_XP_Elite02_02_Config",
+        "Name": {
+            "CH": "承露天人",
+            "EN": "The Ascended"
+        },
+        "Desc": {
+            "CH": "「药王秘传」信徒渴求的形态，摆脱人性重负，以仙道重塑的真体。<br>太古时代，求道者们自建木中参悟玄旨，自诩「仙人」。他们自在无拘，将血肉众生如泥塑形。在无数次变化间，他们忘却了自己的本来面目。",
+            "EN": "The form that the Disciples of Sanctus Medicus crave. A true appearance that cast off the burdens of humanity and has been reforged using the way of immortality.<br>In ancient times, those who sought immortality received wisdom from the Ambrosial Arbor and called themselves Celestials. They lived without restraints and molded the flesh of themselves and others at will. They have long forgotten their original appearances after countless metamorphoses."
+        },
+        "Stats": {
+            "HP": 19.5,
+            "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 120.0,
             "Stance": 14.0
@@ -28199,6 +31735,76 @@ var _monster = [
         ]
     },
     {
+        "_id": 202401401,
+        "Key": "Monster_W2_Xuanlu_00_Config_Pingshu",
+        "Name": {
+            "CH": "丰饶玄鹿",
+            "EN": "Abundant Ebon Deer"
+        },
+        "Desc": {
+            "CH": "由「建木」化生，拱卫其根系的灵瑞之兽，履迹所之，和泽滋生，枝杪郁敷。<br>自毁于太古时代的战争后，「建木」终于在星核的修补下再度生长。彼时仙人们所造的珍禽奇兽纷至沓来，宛如旧梦重临。",
+            "EN": "An auspicious spiritual beast wrought into being by the Ambrosial Arbor and protects its roots. Its arrival brings along exuberant vegetation and promises good fortune.<br>Once destroyed during ancient wars, the Ambrosial Arbor is mended by the Stellaron and finally revives. Rare creatures and legendary beasts made by celestials of the past all return to this world, like an old dream coming alive again."
+        },
+        "Stats": {
+            "HP": 11.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 115.0,
+            "Stance": 14.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Phys"
+        ],
+        "RESBase": {
+            "Elec": 0.4,
+            "Wind": 0.4,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.5,
+            "Confine": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    202401401,
+                    202401402,
+                    202401403,
+                    202401404,
+                    202401405,
+                    202401406,
+                    202401407,
+                    202401408
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    202401409
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_2024010.png",
+        "Figure": "monsterfigure/Monster_2024010.png",
+        "AllSkills": [
+            202401401,
+            202401402,
+            202401403,
+            202401404,
+            202401405,
+            202401406,
+            202401407,
+            202401408
+        ]
+    },
+    {
         "_id": 2024020,
         "Key": "Monster_W2_Fuyan_00_Config",
         "Name": {
@@ -28528,6 +32134,165 @@ var _monster = [
         "Csxylic": "SCDreamjoltTroupe/3001010"
     },
     {
+        "_id": 300101002,
+        "Key": "Monster_W2_Mecha01_02_Config",
+        "Name": {
+            "CH": "惊梦剧团的弹簧荷官",
+            "EN": "Dreamjolt Troupe's Spring Loader"
+        },
+        "Desc": {
+            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>本是牌桌上的娱乐道具，失控后仍在舞动着手中的骰子，用粗鲁的方式进行游戏。",
+            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a tool for entertainment on the card table, it is still shaking the dice in its hands after losing control, continuing the game in a crude manner."
+        },
+        "Stats": {
+            "HP": 1.5,
+            "ATK": 14.99994,
+            "DEF": 1.0,
+            "SPD": 83.0,
+            "Stance": 1.0
+        },
+        "StatsExtra": {
+            "SPD": 57.0
+        },
+        "Weak": [
+            "Phys",
+            "Elec"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300101001
+                ]
+            }
+        ],
+        "Rank": "Minion",
+        "Camp": 10,
+        "Icon": "mostericon/Monster_3001010.png",
+        "Figure": "monsterfigure/Monster_3001010.png",
+        "Status": [
+            230010101
+        ],
+        "AllSkills": [
+            300101001
+        ],
+        "Csxylic": "SCDreamjoltTroupe/3001010"
+    },
+    {
+        "_id": 300101003,
+        "Key": "Monster_W2_Mecha01_02_Config",
+        "Name": {
+            "CH": "惊梦剧团的弹簧荷官",
+            "EN": "Dreamjolt Troupe's Spring Loader"
+        },
+        "Desc": {
+            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>本是牌桌上的娱乐道具，失控后仍在舞动着手中的骰子，用粗鲁的方式进行游戏。",
+            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a tool for entertainment on the card table, it is still shaking the dice in its hands after losing control, continuing the game in a crude manner."
+        },
+        "Stats": {
+            "HP": 3.25,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 83.0,
+            "Stance": 1.0
+        },
+        "StatsExtra": {
+            "SPD": 57.0
+        },
+        "Weak": [
+            "Phys",
+            "Elec"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300101001
+                ]
+            }
+        ],
+        "Rank": "Minion",
+        "Camp": 10,
+        "Icon": "mostericon/Monster_3001010.png",
+        "Figure": "monsterfigure/Monster_3001010.png",
+        "Status": [
+            230010101
+        ],
+        "AllSkills": [
+            300101001
+        ],
+        "Csxylic": "SCDreamjoltTroupe/3001010"
+    },
+    {
+        "_id": 300101004,
+        "Key": "Monster_W2_Mecha01_02_Config",
+        "Name": {
+            "CH": "惊梦剧团的弹簧荷官",
+            "EN": "Dreamjolt Troupe's Spring Loader"
+        },
+        "Desc": {
+            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>本是牌桌上的娱乐道具，失控后仍在舞动着手中的骰子，用粗鲁的方式进行游戏。",
+            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a tool for entertainment on the card table, it is still shaking the dice in its hands after losing control, continuing the game in a crude manner."
+        },
+        "Stats": {
+            "HP": 0.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 83.0,
+            "Stance": 1.0
+        },
+        "StatsExtra": {
+            "SPD": 57.0
+        },
+        "Weak": [
+            "Phys",
+            "Wind"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300101001
+                ]
+            }
+        ],
+        "Rank": "Minion",
+        "Camp": 10,
+        "Icon": "mostericon/Monster_3001010.png",
+        "Figure": "monsterfigure/Monster_3001010.png",
+        "Status": [
+            230010101
+        ],
+        "AllSkills": [
+            300101001
+        ],
+        "Csxylic": "SCDreamjoltTroupe/3001010"
+    },
+    {
         "_id": 3001020,
         "Key": "Monster_XP_Minion01_04_Config",
         "Name": {
@@ -28588,6 +32353,147 @@ var _monster = [
         },
         "Stats": {
             "HP": 1.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 83.0,
+            "Stance": 1.0
+        },
+        "Weak": [
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300102001
+                ]
+            }
+        ],
+        "Rank": "Minion",
+        "Camp": 10,
+        "Icon": "mostericon/Monster_3001020.png",
+        "Figure": "monsterfigure/Monster_3001020.png",
+        "AllSkills": [
+            300102001
+        ],
+        "Csxylic": "SCDreamjoltTroupe/3001020"
+    },
+    {
+        "_id": 300102002,
+        "Key": "Monster_XP_Minion01_04_Config",
+        "Name": {
+            "CH": "惊梦剧团的舞鸫假面",
+            "EN": "Dreamjolt Troupe's Birdskull"
+        },
+        "Desc": {
+            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>本是剧场中的演出道具，失控后仍在演绎台上的闹剧，将混乱的舞步带往各处。",
+            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a prop in the theater, it is still performing the farce on the stage after losing control, bringing cacophonic dance steps to every direction."
+        },
+        "Stats": {
+            "HP": 1.5,
+            "ATK": 14.99994,
+            "DEF": 1.0,
+            "SPD": 83.0,
+            "Stance": 1.0
+        },
+        "Weak": [
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300102001
+                ]
+            }
+        ],
+        "Rank": "Minion",
+        "Camp": 10,
+        "Icon": "mostericon/Monster_3001020.png",
+        "Figure": "monsterfigure/Monster_3001020.png",
+        "AllSkills": [
+            300102001
+        ],
+        "Csxylic": "SCDreamjoltTroupe/3001020"
+    },
+    {
+        "_id": 300102003,
+        "Key": "Monster_XP_Minion01_04_Config",
+        "Name": {
+            "CH": "惊梦剧团的舞鸫假面",
+            "EN": "Dreamjolt Troupe's Birdskull"
+        },
+        "Desc": {
+            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>本是剧场中的演出道具，失控后仍在演绎台上的闹剧，将混乱的舞步带往各处。",
+            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a prop in the theater, it is still performing the farce on the stage after losing control, bringing cacophonic dance steps to every direction."
+        },
+        "Stats": {
+            "HP": 1.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 83.0,
+            "Stance": 1.0
+        },
+        "Weak": [
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300102001
+                ]
+            }
+        ],
+        "Rank": "Minion",
+        "Camp": 10,
+        "Icon": "mostericon/Monster_3001020.png",
+        "Figure": "monsterfigure/Monster_3001020.png",
+        "AllSkills": [
+            300102001
+        ],
+        "Csxylic": "SCDreamjoltTroupe/3001020"
+    },
+    {
+        "_id": 300102004,
+        "Key": "Monster_XP_Minion01_04_Config",
+        "Name": {
+            "CH": "惊梦剧团的舞鸫假面",
+            "EN": "Dreamjolt Troupe's Birdskull"
+        },
+        "Desc": {
+            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>本是剧场中的演出道具，失控后仍在演绎台上的闹剧，将混乱的舞步带往各处。",
+            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a prop in the theater, it is still performing the farce on the stage after losing control, bringing cacophonic dance steps to every direction."
+        },
+        "Stats": {
+            "HP": 1.5,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 83.0,
@@ -28864,6 +32770,63 @@ var _monster = [
         "Csxylic": "SCDreamjoltTroupe/3002010"
     },
     {
+        "_id": 300201004,
+        "Key": "Monster_W3_TV_00_Config",
+        "Name": {
+            "CH": "惊梦剧团的圆幕先生",
+            "EN": "Dreamjolt Troupe's Mr. Domescreen"
+        },
+        "Desc": {
+            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是电视节目中的娱乐演员，失控后仍在演绎自己多变的身份，为观众带来惊喜或是惊吓。",
+            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally an entertainer in TV shows, it is still portraying its ever-changing roles after losing control and continues to bring surprises or scares to the audience."
+        },
+        "Stats": {
+            "HP": 1.24998,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Ice",
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300201001,
+                    300201002,
+                    300201003,
+                    300201004
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 10,
+        "Icon": "mostericon/Monster_3002010.png",
+        "Figure": "monsterfigure/Monster_3002010.png",
+        "Status": [
+            230020101,
+            230020102
+        ],
+        "AllSkills": [
+            300201001,
+            300201002,
+            300201003,
+            300201004
+        ],
+        "Csxylic": "SCDreamjoltTroupe/3002010"
+    },
+    {
         "_id": 3002030,
         "Key": "Monster_W2_Beast01_03_Config",
         "Name": {
@@ -29025,6 +32988,325 @@ var _monster = [
             300203003
         ],
         "Csxylic": "SCDreamjoltTroupe/3002030"
+    },
+    {
+        "_id": 300203003,
+        "Key": "Monster_W2_Beast01_03_Config",
+        "Name": {
+            "CH": "惊梦剧团的气泡锂犬",
+            "EN": "Dreamjolt Troupe's Bubble Hound"
+        },
+        "Desc": {
+            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是「苏乐达」汽水的派送员，失控后仍在挥洒甜蜜，让所有人都来品尝美味的饮品。",
+            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a delivery robot of SoulGlad, it is still dispensing sweetness after losing control, inviting everyone to taste this delicacy."
+        },
+        "Stats": {
+            "HP": 0.62501,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 20.0
+        },
+        "Weak": [
+            "Phys",
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300203001,
+                    300203002,
+                    300203003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 10,
+        "Icon": "mostericon/Monster_3002030.png",
+        "Figure": "monsterfigure/Monster_3002030.png",
+        "Status": [
+            230020301
+        ],
+        "AllSkills": [
+            300203001,
+            300203002,
+            300203003
+        ],
+        "Csxylic": "SCDreamjoltTroupe/3002030"
+    },
+    {
+        "_id": 300203004,
+        "Key": "Monster_W2_Beast01_03_Config",
+        "Name": {
+            "CH": "惊梦剧团的气泡锂犬",
+            "EN": "Dreamjolt Troupe's Bubble Hound"
+        },
+        "Desc": {
+            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是「苏乐达」汽水的派送员，失控后仍在挥洒甜蜜，让所有人都来品尝美味的饮品。",
+            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a delivery robot of SoulGlad, it is still dispensing sweetness after losing control, inviting everyone to taste this delicacy."
+        },
+        "Stats": {
+            "HP": 2.75,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Phys",
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300203001,
+                    300203002,
+                    300203003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 10,
+        "Icon": "mostericon/Monster_3002030.png",
+        "Figure": "monsterfigure/Monster_3002030.png",
+        "Status": [
+            230020301
+        ],
+        "AllSkills": [
+            300203001,
+            300203002,
+            300203003
+        ],
+        "Csxylic": "SCDreamjoltTroupe/3002030"
+    },
+    {
+        "_id": 300203005,
+        "Key": "Monster_W2_Beast01_03_Config",
+        "Name": {
+            "CH": "惊梦剧团的气泡锂犬",
+            "EN": "Dreamjolt Troupe's Bubble Hound"
+        },
+        "Desc": {
+            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是「苏乐达」汽水的派送员，失控后仍在挥洒甜蜜，让所有人都来品尝美味的饮品。",
+            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a delivery robot of SoulGlad, it is still dispensing sweetness after losing control, inviting everyone to taste this delicacy."
+        },
+        "Stats": {
+            "HP": 1.8,
+            "ATK": 14.99994,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Phys",
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300203001,
+                    300203002,
+                    300203003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 10,
+        "Icon": "mostericon/Monster_3002030.png",
+        "Figure": "monsterfigure/Monster_3002030.png",
+        "Status": [
+            230020301
+        ],
+        "AllSkills": [
+            300203001,
+            300203002,
+            300203003
+        ],
+        "Csxylic": "SCDreamjoltTroupe/3002030"
+    },
+    {
+        "_id": 300203006,
+        "Key": "Monster_W2_Beast01_03_Config",
+        "Name": {
+            "CH": "惊梦剧团的气泡锂犬",
+            "EN": "Dreamjolt Troupe's Bubble Hound"
+        },
+        "Desc": {
+            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是「苏乐达」汽水的派送员，失控后仍在挥洒甜蜜，让所有人都来品尝美味的饮品。",
+            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a delivery robot of SoulGlad, it is still dispensing sweetness after losing control, inviting everyone to taste this delicacy."
+        },
+        "Stats": {
+            "HP": 3.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Phys",
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300203001,
+                    300203002,
+                    300203003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 10,
+        "Icon": "mostericon/Monster_3002030.png",
+        "Figure": "monsterfigure/Monster_3002030.png",
+        "Status": [
+            230020301
+        ],
+        "AllSkills": [
+            300203001,
+            300203002,
+            300203003
+        ],
+        "Csxylic": "SCDreamjoltTroupe/3002030"
+    },
+    {
+        "_id": 3002040,
+        "Key": "Monster_W3_Clock_00_Config",
+        "Name": {
+            "CH": "惊梦剧团的发条暴徒",
+            "EN": "Dreamjolt Troupe's Winder Goon"
+        },
+        "Desc": {
+            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是「白日梦」酒店的服务生，失控后仍在履行报时的职责，用最直接的方式将睡梦惊醒。",
+            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a waiter in The Reverie, it is still performing its duty of announcing the time after losing control, jolting dreamers awake in the most crude manner."
+        },
+        "Stats": {
+            "HP": 1.75,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 80.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Elec",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300204001,
+                    300204002,
+                    300204003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 10,
+        "Icon": "mostericon/Monster_3002040.png",
+        "Figure": "monsterfigure/Monster_3002040.png",
+        "AllSkills": [
+            300204001,
+            300204002,
+            300204003
+        ]
+    },
+    {
+        "_id": 300204001,
+        "Key": "Monster_W3_Clock_00_Config",
+        "Name": {
+            "CH": "惊梦剧团的发条暴徒",
+            "EN": "Dreamjolt Troupe's Winder Goon"
+        },
+        "Desc": {
+            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是「白日梦」酒店的服务生，失控后仍在履行报时的职责，用最直接的方式将睡梦惊醒。",
+            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a waiter in The Reverie, it is still performing its duty of announcing the time after losing control, jolting dreamers awake in the most crude manner."
+        },
+        "Stats": {
+            "HP": 3.5,
+            "ATK": 14.99994,
+            "DEF": 1.0,
+            "SPD": 80.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Elec",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300204001,
+                    300204002,
+                    300204003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 10,
+        "Icon": "mostericon/Monster_3002040.png",
+        "Figure": "monsterfigure/Monster_3002040.png",
+        "AllSkills": [
+            300204001,
+            300204002,
+            300204003
+        ]
     },
     {
         "_id": 3002050,
@@ -29269,6 +33551,69 @@ var _monster = [
         "Csxylic": "SCDreamjoltTroupe/3003010"
     },
     {
+        "_id": 300301001,
+        "Key": "Monster_W3_Dinosaur_00_Config",
+        "Name": {
+            "CH": "惊梦剧团的十七分熟",
+            "EN": "Dreamjolt Troupe's Beyond Overcooked"
+        },
+        "Desc": {
+            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是烹饪食物的料理机器，失控后仍在喷吐炙烤食材的烈焰，企图将食客一同烧成焦炭。",
+            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a culinary robot, it is still breathing fire for grilling ingredients after losing control, intending to burn the diners to crisps."
+        },
+        "Stats": {
+            "HP": 42.0,
+            "ATK": 14.99994,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 16.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Ice"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300301001,
+                    300301002,
+                    300301003,
+                    300301004,
+                    300301005,
+                    300301006,
+                    300301007
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 10,
+        "Icon": "mostericon/Monster_3003010.png",
+        "Figure": "monsterfigure/Monster_3003010.png",
+        "Status": [
+            230030104,
+            230030105
+        ],
+        "AllSkills": [
+            300301001,
+            300301002,
+            300301003,
+            300301004,
+            300301005,
+            300301006,
+            300301007
+        ],
+        "Csxylic": "SCDreamjoltTroupe/3003010"
+    },
+    {
         "_id": 3003011,
         "Key": "Monster_W3_Dinosaur_00_Config_ActivityTelevision",
         "Name": {
@@ -29283,7 +33628,7 @@ var _monster = [
             "HP": 125.0,
             "ATK": 18.0,
             "DEF": 1.0,
-            "SPD": 100.0,
+            "SPD": 144.0,
             "Stance": 24.0
         },
         "Weak": [
@@ -29341,7 +33686,7 @@ var _monster = [
             "HP": 7.5,
             "ATK": 18.0,
             "DEF": 1.0,
-            "SPD": 100.0,
+            "SPD": 144.0,
             "Stance": 24.0
         },
         "Weak": [
@@ -29381,6 +33726,64 @@ var _monster = [
             300301105,
             300301106,
             300301107
+        ]
+    },
+    {
+        "_id": 3003012,
+        "Key": "Monster_W3_Dinosaur_00_Config_RLElite",
+        "Name": {
+            "CH": "惊梦剧团的十七分熟（错误）",
+            "EN": "Dreamjolt Troupe's Beyond Overcooked (Bug)"
+        },
+        "Desc": {
+            "CH": "代码受到影响后的错误投影。参照本体为匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是烹饪食物的料理机器，失控后仍在喷吐炙烤食材的烈焰，企图将食客一同烧成焦炭。",
+            "EN": "A false projection produced by compromised codes. The referenced entity is Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a culinary robot, it is still breathing fire for grilling ingredients after losing control, intending to burn the diners to crisps."
+        },
+        "Stats": {
+            "HP": 27.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 24.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300301201,
+                    300301202,
+                    300301203,
+                    300301204,
+                    300301205,
+                    300301206,
+                    300301207
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_3003010.png",
+        "Figure": "monsterfigure/Monster_3003010.png",
+        "AllSkills": [
+            300301201,
+            300301202,
+            300301203,
+            300301204,
+            300301205,
+            300301206,
+            300301207
         ]
     },
     {
@@ -29491,6 +33894,119 @@ var _monster = [
         "Csxylic": "SCDreamjoltTroupe/3003020"
     },
     {
+        "_id": 300302002,
+        "Key": "Monster_W2_Beast02_01_Config",
+        "Name": {
+            "CH": "惊梦剧团的甜猿泰山",
+            "EN": "Dreamjolt Troupe's Sweet Gorilla"
+        },
+        "Desc": {
+            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是「苏乐达」汽水的运输工，失控后仍在分享背负的美味，向路过的宾客抛掷它的礼物。",
+            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a transport robot of SoulGlad, it is still carrying the burden of the delicacy after losing control while launching its gift to guests passing by."
+        },
+        "Stats": {
+            "HP": 62.5,
+            "ATK": 14.99994,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "SPD": -14.0,
+            "Stance": 4.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300302001,
+                    300302002,
+                    300302003,
+                    300302004
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 10,
+        "Icon": "mostericon/Monster_3003020.png",
+        "Figure": "monsterfigure/Monster_3003020.png",
+        "AllSkills": [
+            300302001,
+            300302002,
+            300302003,
+            300302004
+        ],
+        "Csxylic": "SCDreamjoltTroupe/3003020"
+    },
+    {
+        "_id": 300302003,
+        "Key": "Monster_W2_Beast02_01_Config",
+        "Name": {
+            "CH": "惊梦剧团的甜猿泰山",
+            "EN": "Dreamjolt Troupe's Sweet Gorilla"
+        },
+        "Desc": {
+            "CH": "匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是「苏乐达」汽水的运输工，失控后仍在分享背负的美味，向路过的宾客抛掷它的礼物。",
+            "EN": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a transport robot of SoulGlad, it is still carrying the burden of the delicacy after losing control while launching its gift to guests passing by."
+        },
+        "Stats": {
+            "HP": 6.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "Stance": -4.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300302001,
+                    300302002,
+                    300302003,
+                    300302004
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 10,
+        "Icon": "mostericon/Monster_3003020.png",
+        "Figure": "monsterfigure/Monster_3003020.png",
+        "AllSkills": [
+            300302001,
+            300302002,
+            300302003,
+            300302004
+        ],
+        "Csxylic": "SCDreamjoltTroupe/3003020"
+    },
+    {
         "_id": 3003021,
         "Key": "Monster_W2_Beast02_01_Config_ActivityTelevision",
         "Name": {
@@ -29551,6 +34067,58 @@ var _monster = [
         "New": true
     },
     {
+        "_id": 3003022,
+        "Key": "Monster_W2_Beast02_01_Config_RLElite",
+        "Name": {
+            "CH": "惊梦剧团的甜猿泰山（错误）",
+            "EN": "Dreamjolt Troupe's Sweet Gorilla (Bug)"
+        },
+        "Desc": {
+            "CH": "代码受到影响后的错误投影。参照本体为匹诺康尼的服务器械，因梦境中的情绪干扰而陷入失控。<br>原本是「苏乐达」汽水的运输工，失控后仍在分享背负的美味，向路过的宾客抛掷它的礼物。",
+            "EN": "A false projection produced by compromised codes. The referenced entity is Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a transport robot of SoulGlad, it is still carrying the burden of the delicacy after losing control while launching its gift to guests passing by."
+        },
+        "Stats": {
+            "HP": 21.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 12.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    300302201,
+                    300302202,
+                    300302203,
+                    300302204
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_3003020.png",
+        "Figure": "monsterfigure/Monster_3003020.png",
+        "AllSkills": [
+            300302201,
+            300302202,
+            300302203,
+            300302204
+        ]
+    },
+    {
         "_id": 3011010,
         "Key": "Monster_AML_Minion01_02_Config",
         "Name": {
@@ -29597,6 +34165,108 @@ var _monster = [
         ],
         "New": true,
         "Csxylic": "SCMemoryZoneMeme/3011010"
+    },
+    {
+        "_id": 3012010,
+        "Key": "Monster_W3_TV_01_Config",
+        "Name": {
+            "CH": "忆域迷因「何物藏于镜中」",
+            "EN": "Memory Zone Meme \"Something In The Mirror\""
+        },
+        "Desc": {
+            "CH": "蕴含特定认知的实体，由忆域中的潜意识碎片堆积而成。<br>生命通过镜像认知世界，建构自我的认知。无形的模因在镜中倒映，留下千变万化的迷影。",
+            "EN": "A manifestation containing specific cognitions, accumulated from the subconscious fragments in the Memory Zone.<br>Life forms use mirrors to understand the world and build their self-cognition. The shapeless memetic entity reflects in the mirror, leaving behind ever-shifting mirages."
+        },
+        "Stats": {
+            "HP": 1.6,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Phys",
+            "Wind",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    301201001
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    301201002
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 11,
+        "Icon": "mostericon/Monster_3012010.png",
+        "AllSkills": [
+            301201001
+        ]
+    },
+    {
+        "_id": 301201001,
+        "Key": "Monster_W3_TV_01_Config",
+        "Name": {
+            "CH": "忆域迷因「何物藏于镜中」",
+            "EN": "Memory Zone Meme \"Something In The Mirror\""
+        },
+        "Desc": {
+            "CH": "蕴含特定认知的实体，由忆域中的潜意识碎片堆积而成。<br>生命通过镜像认知世界，建构自我的认知。无形的模因在镜中倒映，留下千变万化的迷影。",
+            "EN": "A manifestation containing specific cognitions, accumulated from the subconscious fragments in the Memory Zone.<br>Life forms use mirrors to understand the world and build their self-cognition. The shapeless memetic entity reflects in the mirror, leaving behind ever-shifting mirages."
+        },
+        "Stats": {
+            "HP": 1.6,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Phys",
+            "Wind",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    301201001
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    301201002
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 11,
+        "Icon": "mostericon/Monster_3012010.png",
+        "AllSkills": [
+            301201001
+        ]
     },
     {
         "_id": 3012020,
@@ -29821,6 +34491,171 @@ var _monster = [
             301203103
         ],
         "New": true
+    },
+    {
+        "_id": 3013010,
+        "Key": "Monster_W3_Dinosaur_01_Config",
+        "Name": {
+            "CH": "忆域迷因「狂怒褪去之壳」",
+            "EN": "Memory Zone Meme \"Shell of Faded Rage\""
+        },
+        "Desc": {
+            "CH": "蕴含特定认知的实体，由忆域中的潜意识碎片堆积而成。<br>哀苦的回忆如炽焰灼心，当苦难褪去，怨恨化作的生命便会于灰烬中诞生，积聚无穷的盛怒。",
+            "EN": "Entities imbued with specific cognition, accumulated from fragments of the subconscious in the Memory Zone.<br>Memories of anguish burn like flames, scorching the heart. When the suffering fades away, the life born from resentment will rise from the ashes, accumulating boundless fury."
+        },
+        "Stats": {
+            "HP": 12.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 14.0
+        },
+        "Weak": [
+            "Elec",
+            "Quantum",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    301301001,
+                    301301002,
+                    301301003,
+                    301301004,
+                    301301005
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 11,
+        "Icon": "mostericon/Monster_3013010.png",
+        "AllSkills": [
+            301301001,
+            301301002,
+            301301003,
+            301301004,
+            301301005
+        ]
+    },
+    {
+        "_id": 301301001,
+        "Key": "Monster_W3_Dinosaur_01_Config",
+        "Name": {
+            "CH": "忆域迷因「狂怒褪去之壳」",
+            "EN": "Memory Zone Meme \"Shell of Faded Rage\""
+        },
+        "Desc": {
+            "CH": "蕴含特定认知的实体，由忆域中的潜意识碎片堆积而成。<br>哀苦的回忆如炽焰灼心，当苦难褪去，怨恨化作的生命便会于灰烬中诞生，积聚无穷的盛怒。",
+            "EN": "Entities imbued with specific cognition, accumulated from fragments of the subconscious in the Memory Zone.<br>Memories of anguish burn like flames, scorching the heart. When the suffering fades away, the life born from resentment will rise from the ashes, accumulating boundless fury."
+        },
+        "Stats": {
+            "HP": 4.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 14.0
+        },
+        "StatsExtra": {
+            "Stance": -8.0
+        },
+        "Weak": [
+            "Elec",
+            "Quantum",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    301301001,
+                    301301002,
+                    301301003,
+                    301301004,
+                    301301005
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 11,
+        "Icon": "mostericon/Monster_3013010.png",
+        "AllSkills": [
+            301301001,
+            301301002,
+            301301003,
+            301301004,
+            301301005
+        ]
+    },
+    {
+        "_id": 3013011,
+        "Key": "Monster_W3_Dinosaur_01_Config",
+        "Name": {
+            "CH": "忆域迷因「狂怒褪去之壳」",
+            "EN": "Memory Zone Meme \"Shell of Faded Rage\""
+        },
+        "Desc": {
+            "CH": "蕴含特定认知的实体，由忆域中的潜意识碎片堆积而成。<br>哀苦的回忆如炽焰灼心，当苦难褪去，怨恨化作的生命便会于灰烬中诞生，积聚无穷的盛怒。",
+            "EN": "Entities imbued with specific cognition, accumulated from fragments of the subconscious in the Memory Zone.<br>Memories of anguish burn like flames, scorching the heart. When the suffering fades away, the life born from resentment will rise from the ashes, accumulating boundless fury."
+        },
+        "Stats": {
+            "HP": 16.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 14.0
+        },
+        "StatsExtra": {
+            "Stance": -2.0
+        },
+        "Weak": [
+            "Elec",
+            "Quantum",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    301301101,
+                    301301102,
+                    301301103,
+                    301301104,
+                    301301105
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 11,
+        "Icon": "mostericon/Monster_3013010.png",
+        "AllSkills": [
+            301301101,
+            301301102,
+            301301103,
+            301301104,
+            301301105
+        ]
     },
     {
         "_id": 3014020,
@@ -30257,6 +35092,99 @@ var _monster = [
             301402107
         ],
         "New": true
+    },
+    {
+        "_id": 3014022,
+        "Key": "Monster_W3_Death_00_Config_RLBoss",
+        "Name": {
+            "CH": "忆域迷因「何物朝向死亡」（完整）",
+            "EN": "Memory Zone Meme \"Something Unto Death\" (Complete)"
+        },
+        "Desc": {
+            "CH": "代码受到影响后的完整投影。参照本体为蕴含特定认知的实体，由忆域中的潜意识碎片堆积而成。<br>神秘危险的忆域迷因，被视作梦中不应存在的「死亡」。它的邪影游荡于十二时分，所及之处必有不测之祸，以利刃散布噩耗，以死荫笼罩美梦。",
+            "EN": "A complete projection produced by compromised codes. The referenced entity is an entity imbued with specific cognition, accumulated from fragments of the subconscious in the Memory Zone.<br>A mysterious and dangerous Memory Zone Meme, seen as the \"death\" that shouldn't exist in dreams. Its sinister shadow wanders within the Twelve Hours, bringing unforeseen calamity wherever it goes. It spreads misfortune like a sharp blade, casting a shadow of death over beautiful dreams."
+        },
+        "Stats": {
+            "HP": 11.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 24.0
+        },
+        "Weak": [
+            "Fire",
+            "Wind",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "Frozen": 0.5,
+            "Entangle": 0.5
+        },
+        "HPCount": 3,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    301402201,
+                    301402202,
+                    301402203,
+                    301402204,
+                    301402205,
+                    301402209
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    301402201,
+                    301402202,
+                    301402203,
+                    301402206,
+                    301402207,
+                    301402209
+                ]
+            },
+            {
+                "Phase": 3,
+                "Skills": [
+                    301402201,
+                    301402202,
+                    301402203,
+                    301402204,
+                    301402205,
+                    301402206,
+                    301402207,
+                    301402209
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    301402208
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_3014020.png",
+        "Figure": "monsterfigure/Monster_3014020.png",
+        "AllSkills": [
+            301402201,
+            301402202,
+            301402203,
+            301402204,
+            301402205,
+            301402209,
+            301402206,
+            301402207
+        ]
     },
     {
         "_id": 3021020,
@@ -31019,6 +35947,69 @@ var _monster = [
         ]
     },
     {
+        "_id": 302401201,
+        "Key": "Monster_W2_Argenti_00_Config_Pingshu",
+        "Name": {
+            "CH": "银枝",
+            "EN": "Argenti"
+        },
+        "Desc": {
+            "CH": "「纯美骑士团」的古典骑士，虔诚地仰慕着已失踪的「纯美」星神伊德莉拉。<br>为人正直、光明磊落，于宇宙中漫游，宣扬伊德莉拉美名。",
+            "EN": "A classic knight of the \"Knights of Beauty\" who is piously seeking his missing Aeon Idrila the \"Beauty.\"<br>Forthright and candid, he wanders the cosmos espousing the virtues of Idrila's good name."
+        },
+        "Stats": {
+            "HP": 37.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 16.0
+        },
+        "Weak": [
+            "Phys",
+            "Wind",
+            "Ice"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302401201,
+                    302401202,
+                    302401203,
+                    302401204,
+                    302401205
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    302401207
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_3024010.png",
+        "Figure": "monsterfigure/Monster_3024010.png",
+        "AllSkills": [
+            302401201,
+            302401202,
+            302401203,
+            302401204,
+            302401205
+        ]
+    },
+    {
         "_id": 3024020,
         "Key": "Monster_W3_Sam_00_Config",
         "Name": {
@@ -31099,22 +36090,22 @@ var _monster = [
             "EN": "One of the Stellaron Hunters, a mysterious warrior donning formidable armor.<br>The mecha suit possesses the power to unleash fiery attacks, engulfing the battlefield in flames."
         },
         "Stats": {
-            "HP": 53.7035,
+            "HP": 22.5,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 120.0,
             "Stance": 20.0
         },
         "Weak": [
-            "Ice",
             "Elec",
-            "Quantum"
+            "Quantum",
+            "Imaginary"
         ],
         "RESBase": {
             "Phys": 0.2,
             "Fire": 0.2,
-            "Wind": 0.2,
-            "Imaginary": 0.2
+            "Ice": 0.2,
+            "Wind": 0.2
         },
         "StatusRESBase": 0.3,
         "DebuffRES": {
@@ -31129,7 +36120,8 @@ var _monster = [
                     302402003,
                     302402004,
                     302402005,
-                    302402006
+                    302402006,
+                    302402007
                 ]
             }
         ],
@@ -31137,13 +36129,88 @@ var _monster = [
         "Camp": 5,
         "Icon": "mostericon/Monster_3024020.png",
         "Figure": "monsterfigure/Monster_3024020.png",
+        "Status": [
+            230240201,
+            230240202,
+            230240203,
+            230240204
+        ],
         "AllSkills": [
             302402001,
             302402002,
             302402003,
             302402004,
             302402005,
-            302402006
+            302402006,
+            302402007
+        ],
+        "Csxylic": "SCStellaronHunters/3024020"
+    },
+    {
+        "_id": 302402002,
+        "Key": "Monster_W3_Sam_00_Config",
+        "Name": {
+            "CH": "「星核猎手」萨姆",
+            "EN": "Stellaron Hunter: Sam"
+        },
+        "Desc": {
+            "CH": "星核猎手的一员，身着沉重装甲的神秘战士。他的铁甲能够释放炽焰，点燃战场，发动烈火般的攻势。",
+            "EN": "One of the Stellaron Hunters, a mysterious warrior donning formidable armor.<br>The mecha suit possesses the power to unleash fiery attacks, engulfing the battlefield in flames."
+        },
+        "Stats": {
+            "HP": 56.25,
+            "ATK": 14.99994,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 20.0
+        },
+        "Weak": [
+            "Elec",
+            "Quantum",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    302402001,
+                    302402002,
+                    302402003,
+                    302402004,
+                    302402005,
+                    302402006,
+                    302402007
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 5,
+        "Icon": "mostericon/Monster_3024020.png",
+        "Figure": "monsterfigure/Monster_3024020.png",
+        "Status": [
+            230240201,
+            230240202,
+            230240203,
+            230240204
+        ],
+        "AllSkills": [
+            302402001,
+            302402002,
+            302402003,
+            302402004,
+            302402005,
+            302402006,
+            302402007
         ],
         "Csxylic": "SCStellaronHunters/3024020"
     },
@@ -31214,1769 +36281,6 @@ var _monster = [
             302402107
         ],
         "New": true
-    },
-    {
-        "_id": 7001010,
-        "Key": "Monster_AetherDivide_W2_Mecha01_00_Config",
-        "Name": {
-            "CH": "入魔机巧 · 率从狻猊",
-            "EN": "Entranced Ingenium: Obedient Dracolion"
-        },
-        "Desc": {
-            "CH": "工造司匠人随手造就的机巧发明。原本是不具灵智，用以示警招众的警铃，如今却因为某些异变被赋予了短暂的「生命」。<br>在战斗中，率从狻猊可以抵御致命伤害。",
-            "EN": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate alarm bell used for warnings, but now it has been given a short-lived \"life\" due to certain mutations.<br>In battle, Obedient Dracolion can resist fatal damage."
-        },
-        "Stats": {
-            "HP": 15.0,
-            "ATK": 18.0,
-            "DEF": 0.0,
-            "SPD": 95.0,
-            "Stance": 1.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700101001,
-                    700101002,
-                    700101003
-                ]
-            }
-        ],
-        "Rank": "Minion",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_2011010.png",
-        "Figure": "monsterfigure/Monster_2011010.png",
-        "AllSkills": [
-            700101001,
-            700101002,
-            700101003
-        ]
-    },
-    {
-        "_id": 7001011,
-        "Key": "Monster_AetherDivide_AML_Minion02_00_Config",
-        "Name": {
-            "CH": "虚卒 · 掠夺者",
-            "EN": "Voidranger: Reaver"
-        },
-        "Desc": {
-            "CH": "尚未死灭的战士经「战争熔炉」的重铸获得了名为「毁灭」的力量，反物质补足了他们的残躯，负粒子在其躯体中震荡。",
-            "EN": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies, and negative particles reverberate throughout their forms."
-        },
-        "Stats": {
-            "HP": 12.0,
-            "ATK": 18.0,
-            "DEF": 0.0,
-            "SPD": 133.0,
-            "Stance": 2.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700101101,
-                    700101102
-                ]
-            }
-        ],
-        "Rank": "Minion",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_8012010.png",
-        "Figure": "monsterfigure/Monster_8012010.png",
-        "AllSkills": [
-            700101101,
-            700101102
-        ]
-    },
-    {
-        "_id": 7001012,
-        "Key": "Monster_AetherDivide_AML_Minion04_00_Config",
-        "Name": {
-            "CH": "虚卒 · 抹消者",
-            "EN": "Voidranger: Eliminator"
-        },
-        "Desc": {
-            "CH": "死亡之后遭遇裂界侵蚀的躯壳残骸，其生命体征虽发生改变，但依然在执行抹消的指令。<br>在战斗中虚卒·抹消者可快速多次发动攻击，但若无法消灭敌方目标会受到大量伤害。",
-            "EN": "Bodies that continued to be corroded by the Fragmentum after death. While their vital signs have changed, they continue to carry out their orders to eliminate.<br>Voidranger: Eliminators can quickly unleash multiple attacks in combat, but if they are unable to eliminate their foes, they will suffer a massive amount of damage."
-        },
-        "Stats": {
-            "HP": 12.0,
-            "ATK": 18.0,
-            "DEF": 0.0,
-            "SPD": 133.0,
-            "Stance": 3.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700101201,
-                    700101202,
-                    700101203
-                ]
-            }
-        ],
-        "Rank": "Minion",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_8012030.png",
-        "Figure": "monsterfigure/Monster_8012030.png",
-        "AllSkills": [
-            700101201,
-            700101202,
-            700101203
-        ]
-    },
-    {
-        "_id": 7001013,
-        "Key": "Monster_AetherDivide_XP_Minion04_02_Config",
-        "Name": {
-            "CH": "商务扑满",
-            "EN": "Commerce Trotter"
-        },
-        "Desc": {
-            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。<br>商务扑满可为其他公司员工提供绩效点。",
-            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens.<br>The Commerce Trotter can provide Performance Points for other IPC Workers."
-        },
-        "Stats": {
-            "HP": 12.0,
-            "ATK": 18.0,
-            "DEF": 0.0,
-            "SPD": 90.0,
-            "Stance": 3.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700101301,
-                    700101302
-                ]
-            }
-        ],
-        "Rank": "Minion",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_8002050.png",
-        "Figure": "monsterfigure/Monster_8002050.png",
-        "AllSkills": [
-            700101301,
-            700101302
-        ]
-    },
-    {
-        "_id": 7002010,
-        "Key": "Monster_AetherDivide_W2_Beast01_01_Config",
-        "Name": {
-            "CH": "丰饶灵兽 · 奎木",
-            "EN": "Abundance Sprite: Wooden Lupus"
-        },
-        "Desc": {
-            "CH": "身披烟雾的奔狼，行动飘忽不定。<br>在「建木」上一次伫立时，仙舟人曾以奇术繁育众多异兽珍禽。奎木即为伴随军阵行进的战兽之一。",
-            "EN": "Wolves draped in haze, their movement elusive and unexpected.<br>When the Ambrosial Arbor still stood, the Xianzhou people bred many fantastic creatures with esoteric techniques. Wooden Lupuses were one of the war beasts that walked alongside the army."
-        },
-        "Stats": {
-            "HP": 15.0,
-            "ATK": 18.0,
-            "DEF": 0.0,
-            "SPD": 100.0,
-            "Stance": 2.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700201001,
-                    700201002,
-                    700201003
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_2022050.png",
-        "Figure": "monsterfigure/Monster_2022050.png",
-        "AllSkills": [
-            700201001,
-            700201002,
-            700201003
-        ]
-    },
-    {
-        "_id": 7002011,
-        "Key": "Monster_AetherDivide_W2_Beast01_02_Config",
-        "Name": {
-            "CH": "狈影",
-            "EN": "Shadow Jackhyena"
-        },
-        "Desc": {
-            "CH": "奎木凝成的幻影。",
-            "EN": "Illusion formed by a Wooden Lupus."
-        },
-        "Stats": {
-            "HP": 15.0,
-            "ATK": 18.0,
-            "DEF": 0.0,
-            "SPD": 100.0,
-            "Stance": 2.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700201101
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_2022051.png",
-        "AllSkills": [
-            700201101
-        ]
-    },
-    {
-        "_id": 7002020,
-        "Key": "Monster_AetherDivide_W1_Soldier01_03_Config",
-        "Name": {
-            "CH": "流浪者",
-            "EN": "Vagrant"
-        },
-        "Desc": {
-            "CH": "困居于下层区的人们为了生存，往往会不惜铤而走险深入裂界寻找任何可用的物资，其中被他们掘出的古代机器成了他们最好的帮手。",
-            "EN": "In order to survive, some Underworlders are desperate enough to venture deep into the Fragmentum in search of anything salvageable. Ancient machinery that they dug up has become their best helper."
-        },
-        "Stats": {
-            "HP": 16.0,
-            "ATK": 18.0,
-            "DEF": 0.0,
-            "SPD": 100.0,
-            "Stance": 2.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700202001,
-                    700202002
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_1002020.png",
-        "Figure": "monsterfigure/Monster_1002020.png",
-        "AllSkills": [
-            700202001,
-            700202002
-        ]
-    },
-    {
-        "_id": 7002030,
-        "Key": "Monster_AetherDivide_W1_Soldier01_01_Config",
-        "Name": {
-            "CH": "火焚灾影",
-            "EN": "Incineration Shadewalker"
-        },
-        "Desc": {
-            "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形。其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的燃烬所取代。<br>战斗中火焚灾影会挥舞燃烧的斧刃，灼烧敌人。",
-            "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armor as the Belobog warriors, its skull is, however, replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle."
-        },
-        "Stats": {
-            "HP": 15.0,
-            "ATK": 18.0,
-            "DEF": 0.0,
-            "SPD": 100.0,
-            "Stance": 2.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700203001,
-                    700203002
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_9002410.png",
-        "Figure": "monsterfigure/Monster_1022020.png",
-        "AllSkills": [
-            700203001,
-            700203002
-        ]
-    },
-    {
-        "_id": 700203001,
-        "Key": "Monster_AetherDivide_W1_Soldier01_01_Config",
-        "Name": {
-            "CH": "火焚灾影",
-            "EN": "Incineration Shadewalker"
-        },
-        "Desc": {
-            "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形。其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的燃烬所取代。<br>战斗中火焚灾影会挥舞燃烧的斧刃，灼烧敌人。",
-            "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armor as the Belobog warriors, its skull is, however, replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle."
-        },
-        "Stats": {
-            "HP": 12.0,
-            "ATK": 7.2,
-            "DEF": 0.0,
-            "SPD": 100.0,
-            "Stance": 2.0
-        },
-        "StatsExtra": {
-            "SPD": 8.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700203001,
-                    700203002
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_9002410.png",
-        "Figure": "monsterfigure/Monster_1022020.png",
-        "AllSkills": [
-            700203001,
-            700203002
-        ]
-    },
-    {
-        "_id": 700203002,
-        "Key": "Monster_AetherDivide_W1_Soldier01_01_Config",
-        "Name": {
-            "CH": "火焚灾影",
-            "EN": "Incineration Shadewalker"
-        },
-        "Desc": {
-            "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形。其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的燃烬所取代。<br>战斗中火焚灾影会挥舞燃烧的斧刃，灼烧敌人。",
-            "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armor as the Belobog warriors, its skull is, however, replaced by faceless embers.<br>Incineration Shadewalkers will swing their fiery ax and burn their enemies in battle."
-        },
-        "Stats": {
-            "HP": 9.0,
-            "ATK": 9.0,
-            "DEF": 0.0,
-            "SPD": 100.0,
-            "Stance": 2.0
-        },
-        "StatsExtra": {
-            "SPD": -20.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700203001,
-                    700203002
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_9002410.png",
-        "Figure": "monsterfigure/Monster_1022020.png",
-        "AllSkills": [
-            700203001,
-            700203002
-        ]
-    },
-    {
-        "_id": 7002040,
-        "Key": "Monster_AetherDivide_W1_Mecha02_00_Config",
-        "Name": {
-            "CH": "",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "Stats": {
-            "HP": 15.0,
-            "ATK": 18.0,
-            "DEF": 0.0,
-            "SPD": 90.0,
-            "Stance": 2.0
-        },
-        "StatsExtra": {
-            "Stance": 0.03333
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700204001,
-                    700204002,
-                    700204003
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_1012010.png",
-        "Figure": "monsterfigure/Monster_1012010.png",
-        "AllSkills": [
-            700204001,
-            700204002,
-            700204003
-        ]
-    },
-    {
-        "_id": 7002050,
-        "Key": "Monster_AetherDivide_W2_Mecha02_00_Config",
-        "Name": {
-            "CH": "入魔机巧 · 灯昼龙鱼",
-            "EN": "Entranced Ingenium: Illumination Dragonfish"
-        },
-        "Desc": {
-            "CH": "工造司匠人随手造就的机巧发明。原本是不具灵智，用以烛照黑暗的灯具，如今却因为某些异变被赋予了短暂的「生命」。",
-            "EN": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate illuminator used for casting light upon darkness, but now it has been given a short-lived \"life\" due to certain mutations."
-        },
-        "Stats": {
-            "HP": 20.0,
-            "ATK": 18.0,
-            "DEF": 0.0,
-            "SPD": 100.0,
-            "Stance": 2.0
-        },
-        "StatsExtra": {
-            "Stance": 0.03333
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700205001,
-                    700205002,
-                    700205003
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_2012010.png",
-        "Figure": "monsterfigure/Monster_2012010.png",
-        "AllSkills": [
-            700205001,
-            700205002,
-            700205003
-        ]
-    },
-    {
-        "_id": 700205001,
-        "Key": "Monster_AetherDivide_W2_Mecha02_00_Config",
-        "Name": {
-            "CH": "入魔机巧 · 灯昼龙鱼",
-            "EN": "Entranced Ingenium: Illumination Dragonfish"
-        },
-        "Desc": {
-            "CH": "工造司匠人随手造就的机巧发明。原本是不具灵智，用以烛照黑暗的灯具，如今却因为某些异变被赋予了短暂的「生命」。",
-            "EN": "An ingenium casually made by craftsmasters of the Artisanship Commission. It was originally an inanimate illuminator used for casting light upon darkness, but now it has been given a short-lived \"life\" due to certain mutations."
-        },
-        "Stats": {
-            "HP": 8.0,
-            "ATK": 18.0,
-            "DEF": 0.0,
-            "SPD": 100.0,
-            "Stance": 2.0
-        },
-        "StatsExtra": {
-            "Stance": 0.03333
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700205001,
-                    700205002,
-                    700205003
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_2012010.png",
-        "Figure": "monsterfigure/Monster_2012010.png",
-        "AllSkills": [
-            700205001,
-            700205002,
-            700205003
-        ]
-    },
-    {
-        "_id": 7002060,
-        "Key": "Monster_AetherDivide_W1_Soldier04_00_Config",
-        "Name": {
-            "CH": "银鬃炮手",
-            "EN": "Silvermane Cannoneer"
-        },
-        "Desc": {
-            "CH": "银鬃铁卫中的炮手，使用便携的手炮进行战斗。<br> 在战斗中，银鬃炮手会和其它目标发动猛烈的连携攻击。",
-            "EN": "A cannoneer of the Silvermane Guards who wields a portable hand cannon into battle.<br>During combat, a Silvermane Cannoneer will launch brutal chain attacks along with other allies of theirs."
-        },
-        "Stats": {
-            "HP": 12.0,
-            "ATK": 18.0,
-            "DEF": 0.0,
-            "SPD": 90.0,
-            "Stance": 3.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700206001,
-                    700206002,
-                    700206003
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_1002030.png",
-        "Figure": "monsterfigure/Monster_1002030.png",
-        "AllSkills": [
-            700206001,
-            700206002,
-            700206003
-        ]
-    },
-    {
-        "_id": 7002070,
-        "Key": "Monster_AetherDivide_XP_Minion02_00_Config",
-        "Name": {
-            "CH": "虚数织叶者",
-            "EN": "Imaginary Weaver"
-        },
-        "Desc": {
-            "CH": "不属此世的怪异生命，自深黯星空的彼端，透过重重帷幕而来。其身躯犹如病态的枝叶探入现实中，使用虚数的力量肆意改造现实。",
-            "EN": "Strange beings that do not belong to this world. Passing through countless barriers, they arrive from the other side of the vast, dark, starry sky. Their bodies are like diseased branches breaching into reality, using Imaginary power to twist reality at will."
-        },
-        "Stats": {
-            "HP": 15.0,
-            "ATK": 18.0,
-            "DEF": 0.0,
-            "SPD": 110.0,
-            "Stance": 2.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700207001,
-                    700207002
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_8002010.png",
-        "Figure": "monsterfigure/Monster_8002010.png",
-        "AllSkills": [
-            700207001,
-            700207002
-        ]
-    },
-    {
-        "_id": 700207001,
-        "Key": "Monster_AetherDivide_XP_Minion02_00_Config",
-        "Name": {
-            "CH": "虚数织叶者",
-            "EN": "Imaginary Weaver"
-        },
-        "Desc": {
-            "CH": "不属此世的怪异生命，自深黯星空的彼端，透过重重帷幕而来。其身躯犹如病态的枝叶探入现实中，使用虚数的力量肆意改造现实。",
-            "EN": "Strange beings that do not belong to this world. Passing through countless barriers, they arrive from the other side of the vast, dark, starry sky. Their bodies are like diseased branches breaching into reality, using Imaginary power to twist reality at will."
-        },
-        "Stats": {
-            "HP": 17.4,
-            "ATK": 14.99994,
-            "DEF": 0.0,
-            "SPD": 110.0,
-            "Stance": 2.0
-        },
-        "StatsExtra": {
-            "SPD": -2.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700207001,
-                    700207002
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_8002010.png",
-        "Figure": "monsterfigure/Monster_8002010.png",
-        "AllSkills": [
-            700207001,
-            700207002
-        ]
-    },
-    {
-        "_id": 700207002,
-        "Key": "Monster_AetherDivide_XP_Minion02_00_Config",
-        "Name": {
-            "CH": "虚数织叶者",
-            "EN": "Imaginary Weaver"
-        },
-        "Desc": {
-            "CH": "不属此世的怪异生命，自深黯星空的彼端，透过重重帷幕而来。其身躯犹如病态的枝叶探入现实中，使用虚数的力量肆意改造现实。",
-            "EN": "Strange beings that do not belong to this world. Passing through countless barriers, they arrive from the other side of the vast, dark, starry sky. Their bodies are like diseased branches breaching into reality, using Imaginary power to twist reality at will."
-        },
-        "Stats": {
-            "HP": 8.0,
-            "ATK": 14.99994,
-            "DEF": 0.0,
-            "SPD": 110.0,
-            "Stance": 2.0
-        },
-        "StatsExtra": {
-            "SPD": -25.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700207001,
-                    700207002
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_8002010.png",
-        "Figure": "monsterfigure/Monster_8002010.png",
-        "AllSkills": [
-            700207001,
-            700207002
-        ]
-    },
-    {
-        "_id": 7002080,
-        "Key": "Monster_AetherDivide_W1_Soldier02_00_Config",
-        "Name": {
-            "CH": "银鬃射手",
-            "EN": "Silvermane Gunner"
-        },
-        "Desc": {
-            "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的射手，负责狙击敌人。<br>战斗中，银鬃射手会标记敌方目标，指引友方集中攻击。",
-            "EN": "A gunner of Belobog's Silvermane Guards, tasked with sniping at enemies.<br>Silvermane Gunners can mark enemy targets in combat and direct allies to focus their attacks."
-        },
-        "Stats": {
-            "HP": 15.0,
-            "ATK": 18.0,
-            "DEF": 0.0,
-            "SPD": 100.0,
-            "Stance": 2.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700208001,
-                    700208002
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_1001020.png",
-        "Figure": "monsterfigure/Monster_1002050.png",
-        "AllSkills": [
-            700208001,
-            700208002
-        ]
-    },
-    {
-        "_id": 7002090,
-        "Key": "Monster_AetherDivide_W1_Soldier01_00_Config",
-        "Name": {
-            "CH": "银鬃近卫",
-            "EN": "Silvermane Soldier"
-        },
-        "Desc": {
-            "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的近卫战士，负责冲锋陷阵。<br>战斗中，银鬃近卫会持续为友方提供加成效果。",
-            "EN": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers provide continuous buffs to allies in combat."
-        },
-        "Stats": {
-            "HP": 15.0,
-            "ATK": 18.0,
-            "DEF": 0.0,
-            "SPD": 95.0,
-            "Stance": 2.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700209001,
-                    700209002,
-                    700209003
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_1001010.png",
-        "Figure": "monsterfigure/Monster_1002040.png",
-        "AllSkills": [
-            700209001,
-            700209002,
-            700209003
-        ]
-    },
-    {
-        "_id": 700209001,
-        "Key": "Monster_AetherDivide_W1_Soldier01_00_Config",
-        "Name": {
-            "CH": "银鬃近卫",
-            "EN": "Silvermane Soldier"
-        },
-        "Desc": {
-            "CH": "贝洛伯格的戍卫部队「银鬃铁卫」中的近卫战士，负责冲锋陷阵。<br>战斗中，银鬃近卫会持续为友方提供加成效果。",
-            "EN": "A member of Belobog's Silvermane Guards, tasked with leading the charge into enemy lines.<br>Silvermane Soldiers provide continuous buffs to allies in combat."
-        },
-        "Stats": {
-            "HP": 7.0,
-            "ATK": 6.428520000000001,
-            "DEF": 0.0,
-            "SPD": 95.0,
-            "Stance": 2.0
-        },
-        "StatsExtra": {
-            "SPD": -20.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700209001,
-                    700209002,
-                    700209003
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_1001010.png",
-        "Figure": "monsterfigure/Monster_1002040.png",
-        "AllSkills": [
-            700209001,
-            700209002,
-            700209003
-        ]
-    },
-    {
-        "_id": 7002100,
-        "Key": "Monster_AetherDivide_W1_Mecha01_00_Config",
-        "Name": {
-            "CH": "自动机兵 · 蜘蛛",
-            "EN": "Automaton Spider"
-        },
-        "Desc": {
-            "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责替代人类进行最基础的体力劳动。",
-            "EN": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor."
-        },
-        "Stats": {
-            "HP": 15.0,
-            "ATK": 18.0,
-            "DEF": 0.0,
-            "SPD": 100.0,
-            "Stance": 2.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700210001,
-                    700210002,
-                    700210003
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_1012020.png",
-        "Figure": "monsterfigure/Monster_1012020.png",
-        "AllSkills": [
-            700210001,
-            700210002,
-            700210003
-        ]
-    },
-    {
-        "_id": 7002110,
-        "Key": "Monster_AetherDivide_W1_Mecha01_00_Config",
-        "Name": {
-            "CH": "自动机兵 · 蜘蛛",
-            "EN": "Automaton Spider"
-        },
-        "Desc": {
-            "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，负责替代人类进行最基础的体力劳动。",
-            "EN": "An automaton pieced together with Old World technology, tasked with replacing humans in performing the most basic forms of physical labor."
-        },
-        "Stats": {
-            "HP": 15.0,
-            "ATK": 18.0,
-            "DEF": 0.0,
-            "SPD": 100.0,
-            "Stance": 2.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700211001,
-                    700211002,
-                    700211003
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_1012020.png",
-        "Figure": "monsterfigure/Monster_1012020.png",
-        "AllSkills": [
-            700211001,
-            700211002,
-            700211003
-        ]
-    },
-    {
-        "_id": 7002120,
-        "Key": "Monster_AetherDivide_W1_Soldier02_01_Config",
-        "Name": {
-            "CH": "基层员工 · 外勤",
-            "EN": "Grunt: Field Personnel"
-        },
-        "Desc": {
-            "CH": "「星际和平公司」的基层员工，主要负责处理上不得台面的「业务疏漏」。工资不高，只能在公司旗下的企业舰上合租房间。",
-            "EN": "An Interastral Peace Corporation grunt worker whose job mainly deals with shady \"business oversights.\" With a meager salary, the only lodging they can afford is a shared room on one of the IPC's enterprise ships."
-        },
-        "Stats": {
-            "HP": 13.0,
-            "ATK": 18.0,
-            "DEF": 0.0,
-            "SPD": 100.0,
-            "Stance": 2.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700212001,
-                    700212002,
-                    700212003
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_8032010.png",
-        "Figure": "monsterfigure/Monster_8032010.png",
-        "AllSkills": [
-            700212001,
-            700212002,
-            700212003
-        ]
-    },
-    {
-        "_id": 7002130,
-        "Key": "Monster_AetherDivide_W1_Soldier01_04_Config",
-        "Name": {
-            "CH": "基层员工 · 安保",
-            "EN": "Grunt: Security Personnel"
-        },
-        "Desc": {
-            "CH": "「星际和平公司」的基层员工，主要负责维持公司管辖地区的治安秩序。工资不高，只能在公司旗下的企业舰上合租房间。",
-            "EN": "An Interastral Peace Corporation grunt worker whose job mainly involves maintaining order in locations ruled by the IPC. With a meager salary, the only lodging they can afford is a shared room on one of the IPC's enterprise ships."
-        },
-        "Stats": {
-            "HP": 13.0,
-            "ATK": 18.0,
-            "DEF": 0.0,
-            "SPD": 100.0,
-            "Stance": 3.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700213001,
-                    700213002,
-                    700213003
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_8032020.png",
-        "Figure": "monsterfigure/Monster_8032020.png",
-        "AllSkills": [
-            700213001,
-            700213002,
-            700213003
-        ]
-    },
-    {
-        "_id": 7002140,
-        "Key": "Monster_AetherDivide_W1_Soldier01_02_Config",
-        "Name": {
-            "CH": "永冬灾影",
-            "EN": "Everwinter Shadewalker"
-        },
-        "Desc": {
-            "CH": "寒潮降临后逡巡在裂界中的虚影。它扭曲地模仿着银鬃铁卫的身形，其甲胄着装与贝洛伯格的战士们同样严整，头颅却被没有五官的冰棱所取代。<br>战斗中永冬灾影会挥舞冰造的斧刃，延缓敌人的行动。",
-            "EN": "Shades that wander in the Fragmentum after the arrival of the Eternal Freeze. It mimics the form of the Silvermane Guards in a twisted manner. Fitted with the same uniformed armor as the Belobog warriors, its face, however, is replaced by a sheet of faceless ice.<br>Everwinter Shadewalkers will swing their ice axe and slow their enemies."
-        },
-        "Stats": {
-            "HP": 15.0,
-            "ATK": 18.0,
-            "DEF": 0.0,
-            "SPD": 100.0,
-            "Stance": 2.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700214001,
-                    700214002
-                ]
-            }
-        ],
-        "Rank": "MinionLv2",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_9002400.png",
-        "Figure": "monsterfigure/Monster_1022010.png",
-        "AllSkills": [
-            700214001,
-            700214002
-        ]
-    },
-    {
-        "_id": 7003010,
-        "Key": "Monster_AetherDivide_XP_Elite01_00_Config",
-        "Name": {
-            "CH": "外宇宙之炎",
-            "EN": "Blaze Out of Space"
-        },
-        "Desc": {
-            "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上燃烧着星辰内核的烈焰。<br>在战斗中，外宇宙之炎能轻易将敌人焚作灰烬。",
-            "EN": "Born of the Fragmentum and created by the Stellaron, this alien life form feeds on this world's energy. The blazing fires from the core of a star burn on its armor.<br>In combat, the Blaze Out of Space will incinerate anything it touches."
-        },
-        "Stats": {
-            "HP": 25.0,
-            "ATK": 18.0,
-            "DEF": 0.0,
-            "SPD": 100.0,
-            "Stance": 12.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700301002,
-                    700301003,
-                    700301004,
-                    700301005,
-                    700301006
-                ]
-            },
-            {
-                "Phase": 0,
-                "Skills": [
-                    700301001
-                ]
-            }
-        ],
-        "Rank": "Elite",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_8003020.png",
-        "Figure": "monsterfigure/Monster_8003020.png",
-        "AllSkills": [
-            700301002,
-            700301003,
-            700301004,
-            700301005,
-            700301006
-        ]
-    },
-    {
-        "_id": 7003020,
-        "Key": "Monster_AetherDivide_W2_Mecha03_00_Config",
-        "Name": {
-            "CH": "金人司阍",
-            "EN": "Aurumaton Gatekeeper"
-        },
-        "Desc": {
-            "CH": "以古老机巧术铸造的镇守金人。<br>无数岁月前，金人随着仙舟出航求取仙方，监管和辅助人类进行战争——但历尽叛乱后，金人最终为仙舟人所降服。<br>而今所有的金人都被符箓严格宰制，用以把守机要重地。",
-            "EN": "Garrison aurumaton created with ancient ingenium technology.<br>Countless years ago, the aurumatons set sail with the Xianzhou to seek divine recipes of immortality, and were tasked with overseeing humanity and aiding humankind during warfare. However, after countless rebellions, they were finally overpowered by the Xianzhou natives.<br>Now, all aurumatons are strictly controlled with talismans and are employed to guard important places."
-        },
-        "Stats": {
-            "HP": 25.0,
-            "ATK": 18.0,
-            "DEF": 0.0,
-            "SPD": 90.0,
-            "Stance": 10.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700302001,
-                    700302002,
-                    700302003,
-                    700302004,
-                    700302005
-                ]
-            }
-        ],
-        "Rank": "Elite",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_2013010.png",
-        "Figure": "monsterfigure/Monster_2013010.png",
-        "AllSkills": [
-            700302001,
-            700302002,
-            700302003,
-            700302004,
-            700302005
-        ]
-    },
-    {
-        "_id": 7003030,
-        "Key": "Monster_AetherDivide_W1_Soldier03_00_Config",
-        "Name": {
-            "CH": "银鬃尉官",
-            "EN": "Silvermane Lieutenant"
-        },
-        "Desc": {
-            "CH": "贝洛伯格的戍卫部队「银鬃铁卫」分队的领导者。<br>银鬃尉官会为友方提供护盾，并反击攻击受护盾保护的友方的敌人。",
-            "EN": "The leader of a squad of Belobog's Silvermane Guards.<br>Silvermane Lieutenants can provide Shields for allies and counterattack enemies attacking their protected allies."
-        },
-        "Stats": {
-            "HP": 25.0,
-            "ATK": 18.0,
-            "DEF": 0.0,
-            "SPD": 105.0,
-            "Stance": 8.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700303001,
-                    700303002,
-                    700303003,
-                    700303004
-                ]
-            }
-        ],
-        "Rank": "Elite",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_1003010.png",
-        "Figure": "monsterfigure/Monster_1003010.png",
-        "AllSkills": [
-            700303001,
-            700303002,
-            700303003,
-            700303004
-        ]
-    },
-    {
-        "_id": 7003040,
-        "Key": "Monster_AetherDivide_AML_Elite01_00_Config",
-        "Name": {
-            "CH": "虚卒 · 践踏者",
-            "EN": "Voidranger: Trampler"
-        },
-        "Desc": {
-            "CH": "「反物质军团」利用「战争熔炉」将战士与古兽的残片融合重铸后的产物。<br>虽数量相对稀少，但兼具战士的智能与古兽的力量与机动性。在战斗中，消灭敌人后会立即再次行动。",
-            "EN": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. In combat, it can immediately take another action after destroying an enemy."
-        },
-        "Stats": {
-            "HP": 25.0,
-            "ATK": 18.0,
-            "DEF": 0.0,
-            "SPD": 120.0,
-            "Stance": 10.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700304001,
-                    700304002,
-                    700304003,
-                    700304004,
-                    700304005,
-                    700304006
-                ]
-            }
-        ],
-        "Rank": "Elite",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_8013010.png",
-        "Figure": "monsterfigure/Monster_8013010.png",
-        "AllSkills": [
-            700304001,
-            700304002,
-            700304003,
-            700304004,
-            700304005,
-            700304006
-        ]
-    },
-    {
-        "_id": 7003050,
-        "Key": "Monster_AetherDivide_XP_Elite02_01_Config",
-        "Name": {
-            "CH": "",
-            "EN": ""
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "Stats": {
-            "HP": 25.0,
-            "ATK": 18.0,
-            "DEF": 0.0,
-            "SPD": 120.0,
-            "Stance": 10.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700305001,
-                    700305002,
-                    700305003,
-                    700305004,
-                    700305005
-                ]
-            }
-        ],
-        "Rank": "Elite",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_8003040.png",
-        "Figure": "monsterfigure/Monster_8003040.png",
-        "AllSkills": [
-            700305001,
-            700305002,
-            700305003,
-            700305004,
-            700305005
-        ]
-    },
-    {
-        "_id": 7003060,
-        "Key": "Monster_AetherDivide_W1_Mecha03_01_Config",
-        "Name": {
-            "CH": "深寒徘徊者",
-            "EN": "Frigid Prowler"
-        },
-        "Desc": {
-            "CH": "徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>深寒徘徊者会吸收友方生命值以大幅强化自身。",
-            "EN": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Frigid Prowler will drain HP from allies to greatly enhance itself."
-        },
-        "Stats": {
-            "HP": 25.0,
-            "ATK": 18.0,
-            "DEF": 0.0,
-            "SPD": 100.0,
-            "Stance": 10.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700306001,
-                    700306002,
-                    700306003
-                ]
-            }
-        ],
-        "Rank": "Elite",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_1023020.png",
-        "Figure": "monsterfigure/Monster_1023020.png",
-        "AllSkills": [
-            700306001,
-            700306002,
-            700306003
-        ]
-    },
-    {
-        "_id": 7003070,
-        "Key": "Monster_AetherDivide_W1_Mecha04_00_Config",
-        "Name": {
-            "CH": "自动机兵 · 齿狼",
-            "EN": "Automaton Direwolf"
-        },
-        "Desc": {
-            "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，少见的人形机械，其右臂部分统一装置着链锯，似乎曾用于采集或建造作业。<br>战斗中，自动机兵「齿狼」会持续叠加速度和伤害加成。",
-            "EN": "An automaton pieced together with Old World technology. This rare type of humanoid automaton is equipped with a chainsaw on its right arm, presumably used for mining or construction operations.<br>In combat, Automaton Direwolfs can continuously stack SPD and DMG buffs."
-        },
-        "Stats": {
-            "HP": 25.0,
-            "ATK": 18.0,
-            "DEF": 0.0,
-            "SPD": 115.0,
-            "Stance": 10.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700307001,
-                    700307002,
-                    700307003,
-                    700307004
-                ]
-            }
-        ],
-        "Rank": "Elite",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_1013020.png",
-        "Figure": "monsterfigure/Monster_1013020.png",
-        "AllSkills": [
-            700307001,
-            700307002,
-            700307003,
-            700307004
-        ]
-    },
-    {
-        "_id": 7003080,
-        "Key": "Monster_AetherDivide_W1_Mecha04_01_Config",
-        "Name": {
-            "CH": "炽燃徘徊者",
-            "EN": "Searing Prowler"
-        },
-        "Desc": {
-            "CH": "徘徊在裂界中的机械单元，但毫无疑问这并非人类技术造就的产物，而是裂界扭曲的力量模仿而成的怪物。<br>炽燃徘徊者的攻击会对处于灼烧状态的敌人造成额外效果。",
-            "EN": "A machine unit prowling in the Fragmentum. Undoubtedly, this monstrosity is not a human creation, but one that was born out of the perversion of the Fragmentum.<br>Searing Prowler's attacks will deal extra damage against enemies afflicted with Burn."
-        },
-        "Stats": {
-            "HP": 25.0,
-            "ATK": 18.0,
-            "DEF": 0.0,
-            "SPD": 100.0,
-            "Stance": 10.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "DebuffRES": {
-            "Burn": 1.0
-        },
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700308001,
-                    700308002,
-                    700308003,
-                    700308004,
-                    700308005,
-                    700308006,
-                    700308007
-                ]
-            }
-        ],
-        "Rank": "Elite",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_1023010.png",
-        "Figure": "monsterfigure/Monster_1023010.png",
-        "AllSkills": [
-            700308001,
-            700308002,
-            700308003,
-            700308004,
-            700308005,
-            700308006,
-            700308007
-        ]
-    },
-    {
-        "_id": 7003090,
-        "Key": "Monster_AetherDivide_W1_Mecha03_00_Config",
-        "Name": {
-            "CH": "自动机兵 · 灰熊",
-            "EN": "Automaton Grizzly"
-        },
-        "Desc": {
-            "CH": "以旧世界遗留的科技拼凑制造的自动机器单元，加装了厚重的铠甲，用于冲锋陷阵保护银鬃铁卫。<br>战斗中，自动机兵「灰熊」会发出信号召来「蜘蛛」合作战斗，同时会积蓄动能发出强力一击。",
-            "EN": "An automaton pieced together with Old World technology. It's been reinforced with durable armor to charge forward and protect the Silvermane Guards.<br>In combat, an Automaton Grizzly will summon Automaton Spiders and unleash a powerful charged attack."
-        },
-        "Stats": {
-            "HP": 25.0,
-            "ATK": 18.0,
-            "DEF": 0.0,
-            "SPD": 120.0,
-            "Stance": 14.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700309001,
-                    700309002,
-                    700309003,
-                    700309004,
-                    700309005
-                ]
-            }
-        ],
-        "Rank": "Elite",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_1013010.png",
-        "Figure": "monsterfigure/Monster_1013010.png",
-        "AllSkills": [
-            700309001,
-            700309002,
-            700309003,
-            700309004,
-            700309005
-        ]
-    },
-    {
-        "_id": 7003100,
-        "Key": "Monster_AetherDivide_W1_Mecha03_02_Config",
-        "Name": {
-            "CH": "资深员工 · 组长",
-            "EN": "Senior Staff: Team Leader"
-        },
-        "Desc": {
-            "CH": "「星际和平公司」的资深员工，级别至少是项目组的小组长。驾驶的机甲属于公有资产，一旦损坏需要自费赔偿。工资尚可，足够在公司旗下的企业舰上租下一室一厅的单间。",
-            "EN": "An Interastral Peace Corporation senior staff member with a minimal rank of project team leader. The mech they drive belongs to the IPC. If damaged, its repair fees have to be paid out-of-pocket. With a half-decent salary, they can at least afford to rent a one-bedroom apartment on one of the IPC's enterprise ships."
-        },
-        "Stats": {
-            "HP": 25.0,
-            "ATK": 18.0,
-            "DEF": 0.0,
-            "SPD": 102.0,
-            "Stance": 14.0
-        },
-        "Weak": [
-            "Phys",
-            "Fire",
-            "Ice",
-            "Elec",
-            "Wind",
-            "Quantum",
-            "Imaginary"
-        ],
-        "RESBase": {},
-        "StatusRESBase": 0.0,
-        "Skills": [
-            {
-                "Phase": 1,
-                "Skills": [
-                    700310001,
-                    700310002,
-                    700310003,
-                    700310004,
-                    700310005,
-                    700310006,
-                    700310007
-                ]
-            }
-        ],
-        "Rank": "Elite",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_8033010.png",
-        "Figure": "monsterfigure/Monster_8033010.png",
-        "AllSkills": [
-            700310001,
-            700310002,
-            700310003,
-            700310004,
-            700310005,
-            700310006,
-            700310007
-        ]
     },
     {
         "_id": 8001010,
@@ -33847,6 +37151,106 @@ var _monster = [
         "Csxylic": "SCFragmentumMonsters/8001010"
     },
     {
+        "_id": 800101017,
+        "Key": "Monster_XP_Minion01_00_Config",
+        "Name": {
+            "CH": "炎华造物",
+            "EN": "Flamespawn"
+        },
+        "Desc": {
+            "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如放射高热，猛烈燃烧的鸟类生命。",
+            "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path."
+        },
+        "Stats": {
+            "HP": 0.9,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 83.0,
+            "Stance": 1.0
+        },
+        "Weak": [
+            "Phys",
+            "Ice"
+        ],
+        "RESBase": {
+            "Fire": 0.4,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "DebuffRES": {
+            "Burn": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800101001
+                ]
+            }
+        ],
+        "Rank": "Minion",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_9001020.png",
+        "Figure": "monsterfigure/Monster_8001010.png",
+        "AllSkills": [
+            800101001
+        ],
+        "Csxylic": "SCFragmentumMonsters/8001010"
+    },
+    {
+        "_id": 800101018,
+        "Key": "Monster_XP_Minion01_00_Config",
+        "Name": {
+            "CH": "炎华造物",
+            "EN": "Flamespawn"
+        },
+        "Desc": {
+            "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如放射高热，猛烈燃烧的鸟类生命。",
+            "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird emitting intense heat, burning everything in its path."
+        },
+        "Stats": {
+            "HP": 0.25,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 83.0,
+            "Stance": 1.0
+        },
+        "Weak": [
+            "Phys",
+            "Ice"
+        ],
+        "RESBase": {
+            "Fire": 0.4,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "DebuffRES": {
+            "Burn": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800101001
+                ]
+            }
+        ],
+        "Rank": "Minion",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_9001020.png",
+        "Figure": "monsterfigure/Monster_8001010.png",
+        "AllSkills": [
+            800101001
+        ],
+        "Csxylic": "SCFragmentumMonsters/8001010"
+    },
+    {
         "_id": 8001020,
         "Key": "Monster_XP_Minion01_01_Config",
         "Name": {
@@ -34629,7 +38033,7 @@ var _monster = [
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it."
         },
         "Stats": {
-            "HP": 1.0,
+            "HP": 0.9,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 83.0,
@@ -34679,21 +38083,21 @@ var _monster = [
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird releasing eerily low temperatures, freezing everything around it."
         },
         "Stats": {
-            "HP": 0.06,
+            "HP": 1.0,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 83.0,
             "Stance": 1.0
         },
         "Weak": [
-            "Fire",
-            "Wind"
+            "Quantum",
+            "Fire"
         ],
         "RESBase": {
             "Phys": 0.2,
             "Ice": 0.4,
             "Elec": 0.2,
-            "Quantum": 0.2,
+            "Wind": 0.2,
             "Imaginary": 0.2
         },
         "StatusRESBase": 0.0,
@@ -34965,6 +38369,222 @@ var _monster = [
         "RESBase": {
             "Phys": 0.2,
             "Ice": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800103001,
+                    800103002,
+                    800103003
+                ]
+            }
+        ],
+        "Rank": "Minion",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_8001030.png",
+        "Figure": "monsterfigure/Monster_8001030.png",
+        "Status": [
+            280010301
+        ],
+        "AllSkills": [
+            800103001,
+            800103002,
+            800103003
+        ],
+        "Csxylic": "SCFragmentumMonsters/8001030"
+    },
+    {
+        "_id": 800103005,
+        "Key": "Monster_XP_Minion03_00_Config",
+        "Name": {
+            "CH": "无想面具",
+            "EN": "Mask of No Thought"
+        },
+        "Desc": {
+            "CH": "裂界侵蚀的受害者们拼接成的奇怪造物。麻木的面孔循环罗列，无有思想，无有情绪，曾名之为人的部分已尽数流逝。",
+            "EN": "Victims of Fragmentum corrosion pieced together into one bizarre creature, their numb faces forming a sphere without thought or emotion. Any part that was once human has since vanished."
+        },
+        "Stats": {
+            "HP": 0.05,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 1.0
+        },
+        "Weak": [
+            "Fire",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800103001,
+                    800103002,
+                    800103003
+                ]
+            }
+        ],
+        "Rank": "Minion",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_8001030.png",
+        "Figure": "monsterfigure/Monster_8001030.png",
+        "Status": [
+            280010301
+        ],
+        "AllSkills": [
+            800103001,
+            800103002,
+            800103003
+        ],
+        "Csxylic": "SCFragmentumMonsters/8001030"
+    },
+    {
+        "_id": 800103006,
+        "Key": "Monster_XP_Minion03_00_Config",
+        "Name": {
+            "CH": "无想面具",
+            "EN": "Mask of No Thought"
+        },
+        "Desc": {
+            "CH": "裂界侵蚀的受害者们拼接成的奇怪造物。麻木的面孔循环罗列，无有思想，无有情绪，曾名之为人的部分已尽数流逝。",
+            "EN": "Victims of Fragmentum corrosion pieced together into one bizarre creature, their numb faces forming a sphere without thought or emotion. Any part that was once human has since vanished."
+        },
+        "Stats": {
+            "HP": 0.05,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 1.0
+        },
+        "Weak": [
+            "Fire",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800103001,
+                    800103002,
+                    800103003
+                ]
+            }
+        ],
+        "Rank": "Minion",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_8001030.png",
+        "Figure": "monsterfigure/Monster_8001030.png",
+        "Status": [
+            280010301
+        ],
+        "AllSkills": [
+            800103001,
+            800103002,
+            800103003
+        ],
+        "Csxylic": "SCFragmentumMonsters/8001030"
+    },
+    {
+        "_id": 800103007,
+        "Key": "Monster_XP_Minion03_00_Config",
+        "Name": {
+            "CH": "无想面具",
+            "EN": "Mask of No Thought"
+        },
+        "Desc": {
+            "CH": "裂界侵蚀的受害者们拼接成的奇怪造物。麻木的面孔循环罗列，无有思想，无有情绪，曾名之为人的部分已尽数流逝。",
+            "EN": "Victims of Fragmentum corrosion pieced together into one bizarre creature, their numb faces forming a sphere without thought or emotion. Any part that was once human has since vanished."
+        },
+        "Stats": {
+            "HP": 0.05,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 1.0
+        },
+        "Weak": [
+            "Fire",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800103001,
+                    800103002,
+                    800103003
+                ]
+            }
+        ],
+        "Rank": "Minion",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_8001030.png",
+        "Figure": "monsterfigure/Monster_8001030.png",
+        "Status": [
+            280010301
+        ],
+        "AllSkills": [
+            800103001,
+            800103002,
+            800103003
+        ],
+        "Csxylic": "SCFragmentumMonsters/8001030"
+    },
+    {
+        "_id": 800103008,
+        "Key": "Monster_XP_Minion03_00_Config",
+        "Name": {
+            "CH": "无想面具",
+            "EN": "Mask of No Thought"
+        },
+        "Desc": {
+            "CH": "裂界侵蚀的受害者们拼接成的奇怪造物。麻木的面孔循环罗列，无有思想，无有情绪，曾名之为人的部分已尽数流逝。",
+            "EN": "Victims of Fragmentum corrosion pieced together into one bizarre creature, their numb faces forming a sphere without thought or emotion. Any part that was once human has since vanished."
+        },
+        "Stats": {
+            "HP": 0.05,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 1.0
+        },
+        "Weak": [
+            "Fire",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
             "Wind": 0.2,
             "Imaginary": 0.2
         },
@@ -35441,21 +39061,80 @@ var _monster = [
             "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird engulfed in twisting winds, raging on like a tornado."
         },
         "Stats": {
+            "HP": 0.25,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 83.0,
+            "Stance": 1.0
+        },
+        "StatsExtra": {
+            "SPD": 57.0
+        },
+        "Weak": [
+            "Phys",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.4,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "DebuffRES": {
+            "Wind": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800105001
+                ]
+            }
+        ],
+        "Rank": "Minion",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_8001050.png",
+        "Figure": "monsterfigure/Monster_8001050.png",
+        "Status": [
+            30020003
+        ],
+        "AllSkills": [
+            800105001
+        ],
+        "Csxylic": "SCFragmentumMonsters/8001050"
+    },
+    {
+        "_id": 800105005,
+        "Key": "Monster_XP_Minion01_02_Config",
+        "Name": {
+            "CH": "巽风造物",
+            "EN": "Windspawn"
+        },
+        "Desc": {
+            "CH": "游荡在裂界中的晶体元素，只有最简单的智能，其形态犹如气流缠绕，驰翔疾风的鸟类生命。",
+            "EN": "Crystallized elements with only the simplest intelligence. It drifts in the Fragmentum in the form of a bird engulfed in twisting winds, raging on like a tornado."
+        },
+        "Stats": {
             "HP": 0.6,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 83.0,
             "Stance": 1.0
         },
+        "StatsExtra": {
+            "Stance": 1.0
+        },
         "Weak": [
             "Fire",
-            "Elec"
+            "Quantum"
         ],
         "RESBase": {
             "Phys": 0.2,
             "Ice": 0.2,
+            "Elec": 0.2,
             "Wind": 0.4,
-            "Quantum": 0.2,
             "Imaginary": 0.2
         },
         "StatusRESBase": 0.0,
@@ -36112,6 +39791,66 @@ var _monster = [
         },
         "StatsExtra": {
             "SPD": -20.0
+        },
+        "Weak": [
+            "Phys",
+            "Elec",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800201001,
+                    800201002,
+                    800201003
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    800201004
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_8002010.png",
+        "Figure": "monsterfigure/Monster_8002010.png",
+        "Status": [
+            280020102
+        ],
+        "AllSkills": [
+            800201001,
+            800201002,
+            800201003
+        ],
+        "Csxylic": "SCFragmentumMonsters/8002010"
+    },
+    {
+        "_id": 800201016,
+        "Key": "Monster_XP_Minion02_00_Config",
+        "Name": {
+            "CH": "虚数织叶者",
+            "EN": "Imaginary Weaver"
+        },
+        "Desc": {
+            "CH": "不属此世的怪异生命，自深黯星空的彼端，透过重重帷幕而来。其身躯犹如病态的枝叶探入现实中，使用虚数的力量肆意改造现实。",
+            "EN": "Strange beings that do not belong to this world. Passing through countless barriers, they arrive from the other side of the vast, dark, starry sky. Their bodies are like diseased branches breaching into reality, using Imaginary power to twist reality at will."
+        },
+        "Stats": {
+            "HP": 1.9,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 2.0
         },
         "Weak": [
             "Phys",
@@ -37955,6 +41694,925 @@ var _monster = [
             "Ice": 0.2,
             "Wind": 0.2,
             "Quantum": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    {
+        "_id": 800205028,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": {
+            "CH": "序列扑满",
+            "EN": "Sequence Trotter"
+        },
+        "Desc": {
+            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
+            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
+        },
+        "Stats": {
+            "HP": 2.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Phys",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    {
+        "_id": 800205029,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": {
+            "CH": "序列扑满",
+            "EN": "Sequence Trotter"
+        },
+        "Desc": {
+            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
+            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
+        },
+        "Stats": {
+            "HP": 2.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    {
+        "_id": 800205030,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": {
+            "CH": "序列扑满",
+            "EN": "Sequence Trotter"
+        },
+        "Desc": {
+            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
+            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
+        },
+        "Stats": {
+            "HP": 2.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Wind",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    {
+        "_id": 800205031,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": {
+            "CH": "序列扑满",
+            "EN": "Sequence Trotter"
+        },
+        "Desc": {
+            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
+            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
+        },
+        "Stats": {
+            "HP": 2.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Ice",
+            "Elec"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    {
+        "_id": 800205032,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": {
+            "CH": "序列扑满",
+            "EN": "Sequence Trotter"
+        },
+        "Desc": {
+            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
+            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
+        },
+        "Stats": {
+            "HP": 2.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    {
+        "_id": 800205033,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": {
+            "CH": "序列扑满",
+            "EN": "Sequence Trotter"
+        },
+        "Desc": {
+            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
+            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
+        },
+        "Stats": {
+            "HP": 2.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    {
+        "_id": 800205034,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": {
+            "CH": "序列扑满",
+            "EN": "Sequence Trotter"
+        },
+        "Desc": {
+            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
+            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
+        },
+        "Stats": {
+            "HP": 2.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Phys",
+            "Ice"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    {
+        "_id": 800205035,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": {
+            "CH": "序列扑满",
+            "EN": "Sequence Trotter"
+        },
+        "Desc": {
+            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
+            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
+        },
+        "Stats": {
+            "HP": 2.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    {
+        "_id": 800205036,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": {
+            "CH": "序列扑满",
+            "EN": "Sequence Trotter"
+        },
+        "Desc": {
+            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
+            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
+        },
+        "Stats": {
+            "HP": 2.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Phys",
+            "Ice"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    {
+        "_id": 800205037,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": {
+            "CH": "序列扑满",
+            "EN": "Sequence Trotter"
+        },
+        "Desc": {
+            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
+            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
+        },
+        "Stats": {
+            "HP": 2.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    {
+        "_id": 800205038,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": {
+            "CH": "序列扑满",
+            "EN": "Sequence Trotter"
+        },
+        "Desc": {
+            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
+            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
+        },
+        "Stats": {
+            "HP": 2.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    {
+        "_id": 800205039,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": {
+            "CH": "序列扑满",
+            "EN": "Sequence Trotter"
+        },
+        "Desc": {
+            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
+            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
+        },
+        "Stats": {
+            "HP": 2.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    {
+        "_id": 800205040,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": {
+            "CH": "序列扑满",
+            "EN": "Sequence Trotter"
+        },
+        "Desc": {
+            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
+            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
+        },
+        "Stats": {
+            "HP": 2.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Phys",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    {
+        "_id": 800205041,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": {
+            "CH": "序列扑满",
+            "EN": "Sequence Trotter"
+        },
+        "Desc": {
+            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
+            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
+        },
+        "Stats": {
+            "HP": 2.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    {
+        "_id": 800205042,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": {
+            "CH": "序列扑满",
+            "EN": "Sequence Trotter"
+        },
+        "Desc": {
+            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
+            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
+        },
+        "Stats": {
+            "HP": 2.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    {
+        "_id": 800205043,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": {
+            "CH": "序列扑满",
+            "EN": "Sequence Trotter"
+        },
+        "Desc": {
+            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
+            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
+        },
+        "Stats": {
+            "HP": 2.8,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 37.0
+        },
+        "Weak": [
+            "Elec",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800205001,
+                    800205002,
+                    800205003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 4,
+        "Icon": "mostericon/Monster_8002050.png",
+        "Figure": "monsterfigure/Monster_8002050.png",
+        "AllSkills": [
+            800205001,
+            800205002,
+            800205003
+        ],
+        "Csxylic": "SCCosmos/8002050"
+    },
+    {
+        "_id": 800205044,
+        "Key": "Monster_XP_Minion04_01_Config",
+        "Name": {
+            "CH": "序列扑满",
+            "EN": "Sequence Trotter"
+        },
+        "Desc": {
+            "CH": "迷失在群星中的跨维度生物，性温，味甘，不可食用。一生中大部分时间花在进食和逃跑上。偶遇它的旅行者视之为吉兆。",
+            "EN": "An interdimensional creature lost in the stars. Docile in nature. Sweet in taste. Inedible. Spends most of its life feeding and fleeing. Travelers who encounter these creatures see them as good omens."
+        },
+        "Stats": {
+            "HP": 2.4,
+            "ATK": 18.0,
+            "DEF": 1.5,
+            "SPD": 83.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 57.0,
+            "Stance": 1.0
+        },
+        "Weak": [
+            "Elec",
+            "Quantum",
+            "Phys"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
         },
         "StatusRESBase": 0.0,
         "Skills": [
@@ -40002,6 +44660,206 @@ var _monster = [
         },
         "StatsExtra": {
             "Stance": 2.0
+        },
+        "Weak": [
+            "Fire",
+            "Wind",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.4,
+            "Elec": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "Frozen": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800301001,
+                    800301002,
+                    800301003
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    800301004
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_8003010.png",
+        "Figure": "monsterfigure/Monster_8003010.png",
+        "Status": [
+            30020012,
+            280030101
+        ],
+        "AllSkills": [
+            800301001,
+            800301002,
+            800301003
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003010"
+    },
+    {
+        "_id": 800301014,
+        "Key": "Monster_XP_Elite01_01_Config",
+        "Name": {
+            "CH": "外宇宙之冰",
+            "EN": "Ice Out of Space"
+        },
+        "Desc": {
+            "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上倒映着幽深黯淡的星空。<br>战斗中，外宇宙之冰能轻易将敌人冻结凝固。",
+            "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches."
+        },
+        "Stats": {
+            "HP": 100.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 10.0
+        },
+        "Weak": [
+            "Fire",
+            "Wind",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.4,
+            "Elec": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "Frozen": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800301001,
+                    800301002,
+                    800301003
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    800301004
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_8003010.png",
+        "Figure": "monsterfigure/Monster_8003010.png",
+        "Status": [
+            30020012,
+            280030101
+        ],
+        "AllSkills": [
+            800301001,
+            800301002,
+            800301003
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003010"
+    },
+    {
+        "_id": 800301015,
+        "Key": "Monster_XP_Elite01_01_Config",
+        "Name": {
+            "CH": "外宇宙之冰",
+            "EN": "Ice Out of Space"
+        },
+        "Desc": {
+            "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上倒映着幽深黯淡的星空。<br>战斗中，外宇宙之冰能轻易将敌人冻结凝固。",
+            "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches."
+        },
+        "Stats": {
+            "HP": 7.5,
+            "ATK": 30.00006,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "SPD": 50.0,
+            "Stance": -2.0
+        },
+        "Weak": [
+            "Fire",
+            "Wind",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.4,
+            "Elec": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "Frozen": 1.0
+        },
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800301001,
+                    800301002,
+                    800301003
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    800301004
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_8003010.png",
+        "Figure": "monsterfigure/Monster_8003010.png",
+        "Status": [
+            30020012,
+            280030101
+        ],
+        "AllSkills": [
+            800301001,
+            800301002,
+            800301003
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003010"
+    },
+    {
+        "_id": 800301016,
+        "Key": "Monster_XP_Elite01_01_Config",
+        "Name": {
+            "CH": "外宇宙之冰",
+            "EN": "Ice Out of Space"
+        },
+        "Desc": {
+            "CH": "不属此世的怪异生命，自星核带来的裂界中成长，寄生在世界的根基结构中汲取能量，其甲胄外壳上倒映着幽深黯淡的星空。<br>战斗中，外宇宙之冰能轻易将敌人冻结凝固。",
+            "EN": "A strange being that does not belong to this world. Nurtured in the Fragmentum brought by the Stellaron, it feeds upon this world's root structures to obtain energy. Its armor reflects the gloomy and profound starry sky.<br>In combat, the Ice Out of Space will freeze targets it touches."
+        },
+        "Stats": {
+            "HP": 7.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "SPD": -20.0,
+            "Stance": 10.0
         },
         "Weak": [
             "Fire",
@@ -42311,6 +47169,228 @@ var _monster = [
         "Csxylic": "SCFragmentumMonsters/8003030"
     },
     {
+        "_id": 800303015,
+        "Key": "Monster_XP_Elite02_00_Config",
+        "Name": {
+            "CH": "守护者之影",
+            "EN": "Guardian Shadow"
+        },
+        "Desc": {
+            "CH": "由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。这股力量四处徘徊，漫无目的，直到感受到其主的意志才会听令行事。",
+            "EN": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. This energy wanders around aimlessly, acting only when executing the will of its master."
+        },
+        "Stats": {
+            "HP": 5.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "Stance": -4.0
+        },
+        "Weak": [
+            "Phys",
+            "Wind",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800303001,
+                    800303002,
+                    800303003,
+                    800303004,
+                    800303005,
+                    800303006,
+                    800303007
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    800303008
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_8003030.png",
+        "Figure": "monsterfigure/Monster_8003030.png",
+        "Status": [
+            30020004,
+            280030301,
+            280030302,
+            280030303,
+            280030306
+        ],
+        "AllSkills": [
+            800303001,
+            800303002,
+            800303003,
+            800303004,
+            800303005,
+            800303006,
+            800303007
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003030"
+    },
+    {
+        "_id": 800303016,
+        "Key": "Monster_XP_Elite02_00_Config",
+        "Name": {
+            "CH": "守护者之影",
+            "EN": "Guardian Shadow"
+        },
+        "Desc": {
+            "CH": "由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。这股力量四处徘徊，漫无目的，直到感受到其主的意志才会听令行事。",
+            "EN": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. This energy wanders around aimlessly, acting only when executing the will of its master."
+        },
+        "Stats": {
+            "HP": 13.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "Stance": 5.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800303001,
+                    800303002,
+                    800303003,
+                    800303004,
+                    800303005,
+                    800303006,
+                    800303007
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    800303008
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_8003030.png",
+        "Figure": "monsterfigure/Monster_8003030.png",
+        "Status": [
+            30020004,
+            280030301,
+            280030302,
+            280030303,
+            280030306
+        ],
+        "AllSkills": [
+            800303001,
+            800303002,
+            800303003,
+            800303004,
+            800303005,
+            800303006,
+            800303007
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003030"
+    },
+    {
+        "_id": 800303017,
+        "Key": "Monster_XP_Elite02_00_Config",
+        "Name": {
+            "CH": "守护者之影",
+            "EN": "Guardian Shadow"
+        },
+        "Desc": {
+            "CH": "由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。这股力量四处徘徊，漫无目的，直到感受到其主的意志才会听令行事。",
+            "EN": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. This energy wanders around aimlessly, acting only when executing the will of its master."
+        },
+        "Stats": {
+            "HP": 10.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 10.0
+        },
+        "Weak": [
+            "Ice",
+            "Wind",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Elec": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800303001,
+                    800303002,
+                    800303003,
+                    800303004,
+                    800303005,
+                    800303006,
+                    800303007
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    800303008
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_8003030.png",
+        "Figure": "monsterfigure/Monster_8003030.png",
+        "Status": [
+            30020004,
+            280030301,
+            280030302,
+            280030303,
+            280030306
+        ],
+        "AllSkills": [
+            800303001,
+            800303002,
+            800303003,
+            800303004,
+            800303005,
+            800303006,
+            800303007
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003030"
+    },
+    {
         "_id": 8003031,
         "Key": "Monster_XP_Elite02_00_Config",
         "Name": {
@@ -43026,6 +48106,142 @@ var _monster = [
             "Phys": 0.2,
             "Ice": 0.2,
             "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800304002,
+                    800304003,
+                    800304004,
+                    800304005,
+                    800304006
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    800304001,
+                    800304007
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_8003040.png",
+        "Figure": "monsterfigure/Monster_8003040.png",
+        "Status": [
+            30020013,
+            280030405
+        ],
+        "AllSkills": [
+            800304002,
+            800304003,
+            800304004,
+            800304005,
+            800304006
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003040"
+    },
+    {
+        "_id": 800304010,
+        "Key": "Monster_XP_Elite02_01_Config",
+        "Name": {
+            "CH": "蚕食者之影",
+            "EN": "Decaying Shadow"
+        },
+        "Desc": {
+            "CH": "由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。然而驱动它的这股欲望早已扭曲，模糊不清。",
+            "EN": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. However, the desire that drove it has long since been twisted and distorted."
+        },
+        "Stats": {
+            "HP": 5.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 172.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "SPD": -28.0,
+            "Stance": -4.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800304002,
+                    800304003,
+                    800304004,
+                    800304005,
+                    800304006
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    800304001,
+                    800304007
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_8003040.png",
+        "Figure": "monsterfigure/Monster_8003040.png",
+        "Status": [
+            30020013,
+            280030405
+        ],
+        "AllSkills": [
+            800304002,
+            800304003,
+            800304004,
+            800304005,
+            800304006
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003040"
+    },
+    {
+        "_id": 800304011,
+        "Key": "Monster_XP_Elite02_01_Config",
+        "Name": {
+            "CH": "蚕食者之影",
+            "EN": "Decaying Shadow"
+        },
+        "Desc": {
+            "CH": "由星核力量幻造而成的虚影，执行着令裂界不断扩张的意志。<br>智慧生命的欲求在裂界中投影形成的活体能量，犹如一颗沙砾在蚌壳中凝成了珠贝。然而驱动它的这股欲望早已扭曲，模糊不清。",
+            "EN": "A shadow manifested by the power of a Stellaron, carrying out the Fragmentum's unceasing will to expand.<br>A living being of energy born from the projection of the desires of sentient lifeforms into the Fragmentum, akin to a pearl created from a single grain of sand. However, the desire that drove it has long since been twisted and distorted."
+        },
+        "Stats": {
+            "HP": 10.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 172.0,
+            "Stance": 10.0
+        },
+        "Weak": [
+            "Fire",
+            "Elec",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
             "Imaginary": 0.2
         },
         "StatusRESBase": 0.2,
@@ -43884,6 +49100,144 @@ var _monster = [
         "Csxylic": "SCFragmentumMonsters/8003050"
     },
     {
+        "_id": 800305010,
+        "Key": "Monster_AML_Elite01_01_Config",
+        "Name": {
+            "CH": "兴风者",
+            "EN": "Stormbringer"
+        },
+        "Desc": {
+            "CH": "在裂界延展中遭遇侵蚀的怪物，在力量的本源发生畸变后拥有了更为灵活的战斗方式。<br>兴风者会利用风的力量协助自己战斗，借助风向射出更为迅猛的箭矢。",
+            "EN": "Monsters that have experienced corrosion as the Fragmentum expanded. They now have a more nimble way of fighting after the source of their power mutated.<br>Stormbringers utilize the power of the wind to aid them in battle, enabling them to fire arrows more rapidly."
+        },
+        "Stats": {
+            "HP": 15.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Fire",
+            "Imaginary",
+            "Phys"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.4,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800305001,
+                    800305002,
+                    800305003,
+                    800305004,
+                    800305005
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    800305006
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_8003050.png",
+        "Figure": "monsterfigure/Monster_8003050.png",
+        "Status": [
+            30020003,
+            280130201,
+            280130202
+        ],
+        "AllSkills": [
+            800305001,
+            800305002,
+            800305003,
+            800305004,
+            800305005
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003050"
+    },
+    {
+        "_id": 800305012,
+        "Key": "Monster_AML_Elite01_01_Config",
+        "Name": {
+            "CH": "兴风者",
+            "EN": "Stormbringer"
+        },
+        "Desc": {
+            "CH": "在裂界延展中遭遇侵蚀的怪物，在力量的本源发生畸变后拥有了更为灵活的战斗方式。<br>兴风者会利用风的力量协助自己战斗，借助风向射出更为迅猛的箭矢。",
+            "EN": "Monsters that have experienced corrosion as the Fragmentum expanded. They now have a more nimble way of fighting after the source of their power mutated.<br>Stormbringers utilize the power of the wind to aid them in battle, enabling them to fire arrows more rapidly."
+        },
+        "Stats": {
+            "HP": 5.24997,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "Stance": -3.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.4,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    800305001,
+                    800305002,
+                    800305003,
+                    800305004,
+                    800305005
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    800305006
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 3,
+        "Icon": "mostericon/Monster_8003050.png",
+        "Figure": "monsterfigure/Monster_8003050.png",
+        "Status": [
+            30020003,
+            280130201,
+            280130202
+        ],
+        "AllSkills": [
+            800305001,
+            800305002,
+            800305003,
+            800305004,
+            800305005
+        ],
+        "Csxylic": "SCFragmentumMonsters/8003050"
+    },
+    {
         "_id": 8003051,
         "Key": "Monster_AML_Elite01_01_Config_A",
         "Name": {
@@ -44414,6 +49768,53 @@ var _monster = [
         },
         "Weak": [
             "Fire",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    801101001
+                ]
+            }
+        ],
+        "Rank": "Minion",
+        "Camp": 6,
+        "Icon": "mostericon/Monster_8011010.png",
+        "Figure": "monsterfigure/Monster_8011010.png",
+        "AllSkills": [
+            801101001
+        ],
+        "Csxylic": "SCAntimatterRegion/8011010"
+    },
+    {
+        "_id": 801101009,
+        "Key": "Monster_AML_Minion01_00_Config",
+        "Name": {
+            "CH": "重子",
+            "EN": "Baryon"
+        },
+        "Desc": {
+            "CH": "「反物质军团」为防止反粒子逸散发生湮灭，制造了两种用于运输的小型离子阱，统称「重子」与「反重子」。<br>「重子」具备基本的智能，能在战场上回应「虚卒」的意志与召唤，为其开辟道路。",
+            "EN": "In order to prevent antiparticles from dissipating and annihilating normal matter, the Antimatter Legion created two types of miniature ion traps for transportation, collectively referred to as Baryons and Antibaryons.<br>Baryons have basic intelligence, and can clear the path according to the commands and summons of Voidrangers on the battlefield."
+        },
+        "Stats": {
+            "HP": 0.7,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 83.0,
+            "Stance": 1.0
+        },
+        "Weak": [
+            "Ice",
             "Wind"
         ],
         "RESBase": {
@@ -46307,7 +51708,68 @@ var _monster = [
             "EN": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts."
         },
         "Stats": {
-            "HP": 1.5,
+            "HP": 0.6,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 2.0
+        },
+        "StatsExtra": {
+            "SPD": 20.0
+        },
+        "Weak": [
+            "Phys",
+            "Quantum"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    801201001,
+                    801201002
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    801201003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 6,
+        "Icon": "mostericon/Monster_8012010.png",
+        "Figure": "monsterfigure/Monster_8012010.png",
+        "Status": [
+            280120101
+        ],
+        "AllSkills": [
+            801201001,
+            801201002
+        ],
+        "Csxylic": "SCAntimatterRegion/8012010"
+    },
+    {
+        "_id": 801201028,
+        "Key": "Monster_AML_Minion02_00_Config",
+        "Name": {
+            "CH": "虚卒 · 掠夺者",
+            "EN": "Voidranger: Reaver"
+        },
+        "Desc": {
+            "CH": "尚未死灭的战士经「战争熔炉」的重铸获得了名为「毁灭」的力量，反物质补足了他们的残躯，负粒子在其躯体中震荡。<br>「反物质军团」的基本作战单元，「毁灭」意志的具现化，遵从破坏本能行事，具有强烈的攻击性。",
+            "EN": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts."
+        },
+        "Stats": {
+            "HP": 1.75,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 100.0,
@@ -46316,6 +51778,65 @@ var _monster = [
         "Weak": [
             "Phys",
             "Elec"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    801201001,
+                    801201002
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    801201003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 6,
+        "Icon": "mostericon/Monster_8012010.png",
+        "Figure": "monsterfigure/Monster_8012010.png",
+        "Status": [
+            280120101
+        ],
+        "AllSkills": [
+            801201001,
+            801201002
+        ],
+        "Csxylic": "SCAntimatterRegion/8012010"
+    },
+    {
+        "_id": 801201029,
+        "Key": "Monster_AML_Minion02_00_Config",
+        "Name": {
+            "CH": "虚卒 · 掠夺者",
+            "EN": "Voidranger: Reaver"
+        },
+        "Desc": {
+            "CH": "尚未死灭的战士经「战争熔炉」的重铸获得了名为「毁灭」的力量，反物质补足了他们的残躯，负粒子在其躯体中震荡。<br>「反物质军团」的基本作战单元，「毁灭」意志的具现化，遵从破坏本能行事，具有强烈的攻击性。",
+            "EN": "Warriors yet to perish were recast in the Warforge and gained Destruction's power. Antimatter completes their bodies and negative particles reverberate throughout their forms.<br>Violently aggressive, they embody the will of Destruction and are basic combat units of the Antimatter Legion, acting only according to their destructive instincts."
+        },
+        "Stats": {
+            "HP": 1.75,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Fire",
+            "Phys",
+            "Quantum"
         ],
         "RESBase": {
             "Fire": 0.2,
@@ -49363,6 +54884,189 @@ var _monster = [
         "Csxylic": "SCAntimatterRegion/8013010"
     },
     {
+        "_id": 801301018,
+        "Key": "Monster_AML_Elite01_00_Config",
+        "Name": {
+            "CH": "虚卒 · 践踏者",
+            "EN": "Voidranger: Trampler"
+        },
+        "Desc": {
+            "CH": "「反物质军团」利用「战争熔炉」将战士与古兽的残片融合重铸后的产物。<br> 虽数量相对稀少，但兼具战士的智能与古兽的力量与机动性，其嘶鸣能够将大量虚卒召唤而来。",
+            "EN": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers."
+        },
+        "Stats": {
+            "HP": 24.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 10.0
+        },
+        "Weak": [
+            "Wind",
+            "Imaginary",
+            "Elec"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    801301001,
+                    801301002,
+                    801301003,
+                    801301004,
+                    801301005
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 6,
+        "Icon": "mostericon/Monster_8013010.png",
+        "Figure": "monsterfigure/Monster_8013010.png",
+        "Status": [
+            30020027,
+            280130101
+        ],
+        "AllSkills": [
+            801301001,
+            801301002,
+            801301003,
+            801301004,
+            801301005
+        ],
+        "Csxylic": "SCAntimatterRegion/8013010"
+    },
+    {
+        "_id": 801301019,
+        "Key": "Monster_AML_Elite01_00_Config",
+        "Name": {
+            "CH": "虚卒 · 践踏者",
+            "EN": "Voidranger: Trampler"
+        },
+        "Desc": {
+            "CH": "「反物质军团」利用「战争熔炉」将战士与古兽的残片融合重铸后的产物。<br> 虽数量相对稀少，但兼具战士的智能与古兽的力量与机动性，其嘶鸣能够将大量虚卒召唤而来。",
+            "EN": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers."
+        },
+        "Stats": {
+            "HP": 5.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "Stance": -4.0
+        },
+        "Weak": [
+            "Phys",
+            "Wind",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    801301001,
+                    801301002,
+                    801301003,
+                    801301004,
+                    801301005
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 6,
+        "Icon": "mostericon/Monster_8013010.png",
+        "Figure": "monsterfigure/Monster_8013010.png",
+        "Status": [
+            30020027,
+            280130101
+        ],
+        "AllSkills": [
+            801301001,
+            801301002,
+            801301003,
+            801301004,
+            801301005
+        ],
+        "Csxylic": "SCAntimatterRegion/8013010"
+    },
+    {
+        "_id": 801301021,
+        "Key": "Monster_AML_Elite01_00_Config",
+        "Name": {
+            "CH": "虚卒 · 践踏者",
+            "EN": "Voidranger: Trampler"
+        },
+        "Desc": {
+            "CH": "「反物质军团」利用「战争熔炉」将战士与古兽的残片融合重铸后的产物。<br> 虽数量相对稀少，但兼具战士的智能与古兽的力量与机动性，其嘶鸣能够将大量虚卒召唤而来。",
+            "EN": "A product of the Antimatter Legion utilizing the Warforge to recast and fuse remnants of fallen warriors and Leviathans.<br>Though relatively rare, they possess both the intelligence of a warrior and the power and mobility of a Leviathan. Its screech can summon a large number of Voidrangers."
+        },
+        "Stats": {
+            "HP": 6.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 10.0
+        },
+        "StatsExtra": {
+            "Stance": -3.0
+        },
+        "Weak": [
+            "Fire",
+            "Quantum",
+            "Elec"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Ice": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    801301001,
+                    801301002,
+                    801301003,
+                    801301004,
+                    801301005
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 6,
+        "Icon": "mostericon/Monster_8013010.png",
+        "Figure": "monsterfigure/Monster_8013010.png",
+        "Status": [
+            30020027,
+            280130101
+        ],
+        "AllSkills": [
+            801301001,
+            801301002,
+            801301003,
+            801301004,
+            801301005
+        ],
+        "Csxylic": "SCAntimatterRegion/8013010"
+    },
+    {
         "_id": 8013011,
         "Key": "Monster_AML_Elite01_00_Config",
         "Name": {
@@ -49800,8 +55504,8 @@ var _monster = [
             "EN": "Phantylia the Undying"
         },
         "Desc": {
-            "CH": "反物质军团的绝灭大君「幻胧」自建木中生成的躯壳。<br>兼具「毁灭」与「丰饶」之力，生灭循环的肉体。也是建木复生后结出的第一颗「果实」。",
-            "EN": "The body born out of the Ambrosial Arbor by Phantylia, Lord Ravager of the Antimatter Legion.<br>This flesh possesses the powers of both Destruction and Abundance, a form that embodies the cycle of death and rebirth. It is also the first \"fruit\" borne from the rejuvenated Ambrosial Arbor."
+            "CH": "…",
+            "EN": "..."
         },
         "Stats": {
             "HP": 13.0,
@@ -49896,8 +55600,8 @@ var _monster = [
             "EN": "Phantylia the Undying"
         },
         "Desc": {
-            "CH": "反物质军团的绝灭大君「幻胧」自建木中生成的躯壳。<br>兼具「毁灭」与「丰饶」之力，生灭循环的肉体。也是建木复生后结出的第一颗「果实」。",
-            "EN": "The body born out of the Ambrosial Arbor by Phantylia, Lord Ravager of the Antimatter Legion.<br>This flesh possesses the powers of both Destruction and Abundance, a form that embodies the cycle of death and rebirth. It is also the first \"fruit\" borne from the rejuvenated Ambrosial Arbor."
+            "CH": "…",
+            "EN": "..."
         },
         "Stats": {
             "HP": 13.0,
@@ -50011,6 +55715,69 @@ var _monster = [
             "Ice": 0.2,
             "Elec": 0.2,
             "Wind": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    802201001,
+                    802201002,
+                    802201004
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    802201003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 8,
+        "Icon": "mostericon/Monster_8022010.png",
+        "Figure": "monsterfigure/Monster_8022010.png",
+        "Status": [
+            280240101,
+            280240103,
+            280240104,
+            280240105
+        ],
+        "AllSkills": [
+            802201001,
+            802201002,
+            802201004
+        ],
+        "Csxylic": "SCTheSwarm/8022010"
+    },
+    {
+        "_id": 802201001,
+        "Key": "Monster_SW_Minion01_00_Config",
+        "Name": {
+            "CH": "幼蛰虫",
+            "EN": "Juvenile Sting"
+        },
+        "Desc": {
+            "CH": "真蛰虫幼体；「真蛰虫」幼体依据生长程度可被划分为「幼蛰虫」与「次蛰虫」。",
+            "EN": "The youngling of a True Sting. Based on their growth stage, young True Stings can be further divided into Juvenile Stings and Lesser Stings."
+        },
+        "Stats": {
+            "HP": 0.2,
+            "ATK": 18.0,
+            "DEF": 3.0,
+            "SPD": 144.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Quantum",
+            "Phys"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
         },
         "StatusRESBase": 0.2,
         "Skills": [
@@ -50196,8 +55963,7 @@ var _monster = [
             "Stance": 4.0
         },
         "StatsExtra": {
-            "SPD": -64.0,
-            "Stance": -1.0
+            "SPD": -64.0
         },
         "Weak": [
             "Phys",
@@ -50211,6 +55977,70 @@ var _monster = [
             "Quantum": 0.2
         },
         "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    802202001,
+                    802202002,
+                    802202004
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    802202003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 8,
+        "Icon": "mostericon/Monster_8022020.png",
+        "Figure": "monsterfigure/Monster_8022020.png",
+        "Status": [
+            30020029,
+            280240103
+        ],
+        "AllSkills": [
+            802202001,
+            802202002,
+            802202004
+        ],
+        "Csxylic": "SCTheSwarm/8022020"
+    },
+    {
+        "_id": 802202003,
+        "Key": "Monster_SW_Minion01_01_Config",
+        "Name": {
+            "CH": "次蛰虫",
+            "EN": "Lesser Sting"
+        },
+        "Desc": {
+            "CH": "真蛰虫幼体；「真蛰虫」幼体依据生长程度可被划分为「幼蛰虫」与「次蛰虫」。",
+            "EN": "The youngling of a True Sting. Based on their growth stage, young True Stings can be further divided into Juvenile Stings and Lesser Stings."
+        },
+        "Stats": {
+            "HP": 0.5,
+            "ATK": 18.0,
+            "DEF": 3.0,
+            "SPD": 144.0,
+            "Stance": 4.0
+        },
+        "Weak": [
+            "Fire",
+            "Quantum",
+            "Phys"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "DebuffRES": {
+            "Frozen": 0.75
+        },
         "Skills": [
             {
                 "Phase": 1,
@@ -50474,6 +56304,89 @@ var _monster = [
         "Csxylic": "SCTheSwarm/8024011"
     },
     {
+        "_id": 802401101,
+        "Key": "Monster_SW_Boss_00_Normal_Config",
+        "Name": {
+            "CH": "虫群 · 真蛰虫",
+            "EN": "Swarm: True Sting"
+        },
+        "Desc": {
+            "CH": "成熟体的真蛰虫；博识学会的杜卢伊爵士遨游星海，曾写下三十卷《诸界异虫札记》。书中详实记载了迄今为止被确认的十几种蠹虫种类，以及星系间数之不尽的亚种。",
+            "EN": "Mature True Sting. Sir Duroy, a member of the Intelligentsia Guild, explored the starry seas and authored the thirty-volume of the <i>Chronicles of Interdimensional Insects</i>. The book provides detailed records of over a dozen confirmed species of lepisma and countless subspecies spanning across the stars."
+        },
+        "Stats": {
+            "HP": 18.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 16.0
+        },
+        "Weak": [
+            "Fire",
+            "Quantum",
+            "Phys"
+        ],
+        "RESBase": {
+            "Ice": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    802401101,
+                    802401102,
+                    802401103,
+                    802401104
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    802401101,
+                    802401102,
+                    802401103,
+                    802401104,
+                    802401105,
+                    802401106,
+                    802401109
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    802401107,
+                    802401108,
+                    802401110,
+                    802401111
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 8,
+        "Icon": "mostericon/Monster_8024010.png",
+        "Figure": "monsterfigure/Monster_8024010.png",
+        "Status": [
+            280240101,
+            280240102,
+            280240103
+        ],
+        "AllSkills": [
+            802401101,
+            802401102,
+            802401103,
+            802401104,
+            802401105,
+            802401106,
+            802401109
+        ],
+        "Csxylic": "SCTheSwarm/8024011"
+    },
+    {
         "_id": 8024012,
         "Key": "Monster_SW_Boss_00_Config",
         "Name": {
@@ -50565,6 +56478,86 @@ var _monster = [
             802401205,
             802401206,
             802401209
+        ]
+    },
+    {
+        "_id": 8024013,
+        "Key": "Monster_SW_Boss_00_Normal_Config_Fever",
+        "Name": {
+            "CH": "dev_虫群 · 真蛰虫",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "dev_成熟体的真蛰虫；博识学会的杜卢伊爵士遨游星海，曾写下三十卷《诸界异虫札记》。书中详实记载了迄今为止被确认的十几种蠹虫种类，以及星系间数之不尽的亚种。",
+            "EN": ""
+        },
+        "Stats": {
+            "HP": 21.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 16.0
+        },
+        "StatsExtra": {
+            "Stance": 4.0
+        },
+        "Weak": [
+            "Ice",
+            "Wind",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Fire": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.3,
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    802401301,
+                    802401302,
+                    802401303,
+                    802401304
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    802401301,
+                    802401302,
+                    802401303,
+                    802401304,
+                    802401305,
+                    802401306,
+                    802401309
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    802401307,
+                    802401308,
+                    802401310,
+                    802401311
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 8,
+        "Icon": "mostericon/Monster_8024010.png",
+        "Figure": "monsterfigure/Monster_8024010.png",
+        "AllSkills": [
+            802401301,
+            802401302,
+            802401303,
+            802401304,
+            802401305,
+            802401306,
+            802401309
         ]
     },
     {
@@ -50952,6 +56945,126 @@ var _monster = [
         "Csxylic": "SCInterastralPeaceCorporation/8032010"
     },
     {
+        "_id": 803201004,
+        "Key": "Monster_W1_Soldier02_01_Config",
+        "Name": {
+            "CH": "基层员工 · 外勤（幻象）",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "「星际和平公司」的基层员工，主要负责处理上不得台面的「业务疏漏」。工资不高，只能在公司旗下的企业舰上合租房间。出现于此的是基于你的记忆模拟出的幻影。",
+            "EN": ""
+        },
+        "Stats": {
+            "HP": 0.7,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 118.0,
+            "Stance": 2.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    803201001,
+                    803201002
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    803201003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 9,
+        "Icon": "mostericon/Monster_8032010.png",
+        "Figure": "monsterfigure/Monster_8032010.png",
+        "Status": [
+            280330101
+        ],
+        "AllSkills": [
+            803201001,
+            803201002
+        ],
+        "Csxylic": "SCInterastralPeaceCorporation/8032010"
+    },
+    {
+        "_id": 803201005,
+        "Key": "Monster_W1_Soldier02_01_Config",
+        "Name": {
+            "CH": "基层员工 · 外勤",
+            "EN": "Grunt: Field Personnel"
+        },
+        "Desc": {
+            "CH": "「星际和平公司」的基层员工，主要负责处理上不得台面的「业务疏漏」。工资不高，只能在公司旗下的企业舰上合租房间。",
+            "EN": "An Interastral Peace Corporation grunt worker whose job mainly deals with shady \"business oversights.\" With a meager salary, the only lodging they can afford is a shared room on one of the IPC's enterprise ships."
+        },
+        "Stats": {
+            "HP": 2.0,
+            "ATK": 14.99994,
+            "DEF": 1.0,
+            "SPD": 118.0,
+            "Stance": 2.0
+        },
+        "StatsExtra": {
+            "SPD": 25.0,
+            "Stance": 1.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    803201001,
+                    803201002
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    803201003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 9,
+        "Icon": "mostericon/Monster_8032010.png",
+        "Figure": "monsterfigure/Monster_8032010.png",
+        "Status": [
+            280330101
+        ],
+        "AllSkills": [
+            803201001,
+            803201002
+        ],
+        "Csxylic": "SCInterastralPeaceCorporation/8032010"
+    },
+    {
         "_id": 8032020,
         "Key": "Monster_W1_Soldier01_04_Config",
         "Name": {
@@ -51184,6 +57297,161 @@ var _monster = [
         "Csxylic": "SCInterastralPeaceCorporation/8032020"
     },
     {
+        "_id": 803202004,
+        "Key": "Monster_W1_Soldier01_04_Config",
+        "Name": {
+            "CH": "基层员工 · 安保",
+            "EN": "Grunt: Security Personnel"
+        },
+        "Desc": {
+            "CH": "「星际和平公司」的基层员工，主要负责维持公司管辖地区的治安秩序。工资不高，只能在公司旗下的企业舰上合租房间。",
+            "EN": "An Interastral Peace Corporation grunt worker whose job mainly involves maintaining order in locations ruled by the IPC. With a meager salary, the only lodging they can afford is a shared room on one of the IPC's enterprise ships."
+        },
+        "Stats": {
+            "HP": 0.8,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 3.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Ice"
+        ],
+        "RESBase": {
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    803202001,
+                    803202002
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    803202003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 9,
+        "Icon": "mostericon/Monster_8032020.png",
+        "Figure": "monsterfigure/Monster_8032020.png",
+        "Status": [
+            280330101
+        ],
+        "AllSkills": [
+            803202001,
+            803202002
+        ],
+        "Csxylic": "SCInterastralPeaceCorporation/8032020"
+    },
+    {
+        "_id": 803202005,
+        "Key": "Monster_W1_Soldier01_04_Config",
+        "Name": {
+            "CH": "基层员工 · 安保",
+            "EN": "Grunt: Security Personnel"
+        },
+        "Desc": {
+            "CH": "「星际和平公司」的基层员工，主要负责维持公司管辖地区的治安秩序。工资不高，只能在公司旗下的企业舰上合租房间。",
+            "EN": "An Interastral Peace Corporation grunt worker whose job mainly involves maintaining order in locations ruled by the IPC. With a meager salary, the only lodging they can afford is a shared room on one of the IPC's enterprise ships."
+        },
+        "Stats": {
+            "HP": 2.0,
+            "ATK": 14.99994,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 3.0
+        },
+        "StatsExtra": {
+            "SPD": 43.0
+        },
+        "Weak": [
+            "Phys",
+            "Fire",
+            "Ice"
+        ],
+        "RESBase": {
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.1,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    803202001,
+                    803202002
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    803202003
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 9,
+        "Icon": "mostericon/Monster_8032020.png",
+        "Figure": "monsterfigure/Monster_8032020.png",
+        "Status": [
+            280330101
+        ],
+        "AllSkills": [
+            803202001,
+            803202002
+        ],
+        "Csxylic": "SCInterastralPeaceCorporation/8032020"
+    },
+    {
+        "_id": 8032030,
+        "Key": "Monster_W3_AventurinePart_00_Config",
+        "Name": {
+            "CH": "「所有或一无所有」",
+            "EN": "\"All or Nothing\""
+        },
+        "Desc": {
+            "CH": "「诡弈砂金」所化博弈之骰，于赌局中裁断博徒们的命运。",
+            "EN": "A game die metamorphosed from the \"Aventurine of Stratagems,\" which shall decide the gamblers' destiny in a wager."
+        },
+        "Stats": {
+            "HP": 0.5,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 100.0,
+            "Stance": 0.0
+        },
+        "Weak": [],
+        "RESBase": {},
+        "StatusRESBase": 0.0,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    803203001
+                ]
+            }
+        ],
+        "Rank": "MinionLv2",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_8032030.png",
+        "AllSkills": [
+            803203001
+        ]
+    },
+    {
         "_id": 8033010,
         "Key": "Monster_W1_Mecha03_02_Config",
         "Name": {
@@ -51373,6 +57641,137 @@ var _monster = [
         "Csxylic": "SCInterastralPeaceCorporation/8033010"
     },
     {
+        "_id": 803301003,
+        "Key": "Monster_W1_Mecha03_02_Config",
+        "Name": {
+            "CH": "资深员工 · 组长",
+            "EN": "Senior Staff: Team Leader"
+        },
+        "Desc": {
+            "CH": "「星际和平公司」的资深员工，级别至少是项目组的小组长。驾驶的机甲属于公有资产，一旦损坏需要自费赔偿。工资尚可，足够在公司旗下的企业舰上租下一室一厅的单间。",
+            "EN": "An Interastral Peace Corporation senior staff member with a minimal rank of project team leader. The mech they drive belongs to the IPC. If damaged, its repair fees have to be paid out-of-pocket. With a half-decent salary, they can at least afford to rent a one-bedroom apartment on one of the IPC's enterprise ships."
+        },
+        "Stats": {
+            "HP": 20.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 12.0
+        },
+        "StatsExtra": {
+            "Stance": 8.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    803301001,
+                    803301002,
+                    803301003,
+                    803301004,
+                    803301005,
+                    803301006,
+                    803301007
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 9,
+        "Icon": "mostericon/Monster_8033010.png",
+        "Figure": "monsterfigure/Monster_8033010.png",
+        "Status": [
+            280330101
+        ],
+        "AllSkills": [
+            803301001,
+            803301002,
+            803301003,
+            803301004,
+            803301005,
+            803301006,
+            803301007
+        ],
+        "Csxylic": "SCInterastralPeaceCorporation/8033010"
+    },
+    {
+        "_id": 803301004,
+        "Key": "Monster_W1_Mecha03_02_Config",
+        "Name": {
+            "CH": "资深员工 · 组长",
+            "EN": "Senior Staff: Team Leader"
+        },
+        "Desc": {
+            "CH": "「星际和平公司」的资深员工，级别至少是项目组的小组长。驾驶的机甲属于公有资产，一旦损坏需要自费赔偿。工资尚可，足够在公司旗下的企业舰上租下一室一厅的单间。",
+            "EN": "An Interastral Peace Corporation senior staff member with a minimal rank of project team leader. The mech they drive belongs to the IPC. If damaged, its repair fees have to be paid out-of-pocket. With a half-decent salary, they can at least afford to rent a one-bedroom apartment on one of the IPC's enterprise ships."
+        },
+        "Stats": {
+            "HP": 7.5,
+            "ATK": 14.99994,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 12.0
+        },
+        "StatsExtra": {
+            "SPD": 24.0,
+            "Stance": -3.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Imaginary"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    803301001,
+                    803301002,
+                    803301003,
+                    803301004,
+                    803301005,
+                    803301006,
+                    803301007
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 9,
+        "Icon": "mostericon/Monster_8033010.png",
+        "Figure": "monsterfigure/Monster_8033010.png",
+        "Status": [
+            280330101
+        ],
+        "AllSkills": [
+            803301001,
+            803301002,
+            803301003,
+            803301004,
+            803301005,
+            803301006,
+            803301007
+        ],
+        "Csxylic": "SCInterastralPeaceCorporation/8033010"
+    },
+    {
         "_id": 8033011,
         "Key": "Monster_W1_Mecha03_02_Config_RLElite",
         "Name": {
@@ -51400,6 +57799,76 @@ var _monster = [
             "Elec": 0.2,
             "Wind": 0.2,
             "Quantum": 0.2
+        },
+        "StatusRESBase": 0.2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    803301101,
+                    803301102,
+                    803301103,
+                    803301104,
+                    803301105,
+                    803301106,
+                    803301108
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    803301107
+                ]
+            }
+        ],
+        "Rank": "Elite",
+        "Camp": 0,
+        "Icon": "mostericon/Monster_8033010.png",
+        "Figure": "monsterfigure/Monster_8033010.png",
+        "Status": [
+            280330101
+        ],
+        "AllSkills": [
+            803301101,
+            803301102,
+            803301103,
+            803301104,
+            803301105,
+            803301106,
+            803301108
+        ]
+    },
+    {
+        "_id": 803301101,
+        "Key": "Monster_W1_Mecha03_02_Config_RLElite",
+        "Name": {
+            "CH": "资深员工 · 组长（错误）",
+            "EN": "Senior Staff: Team Leader (Bug)"
+        },
+        "Desc": {
+            "CH": "代码受到影响后的错误投影。参照本体为「星际和平公司」的资深员工，级别至少是项目组的小组长。驾驶的机甲属于公有资产，一旦损坏需要自费赔偿。工资尚可，足够在公司旗下的企业舰上租下一室一厅的单间。",
+            "EN": "A false projection produced by compromised codes. The original reference entity is an Interastral Peace Corporation senior staff member with a minimal rank of project team leader. The mech they drive belongs to the IPC. If damaged, its repair fees have to be paid out-of-pocket. With a half-decent salary, they can at least afford to rent a one-bedroom apartment on one of the IPC's enterprise ships."
+        },
+        "Stats": {
+            "HP": 19.0,
+            "ATK": 18.0,
+            "DEF": 1.0,
+            "SPD": 144.0,
+            "Stance": 12.0
+        },
+        "StatsExtra": {
+            "Stance": 8.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
         },
         "StatusRESBase": 0.2,
         "Skills": [
@@ -51505,77 +57974,227 @@ var _monster = [
         ]
     },
     {
-        "_id": 9003020,
-        "Key": "WMonster_Gepard_00_Blizzard_Config",
+        "_id": 8033013,
+        "Key": "Monster_W1_Mecha03_02_Config_RLElite_Fever",
         "Name": {
-            "CH": "造物引擎",
-            "EN": "Engine of Creation"
+            "CH": "dev_资深员工 · 组长（错误）",
+            "EN": ""
         },
         "Desc": {
-            "CH": "dev_暴风雪领域",
+            "CH": "dev_代码受到影响后的错误投影。参照本体为「星际和平公司」的资深员工，级别至少是项目组的小组长。驾驶的机甲属于公有资产，一旦损坏需要自费赔偿。工资尚可，足够在公司旗下的企业舰上租下一室一厅的单间。",
             "EN": ""
         },
         "Stats": {
-            "HP": 5.0,
+            "HP": 19.0,
             "ATK": 18.0,
             "DEF": 1.0,
-            "SPD": 100.0,
-            "Stance": 0.0
+            "SPD": 144.0,
+            "Stance": 12.0
         },
-        "Weak": [],
-        "RESBase": {},
-        "StatusRESBase": 0.1,
+        "StatsExtra": {
+            "SPD": -44.0,
+            "Stance": 8.0
+        },
+        "Weak": [
+            "Fire",
+            "Ice",
+            "Wind"
+        ],
+        "RESBase": {
+            "Phys": 0.2,
+            "Elec": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.2
+        },
+        "StatusRESBase": 0.2,
         "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    803301301,
+                    803301302,
+                    803301303,
+                    803301304,
+                    803301305,
+                    803301306,
+                    803301308
+                ]
+            },
             {
                 "Phase": 0,
                 "Skills": [
-                    900302001
+                    803301307
                 ]
             }
         ],
         "Rank": "Elite",
         "Camp": 0,
-        "Icon": "mostericon/Monster_9003020.png",
-        "Figure": "monsterfigure/Monster_9003020.png",
-        "AllSkills": []
+        "Icon": "mostericon/Monster_8033010.png",
+        "Figure": "monsterfigure/Monster_8033010.png",
+        "AllSkills": [
+            803301301,
+            803301302,
+            803301303,
+            803301304,
+            803301305,
+            803301306,
+            803301308
+        ]
     },
     {
-        "_id": 9004600,
-        "Key": "Config/ConfigCharacter/WhiteBox/Monster/WMonster_Fuyan_00_Config",
+        "_id": 8034010,
+        "Key": "Monster_W3_Aventurine_00_Config",
         "Name": {
-            "CH": "",
-            "EN": ""
+            "CH": "「石心十人」诡弈砂金",
+            "EN": "Ten Stonehearts: Aventurine of Stratagems"
         },
         "Desc": {
-            "CH": "",
-            "EN": ""
+            "CH": "星际和平公司「战略投资部」的高级干部，「石心十人」之一。借由基石分得「存护」令使的权能，以身作骰，置之死地而后生。",
+            "EN": "A senior manager in the IPC Strategic Investment Department and one of the Ten Stonehearts. Using his Cornerstone, he obtained a share of the authority of an Emanator of Preservation. He throws his own body into the game as a die, ready to face death in order to walk away alive."
         },
         "Stats": {
-            "HP": 15.0,
+            "HP": 22.0,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 120.0,
-            "Stance": 0.0
+            "Stance": 15.0
         },
-        "Weak": [],
-        "RESBase": {},
-        "StatusRESBase": 1.0,
+        "Weak": [
+            "Phys",
+            "Ice",
+            "Elec"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.4
+        },
+        "StatusRESBase": 0.3,
         "DebuffRES": {
-            "CTRL": 1.0
+            "CTRL": 0.5
         },
+        "HPCount": 2,
         "Skills": [
             {
                 "Phase": 1,
                 "Skills": [
-                    900460001
+                    803401001,
+                    803401002,
+                    803401003,
+                    803401004,
+                    803401006,
+                    803401008
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    803401001,
+                    803401002,
+                    803401003,
+                    803401005,
+                    803401007,
+                    803401008
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    803401009
                 ]
             }
         ],
         "Rank": "LittleBoss",
-        "Camp": 0,
-        "Icon": "mostericon/Monster_8013010.png",
+        "Camp": 9,
+        "Icon": "mostericon/Monster_8034010.png",
         "AllSkills": [
-            900460001
+            803401001,
+            803401002,
+            803401003,
+            803401004,
+            803401006,
+            803401008,
+            803401005,
+            803401007
+        ]
+    },
+    {
+        "_id": 803401001,
+        "Key": "Monster_W3_Aventurine_00_Config",
+        "Name": {
+            "CH": "「石心十人」诡弈砂金",
+            "EN": "Ten Stonehearts: Aventurine of Stratagems"
+        },
+        "Desc": {
+            "CH": "星际和平公司「战略投资部」的高级干部，「石心十人」之一。借由基石分得「存护」令使的权能，以身作骰，置之死地而后生。",
+            "EN": "A senior manager in the IPC Strategic Investment Department and one of the Ten Stonehearts. Using his Cornerstone, he obtained a share of the authority of an Emanator of Preservation. He throws his own body into the game as a die, ready to face death in order to walk away alive."
+        },
+        "Stats": {
+            "HP": 33.0,
+            "ATK": 19.99998,
+            "DEF": 1.0,
+            "SPD": 120.0,
+            "Stance": 15.0
+        },
+        "Weak": [
+            "Phys",
+            "Ice",
+            "Elec"
+        ],
+        "RESBase": {
+            "Fire": 0.2,
+            "Wind": 0.2,
+            "Quantum": 0.2,
+            "Imaginary": 0.4
+        },
+        "StatusRESBase": 0.3,
+        "DebuffRES": {
+            "CTRL": 0.5
+        },
+        "HPCount": 2,
+        "Skills": [
+            {
+                "Phase": 1,
+                "Skills": [
+                    803401001,
+                    803401002,
+                    803401003,
+                    803401004,
+                    803401006,
+                    803401008
+                ]
+            },
+            {
+                "Phase": 2,
+                "Skills": [
+                    803401001,
+                    803401002,
+                    803401003,
+                    803401005,
+                    803401007,
+                    803401008
+                ]
+            },
+            {
+                "Phase": 0,
+                "Skills": [
+                    803401009
+                ]
+            }
+        ],
+        "Rank": "LittleBoss",
+        "Camp": 9,
+        "Icon": "mostericon/Monster_8034010.png",
+        "AllSkills": [
+            803401001,
+            803401002,
+            803401003,
+            803401004,
+            803401006,
+            803401008,
+            803401005,
+            803401007
         ]
     }
 ]
@@ -51583,1834 +58202,992 @@ var _monster = [
 var _monsterindex = {
     "1000042": 0,
     "1002011": 1,
-    "1002012": 2,
-    "1002013": 3,
-    "1002014": 4,
-    "1002015": 5,
-    "100201501": 6,
-    "1002016": 7,
-    "100201601": 8,
-    "1002017": 9,
-    "100201702": 10,
-    "1002018": 11,
-    "100201802": 12,
-    "1002020": 13,
-    "100202001": 14,
-    "100202002": 15,
-    "100202003": 16,
-    "100202004": 17,
-    "100202005": 18,
-    "100202006": 19,
-    "100202007": 20,
-    "100202008": 21,
-    "100202009": 22,
-    "100202010": 23,
-    "100202011": 24,
-    "100202012": 25,
-    "100202013": 26,
-    "100202014": 27,
-    "100202015": 28,
-    "100202016": 29,
-    "100202101": 30,
-    "1002030": 31,
-    "100203001": 32,
-    "100203002": 33,
-    "100203003": 34,
-    "100203004": 35,
-    "100203005": 36,
-    "100203006": 37,
-    "100203007": 38,
-    "100203008": 39,
-    "100203009": 40,
-    "100203010": 41,
-    "100203011": 42,
-    "100203012": 43,
-    "1002040": 44,
-    "100204001": 45,
-    "100204002": 46,
-    "100204003": 47,
-    "100204004": 48,
-    "100204005": 49,
-    "100204006": 50,
-    "100204007": 51,
-    "100204008": 52,
-    "100204009": 53,
-    "100204010": 54,
-    "100204011": 55,
-    "100204012": 56,
-    "100204013": 57,
-    "100204014": 58,
-    "100204015": 59,
-    "100204016": 60,
-    "100204017": 61,
-    "100204018": 62,
-    "100204019": 63,
-    "100204020": 64,
-    "100204021": 65,
-    "100204022": 66,
-    "100204023": 67,
-    "1002041": 68,
-    "100204101": 69,
-    "1002050": 70,
-    "100205001": 71,
-    "100205002": 72,
-    "100205003": 73,
-    "100205004": 74,
-    "100205005": 75,
-    "100205006": 76,
-    "100205007": 77,
-    "100205008": 78,
-    "100205009": 79,
-    "100205010": 80,
-    "100205011": 81,
-    "100205012": 82,
-    "100205013": 83,
-    "100205014": 84,
-    "100205015": 85,
-    "100205016": 86,
-    "100205017": 87,
-    "100205018": 88,
-    "1003010": 89,
-    "100301001": 90,
-    "100301002": 91,
-    "100301003": 92,
-    "100301004": 93,
-    "100301005": 94,
-    "100301006": 95,
-    "100301007": 96,
-    "100301008": 97,
-    "100301009": 98,
-    "100301010": 99,
-    "100301011": 100,
-    "100301012": 101,
-    "100301013": 102,
-    "100301014": 103,
-    "100301015": 104,
-    "100301016": 105,
-    "100301017": 106,
-    "100301018": 107,
-    "1003011": 108,
-    "1003012": 109,
-    "1003013": 110,
-    "1004010": 111,
-    "100401001": 112,
-    "100401002": 113,
-    "100401003": 114,
-    "100401004": 115,
-    "1004011": 116,
-    "1004012": 117,
-    "1004013": 118,
-    "1004020": 119,
-    "100402001": 120,
-    "100402002": 121,
-    "100402003": 122,
-    "100402004": 123,
-    "100402005": 124,
-    "1004021": 125,
-    "1004022": 126,
-    "1004023": 127,
-    "1004024": 128,
-    "1004025": 129,
-    "1004030": 130,
-    "100403001": 131,
-    "100403002": 132,
-    "1004031": 133,
-    "100403101": 134,
-    "1004032": 135,
-    "1005010": 136,
-    "1005011": 137,
-    "1005012": 138,
-    "1005013": 139,
-    "1012010": 140,
-    "101201001": 141,
-    "101201002": 142,
-    "101201003": 143,
-    "101201004": 144,
-    "101201005": 145,
-    "101201006": 146,
-    "101201007": 147,
-    "101201008": 148,
-    "101201009": 149,
-    "101201010": 150,
-    "101201011": 151,
-    "101201012": 152,
-    "101201013": 153,
-    "101201014": 154,
-    "101201015": 155,
-    "101201016": 156,
-    "1012011": 157,
-    "1012020": 158,
-    "101202001": 159,
-    "101202002": 160,
-    "101202003": 161,
-    "1012021": 162,
-    "101202101": 163,
-    "101202102": 164,
-    "101202103": 165,
-    "101202104": 166,
-    "101202105": 167,
-    "101202106": 168,
-    "101202107": 169,
-    "101202108": 170,
-    "101202109": 171,
-    "101202110": 172,
-    "101202111": 173,
-    "1012030": 174,
-    "101203001": 175,
-    "101203002": 176,
-    "101203003": 177,
-    "101203004": 178,
-    "101203005": 179,
-    "101203006": 180,
-    "101203007": 181,
-    "101203008": 182,
-    "101203009": 183,
-    "101203010": 184,
-    "101203011": 185,
-    "101203012": 186,
-    "101203013": 187,
-    "101203014": 188,
-    "101203015": 189,
-    "1012040": 190,
-    "1012041": 191,
-    "1012042": 192,
-    "1013010": 193,
-    "101301001": 194,
-    "101301002": 195,
-    "101301003": 196,
-    "101301004": 197,
-    "101301005": 198,
-    "101301006": 199,
-    "101301007": 200,
-    "101301008": 201,
-    "101301009": 202,
-    "101301010": 203,
-    "101301011": 204,
-    "101301012": 205,
-    "101301013": 206,
-    "101301014": 207,
-    "101301015": 208,
-    "101301016": 209,
-    "101301017": 210,
-    "101301018": 211,
-    "101301019": 212,
-    "1013011": 213,
-    "1013012": 214,
-    "1013013": 215,
-    "1013014": 216,
-    "1013020": 217,
-    "101302001": 218,
-    "101302002": 219,
-    "101302003": 220,
-    "101302004": 221,
-    "101302005": 222,
-    "101302006": 223,
-    "101302007": 224,
-    "101302008": 225,
-    "101302009": 226,
-    "101302010": 227,
-    "101302011": 228,
-    "101302012": 229,
-    "101302013": 230,
-    "101302014": 231,
-    "101302015": 232,
-    "101302020": 233,
-    "101302021": 234,
-    "101302022": 235,
-    "101302023": 236,
-    "101302024": 237,
-    "1013021": 238,
-    "1013022": 239,
-    "1013023": 240,
-    "1013024": 241,
-    "1014010": 242,
-    "101401001": 243,
-    "101401002": 244,
-    "101401003": 245,
-    "101401004": 246,
-    "101401005": 247,
-    "101401006": 248,
-    "101401007": 249,
-    "101401008": 250,
-    "101401009": 251,
-    "1014011": 252,
-    "1014012": 253,
-    "1022010": 254,
-    "102201001": 255,
-    "102201002": 256,
-    "102201003": 257,
-    "102201004": 258,
-    "102201005": 259,
-    "102201006": 260,
-    "102201007": 261,
-    "102201008": 262,
-    "102201009": 263,
-    "102201010": 264,
-    "102201011": 265,
-    "102201012": 266,
-    "1022020": 267,
-    "102202001": 268,
-    "102202002": 269,
-    "102202003": 270,
-    "102202004": 271,
-    "102202005": 272,
-    "102202006": 273,
-    "102202007": 274,
-    "102202008": 275,
-    "102202009": 276,
-    "102202010": 277,
-    "102202011": 278,
-    "102202012": 279,
-    "102202013": 280,
-    "102202014": 281,
-    "102202015": 282,
-    "102202016": 283,
-    "102202017": 284,
-    "102202018": 285,
-    "102202019": 286,
-    "102202020": 287,
-    "102202021": 288,
-    "102202022": 289,
-    "102202023": 290,
-    "1023010": 291,
-    "102301001": 292,
-    "102301002": 293,
-    "102301003": 294,
-    "102301004": 295,
-    "102301005": 296,
-    "102301006": 297,
-    "102301007": 298,
-    "102301008": 299,
-    "102301009": 300,
-    "102301010": 301,
-    "102301011": 302,
-    "102301012": 303,
-    "102301013": 304,
-    "102301014": 305,
-    "1023011": 306,
-    "1023020": 307,
-    "102302001": 308,
-    "102302002": 309,
-    "102302003": 310,
-    "102302004": 311,
-    "1023021": 312,
-    "2002010": 313,
-    "200201001": 314,
-    "200201002": 315,
-    "200201003": 316,
-    "200201004": 317,
-    "200201005": 318,
-    "200201006": 319,
-    "2002020": 320,
-    "200202001": 321,
-    "200202002": 322,
-    "200202003": 323,
-    "2002021": 324,
-    "200202101": 325,
-    "200202102": 326,
-    "200202103": 327,
-    "2002030": 328,
-    "200203001": 329,
-    "200203002": 330,
-    "200203003": 331,
-    "200203004": 332,
-    "2002031": 333,
-    "200203201": 334,
-    "200203202": 335,
-    "2004010": 336,
-    "200401001": 337,
-    "200401002": 338,
-    "200401003": 339,
-    "200401004": 340,
-    "2004011": 341,
-    "2004012": 342,
-    "2004013": 343,
-    "2004020": 344,
-    "200402001": 345,
-    "200402002": 346,
-    "200402003": 347,
-    "200402004": 348,
-    "200402005": 349,
-    "200402006": 350,
-    "2004021": 351,
-    "2004022": 352,
-    "2004023": 353,
-    "2011010": 354,
-    "201101001": 355,
-    "201101002": 356,
-    "201101003": 357,
-    "2011020": 358,
-    "201102001": 359,
-    "201102002": 360,
-    "201102003": 361,
-    "2012010": 362,
-    "201201001": 363,
-    "201201002": 364,
-    "201201003": 365,
-    "201201004": 366,
-    "201201005": 367,
-    "201201006": 368,
-    "201201007": 369,
-    "2013010": 370,
-    "201301001": 371,
-    "201301002": 372,
-    "201301003": 373,
-    "201301004": 374,
-    "201301005": 375,
-    "201301006": 376,
-    "201301007": 377,
-    "2013011": 378,
-    "2013012": 379,
-    "2013020": 380,
-    "201302001": 381,
-    "201302002": 382,
-    "201302003": 383,
-    "201302004": 384,
-    "2013021": 385,
-    "2022010": 386,
-    "202201001": 387,
-    "202201002": 388,
-    "202201003": 389,
-    "202201004": 390,
-    "202201005": 391,
-    "202201006": 392,
-    "202201007": 393,
-    "202201008": 394,
-    "202201009": 395,
-    "202201010": 396,
-    "2022020": 397,
-    "202202001": 398,
-    "202202002": 399,
-    "202202003": 400,
-    "202202004": 401,
-    "202202005": 402,
-    "202202006": 403,
-    "202202007": 404,
-    "202202008": 405,
-    "202202009": 406,
-    "2022040": 407,
-    "202204001": 408,
-    "202204002": 409,
-    "202204003": 410,
-    "202204004": 411,
-    "202204005": 412,
-    "2022050": 413,
-    "202205001": 414,
-    "202205002": 415,
-    "202205003": 416,
-    "202205004": 417,
-    "2022051": 418,
-    "2022060": 419,
-    "202206001": 420,
-    "202206002": 421,
-    "202206003": 422,
-    "2022070": 423,
-    "2022071": 424,
-    "202207101": 425,
-    "2022080": 426,
-    "2022081": 427,
-    "202208101": 428,
-    "2022090": 429,
-    "2022091": 430,
-    "202209101": 431,
-    "2022100": 432,
-    "2022101": 433,
-    "202210101": 434,
-    "2022110": 435,
-    "202211001": 436,
-    "202211002": 437,
-    "202211003": 438,
-    "2023010": 439,
-    "202301001": 440,
-    "202301002": 441,
-    "202301003": 442,
-    "202301004": 443,
-    "202301005": 444,
-    "202301006": 445,
-    "202301007": 446,
-    "202301008": 447,
-    "202301009": 448,
-    "202301010": 449,
-    "202301011": 450,
-    "202301012": 451,
-    "2023011": 452,
-    "2023020": 453,
-    "202302001": 454,
-    "202302002": 455,
-    "202302003": 456,
-    "202302004": 457,
-    "202302005": 458,
-    "202302006": 459,
-    "2023021": 460,
-    "2023030": 461,
-    "202303001": 462,
-    "202303002": 463,
-    "202303003": 464,
-    "202303004": 465,
-    "202303005": 466,
-    "202303006": 467,
-    "202303007": 468,
-    "2023031": 469,
-    "2024010": 470,
-    "202401001": 471,
-    "202401002": 472,
-    "2024011": 473,
-    "2024012": 474,
-    "2024013": 475,
-    "2024014": 476,
-    "2024020": 477,
-    "202402001": 478,
-    "202402002": 479,
-    "202402003": 480,
-    "202402004": 481,
-    "3001010": 482,
-    "300101001": 483,
-    "3001020": 484,
-    "300102001": 485,
-    "3002010": 486,
-    "300201001": 487,
-    "300201002": 488,
-    "300201003": 489,
-    "3002030": 490,
-    "300203001": 491,
-    "300203002": 492,
-    "3002050": 493,
-    "300205002": 494,
-    "3002051": 495,
-    "3002089": 496,
-    "3003010": 497,
-    "3003011": 498,
-    "300301101": 499,
-    "3003020": 500,
-    "300302001": 501,
-    "3003021": 502,
-    "3011010": 503,
-    "3012020": 504,
-    "301202001": 505,
-    "3012030": 506,
-    "3012031": 507,
-    "3014020": 508,
-    "301402001": 509,
-    "301402002": 510,
-    "301402003": 511,
-    "3014021": 512,
-    "3021020": 513,
-    "3021021": 514,
-    "3021030": 515,
-    "3021031": 516,
-    "3021040": 517,
-    "3021041": 518,
-    "3024010": 519,
-    "302401001": 520,
-    "302401002": 521,
-    "302401003": 522,
-    "3024011": 523,
-    "3024012": 524,
-    "3024020": 525,
-    "302402001": 526,
-    "3024021": 527,
-    "7001010": 528,
-    "7001011": 529,
-    "7001012": 530,
-    "7001013": 531,
-    "7002010": 532,
-    "7002011": 533,
-    "7002020": 534,
-    "7002030": 535,
-    "700203001": 536,
-    "700203002": 537,
-    "7002040": 538,
-    "7002050": 539,
-    "700205001": 540,
-    "7002060": 541,
-    "7002070": 542,
-    "700207001": 543,
-    "700207002": 544,
-    "7002080": 545,
-    "7002090": 546,
-    "700209001": 547,
-    "7002100": 548,
-    "7002110": 549,
-    "7002120": 550,
-    "7002130": 551,
-    "7002140": 552,
-    "7003010": 553,
-    "7003020": 554,
-    "7003030": 555,
-    "7003040": 556,
-    "7003050": 557,
-    "7003060": 558,
-    "7003070": 559,
-    "7003080": 560,
-    "7003090": 561,
-    "7003100": 562,
-    "8001010": 563,
-    "800101001": 564,
-    "800101002": 565,
-    "800101003": 566,
-    "800101004": 567,
-    "800101005": 568,
-    "800101006": 569,
-    "800101007": 570,
-    "800101008": 571,
-    "800101009": 572,
-    "800101010": 573,
-    "800101011": 574,
-    "800101012": 575,
-    "800101013": 576,
-    "800101014": 577,
-    "800101015": 578,
-    "800101016": 579,
-    "8001020": 580,
-    "800102001": 581,
-    "800102002": 582,
-    "800102003": 583,
-    "800102004": 584,
-    "800102005": 585,
-    "800102006": 586,
-    "800102007": 587,
-    "800102008": 588,
-    "800102009": 589,
-    "800102010": 590,
-    "800102011": 591,
-    "800102012": 592,
-    "800102013": 593,
-    "800102014": 594,
-    "800102015": 595,
-    "800102016": 596,
-    "8001030": 597,
-    "800103001": 598,
-    "800103002": 599,
-    "800103003": 600,
-    "800103004": 601,
-    "8001040": 602,
-    "800104001": 603,
-    "800104002": 604,
-    "800104003": 605,
-    "8001050": 606,
-    "800105001": 607,
-    "800105002": 608,
-    "800105003": 609,
-    "800105004": 610,
-    "8002010": 611,
-    "800201001": 612,
-    "800201002": 613,
-    "800201003": 614,
-    "800201004": 615,
-    "800201005": 616,
-    "800201006": 617,
-    "800201007": 618,
-    "800201008": 619,
-    "800201009": 620,
-    "800201012": 621,
-    "8002040": 622,
-    "800204001": 623,
-    "800204002": 624,
-    "800204003": 625,
-    "800204004": 626,
-    "8002041": 627,
-    "8002050": 628,
-    "800205001": 629,
-    "800205002": 630,
-    "800205003": 631,
-    "800205004": 632,
-    "800205005": 633,
-    "800205006": 634,
-    "800205007": 635,
-    "800205008": 636,
-    "800205009": 637,
-    "800205010": 638,
-    "800205011": 639,
-    "800205012": 640,
-    "800205013": 641,
-    "800205014": 642,
-    "800205015": 643,
-    "800205016": 644,
-    "800205017": 645,
-    "800205018": 646,
-    "800205019": 647,
-    "800205020": 648,
-    "800205021": 649,
-    "800205022": 650,
-    "800205023": 651,
-    "800205024": 652,
-    "800205025": 653,
-    "800205026": 654,
-    "800205027": 655,
-    "8002051": 656,
-    "8002052": 657,
-    "8002053": 658,
-    "8002054": 659,
-    "8002055": 660,
-    "8002056": 661,
-    "8002057": 662,
-    "8002058": 663,
-    "8002059": 664,
-    "8002060": 665,
-    "8002061": 666,
-    "8002070": 667,
-    "8002071": 668,
-    "8002080": 669,
-    "8002081": 670,
-    "800208101": 671,
-    "8002082": 672,
-    "8002090": 673,
-    "8002091": 674,
-    "8002100": 675,
-    "8002101": 676,
-    "8002102": 677,
-    "8003010": 678,
-    "800301001": 679,
-    "800301002": 680,
-    "800301003": 681,
-    "800301004": 682,
-    "800301005": 683,
-    "800301006": 684,
-    "800301007": 685,
-    "800301008": 686,
-    "800301009": 687,
-    "800301010": 688,
-    "800301011": 689,
-    "800301012": 690,
-    "800301013": 691,
-    "8003011": 692,
-    "8003020": 693,
-    "800302001": 694,
-    "800302002": 695,
-    "800302003": 696,
-    "800302004": 697,
-    "800302005": 698,
-    "800302006": 699,
-    "800302007": 700,
-    "800302008": 701,
-    "800302009": 702,
-    "800302010": 703,
-    "800302011": 704,
-    "800302012": 705,
-    "800302013": 706,
-    "800302014": 707,
-    "800302015": 708,
-    "800302016": 709,
-    "800302017": 710,
-    "800302019": 711,
-    "8003021": 712,
-    "8003030": 713,
-    "800303001": 714,
-    "800303002": 715,
-    "800303003": 716,
-    "800303004": 717,
-    "800303005": 718,
-    "800303006": 719,
-    "800303007": 720,
-    "800303008": 721,
-    "800303009": 722,
-    "800303010": 723,
-    "800303011": 724,
-    "800303012": 725,
-    "8003031": 726,
-    "8003040": 727,
-    "800304001": 728,
-    "800304002": 729,
-    "800304003": 730,
-    "800304004": 731,
-    "800304005": 732,
-    "800304006": 733,
-    "800304007": 734,
-    "800304008": 735,
-    "800304009": 736,
-    "8003041": 737,
-    "8003042": 738,
-    "8003050": 739,
-    "800305001": 740,
-    "800305002": 741,
-    "800305003": 742,
-    "800305004": 743,
-    "800305005": 744,
-    "800305006": 745,
-    "800305007": 746,
-    "800305008": 747,
-    "800305009": 748,
-    "8003051": 749,
-    "8003052": 750,
-    "8011010": 751,
-    "801101001": 752,
-    "801101002": 753,
-    "801101003": 754,
-    "801101004": 755,
-    "801101005": 756,
-    "801101006": 757,
-    "801101007": 758,
-    "801101008": 759,
-    "8011020": 760,
-    "801102001": 761,
-    "801102002": 762,
-    "801102003": 763,
-    "801102004": 764,
-    "801102005": 765,
-    "801102007": 766,
-    "801102008": 767,
-    "8012010": 768,
-    "801201001": 769,
-    "801201002": 770,
-    "801201003": 771,
-    "801201004": 772,
-    "801201005": 773,
-    "801201006": 774,
-    "801201007": 775,
-    "801201008": 776,
-    "801201009": 777,
-    "801201010": 778,
-    "801201011": 779,
-    "801201012": 780,
-    "801201013": 781,
-    "801201014": 782,
-    "801201015": 783,
-    "801201016": 784,
-    "801201017": 785,
-    "801201018": 786,
-    "801201019": 787,
-    "801201020": 788,
-    "801201021": 789,
-    "801201023": 790,
-    "801201024": 791,
-    "801201025": 792,
-    "801201026": 793,
-    "8012020": 794,
-    "801202001": 795,
-    "801202002": 796,
-    "801202003": 797,
-    "801202004": 798,
-    "801202005": 799,
-    "801202006": 800,
-    "801202007": 801,
-    "801202008": 802,
-    "801202009": 803,
-    "801202010": 804,
-    "801202011": 805,
-    "801202012": 806,
-    "801202013": 807,
-    "8012021": 808,
-    "801202101": 809,
-    "801202102": 810,
-    "8012030": 811,
-    "801203001": 812,
-    "801203002": 813,
-    "801203003": 814,
-    "801203004": 815,
-    "801203005": 816,
-    "801203006": 817,
-    "801203007": 818,
-    "8012140": 819,
-    "8012142": 820,
-    "8012143": 821,
-    "8012145": 822,
-    "8012200": 823,
-    "8012201": 824,
-    "8012202": 825,
-    "8012203": 826,
-    "8012210": 827,
-    "8012211": 828,
-    "8012212": 829,
-    "8012213": 830,
-    "8013010": 831,
-    "801301001": 832,
-    "801301002": 833,
-    "801301003": 834,
-    "801301004": 835,
-    "801301005": 836,
-    "801301006": 837,
-    "801301007": 838,
-    "801301008": 839,
-    "801301009": 840,
-    "801301010": 841,
-    "801301011": 842,
-    "801301012": 843,
-    "801301013": 844,
-    "801301014": 845,
-    "801301015": 846,
-    "8013011": 847,
-    "8013012": 848,
-    "8013013": 849,
-    "8013141": 850,
-    "8013144": 851,
-    "8015010": 852,
-    "8015011": 853,
-    "8015020": 854,
-    "8015021": 855,
-    "8022010": 856,
-    "8022020": 857,
-    "802202001": 858,
-    "802202002": 859,
-    "8022030": 860,
-    "8024010": 861,
-    "8024011": 862,
-    "8024012": 863,
-    "8025010": 864,
-    "802501001": 865,
-    "8032010": 866,
-    "803201001": 867,
-    "803201002": 868,
-    "803201003": 869,
-    "8032020": 870,
-    "803202001": 871,
-    "803202002": 872,
-    "803202003": 873,
-    "8033010": 874,
-    "803301001": 875,
-    "803301002": 876,
-    "8033011": 877,
-    "803301202": 878,
-    "9003020": 879,
-    "9004600": 880
+    "100201101": 2,
+    "1002012": 3,
+    "100201201": 4,
+    "1002013": 5,
+    "1002014": 6,
+    "1002015": 7,
+    "100201501": 8,
+    "1002016": 9,
+    "100201601": 10,
+    "1002017": 11,
+    "100201702": 12,
+    "1002018": 13,
+    "100201802": 14,
+    "1002020": 15,
+    "100202001": 16,
+    "100202002": 17,
+    "100202003": 18,
+    "100202004": 19,
+    "100202005": 20,
+    "100202006": 21,
+    "100202007": 22,
+    "100202008": 23,
+    "100202009": 24,
+    "100202010": 25,
+    "100202011": 26,
+    "100202012": 27,
+    "100202013": 28,
+    "100202014": 29,
+    "100202015": 30,
+    "100202016": 31,
+    "100202017": 32,
+    "100202019": 33,
+    "100202101": 34,
+    "1002030": 35,
+    "100203001": 36,
+    "100203002": 37,
+    "100203003": 38,
+    "100203004": 39,
+    "100203005": 40,
+    "100203006": 41,
+    "100203007": 42,
+    "100203008": 43,
+    "100203009": 44,
+    "100203010": 45,
+    "100203011": 46,
+    "100203012": 47,
+    "100203013": 48,
+    "100203016": 49,
+    "100203017": 50,
+    "1002040": 51,
+    "100204001": 52,
+    "100204002": 53,
+    "100204003": 54,
+    "100204004": 55,
+    "100204005": 56,
+    "100204006": 57,
+    "100204007": 58,
+    "100204008": 59,
+    "100204009": 60,
+    "100204010": 61,
+    "100204011": 62,
+    "100204012": 63,
+    "100204013": 64,
+    "100204014": 65,
+    "100204015": 66,
+    "100204016": 67,
+    "100204017": 68,
+    "100204018": 69,
+    "100204019": 70,
+    "100204020": 71,
+    "100204021": 72,
+    "100204022": 73,
+    "100204023": 74,
+    "100204024": 75,
+    "1002041": 76,
+    "100204101": 77,
+    "1002050": 78,
+    "100205001": 79,
+    "100205002": 80,
+    "100205003": 81,
+    "100205004": 82,
+    "100205005": 83,
+    "100205006": 84,
+    "100205007": 85,
+    "100205008": 86,
+    "100205009": 87,
+    "100205010": 88,
+    "100205011": 89,
+    "100205012": 90,
+    "100205013": 91,
+    "100205014": 92,
+    "100205015": 93,
+    "100205016": 94,
+    "100205017": 95,
+    "100205018": 96,
+    "100205019": 97,
+    "100205020": 98,
+    "1003010": 99,
+    "100301001": 100,
+    "100301002": 101,
+    "100301003": 102,
+    "100301004": 103,
+    "100301005": 104,
+    "100301006": 105,
+    "100301007": 106,
+    "100301008": 107,
+    "100301009": 108,
+    "100301010": 109,
+    "100301011": 110,
+    "100301012": 111,
+    "100301013": 112,
+    "100301014": 113,
+    "100301015": 114,
+    "100301016": 115,
+    "100301017": 116,
+    "100301018": 117,
+    "100301019": 118,
+    "100301020": 119,
+    "1003011": 120,
+    "100301101": 121,
+    "1003012": 122,
+    "1003013": 123,
+    "1003014": 124,
+    "1004010": 125,
+    "100401001": 126,
+    "100401002": 127,
+    "100401003": 128,
+    "100401004": 129,
+    "100401005": 130,
+    "100401006": 131,
+    "1004011": 132,
+    "1004012": 133,
+    "1004013": 134,
+    "1004020": 135,
+    "100402001": 136,
+    "100402002": 137,
+    "100402003": 138,
+    "100402004": 139,
+    "100402005": 140,
+    "100402006": 141,
+    "100402007": 142,
+    "1004021": 143,
+    "1004022": 144,
+    "1004023": 145,
+    "1004024": 146,
+    "1004025": 147,
+    "1004030": 148,
+    "100403001": 149,
+    "100403002": 150,
+    "100403003": 151,
+    "100403004": 152,
+    "1004031": 153,
+    "100403101": 154,
+    "1004032": 155,
+    "1005010": 156,
+    "1005011": 157,
+    "1005012": 158,
+    "1005013": 159,
+    "1012010": 160,
+    "101201001": 161,
+    "101201002": 162,
+    "101201003": 163,
+    "101201004": 164,
+    "101201005": 165,
+    "101201006": 166,
+    "101201007": 167,
+    "101201008": 168,
+    "101201009": 169,
+    "101201010": 170,
+    "101201011": 171,
+    "101201012": 172,
+    "101201013": 173,
+    "101201014": 174,
+    "101201015": 175,
+    "101201016": 176,
+    "101201017": 177,
+    "1012011": 178,
+    "1012020": 179,
+    "101202001": 180,
+    "101202002": 181,
+    "101202003": 182,
+    "1012021": 183,
+    "101202101": 184,
+    "101202102": 185,
+    "101202103": 186,
+    "101202104": 187,
+    "101202105": 188,
+    "101202106": 189,
+    "101202107": 190,
+    "101202108": 191,
+    "101202109": 192,
+    "101202110": 193,
+    "101202111": 194,
+    "1012030": 195,
+    "101203001": 196,
+    "101203002": 197,
+    "101203003": 198,
+    "101203004": 199,
+    "101203005": 200,
+    "101203006": 201,
+    "101203007": 202,
+    "101203008": 203,
+    "101203009": 204,
+    "101203010": 205,
+    "101203011": 206,
+    "101203012": 207,
+    "101203013": 208,
+    "101203014": 209,
+    "101203015": 210,
+    "1012040": 211,
+    "1012041": 212,
+    "1012042": 213,
+    "1013010": 214,
+    "101301001": 215,
+    "101301002": 216,
+    "101301003": 217,
+    "101301004": 218,
+    "101301005": 219,
+    "101301006": 220,
+    "101301007": 221,
+    "101301008": 222,
+    "101301009": 223,
+    "101301010": 224,
+    "101301011": 225,
+    "101301012": 226,
+    "101301013": 227,
+    "101301014": 228,
+    "101301015": 229,
+    "101301016": 230,
+    "101301017": 231,
+    "101301018": 232,
+    "101301019": 233,
+    "101301020": 234,
+    "101301021": 235,
+    "101301022": 236,
+    "101301023": 237,
+    "1013011": 238,
+    "101301101": 239,
+    "1013012": 240,
+    "1013013": 241,
+    "1013014": 242,
+    "1013020": 243,
+    "101302001": 244,
+    "101302002": 245,
+    "101302003": 246,
+    "101302004": 247,
+    "101302005": 248,
+    "101302006": 249,
+    "101302007": 250,
+    "101302008": 251,
+    "101302009": 252,
+    "101302010": 253,
+    "101302011": 254,
+    "101302012": 255,
+    "101302013": 256,
+    "101302014": 257,
+    "101302015": 258,
+    "101302020": 259,
+    "101302021": 260,
+    "101302022": 261,
+    "101302023": 262,
+    "101302024": 263,
+    "101302025": 264,
+    "101302026": 265,
+    "101302027": 266,
+    "101302028": 267,
+    "1013021": 268,
+    "1013022": 269,
+    "1013023": 270,
+    "1013024": 271,
+    "1014010": 272,
+    "101401001": 273,
+    "101401002": 274,
+    "101401003": 275,
+    "101401004": 276,
+    "101401005": 277,
+    "101401006": 278,
+    "101401007": 279,
+    "101401008": 280,
+    "101401009": 281,
+    "1014011": 282,
+    "1014012": 283,
+    "1014013": 284,
+    "1022010": 285,
+    "102201001": 286,
+    "102201002": 287,
+    "102201003": 288,
+    "102201004": 289,
+    "102201005": 290,
+    "102201006": 291,
+    "102201007": 292,
+    "102201008": 293,
+    "102201009": 294,
+    "102201010": 295,
+    "102201011": 296,
+    "102201012": 297,
+    "102201013": 298,
+    "1022020": 299,
+    "102202001": 300,
+    "102202002": 301,
+    "102202003": 302,
+    "102202004": 303,
+    "102202005": 304,
+    "102202006": 305,
+    "102202007": 306,
+    "102202008": 307,
+    "102202009": 308,
+    "102202010": 309,
+    "102202011": 310,
+    "102202012": 311,
+    "102202013": 312,
+    "102202014": 313,
+    "102202015": 314,
+    "102202016": 315,
+    "102202017": 316,
+    "102202018": 317,
+    "102202019": 318,
+    "102202020": 319,
+    "102202021": 320,
+    "102202022": 321,
+    "102202023": 322,
+    "102202024": 323,
+    "102202025": 324,
+    "1023010": 325,
+    "102301001": 326,
+    "102301002": 327,
+    "102301003": 328,
+    "102301004": 329,
+    "102301005": 330,
+    "102301006": 331,
+    "102301007": 332,
+    "102301008": 333,
+    "102301009": 334,
+    "102301010": 335,
+    "102301011": 336,
+    "102301012": 337,
+    "102301013": 338,
+    "102301014": 339,
+    "102301015": 340,
+    "102301016": 341,
+    "102301017": 342,
+    "1023011": 343,
+    "1023020": 344,
+    "102302001": 345,
+    "102302002": 346,
+    "102302003": 347,
+    "102302004": 348,
+    "102302005": 349,
+    "1023021": 350,
+    "102302101": 351,
+    "1023022": 352,
+    "2002010": 353,
+    "200201001": 354,
+    "200201002": 355,
+    "200201003": 356,
+    "200201004": 357,
+    "200201005": 358,
+    "200201006": 359,
+    "2002020": 360,
+    "200202001": 361,
+    "200202002": 362,
+    "200202003": 363,
+    "2002021": 364,
+    "200202101": 365,
+    "200202102": 366,
+    "200202103": 367,
+    "2002030": 368,
+    "200203001": 369,
+    "200203002": 370,
+    "200203003": 371,
+    "200203004": 372,
+    "2002031": 373,
+    "200203201": 374,
+    "200203202": 375,
+    "2004010": 376,
+    "200401001": 377,
+    "200401002": 378,
+    "200401003": 379,
+    "200401004": 380,
+    "200401005": 381,
+    "2004011": 382,
+    "2004012": 383,
+    "2004013": 384,
+    "2004020": 385,
+    "200402001": 386,
+    "200402002": 387,
+    "200402003": 388,
+    "200402004": 389,
+    "200402005": 390,
+    "200402006": 391,
+    "2004021": 392,
+    "2004022": 393,
+    "200402201": 394,
+    "2004023": 395,
+    "2011010": 396,
+    "201101001": 397,
+    "201101002": 398,
+    "201101003": 399,
+    "2011020": 400,
+    "201102001": 401,
+    "201102002": 402,
+    "201102003": 403,
+    "2012010": 404,
+    "201201001": 405,
+    "201201002": 406,
+    "201201003": 407,
+    "201201004": 408,
+    "201201005": 409,
+    "201201006": 410,
+    "201201007": 411,
+    "201201008": 412,
+    "2013010": 413,
+    "201301001": 414,
+    "201301002": 415,
+    "201301003": 416,
+    "201301004": 417,
+    "201301005": 418,
+    "201301006": 419,
+    "201301007": 420,
+    "2013011": 421,
+    "2013012": 422,
+    "2013020": 423,
+    "201302001": 424,
+    "201302002": 425,
+    "201302003": 426,
+    "201302004": 427,
+    "201302006": 428,
+    "201302007": 429,
+    "2013021": 430,
+    "2022010": 431,
+    "202201001": 432,
+    "202201002": 433,
+    "202201003": 434,
+    "202201004": 435,
+    "202201005": 436,
+    "202201006": 437,
+    "202201007": 438,
+    "202201008": 439,
+    "202201009": 440,
+    "202201010": 441,
+    "202201011": 442,
+    "2022020": 443,
+    "202202001": 444,
+    "202202002": 445,
+    "202202003": 446,
+    "202202004": 447,
+    "202202005": 448,
+    "202202006": 449,
+    "202202007": 450,
+    "202202008": 451,
+    "202202009": 452,
+    "2022040": 453,
+    "202204001": 454,
+    "202204002": 455,
+    "202204003": 456,
+    "202204004": 457,
+    "2022050": 458,
+    "202205001": 459,
+    "202205002": 460,
+    "202205003": 461,
+    "202205004": 462,
+    "2022051": 463,
+    "2022060": 464,
+    "202206001": 465,
+    "202206002": 466,
+    "202206003": 467,
+    "202206004": 468,
+    "202206005": 469,
+    "202206006": 470,
+    "2022070": 471,
+    "202207001": 472,
+    "2022071": 473,
+    "202207101": 474,
+    "2022080": 475,
+    "202208001": 476,
+    "2022081": 477,
+    "202208101": 478,
+    "2022090": 479,
+    "2022091": 480,
+    "202209101": 481,
+    "2022100": 482,
+    "2022101": 483,
+    "202210101": 484,
+    "2022110": 485,
+    "202211001": 486,
+    "202211002": 487,
+    "202211003": 488,
+    "202211004": 489,
+    "2023010": 490,
+    "202301001": 491,
+    "202301002": 492,
+    "202301003": 493,
+    "202301004": 494,
+    "202301005": 495,
+    "202301006": 496,
+    "202301007": 497,
+    "202301008": 498,
+    "202301009": 499,
+    "202301010": 500,
+    "202301011": 501,
+    "202301012": 502,
+    "2023011": 503,
+    "202301101": 504,
+    "2023020": 505,
+    "202302001": 506,
+    "202302002": 507,
+    "202302003": 508,
+    "202302004": 509,
+    "202302005": 510,
+    "202302006": 511,
+    "202302007": 512,
+    "202302008": 513,
+    "2023021": 514,
+    "2023030": 515,
+    "202303001": 516,
+    "202303002": 517,
+    "202303003": 518,
+    "202303004": 519,
+    "202303005": 520,
+    "202303006": 521,
+    "202303007": 522,
+    "202303008": 523,
+    "202303009": 524,
+    "202303010": 525,
+    "202303011": 526,
+    "2023031": 527,
+    "2024010": 528,
+    "202401001": 529,
+    "202401002": 530,
+    "2024011": 531,
+    "2024012": 532,
+    "2024013": 533,
+    "2024014": 534,
+    "202401401": 535,
+    "2024020": 536,
+    "202402001": 537,
+    "202402002": 538,
+    "202402003": 539,
+    "202402004": 540,
+    "3001010": 541,
+    "300101001": 542,
+    "300101002": 543,
+    "300101003": 544,
+    "300101004": 545,
+    "3001020": 546,
+    "300102001": 547,
+    "300102002": 548,
+    "300102003": 549,
+    "300102004": 550,
+    "3002010": 551,
+    "300201001": 552,
+    "300201002": 553,
+    "300201003": 554,
+    "300201004": 555,
+    "3002030": 556,
+    "300203001": 557,
+    "300203002": 558,
+    "300203003": 559,
+    "300203004": 560,
+    "300203005": 561,
+    "300203006": 562,
+    "3002040": 563,
+    "300204001": 564,
+    "3002050": 565,
+    "300205002": 566,
+    "3002051": 567,
+    "3002089": 568,
+    "3003010": 569,
+    "300301001": 570,
+    "3003011": 571,
+    "300301101": 572,
+    "3003012": 573,
+    "3003020": 574,
+    "300302001": 575,
+    "300302002": 576,
+    "300302003": 577,
+    "3003021": 578,
+    "3003022": 579,
+    "3011010": 580,
+    "3012010": 581,
+    "301201001": 582,
+    "3012020": 583,
+    "301202001": 584,
+    "3012030": 585,
+    "3012031": 586,
+    "3013010": 587,
+    "301301001": 588,
+    "3013011": 589,
+    "3014020": 590,
+    "301402001": 591,
+    "301402002": 592,
+    "301402003": 593,
+    "3014021": 594,
+    "3014022": 595,
+    "3021020": 596,
+    "3021021": 597,
+    "3021030": 598,
+    "3021031": 599,
+    "3021040": 600,
+    "3021041": 601,
+    "3024010": 602,
+    "302401001": 603,
+    "302401002": 604,
+    "302401003": 605,
+    "3024011": 606,
+    "3024012": 607,
+    "302401201": 608,
+    "3024020": 609,
+    "302402001": 610,
+    "302402002": 611,
+    "3024021": 612,
+    "8001010": 613,
+    "800101001": 614,
+    "800101002": 615,
+    "800101003": 616,
+    "800101004": 617,
+    "800101005": 618,
+    "800101006": 619,
+    "800101007": 620,
+    "800101008": 621,
+    "800101009": 622,
+    "800101010": 623,
+    "800101011": 624,
+    "800101012": 625,
+    "800101013": 626,
+    "800101014": 627,
+    "800101015": 628,
+    "800101016": 629,
+    "800101017": 630,
+    "800101018": 631,
+    "8001020": 632,
+    "800102001": 633,
+    "800102002": 634,
+    "800102003": 635,
+    "800102004": 636,
+    "800102005": 637,
+    "800102006": 638,
+    "800102007": 639,
+    "800102008": 640,
+    "800102009": 641,
+    "800102010": 642,
+    "800102011": 643,
+    "800102012": 644,
+    "800102013": 645,
+    "800102014": 646,
+    "800102015": 647,
+    "800102016": 648,
+    "8001030": 649,
+    "800103001": 650,
+    "800103002": 651,
+    "800103003": 652,
+    "800103004": 653,
+    "800103005": 654,
+    "800103006": 655,
+    "800103007": 656,
+    "800103008": 657,
+    "8001040": 658,
+    "800104001": 659,
+    "800104002": 660,
+    "800104003": 661,
+    "8001050": 662,
+    "800105001": 663,
+    "800105002": 664,
+    "800105003": 665,
+    "800105004": 666,
+    "800105005": 667,
+    "8002010": 668,
+    "800201001": 669,
+    "800201002": 670,
+    "800201003": 671,
+    "800201004": 672,
+    "800201005": 673,
+    "800201006": 674,
+    "800201007": 675,
+    "800201008": 676,
+    "800201009": 677,
+    "800201012": 678,
+    "800201016": 679,
+    "8002040": 680,
+    "800204001": 681,
+    "800204002": 682,
+    "800204003": 683,
+    "800204004": 684,
+    "8002041": 685,
+    "8002050": 686,
+    "800205001": 687,
+    "800205002": 688,
+    "800205003": 689,
+    "800205004": 690,
+    "800205005": 691,
+    "800205006": 692,
+    "800205007": 693,
+    "800205008": 694,
+    "800205009": 695,
+    "800205010": 696,
+    "800205011": 697,
+    "800205012": 698,
+    "800205013": 699,
+    "800205014": 700,
+    "800205015": 701,
+    "800205016": 702,
+    "800205017": 703,
+    "800205018": 704,
+    "800205019": 705,
+    "800205020": 706,
+    "800205021": 707,
+    "800205022": 708,
+    "800205023": 709,
+    "800205024": 710,
+    "800205025": 711,
+    "800205026": 712,
+    "800205027": 713,
+    "800205028": 714,
+    "800205029": 715,
+    "800205030": 716,
+    "800205031": 717,
+    "800205032": 718,
+    "800205033": 719,
+    "800205034": 720,
+    "800205035": 721,
+    "800205036": 722,
+    "800205037": 723,
+    "800205038": 724,
+    "800205039": 725,
+    "800205040": 726,
+    "800205041": 727,
+    "800205042": 728,
+    "800205043": 729,
+    "800205044": 730,
+    "8002051": 731,
+    "8002052": 732,
+    "8002053": 733,
+    "8002054": 734,
+    "8002055": 735,
+    "8002056": 736,
+    "8002057": 737,
+    "8002058": 738,
+    "8002059": 739,
+    "8002060": 740,
+    "8002061": 741,
+    "8002070": 742,
+    "8002071": 743,
+    "8002080": 744,
+    "8002081": 745,
+    "800208101": 746,
+    "8002082": 747,
+    "8002090": 748,
+    "8002091": 749,
+    "8002100": 750,
+    "8002101": 751,
+    "8002102": 752,
+    "8003010": 753,
+    "800301001": 754,
+    "800301002": 755,
+    "800301003": 756,
+    "800301004": 757,
+    "800301005": 758,
+    "800301006": 759,
+    "800301007": 760,
+    "800301008": 761,
+    "800301009": 762,
+    "800301010": 763,
+    "800301011": 764,
+    "800301012": 765,
+    "800301013": 766,
+    "800301014": 767,
+    "800301015": 768,
+    "800301016": 769,
+    "8003011": 770,
+    "8003020": 771,
+    "800302001": 772,
+    "800302002": 773,
+    "800302003": 774,
+    "800302004": 775,
+    "800302005": 776,
+    "800302006": 777,
+    "800302007": 778,
+    "800302008": 779,
+    "800302009": 780,
+    "800302010": 781,
+    "800302011": 782,
+    "800302012": 783,
+    "800302013": 784,
+    "800302014": 785,
+    "800302015": 786,
+    "800302016": 787,
+    "800302017": 788,
+    "800302019": 789,
+    "8003021": 790,
+    "8003030": 791,
+    "800303001": 792,
+    "800303002": 793,
+    "800303003": 794,
+    "800303004": 795,
+    "800303005": 796,
+    "800303006": 797,
+    "800303007": 798,
+    "800303008": 799,
+    "800303009": 800,
+    "800303010": 801,
+    "800303011": 802,
+    "800303012": 803,
+    "800303015": 804,
+    "800303016": 805,
+    "800303017": 806,
+    "8003031": 807,
+    "8003040": 808,
+    "800304001": 809,
+    "800304002": 810,
+    "800304003": 811,
+    "800304004": 812,
+    "800304005": 813,
+    "800304006": 814,
+    "800304007": 815,
+    "800304008": 816,
+    "800304009": 817,
+    "800304010": 818,
+    "800304011": 819,
+    "8003041": 820,
+    "8003042": 821,
+    "8003050": 822,
+    "800305001": 823,
+    "800305002": 824,
+    "800305003": 825,
+    "800305004": 826,
+    "800305005": 827,
+    "800305006": 828,
+    "800305007": 829,
+    "800305008": 830,
+    "800305009": 831,
+    "800305010": 832,
+    "800305012": 833,
+    "8003051": 834,
+    "8003052": 835,
+    "8011010": 836,
+    "801101001": 837,
+    "801101002": 838,
+    "801101003": 839,
+    "801101004": 840,
+    "801101005": 841,
+    "801101006": 842,
+    "801101007": 843,
+    "801101008": 844,
+    "801101009": 845,
+    "8011020": 846,
+    "801102001": 847,
+    "801102002": 848,
+    "801102003": 849,
+    "801102004": 850,
+    "801102005": 851,
+    "801102007": 852,
+    "801102008": 853,
+    "8012010": 854,
+    "801201001": 855,
+    "801201002": 856,
+    "801201003": 857,
+    "801201004": 858,
+    "801201005": 859,
+    "801201006": 860,
+    "801201007": 861,
+    "801201008": 862,
+    "801201009": 863,
+    "801201010": 864,
+    "801201011": 865,
+    "801201012": 866,
+    "801201013": 867,
+    "801201014": 868,
+    "801201015": 869,
+    "801201016": 870,
+    "801201017": 871,
+    "801201018": 872,
+    "801201019": 873,
+    "801201020": 874,
+    "801201021": 875,
+    "801201023": 876,
+    "801201024": 877,
+    "801201025": 878,
+    "801201026": 879,
+    "801201028": 880,
+    "801201029": 881,
+    "8012020": 882,
+    "801202001": 883,
+    "801202002": 884,
+    "801202003": 885,
+    "801202004": 886,
+    "801202005": 887,
+    "801202006": 888,
+    "801202007": 889,
+    "801202008": 890,
+    "801202009": 891,
+    "801202010": 892,
+    "801202011": 893,
+    "801202012": 894,
+    "801202013": 895,
+    "8012021": 896,
+    "801202101": 897,
+    "801202102": 898,
+    "8012030": 899,
+    "801203001": 900,
+    "801203002": 901,
+    "801203003": 902,
+    "801203004": 903,
+    "801203005": 904,
+    "801203006": 905,
+    "801203007": 906,
+    "8012140": 907,
+    "8012142": 908,
+    "8012143": 909,
+    "8012145": 910,
+    "8012200": 911,
+    "8012201": 912,
+    "8012202": 913,
+    "8012203": 914,
+    "8012210": 915,
+    "8012211": 916,
+    "8012212": 917,
+    "8012213": 918,
+    "8013010": 919,
+    "801301001": 920,
+    "801301002": 921,
+    "801301003": 922,
+    "801301004": 923,
+    "801301005": 924,
+    "801301006": 925,
+    "801301007": 926,
+    "801301008": 927,
+    "801301009": 928,
+    "801301010": 929,
+    "801301011": 930,
+    "801301012": 931,
+    "801301013": 932,
+    "801301014": 933,
+    "801301015": 934,
+    "801301018": 935,
+    "801301019": 936,
+    "801301021": 937,
+    "8013011": 938,
+    "8013012": 939,
+    "8013013": 940,
+    "8013141": 941,
+    "8013144": 942,
+    "8015010": 943,
+    "8015011": 944,
+    "8015020": 945,
+    "8015021": 946,
+    "8022010": 947,
+    "802201001": 948,
+    "8022020": 949,
+    "802202001": 950,
+    "802202002": 951,
+    "802202003": 952,
+    "8022030": 953,
+    "8024010": 954,
+    "8024011": 955,
+    "802401101": 956,
+    "8024012": 957,
+    "8024013": 958,
+    "8025010": 959,
+    "802501001": 960,
+    "8032010": 961,
+    "803201001": 962,
+    "803201002": 963,
+    "803201003": 964,
+    "803201004": 965,
+    "803201005": 966,
+    "8032020": 967,
+    "803202001": 968,
+    "803202002": 969,
+    "803202003": 970,
+    "803202004": 971,
+    "803202005": 972,
+    "8032030": 973,
+    "8033010": 974,
+    "803301001": 975,
+    "803301002": 976,
+    "803301003": 977,
+    "803301004": 978,
+    "8033011": 979,
+    "803301101": 980,
+    "803301202": 981,
+    "8033013": 982,
+    "8034010": 983,
+    "803401001": 984
 }
 
 var _status = {
-    "210010101": {
-        "Name": {
-            "CH": "防御降低",
-            "EN": "DEF Reduction"
-        },
-        "Modifier": "Monster_W1_Soldier01_00_DefenceRatioDown",
-        "Desc": {
-            "CH": "防御力降低<color style='color:#f29e38;'> [MDF_PropertyValue] </color>。",
-            "EN": "DEF -<color style='color:#f29e38;'>[MDF_PropertyValue]</color>."
-        },
-        "Type": "Debuff"
-    },
-    "210020201": {
-        "Name": {
-            "CH": "攻击提高",
-            "EN": "ATK Boost"
-        },
-        "Modifier": "Monster_W1_Soldier01_03_Buff",
-        "Desc": {
-            "CH": "攻击力提高<color style='color:#f29e38;'> [Modifier_AttackAddedRatio] </color>。",
-            "EN": "ATK +<color style='color:#f29e38;'>[Modifier_AttackAddedRatio]</color>."
-        },
-        "Type": "Buff"
-    },
-    "210020301": {
-        "Name": {
-            "CH": "支援",
-            "EN": "Support"
-        },
-        "Modifier": "MMonster_W1_Soldier04_00_SkillP01_Supporting",
-        "Desc": {
-            "CH": "受到自身支援的敌方单体对我方目标施放攻击后，自身立刻对受到攻击的该目标发动1次追加攻击。",
-            "EN": "When a Supported friendly unit attacks any target, this unit will immediately launch a follow-up attack on the target."
-        },
-        "Type": "Buff",
-        "CanNotDispel": true
-    },
-    "210020302": {
-        "Name": {
-            "CH": "援军",
-            "EN": "Reinforced"
-        },
-        "Modifier": "MMonster_W1_Soldier04_00_SkillP01_Supported",
-        "Desc": {
-            "CH": "受到<color style='color:#f29e38;'>%CasterName</color>支援。",
-            "EN": "Receives Support from <color style='color:#f29e38;'>%CasterName</color>."
-        },
-        "CanNotDispel": true
-    },
-    "210030102": {
-        "Name": {
-            "CH": "反击",
-            "EN": "Counter"
-        },
-        "Modifier": "MMonster_W1_Soldier03_00_ListenBeingAttacked",
-        "Desc": {
-            "CH": "受到攻击后，立即对攻击者展开强力反击。",
-            "EN": "Uses a Powerful Counter on the attacker after being attacked."
-        },
-        "Type": "Buff",
-        "CanNotDispel": true
-    },
-    "210030201": {
-        "Name": {
-            "CH": "集火",
-            "EN": "Aggravate"
-        },
-        "Modifier": "Monster_Gepard_Attack_Sign",
-        "Desc": {
-            "CH": "被所有银鬃铁卫锁定为攻击目标。",
-            "EN": "Silvermane Guards will focus their attacks on this target."
-        },
-        "Type": "Debuff"
-    },
-    "210030204": {
-        "Name": {
-            "CH": "屏障",
-            "EN": "Barrier"
-        },
-        "Modifier": "MMonster_W1_Gepard_00_BlockDamage",
-        "Desc": {
-            "CH": "抵抗除持续伤害外的所有伤害，受到攻击后解除。",
-            "EN": "Nullifies all DMG received except for DoT until after being attacked."
-        },
-        "Type": "Buff"
-    },
-    "210040111": {
-        "Name": {
-            "CH": "伤害提高",
-            "EN": "DMG Boost"
-        },
-        "Modifier": "Monster_W1_CocoliaP1_00_RL_DamageUp",
-        "Desc": {
-            "CH": "造成的伤害提高<color style='color:#f29e38;'> [MDF_DamageUpRatio_PerLayer] </color>，该效果可叠加。",
-            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>. This effect can stack."
-        },
-        "Type": "Buff",
-        "CanNotDispel": true
-    },
-    "210040113": {
-        "Name": {
-            "CH": "拘束",
-            "EN": "Restrain"
-        },
-        "Modifier": "Monster_W1_Svarog_00_RL_Control_Modifier",
-        "Desc": {
-            "CH": "【拘束】状态下的目标无法行动。",
-            "EN": "Restrained. Cannot take action."
-        },
-        "Type": "Debuff",
-        "CanNotDispel": true
-    },
-    "210040114": {
-        "Name": {
-            "CH": "伤害提高",
-            "EN": "DMG Boost"
-        },
-        "Modifier": "Monster_W1_CocoliaP1_00_RL_Skill05_Buff",
-        "Desc": {
-            "CH": "造成的伤害提高<color style='color:#f29e38;'> [ModifierDamageUpValue] </color>。",
-            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[ModifierDamageUpValue]</color>."
-        },
-        "Type": "Buff"
-    },
-    "210040204": {
-        "Name": {
-            "CH": "拘束",
-            "EN": "Restrain"
-        },
-        "Modifier": "Svarog_Control_Modifier",
-        "Desc": {
-            "CH": "【拘束】状态下的目标无法行动。",
-            "EN": "Restrained. Cannot take action."
-        },
-        "Type": "Debuff",
-        "CanNotDispel": true
-    },
-    "210040221": {
-        "Name": {
-            "CH": "伤害提高",
-            "EN": "DMG Boost"
-        },
-        "Modifier": "Monster_W1_Gepard_00_RL_DamageUP",
-        "Desc": {
-            "CH": "造成的伤害提高<color style='color:#f29e38;'> [MDF_DamageAddedRatio] </color>。",
-            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageAddedRatio]</color>."
-        },
-        "Type": "Buff",
-        "CanNotDispel": true
-    },
-    "210040222": {
-        "Name": {
-            "CH": "反击",
-            "EN": "Counter"
-        },
-        "Modifier": "MMonster_W1_Gepard_00_RL_ListenBeingAttacked",
-        "Desc": {
-            "CH": "受到攻击后，立即对攻击者展开强力反击。",
-            "EN": "Uses a Powerful Counter on the attacker after being attacked."
-        },
-        "Type": "Buff",
-        "CanNotDispel": true
-    },
-    "210040223": {
-        "Name": {
-            "CH": "全体护盾",
-            "EN": "Shield for All"
-        },
-        "Modifier": "MAvatar_Gepard_00_RL_ShieldIcon",
-        "Desc": {
-            "CH": "能够抵消敌方全体受到伤害的护盾。护盾耗尽或效果消失前我方目标的攻击不会对敌方持有护盾的目标的生命值造成削减。",
-            "EN": "A Shield that absorbs DMG taken by all enemies. While the Shield persists, allies' attacks will not reduce the Shielded enemies' HP."
-        },
-        "Type": "Buff",
-        "CanNotDispel": true
-    },
-    "210040224": {
-        "Name": {
-            "CH": "弱点无效",
-            "EN": "Weakness Protected"
-        },
-        "Modifier": "MAvatar_Gepard_00_RL_ShieldIcon2",
-        "Desc": {
-            "CH": "在【全体护盾】消失前，敌方目标的韧性无法受到伤害。",
-            "EN": "Before Shield for All ends, enemy targets' Toughness cannot be depleted."
-        },
-        "Type": "Buff",
-        "CanNotDispel": true
-    },
-    "210050101": {
-        "Name": {
-            "CH": "灭世纪的预兆",
-            "EN": "Harbinger of Annihilation"
-        },
-        "Modifier": "MMonster_W1_CocoliaP2_00_Skill10_TargetLock",
-        "Desc": {
-            "CH": "被<color style='color:#f29e38;'>%CasterName</color>锁定为攻击目标。",
-            "EN": "<color style='color:#f29e38;'>%CasterName</color> will focus attacks on this target."
-        },
-        "CanNotDispel": true
-    },
-    "210050105": {
-        "Name": {
-            "CH": "创世纪的前奏",
-            "EN": "The Creation's Prelude"
-        },
-        "Modifier": "MMonster_W1_CocoliaP2_00_Skill08_Charge",
-        "Desc": {
-            "CH": "下次攻击对我方全体施放【创世绝响】。",
-            "EN": "The next attack will cause Last Choir of Genesis to all targets."
-        },
-        "CanNotDispel": true
-    },
-    "210120401": {
-        "Name": {
-            "CH": "过载时限",
-            "EN": "Overload Countdown"
-        },
-        "Modifier": "Monster_W1_SvarogPart_00_CountDown",
-        "Desc": {
-            "CH": "辅助机械臂单元进入过载倒计时，倒计时结束时施放【过载警告】。",
-            "EN": "Auxiliary Robot Arm Unit initiates Overload countdown. After the countdown ends, cast Overload Warning."
-        },
-        "CanNotDispel": true
-    },
-    "210120402": {
-        "Name": {
-            "CH": "过载",
-            "EN": "Overload"
-        },
-        "Modifier": "Monster_W1_SvarogPart_00_Overload",
-        "Desc": {
-            "CH": "下次行动施放【控场起爆】。",
-            "EN": "Casts Controlled Blasting in the next action."
-        },
-        "CanNotDispel": true
-    },
-    "210120411": {
-        "Name": {
-            "CH": "过载时限",
-            "EN": "Overload Countdown"
-        },
-        "Modifier": "Monster_W1_SvarogPart_00_RL_CountDown",
-        "Desc": {
-            "CH": "辅助机械臂单元进入过载倒计时，倒计时结束时施放【过载警告】。",
-            "EN": "Auxiliary Robot Arm Unit initiates Overload countdown. After the countdown ends, cast Overload Warning."
-        },
-        "CanNotDispel": true
-    },
-    "210130101": {
-        "Name": {
-            "CH": "蓄力",
-            "EN": "Charge"
-        },
-        "Modifier": "W1_Mecha02_AttackBuff",
-        "Desc": {
-            "CH": "对我方造成的伤害提高<color style='color:#f29e38;'> [ModifierDamageUpValue] </color>。",
-            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[ModifierDamageUpValue]</color>."
-        },
-        "Type": "Buff",
-        "CanNotDispel": true
-    },
-    "210130122": {
-        "Name": {
-            "CH": "伤害提高",
-            "EN": "DMG Boost"
-        },
-        "Modifier": "Monster_W1_Mecha03_00_RL_Skill03_DamageUp",
-        "Desc": {
-            "CH": "造成的伤害提高<color style='color:#f29e38;'> [MDF_DamageUpRatio_PerLayer] </color>。该效果可叠加。",
-            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>. This effect can stack."
-        },
-        "Type": "Buff",
-        "CanNotDispel": true
-    },
-    "210130201": {
-        "Name": {
-            "CH": "锁定",
-            "EN": "Lock On"
-        },
-        "Modifier": "Sign_W1_Mecha02",
-        "Desc": {
-            "CH": "被<color style='color:#f29e38;'>%CasterName</color>锁定为攻击目标。",
-            "EN": "<color style='color:#f29e38;'>%CasterName</color> will focus attacks on this target."
-        },
-        "CanNotDispel": true
-    },
-    "210130202": {
-        "Name": {
-            "CH": "裂伤",
-            "EN": "Bleed"
-        },
-        "Modifier": "W1_Mecha02_ThunderDOT",
-        "Desc": {
-            "CH": "一定回合内，每回合开始时受到基于生命上限的物理伤害，最多叠加<color style='color:#f29e38;'> [MDF_MaxLayer] </color>次。",
-            "EN": "For a certain number of turns, receive Physical DMG based on Max HP at the beginning of each turn, stacking up to <color style='color:#f29e38;'>[MDF_MaxLayer]</color> time(s)."
-        },
-        "Type": "Debuff"
-    },
-    "210130222": {
-        "Name": {
-            "CH": "加速",
-            "EN": "SPD Boost"
-        },
-        "Modifier": "Monster_W1_Mecha04_00_RL_Skill12_SpeedUp",
-        "Desc": {
-            "CH": "速度提高<color style='color:#f29e38;'> [MDF_SpeedAddedRatio_PerLayer] </color>。该效果可叠加。",
-            "EN": "Increases SPD by <color style='color:#f29e38;'>[MDF_SpeedAddedRatio_PerLayer]</color>. This effect can stack."
-        },
-        "Type": "Buff",
-        "CanNotDispel": true
-    },
-    "210230101": {
-        "Name": {
-            "CH": "失控",
-            "EN": "Out of Control"
-        },
-        "Modifier": "Monster_W1_Mecha_Fire_Passive",
-        "Desc": {
-            "CH": "造成的伤害提高<color style='color:#f29e38;'> [ModifierCriticalChanceRatio] </color>，最多叠加5层。",
-            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[ModifierCriticalChanceRatio]</color>. Stack up to 5 times."
-        },
-        "Type": "Buff"
-    },
-    "210230102": {
-        "Name": {
-            "CH": "狂热",
-            "EN": "Mania"
-        },
-        "Modifier": "Monster_W1_Mecha_Fire_Burning",
-        "Desc": {
-            "CH": "攻击力提高<color style='color:#f29e38;'> [Modifier_AttackAddedRatio] </color>。速度提高<color style='color:#f29e38;'> [Modifier_SpeedDelta] </color>点。",
-            "EN": "Increases ATK by <color style='color:#f29e38;'>[Modifier_AttackAddedRatio]</color> and SPD by <color style='color:#f29e38;'>[Modifier_SpeedDelta]</color> pts."
-        },
-        "Type": "Buff"
-    },
-    "210230202": {
-        "Name": {
-            "CH": "深寒",
-            "EN": "Deep Freeze"
-        },
-        "Modifier": "Monster_W1_Mecha03_01_Frozen",
-        "Desc": {
-            "CH": "冰属性抗性降低<color style='color:#f29e38;'> [MDF_IceResistanceRatio_PerLayer] </color>，速度降低<color style='color:#f29e38;'> [MDF_SpeedAddedDelta_PerLayer] </color>，最多叠加<color style='color:#f29e38;'> [MDF_MaxLayer] </color>层。",
-            "EN": "Reduces Ice RES by <color style='color:#f29e38;'>[MDF_IceResistanceRatio_PerLayer]</color> and SPD by <color style='color:#f29e38;'>[MDF_SpeedAddedDelta_PerLayer]</color>. Can stack up to <color style='color:#f29e38;'>[MDF_MaxLayer]</color> time(s)."
-        },
-        "Type": "Debuff"
-    },
-    "210230203": {
-        "Name": {
-            "CH": "防御降低",
-            "EN": "DEF Reduction"
-        },
-        "Modifier": "Monster_W1_Mecha03_01_Overheat",
-        "Desc": {
-            "CH": "防御力降低<color style='color:#f29e38;'> [MDF_DefenceAddedRatio] </color>。",
-            "EN": "DEF -<color style='color:#f29e38;'>[MDF_DefenceAddedRatio]</color>."
-        },
-        "Type": "Debuff"
-    },
-    "210230207": {
-        "Name": {
-            "CH": "超限",
-            "EN": "Surpass"
-        },
-        "Modifier": "Monster_W1_Mecha03_01_Rage",
-        "Desc": {
-            "CH": "攻击力提高<color style='color:#f29e38;'> [MDF_AttackAddedRatio] </color>。",
-            "EN": "ATK +<color style='color:#f29e38;'>[MDF_AttackAddedRatio]</color>."
-        },
-        "Type": "Buff"
-    },
-    "210230208": {
-        "Name": {
-            "CH": "锁定",
-            "EN": "Lock On"
-        },
-        "Modifier": "Monster_W1_Mecha03_01_Sign",
-        "Desc": {
-            "CH": "被<color style='color:#f29e38;'>%CasterName</color>锁定为攻击目标。",
-            "EN": "<color style='color:#f29e38;'>%CasterName</color> will focus attacks on this target."
-        },
-        "CanNotDispel": true
-    },
-    "220040111": {
-        "Name": {
-            "CH": "伤害提高",
-            "EN": "DMG Boost"
-        },
-        "Modifier": "Monster_W2_Kafka_00_RL_DamageUp",
-        "Desc": {
-            "CH": "造成的伤害提高<color style='color:#f29e38;'> [MDF_DamageUpRatio_PerLayer] </color>。该效果可叠加。",
-            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>. This effect can stack."
-        },
-        "Type": "Buff",
-        "CanNotDispel": true
-    },
-    "220040112": {
-        "Name": {
-            "CH": "心理暗示",
-            "EN": "Psychological Suggestion"
-        },
-        "Modifier": "Monster_W2_Kafka_00_RL_MindControl_True",
-        "Desc": {
-            "CH": "下次【揭晓】时触发。可以被优先解除。",
-            "EN": "Triggered at the next Revelation. Can be removed before that action."
-        },
-        "Type": "Debuff"
-    },
-    "220040201": {
-        "Name": {
-            "CH": "阵眼",
-            "EN": "Formation Core"
-        },
-        "Modifier": "MMonster_W2_Yanqing_00_Skill02_UnknownWeakPoint_01",
-        "Desc": {
-            "CH": "该敌方目标的弱点属性为风、雷、虚数的其中一种，对其施放正确属性的攻击，可以知晓其真实的弱点属性；对该目标造成弱点击破可以直接消灭该目标。",
-            "EN": "The Weakness of the target enemy is one of the following: Wind, Lightning, Imaginary. Use attacks of the corresponding Types to figure out the real Weakness Type. Inflict Weakness Break on the target to destroy the enemy."
-        },
-        "CanNotDispel": true
-    },
-    "220040204": {
-        "Name": {
-            "CH": "剑阵",
-            "EN": "Sword Formation"
-        },
-        "Modifier": "MMonster_W2_Yanqing_00_Skill02_UnknownWeakPoint_Core",
-        "Desc": {
-            "CH": "彦卿的韧性无法受到伤害且速度提高<color style='color:#f29e38;'> [MDF_SpeedDelta] </color>点。消灭所有的【飞剑】可以解除该效果并对彦卿造成伤害。",
-            "EN": "Yanqing's Toughness cannot be depleted, and his SPD increases by <color style='color:#f29e38;'>[MDF_SpeedDelta]</color>. Destroy all of Yanqing's Flying Swords to dispel that effect and cause DMG to Yanqing."
-        },
-        "CanNotDispel": true
-    },
-    "220130102": {
-        "Name": {
-            "CH": "罚恶模式",
-            "EN": "Sanction Mode"
-        },
-        "Modifier": "MMonster_W2_Mecha03_00_Overdrive_On",
-        "Desc": {
-            "CH": "金人司阍的韧性无法受到伤害且速度提高<color style='color:#f29e38;'> [MDF_SpeedAddedValue] </color>点，并开启使用技能：戒退和缚束。",
-            "EN": "The Aurumaton Gatekeeper's Toughness cannot be damaged. Its SPD increases by <color style='color:#f29e38;'>[MDF_SpeedAddedValue]</color> and it activates the abilities Restraint and Enchainment."
-        },
-        "Type": "Buff",
-        "CanNotDispel": true
-    },
-    "220220101": {
-        "Name": {
-            "CH": "重生",
-            "EN": "Rebirth"
-        },
-        "Modifier": "Monster_W2_Abomi01_00_Revive",
-        "Desc": {
-            "CH": "受到致命攻击时，立即回复一定生命值。",
-            "EN": "Upon receiving a killing blow, restores a certain amount of HP."
-        },
-        "Type": "Buff"
-    },
-    "220220102": {
-        "Name": {
-            "CH": "加速",
-            "EN": "SPD Boost"
-        },
-        "Modifier": "Monster_W2_Abomi01_00_Accelerate",
-        "Desc": {
-            "CH": "速度提高。",
-            "EN": "SPD Increased."
-        },
-        "Type": "Buff"
-    },
-    "220220203": {
-        "Name": {
-            "CH": "引动雷劫",
-            "EN": "Spur of Thunderwoe"
-        },
-        "Modifier": "Monster_W2_Abomi02_00_Mark",
-        "Desc": {
-            "CH": "当「药王秘传」内丹士受到致命攻击时，对所有陷入被其添加的【引动雷劫】状态的我方目标造成1次伤害。",
-            "EN": "Upon receiving a killing blow, the Disciples of Sanctus Medicus: Internal Alchemist deals DMG 1 time to targets that are inflicted with Spur of Thunderwoe by them."
-        },
-        "Type": "Debuff"
-    },
-    "220220204": {
-        "Name": {
-            "CH": "结丹者",
-            "EN": "Core Formation"
-        },
-        "Modifier": "Monster_W2_Abomi02_00_TargetList",
-        "Desc": {
-            "CH": "受到致命攻击时，对所有陷入被自身添加的【引动雷劫】状态的我方目标造成1次伤害。\n当前陷入【引动雷劫】状态的我方目标有：<color style='color:#f29e38;'>%DynamicTargetName</color>。",
-            "EN": "Upon receiving a killing blow, the unit deals DMG 1 time to targets that are afflicted with Spur of Thunderwoe by them.\nThe current targets who have Spur of Thunderwoe on them are: <color style='color:#f29e38;'>%DynamicTargetName</color>."
-        },
-        "Type": "Buff",
-        "CanNotDispel": true
-    },
-    "220220801": {
-        "Name": {
-            "CH": "复还",
-            "EN": "Retaliation"
-        },
-        "Modifier": "MMonster_W2_Xuanlu_02_Counter",
-        "Desc": {
-            "CH": "受到攻击后，对攻击者造成伤害。",
-            "EN": "When attacked by an enemy, deals DMG to that enemy."
-        },
-        "Type": "Buff"
-    },
-    "220220802": {
-        "Name": {
-            "CH": "繁生",
-            "EN": "Engender"
-        },
-        "Modifier": "MMonster_W2_Xuanlu_02_Buff",
-        "Desc": {
-            "CH": "攻击力提高。",
-            "EN": "Increases ATK."
-        },
-        "Type": "Buff"
-    },
-    "220221001": {
-        "Name": {
-            "CH": "嘉实",
-            "EN": "Lavish Fruit"
-        },
-        "Modifier": "MMonster_W2_Xuanlu_04_Charge",
-        "Desc": {
-            "CH": "当场上存在2个【嘉实】时，丰饶玄鹿会立即施放【班龙触】。",
-            "EN": "When there are 2 Lavish Fruits on the field, the Abundant Ebon Deer will immediately use Flamboyant Gore."
-        },
-        "CanNotDispel": true
-    },
-    "220230101": {
-        "Name": {
-            "CH": "击中回复",
-            "EN": "Draining Hit"
-        },
-        "Modifier": "MMonster_W2_Abomi04_00_HitToHeal",
-        "Desc": {
-            "CH": "当场上存在其他带有【重生】效果的敌方目标时，「药王秘传」炼形者具有以下效果：击中我方目标后，回复其自身生命值。",
-            "EN": "When there are other enemy targets with \"Rebirth\" remaining on the field, Disciples of Sanctus Medicus: Shape Shifter will have the following effect — restores its HP when its attack hits."
-        },
-        "Type": "Buff"
-    },
-    "220230201": {
-        "Name": {
-            "CH": "元气",
-            "EN": "Gusto"
-        },
-        "Modifier": "Monster_W2_Beast02_00_Bullet",
-        "Desc": {
-            "CH": "【长右】当前拥有的【元气】。",
-            "EN": "Malefic Ape's current Gusto amount."
-        },
-        "CanNotDispel": true
-    },
-    "220230203": {
-        "Name": {
-            "CH": "屏障",
-            "EN": "Barrier"
-        },
-        "Modifier": "MMonster_W2_Beast02_00_BlockDamage",
-        "Desc": {
-            "CH": "抵抗除持续伤害外的所有伤害，受到攻击后解除。",
-            "EN": "Nullifies all DMG received except DoTs. This status is dispelled after being attacked."
-        },
-        "Type": "Buff"
-    },
-    "220240101": {
-        "Name": {
-            "CH": "蕉覆",
-            "EN": "Hardy Leaf Sheath"
-        },
-        "Modifier": "MMonster_W2_Xuanlu_00_Skill07_NoWeakness",
-        "Desc": {
-            "CH": "防御力提高，韧性无法受到伤害。",
-            "EN": "Increases DEF. Toughness cannot be reduced."
-        },
-        "Type": "Buff"
-    },
-    "280010301": {
-        "Name": {
-            "CH": "攻击提高",
-            "EN": "ATK Boost"
-        },
-        "Modifier": "Monster_XP_Minion03_00_Attack",
-        "Desc": {
-            "CH": "攻击力提高<color style='color:#f29e38;'> [MDF_AttackAddedRatio] </color>。",
-            "EN": "ATK +<color style='color:#f29e38;'>[MDF_AttackAddedRatio]</color>."
-        },
-        "Type": "Buff"
-    },
-    "280020102": {
-        "Name": {
-            "CH": "后手",
-            "EN": "Defensive Position"
-        },
-        "Modifier": "XP_Minion02_00_Attack",
-        "Desc": {
-            "CH": "下次行动时施放【颂歌爆发】，对我方目标造成的伤害提高<color style='color:#f29e38;'> [MDF_DamageAddedRatio] </color>。",
-            "EN": "Uses Carolburst during the next action and increases DMG dealt to targets by <color style='color:#f29e38;'>[MDF_DamageAddedRatio]</color>."
-        },
-        "Type": "Buff"
-    },
-    "280020601": {
-        "Name": {
-            "CH": "报…报复你",
-            "EN": "T—Taking Revenge"
-        },
-        "Modifier": "MMonster_XP_Minion04_02_Introduce",
-        "Desc": {
-            "CH": "当我方目标攻击敌方目标后，【毁灭扑满】对我方全体进行攻击，攻击次数相当于本次攻击击中的敌方目标数量。",
-            "EN": "When a friendly unit is attacked, Trotter of Destruction will attack all targets. The attack count is equal to the number of the targets attacked."
-        },
-        "CanNotDispel": true
-    },
-    "280020701": {
-        "Name": {
-            "CH": "治…治好你",
-            "EN": "C—Cure You"
-        },
-        "Modifier": "MMonster_XP_Minion04_03_Introduce",
-        "Desc": {
-            "CH": "当【丰饶扑满】队友受到我方目标攻击后，消耗自身当前生命值为被受到攻击的敌方目标回复生命值。",
-            "EN": "When a friendly unit is attacked by a target, Trotter of Abundance consumes its own HP to heal the attacked friendly unit."
-        },
-        "CanNotDispel": true
-    },
-    "280020801": {
-        "Name": {
-            "CH": "保…保护你",
-            "EN": "P—Protect You"
-        },
-        "Modifier": "MMonster_XP_Minion04_02_Cunhu_Buff",
-        "Desc": {
-            "CH": "每层【保…保护你】可抵抗1次伤害，敌方全体共享【保…保护你】层数。",
-            "EN": "Each stack of P—Protect You can absorb DMG from 1 incoming hit. P—Protect You stacks are shared across the team."
-        },
-        "Type": "Buff",
-        "CanNotDispel": true
-    },
-    "280030101": {
-        "Name": {
-            "CH": "冰点",
-            "EN": "Freezing Point"
-        },
-        "Modifier": "XP_Ice_Elite_Powerful_Modifier",
-        "Desc": {
-            "CH": "外宇宙之冰的攻击模式得到强化。",
-            "EN": "Ice Out of Space's attack mode is enhanced."
-        },
-        "CanNotDispel": true
-    },
-    "280030202": {
-        "Name": {
-            "CH": "自燃",
-            "EN": "Spontaneous Combustion"
-        },
-        "Modifier": "XP_Fire_Elite_Burning_Modifier_2",
-        "Desc": {
-            "CH": "外宇宙之炎的攻击模式得到强化。",
-            "EN": "Blaze Out of Space's attack mode is enhanced."
-        },
-        "CanNotDispel": true
-    },
-    "280030203": {
-        "Name": {
-            "CH": "焚烧",
-            "EN": "Enkindle"
-        },
-        "Modifier": "MMonster_XP_Elite01_00_Burn",
-        "Desc": {
-            "CH": "一定回合内，每回合开始时受到火属性伤害。",
-            "EN": "Takes Fire DMG at the beginning of each turn for a certain number of turns."
-        },
-        "Type": "Debuff"
-    },
-    "280030301": {
-        "Name": {
-            "CH": "禁令",
-            "EN": "Ban"
-        },
-        "Modifier": "Monster_XP_Elite02_00_Edict01",
-        "Desc": {
-            "CH": "攻击<color style='color:#f29e38;'>%CasterName</color>会立即受到1次攻击。",
-            "EN": "Whoever attacks <color style='color:#f29e38;'>%CasterName</color> will be attacked 1 time."
-        },
-        "Type": "Debuff"
-    },
-    "280030302": {
-        "Name": {
-            "CH": "禁令",
-            "EN": "Ban"
-        },
-        "Modifier": "Monster_XP_Elite02_00_Edict02",
-        "Desc": {
-            "CH": "施放普攻会立即受到1次攻击。",
-            "EN": "Whoever uses Basic ATK will be attacked 1 time."
-        },
-        "Type": "Debuff"
-    },
-    "280030303": {
-        "Name": {
-            "CH": "禁令",
-            "EN": "Ban"
-        },
-        "Modifier": "Monster_XP_Elite02_00_Edict03",
-        "Desc": {
-            "CH": "施放战技会立即受到1次攻击。",
-            "EN": "Whoever uses Skills will be attacked 1 time."
-        },
-        "Type": "Debuff"
-    },
-    "280030306": {
-        "Name": {
-            "CH": "dev_debuff减防",
-            "EN": ""
-        },
-        "Modifier": "Monster_XP_Elite02_00_DebuffEnhanceEffect",
-        "Desc": {
-            "CH": "dev_每层使防御力降低<color style='color:#f29e38;'> [MDF_DefenceAddedRatio_PerLayer] </color>，最多叠加<color style='color:#f29e38;'> [MDF_MaxLayer] </color>层",
-            "EN": ""
-        },
-        "Type": "Debuff",
-        "CanNotDispel": true
-    },
-    "280030405": {
-        "Name": {
-            "CH": "追忆深度",
-            "EN": "Gauge Recollection"
-        },
-        "Modifier": "Monster_XP_Elite02_01_EnergyLayer",
-        "Desc": {
-            "CH": "当前拥有<color style='color:#f29e38;'> [ModifierLayers] </color>层【追忆刻度】，每次受到攻击后失去1层【追忆刻度】。",
-            "EN": "Current stacks of Gauge Recollection: <color style='color:#f29e38;'>[ModifierLayers]</color>. Loses 1 stack of Gauge Recollection after being hit."
-        },
-        "CanNotDispel": true
-    },
-    "280030603": {
-        "Name": {
-            "CH": "持咒",
-            "EN": "Japa"
-        },
-        "Modifier": "Monster_XP_Elite02_02_ChargeEffect",
-        "Desc": {
-            "CH": "下次行动对我方全体施放【玄气噬身】。",
-            "EN": "Uses Black Prana's Snare on all targets during the next action."
-        },
-        "Type": "Buff",
-        "CanNotDispel": true
-    },
-    "280120101": {
-        "Name": {
-            "CH": "速度提高",
-            "EN": "SPD Boost"
-        },
-        "Modifier": "Monster_AML_Minion02_00_SpeedUp",
-        "Desc": {
-            "CH": "速度提高<color style='color:#f29e38;'> [MDF_SpeedAddedRatio_PerLayer] </color>，最多叠加<color style='color:#f29e38;'> [MDF_MaxLayer] </color>层。",
-            "EN": "Increases SPD by <color style='color:#f29e38;'>[MDF_SpeedAddedRatio_PerLayer]</color>. Can stack up to <color style='color:#f29e38;'>[MDF_MaxLayer]</color> time(s)."
-        },
-        "Type": "Buff"
-    },
-    "280120201": {
-        "Name": {
-            "CH": "锁定",
-            "EN": "Lock On"
-        },
-        "Modifier": "MMonster_AML_Minion03_00_Target",
-        "Desc": {
-            "CH": "被<color style='color:#f29e38;'>%CasterName</color>锁定为攻击目标。",
-            "EN": "<color style='color:#f29e38;'>%CasterName</color> will focus attacks on this target."
-        },
-        "CanNotDispel": true
-    },
-    "280120301": {
-        "Name": {
-            "CH": "起爆",
-            "EN": "Detonated"
-        },
-        "Modifier": "MMonster_AML_Minion04_00_Mark",
-        "Desc": {
-            "CH": "被<color style='color:#f29e38;'>虚卒•抹消者</color>附上起爆物，遭到攻击后额外受到1次附加伤害。",
-            "EN": "Has been attached a detonator by <color style='color:#f29e38;'>Voidranger: Eliminator</color>. Takes Additional DMG after being attacked."
-        },
-        "Type": "Debuff"
-    },
-    "280120302": {
-        "Name": {
-            "CH": "超负荷",
-            "EN": "Overloaded"
-        },
-        "Modifier": "MMonster_AML_Minion04_00_Overheat",
-        "Desc": {
-            "CH": "能量超出负荷，暂时无法施放攻击。",
-            "EN": "Temporarily unable to attack due to Energy overload."
-        },
-        "Type": "Debuff",
-        "CanNotDispel": true
-    },
-    "280130101": {
-        "Name": {
-            "CH": "锁定",
-            "EN": "Lock On"
-        },
-        "Modifier": "MMonster_AML_Elite01_00_Aim",
-        "Desc": {
-            "CH": "被<color style='color:#f29e38;'>%CasterName</color>锁定为攻击目标。",
-            "EN": "<color style='color:#f29e38;'>%CasterName</color> will focus attacks on this target."
-        },
-        "CanNotDispel": true
-    },
-    "280130201": {
-        "Name": {
-            "CH": "锁定",
-            "EN": "Lock On"
-        },
-        "Modifier": "MMonster_AML_Elite01_01_DOTAim",
-        "Desc": {
-            "CH": "被<color style='color:#f29e38;'>%CasterName</color>锁定为攻击目标。",
-            "EN": "<color style='color:#f29e38;'>%CasterName</color> will focus attacks on this target."
-        },
-        "CanNotDispel": true
-    },
-    "280130202": {
-        "Name": {
-            "CH": "攻击提高",
-            "EN": "ATK Boost"
-        },
-        "Modifier": "MMonster_AML_Elite01_01_AttackAdd",
-        "Desc": {
-            "CH": "攻击力提高<color style='color:#f29e38;'> [ModifierAttackAddedRatio] </color>，最多叠加<color style='color:#f29e38;'> [ModifierMaxLayer] </color>层。",
-            "EN": "Increases ATK by <color style='color:#f29e38;'>[ModifierAttackAddedRatio]</color>, stacking up to <color style='color:#f29e38;'>[ModifierMaxLayer]</color> time(s)."
-        },
-        "Type": "Buff"
-    },
-    "280150102": {
-        "Name": {
-            "CH": "余威",
-            "EN": "Lingering Power"
-        },
-        "Modifier": "MMonster_WMonster_W0_Boss_00_Unselectable",
-        "Desc": {
-            "CH": "【灾虐的右手】【黎明的左手】【反物质引擎】被全部击溃前无法被指定为攻击目标。",
-            "EN": "Cannot be targeted until Disaster's Right Hand, Dawn's Left Hand, and Antimatter Engine have all been destroyed."
-        },
-        "Type": "Buff",
-        "CanNotDispel": true
-    },
-    "280150103": {
-        "Name": {
-            "CH": "增幅",
-            "EN": "Buff"
-        },
-        "Modifier": "MMonster_W0_Boss_00_Part2_AttackUp",
-        "Desc": {
-            "CH": "攻击力提高<color style='color:#f29e38;'> [MDF_AttackAddedRatio] </color>，技能得到强化。",
-            "EN": "ATK +<color style='color:#f29e38;'>[MDF_AttackAddedRatio]</color>. Abilities are enhanced."
-        },
-        "Type": "Buff"
-    },
-    "280150104": {
-        "Name": {
-            "CH": "升变",
-            "EN": "Ascend"
-        },
-        "Modifier": "MMonster_WMonster_W0_Boss_00_Part2_Skill07",
-        "Desc": {
-            "CH": "韧性完全恢复，弱点发生变化。",
-            "EN": "Toughness fully regenerates and Weakness Type changes."
-        },
-        "Type": "Buff",
-        "CanNotDispel": true
-    },
-    "280150105": {
-        "Name": {
-            "CH": "爆发",
-            "EN": "Burst"
-        },
-        "Modifier": "MMonster_W0_Boss_00_Part2_OnPhase3SpeedUp",
-        "Desc": {
-            "CH": "速度提高。",
-            "EN": "Speed increased."
-        },
-        "Type": "Buff",
-        "CanNotDispel": true
-    },
-    "280150202": {
-        "Name": {
-            "CH": "锁定",
-            "EN": "Lock On"
-        },
-        "Modifier": "Monster_W2_Huanlong_00_Sign",
-        "Desc": {
-            "CH": "被<color style='color:#f29e38;'>%CasterName</color>锁定为攻击目标。",
-            "EN": "<color style='color:#f29e38;'>%CasterName</color> will focus attacks on this target."
-        },
-        "CanNotDispel": true
-    },
-    "280150203": {
-        "Name": {
-            "CH": "愈合",
-            "EN": "Vigor"
-        },
-        "Modifier": "Monster_W2_HuanlongPart_00_Heal",
-        "Desc": {
-            "CH": "每次行动回复<color style='color:#f29e38;'> [MDF_HealRatio] </color>的生命值。",
-            "EN": "Every action taken restores <color style='color:#f29e38;'>[MDF_HealRatio]</color> HP."
-        },
-        "Type": "Buff"
-    },
-    "280150204": {
-        "Name": {
-            "CH": "绽放",
-            "EN": "Bloom"
-        },
-        "Modifier": "Monster_W2_HuanlongPart_01_Activity",
-        "Desc": {
-            "CH": "下次行动施放【破灭】，该状态可被技能解除。",
-            "EN": "Will use Havoc during the next action. This status can be dispelled by abilities."
-        },
-        "Type": "Buff"
-    },
-    "280150205": {
-        "Name": {
-            "CH": "易伤",
-            "EN": "Vulnerability"
-        },
-        "Modifier": "Monster_W2_HuanlongPart_01_Success",
-        "Desc": {
-            "CH": "受到的伤害提高<color style='color:#f29e38;'> [MDF_DamageTakenUpRatio_PerLayer] </color>，该效果可叠加。",
-            "EN": "Increases DMG received by <color style='color:#f29e38;'>[MDF_DamageTakenUpRatio_PerLayer]</color>. This effect is stackable."
-        },
-        "Type": "Debuff"
-    },
-    "280150206": {
-        "Name": {
-            "CH": "休眠",
-            "EN": "Repose"
-        },
-        "Modifier": "Monster_W2_HuanlongPart_01_Dormancy",
-        "Desc": {
-            "CH": "处于【休眠】状态。",
-            "EN": "In Repose."
-        },
-        "CanNotDispel": true
-    },
     "30010006": {
         "Name": {
             "CH": "防御降低",
@@ -53579,238 +59356,6 @@ var _status = {
         },
         "Type": "Debuff"
     },
-    "220240111": {
-        "Name": {
-            "CH": "若木化生",
-            "EN": "Synwood Renewal"
-        },
-        "Modifier": "MMonster_W2_Xuanlu_10_EnergyDrain",
-        "Desc": {
-            "CH": "每回合回复等同于自身生命上限<color style='color:#f29e38;'> [MMonster_W2_Xuanlu_10_EnergyDrain_TurnHealRatio] </color>的生命值。",
-            "EN": "In every turn, restores HP equal to <color style='color:#f29e38;'>[MMonster_W2_Xuanlu_10_EnergyDrain_TurnHealRatio]</color> of the unit's Max HP."
-        },
-        "Type": "Buff"
-    },
-    "220230204": {
-        "Name": {
-            "CH": "监视",
-            "EN": "Monitor"
-        },
-        "Modifier": "Monster_Beast02_Attack_Sign",
-        "Desc": {
-            "CH": "被<color style='color:#f29e38;'>%CasterName</color>标记为监视目标。",
-            "EN": "Marked by <color style='color:#f29e38;'>%CasterName</color> for Monitoring."
-        },
-        "CanNotDispel": true
-    },
-    "220240112": {
-        "Name": {
-            "CH": "生机充盈",
-            "EN": "Vigor Overflow"
-        },
-        "Modifier": "MMonster_W2_Xuanlu_10_RL_DamageUp",
-        "Desc": {
-            "CH": "造成的伤害提高<color style='color:#f29e38;'> [MDF_DamageUpRatio_PerLayer] </color>。该效果可叠加。",
-            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>. This effect is stackable."
-        },
-        "Type": "Buff",
-        "CanNotDispel": true
-    },
-    "220040211": {
-        "Name": {
-            "CH": "剑阵",
-            "EN": "Sword Formation"
-        },
-        "Modifier": "MMonster_W2_Yanqing_00_Skill02_UnknownWeakPoint_Core_RL",
-        "Desc": {
-            "CH": "彦卿的韧性无法受到伤害且速度提高<color style='color:#f29e38;'> [MDF_SpeedDelta] </color>点。消灭所有的【飞剑】可以解除该效果并对彦卿造成伤害。",
-            "EN": "Yanqing's Toughness cannot be depleted, and his SPD increases by <color style='color:#f29e38;'>[MDF_SpeedDelta]</color>. Destroy all of Yanqing's Flying Swords to dispel this effect and cause DMG to Yanqing."
-        },
-        "CanNotDispel": true
-    },
-    "220040212": {
-        "Name": {
-            "CH": "砥砺",
-            "EN": "Ordeal"
-        },
-        "Modifier": "MMonster_W2_Yanqing_00_SwordPowerUp",
-        "Desc": {
-            "CH": "该召唤物获得强化，韧性上限提高。施放攻击后，大概率使目标陷入冻结状态。",
-            "EN": "This summon receives an enhancement and increases Max Toughness. After attacking, there is a high chance of Freezing the target."
-        },
-        "CanNotDispel": true
-    },
-    "220040215": {
-        "Name": {
-            "CH": "寒芒",
-            "EN": "Chilling Light"
-        },
-        "Modifier": "MMonster_W2_Yanqing_00_Common_Overdrive",
-        "Desc": {
-            "CH": "造成的伤害提高<color style='color:#f29e38;'> [MDF_AllDamageTypeAddedRatio] </color>。该效果可叠加。",
-            "EN": "DMG dealt increases by <color style='color:#f29e38;'>[MDF_AllDamageTypeAddedRatio]</color>. This effect can stack."
-        },
-        "Type": "Buff",
-        "CanNotDispel": true
-    },
-    "220020301": {
-        "Name": {
-            "CH": "震荡",
-            "EN": "Reverberation"
-        },
-        "Modifier": "MCommon_Unstable",
-        "Desc": {
-            "CH": "受到攻击后，陷入【强烈震荡】状态，然后解除【震荡】状态。",
-            "EN": "After receiving an attack, enters Strong Reverberation, then dispels Reverberation."
-        },
-        "Type": "Debuff"
-    },
-    "220020302": {
-        "Name": {
-            "CH": "强烈震荡",
-            "EN": "Strong Reverberation"
-        },
-        "Modifier": "MCommon_Shake",
-        "Desc": {
-            "CH": "一定回合内无法行动。",
-            "EN": "Unable to take action for a certain number of turns."
-        },
-        "Type": "Debuff"
-    },
-    "220221101": {
-        "Name": {
-            "CH": "嗔恚",
-            "EN": "Maddened"
-        },
-        "Modifier": "MMonster_W2_Valkyrie01_01_SkillP01_ComboAttack",
-        "Desc": {
-            "CH": "攻击改为施放【锯恶•斩】。",
-            "EN": "Attack changes to Sawing Evil: Sever."
-        },
-        "Type": "Buff"
-    },
-    "280240101": {
-        "Name": {
-            "CH": "风化",
-            "EN": "Wind Shear"
-        },
-        "Modifier": "Monster_SW_Boss_00_DOT_Poison",
-        "Desc": {
-            "CH": "一定回合内，每回合开始时受到风属性伤害。",
-            "EN": "Takes Wind DMG at the start of each turn for a certain number of turns."
-        },
-        "Type": "Debuff"
-    },
-    "280240102": {
-        "Name": {
-            "CH": "伤害提高",
-            "EN": "DMG Boost"
-        },
-        "Modifier": "Monster_SW_Boss_00_DamageUp",
-        "Desc": {
-            "CH": "造成的伤害提高<color style='color:#f29e38;'> [MDF_DamageUpRatio_PerLayer] </color>，该效果可叠加。",
-            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageUpRatio_PerLayer]</color>. This effect is stackable."
-        },
-        "Type": "Buff",
-        "CanNotDispel": true
-    },
-    "280240103": {
-        "Name": {
-            "CH": "易伤",
-            "EN": "Vulnerability"
-        },
-        "Modifier": "Monster_SW_Boss_00_DamageTakenUp",
-        "Desc": {
-            "CH": "受到的伤害提高<color style='color:#f29e38;'> [MDF_DamageTakenUpRatio_PerLayer] </color>，该效果可叠加。",
-            "EN": "Increases DMG received by <color style='color:#f29e38;'>[MDF_DamageTakenUpRatio_PerLayer]</color>. This effect is stackable."
-        },
-        "Type": "Debuff"
-    },
-    "280240104": {
-        "Name": {
-            "CH": "分裂•预警",
-            "EN": "Mitosis: Warning"
-        },
-        "Modifier": "Monster_SW_Minion01_00_Split",
-        "Desc": {
-            "CH": "<color style='color:#f29e38;'> [Modifier_TurnCount] </color>回合后进行繁殖，弱点击破效果恢复的回合无法进行繁殖。",
-            "EN": "Propagate after <color style='color:#f29e38;'>[Modifier_TurnCount]</color> turn(s). Cannot propagate during the turn in which this unit recovers from Weakness Break."
-        },
-        "CanNotDispel": true
-    },
-    "280240105": {
-        "Name": {
-            "CH": "繁殖",
-            "EN": "Propagation"
-        },
-        "Modifier": "Monster_SW_Minion01_00_SplitEffect",
-        "Desc": {
-            "CH": "下个回合进行繁殖。",
-            "EN": "Propagate in the next turn."
-        },
-        "CanNotDispel": true
-    },
-    "280330101": {
-        "Name": {
-            "CH": "绩效点",
-            "EN": "Performance Points"
-        },
-        "Modifier": "Monster_Company_Coin",
-        "Desc": {
-            "CH": "星际和平公司雇员的【绩效点】，每层使持有者造成的伤害提高<color style='color:#f29e38;'> [MDF_DamageUpRatio] </color>，最多叠加<color style='color:#f29e38;'> [MaxLayer] </color>层。攻击时消耗所有【绩效点】。在自身弱点被击破或受到致命攻击时可被攻击者夺取。",
-            "EN": "Interastral Peace Corporation's employee Performance Points. Each stack increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageUpRatio]</color>, stacking up to <color style='color:#f29e38;'>[MaxLayer]</color> time(s). All Performance Points are consumed when this unit uses an attack. Performance Points can be seized by the attacker when this unit's Weakness is Broken or this unit receives a killing blow."
-        },
-        "Type": "Buff"
-    },
-    "280150208": {
-        "Name": {
-            "CH": "弱点无效",
-            "EN": "Weakness Protected"
-        },
-        "Modifier": "Monster_W2_HuanlongPart_01_WeakControl",
-        "Desc": {
-            "CH": "当【破灭玄莲】不处于【绽放】状态时，自身韧性无法受到伤害。",
-            "EN": "When Destruction Lotus is not in Bloom, its Toughness cannot be reduced."
-        },
-        "CanNotDispel": true
-    },
-    "230010101": {
-        "Name": {
-            "CH": "test_效果抵抗降低",
-            "EN": ""
-        },
-        "Modifier": "Monster_W2_Mecha01_02_ResistanceDown",
-        "Desc": {
-            "CH": "效果抵抗降低<color style='color:#f29e38;'> [MDF_PropertyValue] </color>。",
-            "EN": "Effect RES reduces by <color style='color:#f29e38;'>[MDF_PropertyValue]</color>."
-        },
-        "Type": "Debuff"
-    },
-    "220130111": {
-        "Name": {
-            "CH": "锁定",
-            "EN": "Lock On"
-        },
-        "Modifier": "Monster_W2_Mecha03_00_Sign",
-        "Desc": {
-            "CH": "被<color style='color:#f29e38;'>%CasterName</color>锁定为攻击目标。",
-            "EN": "<color style='color:#f29e38;'>%CasterName</color> will focus attacks on this target."
-        },
-        "CanNotDispel": true
-    },
-    "220130112": {
-        "Name": {
-            "CH": "罚恶模式•慎刑",
-            "EN": "Sanction Mode: Punisher"
-        },
-        "Modifier": "Monster_W2_Mecha03_00_Overdrive_On_RLElite",
-        "Desc": {
-            "CH": "金人司阍的韧性无法受到伤害且速度提高<color style='color:#f29e38;'> [MDF_SpeedUpRatio] </color>，并开启使用技能：追摄。",
-            "EN": "The Aurumaton Gatekeeper's Toughness cannot be damaged. Its SPD increases by <color style='color:#f29e38;'>[MDF_SpeedUpRatio]</color>, and it activates the ability Track Down."
-        },
-        "Type": "Buff",
-        "CanNotDispel": true
-    },
     "30020029": {
         "Name": {
             "CH": "怒噪",
@@ -53820,247 +59365,6 @@ var _status = {
         "Desc": {
             "CH": "无法操控，自动攻击随机敌方目标。若该目标被施放技能解除负面效果，将会优先被解除【怒噪】状态。",
             "EN": "Cannot be controlled. Automatically attacks a random enemy target. If the target is about to have any debuff removed by an ability, then the Outrage state will be prioritized for removal."
-        },
-        "Type": "Debuff"
-    },
-    "220230205": {
-        "Name": {
-            "CH": "伤害提高",
-            "EN": "DMG Boost"
-        },
-        "Modifier": "Monster_Common_Layer_DamageUP",
-        "Desc": {
-            "CH": "造成的伤害提高<color style='color:#f29e38;'> [MDF_DamageAddedRatio] </color>。最多叠加<color style='color:#f29e38;'> [MDF_MaxLayer] </color>层。",
-            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_DamageAddedRatio]</color> for up to <color style='color:#f29e38;'>[MDF_MaxLayer]</color> stacks."
-        },
-        "Type": "Buff"
-    },
-    "230020301": {
-        "Name": {
-            "CH": "苏乐达陶醉",
-            "EN": "SoulGlad Revel"
-        },
-        "Modifier": "Monster_W2_Beast01_03_LayerCount",
-        "Desc": {
-            "CH": "强化技能效果，最多叠加<color style='color:#f29e38;'> [MDF_ShowValue] </color>层。",
-            "EN": "Enhances ability effects, stacking up to <color style='color:#f29e38;'>[MDF_ShowValue]</color> times."
-        },
-        "CanNotDispel": true
-    },
-    "220230211": {
-        "Name": {
-            "CH": "鼓勇",
-            "EN": "Gather Courage"
-        },
-        "Modifier": "MMonster_W2_Beast02_00_RLElite_GennkiMark",
-        "Desc": {
-            "CH": "已积攒<color style='color:#f29e38;'> [MDF_PropertyValue] </color>层元气。",
-            "EN": "<color style='color:#f29e38;'>[MDF_PropertyValue]</color> stacks of Gusto accumulated."
-        },
-        "CanNotDispel": true
-    },
-    "220230212": {
-        "Name": {
-            "CH": "监视",
-            "EN": "Monitor"
-        },
-        "Modifier": "Monster_W2_Beast02_00_RLElite_Attack_Sign",
-        "Desc": {
-            "CH": "被<color style='color:#f29e38;'>%CasterName</color>标记为监视目标。",
-            "EN": "Marked by <color style='color:#f29e38;'>%CasterName</color> for Monitoring."
-        },
-        "CanNotDispel": true
-    },
-    "230240101": {
-        "Name": {
-            "CH": "灵魂释放",
-            "EN": "Soulfreed"
-        },
-        "Modifier": "MMonster_W2_Argenti_00_Power",
-        "Desc": {
-            "CH": "骑士的祷告将灵魂释放，技能得到了强化。",
-            "EN": "The knight's prayers bid the liberation of souls. Abilities have been enhanced."
-        },
-        "Type": "Buff"
-    },
-    "230240102": {
-        "Name": {
-            "CH": "伤害提高",
-            "EN": "DMG Boost"
-        },
-        "Modifier": "MMonster_Argenti_DamageUP",
-        "Desc": {
-            "CH": "造成的伤害提高<color style='color:#f29e38;'> [MDF_ShowValue1] </color>。",
-            "EN": "DMG dealt increases by <color style='color:#f29e38;'>[MDF_ShowValue1]</color>."
-        },
-        "Type": "Buff"
-    },
-    "230140201": {
-        "Name": {
-            "CH": "梦死",
-            "EN": "Morbid Dream"
-        },
-        "Modifier": "M_Death_CTRL",
-        "Desc": {
-            "CH": "无法被选定，无法行动。",
-            "EN": "Cannot be selected, cannot take action."
-        },
-        "CanNotDispel": true
-    },
-    "230140202": {
-        "Name": {
-            "CH": "夜幕将临",
-            "EN": "Nightfall"
-        },
-        "Modifier": "Modifier_W3_Death_00_ChargeShoot",
-        "Desc": {
-            "CH": "锁定接下来使用普攻、战技、终结技的2名我方目标。",
-            "EN": "Locks on to the next 2 characters who either use their Basic ATK, Skill, or Ultimate."
-        },
-        "CanNotDispel": true
-    },
-    "230140204": {
-        "Name": {
-            "CH": "白日西沉",
-            "EN": "Sunset"
-        },
-        "Modifier": "Modifier_W3_Death_00_HuntingMode1",
-        "Desc": {
-            "CH": "已叠加1层【白日西沉】。",
-            "EN": "Gained 1 stack of Sunset."
-        },
-        "CanNotDispel": true
-    },
-    "230140207": {
-        "Name": {
-            "CH": "锋锐悼词",
-            "EN": "Biting Obituary"
-        },
-        "Modifier": "Monster_W3_Death_00_AllDamageUp",
-        "Desc": {
-            "CH": "造成的伤害提高<color style='color:#f29e38;'> [MDF_ShowValue1] </color>，陷入弱点击破状态后移除。",
-            "EN": "Increases DMG dealt by <color style='color:#f29e38;'>[MDF_ShowValue1]</color>. This effect is removed when this unit becomes Weakness Broken."
-        },
-        "Type": "Buff"
-    },
-    "210130221": {
-        "Name": {
-            "CH": "作战加速",
-            "EN": "Combat Speed-Up"
-        },
-        "Modifier": "Monster_W1_Mecha04_00_RL_Phase3Passive",
-        "Desc": {
-            "CH": "速度提高<color style='color:#f29e38;'> [MDF_SpeedAddedRatio] </color>。每次施放【协力指令】时使自身速度进一步提高。",
-            "EN": "Increases SPD by <color style='color:#f29e38;'>[MDF_SpeedAddedRatio]</color>. SPD increases further every time Teamwork Order is used."
-        },
-        "Type": "Buff",
-        "CanNotDispel": true
-    },
-    "230020101": {
-        "Name": {
-            "CH": "惊喜频道",
-            "EN": "Surprise Channel"
-        },
-        "Modifier": "MModifier_Monster_W3_TV_00_Side1",
-        "Desc": {
-            "CH": "圆幕先生能够使用【惊喜综艺】技能。受到攻击后转变为【惊吓频道】状态。",
-            "EN": "Mr. Domescreen can use the \"Surprise Variety Show\" ability. After it has been attacked, switches to the Fright Channel state."
-        },
-        "CanNotDispel": true
-    },
-    "230020102": {
-        "Name": {
-            "CH": "惊吓频道",
-            "EN": "Fright Channel"
-        },
-        "Modifier": "MModifier_Monster_W3_TV_00_Side2",
-        "Desc": {
-            "CH": "圆幕先生能够使用【惊吓播报】技能。受到攻击后转变为【惊喜频道】状态。",
-            "EN": "Mr. Domescreen can use the \"Startling Broadcast\" ability. After it has been attacked, switches to the Surprise Channel state."
-        },
-        "CanNotDispel": true
-    },
-    "230030104": {
-        "Name": {
-            "CH": "文火",
-            "EN": "Simmer"
-        },
-        "Modifier": "MModifier_Monster_W3_Dinosaur_00_Calm",
-        "Desc": {
-            "CH": "当自身受到攻击或持续伤害时，叠加一层【炉灶加温】。",
-            "EN": "When this unit is attacked or takes DoT, gain 1 stack of Stove Heating."
-        },
-        "CanNotDispel": true
-    },
-    "230030105": {
-        "Name": {
-            "CH": "急火",
-            "EN": "Boil"
-        },
-        "Modifier": "MModifier_Monster_W3_Dinosaur_00_Fury",
-        "Desc": {
-            "CH": "当自身受到攻击或持续伤害时，叠加一层【炉灶加温】。",
-            "EN": "When this unit is attacked or takes DoT, gain 1 stack of Stove Heating."
-        },
-        "CanNotDispel": true
-    },
-    "230120201": {
-        "Name": {
-            "CH": "守备",
-            "EN": "Safeguard"
-        },
-        "Modifier": "MCommon_SuperArmor",
-        "Desc": {
-            "CH": "受到的伤害降低，弱点被击破时解除。弱点被击破时行动额外延后，被击破后受到的伤害提高。",
-            "EN": "DMG taken decreases. This effect is removed when Weakness is Broken. This unit's action will be delayed further when it is Weakness Broken and also takes increased DMG."
-        },
-        "CanNotDispel": true
-    },
-    "230240201": {
-        "Name": {
-            "CH": "次级燃烧",
-            "EN": "Secondary Combustion"
-        },
-        "Modifier": "Monster_W3_Sam_00_Enhance",
-        "Desc": {
-            "CH": "攻击时消耗生命值，同时速度提高<color style='color:#f29e38;'> [MDF_SpeedUpRatio] </color>且额外获得一次行动。当前还剩<color style='color:#f29e38;'> [MDF_CurrentPoint] </color>点【熔火能量】退出【次级燃烧】。",
-            "EN": "All attacks consume HP. Increases SPD by <color style='color:#f29e38;'>[MDF_SpeedUpRatio]</color> and gains an additional action. When only <color style='color:#f29e38;'>[MDF_CurrentPoint]</color> points of Molten Energy remain, the Secondary Combustion state expires."
-        },
-        "CanNotDispel": true
-    },
-    "230240202": {
-        "Name": {
-            "CH": "弱点无效",
-            "EN": "Weakness Protected"
-        },
-        "Modifier": "Monster_W3_Sam_00_WeakPointProtected",
-        "Desc": {
-            "CH": "进入【次级燃烧】前，萨姆的韧性无法受到伤害。",
-            "EN": "Sam cannot lose Toughness before entering the Secondary Combustion state."
-        },
-        "CanNotDispel": true
-    },
-    "230240203": {
-        "Name": {
-            "CH": "熔火垓心",
-            "EN": "Molten Core"
-        },
-        "Modifier": "Monster_W3_Sam_00_BurningBP",
-        "Desc": {
-            "CH": "我方消耗燃烧的战技点时消耗生命值，同时额外造成等同于原伤害<color style='color:#f29e38;'> [MDF_DamageUpRatio] </color>的固定数值火属性伤害，并且接受其他角色的治疗时，生命值回复量大幅降低。",
-            "EN": "When consuming Combusted Skill Points, the attacking ally loses HP and additionally deals a set amount of Fire DMG equal to <color style='color:#f29e38;'>[MDF_DamageUpRatio]</color> of the original DMG. When they receive healing from other characters, the amount of HP restored is massively reduced."
-        },
-        "CanNotDispel": true
-    },
-    "230240204": {
-        "Name": {
-            "CH": "易伤",
-            "EN": "Vulnerability"
-        },
-        "Modifier": "Monster_W3_Sam_00_TakenDamage",
-        "Desc": {
-            "CH": "受到的伤害提高<color style='color:#f29e38;'> [MDF_DamageTakenUpRatio_PerLayer] </color>，该效果当萨姆从弱点击破状态恢复时解除。",
-            "EN": "Takes <color style='color:#f29e38;'>[MDF_DamageTakenUpRatio_PerLayer]</color> more DMG. This effect expires when Sam recovers from Weakness Break state."
         },
         "Type": "Debuff"
     }

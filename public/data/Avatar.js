@@ -2,131 +2,528 @@
 
 var _avatar = [
     {
-        "_id": 9001,
+        "_id": 1301,
+        "Ver": "2.1v1",
         "Name": {
             "CH": "加拉赫",
             "EN": "Gallagher"
         },
+        "Desc": {
+            "CH": "匹诺康尼猎犬家系的现任家主，对来访宾客以礼相待，但保有戒心。似乎有着诸多往事，却从不主动提及。",
+            "EN": "The current head of the Bloodhound Family at Penacony. He is always courteous toward guests but keeps his vigilance about him. He seems to be a character with a complicated past, yet never actively mentions any details."
+        },
+        "Rarity": 4,
         "Element": "Fire",
         "Path": "Abundance",
+        "SP": 110.0,
         "Skills": [
-            900101,
-            900102,
-            900103,
-            900104,
-            900105,
-            900107
+            130101,
+            130102,
+            130103,
+            130104,
+            130106,
+            130107,
+            130108
         ],
         "Ranks": [
-            900101,
-            900102,
-            900104,
-            900106
+            130101,
+            130102,
+            130103,
+            130104,
+            130105,
+            130106
         ],
-        "Icon": "avatarshopicon/999",
-        "Pic": "avatardrawcard/999.png",
+        "Icon": "avatarshopicon/1301",
+        "Pic": "avatardrawcard/1301.png",
+        "Mat": [
+            114003,
+            110422,
+            110243,
+            110504
+        ],
+        "Stats": [
+            {
+                "HP": [
+                    144.0,
+                    7.2
+                ],
+                "ATK": [
+                    88.8,
+                    4.44
+                ],
+                "DEF": [
+                    60.0,
+                    3.0
+                ],
+                "SPD": 98.0,
+                "Aggro": 100.0
+            },
+            {
+                "HP": [
+                    201.6,
+                    7.2
+                ],
+                "ATK": [
+                    124.32,
+                    4.44
+                ],
+                "DEF": [
+                    84.0,
+                    3.0
+                ],
+                "SPD": 98.0,
+                "Aggro": 100.0
+            },
+            {
+                "HP": [
+                    259.2,
+                    7.2
+                ],
+                "ATK": [
+                    159.84,
+                    4.44
+                ],
+                "DEF": [
+                    108.0,
+                    3.0
+                ],
+                "SPD": 98.0,
+                "Aggro": 100.0
+            },
+            {
+                "HP": [
+                    316.8,
+                    7.2
+                ],
+                "ATK": [
+                    195.36,
+                    4.44
+                ],
+                "DEF": [
+                    132.0,
+                    3.0
+                ],
+                "SPD": 98.0,
+                "Aggro": 100.0
+            },
+            {
+                "HP": [
+                    374.4,
+                    7.2
+                ],
+                "ATK": [
+                    230.88,
+                    4.44
+                ],
+                "DEF": [
+                    156.0,
+                    3.0
+                ],
+                "SPD": 98.0,
+                "Aggro": 100.0
+            },
+            {
+                "HP": [
+                    432.0,
+                    7.2
+                ],
+                "ATK": [
+                    266.4,
+                    4.44
+                ],
+                "DEF": [
+                    180.0,
+                    3.0
+                ],
+                "SPD": 98.0,
+                "Aggro": 100.0
+            },
+            {
+                "HP": [
+                    489.6,
+                    7.2
+                ],
+                "ATK": [
+                    301.92,
+                    4.44
+                ],
+                "DEF": [
+                    204.0,
+                    3.0
+                ],
+                "SPD": 98.0,
+                "Aggro": 100.0
+            }
+        ],
         "CV": [
             {
-                "CH": "马语非",
-                "EN": "马语非"
+                "CH": "",
+                "EN": ""
             },
             {
-                "CH": "Erik Braa",
-                "EN": "Erik Braa"
+                "CH": "",
+                "EN": ""
             },
             {
-                "CH": "三上哲",
-                "EN": "三上哲"
+                "CH": "",
+                "EN": ""
             },
             {
-                "CH": "박상훈",
-                "EN": "박상훈"
+                "CH": "",
+                "EN": ""
             }
-        ]
+        ],
+        "Camp": 0
     },
     {
-        "_id": 9002,
+        "_id": 1304,
+        "Ver": "2.1v1",
         "Name": {
             "CH": "砂金",
             "EN": "Aventurine"
         },
+        "Desc": {
+            "CH": "星际和平公司「战略投资部」的高层成员。<br>风险爱好者，常面带笑容，真心却难以揣测。",
+            "EN": "A high-ranking executive of the IPC's Strategic Investment Department.<br>A risk-taker, his constant smile makes it difficult for people to discern his true feelings."
+        },
+        "Rarity": 5,
         "Element": "Imaginary",
         "Path": "Preservation",
+        "SP": 110.0,
         "Skills": [
-            900201,
-            900203,
-            900204,
-            900205,
-            900207
+            130401,
+            130402,
+            130403,
+            130404,
+            130406,
+            130407
         ],
         "Ranks": [
-            900201,
-            900202,
-            900204,
-            900206
+            130401,
+            130402,
+            130403,
+            130404,
+            130405,
+            130406
         ],
-        "Icon": "avatarshopicon/999",
-        "Pic": "avatardrawcard/999.png",
+        "Icon": "avatarshopicon/1304",
+        "Pic": "avatardrawcard/1304.png",
+        "Mat": [
+            114013,
+            110417,
+            110213,
+            110504
+        ],
+        "Stats": [
+            {
+                "HP": [
+                    163.68,
+                    8.184
+                ],
+                "ATK": [
+                    60.72,
+                    3.036
+                ],
+                "DEF": [
+                    89.1,
+                    4.455
+                ],
+                "SPD": 106.0,
+                "Aggro": 150.0
+            },
+            {
+                "HP": [
+                    229.152,
+                    8.184
+                ],
+                "ATK": [
+                    85.008,
+                    3.036
+                ],
+                "DEF": [
+                    124.74,
+                    4.455
+                ],
+                "SPD": 106.0,
+                "Aggro": 150.0
+            },
+            {
+                "HP": [
+                    294.624,
+                    8.184
+                ],
+                "ATK": [
+                    109.296,
+                    3.036
+                ],
+                "DEF": [
+                    160.38,
+                    4.455
+                ],
+                "SPD": 106.0,
+                "Aggro": 150.0
+            },
+            {
+                "HP": [
+                    360.096,
+                    8.184
+                ],
+                "ATK": [
+                    133.584,
+                    3.036
+                ],
+                "DEF": [
+                    196.02,
+                    4.455
+                ],
+                "SPD": 106.0,
+                "Aggro": 150.0
+            },
+            {
+                "HP": [
+                    425.568,
+                    8.184
+                ],
+                "ATK": [
+                    157.872,
+                    3.036
+                ],
+                "DEF": [
+                    231.66,
+                    4.455
+                ],
+                "SPD": 106.0,
+                "Aggro": 150.0
+            },
+            {
+                "HP": [
+                    491.04,
+                    8.184
+                ],
+                "ATK": [
+                    182.16,
+                    3.036
+                ],
+                "DEF": [
+                    267.3,
+                    4.455
+                ],
+                "SPD": 106.0,
+                "Aggro": 150.0
+            },
+            {
+                "HP": [
+                    556.512,
+                    8.184
+                ],
+                "ATK": [
+                    206.448,
+                    3.036
+                ],
+                "DEF": [
+                    302.94,
+                    4.455
+                ],
+                "SPD": 106.0,
+                "Aggro": 150.0
+            }
+        ],
         "CV": [
             {
-                "CH": "杨超然",
-                "EN": "杨超然"
+                "CH": "",
+                "EN": ""
             },
             {
-                "CH": "Camden Sutkowski",
-                "EN": "Camden Sutkowski"
+                "CH": "",
+                "EN": ""
             },
             {
-                "CH": "河西健吾",
-                "EN": "河西健吾"
+                "CH": "",
+                "EN": ""
             },
             {
-                "CH": "박준원",
-                "EN": "박준원"
+                "CH": "",
+                "EN": ""
             }
-        ]
+        ],
+        "Camp": 0
     },
     {
         "_id": 1308,
+        "Ver": "2.1v1",
         "Name": {
             "CH": "黄泉",
             "EN": "Acheron"
         },
+        "Desc": {
+            "CH": "自称「巡海游侠」的旅人，本名不详。<br>身佩一柄长刀，独行银河。",
+            "EN": "A drifter claiming to be a Galaxy Ranger. Her true name is unknown.<br>She walks the cosmos alone, carrying with her a long sword."
+        },
+        "Rarity": 5,
         "Element": "Elec",
         "Path": "Nihility",
+        "SP": 9.0,
         "Skills": [
-            900301,
-            900303,
-            900304,
-            900305,
-            900307
+            130801,
+            130802,
+            130803,
+            130804,
+            130806,
+            130807,
+            130814,
+            130815,
+            130816,
+            130817
         ],
         "Ranks": [
-            900301,
-            900302,
-            900304,
-            900306
+            130801,
+            130802,
+            130803,
+            130804,
+            130805,
+            130806
         ],
-        "Icon": "avatarshopicon/999",
-        "Pic": "avatardrawcard/999.png",
+        "Icon": "avatarshopicon/1308",
+        "Pic": "avatardrawcard/1308.png",
+        "Mat": [
+            114003,
+            110414,
+            110223,
+            110504
+        ],
+        "Stats": [
+            {
+                "HP": [
+                    153.12,
+                    7.656
+                ],
+                "ATK": [
+                    95.04,
+                    4.752
+                ],
+                "DEF": [
+                    59.4,
+                    2.97
+                ],
+                "SPD": 101.0,
+                "Aggro": 100.0
+            },
+            {
+                "HP": [
+                    214.368,
+                    7.656
+                ],
+                "ATK": [
+                    133.056,
+                    4.752
+                ],
+                "DEF": [
+                    83.16,
+                    2.97
+                ],
+                "SPD": 101.0,
+                "Aggro": 100.0
+            },
+            {
+                "HP": [
+                    275.616,
+                    7.656
+                ],
+                "ATK": [
+                    171.072,
+                    4.752
+                ],
+                "DEF": [
+                    106.92,
+                    2.97
+                ],
+                "SPD": 101.0,
+                "Aggro": 100.0
+            },
+            {
+                "HP": [
+                    336.864,
+                    7.656
+                ],
+                "ATK": [
+                    209.088,
+                    4.752
+                ],
+                "DEF": [
+                    130.68,
+                    2.97
+                ],
+                "SPD": 101.0,
+                "Aggro": 100.0
+            },
+            {
+                "HP": [
+                    398.112,
+                    7.656
+                ],
+                "ATK": [
+                    247.104,
+                    4.752
+                ],
+                "DEF": [
+                    154.44,
+                    2.97
+                ],
+                "SPD": 101.0,
+                "Aggro": 100.0
+            },
+            {
+                "HP": [
+                    459.36,
+                    7.656
+                ],
+                "ATK": [
+                    285.12,
+                    4.752
+                ],
+                "DEF": [
+                    178.2,
+                    2.97
+                ],
+                "SPD": 101.0,
+                "Aggro": 100.0
+            },
+            {
+                "HP": [
+                    520.608,
+                    7.656
+                ],
+                "ATK": [
+                    323.136,
+                    4.752
+                ],
+                "DEF": [
+                    201.96,
+                    2.97
+                ],
+                "SPD": 101.0,
+                "Aggro": 100.0
+            }
+        ],
         "CV": [
             {
-                "CH": "菊花花",
-                "EN": "菊花花"
+                "CH": "",
+                "EN": ""
             },
             {
-                "CH": "Allegra Clark",
-                "EN": "Allegra Clark"
+                "CH": "",
+                "EN": ""
             },
             {
-                "CH": "泽城美雪",
-                "EN": "泽城美雪"
+                "CH": "",
+                "EN": ""
             },
             {
-                "CH": "박지윤",
-                "EN": "박지윤"
+                "CH": "",
+                "EN": ""
             }
-        ]
+        ],
+        "Camp": 0
     },
     {
         "_id": 1306,
@@ -35704,6 +36101,1845 @@ var _avatarskill = {
                 "EN": "Immediately kills an enemy target. If unsuccessful, will deal Thunder DMG to all targets after entering battle, and gains some Energy Points."
             }
         }
+    },
+    "130401": {
+        "v1": {
+            "Name": {
+                "CH": "直观投注",
+                "EN": "Straight Bet"
+            },
+            "MaxLevel": 9,
+            "Type": {
+                "CH": "普攻",
+                "EN": "Basic ATK"
+            },
+            "Tag": {
+                "CH": "单攻",
+                "EN": "Single Target"
+            },
+            "Desc": {
+                "CH": "对指定敌方单体造成等同于砂金<color style='color:#f29e38;'> <b>#1[p]</b> </color>防御力的虚数属性伤害。",
+                "EN": "Deals Imaginary DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Aventurine's DEF to a single enemy."
+            },
+            "Params": [
+                [
+                    0.5
+                ],
+                [
+                    0.6
+                ],
+                [
+                    0.7
+                ],
+                [
+                    0.8
+                ],
+                [
+                    0.9
+                ],
+                [
+                    1.0
+                ],
+                [
+                    1.1
+                ],
+                [
+                    1.2
+                ],
+                [
+                    1.3
+                ]
+            ],
+            "BP": 1,
+            "SPAdd": 20.0,
+            "AttackType": "Normal",
+            "Stance": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1304_Normal"
+        }
+    },
+    "130402": {
+        "v1": {
+            "Name": {
+                "CH": "繁荣基石",
+                "EN": "Cornerstone Deluxe"
+            },
+            "MaxLevel": 15,
+            "Type": {
+                "CH": "战技",
+                "EN": "Skill"
+            },
+            "Tag": {
+                "CH": "防御",
+                "EN": "Defense"
+            },
+            "Desc": {
+                "CH": "为我方全体提供能够抵消等同于砂金<color style='color:#f29e38;'> <b>#1[p]</b> </color>防御力+<color style='color:#f29e38;'> <b>#2[f]</b> </color>伤害的护盾【坚垣筹码】，持续 <b>#3[f]</b> 回合。重复获得【坚垣筹码】时，护盾量可以叠加，最高不超过砂金当前防御力的<color style='color:#f29e38;'> <b>#4[p]</b> </color>+<color style='color:#f29e38;'> <b>#5[f]</b> </color>。",
+                "EN": "Provides a Fortified Wager shield that blocks DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Aventurine's DEF plus <color style='color:#f29e38;'><b>#2[f]</b></color> to all allies for <b>#3[f]</b> turn(s). When gaining Fortified Wager repeatedly, the Shield effect can stack up to <color style='color:#f29e38;'><b>#4[p]</b></color> of Aventurine's current DEF plus <color style='color:#f29e38;'><b>#5[f]</b></color>."
+            },
+            "Params": [
+                [
+                    0.18,
+                    90.0,
+                    3.0,
+                    0.27,
+                    180.0
+                ],
+                [
+                    0.19125,
+                    144.0,
+                    3.0,
+                    0.30375,
+                    288.0
+                ],
+                [
+                    0.2025,
+                    184.5,
+                    3.0,
+                    0.3375,
+                    369.0
+                ],
+                [
+                    0.21375,
+                    225.0,
+                    3.0,
+                    0.37125,
+                    450.0
+                ],
+                [
+                    0.225,
+                    252.0,
+                    3.0,
+                    0.405,
+                    504.0
+                ],
+                [
+                    0.234,
+                    279.0,
+                    3.0,
+                    0.432,
+                    558.0
+                ],
+                [
+                    0.243,
+                    299.25,
+                    3.0,
+                    0.459,
+                    598.5
+                ],
+                [
+                    0.252,
+                    319.5,
+                    3.0,
+                    0.486,
+                    639.0
+                ],
+                [
+                    0.261,
+                    339.75,
+                    3.0,
+                    0.513,
+                    679.5
+                ],
+                [
+                    0.27,
+                    360.0,
+                    3.0,
+                    0.54,
+                    720.0
+                ],
+                [
+                    0.279,
+                    380.25,
+                    3.0,
+                    0.567,
+                    760.5
+                ],
+                [
+                    0.288,
+                    400.5,
+                    3.0,
+                    0.594,
+                    801.0
+                ],
+                [
+                    0.297,
+                    420.75,
+                    3.0,
+                    0.621,
+                    841.5
+                ],
+                [
+                    0.306,
+                    441.0,
+                    3.0,
+                    0.648,
+                    882.0
+                ],
+                [
+                    0.315,
+                    461.25,
+                    3.0,
+                    0.675,
+                    922.5
+                ]
+            ],
+            "BP": -1,
+            "SPAdd": 30.0,
+            "AttackType": "BPSkill",
+            "Stance": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1304_BP"
+        }
+    },
+    "130403": {
+        "v1": {
+            "Name": {
+                "CH": "轮盘勋爵",
+                "EN": "Roulette Shark"
+            },
+            "MaxLevel": 15,
+            "Type": {
+                "CH": "终结技",
+                "EN": "Ultimate"
+            },
+            "Tag": {
+                "CH": "单攻",
+                "EN": "Single Target"
+            },
+            "Desc": {
+                "CH": "随机获得1到 <b>#1[f]</b> 点【盲注】，随后使指定敌方单体陷入【惊惶】状态，持续 <b>#4[f]</b> 回合，并对指定敌方单体造成等同于砂金<color style='color:#f29e38;'> <b>#2[p]</b> </color>防御力的虚数属性伤害。我方目标击中【惊惶】状态下的敌方目标时，造成的暴击伤害提高<color style='color:#f29e38;'> <b>#3[p]</b> </color>。",
+                "EN": "Randomly gains 1 to <b>#1[f]</b> points of Blind Bet and inflicts Unnerved on a single enemy, lasting for <b>#4[f]</b> turn(s). Deals Imaginary DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Aventurine's DEF to the target enemy. When an ally attacks an Unnerved enemy, the CRIT DMG dealt increases by <color style='color:#f29e38;'><b>#3[p]</b></color>."
+            },
+            "Params": [
+                [
+                    7.0,
+                    1.62,
+                    0.09,
+                    3.0
+                ],
+                [
+                    7.0,
+                    1.728,
+                    0.096,
+                    3.0
+                ],
+                [
+                    7.0,
+                    1.836,
+                    0.102,
+                    3.0
+                ],
+                [
+                    7.0,
+                    1.944,
+                    0.108,
+                    3.0
+                ],
+                [
+                    7.0,
+                    2.052,
+                    0.114,
+                    3.0
+                ],
+                [
+                    7.0,
+                    2.16,
+                    0.12,
+                    3.0
+                ],
+                [
+                    7.0,
+                    2.295,
+                    0.1275,
+                    3.0
+                ],
+                [
+                    7.0,
+                    2.43,
+                    0.135,
+                    3.0
+                ],
+                [
+                    7.0,
+                    2.565,
+                    0.1425,
+                    3.0
+                ],
+                [
+                    7.0,
+                    2.7,
+                    0.15,
+                    3.0
+                ],
+                [
+                    7.0,
+                    2.808,
+                    0.156,
+                    3.0
+                ],
+                [
+                    7.0,
+                    2.916,
+                    0.162,
+                    3.0
+                ],
+                [
+                    7.0,
+                    3.024,
+                    0.168,
+                    3.0
+                ],
+                [
+                    7.0,
+                    3.132,
+                    0.174,
+                    3.0
+                ],
+                [
+                    7.0,
+                    3.24,
+                    0.18,
+                    3.0
+                ]
+            ],
+            "BP": 0,
+            "SPAdd": 5.0,
+            "SPNeed": 110.0,
+            "AttackType": "Ultra",
+            "Stance": [
+                3.0,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1304_Ultra"
+        }
+    },
+    "130404": {
+        "v1": {
+            "Name": {
+                "CH": "枪口以右",
+                "EN": "Sights Aimed Right"
+            },
+            "MaxLevel": 15,
+            "Type": {
+                "CH": "天赋",
+                "EN": "Talent"
+            },
+            "Tag": {
+                "CH": "弹射",
+                "EN": "Bounce"
+            },
+            "Desc": {
+                "CH": "持有【坚垣筹码】的我方单体效果抵抗提高<color style='color:#f29e38;'> <b>#4[p]</b> </color>，并在受到攻击后，使砂金获得1点【盲注】，砂金持有【坚垣筹码】时能抵抗<u>控制类负面状态</u>，该效果每 <b>#5[f]</b> 回合可以触发1次，并在受到攻击后额外获得 <b>#1[f]</b> 点【盲注】。【盲注】达到7点后，砂金消耗7点充能发动 <b>#2[f]</b> 段<u>追加攻击</u>，每段攻击对随机敌方单体造成等同于砂金<color style='color:#f29e38;'> <b>#3[p]</b> </color>防御力的虚数属性伤害，【盲注】上限 <b>10</b> 点。<br><br><color style='color:#f29e38;'><b>追加攻击</b></color><br>满足条件时自动触发的效果，对目标施放1次额外的攻击。<br><br><color style='color:#f29e38;'><b>控制类负面状态</b></color><br>冻结，纠缠，禁锢，支配，怒噪，强烈震荡。",
+                "EN": "Effect RES increases by <color style='color:#f29e38;'><b>#4[p]</b></color> on a single target with Fortified Wager. When a single target with Fortified Wager is attacked, Aventurine gains 1 point of Blind Bet. When Aventurine has Fortified Wager, he can resist <u>Crowd Control debuffs</u> 1 time every <b>#5[f]</b> turn(s) and additionally gains <b>#1[f]</b> point(s) of Blind Bet after being attacked. Upon reaching 7 points of Blind Bet, Aventurine consumes 7 points to launch a <b>#2[f]</b>-hit <u>follow-up attack</u> with each hit dealing Imaginary DMG equal to <color style='color:#f29e38;'><b>#3[p]</b></color> of Aventurine's DEF to a random enemy. Blind Bet is capped at <b>10</b> points.<br><br><color style='color:#f29e38;'><b>Follow-Up Attack</b></color><br>Unleashes an extra attack on the target. This effect is triggered automatically when requirements are met.<br><br><color style='color:#f29e38;'><b>Crowd Control debuff</b></color><br>Frozen, Entanglement, Imprisonment, Dominated, Outrage, and Strong Reverberation"
+            },
+            "Params": [
+                [
+                    1.0,
+                    7.0,
+                    0.125,
+                    0.25,
+                    2.0
+                ],
+                [
+                    1.0,
+                    7.0,
+                    0.1375,
+                    0.275,
+                    2.0
+                ],
+                [
+                    1.0,
+                    7.0,
+                    0.15,
+                    0.3,
+                    2.0
+                ],
+                [
+                    1.0,
+                    7.0,
+                    0.1625,
+                    0.325,
+                    2.0
+                ],
+                [
+                    1.0,
+                    7.0,
+                    0.175,
+                    0.35,
+                    2.0
+                ],
+                [
+                    1.0,
+                    7.0,
+                    0.1875,
+                    0.375,
+                    2.0
+                ],
+                [
+                    1.0,
+                    7.0,
+                    0.20312,
+                    0.40625,
+                    2.0
+                ],
+                [
+                    1.0,
+                    7.0,
+                    0.21875,
+                    0.4375,
+                    2.0
+                ],
+                [
+                    1.0,
+                    7.0,
+                    0.23438,
+                    0.46875,
+                    2.0
+                ],
+                [
+                    1.0,
+                    7.0,
+                    0.25,
+                    0.5,
+                    2.0
+                ],
+                [
+                    1.0,
+                    7.0,
+                    0.2625,
+                    0.525,
+                    2.0
+                ],
+                [
+                    1.0,
+                    7.0,
+                    0.275,
+                    0.55,
+                    2.0
+                ],
+                [
+                    1.0,
+                    7.0,
+                    0.2875,
+                    0.575,
+                    2.0
+                ],
+                [
+                    1.0,
+                    7.0,
+                    0.3,
+                    0.6,
+                    2.0
+                ],
+                [
+                    1.0,
+                    7.0,
+                    0.3125,
+                    0.625,
+                    2.0
+                ]
+            ],
+            "BP": 0,
+            "SPAdd": 1.0,
+            "Stance": [
+                0.33333,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1304_Passive"
+        }
+    },
+    "130406": {
+        "v1": {
+            "Name": {
+                "CH": "攻击",
+                "EN": "Attack"
+            },
+            "MaxLevel": 1,
+            "Type": {
+                "CH": "dev_连携",
+                "EN": ""
+            },
+            "Tag": {
+                "CH": "",
+                "EN": ""
+            },
+            "Desc": {
+                "CH": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
+                "EN": "Attacks an enemy, and when the battle starts, reduces their Toughness of the corresponding Type."
+            },
+            "Params": [
+                []
+            ],
+            "BP": 0,
+            "SPAdd": 0,
+            "AttackType": "MazeNormal",
+            "Stance": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1304_Normal"
+        }
+    },
+    "130407": {
+        "v1": {
+            "Name": {
+                "CH": "红黑之间",
+                "EN": "The Red or the Black"
+            },
+            "MaxLevel": 1,
+            "Type": {
+                "CH": "秘技",
+                "EN": "Technique"
+            },
+            "Tag": {
+                "CH": "强化",
+                "EN": "Enhance"
+            },
+            "Desc": {
+                "CH": "使用秘技后获得以下1种效果，重复使用时保留最新的效果：<br>概率获得防御力提高 <b>#1[p]</b> ；<br>大概率获得防御力提高 <b>#2[p]</b> ；<br>小概率获得防御力提高 <b>#3[p]</b> 。<br>下一次战斗开始时，砂金提高对应数值的防御力，持续 <b>#4[f]</b> 回合。",
+                "EN": "After using the Technique, 1 of the following effects will be granted, and only the latest effect will be kept:<br>There is a chance for DEF to increase by <b>#1[p]</b>.<br>There is a high chance for DEF to increase by <b>#2[p]</b>.<br>There is a small chance for DEF to increase by <b>#3[p]</b>.<br>After entering the next battle, Aventurine increases DEF by the corresponding amount, lasting for <b>#4[f]</b> turn(s)."
+            },
+            "Params": [
+                [
+                    0.36,
+                    0.24,
+                    0.6,
+                    2.0
+                ]
+            ],
+            "BP": 0,
+            "SPAdd": 0,
+            "AttackType": "Maze",
+            "Stance": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1304_Maze"
+        }
+    },
+    "130101": {
+        "v1": {
+            "Name": {
+                "CH": "开瓶费",
+                "EN": "Corkage Fee"
+            },
+            "MaxLevel": 9,
+            "Type": {
+                "CH": "普攻",
+                "EN": "Basic ATK"
+            },
+            "Tag": {
+                "CH": "单攻",
+                "EN": "Single Target"
+            },
+            "Desc": {
+                "CH": "对指定敌方单体造成等同于加拉赫<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的火属性伤害。",
+                "EN": "Deals Fire DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Gallagher's ATK to a single enemy."
+            },
+            "Params": [
+                [
+                    0.5
+                ],
+                [
+                    0.6
+                ],
+                [
+                    0.7
+                ],
+                [
+                    0.8
+                ],
+                [
+                    0.9
+                ],
+                [
+                    1.0
+                ],
+                [
+                    1.1
+                ],
+                [
+                    1.2
+                ],
+                [
+                    1.3
+                ]
+            ],
+            "BP": 1,
+            "SPAdd": 20.0,
+            "AttackType": "Normal",
+            "Stance": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1301_Normal"
+        }
+    },
+    "130108": {
+        "v1": {
+            "Name": {
+                "CH": "酒花奔涌",
+                "EN": "Nectar Blitz"
+            },
+            "MaxLevel": 9,
+            "Type": {
+                "CH": "普攻",
+                "EN": "Basic ATK"
+            },
+            "Tag": {
+                "CH": "单攻",
+                "EN": "Single Target"
+            },
+            "Desc": {
+                "CH": "对指定敌方单体造成等同于加拉赫<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的火属性伤害。并使目标攻击力降低<color style='color:#f29e38;'> <b>#2[p]</b> </color>，持续 <b>#3[f]</b> 回合。",
+                "EN": "Deals Fire DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Gallagher's ATK to a single enemy and reduces the target's ATK by <color style='color:#f29e38;'><b>#2[p]</b></color>, lasting for <b>#3[f]</b> turn(s)."
+            },
+            "Params": [
+                [
+                    1.25,
+                    0.1,
+                    2.0
+                ],
+                [
+                    1.5,
+                    0.11,
+                    2.0
+                ],
+                [
+                    1.75,
+                    0.12,
+                    2.0
+                ],
+                [
+                    2.0,
+                    0.13,
+                    2.0
+                ],
+                [
+                    2.25,
+                    0.14,
+                    2.0
+                ],
+                [
+                    2.5,
+                    0.15,
+                    2.0
+                ],
+                [
+                    2.75,
+                    0.16,
+                    2.0
+                ],
+                [
+                    3.0,
+                    0.17,
+                    2.0
+                ],
+                [
+                    3.25,
+                    0.18,
+                    2.0
+                ]
+            ],
+            "BP": 1,
+            "SPAdd": 20.0,
+            "AttackType": "Normal",
+            "Stance": [
+                3.0,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1301_Normal02"
+        }
+    },
+    "130102": {
+        "v1": {
+            "Name": {
+                "CH": "罐装特调",
+                "EN": "Special Brew"
+            },
+            "MaxLevel": 15,
+            "Type": {
+                "CH": "战技",
+                "EN": "Skill"
+            },
+            "Tag": {
+                "CH": "回复",
+                "EN": "Restore"
+            },
+            "Desc": {
+                "CH": "立即为指定我方单体回复<color style='color:#f29e38;'> <b>#1[f]</b> </color>点生命值。",
+                "EN": "Immediately heals one ally for <color style='color:#f29e38;'><b>#1[f]</b></color> HP."
+            },
+            "Params": [
+                [
+                    200.0
+                ],
+                [
+                    340.0
+                ],
+                [
+                    480.0
+                ],
+                [
+                    676.0
+                ],
+                [
+                    830.0
+                ],
+                [
+                    984.0
+                ],
+                [
+                    1138.0
+                ],
+                [
+                    1292.0
+                ],
+                [
+                    1446.0
+                ],
+                [
+                    1600.0
+                ],
+                [
+                    1684.0
+                ],
+                [
+                    1768.0
+                ],
+                [
+                    1852.0
+                ],
+                [
+                    1936.0
+                ],
+                [
+                    2020.0
+                ]
+            ],
+            "BP": -1,
+            "SPAdd": 30.0,
+            "AttackType": "BPSkill",
+            "Stance": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1301_BP"
+        }
+    },
+    "130103": {
+        "v1": {
+            "Name": {
+                "CH": "香槟仪礼",
+                "EN": "Champagne Etiquette"
+            },
+            "MaxLevel": 15,
+            "Type": {
+                "CH": "终结技",
+                "EN": "Ultimate"
+            },
+            "Tag": {
+                "CH": "群攻",
+                "EN": "AoE"
+            },
+            "Desc": {
+                "CH": "使敌方全体陷入【酩酊】状态，持续 <b>#2[f]</b> 回合，同时对敌方全体造成等同于加拉赫<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的火属性伤害，并将下一次普攻强化为【酒花奔涌】。",
+                "EN": "Inflicts Besotted on all enemies, lasting for <b>#2[f]</b> turn(s). At the same time, deals Fire DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Gallagher's ATK to all enemies, and enhances the next Basic ATK to Nectar Blitz."
+            },
+            "Params": [
+                [
+                    0.75,
+                    2.0
+                ],
+                [
+                    0.825,
+                    2.0
+                ],
+                [
+                    0.9,
+                    2.0
+                ],
+                [
+                    0.975,
+                    2.0
+                ],
+                [
+                    1.05,
+                    2.0
+                ],
+                [
+                    1.125,
+                    2.0
+                ],
+                [
+                    1.21875,
+                    2.0
+                ],
+                [
+                    1.3125,
+                    2.0
+                ],
+                [
+                    1.40625,
+                    2.0
+                ],
+                [
+                    1.5,
+                    2.0
+                ],
+                [
+                    1.575,
+                    2.0
+                ],
+                [
+                    1.65,
+                    2.0
+                ],
+                [
+                    1.725,
+                    2.0
+                ],
+                [
+                    1.8,
+                    2.0
+                ],
+                [
+                    1.875,
+                    2.0
+                ]
+            ],
+            "BP": 0,
+            "SPAdd": 5.0,
+            "SPNeed": 110.0,
+            "AttackType": "Ultra",
+            "Stance": [
+                0.0,
+                2.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1301_Ultra"
+        }
+    },
+    "130104": {
+        "v1": {
+            "Name": {
+                "CH": "鏖战正酣",
+                "EN": "Tipsy Tussle"
+            },
+            "MaxLevel": 15,
+            "Type": {
+                "CH": "天赋",
+                "EN": "Talent"
+            },
+            "Tag": {
+                "CH": "回复",
+                "EN": "Restore"
+            },
+            "Desc": {
+                "CH": "【酩酊】使目标受到的击破伤害提高<color style='color:#f29e38;'> <b>#1[p]</b> </color>。陷入【酩酊】状态的目标每次受到我方角色攻击后，会回复攻击者<color style='color:#f29e38;'> <b>#2[f]</b> </color>点生命值。",
+                "EN": "The Besotted state increases the Break DMG that targets receive by <color style='color:#f29e38;'><b>#1[p]</b></color>. Every time a Besotted target is attacked by an ally, the attacker heals <color style='color:#f29e38;'><b>#2[f]</b></color> HP."
+            },
+            "Params": [
+                [
+                    0.06,
+                    65.0
+                ],
+                [
+                    0.066,
+                    110.5
+                ],
+                [
+                    0.072,
+                    156.0
+                ],
+                [
+                    0.078,
+                    219.7
+                ],
+                [
+                    0.084,
+                    269.75
+                ],
+                [
+                    0.09,
+                    319.8
+                ],
+                [
+                    0.0975,
+                    369.85
+                ],
+                [
+                    0.105,
+                    419.9
+                ],
+                [
+                    0.1125,
+                    469.95
+                ],
+                [
+                    0.12,
+                    520.0
+                ],
+                [
+                    0.126,
+                    547.3
+                ],
+                [
+                    0.132,
+                    574.6
+                ],
+                [
+                    0.138,
+                    601.9
+                ],
+                [
+                    0.144,
+                    629.2
+                ],
+                [
+                    0.15,
+                    656.5
+                ]
+            ],
+            "BP": 0,
+            "SPAdd": 0,
+            "Stance": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1301_Passive"
+        }
+    },
+    "130106": {
+        "v1": {
+            "Name": {
+                "CH": "攻击",
+                "EN": "Attack"
+            },
+            "MaxLevel": 1,
+            "Type": {
+                "CH": "dev_连携",
+                "EN": ""
+            },
+            "Tag": {
+                "CH": "",
+                "EN": ""
+            },
+            "Desc": {
+                "CH": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
+                "EN": "Attacks an enemy, and when the battle starts, reduces their Toughness of the corresponding Type."
+            },
+            "Params": [
+                []
+            ],
+            "BP": 0,
+            "SPAdd": 0,
+            "AttackType": "MazeNormal",
+            "Stance": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1301_Normal"
+        }
+    },
+    "130107": {
+        "v1": {
+            "Name": {
+                "CH": "亲启佳酿",
+                "EN": "Artisan Elixir"
+            },
+            "MaxLevel": 1,
+            "Type": {
+                "CH": "秘技",
+                "EN": "Technique"
+            },
+            "Tag": {
+                "CH": "",
+                "EN": ""
+            },
+            "Desc": {
+                "CH": "立即攻击敌人，进入战斗后使敌方全体陷入【酩酊】状态，持续 <b>#1[f]</b> 回合，并对敌方全体造成等同于加拉赫 <b>#2[p]</b> 攻击力的火属性伤害。",
+                "EN": "Immediately attacks the enemy. Deals Fire DMG equal to <b>#2[p]</b> of Gallagher's ATK and inflicts Besotted on all enemies upon entering battle, lasting for <b>#1[f]</b> turn(s)."
+            },
+            "Params": [
+                [
+                    2.0,
+                    0.5
+                ]
+            ],
+            "BP": 0,
+            "SPAdd": 0,
+            "AttackType": "Maze",
+            "Stance": [
+                2.0,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1301_Maze"
+        }
+    },
+    "130801": {
+        "v1": {
+            "Name": {
+                "CH": "三途枯榷",
+                "EN": "Trilateral Wiltcross"
+            },
+            "MaxLevel": 9,
+            "Type": {
+                "CH": "普攻",
+                "EN": "Basic ATK"
+            },
+            "Tag": {
+                "CH": "单攻",
+                "EN": "Single Target"
+            },
+            "Desc": {
+                "CH": "对指定敌方单体造成等同于黄泉<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的雷属性伤害。",
+                "EN": "Deals Lightning DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Acheron's ATK to a single enemy."
+            },
+            "Params": [
+                [
+                    0.5
+                ],
+                [
+                    0.6
+                ],
+                [
+                    0.7
+                ],
+                [
+                    0.8
+                ],
+                [
+                    0.9
+                ],
+                [
+                    1.0
+                ],
+                [
+                    1.1
+                ],
+                [
+                    1.2
+                ],
+                [
+                    1.3
+                ]
+            ],
+            "BP": 1,
+            "SPAdd": 0,
+            "AttackType": "Normal",
+            "Stance": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1308_Normal"
+        }
+    },
+    "130802": {
+        "v1": {
+            "Name": {
+                "CH": "八雷飞渡",
+                "EN": "Octobolt Flash"
+            },
+            "MaxLevel": 15,
+            "Type": {
+                "CH": "战技",
+                "EN": "Skill"
+            },
+            "Tag": {
+                "CH": "扩散",
+                "EN": "Blast"
+            },
+            "Desc": {
+                "CH": "获得 <b>#3[f]</b> 点【残梦】，为指定敌方单体附上 <b>#3[f]</b> 层【集真赤】，对其造成等同于黄泉<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的雷属性伤害，同时对其相邻目标造成等同于黄泉<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力的雷属性伤害。",
+                "EN": "Gains <b>#3[f]</b> points of \"Slashed Dream.\" Inflicts <b>#3[f]</b> stacks of \"Crimson Knot\" on a single target enemy and deals Lightning DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Acheron's ATK to them, as well as Lightning DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Acheron's ATK to adjacent targets."
+            },
+            "Params": [
+                [
+                    0.8,
+                    0.3,
+                    1.0
+                ],
+                [
+                    0.88,
+                    0.33,
+                    1.0
+                ],
+                [
+                    0.96,
+                    0.36,
+                    1.0
+                ],
+                [
+                    1.04,
+                    0.39,
+                    1.0
+                ],
+                [
+                    1.12,
+                    0.42,
+                    1.0
+                ],
+                [
+                    1.2,
+                    0.45,
+                    1.0
+                ],
+                [
+                    1.3,
+                    0.4875,
+                    1.0
+                ],
+                [
+                    1.4,
+                    0.525,
+                    1.0
+                ],
+                [
+                    1.5,
+                    0.5625,
+                    1.0
+                ],
+                [
+                    1.6,
+                    0.6,
+                    1.0
+                ],
+                [
+                    1.68,
+                    0.63,
+                    1.0
+                ],
+                [
+                    1.76,
+                    0.66,
+                    1.0
+                ],
+                [
+                    1.84,
+                    0.69,
+                    1.0
+                ],
+                [
+                    1.92,
+                    0.72,
+                    1.0
+                ],
+                [
+                    2.0,
+                    0.75,
+                    1.0
+                ]
+            ],
+            "BP": -1,
+            "SPAdd": 0,
+            "AttackType": "BPSkill",
+            "Stance": [
+                2.0,
+                0.0,
+                1.0
+            ],
+            "Icon": "SkillIcon_1308_BP"
+        }
+    },
+    "130803": {
+        "v1": {
+            "Name": {
+                "CH": "残梦尽染，一刀缭断",
+                "EN": "Slashed Dream Cries in Red"
+            },
+            "MaxLevel": 15,
+            "Type": {
+                "CH": "终结技",
+                "EN": "Ultimate"
+            },
+            "Tag": {
+                "CH": "群攻",
+                "EN": "AoE"
+            },
+            "Desc": {
+                "CH": "发动【啼泽雨斩】，对指定敌方单体造成等同于黄泉<color style='color:#f29e38;'> <b>#1[p]</b> </color>攻击力的雷属性伤害，并消去目标最多3层【集真赤】。<br>消去【集真赤】时，立即对敌方全体造成1次等同于黄泉<color style='color:#f29e38;'> <b>#2[p]</b> </color>攻击力的雷属性伤害，每消去1层【集真赤】本次伤害倍率额外提高<color style='color:#f29e38;'> <b>#2[p]</b> </color>。<br>【啼泽雨斩】可以发动3次，随后立即发动【黄泉返渡】，对敌方全体造成等同于黄泉<color style='color:#f29e38;'> <b>#3[p]</b> </color>攻击力的雷属性伤害并移除所有【集真赤】。<br>终结技期间无法为敌方附上【集真赤】。<br>隐藏数值：#4[f]",
+                "EN": "Unleashes Rainblade, deals Lightning DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Acheron's ATK to a single enemy, and removes up to 3 stacks of Crimson Knot from the target.<br>When Crimson Knot is removed, deals Lightning DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Acheron's ATK to all enemies 1 time, with the DMG multiplier for this attack additionally increased by <color style='color:#f29e38;'><b>#2[p]</b></color> for every stack of Crimson Knot removed.<br>After unleashing Rainblade 3 times, immediately unleashes Stygian Resurge, dealing Lightning DMG equal to <color style='color:#f29e38;'><b>#3[p]</b></color> of Acheron's ATK to all enemies, and removing all Crimson Knot stacks.<br>Crimson Knot is not inflicted upon enemies during the Ultimate.<br>Hidden Stat: #4[f]"
+            },
+            "Params": [
+                [
+                    0.144,
+                    0.09,
+                    0.72,
+                    9.0
+                ],
+                [
+                    0.1536,
+                    0.096,
+                    0.768,
+                    9.0
+                ],
+                [
+                    0.1632,
+                    0.102,
+                    0.816,
+                    9.0
+                ],
+                [
+                    0.1728,
+                    0.108,
+                    0.864,
+                    9.0
+                ],
+                [
+                    0.1824,
+                    0.114,
+                    0.912,
+                    9.0
+                ],
+                [
+                    0.192,
+                    0.12,
+                    0.96,
+                    9.0
+                ],
+                [
+                    0.204,
+                    0.1275,
+                    1.02,
+                    9.0
+                ],
+                [
+                    0.216,
+                    0.135,
+                    1.08,
+                    9.0
+                ],
+                [
+                    0.228,
+                    0.1425,
+                    1.14,
+                    9.0
+                ],
+                [
+                    0.24,
+                    0.15,
+                    1.2,
+                    9.0
+                ],
+                [
+                    0.2496,
+                    0.156,
+                    1.248,
+                    9.0
+                ],
+                [
+                    0.2592,
+                    0.162,
+                    1.296,
+                    9.0
+                ],
+                [
+                    0.2688,
+                    0.168,
+                    1.344,
+                    9.0
+                ],
+                [
+                    0.2784,
+                    0.174,
+                    1.392,
+                    9.0
+                ],
+                [
+                    0.288,
+                    0.18,
+                    1.44,
+                    9.0
+                ]
+            ],
+            "BP": 0,
+            "SPAdd": 0,
+            "SPNeed": 9.0,
+            "AttackType": "Ultra",
+            "Stance": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1308_Ultra"
+        }
+    },
+    "130804": {
+        "v1": {
+            "Name": {
+                "CH": "红叶时雨，万倾一空",
+                "EN": "Atop Rainleaf Hangs Oneness"
+            },
+            "MaxLevel": 15,
+            "Type": {
+                "CH": "天赋",
+                "EN": "Talent"
+            },
+            "Tag": {
+                "CH": "强化",
+                "EN": "Enhance"
+            },
+            "Desc": {
+                "CH": "【残梦】达到 <b>#1[f]</b> 点时可激活终结技。终结技期间可无视弱点属性削减敌方韧性，并使敌方全体全属性抗性降低<color style='color:#f29e38;'> <b>#2[p]</b> </color>，持续至终结技结束。<br>任意单位施放技能期间使敌方目标陷入负面效果，黄泉获得1点【残梦】并为该敌方目标附上1层【集真赤】，该效果每次行动最多触发1次。若施放技能使多个目标陷入负面效果，则为其中【集真赤】最多的敌方目标附上1层【集真赤】。<br>黄泉在场时，敌方目标离场或被任意单位消灭后，其持有的【集真赤】会转移至全场【集真赤】最多的敌方目标。",
+                "EN": "When Slashed Dream reaches <b>#1[f]</b> point(s), the Ultimate can be unleashed. During the Ultimate, deplete enemies' Toughness regardless of Weakness Types and reduce all enemies' All-Type RES by <color style='color:#f29e38;'><b>#2[p]</b></color> until the end of the Ultimate.<br>When any unit inflicts debuffs on an enemy target while using an ability, Acheron gains 1 point of Slashed Dream and inflicts Crimson Knot on the enemy target. This effect can be triggered up to 1 time per action. If the used ability inflicts debuff on multiple enemies, 1 stack of Crimson Knot will be inflicted on the enemy with the most Crimson Knot stacks.<br>When Acheron is on the battlefield and after an enemy target leaves the battlefield or is defeated, their Crimson Knot stacks will be transferred to the enemy target with the most current Crimson Knot stacks."
+            },
+            "Params": [
+                [
+                    9.0,
+                    0.1
+                ],
+                [
+                    9.0,
+                    0.11
+                ],
+                [
+                    9.0,
+                    0.12
+                ],
+                [
+                    9.0,
+                    0.13
+                ],
+                [
+                    9.0,
+                    0.14
+                ],
+                [
+                    9.0,
+                    0.15
+                ],
+                [
+                    9.0,
+                    0.1625
+                ],
+                [
+                    9.0,
+                    0.175
+                ],
+                [
+                    9.0,
+                    0.1875
+                ],
+                [
+                    9.0,
+                    0.2
+                ],
+                [
+                    9.0,
+                    0.21
+                ],
+                [
+                    9.0,
+                    0.22
+                ],
+                [
+                    9.0,
+                    0.23
+                ],
+                [
+                    9.0,
+                    0.24
+                ],
+                [
+                    9.0,
+                    0.25
+                ]
+            ],
+            "BP": 0,
+            "SPAdd": 0,
+            "Stance": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1308_Passive"
+        }
+    },
+    "130814": {
+        "v1": {
+            "Name": {
+                "CH": "啼泽雨斩",
+                "EN": "Rainblade"
+            },
+            "MaxLevel": 15,
+            "Type": {
+                "CH": "终结技",
+                "EN": "Ultimate"
+            },
+            "Tag": {
+                "CH": "群攻",
+                "EN": "AoE"
+            },
+            "Desc": {
+                "CH": "<br>隐藏数值：#1[f]<br>隐藏数值：#2[f]<br>隐藏数值：#3[f]",
+                "EN": "<br>Hidden Stat: #1[f]<br>Hidden Stat: #2[f]<br>Hidden Stat: #3[f]"
+            },
+            "Params": [
+                [
+                    0.144,
+                    0.09,
+                    0.72
+                ],
+                [
+                    0.1536,
+                    0.096,
+                    0.768
+                ],
+                [
+                    0.1632,
+                    0.102,
+                    0.816
+                ],
+                [
+                    0.1728,
+                    0.108,
+                    0.864
+                ],
+                [
+                    0.1824,
+                    0.114,
+                    0.912
+                ],
+                [
+                    0.192,
+                    0.12,
+                    0.96
+                ],
+                [
+                    0.204,
+                    0.1275,
+                    1.02
+                ],
+                [
+                    0.216,
+                    0.135,
+                    1.08
+                ],
+                [
+                    0.228,
+                    0.1425,
+                    1.14
+                ],
+                [
+                    0.24,
+                    0.15,
+                    1.2
+                ],
+                [
+                    0.2496,
+                    0.156,
+                    1.248
+                ],
+                [
+                    0.2592,
+                    0.162,
+                    1.296
+                ],
+                [
+                    0.2688,
+                    0.168,
+                    1.344
+                ],
+                [
+                    0.2784,
+                    0.174,
+                    1.392
+                ],
+                [
+                    0.288,
+                    0.18,
+                    1.44
+                ]
+            ],
+            "BP": 0,
+            "SPAdd": 0,
+            "AttackType": "Ultra",
+            "Stance": [
+                0.5,
+                0.5,
+                0.0
+            ],
+            "Icon": "SkillIcon_1308_Ultra"
+        }
+    },
+    "130815": {
+        "v1": {
+            "Name": {
+                "CH": "啼泽雨斩",
+                "EN": "Rainblade"
+            },
+            "MaxLevel": 15,
+            "Type": {
+                "CH": "终结技",
+                "EN": "Ultimate"
+            },
+            "Tag": {
+                "CH": "群攻",
+                "EN": "AoE"
+            },
+            "Desc": {
+                "CH": "<br>隐藏数值：#1[f]<br>隐藏数值：#2[f]<br>隐藏数值：#3[f]",
+                "EN": "<br>Hidden Stat: #1[f]<br>Hidden Stat: #2[f]<br>Hidden Stat: #3[f]"
+            },
+            "Params": [
+                [
+                    0.144,
+                    0.09,
+                    0.72
+                ],
+                [
+                    0.1536,
+                    0.096,
+                    0.768
+                ],
+                [
+                    0.1632,
+                    0.102,
+                    0.816
+                ],
+                [
+                    0.1728,
+                    0.108,
+                    0.864
+                ],
+                [
+                    0.1824,
+                    0.114,
+                    0.912
+                ],
+                [
+                    0.192,
+                    0.12,
+                    0.96
+                ],
+                [
+                    0.204,
+                    0.1275,
+                    1.02
+                ],
+                [
+                    0.216,
+                    0.135,
+                    1.08
+                ],
+                [
+                    0.228,
+                    0.1425,
+                    1.14
+                ],
+                [
+                    0.24,
+                    0.15,
+                    1.2
+                ],
+                [
+                    0.2496,
+                    0.156,
+                    1.248
+                ],
+                [
+                    0.2592,
+                    0.162,
+                    1.296
+                ],
+                [
+                    0.2688,
+                    0.168,
+                    1.344
+                ],
+                [
+                    0.2784,
+                    0.174,
+                    1.392
+                ],
+                [
+                    0.288,
+                    0.18,
+                    1.44
+                ]
+            ],
+            "BP": 0,
+            "SPAdd": 0,
+            "AttackType": "Ultra",
+            "Stance": [
+                0.5,
+                0.5,
+                0.0
+            ],
+            "Icon": "SkillIcon_1308_Ultra"
+        }
+    },
+    "130816": {
+        "v1": {
+            "Name": {
+                "CH": "啼泽雨斩",
+                "EN": "Rainblade"
+            },
+            "MaxLevel": 15,
+            "Type": {
+                "CH": "终结技",
+                "EN": "Ultimate"
+            },
+            "Tag": {
+                "CH": "群攻",
+                "EN": "AoE"
+            },
+            "Desc": {
+                "CH": "<br>隐藏数值：#1[f]<br>隐藏数值：#2[f]<br>隐藏数值：#3[f]",
+                "EN": "<br>Hidden Stat: #1[f]<br>Hidden Stat: #2[f]<br>Hidden Stat: #3[f]"
+            },
+            "Params": [
+                [
+                    0.144,
+                    0.09,
+                    0.72
+                ],
+                [
+                    0.1536,
+                    0.096,
+                    0.768
+                ],
+                [
+                    0.1632,
+                    0.102,
+                    0.816
+                ],
+                [
+                    0.1728,
+                    0.108,
+                    0.864
+                ],
+                [
+                    0.1824,
+                    0.114,
+                    0.912
+                ],
+                [
+                    0.192,
+                    0.12,
+                    0.96
+                ],
+                [
+                    0.204,
+                    0.1275,
+                    1.02
+                ],
+                [
+                    0.216,
+                    0.135,
+                    1.08
+                ],
+                [
+                    0.228,
+                    0.1425,
+                    1.14
+                ],
+                [
+                    0.24,
+                    0.15,
+                    1.2
+                ],
+                [
+                    0.2496,
+                    0.156,
+                    1.248
+                ],
+                [
+                    0.2592,
+                    0.162,
+                    1.296
+                ],
+                [
+                    0.2688,
+                    0.168,
+                    1.344
+                ],
+                [
+                    0.2784,
+                    0.174,
+                    1.392
+                ],
+                [
+                    0.288,
+                    0.18,
+                    1.44
+                ]
+            ],
+            "BP": 0,
+            "SPAdd": 0,
+            "AttackType": "Ultra",
+            "Stance": [
+                0.5,
+                0.5,
+                0.0
+            ],
+            "Icon": "SkillIcon_1308_Ultra"
+        }
+    },
+    "130817": {
+        "v1": {
+            "Name": {
+                "CH": "黄泉返渡",
+                "EN": "Stygian Resurge"
+            },
+            "MaxLevel": 15,
+            "Type": {
+                "CH": "终结技",
+                "EN": "Ultimate"
+            },
+            "Tag": {
+                "CH": "群攻",
+                "EN": "AoE"
+            },
+            "Desc": {
+                "CH": "<br>隐藏数值：#1[f]",
+                "EN": "<br>Hidden Stat: #1[f]"
+            },
+            "Params": [
+                [
+                    0.72
+                ],
+                [
+                    0.768
+                ],
+                [
+                    0.816
+                ],
+                [
+                    0.864
+                ],
+                [
+                    0.912
+                ],
+                [
+                    0.96
+                ],
+                [
+                    1.02
+                ],
+                [
+                    1.08
+                ],
+                [
+                    1.14
+                ],
+                [
+                    1.2
+                ],
+                [
+                    1.248
+                ],
+                [
+                    1.296
+                ],
+                [
+                    1.344
+                ],
+                [
+                    1.392
+                ],
+                [
+                    1.44
+                ]
+            ],
+            "BP": 0,
+            "SPAdd": 0,
+            "AttackType": "Ultra",
+            "Stance": [
+                0.0,
+                0.5,
+                0.0
+            ],
+            "Icon": "SkillIcon_1308_Ultra"
+        }
+    },
+    "130806": {
+        "v1": {
+            "Name": {
+                "CH": "攻击",
+                "EN": "Attack"
+            },
+            "MaxLevel": 1,
+            "Type": {
+                "CH": "dev_连携",
+                "EN": ""
+            },
+            "Tag": {
+                "CH": "",
+                "EN": ""
+            },
+            "Desc": {
+                "CH": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
+                "EN": "Attacks an enemy, and when the battle starts, reduces their Toughness of the corresponding Type."
+            },
+            "Params": [
+                []
+            ],
+            "BP": 0,
+            "SPAdd": 0,
+            "AttackType": "MazeNormal",
+            "Stance": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1308_Normal"
+        }
+    },
+    "130807": {
+        "v1": {
+            "Name": {
+                "CH": "四相断我",
+                "EN": "Quadrivalent Ascendance"
+            },
+            "MaxLevel": 1,
+            "Type": {
+                "CH": "秘技",
+                "EN": "Technique"
+            },
+            "Tag": {
+                "CH": "",
+                "EN": ""
+            },
+            "Desc": {
+                "CH": "立即攻击敌人，进入战斗后获得 <b>#2[f]</b> 点【残梦】，对敌方全体造成等同于黄泉 <b>#1[p]</b> 攻击力的雷属性伤害，并为敌方随机单体附上 <b>#2[f]</b> 层【集真赤】。<br>若敌人持有【赫业】则被立即消灭，不会进入战斗。未击中敌人时不消耗秘技点。",
+                "EN": "Immediately attacks the enemy. After entering battle, Acheron gains <b>#2[f]</b> point(s) of Slashed Dream and deals Lightning DMG equal to <b>#1[p]</b> of Acheron's ATK to all enemies, as well as inflicting <b>#2[f]</b> stack(s) of Crimson Knot on a single random enemy.<br>If the enemy has Red Karma, they will be immediately defeated and will not enter combat. The Technique Point is not spent if the attack does not hit an enemy."
+            },
+            "Params": [
+                [
+                    0.8,
+                    2.0
+                ]
+            ],
+            "BP": 0,
+            "SPAdd": 0,
+            "AttackType": "Maze",
+            "Stance": [
+                2.0,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1308_Maze"
+        }
     }
 }
 
@@ -38145,6 +40381,130 @@ var _avatarskilltree = {
                     "CH": "黄泉触发<color style='color:#f29e38'>【红莲开绽】</color>时，每消耗 1 枚红莲，自身造成的伤害提升，持续一些回合。",
                     "EN": "When triggering <color style='color:#f29e38'>Lotus Bloom</color>, for every Lotus consumed, Acheron's DMG dealt is increased for some turns."
                 }
+            }
+        },
+        "v1": {
+            "Add": {
+                "AttackAddedRatio": 0.28,
+                "CriticalDamageBase": 0.24,
+                "ThunderAddedRatio": 0.08
+            },
+            "Tree1": {
+                "Name": {
+                    "CH": "赤鬼",
+                    "EN": "Red Ogre"
+                },
+                "Desc": {
+                    "CH": "战斗开始时，立即获得 <b><color style='color:#f29e38'>4.0</color></b> 点【残梦】，并为随机1名敌方附上 <b><color style='color:#f29e38'>4.0</color></b> 层【集真赤】。",
+                    "EN": "At the start of battle, immediately gain <b><color style='color:#f29e38'>4.0</color></b> point(s) of Slashed Dream and apply <b><color style='color:#f29e38'>4.0</color></b> stack(s) of Crimson Knot to a random enemy."
+                },
+                "Icon": "SkillIcon_1308_SkillTree1"
+            },
+            "Tree2": {
+                "Name": {
+                    "CH": "奈落",
+                    "EN": "The Abyss"
+                },
+                "Desc": {
+                    "CH": "我方队伍中存在1名/2名除黄泉之外的「虚无」命途角色时，使黄泉普攻、战技、终结技造成的伤害为原伤害的 <b><color style='color:#f29e38'>115.0%</color></b> / <b><color style='color:#f29e38'>160.0%</color></b> 。",
+                    "EN": "When there are 1/2 other character(s) following the Path of Nihility in the team, increase the DMG of Acheron's Basic ATK, Skill, and Ultimate to <b><color style='color:#f29e38'>115.0%</color></b>/<b><color style='color:#f29e38'>160.0%</color></b> of the original DMG."
+                },
+                "Icon": "SkillIcon_1308_SkillTree2"
+            },
+            "Tree3": {
+                "Name": {
+                    "CH": "雷心",
+                    "EN": "Thunder Core"
+                },
+                "Desc": {
+                    "CH": "终结技的【啼泽雨斩】击中持有【集真赤】的敌方目标时，使黄泉造成的伤害提高 <b><color style='color:#f29e38'>30.0%</color></b> ，该效果最多叠加 <b><color style='color:#f29e38'>3.0</color></b> 层，持续 <b><color style='color:#f29e38'>3.0</color></b> 回合，并在发动【黄泉返渡】时额外造成 <b><color style='color:#f29e38'>6.0</color></b> 次伤害，每次伤害对敌方随机单体造成等同于黄泉 <b><color style='color:#f29e38'>25.0%</color></b> 攻击力的雷属性伤害，该伤害视为终结技伤害。",
+                    "EN": "When Rainblade from Acheron's Ultimate hits enemy targets with Crimson Knot, her DMG increases by <b><color style='color:#f29e38'>30.0%</color></b>, staking up to a maximum of <b><color style='color:#f29e38'>3.0</color></b> stack(s) and lasting for <b><color style='color:#f29e38'>3.0</color></b> turn(s). Also additionally deals <b><color style='color:#f29e38'>6.0</color></b> hits of DMG when Stygian Resurge is triggered. Every hit deals Lightning DMG equal to <b><color style='color:#f29e38'>25.0%</color></b> of Acheron's ATK to a single enemy target and is viewed as Ultimate DMG."
+                },
+                "Icon": "SkillIcon_1308_SkillTree3"
+            }
+        }
+    },
+    "1304": {
+        "v1": {
+            "Add": {
+                "DefenceAddedRatio": 0.35,
+                "ImaginaryAddedRatio": 0.144,
+                "StatusResistanceBase": 0.1
+            },
+            "Tree1": {
+                "Name": {
+                    "CH": "杠杆",
+                    "EN": "Leverage"
+                },
+                "Desc": {
+                    "CH": "若砂金的防御力高于 <b><color style='color:#f29e38'>1600.0</color></b> 点，每超过 <b><color style='color:#f29e38'>100</color></b> 点防御力可使自身暴击率提高 <b><color style='color:#f29e38'>2.0%</color></b> ，最多提高 <b><color style='color:#f29e38'>40.0%</color></b> 。",
+                    "EN": "If Aventurine's DEF is higher than <b><color style='color:#f29e38'>1600.0</color></b>, then his own CRIT Rate increases by <b><color style='color:#f29e38'>2.0%</color></b> for every <b><color style='color:#f29e38'>100</color></b> DEF exceeding that value, up to an increase of <b><color style='color:#f29e38'>40.0%</color></b>."
+                },
+                "Icon": "SkillIcon_1304_SkillTree1"
+            },
+            "Tree2": {
+                "Name": {
+                    "CH": "热手",
+                    "EN": "Hot Hand"
+                },
+                "Desc": {
+                    "CH": "战斗开始时，为我方全体提供护盾【坚垣筹码】，护盾量等同于战技提供的护盾量的 <b><color style='color:#f29e38'>100.0%</color></b> ，持续 <b><color style='color:#f29e38'>3.0</color></b> 回合。",
+                    "EN": "At the start of the battle, provide a Fortified Wager Shield to the entire team. The Shield effect equals to <b><color style='color:#f29e38'>100.0%</color></b> as that provided by the Skill, lasting for <b><color style='color:#f29e38'>3.0</color></b> turn(s)."
+                },
+                "Icon": "SkillIcon_1304_SkillTree2"
+            },
+            "Tree3": {
+                "Name": {
+                    "CH": "宾果！",
+                    "EN": "Bingo!"
+                },
+                "Desc": {
+                    "CH": "持有【坚垣筹码】的队友发动追加攻击后，为砂金积攒1点【盲注】，该效果最多触发 <b><color style='color:#f29e38'>1.0</color></b> 次，当砂金回合开始时，重置该效果触发次数。砂金在发动天赋的追加攻击后，为我方全体提供能够抵消等同于砂金 <b><color style='color:#f29e38'>7.2%</color></b> 防御力+ <b><color style='color:#f29e38'>96.0</color></b> 伤害的【坚垣筹码】，并为护盾值最低的我方目标额外提供能够抵消等同于砂金 <b><color style='color:#f29e38'>7.2%</color></b> 防御力+ <b><color style='color:#f29e38'>96.0</color></b> 伤害的【坚垣筹码】，持续3回合。",
+                    "EN": "Aventurine accumulates 1 Blind Bet after an ally with Fortified Wager launches a follow-up attack. This effect can be triggered a maximum of <b><color style='color:#f29e38'>1.0</color></b> time(s). This effect's trigger count is reset at the start of Aventurine's turn. After Aventurine launches a follow-up attack from his Talent, provides Fortified Wager to all allies and blocks DMG equal to <b><color style='color:#f29e38'>7.2%</color></b> of Aventurine's DEF + <b><color style='color:#f29e38'>96.0</color></b> DMG, and additionally provides Fortified Wager that can block DMG equal to <b><color style='color:#f29e38'>7.2%</color></b> of Aventurine's DEF + <b><color style='color:#f29e38'>96.0</color></b> DMG to the ally with the lowest current Shield effect, lasting for 3 turns."
+                },
+                "Icon": "SkillIcon_1304_SkillTree3"
+            }
+        }
+    },
+    "1301": {
+        "v1": {
+            "Add": {
+                "BreakDamageAddedRatioBase": 0.373,
+                "HPAddedRatio": 0.1,
+                "StatusResistanceBase": 0.18
+            },
+            "Tree1": {
+                "Name": {
+                    "CH": "崭新配方",
+                    "EN": "Novel Concoction"
+                },
+                "Desc": {
+                    "CH": "使自身提供的治疗量提高，提高数值等同于击破特攻的 <b><color style='color:#f29e38'>30.0%</color></b> ，最多使提供的治疗量提高 <b><color style='color:#f29e38'>75.0%</color></b> 。",
+                    "EN": "Increases Outgoing Healing of this unit by an amount equal to <b><color style='color:#f29e38'>30.0%</color></b> of Break Effect, up to a maximum Outgoing Healing increase of <b><color style='color:#f29e38'>75.0%</color></b>."
+                },
+                "Icon": "SkillIcon_1301_SkillTree1"
+            },
+            "Tree2": {
+                "Name": {
+                    "CH": "天然酵母",
+                    "EN": "Organic Yeast"
+                },
+                "Desc": {
+                    "CH": "施放终结技后，立刻使自己行动提前 <b><color style='color:#f29e38'>100%</color></b> 。",
+                    "EN": "Immediately advance this unit's Action Forward by <b><color style='color:#f29e38'>100%</color></b> after they use their Ultimate."
+                },
+                "Icon": "SkillIcon_1301_SkillTree2"
+            },
+            "Tree3": {
+                "Name": {
+                    "CH": "敬请干杯",
+                    "EN": "Bottoms Up"
+                },
+                "Desc": {
+                    "CH": "加拉赫施放【酒花奔涌】攻击陷入【酩酊】状态的目标时，使此次天赋提供的生命回复效果对我方队友也会生效。",
+                    "EN": "When Gallagher uses Nectar Blitz to attack enemies that are in the Besotted state, the HP Restore effect of his Talent for this attack will apply to other allies as well."
+                },
+                "Icon": "SkillIcon_1301_SkillTree3"
             }
         }
     }
@@ -42889,6 +45249,258 @@ var _avatarrank = {
                 "CH": "黄泉造成的终结技伤害提升。黄泉的普攻和战技视为终结技。",
                 "EN": "Acheron's Ultimate DMG is increased. Acheron's Normal ATK and Skill will be regarded as Ultimate."
             }
+        }
+    },
+    "130401": {
+        "v1": {
+            "Rank": 1,
+            "Name": {
+                "CH": "囚徒博弈",
+                "EN": "Prisoner's Dilemma"
+            },
+            "Desc": {
+                "CH": "持有【坚垣筹码】的我方目标暴击伤害提高 <b><color style='color:#f29e38'>20.0%</color></b> 。行迹【宾果！】的获得【盲注】效果不再有触发次数的限制，需要先解锁行迹【宾果！】。",
+                "EN": "Increases CRIT DMG for allies with Fortified Wager by <b><color style='color:#f29e38'>20.0%</color></b>. The Blind Bet effect obtained from the Trace \"Bingo!\" no longer has a trigger limit. Requires the Trace \"Bingo!\" to be unlocked first."
+            },
+            "Icon": "SkillIcon_1304_Rank1"
+        }
+    },
+    "130402": {
+        "v1": {
+            "Rank": 2,
+            "Name": {
+                "CH": "有限理性",
+                "EN": "Bounded Rationality"
+            },
+            "Desc": {
+                "CH": "施放普攻时使目标的全属性抗性降低 <b><color style='color:#f29e38'>12.0%</color></b> ，持续 <b><color style='color:#f29e38'>3.0</color></b> 回合。<br><br>隐藏数值：1.2",
+                "EN": "When using Basic ATK, reduce the target's All-Type RES by <b><color style='color:#f29e38'>12.0%</color></b> for <b><color style='color:#f29e38'>3.0</color></b> turn(s).<br><br>Hidden Stat: 1.2"
+            },
+            "Icon": "SkillIcon_1304_Rank2"
+        }
+    },
+    "130403": {
+        "v1": {
+            "Rank": 3,
+            "Name": {
+                "CH": "最高倍率",
+                "EN": "Droprate Maxing"
+            },
+            "Desc": {
+                "CH": "终结技等级+2，最多不超过 <b><color style='color:#f29e38'>15</color></b> 级；普攻等级+1，最多不超过 <b><color style='color:#f29e38'>10</color></b> 级。",
+                "EN": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>. Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>."
+            },
+            "Icon": "SkillIcon_1304_Ultra"
+        }
+    },
+    "130404": {
+        "v1": {
+            "Rank": 4,
+            "Name": {
+                "CH": "意外绞刑",
+                "EN": "Unexpected Hanging Paradox"
+            },
+            "Desc": {
+                "CH": "触发天赋的追加攻击时，会先使砂金防御力提高 <b><color style='color:#f29e38'>40.0%</color></b> ，持续 <b><color style='color:#f29e38'>2.0</color></b> 回合，并使天赋的追加攻击额外增加 <b><color style='color:#f29e38'>1.0</color></b> 段攻击段数。",
+                "EN": "When triggering his Talent's follow-up attacks, Aventurine's DEF first increases by <b><color style='color:#f29e38'>40.0%</color></b> for <b><color style='color:#f29e38'>2.0</color></b> turn(s). The follow-up attack's Hits Per Action triggered by his Talent additionally increases by <b><color style='color:#f29e38'>1.0</color></b>."
+            },
+            "Icon": "SkillIcon_1304_Rank4"
+        }
+    },
+    "130405": {
+        "v1": {
+            "Rank": 5,
+            "Name": {
+                "CH": "模糊厌恶",
+                "EN": "Ambiguity Aversion"
+            },
+            "Desc": {
+                "CH": "战技等级+2，最多不超过 <b><color style='color:#f29e38'>15</color></b> 级；天赋等级+2，最多不超过 <b><color style='color:#f29e38'>15</color></b> 级。",
+                "EN": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>. Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>."
+            },
+            "Icon": "SkillIcon_1304_BP"
+        }
+    },
+    "130406": {
+        "v1": {
+            "Rank": 6,
+            "Name": {
+                "CH": "猎鹿游戏",
+                "EN": "Stag Hunt Game"
+            },
+            "Desc": {
+                "CH": "每有1个队友持有护盾，砂金造成的伤害提高 <b><color style='color:#f29e38'>50.0%</color></b> 。",
+                "EN": "For each ally with Shield, the DMG dealt by Aventurine increases by <b><color style='color:#f29e38'>50.0%</color></b>."
+            },
+            "Icon": "SkillIcon_1304_Rank6"
+        }
+    },
+    "130101": {
+        "v1": {
+            "Rank": 1,
+            "Name": {
+                "CH": "盐与犬",
+                "EN": "Salty Dog"
+            },
+            "Desc": {
+                "CH": "加拉赫进入战斗后会恢复 <b><color style='color:#f29e38'>20.0</color></b> 点能量，效果抵抗提高 <b><color style='color:#f29e38'>50.0%</color></b> 。",
+                "EN": "Regenerates <b><color style='color:#f29e38'>20.0</color></b> Energy when Gallagher enters the battle and increases his Effect RES by <b><color style='color:#f29e38'>50.0%</color></b>."
+            },
+            "Icon": "SkillIcon_1301_Rank1"
+        }
+    },
+    "130102": {
+        "v1": {
+            "Rank": 2,
+            "Name": {
+                "CH": "狮子之尾",
+                "EN": "Lion's Tail"
+            },
+            "Desc": {
+                "CH": "处于【酩酊】状态的目标受到的击破伤害额外提高 <b><color style='color:#f29e38'>8.0%</color></b> 。",
+                "EN": "Increases Break DMG dealt to targets in the Besotted state by <b><color style='color:#f29e38'>8.0%</color></b>."
+            },
+            "Icon": "SkillIcon_1301_Rank2"
+        }
+    },
+    "130103": {
+        "v1": {
+            "Rank": 3,
+            "Name": {
+                "CH": "逝者的新生",
+                "EN": "Corpse Reviver"
+            },
+            "Desc": {
+                "CH": "战技等级+2，最多不超过 <b><color style='color:#f29e38'>15</color></b> 级，普攻等级+1，最多不超过 <b><color style='color:#f29e38'>10</color></b> 级。",
+                "EN": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>."
+            },
+            "Icon": "SkillIcon_1301_BP"
+        }
+    },
+    "130104": {
+        "v1": {
+            "Rank": 4,
+            "Name": {
+                "CH": "临终的轻语",
+                "EN": "Last Word"
+            },
+            "Desc": {
+                "CH": "加拉赫终结技造成的【酩酊】状态持续时间延长 <b><color style='color:#f29e38'>1.0</color></b> 回合。",
+                "EN": "Increases the turn duration for the Besotted state inflicted by Gallagher's Ultimate for <b><color style='color:#f29e38'>1.0</color></b> turn(s)."
+            },
+            "Icon": "SkillIcon_1301_Rank4"
+        }
+    },
+    "130105": {
+        "v1": {
+            "Rank": 5,
+            "Name": {
+                "CH": "午后之死",
+                "EN": "Death in the Afternoon"
+            },
+            "Desc": {
+                "CH": "终结技等级+2，最多不超过 <b><color style='color:#f29e38'>15</color></b> 级，天赋等级+2，最多不超过 <b><color style='color:#f29e38'>15</color></b> 级。",
+                "EN": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>."
+            },
+            "Icon": "SkillIcon_1301_Ultra"
+        }
+    },
+    "130106": {
+        "v1": {
+            "Rank": 6,
+            "Name": {
+                "CH": "血与沙",
+                "EN": "Blood and Sand"
+            },
+            "Desc": {
+                "CH": "加拉赫的击破特攻提高 <b><color style='color:#f29e38'>20.0%</color></b> ，弱点击破效率提高 <b><color style='color:#f29e38'>20.0%</color></b> 。",
+                "EN": "Increases Gallagher's Break Effect by <b><color style='color:#f29e38'>20.0%</color></b> and Weakness Break Efficiency by <b><color style='color:#f29e38'>20.0%</color></b>."
+            },
+            "Icon": "SkillIcon_1301_Rank6"
+        }
+    },
+    "130801": {
+        "v1": {
+            "Rank": 1,
+            "Name": {
+                "CH": "高天寥落真言始",
+                "EN": "Silenced Sky Spake Sooth"
+            },
+            "Desc": {
+                "CH": "对处于负面效果的敌方目标造成伤害时暴击率提高 <b><color style='color:#f29e38'>18.0%</color></b> 。",
+                "EN": "CRIT Rate increases by <b><color style='color:#f29e38'>18.0%</color></b> when dealing DMG to debuffed enemies."
+            },
+            "Icon": "SkillIcon_1308_Rank1"
+        }
+    },
+    "130802": {
+        "v1": {
+            "Rank": 2,
+            "Name": {
+                "CH": "霆鼓俱寂，瑟风亦止",
+                "EN": "Mute Thunder in Still Tempest"
+            },
+            "Desc": {
+                "CH": "行迹【奈落】最高数值所需求「虚无」命途角色的数量减少1名，自身回合开始时获得1点【残梦】，同时为【集真赤】最多的敌方附上1层【集真赤】。",
+                "EN": "The number of characters on the Path of Nihility required for the highest value of the Trace, The Abyss, is reduced by 1. At the beginning of Acheron's turn, gain 1 point of Slashed Dream. Additionally, inflict 1 stack of Crimson Knot on an enemy with the most Crimson Knot."
+            },
+            "Icon": "SkillIcon_1308_Rank2"
+        }
+    },
+    "130803": {
+        "v1": {
+            "Rank": 3,
+            "Name": {
+                "CH": "寒肃惊永蛰",
+                "EN": "Frost Bites in Death"
+            },
+            "Desc": {
+                "CH": "终结技等级+2，最多不超过 <b><color style='color:#f29e38'>15</color></b> 级，普攻等级+1，最多不超过 <b><color style='color:#f29e38'>10</color></b> 级。",
+                "EN": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>."
+            },
+            "Icon": "SkillIcon_1308_Ultra"
+        }
+    },
+    "130804": {
+        "v1": {
+            "Rank": 4,
+            "Name": {
+                "CH": "亘焰燎照镜中人",
+                "EN": "Shrined Fire for Mirrored Soul"
+            },
+            "Desc": {
+                "CH": "施放终结技时，使敌方全体陷入终结技伤害易伤状态，受到的终结技伤害提高 <b><color style='color:#f29e38'>12.0%</color></b> ，持续 <b><color style='color:#f29e38'>2.0</color></b> 回合。",
+                "EN": "When using the Ultimate, inflicts Ultimate DMG Vulnerability to all enemies, increasing the Ultimate DMG taken by <b><color style='color:#f29e38'>12.0%</color></b>, lasting for <b><color style='color:#f29e38'>2.0</color></b> turn(s)."
+            },
+            "Icon": "SkillIcon_1308_Rank4"
+        }
+    },
+    "130805": {
+        "v1": {
+            "Rank": 5,
+            "Name": {
+                "CH": "崇岩支离，千身飘零",
+                "EN": "Strewn Souls on Erased Earths"
+            },
+            "Desc": {
+                "CH": "战技等级+2，最多不超过 <b><color style='color:#f29e38'>15</color></b> 级，天赋等级+2，最多不超过 <b><color style='color:#f29e38'>15</color></b> 级。",
+                "EN": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>."
+            },
+            "Icon": "SkillIcon_1308_BP"
+        }
+    },
+    "130806": {
+        "v1": {
+            "Rank": 6,
+            "Name": {
+                "CH": "灾咎解桎梏",
+                "EN": "Apocalypse, the Emancipator"
+            },
+            "Desc": {
+                "CH": "终结技的暴击伤害提高 <b><color style='color:#f29e38'>60.0%</color></b> ，黄泉施放普攻、战技造成的伤害同时视为终结技伤害。",
+                "EN": "The Ultimate's CRIT DMG increases by <b><color style='color:#f29e38'>60.0%</color></b>, and the DMG from Acheron's Basic ATK and Skill will also be considered as Ultimate DMG."
+            },
+            "Icon": "SkillIcon_1308_Rank6"
         }
     }
 }
@@ -68957,6 +71569,244 @@ var _voice = {
 
 var _weapon = [
     {
+        "_id": 23024,
+        "Name": {
+            "CH": "行于流逝的岸",
+            "EN": "Along the Passing Shore"
+        },
+        "Desc": {
+            "CH": "流淌于「有」与「无」的狭间，冰冷的潮水永世冲刷着两岸，将一切带向最终的归宿。<br><br>溺水者于此间呼救，哀歌、欢乐、甜蜜、痛苦倒影其中…她无法经受，却可体会——<br>在抵达尽头之前，仍有许多路要走，许多声音要倾听，许多事情可去改变。<br><br>她伸出手，将溺水者从虚无的诱惑中救出，一个又一个幻影在她身后破碎。<br>她继续行着，在这无垠的世间，为了一个不存在的终点。<br><br>——而这里永远下着雨。",
+            "EN": "Flowing in the narrow border between \"existence\" and \"nothingness,\" the ice-cold tides eternally lap against the shores and bring all things to their final end.<br><br>In this place, the drowned ask for help, lament with songs, find their happiness, enjoy sweet moments, and suffer great agony... All these are reflected in the water. She cannot experience these, but she can feel them —<br>There are still many roads to walk, many sounds to listen to, and many things to change before she arrives at the end.<br><br>She reaches out and saves the drowning from the temptations of Nihility, and one mirage after another bursts apart behind her figure.<br>She keeps walking in this boundless world, all for an end that does not exist.<br><br>— And it's always raining here."
+        },
+        "Rarity": 5,
+        "Path": "Nihility",
+        "Skill": 23024,
+        "Pic": "23024.png",
+        "Mat": [
+            114003,
+            110223
+        ],
+        "Stats": [
+            {
+                "HP": [
+                    48.0,
+                    7.2
+                ],
+                "ATK": [
+                    28.8,
+                    4.32
+                ],
+                "DEF": [
+                    18.0,
+                    2.7
+                ]
+            },
+            {
+                "HP": [
+                    105.6,
+                    7.2
+                ],
+                "ATK": [
+                    63.36,
+                    4.32
+                ],
+                "DEF": [
+                    39.6,
+                    2.7
+                ]
+            },
+            {
+                "HP": [
+                    182.4,
+                    7.2
+                ],
+                "ATK": [
+                    109.44,
+                    4.32
+                ],
+                "DEF": [
+                    68.4,
+                    2.7
+                ]
+            },
+            {
+                "HP": [
+                    259.2,
+                    7.2
+                ],
+                "ATK": [
+                    155.52,
+                    4.32
+                ],
+                "DEF": [
+                    97.2,
+                    2.7
+                ]
+            },
+            {
+                "HP": [
+                    336.0,
+                    7.2
+                ],
+                "ATK": [
+                    201.6,
+                    4.32
+                ],
+                "DEF": [
+                    126.0,
+                    2.7
+                ]
+            },
+            {
+                "HP": [
+                    412.8,
+                    7.2
+                ],
+                "ATK": [
+                    247.68,
+                    4.32
+                ],
+                "DEF": [
+                    154.8,
+                    2.7
+                ]
+            },
+            {
+                "HP": [
+                    489.6,
+                    7.2
+                ],
+                "ATK": [
+                    293.76,
+                    4.32
+                ],
+                "DEF": [
+                    183.6,
+                    2.7
+                ]
+            }
+        ]
+    },
+    {
+        "_id": 23023,
+        "Name": {
+            "CH": "命运从未公平",
+            "EN": "Inherently Unjust Destiny"
+        },
+        "Desc": {
+            "CH": "最后一张牌摊开，沮丧，愤怒，无奈，镇静，百千钟情绪瞬间浮现于对手们的脸。<br>「来都来了，何不再刺激一点？」 <br>他押上所有筹码，自认倒霉者咒骂着退出，暗自期待他的大败。<br><br>输赢、声名、运气…他并不在在意，他只是痴迷于那令生命颤抖的时刻——<br>在深渊与天堂之间，只有一个选择的距离。<br><br>筹码掷下，哀叹声起，如这般虚幻的满足在尘埃落定后转瞬即逝。<br>「所有，或一无所有，但我并无选择的自由……」",
+            "EN": "With the final card revealed, despondency, rage, helplessness, calm... Thousands of emotions immediately emerge from the faces of his opponents.<br>\"Since we're already here, why don't we make everything more exciting?\"<br>He puts in all his chips. Those who have accepted their losses leave the table while muttering curses, secretly hoping that he would lose.<br><br>Victories, reputation, luck... He had never cared for any of that. He's only drunk on the moment that makes his very life quiver —<br>Hell is only one decision away from heaven.<br><br>The chips are cast as lamentations ring out, dissipating in an instant when the dust finally settles, just like this illusory sense of satisfaction.<br>\"To have everything, or to lose everything, yet I have no power to choose...\""
+        },
+        "Rarity": 5,
+        "Path": "Preservation",
+        "Skill": 23023,
+        "Pic": "23023.png",
+        "Mat": [
+            114013,
+            110213
+        ],
+        "Stats": [
+            {
+                "HP": [
+                    48.0,
+                    7.2
+                ],
+                "ATK": [
+                    19.2,
+                    2.88
+                ],
+                "DEF": [
+                    30.0,
+                    4.5
+                ]
+            },
+            {
+                "HP": [
+                    105.6,
+                    7.2
+                ],
+                "ATK": [
+                    42.24,
+                    2.88
+                ],
+                "DEF": [
+                    66.0,
+                    4.5
+                ]
+            },
+            {
+                "HP": [
+                    182.4,
+                    7.2
+                ],
+                "ATK": [
+                    72.96,
+                    2.88
+                ],
+                "DEF": [
+                    114.0,
+                    4.5
+                ]
+            },
+            {
+                "HP": [
+                    259.2,
+                    7.2
+                ],
+                "ATK": [
+                    103.68,
+                    2.88
+                ],
+                "DEF": [
+                    162.0,
+                    4.5
+                ]
+            },
+            {
+                "HP": [
+                    336.0,
+                    7.2
+                ],
+                "ATK": [
+                    134.4,
+                    2.88
+                ],
+                "DEF": [
+                    210.0,
+                    4.5
+                ]
+            },
+            {
+                "HP": [
+                    412.8,
+                    7.2
+                ],
+                "ATK": [
+                    165.12,
+                    2.88
+                ],
+                "DEF": [
+                    258.0,
+                    4.5
+                ]
+            },
+            {
+                "HP": [
+                    489.6,
+                    7.2
+                ],
+                "ATK": [
+                    195.84,
+                    2.88
+                ],
+                "DEF": [
+                    306.0,
+                    4.5
+                ]
+            }
+        ]
+    },
+    {
         "_id": 23022,
         "Name": {
             "CH": "重塑时光之忆",
@@ -72408,6 +75258,125 @@ var _weapon = [
         ]
     },
     {
+        "_id": 21043,
+        "Name": {
+            "CH": "两个人的演唱会",
+            "EN": "Concert for Two"
+        },
+        "Desc": {
+            "CH": "「哥哥，这是……」 <br>「好久没有快乐地唱过歌了吧…我为你搭了一座舞台，就是…有点简陋。」 <br>「可老师觉得我不适合……」 <br>「不，我觉得很好听！以后你一定会实现自己的梦想，站在更大的舞台上歌唱……」 <br>……<br><br>许多年之后，她站在璀璨的舞台上，望着底下汹涌的粉丝，却失神了片刻——<br>在漫长的追梦路上，她总会想起那道信任的目光，和自己的第一场「演唱会」。<br>没有绚丽的灯光，没有华美的妆造，有的只是一个孩子为了鼓励另一个孩子追求梦想而搭建起的舞台。<br><br>「如今，我们的梦都实现了。但…那还是属于『我们』的梦吗……」 <br>她握紧了话筒。在下一首歌开始之前，她甚至来不及感到悲伤。",
+            "EN": "\"Big brother, what's this...\"<br>\"It's been a long time since you sang with joy... I set up a stage for you. It's just... a bit simple.\"<br>\"But the teacher thinks I'm not suited for...\"<br>\"No, I think you sound great! In the future, your dreams will definitely come true, and you will perform on a bigger stage...\"<br>...<br><br>Many years later, she stood on a dazzling stage, looking at the surging fans below, but lost herself for a moment...<br>On the long journey of chasing dreams, she would always remember that trusting gaze and her first \"concert.\"<br>No glamorous lights, no elaborate makeup, just a child building a stage to encourage another child to pursue their dreams.<br><br>\"Now, our dreams have come true. But... are they still 'our' dreams?\"<br>She gripped the microphone. Before the next song began, she didn't even have time to feel sadness."
+        },
+        "Rarity": 4,
+        "Path": "Preservation",
+        "Skill": 21043,
+        "Pic": "21043.png",
+        "Mat": [
+            114013,
+            110213
+        ],
+        "Stats": [
+            {
+                "HP": [
+                    38.4,
+                    5.76
+                ],
+                "ATK": [
+                    16.8,
+                    2.52
+                ],
+                "DEF": [
+                    24.0,
+                    3.6
+                ]
+            },
+            {
+                "HP": [
+                    84.48,
+                    5.76
+                ],
+                "ATK": [
+                    36.96,
+                    2.52
+                ],
+                "DEF": [
+                    52.8,
+                    3.6
+                ]
+            },
+            {
+                "HP": [
+                    145.92,
+                    5.76
+                ],
+                "ATK": [
+                    63.84,
+                    2.52
+                ],
+                "DEF": [
+                    91.2,
+                    3.6
+                ]
+            },
+            {
+                "HP": [
+                    207.36,
+                    5.76
+                ],
+                "ATK": [
+                    90.72,
+                    2.52
+                ],
+                "DEF": [
+                    129.6,
+                    3.6
+                ]
+            },
+            {
+                "HP": [
+                    268.8,
+                    5.76
+                ],
+                "ATK": [
+                    117.6,
+                    2.52
+                ],
+                "DEF": [
+                    168.0,
+                    3.6
+                ]
+            },
+            {
+                "HP": [
+                    330.24,
+                    5.76
+                ],
+                "ATK": [
+                    144.48,
+                    2.52
+                ],
+                "DEF": [
+                    206.4,
+                    3.6
+                ]
+            },
+            {
+                "HP": [
+                    391.68,
+                    5.76
+                ],
+                "ATK": [
+                    171.36,
+                    2.52
+                ],
+                "DEF": [
+                    244.8,
+                    3.6
+                ]
+            }
+        ]
+    },
+    {
         "_id": 21042,
         "Name": {
             "CH": "铭记于心的约定",
@@ -73248,7 +76217,7 @@ var _weapon = [
         },
         "Desc": {
             "CH": "<i>「倘若所有的钟表都在指示错误的时刻……」</i><br><i>「倘若许下承诺的人以背誓完成诺言……」</i><br><i>「倘若沉入幻梦之人从未真正睡着……」</i><br><i>「倘若死者活着归来，发现姓名已被剥夺……」</i><br><br><i>「倘若…倘若……」</i><br>他吹灭火焰，黑暗中只余时钟永不停歇地滴答作响。",
-            "EN": "<i>\"Suppose if all the clocks are displaying the wrong time...\"</i><br><i>\"If those bound to promises fulfilled their vows through betrayal...\"</i><br><i>\"If those who sink into the realm of dreams never truly fell asleep...\"</i><br><i>\"If the dead return to life, only to discover their names have been stripped...\"</i><br><br><i>\"If... if...\"</i><br>He blows out the flame, and in darkness, there is but the eternal ticking of the timepiece."
+            "EN": "<i>\"If all the clocks are displaying the wrong time...\"</i><br><i>\"If those bound to promises fulfilled their vows through betrayal...\"</i><br><i>\"If those who sink into the realm of dreams never truly fell asleep...\"</i><br><i>\"If the dead return to life, only to discover their names have been stripped...\"</i><br><br><i>\"If... if...\"</i><br>He blows out the flame, and in darkness, there is but the eternal ticking of the timepiece."
         },
         "Rarity": 4,
         "Path": "Abundance",
@@ -81327,115 +84296,52 @@ var _weaponskill = {
                 }
             ]
         }
+    },
+    "23023": {
+        "v1": {
+            "Name": {
+                "CH": "全下",
+                "EN": "All-In"
+            },
+            "Desc": [
+                {
+                    "CH": "使装备者的防御力提高 <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>54.0%</color> / <color style='color:#f29e38;'>60.0%</color> ，当装备者为我方目标提供护盾时，使装备者的暴击伤害提高 <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>46.0%</color> / <color style='color:#f29e38;'>52.0%</color> / <color style='color:#f29e38;'>58.0%</color> / <color style='color:#f29e38;'>64.0%</color> ，持续 <b>2.0</b> 回合。当装备者发动追加攻击时，有 <b>100.0%</b> 的基础概率使受到攻击的敌方目标受到的伤害提高 <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>11.0%</color> / <color style='color:#f29e38;'>12.0%</color> ，持续 <b>2.0</b> 回合。",
+                    "EN": "Increases the wearer's DEF by <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>54.0%</color> / <color style='color:#f29e38;'>60.0%</color> . When the wearer provides a Shield to an ally, the wearer's CRIT DMG increases by <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>46.0%</color> / <color style='color:#f29e38;'>52.0%</color> / <color style='color:#f29e38;'>58.0%</color> / <color style='color:#f29e38;'>64.0%</color> , lasting for <b>2.0</b> turn(s). When the wearer uses a follow-up attack, there is a <b>100.0%</b> base chance to increase the DMG taken by the attacked enemy by <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>11.0%</color> / <color style='color:#f29e38;'>12.0%</color> , lasting for <b>2.0</b> turn(s)."
+                }
+            ]
+        }
+    },
+    "23024": {
+        "v1": {
+            "Name": {
+                "CH": "司渡",
+                "EN": "Steerer"
+            },
+            "Desc": [
+                {
+                    "CH": "使装备者的暴击伤害提高 <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>54.0%</color> / <color style='color:#f29e38;'>60.0%</color> 。当装备者击中敌方目标时，有 <b>100%</b> 的基础概率使敌方陷入【泡影】状态，持续1回合。装备者每次攻击时，对每个目标只可触发1次。装备者对陷入【泡影】状态的目标造成的伤害提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> ，终结技造成的伤害额外提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> 。",
+                    "EN": "Increases the wearer's CRIT DMG by <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>54.0%</color> / <color style='color:#f29e38;'>60.0%</color> . When the wearer hits the enemy target, there is a <b>100%</b> base chance of inflicting Empty Bubbles to the enemy, lasting for 1 turn. This effect can be triggered 1 time against each target for every attack the wearer launches. The wearer deals <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color>  more DMG to targets afflicted with Empty Bubbles, and DMG from Ultimate additionally increases by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> ."
+                }
+            ]
+        }
+    },
+    "21043": {
+        "v1": {
+            "Name": {
+                "CH": "鼓舞",
+                "EN": "Inspire"
+            },
+            "Desc": [
+                {
+                    "CH": "使装备者的防御力提高 <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> 。场上每有一名持有护盾的角色，装备者造成的伤害提高 <color style='color:#f29e38;'>4.0%</color> / <color style='color:#f29e38;'>5.0%</color> / <color style='color:#f29e38;'>6.0%</color> / <color style='color:#f29e38;'>7.0%</color> / <color style='color:#f29e38;'>8.0%</color> 。",
+                    "EN": "Increases the wearer's DEF by <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> . For each character with a Shield on the field, the DMG dealt by the wearer increases by <color style='color:#f29e38;'>4.0%</color> / <color style='color:#f29e38;'>5.0%</color> / <color style='color:#f29e38;'>6.0%</color> / <color style='color:#f29e38;'>7.0%</color> / <color style='color:#f29e38;'>8.0%</color> ."
+                }
+            ]
+        }
     }
 }
 
 var _item = {
-    "112001": {
-        "Name": {
-            "CH": "铁卫扣饰",
-            "EN": "Silvermane Badge"
-        },
-        "Icon": "itemicon/112001.png"
-    },
-    "112002": {
-        "Name": {
-            "CH": "铁卫军徽",
-            "EN": "Silvermane Insignia"
-        },
-        "Icon": "itemicon/112002.png"
-    },
-    "112003": {
-        "Name": {
-            "CH": "铁卫勋章",
-            "EN": "Silvermane Medal"
-        },
-        "Icon": "itemicon/112003.png"
-    },
-    "112011": {
-        "Name": {
-            "CH": "古代零件",
-            "EN": "Ancient Part"
-        },
-        "Icon": "itemicon/112011.png"
-    },
-    "112012": {
-        "Name": {
-            "CH": "古代转轴",
-            "EN": "Ancient Spindle"
-        },
-        "Icon": "itemicon/112012.png"
-    },
-    "112013": {
-        "Name": {
-            "CH": "古代引擎",
-            "EN": "Ancient Engine"
-        },
-        "Icon": "itemicon/112013.png"
-    },
-    "110222": {
-        "Name": {
-            "CH": "星火之精",
-            "EN": "Starfire Essence"
-        },
-        "Icon": "itemicon/110222.png"
-    },
-    "110223": {
-        "Name": {
-            "CH": "焚天之魔",
-            "EN": "Heaven Incinerator"
-        },
-        "Icon": "itemicon/110223.png"
-    },
-    "110221": {
-        "Name": {
-            "CH": "炽情之灵",
-            "EN": "Fiery Spirit"
-        },
-        "Icon": "itemicon/110221.png"
-    },
-    "110231": {
-        "Name": {
-            "CH": "云际音符",
-            "EN": "Firmament Note"
-        },
-        "Icon": "itemicon/110231.png"
-    },
-    "110232": {
-        "Name": {
-            "CH": "空际小节",
-            "EN": "Celestial Section"
-        },
-        "Icon": "itemicon/110232.png"
-    },
-    "111001": {
-        "Name": {
-            "CH": "熄灭原核",
-            "EN": "Extinguished Core"
-        },
-        "Icon": "itemicon/111001.png"
-    },
-    "111002": {
-        "Name": {
-            "CH": "微光原核",
-            "EN": "Glimmering Core"
-        },
-        "Icon": "itemicon/111002.png"
-    },
-    "111003": {
-        "Name": {
-            "CH": "蠢动原核",
-            "EN": "Squirming Core"
-        },
-        "Icon": "itemicon/111003.png"
-    },
-    "110233": {
-        "Name": {
-            "CH": "天外乐章",
-            "EN": "Heavenly Melody"
-        },
-        "Icon": "itemicon/110233.png"
-    },
     "110111": {
         "Name": {
             "CH": "破碎残刃",
@@ -81457,48 +84363,6 @@ var _item = {
         },
         "Icon": "itemicon/110113.png"
     },
-    "111011": {
-        "Name": {
-            "CH": "掠夺的本能",
-            "EN": "Thief's Instinct"
-        },
-        "Icon": "itemicon/111011.png"
-    },
-    "111012": {
-        "Name": {
-            "CH": "篡改的野心",
-            "EN": "Usurper's Scheme"
-        },
-        "Icon": "itemicon/111012.png"
-    },
-    "110501": {
-        "Name": {
-            "CH": "毁灭者的末路",
-            "EN": "Destroyer's Final Road"
-        },
-        "Icon": "itemicon/110501.png"
-    },
-    "111013": {
-        "Name": {
-            "CH": "践踏的意志",
-            "EN": "Conqueror's Will"
-        },
-        "Icon": "itemicon/111013.png"
-    },
-    "110503": {
-        "Name": {
-            "CH": "无穷假身的遗恨",
-            "EN": "Regret of Infinite Ochema"
-        },
-        "Icon": "itemicon/110503.png"
-    },
-    "110502": {
-        "Name": {
-            "CH": "守护者的悲愿",
-            "EN": "Guardian's Lament"
-        },
-        "Icon": "itemicon/110502.png"
-    },
     "110121": {
         "Name": {
             "CH": "猎兽之矢",
@@ -81519,13 +84383,6 @@ var _item = {
             "EN": "Arrow of the Starchaser"
         },
         "Icon": "itemicon/110123.png"
-    },
-    "110504": {
-        "Name": {
-            "CH": "蛀星孕灾的旧恶",
-            "EN": "Past Evils of the Borehole Planet Disaster"
-        },
-        "Icon": "itemicon/110504.png"
     },
     "110131": {
         "Name": {
@@ -81568,6 +84425,174 @@ var _item = {
             "EN": "Safeguard of Amber"
         },
         "Icon": "itemicon/110143.png"
+    },
+    "110151": {
+        "Name": {
+            "CH": "黯淡黑曜",
+            "EN": "Obsidian of Dread"
+        },
+        "Icon": "itemicon/110151.png"
+    },
+    "110152": {
+        "Name": {
+            "CH": "虚空黑曜",
+            "EN": "Obsidian of Desolation"
+        },
+        "Icon": "itemicon/110152.png"
+    },
+    "110153": {
+        "Name": {
+            "CH": "沉沦黑曜",
+            "EN": "Obsidian of Obsession"
+        },
+        "Icon": "itemicon/110153.png"
+    },
+    "110161": {
+        "Name": {
+            "CH": "谐乐小调",
+            "EN": "Harmonic Tune"
+        },
+        "Icon": "itemicon/110161.png"
+    },
+    "110162": {
+        "Name": {
+            "CH": "家族颂歌",
+            "EN": "Ancestral Hymn"
+        },
+        "Icon": "itemicon/110162.png"
+    },
+    "110163": {
+        "Name": {
+            "CH": "群星乐章",
+            "EN": "Stellaris Symphony"
+        },
+        "Icon": "itemicon/110163.png"
+    },
+    "110171": {
+        "Name": {
+            "CH": "丰饶之种",
+            "EN": "Seed of Abundance"
+        },
+        "Icon": "itemicon/110171.png"
+    },
+    "110172": {
+        "Name": {
+            "CH": "生命之芽",
+            "EN": "Sprout of Life"
+        },
+        "Icon": "itemicon/110172.png"
+    },
+    "110173": {
+        "Name": {
+            "CH": "永恒之花",
+            "EN": "Flower of Eternity"
+        },
+        "Icon": "itemicon/110173.png"
+    },
+    "110181": {
+        "Name": {
+            "CH": "步离犬牙",
+            "EN": "Borisin Teeth"
+        },
+        "Icon": "itemicon/110181.png"
+    },
+    "110182": {
+        "Name": {
+            "CH": "狼毒锯牙",
+            "EN": "Lupitoxin Sawteeth"
+        },
+        "Icon": "itemicon/110182.png"
+    },
+    "110183": {
+        "Name": {
+            "CH": "月狂獠牙",
+            "EN": "Moon Madness Fang"
+        },
+        "Icon": "itemicon/110183.png"
+    },
+    "110211": {
+        "Name": {
+            "CH": "散逸星砂",
+            "EN": "Scattered Stardust"
+        },
+        "Icon": "itemicon/110211.png"
+    },
+    "110212": {
+        "Name": {
+            "CH": "流星棱晶",
+            "EN": "Crystal Meteorites"
+        },
+        "Icon": "itemicon/110212.png"
+    },
+    "110213": {
+        "Name": {
+            "CH": "神体琥珀",
+            "EN": "Divine Amber"
+        },
+        "Icon": "itemicon/110213.png"
+    },
+    "110221": {
+        "Name": {
+            "CH": "炽情之灵",
+            "EN": "Fiery Spirit"
+        },
+        "Icon": "itemicon/110221.png"
+    },
+    "110222": {
+        "Name": {
+            "CH": "星火之精",
+            "EN": "Starfire Essence"
+        },
+        "Icon": "itemicon/110222.png"
+    },
+    "110223": {
+        "Name": {
+            "CH": "焚天之魔",
+            "EN": "Heaven Incinerator"
+        },
+        "Icon": "itemicon/110223.png"
+    },
+    "110231": {
+        "Name": {
+            "CH": "云际音符",
+            "EN": "Firmament Note"
+        },
+        "Icon": "itemicon/110231.png"
+    },
+    "110232": {
+        "Name": {
+            "CH": "空际小节",
+            "EN": "Celestial Section"
+        },
+        "Icon": "itemicon/110232.png"
+    },
+    "110233": {
+        "Name": {
+            "CH": "天外乐章",
+            "EN": "Heavenly Melody"
+        },
+        "Icon": "itemicon/110233.png"
+    },
+    "110241": {
+        "Name": {
+            "CH": "异木种籽",
+            "EN": "Alien Tree Seed"
+        },
+        "Icon": "itemicon/110241.png"
+    },
+    "110242": {
+        "Name": {
+            "CH": "滋长花蜜",
+            "EN": "Nourishing Honey"
+        },
+        "Icon": "itemicon/110242.png"
+    },
+    "110243": {
+        "Name": {
+            "CH": "万相果实",
+            "EN": "Myriad Fruit"
+        },
+        "Icon": "itemicon/110243.png"
     },
     "110400": {
         "Name": {
@@ -81625,27 +84650,6 @@ var _item = {
         },
         "Icon": "itemicon/110407.png"
     },
-    "110152": {
-        "Name": {
-            "CH": "虚空黑曜",
-            "EN": "Obsidian of Desolation"
-        },
-        "Icon": "itemicon/110152.png"
-    },
-    "110153": {
-        "Name": {
-            "CH": "沉沦黑曜",
-            "EN": "Obsidian of Obsession"
-        },
-        "Icon": "itemicon/110153.png"
-    },
-    "110151": {
-        "Name": {
-            "CH": "黯淡黑曜",
-            "EN": "Obsidian of Dread"
-        },
-        "Icon": "itemicon/110151.png"
-    },
     "110411": {
         "Name": {
             "CH": "幽府通令",
@@ -81688,40 +84692,12 @@ var _item = {
         },
         "Icon": "itemicon/110416.png"
     },
-    "110161": {
-        "Name": {
-            "CH": "谐乐小调",
-            "EN": "Harmonic Tune"
-        },
-        "Icon": "itemicon/110161.png"
-    },
-    "110162": {
-        "Name": {
-            "CH": "家族颂歌",
-            "EN": "Ancestral Hymn"
-        },
-        "Icon": "itemicon/110162.png"
-    },
-    "110163": {
-        "Name": {
-            "CH": "群星乐章",
-            "EN": "Stellaris Symphony"
-        },
-        "Icon": "itemicon/110163.png"
-    },
     "110417": {
         "Name": {
             "CH": "镇灵敕符",
             "EN": "Suppressing Edict"
         },
         "Icon": "itemicon/110417.png"
-    },
-    "114003": {
-        "Name": {
-            "CH": "造梦马达",
-            "EN": "Dream Making Engine"
-        },
-        "Icon": "itemicon/114003.png"
     },
     "114002": {
         "Name": {
@@ -81730,12 +84706,12 @@ var _item = {
         },
         "Icon": "itemicon/114002.png"
     },
-    "110423": {
+    "114003": {
         "Name": {
-            "CH": "冷藏梦箱",
-            "EN": "Dream Fridge"
+            "CH": "造梦马达",
+            "EN": "Dream Making Engine"
         },
-        "Icon": "itemicon/110423.png"
+        "Icon": "itemicon/114003.png"
     },
     "114001": {
         "Name": {
@@ -81744,47 +84720,26 @@ var _item = {
         },
         "Icon": "itemicon/114001.png"
     },
+    "110422": {
+        "Name": {
+            "CH": "忿火之心",
+            "EN": "Raging Heart"
+        },
+        "Icon": "itemicon/110422.png"
+    },
+    "110423": {
+        "Name": {
+            "CH": "冷藏梦箱",
+            "EN": "Dream Fridge"
+        },
+        "Icon": "itemicon/110423.png"
+    },
     "110426": {
         "Name": {
             "CH": "炙梦喷枪",
             "EN": "Dream Flamer"
         },
         "Icon": "itemicon/110426.png"
-    },
-    "110171": {
-        "Name": {
-            "CH": "丰饶之种",
-            "EN": "Seed of Abundance"
-        },
-        "Icon": "itemicon/110171.png"
-    },
-    "110172": {
-        "Name": {
-            "CH": "生命之芽",
-            "EN": "Sprout of Life"
-        },
-        "Icon": "itemicon/110172.png"
-    },
-    "110173": {
-        "Name": {
-            "CH": "永恒之花",
-            "EN": "Flower of Eternity"
-        },
-        "Icon": "itemicon/110173.png"
-    },
-    "114013": {
-        "Name": {
-            "CH": "欲念碎镜",
-            "EN": "Shards of Desires"
-        },
-        "Icon": "itemicon/114013.png"
-    },
-    "114012": {
-        "Name": {
-            "CH": "印象残晶",
-            "EN": "Fragments of Impression"
-        },
-        "Icon": "itemicon/114012.png"
     },
     "114011": {
         "Name": {
@@ -81793,26 +84748,19 @@ var _item = {
         },
         "Icon": "itemicon/114011.png"
     },
-    "110181": {
+    "114012": {
         "Name": {
-            "CH": "步离犬牙",
-            "EN": "Borisin Teeth"
+            "CH": "印象残晶",
+            "EN": "Fragments of Impression"
         },
-        "Icon": "itemicon/110181.png"
+        "Icon": "itemicon/114012.png"
     },
-    "110182": {
+    "114013": {
         "Name": {
-            "CH": "狼毒锯牙",
-            "EN": "Lupitoxin Sawteeth"
+            "CH": "欲念碎镜",
+            "EN": "Shards of Desires"
         },
-        "Icon": "itemicon/110182.png"
-    },
-    "110183": {
-        "Name": {
-            "CH": "月狂獠牙",
-            "EN": "Moon Madness Fang"
-        },
-        "Icon": "itemicon/110183.png"
+        "Icon": "itemicon/114013.png"
     },
     "113001": {
         "Name": {
@@ -81855,6 +84803,118 @@ var _item = {
             "EN": "Artifex's Gyreheart"
         },
         "Icon": "itemicon/113013.png"
+    },
+    "112001": {
+        "Name": {
+            "CH": "铁卫扣饰",
+            "EN": "Silvermane Badge"
+        },
+        "Icon": "itemicon/112001.png"
+    },
+    "112002": {
+        "Name": {
+            "CH": "铁卫军徽",
+            "EN": "Silvermane Insignia"
+        },
+        "Icon": "itemicon/112002.png"
+    },
+    "112003": {
+        "Name": {
+            "CH": "铁卫勋章",
+            "EN": "Silvermane Medal"
+        },
+        "Icon": "itemicon/112003.png"
+    },
+    "112011": {
+        "Name": {
+            "CH": "古代零件",
+            "EN": "Ancient Part"
+        },
+        "Icon": "itemicon/112011.png"
+    },
+    "112012": {
+        "Name": {
+            "CH": "古代转轴",
+            "EN": "Ancient Spindle"
+        },
+        "Icon": "itemicon/112012.png"
+    },
+    "112013": {
+        "Name": {
+            "CH": "古代引擎",
+            "EN": "Ancient Engine"
+        },
+        "Icon": "itemicon/112013.png"
+    },
+    "111001": {
+        "Name": {
+            "CH": "熄灭原核",
+            "EN": "Extinguished Core"
+        },
+        "Icon": "itemicon/111001.png"
+    },
+    "111002": {
+        "Name": {
+            "CH": "微光原核",
+            "EN": "Glimmering Core"
+        },
+        "Icon": "itemicon/111002.png"
+    },
+    "111003": {
+        "Name": {
+            "CH": "蠢动原核",
+            "EN": "Squirming Core"
+        },
+        "Icon": "itemicon/111003.png"
+    },
+    "111011": {
+        "Name": {
+            "CH": "掠夺的本能",
+            "EN": "Thief's Instinct"
+        },
+        "Icon": "itemicon/111011.png"
+    },
+    "111012": {
+        "Name": {
+            "CH": "篡改的野心",
+            "EN": "Usurper's Scheme"
+        },
+        "Icon": "itemicon/111012.png"
+    },
+    "110501": {
+        "Name": {
+            "CH": "毁灭者的末路",
+            "EN": "Destroyer's Final Road"
+        },
+        "Icon": "itemicon/110501.png"
+    },
+    "111013": {
+        "Name": {
+            "CH": "践踏的意志",
+            "EN": "Conqueror's Will"
+        },
+        "Icon": "itemicon/111013.png"
+    },
+    "110503": {
+        "Name": {
+            "CH": "无穷假身的遗恨",
+            "EN": "Regret of Infinite Ochema"
+        },
+        "Icon": "itemicon/110503.png"
+    },
+    "110502": {
+        "Name": {
+            "CH": "守护者的悲愿",
+            "EN": "Guardian's Lament"
+        },
+        "Icon": "itemicon/110502.png"
+    },
+    "110504": {
+        "Name": {
+            "CH": "蛀星孕灾的旧恶",
+            "EN": "Past Evils of the Borehole Planet Disaster"
+        },
+        "Icon": "itemicon/110504.png"
     }
 }
 
@@ -81988,10 +85048,110 @@ var _camp = {
     "110": {
         "CH": "假面愚者",
         "EN": "Masked Fools"
+    },
+    "111": {
+        "CH": "巡海游侠",
+        "EN": "Galaxy Ranger"
+    },
+    "112": {
+        "CH": "自灭者",
+        "EN": "Self-Annihilator"
     }
 }
 
 var _relic = [
+    {
+        "_id": 314,
+        "Name": {
+            "CH": "出云显世与高天神国",
+            "EN": "Izumo Gensei and Takama Divine Realm"
+        },
+        "Icon": "71031.png",
+        "Skills": [
+            {
+                "CH": "使装备者的攻击力提高 <b>12.0%</b> 。进入战斗时，若至少存在一名与装备者命途相同的队友，装备者的暴击率提高 <b>12.0%</b> 。",
+                "EN": "Increases the wearer's ATK by <b>12.0%</b>. When entering battle, if at least one other ally follows the same Path as the wearer, then the wearer's CRIT Rate increases by <b>12.0%</b>."
+            }
+        ],
+        "Items": [
+            {
+                "Name": {
+                    "CH": "出云的祸津众神",
+                    "EN": "Izumo, Gods of Innumerable Misery"
+                },
+                "Desc": {
+                    "CH": "test_...",
+                    "EN": ""
+                },
+                "Story": {
+                    "CH": "test_...",
+                    "EN": ""
+                },
+                "Icon": "IconRelic_314_5.png"
+            },
+            {
+                "Name": {
+                    "CH": "出云的终始一刀",
+                    "EN": "Izumo, Blades of End and Beginning"
+                },
+                "Desc": {
+                    "CH": "test_...",
+                    "EN": ""
+                },
+                "Story": {
+                    "CH": "test_...",
+                    "EN": ""
+                },
+                "Icon": "IconRelic_314_6.png"
+            }
+        ]
+    },
+    {
+        "_id": 313,
+        "Name": {
+            "CH": "无主荒星茨冈尼亚",
+            "EN": "Sigonia, the Unclaimed Desolation"
+        },
+        "Icon": "71030.png",
+        "Skills": [
+            {
+                "CH": "当敌方目标被消灭时，装备者暴击伤害提高 <b>4.0%</b> ，最多叠加 <b>10.0</b> 次。",
+                "EN": "When enemies are defeated, the wearer's CRIT DMG increases by <b>4.0%</b>, up to <b>10.0</b> times."
+            }
+        ],
+        "Items": [
+            {
+                "Name": {
+                    "CH": "茨冈尼亚的母神卧榻",
+                    "EN": "Recliner of the Sigonian Mother-Goddess"
+                },
+                "Desc": {
+                    "CH": "位面封装的是茨冈尼亚-Ⅳ最宜居的地带——死寂荒漠「母神卧榻」。三重眼的地母神沉默而朴素，以其厚重的身躯无言地包罗茨冈尼亚的一切生者和死者。",
+                    "EN": "Sealed within this plane is the most habitable zone in Sigonia-IV — The desolate barren desert known as the Mother Goddess' Recliner. The silent and unassuming Gaiathra Triclops is silent and unadorned, and her immense and heavy torso quietly encompasses all the living and deceased in Sigonia."
+                },
+                "Story": {
+                    "CH": "谈及公司「市场开拓部」主管奥斯瓦尔多 · 施耐德，人们尤其喜欢讨论他上任时的三把火——年轻的狂信徒仅用短短两年就跨越了严寒、恶疾和死亡，解决了开拓部数个琥珀纪悬而未决的三大难题。名为茨冈尼亚-Ⅳ的荒星便是其中之一，那里死寂荒漠、氏族世仇…困境层出不穷。<br><br>茨冈尼亚-Ⅳ位于临近三大星系的交界地带，长期处于多颗恒星的星风作用下，是银河远近闻名的「暴风眼」。星球表面的生存环境极端恶劣，诸多文明因此或迁徙其他星系、或毁灭于自然灾害，如今只剩下极少量的智慧种族留存，博识学会的学者将其统称为茨冈尼亚人。<br><br>实际上茨冈尼亚人分化出诸多氏族，大多以游牧为生，其中少数还建立了颇具规模的集权政体。<br><br>他们同享一种语言，通过联觉信标的转译，你会知道「卡提卡」代表剥皮刀，是茨冈尼亚人里最嗜血的蛮族；「埃维金」的意思是蜂蜜，是各部族间最为人所不齿的窃贼。他们同享跨越琥珀纪的世仇，于无尽的荒原中上演着弱肉强食的血腥循环。直到身着黑衣的天外来客从天而降：身为猎物的埃维金人寻得了琥珀的庇护，无休止的猎杀游戏终于暂告一段落。<br><br>随后，在寰宇巨企的指导下，茨冈尼亚人依据《宪章》建立茨冈尼亚联合酋长国，向文明的宇宙迈出了第一步。<br><br>可惜这份团结和发展不属于埃维金人和卡提卡人。茨冈尼亚人对前者的机敏与狡猾心怀忌惮，而后者只是一群绝无可能开化的食人野兽。尽管茨冈尼亚人对「存护」尚且只有一知半解，但他们明白总得有人为之付出牺牲。于是，酋长们借助一种极为先进的议事规则，将两氏族的族人放逐于漫天黄沙中。<br><br>为表歉意，他们特地在决议案中声明「埃维金人永远享有自治自决的权利」——这句话的意思是，今后卡提卡人的屠刀再挥向埃维金人时，他们便可以合情合理合法地无动于衷了。",
+                    "EN": "When discussing Oswaldo Schneider, the head of the IPC's Marketing Development Department, people often focus on the decisive operations he undertook upon assuming the position. Within just two years, this young fanatic addressed three major longstanding issues that had plagued the Department for several Amber Eras despite the bitter cold, pestilence, and death that enveloped those conundrums. One of these challenges is the desolate planet known as Sigonia-IV, which is covered in barren deserts and scarred by clan vendettas... a place of endless difficulties and strife.<br><br>Situated near the convergence of three major star clusters, Sigonia-IV has long been subjected to stellar winds from multiple stars, earning its reputation as the \"eye of the storm\" throughout the Cosmos. The planet's surface environment is extremely harsh, leading many civilizations to either migrate to other celestial bodies or succumb to natural disasters. Now, only a small number of intelligent races remain there, referred to as Sigonians by scholars from the Intelligentsia Guild.<br><br>In reality, Sigonians have fragmented into numerous clans, with most adopting nomadic lifestyles, while a few have established centralized systems of governance of reasonable size.<br><br>They share a common language. Through the translation provided by the Synesthesia Beacon, you will learn that \"Katica\" means \"skinning knife,\" symbolizing the most savage and barbarous clan among Sigonians. On the other hand, \"Avgin\" means \"honey,\" representing the most notorious and despicable thieves among the clans. These clans share a vendetta that lasted through Amber Eras, performing a cycle of bloody vengeance in the boundless wilderness where only the fittest survive — Until mysterious figures clad in black descended from the sky. The Avgins, being the prey, received the Amber's protection, and the unending killing game finally reached a temporary ceasefire.<br><br>Afterward, under the IPC's guidance, the Sigonians established the Sigonian Sovereignty according to the Interstellar Peace Charter and took their first steps toward the civilized universe.<br><br>Unfortunately, this unity and progress did not extend to the Avgins and Katicans. Sigonians harbored fear regarding the former's resourcefulness and cunning while considering the latter to be nothing more than cannibalistic beasts. Although Sigonians possessed only limited knowledge about Preservation, they understood that some of them had to be sacrificed for it. Utilizing a highly advanced set of parliamentary rules, the chiefs banished both clans to the endless desert.<br><br>As a token of apology, they affirmed that \"the Avgins would eternally retain the right of autonomy\" — In other words, they could legitimately and lawfully remain silent when the Katicans' butcher knives were ever turned against the Avgins once more in the future."
+                },
+                "Icon": "IconRelic_313_5.png"
+            },
+            {
+                "Name": {
+                    "CH": "茨冈尼亚的轮回纽结",
+                    "EN": "Sigonia's Knot of Cyclicality"
+                },
+                "Desc": {
+                    "CH": "绿松陨石被埃维金人细细磋磨，又以金线翠缎穿之。他们说护身的纽结绝不应被黄沙埋没，而要璀璨得如同「卡卡瓦」之夜里自死亡中脱胎的神体。",
+                    "EN": "Sigonian calameteorites are meticulously polished and shaped, then strung together with gold threads and viridescent silk by the Avgins. They believe that these protective knots must not be buried in the sand, but should radiate like the Mother Goddess' divine body reborn from death on the night of Kakava."
+                },
+                "Story": {
+                    "CH": "埃维金，茨冈尼亚语中意为「蜂蜜」——这是一种约定俗成的蔑称，用以强调埃维金人钻营取巧、口蜜腹剑的天性。<br><br>正所谓空穴来风：埃维金人天生拥有姣好面容和绚丽双眸，加之近乎妖术的高情商，非常擅长博取陌生人的好感。这种天赋使他们周旋于各大氏族及人群之间，轻松获得所需的一切——只是手段大多不太合法。如今，埃维金人多以走私者、偷渡犯、骗子、赌徒、小偷、强盗、交际花的形象为全宇宙所知。<br><br>埃维金人喜爱花纹繁复的织物，也偏爱宝玉——尤其是茨冈尼亚绿松陨石——打造的首饰。理由很简单，只有这种宝石才能与他们神话中的地母神自死亡中脱胎的神体媲美。<br><br>他们的母神被称为「芬戈-比约斯」，执掌与生育、旅途与诡计有关的一切。在埃维金人的信仰中，她通常被描绘为生有三只眼睛的左掌。埃维金人通常仅以口头祈祷的方式向她表示敬意，他们相信母神如茨冈尼亚的群山一样沉默且朴素，造像和赞歌只会使自身远离她的庇护。<br><br>埃维金人通过母神体认世界：大地、群山与其包罗的一切都属于母神神体的一部分，而这尊神体会在每一历年的最后一天迎来死亡。<br><br>最后一天里，光辉的神性将升入夜空，化作灿烂的极光，并在次日重新诞生。因此，埃维金人在新历年的第一天举办名为「卡卡瓦」的祭典，编织名为「轮回纽结」的祭器，将其投入篝火，欢庆母神诞辰。<br><br>市场开拓部在事故报告中表示，那场导致了埃维金全部族人丧生的第二次惨剧就发生在「卡卡瓦」之夜：那夜风雨交加，云雾吞没了天上的极光，本应视之为噩兆的埃维金人却前所未有地振奋。他向一位氏族少女问起原因，随后得到了这样的回答——<br><br>「雨水是母神的恩赐。这是她在召唤我们，要我们举起武器，为自己的未来而战。<br>「雨会长伴我们，雨会保佑我们。在雨中，我们要光荣地死去。」",
+                    "EN": "\"Avgin\" means \"honey\" in the Sigonian language. This is a commonplace derogatory term emphasizing the cunning, persuasive, and treacherous nature of the Avgins.<br><br>This perception is not entirely baseless, as the Avgins possess naturally appealing features, captivating eyes, and exceptional emotional intelligence borderline that of sorcery, enabling them to easily win the favor of strangers. This inborn talent helps them to navigate between major clans and ethnic groups, effortlessly obtaining whatever they desire — though mostly resorting to less-than-legal means. Nowadays, the Avgins has gained notoriety throughout the entire universe as smugglers, stowaways, swindlers, gamblers, thieves, robbers, and occasional social butterflies.<br><br>The Avgins exhibit a particular fondness for intricately patterned fabrics and are drawn to jewelry crafted from precious jade, with a special affinity for Sigonian Calameteorite. This gemstone is the only one capable of rivaling the resplendent divine body of Gaiathra Triclops in their mythology, who is believed to have been reborn from death.<br><br>Known as Fenge Biyos, their Mother Goddess reigns over all matters related to fertility, travels, and trickery. Depictions of the Mother Goddess in the Avgins' religion often portray her as a left palm adorned with three eyes. The Avgins primarily express reverence for her through spoken prayers alone, believing that the Mother Goddess is as silent and unassuming as the mountains of Sigonia, and that crafting statues or composing hymns for her would only create distance from her protective embrace.<br><br>The Avgins view the world through the body of the Mother Goddess — the earth, the mountains, and all that exists on the land are a part of the Mother Goddess' divine body. And at the end of each calendar year, her divine body will perish.<br><br>On that significant day, her divine essence ascends as a resplendent aurora in the night sky and is reborn in the following day. Hence, Avgins celebrate the first day of the new year through their grand festival called \"Kakava.\" During this festival, they weave sacrificial vessels known as \"Knots of Cyclicality\" and toss them into bonfires to commemorate the Great Goddess' birth.<br><br>According to the incident report from the Marketing Development Department, the second tragedy that claimed the lives of the entire Avgin clan occurred on the night of Kakava. Despite stormy winds and cloud-covered skies that swallowed up the light of the celestial auroras, the Avgins were more excited than ever even though such sights should generally regarded as ill omens. When questioned about this, a maiden from the clan provided the following response.<br><br>\"Rain is a gift from the Mother Goddess. She is calling to us, urging us to take up arms and fight for our future.\"<br>\"This rain will be accompanying us eternally and protecting us. We shall meet our honorable demise in the rain.\""
+                },
+                "Icon": "IconRelic_313_6.png"
+            }
+        ]
+    },
     {
         "_id": 312,
         "Name": {
@@ -82063,7 +85223,7 @@ var _relic = [
                 },
                 "Story": {
                     "CH": "苍穹帝国格拉默享有数万光年的广大疆域，远眺银河，雄心勃勃。在帝国最强盛的纪元里，格拉默的女皇，至尊无上的泰坦尼娅陛下建立恢宏的舰队，誓将文明硕果带往所有蛮荒的边境，令其领略帝国的仁慈，归于一统。<br><br>然而远征最终折戟沉沙，自天幕彼端，虫裔汹涌而来、无穷无尽。格拉默的军队抗击，失败，抗击，再失败…殖民地尽数失散，引以为傲的钢铁舰队接连沦陷。在生有复眼与鞘翅的群魔围攻之下，格拉默子民的呼告声被绝望淹没，苍穹从此支离破碎。<br><br>直到某一日，身披机械战甲的骑士从天而降，将铺天的蠹虫歼灭殆尽。银白的铁骑从此往返于帝国各个星区，跨越满目疮痍的疆土，抵挡覆灭星系的灾厄。他们宛如为对抗虫群而生的战士，无人知晓这些铁人面具下的真容，但他们的降临有如神明垂恩，令苍穹的曙光再现人间。在女皇的统率下，格拉默的铁骑兵团驰骋天际，终于遏阻敌潮，为帝国带来片刻喘息。<br><br>但在和世仇永无休止的战斗中，帝国变得越来越像自己的敌人——越来越多的铁骑飞上高空，一如虫潮来袭的那一日，将苍天遮蔽。人们投向女皇和骑士的视线，已然和对待虫群异类的恐惧目光毫无二致。也许终有一日，帝国会获得它想要的胜利。可是那一天，格拉默是否还是人类安憩的乐园？<br><br>在战火不熄的格拉默边境，铁骑兵团构成了最后的防线。战舰之上，沉默的骑士们身负使命，承载着整个帝国的希望，迎击淹没群星的敌潮。",
-                    "EN": "The Welkin Empire of Glamoth enjoyed a vast territory spanning tens of thousands of light-years, ambitiously setting its sight on the cosmos. At the height of the empire's power, Her Majesty Empress Titania built a magnificent fleet, vowing to bring the fruits of civilization to all the barbaric borders, allowing them a taste of the empire's benevolence in hopes of uniting them under one rule.<br><br>However, the expedition was eventually halted by endless waves of raging insectoids coming from beyond the sky. Glamoth's armies fought and failed, again and again... Colonies were scattered, and the proud iron fleet fell one after another. Beseiged by the monsters with compound eyes and sheathed wings, the cries of the people of Glamoth were drowned out by despair, and the Welkin Empire was shattered from then on.<br><br>Until one day knights clad in mechanical armor descended from the sky and wiped out the sun-swallowing Swarm. Since then, the silver-white iron knights have traveled to and from the various star systems in the empire, crossing the devastated territories and fighting back against the calamity that wiped out the galaxy. They were like warriors born to fight the Swarm. No one knew the faces lying beneath the masks of the Iron Calvary, but their arrival was like a gift from the gods, bringing the light of day back to the human world. Under the Empress' command, Glamoth's Iron Cavalry charged across the skies, finally stemming the tide of enemies and bringing a moment of respite to the empire.<br><br>But in the never-ending battle against their archenemy, the empire started becoming more and more like its adversary — more and more Iron Calvary flew high into the sky, blotting out the heavens just as the Swarm did on that fateful day. The look people cast on the Empress and the cavalry turned to one of fear, a fear akin to what they felt toward the Swarm. Perhaps one day the empire would attain the victory it so desired. But on that day, will Glamoth still be a paradise for humanity to rest in?<br><br>The Iron Cavalry Regiment formed the last line of defense at the border of Glamoth, where the battle raged on endlessly. Upon their warships, the silent knights bore a mission, carrying the hopes of the entire empire, and faced the tides of enemies drowning out the stars."
+                    "EN": "The Welkin Empire of Glamoth enjoyed a vast territory spanning tens of thousands of light-years, ambitiously setting its sight on the cosmos. At the height of the empire's power, Her Majesty Empress Titania built a magnificent fleet, vowing to bring the fruits of civilization to all the barbaric borders, allowing them a taste of the empire's benevolence in hopes of uniting them under one rule.<br><br>However, the expedition was eventually halted by endless waves of raging insectoids coming from beyond the sky. Glamoth's armies fought and failed, again and again... Colonies were scattered, and the proud iron fleet fell one after another. Besieged by the monsters with compound eyes and sheathed wings, the cries of the people of Glamoth were drowned out by despair, and the Welkin Empire was shattered from then on.<br><br>Until one day knights clad in mechanical armor descended from the sky and wiped out the sun-swallowing Swarm. Since then, the silver-white iron knights have traveled to and from the various star systems in the empire, crossing the devastated territories and fighting back against the calamity that wiped out the galaxy. They were like warriors born to fight the Swarm. No one knew the faces lying beneath the masks of the Iron Calvary, but their arrival was like a gift from the gods, bringing the light of day back to the human world. Under the Empress' command, Glamoth's Iron Cavalry charged across the skies, finally stemming the tide of enemies and bringing a moment of respite to the empire.<br><br>But in the never-ending battle against their archenemy, the empire started becoming more and more like its adversary — more and more Iron Calvary flew high into the sky, blotting out the heavens just as the Swarm did on that fateful day. The look people cast on the Empress and the cavalry turned to one of fear, a fear akin to what they felt toward the Swarm. Perhaps one day the empire would attain the victory it so desired. But on that day, will Glamoth still be a paradise for humanity to rest in?<br><br>The Iron Cavalry Regiment formed the last line of defense at the border of Glamoth, where the battle raged on endlessly. Upon their warships, the silent knights bore a mission, carrying the hopes of the entire empire, and faced the tides of enemies drowning out the stars."
                 },
                 "Icon": "IconRelic_311_5.png"
             },
@@ -83987,10 +87147,10 @@ var _relic = [
 ]
 
 var _search_avatar = {
-    "9001": 0,
+    "1301": 0,
     "加拉赫": 0,
     "GALLAGHER": 0,
-    "9002": 1,
+    "1304": 1,
     "砂金": 1,
     "AVENTURINE": 1,
     "1308": 2,
@@ -84134,376 +87294,391 @@ var _search_avatar = {
 }
 
 var _search_weapon = {
-    "23022": 0,
-    "重塑时光之忆": 0,
-    "REFORGEDREMEMBRANCE": 0,
-    "23021": 1,
-    "游戏尘寰": 1,
-    "EARTHLYESCAPADE": 1,
-    "23020": 2,
-    "纯粹思维的洗礼": 2,
-    "BAPTISMOFPURETHOUGHT": 2,
-    "23019": 3,
-    "镜中故我": 3,
-    "PASTSELFINMIRROR": 3,
-    "23018": 4,
-    "片刻，留在眼底": 4,
-    "ANINSTANTBEFOREAGAZE": 4,
-    "23017": 5,
-    "惊魂夜": 5,
-    "NIGHTOFFRIGHT": 5,
-    "23016": 6,
-    "烦恼着，幸福着": 6,
-    "WORRISOME,BLISSFUL": 6,
-    "23015": 7,
-    "比阳光更明亮的": 7,
-    "BRIGHTERTHANTHESUN": 7,
-    "23014": 8,
-    "此身为剑": 8,
-    "ISHALLBEMYOWNSWORD": 8,
-    "23013": 9,
-    "时节不居": 9,
-    "TIMEWAITSFORNOONE": 9,
-    "23012": 10,
-    "如泥酣眠": 10,
-    "SLEEPLIKETHEDEAD": 10,
-    "23011": 11,
-    "她已闭上双眼": 11,
-    "SHEALREADYSHUTHEREYES": 11,
-    "23010": 12,
-    "拂晓之前": 12,
-    "BEFOREDAWN": 12,
-    "23009": 13,
-    "到不了的彼岸": 13,
-    "THEUNREACHABLESIDE": 13,
-    "23008": 14,
-    "棺的回响": 14,
-    "ECHOESOFTHECOFFIN": 14,
-    "23007": 15,
-    "雨一直下": 15,
-    "INCESSANTRAIN": 15,
-    "23006": 16,
-    "只需等待": 16,
-    "PATIENCEISALLYOUNEED": 16,
-    "23005": 17,
-    "制胜的瞬间": 17,
-    "MOMENTOFVICTORY": 17,
-    "23004": 18,
-    "以世界之名": 18,
-    "INTHENAMEOFTHEWORLD": 18,
-    "23003": 19,
-    "但战斗还未结束": 19,
-    "BUTTHEBATTLEISNTOVER": 19,
-    "23002": 20,
-    "无可取代的东西": 20,
-    "SOMETHINGIRREPLACEABLE": 20,
-    "23001": 21,
-    "于夜色中": 21,
-    "INTHENIGHT": 21,
-    "23000": 22,
-    "银河铁道之夜": 22,
-    "NIGHTONTHEMILKYWAY": 22,
-    "24003": 23,
-    "孤独的疗愈": 23,
-    "SOLITARYHEALING": 23,
-    "24002": 24,
-    "记忆的质料": 24,
-    "TEXTUREOFMEMORIES": 24,
-    "24001": 25,
-    "星海巡航": 25,
-    "CRUISINGINTHESTELLARSEA": 25,
-    "24000": 26,
-    "记一位星神的陨落": 26,
-    "ONTHEFALLOFANAEON": 26,
-    "22001": 27,
-    "嘿，我在这儿": 27,
-    "HEY,OVERHERE": 27,
-    "22000": 28,
-    "新手任务开始前": 28,
-    "BEFORETHETUTORIALMISSIONSTARTS": 28,
-    "21042": 29,
-    "铭记于心的约定": 29,
-    "INDELIBLEPROMISE": 29,
-    "21041": 30,
-    "好戏开演": 30,
-    "ITSSHOWTIME": 30,
-    "21040": 31,
-    "银河沦陷日": 31,
-    "THEDAYTHECOSMOSFELL": 31,
-    "21039": 32,
-    "织造命运之线": 32,
-    "DESTINYSTHREADSFOREWOVEN": 32,
-    "21038": 33,
-    "在火的远处": 33,
-    "FLAMESAFAR": 33,
-    "21037": 34,
-    "最后的赢家": 34,
-    "FINALVICTOR": 34,
-    "21036": 35,
-    "美梦小镇大冒险": 35,
-    "DREAMVILLEADVENTURE": 35,
-    "21035": 36,
-    "何物为真": 36,
-    "WHATISREAL?": 36,
-    "21034": 37,
-    "今日亦是和平的一日": 37,
-    "TODAYISANOTHERPEACEFULDAY": 37,
-    "21033": 38,
-    "无处可逃": 38,
-    "NOWHERETORUN": 38,
-    "21032": 39,
-    "镂月裁云之意": 39,
-    "CARVETHEMOON,WEAVETHECLOUDS": 39,
-    "21031": 40,
-    "重返幽冥": 40,
-    "RETURNTODARKNESS": 40,
-    "21030": 41,
-    "这就是我啦！": 41,
-    "THISISME!": 41,
-    "21029": 42,
-    "后会有期": 42,
-    "WEWILLMEETAGAIN": 42,
-    "21028": 43,
-    "暖夜不会漫长": 43,
-    "WARMTHSHORTENSCOLDNIGHTS": 43,
-    "21027": 44,
-    "早餐的仪式感": 44,
-    "THESERIOUSNESSOFBREAKFAST": 44,
-    "21026": 45,
-    "汪！散步时间！": 45,
-    "WOOF!WALKTIME!": 45,
-    "21025": 46,
-    "过往未来": 46,
-    "PASTANDFUTURE": 46,
-    "21024": 47,
-    "春水初生": 47,
-    "RIVERFLOWSINSPRING": 47,
-    "21023": 48,
-    "我们是地火": 48,
-    "WEAREWILDFIRE": 48,
-    "21022": 49,
-    "延长记号": 49,
-    "FERMATA": 49,
-    "21021": 50,
-    "等价交换": 50,
-    "QUIDPROQUO": 50,
-    "21020": 51,
-    "天才们的休憩": 51,
-    "GENIUSESREPOSE": 51,
-    "21019": 52,
-    "在蓝天下": 52,
-    "UNDERTHEBLUESKY": 52,
-    "21018": 53,
-    "舞！舞！舞！": 53,
-    "DANCE!DANCE!DANCE!": 53,
-    "21017": 54,
-    "点个关注吧！": 54,
-    "SUBSCRIBEFORMORE!": 54,
-    "21016": 55,
-    "宇宙市场趋势": 55,
-    "TRENDOFTHEUNIVERSALMARKET": 55,
-    "21015": 56,
-    "决心如汗珠般闪耀": 56,
-    "RESOLUTIONSHINESASPEARLSOFSWEAT": 56,
-    "21014": 57,
-    "此时恰好": 57,
-    "PERFECTTIMING": 57,
-    "21013": 58,
-    "别让世界静下来": 58,
-    "MAKETHEWORLDCLAMOR": 58,
-    "21012": 59,
-    "秘密誓心": 59,
-    "ASECRETVOW": 59,
-    "21011": 60,
-    "与行星相会": 60,
-    "PLANETARYRENDEZVOUS": 60,
-    "21010": 61,
-    "论剑": 61,
-    "SWORDPLAY": 61,
-    "21009": 62,
-    "朗道的选择": 62,
-    "LANDAUSCHOICE": 62,
-    "21008": 63,
-    "猎物的视线": 63,
-    "EYESOFTHEPREY": 63,
-    "21007": 64,
-    "同一种心情": 64,
-    "SHAREDFEELING": 64,
-    "21006": 65,
-    "「我」的诞生": 65,
-    "THEBIRTHOFTHESELF": 65,
-    "21005": 66,
-    "鼹鼠党欢迎你": 66,
-    "THEMOLESWELCOMEYOU": 66,
-    "21004": 67,
-    "记忆中的模样": 67,
-    "MEMORIESOFTHEPAST": 67,
-    "21003": 68,
-    "唯有沉默": 68,
-    "ONLYSILENCEREMAINS": 68,
-    "21002": 69,
-    "余生的第一天": 69,
-    "DAYONEOFMYNEWLIFE": 69,
-    "21001": 70,
-    "晚安与睡颜": 70,
-    "GOODNIGHTANDSLEEPWELL": 70,
-    "21000": 71,
-    "一场术后对话": 71,
-    "POSTOPCONVERSATION": 71,
-    "20020": 72,
-    "睿见": 72,
-    "SAGACITY": 72,
-    "20019": 73,
-    "调和": 73,
-    "MEDIATION": 73,
-    "20018": 74,
-    "匿影": 74,
-    "HIDDENSHADOW": 74,
-    "20017": 75,
-    "开疆": 75,
-    "PIONEERING": 75,
-    "20016": 76,
-    "俱殁": 76,
-    "MUTUALDEMISE": 76,
-    "20015": 77,
-    "蕃息": 77,
-    "MULTIPLICATION": 77,
-    "20014": 78,
-    "相抗": 78,
-    "ADVERSARIAL": 78,
-    "20013": 79,
-    "灵钥": 79,
-    "PASSKEY": 79,
-    "20012": 80,
-    "轮契": 80,
-    "MESHINGCOGS": 80,
-    "20011": 81,
-    "渊环": 81,
-    "LOOP": 81,
-    "20010": 82,
-    "戍御": 82,
-    "DEFENSE": 82,
-    "20009": 83,
-    "乐圮": 83,
-    "SHATTEREDHOME": 83,
-    "20008": 84,
-    "嘉果": 84,
-    "FINEFRUIT": 84,
-    "20007": 85,
-    "离弦": 85,
-    "DARTINGARROW": 85,
-    "20006": 86,
-    "智库": 86,
-    "DATABANK": 86,
-    "20005": 87,
-    "齐颂": 87,
-    "CHORUS": 87,
-    "20004": 88,
-    "幽邃": 88,
-    "VOID": 88,
-    "20003": 89,
-    "琥珀": 89,
-    "AMBER": 89,
-    "20002": 90,
-    "天倾": 90,
-    "COLLAPSINGSKY": 90,
-    "20001": 91,
-    "物穰": 91,
-    "CORNUCOPIA": 91,
-    "20000": 92,
-    "锋镝": 92,
-    "ARROWS": 92
+    "23024": 0,
+    "行于流逝的岸": 0,
+    "ALONGTHEPASSINGSHORE": 0,
+    "23023": 1,
+    "命运从未公平": 1,
+    "INHERENTLYUNJUSTDESTINY": 1,
+    "23022": 2,
+    "重塑时光之忆": 2,
+    "REFORGEDREMEMBRANCE": 2,
+    "23021": 3,
+    "游戏尘寰": 3,
+    "EARTHLYESCAPADE": 3,
+    "23020": 4,
+    "纯粹思维的洗礼": 4,
+    "BAPTISMOFPURETHOUGHT": 4,
+    "23019": 5,
+    "镜中故我": 5,
+    "PASTSELFINMIRROR": 5,
+    "23018": 6,
+    "片刻，留在眼底": 6,
+    "ANINSTANTBEFOREAGAZE": 6,
+    "23017": 7,
+    "惊魂夜": 7,
+    "NIGHTOFFRIGHT": 7,
+    "23016": 8,
+    "烦恼着，幸福着": 8,
+    "WORRISOME,BLISSFUL": 8,
+    "23015": 9,
+    "比阳光更明亮的": 9,
+    "BRIGHTERTHANTHESUN": 9,
+    "23014": 10,
+    "此身为剑": 10,
+    "ISHALLBEMYOWNSWORD": 10,
+    "23013": 11,
+    "时节不居": 11,
+    "TIMEWAITSFORNOONE": 11,
+    "23012": 12,
+    "如泥酣眠": 12,
+    "SLEEPLIKETHEDEAD": 12,
+    "23011": 13,
+    "她已闭上双眼": 13,
+    "SHEALREADYSHUTHEREYES": 13,
+    "23010": 14,
+    "拂晓之前": 14,
+    "BEFOREDAWN": 14,
+    "23009": 15,
+    "到不了的彼岸": 15,
+    "THEUNREACHABLESIDE": 15,
+    "23008": 16,
+    "棺的回响": 16,
+    "ECHOESOFTHECOFFIN": 16,
+    "23007": 17,
+    "雨一直下": 17,
+    "INCESSANTRAIN": 17,
+    "23006": 18,
+    "只需等待": 18,
+    "PATIENCEISALLYOUNEED": 18,
+    "23005": 19,
+    "制胜的瞬间": 19,
+    "MOMENTOFVICTORY": 19,
+    "23004": 20,
+    "以世界之名": 20,
+    "INTHENAMEOFTHEWORLD": 20,
+    "23003": 21,
+    "但战斗还未结束": 21,
+    "BUTTHEBATTLEISNTOVER": 21,
+    "23002": 22,
+    "无可取代的东西": 22,
+    "SOMETHINGIRREPLACEABLE": 22,
+    "23001": 23,
+    "于夜色中": 23,
+    "INTHENIGHT": 23,
+    "23000": 24,
+    "银河铁道之夜": 24,
+    "NIGHTONTHEMILKYWAY": 24,
+    "24003": 25,
+    "孤独的疗愈": 25,
+    "SOLITARYHEALING": 25,
+    "24002": 26,
+    "记忆的质料": 26,
+    "TEXTUREOFMEMORIES": 26,
+    "24001": 27,
+    "星海巡航": 27,
+    "CRUISINGINTHESTELLARSEA": 27,
+    "24000": 28,
+    "记一位星神的陨落": 28,
+    "ONTHEFALLOFANAEON": 28,
+    "22001": 29,
+    "嘿，我在这儿": 29,
+    "HEY,OVERHERE": 29,
+    "22000": 30,
+    "新手任务开始前": 30,
+    "BEFORETHETUTORIALMISSIONSTARTS": 30,
+    "21043": 31,
+    "两个人的演唱会": 31,
+    "CONCERTFORTWO": 31,
+    "21042": 32,
+    "铭记于心的约定": 32,
+    "INDELIBLEPROMISE": 32,
+    "21041": 33,
+    "好戏开演": 33,
+    "ITSSHOWTIME": 33,
+    "21040": 34,
+    "银河沦陷日": 34,
+    "THEDAYTHECOSMOSFELL": 34,
+    "21039": 35,
+    "织造命运之线": 35,
+    "DESTINYSTHREADSFOREWOVEN": 35,
+    "21038": 36,
+    "在火的远处": 36,
+    "FLAMESAFAR": 36,
+    "21037": 37,
+    "最后的赢家": 37,
+    "FINALVICTOR": 37,
+    "21036": 38,
+    "美梦小镇大冒险": 38,
+    "DREAMVILLEADVENTURE": 38,
+    "21035": 39,
+    "何物为真": 39,
+    "WHATISREAL?": 39,
+    "21034": 40,
+    "今日亦是和平的一日": 40,
+    "TODAYISANOTHERPEACEFULDAY": 40,
+    "21033": 41,
+    "无处可逃": 41,
+    "NOWHERETORUN": 41,
+    "21032": 42,
+    "镂月裁云之意": 42,
+    "CARVETHEMOON,WEAVETHECLOUDS": 42,
+    "21031": 43,
+    "重返幽冥": 43,
+    "RETURNTODARKNESS": 43,
+    "21030": 44,
+    "这就是我啦！": 44,
+    "THISISME!": 44,
+    "21029": 45,
+    "后会有期": 45,
+    "WEWILLMEETAGAIN": 45,
+    "21028": 46,
+    "暖夜不会漫长": 46,
+    "WARMTHSHORTENSCOLDNIGHTS": 46,
+    "21027": 47,
+    "早餐的仪式感": 47,
+    "THESERIOUSNESSOFBREAKFAST": 47,
+    "21026": 48,
+    "汪！散步时间！": 48,
+    "WOOF!WALKTIME!": 48,
+    "21025": 49,
+    "过往未来": 49,
+    "PASTANDFUTURE": 49,
+    "21024": 50,
+    "春水初生": 50,
+    "RIVERFLOWSINSPRING": 50,
+    "21023": 51,
+    "我们是地火": 51,
+    "WEAREWILDFIRE": 51,
+    "21022": 52,
+    "延长记号": 52,
+    "FERMATA": 52,
+    "21021": 53,
+    "等价交换": 53,
+    "QUIDPROQUO": 53,
+    "21020": 54,
+    "天才们的休憩": 54,
+    "GENIUSESREPOSE": 54,
+    "21019": 55,
+    "在蓝天下": 55,
+    "UNDERTHEBLUESKY": 55,
+    "21018": 56,
+    "舞！舞！舞！": 56,
+    "DANCE!DANCE!DANCE!": 56,
+    "21017": 57,
+    "点个关注吧！": 57,
+    "SUBSCRIBEFORMORE!": 57,
+    "21016": 58,
+    "宇宙市场趋势": 58,
+    "TRENDOFTHEUNIVERSALMARKET": 58,
+    "21015": 59,
+    "决心如汗珠般闪耀": 59,
+    "RESOLUTIONSHINESASPEARLSOFSWEAT": 59,
+    "21014": 60,
+    "此时恰好": 60,
+    "PERFECTTIMING": 60,
+    "21013": 61,
+    "别让世界静下来": 61,
+    "MAKETHEWORLDCLAMOR": 61,
+    "21012": 62,
+    "秘密誓心": 62,
+    "ASECRETVOW": 62,
+    "21011": 63,
+    "与行星相会": 63,
+    "PLANETARYRENDEZVOUS": 63,
+    "21010": 64,
+    "论剑": 64,
+    "SWORDPLAY": 64,
+    "21009": 65,
+    "朗道的选择": 65,
+    "LANDAUSCHOICE": 65,
+    "21008": 66,
+    "猎物的视线": 66,
+    "EYESOFTHEPREY": 66,
+    "21007": 67,
+    "同一种心情": 67,
+    "SHAREDFEELING": 67,
+    "21006": 68,
+    "「我」的诞生": 68,
+    "THEBIRTHOFTHESELF": 68,
+    "21005": 69,
+    "鼹鼠党欢迎你": 69,
+    "THEMOLESWELCOMEYOU": 69,
+    "21004": 70,
+    "记忆中的模样": 70,
+    "MEMORIESOFTHEPAST": 70,
+    "21003": 71,
+    "唯有沉默": 71,
+    "ONLYSILENCEREMAINS": 71,
+    "21002": 72,
+    "余生的第一天": 72,
+    "DAYONEOFMYNEWLIFE": 72,
+    "21001": 73,
+    "晚安与睡颜": 73,
+    "GOODNIGHTANDSLEEPWELL": 73,
+    "21000": 74,
+    "一场术后对话": 74,
+    "POSTOPCONVERSATION": 74,
+    "20020": 75,
+    "睿见": 75,
+    "SAGACITY": 75,
+    "20019": 76,
+    "调和": 76,
+    "MEDIATION": 76,
+    "20018": 77,
+    "匿影": 77,
+    "HIDDENSHADOW": 77,
+    "20017": 78,
+    "开疆": 78,
+    "PIONEERING": 78,
+    "20016": 79,
+    "俱殁": 79,
+    "MUTUALDEMISE": 79,
+    "20015": 80,
+    "蕃息": 80,
+    "MULTIPLICATION": 80,
+    "20014": 81,
+    "相抗": 81,
+    "ADVERSARIAL": 81,
+    "20013": 82,
+    "灵钥": 82,
+    "PASSKEY": 82,
+    "20012": 83,
+    "轮契": 83,
+    "MESHINGCOGS": 83,
+    "20011": 84,
+    "渊环": 84,
+    "LOOP": 84,
+    "20010": 85,
+    "戍御": 85,
+    "DEFENSE": 85,
+    "20009": 86,
+    "乐圮": 86,
+    "SHATTEREDHOME": 86,
+    "20008": 87,
+    "嘉果": 87,
+    "FINEFRUIT": 87,
+    "20007": 88,
+    "离弦": 88,
+    "DARTINGARROW": 88,
+    "20006": 89,
+    "智库": 89,
+    "DATABANK": 89,
+    "20005": 90,
+    "齐颂": 90,
+    "CHORUS": 90,
+    "20004": 91,
+    "幽邃": 91,
+    "VOID": 91,
+    "20003": 92,
+    "琥珀": 92,
+    "AMBER": 92,
+    "20002": 93,
+    "天倾": 93,
+    "COLLAPSINGSKY": 93,
+    "20001": 94,
+    "物穰": 94,
+    "CORNUCOPIA": 94,
+    "20000": 95,
+    "锋镝": 95,
+    "ARROWS": 95
 }
 
 var _search_relic = {
-    "312": 0,
-    "梦想之地匹诺康尼": 0,
-    "PENACONY,LANDOFTHEDREAMS": 0,
-    "311": 1,
-    "苍穹战线格拉默": 1,
-    "FIRMAMENTFRONTLINE:GLAMOTH": 1,
-    "310": 2,
-    "折断的龙骨": 2,
-    "BROKENKEEL": 2,
-    "309": 3,
-    "繁星竞技场": 3,
-    "RUTILANTARENA": 3,
-    "308": 4,
-    "生命的翁瓦克": 4,
-    "SPRIGHTLYVONWACQ": 4,
-    "307": 5,
-    "盗贼公国塔利亚": 5,
-    "TALIA:KINGDOMOFBANDITRY": 5,
-    "306": 6,
-    "停转的萨尔索图": 6,
-    "INERTSALSOTTO": 6,
-    "305": 7,
-    "星体差分机": 7,
-    "CELESTIALDIFFERENTIATOR": 7,
-    "304": 8,
-    "筑城者的贝洛伯格": 8,
-    "BELOBOGOFTHEARCHITECTS": 8,
-    "303": 9,
-    "泛银河商业公司": 9,
-    "PANCOSMICCOMMERCIALENTERPRISE": 9,
-    "302": 10,
-    "不老者的仙舟": 10,
-    "FLEETOFTHEAGELESS": 10,
-    "301": 11,
-    "太空封印站": 11,
-    "SPACESEALINGSTATION": 11,
-    "118": 12,
-    "机心戏梦的钟表匠": 12,
-    "WATCHMAKER,MASTEROFDREAMMACHINATIONS": 12,
-    "117": 13,
-    "死水深潜的先驱": 13,
-    "PIONEERDIVEROFDEADWATERS": 13,
-    "116": 14,
-    "幽锁深牢的系囚": 14,
-    "PRISONERINDEEPCONFINEMENT": 14,
-    "115": 15,
-    "毁烬焚骨的大公": 15,
-    "THEASHBLAZINGGRANDDUKE": 15,
-    "114": 16,
-    "骇域漫游的信使": 16,
-    "MESSENGERTRAVERSINGHACKERSPACE": 16,
-    "113": 17,
-    "宝命长存的莳者": 17,
-    "LONGEVOUSDISCIPLE": 17,
-    "112": 18,
-    "盗匪荒漠的废土客": 18,
-    "WASTELANDEROFBANDITRYDESERT": 18,
-    "111": 19,
-    "流星追迹的怪盗": 19,
-    "THIEFOFSHOOTINGMETEOR": 19,
-    "110": 20,
-    "晨昏交界的翔鹰": 20,
-    "EAGLEOFTWILIGHTLINE": 20,
-    "109": 21,
-    "激奏雷电的乐队": 21,
-    "BANDOFSIZZLINGTHUNDER": 21,
-    "108": 22,
-    "繁星璀璨的天才": 22,
-    "GENIUSOFBRILLIANTSTARS": 22,
-    "107": 23,
-    "熔岩锻铸的火匠": 23,
-    "FIRESMITHOFLAVAFORGING": 23,
-    "106": 24,
-    "戍卫风雪的铁卫": 24,
-    "GUARDOFWUTHERINGSNOW": 24,
-    "105": 25,
-    "街头出身的拳王": 25,
-    "CHAMPIONOFSTREETWISEBOXING": 25,
-    "104": 26,
-    "密林卧雪的猎人": 26,
-    "HUNTEROFGLACIALFOREST": 26,
-    "103": 27,
-    "净庭教宗的圣骑士": 27,
-    "KNIGHTOFPURITYPALACE": 27,
-    "102": 28,
-    "野穗伴行的快枪手": 28,
-    "MUSKETEEROFWILDWHEAT": 28,
-    "101": 29,
-    "云无留迹的过客": 29,
-    "PASSERBYOFWANDERINGCLOUD": 29
+    "314": 0,
+    "出云显世与高天神国": 0,
+    "IZUMOGENSEIANDTAKAMADIVINEREALM": 0,
+    "313": 1,
+    "无主荒星茨冈尼亚": 1,
+    "SIGONIA,THEUNCLAIMEDDESOLATION": 1,
+    "312": 2,
+    "梦想之地匹诺康尼": 2,
+    "PENACONY,LANDOFTHEDREAMS": 2,
+    "311": 3,
+    "苍穹战线格拉默": 3,
+    "FIRMAMENTFRONTLINE:GLAMOTH": 3,
+    "310": 4,
+    "折断的龙骨": 4,
+    "BROKENKEEL": 4,
+    "309": 5,
+    "繁星竞技场": 5,
+    "RUTILANTARENA": 5,
+    "308": 6,
+    "生命的翁瓦克": 6,
+    "SPRIGHTLYVONWACQ": 6,
+    "307": 7,
+    "盗贼公国塔利亚": 7,
+    "TALIA:KINGDOMOFBANDITRY": 7,
+    "306": 8,
+    "停转的萨尔索图": 8,
+    "INERTSALSOTTO": 8,
+    "305": 9,
+    "星体差分机": 9,
+    "CELESTIALDIFFERENTIATOR": 9,
+    "304": 10,
+    "筑城者的贝洛伯格": 10,
+    "BELOBOGOFTHEARCHITECTS": 10,
+    "303": 11,
+    "泛银河商业公司": 11,
+    "PANCOSMICCOMMERCIALENTERPRISE": 11,
+    "302": 12,
+    "不老者的仙舟": 12,
+    "FLEETOFTHEAGELESS": 12,
+    "301": 13,
+    "太空封印站": 13,
+    "SPACESEALINGSTATION": 13,
+    "118": 14,
+    "机心戏梦的钟表匠": 14,
+    "WATCHMAKER,MASTEROFDREAMMACHINATIONS": 14,
+    "117": 15,
+    "死水深潜的先驱": 15,
+    "PIONEERDIVEROFDEADWATERS": 15,
+    "116": 16,
+    "幽锁深牢的系囚": 16,
+    "PRISONERINDEEPCONFINEMENT": 16,
+    "115": 17,
+    "毁烬焚骨的大公": 17,
+    "THEASHBLAZINGGRANDDUKE": 17,
+    "114": 18,
+    "骇域漫游的信使": 18,
+    "MESSENGERTRAVERSINGHACKERSPACE": 18,
+    "113": 19,
+    "宝命长存的莳者": 19,
+    "LONGEVOUSDISCIPLE": 19,
+    "112": 20,
+    "盗匪荒漠的废土客": 20,
+    "WASTELANDEROFBANDITRYDESERT": 20,
+    "111": 21,
+    "流星追迹的怪盗": 21,
+    "THIEFOFSHOOTINGMETEOR": 21,
+    "110": 22,
+    "晨昏交界的翔鹰": 22,
+    "EAGLEOFTWILIGHTLINE": 22,
+    "109": 23,
+    "激奏雷电的乐队": 23,
+    "BANDOFSIZZLINGTHUNDER": 23,
+    "108": 24,
+    "繁星璀璨的天才": 24,
+    "GENIUSOFBRILLIANTSTARS": 24,
+    "107": 25,
+    "熔岩锻铸的火匠": 25,
+    "FIRESMITHOFLAVAFORGING": 25,
+    "106": 26,
+    "戍卫风雪的铁卫": 26,
+    "GUARDOFWUTHERINGSNOW": 26,
+    "105": 27,
+    "街头出身的拳王": 27,
+    "CHAMPIONOFSTREETWISEBOXING": 27,
+    "104": 28,
+    "密林卧雪的猎人": 28,
+    "HUNTEROFGLACIALFOREST": 28,
+    "103": 29,
+    "净庭教宗的圣骑士": 29,
+    "KNIGHTOFPURITYPALACE": 29,
+    "102": 30,
+    "野穗伴行的快枪手": 30,
+    "MUSKETEEROFWILDWHEAT": 30,
+    "101": 31,
+    "云无留迹的过客": 31,
+    "PASSERBYOFWANDERINGCLOUD": 31
 }

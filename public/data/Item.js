@@ -327,7 +327,7 @@ var _item = {
                 "EN": "The Nameless EXP"
             },
             "Desc": {
-                "CH": "用于提升无名勋礼的等级。",
+                "CH": "用于提升无名勋礼的等级",
                 "EN": "Used to increase Nameless Honor levels."
             },
             "Story": {
@@ -505,6 +505,26 @@ var _item = {
             "Ver": "1.x"
         },
         {
+            "_id": 281005,
+            "Type": 1,
+            "Rarity": 4,
+            "Name": {
+                "CH": "顾客小费",
+                "EN": "Tips"
+            },
+            "Desc": {
+                "CH": "光顾「惊梦酒吧」的怪物们给的小费，可用于营收统计中兑换奖励。",
+                "EN": "The tips given by the monsters who patronize the Dreamjolt Hostelry can be used to redeem rewards in the Revenue Statistics."
+            },
+            "Story": {
+                "CH": "其实是苏乐达汽水的瓶盖。<br><br><i>「看似无用的物品，却是某些人最珍贵的宝藏。」</i>",
+                "EN": "It's actually the cap of a SoulGlad soda bottle.<br><br><i>\"These seemingly useless items... are the most precious treasures to some.\"</i>"
+            },
+            "Icon": "281005.png",
+            "Pic": "SpriteOutput/ItemIcon/281005.png",
+            "Ver": "2.1"
+        },
+        {
             "_id": 281012,
             "Type": 1,
             "Rarity": 3,
@@ -543,6 +563,86 @@ var _item = {
             "Icon": "281013.png",
             "Pic": "281013.png",
             "Ver": "1.x"
+        },
+        {
+            "_id": 281014,
+            "Type": 1,
+            "Rarity": 3,
+            "Name": {
+                "CH": "普通骰子",
+                "EN": "Ordinary Dice"
+            },
+            "Desc": {
+                "CH": "用于在棋盘上前进的基本道具。",
+                "EN": "A basic item for moving forward on the Cosmodyssey board."
+            },
+            "Story": {
+                "CH": "银河强手棋中最常用的骰子。<br><br><i>「不能印着帕姆的图案，它就叫帕姆骰子。万一印着土匪呢？」</i>",
+                "EN": "The most commonly used dice in Cosmodyssey.<br><br><i>\"Pom-Pom's design cannot be printed on it. It's called a Pom-Pom Dice. What if there's a bandit printed on it?\"</i>"
+            },
+            "Icon": "281014.png",
+            "Pic": "281014.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 281015,
+            "Type": 1,
+            "Rarity": 3,
+            "Name": {
+                "CH": "开拓券",
+                "EN": "Trailblaze Fund"
+            },
+            "Desc": {
+                "CH": "开拓经历具象化之后的神秘玩具币，用于转化为开拓祝福。",
+                "EN": "A mysterious game currency materialized from the trailblazing experience. Used to exchange for Trailblaze blessings."
+            },
+            "Story": {
+                "CH": "银河强手棋中广泛流通的游戏货币。<br><br><i>「『获取开拓经历』是有些抽象，但如果我说这是在『挣大钱』，是否就好理解了？」</i>",
+                "EN": "The game currency widely used in Cosmodyssey.<br><br><i>\"Acquiring 'Trailblazing Experience' is a bit abstract. But if I call it 'making a lot of money,' will it be easier to understand?\"</i>"
+            },
+            "Icon": "281015.png",
+            "Pic": "281015.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 281016,
+            "Type": 1,
+            "Rarity": 3,
+            "Name": {
+                "CH": "遥控骰子",
+                "EN": "Remote Dice"
+            },
+            "Desc": {
+                "CH": "用于在棋盘上前进的进阶道具，可以指定任意骰面。",
+                "EN": "Item used for moving forward on the Cosmodyssey board. You can select which Dice Face you want."
+            },
+            "Story": {
+                "CH": "银河强手棋中作弊用的骰子。<br><br><i>「当你有机会做出选择的时候，不要让自己后悔。」</i>",
+                "EN": "A die used for cheating in Cosmodyssey.<br><br><i>\"When you have a chance to make a choice, make one that you know you won't regret.\"</i>"
+            },
+            "Icon": "281016.png",
+            "Pic": "281016.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 281017,
+            "Type": 1,
+            "Rarity": 3,
+            "Name": {
+                "CH": "抛抛硬币",
+                "EN": "Tossing Coin"
+            },
+            "Desc": {
+                "CH": "用于在坪上奇遇中反悔的特殊道具，可以重新再掷骰一次。",
+                "EN": "A special item used to backtrack in Board Encounters. It allows you to re-roll the die again."
+            },
+            "Story": {
+                "CH": "「不想后悔」的心愿具象化，变成了一枚神奇的硬币。<br><br><i>「抛硬币做的决定，早在硬币掉下前就已经确定了。」</i>",
+                "EN": "The wish of \"having no regrets\" materialized into a mysterious coin.<br><br><i>\"The decision you want to make via tossing a coin was already decided long before the coin fell.\"</i>"
+            },
+            "Icon": "281017.png",
+            "Pic": "281017.png",
+            "Ver": "2.1"
         }
     ],
     "3": [
@@ -1295,24 +1395,24 @@ var _item = {
             "Ver": "1.x"
         },
         {
-            "_id": 999,
+            "_id": 802,
             "Type": 3,
-            "Rarity": 3,
+            "Rarity": 5,
             "Name": {
-                "CH": "dev_通用测试道具",
-                "EN": ""
+                "CH": "旅途的祝福",
+                "EN": "Journey's Blessing"
             },
             "Desc": {
-                "CH": "dev_通用测试道具",
+                "CH": "",
                 "EN": ""
             },
             "Story": {
-                "CH": "dev_通用测试道具",
-                "EN": ""
+                "CH": "献于途中之人的祝福<br><br>愿你驶过洞天，尽短暂寿数绘出异彩的画卷<br>愿你览历梦海，为醉人幻境奏响催醒的舞曲<br>你在此间的行迹，终将凝作满载星河的回忆",
+                "EN": "A blessing to those on the journey<br><br>May you navigate through the sky and paint a vibrant picture within your brief lifespan<br>May you explore the sea of dreams and play a rousing melody for the enchanting land of fantasy<br>Your traces here will condense into the memories of brilliant stars"
             },
-            "Icon": "Icon_Testmaterial01.png",
-            "Pic": "Figure_Testmaterial01.png",
-            "Ver": "1.x"
+            "Icon": "802.png",
+            "Pic": "802.png",
+            "Ver": "2.1"
         },
         {
             "_id": 110101,
@@ -2175,11 +2275,11 @@ var _item = {
                 "EN": "Borisin Teeth"
             },
             "Desc": {
-                "CH": "歩离人征战时遗留的零星碎牙。可小幅提升<color=#f29e38ff>毁灭</color>角色的命途行迹。",
+                "CH": "步离人征战时遗留的零星碎牙。可小幅提升<color=#f29e38ff>毁灭</color>角色的命途行迹。",
                 "EN": "Broken teeth fragments left behind during the borisins' conquests. Used to level up Traces slightly for <color=#f29e38ff>Destruction</color> characters."
             },
             "Story": {
-                "CH": "步离人将锐牙视作征战者的砥锋白刃。<br>歩离人崇敬拥有至高力量的战士，在弱肉强食的「猎群部落」里，任何龋齿之流只会被族群遗弃。<br><br><i>「巢父大人，赐予我等尖牙锐爪。」</i>",
+                "CH": "步离人将锐牙视作征战者的砥锋白刃。<br>步离人崇敬拥有至高力量的战士，在弱肉强食的「猎群部落」里，任何龋齿之流只会被族群遗弃。<br><br><i>「巢父大人，赐予我等尖牙锐爪。」</i>",
                 "EN": "Borisins consider their teeth as a warrior's blade and weapon.<br>The Borisin worship warriors possessing supreme power. In their tribes, where the strong rule the weak, those with dental caries will only be discarded by the group.<br><br><i>\"O, Brood Lord, grant us sharp teeth and claws.\"</i>"
             },
             "Icon": "110181.png",
@@ -2213,7 +2313,7 @@ var _item = {
                 "EN": "Lupitoxin Sawteeth"
             },
             "Desc": {
-                "CH": "歩离人征战时遗留的吮血尖牙。可中幅提升<color=#f29e38ff>毁灭</color>角色的命途行迹。",
+                "CH": "步离人征战时遗留的吮血尖牙。可中幅提升<color=#f29e38ff>毁灭</color>角色的命途行迹。",
                 "EN": "Blood-sucking sharp fangs left behind during the borisins' conquests. Used to level up Traces moderately for <color=#f29e38ff>Destruction</color> characters."
             },
             "Story": {
@@ -2255,7 +2355,7 @@ var _item = {
                 "EN": "Moon Madness Fang"
             },
             "Desc": {
-                "CH": "歩离人征战时遗留的骇人长牙。可大幅提升<color=#f29e38ff>毁灭</color>角色的命途行迹。",
+                "CH": "步离人征战时遗留的骇人长牙。可大幅提升<color=#f29e38ff>毁灭</color>角色的命途行迹。",
                 "EN": "Terrifying tusks left behind during the borisins' conquests. Used to level up Traces significantly for <color=#f29e38ff>Destruction</color> characters."
             },
             "Story": {
@@ -2283,6 +2383,124 @@ var _item = {
                 }
             ],
             "Ver": "2.0"
+        },
+        {
+            "_id": 110211,
+            "Type": 3,
+            "Rarity": 2,
+            "Name": {
+                "CH": "散逸星砂",
+                "EN": "Scattered Stardust"
+            },
+            "Desc": {
+                "CH": "琥珀王挥动天锤时身躯洒落的砂砾。可小幅提升<color=#f29e38ff>存护</color>角色的命途行迹。",
+                "EN": "The dust that falls from the Amber Lord's body when they swing the divine hammer. Used to level up Traces slightly for <color=#f29e38ff>Preservation</color> characters."
+            },
+            "Story": {
+                "CH": "庇尔波因特拱卫在克里珀的天体轨道上守望不辍，只为等待数十年乃至一百多年一次的神迹降临：如雨般的星砂随巨锤落下飞扬而起。<br><br><i>「对琥珀王来说，不过是微不足道的尘埃；但对我们来说，这沙砾中的每一颗都蕴藏存护的精粹。」</i>",
+                "EN": "The guards at Pier Point have never left their posts on Qlipoth's orbit, simply waiting for a miracle that only occurs once in decades or even centuries — How stardust splutters up like countless raindrops the moment the giant hammer falls.<br><br><i>\"The stardust are simply insignificant dust to the Amber Lord, but to us, every speck of it contains the essence of Preservation.\"</i>"
+            },
+            "Icon": "110211.png",
+            "Pic": "110211.png",
+            "Src": [
+                {
+                    "CH": "拟造花萼【克劳克影视乐园】",
+                    "EN": "Calyx: Clark Studios Theme Park"
+                },
+                {
+                    "CH": "拟造花萼【克劳克影视乐园】",
+                    "EN": "Calyx: Clark Studios Theme Park"
+                },
+                {
+                    "CH": "余烬兑换",
+                    "EN": "Embers Exchange"
+                },
+                {
+                    "CH": "「万能合成机」- 材料置换",
+                    "EN": "Omni-Synthesizer — Material Exchange"
+                }
+            ],
+            "Ver": "2.1"
+        },
+        {
+            "_id": 110212,
+            "Type": 3,
+            "Rarity": 3,
+            "Name": {
+                "CH": "流星棱晶",
+                "EN": "Crystal Meteorites"
+            },
+            "Desc": {
+                "CH": "琥珀王挥动天锤时身躯剥离的晶石。可中幅提升<color=#f29e38ff>存护</color>角色的命途行迹。",
+                "EN": "The crystals that separated from the Amber Lord's body when they swing the divine hammer. Used to level up Traces moderately for <color=#f29e38ff>Preservation</color> characters."
+            },
+            "Story": {
+                "CH": "伴随巨大的引力波动荡和被世人称为「星震」的现象到来，人们才意识到天锤落下。那些划过深黯天空的晶石流星如同「存护」的赠礼，宣告新的纪元揭开序幕。<br><br><i>「俱乐部的天才竟敢称琥珀王是银河中最慢的星神，他们中至今没人能成功观测到祂挥动天锤的全过程。」</i>",
+                "EN": "People only become aware of the fact that Qlipoth has swung their hammer again from the two phenomena invariably detected afterward: an enormous burst of intense gravitational waves, and \"starquakes.\" Like a gift from the Preservation, the crystal meteorites dash across the dark sky and mark the beginning of a new Era.<br><br><i>\"The Genius Society is audacious enough to declare the Amber Lord as the slowest Aeon, but none of these people have ever successfully observed the entire process of Qlipoth swinging the divine hammer.\"</i>"
+            },
+            "Icon": "110212.png",
+            "Pic": "110212.png",
+            "Src": [
+                {
+                    "CH": "拟造花萼【克劳克影视乐园】",
+                    "EN": "Calyx: Clark Studios Theme Park"
+                },
+                {
+                    "CH": "拟造花萼【克劳克影视乐园】",
+                    "EN": "Calyx: Clark Studios Theme Park"
+                },
+                {
+                    "CH": "「万能合成机」- 材料合成",
+                    "EN": "Omni-Synthesizer — Material Synthesis"
+                },
+                {
+                    "CH": "余烬兑换",
+                    "EN": "Embers Exchange"
+                },
+                {
+                    "CH": "「万能合成机」- 材料置换",
+                    "EN": "Omni-Synthesizer — Material Exchange"
+                }
+            ],
+            "Ver": "2.1"
+        },
+        {
+            "_id": 110213,
+            "Type": 3,
+            "Rarity": 4,
+            "Name": {
+                "CH": "神体琥珀",
+                "EN": "Divine Amber"
+            },
+            "Desc": {
+                "CH": "琥珀王挥动天锤时身躯洒落的的琥珀。可大幅提升<color=#f29e38ff>存护</color>角色的命途行迹。",
+                "EN": "The amber that rains from the Amber Lord's body when they swing the divine hammer. Used to level up Traces greatly for <color=#f29e38ff>Preservation</color> characters."
+            },
+            "Story": {
+                "CH": "尽管庇尔波因特派出陨石猎人拦截了大多数星石，但这些流星里光辉最耀眼的那一颗，永远只落在命定之人的眼眸中。<br><br><i>「它是神体的一部分——尽管只是微不足道的一部分。唯有心志坚如磐石的受选者久历考验琢磨，才能凿开琥珀中凝结的光。」</i>",
+                "EN": "Although Pier Point sent out Meteor Hunters and intercepted most of the meteors, the brightest among all these shooting stars will always only be seen by the chosen ones.<br><br><i>\"It is a part of the divine body of the Aeon, albeit an insignificant one. Only the chosen ones, with their minds as steadfast as cornerstones and having endured challenges and hardships, can chisel apart this amber and unleash the solid light within.\"</i>"
+            },
+            "Icon": "110213.png",
+            "Pic": "110213.png",
+            "Src": [
+                {
+                    "CH": "拟造花萼【克劳克影视乐园】",
+                    "EN": "Calyx: Clark Studios Theme Park"
+                },
+                {
+                    "CH": "拟造花萼【克劳克影视乐园】",
+                    "EN": "Calyx: Clark Studios Theme Park"
+                },
+                {
+                    "CH": "「万能合成机」- 材料合成",
+                    "EN": "Omni-Synthesizer — Material Synthesis"
+                },
+                {
+                    "CH": "「万能合成机」- 材料置换",
+                    "EN": "Omni-Synthesizer — Material Exchange"
+                }
+            ],
+            "Ver": "2.1"
         },
         {
             "_id": 110221,
@@ -2519,6 +2737,124 @@ var _item = {
                 }
             ],
             "Ver": "2.0"
+        },
+        {
+            "_id": 110241,
+            "Type": 3,
+            "Rarity": 2,
+            "Name": {
+                "CH": "异木种籽",
+                "EN": "Alien Tree Seed"
+            },
+            "Desc": {
+                "CH": "携带各色物种基因的种子，自翁瓦克圣林的心树果实中取得。可小幅提升<color=#f29e38ff>丰饶</color>角色的命途行迹。",
+                "EN": "The seed obtained from the fruit of the heart tree in the sacred Vonwacq forest, carrying the genes of various life forms. Used to level up Traces slightly for <color=#f29e38ff>Abundance</color> characters."
+            },
+            "Story": {
+                "CH": "翁瓦克的神圣林海中，巨大的异木圣树耐心记录着无数个生命周期里生态圈的演变。它不断以各色生命的基因为种子培育出理想的「魔王」。<br><br><i>「切开这坚硬的果实，从果肉里掏出种子，然后埋在神圣的土壤里，来年你将收获数十位王者，静待它们决出胜负吧！」</i>",
+                "EN": "The enormous alien foreign tree in the sacred Vonwacq forest meticulously records the evolution of the ecosystem over countless life cycles, continuously nurturing the ideal \"Devil\" using the genes of various life forms as seeds.<br><br><i>\"Cut this hard fruit open, scoop out the seed from its flesh, and plant it in sacred soil. You'll harvest dozens of leaders in the following year. Just wait for them to decide a winner via a battle royale!\"</i>"
+            },
+            "Icon": "110241.png",
+            "Pic": "110241.png",
+            "Src": [
+                {
+                    "CH": "拟造花萼【绥园】",
+                    "EN": "Calyx (Fyxestroll Garden)"
+                },
+                {
+                    "CH": "拟造花萼【绥园】",
+                    "EN": "Calyx (Fyxestroll Garden)"
+                },
+                {
+                    "CH": "余烬兑换",
+                    "EN": "Embers Exchange"
+                },
+                {
+                    "CH": "「万能合成机」- 材料置换",
+                    "EN": "Omni-Synthesizer — Material Exchange"
+                }
+            ],
+            "Ver": "2.1"
+        },
+        {
+            "_id": 110242,
+            "Type": 3,
+            "Rarity": 3,
+            "Name": {
+                "CH": "滋长花蜜",
+                "EN": "Nourishing Honey"
+            },
+            "Desc": {
+                "CH": "催生生命成长的蜜液，自翁瓦克圣林的心树花汁中酿成。可中幅提升<color=#f29e38ff>丰饶</color>角色的命途行迹。",
+                "EN": "The nectar brewed from the flower nectar of the heart tree in the sacred Vonwacq forest. A honey that can accelerate the growth of life. Used to level up Traces moderately for <color=#f29e38ff>Abundance</color> characters."
+            },
+            "Story": {
+                "CH": "魔王自肥沃的土壤中破土而出，不过是一腕尺高，圆滚滚的果子罢了。不知为何，只有在击败了同胞兄弟姐妹们，它才有资格饮下花蜜，发育成形。<br><br><i>「你能痛饮这林子里任意一棵树的树汁，唯独那棵树的汁液你不可沾唇。」</i>",
+                "EN": "When the Devil emerges from the fertile soil, it is only a round fruit with a stalk as long as one's forearm. For some reason, it has to defeat its siblings before it can drink nectar and grow.<br><br><i>\"You can drink the sap of any tree in this forest, except that one.\"</i>"
+            },
+            "Icon": "110242.png",
+            "Pic": "110242.png",
+            "Src": [
+                {
+                    "CH": "拟造花萼【绥园】",
+                    "EN": "Calyx (Fyxestroll Garden)"
+                },
+                {
+                    "CH": "拟造花萼【绥园】",
+                    "EN": "Calyx (Fyxestroll Garden)"
+                },
+                {
+                    "CH": "「万能合成机」- 材料合成",
+                    "EN": "Omni-Synthesizer — Material Synthesis"
+                },
+                {
+                    "CH": "余烬兑换",
+                    "EN": "Embers Exchange"
+                },
+                {
+                    "CH": "「万能合成机」- 材料置换",
+                    "EN": "Omni-Synthesizer — Material Exchange"
+                }
+            ],
+            "Ver": "2.1"
+        },
+        {
+            "_id": 110243,
+            "Type": 3,
+            "Rarity": 4,
+            "Name": {
+                "CH": "万相果实",
+                "EN": "Myriad Fruit"
+            },
+            "Desc": {
+                "CH": "蕴含众生万相的果实，自翁瓦克圣林的心树枝头培育生成。可大幅提升<color=#f29e38ff>丰饶</color>角色的命途行迹。",
+                "EN": "The fruit grown from the branches of the heart tree in the sacred Vonwacq forest. Contains the essence of myriad lifeforms. Used to level up Traces greatly for <color=#f29e38ff>Abundance</color> characters."
+            },
+            "Story": {
+                "CH": "饮下圣树花蜜的一个昼夜内，可笑的球状果实膨胀成了身披纤维铠甲，手执树矛和叶盾的「魔王」。围绕着它的足迹，林间生灵纷纷献上自己的基因，供王者品尝、学习和变化。随后，魔王将开始向翁瓦克的海洋与天空发起挑战。<br><br><i>「借由此法，古老的先贤们将最恐怖的事物囚禁在了最可笑的游戏里。」</i>",
+                "EN": "One day after drinking the nectar of the divine tree, the ridiculous spherical fruit bloats into a Devil wearing fiber armor and wielding a wooden spear and a shield made of leaves. All around its footsteps, living creatures in the forest offer their genes as tributes to the Devil for it to taste, learn, and metamorphose. After that, the Devil will move on to challenge the sea and the sky of Vonwacq.<br><br><i>\"Through this method, the ancient sages imprisoned the most terrifying things within a most ridiculous game.\"</i>"
+            },
+            "Icon": "110243.png",
+            "Pic": "110243.png",
+            "Src": [
+                {
+                    "CH": "拟造花萼【绥园】",
+                    "EN": "Calyx (Fyxestroll Garden)"
+                },
+                {
+                    "CH": "拟造花萼【绥园】",
+                    "EN": "Calyx (Fyxestroll Garden)"
+                },
+                {
+                    "CH": "「万能合成机」- 材料合成",
+                    "EN": "Omni-Synthesizer — Material Synthesis"
+                },
+                {
+                    "CH": "「万能合成机」- 材料置换",
+                    "EN": "Omni-Synthesizer — Material Exchange"
+                }
+            ],
+            "Ver": "2.1"
         },
         {
             "_id": 110400,
@@ -3025,6 +3361,40 @@ var _item = {
                 }
             ],
             "Ver": "1.x"
+        },
+        {
+            "_id": 110422,
+            "Type": 3,
+            "Rarity": 4,
+            "Name": {
+                "CH": "忿火之心",
+                "EN": "Raging Heart"
+            },
+            "Desc": {
+                "CH": "「狂怒褪去之壳」的忆质核心，火属性角色的晋升素材。",
+                "EN": "The memoria core of \"Shell of Faded Rage\". Can be used for the Ascension of Fire-type characters."
+            },
+            "Story": {
+                "CH": "愤怒之火终会焚毁愤怒自身，忘却愤怒的本因，只剩不甘的余烬，以及一颗不灭的嗔心。<br><br><i>「关于愤怒的忆质会因恨意长存，但也会因恨意失真。」</i>",
+                "EN": "The flames of anger will eventually consume themselves, erasing the original cause and leaving behind only lingering resentment and an unquenchable core of poisonous hatred.<br><br><i>\"The memoria of fury will persist due to the hatred, yet it will also become unreal due to that hatred.\"</i>"
+            },
+            "Icon": "110422.png",
+            "Pic": "110422.png",
+            "Src": [
+                {
+                    "CH": "凝滞虚影【朝露公馆】",
+                    "EN": "Stagnant Shadow: Dewlight Pavilion"
+                },
+                {
+                    "CH": "凝滞虚影【朝露公馆】",
+                    "EN": "Stagnant Shadow: Dewlight Pavilion"
+                },
+                {
+                    "CH": "「万能合成机」- 材料置换",
+                    "EN": "Omni-Synthesizer — Material Exchange"
+                }
+            ],
+            "Ver": "2.1"
         },
         {
             "_id": 110423,
@@ -6559,6 +6929,26 @@ var _item = {
             "Ver": "2.0"
         },
         {
+            "_id": 309003,
+            "Type": 6,
+            "Rarity": 4,
+            "Name": {
+                "CH": "旅程之遇：「杯中逸事」",
+                "EN": "Fateful Crossings: Vignettes in a Cup"
+            },
+            "Desc": {
+                "CH": "漂亮的信封，内含一张定制车票。使用后可从下列4星角色中任选一个：<br>【加拉赫】【米沙】【雪衣】【寒鸦】【桂乃芬】【卢卡】【玲可】【驭空】",
+                "EN": "A beautiful envelope containing a customized ticket. When used, you can choose one of the following 4-star characters:<br>Gallagher, Misha, Xueyi, Hanya, Guinaifen, Luka, Lynx, or Yukong."
+            },
+            "Story": {
+                "CH": "「于旅程中，邂逅新的伙伴吧。」",
+                "EN": "\"Meet new companions in your journeys.\""
+            },
+            "Icon": "309001.png",
+            "Pic": "309001.png",
+            "Ver": "2.1"
+        },
+        {
             "_id": 310001,
             "Type": 6,
             "Rarity": 4,
@@ -7899,7 +8289,7 @@ var _item = {
                 "EN": ""
             },
             "Story": {
-                "CH": "dev_软饮界的无冕之王，折射着幽蓝湛澈的引力之虹，泛涌着永动不竭的晶亮气泡。打开瓶盖儿，那动人心魄的咔哒一响，仿若绝对零度的液滴轻轻落在颤抖神经的末梢……刹那间，彗孛星变，太微初生，尘树云香，佳期如梦。<br><br><i>「这种反重力饮料风靡一时，导致我曾经见过卡利百、卞利白、卡刮白、甚至上下利白……」</i>",
+                "CH": "dev_…",
                 "EN": ""
             },
             "Icon": "140110.png",
@@ -12220,7 +12610,7 @@ var _item = {
             },
             "Story": {
                 "CH": "一份《金槌府邸安全规范》。应该是花火为这场推理游戏现编的。内容如下：<br>「为避免歹人伤害伟大又可爱的花火大人，金槌府邸从即日起施行如下安全规范：<br>「1、所有家臣及访客需通过人脸识别系统出入金槌府邸。<br>「2、无法通过人脸识别系统者，将被当场击毙。<br>「3、本规范永久有效。」",
-                "EN": "A copy of the Goldhammer Residence Security Regulations. Sparkle probably made it up on the spot just for this detective game. It says:<br>\"To prevent criminals from hurting our great and lovely Miss Sparkle, the Goldhammer Residence shall abide by the following regulations from today onwards:<br>1. All retainers and visitors must enter and exit the Golden Hammer Residence using the facial recognition system.<br>2. Those who cannot pass through the facial recognition system will be killed on the spot.<br>3. These regulations are in effect indefinitely.\""
+                "EN": "A copy of the Goldhammer Residence Security Regulations. Sparkle probably made it up on the spot just for this detective game. It says:<br>\"To prevent criminals from hurting our great and lovely Miss Sparkle, the Goldhammer Residence shall abide by the following regulations from today onwards:<br>1. All retainers and visitors must enter and exit the Goldhammer Residence using the facial recognition system.<br>2. Those who cannot pass through the facial recognition system will be killed on the spot.<br>3. These regulations are in effect indefinitely.\""
             },
             "Icon": "140343.png",
             "Pic": "140343.png",
@@ -13179,8 +13569,8 @@ var _item = {
                 "EN": ""
             },
             "Story": {
-                "CH": "你坐起身，阴云般的伤感在脑中凝聚，那些一再向人承诺的话语开始动摇——你当真不是一个废物吗？你当真能做到什么吗？你所选的路当真正确吗？火焰从心底呼啸而来。有那么一瞬间，你曾想让过往的一切付之一炬……<br><br><i>「而那火星很早便已点燃。」</i>",
-                "EN": "You sit up, a cloud of sadness forming in your mind. The words you have promised to others begin to falter. Are you really not a loser? Can you really achieve anything? Have you really chosen the right path? A fire ignites from the depths of your heart, and for one moment, you're tempted to burn everything from the past to the ground...<br><br><i>\"And that spark had already been ignited long ago.\"</i>"
+                "CH": "你坐起身，阴云般的伤感在脑中凝聚，那些一再向人承诺的话语开始动摇——你当真不是一个废物吗？你当真能做到什么吗？你所选的路当真正确吗？<br>火焰从心底呼啸而来，有那么一瞬间，你曾想让过往的一切付之一炬。",
+                "EN": "You sit up, a cloud of sadness forming in your mind. The words you have promised to others begin to falter. Are you really not a loser? Can you really achieve anything? Have you really chosen the right path?<br>A fire ignites from the depths of your heart, and for one moment, tempting you to burn everything from the past to the ground."
             },
             "Icon": "140396.png",
             "Pic": "140396.png",
@@ -13239,8 +13629,8 @@ var _item = {
                 "EN": ""
             },
             "Story": {
-                "CH": "飞船在天空划出尾迹云，公司追兵已然从视野中消失。你与同伴兴奋地击掌，再没什么能将你们束缚……<br>但这不是结束，牢狱依旧在身后追逐。也许十年，也许百年，你们终将回到其中。<br><br><i>「在那之前，我们会尽享这份自由。」</i>",
-                "EN": "As the airship traverses the sky, leaving behind a trail of clouds, the IPC's pursuers disappear from sight. You exchange a high-five with your companions, feeling liberated from any constraints...<br>However, this is not the end. The looming threat of prison remains. It may be ten years or a hundred, but eventually, you will return to it.<br><br><i>\"Until then, let's savor our freedom to the fullest.\"</i>"
+                "CH": "飞船在天空划出尾迹云，公司追兵已然从视野中消失。你与同伴兴奋地击掌，再没什么能将你们束缚……<br>这还不是结束，牢狱依旧在身后追逐。也许十年，也许百年，你们终将回到其中。但至少在那之前，你们能享受片刻自由。",
+                "EN": "As the starship traverses the sky, leaving behind a trail of clouds, the IPC's pursuers disappear from sight. You exchange a high-five with your companions, feeling liberated from any constraints...<br>However, this is not the end. The looming threat of prison remains. It may be ten years or a hundred, but eventually, you will return to it.<br><br><i>\"Until then, let's savor our freedom to the fullest.\"</i>"
             },
             "Icon": "140399.png",
             "Pic": "140399.png",
@@ -13252,7 +13642,7 @@ var _item = {
             "Rarity": 3,
             "Name": {
                 "CH": "未知的筑梦碎片",
-                "EN": "Unknown Puzzle Fragment"
+                "EN": "Unknown Jigsaw Fragment"
             },
             "Desc": {
                 "CH": "",
@@ -13379,8 +13769,8 @@ var _item = {
                 "EN": ""
             },
             "Story": {
-                "CH": "「镇静」情绪在梦中的具象体。能被用来修补人们的心绪表盘，帮助他们寻回缺失的情绪或记忆。",
-                "EN": "A manifestation of the emotion \"Calm\" in the Dreamscape. It can be used to repair people's Emo Dial and recover their lost emotions or memories."
+                "CH": "…",
+                "EN": "..."
             },
             "Icon": "140406.png",
             "Pic": "140406.png",
@@ -13399,8 +13789,8 @@ var _item = {
                 "EN": ""
             },
             "Story": {
-                "CH": "「欢欣」情绪在梦中的具象体。能被用来修补人们的心绪表盘，帮助他们寻回缺失的情绪或记忆。",
-                "EN": "A manifestation of the emotion \"Happy\" in the Dreamscape. It can be used to repair people's Emo Dial and recover their lost emotions or memories."
+                "CH": "…",
+                "EN": "..."
             },
             "Icon": "140407.png",
             "Pic": "140407.png",
@@ -13419,8 +13809,8 @@ var _item = {
                 "EN": ""
             },
             "Story": {
-                "CH": "「悲郁」情绪在梦中的具象体。能被用来修补人们的心绪表盘，帮助他们寻回缺失的情绪或记忆。",
-                "EN": "A manifestation of the emotion \"Sad\" in the Dreamscape. It can be used to repair people's Emo Dial and recover their lost emotions or memories."
+                "CH": "…",
+                "EN": "..."
             },
             "Icon": "140408.png",
             "Pic": "140408.png",
@@ -13439,8 +13829,8 @@ var _item = {
                 "EN": ""
             },
             "Story": {
-                "CH": "「愤懑」情绪在梦中的具象体。能被用来修补人们的心绪表盘，帮助他们寻回缺失的情绪或记忆。",
-                "EN": "A manifestation of the emotion \"Angry\" in the Dreamscape. It can be used to repair people's Emo Dial and recover their lost emotions or memories."
+                "CH": "…",
+                "EN": "..."
             },
             "Icon": "140409.png",
             "Pic": "140409.png",
@@ -13459,8 +13849,8 @@ var _item = {
                 "EN": ""
             },
             "Story": {
-                "CH": "一封呼吁莱斯利 · 迪恩的粉丝们集体进入梦境，并通过联觉梦境帮助莱斯利「重生」的请愿书。",
-                "EN": "A petition calling on Lesley Dean's fans to enter the Dreamscape en masse and help him to \"be reborn\" through the Synesthesia Dreamscape."
+                "CH": "…",
+                "EN": "..."
             },
             "Icon": "190005.png",
             "Pic": "190005.png",
@@ -13479,8 +13869,8 @@ var _item = {
                 "EN": ""
             },
             "Story": {
-                "CH": "dev_莫里斯的照片",
-                "EN": ""
+                "CH": "…",
+                "EN": "..."
             },
             "Icon": "140105.png",
             "Pic": "140105.png",
@@ -13499,8 +13889,8 @@ var _item = {
                 "EN": ""
             },
             "Story": {
-                "CH": "莱斯利 · 迪恩拥有过第二次生命的证据。<br><br><i>「死亡也盖不过他的光芒。」</i>",
-                "EN": "Evidence that Lesley Dean once gained a new lease of life.<br><br><i>\"Not even death could extinguish his radiance.\"</i>"
+                "CH": "…",
+                "EN": "..."
             },
             "Icon": "140412.png",
             "Pic": "SpriteOutput/ItemIcon/140412.png",
@@ -13639,8 +14029,8 @@ var _item = {
                 "EN": ""
             },
             "Story": {
-                "CH": "在梦境酒店找到的旧唱片，只录制了一首「想象一朵未来的玫瑰」。",
-                "EN": "An old record tape discovered at the hotel in the Dreamscape, containing a single track titled \"Envision a Rose Forthcoming.\""
+                "CH": "…",
+                "EN": "..."
             },
             "Icon": "140413.png",
             "Pic": "140413.png",
@@ -13659,8 +14049,8 @@ var _item = {
                 "EN": ""
             },
             "Story": {
-                "CH": "波奇的同事似乎因为加班而对他颇有怨言。这件事似乎和费曼脱不开关系。",
-                "EN": "Bocchi's co-workers seem to have a grudge against him because they are forced to work overtime. Feinman seems to have something to do with this."
+                "CH": "…",
+                "EN": "..."
             },
             "Icon": "190005.png",
             "Pic": "190005.png",
@@ -13679,8 +14069,8 @@ var _item = {
                 "EN": ""
             },
             "Story": {
-                "CH": "一则新闻报道，内容大致为某诈骗犯落网。虽然不知道此事和波奇有什么关系，总之先记下吧。",
-                "EN": "A news article about a swindler being caught. I'm writing this down, although I don't know how Bocchi can be related to the case."
+                "CH": "…",
+                "EN": "..."
             },
             "Icon": "190013.png",
             "Pic": "190013.png",
@@ -13699,8 +14089,8 @@ var _item = {
                 "EN": ""
             },
             "Story": {
-                "CH": "波奇的「宝贵的企划书」，不知道有没有机会用上。",
-                "EN": "Bocchi's \"Precious Proposal.\" You're uncertain whether it'll see any use."
+                "CH": "…",
+                "EN": "..."
             },
             "Icon": "190002.png",
             "Pic": "190002.png",
@@ -13859,8 +14249,8 @@ var _item = {
                 "EN": ""
             },
             "Story": {
-                "CH": "螺丝咕姆交给你的神秘药物，或许它能勾起查德威克博士埋藏于意识深处的记忆。",
-                "EN": "A mysterious medicine Screwllum handed to you. It may evoke the memories buried deep within Professor Chadwick's consciousness."
+                "CH": "…",
+                "EN": "..."
             },
             "Icon": "140099.png",
             "Pic": "140099.png",
@@ -13879,8 +14269,8 @@ var _item = {
                 "EN": ""
             },
             "Story": {
-                "CH": "装着诡异积木的盒子，可以交还给梦境迷钟的管理者。<br>封存着让迷钟们发生故障的积木，散发出不祥的气息。",
-                "EN": "This box contains eerie puzzle building blocks. It can be returned to the Dream Ticker Administrator.<br>Puzzle blocks that make the Dream Tickers malfunction are sealed here, emitting an ominous aura."
+                "CH": "…",
+                "EN": "..."
             },
             "Icon": "140432.png",
             "Pic": "140432.png",
@@ -13939,8 +14329,8 @@ var _item = {
                 "EN": ""
             },
             "Story": {
-                "CH": "护理师乔凡娜交给你的特别饮品，能够压制人的负面情绪，正常投入生活与工作之中。",
-                "EN": "A special beverage given to you by Giovanna the dream nurse. It helps to suppress negative emotions and assists people in engaging with their normal jobs and lives."
+                "CH": "…",
+                "EN": "..."
             },
             "Icon": "401025.png",
             "Pic": "401025.png",
@@ -13979,8 +14369,8 @@ var _item = {
                 "EN": ""
             },
             "Story": {
-                "CH": "包装精美的信笺，帕姆将自己的感激落于文字，寄送给你。<br><br><i>「开拓者乘客，谢谢你的礼物帕！」</i>",
-                "EN": "A delicately wrapped letter by Pom-Pom with a message expressing gratitude.<br><br><i>\"Thank you for the gift, passenger Trailblazer!\"</i>"
+                "CH": "…",
+                "EN": "..."
             },
             "Icon": "140437.png",
             "Pic": "140437.png",
@@ -13999,8 +14389,8 @@ var _item = {
                 "EN": ""
             },
             "Story": {
-                "CH": "包装精美的信笺，丹恒将自己的感激落于文字，寄送给你。<br><br><i>「还是谢谢你的礼物，我很喜欢。」</i>",
-                "EN": "A delicately wrapped letter by Dan Heng with a message expressing gratitude.<br><br><i>\"Thank you for your gift. I like it.\"</i>"
+                "CH": "…",
+                "EN": "..."
             },
             "Icon": "140437.png",
             "Pic": "140437.png",
@@ -14019,12 +14409,532 @@ var _item = {
                 "EN": ""
             },
             "Story": {
-                "CH": "包装精美的信笺，瓦尔特将自己的感激落于文字，寄送给你。<br><br><i>「谢谢你的糖果，剩下的就留着等大家回来一起分享吧。」</i>",
-                "EN": "A delicately wrapped letter by Welt with a message expressing gratitude.<br><br><i>\"Thanks for the candy. I'll keep the rest for when we all come back to share.\"</i>"
+                "CH": "…",
+                "EN": "..."
             },
             "Icon": "140437.png",
             "Pic": "140437.png",
             "Ver": "2.0"
+        },
+        {
+            "_id": 140440,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "命运之谕示",
+                "EN": "Fate's Epistle"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "140440.png",
+            "Pic": "140440.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 140441,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "泯灭帮收到的邀请函",
+                "EN": "Invite Received by Annihilation Gang"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "…",
+                "EN": "..."
+            },
+            "Icon": "140441.png",
+            "Pic": "140441.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 140442,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "格列佛拱门",
+                "EN": "Gulliver's Arch"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "…",
+                "EN": "..."
+            },
+            "Icon": "140442.png",
+            "Pic": "140442.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 140443,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "弹球机模型",
+                "EN": "Pinball Machine Model"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "140443.png",
+            "Pic": "140443.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 140444,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "砂金的基石",
+                "EN": "Aventurine's Cornerstone"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "…",
+                "EN": "..."
+            },
+            "Icon": "140444.png",
+            "Pic": "140444.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 140445,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "砂金的匣子",
+                "EN": "Aventurine's Box"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "…",
+                "EN": "..."
+            },
+            "Icon": "140445.png",
+            "Pic": "140445.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 140446,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "砂金的匣子",
+                "EN": "Aventurine's Box"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "…",
+                "EN": "..."
+            },
+            "Icon": "140446.png",
+            "Pic": "140446.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 140447,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "砂金的行李袋",
+                "EN": "Aventurine's Baggage"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "…",
+                "EN": "..."
+            },
+            "Icon": "140447.png",
+            "Pic": "140447.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 140448,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "砂金的行李袋",
+                "EN": "Aventurine's Baggage"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "…",
+                "EN": "..."
+            },
+            "Icon": "140448.png",
+            "Pic": "140448.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 140449,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "庸人的见地",
+                "EN": "Mundanite's Insight"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "…",
+                "EN": "..."
+            },
+            "Icon": "140449.png",
+            "Pic": "140449.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 140450,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "「相互保证毁灭」按钮",
+                "EN": "\"Mutual Assured Destruction\" Button"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "…",
+                "EN": "..."
+            },
+            "Icon": "140099.png",
+            "Pic": "140099.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 140451,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "特调「黄金国」",
+                "EN": "Special Drink \"El dorado\""
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "140099.png",
+            "Pic": "140099.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 140452,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "特调「过早的埋葬」",
+                "EN": "Special Drink \"The Premature Burial\""
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "140099.png",
+            "Pic": "140099.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 140453,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "特调「梦中之梦」",
+                "EN": "Special Drink \"Dream Within Dream\""
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "140099.png",
+            "Pic": "140099.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 140454,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "特调「长眠不醒」",
+                "EN": "Special Drink \"The Big Sleep\""
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "140099.png",
+            "Pic": "140099.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 140455,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "特调「漫长的告别」",
+                "EN": "Special Drink \"The Long Goodbye\""
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "140099.png",
+            "Pic": "140099.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 140456,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "特调「再见，吾爱」",
+                "EN": "Special Drink \"Farewell, My Lovely\""
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "140099.png",
+            "Pic": "140099.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 140457,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "特调「到坟场的车票」",
+                "EN": "Special Drink \"A Ticket to the Boneyard\""
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "140099.png",
+            "Pic": "140099.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 140458,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "特调「向邪恶追索」",
+                "EN": "Special Drink \"Even the Wicked\""
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "140099.png",
+            "Pic": "140099.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 140459,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "特调「谋杀与创造之时」",
+                "EN": "Special Drink \"Time to Murder and Create\""
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "140099.png",
+            "Pic": "140099.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 140460,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "星期日&知更鸟的光锥",
+                "EN": "Sunday & Robin's Light Cone"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "…",
+                "EN": "..."
+            },
+            "Icon": "140099.png",
+            "Pic": "140099.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 140461,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "托帕的基石",
+                "EN": "Topaz's Cornerstone"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "…",
+                "EN": "..."
+            },
+            "Icon": "140461.png",
+            "Pic": "140461.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 140462,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "翡翠的基石",
+                "EN": "Jade's Cornerstone"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "…",
+                "EN": "..."
+            },
+            "Icon": "140462.png",
+            "Pic": "140462.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 140463,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "砂金的锁链",
+                "EN": "Aventurine's Chain"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "…",
+                "EN": "..."
+            },
+            "Icon": "140463.png",
+            "Pic": "140463.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 140464,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "小砂金的饰品",
+                "EN": "Little Aventurine's Trinket"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "…",
+                "EN": "..."
+            },
+            "Icon": "140464.png",
+            "Pic": "140464.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 140465,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "纪念照",
+                "EN": "Commemorative Photo"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "140465.png",
+            "Pic": "140465.png",
+            "Ver": "2.1"
         },
         {
             "_id": 140466,
@@ -14039,8 +14949,8 @@ var _item = {
                 "EN": ""
             },
             "Story": {
-                "CH": "「哈努兄弟越狱记」的通关奖励，记录了哈努兄弟在剧情中的高光时刻。或许在某本史书上，类似的场景曾真实存在过。",
-                "EN": "The reward for beating the game Hanu's Prison Break, capturing all of Hanu's highlights in the story. Perhaps similar scenes did happen in real history."
+                "CH": "…",
+                "EN": "..."
             },
             "Icon": "140466.png",
             "Pic": "140466.png",
@@ -14059,8 +14969,8 @@ var _item = {
                 "EN": ""
             },
             "Story": {
-                "CH": "test_哈努兄弟逃狱记纪念品",
-                "EN": ""
+                "CH": "…",
+                "EN": "..."
             },
             "Icon": "140437.png",
             "Pic": "140437.png",
@@ -14079,8 +14989,8 @@ var _item = {
                 "EN": ""
             },
             "Story": {
-                "CH": "用来维护伟大的发明家艾默…咳，我是说，用来维护世界上所有创造者的合法权益。",
-                "EN": "This item is used to defend the legal rights of the great inventor Emmr... Ahem, well, to defend the legal rights of all creators in the cosmos."
+                "CH": "…",
+                "EN": "..."
             },
             "Icon": "190005.png",
             "Pic": "190005.png",
@@ -14099,12 +15009,152 @@ var _item = {
                 "EN": ""
             },
             "Story": {
-                "CH": "从路人身上汲取到的「欢欣」情绪，可以被用来填补筑梦师缺失的心绪表盘。",
-                "EN": "Extract emotions of \"happiness\" from passersby to fill in the missing aspects for the Dreamweaver's Emo Dial."
+                "CH": "…",
+                "EN": "..."
             },
             "Icon": "140407.png",
             "Pic": "140407.png",
             "Ver": "2.0"
+        },
+        {
+            "_id": 140470,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "奥科萨娜的「玩具」",
+                "EN": "Oksana's \"Toys\""
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "…",
+                "EN": "..."
+            },
+            "Icon": "300052.png",
+            "Pic": "300052.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 140471,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "司令的筑梦碎片",
+                "EN": "Mr. Bigwig's Jigsaw Fragment"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "这枚碎片似乎曾是某幅筑梦拼图的一部分。<br>你能从中感知到对未来的向往与期待。",
+                "EN": "This fragment appears to have been a part of a certain Dream Jigsaw.<br>You can feel from it a mixture of yearning and anticipation for the future."
+            },
+            "Icon": "140400.png",
+            "Pic": "140400.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 140472,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "黑桃的筑梦碎片",
+                "EN": "Spade's Jigsaw Fragment"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "这枚碎片似乎曾是某幅筑梦拼图的一部分。<br>你能从中感知到对未来的向往与期待。",
+                "EN": "This fragment appears to have been a part of a certain Dream Jigsaw.<br>You can feel from it a mixture of yearning and anticipation for the future."
+            },
+            "Icon": "140400.png",
+            "Pic": "140400.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 140473,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "忧郁派的筑梦碎片",
+                "EN": "Melancholy's Jigsaw Fragment"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "这枚碎片似乎曾是某幅筑梦拼图的一部分。<br>你能从中感知到对未来的向往与期待。",
+                "EN": "This fragment appears to have been a part of a certain Dream Jigsaw.<br>You can feel from it a mixture of yearning and anticipation for the future."
+            },
+            "Icon": "140400.png",
+            "Pic": "140400.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 140474,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "小星星的筑梦碎片",
+                "EN": "Starlet's Jigsaw Fragment"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "这枚碎片似乎曾是某幅筑梦拼图的一部分。<br>你能从中感知到对未来的向往与期待。",
+                "EN": "This fragment appears to have been a part of a certain Dream Jigsaw.<br>You can feel from it a mixture of yearning and anticipation for the future."
+            },
+            "Icon": "140400.png",
+            "Pic": "140400.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 140475,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "淑女的筑梦碎片",
+                "EN": "Lady's Jigsaw Fragment"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "这枚碎片似乎曾是某幅筑梦拼图的一部分。<br>你能从中感知到对未来的向往与期待。",
+                "EN": "This fragment appears to have been a part of a certain Dream Jigsaw.<br>You can feel from it a mixture of yearning and anticipation for the future."
+            },
+            "Icon": "140400.png",
+            "Pic": "140400.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 140476,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "铁皮人的筑梦碎片",
+                "EN": "Tin Man's Jigsaw Fragment"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "这枚碎片似乎曾是某幅筑梦拼图的一部分。<br>你能从中感知到对未来的向往与期待。",
+                "EN": "This fragment appears to have been a part of a certain Dream Jigsaw.<br>You can feel from it a mixture of yearning and anticipation for the future."
+            },
+            "Icon": "140400.png",
+            "Pic": "140400.png",
+            "Ver": "2.1"
         },
         {
             "_id": 149957,
@@ -14659,8 +15709,8 @@ var _item = {
                 "EN": ""
             },
             "Story": {
-                "CH": "dev_情绪碎片：镇静",
-                "EN": ""
+                "CH": "…",
+                "EN": "..."
             },
             "Icon": "420001.png",
             "Pic": "420001.png",
@@ -14679,8 +15729,8 @@ var _item = {
                 "EN": ""
             },
             "Story": {
-                "CH": "dev_情绪碎片：开心",
-                "EN": ""
+                "CH": "…",
+                "EN": "..."
             },
             "Icon": "420001.png",
             "Pic": "420001.png",
@@ -14699,8 +15749,8 @@ var _item = {
                 "EN": ""
             },
             "Story": {
-                "CH": "dev_情绪碎片：悲伤",
-                "EN": ""
+                "CH": "…",
+                "EN": "..."
             },
             "Icon": "420001.png",
             "Pic": "420001.png",
@@ -14719,8 +15769,8 @@ var _item = {
                 "EN": ""
             },
             "Story": {
-                "CH": "dev_情绪碎片：愤怒",
-                "EN": ""
+                "CH": "…",
+                "EN": "..."
             },
             "Icon": "420001.png",
             "Pic": "420001.png",
@@ -14759,8 +15809,8 @@ var _item = {
                 "EN": ""
             },
             "Story": {
-                "CH": "克劳克影业发行的限量版卡通故事书，讲述了「哈努兄弟」被变小后拯救美梦小镇的故事…书中似乎还夹杂了一些奇怪的对白。",
-                "EN": "A limited edition cartoon storybook released by Clock Studios, narrating a tale where Hanu shrinks in size and saves Dreamville... The book includes occasional peculiar dialogue interspersed throughout."
+                "CH": "…",
+                "EN": "..."
             },
             "Icon": "420001.png",
             "Pic": "420001.png",
@@ -14779,8 +15829,8 @@ var _item = {
                 "EN": ""
             },
             "Story": {
-                "CH": "克劳克影业发行的限量版卡通故事书，讲述了「哈努兄弟」被变小后拯救美梦小镇的故事…书中似乎还夹杂了一些奇怪的对白。",
-                "EN": "A limited edition cartoon storybook released by Clock Studios, narrating a tale where Hanu shrinks in size and saves Dreamville... The book includes occasional peculiar dialogue interspersed throughout."
+                "CH": "…",
+                "EN": "..."
             },
             "Icon": "420001.png",
             "Pic": "420001.png",
@@ -14799,8 +15849,8 @@ var _item = {
                 "EN": ""
             },
             "Story": {
-                "CH": "克劳克影业发行的限量版卡通故事书，讲述了「哈努兄弟」被变小后拯救美梦小镇的故事…书中似乎还夹杂了一些奇怪的对白。",
-                "EN": "A limited edition cartoon storybook released by Clock Studios, narrating a tale where Hanu shrinks in size and saves Dreamville... The book includes occasional peculiar dialogue interspersed throughout."
+                "CH": "…",
+                "EN": "..."
             },
             "Icon": "420001.png",
             "Pic": "420001.png",
@@ -14819,28 +15869,568 @@ var _item = {
                 "EN": ""
             },
             "Story": {
-                "CH": "克劳克影业发行的限量版卡通故事书，讲述了「哈努兄弟」被变小后拯救美梦小镇的故事…书中似乎还夹杂了一些奇怪的对白。",
-                "EN": "A limited edition cartoon storybook released by Clock Studios, narrating a tale where Hanu shrinks in size and saves Dreamville... The book includes occasional peculiar dialogue interspersed throughout."
+                "CH": "…",
+                "EN": "..."
             },
             "Icon": "420001.png",
             "Pic": "420001.png",
             "Ver": "2.0"
         },
         {
+            "_id": 150010,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "调饮材料：美梦糖浆",
+                "EN": "Recipe: Dream Syrup"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "408418.png",
+            "Pic": "408418.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 150011,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "调饮材料：经典苏乐达",
+                "EN": "Recipe: Classic SoulGlad"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "401025.png",
+            "Pic": "401025.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 150012,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "调饮材料：展望美好未来",
+                "EN": "Recipe: Looking Toward A Bright Future"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "408417.png",
+            "Pic": "408417.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 150013,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "调饮材料：孤注一掷",
+                "EN": "Recipe: High Stakes"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "408802.png",
+            "Pic": "408802.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 150014,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "调饮材料：噼咔白葡萄汽水",
+                "EN": "Recipe: Pika White Grape Soda"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "408613.png",
+            "Pic": "408613.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 150015,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "调饮材料：恒久忍耐",
+                "EN": "Recipe: Eternal Endurance"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "408616.png",
+            "Pic": "408616.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 150016,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "特调「黄金国」",
+                "EN": "Special Drink \"El dorado\""
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "140099.png",
+            "Pic": "140099.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 150017,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "特调「过早的埋葬」",
+                "EN": "Special Drink \"The Premature Burial\""
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "140099.png",
+            "Pic": "140099.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 150018,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "特调「梦中之梦」",
+                "EN": "Special Drink \"A Dream Within a Dream\""
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "140099.png",
+            "Pic": "140099.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 150019,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "特调「长眠不醒」",
+                "EN": "Special Drink \"The Big Sleep\""
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "140099.png",
+            "Pic": "140099.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 150020,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "特调「漫长的告别」",
+                "EN": "Special Drink \"The Long Goodbye\""
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "140099.png",
+            "Pic": "140099.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 150021,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "特调「再见，吾爱」",
+                "EN": "Special Drink \"Farewell, My Lovely\""
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "140099.png",
+            "Pic": "140099.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 150022,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "特调「到坟场的车票」",
+                "EN": "Special Drink \"A Ticket to the Boneyard\""
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "140099.png",
+            "Pic": "140099.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 150023,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "特调「向邪恶追索」",
+                "EN": "Special Drink \"Even the Wicked\""
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "140099.png",
+            "Pic": "140099.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 150024,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "特调「谋杀与创造之时」",
+                "EN": "Special Drink \"Time to Murder and Create\""
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "140099.png",
+            "Pic": "140099.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 150025,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "特调「黄金国」",
+                "EN": "Special Drink \"El dorado\""
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "140099.png",
+            "Pic": "140099.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 150026,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "特调「过早的埋葬」",
+                "EN": "Special Drink \"The Premature Burial\""
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "140099.png",
+            "Pic": "140099.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 150027,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "特调「梦中之梦」",
+                "EN": "Special Drink \"A Dream Within a Dream\""
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "140099.png",
+            "Pic": "140099.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 150028,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "特调「长眠不醒」",
+                "EN": "Special Drink \"The Big Sleep\""
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "140099.png",
+            "Pic": "140099.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 150029,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "特调「漫长的告别」",
+                "EN": "Special Drink \"The Long Goodbye\""
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "140099.png",
+            "Pic": "140099.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 150030,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "特调「再见，吾爱」",
+                "EN": "Special Drink \"Farewell, My Lovely\""
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "140099.png",
+            "Pic": "140099.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 150031,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "特调「到坟场的车票」",
+                "EN": "Special Drink \"A Ticket to the Boneyard\""
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "140099.png",
+            "Pic": "140099.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 150032,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "特调「向邪恶追索」",
+                "EN": "Special Drink \"Even the Wicked\""
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "140099.png",
+            "Pic": "140099.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 150033,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "特调「谋杀与创造之时」",
+                "EN": "Special Drink \"Time to Murder and Create\""
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "",
+                "EN": ""
+            },
+            "Icon": "150033.png",
+            "Pic": "150033.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 150034,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "软木杯垫",
+                "EN": "Cork Coaster"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "…",
+                "EN": "..."
+            },
+            "Icon": "150034.png",
+            "Pic": "150034.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 150035,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "隐夜鸫雕像的线索",
+                "EN": "Nightingale Statue Clue"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "…",
+                "EN": "..."
+            },
+            "Icon": "140099.png",
+            "Pic": "140099.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 150039,
+            "Type": 4,
+            "Rarity": 3,
+            "Name": {
+                "CH": "「惊梦酒吧」的合影",
+                "EN": "Dreamjolt Hostelry Group Photo"
+            },
+            "Desc": {
+                "CH": "",
+                "EN": ""
+            },
+            "Story": {
+                "CH": "…",
+                "EN": "..."
+            },
+            "Icon": "149975.png",
+            "Pic": "149975.png",
+            "Ver": "2.1"
+        },
+        {
             "_id": 222000,
             "Type": 4,
             "Rarity": 4,
             "Name": {
-                "CH": "梦境护照",
-                "EN": "Dreamscape Pass"
+                "CH": "…",
+                "EN": "..."
             },
             "Desc": {
-                "CH": "入住「白日梦酒店」的宾客人手一份的梦境手账。",
-                "EN": "The Dreamscape Scrapbook received by every guests staying at The Reverie."
+                "CH": "…",
+                "EN": "..."
             },
             "Story": {
-                "CH": "一旦完成前台的入住登记，宾客的通讯设备里就会自动冒出这个程序——没人知道这算不算侵犯个人信息隐私，也从来没人过问。万幸它足够安全，也足够有趣。<br><br><i>「两百三十万条五星好评…家族担保，绝无水军！」</i>",
-                "EN": "Once the check-in at the front desk is completed, this program will automatically appear on the guest's communication device. No one knows whether this is an infringement of personal privacy, and no one has ever asked. Luckily it's safe enough and interesting enough.<br><br><i>\"Two million and three hundred thousand five-star reviews... The Family guarantees that there are no fake reviews!\"</i>"
+                "CH": "…",
+                "EN": "..."
             },
             "Icon": "222000.png",
             "Pic": "222000.png",
@@ -14851,16 +16441,16 @@ var _item = {
             "Type": 4,
             "Rarity": 3,
             "Name": {
-                "CH": "残响回廊的资格徽章",
-                "EN": "Corridor of Fading Echoes Mastery Mark"
+                "CH": "...",
+                "EN": "..."
             },
             "Desc": {
                 "CH": "",
                 "EN": ""
             },
             "Story": {
-                "CH": "《以太战线》中通过决胜乐园考验的证明，集齐四枚资格徽章后可以获得参加锦标赛的资格。来自残响回廊的决胜乐园，拥有它便意味着你战胜了强大的冠军候补「希露瓦」与「佩拉」。<br><br><i>「你是一位冷静又不失激情的玩家！」</i>",
-                "EN": "In the game Aetherium Wars, the proof of passing the Victory Zone test can be obtained by collecting four Mastery Marks, which qualifies you to participate in the championship. The Victory Zone of the Corridor of Fading Echoes grants you this proof, signifying your victory against the formidable championship contenders, Serval and Pela.<br><br><i>\"You are a calm, yet passionate player!\"</i>"
+                "CH": "...",
+                "EN": "..."
             },
             "Icon": "250401.png",
             "Pic": "250401.png",
@@ -14871,16 +16461,16 @@ var _item = {
             "Type": 4,
             "Rarity": 3,
             "Name": {
-                "CH": "流云渡的资格徽章",
-                "EN": "Cloudford Mastery Mark"
+                "CH": "...",
+                "EN": "..."
             },
             "Desc": {
                 "CH": "",
                 "EN": ""
             },
             "Story": {
-                "CH": "《以太战线》中通过决胜乐园考验的证明，集齐四枚资格徽章后可以获得参加锦标赛的资格。来自流云渡的决胜乐园，拥有它便意味着你战胜了强大的冠军候补「公输师傅」。<br><br><i>「你是一位技巧精湛的玩家！」</i>",
-                "EN": "In the game Aetherium Wars, the proof of passing the Victory Zone test can be obtained by collecting four Mastery Marks, which qualifies you to participate in the championship. The Victory Zone of Cloudford grants you this proof, signifying your victory against the formidable championship contender, Master Gongshu.<br><br><i>\"You are a skilled and masterful player!\"</i>"
+                "CH": "...",
+                "EN": "..."
             },
             "Icon": "250402.png",
             "Pic": "250402.png",
@@ -14891,16 +16481,16 @@ var _item = {
             "Type": 4,
             "Rarity": 3,
             "Name": {
-                "CH": "空间站「黑塔」的资格徽章",
-                "EN": "Herta Space Station Mastery Mark"
+                "CH": "...",
+                "EN": "..."
             },
             "Desc": {
                 "CH": "",
                 "EN": ""
             },
             "Story": {
-                "CH": "《以太战线》中通过决胜乐园考验的证明，集齐四枚资格徽章后可以获得参加锦标赛的资格。来自空间站「黑塔」的决胜乐园，拥有它便意味着你战胜了强大的冠军候补「黑塔」。<br><br><i>「你是一位智慧超群的玩家！」</i>",
-                "EN": "In the game Aetherium Wars, the proof of passing the Victory Zone test can be obtained by collecting four Mastery Marks, which qualifies you to participate in the championship. The Victory Zone of Herta Space Station grants you this proof, signifying your victory against the formidable championship contender, Herta.<br><br><i>\"You are an intelligent player!\"</i>"
+                "CH": "...",
+                "EN": "..."
             },
             "Icon": "250403.png",
             "Pic": "250403.png",
@@ -14911,16 +16501,16 @@ var _item = {
             "Type": 4,
             "Rarity": 3,
             "Name": {
-                "CH": "大矿区的资格徽章",
-                "EN": "Great Mine Mastery Mark"
+                "CH": "...",
+                "EN": "..."
             },
             "Desc": {
                 "CH": "",
                 "EN": ""
             },
             "Story": {
-                "CH": "《以太战线》中通过决胜乐园考验的证明，集齐四枚资格徽章后可以获得参加锦标赛的资格。来自大矿区的决胜乐园，拥有它便意味着你战胜了强大的冠军候补「乔瓦尼」。<br><br><i>「你是一位懂得享受游戏快乐的玩家！」</i>",
-                "EN": "In the game Aetherium Wars, the proof of passing the Victory Zone test can be obtained by collecting four Mastery Marks, which qualifies you to participate in the championship. The Victory Zone of Great Mine grants you this proof, signifying your victory against the formidable championship contender, Giovanni.<br><br><i>\"You are a player who knows how to enjoy!\"</i>"
+                "CH": "...",
+                "EN": "..."
             },
             "Icon": "250404.png",
             "Pic": "250404.png",
@@ -17927,8 +19517,8 @@ var _item = {
                 "EN": "Pika White Grape Soda"
             },
             "Desc": {
-                "CH": "使用后我方全体在下次战斗中灼烧抗性提高 100% ，持续4回合，持续时间结束时消耗 30 点能量。",
-                "EN": "Upon use, increases all allies' Burn RES by 100% for 4 turns for the next battle. When this bonus expires, all allies lose 30 Energy."
+                "CH": "使用后我方全体在下次战斗中抵抗灼烧状态的概率提高 100% ，持续4回合，持续时间结束时消耗 30 点能量。",
+                "EN": "Upon use, increases all allies' chance to resist Burn by 100% for 4 turns for the next battle. When this bonus expires, all allies lose 30 Energy."
             },
             "Story": {
                 "CH": "解暑功效十分强劲的发酵白葡萄汽水，味道又酸又苦，饮用后常常导致打喷嚏、流鼻涕等现象。据尝试过的顾客称，感觉就像是被一只凉手贴住了脖颈。<br><br><i>「噼咔...啊啾！」</i>",
@@ -18099,6 +19689,110 @@ var _item = {
                 }
             ],
             "Ver": "2.0"
+        },
+        {
+            "_id": 408620,
+            "Type": 7,
+            "Rarity": 3,
+            "Name": {
+                "CH": "美梦小镇特调",
+                "EN": "Dreamville Special"
+            },
+            "Desc": {
+                "CH": "使用后我方全体在下次战斗中随机生效1个效果：「钟表小子旋风果茶」攻击力提高 36% ；「哈努兄弟珍珠奶茶」暴击率提高 18% ；「汽水先生橘皮拿铁」暴击伤害提高 36% 。",
+                "EN": "Upon use, one of the following effects will be randomly applied to all allies in the next battle: Clockie's Whirlwind Fruit Tea — ATK increases by 36%. Brother Hanu's Pearl Milk Tea — CRIT Rate increases by 18%. Mr. Soda's Orange-Peel Latte — CRIT DMG increases by 36%."
+            },
+            "Story": {
+                "CH": "克劳克影视乐园特供饮品，美梦小镇主题限定款。口味随机，但每种都令人印象深刻。<br><br><i>「——这是什么味道？！好怪，再来一口！」</i>",
+                "EN": "A limited-edition version of Dreamville-themed drinks, offered exclusively in Clock Studios Theme Park. The flavors are random but are all very impressive.<br><br><i>\"...What's this flavor!? It's so weird... But I just wanna take another sip!\"</i>"
+            },
+            "Icon": "408620.png",
+            "Pic": "408620.png",
+            "Src": [
+                {
+                    "CH": "美梦小镇主题餐厅",
+                    "EN": "Dreamville-Themed Restaurant"
+                }
+            ],
+            "Ver": "2.1"
+        },
+        {
+            "_id": 408621,
+            "Type": 7,
+            "Rarity": 3,
+            "Name": {
+                "CH": "美梦镭射票",
+                "EN": "Sweet Dreams Holographic Ticket"
+            },
+            "Desc": {
+                "CH": "使用后我方全体在下次战斗中随机生效1个效果：「镜子公主款」防御力提高 36% ；「音符小姐款」生命上限提高 30% 。",
+                "EN": "Upon use, one of the following effects will be randomly applied to all allies in the next battle: Mirror Princess Version — DEF increases by 36%. Miss Note Version — Max HP increases by 30%."
+            },
+            "Story": {
+                "CH": "克劳克影视乐园特供纪念品，美梦小镇主题限定款。目前该系列已上架「音符小姐」与「镜子公主」两款。<br><br><i>「好耶，异型头——」</i><br><i>「人不该……」</i>",
+                "EN": "A limited-edition version of Dreamville-themed souvenirs, offered exclusively in Clock Studios Theme Park. This series is currently available in two editions: Miss Note and Mirror Princess.<br><br><i>\"Hooray! Mutant heads!\"</i><br><i>\"Your taste is so weird...\"</i>"
+            },
+            "Icon": "408622.png",
+            "Pic": "408622.png",
+            "Src": [
+                {
+                    "CH": "美梦小镇主题餐厅",
+                    "EN": "Dreamville-Themed Restaurant"
+                }
+            ],
+            "Ver": "2.1"
+        },
+        {
+            "_id": 408622,
+            "Type": 7,
+            "Rarity": 3,
+            "Name": {
+                "CH": "怪怪软糖",
+                "EN": "Odd Gummy Candy"
+            },
+            "Desc": {
+                "CH": "使用后我方全体在下次战斗中随机生效1个效果：「仓鼠球骑士风味」速度提高 20% ；「石头老板风味」速度降低5%。",
+                "EN": "Upon use, one of the following effects will be randomly applied to all allies in the next battle: Hamster Ball Knight Flavor — SPD increases by 20%. Boss Stone Flavor — SPD decreases by 5%."
+            },
+            "Story": {
+                "CH": "克劳克影视乐园特供食品，美梦小镇主题限定款。无论是代表仓鼠球骑士的朗姆酿樱桃味、还是代表石头老板的鲜榨青瓜皮味，都保证带给您极致的味觉感受。<br><br><i>「我舌头麻了…不是，你怎么哭了？」</i>",
+                "EN": "A limited-edition version of Dreamville-themed food, offered exclusively in Clock Studios Theme Park. Whether it's the Rum Cherry flavor for Hamster Ball Knight or the Freshly Squeezed Cucumber Peel flavor for Boss Stone, you're guaranteed a most supreme gustatory experience.<br><br><i>\"Ah, my tongue is numb... Hey, why are you crying?\"</i>"
+            },
+            "Icon": "408621.png",
+            "Pic": "408621.png",
+            "Src": [
+                {
+                    "CH": "美梦小镇主题餐厅",
+                    "EN": "Dreamville-Themed Restaurant"
+                }
+            ],
+            "Ver": "2.1"
+        },
+        {
+            "_id": 408623,
+            "Type": 7,
+            "Rarity": 3,
+            "Name": {
+                "CH": "折纸全家桶",
+                "EN": "Origami Family Bucket"
+            },
+            "Desc": {
+                "CH": "使用后我方全体在下次战斗中随机生效1个效果：「严肃的猫头鹰老师」造成的伤害提高 36% ；「调皮的折纸小鸟」受到的伤害提高 10% 。",
+                "EN": "Upon use, one of the following effects will be randomly applied to all allies: Serious Professor Owl — DMG dealt increases by 36%. Mischievous Origami Bird — DMG taken increases by 10%."
+            },
+            "Story": {
+                "CH": "克劳克影视乐园特供食品，美梦小镇主题限定款。虽然名字看起来有点儿童不宜，但实际上只是非常美味的炸鸡。<br><br><i>「为什么小鸟桶里这么多芥末啊？！」</i>",
+                "EN": "A limited-edition version of Dreamville-themed food, offered exclusively in Clock Studios Theme Park. Although the name seems a bit disturbing, it's actually just some really tasty fried chicken.<br><br><i>\"Why is there so much mustard in the Birdie Bucket!?\"</i>"
+            },
+            "Icon": "408623.png",
+            "Pic": "408623.png",
+            "Src": [
+                {
+                    "CH": "美梦小镇主题餐厅",
+                    "EN": "Dreamville-Themed Restaurant"
+                }
+            ],
+            "Ver": "2.1"
         },
         {
             "_id": 408801,
@@ -18535,6 +20229,46 @@ var _item = {
             "Ver": "2.0"
         },
         {
+            "_id": 200119,
+            "Type": 2,
+            "Rarity": 5,
+            "Name": {
+                "CH": "托帕 · 命中",
+                "EN": "Topaz: Nice Shot"
+            },
+            "Desc": {
+                "CH": "解锁无名勋礼可获得的奖励头像。",
+                "EN": "Avatar reward obtained from unlocking Nameless Honor."
+            },
+            "Story": {
+                "CH": "正在进行射击练习的托帕。<br><br><i>「呼~又一个满环。练习很奏效，下个项目也要这么顺利才行！」</i>",
+                "EN": "Topaz is practising her marksmanship.<br><br><i>\"Phew, bullseye again. Training is effective, let's make sure the next item on the agenda goes just as smoothly!\"</i>"
+            },
+            "Icon": "avatarhead/IconHead_200119.png",
+            "Pic": "avatarhead/IconHead_200119.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 200120,
+            "Type": 2,
+            "Rarity": 5,
+            "Name": {
+                "CH": "砂金 · 命中",
+                "EN": "Aventurine: Nice Shot"
+            },
+            "Desc": {
+                "CH": "解锁无名勋礼可获得的奖励头像。",
+                "EN": "Avatar reward obtained from unlocking Nameless Honor."
+            },
+            "Story": {
+                "CH": "正在进行射击练习的砂金。<br><br><i>「射击与买卖同理，一锤定音，才能一举拿下。」</i>",
+                "EN": "Aventurine is practising his marksmanship.<br><br><i>\"The principles of shooting and trading are the same. One shot, one kill is the key.\"</i>"
+            },
+            "Icon": "avatarhead/IconHead_200120.png",
+            "Pic": "avatarhead/IconHead_200120.png",
+            "Ver": "2.1"
+        },
+        {
             "_id": 202001,
             "Type": 2,
             "Rarity": 4,
@@ -18793,6 +20527,66 @@ var _item = {
             "Icon": "avatarhead/IconHead_202013.png",
             "Pic": "avatarhead/IconHead_202013.png",
             "Ver": "2.0"
+        },
+        {
+            "_id": 202014,
+            "Type": 2,
+            "Rarity": 4,
+            "Name": {
+                "CH": "卡卡瓦夏",
+                "EN": "Kakavasha"
+            },
+            "Desc": {
+                "CH": "完成开拓任务「再见，卡卡瓦夏」获得的奖励头像。",
+                "EN": "Avatar reward obtained from completing the Trailblaze Mission \"Farewell, Kakavasha.\""
+            },
+            "Story": {
+                "CH": "过着艰苦生活的幼年砂金。<br><br><i>「姐姐说我们一定会迎来曙光，可曙光什么时候才能照向我们呢…」</i>",
+                "EN": "Aventurine as a child. He had a difficult life.<br><br><i>\"Sister said we will definitely see the dawn one day, but when will the dawn shine upon us?\"</i>"
+            },
+            "Icon": "avatarhead/IconHead_202014.png",
+            "Pic": "avatarhead/IconHead_202014.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 202015,
+            "Type": 2,
+            "Rarity": 4,
+            "Name": {
+                "CH": "仓鼠球骑士",
+                "EN": "Hamster Ball Knight"
+            },
+            "Desc": {
+                "CH": "完成速度与坚果挑战获得。",
+                "EN": "Obtainable by completing the Fast & Furynuts challenge."
+            },
+            "Story": {
+                "CH": "得意洋洋的仓鼠球骑士。<br><br><i>「嘿！准备好挑战了吗？我在终点等你！」</i>",
+                "EN": "A smug Hamster Ball Knight.<br><br><i>\"Hah! Ready to take on the challenge? I'll be waiting for you at the finish line!\"</i>"
+            },
+            "Icon": "avatarhead/IconHead_202015.png",
+            "Pic": "avatarhead/IconHead_202015.png",
+            "Ver": "2.1"
+        },
+        {
+            "_id": 202016,
+            "Type": 2,
+            "Rarity": 4,
+            "Name": {
+                "CH": "一周年纪念",
+                "EN": "One-Year Anniversary Commemoration"
+            },
+            "Desc": {
+                "CH": "完成「银河强手棋」活动后获得。",
+                "EN": "Obtainable from completing the \"Cosmodyssey\" event."
+            },
+            "Story": {
+                "CH": "拿着一周年黄金纪念奖章的帕姆。<br><br><i>「锵——纪念奖章送给你！未来的旅途，我们也要一起开拓下去帕！」</i>",
+                "EN": "Pom-Pom holding a one-year-anniversary commemorative gold medal.<br><br><i>\"Ta-da! This commemorative medal is for you! Here's to the future expeditions we'll be experiencing together!\"</i>"
+            },
+            "Icon": "avatarhead/IconHead_202016.png",
+            "Pic": "avatarhead/IconHead_202016.png",
+            "Ver": "2.1"
         }
     ]
 }
@@ -18821,8 +20615,13 @@ var _type = {
     "281002": "1",
     "281003": "1",
     "281004": "1",
+    "281005": "1",
     "281012": "1",
     "281013": "1",
+    "281014": "1",
+    "281015": "1",
+    "281016": "1",
+    "281017": "1",
     "101": "3",
     "102": "3",
     "170": "3",
@@ -18849,7 +20648,7 @@ var _type = {
     "503": "3",
     "800": "3",
     "801": "3",
-    "999": "3",
+    "802": "3",
     "110101": "3",
     "110111": "3",
     "110112": "3",
@@ -18875,12 +20674,18 @@ var _type = {
     "110181": "3",
     "110182": "3",
     "110183": "3",
+    "110211": "3",
+    "110212": "3",
+    "110213": "3",
     "110221": "3",
     "110222": "3",
     "110223": "3",
     "110231": "3",
     "110232": "3",
     "110233": "3",
+    "110241": "3",
+    "110242": "3",
+    "110243": "3",
     "110400": "3",
     "110401": "3",
     "110402": "3",
@@ -18896,6 +20701,7 @@ var _type = {
     "110415": "3",
     "110416": "3",
     "110417": "3",
+    "110422": "3",
     "110423": "3",
     "110426": "3",
     "110501": "3",
@@ -19017,6 +20823,7 @@ var _type = {
     "300201": "6",
     "309001": "6",
     "309002": "6",
+    "309003": "6",
     "310001": "6",
     "310002": "6",
     "310003": "6",
@@ -19390,10 +21197,43 @@ var _type = {
     "140437": "4",
     "140438": "4",
     "140439": "4",
+    "140440": "4",
+    "140441": "4",
+    "140442": "4",
+    "140443": "4",
+    "140444": "4",
+    "140445": "4",
+    "140446": "4",
+    "140447": "4",
+    "140448": "4",
+    "140449": "4",
+    "140450": "4",
+    "140451": "4",
+    "140452": "4",
+    "140453": "4",
+    "140454": "4",
+    "140455": "4",
+    "140456": "4",
+    "140457": "4",
+    "140458": "4",
+    "140459": "4",
+    "140460": "4",
+    "140461": "4",
+    "140462": "4",
+    "140463": "4",
+    "140464": "4",
+    "140465": "4",
     "140466": "4",
     "140467": "4",
     "140468": "4",
     "140469": "4",
+    "140470": "4",
+    "140471": "4",
+    "140472": "4",
+    "140473": "4",
+    "140474": "4",
+    "140475": "4",
+    "140476": "4",
     "149957": "4",
     "149958": "4",
     "149959": "4",
@@ -19430,6 +21270,33 @@ var _type = {
     "150002": "4",
     "150003": "4",
     "150004": "4",
+    "150010": "4",
+    "150011": "4",
+    "150012": "4",
+    "150013": "4",
+    "150014": "4",
+    "150015": "4",
+    "150016": "4",
+    "150017": "4",
+    "150018": "4",
+    "150019": "4",
+    "150020": "4",
+    "150021": "4",
+    "150022": "4",
+    "150023": "4",
+    "150024": "4",
+    "150025": "4",
+    "150026": "4",
+    "150027": "4",
+    "150028": "4",
+    "150029": "4",
+    "150030": "4",
+    "150031": "4",
+    "150032": "4",
+    "150033": "4",
+    "150034": "4",
+    "150035": "4",
+    "150039": "4",
     "222000": "4",
     "250401": "4",
     "250402": "4",
@@ -19554,6 +21421,10 @@ var _type = {
     "408617": "7",
     "408618": "7",
     "408619": "7",
+    "408620": "7",
+    "408621": "7",
+    "408622": "7",
+    "408623": "7",
     "408801": "7",
     "408802": "7",
     "200001": "2",
@@ -19575,6 +21446,8 @@ var _type = {
     "200116": "2",
     "200117": "2",
     "200118": "2",
+    "200119": "2",
+    "200120": "2",
     "202001": "2",
     "202002": "2",
     "202003": "2",
@@ -19587,7 +21460,10 @@ var _type = {
     "202010": "2",
     "202011": "2",
     "202012": "2",
-    "202013": "2"
+    "202013": "2",
+    "202014": "2",
+    "202015": "2",
+    "202016": "2"
 }
 
 var _index = {
@@ -19614,8 +21490,13 @@ var _index = {
     "281002": 20,
     "281003": 21,
     "281004": 22,
-    "281012": 23,
-    "281013": 24,
+    "281005": 23,
+    "281012": 24,
+    "281013": 25,
+    "281014": 26,
+    "281015": 27,
+    "281016": 28,
+    "281017": 29,
     "101": 0,
     "102": 1,
     "170": 2,
@@ -19642,7 +21523,7 @@ var _index = {
     "503": 23,
     "800": 24,
     "801": 25,
-    "999": 26,
+    "802": 26,
     "110101": 27,
     "110111": 28,
     "110112": 29,
@@ -19668,111 +21549,118 @@ var _index = {
     "110181": 49,
     "110182": 50,
     "110183": 51,
-    "110221": 52,
-    "110222": 53,
-    "110223": 54,
-    "110231": 55,
-    "110232": 56,
-    "110233": 57,
-    "110400": 58,
-    "110401": 59,
-    "110402": 60,
-    "110403": 61,
-    "110404": 62,
-    "110405": 63,
-    "110406": 64,
-    "110407": 65,
-    "110411": 66,
-    "110412": 67,
-    "110413": 68,
-    "110414": 69,
-    "110415": 70,
-    "110416": 71,
-    "110417": 72,
-    "110423": 73,
-    "110426": 74,
-    "110501": 75,
-    "110502": 76,
-    "110503": 77,
-    "110504": 78,
-    "111001": 79,
-    "111002": 80,
-    "111003": 81,
-    "111011": 82,
-    "111012": 83,
-    "111013": 84,
-    "112001": 85,
-    "112002": 86,
-    "112003": 87,
-    "112011": 88,
-    "112012": 89,
-    "112013": 90,
-    "113001": 91,
-    "113002": 92,
-    "113003": 93,
-    "113011": 94,
-    "113012": 95,
-    "113013": 96,
-    "114001": 97,
-    "114002": 98,
-    "114003": 99,
-    "114011": 100,
-    "114012": 101,
-    "114013": 102,
-    "120000": 103,
-    "120001": 104,
-    "120002": 105,
-    "120003": 106,
-    "121000": 107,
-    "121001": 108,
-    "122000": 109,
-    "180001": 110,
-    "180002": 111,
-    "180004": 112,
-    "180005": 113,
-    "180006": 114,
-    "180007": 115,
-    "180008": 116,
-    "180009": 117,
-    "180010": 118,
-    "180011": 119,
-    "180012": 120,
-    "181001": 121,
-    "181002": 122,
-    "181003": 123,
-    "181004": 124,
-    "181005": 125,
-    "181006": 126,
-    "181007": 127,
-    "181008": 128,
-    "181009": 129,
-    "181010": 130,
-    "181011": 131,
-    "181012": 132,
-    "181013": 133,
-    "181014": 134,
-    "181015": 135,
-    "181016": 136,
-    "182001": 137,
-    "182002": 138,
-    "182003": 139,
-    "182004": 140,
-    "182005": 141,
-    "182006": 142,
-    "182007": 143,
-    "182008": 144,
-    "182009": 145,
-    "182010": 146,
-    "183001": 147,
-    "183002": 148,
-    "183003": 149,
-    "183004": 150,
-    "183005": 151,
-    "183006": 152,
-    "250320": 153,
-    "270000": 154,
-    "270001": 155,
-    "270002": 156,
+    "110211": 52,
+    "110212": 53,
+    "110213": 54,
+    "110221": 55,
+    "110222": 56,
+    "110223": 57,
+    "110231": 58,
+    "110232": 59,
+    "110233": 60,
+    "110241": 61,
+    "110242": 62,
+    "110243": 63,
+    "110400": 64,
+    "110401": 65,
+    "110402": 66,
+    "110403": 67,
+    "110404": 68,
+    "110405": 69,
+    "110406": 70,
+    "110407": 71,
+    "110411": 72,
+    "110412": 73,
+    "110413": 74,
+    "110414": 75,
+    "110415": 76,
+    "110416": 77,
+    "110417": 78,
+    "110422": 79,
+    "110423": 80,
+    "110426": 81,
+    "110501": 82,
+    "110502": 83,
+    "110503": 84,
+    "110504": 85,
+    "111001": 86,
+    "111002": 87,
+    "111003": 88,
+    "111011": 89,
+    "111012": 90,
+    "111013": 91,
+    "112001": 92,
+    "112002": 93,
+    "112003": 94,
+    "112011": 95,
+    "112012": 96,
+    "112013": 97,
+    "113001": 98,
+    "113002": 99,
+    "113003": 100,
+    "113011": 101,
+    "113012": 102,
+    "113013": 103,
+    "114001": 104,
+    "114002": 105,
+    "114003": 106,
+    "114011": 107,
+    "114012": 108,
+    "114013": 109,
+    "120000": 110,
+    "120001": 111,
+    "120002": 112,
+    "120003": 113,
+    "121000": 114,
+    "121001": 115,
+    "122000": 116,
+    "180001": 117,
+    "180002": 118,
+    "180004": 119,
+    "180005": 120,
+    "180006": 121,
+    "180007": 122,
+    "180008": 123,
+    "180009": 124,
+    "180010": 125,
+    "180011": 126,
+    "180012": 127,
+    "181001": 128,
+    "181002": 129,
+    "181003": 130,
+    "181004": 131,
+    "181005": 132,
+    "181006": 133,
+    "181007": 134,
+    "181008": 135,
+    "181009": 136,
+    "181010": 137,
+    "181011": 138,
+    "181012": 139,
+    "181013": 140,
+    "181014": 141,
+    "181015": 142,
+    "181016": 143,
+    "182001": 144,
+    "182002": 145,
+    "182003": 146,
+    "182004": 147,
+    "182005": 148,
+    "182006": 149,
+    "182007": 150,
+    "182008": 151,
+    "182009": 152,
+    "182010": 153,
+    "183001": 154,
+    "183002": 155,
+    "183003": 156,
+    "183004": 157,
+    "183005": 158,
+    "183006": 159,
+    "250320": 160,
+    "270000": 161,
+    "270001": 162,
+    "270002": 163,
     "71000": 0,
     "71001": 1,
     "71002": 2,
@@ -19810,17 +21698,18 @@ var _index = {
     "300201": 34,
     "309001": 35,
     "309002": 36,
-    "310001": 37,
-    "310002": 38,
-    "310003": 39,
-    "310004": 40,
-    "310005": 41,
-    "310006": 42,
-    "310007": 43,
-    "310008": 44,
-    "310009": 45,
-    "310010": 46,
-    "310011": 47,
+    "309003": 37,
+    "310001": 38,
+    "310002": 39,
+    "310003": 40,
+    "310004": 41,
+    "310005": 42,
+    "310006": 43,
+    "310007": 44,
+    "310008": 45,
+    "310009": 46,
+    "310010": 47,
+    "310011": 48,
     "140000": 0,
     "140004": 1,
     "140017": 2,
@@ -20183,51 +22072,111 @@ var _index = {
     "140437": 359,
     "140438": 360,
     "140439": 361,
-    "140466": 362,
-    "140467": 363,
-    "140468": 364,
-    "140469": 365,
-    "149957": 366,
-    "149958": 367,
-    "149959": 368,
-    "149960": 369,
-    "149961": 370,
-    "149962": 371,
-    "149963": 372,
-    "149964": 373,
-    "149965": 374,
-    "149966": 375,
-    "149967": 376,
-    "149975": 377,
-    "149976": 378,
-    "149977": 379,
-    "149978": 380,
-    "149979": 381,
-    "149980": 382,
-    "149981": 383,
-    "149982": 384,
-    "149983": 385,
-    "149984": 386,
-    "149985": 387,
-    "149986": 388,
-    "149987": 389,
-    "149988": 390,
-    "149989": 391,
-    "149991": 392,
-    "149997": 393,
-    "149998": 394,
-    "149999": 395,
-    "149990": 396,
-    "150000": 397,
-    "150001": 398,
-    "150002": 399,
-    "150003": 400,
-    "150004": 401,
-    "222000": 402,
-    "250401": 403,
-    "250402": 404,
-    "250403": 405,
-    "250404": 406,
+    "140440": 362,
+    "140441": 363,
+    "140442": 364,
+    "140443": 365,
+    "140444": 366,
+    "140445": 367,
+    "140446": 368,
+    "140447": 369,
+    "140448": 370,
+    "140449": 371,
+    "140450": 372,
+    "140451": 373,
+    "140452": 374,
+    "140453": 375,
+    "140454": 376,
+    "140455": 377,
+    "140456": 378,
+    "140457": 379,
+    "140458": 380,
+    "140459": 381,
+    "140460": 382,
+    "140461": 383,
+    "140462": 384,
+    "140463": 385,
+    "140464": 386,
+    "140465": 387,
+    "140466": 388,
+    "140467": 389,
+    "140468": 390,
+    "140469": 391,
+    "140470": 392,
+    "140471": 393,
+    "140472": 394,
+    "140473": 395,
+    "140474": 396,
+    "140475": 397,
+    "140476": 398,
+    "149957": 399,
+    "149958": 400,
+    "149959": 401,
+    "149960": 402,
+    "149961": 403,
+    "149962": 404,
+    "149963": 405,
+    "149964": 406,
+    "149965": 407,
+    "149966": 408,
+    "149967": 409,
+    "149975": 410,
+    "149976": 411,
+    "149977": 412,
+    "149978": 413,
+    "149979": 414,
+    "149980": 415,
+    "149981": 416,
+    "149982": 417,
+    "149983": 418,
+    "149984": 419,
+    "149985": 420,
+    "149986": 421,
+    "149987": 422,
+    "149988": 423,
+    "149989": 424,
+    "149991": 425,
+    "149997": 426,
+    "149998": 427,
+    "149999": 428,
+    "149990": 429,
+    "150000": 430,
+    "150001": 431,
+    "150002": 432,
+    "150003": 433,
+    "150004": 434,
+    "150010": 435,
+    "150011": 436,
+    "150012": 437,
+    "150013": 438,
+    "150014": 439,
+    "150015": 440,
+    "150016": 441,
+    "150017": 442,
+    "150018": 443,
+    "150019": 444,
+    "150020": 445,
+    "150021": 446,
+    "150022": 447,
+    "150023": 448,
+    "150024": 449,
+    "150025": 450,
+    "150026": 451,
+    "150027": 452,
+    "150028": 453,
+    "150029": 454,
+    "150030": 455,
+    "150031": 456,
+    "150032": 457,
+    "150033": 458,
+    "150034": 459,
+    "150035": 460,
+    "150039": 461,
+    "222000": 462,
+    "250401": 463,
+    "250402": 464,
+    "250403": 465,
+    "250404": 466,
     "400004": 0,
     "400005": 1,
     "400006": 2,
@@ -20347,8 +22296,12 @@ var _index = {
     "408617": 116,
     "408618": 117,
     "408619": 118,
-    "408801": 119,
-    "408802": 120,
+    "408620": 119,
+    "408621": 120,
+    "408622": 121,
+    "408623": 122,
+    "408801": 123,
+    "408802": 124,
     "200001": 0,
     "200101": 1,
     "200102": 2,
@@ -20368,22 +22321,28 @@ var _index = {
     "200116": 16,
     "200117": 17,
     "200118": 18,
-    "202001": 19,
-    "202002": 20,
-    "202003": 21,
-    "202004": 22,
-    "202005": 23,
-    "202006": 24,
-    "202007": 25,
-    "202008": 26,
-    "202009": 27,
-    "202010": 28,
-    "202011": 29,
-    "202012": 30,
-    "202013": 31
+    "200119": 19,
+    "200120": 20,
+    "202001": 21,
+    "202002": 22,
+    "202003": 23,
+    "202004": 24,
+    "202005": 25,
+    "202006": 26,
+    "202007": 27,
+    "202008": 28,
+    "202009": 29,
+    "202010": 30,
+    "202011": 31,
+    "202012": 32,
+    "202013": 33,
+    "202014": 34,
+    "202015": 35,
+    "202016": 36
 }
 
 var _ver = [
     "1.x",
-    "2.0"
+    "2.0",
+    "2.1"
 ]
