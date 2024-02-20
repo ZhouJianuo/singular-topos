@@ -13606,8 +13606,8 @@ var _monsterskill = {
             "EN": "Set The Time"
         },
         "Desc": {
-            "CH": "进入蓄力状态，下次行动时施放【起床铃声】。",
-            "EN": "Enters the Charge state. Uses Wake-Up Alarm for the next action."
+            "CH": "进入蓄力状态，下次行动时施放<color style='color:#f29e38;'>【起床铃声】</color>。",
+            "EN": "Enters the Charge state. Uses <color style='color:#f29e38;'>Wake-Up Alarm</color> for the next action."
         },
         "SP": 0
     },
@@ -13630,11 +13630,14 @@ var _monsterskill = {
             "EN": "Wake-Up Punch"
         },
         "Desc": {
-            "CH": "对指定我方单体造成物理属性伤害。",
-            "EN": "Deals Physical DMG to a single target."
+            "CH": "对指定我方单体造成 <1> 物理属性伤害。",
+            "EN": "Deals <1> Physical DMG to a single target."
         },
         "SP": 10.0,
-        "Elem": "Phys"
+        "Elem": "Phys",
+        "DMG": [
+            2.5
+        ]
     },
     "301202001": {
         "Key": "Skill03",
@@ -16580,11 +16583,14 @@ var _monsterskill = {
             "EN": "Grudging Courtesy"
         },
         "Desc": {
-            "CH": "对指定我方单体造成量子属性伤害。并使自身获得1层【无明火】。",
-            "EN": "Deals minor Quantum DMG to a single target and gains 1 stack of Obscure Blaze."
+            "CH": "对指定我方单体造成 <1> 量子属性伤害。并使自身获得1层【无明火】。",
+            "EN": "Deals <1> Quantum DMG to a single target and gains 1 stack of Obscure Blaze."
         },
         "SP": 10.0,
-        "Elem": "Quantum"
+        "Elem": "Quantum",
+        "DMG": [
+            3
+        ]
     },
     "301301002": {
         "Key": "Skill04",
@@ -16605,11 +16611,14 @@ var _monsterskill = {
             "EN": "Tide of Enduring Grudges"
         },
         "Desc": {
-            "CH": "对我方全体造成少量量子属性伤害。并使自身获得1层【无明火】。",
-            "EN": "Deals Quantum DMG to all targets and gains 1 stack of Obscure Blaze."
+            "CH": "对我方全体造成 <1> 量子属性伤害。并使自身获得1层【无明火】。",
+            "EN": "Deals <1> Quantum DMG to all targets and gains 1 stack of Obscure Blaze."
         },
         "SP": 10.0,
-        "Elem": "Quantum"
+        "Elem": "Quantum",
+        "DMG": [
+            2
+        ]
     },
     "301301004": {
         "Key": "Skill07",
@@ -16618,12 +16627,15 @@ var _monsterskill = {
             "EN": "Bonepiercing Odium"
         },
         "Desc": {
-            "CH": "连续对我方随机单体造成少量量子属性伤害。每层【无明火】额外造成1段伤害。",
-            "EN": "Deals successive Quantum DMG to random targets. Each stack of Obscure Blaze additionally deals DMG 1 time."
+            "CH": "连续 <color style='color:#f29e38;'>3</color> 次对我方随机单体造成 <1> 量子属性伤害。每层【无明火】额外造成 <color style='color:#f29e38;'>1</color> 段伤害。",
+            "EN": "Deals <1> Quantum DMG to a random target <color style='color:#f29e38;'>3</color> times. Each stack of Obscure Blaze additionally deals DMG <color style='color:#f29e38;'>1</color> time."
         },
         "SP": 5.0,
         "Elem": "Quantum",
-        "Threat": true
+        "Threat": true,
+        "DMG": [
+            2.2
+        ]
     },
     "301301005": {
         "Key": "SkillP01",
@@ -16632,8 +16644,8 @@ var _monsterskill = {
             "EN": "Disembodied Shell"
         },
         "Desc": {
-            "CH": "进入【守备】状态，弱点未被击破时受到的伤害降低，被击破时行动额外延后，被击破后受到的伤害提高。",
-            "EN": "Enters the Safeguard state. When not Weakness Broken, reduces DMG received. Once Weakness is Broken, action will be delayed further. After Weakness is Broken, increases DMG received."
+            "CH": "进入<b>【守备】</b>状态，弱点未被击破时受到的伤害降低 <color style='color:#f29e38;'>60%</color>。被击破时行动额外延后 <color style='color:#f29e38;'>75%</color>，被击破后受到的伤害提高 <color style='color:#f29e38;'>50%</color>。",
+            "EN": "Enters the <b>Safeguard</b> state. When not Weakness Broken, reduces DMG received by <color style='color:#f29e38;'>60%</color>. Once Weakness is Broken, action will be delayed by <color style='color:#f29e38;'>75%</color>. After Weakness is Broken, increases DMG received by <color style='color:#f29e38;'>50%</color>."
         },
         "SP": 0
     },
@@ -17368,11 +17380,14 @@ var _monsterskill = {
             "EN": "Grudging Courtesy"
         },
         "Desc": {
-            "CH": "对指定我方单体造成量子属性伤害。并使自身获得1层【无明火】。",
-            "EN": "Deals minor Quantum DMG to a single target and gains 1 stack of Obscure Blaze."
+            "CH": "对指定我方单体造成 <1> 量子属性伤害。并使自身获得1层【无明火】。",
+            "EN": "Deals <1> Quantum DMG to a single target and gains 1 stack of Obscure Blaze."
         },
         "SP": 10.0,
-        "Elem": "Quantum"
+        "Elem": "Quantum",
+        "DMG": [
+            3
+        ]
     },
     "301301102": {
         "Key": "Skill04",
@@ -17393,11 +17408,14 @@ var _monsterskill = {
             "EN": "Tide of Enduring Grudges"
         },
         "Desc": {
-            "CH": "对我方全体造成少量量子属性伤害。并使自身获得1层【无明火】。",
-            "EN": "Deals Quantum DMG to all targets and gains 1 stack of Obscure Blaze."
+            "CH": "对我方全体造成 <1> 量子属性伤害。并使自身获得1层【无明火】。",
+            "EN": "Deals <1> Quantum DMG to all targets and gains 1 stack of Obscure Blaze."
         },
         "SP": 10.0,
-        "Elem": "Quantum"
+        "Elem": "Quantum",
+        "DMG": [
+            2
+        ]
     },
     "301301104": {
         "Key": "Skill07",
@@ -17406,12 +17424,15 @@ var _monsterskill = {
             "EN": "Bonepiercing Odium"
         },
         "Desc": {
-            "CH": "连续对我方随机单体造成少量量子属性伤害。每层【无明火】额外造成1段伤害。",
-            "EN": "Deals successive Quantum DMG to a random target. Each stack of Obscure Blaze additionally deals DMG 1 time."
+            "CH": "连续 <color style='color:#f29e38;'>3</color> 次对我方随机单体造成 <1> 量子属性伤害。每层【无明火】额外造成 <color style='color:#f29e38;'>1</color> 段伤害。",
+            "EN": "Deals <1> Quantum DMG to a random target <color style='color:#f29e38;'>3</color> times. Each stack of Obscure Blaze additionally deals DMG <color style='color:#f29e38;'>1</color> time."
         },
         "SP": 5.0,
         "Elem": "Quantum",
-        "Threat": true
+        "Threat": true,
+        "DMG": [
+            2.2
+        ]
     },
     "301301105": {
         "Key": "SkillP01",
@@ -17420,8 +17441,8 @@ var _monsterskill = {
             "EN": "Disembodied Shell"
         },
         "Desc": {
-            "CH": "进入【守备】状态，弱点未被击破时受到的伤害降低，被击破时行动额外延后，被击破后受到的伤害提高。",
-            "EN": "Enters the Safeguard state. When not Weakness Broken, reduces DMG received. Once Weakness is Broken, action will be delayed. After Weakness is Broken, increases DMG received."
+            "CH": "进入<b>【守备】</b>状态，弱点未被击破时受到的伤害降低 <color style='color:#f29e38;'>30%</color>。被击破时行动额外延后 <color style='color:#f29e38;'>75%</color>，被击破后受到的伤害提高 <color style='color:#f29e38;'>50%</color>。",
+            "EN": "Enters the <b>Safeguard</b> state. When not Weakness Broken, reduces DMG received by <color style='color:#f29e38;'>30%</color>. Once Weakness is Broken, action will be delayed by <color style='color:#f29e38;'>75%</color>. After Weakness is Broken, increases DMG received by <color style='color:#f29e38;'>50%</color>."
         },
         "SP": 0
     },

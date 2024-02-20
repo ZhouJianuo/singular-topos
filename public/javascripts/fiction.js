@@ -497,7 +497,7 @@ $(function () {
                                 span: function () {
                                     var s = 'HP <b><color style="color:#cc0000;">' + t.HP.toString() + '</color></b>'
                                     if (me.HPCount && me.HPCount > 1) {
-                                        s += '×' + me.HPCount
+                                        s += '<b>×' + me.HPCount + '</b>'
                                     }
                                     return s
                                 },

@@ -680,20 +680,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "赵爽",
-                "EN": "赵爽"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Lizzie Freeman",
-                "EN": "Lizzie Freeman"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "上田麗奈",
-                "EN": "上田麗奈"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "성예원",
-                "EN": "성예원"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 110
@@ -853,20 +853,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "杨梦露",
-                "EN": "杨梦露"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Arryn Zech",
-                "EN": "Arryn Zech"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "生天目仁美",
-                "EN": "生天目仁美"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "김하영",
-                "EN": "김하영"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 109
@@ -1026,20 +1026,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "柳知萧",
-                "EN": "柳知萧"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Cat Protano",
-                "EN": "Cat Protano"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "松井恵理子",
-                "EN": "松井恵理子"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "박신희",
-                "EN": "박신희"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 108
@@ -1199,20 +1199,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "溯浔",
-                "EN": "溯浔"
+                "CH": "…",
+                "EN": "…"
             },
             {
-                "CH": "Jenny Yokobori",
-                "EN": "Jenny Yokobori"
+                "CH": "…",
+                "EN": "…"
             },
             {
-                "CH": "河瀬茉希",
-                "EN": "河瀬茉希"
+                "CH": "…",
+                "EN": "…"
             },
             {
-                "CH": "박리나",
-                "EN": "박리나"
+                "CH": "…",
+                "EN": "…"
             }
         ],
         "Camp": 104
@@ -1372,20 +1372,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "张文钰",
-                "EN": "张文钰"
+                "CH": "…",
+                "EN": "…"
             },
             {
-                "CH": "Emi Lo",
-                "EN": "Emi Lo"
+                "CH": "…",
+                "EN": "…"
             },
             {
-                "CH": "大西沙織",
-                "EN": "大西沙織"
+                "CH": "…",
+                "EN": "…"
             },
             {
-                "CH": "윤여진",
-                "EN": "윤여진"
+                "CH": "…",
+                "EN": "…"
             }
         ],
         "Camp": 102
@@ -1545,20 +1545,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "桑毓泽",
-                "EN": "桑毓泽"
+                "CH": "…",
+                "EN": "…"
             },
             {
-                "CH": "Jordan Paul Haro",
-                "EN": "Jordan Paul Haro"
+                "CH": "…",
+                "EN": "…"
             },
             {
-                "CH": "武内駿輔",
-                "EN": "武内駿輔"
+                "CH": "…",
+                "EN": "…"
             },
             {
-                "CH": "이동훈",
-                "EN": "이동훈"
+                "CH": "…",
+                "EN": "…"
             }
         ],
         "Camp": 107
@@ -1718,20 +1718,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "张雨曦",
-                "EN": "张雨曦"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Suzie Yeung",
-                "EN": "Suzie Yeung"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "鈴代紗弓",
-                "EN": "鈴代紗弓"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "윤은서",
-                "EN": "윤은서"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 104
@@ -1891,20 +1891,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "葛子瑞&刘北辰",
-                "EN": "葛子瑞&刘北辰"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Courtney Lin & Adam Michael Gold",
-                "EN": "Courtney Lin & Adam Michael Gold"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "長縄まりあ&平林剛",
-                "EN": "長縄まりあ&平林剛"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "김채린&한복현",
-                "EN": "김채린&한복현"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 104
@@ -2065,20 +2065,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "梁达伟",
-                "EN": "梁达伟"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Adam Michael Gold",
-                "EN": "Adam Michael Gold"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "立花慎之介",
-                "EN": "立花慎之介"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "최승훈",
-                "EN": "최승훈"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 106
@@ -2238,20 +2238,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "陆敏悦",
-                "EN": "陆敏悦"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Sam Slade",
-                "EN": "Sam Slade"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "南條愛乃",
-                "EN": "南條愛乃"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "방시우",
-                "EN": "방시우"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 105
@@ -2411,20 +2411,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "小敢",
-                "EN": "小敢"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Morgan Lauré",
-                "EN": "Morgan Lauré"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "直田姫奈",
-                "EN": "直田姫奈"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "김수영",
-                "EN": "김수영"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 104
@@ -2585,20 +2585,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "杜冥鸦",
-                "EN": "杜冥鸦"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "AmaLee",
-                "EN": "AmaLee"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "桑島法子",
-                "EN": "桑島法子"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "박이서",
-                "EN": "박이서"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 104
@@ -2758,20 +2758,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "米糊",
-                "EN": "米糊"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Risa Mei",
-                "EN": "Risa Mei"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "照井春佳",
-                "EN": "照井春佳"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "이은조",
-                "EN": "이은조"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 103
@@ -2931,20 +2931,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "花玲",
-                "EN": "花玲"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Sarah Wiedenheft",
-                "EN": "Sarah Wiedenheft"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "伊藤美来",
-                "EN": "伊藤美来"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "이지현",
-                "EN": "이지현"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 104
@@ -3108,20 +3108,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "李春胤",
-                "EN": "李春胤"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Nicholas Leung",
-                "EN": "Nicholas Leung"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "伊東健人",
-                "EN": "伊東健人"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "김혜성",
-                "EN": "김혜성"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 104
@@ -3281,20 +3281,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "徐慧",
-                "EN": "徐慧"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Cheryl Texiera",
-                "EN": "Cheryl Texiera"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "伊藤静",
-                "EN": "伊藤静"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "사문영",
-                "EN": "사문영"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 101
@@ -3455,20 +3455,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "萧翟",
-                "EN": "萧翟"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Howard Wang",
-                "EN": "Howard Wang"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "梶原岳人",
-                "EN": "梶原岳人"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "이주승",
-                "EN": "이주승"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 103
@@ -3629,20 +3629,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "刘以嘉",
-                "EN": "刘以嘉"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Daman Mills",
-                "EN": "Daman Mills"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "三木眞一郎",
-                "EN": "三木眞一郎"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "곽윤상",
-                "EN": "곽윤상"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 101
@@ -3802,20 +3802,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "Hanser",
-                "EN": "Hanser"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Melissa Fahn",
-                "EN": "Melissa Fahn"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "阿澄佳奈",
-                "EN": "阿澄佳奈"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "장미",
-                "EN": "장미"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 101
@@ -3975,20 +3975,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "赵路",
-                "EN": "赵路"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Craig Lee Thomas",
-                "EN": "Craig Lee Thomas"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "石田彰",
-                "EN": "石田彰"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "신용우",
-                "EN": "신용우"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 104
@@ -4148,20 +4148,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "钟可",
-                "EN": "钟可"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Dawn M. Bennett",
-                "EN": "Dawn M. Bennett"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "冬馬由美",
-                "EN": "冬馬由美"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "전숙경",
-                "EN": "전숙경"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 104
@@ -4321,20 +4321,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "诺亚",
-                "EN": "诺亚"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Skyler Davenport",
-                "EN": "Skyler Davenport"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "小倉唯",
-                "EN": "小倉唯"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "정혜원",
-                "EN": "정혜원"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 100
@@ -4494,20 +4494,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "李春胤",
-                "EN": "李春胤"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Nicholas Leung",
-                "EN": "Nicholas Leung"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "伊東健人",
-                "EN": "伊東健人"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "김혜성",
-                "EN": "김혜성"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 100
@@ -4667,20 +4667,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "林簌",
-                "EN": "林簌"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Cia Court",
-                "EN": "Cia Court"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "田中理恵",
-                "EN": "田中理恵"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "김보나",
-                "EN": "김보나"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 100
@@ -4840,20 +4840,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "彭博",
-                "EN": "彭博"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Corey Landis",
-                "EN": "Corey Landis"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "細谷佳正",
-                "EN": "細谷佳正"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "한신",
-                "EN": "한신"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 100
@@ -5013,20 +5013,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "陶典",
-                "EN": "陶典"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Dani Chambers",
-                "EN": "Dani Chambers"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "白石涼子",
-                "EN": "白石涼子"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "김율",
-                "EN": "김율"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 102
@@ -5186,20 +5186,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "龟娘",
-                "EN": "龟娘"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Felecia Angelle",
-                "EN": "Felecia Angelle"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "赤﨑千夏",
-                "EN": "赤﨑千夏"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "김현지",
-                "EN": "김현지"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 102
@@ -5359,20 +5359,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "侯小菲",
-                "EN": "侯小菲"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "PJ Mattson",
-                "EN": "PJ Mattson"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "山崎はるか",
-                "EN": "山崎はるか"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "김서영",
-                "EN": "김서영"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 102
@@ -5532,20 +5532,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "谢莹",
-                "EN": "谢莹"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Madeline Reiter",
-                "EN": "Madeline Reiter"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "阿澄佳奈",
-                "EN": "阿澄佳奈"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "이보희",
-                "EN": "이보희"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 103,
@@ -5719,20 +5719,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "唐雅菁",
-                "EN": "唐雅菁"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Molly Zhang",
-                "EN": "Molly Zhang"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "中原麻衣",
-                "EN": "中原麻衣"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "송하림",
-                "EN": "송하림"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 103
@@ -5892,20 +5892,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "穆雪婷",
-                "EN": "穆雪婷"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Natalie Van Sistine",
-                "EN": "Natalie Van Sistine"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "愛美",
-                "EN": "愛美"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "민아",
-                "EN": "민아"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 103
@@ -6065,20 +6065,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "马洋",
-                "EN": "马洋"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Bryson Baugus",
-                "EN": "Bryson Baugus"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "古川慎",
-                "EN": "古川慎"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "민승우",
-                "EN": "민승우"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 103
@@ -6238,20 +6238,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "秦紫翼",
-                "EN": "秦紫翼"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Elizabeth Maxwell",
-                "EN": "Elizabeth Maxwell"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "内山夕実",
-                "EN": "内山夕実"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "강은애",
-                "EN": "강은애"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 103
@@ -6411,20 +6411,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "宴宁",
-                "EN": "宴宁"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Xanthe Huynh",
-                "EN": "Xanthe Huynh"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "諸星すみれ",
-                "EN": "諸星すみれ"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "이다은",
-                "EN": "이다은"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 103
@@ -6584,20 +6584,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "紫苏九月&王宇航",
-                "EN": "紫苏九月&王宇航"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Emily Sun & D.C. Douglas",
-                "EN": "Emily Sun & D.C. Douglas"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "日高里菜&安元洋貴",
-                "EN": "日高里菜&安元洋貴"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "김예림&최낙윤",
-                "EN": "김예림&최낙윤"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 103
@@ -6757,20 +6757,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "刘圣博",
-                "EN": "刘圣博"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Roger Rose",
-                "EN": "Roger Rose"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "平川大輔",
-                "EN": "平川大輔"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "정재헌",
-                "EN": "정재헌"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 103
@@ -6931,20 +6931,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "王晓彤",
-                "EN": "王晓彤"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Felecia Angelle",
-                "EN": "Felecia Angelle"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "徳井青空",
-                "EN": "徳井青空"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "이재현",
-                "EN": "이재현"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 103
@@ -7105,20 +7105,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "刘十四",
-                "EN": "刘十四"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Bryn Apprill",
-                "EN": "Bryn Apprill"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "伊達朱里紗",
-                "EN": "伊達朱里紗"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "서다혜",
-                "EN": "서다혜"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 104
@@ -7278,20 +7278,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "蒋丽",
-                "EN": "蒋丽"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Laci Morgan",
-                "EN": "Laci Morgan"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "高田憂希",
-                "EN": "高田憂希"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "이명호",
-                "EN": "이명호"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 104
@@ -7451,20 +7451,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "孙晔",
-                "EN": "孙晔"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Alejandro Saab",
-                "EN": "Alejandro Saab"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "小野大輔",
-                "EN": "小野大輔"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "류승곤",
-                "EN": "류승곤"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 104
@@ -7624,20 +7624,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "陈婷婷",
-                "EN": "陈婷婷"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Anjali Kunapaneni",
-                "EN": "Anjali Kunapaneni"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "福圓美里",
-                "EN": "福圓美里"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "박시윤",
-                "EN": "박시윤"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 104
@@ -7797,20 +7797,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "喵酱",
-                "EN": "喵酱"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Amber May",
-                "EN": "Amber May"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "井上麻里奈",
-                "EN": "井上麻里奈"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "이새아",
-                "EN": "이새아"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 104
@@ -7970,20 +7970,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "多多",
-                "EN": "多多"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Su Ling Chan",
-                "EN": "Su Ling Chan"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "加藤英美里",
-                "EN": "加藤英美里"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "조현정",
-                "EN": "조현정"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 104
@@ -8145,20 +8145,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "秦且歌",
-                "EN": "秦且歌"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Caleb Yen",
-                "EN": "Caleb Yen"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "榎木淳弥",
-                "EN": "榎木淳弥"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "김명준",
-                "EN": "김명준"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 100
@@ -8320,20 +8320,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "陈婷婷",
-                "EN": "陈婷婷"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Rachael Chau",
-                "EN": "Rachael Chau"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "石川由依",
-                "EN": "石川由依"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "김하루",
-                "EN": "김하루"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 100
@@ -8494,20 +8494,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "秦且歌",
-                "EN": "秦且歌"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Caleb Yen",
-                "EN": "Caleb Yen"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "榎木淳弥",
-                "EN": "榎木淳弥"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "김명준",
-                "EN": "김명준"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 100
@@ -8668,20 +8668,20 @@ var _avatar = [
         ],
         "CV": [
             {
-                "CH": "陈婷婷",
-                "EN": "陈婷婷"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "Rachael Chau",
-                "EN": "Rachael Chau"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "石川由依",
-                "EN": "石川由依"
+                "CH": "…",
+                "EN": "..."
             },
             {
-                "CH": "김하루",
-                "EN": "김하루"
+                "CH": "…",
+                "EN": "..."
             }
         ],
         "Camp": 100
@@ -47234,7 +47234,10 @@ var _story = {
                 "EN": "You have arrived at the \"City of Preservation.\"<br>Behind the snow curtain, the wind lashes like steel blades, but the kindling burns on.<br>Distant lands won't hear them, and the earth trembles in kind, with only the wailing crowds braving the wind.<br><br>After facing foreign enemies, the Eternal Freeze, and reality's fissures, a rot begins to fester within the fort.<br>You try lending a helping hand, but are forsaken.<br>Some once looked down on you and misunderstood you, but still you stood by their side and helped them find their way.<br>More care about you and worry about you. They face their suffering, and find the cure for the distressed.<br>Eventually, they come to your side.<br><br>In the ice and snow, you are like a fire, protecting the soul of this world<br>...Even though you must scorch yourself day and night."
             }
         }
-    ]
+    ],
+    "1301": [],
+    "1304": [],
+    "1308": []
 }
 
 var _voice = {

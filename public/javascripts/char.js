@@ -1622,7 +1622,7 @@ $(function () {
     }
 
     $('body').on('click', '.avatar_mat img', function () {
-        window.open('/sr/item/' + $(this).attr('data-id'))
+        window.open('/sr/item/' + $(this).attr('data-id') + '?lang=' + lang)
     })
 
     $('body').on('click', '.up', function () {

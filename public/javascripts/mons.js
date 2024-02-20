@@ -111,7 +111,7 @@ $(function () {
             if (kid == 1000) {
                 show = true
             } else if (kid == 1001) {
-                show = this.Name.EN.includes('Bug')
+                show = t.Name.EN.includes('Bug')
             } else if (kid == 1002) {
                 show = t.Name.EN.includes('Complete')
             } else if (kid == 1003) {

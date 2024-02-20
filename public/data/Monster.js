@@ -34204,6 +34204,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 11,
         "Icon": "mostericon/Monster_3012010.png",
+        "Figure": "monsterfigure/Monster_3012010.png",
         "AllSkills": [
             301201001
         ],
@@ -34256,6 +34257,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 11,
         "Icon": "mostericon/Monster_3012010.png",
+        "Figure": "monsterfigure/Monster_3012010.png",
         "AllSkills": [
             301201001
         ]
@@ -34526,6 +34528,7 @@ var _monster = [
         "Rank": "Elite",
         "Camp": 11,
         "Icon": "mostericon/Monster_3013010.png",
+        "Figure": "monsterfigure/Monster_3013010.png",
         "AllSkills": [
             301301001,
             301301002,
@@ -34583,6 +34586,7 @@ var _monster = [
         "Rank": "Elite",
         "Camp": 11,
         "Icon": "mostericon/Monster_3013010.png",
+        "Figure": "monsterfigure/Monster_3013010.png",
         "AllSkills": [
             301301001,
             301301002,
@@ -34639,6 +34643,7 @@ var _monster = [
         "Rank": "Elite",
         "Camp": 11,
         "Icon": "mostericon/Monster_3013010.png",
+        "Figure": "monsterfigure/Monster_3013010.png",
         "AllSkills": [
             301301101,
             301301102,
@@ -57435,6 +57440,7 @@ var _monster = [
         "Rank": "MinionLv2",
         "Camp": 0,
         "Icon": "mostericon/Monster_8032030.png",
+        "Figure": "monsterfigure/Monster_8032030.png",
         "AllSkills": [
             803203001
         ],
@@ -58097,6 +58103,7 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 9,
         "Icon": "mostericon/Monster_8034010.png",
+        "Figure": "monsterfigure/Monster_8034010.png",
         "AllSkills": [
             803401001,
             803401002,
@@ -58176,6 +58183,7 @@ var _monster = [
         "Rank": "LittleBoss",
         "Camp": 9,
         "Icon": "mostericon/Monster_8034010.png",
+        "Figure": "monsterfigure/Monster_8034010.png",
         "AllSkills": [
             803401001,
             803401002,

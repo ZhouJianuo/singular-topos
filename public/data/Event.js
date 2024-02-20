@@ -2,8 +2,91 @@
 
 var _event = [
     {
+        "_id": 50010,
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestTelevision.png",
+        "Name": {
+            "CH": "战意狂潮",
+            "EN": "Tides of War"
+        },
+        "Desc": {
+            "CH": "维修科的某位科员竟在忆泡之中定制出一个战斗游戏，他邀请你前来游玩……",
+            "EN": "A researcher from the Maintenance Department unexpectedly made a fighting game inside the Memory Bubble. He invites you to come and play..."
+        },
+        "Story": {
+            "CH": "◆ 简介 ◆<br>维修科的某位科员是你的「迷弟」，他利用忆泡复现出了自己童年时最爱的游戏。他特地托人邀请你前去游玩，还为你贴心地准备好了「辅助功能」，实在是盛情难却……<br><br>◆ 活动规则 ◆<br>● 本次活动中，6个战斗关卡将逐天解锁。<br>● 当开拓者提升「均衡等级」时，敌方强度将同步提升。<br>● 开拓者可以选择试用角色参与挑战。<br>● 战斗内需要在6个轮次内，击败3个波次的首领，非首领敌人将不断刷新。<br>● 通关时如有剩余轮次可获得更高评级。<br>● 我方角色消灭敌方目标时恢复的能量，为常规战斗的 50% 。<br><br>◆玩法概述◆<br>● 每个关卡具有一种「战意机制」，触发后可快速积累「战意值」，提升「战意阶段」，获取更多增益。<br>● 进入「战意阶段4：力量觉醒」后，获得强大的关卡增益击败敌人！<br><br>◆ 战意值 ◆<br>● 战斗中每次触发「战意机制」，可积累大量「战意值」。<br>● 每次角色行动，可积累少量「战意值」。<br>● 「战意值」达到目标后，可提升「战意阶段」。<br>●  每个关卡提升「战意阶段」需要积累的「战意值」不同，可在关卡内查阅。<br><br>◆ 战意阶段 ◆<br>● 「战意阶段」共分为4个阶段，每达到1个阶段可额外激活1个「辅助功能」，获得更多的关卡增益。<br>●  进入「战意阶段4：力量觉醒」可获得强大增益。该阶段生效的「辅助功能」为本关的核心增益，默认添加无法选择。<br>●  每个关卡「战意阶段2」、「战意阶段3」生效的「辅助功能」需要在进入战斗前选择添加。<br>●  「战意阶段4：力量觉醒」将在一定行动值内结束，结束后将返回「战意阶段3」。<br>● 「战意阶段4：力量觉醒」期间每次攻击敌人可积累「觉醒攻击」，根据积累的「觉醒攻击」次数，将在阶段结束返回「战意阶段3」时，返还一定的「战意值」，可更快重新进入「战意阶段4：力量觉醒」。<br><br>◆ 活动奖励 ◆<br>● 活动期间，在关卡内将「战意阶段」提升至指定阶段、击败关卡首领，可在「限时奖励」中领取关卡奖励。<br>● 挑战全部关卡并击败全部关卡第1波次首领，可领取鲍勃的谢礼。",
+            "EN": "◆ Introduction ◆<br>A researcher from the Maintenance Department is your \"Fanboy.\" He used Memory Bubbles to recreate his favorite childhood game. He specifically asked someone to invite you to play it, even preparing a \"support function\" for you. It really is too kind to refuse...<br><br>◆ Event Rules ◆<br>● In this event, 6 combat stages will be unlocked one by one.<br>● When the Trailblazer increases their Equilibrium Level, enemies will correspondingly increase in strength.<br>● Trailblazers can select trial characters to take part in the challenge.<br>● In combat, you must defeat 3 waves of Boss Enemies within 6 Cycles. Non-boss enemies will also constantly appear.<br>● A higher rating can be achieved if there are Cycles remaining when the stage is cleared.<br>● Energy regenerated when an ally defeats an enemy is equal to 50% of that of normal combat.<br><br>◆ Gameplay Overview ◆<br>● Each stage has its own Grit Mechanics. Trigger it to quickly accumulate and increase Grit Value, increase your Grit Phase, and obtain more buffs.<br>● After entering Grit Phase 4: Might Unleashed, you will obtain powerful Stage Buffs to defeat enemies!<br><br>◆ Grit Value ◆<br>● Grit Value is accumulated each time Grit Mechanics are triggered during battle.<br>● Characters can accumulate a small amount of Grit Value each time they take action.<br>● Once your Grit Value reaches the target value, you can raise your Grit Phase.<br>● The amount of Grit Value required to raise your Grit Phase in each stage is different. You can check it in the stage.<br><br>◆ Grit Phase ◆<br>● There are 4 Grit Phases. Every time you reach the next phase, you can activate an additional support function to obtain more Stage Buffs.<br>● Enter Grit Phase 4: Might Unleashed to gain powerful buffs. The support function active in this phase is the core buff for this stage and is added by default and cannot be selected.<br>● For each stage, the support functions in Grit Phase 2 and Grit Phase 3 need to be selected before entering battle.<br>● Grit Phase 4: Might Unleashed will end within a certain amount of action value and combat will return to Grit Phase 3 when this ends.<br>● During Grit Phase 4: Might Unleashed, each attack against an enemy accumulates Limit-Broken Attack. Based on the number of Limit-Broken Attacks accumulated, a certain amount of Grit Value will be returned when you return to Grit Phase 3, helping you to quickly re-enter Grit Phase 4: Might Unleashed.<br><br>◆ Event Rewards ◆<br>● During the event, increase Grit Phase to a certain Phase in each stage and defeat the stage boss to claim stage rewards from \"Limited-Time Rewards.\"<br>● Challenge all stages and defeat the first wave of bosses in all stages to claim Bob's Offering."
+        },
+        "Reward": [
+            241,
+            1,
+            235,
+            213,
+            223,
+            233,
+            2
+        ],
+        "Ver": "2.1"
+    },
+    {
+        "_id": 50009,
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestDrinkMaker.png",
+        "Name": {
+            "CH": "杯中逸事",
+            "EN": "Vignettes in a Cup"
+        },
+        "Desc": {
+            "CH": "「惊梦酒吧」的管理者有事外出，委托你接替调饮师的工作。但没想到，光顾酒吧的并非普通客人……",
+            "EN": "The manager of the Dreamjolt Hostelry is away and has entrusted you to take over the role of the drinksmith. However, the patrons of the bar are not ordinary customers..."
+        },
+        "Story": {
+            "CH": "◆ 简介 ◆<br>「惊梦酒吧」的管理者有事外出，委托你接替调饮师的工作。但没想到，光顾酒吧的并非普通客人……<br><br>◆ 活动规则 ◆<br>● 在「杯中逸事」活动中，开拓者将扮演调饮师，与「惊梦剧团」的成员交谈，调制出符合它们需求的饮品，获取信任，进而解决它们的情绪困扰。<br><br>◆ 常驻奖励 ◆<br>●接待顾客后，都会获得「顾客小费」。如果满足了它们的需求，拿到的「顾客小费」会更多。<br>● 「顾客小费」可以在「营收统计」中兑换奖励。<br><br>◆ 限时奖励 ◆<br>● 限时活动期间，通过完成指定任务目标，可获取对应奖励。<br><br>◆ 活动提示 ◆<br>「杯中逸事」限时活动结束后，开拓者将无法获取活动期间的限时奖励，但仍可前往场景「惊梦酒吧」的「调饮吧台」中体验并获取常驻奖励。",
+            "EN": "◆ Introduction ◆<br>The manager of the Dreamjolt Hostelry is away and has entrusted you to take over the role of the drinksmith. However, the patrons of the bar are not ordinary customers...<br><br>◆ Event Rules ◆<br>● In the Vignettes in a Cup event, the Trailblazer will play the role of the drinksmith, conversing with members of the Dreamjolt Troupe and crafting drinks that meet their needs to gain their trust and address their emotional troubles.<br><br>◆ Permanent Rewards ◆<br>● After serving customers, you will receive Tips. If you meet their needs, you will receive extra Tips.<br>● Tips can be exchanged for rewards in the Revenue Statistics.<br><br>◆ Limited-time Rewards ◆<br>● During the limited-time event, completing specified missions will earn you corresponding rewards.<br><br>◆ Event Reminders ◆<br>After the Vignettes in a Cup limited-time event ends, Trailblazers will no longer be able to obtain the limited-time rewards, but they can still visit the Drink Lounge in the Dreamjolt Hostelry map to experience and obtain permanent rewards."
+        },
+        "Reward": [
+            236,
+            241,
+            1,
+            309003,
+            220004,
+            213,
+            223,
+            233,
+            2
+        ],
+        "Ver": "2.1"
+    },
+    {
+        "_id": 50008,
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestMonopoly.png",
+        "Name": {
+            "CH": "银河强手棋",
+            "EN": "Cosmodyssey"
+        },
+        "Desc": {
+            "CH": "星穹列车收到了来自无名客的包裹，帕姆等你回列车一起拆开看看……",
+            "EN": "The Astral Express received a package from a Nameless. Pom-Pom is waiting for you to return to the Express to open it together and see what's inside..."
+        },
+        "Story": {
+            "CH": "◆ 简介 ◆<br>星穹列车收到了来自无名客的包裹，帕姆等你回列车一起拆开看看……<br><br>◆ 活动规则 ◆<br>● 活动开启后，每日登录即可获取「开拓券」和骰子。开拓者可在「银河强手棋」中使用骰子获取「开拓券」，「开拓券」可提升贡献进度，获得贡献奖励。<br><br>◆ 银河强手棋 ◆<br>● 在「银河强手棋」中，开拓者可通过掷骰子决定在棋盘中的前进步数，并获取「开拓券」，不同的棋盘格内容各异。<br>● 活动期间每日可用的骰子有限，当骰子用尽时，开拓者可将今日获取的「开拓券」进行贡献。每日贡献的「开拓券」将提升【个人贡献进度】和【全银河贡献进度】。<br>● 若当日未进行贡献，则会在下一次进入活动时自动贡献「开拓券」，并推动贡献进度的增长。<br><br>◆ 贡献奖励 ◆<br>● 活动期间持续贡献「开拓券」，可加速【个人贡献进度】并领取对应奖励。<br>● 个人贡献也将促进【全银河贡献进度】提升，当【全银河贡献进度】提升至特定节点时将解锁节点奖励。<br><br>◆ 无名客问卷 ◆<br>● 在「银河强手棋」中，开拓者将会在特定的棋盘格体验到「无名客问卷」玩法。基于不同的情景问答，开拓者可做出心仪的选择。<br>● 完成一定数量的「无名客问卷」将解锁「无名客报告」，并获得对应的解锁奖励。",
+            "EN": "◆ Introduction ◆<br>The Astral Express received a package from a Nameless. Pom-Pom is waiting for you to return to the Express to open it together and see what's inside...<br><br>◆ Event Rules ◆<br>● After the event starts, log in daily to obtain Trailblaze Funds and dice. Trailblazers can use dice to obtain Trailblaze Funds in Cosmodyssey. Trailblaze Funds can be used to increase Contribution Progress and obtain contribution rewards.<br><br>◆ Cosmodyssey ◆<br>● In Cosmodyssey, Trailblazers can toss dice to move forward on the board and obtain Trailblaze Funds. Different board tiles will have different contents.<br>● During the event, there is a limit to the number of dice Trailblazers can use each day. Once you run out of dice, you can use the Trailblaze Funds you obtained that day to increase your Contribution. The Trailblaze Funds contributed daily increases \"Individual Contribution Progress\" and \"Cosmic Contribution Progress.\"<br>● If you fail to contribute on a particular day, you will automatically contribute Trailblaze Funds and increase your Contribution Progress the next time you enter the event.<br><br>◆ Contribution Rewards ◆<br>● Continuously contribute Trailblaze Funds during the event to speed up your Individual Contribution Progress and claim the corresponding rewards.<br>● Individual Contribution will also boost Cosmic Contribution Progress. When Cosmic Contribution Progress reaches specific milestones, you will unlock milestone rewards.<br><br>◆ Nameless Scratch-Off ◆<br>● During the event, Nameless Scratch-Offs will announce its winners at specific times for a total of 3 times. The start time for each phase is based on the time indicated on the event page (server time).<br>● After completing your first contribution to Cosmodyssey, you will be eligible to participate in the Nameless Scratch-Offs. Before the draw of the current Nameless Scratch-Off, Trailblazers can go to the Nameless Scratch-Off page to obtain 1 prize draw number. The number obtained in each round is only valid for that round.<br>● After the winning number has been announced, you can go to the Nameless Scratch-Off page and check the last digits of your number. If the last digits of your number match the winning number, you can claim the corresponding rewards. The rewards can be claimed until the end of the event.<br>●If you did not obtain a number before the winners are announced, you can go to the Nameless Scratch-Off page after the winning number's announcement to collect a participation prize.<br><br>◆ Nameless Survey ◆<br>● In Cosmodyssey, Trailblazers will experience the Nameless Survey gameplay on specific board tiles. Trailblazers can make choices based on the different scenarios.<br>● Complete a certain number of Nameless Surveys to unlock the Nameless Report and obtain the corresponding rewards."
+        },
+        "Reward": [
+            236,
+            241,
+            1,
+            221005,
+            202016,
+            213,
+            223,
+            233,
+            110222,
+            2
+        ],
+        "Ver": "2.1"
+    },
+    {
         "_id": 30010,
-        "Icon": "BtnQuestPenaconyActivityTimeLimit.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestPenaconyActivityTimeLimit.png",
         "Name": {
             "CH": "《逐梦客时讯》",
             "EN": "<i>Dreamchaser Bulletin</i>"
@@ -28,7 +111,7 @@ var _event = [
     },
     {
         "_id": 40005,
-        "Icon": "BtnQuestTelevision.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestTelevision.png",
         "Name": {
             "CH": "惊梦电视台",
             "EN": "Dreamjolt TV"
@@ -54,7 +137,7 @@ var _event = [
     },
     {
         "_id": 50007,
-        "Icon": "BtnQuestMiniGame.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestMiniGame.png",
         "Name": {
             "CH": "哈努兄弟越狱记",
             "EN": "Hanu's Prison Break"
@@ -82,7 +165,7 @@ var _event = [
     },
     {
         "_id": 30009,
-        "Icon": "BtnQuestPenaconyGift.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestPenaconyGift.png",
         "Name": {
             "CH": "匹诺康尼美食庆典",
             "EN": "Penacony Food Fest"
@@ -111,7 +194,7 @@ var _event = [
     },
     {
         "_id": 30008,
-        "Icon": "BtnQuestSpaceZoo.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestSpaceZoo.png",
         "Name": {
             "CH": "异宠拾遗",
             "EN": "Critter Pick"
@@ -138,7 +221,7 @@ var _event = [
     },
     {
         "_id": 40004,
-        "Icon": "BtnQuestActivityStrongChallenge.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestActivityStrongChallenge.png",
         "Name": {
             "CH": "虚境味探",
             "EN": "Virtual Scentventure"
@@ -164,7 +247,7 @@ var _event = [
     },
     {
         "_id": 140007,
-        "Icon": "BtnBoxingClubResonance.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnBoxingClubResonance.png",
         "Name": {
             "CH": "磐岩镇超级联赛",
             "EN": "Boulder Town Super League"
@@ -188,7 +271,7 @@ var _event = [
     },
     {
         "_id": 40003,
-        "Icon": "BtnBoxingClubResonance.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnBoxingClubResonance.png",
         "Name": {
             "CH": "磐岩镇斗技表演赛",
             "EN": "Boulder Town Martial Exhibition"
@@ -216,7 +299,7 @@ var _event = [
     },
     {
         "_id": 50006,
-        "Icon": "BtnQuesHeliobus.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuesHeliobus.png",
         "Name": {
             "CH": "狐斋志异",
             "EN": "A Foxian Tale of the Haunted"
@@ -246,8 +329,32 @@ var _event = [
         "Ver": "1.x"
     },
     {
+        "_id": 60008,
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnRogueM9.png",
+        "Name": {
+            "CH": "模拟宇宙 · 第九世界",
+            "EN": "Simulated Universe (World 9)"
+        },
+        "Desc": {
+            "CH": "可在「模拟宇宙 · 第九世界」沉浸装置中，换取位面饰品「出云显世与高天神国」和「无主荒星茨冈尼亚」",
+            "EN": "In the Immersion Device of Simulated Universe: World 9, Trailblazers can exchange for Planar Ornaments \"Izumo Gensei and Takama Divine Realm\" and \"Sigonia, the Unclaimed Desolation\""
+        },
+        "Story": {
+            "CH": "◆玩法规则◆<br>我，黑塔，在此对「模拟宇宙」的规则进行说明。<br>● 在「模拟宇宙」战斗过程中，可以获得不同命途带来的强力祝福、遇到随机事件与特殊奇物。<br>● 在「模拟宇宙」玩法过程中，可以体验到随机出现的迷宫组合，强化后的精英敌人与首领敌人。<br><br>◆ 玩法奖励 ◆<br>● 「模拟宇宙」现有多个世界，新的世界内容将会随模拟宇宙进度与开拓任务进程逐渐解锁，伴随着新的关卡、内容与奖励的更新。<br>● 首次通关「模拟宇宙」各个世界可获得4星角色「黑塔（智识 · 冰）」、星琼和星轨通票等奖励。<br>● 完成「模拟宇宙」可获得积分，累计积分可兑换奖励，积分奖励每周一 04 : 00 （服务器时间）刷新。<br>● 在「模拟宇宙」图鉴中解锁祝福和奇物可获得星琼。<br>● 在「模拟宇宙」的「区域-精英」或「区域-首领」击败敌人可获得额外掉落<br>● 完成「模拟宇宙」可获得技能点，在技能树中激活强力效果，助力「模拟宇宙」玩法内的探索。<br>● 从「模拟宇宙 · 第三世界」开始，击败精英或首领后，将解锁「位面饰品」奖励兑换。",
+            "EN": "◆ Gameplay Rules ◆<br>I, Herta, hereby explain the rules of the Simulated Universe.<br>● As you fight your way through the Simulated Universe, you may encounter powerful Blessings from different Paths, random Occurrences, or special Curios.<br>● In the Simulated Universe game mode, you can experience randomly-generated maze combinations, enhanced Elite Enemies, and boss enemies.<br><br>◆ Gameplay Rewards ◆<br>● There are currently multiple worlds in the Simulated Universe. New worlds will be gradually unlocked as you progress through the Simulated Universe and Trailblaze Missions, providing new stages, content, and rewards.<br>● Clearing every world in the Simulated Universe for the first time will grant rewards, including the 4-star character Herta (Erudition: Ice), Stellar Jades, and Star Rail Passes.<br>● Complete the Simulated Universe to receive points and get rewards by accumulating points. The Point Rewards will be reset every Monday at 04:00 (server time).<br>● Unlock Blessings and Curios in the Simulated Universe Index to receive Stellar Jades.<br>● Defeating an enemy in Simulated Universe's \"Domain — Elite\" or \"Domain — Boss\" will earn extra drops.<br>● Complete the Simulated Universe to receive Ability Points. These are used in the Ability Tree to activate powerful abilities and aid in your exploration of the Simulated Universe.<br>● Starting from Simulated Universe — World 3, Planar Ornament exchange will be available after you defeat Elite or Boss enemies."
+        },
+        "Reward": [
+            1,
+            503,
+            83134,
+            83144,
+            1013
+        ],
+        "Ver": "2.1"
+    },
+    {
         "_id": 60007,
-        "Icon": "BtnQuestRogueNous.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestRogueNous.png",
         "Name": {
             "CH": "模拟宇宙：黄金与机械",
             "EN": "Simulated Universe: Gold and Gears"
@@ -275,7 +382,7 @@ var _event = [
     },
     {
         "_id": 60006,
-        "Icon": "BtnRogueReward.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnRogueReward.png",
         "Name": {
             "CH": "无尽位面",
             "EN": "Planar Infinity"
@@ -302,7 +409,7 @@ var _event = [
     },
     {
         "_id": 60003,
-        "Icon": "BtnRogueDlcQuestBannerSmall1.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnRogueDlcQuestBannerSmall1.png",
         "Name": {
             "CH": "模拟宇宙：寰宇蝗灾",
             "EN": "Simulated Universe:<br>Swarm Disaster"
@@ -330,7 +437,7 @@ var _event = [
     },
     {
         "_id": 60001,
-        "Icon": "BtnRogueReward.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnRogueReward.png",
         "Name": {
             "CH": "模拟宇宙",
             "EN": "Simulated Universe"
@@ -355,7 +462,7 @@ var _event = [
     },
     {
         "_id": 40002,
-        "Icon": "BtnFantasticStory.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnFantasticStory.png",
         "Name": {
             "CH": "评书奇谭",
             "EN": "Tales of the Fantastic"
@@ -382,7 +489,7 @@ var _event = [
     },
     {
         "_id": 50005,
-        "Icon": "BtnQuestAetherDivide.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestAetherDivide.png",
         "Name": {
             "CH": "以太战线",
             "EN": "Aetherium Wars"
@@ -412,50 +519,8 @@ var _event = [
         "Ver": "1.x"
     },
     {
-        "_id": 150001,
-        "Icon": "BtnQuestMuseum.png",
-        "Name": {
-            "CH": "冬城博物珍奇簿",
-            "EN": "Everwinter City Museum Ledger of Curiosities"
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "Story": {
-            "CH": "◆ 简介 ◆<br>贝洛伯格历史文化博物馆已经修葺完毕，开拓者将作为代理馆长主导经营和发展，只为让展馆的人气重回鼎盛。<br><br>◆ 博物馆经营 ◆<br>● 玩法解锁时，将开启「漫藏诲盗」系列冒险任务，完成「漫藏诲盗 · 其一」即可开始博物馆经营。<br>● 博物馆经营共有5个阶段，可通过经营获取「振兴值」，完成每个阶段的累计目标后即可提升阶段，并解锁新的展区。<br>● 经营日开启时，可通过花费发展资金升级展区，或雇佣助理的形式来提升「振兴值」的获取。<br><br>◆ 展品与助理收集 ◆<br>● 在博物馆经营的过程中，开拓者将获得额外经营目标，或遇到偶发事件。经营目标及事件均提供失落展品的线索，完成后可将展品储存至博物馆珍藏。<br>● 特邀助理可通过完成「漫藏诲盗」系列冒险任务、或偶发事件中的导览员募集系列任务获取。<br><br>◆ 玩法奖励 ◆<br>● 完成各个经营阶段时，将获取经营阶段奖励。<br>● 收集到新展品、或是特邀助理入职后，可在「珍奇簿」中领取收集奖励。",
-            "EN": "◆ Summary ◆<br>The Belobog History and Culture Museum has been fully renovated, and the Trailblazer will serve as the acting curator to lead the management and development of the museum, aiming to restore its popularity.<br><br>◆ Museum Management ◆<br>● Once this gameplay is unlocked, the \"Opportunity Makes the Thief\" Adventure Mission series will become available. Completing \"Opportunity Makes the Thief Part 1\" will allow players to start managing the museum.<br>● There are five phases of museum management, and RevitaScore can be obtained through management. After achieving the cumulative objectives of each phase, players can upgrade to the next phase and unlock new exhibition areas.<br>● During the day of operation, RevitaScore can be obtained by spending development fund to upgrade exhibition areas or by hiring assistants.<br><br>◆ Collection of Exhibits and Assistants ◆<br>● During museum management, players will receive additional operational objectives or encounter random events. These objectives and events will provide clues to lost exhibits, which can be stored in the museum's collection.<br>● Guest assistants can be recruited by completing the \"Opportunity Makes the Thief\" Adventure Mission series or the guide recruitment mission series in random events.<br><br>◆ Gameplay Rewards ◆<br>● Completion of each management phase will result in a management phase reward.<br>● Players can receive collection rewards in the Ledger of Curiosities after collecting new exhibits or after guest assistants are recruited."
-        },
-        "Reward": [
-            1,
-            241,
-            213,
-            232,
-            2
-        ],
-        "Ver": "1.x"
-    },
-    {
-        "_id": 80006,
-        "Icon": "BtnMainStory200.png",
-        "Name": {
-            "CH": "长日入夜行",
-            "EN": "Long Day's Journey Into Night"
-        },
-        "Desc": {
-            "CH": "新的旅程即将开启，「盛会之星」匹诺康尼——在金色的美梦中享受假日吧！",
-            "EN": "A new journey is about to begin in Penacony, the Planet of Festivities — Enjoy your vacation in a gilded dream!"
-        },
-        "Story": {
-            "CH": "开拓任务开启",
-            "EN": "Trailblaze Mission Available"
-        },
-        "Reward": [],
-        "Ver": "2.0"
-    },
-    {
         "_id": 80005,
-        "Icon": "BtnMainStory160.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnMainStory160.png",
         "Name": {
             "CH": "庸与神的冠冕",
             "EN": "Crown of the<br>Mundane and Divine"
@@ -473,7 +538,7 @@ var _event = [
     },
     {
         "_id": 80004,
-        "Icon": "BtnSubStory140.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnSubStory140.png",
         "Name": {
             "CH": "云无留迹",
             "EN": "Clouds Leave No Trace"
@@ -499,7 +564,7 @@ var _event = [
     },
     {
         "_id": 80003,
-        "Icon": "BtnMainStory140.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnMainStory140.png",
         "Name": {
             "CH": "未来市场",
             "EN": "Future Market"
@@ -517,7 +582,7 @@ var _event = [
     },
     {
         "_id": 80002,
-        "Icon": "BtnMainStory130.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnMainStory130.png",
         "Name": {
             "CH": "安灵布奠，天清路远",
             "EN": "Obsequies Performed, A Long Road Ahead"
@@ -535,7 +600,7 @@ var _event = [
     },
     {
         "_id": 80001,
-        "Icon": "BtnQuestPrincipalLineBanner.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestPrincipalLineBanner.png",
         "Name": {
             "CH": "仙骸有终",
             "EN": "Even Immortality Ends"
@@ -553,7 +618,7 @@ var _event = [
     },
     {
         "_id": 50004,
-        "Icon": "BtnTresureDungeon.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnTresureDungeon.png",
         "Name": {
             "CH": "地城探宝",
             "EN": "Underground Treasure Hunt"
@@ -581,7 +646,7 @@ var _event = [
     },
     {
         "_id": 22001,
-        "Icon": "BtnQuestColleague.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestColleague.png",
         "Name": {
             "CH": "",
             "EN": ""
@@ -599,7 +664,7 @@ var _event = [
     },
     {
         "_id": 50003,
-        "Icon": "BtnQuesAlley.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuesAlley.png",
         "Name": {
             "CH": "金人旧巷市廛喧",
             "EN": "Aurum Alley's Hustle and Bustle"
@@ -627,7 +692,7 @@ var _event = [
     },
     {
         "_id": 30007,
-        "Icon": "BtnQuestMedicineAssignment.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestMedicineAssignment.png",
         "Name": {
             "CH": "空间站特派",
             "EN": "Space Station Task Force"
@@ -650,7 +715,7 @@ var _event = [
     },
     {
         "_id": 30006,
-        "Icon": "BtnQuestGuessTheSilhouetteTask.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestGuessTheSilhouetteTask.png",
         "Name": {
             "CH": "星旅寻影",
             "EN": "Stellar Shadowseeker"
@@ -674,11 +739,11 @@ var _event = [
         "Ver": "1.x"
     },
     {
-        "_id": 20026,
-        "Icon": "BtnQuestRoleTrial16.png",
+        "_id": 20030,
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial17.png",
         "Name": {
             "CH": "锋芒崭露",
-            "EN": "Aptitude Showcase"
+            "EN": ""
         },
         "Desc": {
             "CH": "",
@@ -686,17 +751,17 @@ var _event = [
         },
         "Story": {
             "CH": "◆ 活动规则 ◆<br>角色试用活动「锋芒崭露」开启期间，开拓者可使用包含所选试用角色的固定队伍，无限次体验指定关卡。<br>体验活动关卡时，将无法调整编队中角色、角色等级及角色装备的光锥、遗器。<br><br>◆ 活动奖励 ◆<br>达成关卡挑战后，将可以在活动界面领取试用关卡奖励。各试用关卡奖励在活动期间仅可领取一次。",
-            "EN": "◆ Event Details ◆<br>During the character trial event \"Aptitude Showcase,\" Trailblazers can use set teams that include trial characters to repeatedly experience specific stages.<br>Team setup, character levels, and the equipped Light Cones and Relics cannot be changed while experiencing the event stage.<br><br>◆ Event Rewards ◆<br>Rewards for the trial stage can be obtained from the event screen after completing the stage. Each trial stage reward may only be claimed once during the event."
+            "EN": ""
         },
         "Reward": [],
-        "Ver": "2.0"
+        "Ver": "2.1"
     },
     {
-        "_id": 20025,
-        "Icon": "BtnQuestRoleTrial15.png",
+        "_id": 20027,
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial15.png",
         "Name": {
             "CH": "锋芒崭露",
-            "EN": "Aptitude Showcase"
+            "EN": ""
         },
         "Desc": {
             "CH": "",
@@ -704,32 +769,14 @@ var _event = [
         },
         "Story": {
             "CH": "◆ 活动规则 ◆<br>角色试用活动「锋芒崭露」开启期间，开拓者可使用包含所选试用角色的固定队伍，无限次体验指定关卡。<br>体验活动关卡时，将无法调整编队中角色、角色等级及角色装备的光锥、遗器。<br><br>◆ 活动奖励 ◆<br>达成关卡挑战后，将可以在活动界面领取试用关卡奖励。各试用关卡奖励在活动期间仅可领取一次。",
-            "EN": "◆ Event Details ◆<br>During the character trial event \"Aptitude Showcase,\" Trailblazers can use set teams that include trial characters to repeatedly experience specific stages.<br>Team setup, character levels, and the equipped Light Cones and Relics cannot be changed while experiencing the event stage.<br><br>◆ Event Rewards ◆<br>Rewards for the trial stage can be obtained from the event screen after completing the stage. Each trial stage reward may only be claimed once during the event."
-        },
-        "Reward": [],
-        "Ver": "2.0"
-    },
-    {
-        "_id": 20023,
-        "Icon": "BtnQuestRoleTrial14.png",
-        "Name": {
-            "CH": "锋芒崭露",
-            "EN": "Aptitude Showcase"
-        },
-        "Desc": {
-            "CH": "",
             "EN": ""
         },
-        "Story": {
-            "CH": "◆ 活动规则 ◆<br>角色试用活动「锋芒崭露」开启期间，开拓者可使用包含所选试用角色的固定队伍，无限次体验指定关卡。<br>体验活动关卡时，将无法调整编队中角色、角色等级及角色装备的光锥、遗器。<br><br>◆ 活动奖励 ◆<br>达成关卡挑战后，将可以在活动界面领取试用关卡奖励。各试用关卡奖励在活动期间仅可领取一次。",
-            "EN": "◆ Event Details ◆<br>During the character trial event \"Aptitude Showcase,\" Trailblazers can use set teams that include trial characters to repeatedly experience specific stages.<br>Team setup, character levels, and the equipped Light Cones and Relics cannot be changed while experiencing the event stage.<br><br>◆ Event Rewards ◆<br>Rewards for the trial stage can be obtained from the event screen after completing the stage. Each trial stage reward may only be claimed once during the event."
-        },
         "Reward": [],
-        "Ver": "1.x"
+        "Ver": "2.1"
     },
     {
-        "_id": 20022,
-        "Icon": "BtnQuestRoleTrial13.png",
+        "_id": 20024,
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial13.png",
         "Name": {
             "CH": "锋芒崭露",
             "EN": "Aptitude Showcase"
@@ -746,8 +793,8 @@ var _event = [
         "Ver": "1.x"
     },
     {
-        "_id": 20020,
-        "Icon": "BtnQuestRoleTrial12.png",
+        "_id": 20021,
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial11.png",
         "Name": {
             "CH": "锋芒崭露",
             "EN": "Aptitude Showcase"
@@ -764,44 +811,8 @@ var _event = [
         "Ver": "1.x"
     },
     {
-        "_id": 20019,
-        "Icon": "BtnQuestRoleTrial11.png",
-        "Name": {
-            "CH": "锋芒崭露",
-            "EN": "Aptitude Showcase"
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "Story": {
-            "CH": "◆ 活动规则 ◆<br>角色试用活动「锋芒崭露」开启期间，开拓者可使用包含所选试用角色的固定队伍，无限次体验指定关卡。<br>体验活动关卡时，将无法调整编队中角色、角色等级及角色装备的光锥、遗器。<br><br>◆ 活动奖励 ◆<br>达成关卡挑战后，将可以在活动界面领取试用关卡奖励。各试用关卡奖励在活动期间仅可领取一次。",
-            "EN": "◆ Event Details ◆<br>During the character trial event \"Aptitude Showcase,\" Trailblazers can use set teams that include trial characters to repeatedly experience specific stages.<br>Team setup, character levels, and the equipped Light Cones and Relics cannot be changed while experiencing the event stage.<br><br>◆ Event Rewards ◆<br>Rewards for the trial stage can be obtained from the event screen after completing the stage. Each trial stage reward may only be claimed once during the event."
-        },
-        "Reward": [],
-        "Ver": "1.x"
-    },
-    {
-        "_id": 20017,
-        "Icon": "BtnQuestRoleTrial10.png",
-        "Name": {
-            "CH": "锋芒崭露",
-            "EN": "Aptitude Showcase"
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "Story": {
-            "CH": "◆ 活动规则 ◆<br>角色试用活动「锋芒崭露」开启期间，开拓者可使用包含所选试用角色的固定队伍，无限次体验指定关卡。<br>体验活动关卡时，将无法调整编队中角色、角色等级及角色装备的光锥、遗器。<br><br>◆ 活动奖励 ◆<br>达成关卡挑战后，将可以在活动界面领取试用关卡奖励。各试用关卡奖励在活动期间仅可领取一次。",
-            "EN": "◆ Event Details ◆<br>During the character trial event \"Aptitude Showcase,\" Trailblazers can use set teams that include trial characters to repeatedly experience specific stages.<br>Team setup, character levels, and the equipped Light Cones and Relics cannot be changed while experiencing the event stage.<br><br>◆ Event Rewards ◆<br>Rewards for the trial stage can be obtained from the event screen after completing the stage. Each trial stage reward may only be claimed once during the event."
-        },
-        "Reward": [],
-        "Ver": "1.x"
-    },
-    {
-        "_id": 20016,
-        "Icon": "BtnQuestRoleTrial9.png",
+        "_id": 20018,
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial10.png",
         "Name": {
             "CH": "锋芒崭露",
             "EN": "Aptitude Showcase"
@@ -819,7 +830,7 @@ var _event = [
     },
     {
         "_id": 20015,
-        "Icon": "BtnQuestRoleTrial7.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial7.png",
         "Name": {
             "CH": "",
             "EN": ""
@@ -837,7 +848,7 @@ var _event = [
     },
     {
         "_id": 20012,
-        "Icon": "BtnQuestRoleTrial8.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial8.png",
         "Name": {
             "CH": "锋芒崭露",
             "EN": "Aptitude Showcase"
@@ -855,7 +866,7 @@ var _event = [
     },
     {
         "_id": 20011,
-        "Icon": "BtnQuestRoleTrial7.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial7.png",
         "Name": {
             "CH": "锋芒崭露",
             "EN": "Aptitude Showcase"
@@ -873,7 +884,7 @@ var _event = [
     },
     {
         "_id": 20009,
-        "Icon": "BtnQuestRoleTrial6.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial6.png",
         "Name": {
             "CH": "锋芒崭露",
             "EN": "Aptitude Showcase"
@@ -891,7 +902,7 @@ var _event = [
     },
     {
         "_id": 20008,
-        "Icon": "BtnQuestRoleTrial5.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial5.png",
         "Name": {
             "CH": "锋芒崭露",
             "EN": "Aptitude Showcase"
@@ -909,7 +920,7 @@ var _event = [
     },
     {
         "_id": 20006,
-        "Icon": "BtnQuestRoleTrial4.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial4.png",
         "Name": {
             "CH": "锋芒崭露",
             "EN": "Aptitude Showcase"
@@ -927,7 +938,7 @@ var _event = [
     },
     {
         "_id": 20005,
-        "Icon": "BtnQuestRoleTrial3.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial3.png",
         "Name": {
             "CH": "锋芒崭露",
             "EN": "Aptitude Showcase"
@@ -945,7 +956,7 @@ var _event = [
     },
     {
         "_id": 30005,
-        "Icon": "BtnPocketMonster.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnPocketMonster.png",
         "Name": {
             "CH": "实验助手请就位",
             "EN": "Lab Assistants In Position"
@@ -969,7 +980,7 @@ var _event = [
     },
     {
         "_id": 30004,
-        "Icon": "BtnQuestTreasureTrotter.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestTreasureTrotter.png",
         "Name": {
             "CH": "神奇扑满在哪里",
             "EN": "Where Are You, Mystery Trotter?"
@@ -995,7 +1006,7 @@ var _event = [
     },
     {
         "_id": 50002,
-        "Icon": "BtnQuestMuseum.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestMuseum.png",
         "Name": {
             "CH": "冬城博物珍奇簿",
             "EN": "Everwinter City Museum<br>Ledger of Curiosities"
@@ -1021,7 +1032,7 @@ var _event = [
     },
     {
         "_id": 50001,
-        "Icon": "BtnQuestGraffiti.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestGraffiti.png",
         "Name": {
             "CH": "猎星游戏",
             "EN": "Starhunt Game"
@@ -1047,7 +1058,7 @@ var _event = [
     },
     {
         "_id": 50000,
-        "Icon": "BtnFistClubQuestMission.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnFistClubQuestMission.png",
         "Name": {
             "CH": "磐岩镇超级联赛",
             "EN": "Boulder Town Super League"
@@ -1072,7 +1083,7 @@ var _event = [
     },
     {
         "_id": 40001,
-        "Icon": "BtnQuestStarBattle.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestStarBattle.png",
         "Name": {
             "CH": "星芒战幕",
             "EN": "Stellar Flare"
@@ -1098,7 +1109,7 @@ var _event = [
     },
     {
         "_id": 30002,
-        "Icon": "BtnAntiVirus.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnAntiVirus.png",
         "Name": {
             "CH": "太空大战争",
             "EN": "Cosmic Warfare"
@@ -1123,7 +1134,7 @@ var _event = [
     },
     {
         "_id": 20002,
-        "Icon": "BtnQuestRoleTrial2.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial2.png",
         "Name": {
             "CH": "锋芒崭露",
             "EN": "Aptitude Showcase"
@@ -1141,7 +1152,7 @@ var _event = [
     },
     {
         "_id": 20001,
-        "Icon": "BtnQuestRoleTrial.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestRoleTrial.png",
         "Name": {
             "CH": "锋芒崭露",
             "EN": "Aptitude Showcase"
@@ -1158,26 +1169,8 @@ var _event = [
         "Ver": "1.x"
     },
     {
-        "_id": 10048,
-        "Icon": "BtnSingleTimeRewardVersion0200.png",
-        "Name": {
-            "CH": "逴星之礼",
-            "EN": "Gift of Stellarium"
-        },
-        "Desc": {
-            "CH": "限时登录领取星轨专票",
-            "EN": "Log in and claim Star Rail Special Passes!"
-        },
-        "Story": {
-            "CH": "◆ 活动奖励 ◆<br>活动期间登录游戏，开拓者即可在「旅情事记」中领取奖励：星轨专票* 10 。",
-            "EN": "◆ Event Rewards ◆<br>When logging into the game during the event period, Trailblazers can obtain rewards from the Travel Log: Star Rail Special Pass ×10"
-        },
-        "Reward": [],
-        "Ver": "2.0"
-    },
-    {
         "_id": 10047,
-        "Icon": "BtnSevenDayVersion0200.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnSevenDayVersion0200.png",
         "Name": {
             "CH": "巡星之礼",
             "EN": "Gift of Odyssey"
@@ -1195,17 +1188,17 @@ var _event = [
     },
     {
         "_id": 10043,
-        "Icon": "BtnQuestRetrunRecall.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestRetrunRecall.png",
         "Name": {
-            "CH": "盛会邀约",
+            "CH": "重返群星之旅",
             "EN": "Festival Invitation"
         },
         "Desc": {
-            "CH": "在盛会之星向你的朋友发出邀约吧！一同参与这场盛大的欢宴，在匹诺康尼的游乐园追逐梦想！最高可获 540 星琼！",
+            "CH": "亲爱的开拓者，列车的伙伴们都等着你哦，一同踏上旅途，重新出发银河大冒险吧！最高可获 480 星琼！",
             "EN": "Join us in the grand feast at the Planet of Festivities! Invite your friends and experience thrills at the amusement park in Penacony! Earn up to 540 Stellar Jades!"
         },
         "Story": {
-            "CH": "◆ 活动介绍 ◆<br>● 活动期间开拓者可通过邀约回归开拓者来获得星琼奖励等好礼。<br>● 活跃开拓者可分享个人专属邀约码，邀约其他满足条件的开拓者回归，获得星琼奖励与抽奖机会。<br>● 回归开拓者登录游戏后，也可分享个人专属邀约码，邀约其他满足条件的开拓者回归，参与网页活动。<br>※回归开拓者的状态更新存在延迟，开拓者可以等待2分钟后刷新网页查看。<br><br>◆ 活动奖励 ◆<br>● 开拓者邀约6位回归开拓者，并完成所有网页任务，开拓者共可获得星琼* 540 。<br>● 开拓者在网页内首次分享邀约码，即可获得星琼* 30 ；回归开拓者首次绑定邀约码，即可获得星琼* 60 。<br>● 开拓者首次完成抽奖券DIY，即可获取1次抽奖机会；开拓者每邀约1位回归开拓者，即可获取1次抽奖机会，最多可获 21 次机会。<br><br>◆ 回归开拓者 ◆<br>可参与活动「循星归程」的开拓者将被视为「回归开拓者」， 「循星归程」参与条件如下：<br>● 开拓等级≥ 10 级，完成开拓任务「雅利洛-VI」-「她等待刀尖已经太久」；<br>● 连续未登录游戏天数≥ 14 天；<br>● 距离上一次参与活动「循星归程」≥ 40 天。<br>※回归开拓者状态持续时间，与活动「循星归程」开启时间保持一致。",
+            "CH": "◆ 活动介绍 ◆<br>● 活动期间开拓者可通过邀请回归开拓者来获得星琼奖励等好礼。<br>● 活跃开拓者可分享个人专属邀请码，邀请其他满足条件的开拓者回归，获得星琼奖励与抽奖机会。<br>● 回归开拓者登录游戏后，也可分享个人专属邀请码，邀请其他满足条件的开拓者回归，参与网页活动。<br>※回归开拓者的状态更新存在延迟，开拓者可以等待2分钟后刷新网页查看。<br><br>◆ 回归开拓者 ◆<br>可参与活动「循星归程」的开拓者将被视为「回归开拓者」， 「循星归程」参与条件如下：<br>● 开拓等级≥ 10 级；<br>完成开拓任务「雅利洛-VI」-「她等待刀尖已经太久」；<br>● 连续未登录游戏天数≥ 14 天；<br>● 距离上一次参与活动「循星归程」≥ 40 天。<br>※回归开拓者状态持续时间，与活动「循星归程」开启时间保持一致。",
             "EN": "◆ Event Details ◆<br>● During the event, Trailblazers can obtain rewards such as Stellar Jades by inviting returning Trailblazers.<br>● Active Trailblazers can share their unique invitation codes with other eligible Trailblazers to encourage their return. By doing so, Trailblazers can earn Stellar Jade and event draw chances.<br>● After logging back into the game, returning Trailblazers can also share their invitation codes to invite other eligible Trailblazers to rejoin the game and participate in the web event.<br>※ There may be a brief delay in updating the status of returning Trailblazers. If so, please wait for 2 minutes and refresh the webpage to check your status again.<br><br>◆ Event Rewards ◆<br>● Invite 6 returning Trailblazers and complete all required webpage tasks to earn up to Stellar Jade ×540.<br>● Trailblazers who share the invitation code for the first time can receive Stellar Jade ×30. Returning Trailblazers who link the invitation code for the first time can receive Stellar Jade ×60.<br>● Receive 1 event draw chance the first time you complete a DIY Event Draw Ticket. Additionally, for every returning Trailblazer you invite, you will receive 1 more event draw chance, up to 21 chances.<br><br>◆ Returning Trailblazer ◆<br>Trailblazers who are eligible for the Starlit Homecoming event are considered returning Trailblazers, and the eligibility requirements are as follows:<br>● Be at Trailblaze Level 10 or higher and have completed the Trailblaze Mission \"Jarilo-VI — Long Wait for the Blade's Edge\"<br>● Has not logged into the game for at least 14 days in a row<br>● The last participation in the Starlit Homecoming was at least 40 days ago.<br>※ A returning Trailblazer's status shall last for the duration of the Starlit Homecoming event."
         },
         "Reward": [],
@@ -1213,7 +1206,7 @@ var _event = [
     },
     {
         "_id": 10042,
-        "Icon": "BtnAbyssAlternation.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnAbyssAlternation.png",
         "Name": {
             "CH": "诳语诡宴",
             "EN": "Feast of Deceits"
@@ -1239,7 +1232,7 @@ var _event = [
     },
     {
         "_id": 10041,
-        "Icon": "BtnChallengeStoryReward_1110.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnChallengeStoryReward_1110.png",
         "Name": {
             "CH": "雪原露营",
             "EN": "Camping in the Snow"
@@ -1257,7 +1250,7 @@ var _event = [
     },
     {
         "_id": 10040,
-        "Icon": "BtnSevenDayVersion0160.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnSevenDayVersion0160.png",
         "Name": {
             "CH": "巡星之礼",
             "EN": "Gift of Odyssey"
@@ -1275,7 +1268,7 @@ var _event = [
     },
     {
         "_id": 10039,
-        "Icon": "BtnSevenDayVersion0131.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnSevenDayVersion0131.png",
         "Name": {
             "CH": "巡光之礼",
             "EN": "Gift of Radiance"
@@ -1293,7 +1286,7 @@ var _event = [
     },
     {
         "_id": 10035,
-        "Icon": "BtnSevenDayVersion0150.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnSevenDayVersion0150.png",
         "Name": {
             "CH": "巡星之礼",
             "EN": "Gift of Odyssey"
@@ -1311,7 +1304,7 @@ var _event = [
     },
     {
         "_id": 10032,
-        "Icon": "BtnSevenDayVersion0140.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnSevenDayVersion0140.png",
         "Name": {
             "CH": "巡星之礼",
             "EN": "Gift of Odyssey"
@@ -1329,7 +1322,7 @@ var _event = [
     },
     {
         "_id": 10028,
-        "Icon": "BtnSevenDayVersion0130.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnSevenDayVersion0130.png",
         "Name": {
             "CH": "巡星之礼",
             "EN": "Gift of Odyssey"
@@ -1347,7 +1340,7 @@ var _event = [
     },
     {
         "_id": 10025,
-        "Icon": "BtnAbyssReward_1207.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnAbyssReward_1207.png",
         "Name": {
             "CH": "登栖敛翼",
             "EN": "To Retire Upon the Perch"
@@ -1365,7 +1358,7 @@ var _event = [
     },
     {
         "_id": 10024,
-        "Icon": "BtnFarmMultipleDrop2Set.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnFarmMultipleDrop2Set.png",
         "Name": {
             "CH": "位面分裂",
             "EN": "Planar Fissure"
@@ -1383,7 +1376,7 @@ var _event = [
     },
     {
         "_id": 10023,
-        "Icon": "BtnSevenDayRewardPanelVersion0120.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnSevenDayRewardPanelVersion0120.png",
         "Name": {
             "CH": "巡星之礼",
             "EN": "Gift of Odyssey"
@@ -1401,7 +1394,7 @@ var _event = [
     },
     {
         "_id": 10022,
-        "Icon": "BtnAbyssAlternation.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnAbyssAlternation.png",
         "Name": {
             "CH": "混沌重现",
             "EN": "Chaos Resurgence"
@@ -1427,7 +1420,7 @@ var _event = [
     },
     {
         "_id": 10021,
-        "Icon": "BtnFarmMultipleDrop.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnFarmMultipleDrop.png",
         "Name": {
             "CH": "异器盈界",
             "EN": "Realm of the Strange"
@@ -1445,7 +1438,7 @@ var _event = [
     },
     {
         "_id": 10020,
-        "Icon": "BtnDoubleCocoon.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnDoubleCocoon.png",
         "Name": {
             "CH": "花藏繁生",
             "EN": "Garden of Plenty"
@@ -1463,7 +1456,7 @@ var _event = [
     },
     {
         "_id": 10019,
-        "Icon": "BtnQuesPlayerReturn.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuesPlayerReturn.png",
         "Name": {
             "CH": "循星归程",
             "EN": "Starlit Homecoming"
@@ -1481,7 +1474,7 @@ var _event = [
     },
     {
         "_id": 10018,
-        "Icon": "BtnSevenDayVervionDH.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnSevenDayVervionDH.png",
         "Name": {
             "CH": "巡星之礼",
             "EN": "Gift of Odyssey"
@@ -1499,7 +1492,7 @@ var _event = [
     },
     {
         "_id": 10017,
-        "Icon": "BtnImgSingleTask.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnImgSingleTask.png",
         "Name": {
             "CH": "清龙入梦",
             "EN": "Turquoise's Reverie"
@@ -1517,7 +1510,7 @@ var _event = [
     },
     {
         "_id": 10016,
-        "Icon": "BtnQuestNewbieMission.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestNewbieMission.png",
         "Name": {
             "CH": "星轺旅进",
             "EN": "Starkissed Synchrony"
@@ -1535,7 +1528,7 @@ var _event = [
     },
     {
         "_id": 10015,
-        "Icon": "BtnQuestExploitMission.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnQuestExploitMission.png",
         "Name": {
             "CH": "拓宇行疆之志",
             "EN": "Trailblazing Will"
@@ -1553,7 +1546,7 @@ var _event = [
     },
     {
         "_id": 10014,
-        "Icon": "BtnSevenDayReward2.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/BtnSevenDayReward2.png",
         "Name": {
             "CH": "邀游天外",
             "EN": "A World Beyond"
@@ -1571,7 +1564,7 @@ var _event = [
     },
     {
         "_id": 10012,
-        "Icon": "ButtonChallengeQuest.png",
+        "Icon": "SpriteOutput/Quest/TabIcon/ButtonChallengeQuest.png",
         "Name": {
             "CH": "搏击俱乐部",
             "EN": "Fight Club"
@@ -1890,6 +1883,24 @@ var _item = {
         "Icon": "309001.png",
         "Pic": "309001.png"
     },
+    "309003": {
+        "_id": 309003,
+        "Rarity": 4,
+        "Name": {
+            "CH": "旅程之遇：「杯中逸事」",
+            "EN": "Fateful Crossings: Vignettes in a Cup"
+        },
+        "Desc": {
+            "CH": "漂亮的信封，内含一张定制车票。使用后可从下列4星角色中任选一个：<br>【加拉赫】【米沙】【雪衣】【寒鸦】【桂乃芬】【卢卡】【玲可】【驭空】",
+            "EN": "A beautiful envelope containing a customized ticket. When used, you can choose one of the following 4-star characters:<br>Gallagher, Misha, Xueyi, Hanya, Guinaifen, Luka, Lynx, or Yukong."
+        },
+        "Story": {
+            "CH": "「于旅程中，邂逅新的伙伴吧。」",
+            "EN": "\"Meet new companions in your journeys.\""
+        },
+        "Icon": "309001.png",
+        "Pic": "309001.png"
+    },
     "309001": {
         "_id": 309001,
         "Rarity": 4,
@@ -2029,6 +2040,24 @@ var _item = {
         },
         "Icon": "404001.png",
         "Pic": "404001.png"
+    },
+    "202016": {
+        "_id": 202016,
+        "Rarity": 4,
+        "Name": {
+            "CH": "一周年纪念",
+            "EN": "One-Year Anniversary Commemoration"
+        },
+        "Desc": {
+            "CH": "完成「银河强手棋」活动后获得。",
+            "EN": "Obtainable from completing the \"Cosmodyssey\" event."
+        },
+        "Story": {
+            "CH": "拿着一周年黄金纪念奖章的帕姆。<br><br><i>「锵——纪念奖章送给你！未来的旅途，我们也要一起开拓下去帕！」</i>",
+            "EN": "Pom-Pom holding a one-year-anniversary commemorative gold medal.<br><br><i>\"Ta-da! This commemorative medal is for you! Here's to the future expeditions we'll be experiencing together!\"</i>"
+        },
+        "Icon": "avatarhead/IconHead_202016.png",
+        "Pic": "avatarhead/IconHead_202016.png"
     },
     "110112": {
         "_id": 110112,
@@ -2200,6 +2229,30 @@ var _item = {
         "Icon": "SpriteOutput/AvatarIcon/1206.png",
         "Pic": "SpriteOutput/AvatarIcon/1206.png"
     },
+    "83134": {
+        "_id": 83134,
+        "Rarity": 5,
+        "Name": {
+            "CH": "无主荒星茨冈尼亚",
+            "EN": "Sigonia, the Unclaimed Desolation"
+        },
+        "Desc": {
+            "CH": "",
+            "EN": ""
+        },
+        "Story": {
+            "CH": "",
+            "EN": ""
+        },
+        "Icon": "71030.png",
+        "Pic": "71030.png",
+        "Src": [
+            {
+                "CH": "「模拟宇宙 · 第九世界」沉浸装置兑换",
+                "EN": "Simulated Universe: World 9 - Immersion Device Redemption"
+            }
+        ]
+    },
     "24000": {
         "_id": 24000,
         "Rarity": 5,
@@ -2304,43 +2357,27 @@ var _item = {
             }
         ]
     },
-    "110152": {
-        "_id": 110152,
-        "Rarity": 3,
+    "83144": {
+        "_id": 83144,
+        "Rarity": 5,
         "Name": {
-            "CH": "虚空黑曜",
-            "EN": "Obsidian of Desolation"
+            "CH": "出云显世与高天神国",
+            "EN": "Izumo Gensei and Takama Divine Realm"
         },
         "Desc": {
-            "CH": "一块自虚空中捕获的黑质。可中幅提升<color=#f29e38ff>虚无</color>角色的命途行迹。",
-            "EN": "A chunk of dark matter captured from the void. Used to level up Traces moderately for <color=#f29e38ff>Nihility</color> characters."
+            "CH": "",
+            "EN": ""
         },
         "Story": {
-            "CH": "漆黑的棱面上甚至反射不出任何倒影。它不仅吸收着光，似乎还夺走了持有者的情绪起伏，只留下淡淡的空洞感。<br><br><i>「……」</i>",
-            "EN": "No reflections can be seen on the surface of the black prism. Not only does it suck in all the light, it seems to also absorb the wielder's emotions, leaving only a faint feeling of emptiness.<br><br><i>\"...\"</i>"
+            "CH": "",
+            "EN": ""
         },
-        "Icon": "110152.png",
-        "Pic": "110152.png",
+        "Icon": "71031.png",
+        "Pic": "71031.png",
         "Src": [
             {
-                "CH": "拟造花萼【大矿区】",
-                "EN": "Calyx (Great Mine)"
-            },
-            {
-                "CH": "拟造花萼【大矿区】",
-                "EN": "Calyx (Great Mine)"
-            },
-            {
-                "CH": "「万能合成机」- 材料合成",
-                "EN": "Omni-Synthesizer — Material Synthesis"
-            },
-            {
-                "CH": "余烬兑换",
-                "EN": "Embers Exchange"
-            },
-            {
-                "CH": "「万能合成机」- 材料置换",
-                "EN": "Omni-Synthesizer — Material Exchange"
+                "CH": "「模拟宇宙 · 第九世界」沉浸装置兑换",
+                "EN": "Simulated Universe: World 9 - Immersion Device Redemption"
             }
         ]
     },
@@ -2443,6 +2480,64 @@ var _item = {
             {
                 "CH": "「狐斋志异」活动获得",
                 "EN": "Obtained from the \"A Foxian Tale of the Haunted\" Event"
+            }
+        ]
+    },
+    "221005": {
+        "_id": 221005,
+        "Rarity": 4,
+        "Name": {
+            "CH": "手机壁纸",
+            "EN": ""
+        },
+        "Desc": {
+            "CH": "手机壁纸，获得后可在手机功能中进行更换",
+            "EN": "After obtaining Phone wallpapers, they can be changed in the Phone function"
+        },
+        "Story": {
+            "CH": "",
+            "EN": ""
+        },
+        "Icon": "221000.png",
+        "Pic": "221000.png"
+    },
+    "110152": {
+        "_id": 110152,
+        "Rarity": 3,
+        "Name": {
+            "CH": "虚空黑曜",
+            "EN": "Obsidian of Desolation"
+        },
+        "Desc": {
+            "CH": "一块自虚空中捕获的黑质。可中幅提升<color=#f29e38ff>虚无</color>角色的命途行迹。",
+            "EN": "A chunk of dark matter captured from the void. Used to level up Traces moderately for <color=#f29e38ff>Nihility</color> characters."
+        },
+        "Story": {
+            "CH": "漆黑的棱面上甚至反射不出任何倒影。它不仅吸收着光，似乎还夺走了持有者的情绪起伏，只留下淡淡的空洞感。<br><br><i>「……」</i>",
+            "EN": "No reflections can be seen on the surface of the black prism. Not only does it suck in all the light, it seems to also absorb the wielder's emotions, leaving only a faint feeling of emptiness.<br><br><i>\"...\"</i>"
+        },
+        "Icon": "110152.png",
+        "Pic": "110152.png",
+        "Src": [
+            {
+                "CH": "拟造花萼【大矿区】",
+                "EN": "Calyx (Great Mine)"
+            },
+            {
+                "CH": "拟造花萼【大矿区】",
+                "EN": "Calyx (Great Mine)"
+            },
+            {
+                "CH": "「万能合成机」- 材料合成",
+                "EN": "Omni-Synthesizer — Material Synthesis"
+            },
+            {
+                "CH": "余烬兑换",
+                "EN": "Embers Exchange"
+            },
+            {
+                "CH": "「万能合成机」- 材料置换",
+                "EN": "Omni-Synthesizer — Material Exchange"
             }
         ]
     },
@@ -2726,6 +2821,48 @@ var _item = {
             }
         ]
     },
+    "220004": {
+        "_id": 220004,
+        "Rarity": 4,
+        "Name": {
+            "CH": "怪物酒馆",
+            "EN": "Monster Tavern"
+        },
+        "Desc": {
+            "CH": "短信和聊天对话框，获得后可在短信及聊天中进行更换",
+            "EN": "Chat Box for Message and Chat. Once obtained, they can be used in the Message or Chat functions"
+        },
+        "Story": {
+            "CH": "「喝一杯吗？支持自行搭配调饮原料哦~」<br>「喝喝喝！我要超大杯三倍甜无酒精的饮品！原料随意！」",
+            "EN": "\"Wanna have a drink? You can even mix in your own ingredients!\"<br>\"Yes! Yes! Yes! I want a triple-sweet non-alcoholic mega-sized beverage! Mix in anything you want!\""
+        },
+        "Icon": "chatbubble/220004.png",
+        "Pic": "chatbubble/220004.png",
+        "Src": [
+            {
+                "CH": "「杯中逸事」活动获得",
+                "EN": "Obtained from Vignettes in a Cup"
+            }
+        ]
+    },
+    "101": {
+        "_id": 101,
+        "Rarity": 5,
+        "Name": {
+            "CH": "星轨通票",
+            "EN": "Star Rail Pass"
+        },
+        "Desc": {
+            "CH": "",
+            "EN": ""
+        },
+        "Story": {
+            "CH": "星穹列车的通行车票。顺着星轨一路前行，在通航的世界间游历。<br><br><i>「随心所欲地去任何想去的地方，见想见的人，留下想要的回忆。」</i>",
+            "EN": "Astral Express Universal Pass. Travel as far as the Star Rail stretches.<br><br><i>\"Map worlds, meet people, make memories.\"</i>"
+        },
+        "Icon": "101.png",
+        "Pic": "101.png"
+    },
     "402017": {
         "_id": 402017,
         "Rarity": 3,
@@ -2749,24 +2886,6 @@ var _item = {
                 "EN": "Omni-Synthesizer"
             }
         ]
-    },
-    "101": {
-        "_id": 101,
-        "Rarity": 5,
-        "Name": {
-            "CH": "星轨通票",
-            "EN": "Star Rail Pass"
-        },
-        "Desc": {
-            "CH": "",
-            "EN": ""
-        },
-        "Story": {
-            "CH": "星穹列车的通行车票。顺着星轨一路前行，在通航的世界间游历。<br><br><i>「随心所欲地去任何想去的地方，见想见的人，留下想要的回忆。」</i>",
-            "EN": "Astral Express Universal Pass. Travel as far as the Star Rail stretches.<br><br><i>\"Map worlds, meet people, make memories.\"</i>"
-        },
-        "Icon": "101.png",
-        "Pic": "101.png"
     },
     "232": {
         "_id": 232,
@@ -2944,6 +3063,48 @@ var _item = {
         "Icon": "lightconeicons/22001.png",
         "Pic": "LightCone/22001.png"
     },
+    "1013": {
+        "_id": 1013,
+        "Rarity": 4,
+        "Name": {
+            "CH": "黑塔",
+            "EN": "Herta"
+        },
+        "Desc": {
+            "CH": "",
+            "EN": ""
+        },
+        "Story": {
+            "CH": "「天才俱乐部」#83号会员，空间站的真正主人。<br>智慧过人却毫无同理心的大科学家。",
+            "EN": "Member 83 of the Genius Society. The real master of the space station.<br>An incredibly intelligent yet unsympathetic scientist."
+        },
+        "Icon": "SpriteOutput/AvatarIcon/1013.png",
+        "Pic": "SpriteOutput/AvatarIcon/1013.png"
+    },
+    "503": {
+        "_id": 503,
+        "Rarity": 5,
+        "Name": {
+            "CH": "黑塔债券",
+            "EN": "Herta Bond"
+        },
+        "Desc": {
+            "CH": "「模拟宇宙」奖励，可在黑塔的商店中用它购买物品。",
+            "EN": "A reward from the Simulated Universe. Can be used to buy items from Herta's Store."
+        },
+        "Story": {
+            "CH": "",
+            "EN": ""
+        },
+        "Icon": "503.png",
+        "Pic": "503.png",
+        "Src": [
+            {
+                "CH": "「模拟宇宙」积分奖励",
+                "EN": "Simulated Universe Point Rewards"
+            }
+        ]
+    },
     "401021": {
         "_id": 401021,
         "Rarity": 2,
@@ -3032,5 +3193,6 @@ var _item = {
 
 var _ver = [
     "1.x",
-    "2.0"
+    "2.0",
+    "2.1"
 ]
