@@ -58035,7 +58035,7 @@ var _SpiralAbyssFloorConfig = {
                                 ],
                                 "Note": {
                                     "Text": {
-                                        "CH": "水泡",
+                                        "CH": "水泡<br><color style='color:#808080;'>深渊游侠</color>",
                                         "EN": "Mist<br>Bubbles"
                                     },
                                     "Color": "Water"
