@@ -972,6 +972,23 @@ var _SpiralAbyssSchedule = [
             67,
             1030
         ]
+    },
+    {
+        "Name": "15",
+        "Show": {
+            "CH": "惊喜 15",
+            "EN": "Surprise 15"
+        },
+        "Generation": 99,
+        "OpenTime": "By K423YSX<br>2024/02/19",
+        "Phases": [],
+        "Blessings": [],
+        "Floors": [
+            57,
+            58,
+            1031,
+            1032
+        ]
     }
 ]
 
@@ -4219,6 +4236,19 @@ var _SpiralAbyssAffixDescConfig = {
         "Hover": {
             "CH": "黄金王兽<color style='color:#FFE699;'>死亡龙卷风</color>的技能CD变长。",
             "EN": "Golden Wolflord's <color style='color:#FFE699;'>Tornado of Death</color>'s CD is increased."
+        }
+    },
+    "51571": {
+        "Show": {
+            "Color": "Grey",
+            "Text": {
+                "CH": " (强化王狼)",
+                "EN": " (Enhanced Wolflord)"
+            }
+        },
+        "Hover": {
+            "CH": "黄金王兽入战结束后立即开启护盾，瘫痪时间由 25s 缩短至 10s 。",
+            "EN": "The Golden Wolflord activates its shield immediately upon entering combat.<br>Weakened state duration is decreased from 25s to 10s."
         }
     },
     "5186": {
@@ -53864,7 +53894,10 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 512,
-                                "Num": 1
+                                "Num": 1,
+                                "Affix": [
+                                    512
+                                ]
                             }
                         ]
                     }
@@ -57462,6 +57495,687 @@ var _SpiralAbyssFloorConfig = {
                             {
                                 "ID": 60411,
                                 "Num": 1
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "1031": {
+        "Disorder": {
+            "CH": "队伍中所有角色的元素精通提升200点。",
+            "EN": "All party members have their Elemental Mastery increased by 200."
+        },
+        "ShowVers": [
+            7
+        ],
+        "Chambers": [
+            {
+                "Name": "11-1",
+                "Level": 88,
+                "GoalType": 0,
+                "GoalParam": 1,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        7,
+                        22,
+                        31
+                    ]
+                },
+                "Upper": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 61902,
+                                "Num": 4
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 20201,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 20202,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 20302,
+                                "Num": 1
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 21005,
+                        "Monsters": [
+                            {
+                                "ID": 21004,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "<color style='color:#0070C0;'>水</color> <color style='color:#00B0F0;'>冰</color> <color style='color:#7030A0;'>雷</color>",
+                                        "EN": "<color style='color:#0070C0;'>Hydro</color> <color style='color:#00B0F0;'>Cryo</color> <color style='color:#7030A0;'>Electro</color>"
+                                    }
+                                },
+                                "Num": 1,
+                                "Affix": [
+                                    5282
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Name": "11-2",
+                "Level": 90,
+                "GoalType": 0,
+                "GoalParam": 1,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        7,
+                        22,
+                        34
+                    ]
+                },
+                "Upper": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 51001,
+                                "Num": 2
+                            },
+                            {
+                                "ID": 51002,
+                                "Num": 2
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "ExtraDesc": {
+                            "CH": "<b>维持3个，按顺序杀一个出一个</b>",
+                            "EN": "<b>Keep 3 on field, spawn one after each kill in this order</b>"
+                        },
+                        "Monsters": [
+                            {
+                                "ID": 40401,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 40402,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 40403,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 40401,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 40402,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 40403,
+                                "Num": 1
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 5112,
+                                "Num": 1,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "地方传奇",
+                                        "EN": "Legend"
+                                    },
+                                    "Color": "Water"
+                                }
+                            },
+                            {
+                                "ID": 20102,
+                                "Num": 2,
+                                "Affix": [
+                                    5002
+                                ],
+                                "Note": {
+                                    "Text": {
+                                        "CH": "防护强化",
+                                        "EN": "Defense<br>Enhance"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 20802,
+                                "Num": 1,
+                                "Affix": [
+                                    6103
+                                ],
+                                "Note": {
+                                    "Text": {
+                                        "CH": "翻涌岩潮",
+                                        "EN": "Rumbling<br>Stone"
+                                    },
+                                    "Color": "Rock"
+                                }
+                            },
+                            {
+                                "ID": 20802,
+                                "Num": 2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Name": "11-3",
+                "Level": 92,
+                "GoalType": 0,
+                "GoalParam": 3,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        19
+                    ]
+                },
+                "DPS": {
+                    "7": 2168236
+                },
+                "Upper": [
+                    {
+                        "WaveDesc": 40632,
+                        "Monsters": [
+                            {
+                                "ID": 40632,
+                                "Num": 1,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "地方传奇",
+                                        "EN": "Local Legend"
+                                    }
+                                },
+                                "Name": {
+                                    "CH": "验证型 Aur001",
+                                    "EN": "Verified Type Aur001"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 20601,
+                        "Monsters": [
+                            {
+                                "ID": 20601,
+                                "Num": 1,
+                                "Affix": [
+                                    51571
+                                ],
+                                "Note": {
+                                    "Text": {
+                                        "CH": "强化王狼",
+                                        "EN": "Enhanced Wolflord"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "1032": {
+        "Disorder": {
+            "CH": "仅在此层，地脉的涌流平缓通顺。",
+            "EN": "For this floor only, the ley line flow will be normal."
+        },
+        "ShowVers": [
+            7
+        ],
+        "Chambers": [
+            {
+                "Name": "12-1",
+                "Level": 95,
+                "GoalType": 0,
+                "GoalParam": 3,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        7,
+                        22,
+                        34
+                    ]
+                },
+                "DPS": {
+                    "7": 4383866
+                },
+                "Upper": [
+                    {
+                        "WaveDesc": 512,
+                        "Monsters": [
+                            {
+                                "ID": 512,
+                                "Num": 1,
+                                "Affix": [
+                                    512
+                                ],
+                                "Note": {
+                                    "Text": {
+                                        "CH": "深渊特化",
+                                        "EN": "Abyss Version"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 61901,
+                        "Monsters": [
+                            {
+                                "ID": 61901,
+                                "Num": 1,
+                                "Affix": [
+                                    5427
+                                ],
+                                "Note": {
+                                    "Text": {
+                                        "CH": "深渊特化",
+                                        "EN": "Abyss Version"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Name": "12-2",
+                "Level": 98,
+                "GoalType": 0,
+                "GoalParam": 3,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        7,
+                        22,
+                        34
+                    ]
+                },
+                "DPS": {
+                    "7": 3442736
+                },
+                "Upper": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 40102,
+                                "Num": 4
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 40612,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "荒",
+                                        "EN": "Ousia"
+                                    }
+                                },
+                                "Num": 1
+                            },
+                            {
+                                "ID": 40662,
+                                "Note": {
+                                    "Text": {
+                                        "CH": "芒",
+                                        "EN": "Pneuma"
+                                    }
+                                },
+                                "Num": 2
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 3,
+                        "Monsters": [
+                            {
+                                "ID": 61002,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 61005,
+                                "Num": 1
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 10402,
+                                "Num": 1,
+                                "Affix": [
+                                    6106
+                                ],
+                                "Note": {
+                                    "Text": {
+                                        "CH": "水泡",
+                                        "EN": "Mist<br>Bubbles"
+                                    },
+                                    "Color": "Water"
+                                }
+                            },
+                            {
+                                "ID": 10204,
+                                "Num": 1,
+                                "Affix": [
+                                    6101
+                                ],
+                                "Note": {
+                                    "Text": {
+                                        "CH": "冰牢",
+                                        "EN": "Ice<br>Cage"
+                                    },
+                                    "Color": "Ice"
+                                }
+                            },
+                            {
+                                "ID": 10204,
+                                "Num": 1,
+                                "Affix": [
+                                    1029
+                                ],
+                                "Note": {
+                                    "Text": {
+                                        "CH": "凝结之冰",
+                                        "EN": "Condensed<br>Ice"
+                                    },
+                                    "Color": "Ice"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 20301,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 20201,
+                                "Num": 2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Name": "12-3",
+                "Level": 100,
+                "GoalType": 0,
+                "GoalParam": 3,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        19
+                    ]
+                },
+                "DPS": {
+                    "7": 3822369
+                },
+                "Upper": [
+                    {
+                        "WaveDesc": 10,
+                        "Monsters": [
+                            {
+                                "ID": 30602,
+                                "Num": 1
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 20,
+                        "ExtraDesc": {
+                            "CH": "<b>维持4个，按顺序杀一个出一个</b>",
+                            "EN": "<b>Keep 4 on field, spawn one after each kill in this order</b>"
+                        },
+                        "Monsters": [
+                            {
+                                "ID": 30106,
+                                "Num": 2
+                            },
+                            {
+                                "ID": 30103,
+                                "Num": 2
+                            },
+                            {
+                                "ID": 30102,
+                                "Num": 2
+                            },
+                            {
+                                "ID": 30101,
+                                "Num": 2
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "ExtraDesc": {
+                            "CH": "<b>AB组都消灭后出现</b>",
+                            "EN": "<b>Spawns after Groups A and B are both eliminated</b>"
+                        },
+                        "Monsters": [
+                            {
+                                "ID": 30501,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 30601,
+                                "Num": 2
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 11,
+                        "Monsters": [
+                            {
+                                "ID": 20201,
+                                "Num": 1
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 12,
+                        "Monsters": [
+                            {
+                                "ID": 61003,
+                                "Num": 1
+                            },
+                            {
+                                "ID": 61004,
+                                "Num": 1
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 21,
+                        "Monsters": [
+                            {
+                                "ID": 20202,
+                                "Num": 2
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 22,
+                        "Monsters": [
+                            {
+                                "ID": 61001,
+                                "Num": 1
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 30,
+                        "ExtraDesc": {
+                            "CH": "<b>维持1个，杀一个出一个</b>",
+                            "EN": "<b>Keep 1 on field, spawn one after each kill</b>"
+                        },
+                        "Monsters": [
+                            {
+                                "ID": 20103,
+                                "Num": 3,
+                                "Affix": [
+                                    5002
+                                ],
+                                "Note": {
+                                    "Text": {
+                                        "CH": "防护强化",
+                                        "EN": "Defense<br>Enhance"
+                                    }
+                                }
                             }
                         ]
                     }
