@@ -1030,7 +1030,7 @@ $(function () {
                             class: 'a_section_content'
                         }
                     ],
-                    class: 'a_section_small'
+                    class: 'a_section'
                 }
             })
         })
