@@ -57645,27 +57645,81 @@ var _SpiralAbyssFloorConfig = {
                         "Monsters": [
                             {
                                 "ID": 40401,
-                                "Num": 1
+                                "Num": 1,
+                                "Affix": [
+                                    5221
+                                ],
+                                "Note": {
+                                    "Text": {
+                                        "CH": "深渊元能",
+                                        "EN": "Abyssal<br>Construct"
+                                    }
+                                }
                             },
                             {
                                 "ID": 40402,
-                                "Num": 1
+                                "Num": 1,
+                                "Affix": [
+                                    5221
+                                ],
+                                "Note": {
+                                    "Text": {
+                                        "CH": "深渊元能",
+                                        "EN": "Abyssal<br>Construct"
+                                    }
+                                }
                             },
                             {
                                 "ID": 40403,
-                                "Num": 1
+                                "Num": 1,
+                                "Affix": [
+                                    5221
+                                ],
+                                "Note": {
+                                    "Text": {
+                                        "CH": "深渊元能",
+                                        "EN": "Abyssal<br>Construct"
+                                    }
+                                }
                             },
                             {
                                 "ID": 40401,
-                                "Num": 1
+                                "Num": 1,
+                                "Affix": [
+                                    5221
+                                ],
+                                "Note": {
+                                    "Text": {
+                                        "CH": "深渊元能",
+                                        "EN": "Abyssal<br>Construct"
+                                    }
+                                }
                             },
                             {
                                 "ID": 40402,
-                                "Num": 1
+                                "Num": 1,
+                                "Affix": [
+                                    5221
+                                ],
+                                "Note": {
+                                    "Text": {
+                                        "CH": "深渊元能",
+                                        "EN": "Abyssal<br>Construct"
+                                    }
+                                }
                             },
                             {
                                 "ID": 40403,
-                                "Num": 1
+                                "Num": 1,
+                                "Affix": [
+                                    5221
+                                ],
+                                "Note": {
+                                    "Text": {
+                                        "CH": "深渊元能",
+                                        "EN": "Abyssal<br>Construct"
+                                    }
+                                }
                             }
                         ]
                     }
@@ -57976,7 +58030,8 @@ var _SpiralAbyssFloorConfig = {
                                 "ID": 10402,
                                 "Num": 1,
                                 "Affix": [
-                                    6106
+                                    6106,
+                                    4186
                                 ],
                                 "Note": {
                                     "Text": {
