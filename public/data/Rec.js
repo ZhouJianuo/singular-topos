@@ -14,7 +14,7 @@ var _rec = [
             "CH": "完成开拓任务「行过死荫之地」获得",
             "EN": "Obtained from completing Trailblaze Mission \"A Walk Among the Tombstones\""
         },
-        "BPM": 150
+        "Group": 4
     },
     {
         "Name": {
@@ -29,7 +29,7 @@ var _rec = [
             "CH": "完成开拓任务「所有悲伤的故事」获得",
             "EN": "Obtained from completing Trailblaze Mission \"All the Sad Tales\""
         },
-        "BPM": 80
+        "Group": 4
     },
     {
         "Name": {
@@ -44,7 +44,7 @@ var _rec = [
             "CH": "完成开拓任务「泄密的心」获得",
             "EN": "Obtained from completing Trailblaze Mission \"The Tell-Tale Heart\""
         },
-        "BPM": 82
+        "Group": 4
     },
     {
         "Name": {
@@ -59,7 +59,7 @@ var _rec = [
             "CH": "完成开拓任务「外邦为何争闹？」获得",
             "EN": "Obtained from completing the Trailblaze Mission \"Why Do the Heathen Rage?\""
         },
-        "BPM": 84
+        "Group": 4
     },
     {
         "Name": {
@@ -74,7 +74,7 @@ var _rec = [
             "CH": "完成开拓任务「人间天堂」获得",
             "EN": "Obtained from completing Trailblaze Mission \"Heaven is a Place on Earth\""
         },
-        "BPM": 125
+        "Group": 4
     },
     {
         "Name": {
@@ -89,7 +89,7 @@ var _rec = [
             "CH": "完成开拓任务「酒店关门之后」获得",
             "EN": "Obtainable from completing the Trailblaze Mission \"When the Sacred Ginmill Closes\""
         },
-        "BPM": 160
+        "Group": 4
     },
     {
         "Name": {
@@ -104,7 +104,7 @@ var _rec = [
             "CH": "完成开拓任务「双重赔偿」获得",
             "EN": "Obtained from completing Trailblaze Mission \"Double Indemnity\""
         },
-        "BPM": 216
+        "Group": 4
     },
     {
         "Name": {
@@ -119,7 +119,7 @@ var _rec = [
             "CH": "完成开拓任务「迷惘的一代人」获得",
             "EN": "Obtained from completing Trailblaze Mission \"Lost Generation\""
         },
-        "BPM": 110
+        "Group": 4
     },
     {
         "Name": {
@@ -134,7 +134,7 @@ var _rec = [
             "CH": "探索匹诺康尼稚子的梦获得",
             "EN": "Obtainable from exploring A Child's Dream in Penacony"
         },
-        "BPM": 126
+        "Group": 4
     },
     {
         "Name": {
@@ -149,7 +149,7 @@ var _rec = [
             "CH": "完成开拓任务「犹在镜中」获得",
             "EN": "Obtainable from completing the Trailblaze Mission \"Through a Glass Darkly\""
         },
-        "BPM": 65
+        "Group": 4
     },
     {
         "Name": {
@@ -164,7 +164,7 @@ var _rec = [
             "CH": "完成开拓任务「夜色名为温柔」获得",
             "EN": "Obtainable from completing the Trailblaze Mission \"Gentleness, the Name of Nocturne\""
         },
-        "BPM": 80
+        "Group": 4
     },
     {
         "Name": {
@@ -179,7 +179,7 @@ var _rec = [
             "CH": "探索筑梦边境获得",
             "EN": "Obtainable from exploring the Dream's Edge"
         },
-        "BPM": 120
+        "Group": 4
     },
     {
         "Name": {
@@ -194,7 +194,7 @@ var _rec = [
             "CH": "探索匹诺康尼「白日梦」酒店-现实获得",
             "EN": "Obtainable from exploring The Reverie (Reality) in Penacony"
         },
-        "BPM": 95
+        "Group": 4
     },
     {
         "Name": {
@@ -209,7 +209,7 @@ var _rec = [
             "CH": "完成开拓任务「那些逐梦的年轻人」获得",
             "EN": "Obtainable from completing the Trailblaze Mission \"The Youths Who Chase Dreams\""
         },
-        "BPM": 126
+        "Group": 4
     },
     {
         "Name": {
@@ -224,7 +224,7 @@ var _rec = [
             "CH": "完成开拓任务「倘若在午夜醒来」获得",
             "EN": "Obtainable from completing the Trailblaze Mission \"Should One Awaken at Midnight\""
         },
-        "BPM": 92
+        "Group": 4
     },
     {
         "Name": {
@@ -239,7 +239,7 @@ var _rec = [
             "CH": "探索匹诺康尼黄金的时刻获得",
             "EN": "Obtained from exploring the Golden Hour in Penacony"
         },
-        "BPM": 140
+        "Group": 4
     },
     {
         "Name": {
@@ -254,7 +254,7 @@ var _rec = [
             "CH": "匹诺康尼派对客丹西处购买获得",
             "EN": "Purchasable from Penacony Partygoer Dancy"
         },
-        "BPM": 140
+        "Group": 4
     },
     {
         "Name": {
@@ -269,7 +269,7 @@ var _rec = [
             "CH": "完成开拓任务「无眠之夜」获得",
             "EN": "Obtainable from completing the Trailblaze Mission \"Sleepless Night\""
         },
-        "BPM": 140
+        "Group": 4
     },
     {
         "Name": {
@@ -284,7 +284,7 @@ var _rec = [
             "CH": "完成开拓任务「是谁杀死了...」获得",
             "EN": "Obtainable from completing Trailblaze Mission \"Whodunit\""
         },
-        "BPM": 95
+        "Group": 4
     },
     {
         "Name": {
@@ -299,7 +299,7 @@ var _rec = [
             "CH": "完成开拓任务「犹在镜中」获得",
             "EN": "Obtainable from completing the Trailblaze Mission \"Through a Glass Darkly\""
         },
-        "BPM": 106
+        "Group": 4
     },
     {
         "Name": {
@@ -314,7 +314,7 @@ var _rec = [
             "CH": "探索匹诺康尼「白日梦」酒店-梦境获得",
             "EN": "Obtained from exploring The Reverie (Dreamscape) in Penacony"
         },
-        "BPM": 177
+        "Group": 4
     },
     {
         "Name": {
@@ -329,7 +329,7 @@ var _rec = [
             "CH": "匹诺康尼派对客丹西处购买获得",
             "EN": "Purchasable from Penacony Partygoer Dancy"
         },
-        "BPM": 130
+        "Group": 4
     },
     {
         "Name": {
@@ -344,7 +344,7 @@ var _rec = [
             "CH": "完成同行任务「假面双人舞」获得",
             "EN": "Obtained by completing the Companion Mission \"Masquerade Duet\""
         },
-        "BPM": 122
+        "Group": 4
     },
     {
         "Name": {
@@ -359,7 +359,7 @@ var _rec = [
             "CH": "匹诺康尼派对客丹西处购买获得",
             "EN": "Purchasable from Penacony Partygoer Dancy"
         },
-        "BPM": 157
+        "Group": 4
     },
     {
         "Name": {
@@ -374,7 +374,7 @@ var _rec = [
             "CH": "完成冒险任务「捉鬼小队 · 金色奖牌 」获得",
             "EN": "Obtained from completing the Adventure Mission \"Ghost-Hunting Squad: Gold Medallion\""
         },
-        "BPM": 98
+        "Group": 3
     },
     {
         "Name": {
@@ -389,7 +389,7 @@ var _rec = [
             "CH": "完成开拓续闻任务「游园惊梦」获得",
             "EN": "Obtained from completing the Trailblaze Continuance \"Sojourners' Ghastly Reverie\""
         },
-        "BPM": 147
+        "Group": 3
     },
     {
         "Name": {
@@ -404,7 +404,7 @@ var _rec = [
             "CH": "完成冒险任务「金戺重喧 · 其四」获得",
             "EN": "Obtained from completing the Adventure Mission \"Back in Business (IV)\""
         },
-        "BPM": 94
+        "Group": 3
     },
     {
         "Name": {
@@ -419,7 +419,7 @@ var _rec = [
             "CH": "完成开拓任务「有龙矫矫，其渊渺渺」获得",
             "EN": "Obtained from completing Trailblaze Mission \"A Dragon Gallant, Its Ocean Distant\""
         },
-        "BPM": 160
+        "Group": 3
     },
     {
         "Name": {
@@ -434,7 +434,7 @@ var _rec = [
             "CH": "完成开拓任务「有龙矫矫，其渊渺渺」获得",
             "EN": "Obtained from completing Trailblaze Mission \"A Dragon Gallant, Its Ocean Distant\""
         },
-        "BPM": 140
+        "Group": 3
     },
     {
         "Name": {
@@ -449,7 +449,7 @@ var _rec = [
             "CH": "完成开拓任务「有龙矫矫，其渊渺渺」后，可在仙舟「罗浮」「三余书肆」购买获得",
             "EN": "Can be purchased at Spare Time Book Shop on the Xianzhou Luofu after completing the Trailblaze Mission \"A Dragon Gallant, Its Ocean Distant\""
         },
-        "BPM": 130
+        "Group": 3
     },
     {
         "Name": {
@@ -464,7 +464,7 @@ var _rec = [
             "CH": "完成开拓任务「有龙矫矫，其渊渺渺」后，可在仙舟「罗浮」「三余书肆」购买获得",
             "EN": "Can be purchased at Spare Time Book Shop on the Xianzhou Luofu after completing the Trailblaze Mission \"A Dragon Gallant, Its Ocean Distant\""
         },
-        "BPM": 60
+        "Group": 3
     },
     {
         "Name": {
@@ -479,7 +479,7 @@ var _rec = [
             "CH": "完成冒险任务「动物凶猛 · 落幕」获得",
             "EN": "Obtained by completing the Adventure Mission \"Bestial Ferocity: The End\""
         },
-        "BPM": 64
+        "Group": 3
     },
     {
         "Name": {
@@ -494,7 +494,7 @@ var _rec = [
             "CH": "完成同行任务「龙返其乡」获得",
             "EN": "Obtained after completing the Companion Mission \"The Dragon Returns Home\""
         },
-        "BPM": 95
+        "Group": 3
     },
     {
         "Name": {
@@ -509,7 +509,7 @@ var _rec = [
             "CH": "完成冒险任务「陶德 · 雷奥登的学术研究：龙图三变」获得",
             "EN": "Obtained by completing the Adventure Mission \"Todd Riordan's Academic Research: The Three Draconic Transformations\""
         },
-        "BPM": 150
+        "Group": 3
     },
     {
         "Name": {
@@ -524,7 +524,7 @@ var _rec = [
             "CH": "完成开拓任务「有龙矫矫，其渊渺渺」后，可在仙舟「罗浮」「三余书肆」购买获得",
             "EN": "Can be purchased at Spare Time Book Shop on the Xianzhou Luofu after completing the Trailblaze Mission \"A Dragon Gallant, Its Ocean Distant\""
         },
-        "BPM": 105
+        "Group": 3
     },
     {
         "Name": {
@@ -539,7 +539,7 @@ var _rec = [
             "CH": "完成开拓任务「有龙矫矫，其渊渺渺」后，可在仙舟「罗浮」「三余书肆」购买获得",
             "EN": "Can be purchased at Spare Time Book Shop on the Xianzhou Luofu after completing the Trailblaze Mission \"A Dragon Gallant, Its Ocean Distant\""
         },
-        "BPM": 170
+        "Group": 3
     },
     {
         "Name": {
@@ -554,7 +554,7 @@ var _rec = [
             "CH": "完成开拓任务「有龙矫矫，其渊渺渺」后，可在仙舟「罗浮」「三余书肆」购买获得",
             "EN": "Can be purchased at Spare Time Book Shop on the Xianzhou Luofu after completing the Trailblaze Mission \"A Dragon Gallant, Its Ocean Distant\""
         },
-        "BPM": 146
+        "Group": 3
     },
     {
         "Name": {
@@ -569,7 +569,7 @@ var _rec = [
             "CH": "完成开拓任务「金鼎灵树，穷途梼杌」获得",
             "EN": "Obtained from completing the Trailblaze Mission \"Desolate Depths of Despair\""
         },
-        "BPM": 134
+        "Group": 3
     },
     {
         "Name": {
@@ -584,7 +584,7 @@ var _rec = [
             "CH": "完成同行任务「譬如朝露」获得",
             "EN": "Obtained after completing the Companion Mission \"Evanesce Like the Morning Dew\""
         },
-        "BPM": 128
+        "Group": 3
     },
     {
         "Name": {
@@ -599,7 +599,7 @@ var _rec = [
             "CH": "完成同行任务「陌生女人的来信」获得",
             "EN": "Obtained by completing Companion Mission \"Letter from a Strange Woman\""
         },
-        "BPM": 143
+        "Group": 3
     },
     {
         "Name": {
@@ -614,7 +614,7 @@ var _rec = [
             "CH": "探索仙舟「罗浮」星槎海中枢获得",
             "EN": "Obtained from exploring the Central Starskiff Haven in the Xianzhou Luofu"
         },
-        "BPM": 116
+        "Group": 3
     },
     {
         "Name": {
@@ -629,7 +629,7 @@ var _rec = [
             "CH": "探索仙舟「罗浮」神策府获得",
             "EN": "Obtained from exploring the Seat of Divine Foresight in the Xianzhou Luofu"
         },
-        "BPM": 104
+        "Group": 3
     },
     {
         "Name": {
@@ -644,7 +644,7 @@ var _rec = [
             "CH": "完成开拓任务「极数问玄，历事穷观」获得",
             "EN": "Obtained from completing Trailblaze Mission \"Omniscient Inquiry of Arcana\""
         },
-        "BPM": 102
+        "Group": 3
     },
     {
         "Name": {
@@ -659,7 +659,7 @@ var _rec = [
             "CH": "完成开拓任务「茸客鸣呦，玉角盘虬」获得",
             "EN": "Obtained from completing Trailblaze Mission \"Humming Antlers, Entwined Horns\""
         },
-        "BPM": 170
+        "Group": 3
     },
     {
         "Name": {
@@ -674,7 +674,7 @@ var _rec = [
             "CH": "完成同行任务「霜刃一试」获得",
             "EN": "Obtained after completing the Companion Mission \"Frosty Blade's Trial\""
         },
-        "BPM": 145
+        "Group": 3
     },
     {
         "Name": {
@@ -689,7 +689,7 @@ var _rec = [
             "CH": "完成同行任务「异邦骑士」获得",
             "EN": "Obtained after completing the Companion Mission \"A Knight Stranger\""
         },
-        "BPM": 145
+        "Group": 3
     },
     {
         "Name": {
@@ -704,7 +704,7 @@ var _rec = [
             "CH": "完成同行任务「因为我已触碰过天空」获得",
             "EN": "Obtain by Completing the Companion Mission \"I Already Touched the Sky\""
         },
-        "BPM": 68
+        "Group": 3
     },
     {
         "Name": {
@@ -719,7 +719,7 @@ var _rec = [
             "CH": "仙舟「罗浮」「杂货小摊」购买获得",
             "EN": "Purchased from the Grocery Stand in the Xianzhou Luofu"
         },
-        "BPM": 108
+        "Group": 3
     },
     {
         "Name": {
@@ -734,7 +734,7 @@ var _rec = [
             "CH": "完成开拓任务「极数问玄，历事穷观」获得",
             "EN": "Obtained from completing Trailblaze Mission \"Omniscient Inquiry of Arcana\""
         },
-        "BPM": 74
+        "Group": 3
     },
     {
         "Name": {
@@ -749,7 +749,7 @@ var _rec = [
             "CH": "完成开拓任务「神木重萌，掣转天衡」获得",
             "EN": "Obtained from completing Trailblaze Mission \"Wood Sprouts Anew, Fate Tilts Askew\""
         },
-        "BPM": 68
+        "Group": 3
     },
     {
         "Name": {
@@ -764,7 +764,7 @@ var _rec = [
             "CH": "完成开拓任务「迴星周旋，未卜知先」获得",
             "EN": "Obtained from completing Trailblaze Mission \"Stars Spun, Prescience Sprung\""
         },
-        "BPM": 84
+        "Group": 3
     },
     {
         "Name": {
@@ -779,7 +779,7 @@ var _rec = [
             "CH": "完成开拓任务「紫府通谒，将军定策」获得",
             "EN": "Obtained from completing Trailblaze Mission \"Devising Stratagems\""
         },
-        "BPM": 118
+        "Group": 3
     },
     {
         "Name": {
@@ -794,7 +794,7 @@ var _rec = [
             "CH": "探索贝洛伯格历史文化博物馆区域获得",
             "EN": "Explore the Belobog History and Culture Museum"
         },
-        "BPM": 70
+        "Group": 2
     },
     {
         "Name": {
@@ -809,7 +809,7 @@ var _rec = [
             "CH": "完成开拓任务「从凶险和泥泞的沼泽中」获得",
             "EN": "Obtained from completing the Trailblaze Mission \"In the Dangerous Muddy Swamp\""
         },
-        "BPM": 120
+        "Group": 2
     },
     {
         "Name": {
@@ -824,7 +824,7 @@ var _rec = [
             "CH": "探索贝洛伯格花店「长夏」区域获得",
             "EN": "Obtained from exploring the Eversummer Florist of Belobog"
         },
-        "BPM": 96
+        "Group": 2
     },
     {
         "Name": {
@@ -839,7 +839,7 @@ var _rec = [
             "CH": "贝洛伯格「小吃摊」购买获得",
             "EN": "Purchasable from the Belobog Food Stall"
         },
-        "BPM": 99
+        "Group": 2
     },
     {
         "Name": {
@@ -854,7 +854,7 @@ var _rec = [
             "CH": "探索贝洛伯格黄金歌剧院区域获得",
             "EN": "Obtained from exploring the Golden Theater of Belobog"
         },
-        "BPM": 98
+        "Group": 2
     },
     {
         "Name": {
@@ -869,7 +869,7 @@ var _rec = [
             "CH": "完成开拓任务「回归」获得",
             "EN": "Obtained from completing Trailblaze Mission \"The Return\""
         },
-        "BPM": 65
+        "Group": 2
     },
     {
         "Name": {
@@ -884,7 +884,7 @@ var _rec = [
             "CH": "完成开拓任务「回归」获得",
             "EN": "Obtained from completing Trailblaze Mission \"The Return\""
         },
-        "BPM": 68
+        "Group": 2
     },
     {
         "Name": {
@@ -899,7 +899,7 @@ var _rec = [
             "CH": "完成开拓任务「已故去的必如雪崩再来」获得",
             "EN": "Obtained from completing Trailblaze Mission \"The Past Will Return as an Avalanche\""
         },
-        "BPM": 77
+        "Group": 2
     },
     {
         "Name": {
@@ -914,7 +914,7 @@ var _rec = [
             "CH": "完成开拓任务「他们有多少人已掉进深渊」获得",
             "EN": "Obtained from completing Trailblaze Mission \"Ones Fallen Into the Abyss\""
         },
-        "BPM": 104
+        "Group": 2
     },
     {
         "Name": {
@@ -929,7 +929,7 @@ var _rec = [
             "CH": "完成开拓任务「静静的星河」获得",
             "EN": "Obtained from completing the Trailblaze Mission \"Silent Galaxy\""
         },
-        "BPM": 72
+        "Group": 2
     },
     {
         "Name": {
@@ -944,7 +944,7 @@ var _rec = [
             "CH": "完成开拓任务「静静的星河」获得",
             "EN": "Obtained from completing the Trailblaze Mission \"Silent Galaxy\""
         },
-        "BPM": 72
+        "Group": 2
     },
     {
         "Name": {
@@ -959,7 +959,7 @@ var _rec = [
             "CH": "完成同行任务「只是孩子」获得",
             "EN": "Obtained from completing Companion Mission \"Only A Child\""
         },
-        "BPM": 114
+        "Group": 2
     },
     {
         "Name": {
@@ -974,7 +974,7 @@ var _rec = [
             "CH": "完成同行任务「难得有情 · 其一」获得",
             "EN": "Obtained from completing the Companion Mission \"Rarely Affectionate (Part 1)\""
         },
-        "BPM": 130
+        "Group": 2
     },
     {
         "Name": {
@@ -989,7 +989,7 @@ var _rec = [
             "CH": "完成同行任务「虎克的礼物」获得",
             "EN": "Obtained from completing the Companion Mission \"Hook's Gift\""
         },
-        "BPM": 124
+        "Group": 2
     },
     {
         "Name": {
@@ -1004,7 +1004,7 @@ var _rec = [
             "CH": "完成同行任务「风雪免疫」获得",
             "EN": "Obtained from completing the Companion Mission \"Blizzard Immunity\""
         },
-        "BPM": 159
+        "Group": 2
     },
     {
         "Name": {
@@ -1019,7 +1019,7 @@ var _rec = [
             "CH": "贝洛伯格「行政区商店」购买获得",
             "EN": "Purchasable from the Belobog Administrative District Shop"
         },
-        "BPM": 109
+        "Group": 2
     },
     {
         "Name": {
@@ -1034,7 +1034,7 @@ var _rec = [
             "CH": "完成同行任务「宇宙幻觉之夜」获得",
             "EN": "Obtained after completing the Companion Mission \"Night of Universal Hallucinations\""
         },
-        "BPM": 84
+        "Group": 1
     },
     {
         "Name": {
@@ -1049,7 +1049,7 @@ var _rec = [
             "CH": "完成同行任务「宇宙幻觉之夜」获得",
             "EN": "Obtained after completing the Companion Mission \"Night of Universal Hallucinations\""
         },
-        "BPM": 120
+        "Group": 1
     },
     {
         "Name": {
@@ -1064,7 +1064,7 @@ var _rec = [
             "CH": "完成同行任务「知名不具」获得",
             "EN": "Obtained from completing the Companion Mission \"You Already Know Me\""
         },
-        "BPM": 141
+        "Group": 1
     },
     {
         "Name": {
@@ -1079,7 +1079,7 @@ var _rec = [
             "CH": "探索空间站「黑塔」主控舱段获得",
             "EN": "Obtained from exploring Herta Space Station's master control zone"
         },
-        "BPM": 134
+        "Group": 1
     },
     {
         "Name": {
@@ -1094,7 +1094,7 @@ var _rec = [
             "CH": "默认解锁",
             "EN": "Unlocked by Default"
         },
-        "BPM": 74
+        "Group": 1
     },
     {
         "Name": {
@@ -1109,7 +1109,7 @@ var _rec = [
             "CH": "默认解锁",
             "EN": "Unlocked by Default"
         },
-        "BPM": 122
+        "Group": 1
     },
     {
         "Name": {
@@ -1124,7 +1124,7 @@ var _rec = [
             "CH": "默认解锁",
             "EN": "Default Unlock"
         },
-        "BPM": 80
+        "Group": 1
     },
     {
         "Name": {
@@ -1139,7 +1139,7 @@ var _rec = [
             "CH": "默认解锁",
             "EN": "Unlocked by Default"
         },
-        "BPM": 80
+        "Group": 1
     },
     {
         "Name": {
@@ -1154,7 +1154,7 @@ var _rec = [
             "CH": "完成同行任务「阴差阳错」获得",
             "EN": "Obtained from completing the Companion Mission \"An Unexpected Turn of Events\""
         },
-        "BPM": 128
+        "Group": 1
     },
     {
         "Name": {
@@ -1169,7 +1169,7 @@ var _rec = [
             "CH": "默认解锁",
             "EN": "Default Unlock"
         },
-        "BPM": 128
+        "Group": 1
     },
     {
         "Name": {
@@ -1184,7 +1184,7 @@ var _rec = [
             "CH": "探索空间站「黑塔」基座舱段获得",
             "EN": "Obtained from exploring Herta Space Station's base zone"
         },
-        "BPM": 130
+        "Group": 1
     },
     {
         "Name": {
@@ -1199,7 +1199,7 @@ var _rec = [
             "CH": "默认解锁",
             "EN": "Default Unlock"
         },
-        "BPM": 112
+        "Group": 1
     }
 ]
 

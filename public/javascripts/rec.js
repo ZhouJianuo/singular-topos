@@ -56,7 +56,14 @@ $(function () {
                 {
                     section: {
                         schedule: `[[Name/${lang}]]`,
-                        data: _recgroup
+                        data: _recgroup,
+                        a: {
+                            class: function (k) {
+                                if (k.data._id == cur_group) return 'active'
+                                return ''
+                            },
+                            'data-id': `[[_id]]`
+                        }
                     },
                     class: 'choose',
                 },
@@ -69,39 +76,54 @@ $(function () {
         }
     })
 
-    _rec.forEach(function (t, i) {
-        $('.miracle_card_area').render({
-            div: [
-                {
-                    img: imgpre + 'images/itemfigures/210001.png',
-                    class: 'icon'
-                },
-                {
-                    p: t.Name[lang],
-                    class: 'name'
-                },
-                {
-                    p: `[[${lang}]]`,
-                    class: 'desc',
-                    data: t.Unlock,
-                    style: {
-                        'font-size': '0.9em'
-                    }
-                },
-                {
-                    hr: '',
-                    style: {
-                        margin: '15px 0'
-                    }
-                },
-                {
-                    p: `[[${lang}]]`,
-                    class: 'desc',
-                    data: t.Desc
-                },
-            ],
-            class: 'curio'
+    function renderREC() {
+        _rec.forEach(function (t, i) {
+            if (t.Group != cur_group) return
+            $('.miracle_card_area').render({
+                div: [
+                    {
+                        img: imgpre + 'images/itemfigures/210001.png',
+                        class: 'icon'
+                    },
+                    {
+                        p: t.Name[lang],
+                        class: 'name'
+                    },
+                    {
+                        p: `[[${lang}]]`,
+                        class: 'desc',
+                        data: t.Unlock,
+                        style: {
+                            'font-size': '0.9em'
+                        }
+                    },
+                    {
+                        hr: '',
+                        style: {
+                            margin: '15px 0'
+                        }
+                    },
+                    {
+                        p: `[[${lang}]]`,
+                        class: 'desc',
+                        data: t.Desc
+                    },
+                ],
+                class: 'curio'
+            })
         })
+    }
+
+    renderREC()
+
+    $('body').on('click', '.choose schedule', function () {
+        if ($(this).hasClass('active')) {
+            return;
+        }
+        $(this).addClass('active').siblings('schedule').removeClass('active');
+        cur_group = parseInt($(this).attr('data-id'))
+        $('.miracle_card_area').empty()
+        renderREC()
     })
 
 })
