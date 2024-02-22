@@ -100,7 +100,7 @@ $(function () {
     $('.tls' + lang).css("color", "#df903b");
     $('h3 .title').html(computer_.MiscText.Avatar_Title[lang] + "<color style='font-size: 0.5em;'><br><b>" + VER_GI + "</b></color>");
     $('h3 .subtitle').html(computer_.MiscText.Subtitle[lang]);
-    $('h3 .tlsub').html(computer_.MiscText.Translate_Char[lang]);
+    $('h3 .tlsub').html(computer_.MiscText.Translate_Char[lang2]);
 
     cl_show = 0 
     if ($("#UPDATE").val()) cl_show = 1
@@ -124,7 +124,7 @@ $(function () {
                     {
                         section: [
                             {
-                                schedule: computer_.MiscText.Changelog[lang],
+                                schedule: computer_.MiscText.Changelog[lang2],
                                 click: function (p) {
                                     cl_show = 1 - cl_show
                                     if (cl_show) {
@@ -258,32 +258,32 @@ $(function () {
                     {
                         section: [
                             {
-                                schedule: computer_.MiscText.Avatar_Sort[0][lang],
+                                schedule: computer_.MiscText.Avatar_Sort[0][lang2],
                                 a: {
                                     'data-id': 5,
                                     'class': 'active'
                                 }
                             },
                             {
-                                schedule: computer_.MiscText.Avatar_Sort[4][lang],
+                                schedule: computer_.MiscText.Avatar_Sort[4][lang2],
                                 a: {
                                     'data-id': 4
                                 }
                             },
                             {
-                                schedule: computer_.MiscText.Avatar_Sort[1][lang],
+                                schedule: computer_.MiscText.Avatar_Sort[1][lang2],
                                 a: {
                                     'data-id': 1
                                 }
                             },
                             {
-                                schedule: computer_.MiscText.Avatar_Sort[2][lang],
+                                schedule: computer_.MiscText.Avatar_Sort[2][lang2],
                                 a: {
                                     'data-id': 2
                                 }
                             },
                             {
-                                schedule: computer_.MiscText.Avatar_Sort[3][lang],
+                                schedule: computer_.MiscText.Avatar_Sort[3][lang2],
                                 a: {
                                     'data-id': 3
                                 }
@@ -475,7 +475,7 @@ $(function () {
                     is_calc = 1
                     talk_state = 0
                     poplayer({
-                        header: '<span id="h_">' + p.org_data.Name[lang] + pop_ver + computer_.MiscText.Avatar_Table_Title_Extra[lang] + '</span>',
+                        header: '<span id="h_">' + p.org_data.Name[lang] + pop_ver + computer_.MiscText.Avatar_Table_Title_Extra[lang2] + '</span>',
                         width: '100%',
                         data: p.org_data,
                         template: [
@@ -486,7 +486,7 @@ $(function () {
                                     $(g.container).render({
                                         data: computer_.MiscText.Avatar_Info_Select,
                                         template: {
-                                            span: `[[${lang}]]`,
+                                            span: `[[${lang2}]]`,
                                             a: { 'data-s': `[[${'EN'}]]` },
                                             click: function (d) {
                                                 if ($(d.sender).hasClass('active')) {
@@ -782,7 +782,7 @@ $(function () {
                             div: [
                                 {
                                     div: {
-                                        p: computer_.MiscText.Avatar_Mat[lang]
+                                        p: computer_.MiscText.Avatar_Mat[lang2]
                                     },
                                     class: 'a_section_head',
                                     style: {
@@ -809,7 +809,7 @@ $(function () {
                                                     attr: { target: '_blank' }
                                                 },
                                                 {
-                                                    p: computer_.MiscText.Avatar_Mons[lang]
+                                                    p: computer_.MiscText.Avatar_Mons[lang2]
                                                 }
                                             ],
                                             class: 'avatar_mat'
@@ -980,7 +980,7 @@ $(function () {
                             div: [
                                 {
                                     div: {
-                                        p: computer_.MiscText.Avatar_Stats[lang]
+                                        p: computer_.MiscText.Avatar_Stats[lang2]
                                     },
                                     class: 'a_section_head',
                                 },
@@ -999,11 +999,11 @@ $(function () {
                                                     }
                                                 },
                                                 {
-                                                    button: computer_.MiscText.Avatar_IsPromote[0][lang],
+                                                    button: computer_.MiscText.Avatar_IsPromote[0][lang2],
                                                     class: 'promote',
                                                     click: function () {
                                                         isp = 1 - isp
-                                                        $('.promote').html(computer_.MiscText.Avatar_IsPromote[isp][lang])
+                                                        $('.promote').html(computer_.MiscText.Avatar_IsPromote[isp][lang2])
                                                         cur_level = $('input[name=level]').val()
                                                         if (cur_level > 0 && cur_level <= 90) {
                                                             $('.avatar_stat').html(calcstats(cur_level, this_avatar))
@@ -1030,7 +1030,7 @@ $(function () {
                             div: [
                                 {
                                     div: {
-                                        p: computer_.MiscText.Avatar_BasicInfo_Info[lang]
+                                        p: computer_.MiscText.Avatar_BasicInfo_Info[lang2]
                                     },
                                     class: 'a_section_head'
                                 },
@@ -1038,42 +1038,42 @@ $(function () {
                                     div: [
                                         {
                                             p: function (k) {
-                                                return computer_.MiscText.Avatar_BasicInfo_1_1[lang] + avatar_color + k.data.Constellation[lang] + "</b></color>"
+                                                return computer_.MiscText.Avatar_BasicInfo_1_1[lang2] + avatar_color + k.data.Constellation[lang] + "</b></color>"
                                             }
                                         },
                                         {
                                             p: function (k) {
-                                                return computer_.MiscText.Avatar_BasicInfo_1_2[lang] + avatar_color + k.data.Birthday + "</b></color>"
+                                                return computer_.MiscText.Avatar_BasicInfo_1_2[lang2] + avatar_color + k.data.Birthday + "</b></color>"
                                             }
                                         },
                                         {
                                             p: function (k) {
-                                                return computer_.MiscText.Avatar_BasicInfo_1_3_0[lang] + "<color style='color:" + color1 + "';><b>" + nation.Text[lang] + "</b></color>"
+                                                return computer_.MiscText.Avatar_BasicInfo_1_3_0[lang2] + "<color style='color:" + color1 + "';><b>" + nation.Text[lang] + "</b></color>"
                                             }
                                         },
                                         {
                                             p: function (k) {
-                                                return computer_.MiscText.Avatar_BasicInfo_1_3[lang] + avatar_color + k.data.Belong[lang] + "</b></color>"
+                                                return computer_.MiscText.Avatar_BasicInfo_1_3[lang2] + avatar_color + k.data.Belong[lang] + "</b></color>"
                                             }
                                         },
                                         {
                                             p: function (k) {
-                                                return computer_.MiscText.Avatar_BasicInfo_2_1[lang] + avatar_color + _AvatarPromoteConfig[k.data._name].CV.CH[lang] + "</b></color>"
+                                                return computer_.MiscText.Avatar_BasicInfo_2_1[lang2] + avatar_color + _AvatarPromoteConfig[k.data._name].CV.CH[lang] + "</b></color>"
                                             }
                                         },
                                         {
                                             p: function (k) {
-                                                return computer_.MiscText.Avatar_BasicInfo_2_2[lang] + avatar_color + _AvatarPromoteConfig[k.data._name].CV.EN[lang] + "</b></color>"
+                                                return computer_.MiscText.Avatar_BasicInfo_2_2[lang2] + avatar_color + _AvatarPromoteConfig[k.data._name].CV.EN[lang] + "</b></color>"
                                             }
                                         },
                                         {
                                             p: function (k) {
-                                                return computer_.MiscText.Avatar_BasicInfo_2_3[lang] + avatar_color + _AvatarPromoteConfig[k.data._name].CV.JP[lang] + "</b></color>"
+                                                return computer_.MiscText.Avatar_BasicInfo_2_3[lang2] + avatar_color + _AvatarPromoteConfig[k.data._name].CV.JP[lang] + "</b></color>"
                                             }
                                         },
                                         {
                                             p: function (k) {
-                                                return computer_.MiscText.Avatar_BasicInfo_2_4[lang] + avatar_color + _AvatarPromoteConfig[k.data._name].CV.KR[lang] + "</b></color>"
+                                                return computer_.MiscText.Avatar_BasicInfo_2_4[lang2] + avatar_color + _AvatarPromoteConfig[k.data._name].CV.KR[lang] + "</b></color>"
                                             }
                                         },
                                     ],
@@ -1086,7 +1086,7 @@ $(function () {
                             div: [
                                 {
                                     div: {
-                                        p: computer_.MiscText.Avatar_BasicInfo_Battle[lang]
+                                        p: computer_.MiscText.Avatar_BasicInfo_Battle[lang2]
                                     },
                                     class: 'a_section_head'
                                 },
@@ -1094,22 +1094,22 @@ $(function () {
                                     div: [
                                         {
                                             p: function (k) {
-                                                return computer_.MiscText.Avatar_BasicInfo_Poise_1[lang] + avatar_color + computer_.AvatarPoiseConfig[k.data.Poise].Name[lang] + "</b></color>"
+                                                return computer_.MiscText.Avatar_BasicInfo_Poise_1[lang2] + avatar_color + computer_.AvatarPoiseConfig[k.data.Poise].Name[lang] + "</b></color>"
                                             }
                                         },
                                         {
                                             p: function (k) {
-                                                return computer_.MiscText.Avatar_BasicInfo_Poise_2[lang] + avatar_color + computer_.AvatarPoiseConfig[k.data.Poise].Poise.Endure + "</b></color>"
+                                                return computer_.MiscText.Avatar_BasicInfo_Poise_2[lang2] + avatar_color + computer_.AvatarPoiseConfig[k.data.Poise].Poise.Endure + "</b></color>"
                                             }
                                         },
                                         {
                                             p: function (k) {
-                                                return computer_.MiscText.Avatar_BasicInfo_Poise_3[lang] + avatar_color + (computer_.AvatarPoiseConfig[k.data.Poise].Poise.Wane1 / computer_.AvatarPoiseConfig[k.data.Poise].Poise.Wane2).toFixed(5).toString().replace('.00000', '').replace('000', '') + "</b></color>"
+                                                return computer_.MiscText.Avatar_BasicInfo_Poise_3[lang2] + avatar_color + (computer_.AvatarPoiseConfig[k.data.Poise].Poise.Wane1 / computer_.AvatarPoiseConfig[k.data.Poise].Poise.Wane2).toFixed(5).toString().replace('.00000', '').replace('000', '') + "</b></color>"
                                             }
                                         },
                                         {
                                             p: function (k) {
-                                                return computer_.MiscText.Avatar_BasicInfo_Poise_4[lang] + avatar_color + computer_.AvatarPoiseConfig[k.data.Poise].Poise.Recover + "</b></color>"
+                                                return computer_.MiscText.Avatar_BasicInfo_Poise_4[lang2] + avatar_color + computer_.AvatarPoiseConfig[k.data.Poise].Poise.Recover + "</b></color>"
                                             }
                                         }
                                     ],
@@ -1160,7 +1160,7 @@ $(function () {
                             div: [
                                 {
                                     div: {
-                                        p: computer_.MiscText.Avatar_Costume[lang]
+                                        p: computer_.MiscText.Avatar_Costume[lang2]
                                     },
                                     class: 'a_section_head',
                                     style: {
@@ -1189,7 +1189,7 @@ $(function () {
                                                     }
                                                 },
                                                 {
-                                                    button: computer_.MiscText.Avatar_Costume_Story[lang],
+                                                    button: computer_.MiscText.Avatar_Costume_Story[lang2],
                                                     when: function (k) {
                                                         return k.data.ID
                                                     },
@@ -1393,7 +1393,7 @@ $(function () {
                                                                 $(s.container).render({
                                                                     span: function (s) {
                                                                         var this_level_desc = s.data.ParamLevelList[i]
-                                                                        return this_level_desc ? (this_level_desc[lang] ? this_level_desc[lang] : this_level_desc) : s.data.ParamLevelList[total_lv - 1][lang]
+                                                                        return this_level_desc ? (this_level_desc[lang2] ? this_level_desc[lang2] : this_level_desc) : s.data.ParamLevelList[total_lv - 1][lang2]
                                                                     },
                                                                     class: 'lv lv' + (i + 1).toString()
                                                                 });
@@ -1414,7 +1414,7 @@ $(function () {
                                             {
                                                 div: [
                                                     {
-                                                        span: computer_.MiscText.Avatar_ExtraParamName_Charge[lang],
+                                                        span: computer_.MiscText.Avatar_ExtraParamName_Charge[lang2],
                                                         style: {
                                                             'color': '#FFD780',
                                                         }
@@ -1436,7 +1436,7 @@ $(function () {
                                             {
                                                 div: [
                                                     {
-                                                        span: computer_.MiscText.Avatar_ExtraParamName_Lock[lang],
+                                                        span: computer_.MiscText.Avatar_ExtraParamName_Lock[lang2],
                                                         style: {
                                                             'color': '#FFD780',
                                                         }
@@ -1664,7 +1664,7 @@ $(function () {
                                                 $(d.container).render({
                                                     data: computer_.MiscText.Avatar_Attack_Header,
                                                     template: {
-                                                        th: `[[${lang}]]`
+                                                        th: `[[${lang2}]]`
                                                     }
                                                 })
                                             }
@@ -1819,7 +1819,7 @@ $(function () {
                             div: [
                                 {
                                     div: {
-                                        p: computer_.MiscText.Avatar_Data_Ball[lang]
+                                        p: computer_.MiscText.Avatar_Data_Ball[lang2]
                                     },
                                     style: {
                                         color: color0
@@ -1873,7 +1873,7 @@ $(function () {
                             div: [
                                 {
                                     div: {
-                                        p: computer_.MiscText.Avatar_Data_Endure[lang]
+                                        p: computer_.MiscText.Avatar_Data_Endure[lang2]
                                     },
                                     style: {
                                         color: color0
@@ -1920,7 +1920,7 @@ $(function () {
                             div: [
                                 {
                                     div: {
-                                        p: computer_.MiscText.Avatar_Data_WindZone[lang]
+                                        p: computer_.MiscText.Avatar_Data_WindZone[lang2]
                                     },
                                     style: {
                                         color: color0
@@ -1936,7 +1936,7 @@ $(function () {
                                                         $(d.container).render({
                                                             data: computer_.MiscText.Avatar_WindZone_Header,
                                                             template: {
-                                                                th: `[[${lang}]]`,
+                                                                th: `[[${lang2}]]`,
                                                                 style: {
                                                                     'padding': "7px"
                                                                 }
@@ -2011,7 +2011,7 @@ $(function () {
                             div: [
                                 {
                                     div: {
-                                        p: computer_.MiscText.Avatar_Data_Other[lang]
+                                        p: computer_.MiscText.Avatar_Data_Other[lang2]
                                     },
                                     style: {
                                         color: color0
@@ -2127,12 +2127,12 @@ $(function () {
                             }
                         },
                         {
-                            button: computer_.MiscText.TalkTip[lang],
+                            button: computer_.MiscText.TalkTip[lang2],
                             class: 'reset_talk_',
                             when: !talk_state
                         },
                         {
-                            button: computer_.MiscText.ResetTalk[lang],
+                            button: computer_.MiscText.ResetTalk[lang2],
                             class: 'reset_talk',
                             when: talk_state
                         }
@@ -2152,7 +2152,7 @@ $(function () {
 
     $('body').on('click', '.reset_talk', function () {
         talk_state = 0
-        $(this).html(computer_.MiscText.TalkTip[lang])
+        $(this).html(computer_.MiscText.TalkTip[lang2])
         $(this).removeClass('reset_talk').addClass('reset_talk_')
         $('.a_talk').empty()
         init_talk(_AvatarTeapotTalkList[cur_avatar._id], cur_avatar)
@@ -2160,7 +2160,7 @@ $(function () {
 
     $('body').on('click', '.talk_2', function () {
         talk_state = 1
-        $('.reset_talk_').html(computer_.MiscText.ResetTalk[lang])
+        $('.reset_talk_').html(computer_.MiscText.ResetTalk[lang2])
         $('.reset_talk_').removeClass('reset_talk_').addClass('reset_talk')
         $('.talk_2').fadeOut(500)
         $(this).removeClass('talk_2').fadeIn(1000, function () {
@@ -2391,7 +2391,7 @@ $(function () {
 
     function popRelic() {
         poplayer({
-            header: computer_.MiscText.Avatar_Relic[lang] + computer_.MiscText.Avatar_Table_Title_Extra[lang],
+            header: computer_.MiscText.Avatar_Relic[lang2] + computer_.MiscText.Avatar_Table_Title_Extra[lang2],
             width: '100%',
             template: [{
                 table: [
@@ -2401,7 +2401,7 @@ $(function () {
                                 $(d.container).render({
                                     data: computer_.MiscText.Avatar_Relic_Header,
                                     template: {
-                                        th: `[[${lang}]]`
+                                        th: `[[${lang2}]]`
                                     }
                                 })
                             }
@@ -2509,7 +2509,7 @@ $(function () {
     function doRelic(cr) {
         cur_relic = cr
         poplayer({
-            header: cr.Name[lang] + pop_ver + computer_.MiscText.Avatar_Table_Title_Extra[lang],
+            header: cr.Name[lang] + pop_ver + computer_.MiscText.Avatar_Table_Title_Extra[lang2],
             width: '100%',
             data: cr,
             template: [
@@ -2519,7 +2519,7 @@ $(function () {
                             $(g.container).render({
                                 data: txt,
                                 template: {
-                                    span: `[[${lang}]]`,
+                                    span: `[[${lang2}]]`,
                                     a: { 'data-id': ind },
                                     click: function (d) {
                                         if ($(d.sender).hasClass('active')) {
@@ -2596,7 +2596,7 @@ $(function () {
                         div: [
                             {
                                 div: {
-                                    p: (cur_relic.Skills[0] ? cur_relic.Skills[0].Num : '') + computer_.MiscText.Avatar_Relic_Num[lang]
+                                    p: (cur_relic.Skills[0] ? cur_relic.Skills[0].Num : '') + computer_.MiscText.Avatar_Relic_Num[lang2]
                                 },
                                 class: 'a_section_head'
                             },
@@ -2614,7 +2614,7 @@ $(function () {
                         div: [
                             {
                                 div: {
-                                    p: (cur_relic.Skills[1] ? cur_relic.Skills[1].Num : '') + computer_.MiscText.Avatar_Relic_Num[lang]
+                                    p: (cur_relic.Skills[1] ? cur_relic.Skills[1].Num : '') + computer_.MiscText.Avatar_Relic_Num[lang2]
                                 },
                                 class: 'a_section_head'
                             },
@@ -2632,7 +2632,7 @@ $(function () {
                         div: [
                             {
                                 div: {
-                                    p: (cur_relic.Skills[2] ? cur_relic.Skills[2].Num : '') + computer_.MiscText.Avatar_Relic_Num[lang]
+                                    p: (cur_relic.Skills[2] ? cur_relic.Skills[2].Num : '') + computer_.MiscText.Avatar_Relic_Num[lang2]
                                 },
                                 class: 'a_section_head'
                             },
@@ -2650,7 +2650,7 @@ $(function () {
                         div: [
                             {
                                 div: {
-                                    p: computer_.MiscText.Avatar_Weapon_Extra[lang]
+                                    p: computer_.MiscText.Avatar_Weapon_Extra[lang2]
                                 },
                                 class: 'a_section_head'
                             },
@@ -2708,7 +2708,7 @@ $(function () {
                     div: [
                         {
                             div: {
-                                p: computer_.MiscText.Avatar_Weapon_Desc[lang]
+                                p: computer_.MiscText.Avatar_Weapon_Desc[lang2]
                             },
                             class: 'a_section_head'
                         },
@@ -2725,7 +2725,7 @@ $(function () {
                     div: [
                         {
                             div: {
-                                p: computer_.MiscText.Avatar_Weapon_Story[lang]
+                                p: computer_.MiscText.Avatar_Weapon_Story[lang2]
                             },
                             class: 'a_section_head'
                         },
@@ -2760,7 +2760,7 @@ $(function () {
 
     function popWeapon(o) {
         poplayer({
-            header: computer_.MiscText.Avatar_Weapon[o][lang] + computer_.MiscText.Avatar_Table_Title_Extra[lang],
+            header: computer_.MiscText.Avatar_Weapon[o][lang2] + computer_.MiscText.Avatar_Table_Title_Extra[lang2],
             width: '100%',
             template: [{
                 section: [
@@ -2889,7 +2889,7 @@ $(function () {
         var skill = _WeaponAffixConfig[wpn.EquipAffixID]
         cur_skill = skill
         poplayer({
-            header: '<span id="h_">' + wpn.Name[lang] + pop_ver + computer_.MiscText.Avatar_Table_Title_Extra[lang] + '</span>',
+            header: '<span id="h_">' + wpn.Name[lang] + pop_ver + computer_.MiscText.Avatar_Table_Title_Extra[lang2] + '</span>',
             width: '100%',
             class: 'weapon_pop',
             template: {
@@ -2952,7 +2952,7 @@ $(function () {
                 div: [
                     {
                         div: {
-                            p: computer_.MiscText.Avatar_Weapon_Stats[lang]
+                            p: computer_.MiscText.Avatar_Weapon_Stats[lang2]
                         },
                         class: 'a_section_head'
                     },
@@ -2969,14 +2969,14 @@ $(function () {
                             {
                                 p: function (k) {
                                     var st = wpn.Stat.toFixed(5)
-                                    return computer_.MiscText.Avatar_Weapon_Stat_ATK[lang] + "<b>" + st + "</b>"
+                                    return computer_.MiscText.Avatar_Weapon_Stat_ATK[lang2] + "<b>" + st + "</b>"
                                 }
                             },
                             {
                                 p: function (k) {
                                     promote_value = wpn.CustomStat
                                     if (!wpn.Custom) {
-                                        return computer_.MiscText.Avatar_Weapon_Stat_Custom[lang] + "-"
+                                        return computer_.MiscText.Avatar_Weapon_Stat_Custom[lang2] + "-"
                                     }
                                     promote_config = computer_.AvatarCustomPromoteConfig[wpn.Custom]
                                     if (promote_config.ShowType === "p") {
@@ -2984,7 +2984,7 @@ $(function () {
                                     } else {
                                         promote_value = promote_value.toFixed(1).toString()
                                     }
-                                    return computer_.MiscText.Avatar_Weapon_Stat_Custom[lang] + "<b>+" + promote_value + " " + promote_config.Text[lang] + "</b>"
+                                    return computer_.MiscText.Avatar_Weapon_Stat_Custom[lang2] + "<b>+" + promote_value + " " + promote_config.Text[lang] + "</b>"
                                 }
                             },
                             {
@@ -3064,7 +3064,7 @@ $(function () {
                 div: [
                     {
                         div: {
-                            p: computer_.MiscText.Avatar_Weapon_Extra[lang]
+                            p: computer_.MiscText.Avatar_Weapon_Extra[lang2]
                         },
                         class: 'a_section_head'
                     },
@@ -3089,7 +3089,7 @@ $(function () {
                 div: [
                     {
                         div: {
-                            p: computer_.MiscText.Avatar_Weapon_Story[lang]
+                            p: computer_.MiscText.Avatar_Weapon_Story[lang2]
                         },
                         class: 'a_section_head'
                     },
@@ -3208,9 +3208,9 @@ $(function () {
         defshow = avatar_color + defcalc.toFixed(2) + "</b></color>"
         customshow = avatar_color + "+" + ((custominfo.ShowType == "p") ? ((customcalc * 100).toFixed(1) + "%") : customcalc.toFixed(1)) + "</b></color>"
 
-        s = computer_.MiscText.Avatar_Stat_HP[lang] + hpshow + "<br>"
-            + computer_.MiscText.Avatar_Stat_ATK[lang] + atkshow + "<br>"
-            + computer_.MiscText.Avatar_Stat_DEF[lang] + defshow + "<br>"
+        s = computer_.MiscText.Avatar_Stat_HP[lang2] + hpshow + "<br>"
+            + computer_.MiscText.Avatar_Stat_ATK[lang2] + atkshow + "<br>"
+            + computer_.MiscText.Avatar_Stat_DEF[lang2] + defshow + "<br>"
             + custominfo.Text[lang] + ((lang == "CH") ? "：" : ": ") + customshow
 
         return s
@@ -3246,7 +3246,7 @@ $(function () {
     $('body').on('click', '.Norm', function (p) {
         console.log(1)
         poplayer({
-            header: computer_.MiscText.Avatar_Norm_Title[lang] + computer_.MiscText.Avatar_Table_Title_Extra[lang],
+            header: computer_.MiscText.Avatar_Norm_Title[lang] + computer_.MiscText.Avatar_Table_Title_Extra[lang2],
             width: '95%',
             class: 'norm',
             template: [{
@@ -3262,7 +3262,7 @@ $(function () {
         avatar_stat_ver = $(this).val()
         $('select').val(avatar_stat_ver)
         renderInfo(current_name, current_type)
-        $('#h_').html(_AvatarInfoConfig[char_id_list[current_name]].Name[lang] + " " + $('.stat_ver_choose select option:selected').html() + computer_.MiscText.Avatar_Table_Title_Extra[lang])
+        $('#h_').html(_AvatarInfoConfig[char_id_list[current_name]].Name[lang] + " " + $('.stat_ver_choose select option:selected').html() + computer_.MiscText.Avatar_Table_Title_Extra[lang2])
     })
 
     $('body').on('change', '.stat_ver_choose_w select', function () {
@@ -3270,7 +3270,7 @@ $(function () {
         $('select').val(weapon_stat_ver)
         $('.weapon_section').empty().render(skillTemplate(cur_wpn, cur_skill))
         $('select').val(weapon_stat_ver)
-        $('#h_').html(cur_wpn.Name[lang] + " " + $('.stat_ver_choose_w select option:selected').html() + computer_.MiscText.Avatar_Table_Title_Extra[lang])
+        $('#h_').html(cur_wpn.Name[lang] + " " + $('.stat_ver_choose_w select option:selected').html() + computer_.MiscText.Avatar_Table_Title_Extra[lang2])
         load_weapon_story()
     })
 
@@ -3321,7 +3321,7 @@ $(function () {
         var hd = mat.Text[lang].indexOf('<br>')
         if (hd == -1) hd = mat.Text[lang].length
         poplayer({
-            header: mat.Text[lang].substring(0, hd) + computer_.MiscText.Avatar_Table_Title_Extra[lang],
+            header: mat.Text[lang].substring(0, hd) + computer_.MiscText.Avatar_Table_Title_Extra[lang2],
             width: '100%',
             class: 'mat-pop',
             template: {
@@ -3347,7 +3347,7 @@ $(function () {
         var mat = acs_cache[ascid]
         if (!mat) return
         poplayer({
-            header: ascib + computer_.MiscText.Avatar_Table_Title_Extra[lang],
+            header: ascib + computer_.MiscText.Avatar_Table_Title_Extra[lang2],
             width: '100%',
             class: 'mat-pop',
             template: {
@@ -3373,10 +3373,10 @@ $(function () {
 
     $('body').on('click', '.ml_b', function () {
         poplayer({
-            header: computer_.MiscText.Avatar_Data_Ball[lang].replace("<color style='color:#dddddd;'>ⓘ</color> ", "") + computer_.MiscText.Avatar_Table_Title_Extra[lang],
+            header: computer_.MiscText.Avatar_Data_Ball[lang2].replace("<color style='color:#dddddd;'>ⓘ</color> ", "") + computer_.MiscText.Avatar_Table_Title_Extra[lang2],
             width: '90%',
             template: {
-                div: computer_.MiscText.Ball_TUT[lang].replace("\n", "<br>"),
+                div: computer_.MiscText.Ball_TUT[lang2].replace("\n", "<br>"),
                 style: {
                     'margin-top': '20px',
                     'line-height': '2'
@@ -3389,10 +3389,10 @@ $(function () {
 
     $('body').on('click', '.ml_e', function () {
         poplayer({
-            header: computer_.MiscText.Avatar_Data_Endure[lang].replace("<color style='color:#dddddd;'>ⓘ</color> ", "") + computer_.MiscText.Avatar_Table_Title_Extra[lang],
+            header: computer_.MiscText.Avatar_Data_Endure[lang2].replace("<color style='color:#dddddd;'>ⓘ</color> ", "") + computer_.MiscText.Avatar_Table_Title_Extra[lang2],
             width: '90%',
             template: {
-                div: computer_.MiscText.Endure_TUT[lang].replace("\n", "<br>"),
+                div: computer_.MiscText.Endure_TUT[lang2].replace("\n", "<br>"),
                 style: {
                     'margin-top': '20px',
                     'line-height': '2'
@@ -3405,10 +3405,10 @@ $(function () {
 
     $('body').on('click', '.ml_w', function () {
         poplayer({
-            header: computer_.MiscText.Avatar_Data_WindZone[lang].replace("<color style='color:#dddddd;'>ⓘ</color> ", "") + computer_.MiscText.Avatar_Table_Title_Extra[lang],
+            header: computer_.MiscText.Avatar_Data_WindZone[lang2].replace("<color style='color:#dddddd;'>ⓘ</color> ", "") + computer_.MiscText.Avatar_Table_Title_Extra[lang2],
             width: '90%',
             template: {
-                div: computer_.MiscText.Windzone_TUT[lang].replace("\n", "<br>"),
+                div: computer_.MiscText.Windzone_TUT[lang2].replace("\n", "<br>"),
                 style: {
                     'margin-top': '20px',
                     'line-height': '2'

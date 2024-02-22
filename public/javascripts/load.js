@@ -9,7 +9,7 @@ $(function () {
     $('.tls' + lang).css("color", "#df903b");
     $('h3 .title').html(computer_.MiscText.Load_Title[lang] + "<color style='font-size: 0.5em;'><br><b>" + VER_GI + "</b></color>");
     $('h3 .subtitle').html(computer_.MiscText.Subtitle[lang]);
-    $('h3 .tlsub').html(computer_.MiscText.Translate_Load[lang]);
+    $('h3 .tlsub').html(computer_.MiscText.Translate_Load[lang2]);
 
     $("body").on("click", ".tlsub", function () {
         if (lang == 'CH') $("a[data-id='EN']").click()

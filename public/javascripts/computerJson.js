@@ -2,83 +2,98 @@ var computer_ = {
     "MiscText": {
         "Chart_Subtitle": {
             "CH": "玉衡杯数据库 homdgcat.wiki",
-            "EN": "homdgcat.wiki | t.me/homdgcat"
+            "EN": "homdgcat.wiki | t.me/homdgcat",
+            "RU": "homdgcat.wiki | t.me/homdgcat"
         },
         "TITLE": {
             "CH": "玉衡杯数据库",
-            "EN": "HomDGCat Wiki"
+            "EN": "HomDGCat Wiki",
+            "RU": "HomDGCat Wiki"
         },
         "Subtitle": {
-            "CH": "<p><b>homdgcat.wiki | <span style='white-space:pre;'><a href='http://t.me/homdgcat' target='_blank'>妮可少女 HomDGCat</a></span></b></p>",
-            "EN": "<p><b>homdgcat.wiki | <span style='white-space:pre;'><a href='http://t.me/homdgcat' target='_blank'>t.me/homdgcat</a></span></b></p>"
+            "CH": "<p><b><span style='white-space:pre;'><a href='https://space.bilibili.com/3537104994831140' target='_blank'>bilibili@妮可少女</a> | <a href='http://t.me/homdgcat' target='_blank'>t.me/homdgcat</a></span></b></p>",
+            "EN": "<p><b>homdgcat.wiki | <span style='white-space:pre;'><a href='http://t.me/homdgcat' target='_blank'>t.me/homdgcat</a></span></b></p>",
+            "RU": "<p><b>homdgcat.wiki | <span style='white-space:pre;'><a href='http://t.me/homdgcat' target='_blank'>t.me/homdgcat</a></span></b></p>"
         },
         "Subtitle_": {
-            "CH": "<p><b>玉衡杯数据库 - b站@妮可少女 | t.me/homdgcat</b></p>",
-            "EN": "<p><b>HomDGCat Wiki - t.me/homdgcat</b></p>"
+            "CH": "<p><b>玉衡杯数据库 - bilibili@妮可少女 | t.me/homdgcat</b></p>",
+            "EN": "<p><b>HomDGCat Wiki - t.me/homdgcat</b></p>",
+            "RU": "<p><b>HomDGCat Wiki - t.me/homdgcat</b></p>"
         },
         "Page": {
             "CH": "<p style='margin-top:13px;color:#df903b;cursor:pointer;'><b>【切换页面】</b></p>",
             "EN": "<p style='margin-top:13px;color:#df903b;cursor:pointer;'><b>[ Pages ]</b></p>",
-        },
-        "Translate": {
-            "CH": "<p class='translate_'><b>Switch to English</b></p>",
-            "EN": "<p class='translate_'><b>切换至中文</b></p>",
+            "RU": "<p style='margin-top:13px;color:#df903b;cursor:pointer;'><b>[ На главную ]</b></p>"
         },
         "Translate_Computer": {
-            "CH": "<a class='translate_' style='color:#fff;display:block;' href='/gi/monster?lang=EN'><b>Switch to English</b></a>",
-            "EN": "<a class='translate_' style='color:#fff;display:block;' href='/gi/monster?lang=CH'><b>切换至中文</b></a>",
+            "CH": "<b>中文</b> | <a class='translate_' href='/gi/monster?lang=EN'><b>English</b></a> | <a class='translate_' href='/gi/monster?lang=RU'><b>Русский</b></a>",
+            "EN": "<a class='translate_' href='/gi/monster?lang=CH'><b>中文</b></a> | <b>English</b> | <a class='translate_' href='/gi/monster?lang=RU'><b>Русский</b></a>",
+            "RU": "<a class='translate_' href='/gi/monster?lang=CH'><b>中文</b></a> | <a class='translate_' href='/gi/monster?lang=EN'><b>English</b></a> | <b>Русский</b>"
         },
         "Translate_Abyss": {
-            "CH": "<a class='translate_' style='color:#fff;display:block;' href='/gi/abyss?lang=EN'><b>Switch to English</b></a>",
-            "EN": "<a class='translate_' style='color:#fff;display:block;' href='/gi/abyss?lang=CH'><b>切换至中文</b></a>",
+            "CH": "<b>中文</b> | <a class='translate_' href='/gi/abyss?lang=EN'><b>English</b></a> | <a class='translate_' href='/gi/abyss?lang=RU'><b>Русский</b></a>",
+            "EN": "<a class='translate_' href='/gi/abyss?lang=CH'><b>中文</b></a> | <b>English</b> | <a class='translate_' href='/gi/abyss?lang=RU'><b>Русский</b></a>",
+            "RU": "<a class='translate_' href='/gi/abyss?lang=CH'><b>中文</b></a> | <a class='translate_' href='/gi/abyss?lang=EN'><b>English</b></a> | <b>Русский</b>"
         },
         "Translate_Abyss2": {
-            "CH": "<a class='translate_' style='color:#fff;display:block;' href='/gi/abyss2?lang=EN'><b>Switch to English</b></a>",
-            "EN": "<a class='translate_' style='color:#fff;display:block;' href='/gi/abyss2?lang=CH'><b>切换至中文</b></a>",
+            "CH": "<b>中文</b> | <a class='translate_' href='/gi/abyss2?lang=EN'><b>English</b></a> | <a class='translate_' href='/gi/abyss2?lang=RU'><b>Русский</b></a>",
+            "EN": "<a class='translate_' href='/gi/abyss2?lang=CH'><b>中文</b></a> | <b>English</b> | <a class='translate_' href='/gi/abyss2?lang=RU'><b>Русский</b></a>",
+            "RU": "<a class='translate_' href='/gi/abyss2?lang=CH'><b>中文</b></a> | <a class='translate_' href='/gi/abyss2?lang=EN'><b>English</b></a> | <b>Русский</b>"
         },
         "Translate_Char": {
-            "CH": "<a class='translate_' style='color:#fff;display:block;' href='/gi/char?lang=EN'><b>Switch to English</b></a>",
-            "EN": "<a class='translate_' style='color:#fff;display:block;' href='/gi/char?lang=CH'><b>切换至中文</b></a>",
+            "CH": "<b>中文</b> | <a class='translate_' href='/gi/char?lang=EN'><b>English</b></a> | <a class='translate_' href='/gi/char?lang=RU'><b>Русский</b></a>",
+            "EN": "<a class='translate_' href='/gi/char?lang=CH'><b>中文</b></a> | <b>English</b> | <a class='translate_' href='/gi/char?lang=RU'><b>Русский</b></a>",
+            "RU": "<a class='translate_' href='/gi/char?lang=CH'><b>中文</b></a> | <a class='translate_' href='/gi/char?lang=EN'><b>English</b></a> | <b>Русский</b>"
         },
         "Translate_Shield": {
-            "CH": "<a class='translate_' style='color:#fff;display:block;' href='/gi/shield?lang=EN'><b>Switch to English</b></a>",
-            "EN": "<a class='translate_' style='color:#fff;display:block;' href='/gi/shield?lang=CH'><b>切换至中文</b></a>",
+            "CH": "<b>中文</b> | <a class='translate_' href='/gi/shield?lang=EN'><b>English</b></a> | <a class='translate_' href='/gi/shield?lang=RU'><b>Русский</b></a>",
+            "EN": "<a class='translate_' href='/gi/shield?lang=CH'><b>中文</b></a> | <b>English</b> | <a class='translate_' href='/gi/shield?lang=RU'><b>Русский</b></a>",
+            "RU": "<a class='translate_' href='/gi/shield?lang=CH'><b>中文</b></a> | <a class='translate_' href='/gi/shield?lang=EN'><b>English</b></a> | <b>Русский</b>"
         },
         "Translate_Ach": {
-            "CH": "<a class='translate_' style='color:#fff;display:block;' href='/gi/ach?lang=EN'><b>Switch to English</b></a>",
-            "EN": "<a class='translate_' style='color:#fff;display:block;' href='/gi/ach?lang=CH'><b>切换至中文</b></a>",
+            "CH": "<b>中文</b> | <a class='translate_' href='/gi/ach?lang=EN'><b>English</b></a> | <a class='translate_' href='/gi/ach?lang=RU'><b>Русский</b></a>",
+            "EN": "<a class='translate_' href='/gi/ach?lang=CH'><b>中文</b></a> | <b>English</b> | <a class='translate_' href='/gi/ach?lang=RU'><b>Русский</b></a>",
+            "RU": "<a class='translate_' href='/gi/ach?lang=CH'><b>中文</b></a> | <a class='translate_' href='/gi/ach?lang=EN'><b>English</b></a> | <b>Русский</b>"
         },
         "Translate_Load": {
-            "CH": "<a class='translate_' style='color:#fff;display:block;' href='/gi/load?lang=EN'><b>Switch to English</b></a>",
-            "EN": "<a class='translate_' style='color:#fff;display:block;' href='/gi/load?lang=CH'><b>切换至中文</b></a>",
+            "CH": "<b>中文</b> | <a class='translate_' href='/gi/load?lang=EN'><b>English</b></a> | <a class='translate_' href='/gi/load?lang=RU'><b>Русский</b></a>",
+            "EN": "<a class='translate_' href='/gi/load?lang=CH'><b>中文</b></a> | <b>English</b> | <a class='translate_' href='/gi/load?lang=RU'><b>Русский</b></a>",
+            "RU": "<a class='translate_' href='/gi/load?lang=CH'><b>中文</b></a> | <a class='translate_' href='/gi/load?lang=EN'><b>English</b></a> | <b>Русский</b>"
         },
         "Abyss_Reminder": {
             "CH": "<color style='color:#0066FF;'>玉衡杯数据库 abyss.wiki</color>",
-            "EN": "<color style='color:#0066FF;'>homdgcat.wiki | t.me/homdgcat</color>"
+            "EN": "<color style='color:#0066FF;'>homdgcat.wiki | t.me/homdgcat</color>",
+            "RU": "<color style='color:#0066FF;'>homdgcat.wiki | t.me/homdgcat</color>"
         },
         "Abyss_Reminder2": {
             "CH": "<color style='color:#0066FF;'>玉衡杯数据库 abyss.wiki</color> <color style='color:#FF0000;'>⚠</color> <b>玩家自创阵容</b>",
-            "EN": "<color style='color:#0066FF;'>homdgcat.wiki | t.me/homdgcat</color> <color style='color:#FF0000;'>⚠</color> <b>Fan-Made Lineup</b>"
+            "EN": "<color style='color:#0066FF;'>homdgcat.wiki | t.me/homdgcat</color> <color style='color:#FF0000;'>⚠</color> <b>Fan-Made Lineup</b>",
+            "RU": "<color style='color:#0066FF;'>homdgcat.wiki | t.me/homdgcat</color> <color style='color:#FF0000;'>⚠</color> <b>Fan-Made Lineup</b>"
         },
         "Abyss_DPS_Show": {
             "CH": "输出量：",
-            "EN": "Required DMG: "
+            "EN": "Required DMG: ",
+            "RU": "Требуемый урон: "
         },
         "Computer_Show": {
             "CH": "玉衡杯数据库 mons.wiki",
-            "EN": "homdgcat.wiki | t.me/homdgcat"
+            "EN": "homdgcat.wiki | t.me/homdgcat",
+            "RU": "homdgcat.wiki | t.me/homdgcat"
         },
         "Abyss_Show": {
             "CH": "玉衡杯数据库 abyss.wiki",
-            "EN": "homdgcat.wiki | t.me/homdgcat"
+            "EN": "homdgcat.wiki | t.me/homdgcat",
+            "RU": "homdgcat.wiki | t.me/homdgcat"
         },
         "ComputerTitle": {
             "CH": "玉衡杯数据库",
-            "EN": "HomDGCat Wiki"
+            "EN": "HomDGCat Wiki",
+            "RU": "HomDGCat Wiki"
         },
         "ComputerTitle_": {
             "CH": "渊月螺旋 ",
-            "EN": "Spiral Abyss "
+            "EN": "Spiral Abyss ",
+            "RU": "Витая Бездна "
         },
         "ChooseTitle": {
             "CH": "",
@@ -86,964 +101,1172 @@ var computer_ = {
         },
         "Computer_Button_Calculate": {
             "CH": "计算",
-            "EN": "Calculate"
+            "EN": "Calculate",
+            "RU": "Рассчитать"
         },
         "Computer_Select_Overworld": {
             "CH": "大世界",
-            "EN": "Overworld"
+            "EN": "Overworld",
+            "RU": "Мир"
         },
         "Computer_Select_Abyss": {
             "CH": "深渊",
-            "EN": "Abyss"
+            "EN": "Abyss",
+            "RU": "Бездна"
         },
         "Computer_Download": {
             "CH": "下载怪物血量大全",
-            "EN": "All Enemy HP Table"
+            "EN": "All Enemy HP Table",
+            "RU": "ХП всех противников"
         },
         "Computer_Input_OverworldPlaceholder": {
             "CH": "请输入等级：1~200",
-            "EN": "Enter enemy level (1~200)"
+            "EN": "Enter enemy level (1~200)",
+            "RU": "Введите уровень врага (1~200)"
         },
         "Computer_Input_AbyssPlaceholder": {
             "CH": "请输入层间，例如11-2",
-            "EN": "Enter floor and chamber (e.g. 11-2)"
+            "EN": "Enter floor and chamber (e.g. 11-2)",
+            "RU": "Введите этаж и камеру (e.g. 11-2)"
         },
         "Computer_Input_Placeholder": {
             "CH": "例：87、95、12-3、9-1",
-            "EN": "E.g. 87, 95, 12-3, 9-1"
+            "EN": "E.g. 87, 95, 12-3, 9-1",
+            "RU": "E.g. 87, 95, 12-3, 9-1"
         },
         "Computer_Warning_OverworldInputIllegal": {
             "CH": "等级应在1~200之间",
-            "EN": "Level must be between 1 and 200"
+            "EN": "Level must be between 1 and 200",
+            "RU": "Уровень должен быть между 1 и 200."
         },
         "Computer_Warning_AbyssInputIllegal": {
             "CH": "输入不符合要求",
-            "EN": "Input format incorrect"
+            "EN": "Input format incorrect",
+            "RU": "Неправильный формат ввода"
         },
         "Computer_Warning_NotSelectedMonster": {
             "CH": "未选择怪物",
-            "EN": "No enemy selected"
+            "EN": "No enemy selected",
+            "RU": "Враг не выбран"
         },
         "Computer_Result_RESBaseTitle": {
             "CH": "常态抗性",
-            "EN": "Regular RES"
+            "EN": "Regular RES",
+            "RU": "Сопротивление"
         },
         "Computer_Result_Immune": {
             "CH": "免疫",
-            "EN": "Immune"
+            "EN": "Immune",
+            "RU": "Иммунитет"
         },
         "Computer_ScaleHP_Text": {
             "CH": "减抗 (%)：",
-            "EN": "RES Reduction %: "
+            "EN": "RES Reduction %: ",
+            "RU": "Снижение Сопротивления %: "
         },
         "Computer_ScaleHP_Button1": {
             "CH": "计算等效血量",
-            "EN": "Scaled HP"
+            "EN": "Scaled HP",
+            "RU": "Масштабирование ХП"
         },
         "Computer_ScaleHP_Button2": {
             "CH": "重置",
-            "EN": "Reset"
+            "EN": "Reset",
+            "RU": "Сбросить"
         },
         "Computer_ScaleHP_TutorialTitle": {
-            "CH": "抗性和等效血量 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>b站@妮可少女</color>",
-            "EN": "RES and Scaled HP | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
+            "CH": "抗性和等效血量 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "EN": "RES and Scaled HP | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
+            "RU": "Сопротивление и масштабирование ХП | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
         "Computer_ScaleHP_Tutorial": {
             "CH": "等效血量是考虑抗性的作用后，计算出的血量。敌方标准抗性是 10%，此时等效血量等于原血量。<br><br>例如，某个敌人的抗性为 70%，根据<b>抗性公式</b>可知打出的伤害变为原本（即抗性为 10%）的三分之一，因此等效血量是原血量的 3 倍。<br><br>对敌方施加减抗技能后，敌方的抗性改变了，因此等效血量也会改变。<br><br>抗性公式：<br>- 抗性 ≤ 0%：伤害系数 = 1 - 抗性/2<br>- 0% ≤ 抗性 ≤ 75%：伤害系数 = 1 - 抗性<br>- 抗性 ≥ 75%：伤害系数 = 1 / (抗性x4 + 1)",
-            "EN": "Scaled HP is the HP value that takes into account the enemy's RES. The standard RES is 10%.<br><br>For example, if an enemy's RES is 70%, then the DMG it takes will become a third of the DMG it would take if it had the standard 10% RES. Therefore, its Scaled HP is 3 times its original HP.<br><br>If a RES reduction skill is used on the enemy, its RES will change, and so its Scaled HP will also change.<br><br>RES DMG Formula:<br>- RES ≤ 0%: Coefficient = 1 - RES/2<br>- 0% ≤ RES ≤ 75%: Coefficient = 1 - RES<br>- RES ≥ 75%: Coefficient = 1 / (RES*4 + 1)"
+            "EN": "Scaled HP is the HP value that takes into account the enemy's RES. The standard RES is 10%.<br><br>For example, if an enemy's RES is 70%, then the DMG it takes will become a third of the DMG it would take if it had the standard 10% RES. Therefore, its Scaled HP is 3 times its original HP.<br><br>If a RES reduction skill is used on the enemy, its RES will change, and so its Scaled HP will also change.<br><br>RES DMG Formula:<br>- RES ≤ 0%: Coefficient = 1 - RES/2<br>- 0% ≤ RES ≤ 75%: Coefficient = 1 - RES<br>- RES ≥ 75%: Coefficient = 1 / (RES*4 + 1)",
+            "RU": "Масштабирование ХП - это значение ХП, учитывающие сопротивление противника. По умолчанию сопротивление составляет 10%.<br><br>Например, если сопротивление врага составляет 70%, то получаемый им урон составляет лишь треть от того урона, который он получил бы, будь у него 10% сопротивления. Следовательно, его масштабируемое ХП в 3 раза превышает исходное.<br><br>Если на противника используется навык снижающий сопротивление, то его масштабируемое ХП также изменится.<br><br>Формула сопротивления:<br>- Сопротивление ≤ 0%: Коэффициент = 1 - Сопротивление/2<br>- 0% ≤ Сопротивление ≤ 75%: Коэффициент = 1 - Коэффициент<br>- RES ≥ 75%: Коэффициент = 1 / (Сопротивление*4 + 1)"
         },
         "Computer_Result_BallTitle": {
             "CH": "产球数据",
-            "EN": "Particle Gen"
+            "EN": "Particle Gen",
+            "RU": "Генерация частиц"
         },
         "Computer_Result_WeightEndureTitle": {
             "CH": "重量韧性",
-            "EN": "Weight & Poise"
+            "EN": "Weight & Poise",
+            "RU": "Вес и Стойкость"
         },
         "Computer_Result_Weight": {
             "CH": "重量：",
-            "EN": "Weight: "
+            "EN": "Weight: ",
+            "RU": "Вес"
         },
         "Computer_Result_Endure": {
             "CH": "韧性：",
-            "EN": "Poise: "
+            "EN": "Poise: ",
+            "RU": "Стойкость"
         },
         "Computer_Result_EndureRecover": {
             "CH": "韧性每秒恢复：",
-            "EN": "Recover SPD: "
+            "EN": "Recover SPD: ",
+            "RU": "Восст. стойкости: "
         },
         "Computer_Result_EndureReset": {
             "CH": "韧性重置时间：",
-            "EN": "Reset Time: "
+            "EN": "Reset Time: ",
+            "RU": "Сброс стойкости: "
         },
         "Computer_Result_Button_BallIntro": {
             "CH": "产球能量简介",
-            "EN": "Par & Energy Intro"
+            "EN": "Par & Energy Intro",
+            "RU": "О энергии и частицах"
         },
         "Computer_Result_Button_WeightEndureIntro": {
             "CH": "韧性力学简介",
-            "EN": "Weight & Poise Intro"
+            "EN": "Weight & Poise Intro",
+            "RU": "О весе и стойкости"
         },
         "Computer_Result_Button_BallIntro2": {
-            "CH": "产球能量简介 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>b站@妮可少女</color>",
-            "EN": "Par & Energy Intro | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
+            "CH": "产球能量简介 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "EN": "Par & Energy Intro | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
+            "RU": "О энергии и частицах | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
         "Computer_Result_Button_WeightEndureIntro2": {
-            "CH": "韧性力学简介 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>b站@妮可少女</color>",
-            "EN": "Weight & Poise Intro | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
+            "CH": "韧性力学简介 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "EN": "Weight & Poise Intro | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
+            "RU": "О весе и стойкости | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
         "Computer_Result_Window_BallIntro": {
             "CH": "无属白微粒：前台角色恢复<color style='color:#FF0000;'> 2 </color>元素能量\n有属性微粒：前台同属性角色恢复<color style='color:#FF0000;'> 3 </color>，不同属性恢复<color style='color:#FF0000;'> 1 </color>\n\n如果角色在后台，恢复的能量会打折扣：\n4人队后台恢复为原本的<color style='color:#FF0000;'> 60%</color>\n3人队后台恢复为原本的<color style='color:#FF0000;'> 70%</color>\n2人队后台恢复为原本的<color style='color:#FF0000;'> 80%</color>",
-            "EN": "White Particle: On-field character gains <color style='color:#FF0000;'>2</color> Energy.\nElemental Particle: On-field character of the same element gains <color style='color:#FF0000;'>3</color> Energy, otherwise only gains <color style='color:#FF0000;'>1</color>.\n\nIf the character is off-field, they only gain a fraction of the original amount:\nOff-field characters in a team of 4 gain <color style='color:#FF0000;'>60%</color>\nOff-field characters in a team of 3 gain <color style='color:#FF0000;'>70%</color>\nOff-field characters in a team of 2 gain <color style='color:#FF0000;'>80%</color>"
+            "EN": "White Particle: On-field character gains <color style='color:#FF0000;'>2</color> Energy.\nElemental Particle: On-field character of the same element gains <color style='color:#FF0000;'>3</color> Energy, otherwise only gains <color style='color:#FF0000;'>1</color>.\n\nIf the character is off-field, they only gain a fraction of the original amount:\nOff-field characters in a team of 4 gain <color style='color:#FF0000;'>60%</color>\nOff-field characters in a team of 3 gain <color style='color:#FF0000;'>70%</color>\nOff-field characters in a team of 2 gain <color style='color:#FF0000;'>80%</color>",
+            "RU": "Неэлементальная частица: восстанавливает активному персонажу <color style='color:#FF0000;'>2 ед.</color> энергии.\nЭлементальная частица: восстанавливает активному персонажу такого же элемента <color style='color:#FF0000;'>3 ед.</color> энергии, если элемент отличается, то <color style='color:#FF0000;'>1 ед.</color>.\n\nЕсли персонаж не находится на поле боя, то он восстанавливает только часть от исходной энергии:\nПерсонаж вне поля в команде из 4 персонажей, получает <color style='color:#FF0000;'>60%</color>\nПерсонаж вне поля в команде из 3 персонажей, получает <color style='color:#FF0000;'>70%</color>\nПерсонаж вне поля в команде из 2 персонажей, получает <color style='color:#FF0000;'>80%</color>"
         },
         "Computer_Result_Window_WeightEndureIntro": {
             "CH": "<b>重量</b>\n- 怪物越重，就越难被角色的风穴技能牵引\n- 轻的怪物容易击飞，重的怪物只能击退，最重的甚至不被打动\n\n<b>韧性</b>\n- 怪物的韧性被角色攻击削空了才能被击退/击飞\n- 被削空前，怪物的韧性会自然恢复，恢复速度以1秒为单位\n- 如果韧性空了，会在几秒后（韧性重置时间）后瞬间回满，空韧期间可以击退/击飞\n- 同理，角色的韧性被怪物削空了也会被击退/击飞；近战角色韧性100，远程角色50",
-            "EN": "<b>Weight</b>\n- The heavier a monster is, the harder it is for characters' Vacuum Fields to pull it.\n- Light monsters can easily be launched into the air. Heavier monsters can only be knocked back. The heaviest monsters don't even move when struck.\n\n<b>Poise</b>\n- Monsters can only be knocked back or launched if their poise has been emptied by characters' attacks.\n- Before it is emptied, poise recovers over time. Poise Recover SPD is measured per sec. \n- After poise is emptied, it will be reset to full after a few seconds (Poise Reset Time). It is during this emptiness that monsters can be knocked or launched.\n- Characters may also be knocked or launched if their poise is emptied by monsters. Melee characters have 100 poise, ranged characters have only 50."
+            "EN": "<b>Weight</b>\n- The heavier a monster is, the harder it is for characters' Vacuum Fields to pull it.\n- Light monsters can easily be launched into the air. Heavier monsters can only be knocked back. The heaviest monsters don't even move when struck.\n\n<b>Poise</b>\n- Monsters can only be knocked back or launched if their poise has been emptied by characters' attacks.\n- Before it is emptied, poise recovers over time. Poise Recover SPD is measured per sec. \n- After poise is emptied, it will be reset to full after a few seconds (Poise Reset Time). It is during this emptiness that monsters can be knocked or launched.\n- Characters may also be knocked or launched if their poise is emptied by monsters. Melee characters have 100 poise, ranged characters have only 50.",
+            "RU": "<b>Weight</b>\n- Чем тяжелее противник, тем сложнее на него воздействовать умениям с эффектом притяжения и отбрасывания.\n- Лёгких монстров можно подбросить в воздух. Более тяжелых можно только оттолкнуть. Самые тяжелые даже не сдвинутся с места.\n\n<b>Poise</b>\n- Противника можно подбросить или оттолкнуть только в том случае, если его стойкость была исчерпана при помощи атак персонажей.\n- Если стойкость исчерпана не полностью, то она восстанавливается с течением времени. Скорость восстановления [Восст. стойкости] измеряется в единицах в секунду. \n- Если стойкость исчерпана полностью, то она будет полностью восстановлена через определенный промежуток времени [Сброс стойкости]. Именно в период потери стойкости противника можно оттолкнуть или подбросить\n- Персонажа тоже можно оттолкнуть и подбросить, если противник опустошил его стойкость. Персонажи ближнего боя имеют 100 ед. стойкости, а дальнего боя всего-лишь 50."
         },
         "Computer_Result_Button_Tutorial": {
             "CH": "机制解析",
-            "EN": "Monster Mechanics"
+            "EN": "Monster Mechanics",
+            "RU": "Механики противника"
         },
         "Computer_Result_Button_SkillDMG": {
             "CH": "技能伤害",
-            "EN": "Skill DMG"
+            "EN": "Skill DMG",
+            "RU": "Урон умений"
         },
         "Computer_Result_Button_SkillData": {
             "CH": "招式信息",
-            "EN": "Skill Data"
+            "EN": "Skill Data",
+            "RU": "Описание умений"
         },
         "Computer_Result_Button_Loot": {
             "CH": "材料掉率",
-            "EN": "Loot Drop Rate"
+            "EN": "Loot Drop Rate",
+            "RU": "Шанс выпадения"
         },
         "Computer_Result_Button_Element": {
             "CH": "自带附着",
-            "EN": "Innate Element"
+            "EN": "Innate Element",
+            "RU": "Врожденный элемент"
         },
         "Computer_Result_Button_Tutorial2": {
-            "CH": "机制解析 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>b站@妮可少女</color>",
-            "EN": "Monster Mechanics | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
+            "CH": "机制解析 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "EN": "Monster Mechanics | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
+            "RU": "Механики противника | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
         "Computer_Result_Button_SkillDMG2": {
-            "CH": "技能伤害 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>b站@妮可少女</color>",
-            "EN": "Skill DMG | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
+            "CH": "技能伤害 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "EN": "Skill DMG | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
+            "RU": "Урон умений | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
         "Computer_Result_Button_SkillData2": {
-            "CH": "招式信息 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>b站@妮可少女</color>",
-            "EN": "Skill Data | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
+            "CH": "招式信息 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "EN": "Skill Data | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
+            "RU": "Описание умений | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
         "Computer_Result_Button_Loot2": {
-            "CH": "材料掉率 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>b站@妮可少女</color>",
-            "EN": "Loot Drop Rate | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
+            "CH": "材料掉率 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "EN": "Loot Drop Rate | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
+            "RU": "Шанс выпадения | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
         "Computer_Result_Button_Element2": {
-            "CH": "自带附着 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>b站@妮可少女</color>",
-            "EN": "Innate Element | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
+            "CH": "自带附着 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "EN": "Innate Element | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
+            "RU": "Врожденный элемент | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
         "Computer_Result_Element_Type": {
             "CH": "自带元素：",
-            "EN": "Innate Element: "
+            "EN": "Innate Element: ",
+            "RU": "Врожденный элемент: "
         },
         "Computer_Result_Element_Value": {
             "CH": "自带元素量：",
-            "EN": "Innate Element GU: "
+            "EN": "Innate Element GU: ",
+            "RU": "Врожденный элемент GU: "
         },
         "Computer_Result_Element_Immutable": {
             "CH": "自带元素量不可被反应消耗，永久不变",
-            "EN": "Innate GU cannot be cost by reactions, is fixed permanently."
+            "EN": "Innate GU cannot be cost by reactions, is fixed permanently.",
+            "RU": "Врожденный GU не может быть снят реакциями, это фиксированный статус."
         },
         "Computer_SkillDMG_NameColumnTitle": {
             "CH": "技能",
-            "EN": "Skill"
+            "EN": "Skill",
+            "RU": "Умение"
         },
         "Computer_SkillDMG_DMGColumnTitle": {
             "CH": "倍率",
-            "EN": "Multiplier"
+            "EN": "Multiplier",
+            "RU": "Множитель"
         },
         "Computer_SkillDMG_CalculateColumnTitle": {
             "CH": "伤害",
-            "EN": "DMG"
+            "EN": "DMG",
+            "RU": "Урон"
         },
         "Computer_SkillDMG_MonsterLevel": {
             "CH": "怪物等级/深渊层间 ",
-            "EN": "Monster Level / Abyss Chamber "
+            "EN": "Monster Level / Abyss Chamber ",
+            "RU": "Уровень врага / Зал Бездны "
         },
         "Computer_SkillDMG_AvatarDEF": {
             "CH": "角色防御 ",
-            "EN": "Chracter DEF "
+            "EN": "Chracter DEF ",
+            "RU": "Защита персонажа "
         },
         "Computer_SkillDMG_Title": {
-            "CH": "怪物伤害计算器 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>b站@妮可少女</color>",
-            "EN": "Monster DMG Calculator | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
+            "CH": "怪物伤害计算器 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "EN": "Monster DMG Calculator | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
+            "RU": "Калькулятор урона противника | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
         "Computer_SkillDMG_Input_AvatarDEFPlaceholder": {
             "CH": "请输入整数",
-            "EN": "Enter an integer"
+            "EN": "Enter an integer",
+            "RU": "Введите значение"
         },
         "Computer_SkillDMG_Input_MonsterLevelPlaceholder": {
             "CH": "例：87、95、12-3、9-1",
-            "EN": "E.g. 87, 95, 12-3, 9-1"
+            "EN": "E.g. 87, 95, 12-3, 9-1",
+            "RU": "E.g. 87, 95, 12-3, 9-1"
         },
         "Computer_SkillDMG_Warning_MonsterLevelInputIllegal": {
             "CH": "等级应在1~200之间",
-            "EN": "Level must be between 1 and 200"
+            "EN": "Level must be between 1 and 200",
+            "RU": "Уровень должен быть между 1 и 200."
         },
         "Computer_SkillDMG_Button_Calculate": {
             "CH": "计算怪物伤害",
-            "EN": "Calculate DMG"
-        },
-        "CD": {
-            "CH": "操作太快了，休息[0]秒吧！",
-            "EN": "Requests too frequent! Please wait [0] seconds."
+            "EN": "Calculate DMG",
+            "RU": "Рассчитать урон"
         },
         "AbyssTitle": {
             "CH": "玉衡杯数据库",
-            "EN": "HomDGCat Wiki"
+            "EN": "HomDGCat Wiki",
+            "RU": "HomDGCat Wiki"
         },
         "Abyss_Select": [
             {
                 "CH": "数据分析",
-                "EN": "Data Analytics"
+                "EN": "Data Analytics",
+                "RU": "Аналитика данных"
             },
             {
                 "CH": "渊月祝福",
-                "EN": "Blessings"
-            },
+                "EN": "Blessings",
+                "RU": "Благословения"
+            }
         ],
         "Abyss_Floor": [
             {
                 "CH": "第9层",
-                "EN": "Floor 9"
+                "EN": "Floor 9",
+                "RU": "Этаж 9"
             },
             {
                 "CH": "第10层",
-                "EN": "Floor 10"
+                "EN": "Floor 10",
+                "RU": "Этаж 10"
             },
             {
                 "CH": "第11层",
-                "EN": "Floor 11"
+                "EN": "Floor 11",
+                "RU": "Этаж 11"
             },
             {
                 "CH": "第12层",
-                "EN": "Floor 12"
+                "EN": "Floor 12",
+                "RU": "Этаж 12"
             },
             {
                 "CH": "第13层",
-                "EN": "Floor 13"
+                "EN": "Floor 13",
+                "RU": "Этаж 13"
             },
             {
                 "CH": "第14层",
-                "EN": "Floor 14"
+                "EN": "Floor 14",
+                "RU": "Этаж 14"
             }
         ],
         "Abyss_Chamber_Button_Buff": {
             "CH": "深秘降福",
-            "EN": "Buffs"
+            "EN": "Buffs",
+            "RU": "Усиления"
         },
         "Abyss_Chamber_Button_Cond": {
             "CH": "通关目标",
-            "EN": "Goals"
+            "EN": "Goals",
+            "RU": "Условия"
         },
         "Abyss_MonsterHover_Reminder": {
             "CH": "点击前往详情",
-            "EN": "Click for details"
+            "EN": "Click for details",
+            "RU": "Нажми для деталей"
         },
         "Abyss_Button_Download": {
             "CH": "下载一图流",
-            "EN": "Download Table"
+            "EN": "Download Table",
+            "RU": "Скачать таблицу"
         },
         "Avatar_Title": {
             "CH": "玉衡杯数据库",
-            "EN": "HomDGCat Wiki"
+            "EN": "HomDGCat Wiki",
+            "RU": "HomDGCat Wiki"
         },
         "Avatar_Table_Header": [
             {
                 "CH": "版本",
-                "EN": "Ver"
+                "EN": "Ver",
+                "RU": "Ver"
             },
             {
                 "CH": "头像",
-                "EN": "Icon"
+                "EN": "Icon",
+                "RU": "Icon"
             },
             {
                 "CH": "名字",
-                "EN": "Name"
+                "EN": "Name",
+                "RU": "Name"
             },
             {
                 "CH": "称号",
-                "EN": "Title"
+                "EN": "Title",
+                "RU": "Title"
             },
             {
                 "CH": "星级",
-                "EN": "Rarity"
+                "EN": "Rarity",
+                "RU": "Rarity"
             },
             {
                 "CH": "",
-                "EN": ""
+                "EN": "",
+                "RU": ""
             },
             {
                 "CH": "",
-                "EN": ""
+                "EN": "",
+                "RU": ""
             },
             {
                 "CH": "生命值",
-                "EN": "HP"
+                "EN": "HP",
+                "RU": "HP"
             },
             {
                 "CH": "攻击力",
-                "EN": "ATK"
+                "EN": "ATK",
+                "RU": "ATK"
             },
             {
                 "CH": "防御力",
-                "EN": "DEF"
+                "EN": "DEF",
+                "RU": "DEF"
             },
             {
                 "CH": "模 ⓘ",
-                "EN": "Norm ⓘ"
+                "EN": "Norm ⓘ",
+                "RU": "Norm ⓘ"
             },
             {
                 "CH": "突破",
-                "EN": "Ascension Stat"
+                "EN": "Ascension Stat",
+                "RU": "Ascension Stat"
             }
         ],
         "Abyss_UI": [
             {
                 "CH": "更多信息",
-                "EN": "More Info"
+                "EN": "More Info",
+                "RU": "Больше информации"
             },
             {
                 "CH": "更少信息",
-                "EN": "Less Info"
-            },
+                "EN": "Less Info",
+                "RU": "Меньше информации"
+            }
         ],
         "Abyss_Pos" : {
             "CH": "<color style='color:#FF0000'>敌方站位</color>",
             "EN": "<color style='color:#FF0000'>Enemy Positions</color>",
+            "RU": "<color style='color:#FF0000'>Позиции врагов</color>"
         },
         "Avatar_Table_Title_Extra": {
-            "CH": " | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>char.wiki</color> | <color style='color:#0066FF;'>b站@妮可少女</color>",
-            "EN": " | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.char.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
+            "CH": " | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>char.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "EN": " | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.char.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
+            "RU": " | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.char.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
         "Avatar_Info_Select": [
             {
                 "CH": "基本信息",
-                "EN": "Basic Info"
+                "EN": "Basic Info",
+                "RU": "Общая информация"
             },
             {
                 "CH": "战斗技能",
-                "EN": "Battle Skills"
+                "EN": "Battle Skills",
+                "RU": "Боевые умения"
             },
             {
                 "CH": "被动技能",
-                "EN": "Passive Skills"
+                "EN": "Passive Skills",
+                "RU": "Пассивные умения"
             },
             {
                 "CH": "命之座",
-                "EN": "Constellations"
+                "EN": "Constellations",
+                "RU": "Созвездия"
             },
             {
                 "CH": "伤害信息",
-                "EN": "Damage Data"
+                "EN": "Damage Data",
+                "RU": "Данные об уроне"
             },
             {
                 "CH": "深度信息",
-                "EN": "In-Depth Data"
+                "EN": "In-Depth Data",
+                "RU": "Подробные данные"
             },
             {
                 "CH": "妮可少女的研究",
-                "EN": "HomDGCat's Notes"
+                "EN": "HomDGCat's Notes",
+                "RU": "Заметки HomDGCat"
             },
             {
                 "CH": "尘歌壶对话",
-                "EN": "Teapot Talks"
+                "EN": "Teapot Talks",
+                "RU": "Диалоги в чайнике"
             },
             {
                 "CH": "故事",
-                "EN": "Stories"
+                "EN": "Stories",
+                "RU": "Истории"
             },
             {
                 "CH": "语音",
-                "EN": "Voicelines"
-            },
+                "EN": "Voicelines",
+                "RU": "Цитаты"
+    
+            }
         ],
         "Avatar_Attack_Header": [
             {
                 "CH": "技能",
-                "EN": "Skill"
+                "EN": "Skill",
+                "RU": "Умение"
             },
             {
                 "CH": "范围",
-                "EN": "AOE"
+                "EN": "AOE",
+                "RU": "AoE"
             },
             {
                 "CH": "大小",
-                "EN": "Size"
+                "EN": "Size",
+                "RU": "Размер"
             },
             {
                 "CH": "伤害类型",
-                "EN": "DMG Type"
+                "EN": "DMG Type",
+                "RU": "Тип урона"
             },
             {
                 "CH": "元素",
-                "EN": "Elem"
+                "EN": "Elem",
+                "RU": "Элем"
             },
             {
                 "CH": "元素量",
-                "EN": "GU"
+                "EN": "GU",
+                "RU": "GU"
             },
             {
                 "CH": "附着组别",
-                "EN": "ICD Group"
+                "EN": "ICD Group",
+                "RU": "Группа ICD"
             },
             {
                 "CH": "附着CD",
-                "EN": "ICD"
+                "EN": "ICD",
+                "RU": "ICD"
             },
             {
                 "CH": "钝击",
-                "EN": "Blunt"
+                "EN": "Blunt",
+                "RU": "Blunt"
             },
             {
                 "CH": "削韧",
-                "EN": "Poise DMG"
+                "EN": "Poise DMG",
+                "RU": "Poise DMG"
             },
             {
                 "CH": "冲击",
-                "EN": "Hit Type"
+                "EN": "Hit Type",
+                "RU": "Hit Type"
             },
             {
                 "CH": "冲击力",
-                "EN": "Hit Force"
+                "EN": "Hit Force",
+                "RU": "Hit Force"
             },
             {
                 "CH": "始基力",
-                "EN": "Arkhe"
+                "EN": "Arkhe",
+                "RU": "Архэ"
             },
             {
                 "CH": "卡肉停滞时间",
-                "EN": "Hitlag Time"
+                "EN": "Hitlag Time",
+                "RU": "Hitlag Time"
             },
             {
                 "CH": "停滞时间流速",
-                "EN": "Hitlag Time Scale"
+                "EN": "Hitlag Time Scale",
+                "RU": "Hitlag Time Scale"
             },
             {
                 "CH": "韧性影响停滞",
-                "EN": "Poise Affect Hitlag"
+                "EN": "Poise Affect Hitlag",
+                "RU": "Poise Affect Hitlag"
             },
             {
                 "CH": "可被附魔",
-                "EN": "Infusable"
+                "EN": "Infusable",
+                "RU": "Infusable"
             },
             {
                 "CH": "击打类型",
-                "EN": "Strike Type"
+                "EN": "Strike Type",
+                "RU": "Strike Type"
             },
             {
                 "CH": "攻击类型",
-                "EN": "Attack Type"
+                "EN": "Attack Type",
+                "RU": "Attack Type"
             }
         ],
         "Avatar_Data_Ball": {
             "CH": "<color style='color:#dddddd;'>ⓘ</color> 元素微粒",
-            "EN": "<color style='color:#dddddd;'>ⓘ</color> Particle Generation"
+            "EN": "<color style='color:#dddddd;'>ⓘ</color> Particle Generation",
+            "RU": "<color style='color:#dddddd;'>ⓘ</color> Генерация частиц"
         },
         "Avatar_Data_Endure": {
             "CH": "<color style='color:#dddddd;'>ⓘ</color> 技能抗打断",
-            "EN": "<color style='color:#dddddd;'>ⓘ</color> Interruption Resistance"
+            "EN": "<color style='color:#dddddd;'>ⓘ</color> Interruption Resistance",
+            "RU": "<color style='color:#dddddd;'>ⓘ</color> Сопротивление прерыванию"
         },
         "Avatar_Data_WindZone": {
             "CH": "<color style='color:#dddddd;'>ⓘ</color> 技能风场",
-            "EN": "<color style='color:#dddddd;'>ⓘ</color> Vacuum Vortex"
+            "EN": "<color style='color:#dddddd;'>ⓘ</color> Vacuum Vortex",
+            "RU": "<color style='color:#dddddd;'>ⓘ</color> Сила притяжения"
         },
         "Avatar_Data_Other": {
             "CH": "妮可少女的研究",
-            "EN": "HomDGCat's Notes"
+            "EN": "HomDGCat's Notes",
+            "RU": "Заметки HomDGCat"
         },
         "Avatar_WindZone_Header": [
             {
                 "CH": "技能",
-                "EN": "Skill"
+                "EN": "Skill",
+                "RU": "Умение"
             },
             {
                 "CH": "目标",
-                "EN": "Target"
+                "EN": "Target",
+                "RU": "Противник"
             },
             {
                 "CH": "距离范围 (m)",
-                "EN": "Range (m)"
+                "EN": "Range (m)",
+                "RU": "Дальносить (м)"
             },
             {
                 "CH": "风强",
-                "EN": "Strength"
+                "EN": "Strength",
+                "RU": "Сила"
             },
             {
                 "CH": "衰减",
-                "EN": "Attenuation"
+                "EN": "Attenuation",
+                "RU": "Затухание"
             },
             {
                 "CH": "持续时间",
-                "EN": "Duration"
+                "EN": "Duration",
+                "RU": "Длительность"
             },
             {
                 "CH": "边缘最强",
-                "EN": "BS"
+                "EN": "BS",
+                "RU": "BS"
             }
         ],
         "Avatar_BasicInfo_Info": {
             "CH": "角色信息",
-            "EN": "Character Info"
+            "EN": "Character Info",
+            "RU": "О персонаже"
         },
         "Avatar_BasicInfo_Battle": {
             "CH": "韧性",
-            "EN": "Poise"
+            "EN": "Poise",
+            "RU": "Стойкость"
         },
         "Avatar_BasicInfo_1_1": {
             "CH": "命之座：",
-            "EN": "Constellation: "
+            "EN": "Constellation: ",
+            "RU": "Созвездие: "
         },
         "Avatar_BasicInfo_1_2": {
             "CH": "生日：",
-            "EN": "Birthday: "
+            "EN": "Birthday: ",
+            "RU": "День рождения: "
         },
         "Avatar_BasicInfo_1_3_0": {
             "CH": "国家：",
-            "EN": "Nation: "
+            "EN": "Nation: ",
+            "RU": "Регион: "
         },
         "Avatar_BasicInfo_1_3": {
             "CH": "所属：",
-            "EN": "Affil­i­a­tion: "
+            "EN": "Affil­i­a­tion: ",
+            "RU": "Группа: "
         },
         "Avatar_BasicInfo_2_1": {
             "CH": "中文CV：",
-            "EN": "Chinese CV: "
+            "EN": "Chinese CV: ",
+            "RU": "Озвучка CHS: "
+    
         },
         "Avatar_BasicInfo_2_2": {
             "CH": "日语CV：",
-            "EN": "Japanese CV: "
+            "EN": "Japanese CV: ",
+            "RU": "Озвучка JP: "
         },
         "Avatar_BasicInfo_2_3": {
             "CH": "英语CV：",
-            "EN": "English CV: "
+            "EN": "English CV: ",
+            "RU": "Озвучка EN: "
         },
         "Avatar_BasicInfo_2_4": {
             "CH": "韩语CV：",
-            "EN": "Korean CV: "
+            "EN": "Korean CV: ",
+            "RU": "Озвучка KR: "
         },
         "Avatar_BasicInfo_Poise_1": {
             "CH": "韧性类型：",
-            "EN": "Poise Type: "
+            "EN": "Poise Type: ",
+            "RU": "Тип стойкости: "
         },
         "Avatar_BasicInfo_Poise_2": {
             "CH": "总韧性：",
-            "EN": "Total Poise: "
+            "EN": "Total Poise: ",
+            "RU": "Кол-во стойкости: "
         },
         "Avatar_BasicInfo_Poise_3": {
             "CH": "韧性每秒恢复：",
-            "EN": "Poise Recover Per Sec: "
+            "EN": "Poise Recover Per Sec: ",
+            "RU": "Восст. стойкости в сек: "
         },
         "Avatar_BasicInfo_Poise_4": {
             "CH": "韧性重置时间：",
-            "EN": "Poise Recover Time: "
+            "EN": "Poise Recover Time: ",
+            "RU": "Время сброса стойкости: "
         },
         "Avatar_Stats": {
             "CH": "角色数值",
-            "EN": "Character Stats"
+            "EN": "Character Stats",
+            "RU": "Характеристики"
         },
         "Avatar_Stat_HP": {
             "CH": "基础生命值：",
-            "EN": "Base HP: "
+            "EN": "Base HP: ",
+            "RU": "Базовое HP: "
         },
         "Avatar_Stat_ATK": {
             "CH": "基础攻击力：",
-            "EN": "Base ATK: "
+            "EN": "Base ATK: ",
+            "RU": "Базовая атака: "
         },
         "Avatar_Stat_DEF": {
             "CH": "基础防御力：",
-            "EN": "Base DEF: "
+            "EN": "Base DEF: ",
+            "RU": "Базовая защита: "
         },
         "Avatar_IsPromote": [
             {
                 "CH": "已突破",
-                "EN": "After Ascension"
+                "EN": "After Ascension",
+                "RU": "После возвышения"
             },
             {
                 "CH": "未突破",
-                "EN": "Before Ascension"
+                "EN": "Before Ascension",
+                "RU": "До возвышения"
             }
         ],
         "Avatar_Battle_Stat": [
             {
                 "CH": "显示数值",
-                "EN": "Show Stats"
+                "EN": "Show Stats",
+                "RU": "Show Stats"
             },
             {
                 "CH": "隐藏数值",
-                "EN": "Hide Stats"
+                "EN": "Hide Stats",
+                "RU": "Hide Stats"
             }
         ],
         "Avatar_ExtraParamName_Charge": {
             "CH": "可使用次数",
-            "EN": "Charges"
+            "EN": "Charges",
+            "RU": "Charges"
         },
         "Avatar_ExtraParamName_Lock": {
             "CH": "索敌距离",
-            "EN": "Lock Target Distance"
+            "EN": "Lock Target Distance",
+            "RU": "Lock Target Distance"
         },
         "Avatar_Mat": {
             "CH": "材料",
-            "EN": "Materials"
+            "EN": "Materials",
+            "RU": "Материалы"
         },
         "Avatar_Mons": {
             "CH": "<b>普通怪物</b>",
-            "EN": "<b>Common Monster</b>"
+            "EN": "<b>Common Monster</b>",
+            "RU": "<b>Обычный монстр</b>"
         },
         "Avatar_Costume": {
             "CH": "衣装",
-            "EN": "Costume"
+            "EN": "Costume",
+            "RU": "Костюм"
         },
         "Avatar_Costume_Story": {
             "CH": "故事",
-            "EN": "Story"
+            "EN": "Story",
+            "RU": "Описание"
         },
         "Avatar_Relic": {
             "CH": "圣遗物",
-            "EN": "Artifacts"
+            "EN": "Artifacts",
+            "RU": "Артефакты"
         },
         "Avatar_Weapon": [
             {
                 "CH": "单手剑",
-                "EN": "Sword"
+                "EN": "Sword",
+                "RU": "Меч"
             },
             {
                 "CH": "双手剑",
-                "EN": "Claymore"
+                "EN": "Claymore",
+                "RU": "Двуручный меч"
             },
             {
                 "CH": "法器",
-                "EN": "Catalyst"
+                "EN": "Catalyst",
+                "RU": "Катализатор"
             },
             {
                 "CH": "长柄武器",
-                "EN": "Polearm"
+                "EN": "Polearm",
+                "RU": "Копьё"
             },
             {
                 "CH": "弓",
-                "EN": "Bow"
+                "EN": "Bow",
+                "RU": "Лук"
             }
         ],
         "Avatar_Relic_Header": [
             {
                 "CH": "名称",
-                "EN": "Name"
+                "EN": "Name",
+                "RU": "Набор"
             },
             {
                 "CH": "生之花",
-                "EN": "Flower"
+                "EN": "Flower",
+                "RU": "Цветок"
             },
             {
                 "CH": "死之羽",
-                "EN": "Plume"
+                "EN": "Plume",
+                "RU": "Перо"
             },
             {
                 "CH": "时之沙",
-                "EN": "Sands"
+                "EN": "Sands",
+                "RU": "Часы"
             },
             {
                 "CH": "空之杯",
-                "EN": "Goblet"
+                "EN": "Goblet",
+                "RU": "Кубок"
             },
             {
                 "CH": "理之冠",
-                "EN": "Circlet"
-            },
+                "EN": "Circlet",
+                "RU": "Корона"
+            }
         ],
         "Avatar_Relic_Pop_Header": [
             {
                 "CH": "基本信息",
-                "EN": "Basic Info"
+                "EN": "Basic Info",
+                "RU": "Общая информация"
             },
             {
                 "CH": "生之花",
-                "EN": "Flower"
+                "EN": "Flower",
+                "RU": "Цветок"
             },
             {
                 "CH": "死之羽",
-                "EN": "Plume"
+                "EN": "Plume",
+                "RU": "Перо"
             },
             {
                 "CH": "时之沙",
-                "EN": "Sands"
+                "EN": "Sands",
+                "RU": "Часы"
             },
             {
                 "CH": "空之杯",
-                "EN": "Goblet"
+                "EN": "Goblet",
+                "RU": "Кубок"
             },
             {
                 "CH": "理之冠",
-                "EN": "Circlet"
-            },
+                "EN": "Circlet",
+                "RU": "Корона"
+            }
         ],
         "Avatar_Relic_Num": {
             "CH": " 件套效果",
-            "EN": " Piece Skill"
+            "EN": " Piece Skill",
+            "RU": "Части"
         },
         "Avatar_Weapon_Header": [
             {
                 "CH": "",
-                "EN": ""
+                "EN": "",
+                "RU": "",
             },
             {
                 "CH": "",
-                "EN": ""
+                "EN": "",
+                "RU": ""
             },
             {
                 "CH": "名称",
-                "EN": "Name"
+                "EN": "Name",
+                "RU": "Name"
             },
             {
                 "CH": "基础数值",
-                "EN": "Base Stat"
+                "EN": "Base Stat",
+                "RU": "Base Stat"
             },
             {
                 "CH": "突破数值",
-                "EN": "Ascension Stat"
+                "EN": "Ascension Stat",
+                "RU": "Ascension Stat"
             },
             {
                 "CH": "突破材料",
-                "EN": "Materials"
+                "EN": "Materials",
+                "RU": "Materials"
             },
             {
                 "CH": "突破材料",
-                "EN": "Materials"
-            },
+                "EN": "Materials",
+                "RU": "Materials"
+            }
         ],
         "Avatar_Weapon_Desc": {
             "CH": "描述",
-            "EN": "Description"
+            "EN": "Description",
+            "RU": "Description"
         },
         "Avatar_AscMat": {
             "CH": "突破材料",
-            "EN": "Materials"
+            "EN": "Materials",
+            "RU": "Materials"
         },
         "Avatar_Weapon_ToggleStory": [
             {
                 "CH": "显示故事",
-                "EN": "Show Story"
+                "EN": "Show Story",
+                "RU": "Показать историю"
             },
             {
                 "CH": "隐藏故事",
-                "EN": "Hide Story"
+                "EN": "Hide Story",
+                "RU": "Скрыть историю"
             }
         ],
         "Avatar_Weapon_Story": {
             "CH": "故事",
-            "EN": "Story"
+            "EN": "Story",
+            "RU": "История"
         },
         "Avatar_Weapon_Stats": {
             "CH": "武器属性 / 材料",
-            "EN": "Weapon Stats / Materials"
+            "EN": "Weapon Stats / Materials",
+            "RU": "Характеристики / Материалы"
         },
         "Avatar_Weapon_Stat_ATK": {
             "CH": "基础攻击力：",
-            "EN": "Base ATK: "
+            "EN": "Base ATK: ",
+            "RU": "Базовая атака: "
         },
         "Avatar_Weapon_Stat_Custom": {
             "CH": "突破属性：",
-            "EN": "Ascension: "
+            "EN": "Ascension: ",
+            "RU": "Возвышение: "
         },
         "Avatar_Weapon_Extra": {
             "CH": "妮可少女的备注",
-            "EN": "HomDGCat's Notes"
+            "EN": "HomDGCat's Notes",
+            "RU": "Заметки HomDGCat"
         },
         "Avatar_Norm_Title": {
             "CH": "> 模是啥嘞？",
-            "EN": "> What is Norm?"
+            "EN": "> What is Norm?",
+            "RU": "> What is Norm?"
         },
         "Avatar_Norm_Info": {
             "CH": "<br><b>模 = 基础生命值 + 16 x 基础攻击力 + 10 x 基础防御力</b><br>同类角色的模基本相同，类别分为：<br>5★ 近战  >  4★ 近战 A  >  5★ 远程  >  4★ 近战 B > 4★ 远程。<br>有少部分角色不遵循此规律，模比常规高：珊瑚宫心海、夜兰、那维莱特。",
-            "EN": "<br><b>Norm = HP + 16 * ATK + 10 * DEF</b><br>Characters in the same category have similar norms.<br>The categories are: 5★ Melee > 4★ Melee A > 5★ Ranged > 4★ Melee B > 4★ Ranged.<br> There are a few characters who do not follow this rule, having exceptionally high norm: Kokomi, Yelan, Neuvillette."
+            "EN": "<br><b>Norm = HP + 16 * ATK + 10 * DEF</b><br>Characters in the same category have similar norms.<br>The categories are: 5★ Melee > 4★ Melee A > 5★ Ranged > 4★ Melee B > 4★ Ranged.<br> There are a few characters who do not follow this rule, having exceptionally high norm: Kokomi, Yelan, Neuvillette.",
+            "RU": "<br><b>Norm = HP + 16 * ATK + 10 * DEF</b><br>Characters in the same category have similar norms.<br>The categories are: 5★ Melee > 4★ Melee A > 5★ Ranged > 4★ Melee B > 4★ Ranged.<br> There are a few characters who do not follow this rule, having exceptionally high norm: Kokomi, Yelan, Neuvillette."   
         },
         "Ball_TUT": {
             "CH": "属性微粒：前台同属性角色恢复<color style='color:#FF0000;'> 3 </color>，不同属性恢复<color style='color:#FF0000;'> 1 </color><br><br>如果角色在后台，恢复的能量会打折扣：<br>4人队后台恢复为原本的<color style='color:#FF0000;'> 60%</color><br>3人队后台恢复为原本的<color style='color:#FF0000;'> 70%</color><br>2人队后台恢复为原本的<color style='color:#FF0000;'> 80%</color>",
-            "EN": "Elemental Particle: On-field character of the same element gains <color style='color:#FF0000;'>3</color> Energy, otherwise only gains <color style='color:#FF0000;'>1</color>.<br><br>If the character is off-field, they only gain a fraction of the original amount:<br>Off-field characters in a team of 4 gain <color style='color:#FF0000;'>60%</color><br>Off-field characters in a team of 3 gain <color style='color:#FF0000;'>70%</color><br>Off-field characters in a team of 2 gain <color style='color:#FF0000;'>80%</color>"
+            "EN": "Elemental Particle: On-field character of the same element gains <color style='color:#FF0000;'>3</color> Energy, otherwise only gains <color style='color:#FF0000;'>1</color>.<br><br>If the character is off-field, they only gain a fraction of the original amount:<br>Off-field characters in a team of 4 gain <color style='color:#FF0000;'>60%</color><br>Off-field characters in a team of 3 gain <color style='color:#FF0000;'>70%</color><br>Off-field characters in a team of 2 gain <color style='color:#FF0000;'>80%</color>",
+            "RU": "Элементальная частица: Активный персонаж такого же элемента получает <color style='color:#FF0000;'>3 ед.</color> энергии, если элемент отличается, то <color style='color:#FF0000;'>1 ед.</color> энергии.<br><br>Если персонаж не находится на поле боя, то он получает только часть от исходной энергии:<br>Персонаж вне поля в команде из 4 персонажей, получает <color style='color:#FF0000;'>60%</color><br>Персонаж вне поля в команде из 3 персонажей, получает <color style='color:#FF0000;'>70%</color><br>Персонаж вне поля в команде из 2 персонажей, получает <color style='color:#FF0000;'>80%</color>"
         },
         "Endure_TUT": {
             "CH": "所有削韧都会乘上这个系数。<br>这个数越小，抗打断能力越强：1 表示没有抗打断，0 表示不受削韧岿然不动。",
-            "EN": "All incoming poise DMG is multiplied by these numbers.<br>The smaller this number, the more RES it provides: 1 means no effect and 0 means completely uninterruptible."
+            "EN": "All incoming poise DMG is multiplied by these numbers.<br>The smaller this number, the more RES it provides: 1 means no effect and 0 means completely uninterruptible.",
+            "RU": "Входящий урон по стойкости умножается на эти значения.<br>TЧем меньше значение, тем больше сопротивления к прерыванию: 1 означает отсутствие эффекта, а 0 абсолютное сопротивление."
         },
         "Windzone_TUT": {
             "CH": "风强 = 风场的吸力，越大越强。负数表示向外推。<br><br>衰减 = 吸力随距离下降的程度。风场中心的吸力最强，边缘的吸力最弱。<br><br>边缘最强：如果 ✔ ，则衰减方向反过来，边缘处吸力最强，中心吸力最弱。",
-            "EN": "Strength = Pull strength. The higher this number, the stronger the vortex pulls. Negative means the vortex pushes outward.<br><br>Attenuation = how much the pull strength drops as distance increases. The vortex's pull strength is strongest at the center and weakest at the boundary.<br><br>BS = Boundary Strongest. If this is checked, it means that the vortex's attenuation is reversed. Pull strength is strongest at the boundaries and weakest at the center."
+            "EN": "Strength = Pull strength. The higher this number, the stronger the vortex pulls. Negative means the vortex pushes outward.<br><br>Attenuation = how much the pull strength drops as distance increases. The vortex's pull strength is strongest at the center and weakest at the boundary.<br><br>BS = Boundary Strongest. If this is checked, it means that the vortex's attenuation is reversed. Pull strength is strongest at the boundaries and weakest at the center.",
+            "RU": "Сила = Сила притяжения. Чем выше это значение, тем сильнее притяжение. Отрицательные числа означают, что умение выталкивает наружу.<br><br>Затухание = Насколько падает сила притяжения по мере увеличения расстояния. Сила притяжения сильнее всего в центре и слабее по краям умения.<br><br>BS = Сила по краям умения. Если этот флажок установлен, это означает, что затухание изменилось на противоположное. Сильное притяжение по краям умения и слабое в центре."
         },
         "Avatar_Sort": [
             {
                 "CH": "默认排序",
-                "EN": "Default"
+                "EN": "Default",
+                "RU": "По умочанию"
             },
             {
                 "CH": "生命值排序",
-                "EN": "Sort by HP"
+                "EN": "Sort by HP",
+                "RU": "Сортировать по ХП"
             },
             {
                 "CH": "攻击力排序",
-                "EN": "Sort by ATK"
+                "EN": "Sort by ATK",
+                "RU": "Сортировать по АТК"
             },
             {
                 "CH": "防御力排序",
-                "EN": "Sort by DEF"
+                "EN": "Sort by DEF",
+                "RU": "Сортировать по ЗАЩ"
             },
             {
                 "CH": "模排序",
-                "EN": "Sort by Norm"
+                "EN": "Sort by Norm",
+                "RU": "Сортировать по Норме"
             }
         ],
         "Changelog": {
             "CH": "聚焦更新",
-            "EN": "Track Updates"
+            "EN": "Track Updates",
+            "RU": "Журнал изменений"
         },
         "StatVerChoose": {
             "CH": "版本",
-            "EN": "Version"
+            "EN": "Version",
+            "RU": "Version"
         },
         "Ach_Title": {
             "CH": "玉衡杯数据库",
-            "EN": "HomDGCat Wiki"
+            "EN": "HomDGCat Wiki",
+            "RU": "HomDGCat Wiki"
         },
         "Ach_Table_Header": [
             {
                 "CH": "合辑",
-                "EN": "Series"
+                "EN": "Series",
+                "RU": "Достижение"
             },
             {
                 "CH": "数量",
-                "EN": "Count"
+                "EN": "Count",
+                "RU": "Количество"
             },
             {
                 "CH": "原石",
-                "EN": "Primo"
-            },
+                "EN": "Primo",
+                "RU": "Камни истока"
+            }
         ],
         "Ach_All_Name": {
             "CH": "<b>全部成就</b>",
-            "EN": "<b>All Achievements</b>"
+            "EN": "<b>All Achievements</b>",
+            "RU": "<b>Все достижения</b>"
         },
         "Ach_Extra": {
-            "CH": " | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>b站@妮可少女</color>",
-            "EN": " | <color style='color:#0066FF;'>HomDGCat Wiki</color> | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
+            "CH": " | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "EN": " | <color style='color:#0066FF;'>HomDGCat Wiki</color> | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
+            "RU": " | <color style='color:#0066FF;'>HomDGCat Wiki</color> | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
         "Ach_Inner_Header": [
             {
                 "CH": "奖励",
-                "EN": "Primo"
+                "EN": "Primo",
+                "RU": "Камни истока"
             },
             {
                 "CH": "成就",
-                "EN": "Achievement"
+                "EN": "Achievement",
+                "RU": "Достижение"
             },
             {
                 "CH": "隐藏",
-                "EN": "Hidden"
+                "EN": "Hidden",
+                "RU": "Скрытое"
             },
             {
                 "CH": "总进度",
-                "EN": "Total"
+                "EN": "Total",
+                "RU": "Итог"
             },
             {
                 "CH": "版本",
-                "EN": "Ver"
-            },
+                "EN": "Ver",
+                "RU": "Версия"
+            }
         ],
         "Load_Title": {
             "CH": "玉衡杯数据库",
-            "EN": "HomDGCat Wiki"
+            "EN": "HomDGCat Wiki",
+            "RU": "HomDGCat Wiki"
         },
         "MS_Type": [
             {
                 "CH": "护盾",
-                "EN": "Shields"
+                "EN": "Shields",
+                "RU": "Щиты"
             },
             {
                 "CH": "护甲",
-                "EN": "Armors"
+                "EN": "Armors",
+                "RU": "Броня"
             },
             {
                 "CH": "造物",
-                "EN": "Gadgets"
-            },
+                "EN": "Gadgets",
+                "RU": "Устройства"
+            }
         ],
         "MS_Desc": [
             {
                 "CH": "护盾能够抵挡一切受到的伤害（包括真实伤害）。",
-                "EN": "Shields nullify all incoming DMG (including True DMG), rendering the enemy invincible."
+                "EN": "Shields nullify all incoming DMG (including True DMG), rendering the enemy invincible.",
+                "RU": "Щиты позволяют противнику игнорировать весь входящий урон (включая истинный)."
             },
             {
                 "CH": "护甲是一种状态，并不会抵挡受到的伤害。某些护甲会削减受到的伤害。",
-                "EN": "Armors do not render the enemy invincible. However, some armors decrease incoming DMG."
+                "EN": "Armors do not render the enemy invincible. However, some armors decrease incoming DMG.",
+                "RU": "Броня позволяет противнику игнорировать часть входящего урона."
             },
             {
                 "CH": "造物是独立个体，在附着和伤害方面与敌人互不影响。",
-                "EN": "Gadgets are independent objects. The enemy and their gadgets do not share DMG taken or elements applied."
-            },
+                "EN": "Gadgets are independent objects. The enemy and their gadgets do not share DMG taken or elements applied.",
+                "RU": "Устройства являются независимыми объектами. Противник и его устройство не разделяют полученный урон или примененные элементы"
+            }
         ],
         "MS_HP_Title": {
-            "CH": "护盾血量 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>b站@妮可少女</color>",
-            "EN": "Shield HP | <color style='color:#0066FF;'>HomDGCat Wiki</color> | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
+            "CH": "护盾血量 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "EN": "Shield HP | <color style='color:#0066FF;'>HomDGCat Wiki</color> | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
+            "RU": "ХП щита | <color style='color:#0066FF;'>HomDGCat Wiki</color> | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
         "MS_HP_Desc": {
             "CH": "某些护盾具有血量：在受到不同属性的伤害时，会依此扣除护盾值。此效果与元素反应的消耗叠加。<br>护盾的血量是敌人本体血量的倍数。例如，5x 表示护盾血量是本体的 5 倍。",
-            "EN": "Some shields have HP. When these shields take DMG that are not of its own element type, shield strength will be consumed by this DMG. This effect stacks with the consumption from Elemental Reactions.<br>Shields' HP are a multiple of their owner's HP. For example, 5x means that the shield has 5 times its owner's HP."
+            "EN": "Some shields have HP. When these shields take DMG that are not of its own element type, shield strength will be consumed by this DMG. This effect stacks with the consumption from Elemental Reactions.<br>Shields' HP are a multiple of their owner's HP. For example, 5x means that the shield has 5 times its owner's HP.",
+            "RU": "Некоторые щиты имеют полоску ХП. Если нанести урон другим элементом или реакцией, то будет потреблятся ХП щита.<br>ХП щита кратно здоровью противника. Например, 5х означает, что у щита в 5 раз больше ХП, чем у него владельца."
+    
         },
         "MS_Header": [
             {
                 "CH": "",
-                "EN": ""
+                "EN": "",
+                "RU": ""
             },
             {
                 "CH": "名称",
-                "EN": "Name"
+                "EN": "Name",
+                "RU": "Противник"
             },
             {
                 "CH": "技能",
-                "EN": "Skill"
+                "EN": "Skill",
+                "RU": "Умение"
             },
             {
                 "CH": "元素量",
-                "EN": "Strength"
+                "EN": "Strength",
+                "RU": "Мощность"
             },
             {
                 "CH": "血量 ⓘ",
-                "EN": "HP ⓘ"
+                "EN": "HP ⓘ",
+                "RU": "ХП ⓘ"
             },
             {
                 "CH": "备注",
-                "EN": "Notes"
-            },
+                "EN": "Notes",
+                "RU": "Примечание"
+            }
         ],
-        "Verify_Head": {
-            "CH": "验证",
-            "EN": "Verification"
-        },
-        "Verify_Button": {
-            "CH": "验证",
-            "EN": "Verify"
-        },
-        "Verify": {
-            "CH": "请输入数字：",
-            "EN": "Please enter number: "
-        },
-        "Verify_Fail": {
-            "CH": "验证失败，请重试",
-            "EN": "Verification failed. Pleae try again."
-        },
         "ResetTalk": {
             "CH": "重置对话",
-            "EN": "Reset Talk"
+            "EN": "Reset Talk",
+            "RU": "Сбросить разговор"
         },
         "TalkTip": {
             "CH": "点击对话框开始对话",
-            "EN": "Click on a bubble to start chatting"
-        },
+            "EN": "Click on a bubble to start chatting",
+            "RU": "Нажмите на пузырь, чтобы начать общение"
+        }
     },
     "LevelCurves": {
         "1": {
@@ -6147,10 +6370,12 @@ if (lang_) {
     }
 }
 
+var lang2 = is_ru ? 'RU' : lang
+
 if (lang == 'EN') { $('body').css('font-family', "'Segoe UI', 'Arial', sans-serif") }
 else { $('body').css('font-family', "'Microsoft YaHei', sans-serif") }
 
-$('h3 .links').html(computer_.MiscText.Page[lang])
+$('h3 .links').html(computer_.MiscText.Page[is_ru ? 'RU' : lang])
 
 $('body').on('click', '.links', function () {
     poplayer({

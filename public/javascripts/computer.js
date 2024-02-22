@@ -16,16 +16,16 @@ $(function () {
     var showtop = 0
     $('h3 .title').html(computer_.MiscText.ComputerTitle[lang] + "<color style='font-size: 0.5em;'><br><b>" + VER_GI + "</b></color>")
     $('h3 .subtitle').html(computer_.MiscText.Subtitle[lang])
-    $('h3 .tlsub').html(computer_.MiscText.Translate_Computer[lang])
+    $('h3 .tlsub').html(computer_.MiscText.Translate_Computer[lang2])
 
     begin1()
 
     function begin1() {
 
-        $('.calculate').text(computer_.MiscText.Computer_Button_Calculate[lang]);
-        $('input[name="level"]').attr('placeholder', computer_.MiscText.Computer_Input_OverworldPlaceholder[lang]);
-        $('input[name="interval"]').attr('placeholder', computer_.MiscText.Computer_Input_Placeholder[lang]);
-        $('.download').html(computer_.MiscText.Computer_Download[lang])
+        $('.calculate').text(computer_.MiscText.Computer_Button_Calculate[lang2]);
+        $('input[name="level"]').attr('placeholder', computer_.MiscText.Computer_Input_OverworldPlaceholder[lang2]);
+        $('input[name="interval"]').attr('placeholder', computer_.MiscText.Computer_Input_Placeholder[lang2]);
+        $('.download').html(computer_.MiscText.Computer_Download[lang2])
         $('.download').click(function () {
             downloadImage(`${imgpre}homdgcat-res/Abyss/HP.jpg`, `HP.jpg`);
         });
@@ -201,13 +201,13 @@ $(function () {
                 }, {
                     div: [
                         {
-                            button: computer_.MiscText.Computer_Result_Button_Tutorial[lang],
+                            button: computer_.MiscText.Computer_Result_Button_Tutorial[lang2],
                             when: function (d) {
                                 return d.data.Tutorial && !(d.data.DisableTutorial)
                             },
                             click: function (p) {
                                 poplayer({
-                                    header: computer_.MiscText.Computer_Result_Button_Tutorial2[lang],
+                                    header: computer_.MiscText.Computer_Result_Button_Tutorial2[lang2],
                                     width: '80%',
                                     template: {
                                         div: function (d) {
@@ -223,13 +223,13 @@ $(function () {
                             }
                         },
                         {
-                            button: computer_.MiscText.Computer_Result_Button_SkillDMG[lang],
+                            button: computer_.MiscText.Computer_Result_Button_SkillDMG[lang2],
                             when: function (d) {
                                 return d.data.SkillDMG && d.data.SkillDMG.length
                             },
                             click: function (p) {
                                 poplayer({
-                                    header: computer_.MiscText.Computer_SkillDMG_Title[lang],
+                                    header: computer_.MiscText.Computer_SkillDMG_Title[lang2],
                                     width: '80%',
                                     data: p.org_data,
                                     template: {
@@ -239,14 +239,14 @@ $(function () {
                                                     {
                                                         f1: [
                                                             {
-                                                                label: computer_.MiscText.Computer_SkillDMG_MonsterLevel[lang],
+                                                                label: computer_.MiscText.Computer_SkillDMG_MonsterLevel[lang2],
                                                                 width: '100%'
                                                             },
                                                             {
                                                                 input: 'mon_level',
                                                                 a: {
                                                                     type: 'text',
-                                                                    placeholder: computer_.MiscText.Computer_SkillDMG_Input_MonsterLevelPlaceholder[lang]
+                                                                    placeholder: computer_.MiscText.Computer_SkillDMG_Input_MonsterLevelPlaceholder[lang2]
                                                                 },
                                                                 width: '90%',
                                                                 style: {
@@ -259,14 +259,14 @@ $(function () {
                                                     {
                                                         f1: [
                                                             {
-                                                                label: computer_.MiscText.Computer_SkillDMG_AvatarDEF[lang],
+                                                                label: computer_.MiscText.Computer_SkillDMG_AvatarDEF[lang2],
                                                                 width: '100%'
                                                             },
                                                             {
                                                                 input: 'dff',
                                                                 a: {
                                                                     type: 'number',
-                                                                    placeholder: computer_.MiscText.Computer_SkillDMG_Input_AvatarDEFPlaceholder[lang]
+                                                                    placeholder: computer_.MiscText.Computer_SkillDMG_Input_AvatarDEFPlaceholder[lang2]
                                                                 },
                                                                 width: '90%',
                                                                 style: {
@@ -276,7 +276,7 @@ $(function () {
                                                             }
                                                         ]
                                                     }, {
-                                                        button: computer_.MiscText.Computer_SkillDMG_Button_Calculate[lang],
+                                                        button: computer_.MiscText.Computer_SkillDMG_Button_Calculate[lang2],
                                                         click: function (d) {
                                                             var regLevel = /^([1-9]|[1-9]\d|1\d{2}|200)$/;
                                                             var regInterval = /^(9|1[0-2])-[1-3]$/;
@@ -320,11 +320,11 @@ $(function () {
                                                 table: [{
                                                     thead: {
                                                         tr: [{
-                                                            th: computer_.MiscText.Computer_SkillDMG_NameColumnTitle[lang]
+                                                            th: computer_.MiscText.Computer_SkillDMG_NameColumnTitle[lang2]
                                                         }, {
-                                                            th: computer_.MiscText.Computer_SkillDMG_DMGColumnTitle[lang]
+                                                            th: computer_.MiscText.Computer_SkillDMG_DMGColumnTitle[lang2]
                                                         }, {
-                                                            th: computer_.MiscText.Computer_SkillDMG_CalculateColumnTitle[lang]
+                                                            th: computer_.MiscText.Computer_SkillDMG_CalculateColumnTitle[lang2]
                                                         }]
                                                     }
                                                 }, {
@@ -361,13 +361,13 @@ $(function () {
                             }
                         },
                         {
-                            button: computer_.MiscText.Computer_Result_Button_SkillData[lang],
+                            button: computer_.MiscText.Computer_Result_Button_SkillData[lang2],
                             when: function (d) {
                                 return d.data.SkillData
                             },
                             click: function (p) {
                                 poplayer({
-                                    header: computer_.MiscText.Computer_Result_Button_SkillData2[lang],
+                                    header: computer_.MiscText.Computer_Result_Button_SkillData2[lang2],
                                     width: '80%',
                                     data: p.org_data,
                                     template: {
@@ -381,10 +381,10 @@ $(function () {
                             }
                         },
                         {
-                            button: computer_.MiscText.Computer_Result_Button_Loot[lang],
+                            button: computer_.MiscText.Computer_Result_Button_Loot[lang2],
                             click: function (d) {
                                 poplayer({
-                                    header: computer_.MiscText.Computer_Result_Button_Loot[lang],
+                                    header: computer_.MiscText.Computer_Result_Button_Loot[lang2],
                                     width: '40%',
                                     data: d.org_data,
                                     template: {
@@ -416,17 +416,17 @@ $(function () {
                             }
                         },
                         {
-                            button: computer_.MiscText.Computer_Result_Button_Element[lang],
+                            button: computer_.MiscText.Computer_Result_Button_Element[lang2],
                             click: function (p) {
                                 poplayer({
-                                    header: computer_.MiscText.Computer_Result_Button_Element[lang],
+                                    header: computer_.MiscText.Computer_Result_Button_Element[lang2],
                                     width: '40%',
                                     template: {
                                         div: function (d) {
                                             var elem_info = computer_.ElemNameConfig[p.org_data.Element.Type]
-                                            var content = computer_.MiscText.Computer_Result_Element_Type[lang] + "<color style='color:" + computer_.TextColorConfig[elem_info.Color] + ";'><b>" + elem_info.Text[lang] + "</b></color><br>" +
-                                                computer_.MiscText.Computer_Result_Element_Value[lang] + "<color style='color:" + computer_.TextColorConfig[elem_info.Color] + ";'><b>" + p.org_data.Element.Value.toString() + "</b></color>" +
-                                                (p.org_data.Element.Immutable ? ("<br><br><b>" + computer_.MiscText.Computer_Result_Element_Immutable[lang]) + "</b>" : "")
+                                            var content = computer_.MiscText.Computer_Result_Element_Type[lang2] + "<color style='color:" + computer_.TextColorConfig[elem_info.Color] + ";'><b>" + elem_info.Text[lang] + "</b></color><br>" +
+                                                computer_.MiscText.Computer_Result_Element_Value[lang2] + "<color style='color:" + computer_.TextColorConfig[elem_info.Color] + ";'><b>" + p.org_data.Element.Value.toString() + "</b></color>" +
+                                                (p.org_data.Element.Immutable ? ("<br><br><b>" + computer_.MiscText.Computer_Result_Element_Immutable[lang2]) + "</b>" : "")
                                             $(d.container).html(content)
                                         },
                                         style: {
@@ -450,7 +450,7 @@ $(function () {
                     table: [{
                         thead: {
                             tr: [{
-                                th: computer_.MiscText.Computer_Result_RESBaseTitle[lang]
+                                th: computer_.MiscText.Computer_Result_RESBaseTitle[lang2]
                             }, {
                                 th: function (d) {
                                     var s = d.data.State;
@@ -490,7 +490,7 @@ $(function () {
                                                         var resbase = p.data.RESBase ? (p.data.RESBase[d.data._id] != undefined ? p.data.RESBase[d.data._id] : 0.1) : 0.1;
                                                         var immune = p.data.Immune ? p.data.Immune : []
                                                         if (immune.includes(d.data._id)) {
-                                                            var ret = '<b>' + computer_.MiscText.Computer_Result_Immune[lang] + '</b>'
+                                                            var ret = '<b>' + computer_.MiscText.Computer_Result_Immune[lang2] + '</b>'
                                                         } else {
                                                             var ret = (resbase * 100).toFixed() + '%'
                                                         }
@@ -539,7 +539,7 @@ $(function () {
                                                                         }
                                                                         var immune = p.data.Immune ? p.data.Immune : []
                                                                         if (immune.includes(d.data._id)) {
-                                                                            var ret = '<b>' + computer_.MiscText.Computer_Result_Immune[lang] + '</b>'
+                                                                            var ret = '<b>' + computer_.MiscText.Computer_Result_Immune[lang2] + '</b>'
                                                                         } else {
                                                                             var ret = (resbase * 100).toFixed() + '%'
                                                                         }
@@ -599,7 +599,7 @@ $(function () {
                                     tr: {
                                         td: [
                                             {
-                                                span: computer_.MiscText.Computer_ScaleHP_Text[lang],
+                                                span: computer_.MiscText.Computer_ScaleHP_Text[lang2],
                                                 style: {
                                                     margin: '5px 3px 5px 5px',
                                                     'font-size': { "CH": '15px', "EN": '14px' }[lang]
@@ -618,7 +618,7 @@ $(function () {
                                                 width: '80px'
                                             },
                                             {
-                                                button: computer_.MiscText.Computer_ScaleHP_Button1[lang],
+                                                button: computer_.MiscText.Computer_ScaleHP_Button1[lang2],
                                                 class: 'hp_res_button',
                                                 style: {
                                                     margin: '5px 3px 5px 5px'
@@ -649,9 +649,9 @@ $(function () {
                     table: [{
                         thead: {
                             tr: [{
-                                th: computer_.MiscText.Computer_Result_BallTitle[lang]
+                                th: computer_.MiscText.Computer_Result_BallTitle[lang2]
                             }, {
-                                th: computer_.MiscText.Computer_Result_WeightEndureTitle[lang]
+                                th: computer_.MiscText.Computer_Result_WeightEndureTitle[lang2]
                             }]
                         }
                     }, {
@@ -721,14 +721,14 @@ $(function () {
                                     tr: [{
                                         td: {
                                             div: {
-                                                button: computer_.MiscText.Computer_Result_Button_BallIntro[lang],
+                                                button: computer_.MiscText.Computer_Result_Button_BallIntro[lang2],
                                                 click: function (p) {
                                                     poplayer({
-                                                        header: computer_.MiscText.Computer_Result_Button_BallIntro2[lang],
+                                                        header: computer_.MiscText.Computer_Result_Button_BallIntro2[lang2],
                                                         width: '65%',
                                                         template: {
                                                             div: function (d) {
-                                                                $(d.container).html(computer_.MiscText.Computer_Result_Window_BallIntro[lang])
+                                                                $(d.container).html(computer_.MiscText.Computer_Result_Window_BallIntro[lang2])
                                                             },
                                                             style: {
                                                                 'white-space': 'pre-wrap',
@@ -750,14 +750,14 @@ $(function () {
                                     }, {
                                         td: {
                                             div: {
-                                                button: computer_.MiscText.Computer_Result_Button_WeightEndureIntro[lang],
+                                                button: computer_.MiscText.Computer_Result_Button_WeightEndureIntro[lang2],
                                                 click: function (p) {
                                                     poplayer({
-                                                        header: computer_.MiscText.Computer_Result_Button_WeightEndureIntro2[lang],
+                                                        header: computer_.MiscText.Computer_Result_Button_WeightEndureIntro2[lang2],
                                                         width: '55%',
                                                         template: {
                                                             div: function (d) {
-                                                                $(d.container).html(computer_.MiscText.Computer_Result_Window_WeightEndureIntro[lang])
+                                                                $(d.container).html(computer_.MiscText.Computer_Result_Window_WeightEndureIntro[lang2])
                                                             },
                                                             style: {
                                                                 'white-space': 'pre-wrap',
@@ -950,7 +950,7 @@ $(function () {
         $('._hp').each(function () {
             var res_percent = $(this).siblings('._res').html()
             if (!res_percent.includes('%')) {
-                $(this).html('<b>' + computer_.MiscText.Computer_Result_Immune[lang] + '</b>')
+                $(this).html('<b>' + computer_.MiscText.Computer_Result_Immune[lang2] + '</b>')
             } else {
                 res_percent = parseInt(res_percent.replace('%', ''))
                 $(this).html((cur_hp * res(res_percent / 100, res_decrease_percent / 100)).toFixed(0))
@@ -965,10 +965,10 @@ $(function () {
         $('._res').show()
         $('._hp').hide()
         poplayer({
-            header: computer_.MiscText.Computer_ScaleHP_TutorialTitle[lang],
+            header: computer_.MiscText.Computer_ScaleHP_TutorialTitle[lang2],
             width: '90%',
             template: {
-                div: computer_.MiscText.Computer_ScaleHP_Tutorial[lang],
+                div: computer_.MiscText.Computer_ScaleHP_Tutorial[lang2],
                 style: {
                     'white-space': 'pre-wrap',
                     'padding': '10px'
@@ -1018,7 +1018,7 @@ $(function () {
             $('kingdom[data-hd=0]').hide()
             $('kingdom[data-hd=1]').css('width', '46%')
             $('h3 .subtitle').html(computer_.MiscText.Subtitle_[lang])
-            $('h3 .title').html(computer_.MiscText.ComputerTitle_[lang] + _Kingdoms[14].Name.EN.replace(' F11', ''))
+            $('h3 .title').html(computer_.MiscText.ComputerTitle_[lang2] + _Kingdoms[14].Name.EN.replace(' F11', ''))
             $('h3 .subtitle').css('font-size', '18px')
             $('.kingdom').css('padding-bottom', '0px')
             $('h3 .links').html("<p style='margin-top:13px;color:#df903b;cursor:pointer;'><b>[ " + ((lang == 'CH') ? 'mons.wiki / homdgcat.wiki' : 'en.mons.wiki / en.homdgcat.wiki') + " ]</b></p>")
@@ -1031,7 +1031,7 @@ $(function () {
             $('h3 .title').html(computer_.MiscText.ComputerTitle[lang])
             $('h3 .subtitle').css('font-size', '')
             $('.kingdom').css('padding-bottom', '')
-            $('h3 .links').html(computer_.MiscText.Page[lang])
+            $('h3 .links').html(computer_.MiscText.Page[lang2])
             $('.tlsub').show()
             $('.kingdom').css('padding-bottom', '20px')
         }

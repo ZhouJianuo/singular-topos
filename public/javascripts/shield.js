@@ -6,7 +6,7 @@ $(function () {
     $('.tls' + lang).css("color", "#df903b");
     $('h3 .title').html(computer_.MiscText.Load_Title[lang] + "<color style='font-size: 0.5em;'><br><b>" + VER_GI + "</b></color>");
     $('h3 .subtitle').html(computer_.MiscText.Subtitle[lang]);
-    $('h3 .tlsub').html(computer_.MiscText.Translate_Shield[lang]);
+    $('h3 .tlsub').html(computer_.MiscText.Translate_Shield[lang2]);
 
     $("body").on("click", ".tlsub", function () {
         if (lang == 'CH') $("a[data-id='EN']").click()
@@ -29,7 +29,7 @@ $(function () {
                     section: function (d) {
                         computer_.MiscText.MS_Type.forEach(function (me, ind) {
                             $(d.container).render({
-                                schedule: me[lang],
+                                schedule: me[lang2],
                                 a: {
                                     'data-id': ind + 1,
                                     'class': function () {
@@ -42,7 +42,7 @@ $(function () {
                     class: 'type'
                 },
                 {
-                    h4: computer_.MiscText.MS_Desc[typ - 1][lang],
+                    h4: computer_.MiscText.MS_Desc[typ - 1][lang2],
                     class: 'desc',
                     style: {
                         'margin-bottom': '10px'
@@ -75,7 +75,7 @@ $(function () {
                             $(d.container).render({
                                 data: computer_.MiscText.MS_Header,
                                 template: {
-                                    th: `[[${lang}]]`,
+                                    th: `[[${lang2}]]`,
                                     a: {
                                         class: function (d) {
                                             if (d.data.EN.includes("HP")) return 'hp'
@@ -179,10 +179,10 @@ $(function () {
 
     $('body').on('click', '.hp', function () {
         poplayer({
-            header: computer_.MiscText.MS_HP_Title[lang],
+            header: computer_.MiscText.MS_HP_Title[lang2],
             width: '90%',
             template: [{
-                p: computer_.MiscText.MS_HP_Desc[lang],
+                p: computer_.MiscText.MS_HP_Desc[lang2],
                 style: {
                     'line-height': 2,
                 }

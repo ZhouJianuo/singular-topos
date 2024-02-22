@@ -21,13 +21,15 @@ var txt = {
     },
     "Home_Lang": {
         "GI": {
-            "CH": "<a href='/gi?lang=EN'>Switch to English</a>",
-            "EN": "<a href='/gi?lang=CH'>切换至中文</a>"
+            "CH": "<b>中文</b> | <a class='translate_' href='/gi?lang=EN'><b>English</b></a> | <a class='translate_' href='/gi?lang=RU'><b>Русский</b></a>",
+            "EN": "<a class='translate_' href='/gi?lang=CH'><b>中文</b></a> | <b>English</b> | <a class='translate_' href='/gi?lang=RU'><b>Русский</b></a>",
+            "RU": "<a class='translate_' href='/gi?lang=CH'><b>中文</b></a> | <a class='translate_' href='/gi?lang=EN'><b>English</b></a> | <b>Русский</b>"
         },
         "SR": {
-            "CH": "<a href='/sr?lang=EN'>Switch to English</a>",
-            "EN": "<a href='/sr?lang=CH'>切换至中文</a>"
-        }
+            "CH": "<b>中文</b> | <a class='translate_' href='/gi?lang=EN'><b>English</b></a> | <a class='translate_' href='/gi?lang=RU'><b>Русский</b></a>",
+            "EN": "<a class='translate_' href='/gi?lang=CH'><b>中文</b></a> | <b>English</b> | <a class='translate_' href='/gi?lang=RU'><b>Русский</b></a>",
+            "RU": "<a class='translate_' href='/gi?lang=CH'><b>中文</b></a> | <a class='translate_' href='/gi?lang=EN'><b>English</b></a> | <b>Русский</b>"
+        },
     },
     "Lang": {
         "CH": "<a href='?lang=EN'>Switch to English</a>",

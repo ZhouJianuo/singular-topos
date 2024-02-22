@@ -2,6 +2,10 @@ schedule {
     width: calc((100% - 50px) / 4);
 }
 
+em {
+    font-style: normal;
+}
+
 .about {
     margin-bottom: 6px;
     line-height: 2;
@@ -19,6 +23,10 @@ schedule {
 }
 
 .about_2 a {
+    color: #df903b;
+}
+
+a.translate_ {
     color: #df903b;
 }
 

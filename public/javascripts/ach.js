@@ -8,13 +8,14 @@ $(function () {
 
     var txt = {
         "CH": "总成就数",
-        "EN": "Total Count"
+        "EN": "Total Count",
+        "RU": "Общее Количество"
     }
 
     $('.tls' + lang).css("color", "#df903b");
     $('h3 .title').html(computer_.MiscText.Ach_Title[lang] + "<color style='font-size: 0.5em;'><br><b>" + VER_GI + "</b></color>");
     $('h3 .subtitle').html(computer_.MiscText.Subtitle[lang]);
-    $('h3 .tlsub').html(computer_.MiscText.Translate_Ach[lang]);
+    $('h3 .tlsub').html(computer_.MiscText.Translate_Ach[lang2]);
 
     $("body").on("click", ".tlsub", function () {
         if (lang == 'CH') $("a[data-id='EN']").click()
@@ -48,7 +49,7 @@ $(function () {
                                         $(d.container).render({
                                             data: computer_.MiscText.Ach_Table_Header,
                                             template: {
-                                                th: `[[${lang}]]`,
+                                                th: `[[${lang2}]]`,
                                                 a: {
                                                     class: function (d) {
                                                         return d.data.EN
@@ -66,7 +67,7 @@ $(function () {
                                     template: {
                                         tr: [
                                             {
-                                                td: computer_.MiscText.Ach_All_Name[lang],
+                                                td: computer_.MiscText.Ach_All_Name[lang2],
                                                 style: {
                                                     'text-align': 'center'
                                                 }
@@ -88,7 +89,7 @@ $(function () {
                                             'cursor': 'pointer',
                                         },
                                         click: function (p) {
-                                            popAch(computer_.MiscText.Ach_All_Name[lang], 114514)
+                                            popAch(computer_.MiscText.Ach_All_Name[lang2], 114514)
                                         },
                                         a: {
                                             'data-id': 't_all'
@@ -157,7 +158,7 @@ $(function () {
     function popAch(t, l) {
         cur_group = l
         poplayer({
-            header: t + computer_.MiscText.Ach_Extra[lang],
+            header: t + computer_.MiscText.Ach_Extra[lang2],
             width: '100%',
             template: [{
                 section: function (d) {
@@ -191,7 +192,7 @@ $(function () {
                             $(d.container).render({
                                 data: computer_.MiscText.Ach_Inner_Header,
                                 template: {
-                                    th: `[[${lang}]]`
+                                    th: `[[${lang2}]]`
                                 }
                             })
                         }

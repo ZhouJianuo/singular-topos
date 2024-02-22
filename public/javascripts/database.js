@@ -3,9 +3,9 @@ $(function () {
     var imgpre = $('#IMGPRE').val()
     document.title = computer_.MiscText.TITLE[lang]
     $('.tls' + lang).css("color", "#df903b");
-    $('h3 .title').html(computer_.MiscText.AbyssTitle[lang] + "<color style='font-size: 0.5em;'><br><b>" + VER_GI + "</b></color>")
+    $('h3 .title').html(computer_.MiscText.AbyssTitle[lang2] + "<color style='font-size: 0.5em;'><br><b>" + VER_GI + "</b></color>")
     $('h3 .subtitle').html(computer_.MiscText.Subtitle[lang])
-    $('h3 .tlsub').html(computer_.MiscText.Translate_Abyss[lang])
+    $('h3 .tlsub').html(computer_.MiscText.Translate_Abyss[lang2])
 
     var moreless = 0
     var cur_schedule_ver = ""
@@ -235,11 +235,11 @@ $(function () {
                 }, {
                     div: [
                         {
-                            button: computer_.MiscText.Abyss_UI[UI][lang],
+                            button: computer_.MiscText.Abyss_UI[UI][lang2],
                             class: 'ui',
                         }, 
                         {
-                            button: computer_.MiscText.Abyss_Pos[lang],
+                            button: computer_.MiscText.Abyss_Pos[lang2],
                             class: 'pos',
                         }
                     ],
@@ -252,7 +252,7 @@ $(function () {
                     $(d.container).render({
                         data: computer_.MiscText.Abyss_Select,
                         template: {
-                            span: `[[${lang}]]`,
+                            span: `[[${lang2}]]`,
                             a: { 'data-s': `[[${lang}]]` },
                             click: function (d) {
                                 if ($(d.sender).hasClass('active')) {
@@ -280,7 +280,7 @@ $(function () {
                             $(d.container).render({
                                 data: fl,
                                 template: {
-                                    span: `[[${lang}]]`,
+                                    span: `[[${lang2}]]`,
                                     a: { 'data-s': `[[${lang}]]` },
                                     click: function (d) {
                                         if ($(d.sender).hasClass('active')) {
@@ -489,7 +489,7 @@ $(function () {
                                     }
                                 }, {
                                     div: [{
-                                        button: computer_.MiscText.Abyss_Chamber_Button_Buff[lang],
+                                        button: computer_.MiscText.Abyss_Chamber_Button_Buff[lang2],
                                         click: bufferPop,
                                         style: {
                                             position: 'relative',
@@ -504,7 +504,7 @@ $(function () {
                                         },
                                         class: 'version-choose',
                                     }, {
-                                        button: computer_.MiscText.Abyss_Chamber_Button_Cond[lang],
+                                        button: computer_.MiscText.Abyss_Chamber_Button_Cond[lang2],
                                         click: condPop,
                                         style: {
                                             position: 'relative',
@@ -632,7 +632,7 @@ $(function () {
                                                                                     div: [{
                                                                                         a: function (d) {
                                                                                             var interval = $(d.container).parents('.up_low').siblings('h6').attr('data-name')
-                                                                                            return '/gi/monster?lang=' + (is_ru ? 'RU' : lang) + '&id=' + monsterId + '&level=' + interval
+                                                                                            return '/gi/monster?lang=' + (lang2) + '&id=' + monsterId + '&level=' + interval
                                                                                         },
                                                                                         t: [{
                                                                                             img: imgpre + 'homdgcat-res/monster/' + choose_icon + '.png',
@@ -858,7 +858,7 @@ $(function () {
                                                                                     div: [{
                                                                                         a: function (d) {
                                                                                             var interval = $(d.container).parents('.up_low').siblings('h6').attr('data-name')
-                                                                                            return '/gi/monster?lang=' + (is_ru ? 'RU' : lang) + '&id=' + monsterId + '&level=' + interval
+                                                                                            return '/gi/monster?lang=' + (lang2) + '&id=' + monsterId + '&level=' + interval
                                                                                         },
                                                                                         t: [{
                                                                                             img: imgpre + 'homdgcat-res/monster/' + choose_icon + '.png',
@@ -1418,7 +1418,7 @@ $(function () {
                 } else if (DPSDict[p.data.Name] && DPSDict[p.data.Name][cur_schedule_ver]) {
                     dps_num = DPSDict[p.data.Name][cur_schedule_ver]
                 }
-                return computer_.MiscText.Abyss_DPS_Show[lang] + "<color style='color:#ff0000;'><b>" + dps_num + "</b></color>"
+                return computer_.MiscText.Abyss_DPS_Show[lang2] + "<color style='color:#ff0000;'><b>" + dps_num + "</b></color>"
             },
             style: {
                 'display': 'block',
@@ -1471,7 +1471,7 @@ $(function () {
     $("body").on("click", ".ui", function () {
         UI = 1 - UI
         if (cur_floor_index) renderFloorPre(cur_floor_index)
-        $(".ui").html(computer_.MiscText.Abyss_UI[UI][lang])
+        $(".ui").html(computer_.MiscText.Abyss_UI[UI][lang2])
     });
 
     $("body").on("click", ".tlsub", function () {
@@ -1495,7 +1495,7 @@ $(function () {
             $('h3 .links').html("<p style='margin-top:13px;color:#df903b;cursor:pointer;'><b>[ " + ((lang == 'CH') ? 'abyss.wiki / homdgcat.wiki' : 'en.abyss.wiki / en.homdgcat.wiki') + " ]</b></p>")
             $('.tlsub').hide()
             $('h3 .subtitle').html(computer_.MiscText.Subtitle_[lang])
-            $('h3 .title').html(computer_.MiscText.ComputerTitle_[lang] + '<b>' + cur_schedule_name + '</b>')
+            $('h3 .title').html(computer_.MiscText.ComputerTitle_[lang2] + '<b>' + cur_schedule_name + '</b>')
             $('h3 .subtitle').css('font-size', '18px')
             $('.ui').hide()
             $('.pos').hide()
@@ -1517,7 +1517,7 @@ $(function () {
             if (cur_select_floororchart != 1) {
                 $('.p_b').hide()
             }
-            $('h3 .links').html(computer_.MiscText.Page[lang])
+            $('h3 .links').html(computer_.MiscText.Page[lang2])
             $('.tlsub').show()
             $('h3 .subtitle').html(computer_.MiscText.Subtitle[lang])
             $('h3 .title').html(computer_.MiscText.ComputerTitle[lang])
@@ -1604,7 +1604,7 @@ $(function () {
                         a: function (d) {
                             var monsterId = d.data.ID;
                             var interval = $(d.container).parents('.up_low').siblings('h6').attr('data-name')
-                            return '/gi/monster?lang=' + (is_ru ? 'RU' : lang) + '&id=' + monsterId + '&level=' + interval
+                            return '/gi/monster?lang=' + (lang2) + '&id=' + monsterId + '&level=' + interval
                         },
                         attr: {
                             target: '_blank',
@@ -1826,7 +1826,7 @@ $(function () {
         $('.content').css('padding-left', '0')
         $('.content').css('padding-right', '0')
         $('.p_b').addClass('p_b_')
-        $('h3 .tlsub').html(computer_.MiscText.Translate_Abyss2[lang])
+        $('h3 .tlsub').html(computer_.MiscText.Translate_Abyss2[lang2])
     }
 
 })

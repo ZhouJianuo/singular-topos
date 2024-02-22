@@ -600,7 +600,7 @@ h3 .links {
     font-size: 20px;
 }
 
-.translate_ {
+.translate_, .tlsub {
     font-size: 22px;
 }
 
@@ -629,7 +629,7 @@ h3 .tlsub {
         font-size: 45px;
     }
 
-    .translate_ {
+    .translate_, .tlsub {
         font-size: 22px;
     }
 
@@ -659,7 +659,7 @@ h3 .tlsub {
         font-size: 50px;
     }
 
-    .translate_ {
+    .translate_, .tlsub {
         font-size: 22px;
     }
 }

@@ -26,6 +26,8 @@ $(function() {
         }
     }
 
+    var lang2 = is_ru ? 'RU' : lang
+
     if (lang == 'CH') document.title = '玉衡杯数据库'
 
     if (lang == 'EN') {$('body').css('font-family', "'Segoe UI', sans-serif")}
@@ -38,7 +40,7 @@ $(function() {
     
     $('h3 .title').html(txt.Title[lang] + "<color style='font-size: 0.5em;'><br><b>" + VER_GI + " / " + VER_SR + "</b></color>")
 
-    $('h3 .lang').html(txt.Home_Lang[GAME][lang])
+    $('h3 .lang').html(txt.Home_Lang[GAME][lang2])
     $('h3 .lang').css('margin-top', '20px')
 
     $('container').render({
@@ -254,7 +256,7 @@ $(function() {
                 renderAbout();
                 break;
         }
-        $('h3 .lang').html(txt.Home_Lang[GAME][lang])
+        $('h3 .lang').html(txt.Home_Lang[GAME][lang2])
     })
 
     $('body').on('click', '.didyouknow', function() {
