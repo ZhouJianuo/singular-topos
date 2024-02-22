@@ -20,6 +20,7 @@ $(function () {
     }
 
     var imgpre = $('#IMGPRE').val()
+    var cur_group = _n
 
     if (lang == 'CH') document.title = '玉衡杯数据库'
 
@@ -51,10 +52,19 @@ $(function () {
 
     $('container').render({
         template: {
-            div: {
-                div: [],
-                class: 'miracle_card_area'
-            },
+            div: [
+                {
+                    section: {
+                        schedule: `[[Name/${lang}]]`,
+                        data: _recgroup
+                    },
+                    class: 'choose',
+                },
+                {
+                    div: [],
+                    class: 'miracle_card_area'
+                }
+            ],
             class: 'content'
         }
     })
@@ -69,6 +79,20 @@ $(function () {
                 {
                     p: t.Name[lang],
                     class: 'name'
+                },
+                {
+                    p: `[[${lang}]]`,
+                    class: 'desc',
+                    data: t.Unlock,
+                    style: {
+                        'font-size': '0.9em'
+                    }
+                },
+                {
+                    hr: '',
+                    style: {
+                        margin: '15px 0'
+                    }
                 },
                 {
                     p: `[[${lang}]]`,

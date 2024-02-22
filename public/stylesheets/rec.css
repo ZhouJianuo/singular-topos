@@ -19,6 +19,10 @@ container {
     border-radius: 4px;
 }
 
+.choose {
+    margin: 0
+}
+
 .curio {
     border-radius: 5px;
     padding: 18px;
@@ -45,7 +49,6 @@ container {
 
 .desc {
     font-size: 14px;
-    margin-top: -31px;
 }
 
 .miracle_card_area {
