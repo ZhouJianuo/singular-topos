@@ -24,6 +24,7 @@ h3 .subtitle {
     width: 100%;
     margin: 0 auto;
     font-style: normal;
+    margin-bottom: -20px;
 }
 
 h3 a {
