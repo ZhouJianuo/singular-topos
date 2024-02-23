@@ -263,7 +263,7 @@ $(function() {
         didyouknow_()
     })
 
-    $('body').on('click', '.subtitle', function () {
+    $('body').on('click', '._subtitle', function () {
         IS_SW += 1
         if (IS_SW % 4 == 1) {
             $('body').css('font-family', "'FW', sans-serif")

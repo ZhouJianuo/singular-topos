@@ -6,12 +6,6 @@ $(function () {
     var selected_ver = ""
     var cur_group = 0
 
-    var txt = {
-        "CH": "总成就数",
-        "EN": "Total Count",
-        "RU": "Общее Количество"
-    }
-
     $('.tls' + lang).css("color", "#df903b");
     $('h3 .title').html(computer_.MiscText.Ach_Title[lang] + "<color style='font-size: 0.5em;'><br><b>" + VER_GI + "</b></color>");
     $('h3 .subtitle').html(computer_.MiscText.Subtitle[lang]);
@@ -22,7 +16,10 @@ $(function () {
         if (lang == 'EN') $("a[data-id='CN']").click()
     });
 
-    begin()
+    let script_computer = document.createElement('script')
+    script_computer.src = '/gi/' + lang + '/ach.js'
+    document.head.append(script_computer)
+    script_computer.onload = begin
 
     function begin() {
 
@@ -32,12 +29,12 @@ $(function () {
             div: [{
                 h2: function () {
                     var num = _AchievementData[0].Data.TotalNum
-                    return txt[lang] + " (" + verlist[verlist.length - 1].ID + ")" + (lang == "CH" ? "：" : ": ") + "<color style='color:#FF0000;'>" + num + '</color>'
+                    return computer_.MiscText.Ach_Total[lang2] + " (" + verlist[verlist.length - 1].ID + ")" + (lang == "CH" ? "：" : ": ") + "<color style='color:#FF0000;'>" + num + '</color>'
                 }
             }, {
                 h2: function () {
                     var num = _AchievementData[0].Data.TotalNumPre
-                    return txt[lang] + " (" + verlist[verlist.length - 2].ID + ")" + (lang == "CH" ? "：" : ": ") + "<color style='color:#FF0000;'>" + num + '</color>'
+                    return computer_.MiscText.Ach_Total[lang2] + " (" + verlist[verlist.length - 2].ID + ")" + (lang == "CH" ? "：" : ": ") + "<color style='color:#FF0000;'>" + num + '</color>'
                 }
             }, {
                 div: {
@@ -101,7 +98,7 @@ $(function () {
                                     template: {
                                         tr: [
                                             {
-                                                td: `[[Name/${lang}]]`,
+                                                td: `[[Name]]`,
                                                 style: {
                                                     'text-align': 'center'
                                                 }
@@ -123,7 +120,7 @@ $(function () {
                                             'cursor': 'pointer',
                                         },
                                         click: function (p) {
-                                            popAch(p.org_data.Name[lang], p.org_data._id)
+                                            popAch(p.org_data.Name, p.org_data._id)
                                         },
                                         a: {
                                             'data-id': 't_[[_id]]'
@@ -164,7 +161,7 @@ $(function () {
                 section: function (d) {
                     _AchievementData[0].Data.Vers.forEach(function (me, ind) {
                         $(d.container).render({
-                            schedule: me.Name[lang],
+                            schedule: me.Name,
                             a: {
                                 'data-id': me.ID,
                                 'class': function () {
@@ -217,7 +214,7 @@ $(function () {
                                                 }
                                             },
                                             {
-                                                td: '<b>' + ach.Name[lang] + '</b><br>' + ach.Desc[lang]
+                                                td: '<b>' + ach.Name + '</b><br>' + ach.Desc
                                             },
                                             {
                                                 td: ach.Hidden ? "✔" : "",

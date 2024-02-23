@@ -1,13 +1,5 @@
 extends _
 block head
-    script(src="/javascripts/fiction.js")
-    script(src="/data/Kingdoms.js")
-    script(src="/data/LevelCurves.js")
-    script(src="/data/Monster.js")
-    script(src="/data/MonsterSkill.js")
-    script(src="/data/Fiction.js")
-    script(src="/javascripts/txt.js")
-    script(src="/plugins/echarts.min.js")
     link(rel="stylesheet", href="/stylesheets/fiction.css")
 block content
     input(type="hidden" id="LANG" value=lang)
@@ -20,3 +12,7 @@ block content
             em.links 
             em.subtitle
             em.lang
+    script(src="/javascripts/sr_lang.js")
+    script(src="/javascripts/txt.js")
+    script(src="/javascripts/fiction.js")
+    script(src="/plugins/echarts.min.js")

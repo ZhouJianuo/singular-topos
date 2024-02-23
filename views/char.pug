@@ -1,8 +1,5 @@
 extends _
 block head
-    script(src="/javascripts/char.js")
-    script(src="/javascripts/txt.js")
-    script(src="/data/Avatar.js")
     link(rel="stylesheet", href="/stylesheets/char.css")
 block content
     input(type="hidden" id="LANG" value=lang)
@@ -14,3 +11,6 @@ block content
             em.links 
             em.subtitle
             em.lang
+    script(src="/javascripts/sr_lang.js")
+    script(src="/javascripts/txt.js")
+    script(src="/javascripts/char.js")

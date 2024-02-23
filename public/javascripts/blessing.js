@@ -1,24 +1,5 @@
 $(function () {
 
-    var _lang = 0
-    var DATE = new Date()
-    document.cookie.split(";").forEach(function (c) { 
-        if ((c.includes('lang=')) && !(c.includes('session'))) {
-            _lang = c.substring(c.indexOf('lang=') + 5, c.indexOf('lang=') + 7)
-        }
-    });
-
-    var lang_ = $('#LANG').val()
-    if (lang_ == 'RU') {
-        lang_ = 'EN'
-    }
-    if (lang_) {
-        var lang = lang_
-        document.cookie = 'lang=' + lang_ + ';expires=' + new Date(DATE.getTime() + 8640000000).toUTCString() + ';path=/'
-    } else {
-        var lang = (_lang === 'CH') ? 'CH' : 'EN';
-    }
-
     var imgpre = $('#IMGPRE').val()
 
     if (lang == 'CH') document.title = '玉衡杯数据库'
@@ -32,84 +13,91 @@ $(function () {
     $('h3 .lang').html(txt.Lang[lang])
 
     $('body').on('click', '.links', function () {
-        popLinks(lang)
+        popLinks(lang2)
     })
 
-    var cur_star = 1
-    var cur_path = _blessingtypes[_blessingtypes.length - 1]._id
-    var ml = 1
+    let script_computer = document.createElement('script')
+    script_computer.src = '/data/' + lang + '/Blessing.js'
+    document.head.append(script_computer)
+    script_computer.onload = begin
 
-    $('container').render({
-        template: {
-            div: [
-                {
-                    section: {
-                        schedule: {
-                            img: function (k) {
-                                return imgpre + `images/Paths/` + k.data.Name.EN + `.png`
+    function begin() {
+        cur_star = 1
+        cur_path = _blessingtypes[_blessingtypes.length - 1]._id
+        ml = 1
+
+        $('container').render({
+            template: {
+                div: [
+                    {
+                        section: {
+                            schedule: {
+                                img: function (k) {
+                                    return imgpre + `images/Paths/` + k.data.Icon
+                                }
+                            },
+                            data: _blessingtypes,
+                            event: {
+                                click: function (d) {
+                                    if ($(d.sender).hasClass('active')) {
+                                        return;
+                                    }
+                                    $(d.sender).addClass('active').siblings('schedule').removeClass('active');
+                                    cur_path = d.org_data._id
+                                    blessingRender();
+                                }
                             }
                         },
-                        data: _blessingtypes,
-                        event: {
-                            click: function (d) {
-                                if ($(d.sender).hasClass('active')) {
-                                    return;
-                                }
-                                $(d.sender).addClass('active').siblings('schedule').removeClass('active');
-                                cur_path = d.org_data._id
-                                blessingRender();
-                            }
+                        class: 'path'
+                    },
+                    {
+                        hr: '',
+                        style: {
+                            'margin-bottom': '0px'
                         }
                     },
-                    class: 'path'
-                },
-                {
-                    hr: '',
-                    style: {
-                        'margin-bottom': '0px'
-                    }
-                },
-                {
-                    section: [
-                        {
-                            schedule: '★',
-                            a: {
-                                'data-id': 1
+                    {
+                        section: [
+                            {
+                                schedule: '★',
+                                a: {
+                                    'data-id': 1
+                                },
+                                class: 'active'
                             },
-                            class: 'active'
-                        },
-                        {
-                            schedule: '★★',
-                            a: {
-                                'data-id': 2
+                            {
+                                schedule: '★★',
+                                a: {
+                                    'data-id': 2
+                                }
+                            },
+                            {
+                                schedule: '★★★',
+                                a: {
+                                    'data-id': 3
+                                }
                             }
-                        },
-                        {
-                            schedule: '★★★',
-                            a: {
-                                'data-id': 3
-                            }
+                        ],
+                        class: 'star'
+                    },
+                    {
+                        hr: '',
+                        style: {
+                            'margin-bottom': '0px'
                         }
-                    ],
-                    class: 'star'
-                },
-                {
-                    hr: '',
-                    style: {
-                        'margin-bottom': '0px'
+                    },
+                    {
+                        div: [],
+                        class: 'blessing_card_area'
                     }
-                },
-                {
-                    div: [],
-                    class: 'blessing_card_area'
-                }
-            ],
-            class: 'content'
-        }
-    })
+                ],
+                class: 'content'
+            }
+        })
 
-    $('.path schedule:last-child').addClass('active')
-    blessingRender()
+        $('.path schedule:last-child').addClass('active')
+        blessingRender()
+    }
 
     $('body').on('click', '.star schedule', function () {
         if ($(this).hasClass('active')) {
@@ -132,7 +120,7 @@ $(function () {
                                 class: 'icon'
                             },
                             {
-                                p: t.Name[lang],
+                                p: t.Name,
                                 class: 'name'
                             },
                             {
@@ -180,7 +168,7 @@ $(function () {
     function conc(l) {
         out = ''
         l.forEach(function (t) {
-            out += t[lang] + "<div style='height:10px;'></div>"
+            out += t + "<div style='height:10px;'></div>"
         })
         return out
     }
@@ -188,7 +176,7 @@ $(function () {
     function effc(l) {
         out = ''
         l.forEach(function (t) {
-            out += '<b>' + _blessingextra[t].Name[lang] + '</b><br>' + _blessingextra[t].Desc[lang] + "<div style='height:10px;'></div>"
+            out += '<b>' + _blessingextra[t].Name + '</b><br>' + _blessingextra[t].Desc + "<div style='height:10px;'></div>"
         })
         return out
     }
@@ -243,7 +231,7 @@ $(function () {
         }
     })
 
-    $('body').on('click', '.subtitle', function () {
+    $('body').on('click', '._subtitle', function () {
         IS_SW += 1
         if (IS_SW % 4 == 1) {
             $('body').css('font-family', "'FW', sans-serif")

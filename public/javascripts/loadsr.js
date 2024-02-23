@@ -1,24 +1,5 @@
 $(function () {
 
-    var _lang = 0
-    var DATE = new Date()
-    document.cookie.split(";").forEach(function (c) { 
-        if ((c.includes('lang=')) && !(c.includes('session'))) {
-            _lang = c.substring(c.indexOf('lang=') + 5, c.indexOf('lang=') + 7)
-        }
-    });
-
-    var lang_ = $('#LANG').val()
-    if (lang_ == 'RU') {
-        lang_ = 'EN'
-    }
-    if (lang_) {
-        var lang = lang_
-        document.cookie = 'lang=' + lang_ + ';expires=' + new Date(DATE.getTime() + 8640000000).toUTCString() + ';path=/'
-    } else {
-        var lang = (_lang === 'CH') ? 'CH' : 'EN';
-    }
-
     var imgpre = $('#IMGPRE').val()
 
     if (lang == 'CH') document.title = '玉衡杯数据库'
@@ -32,34 +13,41 @@ $(function () {
     $('h3 .lang').html(txt.Lang[lang])
 
     $('body').on('click', '.links', function () {
-        popLinks(lang)
+        popLinks(lang2)
     })
 
     var cur_ver = 'All'
 
-    $('container').render({
-        div: [{
-            section: function (d) {
-                _option[lang].forEach(function (me, ind) {
-                    $(d.container).render({
-                        schedule: me,
-                        a: {
-                            'data-id': me,
-                            'class': ind == 0 ? 'active' : ''
-                        }
+    let script_computer = document.createElement('script')
+    script_computer.src = '/data/' + lang + '/LoadingDesc.js'
+    document.head.append(script_computer)
+    script_computer.onload = begin
+
+    function begin() {
+        $('container').render({
+            div: [{
+                section: function (d) {
+                    _option.forEach(function (me, ind) {
+                        $(d.container).render({
+                            schedule: me,
+                            a: {
+                                'data-id': me,
+                                'class': ind == 0 ? 'active' : ''
+                            }
+                        })
                     })
-                })
-            },
-            class: 'load-ver'
-        }, {
-            div: achTable(),
-            style: {
-                'overflow-x': 'scroll',
-            },
-            class: 'ach-table'
-        }],
-        class: 'content'
-    })
+                },
+                class: 'load-ver'
+            }, {
+                div: achTable(),
+                style: {
+                    'overflow-x': 'scroll',
+                },
+                class: 'ach-table'
+            }],
+            class: 'content'
+        })
+    }
 
     function achTable() {
 
@@ -74,7 +62,7 @@ $(function () {
                                     template: {
                                         tr: [
                                             {
-                                                td: '<b>' + ld.Name[lang] + '</b><br>' + ld.Desc[lang],
+                                                td: '<b>' + ld.Name + '</b><br>' + ld.Desc,
                                                 style: {
                                                     'text-align': 'center'
                                                 }
@@ -104,7 +92,7 @@ $(function () {
         $('.ach-table').empty().render(achTable())
     });
 
-    $('body').on('click', '.subtitle', function () {
+    $('body').on('click', '._subtitle', function () {
         IS_SW += 1
         if (IS_SW % 4 == 1) {
             $('body').css('font-family', "'FW', sans-serif")

@@ -1,24 +1,5 @@
 $(function () {
 
-    var _lang = 0
-    var DATE = new Date()
-    document.cookie.split(";").forEach(function (c) { 
-        if ((c.includes('lang=')) && !(c.includes('session'))) {
-            _lang = c.substring(c.indexOf('lang=') + 5, c.indexOf('lang=') + 7)
-        }
-    });
-
-    var lang_ = $('#LANG').val()
-    if (lang_ == 'RU') {
-        lang_ = 'EN'
-    }
-    if (lang_) {
-        var lang = lang_
-        document.cookie = 'lang=' + lang_ + ';expires=' + new Date(DATE.getTime() + 8640000000).toUTCString() + ';path=/'
-    } else {
-        var lang = (_lang === 'CH') ? 'CH' : 'EN';
-    }
-
     var imgpre = $('#IMGPRE').val()
 
     if (lang == 'CH') document.title = '玉衡杯数据库'
@@ -33,7 +14,7 @@ $(function () {
     $('h3 .lang').html(txt.Lang[lang])
 
     $('body').on('click', '.links', function() {
-        popLinks(lang)
+        popLinks(lang2)
     })
 
     var EG = $('#EG').val() ? parseInt($('#EG').val()) : 1
@@ -42,68 +23,86 @@ $(function () {
     var LV = $('#LEVEL').val() ? parseInt($('#LEVEL').val()) : 95
     refreshStats()
     var IS_DMG = 0
+    if ($('#DEF').val()) IS_DMG = 1
     var cm = {}
     var skill_phase = 0
 
     var show_sch = 0
 
-    if ($('#MONSTER').val() && (_monsterindex[$('#MONSTER').val()] != undefined)) popMons(_monsterindex[$('#MONSTER').val()])
-    if ($('#MONSTERID').val() && (_monsterindex[$('#MONSTERID').val()] != undefined)) popMons(_monsterindex[$('#MONSTERID').val()])
+    let script_computer = document.createElement('script')
+    script_computer.src = '/data/' + lang + '/Monster.js'
+    document.head.append(script_computer)
+    script_computer.onload = begin
 
-    $('container').render({
-        template: {
-            div: [
-                {
-                    p: '+',
-                    style: {
-                        'font-weight': 'bold',
-                        'font-size': '28px',
-                        'text-align': 'center',
-                        margin: '10px auto -10px',
-                        cursor: 'pointer'
-                    },
-                    class: 'toggle'
-                },
-                {
-                    section: {
-                        schedule: `[[Name/${lang}]]`,
-                        data: _kingdoms,
-                        a: {
-                            class: function (d) {
-                                return ((d.data._id == 9999) ? 'active' : '') + ((d.data._id == 9999 || _focus.includes(d.data._id)) ? '' : ' shh')
-                            }
+    function begin() {
+
+        m_s = 0
+
+        let script_2 = document.createElement('script')
+        script_2.src = '/data/' + lang + '/MonsterSkill.js'
+        document.head.append(script_2)
+        script_2.onload = function () {
+            m_s = 1
+        }
+
+        if ($('#MONSTER').val() && (_monsterindex[$('#MONSTER').val()] != undefined)) popMons(_monsterindex[$('#MONSTER').val()])
+        if ($('#MONSTERID').val() && (_monsterindex[$('#MONSTERID').val()] != undefined)) popMons(_monsterindex[$('#MONSTERID').val()])
+
+        $('container').render({
+            template: {
+                div: [
+                    {
+                        p: '+',
+                        style: {
+                            'font-weight': 'bold',
+                            'font-size': '28px',
+                            'text-align': 'center',
+                            margin: '10px auto -10px',
+                            cursor: 'pointer'
                         },
-                        event: {
-                            click: function (d) {
-                                if ($(d.sender).hasClass('active')) {
-                                    return;
+                        class: 'toggle'
+                    },
+                    {
+                        section: {
+                            schedule: `[[Name]]`,
+                            data: _kingdoms,
+                            a: {
+                                class: function (d) {
+                                    return ((d.data._id == 9999) ? 'active' : '') + ((d.data._id == 9999 || _focus.includes(d.data._id)) ? '' : ' shh')
                                 }
-                                $(d.sender).addClass('active').siblings('schedule').removeClass('active');
-                                monsterRender(d.org_data._id);
+                            },
+                            event: {
+                                click: function (d) {
+                                    if ($(d.sender).hasClass('active')) {
+                                        return;
+                                    }
+                                    $(d.sender).addClass('active').siblings('schedule').removeClass('active');
+                                    monsterRender(d.org_data._id);
+                                }
                             }
                         }
+                    },
+                    {
+                        hr: '',
+                        style: {
+                            'margin-bottom': '0px'
+                        }
+                    },
+                    {
+                        div: [],
+                        class: 'monster_card_area'
                     }
-                },
-                {
-                    hr: '',
-                    style: {
-                        'margin-bottom': '0px'
-                    }
-                },
-                {
-                    div: [],
-                    class: 'monster_card_area'
-                }
-            ],
-            class: 'content'
+                ],
+                class: 'content'
+            }
+        })
+
+        if (!show_sch) {
+            $('.shh').hide()
         }
-    })
 
-    if (!show_sch) {
-        $('.shh').hide()
+        monsterRender(9999)
     }
-
-    monsterRender(9999)
 
     function monsterRender(kid) {
         $('.monster_card_area').empty()
@@ -111,11 +110,11 @@ $(function () {
             if (kid == 1000) {
                 show = true
             } else if (kid == 1001) {
-                show = t.Name.EN.includes('Bug')
+                show = t.IsBug
             } else if (kid == 1002) {
-                show = t.Name.EN.includes('Complete')
+                show = t.IsComplete
             } else if (kid == 1003) {
-                show = t.Name.EN.includes('Illusion')
+                show = t.IsIllusion
             } else if (kid == 9999) {
                 show = t.New
             } else if (kid == 7000) {
@@ -130,7 +129,7 @@ $(function () {
                     template: {
                         div: [
                             {
-                                p: t.Name[lang],
+                                p: t.Name,
                                 style: {
                                     'font-weight': 'bold'
                                 },
@@ -200,9 +199,24 @@ $(function () {
     }
 
     function popMons(ind) {
+        if (m_s) {
+            popMons_2(ind)
+        } else {
+            $('.lt').show()
+            var si = setInterval(function () {
+                if (m_s) {
+                    $('.lt').hide()
+                    popMons_2(ind)
+                    clearInterval(si)
+                }
+            }, 200)
+        }
+    }
+
+    function popMons_2(ind) {
         var me = _monster[ind]
         poplayer({
-            header: me.Name[lang] + txt.Affix[lang],
+            header: me.Name + txt.Affix[lang],
             width: '100%',
             template: [
                 {
@@ -220,7 +234,7 @@ $(function () {
                             })
                             txt.Mon_Head.forEach(function (t, i) {
                                 $(k.container).render({
-                                    schedule: t[lang],
+                                    schedule: t,
                                     class: 'mon_head_option' + (i ? '' : ' active'),
                                     a: {
                                         'data-id': i + 1,
@@ -300,7 +314,7 @@ $(function () {
                 {
                     div: [
                         {
-                            div: [cur_mon.Name[lang], {
+                            div: [cur_mon.Name, {
                                 span: {
                                     img: function (k) {
                                         return imgpre + 'images/Element/' + k.data + '.png'
@@ -340,7 +354,7 @@ $(function () {
                                     }
                                 },
                                 {
-                                    p: cur_mon.Desc[lang],
+                                    p: cur_mon.Desc,
                                     style: {
                                         'margin': '0px',
                                     }
@@ -505,7 +519,7 @@ $(function () {
                                                                 }
                                                             },
                                                             {
-                                                                td: e.Name[lang]
+                                                                td: e.Name
                                                             },
                                                             {
                                                                 td: res,
@@ -617,7 +631,7 @@ $(function () {
                     div: [
                         {
                             div: [
-                                (skill.Threat ? "<color style='color:#f29e38;font-weight:normal;'>⚠ </color>" : '') + skill.Name[lang],
+                                (skill.Threat ? "<color style='color:#f29e38;font-weight:normal;'>⚠ </color>" : '') + skill.Name,
                                 {
                                     span: [
                                         {
@@ -683,7 +697,7 @@ $(function () {
                                     var s4 = '<color style="color:#' + COL +  ';"><b>' + (v4 * 100).toFixed(1).replace('.0', '') + '%</b></color>'
                                     var s5 = '<color style="color:#' + COL +  ';"><b>' + (v5 * 100).toFixed(1).replace('.0', '') + '%</b></color>'
                                 }
-                                return skill.Desc[lang].replaceAll('<1>', s1).replaceAll('<2>', s2).replaceAll('<3>', s3).replaceAll('<4>', s4).replaceAll('<5>', s5)
+                                return skill.Desc.replaceAll('<1>', s1).replaceAll('<2>', s2).replaceAll('<3>', s3).replaceAll('<4>', s4).replaceAll('<5>', s5)
                             },
                             class: 'a_section_content'
                         }
@@ -1010,7 +1024,7 @@ $(function () {
                 template: {
                     div: [
                         {
-                            div: status.Name[lang] + typedesc,
+                            div: status.Name + typedesc,
                             class: 'a_section_head'
                         },
                         {
@@ -1025,7 +1039,7 @@ $(function () {
                                     }
                                 },
                                 {
-                                    span: status.Desc[lang]
+                                    span: status.Desc
                                 }
                             ],
                             class: 'a_section_content'
@@ -1037,7 +1051,7 @@ $(function () {
         })
     }
 
-    $('body').on('click', '.subtitle', function () {
+    $('body').on('click', '._subtitle', function () {
         IS_SW += 1
         if (IS_SW % 4 == 1) {
             $('body').css('font-family', "'FW', sans-serif")

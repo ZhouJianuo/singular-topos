@@ -18,7 +18,10 @@ $(function () {
     $('h3 .subtitle').html(computer_.MiscText.Subtitle[lang])
     $('h3 .tlsub').html(computer_.MiscText.Translate_Computer[lang2])
 
-    begin1()
+    let script_computer = document.createElement('script')
+    script_computer.src = '/gi/' + lang + '/computer.js'
+    document.head.append(script_computer)
+    script_computer.onload = begin1
 
     function begin1() {
 
@@ -39,7 +42,7 @@ $(function () {
             data: _Kingdoms,
             template: {
                 kingdom: function (d) {
-                    return d.data.Name[lang]
+                    return d.data.Name
                 },
                 a: {
                     'data-id': '[[ID]]', class: 'kingdom_[[ID]]', 'data-hd': function (k) {
@@ -124,9 +127,9 @@ $(function () {
                     div: [{
                         h5: function (d) {
                             if (d.data.UseCustomColorName && !d.data.RevertName) {
-                                return _MonsterCustomColorNameConfig[ele.attr('data-id')].Name[lang]
+                                return _MonsterCustomColorNameConfig[ele.attr('data-id')].Name
                             }
-                            return d.data.Name[lang]
+                            return d.data.Name
                         },
                         style: {
                             color: function (d) {
@@ -135,7 +138,7 @@ $(function () {
                         }
                     }, {
                         p: {
-                            span: `[[${lang}]]`,
+                            span: `[[.]]`,
                         },
                         datapath: 'Title',
                         class: 'title'
@@ -211,7 +214,7 @@ $(function () {
                                     width: '80%',
                                     template: {
                                         div: function (d) {
-                                            $(d.container).html(p.org_data.Tutorial[lang])
+                                            $(d.container).html(p.org_data.Tutorial)
                                         },
                                         style: {
                                             'white-space': 'pre-wrap',
@@ -331,7 +334,7 @@ $(function () {
                                                     tbody: [{
                                                         tr: [
                                                             {
-                                                                td: `[[Name/${lang}]]`
+                                                                td: `[[Name]]`
                                                             },
                                                             {
                                                                 td: {
@@ -394,7 +397,7 @@ $(function () {
                                             tbody: [{
                                                 tr: [{
                                                     td: function (d) {
-                                                        return _MonsterDropTypes[d.data.Type][lang]
+                                                        return _MonsterDropTypes[d.data.Type].Text
                                                     }
                                                 }, function (d) {
                                                     $(d.container).render({
@@ -454,7 +457,7 @@ $(function () {
                             }, {
                                 th: function (d) {
                                     var s = d.data.State;
-                                    return _RESStateDescTextConfig[s] && _RESStateDescTextConfig[s].Text[lang] || "状态未知"
+                                    return _RESStateDescTextConfig[s] && _RESStateDescTextConfig[s].Text || "状态未知"
                                 },
                                 datapath: 'RESState',
                                 when: function (d) {
@@ -463,7 +466,7 @@ $(function () {
                             }, {
                                 th: function (d) {
                                     var s = d.data.State;
-                                    return _RESStateDescTextConfig[s] && _RESStateDescTextConfig[s].Text[lang] || "变化未知"
+                                    return _RESStateDescTextConfig[s] && _RESStateDescTextConfig[s].Text || "变化未知"
                                 },
                                 datapath: 'RESModify',
                                 when: function (d) {
@@ -578,7 +581,7 @@ $(function () {
                                                 $(d.container).render({
                                                     data: p.data.RESModify,
                                                     template: {
-                                                        td: `[[Show/${lang}]]`,
+                                                        td: `[[Show]]`,
                                                         a: {
                                                             rowspan: computer_.RESTypeConfig.length
                                                         },
@@ -602,7 +605,7 @@ $(function () {
                                                 span: computer_.MiscText.Computer_ScaleHP_Text[lang2],
                                                 style: {
                                                     margin: '5px 3px 5px 5px',
-                                                    'font-size': { "CH": '15px', "EN": '14px' }[lang]
+                                                    'font-size': (lang == 'CH') ? '15px': '14px'
                                                 }
                                             },
                                             {
@@ -788,7 +791,7 @@ $(function () {
                 }],
                 class: 'mon_table'
             }, {
-                p: `[[Desc/${lang}]]`,
+                p: `[[Desc]]`,
                 class: 'mon_intro',
                 style: {
                     'line-height': 2
@@ -814,9 +817,9 @@ $(function () {
     })
     function monsterRenderPre(p, cd) {
         $('.class_monster').empty()
-        if (cur_kingdom.Disorder && cur_kingdom.Disorder[lang]) {
+        if (cur_kingdom.Disorder && cur_kingdom.Disorder) {
             $('.class_monster').render({
-                p: cur_kingdom.Disorder[lang],
+                p: cur_kingdom.Disorder,
                 class: 'disorder',
             })
         }
@@ -825,7 +828,7 @@ $(function () {
             template: [{
                 category: [{
                     text: function (d) {
-                        return d.data.Name[lang]
+                        return d.data.Name
                     }
                 }, {
                     monster: function (l) {
@@ -844,10 +847,10 @@ $(function () {
                                                     img: imgpre + 'homdgcat-res/monster/' + choose_icon + '.png',
                                                 }, function (d) {
                                                     if (d.data.UseCustomColorName) {
-                                                        return _MonsterCustomColorNameConfig[d.data._id].Name[lang]
+                                                        return _MonsterCustomColorNameConfig[d.data._id].Name
                                                     } else {
                                                         var mon_color = computer_.TextColorConfig[d.data.Color ? d.data.Color : "None"]
-                                                        return "<color style='color:" + mon_color + ";'>" + d.data.Name[lang] + "</color>"
+                                                        return "<color style='color:" + mon_color + ";'>" + d.data.Name + "</color>"
                                                     }
                                                 }]
                                             })
@@ -864,10 +867,10 @@ $(function () {
                                                             {
                                                                 span: function (d) {
                                                                     if (d.data.UseCustomColorName) {
-                                                                        return _MonsterCustomColorNameConfig[d.data._id].Name[lang]
+                                                                        return _MonsterCustomColorNameConfig[d.data._id].Name
                                                                     } else {
                                                                         var mon_color = computer_.TextColorConfig[d.data.Color ? d.data.Color : "None"]
-                                                                        return "<color style='color:" + mon_color + ";'>" + d.data.Name[lang] + "</color>"
+                                                                        return "<color style='color:" + mon_color + ";'>" + d.data.Name + "</color>"
                                                                     }
                                                                 },
                                                                 class: 'monname'
@@ -1007,18 +1010,13 @@ $(function () {
         return rescoeff(0.1 - red) / rescoeff(base - red)
     }
 
-    function Verify() {
-        VERIFY = parseInt(Math.random() * 10000)
-        $('.verify_show').html(computer_.MiscText.Verify[lang] + VERIFY)
-    }
-
     $("body").on("click", ".title", function () {
         moreless += 1
         if (moreless % 2 == 1) {
             $('kingdom[data-hd=0]').hide()
             $('kingdom[data-hd=1]').css('width', '46%')
             $('h3 .subtitle').html(computer_.MiscText.Subtitle_[lang])
-            $('h3 .title').html(computer_.MiscText.ComputerTitle_[lang2] + _Kingdoms[14].Name.EN.replace(' F11', ''))
+            $('h3 .title').html(computer_.MiscText.ComputerTitle_[lang2] + _Kingdoms[14].Name.replace(' F11', '').replace(' 11层', ''))
             $('h3 .subtitle').css('font-size', '18px')
             $('.kingdom').css('padding-bottom', '0px')
             $('h3 .links').html("<p style='margin-top:13px;color:#df903b;cursor:pointer;'><b>[ " + ((lang == 'CH') ? 'mons.wiki / homdgcat.wiki' : 'en.mons.wiki / en.homdgcat.wiki') + " ]</b></p>")

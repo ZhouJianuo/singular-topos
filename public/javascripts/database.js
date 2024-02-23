@@ -17,11 +17,13 @@ $(function () {
     var showtop = 1
     var show_arena = 0
 
-    DPSDict = dpsdict(_SpiralAbyssDPSData)
-    begin1()
+    let script_computer = document.createElement('script')
+    script_computer.src = '/gi/' + lang + '/database.js'
+    document.head.append(script_computer)
+    script_computer.onload = begin1
 
     function begin1() {
-
+        DPSDict = dpsdict(_SpiralAbyssDPSData)
         currentSpiralAbyss = _SpiralAbyssSchedule[0].Name;
         var non_break = 1;
         var now;
@@ -49,7 +51,7 @@ $(function () {
                             data: computer_.SpiralAbyssGenerationConfig,
                             template: {
                                 schedule: function (p) {
-                                    return p.data.Name[lang]
+                                    return p.data.Name
                                 },
                                 a: {
                                     class: function (d) {
@@ -69,7 +71,7 @@ $(function () {
                             data: _SpiralAbyssSchedule,
                             template: {
                                 schedule: function (d) {
-                                    if (d.data.Show) return d.data.Show[lang].replace('惊喜 ', '').replace('Surprise ', '')
+                                    if (d.data.Show) return d.data.Show.replace('惊喜 ', '').replace('Surprise ', '')
                                     return d.data.Name
                                 },
                                 a: {
@@ -127,7 +129,7 @@ $(function () {
 
         var sData = JSON.parse($('schedule.active').attr('data-json'));
         cur_schedule_ver = sData.Name
-        cur_schedule_name = sData.Show ? (sData.Show[lang] ? sData.Show[lang] : cur_schedule_ver) : cur_schedule_ver
+        cur_schedule_name = sData.Show ? (sData.Show ? sData.Show : cur_schedule_ver) : cur_schedule_ver
         cur_schedule_id = sData.Generation
         var Phases = sData.Phases;
         var Blessings = sData.Blessings;
@@ -229,7 +231,7 @@ $(function () {
         $('.result').empty().render({
             template: [{
                 h4: [{
-                    span: sData.Show ? sData.Show[lang] : sData.Name
+                    span: sData.Show ? sData.Show : sData.Name
                 }, {
                     em: sData.OpenTime
                 }, {
@@ -309,13 +311,13 @@ $(function () {
                         data: p_b,
                         template: {
                             div: [{
-                                p: `<b>[[p_name]] - [[b/Name/${lang}]]</p>`
+                                p: `<b>[[p_name]] - [[b/Name]]</p>`
                             }, {
-                                p: `[[b/Desc/${lang}]]`
+                                p: `[[b/Desc]]`
                             }, {
                                 ul: {
                                     li: [{
-                                        p: `[[ShockWaveDesc/${lang}]]`
+                                        p: `[[ShockWaveDesc}]]`
                                     }, {
                                         ul: {
                                             li: {
@@ -366,8 +368,8 @@ $(function () {
                                     }
                                     var option = {
                                         title: {
-                                            text: SpiralAbyssDPSData.Title[lang],
-                                            subtext: SpiralAbyssDPSData.SubTitle[lang],
+                                            text: SpiralAbyssDPSData.Title,
+                                            subtext: SpiralAbyssDPSData.SubTitle,
                                             left: 'center',
                                             textStyle: {
                                                 color: '#000'
@@ -452,7 +454,7 @@ $(function () {
         $('.a_floor').empty().render({
             data: _SpiralAbyssFloorConfig[index],
             template: [{
-                h5: `[[Disorder/${lang}]]`
+                h5: `[[Disorder]]`
             }, {
                 ul: function (f) {
                     f.data.Chambers.forEach(function (ddd) {
@@ -533,7 +535,7 @@ $(function () {
                                                             },
                                                             {
                                                                 i: function (d) {
-                                                                    return computer_.MiscText.Abyss_Show[lang] + "<br><br>" + _SpiralAbyssGadgetDescConfig[d.data.Gadgets[0]].Hover[lang]
+                                                                    return computer_.MiscText.Abyss_Show[lang] + "<br><br>" + _SpiralAbyssGadgetDescConfig[d.data.Gadgets[0]].Hover
                                                                 },
                                                                 when: function (d) {
                                                                     return _SpiralAbyssGadgetDescConfig[d.data.Gadgets[0]].Hover
@@ -555,12 +557,12 @@ $(function () {
                                                         return d.data.Gadgets && d.data.Gadgets.length && d.data.Gadgets[0]
                                                     },
                                                     click: function (d) {
-                                                        var hover = _SpiralAbyssGadgetDescConfig[d.org_data.Gadgets[0]].Hover[lang]
+                                                        var hover = _SpiralAbyssGadgetDescConfig[d.org_data.Gadgets[0]].Hover
                                                         if (!hover) {
                                                             return;
                                                         }
                                                         poplayer({
-                                                            header: _SpiralAbyssGadgetDescConfig[d.org_data.Gadgets[0]].Show.Text[lang],
+                                                            header: _SpiralAbyssGadgetDescConfig[d.org_data.Gadgets[0]].Show.Text,
                                                             width: '50%',
                                                             height: '400px',
                                                             template: {
@@ -576,7 +578,7 @@ $(function () {
                                                 ul: {
                                                     li: function (p) {
                                                         var weav = _SpiralAbyssWaveDescConfig[p.data.WaveDesc];
-                                                        var extraDesc = p.data.ExtraDesc && p.data.ExtraDesc[lang];
+                                                        var extraDesc = p.data.ExtraDesc && p.data.ExtraDesc;
                                                         var monsters = p.data.Monsters;
                                                         var ver_list = p.data.Vers;
                                                         if (!ver_list) {
@@ -591,10 +593,10 @@ $(function () {
                                                             data: { monsters: monsters },
                                                             template: [{
                                                                 div: [{
-                                                                    span: [weav.Show.Text[lang], {
-                                                                        i: weav.Hover && weav.Hover[lang],
+                                                                    span: [weav.Show.Text, {
+                                                                        i: weav.Hover && weav.Hover,
                                                                         when: function () {
-                                                                            return weav.Hover && weav.Hover[lang]
+                                                                            return weav.Hover && weav.Hover
                                                                         },
                                                                         width: '240px'
                                                                     }],
@@ -649,12 +651,12 @@ $(function () {
                                                                                                 }
                                                                                             }, function (d) {
                                                                                                 if (nameOverride) {
-                                                                                                    return nameOverride[lang]
+                                                                                                    return nameOverride
                                                                                                 }
                                                                                                 if (d.data.UseCustomColorName) {
-                                                                                                    return _MonsterCustomColorNameConfig[monsterId].Name[lang]
+                                                                                                    return _MonsterCustomColorNameConfig[monsterId].Name
                                                                                                 }
-                                                                                                return d.data.Name[lang]
+                                                                                                return d.data.Name
                                                                                             }],
                                                                                             style: {
                                                                                                 color: function (d) {
@@ -751,10 +753,10 @@ $(function () {
                                                 $(p.container).render({
                                                     div: {
                                                         span: [function (d) {
-                                                            return _SpiralAbyssGadgetDescConfig[d.data.Gadgets[1]].Show.Text[lang]
+                                                            return _SpiralAbyssGadgetDescConfig[d.data.Gadgets[1]].Show.Text
                                                         }, {
                                                             i: function (d) {
-                                                                return computer_.MiscText.Abyss_Show[lang] + "<br><br>" + _SpiralAbyssGadgetDescConfig[d.data.Gadgets[1]].Hover[lang]
+                                                                return computer_.MiscText.Abyss_Show[lang] + "<br><br>" + _SpiralAbyssGadgetDescConfig[d.data.Gadgets[1]].Hover
                                                             },
                                                             when: function (d) {
                                                                 return _SpiralAbyssGadgetDescConfig[d.data.Gadgets[1]].Hover
@@ -775,12 +777,12 @@ $(function () {
                                                         return d.data.Gadgets && d.data.Gadgets.length && d.data.Gadgets[1]
                                                     },
                                                     click: function (d) {
-                                                        var hover = _SpiralAbyssGadgetDescConfig[d.org_data.Gadgets[1]].Hover[lang]
+                                                        var hover = _SpiralAbyssGadgetDescConfig[d.org_data.Gadgets[1]].Hover
                                                         if (!hover) {
                                                             return;
                                                         }
                                                         poplayer({
-                                                            header: _SpiralAbyssGadgetDescConfig[d.org_data.Gadgets[1]].Show.Text[lang],
+                                                            header: _SpiralAbyssGadgetDescConfig[d.org_data.Gadgets[1]].Show.Text,
                                                             width: '50%',
                                                             height: '400px',
                                                             template: {
@@ -796,7 +798,7 @@ $(function () {
                                                 ul: {
                                                     li: function (p) {
                                                         var weav = _SpiralAbyssWaveDescConfig[p.data.WaveDesc];
-                                                        var extraDesc = p.data.ExtraDesc && p.data.ExtraDesc[lang];
+                                                        var extraDesc = p.data.ExtraDesc && p.data.ExtraDesc;
                                                         var monsters = p.data.Monsters;
                                                         var ver_list = p.data.Vers;
                                                         if (!ver_list) {
@@ -811,10 +813,10 @@ $(function () {
                                                             data: { monsters: monsters },
                                                             template: [{
                                                                 div: [{
-                                                                    span: [weav.Show.Text[lang], {
-                                                                        i: weav.Hover && weav.Hover[lang],
+                                                                    span: [weav.Show.Text, {
+                                                                        i: weav.Hover && weav.Hover,
                                                                         when: function () {
-                                                                            return weav.Hover && weav.Hover[lang]
+                                                                            return weav.Hover && weav.Hover
                                                                         },
                                                                         width: '240px'
                                                                     }],
@@ -875,12 +877,12 @@ $(function () {
                                                                                                 }
                                                                                             }, function (d) {
                                                                                                 if (nameOverride) {
-                                                                                                    return nameOverride[lang]
+                                                                                                    return nameOverride
                                                                                                 }
                                                                                                 if (d.data.UseCustomColorName) {
-                                                                                                    return _MonsterCustomColorNameConfig[monsterId].Name[lang]
+                                                                                                    return _MonsterCustomColorNameConfig[monsterId].Name
                                                                                                 }
-                                                                                                return d.data.Name[lang]
+                                                                                                return d.data.Name
                                                                                             }],
                                                                                             style: {
                                                                                                 color: function (d) {
@@ -981,11 +983,11 @@ $(function () {
                                                     div: {
                                                         span: [
                                                             function (d) {
-                                                                return _SpiralAbyssGadgetDescConfig[d.data.Gadgets[0]].Show.Text[lang]
+                                                                return _SpiralAbyssGadgetDescConfig[d.data.Gadgets[0]].Show.Text
                                                             },
                                                             {
                                                                 i: function (d) {
-                                                                    return computer_.MiscText.Abyss_Show[lang] + "<br><br>" + _SpiralAbyssGadgetDescConfig[d.data.Gadgets[0]].Hover[lang]
+                                                                    return computer_.MiscText.Abyss_Show[lang] + "<br><br>" + _SpiralAbyssGadgetDescConfig[d.data.Gadgets[0]].Hover
                                                                 },
                                                                 when: function (d) {
                                                                     return _SpiralAbyssGadgetDescConfig[d.data.Gadgets[0]].Hover
@@ -1009,16 +1011,16 @@ $(function () {
                                                         return d.data.Gadgets && d.data.Gadgets.length && d.data.Gadgets[0]
                                                     },
                                                     click: function (d) {
-                                                        var hover = _SpiralAbyssGadgetDescConfig[d.org_data.Gadgets[0]].Hover[lang]
+                                                        var hover = _SpiralAbyssGadgetDescConfig[d.org_data.Gadgets[0]].Hover
                                                         if (!hover) {
                                                             return;
                                                         }
                                                         poplayer({
-                                                            header: _SpiralAbyssGadgetDescConfig[d.org_data.Gadgets[0]].Show.Text[lang],
+                                                            header: _SpiralAbyssGadgetDescConfig[d.org_data.Gadgets[0]].Show.Text,
                                                             width: '50%',
                                                             height: '400px',
                                                             template: {
-                                                                div: "<span style='font-size:13px'><b>" + computer_.MiscText.Abyss_Show[lang] + "</b></span><br><br>" + hover
+                                                                div: "<span style='font-size:13px'><b>" + computer_.MiscText.Abyss_Show + "</b></span><br><br>" + hover
                                                             },
                                                             class: 'need_header'
                                                         })
@@ -1034,7 +1036,7 @@ $(function () {
                                                 div: {
                                                     div: function (p) {
                                                         var weav = _SpiralAbyssWaveDescConfig[p.data.WaveDesc];
-                                                        var extraDesc = p.data.ExtraDesc && p.data.ExtraDesc[lang];
+                                                        var extraDesc = p.data.ExtraDesc && p.data.ExtraDesc;
                                                         var monsters = p.data.Monsters;
                                                         var ver_list = p.data.Vers;
                                                         if (!ver_list) {
@@ -1053,10 +1055,10 @@ $(function () {
                                                             data: { monsters: monsters },
                                                             template: [{
                                                                 div: [{
-                                                                    span: [w(weav.Show.Text[lang]), {
-                                                                        i: weav.Hover && weav.Hover[lang],
+                                                                    span: [w(weav.Show.Text), {
+                                                                        i: weav.Hover && weav.Hover,
                                                                         when: function () {
-                                                                            return weav.Hover && weav.Hover[lang]
+                                                                            return weav.Hover && weav.Hover
                                                                         },
                                                                         width: '240px',
                                                                         style: {
@@ -1117,10 +1119,10 @@ $(function () {
                                                 $(p.container).render({
                                                     div: {
                                                         span: [function (d) {
-                                                            return _SpiralAbyssGadgetDescConfig[d.data.Gadgets[1]].Show.Text[lang]
+                                                            return _SpiralAbyssGadgetDescConfig[d.data.Gadgets[1]].Show.Text
                                                         }, {
                                                             i: function (d) {
-                                                                return computer_.MiscText.Abyss_Show[lang] + "<br><br>" + _SpiralAbyssGadgetDescConfig[d.data.Gadgets[1]].Hover[lang]
+                                                                return computer_.MiscText.Abyss_Show[lang] + "<br><br>" + _SpiralAbyssGadgetDescConfig[d.data.Gadgets[1]].Hover
                                                             },
                                                             when: function (d) {
                                                                 return _SpiralAbyssGadgetDescConfig[d.data.Gadgets[1]].Hover
@@ -1143,16 +1145,16 @@ $(function () {
                                                         return d.data.Gadgets && d.data.Gadgets.length && d.data.Gadgets[1]
                                                     },
                                                     click: function (d) {
-                                                        var hover = _SpiralAbyssGadgetDescConfig[d.org_data.Gadgets[1]].Hover[lang]
+                                                        var hover = _SpiralAbyssGadgetDescConfig[d.org_data.Gadgets[1]].Hover
                                                         if (!hover) {
                                                             return;
                                                         }
                                                         poplayer({
-                                                            header: _SpiralAbyssGadgetDescConfig[d.org_data.Gadgets[1]].Show.Text[lang],
+                                                            header: _SpiralAbyssGadgetDescConfig[d.org_data.Gadgets[1]].Show.Text,
                                                             width: '50%',
                                                             height: '400px',
                                                             template: {
-                                                                div: "<span style='font-size:13px'><b>" + computer_.MiscText.Abyss_Show[lang] + "</b></span><br><br>" + hover
+                                                                div: "<span style='font-size:13px'><b>" + computer_.MiscText.Abyss_Show + "</b></span><br><br>" + hover
                                                             },
                                                             class: 'need_header'
                                                         })
@@ -1168,7 +1170,7 @@ $(function () {
                                                 div: {
                                                     div: function (p) {
                                                         var weav = _SpiralAbyssWaveDescConfig[p.data.WaveDesc];
-                                                        var extraDesc = p.data.ExtraDesc && p.data.ExtraDesc[lang];
+                                                        var extraDesc = p.data.ExtraDesc && p.data.ExtraDesc;
                                                         var monsters = p.data.Monsters;
                                                         var ver_list = p.data.Vers;
                                                         if (!ver_list) {
@@ -1187,10 +1189,10 @@ $(function () {
                                                             data: { monsters: monsters },
                                                             template: [{
                                                                 div: [{
-                                                                    span: [w(weav.Show.Text[lang]), {
-                                                                        i: weav.Hover && weav.Hover[lang],
+                                                                    span: [w(weav.Show.Text), {
+                                                                        i: weav.Hover && weav.Hover,
                                                                         when: function () {
-                                                                            return weav.Hover && weav.Hover[lang]
+                                                                            return weav.Hover && weav.Hover
                                                                         },
                                                                         width: '240px',
                                                                         style: {
@@ -1276,7 +1278,7 @@ $(function () {
                                             class: 'b_icon'
                                         },
                                         {
-                                            span: `[[LastingTypeDesc/Text/${lang}]]`,
+                                            span: `[[LastingTypeDesc/Text]]`,
                                             style: {
                                                 color: function (d) {
                                                     var color = d.data.LastingTypeDesc.Color || '';
@@ -1284,7 +1286,7 @@ $(function () {
                                                 }
                                             }
                                         }, {
-                                            span: `[[EffectDesc/${lang}]]`,
+                                            span: `[[EffectDesc]]`,
                                             class: 'buffer_desc'
                                         }]
                                 })
@@ -1306,7 +1308,7 @@ $(function () {
                                             class: 'b_icon'
                                         },
                                         {
-                                            span: `[[LastingTypeDesc/Text/${lang}]]`,
+                                            span: `[[LastingTypeDesc/Text]]`,
                                             style: {
                                                 color: function (d) {
                                                     var color = d.data.LastingTypeDesc.Color || '';
@@ -1314,7 +1316,7 @@ $(function () {
                                                 }
                                             }
                                         }, {
-                                            span: `[[EffectDesc/${lang}]]`,
+                                            span: `[[EffectDesc]]`,
                                             class: 'buffer_desc'
                                         }]
                                 })
@@ -1336,7 +1338,7 @@ $(function () {
                                             class: 'b_icon'
                                         },
                                         {
-                                            span: `[[LastingTypeDesc/Text/${lang}]]`,
+                                            span: `[[LastingTypeDesc/Text]]`,
                                             style: {
                                                 color: function (d) {
                                                     var color = d.data.LastingTypeDesc.Color || '';
@@ -1344,7 +1346,7 @@ $(function () {
                                                 }
                                             }
                                         }, {
-                                            span: `[[EffectDesc/${lang}]]`,
+                                            span: `[[EffectDesc]]`,
                                             class: 'buffer_desc'
                                         }]
                                 })
@@ -1537,15 +1539,15 @@ $(function () {
                     template: {
                         span: [{
                             em: function (d) {
-                                return _SpiralAbyssAffixDescConfig[d.data].Show.Text[lang]
+                                return _SpiralAbyssAffixDescConfig[d.data].Show.Text
                             },
                             click: function (d) {
-                                var hover = _SpiralAbyssAffixDescConfig[d.org_data].Hover && (_SpiralAbyssAffixDescConfig[d.org_data].Hover[lang]);
+                                var hover = _SpiralAbyssAffixDescConfig[d.org_data].Hover && (_SpiralAbyssAffixDescConfig[d.org_data].Hover);
                                 if (!hover) {
                                     return;
                                 }
                                 poplayer({
-                                    header: _SpiralAbyssAffixDescConfig[d.org_data].Show.Text[lang],
+                                    header: _SpiralAbyssAffixDescConfig[d.org_data].Show.Text,
                                     width: '50%',
                                     height: '400px',
                                     template: {
@@ -1556,11 +1558,11 @@ $(function () {
                             }
                         }, {
                             i: function (d) {
-                                var hover = _SpiralAbyssAffixDescConfig[d.data].Hover && (computer_.MiscText.Abyss_Show[lang] + "<br><br>" + _SpiralAbyssAffixDescConfig[d.data].Hover[lang])
+                                var hover = _SpiralAbyssAffixDescConfig[d.data].Hover && (computer_.MiscText.Abyss_Show[lang] + "<br><br>" + _SpiralAbyssAffixDescConfig[d.data].Hover)
                                 return hover
                             },
                             when: function (d) {
-                                return _SpiralAbyssAffixDescConfig[d.data].Hover && _SpiralAbyssAffixDescConfig[d.data].Hover[lang]
+                                return _SpiralAbyssAffixDescConfig[d.data].Hover && _SpiralAbyssAffixDescConfig[d.data].Hover
                             },
                             width: '270px',
                             when: UI % 2 == 1
@@ -1587,7 +1589,7 @@ $(function () {
 
     var affix_hover = {
         i: function (d) {
-            var hover = _SpiralAbyssAffixDescConfig[d.data].Hover && (computer_.MiscText.Abyss_Show[lang] + "<br><br>" + _SpiralAbyssAffixDescConfig[d.data].Hover[lang])
+            var hover = _SpiralAbyssAffixDescConfig[d.data].Hover && (computer_.MiscText.Abyss_Show[lang] + "<br><br>" + _SpiralAbyssAffixDescConfig[d.data].Hover)
             return hover
         },
         datapath: 'Affix',
@@ -1662,7 +1664,7 @@ $(function () {
                                 },
                                 {
                                     div: {
-                                        p: m.data.Note ? m.data.Note.Text[lang] : '',
+                                        p: m.data.Note ? m.data.Note.Text : '',
                                         style: {
                                             color: function (j) {
                                                 if (!m.data.Note) return ''
@@ -1671,8 +1673,8 @@ $(function () {
                                             'font-size': function (j) {
                                                 if (!m.data.Note) return ''
                                                 if (!m.data.Note.Scale) return ''
-                                                if (!m.data.Note.Scale[lang]) return ''
-                                                return m.data.Note.Scale[lang] + 'em'
+                                                if (!m.data.Note.Scale) return ''
+                                                return m.data.Note.Scale + 'em'
                                             }
                                         },
                                     },
@@ -1690,12 +1692,12 @@ $(function () {
                                         var monster = _Monsters[m.data.ID];
                                         var nameOverride = m.data.Name || false;
                                         if (nameOverride) {
-                                            return nameOverride[lang]
+                                            return nameOverride
                                         }
                                         if (monster.UseCustomColorName) {
-                                            return _MonsterCustomColorNameConfig[m.data.ID].Name[lang]
+                                            return _MonsterCustomColorNameConfig[m.data.ID].Name
                                         }
-                                        return monster.Name[lang]
+                                        return monster.Name
                                     },
                                     class: 'mon_hover_name',
                                     style: {
@@ -1707,7 +1709,7 @@ $(function () {
                                 {
                                     p: {
                                         span: function (d) {
-                                            var t = _SpiralAbyssAffixDescConfig[d.data].Show.Text[lang]
+                                            var t = _SpiralAbyssAffixDescConfig[d.data].Show.Text
                                             if (t.substring(0, 1) == " ") t = t.substring(1)
                                             return t
                                         },

@@ -340,12 +340,9 @@ popbody div {
     height: 240px;
 }
 
-.dmg_Table span {
-    font-size: 12px;
-}
-
 .dmg_Table th,
-.dmg_Table td {
+.dmg_Table td,
+.dmg_Table span {
     font-size: 16px;
 }
 
@@ -432,7 +429,8 @@ popbody div {
     }
 
     .dmg_Table th,
-    .dmg_Table td {
+    .dmg_Table td,
+    .dmg_Table span {
         font-size: 14px;
     }
 
@@ -469,7 +467,8 @@ popbody div {
     }
 
     .dmg_Table th,
-    .dmg_Table td {
+    .dmg_Table td,
+    .dmg_Table span {
         font-size: 12px;
     }
 

@@ -1,7 +1,8 @@
 var txt = {
     "Title": {
         "CH": "玉衡杯数据库",
-        "EN": "HomDGCat Wiki"
+        "EN": "HomDGCat Wiki",
+        "RU": "HomDGCat Wiki"
     },
     "Affix": {
         "CH": " | <color style='color:#0066FF;'>玉衡杯数据库 homdgcat.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
@@ -13,7 +14,8 @@ var txt = {
     },
     "ChooseTitle": {
         "CH": "（星穹铁道）",
-        "EN": "(Star Rail)"
+        "EN": "(Star Rail)",
+        "RU": "(Star Rail)"
     },
     "Page": {
         "CH": "<p><b>【切换页面】</b></p>",
@@ -682,6 +684,33 @@ function popLinks(l) {
         ]
     })
 }
+
+var Loading_Template = {
+    template: {
+        div: {
+            div: [
+                {
+                    img: $('#IMGPRE').val() + 'images/load.jpg',
+                    height: '120px'
+                },
+                {
+                    p: lang == 'CH' ? '加载中' : 'Loading'
+                }
+            ]
+        },
+        class: 'lt',
+        a: {
+            id: "_LT"
+        }
+    }
+}
+
+$('body').render(Loading_Template)
+$('.lt').hide()
+
+$('body').on('click', '.lt', function () {
+    $('.lt').hide()
+})
 
 function mod(n, m) {
     return ((n % m) + m) % m

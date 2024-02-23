@@ -440,12 +440,10 @@ pager .current-page {
 }
 
 ::-webkit-scrollbar {
-    background-color: none;
     width: 6px;
 }
 
 ::-moz-scrollbar {
-    background-color: none;
     width: 6px;
 }
 
@@ -704,10 +702,13 @@ h3 .tlsub {
 }
 
 @media screen and (max-width: 500px) {
+    .scroller::-webkit-scrollbar {
+        display: none;
+    } 
     popbody::-webkit-scrollbar {
-        width: 0px
+        display: none;
     }
     container::-webkit-scrollbar {
-        width: 0px
+        display: none;
     }
 }

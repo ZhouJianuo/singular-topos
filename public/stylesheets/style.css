@@ -212,6 +212,35 @@ schedule.active{
     height: 260px;
 }
 
+.lt {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    width: 160px;
+    height: 160px;
+    background-color: #fff;
+    border-radius: 25px;
+    z-index: 99999;
+    padding: 20px;
+    max-width: 80%;
+    text-align: center;
+}
+
+.lt p {
+    font-weight: bold;
+    font-size: 18px;
+    color: #000;
+    width: 100%
+}
+
+.lt img {
+    display: block;
+    margin: auto
+}
+
 @media screen and (min-width: 600px) and (max-width: 800px) {
     .elem_ {
         height: 27px;
@@ -257,10 +286,13 @@ schedule.active{
 }
 
 @media screen and (max-width: 500px) {
+    .scroller::-webkit-scrollbar {
+        display: none;
+    } 
     popbody::-webkit-scrollbar {
-        width: 0px
+        display: none;
     }
     container::-webkit-scrollbar {
-        width: 0px
+        display: none;
     }
 }

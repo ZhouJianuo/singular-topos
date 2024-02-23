@@ -1,24 +1,5 @@
 $(function () {
 
-    var _lang = 0
-    var DATE = new Date()
-    document.cookie.split(";").forEach(function (c) { 
-        if ((c.includes('lang=')) && !(c.includes('session'))) {
-            _lang = c.substring(c.indexOf('lang=') + 5, c.indexOf('lang=') + 7)
-        }
-    });
-
-    var lang_ = $('#LANG').val()
-    if (lang_ == 'RU') {
-        lang_ = 'EN'
-    }
-    if (lang_) {
-        var lang = lang_
-        document.cookie = 'lang=' + lang_ + ';expires=' + new Date(DATE.getTime() + 8640000000).toUTCString() + ';path=/'
-    } else {
-        var lang = (_lang === 'CH') ? 'CH' : 'EN';
-    }
-
     var imgpre = $('#IMGPRE').val()
     var avid = $('#AVID').val()
 
@@ -31,17 +12,6 @@ $(function () {
     $('h3 .links').html(txt.Page[lang]);
     $('h3 .subtitle').html(txt.Subtitle[lang]);
     $('h3 .lang').html(txt.Lang[lang])
-    
-    var isNew = _ver[_ver.length - 1]
-    var I_TYPE = '3'
-
-    if (avid) {
-        if (_index[avid] != undefined) {
-            I_TYPE = _type[avid]
-            isNew = _item[I_TYPE][_index[avid]].Ver
-            popItem(_index[avid] + 1)
-        }
-    }
 
     var rarity_color = {
         1: "#919299",
@@ -51,125 +21,125 @@ $(function () {
         5: "#d1a96a"
     }
 
-    $('body').on('click', '.links', function () {
-        popLinks(lang)
-    })
+    let script_computer = document.createElement('script')
+    script_computer.src = '/data/' + lang + '/Item.js'
+    document.head.append(script_computer)
+    script_computer.onload = begin
+    
+    function begin() {
+        isNew = _ver[_ver.length - 1]
+        I_TYPE = '3'
 
-    $('body').on('click', '.subtitle', function () {
-        IS_SW += 1
-        if (IS_SW % 4 == 1) {
-            $('body').css('font-family', "'FW', sans-serif")
-        } else if (IS_SW % 4 == 2) {
-            $('body').css('font-family', "'SW', sans-serif")
-        } else if (IS_SW % 4 == 3) {
-            $('body').css('font-family', "'TW', sans-serif")
-        } else {
-            if (lang == 'EN') { $('body').css('font-family', "'Segoe UI', sans-serif") }
-            else { $('body').css('font-family', "'Microsoft YaHei', sans-serif") }
-        }
-    })
-
-    $('container').render({
-        template: {
-            div: [
-                {
-                    section: [
-                        {
-                            schedule: {
-                                img: imgpre + 'images/itemicon/900001.png',
-                            },
-                            class: (I_TYPE == '1') ? 'active' : '',
-                            a: {
-                                'data-id': '1'
-                            }
-                        },
-                        {
-                            schedule: {
-                                img: imgpre + 'images/itemicon/avatarhead/IconHead_202002.png',
-                            },
-                            class: (I_TYPE == '2') ? 'active' : '',
-                            a: {
-                                'data-id': '2'
-                            }
-                        },
-                        {
-                            schedule: {
-                                img: imgpre + 'images/itemicon/213.png',
-                            },
-                            class: (I_TYPE == '3') ? 'active' : '',
-                            a: {
-                                'data-id': '3'
-                            }
-                        },
-                        {
-                            schedule: {
-                                img: imgpre + 'images/itemicon/140005.png',
-                            },
-                            class: (I_TYPE == '4') ? 'active' : '',
-                            a: {
-                                'data-id': '4'
-                            }
-                        },
-                        /*{
-                            schedule: {
-                                img: imgpre + 'images/itemicon/114514.png',
-                            },
-                            class: (I_TYPE == '5') ? 'active' : '',
-                            a: {
-                                'data-id': '5'
-                            }
-                        },*/
-                        {
-                            schedule: {
-                                img: imgpre + 'images/itemicon/300011.png',
-                            },
-                            class: (I_TYPE == '6') ? 'active' : '',
-                            a: {
-                                'data-id': '6'
-                            }
-                        },
-                        {
-                            schedule: {
-                                img: imgpre + 'images/itemicon/401003.png',
-                            },
-                            class: (I_TYPE == '7') ? 'active' : '',
-                            a: {
-                                'data-id': '7'
-                            }
-                        }
-                    ],
-                    class: 'a_w_r'
-                },
-                {
-                    hr: ''
-                },
-                {
-                    section: '',
-                    class: 'rar'
-                },
-                {
-                    hr: ''
-                },
-                {
-                    div: [],
-                    class: 'area'
-                }
-            ],
-            class: 'content'
-        }
-    })
-
-    _ver.forEach(function (o, j) {
-        $('.rar').render({
-            schedule: o,
-            class: (o == isNew) ? 'active' : '',
-            a: {
-                'data-id': o
+        if (avid) {
+            if (_index[avid] != undefined) {
+                I_TYPE = _type[avid]
+                isNew = _item[I_TYPE][_index[avid]].Ver
+                popItem(_index[avid] + 1)
             }
-        },)
-    })
+        }
 
-    renderItems()
+        $('container').render({
+            template: {
+                div: [
+                    {
+                        section: [
+                            {
+                                schedule: {
+                                    img: imgpre + 'images/itemicon/900001.png',
+                                },
+                                class: (I_TYPE == '1') ? 'active' : '',
+                                a: {
+                                    'data-id': '1'
+                                }
+                            },
+                            {
+                                schedule: {
+                                    img: imgpre + 'images/itemicon/avatarhead/IconHead_202002.png',
+                                },
+                                class: (I_TYPE == '2') ? 'active' : '',
+                                a: {
+                                    'data-id': '2'
+                                }
+                            },
+                            {
+                                schedule: {
+                                    img: imgpre + 'images/itemicon/213.png',
+                                },
+                                class: (I_TYPE == '3') ? 'active' : '',
+                                a: {
+                                    'data-id': '3'
+                                }
+                            },
+                            {
+                                schedule: {
+                                    img: imgpre + 'images/itemicon/140005.png',
+                                },
+                                class: (I_TYPE == '4') ? 'active' : '',
+                                a: {
+                                    'data-id': '4'
+                                }
+                            },
+                            /*{
+                                schedule: {
+                                    img: imgpre + 'images/itemicon/114514.png',
+                                },
+                                class: (I_TYPE == '5') ? 'active' : '',
+                                a: {
+                                    'data-id': '5'
+                                }
+                            },*/
+                            {
+                                schedule: {
+                                    img: imgpre + 'images/itemicon/300011.png',
+                                },
+                                class: (I_TYPE == '6') ? 'active' : '',
+                                a: {
+                                    'data-id': '6'
+                                }
+                            },
+                            {
+                                schedule: {
+                                    img: imgpre + 'images/itemicon/401003.png',
+                                },
+                                class: (I_TYPE == '7') ? 'active' : '',
+                                a: {
+                                    'data-id': '7'
+                                }
+                            }
+                        ],
+                        class: 'a_w_r'
+                    },
+                    {
+                        hr: ''
+                    },
+                    {
+                        section: '',
+                        class: 'rar'
+                    },
+                    {
+                        hr: ''
+                    },
+                    {
+                        div: [],
+                        class: 'area'
+                    }
+                ],
+                class: 'content'
+            }
+        })
+
+        _ver.forEach(function (o, j) {
+            $('.rar').render({
+                schedule: o,
+                class: (o == isNew) ? 'active' : '',
+                a: {
+                    'data-id': o
+                }
+            },)
+        })
+
+        renderItems()
+    }
 
     $('body').on('click', '.a_w_r schedule', function () {
         if ($(this).hasClass('active')) {
@@ -206,7 +176,7 @@ $(function () {
                     },
                     {
                         div: {
-                            p: t.Name[lang].length ? t.Name[lang] : '???',
+                            p: t.Name.length ? t.Name : '???',
                             class: 'item-name'
                         },
                         class: 'item-down'
@@ -240,14 +210,14 @@ $(function () {
                     when: (this_item.Pic != undefined) && (this_item.Pic != "") && !(this_item.Pic.includes('SpriteOutput') && !this_item.Pic.includes('LightConeMaxFigures') && !this_item.Pic.includes('AvatarIcon'))
                 },
                 {
-                    p: this_item.Name[lang],
+                    p: this_item.Name,
                     class: 'name',
                     style: {
                         'font-size': '1.2em'
                     }
                 },
                 {
-                    p: this_item.Desc[lang],
+                    p: this_item.Desc,
                     class: 'desc',
                     style: {
                         'text-align': 'center'
@@ -261,7 +231,7 @@ $(function () {
                     }
                 },
                 {
-                    p: this_item.Story[lang],
+                    p: this_item.Story,
                     class: 'desc'
                 },
                 {
@@ -275,7 +245,7 @@ $(function () {
                 {
                     div: {
                         p: function (k) {
-                            return '- ' + k.data[lang]
+                            return '- ' + k.data
                         },
                         class: 'desc',
                         data: this_item.Src,
@@ -285,5 +255,23 @@ $(function () {
             ],
         })
     }
+
+    $('body').on('click', '.links', function () {
+        popLinks(lang2)
+    })
+
+    $('body').on('click', '._subtitle', function () {
+        IS_SW += 1
+        if (IS_SW % 4 == 1) {
+            $('body').css('font-family', "'FW', sans-serif")
+        } else if (IS_SW % 4 == 2) {
+            $('body').css('font-family', "'SW', sans-serif")
+        } else if (IS_SW % 4 == 3) {
+            $('body').css('font-family', "'TW', sans-serif")
+        } else {
+            if (lang == 'EN') { $('body').css('font-family', "'Segoe UI', sans-serif") }
+            else { $('body').css('font-family', "'Microsoft YaHei', sans-serif") }
+        }
+    })
 
 })

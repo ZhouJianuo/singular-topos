@@ -1,27 +1,7 @@
 $(function () {
 
-    var _lang = 0
-    var DATE = new Date()
-    document.cookie.split(";").forEach(function (c) { 
-        if ((c.includes('lang=')) && !(c.includes('session'))) {
-            _lang = c.substring(c.indexOf('lang=') + 5, c.indexOf('lang=') + 7)
-        }
-    });
-
-    var lang_ = $('#LANG').val()
-    if (lang_ == 'RU') {
-        lang_ = 'EN'
-    }
-    if (lang_) {
-        var lang = lang_
-        document.cookie = 'lang=' + lang_ + ';expires=' + new Date(DATE.getTime() + 8640000000).toUTCString() + ';path=/'
-    } else {
-        var lang = (_lang === 'CH') ? 'CH' : 'EN';
-    }
-
     var imgpre = $('#IMGPRE').val()
     var avid = $('#AVID').val()
-    var isNew = _ver[_ver.length - 1]
 
     if (lang == 'CH') document.title = '玉衡杯数据库'
 
@@ -34,10 +14,10 @@ $(function () {
     $('h3 .lang').html(txt.Lang[lang])
 
     $('body').on('click', '.links', function () {
-        popLinks(lang)
+        popLinks(lang2)
     })
 
-    $('body').on('click', '.subtitle', function () {
+    $('body').on('click', '._subtitle', function () {
         IS_SW += 1
         if (IS_SW % 4 == 1) {
             $('body').css('font-family', "'FW', sans-serif")
@@ -51,36 +31,44 @@ $(function () {
         }
     })
 
-    $('container').render({
-        template: {
-            div: [
-                {
-                    section: '',
-                    class: 'rar'
-                },
-                {
-                    hr: ''
-                },
-                {
-                    div: [],
-                    class: 'area'
-                }
-            ],
-            class: 'content'
-        }
-    })
+    let script_computer = document.createElement('script')
+    script_computer.src = '/data/' + lang + '/Event.js'
+    document.head.append(script_computer)
+    script_computer.onload = begin
 
-    _ver.forEach(function (o, j) {
-        $('.rar').render({
-            schedule: o,
-            class: (o == isNew) ? 'active' : '',
-            a: {
-                'data-id': o
+    function begin() {
+        isNew = _ver[_ver.length - 1]
+        $('container').render({
+            template: {
+                div: [
+                    {
+                        section: '',
+                        class: 'rar'
+                    },
+                    {
+                        hr: ''
+                    },
+                    {
+                        div: [],
+                        class: 'area'
+                    }
+                ],
+                class: 'content'
             }
-        },)
-    })
-
-    renderEvents()
+        })
+    
+        _ver.forEach(function (o, j) {
+            $('.rar').render({
+                schedule: o,
+                class: (o == isNew) ? 'active' : '',
+                a: {
+                    'data-id': o
+                }
+            },)
+        })
+    
+        renderEvents()
+    }
 
     $('body').on('click', '.rar schedule', function () {
         if ($(this).hasClass('active')) {
@@ -98,22 +86,13 @@ $(function () {
             $('.area').render({
                 div: [
                     {
-                        p: t.Name[lang],
+                        p: t.Name,
                         class: 'event-name'
                     },
                     {
-                        div: {
-                            img: imgpre + 'images/tabicon/' + t.Icon
-                        },
-                        class: 'event-img',
-                        style: {
-                            width: '100%'
-                        }
-                    },
-                    {
-                        p: t.Desc[lang],
+                        p: t.Desc,
                         class: 'event-desc',
-                        when: t.Desc[lang].length
+                        when: t.Desc.length
                     },
                     {
                         div: {
@@ -159,7 +138,7 @@ $(function () {
                         class: 'event-sel'
                     },
                     {
-                        p: t.Story[lang],
+                        p: t.Story,
                         class: 'event-story es-' + t._id,
                         style: {
                             display: 'none'
@@ -202,14 +181,14 @@ $(function () {
                     when: (this_item.Pic != undefined) && (this_item.Pic != "") && !(this_item.Pic.includes('SpriteOutput') && !this_item.Pic.includes('LightConeMaxFigures') && !this_item.Pic.includes('AvatarIcon'))
                 },
                 {
-                    p: this_item.Name[lang],
+                    p: this_item.Name,
                     class: 'name',
                     style: {
                         'font-size': '1.2em'
                     }
                 },
                 {
-                    p: this_item.Desc[lang],
+                    p: this_item.Desc,
                     class: 'desc',
                     style: {
                         'text-align': 'center'
@@ -223,7 +202,7 @@ $(function () {
                     }
                 },
                 {
-                    p: this_item.Story[lang],
+                    p: this_item.Story,
                     class: 'desc'
                 },
                 {
@@ -237,7 +216,7 @@ $(function () {
                 {
                     div: {
                         p: function (k) {
-                            return '- ' + k.data[lang]
+                            return '- ' + k.data
                         },
                         class: 'desc',
                         data: this_item.Src,

@@ -1121,6 +1121,11 @@ var computer_ = {
             "EN": "HomDGCat Wiki",
             "RU": "HomDGCat Wiki"
         },
+        "Ach_Total": {
+            "CH": "总成就数",
+            "EN": "Total Count",
+            "RU": "Общее Количество"
+        },
         "Ach_Table_Header": [
             {
                 "CH": "合辑",
@@ -5461,38 +5466,23 @@ var computer_ = {
     "SpiralAbyssGenerationConfig": [
         {
             "_id": 1,
-            "Name": {
-                "CH": "原初",
-                "EN": "Primordial"
-            }
+            "Name": "1.x"
         },
         {
             "_id": 2,
-            "Name": {
-                "CH": "稻妻",
-                "EN": "Inazuma"
-            }
+            "Name": "2.x"
         },
         {
             "_id": 3,
-            "Name": {
-                "CH": "须弥",
-                "EN": "Sumeru"
-            }
+            "Name": "3.x"
         },
         {
             "_id": 4,
-            "Name": {
-                "CH": "枫丹",
-                "EN": "Fontaine"
-            }
+            "Name": "4.x"
         },
         {
             "_id": 99,
-            "Name": {
-                "CH": "惊喜",
-                "EN": "Surprise"
-            }
+            "Name": "???"
         }
     ],
     "AvatarTypeConfig": {
@@ -6446,9 +6436,36 @@ $('body').on('click', '.links', function () {
     })
 })
 
+var Loading_Template = {
+    template: {
+        div: {
+            div: [
+                {
+                    img: $('#IMGPRE').val() + 'images/load.jpg',
+                    height: '120px'
+                },
+                {
+                    p: lang == 'CH' ? '加载中' : 'Loading'
+                }
+            ]
+        },
+        class: 'lt',
+        a: {
+            id: "_LT"
+        }
+    }
+}
+
+$('body').render(Loading_Template)
+$('.lt').hide()
+
+$('body').on('click', '.lt', function () {
+    $('.lt').hide()
+})
+
 var IS_TWT = 0
 
-$('body').on('click', '.subtitle', function () {
+$('body').on('click', '._subtitle', function () {
     IS_TWT += 1
     if (IS_TWT % 6 == 1) {
         $('body').css('font-family', "'TWT', sans-serif")

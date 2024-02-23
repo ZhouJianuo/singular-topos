@@ -16,7 +16,10 @@ $(function () {
         if (lang == 'EN') $("a[data-id='CN']").click()
     });
 
-    begin()
+    let script_computer = document.createElement('script')
+    script_computer.src = '/gi/' + lang + '/load.js'
+    document.head.append(script_computer)
+    script_computer.onload = begin
 
     function begin() {
 
@@ -25,7 +28,7 @@ $(function () {
                 section: function (d) {
                     _AchievementData[0].Data.Vers.forEach(function (me, ind) {
                         $(d.container).render({
-                            schedule: me.Name[lang],
+                            schedule: me.Name,
                             a: {
                                 'data-id': me.ID,
                                 'class': function () {
@@ -41,7 +44,7 @@ $(function () {
                 section: function (d) {
                     _LoadTipGroup[0].Data.forEach(function (me, ind) {
                         $(d.container).render({
-                            schedule: me.Name[lang],
+                            schedule: me.Name,
                             a: {
                                 'data-id': ind == 0 ? 114514 : ind,
                                 'class': function () {
@@ -101,7 +104,7 @@ $(function () {
                                     template: {
                                         tr: [
                                             {
-                                                td: '<b>' + ld.Name[lang] + '</b><br>' + ld.Desc[lang],
+                                                td: '<b>' + ld.Name + '</b><br>' + ld.Desc,
                                                 style: {
                                                     'text-align': 'center'
                                                 }

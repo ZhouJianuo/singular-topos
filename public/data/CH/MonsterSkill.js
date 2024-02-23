@@ -1,0 +1,10629 @@
+// Auto Generated
+
+var _monsterskill = {
+    "100204001": {
+        "Key": "Skill01",
+        "Name": "奔袭",
+        "Desc": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受击者防御力降低<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "Status": [
+            210010101
+        ],
+        "DMG": [
+            3.0
+        ]
+    },
+    "100204101": {
+        "Key": "Skill01",
+        "Name": "奔袭",
+        "Desc": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受击者防御力降低<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "Status": [
+            210010101
+        ],
+        "DMG": [
+            3.0
+        ]
+    },
+    "100205001": {
+        "Key": "Skill02",
+        "Name": "破甲榴弹",
+        "Desc": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受击者陷入<b>裂伤</b>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>裂伤持续伤害：<color style='color:#f29e38;'>15%自身生命值上限</color>，最多叠加<color style='color:#f29e38;'>1</color>层。<br>（如果<color style='color:#f29e38;'>500%施加者攻击力</color>的数值更低，则裂伤倍率改为这个）",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "Status": [
+            30020005
+        ],
+        "DMG": [
+            3.0
+        ]
+    },
+    "100201101": {
+        "Key": "Skill04",
+        "Name": "冰风",
+        "Desc": "对我方全体造成<1>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            2.0
+        ]
+    },
+    "100201201": {
+        "Key": "Skill04",
+        "Name": "冰风",
+        "Desc": "对我方全体造成<1>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            2.0
+        ]
+    },
+    "100201301": {
+        "Key": "Skill01",
+        "Name": "永冬余响",
+        "Desc": "对我方全体造成<1>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            2.5
+        ]
+    },
+    "100201401": {
+        "Key": "Skill01",
+        "Name": "永冬余响",
+        "Desc": "对我方全体造成<1>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            2.5
+        ]
+    },
+    "100201501": {
+        "Key": "Skill04",
+        "Name": "冰风",
+        "Desc": "对我方全体造成<1>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            1.5
+        ]
+    },
+    "100201601": {
+        "Key": "Skill04",
+        "Name": "冰风",
+        "Desc": "对我方全体造成<1>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            1.5
+        ]
+    },
+    "100201701": {
+        "Key": "Skill01",
+        "Name": "永冬余响",
+        "Desc": "对我方全体造成<1>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            2.5
+        ]
+    },
+    "100201801": {
+        "Key": "Skill01",
+        "Name": "永冬余响",
+        "Desc": "对我方全体造成<1>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            2.5
+        ]
+    },
+    "100202001": {
+        "Key": "Skill01",
+        "Name": "铲击",
+        "Desc": "对指定我方单体造成<1>物理伤害。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "DMG": [
+            2.5
+        ]
+    },
+    "100202002": {
+        "Key": "Skill02",
+        "Name": "鼓舞",
+        "Desc": "使指定敌方单体立即行动，且攻击力提高<color style='color:#f29e38;'>30%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 0,
+        "Status": [
+            210020201
+        ]
+    },
+    "100203001": {
+        "Key": "Skill01",
+        "Name": "炮击",
+        "Desc": "对指定我方单体造成<1>物理伤害，对相邻目标造成<2>物理伤害。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "DMG": [
+            1.3,
+            1.0
+        ]
+    },
+    "100203002": {
+        "Key": "Skill02",
+        "Name": "掩护支援",
+        "Desc": "为指定敌方单体提供<color style='color:#f29e38;'>支援</color>，在被支援的敌方目标攻击我方目标后施放<color style='color:#f29e38;'>1</color>次追加攻击，对受到攻击的我方目标造成<1>物理伤害，对相邻目标造成<2>物理伤害。",
+        "SP": 0,
+        "Status": [
+            210020301,
+            210020302
+        ],
+        "DMG": [
+            2.2,
+            1.5
+        ]
+    },
+    "100203003": {
+        "Key": "SkillP01",
+        "Name": "掩护支援",
+        "Desc": "为指定敌方单体提供<color style='color:#f29e38;'>支援</color>，在被支援的敌方目标攻击我方目标后施放1次追加攻击，对受到攻击的我方目标及其相邻目标造成少量物理伤害。",
+        "SP": 12.0
+    },
+    "100301001": {
+        "Key": "Skill01",
+        "Name": "突击",
+        "Desc": "对指定我方单体造成<1>物理伤害。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "DMG": [
+            3.0
+        ]
+    },
+    "100301002": {
+        "Key": "Skill06",
+        "Name": "穿刺",
+        "Desc": "对指定我方单体造成<1>物理伤害。",
+        "SP": 20.0,
+        "Elem": "Phys",
+        "Threat": true,
+        "DMG": [
+            6.5
+        ]
+    },
+    "100301003": {
+        "Key": "Skill07",
+        "Name": "盾反",
+        "Desc": "进入<color style='color:#f29e38;'>【反击】</color>状态：在受到我方单体攻击后自身行动提前并立即对该目标施放<color style='color:#f29e38;'>【穿刺】</color>技能。",
+        "SP": 0,
+        "Prepare": [
+            100301002
+        ],
+        "Status": [
+            210030102
+        ]
+    },
+    "100301004": {
+        "Key": "Skill08",
+        "Name": "增援",
+        "Desc": "召唤<color style='color:#f29e38;'>【银鬃近卫】</color>。",
+        "SP": 0,
+        "Summon": [
+            1002040
+        ]
+    },
+    "100301101": {
+        "Key": "Skill01",
+        "Name": "突击",
+        "Desc": "对指定我方单体造成<1>物理伤害。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "DMG": [
+            3.0
+        ]
+    },
+    "100301102": {
+        "Key": "Skill06",
+        "Name": "穿刺",
+        "Desc": "对指定我方单体造成<1>物理伤害。",
+        "SP": 20.0,
+        "Elem": "Phys",
+        "DMG": [
+            6.0
+        ]
+    },
+    "100301103": {
+        "Key": "Skill07",
+        "Name": "盾反",
+        "Desc": "进入<color style='color:#f29e38;'>【反击】</color>状态，在受到我方单体攻击后获得1个额外回合，对该目标造成<1>物理伤害。",
+        "SP": 0,
+        "Status": [
+            210030102
+        ],
+        "DMG": [
+            6.0
+        ]
+    },
+    "100301104": {
+        "Key": "Skill08",
+        "Name": "增援",
+        "Desc": "召唤<color style='color:#f29e38;'>【银鬃近卫】</color>。",
+        "SP": 0,
+        "Summon": [
+            1002040
+        ]
+    },
+    "100301105": {
+        "Key": "Skill09",
+        "Name": "鼓劲",
+        "Desc": "使除自身外的敌方全体立即行动，且攻击力提高<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>1</color>回合。",
+        "SP": 0,
+        "Threat": true,
+        "Status": [
+            210020201
+        ]
+    },
+    "100301201": {
+        "Key": "Skill01",
+        "Name": "突击",
+        "Desc": "对指定我方单体造成<1>物理伤害。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "DMG": [
+            3.0
+        ]
+    },
+    "100301202": {
+        "Key": "Skill06",
+        "Name": "穿刺",
+        "Desc": "对指定我方单体造成<1>物理伤害。",
+        "SP": 20.0,
+        "Elem": "Phys",
+        "Threat": true,
+        "DMG": [
+            4.2
+        ]
+    },
+    "100301203": {
+        "Key": "Skill07",
+        "Name": "盾反",
+        "Desc": "进入反击状态，在被我方单体击中后自身行动提前并立即对该目标施放【穿刺】技能。",
+        "SP": 0
+    },
+    "100301204": {
+        "Key": "Skill08",
+        "Name": "增援",
+        "Desc": "召唤【银鬃近卫】或【银鬃射手】。",
+        "SP": 0
+    },
+    "100301301": {
+        "Key": "Skill01",
+        "Name": "突击",
+        "Desc": "对指定我方单体造成<1>物理伤害。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "DMG": [
+            3.0
+        ]
+    },
+    "100301302": {
+        "Key": "Skill06",
+        "Name": "穿刺",
+        "Desc": "对指定我方单体造成<1>物理伤害。",
+        "SP": 20.0,
+        "Elem": "Phys",
+        "Threat": true,
+        "DMG": [
+            4.2
+        ]
+    },
+    "100301303": {
+        "Key": "Skill07",
+        "Name": "盾反",
+        "Desc": "进入<color style='color:#f29e38;'>【反击】</color>状态，在被我方单体击中后自身行动提前并立即对该目标施放<color style='color:#f29e38;'>【穿刺】</color>技能。",
+        "SP": 0,
+        "Prepare": [
+            100301302
+        ],
+        "Status": [
+            210030102
+        ]
+    },
+    "100301304": {
+        "Key": "Skill08",
+        "Name": "增援",
+        "Desc": "召唤【银鬃近卫】或【银鬃射手】。",
+        "SP": 0
+    },
+    "100402001": {
+        "Key": "Skill01",
+        "Name": "一意之拳",
+        "Desc": "对指定我方单体造成<1>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            3.0
+        ]
+    },
+    "100402002": {
+        "Key": "Skill02",
+        "Name": "霜之惩击",
+        "Desc": "对指定我方单体造成<1>冰属性伤害。",
+        "SP": 15.0,
+        "Elem": "Ice",
+        "DMG": [
+            4.5
+        ]
+    },
+    "100402003": {
+        "Key": "Skill03",
+        "Name": "戍卫气场",
+        "Desc": "为自身以外的敌方目标提供<color style='color:#f29e38;'>屏障</color>，屏障状态下的目标可抵抗除持续伤害外的所有伤害，受到攻击后解除。",
+        "SP": 0,
+        "Status": [
+            210030204
+        ]
+    },
+    "100402004": {
+        "Key": "Skill04",
+        "Name": "极寒瀑流",
+        "Desc": "对我方全体造成<1>冰属性伤害。",
+        "SP": 15.0,
+        "Elem": "Ice",
+        "Threat": true,
+        "DMG": [
+            3.5
+        ]
+    },
+    "100402005": {
+        "Key": "Skill12",
+        "Name": "围攻打援",
+        "Desc": "召唤<color style='color:#f29e38;'>【银鬃射手】</color>或<color style='color:#f29e38;'>【银鬃炮手】</color>，同时<b>锁定</b>我方单体，使敌方全体集中攻击该目标。",
+        "SP": 0,
+        "Status": [
+            210030201
+        ],
+        "Summon": [
+            1002040,
+            1002030
+        ]
+    },
+    "100402101": {
+        "Key": "Skill01",
+        "Name": "一意之拳",
+        "Desc": "对指定我方单体造成<1>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            3.0
+        ]
+    },
+    "100402102": {
+        "Key": "Skill02",
+        "Name": "霜之惩击",
+        "Desc": "对指定我方单体造成<1>冰属性伤害。",
+        "SP": 15.0,
+        "Elem": "Ice",
+        "DMG": [
+            4.5
+        ]
+    },
+    "100402103": {
+        "Key": "Skill03",
+        "Name": "戍卫气场",
+        "Desc": "为自身以外的敌方目标提供<color style='color:#f29e38;'>屏障</color>，屏障状态下的目标可抵抗除持续伤害外的所有伤害，受到攻击后解除。",
+        "SP": 0,
+        "Status": [
+            210030204
+        ]
+    },
+    "100402104": {
+        "Key": "Skill04",
+        "Name": "极寒瀑流",
+        "Desc": "对我方全体造成<1>冰属性伤害。",
+        "SP": 15.0,
+        "Elem": "Ice",
+        "Threat": true,
+        "DMG": [
+            3.5
+        ]
+    },
+    "100402105": {
+        "Key": "Skill12",
+        "Name": "围攻打援",
+        "Desc": "召唤<color style='color:#f29e38;'>【银鬃射手】</color>，同时<b>锁定</b>我方单体，使敌方全体集中攻击该目标。",
+        "SP": 0,
+        "Status": [
+            210030201
+        ],
+        "Summon": [
+            1002040,
+            1002030
+        ]
+    },
+    "100402201": {
+        "Key": "Skill01",
+        "Name": "一意之拳",
+        "Desc": "对指定我方单体造成<1>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            3.0
+        ]
+    },
+    "100402202": {
+        "Key": "Skill02",
+        "Name": "霜之惩击",
+        "Desc": "对指定我方单体造成<1>冰属性伤害。",
+        "SP": 15.0,
+        "Elem": "Ice",
+        "DMG": [
+            3.5
+        ]
+    },
+    "100402203": {
+        "Key": "Skill03",
+        "Name": "戍卫气场",
+        "Desc": "施放<color style='color:#f29e38;'>【全体护盾】</color>吸收伤害，锁定敌方全体的韧性。基础盾量为<color style='color:#f29e38;'>40%生命值上限</color>；场上每存在一个召唤友方，盾量额外提升<color style='color:#f29e38;'>40%生命值上限</color>。护盾破除后，自身和精英敌人受到<color style='color:#f29e38;'>自身30%生命值上限</color>的反噬伤害，低级敌人受到<color style='color:#f29e38;'>自身50%生命值上限</color>的反噬伤害",
+        "SP": 0,
+        "Status": [
+            210040223,
+            210040224
+        ]
+    },
+    "100402204": {
+        "Key": "Skill04",
+        "Name": "极寒瀑流",
+        "Desc": "对我方全体造成<1>冰属性伤害。使自身造成的伤害提高<color style='color:#f29e38;'>12%</color>，可叠加。",
+        "SP": 15.0,
+        "Elem": "Ice",
+        "Threat": true,
+        "Status": [
+            210040221
+        ],
+        "DMG": [
+            3.8
+        ]
+    },
+    "100402205": {
+        "Key": "Skill05",
+        "Name": "围攻",
+        "Desc": "杰帕德<b>锁定</b>指定我方单体，使敌方全体立即集中攻击该目标。",
+        "SP": 0,
+        "Status": [
+            210030201
+        ]
+    },
+    "100402207": {
+        "Key": "Skill07",
+        "Name": "",
+        "Desc": "dev_对指定我方单体造成大量物理伤害。不显示",
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "100402208": {
+        "Key": "Skill08",
+        "Name": "以牙还牙",
+        "Desc": "进入<color style='color:#f29e38;'>【反击】</color>状态，持续<color style='color:#f29e38;'>1</color>回合。在该状态下受到我方目标攻击后，立即对该目标造成<1>冰属性伤害。该效果最多触发<color style='color:#f29e38;'>1</color>次。",
+        "SP": 0,
+        "Elem": "Ice",
+        "Status": [
+            210040222
+        ],
+        "DMG": [
+            4.0
+        ]
+    },
+    "100402209": {
+        "Key": "SkillP01",
+        "Name": "支援",
+        "Desc": "阶段开始时，立即召唤<color style='color:#f29e38;'>【银鬃近卫】</color>和<color style='color:#f29e38;'>【银鬃炮手】</color>。",
+        "SP": 0,
+        "Summon": [
+            1002041,
+            1002030
+        ]
+    },
+    "100402210": {
+        "Key": "SkillP01",
+        "Name": "支援",
+        "Desc": "阶段开始时，立即召唤<color style='color:#f29e38;'>【银鬃炮手】</color>。",
+        "SP": 0,
+        "Summon": [
+            1002030
+        ]
+    },
+    "100402211": {
+        "Key": "SkillP01",
+        "Name": "支援",
+        "Desc": "阶段开始时，立即召唤<color style='color:#f29e38;'>【银鬃尉官（完整）】</color>。",
+        "SP": 0,
+        "Summon": [
+            1003012
+        ]
+    },
+    "100402301": {
+        "Key": "Skill01",
+        "Name": "一意之拳",
+        "Desc": "对指定我方单体造成<1>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            3.0
+        ]
+    },
+    "100402302": {
+        "Key": "Skill02",
+        "Name": "霜之惩击",
+        "Desc": "对指定我方单体造成<1>冰属性伤害。",
+        "SP": 15.0,
+        "Elem": "Ice",
+        "DMG": [
+            3.5
+        ]
+    },
+    "100402303": {
+        "Key": "Skill03",
+        "Name": "戍卫气场",
+        "Desc": "施放<color style='color:#f29e38;'>【全体护盾】</color>吸收伤害，锁定敌方全体的韧性。基础盾量为<color style='color:#f29e38;'>44.33%生命值上限</color>（1-2阶段）或<color style='color:#f29e38;'>29.26%生命值上限</color>（3阶段）；<br>场上每存在一个召唤友方，盾量额外提升1个基础值。<br>护盾破除后，自身和精英敌人受到<color style='color:#f29e38;'>自身30%生命值上限</color>的反噬伤害，低级敌人受到<color style='color:#f29e38;'>自身50%生命值上限</color>的反噬伤害",
+        "SP": 0,
+        "Status": [
+            210040223,
+            210040224
+        ]
+    },
+    "100402304": {
+        "Key": "Skill04",
+        "Name": "极寒瀑流",
+        "Desc": "对我方全体造成<1>冰属性伤害。使自身造成的伤害提高<color style='color:#f29e38;'>12%</color>，可叠加。<br>第三阶段的生命值变为原本的<color style='color:#f29e38;'>1.5</color>倍。",
+        "SP": 15.0,
+        "Elem": "Ice",
+        "Threat": true,
+        "Status": [
+            210040221
+        ],
+        "DMG": [
+            3.8
+        ]
+    },
+    "100402305": {
+        "Key": "Skill05",
+        "Name": "围攻",
+        "Desc": "杰帕德<b>锁定</b>指定我方单体，使敌方全体立即集中攻击该目标。",
+        "SP": 0,
+        "Status": [
+            210030201
+        ]
+    },
+    "100402307": {
+        "Key": "Skill07",
+        "Name": "",
+        "Desc": "dev_对指定我方单体造成大量物理伤害。不显示",
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "100402308": {
+        "Key": "Skill08",
+        "Name": "以牙还牙",
+        "Desc": "进入<color style='color:#f29e38;'>【反击】</color>状态，持续<color style='color:#f29e38;'>1</color>回合。在该状态下受到我方目标攻击后，立即对该目标造成<1>冰属性伤害。该效果最多触发<color style='color:#f29e38;'>1</color>次。",
+        "SP": 0,
+        "Status": [
+            210040222
+        ],
+        "DMG": [
+            4.0
+        ]
+    },
+    "100402309": {
+        "Key": "SkillP01",
+        "Name": "支援",
+        "Desc": "阶段开始时，立即召唤<color style='color:#f29e38;'>【银鬃近卫】</color>和<color style='color:#f29e38;'>【银鬃炮手】</color>。",
+        "SP": 0,
+        "Summon": [
+            1002041,
+            1002030
+        ]
+    },
+    "100402310": {
+        "Key": "SkillP02",
+        "Name": "支援",
+        "Desc": "阶段开始时，立即召唤<color style='color:#f29e38;'>【银鬃炮手】</color>。",
+        "SP": 0,
+        "Summon": [
+            1002030
+        ]
+    },
+    "100402311": {
+        "Key": "SkillP03",
+        "Name": "支援",
+        "Desc": "阶段开始时，立即召唤<color style='color:#f29e38;'>【银鬃尉官（完整）1.2新增】</color>。",
+        "SP": 0,
+        "Summon": [
+            1003013
+        ]
+    },
+    "100402312": {
+        "Key": "Skill12",
+        "Name": "",
+        "Desc": "test_阶段开始时，立即召唤【银鬃尉官（完整）】。",
+        "SP": 0
+    },
+    "100402313": {
+        "Key": "Skill13",
+        "Name": "",
+        "Desc": "test_阶段开始时，立即召唤【银鬃尉官（完整）】。",
+        "SP": 0
+    },
+    "100401001": {
+        "Key": "Skill06",
+        "Name": "刺骨凝血的寒芒",
+        "Desc": "对指定我方单体造成<1>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            3.0
+        ]
+    },
+    "100401002": {
+        "Key": "Skill02",
+        "Name": "漫长冰期的预兆",
+        "Desc": "召唤<color style='color:#f29e38;'>【冰锋】</color>。",
+        "SP": 0,
+        "Summon": [
+            1002011,
+            1002012
+        ]
+    },
+    "100401003": {
+        "Key": "Skill03",
+        "Name": "无尽长冬的绝罚",
+        "Desc": "对我方全体造成<1>冰属性伤害。",
+        "SP": 20.0,
+        "Elem": "Ice",
+        "Threat": true,
+        "DMG": [
+            5.0
+        ]
+    },
+    "100401004": {
+        "Key": "Skill04",
+        "Name": "永囚于此的白霜",
+        "Desc": "对指定我方单体造成<1>冰属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>冻结</b>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>冻结附加伤害：<2>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "Status": [
+            30020012
+        ],
+        "DMG": [
+            1.5,
+            1.5
+        ]
+    },
+    "100401005": {
+        "Key": "Skill05",
+        "Name": "雪国圣徒的烈怒",
+        "Desc": "进入<color style='color:#f29e38;'>蓄力</color>状态：造成的伤害提升<color style='color:#f29e38;'>25%</color>，持续<color style='color:#f29e38;'>1</color>回合。下次行动时对我方全体施放<color style='color:#f29e38;'>【无尽长冬的绝罚】</color>。",
+        "SP": 0,
+        "Prepare": [
+            100401003
+        ],
+        "Status": [
+            210040114
+        ]
+    },
+    "100401006": {
+        "Key": "Skill07",
+        "Name": "dev_从容",
+        "Desc": "dev_待机。不显示。",
+        "SP": 0
+    },
+    "100401101": {
+        "Key": "Skill01",
+        "Name": "刺骨凝血的寒芒",
+        "Desc": "对指定我方单体造成<1>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            2.25
+        ]
+    },
+    "100401102": {
+        "Key": "Skill02",
+        "Name": "漫长冰期的预兆",
+        "Desc": "召唤<color style='color:#f29e38;'>【冰锋】</color>。",
+        "SP": 0,
+        "Summon": [
+            1002015,
+            1002016
+        ]
+    },
+    "100401103": {
+        "Key": "Skill03",
+        "Name": "无尽长冬的绝罚",
+        "Desc": "对我方全体造成<1>冰属性伤害。",
+        "SP": 20.0,
+        "Elem": "Ice",
+        "Threat": true,
+        "DMG": [
+            3.75
+        ]
+    },
+    "100401104": {
+        "Key": "Skill04",
+        "Name": "永囚于此的白霜",
+        "Desc": "对指定我方单体造成<1>冰属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>冻结</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>冻结附加伤害：<2>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "Status": [
+            30020012
+        ],
+        "DMG": [
+            1.5,
+            1.125
+        ]
+    },
+    "100401105": {
+        "Key": "Skill05",
+        "Name": "雪国圣徒的烈怒",
+        "Desc": "进入<color style='color:#f29e38;'>蓄力</color>状态：造成的伤害提升<color style='color:#f29e38;'>30%</color>，持续<color style='color:#f29e38;'>1</color>回合。下次行动时对我方全体施放<color style='color:#f29e38;'>【无尽长冬的绝罚】</color>。",
+        "SP": 0,
+        "Prepare": [
+            100401103
+        ],
+        "Status": [
+            210040114
+        ]
+    },
+    "100401106": {
+        "Key": "Skill07",
+        "Name": "碎冰震荡",
+        "Desc": "对冻结状态下的我方目标造成<1>冰属性伤害，对相邻目标造成<2>冰属性伤害，并解除主目标的冻结状态。若相邻目标处于冻结状态，则再次对主目标施放本技能。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            3.75,
+            1.5
+        ]
+    },
+    "100401107": {
+        "Key": "PassiveSkill01",
+        "Name": "愈寒愈烈",
+        "Desc": "每成功触发一次冻结，自身及召唤物造成的伤害提高<color style='color:#f29e38;'>10%</color>，可叠加。",
+        "SP": 0,
+        "Status": [
+            210040111
+        ]
+    },
+    "100401201": {
+        "Key": "Skill01",
+        "Name": "刺骨凝血的寒芒",
+        "Desc": "对指定我方单体造成<1>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            2.25
+        ]
+    },
+    "100401202": {
+        "Key": "Skill02",
+        "Name": "漫长冰期的预兆",
+        "Desc": "召唤<color style='color:#f29e38;'>【冰锋】</color>。",
+        "SP": 0,
+        "Summon": [
+            1002015,
+            1002016
+        ]
+    },
+    "100401203": {
+        "Key": "Skill03",
+        "Name": "无尽长冬的绝罚",
+        "Desc": "对我方全体造成<1>冰属性伤害。",
+        "SP": 20.0,
+        "Elem": "Ice",
+        "Threat": true,
+        "DMG": [
+            3.75
+        ]
+    },
+    "100401204": {
+        "Key": "Skill04",
+        "Name": "永囚于此的白霜",
+        "Desc": "对指定我方单体造成<1>冰属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>冻结</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>冻结附加伤害：<2>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "Status": [
+            30020012
+        ],
+        "DMG": [
+            1.5,
+            1.125
+        ]
+    },
+    "100401205": {
+        "Key": "Skill05",
+        "Name": "雪国圣徒的烈怒",
+        "Desc": "进入<color style='color:#f29e38;'>蓄力</color>状态：造成的伤害提升<color style='color:#f29e38;'>30%</color>，持续<color style='color:#f29e38;'>1</color>回合。下次行动时对我方全体施放<color style='color:#f29e38;'>【无尽长冬的绝罚】</color>。",
+        "SP": 0,
+        "Prepare": [
+            100401203
+        ],
+        "Status": [
+            210040114
+        ]
+    },
+    "100401206": {
+        "Key": "Skill07",
+        "Name": "碎冰震荡",
+        "Desc": "对冻结状态下的我方目标造成<1>冰属性伤害，对相邻目标造成<2>冰属性伤害，并解除主目标的冻结状态。若相邻目标处于冻结状态，则再次对主目标施放本技能。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            3.75,
+            1.5
+        ]
+    },
+    "100401207": {
+        "Key": "PassiveSkill01",
+        "Name": "愈寒愈烈",
+        "Desc": "每成功触发一次冻结，自身及召唤物造成的伤害提高<color style='color:#f29e38;'>10%</color>，可叠加。<br>第三阶段的生命值变为原本的<color style='color:#f29e38;'>1.66</color>倍。<br>第三阶段生命值降低至<color style='color:#f29e38;'>50%</color>以下，暴风雪将席卷战场...",
+        "SP": 0,
+        "Status": [
+            210040111
+        ]
+    },
+    "100403001": {
+        "Key": "Skill01",
+        "Name": "驭风的子弹",
+        "Desc": "对指定我方单体造成<1>风属性伤害。",
+        "SP": 10.0,
+        "Elem": "Wind",
+        "DMG": [
+            3.0
+        ]
+    },
+    "100403002": {
+        "Key": "Skill02",
+        "Name": "作战再部署",
+        "Desc": "解除指定敌方单体的全部负面效果，并使该目标立即行动。不可对自身释放。",
+        "SP": 0
+    },
+    "100403003": {
+        "Key": "Skill03",
+        "Name": "增援协同",
+        "Desc": "召唤<color style='color:#f29e38;'>【银鬃近卫】</color>或<color style='color:#f29e38;'>【银鬃射手】</color>。",
+        "SP": 0,
+        "Summon": [
+            1002040,
+            1002050
+        ]
+    },
+    "100403004": {
+        "Key": "Skill04",
+        "Name": "压制射击",
+        "Desc": "对指定我方单体造成<1>风属性伤害，并使受到攻击的我方目标行动延后<color style='color:#f29e38;'>50%</color>。",
+        "SP": 15.0,
+        "Elem": "Wind",
+        "Threat": true,
+        "DMG": [
+            5.0
+        ]
+    },
+    "100403101": {
+        "Key": "Skill01",
+        "Name": "驭风的子弹",
+        "Desc": "对指定我方单体造成<1>风属性伤害。",
+        "SP": 10.0,
+        "Elem": "Wind",
+        "DMG": [
+            2.25
+        ]
+    },
+    "100403102": {
+        "Key": "Skill02",
+        "Name": "作战再部署",
+        "Desc": "解除指定敌方单体的全部负面效果，并使该目标立即行动，且造成的伤害提高<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>1</color>回合。不可对自身释放。",
+        "SP": 0
+    },
+    "100403103": {
+        "Key": "Skill03",
+        "Name": "增援协同",
+        "Desc": "召唤【银鬃近卫】或【银鬃射手】。",
+        "SP": 0
+    },
+    "100403104": {
+        "Key": "Skill04",
+        "Name": "压制射击",
+        "Desc": "对指定我方单体造成<1>风属性伤害，并使受到攻击的我方目标行动延后<color style='color:#f29e38;'>50%</color>。",
+        "SP": 15.0,
+        "Elem": "Wind",
+        "Threat": true,
+        "DMG": [
+            3.75
+        ]
+    },
+    "100501001": {
+        "Key": "Skill01",
+        "Name": "碎骨寒流",
+        "Desc": "对指定我方单体造成<1>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            3.5
+        ]
+    },
+    "100501002": {
+        "Key": "Skill06",
+        "Name": "裂魂寒流",
+        "Desc": "对指定我方单体造成<1>冰属性伤害。",
+        "SP": 20.0,
+        "Elem": "Ice",
+        "Threat": true,
+        "DMG": [
+            9.5
+        ]
+    },
+    "100501003": {
+        "Key": "Skill04",
+        "Name": "灭世冰雨",
+        "Desc": "对我方全体造成<1>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            2.5
+        ]
+    },
+    "100501004": {
+        "Key": "Skill02",
+        "Name": "冷酷灭世者之唤",
+        "Desc": "召唤2个<color style='color:#f29e38;'>【无尽寒冬之槊】</color>。其中一个行动延后<color style='color:#f29e38;'>80%</color>。",
+        "SP": 0,
+        "Summon": [
+            1002013,
+            1002014
+        ]
+    },
+    "100501005": {
+        "Key": "Skill07",
+        "Name": "创世和弦",
+        "Desc": "对指定我方单体造成<1>虚数属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受击者陷入<b>禁锢</b>状态：行动延后<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>1</color>回合。",
+        "SP": 10.0,
+        "Elem": "Imaginary",
+        "Status": [
+            30020013
+        ],
+        "DMG": [
+            3.0
+        ]
+    },
+    "100501006": {
+        "Key": "Skill08",
+        "Name": "创世纪的前奏",
+        "Desc": "进入<color style='color:#f29e38;'>蓄力</color>状态。下次行动对我方全体施放<color style='color:#f29e38;'>【创世绝响】</color>。",
+        "SP": 0,
+        "Prepare": [
+            100501007
+        ],
+        "Status": [
+            210050105
+        ]
+    },
+    "100501007": {
+        "Key": "Skill09",
+        "Name": "创世绝响",
+        "Desc": "对我方全体造成<1>虚数属性伤害。",
+        "SP": 20.0,
+        "Elem": "Imaginary",
+        "Threat": true,
+        "DMG": [
+            6.5
+        ]
+    },
+    "100501008": {
+        "Key": "Skill10",
+        "Name": "灭世纪的预兆",
+        "Desc": "<b>锁定</b>我方单体，下次行动对该目标施放<color style='color:#f29e38;'>【裂魂寒流】</color>。",
+        "SP": 0,
+        "Prepare": [
+            100501002
+        ],
+        "Status": [
+            210050101
+        ]
+    },
+    "100501009": {
+        "Key": "SkillP01",
+        "Name": "创世者的决意",
+        "Desc": "阶段转换后速度提高<color style='color:#f29e38;'>20</color>，生命值上限改为原本的<color style='color:#f29e38;'>60%</color>，韧性改为原本的<color style='color:#f29e38;'>88.8%</color>。攻击造成的伤害转变为虚数属性。",
+        "SP": 0
+    },
+    "100501101": {
+        "Key": "Skill01",
+        "Name": "碎骨寒流",
+        "Desc": "对指定我方单体造成<1>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            2.0
+        ]
+    },
+    "100501102": {
+        "Key": "Skill06",
+        "Name": "裂魂寒流",
+        "Desc": "对指定我方单体造成<1>冰属性伤害。",
+        "SP": 15.0,
+        "Elem": "Ice",
+        "Threat": true,
+        "DMG": [
+            9.5
+        ]
+    },
+    "100501103": {
+        "Key": "Skill04",
+        "Name": "灭世冰雨",
+        "Desc": "对我方全体造成<1>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            1.7
+        ]
+    },
+    "100501104": {
+        "Key": "Skill02",
+        "Name": "冷酷灭世者之唤",
+        "Desc": "召唤2个<color style='color:#f29e38;'>【无尽寒冬之槊】</color>。其中一个行动延后<color style='color:#f29e38;'>80%</color>。",
+        "SP": 0,
+        "Summon": [
+            1002013,
+            1002014
+        ]
+    },
+    "100501105": {
+        "Key": "Skill07",
+        "Name": "创世和弦",
+        "Desc": "对指定我方单体造成<1>虚数属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受击者陷入<b>禁锢</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>禁锢：无法行动，行动延后<color style='color:#f29e38;'>50%</color>。",
+        "SP": 10.0,
+        "Elem": "Imaginary",
+        "Status": [
+            30020013
+        ],
+        "DMG": [
+            3.0
+        ]
+    },
+    "100501106": {
+        "Key": "Skill08",
+        "Name": "创世纪的前奏",
+        "Desc": "进入<color style='color:#f29e38;'>蓄力</color>状态。下次行动对我方全体施放<color style='color:#f29e38;'>【创世绝响】</color>。",
+        "SP": 0,
+        "Prepare": [
+            100501107
+        ],
+        "Status": [
+            210050105
+        ]
+    },
+    "100501107": {
+        "Key": "Skill09",
+        "Name": "创世绝响",
+        "Desc": "对我方全体造成<1>虚数属性伤害。",
+        "SP": 20.0,
+        "Elem": "Imaginary",
+        "Threat": true,
+        "DMG": [
+            6.5
+        ]
+    },
+    "100501108": {
+        "Key": "Skill10",
+        "Name": "灭世纪的预兆",
+        "Desc": "<b>锁定</b>我方单体，下次行动对该目标施放<color style='color:#f29e38;'>【裂魂寒流】</color>。",
+        "SP": 0,
+        "Prepare": [
+            100501102
+        ],
+        "Status": [
+            210050101
+        ]
+    },
+    "100501109": {
+        "Key": "SkillP01",
+        "Name": "创世者的决意",
+        "Desc": "阶段转换后速度提高<color style='color:#f29e38;'>20</color>，生命值上限改为原本的<color style='color:#f29e38;'>60%</color>，韧性改为原本的<color style='color:#f29e38;'>88.8%</color>。攻击造成的伤害转变为虚数属性。",
+        "SP": 0
+    },
+    "100501110": {
+        "Key": "SkillPerform01",
+        "Name": "dev_巨大化表演",
+        "Desc": "dev_第二战开场巨大化表演。不显示。",
+        "SP": 0
+    },
+    "100501201": {
+        "Key": "Skill01",
+        "Name": "碎骨寒流",
+        "Desc": "对指定我方单体造成<1>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            3.5
+        ]
+    },
+    "100501202": {
+        "Key": "Skill06",
+        "Name": "裂魂寒流",
+        "Desc": "对指定我方单体造成<1>冰属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受击者陷入<b>冻结</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>冻结附加伤害：<2>冰属性伤害。",
+        "SP": 15.0,
+        "Elem": "Ice",
+        "Threat": true,
+        "DMG": [
+            6.5,
+            1.0
+        ]
+    },
+    "100501203": {
+        "Key": "Skill04",
+        "Name": "灭世冰雨",
+        "Desc": "对我方全体造成<1>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            2.5
+        ]
+    },
+    "100501204": {
+        "Key": "Skill02",
+        "Name": "冷酷灭世者之唤",
+        "Desc": "召唤2个<color style='color:#f29e38;'>【无尽寒冬之槊】</color>。分别行动延后<color style='color:#f29e38;'>30%</color>和<color style='color:#f29e38;'>80%</color>。",
+        "SP": 0,
+        "Summon": [
+            1002017,
+            1002018
+        ]
+    },
+    "100501205": {
+        "Key": "Skill07",
+        "Name": "创世和弦",
+        "Desc": "对指定我方单体造成<1>虚数属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受击者陷入<b>禁锢</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>禁锢：无法行动，行动延后<color style='color:#f29e38;'>50%</color>。",
+        "SP": 10.0,
+        "Elem": "Imaginary",
+        "Status": [
+            30020013
+        ],
+        "DMG": [
+            3.0
+        ]
+    },
+    "100501206": {
+        "Key": "Skill08",
+        "Name": "创世纪的前奏",
+        "Desc": "进入<color style='color:#f29e38;'>蓄力</color>状态。下次行动对我方全体施放<color style='color:#f29e38;'>【创世绝响】</color>。",
+        "SP": 0,
+        "Prepare": [
+            100501207
+        ],
+        "Status": [
+            210050105
+        ]
+    },
+    "100501207": {
+        "Key": "Skill09",
+        "Name": "创世绝响",
+        "Desc": "对我方全体造成<1>虚数属性伤害。",
+        "SP": 20.0,
+        "Elem": "Imaginary",
+        "Threat": true,
+        "DMG": [
+            6.5
+        ]
+    },
+    "100501208": {
+        "Key": "Skill10",
+        "Name": "灭世纪的预兆",
+        "Desc": "<b>锁定</b>我方单体，下次行动对该目标施放<color style='color:#f29e38;'>【裂魂寒流】</color>。",
+        "SP": 0,
+        "Prepare": [
+            100501202
+        ],
+        "Status": [
+            210050101
+        ]
+    },
+    "100501209": {
+        "Key": "SkillP02",
+        "Name": "灭世者的决意",
+        "Desc": "对指定我方单体施放<color style='color:#f29e38;'>【裂魂寒流】</color>有<color style='color:#f29e38;'>100%</color>基础概率使该目标陷入<b>冻结</b>状态。",
+        "SP": 0,
+        "Elem": "Ice",
+        "Prepare": [
+            100501202
+        ]
+    },
+    "100501210": {
+        "Key": "SkillP01",
+        "Name": "创世者的决意",
+        "Desc": "阶段转换后速度提高<color style='color:#f29e38;'>40</color>，生命值上限改为原本的<color style='color:#f29e38;'>75%</color>，韧性改为原本的<color style='color:#f29e38;'>88.8%</color>。攻击造成的伤害转变为虚数属性。",
+        "SP": 0
+    },
+    "101201001": {
+        "Key": "Skill01",
+        "Name": "垂直打击",
+        "Desc": "对指定我方单体造成<1>物理伤害。",
+        "SP": 15.0,
+        "Elem": "Phys",
+        "DMG": [
+            2.5
+        ]
+    },
+    "101201002": {
+        "Key": "Skill05",
+        "Name": "自愈模块",
+        "Desc": "立即为敌方全体回复<color style='color:#f29e38;'>25%生命值上限</color>。",
+        "SP": 0
+    },
+    "101201101": {
+        "Key": "Skill01",
+        "Name": "垂直打击",
+        "Desc": "对指定我方单体造成<1>物理伤害。",
+        "SP": 15.0,
+        "Elem": "Phys",
+        "DMG": [
+            2.5
+        ]
+    },
+    "101201102": {
+        "Key": "Skill05",
+        "Name": "自愈模块",
+        "Desc": "立即为敌方全体回复<color style='color:#f29e38;'>25%生命值上限</color>。",
+        "SP": 0
+    },
+    "101202001": {
+        "Key": "Skill01",
+        "Name": "冲撞",
+        "Desc": "对指定我方单体造成<1>物理伤害。",
+        "SP": 15.0,
+        "Elem": "Phys",
+        "DMG": [
+            2.0
+        ]
+    },
+    "101202002": {
+        "Key": "Skill02",
+        "Name": "定时模块",
+        "Desc": "下次行动施放<color style='color:#f29e38;'>【自爆模块】</color>。",
+        "SP": 0,
+        "Prepare": [
+            101202003
+        ]
+    },
+    "101202003": {
+        "Key": "Skill03",
+        "Name": "自爆模块",
+        "Desc": "引爆自身，对指定我方单体及其相邻目标造成<1>火属性伤害。",
+        "SP": 15.0,
+        "Elem": "Fire",
+        "Threat": true,
+        "DMG": [
+            5.0
+        ]
+    },
+    "101202004": {
+        "Key": "PassiveSkillInitiate",
+        "Name": "毁灭连锁",
+        "Desc": "受到致命攻击后，对相邻的敌方目标造成<color style='color:#f29e38;'>120%自身生命值上限</color>的火属性伤害，造成<color style='color:#f29e38;'>2.0</color>点火属性削韧。",
+        "SP": 0,
+        "Elem": "Fire"
+    },
+    "101202005": {
+        "Key": "Skill04",
+        "Name": "对█不起█ █",
+        "Desc": "dev_待机。不显示。",
+        "SP": 0
+    },
+    "101202101": {
+        "Key": "Skill01",
+        "Name": "冲撞",
+        "Desc": "对指定我方单体造成<1>物理伤害。",
+        "SP": 15.0,
+        "Elem": "Phys",
+        "DMG": [
+            2.0
+        ]
+    },
+    "101202102": {
+        "Key": "Skill02",
+        "Name": "定时模块",
+        "Desc": "下次行动施放<color style='color:#f29e38;'>【自爆模块】</color>。",
+        "SP": 0,
+        "Prepare": [
+            101202103
+        ]
+    },
+    "101202103": {
+        "Key": "Skill03",
+        "Name": "自爆模块",
+        "Desc": "引爆自身，对指定我方单体及其相邻目标造成<1>火属性伤害。",
+        "SP": 15.0,
+        "Elem": "Fire",
+        "Threat": true,
+        "DMG": [
+            5.0
+        ]
+    },
+    "101202104": {
+        "Key": "PassiveSkillInitiate",
+        "Name": "毁灭连锁",
+        "Desc": "受到致命攻击后，对相邻的敌方目标造成<color style='color:#f29e38;'>120%自身生命值上限</color>的火属性伤害，造成<color style='color:#f29e38;'>2.0</color>点火属性削韧。",
+        "SP": 0,
+        "Elem": "Fire"
+    },
+    "101203001": {
+        "Key": "Skill01",
+        "Name": "不稳定力场",
+        "Desc": "对指定我方单体造成<1>物理伤害，并为自身提供屏障，屏障可抵抗除持续伤害外的所有伤害，受到攻击后解除。",
+        "SP": 15.0,
+        "Elem": "Phys",
+        "DMG": [
+            3.0
+        ]
+    },
+    "101204001": {
+        "Key": "PassiveSkill02",
+        "Name": "dev_击飞免疫",
+        "Desc": "dev_不显示。",
+        "SP": 0
+    },
+    "101204002": {
+        "Key": "PassiveSkill03",
+        "Name": "巨掌之间",
+        "Desc": "对陷入<color style='color:#f29e38;'>【拘束】</color>状态的我方目标造成<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "Status": [
+            210040204
+        ]
+    },
+    "101204003": {
+        "Key": "Skill02",
+        "Name": "等待指令",
+        "Desc": "dev_待机。不显示。",
+        "SP": 0
+    },
+    "101204004": {
+        "Key": "Skill03",
+        "Name": "巨掌之间",
+        "Desc": "使指定我方单体陷入<color style='color:#f29e38;'>【拘束】</color>状态，并造成一次<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。当自身弱点被击破时，我方目标的【拘束】状态立即解除。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "Status": [
+            210040204
+        ]
+    },
+    "101204005": {
+        "Key": "Skill04",
+        "Name": "失能电场",
+        "Desc": "对陷入<color style='color:#f29e38;'>【拘束】</color>状态的我方目标造成<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。",
+        "SP": 10.0,
+        "Status": [
+            210040204
+        ]
+    },
+    "101204006": {
+        "Key": "Skill05",
+        "Name": "控场起爆",
+        "Desc": "辅助机械臂发生爆炸，对指定我方单体造成<1>物理伤害。",
+        "SP": 25.0,
+        "Elem": "Phys",
+        "Threat": true,
+        "DMG": [
+            15.0
+        ]
+    },
+    "101204007": {
+        "Key": "Skill06",
+        "Name": "过载警告",
+        "Desc": "辅助机械臂单元进入<color style='color:#f29e38;'>【过载】</color>状态，并立即解除我方目标的【拘束】状态。<br>进入该状态后辅助机械臂单元下次行动施放<color style='color:#f29e38;'>【控场起爆】</color>。",
+        "SP": 0,
+        "Prepare": [
+            101204006
+        ],
+        "Status": [
+            210120401,
+            210120402
+        ]
+    },
+    "101204101": {
+        "Key": "PassiveSkill02",
+        "Name": "dev_击飞免疫",
+        "Desc": "dev_不显示。",
+        "SP": 0
+    },
+    "101204102": {
+        "Key": "PassiveSkill03",
+        "Name": "巨掌之间",
+        "Desc": "对陷入<color style='color:#f29e38;'>【拘束】</color>状态的我方目标造成<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "Status": [
+            210040113
+        ]
+    },
+    "101204103": {
+        "Key": "Skill02",
+        "Name": "等待指令",
+        "Desc": "dev_待机。不显示。",
+        "SP": 0
+    },
+    "101204104": {
+        "Key": "Skill03",
+        "Name": "巨掌之间",
+        "Desc": "使指定我方单体陷入<color style='color:#f29e38;'>【拘束】</color>状态，并造成一次<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。当自身弱点被击破，或生命值低于<color style='color:#f29e38;'>50%</color>时，我方目标的【拘束】状态立即解除。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "Status": [
+            210040113
+        ]
+    },
+    "101204105": {
+        "Key": "Skill04",
+        "Name": "失能电场",
+        "Desc": "对陷入<color style='color:#f29e38;'>【拘束】</color>状态的我方目标造成<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。",
+        "SP": 10.0,
+        "Status": [
+            210040113
+        ]
+    },
+    "101204106": {
+        "Key": "Skill05",
+        "Name": "控场起爆",
+        "Desc": "辅助机械臂发生爆炸，对指定我方单体造成<1>物理伤害。",
+        "SP": 25.0,
+        "Elem": "Phys",
+        "Threat": true,
+        "DMG": [
+            15.0
+        ]
+    },
+    "101204107": {
+        "Key": "Skill06",
+        "Name": "过载警告",
+        "Desc": "辅助机械臂单元进入<color style='color:#f29e38;'>【过载】</color>状态，并立即解除我方目标的【拘束】状态。进入该状态后辅助机械臂单元下次行动施放<color style='color:#f29e38;'>【控场起爆】</color>。",
+        "SP": 0,
+        "Prepare": [
+            101204106
+        ],
+        "Status": [
+            210120411,
+            210120402
+        ]
+    },
+    "101204201": {
+        "Key": "PassiveSkill02",
+        "Name": "",
+        "Desc": "dev_不显示。",
+        "SP": 0
+    },
+    "101204202": {
+        "Key": "PassiveSkill03",
+        "Name": "巨掌之间",
+        "Desc": "对陷入【拘束】状态的我方目标造成<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "Status": [
+            210040113
+        ]
+    },
+    "101204203": {
+        "Key": "Skill02",
+        "Name": "等待指令",
+        "Desc": "dev_待机。不显示。",
+        "SP": 0
+    },
+    "101204204": {
+        "Key": "Skill03",
+        "Name": "巨掌之间",
+        "Desc": "使指定我方单体陷入<color style='color:#f29e38;'>【拘束】</color>状态，并造成一次<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。当自身弱点被击破，或生命值低于<color style='color:#f29e38;'>50%</color>时，我方目标的【拘束】状态立即解除。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "Status": [
+            210040113
+        ]
+    },
+    "101204205": {
+        "Key": "Skill04",
+        "Name": "失能电场",
+        "Desc": "对陷入<color style='color:#f29e38;'>【拘束】</color>状态的我方目标造成<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。",
+        "SP": 10.0,
+        "Status": [
+            210040113
+        ]
+    },
+    "101204206": {
+        "Key": "Skill05",
+        "Name": "控场起爆",
+        "Desc": "辅助机械臂发生爆炸，对指定我方单体造成<1>物理伤害。",
+        "SP": 25.0,
+        "Elem": "Phys",
+        "Threat": true,
+        "DMG": [
+            25.0
+        ]
+    },
+    "101204207": {
+        "Key": "Skill06",
+        "Name": "过载警告",
+        "Desc": "辅助机械臂单元进入<color style='color:#f29e38;'>【过载】</color>状态，并立即解除我方目标的【拘束】状态。进入该状态后辅助机械臂单元下次行动施放<color style='color:#f29e38;'>【控场起爆】</color>。",
+        "SP": 0,
+        "Prepare": [
+            101204206
+        ],
+        "Status": [
+            210120411,
+            210120402
+        ]
+    },
+    "101301001": {
+        "Key": "Skill05",
+        "Name": "爆裂指令",
+        "Desc": "召唤<color style='color:#f29e38;'>【自动机兵•蜘蛛】</color>。",
+        "SP": 0,
+        "Summon": [
+            1012021
+        ]
+    },
+    "101301002": {
+        "Key": "Skill04",
+        "Name": "愤怒指令",
+        "Desc": "有<color style='color:#f29e38;'>50%</color>基础概率使我方全体陷入<b>嘲讽</b>状态，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 0,
+        "Status": [
+            30020010
+        ]
+    },
+    "101301003": {
+        "Key": "Skill02",
+        "Name": "过载指令",
+        "Desc": "进入<color style='color:#f29e38;'>蓄力</color>状态，下次行动对我方全体施放<color style='color:#f29e38;'>【剿灭指令】</color>。",
+        "SP": 0,
+        "Prepare": [
+            101301004
+        ]
+    },
+    "101301004": {
+        "Key": "Skill03",
+        "Name": "剿灭指令",
+        "Desc": "对我方全体造成<1>物理伤害。",
+        "SP": 20.0,
+        "Elem": "Phys",
+        "Threat": true,
+        "DMG": [
+            4.0
+        ]
+    },
+    "101301005": {
+        "Key": "PassiveSkillInitiate",
+        "Name": "dev_指令 · 强攻模式",
+        "Desc": "dev_不显示。",
+        "SP": 0
+    },
+    "101301009": {
+        "Key": "Skill01",
+        "Name": "破坏指令",
+        "Desc": "对指定我方单体造成<1>物理伤害。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "DMG": [
+            3.0
+        ]
+    },
+    "101301101": {
+        "Key": "Skill05",
+        "Name": "爆裂指令",
+        "Desc": "召唤<color style='color:#f29e38;'>【自动机兵•蜘蛛】</color>和<color style='color:#f29e38;'>【自动机兵•甲虫】</color>。",
+        "SP": 0,
+        "Summon": [
+            1012021,
+            1012030
+        ]
+    },
+    "101301102": {
+        "Key": "Skill04",
+        "Name": "愤怒指令",
+        "Desc": "有<color style='color:#f29e38;'>100%</color>基础概率使我方全体陷入<b>嘲讽</b>状态，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 0,
+        "Status": [
+            30020010
+        ]
+    },
+    "101301103": {
+        "Key": "Skill02",
+        "Name": "过载指令",
+        "Desc": "进入<color style='color:#f29e38;'>蓄力</color>状态：造成的伤害提高<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>1</color>回合。下次行动对我方全体施放<color style='color:#f29e38;'>【剿灭指令】</color>。",
+        "SP": 0,
+        "Prepare": [
+            101301104
+        ],
+        "Status": [
+            210130101
+        ]
+    },
+    "101301104": {
+        "Key": "Skill03",
+        "Name": "剿灭指令",
+        "Desc": "对我方全体造成<1>物理伤害。",
+        "SP": 20.0,
+        "Elem": "Phys",
+        "Threat": true,
+        "DMG": [
+            4.0
+        ]
+    },
+    "101301105": {
+        "Key": "PassiveSkillInitiate",
+        "Name": "dev_指令 · 强攻模式",
+        "Desc": "dev_不显示。",
+        "SP": 0
+    },
+    "101301109": {
+        "Key": "Skill01",
+        "Name": "破坏指令",
+        "Desc": "对指定我方单体造成<1>物理伤害。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "DMG": [
+            3.0
+        ]
+    },
+    "101301203": {
+        "Key": "Skill05",
+        "Name": "爆裂指令",
+        "Desc": "召唤<color style='color:#f29e38;'>【自动机兵•蜘蛛】</color>。",
+        "SP": 0,
+        "Summon": [
+            1012020
+        ]
+    },
+    "101301204": {
+        "Key": "Skill04",
+        "Name": "愤怒指令",
+        "Desc": "有<color style='color:#f29e38;'>100%</color>基础概率使我方全体陷入<b>嘲讽</b>状态，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 0,
+        "Status": [
+            30020010
+        ]
+    },
+    "101301205": {
+        "Key": "Skill02",
+        "Name": "过载指令",
+        "Desc": "进入<color style='color:#f29e38;'>蓄力</color>状态：造成的伤害提高<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>1</color>回合。下次行动对我方全体施放<color style='color:#f29e38;'>【剿灭指令】</color>。",
+        "SP": 0,
+        "Prepare": [
+            101301206
+        ],
+        "Status": [
+            210130101
+        ]
+    },
+    "101301206": {
+        "Key": "Skill03",
+        "Name": "剿灭指令",
+        "Desc": "对我方全体造成<1>物理伤害。",
+        "SP": 20.0,
+        "Elem": "Phys",
+        "Threat": true,
+        "DMG": [
+            4.0
+        ]
+    },
+    "101301207": {
+        "Key": "PassiveSkillInitiate",
+        "Name": "dev_指令 · 强攻模式",
+        "Desc": "dev_不显示。",
+        "SP": 0
+    },
+    "101301201": {
+        "Key": "Skill01",
+        "Name": "破坏指令",
+        "Desc": "对指定我方单体造成<1>物理伤害。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "DMG": [
+            3.0
+        ]
+    },
+    "101301202": {
+        "Key": "Skill06",
+        "Name": "dev_强力普攻",
+        "Desc": "dev_对指定我方单体造成大量物理伤害。",
+        "SP": 20.0,
+        "Elem": "Phys"
+    },
+    "101301208": {
+        "Key": "PassiveSkill01",
+        "Name": "毁灭指令",
+        "Desc": "第三阶段的生命值上限改为原本的<color style='color:#f29e38;'>2.0</color>倍。<br>每次施放【过载指令】时使自身造成的伤害额外提高<color style='color:#f29e38;'>60%</color>，可叠加。",
+        "SP": 0,
+        "Prepare": [
+            101301205
+        ],
+        "Status": [
+            210130122
+        ]
+    },
+    "101301303": {
+        "Key": "Skill05",
+        "Name": "爆裂指令",
+        "Desc": "召唤<color style='color:#f29e38;'>【自动机兵•蜘蛛】</color>。",
+        "SP": 0,
+        "Summon": [
+            1012020
+        ]
+    },
+    "101301304": {
+        "Key": "Skill04",
+        "Name": "愤怒指令",
+        "Desc": "有<color style='color:#f29e38;'>100%</color>基础概率使我方全体陷入<b>嘲讽</b>状态，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 0,
+        "Status": [
+            30020010
+        ]
+    },
+    "101301305": {
+        "Key": "Skill02",
+        "Name": "过载指令",
+        "Desc": "进入<color style='color:#f29e38;'>蓄力</color>状态：造成的伤害提高<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>1</color>回合。下次行动对我方全体施放<color style='color:#f29e38;'>【剿灭指令】</color>。",
+        "SP": 0,
+        "Prepare": [
+            101301306
+        ],
+        "Status": [
+            210130101
+        ]
+    },
+    "101301306": {
+        "Key": "Skill03",
+        "Name": "剿灭指令",
+        "Desc": "对我方全体造成<1>物理伤害。",
+        "SP": 20.0,
+        "Elem": "Phys",
+        "Threat": true,
+        "DMG": [
+            4.0
+        ]
+    },
+    "101301307": {
+        "Key": "PassiveSkillInitiate",
+        "Name": "",
+        "Desc": "dev_不显示。",
+        "SP": 0
+    },
+    "101301301": {
+        "Key": "Skill01",
+        "Name": "破坏指令",
+        "Desc": "对指定我方单体造成<1>物理伤害。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "DMG": [
+            3.0
+        ]
+    },
+    "101301302": {
+        "Key": "Skill06",
+        "Name": "",
+        "Desc": "dev_对指定我方单体造成大量物理伤害。",
+        "SP": 20.0,
+        "Elem": "Phys"
+    },
+    "101301308": {
+        "Key": "PassiveSkill01",
+        "Name": "毁灭指令",
+        "Desc": "第三阶段的生命值上限改为原本的<color style='color:#f29e38;'>1.5</color>倍。<br>每次施放【过载指令】时使自身造成的伤害额外提高<color style='color:#f29e38;'>50%</color>，可叠加。",
+        "SP": 0,
+        "Prepare": [
+            101301305
+        ],
+        "Status": [
+            210130122
+        ]
+    },
+    "101302001": {
+        "Key": "Skill06",
+        "Name": "砍伐指令",
+        "Desc": "对指定我方单体造成<1>物理伤害，并施加10次<b>裂伤</b>，每次均有<color style='color:#f29e38;'>50%</color>基础概率成功。若施放本技能时该目标未持有护盾，则再对我方随机单体施放1次<color style='color:#f29e38;'>【解体拆除】</color>。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "SP": 20.0,
+        "Elem": "Phys",
+        "Threat": true,
+        "Prepare": [
+            101302004
+        ],
+        "Status": [
+            210130202
+        ],
+        "DMG": [
+            4.0,
+            0.05
+        ]
+    },
+    "101302002": {
+        "Key": "Skill07",
+        "Name": "目标锁定",
+        "Desc": "<b>锁定</b>指定我方单体，下次行动对其施放<color style='color:#f29e38;'>【砍伐指令】</color>。",
+        "SP": 0,
+        "Prepare": [
+            101302001
+        ],
+        "Status": [
+            210130201
+        ]
+    },
+    "101302003": {
+        "Key": "Skill09",
+        "Name": "解体指令",
+        "Desc": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率对其增加1层<b>裂伤</b>状态。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "Status": [
+            210130202
+        ],
+        "DMG": [
+            2.5,
+            0.05
+        ]
+    },
+    "101302004": {
+        "Key": "Skill11",
+        "Name": "解体拆除",
+        "Desc": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率对其增加1层<b>裂伤</b>状态。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "Status": [
+            210130202
+        ],
+        "DMG": [
+            2.5,
+            0.05
+        ]
+    },
+    "101302101": {
+        "Key": "Skill06",
+        "Name": "砍伐指令",
+        "Desc": "对指定我方单体造成<1>物理伤害，并施加10次<b>裂伤</b>，每次均有<color style='color:#f29e38;'>80%</color>基础概率成功。若施放本技能时该目标未持有护盾，则再对我方随机单体施放1次<color style='color:#f29e38;'>【解体拆除】</color>。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "SP": 20.0,
+        "Elem": "Phys",
+        "Threat": true,
+        "Prepare": [
+            101302104
+        ],
+        "Status": [
+            210130202
+        ],
+        "DMG": [
+            6.0,
+            0.05
+        ]
+    },
+    "101302102": {
+        "Key": "Skill07",
+        "Name": "目标锁定",
+        "Desc": "<b>锁定</b>指定我方单体，下次行动对其施放<color style='color:#f29e38;'>【砍伐指令】</color>。",
+        "SP": 0,
+        "Prepare": [
+            101302101
+        ],
+        "Status": [
+            210130201
+        ]
+    },
+    "101302103": {
+        "Key": "Skill09",
+        "Name": "解体指令",
+        "Desc": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率对其增加1层<b>裂伤</b>状态。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "Status": [
+            210130202
+        ],
+        "DMG": [
+            2.5,
+            0.05
+        ]
+    },
+    "101302104": {
+        "Key": "Skill11",
+        "Name": "解体拆除",
+        "Desc": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率对其增加1层<b>裂伤</b>状态。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "Status": [
+            210130202
+        ],
+        "DMG": [
+            2.5,
+            0.05
+        ]
+    },
+    "101302105": {
+        "Key": "Skill12",
+        "Name": "瞄准指令",
+        "Desc": "<b>锁定</b>2个我方目标，下次行动对其施放<color style='color:#f29e38;'>【砍伐指令】</color>。",
+        "SP": 0,
+        "Prepare": [
+            101302101
+        ],
+        "Status": [
+            210130201
+        ]
+    },
+    "101302201": {
+        "Key": "Skill06",
+        "Name": "砍伐指令",
+        "Desc": "对指定我方单体造成<1>物理伤害，并施加10次<b>裂伤</b>，每次均有<color style='color:#f29e38;'>80%</color>基础概率成功。若施放本技能时该目标未持有护盾，则再对我方随机单体施放1次<color style='color:#f29e38;'>【解体拆除】</color>。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "SP": 20.0,
+        "Elem": "Phys",
+        "Threat": true,
+        "Prepare": [
+            101302204
+        ],
+        "Status": [
+            210130202
+        ],
+        "DMG": [
+            6.0,
+            0.05
+        ]
+    },
+    "101302202": {
+        "Key": "Skill07",
+        "Name": "目标锁定",
+        "Desc": "<b>锁定</b>指定我方单体，下次行动对其施放<color style='color:#f29e38;'>【砍伐指令】</color>。",
+        "SP": 0,
+        "Prepare": [
+            101302201
+        ],
+        "Status": [
+            210130201
+        ]
+    },
+    "101302205": {
+        "Key": "Skill09",
+        "Name": "解体指令",
+        "Desc": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率对其增加1层<b>裂伤</b>状态。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "Status": [
+            210130202
+        ],
+        "DMG": [
+            2.5,
+            0.05
+        ]
+    },
+    "101302206": {
+        "Key": "Skill11",
+        "Name": "解体拆除",
+        "Desc": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率对其增加1层<b>裂伤</b>状态。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "Status": [
+            210130202
+        ],
+        "DMG": [
+            2.5,
+            0.05
+        ]
+    },
+    "101302203": {
+        "Key": "Skill12",
+        "Name": "瞄准指令",
+        "Desc": "<b>锁定</b>2个我方目标，下次行动对其施放<color style='color:#f29e38;'>【砍伐指令】</color>。",
+        "SP": 0,
+        "Prepare": [
+            101302201
+        ],
+        "Status": [
+            210130201
+        ]
+    },
+    "101302204": {
+        "Key": "Skill10",
+        "Name": "协力指令",
+        "Desc": "<b>锁定</b>2个我方单体，下次行动对其施放<color style='color:#f29e38;'>【砍伐指令】</color>。同时使【自动机兵·灰熊】进入蓄力状态，下次行动对我方全体施放<color style='color:#f29e38;'>【剿灭指令】</color>。",
+        "SP": 0,
+        "Prepare": [
+            101302201
+        ],
+        "Status": [
+            210130201
+        ]
+    },
+    "101302207": {
+        "Key": "Skill08",
+        "Name": "dev_强力普攻",
+        "Desc": "dev_对指定我方单体造成物理伤害，并大概率对其增加多层裂伤。",
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "101302208": {
+        "Key": "PassiveSkill01",
+        "Name": "作战加速",
+        "Desc": "第三阶段的生命值上限改为原本的<color style='color:#f29e38;'>2.0</color>倍。<br>使自身速度提高<color style='color:#f29e38;'>60%</color>。每次施放【瞄准指令】时使自身速度额外提高<color style='color:#f29e38;'>20%</color>，可叠加。",
+        "SP": 0,
+        "Status": [
+            210130221,
+            210130222
+        ]
+    },
+    "101302301": {
+        "Key": "Skill06",
+        "Name": "砍伐指令",
+        "Desc": "对指定我方单体造成<1>物理伤害，并施加10次<b>裂伤</b>，每次均有<color style='color:#f29e38;'>50%</color>基础概率成功。若施放本技能时该目标未持有护盾，则再对我方随机单体施放1次<color style='color:#f29e38;'>【解体拆除】</color>。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "SP": 20.0,
+        "Elem": "Phys",
+        "Threat": true,
+        "Prepare": [
+            101302304
+        ],
+        "Status": [
+            210130202
+        ],
+        "DMG": [
+            4.0,
+            0.05
+        ]
+    },
+    "101302302": {
+        "Key": "Skill07",
+        "Name": "目标锁定",
+        "Desc": "<b>锁定</b>指定我方单体，下次行动对其施放<color style='color:#f29e38;'>【砍伐指令】</color>。",
+        "SP": 0,
+        "Prepare": [
+            101302301
+        ],
+        "Status": [
+            210130201
+        ]
+    },
+    "101302305": {
+        "Key": "Skill09",
+        "Name": "解体指令",
+        "Desc": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率对其增加1层<b>裂伤</b>状态。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "Status": [
+            210130202
+        ],
+        "DMG": [
+            2.5,
+            0.05
+        ]
+    },
+    "101302306": {
+        "Key": "Skill11",
+        "Name": "解体拆除",
+        "Desc": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率对其增加1层<b>裂伤</b>状态。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "Status": [
+            210130202
+        ],
+        "DMG": [
+            2.5,
+            0.05
+        ]
+    },
+    "101302303": {
+        "Key": "Skill12",
+        "Name": "瞄准指令",
+        "Desc": "<b>锁定</b>2个我方目标，下次行动对其施放<color style='color:#f29e38;'>【砍伐指令】</color>。",
+        "SP": 0,
+        "Prepare": [
+            101302301
+        ],
+        "Status": [
+            210130201
+        ]
+    },
+    "101302304": {
+        "Key": "Skill10",
+        "Name": "协力指令",
+        "Desc": "<b>锁定</b>2个我方单体，下次行动对其施放<color style='color:#f29e38;'>【砍伐指令】</color>。同时使【自动机兵·灰熊】进入蓄力状态，下次行动对我方全体施放<color style='color:#f29e38;'>【剿灭指令】</color>。",
+        "SP": 0,
+        "Prepare": [
+            101302301
+        ],
+        "Status": [
+            210130201
+        ]
+    },
+    "101302307": {
+        "Key": "Skill08",
+        "Name": "",
+        "Desc": "dev_对指定我方单体造成物理伤害，并大概率对其增加多层裂伤。",
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "101302308": {
+        "Key": "PassiveSkill01",
+        "Name": "作战加速",
+        "Desc": "第三阶段的生命值上限改为原本的<color style='color:#f29e38;'>1.5</color>倍。<br>使自身速度提高<color style='color:#f29e38;'>60%</color>。每次施放【瞄准指令】时使自身速度额外提高<color style='color:#f29e38;'>10%</color>，可叠加。",
+        "SP": 0,
+        "Status": [
+            210130221,
+            210130222
+        ]
+    },
+    "101401001": {
+        "Key": "Skill01",
+        "Name": "驱逐拳击",
+        "Desc": "对指定我方单体造成<1>物理伤害。",
+        "SP": 15.0,
+        "Elem": "Phys",
+        "DMG": [
+            3.0
+        ]
+    },
+    "101401002": {
+        "Key": "Skill02",
+        "Name": "延烧光束",
+        "Desc": "对指定我方单体造成<1>物理伤害，并使受到攻击的我方目标行动延后<color style='color:#f29e38;'>30%</color>。",
+        "SP": 15.0,
+        "Elem": "Phys",
+        "DMG": [
+            3.0
+        ]
+    },
+    "101401003": {
+        "Key": "Skill03",
+        "Name": "巨掌之间",
+        "Desc": "使指定我方单体陷入<color style='color:#f29e38;'>【拘束】</color>状态，【拘束】状态下无法行动也无法被指定为目标，每回合开始时受到<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。当辅助机械臂单元被弱点击破时我方目标的【拘束】状态立即解除。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "Status": [
+            210040204
+        ]
+    },
+    "101401004": {
+        "Key": "Skill04",
+        "Name": "高效轰炸",
+        "Desc": "对我方全体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标防御力降低<color style='color:#f29e38;'>30%</color>，持续<color style='color:#f29e38;'>2</color>回合，可叠加。",
+        "SP": 2.0,
+        "Elem": "Phys",
+        "Threat": true,
+        "Status": [
+            30010006
+        ],
+        "DMG": [
+            2.4
+        ]
+    },
+    "101401005": {
+        "Key": "Skill05",
+        "Name": "控场起爆",
+        "Desc": "辅助机械臂单元发生爆炸，对指定我方单体造成<1>物理伤害。",
+        "SP": 25.0,
+        "Elem": "Phys",
+        "DMG": [
+            15.0
+        ]
+    },
+    "101401006": {
+        "Key": "Skill06",
+        "Name": "过载警告",
+        "Desc": "辅助机械臂单元进入<color style='color:#f29e38;'>【过载时限】</color>状态，进入该状态后下次行动施放<color style='color:#f29e38;'>【控场起爆】</color>。",
+        "SP": 0,
+        "Elem": "Phys",
+        "Prepare": [
+            101401005
+        ],
+        "Status": [
+            210120401
+        ]
+    },
+    "101401007": {
+        "Key": "Skill07",
+        "Name": "增效部署",
+        "Desc": "召唤<color style='color:#f29e38;'>【辅助机械臂单元】</color>。",
+        "SP": 0,
+        "Elem": "Phys",
+        "Summon": [
+            1012040
+        ]
+    },
+    "101401008": {
+        "Key": "Skill08",
+        "Name": "dev_待机",
+        "Desc": "dev_待机。不显示。",
+        "SP": 0,
+        "Elem": "Phys"
+    },
+    "101401009": {
+        "Key": "PassiveSkill02",
+        "Name": "dev_血量触发",
+        "Desc": "dev_当辅助机械臂单元存在于场上时，史瓦罗受到的伤害降低。不显示。",
+        "SP": 0
+    },
+    "101401010": {
+        "Key": "PassiveSkill04",
+        "Name": "dev_弱点击破减速",
+        "Desc": "dev_当被弱点击破时，自身速度降低，持续1回合。不显示。",
+        "SP": 0
+    },
+    "101401011": {
+        "Key": "PassiveSkill05",
+        "Name": "dev_击飞免疫",
+        "Desc": "dev_不显示。",
+        "SP": 0
+    },
+    "101401101": {
+        "Key": "Skill01",
+        "Name": "驱逐拳击",
+        "Desc": "对指定我方单体造成<1>物理伤害。",
+        "SP": 15.0,
+        "Elem": "Phys",
+        "DMG": [
+            3.0
+        ]
+    },
+    "101401102": {
+        "Key": "Skill02",
+        "Name": "延烧光束",
+        "Desc": "对指定我方单体造成<1>物理伤害，并使受到攻击的我方目标行动延后<color style='color:#f29e38;'>50%</color>。",
+        "SP": 15.0,
+        "Elem": "Phys",
+        "DMG": [
+            3.0
+        ]
+    },
+    "101401103": {
+        "Key": "Skill03",
+        "Name": "巨掌之间",
+        "Desc": "使指定我方单体陷入<color style='color:#f29e38;'>【拘束】</color>状态，【拘束】状态下无法行动也无法被指定为目标，每回合开始时受到<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。当辅助机械臂单元被弱点击破时我方目标的【拘束】状态立即解除。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "Status": [
+            210040113
+        ]
+    },
+    "101401104": {
+        "Key": "Skill04",
+        "Name": "过饱和轰炸",
+        "Desc": "对我方全体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>3</color>回合，可叠加。",
+        "SP": 2.0,
+        "Elem": "Phys",
+        "Threat": true,
+        "Status": [
+            30010006
+        ],
+        "DMG": [
+            1.8
+        ]
+    },
+    "101401105": {
+        "Key": "Skill05",
+        "Name": "控场起爆",
+        "Desc": "辅助机械臂单元发生爆炸，对指定我方单体造成<1>物理伤害。",
+        "SP": 25.0,
+        "Elem": "Phys",
+        "DMG": [
+            15.0
+        ]
+    },
+    "101401106": {
+        "Key": "Skill06",
+        "Name": "过载警告",
+        "Desc": "辅助机械臂单元进入<color style='color:#f29e38;'>【过载时限】</color>状态，进入该状态后下次行动施放<color style='color:#f29e38;'>【控场起爆】</color>。",
+        "SP": 0,
+        "Prepare": [
+            101401105
+        ],
+        "Status": [
+            210120411
+        ]
+    },
+    "101401107": {
+        "Key": "Skill07",
+        "Name": "增效部署",
+        "Desc": "召唤<color style='color:#f29e38;'>【辅助机械臂单元】</color>。",
+        "SP": 0,
+        "Summon": [
+            1012041
+        ]
+    },
+    "101401108": {
+        "Key": "Skill08",
+        "Name": "dev_待机",
+        "Desc": "dev_待机。不显示。",
+        "SP": 0
+    },
+    "101401109": {
+        "Key": "PassiveSkill02",
+        "Name": "dev_血量触发",
+        "Desc": "dev_当辅助机械臂单元存在于场上时，史瓦罗受到的伤害降低。不显示。",
+        "SP": 0
+    },
+    "101401110": {
+        "Key": "PassiveSkill04",
+        "Name": "dev_弱点击破减速",
+        "Desc": "dev_当被弱点击破时，自身速度降低，持续1回合。不显示。",
+        "SP": 0
+    },
+    "101401111": {
+        "Key": "PassiveSkill05",
+        "Name": "dev_击飞免疫",
+        "Desc": "dev_不显示。",
+        "SP": 0
+    },
+    "101401112": {
+        "Key": "Skill09",
+        "Name": "输出增幅",
+        "Desc": "使敌方全体造成的伤害提高<color style='color:#f29e38;'>15%</color>，可叠加。",
+        "SP": 0
+    },
+    "101401113": {
+        "Key": "Skill10",
+        "Name": "应急支援",
+        "Desc": "随机召唤<color style='color:#f29e38;'>【自动机兵•甲虫】</color>和<color style='color:#f29e38;'>【自动机兵•战犬】</color>。",
+        "SP": 0,
+        "Summon": [
+            1012011,
+            101203005
+        ]
+    },
+    "101401114": {
+        "Key": "Skill11",
+        "Name": "战术支援",
+        "Desc": "召唤<color style='color:#f29e38;'>【自动机兵•齿狼】</color>。",
+        "SP": 0,
+        "Summon": [
+            101302002
+        ]
+    },
+    "101401201": {
+        "Key": "Skill01",
+        "Name": "驱逐拳击",
+        "Desc": "对指定我方单体造成<1>物理伤害。",
+        "SP": 15.0,
+        "Elem": "Phys",
+        "DMG": [
+            3.0
+        ]
+    },
+    "101401202": {
+        "Key": "Skill02",
+        "Name": "延烧光束",
+        "Desc": "对指定我方单体造成<1>物理伤害，并使受到攻击的我方目标行动延后<color style='color:#f29e38;'>50%</color>。",
+        "SP": 15.0,
+        "Elem": "Phys",
+        "DMG": [
+            3.0
+        ]
+    },
+    "101401203": {
+        "Key": "Skill03",
+        "Name": "巨掌之间",
+        "Desc": "使指定我方单体陷入<color style='color:#f29e38;'>【拘束】</color>状态，【拘束】状态下无法行动也无法被指定为目标，每回合开始时受到<color style='color:#f29e38;'>50%生命值上限</color>的物理伤害。当辅助机械臂单元被弱点击破时我方目标的【拘束】状态立即解除。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "Status": [
+            210040113
+        ]
+    },
+    "101401204": {
+        "Key": "Skill04",
+        "Name": "过饱和轰炸",
+        "Desc": "对我方全体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>3</color>回合，可叠加。",
+        "SP": 2.0,
+        "Elem": "Phys",
+        "Threat": true,
+        "Status": [
+            30010006
+        ],
+        "DMG": [
+            1.8
+        ]
+    },
+    "101401205": {
+        "Key": "Skill05",
+        "Name": "控场起爆",
+        "Desc": "辅助机械臂单元发生爆炸，对指定我方单体造成<1>物理伤害。",
+        "SP": 25.0,
+        "Elem": "Phys",
+        "DMG": [
+            15.0
+        ]
+    },
+    "101401206": {
+        "Key": "Skill06",
+        "Name": "过载警告",
+        "Desc": "辅助机械臂单元进入<color style='color:#f29e38;'>【过载时限】</color>状态，进入该状态后下次行动施放<color style='color:#f29e38;'>【控场起爆】</color>。",
+        "SP": 0,
+        "Prepare": [
+            101401105
+        ],
+        "Status": [
+            210120411
+        ]
+    },
+    "101401207": {
+        "Key": "Skill07",
+        "Name": "增效部署",
+        "Desc": "召唤<color style='color:#f29e38;'>【辅助机械臂单元】</color>。",
+        "SP": 0,
+        "Summon": [
+            1012041
+        ]
+    },
+    "101401208": {
+        "Key": "Skill08",
+        "Name": "",
+        "Desc": "dev_待机。不显示。",
+        "SP": 0
+    },
+    "101401209": {
+        "Key": "PassiveSkill02",
+        "Name": "",
+        "Desc": "第三阶段的生命值上限改为原本的<color style='color:#f29e38;'>1.6</color>倍。",
+        "SP": 0
+    },
+    "101401210": {
+        "Key": "PassiveSkill04",
+        "Name": "",
+        "Desc": "dev_当被弱点击破时，自身速度降低，持续1回合。不显示。",
+        "SP": 0
+    },
+    "101401211": {
+        "Key": "PassiveSkill05",
+        "Name": "",
+        "Desc": "dev_不显示。",
+        "SP": 0
+    },
+    "101401212": {
+        "Key": "Skill09",
+        "Name": "输出增幅",
+        "Desc": "使敌方全体造成的伤害提高<color style='color:#f29e38;'>15%</color>，可叠加。<br>第三阶段的生命值上限改为原本的<color style='color:#f29e38;'>1.6</color>倍。",
+        "SP": 0
+    },
+    "101401213": {
+        "Key": "Skill10",
+        "Name": "应急支援",
+        "Desc": "随机召唤<color style='color:#f29e38;'>【自动机兵•甲虫】</color>和<color style='color:#f29e38;'>【自动机兵•战犬】</color>。",
+        "SP": 0,
+        "Summon": [
+            1012011,
+            101203005
+        ]
+    },
+    "101401214": {
+        "Key": "Skill11",
+        "Name": "战术支援",
+        "Desc": "召唤<color style='color:#f29e38;'>【自动机兵•齿狼】</color>。",
+        "SP": 0,
+        "Summon": [
+            101302002
+        ]
+    },
+    "102201001": {
+        "Key": "Skill01",
+        "Name": "霜冻重击",
+        "Desc": "对指定我方单体造成<1>冰属性伤害，并使受到攻击的我方目标行动延后<color style='color:#f29e38;'>50%</color>。",
+        "SP": 15.0,
+        "Elem": "Ice",
+        "DMG": [
+            3.0
+        ]
+    },
+    "102202001": {
+        "Key": "Skill01",
+        "Name": "灼炎重击",
+        "Desc": "对指定我方单体造成<1>火属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>灼烧</b>状态。<br>灼烧持续伤害：<2>火属性伤害，持续<color style='color:#f29e38;'>3</color>回合。",
+        "SP": 15.0,
+        "Elem": "Fire",
+        "Status": [
+            30020002
+        ],
+        "DMG": [
+            3.0,
+            0.5
+        ]
+    },
+    "102301001": {
+        "Key": "Skill06",
+        "Name": "赤红刀锋",
+        "Desc": "对指定我方单体造成<1>火属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>灼烧</b>状态。<br>灼烧持续伤害：<2>火属性伤害，持续<color style='color:#f29e38;'>3</color>回合。",
+        "SP": 10.0,
+        "Elem": "Fire",
+        "Status": [
+            30020002
+        ],
+        "DMG": [
+            3.0,
+            0.5
+        ]
+    },
+    "102301002": {
+        "Key": "Skill07",
+        "Name": "燃焰斩击",
+        "Desc": "对指定我方单体造成<1>火属性伤害，对其相邻目标造成<2>火属性伤害，本技能优先攻击陷入灼烧状态的我方目标。",
+        "SP": 15.0,
+        "Elem": "Fire",
+        "DMG": [
+            4.0,
+            2.5
+        ]
+    },
+    "102301003": {
+        "Key": "PassiveSkillInitiate",
+        "Name": "熔解",
+        "Desc": "对陷入灼烧状态的我方单体施放攻击后，自身造成的伤害提高<color style='color:#f29e38;'>6%</color>，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "SP": 0,
+        "Status": [
+            210230101
+        ]
+    },
+    "102301004": {
+        "Key": "Skill01",
+        "Name": "高温运转",
+        "Desc": "使自身攻击力提升<color style='color:#f29e38;'>20%</color>，速度提高<color style='color:#f29e38;'>100</color>点。弱点被击破后以上增益效果解除。",
+        "SP": 0,
+        "Status": [
+            210230102
+        ]
+    },
+    "102301005": {
+        "Key": "Skill02",
+        "Name": "飞舞烬火",
+        "Desc": "对我方全体造成<1>火属性伤害。使陷入灼烧状态的我方目标受到额外<2>火属性伤害的同时解除该目标的灼烧状态。",
+        "SP": 10.0,
+        "Elem": "Fire",
+        "Threat": true,
+        "DMG": [
+            3.0,
+            2.0
+        ]
+    },
+    "102301101": {
+        "Key": "Skill06",
+        "Name": "赤红刀锋",
+        "Desc": "对指定我方单体造成<1>火属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>灼烧</b>状态。<br>灼烧持续伤害：<2>火属性伤害，持续<color style='color:#f29e38;'>3</color>回合。",
+        "SP": 10.0,
+        "Elem": "Fire",
+        "Status": [
+            30020002
+        ],
+        "DMG": [
+            3.0,
+            0.5
+        ]
+    },
+    "102301102": {
+        "Key": "Skill07",
+        "Name": "燃焰斩击",
+        "Desc": "对指定我方单体造成<1>火属性伤害，对其相邻目标造成<2>火属性伤害，本技能优先攻击陷入灼烧状态的我方目标。",
+        "SP": 15.0,
+        "Elem": "Fire",
+        "DMG": [
+            4.0,
+            2.5
+        ]
+    },
+    "102301107": {
+        "Key": "PassiveSkillInitiate",
+        "Name": "熔解",
+        "Desc": "对陷入灼烧状态的我方单体施放攻击后，自身造成的伤害提高<color style='color:#f29e38;'>6%</color>，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "SP": 0,
+        "Status": [
+            210230101
+        ]
+    },
+    "102301103": {
+        "Key": "Skill01",
+        "Name": "高温运转",
+        "Desc": "使自身攻击力提升<color style='color:#f29e38;'>20%</color>，速度提高<color style='color:#f29e38;'>100</color>点。弱点被击破后以上增益效果解除。",
+        "SP": 0,
+        "Status": [
+            210230102
+        ]
+    },
+    "102301104": {
+        "Key": "Skill02",
+        "Name": "飞舞烬火",
+        "Desc": "对我方全体造成<1>火属性伤害。使陷入灼烧状态的我方目标受到额外<2>火属性伤害的同时解除该目标的灼烧状态。",
+        "SP": 10.0,
+        "Elem": "Fire",
+        "Threat": true,
+        "DMG": [
+            3.0,
+            2.0
+        ]
+    },
+    "102301106": {
+        "Key": "Skill08",
+        "Name": "爆裂缭灼",
+        "Desc": "对我方全体造成<1>火属性伤害，使陷入灼烧状态的我方目标发生爆炸：自身受到<2>火属性伤害，相邻单位受到<3>火属性伤害，并解除中心目标的灼烧状态。",
+        "SP": 10.0,
+        "Elem": "Fire",
+        "Threat": true,
+        "DMG": [
+            1.0,
+            2.0,
+            1.0
+        ]
+    },
+    "102301105": {
+        "Key": "Skill09",
+        "Name": "爆裂前兆",
+        "Desc": "下次行动施放<color style='color:#f29e38;'>【爆裂缭灼】</color>。",
+        "SP": 0,
+        "Prepare": [
+            102301106
+        ]
+    },
+    "102302001": {
+        "Key": "Skill01",
+        "Name": "冰轮铁拳",
+        "Desc": "对指定我方单体造成<1>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            3.0
+        ]
+    },
+    "102302005": {
+        "Key": "Skill05",
+        "Name": "召来衍生物",
+        "Desc": "召唤<color style='color:#f29e38;'>2</color>个<color style='color:#f29e38;'>【永冬灾影】</color>。",
+        "SP": 0,
+        "Summon": [
+            102201002
+        ]
+    },
+    "102302006": {
+        "Key": "Skill06",
+        "Name": "冻结风暴",
+        "Desc": "对我方全体造成<1>冰属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【深寒】</color>状态。<br>深寒：速度降低<color style='color:#f29e38;'>12%</color>，冰伤害抗性降低<color style='color:#f29e38;'>20%</color>，最多叠加<color style='color:#f29e38;'>3</color>层，永久持续。",
+        "SP": 5.0,
+        "Elem": "Ice",
+        "Status": [
+            210230202
+        ],
+        "DMG": [
+            1.0
+        ]
+    },
+    "102302007": {
+        "Key": "Skill07",
+        "Name": "吞噬衍生物",
+        "Desc": "吞噬1个永冬灾影使自身攻击力提高<color style='color:#f29e38;'>50%</color>，同时<b>锁定</b>指定我方单体。<br>若场上没有永冬灾影，则自身防御力降低<color style='color:#f29e38;'>50%</color>。",
+        "SP": 0,
+        "Status": [
+            210230208
+        ]
+    },
+    "102302008": {
+        "Key": "Skill08",
+        "Name": "吞噬衍生物",
+        "Desc": "吞噬1个永冬灾影使自身攻击力提高<color style='color:#f29e38;'>50%</color>，同时<b>锁定</b>指定我方单体。<br>若场上没有永冬灾影，则自身防御力降低<color style='color:#f29e38;'>50%</color>。",
+        "SP": 0,
+        "Status": [
+            210230208,
+            210230207,
+            210230203
+        ]
+    },
+    "102302009": {
+        "Key": "Skill09",
+        "Name": "冰轮碎碾",
+        "Desc": "对指定我方单体造成<1>冰属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【深寒】</color>状态。<br>深寒：速度降低<color style='color:#f29e38;'>12%</color>，冰伤害抗性降低<color style='color:#f29e38;'>20%</color>，最多叠加<color style='color:#f29e38;'>3</color>层，永久持续。",
+        "SP": 20.0,
+        "Elem": "Ice",
+        "Threat": true,
+        "Status": [
+            210230202
+        ],
+        "DMG": [
+            5.0
+        ]
+    },
+    "102302010": {
+        "Key": "PassiveSkill01",
+        "Name": "dev_精英怪被动",
+        "Desc": "dev_不显示。",
+        "SP": 0
+    },
+    "102302101": {
+        "Key": "Skill01",
+        "Name": "冰轮铁拳",
+        "Desc": "对指定我方单体造成<1>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            3.0
+        ]
+    },
+    "102302105": {
+        "Key": "Skill05",
+        "Name": "召来衍生物",
+        "Desc": "召唤<color style='color:#f29e38;'>4</color>个<color style='color:#f29e38;'>【永冬灾影】</color>。",
+        "SP": 0,
+        "Summon": [
+            102201002
+        ]
+    },
+    "102302106": {
+        "Key": "Skill06",
+        "Name": "冻结风暴",
+        "Desc": "对我方全体造成<1>冰属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【深寒】</color>状态。<br>深寒：速度降低<color style='color:#f29e38;'>12%</color>，冰伤害抗性降低<color style='color:#f29e38;'>20%</color>，最多叠加<color style='color:#f29e38;'>3</color>层，永久持续。",
+        "SP": 5.0,
+        "Elem": "Ice",
+        "Status": [
+            210230202
+        ],
+        "DMG": [
+            1.0
+        ]
+    },
+    "102302107": {
+        "Key": "Skill07",
+        "Name": "吞噬衍生物",
+        "Desc": "对指定我方单体造成冰属性伤害，并有大概率使受到攻击的我方目标陷入【深寒】状态。",
+        "SP": 0
+    },
+    "102302108": {
+        "Key": "Skill08",
+        "Name": "吞噬衍生物",
+        "Desc": "dev_吞噬永冬灾影使自身攻击力提高，下回合释放强力AOE。若场上没有永冬灾影，则自身防御力降低。",
+        "SP": 0
+    },
+    "102302109": {
+        "Key": "Skill09",
+        "Name": "冰轮碎碾",
+        "Desc": "对指定我方单体造成<1>冰属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【深寒】</color>状态。<br>深寒：速度降低<color style='color:#f29e38;'>12%</color>，冰伤害抗性降低<color style='color:#f29e38;'>20%</color>，最多叠加<color style='color:#f29e38;'>3</color>层，永久持续。",
+        "SP": 20.0,
+        "Elem": "Ice",
+        "Status": [
+            210230202
+        ],
+        "DMG": [
+            5.0
+        ]
+    },
+    "102302112": {
+        "Key": "PassiveSkill01",
+        "Name": "dev_精英怪被动",
+        "Desc": "dev_不显示。",
+        "SP": 0
+    },
+    "102302110": {
+        "Key": "Skill10",
+        "Name": "吞噬衍生物",
+        "Desc": "吞噬所有永冬灾影，并使自身攻击力提高<color style='color:#f29e38;'>50%</color>，下次行动施放<color style='color:#f29e38;'>【苦寒过境】</color>。<br>若场上没有永冬灾影，则自身防御力降低<color style='color:#f29e38;'>50%</color>。",
+        "SP": 0,
+        "Prepare": [
+            102302111
+        ],
+        "Status": [
+            210230207,
+            210230203
+        ]
+    },
+    "102302111": {
+        "Key": "Skill11",
+        "Name": "苦寒过境",
+        "Desc": "基于吞噬的永冬灾影的个数，对我方全体分别造成<color style='color:#f29e38;'>100%</color></color><color style='color:#f29e38;'>300%</color></color><color style='color:#f29e38;'>400%</color></color><1>冰属性伤害。<br>有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【深寒】</color>状态。<br>深寒：速度降低<color style='color:#f29e38;'>12%</color>，冰伤害抗性降低<color style='color:#f29e38;'>20%</color>，最多叠加<color style='color:#f29e38;'>3</color>层，永久持续。",
+        "SP": 5.0,
+        "Elem": "Ice",
+        "Threat": true,
+        "Status": [
+            210230202
+        ],
+        "DMG": [
+            5.0
+        ]
+    },
+    "200201001": {
+        "Key": "Skill01",
+        "Name": "云刃",
+        "Desc": "对指定我方单体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使目标受到的伤害提高<color style='color:#f29e38;'>25%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 15.0,
+        "Elem": "Wind",
+        "Status": [
+            30010041
+        ],
+        "DMG": [
+            2.5
+        ]
+    },
+    "200201002": {
+        "Key": "Skill02",
+        "Name": "test_列阵",
+        "Desc": "test_使敌方全体获得列阵增益效果，防御力提高，保护弱点",
+        "SP": 0
+    },
+    "200201003": {
+        "Key": "PassiveSkill01",
+        "Name": "test_被动计数",
+        "Desc": "dev_不显示。",
+        "SP": 0
+    },
+    "200201004": {
+        "Key": "Skill03",
+        "Name": "test_普攻",
+        "Desc": "test_对指定我方单体造成物理伤害。",
+        "SP": 15.0,
+        "Elem": "Phys"
+    },
+    "200203001": {
+        "Key": "Skill01",
+        "Name": "锯恶",
+        "Desc": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>35%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【震荡】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>【震荡】状态下的目标受到攻击后，陷入<color style='color:#f29e38;'>【强烈震荡】</color>状态，然后解除【震荡】状态。<br>【强烈震荡】状态下的目标无法行动，且行动延后<color style='color:#f29e38;'>70%</color>，持续<color style='color:#f29e38;'>1</color>回合。",
+        "SP": 15.0,
+        "Elem": "Phys",
+        "Status": [
+            220020301,
+            220020302
+        ],
+        "DMG": [
+            2.5
+        ]
+    },
+    "800104001": {
+        "Key": "Skill01",
+        "Name": "雷腾",
+        "Desc": "对指定我方单体造成<1>雷属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>触电</b>状态。<br>触电持续伤害：<2>雷属性伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>1</color>层。",
+        "SP": 10.0,
+        "Elem": "Elec",
+        "Status": [
+            30020004
+        ],
+        "DMG": [
+            2.5,
+            0.8
+        ]
+    },
+    "800105001": {
+        "Key": "Skill01",
+        "Name": "风色",
+        "Desc": "对指定我方单体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>风化</b>状态。<br>风化持续伤害：<2>风属性伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "SP": 10.0,
+        "Elem": "Wind",
+        "Status": [
+            30020003
+        ],
+        "DMG": [
+            2.5,
+            0.8
+        ]
+    },
+    "202201001": {
+        "Key": "Skill01",
+        "Name": "梢杀",
+        "Desc": "对指定我方单体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>2</color>层<b>风化</b>状态。<br>风化持续伤害：<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "SP": 15.0,
+        "Elem": "Wind",
+        "Status": [
+            30020003
+        ],
+        "DMG": [
+            2.0,
+            0.5
+        ]
+    },
+    "202201002": {
+        "Key": "PassiveSkill01",
+        "Name": "复起",
+        "Desc": "受到致命攻击时回复<color style='color:#f29e38;'>50%生命值上限</color>，且速度提高<color style='color:#f29e38;'>50%</color>。单次战斗至多触发一次。",
+        "SP": 0,
+        "Status": [
+            220220101,
+            220220102
+        ]
+    },
+    "202201003": {
+        "Key": "Skill02",
+        "Name": "梢杀",
+        "Desc": "对指定我方单体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>2</color>层<b>风化</b>状态。<br>风化持续伤害：<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "SP": 15.0,
+        "Elem": "Wind",
+        "Status": [
+            30020003
+        ],
+        "DMG": [
+            2.0,
+            0.5
+        ]
+    },
+    "202202001": {
+        "Key": "Skill01",
+        "Name": "种丹",
+        "Desc": "使指定我方单体陷入<color style='color:#f29e38;'>【引动雷劫】</color>状态。",
+        "SP": 0,
+        "Status": [
+            220220203
+        ]
+    },
+    "202202002": {
+        "Key": "Skill02",
+        "Name": "役雷",
+        "Desc": "对指定我方单体造成<1>雷属性伤害。",
+        "SP": 10.0,
+        "Elem": "Elec",
+        "DMG": [
+            2.5
+        ]
+    },
+    "202202003": {
+        "Key": "PassiveSkill01",
+        "Name": "丹毁",
+        "Desc": "受到致命攻击时，对所有陷入被自身添加的【引动雷劫】状态的我方目标造成<1>雷属性伤害，并解除这些【引动雷劫】状态。",
+        "SP": 15.0,
+        "Elem": "Elec",
+        "Status": [
+            220220204
+        ],
+        "DMG": [
+            4.5
+        ]
+    },
+    "202211001": {
+        "Key": "Skill01",
+        "Name": "锯恶 · 斫",
+        "Desc": "对指定我方单体造成<1>风属性伤害。",
+        "SP": 10.0,
+        "Elem": "Wind",
+        "DMG": [
+            2.0
+        ]
+    },
+    "202211002": {
+        "Key": "Skill02",
+        "Name": "锯恶 · 斩",
+        "Desc": "对指定我方单体造成<1>风属性伤害。",
+        "SP": 20.0,
+        "Elem": "Wind",
+        "DMG": [
+            4.4
+        ]
+    },
+    "202211003": {
+        "Key": "SkillP01",
+        "Name": "嗔恚",
+        "Desc": "战斗开始时处于<color style='color:#f29e38;'>【嗔恚】</color>状态。处于【嗔恚】状态时，改为施放【锯恶•斩】。",
+        "SP": 0,
+        "Status": [
+            220221101
+        ]
+    },
+    "202301001": {
+        "Key": "Skill01",
+        "Name": "震击",
+        "Desc": "对指定我方单体造成<1>雷属性伤害。",
+        "SP": 15.0,
+        "Elem": "Elec",
+        "DMG": [
+            3.5
+        ]
+    },
+    "202301002": {
+        "Key": "Skill02",
+        "Name": "霆罚",
+        "Desc": "对指定我方单体及其相邻目标造成<1>雷属性伤害。",
+        "SP": 10.0,
+        "Elem": "Elec",
+        "DMG": [
+            3.0
+        ]
+    },
+    "202301003": {
+        "Key": "Skill03",
+        "Name": "劫雷",
+        "Desc": "对指定我方单体造成<1>雷属性伤害。",
+        "SP": 20.0,
+        "Elem": "Elec",
+        "Threat": true,
+        "DMG": [
+            5.0
+        ]
+    },
+    "202301004": {
+        "Key": "Skill04",
+        "Name": "召遣",
+        "Desc": "消耗<color style='color:#f29e38;'>10%生命值上限</color>，召唤2个<color style='color:#f29e38;'>【魔阴身士卒】</color>。",
+        "SP": 0,
+        "Summon": [
+            2022010
+        ]
+    },
+    "202301005": {
+        "Key": "SkillP01",
+        "Name": "采气",
+        "Desc": "当场上其它敌方目标带有<color style='color:#f29e38;'>【重生】</color>时，其自身具有<color style='color:#f29e38;'>【击中回复】</color>。<br><br>击中回复：<br>【震击】回复<color style='color:#f29e38;'>2.5%生命值上限</color><br>【霆罚】回复<color style='color:#f29e38;'>7.5%生命值上限</color><br>【劫雷】回复<color style='color:#f29e38;'>20%生命值上限</color>",
+        "SP": 0,
+        "Status": [
+            220220101,
+            220230101
+        ]
+    },
+    "201101001": {
+        "Key": "Skill01",
+        "Name": "狮子吼",
+        "Desc": "对指定我方单体造成少<1>火属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>虚弱</b>状态。<br>虚弱：造成的伤害降低<color style='color:#f29e38;'>30%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 10.0,
+        "Elem": "Fire",
+        "Status": [
+            30010017
+        ],
+        "DMG": [
+            2.0
+        ]
+    },
+    "201102001": {
+        "Key": "Skill01",
+        "Name": "霏雾",
+        "Desc": "对指定我方单体造成<1>虚数属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标速度降低<color style='color:#f29e38;'>25%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 10.0,
+        "Elem": "Imaginary",
+        "Status": [
+            30010067
+        ],
+        "DMG": [
+            2.0
+        ]
+    },
+    "201201001": {
+        "Key": "Skill01",
+        "Name": "宵明",
+        "Desc": "对我方全体造成<1>火属性伤害。<br>如果场上有3~4个存活角色，则随机挑选至多2个未被自身减防的角色，以<color style='color:#f29e38;'>80%</color>基础概率使其防御力降低<color style='color:#f29e38;'>30%</color>，持续<color style='color:#f29e38;'>2</color>回合。<br>如果场上有1~2个存活角色，则随机挑选1个角色，以<color style='color:#f29e38;'>80%</color>基础概率使其防御力降低<color style='color:#f29e38;'>30%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 5.0,
+        "Elem": "Fire",
+        "Status": [
+            30010006
+        ],
+        "DMG": [
+            1.5
+        ]
+    },
+    "201201002": {
+        "Key": "SkillP01",
+        "Name": "烛花",
+        "Desc": "受到致命攻击时：对敌方全体造成<color style='color:#f29e38;'>40%自身生命值上限</color>火属性伤害和<color style='color:#f29e38;'>1.0</color>火属性削韧，并有<color style='color:#f29e38;'>100%</color>基础概率使其防御力降低<color style='color:#f29e38;'>30%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 5.0,
+        "Elem": "Fire",
+        "Status": [
+            30010006
+        ]
+    },
+    "201301002": {
+        "Key": "Skill01",
+        "Name": "儆惧",
+        "Desc": "提高<color style='color:#f29e38;'>33%</color>【惩戒度】等级，并对我方全体造成<1>虚数属性伤害。<br>有<color style='color:#f29e38;'>60%</color>基础概率使我方目标陷入<b>虚弱</b>状态。<br>虚弱：造成的伤害降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 5.0,
+        "Elem": "Imaginary",
+        "Status": [
+            30010017
+        ],
+        "DMG": [
+            1.5
+        ]
+    },
+    "201301003": {
+        "Key": "Skill02",
+        "Name": "戒退",
+        "Desc": "对指定我方单体造成<1>虚数属性伤害。",
+        "SP": 10.0,
+        "Elem": "Imaginary",
+        "DMG": [
+            3.0
+        ]
+    },
+    "201301004": {
+        "Key": "Skill03",
+        "Name": "缚束",
+        "Desc": "对指定我方单体造成<1>虚数属性伤害，同时有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>禁锢</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>禁锢：无法行动，行动延后<color style='color:#f29e38;'>50%</color>。",
+        "SP": 15.0,
+        "Elem": "Imaginary",
+        "Threat": true,
+        "DMG": [
+            5.0
+        ]
+    },
+    "201301001": {
+        "Key": "SkillP01",
+        "Name": "奉辞罚罪",
+        "Desc": "当我方目标施放战技或终结技进行攻击时会积累<color style='color:#f29e38;'>33%</color>【惩戒度】等级。<br>当【惩戒度】等级满级时，立即进入【罚恶模式】：速度提升<color style='color:#f29e38;'>30</color>点，可以使用<color style='color:#f29e38;'>【戒退】</color>和<color style='color:#f29e38;'>【缚束】</color>，同时召唤<color style='color:#f29e38;'>2</color>个【入魔机巧 • 灯昼龙鱼】。",
+        "SP": 0,
+        "Prepare": [
+            201301003,
+            201301004
+        ],
+        "Status": [
+            220130102
+        ],
+        "Summon": [
+            2012010
+        ]
+    },
+    "201302001": {
+        "Key": "Skill01",
+        "Name": "剖判",
+        "Desc": "对指定我方单体造成<1>物理伤害。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "DMG": [
+            3.0
+        ]
+    },
+    "201302002": {
+        "Key": "Skill02",
+        "Name": "镇魂",
+        "Desc": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>70%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【震荡】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>【震荡】状态下的目标受到攻击后，陷入<color style='color:#f29e38;'>【强烈震荡】</color>状态，然后解除【震荡】状态。<br>【强烈震荡】状态下的目标无法行动，且行动延后<color style='color:#f29e38;'>70%</color>，持续<color style='color:#f29e38;'>1</color>回合。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "Status": [
+            220020301,
+            220020302
+        ],
+        "DMG": [
+            3.6
+        ]
+    },
+    "201302003": {
+        "Key": "Skill03",
+        "Name": "转阴阳",
+        "Desc": "对我方全体造成<1>物理伤害。<br>若我方有至少3名角色未处于【震荡】与【强烈震荡】状态，则从这些角色中选择2名，有<color style='color:#f29e38;'>35%</color>基础概率使其陷入<color style='color:#f29e38;'>【震荡】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>若我方有至多2名角色未处于【震荡】与【强烈震荡】状态，则从这些角色中选择1名，有<color style='color:#f29e38;'>35%</color>基础概率使其陷入<color style='color:#f29e38;'>【震荡】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "Status": [
+            220020301,
+            220020302
+        ],
+        "DMG": [
+            3.0
+        ]
+    },
+    "201302005": {
+        "Key": "SkillP01",
+        "Name": "拘魂令",
+        "Desc": "场上有我方目标陷入<color style='color:#f29e38;'>【强烈震荡】</color>状态时，锁定该目标，下次行动对其施放<color style='color:#f29e38;'>【天坠】</color>。",
+        "SP": 0,
+        "Elem": "Phys",
+        "Status": [
+            220020302
+        ],
+        "Prepare": [
+            201302004
+        ]
+    },
+    "200401001": {
+        "Key": "Skill01",
+        "Name": "夜间喧嚣不止",
+        "Desc": "对指定我方单体造成<1>雷属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>触电</b>状态。<br>触电持续伤害：<2>雷属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>1</color>层。",
+        "SP": 10.0,
+        "Elem": "Elec",
+        "Status": [
+            30020004
+        ],
+        "DMG": [
+            2.5,
+            0.75
+        ]
+    },
+    "200401002": {
+        "Key": "Skill02",
+        "Name": "月光摩挲连绵",
+        "Desc": "对指定我方单体造成<1>雷属性伤害，对相邻目标造成<2>雷属性伤害。<br>如主目标处于触电状态，则会使副目标也陷入<b>触电</b>状态。",
+        "SP": 10.0,
+        "Elem": "Elec",
+        "Status": [
+            30020004
+        ],
+        "DMG": [
+            3.0,
+            2.0
+        ]
+    },
+    "200401003": {
+        "Key": "Skill03",
+        "Name": "缄默厉声嘲笑",
+        "Desc": "对我方全体造成<1>雷属性伤害。",
+        "SP": 15.0,
+        "Elem": "Elec",
+        "DMG": [
+            2.5
+        ]
+    },
+    "200401004": {
+        "Key": "Skill05",
+        "Name": "言灵",
+        "Desc": "使指定我方单体<color style='color:#f29e38;'>120%</color>基础概率陷入<color style='color:#f29e38;'>【支配】</color>状态，持续<color style='color:#f29e38;'>3</color>回合，使其随机攻击1名我方其他目标。",
+        "SP": 15.0,
+        "Threat": true,
+        "Status": [
+            30020028
+        ]
+    },
+    "200401005": {
+        "Key": "Skill04",
+        "Name": "颤慄",
+        "Desc": "如受到攻击的目标正处于触电状态，则直接造成1次触电伤害。",
+        "SP": 0,
+        "Status": [
+            30020004
+        ]
+    },
+    "200401006": {
+        "Key": "Skill06",
+        "Name": "残酷",
+        "Desc": "当敌方除卡芙卡外的目标或我方陷入【支配】状态的目标对我方陷入触电状态的目标造成伤害时，追加一次<1>雷属性伤害。该效果每回合只触发1次。",
+        "SP": 10.0,
+        "Elem": "Elec",
+        "DMG": [
+            1.0
+        ]
+    },
+    "200401101": {
+        "Key": "Skill01",
+        "Name": "夜间喧嚣不止",
+        "Desc": "对指定我方单体造成<1>雷属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>触电</b>状态。<br>触电持续伤害：<2>雷属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>1</color>层。",
+        "SP": 10.0,
+        "Elem": "Elec",
+        "Status": [
+            30020004
+        ],
+        "DMG": [
+            2.5,
+            0.75
+        ]
+    },
+    "200401102": {
+        "Key": "Skill02",
+        "Name": "月光摩挲连绵",
+        "Desc": "对指定我方单体造成<1>雷属性伤害，对相邻目标造成<2>雷属性伤害。<br>如主目标处于触电状态，则会使副目标也陷入<b>触电</b>状态。",
+        "SP": 10.0,
+        "Elem": "Elec",
+        "Status": [
+            30020004
+        ],
+        "DMG": [
+            3.0,
+            2.0
+        ]
+    },
+    "200401103": {
+        "Key": "Skill03",
+        "Name": "缄默厉声嘲笑",
+        "Desc": "对我方全体造成<1>雷属性伤害。",
+        "SP": 15.0,
+        "Elem": "Elec",
+        "DMG": [
+            2.5
+        ]
+    },
+    "200401104": {
+        "Key": "Skill05",
+        "Name": "言灵",
+        "Desc": "使指定我方单体<color style='color:#f29e38;'>120%</color>基础概率陷入<color style='color:#f29e38;'>【支配】</color>状态，持续<color style='color:#f29e38;'>3</color>回合，使其随机攻击1名我方其他目标。",
+        "SP": 15.0,
+        "Threat": true,
+        "Status": [
+            30020028
+        ]
+    },
+    "200401105": {
+        "Key": "Skill04",
+        "Name": "亡者切齿呢喃",
+        "Desc": "对指定我方单体造成<1>雷属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>触电</b>状态。同时对所有处于触电状态的我方目标造成<2>雷属性伤害。<br>触电持续伤害：<3>雷属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>1</color>层。",
+        "SP": 10.0,
+        "Elem": "Elec",
+        "Status": [
+            30020004
+        ],
+        "DMG": [
+            3.0,
+            2.5,
+            0.75
+        ]
+    },
+    "200401106": {
+        "Key": "Skill07",
+        "Name": "心理暗示",
+        "Desc": "有<color style='color:#f29e38;'>120%</color>基础概率使我方多名目标进入【心理暗示】状态，持续<color style='color:#f29e38;'>3</color>回合。<br>在行动条上添加<color style='color:#f29e38;'>【揭晓】</color>，下次【揭晓】行动时陷入【心理暗示】的角色陷入<color style='color:#f29e38;'>【支配】</color>状态。",
+        "SP": 0,
+        "Threat": true,
+        "Status": [
+            220040112,
+            30020028
+        ]
+    },
+    "200401107": {
+        "Key": "PassiveSkill01",
+        "Name": "颤慄",
+        "Desc": "如受到攻击的目标正处于触电状态，则直接造成1次触电伤害。",
+        "SP": 0,
+        "Status": [
+            30020004
+        ]
+    },
+    "200401108": {
+        "Key": "Skill06",
+        "Name": "残酷",
+        "Desc": "当敌方除卡芙卡外的目标或我方陷入【支配】状态的目标对我方陷入触电状态的目标造成伤害时，追加一次<1>雷属性伤害。该效果每回合只触发1次。",
+        "SP": 10.0,
+        "Elem": "Elec",
+        "DMG": [
+            1.0
+        ]
+    },
+    "200401109": {
+        "Key": "PassiveSkill02",
+        "Name": "吊唁",
+        "Desc": "每当我方目标触发自身触电对自己的伤害时，卡芙卡自身造成的伤害提高<color style='color:#f29e38;'>2%</color>，可叠加。",
+        "SP": 0,
+        "Status": [
+            220040111
+        ]
+    },
+    "200401201": {
+        "Key": "Skill01",
+        "Name": "夜间喧嚣不止",
+        "Desc": "对指定我方单体造成<1>雷属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>触电</b>状态。<br>触电持续伤害：<2>雷属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>1</color>层。",
+        "SP": 10.0,
+        "Elem": "Elec",
+        "Status": [
+            30020004
+        ],
+        "DMG": [
+            2.5,
+            0.75
+        ]
+    },
+    "200401202": {
+        "Key": "Skill02",
+        "Name": "月光摩挲连绵",
+        "Desc": "对指定我方单体造成<1>雷属性伤害，对相邻目标造成<2>雷属性伤害。<br>如主目标处于触电状态，则会使副目标也陷入<b>触电</b>状态。",
+        "SP": 10.0,
+        "Elem": "Elec",
+        "Status": [
+            30020004
+        ],
+        "DMG": [
+            3.0,
+            2.0
+        ]
+    },
+    "200401203": {
+        "Key": "Skill03",
+        "Name": "缄默厉声嘲笑",
+        "Desc": "对我方全体造成<1>雷属性伤害。",
+        "SP": 15.0,
+        "Elem": "Elec",
+        "DMG": [
+            2.5
+        ]
+    },
+    "200401204": {
+        "Key": "Skill05",
+        "Name": "言灵",
+        "Desc": "使指定我方单体<color style='color:#f29e38;'>120%</color>基础概率陷入<color style='color:#f29e38;'>【支配】</color>状态，持续<color style='color:#f29e38;'>3</color>回合，使其随机攻击1名我方其他目标。",
+        "SP": 15.0,
+        "Threat": true,
+        "Status": [
+            30020028
+        ]
+    },
+    "200401205": {
+        "Key": "Skill04",
+        "Name": "亡者切齿呢喃",
+        "Desc": "对指定我方单体造成<1>雷属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>触电</b>状态。同时对所有处于触电状态的我方目标造成<2>雷属性伤害。<br>触电持续伤害：<3>雷属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>1</color>层。",
+        "SP": 10.0,
+        "Elem": "Elec",
+        "Status": [
+            30020004
+        ],
+        "DMG": [
+            3.0,
+            2.5,
+            0.75
+        ]
+    },
+    "200401206": {
+        "Key": "Skill07",
+        "Name": "心理暗示",
+        "Desc": "有<color style='color:#f29e38;'>120%</color>基础概率使我方多名目标进入<color style='color:#f29e38;'>【心理暗示】</color>状态，持续<color style='color:#f29e38;'>3</color>回合。<br>在行动条上添加<color style='color:#f29e38;'>【揭晓】</color>，下次【揭晓】行动时陷入【心理暗示】的角色陷入<color style='color:#f29e38;'>【支配】</color>状态。",
+        "SP": 0,
+        "Threat": true,
+        "Status": [
+            220040112,
+            30020028
+        ]
+    },
+    "200401207": {
+        "Key": "PassiveSkill01",
+        "Name": "颤慄",
+        "Desc": "如受到攻击的目标正处于触电状态，则直接造成1次触电伤害。",
+        "SP": 0,
+        "Status": [
+            30020004
+        ]
+    },
+    "200401208": {
+        "Key": "Skill06",
+        "Name": "残酷",
+        "Desc": "当敌方除卡芙卡外的目标或我方陷入【支配】状态的目标对我方陷入触电状态的目标造成伤害时，追加一次<1>雷属性伤害。该效果每回合只触发1次。",
+        "SP": 10.0,
+        "Elem": "Elec",
+        "DMG": [
+            1.0
+        ]
+    },
+    "200401209": {
+        "Key": "PassiveSkill02",
+        "Name": "吊唁",
+        "Desc": "每当我方目标触发自身触电对自己的伤害时，卡芙卡自身造成的伤害提高<color style='color:#f29e38;'>2%</color>，可叠加。<br>第三阶段的生命值上限改为原本的<color style='color:#f29e38;'>1.66</color>倍。<br>第三阶段生命值首次低于<color style='color:#f29e38;'>50%</color>时，立即行动。",
+        "SP": 0,
+        "Status": [
+            220040111
+        ]
+    },
+    "200402001": {
+        "Key": "Skill01",
+        "Name": "快哉风",
+        "Desc": "对指定我方单体造成<1>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            3.5
+        ]
+    },
+    "200402002": {
+        "Key": "Skill02",
+        "Name": "燕归来",
+        "Desc": "召唤4把<color style='color:#f29e38;'>【飞剑】</color>，使【飞剑】获得<color style='color:#f29e38;'>【阵眼】</color>。<br>彦卿获得<color style='color:#f29e38;'>【剑阵】</color>效果：速度提高<color style='color:#f29e38;'>50</color>，消灭所有【飞剑】可移除该效果并使彦卿流失<color style='color:#f29e38;'>10%生命值上限</color>。",
+        "SP": 10.0,
+        "Status": [
+            220040204,
+            220040201
+        ],
+        "Summon": [
+            2002020,
+            2002021
+        ]
+    },
+    "200402003": {
+        "Key": "Skill03",
+        "Name": "三尺水",
+        "Desc": "对指定我方单体造成<1>冰属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的目标陷入<b>冻结</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>冻结附加伤害：<2>冰属性伤害。",
+        "SP": 15.0,
+        "Elem": "Ice",
+        "DMG": [
+            4.0,
+            1.2
+        ]
+    },
+    "200402004": {
+        "Key": "Skill04",
+        "Name": "破阵歌",
+        "Desc": "对指定我方单体造成<1>冰属性伤害，对其相邻目标造成<2>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            4.0,
+            2.5
+        ]
+    },
+    "200402005": {
+        "Key": "Skill05",
+        "Name": "剑气近",
+        "Desc": "进入蓄力状态。下次行动对我方全体施放<color style='color:#f29e38;'>【天河泻】</color>。",
+        "SP": 0,
+        "Prepare": [
+            200402006
+        ]
+    },
+    "200402006": {
+        "Key": "Skill06",
+        "Name": "天河泻",
+        "Desc": "对我方全体造成<1>冰属性伤害。",
+        "SP": 15.0,
+        "Elem": "Ice",
+        "Threat": true,
+        "DMG": [
+            6.25
+        ]
+    },
+    "200202001": {
+        "Key": "Skill01",
+        "Name": "琢玉击",
+        "Desc": "对指定我方单体造成<1>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            2.4
+        ]
+    },
+    "200202101": {
+        "Key": "Skill01",
+        "Name": "琢玉击",
+        "Desc": "对指定我方单体造成<1>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            2.4
+        ]
+    },
+    "202401001": {
+        "Key": "Skill01",
+        "Name": "衔枝 · 肃风",
+        "Desc": "召唤建木枝梢<color style='color:#f29e38;'>【肃风之杪】</color>。",
+        "SP": 0,
+        "Summon": [
+            2022070
+        ]
+    },
+    "202401002": {
+        "Key": "Skill02",
+        "Name": "衔枝 · 缃叶",
+        "Desc": "召唤建木枝梢<color style='color:#f29e38;'>【缃叶之杪】</color>。",
+        "SP": 0,
+        "Summon": [
+            2022080
+        ]
+    },
+    "202401003": {
+        "Key": "Skill03",
+        "Name": "衔枝 · 繁花",
+        "Desc": "召唤建木枝梢<color style='color:#f29e38;'>【繁花之杪】</color>。",
+        "SP": 0,
+        "Summon": [
+            2022090
+        ]
+    },
+    "202401004": {
+        "Key": "Skill04",
+        "Name": "衔枝 · 嘉实",
+        "Desc": "召唤建木枝梢<color style='color:#f29e38;'>【嘉实之杪】</color>。",
+        "SP": 0,
+        "Summon": [
+            2022100
+        ]
+    },
+    "202401005": {
+        "Key": "Skill05",
+        "Name": "呦鸣",
+        "Desc": "对指定我方单体造成<1>雷属性伤害。",
+        "SP": 20.0,
+        "Elem": "Elec",
+        "DMG": [
+            3.5
+        ]
+    },
+    "202401006": {
+        "Key": "Skill06",
+        "Name": "绾风",
+        "Desc": "对我方全体造成<1>风属性伤害。",
+        "SP": 15.0,
+        "Elem": "Wind",
+        "DMG": [
+            2.8
+        ]
+    },
+    "202401007": {
+        "Key": "Skill07",
+        "Name": "蕉覆",
+        "Desc": "进入<color style='color:#f29e38;'>【蕉覆】</color>状态：防御力提升<color style='color:#f29e38;'>200%</color>，且使自身韧性无法受到伤害，持续<color style='color:#f29e38;'>1</color>回合。",
+        "SP": 0,
+        "Status": [
+            220240101
+        ]
+    },
+    "202401008": {
+        "Key": "Skill08",
+        "Name": "斑龙触",
+        "Desc": "当场上存在2个【嘉实】时立即施放该技能，对我方全体造成<1>雷属性伤害。<br>场上每存在一个【建木枝梢】，则额外造成<2>雷属性伤害。<br>施放技能后，清除场上所有的【建木枝梢】。",
+        "SP": 20.0,
+        "Elem": "Elec",
+        "Threat": true,
+        "Status": [
+            220221001
+        ],
+        "DMG": [
+            3.5,
+            0.25
+        ]
+    },
+    "202401009": {
+        "Key": "Skill09",
+        "Name": "回生",
+        "Desc": "吸收建木之力，回复全部生命值。",
+        "SP": 0
+    },
+    "202401101": {
+        "Key": "Skill01",
+        "Name": "衔枝 · 肃风",
+        "Desc": "召唤建木枝梢<color style='color:#f29e38;'>【肃风之杪】</color>。",
+        "SP": 0,
+        "Summon": [
+            2022071
+        ]
+    },
+    "202401102": {
+        "Key": "Skill02",
+        "Name": "衔枝 · 缃叶",
+        "Desc": "召唤建木枝梢<color style='color:#f29e38;'>【缃叶之杪】</color>。",
+        "SP": 0,
+        "Summon": [
+            2022081
+        ]
+    },
+    "202401103": {
+        "Key": "Skill03",
+        "Name": "衔枝 · 繁花",
+        "Desc": "召唤建木枝梢<color style='color:#f29e38;'>【繁花之杪】</color>。",
+        "SP": 0,
+        "Summon": [
+            2022091
+        ]
+    },
+    "202401104": {
+        "Key": "Skill04",
+        "Name": "衔枝 · 嘉实",
+        "Desc": "召唤建木枝梢<color style='color:#f29e38;'>【嘉实之杪】</color>。",
+        "SP": 0,
+        "Summon": [
+            2022101
+        ]
+    },
+    "202401105": {
+        "Key": "Skill05",
+        "Name": "呦鸣",
+        "Desc": "对指定我方单体造成<1>雷属性伤害。",
+        "SP": 20.0,
+        "Elem": "Elec",
+        "DMG": [
+            3.5
+        ]
+    },
+    "202401106": {
+        "Key": "Skill06",
+        "Name": "绾风",
+        "Desc": "对我方全体造成<1>风属性伤害。",
+        "SP": 15.0,
+        "Elem": "Wind",
+        "DMG": [
+            2.8
+        ]
+    },
+    "202401107": {
+        "Key": "Skill07",
+        "Name": "蕉覆",
+        "Desc": "进入<color style='color:#f29e38;'>【蕉覆】</color>状态：防御力提升<color style='color:#f29e38;'>200%</color>，且使自身韧性无法受到伤害，持续<color style='color:#f29e38;'>1</color>回合。",
+        "SP": 0,
+        "Status": [
+            220240101
+        ]
+    },
+    "202401108": {
+        "Key": "Skill08",
+        "Name": "斑龙触",
+        "Desc": "当场上存在2个【嘉实】时立即施放该技能，对我方全体造成<1>雷属性伤害。<br>场上每存在一个【建木枝梢】，额外造成<2>雷属性伤害。<br>施放技能后，清除场上所有的<color style='color:#f29e38;'>【嘉实之杪】</color>。",
+        "SP": 20.0,
+        "Elem": "Elec",
+        "Threat": true,
+        "Status": [
+            220221001
+        ],
+        "DMG": [
+            2.7,
+            0.5
+        ]
+    },
+    "202401109": {
+        "Key": "Skill09",
+        "Name": "永寿",
+        "Desc": "立即回复<color style='color:#f29e38;'>10%生命值上限</color>，并获得<color style='color:#f29e38;'>1</color>层<color style='color:#f29e38;'>【若木化生】</color>。<br>若木化生：每回合回复<color style='color:#f29e38;'>4%生命值上限</color>。最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "SP": 0,
+        "Status": [
+            220240111
+        ]
+    },
+    "202401110": {
+        "Key": "Skill10",
+        "Name": "衔枝 · 引蔓",
+        "Desc": "召唤2个建木枝梢<color style='color:#f29e38;'>【肃风之杪】</color>。",
+        "SP": 0,
+        "Summon": [
+            2022071
+        ]
+    },
+    "202401111": {
+        "Key": "Skill11",
+        "Name": "衔枝 · 垂枝",
+        "Desc": "召唤2个建木枝梢<color style='color:#f29e38;'>【缃叶之杪】</color>。",
+        "SP": 0,
+        "Summon": [
+            2022081
+        ]
+    },
+    "202401112": {
+        "Key": "Skill12",
+        "Name": "衔枝 · 榛莽",
+        "Desc": "召唤2个建木枝梢<color style='color:#f29e38;'>【缃叶之杪】</color>，1个建木枝梢<color style='color:#f29e38;'>【肃风之杪】</color>，1个建木枝梢<color style='color:#f29e38;'>【繁花之杪】</color>。",
+        "SP": 0,
+        "Summon": [
+            2022071,
+            2022081,
+            2022091
+        ]
+    },
+    "202401113": {
+        "Key": "Skill13",
+        "Name": "衔枝 · 交藤",
+        "Desc": "召唤2个建木枝梢<color style='color:#f29e38;'>【嘉实之杪】</color>，1个建木枝梢<color style='color:#f29e38;'>【缃叶之杪】</color>，1个建木枝梢<color style='color:#f29e38;'>【肃风之杪】</color>。",
+        "SP": 0,
+        "Summon": [
+            2022071,
+            2022081,
+            2022101
+        ]
+    },
+    "202401114": {
+        "Key": "Skill14",
+        "Name": "生机充盈",
+        "Desc": "每当丰饶玄鹿获得增益效果时，丰饶玄鹿和所有建木枝梢造成的伤害提高<color style='color:#f29e38;'>15%</color>，可叠加。",
+        "SP": 0,
+        "Status": [
+            220240112
+        ]
+    },
+    "202207001": {
+        "Key": "Skill01",
+        "Name": "怒噪",
+        "Desc": "对我方单体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%基础概率使该目标陷入<color style='color:#f29e38;'>【怒噪】</color>状态。<br>怒噪：在<color style='color:#f29e38;'>2</color>内无法行动，且会施放普攻随机攻击敌方单体。",
+        "SP": 15.0,
+        "Elem": "Wind",
+        "Status": [
+            30020029
+        ],
+        "DMG": [
+            2.0
+        ]
+    },
+    "202208001": {
+        "Key": "Skill01",
+        "Name": "繁生",
+        "Desc": "强化【丰饶玄鹿】，使其攻击力提高<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 0,
+        "Status": [
+            220220802
+        ]
+    },
+    "202208002": {
+        "Key": "Skill02",
+        "Name": "复还",
+        "Desc": "进入<color style='color:#f29e38;'>反击</color>状态，在被我方单体击中后立即对该目标施放<color style='color:#f29e38;'>【折叶】</color>技能。",
+        "SP": 0,
+        "Prepare": [
+            202208003
+        ],
+        "Status": [
+            220220801
+        ]
+    },
+    "202208003": {
+        "Key": "Skill03",
+        "Name": "折叶",
+        "Desc": "对指定我方单体造成<1>雷属性伤害。",
+        "SP": 10.0,
+        "Elem": "Elec",
+        "DMG": [
+            2.5
+        ]
+    },
+    "202209001": {
+        "Key": "Skill01",
+        "Name": "驻春",
+        "Desc": "立即为敌方全体回复<color style='color:#f29e38;'>25%自身生命值上限</color>。",
+        "SP": 0
+    },
+    "202210001": {
+        "Key": "Skill01",
+        "Name": "初实",
+        "Desc": "结出【嘉实】，为丰饶玄鹿积攒施放【斑龙触】所需消耗的能量。",
+        "SP": 0,
+        "Status": [
+            220221001
+        ]
+    },
+    "202210002": {
+        "Key": "Skill02",
+        "Name": "重实",
+        "Desc": "结出【嘉实】，为丰饶玄鹿积攒施放【斑龙触】所需消耗的能量。",
+        "SP": 0,
+        "Status": [
+            220221001
+        ]
+    },
+    "202207101": {
+        "Key": "Skill01",
+        "Name": "怒噪",
+        "Desc": "对我方单体造成<1>风属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<color style='color:#f29e38;'>【怒噪】</color>状态，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入风化状态。<br>怒噪：在<color style='color:#f29e38;'>2</color>内无法行动，且会施放普攻随机攻击敌方单体。<br>风化持续伤害：<2>风属性伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "SP": 15.0,
+        "Elem": "Wind",
+        "Status": [
+            30020029,
+            30020003
+        ],
+        "DMG": [
+            1.2,
+            0.5
+        ]
+    },
+    "202208101": {
+        "Key": "Skill01",
+        "Name": "繁生",
+        "Desc": "强化【丰饶玄鹿】，使其攻击力提高<color style='color:#f29e38;'>30%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 0,
+        "Status": [
+            220220802
+        ]
+    },
+    "202208102": {
+        "Key": "Skill02",
+        "Name": "复还",
+        "Desc": "进入<color style='color:#f29e38;'>反击</color>状态，在被我方单体击中后立即对该目标施放<color style='color:#f29e38;'>【折叶】</color>技能。",
+        "SP": 0,
+        "Prepare": [
+            202208103
+        ],
+        "Status": [
+            220220801
+        ]
+    },
+    "202208103": {
+        "Key": "Skill03",
+        "Name": "折叶",
+        "Desc": "对指定我方单体造成<1>雷属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>触电</b>状态。<br>触电持续伤害：<2>雷属性伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>1</color>层。",
+        "SP": 10.0,
+        "Elem": "Elec",
+        "Status": [
+            30020004
+        ],
+        "DMG": [
+            1.5,
+            0.5
+        ]
+    },
+    "202209101": {
+        "Key": "Skill01",
+        "Name": "驻春",
+        "Desc": "立即为敌方全体回复<color style='color:#f29e38;'>25%自身生命值上限</color>。",
+        "SP": 0
+    },
+    "202210101": {
+        "Key": "Skill01",
+        "Name": "初实",
+        "Desc": "结出【嘉实】，为丰饶玄鹿积攒施放【斑龙触】所需消耗的能量。",
+        "SP": 0,
+        "Status": [
+            220221001
+        ]
+    },
+    "202210102": {
+        "Key": "Skill02",
+        "Name": "重实",
+        "Desc": "结出【嘉实】，为丰饶玄鹿积攒施放【斑龙触】所需消耗的能量。",
+        "SP": 0,
+        "Status": [
+            220221001
+        ]
+    },
+    "800101001": {
+        "Key": "Skill01",
+        "Name": "扰乱",
+        "Desc": "对指定我方单体造成<1>火属性伤害。",
+        "SP": 10.0,
+        "Elem": "Fire",
+        "DMG": [
+            2.5
+        ]
+    },
+    "800102001": {
+        "Key": "Skill01",
+        "Name": "扰乱",
+        "Desc": "对指定我方单体造成<1>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            2.5
+        ]
+    },
+    "800103001": {
+        "Key": "Skill01",
+        "Name": "虹彩光束",
+        "Desc": "对指定我方单体造成<1>虚数属性伤害。",
+        "SP": 10.0,
+        "Elem": "Imaginary",
+        "DMG": [
+            2.5
+        ]
+    },
+    "800103002": {
+        "Key": "Skill02",
+        "Name": "聚焦充能",
+        "Desc": "使敌方全体攻击力提高<color style='color:#f29e38;'>30%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 0,
+        "Status": [
+            280010301
+        ]
+    },
+    "800103003": {
+        "Key": "PassiveSkill01",
+        "Name": "能量涌泄",
+        "Desc": "受到致命攻击后，使我方全体能量恢复<color style='color:#f29e38;'>15</color>点。",
+        "SP": 0
+    },
+    "800201001": {
+        "Key": "Skill01",
+        "Name": "颂歌光束",
+        "Desc": "对指定我方单体造成<1>虚数属性伤害。",
+        "SP": 15.0,
+        "Elem": "Imaginary",
+        "DMG": [
+            2.5
+        ]
+    },
+    "800201002": {
+        "Key": "Skill02",
+        "Name": "颂歌爆发",
+        "Desc": "对指定我方单体造成<1>虚数属性伤害。",
+        "SP": 15.0,
+        "Elem": "Imaginary",
+        "DMG": [
+            2.5
+        ]
+    },
+    "800201003": {
+        "Key": "Skill03",
+        "Name": "颂歌震荡",
+        "Desc": "对指定我方单体及其相邻目标造成<1>虚数属性伤害，并进入<color style='color:#f29e38;'>【后手】</color>状态。<br>下次行动时施放<color style='color:#f29e38;'>【颂歌爆发】</color>，且伤害提高<color style='color:#f29e38;'>100%</color>。",
+        "SP": 10.0,
+        "Elem": "Imaginary",
+        "Prepare": [
+            800201002
+        ],
+        "Status": [
+            280020102
+        ],
+        "DMG": [
+            2.5
+        ]
+    },
+    "800201004": {
+        "Key": "PassiveSkillInitiate",
+        "Name": "虚数护甲",
+        "Desc": "非弱点属性的攻击对自身造成的伤害降低。",
+        "SP": 0
+    },
+    "800204001": {
+        "Key": "Skill01",
+        "Name": "害…害怕",
+        "Desc": "扑满被惊动了，即将在2个回合后逃离。",
+        "SP": 0
+    },
+    "800204002": {
+        "Key": "Skill02",
+        "Name": "跑…跑啊",
+        "Desc": "扑满陷入恐慌，即将在1个回合后逃离。",
+        "SP": 0
+    },
+    "800204003": {
+        "Key": "Skill03",
+        "Name": "呼…逃走了",
+        "Desc": "扑满拔腿就跑，瞬间失去了踪影。",
+        "SP": 0
+    },
+    "800205001": {
+        "Key": "Skill01",
+        "Name": "害…害怕",
+        "Desc": "扑满被惊动了，即将在2个回合后逃离。",
+        "SP": 0
+    },
+    "800205002": {
+        "Key": "Skill02",
+        "Name": "跑…跑啊",
+        "Desc": "扑满陷入恐慌，即将在1个回合后逃离。",
+        "SP": 0
+    },
+    "800205003": {
+        "Key": "Skill03",
+        "Name": "呼…逃走了",
+        "Desc": "扑满拔腿就跑，瞬间失去了踪影。",
+        "SP": 0
+    },
+    "800205101": {
+        "Key": "Skill01",
+        "Name": "害…害怕",
+        "Desc": "扑满被惊动了，即将在2个回合后逃离。",
+        "SP": 0
+    },
+    "800205102": {
+        "Key": "Skill02",
+        "Name": "跑…跑啊",
+        "Desc": "扑满陷入恐慌，即将在1个回合后逃离。",
+        "SP": 0
+    },
+    "800205103": {
+        "Key": "Skill03",
+        "Name": "呼…逃走了",
+        "Desc": "扑满拔腿就跑，瞬间失去了踪影。",
+        "SP": 0
+    },
+    "800205201": {
+        "Key": "Skill01",
+        "Name": "害…害怕",
+        "Desc": "扑满被惊动了，即将在2个回合后逃离。",
+        "SP": 0
+    },
+    "800205202": {
+        "Key": "Skill02",
+        "Name": "跑…跑啊",
+        "Desc": "扑满陷入恐慌，即将在1个回合后逃离。",
+        "SP": 0
+    },
+    "800205203": {
+        "Key": "Skill03",
+        "Name": "呼…逃走了",
+        "Desc": "扑满拔腿就跑，瞬间失去了踪影。",
+        "SP": 0
+    },
+    "800205301": {
+        "Key": "Skill01",
+        "Name": "害…害怕",
+        "Desc": "扑满被惊动了，即将在2个回合后逃离。",
+        "SP": 0
+    },
+    "800205302": {
+        "Key": "Skill02",
+        "Name": "跑…跑啊",
+        "Desc": "扑满陷入恐慌，即将在1个回合后逃离。",
+        "SP": 0
+    },
+    "800205303": {
+        "Key": "Skill03",
+        "Name": "呼…逃走了",
+        "Desc": "扑满拔腿就跑，瞬间失去了踪影。",
+        "SP": 0
+    },
+    "800206001": {
+        "Key": "Skill01",
+        "Name": "害…害怕",
+        "Desc": "扑满被惊动了，即将在2个回合后逃离。",
+        "SP": 0
+    },
+    "800206002": {
+        "Key": "Skill02",
+        "Name": "跑…跑啊",
+        "Desc": "扑满陷入恐慌，即将在1个回合后逃离。",
+        "SP": 0
+    },
+    "800206003": {
+        "Key": "Skill03",
+        "Name": "呼…逃走了",
+        "Desc": "扑满拔腿就跑，瞬间失去了踪影。",
+        "SP": 0
+    },
+    "800206004": {
+        "Key": "SkillP01",
+        "Name": "报…报复你",
+        "Desc": "当我方目标攻击敌方目标后，对我方全体进行攻击。<br>我方每命中一个敌人，扑满对我方全体造成一次<color style='color:#f29e38;'>55%</color>伤害。",
+        "SP": 0,
+        "Elem": "Fire",
+        "Status": [
+            280020601
+        ]
+    },
+    "800207001": {
+        "Key": "Skill01",
+        "Name": "害…害怕",
+        "Desc": "扑满被惊动了，即将在2个回合后逃离。",
+        "SP": 0
+    },
+    "800207002": {
+        "Key": "Skill02",
+        "Name": "跑…跑啊",
+        "Desc": "扑满陷入恐慌，即将在1个回合后逃离。",
+        "SP": 0
+    },
+    "800207003": {
+        "Key": "Skill03",
+        "Name": "呼…逃走了",
+        "Desc": "扑满拔腿就跑，瞬间失去了踪影。",
+        "SP": 0
+    },
+    "800207004": {
+        "Key": "SkillP01",
+        "Name": "治…治好你",
+        "Desc": "当除丰饶扑满外的敌方目标受到我方目标攻击后，消耗自身生命值为受到攻击的目标回复生命值。",
+        "SP": 0,
+        "Status": [
+            280020701
+        ]
+    },
+    "800208001": {
+        "Key": "Skill01",
+        "Name": "害…害怕",
+        "Desc": "扑满被惊动了，即将在2个回合后逃离。",
+        "SP": 0
+    },
+    "800208002": {
+        "Key": "Skill02",
+        "Name": "跑…跑啊",
+        "Desc": "扑满陷入恐慌，即将在1个回合后逃离。",
+        "SP": 0
+    },
+    "800208003": {
+        "Key": "Skill03",
+        "Name": "呼…逃走了",
+        "Desc": "扑满拔腿就跑，瞬间失去了踪影。",
+        "SP": 0
+    },
+    "800208004": {
+        "Key": "SkillP01",
+        "Name": "保…保护你",
+        "Desc": "进入战斗时，为敌方全体提供<color style='color:#f29e38;'>30</color>层<color style='color:#f29e38;'>【保…保护你】</color>。<br>每层【保…保护你】可抵抗1次除持续伤害外的所有伤害。敌方全体共享【保…保护你】层数。",
+        "SP": 0,
+        "Status": [
+            280020801
+        ]
+    },
+    "800208101": {
+        "Key": "Skill01",
+        "Name": "害…害怕",
+        "Desc": "扑满被惊动了，即将在2个回合后逃离。",
+        "SP": 0
+    },
+    "800208102": {
+        "Key": "Skill02",
+        "Name": "跑…跑啊",
+        "Desc": "扑满陷入恐慌，即将在1个回合后逃离。",
+        "SP": 0
+    },
+    "800208103": {
+        "Key": "Skill03",
+        "Name": "呼…逃走了",
+        "Desc": "扑满拔腿就跑，瞬间失去了踪影。",
+        "SP": 0
+    },
+    "800208104": {
+        "Key": "SkillP01",
+        "Name": "保…保护你",
+        "Desc": "进入战斗时，为敌方全体提供<color style='color:#f29e38;'>20</color>层<color style='color:#f29e38;'>【保…保护你】</color>。<br>每层【保…保护你】可抵抗1次除持续伤害外的所有伤害。敌方全体共享【保…保护你】层数。",
+        "SP": 0,
+        "Status": [
+            280020801
+        ]
+    },
+    "800209001": {
+        "Key": "Skill01",
+        "Name": "害…害怕",
+        "Desc": "扑满被惊动了，即将在2个回合后逃离。",
+        "SP": 0
+    },
+    "800209002": {
+        "Key": "Skill02",
+        "Name": "跑…跑啊",
+        "Desc": "扑满陷入恐慌，即将在1个回合后逃离。",
+        "SP": 0
+    },
+    "800209003": {
+        "Key": "Skill03",
+        "Name": "呼…逃走了",
+        "Desc": "扑满拔腿就跑，瞬间失去了踪影。",
+        "SP": 0
+    },
+    "800301001": {
+        "Key": "Skill01",
+        "Name": "叹息之寒",
+        "Desc": "对指定我方单体造成<1>冰属性伤害。<br>若自身处于<color style='color:#f29e38;'>【冰点】</color>状态，且目标被冻结，则额外造成<2>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "Status": [
+            280030101,
+            30020012
+        ],
+        "DMG": [
+            2.5,
+            1.0
+        ]
+    },
+    "800301002": {
+        "Key": "Skill02",
+        "Name": "汲取霜晶",
+        "Desc": "使自身进入<color style='color:#f29e38;'>【冰点】</color>状态，之后的攻击可以施放<color style='color:#f29e38;'>【永冬之雨】</color>。",
+        "SP": 0,
+        "Elem": "Ice",
+        "Prepare": [
+            800301003
+        ],
+        "Status": [
+            280030101
+        ]
+    },
+    "800301003": {
+        "Key": "Skill03",
+        "Name": "永冬之雨",
+        "Desc": "只有在<color style='color:#f29e38;'>【冰点】</color>状态下才会施放该技能。<br>对我方全体造成<1>冰属性伤害，并随机选择至多2名未被冻结的角色，以<color style='color:#f29e38;'>60%基础概率使其陷入<b>冻结</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br><br>冻结附加伤害：<2>冰属性伤害。",
+        "SP": 15.0,
+        "Elem": "Ice",
+        "Threat": true,
+        "Status": [
+            280030101,
+            30020012
+        ],
+        "DMG": [
+            2.0,
+            1.0
+        ]
+    },
+    "800301004": {
+        "Key": "Skill04",
+        "Name": "叹息之寒",
+        "Desc": "对指定我方单体造成冰属性伤害。若自身处于【冰点】状态，则有概率使受到攻击的我方目标陷入冻结状态。",
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "800301101": {
+        "Key": "Skill01",
+        "Name": "叹息之寒",
+        "Desc": "对指定我方单体造成<1>冰属性伤害。<br>若自身处于<color style='color:#f29e38;'>【冰点】</color>状态，且目标被冻结，则额外造成<2>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "Status": [
+            280030101,
+            30020012
+        ],
+        "DMG": [
+            2.5,
+            1.0
+        ]
+    },
+    "800301102": {
+        "Key": "Skill02",
+        "Name": "汲取霜晶",
+        "Desc": "使自身进入<color style='color:#f29e38;'>【冰点】</color>状态，之后的攻击可以施放<color style='color:#f29e38;'>【永冬之雨】</color>。",
+        "SP": 0,
+        "Elem": "Ice",
+        "Prepare": [
+            800301103
+        ],
+        "Status": [
+            280030101
+        ]
+    },
+    "800301103": {
+        "Key": "Skill03",
+        "Name": "永冬之雨",
+        "Desc": "只有在<color style='color:#f29e38;'>【冰点】</color>状态下才会施放该技能。<br>对我方全体造成<1>冰属性伤害，并随机选择至多2名未被冻结的角色，以<color style='color:#f29e38;'>80%基础概率使其陷入<b>冻结</b>状态，且行动延后<color style='color:#f29e38;'>100%</color>。<br><br>冻结附加伤害：<2>冰属性伤害，持续<color style='color:#f29e38;'>1</color>回合。",
+        "SP": 15.0,
+        "Elem": "Ice",
+        "Threat": true,
+        "Status": [
+            280030101,
+            30020012
+        ],
+        "DMG": [
+            2.5,
+            1.0
+        ]
+    },
+    "800301104": {
+        "Key": "Skill04",
+        "Name": "叹息之寒",
+        "Desc": "对指定我方单体造成冰属性伤害。若自身处于【冰点】状态，则有概率使受到攻击的我方目标陷入冻结状态。",
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "800301105": {
+        "Key": "Skill05",
+        "Name": "",
+        "Desc": "dev_对所有冻结状态的我方目标造成冰属性伤害，并延长冻结状态。",
+        "SP": 15.0,
+        "Elem": "Ice"
+    },
+    "800301106": {
+        "Key": "Skill06",
+        "Name": "碎冰裂寒",
+        "Desc": "对陷入冻结状态的我方目标造成<1>冰属性伤害，同时使其冻结状态解除，并对其相邻目标造成<2>冰属性伤害。",
+        "SP": 15.0,
+        "Elem": "Ice",
+        "Threat": true,
+        "DMG": [
+            4.0,
+            2.0
+        ]
+    },
+    "800302001": {
+        "Key": "Skill01",
+        "Name": "咆哮之火",
+        "Desc": "对指定我方单体造成<1>火属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【焚烧】</color>状态。<br>焚烧：持续<color style='color:#f29e38;'>2</color>回合，每回合开始时受到<2>火属性伤害，可叠加。",
+        "SP": 10.0,
+        "Elem": "Fire",
+        "Status": [
+            280030203
+        ],
+        "DMG": [
+            2.5,
+            0.5
+        ]
+    },
+    "800302002": {
+        "Key": "Skill03",
+        "Name": "汲取炎华",
+        "Desc": "使自身进入<color style='color:#f29e38;'>【自燃】</color>状态，之后的攻击可以施放<color style='color:#f29e38;'>【净炎之雨】</color>。",
+        "SP": 0,
+        "Prepare": [
+            800302003
+        ],
+        "Status": [
+            280030202
+        ]
+    },
+    "800302003": {
+        "Key": "Skill05",
+        "Name": "净炎之雨",
+        "Desc": "连续<color style='color:#f29e38;'>5</color>次：对我方随机单体造成<1>火属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【焚烧】</color>状态。<br>焚烧：持续<color style='color:#f29e38;'>2</color>回合，每回合开始时受到<2>火属性伤害，可叠加。",
+        "SP": 10.0,
+        "Elem": "Fire",
+        "Threat": true,
+        "Status": [
+            280030203
+        ],
+        "DMG": [
+            1.0,
+            0.5
+        ]
+    },
+    "800302004": {
+        "Key": "Skill07",
+        "Name": "熔聚",
+        "Desc": "使自身攻击力提高<color style='color:#f29e38;'>30%</color>，被弱点击破时该状态解除。",
+        "SP": 0
+    },
+    "800302101": {
+        "Key": "Skill01",
+        "Name": "咆哮之火",
+        "Desc": "对指定我方单体造成<1>火属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【焚烧】</color>状态。<br>焚烧：持续<color style='color:#f29e38;'>2</color>回合，每回合开始时受到<2>火属性伤害，可叠加。",
+        "SP": 10.0,
+        "Elem": "Fire",
+        "Status": [
+            280030203
+        ],
+        "DMG": [
+            2.5,
+            0.5
+        ]
+    },
+    "800302102": {
+        "Key": "Skill03",
+        "Name": "汲取炎华",
+        "Desc": "使自身进入<color style='color:#f29e38;'>【自燃】</color>状态，之后的攻击可以施放<color style='color:#f29e38;'>【净炎之雨】</color>。",
+        "SP": 0,
+        "Prepare": [
+            800302103
+        ],
+        "Status": [
+            280030202
+        ]
+    },
+    "800302103": {
+        "Key": "Skill05",
+        "Name": "净炎之雨",
+        "Desc": "连续<color style='color:#f29e38;'>5</color>次：对我方随机单体造成<1>火属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【焚烧】</color>状态。<br>焚烧：持续<color style='color:#f29e38;'>2</color>回合，每回合开始时受到<2>火属性伤害，可叠加。",
+        "SP": 10.0,
+        "Elem": "Fire",
+        "Threat": true,
+        "Status": [
+            280030203
+        ],
+        "DMG": [
+            1.0,
+            0.5
+        ]
+    },
+    "800302104": {
+        "Key": "Skill07",
+        "Name": "熔聚",
+        "Desc": "使自身攻击力提高<color style='color:#f29e38;'>30%</color>，被弱点击破时该状态解除。",
+        "SP": 0
+    },
+    "800302105": {
+        "Key": "Skill08",
+        "Name": "轰炸前兆",
+        "Desc": "吸收所有我方全体持有的<color style='color:#f29e38;'>【焚烧】</color>状态，下一次行动释放<color style='color:#f29e38;'>【火炽轰炸】</color>。",
+        "SP": 0,
+        "Prepare": [
+            800302106
+        ],
+        "Status": [
+            280030203
+        ]
+    },
+    "800302106": {
+        "Key": "Skill09",
+        "Name": "火炽轰炸",
+        "Desc": "对我方全体造成<1>火属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使我方全体陷入<color style='color:#f29e38;'>【焚烧】</color>状态。",
+        "SP": 15.0,
+        "Elem": "Fire",
+        "Threat": true,
+        "Status": [
+            280030203
+        ],
+        "DMG": [
+            3.5
+        ]
+    },
+    "800303001": {
+        "Key": "Skill01",
+        "Name": "追忆闪电",
+        "Desc": "对指定我方单体造成<1>雷属性伤害。",
+        "SP": 10.0,
+        "Elem": "Elec",
+        "DMG": [
+            3.0
+        ]
+    },
+    "800303002": {
+        "Key": "Skill02",
+        "Name": "谴罚闪电",
+        "Desc": "对指定我方单体造成<1>雷属性伤害，对其相邻目标造成<2>雷属性伤害。",
+        "SP": 15.0,
+        "Elem": "Elec",
+        "DMG": [
+            2.0,
+            1.5
+        ]
+    },
+    "800303003": {
+        "Key": "Skill03",
+        "Name": "宁静禁令",
+        "Desc": "对我方全体设下不能攻击守护者之影的【禁令】，攻击守护者之影的我方目标将立即受到<color style='color:#f29e38;'>【不可违逆之责罚】</color>。",
+        "SP": 0,
+        "Prepare": [
+            800303007
+        ],
+        "Status": [
+            280030301
+        ]
+    },
+    "800303004": {
+        "Key": "Skill04",
+        "Name": "缴械禁令",
+        "Desc": "对我方全体设下不能施放普攻的【禁令】，施放普攻的我方目标将立即受到<color style='color:#f29e38;'>【不可违逆之责罚】</color>。",
+        "SP": 0,
+        "Prepare": [
+            800303007
+        ],
+        "Status": [
+            280030302
+        ]
+    },
+    "800303005": {
+        "Key": "Skill05",
+        "Name": "缄默禁令",
+        "Desc": "对我方全体设下不能施放战技的【禁令】，施放战技的我方目标将立即受到<color style='color:#f29e38;'>【不可违逆之责罚】</color>。",
+        "SP": 0,
+        "Prepare": [
+            800303007
+        ],
+        "Status": [
+            280030303
+        ]
+    },
+    "800303006": {
+        "Key": "Skill06",
+        "Name": "谴罚雷暴",
+        "Desc": "连续<color style='color:#f29e38;'>8</color>次：对我方随机单体造成<1>雷属性伤害，并有<color style='color:#f29e38;'>50%</color>基础概率使受到攻击的我方目标陷入<b>触电状态</b>。<br>触电持续伤害：<2>雷属性伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>1</color>层。",
+        "SP": 5.0,
+        "Elem": "Elec",
+        "Threat": true,
+        "Status": [
+            30020004
+        ],
+        "DMG": [
+            1.0,
+            0.5
+        ]
+    },
+    "800303007": {
+        "Key": "Skill07",
+        "Name": "不可违逆之责罚",
+        "Desc": "对破坏【禁令】的我方单体造成<1>雷属性伤害。",
+        "SP": 10.0,
+        "Elem": "Elec",
+        "DMG": [
+            3.5
+        ]
+    },
+    "800303008": {
+        "Key": "PassiveSkill01",
+        "Name": "dev_debuff受害者被动",
+        "Desc": "dev_每增加一个负面状态都会使自身防御力降低。",
+        "SP": 0,
+        "Status": [
+            280030306
+        ]
+    },
+    "800303101": {
+        "Key": "Skill01",
+        "Name": "追忆闪电",
+        "Desc": "对指定我方单体造成<1>雷属性伤害。",
+        "SP": 10.0,
+        "Elem": "Elec",
+        "DMG": [
+            3.0
+        ]
+    },
+    "800303102": {
+        "Key": "Skill02",
+        "Name": "谴罚闪电",
+        "Desc": "对指定我方单体造成<1>雷属性伤害，对其相邻目标造成<2>雷属性伤害。",
+        "SP": 15.0,
+        "Elem": "Elec",
+        "DMG": [
+            2.0,
+            1.5
+        ]
+    },
+    "800303103": {
+        "Key": "Skill03",
+        "Name": "宁静禁令",
+        "Desc": "对我方全体设下不能攻击守护者之影的【禁令】，攻击守护者之影的我方目标将立即受到<color style='color:#f29e38;'>【不可违逆之责罚】</color>。",
+        "SP": 0,
+        "Prepare": [
+            800303107
+        ],
+        "Status": [
+            280030301
+        ]
+    },
+    "800303104": {
+        "Key": "Skill04",
+        "Name": "缴械禁令",
+        "Desc": "对我方全体设下不能施放普攻的【禁令】，施放普攻的我方目标将立即受到<color style='color:#f29e38;'>【不可违逆之责罚】</color>。",
+        "SP": 0,
+        "Prepare": [
+            800303107
+        ],
+        "Status": [
+            280030302
+        ]
+    },
+    "800303105": {
+        "Key": "Skill05",
+        "Name": "缄默禁令",
+        "Desc": "对我方全体设下不能施放战技的【禁令】，施放战技的我方目标将立即受到<color style='color:#f29e38;'>【不可违逆之责罚】</color>。",
+        "SP": 0,
+        "Prepare": [
+            800303107
+        ],
+        "Status": [
+            280030303
+        ]
+    },
+    "800303106": {
+        "Key": "Skill06",
+        "Name": "谴罚雷暴",
+        "Desc": "连续<color style='color:#f29e38;'>8</color>次：对我方随机单体造成<1>雷属性伤害，并有<color style='color:#f29e38;'>50%</color>基础概率使受到攻击的我方目标陷入<b>触电</b>状态。<br>触电持续伤害：<2>雷属性伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>1</color>层。",
+        "SP": 5.0,
+        "Elem": "Elec",
+        "Threat": true,
+        "Status": [
+            30020004
+        ],
+        "DMG": [
+            1.2,
+            0.5
+        ]
+    },
+    "800303107": {
+        "Key": "Skill07",
+        "Name": "不可违逆之责罚",
+        "Desc": "对我方全体造成<1>雷属性伤害。",
+        "SP": 10.0,
+        "Elem": "Elec",
+        "Threat": true,
+        "DMG": [
+            4.0
+        ]
+    },
+    "800303108": {
+        "Key": "PassiveSkill01",
+        "Name": "dev_debuff受害者被动",
+        "Desc": "dev_每增加一个负面状态都会使自身防御力降低。",
+        "SP": 0
+    },
+    "800304001": {
+        "Key": "Skill01",
+        "Name": "",
+        "Desc": "dev_使自身速度提高。",
+        "SP": 0
+    },
+    "800304002": {
+        "Key": "Skill02",
+        "Name": "流年金刺",
+        "Desc": "对指定我方单体造成<1>虚数属性伤害。",
+        "SP": 10.0,
+        "Elem": "Imaginary",
+        "DMG": [
+            3.0
+        ]
+    },
+    "800304003": {
+        "Key": "Skill03",
+        "Name": "流年谴罚",
+        "Desc": "对指定我方单体造成<1>虚数属性伤害。",
+        "SP": 15.0,
+        "Elem": "Imaginary",
+        "DMG": [
+            5.0
+        ]
+    },
+    "800304005": {
+        "Key": "Skill04",
+        "Name": "黄金年代的解放",
+        "Desc": "每有一层<color style='color:#f29e38;'>【追忆刻度】</color>，对随机我方单体造成一次<1>虚数属性伤害，最多<color style='color:#f29e38;'>9</color>层。<br>若没有【追忆刻度】则本技能施放失败。",
+        "SP": 5.0,
+        "Elem": "Imaginary",
+        "Threat": true,
+        "Status": [
+            280030405
+        ],
+        "DMG": [
+            2.25
+        ]
+    },
+    "800304006": {
+        "Key": "PassiveSkill01",
+        "Name": "流年盾纱",
+        "Desc": "自身受到的普攻、战技、终结技、追加攻击伤害降低<color style='color:#f29e38;'>10%</color>。<br>任意攻击命中我方后，有<color style='color:#f29e38;'>20%</color>基础概率施加<b>禁锢</b>，持续<color style='color:#f29e38;'>1</color>回合。<br>禁锢：无法行动，行动延后<color style='color:#f29e38;'>50%</color>。",
+        "SP": 0,
+        "Status": [
+            30020013
+        ]
+    },
+    "800304004": {
+        "Key": "Skill05",
+        "Name": "黄金年代的绸缪",
+        "Desc": "使自身进入蓄力状态并获得<color style='color:#f29e38;'>9</color>层<color style='color:#f29e38;'>【追忆刻度】</color>，下次行动施放<color style='color:#f29e38;'>【黄金年代的解放】</color>。每次受到攻击后失去1层【追忆刻度】。",
+        "SP": 0,
+        "Prepare": [
+            800304005
+        ],
+        "Status": [
+            280030405
+        ]
+    },
+    "800304007": {
+        "Key": "Skill06",
+        "Name": "黄金年代的解放",
+        "Desc": "dev_连续对我方随机单体造成虚数属性伤害，若没有能量球则本技能施放失败。",
+        "SP": 0
+    },
+    "800304101": {
+        "Key": "Skill01",
+        "Name": "",
+        "Desc": "dev_使自身速度提高。",
+        "SP": 0
+    },
+    "800304102": {
+        "Key": "Skill02",
+        "Name": "流年金刺",
+        "Desc": "对指定我方单体造成<1>虚数属性伤害。",
+        "SP": 10.0,
+        "Elem": "Imaginary",
+        "DMG": [
+            3.0
+        ]
+    },
+    "800304103": {
+        "Key": "Skill03",
+        "Name": "流年谴罚",
+        "Desc": "对指定我方单体造成<1>虚数属性伤害。",
+        "SP": 15.0,
+        "Elem": "Imaginary",
+        "DMG": [
+            5.0
+        ]
+    },
+    "800304108": {
+        "Key": "Skill04",
+        "Name": "黄金年代的解放",
+        "Desc": "每有一层<color style='color:#f29e38;'>【追忆刻度】</color>，对随机我方单体造成一次<1>虚数属性伤害，最多<color style='color:#f29e38;'>9</color>层。<br>若没有【追忆刻度】则本技能施放失败。",
+        "SP": 5.0,
+        "Elem": "Imaginary",
+        "Status": [
+            280030405
+        ],
+        "DMG": [
+            3.0
+        ]
+    },
+    "800304106": {
+        "Key": "PassiveSkill01",
+        "Name": "流年盾纱",
+        "Desc": "自身受到的普攻、战技、终结技、追加攻击伤害降低<color style='color:#f29e38;'>10%</color>。<br>任意攻击命中我方后，有<color style='color:#f29e38;'>40%</color>基础概率施加<b>禁锢</b>，持续<color style='color:#f29e38;'>1</color>回合。<br>禁锢：无法行动，行动延后<color style='color:#f29e38;'>50%</color>。",
+        "SP": 0,
+        "Status": [
+            30020013
+        ]
+    },
+    "800304104": {
+        "Key": "Skill05",
+        "Name": "黄金年代的绸缪",
+        "Desc": "使自身进入蓄力状态并获得<color style='color:#f29e38;'>9</color>层<color style='color:#f29e38;'>【追忆刻度】</color>，下次行动施放<color style='color:#f29e38;'>【黄金年代的解放】</color>。每次受到攻击后失去1层【追忆刻度】。",
+        "SP": 0,
+        "Prepare": [
+            800304108
+        ],
+        "Status": [
+            280030405
+        ]
+    },
+    "800304107": {
+        "Key": "Skill06",
+        "Name": "黄金年代的解放",
+        "Desc": "dev_连续对我方随机单体造成虚数属性伤害，若没有能量球则本技能施放失败。",
+        "SP": 0
+    },
+    "800304105": {
+        "Key": "Skill07",
+        "Name": "黄金年代的解放",
+        "Desc": "连续对我方随机单体造成虚数属性伤害，若没有【追忆刻度】则本技能施放失败。",
+        "SP": 5.0,
+        "Elem": "Imaginary",
+        "Threat": true
+    },
+    "800304109": {
+        "Key": "Skill08",
+        "Name": "流年金刺",
+        "Desc": "dev_使用「追忆刻度」对指定我方单体造成虚数属性伤害。",
+        "SP": 10.0,
+        "Elem": "Imaginary"
+    },
+    "801101001": {
+        "Key": "Skill01",
+        "Name": "湮灭",
+        "Desc": "对指定我方单体造成<1>量子属性伤害。",
+        "SP": 10.0,
+        "Elem": "Quantum",
+        "DMG": [
+            2.5
+        ]
+    },
+    "801102001": {
+        "Key": "Skill01",
+        "Name": "湮灭",
+        "Desc": "对指定我方单体造成<1>虚数属性伤害。",
+        "SP": 10.0,
+        "Elem": "Imaginary",
+        "DMG": [
+            2.5
+        ]
+    },
+    "801201001": {
+        "Key": "Skill01",
+        "Name": "狩猎之刃",
+        "Desc": "对指定我方单体造成<1>虚数属性伤害。",
+        "SP": 10.0,
+        "Elem": "Imaginary",
+        "DMG": [
+            2.5
+        ]
+    },
+    "801201002": {
+        "Key": "Skill02",
+        "Name": "涡旋跃袭",
+        "Desc": "对指定我方单体及其相邻目标造成<1>虚数属性伤害。",
+        "SP": 5.0,
+        "Elem": "Imaginary",
+        "DMG": [
+            1.5
+        ]
+    },
+    "801201003": {
+        "Key": "PassiveSkill01",
+        "Name": "dev_被动",
+        "Desc": "施放攻击后使自身速度提高<color style='color:#f29e38;'>35%</color>，持续<color style='color:#f29e38;'>2回合，最多叠加<color style='color:#f29e38;'>3</color>层。",
+        "SP": 0,
+        "Status": [
+            280120101
+        ]
+    },
+    "801202001": {
+        "Key": "Skill01",
+        "Name": "虚无命意",
+        "Desc": "<b>锁定</b>我方随机单体，使其成为敌方全体的攻击目标，且受到的伤害提升<color style='color:#f29e38;'>10%</color>。",
+        "SP": 0,
+        "Elem": "Quantum",
+        "Status": [
+            280120201
+        ]
+    },
+    "801202002": {
+        "Key": "Skill02",
+        "Name": "无影虚击",
+        "Desc": "对指定我方单体造成<1>量子属性伤害。",
+        "SP": 15.0,
+        "Elem": "Quantum",
+        "DMG": [
+            5.0
+        ]
+    },
+    "801202101": {
+        "Key": "Skill01",
+        "Name": "虚无命意",
+        "Desc": "<b>锁定</b>我方随机单体，使其成为敌方全体的攻击目标，且受到的伤害提升<color style='color:#f29e38;'>10%</color>。",
+        "SP": 0,
+        "Elem": "Quantum",
+        "Status": [
+            280120201
+        ]
+    },
+    "801202102": {
+        "Key": "Skill02",
+        "Name": "无影虚击",
+        "Desc": "对指定我方单体造成<1>量子属性伤害。",
+        "SP": 15.0,
+        "Elem": "Quantum",
+        "DMG": [
+            5.0
+        ]
+    },
+    "801203001": {
+        "Key": "Skill01",
+        "Name": "虚灼炮攻",
+        "Desc": "对指定我方单体造成<1>虚数属性伤害，同时自身陷入<color style='color:#f29e38;'>【超负荷】</color>状态。<br>受到攻击的我方陷入<color style='color:#f29e38;'>【起爆】</color>状态：受到攻击时，额外受到<2>虚数属性伤害的追加攻击，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 15.0,
+        "Elem": "Imaginary",
+        "Status": [
+            280120301,
+            280120302
+        ],
+        "DMG": [
+            4.0,
+            0.75
+        ]
+    },
+    "801203002": {
+        "Key": "Skill02",
+        "Name": "热障阻塞",
+        "Desc": "解除自身的<color style='color:#f29e38;'>【超负荷】</color>状态。",
+        "SP": 0,
+        "Status": [
+            280120302
+        ]
+    },
+    "801301001": {
+        "Key": "Skill01",
+        "Name": "虚实的投影",
+        "Desc": "对指定我方单体造成<1>量子属性伤害。",
+        "SP": 10.0,
+        "Elem": "Quantum",
+        "DMG": [
+            3.0
+        ]
+    },
+    "801301002": {
+        "Key": "Skill02",
+        "Name": "侵略的铁蹄",
+        "Desc": "对指定我方单体造成<1>量子属性伤害。",
+        "SP": 15.0,
+        "Elem": "Quantum",
+        "DMG": [
+            4.0
+        ]
+    },
+    "801301003": {
+        "Key": "Skill03",
+        "Name": "战争的践踏",
+        "Desc": "对指定我方单体及其相邻目标造成<1>量子属性伤害。",
+        "SP": 10.0,
+        "Elem": "Quantum",
+        "DMG": [
+            2.5
+        ]
+    },
+    "801301004": {
+        "Key": "Skill04",
+        "Name": "螺旋的弓矢",
+        "Desc": "<b>锁定</b>我方单体，下次行动对该目标施放<color style='color:#f29e38;'>【强弩的终结】</color>。",
+        "SP": 0,
+        "Elem": "Quantum",
+        "Prepare": [
+            801301005
+        ],
+        "Status": [
+            280130101
+        ]
+    },
+    "801301005": {
+        "Key": "Skill05",
+        "Name": "强弩的终结",
+        "Desc": "对指定我方单体造成<1>量子属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>纠缠</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>纠缠基础伤害：<2>量子属性伤害，行动延后<color style='color:#f29e38;'>50%</color>。",
+        "SP": 25.0,
+        "Elem": "Quantum",
+        "Threat": true,
+        "Status": [
+            30020027
+        ],
+        "DMG": [
+            6.0,
+            0.8
+        ]
+    },
+    "801301101": {
+        "Key": "Skill01",
+        "Name": "虚实的投影",
+        "Desc": "对指定我方单体造成<1>量子属性伤害。",
+        "SP": 10.0,
+        "Elem": "Quantum",
+        "DMG": [
+            3.0
+        ]
+    },
+    "801301102": {
+        "Key": "Skill02",
+        "Name": "侵略的铁蹄",
+        "Desc": "对指定我方单体造成<1>量子属性伤害。",
+        "SP": 15.0,
+        "Elem": "Quantum",
+        "DMG": [
+            4.0
+        ]
+    },
+    "801301103": {
+        "Key": "Skill03",
+        "Name": "战争的践踏",
+        "Desc": "对指定我方单体及其相邻目标造成<1>量子属性伤害。",
+        "SP": 10.0,
+        "Elem": "Quantum",
+        "DMG": [
+            3.0
+        ]
+    },
+    "801301104": {
+        "Key": "Skill04",
+        "Name": "螺旋的弓矢",
+        "Desc": "<b>锁定</b>我方单体，下次行动对该目标施放<color style='color:#f29e38;'>【强弩的终结】</color>。",
+        "SP": 0,
+        "Elem": "Quantum",
+        "Prepare": [
+            801301105
+        ],
+        "Status": [
+            280130101
+        ]
+    },
+    "801301105": {
+        "Key": "Skill05",
+        "Name": "强弩的终结",
+        "Desc": "对指定我方单体造成<1>量子属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<b>纠缠</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>纠缠基础伤害：<2>量子属性伤害，行动延后<color style='color:#f29e38;'>100%</color>。",
+        "SP": 25.0,
+        "Elem": "Quantum",
+        "Threat": true,
+        "Status": [
+            30020027
+        ],
+        "DMG": [
+            8.0,
+            0.8
+        ]
+    },
+    "801301201": {
+        "Key": "Skill01",
+        "Name": "虚实的投影",
+        "Desc": "对指定我方单体造成<1>量子属性伤害。",
+        "SP": 10.0,
+        "Elem": "Quantum",
+        "DMG": [
+            3.0
+        ]
+    },
+    "801301202": {
+        "Key": "Skill02",
+        "Name": "侵略的铁蹄",
+        "Desc": "对指定我方单体造成<1>量子属性伤害。",
+        "SP": 15.0,
+        "Elem": "Quantum",
+        "DMG": [
+            4.0
+        ]
+    },
+    "801301203": {
+        "Key": "Skill03",
+        "Name": "战争的践踏",
+        "Desc": "对指定我方单体及其相邻目标造成<1>量子属性伤害。",
+        "SP": 10.0,
+        "Elem": "Quantum",
+        "DMG": [
+            2.5
+        ]
+    },
+    "801301204": {
+        "Key": "Skill04",
+        "Name": "螺旋的弓矢",
+        "Desc": "<b>锁定</b>我方单体，下次行动对该目标施放<color style='color:#f29e38;'>【强弩的终结】</color>。",
+        "SP": 0,
+        "Elem": "Quantum",
+        "Prepare": [
+            801301205
+        ],
+        "Status": [
+            280130101
+        ]
+    },
+    "801301205": {
+        "Key": "Skill05",
+        "Name": "强弩的终结",
+        "Desc": "对指定我方单体造成<1>量子属性伤害。",
+        "SP": 25.0,
+        "Elem": "Quantum",
+        "Threat": true,
+        "DMG": [
+            9.0
+        ]
+    },
+    "801502001": {
+        "Key": "Skill01",
+        "Name": "弹指 · 成风",
+        "Desc": "对指定我方单体造成<1>风属性伤害。",
+        "SP": 10.0,
+        "Elem": "Wind",
+        "DMG": [
+            3.0
+        ]
+    },
+    "801502002": {
+        "Key": "Skill02",
+        "Name": "扫尽尘云",
+        "Desc": "对我方全体造成<1>风属性伤害。",
+        "SP": 10.0,
+        "Elem": "Wind",
+        "DMG": [
+            2.8
+        ]
+    },
+    "801502003": {
+        "Key": "Skill03",
+        "Name": "盘根",
+        "Desc": "对指定我方单体造成<1>风属性伤害，并使受到攻击的我方目标行动延后<color style='color:#f29e38;'>30%</color>。",
+        "SP": 15.0,
+        "Elem": "Wind",
+        "DMG": [
+            3.0
+        ]
+    },
+    "801502004": {
+        "Key": "Skill04",
+        "Name": "生花",
+        "Desc": "召唤<color style='color:#f29e38;'>【丰饶玄莲】</color>。",
+        "SP": 0,
+        "Summon": [
+            8012200
+        ]
+    },
+    "801502005": {
+        "Key": "Skill05",
+        "Name": "弹指 · 鸣雷",
+        "Desc": "对指定我方单体造成<1>雷属性伤害。",
+        "SP": 10.0,
+        "Elem": "Elec",
+        "DMG": [
+            3.8
+        ]
+    },
+    "801502006": {
+        "Key": "Skill06",
+        "Name": "悬星碎月",
+        "Desc": "对我方全体造成<1>雷属性伤害。",
+        "SP": 15.0,
+        "Elem": "Elec",
+        "Threat": true,
+        "DMG": [
+            4.5
+        ]
+    },
+    "801502007": {
+        "Key": "Skill07",
+        "Name": "劫数将至",
+        "Desc": "<b>锁定</b>我方单体并使【破灭玄莲】进入<color style='color:#f29e38;'>【绽放】</color>状态，同时解除【破灭玄莲】的<color style='color:#f29e38;'>【弱点无效】</color>效果。<br>【破灭玄莲】下次行动施放<color style='color:#f29e38;'>【破灭】</color>。",
+        "SP": 0,
+        "Status": [
+            280150202,
+            280150204,
+            280150208
+        ],
+        "Summon": [
+            8012210
+        ]
+    },
+    "801502008": {
+        "Key": "Skill08",
+        "Name": "",
+        "Desc": "dev_对指定我方单体造成巨额虚数属性伤害。",
+        "SP": 0,
+        "Elem": "Imaginary"
+    },
+    "801502009": {
+        "Key": "Skill09",
+        "Name": "盛怒",
+        "Desc": "对指定我方单体造成<1>虚数属性伤害，对其相邻目标造成<2>虚数属性伤害。",
+        "SP": 25.0,
+        "Elem": "Imaginary",
+        "DMG": [
+            3.0,
+            2.0
+        ]
+    },
+    "801502010": {
+        "Key": "Skill10",
+        "Name": "玄根化生",
+        "Desc": "对我方全体造成<1>虚数属性伤害。",
+        "SP": 30.0,
+        "Elem": "Imaginary",
+        "Threat": true,
+        "DMG": [
+            3.6
+        ]
+    },
+    "801502011": {
+        "Key": "Skill11",
+        "Name": "盘根",
+        "Desc": "对指定我方单体造成<1>虚数属性伤害，并使受到攻击的我方目标行动延后<color style='color:#f29e38;'>30%</color>。",
+        "SP": 30.0,
+        "Elem": "Imaginary",
+        "DMG": [
+            3.0
+        ]
+    },
+    "801502012": {
+        "Key": "Skill12",
+        "Name": "生花",
+        "Desc": "召唤<color style='color:#f29e38;'>【丰饶玄莲】</color>。",
+        "SP": 0,
+        "Summon": [
+            8012201
+        ]
+    },
+    "801502013": {
+        "Key": "Skill13",
+        "Name": "劫数将至",
+        "Desc": "<b>锁定</b>我方单体并使【破灭玄莲】进入<color style='color:#f29e38;'>【绽放】</color>状态，同时解除【破灭玄莲】的<color style='color:#f29e38;'>【弱点无效】</color>效果。<br>【破灭玄莲】下次行动施放<color style='color:#f29e38;'>【破灭】</color>。",
+        "SP": 0,
+        "Status": [
+            280150202,
+            280150204,
+            280150208
+        ],
+        "Summon": [
+            8012211
+        ]
+    },
+    "801502014": {
+        "Key": "Skill14",
+        "Name": "",
+        "Desc": "dev_对指定我方单体造成巨额虚数属性伤害。",
+        "SP": 0,
+        "Elem": "Imaginary"
+    },
+    "801502101": {
+        "Key": "Skill01",
+        "Name": "弹指 · 成风",
+        "Desc": "对指定我方单体造成<1>风属性伤害。",
+        "SP": 10.0,
+        "Elem": "Wind",
+        "DMG": [
+            3.0
+        ]
+    },
+    "801502102": {
+        "Key": "Skill02",
+        "Name": "扫尽尘云",
+        "Desc": "对我方全体造成<1>风属性伤害。",
+        "SP": 10.0,
+        "Elem": "Wind",
+        "DMG": [
+            2.8
+        ]
+    },
+    "801502103": {
+        "Key": "Skill03",
+        "Name": "盘根",
+        "Desc": "对指定我方单体造成<1>风属性伤害，并使受到攻击的我方目标行动延后<color style='color:#f29e38;'>30%</color>。",
+        "SP": 15.0,
+        "Elem": "Wind",
+        "DMG": [
+            3.0
+        ]
+    },
+    "801502104": {
+        "Key": "Skill04",
+        "Name": "生花",
+        "Desc": "召唤<color style='color:#f29e38;'>【丰饶玄莲】</color>。",
+        "SP": 0,
+        "Summon": [
+            8012200
+        ]
+    },
+    "801502105": {
+        "Key": "Skill05",
+        "Name": "弹指 · 鸣雷",
+        "Desc": "对指定我方单体造成<1>雷属性伤害。",
+        "SP": 10.0,
+        "Elem": "Elec",
+        "DMG": [
+            3.8
+        ]
+    },
+    "801502106": {
+        "Key": "Skill06",
+        "Name": "悬星碎月",
+        "Desc": "对我方全体造成<1>雷属性伤害。",
+        "SP": 15.0,
+        "Elem": "Elec",
+        "Threat": true,
+        "DMG": [
+            4.5
+        ]
+    },
+    "801502107": {
+        "Key": "Skill07",
+        "Name": "劫数将至",
+        "Desc": "<b>锁定</b>我方单体并使【破灭玄莲】进入<color style='color:#f29e38;'>【绽放】</color>状态，同时解除【破灭玄莲】的<color style='color:#f29e38;'>【弱点无效】</color>效果。<br>【破灭玄莲】下次行动施放<color style='color:#f29e38;'>【破灭】</color>。",
+        "SP": 0,
+        "Status": [
+            280150202,
+            280150204,
+            280150208
+        ],
+        "Summon": [
+            8012210
+        ]
+    },
+    "801502108": {
+        "Key": "Skill08",
+        "Name": "",
+        "Desc": "dev_对指定我方单体造成巨额虚数属性伤害。",
+        "SP": 0,
+        "Elem": "Imaginary"
+    },
+    "801502109": {
+        "Key": "Skill09",
+        "Name": "盛怒",
+        "Desc": "对指定我方单体造成<1>虚数属性伤害，对其相邻目标造成<2>虚数属性伤害。",
+        "SP": 25.0,
+        "Elem": "Imaginary",
+        "DMG": [
+            3.0,
+            2.0
+        ]
+    },
+    "801502110": {
+        "Key": "Skill10",
+        "Name": "玄根化生",
+        "Desc": "对我方全体造成<1>虚数属性伤害。",
+        "SP": 30.0,
+        "Elem": "Imaginary",
+        "Threat": true,
+        "DMG": [
+            3.6
+        ]
+    },
+    "801502111": {
+        "Key": "Skill11",
+        "Name": "盘根",
+        "Desc": "对指定我方单体造成<1>虚数属性伤害，并使受到攻击的我方目标行动延后<color style='color:#f29e38;'>30%</color>。",
+        "SP": 30.0,
+        "Elem": "Imaginary",
+        "DMG": [
+            3.0
+        ]
+    },
+    "801502112": {
+        "Key": "Skill12",
+        "Name": "生花",
+        "Desc": "召唤<color style='color:#f29e38;'>【丰饶玄莲】</color>。",
+        "SP": 0,
+        "Summon": [
+            8012201
+        ]
+    },
+    "801502113": {
+        "Key": "Skill13",
+        "Name": "劫数将至",
+        "Desc": "<b>锁定</b>我方单体并使【破灭玄莲】进入<color style='color:#f29e38;'>【绽放】</color>状态，同时解除【破灭玄莲】的<color style='color:#f29e38;'>【弱点无效】</color>效果。<br>【破灭玄莲】下次行动施放<color style='color:#f29e38;'>【破灭】</color>。",
+        "SP": 0,
+        "Status": [
+            280150202,
+            280150204,
+            280150208
+        ],
+        "Summon": [
+            8012211
+        ]
+    },
+    "801502114": {
+        "Key": "Skill14",
+        "Name": "",
+        "Desc": "dev_对指定我方单体造成巨额虚数属性伤害。",
+        "SP": 0,
+        "Elem": "Imaginary"
+    },
+    "801220001": {
+        "Key": "Skill01",
+        "Name": "锁元",
+        "Desc": "使我方战技点减少<color style='color:#f29e38;'>1</color>个。",
+        "SP": 0
+    },
+    "801220003": {
+        "Key": "PassiveSkill01",
+        "Name": "归元",
+        "Desc": "受到致命攻击后使我方战技点恢复<color style='color:#f29e38;'>3</color>个。",
+        "SP": 0
+    },
+    "801220002": {
+        "Key": "PassiveSkill02",
+        "Name": "疗愈",
+        "Desc": "每回合开始时，回复<color style='color:#f29e38;'>50%生命值上限</color>。",
+        "SP": 0,
+        "Status": [
+            280150203
+        ]
+    },
+    "801220101": {
+        "Key": "Skill01",
+        "Name": "锁元",
+        "Desc": "使我方战技点减少<color style='color:#f29e38;'>1</color>个。",
+        "SP": 0
+    },
+    "801220103": {
+        "Key": "PassiveSkill01",
+        "Name": "归元",
+        "Desc": "受到致命攻击后使我方战技点恢复<color style='color:#f29e38;'>3</color>个。",
+        "SP": 0
+    },
+    "801220102": {
+        "Key": "PassiveSkill02",
+        "Name": "疗愈",
+        "Desc": "每回合开始时，回复<color style='color:#f29e38;'>50%生命值上限</color>。",
+        "SP": 0,
+        "Status": [
+            280150203
+        ]
+    },
+    "801220201": {
+        "Key": "Skill01",
+        "Name": "锁元",
+        "Desc": "使我方战技点减少<color style='color:#f29e38;'>1</color>个。",
+        "SP": 0
+    },
+    "801220203": {
+        "Key": "PassiveSkill01",
+        "Name": "归元",
+        "Desc": "受到致命攻击后使我方战技点恢复<color style='color:#f29e38;'>3</color>个。",
+        "SP": 0
+    },
+    "801220202": {
+        "Key": "PassiveSkill02",
+        "Name": "疗愈",
+        "Desc": "每回合开始时，回复<color style='color:#f29e38;'>50%生命值上限</color>。",
+        "SP": 0,
+        "Status": [
+            280150203
+        ]
+    },
+    "801220301": {
+        "Key": "Skill01",
+        "Name": "锁元",
+        "Desc": "使我方战技点减少<color style='color:#f29e38;'>1</color>个。",
+        "SP": 0
+    },
+    "801220303": {
+        "Key": "PassiveSkill01",
+        "Name": "归元",
+        "Desc": "受到致命攻击后使我方战技点恢复<color style='color:#f29e38;'>3</color>个。",
+        "SP": 0
+    },
+    "801220302": {
+        "Key": "PassiveSkill02",
+        "Name": "疗愈",
+        "Desc": "每回合开始时，回复<color style='color:#f29e38;'>50%生命值上限</color>。",
+        "SP": 0,
+        "Status": [
+            280150203
+        ]
+    },
+    "801221001": {
+        "Key": "Skill03",
+        "Name": "玄气噬身",
+        "Desc": "有<color style='color:#f29e38;'>100%</color>基础概率使指定我方单体陷入<color style='color:#f29e38;'>【噬命】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>噬命：可回复的生命值上限降低<color style='color:#f29e38;'>40%</color>。",
+        "SP": 10.0,
+        "Status": [
+            30020030
+        ]
+    },
+    "801221002": {
+        "Key": "Skill02",
+        "Name": "",
+        "Desc": "dev_休眠。",
+        "SP": 0
+    },
+    "801221003": {
+        "Key": "Skill04",
+        "Name": "破灭",
+        "Desc": "对指定我方单体造成<color style='color:#f29e38;'>59%目标生命值上限</color>雷属性伤害，该伤害<color style='color:#f29e38;'>无视目标的防御力</color>。",
+        "SP": 20.0,
+        "Elem": "Elec",
+        "Threat": true
+    },
+    "801221005": {
+        "Key": "PassiveSkill01",
+        "Name": "休眠",
+        "Desc": "受到致命攻击后进入<color style='color:#f29e38;'>【休眠】</color>状态。",
+        "SP": 0,
+        "Status": [
+            280150206
+        ]
+    },
+    "801221004": {
+        "Key": "PassiveSkill02",
+        "Name": "绽放",
+        "Desc": "<color style='color:#f29e38;'>【绽放】</color>状态下，下次行动施放<color style='color:#f29e38;'>【破灭】</color>。<br>当【破灭玄莲】处于【绽放】状态下被弱点击破、消灭或【绽放】状态被解除时，【不死神实•幻胧】陷入<color style='color:#f29e38;'>易伤</color>：行动延后<color style='color:#f29e38;'>50%</color>，受到的伤害提高<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>1</color>回合，最多叠加<color style='color:#f29e38;'>2</color>层。",
+        "SP": 0,
+        "Status": [
+            280150204,
+            280150208,
+            280150205
+        ]
+    },
+    "801221101": {
+        "Key": "Skill03",
+        "Name": "玄气噬身",
+        "Desc": "有<color style='color:#f29e38;'>100%</color>基础概率使指定我方单体陷入<color style='color:#f29e38;'>【噬命】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>噬命：可回复的生命值上限降低<color style='color:#f29e38;'>40%</color>。",
+        "SP": 20.0,
+        "Status": [
+            30020030
+        ]
+    },
+    "801221102": {
+        "Key": "Skill02",
+        "Name": "",
+        "Desc": "dev_休眠。",
+        "SP": 0
+    },
+    "801221103": {
+        "Key": "Skill04",
+        "Name": "破灭",
+        "Desc": "对指定我方单体造成<color style='color:#f29e38;'>59%目标生命值上限</color>虚数属性伤害，该伤害<color style='color:#f29e38;'>无视目标的防御力</color>。",
+        "SP": 40.0,
+        "Elem": "Imaginary",
+        "Threat": true
+    },
+    "801221105": {
+        "Key": "PassiveSkill01",
+        "Name": "休眠",
+        "Desc": "受到致命攻击后进入<color style='color:#f29e38;'>【休眠】</color>状态。",
+        "SP": 0,
+        "Status": [
+            280150206
+        ]
+    },
+    "801221104": {
+        "Key": "PassiveSkill02",
+        "Name": "绽放",
+        "Desc": "<color style='color:#f29e38;'>【绽放】</color>状态下，下次行动施放<color style='color:#f29e38;'>【破灭】</color>。<br>当【破灭玄莲】处于【绽放】状态下被弱点击破、消灭或【绽放】状态被解除时，【不死神实•幻胧】陷入<color style='color:#f29e38;'>易伤</color>：行动延后<color style='color:#f29e38;'>50%</color>，受到的伤害提高<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>1</color>回合，最多叠加<color style='color:#f29e38;'>2</color>层。",
+        "SP": 0,
+        "Status": [
+            280150204,
+            280150208,
+            280150205
+        ]
+    },
+    "801221201": {
+        "Key": "Skill03",
+        "Name": "玄气噬身",
+        "Desc": "有<color style='color:#f29e38;'>100%</color>基础概率使指定我方单体陷入<color style='color:#f29e38;'>【噬命】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>噬命：可回复的生命值上限降低<color style='color:#f29e38;'>40%</color>。",
+        "SP": 10.0,
+        "Status": [
+            30020030
+        ]
+    },
+    "801221202": {
+        "Key": "Skill02",
+        "Name": "",
+        "Desc": "dev_休眠。",
+        "SP": 0
+    },
+    "801221203": {
+        "Key": "Skill04",
+        "Name": "破灭",
+        "Desc": "对指定我方单体造成<color style='color:#f29e38;'>59%目标生命值上限</color>雷属性伤害，该伤害<color style='color:#f29e38;'>无视目标的防御力</color>。",
+        "SP": 20.0,
+        "Elem": "Elec",
+        "Threat": true
+    },
+    "801221205": {
+        "Key": "PassiveSkill01",
+        "Name": "休眠",
+        "Desc": "受到致命攻击后进入<color style='color:#f29e38;'>【休眠】</color>状态。",
+        "SP": 0,
+        "Status": [
+            280150206
+        ]
+    },
+    "801221204": {
+        "Key": "PassiveSkill02",
+        "Name": "绽放",
+        "Desc": "<color style='color:#f29e38;'>【绽放】</color>状态下，下次行动施放<color style='color:#f29e38;'>【破灭】</color>。<br>当【破灭玄莲】处于【绽放】状态下被弱点击破、消灭或【绽放】状态被解除时，【不死神实•幻胧】陷入<color style='color:#f29e38;'>易伤</color>：行动延后<color style='color:#f29e38;'>50%</color>，受到的伤害提高<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>1</color>回合，最多叠加<color style='color:#f29e38;'>2</color>层。",
+        "SP": 0,
+        "Status": [
+            280150204,
+            280150208,
+            280150205
+        ]
+    },
+    "801221301": {
+        "Key": "Skill03",
+        "Name": "玄气噬身",
+        "Desc": "有<color style='color:#f29e38;'>100%</color>基础概率使指定我方单体陷入<color style='color:#f29e38;'>【噬命】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>噬命：可回复的生命值上限降低<color style='color:#f29e38;'>40%</color>。",
+        "SP": 20.0,
+        "Status": [
+            30020030
+        ]
+    },
+    "801221302": {
+        "Key": "Skill02",
+        "Name": "",
+        "Desc": "dev_休眠。",
+        "SP": 0
+    },
+    "801221303": {
+        "Key": "Skill04",
+        "Name": "破灭",
+        "Desc": "对指定我方单体造成<color style='color:#f29e38;'>59%目标生命值上限</color>虚数属性伤害，该伤害<color style='color:#f29e38;'>无视目标的防御力</color>。",
+        "SP": 40.0,
+        "Elem": "Imaginary",
+        "Threat": true
+    },
+    "801221305": {
+        "Key": "PassiveSkill01",
+        "Name": "休眠",
+        "Desc": "受到致命攻击后进入<color style='color:#f29e38;'>【休眠】</color>状态。",
+        "SP": 0,
+        "Status": [
+            280150206
+        ]
+    },
+    "801221304": {
+        "Key": "PassiveSkill02",
+        "Name": "绽放",
+        "Desc": "<color style='color:#f29e38;'>【绽放】</color>状态下，下次行动施放<color style='color:#f29e38;'>【破灭】</color>。<br>当【破灭玄莲】处于【绽放】状态下被弱点击破、消灭或【绽放】状态被解除时，【不死神实•幻胧】陷入<color style='color:#f29e38;'>易伤</color>：行动延后<color style='color:#f29e38;'>50%</color>，受到的伤害提高<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>1</color>回合，最多叠加<color style='color:#f29e38;'>2</color>层。",
+        "SP": 0,
+        "Status": [
+            280150204,
+            280150208,
+            280150205
+        ]
+    },
+    "802201001": {
+        "Key": "Skill01",
+        "Name": "振翅",
+        "Desc": "对指定我方单体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>1</color>层<b>风化</b>状态。<br>风化持续伤害：<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "SP": 10.0,
+        "Elem": "Wind",
+        "Status": [
+            280240101
+        ],
+        "DMG": [
+            2.0,
+            0.5
+        ]
+    },
+    "802201002": {
+        "Key": "Skill02",
+        "Name": "次分裂",
+        "Desc": "繁殖出1名自身的繁衍体，该效果在2回合后可再次触发。",
+        "SP": 0,
+        "Status": [
+            280240104,
+            280240105
+        ],
+        "Summon": [
+            8022010
+        ]
+    },
+    "802201003": {
+        "Key": "Skill03",
+        "Name": "",
+        "Desc": "dev_对指定我方单体造成风属性伤害，并附加1层风化。",
+        "SP": 10.0,
+        "Elem": "Wind"
+    },
+    "802201004": {
+        "Key": "PassiveSkill01",
+        "Name": "蛰亡语",
+        "Desc": "受到致命攻击时，对敌方全体造成<color style='color:#f29e38;'>50%自身生命值上限</color>风属性伤害和<color style='color:#f29e38;'>1.0</color>风属性削韧，并为其施加<b>易伤</b>：受到的伤害提高<color style='color:#f29e38;'>10%</color>，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "SP": 0,
+        "Elem": "Wind",
+        "Status": [
+            280240103
+        ]
+    },
+    "802202001": {
+        "Key": "Skill01",
+        "Name": "预备兵器",
+        "Desc": "进入<color style='color:#f29e38;'>蓄力</color>状态，下次行动施放<color style='color:#f29e38;'>【引爆扩散】</color>。",
+        "SP": 0,
+        "Prepare": [
+            802202002
+        ],
+        "Status": []
+    },
+    "802202002": {
+        "Key": "Skill02",
+        "Name": "引爆扩散",
+        "Desc": "引爆自身，对指定我方单体及相邻目标造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【怒噪】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 10.0,
+        "Elem": "Wind",
+        "Threat": true,
+        "Status": [
+            30020029
+        ],
+        "DMG": [
+            3.0
+        ]
+    },
+    "802202003": {
+        "Key": "Skill03",
+        "Name": "",
+        "Desc": "dev_对指定我方单体造成风属性伤害，并附加1层风化。",
+        "SP": 10.0,
+        "Elem": "Wind"
+    },
+    "802202004": {
+        "Key": "PassiveSkill01",
+        "Name": "蛰亡语",
+        "Desc": "受到致命攻击时，对敌方全体造成<color style='color:#f29e38;'>60%自身生命值上限</color>风属性伤害和<color style='color:#f29e38;'>1.0</color>风属性削韧，并为其施加<color style='color:#f29e38;'>2</color>层<b>易伤</b>：受到的伤害提高<color style='color:#f29e38;'>10%</color>，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "SP": 0,
+        "Elem": "Wind",
+        "Status": [
+            280240103
+        ]
+    },
+    "802401001": {
+        "Key": "Skill01",
+        "Name": "作战时刻",
+        "Desc": "对指定我方单体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>2</color>层<b>风化</b>状态。<br>风化持续伤害：<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "SP": 10.0,
+        "Elem": "Wind",
+        "Status": [
+            280240101
+        ],
+        "DMG": [
+            2.5,
+            0.5
+        ]
+    },
+    "802401010": {
+        "Key": "Skill08",
+        "Name": "",
+        "Desc": "dev_对指定我方单体及相邻目标造成造成风属性伤害，并将主目标的风化层数扩散给副目标。",
+        "SP": 10.0,
+        "Elem": "Wind"
+    },
+    "802401002": {
+        "Key": "Skill02",
+        "Name": "战争兵器",
+        "Desc": "对指定我方单体造成<1>风属性伤害。如受到攻击的目标正处于<color style='color:#f29e38;'>风化</color>状态，则直接造成1次风化伤害。",
+        "SP": 20.0,
+        "Elem": "Wind",
+        "Status": [
+            280240101
+        ],
+        "DMG": [
+            2.5
+        ]
+    },
+    "802401003": {
+        "Key": "Skill03",
+        "Name": "飓风",
+        "Desc": "对我方全体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>1</color>层<b>风化</b>状态。<br>风化持续伤害：<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "SP": 10.0,
+        "Elem": "Wind",
+        "Status": [
+            280240101
+        ],
+        "DMG": [
+            1.5,
+            0.5
+        ]
+    },
+    "802401004": {
+        "Key": "Skill04",
+        "Name": "繁殖",
+        "Desc": "繁殖2~3个<color style='color:#f29e38;'>幼蛰虫</color>或<color style='color:#f29e38;'>次蛰虫</color>。<br><br>如果为一阶段，则产生2个幼蛰虫。<br>如果为二阶段，则第一次繁殖时额外产生1个次蛰虫，后续繁殖时额外随机产生1个幼蛰虫或次蛰虫，各占50%概率。<br>如果为三阶段，则额外产生1个次蛰虫。",
+        "SP": 0,
+        "Summon": [
+            8022010,
+            8022020
+        ]
+    },
+    "802401005": {
+        "Key": "Skill05",
+        "Name": "指挥准备",
+        "Desc": "进入蓄力状态，下次行动施放<color style='color:#f29e38;'>【虫群突袭】</color>。",
+        "SP": 0,
+        "Prepare": [
+            802401006
+        ]
+    },
+    "802401006": {
+        "Key": "Skill06",
+        "Name": "虫群突袭",
+        "Desc": "解除场上所有真蛰虫群的控制类负面状态与弱点击破状态。<br>对我方全体造成<1>风属性伤害。场上存在0</color>1</color>2</color>3</color>4个其他怪物时，连续0</color>4</color>5</color>6</color>7次对我方随机单体造成<2>风属性伤害。<br>我方每次受到伤害时，都有<color style='color:#f29e38;'>100%</color>基础概率陷入<color style='color:#f29e38;'>1</color>层<b>风化</b>状态。<br>为所有角色恢复<color style='color:#f29e38;'>5</color>能量",
+        "SP": 10.0,
+        "Elem": "Wind",
+        "Threat": true,
+        "DMG": [
+            2.0,
+            1.0
+        ]
+    },
+    "802401007": {
+        "Key": "Skill07",
+        "Name": "虫群突袭",
+        "Desc": "解除场上所有真蛰虫群的控制类负面状态与弱点击破状态，并对我方目标造成风属性伤害，使我方目标每次受到攻击时大概率陷入1层风化状态。",
+        "SP": 10.0,
+        "Elem": "Wind"
+    },
+    "802401008": {
+        "Key": "PassiveSkill01",
+        "Name": "传衍信息素",
+        "Desc": "场上每繁殖出1个真蛰虫，所有真蛰虫群造成伤害提高<color style='color:#f29e38;'>8%</color>。<br>场上仅能有1个【传衍信息素】效果生效。",
+        "SP": 0,
+        "Status": [
+            280240102
+        ]
+    },
+    "802401009": {
+        "Key": "PassiveSkill02",
+        "Name": "蛰亡语",
+        "Desc": "受到致命攻击时，对敌方全体造成<color style='color:#f29e38;'>20%自身生命值上限</color>风属性伤害和<color style='color:#f29e38;'>1.0</color>风属性削韧，并为其施加<color style='color:#f29e38;'>2</color>层<b>易伤</b>：受到的伤害提高<color style='color:#f29e38;'>10%</color>，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "SP": 0,
+        "Elem": "Wind",
+        "Status": [
+            280240103
+        ]
+    },
+    "803201001": {
+        "Key": "Skill01",
+        "Name": "打卡",
+        "Desc": "对指定我方单体造成<1>物理伤害。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "DMG": [
+            2.8
+        ]
+    },
+    "803201002": {
+        "Key": "PassiveSkill01",
+        "Name": "提升业绩",
+        "Desc": "每次施放攻击后获得1个【绩效点】：造成的伤害提升<color style='color:#f29e38;'>50%</color>。<br>【绩效点】可在自身弱点被击破时或自身被消灭时被攻击者夺取。",
+        "SP": 0,
+        "Status": [
+            280330101
+        ]
+    },
+    "803201003": {
+        "Key": "PassiveSkill02",
+        "Name": "",
+        "Desc": "dev_获得1枚金币后进入强化状态。",
+        "SP": 0
+    },
+    "803202001": {
+        "Key": "Skill01",
+        "Name": "申诉",
+        "Desc": "对指定我方单体造成<1>物理伤害，对相邻目标造成<2>物理伤害。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "DMG": [
+            2.0,
+            1.6
+        ]
+    },
+    "803202002": {
+        "Key": "PassiveSkill01",
+        "Name": "提升业绩",
+        "Desc": "每次施放攻击后获得1个【绩效点】：造成的伤害提升<color style='color:#f29e38;'>50%</color>。<br>【绩效点】可在自身弱点被击破时或自身被消灭时被攻击者夺取。",
+        "SP": 0,
+        "Status": [
+            280330101
+        ]
+    },
+    "803202003": {
+        "Key": "PassiveSkill02",
+        "Name": "",
+        "Desc": "dev_获得1枚金币后进入强化状态。",
+        "SP": 0
+    },
+    "803301001": {
+        "Key": "Skill01",
+        "Name": "处分",
+        "Desc": "对指定我方单体造成<1>物理伤害。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "DMG": [
+            3.2
+        ]
+    },
+    "803301003": {
+        "Key": "Skill02",
+        "Name": "培训中…",
+        "Desc": "进入蓄力状态，下次行动施放<color style='color:#f29e38;'>【企业文化冲击】</color>。",
+        "SP": 0,
+        "Prepare": [
+            803301004
+        ]
+    },
+    "803301004": {
+        "Key": "Skill03",
+        "Name": "企业文化冲击",
+        "Desc": "对我方全体造成<1>物理伤害。",
+        "SP": 20.0,
+        "Elem": "Phys",
+        "Threat": true,
+        "DMG": [
+            3.6
+        ]
+    },
+    "803301005": {
+        "Key": "Skill04",
+        "Name": " 720 度考核",
+        "Desc": "夺取所有【基层员工•外勤】和【基层员工•安保】的<color style='color:#f29e38;'>【绩效点】</color>。",
+        "SP": 0,
+        "Status": [
+            280330101
+        ]
+    },
+    "803301006": {
+        "Key": "Skill05",
+        "Name": "团建",
+        "Desc": "召唤【基层员工•外勤】或【基层员工•安保】，并使所有【基层员工•外勤】和【基层员工•安保】获得1个<color style='color:#f29e38;'>【绩效点】</color>。",
+        "SP": 0,
+        "Summon": [
+            8032010,
+            8032020
+        ]
+    },
+    "803301002": {
+        "Key": "Skill06",
+        "Name": "降本增效",
+        "Desc": "对指定我方单体造成<1>物理伤害。",
+        "SP": 15.0,
+        "Elem": "Phys",
+        "DMG": [
+            3.8
+        ]
+    },
+    "803301007": {
+        "Key": "PassiveSkillInitiate",
+        "Name": "提升业绩",
+        "Desc": "每次施放攻击后获得1个【绩效点】：造成的伤害提升<color style='color:#f29e38;'>50%</color>。<br>【绩效点】可在自身弱点被击破时或自身被消灭时被攻击者夺取。",
+        "SP": 0,
+        "Status": [
+            280330101
+        ]
+    },
+    "800305001": {
+        "Key": "Skill01",
+        "Name": "巡风光陨",
+        "Desc": "对指定我方单体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>风化</b>状态。<br>风化持续伤害：每层<2>风属性伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "SP": 10.0,
+        "Elem": "Wind",
+        "Status": [
+            30020003
+        ],
+        "DMG": [
+            3.0,
+            0.75
+        ]
+    },
+    "800305002": {
+        "Key": "Skill03",
+        "Name": "踏风而行",
+        "Desc": "对指定我方单体及其相邻目标造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>风化</b>状态。<br>风化持续伤害：每层<2>风属性伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "SP": 10.0,
+        "Elem": "Wind",
+        "Status": [
+            30020003
+        ],
+        "DMG": [
+            2.2,
+            0.75
+        ]
+    },
+    "800305003": {
+        "Key": "Skill04",
+        "Name": "拈风张弩",
+        "Desc": "进入<color style='color:#f29e38;'>蓄力</color>状态，并<b>锁定</b>陷入<color style='color:#f29e38;'>风化</color>状态的所有我方目标，下次行动施放<color style='color:#f29e38;'>【风落暴矢】</color>。",
+        "SP": 0,
+        "Prepare": [
+            800305004
+        ],
+        "Status": [
+            30020003,
+            280130201
+        ]
+    },
+    "800305004": {
+        "Key": "Skill05",
+        "Name": "风落暴矢",
+        "Desc": "对处于风化状态的我方目标造成<1>风属性伤害。<br>若场上没有处于风化状态的我方目标，则本技能施放失败。",
+        "SP": 15.0,
+        "Elem": "Wind",
+        "Threat": true,
+        "Status": [
+            30020003
+        ],
+        "DMG": [
+            4.5
+        ]
+    },
+    "800305005": {
+        "Key": "PassiveSkillInitiate",
+        "Name": "风浪急旋",
+        "Desc": "攻击陷入风化状态的我方目标后，自身攻击力提高<color style='color:#f29e38;'>8%</color>，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。<br>当弱点被击破时，该效果解除。",
+        "SP": 0,
+        "Status": [
+            280130202
+        ]
+    },
+    "800305006": {
+        "Key": "Skill06",
+        "Name": "风落暴矢",
+        "Desc": "对处于风化状态的我方目标造成风属性伤害。若场上没有处于风化状态的我方目标，则本技能施放失败。",
+        "SP": 10.0
+    },
+    "800305101": {
+        "Key": "Skill01",
+        "Name": "巡风光陨",
+        "Desc": "对指定我方单体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>风化</b>状态。<br>风化持续伤害：每层<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "SP": 10.0,
+        "Elem": "Wind",
+        "Status": [
+            30020003
+        ],
+        "DMG": [
+            3.0,
+            0.75
+        ]
+    },
+    "800305102": {
+        "Key": "Skill03",
+        "Name": "踏风而行",
+        "Desc": "对指定我方单体及其相邻目标造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>风化</b>状态。<br>风化持续伤害：每层<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "SP": 10.0,
+        "Elem": "Wind",
+        "Status": [
+            30020003
+        ],
+        "DMG": [
+            2.2,
+            0.75
+        ]
+    },
+    "800305103": {
+        "Key": "Skill04",
+        "Name": "拈风张弩",
+        "Desc": "进入<color style='color:#f29e38;'>蓄力</color>状态，并锁定陷入风化状态的所有我方目标，下次行动施放<color style='color:#f29e38;'>【风落暴矢】</color>。",
+        "SP": 0,
+        "Prepare": [
+            800305104
+        ],
+        "Status": [
+            30020003,
+            280130201
+        ]
+    },
+    "800305104": {
+        "Key": "Skill05",
+        "Name": "风落暴矢",
+        "Desc": "对处于<color style='color:#f29e38;'>风化</color>状态的我方目标造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标再次陷入<b>风化</b>状态。<br>若场上没有处于风化状态的我方目标，则本技能施放失败。",
+        "SP": 15.0,
+        "Elem": "Wind",
+        "Threat": true,
+        "Status": [
+            30020003
+        ],
+        "DMG": [
+            4.5
+        ]
+    },
+    "800305105": {
+        "Key": "PassiveSkillInitiate",
+        "Name": "风浪急旋",
+        "Desc": "攻击陷入风化状态的我方目标后，自身攻击力提高<color style='color:#f29e38;'>8%</color>，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。<br>当弱点被击破时，该效果解除。",
+        "SP": 0,
+        "Status": [
+            280130202
+        ]
+    },
+    "800305106": {
+        "Key": "Skill06",
+        "Name": "风落暴矢",
+        "Desc": "对处于风化状态的我方目标造成风属性伤害。若场上没有处于风化状态的我方目标，则本技能施放失败。",
+        "SP": 10.0
+    },
+    "800305107": {
+        "Key": "Skill07",
+        "Name": "",
+        "Desc": "dev_使所有处于风化状态的我方目标将风化效果扩散至相邻目标。",
+        "SP": 0
+    },
+    "800305108": {
+        "Key": "Skill08",
+        "Name": "",
+        "Desc": "dev_对指定我方单体造成风属性伤害，触发其风化效果，并有概率使受到攻击的我方目标陷入风化状态。",
+        "SP": 15.0,
+        "Elem": "Wind"
+    },
+    "800305109": {
+        "Key": "Skill09",
+        "Name": "即来之风",
+        "Desc": "召唤<color style='color:#f29e38;'>4</color>个<color style='color:#f29e38;'>【巽风造物】</color>。",
+        "SP": 0,
+        "Elem": "Wind",
+        "Summon": [
+            8001050
+        ]
+    },
+    "202303001": {
+        "Key": "Skill01",
+        "Name": "若木化生仪祷",
+        "Desc": "连续<color style='color:#f29e38;'>5</color>次：对我方随机单体造成<1>风属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>风化</b>状态。<br>风化持续伤害：每层<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "SP": 5.0,
+        "Elem": "Wind",
+        "Status": [
+            30020003
+        ],
+        "DMG": [
+            1.0,
+            0.7
+        ]
+    },
+    "202303002": {
+        "Key": "Skill02",
+        "Name": "导引巽风",
+        "Desc": "对指定我方单体及其相邻目标造成<1>风属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>风化</b>状态。<br>风化持续伤害：每层<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "SP": 10.0,
+        "Elem": "Wind",
+        "Status": [
+            30020003
+        ],
+        "DMG": [
+            2.0,
+            0.7
+        ]
+    },
+    "202303003": {
+        "Key": "Skill03",
+        "Name": "若木棘",
+        "Desc": "对指定我方单体造成<1>风属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>风化</b>状态。<br>风化持续伤害：每层<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "SP": 15.0,
+        "Elem": "Wind",
+        "Status": [
+            30020003
+        ],
+        "DMG": [
+            3.0,
+            0.7
+        ]
+    },
+    "202303004": {
+        "Key": "Skill04",
+        "Name": "玄气咒厌法",
+        "Desc": "进入<color style='color:#f29e38;'>【持咒】</color>状态。下次行动对我方全体施放<color style='color:#f29e38;'>【玄气噬身】</color>。",
+        "SP": 10.0,
+        "Elem": "Wind",
+        "Prepare": [
+            202303005
+        ],
+        "Status": [
+            280030603
+        ]
+    },
+    "202303005": {
+        "Key": "Skill05",
+        "Name": "玄气噬身",
+        "Desc": "有<color style='color:#f29e38;'>100%</color>基础概率使我方全体陷入<color style='color:#f29e38;'>【噬命】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>噬命：可回复的生命值上限降低<color style='color:#f29e38;'>30%</color>。",
+        "SP": 15.0,
+        "Elem": "Wind",
+        "Threat": true,
+        "Status": [
+            30020030
+        ]
+    },
+    "801501001": {
+        "Key": "PassiveSkill02",
+        "Name": "古兽余威",
+        "Desc": "当【反物质引擎】、【灾虐的右手】、【黎明的左手】未被全部击溃时，无法攻击末日兽。<br>瘫痪后，受到的伤害提升<color style='color:#f29e38;'>900%</color>。",
+        "SP": 0,
+        "Elem": "Quantum",
+        "Status": [
+            280150102
+        ],
+        "Summon": [
+            8012140,
+            8013141,
+            8012142
+        ]
+    },
+    "801214001": {
+        "Key": "Skill01",
+        "Name": "灾殃的撕裂",
+        "Desc": "对我方全体造成<1>虚数属性伤害。",
+        "SP": 5.0,
+        "Elem": "Imaginary",
+        "DMG": [
+            1.35
+        ]
+    },
+    "801214002": {
+        "Key": "Skill02",
+        "Name": "荒难的割扯",
+        "Desc": "对我方全体造成<1>虚数属性伤害，同时有<color style='color:#f29e38;'>20%</color>基础概率使我方目标陷入<b>禁锢</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>禁锢：无法行动，速度降低<color style='color:#f29e38;'>30%</color>，行动延后<color style='color:#f29e38;'>20%</color>。",
+        "SP": 5.0,
+        "Elem": "Imaginary",
+        "Status": [
+            30020013
+        ],
+        "DMG": [
+            1.5
+        ]
+    },
+    "801214003": {
+        "Key": "Skill03",
+        "Name": "劫虐崩裂之时",
+        "Desc": "对我方全体造成<1>虚数属性伤害，同时有<color style='color:#f29e38;'>25%</color>基础概率使我方目标陷入<b>禁锢</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>禁锢：无法行动，速度降低<color style='color:#f29e38;'>30%</color>，行动延后<color style='color:#f29e38;'>20%</color>。",
+        "SP": 10.0,
+        "Elem": "Imaginary",
+        "Status": [
+            30020013
+        ],
+        "DMG": [
+            2.0
+        ]
+    },
+    "801314101": {
+        "Key": "Skill07",
+        "Name": "虚明裂变",
+        "Desc": "对敌方单体【灾虐的右手】施加<color style='color:#f29e38;'>【增幅】</color>状态：恢复其韧性，使其攻击力提高<color style='color:#f29e38;'>60%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 0,
+        "Status": [
+            280150103
+        ]
+    },
+    "801314102": {
+        "Key": "Skill08",
+        "Name": "灾厄侵袭",
+        "Desc": "对敌方单体【黎明的左手】施加<color style='color:#f29e38;'>【增幅】</color>状态：恢复其韧性，使其攻击力提高<color style='color:#f29e38;'>60%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 0,
+        "Status": [
+            280150103
+        ]
+    },
+    "801314103": {
+        "Key": "Skill09",
+        "Name": "引擎升变",
+        "Desc": "对除自身外的敌方全体施加<color style='color:#f29e38;'>【增幅】</color>状态：恢复其韧性，使其攻击力提高<color style='color:#f29e38;'>60%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 0,
+        "Status": [
+            280150103
+        ]
+    },
+    "801314104": {
+        "Key": "Skill10",
+        "Name": "顺逆湮灭",
+        "Desc": "对我方单体造成<1>虚数属性伤害。",
+        "SP": 15.0,
+        "Elem": "Imaginary",
+        "DMG": [
+            4.8
+        ]
+    },
+    "801314105": {
+        "Key": "Skill11",
+        "Name": "灾虐前兆",
+        "Desc": "进入蓄力状态，下次行动时对我方全体施放<color style='color:#f29e38;'>【末日临空】</color>。<br>攻击力提高<color style='color:#f29e38;'>60%</color>，持续<color style='color:#f29e38;'>1</color>回合。",
+        "SP": 0,
+        "Elem": "Quantum",
+        "Prepare": [
+            801314106
+        ]
+    },
+    "801314106": {
+        "Key": "Skill12",
+        "Name": "末日临空",
+        "Desc": "对我方全体造成<1>量子属性伤害。",
+        "SP": 15.0,
+        "Elem": "Quantum",
+        "Threat": true,
+        "DMG": [
+            3.6
+        ]
+    },
+    "801314107": {
+        "Key": "PassiveSkill03",
+        "Name": "引擎狭缝",
+        "Desc": "每当【反物质引擎】从弱点击破状态恢复，其弱点属性会发生改变。<br>第二阶段期间，速度提升<color style='color:#f29e38;'>40%</color>。",
+        "SP": 0,
+        "Elem": "Quantum",
+        "Status": [
+            280150104,
+            280150105
+        ]
+    },
+    "801214201": {
+        "Key": "Skill04",
+        "Name": "陨落的锤锻",
+        "Desc": "对我方单体造成<1>量子属性伤害。",
+        "SP": 10.0,
+        "Elem": "Quantum",
+        "DMG": [
+            3.0
+        ]
+    },
+    "801214202": {
+        "Key": "Skill05",
+        "Name": "坠星的叩问",
+        "Desc": "对我方单体造成<1>量子属性伤害，同时有<color style='color:#f29e38;'>30%</color>基础概率使该目标陷入<b>纠缠</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>纠缠基础伤害：<2>量子属性伤害，行动延后<color style='color:#f29e38;'>30%</color>。",
+        "SP": 10.0,
+        "Elem": "Quantum",
+        "Status": [
+            30020027
+        ],
+        "DMG": [
+            3.15,
+            0.5
+        ]
+    },
+    "801214203": {
+        "Key": "Skill06",
+        "Name": "曙光黯然之时",
+        "Desc": "对我方单体造成<1>量子属性伤害，同时有<color style='color:#f29e38;'>50%</color>基础概率使该目标陷入<b>纠缠</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>纠缠基础伤害：<2>量子属性伤害，行动延后<color style='color:#f29e38;'>30%</color>。",
+        "SP": 15.0,
+        "Elem": "Quantum",
+        "Status": [
+            30020027
+        ],
+        "DMG": [
+            3.2,
+            0.5
+        ]
+    },
+    "801501101": {
+        "Key": "PassiveSkill02",
+        "Name": "古兽余威",
+        "Desc": "当【反物质引擎】、【灾虐的右手】、【黎明的左手】未被全部击溃时，无法攻击末日兽。<br>瘫痪后，受到的伤害提升<color style='color:#f29e38;'>900%</color>。",
+        "SP": 0,
+        "Elem": "Quantum",
+        "Status": [
+            280150102
+        ],
+        "Summon": [
+            8012140,
+            8013141,
+            8012142
+        ]
+    },
+    "801214301": {
+        "Key": "Skill01",
+        "Name": "灾殃的撕裂",
+        "Desc": "对我方全体造成<1>虚数属性伤害。",
+        "SP": 5.0,
+        "Elem": "Imaginary",
+        "DMG": [
+            1.4
+        ]
+    },
+    "801214302": {
+        "Key": "Skill02",
+        "Name": "荒难的割扯",
+        "Desc": "对我方全体造成<1>虚数属性伤害。",
+        "SP": 10.0,
+        "Elem": "Imaginary",
+        "DMG": [
+            1.4
+        ]
+    },
+    "801214303": {
+        "Key": "Skill03",
+        "Name": "劫虐崩裂之时",
+        "Desc": "对我方全体造成<1>虚数属性伤害。",
+        "SP": 15.0,
+        "Elem": "Imaginary",
+        "DMG": [
+            1.4
+        ]
+    },
+    "801314401": {
+        "Key": "Skill07",
+        "Name": "虚明裂变",
+        "Desc": "对敌方单体【灾虐的右手】施加<color style='color:#f29e38;'>【增幅】</color>状态：恢复其韧性，使其攻击力提高<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 0,
+        "Status": [
+            280150103
+        ]
+    },
+    "801314402": {
+        "Key": "Skill08",
+        "Name": "灾厄侵袭",
+        "Desc": "对敌方单体【黎明的左手】施加<color style='color:#f29e38;'>【增幅】</color>状态：恢复其韧性，使其攻击力提高<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 0,
+        "Status": [
+            280150103
+        ]
+    },
+    "801314403": {
+        "Key": "Skill09",
+        "Name": "引擎升变",
+        "Desc": "对除自身外的敌方全体施加<color style='color:#f29e38;'>【增幅】</color>状态：恢复其韧性，使其攻击力提高<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 0,
+        "Status": [
+            280150103
+        ]
+    },
+    "801314404": {
+        "Key": "Skill10",
+        "Name": "顺逆湮灭",
+        "Desc": "对我方单体造成<1>虚数属性伤害。",
+        "SP": 20.0,
+        "Elem": "Imaginary",
+        "DMG": [
+            2.8
+        ]
+    },
+    "801314405": {
+        "Key": "Skill11",
+        "Name": "灾虐前兆",
+        "Desc": "进入蓄力状态，下次行动时对我方全体施放【末日临空】。",
+        "SP": 0,
+        "Elem": "Quantum",
+        "Prepare": [
+            801314406
+        ]
+    },
+    "801314406": {
+        "Key": "Skill12",
+        "Name": "末日临空",
+        "Desc": "对我方全体造成<1>量子属性伤害。",
+        "SP": 15.0,
+        "Elem": "Quantum",
+        "Threat": true,
+        "DMG": [
+            3.4
+        ]
+    },
+    "801314407": {
+        "Key": "PassiveSkill03",
+        "Name": "引擎狭缝",
+        "Desc": "每当【反物质引擎】从弱点击破状态恢复，其弱点属性会发生改变。<br>第二阶段期间，速度提升<color style='color:#f29e38;'>50%</color>。",
+        "SP": 0,
+        "Elem": "Quantum",
+        "Status": [
+            280150104,
+            280150105
+        ]
+    },
+    "801214501": {
+        "Key": "Skill04",
+        "Name": "陨落的锤锻",
+        "Desc": "对我方单体造成<1>量子属性伤害。",
+        "SP": 15.0,
+        "Elem": "Quantum",
+        "DMG": [
+            2.8
+        ]
+    },
+    "801214502": {
+        "Key": "Skill05",
+        "Name": "坠星的叩问",
+        "Desc": "对我方单体造成<1>量子属性伤害。",
+        "SP": 20.0,
+        "Elem": "Quantum",
+        "DMG": [
+            2.8
+        ]
+    },
+    "801214503": {
+        "Key": "Skill06",
+        "Name": "曙光黯然之时",
+        "Desc": "对我方单体造成<1>量子属性伤害。",
+        "SP": 20.0,
+        "Elem": "Quantum",
+        "DMG": [
+            2.8
+        ]
+    },
+    "202204001": {
+        "Key": "Skill01",
+        "Name": "角牴",
+        "Desc": "对指定我方单体造成<1>风属性伤害。",
+        "SP": 10.0,
+        "Elem": "Wind",
+        "DMG": [
+            2.5
+        ]
+    },
+    "202204002": {
+        "Key": "SkillP01",
+        "Name": "嗥吠",
+        "Desc": "受到致命攻击时，使与自身相邻的敌方目标立即行动。",
+        "SP": 0
+    },
+    "202205001": {
+        "Key": "Skill01",
+        "Name": "狼餐",
+        "Desc": "对指定我方单体造成<1>雷属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>触电</b>状态。<br>触电持续伤害：<2>雷属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>1</color>层。",
+        "SP": 10.0,
+        "Elem": "Elec",
+        "Status": [
+            30020004
+        ],
+        "DMG": [
+            2.0,
+            1.5
+        ]
+    },
+    "202205002": {
+        "Key": "Skill02",
+        "Name": "啸聚",
+        "Desc": "召唤<color style='color:#f29e38;'>1</color>个当前生命值与自身相同的<color style='color:#f29e38;'>【狈影】</color>。",
+        "SP": 0,
+        "Summon": [
+            2022051
+        ]
+    },
+    "202205003": {
+        "Key": "SkillP01",
+        "Name": "",
+        "Desc": "test_被动技能。",
+        "SP": 0
+    },
+    "202205101": {
+        "Key": "Skill01",
+        "Name": "狼餐",
+        "Desc": "对指定我方单体造成<1>雷属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>触电</b>状态。<br>触电持续伤害：<2>雷属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>1</color>层。",
+        "SP": 10.0,
+        "Elem": "Elec",
+        "Status": [
+            30020004
+        ],
+        "DMG": [
+            2.0,
+            1.5
+        ]
+    },
+    "202206001": {
+        "Key": "Skill01",
+        "Name": "犀弩",
+        "Desc": "连续<color style='color:#f29e38;'>6</color>次：对我方随机单体造成<1>雷属性伤害。",
+        "SP": 15.0,
+        "Elem": "Elec",
+        "DMG": [
+            1.0
+        ]
+    },
+    "202302001": {
+        "Key": "Skill01",
+        "Name": "猱击",
+        "Desc": "消耗1层<color style='color:#f29e38;'>【元气】</color>，并对被标记为监视目标的我方单体造成<1>量子属性伤害。",
+        "SP": 15.0,
+        "Elem": "Quantum",
+        "Status": [
+            220230201
+        ],
+        "DMG": [
+            4.75
+        ]
+    },
+    "202302002": {
+        "Key": "Skill02",
+        "Name": "猱击",
+        "Desc": "消耗1层<color style='color:#f29e38;'>【元气】</color>，并对被标记为监视目标的我方单体造成<1>量子属性伤害。",
+        "SP": 15.0,
+        "Elem": "Quantum",
+        "Status": [
+            220230201
+        ],
+        "DMG": [
+            4.75
+        ]
+    },
+    "202302003": {
+        "Key": "Skill03",
+        "Name": "奋威",
+        "Desc": "使自身造成的伤害提高<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>3</color>层。",
+        "SP": 0,
+        "Status": [
+            220230205
+        ]
+    },
+    "202302004": {
+        "Key": "Skill04",
+        "Name": "怒啸",
+        "Desc": "获得<color style='color:#f29e38;'>3</color>层<color style='color:#f29e38;'>【元气】</color>，将随机我方单体标记为<b>监视目标</b>。每当我方目标施放战技时，会转为标记最新施放战技的目标，直到【元气】耗尽。",
+        "SP": 0,
+        "Threat": true,
+        "Status": [
+            220230201,
+            220230204
+        ]
+    },
+    "202302005": {
+        "Key": "Skill05",
+        "Name": "",
+        "Desc": "test_虚弱回复，纯表演",
+        "SP": 0
+    },
+    "202302006": {
+        "Key": "SkillP01",
+        "Name": "",
+        "Desc": "test_无效果",
+        "SP": 0
+    },
+    "200402101": {
+        "Key": "Skill01",
+        "Name": "快哉风",
+        "Desc": "对指定我方单体造成<1>冰属性伤害，并使彦卿和所有飞剑获得1层<color style='color:#f29e38;'>【寒芒】</color>：造成的伤害提高<color style='color:#f29e38;'>10%</color>，可叠加，不可解除。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "Status": [
+            220040215
+        ],
+        "DMG": [
+            2.0
+        ]
+    },
+    "200402102": {
+        "Key": "Skill02",
+        "Name": "燕归来",
+        "Desc": "召唤4把<color style='color:#f29e38;'>【飞剑】</color>，获得<color style='color:#f29e38;'>【剑阵】</color>效果提升速度，并使【飞剑】获得<color style='color:#f29e38;'>【阵眼】</color>。<br>第三阶段时额外使一支【飞剑】额外获得<color style='color:#f29e38;'>【砥砺】</color>。<br><br>剑阵：锁韧性，速度提升<color style='color:#f29e38;'>60</color>点。所有飞剑被消灭后解除，并流失<color style='color:#f29e38;'>20%</color>生命值。<br>砥砺：韧性从1变为2，攻击命中目标时，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>冻结</b>状态。冻结附加伤害：<1>冰属性伤害，持续<color style='color:#f29e38;'>1</color>回合。",
+        "SP": 10.0,
+        "Status": [
+            220040211,
+            220040201,
+            220040212
+        ],
+        "Summon": [
+            200202001,
+            200202101
+        ],
+        "DMG": [
+            1.2
+        ]
+    },
+    "200402103": {
+        "Key": "Skill03",
+        "Name": "三尺水",
+        "Desc": "对指定我方单体造成<1>冰属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使目标陷入<b>冻结</b>状态。冻结附加伤害：<2>冰属性伤害，持续<color style='color:#f29e38;'>1</color>回合。",
+        "SP": 15.0,
+        "Elem": "Ice",
+        "DMG": [
+            3.5,
+            1.2
+        ]
+    },
+    "200402104": {
+        "Key": "Skill04",
+        "Name": "破阵歌",
+        "Desc": "对指定我方单体造成<1>冰属性伤害，对其相邻目标造成<2>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            3.0,
+            2.0
+        ]
+    },
+    "200402105": {
+        "Key": "Skill05",
+        "Name": "剑气近",
+        "Desc": "进入蓄力状态。下次行动对我方全体施放<color style='color:#f29e38;'>【天河泻】</color>。",
+        "SP": 10.0,
+        "Prepare": [
+            200402106
+        ]
+    },
+    "200402106": {
+        "Key": "Skill06",
+        "Name": "天河泻",
+        "Desc": "对我方全体造成<1>冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "Threat": true,
+        "DMG": [
+            4.0
+        ]
+    },
+    "200402107": {
+        "Key": "Skill07",
+        "Name": "剑气凝",
+        "Desc": "锁定我方单体，两回合后对其施放<color style='color:#f29e38;'>【风归云动，天河泻梦】</color>。",
+        "SP": 0,
+        "Prepare": [
+            200402108
+        ]
+    },
+    "200402108": {
+        "Key": "Skill08",
+        "Name": "风归云动，天河泻梦",
+        "Desc": "对指定我方单体造成<1>冰属性伤害。施放该技能时，场上每有一把【飞剑】，则额外造成<2>冰属性伤害。施放技能后，清除场上所有的【飞剑】。",
+        "SP": 15.0,
+        "Elem": "Ice",
+        "Threat": true,
+        "DMG": [
+            3.0,
+            3.0
+        ]
+    },
+    "200402109": {
+        "Key": "SkillP01",
+        "Name": "dev_被动技能（不显示）",
+        "Desc": "第三阶段韧性变为原本的<color style='color:#f29e38;'>1.5</color>倍，速度提高<color style='color:#f29e38;'>50</color>点。",
+        "SP": 15.0
+    },
+    "800204101": {
+        "Key": "Skill01",
+        "Name": "",
+        "Desc": "dev_扑满被惊动了，即将在2个回合后逃离。",
+        "SP": 0
+    },
+    "800204102": {
+        "Key": "Skill02",
+        "Name": "",
+        "Desc": "dev_扑满陷入恐慌，即将在1个回合后逃离。",
+        "SP": 0
+    },
+    "800204103": {
+        "Key": "Skill03",
+        "Name": "",
+        "Desc": "dev_扑满拔腿就跑，瞬间失去了踪影。",
+        "SP": 0
+    },
+    "800204104": {
+        "Key": "PassiveSkill01",
+        "Name": "",
+        "Desc": "dev_击杀扑满后获得增益",
+        "SP": 0
+    },
+    "802401011": {
+        "Key": "Skill10",
+        "Name": "繁殖",
+        "Desc": "繁殖真蛰虫群。",
+        "SP": 0
+    },
+    "300101001": {
+        "Key": "Skill01",
+        "Name": "掷点",
+        "Desc": "对指定我方单体造成<1>物理属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入虚弱状态：效果抵抗降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>1</color>回合。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "DMG": [
+            2.5
+        ],
+        "Status": [
+            230010101
+        ]
+    },
+    "300102001": {
+        "Key": "Skill01",
+        "Name": "邀舞",
+        "Desc": "对指定我方单体造成<1>物理属性伤害，有<color style='color:#f29e38;'>50%</color>基础概率使受到攻击的我方目标陷入<b>裂伤</b>状态。<br>裂伤持续伤害：每层<2>物理伤害，持续<color style='color:#f29e38;'>2</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "DMG": [
+            2.5,
+            0.2
+        ]
+    },
+    "201301102": {
+        "Key": "Skill01",
+        "Name": "儆惧",
+        "Desc": "提高<color style='color:#f29e38;'>33%</color>【惩戒度】等级，并对我方全体造成<1>虚数属性伤害。<br>有<color style='color:#f29e38;'>100%</color>基础概率使我方目标陷入<b>虚弱</b>状态。<br>虚弱：造成的伤害降低<color style='color:#f29e38;'>30%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 5.0,
+        "Elem": "Imaginary",
+        "Status": [
+            30010017
+        ],
+        "DMG": [
+            3.0
+        ]
+    },
+    "201301103": {
+        "Key": "Skill02",
+        "Name": "dev_戒退",
+        "Desc": "dev_对指定我方单体造成虚数属性伤害。",
+        "SP": 10.0,
+        "Elem": "Imaginary"
+    },
+    "201301104": {
+        "Key": "Skill03",
+        "Name": "追摄",
+        "Desc": "对1个被锁定的目标造成<1>虚数属性伤害，移除锁定状态，并有<color style='color:#f29e38;'>100%</color>基础概率使受击者陷入<b>禁锢</b>状态：行动延后<color style='color:#f29e38;'>60%</color>，持续<color style='color:#f29e38;'>1</color>回合。",
+        "SP": 15.0,
+        "Elem": "Imaginary",
+        "Threat": true,
+        "Status": [
+            220130111,
+            30020013
+        ],
+        "DMG": [
+            6.0
+        ]
+    },
+    "201301101": {
+        "Key": "SkillP01",
+        "Name": "明罚敕法",
+        "Desc": "当我方目标施放战技或终结技进行攻击时会积累<color style='color:#f29e38;'>33%</color>【惩戒度】等级。<br>当【惩戒度】等级满级时，立即进入<color style='color:#f29e38;'>【罚恶模式•慎刑】</color>：速度提升<color style='color:#f29e38;'>75%</color>，<b>锁定</b><color style='color:#f29e38;'>3</color>个我方目标，解锁技能<color style='color:#f29e38;'>【追摄】</color>，同时召唤<color style='color:#f29e38;'>2</color>个<color style='color:#f29e38;'>【入魔机巧 • 灯昼龙鱼】</color>。",
+        "SP": 0,
+        "Prepare": [
+            201301104
+        ],
+        "Status": [
+            220130112,
+            220130111
+        ],
+        "Summon": [
+            2012010
+        ]
+    },
+    "202301101": {
+        "Key": "Skill01",
+        "Name": "震击",
+        "Desc": "对指定我方单体造成<1>雷属性伤害。",
+        "SP": 15.0,
+        "Elem": "Elec",
+        "DMG": [
+            3.5
+        ]
+    },
+    "202301102": {
+        "Key": "Skill02",
+        "Name": "霆罚",
+        "Desc": "对指定我方单体及其相邻目标造成<1>雷属性伤害。",
+        "SP": 10.0,
+        "Elem": "Elec",
+        "DMG": [
+            3.0
+        ]
+    },
+    "202301103": {
+        "Key": "Skill03",
+        "Name": "劫雷",
+        "Desc": "对指定我方单体造成<1>雷属性伤害。",
+        "SP": 20.0,
+        "Elem": "Elec",
+        "Threat": true,
+        "DMG": [
+            4.5
+        ]
+    },
+    "202301104": {
+        "Key": "Skill04",
+        "Name": "dev_召遣",
+        "Desc": "dev_消耗自身生命值，召唤【魔阴身士卒】。",
+        "SP": 0
+    },
+    "202301105": {
+        "Key": "Skill05",
+        "Name": "交感",
+        "Desc": "消耗<color style='color:#f29e38;'>15%生命值上限</color>，召唤<color style='color:#f29e38;'>2</color>个【魔阴身士卒】和<color style='color:#f29e38;'>2</color>个【「药王秘传」内丹士】。<br>锁定我方当前生命值百分比最低的目标，使敌方全体集中攻击该目标。",
+        "SP": 0,
+        "Threat": true,
+        "Summon": [
+            2022010,
+            2022020
+        ]
+    },
+    "202301106": {
+        "Key": "SkillP01",
+        "Name": "采气",
+        "Desc": "当场上其它敌方目标带有<color style='color:#f29e38;'>【重生】</color>时，其自身具有<color style='color:#f29e38;'>【击中回复】</color>。<br><br>击中回复：<br>【震击】回复<color style='color:#f29e38;'>3%生命值上限</color><br>【霆罚】回复<color style='color:#f29e38;'>9%生命值上限</color><br>【劫雷】回复<color style='color:#f29e38;'>24%生命值上限</color>",
+        "SP": 0,
+        "Status": [
+            220220101,
+            220230101
+        ]
+    },
+    "200402007": {
+        "Key": "SkillP01",
+        "Name": "dev_主线战（不显示）",
+        "Desc": "dev_龙丹施放3级强化普攻时获得增伤。",
+        "SP": 0
+    },
+    "800206101": {
+        "Key": "Skill01",
+        "Name": "害…害怕",
+        "Desc": "扑满被惊动了，即将在2个回合后逃离。",
+        "SP": 0
+    },
+    "800206102": {
+        "Key": "Skill02",
+        "Name": "跑…跑啊",
+        "Desc": "扑满陷入恐慌，即将在1个回合后逃离。",
+        "SP": 0
+    },
+    "800206103": {
+        "Key": "Skill03",
+        "Name": "呼…逃走了",
+        "Desc": "扑满拔腿就跑，瞬间失去了踪影。",
+        "SP": 0
+    },
+    "800206104": {
+        "Key": "SkillP01",
+        "Name": "报…报复你",
+        "Desc": "当我方目标攻击敌方目标后，对我方全体进行攻击，攻击次数相当于本次攻击击中的敌方目标数量。",
+        "SP": 0,
+        "Elem": "Fire"
+    },
+    "800207101": {
+        "Key": "Skill01",
+        "Name": "害…害怕",
+        "Desc": "扑满被惊动了，即将在2个回合后逃离。",
+        "SP": 0
+    },
+    "800207102": {
+        "Key": "Skill02",
+        "Name": "跑…跑啊",
+        "Desc": "扑满陷入恐慌，即将在1个回合后逃离。",
+        "SP": 0
+    },
+    "800207103": {
+        "Key": "Skill03",
+        "Name": "呼…逃走了",
+        "Desc": "扑满拔腿就跑，瞬间失去了踪影。",
+        "SP": 0
+    },
+    "800207104": {
+        "Key": "SkillP01",
+        "Name": "治…治好你",
+        "Desc": "当除丰饶扑满外的敌方目标受到我方目标攻击后，消耗自身生命值为受到攻击的目标回复生命值。",
+        "SP": 0
+    },
+    "800208201": {
+        "Key": "Skill01",
+        "Name": "害…害怕",
+        "Desc": "扑满被惊动了，即将在2个回合后逃离。",
+        "SP": 0
+    },
+    "800208202": {
+        "Key": "Skill02",
+        "Name": "跑…跑啊",
+        "Desc": "扑满陷入恐慌，即将在1个回合后逃离。",
+        "SP": 0
+    },
+    "800208203": {
+        "Key": "Skill03",
+        "Name": "呼…逃走了",
+        "Desc": "扑满拔腿就跑，瞬间失去了踪影。",
+        "SP": 0
+    },
+    "800208204": {
+        "Key": "SkillP01",
+        "Name": "保…保护你",
+        "Desc": "进入战斗时，为敌方全体提供【保…保护你】，每层【保…保护你】可抵抗1次除持续伤害外的所有伤害。敌方全体共享【保…保护你】层数。",
+        "SP": 0
+    },
+    "800205401": {
+        "Key": "Skill01",
+        "Name": "害…害怕",
+        "Desc": "扑满被惊动了，即将在2个回合后逃离。",
+        "SP": 0
+    },
+    "800205402": {
+        "Key": "Skill02",
+        "Name": "跑…跑啊",
+        "Desc": "扑满陷入恐慌，即将在1个回合后逃离。",
+        "SP": 0
+    },
+    "800205403": {
+        "Key": "Skill03",
+        "Name": "呼…逃走了",
+        "Desc": "扑满拔腿就跑，瞬间失去了踪影。",
+        "SP": 0
+    },
+    "800205501": {
+        "Key": "Skill01",
+        "Name": "害…害怕",
+        "Desc": "扑满被惊动了，即将在2个回合后逃离。",
+        "SP": 0
+    },
+    "800205502": {
+        "Key": "Skill02",
+        "Name": "跑…跑啊",
+        "Desc": "扑满陷入恐慌，即将在1个回合后逃离。",
+        "SP": 0
+    },
+    "800205503": {
+        "Key": "Skill03",
+        "Name": "呼…逃走了",
+        "Desc": "扑满拔腿就跑，瞬间失去了踪影。",
+        "SP": 0
+    },
+    "800205601": {
+        "Key": "Skill01",
+        "Name": "害…害怕",
+        "Desc": "扑满被惊动了，即将在2个回合后逃离。",
+        "SP": 0
+    },
+    "800205602": {
+        "Key": "Skill02",
+        "Name": "跑…跑啊",
+        "Desc": "扑满陷入恐慌，即将在1个回合后逃离。",
+        "SP": 0
+    },
+    "800205603": {
+        "Key": "Skill03",
+        "Name": "呼…逃走了",
+        "Desc": "扑满拔腿就跑，瞬间失去了踪影。",
+        "SP": 0
+    },
+    "800205701": {
+        "Key": "Skill01",
+        "Name": "害…害怕",
+        "Desc": "扑满被惊动了，即将在2个回合后逃离。",
+        "SP": 0
+    },
+    "800205702": {
+        "Key": "Skill02",
+        "Name": "跑…跑啊",
+        "Desc": "扑满陷入恐慌，即将在1个回合后逃离。",
+        "SP": 0
+    },
+    "800205703": {
+        "Key": "Skill03",
+        "Name": "呼…逃走了",
+        "Desc": "扑满拔腿就跑，瞬间失去了踪影。",
+        "SP": 0
+    },
+    "300208901": {
+        "Key": "Skill01",
+        "Name": "test_单攻",
+        "Desc": "dev_对指定我方单体造成物理属性伤害。",
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "300208902": {
+        "Key": "Skill02",
+        "Name": "test_亡语",
+        "Desc": "test_受到致命攻击时，使与自身相邻的敌方目标获得加速并陷入裂伤状态。",
+        "SP": 0,
+        "Elem": "Phys"
+    },
+    "800209101": {
+        "Key": "Skill01",
+        "Name": "害…害怕",
+        "Desc": "扑满被惊动了，即将在2个回合后逃离。",
+        "SP": 0
+    },
+    "800209102": {
+        "Key": "Skill02",
+        "Name": "跑…跑啊",
+        "Desc": "扑满陷入恐慌，即将在1个回合后逃离。",
+        "SP": 0
+    },
+    "800209103": {
+        "Key": "Skill03",
+        "Name": "呼…逃走了",
+        "Desc": "扑满拔腿就跑，瞬间失去了踪影。",
+        "SP": 0
+    },
+    "800305201": {
+        "Key": "Skill01",
+        "Name": "巡风光陨",
+        "Desc": "对指定我方单体造成风属性伤害，并大概率使其陷入风化状态。",
+        "SP": 10.0,
+        "Elem": "Wind"
+    },
+    "800305202": {
+        "Key": "Skill03",
+        "Name": "踏风而行",
+        "Desc": "对指定我方单体及其相邻目标造成少量风属性伤害，并有概率使受到攻击的我方目标陷入风化状态。",
+        "SP": 10.0,
+        "Elem": "Wind"
+    },
+    "800305203": {
+        "Key": "Skill04",
+        "Name": "拈风张弩",
+        "Desc": "进入蓄力状态，并锁定陷入风化状态的所有我方目标，下次行动施放【风落暴矢】。",
+        "SP": 0
+    },
+    "800305204": {
+        "Key": "Skill05",
+        "Name": "风落暴矢",
+        "Desc": "对处于风化状态的我方目标造成风属性伤害。若场上没有处于风化状态的我方目标，则本技能施放失败。",
+        "SP": 15.0,
+        "Elem": "Wind",
+        "Threat": true
+    },
+    "800305205": {
+        "Key": "PassiveSkillInitiate",
+        "Name": "风浪急旋",
+        "Desc": "攻击陷入风化状态的我方目标后，自身攻击力小幅提高。当弱点被击破时，该效果解除。",
+        "SP": 0
+    },
+    "800305206": {
+        "Key": "Skill06",
+        "Name": "风落暴矢",
+        "Desc": "对处于风化状态的我方目标造成风属性伤害。若场上没有处于风化状态的我方目标，则本技能施放失败。",
+        "SP": 10.0
+    },
+    "801301301": {
+        "Key": "Skill01",
+        "Name": "虚实的投影",
+        "Desc": "对指定我方单体造成量子属性伤害。",
+        "SP": 10.0,
+        "Elem": "Quantum"
+    },
+    "801301302": {
+        "Key": "Skill02",
+        "Name": "侵略的铁蹄",
+        "Desc": "对指定我方单体造成量子属性伤害。",
+        "SP": 15.0,
+        "Elem": "Quantum"
+    },
+    "801301303": {
+        "Key": "Skill03",
+        "Name": "战争的践踏",
+        "Desc": "对指定我方单体及其相邻目标造成少量量子属性伤害。",
+        "SP": 10.0,
+        "Elem": "Quantum"
+    },
+    "801301304": {
+        "Key": "Skill04",
+        "Name": "螺旋的弓矢",
+        "Desc": "锁定我方单体，下次行动对该目标施放【强弩的终结】。",
+        "SP": 0,
+        "Elem": "Quantum"
+    },
+    "801301305": {
+        "Key": "Skill05",
+        "Name": "强弩的终结",
+        "Desc": "对指定我方单体造成大量量子属性伤害，并大概率使受到攻击的我方目标陷入纠缠状态。",
+        "SP": 25.0,
+        "Elem": "Quantum",
+        "Threat": true
+    },
+    "300203001": {
+        "Key": "Skill01",
+        "Name": "邀饮",
+        "Desc": "对指定我方单体造成<1>物理属性伤害。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "DMG": [
+            2.5
+        ]
+    },
+    "300203002": {
+        "Key": "Skill02",
+        "Name": "泼洒甜蜜",
+        "Desc": "受到致命攻击时，使自身相邻的敌方目标速度提高<color style='color:#f29e38;'>30%</color>，但会对其造成<color style='color:#f29e38;'>1%生命值上限</color>的物理伤害，并使其陷入裂伤状态。",
+        "SP": 0
+    },
+    "800205801": {
+        "Key": "Skill01",
+        "Name": "害…害怕",
+        "Desc": "扑满被惊动了，即将在2个回合后逃离。",
+        "SP": 0
+    },
+    "800205802": {
+        "Key": "Skill02",
+        "Name": "跑…跑啊",
+        "Desc": "扑满陷入恐慌，即将在1个回合后逃离。",
+        "SP": 0
+    },
+    "800205803": {
+        "Key": "Skill03",
+        "Name": "呼…逃走了",
+        "Desc": "扑满拔腿就跑，瞬间失去了踪影。",
+        "SP": 0
+    },
+    "800205901": {
+        "Key": "Skill01",
+        "Name": "害…害怕",
+        "Desc": "扑满被惊动了，即将在2个回合后逃离。",
+        "SP": 0
+    },
+    "800205902": {
+        "Key": "Skill02",
+        "Name": "跑…跑啊",
+        "Desc": "扑满陷入恐慌，即将在1个回合后逃离。",
+        "SP": 0
+    },
+    "800205903": {
+        "Key": "Skill03",
+        "Name": "呼…逃走了",
+        "Desc": "扑满拔腿就跑，瞬间失去了踪影。",
+        "SP": 0
+    },
+    "800210001": {
+        "Key": "Skill01",
+        "Name": "害…害怕",
+        "Desc": "扑满被惊动了，即将在2个回合后逃离。",
+        "SP": 0
+    },
+    "800210002": {
+        "Key": "Skill02",
+        "Name": "跑…跑啊",
+        "Desc": "扑满陷入恐慌，即将在1个回合后逃离。",
+        "SP": 0
+    },
+    "800210003": {
+        "Key": "Skill03",
+        "Name": "呼…逃走了",
+        "Desc": "扑满拔腿就跑，瞬间失去了踪影。",
+        "SP": 0
+    },
+    "800210101": {
+        "Key": "Skill01",
+        "Name": "害…害怕",
+        "Desc": "扑满被惊动了，即将在2个回合后逃离。",
+        "SP": 0
+    },
+    "800210102": {
+        "Key": "Skill02",
+        "Name": "跑…跑啊",
+        "Desc": "扑满陷入恐慌，即将在1个回合后逃离。",
+        "SP": 0
+    },
+    "800210103": {
+        "Key": "Skill03",
+        "Name": "呼…逃走了",
+        "Desc": "扑满拔腿就跑，瞬间失去了踪影。",
+        "SP": 0
+    },
+    "800210201": {
+        "Key": "Skill01",
+        "Name": "害…害怕",
+        "Desc": "扑满被惊动了，即将在2个回合后逃离。",
+        "SP": 0
+    },
+    "800210202": {
+        "Key": "Skill02",
+        "Name": "跑…跑啊",
+        "Desc": "扑满陷入恐慌，即将在1个回合后逃离。",
+        "SP": 0
+    },
+    "800210203": {
+        "Key": "Skill03",
+        "Name": "呼…逃走了",
+        "Desc": "扑满拔腿就跑，瞬间失去了踪影。",
+        "SP": 0
+    },
+    "300203003": {
+        "Key": "SkillP01",
+        "Name": "酣畅",
+        "Desc": "受到攻击或持续伤害时，获得1层可叠加的【苏乐达陶醉】：造成的伤害提高<color style='color:#f29e38;'>50%</color>，最多叠加<color style='color:#f29e38;'>4</color>层。",
+        "SP": 0,
+        "Status": [
+            230020301
+        ]
+    },
+    "302401001": {
+        "Key": "Skill01",
+        "Name": "虔诚",
+        "Desc": "对指定我方单体造成<1>物理伤害。",
+        "SP": 15.0,
+        "Elem": "Phys",
+        "DMG": [
+            4.0
+        ]
+    },
+    "302401002": {
+        "Key": "Skill02",
+        "Name": "渐臻虔诚",
+        "Desc": "对指定我方单体造成<1>物理伤害，对相邻目标造成<2>物理伤害。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "DMG": [
+            3.6,
+            1.8
+        ]
+    },
+    "302401003": {
+        "Key": "Skill03",
+        "Name": "枪与盾",
+        "Desc": "随机召唤【枪尖】、【盾】、【授勋】的雕塑。",
+        "SP": 0,
+        "Summon": [
+            3021020,
+            3021030,
+            3021040
+        ]
+    },
+    "302401004": {
+        "Key": "Skill04",
+        "Name": "坚韧灵魂",
+        "Desc": "释放一个雕塑中纯美的灵魂。<color style='color:#f29e38;'>【灵魂释放】</color>的雕塑技能效果增强，持续<color style='color:#f29e38;'>3</color>回合。",
+        "SP": 0,
+        "Threat": true,
+        "Status": [
+            230240101
+        ]
+    },
+    "302401005": {
+        "Key": "Skill05",
+        "Name": "纯美的勇气赞歌",
+        "Desc": "对我方全体造成<1>物理伤害。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "Threat": true,
+        "DMG": [
+            3.6
+        ]
+    },
+    "302401007": {
+        "Key": "Skill07",
+        "Name": "枪与盾",
+        "Desc": "随机召唤【枪尖】、【盾】、【授勋】的雕塑。",
+        "SP": 0,
+        "Summon": [
+            3021020,
+            3021030,
+            3021040
+        ]
+    },
+    "202302101": {
+        "Key": "Skill01",
+        "Name": "猱击",
+        "Desc": "消耗所有<color style='color:#f29e38;'>【元气】</color>，对被<b>监视</b>的我方单体造成<1>量子属性伤害。每消耗一层元气，额外造成<2>量子属性伤害。",
+        "SP": 15.0,
+        "Elem": "Quantum",
+        "Threat": true,
+        "Status": [
+            220230212,
+            220230211
+        ],
+        "DMG": [
+            3.0,
+            2.0
+        ]
+    },
+    "202302102": {
+        "Key": "Skill02",
+        "Name": "怒啸",
+        "Desc": "将随机我方单体标记为<b>监视目标</b>。每当我方目标施放战技时，会转为标记最新施放战技的目标，并获得一次<color style='color:#f29e38;'>【元气】</color>。<br>下次行动释放<color style='color:#f29e38;'>【猱击】</color>，并消耗所有元气。<br>当弱点被击破时，积累的【元气】将消失。",
+        "SP": 0,
+        "Threat": true,
+        "Prepare": [
+            202302101
+        ],
+        "Status": [
+            220230212,
+            220230211
+        ]
+    },
+    "202302103": {
+        "Key": "Skill03",
+        "Name": "",
+        "Desc": "dev_虚弱回复，纯表演",
+        "SP": 0
+    },
+    "202302104": {
+        "Key": "Skill05",
+        "Name": "猿啼",
+        "Desc": "对我方全体造成<1>量子属性伤害。",
+        "SP": 10.0,
+        "Elem": "Quantum",
+        "DMG": [
+            2.5
+        ]
+    },
+    "202302105": {
+        "Key": "SkillP01",
+        "Name": "",
+        "Desc": "dev_无效果",
+        "SP": 0
+    },
+    "202303101": {
+        "Key": "Skill01",
+        "Name": "若木化生仪祷",
+        "Desc": "连续<color style='color:#f29e38;'>5</color>次：对我方随机单体造成<1>风属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>风化</b>状态。<br>风化持续伤害：每层<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "SP": 5.0,
+        "Elem": "Wind",
+        "Status": [
+            30020003
+        ],
+        "DMG": [
+            1.0,
+            1.0
+        ]
+    },
+    "202303102": {
+        "Key": "Skill02",
+        "Name": "导引巽风",
+        "Desc": "对指定我方单体及其相邻目标造成<1>风属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>风化</b>状态。<br>风化持续伤害：每层<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "SP": 10.0,
+        "Elem": "Wind",
+        "Status": [
+            30020003
+        ],
+        "DMG": [
+            1.5,
+            1.0
+        ]
+    },
+    "202303103": {
+        "Key": "Skill03",
+        "Name": "若木棘",
+        "Desc": "对指定我方单体造成<1>风属性伤害，有<color style='color:#f29e38;'>100%</color>基础概率使其陷入<b>风化</b>状态。<br>风化持续伤害：每层<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "SP": 15.0,
+        "Elem": "Wind",
+        "Status": [
+            30020003
+        ],
+        "DMG": [
+            3.0,
+            1.0
+        ]
+    },
+    "202303104": {
+        "Key": "Skill05",
+        "Name": "玄气噬身",
+        "Desc": "有<color style='color:#f29e38;'>100%</color>基础概率使我方全体陷入<color style='color:#f29e38;'>【可叠加噬命】</color>状态，持续<color style='color:#f29e38;'>3</color>回合。<br>可叠加噬命：每次叠加时，不可回复的黑色生命值增加<color style='color:#f29e38;'>20%</color>，最多叠加<color style='color:#f29e38;'>50%</color>，持续<color style='color:#f29e38;'>3</color>回合。",
+        "SP": 15.0,
+        "Elem": "Wind",
+        "Threat": true,
+        "Status": [
+            30020030
+        ]
+    },
+    "202303105": {
+        "Key": "SkillP01",
+        "Name": "生机虚竭",
+        "Desc": "攻击命中带有<color style='color:#f29e38;'>【可叠加噬命】</color>的目标时，将此次攻击造成的生命值损失，叠加至<color style='color:#f29e38;'>【可叠加噬命】</color>的黑色生命值里，并刷新其持续时间。",
+        "SP": 0,
+        "Elem": "Wind",
+        "Threat": true
+    },
+    "301402001": {
+        "Key": "Skill01",
+        "Name": "葬仪之吻",
+        "Desc": "对指定我方单体造成<1>物理属性伤害。",
+        "SP": 15.0,
+        "Elem": "Phys",
+        "DMG": [
+            4
+        ]
+    },
+    "301402002": {
+        "Key": "Skill02",
+        "Name": "沦没黑雨",
+        "Desc": "对我方全体造成<1>物理属性伤害。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "DMG": [
+            2.5
+        ]
+    },
+    "301402003": {
+        "Key": "Skill03",
+        "Name": "锋锐悼词",
+        "Desc": "使自身造成的伤害提升<color style='color:#f29e38;'>100%</color>，持续1回合，陷入弱点击破状态后解除。",
+        "SP": 0,
+        "Status": [
+            230140207
+        ]
+    },
+    "301402004": {
+        "Key": "Skill04",
+        "Name": "光明消歇",
+        "Desc": "进入<color style='color:#f29e38;'>【白日西沉】</color>状态。每当我方施放普攻、战技、终结技时叠加1层，当【白日西沉】叠加至3层时，立即对上一个行动的我方施放<color style='color:#f29e38;'>【已在黄昏失色】</color>。施放过一次【已在黄昏失色】或被弱点击破后解除该状态。",
+        "SP": 0,
+        "Threat": true,
+        "Status": [
+            230140204
+        ]
+    },
+    "301402005": {
+        "Key": "Skill05",
+        "Name": "已在黄昏失色",
+        "Desc": "立即对上一名施放普攻、战技、终结技的我方目标发动致命攻击，使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。",
+        "SP": 0,
+        "Threat": true,
+        "Status": [
+            230140201
+        ]
+    },
+    "301402006": {
+        "Key": "Skill06",
+        "Name": "步入良夜",
+        "Desc": "恢复我方全体全部能量，并进入<color style='color:#f29e38;'>【夜幕降临】</color>状态：锁定2名最先行动的我方目标。下次行动时使用<color style='color:#f29e38;'>【如水逝于水中】</color>。",
+        "SP": 0,
+        "Threat": true,
+        "Status": [
+            230140202
+        ]
+    },
+    "301402007": {
+        "Key": "Skill07",
+        "Name": "如水逝于水中",
+        "Desc": "（第二阶段开启时立刻强制施放一次）<br>立即对所有被锁定的我方目标发动致命攻击，使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。如果没有被锁定的目标，则随机对2名我方目标发动致命攻击并使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。",
+        "SP": 0,
+        "Threat": true
+    },
+    "301402008": {
+        "Key": "Skill08",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "301402009": {
+        "Key": "PassiveSkill02",
+        "Name": "无从凭吊的荒场",
+        "Desc": "每当我方目标陷入<color style='color:#f29e38;'>【梦死】</color>状态时，召唤一个对应的<color style='color:#f29e38;'>【永眠墓碣】</color>；当我方全体陷入【梦死】状态或无法战斗状态时，战斗失败。",
+        "SP": 0
+    },
+    "301402010": {
+        "Key": "Skill10",
+        "Name": "dev_猎杀模式",
+        "Desc": "dev_开启猎杀模式，每当有角色行动（使用终结技，普攻，战技），就会积累1点进度，当动能条满时，立即对上一个行动的角色施放【死亡宣告】。施放一次死亡宣告或被弱点击破后猎杀模式结束。",
+        "SP": 0,
+        "Threat": true
+    },
+    "301402011": {
+        "Key": "Skill11",
+        "Name": "dev_弹射（废弃）",
+        "Desc": "dev_对我方随机目标造成6次物理属性伤害。",
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "301402012": {
+        "Key": "PassiveSkill02",
+        "Name": "dev_被动",
+        "Desc": "dev_猎杀者开启了猎杀领域，本场战斗中所有角色受到致命伤害时不会立即死去，而是进入放逐状态；每当场上有一名角色被放逐，则召唤一颗灵魂石；击杀灵魂石，救回被放逐的角色，能回复一定的sp和生命值，获得破盾效率提升；当场上所有角色都进入放逐状态后，立即杀死所有角色。",
+        "SP": 0
+    },
+    "800304201": {
+        "Key": "Skill01",
+        "Name": "",
+        "Desc": "dev_使自身速度提高。",
+        "SP": 0
+    },
+    "800304202": {
+        "Key": "Skill02",
+        "Name": "流年金刺",
+        "Desc": "对指定我方单体造成<1>虚数属性伤害。",
+        "SP": 10.0,
+        "Elem": "Imaginary",
+        "DMG": [
+            3.0
+        ]
+    },
+    "800304203": {
+        "Key": "Skill03",
+        "Name": "流年谴罚",
+        "Desc": "对指定我方单体造成<1>虚数属性伤害。",
+        "SP": 15.0,
+        "Elem": "Imaginary",
+        "DMG": [
+            5.0
+        ]
+    },
+    "800304205": {
+        "Key": "Skill04",
+        "Name": "黄金年代的解放",
+        "Desc": "每有一层<color style='color:#f29e38;'>【追忆刻度】</color>，对随机我方单体造成一次<1>虚数属性伤害，最多<color style='color:#f29e38;'>9</color>层。<br>若没有【追忆刻度】则本技能施放失败。",
+        "SP": 5.0,
+        "Elem": "Imaginary",
+        "Threat": true,
+        "Status": [
+            280030405
+        ],
+        "DMG": [
+            2.25
+        ]
+    },
+    "800304206": {
+        "Key": "PassiveSkill01",
+        "Name": "流年盾纱",
+        "Desc": "自身受到的普攻、战技、终结技、追加攻击伤害降低<color style='color:#f29e38;'>10%</color>。<br>任意攻击命中我方后，有<color style='color:#f29e38;'>1%</color>基础概率施加<b>禁锢</b>，持续<color style='color:#f29e38;'>1</color>回合。<br>禁锢：无法行动，行动延后<color style='color:#f29e38;'>50%</color>。",
+        "SP": 0,
+        "Status": [
+            30020013
+        ]
+    },
+    "800304204": {
+        "Key": "Skill05",
+        "Name": "黄金年代的绸缪",
+        "Desc": "使自身进入蓄力状态并获得<color style='color:#f29e38;'>9</color>层<color style='color:#f29e38;'>【追忆刻度】</color>，下次行动施放<color style='color:#f29e38;'>【黄金年代的解放】</color>。每次受到攻击后失去1层【追忆刻度】。",
+        "SP": 0,
+        "Prepare": [
+            800304205
+        ],
+        "Status": [
+            280030405
+        ]
+    },
+    "800304207": {
+        "Key": "Skill06",
+        "Name": "黄金年代的解放",
+        "Desc": "dev_连续对我方随机单体造成虚数属性伤害，若没有能量球则本技能施放失败。",
+        "SP": 0
+    },
+    "200203002": {
+        "Key": "Skill01",
+        "Name": "锯恶",
+        "Desc": "对指定我方单体造成<1>物理伤害，并由<color style='color:#f29e38;'>0%</color>基础概率使受到攻击的我方目标陷入【震荡】状态。",
+        "SP": 15.0,
+        "Elem": "Phys",
+        "DMG": [
+            2.5
+        ]
+    },
+    "200203101": {
+        "Key": "Skill01",
+        "Name": "锯恶",
+        "Desc": "对指定我方单体造成<1>物理伤害。",
+        "SP": 15.0,
+        "Elem": "Phys",
+        "DMG": [
+            2.5
+        ]
+    },
+    "802401101": {
+        "Key": "Skill01",
+        "Name": "作战时刻",
+        "Desc": "对指定我方单体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>2</color>层<b>风化</b>状态。<br>风化持续伤害：<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "SP": 10.0,
+        "Elem": "Wind",
+        "Status": [
+            280240101
+        ],
+        "DMG": [
+            2.5,
+            0.5
+        ]
+    },
+    "802401110": {
+        "Key": "Skill08",
+        "Name": "",
+        "Desc": "dev_对指定我方单体及相邻目标造成造成风属性伤害，并将主目标的风化层数扩散给副目标。",
+        "SP": 10.0,
+        "Elem": "Wind"
+    },
+    "802401102": {
+        "Key": "Skill02",
+        "Name": "战争兵器",
+        "Desc": "对指定我方单体造成<1>风属性伤害。如受到攻击的目标正处于<color style='color:#f29e38;'>风化</color>状态，则直接造成1次风化伤害。",
+        "SP": 20.0,
+        "Elem": "Wind",
+        "Status": [
+            280240101
+        ],
+        "DMG": [
+            3.0
+        ]
+    },
+    "802401103": {
+        "Key": "Skill03",
+        "Name": "飓风",
+        "Desc": "对我方全体造成<1>风属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>1</color>层<b>风化</b>状态。<br>风化持续伤害：<2>风属性伤害，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "SP": 10.0,
+        "Elem": "Wind",
+        "Status": [
+            280240101
+        ],
+        "DMG": [
+            2.0,
+            0.5
+        ]
+    },
+    "802401104": {
+        "Key": "Skill04",
+        "Name": "繁殖",
+        "Desc": "繁殖2~3个<color style='color:#f29e38;'>幼蛰虫</color>或<color style='color:#f29e38;'>次蛰虫</color>。<br><br>如果为一阶段，则产生2个幼蛰虫。<br>如果为二阶段，则第一次繁殖时额外产生1个次蛰虫，后续繁殖时额外随机产生1个幼蛰虫或次蛰虫，各占50%概率。",
+        "SP": 0,
+        "Summon": [
+            8022010,
+            8022020
+        ]
+    },
+    "802401111": {
+        "Key": "Skill10",
+        "Name": "繁殖",
+        "Desc": "繁殖真蛰虫群。",
+        "SP": 0
+    },
+    "802401105": {
+        "Key": "Skill05",
+        "Name": "指挥准备",
+        "Desc": "进入蓄力状态，下次行动施放<color style='color:#f29e38;'>【虫群突袭】</color>。",
+        "SP": 0,
+        "Prepare": [
+            802401106
+        ]
+    },
+    "802401106": {
+        "Key": "Skill06",
+        "Name": "虫群突袭",
+        "Desc": "解除场上所有真蛰虫群的控制类负面状态与弱点击破状态。<br>对我方全体造成<1>风属性伤害。场上存在0</color>1</color>2</color>3</color>4个其他怪物时，连续0</color>4</color>5</color>6</color>7次对我方随机单体造成<2>风属性伤害。<br>我方每次受到伤害时，都有<color style='color:#f29e38;'>100%</color>基础概率陷入<color style='color:#f29e38;'>1</color>层<b>风化</b>状态。<br>为所有角色恢复<color style='color:#f29e38;'>5</color>能量",
+        "SP": 10.0,
+        "Elem": "Wind",
+        "Threat": true,
+        "DMG": [
+            2.0,
+            1.8
+        ]
+    },
+    "802401107": {
+        "Key": "Skill07",
+        "Name": "虫群突袭",
+        "Desc": "解除场上所有真蛰虫群的控制类负面状态与弱点击破状态，并对我方目标造成风属性伤害，使我方目标每次受到攻击时大概率陷入1层风化状态。",
+        "SP": 10.0,
+        "Elem": "Wind"
+    },
+    "802401108": {
+        "Key": "PassiveSkill01",
+        "Name": "传衍信息素",
+        "Desc": "场上每繁殖出1个真蛰虫，所有真蛰虫群造成伤害提高<color style='color:#f29e38;'>8%</color>。<br>场上仅能有1个【传衍信息素】效果生效。",
+        "SP": 0,
+        "Status": [
+            280240102
+        ]
+    },
+    "802401109": {
+        "Key": "PassiveSkill02",
+        "Name": "蛰亡语",
+        "Desc": "受到致命攻击时，对敌方全体造成<color style='color:#f29e38;'>40%自身生命值上限</color>风属性伤害和<color style='color:#f29e38;'>1.0</color>风属性削韧，并为其施加<color style='color:#f29e38;'>2</color>层<b>易伤</b>：受到的伤害提高<color style='color:#f29e38;'>10%</color>，持续<color style='color:#f29e38;'>3</color>回合，最多叠加<color style='color:#f29e38;'>10</color>层。",
+        "SP": 0,
+        "Elem": "Wind",
+        "Status": [
+            280240103
+        ]
+    },
+    "301203001": {
+        "Key": "Skill01",
+        "Name": "惊醒无声的长眠",
+        "Desc": "当永眠墓碣受到致命攻击后，对应我方目标将解除<color style='color:#f29e38;'>【梦死】</color>状态，回复<color style='color:#f29e38;'>50%生命值上限</color>和全部能量。",
+        "SP": 0
+    },
+    "301203002": {
+        "Key": "Skill02",
+        "Name": "一切逝去的时间",
+        "Desc": "永眠墓碣不会进行行动。",
+        "SP": 0
+    },
+    "301203003": {
+        "Key": "SkillP01",
+        "Name": "化入永恒的延续",
+        "Desc": "永眠墓碣拥有<color style='color:#f29e38;'>5</color>格生命值。每次受到攻击，弱点击破和持续伤害时，都会直接扣除自身1格生命值。",
+        "SP": 0
+    },
+    "301203004": {
+        "Key": "PassiveSkill03",
+        "Name": "test_巨掌之间",
+        "Desc": "dev_不显示。",
+        "SP": 0,
+        "Elem": "Phys"
+    },
+    "302102001": {
+        "Key": "Skill01",
+        "Name": "血色女皇授勋",
+        "Desc": "对敌方银枝施加1层强化效果，使造成的伤害提高<color style='color:#f29e38;'>12%</color>。<br>【灵魂释放】状态下，改为施加2层。",
+        "SP": 0,
+        "Status": [
+            230240102
+        ]
+    },
+    "302102002": {
+        "Key": "SkillP01",
+        "Name": "颠仆的星花阶石",
+        "Desc": "受到致命攻击时，对攻击者施加1层强化效果，使造成的伤害提高<color style='color:#f29e38;'>20%</color>。<br>【灵魂释放】状态下，改为施加2层。",
+        "SP": 0
+    },
+    "302103001": {
+        "Key": "Skill01",
+        "Name": "纯美骑士之踵",
+        "Desc": "对我方全体造成<1>物理伤害。<br>【灵魂释放】状态下，改为造成<2>物理伤害。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "DMG": [
+            2.4,
+            4.0
+        ]
+    },
+    "302103002": {
+        "Key": "SkillP01",
+        "Name": "已死命运风情",
+        "Desc": "受到致命攻击时，对敌方全体造成<color style='color:#f29e38;'>60%自身生命值</color>物理伤害和<color style='color:#f29e38;'>1</color>点物理属性削韧。<br>【灵魂释放】状态下，改为造成<color style='color:#f29e38;'>80%自身生命值</color>物理伤害和<color style='color:#f29e38;'>2</color>点物理属性削韧。",
+        "SP": 0,
+        "Elem": "Phys"
+    },
+    "302104001": {
+        "Key": "Skill01",
+        "Name": "捍卫的冕旒",
+        "Desc": "对敌方银枝施加屏障。【灵魂释放】状态下，对敌方全体施加屏障。",
+        "SP": 0,
+        "Status": [
+            220230203
+        ]
+    },
+    "302104002": {
+        "Key": "SkillP01",
+        "Name": "飞速欲念摹本",
+        "Desc": "受到致命攻击时，对攻击者施加屏障。【灵魂释放】状态下，对我方全体施加屏障。",
+        "SP": 0,
+        "Status": [
+            220230203
+        ]
+    },
+    "300201001": {
+        "Key": "Skill01",
+        "Name": "惊喜综艺",
+        "Desc": "使指定我方单体恢复<color style='color:#f29e38;'>50%</color>能量。只能在【惊喜频道】状态下使用。",
+        "SP": 0
+    },
+    "300201002": {
+        "Key": "Skill02",
+        "Name": "惊吓播报",
+        "Desc": "对我方全体造成<1>量子属性伤害，并使我方全体损失<color style='color:#f29e38;'>20%</color>能量。只能在【惊吓频道】状态下使用。",
+        "SP": 0,
+        "Elem": "Quantum",
+        "DMG": [
+            1.6
+        ]
+    },
+    "300201003": {
+        "Key": "Skill03",
+        "Name": "频道切换",
+        "Desc": "将【惊喜频道】状态转变为【惊吓频道】状态。",
+        "SP": 0,
+        "Status": [
+            230020101,
+            230020102
+        ]
+    },
+    "300201004": {
+        "Key": "SkillP01",
+        "Name": "串台",
+        "Desc": "初始为【惊吓频道】状态。<br>在受到攻击后，会从【惊喜频道】状态转变为【惊吓频道】状态，或从【惊吓频道】状态转变为【惊喜频道】状态。",
+        "SP": 0
+    },
+    "802203001": {
+        "Key": "Skill01",
+        "Name": "角击",
+        "Desc": "对指定我方单体造成量子属性伤害，优先攻击带有纠缠效果的目标，并额外叠加一次纠缠。",
+        "SP": 10.0,
+        "Elem": "Quantum"
+    },
+    "802203002": {
+        "Key": "PassiveSkill01",
+        "Name": "蚀亡语",
+        "Desc": "受到致命攻击时，对敌方全体造成量子属性伤害，并使受到攻击的敌方目标受到的伤害提高。",
+        "SP": 0,
+        "Elem": "Quantum"
+    },
+    "802501001": {
+        "Key": "Skill01",
+        "Name": "王虫炮",
+        "Desc": "对指定我方单体造成量子属性伤害",
+        "SP": 10.0,
+        "Elem": "Quantum"
+    },
+    "802501002": {
+        "Key": "Skill02",
+        "Name": "辐裂蛰毒",
+        "Desc": "对指定我方单体造成量子属性伤害，并大概率使受到攻击的我方目标陷入纠缠状态，同时召唤1只【蚀蛰虫】。",
+        "SP": 15.0,
+        "Elem": "Quantum"
+    },
+    "802501003": {
+        "Key": "Skill03",
+        "Name": "热解死光",
+        "Desc": "对指定我方单体及相邻目标造成量子属性伤害。",
+        "SP": 10.0,
+        "Elem": "Quantum"
+    },
+    "802501004": {
+        "Key": "Skill07",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "802501005": {
+        "Key": "Skill04",
+        "Name": "孳孽虫甲",
+        "Desc": "进入【增殖】状态，持续直到下次行动。期间受到伤害大幅降低，并且每次受到攻击时召唤【蚀蛰虫】。【增殖】状态下被击破弱点，会对敌方全体造成等同自身韧性上限的削韧伤害，并使自身以外的敌方目标受到的伤害提高。",
+        "SP": 0
+    },
+    "802501006": {
+        "Key": "Skill06",
+        "Name": "坍星之卵",
+        "Desc": "对我方全体造成大量量子属性伤害。",
+        "SP": 20.0,
+        "Elem": "Quantum",
+        "Threat": true
+    },
+    "802501007": {
+        "Key": "Skill05",
+        "Name": "孕灾虫甲",
+        "Desc": "蓄力并进入【增殖】状态，持续直到下次行动。下次行动时对我方全体施放【坍星之卵】。状态持续期间受到伤害大幅降低，并且每次受到攻击时召唤【蚀蛰虫】或【次蛰虫】。【增殖】状态下被击破弱点，会对敌方全体造成等同自身韧性上限的削韧伤害，并使自身以外的敌方目标受到的伤害提高。",
+        "SP": 0
+    },
+    "802501008": {
+        "Key": "Skill08",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "802501009": {
+        "Key": "PassiveSkill01",
+        "Name": "",
+        "Desc": "",
+        "SP": 0,
+        "Elem": "Quantum"
+    },
+    "202401201": {
+        "Key": "Skill01",
+        "Name": "衔枝 · 肃风",
+        "Desc": "召唤建木枝梢<color style='color:#f29e38;'>【肃风之杪】</color>。",
+        "SP": 0,
+        "Summon": [
+            2022071
+        ]
+    },
+    "202401202": {
+        "Key": "Skill02",
+        "Name": "衔枝 · 缃叶",
+        "Desc": "召唤建木枝梢<color style='color:#f29e38;'>【缃叶之杪】</color>。",
+        "SP": 0,
+        "Summon": [
+            2022081
+        ]
+    },
+    "202401203": {
+        "Key": "Skill03",
+        "Name": "衔枝 · 繁花",
+        "Desc": "召唤建木枝梢<color style='color:#f29e38;'>【繁花之杪】</color>。",
+        "SP": 0,
+        "Summon": [
+            2022091
+        ]
+    },
+    "202401204": {
+        "Key": "Skill04",
+        "Name": "衔枝 · 嘉实",
+        "Desc": "召唤建木枝梢<color style='color:#f29e38;'>【嘉实之杪】</color>。",
+        "SP": 0,
+        "Summon": [
+            2022101
+        ]
+    },
+    "202401205": {
+        "Key": "Skill05",
+        "Name": "呦鸣",
+        "Desc": "对指定我方单体造成<1>雷属性伤害。",
+        "SP": 20.0,
+        "Elem": "Elec",
+        "DMG": [
+            3.5
+        ]
+    },
+    "202401206": {
+        "Key": "Skill06",
+        "Name": "绾风",
+        "Desc": "对我方全体造成<1>风属性伤害。",
+        "SP": 15.0,
+        "Elem": "Wind",
+        "DMG": [
+            2.8
+        ]
+    },
+    "202401207": {
+        "Key": "Skill07",
+        "Name": "蕉覆",
+        "Desc": "进入<color style='color:#f29e38;'>【蕉覆】</color>状态：防御力提升<color style='color:#f29e38;'>200%</color>，且使自身韧性无法受到伤害，持续<color style='color:#f29e38;'>1</color>回合。",
+        "SP": 0,
+        "Status": [
+            220240101
+        ]
+    },
+    "202401208": {
+        "Key": "Skill08",
+        "Name": "斑龙触",
+        "Desc": "当场上存在2个【嘉实】时立即施放该技能，对我方全体造成<1>雷属性伤害。<br>场上每存在一个【建木枝梢】，额外造成<2>雷属性伤害。<br>施放技能后，清除场上所有的<color style='color:#f29e38;'>【嘉实之杪】</color>。",
+        "SP": 20.0,
+        "Elem": "Elec",
+        "Threat": true,
+        "Status": [
+            220221001
+        ],
+        "DMG": [
+            2.7,
+            0.5
+        ]
+    },
+    "202401209": {
+        "Key": "Skill09",
+        "Name": "永寿",
+        "Desc": "立即回复<color style='color:#f29e38;'>10%生命值上限</color>，并获得<color style='color:#f29e38;'>1</color>层<color style='color:#f29e38;'>【若木化生】</color>。<br>若木化生：每回合回复<color style='color:#f29e38;'>4%生命值上限</color>。最多叠加<color style='color:#f29e38;'>5</color>层。",
+        "SP": 0,
+        "Status": [
+            220240111
+        ]
+    },
+    "202401210": {
+        "Key": "Skill10",
+        "Name": "衔枝 · 引蔓",
+        "Desc": "召唤2个建木枝梢<color style='color:#f29e38;'>【肃风之杪】</color>。",
+        "SP": 0,
+        "Summon": [
+            2022071
+        ]
+    },
+    "202401211": {
+        "Key": "Skill11",
+        "Name": "衔枝 · 垂枝",
+        "Desc": "召唤2个建木枝梢<color style='color:#f29e38;'>【缃叶之杪】</color>。",
+        "SP": 0,
+        "Summon": [
+            2022081
+        ]
+    },
+    "202401212": {
+        "Key": "Skill12",
+        "Name": "衔枝 · 榛莽",
+        "Desc": "召唤2个建木枝梢<color style='color:#f29e38;'>【缃叶之杪】</color>，1个建木枝梢<color style='color:#f29e38;'>【肃风之杪】</color>，1个建木枝梢<color style='color:#f29e38;'>【繁花之杪】</color>。",
+        "SP": 0,
+        "Summon": [
+            2022071,
+            2022081,
+            2022091
+        ]
+    },
+    "202401213": {
+        "Key": "Skill13",
+        "Name": "衔枝 · 交藤",
+        "Desc": "召唤2个建木枝梢<color style='color:#f29e38;'>【嘉实之杪】</color>，1个建木枝梢<color style='color:#f29e38;'>【缃叶之杪】</color>，1个建木枝梢<color style='color:#f29e38;'>【肃风之杪】</color>。",
+        "SP": 0,
+        "Summon": [
+            2022071,
+            2022081,
+            2022101
+        ]
+    },
+    "202401214": {
+        "Key": "Skill14",
+        "Name": "生机充盈",
+        "Desc": "每当丰饶玄鹿获得增益效果时，丰饶玄鹿和所有建木枝梢造成的伤害提高<color style='color:#f29e38;'>15%</color>，可叠加。<br>第三阶段的生命值变为原本的<color style='color:#f29e38;'>1.66</color>倍。",
+        "SP": 0,
+        "Status": [
+            220240112
+        ]
+    },
+    "100202101": {
+        "Key": "Skill01",
+        "Name": "铲击",
+        "Desc": "对指定我方单体造成少量物理伤害。",
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "100202102": {
+        "Key": "Skill02",
+        "Name": "鼓舞",
+        "Desc": "使指定敌方单体攻击力提高并立即行动。",
+        "SP": 0
+    },
+    "201302101": {
+        "Key": "Skill01",
+        "Name": "剖判",
+        "Desc": "对指定我方单体造成<1>物理伤害。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "DMG": [
+            3.0
+        ]
+    },
+    "201302102": {
+        "Key": "Skill02",
+        "Name": "镇魂",
+        "Desc": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>70%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【震荡】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>【震荡】状态下的目标受到攻击后，陷入<color style='color:#f29e38;'>【强烈震荡】</color>状态，然后解除【震荡】状态。<br>【强烈震荡】状态下的目标无法行动，且行动延后<color style='color:#f29e38;'>70%</color>，持续<color style='color:#f29e38;'>1</color>回合。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "Status": [
+            220020301,
+            220020302
+        ],
+        "DMG": [
+            3.6
+        ]
+    },
+    "201302103": {
+        "Key": "Skill03",
+        "Name": "转阴阳",
+        "Desc": "对我方全体造成<1>物理伤害。<br>若我方有至少3名角色未处于【震荡】与【强烈震荡】状态，则从这些角色中选择2名，有<color style='color:#f29e38;'>35%</color>基础概率使其陷入<color style='color:#f29e38;'>【震荡】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>若我方有至多2名角色未处于【震荡】与【强烈震荡】状态，则从这些角色中选择1名，有<color style='color:#f29e38;'>35%</color>基础概率使其陷入<color style='color:#f29e38;'>【震荡】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "Status": [
+            220020301,
+            220020302
+        ],
+        "DMG": [
+            2.4
+        ]
+    },
+    "201302105": {
+        "Key": "SkillP01",
+        "Name": "拘魂令",
+        "Desc": "场上有我方目标陷入<color style='color:#f29e38;'>【强烈震荡】</color>状态时，锁定该目标，下次行动对其施放<color style='color:#f29e38;'>【天坠】</color>。",
+        "SP": 0,
+        "Elem": "Phys",
+        "Status": [
+            220020302
+        ],
+        "Prepare": [
+            201302104
+        ]
+    },
+    "201302106": {
+        "Key": "Skill05",
+        "Name": "召取狱卒",
+        "Desc": "召唤<color style='color:#f29e38;'>【幽府武弁】</color>。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "Summon": [
+            200203201
+        ]
+    },
+    "803301101": {
+        "Key": "Skill01",
+        "Name": "处分",
+        "Desc": "对指定我方单体造成<1>物理伤害。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "DMG": [
+            3.2
+        ]
+    },
+    "803301103": {
+        "Key": "Skill02",
+        "Name": "培训中…",
+        "Desc": "进入蓄力状态，下次行动施放<color style='color:#f29e38;'>【企业文化冲击】</color>。",
+        "SP": 0,
+        "Prepare": [
+            803301104
+        ]
+    },
+    "803301104": {
+        "Key": "Skill03",
+        "Name": "企业文化冲击",
+        "Desc": "对我方全体造成<1>物理伤害。",
+        "SP": 20.0,
+        "Elem": "Phys",
+        "Threat": true,
+        "DMG": [
+            4.2
+        ]
+    },
+    "803301105": {
+        "Key": "Skill04",
+        "Name": " 720 度考核",
+        "Desc": "夺取所有【基层员工•外勤】和【基层员工•安保】的<color style='color:#f29e38;'>【绩效点】</color>。",
+        "SP": 0,
+        "Status": [
+            280330101
+        ]
+    },
+    "803301106": {
+        "Key": "Skill05",
+        "Name": "末位淘汰",
+        "Desc": "消灭一名没有绩效点的【基层员工•外勤】或【基层员工•安保】。<br>召唤【基层员工•外勤】或【基层员工•安保】，并使所有【基层员工•外勤】和【基层员工•安保】获得1个<color style='color:#f29e38;'>【绩效点】</color>。",
+        "SP": 0,
+        "Summon": []
+    },
+    "803301102": {
+        "Key": "Skill06",
+        "Name": "降本增效",
+        "Desc": "对指定我方单体造成<1>物理伤害。",
+        "SP": 15.0,
+        "Elem": "Phys",
+        "DMG": [
+            3.8
+        ]
+    },
+    "803301107": {
+        "Key": "Skill07",
+        "Name": "末位淘汰",
+        "Desc": "消灭一名没有绩效点的【基层员工•外勤】或【基层员工•安保】。<br>召唤【基层员工•外勤】或【基层员工•安保】，并使所有【基层员工•外勤】和【基层员工•安保】获得1个<color style='color:#f29e38;'>【绩效点】</color>。",
+        "SP": 0,
+        "Summon": []
+    },
+    "201301202": {
+        "Key": "Skill01",
+        "Name": "儆惧",
+        "Desc": "提高<color style='color:#f29e38;'>33%</color>【惩戒度】等级，并对我方全体造成<1>虚数属性伤害。<br>有<color style='color:#f29e38;'>60%</color>基础概率使我方目标陷入<b>虚弱</b>状态。<br>虚弱：造成的伤害降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 5.0,
+        "Elem": "Imaginary",
+        "Status": [
+            30010017
+        ],
+        "DMG": [
+            1.5
+        ]
+    },
+    "201301203": {
+        "Key": "Skill02",
+        "Name": "戒退",
+        "Desc": "对指定我方单体造成<1>虚数属性伤害。",
+        "SP": 10.0,
+        "Elem": "Imaginary",
+        "DMG": [
+            3.0
+        ]
+    },
+    "201301204": {
+        "Key": "Skill03",
+        "Name": "缚束",
+        "Desc": "对指定我方单体造成<1>虚数属性伤害，同时有<color style='color:#f29e38;'>10%</color>基础概率使受到攻击的我方目标陷入<b>禁锢</b>状态，持续<color style='color:#f29e38;'>1</color>回合。<br>禁锢：无法行动，行动延后<color style='color:#f29e38;'>50%</color>。",
+        "SP": 15.0,
+        "Elem": "Imaginary",
+        "Threat": true,
+        "DMG": [
+            5.0
+        ]
+    },
+    "201301201": {
+        "Key": "SkillP01",
+        "Name": "奉辞罚罪",
+        "Desc": "当我方目标施放战技或终结技进行攻击时会积累<color style='color:#f29e38;'>33%</color>【惩戒度】等级。<br>当【惩戒度】等级满级时，立即进入【罚恶模式】：速度提升<color style='color:#f29e38;'>30</color>点，可以使用<color style='color:#f29e38;'>【戒退】</color>和<color style='color:#f29e38;'>【缚束】</color>，同时召唤<color style='color:#f29e38;'>2</color>个【入魔机巧 • 灯昼龙鱼】。",
+        "SP": 0,
+        "Prepare": [
+            201301203,
+            201301204
+        ],
+        "Status": [
+            220130102
+        ],
+        "Summon": [
+            2012010
+        ]
+    },
+    "202402001": {
+        "Key": "SkillP01",
+        "Name": "分灵",
+        "Desc": "自身无法被选择和攻击，场上每有一个敌人被击杀，失去<color style='color:#f29e38;'>5%</color>生命值。",
+        "SP": 0
+    },
+    "202402002": {
+        "Key": "Skill01",
+        "Name": "棋快一着",
+        "Desc": "使敌方全体行动提前<color style='color:#f29e38;'>100%</color>。",
+        "SP": 0
+    },
+    "202402003": {
+        "Key": "Skill02",
+        "Name": "举棋不定",
+        "Desc": "尝试发动了技能，但什么都没发生。",
+        "SP": 0
+    },
+    "300302003": {
+        "Key": "Skill03",
+        "Name": "苏乐达派对",
+        "Desc": "召唤2只【气泡锂犬】。",
+        "SP": 0
+    },
+    "300302004": {
+        "Key": "Skill04",
+        "Name": "酬宾喷泉",
+        "Desc": "进入蓄力状态，获得<color style='color:#f29e38;'>韧性保护</color>，下次行动时施放<color style='color:#f29e38;'>【无限畅饮】</color>。",
+        "SP": 0
+    },
+    "300302005": {
+        "Key": "SkillP01",
+        "Name": "dev_被动",
+        "Desc": "dev_受到攻击或持续伤害时，获得可乐标记，可叠加。可乐标记层数越高，造成的伤害越高，造成伤害后可乐标记清零。",
+        "SP": 0
+    },
+    "803401001": {
+        "Key": "Skill01",
+        "Name": "押以重注",
+        "Desc": "对指定我方单体造成 <1> 虚数属性伤害。",
+        "SP": 10.0,
+        "Elem": "Imaginary",
+        "DMG": [
+            3.5
+        ]
+    },
+    "803401002": {
+        "Key": "Skill02",
+        "Name": "分散投资",
+        "Desc": "连续 <color style='color:#f29e38;'>5</color>（一阶段）或 <color style='color:#f29e38;'>8</color>（二阶段）对我方随机单体造成 <1> 虚数属性伤害。",
+        "SP": 5.0,
+        "Elem": "Imaginary",
+        "DMG": [
+            1.2
+        ]
+    },
+    "803401003": {
+        "Key": "Skill03",
+        "Name": "点数喷泉",
+        "Desc": "对我方全体造成 <1> 虚数属性伤害，并减少我方全体 <color style='color:#f29e38;'>10</color> 点能量。",
+        "SP": 0,
+        "Elem": "Imaginary",
+        "DMG": [
+            2.5
+        ]
+    },
+    "803401004": {
+        "Key": "Skill04",
+        "Name": "对赌时刻",
+        "Desc": "召唤 <color style='color:#f29e38;'>2</color> 个<b>「所有或一无所有」</b>并使我方单体进入赌局，同时自身获得一个随机 1~12 的点数。<br>赌局期间诡弈砂金无法被选中。「所有或一无所有」永久免疫一切伤害。<br><br>进入赌局的我方单体攻击「所有或一无所有」时，会获得一个随机 1~6 的点数，命中多个会叠加点数。<br><br>进入赌局的我方单体回合结束时，赌局进行结算：<br>· 点数低于诡弈砂金视为输掉赌局，并承受<color style='color:#f29e38;'>【败者退席】</color>技能。<br>· 点数高于诡弈砂金视为赢得赌局：获得一个额外回合，并使我方恢复 <color style='color:#f29e38;'>1</color> 个战技点。<br><br><b><color style='color:#f29e38;'>观局勿语</color></b><br>未参与赌局的角色会被施加<b>【强烈震荡】</b>状态，使其行动延后<color style='color:#f29e38;'>70%</color>，在赌局结束前无法行动。该效果无法被免疫或抵抗。",
+        "SP": 0,
+        "Threat": true
+    },
+    "803401005": {
+        "Key": "Skill05",
+        "Name": "豪赌盛宴",
+        "Desc": "召唤 <color style='color:#f29e38;'>4</color> 个<b>「所有或一无所有」</b>并使我方全体进入赌局，同时自身获得一个随机 1~12 的点数。<br>赌局期间诡弈砂金无法被选中。「所有或一无所有」永久免疫一切伤害。<br><br>我方单体攻击「所有或一无所有」时，会获得一个随机 1~6 的点数，命中多个会叠加点数。<br><br>下次诡弈砂金行动时，赌局进行结算：<br>· 点数低于诡弈砂金的我方目标输掉赌局，并承受<color style='color:#f29e38;'>【胜者通杀】</color>技能。<br>· 点数高于诡弈砂金的我方目标赢得赌局：获得一个额外回合，并使我方恢复 <color style='color:#f29e38;'>1</color> 个战技点，可叠加。",
+        "SP": 0,
+        "Threat": true
+    },
+    "803401006": {
+        "Key": "Skill06",
+        "Name": "败者退席",
+        "Desc": "对输掉赌局的我方单体造成 <1> 虚数属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方单体陷入禁锢状态。<br><br>禁锢：无法行动，行动延后<color style='color:#f29e38;'>30%</color>。",
+        "SP": 20.0,
+        "Elem": "Imaginary",
+        "DMG": [
+            6.2
+        ]
+    },
+    "803401007": {
+        "Key": "Skill07",
+        "Name": "胜者通杀",
+        "Desc": "对所有输掉赌局的我方目标造成 <1> 虚数属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入禁锢状态。<br><br>禁锢：无法行动，行动延后<color style='color:#f29e38;'>30%</color>。",
+        "SP": 20.0,
+        "Elem": "Imaginary",
+        "DMG": [
+            6.2
+        ]
+    },
+    "803401008": {
+        "Key": "Skill08",
+        "Name": "诡弈赌约",
+        "Desc": "每次赢得赌局的我方目标获得<b>【鸿运当头】</b>效果：造成的伤害提高 <color style='color:#f29e38;'>50%</color>。<br>每次输掉赌局的我方目标获得<b>【时运不济】</b>效果：受到的伤害提高 <color style='color:#f29e38;'>20%</color>。",
+        "SP": 0
+    },
+    "803203001": {
+        "Key": "Skill01",
+        "Name": "运数莫测",
+        "Desc": "不会受到伤害，受到进入赌局的目标攻击时使其获得1个随机1到6的点数。",
+        "SP": 0
+    },
+    "200203201": {
+        "Key": "Skill01",
+        "Name": "锯恶",
+        "Desc": "对指定我方单体造成<1>物理伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标陷入<color style='color:#f29e38;'>【震荡】</color>状态，持续<color style='color:#f29e38;'>2</color>回合。<br>【震荡】状态下的目标受到攻击后，陷入<color style='color:#f29e38;'>【强烈震荡】</color>状态，然后解除【震荡】状态。<br>【强烈震荡】状态下的目标无法行动，且行动延后<color style='color:#f29e38;'>70%</color>，持续<color style='color:#f29e38;'>1</color>回合。",
+        "SP": 15.0,
+        "Elem": "Phys",
+        "Status": [
+            220020301,
+            220020302
+        ],
+        "DMG": [
+            2.5
+        ]
+    },
+    "201302108": {
+        "Key": "Skill07",
+        "Name": "",
+        "Desc": "dev_命令云骑妹对瞄准的角色进行合击（不使用）",
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "803301108": {
+        "Key": "PassiveSkillInitiate",
+        "Name": "提升业绩",
+        "Desc": "每次施放攻击后获得1个【绩效点】：造成的伤害提升<color style='color:#f29e38;'>50%</color>。<br>【绩效点】可在自身弱点被击破时或自身被消灭时被攻击者夺取。",
+        "SP": 0,
+        "Status": [
+            280330101
+        ]
+    },
+    "300301001": {
+        "Key": "Skill01",
+        "Name": "大力颠勺",
+        "Desc": "对我方单体造成<1>火属性伤害。",
+        "SP": 10.0,
+        "Elem": "Fire",
+        "DMG": [
+            3.2
+        ]
+    },
+    "300301002": {
+        "Key": "Skill02",
+        "Name": "旋风翻锅",
+        "Desc": "对我方单体造成<1>火属性伤害，对相邻目标造成<2>火属性伤害。",
+        "SP": 10.0,
+        "Elem": "Fire",
+        "DMG": [
+            2.8,
+            2.2
+        ]
+    },
+    "300301003": {
+        "Key": "Skill06",
+        "Name": "点燃炉灶",
+        "Desc": "进入蓄力状态。若在下次行动时未将<color style='color:#f29e38;'>【炉灶过热】</color>叠加至<color style='color:#f29e38;'>6</color>层，则释放<color style='color:#f29e38;'>【烈焰爆炒】</color>，并清除所有【炉灶过热】和【炉灶加温】层数。",
+        "SP": 0,
+        "Elem": "Fire"
+    },
+    "300301004": {
+        "Key": "Skill04",
+        "Name": "烈焰爆炒",
+        "Desc": "对我方全体造成<1>火属性伤害。",
+        "SP": 20.0,
+        "Elem": "Fire",
+        "Threat": true,
+        "DMG": [
+            6.2
+        ]
+    },
+    "300301005": {
+        "Key": "Skill05",
+        "Name": "厨房事故",
+        "Desc": "进入蓄力状态后，当<color style='color:#f29e38;'>【炉灶过热】</color>叠加至<color style='color:#f29e38;'>6</color>层时，对自身造成<color style='color:#f29e38;'>30%生命值上限</color>的火属性伤害和<color style='color:#f29e38;'>10</color>点火属性削韧，对敌方其他目标造成<color style='color:#f29e38;'>5%生命值上限</color>的火属性伤害和<color style='color:#f29e38;'>3</color>点火属性削韧，并使自身防御降低<color style='color:#f29e38;'>50%</color>，同时清除所有【炉灶加温】和【炉灶过热】层数。",
+        "SP": 0,
+        "Elem": "Fire"
+    },
+    "300301006": {
+        "Key": "Skill03",
+        "Name": "火炼佳肴",
+        "Desc": "当<color style='color:#f29e38;'>【炉灶加温】</color>叠加至<color style='color:#f29e38;'>6</color>层时立即行动，并释放<color style='color:#f29e38;'>【点燃炉灶】</color>。",
+        "SP": 0
+    },
+    "300301007": {
+        "Key": "PassiveSkillInitiate",
+        "Name": "猛火炉灶",
+        "Desc": "在<b>【文火】</b>期间，受到攻击或持续伤害会积累1层【炉灶加温】。<br>积累<color style='color:#f29e38;'>6</color>层后进入<b>【急火】</b>状态，此时受到攻击或持续伤害会改为积累1层【炉灶过热】，攻击命中角色时有<color style='color:#f29e38;'>50%</color>基础概率使目标减速<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 0,
+        "Status": [
+            230030104,
+            230030105
+        ]
+    },
+    "300204001": {
+        "Key": "Skill01",
+        "Name": "预定闹钟",
+        "Desc": "进入蓄力状态，下次行动时施放<color style='color:#f29e38;'>【起床铃声】</color>。",
+        "SP": 0
+    },
+    "300204002": {
+        "Key": "Skill02",
+        "Name": "起床铃声",
+        "Desc": "使除自身外的敌方全体立即行动。",
+        "SP": 0
+    },
+    "300204003": {
+        "Key": "Skill03",
+        "Name": "清醒铁拳",
+        "Desc": "对指定我方单体造成 <1> 物理属性伤害。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "DMG": [
+            2.5
+        ]
+    },
+    "301202001": {
+        "Key": "Skill03",
+        "Name": "排异",
+        "Desc": "对指定我方单体造成<1>物理属性伤害。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "DMG": [
+            3
+        ]
+    },
+    "301202002": {
+        "Key": "SkillP01",
+        "Name": "刚愎盾甲",
+        "Desc": "进入<color style='color:#f29e38;'>【守备】</color>状态，弱点未被击破时受到的伤害降低<color style='color:#f29e38;'>60%</color>，被击破时行动额外延后<color style='color:#f29e38;'>75%</color>，被击破后受到的伤害提高<color style='color:#f29e38;'>50%</color>。",
+        "SP": 0,
+        "Status": [
+            230120201
+        ]
+    },
+    "302402001": {
+        "Key": "Skill01",
+        "Name": "BHF-轰炎推进",
+        "Desc": "对指定我方单体造成<1>火属性伤害。",
+        "SP": 10.0,
+        "Elem": "Fire",
+        "DMG": [
+            2
+        ]
+    },
+    "302402002": {
+        "Key": "Skill02",
+        "Name": "BHF-天火",
+        "Desc": "对指定我方单体造成<1>火属性伤害，对其相邻目标造成<2>火属性伤害。",
+        "SP": 10.0,
+        "Elem": "Fire",
+        "DMG": [
+            2.4,
+            1.6
+        ]
+    },
+    "302402003": {
+        "Key": "Skill03",
+        "Name": "BBHF-焦土作战",
+        "Desc": "对我方全体造成<1>火属性伤害。",
+        "SP": 15.0,
+        "Elem": "Fire",
+        "DMG": [
+            1.8
+        ]
+    },
+    "302402004": {
+        "Key": "Skill04",
+        "Name": "DHGDR-次级燃烧",
+        "Desc": "初始弱点无效。消耗<color style='color:#f29e38;'>3%生命值上限</color>，进入<color style='color:#f29e38;'>【次级燃烧】</color>状态：解除<color style='color:#f29e38;'>【弱点无效】</color>效果，且速度提升<color style='color:#f29e38;'>50%</color>。此后所有攻击都会消耗自身<color style='color:#f29e38;'>1%生命值上限</color>。",
+        "SP": 0,
+        "Threat": true
+    },
+    "302402005": {
+        "Key": "Skill05",
+        "Name": "DHGDR-超新星过载",
+        "Desc": "对我方全体造成<1>火属性伤害，并有<color style='color:#f29e38;'>120%</color>基础概率使受到攻击的我方目标陷入<b>灼烧</b>状态。<br>灼烧持续伤害：<2>火属性伤害，持续<color style='color:#f29e38;'>3</color>回合。",
+        "SP": 20.0,
+        "Elem": "Fire",
+        "Threat": true,
+        "DMG": [
+            2.7,
+            1.2
+        ]
+    },
+    "302402006": {
+        "Key": "PassiveSkill01",
+        "Name": "SGE-熔火垓心",
+        "Desc": "进入【次级燃烧】后使场地燃烧，同时燃烧我方的战技点。<br>我方消耗任意数目的燃烧战技点<color style='color:#f29e38;'>（不包括替代战技点）</color>时，会受到固定的<1>火属性伤害，但会额外造成等同于原伤害数值的<color style='color:#f29e38;'>30%</color>的火属性伤害。<br>我方接受其他角色<color style='color:#f29e38;'>（不包括自身和光锥）</color>的治疗时，治疗加成降低<color style='color:#f29e38;'>90%</color>。",
+        "SP": 0,
+        "Elem": "Fire",
+        "DMG": [
+            1.6
+        ]
+    },
+    "302401101": {
+        "Key": "Skill01",
+        "Name": "虔诚",
+        "Desc": "对指定我方单体造成物理属性伤害。",
+        "SP": 15.0,
+        "Elem": "Phys"
+    },
+    "302401102": {
+        "Key": "Skill02",
+        "Name": "渐臻虔诚",
+        "Desc": "对指定我方单体及其相邻目标造成物理属性伤害。",
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "302401103": {
+        "Key": "Skill03",
+        "Name": "枪与盾",
+        "Desc": "随机召唤【枪尖】、【盾】、【授勋】的雕塑。",
+        "SP": 0
+    },
+    "302401104": {
+        "Key": "Skill04",
+        "Name": "爱之灵如是说",
+        "Desc": "升华一个雕塑中纯美的灵魂，使被灵魂升华的雕塑技能效果增强并立即行动。",
+        "SP": 0,
+        "Threat": true
+    },
+    "302401105": {
+        "Key": "Skill05",
+        "Name": "纯美的勇气赞歌",
+        "Desc": "对我方全体造成物理属性伤害。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "Threat": true
+    },
+    "302401107": {
+        "Key": "Skill07",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "302102101": {
+        "Key": "Skill01",
+        "Name": "血色女皇授勋",
+        "Desc": "对敌方银枝施加1层可叠加的伤害提高效果。【灵魂释放】状态下，施加的伤害提高效果层数增加。",
+        "SP": 0
+    },
+    "302102102": {
+        "Key": "SkillP01",
+        "Name": "颠仆的星花阶石",
+        "Desc": "受到致命攻击时，对攻击者施加1层可叠加的伤害提高效果。【灵魂释放】状态下，施加的伤害提高效果层数增加。",
+        "SP": 0
+    },
+    "302103101": {
+        "Key": "Skill01",
+        "Name": "纯美骑士之踵",
+        "Desc": "对我方全体造成物理属性伤害。【灵魂释放】状态下，造成的伤害提高。",
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "302103102": {
+        "Key": "SkillP01",
+        "Name": "已死命运风情",
+        "Desc": "受到致命攻击时，对敌方全体造成物理属性伤害。【灵魂释放】状态下，造成的伤害提高。",
+        "SP": 0,
+        "Elem": "Phys"
+    },
+    "302104101": {
+        "Key": "Skill01",
+        "Name": "捍卫的冕旒",
+        "Desc": "对敌方银枝施加屏障。【灵魂释放】状态下，对敌方全体施加屏障。",
+        "SP": 0
+    },
+    "302104102": {
+        "Key": "SkillP01",
+        "Name": "飞速欲念摹本",
+        "Desc": "受到致命攻击时，对攻击者施加屏障。【灵魂释放】状态下，对我方全体施加屏障。",
+        "SP": 0
+    },
+    "200402201": {
+        "Key": "Skill01",
+        "Name": "快哉风",
+        "Desc": "对指定我方单体造成冰属性伤害，并使彦卿和所有飞剑获得1层【寒芒】，造成的伤害小幅提高。",
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "200402202": {
+        "Key": "Skill02",
+        "Name": "燕归来",
+        "Desc": "召唤4把【飞剑】，获得【剑阵】效果提高自身速度，使【飞剑】获得【阵眼】。第三阶段时使一定数量的【飞剑】额外获得【砥砺】。",
+        "SP": 10.0
+    },
+    "200402203": {
+        "Key": "Skill03",
+        "Name": "三尺水",
+        "Desc": "对指定我方单体造成冰属性伤害，同时有大概率使受到攻击的目标陷入冻结状态。",
+        "SP": 15.0,
+        "Elem": "Ice"
+    },
+    "200402204": {
+        "Key": "Skill04",
+        "Name": "破阵歌",
+        "Desc": "对指定我方单体及其相邻目标造成冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "200402205": {
+        "Key": "Skill05",
+        "Name": "剑气近",
+        "Desc": "进入蓄力状态。下次行动对我方全体施放【天河泻】。",
+        "SP": 10.0
+    },
+    "200402206": {
+        "Key": "Skill06",
+        "Name": "天河泻",
+        "Desc": "对我方全体造成大量冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "Threat": true
+    },
+    "200402207": {
+        "Key": "Skill07",
+        "Name": "剑气凝",
+        "Desc": "锁定我方单体，两回合后对其施放【风归云动，天河泻梦】。",
+        "SP": 0
+    },
+    "200402208": {
+        "Key": "Skill08",
+        "Name": "风归云动，天河泻梦",
+        "Desc": "对指定我方单体连续造成冰属性伤害。施放该技能时，额外造成伤害，伤害次数等同于场上【飞剑】的数量。施放技能后，清除场上所有的【飞剑】。",
+        "SP": 15.0,
+        "Elem": "Ice",
+        "Threat": true
+    },
+    "200402209": {
+        "Key": "SkillP01",
+        "Name": "",
+        "Desc": "",
+        "SP": 15.0
+    },
+    "300205001": {
+        "Key": "Skill01",
+        "Name": "桶的锤炼",
+        "Desc": "对我方单体造成<1>物理属性伤害。",
+        "SP": 0,
+        "Elem": "Phys",
+        "DMG": [
+            4
+        ]
+    },
+    "300205002": {
+        "Key": "Skill02",
+        "Name": "桶的磨砺",
+        "Desc": "使自身的攻击力提高<color style='color:#f29e38;'>2<sup>n</sup>×100%</color>。该效果可叠加，且不可被驱散。",
+        "SP": 0
+    },
+    "300205003": {
+        "Key": "SkillP01",
+        "Name": "桶的信条",
+        "Desc": "当自身被弱点击破时将会离开战斗。当自身受到我方攻击时，将会被添加此次攻击对应的属性弱点，至多添加2个弱点。",
+        "SP": 0
+    },
+    "101301403": {
+        "Key": "Skill05",
+        "Name": "爆裂指令",
+        "Desc": "召唤【自动机兵•蜘蛛】或【自动机兵•甲虫】。",
+        "SP": 0
+    },
+    "101301404": {
+        "Key": "Skill04",
+        "Name": "愤怒指令",
+        "Desc": "有概率使我方每个单体目标陷入嘲讽状态。",
+        "SP": 0
+    },
+    "101301405": {
+        "Key": "Skill02",
+        "Name": "过载指令",
+        "Desc": "进入蓄力状态。下次行动对我方全体施放【剿灭指令】。",
+        "SP": 0
+    },
+    "101301406": {
+        "Key": "Skill03",
+        "Name": "剿灭指令",
+        "Desc": "对我方全体造成大量物理属性伤害。",
+        "SP": 20.0,
+        "Elem": "Phys",
+        "Threat": true
+    },
+    "101301407": {
+        "Key": "PassiveSkillInitiate",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "101301401": {
+        "Key": "Skill01",
+        "Name": "破坏指令",
+        "Desc": "对指定我方单体造成物理属性伤害。",
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "101301402": {
+        "Key": "Skill06",
+        "Name": "",
+        "Desc": "",
+        "SP": 20.0,
+        "Elem": "Phys"
+    },
+    "101301408": {
+        "Key": "PassiveSkill01",
+        "Name": "毁灭指令",
+        "Desc": "使自身造成伤害大幅提高。每次进入蓄力状态时使自身造成的伤害进一步提高，伤害提高效果可叠加。",
+        "SP": 0
+    },
+    "101302401": {
+        "Key": "Skill06",
+        "Name": "砍伐指令",
+        "Desc": "对指定我方单体造成大量物理属性伤害，每次击中该目标都有概率使其陷入裂伤状态。",
+        "SP": 20.0,
+        "Elem": "Phys",
+        "Threat": true
+    },
+    "101302402": {
+        "Key": "Skill07",
+        "Name": "目标锁定",
+        "Desc": "锁定指定我方单体，下次行动对其施放【砍伐指令】。",
+        "SP": 0
+    },
+    "101302405": {
+        "Key": "Skill09",
+        "Name": "解体指令",
+        "Desc": "对指定我方单体造成物理属性伤害，并大概率对其增加1层裂伤状态。",
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "101302406": {
+        "Key": "Skill11",
+        "Name": "解体拆除",
+        "Desc": "对指定我方单体造成物理属性伤害，并大概率对其增加1层裂伤状态。",
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "101302403": {
+        "Key": "Skill12",
+        "Name": "瞄准指令",
+        "Desc": "锁定2个我方目标，下次行动对其施放【砍伐指令】。",
+        "SP": 0
+    },
+    "101302404": {
+        "Key": "Skill10",
+        "Name": "协力指令",
+        "Desc": "锁定2个我方单体，下次行动对其施放【砍伐指令】。同时使【自动机兵·灰熊】进入蓄力状态，下次行动对我方全体施放【剿灭指令】。",
+        "SP": 0
+    },
+    "101302407": {
+        "Key": "Skill08",
+        "Name": "",
+        "Desc": "",
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "101302408": {
+        "Key": "PassiveSkill01",
+        "Name": "作战加速",
+        "Desc": "使自身速度大幅提高。每次施放【协力指令】时使自身速度进一步小幅提高，速度提高效果可叠加。",
+        "SP": 0
+    },
+    "101301409": {
+        "Key": "Skill07",
+        "Name": "火力重构",
+        "Desc": "被击倒后进入【火力修复】状态，在一定回合后起身，并使自身造成的伤害进一步提高，伤害提高效果可叠加。",
+        "SP": 0
+    },
+    "101302409": {
+        "Key": "Skill13",
+        "Name": "速率重构",
+        "Desc": "被击倒后进入【速率修复】状态，在一定回合后起身，并使自身速度进一步小幅提高，速度提高效果可叠加。",
+        "SP": 0
+    },
+    "802401201": {
+        "Key": "Skill01",
+        "Name": "作战时刻",
+        "Desc": "对指定我方单体造成少量风属性伤害，并大概率使受到攻击的我方目标陷入2层风化状态。",
+        "SP": 10.0,
+        "Elem": "Wind"
+    },
+    "802401210": {
+        "Key": "Skill08",
+        "Name": "",
+        "Desc": "",
+        "SP": 10.0,
+        "Elem": "Wind"
+    },
+    "802401202": {
+        "Key": "Skill02",
+        "Name": "战争兵器",
+        "Desc": "对指定我方单体造成少量风属性伤害。如受到攻击的目标正处于风化状态，则直接造成1次风化伤害。",
+        "SP": 20.0,
+        "Elem": "Wind"
+    },
+    "802401203": {
+        "Key": "Skill03",
+        "Name": "飓风",
+        "Desc": "对我方全体造成风属性伤害，并大概率使受到攻击的我方目标陷入风化状态。",
+        "SP": 10.0,
+        "Elem": "Wind"
+    },
+    "802401204": {
+        "Key": "Skill04",
+        "Name": "繁殖",
+        "Desc": "繁殖真蛰虫群。",
+        "SP": 0
+    },
+    "802401211": {
+        "Key": "Skill10",
+        "Name": "繁殖",
+        "Desc": "繁殖真蛰虫群。",
+        "SP": 0
+    },
+    "802401205": {
+        "Key": "Skill05",
+        "Name": "指挥准备",
+        "Desc": "进入蓄力状态，下次行动施放【虫群突袭】。",
+        "SP": 0
+    },
+    "802401206": {
+        "Key": "Skill06",
+        "Name": "虫群突袭",
+        "Desc": "解除场上所有真蛰虫群的控制类负面状态与弱点击破状态，并对我方目标造成风属性伤害，使我方目标每次受到攻击时大概率陷入1层风化状态。",
+        "SP": 10.0,
+        "Elem": "Wind",
+        "Threat": true
+    },
+    "802401207": {
+        "Key": "Skill07",
+        "Name": "虫群突袭",
+        "Desc": "解除场上所有真蛰虫群的控制类负面状态与弱点击破状态，并对我方目标造成风属性伤害，使我方目标每次受到攻击时大概率陷入1层风化状态。",
+        "SP": 10.0,
+        "Elem": "Wind"
+    },
+    "802401208": {
+        "Key": "PassiveSkill01",
+        "Name": "传衍信息素",
+        "Desc": "场上每繁殖出1个真蛰虫群，所有真蛰虫群获得1层伤害提高。场上仅能有1个【传衍信息素】效果生效。",
+        "SP": 0
+    },
+    "802401209": {
+        "Key": "PassiveSkill02",
+        "Name": "蛰亡语",
+        "Desc": "受到致命攻击时，对敌方全体造成风属性伤害，并大概率使受到攻击的敌方目标受到的伤害小幅提高。",
+        "SP": 0,
+        "Elem": "Wind"
+    },
+    "302401106": {
+        "Key": "Skill06",
+        "Name": "罪与净化",
+        "Desc": "升华敌方全体雕塑中纯美的灵魂，使被灵魂升华的雕塑技能效果增强。",
+        "SP": 0,
+        "Threat": true
+    },
+    "302401108": {
+        "Key": "Skill08",
+        "Name": "骑士团",
+        "Desc": "召唤4个【枪尖】。如果场上已经有雕塑，回复其全部生命值。",
+        "SP": 0
+    },
+    "302401109": {
+        "Key": "Skill09",
+        "Name": "",
+        "Desc": "",
+        "SP": 15.0,
+        "Elem": "Phys"
+    },
+    "100201502": {
+        "Key": "SkillP01",
+        "Name": "冰冷凝视",
+        "Desc": "锁定一个目标，【可可利亚（幻象）】的部分技能会对被锁定的目标额外追加释放一次，持续直到冰锋（幻象）被弱点击破或击杀。",
+        "SP": 0,
+        "Elem": "Ice",
+        "Threat": true
+    },
+    "100201602": {
+        "Key": "SkillP01",
+        "Name": "冰冷凝视",
+        "Desc": "锁定一个目标，【可可利亚（幻象）】的部分技能会对被锁定的目标额外追加释放一次，持续直到冰锋（幻象）被弱点击破或击杀。",
+        "SP": 0,
+        "Elem": "Ice",
+        "Threat": true
+    },
+    "100201702": {
+        "Key": "SkillP01",
+        "Name": "冷酷追击",
+        "Desc": "锁定一个目标，【可可利亚，虚妄之母（幻象）】的部分技能会对被锁定的目标额外追加释放一次，持续直到无尽寒冬之槊（幻象）被弱点击破或击杀。",
+        "SP": 0,
+        "Elem": "Ice",
+        "Threat": true
+    },
+    "100201802": {
+        "Key": "SkillP01",
+        "Name": "冷酷追击",
+        "Desc": "锁定一个目标，【可可利亚，虚妄之母（幻象）】的部分技能会对被锁定的目标额外追加释放一次，持续直到无尽寒冬之槊（幻象）被弱点击破或击杀。",
+        "SP": 0,
+        "Elem": "Ice",
+        "Threat": true
+    },
+    "100401301": {
+        "Key": "Skill01",
+        "Name": "刺骨凝血的寒芒",
+        "Desc": "对指定我方单体造成冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "100401302": {
+        "Key": "Skill02",
+        "Name": "漫长冰期的预兆",
+        "Desc": "召唤【冰锋（幻象）】。",
+        "SP": 0
+    },
+    "100401303": {
+        "Key": "Skill03",
+        "Name": "无尽长冬的绝罚",
+        "Desc": "对我方全体造成大量冰属性伤害。",
+        "SP": 20.0,
+        "Elem": "Ice",
+        "Threat": true
+    },
+    "100401304": {
+        "Key": "Skill04",
+        "Name": "永囚于此的白霜",
+        "Desc": "对指定我方单体造成冰属性伤害，并有大概率使受到攻击的我方目标陷入冻结状态。该技能会对【冰锋（幻象）】锁定的目标追加释放。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "Threat": true
+    },
+    "100401305": {
+        "Key": "Skill05",
+        "Name": "雪国圣徒的烈怒",
+        "Desc": "进入蓄力状态，下次行动时对我方全体施放【无尽长冬的绝罚】。",
+        "SP": 0
+    },
+    "100401306": {
+        "Key": "Skill07",
+        "Name": "碎冰震荡",
+        "Desc": "对冻结状态下的我方目标及相邻目标造成冰属性伤害，同时解除主目标的冻结状态。若相邻目标处于冻结状态，则再次对主目标施放本技能。",
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "100401307": {
+        "Key": "PassiveSkill01",
+        "Name": "愈寒愈烈",
+        "Desc": "每有1个我方目标陷入冻结状态，自身及召唤物造成的伤害提高。",
+        "SP": 0
+    },
+    "100401308": {
+        "Key": "SkillP01",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "100401309": {
+        "Key": "SkillP02",
+        "Name": "雪国后盾",
+        "Desc": "第二阶段，杰帕德加入战斗。",
+        "SP": 0
+    },
+    "100402401": {
+        "Key": "Skill01",
+        "Name": "一意之拳",
+        "Desc": "对指定我方单体造成少量冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "100402402": {
+        "Key": "Skill02",
+        "Name": "霜之惩击",
+        "Desc": "对指定我方单体造成冰属性伤害。",
+        "SP": 15.0,
+        "Elem": "Ice"
+    },
+    "100402403": {
+        "Key": "Skill03",
+        "Name": "戍卫气场",
+        "Desc": "施放【全体护盾】吸收敌方全体受到的伤害，并使敌方全体的韧性无法受到伤害。",
+        "SP": 0
+    },
+    "100402404": {
+        "Key": "Skill04",
+        "Name": "",
+        "Desc": "",
+        "SP": 15.0,
+        "Elem": "Ice",
+        "Threat": true
+    },
+    "100402405": {
+        "Key": "Skill05",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "100402407": {
+        "Key": "Skill07",
+        "Name": "",
+        "Desc": "",
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "100402408": {
+        "Key": "Skill08",
+        "Name": "以牙还牙",
+        "Desc": "进入反击状态，持续1回合。在该状态下受到我方目标攻击后，立即对该目标施放【霜之惩击】。",
+        "SP": 0
+    },
+    "100402409": {
+        "Key": "SkillP01",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "100402410": {
+        "Key": "SkillP02",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "100402411": {
+        "Key": "SkillP03",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "100402412": {
+        "Key": "Skill12",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "100402413": {
+        "Key": "Skill13",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "100501301": {
+        "Key": "Skill01",
+        "Name": "碎骨寒流",
+        "Desc": "对指定我方单体造成冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "100501302": {
+        "Key": "Skill10",
+        "Name": "灭世纪的预兆",
+        "Desc": "锁定我方单体，下次行动对该目标施放【裂魂寒流】。",
+        "SP": 0
+    },
+    "100501303": {
+        "Key": "Skill06",
+        "Name": "裂魂寒流",
+        "Desc": "对指定我方单体造成大量冰属性伤害，并大概率使受到攻击的我方目标陷入冻结状态。该技能会对【无尽寒冬之槊（幻象）】锁定的目标追加释放。",
+        "SP": 15.0,
+        "Elem": "Ice",
+        "Threat": true
+    },
+    "100501304": {
+        "Key": "Skill04",
+        "Name": "",
+        "Desc": "",
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "100501305": {
+        "Key": "Skill02",
+        "Name": "冷酷灭世者之唤",
+        "Desc": "召唤【无尽寒冬之槊（幻象）】。",
+        "SP": 0
+    },
+    "100501306": {
+        "Key": "Skill11",
+        "Name": "创世者的决意",
+        "Desc": "转化为虚数属性，速度提高且攻击造成的伤害，解除韧性保护状态。",
+        "SP": 0,
+        "Elem": "Imaginary"
+    },
+    "100501307": {
+        "Key": "Skill07",
+        "Name": "创世和弦",
+        "Desc": "对指定我方单体造成虚数属性伤害，并大概率使受到攻击的我方目标陷入禁锢状态。该技能会对【无尽寒冬之槊（幻象）】锁定的目标追加释放。",
+        "SP": 10.0,
+        "Elem": "Imaginary",
+        "Threat": true
+    },
+    "100501308": {
+        "Key": "Skill08",
+        "Name": "创世纪的前奏",
+        "Desc": "进入蓄力状态，下次行动对我方全体施放【创世绝响】。",
+        "SP": 0
+    },
+    "100501309": {
+        "Key": "Skill09",
+        "Name": "创世绝响",
+        "Desc": "对我方全体造成大量虚数属性伤害。",
+        "SP": 20.0,
+        "Elem": "Imaginary",
+        "Threat": true
+    },
+    "100501310": {
+        "Key": "SkillP02",
+        "Name": "",
+        "Desc": "",
+        "SP": 0,
+        "Elem": "Ice"
+    },
+    "100501311": {
+        "Key": "SkillP01",
+        "Name": "狂雪之灾",
+        "Desc": "每有1个我方目标陷入冻结或禁锢状态，自身及召唤物造成的伤害提高。",
+        "SP": 0
+    },
+    "100501312": {
+        "Key": "SkillP03",
+        "Name": "",
+        "Desc": "",
+        "SP": 0,
+        "Elem": "Ice"
+    },
+    "200401301": {
+        "Key": "Skill01",
+        "Name": "夜间喧嚣不止",
+        "Desc": "对指定我方单体造成雷属性伤害，并有概率使受到攻击的我方目标陷入触电状态。",
+        "SP": 10.0,
+        "Elem": "Elec"
+    },
+    "200401302": {
+        "Key": "Skill02",
+        "Name": "月光摩挲连绵",
+        "Desc": "对指定我方单体及其相邻目标造成雷属性伤害，如主目标处于触电状态，则会使副目标也陷入触电状态。",
+        "SP": 10.0,
+        "Elem": "Elec"
+    },
+    "200401303": {
+        "Key": "Skill03",
+        "Name": "缄默厉声嘲笑",
+        "Desc": "对我方全体造成雷属性伤害。",
+        "SP": 15.0,
+        "Elem": "Elec"
+    },
+    "200401304": {
+        "Key": "Skill05",
+        "Name": "言灵",
+        "Desc": "使指定我方单体大概率陷入【支配】状态，并将其行动提前，立即随机攻击1名我方其他目标。",
+        "SP": 15.0,
+        "Threat": true
+    },
+    "200401305": {
+        "Key": "Skill04",
+        "Name": "",
+        "Desc": "",
+        "SP": 10.0,
+        "Elem": "Elec"
+    },
+    "200401306": {
+        "Key": "PassiveSkill01",
+        "Name": "压迫",
+        "Desc": "在行动条上添加【外包】，每次【外包】行动时，召唤2.0名星际和平公司员工，场上最多存在2.0名员工。",
+        "SP": 0
+    },
+    "200401307": {
+        "Key": "Skill07",
+        "Name": "心理暗示",
+        "Desc": "使我方多名目标进入【心理暗示】状态，并在行动条上添加【揭晓】，下次【揭晓】行动时陷入【心理暗示】的角色陷入【支配】状态。",
+        "SP": 0,
+        "Threat": true
+    },
+    "200401308": {
+        "Key": "PassiveSkill03",
+        "Name": "颤慄",
+        "Desc": "如受到攻击的目标正处于触电状态，则直接造成1次触电伤害。",
+        "SP": 0
+    },
+    "200401309": {
+        "Key": "Skill06",
+        "Name": "残酷",
+        "Desc": "当敌方除卡芙卡外的目标或我方陷入【支配】状态的目标对我方陷入触电状态的主目标进行攻击时，追加1次雷属性攻击。",
+        "SP": 10.0,
+        "Elem": "Elec"
+    },
+    "200401310": {
+        "Key": "PassiveSkill02",
+        "Name": "吊唁",
+        "Desc": "每当我方目标触发触电状态时，卡芙卡自身伤害提高。",
+        "SP": 0
+    },
+    "200401311": {
+        "Key": "PassiveSkill04",
+        "Name": "压迫",
+        "Desc": "在行动条上添加【外包】，每次【外包】行动时，召唤4.0名星际和平公司员工，场上最多存在4.0名员工。",
+        "SP": 0
+    },
+    "200401312": {
+        "Key": "Skill08",
+        "Name": "剥夺",
+        "Desc": "卡芙卡行动时，如果场上的星际和平公司员工存在【绩效点】，则会被卡芙卡夺取，并施放【月光摩挲连绵】。【绩效点】可以大幅提高卡芙卡本次攻击造成的伤害。",
+        "SP": 0,
+        "Threat": true
+    },
+    "200402301": {
+        "Key": "Skill01",
+        "Name": "快哉风",
+        "Desc": "对指定我方单体造成冰属性伤害，同时命令所有【飞剑（幻象）】发动攻击，造成额外伤害。",
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "200402302": {
+        "Key": "Skill02",
+        "Name": "燕归来",
+        "Desc": "召唤4把【飞剑（幻象）】，获得【剑阵】效果，提高自身速度。【飞剑（幻象）】只有在弱点击破后才能被消灭，并将其弱点转移给随机的剩余飞剑。所有【飞剑（幻象）】的弱点均被击破后解除【剑阵】。",
+        "SP": 10.0,
+        "Threat": true
+    },
+    "200402303": {
+        "Key": "Skill03",
+        "Name": "三尺水",
+        "Desc": "对指定我方单体造成冰属性伤害，同时有大概率使受到攻击的目标陷入冻结状态。",
+        "SP": 15.0,
+        "Elem": "Ice"
+    },
+    "200402304": {
+        "Key": "Skill04",
+        "Name": "破阵歌",
+        "Desc": "对指定我方单体及其相邻目标造成冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "200402305": {
+        "Key": "Skill05",
+        "Name": "剑气近",
+        "Desc": "进入蓄力状态。下次行动对我方全体施放【天河泻】。",
+        "SP": 10.0
+    },
+    "200402306": {
+        "Key": "Skill06",
+        "Name": "天河泻",
+        "Desc": "对我方全体造成大量冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "Threat": true
+    },
+    "200402307": {
+        "Key": "Skill07",
+        "Name": "剑气凝",
+        "Desc": "锁定我方单体，两回合后对其施放【风归云动，天河泻梦】。",
+        "SP": 0
+    },
+    "200402308": {
+        "Key": "Skill08",
+        "Name": "风归云动，天河泻梦",
+        "Desc": "对指定我方单体连续造成大量冰属性伤害。",
+        "SP": 15.0,
+        "Elem": "Ice",
+        "Threat": true
+    },
+    "200402309": {
+        "Key": "SkillP03",
+        "Name": "剑花无影",
+        "Desc": "彦卿及【飞剑（幻象）】的所有攻击都会使受到攻击的我方目标陷入【霜刺】状态，提高受到的冰属性伤害。",
+        "SP": 0
+    },
+    "202401301": {
+        "Key": "Skill01",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "202401302": {
+        "Key": "Skill02",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "202401303": {
+        "Key": "Skill03",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "202401304": {
+        "Key": "Skill04",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "202401305": {
+        "Key": "Skill05",
+        "Name": "呦鸣",
+        "Desc": "对指定我方单体造成雷属性伤害。",
+        "SP": 20.0,
+        "Elem": "Elec"
+    },
+    "202401306": {
+        "Key": "Skill06",
+        "Name": "绾风",
+        "Desc": "对我方全体造成风属性伤害。",
+        "SP": 15.0,
+        "Elem": "Wind"
+    },
+    "202401307": {
+        "Key": "Skill07",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "202401308": {
+        "Key": "Skill08",
+        "Name": "斑龙触",
+        "Desc": "当场上存在2个【嘉实】时立即施放该技能，对我方全体造成雷属性伤害。场上【建木枝梢（幻象）】数量越多，造成的伤害越高。施放技能后，清除场上所有的【嘉实之杪（幻象）】。",
+        "SP": 20.0,
+        "Elem": "Elec",
+        "Threat": true
+    },
+    "202401309": {
+        "Key": "Skill09",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "202401310": {
+        "Key": "Skill10",
+        "Name": "衔枝 · 芳芷",
+        "Desc": "召唤2个建木枝梢【缃叶之杪（幻象）】，1个建木枝梢【繁花之杪（幻象）】，1个建木枝梢【肃风之杪（幻象）】。丰饶玄鹿的弱点被击破时，会清除场上所有的建木枝梢。",
+        "SP": 0
+    },
+    "202401311": {
+        "Key": "Skill11",
+        "Name": "衔枝 · 荫泽",
+        "Desc": "召唤2个建木枝梢【缃叶之杪（幻象）】，1个建木枝梢【嘉实之杪（幻象）】，1个建木枝梢【肃风之杪（幻象）】。丰饶玄鹿的弱点被击破时，会清除场上所有的建木枝梢。",
+        "SP": 0
+    },
+    "202401312": {
+        "Key": "Skill12",
+        "Name": "繁花",
+        "Desc": "召唤1个建木枝梢【繁花之抄（幻象）】。【繁花之抄（幻象）】可以使其他敌方的韧性无法受到伤害，【繁花之抄（幻象）】被消灭后解除所有韧性无法受到伤害的效果。",
+        "SP": 0
+    },
+    "202401313": {
+        "Key": "Skill13",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "202401314": {
+        "Key": "Skill14",
+        "Name": "生机充盈",
+        "Desc": "每当丰饶玄鹿获得增益效果时，丰饶玄鹿和所有建木枝梢造成的伤害小幅提高。",
+        "SP": 0
+    },
+    "202401315": {
+        "Key": "Skill15",
+        "Name": "觅长生",
+        "Desc": "召唤建木枝梢【缃叶之杪（幻象）】时，使其获得【培植】，提高【复还】造成的伤害。",
+        "SP": 0
+    },
+    "200401313": {
+        "Key": "Skill09",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "100402501": {
+        "Key": "Skill01",
+        "Name": "一意之拳",
+        "Desc": "对指定我方单体造成少量冰属性伤害。",
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "100402502": {
+        "Key": "Skill02",
+        "Name": "霜之惩击",
+        "Desc": "对指定我方单体造成冰属性伤害。",
+        "SP": 15.0,
+        "Elem": "Ice"
+    },
+    "100402503": {
+        "Key": "Skill03",
+        "Name": "戍卫气场",
+        "Desc": "为自身以外的敌方目标提供屏障，屏障状态下的目标可抵抗除持续伤害外的所有伤害，受到攻击后解除。",
+        "SP": 0
+    },
+    "100402504": {
+        "Key": "Skill04",
+        "Name": "极寒瀑流",
+        "Desc": "对我方全体造成冰属性伤害。",
+        "SP": 15.0,
+        "Elem": "Ice",
+        "Threat": true
+    },
+    "100402513": {
+        "Key": "Skill04Insert",
+        "Name": "极寒瀑流",
+        "Desc": "对我方全体造成冰属性伤害。",
+        "SP": 15.0,
+        "Elem": "Ice",
+        "Threat": true
+    },
+    "100402505": {
+        "Key": "Skill05",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "100402506": {
+        "Key": "Skill07",
+        "Name": "",
+        "Desc": "",
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "100402507": {
+        "Key": "Skill08",
+        "Name": "",
+        "Desc": "",
+        "SP": 0,
+        "Elem": "Ice"
+    },
+    "100402508": {
+        "Key": "Skill12",
+        "Name": "围攻打援",
+        "Desc": "召唤【银鬃炮手】，同时锁定我方单体，使敌方全体集中攻击该目标。",
+        "SP": 0
+    },
+    "100402509": {
+        "Key": "SkillP04",
+        "Name": "钢铁意志",
+        "Desc": "当杰帕德的回合开始时，小幅提高自身的速度和攻击力，此效果可叠加。该效果在杰帕德的弱点被击破时会被清除。",
+        "SP": 15.0,
+        "Elem": "Wind"
+    },
+    "100402510": {
+        "Key": "SkillP01",
+        "Name": "同进同退",
+        "Desc": "当布洛妮娅陷入无法战斗的状态时，将立即行动，进入强化状态，提高自身的速度。此状态下，【极寒瀑流】将有小概率使受到攻击的我方目标陷入冻结状态。",
+        "SP": 15.0,
+        "Elem": "Wind",
+        "Threat": true
+    },
+    "100402511": {
+        "Key": "SkillP02",
+        "Name": "攻防得当",
+        "Desc": "杰帕德和布洛妮娅会轮流进入主攻状态和辅助状态。当处于主攻状态时，自身会解除韧性保护并正常行动。当处于辅助状态时，降低自身的速度，获得韧性保护并仅施放【围攻打援】。",
+        "SP": 15.0,
+        "Elem": "Wind"
+    },
+    "100402512": {
+        "Key": "SkillP03",
+        "Name": "攻防得当",
+        "Desc": "杰帕德和布洛妮娅会轮流进入主攻状态和辅助状态。当处于主攻状态时，自身会解除韧性保护并正常行动。当处于辅助状态时，降低自身的速度，获得韧性保护并仅施放【戍卫气场】和【围攻打援】。",
+        "SP": 0
+    },
+    "100403201": {
+        "Key": "Skill01",
+        "Name": "驭风的子弹",
+        "Desc": "对指定我方单体造成风属性伤害。",
+        "SP": 10.0,
+        "Elem": "Wind"
+    },
+    "100403202": {
+        "Key": "Skill02",
+        "Name": "作战再部署",
+        "Desc": "解除指定除布洛妮娅外的敌方单体的全部负面效果，并使该目标立即行动。",
+        "SP": 0
+    },
+    "100403203": {
+        "Key": "Skill03",
+        "Name": "增援协同",
+        "Desc": "召唤【银鬃炮手】。",
+        "SP": 0
+    },
+    "100403204": {
+        "Key": "Skill04",
+        "Name": "压制射击",
+        "Desc": "对指定我方单体造成风属性伤害，并使受到攻击的我方目标行动延后。",
+        "SP": 15.0,
+        "Elem": "Wind",
+        "Threat": true
+    },
+    "100403205": {
+        "Key": "Skill05",
+        "Name": "行军号令",
+        "Desc": "使敌方全体的速度提高。",
+        "SP": 0
+    },
+    "100403206": {
+        "Key": "SkillP04",
+        "Name": "一鼓作气",
+        "Desc": "当布洛妮娅的回合开始时，小幅提高自身的速度和攻击力，此效果可叠加。该效果在布洛妮娅被击破时会被清除。",
+        "SP": 15.0,
+        "Elem": "Wind"
+    },
+    "100403207": {
+        "Key": "SkillP01",
+        "Name": "同仇敌忾",
+        "Desc": "当杰帕德陷入无法战斗的状态时，将立即行动，进入强化状态，提高自身的速度。此状态下，布洛妮娅将会召唤更多的【银鬃炮手】。",
+        "SP": 15.0,
+        "Elem": "Wind",
+        "Threat": true
+    },
+    "100403208": {
+        "Key": "SkillP02",
+        "Name": "默契搭档",
+        "Desc": "杰帕德和布洛妮娅会轮流进入主攻状态和辅助状态。当处于主攻状态时，自身会解除韧性保护并正常行动。当处于辅助状态时，降低自身的速度，获得韧性保护并仅施放【增援协同】或【作战再部署】。",
+        "SP": 15.0,
+        "Elem": "Wind"
+    },
+    "100403209": {
+        "Key": "SkillP03",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "301201001": {
+        "Key": "Skill01",
+        "Name": "镜像认同",
+        "Desc": "变身为其他敌方单位，并复制其技能。变身后继承自身的基础属性。",
+        "SP": 0
+    },
+    "301201002": {
+        "Key": "Skill02",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "302401110": {
+        "Key": "SkillP01",
+        "Name": "堂皇的殉身",
+        "Desc": "每次使用【纯美的勇气赞歌】后，使自身造成的伤害提高，伤害提高效果可叠加。",
+        "SP": 0
+    },
+    "302401201": {
+        "Key": "Skill01",
+        "Name": "虔诚",
+        "Desc": "对指定我方单体造成物理属性伤害。",
+        "SP": 15.0,
+        "Elem": "Phys"
+    },
+    "302401202": {
+        "Key": "Skill02",
+        "Name": "渐臻虔诚",
+        "Desc": "对指定我方单体及其相邻目标造成物理属性伤害。",
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "302401203": {
+        "Key": "Skill03",
+        "Name": "枪与盾",
+        "Desc": "随机召唤【枪尖】、【盾】、【授勋】的雕塑。",
+        "SP": 0
+    },
+    "302401204": {
+        "Key": "Skill04",
+        "Name": "坚韧灵魂",
+        "Desc": "释放一个雕塑中纯美的灵魂，使被灵魂释放的雕塑技能效果增强。",
+        "SP": 0,
+        "Threat": true
+    },
+    "302401205": {
+        "Key": "Skill05",
+        "Name": "纯美的勇气赞歌",
+        "Desc": "对我方全体造成物理属性伤害。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "Threat": true
+    },
+    "302401207": {
+        "Key": "Skill07",
+        "Name": "枪与盾",
+        "Desc": "随机召唤【枪尖】、【盾】、【授勋】的雕塑。",
+        "SP": 0
+    },
+    "301101001": {
+        "Key": "Skill01",
+        "Name": "他者凝视",
+        "Desc": "对指定我方单体造成<1>量子属性伤害，并有<color style='color:#f29e38;'>100%</color>基础概率使受到攻击的我方目标行动延后<color style='color:#f29e38;'>20%</color>。",
+        "SP": 10.0,
+        "Elem": "Quantum",
+        "DMG": [
+            2.5
+        ]
+    },
+    "201302004": {
+        "Key": "Skill04",
+        "Name": "天坠",
+        "Desc": "对指定我方单体造成<1>物理伤害，如果该目标处于【强烈震荡】状态，则额外对该目标造成<2>物理伤害，同时解除该目标的【强烈震荡】状态。",
+        "SP": 20.0,
+        "Elem": "Phys",
+        "Threat": true,
+        "Status": [
+            220020302
+        ],
+        "DMG": [
+            3.0,
+            3.0
+        ]
+    },
+    "201302006": {
+        "Key": "Skill06",
+        "Name": "天坠",
+        "Desc": "对指定我方单体造成<1>物理伤害，如果该目标处于【强烈震荡】状态，则额外对该目标造成<2>物理伤害，同时解除该目标的【强烈震荡】状态。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "Status": [
+            220020302
+        ],
+        "DMG": [
+            3.0,
+            3.0
+        ]
+    },
+    "201302104": {
+        "Key": "Skill04",
+        "Name": "天坠",
+        "Desc": "对指定我方单体造成<1>物理伤害，如果该目标处于【强烈震荡】状态，则额外对该目标造成<2>物理伤害，同时解除该目标的【强烈震荡】状态。",
+        "SP": 20.0,
+        "Elem": "Phys",
+        "Threat": true,
+        "Status": [
+            220020302
+        ],
+        "DMG": [
+            2.8,
+            2.8
+        ]
+    },
+    "201302107": {
+        "Key": "Skill06",
+        "Name": "天坠",
+        "Desc": "对指定我方单体造成<1>物理伤害，如果该目标处于【强烈震荡】状态，则额外对该目标造成<2>物理伤害，同时解除该目标的【强烈震荡】状态。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "Status": [
+            220020302
+        ],
+        "DMG": [
+            2.8,
+            2.8
+        ]
+    },
+    "803301201": {
+        "Key": "Skill01",
+        "Name": "处分",
+        "Desc": "对指定我方单体造成少量物理属性伤害。",
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "803301203": {
+        "Key": "Skill02",
+        "Name": "培训中…",
+        "Desc": "进入蓄力状态，下次行动施放【企业文化冲击】。",
+        "SP": 0
+    },
+    "803301204": {
+        "Key": "Skill03",
+        "Name": "企业文化冲击",
+        "Desc": "对我方全体造成物理属性伤害。",
+        "SP": 20.0,
+        "Elem": "Phys",
+        "Threat": true
+    },
+    "803301205": {
+        "Key": "Skill04",
+        "Name": " 720 度考核",
+        "Desc": "夺取所有【基层员工•外勤】和【基层员工•安保】的【绩效点】。",
+        "SP": 0
+    },
+    "803301206": {
+        "Key": "Skill05",
+        "Name": "团建",
+        "Desc": "召唤【基层员工•外勤】或【基层员工•安保】，并使所有【基层员工•外勤】和【基层员工•安保】获得1个【绩效点】。",
+        "SP": 0
+    },
+    "803301202": {
+        "Key": "Skill06",
+        "Name": "降本增效",
+        "Desc": "对指定我方单体造成物理属性伤害。",
+        "SP": 15.0,
+        "Elem": "Phys"
+    },
+    "803301207": {
+        "Key": "PassiveSkillInitiate",
+        "Name": "提升业绩",
+        "Desc": "每次施放攻击后获得1个【绩效点】。【绩效点】可在自身弱点被击破或受到致命攻击时被攻击者夺取。",
+        "SP": 0
+    },
+    "202401316": {
+        "Key": "Skill16",
+        "Name": "拱卫",
+        "Desc": "当场上存在4个建木枝梢时，丰饶玄鹿的韧性无法受到伤害，消灭任意建木枝梢可解除该效果。",
+        "SP": 0
+    },
+    "200402310": {
+        "Key": "Skill02_Extra",
+        "Name": "燕归来",
+        "Desc": "召唤4把【飞剑（幻象）】，获得【剑阵】效果，提高自身速度。【飞剑（幻象）】初始弱点隐藏，受到正确属性的攻击后，解除该效果。【飞剑（幻象）】只有在弱点击破后才能被消灭，并将其弱点转移给随机的剩余飞剑。所有【飞剑（幻象）】的弱点均被击破后解除【剑阵】。",
+        "SP": 10.0,
+        "Threat": true
+    },
+    "301203101": {
+        "Key": "Skill01",
+        "Name": "惊醒无声的长眠",
+        "Desc": "当永眠墓碣受到致命攻击后，对应我方目标将解除<color style='color:#f29e38;'>【梦死】</color>状态，回复<color style='color:#f29e38;'>50%生命值上限</color>和全部能量。",
+        "SP": 0
+    },
+    "301203102": {
+        "Key": "Skill02",
+        "Name": "一切逝去的时间",
+        "Desc": "永眠墓碣不会进行行动。",
+        "SP": 0
+    },
+    "301203103": {
+        "Key": "SkillP01",
+        "Name": "化入永恒的延续",
+        "Desc": "永眠墓碣拥有<color style='color:#f29e38;'>5</color>格生命值。每次受到攻击，弱点击破和持续伤害时，都会直接扣除自身1格生命值。",
+        "SP": 0
+    },
+    "301203104": {
+        "Key": "PassiveSkill03",
+        "Name": "test_巨掌之间",
+        "Desc": "dev_不显示。",
+        "SP": 0,
+        "Elem": "Phys"
+    },
+    "300301101": {
+        "Key": "Skill01",
+        "Name": "大力颠勺",
+        "Desc": "对我方单体造成<1>火属性伤害。",
+        "SP": 10.0,
+        "Elem": "Fire",
+        "DMG": [
+            3.0
+        ]
+    },
+    "300301102": {
+        "Key": "Skill02",
+        "Name": "旋风翻锅",
+        "Desc": "对我方单体造成<1>火属性伤害，对相邻目标造成<2>火属性伤害。",
+        "SP": 10.0,
+        "Elem": "Fire",
+        "DMG": [
+            2.5,
+            2
+        ]
+    },
+    "300301103": {
+        "Key": "Skill06",
+        "Name": "点燃炉灶",
+        "Desc": "进入蓄力状态。下次行动释放<color style='color:#f29e38;'>【烈焰爆炒】</color>，并清除所有【炉灶过热】和【炉灶加温】层数。",
+        "SP": 0,
+        "Elem": "Fire"
+    },
+    "300301104": {
+        "Key": "Skill04",
+        "Name": "烈焰爆炒",
+        "Desc": "对我方全体造成<1>火属性伤害。",
+        "SP": 20.0,
+        "Elem": "Fire",
+        "Threat": true,
+        "DMG": [
+            5
+        ]
+    },
+    "300301105": {
+        "Key": "Skill05",
+        "Name": "厨房事故",
+        "Desc": "进入蓄力状态后，当【炉灶过热】叠加至<color style='color:#f29e38;'>9</color>层时，对自身造成<color style='color:#f29e38;'>33%生命值上限</color>的火属性伤害和<color style='color:#f29e38;'>10</color>点火属性削韧，对敌方其他目标造成<color style='color:#f29e38;'>2.5%生命值上限</color>的火属性伤害和<color style='color:#f29e38;'>3</color>点火属性削韧，并使自身防御降低<color style='color:#f29e38;'>10%</color>，为我方全部角色恢复<color style='color:#f29e38;'>50%</color>能量。<br>清除所有【炉灶加温】和【炉灶过热】层数。",
+        "SP": 0,
+        "Elem": "Fire"
+    },
+    "300301106": {
+        "Key": "Skill03",
+        "Name": "火炼佳肴",
+        "Desc": "当<color style='color:#f29e38;'>【炉灶加温】</color>叠加至<color style='color:#f29e38;'>3</color>层时立即行动，并释放<color style='color:#f29e38;'>【点燃炉灶】</color>。",
+        "SP": 0
+    },
+    "300301107": {
+        "Key": "PassiveSkillInitiate",
+        "Name": "猛火炉灶",
+        "Desc": "在<b>【文火】</b>期间，受到攻击或持续伤害会积累1层【炉灶加温】。积累<color style='color:#f29e38;'>3</color>层后进入<b>【急火】</b>状态，期间受到攻击或持续伤害会积累1层【炉灶过热】，攻击命中角色时有<color style='color:#f29e38;'>50%</color>基础概率使目标减速<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 0,
+        "Status": [
+            230030104,
+            230030105
+        ]
+    },
+    "300302103": {
+        "Key": "Skill03",
+        "Name": "苏乐达派对",
+        "Desc": "召唤2只【气泡锂犬】。",
+        "SP": 0
+    },
+    "300302104": {
+        "Key": "Skill04",
+        "Name": "酬宾喷泉",
+        "Desc": "进入蓄力状态，获得<color style='color:#f29e38;'>韧性保护</color>，下次行动时施放<color style='color:#f29e38;'>【无限畅饮】</color>。<br>将随机我方单体标记为<color style='color:#f29e38;'>监视目标</color>。每当我方目标施放战技时，会转为标记最新施放战技的目标。此状态下，自身受到攻击时行动将会提前<color style='color:#f29e38;'>10%%</color>。",
+        "SP": 0
+    },
+    "302402101": {
+        "Key": "Skill01",
+        "Name": "BHF-轰炎推进",
+        "Desc": "对指定我方单体造成<1>火属性伤害。",
+        "SP": 10.0,
+        "Elem": "Fire",
+        "DMG": [
+            2
+        ]
+    },
+    "302402102": {
+        "Key": "Skill02",
+        "Name": "BHF-天火",
+        "Desc": "对指定我方单体造成<1>火属性伤害，对其相邻目标造成<2>火属性伤害。",
+        "SP": 10.0,
+        "Elem": "Fire",
+        "DMG": [
+            2.4,
+            1.2
+        ]
+    },
+    "302402103": {
+        "Key": "Skill03",
+        "Name": "BBHF-焦土作战",
+        "Desc": "对我方全体造成<1>火属性伤害。",
+        "SP": 15.0,
+        "Elem": "Fire",
+        "DMG": [
+            1.8
+        ]
+    },
+    "302402104": {
+        "Key": "Skill04",
+        "Name": "DHGDR-次级燃烧",
+        "Desc": "初始弱点无效。消耗<color style='color:#f29e38;'>3%生命值上限</color>，进入<color style='color:#f29e38;'>【次级燃烧】</color>状态：解除<color style='color:#f29e38;'>【弱点无效】</color>效果，且速度提升<color style='color:#f29e38;'>50%</color>。此后所有攻击都会消耗自身<color style='color:#f29e38;'>1%生命值上限</color>。",
+        "SP": 0,
+        "Threat": true
+    },
+    "302402105": {
+        "Key": "Skill05",
+        "Name": "DHGDR-超新星过载",
+        "Desc": "对我方全体造成<1>火属性伤害，并有<color style='color:#f29e38;'>120%</color>基础概率使受到攻击的我方目标陷入<b>灼烧</b>状态。<br>灼烧持续伤害：<2>火属性伤害，持续<color style='color:#f29e38;'>3</color>回合。",
+        "SP": 20.0,
+        "Elem": "Fire",
+        "Threat": true,
+        "DMG": [
+            3,
+            1.2
+        ]
+    },
+    "302402106": {
+        "Key": "PassiveSkill01",
+        "Name": "SGE-熔火垓心",
+        "Desc": "进入【次级燃烧】后使场地燃烧，同时燃烧我方的战技点。<br>我方消耗任意数目的燃烧战技点<color style='color:#f29e38;'>（不包括替代战技点）</color>时，会受到固定的<1>火属性伤害，但会额外造成等同于原伤害数值的<color style='color:#f29e38;'>30%</color>的火属性伤害。<br>我方接受其他角色<color style='color:#f29e38;'>（不包括自身和光锥）</color>的治疗时，治疗加成降低<color style='color:#f29e38;'>70%</color>。",
+        "SP": 0,
+        "DMG": [
+            2.4
+        ]
+    },
+    "202401401": {
+        "Key": "Skill01",
+        "Name": "衔枝 · 肃风",
+        "Desc": "召唤建木枝梢【肃风之杪】。",
+        "SP": 0
+    },
+    "202401402": {
+        "Key": "Skill02",
+        "Name": "衔枝 · 缃叶",
+        "Desc": "召唤建木枝梢【缃叶之杪】。",
+        "SP": 0
+    },
+    "202401403": {
+        "Key": "Skill03",
+        "Name": "衔枝 · 繁花",
+        "Desc": "召唤建木枝梢【繁花之杪】。",
+        "SP": 0
+    },
+    "202401404": {
+        "Key": "Skill04",
+        "Name": "衔枝 · 嘉实",
+        "Desc": "召唤建木枝梢【嘉实之杪】。",
+        "SP": 0
+    },
+    "202401405": {
+        "Key": "Skill05",
+        "Name": "呦鸣",
+        "Desc": "对指定我方单体造成雷属性伤害。",
+        "SP": 20.0,
+        "Elem": "Elec"
+    },
+    "202401406": {
+        "Key": "Skill06",
+        "Name": "绾风",
+        "Desc": "对我方全体造成少量风属性伤害。",
+        "SP": 15.0,
+        "Elem": "Wind"
+    },
+    "202401407": {
+        "Key": "Skill07",
+        "Name": "蕉覆",
+        "Desc": "提高防御力，且使自身韧性无法受到伤害。",
+        "SP": 0
+    },
+    "202401408": {
+        "Key": "Skill08",
+        "Name": "斑龙触",
+        "Desc": "当场上存在2个【嘉实】时立即施放该技能，对我方全体造成雷属性伤害。场上【建木枝梢】数量越多，造成的伤害越高。施放技能后，清除场上所有的【建木枝梢】。",
+        "SP": 20.0,
+        "Elem": "Elec",
+        "Threat": true
+    },
+    "202401409": {
+        "Key": "Skill09",
+        "Name": "回生",
+        "Desc": "",
+        "SP": 0
+    },
+    "300205101": {
+        "Key": "Skill01",
+        "Name": "桶的锤炼",
+        "Desc": "对我方单体造成<1>物理属性伤害。",
+        "SP": 0,
+        "Elem": "Phys",
+        "DMG": [
+            3
+        ]
+    },
+    "300205102": {
+        "Key": "Skill02",
+        "Name": "桶的磨砺",
+        "Desc": "使自身的攻击力提高<color style='color:#f29e38;'>2<sup>n</sup>×30%</color>。该效果可叠加，且不可被驱散。",
+        "SP": 0
+    },
+    "300205103": {
+        "Key": "SkillP01",
+        "Name": "桶的信条",
+        "Desc": "当自身被弱点击破时将会击破所有除【王下一桶（投影）】外的敌方目标的弱点，同时自身离开战斗。当受到我方攻击时，将会被添加此次攻击对应的属性弱点。",
+        "SP": 0
+    },
+    "301402101": {
+        "Key": "Skill01",
+        "Name": "葬仪之吻",
+        "Desc": "对指定我方单体造成<1>物理属性伤害。",
+        "SP": 15.0,
+        "Elem": "Phys",
+        "DMG": [
+            4
+        ]
+    },
+    "301402102": {
+        "Key": "Skill02",
+        "Name": "沦没黑雨",
+        "Desc": "对我方全体造成<1>物理属性伤害。",
+        "SP": 10.0,
+        "Elem": "Phys",
+        "DMG": [
+            2.5
+        ]
+    },
+    "301402103": {
+        "Key": "Skill03",
+        "Name": "锋锐悼词",
+        "Desc": "使自身造成的伤害提升<color style='color:#f29e38;'>100%</color>，持续1回合，陷入弱点击破状态后解除。",
+        "SP": 0,
+        "Status": [
+            230140207
+        ]
+    },
+    "301402104": {
+        "Key": "Skill04",
+        "Name": "光明消歇",
+        "Desc": "进入<color style='color:#f29e38;'>【白日西沉】</color>状态。每当我方施放普攻、战技、终结技时叠加1层，当【白日西沉】叠加至3层时，立即对上一个行动的我方施放<color style='color:#f29e38;'>【已在黄昏失色】</color>。施放过一次【已在黄昏失色】或被弱点击破后解除该状态。",
+        "SP": 0,
+        "Threat": true,
+        "Status": [
+            230140204
+        ]
+    },
+    "301402105": {
+        "Key": "Skill05",
+        "Name": "已在黄昏失色",
+        "Desc": "立即对上一名施放普攻、战技、终结技的我方目标发动致命攻击，使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。",
+        "SP": 0,
+        "Threat": true,
+        "Status": [
+            230140201
+        ]
+    },
+    "301402106": {
+        "Key": "Skill06",
+        "Name": "步入良夜",
+        "Desc": "恢复我方全体全部能量，并进入<color style='color:#f29e38;'>【夜幕降临】</color>状态：锁定2名最先行动的我方目标。下次行动时使用<color style='color:#f29e38;'>【如水逝于水中】</color>。",
+        "SP": 0,
+        "Threat": true,
+        "Status": [
+            230140202
+        ]
+    },
+    "301402107": {
+        "Key": "Skill07",
+        "Name": "如水逝于水中",
+        "Desc": "（第二阶段开启时立刻强制施放一次）<br>立即对所有被锁定的我方目标发动致命攻击，使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。如果没有被锁定的目标，则随机对2名我方目标发动致命攻击并使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。",
+        "SP": 0,
+        "Threat": true
+    },
+    "301402108": {
+        "Key": "Skill08",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "301402109": {
+        "Key": "PassiveSkill02",
+        "Name": "无从凭吊的荒场",
+        "Desc": "每当我方目标陷入<color style='color:#f29e38;'>【梦死】</color>状态时，召唤一个对应的<color style='color:#f29e38;'>【永眠墓碣】</color>；当我方全体陷入【梦死】状态或无法战斗状态时，战斗失败。",
+        "SP": 0
+    },
+    "301301001": {
+        "Key": "Skill01",
+        "Name": "怀恨礼",
+        "Desc": "对指定我方单体造成 <1> 量子属性伤害。并使自身获得1层【无明火】。",
+        "SP": 10.0,
+        "Elem": "Quantum",
+        "DMG": [
+            3
+        ],
+        "Status": [
+            230130101
+        ]
+    },
+    "301301002": {
+        "Key": "Skill04",
+        "Name": "怒叱如雷轰鸣",
+        "Desc": "自身获得3层【无明火】。",
+        "SP": 0,
+        "Status": [
+            230130101
+        ]
+    },
+    "301301003": {
+        "Key": "Skill06",
+        "Name": "宿怨如浪翻涌",
+        "Desc": "对我方全体造成 <1> 量子属性伤害。并使自身获得1层【无明火】。",
+        "SP": 10.0,
+        "Elem": "Quantum",
+        "DMG": [
+            2
+        ],
+        "Status": [
+            230130101
+        ]
+    },
+    "301301004": {
+        "Key": "Skill07",
+        "Name": "痛恶如刺剔骨",
+        "Desc": "连续 <color style='color:#f29e38;'>3</color> 次对我方随机单体造成 <1> 量子属性伤害。每层【无明火】额外造成 <color style='color:#f29e38;'>1</color> 段伤害。",
+        "SP": 5.0,
+        "Elem": "Quantum",
+        "Threat": true,
+        "DMG": [
+            2.2
+        ],
+        "Status": [
+            230130101
+        ]
+    },
+    "301301005": {
+        "Key": "SkillP01",
+        "Name": "癔症身壳",
+        "Desc": "弱点未被击破时具有<b>【守备】</b>状态：受到的伤害降低 <color style='color:#f29e38;'>60%</color>。被击破时行动额外延后 <color style='color:#f29e38;'>75%</color>，被击破后受到的伤害提高 <color style='color:#f29e38;'>50%</color>。",
+        "SP": 0
+    },
+    "301301006": {
+        "Key": "Skill06",
+        "Name": "dev_AOE",
+        "Desc": "dev_对我方全体造成火属性伤害。并使自身获得1层【dev_成长】",
+        "SP": 10.0,
+        "Elem": "Fire"
+    },
+    "301301007": {
+        "Key": "Skill07",
+        "Name": "dev_弹射攻击",
+        "Desc": "dev_连续对我方随机单体造成火属性伤害。每层【dev_成长】额外造成1段伤害",
+        "SP": 5.0,
+        "Elem": "Fire",
+        "Threat": true
+    },
+    "301301008": {
+        "Key": "SkillP01",
+        "Name": "dev_超级护甲",
+        "Desc": "dev_未击破时受到的伤害降低，击破时行动额外延后，击破后受到的伤害提高。",
+        "SP": 0
+    },
+    "102302201": {
+        "Key": "Skill01",
+        "Name": "dev_吞噬衍生物",
+        "Desc": "dev_吞噬衍生物，若失败减防御",
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "302402007": {
+        "Key": "Skill06",
+        "Name": "SGE-熔火引擎",
+        "Desc": "萨姆在【次级燃烧】下拥有<color style='color:#f29e38;'>5</color>点【熔火能量】。当萨姆被我方消耗了燃烧的战技点<color style='color:#f29e38;'>（包括替代战技点）</color>的攻击命中时，会依据消耗战技点的数目，扣除熔火能量。<br>【熔火能量】耗尽时解除【次级燃烧】，并恢复我方所有战技点。此时萨姆自动被弱点击破，且受到的伤害提高<color style='color:#f29e38;'>50%</color>，持续至韧性恢复。",
+        "SP": 0,
+        "Status": [
+            230240201,
+            230240202,
+            230240203,
+            230240204
+        ]
+    },
+    "302402107": {
+        "Key": "Skill06",
+        "Name": "SGE-熔火引擎",
+        "Desc": "萨姆在【次级燃烧】下拥有<color style='color:#f29e38;'>5</color>点【熔火能量】。当萨姆被我方消耗了燃烧的战技点<color style='color:#f29e38;'>（包括替代战技点）</color>的攻击命中时，会依据消耗战技点的数目，扣除熔火能量。<br>【熔火能量】耗尽时解除【次级燃烧】，并恢复我方所有战技点。此时萨姆自动被弱点击破，且受到的伤害提高<color style='color:#f29e38;'>50%</color>，持续至韧性恢复。",
+        "SP": 0,
+        "Status": [
+            230240201,
+            230240202,
+            230240203,
+            230240204
+        ]
+    },
+    "100301401": {
+        "Key": "Skill01",
+        "Name": "突击",
+        "Desc": "对指定我方单体造成物理属性伤害。",
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "100301402": {
+        "Key": "Skill06",
+        "Name": "穿刺",
+        "Desc": "对指定我方单体造成大量物理属性伤害。",
+        "SP": 20.0,
+        "Elem": "Phys"
+    },
+    "100301403": {
+        "Key": "Skill07",
+        "Name": "盾反",
+        "Desc": "进入反击状态，在受到我方单体攻击后获得1个额外回合，对该目标造成物理属性伤害。",
+        "SP": 0
+    },
+    "100301404": {
+        "Key": "Skill08",
+        "Name": "增援",
+        "Desc": "召唤【银鬃近卫】或【银鬃射手】。",
+        "SP": 0
+    },
+    "100301405": {
+        "Key": "Skill09",
+        "Name": "鼓劲",
+        "Desc": "使敌方除【银鬃尉官（错误）】外的目标攻击力提高并立即行动。",
+        "SP": 0,
+        "Threat": true
+    },
+    "803301301": {
+        "Key": "Skill01",
+        "Name": "dev_处分",
+        "Desc": "dev_对指定我方单体造成少量物理属性伤害。",
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "803301303": {
+        "Key": "Skill02",
+        "Name": "dev_培训中…",
+        "Desc": "dev_进入蓄力状态，下次行动施放【企业文化冲击】。",
+        "SP": 0
+    },
+    "803301304": {
+        "Key": "Skill03",
+        "Name": "dev_企业文化冲击",
+        "Desc": "dev_对我方全体造成物理属性伤害。",
+        "SP": 20.0,
+        "Elem": "Phys",
+        "Threat": true
+    },
+    "803301305": {
+        "Key": "Skill04",
+        "Name": "dev_ 720 度考核",
+        "Desc": "dev_夺取所有【基层员工•外勤】和【基层员工•安保】的【绩效点】。",
+        "SP": 0
+    },
+    "803301306": {
+        "Key": "Skill05",
+        "Name": "dev_末位淘汰",
+        "Desc": "dev_消灭1名没有【绩效点】的【基层员工•外勤】或【基层员工•安保】，并召唤至多4名【基层员工•外勤】或【基层员工•安保】，同时使场上所有【基层员工•外勤】和【基层员工•安保】获得1个【绩效点】。",
+        "SP": 0
+    },
+    "803301302": {
+        "Key": "Skill06",
+        "Name": "dev_降本增效",
+        "Desc": "dev_对指定我方单体造成物理属性伤害。",
+        "SP": 15.0,
+        "Elem": "Phys"
+    },
+    "803301307": {
+        "Key": "Skill07",
+        "Name": "dev_末位淘汰",
+        "Desc": "dev_消灭1名没有【绩效点】的【基层员工•外勤】或【基层员工•安保】，并召唤至多4名【基层员工•外勤】或【基层员工•安保】，同时使场上所有【基层员工•外勤】和【基层员工•安保】获得1个【绩效点】。",
+        "SP": 0
+    },
+    "803301308": {
+        "Key": "PassiveSkillInitiate",
+        "Name": "dev_提升业绩",
+        "Desc": "dev_每次施放攻击后获得1个【绩效点】。【绩效点】可在自身弱点被击破或受到致命攻击时被攻击者夺取。",
+        "SP": 0
+    },
+    "802401301": {
+        "Key": "Skill01",
+        "Name": "作战时刻",
+        "Desc": "对指定我方单体造成少量风属性伤害，并大概率使受到攻击的我方目标陷入2层风化状态。",
+        "SP": 10.0,
+        "Elem": "Wind"
+    },
+    "802401310": {
+        "Key": "Skill08",
+        "Name": "",
+        "Desc": "",
+        "SP": 10.0,
+        "Elem": "Wind"
+    },
+    "802401302": {
+        "Key": "Skill02",
+        "Name": "战争兵器",
+        "Desc": "对指定我方单体造成少量风属性伤害。如受到攻击的目标正处于风化状态，则直接造成1次风化伤害。",
+        "SP": 20.0,
+        "Elem": "Wind"
+    },
+    "802401303": {
+        "Key": "Skill03",
+        "Name": "飓风",
+        "Desc": "对我方全体造成风属性伤害，并大概率使受到攻击的我方目标陷入风化状态。",
+        "SP": 10.0,
+        "Elem": "Wind"
+    },
+    "802401304": {
+        "Key": "Skill04",
+        "Name": "繁殖",
+        "Desc": "繁殖真蛰虫群。",
+        "SP": 0
+    },
+    "802401311": {
+        "Key": "Skill10",
+        "Name": "繁殖",
+        "Desc": "繁殖真蛰虫群。",
+        "SP": 0
+    },
+    "802401305": {
+        "Key": "Skill05",
+        "Name": "指挥准备",
+        "Desc": "进入蓄力状态，下次行动施放【虫群突袭】。",
+        "SP": 0
+    },
+    "802401306": {
+        "Key": "Skill06",
+        "Name": "虫群突袭",
+        "Desc": "解除场上所有真蛰虫群的控制类负面状态与弱点击破状态，并对我方目标造成风属性伤害，使我方目标每次受到攻击时大概率陷入1层风化状态。",
+        "SP": 10.0,
+        "Elem": "Wind",
+        "Threat": true
+    },
+    "802401307": {
+        "Key": "Skill07",
+        "Name": "虫群突袭",
+        "Desc": "解除场上所有真蛰虫群的控制类负面状态与弱点击破状态，并对我方目标造成风属性伤害，使我方目标每次受到攻击时大概率陷入1层风化状态。",
+        "SP": 10.0,
+        "Elem": "Wind"
+    },
+    "802401308": {
+        "Key": "PassiveSkill01",
+        "Name": "传衍信息素",
+        "Desc": "场上每繁殖出1个真蛰虫群，所有真蛰虫群获得1层伤害提高。场上仅能有1个【传衍信息素】效果生效。",
+        "SP": 0
+    },
+    "802401309": {
+        "Key": "PassiveSkill02",
+        "Name": "蛰亡语",
+        "Desc": "受到致命攻击时，对敌方全体造成风属性伤害，并大概率使受到攻击的敌方目标受到的伤害小幅提高。",
+        "SP": 0,
+        "Elem": "Wind"
+    },
+    "300302001": {
+        "Key": "Skill01",
+        "Name": "限量赠饮",
+        "Desc": "对指定我方单体造成<1>冰属性伤害，如果目标身上拥有护盾，则造成伤害后还会对自身造成<color style='color:#f29e38;'>8%生命值上限</color>的冰属性伤害，并有<color style='color:#f29e38;'>150%</color>基础概率使自身防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            3.8
+        ]
+    },
+    "300302002": {
+        "Key": "Skill02",
+        "Name": "无限畅饮",
+        "Desc": "随机对我方单体造成4次<1>冰属性伤害。每次造成伤害后，如果目标身上拥有护盾，则还会对自身造成<color style='color:#f29e38;'>8%生命值上限</color>的冰属性伤害，并有<color style='color:#f29e38;'>150%</color>基础概率使自身防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "Threat": true,
+        "DMG": [
+            3.8
+        ]
+    },
+    "300302101": {
+        "Key": "Skill01",
+        "Name": "限量赠饮",
+        "Desc": "对指定我方单体造成<1>冰属性伤害，并使其行动提前<color style='color:#f29e38;'>50%</color>。<br>如果目标身上拥有护盾，则造成伤害后还会对自身造成<color style='color:#f29e38;'>20%生命值上限</color>的冰属性伤害，并有<color style='color:#f29e38;'>150%</color>基础概率使自身防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "DMG": [
+            2
+        ]
+    },
+    "300302102": {
+        "Key": "Skill02",
+        "Name": "无限畅饮",
+        "Desc": "对被监视的我方单体造成<1>冰属性伤害（分4次伤害），并使其行动提前<color style='color:#f29e38;'>50%</color>。<br>每次造成伤害后，如果目标身上拥有护盾，则会对自身造成<color style='color:#f29e38;'>20%生命值上限</color>的冰属性伤害，并对随机敌方造成<color style='color:#f29e38;'>1%生命值上限</color>的冰属性伤害，并有<color style='color:#f29e38;'>150%</color>基础概率使自身防御力降低<color style='color:#f29e38;'>20%</color>，持续<color style='color:#f29e38;'>2</color>回合。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "Threat": true,
+        "DMG": [
+            8
+        ]
+    },
+    "803401009": {
+        "Key": "PassiveSkillInitiate",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "301402201": {
+        "Key": "Skill01",
+        "Name": "葬仪之吻",
+        "Desc": "对我方单体造成物理属性伤害。",
+        "SP": 15.0,
+        "Elem": "Phys"
+    },
+    "301402202": {
+        "Key": "Skill02",
+        "Name": "沦没黑雨",
+        "Desc": "对我方全体造成物理属性伤害。",
+        "SP": 10.0,
+        "Elem": "Phys"
+    },
+    "301402203": {
+        "Key": "Skill03",
+        "Name": "彻心悼词",
+        "Desc": "极大提升自身造成的伤害，持续1回合，陷入弱点击破状态后解除。每次释放时获得1层伤害提高，并使后续召唤的【永眠墓碣】生命值增加1格。",
+        "SP": 0
+    },
+    "301402204": {
+        "Key": "Skill04",
+        "Name": "光明消歇",
+        "Desc": "进入【白日西沉】状态。每当有角色主动行动时叠加1层，当叠加3层时，立即对上一个行动的角色施放【已在黄昏失色】。施放过一次【已在黄昏失色】或被弱点击破后解除该状态。",
+        "SP": 0,
+        "Threat": true
+    },
+    "301402205": {
+        "Key": "Skill05",
+        "Name": "已在黄昏失色",
+        "Desc": "立即对上一名行动的角色造成致命伤害。",
+        "SP": 0,
+        "Threat": true
+    },
+    "301402206": {
+        "Key": "Skill06",
+        "Name": "步入良夜",
+        "Desc": "进入【夜幕降临】状态并获得【弱点无效】效果，期间会锁定我方优先行动的2名角色。下次行动时使用【如水逝于水中】。",
+        "SP": 0,
+        "Threat": true
+    },
+    "301402207": {
+        "Key": "Skill07",
+        "Name": "如水逝于水中",
+        "Desc": "立即对所有锁定的我方角色造成致命伤害。如果没有被锁定的角色，则随机锁定两名我方角色。",
+        "SP": 0,
+        "Threat": true
+    },
+    "301402208": {
+        "Key": "Skill08",
+        "Name": "",
+        "Desc": "",
+        "SP": 0
+    },
+    "301402209": {
+        "Key": "PassiveSkill02",
+        "Name": "无从凭吊的荒场",
+        "Desc": "每当我方目标陷入【梦死】状态时，召唤一个对应的【永眠墓碣】；当我方全体陷入【梦死】状态或无法战斗状态时，战斗失败。",
+        "SP": 0
+    },
+    "300301201": {
+        "Key": "Skill01",
+        "Name": "大力颠勺",
+        "Desc": "对我方单体造成火属性伤害。",
+        "SP": 10.0,
+        "Elem": "Fire"
+    },
+    "300301202": {
+        "Key": "Skill02",
+        "Name": "旋风翻锅",
+        "Desc": "对我方单体及相邻目标造成少量火属性伤害。",
+        "SP": 10.0,
+        "Elem": "Fire"
+    },
+    "300301203": {
+        "Key": "Skill06",
+        "Name": "引爆炉灶",
+        "Desc": "进入蓄力状态，速度提高，在【炉灶加温】叠加至一定层数前，每次行动都会释放【烈焰爆炒】。",
+        "SP": 0,
+        "Elem": "Fire"
+    },
+    "300301204": {
+        "Key": "Skill04",
+        "Name": "烈焰爆炒",
+        "Desc": "对我方全体造成大量火属性伤害。",
+        "SP": 20.0,
+        "Elem": "Fire",
+        "Threat": true
+    },
+    "300301205": {
+        "Key": "Skill05",
+        "Name": "厨房事故",
+        "Desc": "进入蓄力状态后，当【炉灶加温】叠加至一定层数时，立即对敌方全体目标造成大量火属性伤害，并使自身防御力降低，同时清除所有【炉灶加温】层数。",
+        "SP": 0,
+        "Elem": "Fire"
+    },
+    "300301206": {
+        "Key": "Skill03",
+        "Name": "火炼佳肴",
+        "Desc": "不处于蓄力状态时，当【炉灶加温】叠加一定层数时立即行动，并释放【引爆炉灶】。",
+        "SP": 0
+    },
+    "300301207": {
+        "Key": "PassiveSkillInitiate",
+        "Name": "猛火炉灶",
+        "Desc": "自身在攻击时有概率对目标施加减速状态。当自身受到攻击或持续伤害时，叠加一层【炉灶加温】。",
+        "SP": 0
+    },
+    "300302201": {
+        "Key": "Skill01",
+        "Name": "不限量赠饮",
+        "Desc": "对指定我方单体造成冰属性伤害，有小概率使受到攻击且没有护盾的目标陷入冻结状态，如果目标身上拥有护盾，则造成伤害后还会对自身造成冰属性伤害，并大概率使自身防御力降低。",
+        "SP": 10.0,
+        "Elem": "Ice"
+    },
+    "300302202": {
+        "Key": "Skill02",
+        "Name": "疯狂畅饮",
+        "Desc": "对我方随机单体造成4次冰属性伤害，有大概率使受到攻击且没有护盾的目标陷入冻结状态，如果目标身上拥有护盾，则造成伤害后还会对自身造成冰属性伤害，并大概率使自身防御力降低。",
+        "SP": 10.0,
+        "Elem": "Ice",
+        "Threat": true
+    },
+    "300302203": {
+        "Key": "Skill03",
+        "Name": "苏乐达派对",
+        "Desc": "召唤2只【气泡锂犬】。",
+        "SP": 0
+    },
+    "300302204": {
+        "Key": "Skill04",
+        "Name": "酬宾喷泉",
+        "Desc": "进入蓄力状态，获得韧性保护，下次行动时施放【疯狂畅饮】。",
+        "SP": 0
+    },
+    "301301101": {
+        "Key": "Skill01",
+        "Name": "怀恨礼",
+        "Desc": "对指定我方单体造成 <1> 量子属性伤害。并使自身获得1层【无明火】。",
+        "SP": 10.0,
+        "Elem": "Quantum",
+        "DMG": [
+            3
+        ],
+        "Status": [
+            230130101
+        ]
+    },
+    "301301102": {
+        "Key": "Skill04",
+        "Name": "怒叱如雷轰鸣",
+        "Desc": "自身获得3层【无明火】。",
+        "SP": 0,
+        "Status": [
+            230130101
+        ]
+    },
+    "301301103": {
+        "Key": "Skill06",
+        "Name": "宿怨如浪翻涌",
+        "Desc": "对我方全体造成 <1> 量子属性伤害。并使自身获得1层【无明火】。",
+        "SP": 10.0,
+        "Elem": "Quantum",
+        "DMG": [
+            2
+        ],
+        "Status": [
+            230130101
+        ]
+    },
+    "301301104": {
+        "Key": "Skill07",
+        "Name": "痛恶如刺剔骨",
+        "Desc": "连续 <color style='color:#f29e38;'>3</color> 次对我方随机单体造成 <1> 量子属性伤害。每层【无明火】额外造成 <color style='color:#f29e38;'>1</color> 段伤害。",
+        "SP": 5.0,
+        "Elem": "Quantum",
+        "Threat": true,
+        "DMG": [
+            2.2
+        ],
+        "Status": [
+            230130101
+        ]
+    },
+    "301301105": {
+        "Key": "SkillP01",
+        "Name": "癔症身壳",
+        "Desc": "弱点未被击破时具有<b>【守备】</b>状态：受到的伤害降低 <color style='color:#f29e38;'>30%</color>。被击破时行动额外延后 <color style='color:#f29e38;'>75%</color>，被击破后受到的伤害提高 <color style='color:#f29e38;'>50%</color>。",
+        "SP": 0
+    },
+    "104201": {
+        "Name": "云来剑法",
+        "Desc": "对指定我方单体造成<1>雷属性伤害。",
+        "SP": 10.0,
+        "Elem": "Elec",
+        "DMG": [
+            2.2
+        ]
+    },
+    "104202": {
+        "Name": "云来剑法（完整）",
+        "Desc": "对指定我方单体造成<1>雷属性伤害。",
+        "SP": 15.0,
+        "Elem": "Elec",
+        "DMG": [
+            4.3
+        ]
+    },
+    "104203": {
+        "Name": "雷暴连斩",
+        "Desc": "对指定我方单体造成<1>雷属性伤害，对相邻目标造成<2>雷属性伤害。<br>释放后，刻晴的下一次行动延后<color style='color:#f29e38;'>25%</color>。",
+        "SP": 15.0,
+        "Elem": "Elec",
+        "DMG": [
+            3.5,
+            2.5
+        ]
+    },
+    "104204": {
+        "Name": "玉衡之贵",
+        "Desc": "对指定我方单体造成<1>雷属性伤害，并进入<color style='color:#f29e38;'>【雷雳寰宇】</color>状态。<br>在【雷雳寰宇】状态下，每释放一次<color style='color:#f29e38;'>【雷暴连斩】</color>，都会对所有目标额外释放一次剑击，造成<2>雷属性伤害。<br>此状态下刻晴获得原韧性<color style='color:#f29e38;'>50%</color>的替代韧性条，击破此韧性条后，刻晴不会被弱点击破，但是会退出此状态并流失<color style='color:#f29e38;'>13%生命值上限</color>。",
+        "SP": 10.0,
+        "Elem": "Elec",
+        "DMG": [
+            3.0,
+            0.55
+        ]
+    },
+    "104205": {
+        "Name": "登楼",
+        "Desc": "每释放1次<color style='color:#f29e38;'>【云来剑法】</color>或召唤一枚<color style='color:#f29e38;'>【雷楔】</color>，刻晴和雷楔造成的伤害提升<color style='color:#f29e38;'>2%</color>。至多叠加99层，不可解除。",
+        "Elem": "Elec"
+    },
+    "104206": {
+        "Name": "星斗归位",
+        "Desc": "对指定我方单体造成<1>雷属性伤害，并召唤2枚<color style='color:#f29e38;'>【雷楔】</color>，初始具有<color style='color:#f29e38;'>6</color>点耐久。<br>【雷楔】受到攻击时，刻晴会立即行动，对攻击者释放一次<color style='color:#f29e38;'>【雷暴连斩】</color>，并命令该雷楔<b>监视</b>本次攻击者。",
+        "SP": 15.0,
+        "Elem": "Elec",
+        "DMG": [
+            4.2
+        ]
+    },
+    "104207": {
+        "Name": "抵天雷罚",
+        "Desc": "召唤2枚<color style='color:#f29e38;'>【雷楔】</color>，初始具有<color style='color:#f29e38;'>4</color>点耐久，并进入蓄力状态，2回合后释放<color style='color:#f29e38;'>【天街巡游】</color>。<br>",
+        "Elem": "Elec",
+        "DMG": [
+            3.0
+        ]
+    },
+    "104208": {
+        "Name": "天街巡游",
+        "Desc": "场上存在<color style='color:#f29e38;'>0</color>/<color style='color:#f29e38;'>1</color>/<color style='color:#f29e38;'>2</color>/<color style='color:#f29e38;'>3</color>/<color style='color:#f29e38;'>4</color>枚<color style='color:#f29e38;'>【雷楔】</color>时，对我方全体造成<1>/<2>/<3>/<4>/<5>雷属性伤害。<br>若释放时场上没有雷楔，则在释放完毕后自动被韧性击破，且行动额外延后<color style='color:#f29e38;'>50%</color>，击破期间受到的伤害提升<color style='color:#f29e38;'>150%</color>。<br>释放结束后，清除所有【雷楔】。",
+        "SP": 20.0,
+        "Elem": "Elec",
+        "DMG": [
+            6.0,
+            5.1,
+            4.2,
+            3.3,
+            2.4
+        ]
+    },
+    "104209": {
+        "Name": "廉贞",
+        "Desc": "第三阶段的生命值上限改为原本的<color style='color:#f29e38;'>1.66</color>倍，韧性改为原本的<color style='color:#f29e38;'>1.33</color>倍。<br>第三阶段生命值首次低于<color style='color:#f29e38;'>50%</color>时，刻晴立即行动，但速度永久降低<color style='color:#f29e38;'>10%</color>。",
+        "Elem": "Elec"
+    },
+    "104210": {
+        "Name": "移灯",
+        "Desc": "<color style='color:#f29e38;'>【雷楔】</color>会对被监视的单体造成<1>雷属性伤害。<br>雷楔不会受到伤害。在受到攻击或韧性被击破后，将流失<color style='color:#f29e38;'>1</color>点耐久。耐久耗尽时将消散。<br>雷楔消散后，刻晴会<b>锁定</b>该雷楔监视的单体。锁定视为负面效果，持续<color style='color:#f29e38;'>2</color>回合，被锁定的单体会成为刻晴和所有其他雷楔的目标。",
+        "SP": 10.0,
+        "Elem": "Elec",
+        "DMG": [
+            1.5
+        ]
+    },
+    "104211": {
+        "Name": "金紫定垂",
+        "Desc": "刻晴释放<color style='color:#f29e38;'>【天街巡游】</color>时，会对被锁定的目标额外造成<1>雷属性伤害。",
+        "SP": 5.0,
+        "Elem": "Elec",
+        "DMG": [
+            1.6
+        ]
+    },
+    "104212": {
+        "Name": "调律",
+        "Desc": "我方目标受到【雷楔】的攻击后，有<color style='color:#f29e38;'>80%</color>基础概率陷入<color style='color:#f29e38;'>【失律】</color>状态：受到的伤害提升<color style='color:#f29e38;'>0.8%</color>，攻击力降低<color style='color:#f29e38;'>1%</color>，持续<color style='color:#f29e38;'>3</color>回合。<br>若【失律】叠加至10层且没有被主动解除，目标会在下回合开始时流失<color style='color:#f29e38;'>74%生命值上限</color>，并解除【失律】状态。",
+        "Elem": "Elec"
+    }
+}

@@ -46,11 +46,11 @@ app.get('/sr', (req, res) => {
 
 app.get('/sr/monster/:id', async (req, res) => {
     let result = {};
-    let { monster = '', level = '', lang = '', eg = '', hlg = '', def = '' } = req.query;
+    let { monster = '', lv = '', lang = '', eg = '', hlg = '', def = '' } = req.query;
     result.lang = lang;
     result.monster = monster;
     result.id = req.params.id;
-    result.level = level;
+    result.level = lv;
     result.eg = eg;
     result.hlg = hlg;
     result.def = def;
@@ -61,11 +61,11 @@ app.get('/sr/monster/:id', async (req, res) => {
 
 app.get('/sr/monster', async (req, res) => {
     let result = {};
-    let { monster = '', id = '', level = '', lang = '', eg = '', hlg = '', def = '' } = req.query;
+    let { monster = '', id = '', lv = '', lang = '', eg = '', hlg = '', def = '' } = req.query;
     result.lang = lang;
     result.monster = monster;
     result.id = id;
-    result.level = level;
+    result.level = lv;
     result.eg = eg;
     result.hlg = hlg;
     result.def = def;

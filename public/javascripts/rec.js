@@ -1,26 +1,6 @@
 $(function () {
 
-    var _lang = 0
-    var DATE = new Date()
-    document.cookie.split(";").forEach(function (c) { 
-        if ((c.includes('lang=')) && !(c.includes('session'))) {
-            _lang = c.substring(c.indexOf('lang=') + 5, c.indexOf('lang=') + 7)
-        }
-    });
-
-    var lang_ = $('#LANG').val()
-    if (lang_ == 'RU') {
-        lang_ = 'EN'
-    }
-    if (lang_) {
-        var lang = lang_
-        document.cookie = 'lang=' + lang_ + ';expires=' + new Date(DATE.getTime() + 8640000000).toUTCString() + ';path=/'
-    } else {
-        var lang = (_lang === 'CH') ? 'CH' : 'EN';
-    }
-
     var imgpre = $('#IMGPRE').val()
-    var cur_group = _n
 
     if (lang == 'CH') document.title = '玉衡杯数据库'
 
@@ -33,10 +13,10 @@ $(function () {
     $('h3 .lang').html(txt.Lang[lang])
 
     $('body').on('click', '.links', function () {
-        popLinks(lang)
+        popLinks(lang2)
     })
 
-    $('body').on('click', '.subtitle', function () {
+    $('body').on('click', '._subtitle', function () {
         IS_SW += 1
         if (IS_SW % 4 == 1) {
             $('body').css('font-family', "'FW', sans-serif")
@@ -50,31 +30,42 @@ $(function () {
         }
     })
 
-    $('container').render({
-        template: {
-            div: [
-                {
-                    section: {
-                        schedule: `[[Name/${lang}]]`,
-                        data: _recgroup,
-                        a: {
-                            class: function (k) {
-                                if (k.data._id == cur_group) return 'active'
-                                return ''
-                            },
-                            'data-id': `[[_id]]`
-                        }
+    let script_computer = document.createElement('script')
+    script_computer.src = '/data/' + lang + '/Rec.js'
+    document.head.append(script_computer)
+    script_computer.onload = begin
+
+    function begin() {
+        cur_group = _n
+
+        $('container').render({
+            template: {
+                div: [
+                    {
+                        section: {
+                            schedule: `[[Name]]`,
+                            data: _recgroup,
+                            a: {
+                                class: function (k) {
+                                    if (k.data._id == cur_group) return 'active'
+                                    return ''
+                                },
+                                'data-id': `[[_id]]`
+                            }
+                        },
+                        class: 'choose',
                     },
-                    class: 'choose',
-                },
-                {
-                    div: [],
-                    class: 'miracle_card_area'
-                }
-            ],
-            class: 'content'
-        }
-    })
+                    {
+                        div: [],
+                        class: 'miracle_card_area'
+                    }
+                ],
+                class: 'content'
+            }
+        })
+
+        renderREC()
+    }
 
     function renderREC() {
         _rec.forEach(function (t, i) {
@@ -86,11 +77,11 @@ $(function () {
                         class: 'icon'
                     },
                     {
-                        p: t.Name[lang],
+                        p: t.Name,
                         class: 'name'
                     },
                     {
-                        p: `[[${lang}]]`,
+                        p: `[[.]]`,
                         class: 'desc',
                         data: t.Unlock,
                         style: {
@@ -104,7 +95,7 @@ $(function () {
                         }
                     },
                     {
-                        p: `[[${lang}]]`,
+                        p: `[[.]]`,
                         class: 'desc',
                         data: t.Desc
                     },
@@ -113,8 +104,6 @@ $(function () {
             })
         })
     }
-
-    renderREC()
 
     $('body').on('click', '.choose schedule', function () {
         if ($(this).hasClass('active')) {

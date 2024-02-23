@@ -1,8 +1,5 @@
 extends _
 block head
-    script(src="/javascripts/loadsr.js")
-    script(src="/data/LoadingDesc.js")
-    script(src="/javascripts/txt.js")
     link(rel="stylesheet", href="/stylesheets/loadsr.css")
 block content
     input(type="hidden" id="LANG" value=lang)
@@ -13,3 +10,6 @@ block content
             em.links 
             em.subtitle
             em.lang
+    script(src="/javascripts/sr_lang.js")
+    script(src="/javascripts/txt.js")
+    script(src="/javascripts/loadsr.js")
