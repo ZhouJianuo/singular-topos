@@ -656,7 +656,7 @@ $(function () {
                                         style: {
                                             'text-align': 'center'
                                         },
-                                        when: this_avatar.Desc
+                                        when: Boolean(this_avatar.Desc)
                                     }
                                 },
                             ],
@@ -1156,7 +1156,7 @@ $(function () {
                                                 'font-weight': 'bold',
                                                 color: "#" + elemcolor[this_avatar.Element]
                                             },
-                                            when: S.Type
+                                            when: Boolean(S.Type)
                                         },
                                         {
                                             span: S.Tag ? S.Tag : '',
@@ -1165,7 +1165,7 @@ $(function () {
                                                 'font-weight': 'bold',
                                                 color: "#" + elemcolor[this_avatar.Element]
                                             },
-                                            when: S.Tag
+                                            when: Boolean(S.Tag)
                                         },
                                         {
                                             span: [
