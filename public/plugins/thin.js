@@ -1160,6 +1160,7 @@ function poplayer(p) {
             p.onclose();
         }
         $(popmask).remove();
+        $('.lt').hide();
     }
 }
 

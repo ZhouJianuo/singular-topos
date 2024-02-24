@@ -28,6 +28,7 @@ $(function () {
     var skill_phase = 0
 
     var show_sch = 0
+    var si = 0
 
     let script_computer = document.createElement('script')
     script_computer.src = '/data/' + lang + '/Monster.js'
@@ -199,11 +200,13 @@ $(function () {
     }
 
     function popMons(ind) {
+        clearInterval(si)
+        $('.lt').hide()
         if (m_s) {
             popMons_2(ind)
         } else {
             $('.lt').show()
-            var si = setInterval(function () {
+            si = setInterval(function () {
                 if (m_s) {
                     $('.lt').hide()
                     popMons_2(ind)

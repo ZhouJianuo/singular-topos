@@ -125,7 +125,7 @@ $(function () {
                                 a: {
                                     'data-id': t._id
                                 },
-                                when: t.Tutorial
+                                when: t.Tutorial && t.Tutorial.length
                             },
                             {
                                 span: '＋',

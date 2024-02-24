@@ -129,7 +129,7 @@ $(function () {
         })
     
         if (avid) {
-            avid = avid.replaceAll("_", "").replaceAll("-", "").replaceAll(" ", "").replaceAll("'", "").toUpperCase()
+            avid = avid.replaceAll("_", "").replaceAll("-", "").replaceAll(" ", "").replaceAll("'", "").replaceAll("·", "").toUpperCase()
             if (_search_avatar[avid] != undefined) {
                 popAvatar(_search_avatar[avid])
             } else if (_search_weapon[avid] != undefined) {
@@ -517,11 +517,12 @@ $(function () {
     }
 
     function renderAvatar(i) {
+        clearInterval(check_interval)
+        $('.lt').hide()
         if (i > 1 && i < 7) {
             if (a_2) {
                 renderAvatarAfter(i)
             } else {
-                clearInterval(check_interval)
                 $('.lt').show()
                 check_interval = setInterval(function () {
                     if (a_2) {

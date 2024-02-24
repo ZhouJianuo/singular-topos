@@ -1,9 +1,6 @@
 $(function () {
 
-    $.session.set('AvatarInfoConfig', JSON.stringify(__AvatarInfoConfig))
-
-    var this_ver_chs = "最新"
-    var this_ver_en = "Newest"
+    var this_ver_ = ""
     var pop_ver = ""
     var ou1;
     var ou2;
@@ -94,8 +91,11 @@ $(function () {
 
     var char_id_list = {}
 
-    var acs_cache = null
     var acs_notget = 1
+
+    var rip = 0
+    var lws = 0
+    var rrp = 0
 
     $('.tls' + lang).css("color", "#df903b");
     $('h3 .title').html(computer_.MiscText.Avatar_Title[lang] + "<color style='font-size: 0.5em;'><br><b>" + VER_GI + "</b></color>");
@@ -105,13 +105,46 @@ $(function () {
     cl_show = 0 
     if ($("#UPDATE").val()) cl_show = 1
 
-    begin()
+    let script_computer = document.createElement('script')
+    script_computer.src = '/gi/' + lang + '/avatar_1.js'
+    document.head.append(script_computer)
+    script_computer.onload = begin
 
     function begin() {
 
-        this_ver_chs = __AvatarInfoConfig[0].Note
-        this_ver_en = __AvatarInfoConfig[0].Note
-        pop_ver = lang == 'CH' ? " " + this_ver_chs : " " + this_ver_en
+        $.session.set('AvatarInfoConfig', JSON.stringify(__AvatarInfoConfig))
+
+        a_2 = 0
+        a_3 = 0
+        a_4 = 0
+
+        setTimeout(function () {
+            let script_2 = document.createElement('script')
+            script_2.src = '/gi/' + lang + '/avatar_2.js'
+            document.head.append(script_2)
+            script_2.onload = function () {
+                a_2 = 1
+                setTimeout(function () {
+                    let script_3 = document.createElement('script')
+                    script_3.src = '/gi/' + lang + '/avatar_3.js'
+                    document.head.append(script_3)
+                    script_3.onload = function () {
+                        a_3 = 1
+                        setTimeout(function () {
+                            let script_4 = document.createElement('script')
+                            script_4.src = '/gi/' + lang + '/avatar_4.js'
+                            document.head.append(script_4)
+                            script_4.onload = function () {
+                                a_4 = 1
+                            }
+                        }, 3000)
+                    }
+                }, 3000)
+            }
+        }, 3000)
+
+        this_ver_ = __AvatarInfoConfig[0].Note
+        pop_ver = " " + this_ver_
 
         var cl_select = {}
         _changelog[0].Data.forEach(function (t, i) {
@@ -361,7 +394,7 @@ $(function () {
                         class: 'avatar-head'
                     },
                     {
-                        p: `[[Name/${lang}]]`,
+                        p: `[[Name]]`,
                         style: {
                             color: function (p) {
                                 elem = computer_.ElemNameConfig[p.data.Element]
@@ -372,7 +405,7 @@ $(function () {
                         class: 'avatar-name'
                     },
                     {
-                        p: `[[Title/${lang}]]`,
+                        p: `[[Title]]`,
                         class: 'avatar-title',
                         when: r == 0
                     },
@@ -475,7 +508,7 @@ $(function () {
                     is_calc = 1
                     talk_state = 0
                     poplayer({
-                        header: '<span id="h_">' + p.org_data.Name[lang] + pop_ver + computer_.MiscText.Avatar_Table_Title_Extra[lang2] + '</span>',
+                        header: '<span id="h_">' + p.org_data.Name + pop_ver + computer_.MiscText.Avatar_Table_Title_Extra[lang2] + '</span>',
                         width: '100%',
                         data: p.org_data,
                         template: [
@@ -534,21 +567,11 @@ $(function () {
                     avatar_id = p.org_data._id
                     renderInfoPre(p.org_data._name, "Basic Info")
                     talk_need_init = 1
-                    acs_cache = _AvatarCostumeStory[0].Data
                 },
                 a: {
                     'data-id': function (d) {
                         return d.data._id
                     },
-                    'data-name': function (d) {
-                        return d.data._name.replaceAll(' ', '').toUpperCase()
-                    },
-                    'data-namech': function (d) {
-                        return d.data.Name.CH.replaceAll(' ', '').toUpperCase()
-                    },
-                    'data-nameen': function (d) {
-                        return d.data.Name.EN.replaceAll(' ', '').toUpperCase()
-                    }
                 }
             },
             class: 'avatar-area'
@@ -559,20 +582,20 @@ $(function () {
                 cl_show = 1
                 $('.cl_all').show()
             }
-            var come_id = $('#AVID').val().replaceAll('_', '').replaceAll(' ', '').replaceAll("-", "").replaceAll("'", "").toUpperCase()
+            var come_id = $('#AVID').val().replaceAll('_', '').replaceAll(' ', '').replaceAll("-", "").replaceAll("'", "").replaceAll("·", "").toUpperCase()
             try {
                 if ($("div[data-id='" + come_id + "']").length) {
                     $("div[data-id='" + come_id + "']").click()
-                } else if ($("div[data-name='" + come_id + "']").length) {
-                    $("div[data-name='" + come_id + "']").click()
-                } else if ($("div[data-namech='" + come_id + "']").length) {
-                    $("div[data-namech='" + come_id + "']").click()
-                } else {
-                    $("div[data-nameen='" + come_id + "']").click()
+                } else if (index_avatar[come_id]) {
+                    $("div[data-id='" + index_avatar[come_id] + "']").click()
                 }
             } catch (err) {}
-            renderWeaponInfoFind(come_id)
-            doRelicFind(come_id)
+            if (index_weapon[come_id] != undefined) {
+                renderWeaponInfo(_WeaponConfig[index_weapon[come_id]])
+            }
+            if (index_relic[come_id] != undefined) {
+                doRelic(_RelicConfig[index_relic[come_id]])
+            }
             $('#AVID').val('')
         }
         
@@ -584,7 +607,52 @@ $(function () {
     });
 
     function renderInfoPre(avatar, type) {
-        renderInfo(avatar, type)
+
+        clearInterval(rip)
+        $('.lt').hide()
+
+        if ((type == "Battle Skills") || (type == "Passive Skills") || (type == "Constellations") || (type == "In-Depth Data") || (type == "HomDGCat's Notes")) {
+            if (a_2) {
+                renderInfo(avatar, type)
+            } else {
+                $('.lt').show()
+                rip = setInterval(function () {
+                    if (a_2) {
+                        $('.lt').hide()
+                        renderInfo(avatar, type)
+                        clearInterval(rip)
+                    }
+                }, 200)
+            }
+        } else if ((type == "Stories") || (type == "Voicelines")) {
+            if (a_3) {
+                renderInfo(avatar, type)
+            } else {
+                $('.lt').show()
+                rip = setInterval(function () {
+                    if (a_3) {
+                        $('.lt').hide()
+                        renderInfo(avatar, type)
+                        clearInterval(rip)
+                    }
+                }, 200)
+            }
+        } else if ((type == "Teapot Talks") || (type == "Damage Data")) {
+            if (a_4) {
+                renderInfo(avatar, type)
+            } else {
+                $('.lt').show()
+                rip = setInterval(function () {
+                    if (a_4) {
+                        $('.lt').hide()
+                        renderInfo(avatar, type)
+                        clearInterval(rip)
+                    }
+                }, 200)
+            }
+        } else {
+            renderInfo(avatar, type)
+        }
     }
 
     function renderInfo(avatar, type) {
@@ -633,43 +701,48 @@ $(function () {
         var color0 = colors[this_avatar.Element]
         var avatar_color = "<color style='color:" + color0 + "';><b>"
 
-        if (avatar_stat_ver == 0) {
-            var skillconfig = _AvatarSkillConfig[avatar] ? _AvatarSkillConfig[avatar] : {
-                BattleSkills: [],
-                PassiveSkills: [],
-                Constellations: []
-            }
-        } else {
-            var skillconfig = _AvatarSkillPConfig[avatar].Ver[avatar_stat_ver] ? _AvatarSkillPConfig[avatar].Ver[avatar_stat_ver] : {
-                BattleSkills: [],
-                PassiveSkills: [],
-                Constellations: []
-            }
-            if (Number.isInteger(skillconfig)) {
-                skillconfig = _AvatarSkillPConfig[avatar].Ver[skillconfig]
-            } else if (skillconfig == "cur") {
-                skillconfig = _AvatarSkillConfig[avatar] ? _AvatarSkillConfig[avatar] : {
+        if (a_2) {
+            if (avatar_stat_ver == 0) {
+                var skillconfig = _AvatarSkillConfig[avatar] ? _AvatarSkillConfig[avatar] : {
                     BattleSkills: [],
                     PassiveSkills: [],
                     Constellations: []
                 }
+            } else {
+                var skillconfig = _AvatarSkillPConfig[avatar].Ver[avatar_stat_ver] ? _AvatarSkillPConfig[avatar].Ver[avatar_stat_ver] : {
+                    BattleSkills: [],
+                    PassiveSkills: [],
+                    Constellations: []
+                }
+                if (Number.isInteger(skillconfig)) {
+                    skillconfig = _AvatarSkillPConfig[avatar].Ver[skillconfig]
+                } else if (skillconfig == "cur") {
+                    skillconfig = _AvatarSkillConfig[avatar] ? _AvatarSkillConfig[avatar] : {
+                        BattleSkills: [],
+                        PassiveSkills: [],
+                        Constellations: []
+                    }
+                }
+            }
+            var otherdata = _AvatarDataConfig[avatar] ? _AvatarDataConfig[avatar] : {
+                BallList: [],
+                EndureList: [],
+                WindZoneList: [],
+                OtherDataList: []
             }
         }
 
-        var fetters = _AvatarFetterConfig[this_avatar.Fetter] ? _AvatarFetterConfig[this_avatar.Fetter] : {
-            StoryList: [],
-            VoiceList: []
+        if (a_3) {
+            var fetters = _AvatarFetterConfig[this_avatar.Fetter] ? _AvatarFetterConfig[this_avatar.Fetter] : {
+                StoryList: [],
+                VoiceList: []
+            }
         }
 
-        var damagedata = _AvatarAttackConfig[avatar] ? _AvatarAttackConfig[avatar] : {
-            AttackList: []
-        }
-
-        var otherdata = _AvatarDataConfig[avatar] ? _AvatarDataConfig[avatar] : {
-            BallList: [],
-            EndureList: [],
-            WindZoneList: [],
-            OtherDataList: []
+        if (a_4) {
+            var damagedata = _AvatarAttackConfig[avatar] ? _AvatarAttackConfig[avatar] : {
+                AttackList: []
+            }
         }
 
         if (type == "Basic Info") {
@@ -682,7 +755,7 @@ $(function () {
                                 {
                                     div: {
                                         p: function (k) {
-                                            return k.data.Name[lang] + (lang == "CH" ? " · " : " - ") + k.data.Title[lang].replace("<br>", " / ")
+                                            return k.data.Name + (lang == "CH" ? " · " : " - ") + k.data.Title.replace("<br>", " / ")
                                         },
                                         style: {
                                             'text-align': 'center',
@@ -718,7 +791,7 @@ $(function () {
                                         },
                                         {
                                             p: function (k) {
-                                                return k.data.Desc[lang]
+                                                return k.data.Desc
                                             },
                                             style: {
                                                 'margin': '10px 0',
@@ -829,7 +902,7 @@ $(function () {
                                                         var mat = _MaterialConfig[k.data.SpecialityMat]
                                                         if (!mat) return ""
                                                         if (!mat.Text) return ""
-                                                        return mat.Text[lang]
+                                                        return mat.Text
                                                     }
                                                 }
                                             ],
@@ -855,7 +928,7 @@ $(function () {
                                                         var mat = _MaterialConfig[k.data.TalentMatt]
                                                         if (!mat) return ""
                                                         if (!mat.Text) return ""
-                                                        return mat.Text[lang]
+                                                        return mat.Text
                                                     }
                                                 }
                                             ],
@@ -904,7 +977,7 @@ $(function () {
                                                         var mat = _MaterialConfig[k.data.AscMat]
                                                         if (!mat) return ""
                                                         if (!mat.Text) return ""
-                                                        return mat.Text[lang]
+                                                        return mat.Text
                                                     }
                                                 }
                                             ],
@@ -954,7 +1027,7 @@ $(function () {
                                                         var mat = _MaterialConfig[k.data.WeekMat]
                                                         if (!mat) return ""
                                                         if (!mat.Text) return ""
-                                                        return mat.Text[lang]
+                                                        return mat.Text
                                                     }
                                                 }
                                             ],
@@ -1038,7 +1111,7 @@ $(function () {
                                     div: [
                                         {
                                             p: function (k) {
-                                                return computer_.MiscText.Avatar_BasicInfo_1_1[lang2] + avatar_color + k.data.Constellation[lang] + "</b></color>"
+                                                return computer_.MiscText.Avatar_BasicInfo_1_1[lang2] + avatar_color + k.data.Constellation + "</b></color>"
                                             }
                                         },
                                         {
@@ -1053,27 +1126,27 @@ $(function () {
                                         },
                                         {
                                             p: function (k) {
-                                                return computer_.MiscText.Avatar_BasicInfo_1_3[lang2] + avatar_color + k.data.Belong[lang] + "</b></color>"
+                                                return computer_.MiscText.Avatar_BasicInfo_1_3[lang2] + avatar_color + k.data.Belong + "</b></color>"
                                             }
                                         },
                                         {
                                             p: function (k) {
-                                                return computer_.MiscText.Avatar_BasicInfo_2_1[lang2] + avatar_color + _AvatarPromoteConfig[k.data._name].CV.CH[lang] + "</b></color>"
+                                                return computer_.MiscText.Avatar_BasicInfo_2_1[lang2] + avatar_color + _AvatarPromoteConfig[k.data._name].CV.CH + "</b></color>"
                                             }
                                         },
                                         {
                                             p: function (k) {
-                                                return computer_.MiscText.Avatar_BasicInfo_2_2[lang2] + avatar_color + _AvatarPromoteConfig[k.data._name].CV.EN[lang] + "</b></color>"
+                                                return computer_.MiscText.Avatar_BasicInfo_2_2[lang2] + avatar_color + _AvatarPromoteConfig[k.data._name].CV.EN + "</b></color>"
                                             }
                                         },
                                         {
                                             p: function (k) {
-                                                return computer_.MiscText.Avatar_BasicInfo_2_3[lang2] + avatar_color + _AvatarPromoteConfig[k.data._name].CV.JP[lang] + "</b></color>"
+                                                return computer_.MiscText.Avatar_BasicInfo_2_3[lang2] + avatar_color + _AvatarPromoteConfig[k.data._name].CV.JP + "</b></color>"
                                             }
                                         },
                                         {
                                             p: function (k) {
-                                                return computer_.MiscText.Avatar_BasicInfo_2_4[lang2] + avatar_color + _AvatarPromoteConfig[k.data._name].CV.KR[lang] + "</b></color>"
+                                                return computer_.MiscText.Avatar_BasicInfo_2_4[lang2] + avatar_color + _AvatarPromoteConfig[k.data._name].CV.KR + "</b></color>"
                                             }
                                         },
                                     ],
@@ -1122,7 +1195,7 @@ $(function () {
                             div: [
                                 {
                                     div: {
-                                        p: _AvatarCostumeConfig[this_avatar._id] ? (_AvatarCostumeConfig[this_avatar._id].Namecard ? _AvatarCostumeConfig[this_avatar._id].Namecard.Name[lang] : '') : ''
+                                        p: _AvatarCostumeConfig[this_avatar._id] ? (_AvatarCostumeConfig[this_avatar._id].Namecard ? _AvatarCostumeConfig[this_avatar._id].Namecard.Name : '') : ''
                                     },
                                     class: 'a_section_head',
                                     style: {
@@ -1139,7 +1212,7 @@ $(function () {
                                         },
                                         {
                                             p: function (k) {
-                                                return k.data.Desc[lang]
+                                                return k.data.Desc
                                             },
                                             style: {
                                                 'margin': '10px 0'
@@ -1182,7 +1255,7 @@ $(function () {
                                             div: [
                                                 {
                                                     span: function (k) {
-                                                        return k.data.Name[lang]
+                                                        return k.data.Name
                                                     },
                                                     style: {
                                                         'font-weight': 'bold'
@@ -1208,7 +1281,7 @@ $(function () {
                                                             return k.data.Icon
                                                         },
                                                         'data-ib': function (k) {
-                                                            return k.data.Name[lang]
+                                                            return k.data.Name
                                                         }
                                                     }
                                                 },
@@ -1219,7 +1292,7 @@ $(function () {
                                         },
                                         {
                                             p: function (k) {
-                                                return k.data.Desc[lang]
+                                                return k.data.Desc
                                             }
                                         }
                                     ],
@@ -1236,14 +1309,14 @@ $(function () {
                     ]
                 },
             }
-        } else {
+        } else if (type == "Battle Skills") {
             dr = {
                 "Battle Skills": [
                     {
                         div: {
                             div: [
                                 {
-                                    p: this_avatar.Name[lang],
+                                    p: this_avatar.Name,
                                     style: {
                                         'text-align': 'center',
                                         margin: '0px auto 15px',
@@ -1303,7 +1376,7 @@ $(function () {
                                             },
                                             {
                                                 p: function (k) {
-                                                    return is_ru ? (k.data.Name.RU ? k.data.Name.RU : k.data.Name.EN) : k.data.Name[lang]
+                                                    return k.data.Name
                                                 },
                                                 a: {
                                                     class: function (k) {
@@ -1320,7 +1393,7 @@ $(function () {
                                         div: [
                                             {
                                                 p: function (k) {
-                                                    return is_ru ? (k.data.Desc.RU ? k.data.Desc.RU : k.data.Desc.EN) : k.data.Desc[lang]
+                                                    return k.data.Desc
                                                 }
                                             }
                                         ],
@@ -1369,7 +1442,7 @@ $(function () {
                                                 div: [
                                                     {
                                                         span: function (s) {
-                                                            return is_ru ? (s.data.Desc.RU ? s.data.Desc.RU : s.data.Desc.EN) : s.data.Desc[lang]
+                                                            return s.data.Desc
                                                         },
                                                         style: {
                                                             width: 'max-content'
@@ -1393,7 +1466,7 @@ $(function () {
                                                                 $(s.container).render({
                                                                     span: function (s) {
                                                                         var this_level_desc = s.data.ParamLevelList[i]
-                                                                        return this_level_desc ? (this_level_desc[lang2] ? this_level_desc[lang2] : this_level_desc) : s.data.ParamLevelList[total_lv - 1][lang2]
+                                                                        return this_level_desc ? (this_level_desc ? this_level_desc : this_level_desc) : s.data.ParamLevelList[total_lv - 1]
                                                                     },
                                                                     class: 'lv lv' + (i + 1).toString()
                                                                 });
@@ -1473,12 +1546,15 @@ $(function () {
                         }
                     },
                 ],
+            }
+        } else if (type == "Passive Skills") {
+            dr = {
                 "Passive Skills": [
                     {
                         div: {
                             div: [
                                 {
-                                    p: this_avatar.Name[lang],
+                                    p: this_avatar.Name,
                                     style: {
                                         'text-align': 'center',
                                         margin: '0px auto 15px',
@@ -1536,7 +1612,7 @@ $(function () {
                                     },
                                     {
                                         p: function (k) {
-                                            return is_ru ? (k.data.Name.RU ? k.data.Name.RU : k.data.Name.EN) : k.data.Name[lang]
+                                            return k.data.Name
                                         },
                                         a: {
                                             class: function (k) {
@@ -1552,7 +1628,7 @@ $(function () {
                             {
                                 div: {
                                     p: function (k) {
-                                        return is_ru ? (k.data.Desc.RU ? k.data.Desc.RU : k.data.Desc.EN) : k.data.Desc[lang]
+                                        return k.data.Desc
                                     }
                                 },
                                 class: 'a_section_content'
@@ -1562,12 +1638,15 @@ $(function () {
                         data: skillconfig.PassiveSkills,
                     },
                 ],
+            }
+        } else if (type == "Constellations") {
+            dr = {
                 "Constellations": [
                     {
                         div: {
                             div: [
                                 {
-                                    p: this_avatar.Name[lang],
+                                    p: this_avatar.Name,
                                     style: {
                                         'text-align': 'center',
                                         margin: '0px auto 15px',
@@ -1625,7 +1704,7 @@ $(function () {
                                     },
                                     {
                                         p: function (k) {
-                                            return is_ru ? (k.data.Name.RU ? k.data.Name.RU : k.data.Name.EN) : k.data.Name[lang]
+                                            return k.data.Name
                                         },
                                         a: {
                                             class: function (k) {
@@ -1642,7 +1721,7 @@ $(function () {
                                 div: [
                                     {
                                         p: function (k) {
-                                            return is_ru ? (k.data.Desc.RU ? k.data.Desc.RU : k.data.Desc.EN) : k.data.Desc[lang]
+                                            return k.data.Desc
                                         }
                                     },
                                 ],
@@ -1653,6 +1732,9 @@ $(function () {
                         data: skillconfig.Constellations,
                     },
                 ],
+            }
+        } else if (type == "Damage Data") {
+            dr = {
                 "Damage Data": {
                     div: [
                         {
@@ -1678,7 +1760,7 @@ $(function () {
                                             template: {
                                                 tr: [
                                                     {
-                                                        td: `[[Skill/${lang}]]`
+                                                        td: `[[Skill]]`
                                                     },
                                                     {
                                                         td: function (p) {
@@ -1699,7 +1781,7 @@ $(function () {
                                                         }
                                                     },
                                                     {
-                                                        td: `[[AtkTag/${lang}]]`
+                                                        td: `[[AtkTag]]`
                                                     },
                                                     {
                                                         td: function (p) {
@@ -1716,10 +1798,10 @@ $(function () {
                                                         class: 'attack_center'
                                                     },
                                                     {
-                                                        td: `[[AttTag/${lang}]]`
+                                                        td: `[[AttTag]]`
                                                     },
                                                     {
-                                                        td: `[[AttGrp/${lang}]]`
+                                                        td: `[[AttGrp]]`
                                                     },
                                                     {
                                                         td: function (p) {
@@ -1812,6 +1894,9 @@ $(function () {
                     ],
                     class: 'attack_div',
                 },
+            }
+        } else if (type == "In-Depth Data") {
+            dr = {
                 "In-Depth Data": {
                     data: otherdata,
                     template: [
@@ -1831,7 +1916,7 @@ $(function () {
                                         table: {
                                             tr: [
                                                 {
-                                                    td: `[[When/${lang}]]`,
+                                                    td: `[[When]]`,
                                                     width: '60%'
                                                 },
                                                 {
@@ -1885,7 +1970,7 @@ $(function () {
                                         table: {
                                             tr: [
                                                 {
-                                                    td: `[[Skill/${lang}]]`,
+                                                    td: `[[Skill]]`,
                                                     width: '75%'
                                                 },
                                                 {
@@ -1953,10 +2038,10 @@ $(function () {
                                                         template: {
                                                             tr: [
                                                                 {
-                                                                    td: `[[Skill/${lang}]]`
+                                                                    td: `[[Skill]]`
                                                                 },
                                                                 {
-                                                                    td: `[[Target/${lang}]]`
+                                                                    td: `[[Target]]`
                                                                 },
                                                                 {
                                                                     td: `[[Inner]] ~ [[Radius]]`
@@ -2004,6 +2089,9 @@ $(function () {
                         },
                     ]
                 },
+            }
+        } else if (type == "HomDGCat's Notes") {
+            dr = {
                 "HomDGCat's Notes": {
                     data: otherdata,
                     template: [
@@ -2022,7 +2110,7 @@ $(function () {
                                     div: {
                                         ul: {
                                             li: function (k) {
-                                                return "<br>" + k.data[lang]
+                                                return "<br>" + k.data
                                             },
                                             datapath: 'OtherDataList'
                                         },
@@ -2034,6 +2122,9 @@ $(function () {
                         }
                     ]
                 },
+            }
+        } else if (type == "Stories") {
+            dr = {
                 "Stories": [
                     {
                         div: [
@@ -2041,7 +2132,7 @@ $(function () {
                                 div: [
                                     {
                                         p: function (k) {
-                                            return k.data.Title[lang]
+                                            return k.data.Title
                                         },
                                         style: {
                                             color: color0
@@ -2054,7 +2145,7 @@ $(function () {
                                 div: [
                                     {
                                         p: function (k) {
-                                            return k.data[lang]
+                                            return k.data
                                         },
                                         datapath: 'Tips',
                                         style: {
@@ -2064,7 +2155,7 @@ $(function () {
                                     },
                                     {
                                         p: function (k) {
-                                            return k.data.Content[lang]
+                                            return k.data.Content
                                         }
                                     },
                                 ],
@@ -2075,13 +2166,16 @@ $(function () {
                         data: fetters.StoryList,
                     }
                 ],
+            }
+        } else if (type == "Voicelines") {
+            dr = {
                 "Voicelines": [
                     {
                         div: [
                             {
                                 div: {
                                     p: function (k) {
-                                        return k.data.Title[lang]
+                                        return k.data.Title
                                     },
                                     style: {
                                         color: color0
@@ -2093,7 +2187,7 @@ $(function () {
                                 div: [
                                     {
                                         p: function (k) {
-                                            return k.data[lang]
+                                            return k.data
                                         },
                                         datapath: 'Tips',
                                         style: {
@@ -2103,7 +2197,7 @@ $(function () {
                                     },
                                     {
                                         p: function (k) {
-                                            return k.data.Content[lang]
+                                            return k.data.Content
                                         }
                                     },
                                 ],
@@ -2114,6 +2208,9 @@ $(function () {
                         data: fetters.VoiceList,
                     }
                 ],
+            }
+        } else {
+            dr = {
                 "Teapot Talks": {
                     template: [
                         {
@@ -2181,13 +2278,13 @@ $(function () {
         talkids.forEach(function (talk_id) {
             var show_text = ''
             if (cur_avatar_talks[talk_id].Type) {
-                show_text = "<color style='color:" + computer_.TextColorConfig[this_avatar.Element] + ";'>" + this_avatar.Name[lang] + ((lang == "CH") ? '：' : ': ') + '</color>'
+                show_text = "<color style='color:" + computer_.TextColorConfig[this_avatar.Element] + ";'>" + this_avatar.Name + ((lang == "CH") ? '：' : ': ') + '</color>'
             } else {
                 show_text = ''
             }
             $('.a_talk').render({
                 template: {
-                    div: show_text + cur_avatar_talks[talk_id].Text[lang],
+                    div: show_text + cur_avatar_talks[talk_id].Text,
                     class: 'talk talk_2 talk_' + cur_avatar_talks[talk_id].Type + ' talk_2' + cur_avatar_talks[talk_id].Type,
                     a: {
                         'data-next': JSON.stringify(cur_avatar_talks[talk_id].Next),
@@ -2210,14 +2307,14 @@ $(function () {
             }
             var show_text = ''
             if (cur_avatar_talks[talk_id].Type) {
-                show_text = "<color style='color:" + computer_.TextColorConfig[this_avatar.Element] + ";'>" + this_avatar.Name[lang] + ((lang == "CH") ? '：' : ': ') + '</color>'
+                show_text = "<color style='color:" + computer_.TextColorConfig[this_avatar.Element] + ";'>" + this_avatar.Name + ((lang == "CH") ? '：' : ': ') + '</color>'
             } else {
                 show_text = ''
             }
             nothas_traveller *= cur_avatar_talks[talk_id].Type
             $('.a_talk').render({
                 template: {
-                    div: show_text + cur_avatar_talks[talk_id].Text[lang],
+                    div: show_text + cur_avatar_talks[talk_id].Text,
                     class: 'talk act talk_' + cur_avatar_talks[talk_id].Type,
                     a: {
                         'data-next': JSON.stringify(cur_avatar_talks[talk_id].Next),
@@ -2291,26 +2388,20 @@ $(function () {
     })
 
     function renderSVC(i) {
-        var degenerate = {
-            'CH': { [this_ver_chs]: 0 },
-            'EN': { [this_ver_en]: 0 }
-        }
+        var degenerate = { [this_ver_]: 0 }
         if (!_AvatarSkillPConfig[i].Ver) return {
             select: '',
-            options: degenerate[lang]
+            options: degenerate
         }
         var skillvers = Object.keys(_AvatarSkillPConfig[i].Ver).concat([0])
         if (!skillvers.length) return {
             select: '',
-            options: degenerate[lang]
+            options: degenerate
         }
-        V = {
-            'CH': [this_ver_chs, 'v1', 'v2', 'v3', 'v4', 'v5', 'v6'],
-            'EN': [this_ver_en, 'v1', 'v2', 'v3', 'v4', 'v5', 'v6'],
-        }
+        V = [this_ver_, 'v1', 'v2', 'v3', 'v4', 'v5', 'v6']
         var options = {}
         skillvers.forEach(function (k) {
-            options[V[lang][parseInt(k)]] = parseInt(k)
+            options[V[parseInt(k)]] = parseInt(k)
         })
         return {
             select: '',
@@ -2324,26 +2415,20 @@ $(function () {
     }
 
     function SVW(i) {
-        var degenerate = {
-            'CH': { [this_ver_chs]: 0 },
-            'EN': { [this_ver_en]: 0 }
-        }
+        var degenerate = { [this_ver_]: 0 }
         if (!_WeaponAffixPConfig[i]) return {
             select: '',
-            options: degenerate[lang]
+            options: degenerate
         }
         var skillvers = Object.keys(_WeaponAffixPConfig[i].Ver).concat([0])
         if (!skillvers.length) return {
             select: '',
-            options: degenerate[lang]
+            options: degenerate
         }
-        V = {
-            'CH': [this_ver_chs, 'v1', 'v2', 'v3', 'v4', 'v5', 'v6'],
-            'EN': [this_ver_en, 'v1', 'v2', 'v3', 'v4', 'v5', 'v6'],
-        }
+        V = [this_ver_, 'v1', 'v2', 'v3', 'v4', 'v5', 'v6']
         var options = {}
         skillvers.forEach(function (k) {
-            options[V[lang][parseInt(k)]] = parseInt(k)
+            options[V[parseInt(k)]] = parseInt(k)
         })
         return {
             select: '',
@@ -2358,7 +2443,7 @@ $(function () {
                 div: [
                     {
                         div: {
-                            p: t.Name[lang],
+                            p: t.Name,
                             style: {
                                 color: t.Color ? colors[t.Color] : ''
                             }
@@ -2369,7 +2454,7 @@ $(function () {
                         div: {
                             ul: {
                                 li: function (k) {
-                                    return k.data[lang]
+                                    return k.data
                                 },
                                 data: t.Notes,
                                 style: {
@@ -2415,7 +2500,7 @@ $(function () {
                                 template: {
                                     tr: [
                                         {
-                                            td: `[[Name/${lang}]]`,
+                                            td: `[[Name]]`,
                                             style: {
                                                 'text-align': 'center'
                                             }
@@ -2497,19 +2582,10 @@ $(function () {
         });
     }
 
-    function doRelicFind(strid) {
-        _RelicConfig.forEach(function (wpn) {
-            if (wpn.ID.toString() == strid || wpn.Name.CH.replaceAll(" ", "").replaceAll("_", "").replaceAll("-", "").replaceAll("'", "").toUpperCase() == strid || wpn.Name.EN.replaceAll(" ", "").replaceAll("_", "").replaceAll("-", "").replaceAll("'", "").toUpperCase() == strid) {
-                doRelic(wpn)
-                return
-            }
-        })
-    }
-
     function doRelic(cr) {
         cur_relic = cr
         poplayer({
-            header: cr.Name[lang] + pop_ver + computer_.MiscText.Avatar_Table_Title_Extra[lang2],
+            header: cr.Name + pop_ver + computer_.MiscText.Avatar_Table_Title_Extra[lang2],
             width: '100%',
             data: cr,
             template: [
@@ -2552,7 +2628,7 @@ $(function () {
 
     function renderRelicPage(k) {
         if (k) {
-            renderRelicPage_(k)
+            renderRelicPage__(k)
         } else {
             $('.r_data').empty().render({
                 template: [
@@ -2560,7 +2636,7 @@ $(function () {
                         div: [
                             {
                                 div: {
-                                    p: cur_relic.Name[lang]
+                                    p: cur_relic.Name
                                 },
                                 class: 'a_section_head'
                             },
@@ -2602,7 +2678,7 @@ $(function () {
                             },
                             {
                                 div: {
-                                    p: cur_relic.Skills[0] ? cur_relic.Skills[0].Skill[lang] : ''
+                                    p: cur_relic.Skills[0] ? cur_relic.Skills[0].Skill : ''
                                 },
                                 class: 'a_section_content'
                             },
@@ -2620,7 +2696,7 @@ $(function () {
                             },
                             {
                                 div: {
-                                    p: cur_relic.Skills[1] ? cur_relic.Skills[1].Skill[lang] : ''
+                                    p: cur_relic.Skills[1] ? cur_relic.Skills[1].Skill : ''
                                 },
                                 class: 'a_section_content'
                             },
@@ -2638,7 +2714,7 @@ $(function () {
                             },
                             {
                                 div: {
-                                    p: cur_relic.Skills[2] ? cur_relic.Skills[2].Skill[lang] : ''
+                                    p: cur_relic.Skills[2] ? cur_relic.Skills[2].Skill : ''
                                 },
                                 class: 'a_section_content'
                             },
@@ -2658,7 +2734,7 @@ $(function () {
                                 div: {
                                     ul: {
                                         li: function (k) {
-                                            return "<br>" + k.data[lang]
+                                            return "<br>" + k.data
                                         },
                                         data: cur_relic.Extra
                                     },
@@ -2679,6 +2755,23 @@ $(function () {
         return list_[list_.length - 1]
     }
 
+    function renderRelicPage__(k) {
+        clearInterval(rrp)
+        $('.lt').hide()
+        if (a_3) {
+            renderRelicPage_(k)
+        } else {
+            $('.lt').show()
+            rrp = setInterval(function () {
+                if (a_3) {
+                    $('.lt').hide()
+                    clearInterval(rrp)
+                    renderRelicPage_(k)
+                }
+            }, 200)
+        }
+    }
+
     function renderRelicPage_(k) {
         cur_story_ver = 0
         var l = ["_0", "_4", "_2", "_5", "_1", "_3"][k]
@@ -2688,7 +2781,7 @@ $(function () {
                     div: [
                         {
                             div: {
-                                p: ll(cur_relic.Parts, k - 1)[lang]
+                                p: ll(cur_relic.Parts, k - 1)
                             },
                             class: 'a_section_head'
                         },
@@ -2714,7 +2807,7 @@ $(function () {
                         },
                         {
                             div: {
-                                p: ll(relic_story_cache[cur_relic.ID], k - 1).Desc[lang]
+                                p: ll(relic_story_cache[cur_relic.ID], k - 1).Desc
                             },
                             class: 'a_section_content'
                         },
@@ -2747,7 +2840,7 @@ $(function () {
         ll(relic_story_cache[cur_relic.ID], k - 1).Story.forEach(function (this_, ind_) {
             $('.story_this').render({
                 template: {
-                    span: "<br>" + this_[lang],
+                    span: "<br>" + this_,
                     class: 'weapon_story weapon_story' + ind_,
                     style: {
                         display: 'none'
@@ -2820,7 +2913,7 @@ $(function () {
                                     }
                                 },
                                 {
-                                    p: `[[Name/${lang}]]`,
+                                    p: `[[Name]]`,
                                     style: {
                                         'font-weight': 'bold'
                                     },
@@ -2871,15 +2964,6 @@ $(function () {
         }
     }
 
-    function renderWeaponInfoFind(strid) {
-        _WeaponConfig.forEach(function (wpn) {
-            if (wpn._id.toString() == strid || wpn.Name.CH.replaceAll(' ', '').replaceAll("-", "").replaceAll("'", "").toUpperCase() == strid || wpn.Name.EN.replaceAll(' ', '').replaceAll("-", "").replaceAll("'", "").toUpperCase() == strid) {
-                renderWeaponInfo(wpn)
-                return
-            }
-        })
-    }
-
     function renderWeaponInfo(wpn) {
         toggle_story = 0
         weapon_stat_ver = 0
@@ -2889,7 +2973,7 @@ $(function () {
         var skill = _WeaponAffixConfig[wpn.EquipAffixID]
         cur_skill = skill
         poplayer({
-            header: '<span id="h_">' + wpn.Name[lang] + pop_ver + computer_.MiscText.Avatar_Table_Title_Extra[lang2] + '</span>',
+            header: '<span id="h_">' + wpn.Name + pop_ver + computer_.MiscText.Avatar_Table_Title_Extra[lang2] + '</span>',
             width: '100%',
             class: 'weapon_pop',
             template: {
@@ -2912,7 +2996,7 @@ $(function () {
                 div: [
                     {
                         div: {
-                            p: wpn.Name[lang]
+                            p: wpn.Name
                         },
                         class: 'a_section_head'
                     },
@@ -2935,7 +3019,7 @@ $(function () {
                                 }
                             },
                             {
-                                p: wpn.Desc[lang]
+                                p: wpn.Desc
                             },
                         ],
                         class: 'a_section_content'
@@ -3072,7 +3156,7 @@ $(function () {
                         div: {
                             ul: {
                                 li: function (k) {
-                                    return "<br>" + k.data[lang]
+                                    return "<br>" + k.data
                                 },
                                 data: wpn.Extra
                             },
@@ -3116,7 +3200,7 @@ $(function () {
         }
         var info2 = []
         info.forEach(function (t) {
-            if (t[lang]) info2.push(t[lang])
+            if (t) info2.push(t)
         })
         info2.forEach(function (t, i) {
             ret.push({
@@ -3124,7 +3208,7 @@ $(function () {
                     {
                         div: [
                             {
-                                span: (info2.length == 1) ? (wpn.EquipAffixName[lang]) : (wpn.EquipAffixName[lang] + " " + (i + 1)),
+                                span: (info2.length == 1) ? (wpn.EquipAffixName) : (wpn.EquipAffixName + " " + (i + 1)),
                                 style: {
                                     'margin-left': '0px',
                                     'margin-right': '15px',
@@ -3262,7 +3346,7 @@ $(function () {
         avatar_stat_ver = $(this).val()
         $('select').val(avatar_stat_ver)
         renderInfo(current_name, current_type)
-        $('#h_').html(_AvatarInfoConfig[char_id_list[current_name]].Name[lang] + " " + $('.stat_ver_choose select option:selected').html() + computer_.MiscText.Avatar_Table_Title_Extra[lang2])
+        $('#h_').html(_AvatarInfoConfig[char_id_list[current_name]].Name + " " + $('.stat_ver_choose select option:selected').html() + computer_.MiscText.Avatar_Table_Title_Extra[lang2])
     })
 
     $('body').on('change', '.stat_ver_choose_w select', function () {
@@ -3270,11 +3354,26 @@ $(function () {
         $('select').val(weapon_stat_ver)
         $('.weapon_section').empty().render(skillTemplate(cur_wpn, cur_skill))
         $('select').val(weapon_stat_ver)
-        $('#h_').html(cur_wpn.Name[lang] + " " + $('.stat_ver_choose_w select option:selected').html() + computer_.MiscText.Avatar_Table_Title_Extra[lang2])
+        $('#h_').html(cur_wpn.Name + " " + $('.stat_ver_choose_w select option:selected').html() + computer_.MiscText.Avatar_Table_Title_Extra[lang2])
         load_weapon_story()
     })
 
     function load_weapon_story() {
+        clearInterval(lws)
+        $('.lt').hide()
+        if (a_3) {
+            load_weapon_story_()
+        } else {
+            lws = setInterval(function () {
+                if (a_3) {
+                    load_weapon_story_()
+                    clearInterval(lws)
+                }
+            }, 200)
+        }
+    }
+
+    function load_weapon_story_() {
         if (!cur_wpn.StoryCount) return
         $('.story_this').render({
             template: {
@@ -3286,7 +3385,7 @@ $(function () {
         weapon_story_cache[cur_wpn.Story].forEach(function (this_, ind_) {
             $('.story_this').render({
                 template: {
-                    span: "<br>" + this_[lang],
+                    span: "<br>" + this_,
                     class: 'weapon_story weapon_story' + ind_,
                     style: {
                         display: 'none'
@@ -3318,10 +3417,10 @@ $(function () {
     function popMat(matid) {
         var mat = _MaterialConfig[matid]
         if (!mat) return
-        var hd = mat.Text[lang].indexOf('<br>')
-        if (hd == -1) hd = mat.Text[lang].length
+        var hd = mat.Text.indexOf('<br>')
+        if (hd == -1) hd = mat.Text.length
         poplayer({
-            header: mat.Text[lang].substring(0, hd) + computer_.MiscText.Avatar_Table_Title_Extra[lang2],
+            header: mat.Text.substring(0, hd) + computer_.MiscText.Avatar_Table_Title_Extra[lang2],
             width: '100%',
             class: 'mat-pop',
             template: {
@@ -3331,11 +3430,11 @@ $(function () {
                         class: 'mat-img'
                     },
                     {
-                        p: mat.Text[lang],
+                        p: mat.Text,
                         class: 'mat-name'
                     },
                     {
-                        p: mat.Desc[lang],
+                        p: mat.Desc,
                         class: 'mat-desc'
                     }
                 ],
@@ -3363,7 +3462,7 @@ $(function () {
                         class: 'mat-name_'
                     },
                     {
-                        p: mat[lang],
+                        p: mat,
                         class: 'mat-desc_'
                     }
                 ],
