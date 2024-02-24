@@ -7455,7 +7455,7 @@ var _monsterskill = {
     "301402007": {
         "Key": "Skill07",
         "Name": "Watery Dissolution",
-        "Desc": "(This skill is used immediately upon entering Phase 2)<br>Immediately deals killing blow to all locked-on targets, making them enter <color style='color:#f29e38;'>Morbid Dream</color>. If no targets are being locked on, randomly lock on to two targets.",
+        "Desc": "Immediately deals killing blow to all locked-on targets, making them enter <color style='color:#f29e38;'>Morbid Dream</color>. If no targets are being locked on, randomly lock on to two targets.",
         "SP": 0,
         "Threat": true
     },
@@ -10005,7 +10005,7 @@ var _monsterskill = {
     "301402107": {
         "Key": "Skill07",
         "Name": "Watery Dissolution",
-        "Desc": "(This skill is used immediately upon entering Phase 2)<br>Immediately deals killing blow to all locked-on targets, making them enter <color style='color:#f29e38;'>Morbid Dream</color>. If no targets are being locked on, randomly lock on to two targets.",
+        "Desc": "Immediately deals killing blow to all locked-on targets, making them enter <color style='color:#f29e38;'>Morbid Dream</color>. If no targets are being locked on, randomly lock on to two targets.",
         "SP": 0,
         "Threat": true
     },
@@ -10338,27 +10338,33 @@ var _monsterskill = {
     "301402201": {
         "Key": "Skill01",
         "Name": "Funereal Kiss",
-        "Desc": "Deals Physical DMG to a single target.",
+        "Desc": "Deals <1> Physical DMG to a single target.",
         "SP": 15.0,
-        "Elem": "Phys"
+        "Elem": "Phys",
+        "DMG": [
+            4
+        ]
     },
     "301402202": {
         "Key": "Skill02",
         "Name": "Sunken Rain",
-        "Desc": "Deals Physical DMG to all targets.",
+        "Desc": "Deals <1> Physical DMG to all targets.",
         "SP": 10.0,
-        "Elem": "Phys"
+        "Elem": "Phys",
+        "DMG": [
+            2.5
+        ]
     },
     "301402203": {
         "Key": "Skill03",
         "Name": "Harrowing Obituary",
-        "Desc": "Tremendously increases DMG dealt for 1 turn. This effect is removed when this unit becomes Weakness Broken. Every time this ability is used, gains 1 stack of DMG Boost, and increases the HP of any subsequently summoned Sombrous Sepulcher by 1 bar.",
+        "Desc": "Increases DMG dealt by <color style='color:#f29e38;'>50%</color> for 1 turn. This effect is removed when this unit becomes Weakness Broken.<br>Every time this ability is used, increases DMG dealt by an extra <color style='color:#f29e38;'>12%</color> (permanent and unremoveable), and increases the HP of any subsequently summoned <color style='color:#f29e38;'>Sombrous Sepulcher</color> by <color style='color:#f29e38;'>1</color> bar.",
         "SP": 0
     },
     "301402204": {
         "Key": "Skill04",
         "Name": "Fading Radiance",
-        "Desc": "Enters the Sunset state. Gains 1 stack each time a character takes action. When 3 stacks are gained, immediately uses Losing Eventide Light on the last-acting character. This effect is removed after using Losing Eventide Light once or after becoming Weakness Broken.",
+        "Desc": "Enters the <color style='color:#f29e38;'>Sunset</color> state. Gains 1 stack each time a character takes action. When 3 stacks are gained, immediately uses <color style='color:#f29e38;'>Losing Eventide Light</color> on the last-acting character. This effect is removed after using Losing Eventide Light once or after becoming Weakness Broken.",
         "SP": 0,
         "Threat": true
     },
@@ -10372,7 +10378,7 @@ var _monsterskill = {
     "301402206": {
         "Key": "Skill06",
         "Name": "Go Into That Good Night",
-        "Desc": "Enters the Nightfall state and gains the Weakness Protected effect. During this effect, lock on to 2 characters who are due to act next. Uses Watery Dissolution in the next action.",
+        "Desc": "Restores <color style='color:#f29e38;'>200</color> energy for all characters.<br>Enters the <color style='color:#f29e38;'>Nightfall</color> state and gains <color style='color:#f29e38;'>Weakness Protected</color>. During this effect, lock on to 2 characters who are due to act next. Uses <color style='color:#f29e38;'>Watery Dissolution</color> in the next action.",
         "SP": 0,
         "Threat": true
     },
@@ -10392,7 +10398,7 @@ var _monsterskill = {
     "301402209": {
         "Key": "PassiveSkill02",
         "Name": "Sad True Lover Never Find My Grave",
-        "Desc": "Whenever a target gets inflicted with Morbid Dream, summons a corresponding Sombrous Sepulcher. When all targets get inflicted with Morbid Dream or are knocked down, this battle will be considered a defeat.",
+        "Desc": "Whenever a target gets inflicted with <color style='color:#f29e38;'>Morbid Dream</color>, summons a corresponding <color style='color:#f29e38;'>Sombrous Sepulcher</color>, starting at <color style='color:#f29e38;'>4</color> HP Points.<br>Every time <color style='color:#f29e38;'>Harrowing Obituary</color> is used, all Sombrous Sepulchers subsequently summoned have their <color style='color:#f29e38;'>Max HP +1</color>.<br>When all targets get inflicted with Morbid Dream or are knocked down, this battle will be considered a defeat.",
         "SP": 0
     },
     "300301201": {

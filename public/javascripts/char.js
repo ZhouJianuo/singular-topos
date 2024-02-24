@@ -486,7 +486,7 @@ $(function () {
                     section: function (k) {
                         txt.Avatar_Head.forEach(function (t, i) {
                             $(k.container).render({
-                                schedule: t,
+                                schedule: t[lang],
                                 class: 'mon_head_option' + (i ? '' : ' active'),
                                 a: {
                                     'data-id': i + 1,

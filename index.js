@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
     let { game = '', lang = '' } = req.query;
     result.game = game;
     result.lang = lang;
-    result.title = 'HomDGCat Database'
+    result.title = 'HomDGCat Wiki'
     res.render('home', result);
 });
 
@@ -22,7 +22,7 @@ app.get('/en', (req, res) => {
     let { game = '', lang = '' } = req.query;
     result.game = game;
     result.lang = lang;
-    result.title = 'HomDGCat Database'
+    result.title = 'HomDGCat Wiki'
     res.render('home', result);
 });
 
@@ -31,7 +31,7 @@ app.get('/gi', (req, res) => {
     let { lang = '' } = req.query;
     result.game = 'GI';
     result.lang = lang;
-    result.title = 'HomDGCat Database'
+    result.title = 'HomDGCat Wiki'
     res.render('home', result);
 });
 
@@ -40,7 +40,7 @@ app.get('/sr', (req, res) => {
     let { lang = '' } = req.query;
     result.game = 'SR';
     result.lang = lang;
-    result.title = 'HomDGCat Database'
+    result.title = 'HomDGCat Wiki'
     res.render('home', result);
 });
 
@@ -55,7 +55,7 @@ app.get('/sr/monster/:id', async (req, res) => {
     result.hlg = hlg;
     result.def = def;
     result.imgpre = '../../'
-    result.title = 'HomDGCat Database';
+    result.title = 'HomDGCat Wiki';
     res.render('mons', result);
 });
 
@@ -70,7 +70,7 @@ app.get('/sr/monster', async (req, res) => {
     result.hlg = hlg;
     result.def = def;
     result.imgpre = '../'
-    result.title = 'HomDGCat Database';
+    result.title = 'HomDGCat Wiki';
     res.render('mons', result);
 });
 
@@ -81,7 +81,7 @@ app.get('/sr/chaos/:id', async (req, res) => {
     result.cid = req.params.id;
     result.fid = floor;
     result.imgpre = '../../'
-    result.title = 'HomDGCat Database';
+    result.title = 'HomDGCat Wiki';
     res.render('chaos', result);
 });
 
@@ -92,7 +92,7 @@ app.get('/sr/chaos', async (req, res) => {
     result.cid = id;
     result.fid = floor;
     result.imgpre = '../'
-    result.title = 'HomDGCat Database';
+    result.title = 'HomDGCat Wiki';
     res.render('chaos', result);
 });
 
@@ -103,7 +103,7 @@ app.get('/sr/fiction/:id', async (req, res) => {
     result.cid = req.params.id;
     result.fid = floor;
     result.imgpre = '../../'
-    result.title = 'HomDGCat Database';
+    result.title = 'HomDGCat Wiki';
     res.render('fiction', result);
 });
 
@@ -114,7 +114,7 @@ app.get('/sr/fiction', async (req, res) => {
     result.cid = id;
     result.fid = floor;
     result.imgpre = '../'
-    result.title = 'HomDGCat Database';
+    result.title = 'HomDGCat Wiki';
     res.render('fiction', result);
 });
 
@@ -124,7 +124,7 @@ app.get('/sr/ach/:id', async (req, res) => {
     result.lang = lang;
     result.id = req.params.id;
     result.imgpre = '../../'
-    result.title = 'HomDGCat Database';
+    result.title = 'HomDGCat Wiki';
     res.render('achsr', result);
 });
 
@@ -134,7 +134,7 @@ app.get('/sr/ach', async (req, res) => {
     result.lang = lang;
     result.id = id;
     result.imgpre = '../'
-    result.title = 'HomDGCat Database';
+    result.title = 'HomDGCat Wiki';
     res.render('achsr', result);
 });
 
@@ -143,7 +143,7 @@ app.get('/sr/load', async (req, res) => {
     let { lang = '' } = req.query;
     result.lang = lang;
     result.imgpre = '../'
-    result.title = 'HomDGCat Database';
+    result.title = 'HomDGCat Wiki';
     res.render('loadsr', result);
 });
 
@@ -152,7 +152,7 @@ app.get('/sr/blessing', async (req, res) => {
     let { lang = '' } = req.query;
     result.lang = lang;
     result.imgpre = '../'
-    result.title = 'HomDGCat Database';
+    result.title = 'HomDGCat Wiki';
     res.render('blessing', result);
 });
 
@@ -161,7 +161,7 @@ app.get('/sr/curio', async (req, res) => {
     let { lang = '' } = req.query;
     result.lang = lang;
     result.imgpre = '../'
-    result.title = 'HomDGCat Database';
+    result.title = 'HomDGCat Wiki';
     res.render('curio', result);
 });
 
@@ -171,6 +171,7 @@ app.get('/sr/char/:id', async (req, res) => {
     result.lang = lang;
     result.avid = req.params.id;
     result.imgpre = '../../';
+    result.title = 'HomDGCat Wiki';
     res.render('char', result);
 });
 
@@ -180,6 +181,7 @@ app.get('/sr/char', async (req, res) => {
     result.lang = lang;
     result.avid = id;
     result.imgpre = '../';
+    result.title = 'HomDGCat Wiki';
     res.render('char', result);
 });
 
@@ -189,6 +191,7 @@ app.get('/sr/item', async (req, res) => {
     result.lang = lang;
     result.avid = id;
     result.imgpre = '../';
+    result.title = 'HomDGCat Wiki';
     res.render('item', result);
 });
 
@@ -198,6 +201,7 @@ app.get('/sr/item/:id', async (req, res) => {
     result.lang = lang;
     result.avid = req.params.id;
     result.imgpre = '../../';
+    result.title = 'HomDGCat Wiki';
     res.render('item', result);
 });
 
@@ -207,6 +211,7 @@ app.get('/sr/items', async (req, res) => {
     result.lang = lang;
     result.avid = id;
     result.imgpre = '../';
+    result.title = 'HomDGCat Wiki';
     res.render('item', result);
 });
 
@@ -216,6 +221,7 @@ app.get('/sr/items/:id', async (req, res) => {
     result.lang = lang;
     result.avid = req.params.id;
     result.imgpre = '../../';
+    result.title = 'HomDGCat Wiki';
     res.render('item', result);
 });
 
@@ -225,6 +231,7 @@ app.get('/sr/event', async (req, res) => {
     result.lang = lang;
     result.avid = id;
     result.imgpre = '../';
+    result.title = 'HomDGCat Wiki';
     res.render('event', result);
 });
 
@@ -234,6 +241,7 @@ app.get('/sr/events', async (req, res) => {
     result.lang = lang;
     result.avid = id;
     result.imgpre = '../';
+    result.title = 'HomDGCat Wiki';
     res.render('event', result);
 });
 
@@ -243,6 +251,7 @@ app.get('/sr/rec', async (req, res) => {
     result.lang = lang;
     result.avid = id;
     result.imgpre = '../';
+    result.title = 'HomDGCat Wiki';
     res.render('rec', result);
 });
 

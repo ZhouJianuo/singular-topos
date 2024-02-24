@@ -69,25 +69,17 @@ var txt = {
     },
     "Mon_Head": [
         {
-            "CH": "数据",
-            "EN": "Stats"
+            "CH": "敌人",
+            "EN": "Enemy"
         },
         {
             "CH": "一图流",
             "EN": ""
         },
         {
-            "CH": "技能",
-            "EN": "Skills"
-        },
-        {
             "CH": "伤害计算",
             "EN": "Skill DMG"
-        },
-        {
-            "CH": "状态",
-            "EN": "Effects"
-        },
+        }
     ],
     "SkillPhase": [
         {

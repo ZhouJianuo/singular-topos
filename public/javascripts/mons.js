@@ -229,15 +229,16 @@ $(function () {
                             txt.Mon_Head.forEach(function (t, i) {
                                 if (i == 1) {
                                     if (me.Csxylic && lang == "CH") shown += 1
-                                } else if (i == 4) {
+                                } else if (i == 3) {
                                     if (me.Status && me.Status.length) shown += 1
                                 } else {
                                     shown += 1
                                 }
                             })
+                            if (shown < 3 && window.innerWidth > 500) shown = 3
                             txt.Mon_Head.forEach(function (t, i) {
                                 $(k.container).render({
-                                    schedule: t,
+                                    schedule: t[lang],
                                     class: 'mon_head_option' + (i ? '' : ' active'),
                                     a: {
                                         'data-id': i + 1,
@@ -259,8 +260,6 @@ $(function () {
                                                 $('.mon_body').empty()
                                                 $('.mon_csx').show()
                                             } else if (poptyp == 3) {
-                                                renderSkill(me)
-                                            } else if (poptyp == 4) {
                                                 renderDMG()
                                             } else {
                                                 renderStatus(me.Status)
@@ -272,7 +271,7 @@ $(function () {
                                             if (me.Csxylic && lang == "CH") return true
                                             return false
                                         }
-                                        if (i == 4) {
+                                        if (i == 3) {
                                             if (me.Status && me.Status.length) return true
                                             return false
                                         }
@@ -317,35 +316,55 @@ $(function () {
                 {
                     div: [
                         {
-                            div: [cur_mon.Name, {
-                                span: {
-                                    img: function (k) {
-                                        return imgpre + 'images/Element/' + k.data + '.png'
-                                    },
-                                    class: 'elem',
-                                    style: {
-                                        'vertical-align': 'middle'
-                                    },
-                                    data: cur_mon.Weak
-                                },
-                                style: {
-                                    'margin-left': '8px',
-                                    'white-space': 'pre'
-                                }
-                            }],
-                            class: 'a_section_head'
+                            div: cur_mon.Name,
+                            class: 'a_section_head',
+                            style: {
+                                'text-align': 'center',
+                                'padding-top': '10px'
+                            }
                         },
                         {
                             div: [
                                 {
-                                    img: imgpre + 'images/' + cur_mon.Figure,
-                                    class: 'figure',
-                                    when: cur_mon.Figure != undefined
+                                    span: {
+                                        img: function (k) {
+                                            return imgpre + 'images/Element/' + k.data + '.png'
+                                        },
+                                        class: 'elem_',
+                                        style: {
+                                            'vertical-align': 'middle'
+                                        },
+                                        data: cur_mon.Weak
+                                    },
+                                    style: {
+                                        display: 'flex',
+                                        'flex-direction': 'row',
+                                        'justify-content': 'center'
+                                    }
                                 },
                                 {
-                                    img: imgpre + 'images/' + cur_mon.Icon,
-                                    height: '80px',
-                                    when: cur_mon.Figure == undefined
+                                    div: {
+                                        img: imgpre + 'images/' + cur_mon.Figure,
+                                        class: 'figure',
+                                    },
+                                    when: cur_mon.Figure != undefined,
+                                    style: {
+                                        display: 'flex',
+                                        'flex-direction': 'row',
+                                        'justify-content': 'center'
+                                    }
+                                },
+                                {
+                                    div: {
+                                        img: imgpre + 'images/' + cur_mon.Icon,
+                                        height: '80px',
+                                    },
+                                    when: cur_mon.Figure == undefined,
+                                    style: {
+                                        display: 'flex',
+                                        'flex-direction': 'row',
+                                        'justify-content': 'center'
+                                    }
                                 },
                                 {
                                     p: 'ID ' + cur_mon._id,
@@ -354,12 +373,85 @@ $(function () {
                                         'font-size': '13px',
                                         'font-weight': 'bold',
                                         'color': '#fff',
+                                        'text-align': 'center'
                                     }
                                 },
                                 {
                                     p: cur_mon.Desc,
                                     style: {
                                         'margin': '0px',
+                                        'text-align': 'center'
+                                    }
+                                },
+                                {
+                                    hr: '',
+                                    style: {
+                                        margin: '15px 0px 8px'
+                                    }
+                                },
+                                {
+                                    div: function (k) {
+                                        elemlist.forEach(function (e) {
+                                            if (!cur_mon.RESBase[e]) return
+                                            $(k.container).render({
+                                                div: [
+                                                    {
+                                                        img: imgpre + 'images/Element/' + e + '.png',
+                                                        class: 'statpageicon'
+                                                    },
+                                                    {
+                                                        span: cur_mon.RESBase[e] ? (parseInt(cur_mon.RESBase[e] * 100) + '%') : '0%'
+                                                    }
+                                                ],
+                                                class: 'weakness_single'
+                                            })
+                                        })
+                                    },
+                                    class: 'weakness'
+                                },
+                                {
+                                    hr: '',
+                                    style: {
+                                        margin: '15px 0px 8px'
+                                    },
+                                    when: cur_mon.DebuffRES
+                                },
+                                {
+                                    div: function (k) {
+                                        debufflist.forEach(function (e) {
+                                            if (cur_mon.DebuffRES && cur_mon.DebuffRES[e.ID]) {
+                                                if (cur_mon.DebuffRES[e.ID] != 1) {
+                                                    var res = parseInt(cur_mon.DebuffRES[e.ID] * 100) + '%'
+                                                } else {
+                                                    var res = txt.Immune[lang]
+                                                }
+                                                $(k.container).render({
+                                                    template: {
+                                                        div: [
+                                                            {
+                                                                img: imgpre + 'images/Debuff/' + e.Icon + '.png',
+                                                                class: 'statpageicon'
+                                                            },
+                                                            {
+                                                                span: e.Name[lang]
+                                                            },
+                                                            {
+                                                                span: res,
+                                                                style: {
+                                                                    'padding-left': '6px'
+                                                                }
+                                                            }
+                                                        ],
+                                                        class: 'weakness_single'
+                                                    }
+                                                })
+                                            }
+                                        })
+                                    },
+                                    when: cur_mon.DebuffRES,
+                                    class: 'weakness',
+                                    style: {
+                                        'margin-bottom': '0'
                                     }
                                 }
                             ],
@@ -372,213 +464,72 @@ $(function () {
                     div: [
                         {
                             div: '',
-                            class: 'a_section_head basestat'
+                            class: 'a_section_head basestat',
                         },
                         {
                             div: [
                                 {
+                                    div: [],
+                                    class: 'base_stat_table'
+                                },
+                                {
                                     div: [
                                         {
-                                            div: [
-                                                {
-                                                    p: txt.BaseStatInput[0][lang]
-                                                },
-                                                {
-                                                    input: '',
-                                                    a: {
-                                                        type: 'number',
-                                                        placeholder: '1~100',
-                                                        value: LV
-                                                    },
-                                                    class: 'base_stat_lv'
-                                                },
-                                                {
-                                                    br: '',
-                                                },
-                                                {
-                                                    button: '▼',
-                                                    class: 'down'
-                                                },
-                                                {
-                                                    button: '▲',
-                                                    class: 'up'
-                                                }
-                                            ]
+                                            span: txt.BaseStatInput[1][lang] + ' : ' + _curvedescrev[lang][HLG],
+                                            style: {
+                                                margin: 'auto 20px'
+                                            }
                                         },
                                         {
-                                            div: [
-                                                {
-                                                    p: txt.BaseStatInput[1][lang]
-                                                },
-                                                {
-                                                    select: '',
-                                                    options: _curvedesc[lang],
-                                                    class: 'base_stat_hlg',
-                                                    value: HLG
-                                                }
-                                            ]
+                                            span: txt.BaseStatInput[2][lang] + ' : ' + EG,
+                                            style: {
+                                                margin: 'auto 20px'
+                                            }
                                         },
-                                        {
-                                            div: [
-                                                {
-                                                    p: txt.BaseStatInput[2][lang]
-                                                },
-                                                {
-                                                    input: '',
-                                                    a: {
-                                                        type: 'number',
-                                                        value: EG
-                                                    },
-                                                    class: 'base_stat_eg'
-                                                }
-                                            ]
-                                        }
                                     ],
                                     class: 'base_stat_input'
                                 },
                                 {
-                                    table: [],
-                                    class: 'base_stat_table'
-                                }
+                                    input: '',
+                                    a: {
+                                        type: 'hidden',
+                                        value: LV
+                                    },
+                                    class: 'base_stat_lv'
+                                },
+                                {
+                                    input: '',
+                                    a: {
+                                        type: 'hidden',
+                                        value: HLG
+                                    },
+                                    class: 'base_stat_hlg'
+                                },
+                                {
+                                    input: '',
+                                    a: {
+                                        type: 'hidden',
+                                        value: EG
+                                    },
+                                    class: 'base_stat_eg'
+                                },
                             ],
                             class: 'a_section_content',
                             style: {
-                                display: 'flex'
+                                'border-top': '1px solid #DDDDDD'
                             }
                         }
                     ],
-                    class: 'a_section_small'
-                },
-                {
-                    div: [
-                        {
-                            div: txt.MonsterLowerStats[1][lang],
-                            class: 'a_section_head'
-                        },
-                        {
-                            div: [
-                                {
-                                    table: function (k) {
-                                        var count_ = 0
-                                        elemlist.forEach(function (e) {
-                                            if (!cur_mon.RESBase[e]) return
-                                            $(k.container).render({
-                                                template: {
-                                                    tr: [
-                                                        {
-                                                            td: {
-                                                                img: imgpre + 'images/Element/' + e + '.png',
-                                                                class: 'statpageicon'
-                                                            }
-                                                        },
-                                                        {
-                                                            td: cur_mon.RESBase[e] ? (parseInt(cur_mon.RESBase[e] * 100) + '%') : '0%'
-                                                        }
-                                                    ]
-                                                }
-                                            })
-                                            count_ += 1
-                                        })
-                                        while (count_ < elemlist.length) {
-                                            $(k.container).render({
-                                                template: {
-                                                    tr: [
-                                                        {
-                                                            td: '1',
-                                                            style: {
-                                                                opacity: '0'
-                                                            }
-                                                        },
-                                                        {
-                                                            td: ''
-                                                        },
-                                                        {
-                                                            td: ''
-                                                        }
-                                                    ]
-                                                }
-                                            })
-                                            count_ += 1
-                                        }
-                                    }
-                                },
-                                {
-                                    table: function (k) {
-                                        var count = 0
-                                        debufflist.forEach(function (e) {
-                                            if (cur_mon.DebuffRES && cur_mon.DebuffRES[e.ID]) {
-                                                if (cur_mon.DebuffRES[e.ID] != 1) {
-                                                    var res = parseInt(cur_mon.DebuffRES[e.ID] * 100) + '%'
-                                                } else {
-                                                    var res = txt.Immune[lang]
-                                                }
-                                                $(k.container).render({
-                                                    template: {
-                                                        tr: [
-                                                            {
-                                                                td: {
-                                                                    img: imgpre + 'images/Debuff/' + e.Icon + '.png',
-                                                                    class: 'statpageicon'
-                                                                }
-                                                            },
-                                                            {
-                                                                td: e.Name
-                                                            },
-                                                            {
-                                                                td: res,
-                                                                style: {
-                                                                    'padding-left': '15px'
-                                                                }
-                                                            }
-                                                        ]
-                                                    }
-                                                })
-                                                count += 1
-                                            }
-                                        })
-                                        while (count < elemlist.length) {
-                                            $(k.container).render({
-                                                template: {
-                                                    tr: [
-                                                        {
-                                                            td: '1',
-                                                            style: {
-                                                                opacity: '0'
-                                                            }
-                                                        },
-                                                        {
-                                                            td: ''
-                                                        },
-                                                        {
-                                                            td: ''
-                                                        }
-                                                    ]
-                                                }
-                                            })
-                                            count += 1
-                                        }
-                                    },
-                                    style: {
-                                        'padding-left': '10%'
-                                    }
-                                }
-                            ],
-                            class: 'a_section_content',
-                            style: {
-                                display: 'flex',
-                                'flex-wrap': 'wrap',
-                            }
-                        },
-                    ],
-                    class: 'a_section_small'
+                    class: 'a_section'
                 },
             ]
         })
         renderStat(cur_mon)
+        renderSkill(cur_mon)
     }
 
     function renderSkill(cur_mon) {
-        $('.mon_body').empty().render({
+        $('.mon_body').render({
             template: {
                 section: '',
                 class: 'skill_phase'
@@ -616,6 +567,7 @@ $(function () {
                 $('.skill_phase schedule:nth-child(1)').addClass('active')
             }
         }
+        renderStatus(cur_mon.Status)
     }
 
     function renderSkillPhase(cur_mon, i) {
@@ -835,7 +787,39 @@ $(function () {
 
     function renderStat(cur_mon) {
         getStats2()
-        $('.basestat').html(txt.MonsterLowerStats[0][lang] + ' Lv' + LV)
+        $('.basestat').empty().render([
+            {
+                span: {
+                    span: '▼',
+                    style: {
+                        'font-size': '16px',
+                        'line-height': '24px'
+                    }
+                },
+                class: 'down',
+            },
+            {
+                div: {
+                    span: 'Lv' + LV,
+                },
+                style: {
+                    margin: '0',
+                    display: 'flex',
+                    'flex-direction': 'column',
+                    'justify-content': 'center'
+                }
+            }, 
+            {
+                span: {
+                    span: '▲',
+                    style: {
+                        'font-size': '16px',
+                        'line-height': '24px'
+                    }
+                },
+                class: 'up',
+            },
+        ])
         var _eg = _elitegroup[EG]
         var _hlg = _hardlevelgroup[HLG][LV - 1]
         var _hp = cur_mon.Stats.HP * _hlg.HP * _eg.HPRatio + (cur_mon.StatsExtra ? (cur_mon.StatsExtra.HP ? cur_mon.StatsExtra.HP : 0) : 0)
@@ -848,105 +832,110 @@ $(function () {
         $('.base_stat_table').empty().render({
             template: [
                 {
-                    tr: [
+                    span: [
                         {
-                            td: props.HP[lang]
+                            img: imgpre + 'images/AddProp/IconMaxHP.png',
+                            class: 'statpageicon'
                         },
                         {
-                            td: function () {
-                                var s = _hp.toFixed(0)
+                            span: function () {
+                                var s = '<color style="color:#f29e38">' + _hp.toFixed(0) + '</color>'
                                 if (cur_mon.HPCount && cur_mon.HPCount > 1) {
                                     s += ' ×' + cur_mon.HPCount
                                 }
                                 return s
                             },
-                            class: 'stat_'
+                            class: 'stat_num'
                         }
-                    ]
+                    ],
+                    class: 'stat_card'
                 },
                 {
-                    tr: [
+                    span: [
                         {
-                            td: props.Stance[lang]
+                            img: function (k) {
+                                return imgpre + 'images/Element/' + k.data + '.png'
+                            },
+                            class: 'statpageicon',
+                            data: cur_mon.Weak,
+                            style: {
+                                margin: '0'
+                            }
                         },
                         {
-                            td: [
-                                _stance.toFixed(0), 
-                                {
-                                    span: {
-                                        img: function (k) {
-                                            return imgpre + 'images/Element/' + k.data + '.png'
-                                        },
-                                        class: 'elem',
-                                        style: {
-                                            'vertical-align': 'middle'
-                                        },
-                                        data: cur_mon.Weak
-                                    },
-                                    style: {
-                                        'margin-left': '8px',
-                                        'white-space': 'pre'
-                                    }
-                                }
-                            ],
-                            class: 'stat_'
+                            span: _stance.toFixed(0),
+                            class: 'stat_num',
+                            style: {
+                                'margin-left': '7px'
+                            }
                         }
-                    ]
+                    ],
+                    class: 'stat_card'
                 },
                 {
-                    tr: [
+                    span: [
                         {
-                            td: props.SPD[lang]
+                            img: imgpre + 'images/AddProp/IconSpeed.png',
+                            class: 'statpageicon'
                         },
                         {
-                            td: _spd.toFixed(2),
-                            class: 'stat_'
+                            span: _spd.toFixed(2),
+                            class: 'stat_num'
                         }
-                    ]
+                    ],
+                    class: 'stat_card'
                 },
                 {
-                    tr: [
+                    span: [
                         {
-                            td: props.StatusRES[lang]
+                            img: imgpre + 'images/AddProp/IconStatusResistance.png',
+                            class: 'statpageicon'
                         },
                         {
-                            td: (_res * 100).toFixed(1) + '%',
-                            class: 'stat_'
+                            span: (_res * 100).toFixed(1) + '%',
+                            class: 'stat_num'
                         }
-                    ]
+                    ],
+                    class: 'stat_card'
                 },
                 {
-                    tr: [
+                    span: [
                         {
-                            td: props.StatusProb[lang]
+                            img: imgpre + 'images/AddProp/IconStatusProbability.png',
+                            class: 'statpageicon'
                         },
                         {
-                            td: (_prob * 100).toFixed(1) + '%',
-                            class: 'stat_'
+                            span: (_prob * 100).toFixed(1) + '%',
+                            class: 'stat_num'
                         }
-                    ]
+                    ],
+                    class: 'stat_card'
                 },
                 {
-                    tr: [
+                    span: [
                         {
-                            td: props.DEF[lang]
+                            img: imgpre + 'images/AddProp/IconDefence.png',
+                            class: 'statpageicon'
                         },
                         {
-                            td: _def.toFixed(0),
-                            class: 'stat_'
+                            span: _def.toFixed(0),
+                            class: 'stat_num'
                         }
-                    ]
+                    ],
+                    class: 'stat_card'
                 },
                 {
-                    tr: [
+                    span: [
                         {
-                            td: props.ATK[lang]
+                            img: imgpre + 'images/AddProp/IconAttack.png',
+                            class: 'statpageicon'
                         },
                         {
-                            td: _atk.toFixed(0),
-                            class: 'stat_'
+                            span: _atk.toFixed(0),
+                            class: 'stat_num'
                         }
-                    ]
+                    ],
+                    class: 'stat_card'
                 },
             ]
         })
@@ -997,12 +986,13 @@ $(function () {
     $('body').on('click', '.input_calc', function () {
         IS_DMG = 1
         getStats1()
-        $(".mon_head_option[data-tu='Skills']").click()
+        $(".mon_head_option[data-tu='Enemy']").click()
+        $('popbody').scrollTop($('.basestat')[0].offsetTop - 80)
     })
 
     $('body').on('click', '.input_reset', function () {
         IS_DMG = 0
-        $(".mon_head_option[data-tu='Skills']").click()
+        $(".mon_head_option[data-tu='Enemy']").click()
     })
 
     $('body').on('click', '.avatar-card', function () {
@@ -1019,7 +1009,17 @@ $(function () {
     })
 
     function renderStatus(L) {
-        $('.mon_body').empty()
+        if (!L) return
+        if (!L.length) return
+        $('.mon_body').render({
+            hr: '',
+            style: {
+                margin: '0 0 15px',
+                width: '100%',
+                height: '1px',
+                'background-color': 'black'
+            }
+        })
         L.forEach(function (skid) {
             var status = _status[skid]
             var typedesc = "<span style='font-size:14px;color:#fff;font-weight:bold;margin-left:10px;margin-right:5px;float:right;'>" + (status.Type ? ((status.Type == "Buff") ? txt.StatusType.Buff[lang] : txt.StatusType.Debuff[lang]) : txt.StatusType.Other[lang]) + "</span>"

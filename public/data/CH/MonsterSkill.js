@@ -7455,7 +7455,7 @@ var _monsterskill = {
     "301402007": {
         "Key": "Skill07",
         "Name": "如水逝于水中",
-        "Desc": "（第二阶段开启时立刻强制施放一次）<br>立即对所有被锁定的我方目标发动致命攻击，使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。如果没有被锁定的目标，则随机对2名我方目标发动致命攻击并使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。",
+        "Desc": "立即对所有被锁定的我方目标发动致命攻击，使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。如果没有被锁定的目标，则随机对2名我方目标发动致命攻击并使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。",
         "SP": 0,
         "Threat": true
     },
@@ -10005,7 +10005,7 @@ var _monsterskill = {
     "301402107": {
         "Key": "Skill07",
         "Name": "如水逝于水中",
-        "Desc": "（第二阶段开启时立刻强制施放一次）<br>立即对所有被锁定的我方目标发动致命攻击，使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。如果没有被锁定的目标，则随机对2名我方目标发动致命攻击并使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。",
+        "Desc": "立即对所有被锁定的我方目标发动致命攻击，使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。如果没有被锁定的目标，则随机对2名我方目标发动致命攻击并使其陷入<color style='color:#f29e38;'>【梦死】</color>状态。",
         "SP": 0,
         "Threat": true
     },
@@ -10338,27 +10338,33 @@ var _monsterskill = {
     "301402201": {
         "Key": "Skill01",
         "Name": "葬仪之吻",
-        "Desc": "对我方单体造成物理属性伤害。",
+        "Desc": "对我方单体造成 <1> 物理属性伤害。",
         "SP": 15.0,
-        "Elem": "Phys"
+        "Elem": "Phys",
+        "DMG": [
+            4
+        ]
     },
     "301402202": {
         "Key": "Skill02",
         "Name": "沦没黑雨",
-        "Desc": "对我方全体造成物理属性伤害。",
+        "Desc": "对我方全体造成 <1> 物理属性伤害。",
         "SP": 10.0,
-        "Elem": "Phys"
+        "Elem": "Phys",
+        "DMG": [
+            2.5
+        ]
     },
     "301402203": {
         "Key": "Skill03",
         "Name": "彻心悼词",
-        "Desc": "极大提升自身造成的伤害，持续1回合，陷入弱点击破状态后解除。每次释放时获得1层伤害提高，并使后续召唤的【永眠墓碣】生命值增加1格。",
+        "Desc": "使自身造成的伤害提升 <color style='color:#f29e38;'>50%</color>，持续 1 回合，陷入弱点击破状态后解除。<br>每次释放时获得伤害额外提升 <color style='color:#f29e38;'>12%</color>（永久，不可解除），并使后续召唤的<color style='color:#f29e38;'>【永眠墓碣】</color>生命值增加 <color style='color:#f29e38;'>1</color> 格。",
         "SP": 0
     },
     "301402204": {
         "Key": "Skill04",
         "Name": "光明消歇",
-        "Desc": "进入【白日西沉】状态。每当有角色主动行动时叠加1层，当叠加3层时，立即对上一个行动的角色施放【已在黄昏失色】。施放过一次【已在黄昏失色】或被弱点击破后解除该状态。",
+        "Desc": "进入<color style='color:#f29e38;'>【白日西沉】</color>状态。每当有角色主动行动时叠加1层，当叠加3层时，立即对上一个行动的角色施放<color style='color:#f29e38;'>【已在黄昏失色】</color>。施放过一次【已在黄昏失色】或被弱点击破后解除该状态。",
         "SP": 0,
         "Threat": true
     },
@@ -10372,7 +10378,7 @@ var _monsterskill = {
     "301402206": {
         "Key": "Skill06",
         "Name": "步入良夜",
-        "Desc": "进入【夜幕降临】状态并获得【弱点无效】效果，期间会锁定我方优先行动的2名角色。下次行动时使用【如水逝于水中】。",
+        "Desc": "为我方全体恢复 <color style='color:#f29e38;'>200</color> 点能量，并进入<color style='color:#f29e38;'>【夜幕降临】</color>状态并获得<color style='color:#f29e38;'>【弱点无效】</color>效果，期间会锁定我方优先行动的 <color style='color:#f29e38;'>2</color> 名角色。下次行动时使用<color style='color:#f29e38;'>【如水逝于水中】</color>。",
         "SP": 0,
         "Threat": true
     },
@@ -10392,7 +10398,7 @@ var _monsterskill = {
     "301402209": {
         "Key": "PassiveSkill02",
         "Name": "无从凭吊的荒场",
-        "Desc": "每当我方目标陷入【梦死】状态时，召唤一个对应的【永眠墓碣】；当我方全体陷入【梦死】状态或无法战斗状态时，战斗失败。",
+        "Desc": "每当我方目标陷入<color style='color:#f29e38;'>【梦死】</color>状态时，召唤一个对应的<color style='color:#f29e38;'>【永眠墓碣】</color>，初始具有 <color style='color:#f29e38;'>4</color> 点生命值。<br>每次使用<color style='color:#f29e38;'>【彻心悼词】</color>时，后续召唤的永眠墓碣<color style='color:#f29e38;'>生命值+1</color>。<br>当我方全体陷入【梦死】状态或无法战斗状态时，战斗失败。",
         "SP": 0
     },
     "300301201": {

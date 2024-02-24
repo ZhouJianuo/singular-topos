@@ -593,8 +593,8 @@ var _SpiralAbyssSchedule = [
         ]
     },
     {
-        "Name": "4.5v3",
-        "Show": "4.5v3",
+        "Name": "4.5v4",
+        "Show": "4.5v4",
         "Generation": 4,
         "OpenTime": "2024/03/16 - 2024/04/30",
         "Phases": [
@@ -1059,7 +1059,7 @@ var _SpiralAbyssDPSData = [
                 "DPS": 1833435
             },
             {
-                "Ver": "4.5v3",
+                "Ver": "4.5v4",
                 "DPS": 1721835
             }
         ]
@@ -1183,7 +1183,7 @@ var _SpiralAbyssDPSData = [
                 "DPS": 14335494
             },
             {
-                "Ver": "4.5v3",
+                "Ver": "4.5v4",
                 "DPS": 18078432
             }
         ]
@@ -1308,7 +1308,7 @@ var _SpiralAbyssDPSData = [
                 "DPS": 3566150
             },
             {
-                "Ver": "4.5v3",
+                "Ver": "4.5v4",
                 "DPS": 4043151
             }
         ]
@@ -1433,7 +1433,7 @@ var _SpiralAbyssDPSData = [
                 "DPS": 3090036
             },
             {
-                "Ver": "4.5v3",
+                "Ver": "4.5v4",
                 "DPS": 3912229
             }
         ]
@@ -1558,7 +1558,7 @@ var _SpiralAbyssDPSData = [
                 "DPS": 3688091
             },
             {
-                "Ver": "4.5v3",
+                "Ver": "4.5v4",
                 "DPS": 4187321
             }
         ]
@@ -43367,7 +43367,8 @@ var _SpiralAbyssFloorConfig = {
         "ShowVers": [
             1,
             2,
-            3
+            3,
+            4
         ],
         "Chambers": [
             {
@@ -43907,7 +43908,8 @@ var _SpiralAbyssFloorConfig = {
         "ShowVers": [
             1,
             2,
-            3
+            3,
+            4
         ],
         "Chambers": [
             {

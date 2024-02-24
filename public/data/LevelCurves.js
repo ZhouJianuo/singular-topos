@@ -8790,3 +8790,18 @@ var _curvedesc = {
         "Aetherium Wars": 1401
     }
 }
+
+var _curvedescrev = {
+    "CH": {
+        "1": "标准",
+        "3": "混沌回忆",
+        "2": "强化",
+        "1401": "以太战线"
+    },
+    "EN": {
+        "1": "Standard",
+        "2": "MoC",
+        "3": "Powered",
+        "1401": "Aetherium Wars"
+    }
+}
