@@ -118,30 +118,24 @@ $(function () {
         a_3 = 0
         a_4 = 0
 
-        setTimeout(function () {
-            let script_2 = document.createElement('script')
-            script_2.src = '/gi/' + lang + '/avatar_2.js'
-            document.head.append(script_2)
-            script_2.onload = function () {
-                a_2 = 1
-                setTimeout(function () {
-                    let script_3 = document.createElement('script')
-                    script_3.src = '/gi/' + lang + '/avatar_3.js'
-                    document.head.append(script_3)
-                    script_3.onload = function () {
-                        a_3 = 1
-                        setTimeout(function () {
-                            let script_4 = document.createElement('script')
-                            script_4.src = '/gi/' + lang + '/avatar_4.js'
-                            document.head.append(script_4)
-                            script_4.onload = function () {
-                                a_4 = 1
-                            }
-                        }, 3000)
-                    }
-                }, 3000)
+        let script_2 = document.createElement('script')
+        script_2.src = '/gi/' + lang + '/avatar_2.js'
+        document.head.append(script_2)
+        script_2.onload = function () {
+            a_2 = 1
+            let script_3 = document.createElement('script')
+            script_3.src = '/gi/' + lang + '/avatar_3.js'
+            document.head.append(script_3)
+            script_3.onload = function () {
+                a_3 = 1
+                let script_4 = document.createElement('script')
+                script_4.src = '/gi/' + lang + '/avatar_4.js'
+                document.head.append(script_4)
+                script_4.onload = function () {
+                    a_4 = 1
+                }
             }
-        }, 3000)
+        }
 
         this_ver_ = __AvatarInfoConfig[0].Note
         pop_ver = " " + this_ver_
