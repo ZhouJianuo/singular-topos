@@ -132,6 +132,15 @@ popdialog {
     font-weight: bold;
 }
 
+.cts {
+    margin: 5px;
+    font-size: 15px;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(37, 69, 186) 
+}
+
 .a_section_content {
     font-size: 15px;
     margin-left: 15px;

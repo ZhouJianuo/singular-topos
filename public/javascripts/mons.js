@@ -572,6 +572,10 @@ $(function () {
 
     function renderSkillPhase(cur_mon, i) {
         $('.mon_body_').empty()
+        $('.mon_body_').render({
+            p: txt.Chart_Subtitle[lang],
+            class: 'cts'
+        })
         if (IS_DMG) {
             $('.mon_body_').render({
                 p: txt.MonLV[lang] + LV + '&nbsp;&nbsp;&nbsp;&nbsp;' + txt.AvatarDEF[lang] + DEF,
