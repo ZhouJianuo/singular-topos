@@ -102,13 +102,13 @@ $(function() {
                     t: [
                         {
                             div: {
-                                span: `[[Title/${lang}]]`,
+                                span: `[[Title/${lang2}]]`,
                             },
                             class: 'dir_head'
                         },
                         {
                             div: {
-                                span: `[[Link/${lang}]]`,
+                                span: `[[Link/${lang2}]]`,
                             },
                             class: 'dir_link',
                             when: function (k) {
@@ -118,7 +118,7 @@ $(function() {
                         {
                             div: {
                                 li: {
-                                    span: `[[${lang}]]`
+                                    span: `[[${lang2}]]`
                                 },
                                 datapath: 'Features'
                             },

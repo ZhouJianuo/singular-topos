@@ -6250,83 +6250,99 @@ var links = [
     {
         "Name": {
             "CH": "<b>主页</b>",
-            "EN": "<b>Home</b>"
+            "EN": "<b>Home</b>",
+            "RU": "<b>Главная</b>"
         },
         "Link": {
             "CH": "/gi",
-            "EN": "/gi"
+            "EN": "/gi",
+            "RU": "/gi"
         }
     },
     {
         "Name": {
             "CH": "<b>星穹铁道</b>",
-            "EN": "<b>Star Rail</b>"
+            "EN": "<b>Star Rail</b>",
+            "RU": "<b>Star Rail</b>"
         },
         "Link": {
             "CH": "/sr",
-            "EN": "/sr"
+            "EN": "/sr",
+            "RU": "/sr"
         }
     },
     {
         "Name": {
             "CH": "怪物",
-            "EN": "Monsters"
+            "EN": "Monsters",
+            "RU": "Противники"
         },
         "Link": {
             "CH": "/gi/monster",
-            "EN": "/gi/monster"
+            "EN": "/gi/monster",
+            "RU": "/gi/monster"
         }
     },
     {
         "Name": {
             "CH": "角色 武器 圣遗物",
-            "EN": "<color style='font-size:17px;'>Characters Weapons Artifacts</color>"
+            "EN": "<color style='font-size:17px;'>Characters Weapons Artifacts</color>",
+            "RU": "<color style='font-size:17px;'>Персонажи Оружие Артефакты</color>"
         },
         "Link": {
             "CH": "/gi/char",
-            "EN": "/gi/char"
+            "EN": "/gi/char",
+            "RU": "/gi/char"
         }
     },
     {
         "Name": {
             "CH": "深境螺旋",
-            "EN": "Spiral Abyss"
+            "EN": "Spiral Abyss",
+            "RU": "Витая Бездна"
         },
         "Link": {
             "CH": "/gi/abyss",
-            "EN": "/gi/abyss"
+            "EN": "/gi/abyss",
+            "RU": "/gi/abyss"
         }
     },
     {
         "Name": {
             "CH": "成就",
-            "EN": "Achievements"
+            "EN": "Achievements",
+            "RU": "Достижения"
         },
         "Link": {
             "CH": "/gi/ach",
-            "EN": "/gi/ach"
+            "EN": "/gi/ach",
+            "RU": "/gi/ach"
         }
     },
     {
         "Name": {
             "CH": "加载提示",
-            "EN": "Loading Tips"
+            "EN": "Loading Tips",
+            "RU": "Подсказки на экране загрузки"
         },
         "Link": {
             "CH": "/gi/load",
-            "EN": "/gi/load"
+            "EN": "/gi/load",
+            "RU": "/gi/load"
         }
     },
     {
         "Name": {
             "CH": "怪物护盾",
-            "EN": "Monster Shields"
+            "EN": "Monster Shields",
+            "RU": "Щиты противников"
         },
         "Link": {
             "CH": "/gi/shield",
-            "EN": "/gi/shield"
+            "EN": "/gi/shield",
+            "RU": "/gi/shield"
         }
-    },
+    }
 ]
 
 var is_ru = 0
@@ -6400,10 +6416,10 @@ $('body').on('click', '.links', function () {
                         template: {
                             schedule: {
                                 a: function (j) {
-                                    return j.data.Link[lang] + '?lang=' + (is_ru ? 'RU' : lang)
+                                    return j.data.Link[lang] + '?lang=' + lang2
                                 },
                                 t: {
-                                    span: `[[Name/${lang}]]`,
+                                    span: `[[Name/${lang2}]]`,
                                     style: {
                                         'font-size': '19px',
                                         'margin': 'auto'
