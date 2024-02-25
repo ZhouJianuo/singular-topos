@@ -15308,29 +15308,29 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 340001,
-                "Name": "Sea Breeze Dandelion",
-                "Desc": "Jean's summer wear. Light and cool, but no less elegant for it. The perfect choice for a trip to the seaside.",
+                "Name": "Сон морского бриза",
+                "Desc": "Пляжный наряд Джинн. Лёгкий и одновременно элегантный. Идеальный вариант для поездки на море.",
                 "Icon": "UI_AvatarIcon_QinCostumeSea",
                 "Quality": 4
             },
             {
                 "ID": 340006,
-                "Name": "Gunnhildr's Legacy",
-                "Desc": "Jean's outfit. This classic knight's ceremonial outfit is suited to all manner of occasions.",
+                "Name": "Наследие Гуннхильдр",
+                "Desc": "Наряд Джинн. Классическое церемониальное одеяние рыцарей для любого повода.",
                 "Icon": "UI_AvatarIcon_QinCostumeWic",
                 "Quality": 4
             },
             {
                 "ID": 0,
-                "Name": "Favonian Devotion",
-                "Desc": "Jean's outfit. Neat and smart clothing that emphasizes her chivalry.",
+                "Name": "Покровительство ветра",
+                "Desc": "Наряд Джинн. Опрятная одежда, которая демонстрирует её рыцарскую элегантность.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Jean: The Winds' Course</b>",
-            "Desc": "Namecard style.<br>The dandelion, also called \"lion's fang\" by some, is the flower most sensitive to the direction of the wind.",
+            "Name": "<b>Одуванчики</b>",
+            "Desc": "Именная карта.<br>Одуванчик лучше других цветов ощущает направление ветра.",
             "Pic": "UI_NameCardPic_Qin_P"
         }
     },
@@ -15338,22 +15338,22 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 340000,
-                "Name": "Summertime Sparkle",
-                "Desc": "Barbara's beach attire. This pretty skirt brims with summer vitality and carries with it a cool ocean breeze.",
+                "Name": "Летний блеск",
+                "Desc": "Пляжный наряд Барбары. Прекрасная юбка наполнена энергией лета и пропитана свежим воздухом океана.",
                 "Icon": "UI_AvatarIcon_BarbaraCostumeSummertime",
                 "Quality": 4
             },
             {
                 "ID": 0,
-                "Name": "Innocent Longing",
-                "Desc": "Barbara's outfit. A Deaconess's uniform from the Church of Favonius with a unique Barbara streak running through it.",
+                "Name": "Невинные надежды",
+                "Desc": "Наряд Барбары. Форма пастора церкви Фавония, сшитая специально для Барбары.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Barbara: Flow</b>",
-            "Desc": "Namecard style.<br>When Barbara sings, her melodic voice flows like the tender healing of a clear spring.",
+            "Name": "<b>Мелодия</b>",
+            "Desc": "Именная карта.<br>Мелодия Барбары словно целебный родник: поставит на ноги и утолит вашу жажду.",
             "Pic": "UI_NameCardPic_Barbara_P"
         }
     },
@@ -15361,22 +15361,22 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 340002,
-                "Name": "Orchid's Evening Gown",
-                "Desc": "Ningguang's formal wear. The long cyan skirt traces her elegant curves, and the butterfly wings at her ankles lend the outfit a touch of light grace.",
+                "Name": "Флёр орхидеи",
+                "Desc": "Праздничный наряд Нин Гуан. Длинное платье цвета индиго подчеркивает элегантные изгибы красавицы, а крылья бабочки на лодыжках придают наряду лёгкое изящество.",
                 "Icon": "UI_AvatarIcon_NingguangCostumeFloral",
                 "Quality": 4
             },
             {
                 "ID": 0,
-                "Name": "Gold Leaf and Pearly Jade",
-                "Desc": "Ningguang's outfit. Intricate embroidery is the hallmark of this graceful dress.",
+                "Name": "Золотой нефрит",
+                "Desc": "Наряд Нин Гуан. Элегантное платье украшено мастерской вышивкой.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Ningguang: Phoenix</b>",
-            "Desc": "Namecard style.<br>They say that \"more's the pity that phoenixes are few.\" But seriously, one Ningguang is more than enough...",
+            "Name": "<b>Величие феникса</b>",
+            "Desc": "Именная карта.<br>Как говорится: «Худшее в фениксах - это то, что их мало». Но, на самом деле, одной Нин Гуан более чем достаточно...",
             "Pic": "UI_NameCardPic_Ningguang_P"
         }
     },
@@ -15384,22 +15384,22 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 340003,
-                "Name": "Opulent Splendor",
-                "Desc": "Keqing's formal wear. Amidst the beautiful dawn of the Lantern Rite, the threads weaved by days of hard work intertwine into a light yet magnificent appearance.",
+                "Name": "Яркая лёгкость",
+                "Desc": "Праздничный наряд Кэ Цин. В утренние часы праздника морских фонарей нити, результат тяжёлой работы, сплетаются в лёгкий великолепный образ.",
                 "Icon": "UI_AvatarIcon_KeqingCostumeFeather",
                 "Quality": 4
             },
             {
                 "ID": 0,
-                "Name": "Piercing Thunderbolt",
-                "Desc": "Keqing's outfit. A formidable-looking dress made using luxurious materials.",
+                "Name": "Раскаты грома",
+                "Desc": "Наряд Кэ Цин. Эффектное платье из роскошных материалов.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Keqing: Lightning Stiletto</b>",
-            "Desc": "Namecard style.<br>It was originally invented to just test out one's surroundings and climb to high places, really...",
+            "Name": "<b>Громовой стилет</b>",
+            "Desc": "Именная карта.<br>Изначально громовые стилеты планировали использовать для измерения расстояния и быстрого подъёма в горы.",
             "Pic": "UI_NameCardPic_Keqing_P"
         }
     },
@@ -15407,22 +15407,22 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 340007,
-                "Name": "100% Outrider",
-                "Desc": "Amber's outfit. This is a more formal — but no less cool — version of the Outrider's uniform!",
+                "Name": "Скаут на все сто",
+                "Desc": "Наряд Эмбер. Более формальный, но от того не менее крутой мундир скаута!",
                 "Icon": "UI_AvatarIcon_AmborCostumeWic",
                 "Quality": 4
             },
             {
                 "ID": 0,
-                "Name": "5-Star Outrider",
-                "Desc": "Amber's outfit. An Outrider's uniform made for maximum mobility.",
+                "Name": "Лучший скаут",
+                "Desc": "Наряд Эмбер. Костюм, призванный повысить подвижность рыцаря-скаута.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Amber: Bunny</b>",
-            "Desc": "Namecard style.<br>\"It's Baron Bunny!\"",
+            "Name": "<b>Барон Зайчик</b>",
+            "Desc": "Именная карта.<br>Это же Барон Зайчик!",
             "Pic": "UI_NameCardPic_Ambor_P"
         }
     },
@@ -15430,22 +15430,22 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 340008,
-                "Name": "Pact of Stars and Moon",
-                "Desc": "Mona's outfit. A costume made specifically to encompass the astrological concept of \"the destined moment,\" thanks to the 30% discount ticket she got from the celestial globe refund.",
+                "Name": "Встреча звёзд и луны",
+                "Desc": "Наряд Моны. Приобретён специально для встречи с астрологическим «предначертанным мгновением» благодаря купону с 30% скидкой, который Мона получила за покупку звёздного глобуса.",
                 "Icon": "UI_AvatarIcon_MonaCostumeWic",
                 "Quality": 4
             },
             {
                 "ID": 0,
-                "Name": "Flowing Fate",
-                "Desc": "Mona's outfit. A light astrologist's outfit that does away with superfluous fabric to provide top quality at an affordable price.",
+                "Name": "Круговорот звёзд",
+                "Desc": "Наряд Моны. Лёгкое платье астролога, в котором ради хорошего качества и умеренной цены поскупились на материале.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Mona: Starry Sky</b>",
-            "Desc": "Namecard style.<br>A girl gazes down at the stars' reflection on the water, pondering the joys and sorrows of life.",
+            "Name": "<b>Звёздная гладь</b>",
+            "Desc": "Именная карта.<br>Опустив свой взгляд на водную гладь, где отражалось звёздное небо, девушка размышляла о радостях и невзгодах жизни.",
             "Pic": "UI_NameCardPic_Mona_P"
         }
     },
@@ -15453,22 +15453,22 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 340009,
-                "Name": "To the Church's Free Spirit",
-                "Desc": "Rosaria's outfit. This seems to have been custom-made for her by the Church.",
+                "Name": "За вольный дух церкви",
+                "Desc": "Наряд Розарии. Похоже, это подарок церкви, пошитый ей на заказ.",
                 "Icon": "UI_AvatarIcon_RosariaCostumeWic",
                 "Quality": 4
             },
             {
                 "ID": 0,
-                "Name": "Executor's Thorns",
-                "Desc": "Rosaria's outfit. Rosaria has heavily modified this particular Church of Favonius uniform.",
+                "Name": "Шипы наказания",
+                "Desc": "Наряд Розарии. Форма сестёр церкви Фавония, которую до неузнаваемости изменила Розария.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Rosaria: Indenture</b>",
-            "Desc": "Namecard style.<br>The unselfish warmth and goodwill of the people is, to her, a kindness that she must repay, and so it is an indenture that follows her forever.",
+            "Name": "<b>Каторга</b>",
+            "Desc": "Именная карта.<br>Для неё бескорыстно отдаваемые людьми теплота и дружелюбие - это та доброта, за которую нужно платить, и потому это её личная вечная каторга.",
             "Pic": "UI_NameCardPic_Rosaria_P"
         }
     },
@@ -15476,22 +15476,22 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 340004,
-                "Name": "Red Dead of Night",
-                "Desc": "One of the outfits Diluc wears during covert actions, it resembles a flame dancing in the shadows. The crimson red traces it leaves behind at the edges of the enemy's vision will scar their nightmares forever.",
+                "Name": "Алая ночь",
+                "Desc": "Один из костюмов, который Дилюк надевает во время работы под прикрытием. Он напоминает пламя, бушующее в тени. Багрово-красные следы, которые он оставляет за собой по краям поля зрения врагов, станут их вечным кошмаром на всю оставшуюся жизнь.",
                 "Icon": "UI_AvatarIcon_DilucCostumeFlamme",
                 "Quality": 5
             },
             {
                 "ID": 0,
-                "Name": "Darknight Blaze",
-                "Desc": "Diluc's outfit. A smart and tasteful suit fit for a nobleman.",
+                "Name": "Огонь во тьме",
+                "Desc": "Наряд Дилюка. Неброский, но стильный костюм благородного мужа.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Diluc: Flames</b>",
-            "Desc": "Namecard style.<br>Master Crepus painted many eagles during his lifetime, but he never could've foreseen creating an eagle with such fire.",
+            "Name": "<b>Огненная птица</b>",
+            "Desc": "Именная карта.<br>При жизни мастер Крепус нарисовал немало орлов, но даже ему не представлялось, какая птица родится из пламени его сына.",
             "Pic": "UI_NameCardPic_Diluc_P"
         }
     },
@@ -15499,22 +15499,22 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 340005,
-                "Name": "Ein Immernachtstraum",
-                "Desc": "A ceremonial outfit for the Prinzessin. May she who is noble retain her courage, sincerity, and kindness forever, such that no evil shall ever overcome her.",
+                "Name": "Сон вечной ночи",
+                "Desc": "Парадный наряд принцессы. Да будет вечно её мужество, искренность и доброта, дабы никакое зло не могло одолеть её.",
                 "Icon": "UI_AvatarIcon_FischlCostumeHighness",
                 "Quality": 4
             },
             {
                 "ID": 0,
-                "Name": "Dunkelnacht Sakrament",
-                "Desc": "Fischl's outfit. The Prinzessin der Verurteilung's customary vestments during her sojourn upon this realm.",
+                "Name": "Таинство ночи",
+                "Desc": "Наряд Фишль. Привычное облачение Принцессы осуждения на время её пребывания в Тейвате.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Fischl: Night Raven</b>",
-            "Desc": "Namecard style.<br>A raven dark as midnight with wings that can block out the sun. \"I permit thee to conceive his likeness upon such decoration!\"",
+            "Name": "<b>Вестник ночи</b>",
+            "Desc": "Именная карта.<br>Чёрный как смоль ворон, который может крыльями заслонить солнце. «Вам дозволяется запечатлеть его подобие на своей именной карте...»",
             "Pic": "UI_NameCardPic_Fischl_P"
         }
     },
@@ -15522,22 +15522,22 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 340010,
-                "Name": "Springbloom Missive",
-                "Desc": "Ayaka's travel outfit. Its design is based on the Fontaine dresses depicted in light novel illustrations and seems to serve as a window into the lifestyle of proper ladies who live in that nation.",
+                "Name": "Послание весеннего цветения",
+                "Desc": "Наряд Аяки для путешествий. Его фасон напоминает о нарядах фонтейнских дам на иллюстрациях в лёгких романах. Судя по всему, подобная мода отражает образ жизни женщин из той страны.",
                 "Icon": "UI_AvatarIcon_AyakaCostumeFruhling",
                 "Quality": 4
             },
             {
                 "ID": 0,
-                "Name": "Flawless Radiance",
-                "Desc": "Kamisato Ayaka's outfit. This kimono features an armor-coated skirt, displaying the nobility and resilience of the Shirasagi Himegimi.",
+                "Name": "Сияющий цветок",
+                "Desc": "Наряд Камисато Аяки. Нижняя часть кимоно покрыта бронёй, что олицетворяет возвышенную чистоту и настойчивость Сирасаги Химэгими.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Kamisato Ayaka: Folding Fan</b>",
-            "Desc": "Namecard style.<br>Ayaka does constantly change out the fans she carries with her, of course. If you're buying her some as gifts, remember not to send summer fans or throwing fans. Dancing fans or tea fans are good choices, though.",
+            "Name": "<b>Веер</b>",
+            "Desc": "Именная карта.<br>Аяку не увидеть с одним и тем же веером. Если вы хотите что-нибудь ей подарить, забудьте о летних и метательных веерах. Танцевальные и чайные веера могут стать неплохим выбором.",
             "Pic": "UI_NameCardPic_Ayaka_P"
         }
     },
@@ -15545,22 +15545,22 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 340011,
-                "Name": "A Sobriquet Under Shade",
-                "Desc": "An outfit Lisa had someone commission for her when she revisited Sumeru. A perfect blend of practicality and elegance, the dress bears a resemblance to Lisa's old uniform from her Akademiya days.",
+                "Name": "Инкогнито в тени листвы",
+                "Desc": "Наряд, который кто-то заказал для Лизы во время её визита в Сумеру. Идеально соблюдая баланс между практичностью и элегантностью, это платье напоминает форму, которую Лиза носила во время обучения в Академии.",
                 "Icon": "UI_AvatarIcon_LisaCostumeStudentin",
                 "Quality": 4
             },
             {
                 "ID": 0,
-                "Name": "Purple Rose",
-                "Desc": "Lisa's outfit. A slim-fit dress adorned with roses that displays a young lady's elegance.",
+                "Name": "Пурпурная роза",
+                "Desc": "Наряд Лизы. Это узкое платье, украшенное розами, подчёркивает изящество дамы.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Lisa: Tempus Fugit</b>",
-            "Desc": "Namecard style.<br>An hourglass marks the end of the work day for Lisa. Its sand moves fast.",
+            "Name": "<b>Пески времени</b>",
+            "Desc": "Именная карта.<br>Что утекает быстрее всего? Время и рабочие часы Лизы, конечно.",
             "Pic": "UI_NameCardPic_Lisa_P"
         }
     },
@@ -15568,22 +15568,22 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 340012,
-                "Name": "Blossoming Starlight",
-                "Desc": "An exquisite outfit Klee wears only for the most important performances. The colors are brilliant, like a cake adorned with cream flowers and crowned with scarlet candles. With it comes happiness and smiles that will fill your adventures.",
+                "Name": "Цветущий свет звёзд",
+                "Desc": "Изысканный наряд Кли для самых важных выступлений. Яркий, словно кремовый торт, украшенный цветами и алыми свечами. С ним счастье и улыбки наполнят ваши приключения.",
                 "Icon": "UI_AvatarIcon_KleeCostumeWitch",
                 "Quality": 4
             },
             {
                 "ID": 0,
-                "Name": "Shooting Spark",
-                "Desc": "Klee's outfit. A set of clothing for an energetic child that even comes with a matching leather backpack.",
+                "Name": "Резвые искры",
+                "Desc": "Наряд Кли. Яркий детский костюмчик с кожаным ранцем.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Klee: Explosive</b>",
-            "Desc": "Namecard style.<br>Klee's lucky explosive — can you tell if it's Jumpy Dumpty or Dodoco? (Hint: Look carefully at the tail...)",
+            "Name": "<b>Бомбочка</b>",
+            "Desc": "Именная карта.<br>Счастливая бомбочка Кли. Сможете ли вы определить по хвостику, какая это бомбочка: Прыг-скок или Додоко?",
             "Pic": "UI_NameCardPic_Klee_P"
         }
     },
@@ -15591,22 +15591,22 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 340013,
-                "Name": "Sailwind Shadow",
-                "Desc": "Kaeya's outfit from his role as the \"Dagger Bandit\" in the play. Though flamboyant and designed to be as eye-catching as possible, it isn't difficult to put on, though it does take some time to get all the accessories and daggers sorted.",
+                "Name": "Тень ветра в парусах",
+                "Desc": "Костюм Кэйи, который он надевал, выступая в роли Разбойника с Кинжалами. Это великолепный наряд, призванный привлечь внимание. Надеть несложно, но требуется время, чтобы разобраться со всеми аксессуарами и кинжалами.",
                 "Icon": "UI_AvatarIcon_KaeyaCostumeDancer",
                 "Quality": 4
             },
             {
                 "ID": 0,
-                "Name": "Icy Featherflight",
-                "Desc": "Kaeya's outfit. Fashionable clothes festooned with a fur collar.",
+                "Name": "Ледяное перо",
+                "Desc": "Наряд Кэйи. Стильная одежда, украшенная меховым воротником.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Kaeya: Pavo Ocellus</b>",
-            "Desc": "Namecard style.<br>The pattern of peacock feathers resembles eyes that never shut. Can we really say that this Pavo Ocellus is missing an eye...?",
+            "Name": "<b>Павлин</b>",
+            "Desc": "Именная карта.<br>Прекрасный узор на павлиньих перьях напоминает немигающие глаза. Кэйа вовсе не лишился глаза, просто он...",
             "Pic": "UI_NameCardPic_Kaeya_P"
         }
     },
@@ -15614,22 +15614,22 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 340014,
-                "Name": "Frostflower Dew",
-                "Desc": "This Lantern Rite gift that Shenhe received is a set of elegant formal attire that her master, Cloud Retainer had commissioned for her. Red ropes still adorn her arms, but the bitter cold in Shenhe's heart has faded.",
+                "Name": "Росы морозных цветов",
+                "Desc": "Подарок, который Шэнь Хэ получила на Праздник морских фонарей. Это элегантное парадное одеяние, которое заказала для неё Хранитель Облаков. Красные шнуры всё ещё покрывают её руки, но холод в сердце Шэнь Хэ ослаб.",
                 "Icon": "UI_AvatarIcon_ShenheCostumeDai",
                 "Quality": 4
             },
             {
                 "ID": 0,
-                "Name": "The World's Shackles",
-                "Desc": "Shenhe's outfit. These elegant garments have accompanied her through long years of training. The red ropes that surround her body are fetters and wards simultaneously.",
+                "Name": "Мировые оковы",
+                "Desc": "Наряд Шэнь Хэ. Этот элегантный наряд сопровождал её на протяжении долгих лет обучения. Красные шнуры, опутывающие её тело, - одновременно и оковы, и обереги.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Shenhe: Comb</b>",
-            "Desc": "Namecard style.<br>The early onset of white hair is often correlated to one's sorrows. Since \"comb\" and \"scatter\" are similarly read in Liyue's language, they believe that combing one's hair is the same as scattering one's misfortunes.",
+            "Name": "<b>Гребень</b>",
+            "Desc": "Именная карта.<br>В былые времена белые волосы ассоциировались с печалями. Слова «расчесать» и «расчищать» похожи по звучанию, поэтому в Ли Юэ есть поверье, что расчёсывание волос может отогнать несчастья.",
             "Pic": "UI_NameCardPic_Shenhe_P"
         }
     },
@@ -15637,22 +15637,22 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 340015,
-                "Name": "Twilight Blossom",
-                "Desc": "A light and graceful festive outfit accented mainly in black nightshade and cerulean blue. Its hair accessory is as radiant as the Qingxin — a pairing that Ganyu is most fond of.",
+                "Name": "Цветок сумрака",
+                "Desc": "Лёгкий и изящный праздничный наряд в тёмно-фиолетовых и лазурно-голубых тонах. Украшения для волос сияют словно цветки цинсинь - сочетание, которое нравится Гань Юй больше всего.",
                 "Icon": "UI_AvatarIcon_GanyuCostumeYu",
                 "Quality": 4
             },
             {
                 "ID": 0,
-                "Name": "Frostdew Trail",
-                "Desc": "Ganyu's outfit. Elegant clothes blessed by the mighty and illuminated adepti.",
+                "Name": "Инеевая тропа",
+                "Desc": "Наряд Гань Юй. Изысканное платье, благословлённое просветлёнными Адептами.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Ganyu: Qilin</b>",
-            "Desc": "Namecard style.<br>Do no harm to plant nor insect.",
+            "Name": "<b>Цилинь</b>",
+            "Desc": "Именная карта.<br>Не навреди ни травинке, ни жучку.",
             "Pic": "UI_NameCardPic_Ganyu_P"
         }
     },
@@ -15660,22 +15660,22 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 340016,
-                "Name": "Bamboo Rain",
-                "Desc": "Formal wear prepared by the Feiyun Commerce Guild for Xingqiu. The bamboo prints are refined and the cut is most flattering, but Xingqiu's favorite aspect of the outfit is its inner pockets, into which a thinner novel might be stuffed.",
+                "Name": "Бамбуковый дождь",
+                "Desc": "Формальный костюм, который торговая гильдия «Фэйюнь» подготовила для Син Цю. Наряд украшен бамбуковым узором и прекрасно скроен, но Син Цю больше всего нравится внутренний карман, в который может уместиться тонкая книга.",
                 "Icon": "UI_AvatarIcon_XingqiuCostumeBamboo",
                 "Quality": 4
             },
             {
                 "ID": 0,
-                "Name": "Azure Silk",
-                "Desc": "Xingqiu's outfit. Fine robes woven from the high-quality silk sold by the Feiyun Commerce Guild.",
+                "Name": "Лазурные шелка",
+                "Desc": "Наряд Син Цю. Изысканное одеяние из шёлковой материи высшего сорта, какие продаёт только торговая гильдия «Фэйюнь».",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Xingqiu: Rainbow</b>",
-            "Desc": "Namecard style.<br>Come watch the night rain that brings no rainbow.",
+            "Name": "<b>Мечи дождя</b>",
+            "Desc": "Именная карта.<br>Придите и узрите ночной дождь, за которым не следует радуга.",
             "Pic": "UI_NameCardPic_Xingqiu_P"
         }
     },
@@ -15683,8 +15683,8 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Rising Star",
-                "Desc": "The Traveler's outfit. A practical set of clothing to wear during a long journey.",
+                "Name": "Восходящая звезда",
+                "Desc": "#Наряд {F#путешественницы}{M#путешественника}. Практичная одежда, подходящая для долгого путешествия.",
                 "Icon": "",
                 "Quality": 0
             }
@@ -15694,8 +15694,8 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Rising Star",
-                "Desc": "The Traveler's outfit. A practical set of clothing to wear during a long journey.",
+                "Name": "Восходящая звезда",
+                "Desc": "#Наряд {F#путешественницы}{M#путешественника}. Практичная одежда, подходящая для долгого путешествия.",
                 "Icon": "",
                 "Quality": 0
             }
@@ -15705,15 +15705,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Wild Sprint",
-                "Desc": "Razor's outfit. Rough and ready clothes suited for running out in the wilderness.",
+                "Name": "Дикий бег",
+                "Desc": "Наряд Рэйзора. Простая одежда, в которой удобно мчаться по просторам.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Razor: Wolvensprint</b>",
-            "Desc": "Namecard style.<br>It's quite a sight to behold Razor and the wolves prepare their dinner, but they won't let Klee or the Traveler see the slightly gruesome affair.",
+            "Name": "<b>Дух волка</b>",
+            "Desc": "#Именная карта.<br>Рэйзор и волчья стая готовят ужин с очень гордым видом. Но Кли и {M#путешественнику}{F#путешественнице} видеть этого нельзя.",
             "Pic": "UI_NameCardPic_Razor_P"
         }
     },
@@ -15721,15 +15721,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Breezy Ode",
-                "Desc": "Venti's outfit. The clothes of a carefree bard.",
+                "Name": "Поэма ветра",
+                "Desc": "Наряд Венти. Одежда свободолюбивого и беззаботного барда.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Venti: Azure Sky</b>",
-            "Desc": "Namecard style.<br>The bright blue of a cloudless sky and the melodious tone of Der Frühling complement each other perfectly.",
+            "Name": "<b>Небесная лира</b>",
+            "Desc": "Именная карта.<br>Гармоничное сочетание безмятежности неба и мелодии Небесной лиры.",
             "Pic": "UI_NameCardPic_Venti_P"
         }
     },
@@ -15737,15 +15737,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Red Pepper and Turmeric",
-                "Desc": "Xiangling's outfit. Light and comfortable clothing brimming with fiery passion.",
+                "Name": "Острый перец и куркума",
+                "Desc": "Наряд Сян Лин. Лёгкая одежда, которая так и лучится горячим темпераментом её хозяйки.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Xiangling: Fresh from the Pan</b>",
-            "Desc": "Namecard style.<br>Try saying this three times fast: \"Guoba sears sea snails by Liyue's sea shore.\"",
+            "Name": "<b>Горячий Гоба</b>",
+            "Desc": "Именная карта.<br>Быстро прочтите вслух: «Гоба злоба!», «Гоба боба!», «Гоба кнопа!», «Гоба стыдоба!»",
             "Pic": "UI_NameCardPic_Xiangling_P"
         }
     },
@@ -15753,15 +15753,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Rolling Waves",
-                "Desc": "Beidou's outfit. Lightweight clothing saturated with a brave seafarer's spirit.",
+                "Name": "Багровые волны",
+                "Desc": "Наряд Бэй Доу. Эта лёгкая одежда полна храбрости осмелившихся ходить по морям.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Beidou: Weighing Anchor</b>",
-            "Desc": "Namecard style.<br>\"Weighing anchor out to sea, one is wont to waver. But look to the skies, and the stars shall light the way.\"",
+            "Name": "<b>Якорь</b>",
+            "Desc": "Именная карта.<br>«Когда поднят якорь, но неясно, куда плыть - взгляни в небо, звёзды укажут тебе путь».",
             "Pic": "UI_NameCardPic_Beidou_P"
         }
     },
@@ -15769,15 +15769,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Endurer of Eons",
-                "Desc": "Xiao's outfit. Classical battle-wear fit for a thousand years of evil-conquering.",
+                "Name": "Тысячелетняя схватка",
+                "Desc": "Наряд Сяо. Классическое боевое облачение для уничтожения демонов на протяжении тысяч лет.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Xiao: Mask</b>",
-            "Desc": "Namecard style.<br>He longs for a day to come when he will wear the mask and dance — not to conquer demons, but to the tune of that flute amid a sea of flowers.",
+            "Name": "<b>Маска Якса</b>",
+            "Desc": "Именная карта.<br>Он предвкушает наступление дня, который позволит ему надеть маску и танцевать. Но не для истребления демонов, а под мелодию флейты, что звучит среди моря цветов.",
             "Pic": "UI_NameCardPic_Xiao_P"
         }
     },
@@ -15785,15 +15785,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Hermit of Mortal Life",
-                "Desc": "Zhongli's outfit. This is the leisurewear of choice for Zhongli, the Wangsheng Funeral Parlor's consultant.",
+                "Name": "Смертная жизнь",
+                "Desc": "Наряд Чжун Ли. В выходные дни консультант ритуального бюро «Ваншэн» Чжун Ли предпочитает носить именно его.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Zhongli: Planet Befall</b>",
-            "Desc": "Namecard style.<br>Stars fall, light dims.",
+            "Name": "<b>Падение кометы</b>",
+            "Desc": "Именная карта.<br>Звёзды падают, и блеск жизни тускнеет.",
             "Pic": "UI_NameCardPic_Zhongli_P"
         }
     },
@@ -15801,15 +15801,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Fortune's Favor",
-                "Desc": "Bennett's outfit. An old adventurer's uniform that has been patched and sewn up in various places.",
+                "Name": "Обход злоключений",
+                "Desc": "Наряд Беннета. Старая форма искателя приключений с многочисленными швами и латками.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Bennett: Recognition</b>",
-            "Desc": "Namecard style.<br>A sign of recognition from Benny's Adventure Team.",
+            "Name": "<b>Одобрение</b>",
+            "Desc": "Именная карта.<br>Признание печально известного отряда Бенни.",
             "Pic": "UI_NameCardPic_Bennett_P"
         }
     },
@@ -15817,15 +15817,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Blades of Glory",
-                "Desc": "Tartaglia's outfit. Illustrious attire that signifies Childe's position as the eleventh Fatui Harbinger.",
+                "Name": "Клинок славы",
+                "Desc": "Наряд Тартальи. Броская одежда, которая заявляет о принадлежности Тартальи к Одиннадцати Предвестникам Фатуи.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Childe: Foul Legacy</b>",
-            "Desc": "Namecard style.<br>This bears all the marks of that fellow who gallivants as he pleases across the continent with his ever-changing combat styles. Yet, his \"Foul Legacy\" was not originally his. Rather, it was taught to him by that solitary girl who dwelt in the darkest corners of the universe.",
+            "Name": "<b>Маска</b>",
+            "Desc": "Именная карта.<br>Знак молодого человека, свободно путешествующего по континенту благодаря постоянно меняющемуся стилю ведения боя. Но этот дьявольский вид фехтования создал не он. Этому его научила та надменная девушка, что обитает в самом тёмном уголке Вселенной...",
             "Pic": "UI_NameCardPic_Tartaglia_P"
         }
     },
@@ -15833,15 +15833,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Armored Rose",
-                "Desc": "Noelle's outfit. Heavy clothing made of durable velvet and metal plates.",
+                "Name": "Железная роза",
+                "Desc": "Наряд Ноэлль. Тяжёлое облачение из плотного бархата и доспехов.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Noelle: Protector</b>",
-            "Desc": "Namecard style.<br>Noelle is quite special. Noelle won't let any harm come to you.",
+            "Name": "<b>Щит</b>",
+            "Desc": "Именная карта.<br>Ноэлль никогда не даст тебя в обиду.",
             "Pic": "UI_NameCardPic_Noel_P"
         }
     },
@@ -15849,15 +15849,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Summerchill Dreams",
-                "Desc": "Qiqi's outfit. A herb gatherer's garment that brings her great peace of mind due to the attached talismans.",
+                "Name": "Грёзы морозного лета",
+                "Desc": "Наряд Ци Ци. Талисманы, которые покрывают этот костюм травника, приносят ей умиротворение.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Qiqi: Cold Storage</b>",
-            "Desc": "Namecard style.<br>What should be kept in the fridge? Dr. Baizhu's herbs, coconut milk... and Hu Tao.",
+            "Name": "<b>Вестник стужи</b>",
+            "Desc": "Именная карта.<br>Нужно заморозить... лекарства господина Бая... кокосовое молоко... и Ху Тао...",
             "Pic": "UI_NameCardPic_Qiqi_P"
         }
     },
@@ -15865,15 +15865,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Pure Spirit",
-                "Desc": "Chongyun's outfit. A traditional thaumaturge's trappings.",
+                "Name": "Чистый дух",
+                "Desc": "Наряд Чун Юня. Традиционное облачение экзорцистов.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Chongyun: Spirit Blade</b>",
-            "Desc": "Namecard style.<br>This was originally a peachwood sword made of ice. But a big enough ice block makes a better exorcist's tool than peachwood.",
+            "Name": "<b>Духовные лезвия</b>",
+            "Desc": "Именная карта.<br>Сначала Чун Юнь хотел сделать себе ритуальный меч из персикового дерева, но обычной глыбой льда изгонять демонов оказалось куда проще.",
             "Pic": "UI_NameCardPic_Chongyun_P"
         }
     },
@@ -15881,15 +15881,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Newmoon Starlight",
-                "Desc": "Albedo's outfit. The Knights of Favonius alchemist's uniform that Albedo often wears when conducting his experiments.",
+                "Name": "Звёзды и новолуние",
+                "Desc": "Наряд Альбедо. Форма, которую часто носит алхимик Ордо Фавониус во время своих экспериментов.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Albedo: Sun Blossom</b>",
-            "Desc": "Namecard style.<br>Allow me to bear witness to this miracle.",
+            "Name": "<b>Цветок солнца</b>",
+            "Desc": "Именная карта.<br>Позволь мне стать свидетелем этого чуда.",
             "Pic": "UI_NameCardPic_Albedo_P"
         }
     },
@@ -15897,15 +15897,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Sugary Brew",
-                "Desc": "Diona's outfit. The work uniform of the Cat's Tail's star bartender.",
+                "Name": "Сахарный коктейль",
+                "Desc": "Наряд Дионы. Рабочая одежда знаменитого бармена таверны «Кошкин хвост».",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Diona: Meow!</b>",
-            "Desc": "Namecard style.<br>All who have Kätzlein blood will have such feline features. An ancient prank played by a certain someone, perhaps?",
+            "Name": "<b>Мяу-мяу!</b>",
+            "Desc": "Именная карта.<br>У всех обладателей крови кецлайнов есть кошачьи черты. Возможно, во всём виноваты специфические вкусы древних?",
             "Pic": "UI_NameCardPic_Diona_P"
         }
     },
@@ -15913,15 +15913,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Germinating Wind",
-                "Desc": "Sucrose's outfit. A Knights of Favonius alchemist's uniform customized for Sucrose.",
+                "Name": "Ветер зарождения",
+                "Desc": "Наряд Сахарозы. Форма алхимика Ордо Фавониус, сшитая специально для Сахарозы.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Sucrose: Bio-Alchemy</b>",
-            "Desc": "Namecard style.<br>If you closely examine an Anemo Hypostasis before it disappears, you will discover that they are actually quite square.",
+            "Name": "<b>Воздушный дух</b>",
+            "Desc": "Именная карта.<br>Если перед исчезновением Анемо гипостазиса внимательно его рассмотреть, то можно выяснить, что он чрезвычайно квадратный.",
             "Pic": "UI_NameCardPic_Sucrose_P"
         }
     },
@@ -15929,15 +15929,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Ardent Soul",
-                "Desc": "Xinyan's outfit. A rocker's stage costume adorned with spikes.",
+                "Name": "Пламенная душа",
+                "Desc": "Наряд Синь Янь. Костюм рок-музыканта, украшенный шипами.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Xinyan: Song's End</b>",
-            "Desc": "Namecard style.<br>Xinyan only has time to examine her instrument carefully after the performance is over. Even in silence, it is a beauty.",
+            "Name": "<b>Музыка свободы</b>",
+            "Desc": "Именная карта.<br>Только после выступления у Синь Янь появляется время, чтобы позаботиться о своём инструменте. Впрочем, её мандолина прекрасна, даже когда молчит.",
             "Pic": "UI_NameCardPic_Xinyan_P"
         }
     },
@@ -15945,15 +15945,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Plum Blossom Bouquet",
-                "Desc": "Hu Tao's outfit. The daily work clothes of the Wangsheng Funeral Parlor's director.",
+                "Name": "Тягучий аромат",
+                "Desc": "Наряд Ху Тао. Повседневная рабочая одежда управляющей ритуального бюро «Ваншэн».",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Hu Tao: Spirit Soother</b>",
-            "Desc": "Namecard style.<br>Director Hu Tao isn't scary at all. Probably.",
+            "Name": "<b>Упокоение духов</b>",
+            "Desc": "Именная карта.<br>Владелица ритуального бюро Ху Тао вовсе не мрачная... По большей части.",
             "Pic": "UI_NameCardPic_Hutao_P"
         }
     },
@@ -15961,15 +15961,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Falling Leaves",
-                "Desc": "Kaedehara Kazuha's outfit. The maple leaf patterns are the hallmark of this wandering samurai's clothes.",
+                "Name": "Листопад",
+                "Desc": "Наряд Каэдэхары Кадзухи. Облачение ронина, украшенное орнаментом из кленовых листьев.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Kaedehara Kazuha: Autumn Maple-Viewing</b>",
-            "Desc": "Namecard style.<br>\"The pine-song ripples as red leaves billow.\"",
+            "Name": "<b>Любование клёном</b>",
+            "Desc": "Именная карта.<br>«Звучит песня сосен, колышутся красные листья».",
             "Pic": "UI_NameCardPic_Kazuha_P"
         }
     },
@@ -15977,15 +15977,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Golden Rule",
-                "Desc": "Yanfei's outfit. The dress that the legal adviser Yanfei wears when she heads out to visit clients.",
+                "Name": "Золотой закон",
+                "Desc": "Наряд Янь Фэй. Служебное платье консультанта по юридическим вопросам.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Yanfei: Impartial</b>",
-            "Desc": "Namecard style.<br>Justice, signed in scarlet.",
+            "Name": "<b>Справедливость</b>",
+            "Desc": "Именная карта.<br>Справедливость с киноварной печатью.",
             "Pic": "UI_NameCardPic_Feiyan_P"
         }
     },
@@ -15993,15 +15993,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Goldfish Firecracker",
-                "Desc": "Yoimiya's outfit. A patchwork of memories from festivals over the years.",
+                "Name": "Фейерверк золотой рыбки",
+                "Desc": "Костюм Ёимии. Он сшит из копившихся долгие годы воспоминаний о прошлых фестивалях.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Yoimiya: Auratus Spark</b>",
-            "Desc": "Namecard style.<br>Even momentary sparks can leave beautiful, unquenchable flames in the hearts of those who watch the night sky.",
+            "Name": "<b>Искры золотой рыбки</b>",
+            "Desc": "Именная карта.<br>Даже скоротечные искры могут оставить прекрасный свет в сердцах любующихся ночным небом.",
             "Pic": "UI_NameCardPic_Yoimiya_P"
         }
     },
@@ -16009,15 +16009,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Warrior of Flame",
-                "Desc": "Thoma's outfit. He cropped the pieces of this light suit of armor till only the thigh and arm guards were left, allowing him to comfortably attend to all matters in and out of combat.",
+                "Name": "Воин пламени",
+                "Desc": "Одежда Томы. Этот лёгкий доспех порезан так, что от него остались только щитки на бёдрах и руках, что позволяет комфортно двигаться как в бою, так и вне его.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Thoma: Blazing Guard</b>",
-            "Desc": "Namecard style.<br>Blazing armor, flaming guards.",
+            "Name": "<b>Пламенный рукав</b>",
+            "Desc": "Именная карта.<br>Пылающие доспехи, пламенный нарукавник.",
             "Pic": "UI_NameCardPic_Tohma_P"
         }
     },
@@ -16025,15 +16025,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Wavecrest Waltz",
-                "Desc": "Eula's outfit. Consummate elegance shines through in this neat and smart knight's uniform.",
+                "Name": "Танец волн",
+                "Desc": "Наряд Эолы. Аккуратность этой рыцарской формы подчеркивает её изящество.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Eula: Ice-Sealed</b>",
-            "Desc": "Namecard style.<br>A cold heart is but a shell to protect oneself.",
+            "Name": "<b>Морозная печать</b>",
+            "Desc": "Именная карта.<br>Холодное сердце лишь защищает уязвимую душу.",
             "Pic": "UI_NameCardPic_Eula_P"
         }
     },
@@ -16041,15 +16041,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Narukami's Law",
-                "Desc": "The Raiden Shogun's outfit. This kimono has been adorned with the Electro Mitsudomoe, granting it the highest honor in the land.",
+                "Name": "Церемония Наруками Огосё",
+                "Desc": "Костюм сёгуна Райдэн. Кимоно украшено знаком Электро мицудомоэ, а потому ему оказывается несравненное почтение.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Raiden Shogun: Enlightenment</b>",
-            "Desc": "Namecard style.<br>Not simply Ei, and not merely the Raiden Shogun. Observe yourself also with one stormy eye, and you will someday reach a breakthrough.",
+            "Name": "<b>Просветление</b>",
+            "Desc": "Именная карта.<br>Не только Эи, и не просто сёгун Райдэн. Дай оку грома наблюдать за тобой, и однажды ты достигнешь просветления.",
             "Pic": "UI_NameCardPic_Shougun_P"
         }
     },
@@ -16057,15 +16057,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Mini Mujina",
-                "Desc": "Sayu's outfit. Marvelous attire designed after the mysterious animal known as the Mujina.",
+                "Name": "Минимудзина",
+                "Desc": "Костюм Саю. Дизайн этого чудесного наряда вдохновлён таинственным животным, которое называют мудзина.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Sayu: Muji-Muji Daruma</b>",
-            "Desc": "Namecard style.<br>It is even smaller than Sayu, sure, but it can help her do the things she doesn't want to do.",
+            "Name": "<b>Мудзи-Мудзи Дарума</b>",
+            "Desc": "Именная карта.<br>Она ещё меньше Саю, но помогает ей делать то, чего Саю не хочется.",
             "Pic": "UI_NameCardPic_Sayu_P"
         }
     },
@@ -16073,15 +16073,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Sparkling Coralbone",
-                "Desc": "Sangonomiya Kokomi's outfit. A noble's dress decorated with little precious objects produced in Watatsumi Island.",
+                "Name": "Коралловая волна",
+                "Desc": "Костюм Сангономии Кокоми. Благородное одеяние, украшенное драгоценностями острова Ватацуми.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Sangonomiya Kokomi: The Deep</b>",
-            "Desc": "Namecard style.<br>All Watatsumi islanders know this tale: that deep beneath the waves lies their former home.",
+            "Name": "<b>Морская бездна</b>",
+            "Desc": "Именная карта.<br>Все жители острова Ватацуми знают эту легенду: глубоко под морскими волнами лежит их старый дом.",
             "Pic": "UI_NameCardPic_Kokomi_P"
         }
     },
@@ -16089,15 +16089,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Panoply of a Hundred Hunts",
-                "Desc": "Gorou's outfit. This light armor is designed to allow the marksman-general Gorou to handle his bow with ease. The armoring at the shoulder and elbow is also designed with this in mind.",
+                "Name": "Охотничьи доспехи мстителя",
+                "Desc": "Наряд Горо. Лёгкая броня позволяет генералу Горо мастерски управляться с луком. Наплечники и налокотники позволяют ловчее натягивать тетиву.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Gorou: Leisurely Hound</b>",
-            "Desc": "Namecard style.<br>As long as you believe in the path you are walking, then everything you encounter on your journey will be a source of happiness.",
+            "Name": "<b>Безмятежный пёс</b>",
+            "Desc": "Именная карта.<br>Пока вы верите в путь, по которому идёте, всё, с чем вы столкнётесь, будет источником счастья.",
             "Pic": "UI_NameCardPic_Gorou_P"
         }
     },
@@ -16105,15 +16105,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Solemn Purity",
-                "Desc": "Kujou Sara's outfit. Prim and proper, it is a garment worthy of an Archon's devout servant.",
+                "Name": "Платье справедливости",
+                "Desc": "Костюм Кудзё Сары. Светлый и чистый наряд, достойный быть надетым на встречу с божеством.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Kujou Sara: Tengu</b>",
-            "Desc": "Namecard style.<br>Kujou Sara may have forsaken the arrogant life of the tengu race, but she has never neglected their brilliance with the sword or their supernatural might.",
+            "Name": "<b>Тэнгу</b>",
+            "Desc": "Именная карта.<br>Кудзё Сара отказалась от высокомерного образа жизни тэнгу, но не перестала оттачивать своё мастерство владения мечом и божественные способности.",
             "Pic": "UI_NameCardPic_Sara_P"
         }
     },
@@ -16121,8 +16121,8 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Eccentric Oni",
-                "Desc": "Itto's outfit. It has an uncommon air of awesomeness about it, and the oni mask worn at the hip is quite imposing indeed — certainly enough to reduce even the naughtiest child of Hanamizaka to terrified tears.",
+                "Name": "Эксцентричный óни",
+                "Desc": "Наряд Аратаки Итто. Величественное парадное одеяние в сочетании с грозной маской на поясе доведут до слёз даже самого непослушного ребёнка в Ханамидзаке.",
                 "Icon": "",
                 "Quality": 0
             }
@@ -16132,15 +16132,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Miko's Instruction",
-                "Desc": "Yae Miko's outfit. A shrine maiden uniform that declares her lofty position as the Guuji of the Grand Narukami Shrine to all. May the lovely sight of her in that dress remain forever, just as the Sacred Sakura emblazoned upon her pure white skirt, which will never wilt away.",
+                "Name": "Наставление жрицы",
+                "Desc": "Наряд Яэ Мико. Облачение жрицы, которое демонстрирует её высокое звание Гудзи Великого храма Наруками. Пусть её прекрасный образ в этом платье будет вечен, как Священная сакура, изображённая на её наряде.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Yae Miko: Kitsune Dreaming</b>",
-            "Desc": "Namecard style.<br>Where can Yae Miko's fox form be found? In your dreams, that's where.",
+            "Name": "<b>Мечтательная кицунэ</b>",
+            "Desc": "Именная карта.<br>Где можно найти форму кицунэ Яэ Мико? Во снах.",
             "Pic": "UI_NameCardPic_Yae1_P"
         }
     },
@@ -16148,15 +16148,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Spirited Valor",
-                "Desc": "Shikanoin Heizou's outfit. Having taken his outer coat off and tucked it around his waist, the Tenryou Commission detective cuts quite the dashing figure.",
+                "Name": "Боевой порыв",
+                "Desc": "Костюм Сиканоина Хэйдзо. С повязанной на поясе верхней одеждой детектив комиссии Тэнрё смотрится довольно естественно.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Shikanoin Heizou: Temari</b>",
-            "Desc": "Namecard style.<br>A Temari of entwining strings in various colors. It must have taken someone's great effort to make such an item, yet Heizou only sees it as a simple game to untangle each string.",
+            "Name": "<b>Тэмари</b>",
+            "Desc": "Именная карта.<br>Тэмари, искусно сотканный из нитей разных цветов. Должно быть, кому-то стоило огромных усилий сделать его, но Хэйдзо видит в этом лишь незамысловатую игру - распутать каждую ниточку.",
             "Pic": "UI_NameCardPic_Heizo_P"
         }
     },
@@ -16164,15 +16164,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "The Waning Point",
-                "Desc": "Yelan's outfit. It has lurked alongside its wearer in the shadows over many a year, to the point where the outfit almost has a mysterious temper of its own, like an orchid blooming at midnight.",
+                "Name": "Тускнеющий свет",
+                "Desc": "Наряд Е Лань. Эта одежда так долго скрывалась в тени вместе со своей хозяйкой, что и сама начала походить на орхидею, цветущую в полночь.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Yelan: Throw</b>",
-            "Desc": "Namecard style.<br>\"Dice are always quite hard to make 'fair.' That goes double for dice with shoddier workmanship. The weighting on each numbered side will almost certainly be unbalanced.\"",
+            "Name": "<b>Бросок</b>",
+            "Desc": "Именная карта.<br>«Непросто изготовить сбалансированные кости. На дурно сделанных кубиках разные грани имеют разный вес».",
             "Pic": "UI_NameCardPic_Yelan_P"
         }
     },
@@ -16180,15 +16180,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Whirling Bloom",
-                "Desc": "Kirara's outfit. The famous designer Chiori followed the principle of \"comfortably wearing a beautiful flower upon one's body\" when creating this outfit for Kirara.",
+                "Name": "Игра цветов",
+                "Desc": "Наряд Кирары. Создавая его, известный дизайнер Тиори следовала принципу «с комфортом носить на себе прекрасные цветы».",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Kirara: Neko Box</b>",
-            "Desc": "Namecard style.<br>\"To Kirara, the smiles on her customers' faces are the best rewards possible.\"",
+            "Name": "<b>Посылка нэко</b>",
+            "Desc": "Именная карта.<br>«Довольные улыбки получателей - лучшая награда для Кирары».",
             "Pic": "UI_NameCardPic_Kirara_P"
         }
     },
@@ -16196,15 +16196,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Machine Hunter",
-                "Desc": "Aloy's outfit. A hunter's garb suited to life in the wilds.",
+                "Name": "Охотница на машины",
+                "Desc": "Костюм Элой. Отлично подходит для охоты в лесах и полях.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Aloy: Dawn</b>",
-            "Desc": "Namecard style.<br>\"Everything I do is in the service of life, not death.\"",
+            "Name": "<b>Рассвет</b>",
+            "Desc": "Именная карта.<br>«Жаль, что Раст этого не видит».",
             "Pic": "UI_NameCardPic_Aloy_P"
         }
     },
@@ -16212,15 +16212,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Mistcloud Stage",
-                "Desc": "Yun Jin's outfit. It was made by skilled tailors from the Feiyun Commerce Guild. Yun Jin fell in love with it at first sight, and it is now her favorite set of casual wear.",
+                "Name": "Облачный покров",
+                "Desc": "Наряд Юнь Цзинь. Он сшит опытными портными из торговой гильдии «Фэйюнь». Юнь Цзинь влюбилась в него с первого взгляда, и теперь это её любимая повседневная одежда.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Yun Jin: Rhyme</b>",
-            "Desc": "Namecard style.<br>Ms. Yun has two sorts of teachers. The critics of her onstage performances are one, and the books on rhyme she references while writing are the other.",
+            "Name": "<b>Рифма</b>",
+            "Desc": "Именная карта.<br>У госпожи Юнь есть два учителя. Внешний учитель - критики её выступлений на сцене, а внутренний - книги, которые она использует для написания опер.",
             "Pic": "UI_NameCardPic_Yunjin_P"
         }
     },
@@ -16228,15 +16228,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Arataki's Demonic Deputy",
-                "Desc": "Kuki Shinobu's outfit. The iconic oni mask she wears symbolizes her role as the Arataki Gang's terrifying \"demonic deputy.\"",
+                "Name": "Демоническая помощница Аратаки",
+                "Desc": "Наряд Куки Синобу. Маска óни, которую она носит, символизирует её роль ужасающей «демонической помощницы» банды Аратаки.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Kuki Shinobu: Net</b>",
-            "Desc": "Namecard style.<br>\"You know those Naku Weed rings they have in Inazuma? You know, the kind that can drive out evil? Shinobu got the idea that since wicked things won't cross their boundaries willingly, we could make them into items that could be actively used. Ah, her talent for being a shrine maiden truly is frightening...\"",
+            "Name": "<b>Сеть</b>",
+            "Desc": "Именная карта.<br>Знаете, что в Инадзуме есть кольца из травы наку? Ну знаете, они отгоняют зло. У Синобу возникла идея, что если чудовищные создания не могут пересекать травяные барьеры по собственной воле, то мы сможем использовать кольца из травы Наку. Меня пугает, насколько хорошо у неё получается быть жрицей в святилище.",
             "Pic": "UI_NameCardPic_Shinobu_P"
         }
     },
@@ -16244,15 +16244,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Silk Splendor",
-                "Desc": "Kamisato Ayato's outfit. The kimono itself is made using uncommon fabrics, and its patterning recalls a mountain spring, giving off a feeling of calm and stability that matches its wearer.",
+                "Name": "Шёлковое великолепие",
+                "Desc": "Костюм Камисато Аято. Кимоно сшито из редкой ткани, а рисунок на нём напоминает горный источник, такой же спокойный и торжественный, как и владелец костюма.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Kamisato Ayato: Ripple</b>",
-            "Desc": "Namecard style.<br>The camellia alights upon the mirrored pond, sending ripples throughout the water.",
+            "Name": "<b>Лёгкая зыбь</b>",
+            "Desc": "Именная карта.<br>Лёгкой зыбью откликнулся пруд, когда на зеркальную гладь опустилась камелия.",
             "Pic": "UI_NameCardPic_Ayato_P"
         }
     },
@@ -16260,15 +16260,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "A New Leaf",
-                "Desc": "Collei's outfit. Now that she no longer needs to remain bundled in a thick cloak, she is free to emerge like a newly-sprouted leaf and welcome every lovely sunrise.",
+                "Name": "Листок новой жизни",
+                "Desc": "Наряд Коллеи. Теперь, когда ей больше не нужно кутаться в тяжёлый плащ, она может свободно появиться, подобно новому листку, и поприветствовать прекрасный свет нового дня.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Collei: Good Virtue</b>",
-            "Desc": "Namecard style.<br>\"I—It's Cuilein-Anbar! I, uh...\"",
+            "Name": "<b>Благородство леопарда</b>",
+            "Desc": "Именная карта.<br>«Это же... Куйлейн-Анбар! Ох...»",
             "Pic": "UI_NameCardPic_Collei_P"
         }
     },
@@ -16276,15 +16276,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "I Love Mora",
-                "Desc": "Dori's outfit. This outfit almost begs to be further adorned with gems and precious metals, loudly announcing its wearer's love of wealth to the world. And they say that this is the merchant Dori's casual wear... So does this mean that she has clothes even more expensive than this one!?",
+                "Name": "Я люблю мору",
+                "Desc": "Наряд Дори. Этот наряд так и просит, чтобы его ещё больше украсили драгоценными камнями и металлами, громко заявляя всему миру о любви его владелицы к богатству. Говорят, что это повседневная одежда Дори... Значит, у неё есть наряды ещё более дорогие, чем этот?!",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Dori: Jinni</b>",
-            "Desc": "Namecard style.<br>If you wipe the lamp she gave you and then scrub the Mora you gave her, no wish is unattainable... right?",
+            "Name": "<b>Джинн</b>",
+            "Desc": "Именная карта.<br>Просто потрите подаренную вам лампу... Потом потрите мору и отдайте ей. И любое ваше желание исполнится! Так ведь?",
             "Pic": "UI_NameCardPic_Dori_P"
         }
     },
@@ -16292,15 +16292,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Woodland Song",
-                "Desc": "Tighnari's outfit. Clad in the colors of wood, tree, and flower, Tighnari is surrounded at all times by natural life, determined even in fashion sense to put the \"forest\" in \"Forest Watcher.\"",
+                "Name": "Песнь леса",
+                "Desc": "Наряд Тигнари. Благодаря тканям в тонах деревьев, травы и цветов, Тигнари всегда окутан жизненной силой природы. Даже в вопросах одежды лесной страж отдаёт предпочтение лесным мотивам.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Tighnari: Dew-Kissed</b>",
-            "Desc": "Namecard style.<br>Tighnari takes good care of his big, fluffy tail. The essential oil he uses was extracted from flowers and mixed together meticulously. It gives off a faint, calming scent.",
+            "Name": "<b>Омовение росами</b>",
+            "Desc": "Именная карта.<br>Тигнари тщательно ухаживает за своим большим пушистым хвостом. Он пользуется особой смесью эфирных масел и цветочных рос, от которой исходит слабый, успокаивающий аромат.",
             "Pic": "UI_NameCardPic_Tighnari_P"
         }
     },
@@ -16308,15 +16308,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Neither Flower Nor Mist",
-                "Desc": "Nilou's outfit. It is neither flower nor mist, but when she begins to dance, both seem to bloom into being.",
+                "Name": "Не цветы и не туман",
+                "Desc": "Наряд Нилу. Он соткан не из цветов и не из тумана, но стоит Нилу закружиться в танце, и её костюм становится подобен объятым туманом цветам.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Nilou: Lotus Dance</b>",
-            "Desc": "Namecard style.<br>The lotus that blooms amidst the pure water is naught but a flash of light beneath her toes.",
+            "Name": "<b>Танец лотоса</b>",
+            "Desc": "Именная карта.<br>Лотос, цветущий среди чистой воды, всего лишь проблеск света под её стопами.",
             "Pic": "UI_NameCardPic_Nilou_P"
         }
     },
@@ -16324,15 +16324,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Heart of the Scales",
-                "Desc": "Cyno's outfit. This garb displays the General Mahamatra's dignity and the just principles he sticks by. It was a rather complicated piece to commission due to Cyno's request for the custom-made head ornaments and requires regular maintenance.",
+                "Name": "Неподкупность",
+                "Desc": "Наряд Сайно. Костюм, олицетворяющий строгость и справедливость генерала махаматры. Головной убор выполнен с учётом особых пожеланий Сайно, чем объясняется сложность его изготовления и необходимость в регулярном уходе.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Cyno: Silence</b>",
-            "Desc": "Namecard style.<br>Whenever Cyno falls into a profound silence, he must be considering some weighty judgment... Or perhaps he is simply considering something amusing.",
+            "Name": "<b>Спокойствие</b>",
+            "Desc": "Именная карта.<br>Когда Сайно погружается в спокойное молчание, он, должно быть, обдумывает какое-то серьёзное решение... Или же просто думает о чём-то забавном.",
             "Pic": "UI_NameCardPic_Cyno_P"
         }
     },
@@ -16340,15 +16340,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Desert and Night",
-                "Desc": "Candace's outfit. No matter where she goes, the golden sands and the nights of her homeland that adorn her clothes go together with her.",
+                "Name": "Пустыня и ночь",
+                "Desc": "Наряд Кандакии. Куда бы она ни отправилась, рядом всегда будут золотые пески и ночное небо родного края, украшающие её наряд.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Candace: Gray Heron</b>",
-            "Desc": "Namecard style.<br>The burning winds of the past ruffle the heron's feathers, but the bird has eyes only for the morning star at first light.",
+            "Name": "<b>Серая цапля</b>",
+            "Desc": "Именная карта.<br>Жгучие ветры прошлого взъерошили оперение цапли, но птица лишь смотрит на утреннюю звезду с первыми лучами рассвета.",
             "Pic": "UI_NameCardPic_Candace_P"
         }
     },
@@ -16356,15 +16356,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "For All Knowledge, a Verse",
-                "Desc": "Nahida's outfit. Only the oracles that interpret knowledge may robe the God of Wisdom, and so even the smallest ornament is viewed by believers as holy writ.",
+                "Name": "Во имя знаний",
+                "Desc": "Наряд Нахиды. Только оракулы, толкующие знания, могут одевать божество мудрости, поэтому даже к небольшим украшениям верующие относятся столь же трепетно, как к священному писанию.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Nahida: Crescent</b>",
-            "Desc": "Namecard style.<br>The rising moon admires the sun, because her light can shine all over the earth. On the other hand, the setting sun is envious of the moon, for she can be accompanied by the sweetest of dreams.",
+            "Name": "<b>Полумесяц</b>",
+            "Desc": "Именная карта.<br> Восходящая луна восхищается солнцем, потому что его свет сияет по всей земле. Заходящее солнце завидует луне, потому что её сопровождают самые сладкие сны.",
             "Pic": "UI_NameCardPic_Nahida_P"
         }
     },
@@ -16372,15 +16372,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Dreaming Star",
-                "Desc": "Layla's outfit. In the depths of quiet nights, the stars that dot the sky wrap her like a cloak, guiding her into sweet dreams — well, or so she dearly wishes might happen.",
+                "Name": "Дремлющая звезда",
+                "Desc": "Наряд Лайлы. В ночной тиши звёзды, освещающие небосклон, окутывают её, как плащ, навевая сладкие сны, - или она мечтает, чтобы так было.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Layla: Daydream</b>",
-            "Desc": "Namecard style.<br>\"The starry sky in your dreams will illuminate your way forward, on the premise that the crystal in your heart reflects clear lights.\"",
+            "Name": "<b>Грёзы</b>",
+            "Desc": "Именная карта.<br>«Звёздное небо во снах осветит твой дальнейший путь, как кристалл в твоём сердце отражает ясный свет».",
             "Pic": "UI_NameCardPic_Layla_P"
         }
     },
@@ -16388,15 +16388,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "A Wrathful Void",
-                "Desc": "#{REALNAME[ID(1)]}'s outfit. An ascetic's garb and hat can provide the wanderer some shelter from the rain, but they can do nothing to quell the winds and storms raging within.",
+                "Name": "Безмолвие гневной пустоты",
+                "Desc": "#Наряд, который носит {REALNAME[ID(1)]}. Повседневная одежда сюгэндзя. Широкая шляпа защищает от дождя, но бессильна против свирепствующей в сердце бури.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Wanderer: Drifter's Ballad</b>",
-            "Desc": "Namecard style.<br>In a world most transient does the past hide, and in the whims of flowing flowers does thin snow abide.",
+            "Name": "<b>Баллада скитальца</b>",
+            "Desc": "Именная карта.<br>Былые слова растворяются в бренности мира, белый снег порошит опавшие цветы.",
             "Pic": "UI_NameCardPic_Wanderer_P"
         }
     },
@@ -16404,15 +16404,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Pristine Elegance",
-                "Desc": "Faruzan's outfit. The relatively plain yet elegant style represents her unfaltering purity. This style was very popular in the Akademiya a hundred years ago, but has now become an uncommon sight.",
+                "Name": "Безупречное изящество",
+                "Desc": "Наряд Фарузан. Скромный, но изысканный стиль символизирует непоколебимую чистоту. Он был популярен в Академии сто лет назад, но ныне стал большой редкостью.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Faruzan: Sealed Secret</b>",
-            "Desc": "Namecard style.<br>\"A—Anyway! Next time, remember to refer to me as Madam Faruzan before you ask a question! Seriously...\"",
+            "Name": "<b>Запечатанный секрет</b>",
+            "Desc": "Именная карта.<br>«Ч-что бы там ни было! Прежде чем задать свой вопрос, обратись ко мне как полагается! Профессор Фарузан!»",
             "Pic": "UI_NameCardPic_Faruzan_P"
         }
     },
@@ -16420,15 +16420,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Cherubic Osmanthus",
-                "Desc": "Yaoyao's outfit. A lovely, short jacket Yaoyao's parents made for her. As the little girl travels safely between Qingce Village and Liyue Harbor, this jacket, along with the adeptal bells her master gave her, always keeps her company.",
+                "Name": "Каштан и османтус",
+                "Desc": "Наряд Яо Яо. Короткую куртку сшили для неё родители. Куртка и колокольчики Адептов от наставницы всегда составляют ей компанию в благополучных странствиях между деревней Цинцэ и гаванью Ли Юэ.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Yaoyao: Yuegui</b>",
-            "Desc": "Namecard style.<br>\"Can you guess which one here is Yuegui? That's right, all of them are!\"",
+            "Name": "<b>Юэгуй</b>",
+            "Desc": "Именная карта.<br>«Сможешь угадать, кто из них Юэгуй? Правильно, они все!»",
             "Pic": "UI_NameCardPic_Yaoyao_P"
         }
     },
@@ -16436,15 +16436,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "The Rational",
-                "Desc": "Alhaitham's outfit. \"Don't bother the Scribe with trivialities... What do you think those soundproofers of his are for, anyway?\"<br>So observed an experienced staff member at the Temple of Silence.",
+                "Name": "Приверженец логики",
+                "Desc": "Наряд аль-Хайтама. «Секретаря не следует отвлекать по пустякам. Зачем, думаешь, он носит наушники?» - со знанием дела сказал сотрудник Храма Молчания.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Alhaitham: Enlightenment</b>",
-            "Desc": "Namecard style.<br>\"The only things researchers should abide by are debates and dialectics. Only by questioning everything at all times can one avoid falling into prejudice.\"",
+            "Name": "<b>Прозрение</b>",
+            "Desc": "Именная карта.<br>«Единственное, чего должны придерживаться исследователи, - это дискуссии и диалектика. Только подвергая всё и вся сомнению, можно избежать предрассудков».",
             "Pic": "UI_NameCardPic_Alhatham_P"
         }
     },
@@ -16452,15 +16452,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "The Lioness and the Blazing Sun",
-                "Desc": "Dehya's outfit. It is said when the lion roars, even the scorching sun will quiver. Though Dehya is long past the age of believing in such stories, it doesn't stop her from gazing upon the sun sinking below the sands, reminiscing about the tales and storytellers of her childhood.",
+                "Name": "Львица и солнце",
+                "Desc": "Наряд Дэхьи. Говорят, что от львиного рыка даже солнце дрожит. Конечно, Дэхья уже давно вышла из возраста, когда можно верить в подобные истории, но это не мешает ей, глядя на солнце, вспоминать сказания и сказителей её детства.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Dehya: Purifying Flame</b>",
-            "Desc": "Namecard style.<br>Those that should be burned will be reduced to fly ash, so that all the precious things that should be preserved can be revealed.",
+            "Name": "<b>Очищающее пламя</b>",
+            "Desc": "Именная карта.<br>Всё то, что должно быть сожжено, превратится в летящий пепел. Таким образом всё ценное, что должно быть сохранено, раскроет свой истинный облик.",
             "Pic": "UI_NameCardPic_Dehya_P"
         }
     },
@@ -16468,15 +16468,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Soaring Beacon",
-                "Desc": "Mika's outfit. This knightly outfit, specially designed for field work, is made using a vast multitude of flexible but tough materials, adding plenty of places for the wearer to store his weapons and tools. Dressed and prepared, fortune is certain to stride alongside the wearer of this outfit with each step into the unknown.",
+                "Name": "Сигнал в небе",
+                "Desc": "Наряд Мики. Рыцарский костюм, специально созданный для работы в пустошах. Он сделан из разнообразных гибких, но прочных материалов, и позволяет владельцу с удобством носить с собой все необходимые инструменты и орудия. В таком костюме любому будет дуть попутный ветер!",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Mika: Index</b>",
-            "Desc": "Namecard style.<br>Every time he holds the map he illustrated in his hands, the boy feels like he is holding a small piece of rubbing of this world.",
+            "Name": "<b>Указатель</b>",
+            "Desc": "Именная карта.<br>Всякий раз, когда мальчик брал в руки нарисованную им карту, он чувствовал, будто держит в руках маленькую копию мира.",
             "Pic": "UI_NameCardPic_Mika_P"
         }
     },
@@ -16484,15 +16484,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Gold Pinions in Flames Bathed",
-                "Desc": "Kaveh's outfit. A notable tailor from Treasures Street created these clothes in imitation of the lovely sight of birds extending their wings in flight and would only sell them to those who knew how to appreciate their beauty.",
+                "Name": "Умытые огнём крылья",
+                "Desc": "Наряд Кавеха. Знаменитый портной с улицы Сокровищ создал этот комплект в подражание прелестному виду птиц, расправивших в полёте свои крылья, и отказывался продавать его тем, кто не мог это оценить.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Kaveh: Domed Court</b>",
-            "Desc": "Namecard style.<br>\"When conceptualizing architecture, there is nothing wrong with imagining that the structure we build will surmount the firmament and outlast the stars.\"",
+            "Name": "<b>Сводчатый дворец</b>",
+            "Desc": "Именная карта.<br>«При обдумывании концепции строения почему бы не представить, что оно превзойдёт небеса и переживёт звёзды».",
             "Pic": "UI_NameCardPic_Kaveh_P"
         }
     },
@@ -16500,15 +16500,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "The Applications of Medicine",
-                "Desc": "Baizhu's outfit. The cloak on his shoulder is dyed using Changsheng's favorite plants. Its fragrance lingers and soothes the senses.",
+                "Name": "Сонмы лекарств",
+                "Desc": "Наряд Бай Чжу. Накидка на его плечах окрашена любимыми растениями Чан Шэн. Их стойкий аромат успокаивает и расслабляет.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Baizhu: Relief</b>",
-            "Desc": "Namecard style.<br>Sincerity begets longevity.",
+            "Name": "<b>Облегчение</b>",
+            "Desc": "Именная карта.<br>Искренность рождает долголетие.",
             "Pic": "UI_NameCardPic_Baizhuer_P"
         }
     },
@@ -16516,15 +16516,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Phantomeow",
-                "Desc": "Lynette's outfit. A cat resides in the shadows until it wishes to show itself — inscrutable, just like a magician's assistant.",
+                "Name": "Фантомяу",
+                "Desc": "Наряд Линетт. Кошка скрывается в тени, пока сама не решит себя показать - непроницаемая, прямо как ассистентка иллюзиониста.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Lynette: Earnestness</b>",
-            "Desc": "Namecard style.<br>One major type of magic revolves around \"appearing suddenly.\" Lynette is usually conserving her energy, but her serious side can \"appear\" as abruptly as pigeons from a hat.",
+            "Name": "<b>Серьёзность</b>",
+            "Desc": "Именная карта.<br>Один из основных видов магии основывается на «внезапном появлении». Линетт обычно бережёт свою энергию, но её серьёзная сторона может «появиться» так же внезапно, как голубь из шляпы.",
             "Pic": "UI_NameCardPic_Linette_P"
         }
     },
@@ -16532,15 +16532,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Fantasticat",
-                "Desc": "Lyney's outfit. Cats only stretch in front of those they trust completely. Otherwise, they merely hide their claws behind a smile — intimate yet reserved, just like the sweet words of this magician.",
+                "Name": "Фантастикот",
+                "Desc": "Наряд Лини. Кот потягивается только перед тем, кому полностью доверяет. В остальное время он только прячет свои когти за улыбкой, как сладкие речи иллюзиониста - задушевные, но уклончивые.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Lyney: Pretense</b>",
-            "Desc": "Namecard style.<br>One major type of magic revolves around making things \"vanish.\" Lyney has an arsenal of tricks up his sleeve. As his accomplice, as long as you are willing to turn a blind eye, all your problems may vanish as well.",
+            "Name": "<b>Притворство</b>",
+            "Desc": "Именная карта.<br>Один из основных видов магии основывается на том, чтобы заставить вещи «исчезнуть». У Лини в рукаве целый арсенал фокусов. Если вы станете его соучастником и закроете на это глаза, то все ваши проблемы могут также исчезнуть.",
             "Pic": "UI_NameCardPic_Liney_P"
         }
     },
@@ -16548,15 +16548,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Icy Skin",
-                "Desc": "Freminet's outfit. This suit wraps around the deep diver like a second skin, his constant companion in countless sallies to the silent seabed.",
+                "Name": "Ледяная кожа",
+                "Desc": "Наряд Фремине. Он покрывает глубоководного ныряльщика, словно вторая кожа, и всегда сопровождает его в бесчисленных погружениях к безмолвному морскому дну.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Freminet: Progress</b>",
-            "Desc": "Namecard style.<br>As the clockwork devices do naught but round and round in circles turn, the dolls march forward.",
+            "Name": "<b>Прогресс</b>",
+            "Desc": "Именная карта.<br>Пока часовые механизмы только и делают, что вращаются по кругу, куклы шагают вперёд.",
             "Pic": "UI_NameCardPic_Freminet_P"
         }
     },
@@ -16564,15 +16564,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Night's Chilling Howl",
-                "Desc": "Wriothesley's outfit. It radiates both dignity and strength, with the rugged gray wolf chain serving as the mark of his rulership over the Fortress of Meropide.",
+                "Name": "Ледяной зов ночи",
+                "Desc": "Наряд Ризли. Костюм подчёркивает достоинство и силу, а грубая цепь с головой волка символизирует его командование крепостью Меропид.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Wriothesley: Detention</b>",
-            "Desc": "Namecard style.<br>Maintaining order at the Fortress of Meropide is no simple affair. As such, a deft and sometimes firm hand is needed — along with a small pinch of truly regrettable cruelty.",
+            "Name": "<b>Удержание</b>",
+            "Desc": "Именная карта.<br>Поддерживать порядок в крепости Меропид - непростая задача. Для этого нужна ловкая и порой твёрдая рука, а также горстка настоящей жестокости.",
             "Pic": "UI_NameCardPic_Wriothesley_P"
         }
     },
@@ -16580,15 +16580,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Clear Adjudication",
-                "Desc": "Neuvillette's outfit. The solemn, elegant garb of the Iudex. The complexity in its design does, in fact, cause some inconveniences in movement, but to its wearer, that it matches his standing is a more important matter.",
+                "Name": "Чистое суждение",
+                "Desc": "Наряд Нёвиллета. Величественное и элегантное облачение юдекса. Сложность костюма несколько сковывает движения, но для его владельца важнее соответствовать своему положению.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Neuvillette: Surge</b>",
-            "Desc": "Namecard style.<br>The water's surface may seem placid as a pristine gem, but it may yet be lying in wait for an opportune moment to gush forth.",
+            "Name": "<b>Наплыв</b>",
+            "Desc": "Именная карта.<br>Поверхность воды может казаться спокойной, как нетронутая жемчужина. Но, возможно, вода лишь ждёт момента выплеснуться наружу.",
             "Pic": "UI_NameCardPic_Neuvillette_P"
         }
     },
@@ -16596,15 +16596,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "\"All Is Overt Through My Lens\"",
-                "Desc": "Charlotte's outfit. \"If your reporting isn't real enough, it's because you're not close enough.\" Charlotte often has this to say about journalism. Sometimes, however, she adds: \"But of course, maybe it's that the lens you're using just isn't that great.\"",
+                "Name": "«Мой объектив ничего не упустит»",
+                "Desc": "Наряд Шарлотты. «Если ваш репортаж недостаточно реалистичен, то это потому, что вы недостаточно близки к месту события». Шарлотта часто так говорит о журналистике. Иногда, правда, она добавляет: «Но, конечно, может быть, дело в том, что ваш объектив просто не очень хорош».",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Charlotte: Exclusive</b>",
-            "Desc": "Namecard style.<br>\"One, I've written an exclusive, and it's going to generate a lot of buzz for sure! Two, the newspaper said the situation is developing too slowly, so they're changing to a press release instead... Three, the person writing the press release will be in the Opera Epiclese as the defendant tomorrow, so they've decided to run my piece after all!\"",
+            "Name": "<b>Эксклюзив</b>",
+            "Desc": "Именная карта.<br>«Во-первых, это эксклюзив, и он точно вызовет большой резонанс! Во-вторых, в газете сказали, что ситуация развивается слишком медленно, поэтому они переходят на пресс-релиз... В-третьих, человек, написавший пресс-релиз, завтра будет выступать в оперном театре \"Эпиклез\" в качестве обвиняемого, поэтому они решили всё-таки опубликовать мой материал!»",
             "Pic": "UI_NameCardPic_Charlotte_P"
         }
     },
@@ -16612,15 +16612,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Coronated Prima Donna",
-                "Desc": "Furina's outfit. When the curtain rises, the star of the show is meant to shine bright on the stage, and even gorgeous costumes adorned with diamonds pale in comparison to her own dazzling brilliance.",
+                "Name": "Коронованная примадонна",
+                "Desc": "Наряд Фурины. Когда поднимается занавес, звезда спектакля должна ярко сиять на сцене, и даже великолепные костюмы, украшенные бриллиантами, меркнут по сравнению с её собственным ослепительным блеском.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Furina: Banquet</b>",
-            "Desc": "Namecard style.<br>Can one person eat every cake? If they eat one per day, they should be able to enjoy cake for a week or so, right? But will the cakes stay fresh that long? Hmm... Well, don't worry, because there will be friends coming to eat the cakes together.",
+            "Name": "<b>Банкет</b>",
+            "Desc": "Именная карта.<br>Может ли один человек съесть все пирожные? Если съедать по одному в день, то на недельку хватит, верно? Но будут ли пирожные оставаться свежими так долго? Хм... Не волнуйтесь, ведь к нам придут друзья, чтобы насладиться ими вместе.",
             "Pic": "UI_NameCardPic_Furina_P"
         }
     },
@@ -16628,15 +16628,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Guardian's Gun",
-                "Desc": "Chevreuse's outfit. The designers kept the uniform's classic black, white, and red color combination and added a bevy of accessories, but the result proved too heavy, which the captain protested. The final, fit-for-public-consumption version lacked most of those metal decorations.",
+                "Name": "Оружие защитника",
+                "Desc": "Наряд Шеврёз. Дизайнеры оставили классическое сочетание чёрного, белого и красного цветов униформы и добавили большое количество аксессуаров, но костюм получился слишком тяжёлым, что вызвало протест капитана. Финальная версия предстала перед публикой без большей части металлических украшений.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Chevreuse: Type II</b>",
-            "Desc": "Namecard style.<br>The standard issue weapon of the Special Security and Surveillance Patrol is known as the \"Special Security and Surveillance Patrol Type II Standard Musket.\" Yet, though there may be countless flowers in this world, the one you treasure is special, even if it should be known to the world as nothing at all special.",
+            "Name": "<b>Модель № 2</b>",
+            "Desc": "Именная карта.<br>Полное название мушкета Особого патруля - «Модель № 2 стандартного мушкета Особого патруля по охране и наблюдению». Шеврёз назвала свой мушкет «Модель № 2». Точно так же в мире существует бесчисленное множество цветов, а тот, которым вы дорожите, остаётся особенным, даже если называется простым и незатейливым.",
             "Pic": "UI_NameCardPic_Chevreuse_P"
         }
     },
@@ -16644,15 +16644,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Yellow Velvet Salon",
-                "Desc": "Navia's outfit. An elegant dress that cleaves perfectly to the image of a Fontainian lady, lending this adventurous, far-from-traditional young woman a fresh look indeed.",
+                "Name": "Салон жёлтого бархата",
+                "Desc": "Наряд Навии. Элегантное платье превосходно соответствует образу фонтейнской леди и придаёт поистине свежий вид этой далёкой от традиций девушке, которая любит приключения и смех.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Navia: Rosula</b>",
-            "Desc": "Namecard style.<br>Roses shall bloom, and thus does Ms. Navia's umbrella flower. Yet beware, for roses have thorns, and Navia's booming brolly packs a powerful punch.",
+            "Name": "<b>Росула</b>",
+            "Desc": "Именная карта.<br>Роза расцветёт, зонтик Навии откроется. Но будьте осторожны, ведь у роз есть шипы, а зонтик Навии может стрелять мощными бомбами-парашютами.",
             "Pic": "UI_NameCardPic_Navia_P"
         }
     },
@@ -16660,15 +16660,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Ranging Rainbow",
-                "Desc": "Gaming's outfit. There's no need for a fancy getup when going out. A few plain layers, comfortable shoes, and voila, you're on solid footing!",
+                "Name": "Далёкая радуга",
+                "Desc": "Наряд Ка Мина. На улице нет нужды в изысканных костюмах. Несколько слоёв простой одежды, пара удобных ботинок - всё, что надо для комфорта и удобства.",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Gaming: Man Chai</b>",
-            "Desc": "Namecard style.<br>\"Don't stop believing, Man Chai. One day, we'll soar high, with nary a patched hole in our trousers.\"",
+            "Name": "<b>Ман Чай</b>",
+            "Desc": "Именная карта.<br>«Ман Чай, не теряй веру. Однажды мы взлетим ввысь, а на наших брюках не останется ни одной дырки».",
             "Pic": "UI_NameCardPic_Gaming_P"
         }
     },
@@ -16676,15 +16676,15 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "A Guest's August Omen",
-                "Desc": "Xianyun's outfit. These garments were not designed by any famous tailor, though at first glance, they appear to be made of the finest silks. Yet closer inspection reveals that the weave is not of silk, cotton, or linen, and a glow runs through it like an adeptus's feather coat. One can only imagine from what provenance she obtained such clothes...",
+                "Name": "Счастливое знамение гостьи",
+                "Desc": "Наряд Сянь Юнь. Этот костюм не был создан знаменитым портным. На первый взгляд кажется, что сшит он из тончайшего шёлка, но если приглядеться, то становится понятно, что материя эта не шёлк, не хлопок и не лён, и через неё струится свет, будто это одеяние Адепта. Остаётся только гадать, где Сянь Юнь достала такой наряд...",
                 "Icon": "",
                 "Quality": 0
             }
         ],
         "Namecard": {
-            "Name": "<b>Xianyun: White Clouds</b>",
-            "Desc": "Namecard style.<br>Those who the truth tell, commuted shall their sentence be. Be honest. When Cloud Retainer asked you, \"Do you perceive one as merely some larger bird?\", did you also append the thoughts, \"Yes, and you talk, and fiddle with funny machines\"?",
+            "Name": "<b>Белые облака</b>",
+            "Desc": "Именная карта.<br>Тем, кто говорит правду, приговор смягчается. Будьте честны. Когда Хранитель Облаков спросил вас: «Неужели ты воспринимаешь меня просто как какую-то большую птицу?», вы подумали: «да, которая ещё умеет говорить и возиться со странными механизмами»?",
             "Pic": "UI_NameCardPic_Liuyun_P"
         }
     },
@@ -16692,8 +16692,8 @@ var _AvatarCostumeConfig = {
         "Costumes": [
             {
                 "ID": 0,
-                "Name": "Plucked Yamabuki Splendor",
-                "Desc": "Chiori's outfit. An elegant dress ensemble personally designed by Chiori herself, the exquisite craftsmanship has a distinctive Inazuman flair. She once wore this outfit when she graced the front page of a Fontainian fashion review magazine, and her unique aesthetics immediately catapulted her to the forefront of Fontaine's fashion world.",
+                "Name": "Великолепие цветов ямабуки",
+                "Desc": "Наряд Тиори. Элегантное платье, сшитое по уникальному дизайну, придуманному самой Тиори. Это истинное проявление стиля и элегантности с характерными чертами инадзумского традиционного наряда. Тиори не раз появлялась в нём на первых страницах модных журналов. Она стала ведущей фигурой в мире моды Фонтейна благодаря внутреннему чувству прекрасного.",
                 "Icon": "",
                 "Quality": 0
             }
