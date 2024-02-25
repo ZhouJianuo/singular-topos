@@ -18,7 +18,7 @@ $(function () {
     var show_arena = 0
 
     let script_computer = document.createElement('script')
-    script_computer.src = '/gi/' + lang + '/database.js'
+    script_computer.src = '/gi/' + lang2 + '/database.js'
     document.head.append(script_computer)
     script_computer.onload = begin1
 

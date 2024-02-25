@@ -320,7 +320,7 @@ var __AvatarInfoConfig = [
         "Name": "Furina",
         "Desc": "The absolute focus of the stage of judgment, until the final applause sounds.",
         "Title": "Endless Solo of Solitude",
-        "Constellation": "Animula Choragi",
+        "Constellation": null,
         "Nation": "Fontaine",
         "Belong": "Court of Fontaine",
         "Grade": 5,
@@ -424,7 +424,7 @@ var __AvatarInfoConfig = [
         "Name": "Neuvillette",
         "Desc": "The Chief Justice of Fontaine, known as the Iudex, is renowned for his unassailable impartiality.",
         "Title": "Ordainer of Inexorable Judgment",
-        "Constellation": "??? / Leviathan Judicator",
+        "Constellation": null,
         "Nation": "Fontaine",
         "Belong": "Court of Fontaine",
         "Grade": 5,
@@ -1288,7 +1288,7 @@ var __AvatarInfoConfig = [
         "Name": "Nahida",
         "Desc": "A caged bird secluded within the confines of the Sanctuary of Surasthana who can only see the world in her dreams.",
         "Title": "Physic of Purity",
-        "Constellation": "Sapientia Oromasdis",
+        "Constellation": null,
         "Nation": "Sumeru",
         "Belong": "Sumeru City",
         "Grade": 5,
@@ -2412,7 +2412,7 @@ var __AvatarInfoConfig = [
         "Name": "Raiden Shogun",
         "Desc": "Her Excellency, the Almighty Narukami Ogosho, who promised the people of Inazuma an unchanging Eternity.",
         "Title": "Plane of Euthymia",
-        "Constellation": "Imperatrix Umbrosa",
+        "Constellation": null,
         "Nation": "Inazuma",
         "Belong": "Inazuma City",
         "Grade": 5,
@@ -3276,7 +3276,7 @@ var __AvatarInfoConfig = [
         "Name": "Zhongli",
         "Desc": "A mysterious expert contracted by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things.",
         "Title": "Vago Mundo",
-        "Constellation": "??? / Lapis Dei",
+        "Constellation": null,
         "Nation": "Liyue",
         "Belong": "Liyue Harbor",
         "Grade": 5,
@@ -3952,7 +3952,7 @@ var __AvatarInfoConfig = [
         "Name": "Venti",
         "Desc": "One of the many bards of Mondstadt, who freely wanders the city's streets and alleys.",
         "Title": "Windborne Bard",
-        "Constellation": "Carmen Dei",
+        "Constellation": null,
         "Nation": "Mondstadt",
         "Belong": "Mondstadt",
         "Grade": 5,
@@ -4662,7 +4662,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "？？？",
-            "EN": "？？？"
+            "EN": "？？？",
+            "RU": "？？？"
         }
     },
     "Liuyun": {
@@ -4712,7 +4713,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "中臣真菜",
-            "EN": "中臣真菜"
+            "EN": "中臣真菜",
+            "RU": "中臣真菜"
         }
     },
     "Gaming": {
@@ -4762,7 +4764,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "小松昌平",
-            "EN": "小松昌平"
+            "EN": "小松昌平",
+            "RU": "小松昌平"
         }
     },
     "Navia": {
@@ -4812,7 +4815,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "丰崎爱生",
-            "EN": "豊崎愛生"
+            "EN": "豊崎愛生",
+            "RU": "豊崎愛生"
         }
     },
     "Chevreuse": {
@@ -4862,7 +4866,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "下地紫野",
-            "EN": "下地紫野"
+            "EN": "下地紫野",
+            "RU": "下地紫野"
         }
     },
     "Furina": {
@@ -4912,7 +4917,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "水濑祈",
-            "EN": "水瀬いのり"
+            "EN": "水瀬いのり",
+            "RU": "水瀬いのり"
         }
     },
     "Charlotte": {
@@ -4962,7 +4968,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "和气杏未",
-            "EN": "和氣あず未"
+            "EN": "和氣あず未",
+            "RU": "和氣あず未"
         }
     },
     "Neuvillette": {
@@ -5012,7 +5019,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "神谷浩史",
-            "EN": "神谷浩史"
+            "EN": "神谷浩史",
+            "RU": "神谷浩史"
         }
     },
     "Wriothesley": {
@@ -5062,7 +5070,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "小野大辅",
-            "EN": "小野大輔"
+            "EN": "小野大輔",
+            "RU": "小野大輔"
         }
     },
     "Freminet": {
@@ -5112,7 +5121,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "土岐隼一",
-            "EN": "土岐隼一"
+            "EN": "土岐隼一",
+            "RU": "土岐隼一"
         }
     },
     "Liney": {
@@ -5162,7 +5172,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "下野纮",
-            "EN": "下野紘"
+            "EN": "下野紘",
+            "RU": "下野紘"
         }
     },
     "Linette": {
@@ -5212,7 +5223,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "篠原侑",
-            "EN": "篠原侑"
+            "EN": "篠原侑",
+            "RU": "篠原侑"
         }
     },
     "Baizhuer": {
@@ -5262,7 +5274,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "游佐浩二&庄子裕衣",
-            "EN": "遊佐浩二 & 庄子裕衣"
+            "EN": "遊佐浩二 & 庄子裕衣",
+            "RU": "遊佐浩二&庄子裕衣"
         }
     },
     "Kaveh": {
@@ -5312,7 +5325,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "内田雄马",
-            "EN": "内田雄馬"
+            "EN": "内田雄馬",
+            "RU": "内田雄馬"
         }
     },
     "Mika": {
@@ -5362,7 +5376,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "三瓶由布子",
-            "EN": "三瓶由布子"
+            "EN": "三瓶由布子",
+            "RU": "三瓶由布子"
         }
     },
     "Dehya": {
@@ -5412,7 +5427,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "福原绫香",
-            "EN": "福原綾香"
+            "EN": "福原綾香",
+            "RU": "福原綾香"
         }
     },
     "Alhatham": {
@@ -5462,7 +5478,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "梅原裕一郎",
-            "EN": "梅原裕一郎"
+            "EN": "梅原裕一郎",
+            "RU": "梅原裕一郎"
         }
     },
     "Yaoyao": {
@@ -5512,7 +5529,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "门胁舞以",
-            "EN": "門脇舞以"
+            "EN": "門脇舞以",
+            "RU": "門脇舞以"
         }
     },
     "Faruzan": {
@@ -5562,7 +5580,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "堀江由衣",
-            "EN": "堀江由衣"
+            "EN": "堀江由衣",
+            "RU": "堀江由衣"
         }
     },
     "Wanderer": {
@@ -5612,7 +5631,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "柿原彻也",
-            "EN": "柿原徹也"
+            "EN": "柿原徹也",
+            "RU": "柿原徹也"
         }
     },
     "Layla": {
@@ -5662,7 +5682,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "富田美忧",
-            "EN": "富田美憂"
+            "EN": "富田美憂",
+            "RU": "富田美憂"
         }
     },
     "Nahida": {
@@ -5712,7 +5733,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "田村由加莉",
-            "EN": "田村ゆかり"
+            "EN": "田村ゆかり",
+            "RU": "田村ゆかり"
         }
     },
     "Candace": {
@@ -5762,7 +5784,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "柚木凉香",
-            "EN": "柚木涼香"
+            "EN": "柚木涼香",
+            "RU": "柚木涼香"
         }
     },
     "Cyno": {
@@ -5812,7 +5835,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "入野自由",
-            "EN": "入野自由"
+            "EN": "入野自由",
+            "RU": "入野自由"
         }
     },
     "Nilou": {
@@ -5862,7 +5886,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "金元寿子",
-            "EN": "金元寿子"
+            "EN": "金元寿子",
+            "RU": "金元寿子"
         }
     },
     "Tighnari": {
@@ -5912,7 +5937,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "小林沙苗",
-            "EN": "小林沙苗"
+            "EN": "小林沙苗",
+            "RU": "小林沙苗"
         }
     },
     "Dori": {
@@ -5962,7 +5988,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "金田朋子",
-            "EN": "金田朋子"
+            "EN": "金田朋子",
+            "RU": "金田朋子"
         }
     },
     "Collei": {
@@ -6012,7 +6039,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "前川凉子",
-            "EN": "前川涼子"
+            "EN": "前川涼子",
+            "RU": "前川涼子"
         }
     },
     "Ayato": {
@@ -6062,7 +6090,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "石田彰",
-            "EN": "石田彰"
+            "EN": "石田彰",
+            "RU": "石田彰"
         }
     },
     "Shinobu": {
@@ -6112,7 +6141,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "水桥香织",
-            "EN": "水橋かおり"
+            "EN": "水橋かおり",
+            "RU": "水橋かおり"
         }
     },
     "Yunjin": {
@@ -6162,7 +6192,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "小岩井小鸟&杨扬",
-            "EN": "小岩井ことり & Yang Yang"
+            "EN": "小岩井ことり & Yang Yang",
+            "RU": "小岩井ことり & Yang Yang"
         }
     },
     "Shenhe": {
@@ -6212,7 +6243,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "川澄绫子",
-            "EN": "川澄綾子"
+            "EN": "川澄綾子",
+            "RU": "川澄綾子"
         }
     },
     "Aloy": {
@@ -6262,7 +6294,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "高垣彩阳",
-            "EN": "高垣彩陽"
+            "EN": "高垣彩陽",
+            "RU": "高垣彩陽"
         }
     },
     "Momoka": {
@@ -6312,7 +6345,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "铃代纱弓",
-            "EN": "鈴代紗弓"
+            "EN": "鈴代紗弓",
+            "RU": "鈴代紗弓"
         }
     },
     "Yelan": {
@@ -6362,7 +6396,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "远藤绫",
-            "EN": "遠藤綾"
+            "EN": "遠藤綾",
+            "RU": "遠藤綾"
         }
     },
     "Heizo": {
@@ -6412,7 +6447,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "井口祐一",
-            "EN": "井口祐一"
+            "EN": "井口祐一",
+            "RU": "井口祐一"
         }
     },
     "Yae": {
@@ -6462,7 +6498,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "佐仓绫音",
-            "EN": "佐倉綾音"
+            "EN": "佐倉綾音",
+            "RU": "佐倉綾音"
         }
     },
     "Itto": {
@@ -6512,7 +6549,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "西川贵教",
-            "EN": "西川貴教"
+            "EN": "西川貴教",
+            "RU": "西川貴教"
         }
     },
     "Sara": {
@@ -6562,7 +6600,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "濑户麻沙美",
-            "EN": "瀬戸麻沙美"
+            "EN": "瀬戸麻沙美",
+            "RU": "瀬戸麻沙美"
         }
     },
     "Gorou": {
@@ -6612,7 +6651,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "畠中祐",
-            "EN": "畠中祐"
+            "EN": "畠中祐",
+            "RU": "畠中祐"
         }
     },
     "Kokomi": {
@@ -6662,7 +6702,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "三森铃子",
-            "EN": "三森すずこ"
+            "EN": "三森すずこ",
+            "RU": "三森すずこ"
         }
     },
     "Sayu": {
@@ -6712,7 +6753,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "洲崎绫",
-            "EN": "洲崎綾"
+            "EN": "洲崎綾",
+            "RU": "洲崎綾"
         }
     },
     "Shougun": {
@@ -6762,7 +6804,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "泽城美雪",
-            "EN": "沢城みゆき"
+            "EN": "沢城みゆき",
+            "RU": "沢城みゆき"
         }
     },
     "Eula": {
@@ -6812,7 +6855,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "佐藤利奈",
-            "EN": "佐藤利奈"
+            "EN": "佐藤利奈",
+            "RU": "佐藤利奈"
         }
     },
     "Tohma": {
@@ -6862,7 +6906,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "森田成一",
-            "EN": "森田成一"
+            "EN": "森田成一",
+            "RU": "森田成一"
         }
     },
     "Yoimiya": {
@@ -6912,7 +6957,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "植田佳奈",
-            "EN": "植田佳奈"
+            "EN": "植田佳奈",
+            "RU": "植田佳奈"
         }
     },
     "Feiyan": {
@@ -6962,7 +7008,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "花守由美里",
-            "EN": "花守ゆみり"
+            "EN": "花守ゆみり",
+            "RU": "花守ゆみり"
         }
     },
     "Kazuha": {
@@ -7012,7 +7059,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "岛崎信长",
-            "EN": "島﨑信長"
+            "EN": "島﨑信長",
+            "RU": "島﨑信長"
         }
     },
     "Hutao": {
@@ -7062,7 +7110,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "高桥李依",
-            "EN": "高橋李依"
+            "EN": "高橋李依",
+            "RU": "高橋李依"
         }
     },
     "Rosaria": {
@@ -7112,7 +7161,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "加隈亚衣",
-            "EN": "加隈亜衣"
+            "EN": "加隈亜衣",
+            "RU": "加隈亜衣"
         }
     },
     "Xinyan": {
@@ -7162,7 +7212,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "高桥智秋",
-            "EN": "たかはし智秋"
+            "EN": "たかはし智秋",
+            "RU": "たかはし智秋"
         }
     },
     "Sucrose": {
@@ -7212,7 +7263,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "藤田茜",
-            "EN": "藤田茜"
+            "EN": "藤田茜",
+            "RU": "藤田茜"
         }
     },
     "Keqing": {
@@ -7262,7 +7314,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "喜多村英梨",
-            "EN": "喜多村英梨"
+            "EN": "喜多村英梨",
+            "RU": "喜多村英梨"
         }
     },
     "Mona": {
@@ -7312,7 +7365,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "小原好美",
-            "EN": "小原好美"
+            "EN": "小原好美",
+            "RU": "小原好美"
         }
     },
     "Diona": {
@@ -7362,7 +7416,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "井泽诗织",
-            "EN": "井澤詩織"
+            "EN": "井澤詩織",
+            "RU": "井澤詩織"
         }
     },
     "Albedo": {
@@ -7412,7 +7467,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "野岛健儿",
-            "EN": "野島健児"
+            "EN": "野島健児",
+            "RU": "野島健児"
         }
     },
     "Ganyu": {
@@ -7462,7 +7518,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "上田丽奈",
-            "EN": "上田麗奈"
+            "EN": "上田麗奈",
+            "RU": "上田麗奈"
         }
     },
     "Chongyun": {
@@ -7512,7 +7569,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "齐藤壮马",
-            "EN": "斉藤壮馬"
+            "EN": "斉藤壮馬",
+            "RU": "斉藤壮馬"
         }
     },
     "Qiqi": {
@@ -7562,7 +7620,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "田村由加莉",
-            "EN": "田村ゆかり"
+            "EN": "田村ゆかり",
+            "RU": "田村ゆかり"
         }
     },
     "Noel": {
@@ -7612,7 +7671,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "高尾奏音",
-            "EN": "高尾奏音"
+            "EN": "高尾奏音",
+            "RU": "高尾奏音"
         }
     },
     "Tartaglia": {
@@ -7662,7 +7722,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "木村良平",
-            "EN": "木村良平"
+            "EN": "木村良平",
+            "RU": "木村良平"
         }
     },
     "Bennett": {
@@ -7712,7 +7773,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "逢坂良太",
-            "EN": "逢坂良太"
+            "EN": "逢坂良太",
+            "RU": "逢坂良太"
         }
     },
     "Fischl": {
@@ -7762,7 +7824,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "内田真礼&增谷康纪",
-            "EN": "内田真礼 & 増谷康紀"
+            "EN": "内田真礼 & 増谷康紀",
+            "RU": "内田真礼 & 増谷康紀"
         }
     },
     "Zhongli": {
@@ -7812,7 +7875,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "前野智昭",
-            "EN": "前野智昭"
+            "EN": "前野智昭",
+            "RU": "前野智昭"
         }
     },
     "Klee": {
@@ -7862,7 +7926,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "久野美咲",
-            "EN": "久野美咲"
+            "EN": "久野美咲",
+            "RU": "久野美咲"
         }
     },
     "Ningguang": {
@@ -7912,7 +7977,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "大原沙耶香",
-            "EN": "大原さやか"
+            "EN": "大原さやか",
+            "RU": "大原さやか"
         }
     },
     "Xiao": {
@@ -7962,7 +8028,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "松冈祯丞",
-            "EN": "松岡禎丞"
+            "EN": "松岡禎丞",
+            "RU": "松岡禎丞"
         }
     },
     "Xingqiu": {
@@ -8012,7 +8079,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "皆川纯子",
-            "EN": "皆川純子"
+            "EN": "皆川純子",
+            "RU": "皆川純子"
         }
     },
     "Beidou": {
@@ -8062,7 +8130,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "小清水亚美",
-            "EN": "小清水亜美"
+            "EN": "小清水亜美",
+            "RU": "小清水亜美"
         }
     },
     "Xiangling": {
@@ -8112,7 +8181,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "小泽亚李",
-            "EN": "小澤亜李"
+            "EN": "小澤亜李",
+            "RU": "小澤亜李"
         }
     },
     "Venti": {
@@ -8162,7 +8232,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "村濑步",
-            "EN": "村瀬歩"
+            "EN": "村瀬歩",
+            "RU": "村瀬歩"
         }
     },
     "Ambor": {
@@ -8212,7 +8283,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "石见舞菜香",
-            "EN": "石見舞菜香"
+            "EN": "石見舞菜香",
+            "RU": "石見舞菜香"
         }
     },
     "Razor": {
@@ -8262,7 +8334,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "内山昂辉",
-            "EN": "内山昂輝"
+            "EN": "内山昂輝",
+            "RU": "内山昂輝"
         }
     },
     "Diluc": {
@@ -8312,7 +8385,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "小野贤章",
-            "EN": "小野賢章"
+            "EN": "小野賢章",
+            "RU": "小野賢章"
         }
     },
     "Kaeya": {
@@ -8362,7 +8436,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "鸟海浩辅",
-            "EN": "鳥海浩輔"
+            "EN": "鳥海浩輔",
+            "RU": "鳥海浩輔"
         }
     },
     "Barbara": {
@@ -8412,7 +8487,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "鬼头明里",
-            "EN": "鬼頭明里"
+            "EN": "鬼頭明里",
+            "RU": "鬼頭明里"
         }
     },
     "Lisa": {
@@ -8462,7 +8538,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "田中理惠",
-            "EN": "田中理恵"
+            "EN": "田中理恵",
+            "RU": "田中理恵"
         }
     },
     "Qin": {
@@ -8512,7 +8589,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "斋藤千和",
-            "EN": "斎藤千和"
+            "EN": "斎藤千和",
+            "RU": "斎藤千和"
         }
     },
     "Ayaka": {
@@ -8562,7 +8640,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "早见沙织",
-            "EN": "早見沙織"
+            "EN": "早見沙織",
+            "RU": "早見沙織"
         }
     },
     "PlayerGirl_Wind": {
@@ -18754,33 +18833,46 @@ var acs_cache = {
 var index_avatar = {
     "KEQING": 42,
     "刻晴": 42,
+    "КЭЦИН": 42,
     "CHIORI": 94,
     "千织": 94,
+    "ТИОРИ": 94,
     "LIUYUN": 93,
     "闲云": 93,
     "XIANYUN": 93,
+    "СЯНЬЮНЬ": 93,
     "GAMING": 92,
     "嘉明": 92,
+    "КАМИН": 92,
     "NAVIA": 91,
     "娜维娅": 91,
+    "НАВИЯ": 91,
     "CHEVREUSE": 90,
     "夏沃蕾": 90,
+    "ШЕВРЁЗ": 90,
     "FURINA": 89,
     "芙宁娜": 89,
+    "ФУРИНА": 89,
     "CHARLOTTE": 88,
     "夏洛蒂": 88,
+    "ШАРЛОТТА": 88,
     "NEUVILLETTE": 87,
     "那维莱特": 87,
+    "НЁВИЛЛЕТ": 87,
     "WRIOTHESLEY": 86,
     "莱欧斯利": 86,
+    "РИЗЛИ": 86,
     "FREMINET": 85,
     "菲米尼": 85,
+    "ФРЕМИНЕ": 85,
     "LINEY": 84,
     "林尼": 84,
     "LYNEY": 84,
+    "ЛИНИ": 84,
     "LINETTE": 83,
     "琳妮特": 83,
     "LYNETTE": 83,
+    "ЛИНЕТТ": 83,
     "PLAYERGIRLWATER": 705,
     "旅行者水": 505,
     "TRAVELERHYDRO": 505,
@@ -18788,40 +18880,57 @@ var index_avatar = {
     "MOMOKA": 61,
     "绮良良": 61,
     "KIRARA": 61,
+    "КИРАРА": 61,
     "BAIZHUER": 82,
     "白术": 82,
     "BAIZHU": 82,
+    "БАЙЧЖУ": 82,
     "KAVEH": 81,
     "卡维": 81,
+    "КАВЕХ": 81,
     "MIKA": 80,
     "米卡": 80,
+    "МИКА": 80,
     "DEHYA": 79,
     "迪希雅": 79,
+    "ДЭХЬЯ": 79,
     "ALHATHAM": 78,
     "艾尔海森": 78,
     "ALHAITHAM": 78,
+    "АЛЬХАЙТАМ": 78,
     "YAOYAO": 77,
     "瑶瑶": 77,
+    "ЯОЯО": 77,
     "FARUZAN": 76,
     "珐露珊": 76,
+    "ФАРУЗАН": 76,
     "WANDERER": 75,
     "流浪者": 75,
+    "СТРАННИК": 75,
     "LAYLA": 74,
     "莱依拉": 74,
+    "ЛАЙЛА": 74,
     "NAHIDA": 73,
     "纳西妲": 73,
+    "НАХИДА": 73,
     "CANDACE": 72,
     "坎蒂丝": 72,
+    "КАНДАКИЯ": 72,
     "CYNO": 71,
     "赛诺": 71,
+    "САЙНО": 71,
     "NILOU": 70,
     "妮露": 70,
+    "НИЛУ": 70,
     "TIGHNARI": 69,
     "提纳里": 69,
+    "ТИГНАРИ": 69,
     "DORI": 68,
     "多莉": 68,
+    "ДОРИ": 68,
     "COLLEI": 67,
     "柯莱": 67,
+    "КОЛЛЕИ": 67,
     "PLAYERGIRLGRASS": 704,
     "旅行者草": 504,
     "TRAVELERDENDRO": 504,
@@ -18829,47 +18938,64 @@ var index_avatar = {
     "HEIZO": 59,
     "鹿野院平藏": 59,
     "SHIKANOINHEIZOU": 59,
+    "ХЭЙДЗО": 59,
     "SHINOBU": 65,
     "久岐忍": 65,
     "KUKISHINOBU": 65,
+    "СИНОБУ": 65,
     "YELAN": 60,
     "夜兰": 60,
+    "ЕЛАНЬ": 60,
     "AYATO": 66,
     "神里绫人": 66,
     "KAMISATOAYATO": 66,
+    "АЯТО": 66,
     "YAE": 58,
     "八重神子": 58,
     "YAEMIKO": 58,
+    "ЯЭМИКО": 58,
     "YUNJIN": 64,
     "云堇": 64,
+    "ЮНЬЦЗИНЬ": 64,
     "SHENHE": 63,
     "申鹤": 63,
+    "ШЭНЬХЭ": 63,
     "ITTO": 57,
     "荒泷一斗": 57,
     "ARATAKIITTO": 57,
+    "ИТТО": 57,
     "GOROU": 55,
     "五郎": 55,
+    "ГОРО": 55,
     "TOHMA": 50,
     "托马": 50,
     "THOMA": 50,
+    "ТОМА": 50,
     "ALOY": 62,
     "埃洛伊": 62,
+    "ЭЛОЙ": 62,
     "SARA": 56,
     "九条裟罗": 56,
     "KUJOUSARA": 56,
+    "САРА": 56,
     "KOKOMI": 54,
     "珊瑚宫心海": 54,
     "SANGONOMIYAKOKOMI": 54,
+    "КОКОМИ": 54,
     "SHOUGUN": 52,
     "雷电将军": 52,
     "RAIDENSHOGUN": 52,
+    "РАЙДЭН": 52,
     "SAYU": 53,
     "早柚": 53,
+    "САЮ": 53,
     "YOIMIYA": 49,
     "宵宫": 49,
+    "ЁИМИЯ": 49,
     "AYAKA": 2,
     "神里绫华": 2,
     "KAMISATOAYAKA": 2,
+    "АЯКА": 2,
     "PLAYERGIRLELEC": 703,
     "旅行者雷": 503,
     "TRAVELERELECTRO": 503,
@@ -18877,72 +19003,104 @@ var index_avatar = {
     "KAZUHA": 47,
     "枫原万叶": 47,
     "KAEDEHARAKAZUHA": 47,
+    "КАДЗУХА": 47,
     "EULA": 51,
     "优菈": 51,
+    "ЭОЛА": 51,
     "FEIYAN": 48,
     "烟绯": 48,
     "YANFEI": 48,
+    "ЯНЬФЭЙ": 48,
     "ROSARIA": 45,
     "罗莎莉亚": 45,
+    "РОЗАРИЯ": 45,
     "HUTAO": 46,
     "胡桃": 46,
+    "ХУТАО": 46,
     "XIAO": 26,
     "魈": 26,
+    "СЯО": 26,
     "ALBEDO": 38,
     "阿贝多": 38,
+    "АЛЬБЕДО": 38,
     "GANYU": 37,
     "甘雨": 37,
+    "ГАНЬЮЙ": 37,
     "XINYAN": 44,
     "辛焱": 44,
+    "СИНЬЯНЬ": 44,
     "DIONA": 39,
     "迪奥娜": 39,
+    "ДИОНА": 39,
     "TARTAGLIA": 33,
     "达达利亚": 33,
+    "ТАРТАЛЬЯ": 33,
     "ZHONGLI": 30,
     "钟离": 30,
+    "ЧЖУНЛИ": 30,
     "SUCROSE": 43,
     "砂糖": 43,
+    "САХАРОЗА": 43,
     "MONA": 41,
     "莫娜": 41,
+    "МОНА": 41,
     "CHONGYUN": 36,
     "重云": 36,
+    "ЧУНЮНЬ": 36,
     "QIQI": 35,
     "七七": 35,
+    "ЦИЦИ": 35,
     "NOEL": 34,
     "诺艾尔": 34,
     "NOELLE": 34,
+    "НОЭЛЛЬ": 34,
     "BENNETT": 32,
     "班尼特": 32,
+    "БЕННЕТ": 32,
     "FISCHL": 31,
     "菲谢尔": 31,
+    "ФИШЛЬ": 31,
     "KLEE": 29,
     "可莉": 29,
+    "КЛИ": 29,
     "NINGGUANG": 27,
     "凝光": 27,
+    "НИНГУАН": 27,
     "XINGQIU": 25,
     "行秋": 25,
+    "СИНЦЮ": 25,
     "BEIDOU": 24,
     "北斗": 24,
+    "БЭЙДОУ": 24,
     "XIANGLING": 23,
     "香菱": 23,
+    "СЯНЛИН": 23,
     "VENTI": 22,
     "温迪": 22,
+    "ВЕНТИ": 22,
     "AMBOR": 21,
     "安柏": 21,
     "AMBER": 21,
+    "ЭМБЕР": 21,
     "RAZOR": 20,
     "雷泽": 20,
+    "РЭЙЗОР": 20,
     "DILUC": 16,
     "迪卢克": 16,
+    "ДИЛЮК": 16,
     "KAEYA": 15,
     "凯亚": 15,
+    "КЭЙА": 15,
     "BARBARA": 14,
     "芭芭拉": 14,
+    "БАРБАРА": 14,
     "LISA": 6,
     "丽莎": 6,
+    "ЛИЗА": 6,
     "QIN": 3,
     "琴": 3,
     "JEAN": 3,
+    "ДЖИНН": 3,
     "PLAYERGIRLWIND": 701,
     "旅行者风": 501,
     "TRAVELERANEMO": 501,

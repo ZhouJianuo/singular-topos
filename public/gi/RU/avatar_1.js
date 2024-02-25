@@ -4,12 +4,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Keqing",
         "_id": 42,
-        "Name": "Keqing",
-        "Desc": "The Yuheng of the Liyue Qixing. Keqing has much to say about Rex Lapis's unilateral approach to policymaking in Liyue — but in truth, gods admire skeptics such as her quite a lot.",
-        "Title": "Driving Thunder",
-        "Constellation": "Trulla Cementarii",
+        "Name": "Кэ Цин",
+        "Desc": "Нефритовое Равновесие группировки Цисин в Ли Юэ. У неё есть что сказать против «Властелина Камня, правящего Ли Юэ лишь словом», но, оказывается, боги любят таких скептиков, как она.",
+        "Title": "Раскаты грома",
+        "Constellation": "Громовой Стилет",
         "Nation": "Liyue",
-        "Belong": "Liyue Qixing",
+        "Belong": "Цисин",
         "Grade": 5,
         "Type": "Girl",
         "Weapon": "Sword",
@@ -57,12 +57,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Chiori",
         "_id": 94,
-        "Name": "Chiori",
-        "Desc": "The owner of Chioriya Boutique. A tailor renowned throughout Fontaine.",
+        "Name": "Тиори",
+        "Desc": "Хозяйка «Дома Тиори». Дизайнер одежды, известный во всём Фонтейне.",
         "Title": "The Thundering Seamstress",
         "Constellation": "Cisoria",
         "Nation": "Inazuma",
-        "Belong": "Court of Fontaine",
+        "Belong": "Кур-де-Фонтейн",
         "Grade": 5,
         "Type": "Girl",
         "Weapon": "Sword",
@@ -109,12 +109,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Liuyun",
         "_id": 93,
-        "Name": "Xianyun",
-        "Desc": "One of the Mighty and Illuminated Adepti of Jueyun, known as \"Cloud Retainer.\" Expert in all kinds of mechanical contraptions, her heart now turns towards the affairs of the mortal world, through which she walks under the name \"Xianyun.\"",
-        "Title": "Passerine Herald",
-        "Constellation": "Grus Serena",
+        "Name": "Сянь Юнь",
+        "Desc": "Просветлённый Адепт, которого называют титулом Хранитель Облаков. Никто не сравнится с ней в искусстве механики. Заинтересовавшись мирской жизнью и кулинарией, она поселилась среди людей под именем Сянь Юнь.",
+        "Title": "Вестница небес",
+        "Constellation": "Вольный Журавль",
         "Nation": "Liyue",
-        "Belong": "Mt. Aocang",
+        "Belong": "Гора Аоцан",
         "Grade": 5,
         "Type": "Lady",
         "Weapon": "Catalyst",
@@ -161,12 +161,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Gaming",
         "_id": 92,
-        "Name": "Gaming",
-        "Desc": "Guard of the Sword and Strongbox Secure Transport Agency, and the head of the \"Mighty Mythical Beasts\" Wushou troupe.",
-        "Title": "Leonine Vanguard",
-        "Constellation": "Leo Expergiscens",
+        "Name": "Ка Мин",
+        "Desc": "Наёмник охранного предприятия «Меч и ножны» и руководитель танцевального коллектива «Великие мифические звери».",
+        "Title": "Львиный авангард",
+        "Constellation": "Пробудившийся Лев",
         "Nation": "Liyue",
-        "Belong": "Sword and Strongbox Secure Transport Agency",
+        "Belong": "Охранное предприятие «Меч и ножны»",
         "Grade": 4,
         "Type": "Boy",
         "Weapon": "Claymore",
@@ -213,12 +213,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Navia",
         "_id": 91,
-        "Name": "Navia",
-        "Desc": "The current President of Spina di Rosula, who is lovely, dutiful, and a great boss.",
-        "Title": "Helm of the Radiant Rose",
-        "Constellation": "Rosa Multiflora",
+        "Name": "Навия",
+        "Desc": "Действующая глава Спина-ди-Росула, лучший и самый ответственный босс.",
+        "Title": "Штурвал цветущей розы",
+        "Constellation": "Дикая Роза",
         "Nation": "Fontaine",
-        "Belong": "Spina di Rosula",
+        "Belong": "Спина-ди-Росула",
         "Grade": 5,
         "Type": "Lady",
         "Weapon": "Claymore",
@@ -265,12 +265,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Chevreuse",
         "_id": 90,
-        "Name": "Chevreuse",
-        "Desc": "The captain of the Special Security and Surveillance Patrol, who wears justice as an ever-present seal upon her heart. Her musket shall only ever point at the guilty.",
-        "Title": "Executor of Justice",
-        "Constellation": "Sclopetum Ensiferum",
+        "Name": "Шеврёз",
+        "Desc": "Командир Особого патруля с неизменной жаждой справедливости, направляет свой мушкет только на преступников.",
+        "Title": "Вершитель правосудия",
+        "Constellation": "Мушкет",
         "Nation": "Fontaine",
-        "Belong": "Special Security and Surveillance Patrol",
+        "Belong": "Особый патруль",
         "Grade": 4,
         "Type": "Girl",
         "Weapon": "Pole",
@@ -317,12 +317,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Furina",
         "_id": 89,
-        "Name": "Furina",
-        "Desc": "The absolute focus of the stage of judgment, until the final applause sounds.",
-        "Title": "Endless Solo of Solitude",
-        "Constellation": "Animula Choragi",
+        "Name": "Фурина",
+        "Desc": "В центре внимания на сцене театра правосудия вплоть до финального занавеса и оваций.",
+        "Title": "Бесконечный танец одиночества",
+        "Constellation": null,
         "Nation": "Fontaine",
-        "Belong": "Court of Fontaine",
+        "Belong": "Кур-де-Фонтейн",
         "Grade": 5,
         "Type": "Girl",
         "Weapon": "Sword",
@@ -369,12 +369,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Charlotte",
         "_id": 88,
-        "Name": "Charlotte",
-        "Desc": "Indefatigable reporter of The Steambird, constantly on the hunt for the \"truth.\"",
-        "Title": "Lens of Verity",
-        "Constellation": "Hualina Veritas",
+        "Name": "Шарлотта",
+        "Desc": "Исполненная энергии журналистка «Паровой птицы», проводящая всё своё время в поисках правды.",
+        "Title": "Объективная реальность",
+        "Constellation": "Отражение Истины",
         "Nation": "Fontaine",
-        "Belong": "The Steambird",
+        "Belong": "«Паровая птица»",
         "Grade": 4,
         "Type": "Girl",
         "Weapon": "Catalyst",
@@ -421,12 +421,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Neuvillette",
         "_id": 87,
-        "Name": "Neuvillette",
-        "Desc": "The Chief Justice of Fontaine, known as the Iudex, is renowned for his unassailable impartiality.",
-        "Title": "Ordainer of Inexorable Judgment",
-        "Constellation": "??? / Leviathan Judicator",
+        "Name": "Нёвиллет",
+        "Desc": "Верховный судья Фонтейна, или же юдекс, прославился своей безукоризненной беспристрастностью.",
+        "Title": "Распорядитель неумолимого суда",
+        "Constellation": null,
         "Nation": "Fontaine",
-        "Belong": "Court of Fontaine",
+        "Belong": "Кур-де-Фонтейн",
         "Grade": 5,
         "Type": "Male",
         "Weapon": "Catalyst",
@@ -473,12 +473,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Wriothesley",
         "_id": 86,
-        "Name": "Wriothesley",
-        "Desc": "Duke of the Fortress of Meropide, Lord Incognito of the murky depths.",
-        "Title": "Emissary of Solitary Iniquity",
-        "Constellation": "Cerberus",
+        "Name": "Ризли",
+        "Desc": "Герцог крепости Меропид, повелитель тёмных глубин.",
+        "Title": "Эмиссар заточённых злодеяний",
+        "Constellation": "Сторожевой Пёс",
         "Nation": "Fontaine",
-        "Belong": "Fortress of Meropide",
+        "Belong": "Крепость Меропид",
         "Grade": 5,
         "Type": "Male",
         "Weapon": "Catalyst",
@@ -525,12 +525,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Freminet",
         "_id": 85,
-        "Name": "Freminet",
-        "Desc": "A reserved young man who is well-versed in diving. Beneath his distant, icy demeanor lies a pure heart bereft of all flaws.",
-        "Title": "Yearning for Unseen Depths",
-        "Constellation": "Automaton",
+        "Name": "Фремине",
+        "Desc": "Сдержанный молодой человек, мастер подводного плавания. За его отстранённой, ледяной наружностью скрывается чистая душа без единого порока.",
+        "Title": "Тоска по невиданным глубинам",
+        "Constellation": "Автоматон",
         "Nation": "Fontaine",
-        "Belong": "Hotel Bouffes d'ete",
+        "Belong": "Особняк «Буфф д'эте»",
         "Grade": 4,
         "Type": "Boy",
         "Weapon": "Claymore",
@@ -577,12 +577,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Liney",
         "_id": 84,
-        "Name": "Lyney",
-        "Desc": "A famed Fontainian magician who possesses great stage presence as well as gift of the gab. Audiences are enthralled by his exquisite skills, and they hang on to his every clever word.",
-        "Title": "Spectacle of Phantasmagoria",
-        "Constellation": "Felis Fuscus",
+        "Name": "Лини",
+        "Desc": "Известный маг-иллюзионист из Фонтейна, отличающийся красноречием и актёрским мастерством. Завораживает публику ловкостью рук и своими речами.",
+        "Title": "Зрелищные фантасмагории",
+        "Constellation": "Пятнистый Кот",
         "Nation": "Fontaine",
-        "Belong": "Hotel Bouffes d'ete",
+        "Belong": "Особняк «Буфф д'эте»",
         "Grade": 5,
         "Type": "Boy",
         "Weapon": "Bow",
@@ -629,12 +629,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Linette",
         "_id": 83,
-        "Name": "Lynette",
-        "Desc": "A magic assistant of few words, her emotions are as inscrutable as any cat's.",
-        "Title": "Elegance in the Shadows",
-        "Constellation": "Felis Alba",
+        "Name": "Линетт",
+        "Desc": "Немногословная ассистентка иллюзиониста, редко выражающая эмоции. Она похожа на кошку тем, как сложно разобраться в её характере.",
+        "Title": "Изящество среди теней",
+        "Constellation": "Белохвостая Кошка",
         "Nation": "Fontaine",
-        "Belong": "Hotel Bouffes d'ete",
+        "Belong": "Особняк «Буфф д'эте»",
         "Grade": 4,
         "Type": "Girl",
         "Weapon": "Sword",
@@ -765,12 +765,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Momoka",
         "_id": 61,
-        "Name": "Kirara",
-        "Desc": "A courier for Komaniya Express, a delivery company in Inazuma. A nekomata who loves her job and human society.",
-        "Title": "Cat Upon the Eaves",
-        "Constellation": "Arcella",
+        "Name": "Кирара",
+        "Desc": "Курьер инадзумской компании доставки «Комания экспресс». Эта нэкомата обожает свою работу и общество людей.",
+        "Title": "Кошка на гребне крыши",
+        "Constellation": "Ларец",
         "Nation": "Inazuma",
-        "Belong": "Komaniya Express",
+        "Belong": "«Комания экспресс»",
         "Grade": 4,
         "Type": "Girl",
         "Weapon": "Sword",
@@ -817,12 +817,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Baizhuer",
         "_id": 82,
-        "Name": "Baizhu",
-        "Desc": "The owner of Bubu Pharmacy, who is rarely seen without the white snake named Changsheng. His medicinal knowledge is encyclopedic, and his personal intrigues subtle.",
-        "Title": "Beyond Mortality",
-        "Constellation": "Lagenaria",
+        "Name": "Бай Чжу",
+        "Desc": "Владелец хижины «Бубу» в Ли Юэ. На его плечах всегда возлежит белая змея по имени Чан Шэн. Искусный лекарь со своими скрытыми намерениями.",
+        "Title": "Преодоление бренности",
+        "Constellation": "Сосуд Лекаря",
         "Nation": "Liyue",
-        "Belong": "Bubu Pharmacy",
+        "Belong": "Хижина «Бубу»",
         "Grade": 5,
         "Type": "Male",
         "Weapon": "Catalyst",
@@ -860,8 +860,8 @@ var __AvatarInfoConfig = [
         "Version": "3.6",
         "Fetter": 82,
         "_CV": {
-            "_CH": "秦且歌 & 王晓彤",
-            "_EN": "遊佐浩二 & 庄子裕衣",
+            "_CH": "秦且歌&王晓彤",
+            "_EN": "遊佐浩二&庄子裕衣",
             "_JP": "Sean Durrie & Xanthe Huynh",
             "_KR": "Yi Ho-san & Jang Mi"
         }
@@ -869,12 +869,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Kaveh",
         "_id": 81,
-        "Name": "Kaveh",
-        "Desc": "A renowned architect from Sumeru who perhaps cares a bit too much about too many things. He is an aesthete troubled by reality.",
-        "Title": "Empyrean Reflection",
-        "Constellation": "Paradisaea",
+        "Name": "Кавех",
+        "Desc": "Знаменитый архитектор из Сумеру, поглощённый заботами. Эстет, обеспокоенный реальностью.",
+        "Title": "Отражение эмпирея",
+        "Constellation": "Райская Птица",
         "Nation": "Sumeru",
-        "Belong": "Independent Design Studio",
+        "Belong": "Независимое архитектурное бюро",
         "Grade": 4,
         "Type": "Male",
         "Weapon": "Claymore",
@@ -921,12 +921,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Mika",
         "_id": 80,
-        "Name": "Mika",
-        "Desc": "A young knight born to an ordinary family. He serves as a Front-Line Surveyor in his Company. He is a low-key and cautious character.",
-        "Title": "Coordinates of Clear Frost",
-        "Constellation": "Palumbus",
+        "Name": "Мика",
+        "Desc": "Молодой рыцарь из обычной семьи. Он служит передовым геодезистом отряда. Застенчив и осторожен.",
+        "Title": "Картограф чистого инея",
+        "Constellation": "Лесной Голубь",
         "Nation": "Mondstadt",
-        "Belong": "Knights of Favonius",
+        "Belong": "Ордо Фавониус",
         "Grade": 4,
         "Type": "Boy",
         "Weapon": "Pole",
@@ -973,12 +973,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Dehya",
         "_id": 79,
-        "Name": "Dehya",
-        "Desc": "A member of the Eremites, a mercenary organization that roams the sands of Sumeru. Valiant and powerful, she enjoys great fame amongst her fellow Eremites.",
-        "Title": "Flame-Mane",
-        "Constellation": "Mantichora",
+        "Name": "Дэхья",
+        "Desc": "Член Пустынников, группы наёмников из Сумеру. Сильная и смелая, она пользуется безупречной репутацией среди Пустынников.",
+        "Title": "Пламенная Грива",
+        "Constellation": "Мантикора",
         "Nation": "Sumeru",
-        "Belong": "The Eremites",
+        "Belong": "Пустынники",
         "Grade": 5,
         "Type": "Lady",
         "Weapon": "Claymore",
@@ -1025,12 +1025,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Alhatham",
         "_id": 78,
-        "Name": "Alhaitham",
-        "Desc": "The current scribe of the Sumeru Akademiya, a man endowed with extraordinary intelligence and talent. He lives free — free from the searching eyes of ordinary people, anyway.",
-        "Title": "Admonishing Instruction",
-        "Constellation": "Vultur Volans",
+        "Name": "Аль-Хайтам",
+        "Desc": "Нынешний секретарь Академии Сумеру, наделённый выдающимся умом и способностями. Свободолюбивый человек, которого не найти, если он сам того не пожелает.",
+        "Title": "Голос разума",
+        "Constellation": "Сокол",
         "Nation": "Sumeru",
-        "Belong": "Sumeru Akademiya",
+        "Belong": "Академия Сумеру",
         "Grade": 5,
         "Type": "Male",
         "Weapon": "Sword",
@@ -1077,12 +1077,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Yaoyao",
         "_id": 77,
-        "Name": "Yaoyao",
-        "Desc": "Streetward Rambler's youngest disciple. A gentle and caring \"little adult.\"",
-        "Title": "Burgeoning Grace",
-        "Constellation": "Osmanthus",
+        "Name": "Яо Яо",
+        "Desc": "Младшая ученица Владыки Песен и Скитаний, добрый и заботливый «маленький взрослый».",
+        "Title": "Бутон изящества",
+        "Constellation": "Османтус",
         "Nation": "Liyue",
-        "Belong": "Streetward Rambler's Abode",
+        "Belong": "Обитель Владыки Песен и Скитаний",
         "Grade": 4,
         "Type": "Loli",
         "Weapon": "Pole",
@@ -1129,12 +1129,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Faruzan",
         "_id": 76,
-        "Name": "Faruzan",
-        "Desc": "A researcher from \"one hundred years ago.\" She enjoys self-identifying as everyone's senior, and has significant knowledge of ancient scripts and machines of all kinds.",
-        "Title": "Enigmatic Machinist",
-        "Constellation": "Flosculi Implexi",
+        "Name": "Фарузан",
+        "Desc": "Исследовательница из «прошлого века». Ей нравится считать себя старше всех. Она обладает обширными познаниями о старинных письменах и древних механизмах.",
+        "Title": "Загадочный механик",
+        "Constellation": "Переплетённые Цветы",
         "Nation": "Sumeru",
-        "Belong": "Haravatat",
+        "Belong": "Хараватат",
         "Grade": 4,
         "Type": "Girl",
         "Weapon": "Bow",
@@ -1181,12 +1181,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Wanderer",
         "_id": 75,
-        "Name": "Wanderer",
-        "Desc": "A wayfaring figure whose identity is a mystery. He dresses like a mountain ascetic, but he certainly does not act the part.",
-        "Title": "Eons Adrift",
-        "Constellation": "Peregrinus",
+        "Name": "Странник",
+        "Desc": "Скиталец, личность которого остаётся загадкой. Носит одежды горного отшельника, но высказываниями и действиями на ищущих просветления совсем не похож.",
+        "Title": "Затерявшийся в вечности",
+        "Constellation": "Пилигрим",
         "Nation": "Sumeru",
-        "Belong": "None",
+        "Belong": "-",
         "Grade": 5,
         "Type": "Boy",
         "Weapon": "Catalyst",
@@ -1233,12 +1233,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Layla",
         "_id": 74,
-        "Name": "Layla",
-        "Desc": "A Rtawahist student who specializes in Theoretical Astrology. Heavily prone to somnambulism and locked in a grinding war with sleep deprivation, the problem of restful slumber is a most troubling one to her.",
-        "Title": "Fantastical Evening Star",
-        "Constellation": "Luscinia",
+        "Name": "Лайла",
+        "Desc": "Студентка, которая изучает теоретическую астрологию в даршане Ртавахист. Нередко ходит во сне и страдает от хронического недосыпания.",
+        "Title": "Дивная вечерняя звезда",
+        "Constellation": "Соловей",
         "Nation": "Sumeru",
-        "Belong": "Rtawahist",
+        "Belong": "Ртавахист",
         "Grade": 4,
         "Type": "Girl",
         "Weapon": "Sword",
@@ -1285,12 +1285,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Nahida",
         "_id": 73,
-        "Name": "Nahida",
-        "Desc": "A caged bird secluded within the confines of the Sanctuary of Surasthana who can only see the world in her dreams.",
-        "Title": "Physic of Purity",
-        "Constellation": "Sapientia Oromasdis",
+        "Name": "Нахида",
+        "Desc": "Узница глубин Храма Сурастаны, которая созерцает мир только в сновидениях.",
+        "Title": "Средоточие чистоты",
+        "Constellation": null,
         "Nation": "Sumeru",
-        "Belong": "Sumeru City",
+        "Belong": "Сумеру",
         "Grade": 5,
         "Type": "Loli",
         "Weapon": "Catalyst",
@@ -1337,12 +1337,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Candace",
         "_id": 72,
-        "Name": "Candace",
-        "Desc": "A descendant of King Deshret with an amber left eye. The defender of Aaru Village.",
-        "Title": "Golden Vow",
-        "Constellation": "Sagitta Scutum",
+        "Name": "Кандакия",
+        "Desc": "Наследница царя Дешрета с левым глазом цвета янтаря, защитница деревни Аару.",
+        "Title": "Позолоченная клятва",
+        "Constellation": "Щит Заступницы",
         "Nation": "Sumeru",
-        "Belong": "Aaru Village",
+        "Belong": "Деревня Аару",
         "Grade": 4,
         "Type": "Lady",
         "Weapon": "Pole",
@@ -1389,12 +1389,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Cyno",
         "_id": 71,
-        "Name": "Cyno",
-        "Desc": "The General Mahamatra in charge of supervising the researchers of the Akademiya. It is said that when he gets down to work, the General Mahamatra is even more efficient than the \"Great Vayuvyastra\" made by the Kshahrewar.",
-        "Title": "Judicator of Secrets",
-        "Constellation": "Lupus Aureus",
+        "Name": "Сайно",
+        "Desc": "Генерал махаматра, который осуществляет надзор над всеми учёными Академии. Говорят, в работе он по эффективности превосходит «Великую Ваювьястру» Кшахревара.",
+        "Title": "Вершитель таинств",
+        "Constellation": "Золотой Шакал",
         "Nation": "Sumeru",
-        "Belong": "Temple of Silence",
+        "Belong": "Храм Молчания",
         "Grade": 5,
         "Type": "Boy",
         "Weapon": "Pole",
@@ -1441,12 +1441,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Nilou",
         "_id": 70,
-        "Name": "Nilou",
-        "Desc": "The star of the Zubayr Theater. She is full of warmth and innocence, and her dances are lively and elegant.",
-        "Title": "Dance of Lotuslight",
-        "Constellation": "Lotos Somno",
+        "Name": "Нилу",
+        "Desc": "Знаменитая танцовщица Театра Зубаира. Изящная красавица с чистой и открытой душой.",
+        "Title": "Танец лотоса",
+        "Constellation": "Водяная Лилия",
         "Nation": "Sumeru",
-        "Belong": "Zubayr Theater",
+        "Belong": "Театр Зубаира",
         "Grade": 5,
         "Type": "Girl",
         "Weapon": "Sword",
@@ -1493,12 +1493,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Tighnari",
         "_id": 69,
-        "Name": "Tighnari",
-        "Desc": "A young researcher well-versed in botany who currently serves as a Forest Watcher in Avidya Forest. He is a straight shooter with a warm heart — and a dab hand at guiding even the dullest of pupils.",
-        "Title": "Verdant Strider",
-        "Constellation": "Vulpes Zerda",
+        "Name": "Тигнари",
+        "Desc": "Молодой учёный, досконально освоивший ботанику. В настоящее время служит лесным стражем в лесу Авидья. Искренний и добросердечный, он умеет обучать даже самых непонятливых учеников.",
+        "Title": "Зелёный странник",
+        "Constellation": "Фенек",
         "Nation": "Sumeru",
-        "Belong": "Gandharva Ville",
+        "Belong": "Гандхарва",
         "Grade": 5,
         "Type": "Boy",
         "Weapon": "Bow",
@@ -1545,12 +1545,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Dori",
         "_id": 68,
-        "Name": "Dori",
-        "Desc": "An elusive merchant who has a fondness for glittering Mora.",
-        "Title": "Treasure of Dream Garden",
-        "Constellation": "Magicae Lucerna",
+        "Name": "Дори",
+        "Desc": "Неуловимая негоциантка из Сумеру, которая больше всего любит блеск монет.",
+        "Title": "Сокровище сада снов",
+        "Constellation": "Волшебная Лампа",
         "Nation": "Sumeru",
-        "Belong": "The Palace of Alcazarzaray",
+        "Belong": "Дворец Алькасар-сарай",
         "Grade": 4,
         "Type": "Loli",
         "Weapon": "Claymore",
@@ -1597,12 +1597,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Collei",
         "_id": 67,
-        "Name": "Collei",
-        "Desc": "A trainee ranger active in Avidya Forest. Behind her enthusiastic words and actions hides a slightly introverted personality.",
-        "Title": "Sprout of Rebirth",
-        "Constellation": "Leptailurus Cervarius",
+        "Name": "Коллеи",
+        "Desc": "Стажёр Лесного дозора в лесу Авидья. За её энергичной речью и действиями скрывается довольно закрытая личность.",
+        "Title": "Росток возрождения",
+        "Constellation": "Сервал",
         "Nation": "Sumeru",
-        "Belong": "Gandharva Ville",
+        "Belong": "Гандхарва",
         "Grade": 4,
         "Type": "Girl",
         "Weapon": "Bow",
@@ -1733,12 +1733,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Heizo",
         "_id": 59,
-        "Name": "Shikanoin Heizou",
-        "Desc": "A young prodigy detective from the Tenryou Commission. His senses are sharp and his thoughts are clear.",
-        "Title": "Analytical Harmony",
-        "Constellation": "Cervus Minor",
+        "Name": "Хэйдзо",
+        "Desc": "Талантливый молодой детектив из комиссии Тэнрё. Отличается ясным умом и острым восприятием.",
+        "Title": "Невозмутимое спокойствие",
+        "Constellation": "Малый Олень",
         "Nation": "Inazuma",
-        "Belong": "Tenryou Commission",
+        "Belong": "Комиссия Тэнрё",
         "Grade": 4,
         "Type": "Boy",
         "Weapon": "Catalyst",
@@ -1785,12 +1785,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Shinobu",
         "_id": 65,
-        "Name": "Kuki Shinobu",
-        "Desc": "The capable and reliable Arataki Gang deputy leader. Please note: capable and reliable are not appellations for the \"Arataki Gang,\" but for their deputy leader in specific.",
-        "Title": "Mender of Tribulations",
-        "Constellation": "Tribulatio Demptio",
+        "Name": "Синобу",
+        "Desc": "Способная и надёжная помощница главаря банды Аратаки. Пожалуйста, обратите внимание, что «способная и надёжная» относится не к самой банде, а именно к помощнице главаря.",
+        "Title": "Избавительница",
+        "Constellation": "Приговор Проблемам",
         "Nation": "Inazuma",
-        "Belong": "Arataki Gang",
+        "Belong": "Банда Аратаки",
         "Grade": 4,
         "Type": "Girl",
         "Weapon": "Sword",
@@ -1837,12 +1837,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Yelan",
         "_id": 60,
-        "Name": "Yelan",
-        "Desc": "A mysterious person who claims to work for the Ministry of Civil Affairs, but is a \"non-entity\" on the Ministry of Civil Affairs' list.",
-        "Title": "Valley Orchid",
-        "Constellation": "Umbrabilis Orchis",
+        "Name": "Е Лань",
+        "Desc": "Таинственная девушка, утверждающая, что работает в Департаменте по делам граждан, но в списках Департамента её нет.",
+        "Title": "Орхидея долины",
+        "Constellation": "Призрачная Орхидея",
         "Nation": "Liyue",
-        "Belong": "Yanshang Teahouse",
+        "Belong": "Чайный дом «Яньшан»",
         "Grade": 5,
         "Type": "Lady",
         "Weapon": "Bow",
@@ -1889,12 +1889,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Ayato",
         "_id": 66,
-        "Name": "Kamisato Ayato",
-        "Desc": "The young but highly accomplished head of the Yashiro Commission's Kamisato Clan. Cultured and polite, he is a man of many ways and means.",
-        "Title": "Pillar of Fortitude",
-        "Constellation": "Cypressus Custos",
+        "Name": "Аято",
+        "Desc": "Молодой и всесторонне одарённый глава комиссии Ясиро из клана Камисато. Он вежливый и предупредительный человек, у которого для любой проблемы найдётся множество решений.",
+        "Title": "Оплот стойкости",
+        "Constellation": "Оберегающий Кипарис",
         "Nation": "Inazuma",
-        "Belong": "Yashiro Commission",
+        "Belong": "Комиссия Ясиро",
         "Grade": 5,
         "Type": "Male",
         "Weapon": "Sword",
@@ -1941,12 +1941,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Yae",
         "_id": 58,
-        "Name": "Yae Miko",
-        "Desc": "Lady Guuji of the Grand Narukami Shrine. Also serves as the editor-in-chief of Yae Publishing House. Unimaginable intelligence and cunning are hidden under her beautiful appearance.",
-        "Title": "Astute Amusement",
-        "Constellation": "Divina Vulpes",
+        "Name": "Яэ Мико",
+        "Desc": "Гудзи Великого храма Наруками, а также главный редактор издательского дома Яэ. За прекрасной внешностью скрывается неожиданный ум и хитрость.",
+        "Title": "Озорное лукавство",
+        "Constellation": "Божественная Кицунэ",
         "Nation": "Inazuma",
-        "Belong": "Grand Narukami Shrine",
+        "Belong": "Великий храм Наруками",
         "Grade": 5,
         "Type": "Lady",
         "Weapon": "Catalyst",
@@ -1993,12 +1993,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Yunjin",
         "_id": 64,
-        "Name": "Yun Jin",
-        "Desc": "A renowned Liyue opera singer who is skilled in both playwriting and singing. Her style is one-of-a-kind, exquisite and delicate, much like the person herself.",
-        "Title": "Stage Lucida",
-        "Constellation": "Opera Grandis",
+        "Name": "Юнь Цзинь",
+        "Desc": "Прославленная оперная певица Ли Юэ, которая искусна как в написании пьес, так и в пении. Её неповторимый стиль, изысканный и нежный, - это отражение глубин её души.",
+        "Title": "Изящество на сцене",
+        "Constellation": "Большая Опера",
         "Nation": "Liyue",
-        "Belong": "Yun-Han Opera Troupe",
+        "Belong": "Оперная труппа Юнь Хань",
         "Grade": 4,
         "Type": "Girl",
         "Weapon": "Pole",
@@ -2036,7 +2036,7 @@ var __AvatarInfoConfig = [
         "Version": "2.4",
         "Fetter": 64,
         "_CV": {
-            "_CH": "贺文潇&杨扬",
+            "_CH": "贺文潇 & 杨扬",
             "_EN": "小岩井ことり & Yang Yang",
             "_JP": "Judy Alice Lee & Yang Yang",
             "_KR": "Sah Moon-young & Yang Yang"
@@ -2045,12 +2045,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Shenhe",
         "_id": 63,
-        "Name": "Shenhe",
-        "Desc": "An adepti disciple with a most unusual air about her. Having spent much time cultivating in isolation in Liyue's mountains, she has become every bit as cool and distant as the adepti themselves.",
-        "Title": "Lonesome Transcendence",
-        "Constellation": "Crista Doloris",
+        "Name": "Шэнь Хэ",
+        "Desc": "Ученица Адептов, утратившая связь с внешним миром. Годы затворнической жизни в горах Ли Юэ сделали её такой же отстранённой и холодной, как сами Адепты.",
+        "Title": "Одиночество превосходства",
+        "Constellation": "Гребень Скорби",
         "Nation": "Liyue",
-        "Belong": "Cloud Retainer's Abode",
+        "Belong": "Обитель Хранителя Облаков",
         "Grade": 5,
         "Type": "Lady",
         "Weapon": "Pole",
@@ -2097,12 +2097,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Itto",
         "_id": 57,
-        "Name": "Arataki Itto",
-        "Desc": "The first and greatest head of the Arataki Gang, famed throughout Inazuma City's Hanamizaka... Wait, what? You've never heard of them? Are you trying to be funny here?",
-        "Title": "Hanamizaka Heroics",
-        "Constellation": "Taurus Iracundus",
+        "Name": "Итто",
+        "Desc": "Первый и величайший предводитель банды Аратаки, прославленной по всей Ханамидзаке города Инадзумы. Что, вы никогда о ней не слышали? Нарываетесь?",
+        "Title": "Герой Ханамидзаки",
+        "Constellation": "Небесный Бык",
         "Nation": "Inazuma",
-        "Belong": "Arataki Gang",
+        "Belong": "Банда Аратаки",
         "Grade": 5,
         "Type": "Male",
         "Weapon": "Claymore",
@@ -2149,12 +2149,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Gorou",
         "_id": 55,
-        "Name": "Gorou",
-        "Desc": "The great general of Watatsumi Island's forces. He is deeply trusted by his subordinates.",
-        "Title": "Canine Warrior",
-        "Constellation": "Canis Bellatoris",
+        "Name": "Горо",
+        "Desc": "Великий генерал армии Ватацуми. Пользуется безграничным доверием своих подчинённых.",
+        "Title": "Пёс войны",
+        "Constellation": "Сиба-ину",
         "Nation": "Inazuma",
-        "Belong": "Watatsumi Island",
+        "Belong": "Ватацуми",
         "Grade": 4,
         "Type": "Boy",
         "Weapon": "Bow",
@@ -2201,12 +2201,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Tohma",
         "_id": 50,
-        "Name": "Thoma",
-        "Desc": "The Kamisato Clan's housekeeper. A well-known \"fixer\" in Inazuma.",
-        "Title": "Protector From Afar",
-        "Constellation": "Rubeum Scutum",
+        "Name": "Тома",
+        "Desc": "Управляющий клана Камисато. Известный в Инадзуме «местный авторитет».",
+        "Title": "Защитник издалека",
+        "Constellation": "Красный Щит",
         "Nation": "Inazuma",
-        "Belong": "Yashiro Commission",
+        "Belong": "Комиссия Ясиро",
         "Grade": 4,
         "Type": "Male",
         "Weapon": "Pole",
@@ -2253,12 +2253,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Aloy",
         "_id": 62,
-        "Name": "Aloy",
-        "Desc": "Formerly an outcast, now a hunter of unparalleled skill. Ready to do the right thing at any time.",
-        "Title": "Savior From Another World",
-        "Constellation": "Nora Fortis",
+        "Name": "Элой",
+        "Desc": "В прошлом изгой, а теперь охотница с непревзойденным чутьём. Её лук всегда наготове ради правого дела.",
+        "Title": "Спасительница из другого мира",
+        "Constellation": "Нора Фортис",
         "Nation": "OtherRealm",
-        "Belong": "Wandering Heroine",
+        "Belong": "Мятежник",
         "Grade": 5,
         "Type": "Girl",
         "Weapon": "Bow",
@@ -2298,19 +2298,19 @@ var __AvatarInfoConfig = [
         "_CV": {
             "_CH": "沐霏",
             "_EN": "高垣彩陽",
-            "_JP": "—",
+            "_JP": "——",
             "_KR": "Jo Hyeon-jung"
         }
     },
     {
         "_name": "Sara",
         "_id": 56,
-        "Name": "Kujou Sara",
-        "Desc": "A general of the Tenryou Commission. Bold, decisive, and skilled in battle.",
-        "Title": "Crowfeather Kaburaya",
-        "Constellation": "Flabellum",
+        "Name": "Сара",
+        "Desc": "Действующий генерал комиссии Тэнрё. Сурова, решительна и отважна в бою.",
+        "Title": "Кабурая вороньего пера",
+        "Constellation": "Веер",
         "Nation": "Inazuma",
-        "Belong": "Tenryou Commission",
+        "Belong": "Комиссия Тэнрё",
         "Grade": 4,
         "Type": "Lady",
         "Weapon": "Bow",
@@ -2357,12 +2357,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Kokomi",
         "_id": 54,
-        "Name": "Sangonomiya Kokomi",
-        "Desc": "The Divine Priestess of Watatsumi Island. All of the island's affairs are at this young lady's fingertips.",
-        "Title": "Pearl of Wisdom",
-        "Constellation": "Dracaena Somnolenta",
+        "Name": "Кокоми",
+        "Desc": "Божественная Жрица острова Ватацуми. Все дела острова находятся в руках этой молодой леди.",
+        "Title": "Жемчужина мудрости",
+        "Constellation": "Спящий Дракон",
         "Nation": "Inazuma",
-        "Belong": "Watatsumi Island",
+        "Belong": "Ватацуми",
         "Grade": 5,
         "Type": "Girl",
         "Weapon": "Catalyst",
@@ -2409,12 +2409,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Shougun",
         "_id": 52,
-        "Name": "Raiden Shogun",
-        "Desc": "Her Excellency, the Almighty Narukami Ogosho, who promised the people of Inazuma an unchanging Eternity.",
-        "Title": "Plane of Euthymia",
-        "Constellation": "Imperatrix Umbrosa",
+        "Name": "Райдэн",
+        "Desc": "Её превосходительство Наруками Огосё, пообещавшая неизменную вечность для жителей Инадзумы.",
+        "Title": "Царство эвтюмии",
+        "Constellation": null,
         "Nation": "Inazuma",
-        "Belong": "Inazuma City",
+        "Belong": "Инадзума",
         "Grade": 5,
         "Type": "Lady",
         "Weapon": "Pole",
@@ -2461,12 +2461,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Sayu",
         "_id": 53,
-        "Name": "Sayu",
-        "Desc": "A pint-sized ninja attached to the Shuumatsuban, who always seems sleep-deprived.",
-        "Title": "Mujina Ninja",
-        "Constellation": "Nyctereutes Minor",
+        "Name": "Саю",
+        "Desc": "Вечно сонный миниатюрный ниндзя из тайной организации Сюмацубан.",
+        "Title": "Мудзина-ниндзя",
+        "Constellation": "Малый Мудзина",
         "Nation": "Inazuma",
-        "Belong": "Shuumatsuban",
+        "Belong": "Сюмацубан",
         "Grade": 4,
         "Type": "Loli",
         "Weapon": "Claymore",
@@ -2513,12 +2513,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Yoimiya",
         "_id": 49,
-        "Name": "Yoimiya",
-        "Desc": "Owner of Naganohara Fireworks. Known as the \"Queen of the Summer Festival,\" she excels in her craft of creating fireworks that symbolize people's hopes and dreams.",
-        "Title": "Frolicking Flames",
-        "Constellation": "Carassius Auratus",
+        "Name": "Ёимия",
+        "Desc": "Владелица «Фейерверков Наганохары», также известна как «Королева праздника лета». Будучи мастером своего дела, она воплощает надежды и мечты людей в своих фейерверках.",
+        "Title": "Пляшущие огоньки",
+        "Constellation": "Золотая Рыбка",
         "Nation": "Inazuma",
-        "Belong": "Naganohara Fireworks",
+        "Belong": "Фейерверки Наганохары",
         "Grade": 5,
         "Type": "Girl",
         "Weapon": "Bow",
@@ -2565,12 +2565,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Ayaka",
         "_id": 2,
-        "Name": "Kamisato Ayaka",
-        "Desc": "Daughter of the Yashiro Commission's Kamisato Clan. Dignified and elegant, as well as wise and strong.",
-        "Title": "Frostflake Heron",
-        "Constellation": "Grus Nivis",
+        "Name": "Аяка",
+        "Desc": "Наследница клана Камисато комиссии Ясиро. Благородна и изящна, мудра и сильна.",
+        "Title": "Инеевая цапля",
+        "Constellation": "Снежный Журавль",
         "Nation": "Inazuma",
-        "Belong": "Yashiro Commission",
+        "Belong": "Комиссия Ясиро",
         "Grade": 5,
         "Type": "Girl",
         "Weapon": "Sword",
@@ -2701,12 +2701,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Kazuha",
         "_id": 47,
-        "Name": "Kaedehara Kazuha",
-        "Desc": "A wandering samurai from Inazuma who is currently with Liyue's Crux Fleet. A gentle and carefree soul whose heart hides a great many burdens from the past.",
-        "Title": "Scarlet Leaves Pursue Wild Waves",
-        "Constellation": "Acer Palmatum",
+        "Name": "Кадзуха",
+        "Desc": "Ронин-самурай из Инадзумы, который нашёл приют на флоте Южного Креста в Ли Юэ. Этот добрый и беззаботный молодой человек многое пережил в прошлом.",
+        "Title": "Багряные листья и неистовые волны",
+        "Constellation": "Рыжий Клён",
         "Nation": "Inazuma",
-        "Belong": "The Crux",
+        "Belong": "Южный Крест",
         "Grade": 5,
         "Type": "Boy",
         "Weapon": "Sword",
@@ -2753,12 +2753,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Eula",
         "_id": 51,
-        "Name": "Eula",
-        "Desc": "The Spindrift Knight, a scion of the old aristocracy, and the Captain of the Knights of Favonius Reconnaissance Company. The reason for which a descendant of the ancient nobles might join the Knights remains a great mystery in Mondstadt to this very day.",
-        "Title": "Dance of the Shimmering Wave",
-        "Constellation": "Aphros Delos",
+        "Name": "Эола",
+        "Desc": "Рыцарь Морская пена из старинного рода аристократов Мондштадта, капитан разведывательного отряда рыцарей Ордо Фавониус. Являясь потомком древней аристократии, она присоединилась к рыцарям Ордо Фавониус, их заклятым врагам. Причины этого поступка и по сей день остаются загадкой для всего Мондштадта.",
+        "Title": "Танец морской пены",
+        "Constellation": "Морская Пена",
         "Nation": "Mondstadt",
-        "Belong": "Knights of Favonius",
+        "Belong": "Ордо Фавониус",
         "Grade": 5,
         "Type": "Lady",
         "Weapon": "Claymore",
@@ -2805,12 +2805,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Feiyan",
         "_id": 48,
-        "Name": "Yanfei",
-        "Desc": "A well-known legal adviser active in Liyue Harbor. A brilliant young lady in whose veins runs the blood of an illuminated beast.",
-        "Title": "Wise Innocence",
-        "Constellation": "Bestia Iustitia",
+        "Name": "Янь Фэй",
+        "Desc": "Известный консультант по юридическим вопросам из Ли Юэ. Проницательная девушка, в чьих венах течёт кровь Божественного зверя.",
+        "Title": "Непорочная мудрость",
+        "Constellation": "Волшебный Зверь",
         "Nation": "Liyue",
-        "Belong": "Yanfei Legal Consultancy",
+        "Belong": "Юридическая консультация Янь Фэй",
         "Grade": 4,
         "Type": "Girl",
         "Weapon": "Catalyst",
@@ -2857,12 +2857,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Rosaria",
         "_id": 45,
-        "Name": "Rosaria",
-        "Desc": "A sister of the church, though you wouldn't know it if it weren't for her attire. Known for her sharp, cold words and manner, she often works alone.",
-        "Title": "Thorny Benevolence",
-        "Constellation": "Spinea Corona",
+        "Name": "Розария",
+        "Desc": "Кроме одеяния, ничто не напоминает о её принадлежности церкви. Известна своими холодными речами и дерзкими поступками. Всегда действует одна.",
+        "Title": "Венец милости",
+        "Constellation": "Терновый Венец",
         "Nation": "Mondstadt",
-        "Belong": "Church of Favonius",
+        "Belong": "Церковь Фавония",
         "Grade": 4,
         "Type": "Lady",
         "Weapon": "Pole",
@@ -2909,12 +2909,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Hutao",
         "_id": 46,
-        "Name": "Hu Tao",
-        "Desc": "The 77th Director of the Wangsheng Funeral Parlor. She took over the business at a rather young age.",
-        "Title": "Fragrance in Thaw",
-        "Constellation": "Papilio Charontis",
+        "Name": "Ху Тао",
+        "Desc": "Хозяйка ритуального бюро «Ваншэн» в семьдесят седьмом поколении. Она унаследовала этот бизнес в достаточно юном возрасте.",
+        "Title": "Весенний аромат",
+        "Constellation": "Бабочка Харона",
         "Nation": "Liyue",
-        "Belong": "Wangsheng Funeral Parlor",
+        "Belong": "Ритуальное бюро «Ваншэн»",
         "Grade": 5,
         "Type": "Girl",
         "Weapon": "Pole",
@@ -2961,12 +2961,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Xiao",
         "_id": 26,
-        "Name": "Xiao",
-        "Desc": "A yaksha adeptus who defends Liyue. Also heralded as the \"Conqueror of Demons\" and \"Vigilant Yaksha.\"",
-        "Title": "Vigilant Yaksha",
-        "Constellation": "Alatus Nemeseos",
+        "Name": "Сяо",
+        "Desc": "Бессмертный дух Якса, охраняющий гавань Ли Юэ. Также зовётся Охотником на демонов или Защитником Якса.",
+        "Title": "Защитник Якса",
+        "Constellation": "Златокрылая Птица",
         "Nation": "Liyue",
-        "Belong": "Liyue Adeptus",
+        "Belong": "Адепты Ли Юэ",
         "Grade": 5,
         "Type": "Boy",
         "Weapon": "Pole",
@@ -3013,12 +3013,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Albedo",
         "_id": 38,
-        "Name": "Albedo",
-        "Desc": "A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.",
-        "Title": "Kreideprinz",
-        "Constellation": "Princeps Cretaceus",
+        "Name": "Альбедо",
+        "Desc": "Гений, именуемый Принцем мела. Главный алхимик и глава исследовательской команды Ордо Фавониус.",
+        "Title": "Принц мела",
+        "Constellation": "Меловой Принцепс",
         "Nation": "Mondstadt",
-        "Belong": "Knights of Favonius",
+        "Belong": "Ордо Фавониус",
         "Grade": 5,
         "Type": "Boy",
         "Weapon": "Sword",
@@ -3065,12 +3065,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Ganyu",
         "_id": 37,
-        "Name": "Ganyu",
-        "Desc": "The secretary at Yuehai Pavilion. The blood of the qilin, an illuminated beast, flows within her veins.",
-        "Title": "Plenilune Gaze",
-        "Constellation": "Sinae Unicornis",
+        "Name": "Гань Юй",
+        "Desc": "Главный секретарь павильона Лунного моря. В её жилах течёт кровь мифического зверя цилиня.",
+        "Title": "Взгляд полнолуния",
+        "Constellation": "Священная Лань",
         "Nation": "Liyue",
-        "Belong": "Yuehai Pavilion",
+        "Belong": "Павильон Лунного моря",
         "Grade": 5,
         "Type": "Girl",
         "Weapon": "Bow",
@@ -3117,12 +3117,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Xinyan",
         "_id": 44,
-        "Name": "Xinyan",
-        "Desc": "Liyue's sole rock 'n' roll musician. She rebels against ossified prejudices using her music and passionate singing.",
-        "Title": "Blazing Riff",
-        "Constellation": "Fila Ignium",
+        "Name": "Синь Янь",
+        "Desc": "Единственный рок-музыкант Ли Юэ. Своей вдохновляющей музыкой и пением она выражает протест предубеждениям.",
+        "Title": "Пламенная мелодия",
+        "Constellation": "Сандаловая Мандолина",
         "Nation": "Liyue",
-        "Belong": "\"The Red Strings\"",
+        "Belong": "«Алая струна»",
         "Grade": 4,
         "Type": "Girl",
         "Weapon": "Claymore",
@@ -3169,12 +3169,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Diona",
         "_id": 39,
-        "Name": "Diona",
-        "Desc": "A young lady who has inherited trace amounts of non-human blood. She is the incredibly popular bartender of the Cat's Tail tavern.",
-        "Title": "Kätzlein Cocktail",
-        "Constellation": "Feles",
+        "Name": "Диона",
+        "Desc": "Молодая девушка, унаследовавшая остаточную долю нечеловеческой крови. Она невероятно популярный бармен таверны «Кошкин хвост».",
+        "Title": "Кошкин коктейль",
+        "Constellation": "Милый Котёнок",
         "Nation": "Mondstadt",
-        "Belong": "The Cat's Tail",
+        "Belong": "Таверна «Кошкин хвост»",
         "Grade": 4,
         "Type": "Loli",
         "Weapon": "Bow",
@@ -3221,12 +3221,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Tartaglia",
         "_id": 33,
-        "Name": "Tartaglia",
-        "Desc": "No. 11 of The Harbingers, also known as \"Childe.\" His name is highly feared on the battlefield.",
-        "Title": "Childe",
-        "Constellation": "Monoceros Caeli",
+        "Name": "Тарталья",
+        "Desc": "Номер одиннадцать из Предвестников Фатуи, искусный воин, также известный под именем Чайльд.",
+        "Title": "Чайльд",
+        "Constellation": "Небесный Кит",
         "Nation": "Fatui",
-        "Belong": "Fatui",
+        "Belong": "Фатуи",
         "Grade": 5,
         "Type": "Male",
         "Weapon": "Bow",
@@ -3273,12 +3273,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Zhongli",
         "_id": 30,
-        "Name": "Zhongli",
-        "Desc": "A mysterious expert contracted by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things.",
-        "Title": "Vago Mundo",
-        "Constellation": "??? / Lapis Dei",
+        "Name": "Чжун Ли",
+        "Desc": "Приглашённый специалист ритуального бюро «Ваншэн». Необычайно загадочен и сведущ во всех делах.",
+        "Title": "Бренный скиталец",
+        "Constellation": null,
         "Nation": "Liyue",
-        "Belong": "Liyue Harbor",
+        "Belong": "Ли Юэ",
         "Grade": 5,
         "Type": "Male",
         "Weapon": "Pole",
@@ -3325,12 +3325,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Sucrose",
         "_id": 43,
-        "Name": "Sucrose",
-        "Desc": "An alchemist filled with curiosity about all things. She researches bio-alchemy.",
-        "Title": "Harmless Sweetie",
-        "Constellation": "Ampulla",
+        "Name": "Сахароза",
+        "Desc": "Алхимик, преисполненная любопытством по отношению ко всему на свете. Она занимается исследованием биоалхимии.",
+        "Title": "Безобидная карамелька",
+        "Constellation": "Горячая Колба",
         "Nation": "Mondstadt",
-        "Belong": "Knights of Favonius",
+        "Belong": "Ордо Фавониус",
         "Grade": 4,
         "Type": "Girl",
         "Weapon": "Catalyst",
@@ -3377,12 +3377,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Mona",
         "_id": 41,
-        "Name": "Mona",
-        "Desc": "A mysterious young astrologer who proclaims herself to be \"Astrologist Mona Megistus,\" and who possesses abilities to match the title. Erudite, but prideful.",
-        "Title": "Astral Reflection",
-        "Constellation": "Astrolabos",
+        "Name": "Мона",
+        "Desc": "Таинственный молодой астролог, которая представляется как «великий астролог Мона Мегистус» и на самом деле достойна этого звания. Эрудирована и горделива.",
+        "Title": "Звёздное отражение",
+        "Constellation": "Багровая Заря",
         "Nation": "Mondstadt",
-        "Belong": "Mondstadt",
+        "Belong": "Мондштадт",
         "Grade": 5,
         "Type": "Girl",
         "Weapon": "Catalyst",
@@ -3429,12 +3429,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Chongyun",
         "_id": 36,
-        "Name": "Chongyun",
-        "Desc": "A young exorcist from a family of exorcists. He does everything he can to suppress his abundance of yang energy.",
-        "Title": "Frozen Ardor",
-        "Constellation": "Nubis Caesor",
+        "Name": "Чун Юнь",
+        "Desc": "Молодой экзорцист из семьи экзорцистов. Изо всех сил старается подавить свою энергию Ян.",
+        "Title": "Морозная пылкость",
+        "Constellation": "Тяжесть Небес",
         "Nation": "Liyue",
-        "Belong": "Tianheng Thaumaturges",
+        "Belong": "Экзорцист с горы Тяньхэн",
         "Grade": 4,
         "Type": "Boy",
         "Weapon": "Claymore",
@@ -3481,12 +3481,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Qiqi",
         "_id": 35,
-        "Name": "Qiqi",
-        "Desc": "An apprentice and herb gatherer at Bubu Pharmacy. An undead with a bone-white complexion, she seldom has much in the way of words or emotion.",
-        "Title": "Icy Resurrection",
-        "Constellation": "Pristina Nola",
+        "Name": "Ци Ци",
+        "Desc": "Ученица и сборщица трав из хижины «Бубу». Зомби с бледным лицом, разговаривает или проявляет эмоции очень редко...",
+        "Title": "Ледяное воскрешение",
+        "Constellation": "Звон Колокольчика",
         "Nation": "Liyue",
-        "Belong": "Bubu Pharmacy",
+        "Belong": "Хижина «Бубу»",
         "Grade": 5,
         "Type": "Loli",
         "Weapon": "Sword",
@@ -3533,12 +3533,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Noel",
         "_id": 34,
-        "Name": "Noelle",
-        "Desc": "A maid who faithfully serves the Knights of Favonius. She dreams of joining their ranks someday.",
-        "Title": "Chivalric Blossom",
-        "Constellation": "Parma Cordis",
+        "Name": "Ноэлль",
+        "Desc": "Горничная Ордо Фавониус, которая страстно мечтает однажды пополнить ряды ордена.",
+        "Title": "Нераспустившийся цветок",
+        "Constellation": "Душевный Щит",
         "Nation": "Mondstadt",
-        "Belong": "Knights of Favonius",
+        "Belong": "Ордо Фавониус",
         "Grade": 4,
         "Type": "Girl",
         "Weapon": "Claymore",
@@ -3585,12 +3585,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Bennett",
         "_id": 32,
-        "Name": "Bennett",
-        "Desc": "A good-natured adventurer from Mondstadt who's unfortunately extremely unlucky.",
-        "Title": "Trial by Fire",
-        "Constellation": "Rota Calamitas",
+        "Name": "Беннет",
+        "Desc": "Добросердечный и порядочный искатель приключений из Мондштадта, который, к несчастью, сказочно невезуч.",
+        "Title": "Испытание огнём",
+        "Constellation": "Дорога Опасностей",
         "Nation": "Mondstadt",
-        "Belong": "Adventurers' Guild",
+        "Belong": "Искатели приключений",
         "Grade": 4,
         "Type": "Boy",
         "Weapon": "Sword",
@@ -3637,12 +3637,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Fischl",
         "_id": 31,
-        "Name": "Fischl",
-        "Desc": "A mysterious girl who calls herself \"Prinzessin der Verurteilung\" and travels with a night raven named Oz.",
-        "Title": "Prinzessin der Verurteilung!",
-        "Constellation": "Corvus",
+        "Name": "Фишль",
+        "Desc": "Таинственная девушка, называющая себя «Принцессой осуждения» и путешествующая в сопровождении ворона по имени Оз.",
+        "Title": "Принцесса осуждения",
+        "Constellation": "Призрачный Ворон",
         "Nation": "Mondstadt",
-        "Belong": "Adventurers' Guild",
+        "Belong": "Искатели приключений",
         "Grade": 4,
         "Type": "Girl",
         "Weapon": "Bow",
@@ -3680,7 +3680,7 @@ var __AvatarInfoConfig = [
         "Version": "1.0",
         "Fetter": 31,
         "_CV": {
-            "_CH": "Mace & 赵悦程",
+            "_CH": "Mace&赵悦程",
             "_EN": "内田真礼 & 増谷康紀",
             "_JP": "Brittany Cox & Ben Pronsky",
             "_KR": "Park Go-woon & Lee Hyeon"
@@ -3689,12 +3689,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Klee",
         "_id": 29,
-        "Name": "Klee",
-        "Desc": "An explosives expert and a regular at the Knights of Favonius's confinement room. Also known as Fleeing Sunlight.",
-        "Title": "Fleeing Sunlight",
-        "Constellation": "Trifolium",
+        "Name": "Кли",
+        "Desc": "Эксперт по взрывчатке и частый гость темницы Ордо Фавониус. Также известна как «Ускользающее солнце».",
+        "Title": "Ускользающее солнце",
+        "Constellation": "Четырёхлистный Клевер",
         "Nation": "Mondstadt",
-        "Belong": "Knights of Favonius",
+        "Belong": "Ордо Фавониус",
         "Grade": 5,
         "Type": "Loli",
         "Weapon": "Catalyst",
@@ -3741,12 +3741,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Ningguang",
         "_id": 27,
-        "Name": "Ningguang",
-        "Desc": "The Tianquan of the Liyue Qixing. Her wealth is unsurpassed in all of Teyvat.",
-        "Title": "Eclipsing Star",
-        "Constellation": "Opus Aequilibrium",
+        "Name": "Нин Гуан",
+        "Desc": "Воля Небес группировки Цисин. Её богатство не сравнимо ни с чьим в Тейвате.",
+        "Title": "Лунное затмение",
+        "Constellation": "Небесная Сфера",
         "Nation": "Liyue",
-        "Belong": "Liyue Qixing",
+        "Belong": "Цисин",
         "Grade": 4,
         "Type": "Lady",
         "Weapon": "Catalyst",
@@ -3793,12 +3793,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Xingqiu",
         "_id": 25,
-        "Name": "Xingqiu",
-        "Desc": "A young man carrying a longsword who is frequently seen at book booths. He has a chivalrous heart and yearns for justice and fairness for all.",
-        "Title": "Juvenile Galant",
-        "Constellation": "Fabulae Textile",
+        "Name": "Син Цю",
+        "Desc": "Молодой любитель книг с благородным сердцем и длинным мечом.",
+        "Title": "Галантный юноша",
+        "Constellation": "Пёстрый Гобелен",
         "Nation": "Liyue",
-        "Belong": "Feiyun Commerce Guild",
+        "Belong": "Торговая гильдия «Фэйюнь»",
         "Grade": 4,
         "Type": "Boy",
         "Weapon": "Sword",
@@ -3845,12 +3845,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Beidou",
         "_id": 24,
-        "Name": "Beidou",
-        "Desc": "Captain of her crew, The Crux. She's quite an unbound and forthright woman.",
-        "Title": "Uncrowned Lord of the Ocean",
-        "Constellation": "Victor Mare",
+        "Name": "Бэй Доу",
+        "Desc": "Капитан флота Южного Креста. Она весьма рисковая и прямолинейная леди.",
+        "Title": "Владычица морей",
+        "Constellation": "Дракон Морей",
         "Nation": "Liyue",
-        "Belong": "The Crux",
+        "Belong": "Южный Крест",
         "Grade": 4,
         "Type": "Lady",
         "Weapon": "Claymore",
@@ -3897,12 +3897,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Xiangling",
         "_id": 23,
-        "Name": "Xiangling",
-        "Desc": "A renowned chef from Liyue. She's extremely passionate about cooking and excels at making her signature hot and spicy dishes.",
-        "Title": "Exquisite Delicacy",
-        "Constellation": "Trulla",
+        "Name": "Сян Лин",
+        "Desc": "Знаменитый шеф-повар Ли Юэ. Она со всей страстью относится к приготовлению еды, а её острые блюда известны на весь Тейват.",
+        "Title": "Миллион вкусов",
+        "Constellation": "Поварской Черпак",
         "Nation": "Liyue",
-        "Belong": "Wanmin Restaurant",
+        "Belong": "Ресторан «Народный выбор»",
         "Grade": 4,
         "Type": "Girl",
         "Weapon": "Pole",
@@ -3949,12 +3949,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Venti",
         "_id": 22,
-        "Name": "Venti",
-        "Desc": "One of the many bards of Mondstadt, who freely wanders the city's streets and alleys.",
-        "Title": "Windborne Bard",
-        "Constellation": "Carmen Dei",
+        "Name": "Венти",
+        "Desc": "Обычный бард, слоняющийся по улочкам Мондштадта.",
+        "Title": "Поэт ветров",
+        "Constellation": null,
         "Nation": "Mondstadt",
-        "Belong": "Mondstadt",
+        "Belong": "Мондштадт",
         "Grade": 5,
         "Type": "Boy",
         "Weapon": "Bow",
@@ -4001,12 +4001,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Ambor",
         "_id": 21,
-        "Name": "Amber",
-        "Desc": "Always energetic and full of life, Amber's the best — albeit only — Outrider of the Knights of Favonius.",
-        "Title": "Gliding Champion",
-        "Constellation": "Lepus",
+        "Name": "Эмбер",
+        "Desc": "Энергичная и весёлая Эмбер. Лучший и единственный скаут Ордо Фавониус.",
+        "Title": "Чемпион полётов",
+        "Constellation": "Озорной Кролик",
         "Nation": "Mondstadt",
-        "Belong": "Knights of Favonius",
+        "Belong": "Ордо Фавониус",
         "Grade": 4,
         "Type": "Girl",
         "Weapon": "Bow",
@@ -4053,12 +4053,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Razor",
         "_id": 20,
-        "Name": "Razor",
-        "Desc": "A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.",
-        "Title": "Wolf Boy",
-        "Constellation": "Lupus Minor",
+        "Name": "Рэйзор",
+        "Desc": "Мальчик, живущий среди волков в Вольфендоме у Мондштадта, вдали от цивилизации. Ловок как молния.",
+        "Title": "Инстинкт стаи",
+        "Constellation": "Проворный Волчонок",
         "Nation": "Mondstadt",
-        "Belong": "Wolvendom",
+        "Belong": "Вольфендом",
         "Grade": 4,
         "Type": "Boy",
         "Weapon": "Claymore",
@@ -4105,12 +4105,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Diluc",
         "_id": 16,
-        "Name": "Diluc",
-        "Desc": "The tycoon of a winery empire in Mondstadt, unmatched in every possible way.",
-        "Title": "Dark Side of Dawn",
-        "Constellation": "Noctua",
+        "Name": "Дилюк",
+        "Desc": "Магнат, построивший непревзойдённую винную империю в Мондштадте.",
+        "Title": "Тёмный рассвет",
+        "Constellation": "Мудрая Сова",
         "Nation": "Mondstadt",
-        "Belong": "Dawn Winery",
+        "Belong": "Винокурня «Рассвет»",
         "Grade": 5,
         "Type": "Male",
         "Weapon": "Claymore",
@@ -4157,12 +4157,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Kaeya",
         "_id": 15,
-        "Name": "Kaeya",
-        "Desc": "An accomplished swordsman and a strategic thinker in the Knights of Favonius, rumored to hail from beyond Mondstadt.",
-        "Title": "Frostwind Swordsman",
-        "Constellation": "Pavo Ocellus",
+        "Name": "Кэйа",
+        "Desc": "Капитан Ордо Фавониус выглядит довольно экзотично. Несмотря на дружелюбие и приветливость, от него веет странным холодком.",
+        "Title": "Зимний клинок",
+        "Constellation": "Павлинье Перо",
         "Nation": "Mondstadt",
-        "Belong": "Knights of Favonius",
+        "Belong": "Ордо Фавониус",
         "Grade": 4,
         "Type": "Male",
         "Weapon": "Sword",
@@ -4209,12 +4209,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Barbara",
         "_id": 14,
-        "Name": "Barbara",
-        "Desc": "Every citizen of Mondstadt adores Barbara. She learned the word \"idol\" from a magazine.",
-        "Title": "Shining Idol",
-        "Constellation": "Crater",
+        "Name": "Барбара",
+        "Desc": "Все жители Мондштадта боготворят Барбару, но слово «идол» она узнала из модного журнала.",
+        "Title": "Сияющая звёздочка",
+        "Constellation": "Золотой Кубок",
         "Nation": "Mondstadt",
-        "Belong": "Church of Favonius",
+        "Belong": "Церковь Фавония",
         "Grade": 4,
         "Type": "Girl",
         "Weapon": "Catalyst",
@@ -4261,12 +4261,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Lisa",
         "_id": 6,
-        "Name": "Lisa",
-        "Desc": "The languid but knowledgeable Librarian of the Knights of Favonius, deemed by Sumeru Akademiya to be their most distinguished graduate in the past two centuries.",
-        "Title": "Witch of Purple Rose",
-        "Constellation": "Tempus Fugit",
+        "Name": "Лиза",
+        "Desc": "Ленивый, но безгранично эрудированный библиотекарь Ордо Фавониус. Лучшая выпускница Академии Сумеру за последние несколько веков.",
+        "Title": "Пурпурная ведьма",
+        "Constellation": "Песочные Часы",
         "Nation": "Mondstadt",
-        "Belong": "Knights of Favonius",
+        "Belong": "Ордо Фавониус",
         "Grade": 4,
         "Type": "Lady",
         "Weapon": "Catalyst",
@@ -4313,12 +4313,12 @@ var __AvatarInfoConfig = [
     {
         "_name": "Qin",
         "_id": 3,
-        "Name": "Jean",
-        "Desc": "The righteous and rigorous Dandelion Knight, and Acting Grand Master of Mondstadt's Knights of Favonius.",
-        "Title": "Dandelion Knight",
-        "Constellation": "Leo Minor",
+        "Name": "Джинн",
+        "Desc": "Справедливый и искренний Рыцарь Одуванчик, действующий магистр Ордо Фавониус.",
+        "Title": "Рыцарь Одуванчик",
+        "Constellation": "Благородная Львица",
         "Nation": "Mondstadt",
-        "Belong": "Knights of Favonius",
+        "Belong": "Ордо Фавониус",
         "Grade": 5,
         "Type": "Lady",
         "Weapon": "Sword",
@@ -4662,7 +4662,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "？？？",
-            "EN": "？？？"
+            "EN": "？？？",
+            "RU": "？？？"
         }
     },
     "Liuyun": {
@@ -4712,7 +4713,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "中臣真菜",
-            "EN": "中臣真菜"
+            "EN": "中臣真菜",
+            "RU": "中臣真菜"
         }
     },
     "Gaming": {
@@ -4762,7 +4764,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "小松昌平",
-            "EN": "小松昌平"
+            "EN": "小松昌平",
+            "RU": "小松昌平"
         }
     },
     "Navia": {
@@ -4812,7 +4815,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "丰崎爱生",
-            "EN": "豊崎愛生"
+            "EN": "豊崎愛生",
+            "RU": "豊崎愛生"
         }
     },
     "Chevreuse": {
@@ -4862,7 +4866,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "下地紫野",
-            "EN": "下地紫野"
+            "EN": "下地紫野",
+            "RU": "下地紫野"
         }
     },
     "Furina": {
@@ -4912,7 +4917,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "水濑祈",
-            "EN": "水瀬いのり"
+            "EN": "水瀬いのり",
+            "RU": "水瀬いのり"
         }
     },
     "Charlotte": {
@@ -4962,7 +4968,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "和气杏未",
-            "EN": "和氣あず未"
+            "EN": "和氣あず未",
+            "RU": "和氣あず未"
         }
     },
     "Neuvillette": {
@@ -5012,7 +5019,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "神谷浩史",
-            "EN": "神谷浩史"
+            "EN": "神谷浩史",
+            "RU": "神谷浩史"
         }
     },
     "Wriothesley": {
@@ -5062,7 +5070,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "小野大辅",
-            "EN": "小野大輔"
+            "EN": "小野大輔",
+            "RU": "小野大輔"
         }
     },
     "Freminet": {
@@ -5112,7 +5121,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "土岐隼一",
-            "EN": "土岐隼一"
+            "EN": "土岐隼一",
+            "RU": "土岐隼一"
         }
     },
     "Liney": {
@@ -5162,7 +5172,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "下野纮",
-            "EN": "下野紘"
+            "EN": "下野紘",
+            "RU": "下野紘"
         }
     },
     "Linette": {
@@ -5212,7 +5223,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "篠原侑",
-            "EN": "篠原侑"
+            "EN": "篠原侑",
+            "RU": "篠原侑"
         }
     },
     "Baizhuer": {
@@ -5262,7 +5274,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "游佐浩二&庄子裕衣",
-            "EN": "遊佐浩二 & 庄子裕衣"
+            "EN": "遊佐浩二 & 庄子裕衣",
+            "RU": "遊佐浩二&庄子裕衣"
         }
     },
     "Kaveh": {
@@ -5312,7 +5325,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "内田雄马",
-            "EN": "内田雄馬"
+            "EN": "内田雄馬",
+            "RU": "内田雄馬"
         }
     },
     "Mika": {
@@ -5362,7 +5376,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "三瓶由布子",
-            "EN": "三瓶由布子"
+            "EN": "三瓶由布子",
+            "RU": "三瓶由布子"
         }
     },
     "Dehya": {
@@ -5412,7 +5427,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "福原绫香",
-            "EN": "福原綾香"
+            "EN": "福原綾香",
+            "RU": "福原綾香"
         }
     },
     "Alhatham": {
@@ -5462,7 +5478,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "梅原裕一郎",
-            "EN": "梅原裕一郎"
+            "EN": "梅原裕一郎",
+            "RU": "梅原裕一郎"
         }
     },
     "Yaoyao": {
@@ -5512,7 +5529,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "门胁舞以",
-            "EN": "門脇舞以"
+            "EN": "門脇舞以",
+            "RU": "門脇舞以"
         }
     },
     "Faruzan": {
@@ -5562,7 +5580,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "堀江由衣",
-            "EN": "堀江由衣"
+            "EN": "堀江由衣",
+            "RU": "堀江由衣"
         }
     },
     "Wanderer": {
@@ -5612,7 +5631,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "柿原彻也",
-            "EN": "柿原徹也"
+            "EN": "柿原徹也",
+            "RU": "柿原徹也"
         }
     },
     "Layla": {
@@ -5662,7 +5682,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "富田美忧",
-            "EN": "富田美憂"
+            "EN": "富田美憂",
+            "RU": "富田美憂"
         }
     },
     "Nahida": {
@@ -5712,7 +5733,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "田村由加莉",
-            "EN": "田村ゆかり"
+            "EN": "田村ゆかり",
+            "RU": "田村ゆかり"
         }
     },
     "Candace": {
@@ -5762,7 +5784,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "柚木凉香",
-            "EN": "柚木涼香"
+            "EN": "柚木涼香",
+            "RU": "柚木涼香"
         }
     },
     "Cyno": {
@@ -5812,7 +5835,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "入野自由",
-            "EN": "入野自由"
+            "EN": "入野自由",
+            "RU": "入野自由"
         }
     },
     "Nilou": {
@@ -5862,7 +5886,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "金元寿子",
-            "EN": "金元寿子"
+            "EN": "金元寿子",
+            "RU": "金元寿子"
         }
     },
     "Tighnari": {
@@ -5912,7 +5937,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "小林沙苗",
-            "EN": "小林沙苗"
+            "EN": "小林沙苗",
+            "RU": "小林沙苗"
         }
     },
     "Dori": {
@@ -5962,7 +5988,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "金田朋子",
-            "EN": "金田朋子"
+            "EN": "金田朋子",
+            "RU": "金田朋子"
         }
     },
     "Collei": {
@@ -6012,7 +6039,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "前川凉子",
-            "EN": "前川涼子"
+            "EN": "前川涼子",
+            "RU": "前川涼子"
         }
     },
     "Ayato": {
@@ -6062,7 +6090,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "石田彰",
-            "EN": "石田彰"
+            "EN": "石田彰",
+            "RU": "石田彰"
         }
     },
     "Shinobu": {
@@ -6112,7 +6141,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "水桥香织",
-            "EN": "水橋かおり"
+            "EN": "水橋かおり",
+            "RU": "水橋かおり"
         }
     },
     "Yunjin": {
@@ -6162,7 +6192,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "小岩井小鸟&杨扬",
-            "EN": "小岩井ことり & Yang Yang"
+            "EN": "小岩井ことり & Yang Yang",
+            "RU": "小岩井ことり & Yang Yang"
         }
     },
     "Shenhe": {
@@ -6212,7 +6243,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "川澄绫子",
-            "EN": "川澄綾子"
+            "EN": "川澄綾子",
+            "RU": "川澄綾子"
         }
     },
     "Aloy": {
@@ -6262,7 +6294,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "高垣彩阳",
-            "EN": "高垣彩陽"
+            "EN": "高垣彩陽",
+            "RU": "高垣彩陽"
         }
     },
     "Momoka": {
@@ -6312,7 +6345,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "铃代纱弓",
-            "EN": "鈴代紗弓"
+            "EN": "鈴代紗弓",
+            "RU": "鈴代紗弓"
         }
     },
     "Yelan": {
@@ -6362,7 +6396,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "远藤绫",
-            "EN": "遠藤綾"
+            "EN": "遠藤綾",
+            "RU": "遠藤綾"
         }
     },
     "Heizo": {
@@ -6412,7 +6447,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "井口祐一",
-            "EN": "井口祐一"
+            "EN": "井口祐一",
+            "RU": "井口祐一"
         }
     },
     "Yae": {
@@ -6462,7 +6498,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "佐仓绫音",
-            "EN": "佐倉綾音"
+            "EN": "佐倉綾音",
+            "RU": "佐倉綾音"
         }
     },
     "Itto": {
@@ -6512,7 +6549,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "西川贵教",
-            "EN": "西川貴教"
+            "EN": "西川貴教",
+            "RU": "西川貴教"
         }
     },
     "Sara": {
@@ -6562,7 +6600,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "濑户麻沙美",
-            "EN": "瀬戸麻沙美"
+            "EN": "瀬戸麻沙美",
+            "RU": "瀬戸麻沙美"
         }
     },
     "Gorou": {
@@ -6612,7 +6651,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "畠中祐",
-            "EN": "畠中祐"
+            "EN": "畠中祐",
+            "RU": "畠中祐"
         }
     },
     "Kokomi": {
@@ -6662,7 +6702,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "三森铃子",
-            "EN": "三森すずこ"
+            "EN": "三森すずこ",
+            "RU": "三森すずこ"
         }
     },
     "Sayu": {
@@ -6712,7 +6753,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "洲崎绫",
-            "EN": "洲崎綾"
+            "EN": "洲崎綾",
+            "RU": "洲崎綾"
         }
     },
     "Shougun": {
@@ -6762,7 +6804,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "泽城美雪",
-            "EN": "沢城みゆき"
+            "EN": "沢城みゆき",
+            "RU": "沢城みゆき"
         }
     },
     "Eula": {
@@ -6812,7 +6855,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "佐藤利奈",
-            "EN": "佐藤利奈"
+            "EN": "佐藤利奈",
+            "RU": "佐藤利奈"
         }
     },
     "Tohma": {
@@ -6862,7 +6906,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "森田成一",
-            "EN": "森田成一"
+            "EN": "森田成一",
+            "RU": "森田成一"
         }
     },
     "Yoimiya": {
@@ -6912,7 +6957,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "植田佳奈",
-            "EN": "植田佳奈"
+            "EN": "植田佳奈",
+            "RU": "植田佳奈"
         }
     },
     "Feiyan": {
@@ -6962,7 +7008,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "花守由美里",
-            "EN": "花守ゆみり"
+            "EN": "花守ゆみり",
+            "RU": "花守ゆみり"
         }
     },
     "Kazuha": {
@@ -7012,7 +7059,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "岛崎信长",
-            "EN": "島﨑信長"
+            "EN": "島﨑信長",
+            "RU": "島﨑信長"
         }
     },
     "Hutao": {
@@ -7062,7 +7110,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "高桥李依",
-            "EN": "高橋李依"
+            "EN": "高橋李依",
+            "RU": "高橋李依"
         }
     },
     "Rosaria": {
@@ -7112,7 +7161,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "加隈亚衣",
-            "EN": "加隈亜衣"
+            "EN": "加隈亜衣",
+            "RU": "加隈亜衣"
         }
     },
     "Xinyan": {
@@ -7162,7 +7212,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "高桥智秋",
-            "EN": "たかはし智秋"
+            "EN": "たかはし智秋",
+            "RU": "たかはし智秋"
         }
     },
     "Sucrose": {
@@ -7212,7 +7263,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "藤田茜",
-            "EN": "藤田茜"
+            "EN": "藤田茜",
+            "RU": "藤田茜"
         }
     },
     "Keqing": {
@@ -7262,7 +7314,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "喜多村英梨",
-            "EN": "喜多村英梨"
+            "EN": "喜多村英梨",
+            "RU": "喜多村英梨"
         }
     },
     "Mona": {
@@ -7312,7 +7365,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "小原好美",
-            "EN": "小原好美"
+            "EN": "小原好美",
+            "RU": "小原好美"
         }
     },
     "Diona": {
@@ -7362,7 +7416,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "井泽诗织",
-            "EN": "井澤詩織"
+            "EN": "井澤詩織",
+            "RU": "井澤詩織"
         }
     },
     "Albedo": {
@@ -7412,7 +7467,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "野岛健儿",
-            "EN": "野島健児"
+            "EN": "野島健児",
+            "RU": "野島健児"
         }
     },
     "Ganyu": {
@@ -7462,7 +7518,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "上田丽奈",
-            "EN": "上田麗奈"
+            "EN": "上田麗奈",
+            "RU": "上田麗奈"
         }
     },
     "Chongyun": {
@@ -7512,7 +7569,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "齐藤壮马",
-            "EN": "斉藤壮馬"
+            "EN": "斉藤壮馬",
+            "RU": "斉藤壮馬"
         }
     },
     "Qiqi": {
@@ -7562,7 +7620,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "田村由加莉",
-            "EN": "田村ゆかり"
+            "EN": "田村ゆかり",
+            "RU": "田村ゆかり"
         }
     },
     "Noel": {
@@ -7612,7 +7671,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "高尾奏音",
-            "EN": "高尾奏音"
+            "EN": "高尾奏音",
+            "RU": "高尾奏音"
         }
     },
     "Tartaglia": {
@@ -7662,7 +7722,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "木村良平",
-            "EN": "木村良平"
+            "EN": "木村良平",
+            "RU": "木村良平"
         }
     },
     "Bennett": {
@@ -7712,7 +7773,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "逢坂良太",
-            "EN": "逢坂良太"
+            "EN": "逢坂良太",
+            "RU": "逢坂良太"
         }
     },
     "Fischl": {
@@ -7762,7 +7824,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "内田真礼&增谷康纪",
-            "EN": "内田真礼 & 増谷康紀"
+            "EN": "内田真礼 & 増谷康紀",
+            "RU": "内田真礼 & 増谷康紀"
         }
     },
     "Zhongli": {
@@ -7812,7 +7875,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "前野智昭",
-            "EN": "前野智昭"
+            "EN": "前野智昭",
+            "RU": "前野智昭"
         }
     },
     "Klee": {
@@ -7862,7 +7926,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "久野美咲",
-            "EN": "久野美咲"
+            "EN": "久野美咲",
+            "RU": "久野美咲"
         }
     },
     "Ningguang": {
@@ -7912,7 +7977,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "大原沙耶香",
-            "EN": "大原さやか"
+            "EN": "大原さやか",
+            "RU": "大原さやか"
         }
     },
     "Xiao": {
@@ -7962,7 +8028,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "松冈祯丞",
-            "EN": "松岡禎丞"
+            "EN": "松岡禎丞",
+            "RU": "松岡禎丞"
         }
     },
     "Xingqiu": {
@@ -8012,7 +8079,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "皆川纯子",
-            "EN": "皆川純子"
+            "EN": "皆川純子",
+            "RU": "皆川純子"
         }
     },
     "Beidou": {
@@ -8062,7 +8130,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "小清水亚美",
-            "EN": "小清水亜美"
+            "EN": "小清水亜美",
+            "RU": "小清水亜美"
         }
     },
     "Xiangling": {
@@ -8112,7 +8181,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "小泽亚李",
-            "EN": "小澤亜李"
+            "EN": "小澤亜李",
+            "RU": "小澤亜李"
         }
     },
     "Venti": {
@@ -8162,7 +8232,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "村濑步",
-            "EN": "村瀬歩"
+            "EN": "村瀬歩",
+            "RU": "村瀬歩"
         }
     },
     "Ambor": {
@@ -8212,7 +8283,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "石见舞菜香",
-            "EN": "石見舞菜香"
+            "EN": "石見舞菜香",
+            "RU": "石見舞菜香"
         }
     },
     "Razor": {
@@ -8262,7 +8334,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "内山昂辉",
-            "EN": "内山昂輝"
+            "EN": "内山昂輝",
+            "RU": "内山昂輝"
         }
     },
     "Diluc": {
@@ -8312,7 +8385,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "小野贤章",
-            "EN": "小野賢章"
+            "EN": "小野賢章",
+            "RU": "小野賢章"
         }
     },
     "Kaeya": {
@@ -8362,7 +8436,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "鸟海浩辅",
-            "EN": "鳥海浩輔"
+            "EN": "鳥海浩輔",
+            "RU": "鳥海浩輔"
         }
     },
     "Barbara": {
@@ -8412,7 +8487,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "鬼头明里",
-            "EN": "鬼頭明里"
+            "EN": "鬼頭明里",
+            "RU": "鬼頭明里"
         }
     },
     "Lisa": {
@@ -8462,7 +8538,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "田中理惠",
-            "EN": "田中理恵"
+            "EN": "田中理恵",
+            "RU": "田中理恵"
         }
     },
     "Qin": {
@@ -8512,7 +8589,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "斋藤千和",
-            "EN": "斎藤千和"
+            "EN": "斎藤千和",
+            "RU": "斎藤千和"
         }
     },
     "Ayaka": {
@@ -8562,7 +8640,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "早见沙织",
-            "EN": "早見沙織"
+            "EN": "早見沙織",
+            "RU": "早見沙織"
         }
     },
     "PlayerGirl_Wind": {
@@ -18754,33 +18833,46 @@ var acs_cache = {
 var index_avatar = {
     "KEQING": 42,
     "刻晴": 42,
+    "КЭЦИН": 42,
     "CHIORI": 94,
     "千织": 94,
+    "ТИОРИ": 94,
     "LIUYUN": 93,
     "闲云": 93,
     "XIANYUN": 93,
+    "СЯНЬЮНЬ": 93,
     "GAMING": 92,
     "嘉明": 92,
+    "КАМИН": 92,
     "NAVIA": 91,
     "娜维娅": 91,
+    "НАВИЯ": 91,
     "CHEVREUSE": 90,
     "夏沃蕾": 90,
+    "ШЕВРЁЗ": 90,
     "FURINA": 89,
     "芙宁娜": 89,
+    "ФУРИНА": 89,
     "CHARLOTTE": 88,
     "夏洛蒂": 88,
+    "ШАРЛОТТА": 88,
     "NEUVILLETTE": 87,
     "那维莱特": 87,
+    "НЁВИЛЛЕТ": 87,
     "WRIOTHESLEY": 86,
     "莱欧斯利": 86,
+    "РИЗЛИ": 86,
     "FREMINET": 85,
     "菲米尼": 85,
+    "ФРЕМИНЕ": 85,
     "LINEY": 84,
     "林尼": 84,
     "LYNEY": 84,
+    "ЛИНИ": 84,
     "LINETTE": 83,
     "琳妮特": 83,
     "LYNETTE": 83,
+    "ЛИНЕТТ": 83,
     "PLAYERGIRLWATER": 705,
     "旅行者水": 505,
     "TRAVELERHYDRO": 505,
@@ -18788,40 +18880,57 @@ var index_avatar = {
     "MOMOKA": 61,
     "绮良良": 61,
     "KIRARA": 61,
+    "КИРАРА": 61,
     "BAIZHUER": 82,
     "白术": 82,
     "BAIZHU": 82,
+    "БАЙЧЖУ": 82,
     "KAVEH": 81,
     "卡维": 81,
+    "КАВЕХ": 81,
     "MIKA": 80,
     "米卡": 80,
+    "МИКА": 80,
     "DEHYA": 79,
     "迪希雅": 79,
+    "ДЭХЬЯ": 79,
     "ALHATHAM": 78,
     "艾尔海森": 78,
     "ALHAITHAM": 78,
+    "АЛЬХАЙТАМ": 78,
     "YAOYAO": 77,
     "瑶瑶": 77,
+    "ЯОЯО": 77,
     "FARUZAN": 76,
     "珐露珊": 76,
+    "ФАРУЗАН": 76,
     "WANDERER": 75,
     "流浪者": 75,
+    "СТРАННИК": 75,
     "LAYLA": 74,
     "莱依拉": 74,
+    "ЛАЙЛА": 74,
     "NAHIDA": 73,
     "纳西妲": 73,
+    "НАХИДА": 73,
     "CANDACE": 72,
     "坎蒂丝": 72,
+    "КАНДАКИЯ": 72,
     "CYNO": 71,
     "赛诺": 71,
+    "САЙНО": 71,
     "NILOU": 70,
     "妮露": 70,
+    "НИЛУ": 70,
     "TIGHNARI": 69,
     "提纳里": 69,
+    "ТИГНАРИ": 69,
     "DORI": 68,
     "多莉": 68,
+    "ДОРИ": 68,
     "COLLEI": 67,
     "柯莱": 67,
+    "КОЛЛЕИ": 67,
     "PLAYERGIRLGRASS": 704,
     "旅行者草": 504,
     "TRAVELERDENDRO": 504,
@@ -18829,47 +18938,64 @@ var index_avatar = {
     "HEIZO": 59,
     "鹿野院平藏": 59,
     "SHIKANOINHEIZOU": 59,
+    "ХЭЙДЗО": 59,
     "SHINOBU": 65,
     "久岐忍": 65,
     "KUKISHINOBU": 65,
+    "СИНОБУ": 65,
     "YELAN": 60,
     "夜兰": 60,
+    "ЕЛАНЬ": 60,
     "AYATO": 66,
     "神里绫人": 66,
     "KAMISATOAYATO": 66,
+    "АЯТО": 66,
     "YAE": 58,
     "八重神子": 58,
     "YAEMIKO": 58,
+    "ЯЭМИКО": 58,
     "YUNJIN": 64,
     "云堇": 64,
+    "ЮНЬЦЗИНЬ": 64,
     "SHENHE": 63,
     "申鹤": 63,
+    "ШЭНЬХЭ": 63,
     "ITTO": 57,
     "荒泷一斗": 57,
     "ARATAKIITTO": 57,
+    "ИТТО": 57,
     "GOROU": 55,
     "五郎": 55,
+    "ГОРО": 55,
     "TOHMA": 50,
     "托马": 50,
     "THOMA": 50,
+    "ТОМА": 50,
     "ALOY": 62,
     "埃洛伊": 62,
+    "ЭЛОЙ": 62,
     "SARA": 56,
     "九条裟罗": 56,
     "KUJOUSARA": 56,
+    "САРА": 56,
     "KOKOMI": 54,
     "珊瑚宫心海": 54,
     "SANGONOMIYAKOKOMI": 54,
+    "КОКОМИ": 54,
     "SHOUGUN": 52,
     "雷电将军": 52,
     "RAIDENSHOGUN": 52,
+    "РАЙДЭН": 52,
     "SAYU": 53,
     "早柚": 53,
+    "САЮ": 53,
     "YOIMIYA": 49,
     "宵宫": 49,
+    "ЁИМИЯ": 49,
     "AYAKA": 2,
     "神里绫华": 2,
     "KAMISATOAYAKA": 2,
+    "АЯКА": 2,
     "PLAYERGIRLELEC": 703,
     "旅行者雷": 503,
     "TRAVELERELECTRO": 503,
@@ -18877,72 +19003,104 @@ var index_avatar = {
     "KAZUHA": 47,
     "枫原万叶": 47,
     "KAEDEHARAKAZUHA": 47,
+    "КАДЗУХА": 47,
     "EULA": 51,
     "优菈": 51,
+    "ЭОЛА": 51,
     "FEIYAN": 48,
     "烟绯": 48,
     "YANFEI": 48,
+    "ЯНЬФЭЙ": 48,
     "ROSARIA": 45,
     "罗莎莉亚": 45,
+    "РОЗАРИЯ": 45,
     "HUTAO": 46,
     "胡桃": 46,
+    "ХУТАО": 46,
     "XIAO": 26,
     "魈": 26,
+    "СЯО": 26,
     "ALBEDO": 38,
     "阿贝多": 38,
+    "АЛЬБЕДО": 38,
     "GANYU": 37,
     "甘雨": 37,
+    "ГАНЬЮЙ": 37,
     "XINYAN": 44,
     "辛焱": 44,
+    "СИНЬЯНЬ": 44,
     "DIONA": 39,
     "迪奥娜": 39,
+    "ДИОНА": 39,
     "TARTAGLIA": 33,
     "达达利亚": 33,
+    "ТАРТАЛЬЯ": 33,
     "ZHONGLI": 30,
     "钟离": 30,
+    "ЧЖУНЛИ": 30,
     "SUCROSE": 43,
     "砂糖": 43,
+    "САХАРОЗА": 43,
     "MONA": 41,
     "莫娜": 41,
+    "МОНА": 41,
     "CHONGYUN": 36,
     "重云": 36,
+    "ЧУНЮНЬ": 36,
     "QIQI": 35,
     "七七": 35,
+    "ЦИЦИ": 35,
     "NOEL": 34,
     "诺艾尔": 34,
     "NOELLE": 34,
+    "НОЭЛЛЬ": 34,
     "BENNETT": 32,
     "班尼特": 32,
+    "БЕННЕТ": 32,
     "FISCHL": 31,
     "菲谢尔": 31,
+    "ФИШЛЬ": 31,
     "KLEE": 29,
     "可莉": 29,
+    "КЛИ": 29,
     "NINGGUANG": 27,
     "凝光": 27,
+    "НИНГУАН": 27,
     "XINGQIU": 25,
     "行秋": 25,
+    "СИНЦЮ": 25,
     "BEIDOU": 24,
     "北斗": 24,
+    "БЭЙДОУ": 24,
     "XIANGLING": 23,
     "香菱": 23,
+    "СЯНЛИН": 23,
     "VENTI": 22,
     "温迪": 22,
+    "ВЕНТИ": 22,
     "AMBOR": 21,
     "安柏": 21,
     "AMBER": 21,
+    "ЭМБЕР": 21,
     "RAZOR": 20,
     "雷泽": 20,
+    "РЭЙЗОР": 20,
     "DILUC": 16,
     "迪卢克": 16,
+    "ДИЛЮК": 16,
     "KAEYA": 15,
     "凯亚": 15,
+    "КЭЙА": 15,
     "BARBARA": 14,
     "芭芭拉": 14,
+    "БАРБАРА": 14,
     "LISA": 6,
     "丽莎": 6,
+    "ЛИЗА": 6,
     "QIN": 3,
     "琴": 3,
     "JEAN": 3,
+    "ДЖИНН": 3,
     "PLAYERGIRLWIND": 701,
     "旅行者风": 501,
     "TRAVELERANEMO": 501,

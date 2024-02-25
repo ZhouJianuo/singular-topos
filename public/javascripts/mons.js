@@ -31,7 +31,7 @@ $(function () {
     var si = 0
 
     let script_computer = document.createElement('script')
-    script_computer.src = '/data/' + lang + '/Monster.js'
+    script_computer.src = '/data/' + lang2 + '/Monster.js'
     document.head.append(script_computer)
     script_computer.onload = begin
 
@@ -40,7 +40,7 @@ $(function () {
         m_s = 0
 
         let script_2 = document.createElement('script')
-        script_2.src = '/data/' + lang + '/MonsterSkill.js'
+        script_2.src = '/data/' + lang2 + '/MonsterSkill.js'
         document.head.append(script_2)
         script_2.onload = function () {
             m_s = 1

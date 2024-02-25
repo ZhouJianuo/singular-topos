@@ -19,7 +19,7 @@ $(function () {
     $('h3 .tlsub').html(computer_.MiscText.Translate_Computer[lang2])
 
     let script_computer = document.createElement('script')
-    script_computer.src = '/gi/' + lang + '/computer.js'
+    script_computer.src = '/gi/' + lang2 + '/computer.js'
     document.head.append(script_computer)
     script_computer.onload = begin1
 

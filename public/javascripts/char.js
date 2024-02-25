@@ -39,7 +39,7 @@ $(function () {
     var check_interval = 0
 
     let script_computer = document.createElement('script')
-    script_computer.src = '/data/' + lang + '/Avatar_1.js'
+    script_computer.src = '/data/' + lang2 + '/Avatar_1.js'
     document.head.append(script_computer)
     script_computer.onload = begin
 
@@ -48,7 +48,7 @@ $(function () {
         a_2 = 0
 
         let script_computer_2 = document.createElement('script')
-        script_computer_2.src = '/data/' + lang + '/Avatar_2.js'
+        script_computer_2.src = '/data/' + lang2 + '/Avatar_2.js'
         document.head.append(script_computer_2)
         script_computer_2.onload = function () {
             a_2 = 1

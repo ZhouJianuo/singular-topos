@@ -320,7 +320,7 @@ var __AvatarInfoConfig = [
         "Name": "芙宁娜",
         "Desc": "审判舞台上的绝对焦点，直至谢幕的掌声响起。",
         "Title": "不休独舞",
-        "Constellation": "司颂座",
+        "Constellation": null,
         "Nation": "Fontaine",
         "Belong": "枫丹廷",
         "Grade": 5,
@@ -424,7 +424,7 @@ var __AvatarInfoConfig = [
         "Name": "那维莱特",
         "Desc": "枫丹的最高审判官，因其无懈可击的「秉公无私」而闻名。",
         "Title": "谕告的潮音",
-        "Constellation": "？？？ / 原海巨灵座",
+        "Constellation": null,
         "Nation": "Fontaine",
         "Belong": "枫丹廷",
         "Grade": 5,
@@ -1288,7 +1288,7 @@ var __AvatarInfoConfig = [
         "Name": "纳西妲",
         "Desc": "深居净善宫的笼中之鸟，只能在梦中将世界尽收眼底。",
         "Title": "白草净华",
-        "Constellation": "智慧主座",
+        "Constellation": null,
         "Nation": "Sumeru",
         "Belong": "须弥城",
         "Grade": 5,
@@ -2412,7 +2412,7 @@ var __AvatarInfoConfig = [
         "Name": "雷电将军",
         "Desc": "其身为御建鸣神主尊大御所大人，许稻妻人民以亘古不变之「永恒」。",
         "Title": "一心净土",
-        "Constellation": "天下人座",
+        "Constellation": null,
         "Nation": "Inazuma",
         "Belong": "稻妻城",
         "Grade": 5,
@@ -3276,7 +3276,7 @@ var __AvatarInfoConfig = [
         "Name": "钟离",
         "Desc": "被「往生堂」请来的神秘客人，知识渊博，对各种事物都颇有见地。",
         "Title": "尘世闲游",
-        "Constellation": "？？？ / 岩王帝君座",
+        "Constellation": null,
         "Nation": "Liyue",
         "Belong": "璃月港",
         "Grade": 5,
@@ -3952,7 +3952,7 @@ var __AvatarInfoConfig = [
         "Name": "温迪",
         "Desc": "蒙德城诸多吟游诗人中的一位，自由自在地穿行在街头巷尾。",
         "Title": "风色诗人",
-        "Constellation": "歌仙座",
+        "Constellation": null,
         "Nation": "Mondstadt",
         "Belong": "蒙德城",
         "Grade": 5,
@@ -4662,7 +4662,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "？？？",
-            "EN": "？？？"
+            "EN": "？？？",
+            "RU": "？？？"
         }
     },
     "Liuyun": {
@@ -4712,7 +4713,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "秦紫翼",
-            "EN": "秦紫翼"
+            "EN": "秦紫翼",
+            "RU": "秦紫翼"
         }
     },
     "Gaming": {
@@ -4762,7 +4764,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "谢莹",
-            "EN": "谢莹"
+            "EN": "谢莹",
+            "RU": "谢莹"
         }
     },
     "Navia": {
@@ -4812,7 +4815,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "小敢",
-            "EN": "小敢"
+            "EN": "小敢",
+            "RU": "小敢"
         }
     },
     "Chevreuse": {
@@ -4862,7 +4866,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "潘丹妮",
-            "EN": "潘丹妮"
+            "EN": "潘丹妮",
+            "RU": "潘丹妮"
         }
     },
     "Furina": {
@@ -4912,7 +4917,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "钱琛",
-            "EN": "钱琛"
+            "EN": "钱琛",
+            "RU": "钱琛"
         }
     },
     "Charlotte": {
@@ -4962,7 +4968,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "阮从青",
-            "EN": "阮从青"
+            "EN": "阮从青",
+            "RU": "阮从青"
         }
     },
     "Neuvillette": {
@@ -5012,7 +5019,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "桑毓泽",
-            "EN": "桑毓泽"
+            "EN": "桑毓泽",
+            "RU": "桑毓泽"
         }
     },
     "Wriothesley": {
@@ -5062,7 +5070,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "刘北辰",
-            "EN": "刘北辰"
+            "EN": "刘北辰",
+            "RU": "刘北辰"
         }
     },
     "Freminet": {
@@ -5112,7 +5121,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "锦鲤",
-            "EN": "锦鲤"
+            "EN": "锦鲤",
+            "RU": "锦鲤"
         }
     },
     "Liney": {
@@ -5162,7 +5172,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "锦鲤",
-            "EN": "锦鲤"
+            "EN": "锦鲤",
+            "RU": "锦鲤"
         }
     },
     "Linette": {
@@ -5212,7 +5223,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "可可味",
-            "EN": "可可味"
+            "EN": "可可味",
+            "RU": "可可味"
         }
     },
     "Baizhuer": {
@@ -5262,7 +5274,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "秦且歌&王晓彤",
-            "EN": "秦且歌 & 王晓彤"
+            "EN": "秦且歌 & 王晓彤",
+            "RU": "秦且歌&王晓彤"
         }
     },
     "Kaveh": {
@@ -5312,7 +5325,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "刘三木",
-            "EN": "刘三木"
+            "EN": "刘三木",
+            "RU": "刘三木"
         }
     },
     "Mika": {
@@ -5362,7 +5376,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "邓宥希",
-            "EN": "邓宥希"
+            "EN": "邓宥希",
+            "RU": "邓宥希"
         }
     },
     "Dehya": {
@@ -5412,7 +5427,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "陈雨",
-            "EN": "陈雨"
+            "EN": "陈雨",
+            "RU": "陈雨"
         }
     },
     "Alhatham": {
@@ -5462,7 +5478,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "杨超然",
-            "EN": "杨超然"
+            "EN": "杨超然",
+            "RU": "杨超然"
         }
     },
     "Yaoyao": {
@@ -5512,7 +5529,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "刘颐诺",
-            "EN": "刘颐诺"
+            "EN": "刘颐诺",
+            "RU": "刘颐诺"
         }
     },
     "Faruzan": {
@@ -5562,7 +5580,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "阎萌萌",
-            "EN": "阎萌萌"
+            "EN": "阎萌萌",
+            "RU": "阎萌萌"
         }
     },
     "Wanderer": {
@@ -5612,7 +5631,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "鹿喑",
-            "EN": "鹿喑"
+            "EN": "鹿喑",
+            "RU": "鹿喑"
         }
     },
     "Layla": {
@@ -5662,7 +5682,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "侯小菲",
-            "EN": "侯小菲"
+            "EN": "侯小菲",
+            "RU": "侯小菲"
         }
     },
     "Nahida": {
@@ -5712,7 +5733,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "花玲",
-            "EN": "花玲"
+            "EN": "花玲",
+            "RU": "花玲"
         }
     },
     "Candace": {
@@ -5762,7 +5784,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "张琦",
-            "EN": "张琦"
+            "EN": "张琦",
+            "RU": "张琦"
         }
     },
     "Cyno": {
@@ -5812,7 +5835,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "李轻扬",
-            "EN": "李轻扬"
+            "EN": "李轻扬",
+            "RU": "李轻扬"
         }
     },
     "Nilou": {
@@ -5862,7 +5886,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "紫苏九月",
-            "EN": "紫苏九月"
+            "EN": "紫苏九月",
+            "RU": "紫苏九月"
         }
     },
     "Tighnari": {
@@ -5912,7 +5937,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "莫然",
-            "EN": "莫然"
+            "EN": "莫然",
+            "RU": "莫然"
         }
     },
     "Dori": {
@@ -5962,7 +5988,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "王晓彤",
-            "EN": "王晓彤"
+            "EN": "王晓彤",
+            "RU": "王晓彤"
         }
     },
     "Collei": {
@@ -6012,7 +6039,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "秦文静",
-            "EN": "秦文静"
+            "EN": "秦文静",
+            "RU": "秦文静"
         }
     },
     "Ayato": {
@@ -6062,7 +6090,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "赵路",
-            "EN": "赵路"
+            "EN": "赵路",
+            "RU": "赵路"
         }
     },
     "Shinobu": {
@@ -6112,7 +6141,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "杨凝",
-            "EN": "杨凝"
+            "EN": "杨凝",
+            "RU": "杨凝"
         }
     },
     "Yunjin": {
@@ -6162,7 +6192,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "贺文潇&杨扬",
-            "EN": "贺文潇&杨扬"
+            "EN": "贺文潇&杨扬",
+            "RU": "贺文潇 & 杨扬"
         }
     },
     "Shenhe": {
@@ -6212,7 +6243,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "秦紫翼",
-            "EN": "秦紫翼"
+            "EN": "秦紫翼",
+            "RU": "秦紫翼"
         }
     },
     "Aloy": {
@@ -6262,7 +6294,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "沐霏",
-            "EN": "沐霏"
+            "EN": "沐霏",
+            "RU": "沐霏"
         }
     },
     "Momoka": {
@@ -6312,7 +6345,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "孙艳琦",
-            "EN": "孙艳琦"
+            "EN": "孙艳琦",
+            "RU": "孙艳琦"
         }
     },
     "Yelan": {
@@ -6362,7 +6396,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "徐慧",
-            "EN": "徐慧"
+            "EN": "徐慧",
+            "RU": "徐慧"
         }
     },
     "Heizo": {
@@ -6412,7 +6447,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "林景",
-            "EN": "林景"
+            "EN": "林景",
+            "RU": "林景"
         }
     },
     "Yae": {
@@ -6462,7 +6498,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "杜冥鸦",
-            "EN": "杜冥鸦"
+            "EN": "杜冥鸦",
+            "RU": "杜冥鸦"
         }
     },
     "Itto": {
@@ -6512,7 +6549,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "刘照坤",
-            "EN": "刘照坤"
+            "EN": "刘照坤",
+            "RU": "刘照坤"
         }
     },
     "Sara": {
@@ -6562,7 +6600,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "杨梦露",
-            "EN": "杨梦露"
+            "EN": "杨梦露",
+            "RU": "杨梦露"
         }
     },
     "Gorou": {
@@ -6612,7 +6651,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "杨昕燃",
-            "EN": "杨昕燃"
+            "EN": "杨昕燃",
+            "RU": "杨昕燃"
         }
     },
     "Kokomi": {
@@ -6662,7 +6702,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "龟娘",
-            "EN": "龟娘"
+            "EN": "龟娘",
+            "RU": "龟娘"
         }
     },
     "Sayu": {
@@ -6712,7 +6753,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "Sakula小舞",
-            "EN": "Sakula小舞"
+            "EN": "Sakula小舞",
+            "RU": "Sakula小舞"
         }
     },
     "Shougun": {
@@ -6762,7 +6804,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "菊花花",
-            "EN": "菊花花"
+            "EN": "菊花花",
+            "RU": "菊花花"
         }
     },
     "Eula": {
@@ -6812,7 +6855,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "子音",
-            "EN": "子音"
+            "EN": "子音",
+            "RU": "子音"
         }
     },
     "Tohma": {
@@ -6862,7 +6906,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "张沛",
-            "EN": "张沛"
+            "EN": "张沛",
+            "RU": "张沛"
         }
     },
     "Yoimiya": {
@@ -6912,7 +6957,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "金娜",
-            "EN": "金娜"
+            "EN": "金娜",
+            "RU": "金娜"
         }
     },
     "Feiyan": {
@@ -6962,7 +7008,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "苏子芜",
-            "EN": "苏子芜"
+            "EN": "苏子芜",
+            "RU": "苏子芜"
         }
     },
     "Kazuha": {
@@ -7012,7 +7059,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "斑马",
-            "EN": "斑马"
+            "EN": "斑马",
+            "RU": "斑马"
         }
     },
     "Hutao": {
@@ -7062,7 +7110,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "陶典",
-            "EN": "陶典"
+            "EN": "陶典",
+            "RU": "陶典"
         }
     },
     "Rosaria": {
@@ -7112,7 +7161,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "张安琪",
-            "EN": "张安琪"
+            "EN": "张安琪",
+            "RU": "张安琪"
         }
     },
     "Xinyan": {
@@ -7162,7 +7212,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "王雅欣",
-            "EN": "王雅欣"
+            "EN": "王雅欣",
+            "RU": "王雅欣"
         }
     },
     "Sucrose": {
@@ -7212,7 +7263,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "小敢",
-            "EN": "小敢"
+            "EN": "小敢",
+            "RU": "小敢"
         }
     },
     "Keqing": {
@@ -7262,7 +7314,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "谢莹",
-            "EN": "谢莹"
+            "EN": "谢莹",
+            "RU": "谢莹"
         }
     },
     "Mona": {
@@ -7312,7 +7365,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "陈婷婷",
-            "EN": "陈婷婷"
+            "EN": "陈婷婷",
+            "RU": "陈婷婷"
         }
     },
     "Diona": {
@@ -7362,7 +7416,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "诺亚",
-            "EN": "诺亚"
+            "EN": "诺亚",
+            "RU": "诺亚"
         }
     },
     "Albedo": {
@@ -7412,7 +7467,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "Mace",
-            "EN": "Mace"
+            "EN": "Mace",
+            "RU": "Mace"
         }
     },
     "Ganyu": {
@@ -7462,7 +7518,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "林簌",
-            "EN": "林簌"
+            "EN": "林簌",
+            "RU": "林簌"
         }
     },
     "Chongyun": {
@@ -7512,7 +7569,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "kinsen",
-            "EN": "kinsen"
+            "EN": "kinsen",
+            "RU": "kinsen"
         }
     },
     "Qiqi": {
@@ -7562,7 +7620,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "宴宁",
-            "EN": "宴宁"
+            "EN": "宴宁",
+            "RU": "宴宁"
         }
     },
     "Noel": {
@@ -7612,7 +7671,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "宴宁",
-            "EN": "宴宁"
+            "EN": "宴宁",
+            "RU": "宴宁"
         }
     },
     "Tartaglia": {
@@ -7662,7 +7722,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "鱼冻",
-            "EN": "鱼冻"
+            "EN": "鱼冻",
+            "RU": "鱼冻"
         }
     },
     "Bennett": {
@@ -7712,7 +7773,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "穆雪婷",
-            "EN": "穆雪婷"
+            "EN": "穆雪婷",
+            "RU": "穆雪婷"
         }
     },
     "Fischl": {
@@ -7762,7 +7824,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "Mace&赵悦程",
-            "EN": "Mace & 赵悦程"
+            "EN": "Mace & 赵悦程",
+            "RU": "Mace&赵悦程"
         }
     },
     "Zhongli": {
@@ -7812,7 +7875,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "彭博",
-            "EN": "彭博"
+            "EN": "彭博",
+            "RU": "彭博"
         }
     },
     "Klee": {
@@ -7862,7 +7926,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "花玲",
-            "EN": "花玲"
+            "EN": "花玲",
+            "RU": "花玲"
         }
     },
     "Ningguang": {
@@ -7912,7 +7977,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "杜冥鸦",
-            "EN": "杜冥鸦"
+            "EN": "杜冥鸦",
+            "RU": "杜冥鸦"
         }
     },
     "Xiao": {
@@ -7962,7 +8028,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "kinsen",
-            "EN": "kinsen"
+            "EN": "kinsen",
+            "RU": "kinsen"
         }
     },
     "Xingqiu": {
@@ -8012,7 +8079,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "唐雅菁",
-            "EN": "唐雅菁"
+            "EN": "唐雅菁",
+            "RU": "唐雅菁"
         }
     },
     "Beidou": {
@@ -8062,7 +8130,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "唐雅菁",
-            "EN": "唐雅菁"
+            "EN": "唐雅菁",
+            "RU": "唐雅菁"
         }
     },
     "Xiangling": {
@@ -8112,7 +8181,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "小N",
-            "EN": "小N"
+            "EN": "小N",
+            "RU": "小N"
         }
     },
     "Venti": {
@@ -8162,7 +8232,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "喵酱",
-            "EN": "喵酱"
+            "EN": "喵酱",
+            "RU": "喵酱"
         }
     },
     "Ambor": {
@@ -8212,7 +8283,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "蔡书瑾",
-            "EN": "蔡书瑾"
+            "EN": "蔡书瑾",
+            "RU": "蔡书瑾"
         }
     },
     "Razor": {
@@ -8262,7 +8334,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "周帅",
-            "EN": "周帅"
+            "EN": "周帅",
+            "RU": "周帅"
         }
     },
     "Diluc": {
@@ -8312,7 +8385,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "马洋",
-            "EN": "马洋"
+            "EN": "马洋",
+            "RU": "马洋"
         }
     },
     "Kaeya": {
@@ -8362,7 +8436,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "孙晔",
-            "EN": "孙晔"
+            "EN": "孙晔",
+            "RU": "孙晔"
         }
     },
     "Barbara": {
@@ -8412,7 +8487,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "宋媛媛",
-            "EN": "宋媛媛"
+            "EN": "宋媛媛",
+            "RU": "宋媛媛"
         }
     },
     "Lisa": {
@@ -8462,7 +8538,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "钟可",
-            "EN": "钟可"
+            "EN": "钟可",
+            "RU": "钟可"
         }
     },
     "Qin": {
@@ -8512,7 +8589,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "林簌",
-            "EN": "林簌"
+            "EN": "林簌",
+            "RU": "林簌"
         }
     },
     "Ayaka": {
@@ -8562,7 +8640,8 @@ var _AvatarPromoteConfig = {
         ],
         "CV": {
             "CH": "小N",
-            "EN": "小N"
+            "EN": "小N",
+            "RU": "小N"
         }
     },
     "PlayerGirl_Wind": {
@@ -18754,33 +18833,46 @@ var acs_cache = {
 var index_avatar = {
     "KEQING": 42,
     "刻晴": 42,
+    "КЭЦИН": 42,
     "CHIORI": 94,
     "千织": 94,
+    "ТИОРИ": 94,
     "LIUYUN": 93,
     "闲云": 93,
     "XIANYUN": 93,
+    "СЯНЬЮНЬ": 93,
     "GAMING": 92,
     "嘉明": 92,
+    "КАМИН": 92,
     "NAVIA": 91,
     "娜维娅": 91,
+    "НАВИЯ": 91,
     "CHEVREUSE": 90,
     "夏沃蕾": 90,
+    "ШЕВРЁЗ": 90,
     "FURINA": 89,
     "芙宁娜": 89,
+    "ФУРИНА": 89,
     "CHARLOTTE": 88,
     "夏洛蒂": 88,
+    "ШАРЛОТТА": 88,
     "NEUVILLETTE": 87,
     "那维莱特": 87,
+    "НЁВИЛЛЕТ": 87,
     "WRIOTHESLEY": 86,
     "莱欧斯利": 86,
+    "РИЗЛИ": 86,
     "FREMINET": 85,
     "菲米尼": 85,
+    "ФРЕМИНЕ": 85,
     "LINEY": 84,
     "林尼": 84,
     "LYNEY": 84,
+    "ЛИНИ": 84,
     "LINETTE": 83,
     "琳妮特": 83,
     "LYNETTE": 83,
+    "ЛИНЕТТ": 83,
     "PLAYERGIRLWATER": 705,
     "旅行者水": 505,
     "TRAVELERHYDRO": 505,
@@ -18788,40 +18880,57 @@ var index_avatar = {
     "MOMOKA": 61,
     "绮良良": 61,
     "KIRARA": 61,
+    "КИРАРА": 61,
     "BAIZHUER": 82,
     "白术": 82,
     "BAIZHU": 82,
+    "БАЙЧЖУ": 82,
     "KAVEH": 81,
     "卡维": 81,
+    "КАВЕХ": 81,
     "MIKA": 80,
     "米卡": 80,
+    "МИКА": 80,
     "DEHYA": 79,
     "迪希雅": 79,
+    "ДЭХЬЯ": 79,
     "ALHATHAM": 78,
     "艾尔海森": 78,
     "ALHAITHAM": 78,
+    "АЛЬХАЙТАМ": 78,
     "YAOYAO": 77,
     "瑶瑶": 77,
+    "ЯОЯО": 77,
     "FARUZAN": 76,
     "珐露珊": 76,
+    "ФАРУЗАН": 76,
     "WANDERER": 75,
     "流浪者": 75,
+    "СТРАННИК": 75,
     "LAYLA": 74,
     "莱依拉": 74,
+    "ЛАЙЛА": 74,
     "NAHIDA": 73,
     "纳西妲": 73,
+    "НАХИДА": 73,
     "CANDACE": 72,
     "坎蒂丝": 72,
+    "КАНДАКИЯ": 72,
     "CYNO": 71,
     "赛诺": 71,
+    "САЙНО": 71,
     "NILOU": 70,
     "妮露": 70,
+    "НИЛУ": 70,
     "TIGHNARI": 69,
     "提纳里": 69,
+    "ТИГНАРИ": 69,
     "DORI": 68,
     "多莉": 68,
+    "ДОРИ": 68,
     "COLLEI": 67,
     "柯莱": 67,
+    "КОЛЛЕИ": 67,
     "PLAYERGIRLGRASS": 704,
     "旅行者草": 504,
     "TRAVELERDENDRO": 504,
@@ -18829,47 +18938,64 @@ var index_avatar = {
     "HEIZO": 59,
     "鹿野院平藏": 59,
     "SHIKANOINHEIZOU": 59,
+    "ХЭЙДЗО": 59,
     "SHINOBU": 65,
     "久岐忍": 65,
     "KUKISHINOBU": 65,
+    "СИНОБУ": 65,
     "YELAN": 60,
     "夜兰": 60,
+    "ЕЛАНЬ": 60,
     "AYATO": 66,
     "神里绫人": 66,
     "KAMISATOAYATO": 66,
+    "АЯТО": 66,
     "YAE": 58,
     "八重神子": 58,
     "YAEMIKO": 58,
+    "ЯЭМИКО": 58,
     "YUNJIN": 64,
     "云堇": 64,
+    "ЮНЬЦЗИНЬ": 64,
     "SHENHE": 63,
     "申鹤": 63,
+    "ШЭНЬХЭ": 63,
     "ITTO": 57,
     "荒泷一斗": 57,
     "ARATAKIITTO": 57,
+    "ИТТО": 57,
     "GOROU": 55,
     "五郎": 55,
+    "ГОРО": 55,
     "TOHMA": 50,
     "托马": 50,
     "THOMA": 50,
+    "ТОМА": 50,
     "ALOY": 62,
     "埃洛伊": 62,
+    "ЭЛОЙ": 62,
     "SARA": 56,
     "九条裟罗": 56,
     "KUJOUSARA": 56,
+    "САРА": 56,
     "KOKOMI": 54,
     "珊瑚宫心海": 54,
     "SANGONOMIYAKOKOMI": 54,
+    "КОКОМИ": 54,
     "SHOUGUN": 52,
     "雷电将军": 52,
     "RAIDENSHOGUN": 52,
+    "РАЙДЭН": 52,
     "SAYU": 53,
     "早柚": 53,
+    "САЮ": 53,
     "YOIMIYA": 49,
     "宵宫": 49,
+    "ЁИМИЯ": 49,
     "AYAKA": 2,
     "神里绫华": 2,
     "KAMISATOAYAKA": 2,
+    "АЯКА": 2,
     "PLAYERGIRLELEC": 703,
     "旅行者雷": 503,
     "TRAVELERELECTRO": 503,
@@ -18877,72 +19003,104 @@ var index_avatar = {
     "KAZUHA": 47,
     "枫原万叶": 47,
     "KAEDEHARAKAZUHA": 47,
+    "КАДЗУХА": 47,
     "EULA": 51,
     "优菈": 51,
+    "ЭОЛА": 51,
     "FEIYAN": 48,
     "烟绯": 48,
     "YANFEI": 48,
+    "ЯНЬФЭЙ": 48,
     "ROSARIA": 45,
     "罗莎莉亚": 45,
+    "РОЗАРИЯ": 45,
     "HUTAO": 46,
     "胡桃": 46,
+    "ХУТАО": 46,
     "XIAO": 26,
     "魈": 26,
+    "СЯО": 26,
     "ALBEDO": 38,
     "阿贝多": 38,
+    "АЛЬБЕДО": 38,
     "GANYU": 37,
     "甘雨": 37,
+    "ГАНЬЮЙ": 37,
     "XINYAN": 44,
     "辛焱": 44,
+    "СИНЬЯНЬ": 44,
     "DIONA": 39,
     "迪奥娜": 39,
+    "ДИОНА": 39,
     "TARTAGLIA": 33,
     "达达利亚": 33,
+    "ТАРТАЛЬЯ": 33,
     "ZHONGLI": 30,
     "钟离": 30,
+    "ЧЖУНЛИ": 30,
     "SUCROSE": 43,
     "砂糖": 43,
+    "САХАРОЗА": 43,
     "MONA": 41,
     "莫娜": 41,
+    "МОНА": 41,
     "CHONGYUN": 36,
     "重云": 36,
+    "ЧУНЮНЬ": 36,
     "QIQI": 35,
     "七七": 35,
+    "ЦИЦИ": 35,
     "NOEL": 34,
     "诺艾尔": 34,
     "NOELLE": 34,
+    "НОЭЛЛЬ": 34,
     "BENNETT": 32,
     "班尼特": 32,
+    "БЕННЕТ": 32,
     "FISCHL": 31,
     "菲谢尔": 31,
+    "ФИШЛЬ": 31,
     "KLEE": 29,
     "可莉": 29,
+    "КЛИ": 29,
     "NINGGUANG": 27,
     "凝光": 27,
+    "НИНГУАН": 27,
     "XINGQIU": 25,
     "行秋": 25,
+    "СИНЦЮ": 25,
     "BEIDOU": 24,
     "北斗": 24,
+    "БЭЙДОУ": 24,
     "XIANGLING": 23,
     "香菱": 23,
+    "СЯНЛИН": 23,
     "VENTI": 22,
     "温迪": 22,
+    "ВЕНТИ": 22,
     "AMBOR": 21,
     "安柏": 21,
     "AMBER": 21,
+    "ЭМБЕР": 21,
     "RAZOR": 20,
     "雷泽": 20,
+    "РЭЙЗОР": 20,
     "DILUC": 16,
     "迪卢克": 16,
+    "ДИЛЮК": 16,
     "KAEYA": 15,
     "凯亚": 15,
+    "КЭЙА": 15,
     "BARBARA": 14,
     "芭芭拉": 14,
+    "БАРБАРА": 14,
     "LISA": 6,
     "丽莎": 6,
+    "ЛИЗА": 6,
     "QIN": 3,
     "琴": 3,
     "JEAN": 3,
+    "ДЖИНН": 3,
     "PLAYERGIRLWIND": 701,
     "旅行者风": 501,
     "TRAVELERANEMO": 501,

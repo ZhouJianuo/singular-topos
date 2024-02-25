@@ -31,7 +31,7 @@ $(function () {
     })
 
     let script_computer = document.createElement('script')
-    script_computer.src = '/data/' + lang + '/Rec.js'
+    script_computer.src = '/data/' + lang2 + '/Rec.js'
     document.head.append(script_computer)
     script_computer.onload = begin
 

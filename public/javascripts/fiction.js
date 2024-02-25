@@ -26,7 +26,7 @@ $(function () {
     var HIDE_SHOW = 0
 
     let script_computer = document.createElement('script')
-    script_computer.src = '/data/' + lang + '/Fiction.js'
+    script_computer.src = '/data/' + lang2 + '/Fiction.js'
     document.head.append(script_computer)
     script_computer.onload = begin
 

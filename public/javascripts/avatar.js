@@ -106,7 +106,7 @@ $(function () {
     if ($("#UPDATE").val()) cl_show = 1
 
     let script_computer = document.createElement('script')
-    script_computer.src = '/gi/' + lang + '/avatar_1.js'
+    script_computer.src = '/gi/' + lang2 + '/avatar_1.js'
     document.head.append(script_computer)
     script_computer.onload = begin
 
@@ -119,17 +119,17 @@ $(function () {
         a_4 = 0
 
         let script_2 = document.createElement('script')
-        script_2.src = '/gi/' + lang + '/avatar_2.js'
+        script_2.src = '/gi/' + lang2 + '/avatar_2.js'
         document.head.append(script_2)
         script_2.onload = function () {
             a_2 = 1
             let script_3 = document.createElement('script')
-            script_3.src = '/gi/' + lang + '/avatar_3.js'
+            script_3.src = '/gi/' + lang2 + '/avatar_3.js'
             document.head.append(script_3)
             script_3.onload = function () {
                 a_3 = 1
                 let script_4 = document.createElement('script')
-                script_4.src = '/gi/' + lang + '/avatar_4.js'
+                script_4.src = '/gi/' + lang2 + '/avatar_4.js'
                 document.head.append(script_4)
                 script_4.onload = function () {
                     a_4 = 1

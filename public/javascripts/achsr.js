@@ -20,7 +20,7 @@ $(function () {
     var cur_ver = ''
 
     let script_computer = document.createElement('script')
-    script_computer.src = '/data/' + lang + '/Achievement.js'
+    script_computer.src = '/data/' + lang2 + '/Achievement.js'
     document.head.append(script_computer)
     script_computer.onload = begin
 
