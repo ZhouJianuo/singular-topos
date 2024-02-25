@@ -46,6 +46,12 @@ var __AvatarInfoConfig = [
         },
         "Version": "9.0",
         "Fetter": 42,
+        "_CV": {
+            "_CH": "谢莹",
+            "_EN": "喜多村英梨",
+            "_JP": "凯莉 · 米尔斯",
+            "_KR": "李甫熙"
+        },
         "Note": "4.5v4"
     },
     {
@@ -92,7 +98,13 @@ var __AvatarInfoConfig = [
             "Norm": 26134
         },
         "Version": "<b>4.5v4</b>",
-        "Fetter": 94
+        "Fetter": 94,
+        "_CV": {
+            "_CH": "？？？",
+            "_EN": "？？？",
+            "_JP": "？？？",
+            "_KR": "？？？"
+        }
     },
     {
         "_name": "Liuyun",
@@ -138,7 +150,13 @@ var __AvatarInfoConfig = [
             "Norm": 21492
         },
         "Version": "4.4",
-        "Fetter": 93
+        "Fetter": 93,
+        "_CV": {
+            "_CH": "秦紫翼",
+            "_EN": "中臣真菜",
+            "_JP": "史蒂芬妮 · 帕尼塞洛",
+            "_KR": "姜炫瑞"
+        }
     },
     {
         "_name": "Gaming",
@@ -184,7 +202,13 @@ var __AvatarInfoConfig = [
             "Norm": 23274
         },
         "Version": "4.4",
-        "Fetter": 92
+        "Fetter": 92,
+        "_CV": {
+            "_CH": "谢莹",
+            "_EN": "小松昌平",
+            "_JP": "殷嘉乐",
+            "_KR": "金润气"
+        }
     },
     {
         "_name": "Navia",
@@ -230,7 +254,13 @@ var __AvatarInfoConfig = [
             "Norm": 26207
         },
         "Version": "4.3",
-        "Fetter": 91
+        "Fetter": 91,
+        "_CV": {
+            "_CH": "小敢",
+            "_EN": "丰崎爱生",
+            "_JP": "布伦娜 · 拉森",
+            "_KR": "丁海恩"
+        }
     },
     {
         "_name": "Chevreuse",
@@ -276,7 +306,13 @@ var __AvatarInfoConfig = [
             "Norm": 21102
         },
         "Version": "4.3",
-        "Fetter": 90
+        "Fetter": 90,
+        "_CV": {
+            "_CH": "潘丹妮",
+            "_EN": "下地紫野",
+            "_JP": "艾丽卡 · 林德贝克",
+            "_KR": "蔡敏智"
+        }
     },
     {
         "_name": "Furina",
@@ -322,7 +358,13 @@ var __AvatarInfoConfig = [
             "Norm": 26166
         },
         "Version": "4.2",
-        "Fetter": 89
+        "Fetter": 89,
+        "_CV": {
+            "_CH": "钱琛",
+            "_EN": "水濑祈",
+            "_JP": "安柏 · 李 · 康纳斯",
+            "_KR": "金荷英"
+        }
     },
     {
         "_name": "Charlotte",
@@ -368,7 +410,13 @@ var __AvatarInfoConfig = [
             "Norm": 18996
         },
         "Version": "4.2",
-        "Fetter": 88
+        "Fetter": 88,
+        "_CV": {
+            "_CH": "阮从青",
+            "_EN": "和气杏未",
+            "_JP": "玛雅 · 奥吉 · 塔图",
+            "_KR": "辛温柔"
+        }
     },
     {
         "_name": "Neuvillette",
@@ -414,7 +462,13 @@ var __AvatarInfoConfig = [
             "Norm": 23792
         },
         "Version": "4.1",
-        "Fetter": 87
+        "Fetter": 87,
+        "_CV": {
+            "_CH": "桑毓泽",
+            "_EN": "神谷浩史",
+            "_JP": "雷 · 查斯",
+            "_KR": "郭允相"
+        }
     },
     {
         "_name": "Wriothesley",
@@ -460,7 +514,13 @@ var __AvatarInfoConfig = [
             "Norm": 26200
         },
         "Version": "4.1",
-        "Fetter": 86
+        "Fetter": 86,
+        "_CV": {
+            "_CH": "刘北辰",
+            "_EN": "小野大辅",
+            "_JP": "乔 · 齐贾",
+            "_KR": "权昌旭"
+        }
     },
     {
         "_name": "Freminet",
@@ -506,7 +566,13 @@ var __AvatarInfoConfig = [
             "Norm": 23234
         },
         "Version": "4.0",
-        "Fetter": 85
+        "Fetter": 85,
+        "_CV": {
+            "_CH": "锦鲤",
+            "_EN": "土岐隼一",
+            "_JP": "小保罗 · 卡斯特罗",
+            "_KR": "李周承"
+        }
     },
     {
         "_name": "Liney",
@@ -552,7 +618,13 @@ var __AvatarInfoConfig = [
             "Norm": 21491
         },
         "Version": "4.0",
-        "Fetter": 84
+        "Fetter": 84,
+        "_CV": {
+            "_CH": "锦鲤",
+            "_EN": "下野纮",
+            "_JP": "达曼 · 米尔斯",
+            "_KR": "朴成楹"
+        }
     },
     {
         "_name": "Linette",
@@ -598,7 +670,13 @@ var __AvatarInfoConfig = [
             "Norm": 23220
         },
         "Version": "4.0",
-        "Fetter": 83
+        "Fetter": 83,
+        "_CV": {
+            "_CH": "可可味",
+            "_EN": "篠原侑",
+            "_JP": "阿奈丽丝 · 基尼奥内斯",
+            "_KR": "李瑟琳娜"
+        }
     },
     {
         "_name": "PlayerGirl_Water",
@@ -728,7 +806,13 @@ var __AvatarInfoConfig = [
             "Norm": 21208
         },
         "Version": "3.7",
-        "Fetter": 61
+        "Fetter": 61,
+        "_CV": {
+            "_CH": "孙艳琦",
+            "_EN": "铃代纱弓",
+            "_JP": "谷丽雅",
+            "_KR": "姜恩爱"
+        }
     },
     {
         "_name": "Baizhuer",
@@ -774,7 +858,13 @@ var __AvatarInfoConfig = [
             "Norm": 21424
         },
         "Version": "3.6",
-        "Fetter": 82
+        "Fetter": 82,
+        "_CV": {
+            "_CH": "秦且歌&王晓彤",
+            "_EN": "游佐浩二&庄子裕衣",
+            "_JP": "肖恩 · 杜里&赞茜 · 黄",
+            "_KR": "李镐山&张美"
+        }
     },
     {
         "_name": "Kaveh",
@@ -820,7 +910,13 @@ var __AvatarInfoConfig = [
             "Norm": 23208
         },
         "Version": "3.6",
-        "Fetter": 81
+        "Fetter": 81,
+        "_CV": {
+            "_CH": "刘三木",
+            "_EN": "内田雄马",
+            "_JP": "本 · 巴尔马塞达",
+            "_KR": "李桢敏"
+        }
     },
     {
         "_name": "Mika",
@@ -866,7 +962,13 @@ var __AvatarInfoConfig = [
             "Norm": 23207
         },
         "Version": "3.5",
-        "Fetter": 80
+        "Fetter": 80,
+        "_CV": {
+            "_CH": "邓宥希",
+            "_EN": "三瓶由布子",
+            "_JP": "罗布 · 莫雷拉",
+            "_KR": "尹垠舒"
+        }
     },
     {
         "_name": "Dehya",
@@ -912,7 +1014,13 @@ var __AvatarInfoConfig = [
             "Norm": 26202
         },
         "Version": "3.5",
-        "Fetter": 79
+        "Fetter": 79,
+        "_CV": {
+            "_CH": "陈雨",
+            "_EN": "福原绫香",
+            "_JP": "安柏 · 梅",
+            "_KR": "金琄心"
+        }
     },
     {
         "_name": "Alhatham",
@@ -958,7 +1066,13 @@ var __AvatarInfoConfig = [
             "Norm": 26177
         },
         "Version": "3.4",
-        "Fetter": 78
+        "Fetter": 78,
+        "_CV": {
+            "_CH": "杨超然",
+            "_EN": "梅原裕一郎",
+            "_JP": "纳齐耶 · 塔尔沙",
+            "_KR": "田昇和"
+        }
     },
     {
         "_name": "Yaoyao",
@@ -1004,7 +1118,13 @@ var __AvatarInfoConfig = [
             "Norm": 23195
         },
         "Version": "3.4",
-        "Fetter": 77
+        "Fetter": 77,
+        "_CV": {
+            "_CH": "刘颐诺",
+            "_EN": "门胁舞以",
+            "_JP": "凯尔西 · 加法尔",
+            "_KR": "柳惠知"
+        }
     },
     {
         "_name": "Faruzan",
@@ -1050,7 +1170,13 @@ var __AvatarInfoConfig = [
             "Norm": 18993
         },
         "Version": "3.3",
-        "Fetter": 76
+        "Fetter": 76,
+        "_CV": {
+            "_CH": "阎萌萌",
+            "_EN": "堀江由衣",
+            "_JP": "婵达妮 · 帕雷克",
+            "_KR": "金愈琳"
+        }
     },
     {
         "_name": "Wanderer",
@@ -1096,7 +1222,13 @@ var __AvatarInfoConfig = [
             "Norm": 21478
         },
         "Version": "3.3",
-        "Fetter": 75
+        "Fetter": 75,
+        "_CV": {
+            "_CH": "鹿喑",
+            "_EN": "柿原彻也",
+            "_JP": "帕特里克 · 佩德拉萨",
+            "_KR": "闵丞釪"
+        }
     },
     {
         "_name": "Layla",
@@ -1142,7 +1274,13 @@ var __AvatarInfoConfig = [
             "Norm": 21111
         },
         "Version": "3.2",
-        "Fetter": 74
+        "Fetter": 74,
+        "_CV": {
+            "_CH": "侯小菲",
+            "_EN": "富田美忧",
+            "_JP": "阿希礼 · 比斯琪",
+            "_KR": "姜新春"
+        }
     },
     {
         "_name": "Nahida",
@@ -1188,7 +1326,13 @@ var __AvatarInfoConfig = [
             "Norm": 21446
         },
         "Version": "3.2",
-        "Fetter": 73
+        "Fetter": 73,
+        "_CV": {
+            "_CH": "花玲",
+            "_EN": "田村由加莉",
+            "_JP": "金伯利 · 安妮 · 坎贝尔",
+            "_KR": "朴恃奫"
+        }
     },
     {
         "_name": "Candace",
@@ -1234,7 +1378,13 @@ var __AvatarInfoConfig = [
             "Norm": 21098
         },
         "Version": "3.1",
-        "Fetter": 72
+        "Fetter": 72,
+        "_CV": {
+            "_CH": "张琦",
+            "_EN": "柚木凉香",
+            "_JP": "莎蕾 · 科尔比",
+            "_KR": "全暎洙"
+        }
     },
     {
         "_name": "Cyno",
@@ -1280,7 +1430,13 @@ var __AvatarInfoConfig = [
             "Norm": 26173
         },
         "Version": "3.1",
-        "Fetter": 71
+        "Fetter": 71,
+        "_CV": {
+            "_CH": "李轻扬",
+            "_EN": "入野自由",
+            "_JP": "亚历杭德罗 · 萨博",
+            "_KR": "李宇梨"
+        }
     },
     {
         "_name": "Nilou",
@@ -1326,7 +1482,13 @@ var __AvatarInfoConfig = [
             "Norm": 26145
         },
         "Version": "3.1",
-        "Fetter": 70
+        "Fetter": 70,
+        "_CV": {
+            "_CH": "紫苏九月",
+            "_EN": "金元寿子",
+            "_JP": "丹妮 · 钱伯斯",
+            "_KR": "䌽玪"
+        }
     },
     {
         "_name": "Tighnari",
@@ -1372,7 +1534,13 @@ var __AvatarInfoConfig = [
             "Norm": 21438
         },
         "Version": "3.0",
-        "Fetter": 69
+        "Fetter": 69,
+        "_CV": {
+            "_CH": "莫然",
+            "_EN": "小林沙苗",
+            "_JP": "扎克瑞 · 戈登",
+            "_KR": "郑义宅"
+        }
     },
     {
         "_name": "Dori",
@@ -1418,7 +1586,13 @@ var __AvatarInfoConfig = [
             "Norm": 23200
         },
         "Version": "3.0",
-        "Fetter": 68
+        "Fetter": 68,
+        "_CV": {
+            "_CH": "王晓彤",
+            "_EN": "金田朋子",
+            "_JP": "安洁丽 · 库娜帕内妮",
+            "_KR": "李明浩"
+        }
     },
     {
         "_name": "Collei",
@@ -1464,7 +1638,13 @@ var __AvatarInfoConfig = [
             "Norm": 18988
         },
         "Version": "3.0",
-        "Fetter": 67
+        "Fetter": 67,
+        "_CV": {
+            "_CH": "秦文静",
+            "_EN": "前川凉子",
+            "_JP": "克里斯蒂娜 · 科斯特洛",
+            "_KR": "房翅于"
+        }
     },
     {
         "_name": "PlayerGirl_Grass",
@@ -1594,7 +1774,13 @@ var __AvatarInfoConfig = [
             "Norm": 21099
         },
         "Version": "2.8",
-        "Fetter": 59
+        "Fetter": 59,
+        "_CV": {
+            "_CH": "林景",
+            "_EN": "井口祐一",
+            "_JP": "凯伊冉 · 里根",
+            "_KR": "郑义陈"
+        }
     },
     {
         "_name": "Shinobu",
@@ -1640,7 +1826,13 @@ var __AvatarInfoConfig = [
             "Norm": 23195
         },
         "Version": "2.7",
-        "Fetter": 65
+        "Fetter": 65,
+        "_CV": {
+            "_CH": "杨凝",
+            "_EN": "水桥香织",
+            "_JP": "基拉 · 巴克兰德",
+            "_KR": "金燏"
+        }
     },
     {
         "_name": "Yelan",
@@ -1686,7 +1878,13 @@ var __AvatarInfoConfig = [
             "Norm": 23833
         },
         "Version": "2.7",
-        "Fetter": 60
+        "Fetter": 60,
+        "_CV": {
+            "_CH": "徐慧",
+            "_EN": "远藤绫",
+            "_JP": "劳拉 · 波斯特",
+            "_KR": "玟我"
+        }
     },
     {
         "_name": "Ayato",
@@ -1732,7 +1930,13 @@ var __AvatarInfoConfig = [
             "Norm": 26185
         },
         "Version": "2.6",
-        "Fetter": 66
+        "Fetter": 66,
+        "_CV": {
+            "_CH": "赵路",
+            "_EN": "石田彰",
+            "_JP": "克里斯 · 哈克尼",
+            "_KR": "张民赫"
+        }
     },
     {
         "_name": "Yae",
@@ -1778,7 +1982,13 @@ var __AvatarInfoConfig = [
             "Norm": 21494
         },
         "Version": "2.5",
-        "Fetter": 58
+        "Fetter": 58,
+        "_CV": {
+            "_CH": "杜冥鸦",
+            "_EN": "佐仓绫音",
+            "_JP": "拉塔纳",
+            "_KR": "文维贞"
+        }
     },
     {
         "_name": "Yunjin",
@@ -1824,7 +2034,13 @@ var __AvatarInfoConfig = [
             "Norm": 21060
         },
         "Version": "2.4",
-        "Fetter": 64
+        "Fetter": 64,
+        "_CV": {
+            "_CH": "贺文潇&杨扬",
+            "_EN": "小岩井小鸟&杨扬",
+            "_JP": "朱蒂 · 艾丽丝 · 李&杨扬",
+            "_KR": "史文英&杨扬"
+        }
     },
     {
         "_name": "Shenhe",
@@ -1870,7 +2086,13 @@ var __AvatarInfoConfig = [
             "Norm": 26153
         },
         "Version": "2.4",
-        "Fetter": 63
+        "Fetter": 63,
+        "_CV": {
+            "_CH": "秦紫翼",
+            "_EN": "川澄绫子",
+            "_JP": "切尔希 · 克沃卡",
+            "_KR": "李贤真"
+        }
     },
     {
         "_name": "Itto",
@@ -1916,7 +2138,13 @@ var __AvatarInfoConfig = [
             "Norm": 26085
         },
         "Version": "2.3",
-        "Fetter": 57
+        "Fetter": 57,
+        "_CV": {
+            "_CH": "刘照坤",
+            "_EN": "西川贵教",
+            "_JP": "马克斯 · 迈特尔曼",
+            "_KR": "宋埈硕"
+        }
     },
     {
         "_name": "Gorou",
@@ -1962,7 +2190,13 @@ var __AvatarInfoConfig = [
             "Norm": 18976
         },
         "Version": "2.3",
-        "Fetter": 55
+        "Fetter": 55,
+        "_CV": {
+            "_CH": "杨昕燃",
+            "_EN": "畠中祐",
+            "_JP": "科里 · 易",
+            "_KR": "李晓"
+        }
     },
     {
         "_name": "Tohma",
@@ -2008,7 +2242,13 @@ var __AvatarInfoConfig = [
             "Norm": 21067
         },
         "Version": "2.2",
-        "Fetter": 50
+        "Fetter": 50,
+        "_CV": {
+            "_CH": "张沛",
+            "_EN": "森田成一",
+            "_JP": "克里斯蒂安 · 巴纳斯",
+            "_KR": "柳承坤"
+        }
     },
     {
         "_name": "Aloy",
@@ -2054,7 +2294,13 @@ var __AvatarInfoConfig = [
             "Norm": 21405
         },
         "Version": "2.1",
-        "Fetter": 62
+        "Fetter": 62,
+        "_CV": {
+            "_CH": "沐霏",
+            "_EN": "高垣彩阳",
+            "_JP": "——",
+            "_KR": "赵玄正"
+        }
     },
     {
         "_name": "Sara",
@@ -2100,7 +2346,13 @@ var __AvatarInfoConfig = [
             "Norm": 18976
         },
         "Version": "2.1",
-        "Fetter": 56
+        "Fetter": 56,
+        "_CV": {
+            "_CH": "杨梦露",
+            "_EN": "濑户麻沙美",
+            "_JP": "珍妮 · 迪拉多",
+            "_KR": "文支映"
+        }
     },
     {
         "_name": "Kokomi",
@@ -2146,7 +2398,13 @@ var __AvatarInfoConfig = [
             "Norm": 23792
         },
         "Version": "2.1",
-        "Fetter": 54
+        "Fetter": 54,
+        "_CV": {
+            "_CH": "龟娘",
+            "_EN": "三森铃子",
+            "_JP": "林丽莎",
+            "_KR": "吕允美"
+        }
     },
     {
         "_name": "Shougun",
@@ -2192,7 +2450,13 @@ var __AvatarInfoConfig = [
             "Norm": 26196
         },
         "Version": "2.1",
-        "Fetter": 52
+        "Fetter": 52,
+        "_CV": {
+            "_CH": "菊花花",
+            "_EN": "泽城美雪",
+            "_JP": "安妮 · 雅科",
+            "_KR": "朴志㣧"
+        }
     },
     {
         "_name": "Sayu",
@@ -2238,7 +2502,13 @@ var __AvatarInfoConfig = [
             "Norm": 23208
         },
         "Version": "2.0",
-        "Fetter": 53
+        "Fetter": 53,
+        "_CV": {
+            "_CH": "Sakula小舞",
+            "_EN": "洲崎绫",
+            "_JP": "莉莉 · 奇",
+            "_KR": "李智贤"
+        }
     },
     {
         "_name": "Yoimiya",
@@ -2284,7 +2554,13 @@ var __AvatarInfoConfig = [
             "Norm": 21479
         },
         "Version": "2.0",
-        "Fetter": 49
+        "Fetter": 49,
+        "_CV": {
+            "_CH": "金娜",
+            "_EN": "植田佳奈",
+            "_JP": "珍妮 · 橫堀",
+            "_KR": "朴信姬"
+        }
     },
     {
         "_name": "Ayaka",
@@ -2330,7 +2606,13 @@ var __AvatarInfoConfig = [
             "Norm": 26170
         },
         "Version": "2.0",
-        "Fetter": 2
+        "Fetter": 2,
+        "_CV": {
+            "_CH": "小N",
+            "_EN": "早见沙织",
+            "_JP": "艾丽卡 · 门德斯",
+            "_KR": "李侑俐"
+        }
     },
     {
         "_name": "PlayerGirl_Elec",
@@ -2460,7 +2742,13 @@ var __AvatarInfoConfig = [
             "Norm": 26163
         },
         "Version": "1.6",
-        "Fetter": 47
+        "Fetter": 47,
+        "_CV": {
+            "_CH": "斑马",
+            "_EN": "岛崎信长",
+            "_JP": "马克 · 威顿",
+            "_KR": "金信旴"
+        }
     },
     {
         "_name": "Eula",
@@ -2506,7 +2794,13 @@ var __AvatarInfoConfig = [
             "Norm": 26207
         },
         "Version": "1.5",
-        "Fetter": 51
+        "Fetter": 51,
+        "_CV": {
+            "_CH": "子音",
+            "_EN": "佐藤利奈",
+            "_JP": "素汐 · 杨",
+            "_KR": "金炫志"
+        }
     },
     {
         "_name": "Feiyan",
@@ -2552,7 +2846,13 @@ var __AvatarInfoConfig = [
             "Norm": 19062
         },
         "Version": "1.5",
-        "Fetter": 48
+        "Fetter": 48,
+        "_CV": {
+            "_CH": "苏子芜",
+            "_EN": "花守由美里",
+            "_JP": "莉琪 · 弗里曼",
+            "_KR": "赵京洢"
+        }
     },
     {
         "_name": "Rosaria",
@@ -2598,7 +2898,13 @@ var __AvatarInfoConfig = [
             "Norm": 23227
         },
         "Version": "1.4",
-        "Fetter": 45
+        "Fetter": 45,
+        "_CV": {
+            "_CH": "张安琪",
+            "_EN": "加隈亚衣",
+            "_JP": "伊丽莎白 · 麦克斯韦",
+            "_KR": "金洑娜"
+        }
     },
     {
         "_name": "Hutao",
@@ -2644,7 +2950,13 @@ var __AvatarInfoConfig = [
             "Norm": 26017
         },
         "Version": "1.3",
-        "Fetter": 46
+        "Fetter": 46,
+        "_CV": {
+            "_CH": "陶典",
+            "_EN": "高桥李依",
+            "_JP": "布丽安娜 · 尼克博克",
+            "_KR": "金贺娄"
+        }
     },
     {
         "_name": "Xiao",
@@ -2690,7 +3002,13 @@ var __AvatarInfoConfig = [
             "Norm": 26316
         },
         "Version": "1.3",
-        "Fetter": 26
+        "Fetter": 26,
+        "_CV": {
+            "_CH": "kinsen",
+            "_EN": "松冈祯丞",
+            "_JP": "莱拉 · 贝尔津什",
+            "_KR": "沈揆赫"
+        }
     },
     {
         "_name": "Albedo",
@@ -2736,7 +3054,13 @@ var __AvatarInfoConfig = [
             "Norm": 26005
         },
         "Version": "1.2",
-        "Fetter": 38
+        "Fetter": 38,
+        "_CV": {
+            "_CH": "Mace",
+            "_EN": "野岛健儿",
+            "_JP": "科伊 · 道",
+            "_KR": "金明俊"
+        }
     },
     {
         "_name": "Ganyu",
@@ -2782,7 +3106,13 @@ var __AvatarInfoConfig = [
             "Norm": 21456
         },
         "Version": "1.2",
-        "Fetter": 37
+        "Fetter": 37,
+        "_CV": {
+            "_CH": "林簌",
+            "_EN": "上田丽奈",
+            "_JP": "珍妮佛 · 罗希",
+            "_KR": "金仙惠"
+        }
     },
     {
         "_name": "Xinyan",
@@ -2828,7 +3158,13 @@ var __AvatarInfoConfig = [
             "Norm": 23163
         },
         "Version": "1.1",
-        "Fetter": 44
+        "Fetter": 44,
+        "_CV": {
+            "_CH": "王雅欣",
+            "_EN": "高桥智秋",
+            "_JP": "劳拉 · 斯特尔",
+            "_KR": "金採河"
+        }
     },
     {
         "_name": "Diona",
@@ -2874,7 +3210,13 @@ var __AvatarInfoConfig = [
             "Norm": 18974
         },
         "Version": "1.1",
-        "Fetter": 39
+        "Fetter": 39,
+        "_CV": {
+            "_CH": "诺亚",
+            "_EN": "井泽诗织",
+            "_JP": "蒂娜 · 谢尔曼",
+            "_KR": "禹贞信"
+        }
     },
     {
         "_name": "Tartaglia",
@@ -2920,7 +3262,13 @@ var __AvatarInfoConfig = [
             "Norm": 26072
         },
         "Version": "1.1",
-        "Fetter": 33
+        "Fetter": 33,
+        "_CV": {
+            "_CH": "鱼冻",
+            "_EN": "木村良平",
+            "_JP": "格里芬 · 伯恩斯",
+            "_KR": "南度亨"
+        }
     },
     {
         "_name": "Zhongli",
@@ -2966,7 +3314,13 @@ var __AvatarInfoConfig = [
             "Norm": 26091
         },
         "Version": "1.1",
-        "Fetter": 30
+        "Fetter": 30,
+        "_CV": {
+            "_CH": "彭博",
+            "_EN": "前野智昭",
+            "_JP": "基思 · 西尔弗斯坦",
+            "_KR": "表永宰"
+        }
     },
     {
         "_name": "Sucrose",
@@ -3012,7 +3366,13 @@ var __AvatarInfoConfig = [
             "Norm": 18992
         },
         "Version": "1.0",
-        "Fetter": 43
+        "Fetter": 43,
+        "_CV": {
+            "_CH": "小敢",
+            "_EN": "藤田茜",
+            "_JP": "瓦莱里娅 · 罗德里格兹",
+            "_KR": "金荷英"
+        }
     },
     {
         "_name": "Mona",
@@ -3058,7 +3418,13 @@ var __AvatarInfoConfig = [
             "Norm": 21534
         },
         "Version": "1.0",
-        "Fetter": 41
+        "Fetter": 41,
+        "_CV": {
+            "_CH": "陈婷婷",
+            "_EN": "小原好美",
+            "_JP": "费丽茜娅 · 安吉尔",
+            "_KR": "禹贞信"
+        }
     },
     {
         "_name": "Chongyun",
@@ -3104,7 +3470,13 @@ var __AvatarInfoConfig = [
             "Norm": 21036
         },
         "Version": "1.0",
-        "Fetter": 36
+        "Fetter": 36,
+        "_CV": {
+            "_CH": "kinsen",
+            "_EN": "齐藤壮马",
+            "_JP": "博 · 布里奇兰德",
+            "_KR": "梁静花"
+        }
     },
     {
         "_name": "Qiqi",
@@ -3150,7 +3522,13 @@ var __AvatarInfoConfig = [
             "Norm": 26183
         },
         "Version": "1.0",
-        "Fetter": 35
+        "Fetter": 35,
+        "_CV": {
+            "_CH": "宴宁",
+            "_EN": "田村由加莉",
+            "_JP": "克莉斯蒂 · 凯特",
+            "_KR": "李露"
+        }
     },
     {
         "_name": "Noel",
@@ -3196,7 +3574,13 @@ var __AvatarInfoConfig = [
             "Norm": 23115
         },
         "Version": "1.0",
-        "Fetter": 34
+        "Fetter": 34,
+        "_CV": {
+            "_CH": "宴宁",
+            "_EN": "高尾奏音",
+            "_JP": "劳拉 · 费伊 · 史密斯",
+            "_KR": "李甫熙"
+        }
     },
     {
         "_name": "Bennett",
@@ -3242,7 +3626,13 @@ var __AvatarInfoConfig = [
             "Norm": 23168
         },
         "Version": "1.0",
-        "Fetter": 32
+        "Fetter": 32,
+        "_CV": {
+            "_CH": "穆雪婷",
+            "_EN": "逢坂良太",
+            "_JP": "克里斯蒂娜 · 比 · 巴伦苏埃拉",
+            "_KR": "宋河琳"
+        }
     },
     {
         "_name": "Fischl",
@@ -3288,7 +3678,13 @@ var __AvatarInfoConfig = [
             "Norm": 19035
         },
         "Version": "1.0",
-        "Fetter": 31
+        "Fetter": 31,
+        "_CV": {
+            "_CH": "Mace&赵悦程",
+            "_EN": "内田真礼&增谷康纪",
+            "_JP": "布兰特妮 · 考克斯&本 · 普罗斯基",
+            "_KR": "朴高夽&李弦"
+        }
     },
     {
         "_name": "Klee",
@@ -3334,7 +3730,13 @@ var __AvatarInfoConfig = [
             "Norm": 21410
         },
         "Version": "1.0",
-        "Fetter": 29
+        "Fetter": 29,
+        "_CV": {
+            "_CH": "花玲",
+            "_EN": "久野美咲",
+            "_JP": "帕娜姆 · 巴苏",
+            "_KR": "房莲知"
+        }
     },
     {
         "_name": "Ningguang",
@@ -3380,7 +3782,13 @@ var __AvatarInfoConfig = [
             "Norm": 18919
         },
         "Version": "1.0",
-        "Fetter": 27
+        "Fetter": 27,
+        "_CV": {
+            "_CH": "杜冥鸦",
+            "_EN": "大原沙耶香",
+            "_JP": "伊琳 · 艾伯丝",
+            "_KR": "郭奎媄"
+        }
     },
     {
         "_name": "Xingqiu",
@@ -3426,7 +3834,13 @@ var __AvatarInfoConfig = [
             "Norm": 21027
         },
         "Version": "1.0",
-        "Fetter": 25
+        "Fetter": 25,
+        "_CV": {
+            "_CH": "唐雅菁",
+            "_EN": "皆川纯子",
+            "_JP": "克里斯蒂娜 · 比 · 巴伦苏埃拉",
+            "_KR": "郭奎媄"
+        }
     },
     {
         "_name": "Beidou",
@@ -3472,7 +3886,13 @@ var __AvatarInfoConfig = [
             "Norm": 23136
         },
         "Version": "1.0",
-        "Fetter": 24
+        "Fetter": 24,
+        "_CV": {
+            "_CH": "唐雅菁",
+            "_EN": "小清水亚美",
+            "_JP": "阿莱格拉 · 克拉克",
+            "_KR": "郑柚美"
+        }
     },
     {
         "_name": "Xiangling",
@@ -3518,7 +3938,13 @@ var __AvatarInfoConfig = [
             "Norm": 21166
         },
         "Version": "1.0",
-        "Fetter": 23
+        "Fetter": 23,
+        "_CV": {
+            "_CH": "小N",
+            "_EN": "小泽亚李",
+            "_JP": "杰基 · 拉斯塔",
+            "_KR": "尹娥煐"
+        }
     },
     {
         "_name": "Venti",
@@ -3564,7 +3990,13 @@ var __AvatarInfoConfig = [
             "Norm": 21427
         },
         "Version": "1.0",
-        "Fetter": 22
+        "Fetter": 22,
+        "_CV": {
+            "_CH": "喵酱",
+            "_EN": "村濑步",
+            "_JP": "艾丽卡 · 哈拉彻",
+            "_KR": "郑侑廷"
+        }
     },
     {
         "_name": "Ambor",
@@ -3610,7 +4042,13 @@ var __AvatarInfoConfig = [
             "Norm": 19036
         },
         "Version": "1.0",
-        "Fetter": 21
+        "Fetter": 21,
+        "_CV": {
+            "_CH": "蔡书瑾",
+            "_EN": "石见舞菜香",
+            "_JP": "凯莉 · 巴斯金",
+            "_KR": "金延佑"
+        }
     },
     {
         "_name": "Razor",
@@ -3656,7 +4094,13 @@ var __AvatarInfoConfig = [
             "Norm": 23208
         },
         "Version": "1.0",
-        "Fetter": 20
+        "Fetter": 20,
+        "_CV": {
+            "_CH": "周帅",
+            "_EN": "内山昂辉",
+            "_JP": "托德 · 哈伯空",
+            "_KR": "金徐暎"
+        }
     },
     {
         "_name": "Diluc",
@@ -3702,7 +4146,13 @@ var __AvatarInfoConfig = [
             "Norm": 26178
         },
         "Version": "1.0",
-        "Fetter": 16
+        "Fetter": 16,
+        "_CV": {
+            "_CH": "马洋",
+            "_EN": "小野贤章",
+            "_JP": "肖恩 · 奇普洛克",
+            "_KR": "崔乘勋"
+        }
     },
     {
         "_name": "Kaeya",
@@ -3748,7 +4198,13 @@ var __AvatarInfoConfig = [
             "Norm": 23122
         },
         "Version": "1.0",
-        "Fetter": 15
+        "Fetter": 15,
+        "_CV": {
+            "_CH": "孙晔",
+            "_EN": "鸟海浩辅",
+            "_JP": "乔西 · 蒙塔纳 · 麦科伊",
+            "_KR": "郑周元"
+        }
     },
     {
         "_name": "Barbara",
@@ -3794,7 +4250,13 @@ var __AvatarInfoConfig = [
             "Norm": 19025
         },
         "Version": "1.0",
-        "Fetter": 14
+        "Fetter": 14,
+        "_CV": {
+            "_CH": "宋媛媛",
+            "_EN": "鬼头明里",
+            "_JP": "劳拉 · 斯特尔",
+            "_KR": "尹娥煐"
+        }
     },
     {
         "_name": "Lisa",
@@ -3840,7 +4302,13 @@ var __AvatarInfoConfig = [
             "Norm": 19007
         },
         "Version": "1.0",
-        "Fetter": 6
+        "Fetter": 6,
+        "_CV": {
+            "_CH": "钟可",
+            "_EN": "田中理惠",
+            "_JP": "玛拉 · 朱诺",
+            "_KR": "朴高夽"
+        }
     },
     {
         "_name": "Qin",
@@ -3886,7 +4354,13 @@ var __AvatarInfoConfig = [
             "Norm": 26207
         },
         "Version": "1.0",
-        "Fetter": 3
+        "Fetter": 3,
+        "_CV": {
+            "_CH": "林簌",
+            "_EN": "斋藤千和",
+            "_JP": "斯蒂芬妮 · 萨瑟兰",
+            "_KR": "安荣美"
+        }
     },
     {
         "_name": "PlayerGirl_Wind",

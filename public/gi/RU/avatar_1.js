@@ -46,6 +46,12 @@ var __AvatarInfoConfig = [
         },
         "Version": "9.0",
         "Fetter": 42,
+        "_CV": {
+            "_CH": "谢莹",
+            "_EN": "喜多村英梨",
+            "_JP": "Kayli Mills",
+            "_KR": "Lee Bo-hee"
+        },
         "Note": "4.5v4"
     },
     {
@@ -92,7 +98,13 @@ var __AvatarInfoConfig = [
             "Norm": 26134
         },
         "Version": "<b>4.5v4</b>",
-        "Fetter": 94
+        "Fetter": 94,
+        "_CV": {
+            "_CH": "？？？",
+            "_EN": "？？？",
+            "_JP": "？？？",
+            "_KR": "？？？"
+        }
     },
     {
         "_name": "Liuyun",
@@ -138,7 +150,13 @@ var __AvatarInfoConfig = [
             "Norm": 21492
         },
         "Version": "4.4",
-        "Fetter": 93
+        "Fetter": 93,
+        "_CV": {
+            "_CH": "秦紫翼",
+            "_EN": "中臣真菜",
+            "_JP": "Stephanie Panisello",
+            "_KR": "Kang Si-Hyun"
+        }
     },
     {
         "_name": "Gaming",
@@ -184,7 +202,13 @@ var __AvatarInfoConfig = [
             "Norm": 23274
         },
         "Version": "4.4",
-        "Fetter": 92
+        "Fetter": 92,
+        "_CV": {
+            "_CH": "谢莹",
+            "_EN": "小松昌平",
+            "_JP": "Caleb Yen",
+            "_KR": "Kim Yoon-Gi"
+        }
     },
     {
         "_name": "Navia",
@@ -230,7 +254,13 @@ var __AvatarInfoConfig = [
             "Norm": 26207
         },
         "Version": "4.3",
-        "Fetter": 91
+        "Fetter": 91,
+        "_CV": {
+            "_CH": "小敢",
+            "_EN": "豊崎愛生",
+            "_JP": "Brenna Larsen",
+            "_KR": "Jeong Hae-eun"
+        }
     },
     {
         "_name": "Chevreuse",
@@ -276,7 +306,13 @@ var __AvatarInfoConfig = [
             "Norm": 21102
         },
         "Version": "4.3",
-        "Fetter": 90
+        "Fetter": 90,
+        "_CV": {
+            "_CH": "潘丹妮",
+            "_EN": "下地紫野",
+            "_JP": "Erica Lindbeck",
+            "_KR": "Chae Min-ji"
+        }
     },
     {
         "_name": "Furina",
@@ -322,7 +358,13 @@ var __AvatarInfoConfig = [
             "Norm": 26166
         },
         "Version": "4.2",
-        "Fetter": 89
+        "Fetter": 89,
+        "_CV": {
+            "_CH": "钱琛",
+            "_EN": "水瀬いのり",
+            "_JP": "Amber Lee Connors",
+            "_KR": "Kim Ha-young"
+        }
     },
     {
         "_name": "Charlotte",
@@ -368,7 +410,13 @@ var __AvatarInfoConfig = [
             "Norm": 18996
         },
         "Version": "4.2",
-        "Fetter": 88
+        "Fetter": 88,
+        "_CV": {
+            "_CH": "阮从青",
+            "_EN": "和氣あず未",
+            "_JP": "Maya Aoki Tuttle",
+            "_KR": "Shin On-yu"
+        }
     },
     {
         "_name": "Neuvillette",
@@ -414,7 +462,13 @@ var __AvatarInfoConfig = [
             "Norm": 23792
         },
         "Version": "4.1",
-        "Fetter": 87
+        "Fetter": 87,
+        "_CV": {
+            "_CH": "桑毓泽",
+            "_EN": "神谷浩史",
+            "_JP": "Ray Chase",
+            "_KR": "Kwak Yoon-sang"
+        }
     },
     {
         "_name": "Wriothesley",
@@ -460,7 +514,13 @@ var __AvatarInfoConfig = [
             "Norm": 26200
         },
         "Version": "4.1",
-        "Fetter": 86
+        "Fetter": 86,
+        "_CV": {
+            "_CH": "刘北辰",
+            "_EN": "小野大輔",
+            "_JP": "Joe Zieja",
+            "_KR": "Kwon Chang-wook"
+        }
     },
     {
         "_name": "Freminet",
@@ -506,7 +566,13 @@ var __AvatarInfoConfig = [
             "Norm": 23234
         },
         "Version": "4.0",
-        "Fetter": 85
+        "Fetter": 85,
+        "_CV": {
+            "_CH": "锦鲤",
+            "_EN": "土岐隼一",
+            "_JP": "Paul Castro Jr.",
+            "_KR": "Lee Ju-seung"
+        }
     },
     {
         "_name": "Liney",
@@ -552,7 +618,13 @@ var __AvatarInfoConfig = [
             "Norm": 21491
         },
         "Version": "4.0",
-        "Fetter": 84
+        "Fetter": 84,
+        "_CV": {
+            "_CH": "锦鲤",
+            "_EN": "下野紘",
+            "_JP": "Daman Mills",
+            "_KR": "Park Seong-yeong"
+        }
     },
     {
         "_name": "Linette",
@@ -598,7 +670,13 @@ var __AvatarInfoConfig = [
             "Norm": 23220
         },
         "Version": "4.0",
-        "Fetter": 83
+        "Fetter": 83,
+        "_CV": {
+            "_CH": "可可味",
+            "_EN": "篠原侑",
+            "_JP": "Anairis Quiñones",
+            "_KR": "Lee Serena"
+        }
     },
     {
         "_name": "PlayerGirl_Water",
@@ -728,7 +806,13 @@ var __AvatarInfoConfig = [
             "Norm": 21208
         },
         "Version": "3.7",
-        "Fetter": 61
+        "Fetter": 61,
+        "_CV": {
+            "_CH": "孙艳琦",
+            "_EN": "鈴代紗弓",
+            "_JP": "Julia Gu",
+            "_KR": "Kang Eun-ae"
+        }
     },
     {
         "_name": "Baizhuer",
@@ -774,7 +858,13 @@ var __AvatarInfoConfig = [
             "Norm": 21424
         },
         "Version": "3.6",
-        "Fetter": 82
+        "Fetter": 82,
+        "_CV": {
+            "_CH": "秦且歌 & 王晓彤",
+            "_EN": "遊佐浩二 & 庄子裕衣",
+            "_JP": "Sean Durrie & Xanthe Huynh",
+            "_KR": "Yi Ho-san & Jang Mi"
+        }
     },
     {
         "_name": "Kaveh",
@@ -820,7 +910,13 @@ var __AvatarInfoConfig = [
             "Norm": 23208
         },
         "Version": "3.6",
-        "Fetter": 81
+        "Fetter": 81,
+        "_CV": {
+            "_CH": "刘三木",
+            "_EN": "内田雄馬",
+            "_JP": "Ben Balmaceda",
+            "_KR": "Lee Jeong-min"
+        }
     },
     {
         "_name": "Mika",
@@ -866,7 +962,13 @@ var __AvatarInfoConfig = [
             "Norm": 23207
         },
         "Version": "3.5",
-        "Fetter": 80
+        "Fetter": 80,
+        "_CV": {
+            "_CH": "邓宥希",
+            "_EN": "三瓶由布子",
+            "_JP": "Robb Moreira",
+            "_KR": "Yoon Eun-seo"
+        }
     },
     {
         "_name": "Dehya",
@@ -912,7 +1014,13 @@ var __AvatarInfoConfig = [
             "Norm": 26202
         },
         "Version": "3.5",
-        "Fetter": 79
+        "Fetter": 79,
+        "_CV": {
+            "_CH": "陈雨",
+            "_EN": "福原綾香",
+            "_JP": "Amber May",
+            "_KR": "Kim Hyeon-sim"
+        }
     },
     {
         "_name": "Alhatham",
@@ -958,7 +1066,13 @@ var __AvatarInfoConfig = [
             "Norm": 26177
         },
         "Version": "3.4",
-        "Fetter": 78
+        "Fetter": 78,
+        "_CV": {
+            "_CH": "杨超然",
+            "_EN": "梅原裕一郎",
+            "_JP": "Nazeeh Tarsha",
+            "_KR": "Jun Seung-hwa"
+        }
     },
     {
         "_name": "Yaoyao",
@@ -1004,7 +1118,13 @@ var __AvatarInfoConfig = [
             "Norm": 23195
         },
         "Version": "3.4",
-        "Fetter": 77
+        "Fetter": 77,
+        "_CV": {
+            "_CH": "刘颐诺",
+            "_EN": "門脇舞以",
+            "_JP": "Kelsey Jaffer",
+            "_KR": "Yu Hye-ji"
+        }
     },
     {
         "_name": "Faruzan",
@@ -1050,7 +1170,13 @@ var __AvatarInfoConfig = [
             "Norm": 18993
         },
         "Version": "3.3",
-        "Fetter": 76
+        "Fetter": 76,
+        "_CV": {
+            "_CH": "阎萌萌",
+            "_EN": "堀江由衣",
+            "_JP": "Chandni Parekh",
+            "_KR": "Kim Yu-rim"
+        }
     },
     {
         "_name": "Wanderer",
@@ -1096,7 +1222,13 @@ var __AvatarInfoConfig = [
             "Norm": 21478
         },
         "Version": "3.3",
-        "Fetter": 75
+        "Fetter": 75,
+        "_CV": {
+            "_CH": "鹿喑",
+            "_EN": "柿原徹也",
+            "_JP": "Patrick Pedraza",
+            "_KR": "Min Seung-woo"
+        }
     },
     {
         "_name": "Layla",
@@ -1142,7 +1274,13 @@ var __AvatarInfoConfig = [
             "Norm": 21111
         },
         "Version": "3.2",
-        "Fetter": 74
+        "Fetter": 74,
+        "_CV": {
+            "_CH": "侯小菲",
+            "_EN": "富田美憂",
+            "_JP": "Ashely Biski",
+            "_KR": "Kang Sae-bom"
+        }
     },
     {
         "_name": "Nahida",
@@ -1188,7 +1326,13 @@ var __AvatarInfoConfig = [
             "Norm": 21446
         },
         "Version": "3.2",
-        "Fetter": 73
+        "Fetter": 73,
+        "_CV": {
+            "_CH": "花玲",
+            "_EN": "田村ゆかり",
+            "_JP": "Kimberley Anne Campbell",
+            "_KR": "Park Shi-yoon"
+        }
     },
     {
         "_name": "Candace",
@@ -1234,7 +1378,13 @@ var __AvatarInfoConfig = [
             "Norm": 21098
         },
         "Version": "3.1",
-        "Fetter": 72
+        "Fetter": 72,
+        "_CV": {
+            "_CH": "张琦",
+            "_EN": "柚木涼香",
+            "_JP": "Shara Kirby",
+            "_KR": "Jun Young-soo"
+        }
     },
     {
         "_name": "Cyno",
@@ -1280,7 +1430,13 @@ var __AvatarInfoConfig = [
             "Norm": 26173
         },
         "Version": "3.1",
-        "Fetter": 71
+        "Fetter": 71,
+        "_CV": {
+            "_CH": "李轻扬",
+            "_EN": "入野自由",
+            "_JP": "Alejandro Saab",
+            "_KR": "Lee Woo-ri"
+        }
     },
     {
         "_name": "Nilou",
@@ -1326,7 +1482,13 @@ var __AvatarInfoConfig = [
             "Norm": 26145
         },
         "Version": "3.1",
-        "Fetter": 70
+        "Fetter": 70,
+        "_CV": {
+            "_CH": "紫苏九月",
+            "_EN": "金元寿子",
+            "_JP": "Dani Chambers",
+            "_KR": "Chae Rim"
+        }
     },
     {
         "_name": "Tighnari",
@@ -1372,7 +1534,13 @@ var __AvatarInfoConfig = [
             "Norm": 21438
         },
         "Version": "3.0",
-        "Fetter": 69
+        "Fetter": 69,
+        "_CV": {
+            "_CH": "莫然",
+            "_EN": "小林沙苗",
+            "_JP": "Zachary Gordon",
+            "_KR": "Jung Ui-taek"
+        }
     },
     {
         "_name": "Dori",
@@ -1418,7 +1586,13 @@ var __AvatarInfoConfig = [
             "Norm": 23200
         },
         "Version": "3.0",
-        "Fetter": 68
+        "Fetter": 68,
+        "_CV": {
+            "_CH": "王晓彤",
+            "_EN": "金田朋子",
+            "_JP": "Anjali Kunapaneni",
+            "_KR": "Lee Myeong-ho"
+        }
     },
     {
         "_name": "Collei",
@@ -1464,7 +1638,13 @@ var __AvatarInfoConfig = [
             "Norm": 18988
         },
         "Version": "3.0",
-        "Fetter": 67
+        "Fetter": 67,
+        "_CV": {
+            "_CH": "秦文静",
+            "_EN": "前川涼子",
+            "_JP": "Christina Costello",
+            "_KR": "Bang Siu"
+        }
     },
     {
         "_name": "PlayerGirl_Grass",
@@ -1594,7 +1774,13 @@ var __AvatarInfoConfig = [
             "Norm": 21099
         },
         "Version": "2.8",
-        "Fetter": 59
+        "Fetter": 59,
+        "_CV": {
+            "_CH": "林景",
+            "_EN": "井口祐一",
+            "_JP": "Kieran Regan",
+            "_KR": "Jung Eui-jin"
+        }
     },
     {
         "_name": "Shinobu",
@@ -1640,7 +1826,13 @@ var __AvatarInfoConfig = [
             "Norm": 23195
         },
         "Version": "2.7",
-        "Fetter": 65
+        "Fetter": 65,
+        "_CV": {
+            "_CH": "杨凝",
+            "_EN": "水橋かおり",
+            "_JP": "Kira Buckland",
+            "_KR": "Kim Yool"
+        }
     },
     {
         "_name": "Yelan",
@@ -1686,7 +1878,13 @@ var __AvatarInfoConfig = [
             "Norm": 23833
         },
         "Version": "2.7",
-        "Fetter": 60
+        "Fetter": 60,
+        "_CV": {
+            "_CH": "徐慧",
+            "_EN": "遠藤綾",
+            "_JP": "Laura Post",
+            "_KR": "Min Ah"
+        }
     },
     {
         "_name": "Ayato",
@@ -1732,7 +1930,13 @@ var __AvatarInfoConfig = [
             "Norm": 26185
         },
         "Version": "2.6",
-        "Fetter": 66
+        "Fetter": 66,
+        "_CV": {
+            "_CH": "赵路",
+            "_EN": "石田彰",
+            "_JP": "Chris Hackney",
+            "_KR": "Jang Min-hyeok"
+        }
     },
     {
         "_name": "Yae",
@@ -1778,7 +1982,13 @@ var __AvatarInfoConfig = [
             "Norm": 21494
         },
         "Version": "2.5",
-        "Fetter": 58
+        "Fetter": 58,
+        "_CV": {
+            "_CH": "杜冥鸦",
+            "_EN": "佐倉綾音",
+            "_JP": "Ratana",
+            "_KR": "Moon Yoo-jung"
+        }
     },
     {
         "_name": "Yunjin",
@@ -1824,7 +2034,13 @@ var __AvatarInfoConfig = [
             "Norm": 21060
         },
         "Version": "2.4",
-        "Fetter": 64
+        "Fetter": 64,
+        "_CV": {
+            "_CH": "贺文潇&杨扬",
+            "_EN": "小岩井ことり & Yang Yang",
+            "_JP": "Judy Alice Lee & Yang Yang",
+            "_KR": "Sah Moon-young & Yang Yang"
+        }
     },
     {
         "_name": "Shenhe",
@@ -1870,7 +2086,13 @@ var __AvatarInfoConfig = [
             "Norm": 26153
         },
         "Version": "2.4",
-        "Fetter": 63
+        "Fetter": 63,
+        "_CV": {
+            "_CH": "秦紫翼",
+            "_EN": "川澄綾子",
+            "_JP": "Chelsea Kwoka",
+            "_KR": "Lee Hyeon-jin"
+        }
     },
     {
         "_name": "Itto",
@@ -1916,7 +2138,13 @@ var __AvatarInfoConfig = [
             "Norm": 26085
         },
         "Version": "2.3",
-        "Fetter": 57
+        "Fetter": 57,
+        "_CV": {
+            "_CH": "刘照坤",
+            "_EN": "西川貴教",
+            "_JP": "Max Mittelman",
+            "_KR": "Song Jun-seok"
+        }
     },
     {
         "_name": "Gorou",
@@ -1962,7 +2190,13 @@ var __AvatarInfoConfig = [
             "Norm": 18976
         },
         "Version": "2.3",
-        "Fetter": 55
+        "Fetter": 55,
+        "_CV": {
+            "_CH": "杨昕燃",
+            "_EN": "畠中祐",
+            "_JP": "Cory Yee",
+            "_KR": "Lee Sae-byeok"
+        }
     },
     {
         "_name": "Tohma",
@@ -2008,7 +2242,13 @@ var __AvatarInfoConfig = [
             "Norm": 21067
         },
         "Version": "2.2",
-        "Fetter": 50
+        "Fetter": 50,
+        "_CV": {
+            "_CH": "张沛",
+            "_EN": "森田成一",
+            "_JP": "Christian Banas",
+            "_KR": "Ryu Seung-kon"
+        }
     },
     {
         "_name": "Aloy",
@@ -2054,7 +2294,13 @@ var __AvatarInfoConfig = [
             "Norm": 21405
         },
         "Version": "2.1",
-        "Fetter": 62
+        "Fetter": 62,
+        "_CV": {
+            "_CH": "沐霏",
+            "_EN": "高垣彩陽",
+            "_JP": "—",
+            "_KR": "Jo Hyeon-jung"
+        }
     },
     {
         "_name": "Sara",
@@ -2100,7 +2346,13 @@ var __AvatarInfoConfig = [
             "Norm": 18976
         },
         "Version": "2.1",
-        "Fetter": 56
+        "Fetter": 56,
+        "_CV": {
+            "_CH": "杨梦露",
+            "_EN": "瀬戸麻沙美",
+            "_JP": "Jeannie Tirado",
+            "_KR": "Moon Ji-young"
+        }
     },
     {
         "_name": "Kokomi",
@@ -2146,7 +2398,13 @@ var __AvatarInfoConfig = [
             "Norm": 23792
         },
         "Version": "2.1",
-        "Fetter": 54
+        "Fetter": 54,
+        "_CV": {
+            "_CH": "龟娘",
+            "_EN": "三森すずこ",
+            "_JP": "Risa Mei",
+            "_KR": "Yeo Yoon-mi"
+        }
     },
     {
         "_name": "Shougun",
@@ -2192,7 +2450,13 @@ var __AvatarInfoConfig = [
             "Norm": 26196
         },
         "Version": "2.1",
-        "Fetter": 52
+        "Fetter": 52,
+        "_CV": {
+            "_CH": "菊花花",
+            "_EN": "沢城みゆき",
+            "_JP": "Anne Yatco",
+            "_KR": "Park Ji-yoon"
+        }
     },
     {
         "_name": "Sayu",
@@ -2238,7 +2502,13 @@ var __AvatarInfoConfig = [
             "Norm": 23208
         },
         "Version": "2.0",
-        "Fetter": 53
+        "Fetter": 53,
+        "_CV": {
+            "_CH": "Sakula小舞",
+            "_EN": "洲崎綾",
+            "_JP": "Lilypichu (Lily Ki)",
+            "_KR": "Lee Ji-hyeon"
+        }
     },
     {
         "_name": "Yoimiya",
@@ -2284,7 +2554,13 @@ var __AvatarInfoConfig = [
             "Norm": 21479
         },
         "Version": "2.0",
-        "Fetter": 49
+        "Fetter": 49,
+        "_CV": {
+            "_CH": "金娜",
+            "_EN": "植田佳奈",
+            "_JP": "Jenny Yokobori",
+            "_KR": "Park Shin-hee"
+        }
     },
     {
         "_name": "Ayaka",
@@ -2330,7 +2606,13 @@ var __AvatarInfoConfig = [
             "Norm": 26170
         },
         "Version": "2.0",
-        "Fetter": 2
+        "Fetter": 2,
+        "_CV": {
+            "_CH": "小N",
+            "_EN": "早見沙織",
+            "_JP": "Erica Mendez",
+            "_KR": "Lee Yoo-ri"
+        }
     },
     {
         "_name": "PlayerGirl_Elec",
@@ -2460,7 +2742,13 @@ var __AvatarInfoConfig = [
             "Norm": 26163
         },
         "Version": "1.6",
-        "Fetter": 47
+        "Fetter": 47,
+        "_CV": {
+            "_CH": "斑马",
+            "_EN": "島﨑信長",
+            "_JP": "Mark Whitten",
+            "_KR": "Kim Shin-woo"
+        }
     },
     {
         "_name": "Eula",
@@ -2506,7 +2794,13 @@ var __AvatarInfoConfig = [
             "Norm": 26207
         },
         "Version": "1.5",
-        "Fetter": 51
+        "Fetter": 51,
+        "_CV": {
+            "_CH": "子音",
+            "_EN": "佐藤利奈",
+            "_JP": "Suzie Yeung",
+            "_KR": "Kim Hyeon-ji"
+        }
     },
     {
         "_name": "Feiyan",
@@ -2552,7 +2846,13 @@ var __AvatarInfoConfig = [
             "Norm": 19062
         },
         "Version": "1.5",
-        "Fetter": 48
+        "Fetter": 48,
+        "_CV": {
+            "_CH": "苏子芜",
+            "_EN": "花守ゆみり",
+            "_JP": "Lizzie Freeman",
+            "_KR": "Jo Kyeong-lee"
+        }
     },
     {
         "_name": "Rosaria",
@@ -2598,7 +2898,13 @@ var __AvatarInfoConfig = [
             "Norm": 23227
         },
         "Version": "1.4",
-        "Fetter": 45
+        "Fetter": 45,
+        "_CV": {
+            "_CH": "张安琪",
+            "_EN": "加隈亜衣",
+            "_JP": "Elizabeth Maxwell",
+            "_KR": "Kim Bo-na"
+        }
     },
     {
         "_name": "Hutao",
@@ -2644,7 +2950,13 @@ var __AvatarInfoConfig = [
             "Norm": 26017
         },
         "Version": "1.3",
-        "Fetter": 46
+        "Fetter": 46,
+        "_CV": {
+            "_CH": "陶典",
+            "_EN": "高橋李依",
+            "_JP": "Brianna Knickerbocker",
+            "_KR": "Kim Ha-ru"
+        }
     },
     {
         "_name": "Xiao",
@@ -2690,7 +3002,13 @@ var __AvatarInfoConfig = [
             "Norm": 26316
         },
         "Version": "1.3",
-        "Fetter": 26
+        "Fetter": 26,
+        "_CV": {
+            "_CH": "kinsen",
+            "_EN": "松岡禎丞",
+            "_JP": "Laila Berzins",
+            "_KR": "Shim Kyu-hyeok"
+        }
     },
     {
         "_name": "Albedo",
@@ -2736,7 +3054,13 @@ var __AvatarInfoConfig = [
             "Norm": 26005
         },
         "Version": "1.2",
-        "Fetter": 38
+        "Fetter": 38,
+        "_CV": {
+            "_CH": "Mace",
+            "_EN": "野島健児",
+            "_JP": "Khoi Dao",
+            "_KR": "Kim Myeong-joon"
+        }
     },
     {
         "_name": "Ganyu",
@@ -2782,7 +3106,13 @@ var __AvatarInfoConfig = [
             "Norm": 21456
         },
         "Version": "1.2",
-        "Fetter": 37
+        "Fetter": 37,
+        "_CV": {
+            "_CH": "林簌",
+            "_EN": "上田麗奈",
+            "_JP": "Jennifer Losi",
+            "_KR": "Kim Seon-hye"
+        }
     },
     {
         "_name": "Xinyan",
@@ -2828,7 +3158,13 @@ var __AvatarInfoConfig = [
             "Norm": 23163
         },
         "Version": "1.1",
-        "Fetter": 44
+        "Fetter": 44,
+        "_CV": {
+            "_CH": "王雅欣",
+            "_EN": "たかはし智秋",
+            "_JP": "Laura Stahl",
+            "_KR": "Kim Chae-ha"
+        }
     },
     {
         "_name": "Diona",
@@ -2874,7 +3210,13 @@ var __AvatarInfoConfig = [
             "Norm": 18974
         },
         "Version": "1.1",
-        "Fetter": 39
+        "Fetter": 39,
+        "_CV": {
+            "_CH": "诺亚",
+            "_EN": "井澤詩織",
+            "_JP": "Dina Sherman",
+            "_KR": "Woo Jeong-shin"
+        }
     },
     {
         "_name": "Tartaglia",
@@ -2920,7 +3262,13 @@ var __AvatarInfoConfig = [
             "Norm": 26072
         },
         "Version": "1.1",
-        "Fetter": 33
+        "Fetter": 33,
+        "_CV": {
+            "_CH": "鱼冻",
+            "_EN": "木村良平",
+            "_JP": "Griffin Burns",
+            "_KR": "Nam Do-hyeong"
+        }
     },
     {
         "_name": "Zhongli",
@@ -2966,7 +3314,13 @@ var __AvatarInfoConfig = [
             "Norm": 26091
         },
         "Version": "1.1",
-        "Fetter": 30
+        "Fetter": 30,
+        "_CV": {
+            "_CH": "彭博",
+            "_EN": "前野智昭",
+            "_JP": "Keith Silverstein",
+            "_KR": "Pyo Young-jae"
+        }
     },
     {
         "_name": "Sucrose",
@@ -3012,7 +3366,13 @@ var __AvatarInfoConfig = [
             "Norm": 18992
         },
         "Version": "1.0",
-        "Fetter": 43
+        "Fetter": 43,
+        "_CV": {
+            "_CH": "小敢",
+            "_EN": "藤田茜",
+            "_JP": "Valeria Rodriguez",
+            "_KR": "Kim Ha-young"
+        }
     },
     {
         "_name": "Mona",
@@ -3058,7 +3418,13 @@ var __AvatarInfoConfig = [
             "Norm": 21534
         },
         "Version": "1.0",
-        "Fetter": 41
+        "Fetter": 41,
+        "_CV": {
+            "_CH": "陈婷婷",
+            "_EN": "小原好美",
+            "_JP": "Felecia Angelle",
+            "_KR": "Woo Jeong-shin"
+        }
     },
     {
         "_name": "Chongyun",
@@ -3104,7 +3470,13 @@ var __AvatarInfoConfig = [
             "Norm": 21036
         },
         "Version": "1.0",
-        "Fetter": 36
+        "Fetter": 36,
+        "_CV": {
+            "_CH": "kinsen",
+            "_EN": "斉藤壮馬",
+            "_JP": "Beau Bridgland",
+            "_KR": "Yang Jeong-hwa"
+        }
     },
     {
         "_name": "Qiqi",
@@ -3150,7 +3522,13 @@ var __AvatarInfoConfig = [
             "Norm": 26183
         },
         "Version": "1.0",
-        "Fetter": 35
+        "Fetter": 35,
+        "_CV": {
+            "_CH": "宴宁",
+            "_EN": "田村ゆかり",
+            "_JP": "Christie Cate",
+            "_KR": "Lee Seul"
+        }
     },
     {
         "_name": "Noel",
@@ -3196,7 +3574,13 @@ var __AvatarInfoConfig = [
             "Norm": 23115
         },
         "Version": "1.0",
-        "Fetter": 34
+        "Fetter": 34,
+        "_CV": {
+            "_CH": "宴宁",
+            "_EN": "高尾奏音",
+            "_JP": "Laura Faye Smith",
+            "_KR": "Lee Bo-hee"
+        }
     },
     {
         "_name": "Bennett",
@@ -3242,7 +3626,13 @@ var __AvatarInfoConfig = [
             "Norm": 23168
         },
         "Version": "1.0",
-        "Fetter": 32
+        "Fetter": 32,
+        "_CV": {
+            "_CH": "穆雪婷",
+            "_EN": "逢坂良太",
+            "_JP": "Cristina Vee Valenzuela",
+            "_KR": "Song Ha-rim"
+        }
     },
     {
         "_name": "Fischl",
@@ -3288,7 +3678,13 @@ var __AvatarInfoConfig = [
             "Norm": 19035
         },
         "Version": "1.0",
-        "Fetter": 31
+        "Fetter": 31,
+        "_CV": {
+            "_CH": "Mace & 赵悦程",
+            "_EN": "内田真礼 & 増谷康紀",
+            "_JP": "Brittany Cox & Ben Pronsky",
+            "_KR": "Park Go-woon & Lee Hyeon"
+        }
     },
     {
         "_name": "Klee",
@@ -3334,7 +3730,13 @@ var __AvatarInfoConfig = [
             "Norm": 21410
         },
         "Version": "1.0",
-        "Fetter": 29
+        "Fetter": 29,
+        "_CV": {
+            "_CH": "花玲",
+            "_EN": "久野美咲",
+            "_JP": "Poonam Basu",
+            "_KR": "Bang Yeon-ji"
+        }
     },
     {
         "_name": "Ningguang",
@@ -3380,7 +3782,13 @@ var __AvatarInfoConfig = [
             "Norm": 18919
         },
         "Version": "1.0",
-        "Fetter": 27
+        "Fetter": 27,
+        "_CV": {
+            "_CH": "杜冥鸦",
+            "_EN": "大原さやか",
+            "_JP": "Erin Ebers",
+            "_KR": "Kwak Kyu-mi"
+        }
     },
     {
         "_name": "Xingqiu",
@@ -3426,7 +3834,13 @@ var __AvatarInfoConfig = [
             "Norm": 21027
         },
         "Version": "1.0",
-        "Fetter": 25
+        "Fetter": 25,
+        "_CV": {
+            "_CH": "唐雅菁",
+            "_EN": "皆川純子",
+            "_JP": "Cristina Vee Valenzuela",
+            "_KR": "Kwak Kyu-mi"
+        }
     },
     {
         "_name": "Beidou",
@@ -3472,7 +3886,13 @@ var __AvatarInfoConfig = [
             "Norm": 23136
         },
         "Version": "1.0",
-        "Fetter": 24
+        "Fetter": 24,
+        "_CV": {
+            "_CH": "唐雅菁",
+            "_EN": "小清水亜美",
+            "_JP": "Allegra Clark",
+            "_KR": "Jung Yoo-mi"
+        }
     },
     {
         "_name": "Xiangling",
@@ -3518,7 +3938,13 @@ var __AvatarInfoConfig = [
             "Norm": 21166
         },
         "Version": "1.0",
-        "Fetter": 23
+        "Fetter": 23,
+        "_CV": {
+            "_CH": "小N",
+            "_EN": "小澤亜李",
+            "_JP": "Jackie Lastra",
+            "_KR": "Yoon Ah-young"
+        }
     },
     {
         "_name": "Venti",
@@ -3564,7 +3990,13 @@ var __AvatarInfoConfig = [
             "Norm": 21427
         },
         "Version": "1.0",
-        "Fetter": 22
+        "Fetter": 22,
+        "_CV": {
+            "_CH": "喵酱",
+            "_EN": "村瀬歩",
+            "_JP": "Erika Harlacher",
+            "_KR": "Jung Yoo-jung"
+        }
     },
     {
         "_name": "Ambor",
@@ -3610,7 +4042,13 @@ var __AvatarInfoConfig = [
             "Norm": 19036
         },
         "Version": "1.0",
-        "Fetter": 21
+        "Fetter": 21,
+        "_CV": {
+            "_CH": "蔡书瑾",
+            "_EN": "石見舞菜香",
+            "_JP": "Kelly Baskin",
+            "_KR": "Kim Yeon-woo"
+        }
     },
     {
         "_name": "Razor",
@@ -3656,7 +4094,13 @@ var __AvatarInfoConfig = [
             "Norm": 23208
         },
         "Version": "1.0",
-        "Fetter": 20
+        "Fetter": 20,
+        "_CV": {
+            "_CH": "周帅",
+            "_EN": "内山昂輝",
+            "_JP": "Todd Haberkorn",
+            "_KR": "Kim Seo-young"
+        }
     },
     {
         "_name": "Diluc",
@@ -3702,7 +4146,13 @@ var __AvatarInfoConfig = [
             "Norm": 26178
         },
         "Version": "1.0",
-        "Fetter": 16
+        "Fetter": 16,
+        "_CV": {
+            "_CH": "马洋",
+            "_EN": "小野賢章",
+            "_JP": "Sean Chiplock",
+            "_KR": "Choi Seung-hoon"
+        }
     },
     {
         "_name": "Kaeya",
@@ -3748,7 +4198,13 @@ var __AvatarInfoConfig = [
             "Norm": 23122
         },
         "Version": "1.0",
-        "Fetter": 15
+        "Fetter": 15,
+        "_CV": {
+            "_CH": "孙晔",
+            "_EN": "鳥海浩輔",
+            "_JP": "Josey Montana McCoy",
+            "_KR": "Jung Joo-won"
+        }
     },
     {
         "_name": "Barbara",
@@ -3794,7 +4250,13 @@ var __AvatarInfoConfig = [
             "Norm": 19025
         },
         "Version": "1.0",
-        "Fetter": 14
+        "Fetter": 14,
+        "_CV": {
+            "_CH": "宋媛媛",
+            "_EN": "鬼頭明里",
+            "_JP": "Laura Stahl",
+            "_KR": "Yoon Ah-young"
+        }
     },
     {
         "_name": "Lisa",
@@ -3840,7 +4302,13 @@ var __AvatarInfoConfig = [
             "Norm": 19007
         },
         "Version": "1.0",
-        "Fetter": 6
+        "Fetter": 6,
+        "_CV": {
+            "_CH": "钟可",
+            "_EN": "田中理恵",
+            "_JP": "Mara Junot",
+            "_KR": "Park Go-woon"
+        }
     },
     {
         "_name": "Qin",
@@ -3886,7 +4354,13 @@ var __AvatarInfoConfig = [
             "Norm": 26207
         },
         "Version": "1.0",
-        "Fetter": 3
+        "Fetter": 3,
+        "_CV": {
+            "_CH": "林簌",
+            "_EN": "斎藤千和",
+            "_JP": "Stephanie Southerland",
+            "_KR": "Ahn Young-mi"
+        }
     },
     {
         "_name": "PlayerGirl_Wind",
