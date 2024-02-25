@@ -13,7 +13,7 @@ $(function () {
     $('h3 .lang').html(txt.Lang[lang])
 
     $('body').on('click', '.links', function () {
-        popLinks(lang2)
+        popLinks(lang)
     })
 
     let script_computer = document.createElement('script')

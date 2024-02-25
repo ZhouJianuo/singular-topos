@@ -14,7 +14,7 @@ $(function () {
     $('h3 .lang').html(txt.Lang[lang])
 
     $('body').on('click', '.links', function () {
-        popLinks(lang2)
+        popLinks(lang)
     })
 
     $('body').on('click', '._subtitle', function () {

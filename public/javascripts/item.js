@@ -257,7 +257,7 @@ $(function () {
     }
 
     $('body').on('click', '.links', function () {
-        popLinks(lang2)
+        popLinks(lang)
     })
 
     $('body').on('click', '._subtitle', function () {

@@ -14,7 +14,7 @@ $(function () {
     $('h3 .lang').html(txt.Lang[lang])
 
     $('body').on('click', '.links', function() {
-        popLinks(lang2)
+        popLinks(lang)
     })
 
     var EG = $('#EG').val() ? parseInt($('#EG').val()) : 1
