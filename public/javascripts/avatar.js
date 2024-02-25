@@ -1125,22 +1125,22 @@ $(function () {
                                         },
                                         {
                                             p: function (k) {
-                                                return computer_.MiscText.Avatar_BasicInfo_2_1[lang2] + avatar_color + _AvatarPromoteConfig[k.data._name]._CV._CH + "</b></color>"
+                                                return computer_.MiscText.Avatar_BasicInfo_2_1[lang2] + avatar_color + k.data._CV._CH + "</b></color>"
                                             }
                                         },
                                         {
                                             p: function (k) {
-                                                return computer_.MiscText.Avatar_BasicInfo_2_2[lang2] + avatar_color + _AvatarPromoteConfig[k.data._name]._CV._EN + "</b></color>"
+                                                return computer_.MiscText.Avatar_BasicInfo_2_2[lang2] + avatar_color + k.data._CV._EN + "</b></color>"
                                             }
                                         },
                                         {
                                             p: function (k) {
-                                                return computer_.MiscText.Avatar_BasicInfo_2_3[lang2] + avatar_color + _AvatarPromoteConfig[k.data._name]._CV._JP + "</b></color>"
+                                                return computer_.MiscText.Avatar_BasicInfo_2_3[lang2] + avatar_color + k.data._CV._JP + "</b></color>"
                                             }
                                         },
                                         {
                                             p: function (k) {
-                                                return computer_.MiscText.Avatar_BasicInfo_2_4[lang2] + avatar_color + _AvatarPromoteConfig[k.data._name]._CV._KR + "</b></color>"
+                                                return computer_.MiscText.Avatar_BasicInfo_2_4[lang2] + avatar_color + k.data._CV._KR + "</b></color>"
                                             }
                                         },
                                     ],
