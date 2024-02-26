@@ -44,6 +44,9 @@ $(function () {
     script_computer.onload = begin
 
     function begin() {
+        
+        cl_show = 0 
+        if ($("#UPDATE").val()) cl_show = 1
 
         a_2 = 0
 
@@ -57,6 +60,57 @@ $(function () {
         $('container').render({
             template: {
                 div: [
+                    {
+                        section: [
+                            {
+                                schedule: txt.Changelog[lang],
+                                click: function (p) {
+                                    cl_show = 1 - cl_show
+                                    if (cl_show) {
+                                        $('.cl_all').show()
+                                    } else {
+                                        $('.cl_all').hide()
+                                    }
+                                },
+                                style: {
+                                    width: 'max-content',
+                                    padding: '10px 20px',
+                                    'font-weight': 'bold',
+                                    border: '2px solid #df903b'
+                                }
+                            },
+                        ],
+                        class: 'cl'
+                    },
+                    {
+                        div: [
+                            {
+                                div: {
+                                    select: '',
+                                    options: cl_select,
+                                    style: {
+                                        border: '2px solid black',
+                                        'border-radius': '5px'
+                                    }
+                                },
+                                class: 'changelog'
+                            },
+                            {
+                                div: [],
+                                class: 'cl_data',
+                            }
+                        ],
+                        class: 'cl_all',
+                        style: {
+                            display: cl_show ? '' : 'none'
+                        }
+                    },
+                    {
+                        hr: '',
+                        style: {
+                            margin: '20px 0px',
+                        }
+                    },
                     {
                         section: [
                             {
@@ -130,6 +184,10 @@ $(function () {
     
         if (avid) {
             avid = avid.replaceAll("_", "").replaceAll("-", "").replaceAll(" ", "").replaceAll("'", "").replaceAll("·", "").toUpperCase()
+            if (avid == "CHANGE" || avid == "UPDATE") {
+                cl_show = 1
+                $('.cl_all').show()
+            }
             if (_search_avatar[avid] != undefined) {
                 popAvatar(_search_avatar[avid])
             } else if (_search_weapon[avid] != undefined) {
@@ -140,7 +198,48 @@ $(function () {
         }
     
         listAvatar()
+
+        renderCL($('.changelog select').val() || 0)
     }
+
+    function renderCL(v) {
+        $('.cl_data').empty()
+        if (!_changelog[v]) return
+        _changelog[v].Logs.forEach(function (t) {
+            $('.cl_data').render({
+                div: [
+                    {
+                        div: {
+                            p: t.Name,
+                            style: {
+                                color: t.Color ? ('#' + elemcolor[t.Color]) : ''
+                            }
+                        },
+                        class: 'a_section_head'
+                    },
+                    {
+                        div: {
+                            ul: {
+                                li: function (k) {
+                                    return k.data
+                                },
+                                data: t.Notes,
+                                style: {
+                                    'margin-top': '10px'
+                                }
+                            },
+                        },
+                        class: 'a_section_content'
+                    },
+                ],
+                class: 'a_section'
+            })
+        })
+    }
+
+    $('body').on('change', '.changelog select', function () {
+        renderCL($('.changelog select').val())
+    })
 
     $('body').on('click', '.a_w_r schedule', function () {
         if ($(this).hasClass('active')) {

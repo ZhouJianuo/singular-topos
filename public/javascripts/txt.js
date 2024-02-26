@@ -299,6 +299,11 @@ var txt = {
         "CH": "新增成就",
         "EN": "New Achievements"
     },
+    "Changelog": {
+        "CH": "聚焦更新",
+        "EN": "Track Updates",
+        "RU": "Журнал изменений"
+    },
     "Avatar_Head": [
         {
             "CH": "基本信息",

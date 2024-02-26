@@ -185,6 +185,28 @@ app.get('/sr/char', async (req, res) => {
     res.render('char', result);
 });
 
+app.get('/sr/change', async (req, res) => {
+    let result = {};
+    let { lang = '', id = '' } = req.query;
+    result.lang = lang;
+    result.avid = id;
+    result.update = 1
+    result.imgpre = '../';
+    result.title = 'HomDGCat Wiki';
+    res.render('char', result);
+});
+
+app.get('/sr/update', async (req, res) => {
+    let result = {};
+    let { lang = '', id = '' } = req.query;
+    result.lang = lang;
+    result.avid = id;
+    result.update = 1
+    result.imgpre = '../';
+    result.title = 'HomDGCat Wiki';
+    res.render('char', result);
+});
+
 app.get('/sr/item', async (req, res) => {
     let result = {};
     let { lang = '', id = '' } = req.query;

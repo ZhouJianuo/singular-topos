@@ -6791,3 +6791,7 @@ var _weaponskill = {
         }
     }
 }
+
+var _changelog = []
+
+var cl_select = {}

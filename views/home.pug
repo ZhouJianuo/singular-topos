@@ -1,14 +1,16 @@
 extends _
 block head
-    script(src="/javascripts/home.js")
-    script(src="/javascripts/didyouknow.js")
-    script(src="/javascripts/dir.js")
-    script(src="/javascripts/txt.js")
     link(rel="stylesheet", href="/stylesheets/home.css")
 block content
     input(type="hidden" id="LANG" value=lang)
     input(type="hidden" id="GAME" value=game)
+    input(type="hidden" id="IMGPRE" value='')
     container
         h3
             span.title
             em.lang
+    script(src="/javascripts/sr_lang.js")
+    script(src="/javascripts/home.js")
+    script(src="/javascripts/didyouknow.js")
+    script(src="/javascripts/dir.js")
+    script(src="/javascripts/txt.js")
