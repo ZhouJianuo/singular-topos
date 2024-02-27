@@ -6822,7 +6822,7 @@ var _changelog = [
                     "<color style='color:#f29d38'>Eidolon #4:</color> When casting Ult, all enemies' Ult DMG Vulnerability duration 2 → 3 turns.",
                     "<color style='color:#f29d38'>Ultimate:</color> When Crimson Knot is removed, the DMG multiplier increase effect counts at most 4 stacks.",
                     "<color style='color:#f29d38'>Technique:</color> <br>After entering battle, deal 80% ATK DMG to all enemies and 2 Thunder Toughness Break <br>   ↓<br> At the start of every wave, deal 200% ATK DMG to all enemies and 2 All-Type Toughness Break.",
-                    "<color style='color:#f29d38'>Technique:</color> <br>After entering battle, gain 2 points of Slashed Dream and inflict 2 stacks of Crimson Knot on a random target <br>   ↓<br> At the start of every wave, after Acheron casts her Ult, gain 1 point of Slashed Dream and inflict 1 stack of Crimson Knot on a random target."
+                    "<color style='color:#f29d38'>Technique:</color> <br>After entering battle, gain 2 points of Slashed Dream and inflict 2 stacks of Crimson Knot on a random target <br>   ↓<br> At the start of every wave, after Acheron casts her next Ult, gain 1 point of Slashed Dream and inflict 1 stack of Crimson Knot on a random target."
                 ]
             },
             {
