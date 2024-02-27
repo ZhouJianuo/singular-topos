@@ -6830,7 +6830,7 @@ var _changelog = [
                 "Color": "Imaginary",
                 "Notes": [
                     "<color style='color:#f29d38'>星魂 #6：</color>新增加伤上限，最多计入 3 名带护盾的角色。",
-                    "<color style='color:#f29d38'>秘技：</color>进入战斗后，砂金的防御力提高 → 我方全体防御力提高。",
+                    "<color style='color:#f29d38'>秘技：</color>进入战斗后，砂金的防御力提高 → 我方全体防御力提高。对换了普通概率和高概率的防御力提升数值。",
                     "<color style='color:#f29d38'>天赋：</color>英文名字更改。"
                 ]
             }

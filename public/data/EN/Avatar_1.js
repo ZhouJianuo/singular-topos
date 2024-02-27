@@ -6830,7 +6830,7 @@ var _changelog = [
                 "Color": "Imaginary",
                 "Notes": [
                     "<color style='color:#f29d38'>Eidolon #6:</color> Added an upper limit - counts at most 6 shielded allies.",
-                    "<color style='color:#f29d38'>Technique:</color> After entering battle, Aventurine's DEF increases → All allies' DEF incraeses.",
+                    "<color style='color:#f29d38'>Technique:</color> After entering battle, Aventurine's DEF increases → All allies' DEF increases. Swapped the DEF increase of normal chance and high chance.",
                     "<color style='color:#f29d38'>Talent:</color> Skill Name changed - Sights Aimed Right → Shot Loaded Right."
                 ]
             }
