@@ -6818,6 +6818,7 @@ var _changelog = [
                 "Name": "Acheron",
                 "Color": "Elec",
                 "Notes": [
+                    "<color style='color:#f29d38'>Trace #1:</color> At the start of battle, immediately gain 4 → 5 points of Slashed Dream and apply 4 → 5 stacks of Crimson Knot to a random enemy.",
                     "<color style='color:#f29d38'>Eidolon #4:</color> When casting Ult, all enemies' Ult DMG Vulnerability duration 2 → 3 turns.",
                     "<color style='color:#f29d38'>Ultimate:</color> When Crimson Knot is removed, the DMG multiplier increase effect counts at most 4 stacks.",
                     "<color style='color:#f29d38'>Technique:</color> <br>After entering battle, deal 80% ATK DMG to all enemies and 2 Thunder Toughness Break <br>   ↓<br> At the start of every wave, deal 200% ATK DMG to all enemies and 2 All-Type Toughness Break.",
