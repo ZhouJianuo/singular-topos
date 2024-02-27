@@ -730,9 +730,9 @@ var _event = [
     {
         "_id": 10043,
         "Icon": "BtnQuestRetrunRecall.png",
-        "Name": "Festival Invitation",
-        "Desc": "Join us in the grand feast at the Planet of Festivities! Invite your friends and experience thrills at the amusement park in Penacony! Earn up to 540 Stellar Jades!",
-        "Story": "◆ Event Details ◆<br>● During the event, Trailblazers can obtain rewards such as Stellar Jades by inviting returning Trailblazers.<br>● Active Trailblazers can share their unique invitation codes with other eligible Trailblazers to encourage their return. By doing so, Trailblazers can earn Stellar Jade and event draw chances.<br>● After logging back into the game, returning Trailblazers can also share their invitation codes to invite other eligible Trailblazers to rejoin the game and participate in the web event.<br>※ There may be a brief delay in updating the status of returning Trailblazers. If so, please wait for 2 minutes and refresh the webpage to check your status again.<br><br>◆ Event Rewards ◆<br>● Invite 6 returning Trailblazers and complete all required webpage tasks to earn up to Stellar Jade ×540.<br>● Trailblazers who share the invitation code for the first time can receive Stellar Jade ×30. Returning Trailblazers who link the invitation code for the first time can receive Stellar Jade ×60.<br>● Receive 1 event draw chance the first time you complete a DIY Event Draw Ticket. Additionally, for every returning Trailblazer you invite, you will receive 1 more event draw chance, up to 21 chances.<br><br>◆ Returning Trailblazer ◆<br>Trailblazers who are eligible for the Starlit Homecoming event are considered returning Trailblazers, and the eligibility requirements are as follows:<br>● Be at Trailblaze Level 10 or higher and have completed the Trailblaze Mission \"Jarilo-VI — Long Wait for the Blade's Edge\"<br>● Has not logged into the game for at least 14 days in a row<br>● The last participation in the Starlit Homecoming was at least 40 days ago.<br>※ A returning Trailblazer's status shall last for the duration of the Starlit Homecoming event.",
+        "Name": "Come With Me, Take the Journey",
+        "Desc": "Dear Trailblazer, your companions aboard the Express are waiting for you to take the journey by their side and re-embark on your cosmic adventure! Earn up to 480 Stellar Jades!",
+        "Story": "◆ Event Details ◆<br>● During the event, Trailblazers can obtain rewards such as Stellar Jades by inviting returning Trailblazers.<br>● Active Trailblazers can share their unique invitation codes with other eligible Trailblazers to encourage their return. By doing so, Trailblazers can earn Stellar Jade and event draw chances.<br>● After logging back into the game, returning Trailblazers can also share their invitation codes to invite other eligible Trailblazers to rejoin the game and participate in the web event.<br>※ There may be a brief delay in updating the status of returning Trailblazers. If so, please wait for 2 minutes and refresh the webpage to check your status again.<br><br>◆ Returning Trailblazer ◆<br>Trailblazers who are eligible for the Starlit Homecoming event are considered returning Trailblazers, and the eligibility requirements are as follows:<br>● Be at Trailblaze Level 10 or higher.<br>Complete the Trailblaze Mission \"Jarilo-VI — Long Wait for the Blade's Edge\"<br>● Has not logged into the game for at least 14 days in a row<br>● The last participation in the Starlit Homecoming was at least 40 days ago.<br>※ A returning Trailblazer's status shall last for the duration of the Starlit Homecoming event.",
         "Reward": [],
         "Ver": "2.0"
     },
@@ -1599,6 +1599,7 @@ var _item = {
             "Simulated Universe Point Rewards",
             "Nameless Honor",
             "Embers Exchange",
+            "",
             "Limited-Time Event Rewards"
         ]
     },

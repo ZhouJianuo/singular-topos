@@ -31110,11 +31110,11 @@ var _monster = [
         "Name": "忆域迷因「狂怒褪去之壳」",
         "Desc": "蕴含特定认知的实体，由忆域中的潜意识碎片堆积而成。<br>哀苦的回忆如炽焰灼心，当苦难褪去，怨恨化作的生命便会于灰烬中诞生，积聚无穷的盛怒。",
         "Stats": {
-            "HP": 12.0,
+            "HP": 14.0,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 120.0,
-            "Stance": 14.0
+            "Stance": 12.0
         },
         "Weak": [
             "Elec",
@@ -31166,10 +31166,10 @@ var _monster = [
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 120.0,
-            "Stance": 14.0
+            "Stance": 12.0
         },
         "StatsExtra": {
-            "Stance": -8.0
+            "Stance": -6.0
         },
         "Weak": [
             "Elec",
@@ -31220,10 +31220,7 @@ var _monster = [
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 120.0,
-            "Stance": 14.0
-        },
-        "StatsExtra": {
-            "Stance": -2.0
+            "Stance": 12.0
         },
         "Weak": [
             "Elec",
@@ -52320,7 +52317,7 @@ var _monster = [
         "Name": "「石心十人」诡弈砂金",
         "Desc": "星际和平公司「战略投资部」的高级干部，「石心十人」之一。借由基石分得「存护」令使的权能，以身作骰，置之死地而后生。",
         "Stats": {
-            "HP": 22.0,
+            "HP": 24.0,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 120.0,
@@ -52332,7 +52329,6 @@ var _monster = [
             "Elec"
         ],
         "RESBase": {
-            "Fire": 0.2,
             "Wind": 0.2,
             "Quantum": 0.2,
             "Imaginary": 0.4
@@ -52394,7 +52390,7 @@ var _monster = [
         "Name": "「石心十人」诡弈砂金",
         "Desc": "星际和平公司「战略投资部」的高级干部，「石心十人」之一。借由基石分得「存护」令使的权能，以身作骰，置之死地而后生。",
         "Stats": {
-            "HP": 33.0,
+            "HP": 36.0,
             "ATK": 19.99998,
             "DEF": 1.0,
             "SPD": 120.0,
@@ -52406,7 +52402,6 @@ var _monster = [
             "Elec"
         ],
         "RESBase": {
-            "Fire": 0.2,
             "Wind": 0.2,
             "Quantum": 0.2,
             "Imaginary": 0.4
@@ -53960,13 +53955,13 @@ var _status = {
     "230030104": {
         "Name": "文火",
         "Modifier": "MModifier_Monster_W3_Dinosaur_00_Calm",
-        "Desc": "当自身受到攻击或持续伤害时，叠加一层【炉灶加温】。",
+        "Desc": "当自身受到攻击或持续伤害时，叠加1层【炉灶加温】。",
         "CanNotDispel": true
     },
     "230030105": {
         "Name": "急火",
         "Modifier": "MModifier_Monster_W3_Dinosaur_00_Fury",
-        "Desc": "当自身受到攻击或持续伤害时，叠加一层【炉灶加温】。",
+        "Desc": "当自身受到攻击或持续伤害时，叠加1层【炉灶加温】。",
         "CanNotDispel": true
     },
     "230120201": {

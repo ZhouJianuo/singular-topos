@@ -5888,7 +5888,7 @@ var _achievement = [
         "_id": 4043034,
         "Ver": 2.1,
         "Series": 4,
-        "Name": "全副武装",
+        "Name": "火力全开",
         "Desc": "在小小哈努行动中「哈努飞弹」弹药达到上限",
         "Reward": 5
     },

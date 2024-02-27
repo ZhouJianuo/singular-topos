@@ -4140,7 +4140,7 @@ var _blessingextra = {
     },
     "61000044": {
         "Name": "Brain in a Vat",
-        "Desc": "When characters use Ultimates via ways other than Brain in a Vat, and if Brain in a Vat's Enlightenment Charge ratio is at 100%, temporary Energy can be granted to allow using the Ultimate for an extra time. The temporary Energy lasts until the beginning of the next turn. If the Ultimate is successfully used an extra time, consume all Enlightenment Charges."
+        "Desc": "If the Enlightenment Charge of \"Brain in a Vat\" reaches 100%, when a character uses their Ultimate through a method other than \"Brain in a Vat,\" the Ultimate will be activated again, consuming 100% of the Enlightenment Charge."
     },
     "61000045": {
         "Name": "AoE ATK",

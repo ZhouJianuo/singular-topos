@@ -31110,11 +31110,11 @@ var _monster = [
         "Name": "Memory Zone Meme \"Shell of Faded Rage\"",
         "Desc": "Entities imbued with specific cognition, accumulated from fragments of the subconscious in the Memory Zone.<br>Memories of anguish burn like flames, scorching the heart. When the suffering fades away, the life born from resentment will rise from the ashes, accumulating boundless fury.",
         "Stats": {
-            "HP": 12.0,
+            "HP": 14.0,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 120.0,
-            "Stance": 14.0
+            "Stance": 12.0
         },
         "Weak": [
             "Elec",
@@ -31166,10 +31166,10 @@ var _monster = [
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 120.0,
-            "Stance": 14.0
+            "Stance": 12.0
         },
         "StatsExtra": {
-            "Stance": -8.0
+            "Stance": -6.0
         },
         "Weak": [
             "Elec",
@@ -31220,10 +31220,7 @@ var _monster = [
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 120.0,
-            "Stance": 14.0
-        },
-        "StatsExtra": {
-            "Stance": -2.0
+            "Stance": 12.0
         },
         "Weak": [
             "Elec",
@@ -52320,7 +52317,7 @@ var _monster = [
         "Name": "Ten Stonehearts: Aventurine of Stratagems",
         "Desc": "A senior manager in the IPC Strategic Investment Department and one of the Ten Stonehearts. Using his Cornerstone, he obtained a share of the authority of an Emanator of Preservation. He throws his own body into the game as a die, ready to face death in order to walk away alive.",
         "Stats": {
-            "HP": 22.0,
+            "HP": 24.0,
             "ATK": 18.0,
             "DEF": 1.0,
             "SPD": 120.0,
@@ -52332,7 +52329,6 @@ var _monster = [
             "Elec"
         ],
         "RESBase": {
-            "Fire": 0.2,
             "Wind": 0.2,
             "Quantum": 0.2,
             "Imaginary": 0.4
@@ -52394,7 +52390,7 @@ var _monster = [
         "Name": "Ten Stonehearts: Aventurine of Stratagems",
         "Desc": "A senior manager in the IPC Strategic Investment Department and one of the Ten Stonehearts. Using his Cornerstone, he obtained a share of the authority of an Emanator of Preservation. He throws his own body into the game as a die, ready to face death in order to walk away alive.",
         "Stats": {
-            "HP": 33.0,
+            "HP": 36.0,
             "ATK": 19.99998,
             "DEF": 1.0,
             "SPD": 120.0,
@@ -52406,7 +52402,6 @@ var _monster = [
             "Elec"
         ],
         "RESBase": {
-            "Fire": 0.2,
             "Wind": 0.2,
             "Quantum": 0.2,
             "Imaginary": 0.4

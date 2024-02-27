@@ -5833,7 +5833,7 @@ var _achievement = [
         "Ver": 2.1,
         "Series": 4,
         "Name": "Pole to Win",
-        "Desc": "Re-accumulate maximum energy  within the duration of Veloci-Dash or Hanu Time in any mode in Clockie's Side Story",
+        "Desc": "Re-accumulate maximum energy within the duration of Veloci-Dash or Hanu Time in any mode in Clockie's Side Story",
         "Reward": 5
     },
     {
@@ -6120,7 +6120,7 @@ var _achievement = [
         "_id": 4043036,
         "Ver": 2.1,
         "Series": 4,
-        "Name": "Pac-Man",
+        "Name": "<i>Pac-Man</i>",
         "Desc": "Smash all destructible objects in Clock Studios Theme Park's maze garden",
         "Reward": 5
     }

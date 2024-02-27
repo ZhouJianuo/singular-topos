@@ -6,7 +6,7 @@ var _chaos = [
         "Name": "Chronicle of the White Nights Dream Kingdom",
         "Buff": {
             "Name": "Memory Turbulence",
-            "Desc": "At the start of every wave of Cycle, apply <color style='color:#f29e38;'>6.0</color> stack(s) of Memory Imprint to all enemies and deplete 1 stack from all enemies after every attack launched by allies. If Memory Imprint decreases to 0 stacks, deal DMG based on a certain percentage of each enemy's respective Max HP 1 time to all enemies. Enemy targets with Memory Imprint receive <color style='color:#f29e38;'>30.0%</color> more DMG.\nWhen enemy targets enter battle and other units in the field currently have Memory Imprints, the new enemies will receive the same number of Memory Imprint stacks as those on the field."
+            "Desc": "At the start of every wave of Cycle, apply <color style='color:#f29e38;'>6.0</color> stack(s) of Memory Imprint to all enemies and deplete 1 stack from all enemies after every attack launched by allies. If Memory Imprint decreases to 0 stacks, deal DMG based on a certain percentage of each enemy's respective Max HP 1 time to all enemies. Enemy targets with Memory Imprint receive <color style='color:#f29e38;'>5.0%</color> more DMG.\nWhen enemy targets enter battle and other units in the field currently have Memory Imprints, the new enemies will receive the same number of Memory Imprint stacks as those on the field."
         },
         "Floors": [
             {
@@ -141,7 +141,7 @@ var _chaos = [
                     "Win with at least 20 Cycle(s) left",
                     "No more than 0 downed character(s)"
                 ],
-                "HPSingle": 85335,
+                "HPSingle": 87101,
                 "HPMulti": 60070,
                 "Upper": [
                     {
@@ -171,9 +171,9 @@ var _chaos = [
                                 },
                                 {
                                     "ID": 3013010,
-                                    "HP": 106006,
+                                    "HP": 123673,
                                     "SPD": 132,
-                                    "Stance": 14
+                                    "Stance": 12
                                 }
                             ]
                         ]
@@ -337,8 +337,8 @@ var _chaos = [
                     "Win with at least 20 Cycle(s) left",
                     "No more than 0 downed character(s)"
                 ],
-                "HPSingle": 107965,
-                "HPMulti": 66592,
+                "HPSingle": 112898,
+                "HPMulti": 69058,
                 "Upper": [
                     {
                         "Level": 75,
@@ -353,9 +353,9 @@ var _chaos = [
                                 },
                                 {
                                     "ID": 3013010,
-                                    "HP": 147982,
+                                    "HP": 172645,
                                     "SPD": 132,
-                                    "Stance": 14
+                                    "Stance": 12
                                 },
                                 {
                                     "ID": 8032020,
@@ -373,9 +373,9 @@ var _chaos = [
                             [
                                 {
                                     "ID": 3013010,
-                                    "HP": 147982,
+                                    "HP": 172645,
                                     "SPD": 132,
-                                    "Stance": 14
+                                    "Stance": 12
                                 },
                                 {
                                     "ID": 3003020,
@@ -667,7 +667,7 @@ var _chaos = [
                     "Win with at least 20 Cycle(s) left",
                     "No more than 0 downed character(s)"
                 ],
-                "HPSingle": 170431,
+                "HPSingle": 173960,
                 "HPMulti": 119972,
                 "Upper": [
                     {
@@ -697,9 +697,9 @@ var _chaos = [
                                 },
                                 {
                                     "ID": 3013010,
-                                    "HP": 211716,
+                                    "HP": 247002,
                                     "SPD": 144,
-                                    "Stance": 14
+                                    "Stance": 12
                                 }
                             ]
                         ]
@@ -864,8 +864,8 @@ var _chaos = [
                     "Win with at least 20 Cycle(s) left",
                     "No more than 0 downed character(s)"
                 ],
-                "HPSingle": 193357,
-                "HPMulti": 116524,
+                "HPSingle": 203068,
+                "HPMulti": 126234,
                 "Upper": [
                     {
                         "Level": 88,
@@ -880,9 +880,9 @@ var _chaos = [
                                 },
                                 {
                                     "ID": 3013010,
-                                    "HP": 291310,
+                                    "HP": 339862,
                                     "SPD": 158,
-                                    "Stance": 14
+                                    "Stance": 12
                                 },
                                 {
                                     "ID": 3002040,
@@ -900,9 +900,9 @@ var _chaos = [
                             [
                                 {
                                     "ID": 3013010,
-                                    "HP": 291310,
+                                    "HP": 339862,
                                     "SPD": 158,
-                                    "Stance": 14
+                                    "Stance": 12
                                 },
                                 {
                                     "ID": 2013010,
@@ -1090,23 +1090,27 @@ var _chaos = [
                     "Win with at least 20 Cycle(s) left",
                     "No more than 0 downed character(s)"
                 ],
-                "HPSingle": 334225,
-                "HPMulti": 212349,
+                "HPSingle": 350937,
+                "HPMulti": 222966,
                 "Upper": [
                     {
                         "Level": 92,
                         "HardLevelGroup": 3,
+                        "EliteGroup": {
+                            "ID": 223,
+                            "HP": 1.05
+                        },
                         "Monsters": [
                             [
                                 {
                                     "ID": 2013010,
-                                    "HP": 299083,
+                                    "HP": 314037,
                                     "SPD": 132,
                                     "Stance": 10
                                 },
                                 {
                                     "ID": 8003040,
-                                    "HP": 299083,
+                                    "HP": 314037,
                                     "SPD": 227,
                                     "Stance": 10
                                 }
@@ -1114,13 +1118,13 @@ var _chaos = [
                             [
                                 {
                                     "ID": 200402006,
-                                    "HP": 747708,
+                                    "HP": 785093,
                                     "SPD": 158,
                                     "Stance": 16
                                 },
                                 {
                                     "ID": 3002010,
-                                    "HP": 82248,
+                                    "HP": 86360,
                                     "SPD": 132,
                                     "Stance": 3
                                 }
@@ -1132,17 +1136,21 @@ var _chaos = [
                     {
                         "Level": 92,
                         "HardLevelGroup": 3,
+                        "EliteGroup": {
+                            "ID": 223,
+                            "HP": 1.05
+                        },
                         "Monsters": [
                             [
                                 {
                                     "ID": 8013010,
-                                    "HP": 328991,
+                                    "HP": 345441,
                                     "SPD": 132,
                                     "Stance": 10
                                 },
                                 {
                                     "ID": 3003020,
-                                    "HP": 538349,
+                                    "HP": 565267,
                                     "SPD": 190,
                                     "Stance": 10
                                 }
@@ -1150,13 +1158,13 @@ var _chaos = [
                             [
                                 {
                                     "ID": 3003020,
-                                    "HP": 538349,
+                                    "HP": 565267,
                                     "SPD": 190,
                                     "Stance": 10
                                 },
                                 {
                                     "ID": 100403002,
-                                    "HP": 508441,
+                                    "HP": 533863,
                                     "SPD": 158,
                                     "Stance": 8
                                 }
@@ -1181,37 +1189,41 @@ var _chaos = [
                     "Win with at least 20 Cycle(s) left",
                     "No more than 0 downed character(s)"
                 ],
-                "HPSingle": 443430,
-                "HPMulti": 321225,
+                "HPSingle": 518499,
+                "HPMulti": 376392,
                 "Upper": [
                     {
                         "Level": 95,
                         "HardLevelGroup": 3,
+                        "EliteGroup": {
+                            "ID": 224,
+                            "HP": 1.1
+                        },
                         "Monsters": [
                             [
                                 {
                                     "ID": 1023020,
-                                    "HP": 418989,
+                                    "HP": 460888,
                                     "SPD": 132,
                                     "Stance": 10
                                 },
                                 {
                                     "ID": 3013010,
-                                    "HP": 418989,
+                                    "HP": 537703,
                                     "SPD": 158,
-                                    "Stance": 14
+                                    "Stance": 12
                                 }
                             ],
                             [
                                 {
                                     "ID": 3013010,
-                                    "HP": 418989,
+                                    "HP": 537703,
                                     "SPD": 158,
-                                    "Stance": 14
+                                    "Stance": 12
                                 },
                                 {
                                     "ID": 100401004,
-                                    "HP": 698316,
+                                    "HP": 768147,
                                     "SPD": 158,
                                     "Stance": 14
                                 }
@@ -1223,17 +1235,21 @@ var _chaos = [
                     {
                         "Level": 95,
                         "HardLevelGroup": 3,
+                        "EliteGroup": {
+                            "ID": 224,
+                            "HP": 1.1
+                        },
                         "Monsters": [
                             [
                                 {
                                     "ID": 2023030,
-                                    "HP": 384074,
+                                    "HP": 422481,
                                     "SPD": 158,
                                     "Stance": 14
                                 },
                                 {
                                     "ID": 8033010,
-                                    "HP": 558652,
+                                    "HP": 614518,
                                     "SPD": 158,
                                     "Stance": 12
                                 }
@@ -1241,7 +1257,7 @@ var _chaos = [
                             [
                                 {
                                     "ID": 8034010,
-                                    "HP": 768147,
+                                    "HP": 921777,
                                     "HPCount": 2,
                                     "SPD": 158,
                                     "Stance": 15
@@ -26647,7 +26663,7 @@ var _chaoshp = {
             67049,
             91342,
             66077,
-            85335
+            87101
         ],
         "Multi": [
             33127,
@@ -26819,7 +26835,7 @@ var _chaoshp = {
             103094,
             95140,
             128559,
-            107965
+            112898
         ],
         "Multi": [
             42373,
@@ -26840,7 +26856,7 @@ var _chaoshp = {
             69058,
             57959,
             88789,
-            66592
+            69058
         ],
         "Index": {
             "110": 0,
@@ -27077,7 +27093,7 @@ var _chaoshp = {
             141312,
             182428,
             131970,
-            170431
+            173960
         ],
         "Multi": [
             47787,
@@ -27249,7 +27265,7 @@ var _chaoshp = {
             202946,
             187288,
             253076,
-            193357
+            203068
         ],
         "Multi": [
             54883,
@@ -27270,7 +27286,7 @@ var _chaoshp = {
             135945,
             114097,
             174786,
-            116524
+            126234
         ],
         "Index": {
             "110": 0,
@@ -27393,14 +27409,14 @@ var _chaoshp = {
             271194,
             451260,
             337534,
-            334225
+            350937
         ],
         "Multi": [
             180796,
             145803,
             297438,
             209956,
-            212349
+            222966
         ],
         "Index": {
             "1009": 0,
@@ -27423,14 +27439,14 @@ var _chaoshp = {
             324368,
             385187,
             433842,
-            443430
+            518499
         ],
         "Multi": [
             256250,
             214083,
             272469,
             317880,
-            321225
+            376392
         ],
         "Index": {
             "1009": 0,

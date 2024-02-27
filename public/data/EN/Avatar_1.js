@@ -3,7 +3,7 @@
 var _avatar = [
     {
         "_id": 1301,
-        "Ver": "2.1v1",
+        "Ver": "2.1v2",
         "Name": "Gallagher",
         "Desc": "The current head of the Bloodhound Family at Penacony. He is always courteous toward guests but keeps his vigilance about him. He seems to be a character with a complicated past, yet never actively mentions any details.",
         "Rarity": 4,
@@ -52,7 +52,7 @@ var _avatar = [
     },
     {
         "_id": 1304,
-        "Ver": "2.1v1",
+        "Ver": "2.1v2",
         "Name": "Aventurine",
         "Desc": "A high-ranking executive of the IPC's Strategic Investment Department.<br>A risk-taker, his constant smile makes it difficult for people to discern his true feelings.",
         "Rarity": 5,
@@ -100,7 +100,7 @@ var _avatar = [
     },
     {
         "_id": 1308,
-        "Ver": "2.1v1",
+        "Ver": "2.1v2",
         "Name": "Acheron",
         "Desc": "A drifter claiming to be a Galaxy Ranger. Her true name is unknown.<br>She walks the cosmos alone, carrying with her a long sword.",
         "Rarity": 5,
@@ -3061,7 +3061,7 @@ var _weapon = [
     {
         "_id": 21039,
         "Name": "Destiny's Threads Forewoven",
-        "Desc": "Destiny always tows the masses onward without reason, and she lurks within the darkness, waiting to inscribe the most crucial of instants.<br><br>Sorting, matching, shuffling, drawing... She simulates fate's hand in how it manipulates all variables for the masses, seeking the trajectory of truth beneath the visage of a disorderly exterior.<br><br>Finally, when all the characters are in their place, she brushes over the card faces that are in stasis, and assembles the unfathomable truth.<br><i>\"Still missing a card... So, I'll add one in.\"</i>",
+        "Desc": "Destiny always tows the masses onward without reason, and she lurks within the darkness, waiting to inscribe the most crucial of instants.<br><br>Sorting, matching, shuffling, drawing... She simulates fate's hand in how it manipulates all variables for the masses, seeking the trajectory of truth beneath the visage of a disorderly exterior.<br><br>Finally, when all the characters are in their place, she brushes over the card faces that are in stasis and assembles the unfathomable truth.<br><i>\"Still missing a card... So, I'll add one in.\"</i>",
         "Rarity": 4,
         "Path": "Preservation",
         "Skill": 21039,
@@ -3079,7 +3079,7 @@ var _weapon = [
     {
         "_id": 21038,
         "Name": "Flames Afar",
-        "Desc": "<i>\"Package secured. I'll leave covering our retreat to you.\"</i><br>Their comrade's voice comes through the communicator.<br><br>They glance around the surroundings, watching as the savaged remnants of their enemies continue to pass through the complex architecture inside the vast and abandoned structure. They are drawing ever closer.<br><i>\"Please hold.\"</i><br><br>After a beat of quietude, a series of apocalyptic explosions rocket up into the sky. Waves of displaced air cast clouds of dust high across the battlefield, and smoke scatter in all directions, the blinding white cleaving light into the night.<br><i>\"You know they purposely planted loads of gunpowder in there, right?\"</i><br><br>With a rustle, they flung open the cape as if they just finished a leisurely stroll.<br><i>\"Of course.\"</i><br><i>\"So, let's light it up. All I need to do is play the part of the match.\"</i>",
+        "Desc": "<i>\"Package secured. I'll leave covering our retreat to you.\"</i><br>Their comrade's voice comes through the communicator.<br><br>They glance around the surroundings, watching as the savaged remnants of their enemies continue to pass through the complex architecture inside the vast and abandoned structure. They are drawing ever closer.<br><i>\"Please hold.\"</i><br><br>After a beat of quietude, a series of apocalyptic explosions rocketed up into the sky. Waves of displaced air cast clouds of dust high across the battlefield, and smoke scattered in all directions, the blinding white cleaving light into the night.<br><i>\"You know they purposely planted loads of gunpowder in there, right?\"</i><br><br>With a rustle, they flung open the cape as if they just finished a leisurely stroll.<br><i>\"Of course.\"</i><br><i>\"So, let's light it up. All I need to do is play the part of the match.\"</i>",
         "Rarity": 4,
         "Path": "Destruction",
         "Skill": 21038,
@@ -4583,7 +4583,7 @@ var _relic = [
             {
                 "Name": "Sigonia's Knot of Cyclicality",
                 "Desc": "Sigonian calameteorites are meticulously polished and shaped, then strung together with gold threads and viridescent silk by the Avgins. They believe that these protective knots must not be buried in the sand, but should radiate like the Mother Goddess' divine body reborn from death on the night of Kakava.",
-                "Story": "\"Avgin\" means \"honey\" in the Sigonian language. This is a commonplace derogatory term emphasizing the cunning, persuasive, and treacherous nature of the Avgins.<br><br>This perception is not entirely baseless, as the Avgins possess naturally appealing features, captivating eyes, and exceptional emotional intelligence borderline that of sorcery, enabling them to easily win the favor of strangers. This inborn talent helps them to navigate between major clans and ethnic groups, effortlessly obtaining whatever they desire — though mostly resorting to less-than-legal means. Nowadays, the Avgins has gained notoriety throughout the entire universe as smugglers, stowaways, swindlers, gamblers, thieves, robbers, and occasional social butterflies.<br><br>The Avgins exhibit a particular fondness for intricately patterned fabrics and are drawn to jewelry crafted from precious jade, with a special affinity for Sigonian Calameteorite. This gemstone is the only one capable of rivaling the resplendent divine body of Gaiathra Triclops in their mythology, who is believed to have been reborn from death.<br><br>Known as Fenge Biyos, their Mother Goddess reigns over all matters related to fertility, travels, and trickery. Depictions of the Mother Goddess in the Avgins' religion often portray her as a left palm adorned with three eyes. The Avgins primarily express reverence for her through spoken prayers alone, believing that the Mother Goddess is as silent and unassuming as the mountains of Sigonia, and that crafting statues or composing hymns for her would only create distance from her protective embrace.<br><br>The Avgins view the world through the body of the Mother Goddess — the earth, the mountains, and all that exists on the land are a part of the Mother Goddess' divine body. And at the end of each calendar year, her divine body will perish.<br><br>On that significant day, her divine essence ascends as a resplendent aurora in the night sky and is reborn in the following day. Hence, Avgins celebrate the first day of the new year through their grand festival called \"Kakava.\" During this festival, they weave sacrificial vessels known as \"Knots of Cyclicality\" and toss them into bonfires to commemorate the Great Goddess' birth.<br><br>According to the incident report from the Marketing Development Department, the second tragedy that claimed the lives of the entire Avgin clan occurred on the night of Kakava. Despite stormy winds and cloud-covered skies that swallowed up the light of the celestial auroras, the Avgins were more excited than ever even though such sights should generally regarded as ill omens. When questioned about this, a maiden from the clan provided the following response.<br><br>\"Rain is a gift from the Mother Goddess. She is calling to us, urging us to take up arms and fight for our future.\"<br>\"This rain will be accompanying us eternally and protecting us. We shall meet our honorable demise in the rain.\"",
+                "Story": "\"Avgin\" means \"honey\" in the Sigonian language. This is a commonplace derogatory term emphasizing the astute, persuasive, and capricious nature of the Avgins.<br><br>This perception is not entirely baseless, as the Avgins possess naturally appealing features, captivating eyes, and exceptional emotional intelligence borderline that of sorcery, enabling them to easily win the favor of strangers. This inborn talent helps them to navigate between major clans and ethnic groups, effortlessly obtaining whatever they desire — though mostly resorting to less-than-legal means. Nowadays, the Avgins has gained notoriety throughout the entire universe as smugglers, stowaways, swindlers, gamblers, thieves, robbers, and occasional social butterflies.<br><br>The Avgins exhibit a particular fondness for intricately patterned fabrics and are drawn to jewelry crafted from precious jade, with a special affinity for Sigonian Calameteorite. This gemstone is the only one capable of rivaling the resplendent divine body of Gaiathra Triclops in their mythology, who is believed to have been reborn from death.<br><br>Known as Fenge Biyos, their Mother Goddess reigns over all matters related to fertility, travels, and trickery. Depictions of the Mother Goddess in the Avgins' religion often portray her as a left palm adorned with three eyes. The Avgins primarily express reverence for her through spoken prayers alone, believing that the Mother Goddess is as silent and unassuming as the mountains of Sigonia, and that crafting statues or composing hymns for her would only create distance from her protective embrace.<br><br>The Avgins view the world through the body of the Mother Goddess — the earth, the mountains, and all that exists on the land are a part of the Mother Goddess' divine body. And at the end of each calendar year, her divine body will perish.<br><br>On that significant day, her divine essence ascends as a resplendent aurora in the night sky and is reborn in the following day. Hence, Avgins celebrate the first day of the new year through their grand festival called \"Kakava.\" During this festival, they weave sacrificial vessels known as \"Knots of Cyclicality\" and toss them into bonfires to commemorate the Great Goddess' birth.<br><br>According to the incident report from the Marketing Development Department, the second tragedy that claimed the lives of the entire Avgin clan occurred on the night of Kakava. Despite stormy winds and cloud-covered skies that swallowed up the light of the celestial auroras, the Avgins were more excited than ever even though such sights should generally regarded as ill omens. When questioned about this, a maiden from the clan provided the following response.<br><br>\"Rain is a gift from the Mother Goddess. She is calling to us, urging us to take up arms and fight for our future.\"<br>\"This rain will be accompanying us eternally and protecting us. We shall meet our honorable demise in the rain.\"",
                 "Icon": "IconRelic_313_6.png"
             }
         ]
@@ -4892,7 +4892,7 @@ var _relic = [
         "Name": "Pioneer Diver of Dead Waters",
         "Icon": "71028.png",
         "Skills": [
-            "Increases DMG dealt to enemies with debuff by <b>12.0%</b>.",
+            "Increases DMG dealt to enemies with debuffs by <b>12.0%</b>.",
             "Increases CRIT Rate by <b>4.0%</b>. The wearer deals <b>8.0%</b>/<b>12.0%</b> increased CRIT DMG to enemies with at least <b>2.0</b>/<b>3.0</b> debuffs. After the wearer inflicts a debuff on enemy targets, the aforementioned effects increase by <b>100%</b>, lasting for <b>1.0</b> turn(s)."
         ],
         "Items": [
@@ -6772,6 +6772,12 @@ var _weaponskill = {
             "Desc": [
                 "Increases the wearer's DEF by <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>54.0%</color> / <color style='color:#f29e38;'>60.0%</color> . When the wearer provides a Shield to an ally, the wearer's CRIT DMG increases by <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>46.0%</color> / <color style='color:#f29e38;'>52.0%</color> / <color style='color:#f29e38;'>58.0%</color> / <color style='color:#f29e38;'>64.0%</color> , lasting for <b>2.0</b> turn(s). When the wearer uses a follow-up attack, there is a <b>100.0%</b> base chance to increase the DMG taken by the attacked enemy by <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>11.0%</color> / <color style='color:#f29e38;'>12.0%</color> , lasting for <b>2.0</b> turn(s)."
             ]
+        },
+        "v2": {
+            "Name": "All-In",
+            "Desc": [
+                "Increases the wearer's DEF by <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>54.0%</color> / <color style='color:#f29e38;'>60.0%</color> . When the wearer provides a Shield to an ally, the wearer's CRIT DMG increases by <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>46.0%</color> / <color style='color:#f29e38;'>52.0%</color> / <color style='color:#f29e38;'>58.0%</color> / <color style='color:#f29e38;'>64.0%</color> , lasting for <b>2.0</b> turn(s). When the wearer uses a follow-up attack, there is a <b>100.0%</b> base chance to increase the DMG taken by the attacked enemy by <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>11.0%</color> / <color style='color:#f29e38;'>12.0%</color> , lasting for <b>2.0</b> turn(s)."
+            ]
         }
     },
     "23024": {
@@ -6780,10 +6786,22 @@ var _weaponskill = {
             "Desc": [
                 "Increases the wearer's CRIT DMG by <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>54.0%</color> / <color style='color:#f29e38;'>60.0%</color> . When the wearer hits the enemy target, there is a <b>100%</b> fixed chance of inflicting Empty Bubbles to the enemy, lasting for 1 turn. This effect can be triggered 1 time against each target for every attack the wearer launches. The wearer deals <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color>  more DMG to targets afflicted with Empty Bubbles, and DMG from Ultimate additionally increases by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> ."
             ]
+        },
+        "v2": {
+            "Name": "Steerer",
+            "Desc": [
+                "Increases the wearer's CRIT DMG by <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>54.0%</color> / <color style='color:#f29e38;'>60.0%</color> . When the wearer hits the enemy target, inflicts Empty Bubbles on the enemy, lasting for 1 turn. This effect can be triggered 1 time against each target for every attack the wearer launches. The wearer deals <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color>  more DMG to targets afflicted with Empty Bubbles, and DMG from Ultimate additionally increases by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> ."
+            ]
         }
     },
     "21043": {
         "v1": {
+            "Name": "Inspire",
+            "Desc": [
+                "Increases the wearer's DEF by <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> . For each character with a Shield on the field, the DMG dealt by the wearer increases by <color style='color:#f29e38;'>4.0%</color> / <color style='color:#f29e38;'>5.0%</color> / <color style='color:#f29e38;'>6.0%</color> / <color style='color:#f29e38;'>7.0%</color> / <color style='color:#f29e38;'>8.0%</color> ."
+            ]
+        },
+        "v2": {
             "Name": "Inspire",
             "Desc": [
                 "Increases the wearer's DEF by <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> . For each character with a Shield on the field, the DMG dealt by the wearer increases by <color style='color:#f29e38;'>4.0%</color> / <color style='color:#f29e38;'>5.0%</color> / <color style='color:#f29e38;'>6.0%</color> / <color style='color:#f29e38;'>7.0%</color> / <color style='color:#f29e38;'>8.0%</color> ."

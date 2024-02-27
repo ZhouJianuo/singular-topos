@@ -128,12 +128,6 @@ var _loadingdesc = [
         "Desc": "A doorman at The Reverie who takes a keen interest in the Path of Trailblaze upon which the Astral Express strides."
     },
     {
-        "_id": 10146,
-        "Ver": 2.0,
-        "Name": "Watchmaker",
-        "Desc": "A legendary figure known as the Father of Penacony and the founder of the Dreamscape.<br>However, his true identity remains a mystery."
-    },
-    {
         "_id": 10147,
         "Ver": 2.0,
         "Name": "Sunday",
@@ -156,12 +150,6 @@ var _loadingdesc = [
         "Ver": 2.0,
         "Name": "Sam",
         "Desc": "One of the Stellaron Hunters, a warrior donning formidable armor.<br>The mecha suit possesses the power to unleash fiery attacks, engulfing the battlefield in flames."
-    },
-    {
-        "_id": 10152,
-        "Ver": 2.0,
-        "Name": "Acheron",
-        "Desc": "A reserved and introverted traveler, closely associated with the Galaxy Ranger. Often prone to forgetting important things."
     },
     {
         "_id": 10156,

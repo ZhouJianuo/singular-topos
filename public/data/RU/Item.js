@@ -606,6 +606,7 @@ var _item = {
                 "Simulated Universe Point Rewards",
                 "Nameless Honor",
                 "Embers Exchange",
+                "",
                 "Limited-Time Event Rewards"
             ],
             "Ver": "1.x"
@@ -3213,6 +3214,17 @@ var _item = {
             "Ver": "1.x"
         },
         {
+            "_id": 300021,
+            "Type": 6,
+            "Rarity": 4,
+            "Name": "Sparkle's Wondrous Pack",
+            "Desc": "A carefully prepared present from a certain Masked Fool.",
+            "Story": "<i>\"Sparkle will never give you up, never let you down, or run around and desert you. She will never make you cry, say goodbye, or tell a lie and hurt you.\"</i>",
+            "Icon": "300021.png",
+            "Pic": "300021.png",
+            "Ver": "2.1"
+        },
+        {
             "_id": 300031,
             "Type": 6,
             "Rarity": 5,
@@ -3332,6 +3344,17 @@ var _item = {
             "Icon": "300201.png",
             "Pic": "300201.png",
             "Ver": "1.x"
+        },
+        {
+            "_id": 300202,
+            "Type": 6,
+            "Rarity": 3,
+            "Name": "Credbits",
+            "Desc": "This currency, used by the Interastral Peace Corporation to settle accounts with its customers, is now widely accepted as the hard currency for space travel... Right?",
+            "Story": "<i>\"People run around fighting and trading for numbers in a terminal, but the truly precious cannot be bought.\"</i>",
+            "Icon": "2.png",
+            "Pic": "2.png",
+            "Ver": "2.1"
         },
         {
             "_id": 309001,
@@ -7602,8 +7625,8 @@ var _item = {
             "Name": "Special Drink \"El dorado\"",
             "Desc": "",
             "Story": "",
-            "Icon": "140099.png",
-            "Pic": "140099.png",
+            "Icon": "140451.png",
+            "Pic": "140451.png",
             "Ver": "2.1"
         },
         {
@@ -7613,8 +7636,8 @@ var _item = {
             "Name": "Special Drink \"The Premature Burial\"",
             "Desc": "",
             "Story": "",
-            "Icon": "140099.png",
-            "Pic": "140099.png",
+            "Icon": "140452.png",
+            "Pic": "140452.png",
             "Ver": "2.1"
         },
         {
@@ -7624,8 +7647,8 @@ var _item = {
             "Name": "Special Drink \"Dream Within Dream\"",
             "Desc": "",
             "Story": "",
-            "Icon": "140099.png",
-            "Pic": "140099.png",
+            "Icon": "140453.png",
+            "Pic": "140453.png",
             "Ver": "2.1"
         },
         {
@@ -7635,8 +7658,8 @@ var _item = {
             "Name": "Special Drink \"The Big Sleep\"",
             "Desc": "",
             "Story": "",
-            "Icon": "140099.png",
-            "Pic": "140099.png",
+            "Icon": "140454.png",
+            "Pic": "140454.png",
             "Ver": "2.1"
         },
         {
@@ -7646,8 +7669,8 @@ var _item = {
             "Name": "Special Drink \"The Long Goodbye\"",
             "Desc": "",
             "Story": "",
-            "Icon": "140099.png",
-            "Pic": "140099.png",
+            "Icon": "140455.png",
+            "Pic": "140455.png",
             "Ver": "2.1"
         },
         {
@@ -7657,8 +7680,8 @@ var _item = {
             "Name": "Special Drink \"Farewell, My Lovely\"",
             "Desc": "",
             "Story": "",
-            "Icon": "140099.png",
-            "Pic": "140099.png",
+            "Icon": "140456.png",
+            "Pic": "140456.png",
             "Ver": "2.1"
         },
         {
@@ -7668,8 +7691,8 @@ var _item = {
             "Name": "Special Drink \"A Ticket to the Boneyard\"",
             "Desc": "",
             "Story": "",
-            "Icon": "140099.png",
-            "Pic": "140099.png",
+            "Icon": "140457.png",
+            "Pic": "140457.png",
             "Ver": "2.1"
         },
         {
@@ -7679,8 +7702,8 @@ var _item = {
             "Name": "Special Drink \"Even the Wicked\"",
             "Desc": "",
             "Story": "",
-            "Icon": "140099.png",
-            "Pic": "140099.png",
+            "Icon": "140458.png",
+            "Pic": "140458.png",
             "Ver": "2.1"
         },
         {
@@ -7690,8 +7713,8 @@ var _item = {
             "Name": "Special Drink \"Time to Murder and Create\"",
             "Desc": "",
             "Story": "",
-            "Icon": "140099.png",
-            "Pic": "140099.png",
+            "Icon": "140459.png",
+            "Pic": "140459.png",
             "Ver": "2.1"
         },
         {
@@ -8350,8 +8373,8 @@ var _item = {
             "Name": "Special Drink \"El dorado\"",
             "Desc": "",
             "Story": "",
-            "Icon": "140099.png",
-            "Pic": "140099.png",
+            "Icon": "150016.png",
+            "Pic": "150016.png",
             "Ver": "2.1"
         },
         {
@@ -8361,8 +8384,8 @@ var _item = {
             "Name": "Special Drink \"The Premature Burial\"",
             "Desc": "",
             "Story": "",
-            "Icon": "140099.png",
-            "Pic": "140099.png",
+            "Icon": "150017.png",
+            "Pic": "150017.png",
             "Ver": "2.1"
         },
         {
@@ -8372,8 +8395,8 @@ var _item = {
             "Name": "Special Drink \"A Dream Within a Dream\"",
             "Desc": "",
             "Story": "",
-            "Icon": "140099.png",
-            "Pic": "140099.png",
+            "Icon": "150018.png",
+            "Pic": "150018.png",
             "Ver": "2.1"
         },
         {
@@ -8383,8 +8406,8 @@ var _item = {
             "Name": "Special Drink \"The Big Sleep\"",
             "Desc": "",
             "Story": "",
-            "Icon": "140099.png",
-            "Pic": "140099.png",
+            "Icon": "150019.png",
+            "Pic": "150019.png",
             "Ver": "2.1"
         },
         {
@@ -8394,8 +8417,8 @@ var _item = {
             "Name": "Special Drink \"The Long Goodbye\"",
             "Desc": "",
             "Story": "",
-            "Icon": "140099.png",
-            "Pic": "140099.png",
+            "Icon": "150020.png",
+            "Pic": "150020.png",
             "Ver": "2.1"
         },
         {
@@ -8405,8 +8428,8 @@ var _item = {
             "Name": "Special Drink \"Farewell, My Lovely\"",
             "Desc": "",
             "Story": "",
-            "Icon": "140099.png",
-            "Pic": "140099.png",
+            "Icon": "150021.png",
+            "Pic": "150021.png",
             "Ver": "2.1"
         },
         {
@@ -8416,8 +8439,8 @@ var _item = {
             "Name": "Special Drink \"A Ticket to the Boneyard\"",
             "Desc": "",
             "Story": "",
-            "Icon": "140099.png",
-            "Pic": "140099.png",
+            "Icon": "150022.png",
+            "Pic": "150022.png",
             "Ver": "2.1"
         },
         {
@@ -8427,8 +8450,8 @@ var _item = {
             "Name": "Special Drink \"Even the Wicked\"",
             "Desc": "",
             "Story": "",
-            "Icon": "140099.png",
-            "Pic": "140099.png",
+            "Icon": "150023.png",
+            "Pic": "150023.png",
             "Ver": "2.1"
         },
         {
@@ -8438,8 +8461,8 @@ var _item = {
             "Name": "Special Drink \"Time to Murder and Create\"",
             "Desc": "",
             "Story": "",
-            "Icon": "140099.png",
-            "Pic": "140099.png",
+            "Icon": "150024.png",
+            "Pic": "150024.png",
             "Ver": "2.1"
         },
         {
@@ -8449,8 +8472,8 @@ var _item = {
             "Name": "Special Drink \"El dorado\"",
             "Desc": "",
             "Story": "",
-            "Icon": "140099.png",
-            "Pic": "140099.png",
+            "Icon": "150025.png",
+            "Pic": "150025.png",
             "Ver": "2.1"
         },
         {
@@ -8460,8 +8483,8 @@ var _item = {
             "Name": "Special Drink \"The Premature Burial\"",
             "Desc": "",
             "Story": "",
-            "Icon": "140099.png",
-            "Pic": "140099.png",
+            "Icon": "150026.png",
+            "Pic": "150026.png",
             "Ver": "2.1"
         },
         {
@@ -8471,8 +8494,8 @@ var _item = {
             "Name": "Special Drink \"A Dream Within a Dream\"",
             "Desc": "",
             "Story": "",
-            "Icon": "140099.png",
-            "Pic": "140099.png",
+            "Icon": "150027.png",
+            "Pic": "150027.png",
             "Ver": "2.1"
         },
         {
@@ -8482,8 +8505,8 @@ var _item = {
             "Name": "Special Drink \"The Big Sleep\"",
             "Desc": "",
             "Story": "",
-            "Icon": "140099.png",
-            "Pic": "140099.png",
+            "Icon": "150028.png",
+            "Pic": "150028.png",
             "Ver": "2.1"
         },
         {
@@ -8493,8 +8516,8 @@ var _item = {
             "Name": "Special Drink \"The Long Goodbye\"",
             "Desc": "",
             "Story": "",
-            "Icon": "140099.png",
-            "Pic": "140099.png",
+            "Icon": "150029.png",
+            "Pic": "150029.png",
             "Ver": "2.1"
         },
         {
@@ -8504,8 +8527,8 @@ var _item = {
             "Name": "Special Drink \"Farewell, My Lovely\"",
             "Desc": "",
             "Story": "",
-            "Icon": "140099.png",
-            "Pic": "140099.png",
+            "Icon": "150030.png",
+            "Pic": "150030.png",
             "Ver": "2.1"
         },
         {
@@ -8515,8 +8538,8 @@ var _item = {
             "Name": "Special Drink \"A Ticket to the Boneyard\"",
             "Desc": "",
             "Story": "",
-            "Icon": "140099.png",
-            "Pic": "140099.png",
+            "Icon": "150031.png",
+            "Pic": "150031.png",
             "Ver": "2.1"
         },
         {
@@ -8526,8 +8549,8 @@ var _item = {
             "Name": "Special Drink \"Even the Wicked\"",
             "Desc": "",
             "Story": "",
-            "Icon": "140099.png",
-            "Pic": "140099.png",
+            "Icon": "150032.png",
+            "Pic": "150032.png",
             "Ver": "2.1"
         },
         {
@@ -11024,6 +11047,7 @@ var _type = {
     "300003": "6",
     "300011": "6",
     "300020": "6",
+    "300021": "6",
     "300031": "6",
     "300041": "6",
     "300042": "6",
@@ -11035,6 +11059,7 @@ var _type = {
     "300104": "6",
     "300200": "6",
     "300201": "6",
+    "300202": "6",
     "309001": "6",
     "309002": "6",
     "309003": "6",
@@ -11899,31 +11924,33 @@ var _index = {
     "300003": 21,
     "300011": 22,
     "300020": 23,
-    "300031": 24,
-    "300041": 25,
-    "300042": 26,
-    "300051": 27,
-    "300052": 28,
-    "300101": 29,
-    "300102": 30,
-    "300103": 31,
-    "300104": 32,
-    "300200": 33,
-    "300201": 34,
-    "309001": 35,
-    "309002": 36,
-    "309003": 37,
-    "310001": 38,
-    "310002": 39,
-    "310003": 40,
-    "310004": 41,
-    "310005": 42,
-    "310006": 43,
-    "310007": 44,
-    "310008": 45,
-    "310009": 46,
-    "310010": 47,
-    "310011": 48,
+    "300021": 24,
+    "300031": 25,
+    "300041": 26,
+    "300042": 27,
+    "300051": 28,
+    "300052": 29,
+    "300101": 30,
+    "300102": 31,
+    "300103": 32,
+    "300104": 33,
+    "300200": 34,
+    "300201": 35,
+    "300202": 36,
+    "309001": 37,
+    "309002": 38,
+    "309003": 39,
+    "310001": 40,
+    "310002": 41,
+    "310003": 42,
+    "310004": 43,
+    "310005": 44,
+    "310006": 45,
+    "310007": 46,
+    "310008": 47,
+    "310009": 48,
+    "310010": 49,
+    "310011": 50,
     "140000": 0,
     "140004": 1,
     "140017": 2,
