@@ -37,6 +37,7 @@ $(function () {
     var cur_promote = 1
 
     var check_interval = 0
+    var unchanged = 1
 
     let script_computer = document.createElement('script')
     script_computer.src = '/data/' + lang2 + '/Avatar_1.js'
@@ -573,6 +574,7 @@ $(function () {
     }
 
     function popAvatar(ai) {
+        unchanged = 1
         cur_level = 80
         cur_promote = 1
         cur_avatar_page = 1
@@ -637,7 +639,7 @@ $(function () {
     }
 
     function renderAvatarAfter(i) {
-        if (a_2) {
+        if (a_2 && unchanged) {
             this_avatar_vers = getVer(_avatarskill[this_avatar.Skills[0]])
             this_avatar_cur_ver = this_avatar_vers[1]
         }
@@ -1989,6 +1991,7 @@ $(function () {
                 },
             ]
         })
+        $('.stat_ver_choose_w select').val(this_weapon_cur_ver)
     }
 
     function popRelic(ai) {
@@ -2070,6 +2073,7 @@ $(function () {
     }
 
     $('body').on('change', '.stat_ver_choose select', function () {
+        unchanged = 0
         this_avatar_cur_ver = $(this).val()
         renderAvatar(cur_avatar_page)
     })
@@ -2077,7 +2081,7 @@ $(function () {
     $('body').on('change', '.stat_ver_choose_w select', function () {
         this_weapon_cur_ver = $(this).val()
         $('.weapon_skill_name').html(_weaponskill[this_weapon.Skill][this_weapon_cur_ver].Name)
-        $('.weapon_skill').empty.render({
+        $('.weapon_skill').empty().render({
             p: `[[.]]`.replaceAll("<color style='color:#f29e38;'> <b>", "<color style='color:#f29e38;'>").replaceAll("<color style='color:#f29e38;'><b>", "<color style='color:#f29e38;'>").replaceAll("</b> </color>", "</color>").replaceAll("</b></color>", "</color>").replaceAll("<b>", ""),
             data: _weaponskill[this_weapon.Skill][this_weapon_cur_ver].Desc
         })

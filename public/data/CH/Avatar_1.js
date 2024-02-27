@@ -6810,6 +6810,33 @@ var _weaponskill = {
     }
 }
 
-var _changelog = []
+var _changelog = [
+    {
+        "Ver": "2.1v2",
+        "Logs": [
+            {
+                "Name": "黄泉",
+                "Color": "Elec",
+                "Notes": [
+                    "<color style='color:#f29d38'>星魂 #4：</color>施放终结技时，敌方全体陷入的终结技伤害易伤，持续时间 2 → 3 回合。",
+                    "<color style='color:#f29d38'>终结技：</color>消去【集真赤】时的伤害倍率提高效果，最多计入 4 层。",
+                    "<color style='color:#f29d38'>秘技：</color><br>进入战斗后，对敌方全体造成 80% 攻击力的伤害，和 2 点雷属性削韧 <br>→<br> 每个波次开始时，对敌方全体造成 200% 攻击力的伤害，和 2 点全属性削韧。",
+                    "<color style='color:#f29d38'>秘技：</color><br>进入战斗后获得 2 点【残梦】，对敌方随机单体施加 2 层【集真赤】 <br>→<br> 每个波次开始时，下次施放终结技后获得 1 点【残梦】，对敌方随机单体施加 1 层【集真赤】。"
+                ]
+            },
+            {
+                "Name": "砂金",
+                "Color": "Imaginary",
+                "Notes": [
+                    "<color style='color:#f29d38'>星魂 #6：</color>新增加伤上限，最多计入 3 名带护盾的角色。",
+                    "<color style='color:#f29d38'>秘技：</color>进入战斗后，砂金的防御力提高 → 我方全体防御力提高。",
+                    "<color style='color:#f29d38'>天赋：</color>英文名字更改。"
+                ]
+            }
+        ]
+    }
+]
 
-var cl_select = {}
+var cl_select = {
+    "2.1v2": 0
+}

@@ -6810,6 +6810,33 @@ var _weaponskill = {
     }
 }
 
-var _changelog = []
+var _changelog = [
+    {
+        "Ver": "2.1v2",
+        "Logs": [
+            {
+                "Name": "Acheron",
+                "Color": "Elec",
+                "Notes": [
+                    "<color style='color:#f29d38'>Eidolon #4:</color> When casting Ult, all enemies' Ult DMG Vulnerability duration 2 → 3 turns.",
+                    "<color style='color:#f29d38'>Ultimate:</color> When Crimson Knot is removed, the DMG multiplier increase effect counts at most 4 stacks.",
+                    "<color style='color:#f29d38'>Technique:</color> <br>After entering battle, deal 80% ATK DMG to all enemies and 2 Thunder Toughness Break <br>→<br> At the start of every wave, deal 200% ATK DMG to all enemies and 2 All-Type Toughness Break.",
+                    "<color style='color:#f29d38'>Technique:</color> <br>After entering battle, gain 2 points of Slashed Dream and inflict 2 stacks of Crimson Knot on a random target <br>→<br> At the start of every wave, after Acheron casts her Ult, gain 1 point of Slashed Dream and inflict 1 stack of Crimson Knot on a random target."
+                ]
+            },
+            {
+                "Name": "Aventurine",
+                "Color": "Imaginary",
+                "Notes": [
+                    "<color style='color:#f29d38'>Eidolon #6:</color> Added an upper limit - counts at most 6 shielded allies.",
+                    "<color style='color:#f29d38'>Technique:</color> After entering battle, Aventurine's DEF increases → All allies' DEF incraeses.",
+                    "<color style='color:#f29d38'>Talent:</color> Skill Name changed - Sights Aimed Right → Shot Loaded Right."
+                ]
+            }
+        ]
+    }
+]
 
-var cl_select = {}
+var cl_select = {
+    "2.1v2": 0
+}
