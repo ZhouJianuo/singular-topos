@@ -26201,7 +26201,7 @@ var _avatarskill = {
             "MaxLevel": 1,
             "Type": "Technique",
             "Tag": "",
-            "Desc": "Attacks the enemy. After entreing battle, at the start of every wave, deals Lightning DMG to all enemies, as well as reduces Toughness of all enemies irrespective of Weakness Types, and causes Acheron to gain <color style='color:#f29e38;'><b>#2[f]</b></color> points of Slashed Dream and inflicts <color style='color:#f29e38;'><b>#2[f]</b></color> stack(s) of Crimson Knot on a single random enemy the next time her Ultimate is cast. When inflicting Weakness Break this way, triggers the Lightning Weakness Break effect.<br>If the enemy has Red Karma, they will be immediately defeated and will not enter combat. The Technique Point is not spent if the attack does not hit an enemy.<br>Hidden Stat: #1[f]",
+            "Desc": "Attacks the enemy. After entering battle, at the start of every wave, deals Lightning DMG to all enemies, as well as reduces Toughness of all enemies irrespective of Weakness Types, and grants Acheron <color style='color:#f29e38;'><b>#2[f]</b></color> point of Slashed Dream and inflicts <color style='color:#f29e38;'><b>#2[f]</b></color> stack of Crimson Knot on a single random enemy the next time her Ultimate is cast. When inflicting Weakness Break this way, triggers the Lightning Weakness Break effect.<br>If the enemy has Red Karma, they will be immediately defeated and will not enter combat. The Technique Point is not spent if the attack does not hit an enemy.<br>Hidden Stat: #1[f]",
             "Params": [
                 [
                     2.0,
