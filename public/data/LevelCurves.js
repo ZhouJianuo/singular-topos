@@ -8816,8 +8816,8 @@ var _curvedescrev = {
     },
     "EN": {
         "1": "Standard",
-        "2": "MoC",
-        "3": "Powered",
+        "3": "MoC",
+        "2": "Powered",
         "1401": "Aetherium Wars"
     }
 }
