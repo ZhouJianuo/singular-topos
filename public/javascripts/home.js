@@ -42,6 +42,7 @@ $(function() {
 
     $('h3 .lang').html(txt.Home_Lang[GAME][lang2])
     $('h3 .lang').css('margin-top', '20px')
+    $('h3 .lang').show()
 
     $('container').render({
         div: [

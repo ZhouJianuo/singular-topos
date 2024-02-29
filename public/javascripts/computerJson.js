@@ -11,7 +11,7 @@ var computer_ = {
             "RU": "HomDGCat Wiki"
         },
         "Subtitle": {
-            "CH": "<p><b><span style='white-space:pre;'><a href='https://space.bilibili.com/3537104994831140' target='_blank'>bilibili@妮可少女</a> | <a href='http://t.me/homdgcat' target='_blank'>t.me/homdgcat</a></span></b></p>",
+            "CH": "<p><b>homdgcat.wiki | <span style='white-space:pre;'><a href='http://t.me/homdgcat' target='_blank'>t.me/homdgcat</a></span></b></p>",
             "EN": "<p><b>homdgcat.wiki | <span style='white-space:pre;'><a href='http://t.me/homdgcat' target='_blank'>t.me/homdgcat</a></span></b></p>",
             "RU": "<p><b>homdgcat.wiki | <span style='white-space:pre;'><a href='http://t.me/homdgcat' target='_blank'>t.me/homdgcat</a></span></b></p>"
         },
@@ -6381,9 +6381,7 @@ var lang2 = is_ru ? 'RU' : lang
 if (lang == 'EN') { $('body').css('font-family', "'Segoe UI', 'Arial', sans-serif") }
 else { $('body').css('font-family', "'Microsoft YaHei', sans-serif") }
 
-$('h3 .links').html(computer_.MiscText.Page[is_ru ? 'RU' : lang])
-
-$('body').on('click', '.links', function () {
+$('body').on('click', '._menu_', function () {
     poplayer({
         header: '',
         class: 'yuhengcup',
@@ -6499,5 +6497,15 @@ $('body').on('click', '._subtitle', function () {
         if (lang == 'EN') { $('body').css('font-family', "'Segoe UI', sans-serif") }
         else { $('body').css('font-family', "'Microsoft YaHei', sans-serif") }
         $('body').css('text-transform', 'none')
+    }
+})
+
+var SHOW_LANG = 0
+$('body').on('click', '._translate_', function () {
+    SHOW_LANG = 1 - SHOW_LANG
+    if (SHOW_LANG) {
+        $('h3 .tlsub').show()
+    } else {
+        $('h3 .tlsub').hide()
     }
 })

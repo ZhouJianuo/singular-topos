@@ -6,6 +6,17 @@ $(function () {
     $('h3 .title').html(computer_.MiscText.AbyssTitle[lang2] + "<color style='font-size: 0.5em;'><br><b>" + VER_GI + "</b></color>")
     $('h3 .subtitle').html(computer_.MiscText.Subtitle[lang])
     $('h3 .tlsub').html(computer_.MiscText.Translate_Abyss[lang2])
+    $('h3 .tlsub').hide()
+    $('h3 .links').render([
+        {
+            img: imgpre + 'images/menu.png',
+            class: '_menu_'
+        },
+        {
+            img: imgpre + 'images/translate.png',
+            class: '_translate_'
+        }
+    ]);
 
     var moreless = 0
     var cur_schedule_ver = ""

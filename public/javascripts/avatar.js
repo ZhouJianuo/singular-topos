@@ -101,6 +101,17 @@ $(function () {
     $('h3 .title').html(computer_.MiscText.Avatar_Title[lang] + "<color style='font-size: 0.5em;'><br><b>" + VER_GI + "</b></color>");
     $('h3 .subtitle').html(computer_.MiscText.Subtitle[lang]);
     $('h3 .tlsub').html(computer_.MiscText.Translate_Char[lang2]);
+    $('h3 .tlsub').hide()
+    $('h3 .links').render([
+        {
+            img: imgpre + 'images/menu.png',
+            class: '_menu_'
+        },
+        {
+            img: imgpre + 'images/translate.png',
+            class: '_translate_'
+        }
+    ]);
 
     cl_show = 0 
     if ($("#UPDATE").val()) cl_show = 1

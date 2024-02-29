@@ -34,12 +34,13 @@ h3 a {
 h3 .tlsub {
     font-style: normal;
     cursor: pointer;
+    display: block;
 }
 
 h3 .links {
     font-style: normal;
-    display: block;
     line-height: 1.6;
+    cursor: pointer;
 }
 
 container {

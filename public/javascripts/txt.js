@@ -718,3 +718,13 @@ function lm(lis, i) {
 }
 
 var IS_SW = 0
+
+var SHOW_LANG = 0
+$('body').on('click', '._translate_', function () {
+    SHOW_LANG = 1 - SHOW_LANG
+    if (SHOW_LANG) {
+        $('h3 .lang').show()
+    } else {
+        $('h3 .lang').hide()
+    }
+})
