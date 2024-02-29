@@ -9149,8 +9149,8 @@ var _AvatarPromoteConfig = {
 var _WeaponConfig = [
     {
         "_id": "15512",
-        "Name": "The First Great Magic",
-        "Desc": "A stage prop once used by a past \"Great Magician.\" Its final secret was that it was also a weapon beyond the pale.",
+        "Name": "Первый великий фокус",
+        "Desc": "Сценический реквизит, в прошлом используемый «великим иллюзионистом». И его тайна наконец-таки была раскрыта - на самом деле это необыкновенное оружие.",
         "Type": 5,
         "Rank": 5,
         "Icons": [
@@ -9169,7 +9169,7 @@ var _WeaponConfig = [
             61601
         ],
         "AscMatID": 114052,
-        "EquipAffixName": "Parsifal the Great",
+        "EquipAffixName": "Славься, Парсифаль!",
         "EquipAffixID": 115512,
         "Extra": [],
         "Story": 195512,
@@ -9177,8 +9177,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15511",
-        "Name": "Hunter's Path",
-        "Desc": "This gilded bow was made using precious white branches. It has felled countless wicked beasts attempting to infiltrate the woods.",
+        "Name": "Охотничья тропа",
+        "Desc": "Этот позолоченный лук, выполненный из драгоценных белых ветвей, сразил бесчисленное множество злых тварей, которые попытались вторгнуться в лес.",
         "Type": 5,
         "Rank": 5,
         "Icons": [
@@ -9197,7 +9197,7 @@ var _WeaponConfig = [
             53101
         ],
         "AscMatID": 114048,
-        "EquipAffixName": "At the End of the Beast-Paths",
+        "EquipAffixName": "Конец звериной тропы",
         "EquipAffixID": 115511,
         "Extra": [],
         "Story": 195511,
@@ -9205,8 +9205,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15509",
-        "Name": "Thundering Pulse",
-        "Desc": "A longbow that was a gift from the Shogun. Eternal lightning crackles all around it.",
+        "Name": "Громовой пульс",
+        "Desc": "Лук, дарованный сёгуном. Его окружают непрестанно потрескивающие молнии.",
         "Type": 5,
         "Rank": 5,
         "Icons": [
@@ -9225,7 +9225,7 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114032,
-        "EquipAffixName": "Rule by Thunder",
+        "EquipAffixName": "Правило грома",
         "EquipAffixID": 115509,
         "Extra": [],
         "Story": 195509,
@@ -9233,8 +9233,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15508",
-        "Name": "Aqua Simulacra",
-        "Desc": "This longbow's color is unpredictable. Under the light, it takes on a lustrous, watery blue.",
+        "Name": "Аква симулякрум",
+        "Desc": "Лук, цвет которого непредсказуем. На свету отливает нежной синевой воды.",
         "Type": 5,
         "Rank": 5,
         "Icons": [
@@ -9253,7 +9253,7 @@ var _WeaponConfig = [
             601
         ],
         "AscMatID": 114016,
-        "EquipAffixName": "The Cleansing Form",
+        "EquipAffixName": "Очищающая форма",
         "EquipAffixID": 115508,
         "Extra": [],
         "Story": 195508,
@@ -9261,8 +9261,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15507",
-        "Name": "Polar Star",
-        "Desc": "A pristine bow that is as sharp as the glaciers of the far north.",
+        "Name": "Полярная звезда",
+        "Desc": "Белоснежный лук, пронзительный, как льды суровой зимы.",
         "Type": 5,
         "Rank": 5,
         "Icons": [
@@ -9281,7 +9281,7 @@ var _WeaponConfig = [
             601
         ],
         "AscMatID": 114036,
-        "EquipAffixName": "Daylight's Augury",
+        "EquipAffixName": "Знамение полярного дня",
         "EquipAffixID": 115507,
         "Extra": [],
         "Story": 195507,
@@ -9289,8 +9289,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15503",
-        "Name": "Elegy for the End",
-        "Desc": "A bow as lovely as any bard's lyre, its arrows pierce the heart like a lamenting sigh.",
+        "Name": "Элегия погибели",
+        "Desc": "В изящности этот лук не уступает лире барда. Словно вздох печали, выпущенные из него стрелы разят точно в сердце.",
         "Type": 5,
         "Rank": 5,
         "Icons": [
@@ -9309,7 +9309,7 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114008,
-        "EquipAffixName": "The Parting Refrain",
+        "EquipAffixName": "Песнь разлуки",
         "EquipAffixID": 115503,
         "Extra": [],
         "Story": 195503,
@@ -9317,8 +9317,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15502",
-        "Name": "Amos' Bow",
-        "Desc": "An extremely ancient bow that has retained its power despite its original master being long gone. It draws power from everyone and everything in the world, and the further away you are from that which your heart desires, the more powerful it is.",
+        "Name": "Лук Амоса",
+        "Desc": "Необычайно древний лук, который до сих пор сохранил силу своего давно ушедшего хозяина. Он поглощает энергию всего и всех на свете. Чем дальше вы от желаемой цели, тем мощнее выпущенные им стрелы.",
         "Type": 5,
         "Rank": 5,
         "Icons": [
@@ -9337,7 +9337,7 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114012,
-        "EquipAffixName": "Strong-Willed",
+        "EquipAffixName": "Волевая стрела",
         "EquipAffixID": 115502,
         "Extra": [],
         "Story": 195502,
@@ -9345,8 +9345,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15501",
-        "Name": "Skyward Harp",
-        "Desc": "A greatbow that symbolizes Dvalin's affiliation with the Anemo Archon. The sound of the bow firing is music to the Anemo Archon's ears. It contains the power of the sky and wind within.",
+        "Name": "Небесное крыло",
+        "Desc": "Длинный лук, символ дружбы между Двалином и Анемо Архонтом. Звук спущенной тетивы исполнен любовью Анемо Архонта, питающей его силой небес и ветров.",
         "Type": 5,
         "Rank": 5,
         "Icons": [
@@ -9365,7 +9365,7 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114008,
-        "EquipAffixName": "Echoing Ballad",
+        "EquipAffixName": "Эхо небесной поэзии",
         "EquipAffixID": 115501,
         "Extra": [],
         "Story": 195501,
@@ -9373,8 +9373,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15427",
-        "Name": "Range Gauge",
-        "Desc": "A measuring instrument that you can rarely find nowadays. It is capable of firing arrows.",
+        "Name": "Дальномер",
+        "Desc": "Измерительный инструмент, который в наше время нигде не найти. Способен выпускать стрелы.",
         "Type": 5,
         "Rank": 4,
         "Icons": [
@@ -9393,7 +9393,7 @@ var _WeaponConfig = [
             61601
         ],
         "AscMatID": 114052,
-        "EquipAffixName": "Masons' Ditty",
+        "EquipAffixName": "Запевка каменщиков",
         "EquipAffixID": 115427,
         "Extra": [],
         "Story": 195427,
@@ -9401,8 +9401,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15425",
-        "Name": "Song of Stillness",
-        "Desc": "A strange longbow that resembles a sea creature. Its string makes no sound at all.",
+        "Name": "Мелодия покоя",
+        "Desc": "Диковинного вида лук, похожий на морское создание. Его тетива абсолютно беззвучна.",
         "Type": 5,
         "Rank": 4,
         "Icons": [
@@ -9421,7 +9421,7 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114052,
-        "EquipAffixName": "Benthic Pulse",
+        "EquipAffixName": "Пульсация глубин",
         "EquipAffixID": 115425,
         "Extra": [],
         "Story": 195425,
@@ -9429,8 +9429,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15424",
-        "Name": "Scion of the Blazing Sun",
-        "Desc": "An ancient longbow that is a remnant of King Deshret's ancient era. An indecipherable ancient text and solemn patterns have been carved into it.",
+        "Name": "Наследник слепящего солнца",
+        "Desc": "Старинный длинный лук эпохи правления царя Дешрета. На нём выгравированы таинственные древние символы и величественные узоры.",
         "Type": 5,
         "Rank": 4,
         "Icons": [
@@ -9449,7 +9449,7 @@ var _WeaponConfig = [
             60902
         ],
         "AscMatID": 114048,
-        "EquipAffixName": "The Way of Sunfire",
+        "EquipAffixName": "Путь слепящего солнца",
         "EquipAffixID": 115424,
         "Extra": [],
         "Story": 195424,
@@ -9457,8 +9457,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15419",
-        "Name": "Ibis Piercer",
-        "Desc": "A golden bow forged from the description in the story. If you use it as a normal weapon, you can also view it as a part of a fictional world that has made it off the pages.",
+        "Name": "Клюв ибиса",
+        "Desc": "Золотой лук, выкованный по описанию из истории. Если использовать его как обычное оружие, он словно становится частичкой вымышленного мира, сошедшей со страниц книги.",
         "Type": 5,
         "Rank": 4,
         "Icons": [
@@ -9477,7 +9477,7 @@ var _WeaponConfig = [
             53101
         ],
         "AscMatID": 114040,
-        "EquipAffixName": "Secret Wisdom's Favor",
+        "EquipAffixName": "Благоволение тайной мудрости",
         "EquipAffixID": 115419,
         "Extra": [],
         "Story": 195419,
@@ -9485,8 +9485,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15418",
-        "Name": "End of the Line",
-        "Desc": "This seems to be a now-extinct fish. Its body is sufficiently elastic that a string may be attached to it to let it serve as a bow.",
+        "Name": "Иссушитель",
+        "Desc": "Рыба, принадлежащая к вымершему виду. Если к её гибкому телу прикрепить тетиву, она может послужить в качестве лука.",
         "Type": 5,
         "Rank": 4,
         "Icons": [
@@ -9505,7 +9505,7 @@ var _WeaponConfig = [
             60902
         ],
         "AscMatID": 114048,
-        "EquipAffixName": "Net Snapper",
+        "EquipAffixName": "Разрывающий сети",
         "EquipAffixID": 115418,
         "Extra": [],
         "Story": 195418,
@@ -9513,8 +9513,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15417",
-        "Name": "King's Squire",
-        "Desc": "A weapon you obtained from an Aranara tale. It has taken on the shape of a bow that can shoot the enemies of the forest down.",
+        "Name": "Приближённый короля",
+        "Desc": "Оружие, полученное из истории аранар. Оно приняло форму лука, который способен поражать врагов леса стрелами.",
         "Type": 5,
         "Rank": 4,
         "Icons": [
@@ -9533,7 +9533,7 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114048,
-        "EquipAffixName": "Labyrinth Lord's Instruction",
+        "EquipAffixName": "Учения владыки лабиринта",
         "EquipAffixID": 115417,
         "Extra": [],
         "Story": 195417,
@@ -9541,8 +9541,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15416",
-        "Name": "Mouun's Moon",
-        "Desc": "A lovely warbow made from seashells and coral. A mournful brilliance flows along its moonlight-colored arms.",
+        "Name": "Луна Моун",
+        "Desc": "Прелестный лук, украшенный перламутром и кораллами. На его плечах цвета луны переливается печальное сияние.",
         "Type": 5,
         "Rank": 4,
         "Icons": [
@@ -9561,7 +9561,7 @@ var _WeaponConfig = [
             601
         ],
         "AscMatID": 114032,
-        "EquipAffixName": "Watatsumi Wavewalker",
+        "EquipAffixName": "Укротитель волн Ватацуми",
         "EquipAffixID": 115416,
         "Extra": [],
         "Story": 195416,
@@ -9569,8 +9569,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15415",
-        "Name": "Predator",
-        "Desc": "A uniquely-designed bow. This should not belong in this world.",
+        "Name": "Хищник",
+        "Desc": "Конструкция этого лука абсолютно уникальна, словно бы он не принадлежит этому миру.",
         "Type": 5,
         "Rank": 4,
         "Icons": [
@@ -9589,7 +9589,7 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114032,
-        "EquipAffixName": "Strong Strike",
+        "EquipAffixName": "Сильная атака",
         "EquipAffixID": 115415,
         "Extra": [],
         "Story": 195415,
@@ -9597,8 +9597,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15414",
-        "Name": "Hamayumi",
-        "Desc": "A certain shrine maiden once owned this warbow. It was made with surpassing skill, and is both intricate and sturdy.",
+        "Name": "Хамаюми",
+        "Desc": "Боевой лук, когда-то принадлежавший одной жрице. Изысканный и прочный, он был изготовлен с использованием непревзойденной техники.",
         "Type": 5,
         "Rank": 4,
         "Icons": [
@@ -9617,7 +9617,7 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114032,
-        "EquipAffixName": "Full Draw",
+        "EquipAffixName": "Ничья",
         "EquipAffixID": 115414,
         "Extra": [],
         "Story": 195414,
@@ -9625,8 +9625,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15413",
-        "Name": "Windblume Ode",
-        "Desc": "A bow adorned with nameless flowers that bears the earnest hopes of an equally nameless person.",
+        "Name": "Ода анемонии",
+        "Desc": "Украшенный безымянными цветами лук несёт заветные желания такого же безымянного человека.",
         "Type": 5,
         "Rank": 4,
         "Icons": [
@@ -9645,7 +9645,7 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114012,
-        "EquipAffixName": "Windblume Wish",
+        "EquipAffixName": "Желание анемонии",
         "EquipAffixID": 115413,
         "Extra": [],
         "Story": 195413,
@@ -9653,8 +9653,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15412",
-        "Name": "Mitternachts Waltz",
-        "Desc": "A bow painted the color of transgression and nights of illusion.",
+        "Name": "Вальс Нирваны Ночи",
+        "Desc": "Лук, окрашенный в цвета греха и диких ночных фантазий.",
         "Type": 5,
         "Rank": 4,
         "Icons": [
@@ -9673,7 +9673,7 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114004,
-        "EquipAffixName": "Evernight Duet",
+        "EquipAffixName": "Дуэт полярной ночи",
         "EquipAffixID": 115412,
         "Extra": [],
         "Story": 195412,
@@ -9681,8 +9681,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15411",
-        "Name": "Fading Twilight",
-        "Desc": "A precious bow made of platinum, inlaid with an orb that shimmers with the light of eventide.",
+        "Name": "Гаснущие сумерки",
+        "Desc": "Драгоценный лук из платины, инкрустированный мерцающей сферой цвета зари.",
         "Type": 5,
         "Rank": 4,
         "Icons": [
@@ -9701,7 +9701,7 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114024,
-        "EquipAffixName": "Radiance of the Deeps",
+        "EquipAffixName": "Сияние бездны",
         "EquipAffixID": 115411,
         "Extra": [],
         "Story": 195411,
@@ -9709,8 +9709,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15410",
-        "Name": "Alley Hunter",
-        "Desc": "An intricate, opulent longbow. It once belonged to a gentleman thief who was never caught.",
+        "Name": "Охотник во тьме",
+        "Desc": "Мастерски исполненный роскошный лук. Принадлежал он благородному вору, которого никто так и не поймал.",
         "Type": 5,
         "Rank": 4,
         "Icons": [
@@ -9729,7 +9729,7 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114012,
-        "EquipAffixName": "Oppidan Ambush",
+        "EquipAffixName": "Уличная засада",
         "EquipAffixID": 115410,
         "Extra": [],
         "Story": 195410,
@@ -9737,8 +9737,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15409",
-        "Name": "The Viridescent Hunt",
-        "Desc": "A pure green hunting bow. This once belonged to a certain hunter whose home was the forest.",
+        "Name": "Зелёный лук",
+        "Desc": "Лук чистого тёмно-зеленого цвета. Он принадлежал охотнику, который жил в лесу.",
         "Type": 5,
         "Rank": 4,
         "Icons": [
@@ -9757,7 +9757,7 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114004,
-        "EquipAffixName": "Verdant Wind",
+        "EquipAffixName": "Зелёный ветер",
         "EquipAffixID": 115409,
         "Extra": [],
         "Story": 195409,
@@ -9765,8 +9765,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15408",
-        "Name": "Blackcliff Warbow",
-        "Desc": "A bow made of blackcliff that features extremely sturdy bow limbs. It requires an archer with a strong bow arm to use.",
+        "Name": "Черногорский боевой лук",
+        "Desc": "Весьма крепкий лук из чёрного камня. Только лучники с сильными руками смогут им воспользоваться.",
         "Type": 5,
         "Rank": 4,
         "Icons": [
@@ -9785,7 +9785,7 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114016,
-        "EquipAffixName": "Press the Advantage",
+        "EquipAffixName": "Преследование побеждённых",
         "EquipAffixID": 115408,
         "Extra": [],
         "Story": 195408,
@@ -9793,8 +9793,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15407",
-        "Name": "Compound Bow",
-        "Desc": "An exotic metallic bow from a distant land. Though extremely difficult to maintain, it is easy to nock and fires with tremendous force.",
+        "Name": "Составной лук",
+        "Desc": "Экзотичный металлический составной лук, привезённый издалека. Сложен в уходе, но прост в обращении.",
         "Type": 5,
         "Rank": 4,
         "Icons": [
@@ -9813,7 +9813,7 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114024,
-        "EquipAffixName": "Infusion Arrow",
+        "EquipAffixName": "Заряженная стрела",
         "EquipAffixID": 115407,
         "Extra": [],
         "Story": 195407,
@@ -9821,8 +9821,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15406",
-        "Name": "Prototype Crescent",
-        "Desc": "A prototype longbow discovered in the Blackcliff Forge. The arrow fired from this bow glimmers like a ray of moonlight.",
+        "Name": "Прототип: Полумесяц",
+        "Desc": "Древний лук, обнаруженный в кузнице Черногорья. Выпущенная из этого лука стрела сияет, как луна после захода солнца.",
         "Type": 5,
         "Rank": 4,
         "Icons": [
@@ -9841,7 +9841,7 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114020,
-        "EquipAffixName": "Unreturning",
+        "EquipAffixName": "Невозвратный",
         "EquipAffixID": 115406,
         "Extra": [],
         "Story": 195406,
@@ -9849,8 +9849,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15405",
-        "Name": "Rust",
-        "Desc": "A completely rusted iron greatbow. The average person would lack the strength to even lift it, let alone fire it.",
+        "Name": "Ржавый лук",
+        "Desc": "Полностью проржавевший железный лук. У многих даже не получится поднять его, не говоря уж о стрельбе.",
         "Type": 5,
         "Rank": 4,
         "Icons": [
@@ -9869,7 +9869,7 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114016,
-        "EquipAffixName": "Rapid Firing",
+        "EquipAffixName": "Быстрая стрельба",
         "EquipAffixID": 115405,
         "Extra": [],
         "Story": 195405,
@@ -9877,8 +9877,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15404",
-        "Name": "Royal Bow",
-        "Desc": "An old longbow that belonged to the erstwhile aristocratic rulers of Mondstadt. Countless generations later, the bowstring is still tight and can still fire arrows with great force.",
+        "Name": "Королевский лук",
+        "Desc": "Древний лук правителя Мондштадта. Спустя века, тетива на нём всё ещё крепко натянута и готова пускать стрелы.",
         "Type": 5,
         "Rank": 4,
         "Icons": [
@@ -9897,7 +9897,7 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114012,
-        "EquipAffixName": "Focus",
+        "EquipAffixName": "Сосредоточенный",
         "EquipAffixID": 115404,
         "Extra": [],
         "Story": 195404,
@@ -9905,8 +9905,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15403",
-        "Name": "Sacrificial Bow",
-        "Desc": "A ceremonial hunting bow that has become petrified over time. The trinkets on it are still visible. It grants the wielder the power to withstand the winds of time.",
+        "Name": "Церемониальный лук",
+        "Desc": "Декоративный церемониальный лук, со временем покрывшийся камнем, но украшения на нём всё ещё можно разобрать. Позволяет владельцу выстоять под суровостью песков времени.",
         "Type": 5,
         "Rank": 4,
         "Icons": [
@@ -9925,7 +9925,7 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114008,
-        "EquipAffixName": "Composed",
+        "EquipAffixName": "Безмятежный",
         "EquipAffixID": 115403,
         "Extra": [],
         "Story": 195403,
@@ -9933,8 +9933,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15402",
-        "Name": "The Stringless",
-        "Desc": "A bow that once served as an extraordinary instrument. It is no longer capable of getting people up and dancing.",
+        "Name": "Бесструнный",
+        "Desc": "Когда-то этот лук был восхитительным музыкальным инструментом, но больше под его музыку никто не запляшет.",
         "Type": 5,
         "Rank": 4,
         "Icons": [
@@ -9953,7 +9953,7 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114004,
-        "EquipAffixName": "Arrowless Song",
+        "EquipAffixName": "Песнь без стрел",
         "EquipAffixID": 115402,
         "Extra": [],
         "Story": 195402,
@@ -9961,8 +9961,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15401",
-        "Name": "Favonius Warbow",
-        "Desc": "A standard-issue recurve bow of the Knights of Favonius. Only the best archers can unleash its full potential.",
+        "Name": "Боевой лук Фавония",
+        "Desc": "Лук, входящий в стандартную экипировку рыцарей Ордо Фавониус, но только самые опытные лучники могут использовать весь его потенциал.",
         "Type": 5,
         "Rank": 4,
         "Icons": [
@@ -9981,7 +9981,7 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114012,
-        "EquipAffixName": "Windfall",
+        "EquipAffixName": "Дружественный бриз",
         "EquipAffixID": 115401,
         "Extra": [],
         "Story": 195401,
@@ -9989,8 +9989,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15306",
-        "Name": "Ebony Bow",
-        "Desc": "A longbow made of ebony wood with stiffer limbs than ordinary bows. It is also a far more powerful weapon.",
+        "Name": "Эбеновый лук",
+        "Desc": "Лук, сделанный из эбенового дерева. Плечи этого лука намного крепче обычного. Он и сам по себе намного мощнее.",
         "Type": 5,
         "Rank": 3,
         "Icons": [
@@ -10009,7 +10009,7 @@ var _WeaponConfig = [
             0
         ],
         "AscMatID": 0,
-        "EquipAffixName": "Decimate",
+        "EquipAffixName": "Истребитель",
         "EquipAffixID": 115306,
         "Extra": [],
         "Story": 195306,
@@ -10017,8 +10017,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15305",
-        "Name": "Messenger",
-        "Desc": "A basic wooden bow. It is said to have once been used as a tool for long-distance communication.",
+        "Name": "Посыльный",
+        "Desc": "Простой деревянный лук. Говорят, что когда-то такие луки использовали для дистанционного общения.",
         "Type": 5,
         "Rank": 3,
         "Icons": [
@@ -10037,7 +10037,7 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114020,
-        "EquipAffixName": "Archer's Message",
+        "EquipAffixName": "Шальная почта",
         "EquipAffixID": 115305,
         "Extra": [],
         "Story": 195305,
@@ -10045,8 +10045,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15304",
-        "Name": "Slingshot",
-        "Desc": "A bow, despite the name. After countless experiments and improvements to the design, the creator of the ultimate slingshot found himself to have made what was actually a bow.",
+        "Name": "Рогатка",
+        "Desc": "На самом деле это лук. Его создатель хотел сделать рогатку, но после кучи доработок и поправок у него получился лук.",
         "Type": 5,
         "Rank": 3,
         "Icons": [
@@ -10065,7 +10065,7 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114016,
-        "EquipAffixName": "Slingshot",
+        "EquipAffixName": "Рогатка",
         "EquipAffixID": 115304,
         "Extra": [],
         "Story": 195304,
@@ -10073,8 +10073,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15303",
-        "Name": "Recurve Bow",
-        "Desc": "It is said that this bow can shoot down eagles in flight, but ultimately how true that is depends on the skill of the archer.",
+        "Name": "Изогнутый лук",
+        "Desc": "Говорят, этот лук может сбить орла в полёте, но всё же многое зависит и от навыка самого лучника.",
         "Type": 5,
         "Rank": 3,
         "Icons": [
@@ -10093,7 +10093,7 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114012,
-        "EquipAffixName": "Cull the Weak",
+        "EquipAffixName": "Жатва",
         "EquipAffixID": 115303,
         "Extra": [],
         "Story": 195303,
@@ -10101,8 +10101,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15302",
-        "Name": "Sharpshooter's Oath",
-        "Desc": "This superior bow once belonged to a master archer. However, it gives off a strong scent, thus making it unsuitable for hunting.",
+        "Name": "Клятва стрелка",
+        "Desc": "Когда-то этот превосходный лук принадлежал профессиональному охотнику, однако его стойкий запах делает его бесполезным для охоты.",
         "Type": 5,
         "Rank": 3,
         "Icons": [
@@ -10121,7 +10121,7 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114008,
-        "EquipAffixName": "Precise",
+        "EquipAffixName": "Меткий",
         "EquipAffixID": 115302,
         "Extra": [],
         "Story": 195302,
@@ -10129,8 +10129,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "15301",
-        "Name": "Raven Bow",
-        "Desc": "Ravens are known to be the ferrymen of the dead. This bow's limb is decorated with raven feathers, which forebode the imminent death of its target.",
+        "Name": "Лук ворона",
+        "Desc": "Как известно, вороны - проводники мёртвых. Этот лук украшен их перьями, предвещающими скорую смерть любой цели.",
         "Type": 5,
         "Rank": 3,
         "Icons": [
@@ -10149,7 +10149,7 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114004,
-        "EquipAffixName": "Bane of Flame and Water",
+        "EquipAffixName": "Погибель пламени и воды",
         "EquipAffixID": 115301,
         "Extra": [],
         "Story": 195301,
@@ -10157,8 +10157,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14515",
-        "Name": "Crane's Echoing Call",
-        "Desc": "A fan carved from pure jade, around which swirls an ancient aura of adeptal energy.",
+        "Name": "Звонкий клич журавля",
+        "Desc": "Изысканное оружие в форме веера, вырезанное из чистого нефрита. Окутано аурой древней силы Адептов.",
         "Type": 3,
         "Rank": 5,
         "Icons": [
@@ -10177,7 +10177,7 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114020,
-        "EquipAffixName": "Cloudfall Axiom",
+        "EquipAffixName": "Секрет облачных канонов",
         "EquipAffixID": 114515,
         "Extra": [],
         "Story": 194515,
@@ -10185,8 +10185,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14514",
-        "Name": "Tome of the Eternal Flow",
-        "Desc": "A manual that was once passed down from generation to generation within an underwater priory. Today, none know of its existence.",
+        "Name": "Обряд вечного течения",
+        "Desc": "Книга наставлений, когда-то передававшаяся из поколения в поколение в подводной обители. Сегодня о ней никому не известно.",
         "Type": 3,
         "Rank": 5,
         "Icons": [
@@ -10205,7 +10205,7 @@ var _WeaponConfig = [
             40662
         ],
         "AscMatID": 114056,
-        "EquipAffixName": "Aeon Wave",
+        "EquipAffixName": "Волна вечности",
         "EquipAffixID": 114514,
         "Extra": [],
         "Story": 194514,
@@ -10213,8 +10213,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14513",
-        "Name": "Cashflow Supervision",
-        "Desc": "A floating device that can monitor certain phenomena. It was picked up and modified to serve other purposes following its abandonment.",
+        "Name": "Казначейский надзор",
+        "Desc": "Парящее устройство, способное отслеживать и контролировать некоторые явления. После списания его нашли и модифицировали для иных целей.",
         "Type": 3,
         "Rank": 5,
         "Icons": [
@@ -10233,7 +10233,7 @@ var _WeaponConfig = [
             61601
         ],
         "AscMatID": 114060,
-        "EquipAffixName": "Golden Blood-Tide",
+        "EquipAffixName": "Золотая волна крови",
         "EquipAffixID": 114513,
         "Extra": [],
         "Story": 194513,
@@ -10241,8 +10241,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14512",
-        "Name": "Tulaytullah's Remembrance",
-        "Desc": "A bell crafted of deep sapphire and sterling silver. Its echoes are as crisp as they are distant.",
+        "Name": "Воспоминания Тулайтуллы",
+        "Desc": "Колокольчик, вырезанный из тёмного сапфира и покрытый чистым серебром. Его хрустальный звон разносится далёким эхом.",
         "Type": 3,
         "Rank": 5,
         "Icons": [
@@ -10261,7 +10261,7 @@ var _WeaponConfig = [
             60902
         ],
         "AscMatID": 114048,
-        "EquipAffixName": "Bygone Azure Teardrop",
+        "EquipAffixName": "Ушедшая сапфировая слеза",
         "EquipAffixID": 114512,
         "Extra": [],
         "Story": 194512,
@@ -10269,8 +10269,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14511",
-        "Name": "A Thousand Floating Dreams",
-        "Desc": "This lamp illuminates the dreams that float up over a thousand nights, and in its emerald-green light flows a song of ancient days.",
+        "Name": "Сновидения тысячи ночей",
+        "Desc": "Эта лампа освещает сновидения тысячи ночей, а в её изумрудном сиянии льётся песнь древности.",
         "Type": 3,
         "Rank": 5,
         "Icons": [
@@ -10289,7 +10289,7 @@ var _WeaponConfig = [
             60902
         ],
         "AscMatID": 114044,
-        "EquipAffixName": "A Thousand Nights' Dawnsong",
+        "EquipAffixName": "Песнь тысячи рассветов",
         "EquipAffixID": 114511,
         "Extra": [],
         "Story": 194511,
@@ -10297,8 +10297,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14509",
-        "Name": "Kagura's Verity",
-        "Desc": "The bells used when performing the Kagura Dance, blessed by the Guuji herself. The scent of the Sacred Sakura tree lingers on it.",
+        "Name": "Истина кагура",
+        "Desc": "Божественные колокольчики, используемые в ритуальном танце кагура, благословлены самой Гудзи. Вокруг них витает аромат цветков Священной сакуры.",
         "Type": 3,
         "Rank": 5,
         "Icons": [
@@ -10317,7 +10317,7 @@ var _WeaponConfig = [
             601
         ],
         "AscMatID": 114036,
-        "EquipAffixName": "Kagura Dance of the Sacred Sakura",
+        "EquipAffixName": "Кагура Священной сакуры",
         "EquipAffixID": 114509,
         "Extra": [],
         "Story": 194509,
@@ -10325,8 +10325,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14506",
-        "Name": "Everlasting Moonglow",
-        "Desc": "A string of lovely jasper from the deep sea. It shines with a pure radiance like that of the moon, and just as ever-distant.",
+        "Name": "Вечное лунное сияние",
+        "Desc": "Яшма из морских глубин. Камень сияет прозрачным светом, подобно луне. И подобно луне, ведёт свою историю с давних времён.",
         "Type": 3,
         "Rank": 5,
         "Icons": [
@@ -10345,7 +10345,7 @@ var _WeaponConfig = [
             601
         ],
         "AscMatID": 114028,
-        "EquipAffixName": "Byakuya Kougetsu",
+        "EquipAffixName": "Бякуя когэцу",
         "EquipAffixID": 114506,
         "Extra": [],
         "Story": 194506,
@@ -10353,8 +10353,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14505",
-        "Name": "Jadefall's Splendor",
-        "Desc": "A ritual vessel carved from jade that reflects the luster of the skies and the clear waters.",
+        "Name": "Великолепие лазурного свода",
+        "Desc": "Церемониальный предмет, вырезанный из прекрасного нефрита изумрудного цвета, отражает сияние неба и чистых вод.",
         "Type": 3,
         "Rank": 5,
         "Icons": [
@@ -10373,7 +10373,7 @@ var _WeaponConfig = [
             60902
         ],
         "AscMatID": 114016,
-        "EquipAffixName": "Primordial Jade Regalia",
+        "EquipAffixName": "Камень воли",
         "EquipAffixID": 114505,
         "Extra": [],
         "Story": 194505,
@@ -10381,8 +10381,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14504",
-        "Name": "Memory of Dust",
-        "Desc": "A stone dumbbell containing distant memories. Its endless transformations reveal the power within.",
+        "Name": "Память о пыли",
+        "Desc": "Камень, содержащий далёкие воспоминания. Нескончаемые изменения обнажили его внутреннюю силу.",
         "Type": 3,
         "Rank": 5,
         "Icons": [
@@ -10401,7 +10401,7 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114024,
-        "EquipAffixName": "Golden Majesty",
+        "EquipAffixName": "Золочёное величество",
         "EquipAffixID": 114504,
         "Extra": [],
         "Story": 194504,
@@ -10409,8 +10409,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14502",
-        "Name": "Lost Prayer to the Sacred Winds",
-        "Desc": "An educational tome written by anonymous early inhabitants who worshiped the wind. It has been blessed by the wind for its faithfulness and influence over the millennia.",
+        "Name": "Молитва святым ветрам",
+        "Desc": "Сборник молитв, написанный коренными жителями континента, которые поклонялись ветру. В течение тысячелетий эта книга, наделённая благословением ветров, накопила необычайную магическую силу.",
         "Type": 3,
         "Rank": 5,
         "Icons": [
@@ -10429,7 +10429,7 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114012,
-        "EquipAffixName": "Boundless Blessing",
+        "EquipAffixName": "Опека ветров",
         "EquipAffixID": 114502,
         "Extra": [],
         "Story": 194502,
@@ -10437,8 +10437,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14501",
-        "Name": "Skyward Atlas",
-        "Desc": "A cloud atlas symbolizing Dvalin and his former master, the Anemo Archon. It details the winds and clouds of the northern regions and contains the powers of the sky and wind.",
+        "Name": "Небесный атлас",
+        "Desc": "Облачный атлас, символ Двалина и его повелителя, Анемо Архонта. Детально описывает облака и воздушные потоки северного региона, питающие его силой небес и ветров.",
         "Type": 3,
         "Rank": 5,
         "Icons": [
@@ -10457,7 +10457,7 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114008,
-        "EquipAffixName": "Wandering Clouds",
+        "EquipAffixName": "Благословение облаков",
         "EquipAffixID": 114501,
         "Extra": [],
         "Story": 194501,
@@ -10465,8 +10465,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14426",
-        "Name": "Ballad of the Boundless Blue",
-        "Desc": "An anthology of exquisite poetry. It contains quite a few poems beloved by Mondstadters, concerning the skies, dandelions, and other such topics.",
+        "Name": "Песнь необъятной лазури",
+        "Desc": "Сборник стихов в изящном переплёте. В нём немало произведений, посвящённых небосводу, одуванчикам и другим излюбленным мондштадтцами темам.",
         "Type": 3,
         "Rank": 4,
         "Icons": [
@@ -10485,7 +10485,7 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114008,
-        "EquipAffixName": "Azure Skies",
+        "EquipAffixName": "Лазурные небеса",
         "EquipAffixID": 114426,
         "Extra": [],
         "Story": 194426,
@@ -10493,8 +10493,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14425",
-        "Name": "Flowing Purity",
-        "Desc": "A strangely-shaped anthology of scripts. All the scripts written by Coppelius are recorded within.",
+        "Name": "Сверкание чистых вод",
+        "Desc": "Сборник сценариев причудливой формы. В нём все сценарии за авторством Коппелиуса.",
         "Type": 3,
         "Rank": 4,
         "Icons": [
@@ -10513,7 +10513,7 @@ var _WeaponConfig = [
             61601
         ],
         "AscMatID": 114056,
-        "EquipAffixName": "Unfinished Masterpiece",
+        "EquipAffixName": "Неоконченный шедевр",
         "EquipAffixID": 114425,
         "Extra": [],
         "Story": 194425,
@@ -10521,8 +10521,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14424",
-        "Name": "Sacrificial Jade",
-        "Desc": "An ancient jade pendant that gleams like clear water. It seems to have been used in ancient ceremonies.",
+        "Name": "Жертвенный нефрит",
+        "Desc": "Древний нефритовый кулон, искрящийся словно чистый ручей. Похоже, его использовали в древних церемониях.",
         "Type": 3,
         "Rank": 4,
         "Icons": [
@@ -10541,7 +10541,7 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114016,
-        "EquipAffixName": "Jade Circulation",
+        "EquipAffixName": "Нефритовый круговорот",
         "EquipAffixID": 114424,
         "Extra": [],
         "Story": 194424,
@@ -10549,8 +10549,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14417",
-        "Name": "Fruit of Fulfillment",
-        "Desc": "A fruit you obtained from an Aranara tale. It holds the potential to conquer any crisis.",
+        "Name": "Плод восполнения",
+        "Desc": "Плод, полученный из истории аранар. В нём заключены силы для преодоления любого бедствия.",
         "Type": 3,
         "Rank": 4,
         "Icons": [
@@ -10569,7 +10569,7 @@ var _WeaponConfig = [
             60902
         ],
         "AscMatID": 114044,
-        "EquipAffixName": "Full Circle",
+        "EquipAffixName": "Полный круг",
         "EquipAffixID": 114417,
         "Extra": [],
         "Story": 194417,
@@ -10577,8 +10577,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14416",
-        "Name": "Wandering Evenstar",
-        "Desc": "This was originally a device used by researchers to observe and perform calculations on celestial phenomena. It serves as a conduit and catalyst.",
+        "Name": "Скитающаяся звезда",
+        "Desc": "Изначально это был инструмент, который исследователи использовали для наблюдения и расчётов небесных явлений. Теперь он направляет энергию и служит катализатором.",
         "Type": 3,
         "Rank": 4,
         "Icons": [
@@ -10597,7 +10597,7 @@ var _WeaponConfig = [
             60902
         ],
         "AscMatID": 114044,
-        "EquipAffixName": "Wildling Nightstar",
+        "EquipAffixName": "Звезда диких лесов",
         "EquipAffixID": 114416,
         "Extra": [],
         "Story": 194416,
@@ -10605,8 +10605,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14415",
-        "Name": "Oathsworn Eye",
-        "Desc": "A national treasure of Byakuyakoku stored in the Dainichi Mikoshi. With the coming of the Serpent God, this item was used to notarize great oaths and wishes.",
+        "Name": "Око клятвы",
+        "Desc": "Реликвия Бякуякоку, которая хранилась в Дайнити Микоси. После прихода бога-змея она стала доказательством великой клятвы и чаяний Энканомии.",
         "Type": 3,
         "Rank": 4,
         "Icons": [
@@ -10625,7 +10625,7 @@ var _WeaponConfig = [
             601
         ],
         "AscMatID": 114028,
-        "EquipAffixName": "People of the Faltering Light",
+        "EquipAffixName": "Народ мерцающих глубин",
         "EquipAffixID": 114415,
         "Extra": [],
         "Story": 194415,
@@ -10633,8 +10633,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14414",
-        "Name": "Hakushin Ring",
-        "Desc": "A catalyst that carries the memory of the Kitsune Saiguu of ancient times. However, this device is but an impoverished vessel for the full breadth of her thought.",
+        "Name": "Кольцо Хакусин",
+        "Desc": "Катализатор, в котором заточены воспоминания о кицунэ Сайгу с древнейших времен. Однако этих воспоминаний так много, что вместить их все в одном сосуде не представлялось возможным.",
         "Type": 3,
         "Rank": 4,
         "Icons": [
@@ -10653,7 +10653,7 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114028,
-        "EquipAffixName": "Sakura Saiguu",
+        "EquipAffixName": "Дворец сакуры",
         "EquipAffixID": 114414,
         "Extra": [],
         "Story": 194414,
@@ -10661,8 +10661,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14413",
-        "Name": "Dodoco Tales",
-        "Desc": "A children's book filled with childish short stories at which one cannot help but laugh.<br>Even those readers who have long reached adulthood cannot help but be absorbed by the innocent, naive little adventures portrayed within.",
+        "Name": "Истории Додоко",
+        "Desc": "Книга, состоящая из увлекательных детских историй, которые невольно вызывают улыбку на лице.<br>Даже взрослые читатели не могут не погрузиться с головой в рассказанные здесь невинные и наивные маленькие приключения.",
         "Type": 3,
         "Rank": 4,
         "Icons": [
@@ -10681,7 +10681,7 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114008,
-        "EquipAffixName": "Dodoventure!",
+        "EquipAffixName": "Додоприключения!",
         "EquipAffixID": 114413,
         "Extra": [],
         "Story": 194413,
@@ -10689,8 +10689,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14412",
-        "Name": "Frostbearer",
-        "Desc": "A fruit that possesses a strange, frosty will. A faint sense of agony emanates from it.",
+        "Name": "Плод вечной мерзлоты",
+        "Desc": "Загадочный плод, обладающий холодным сознанием. Он источает слабый аромат горечи.",
         "Type": 3,
         "Rank": 4,
         "Icons": [
@@ -10709,7 +10709,7 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114012,
-        "EquipAffixName": "Frost Burial",
+        "EquipAffixName": "Морозное погребение",
         "EquipAffixID": 114412,
         "Extra": [],
         "Story": 194412,
@@ -10717,8 +10717,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14410",
-        "Name": "Wine and Song",
-        "Desc": "A songbook from the bygone aristocratic era, whose composer has become forgotten. It chronicles the tale of a certain heroic outlaw.",
+        "Name": "Вино и песни",
+        "Desc": "Сборник песен давно минувшей эпохи аристократии. В нём автор, чьё имя кануло в лету, ведёт сказ об одном благородном разбойнике.",
         "Type": 3,
         "Rank": 4,
         "Icons": [
@@ -10737,7 +10737,7 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114008,
-        "EquipAffixName": "Ever-Changing",
+        "EquipAffixName": "Тысяча форм",
         "EquipAffixID": 114410,
         "Extra": [],
         "Story": 194410,
@@ -10745,8 +10745,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14409",
-        "Name": "Eye of Perception",
-        "Desc": "A dim black glaze pearl that is said to have the power to read the purity of one's heart.",
+        "Name": "Око сознания",
+        "Desc": "Тёмная жемчужина, покрытая чёрной глазурью. Легенда гласит, что в её силах разглядеть самую суть человека.",
         "Type": 3,
         "Rank": 4,
         "Icons": [
@@ -10765,7 +10765,7 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114020,
-        "EquipAffixName": "Echo",
+        "EquipAffixName": "Эхо",
         "EquipAffixID": 114409,
         "Extra": [],
         "Story": 194409,
@@ -10773,8 +10773,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14408",
-        "Name": "Blackcliff Agate",
-        "Desc": "A mysterious catalyst made of a material known as \"blackcliff.\" It has an ominous crimson glow that seems to pulse in synchronization with the tremors from deep within the earth.",
+        "Name": "Черногорский агат",
+        "Desc": "Загадочный катализатор, сделанный из черногорского камня. Его зловещее малиновое сияние пульсирует в такт подземным толчкам.",
         "Type": 3,
         "Rank": 4,
         "Icons": [
@@ -10793,7 +10793,7 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114016,
-        "EquipAffixName": "Press the Advantage",
+        "EquipAffixName": "Преследование побеждённых",
         "EquipAffixID": 114408,
         "Extra": [],
         "Story": 194408,
@@ -10801,8 +10801,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14407",
-        "Name": "Mappa Mare",
-        "Desc": "A nautical chart featuring nearby currents and climates that somehow found its way into Liyue via foreign traders.",
+        "Name": "Морской атлас",
+        "Desc": "Привезённая иностранными торговцами в Ли Юэ карта морских течений и ветров.",
         "Type": 3,
         "Rank": 4,
         "Icons": [
@@ -10821,7 +10821,7 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114024,
-        "EquipAffixName": "Infusion Scroll",
+        "EquipAffixName": "Заряженный свиток",
         "EquipAffixID": 114407,
         "Extra": [],
         "Story": 194407,
@@ -10829,8 +10829,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14406",
-        "Name": "Prototype Amber",
-        "Desc": "A dully gilded catalyst secretly guarded in the Blackcliff Forge. It seems to glow with the very light from the sky.",
+        "Name": "Прототип: Янтарь",
+        "Desc": "Древний катализатор, обнаруженный в кузнице Черногорья. От него исходит сияние звёзд, солнца и луны.",
         "Type": 3,
         "Rank": 4,
         "Icons": [
@@ -10849,7 +10849,7 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114020,
-        "EquipAffixName": "Gilding",
+        "EquipAffixName": "Позолота",
         "EquipAffixID": 114406,
         "Extra": [],
         "Story": 194406,
@@ -10857,8 +10857,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14405",
-        "Name": "Solar Pearl",
-        "Desc": "A dull, golden pearl made of an unknown substance that harbors the light of the sun and the moon and pulses with a warm strength.",
+        "Name": "Солнечная жемчужина",
+        "Desc": "Грубая золотая жемчужина из неизвестного материала, скрывающая в себе силу солнца и луны. Пульсирует тёплой энергией.",
         "Type": 3,
         "Rank": 4,
         "Icons": [
@@ -10877,7 +10877,7 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114016,
-        "EquipAffixName": "Solar Shine",
+        "EquipAffixName": "Божественный Свет",
         "EquipAffixID": 114405,
         "Extra": [],
         "Story": 194405,
@@ -10885,8 +10885,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14404",
-        "Name": "Royal Grimoire",
-        "Desc": "A book that once belonged to a court mage of Mondstadt who served the nobility. It contains faithful and comprehensive historical accounts as well as magic spells.",
+        "Name": "Королевский гримуар",
+        "Desc": "Книга, когда-то принадлежавшая королевскому магу Мондштадта. Содержит подробные исторические данные и заклинания.",
         "Type": 3,
         "Rank": 4,
         "Icons": [
@@ -10905,7 +10905,7 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114004,
-        "EquipAffixName": "Focus",
+        "EquipAffixName": "Сосредоточенный",
         "EquipAffixID": 114404,
         "Extra": [],
         "Story": 194404,
@@ -10913,8 +10913,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14403",
-        "Name": "Sacrificial Fragments",
-        "Desc": "A weathered script, the text of which is no longer legible. A cursed item eroded by the winds of time.",
+        "Name": "Церемониальные мемуары",
+        "Desc": "Ветхий том, текст которого уже, увы, не прочитать. Проклятая вещь, изъеденная ветрами времени.",
         "Type": 3,
         "Rank": 4,
         "Icons": [
@@ -10933,7 +10933,7 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114012,
-        "EquipAffixName": "Composed",
+        "EquipAffixName": "Безмятежный",
         "EquipAffixID": 114403,
         "Extra": [],
         "Story": 194403,
@@ -10941,8 +10941,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14402",
-        "Name": "The Widsith",
-        "Desc": "A heavy notebook filled with musical scores. Though suffering from moth damage and heavy wear-and-tear, there is still much power to be found among the hand-written words within.",
+        "Name": "Песнь странника",
+        "Desc": "Эта тяжёлая книга содержит огромное количество песен. Рукописный текст внушает уважение, хоть книга и была поедена молью.",
         "Type": 3,
         "Rank": 4,
         "Icons": [
@@ -10961,7 +10961,7 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114008,
-        "EquipAffixName": "Debut",
+        "EquipAffixName": "Дебют",
         "EquipAffixID": 114402,
         "Extra": [],
         "Story": 194402,
@@ -10969,8 +10969,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14401",
-        "Name": "Favonius Codex",
-        "Desc": "A secret tome that belonged to the scholars of the Knights of Favonius. It describes the logic and power of elements and matter.",
+        "Name": "Кодекс Фавония",
+        "Desc": "Тайный гримуар, принадлежащий учёным Ордо Фавониус. Описывает силу и логику элементов и материи.",
         "Type": 3,
         "Rank": 4,
         "Icons": [
@@ -10989,7 +10989,7 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114004,
-        "EquipAffixName": "Windfall",
+        "EquipAffixName": "Дружественный бриз",
         "EquipAffixID": 114401,
         "Extra": [],
         "Story": 194401,
@@ -10997,8 +10997,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14306",
-        "Name": "Amber Bead",
-        "Desc": "A catalyst carved out of amber that gains a warm halo under the sun.",
+        "Name": "Янтарная жемчужина",
+        "Desc": "Катализатор, вырезанный из янтаря. Приятно светится на солнце.",
         "Type": 3,
         "Rank": 3,
         "Icons": [
@@ -11017,7 +11017,7 @@ var _WeaponConfig = [
             0
         ],
         "AscMatID": 0,
-        "EquipAffixName": "Elemental Mastery",
+        "EquipAffixName": "Мастер стихий",
         "EquipAffixID": 114306,
         "Extra": [],
         "Story": 194306,
@@ -11025,8 +11025,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14305",
-        "Name": "Twin Nephrite",
-        "Desc": "A jade pendant formed by piecing together two jade stones.",
+        "Name": "Парный нефрит",
+        "Desc": "Ожерелье с замочком из двух кусочков нефрита.",
         "Type": 3,
         "Rank": 3,
         "Icons": [
@@ -11045,7 +11045,7 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114020,
-        "EquipAffixName": "Guerilla Tactics",
+        "EquipAffixName": "Партизанская тактика",
         "EquipAffixID": 114305,
         "Extra": [],
         "Story": 194305,
@@ -11053,8 +11053,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14304",
-        "Name": "Emerald Orb",
-        "Desc": "A catalyst carved out of the hard jade from Jueyun Karst north of Liyue. Small, light, and durable, it is known more colloquially as the \"jade ball.\"",
+        "Name": "Изумрудный шар",
+        "Desc": "Катализатор, вырезанный из твёрдого нефрита, добываемого в Заоблачном пределе на севере Ли Юэ. Он маленький, лёгкий и прочный.",
         "Type": 3,
         "Rank": 3,
         "Icons": [
@@ -11073,7 +11073,7 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114016,
-        "EquipAffixName": "Rapids",
+        "EquipAffixName": "Воронка",
         "EquipAffixID": 114304,
         "Extra": [],
         "Story": 194304,
@@ -11081,8 +11081,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14303",
-        "Name": "Otherworldly Story",
-        "Desc": "A cheap fantasy novel with no value whatsoever. Any claim that it possesses the power of catalysis is also pure fantasy.",
+        "Name": "Потусторонняя история",
+        "Desc": "Дешёвая фантастика. Если использовать в качестве катализатора, можно понять, что силы её - тоже фантастика.",
         "Type": 3,
         "Rank": 3,
         "Icons": [
@@ -11101,7 +11101,7 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114012,
-        "EquipAffixName": "Energy Shower",
+        "EquipAffixName": "Дождь энергии",
         "EquipAffixID": 114303,
         "Extra": [],
         "Story": 194303,
@@ -11109,8 +11109,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14302",
-        "Name": "Thrilling Tales of Dragon Slayers",
-        "Desc": "A fictional story of a band of five heroes who go off on a dragon hunt. It is poorly written and structurally incoherent. Its value lies in the many lessons that can be learned from failure.",
+        "Name": "Эпос о драконоборцах",
+        "Desc": "Художественная история о пяти героях, собравшихся охотиться на дракона. Написано очень плохо, без какой-либо структуры. Суть книги в том, чтобы научить людей, как важно избегать ошибок.",
         "Type": 3,
         "Rank": 3,
         "Icons": [
@@ -11129,7 +11129,7 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114008,
-        "EquipAffixName": "Heritage",
+        "EquipAffixName": "Наследие",
         "EquipAffixID": 114302,
         "Extra": [],
         "Story": 194302,
@@ -11137,8 +11137,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "14301",
-        "Name": "Magic Guide",
-        "Desc": "Version 12. A reprint featuring corrections to Version 11 and brand-new additions based on recent developments.",
+        "Name": "Руководство по магии",
+        "Desc": "12-е издание. Копия 11-го издания, содержащая исправления, согласно последним разработкам.",
         "Type": 3,
         "Rank": 3,
         "Icons": [
@@ -11157,7 +11157,7 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114004,
-        "EquipAffixName": "Bane of Storm and Tide",
+        "EquipAffixName": "Погибель бури и волны",
         "EquipAffixID": 114301,
         "Extra": [],
         "Story": 194301,
@@ -11165,8 +11165,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "13511",
-        "Name": "Staff of the Scarlet Sands",
-        "Desc": "One of a paired set of scepters fashioned from obsidian. Legend has it that these staves grant the right to lead the people of the desert, but no retainer now lives who can verify the proper appearance of these regalia.",
+        "Name": "Посох алых песков",
+        "Desc": "Один из пары обсидиановых скипетров. Легенда гласит, что эти посохи дают право вести народ пустыни, но подданных, которые опознали бы эти регалии, не осталось.",
         "Type": 4,
         "Rank": 5,
         "Icons": [
@@ -11185,7 +11185,7 @@ var _WeaponConfig = [
             60902
         ],
         "AscMatID": 114044,
-        "EquipAffixName": "Heat Haze at Horizon's End",
+        "EquipAffixName": "Марево на горизонте",
         "EquipAffixID": 113511,
         "Extra": [],
         "Story": 193511,
@@ -11193,8 +11193,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "13509",
-        "Name": "Engulfing Lightning",
-        "Desc": "A naginata used to \"cut grass.\" Any army that stands before this weapon will probably be likewise cut down...",
+        "Name": "Сияющая жатва",
+        "Desc": "Нагината для лёгкого «срезания травы». С такой же лёгкостью соберёт свою жатву с вражеской армии.",
         "Type": 4,
         "Rank": 5,
         "Icons": [
@@ -11213,7 +11213,7 @@ var _WeaponConfig = [
             50801
         ],
         "AscMatID": 114036,
-        "EquipAffixName": "Timeless Dream: Eternal Stove",
+        "EquipAffixName": "Сон вне времени: Печь вечности",
         "EquipAffixID": 113509,
         "Extra": [],
         "Story": 193509,
@@ -11221,8 +11221,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "13507",
-        "Name": "Calamity Queller",
-        "Desc": "A keenly honed weapon forged from some strange crystal. Its faint blue light seems to whisper of countless matters now past.",
+        "Name": "Усмиритель бед",
+        "Desc": "Отточенное оружие, выкованное из странного кристалла. Его слабый голубой свет, кажется, шепчет о бесчисленных событиях прошлого.",
         "Type": 4,
         "Rank": 5,
         "Icons": [
@@ -11241,7 +11241,7 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114020,
-        "EquipAffixName": "Extinguishing Precept",
+        "EquipAffixName": "Завет погибели",
         "EquipAffixID": 113507,
         "Extra": [],
         "Story": 193507,
@@ -11249,8 +11249,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "13505",
-        "Name": "Primordial Jade Winged-Spear",
-        "Desc": "A jade polearm made by the archons, capable of slaying ancient beasts.",
+        "Name": "Нефритовый коршун",
+        "Desc": "Это копьё создали Архонты для борьбы с чудовищами доисторических морей.",
         "Type": 4,
         "Rank": 5,
         "Icons": [
@@ -11269,7 +11269,7 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114016,
-        "EquipAffixName": "Eagle Spear of Justice",
+        "EquipAffixName": "Птица справедливости",
         "EquipAffixID": 113505,
         "Extra": [],
         "Story": 193505,
@@ -11277,8 +11277,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "13504",
-        "Name": "Vortex Vanquisher",
-        "Desc": "This sharp polearm can seemingly pierce through anything. When swung, one can almost see the rift it tears in the air.",
+        "Name": "Покоритель вихря",
+        "Desc": "Острое копьё, которое, похоже, может пронзить что угодно. При взмахе можно увидеть, будто в месте, где наконечник касается воздуха, появляется брешь.",
         "Type": 4,
         "Rank": 5,
         "Icons": [
@@ -11297,7 +11297,7 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114024,
-        "EquipAffixName": "Golden Majesty",
+        "EquipAffixName": "Золочёное величество",
         "EquipAffixID": 113504,
         "Extra": [],
         "Story": 193504,
@@ -11305,8 +11305,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "13502",
-        "Name": "Skyward Spine",
-        "Desc": "A polearm that symbolizes Dvalin's firm resolve. The upright shaft of this weapon points towards the heavens, clad in the might of sky and wind.",
+        "Name": "Небесная ось",
+        "Desc": "Длинное копьё, символ твёрдой воли дракона ветра. Тянущееся вверх древко указывает на небесный свод, питающий его силой небес и ветров.",
         "Type": 4,
         "Rank": 5,
         "Icons": [
@@ -11325,7 +11325,7 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114012,
-        "EquipAffixName": "Black Wing",
+        "EquipAffixName": "Клык, пронзивший тьму",
         "EquipAffixID": 113502,
         "Extra": [],
         "Story": 193502,
@@ -11333,8 +11333,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "13501",
-        "Name": "Staff of Homa",
-        "Desc": "A \"firewood staff\" that was once used in ancient and long-lost rituals.",
+        "Name": "Посох Хомы",
+        "Desc": "Алый посох, использовавшийся в давно утраченном древнем ритуале.",
         "Type": 4,
         "Rank": 5,
         "Icons": [
@@ -11353,7 +11353,7 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114024,
-        "EquipAffixName": "Reckless Cinnabar",
+        "EquipAffixName": "Безрассудная бабочка",
         "EquipAffixID": 113501,
         "Extra": [],
         "Story": 193501,
@@ -11361,8 +11361,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "13427",
-        "Name": "Prospector's Drill",
-        "Desc": "A long-handled drill that you can rarely find nowadays. It was often used in delving and in carving stones.",
+        "Name": "Бур рудоискателя",
+        "Desc": "Длинный бур, который в наше время нигде не найти. Его часто использовали для поиска ценных руд и резьбе по камню.",
         "Type": 4,
         "Rank": 4,
         "Icons": [
@@ -11381,7 +11381,7 @@ var _WeaponConfig = [
             40662
         ],
         "AscMatID": 114052,
-        "EquipAffixName": "Masons' Ditty",
+        "EquipAffixName": "Запевка каменщиков",
         "EquipAffixID": 113427,
         "Extra": [],
         "Story": 193427,
@@ -11389,8 +11389,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "13426",
-        "Name": "Dialogues of the Desert Sages",
-        "Desc": "A caduceus symbolizing the glory of alchemy, made from special alloys to match its special status. It is exceedingly rigid and heavy, and would probably hurt pretty bad if used as a cudgel.",
+        "Name": "Диалог пустынных мудрецов",
+        "Desc": "Символизирующий славу алхимии кадуцей, который ввиду своего особого статуса был изготовлен из особого сплава. Удары этим чрезвычайно жёстким и неимоверно тяжёлым жезлом несомненно очень болезненны.",
         "Type": 4,
         "Rank": 4,
         "Icons": [
@@ -11409,7 +11409,7 @@ var _WeaponConfig = [
             601
         ],
         "AscMatID": 114040,
-        "EquipAffixName": "Principle of Equilibrium",
+        "EquipAffixName": "Принцип равновесия",
         "EquipAffixID": 113426,
         "Extra": [],
         "Story": 193426,
@@ -11417,8 +11417,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "13425",
-        "Name": "Rightful Reward",
-        "Desc": "A sharp spear. Only its tip remains freshly bloodstained.",
+        "Name": "Справедливая награда",
+        "Desc": "Острое копьё. Наконечник его обагрён свежей кровью.",
         "Type": 4,
         "Rank": 4,
         "Icons": [
@@ -11437,7 +11437,7 @@ var _WeaponConfig = [
             40662
         ],
         "AscMatID": 114060,
-        "EquipAffixName": "Tip of the Spear",
+        "EquipAffixName": "Остриё копья",
         "EquipAffixID": 113425,
         "Extra": [],
         "Story": 193425,
@@ -11445,8 +11445,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "13424",
-        "Name": "Ballad of the Fjords",
-        "Desc": "A polearm used by those seeking to catch fish in the tundra. It lets none escape.",
+        "Name": "Баллада фьордов",
+        "Desc": "Древковое оружие рыбаков ледяной пустыни. Теперь от вас не уйдёт никакая добыча.",
         "Type": 4,
         "Rank": 4,
         "Icons": [
@@ -11465,7 +11465,7 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114060,
-        "EquipAffixName": "Tales of the Tundra",
+        "EquipAffixName": "Истории тундры",
         "EquipAffixID": 113424,
         "Extra": [],
         "Story": 193424,
@@ -11473,8 +11473,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "13419",
-        "Name": "Missive Windspear",
-        "Desc": "A beacon that shows the direction of the wind. Not every idyll carried on the breeze remains a gentle thing...",
+        "Name": "Копьё послания ветров",
+        "Desc": "Штандарт, указующий путь ветру. Не всегда идиллия ветров остаётся такой же нежной, как и в начале...",
         "Type": 4,
         "Rank": 4,
         "Icons": [
@@ -11493,7 +11493,7 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114008,
-        "EquipAffixName": "The Wind Unattained",
+        "EquipAffixName": "Недошедший ветер",
         "EquipAffixID": 113419,
         "Extra": [],
         "Story": 193419,
@@ -11501,8 +11501,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "13417",
-        "Name": "Moonpiercer",
-        "Desc": "A weapon you obtained from an Aranara tale. It is shaped like a giant arrow and can be used as a spear.",
+        "Name": "Пронзающий луну",
+        "Desc": "Оружие, полученное из истории аранар. Оно приняло форму гигантской стрелы и может использоваться в качестве копья.",
         "Type": 4,
         "Rank": 4,
         "Icons": [
@@ -11521,7 +11521,7 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114044,
-        "EquipAffixName": "Stillwood Moonshadow",
+        "EquipAffixName": "Лунные тени чащобы",
         "EquipAffixID": 113417,
         "Extra": [],
         "Story": 193417,
@@ -11529,8 +11529,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "13416",
-        "Name": "Wavebreaker's Fin",
-        "Desc": "A naginata forged from luminescent material deep in the ocean depths. It was once the possession of the tengu race.",
+        "Name": "Режущий волны плавник",
+        "Desc": "Нагината из сверкающего материала с морского дна. Когда-то принадлежала народу тэнгу.",
         "Type": 4,
         "Rank": 4,
         "Icons": [
@@ -11549,7 +11549,7 @@ var _WeaponConfig = [
             50801
         ],
         "AscMatID": 114036,
-        "EquipAffixName": "Watatsumi Wavewalker",
+        "EquipAffixName": "Укротитель волн Ватацуми",
         "EquipAffixID": 113416,
         "Extra": [],
         "Story": 193416,
@@ -11557,8 +11557,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "13415",
-        "Name": "\"The Catch\"",
-        "Desc": "In the distant past, this was the beloved spear of a famed Inazuman bandit.",
+        "Name": "«Улов»",
+        "Desc": "В далёком прошлом это копьё принадлежало знаменитому инадзумскому разбойнику.",
         "Type": 4,
         "Rank": 4,
         "Icons": [
@@ -11577,7 +11577,7 @@ var _WeaponConfig = [
             601
         ],
         "AscMatID": 114036,
-        "EquipAffixName": "Shanty",
+        "EquipAffixName": "Песня матроса",
         "EquipAffixID": 113415,
         "Extra": [],
         "Story": 193415,
@@ -11585,8 +11585,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "13414",
-        "Name": "Kitain Cross Spear",
-        "Desc": "A special lance that was once used by a famed warrior who guarded the Tatarigami on Yashiori Island.",
+        "Name": "Крест-копьё Китаин",
+        "Desc": "Копьё, что раньше принадлежало прославленному воину, который охранял Татаригами на острове Ясиори.",
         "Type": 4,
         "Rank": 4,
         "Icons": [
@@ -11605,7 +11605,7 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114036,
-        "EquipAffixName": "Samurai Conduct",
+        "EquipAffixName": "Мастерство самурая",
         "EquipAffixID": 113414,
         "Extra": [],
         "Story": 193414,
@@ -11613,8 +11613,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "13409",
-        "Name": "Dragonspine Spear",
-        "Desc": "A spear created from the fang of a dragon. It is oddly warm to the touch.",
+        "Name": "Копьё Драконьего хребта",
+        "Desc": "Копьё из драконьих клыков. От него исходит необычное тепло.",
         "Type": 4,
         "Rank": 4,
         "Icons": [
@@ -11633,7 +11633,7 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114008,
-        "EquipAffixName": "Frost Burial",
+        "EquipAffixName": "Морозное погребение",
         "EquipAffixID": 113409,
         "Extra": [],
         "Story": 193409,
@@ -11641,8 +11641,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "13408",
-        "Name": "Royal Spear",
-        "Desc": "This polearm was once cherished by a member of the old nobility that governed Mondstadt long ago. Although it has never seen the light of day, it is still incomparably sharp.",
+        "Name": "Королевское копьё",
+        "Desc": "Некогда это копьё было любимым оружием одного мондштадтского аристократа. Хотя оно никогда не видело солнечного света, это копьё и поныне остро.",
         "Type": 4,
         "Rank": 4,
         "Icons": [
@@ -11661,7 +11661,7 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114020,
-        "EquipAffixName": "Focus",
+        "EquipAffixName": "Сосредоточенный",
         "EquipAffixID": 113408,
         "Extra": [],
         "Story": 193408,
@@ -11669,8 +11669,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "13407",
-        "Name": "Favonius Lance",
-        "Desc": "A polearm made in the style of the Knights of Favonius. Its shaft is straight, and its tip flows lightly like the wind.",
+        "Name": "Копьё Фавония",
+        "Desc": "Копьё, состоящее на вооружении рыцарей Ордо Фавониус. Лёгкий ветерок ласкает направленный в небеса наконечник.",
         "Type": 4,
         "Rank": 4,
         "Icons": [
@@ -11689,7 +11689,7 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114012,
-        "EquipAffixName": "Windfall",
+        "EquipAffixName": "Дружественный бриз",
         "EquipAffixID": 113407,
         "Extra": [],
         "Story": 193407,
@@ -11697,8 +11697,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "13406",
-        "Name": "Lithic Spear",
-        "Desc": "A spear forged from the rocks of the Guyun Stone Forest. Its hardness knows no equal.",
+        "Name": "Каменное копьё",
+        "Desc": "Копьё тонкой работы, выточенное из утёсов каменного леса Гуюнь. На свете нет ничего твёрже, чем его наконечник.",
         "Type": 4,
         "Rank": 4,
         "Icons": [
@@ -11717,7 +11717,7 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114024,
-        "EquipAffixName": "Lithic Axiom: Unity",
+        "EquipAffixName": "Наставления камня: Единство",
         "EquipAffixID": 113406,
         "Extra": [],
         "Story": 193406,
@@ -11725,8 +11725,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "13405",
-        "Name": "Deathmatch",
-        "Desc": "A sharp crimson polearm that was once a gladiator's priceless treasure. Its awl has been stained by the blood of countless beasts and men.",
+        "Name": "Смертельный бой",
+        "Desc": "Один гладиатор очень дорожил этим копьём. Остриё его познало кровь бесчисленного множества людей и тварей.",
         "Type": 4,
         "Rank": 4,
         "Icons": [
@@ -11745,7 +11745,7 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114008,
-        "EquipAffixName": "Gladiator",
+        "EquipAffixName": "Гладиатор",
         "EquipAffixID": 113405,
         "Extra": [],
         "Story": 193405,
@@ -11753,8 +11753,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "13404",
-        "Name": "Blackcliff Pole",
-        "Desc": "A weapon made of blackcliff and aerosiderite. There is a dark crimson glow on its cold black sheen.",
+        "Name": "Черногорская пика",
+        "Desc": "Оружие, сделанное из чёрного камня и метеоритного железа. Его холодный клинок отливает кроваво-красным цветом.",
         "Type": 4,
         "Rank": 4,
         "Icons": [
@@ -11773,7 +11773,7 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114020,
-        "EquipAffixName": "Press the Advantage",
+        "EquipAffixName": "Преследование побеждённых",
         "EquipAffixID": 113404,
         "Extra": [],
         "Story": 193404,
@@ -11781,8 +11781,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "13403",
-        "Name": "Crescent Pike",
-        "Desc": "An exotic weapon with an extremely long blade on the top and a crescent blade at the bottom. It found its way into Liyue through foreign traders. With practice, it can deal heavy damage.",
+        "Name": "Пика полумесяца",
+        "Desc": "Экзотичное оружие с длинным лезвием на одном конце и полукруглым лезвием на другом. Попало в Ли Юэ благодаря иностранным торговцам. В умелых руках может наносить огромный урон.",
         "Type": 4,
         "Rank": 4,
         "Icons": [
@@ -11801,7 +11801,7 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114016,
-        "EquipAffixName": "Infusion Needle",
+        "EquipAffixName": "Заряженная игла",
         "EquipAffixID": 113403,
         "Extra": [],
         "Story": 193403,
@@ -11809,8 +11809,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "13402",
-        "Name": "Prototype Starglitter",
-        "Desc": "A hooked spear discovered hidden away in the Blackcliff Forge. The glimmers along the sharp edge are like stars in the night.",
+        "Name": "Прототип: Звёздный блеск",
+        "Desc": "Древнее копьё, обнаруженное в кузнице Черногорья. Самоцветы на лезвии этого копья сверкают, словно звёзды в ночном небе.",
         "Type": 4,
         "Rank": 4,
         "Icons": [
@@ -11829,7 +11829,7 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114024,
-        "EquipAffixName": "Magic Affinity",
+        "EquipAffixName": "Влечение магии",
         "EquipAffixID": 113402,
         "Extra": [],
         "Story": 193402,
@@ -11837,8 +11837,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "13401",
-        "Name": "Dragon's Bane",
-        "Desc": "A polearm decorated with an entwining golden dragon. Light and sharp, this weapon may very well kill dragons with ease.",
+        "Name": "Гроза драконов",
+        "Desc": "Копьё, декорированное извивающимся золотым драконом. Будучи лёгким и острым, это копьё может с лёгкостью убить дракона.",
         "Type": 4,
         "Rank": 4,
         "Icons": [
@@ -11857,7 +11857,7 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114020,
-        "EquipAffixName": "Bane of Flame and Water",
+        "EquipAffixName": "Погибель пламени и воды",
         "EquipAffixID": 113401,
         "Extra": [],
         "Story": 193401,
@@ -11865,8 +11865,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "13304",
-        "Name": "The Flagstaff",
-        "Desc": "Reserve",
+        "Name": "Флагшток",
+        "Desc": "Зарезервировано",
         "Type": 4,
         "Rank": 3,
         "Icons": [
@@ -11885,7 +11885,7 @@ var _WeaponConfig = [
             0
         ],
         "AscMatID": 0,
-        "EquipAffixName": "TBD",
+        "EquipAffixName": "Не утверждено",
         "EquipAffixID": 113304,
         "Extra": [],
         "Story": 193304,
@@ -11893,8 +11893,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "13303",
-        "Name": "Black Tassel",
-        "Desc": "An exceptionally powerful polearm that also offers a simple but elegant solution to the issue of the easily stained white tassel.",
+        "Name": "Чёрная кисть",
+        "Desc": "Простое решение проблемы Белой кисти, которую чересчур легко запачкать.",
         "Type": 4,
         "Rank": 3,
         "Icons": [
@@ -11913,7 +11913,7 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114024,
-        "EquipAffixName": "Bane of the Soft",
+        "EquipAffixName": "Бич мягкотелых",
         "EquipAffixID": 113303,
         "Extra": [],
         "Story": 193303,
@@ -11921,8 +11921,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "13302",
-        "Name": "Halberd",
-        "Desc": "A polearm with an axe blade mounted on top that can deal quite a lot of damage. It's favored by the Millelith officers.",
+        "Name": "Алебарда Миллелита",
+        "Desc": "Длинное древко с прикреплённым лезвием на одном конце. Любимое оружие офицеров Миллелита.",
         "Type": 4,
         "Rank": 3,
         "Icons": [
@@ -11941,7 +11941,7 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114020,
-        "EquipAffixName": "Heavy",
+        "EquipAffixName": "Сокрушающий удар",
         "EquipAffixID": 113302,
         "Extra": [],
         "Story": 193302,
@@ -11949,8 +11949,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "13301",
-        "Name": "White Tassel",
-        "Desc": "A standard-issue weapon of the Millelith soldiers. It has a sturdy shaft and sharp spearhead. It's a reliable weapon.",
+        "Name": "Белая кисть",
+        "Desc": "Стандартное вооружение Миллелитов. Имеет крепкое древко и острый наконечник.",
         "Type": 4,
         "Rank": 3,
         "Icons": [
@@ -11969,7 +11969,7 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114016,
-        "EquipAffixName": "Sharp",
+        "EquipAffixName": "Зоркий",
         "EquipAffixID": 113301,
         "Extra": [],
         "Story": 193301,
@@ -11977,8 +11977,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12512",
-        "Name": "Verdict",
-        "Desc": "A weapon once used by a young maiden who forsook her family name, stained with the blood of enemies and loved ones both.",
+        "Name": "Вердикт",
+        "Desc": "Когда-то этот клинок был оружием благородной девы, отказавшейся от своего рода. Запятнан кровью врагов и близких людей.",
         "Type": 2,
         "Rank": 5,
         "Icons": [
@@ -11997,7 +11997,7 @@ var _WeaponConfig = [
             40662
         ],
         "AscMatID": 114052,
-        "EquipAffixName": "Many Oaths of Dawn and Dusk",
+        "EquipAffixName": "Клятвы рассветов и сумерек",
         "EquipAffixID": 112512,
         "Extra": [],
         "Story": 192512,
@@ -12005,8 +12005,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12511",
-        "Name": "Beacon of the Reed Sea",
-        "Desc": "A large, flat-tipped sword designed in to fit as the weapon of an ancient king or some ceremonial instrument.",
+        "Name": "Маяк тростникового моря",
+        "Desc": "Древний меч с закруглённым остриём. Похоже, это оружие принадлежало королю и использовалось в неких ритуалах.",
         "Type": 2,
         "Rank": 5,
         "Icons": [
@@ -12025,7 +12025,7 @@ var _WeaponConfig = [
             53101
         ],
         "AscMatID": 114048,
-        "EquipAffixName": "Desert Watch",
+        "EquipAffixName": "Пустынный дозор",
         "EquipAffixID": 112511,
         "Extra": [],
         "Story": 192511,
@@ -12033,8 +12033,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12510",
-        "Name": "Redhorn Stonethresher",
-        "Desc": "According to its previous owner, this weapon is the \"Mighty Redhorn Stoic Stonethreshing Gilded Goldcrushing Lion Lord\" that can send any monster packing with its tail between its legs.",
+        "Name": "Краснорогий камнеруб",
+        "Desc": "По словам его предыдущего владельца, это «Могучее золочёное краснорогое орудие Короля Львов, разрубающее камни и разрезающее золото» может обратить в бегство любого монстра.",
         "Type": 2,
         "Rank": 5,
         "Icons": [
@@ -12053,7 +12053,7 @@ var _WeaponConfig = [
             50801
         ],
         "AscMatID": 114032,
-        "EquipAffixName": "Gokadaiou Otogibanashi",
+        "EquipAffixName": "Гокадайо Отогибанаси",
         "EquipAffixID": 112510,
         "Extra": [],
         "Story": 192510,
@@ -12061,8 +12061,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12504",
-        "Name": "The Unforged",
-        "Desc": "Capable of driving away evil spirits and wicked people alike, this edgeless claymore seems to possess divine might.",
+        "Name": "Некованый",
+        "Desc": "Двуручный меч без острия, способный изгонять нечистую силу и карать предателей. Он будто наделён божественной силой.",
         "Type": 2,
         "Rank": 5,
         "Icons": [
@@ -12081,7 +12081,7 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114020,
-        "EquipAffixName": "Golden Majesty",
+        "EquipAffixName": "Золочёное величество",
         "EquipAffixID": 112504,
         "Extra": [],
         "Story": 192504,
@@ -12089,8 +12089,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12503",
-        "Name": "Song of Broken Pines",
-        "Desc": "A greatsword as light as the sigh of grass in the breeze, yet as merciless to the corrupt as a typhoon.",
+        "Name": "Песнь разбитых сосен",
+        "Desc": "Двуручный меч. Лёгкий, словно ласкающий траву ветерок, но готов сокрушающим ураганом обрушиться на зло.",
         "Type": 2,
         "Rank": 5,
         "Icons": [
@@ -12109,7 +12109,7 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114004,
-        "EquipAffixName": "Rebel's Banner-Hymn",
+        "EquipAffixName": "Гимн мятежников",
         "EquipAffixID": 112503,
         "Extra": [],
         "Story": 192503,
@@ -12117,8 +12117,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12502",
-        "Name": "Wolf's Gravestone",
-        "Desc": "A longsword used by the Wolf Knight. Originally just a heavy sheet of iron given to the knight by a blacksmith from the city, it became endowed with legendary power owing to his friendship with the wolves.",
+        "Name": "Волчья погибель",
+        "Desc": "Двуручный меч рыцаря Ордо Бореалис. Изначально это был просто лист металла из лавки кузнеца. Однако он был наделён легендарной силой в знак дружбы между кузнецом и волками.",
         "Type": 2,
         "Rank": 5,
         "Icons": [
@@ -12137,7 +12137,7 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114012,
-        "EquipAffixName": "Wolfish Tracker",
+        "EquipAffixName": "Волк-охотник",
         "EquipAffixID": 112502,
         "Extra": [],
         "Story": 192502,
@@ -12145,8 +12145,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12501",
-        "Name": "Skyward Pride",
-        "Desc": "A claymore that symbolizes the pride of Dvalin soaring through the skies. When swung, it emits a deep hum as the full force of Dvalin's command of the sky and the wind is unleashed.",
+        "Name": "Небесное величие",
+        "Desc": "Двуручный меч, символ власти Двалина над небесами. Дыхание дракона питает его силой небес и ветров.",
         "Type": 2,
         "Rank": 5,
         "Icons": [
@@ -12165,7 +12165,7 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114008,
-        "EquipAffixName": "Sky-ripping Dragon Spine",
+        "EquipAffixName": "Дракон, пронзивший небо",
         "EquipAffixID": 112501,
         "Extra": [],
         "Story": 192501,
@@ -12173,8 +12173,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12427",
-        "Name": "Portable Power Saw",
-        "Desc": "An old-school power saw that you can rarely find nowadays. It was once a cutting tool trusted by workers all around.",
+        "Name": "Переносная мотопила",
+        "Desc": "Мотопила старого образца, которую в наше время нигде не найти. Когда-то на этот инструмент полагались все рабочие.",
         "Type": 2,
         "Rank": 4,
         "Icons": [
@@ -12193,7 +12193,7 @@ var _WeaponConfig = [
             40662
         ],
         "AscMatID": 114060,
-        "EquipAffixName": "Sea Shanty",
+        "EquipAffixName": "Матросская песня",
         "EquipAffixID": 112427,
         "Extra": [],
         "Story": 192427,
@@ -12201,8 +12201,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12426",
-        "Name": "\"Ultimate Overlord's Mega Magic Sword\"",
-        "Desc": "A magical sword that can only be wielded by the ultimate overlord who rules the seas. As it has been made with special water-resistant materials, it will not get ruined by water damage even after being immersed. Why, one might even call it invincible!",
+        "Name": "«Магический супермеч высшего владыки»",
+        "Desc": "Магический супермеч, который может использовать только высший владыка, покоривший моря и океаны. Он сделан из особого водонепроницаемого материала, потому его можно использовать даже под водой. Выходит, он неуязвимый? Можно сказать и так!",
         "Type": 2,
         "Rank": 4,
         "Icons": [
@@ -12221,7 +12221,7 @@ var _WeaponConfig = [
             40662
         ],
         "AscMatID": 114060,
-        "EquipAffixName": "Melussistance!",
+        "EquipAffixName": "Мы верим в тебя!",
         "EquipAffixID": 112426,
         "Extra": [],
         "Story": 192426,
@@ -12229,8 +12229,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12425",
-        "Name": "Tidal Shadow",
-        "Desc": "An exquisitely-crafted, standard-model sword forged for the high-ranking officers and flagship captains of Fontaine's old navy.",
+        "Name": "Тень волны",
+        "Desc": "Стандартный клинок изящной формы, изготавливаемый специально для старших офицеров и капитанов флагманских кораблей старого морского флота Фонтейна.",
         "Type": 2,
         "Rank": 4,
         "Icons": [
@@ -12249,7 +12249,7 @@ var _WeaponConfig = [
             40662
         ],
         "AscMatID": 114060,
-        "EquipAffixName": "White Cruising Wave",
+        "EquipAffixName": "Надвигающаяся белая волна",
         "EquipAffixID": 112425,
         "Extra": [],
         "Story": 192425,
@@ -12257,8 +12257,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12424",
-        "Name": "Talking Stick",
-        "Desc": "Most people will find this obsidian-inlaid club quite convincing indeed.",
+        "Name": "Говорящая палица",
+        "Desc": "Что может быть убедительнее весомых доводов? Только тяжёлая дубина, инкрустированная обсидианом.",
         "Type": 2,
         "Rank": 4,
         "Icons": [
@@ -12277,7 +12277,7 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114044,
-        "EquipAffixName": "\"The Silver Tongue\"",
+        "EquipAffixName": "«Острый язык»",
         "EquipAffixID": 112424,
         "Extra": [],
         "Story": 192424,
@@ -12285,8 +12285,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12418",
-        "Name": "Mailed Flower",
-        "Desc": "A graceful and elegant greatsword that is decorated with flowers and ribbons.",
+        "Name": "Цветок в латах",
+        "Desc": "Изящный двуручный меч, украшенный цветами и лентами.",
         "Type": 2,
         "Rank": 4,
         "Icons": [
@@ -12305,7 +12305,7 @@ var _WeaponConfig = [
             601
         ],
         "AscMatID": 114012,
-        "EquipAffixName": "Whispers of Wind and Flower",
+        "EquipAffixName": "Тайный язык ветра и цветов",
         "EquipAffixID": 112418,
         "Extra": [],
         "Story": 192418,
@@ -12313,8 +12313,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12417",
-        "Name": "Forest Regalia",
-        "Desc": "A weapon you obtained from an Aranara tale. It has taken on the shape of a greatsword that shall cut down the foes of the forest.",
+        "Name": "Регалия леса",
+        "Desc": "Оружие, полученное из истории аранар. Оно приняло форму двуручного меча, который способен пронзать врагов леса.",
         "Type": 2,
         "Rank": 4,
         "Icons": [
@@ -12333,7 +12333,7 @@ var _WeaponConfig = [
             53101
         ],
         "AscMatID": 114040,
-        "EquipAffixName": "Forest Sanctuary",
+        "EquipAffixName": "Благословение чащи",
         "EquipAffixID": 112417,
         "Extra": [],
         "Story": 192417,
@@ -12341,8 +12341,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12416",
-        "Name": "Akuoumaru",
-        "Desc": "The beloved sword of the legendary \"Akuou.\" The blade is huge and majestic, but is surprisingly easy to wield.",
+        "Name": "Акуомару",
+        "Desc": "Любимый меч Акуо - «злого тирана». Лезвие его огромно и величественно, но вопреки ожиданиям, в руке меч очень лёгок.",
         "Type": 2,
         "Rank": 4,
         "Icons": [
@@ -12361,7 +12361,7 @@ var _WeaponConfig = [
             50801
         ],
         "AscMatID": 114028,
-        "EquipAffixName": "Watatsumi Wavewalker",
+        "EquipAffixName": "Укротитель волн Ватацуми",
         "EquipAffixID": 112416,
         "Extra": [],
         "Story": 192416,
@@ -12369,8 +12369,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12415",
-        "Name": "Makhaira Aquamarine",
-        "Desc": "An ancient greatsword that gleams like the waters themselves. A thousand years of sand erosion has not dulled its unnaturally sharp edge one bit.",
+        "Name": "Аквамарин Махайры",
+        "Desc": "Древний двуручный меч, отливающий мерцанием волн. Его лезвие осталось исключительно острым даже после тысячелетий, проведённых в песках.",
         "Type": 2,
         "Rank": 4,
         "Icons": [
@@ -12389,7 +12389,7 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114048,
-        "EquipAffixName": "Desert Pavilion",
+        "EquipAffixName": "Чертоги в пустыне",
         "EquipAffixID": 112415,
         "Extra": [],
         "Story": 192415,
@@ -12397,8 +12397,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12414",
-        "Name": "Katsuragikiri Nagamasa",
-        "Desc": "A blade that was once made in Tatarasuna. Heavy and tough.",
+        "Name": "Кацурагикири Нагамаса",
+        "Desc": "Клинок, выкованный в Татарасуне. Тяжёлый и прочный.",
         "Type": 2,
         "Rank": 4,
         "Icons": [
@@ -12417,7 +12417,7 @@ var _WeaponConfig = [
             50801
         ],
         "AscMatID": 114032,
-        "EquipAffixName": "Samurai Conduct",
+        "EquipAffixName": "Мастерство самурая",
         "EquipAffixID": 112414,
         "Extra": [],
         "Story": 192414,
@@ -12425,8 +12425,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12412",
-        "Name": "Luxurious Sea-Lord",
-        "Desc": "The great king of the ocean. Having been air-dried, it makes for a fine weapon as well as emergency sustenance.",
+        "Name": "Благодатный владыка вод",
+        "Desc": "Великий владыка океана. После просушки становится отличным оружием или аварийным пайком.",
         "Type": 2,
         "Rank": 4,
         "Icons": [
@@ -12445,7 +12445,7 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114024,
-        "EquipAffixName": "Oceanic Victory",
+        "EquipAffixName": "Победа океана",
         "EquipAffixID": 112412,
         "Extra": [],
         "Story": 192412,
@@ -12453,8 +12453,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12411",
-        "Name": "Snow-Tombed Starsilver",
-        "Desc": "An ancient greatsword that was stored between frescoes. Forged from Starsilver, it has the power to cleave through ice and snow.",
+        "Name": "Заснеженное звёздное серебро",
+        "Desc": "Древний меч, сохранившийся среди настенных фресок. Он сделан из звёздного серебра и обладает силой, способной расколоть самый твёрдый лёд.",
         "Type": 2,
         "Rank": 4,
         "Icons": [
@@ -12473,7 +12473,7 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114004,
-        "EquipAffixName": "Frost Burial",
+        "EquipAffixName": "Морозное погребение",
         "EquipAffixID": 112411,
         "Extra": [],
         "Story": 192411,
@@ -12481,8 +12481,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12410",
-        "Name": "Lithic Blade",
-        "Desc": "A greatsword carved and chiseled from the very bedrock of Liyue.",
+        "Name": "Каменный меч",
+        "Desc": "Массивный двуручный меч, вырубленный из каменного основания Ли Юэ.",
         "Type": 2,
         "Rank": 4,
         "Icons": [
@@ -12501,7 +12501,7 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114016,
-        "EquipAffixName": "Lithic Axiom: Unity",
+        "EquipAffixName": "Наставления камня: Единство",
         "EquipAffixID": 112410,
         "Extra": [],
         "Story": 192410,
@@ -12509,8 +12509,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12409",
-        "Name": "Serpent Spine",
-        "Desc": "A rare weapon whose origin is the ancient ocean. One can hear the sound of the ageless waves as one swings it.",
+        "Name": "Меч драконьей кости",
+        "Desc": "Редкое оружие, произошедшее из древнего океана. Взмахните им, чтобы услышать шум вечных волн.",
         "Type": 2,
         "Rank": 4,
         "Icons": [
@@ -12529,7 +12529,7 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114024,
-        "EquipAffixName": "Wavesplitter",
+        "EquipAffixName": "Рассекающий волны",
         "EquipAffixID": 112409,
         "Extra": [],
         "Story": 192409,
@@ -12537,8 +12537,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12408",
-        "Name": "Blackcliff Slasher",
-        "Desc": "An extremely sturdy greatsword from the Blackcliff Forge. It has a dark crimson color from the blade to pommel.",
+        "Name": "Черногорская бритва",
+        "Desc": "Крепкий двуручный меч из кузницы Черногорья. Лезвие отливает зловещим красным цветом.",
         "Type": 2,
         "Rank": 4,
         "Icons": [
@@ -12557,7 +12557,7 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114020,
-        "EquipAffixName": "Press the Advantage",
+        "EquipAffixName": "Преследование побеждённых",
         "EquipAffixID": 112408,
         "Extra": [],
         "Story": 192408,
@@ -12565,8 +12565,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12407",
-        "Name": "Whiteblind",
-        "Desc": "An exotic sword with one section of the blade left blunt. It made its way into Liyue via the hands of foreign traders. Incredibly powerful in the hands of someone who knows how to use it.",
+        "Name": "Белая тень",
+        "Desc": "Экзотичный меч с тупой секцией на лезвии, который оказался в Ли Юэ благодаря иностранным торговцам. Невероятно мощный в руках того, кто знает, как им пользоваться.",
         "Type": 2,
         "Rank": 4,
         "Icons": [
@@ -12585,7 +12585,7 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114016,
-        "EquipAffixName": "Infusion Blade",
+        "EquipAffixName": "Заряженное лезвие",
         "EquipAffixID": 112407,
         "Extra": [],
         "Story": 192407,
@@ -12593,8 +12593,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12406",
-        "Name": "Prototype Archaic",
-        "Desc": "An ancient greatsword discovered in the Blackcliff Forge. It swings with such an immense force that one feels it could cut straight through reality itself.",
+        "Name": "Прототип: Архаичный",
+        "Desc": "Древний двуручный меч, обнаруженный в кузнице Черногорья. Он производит впечатление меча, который может разрубить пополам саму реальность.",
         "Type": 2,
         "Rank": 4,
         "Icons": [
@@ -12613,7 +12613,7 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114024,
-        "EquipAffixName": "Crush",
+        "EquipAffixName": "Громила",
         "EquipAffixID": 112406,
         "Extra": [],
         "Story": 192406,
@@ -12621,8 +12621,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12405",
-        "Name": "Rainslasher",
-        "Desc": "A fluorescent greatsword with no sharp edge that crushes enemies with brute force and raw power.",
+        "Name": "Дождерез",
+        "Desc": "Светящийся двуручный меч с затупленным остриём, который неистово крушит врагов своей массой.",
         "Type": 2,
         "Rank": 4,
         "Icons": [
@@ -12641,7 +12641,7 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114020,
-        "EquipAffixName": "Bane of Storm and Tide",
+        "EquipAffixName": "Погибель бури и волны",
         "EquipAffixID": 112405,
         "Extra": [],
         "Story": 192405,
@@ -12649,8 +12649,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12404",
-        "Name": "Royal Greatsword",
-        "Desc": "An old greatsword that belonged to the erstwhile rulers of Mondstadt. It is made from the finest-quality materials and has stood the test of time. A weapon for use by the nobility only.",
+        "Name": "Королевский двуручный меч",
+        "Desc": "Старинный меч, который носили с собой древние правители Мондштадта. Выкован из материалов высочайшего качества, которые позволили ему выстоять испытание временем. Боевой меч знати, и никого больше.",
         "Type": 2,
         "Rank": 4,
         "Icons": [
@@ -12669,7 +12669,7 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114012,
-        "EquipAffixName": "Focus",
+        "EquipAffixName": "Сосредоточенный",
         "EquipAffixID": 112404,
         "Extra": [],
         "Story": 192404,
@@ -12677,8 +12677,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12403",
-        "Name": "Sacrificial Greatsword",
-        "Desc": "A ceremonial greatsword that has become petrified over time. The trinkets on it are still visible. It grants the wielder the power to withstand the winds of time.",
+        "Name": "Церемониальный двуручный меч",
+        "Desc": "Декоративный церемониальный двуручный меч, со временем покрывшийся камнем, но украшения на нём всё ещё можно разобрать. Позволяет владельцу выстоять под суровостью песков времени.",
         "Type": 2,
         "Rank": 4,
         "Icons": [
@@ -12697,7 +12697,7 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114008,
-        "EquipAffixName": "Composed",
+        "EquipAffixName": "Безмятежный",
         "EquipAffixID": 112403,
         "Extra": [],
         "Story": 192403,
@@ -12705,8 +12705,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12402",
-        "Name": "The Bell",
-        "Desc": "A heavy greatsword. A clock is embedded within it, though its internal mechanisms have long been damaged.",
+        "Name": "Меч-колокол",
+        "Desc": "Тяжёлый двуручный меч со встроенными часами, механизмы которых уже давно изношены.",
         "Type": 2,
         "Rank": 4,
         "Icons": [
@@ -12725,7 +12725,7 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114004,
-        "EquipAffixName": "Rebellious Guardian",
+        "EquipAffixName": "Бунтарский защитник",
         "EquipAffixID": 112402,
         "Extra": [],
         "Story": 192402,
@@ -12733,8 +12733,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12401",
-        "Name": "Favonius Greatsword",
-        "Desc": "A heavy ceremonial sword of the Knights of Favonius. It channels elemental power easily and is highly destructive.",
+        "Name": "Двуручный меч Фавония",
+        "Desc": "Тяжёлый церемониальный меч Ордо Фавониус. С лёгкостью направляет элементальную энергию и обладает высокой разрушительной силой.",
         "Type": 2,
         "Rank": 4,
         "Icons": [
@@ -12753,7 +12753,7 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114012,
-        "EquipAffixName": "Windfall",
+        "EquipAffixName": "Дружественный бриз",
         "EquipAffixID": 112401,
         "Extra": [],
         "Story": 192401,
@@ -12761,8 +12761,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12306",
-        "Name": "Skyrider Greatsword",
-        "Desc": "A reliable steel sword. The legendary Skyrider once tried to ride it as a flying sword... for the second time.",
+        "Name": "Большой меч небесного всадника",
+        "Desc": "Надёжный стальной меч. Однажды некто пытался заставить его летать... снова.",
         "Type": 2,
         "Rank": 3,
         "Icons": [
@@ -12781,7 +12781,7 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114024,
-        "EquipAffixName": "Courage",
+        "EquipAffixName": "Храбрый",
         "EquipAffixID": 112306,
         "Extra": [],
         "Story": 192306,
@@ -12789,8 +12789,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12305",
-        "Name": "Debate Club",
-        "Desc": "A handy club made of fine steel. The most persuasive line of reasoning in any debater's arsenal.",
+        "Name": "Дубина переговоров",
+        "Desc": "Удобная дубина, сделанная из качественной стали. Фундамент «рационального убеждения».",
         "Type": 2,
         "Rank": 3,
         "Icons": [
@@ -12809,7 +12809,7 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114020,
-        "EquipAffixName": "Blunt Conclusion",
+        "EquipAffixName": "Говори как есть",
         "EquipAffixID": 112305,
         "Extra": [],
         "Story": 192305,
@@ -12817,8 +12817,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12304",
-        "Name": "Quartz",
-        "Desc": "A simple but heavy greatsword made of polished black quartz with a golden gilt. It has an air of elegance and dignity about it.",
+        "Name": "Кварц",
+        "Desc": "Довольно простой и тяжёлый двуручный меч, сделанный из полированного чёрного кварца с небольшой позолотой. Показывает элегантность и достоинство владельца.",
         "Type": 2,
         "Rank": 3,
         "Icons": [
@@ -12837,7 +12837,7 @@ var _WeaponConfig = [
             0
         ],
         "AscMatID": 0,
-        "EquipAffixName": "Residual Heat",
+        "EquipAffixName": "Остаточное тепло",
         "EquipAffixID": 112304,
         "Extra": [],
         "Story": 192304,
@@ -12845,8 +12845,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12303",
-        "Name": "White Iron Greatsword",
-        "Desc": "A claymore made from white iron. Lightweight without compromising on power. Effective even when wielded by one of average strength, it is extremely deadly in the hands of a physically stronger wielder.",
+        "Name": "Меч из белого железа",
+        "Desc": "Двуручный меч, выкованный из белого железа. Такой материал делает его одновременно сильным и лёгким. Подходит даже для человека среднего телосложения, однако его мощь всё же растёт с силой владельца.",
         "Type": 2,
         "Rank": 3,
         "Icons": [
@@ -12865,7 +12865,7 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114012,
-        "EquipAffixName": "Cull the Weak",
+        "EquipAffixName": "Жатва",
         "EquipAffixID": 112303,
         "Extra": [],
         "Story": 192303,
@@ -12873,8 +12873,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12302",
-        "Name": "Bloodtainted Greatsword",
-        "Desc": "A steel sword that is said to have been coated with dragon blood, rendering it invulnerable to damage. This effect is not extended to its wielder, however.",
+        "Name": "Меч драконьей крови",
+        "Desc": "Стальной меч, по легенде запятнанный кровью дракона, что делает его невосприимчивым к повреждениям. Однако это свойство не распространяется на его владельца.",
         "Type": 2,
         "Rank": 3,
         "Icons": [
@@ -12893,7 +12893,7 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114008,
-        "EquipAffixName": "Bane of Fire and Thunder",
+        "EquipAffixName": "Погибель огня и грома",
         "EquipAffixID": 112302,
         "Extra": [],
         "Story": 192302,
@@ -12901,8 +12901,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "12301",
-        "Name": "Ferrous Shadow",
-        "Desc": "A replica of the famed sword of Arundolyn, the Lion of Light. Feel the power of a legendary hero as you hold this sword in your hand! Imagine yourself as the great warrior himself! Note: Daydreaming not recommended in live combat.",
+        "Name": "Металлическая тень",
+        "Desc": "Копия знаменитого меча Арундолина, Льва Света. Возьмите его в руки и почувствуйте силу легендарного героя! Внимание: много мечтать вредно для вашего здоровья.",
         "Type": 2,
         "Rank": 3,
         "Icons": [
@@ -12921,7 +12921,7 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114004,
-        "EquipAffixName": "Unbending",
+        "EquipAffixName": "Непоколебимый",
         "EquipAffixID": 112301,
         "Extra": [],
         "Story": 192301,
@@ -12929,8 +12929,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11514",
-        "Name": "Uraku Misugiri",
-        "Desc": "This famous blade was once created by the hand of Urakusai, the renowned literato. Legend has it that it has never cut any living creature in all these hundreds of years.",
+        "Name": "Ураку мисугири",
+        "Desc": "Знаменитый клинок, собственноручно выкованный прославленным литератором Уракусаем. Согласно легенде, за все эти столетия он не навредил ни единому живому существу.",
         "Type": 1,
         "Rank": 5,
         "Icons": [
@@ -12949,7 +12949,7 @@ var _WeaponConfig = [
             50801
         ],
         "AscMatID": 114028,
-        "EquipAffixName": "Brocade Bloom, Shrine Sword",
+        "EquipAffixName": "Парчовый цветок и меч святилища",
         "EquipAffixID": 111514,
         "Extra": [],
         "Story": 191514,
@@ -12957,8 +12957,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11513",
-        "Name": "Splendor of Tranquil Waters",
-        "Desc": "A scepter around which swirls pure water. In days long past, it once symbolized the highest authority over the seas.",
+        "Name": "Блеск тихих вод",
+        "Desc": "Скипетр, окружённый чистейшей водой. В былые времена он символизировал высочайшую власть над морями.",
         "Type": 1,
         "Rank": 5,
         "Icons": [
@@ -12977,7 +12977,7 @@ var _WeaponConfig = [
             61601
         ],
         "AscMatID": 114056,
-        "EquipAffixName": "Dawn and Dusk by the Lake",
+        "EquipAffixName": "Рассвет и закат у озера",
         "EquipAffixID": 111513,
         "Extra": [],
         "Story": 191513,
@@ -12985,8 +12985,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11512",
-        "Name": "Light of Foliar Incision",
-        "Desc": "This gilded blade was made using precious white branches. It was once used to destroy countless poisons that infested the forest.",
+        "Name": "Свет лиственного разреза",
+        "Desc": "Этот позолоченный клинок, выполненный из драгоценных белых ветвей, когда-то рассекал бесчисленные ядовитые пары, которые отравляли лес.",
         "Type": 1,
         "Rank": 5,
         "Icons": [
@@ -13005,7 +13005,7 @@ var _WeaponConfig = [
             53101
         ],
         "AscMatID": 114040,
-        "EquipAffixName": "Whitemoon Bristle",
+        "EquipAffixName": "Остриё белой луны",
         "EquipAffixID": 111512,
         "Extra": [],
         "Story": 191512,
@@ -13013,8 +13013,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11511",
-        "Name": "Key of Khaj-Nisut",
-        "Desc": "One of a paired set of scepters fashioned from obsidian. They say that this can be used as a key to open the gate to a paradise that lies at the end of the ocean of sand.",
+        "Name": "Ключ Хадж-нисут",
+        "Desc": "Один из пары обсидиановых скипетров. Согласно легенде, он открывает врата в рай, который сокрыт на краю песчаного моря.",
         "Type": 1,
         "Rank": 5,
         "Icons": [
@@ -13033,7 +13033,7 @@ var _WeaponConfig = [
             53101
         ],
         "AscMatID": 114040,
-        "EquipAffixName": "Sunken Song of the Sands",
+        "EquipAffixName": "Погребённая поэма дюн",
         "EquipAffixID": 111511,
         "Extra": [],
         "Story": 191511,
@@ -13041,8 +13041,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11510",
-        "Name": "Haran Geppaku Futsu",
-        "Desc": "A famed work by the Futsu line of smiths. The name \"Haran\" comes from the manner in which it resembles the violent, roiling waves.",
+        "Name": "Харан гэппаку фуцу",
+        "Desc": "Произведение искусства рода кузнецов Фуцу. «Харан» в названии связано со сходством клинка с неистовыми морскими валами.",
         "Type": 1,
         "Rank": 5,
         "Icons": [
@@ -13061,7 +13061,7 @@ var _WeaponConfig = [
             50801
         ],
         "AscMatID": 114032,
-        "EquipAffixName": "Honed Flow",
+        "EquipAffixName": "Поток клинков",
         "EquipAffixID": 111510,
         "Extra": [],
         "Story": 191510,
@@ -13069,8 +13069,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11509",
-        "Name": "Mistsplitter Reforged",
-        "Desc": "A sword that blazes with a fierce violet light. The name \"Reforged\" comes from it having been broken once before.",
+        "Name": "Рассекающий туман",
+        "Desc": "Меч, пылающий зловещим фиолетовым светом. Однажды он уже был сломан, но затем его выковали заново.",
         "Type": 1,
         "Rank": 5,
         "Icons": [
@@ -13089,7 +13089,7 @@ var _WeaponConfig = [
             50801
         ],
         "AscMatID": 114028,
-        "EquipAffixName": "Mistsplitter's Edge",
+        "EquipAffixName": "Лезвие рассекателя тумана",
         "EquipAffixID": 111509,
         "Extra": [],
         "Story": 191509,
@@ -13097,8 +13097,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11505",
-        "Name": "Primordial Jade Cutter",
-        "Desc": "A ceremonial sword masterfully carved from pure jade. There almost seems to be an audible sigh in the wind as it is swung.",
+        "Name": "Драгоценный омут",
+        "Desc": "Ритуальный меч, искусно вырезанный из чистейшего нефрита и покрытый изящными гравировками. Иногда кажется, что при взмахе им можно услышать тихий вздох ветра.",
         "Type": 1,
         "Rank": 5,
         "Icons": [
@@ -13117,7 +13117,7 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114020,
-        "EquipAffixName": "Protector's Virtue",
+        "EquipAffixName": "Добродетель защитника",
         "EquipAffixID": 111505,
         "Extra": [],
         "Story": 191505,
@@ -13125,8 +13125,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11504",
-        "Name": "Summit Shaper",
-        "Desc": "A symbol of a legendary pact, this sharp blade once cut off the peak of a mountain.",
+        "Name": "Кромсатель пиков",
+        "Desc": "Говорят, этот клинок - символ легендарного контракта. Когда-то его острым лезвием была срезана вершина горы.",
         "Type": 1,
         "Rank": 5,
         "Icons": [
@@ -13145,7 +13145,7 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114016,
-        "EquipAffixName": "Golden Majesty",
+        "EquipAffixName": "Золочёное величество",
         "EquipAffixID": 111504,
         "Extra": [],
         "Story": 191504,
@@ -13153,8 +13153,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11503",
-        "Name": "Freedom-Sworn",
-        "Desc": "A straight sword, azure as antediluvian song, and as keen as the oaths of freedom taken in the Land of Wind.",
+        "Name": "Клятва свободы",
+        "Desc": "Цвет этого меча напоминает о древних песнопениях, а его острота подобна словам данной в царстве ветров клятвы свободы.",
         "Type": 1,
         "Rank": 5,
         "Icons": [
@@ -13173,7 +13173,7 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114012,
-        "EquipAffixName": "Revolutionary Chorale",
+        "EquipAffixName": "Песнь восстания",
         "EquipAffixID": 111503,
         "Extra": [],
         "Story": 191503,
@@ -13181,8 +13181,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11502",
-        "Name": "Skyward Blade",
-        "Desc": "The sword of a knight that symbolizes the restored honor of Dvalin. The blessings of the Anemo Archon rest on the fuller of the blade, imbuing the sword with the powers of the sky and the wind.",
+        "Name": "Небесный меч",
+        "Desc": "Меч рыцаря, символ вернувшего свою честь Двалина. Благословения Анемо Архонта питают его силой небес и ветров.",
         "Type": 1,
         "Rank": 5,
         "Icons": [
@@ -13201,7 +13201,7 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114008,
-        "EquipAffixName": "Sky-Piercing Fang",
+        "EquipAffixName": "Клык, пронзивший небеса",
         "EquipAffixID": 111502,
         "Extra": [],
         "Story": 191502,
@@ -13209,8 +13209,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11501",
-        "Name": "Aquila Favonia",
-        "Desc": "The soul of the Knights of Favonius. Millennia later, it still calls on the winds of swift justice to vanquish all evil — just like the last heroine who wielded it.",
+        "Name": "Меч Сокола",
+        "Desc": "Дух рыцарей Ордо Фавониус. Спустя века он всё ещё взывает к ветрам правосудия, чтобы наказать зло, словно героиня легенд, что была когда-то его владельцем.",
         "Type": 1,
         "Rank": 5,
         "Icons": [
@@ -13229,7 +13229,7 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114004,
-        "EquipAffixName": "Falcon's Defiance",
+        "EquipAffixName": "Неповиновение Сокола",
         "EquipAffixID": 111501,
         "Extra": [],
         "Story": 191501,
@@ -13237,8 +13237,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11429",
-        "Name": "Sword of Narzissenkreuz",
-        "Desc": "A sacred blade indwelt with great enough reason and will to create and destroy a universe, or a dream.",
+        "Name": "Меч Нарциссенкрейца",
+        "Desc": "Священный клинок, наделённый достаточным разумом и волей, чтобы создать и разрушить вселенную или мечту.",
         "Type": 1,
         "Rank": 4,
         "Icons": [
@@ -13257,7 +13257,7 @@ var _WeaponConfig = [
             0
         ],
         "AscMatID": 0,
-        "EquipAffixName": "\"Holy Sword\"",
+        "EquipAffixName": "«Чудесный меч»",
         "EquipAffixID": 111429,
         "Extra": [],
         "Story": 0,
@@ -13265,8 +13265,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11428",
-        "Name": "Sword of Narzissenkreuz",
-        "Desc": "A sword whose power faded when the story ended. It will now embark upon a new journey with the power that remains within it, which commemorates a certain great dream.",
+        "Name": "Меч Нарциссенкрейца",
+        "Desc": "Меч, чья воля и сила угасла с концом его истории. Теперь он отправится в новое путешествие. Остатки силы в нём помнят великую мечту.",
         "Type": 1,
         "Rank": 4,
         "Icons": [
@@ -13285,7 +13285,7 @@ var _WeaponConfig = [
             61601
         ],
         "AscMatID": 114052,
-        "EquipAffixName": "Hero's Blade",
+        "EquipAffixName": "Меч героя",
         "EquipAffixID": 111428,
         "Extra": [],
         "Story": 191428,
@@ -13293,8 +13293,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11427",
-        "Name": "The Dockhand's Assistant",
-        "Desc": "A convenient cutting tool that you can rarely find nowadays. You can replace the blades as they are dulled by usage.",
+        "Name": "Верфь",
+        "Desc": "Удобный режущий инструмент, который в наше время нигде не найти. Затупившиеся лезвия можно заменить.",
         "Type": 1,
         "Rank": 4,
         "Icons": [
@@ -13313,7 +13313,7 @@ var _WeaponConfig = [
             61601
         ],
         "AscMatID": 114056,
-        "EquipAffixName": "Sea Shanty",
+        "EquipAffixName": "Матросская песня",
         "EquipAffixID": 111427,
         "Extra": [],
         "Story": 191427,
@@ -13321,8 +13321,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11426",
-        "Name": "Fleuve Cendre Ferryman",
-        "Desc": "A handy length of abandoned copper pipe that was once used as a weapon. It was famous — or infamous, depending — in some circles.",
+        "Name": "Перевозчик Флёв Сандр",
+        "Desc": "Выброшенный кусок медной трубы, который в прошлом использовался как оружие. Популярная в одних кругах, в других она снискала дурную славу.",
         "Type": 1,
         "Rank": 4,
         "Icons": [
@@ -13341,7 +13341,7 @@ var _WeaponConfig = [
             61601
         ],
         "AscMatID": 114052,
-        "EquipAffixName": "Ironbone",
+        "EquipAffixName": "Железная кость",
         "EquipAffixID": 111426,
         "Extra": [],
         "Story": 191426,
@@ -13349,8 +13349,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11425",
-        "Name": "Finale of the Deep",
-        "Desc": "This longsword is as silent as the mysterious ocean depths. It is even more ancient than its stylings might imply.",
+        "Name": "Грандиозный финал глубин",
+        "Desc": "Длинный меч, столь же загадочный и молчаливый, как и морские глубины. Куда более древний, чем можно заключить по его виду.",
         "Type": 1,
         "Rank": 4,
         "Icons": [
@@ -13369,7 +13369,7 @@ var _WeaponConfig = [
             50801
         ],
         "AscMatID": 114056,
-        "EquipAffixName": "An End Sublime",
+        "EquipAffixName": "Финальное благородство",
         "EquipAffixID": 111425,
         "Extra": [],
         "Story": 191425,
@@ -13377,8 +13377,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11424",
-        "Name": "Wolf-Fang",
-        "Desc": "Legend has it that this longsword was once used by a wandering knight in the distant past.",
+        "Name": "Волчий клык",
+        "Desc": "Легендарный длинный меч странствующих рыцарей далёкого прошлого.",
         "Type": 1,
         "Rank": 4,
         "Icons": [
@@ -13397,7 +13397,7 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114004,
-        "EquipAffixName": "Northwind Wolf",
+        "EquipAffixName": "Волк северного ветра",
         "EquipAffixID": 111424,
         "Extra": [],
         "Story": 191424,
@@ -13405,8 +13405,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11422",
-        "Name": "Toukabou Shigure",
-        "Desc": "A rather special oil-paper umbrella. While long wanderings may make one used to the wind and the rain, there might be some fun in admiring a rainy scene beneath this parasol.",
+        "Name": "Токабо сигурэ",
+        "Desc": "Несколько необычный зонт из промасленной бумаги. В странствиях привыкаешь к непогоде, но в любовании дождливым пейзажем из-под этого зонта есть своя прелесть.",
         "Type": 1,
         "Rank": 4,
         "Icons": [
@@ -13425,7 +13425,7 @@ var _WeaponConfig = [
             50801
         ],
         "AscMatID": 114032,
-        "EquipAffixName": "Kaidan: Rainfall Earthbinder",
+        "EquipAffixName": "Кайдан: Объединяющий землю и дождь",
         "EquipAffixID": 111422,
         "Extra": [],
         "Story": 191422,
@@ -13433,8 +13433,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11421",
-        "Name": "Prized Isshin Blade",
-        "Desc": "An ominous purple aura clings to this bizarre blade. Its wicked aura and hostility have both decreased greatly.",
+        "Name": "Легендарный клинок Иссин",
+        "Desc": "Зловещая пурпурная аура окружает этот диковинный меч. Скрывающаяся в нём коварная мощь и жестокость уже не так сильны, как когда-то.",
         "Type": 1,
         "Rank": 4,
         "Icons": [
@@ -13453,7 +13453,7 @@ var _WeaponConfig = [
             0
         ],
         "AscMatID": 0,
-        "EquipAffixName": "Wandering Striker",
+        "EquipAffixName": "Блуждающий клинок",
         "EquipAffixID": 111421,
         "Extra": [],
         "Story": 0,
@@ -13461,8 +13461,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11420",
-        "Name": "Prized Isshin Blade",
-        "Desc": "The battered cursed blade shows its true form. Yet any innate endowment it might have had has been ground to dust during its journey.",
+        "Name": "Легендарный клинок Иссин",
+        "Desc": "Проклятый клинок, усыпанный сколами и зазубринами, обнажил свою истинную форму. Долгие странствия давно стёрли его врождённые силы в пыль.",
         "Type": 1,
         "Rank": 4,
         "Icons": [
@@ -13481,7 +13481,7 @@ var _WeaponConfig = [
             0
         ],
         "AscMatID": 0,
-        "EquipAffixName": "Wandering Striker",
+        "EquipAffixName": "Блуждающий клинок",
         "EquipAffixID": 111420,
         "Extra": [],
         "Story": 0,
@@ -13489,8 +13489,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11419",
-        "Name": "Prized Isshin Blade",
-        "Desc": "An ominous purple aura clings to this bizarre blade. It has the power to control its wielder's heart and mind.",
+        "Name": "Легендарный клинок Иссин",
+        "Desc": "Зловещая пурпурная аура окружает этот диковинный меч. Он способен подчинить себе душу и разум своего хозяина.",
         "Type": 1,
         "Rank": 4,
         "Icons": [
@@ -13509,7 +13509,7 @@ var _WeaponConfig = [
             0
         ],
         "AscMatID": 0,
-        "EquipAffixName": "Wandering Striker",
+        "EquipAffixName": "Блуждающий клинок",
         "EquipAffixID": 111419,
         "Extra": [],
         "Story": 0,
@@ -13517,8 +13517,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11418",
-        "Name": "Xiphos' Moonlight",
-        "Desc": "This ancient double-edged sword glimmers with moonlight. It is said that a now-silent Jinni dwells within it.",
+        "Name": "Лунное сияние ксифоса",
+        "Desc": "Древний обоюдоострый меч, сверкающий лунным светом. Говорят, что в нём живёт умолкший джинн.",
         "Type": 1,
         "Rank": 4,
         "Icons": [
@@ -13537,7 +13537,7 @@ var _WeaponConfig = [
             53101
         ],
         "AscMatID": 114040,
-        "EquipAffixName": "Jinni's Whisper",
+        "EquipAffixName": "Шёпот джинна",
         "EquipAffixID": 111418,
         "Extra": [],
         "Story": 191418,
@@ -13545,8 +13545,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11417",
-        "Name": "Sapwood Blade",
-        "Desc": "A weapon you obtained from an Aranara tale. It has taken on the shape of a blade that can cut down the foes of the forest.",
+        "Name": "Деревянный клинок",
+        "Desc": "Оружие, полученное из истории аранар. Оно приняло форму меча, который способен пронзать врагов леса.",
         "Type": 1,
         "Rank": 4,
         "Icons": [
@@ -13565,7 +13565,7 @@ var _WeaponConfig = [
             53101
         ],
         "AscMatID": 114040,
-        "EquipAffixName": "Forest Sanctuary",
+        "EquipAffixName": "Благословение чащи",
         "EquipAffixID": 111417,
         "Extra": [],
         "Story": 191417,
@@ -13573,8 +13573,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11416",
-        "Name": "Kagotsurube Isshin",
-        "Desc": "This famed blade was born in a nation to the far north. But in the name of \"Isshin,\" it was stained with many a dark deed on its home-bound journey.",
+        "Name": "Кагоцурубэ Иссин",
+        "Desc": "Клинок, который родился в государстве далеко на севере. На пути домой его запятнала скверна бесчисленных злодеяний лишь ради одного слова - «Иссин».",
         "Type": 1,
         "Rank": 4,
         "Icons": [
@@ -13593,7 +13593,7 @@ var _WeaponConfig = [
             601
         ],
         "AscMatID": 114036,
-        "EquipAffixName": "Isshin Art Clarity",
+        "EquipAffixName": "Ясность искусства Иссин",
         "EquipAffixID": 111416,
         "Extra": [],
         "Story": 191416,
@@ -13601,8 +13601,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11415",
-        "Name": "Cinnabar Spindle",
-        "Desc": "A sword made from materials that do not belong in this world. The power within might even be able to withstand the corruption of a venom that could corrode a mighty dragon.",
+        "Name": "Киноварное веретено",
+        "Desc": "Материалы, из которых сделан этот меч, явно не принадлежат этому миру. Он выдержит даже сильнейший яд, способный разъесть могучего дракона.",
         "Type": 1,
         "Rank": 4,
         "Icons": [
@@ -13621,7 +13621,7 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114004,
-        "EquipAffixName": "Spotless Heart",
+        "EquipAffixName": "Добродетель",
         "EquipAffixID": 111415,
         "Extra": [],
         "Story": 191415,
@@ -13629,8 +13629,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11414",
-        "Name": "Amenoma Kageuchi",
-        "Desc": "A blade custom made for a famed samurai who could strike down a tengu warrior, known for their incredible agility, in midair.",
+        "Name": "Амэнома Кагэути",
+        "Desc": "Клинок, сделанный специально для знаменитого самурая, который мог сразить ловкого тэнгу прямо в воздухе.",
         "Type": 1,
         "Rank": 4,
         "Icons": [
@@ -13649,7 +13649,7 @@ var _WeaponConfig = [
             50801
         ],
         "AscMatID": 114028,
-        "EquipAffixName": "Iwakura Succession",
+        "EquipAffixName": "Наследие Ивакуры",
         "EquipAffixID": 111414,
         "Extra": [],
         "Story": 191414,
@@ -13657,8 +13657,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11413",
-        "Name": "Festering Desire",
-        "Desc": "A creepy straight sword that almost seems to yearn for life. It drips with a shriveling venom that could even corrupt a mighty dragon.",
+        "Name": "Осквернённое желание",
+        "Desc": "Зловещий меч, жаждущий жизни. Он пропитан сильным ядом, способным осквернить даже могучего дракона.",
         "Type": 1,
         "Rank": 4,
         "Icons": [
@@ -13677,7 +13677,7 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114012,
-        "EquipAffixName": "Undying Admiration",
+        "EquipAffixName": "Бессмертное восхищение",
         "EquipAffixID": 111413,
         "Extra": [],
         "Story": 191413,
@@ -13685,8 +13685,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11412",
-        "Name": "Sword of Descension",
-        "Desc": "A sword of unique craftsmanship. It does not appear to belong to this world.",
+        "Name": "Меч нисхождения",
+        "Desc": "Меч уникальной формы. Кажется, что он не принадлежит этому миру.",
         "Type": 1,
         "Rank": 4,
         "Icons": [
@@ -13705,7 +13705,7 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114008,
-        "EquipAffixName": "Descension",
+        "EquipAffixName": "Пришествие",
         "EquipAffixID": 111412,
         "Extra": [],
         "Story": 191412,
@@ -13713,8 +13713,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11410",
-        "Name": "The Alley Flash",
-        "Desc": "A straight sword as black as the night. It once belonged to a thief who roamed the benighted streets.",
+        "Name": "Вспышка во тьме",
+        "Desc": "Чёрный как ночь клинок. Его хозяином был грабитель, который орудовал в тёмных переулках.",
         "Type": 1,
         "Rank": 4,
         "Icons": [
@@ -13733,7 +13733,7 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114004,
-        "EquipAffixName": "Itinerant Hero",
+        "EquipAffixName": "Странствующий рыцарь",
         "EquipAffixID": 111410,
         "Extra": [],
         "Story": 191410,
@@ -13741,8 +13741,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11409",
-        "Name": "The Black Sword",
-        "Desc": "A pitch-black longsword that thirsts for violence and conflict. It is said that this weapon can cause its user to become drunk on the red wine of slaughter.",
+        "Name": "Чёрный меч",
+        "Desc": "Этот чёрный как смоль меч жаждет кровопролития. Говорят, что в пылу резни его владелец пьянеет, словно от вина.",
         "Type": 1,
         "Rank": 4,
         "Icons": [
@@ -13761,7 +13761,7 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114008,
-        "EquipAffixName": "Justice",
+        "EquipAffixName": "Справедливость",
         "EquipAffixID": 111409,
         "Extra": [],
         "Story": 191409,
@@ -13769,8 +13769,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11408",
-        "Name": "Blackcliff Longsword",
-        "Desc": "A sword made of a material known as \"blackcliff.\" It has a dark crimson glow on its black blade.",
+        "Name": "Черногорский длинный меч",
+        "Desc": "Этот меч сделан из обломков скал Черногорья. Его тёмное лезвие имеет кровавое свечение.",
         "Type": 1,
         "Rank": 4,
         "Icons": [
@@ -13789,7 +13789,7 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114016,
-        "EquipAffixName": "Press the Advantage",
+        "EquipAffixName": "Преследование побеждённых",
         "EquipAffixID": 111408,
         "Extra": [],
         "Story": 191408,
@@ -13797,8 +13797,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11407",
-        "Name": "Iron Sting",
-        "Desc": "An exotic long-bladed rapier that somehow found its way into Liyue via foreign traders. It is light, agile, and sharp.",
+        "Name": "Стальное жало",
+        "Desc": "Экзотическая рапира, каким-то образом попавшая в Ли Юэ. Скорее всего, её привёз какой-то торговец. Она лёгкая и очень острая.",
         "Type": 1,
         "Rank": 4,
         "Icons": [
@@ -13817,7 +13817,7 @@ var _WeaponConfig = [
             60101
         ],
         "AscMatID": 114024,
-        "EquipAffixName": "Infusion Stinger",
+        "EquipAffixName": "Заряженное жало",
         "EquipAffixID": 111407,
         "Extra": [],
         "Story": 191407,
@@ -13825,8 +13825,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11406",
-        "Name": "Prototype Rancour",
-        "Desc": "An ancient longsword discovered in the Blackcliff Forge that cuts through rocks like a hot knife through butter.",
+        "Name": "Прототип: Злоба",
+        "Desc": "Древний меч, обнаруженный в кузнице Черногорья. Режет камень словно масло.",
         "Type": 1,
         "Rank": 4,
         "Icons": [
@@ -13845,7 +13845,7 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114020,
-        "EquipAffixName": "Smashed Stone",
+        "EquipAffixName": "Расколотый камень",
         "EquipAffixID": 111406,
         "Extra": [],
         "Story": 191406,
@@ -13853,8 +13853,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11405",
-        "Name": "Lion's Roar",
-        "Desc": "A sharp blade with extravagant carvings that somehow does not compromise on durability and sharpness. It roars like a lion as it cuts through the air.",
+        "Name": "Драконий рык",
+        "Desc": "Роскошная гравировка никак не повлияла на прочность и остроту этого меча. Звук от взмахов напоминает рык дракона.",
         "Type": 1,
         "Rank": 4,
         "Icons": [
@@ -13873,7 +13873,7 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114016,
-        "EquipAffixName": "Bane of Fire and Thunder",
+        "EquipAffixName": "Погибель огня и грома",
         "EquipAffixID": 111405,
         "Extra": [],
         "Story": 191405,
@@ -13881,8 +13881,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11404",
-        "Name": "Royal Longsword",
-        "Desc": "An old longsword that belonged to the erstwhile rulers of Mondstadt. Exquisitely crafted, the carvings and embellishments testify to the stature of its owner.",
+        "Name": "Меч аристократов",
+        "Desc": "Старинный меч, который носили с собой древние правители Мондштадта. Изысканно выполненная резьба и инкрустация подчёркивают высокий статус его владельца.",
         "Type": 1,
         "Rank": 4,
         "Icons": [
@@ -13901,7 +13901,7 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114004,
-        "EquipAffixName": "Focus",
+        "EquipAffixName": "Сосредоточенный",
         "EquipAffixID": 111404,
         "Extra": [],
         "Story": 191404,
@@ -13909,8 +13909,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11403",
-        "Name": "Sacrificial Sword",
-        "Desc": "A ceremonial sword that has become petrified over time. The trinkets on it are still visible. It grants the wielder the power to withstand the winds of time.",
+        "Name": "Церемониальный меч",
+        "Desc": "Декоративный церемониальный меч, со временем покрывшийся камнем, но украшения на нём всё ещё можно разобрать. Позволяет владельцу выстоять под суровостью песков времени.",
         "Type": 1,
         "Rank": 4,
         "Icons": [
@@ -13929,7 +13929,7 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114012,
-        "EquipAffixName": "Composed",
+        "EquipAffixName": "Безмятежный",
         "EquipAffixID": 111403,
         "Extra": [],
         "Story": 191403,
@@ -13937,8 +13937,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11402",
-        "Name": "The Flute",
-        "Desc": "Beneath its rusty exterior is a lavishly decorated thin blade. It swings as swiftly as the wind.",
+        "Name": "Меч-флейта",
+        "Desc": "Под всей этой ржавчиной скрывается роскошно украшенный меч. Режет плоть так же легко, как воздух.",
         "Type": 1,
         "Rank": 4,
         "Icons": [
@@ -13957,7 +13957,7 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114008,
-        "EquipAffixName": "Chord",
+        "EquipAffixName": "Аккорд",
         "EquipAffixID": 111402,
         "Extra": [],
         "Story": 191402,
@@ -13965,8 +13965,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11401",
-        "Name": "Favonius Sword",
-        "Desc": "A standard-issue longsword of the Knights of Favonius. When you're armed with this agile and sharp weapon, channeling the power of the elements has never been so easy!",
+        "Name": "Меч Фавония",
+        "Desc": "Стандартный длинный меч на вооружении рыцарей Ордо Фавониус. Легко позволяет проводить через себя энергию стихий.",
         "Type": 1,
         "Rank": 4,
         "Icons": [
@@ -13985,7 +13985,7 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114004,
-        "EquipAffixName": "Windfall",
+        "EquipAffixName": "Дружественный бриз",
         "EquipAffixID": 111401,
         "Extra": [],
         "Story": 191401,
@@ -13993,8 +13993,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11306",
-        "Name": "Skyrider Sword",
-        "Desc": "A reliable steel sword. The legendary Skyrider once tried to ride it as a flying sword...",
+        "Name": "Меч небесного всадника",
+        "Desc": "Надёжный стальной меч. Однажды некто пытался заставить его летать...",
         "Type": 1,
         "Rank": 3,
         "Icons": [
@@ -14013,7 +14013,7 @@ var _WeaponConfig = [
             30101
         ],
         "AscMatID": 114024,
-        "EquipAffixName": "Determination",
+        "EquipAffixName": "Решительность",
         "EquipAffixID": 111306,
         "Extra": [],
         "Story": 191306,
@@ -14021,8 +14021,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11305",
-        "Name": "Fillet Blade",
-        "Desc": "A sharp filleting knife. The blade is long, thin, and incredibly sharp.",
+        "Name": "Филейный нож",
+        "Desc": "Острый филейный нож. Имеет длинное, тонкое и невероятно острое лезвие.",
         "Type": 1,
         "Rank": 3,
         "Icons": [
@@ -14041,7 +14041,7 @@ var _WeaponConfig = [
             50701
         ],
         "AscMatID": 114020,
-        "EquipAffixName": "Gash",
+        "EquipAffixName": "Решительный",
         "EquipAffixID": 111305,
         "Extra": [],
         "Story": 191305,
@@ -14049,8 +14049,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11304",
-        "Name": "Dark Iron Sword",
-        "Desc": "A perfectly ordinary iron sword, just slightly darker than most.",
+        "Name": "Тёмный железный меч",
+        "Desc": "На самом деле это просто немного тёмный железный меч.",
         "Type": 1,
         "Rank": 3,
         "Icons": [
@@ -14069,7 +14069,7 @@ var _WeaponConfig = [
             10101
         ],
         "AscMatID": 114016,
-        "EquipAffixName": "Overloaded",
+        "EquipAffixName": "Перегружен",
         "EquipAffixID": 111304,
         "Extra": [],
         "Story": 191304,
@@ -14077,8 +14077,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11303",
-        "Name": "Traveler's Handy Sword",
-        "Desc": "A handy steel sword which contains scissors, a magnifying glass, tinder, and other useful items in its sheath.",
+        "Name": "Меч путешественника",
+        "Desc": "Удобный стальной меч, в ножнах которого также можно найти ножницы, лупу, трутницу и много чего ещё.",
         "Type": 1,
         "Rank": 3,
         "Icons": [
@@ -14097,7 +14097,7 @@ var _WeaponConfig = [
             10306
         ],
         "AscMatID": 114012,
-        "EquipAffixName": "Journey",
+        "EquipAffixName": "Путешествие",
         "EquipAffixID": 111303,
         "Extra": [],
         "Story": 191303,
@@ -14105,8 +14105,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11302",
-        "Name": "Harbinger of Dawn",
-        "Desc": "A sword that once shone like the sun. The wielder of this sword will be blessed with a \"feel-good\" buff. The reflective material on the blade has long worn off.",
+        "Name": "Предвестник зари",
+        "Desc": "Меч, некогда испускавший солнечный свет. Владелец этого меча получит благословение «Хорошего Самочувствия». Отражающая поверхность меча давно стёрлась.",
         "Type": 1,
         "Rank": 3,
         "Icons": [
@@ -14125,7 +14125,7 @@ var _WeaponConfig = [
             111
         ],
         "AscMatID": 114008,
-        "EquipAffixName": "Vigorous",
+        "EquipAffixName": "Энергичный",
         "EquipAffixID": 111302,
         "Extra": [],
         "Story": 191302,
@@ -14133,8 +14133,8 @@ var _WeaponConfig = [
     },
     {
         "_id": "11301",
-        "Name": "Cool Steel",
-        "Desc": "A reliable steel-forged weapon that serves as a testament to the great adventures of its old master.",
+        "Name": "Холодное лезвие",
+        "Desc": "Стальной меч, на который можно положиться. Служит доказательством великих завоеваний своего прежнего владельца.",
         "Type": 1,
         "Rank": 3,
         "Icons": [
@@ -14153,7 +14153,7 @@ var _WeaponConfig = [
             10110
         ],
         "AscMatID": 114004,
-        "EquipAffixName": "Bane of Water and Ice",
+        "EquipAffixName": "Погибель воды и льда",
         "EquipAffixID": 111301,
         "Extra": [],
         "Story": 191301,
@@ -14177,11 +14177,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Selfless Floral Accessory",
-            "Honest Quill",
-            "Faithful Hourglass",
-            "Magnanimous Ink Bottle",
-            "Compassionate Ladies' Hat"
+            "Бескорыстный цветок",
+            "Искреннее перо",
+            "Верные песочные часы",
+            "Великодушная чернильница",
+            "Милостивая шляпка"
         ],
         "Extra": []
     },
@@ -14200,11 +14200,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Forgotten Oath of Days Past",
-            "Recollection of Days Past",
-            "Echoing Sound From Days Past",
-            "Promised Dream of Days Past",
-            "Poetry of Days Past"
+            "Забытая клятва былых времён",
+            "Воспоминания о былых временах",
+            "Отзвуки былых времён",
+            "Обещанный сон былых времён",
+            "Поэзия былых времён"
         ],
         "Extra": [
             "- The entire team shares the number of instances of DMG increase. When an instance of DMG hits multiple enemies, the remaining number of instances will be consumed according to the number of enemies hit.<br>- After <b>Healing Recording</b> ends and transforms into <b>DMG Increase</b>, the next wave of <b>Healing Recording</b> can be triggered immediately after 0.5s.<br>- The DMG increase is added to the <b>Base Multiplier</b>, i.e. the (ATK * Multiplier + DMG Increase + Spread/Aggravate DMG) multiplier."
@@ -14225,11 +14225,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Golden Song's Variation",
-            "Golden Bird's Shedding",
-            "Golden Era's Prelude",
-            "Golden Night's Bustle",
-            "Golden Troupe's Reward"
+            "Вариация золотой песни",
+            "Перо золотой птицы",
+            "Предзнаменование золотой эпохи",
+            "Суета золотой ночи",
+            "Награда Золотой труппы"
         ],
         "Extra": []
     },
@@ -14248,11 +14248,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Hunter's Brooch",
-            "Masterpiece's Overture",
-            "Moment of Judgment",
-            "Forgotten Vessel",
-            "Veteran's Visage"
+            "Брошь охотника",
+            "Увертюра шедевра",
+            "Мгновение правосудия",
+            "Забытый сосуд",
+            "Лик старого солдата"
         ],
         "Extra": []
     },
@@ -14271,11 +14271,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Stamen of Khvarena's Origin",
-            "Vibrant Pinion",
-            "Ancient Abscission",
-            "Feast of Boundless Joy",
-            "Heart of Khvarena's Brilliance"
+            "Тычинка истока Хварны",
+            "Самоцветное перо",
+            "Древнее увядание",
+            "Пир необузданного веселья",
+            "Сердце светозарности Хварны"
         ],
         "Extra": []
     },
@@ -14294,11 +14294,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Odyssean Flower",
-            "Wicked Mage's Plumule",
-            "Nymph's Constancy",
-            "Heroes' Tea Party",
-            "Fell Dragon's Monocle"
+            "Цветок странствий",
+            "Перо злого мага",
+            "Постоянство нимфы",
+            "Чаепитие героев",
+            "Монокль свирепого дракона"
         ],
         "Extra": []
     },
@@ -14317,11 +14317,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Ay-Khanoum's Myriad",
-            "Wilting Feast",
-            "A Moment Congealed",
-            "Secret-Keeper's Magic Bottle",
-            "Amethyst Crown"
+            "Великолепие Ай-Ханум",
+            "Угасающий пир",
+            "Застывшее мгновение",
+            "Магический сосуд хранителя тайн",
+            "Аметистовый венец"
         ],
         "Extra": []
     },
@@ -14340,11 +14340,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "The First Days of the City of Kings",
-            "End of the Golden Realm",
-            "Timepiece of the Lost Path",
-            "Defender of the Enchanting Dream",
-            "Legacy of the Desert High-Born"
+            "Рождение города королей",
+            "Конец золотого царства",
+            "Часы потерянного пути",
+            "Хранитель дивной мечты",
+            "Наследие пустынной знати"
         ],
         "Extra": []
     },
@@ -14363,11 +14363,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Dreaming Steelbloom",
-            "Feather of Judgment",
-            "The Sunken Years",
-            "Honeyed Final Feast",
-            "Shadow of the Sand King"
+            "Сон железного цветка",
+            "Перо суждения",
+            "Золотые годы",
+            "Последний медовый пир",
+            "Тень Короля песков"
         ],
         "Extra": []
     },
@@ -14386,11 +14386,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Labyrinth Wayfarer",
-            "Scholar of Vines",
-            "A Time of Insight",
-            "Lamp of the Lost",
-            "Laurel Coronet"
+            "Странник лабиринта",
+            "Мудрец лозы",
+            "Час осмысления",
+            "Лампа заблудших",
+            "Лавровый венец"
         ],
         "Extra": []
     },
@@ -14409,11 +14409,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Soulscent Bloom",
-            "Jade Leaf",
-            "Symbol of Felicitation",
-            "Chalice of the Font",
-            "Flowing Rings"
+            "Цветок призрачного аромата",
+            "Нефритовый листок",
+            "Символ подношения",
+            "Чаша истока",
+            "Серьги текучести"
         ],
         "Extra": []
     },
@@ -14432,11 +14432,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Flowering Life",
-            "Feather of Nascent Light",
-            "Solar Relic",
-            "Moment of the Pact",
-            "Thundering Poise"
+            "Цветение жизни",
+            "Перо скрытого сияния",
+            "Солнечная реликвия",
+            "Мгновение договора",
+            "Громогласный облик"
         ],
         "Extra": []
     },
@@ -14455,11 +14455,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Sea-Dyed Blossom",
-            "Deep Palace's Plume",
-            "Cowry of Parting",
-            "Pearl Cage",
-            "Crown of Watatsumi"
+            "Цветок морских красок",
+            "Перо глубинного дворца",
+            "Раковина разлуки",
+            "Жемчужная клетка",
+            "Корона Ватацуми"
         ],
         "Extra": []
     },
@@ -14478,11 +14478,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Bloom Times",
-            "Plume of Luxury",
-            "Song of Life",
-            "Calabash of Awakening",
-            "Skeletal Hat"
+            "Пора расцвета",
+            "Перо чертога",
+            "Песнь жизни",
+            "Тыква пробуждения",
+            "Шляпа телесности"
         ],
         "Extra": []
     },
@@ -14501,11 +14501,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Magnificent Tsuba",
-            "Sundered Feather",
-            "Storm Cage",
-            "Scarlet Vessel",
-            "Ornate Kabuto"
+            "Великолепная цуба",
+            "Обрезанное перо",
+            "Клетка грозовых облаков",
+            "Алый сосуд",
+            "Украшенный кабуто"
         ],
         "Extra": []
     },
@@ -14524,11 +14524,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Entangling Bloom",
-            "Shaft of Remembrance",
-            "Morning Dew's Moment",
-            "Hopeful Heart",
-            "Capricious Visage"
+            "Опутывающий цветок",
+            "Стрела воспоминаний",
+            "Мгновение росы",
+            "Полное надежд сердце",
+            "Непостоянный лик"
         ],
         "Extra": []
     },
@@ -14547,11 +14547,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Stainless Bloom",
-            "Wise Doctor's Pinion",
-            "Moment of Cessation",
-            "Surpassing Cup",
-            "Mocking Mask"
+            "Незапятнанный цветок",
+            "Перо мудрого лекаря",
+            "Замершее мгновение",
+            "Превосходящая чаша",
+            "Смеющаяся маска"
         ],
         "Extra": []
     },
@@ -14570,11 +14570,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Flower of Accolades",
-            "Ceremonial War-Plume",
-            "Orichalceous Time-Dial",
-            "Noble's Pledging Vessel",
-            "General's Ancient Helm"
+            "Цветок почестей",
+            "Боевое перо командира",
+            "Золотые часы",
+            "Золотой кубок клятвы",
+            "Древний шлем генерала"
         ],
         "Extra": []
     },
@@ -14593,11 +14593,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Gilded Corsage",
-            "Gust of Nostalgia",
-            "Copper Compass",
-            "Goblet of Thundering Deep",
-            "Wine-Stained Tricorne"
+            "Позолоченная брошь",
+            "Порыв ностальгии",
+            "Медный компас",
+            "Кубок оглушающих глубин",
+            "Треуголка в пятнах вина"
         ],
         "Extra": []
     },
@@ -14616,11 +14616,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Summer Night's Bloom",
-            "Summer Night's Finale",
-            "Summer Night's Moment",
-            "Summer Night's Waterballoon",
-            "Summer Night's Mask"
+            "Цветок равноденствия",
+            "Конец равноденствия",
+            "Час равноденствия",
+            "Шар равноденствия",
+            "Маска равноденствия"
         ],
         "Extra": []
     },
@@ -14639,11 +14639,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Flower of Creviced Cliff",
-            "Feather of Jagged Peaks",
-            "Sundial of Enduring Jade",
-            "Goblet of Chiseled Crag",
-            "Mask of Solitude Basalt"
+            "Цветок скальных трещин",
+            "Перо зубчатых пиков",
+            "Часы из прочного нефрита",
+            "Кубок из резного камня",
+            "Маска из одинокого базальта"
         ],
         "Extra": []
     },
@@ -14658,7 +14658,7 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Tiara of Frost"
+            "Тиара холода"
         ],
         "Extra": []
     },
@@ -14673,7 +14673,7 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Tiara of Gales"
+            "Тиара ветра"
         ],
         "Extra": [
             "Obsolete"
@@ -14690,7 +14690,7 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Tiara of Thunder"
+            "Тиара грома"
         ],
         "Extra": []
     },
@@ -14705,7 +14705,7 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Tiara of Torrents"
+            "Тиара воды"
         ],
         "Extra": []
     },
@@ -14720,7 +14720,7 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Tiara of Flame"
+            "Тиара огня"
         ],
         "Extra": []
     },
@@ -14739,11 +14739,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Bloodstained Flower of Iron",
-            "Bloodstained Black Plume",
-            "Bloodstained Final Hour",
-            "Bloodstained Chevalier's Goblet",
-            "Bloodstained Iron Mask"
+            "Железное сердце рыцаря крови",
+            "Перо рыцаря крови",
+            "Час долга рыцаря крови",
+            "Кубок рыцаря крови",
+            "Железная маска рыцаря крови"
         ],
         "Extra": []
     },
@@ -14762,11 +14762,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Royal Flora",
-            "Royal Plume",
-            "Royal Pocket Watch",
-            "Royal Silver Urn",
-            "Royal Masque"
+            "Королевский цветок",
+            "Королевское перо",
+            "Королевские карманные часы",
+            "Королевская серебряная фляжка",
+            "Королевская маска"
         ],
         "Extra": []
     },
@@ -14785,11 +14785,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Witch's Flower of Blaze",
-            "Witch's Ever-Burning Plume",
-            "Witch's End Time",
-            "Witch's Heart Flames",
-            "Witch's Scorching Hat"
+            "Ведьмин огненный цветок",
+            "Пылающее ведьмино перо",
+            "Ведьмин последний час",
+            "Пламя ведьминого сердца",
+            "Тлеющая ведьмина шляпа"
         ],
         "Extra": []
     },
@@ -14808,11 +14808,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Thunderbird's Mercy",
-            "Survivor of Catastrophe",
-            "Hourglass of Thunder",
-            "Omen of Thunderstorm",
-            "Thunder Summoner's Crown"
+            "Милосердие Громовой птицы",
+            "Переживший катастрофу",
+            "Песочные часы грома",
+            "Предвестник бури",
+            "Корона призывателя грома"
         ],
         "Extra": []
     },
@@ -14831,11 +14831,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Heart of Frost",
-            "Plume of Snow",
-            "Glacial Sand",
-            "Goblet of Aquilo",
-            "Crown of Glacier"
+            "Сердце зимнего леса",
+            "Перо снежных равнин",
+            "Часы песчаных льдов",
+            "Кубок северных ветров",
+            "Корона мёрзлых рек"
         ],
         "Extra": [
             "Obsolete"
@@ -14856,11 +14856,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Troupe's Dawnlight",
-            "Bard's Arrow Feather",
-            "Concert's Final Hour",
-            "Wanderer's String-Kettle",
-            "Conductor's Top Hat"
+            "Рассвет ансамбля",
+            "Оперение стрелы барда",
+            "Окончание концерта",
+            "Фляжка странника",
+            "Цилиндр дирижёра"
         ],
         "Extra": []
     },
@@ -14879,11 +14879,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "In Remembrance of Viridescent Fields",
-            "Viridescent Arrow Feather",
-            "Viridescent Venerer's Determination",
-            "Viridescent Venerer's Vessel",
-            "Viridescent Venerer's Diadem"
+            "Воспоминания об изумрудных лугах",
+            "Оперение стрелы изумрудного охотника",
+            "Решимость изумрудного охотника",
+            "Сосуд изумрудного охотника",
+            "Венок изумрудного охотника"
         ],
         "Extra": []
     },
@@ -14902,11 +14902,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Gladiator's Nostalgia",
-            "Gladiator's Destiny",
-            "Gladiator's Longing",
-            "Gladiator's Intoxication",
-            "Gladiator's Triumphus"
+            "Ностальгия гладиатора",
+            "Судьба гладиатора",
+            "Стремление гладиатора",
+            "Пьянство гладиатора",
+            "Триумф гладиатора"
         ],
         "Extra": []
     },
@@ -14925,11 +14925,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Maiden's Distant Love",
-            "Maiden's Heart-stricken Infatuation",
-            "Maiden's Passing Youth",
-            "Maiden's Fleeting Leisure",
-            "Maiden's Fading Beauty"
+            "Далёкая душа юной девы",
+            "Тоска юной девы",
+            "Уходящая молодость юной девы",
+            "Досуг юной девы",
+            "Увядающая красота юной девы"
         ],
         "Extra": []
     },
@@ -14948,11 +14948,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Lavawalker's Resolution",
-            "Lavawalker's Salvation",
-            "Lavawalker's Torment",
-            "Lavawalker's Epiphany",
-            "Lavawalker's Wisdom"
+            "Решительность ступающего по лаве",
+            "Спасение ступающего по лаве",
+            "Муки ступающего по лаве",
+            "Просветление ступающего по лаве",
+            "Мудрость ступающего по лаве"
         ],
         "Extra": []
     },
@@ -14971,11 +14971,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Thundersoother's Heart",
-            "Thundersoother's Plume",
-            "Hour of Soothing Thunder",
-            "Thundersoother's Goblet",
-            "Thundersoother's Diadem"
+            "Сердце усмиряющего гром",
+            "Перо усмиряющего гром",
+            "Время усмиряющего гром",
+            "Бокал усмиряющего гром",
+            "Корона усмиряющего гром"
         ],
         "Extra": []
     },
@@ -14994,11 +14994,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Snowswept Memory",
-            "Icebreaker's Resolve",
-            "Frozen Homeland's Demise",
-            "Frost-Weaved Dignity",
-            "Broken Rime's Echo"
+            "Занесённая снегом память",
+            "Решимость крушителя льда",
+            "Гибель замёрзшей родины",
+            "Морозная гордость",
+            "Эхо осколков инея"
         ],
         "Extra": []
     },
@@ -15017,11 +15017,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Traveling Doctor's Silver Lotus",
-            "Traveling Doctor's Owl Feather",
-            "Traveling Doctor's Pocket Watch",
-            "Traveling Doctor's Medicine Pot",
-            "Traveling Doctor's Handkerchief"
+            "Серебряный лотос целителя",
+            "Совиное перо целителя",
+            "Карманные часы целителя",
+            "Чайничек целителя",
+            "Платок целителя"
         ],
         "Extra": []
     },
@@ -15040,11 +15040,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Scholar's Bookmark",
-            "Scholar's Quill Pen",
-            "Scholar's Clock",
-            "Scholar's Ink Cup",
-            "Scholar's Lens"
+            "Закладка учёного",
+            "Перо учёного",
+            "Часы учёного",
+            "Чернильница учёного",
+            "Очки учёного"
         ],
         "Extra": []
     },
@@ -15063,11 +15063,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Lucky Dog's Clover",
-            "Lucky Dog's Eagle Feather",
-            "Lucky Dog's Hourglass",
-            "Lucky Dog's Goblet",
-            "Lucky Dog's Silver Circlet"
+            "Клевер везунчика",
+            "Орлиное перо везунчика",
+            "Песочные часы везунчика",
+            "Кубок везунчика",
+            "Серебряная корона везунчика"
         ],
         "Extra": []
     },
@@ -15086,11 +15086,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Adventurer's Flower",
-            "Adventurer's Tail Feather",
-            "Adventurer's Pocket Watch",
-            "Adventurer's Golden Goblet",
-            "Adventurer's Bandana"
+            "Цветок искателя приключений",
+            "Перо искателя приключений",
+            "Часы искателя приключений",
+            "Кубок искателя приключений",
+            "Повязка искателя приключений"
         ],
         "Extra": []
     },
@@ -15109,11 +15109,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Exile's Flower",
-            "Exile's Feather",
-            "Exile's Pocket Watch",
-            "Exile's Goblet",
-            "Exile's Circlet"
+            "Цветок изгнанника",
+            "Перо изгнанника",
+            "Карманные часы изгнанника",
+            "Кубок изгнанника",
+            "Корона изгнанника"
         ],
         "Extra": []
     },
@@ -15132,11 +15132,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Gambler's Brooch",
-            "Gambler's Feather Accessory",
-            "Gambler's Pocket Watch",
-            "Gambler's Dice Cup",
-            "Gambler's Earrings"
+            "Брошь азартного игрока",
+            "Перо азартного игрока",
+            "Карманные часы азартного игрока",
+            "Стакан для костей азартного игрока",
+            "Серёжки азартного игрока"
         ],
         "Extra": []
     },
@@ -15155,11 +15155,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Instructor's Brooch",
-            "Instructor's Feather Accessory",
-            "Instructor's Pocket Watch",
-            "Instructor's Tea Cup",
-            "Instructor's Cap"
+            "Брошь инструктора",
+            "Перо инструктора",
+            "Карманные часы инструктора",
+            "Чайная кружка инструктора",
+            "Кепка инструктора"
         ],
         "Extra": []
     },
@@ -15178,11 +15178,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Martial Artist's Red Flower",
-            "Martial Artist's Feather Accessory",
-            "Martial Artist's Water Hourglass",
-            "Martial Artist's Wine Cup",
-            "Martial Artist's Bandana"
+            "Алый цветок воина",
+            "Перо воина",
+            "Водяные часы воина",
+            "Винный бокал воина",
+            "Повязка воина"
         ],
         "Extra": []
     },
@@ -15201,11 +15201,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Berserker's Rose",
-            "Berserker's Indigo Feather",
-            "Berserker's Timepiece",
-            "Berserker's Bone Goblet",
-            "Berserker's Battle Mask"
+            "Роза берсерка",
+            "Перо берсерка",
+            "Часы берсерка",
+            "Костяной кубок берсерка",
+            "Боевая маска берсерка"
         ],
         "Extra": []
     },
@@ -15224,11 +15224,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Tiny Miracle's Flower",
-            "Tiny Miracle's Feather",
-            "Tiny Miracle's Hourglass",
-            "Tiny Miracle's Goblet",
-            "Tiny Miracle's Earrings"
+            "Цветок маленького чуда",
+            "Перо маленького чуда",
+            "Песочные часы маленького чуда",
+            "Чашка маленького чуда",
+            "Серёжки маленького чуда"
         ],
         "Extra": []
     },
@@ -15247,11 +15247,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Guardian's Flower",
-            "Guardian's Sigil",
-            "Guardian's Clock",
-            "Guardian's Vessel",
-            "Guardian's Band"
+            "Цветок защитника",
+            "Брошь защитника",
+            "Часы защитника",
+            "Фляжка защитника",
+            "Повязка защитника"
         ],
         "Extra": []
     },
@@ -15270,11 +15270,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Medal of the Brave",
-            "Prospect of the Brave",
-            "Fortitude of the Brave",
-            "Outset of the Brave",
-            "Crown of the Brave"
+            "Брошь храбреца",
+            "Надежды храбреца",
+            "Стойкость храбреца",
+            "Проводы храбреца",
+            "Венок храбреца"
         ],
         "Extra": []
     },
@@ -15293,11 +15293,11 @@ var _RelicConfig = [
             }
         ],
         "Parts": [
-            "Heart of Comradeship",
-            "Feather of Homecoming",
-            "Sundial of the Sojourner",
-            "Goblet of the Sojourner",
-            "Crown of Parting"
+            "Сердце товарищества",
+            "Перо возвращения домой",
+            "Солнечные часы временщика",
+            "Кубок временщика",
+            "Венок расставания"
         ],
         "Extra": []
     }
@@ -19116,638 +19116,814 @@ var index_weapon = {
     "15512": 0,
     "最初的大魔术": 0,
     "THEFIRSTGREATMAGIC": 0,
+    "ПЕРВЫЙВЕЛИКИЙФОКУС": 0,
     "AYUS": 137,
     "15511": 1,
     "猎人之径": 1,
     "HUNTERSPATH": 1,
+    "ОХОТНИЧЬЯТРОПА": 1,
     "NARUKAMI": 140,
     "15509": 2,
     "飞雷之弦振": 2,
     "THUNDERINGPULSE": 2,
+    "ГРОМОВОЙПУЛЬС": 2,
     "KIRIN": 3,
     "15508": 3,
     "若水": 3,
     "AQUASIMULACRA": 3,
+    "АКВАСИМУЛЯКРУМ": 3,
     "WORLDBANE": 4,
     "15507": 4,
     "冬极白星": 4,
     "POLARSTAR": 4,
+    "ПОЛЯРНАЯЗВЕЗДА": 4,
     "WIDSITH": 143,
     "15503": 5,
     "终末嗟叹之诗": 5,
     "ELEGYFORTHEEND": 5,
+    "ЭЛЕГИЯПОГИБЕЛИ": 5,
     "AMOS": 6,
     "15502": 6,
     "阿莫斯之弓": 6,
     "AMOSBOW": 6,
+    "ЛУКАМОСА": 6,
     "DVALIN": 144,
     "15501": 7,
     "天空之翼": 7,
     "SKYWARDHARP": 7,
+    "НЕБЕСНОЕКРЫЛО": 7,
     "MECHANIC": 148,
     "15427": 8,
     "测距规": 8,
     "RANGEGAUGE": 8,
+    "ДАЛЬНОМЕР": 8,
     "VORPAL": 150,
     "15425": 9,
     "静谧之曲": 9,
     "SONGOFSTILLNESS": 9,
+    "МЕЛОДИЯПОКОЯ": 9,
     "GURABAD": 10,
     "15424": 10,
     "烈阳之嗣": 10,
     "SCIONOFTHEBLAZINGSUN": 10,
+    "НАСЛЕДНИКСЛЕПЯЩЕГОСОЛНЦА": 10,
     "IBIS": 11,
     "15419": 11,
     "鹮穿之喙": 11,
     "IBISPIERCER": 11,
+    "КЛЮВИБИСА": 11,
     "FIN": 12,
     "15418": 12,
     "竭泽": 12,
     "ENDOFTHELINE": 12,
+    "ИССУШИТЕЛЬ": 12,
     "ARAKALARI": 157,
     "15417": 13,
     "王下近侍": 13,
     "KINGSSQUIRE": 13,
+    "ПРИБЛИЖЁННЫЙКОРОЛЯ": 13,
     "MARIA": 114,
     "15416": 14,
     "曚云之月": 14,
     "MOUUNSMOON": 14,
+    "ЛУНАМОУН": 14,
     "PREDATOR": 15,
     "15415": 15,
     "掠食者": 15,
+    "ХИЩНИК": 15,
     "BAKUFU": 160,
     "15414": 16,
     "破魔之弓": 16,
     "HAMAYUMI": 16,
+    "ХАМАЮМИ": 16,
     "FLEURFAIR": 112,
     "15413": 17,
     "风花之颂": 17,
     "WINDBLUMEODE": 17,
+    "ОДААНЕМОНИИ": 17,
     "NACHTBLIND": 18,
     "15412": 18,
     "幽夜华尔兹": 18,
     "MITTERNACHTSWALTZ": 18,
+    "ВАЛЬСНИРВАНЫНОЧИ": 18,
     "FALLENSUN": 19,
     "15411": 19,
     "落霞": 19,
     "FADINGTWILIGHT": 19,
+    "ГАСНУЩИЕСУМЕРКИ": 19,
     "OUTLAW": 163,
     "15410": 20,
     "暗巷猎手": 20,
     "ALLEYHUNTER": 20,
+    "ОХОТНИКВОТЬМЕ": 20,
     "VIRIDESCENT": 21,
     "15409": 21,
     "苍翠猎弓": 21,
     "THEVIRIDESCENTHUNT": 21,
+    "ЗЕЛЁНЫЙЛУК": 21,
     "BLACKROCK": 165,
     "15408": 22,
     "黑岩战弓": 22,
     "BLACKCLIFFWARBOW": 22,
+    "ЧЕРНОГОРСКИЙБОЕВОЙЛУК": 22,
     "EXOTIC": 166,
     "15407": 23,
     "钢轮弓": 23,
     "COMPOUNDBOW": 23,
+    "СОСТАВНОЙЛУК": 23,
     "PROTO": 167,
     "15406": 24,
     "试作澹月": 24,
     "PROTOTYPECRESCENT": 24,
+    "ПРОТОТИП:ПОЛУМЕСЯЦ": 24,
     "RECLUSE": 25,
     "15405": 25,
     "弓藏": 25,
     "RUST": 25,
+    "РЖАВЫЙЛУК": 25,
     "THEOCRAT": 169,
     "15404": 26,
     "宗室长弓": 26,
     "ROYALBOW": 26,
+    "КОРОЛЕВСКИЙЛУК": 26,
     "FOSSIL": 170,
     "15403": 27,
     "祭礼弓": 27,
     "SACRIFICIALBOW": 27,
+    "ЦЕРЕМОНИАЛЬНЫЙЛУК": 27,
     "TROUPE": 171,
     "15402": 28,
     "绝弦": 28,
     "THESTRINGLESS": 28,
+    "БЕССТРУННЫЙ": 28,
     "ZEPHYRUS": 172,
     "15401": 29,
     "西风猎弓": 29,
     "FAVONIUSWARBOW": 29,
+    "БОЕВОЙЛУКФАВОНИЯ": 29,
     "HARDWOOD": 30,
     "15306": 30,
     "黑檀弓": 30,
     "EBONYBOW": 30,
+    "ЭБЕНОВЫЙЛУК": 30,
     "MSG": 31,
     "15305": 31,
     "信使": 31,
     "MESSENGER": 31,
+    "ПОСЫЛЬНЫЙ": 31,
     "SLING": 32,
     "15304": 32,
     "弹弓": 32,
     "SLINGSHOT": 32,
+    "РОГАТКА": 32,
     "CURVE": 33,
     "15303": 33,
     "反曲弓": 33,
     "RECURVEBOW": 33,
+    "ИЗОГНУТЫЙЛУК": 33,
     "ARJUNA": 34,
     "15302": 34,
     "神射手之誓": 34,
     "SHARPSHOOTERSOATH": 34,
+    "КЛЯТВАСТРЕЛКА": 34,
     "CROWFEATHER": 35,
     "15301": 35,
     "鸦羽弓": 35,
     "RAVENBOW": 35,
+    "ЛУКВОРОНА": 35,
     "MOUNTAINGALE": 36,
     "14515": 36,
     "鹤鸣余音": 36,
     "CRANESECHOINGCALL": 36,
+    "ЗВОНКИЙКЛИЧЖУРАВЛЯ": 36,
     "IUDEX": 37,
     "14514": 37,
     "万世流涌大典": 37,
     "TOMEOFTHEETERNALFLOW": 37,
+    "ОБРЯДВЕЧНОГОТЕЧЕНИЯ": 37,
     "WHEATLEY": 38,
     "14513": 38,
     "金流监督": 38,
     "CASHFLOWSUPERVISION": 38,
+    "КАЗНАЧЕЙСКИЙНАДЗОР": 38,
     "ALAYA": 39,
     "14512": 39,
     "图莱杜拉的回忆": 39,
     "TULAYTULLAHSREMEMBRANCE": 39,
+    "ВОСПОМИНАНИЯТУЛАЙТУЛЛЫ": 39,
     "14511": 40,
     "千夜浮梦": 40,
     "ATHOUSANDFLOATINGDREAMS": 40,
+    "СНОВИДЕНИЯТЫСЯЧИНОЧЕЙ": 40,
     "14509": 41,
     "神乐之真意": 41,
     "KAGURASVERITY": 41,
+    "ИСТИНАКАГУРА": 41,
     "KALEIDO": 42,
     "14506": 42,
     "不灭月华": 42,
     "EVERLASTINGMOONGLOW": 42,
+    "ВЕЧНОЕЛУННОЕСИЯНИЕ": 42,
     "MORAX": 141,
     "14505": 43,
     "碧落之珑": 43,
     "JADEFALLSSPLENDOR": 43,
+    "ВЕЛИКОЛЕПИЕЛАЗУРНОГОСВОДА": 43,
     "KUNWU": 142,
     "14504": 44,
     "尘世之锁": 44,
     "MEMORYOFDUST": 44,
+    "ПАМЯТЬОПЫЛИ": 44,
     "FOURWINDS": 45,
     "14502": 45,
     "四风原典": 45,
     "LOSTPRAYERTOTHESACREDWINDS": 45,
+    "МОЛИТВАСВЯТЫМВЕТРАМ": 45,
     "14501": 46,
     "天空之卷": 46,
     "SKYWARDATLAS": 46,
+    "НЕБЕСНЫЙАТЛАС": 46,
     "DANDELIONPOEM": 47,
     "14426": 47,
     "无垠蔚蓝之歌": 47,
     "BALLADOFTHEBOUNDLESSBLUE": 47,
+    "ПЕСНЬНЕОБЪЯТНОЙЛАЗУРИ": 47,
     "14425": 48,
     "纯水流华": 48,
     "FLOWINGPURITY": 48,
+    "СВЕРКАНИЕЧИСТЫХВОД": 48,
     "YUE": 49,
     "14424": 49,
     "遗祀玉珑": 49,
     "SACRIFICIALJADE": 49,
+    "ЖЕРТВЕННЫЙНЕФРИТ": 49,
     "14417": 50,
     "盈满之实": 50,
     "FRUITOFFULFILLMENT": 50,
+    "ПЛОДВОСПОЛНЕНИЯ": 50,
     "PLEROMA": 156,
     "14416": 51,
     "流浪的晚星": 51,
     "WANDERINGEVENSTAR": 51,
+    "СКИТАЮЩАЯСЯЗВЕЗДА": 51,
     "JYANOME": 52,
     "14415": 52,
     "证誓之明瞳": 52,
     "OATHSWORNEYE": 52,
+    "ОКОКЛЯТВЫ": 52,
     "14414": 53,
     "白辰之环": 53,
     "HAKUSHINRING": 53,
+    "КОЛЬЦОХАКУСИН": 53,
     "LUDIHARPASTUM": 54,
     "14413": 54,
     "嘟嘟可故事集": 54,
     "DODOCOTALES": 54,
+    "ИСТОРИИДОДОКО": 54,
     "EVERFROST": 88,
     "14412": 55,
     "忍冬之果": 55,
     "FROSTBEARER": 55,
+    "ПЛОДВЕЧНОЙМЕРЗЛОТЫ": 55,
     "14410": 56,
     "暗巷的酒与诗": 56,
     "WINEANDSONG": 56,
+    "ВИНОИПЕСНИ": 56,
     "TRUELENS": 57,
     "14409": 57,
     "昭心": 57,
     "EYEOFPERCEPTION": 57,
+    "ОКОСОЗНАНИЯ": 57,
     "14408": 58,
     "黑岩绯玉": 58,
     "BLACKCLIFFAGATE": 58,
+    "ЧЕРНОГОРСКИЙАГАТ": 58,
     "14407": 59,
     "万国诸海图谱": 59,
     "MAPPAMARE": 59,
+    "МОРСКОЙАТЛАС": 59,
     "14406": 60,
     "试作金珀": 60,
     "PROTOTYPEAMBER": 60,
+    "ПРОТОТИП:ЯНТАРЬ": 60,
     "RESURRECTION": 61,
     "14405": 61,
     "匣里日月": 61,
     "SOLARPEARL": 61,
+    "СОЛНЕЧНАЯЖЕМЧУЖИНА": 61,
     "14404": 62,
     "宗室秘法录": 62,
     "ROYALGRIMOIRE": 62,
+    "КОРОЛЕВСКИЙГРИМУАР": 62,
     "14403": 63,
     "祭礼残章": 63,
     "SACRIFICIALFRAGMENTS": 63,
+    "ЦЕРЕМОНИАЛЬНЫЕМЕМУАРЫ": 63,
     "14402": 64,
     "流浪乐章": 64,
     "THEWIDSITH": 64,
+    "ПЕСНЬСТРАННИКА": 64,
     "14401": 65,
     "西风秘典": 65,
     "FAVONIUSCODEX": 65,
+    "КОДЕКСФАВОНИЯ": 65,
     "AMBER": 66,
     "14306": 66,
     "琥珀玥": 66,
     "AMBERBEAD": 66,
+    "ЯНТАРНАЯЖЕМЧУЖИНА": 66,
     "PHONEY": 67,
     "14305": 67,
     "甲级宝珏": 67,
     "TWINNEPHRITE": 67,
+    "ПАРНЫЙНЕФРИТ": 67,
     "JADE": 68,
     "14304": 68,
     "翡玉法球": 68,
     "EMERALDORB": 68,
+    "ИЗУМРУДНЫЙШАР": 68,
     "LIGHTNOV": 69,
     "14303": 69,
     "异世界行记": 69,
     "OTHERWORLDLYSTORY": 69,
+    "ПОТУСТОРОННЯЯИСТОРИЯ": 69,
     "PULPFIC": 70,
     "14302": 70,
     "讨龙英杰谭": 70,
     "THRILLINGTALESOFDRAGONSLAYERS": 70,
+    "ЭПОСОДРАКОНОБОРЦАХ": 70,
     "INTRO": 71,
     "14301": 71,
     "魔导绪论": 71,
     "MAGICGUIDE": 71,
+    "РУКОВОДСТВОПОМАГИИ": 71,
     "DESHRET": 138,
     "13511": 72,
     "赤沙之杖": 72,
     "STAFFOFTHESCARLETSANDS": 72,
+    "ПОСОХАЛЫХПЕСКОВ": 72,
     "13509": 73,
     "薙草之稻光": 73,
     "ENGULFINGLIGHTNING": 73,
+    "СИЯЮЩАЯЖАТВА": 73,
     "SANTIKA": 74,
     "13507": 74,
     "息灾": 74,
     "CALAMITYQUELLER": 74,
+    "УСМИРИТЕЛЬБЕД": 74,
     "13505": 75,
     "和璞鸢": 75,
     "PRIMORDIALJADEWINGEDSPEAR": 75,
+    "НЕФРИТОВЫЙКОРШУН": 75,
     "13504": 76,
     "贯虹之槊": 76,
     "VORTEXVANQUISHER": 76,
+    "ПОКОРИТЕЛЬВИХРЯ": 76,
     "13502": 77,
     "天空之脊": 77,
     "SKYWARDSPINE": 77,
+    "НЕБЕСНАЯОСЬ": 77,
     "HOMA": 78,
     "13501": 78,
     "护摩之杖": 78,
     "STAFFOFHOMA": 78,
+    "ПОСОХХОМЫ": 78,
     "13427": 79,
     "勘探钻机": 79,
     "PROSPECTORSDRILL": 79,
+    "БУРРУДОИСКАТЕЛЯ": 79,
     "CADUCEUS": 80,
     "13426": 80,
     "沙中伟贤的对答": 80,
     "DIALOGUESOFTHEDESERTSAGES": 80,
+    "ДИАЛОГПУСТЫННЫХМУДРЕЦОВ": 80,
     "13425": 81,
     "公义的酬报": 81,
     "RIGHTFULREWARD": 81,
+    "СПРАВЕДЛИВАЯНАГРАДА": 81,
     "SHANTY": 82,
     "13424": 82,
     "峡湾长歌": 82,
     "BALLADOFTHEFJORDS": 82,
+    "БАЛЛАДАФЬОРДОВ": 82,
     "WINDVANE": 83,
     "13419": 83,
     "风信之锋": 83,
     "MISSIVEWINDSPEAR": 83,
+    "КОПЬЁПОСЛАНИЯВЕТРОВ": 83,
     "13417": 84,
     "贯月矢": 84,
     "MOONPIERCER": 84,
+    "ПРОНЗАЮЩИЙЛУНУ": 84,
     "13416": 85,
     "断浪长鳍": 85,
     "WAVEBREAKERSFIN": 85,
+    "РЕЖУЩИЙВОЛНЫПЛАВНИК": 85,
     "MORI": 86,
     "13415": 86,
     "「渔获」": 86,
     "\"THECATCH\"": 86,
+    "«УЛОВ»": 86,
     "13414": 87,
     "喜多院十文字": 87,
     "KITAINCROSSSPEAR": 87,
+    "КРЕСТКОПЬЁКИТАИН": 87,
     "13409": 88,
     "龙脊长枪": 88,
     "DRAGONSPINESPEAR": 88,
+    "КОПЬЁДРАКОНЬЕГОХРЕБТА": 88,
     "13408": 89,
     "宗室猎枪": 89,
     "ROYALSPEAR": 89,
+    "КОРОЛЕВСКОЕКОПЬЁ": 89,
     "13407": 90,
     "西风长枪": 90,
     "FAVONIUSLANCE": 90,
+    "КОПЬЁФАВОНИЯ": 90,
     "LAPIS": 119,
     "13406": 91,
     "千岩长枪": 91,
     "LITHICSPEAR": 91,
+    "КАМЕННОЕКОПЬЁ": 91,
     "GLADIATOR": 92,
     "13405": 92,
     "决斗之枪": 92,
     "DEATHMATCH": 92,
+    "СМЕРТЕЛЬНЫЙБОЙ": 92,
     "13404": 93,
     "黑岩刺枪": 93,
     "BLACKCLIFFPOLE": 93,
+    "ЧЕРНОГОРСКАЯПИКА": 93,
     "13403": 94,
     "流月针": 94,
     "CRESCENTPIKE": 94,
+    "ПИКАПОЛУМЕСЯЦА": 94,
     "13402": 95,
     "试作星镰": 95,
     "PROTOTYPESTARGLITTER": 95,
+    "ПРОТОТИП:ЗВЁЗДНЫЙБЛЕСК": 95,
     "STARDUST": 96,
     "13401": 96,
     "匣里灭辰": 96,
     "DRAGONSBANE": 96,
+    "ГРОЗАДРАКОНОВ": 96,
     "FLAGPOLE": 97,
     "13304": 97,
     "「旗杆」": 97,
     "THEFLAGSTAFF": 97,
+    "ФЛАГШТОК": 97,
     "NOIRE": 98,
     "13303": 98,
     "黑缨枪": 98,
     "BLACKTASSEL": 98,
+    "ЧЁРНАЯКИСТЬ": 98,
     "HALBERD": 99,
     "13302": 99,
     "钺矛": 99,
+    "АЛЕБАРДАМИЛЛЕЛИТА": 99,
     "RUBY": 100,
     "13301": 100,
     "白缨枪": 100,
     "WHITETASSEL": 100,
+    "БЕЛАЯКИСТЬ": 100,
     "GOLDENVERDICT": 101,
     "12512": 101,
     "裁断": 101,
     "VERDICT": 101,
+    "ВЕРДИКТ": 101,
     "12511": 102,
     "苇海信标": 102,
     "BEACONOFTHEREEDSEA": 102,
+    "МАЯКТРОСТНИКОВОГОМОРЯ": 102,
     "ITADORIMARU": 103,
     "12510": 103,
     "赤角石溃杵": 103,
     "REDHORNSTONETHRESHER": 103,
+    "КРАСНОРОГИЙКАМНЕРУБ": 103,
     "12504": 104,
     "无工之剑": 104,
     "THEUNFORGED": 104,
+    "НЕКОВАНЫЙ": 104,
     "12503": 105,
     "松籁响起之时": 105,
     "SONGOFBROKENPINES": 105,
+    "ПЕСНЬРАЗБИТЫХСОСЕН": 105,
     "WOLFMOUND": 106,
     "12502": 106,
     "狼的末路": 106,
     "WOLFSGRAVESTONE": 106,
+    "ВОЛЧЬЯПОГИБЕЛЬ": 106,
     "12501": 107,
     "天空之傲": 107,
     "SKYWARDPRIDE": 107,
+    "НЕБЕСНОЕВЕЛИЧИЕ": 107,
     "12427": 108,
     "便携动力锯": 108,
     "PORTABLEPOWERSAW": 108,
+    "ПЕРЕНОСНАЯМОТОПИЛА": 108,
     "CHAMPION": 109,
     "12426": 109,
     "「究极霸王超级魔剑」": 109,
     "\"ULTIMATEOVERLORDSMEGAMAGICSWORD\"": 109,
+    "«МАГИЧЕСКИЙСУПЕРМЕЧВЫСШЕГОВЛАДЫКИ»": 109,
     "12425": 110,
     "浪影阔剑": 110,
     "TIDALSHADOW": 110,
+    "ТЕНЬВОЛНЫ": 110,
     "BEASTTAMER": 111,
     "12424": 111,
     "聊聊棒": 111,
     "TALKINGSTICK": 111,
+    "ГОВОРЯЩАЯПАЛИЦА": 111,
     "12418": 112,
     "饰铁之花": 112,
     "MAILEDFLOWER": 112,
+    "ЦВЕТОКВЛАТАХ": 112,
     "12417": 113,
     "森林王器": 113,
     "FORESTREGALIA": 113,
+    "РЕГАЛИЯЛЕСА": 113,
     "12416": 114,
     "恶王丸": 114,
     "AKUOUMARU": 114,
+    "АКУОМАРУ": 114,
     "12415": 115,
     "玛海菈的水色": 115,
     "MAKHAIRAAQUAMARINE": 115,
+    "АКВАМАРИНМАХАЙРЫ": 115,
     "12414": 116,
     "桂木斩长正": 116,
     "KATSURAGIKIRINAGAMASA": 116,
+    "КАЦУРАГИКИРИНАГАМАСА": 116,
     "MILLENNIATUNA": 117,
     "12412": 117,
     "衔珠海皇": 117,
     "LUXURIOUSSEALORD": 117,
+    "БЛАГОДАТНЫЙВЛАДЫКАВОД": 117,
     "DRAGONFELL": 118,
     "12411": 118,
     "雪葬的星银": 118,
     "SNOWTOMBEDSTARSILVER": 118,
+    "ЗАСНЕЖЕННОЕЗВЁЗДНОЕСЕРЕБРО": 118,
     "12410": 119,
     "千岩古剑": 119,
     "LITHICBLADE": 119,
+    "КАМЕННЫЙМЕЧ": 119,
     "KIONE": 120,
     "12409": 120,
     "螭骨剑": 120,
     "SERPENTSPINE": 120,
+    "МЕЧДРАКОНЬЕЙКОСТИ": 120,
     "12408": 121,
     "黑岩斩刀": 121,
     "BLACKCLIFFSLASHER": 121,
+    "ЧЕРНОГОРСКАЯБРИТВА": 121,
     "12407": 122,
     "白影剑": 122,
     "WHITEBLIND": 122,
+    "БЕЛАЯТЕНЬ": 122,
     "12406": 123,
     "试作古华": 123,
     "PROTOTYPEARCHAIC": 123,
+    "ПРОТОТИП:АРХАИЧНЫЙ": 123,
     "PERDUE": 124,
     "12405": 124,
     "雨裁": 124,
     "RAINSLASHER": 124,
+    "ДОЖДЕРЕЗ": 124,
     "12404": 125,
     "宗室大剑": 125,
     "ROYALGREATSWORD": 125,
+    "КОРОЛЕВСКИЙДВУРУЧНЫЙМЕЧ": 125,
     "12403": 126,
     "祭礼大剑": 126,
     "SACRIFICIALGREATSWORD": 126,
+    "ЦЕРЕМОНИАЛЬНЫЙДВУРУЧНЫЙМЕЧ": 126,
     "12402": 127,
     "钟剑": 127,
     "THEBELL": 127,
+    "МЕЧКОЛОКОЛ": 127,
     "12401": 128,
     "西风大剑": 128,
     "FAVONIUSGREATSWORD": 128,
+    "ДВУРУЧНЫЙМЕЧФАВОНИЯ": 128,
     "MITSURUGI": 173,
     "12306": 129,
     "飞天大御剑": 129,
     "SKYRIDERGREATSWORD": 129,
+    "БОЛЬШОЙМЕЧНЕБЕСНОГОВСАДНИКА": 129,
     "REASONING": 130,
     "12305": 130,
     "以理服人": 130,
     "DEBATECLUB": 130,
+    "ДУБИНАПЕРЕГОВОРОВ": 130,
     "QUARTZ": 131,
     "12304": 131,
     "石英大剑": 131,
+    "КВАРЦ": 131,
     "TIN": 132,
     "12303": 132,
     "白铁大剑": 132,
     "WHITEIRONGREATSWORD": 132,
+    "МЕЧИЗБЕЛОГОЖЕЛЕЗА": 132,
     "SIEGFRY": 133,
     "12302": 133,
     "沐浴龙血的剑": 133,
     "BLOODTAINTEDGREATSWORD": 133,
+    "МЕЧДРАКОНЬЕЙКРОВИ": 133,
     "GLAIVE": 134,
     "12301": 134,
     "铁影阔剑": 134,
     "FERROUSSHADOW": 134,
+    "МЕТАЛЛИЧЕСКАЯТЕНЬ": 134,
     "NEEDLE": 135,
     "11514": 135,
     "有乐御簾切": 135,
     "URAKUMISUGIRI": 135,
+    "УРАКУМИСУГИРИ": 135,
     "REGALIS": 136,
     "11513": 136,
     "静水流涌之辉": 136,
     "SPLENDOROFTRANQUILWATERS": 136,
+    "БЛЕСКТИХИХВОД": 136,
     "11512": 137,
     "裁叶萃光": 137,
     "LIGHTOFFOLIARINCISION": 137,
+    "СВЕТЛИСТВЕННОГОРАЗРЕЗА": 137,
     "11511": 138,
     "圣显之钥": 138,
     "KEYOFKHAJNISUT": 138,
+    "КЛЮЧХАДЖНИСУТ": 138,
     "AMENOMA": 139,
     "11510": 139,
     "波乱月白经津": 139,
     "HARANGEPPAKUFUTSU": 139,
+    "ХАРАНГЭППАКУФУЦУ": 139,
     "11509": 140,
     "雾切之回光": 140,
     "MISTSPLITTERREFORGED": 140,
+    "РАССЕКАЮЩИЙТУМАН": 140,
     "11505": 141,
     "磐岩结绿": 141,
     "PRIMORDIALJADECUTTER": 141,
+    "ДРАГОЦЕННЫЙОМУТ": 141,
     "11504": 142,
     "斫峰之刃": 142,
     "SUMMITSHAPER": 142,
+    "КРОМСАТЕЛЬПИКОВ": 142,
     "11503": 143,
     "苍古自由之誓": 143,
     "FREEDOMSWORN": 143,
+    "КЛЯТВАСВОБОДЫ": 143,
     "11502": 144,
     "天空之刃": 144,
     "SKYWARDBLADE": 144,
+    "НЕБЕСНЫЙМЕЧ": 144,
     "FALCON": 145,
     "11501": 145,
     "风鹰剑": 145,
     "AQUILAFAVONIA": 145,
+    "МЕЧСОКОЛА": 145,
     "PUREWILL": 147,
     "11429": 146,
     "水仙十字之剑": 147,
     "SWORDOFNARZISSENKREUZ": 147,
+    "МЕЧНАРЦИССЕНКРЕЙЦА": 147,
     "11428": 147,
     "11427": 148,
     "船坞长剑": 148,
     "THEDOCKHANDSASSISTANT": 148,
+    "ВЕРФЬ": 148,
     "MACHINATION": 149,
     "11426": 149,
     "灰河渡手": 149,
     "FLEUVECENDREFERRYMAN": 149,
+    "ПЕРЕВОЗЧИКФЛЁВСАНДР": 149,
     "11425": 150,
     "海渊终曲": 150,
     "FINALEOFTHEDEEP": 150,
+    "ГРАНДИОЗНЫЙФИНАЛГЛУБИН": 150,
     "BOREAS": 151,
     "11424": 151,
     "狼牙": 151,
     "WOLFFANG": 151,
+    "ВОЛЧИЙКЛЫК": 151,
     "KASABOUZU": 152,
     "11422": 152,
     "东花坊时雨": 152,
     "TOUKABOUSHIGURE": 152,
+    "ТОКАБОСИГУРЭ": 152,
     "YOUTOUENCHANTED": 155,
     "11421": 153,
     "「一心传」名刀": 155,
     "PRIZEDISSHINBLADE": 155,
+    "ЛЕГЕНДАРНЫЙКЛИНОКИССИН": 155,
     "YOUTOUSHATTERED": 154,
     "11420": 154,
     "11419": 155,
     "11418": 156,
     "西福斯的月光": 156,
     "XIPHOSMOONLIGHT": 156,
+    "ЛУННОЕСИЯНИЕКСИФОСА": 156,
     "11417": 157,
     "原木刀": 157,
     "SAPWOODBLADE": 157,
+    "ДЕРЕВЯННЫЙКЛИНОК": 157,
     "YOUTOU": 158,
     "11416": 158,
     "笼钓瓶一心": 158,
     "KAGOTSURUBEISSHIN": 158,
+    "КАГОЦУРУБЭИССИН": 158,
     "OPUS": 159,
     "11415": 159,
     "辰砂之纺锤": 159,
     "CINNABARSPINDLE": 159,
+    "КИНОВАРНОЕВЕРЕТЕНО": 159,
     "11414": 160,
     "天目影打刀": 160,
     "AMENOMAKAGEUCHI": 160,
+    "АМЭНОМАКАГЭУТИ": 160,
     "MAGNUM": 161,
     "11413": 161,
     "腐殖之剑": 161,
     "FESTERINGDESIRE": 161,
+    "ОСКВЕРНЁННОЕЖЕЛАНИЕ": 161,
     "PSALMUS": 162,
     "11412": 162,
     "降临之剑": 162,
     "SWORDOFDESCENSION": 162,
+    "МЕЧНИСХОЖДЕНИЯ": 162,
     "11410": 163,
     "暗巷闪光": 163,
     "THEALLEYFLASH": 163,
+    "ВСПЫШКАВОТЬМЕ": 163,
     "BLOODSTAINED": 164,
     "11409": 164,
     "黑剑": 164,
     "THEBLACKSWORD": 164,
+    "ЧЁРНЫЙМЕЧ": 164,
     "11408": 165,
     "黑岩长剑": 165,
     "BLACKCLIFFLONGSWORD": 165,
+    "ЧЕРНОГОРСКИЙДЛИННЫЙМЕЧ": 165,
     "11407": 166,
     "铁蜂刺": 166,
     "IRONSTING": 166,
+    "СТАЛЬНОЕЖАЛО": 166,
     "11406": 167,
     "试作斩岩": 167,
     "PROTOTYPERANCOUR": 167,
+    "ПРОТОТИП:ЗЛОБА": 167,
     "ROCKKILLER": 168,
     "11405": 168,
     "匣里龙吟": 168,
     "LIONSROAR": 168,
+    "ДРАКОНИЙРЫК": 168,
     "11404": 169,
     "宗室长剑": 169,
     "ROYALLONGSWORD": 169,
+    "МЕЧАРИСТОКРАТОВ": 169,
     "11403": 170,
     "祭礼剑": 170,
     "SACRIFICIALSWORD": 170,
+    "ЦЕРЕМОНИАЛЬНЫЙМЕЧ": 170,
     "11402": 171,
     "笛剑": 171,
     "THEFLUTE": 171,
+    "МЕЧФЛЕЙТА": 171,
     "11401": 172,
     "西风剑": 172,
     "FAVONIUSSWORD": 172,
+    "МЕЧФАВОНИЯ": 172,
     "11306": 173,
     "飞天御剑": 173,
     "SKYRIDERSWORD": 173,
+    "МЕЧНЕБЕСНОГОВСАДНИКА": 173,
     "SASHIMI": 174,
     "11305": 174,
     "吃虎鱼刀": 174,
     "FILLETBLADE": 174,
+    "ФИЛЕЙНЫЙНОЖ": 174,
     "DARKER": 175,
     "11304": 175,
     "暗铁剑": 175,
     "DARKIRONSWORD": 175,
+    "ТЁМНЫЙЖЕЛЕЗНЫЙМЕЧ": 175,
     "TRAVELER": 176,
     "11303": 176,
     "旅行剑": 176,
     "TRAVELERSHANDYSWORD": 176,
+    "МЕЧПУТЕШЕСТВЕННИКА": 176,
     "DAWN": 177,
     "11302": 177,
     "黎明神剑": 177,
     "HARBINGEROFDAWN": 177,
+    "ПРЕДВЕСТНИКЗАРИ": 177,
     "STEEL": 178,
     "11301": 178,
     "冷刃": 178,
-    "COOLSTEEL": 178
+    "COOLSTEEL": 178,
+    "ХОЛОДНОЕЛЕЗВИЕ": 178
 }
 
 var index_relic = {
