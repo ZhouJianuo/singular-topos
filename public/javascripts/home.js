@@ -38,7 +38,7 @@ $(function() {
     var r = -1
     var GAME = $('#GAME').val() ? $('#GAME').val() : 'GI'
     
-    $('h3 .title').html(txt.Title[lang] + "<color style='font-size: 0.5em;'><br><b>" + VER_GI + " / " + VER_SR + "</b></color>")
+    $('h3 .title').html(txt.Title[lang] + "<color style='font-size: 28px;'><br><b>" + VER_GI + " / " + VER_SR + "</b></color>")
 
     $('h3 .lang').html(txt.Home_Lang[GAME][lang2])
     $('h3 .lang').css('margin-top', '20px')

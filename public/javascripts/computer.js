@@ -14,7 +14,7 @@ $(function () {
     var cur_kingdom = {}
     var VERIFY = 0
     var showtop = 0
-    $('h3 .title').html(computer_.MiscText.ComputerTitle[lang] + "<color style='font-size: 0.5em;'><br><b>" + VER_GI + "</b></color>")
+    $('h3 .title').html(computer_.MiscText.ComputerTitle[lang] + "<color style='font-size: 28px;'><br><b>" + VER_GI + "</b></color>")
     $('h3 .subtitle').html(computer_.MiscText.Subtitle[lang])
     $('h3 .tlsub').html(computer_.MiscText.Translate_Computer[lang2])
     $('h3 .tlsub').hide()

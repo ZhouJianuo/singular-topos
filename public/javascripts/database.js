@@ -3,7 +3,7 @@ $(function () {
     var imgpre = $('#IMGPRE').val()
     document.title = computer_.MiscText.TITLE[lang]
     $('.tls' + lang).css("color", "#df903b");
-    $('h3 .title').html(computer_.MiscText.AbyssTitle[lang2] + "<color style='font-size: 0.5em;'><br><b>" + VER_GI + "</b></color>")
+    $('h3 .title').html(computer_.MiscText.AbyssTitle[lang2] + "<color style='font-size: 28px;'><br><b>" + VER_GI + "</b></color>")
     $('h3 .subtitle').html(computer_.MiscText.Subtitle[lang])
     $('h3 .tlsub').html(computer_.MiscText.Translate_Abyss[lang2])
     $('h3 .tlsub').hide()

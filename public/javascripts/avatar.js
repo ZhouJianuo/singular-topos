@@ -98,7 +98,7 @@ $(function () {
     var rrp = 0
 
     $('.tls' + lang).css("color", "#df903b");
-    $('h3 .title').html(computer_.MiscText.Avatar_Title[lang] + "<color style='font-size: 0.5em;'><br><b>" + VER_GI + "</b></color>");
+    $('h3 .title').html(computer_.MiscText.Avatar_Title[lang] + "<color style='font-size: 28px;'><br><b>" + VER_GI + "</b></color>");
     $('h3 .subtitle').html(computer_.MiscText.Subtitle[lang]);
     $('h3 .tlsub').html(computer_.MiscText.Translate_Char[lang2]);
     $('h3 .tlsub').hide()
