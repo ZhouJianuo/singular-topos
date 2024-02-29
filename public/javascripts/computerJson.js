@@ -968,7 +968,7 @@ var computer_ = {
         "Avatar_Relic_Num": {
             "CH": " 件套效果",
             "EN": " Piece Skill",
-            "RU": "Части"
+            "RU": " Части"
         },
         "Avatar_Weapon_Header": [
             {

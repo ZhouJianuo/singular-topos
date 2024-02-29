@@ -14169,11 +14169,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "ATK +18%."
+                "Skill": "Увеличивает силу атаки на 18%."
             },
             {
                 "Num": 4,
-                "Skill": "After using an Elemental Skill, gain a 20% Geo DMG Bonus for 10s. While under a shield granted by the Crystallize reaction, the above effect will be increased by 150%, and this additional increase disappears 1s after that shield is lost."
+                "Skill": "После использования элементального навыка бонус Гео урона на 10 сек. увеличивается на 20%. Если персонаж находится под защитой щита, созданного реакцией Кристалл, этот эффект увеличивается на 150%. Через 1 сек. после потери щита это дополнительное увеличение исчезает."
             }
         ],
         "Parts": [
@@ -14192,11 +14192,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "Healing Bonus +15%."
+                "Skill": "Повышает бонус лечения на 15%."
             },
             {
                 "Num": 4,
-                "Skill": "When the equipping character heals a party member, the Yearning effect will be created for 6s, which records the total amount of healing provided (including overflow healing). When the duration expires, the Yearning effect will be transformed into the \"Waves of Days Past\" effect: When your active party member hits an opponent with a Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, or Elemental Burst, the DMG dealt will be increased by 8% of the total healing amount recorded by the Yearning effect. The \"Waves of Days Past\" effect is removed after it has taken effect 5 times or after 10s. A single instance of the Yearning effect can record up to 15,000 healing, and only a single instance can exist at once, but it can record the healing from multiple equipping characters. Equipping characters on standby can still trigger this effect."
+                "Skill": "Экипированный персонаж при лечении членов отряда на 6 сек. создаёт эффект Стремления, который регистрирует осуществлённое лечение (в том числе избыточное). С завершением длительности Стремление превращается в Волны былых времён: при попадании обычной атаки, заряженной атаки, атаки в падении, элементального навыка или взрыва стихии вашего активного персонажа по противнику наносимый урон увеличивается на 8% от общего количества лечения, зарегистрированного Стремлением. После 5 активаций или через 10 сек. эффект Волн былых времён исчезает. Однократный эффект Стремления регистрирует до 15 000 ед. HP. Одновременно может существовать только одно Стремление, но оно регистрирует лечение, предоставляемое несколькими экипированными персонажами сразу. Этот эффект активируется, даже если экипированный персонаж не на поле боя."
             }
         ],
         "Parts": [
@@ -14217,11 +14217,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "Increases Elemental Skill DMG by 20%."
+                "Skill": "Увеличивает урон элементального навыка на 20%."
             },
             {
                 "Num": 4,
-                "Skill": "Increases Elemental Skill DMG by 25%. Additionally, when not on the field, Elemental Skill DMG will be further increased by 25%. This effect will be cleared 2s after taking the field."
+                "Skill": "Увеличивает урон элементального навыка на 25%. Кроме того, когда персонаж не на поле боя, урон элементального навыка дополнительно увеличивается на 25%. Через 2 сек. после вступления в бой эффект исчезает."
             }
         ],
         "Parts": [
@@ -14240,11 +14240,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "Normal and Charged Attack DMG +15%"
+                "Skill": "Увеличивает урон обычной и заряженной атаки на 15%."
             },
             {
                 "Num": 4,
-                "Skill": "When current HP increases or decreases, CRIT Rate will be increased by 12% for 5s. Max 3 stacks."
+                "Skill": "Увеличивает шанс крит. попадания на 12% на 5 сек., когда текущее HP увеличивается или снижается. Эффект может складываться до 3 раз."
             }
         ],
         "Parts": [
@@ -14263,11 +14263,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "HP +20%"
+                "Skill": "Увеличивает НР на 20%."
             },
             {
                 "Num": 4,
-                "Skill": "Elemental Skill and Elemental Burst DMG will be increased by 10%. After the equipping character takes DMG, the aforementioned DMG Bonus is increased by 80% for 5s. This effect increase can have 5 stacks. The duration of each stack is counted independently. These effects can be triggered even when the equipping character is not on the field."
+                "Skill": "Увеличивает урон элементального навыка и взрыва стихии на 10%. Если экипированный персонаж получает урон, этот эффект повышения урона увеличивается на 80% на 5 сек. Эффект может складываться до 5 раз. Отсчёт времени каждого уровня происходит отдельно. Эти эффекты активируются, даже если экипированный персонаж не на поле боя."
             }
         ],
         "Parts": [
@@ -14286,11 +14286,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "Hydro DMG Bonus +15%"
+                "Skill": "Даёт 15% бонус Гидро урона."
             },
             {
                 "Num": 4,
-                "Skill": "After Normal, Charged, and Plunging Attacks, Elemental Skills, and Elemental Bursts hit opponents, 1 stack of Mirrored Nymph will be triggered, lasting 8s. When under the effect of 1, 2, or 3 or more Mirrored Nymph stacks, ATK will be increased by 7%/16%/25%, and Hydro DMG Bonus will be increased by 4%/9%/15%. Mirrored Nymph stacks created by Normal, Charged, and Plunging Attacks, Elemental Skills, and Elemental Bursts exist independently."
+                "Skill": "Попадания обычной атакой, заряженной атакой, атакой в падении, элементальным навыком и взрывом стихии по противнику на 8 сек. создают 1 уровень Отражения нимфы. Когда действуют 1/2/3 и более уровня Отражения нимфы, сила атаки повышается на 7%/16%/25%, а бонус Гидро урона на 4%/9%/15%. Уровни Отражения нимфы, созданные обычными атаками, заряженными атаками, атаками в падении, элементальными навыками и взрывами стихии, существуют независимо друг от друга."
             }
         ],
         "Parts": [
@@ -14309,11 +14309,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "Increases Elemental Mastery by 80."
+                "Skill": "Увеличивает мастерство стихий на 80 ед."
             },
             {
                 "Num": 4,
-                "Skill": "The equipping character's Bloom, Hyperbloom, and Burgeon reaction DMG are increased by 40%. Additionally, after the equipping character triggers Bloom, Hyperbloom, or Burgeon, they will gain another 25% bonus to the effect mentioned prior. Each stack of this lasts 10s. Max 4 stacks simultaneously. This effect can only be triggered once per second. The character who equips this can still trigger its effects when not on the field."
+                "Skill": "Увеличивает урон реакций Бутонизация, Вегетация и Цветение экипированного этим набором персонажа на 40%. Кроме того, активация реакций Бутонизация, Вегетация и Цветение экипированным этим набором персонажем усилит этот эффект на 25%. Каждое суммирование длится 10 сек. Эффект складывается до 4 раз, может возникнуть раз в 1 сек. и активируется, даже если экипированный этим набором персонаж не активен."
             }
         ],
         "Parts": [
@@ -14332,11 +14332,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "Anemo DMG Bonus +15%"
+                "Skill": "Даёт 15% бонус Анемо урона."
             },
             {
                 "Num": 4,
-                "Skill": "When Charged Attacks hit opponents, the equipping character's Normal Attack SPD will increase by 10% while Normal, Charged, and Plunging Attack DMG will increase by 40% for 15s."
+                "Skill": "Попадание заряженной атакой на 15 сек. повышает скорость обычной атаки на 10%, а урон обычной атаки, заряженной атаки и атаки в падении - на 40%."
             }
         ],
         "Parts": [
@@ -14355,11 +14355,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "Increases Elemental Mastery by 80."
+                "Skill": "Увеличивает мастерство стихий на 80 ед."
             },
             {
                 "Num": 4,
-                "Skill": "Within 8s of triggering an Elemental Reaction, the character equipping this will obtain buffs based on the Elemental Type of the other party members. ATK is increased by 14% for each party member whose Elemental Type is the same as the equipping character, and Elemental Mastery is increased by 50 for every party member with a different Elemental Type. Each of the aforementioned buffs will count up to 3 characters. This effect can be triggered once every 8s. The character who equips this can still trigger its effects when not on the field."
+                "Skill": "На 8 сек. после вызова элементальной реакции согласно элементам других персонажей в отряде экипированный этими артефактами персонаж получает следующие усиления: сила атаки повышается на 14% за каждого персонажа с таким же элементом, как у экипированного персонажа; мастерство стихий повышается на 50 ед. за каждого персонажа с иным элементом. Каждое из этих усилений при подсчёте включает до 3 персонажей. Эффект может возникнуть один раз в 8 сек. Срабатывает, даже если экипированный этими артефактами персонаж не на поле боя."
             }
         ],
         "Parts": [
@@ -14378,11 +14378,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "Dendro DMG Bonus +15%."
+                "Skill": "Даёт 15% бонус Дендро урона."
             },
             {
                 "Num": 4,
-                "Skill": "After Elemental Skills or Bursts hit opponents, the targets' Dendro RES will be decreased by 30% for 8s. This effect can be triggered even if the equipping character is not on the field."
+                "Skill": "Попадание элементальным навыком или взрывом стихии снижает Дендро сопротивление врага на 30% на 8 сек. Этот эффект срабатывает, даже если экипированный этими артефактами персонаж не на поле боя."
             }
         ],
         "Parts": [
@@ -14401,11 +14401,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "ATK +18%."
+                "Skill": "Увеличивает силу атаки на 18%."
             },
             {
                 "Num": 4,
-                "Skill": "When Normal Attacks hit opponents, there is a 36% chance that it will trigger Valley Rite, which will increase Normal Attack DMG by 70% of ATK. This effect will be dispelled 0.05s after a Normal Attack deals DMG. If a Normal Attack fails to trigger Valley Rite, the odds of it triggering the next time will increase by 20%. This trigger can occur once every 0.2s."
+                "Skill": "Попадания обычной атакой с 36% шансом активируют Ритуал долины: урон обычной атаки повышается на 70% от силы атаки. Через 0,05 сек. после нанесения урона обычной атакой эффект исчезает. Если обычной атаке не удалось активировать этот эффект, шанс его активации следующим попаданием возрастает на 20%. Шанс активации возникает не чаще одного раза в 0,2 сек."
             }
         ],
         "Parts": [
@@ -14424,11 +14424,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "ATK +18%."
+                "Skill": "Увеличивает силу атаки на 18%."
             },
             {
                 "Num": 4,
-                "Skill": "After using an Elemental Burst, this character will gain the Nascent Light effect, increasing their ATK by 8% for 16s. When the character's HP decreases, their ATK will further increase by 10%. This further increase can occur this way a maximum of 4 times. This effect can be triggered once every 0.8s. Nascent Light will be dispelled when the character leaves the field. If an Elemental Burst is used again during the duration of Nascent Light, the original Nascent Light will be dispelled."
+                "Skill": "После активации взрыва стихии на 16 сек. создаёт Скрытое сияние, которое повышает силу атаки на 8%. Сила атаки персонажа увеличивается ещё на 10%, когда он теряет HP. Этот эффект может возникнуть максимум 4 раза и не чаще, чем раз в 0,8 сек. Скрытое сияние исчезает, когда персонаж покидает поле боя. При повторной активации взрыва стихии существующее Скрытое сияние снимается."
             }
         ],
         "Parts": [
@@ -14447,11 +14447,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "Healing Bonus +15%."
+                "Skill": "Повышает бонус лечения на 15%."
             },
             {
                 "Num": 4,
-                "Skill": "When the character equipping this artifact set heals a character in the party, a Sea-Dyed Foam will appear for 3 seconds, accumulating the amount of HP recovered from healing (including overflow healing). At the end of the duration, the Sea-Dyed Foam will explode, dealing DMG to nearby opponents based on 90% of the accumulated healing. (This DMG is calculated similarly to Reactions such as Electro-Charged, and Superconduct, but is not affected by Elemental Mastery, Character Levels, or Reaction DMG Bonuses). Only one Sea-Dyed Foam can be produced every 3.5 seconds. Each Sea-Dyed Foam can accumulate up to 30,000 HP (including overflow healing). There can be no more than one Sea-Dyed Foam active at any given time. This effect can still be triggered even when the character who is using this artifact set is not on the field."
+                "Skill": "Экипированный этим набором артефактов персонаж при лечении соратников создаёт на 3 сек. Пузырь морских красок. Пузырь регистрирует восстановленное при лечении HP (в том числе избыточное, когда лечение превышает максимум здоровья). После окончания действия Пузырь взрывается и наносит окружающим врагам урон в размере 90% учтённого объёма лечения (урон рассчитывается так же, как для эффектов Заряжен и Сверхпроводник, но на него не действуют бонусы мастерства стихий, уровня и реакций). Пузырь морских красок можно создавать не чаще чем раз в 3,5 сек. Пузырь может записать до 30 000 восстановленного HP, в том числе HP избыточного лечения. Для отряда не может существовать больше одного Пузыря морских красок одновременно. Этот эффект действует, даже если персонаж, экипированный набором артефактов, не находится на поле боя."
             }
         ],
         "Parts": [
@@ -14470,11 +14470,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "DEF +30%"
+                "Skill": "Увеличивает защиту на 30%."
             },
             {
                 "Num": 4,
-                "Skill": "A character equipped with this Artifact set will obtain the Curiosity effect in the following conditions: When on the field, the character gains 1 stack after hitting an opponent with a Geo attack, triggering a maximum of once every 0.3s. When off the field, the character gains 1 stack every 3s. Curiosity can stack up to 4 times, each providing 6% DEF and a 6% Geo DMG Bonus. When 6 seconds pass without gaining a Curiosity stack, 1 stack is lost."
+                "Skill": "Персонаж, экипированный этим набором артефактов, получает эффект Любопытства в следующих ситуациях: 1 уровень Любопытства даётся активному персонажу после попадания по противнику атакой Гео (не чаще чем раз в 0,3 сек.); когда персонаж находится вне поля боя, он получает 1 ур. Любопытства каждые 3 сек. Любопытство может складываться до 4 ур., каждый ур. прибавляет 6% к защите и 6% к Гео урону. Если персонаж не получает Любопытство в течение 6 сек., то он теряет 1 накопленный уровень Любопытства."
             }
         ],
         "Parts": [
@@ -14493,11 +14493,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "Energy Recharge +20%"
+                "Skill": "Увеличивает скорость восстановления энергии на 20%."
             },
             {
                 "Num": 4,
-                "Skill": "Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way."
+                "Skill": "Увеличивает урон взрыва стихий на величину, равную 25% от значения восстановления энергии. Эффект можно увеличить максимум до 75%."
             }
         ],
         "Parts": [
@@ -14516,11 +14516,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "ATK +18%."
+                "Skill": "Увеличивает силу атаки на 18%."
             },
             {
                 "Num": 4,
-                "Skill": "When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/Charged/Plunging Attack DMG is increased by 50% for 10s. This effect will not trigger again during that duration."
+                "Skill": "При использовании элементального навыка, если у персонажа 15 или более единиц энергии, он теряет 15 единиц энергии, а урон обычной атаки, заряженной атаки и атаки в падении увеличивается на 50% в течение 10 сек. Эффект нельзя активировать повторно в течение этого времени."
             }
         ],
         "Parts": [
@@ -14539,11 +14539,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "Physical DMG is increased by 25%."
+                "Skill": "Увеличивает физ. урон на 25%."
             },
             {
                 "Num": 4,
-                "Skill": "When an Elemental Skill hits an opponent, ATK is increased by 9% for 7s. This effect stacks up to 2 times and can be triggered once every 0.3s. Once 2 stacks are reached, the 2-set effect is increased by 100%."
+                "Skill": "Когда элементальный навык попадает по врагам, атака увеличивается на 9% в течение 7 сек. Эффект может складываться до 2 раз и возникнуть не чаще 1 раза за 0,3 сек. На 2 уровне складывания эффект набора из 2 вещей увеличивается на 100%."
             }
         ],
         "Parts": [
@@ -14562,11 +14562,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "HP +20%"
+                "Skill": "Увеличивает НР на 20%."
             },
             {
                 "Num": 4,
-                "Skill": "When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field."
+                "Skill": "Когда элементальный навык попадает по врагам, атака всех находящихся поблизости персонажей в отряде, увеличивается на 20%, а прочность их щита увеличивается на 30%. Эффект длится 3 сек. и может возникнуть 1 раз в 0,5 сек. Этот эффект может быть активирован, даже если персонаж, экипированный этим набором артефактов, не находится на поле боя."
             }
         ],
         "Parts": [
@@ -14585,11 +14585,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "Hydro DMG Bonus +15%"
+                "Skill": "Даёт 15% бонус Гидро урона."
             },
             {
                 "Num": 4,
-                "Skill": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 30% for 15s."
+                "Skill": "Увеличивает урон обычной и заряженной атаки на 30% в течение 15 сек. после использования элементального навыка."
             }
         ],
         "Parts": [
@@ -14608,11 +14608,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "Increases Shield Strength by 35%."
+                "Skill": "Увеличивает прочность щита на 35%."
             },
             {
                 "Num": 4,
-                "Skill": "While protected by a shield, gain an additional 40% Normal and Charged Attack DMG."
+                "Skill": "Под защитой щита увеличивает урон обычной и заряженной атаки на 40%."
             }
         ],
         "Parts": [
@@ -14631,11 +14631,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "Gain a 15% Geo DMG Bonus."
+                "Skill": "Даёт 15% бонус Гео урона."
             },
             {
                 "Num": 4,
-                "Skill": "Upon obtaining an Elemental Shard created through a Crystallize Reaction, all party members gain a 35% DMG Bonus for that particular element for 10s. Only one form of Elemental DMG Bonus can be gained in this manner at any one time."
+                "Skill": "Подобранный элементальный осколок, образованный реакцией Кристалл, даёт 35% бонус элементального урона соответствующего элемента всем членам отряда на 10 сек. Одновременно можно иметь бонус урона только одного элемента."
             }
         ],
         "Parts": [
@@ -14654,7 +14654,7 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 1,
-                "Skill": "Affected by Cryo for 40% less time."
+                "Skill": "Уменьшает длительность полученного Крио эффекта на 40%."
             }
         ],
         "Parts": [
@@ -14669,7 +14669,7 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 1,
-                "Skill": "Affected by Anemo for 40% less time."
+                "Skill": "Уменьшает длительность полученного Анемо эффекта на 40%."
             }
         ],
         "Parts": [
@@ -14686,7 +14686,7 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 1,
-                "Skill": "Affected by Electro for 40% less time."
+                "Skill": "Уменьшает длительность полученного Электро эффекта на 40%."
             }
         ],
         "Parts": [
@@ -14701,7 +14701,7 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 1,
-                "Skill": "Affected by Hydro for 40% less time."
+                "Skill": "Уменьшает длительность полученного Гидро эффекта на 40%."
             }
         ],
         "Parts": [
@@ -14716,7 +14716,7 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 1,
-                "Skill": "Affected by Pyro for 40% less time."
+                "Skill": "Уменьшает длительность полученного Пиро эффекта на 40%."
             }
         ],
         "Parts": [
@@ -14731,11 +14731,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "Physical DMG +25%"
+                "Skill": "Увеличивает физ. урон на 25%."
             },
             {
                 "Num": 4,
-                "Skill": "After defeating an opponent, increases Charged Attack DMG by 50%, and reduces its Stamina cost to 0 for 10s."
+                "Skill": "После победы над противником увеличивает урон заряженной атаки на 50% и обнуляет стоимость выносливости заряженной атаки на 10 сек."
             }
         ],
         "Parts": [
@@ -14754,11 +14754,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "Elemental Burst DMG +20%"
+                "Skill": "Увеличивает урон взрыва стихии на 20%."
             },
             {
                 "Num": 4,
-                "Skill": "Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack."
+                "Skill": "Активация взрыва стихии увеличивает силу атаки всех членов отряда на 20% в течение 12 сек. Эффект не складывается."
             }
         ],
         "Parts": [
@@ -14777,11 +14777,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "Pyro DMG Bonus +15%"
+                "Skill": "Даёт 15% бонус Пиро урона."
             },
             {
                 "Num": 4,
-                "Skill": "Increases Overloaded, Burning, and Burgeon DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using Elemental Skill increases the 2-Piece Set Bonus by 50% of its starting value for 10s. Max 3 stacks."
+                "Skill": "Увеличивает урон реакций Перегрузка, Горение и Цветение на 40%, а урон реакций Пар и Таяние на 15%. Использование элементального навыка увеличивает эффект набора из 2 предметов на 50% на 10 сек. Может складываться до 3 раз."
             }
         ],
         "Parts": [
@@ -14800,11 +14800,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "Electro DMG Bonus +15%"
+                "Skill": "Даёт 15% бонус Электро урона."
             },
             {
                 "Num": 4,
-                "Skill": "Increases DMG caused by Overloaded, Electro-Charged, Superconduct, and Hyperbloom by 40%, and the DMG Bonus conferred by Aggravate is increased by 20%. When Quicken or the aforementioned Elemental Reactions are triggered, Elemental Skill CD is decreased by 1s. Can only occur once every 0.8s."
+                "Skill": "Увеличивает урон реакций Перегрузка, Заряжен, Сверхпроводник и Вегетация на 40%. Урон от реакции Обострение увеличивается на 20%. При активации этих реакций, а также реакции Стимуляция, время отката элементального навыка уменьшается на 1 сек. Эффект может возникнуть не чаще 1 раза за 0.8 сек."
             }
         ],
         "Parts": [
@@ -14823,11 +14823,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "Cryo DMG Bonus +15%"
+                "Skill": "Даёт 15% бонус Крио урона."
             },
             {
                 "Num": 4,
-                "Skill": "Increases Superconduct DMG by 100%. Increases Melt DMG by 15%. Using an Elemental Burst increases Cryo DMG Bonus by 30% for 10s."
+                "Skill": "Увеличивает урон статуса Сверхпроводник на 100%, а урон статуса Таяние - на 15%. Взрыв стихии увеличивает Крио урон на 30% в течение 10 сек."
             }
         ],
         "Parts": [
@@ -14848,11 +14848,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "Increases Elemental Mastery by 80."
+                "Skill": "Увеличивает мастерство стихий на 80 ед."
             },
             {
                 "Num": 4,
-                "Skill": "Increases Charged Attack DMG by 35% if the character uses a Catalyst or a Bow."
+                "Skill": "Увеличивает урон заряженной атаки на 35%, если персонаж использует катализатор или стрелковое оружие."
             }
         ],
         "Parts": [
@@ -14871,11 +14871,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "Anemo DMG Bonus +15%"
+                "Skill": "Даёт 15% бонус Анемо урона."
             },
             {
                 "Num": 4,
-                "Skill": "Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s."
+                "Skill": "Увеличивает урон Рассеивания на 60%. При взаимодействии Рассеивания с другим элементом, также понижает сопротивление противника к соответствующему элементу на 40% в течение 10 сек."
             }
         ],
         "Parts": [
@@ -14894,11 +14894,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "ATK +18%."
+                "Skill": "Увеличивает силу атаки на 18%."
             },
             {
                 "Num": 4,
-                "Skill": "If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%."
+                "Skill": "Увеличивает урон обычной атаки на 35%, если персонаж использует одноручное, двуручное или древковое оружие."
             }
         ],
         "Parts": [
@@ -14917,11 +14917,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "Character Healing Effectiveness +15%"
+                "Skill": "Увеличивает эффективность лечения на 15%."
             },
             {
                 "Num": 4,
-                "Skill": "Using an Elemental Skill or Burst increases healing received by all party members by 20% for 10s."
+                "Skill": "Увеличивает получаемое лечение всех членов отряда на 20% в течение 10 сек. после использования элементального навыка или взрыва стихии."
             }
         ],
         "Parts": [
@@ -14940,11 +14940,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "Pyro RES increased by 40%."
+                "Skill": "Повышает Пиро сопротивление на +40%."
             },
             {
                 "Num": 4,
-                "Skill": "Increases DMG against opponents affected by Pyro by 35%."
+                "Skill": "Увеличивает урон против врагов, находящихся под действием Пиро, на 35%."
             }
         ],
         "Parts": [
@@ -14963,11 +14963,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "Electro RES increased by 40%."
+                "Skill": "Повышает Электро сопротивление на +40%."
             },
             {
                 "Num": 4,
-                "Skill": "Increases DMG against opponents affected by Electro by 35%."
+                "Skill": "Увеличивает урон против врагов, находящихся под действием Электро, на 35%."
             }
         ],
         "Parts": [
@@ -14986,11 +14986,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "Cryo DMG Bonus +15%"
+                "Skill": "Даёт 15% бонус Крио урона."
             },
             {
                 "Num": 4,
-                "Skill": "When a character attacks an opponent affected by Cryo, their CRIT Rate is increased by 20%. If the opponent is Frozen, CRIT Rate is increased by an additional 20%."
+                "Skill": "Атаки по противникам с эффектом Крио увеличивают шанс крит. попадания на 20%. Если противник имеет статус Заморозка, то дополнительно увеличивает шанс крит. попадания на 20%."
             }
         ],
         "Parts": [
@@ -15009,11 +15009,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "Increases incoming healing by 20%."
+                "Skill": "Увеличивает получаемое лечение на 20%."
             },
             {
                 "Num": 4,
-                "Skill": "Using Elemental Burst restores 20% HP."
+                "Skill": "Использование взрыва стихии восстанавливает 20% HP."
             }
         ],
         "Parts": [
@@ -15032,11 +15032,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "Energy Recharge +20%"
+                "Skill": "Увеличивает скорость восстановления энергии на 20%."
             },
             {
                 "Num": 4,
-                "Skill": "Gaining Elemental Particles or Orbs gives 3 Energy to all party members who have a bow or a catalyst equipped. Can only occur once every 3s."
+                "Skill": "Получение элементальных сфер или частиц восстанавливает 3 ед. энергии членам отряда, экипированным стрелковым оружием или катализатором. Может возникнуть раз в 3 сек."
             }
         ],
         "Parts": [
@@ -15055,11 +15055,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "DEF increased by 100."
+                "Skill": "Увеличивает защиту на 100 ед."
             },
             {
                 "Num": 4,
-                "Skill": "Picking up Mora restores 300 HP."
+                "Skill": "Поднятие монет восстанавливает 300 HP."
             }
         ],
         "Parts": [
@@ -15078,11 +15078,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "Max HP increased by 1000."
+                "Skill": "Увеличивает макс. HP на 1000 ед."
             },
             {
                 "Num": 4,
-                "Skill": "Opening a chest regenerates 30% Max HP over 5s."
+                "Skill": "В течение 5 сек. после открытия любого сундука восстанавливает 30% HP."
             }
         ],
         "Parts": [
@@ -15101,11 +15101,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "Energy Recharge +20%"
+                "Skill": "Увеличивает скорость восстановления энергии на 20%."
             },
             {
                 "Num": 4,
-                "Skill": "Using an Elemental Burst regenerates 2 Energy for all party members (excluding the wearer) every 2s for 6s. This effect cannot stack."
+                "Skill": "Использование взрыва стихии восстанавливает 2 ед. энергии остальным членам отряда (но не выбранному персонажу) каждые 2 сек. в течение 6 сек. Эффект не может складываться."
             }
         ],
         "Parts": [
@@ -15124,11 +15124,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "Increases Elemental Skill DMG by 20%."
+                "Skill": "Увеличивает урон элементального навыка на 20%."
             },
             {
                 "Num": 4,
-                "Skill": "Defeating an opponent has a 100% chance to remove Elemental Skill CD. Can only occur once every 15s."
+                "Skill": "Победа над противником со 100% шансом восстанавливает время отката элементального навыка. Может возникнуть раз в 15 сек."
             }
         ],
         "Parts": [
@@ -15147,11 +15147,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "Increases Elemental Mastery by 80."
+                "Skill": "Увеличивает мастерство стихий на 80 ед."
             },
             {
                 "Num": 4,
-                "Skill": "Upon triggering an Elemental Reaction, increases all party members' Elemental Mastery by 120 for 8s."
+                "Skill": "Вызов элементальной реакции увеличивает мастерство стихий всех членов отряда на 120 ед. в течение 8 сек."
             }
         ],
         "Parts": [
@@ -15170,11 +15170,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "Normal and Charged Attack DMG +15%"
+                "Skill": "Увеличивает урон обычной и заряженной атаки на 15%."
             },
             {
                 "Num": 4,
-                "Skill": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 25% for 8s."
+                "Skill": "Увеличивает урон обычной и заряженной атаки на 25% в течение 8 сек. после использования элементального навыка."
             }
         ],
         "Parts": [
@@ -15193,11 +15193,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "CRIT Rate +12%"
+                "Skill": "Увеличивает шанс крит. попадания на 12%."
             },
             {
                 "Num": 4,
-                "Skill": "When HP is below 70%, CRIT Rate increases by an additional 24%."
+                "Skill": "Увеличивает шанс крит. попадания на 24% при HP ниже 70%."
             }
         ],
         "Parts": [
@@ -15216,11 +15216,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "All Elemental RES increased by 20%."
+                "Skill": "Увеличивает сопротивление ко всем элементам на 20%."
             },
             {
                 "Num": 4,
-                "Skill": "Incoming elemental DMG increases corresponding Elemental RES by 30% for 10s. Can only occur once every 10s."
+                "Skill": "Получаемый элементальный урон повышает сопротивление к соответствующему элементу на 30% в течение 10 сек. Может возникнуть раз в 10 сек."
             }
         ],
         "Parts": [
@@ -15239,11 +15239,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "DEF +30%"
+                "Skill": "Увеличивает защиту на 30%."
             },
             {
                 "Num": 4,
-                "Skill": "For each different element present in your own party, the wearer's Elemental RES to that corresponding element is increased by 30%."
+                "Skill": "За каждого члена вашего отряда с неповторяющимся элементом повышает сопротивление к соответствующему элементу на 30%."
             }
         ],
         "Parts": [
@@ -15262,11 +15262,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "ATK +18%."
+                "Skill": "Увеличивает силу атаки на 18%."
             },
             {
                 "Num": 4,
-                "Skill": "Increases DMG by 30% against opponents with more than 50% HP."
+                "Skill": "Увеличивает на 30% урон против врагов с HP выше 50%."
             }
         ],
         "Parts": [
@@ -15285,11 +15285,11 @@ var _RelicConfig = [
         "Skills": [
             {
                 "Num": 2,
-                "Skill": "ATK +18%."
+                "Skill": "Увеличивает силу атаки на 18%."
             },
             {
                 "Num": 4,
-                "Skill": "Increases Charged Attack CRIT Rate by 30%."
+                "Skill": "Увеличивает шанс крит. попадания заряженной атаки на 30%."
             }
         ],
         "Parts": [
