@@ -128,28 +128,57 @@ $(function () {
                         }
                     },
                     {
-                        div: [
-                            {
-                                span: 'ⓘ',
-                                class: 'info',
-                                a: {
-                                    'data-id': t._id
-                                },
-                                when: t.Tutorial && t.Tutorial.length
-                            },
-                            {
-                                span: '＋',
-                                class: 'plus',
-                                a: {
-                                    'data-id': t._id
-                                }
+                        div: {
+                            span: '＋' + txt.Event_Story[lang] + '＋',
+                            class: 'plus',
+                            a: {
+                                'data-id': t._id
                             }
-                        ],
+                        },
                         class: 'event-sel'
                     },
                     {
                         p: t.Story,
                         class: 'event-story es-' + t._id,
+                        style: {
+                            display: 'none'
+                        }
+                    },
+                    {
+                        hr: '',
+                        when: t.Tutorial && t.Tutorial.length
+                    },
+                    {
+                        div: {
+                            span: '＋' + txt.Event_Tutorial[lang] + '＋',
+                            class: 'info',
+                            a: {
+                                'data-id': t._id
+                            }
+                        },
+                        class: 'event-sel',
+                        when: t.Tutorial && t.Tutorial.length
+                    },
+                    {
+                        div: {
+                            div: [
+                                {
+                                    img: function (k) {
+                                        return imgpre + 'images/tutorialpic/' + _tut[k.data].Img
+                                    },
+                                    class: 'tut_img'
+                                },
+                                {
+                                    p: function (k) {
+                                        return _tut[k.data].Desc
+                                    },
+                                    class: 'tut_p'
+                                }
+                            ],
+                            class: 'tut',
+                            data: t.Tutorial
+                        },
+                        class: 'event-tut fs-' + t._id,
                         style: {
                             display: 'none'
                         }
@@ -165,14 +194,23 @@ $(function () {
         var T = $('.es-' + id)
         if (T.css('display') == 'none') {
             T.show()
-            $(this).html('−')
+            $(this).html($(this).html().replaceAll('＋', "−"))
         } else {
             T.hide()
-            $(this).html('＋')
+            $(this).html($(this).html().replaceAll('−', "＋"))
         }
     })
 
     $('body').on('click', '.info', function () {
+        var id = $(this).attr('data-id')
+        var T = $('.fs-' + id)
+        if (T.css('display') == 'none') {
+            T.show()
+            $(this).html($(this).html().replaceAll('＋', "−"))
+        } else {
+            T.hide()
+            $(this).html($(this).html().replaceAll('−', "＋"))
+        }
     })
 
     $('body').on('click', '.hover-shadow-', function () {

@@ -16,7 +16,34 @@ var _event = [
             233,
             2
         ],
-        "Ver": "2.1"
+        "Ver": "2.1",
+        "Tutorial": [
+            810001,
+            810002,
+            810003,
+            810101,
+            810102,
+            810201,
+            810202,
+            810301,
+            810302,
+            810401,
+            810402,
+            810501,
+            810502,
+            810601,
+            810602,
+            810701,
+            810702,
+            810801,
+            810802,
+            810901,
+            810902,
+            811101,
+            811102,
+            811201,
+            811202
+        ]
     },
     {
         "_id": 50009,
@@ -55,7 +82,13 @@ var _event = [
             110222,
             2
         ],
-        "Ver": "2.1"
+        "Ver": "2.1",
+        "Tutorial": [
+            811001,
+            811002,
+            811003,
+            811004
+        ]
     },
     {
         "_id": 30010,
@@ -1671,6 +1704,125 @@ var _item = {
             "Omni-Synthesizer",
             "Clock Diner"
         ]
+    }
+}
+
+var _tut = {
+    "811001": {
+        "Desc": "In Cosmodyssey, you need to roll dice to advance on the map.",
+        "Img": "TutorialPage_811001.png"
+    },
+    "811002": {
+        "Desc": "Different board tiles will trigger different effects and Trailblaze Funds can be obtained from them.",
+        "Img": "TutorialPage_811001.png"
+    },
+    "811003": {
+        "Desc": "Trailblaze Fund will be finalized at the end of each game day, contributing both to the Cosmic Progress and Personal Progress.",
+        "Img": "TutorialPage_811003.png"
+    },
+    "811004": {
+        "Desc": "Contribute Trailblaze Funds and progress to specific nodes to obtain Node Rewards.",
+        "Img": "TutorialPage_811003.png"
+    },
+    "810001": {
+        "Desc": "Accumulating <color=#f29e38ff>Grit Value</color> during battle can increase your <color=#f29e38ff>Grit Phase</color>.<br>When entering <color=#f29e38ff>Grit Phase 4: Might Unleashed</color>, you can obtain powerful stage buffs and significantly improve your combat effectiveness.",
+        "Img": "TutorialPage_810001.png"
+    },
+    "810002": {
+        "Desc": "There are a total of <color=#f29e38ff>4</color> Grit Phases. With each higher phase you reach, you can additionally unlock 1 <color=#f29e38ff>Support Function</color> and obtain powerful stage buffs.<br>Before entering combat, you can choose to add different Support Functions for each stage.",
+        "Img": "TutorialPage_810002.png"
+    },
+    "810003": {
+        "Desc": "Every time a character <color=#f29e38ff>takes action</color> in combat, Grit Value will be accumulated.<br>Every stage will have unique <color=#f29e38ff>Grit Mechanics</color>, and triggering them will greatly increase Grit Value, thus allowing you to quickly elevate your Grit Phase.",
+        "Img": "TutorialPage_810003.png"
+    },
+    "810101": {
+        "Desc": "Select a non-boss enemy with <color=#f29e38ff>low HP</color> and use <color=#f29e38ff>single-target DMG</color> ability on it.<br>After defeating the enemy, deals single-target DMG with <color=#f29e38ff>huge multipliers</color> to the <color=#f29e38ff>boss</color> based on the <color=#f29e38ff>Overflow DMG</color> dealt to the defeated unit.",
+        "Img": "TutorialPage_810101.png"
+    },
+    "810102": {
+        "Desc": "During Grit Phase 4: Might Unleashed, non-boss enemies will have their HP drastically reduced after entering battle.<br>Attention: The boss's HP for this current stage is extremely high. You can use the <color=#f29e38ff>Overflow DMG</color> dealt when defeating <color=#f29e38ff>non-boss enemies</color> to deal high amounts of DMG to the boss.",
+        "Img": "TutorialPage_810102.png"
+    },
+    "810201": {
+        "Desc": "Use <color=#f29e38ff>AoE</color> abilities to attack enemies.<br>After defeating a non-boss enemy, deals DMG with huge multipliers to the <color=#f29e38ff>boss</color> based on the <color=#f29e38ff>Overflow DMG</color> dealt in this attack.",
+        "Img": "TutorialPage_810201.png"
+    },
+    "810202": {
+        "Desc": "During Grit Phase 4: Might Unleashed, non-boss enemies will have their HP drastically reduced after entering battle.<br>Attention: The boss's HP for this current stage is extremely high. You can use the <color=#f29e38ff>Overflow DMG</color> dealt when defeating <color=#f29e38ff>non-boss enemies</color> to deal high amounts of DMG to the boss.",
+        "Img": "TutorialPage_810202.png"
+    },
+    "810301": {
+        "Desc": "Do your best to make the <color=#f29e38ff>same character</color> perform consecutive actions.<br>You will accumulate a large amount of Grit Value after the same character performs <color=#f29e38ff>consecutive actions</color>",
+        "Img": "TutorialPage_810301.png"
+    },
+    "810302": {
+        "Desc": "After characters cast their <color=#f29e38ff>Ultimates</color>, their actions are Advanced Forward by <color=#f29e38ff>100%</color>.<br>You can use Ultimates to make the same character act consecutively.",
+        "Img": "TutorialPage_810301.png"
+    },
+    "810401": {
+        "Desc": "After any ally performs <color=#f29e38ff>consecutive actions</color>, a large amount of Grit Value can be obtained.<br>Defeating enemies or <color=#f29e38ff>stopping enemy actions</color> are all viable means to have allies continue to take action.",
+        "Img": "TutorialPage_810401.png"
+    },
+    "810402": {
+        "Desc": "After characters cast their <color=#f29e38ff>Ultimates</color>, their actions are Advanced Forward by <color=#f29e38ff>100%</color>.<br>You can use Ultimates to make the same character act consecutively.",
+        "Img": "TutorialPage_810401.png"
+    },
+    "810501": {
+        "Desc": "Defeat the <color=#f29e38ff>Trotters</color> in this stage to obtain a large amount of Grit Value.<br>You need to defeat the Trotter before it escapes.",
+        "Img": "TutorialPage_810501.png"
+    },
+    "810502": {
+        "Desc": "Every <color=#f29e38ff>Trotter</color> defeated will inflict all enemies with the <color=#f29e38ff>Vulnerability debuff</color>.<br>Make good use of the debuffs applied by defeating Trotters to quickly take down the boss during Grit Phase 4: Might Unleashed.",
+        "Img": "TutorialPage_810502.png"
+    },
+    "810601": {
+        "Desc": "Defeat the <color=#f29e38ff>Trotters</color> in this stage to obtain a large amount of Grit Value.<br>You need to defeat the Trotter before it escapes.",
+        "Img": "TutorialPage_810501.png"
+    },
+    "810602": {
+        "Desc": "Every <color=#f29e38ff>Trotter</color> defeated will inflict all enemies with random <color=#f29e38ff>DoTs</color>.<br>Make good use of the DoTs applied by defeating Trotters to quickly take down the boss during Grit Phase 4: Might Unleashed.",
+        "Img": "TutorialPage_810502.png"
+    },
+    "810701": {
+        "Desc": "Grit Value accumulates when allies HP <color=#f29e38ff>increases</color> or <color=#f29e38ff>decreases</color>.",
+        "Img": "TutorialPage_810701.png"
+    },
+    "810702": {
+        "Desc": "During Grit Phase 4: Might Unleashed, every <color=#f29e38ff>1500</color> of Max HP increase or decrease grants 1 stack, up to 99 stacks.",
+        "Img": "TutorialPage_810702.png"
+    },
+    "810801": {
+        "Desc": "Break the enemy's <color=#f29e38ff>Weakness</color> or attack <color=#f29e38ff>Weakness Broken</color> enemies to accumulate Grit Value.",
+        "Img": "TutorialPage_810801.png"
+    },
+    "810802": {
+        "Desc": "Weakness Breaking <color=#f29e38ff>non-boss enemies</color> can remove the boss's <color=#f29e38ff>Weakness Protection</color>.<br>During Grit Phase 4: Might Unleashed, the enemy Boss will not have Weakness Protection. Attacking enemies in the <color=#f29e38ff>Weakness Broken state</color> will provide immense buffs.",
+        "Img": "TutorialPage_810802.png"
+    },
+    "810901": {
+        "Desc": "Break the enemy's <color=#f29e38ff>Weakness</color> or attack <color=#f29e38ff>Weakness Broken</color> enemies to accumulate Grit Value.",
+        "Img": "TutorialPage_810801.png"
+    },
+    "810902": {
+        "Desc": "Attacking an enemy's Weakness can inflict <color=#f29e38ff>Toughness depletion</color> on all enemies.<br>During Grit Phase 4: Might Unleashed, the enemy Boss will not have Weakness Protection. Attacking enemies in the <color=#f29e38ff>Weakness Broken state</color> will provide immense buffs.",
+        "Img": "TutorialPage_810802.png"
+    },
+    "811101": {
+        "Desc": "When <color=#f29e38ff>the ally positioned first</color> in the Team Setup uses their <color=#f29e38ff>Ultimate</color>, accumulates Grit Value.",
+        "Img": "TutorialPage_811101.png"
+    },
+    "811102": {
+        "Desc": "After <color=#f29e38ff>the ally positioned second</color> in the Team Setup uses their Ultimate, <color=#f29e38ff>charges</color> Energy for the ally positioned first, and increases the DMG dealt by the next attack for the ally positioned first.",
+        "Img": "TutorialPage_811102.png"
+    },
+    "811201": {
+        "Desc": "When <color=#f29e38ff>the ally positioned first</color> in the Team Setup uses their <color=#f29e38ff>Ultimate</color>, accumulates Grit Value.",
+        "Img": "TutorialPage_811101.png"
+    },
+    "811202": {
+        "Desc": "The ally positioned first in the Team Setup <color=#f29e38ff>gains Energy</color> when <color=#f29e38ff>other allies</color> use their Ultimates, and there is a chance that the ally positioned first will have their next attack's DMG is increased.",
+        "Img": "TutorialPage_811202.png"
     }
 }
 

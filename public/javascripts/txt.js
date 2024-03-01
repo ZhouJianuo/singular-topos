@@ -406,6 +406,14 @@ var txt = {
             "EN": "New"
         }
     ],
+    "Event_Story": {
+        "CH": " 简介 ",
+        "EN": " Introduction "
+    },
+    "Event_Tutorial": {
+        "CH": " 图片 ",
+        "EN": " Pictures "
+    },
 }
 
 var elemcolor = {

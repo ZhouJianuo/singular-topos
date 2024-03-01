@@ -16,7 +16,34 @@ var _event = [
             233,
             2
         ],
-        "Ver": "2.1"
+        "Ver": "2.1",
+        "Tutorial": [
+            810001,
+            810002,
+            810003,
+            810101,
+            810102,
+            810201,
+            810202,
+            810301,
+            810302,
+            810401,
+            810402,
+            810501,
+            810502,
+            810601,
+            810602,
+            810701,
+            810702,
+            810801,
+            810802,
+            810901,
+            810902,
+            811101,
+            811102,
+            811201,
+            811202
+        ]
     },
     {
         "_id": 50009,
@@ -55,7 +82,13 @@ var _event = [
             110222,
             2
         ],
-        "Ver": "2.1"
+        "Ver": "2.1",
+        "Tutorial": [
+            811001,
+            811002,
+            811003,
+            811004
+        ]
     },
     {
         "_id": 30010,
@@ -1671,6 +1704,125 @@ var _item = {
             "「万能合成机」",
             "钟表餐厅"
         ]
+    }
+}
+
+var _tut = {
+    "811001": {
+        "Desc": "在「银河强手棋」中，需要投掷骰子在棋盘地图中前进。",
+        "Img": "TutorialPage_811001.png"
+    },
+    "811002": {
+        "Desc": "不同的棋盘格会有各种不同效果，并能从中获取开拓券。",
+        "Img": "TutorialPage_811001.png"
+    },
+    "811003": {
+        "Desc": "每日游玩结束后会结算开拓券，推动全银河进度和个人进度的双重增长。",
+        "Img": "TutorialPage_811003.png"
+    },
+    "811004": {
+        "Desc": "贡献开拓券，推动进度增长到特定节点可以获取节点奖励。",
+        "Img": "TutorialPage_811003.png"
+    },
+    "810001": {
+        "Desc": "在战斗中积累<color=#f29e38ff>「战意值」</color>，可提升<color=#f29e38ff>「战意阶段」</color>。<br>进入<color=#f29e38ff>「战意阶段4：力量觉醒」阶段时</color>，可获取强大的关卡增益，显著提升作战效率。",
+        "Img": "TutorialPage_810001.png"
+    },
+    "810002": {
+        "Desc": "「战意阶段」共有<color=#f29e38ff>4</color>个阶段。每提升至更高阶段，便可额外激活1项<color=#f29e38ff>「辅助功能」</color>，获取强大的关卡增益。<br>在进入战斗前，每个关卡均可选择添加不同的「辅助功能」。",
+        "Img": "TutorialPage_810002.png"
+    },
+    "810003": {
+        "Desc": "在战斗中，角色的每次<color=#f29e38ff>行动</color>都会积累「战意值」。<br>每个关卡均设有独特的<color=#f29e38ff>「战意机制」</color>，触发「战意机制」可大幅增加「战意值」，迅速提升「战意阶段」。",
+        "Img": "TutorialPage_810003.png"
+    },
+    "810101": {
+        "Desc": "选择非首领敌人中<color=#f29e38ff>生命值较低</color>的敌人，对其使用<color=#f29e38ff>单体输出</color>技能。<br>消灭敌人后，将根据本次攻击造成的<color=#f29e38ff>溢出伤害</color>，对敌方<color=#f29e38ff>首领</color>造成<color=#f29e38ff>高额倍率</color>的单体伤害。",
+        "Img": "TutorialPage_810101.png"
+    },
+    "810102": {
+        "Desc": "在「战意阶段4：力量觉醒」期间，非首领敌人在进入战斗后，生命值将大幅降低。<br>注意：本关敌方首领生命值极高，可利用消灭<color=#f29e38ff>非首领敌人</color>造成的<color=#f29e38ff>溢出伤害</color>，对敌方首领造成高额伤害。",
+        "Img": "TutorialPage_810102.png"
+    },
+    "810201": {
+        "Desc": "使用<color=#f29e38ff>群体输出</color>技能攻击敌人。<br>在消灭非首领敌人后，将根据本次攻击造成的<color=#f29e38ff>溢出伤害</color>，对敌方<color=#f29e38ff>首领</color>造成高额倍率伤害。",
+        "Img": "TutorialPage_810201.png"
+    },
+    "810202": {
+        "Desc": "在「战意阶段4：力量觉醒」期间，非首领敌人在进入战斗后，生命值将大幅降低。<br>注意：本关敌方首领生命值极高，可利用消灭<color=#f29e38ff>非首领敌人</color>造成的<color=#f29e38ff>溢出伤害</color>，对敌方首领造成高额伤害。",
+        "Img": "TutorialPage_810202.png"
+    },
+    "810301": {
+        "Desc": "请尽可能多地让我方<color=#f29e38ff>相同角色</color>连续行动。<br>相同角色在<color=#f29e38ff>连续行动</color>后，可积累大量「战意值」。",
+        "Img": "TutorialPage_810301.png"
+    },
+    "810302": {
+        "Desc": "角色在施放<color=#f29e38ff>终结技</color>后，行动提前<color=#f29e38ff> 100% </color>。<br>可利用终结技使相同角色连续行动。",
+        "Img": "TutorialPage_810301.png"
+    },
+    "810401": {
+        "Desc": "任意我方目标在<color=#f29e38ff>连续行动</color>后，可积累大量「战意值」。<br>消灭敌人或<color=#f29e38ff>阻止敌方行动</color>，均可维持我方角色行动。",
+        "Img": "TutorialPage_810401.png"
+    },
+    "810402": {
+        "Desc": "角色在施放<color=#f29e38ff>终结技</color>后，行动提前<color=#f29e38ff> 100% </color>。<br>可利用终结技使相同角色连续行动。",
+        "Img": "TutorialPage_810401.png"
+    },
+    "810501": {
+        "Desc": "在本关内消灭<color=#f29e38ff>扑满</color>，可积累大量「战意值」。<br>需要在扑满逃跑前尽快消灭扑满。",
+        "Img": "TutorialPage_810501.png"
+    },
+    "810502": {
+        "Desc": "每消灭一只<color=#f29e38ff>扑满</color>，该扑满将为敌方全体附加<color=#f29e38ff>负面状态：易伤</color>。<br>在「战意阶段4：力量觉醒」期间，利用消灭扑满后获取的负面增益，尽快击杀首领。",
+        "Img": "TutorialPage_810502.png"
+    },
+    "810601": {
+        "Desc": "在本关内消灭<color=#f29e38ff>扑满</color>，可积累大量「战意值」。<br>需要在扑满逃跑前尽快消灭扑满。",
+        "Img": "TutorialPage_810501.png"
+    },
+    "810602": {
+        "Desc": "每消灭一只<color=#f29e38ff>扑满</color>，该扑满将为敌方全体附加随机<color=#f29e38ff>持续伤害</color>。<br>在「战意阶段4：力量觉醒」期间，利用消灭扑满后为敌方附加的持续伤害，尽快消灭首领。",
+        "Img": "TutorialPage_810502.png"
+    },
+    "810701": {
+        "Desc": "当我方角色的生命值<color=#f29e38ff>提升</color>或<color=#f29e38ff>降低</color>时，将积累「战意值」。",
+        "Img": "TutorialPage_810701.png"
+    },
+    "810702": {
+        "Desc": "在「战意阶段4：力量觉醒」期间，生命值上限每提升或降低<color=#f29e38ff> 1500 </color>点，可获得1层增益，上限为 99 层。",
+        "Img": "TutorialPage_810702.png"
+    },
+    "810801": {
+        "Desc": "击破敌人的<color=#f29e38ff>弱点</color>或攻击处于<color=#f29e38ff>弱点击破</color>状态的敌人，均可积累「战意值」。",
+        "Img": "TutorialPage_810801.png"
+    },
+    "810802": {
+        "Desc": "击破<color=#f29e38ff>非首领敌人</color>的弱点，可解除敌方首领的<color=#f29e38ff>弱点保护</color>。<br>在「战意阶段4：力量觉醒」期间，敌方首领无弱点保护，攻击处于<color=#f29e38ff>弱点击破状态</color>的敌人将获得大幅增益。",
+        "Img": "TutorialPage_810802.png"
+    },
+    "810901": {
+        "Desc": "击破敌人的<color=#f29e38ff>弱点</color>或攻击处于<color=#f29e38ff>弱点击破</color>状态的敌人，均可积累「战意值」。",
+        "Img": "TutorialPage_810801.png"
+    },
+    "810902": {
+        "Desc": "击破敌人弱点，可对敌方全体造成<color=#f29e38ff>韧性削减</color>。<br>在「战意阶段4：力量觉醒」中，敌方首领无弱点保护，攻击处于<color=#f29e38ff>弱点击破状态</color>的敌人将获得大幅增益。",
+        "Img": "TutorialPage_810802.png"
+    },
+    "811101": {
+        "Desc": "我方编队中的<color=#f29e38ff>第一位角色</color>释放<color=#f29e38ff>终结技</color>时，可积累「战意值」。",
+        "Img": "TutorialPage_811101.png"
+    },
+    "811102": {
+        "Desc": "我方编队中<color=#f29e38ff>第二位角色</color>释放终结技后为第一位角色<color=#f29e38ff>充能</color>，并使其下次攻击伤害提升。",
+        "Img": "TutorialPage_811102.png"
+    },
+    "811201": {
+        "Desc": "我方编队中的<color=#f29e38ff>第一位角色</color>释放<color=#f29e38ff>终结技</color>时，可积累「战意值」。",
+        "Img": "TutorialPage_811101.png"
+    },
+    "811202": {
+        "Desc": "我方编队中第一位角色会在<color=#f29e38ff>其他角色</color>释放终结技时获得<color=#f29e38ff>充能</color>，并有概率使自身下次攻击伤害提升。",
+        "Img": "TutorialPage_811202.png"
     }
 }
 
