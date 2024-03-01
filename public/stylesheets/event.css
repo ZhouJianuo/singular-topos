@@ -227,6 +227,7 @@ schedule {
     font-size: 20px;
     cursor: pointer;
     margin: 15px 5px;
+    padding: 0px 10px;
     text-align: center;
     border: 2px solid #27363e;
     border-radius: 5px;
