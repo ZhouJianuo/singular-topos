@@ -18022,14 +18022,14 @@ var _Monsters = {
         "ATK": 0,
         "ATKCurve": 3,
         "RESBase": {
-            "Phys": 2.1,
-            "Fire": 2.1,
-            "Water": 2.1,
-            "Elec": 2.1,
-            "Ice": 2.1,
-            "Grass": 2.1,
-            "Wind": 2.1,
-            "Rock": 2.1
+            "Phys": 2,
+            "Fire": 2,
+            "Water": 2,
+            "Elec": 2,
+            "Ice": 2,
+            "Grass": 2,
+            "Wind": 2,
+            "Rock": 2
         },
         "Icon": [
             "keq"
