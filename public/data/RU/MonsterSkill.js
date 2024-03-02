@@ -10462,7 +10462,7 @@ var _monsterskill = {
     "300302202": {
         "Key": "Skill02",
         "Name": "Frenzied Free Drinks",
-        "Desc": "Consecutively deals <1> Ice DMG to a random target <color style='color:#f29e38;'>4</color> times.<br>If the target does not have a Shield, has <color style='color:#f29e38;'>120%</color> Base Chance of inflicting Freeze.<br>If the target has Shield, deals <color style='color:#f29e38;'>8% Max HP</color> Ice DMG to self, with an <color style='color:#f29e38;'>150%</color> Base Chance to reduce own DEF by <color style='color:#f29e38;'>20%</color>, lasting <color style='color:#f29e38;'>2</color> turns.",
+        "Desc": "Consecutively deals <1> Ice DMG to a random target <color style='color:#f29e38;'>4</color> times.<br>After every instance of DMG, if the target does not have a Shield, has <color style='color:#f29e38;'>120%</color> Base Chance of inflicting Freeze.<br>After every instance of DMG, if the target has Shield, deals <color style='color:#f29e38;'>8% Max HP</color> Ice DMG to self, with an <color style='color:#f29e38;'>150%</color> Base Chance to reduce own DEF by <color style='color:#f29e38;'>20%</color>, lasting <color style='color:#f29e38;'>2</color> turns.",
         "SP": 10.0,
         "Elem": "Ice",
         "Threat": true,

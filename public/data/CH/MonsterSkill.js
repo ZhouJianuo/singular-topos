@@ -10462,7 +10462,7 @@ var _monsterskill = {
     "300302202": {
         "Key": "Skill02",
         "Name": "疯狂畅饮",
-        "Desc": "连续对我方随机单体造成 <color style='color:#f29e38;'>4</color> 次 <1> 冰属性伤害。<br>如果目标没有护盾，则有 <color style='color:#f29e38;'>120%</color> 基础概率施加冻结状态。<br>如果目标拥有护盾，则会对自身造成 <color style='color:#f29e38;'>8%生命值上限</color> 的冰属性伤害，并有 <color style='color:#f29e38;'>150%</color> 基础概率使自身防御力降低 <color style='color:#f29e38;'>20%</color>，持续 <color style='color:#f29e38;'>2</color> 回合。",
+        "Desc": "连续对我方随机单体造成 <color style='color:#f29e38;'>4</color> 次 <1> 冰属性伤害。<br>每次造成伤害时，如果目标没有护盾，则有 <color style='color:#f29e38;'>120%</color> 基础概率施加冻结状态。<br>每次造成伤害时，如果目标拥有护盾，则会对自身造成 <color style='color:#f29e38;'>8%生命值上限</color> 的冰属性伤害，并有 <color style='color:#f29e38;'>150%</color> 基础概率使自身防御力降低 <color style='color:#f29e38;'>20%</color>，持续 <color style='color:#f29e38;'>2</color> 回合。",
         "SP": 10.0,
         "Elem": "Ice",
         "Threat": true,
