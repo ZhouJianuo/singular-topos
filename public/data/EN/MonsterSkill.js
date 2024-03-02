@@ -10452,17 +10452,23 @@ var _monsterskill = {
     "300302201": {
         "Key": "Skill01",
         "Name": "Limitless Free Drinks",
-        "Desc": "Deals Ice DMG to a single target, with a small chance of applying Freeze to the attacked target if it does not have a Shield. If the target has Shield, additionally deal Ice DMG to this unit with a high chance to decrease this unit's DEF.",
+        "Desc": "Deals <1> Ice DMG to a single target.<br>If the target does not have a Shield, has <color style='color:#f29e38;'>50%</color> Base Chance of inflicting Freeze.<br>If the target has Shield, deals <color style='color:#f29e38;'>8% Max HP</color> Ice DMG to self, with an <color style='color:#f29e38;'>150%</color> Base Chance to reduce own DEF by <color style='color:#f29e38;'>20%</color>, lasting <color style='color:#f29e38;'>2</color> turns.",
         "SP": 10.0,
-        "Elem": "Ice"
+        "Elem": "Ice",
+        "DMG": [
+            3.8
+        ]
     },
     "300302202": {
         "Key": "Skill02",
         "Name": "Frenzied Free Drinks",
-        "Desc": "Deals Ice DMG 4 times to a random single target, with a high chance of applying Freeze to the attacked target if it does not have a Shield. If the target has Shield, additionally deal Ice DMG to this unit with a high chance to decrease this unit's DEF.",
+        "Desc": "Consecutively deals <1> Ice DMG to a random target <color style='color:#f29e38;'>4</color> times.<br>If the target does not have a Shield, has <color style='color:#f29e38;'>120%</color> Base Chance of inflicting Freeze.<br>If the target has Shield, deals <color style='color:#f29e38;'>8% Max HP</color> Ice DMG to self, with an <color style='color:#f29e38;'>150%</color> Base Chance to reduce own DEF by <color style='color:#f29e38;'>20%</color>, lasting <color style='color:#f29e38;'>2</color> turns.",
         "SP": 10.0,
         "Elem": "Ice",
-        "Threat": true
+        "Threat": true,
+        "DMG": [
+            3
+        ]
     },
     "300302203": {
         "Key": "Skill03",
@@ -10473,7 +10479,7 @@ var _monsterskill = {
     "300302204": {
         "Key": "Skill04",
         "Name": "Celebration Fountain",
-        "Desc": "Enters the Charge state and gains Toughness Protection. Uses Frenzied Free Drinks during the next action.",
+        "Desc": "Enters the Charge state and gains <color style='color:#f29e38;'>Toughness Protection</color>. Uses <color style='color:#f29e38;'>Frenzied Free Drinks</color> during the next action.",
         "SP": 0
     },
     "301301101": {

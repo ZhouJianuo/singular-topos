@@ -10452,17 +10452,23 @@ var _monsterskill = {
     "300302201": {
         "Key": "Skill01",
         "Name": "不限量赠饮",
-        "Desc": "对指定我方单体造成冰属性伤害，有小概率使受到攻击且没有护盾的目标陷入冻结状态，如果目标身上拥有护盾，则造成伤害后还会对自身造成冰属性伤害，并大概率使自身防御力降低。",
+        "Desc": "对指定我方单体造成 <1> 冰属性伤害。<br>如果目标没有护盾，则有 <color style='color:#f29e38;'>50%</color> 基础概率施加冻结状态。<br>如果目标拥有护盾，则会对自身造成 <color style='color:#f29e38;'>8%生命值上限</color> 的冰属性伤害，并有 <color style='color:#f29e38;'>150%</color> 基础概率使自身防御力降低 <color style='color:#f29e38;'>20%</color>，持续 <color style='color:#f29e38;'>2</color> 回合。",
         "SP": 10.0,
-        "Elem": "Ice"
+        "Elem": "Ice",
+        "DMG": [
+            3.8
+        ]
     },
     "300302202": {
         "Key": "Skill02",
         "Name": "疯狂畅饮",
-        "Desc": "对我方随机单体造成4次冰属性伤害，有大概率使受到攻击且没有护盾的目标陷入冻结状态，如果目标身上拥有护盾，则造成伤害后还会对自身造成冰属性伤害，并大概率使自身防御力降低。",
+        "Desc": "连续对我方随机单体造成 <color style='color:#f29e38;'>4</color> 次 <1> 冰属性伤害。<br>如果目标没有护盾，则有 <color style='color:#f29e38;'>120%</color> 基础概率施加冻结状态。<br>如果目标拥有护盾，则会对自身造成 <color style='color:#f29e38;'>8%生命值上限</color> 的冰属性伤害，并有 <color style='color:#f29e38;'>150%</color> 基础概率使自身防御力降低 <color style='color:#f29e38;'>20%</color>，持续 <color style='color:#f29e38;'>2</color> 回合。",
         "SP": 10.0,
         "Elem": "Ice",
-        "Threat": true
+        "Threat": true,
+        "DMG": [
+            3
+        ]
     },
     "300302203": {
         "Key": "Skill03",
@@ -10473,7 +10479,7 @@ var _monsterskill = {
     "300302204": {
         "Key": "Skill04",
         "Name": "酬宾喷泉",
-        "Desc": "进入蓄力状态，获得韧性保护，下次行动时施放【疯狂畅饮】。",
+        "Desc": "进入蓄力状态，获得<color style='color:#f29e38;'>韧性保护</color>，下次行动时施放<color style='color:#f29e38;'>【疯狂畅饮】</color>。",
         "SP": 0
     },
     "301301101": {
