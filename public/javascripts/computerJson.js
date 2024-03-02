@@ -60,6 +60,11 @@ var computer_ = {
             "EN": "<a class='translate_' href='/gi/load?lang=CH'><b>中文</b></a> | <b>English</b> | <a class='translate_' href='/gi/load?lang=RU'><b>Русский</b></a>",
             "RU": "<a class='translate_' href='/gi/load?lang=CH'><b>中文</b></a> | <a class='translate_' href='/gi/load?lang=EN'><b>English</b></a> | <b>Русский</b>"
         },
+        "Translate_Codex": {
+            "CH": "<b>中文</b> | <a class='translate_' href='/gi/geo?lang=EN'><b>English</b></a> | <a class='translate_' href='/gi/geo?lang=RU'><b>Русский</b></a>",
+            "EN": "<a class='translate_' href='/gi/geo?lang=CH'><b>中文</b></a> | <b>English</b> | <a class='translate_' href='/gi/geo?lang=RU'><b>Русский</b></a>",
+            "RU": "<a class='translate_' href='/gi/geo?lang=CH'><b>中文</b></a> | <a class='translate_' href='/gi/geo?lang=EN'><b>English</b></a> | <b>Русский</b>"
+        },
         "Abyss_Reminder": {
             "CH": "<color style='color:#0066FF;'>玉衡杯数据库 abyss.wiki</color>",
             "EN": "<color style='color:#0066FF;'>homdgcat.wiki | t.me/homdgcat</color>",
@@ -6329,6 +6334,18 @@ var links = [
             "CH": "/gi/load",
             "EN": "/gi/load",
             "RU": "/gi/load"
+        }
+    },
+    {
+        "Name": {
+            "CH": "地理志",
+            "EN": "Geography Codex",
+            "RU": "География"
+        },
+        "Link": {
+            "CH": "/gi/geo",
+            "EN": "/gi/geo",
+            "RU": "/gi/geo"
         }
     },
     {

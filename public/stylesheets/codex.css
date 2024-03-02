@@ -50,90 +50,31 @@ container {
 }
 
 .content {
-    padding: 20px;
+    padding-top: 15px;
+    padding-bottom: 30px;
     width: 100%;
     background-color: rgba(255, 255, 255, 1);
     min-height: 600px;
 }
 
-popdialog {
-    height: 90%;
-}
-
-popheader {
-    height: 40px;
-    line-height: 40px;
-    background: #fff;
-    color: #333;
-    font-size: 18px;
-    font-weight: 600;
-    overflow: hidden;
-}
-
-popbody {
-    max-height: calc(100% - 40px) !important
-}
-
-.scroller {
-    overflow-x: hidden !important;
-}
-
-.ach-table {
-    width: calc(100% + 40px);
-    margin-left: -20px;
-    margin-right: -20px;
-}
-
-.main-table {
-    max-width: 100%;
-}
-
-.main-table th,
-tr {
-    white-space: wrap;
-    line-height: 26px;
-    font-size: 14px;
-}
-
-.main-table td {
-    height: 50px
-}
-
-.main-table th,
-.main-table td {
-    padding: 12px 12px
-}
-
-.load-ver,
-.load-group {
+.path schedule {
+    background-color: #27363e;
+    width: 80px;
+    border-radius: 9px;
+    border-width: 0px;
     display: flex;
-    flex-wrap: wrap;
     justify-content: center;
-    margin-bottom: 15px;
-}
-
-.load-group {
-    margin-left: -20px;
-    width: calc(100% + 40px);
-}
-
-schedule {
-    display: block;
-    text-align: center;
-    padding: 10px 0px;
-    border: 1px solid #333;
-    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
     cursor: pointer;
-    margin: 5px;
-    font-size: 14px;
 }
 
-.load-ver schedule {
-    width: calc((100% - 50px) / 4);
+.path schedule.active {
+    background-color: #2545ba;
 }
 
-.load-group schedule {
-    width: calc((100% - 45px) / 3);
+.path img {
+    width: 60px;
 }
 
 schedule.active {
@@ -141,31 +82,73 @@ schedule.active {
     color: #fff;
 }
 
-@media screen and (min-width: 800px) {
+section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0px 15px;
+}
 
-    .main-table th,
-    tr {
-        white-space: wrap;
-        line-height: 32px;
+.blessing_card_area {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.card {
+    background-color: #27363e;
+    border-radius: 5px;
+    margin: 5px 0px;
+    padding: 10px;
+    color: #dddddd;
+    width: calc(100% - 20px);
+}
+
+.name {
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.desc {
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 5px;
+    line-height: 2;
+}
+.image {
+    width: calc(100%);
+    margin: 0px 0px 10px 0px;
+}
+
+@media screen and (min-width: 500px) and (max-width: 800px) {
+    .name {
+        font-size: 19px;
+    }
+    .desc {
         font-size: 15px;
     }
-
-    .main-table td {
-        height: 70px
+    .card {
+        width: calc(100% - 40px);
     }
-
-    .main-table th,
-    .main-table td {
-        padding: 10px 20px
+    .image {
+        width: calc(100% - 20px);
+        margin: 10px;
     }
+}
 
-    .load-ver schedule {
-        width: calc((100% - 50px) / 7);
+@media screen and (min-width: 800px) {
+    .name {
+        font-size: 20px;
+    }
+    .desc {
         font-size: 16px;
     }
-
-    .load-group schedule {
-        width: calc((100% - 75px) / 5);
-        font-size: 16px;
+    .card {
+        width: calc(50% - 20px);
+    }
+    .image {
+        width: calc(100% - 20px);
+        margin: 10px;
     }
 }

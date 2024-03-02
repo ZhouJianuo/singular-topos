@@ -15,8 +15,6 @@ var GI = [
                 "CH": "一键查询怪物血量、攻击、抗性",
                 "EN": "Monster HP, ATK, RES.",
                 "RU": "ХП, АТК, сопротивление."
-
-
             },
             {
                 "CH": "一键查询怪物掉球、韧性、重量",
@@ -129,13 +127,7 @@ var GI = [
             "EN": "Achievements",
             "RU": "Достижения"
         },
-        "Features": [
-            {
-                "CH": "成就合辑、隐藏成就、版本新增成就",
-                "EN": "Achievement series, hidden achievements, new achievements.",
-                "RU": "Серии достижений, скрытые и новые достижения."
-            }
-        ],
+        "Features": [],
         "Href": {
             "CH": "/gi/ach",
             "EN": "/gi/ach",
@@ -148,17 +140,25 @@ var GI = [
             "EN": "Loading Tips",
             "RU": "Подсказки на экране загрузки"
         },
-        "Features": [
-            {
-                "CH": "加载提示，地区分类",
-                "EN": "Loading tips and their locations.",
-                "RU": "Подсказки, которые появляются на загрузочном экране."
-            }
-        ],
+        "Features": [],
         "Href": {
             "CH": "/gi/load",
             "EN": "/gi/load",
             "RU": "/gi/load"
+        }
+    },
+    
+    {
+        "Title": {
+            "CH": "地理志",
+            "EN": "Geography Codex",
+            "RU": "География"
+        },
+        "Features": [],
+        "Href": {
+            "CH": "/gi/geo",
+            "EN": "/gi/geo",
+            "RU": "/gi/geo"
         }
     },
     {
@@ -167,13 +167,7 @@ var GI = [
             "EN": "Monster Shields",
             "RU": "Щиты противников"
         },
-        "Features": [
-            {
-                "CH": "怪物护盾、护甲、造物的元素量和血量",
-                "EN": "Monster shield, armor and gadgets' strength and HP.",
-                "RU": "Щиты, броня и устройства противников."
-            }
-        ],
+        "Features": [],
         "Href": {
             "CH": "/gi/shield",
             "EN": "/gi/shield",
