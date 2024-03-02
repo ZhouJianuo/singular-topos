@@ -18011,13 +18011,13 @@ var _Monsters = {
     },
     "43": {
         "_id": 43,
-        "KingdomID": 1,
-        "ClassID": 101012,
+        "KingdomID": 11,
+        "ClassID": 99999,
         "Name": "神秘萨满",
         "Title": [
             "???"
         ],
-        "HP": 11.7785630123,
+        "HP": 11.7785630153,
         "HPCurve": 2,
         "ATK": 0,
         "ATKCurve": 3,
