@@ -167,7 +167,8 @@ var _Kingdoms = [
                     10303,
                     10304,
                     10305,
-                    10306
+                    10306,
+                    43
                 ]
             },
             {
@@ -653,6 +654,13 @@ var _Kingdoms = [
         "ID": 11,
         "Name": "<b>New in 4.4</b>",
         "Classes": [
+            {
+                "ID": 99990,
+                "Name": "Event",
+                "Monsters": [
+                    43
+                ]
+            },
             {
                 "ID": 99991,
                 "Name": "Chenyu Vale",
@@ -17994,6 +18002,35 @@ var _Monsters = {
         "HPCurve": 1,
         "ATK": 42,
         "ATKCurve": 3,
+        "Icon": [
+            "keq"
+        ],
+        "Grade": 4,
+        "Weight": 0,
+        "EndureTemplateID": 0
+    },
+    "43": {
+        "_id": 43,
+        "KingdomID": 1,
+        "ClassID": 101012,
+        "Name": "Mysterious Samachurl",
+        "Title": [
+            "???"
+        ],
+        "HP": 11.7785630123,
+        "HPCurve": 2,
+        "ATK": 0,
+        "ATKCurve": 3,
+        "RESBase": {
+            "Phys": 2.1,
+            "Fire": 2.1,
+            "Water": 2.1,
+            "Elec": 2.1,
+            "Ice": 2.1,
+            "Grass": 2.1,
+            "Wind": 2.1,
+            "Rock": 2.1
+        },
         "Icon": [
             "keq"
         ],

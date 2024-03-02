@@ -415,6 +415,30 @@ app.get('/gi/load', async (req, res) => {
     res.render('load', result);
 });
 
+app.get('/gi/codex', async (req, res) => {
+    let result = {};
+    let { lang = '' } = req.query;
+    result.lang = lang;
+    result.imgpre = '../';
+    res.render('codex', result);
+});
+
+app.get('/gi/geo', async (req, res) => {
+    let result = {};
+    let { lang = '' } = req.query;
+    result.lang = lang;
+    result.imgpre = '../';
+    res.render('codex', result);
+});
+
+app.get('/gi/geography', async (req, res) => {
+    let result = {};
+    let { lang = '' } = req.query;
+    result.lang = lang;
+    result.imgpre = '../';
+    res.render('codex', result);
+});
+
 const PORT = process.env.PORT | 8080
 app.listen(PORT);
 

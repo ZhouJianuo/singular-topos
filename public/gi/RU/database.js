@@ -19785,6 +19785,35 @@ var _Monsters = {
         "Weight": 0,
         "EndureTemplateID": 0
     },
+    "43": {
+        "_id": 43,
+        "KingdomID": 1,
+        "ClassID": 101012,
+        "Name": "Mysterious Samachurl",
+        "Title": [
+            "???"
+        ],
+        "HP": 11.7785630123,
+        "HPCurve": 2,
+        "ATK": 0,
+        "ATKCurve": 3,
+        "RESBase": {
+            "Phys": 2.1,
+            "Fire": 2.1,
+            "Water": 2.1,
+            "Elec": 2.1,
+            "Ice": 2.1,
+            "Grass": 2.1,
+            "Wind": 2.1,
+            "Rock": 2.1
+        },
+        "Icon": [
+            "keq"
+        ],
+        "Grade": 4,
+        "Weight": 0,
+        "EndureTemplateID": 0
+    },
     "4201": {
         "_id": 4201,
         "KingdomID": 1,
