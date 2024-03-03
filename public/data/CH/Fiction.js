@@ -11,11 +11,11 @@ var _fiction = [
         "Buffs": [
             {
                 "Name": "追问",
-                "Desc": "【怪诞逸闻】效果不再需要累计追加攻击造成的伤害值，改为我方每施放<color style='color:#f29e38;'> 3.0 </color>次追加攻击后触发，并使该效果造成的伤害提高<color style='color:#f29e38;'> 40.0% </color>。"
+                "Desc": "【怪诞逸闻】效果不再需要累计追加攻击造成的伤害值，改为我方每施放<color style='color:#f29e38;'> 3.0 </color>次追加攻击后触发，并使该效果造成的伤害提高<color style='color:#f29e38;'> 60.0% </color>。"
             },
             {
                 "Name": "引申",
-                "Desc": "触发【怪诞逸闻】效果时，同时为我方全体恢复等同于能量上限<color style='color:#f29e38;'> 30.0% </color>的能量。该效果恢复的能量可以超出目标的能量上限。"
+                "Desc": "触发【怪诞逸闻】效果时，同时为我方全体恢复等同于能量上限<color style='color:#f29e38;'> 35.0% </color>的能量。该效果恢复的能量可以超出目标的能量上限。"
             },
             {
                 "Name": "归谬",
@@ -53,7 +53,7 @@ var _fiction = [
                                         "ID": 1002050,
                                         "Num": 4,
                                         "Score": 500,
-                                        "HP": 4978,
+                                        "HP": 5744,
                                         "SPD": 100,
                                         "Stance": 2
                                     },
@@ -61,7 +61,7 @@ var _fiction = [
                                         "ID": 1002030,
                                         "Num": 4,
                                         "Score": 500,
-                                        "HP": 9504,
+                                        "HP": 10966,
                                         "SPD": 100,
                                         "Stance": 3
                                     },
@@ -69,7 +69,7 @@ var _fiction = [
                                         "ID": 100301019,
                                         "Num": 2,
                                         "Score": 3000,
-                                        "HP": 24890,
+                                        "HP": 28720,
                                         "SPD": 120,
                                         "Stance": 6
                                     }
@@ -86,7 +86,7 @@ var _fiction = [
                                         "ID": 2002030,
                                         "Num": 5,
                                         "Score": 500,
-                                        "HP": 7833,
+                                        "HP": 9399,
                                         "SPD": 120,
                                         "Stance": 2
                                     },
@@ -94,7 +94,7 @@ var _fiction = [
                                         "ID": 2022060,
                                         "Num": 5,
                                         "Score": 500,
-                                        "HP": 11488,
+                                        "HP": 13786,
                                         "SPD": 83,
                                         "Stance": 3
                                     },
@@ -102,7 +102,7 @@ var _fiction = [
                                         "ID": 800205036,
                                         "Num": 2,
                                         "Score": 2500,
-                                        "HP": 14621,
+                                        "HP": 17545,
                                         "SPD": 120,
                                         "Stance": 3
                                     }
@@ -119,7 +119,7 @@ var _fiction = [
                                         "ID": 1002050,
                                         "Num": 8,
                                         "Score": 500,
-                                        "HP": 9190,
+                                        "HP": 9573,
                                         "SPD": 100,
                                         "Stance": 2
                                     },
@@ -127,7 +127,7 @@ var _fiction = [
                                         "ID": 1002030,
                                         "Num": 8,
                                         "Score": 500,
-                                        "HP": 17545,
+                                        "HP": 18276,
                                         "SPD": 100,
                                         "Stance": 3
                                     },
@@ -135,7 +135,7 @@ var _fiction = [
                                         "ID": 100301019,
                                         "Num": 4,
                                         "Score": 3000,
-                                        "HP": 45952,
+                                        "HP": 47866,
                                         "SPD": 120,
                                         "Stance": 6
                                     }
@@ -159,7 +159,7 @@ var _fiction = [
                                         "ID": 1012030,
                                         "Num": 4,
                                         "Score": 500,
-                                        "HP": 6336,
+                                        "HP": 7310,
                                         "SPD": 100,
                                         "Stance": 2
                                     },
@@ -167,7 +167,7 @@ var _fiction = [
                                         "ID": 1012010,
                                         "Num": 4,
                                         "Score": 500,
-                                        "HP": 6336,
+                                        "HP": 7310,
                                         "SPD": 100,
                                         "Stance": 2
                                     },
@@ -175,7 +175,7 @@ var _fiction = [
                                         "ID": 102301017,
                                         "Num": 2,
                                         "Score": 3000,
-                                        "HP": 24890,
+                                        "HP": 28720,
                                         "SPD": 100,
                                         "Stance": 6
                                     }
@@ -192,7 +192,7 @@ var _fiction = [
                                         "ID": 2012010,
                                         "Num": 5,
                                         "Score": 500,
-                                        "HP": 7833,
+                                        "HP": 9399,
                                         "SPD": 100,
                                         "Stance": 2
                                     },
@@ -200,7 +200,7 @@ var _fiction = [
                                         "ID": 2022110,
                                         "Num": 5,
                                         "Score": 500,
-                                        "HP": 10444,
+                                        "HP": 12532,
                                         "SPD": 100,
                                         "Stance": 3
                                     },
@@ -208,7 +208,7 @@ var _fiction = [
                                         "ID": 800205037,
                                         "Num": 2,
                                         "Score": 2500,
-                                        "HP": 14621,
+                                        "HP": 17545,
                                         "SPD": 120,
                                         "Stance": 3
                                     }
@@ -225,7 +225,7 @@ var _fiction = [
                                         "ID": 1012030,
                                         "Num": 8,
                                         "Score": 500,
-                                        "HP": 11697,
+                                        "HP": 12184,
                                         "SPD": 100,
                                         "Stance": 2
                                     },
@@ -233,7 +233,7 @@ var _fiction = [
                                         "ID": 1012010,
                                         "Num": 8,
                                         "Score": 500,
-                                        "HP": 11697,
+                                        "HP": 12184,
                                         "SPD": 100,
                                         "Stance": 2
                                     },
@@ -241,7 +241,7 @@ var _fiction = [
                                         "ID": 102301017,
                                         "Num": 4,
                                         "Score": 3000,
-                                        "HP": 45952,
+                                        "HP": 47866,
                                         "SPD": 100,
                                         "Stance": 6
                                     }
@@ -281,7 +281,7 @@ var _fiction = [
                                         "ID": 3012020,
                                         "Num": 4,
                                         "Score": 500,
-                                        "HP": 13462,
+                                        "HP": 14424,
                                         "SPD": 100,
                                         "Stance": 2
                                     },
@@ -289,7 +289,7 @@ var _fiction = [
                                         "ID": 1002020,
                                         "Num": 4,
                                         "Score": 500,
-                                        "HP": 14424,
+                                        "HP": 15454,
                                         "SPD": 100,
                                         "Stance": 2
                                     },
@@ -297,7 +297,7 @@ var _fiction = [
                                         "ID": 202302008,
                                         "Num": 2,
                                         "Score": 3000,
-                                        "HP": 52888,
+                                        "HP": 56666,
                                         "SPD": 144,
                                         "Stance": 6
                                     }
@@ -314,7 +314,7 @@ var _fiction = [
                                         "ID": 8032010,
                                         "Num": 7,
                                         "Score": 500,
-                                        "HP": 17584,
+                                        "HP": 21979,
                                         "SPD": 118,
                                         "Stance": 2
                                     },
@@ -322,7 +322,7 @@ var _fiction = [
                                         "ID": 8032020,
                                         "Num": 3,
                                         "Score": 500,
-                                        "HP": 24177,
+                                        "HP": 30222,
                                         "SPD": 100,
                                         "Stance": 3
                                     },
@@ -330,7 +330,7 @@ var _fiction = [
                                         "ID": 800205038,
                                         "Num": 2,
                                         "Score": 2500,
-                                        "HP": 30771,
+                                        "HP": 38464,
                                         "SPD": 120,
                                         "Stance": 3
                                     }
@@ -347,7 +347,7 @@ var _fiction = [
                                         "ID": 3012020,
                                         "Num": 8,
                                         "Score": 500,
-                                        "HP": 25002,
+                                        "HP": 26925,
                                         "SPD": 100,
                                         "Stance": 2
                                     },
@@ -355,7 +355,7 @@ var _fiction = [
                                         "ID": 1002020,
                                         "Num": 8,
                                         "Score": 500,
-                                        "HP": 26787,
+                                        "HP": 28848,
                                         "SPD": 100,
                                         "Stance": 2
                                     },
@@ -363,7 +363,7 @@ var _fiction = [
                                         "ID": 202302008,
                                         "Num": 4,
                                         "Score": 3000,
-                                        "HP": 98221,
+                                        "HP": 105776,
                                         "SPD": 144,
                                         "Stance": 6
                                     }
@@ -387,7 +387,7 @@ var _fiction = [
                                         "ID": 3002010,
                                         "Num": 4,
                                         "Score": 500,
-                                        "HP": 26444,
+                                        "HP": 28333,
                                         "SPD": 100,
                                         "Stance": 3
                                     },
@@ -395,7 +395,7 @@ var _fiction = [
                                         "ID": 1012030,
                                         "Num": 4,
                                         "Score": 500,
-                                        "HP": 13462,
+                                        "HP": 14424,
                                         "SPD": 100,
                                         "Stance": 2
                                     },
@@ -403,7 +403,7 @@ var _fiction = [
                                         "ID": 301301001,
                                         "Num": 2,
                                         "Score": 3000,
-                                        "HP": 38464,
+                                        "HP": 41211,
                                         "SPD": 120,
                                         "Stance": 6
                                     }
@@ -420,7 +420,7 @@ var _fiction = [
                                         "ID": 8012010,
                                         "Num": 5,
                                         "Score": 500,
-                                        "HP": 16485,
+                                        "HP": 20606,
                                         "SPD": 100,
                                         "Stance": 2
                                     },
@@ -428,7 +428,7 @@ var _fiction = [
                                         "ID": 8012020,
                                         "Num": 5,
                                         "Score": 500,
-                                        "HP": 19781,
+                                        "HP": 24727,
                                         "SPD": 120,
                                         "Stance": 2
                                     },
@@ -436,7 +436,7 @@ var _fiction = [
                                         "ID": 800205039,
                                         "Num": 2,
                                         "Score": 2500,
-                                        "HP": 30771,
+                                        "HP": 38464,
                                         "SPD": 120,
                                         "Stance": 3
                                     }
@@ -453,7 +453,7 @@ var _fiction = [
                                         "ID": 3002010,
                                         "Num": 8,
                                         "Score": 500,
-                                        "HP": 49110,
+                                        "HP": 52888,
                                         "SPD": 100,
                                         "Stance": 3
                                     },
@@ -461,7 +461,7 @@ var _fiction = [
                                         "ID": 1012030,
                                         "Num": 8,
                                         "Score": 500,
-                                        "HP": 25002,
+                                        "HP": 26925,
                                         "SPD": 100,
                                         "Stance": 2
                                     },
@@ -469,7 +469,7 @@ var _fiction = [
                                         "ID": 301301001,
                                         "Num": 4,
                                         "Score": 3000,
-                                        "HP": 71433,
+                                        "HP": 76928,
                                         "SPD": 120,
                                         "Stance": 6
                                     }
@@ -509,7 +509,7 @@ var _fiction = [
                                         "ID": 2002010,
                                         "Num": 4,
                                         "Score": 500,
-                                        "HP": 23503,
+                                        "HP": 27119,
                                         "SPD": 132,
                                         "Stance": 2
                                     },
@@ -517,7 +517,7 @@ var _fiction = [
                                         "ID": 2012010,
                                         "Num": 4,
                                         "Score": 500,
-                                        "HP": 22034,
+                                        "HP": 25424,
                                         "SPD": 110,
                                         "Stance": 2
                                     },
@@ -525,7 +525,7 @@ var _fiction = [
                                         "ID": 801301019,
                                         "Num": 2,
                                         "Score": 3000,
-                                        "HP": 80791,
+                                        "HP": 93220,
                                         "SPD": 110,
                                         "Stance": 6
                                     }
@@ -542,7 +542,7 @@ var _fiction = [
                                         "ID": 1002050,
                                         "Num": 5,
                                         "Score": 500,
-                                        "HP": 18644,
+                                        "HP": 22373,
                                         "SPD": 110,
                                         "Stance": 2
                                     },
@@ -550,7 +550,7 @@ var _fiction = [
                                         "ID": 1002030,
                                         "Num": 5,
                                         "Score": 500,
-                                        "HP": 35593,
+                                        "HP": 42712,
                                         "SPD": 110,
                                         "Stance": 3
                                     },
@@ -558,7 +558,7 @@ var _fiction = [
                                         "ID": 800205040,
                                         "Num": 2,
                                         "Score": 2500,
-                                        "HP": 47458,
+                                        "HP": 56949,
                                         "SPD": 128,
                                         "Stance": 3
                                     }
@@ -575,7 +575,7 @@ var _fiction = [
                                         "ID": 2002010,
                                         "Num": 8,
                                         "Score": 500,
-                                        "HP": 43390,
+                                        "HP": 45198,
                                         "SPD": 132,
                                         "Stance": 2
                                     },
@@ -583,7 +583,7 @@ var _fiction = [
                                         "ID": 2012010,
                                         "Num": 8,
                                         "Score": 500,
-                                        "HP": 40678,
+                                        "HP": 42373,
                                         "SPD": 110,
                                         "Stance": 2
                                     },
@@ -591,7 +591,7 @@ var _fiction = [
                                         "ID": 801301019,
                                         "Num": 4,
                                         "Score": 3000,
-                                        "HP": 149152,
+                                        "HP": 155367,
                                         "SPD": 110,
                                         "Stance": 6
                                     }
@@ -615,7 +615,7 @@ var _fiction = [
                                         "ID": 1022020,
                                         "Num": 4,
                                         "Score": 500,
-                                        "HP": 22034,
+                                        "HP": 25424,
                                         "SPD": 110,
                                         "Stance": 2
                                     },
@@ -623,7 +623,7 @@ var _fiction = [
                                         "ID": 8002010,
                                         "Num": 4,
                                         "Score": 500,
-                                        "HP": 27910,
+                                        "HP": 32203,
                                         "SPD": 132,
                                         "Stance": 2
                                     },
@@ -631,7 +631,7 @@ var _fiction = [
                                         "ID": 800304010,
                                         "Num": 2,
                                         "Score": 3000,
-                                        "HP": 73446,
+                                        "HP": 84746,
                                         "SPD": 161,
                                         "Stance": 6
                                     }
@@ -648,7 +648,7 @@ var _fiction = [
                                         "ID": 3002010,
                                         "Num": 5,
                                         "Score": 500,
-                                        "HP": 46610,
+                                        "HP": 55932,
                                         "SPD": 110,
                                         "Stance": 3
                                     },
@@ -656,7 +656,7 @@ var _fiction = [
                                         "ID": 3002030,
                                         "Num": 5,
                                         "Score": 500,
-                                        "HP": 38136,
+                                        "HP": 45763,
                                         "SPD": 110,
                                         "Stance": 3
                                     },
@@ -664,7 +664,7 @@ var _fiction = [
                                         "ID": 800205041,
                                         "Num": 2,
                                         "Score": 2500,
-                                        "HP": 47458,
+                                        "HP": 56949,
                                         "SPD": 128,
                                         "Stance": 3
                                     }
@@ -681,7 +681,7 @@ var _fiction = [
                                         "ID": 1022020,
                                         "Num": 8,
                                         "Score": 500,
-                                        "HP": 40678,
+                                        "HP": 42373,
                                         "SPD": 110,
                                         "Stance": 2
                                     },
@@ -689,7 +689,7 @@ var _fiction = [
                                         "ID": 8002010,
                                         "Num": 8,
                                         "Score": 500,
-                                        "HP": 51525,
+                                        "HP": 53672,
                                         "SPD": 132,
                                         "Stance": 2
                                     },
@@ -697,7 +697,7 @@ var _fiction = [
                                         "ID": 800304010,
                                         "Num": 4,
                                         "Score": 3000,
-                                        "HP": 135593,
+                                        "HP": 141243,
                                         "SPD": 161,
                                         "Stance": 6
                                     }
@@ -737,7 +737,7 @@ var _fiction = [
                                         "ID": 1002020,
                                         "Num": 4,
                                         "Score": 500,
-                                        "HP": 36768,
+                                        "HP": 39394,
                                         "SPD": 120,
                                         "Stance": 2
                                     },
@@ -745,7 +745,7 @@ var _fiction = [
                                         "ID": 8032020,
                                         "Num": 4,
                                         "Score": 500,
-                                        "HP": 53926,
+                                        "HP": 57778,
                                         "SPD": 120,
                                         "Stance": 3
                                     },
@@ -753,7 +753,7 @@ var _fiction = [
                                         "ID": 202302008,
                                         "Num": 2,
                                         "Score": 3000,
-                                        "HP": 134816,
+                                        "HP": 144445,
                                         "SPD": 173,
                                         "Stance": 6
                                     }
@@ -770,7 +770,7 @@ var _fiction = [
                                         "ID": 2022060,
                                         "Num": 5,
                                         "Score": 500,
-                                        "HP": 61630,
+                                        "HP": 77037,
                                         "SPD": 100,
                                         "Stance": 3
                                     },
@@ -778,7 +778,7 @@ var _fiction = [
                                         "ID": 202205004,
                                         "Num": 5,
                                         "Score": 500,
-                                        "HP": 56027,
+                                        "HP": 70034,
                                         "SPD": 120,
                                         "Stance": 3
                                     },
@@ -786,7 +786,7 @@ var _fiction = [
                                         "ID": 800205042,
                                         "Num": 2,
                                         "Score": 2500,
-                                        "HP": 78438,
+                                        "HP": 98048,
                                         "SPD": 137,
                                         "Stance": 3
                                     }
@@ -843,7 +843,7 @@ var _fiction = [
                                         "ID": 1012010,
                                         "Num": 4,
                                         "Score": 500,
-                                        "HP": 34317,
+                                        "HP": 36768,
                                         "SPD": 120,
                                         "Stance": 2
                                     },
@@ -851,7 +851,7 @@ var _fiction = [
                                         "ID": 1012030,
                                         "Num": 4,
                                         "Score": 500,
-                                        "HP": 34317,
+                                        "HP": 36768,
                                         "SPD": 120,
                                         "Stance": 2
                                     },
@@ -859,7 +859,7 @@ var _fiction = [
                                         "ID": 101302028,
                                         "Num": 2,
                                         "Score": 3000,
-                                        "HP": 134816,
+                                        "HP": 144445,
                                         "SPD": 173,
                                         "Stance": 6
                                     }
@@ -876,7 +876,7 @@ var _fiction = [
                                         "ID": 3002010,
                                         "Num": 5,
                                         "Score": 500,
-                                        "HP": 77037,
+                                        "HP": 96297,
                                         "SPD": 120,
                                         "Stance": 3
                                     },
@@ -884,7 +884,7 @@ var _fiction = [
                                         "ID": 2012010,
                                         "Num": 5,
                                         "Score": 500,
-                                        "HP": 42020,
+                                        "HP": 52526,
                                         "SPD": 120,
                                         "Stance": 2
                                     },
@@ -892,7 +892,7 @@ var _fiction = [
                                         "ID": 800205043,
                                         "Num": 2,
                                         "Score": 2500,
-                                        "HP": 78438,
+                                        "HP": 98048,
                                         "SPD": 137,
                                         "Stance": 3
                                     }
@@ -951,7 +951,7 @@ var _fiction = [
             },
             {
                 "Name": "殉爆",
-                "Desc": "敌方目标施放技能时使自身及相邻目标陷入1层【灼伤】。处于【灼伤】状态中的敌方目标受到的伤害提高<color style='color:#f29e38;'> 15.0% </color>，该效果最多叠加<color style='color:#f29e38;'> 3.0 </color>层，且对触发怪诞逸闻效果造成的固定伤害也生效。"
+                "Desc": "敌方目标施放技能时使自身及相邻目标陷入1层【灼伤】。处于【灼伤】状态中的敌方目标受到的伤害提高<color style='color:#f29e38;'> 12.0% </color>，该效果最多叠加<color style='color:#f29e38;'> 3.0 </color>层，且对触发怪诞逸闻效果造成的固定伤害也生效。"
             },
             {
                 "Name": "喷溅",
@@ -989,7 +989,7 @@ var _fiction = [
                                         "ID": 2022020,
                                         "Num": 4,
                                         "Score": 500,
-                                        "HP": 5848,
+                                        "HP": 6266,
                                         "SPD": 100,
                                         "Stance": 2
                                     },
@@ -997,7 +997,7 @@ var _fiction = [
                                         "ID": 2012010,
                                         "Num": 4,
                                         "Score": 500,
-                                        "HP": 7310,
+                                        "HP": 7833,
                                         "SPD": 100,
                                         "Stance": 2
                                     },
@@ -1005,7 +1005,7 @@ var _fiction = [
                                         "ID": 201302006,
                                         "Num": 2,
                                         "Score": 3000,
-                                        "HP": 24368,
+                                        "HP": 26109,
                                         "SPD": 120,
                                         "Stance": 6
                                     }
@@ -1022,7 +1022,7 @@ var _fiction = [
                                         "ID": 1002030,
                                         "Num": 5,
                                         "Score": 500,
-                                        "HP": 11697,
+                                        "HP": 13159,
                                         "SPD": 100,
                                         "Stance": 3
                                     },
@@ -1030,7 +1030,7 @@ var _fiction = [
                                         "ID": 1002050,
                                         "Num": 5,
                                         "Score": 500,
-                                        "HP": 6127,
+                                        "HP": 6893,
                                         "SPD": 100,
                                         "Stance": 2
                                     },
@@ -1038,7 +1038,7 @@ var _fiction = [
                                         "ID": 800205028,
                                         "Num": 2,
                                         "Score": 2500,
-                                        "HP": 15596,
+                                        "HP": 17545,
                                         "SPD": 120,
                                         "Stance": 3
                                     }
@@ -1055,7 +1055,7 @@ var _fiction = [
                                         "ID": 2022020,
                                         "Num": 8,
                                         "Score": 500,
-                                        "HP": 10026,
+                                        "HP": 10444,
                                         "SPD": 100,
                                         "Stance": 2
                                     },
@@ -1063,7 +1063,7 @@ var _fiction = [
                                         "ID": 2012010,
                                         "Num": 8,
                                         "Score": 500,
-                                        "HP": 12532,
+                                        "HP": 13054,
                                         "SPD": 100,
                                         "Stance": 2
                                     },
@@ -1071,7 +1071,7 @@ var _fiction = [
                                         "ID": 201302006,
                                         "Num": 4,
                                         "Score": 3000,
-                                        "HP": 41774,
+                                        "HP": 43515,
                                         "SPD": 120,
                                         "Stance": 6
                                     }
@@ -1095,7 +1095,7 @@ var _fiction = [
                                         "ID": 1012021,
                                         "Num": 4,
                                         "Score": 500,
-                                        "HP": 3655,
+                                        "HP": 3916,
                                         "SPD": 83,
                                         "Stance": 2
                                     },
@@ -1103,7 +1103,7 @@ var _fiction = [
                                         "ID": 1002020,
                                         "Num": 4,
                                         "Score": 500,
-                                        "HP": 7310,
+                                        "HP": 7833,
                                         "SPD": 100,
                                         "Stance": 2
                                     },
@@ -1111,7 +1111,7 @@ var _fiction = [
                                         "ID": 101301023,
                                         "Num": 2,
                                         "Score": 3000,
-                                        "HP": 26805,
+                                        "HP": 28720,
                                         "SPD": 120,
                                         "Stance": 6
                                     }
@@ -1128,7 +1128,7 @@ var _fiction = [
                                         "ID": 8012010,
                                         "Num": 5,
                                         "Score": 500,
-                                        "HP": 8355,
+                                        "HP": 9399,
                                         "SPD": 100,
                                         "Stance": 2
                                     },
@@ -1136,7 +1136,7 @@ var _fiction = [
                                         "ID": 8012030,
                                         "Num": 5,
                                         "Score": 500,
-                                        "HP": 11697,
+                                        "HP": 13159,
                                         "SPD": 100,
                                         "Stance": 3
                                     },
@@ -1144,7 +1144,7 @@ var _fiction = [
                                         "ID": 800205029,
                                         "Num": 2,
                                         "Score": 2500,
-                                        "HP": 15596,
+                                        "HP": 17545,
                                         "SPD": 120,
                                         "Stance": 3
                                     }
@@ -1161,7 +1161,7 @@ var _fiction = [
                                         "ID": 1012021,
                                         "Num": 8,
                                         "Score": 500,
-                                        "HP": 6266,
+                                        "HP": 6527,
                                         "SPD": 83,
                                         "Stance": 2
                                     },
@@ -1169,7 +1169,7 @@ var _fiction = [
                                         "ID": 1002020,
                                         "Num": 8,
                                         "Score": 500,
-                                        "HP": 12532,
+                                        "HP": 13054,
                                         "SPD": 100,
                                         "Stance": 2
                                     },
@@ -1177,7 +1177,7 @@ var _fiction = [
                                         "ID": 101301023,
                                         "Num": 4,
                                         "Score": 3000,
-                                        "HP": 45952,
+                                        "HP": 47866,
                                         "SPD": 120,
                                         "Stance": 6
                                     }
@@ -1250,7 +1250,7 @@ var _fiction = [
                                         "ID": 2002030,
                                         "Num": 7,
                                         "Score": 500,
-                                        "HP": 17515,
+                                        "HP": 20606,
                                         "SPD": 120,
                                         "Stance": 2
                                     },
@@ -1258,7 +1258,7 @@ var _fiction = [
                                         "ID": 3002040,
                                         "Num": 3,
                                         "Score": 500,
-                                        "HP": 20434,
+                                        "HP": 24040,
                                         "SPD": 80,
                                         "Stance": 3
                                     },
@@ -1266,7 +1266,7 @@ var _fiction = [
                                         "ID": 800205030,
                                         "Num": 2,
                                         "Score": 2500,
-                                        "HP": 32694,
+                                        "HP": 38464,
                                         "SPD": 120,
                                         "Stance": 3
                                     }
@@ -1283,7 +1283,7 @@ var _fiction = [
                                         "ID": 1022020,
                                         "Num": 8,
                                         "Score": 500,
-                                        "HP": 26787,
+                                        "HP": 28848,
                                         "SPD": 100,
                                         "Stance": 2
                                     },
@@ -1291,7 +1291,7 @@ var _fiction = [
                                         "ID": 1002040,
                                         "Num": 8,
                                         "Score": 500,
-                                        "HP": 23216,
+                                        "HP": 25002,
                                         "SPD": 83,
                                         "Stance": 2
                                     },
@@ -1299,7 +1299,7 @@ var _fiction = [
                                         "ID": 800303015,
                                         "Num": 4,
                                         "Score": 3000,
-                                        "HP": 98221,
+                                        "HP": 105776,
                                         "SPD": 120,
                                         "Stance": 6
                                     }
@@ -1356,7 +1356,7 @@ var _fiction = [
                                         "ID": 3012020,
                                         "Num": 5,
                                         "Score": 500,
-                                        "HP": 16347,
+                                        "HP": 19232,
                                         "SPD": 100,
                                         "Stance": 2
                                     },
@@ -1364,7 +1364,7 @@ var _fiction = [
                                         "ID": 3002010,
                                         "Num": 5,
                                         "Score": 500,
-                                        "HP": 32111,
+                                        "HP": 37777,
                                         "SPD": 100,
                                         "Stance": 3
                                     },
@@ -1372,7 +1372,7 @@ var _fiction = [
                                         "ID": 800205031,
                                         "Num": 2,
                                         "Score": 2500,
-                                        "HP": 32694,
+                                        "HP": 38464,
                                         "SPD": 120,
                                         "Stance": 3
                                     }
@@ -1389,7 +1389,7 @@ var _fiction = [
                                         "ID": 2022110,
                                         "Num": 8,
                                         "Score": 500,
-                                        "HP": 35717,
+                                        "HP": 38464,
                                         "SPD": 100,
                                         "Stance": 3
                                     },
@@ -1397,7 +1397,7 @@ var _fiction = [
                                         "ID": 2022060,
                                         "Num": 8,
                                         "Score": 500,
-                                        "HP": 39288,
+                                        "HP": 42310,
                                         "SPD": 83,
                                         "Stance": 3
                                     },
@@ -1405,7 +1405,7 @@ var _fiction = [
                                         "ID": 202303009,
                                         "Num": 4,
                                         "Score": 3000,
-                                        "HP": 98221,
+                                        "HP": 105776,
                                         "SPD": 120,
                                         "Stance": 6
                                     }
@@ -1445,7 +1445,7 @@ var _fiction = [
                                         "ID": 8032020,
                                         "Num": 4,
                                         "Score": 500,
-                                        "HP": 34802,
+                                        "HP": 37288,
                                         "SPD": 110,
                                         "Stance": 3
                                     },
@@ -1453,7 +1453,7 @@ var _fiction = [
                                         "ID": 3002030,
                                         "Num": 4,
                                         "Score": 500,
-                                        "HP": 35593,
+                                        "HP": 38136,
                                         "SPD": 110,
                                         "Stance": 3
                                     },
@@ -1461,7 +1461,7 @@ var _fiction = [
                                         "ID": 300302003,
                                         "Num": 2,
                                         "Score": 3000,
-                                        "HP": 94915,
+                                        "HP": 101695,
                                         "SPD": 158,
                                         "Stance": 6
                                     }
@@ -1478,7 +1478,7 @@ var _fiction = [
                                         "ID": 1022010,
                                         "Num": 5,
                                         "Score": 500,
-                                        "HP": 27119,
+                                        "HP": 30508,
                                         "SPD": 110,
                                         "Stance": 2
                                     },
@@ -1486,7 +1486,7 @@ var _fiction = [
                                         "ID": 1002020,
                                         "Num": 5,
                                         "Score": 500,
-                                        "HP": 27119,
+                                        "HP": 30508,
                                         "SPD": 110,
                                         "Stance": 2
                                     },
@@ -1494,7 +1494,7 @@ var _fiction = [
                                         "ID": 800205032,
                                         "Num": 2,
                                         "Score": 2500,
-                                        "HP": 50621,
+                                        "HP": 56949,
                                         "SPD": 128,
                                         "Stance": 3
                                     }
@@ -1511,7 +1511,7 @@ var _fiction = [
                                         "ID": 8032020,
                                         "Num": 8,
                                         "Score": 500,
-                                        "HP": 59661,
+                                        "HP": 62147,
                                         "SPD": 110,
                                         "Stance": 3
                                     },
@@ -1519,7 +1519,7 @@ var _fiction = [
                                         "ID": 3002030,
                                         "Num": 8,
                                         "Score": 500,
-                                        "HP": 61017,
+                                        "HP": 63559,
                                         "SPD": 110,
                                         "Stance": 3
                                     },
@@ -1527,7 +1527,7 @@ var _fiction = [
                                         "ID": 300302003,
                                         "Num": 4,
                                         "Score": 3000,
-                                        "HP": 162712,
+                                        "HP": 169491,
                                         "SPD": 158,
                                         "Stance": 6
                                     }
@@ -1551,7 +1551,7 @@ var _fiction = [
                                         "ID": 1012030,
                                         "Num": 4,
                                         "Score": 500,
-                                        "HP": 22147,
+                                        "HP": 23729,
                                         "SPD": 110,
                                         "Stance": 2
                                     },
@@ -1559,7 +1559,7 @@ var _fiction = [
                                         "ID": 1012010,
                                         "Num": 4,
                                         "Score": 500,
-                                        "HP": 22147,
+                                        "HP": 23729,
                                         "SPD": 110,
                                         "Stance": 2
                                     },
@@ -1567,7 +1567,7 @@ var _fiction = [
                                         "ID": 101302028,
                                         "Num": 2,
                                         "Score": 3000,
-                                        "HP": 87006,
+                                        "HP": 93220,
                                         "SPD": 158,
                                         "Stance": 6
                                     }
@@ -1584,7 +1584,7 @@ var _fiction = [
                                         "ID": 8012010,
                                         "Num": 5,
                                         "Score": 500,
-                                        "HP": 27119,
+                                        "HP": 30508,
                                         "SPD": 110,
                                         "Stance": 2
                                     },
@@ -1592,7 +1592,7 @@ var _fiction = [
                                         "ID": 8012020,
                                         "Num": 5,
                                         "Score": 500,
-                                        "HP": 32542,
+                                        "HP": 36610,
                                         "SPD": 132,
                                         "Stance": 2
                                     },
@@ -1600,7 +1600,7 @@ var _fiction = [
                                         "ID": 800205033,
                                         "Num": 2,
                                         "Score": 2500,
-                                        "HP": 50621,
+                                        "HP": 56949,
                                         "SPD": 128,
                                         "Stance": 3
                                     }
@@ -1617,7 +1617,7 @@ var _fiction = [
                                         "ID": 1012030,
                                         "Num": 8,
                                         "Score": 500,
-                                        "HP": 37966,
+                                        "HP": 39548,
                                         "SPD": 110,
                                         "Stance": 2
                                     },
@@ -1625,7 +1625,7 @@ var _fiction = [
                                         "ID": 1012010,
                                         "Num": 8,
                                         "Score": 500,
-                                        "HP": 37966,
+                                        "HP": 39548,
                                         "SPD": 110,
                                         "Stance": 2
                                     },
@@ -1633,7 +1633,7 @@ var _fiction = [
                                         "ID": 101302028,
                                         "Num": 4,
                                         "Score": 3000,
-                                        "HP": 149152,
+                                        "HP": 155367,
                                         "SPD": 158,
                                         "Stance": 6
                                     }
@@ -1706,7 +1706,7 @@ var _fiction = [
                                         "ID": 3002030,
                                         "Num": 5,
                                         "Score": 500,
-                                        "HP": 66970,
+                                        "HP": 78788,
                                         "SPD": 120,
                                         "Stance": 3
                                     },
@@ -1714,7 +1714,7 @@ var _fiction = [
                                         "ID": 2002030,
                                         "Num": 5,
                                         "Score": 500,
-                                        "HP": 44647,
+                                        "HP": 52526,
                                         "SPD": 144,
                                         "Stance": 2
                                     },
@@ -1722,7 +1722,7 @@ var _fiction = [
                                         "ID": 800205034,
                                         "Num": 2,
                                         "Score": 2500,
-                                        "HP": 83341,
+                                        "HP": 98048,
                                         "SPD": 137,
                                         "Stance": 3
                                     }
@@ -1812,7 +1812,7 @@ var _fiction = [
                                         "ID": 3002030,
                                         "Num": 7,
                                         "Score": 500,
-                                        "HP": 66970,
+                                        "HP": 78788,
                                         "SPD": 120,
                                         "Stance": 3
                                     },
@@ -1820,7 +1820,7 @@ var _fiction = [
                                         "ID": 3002040,
                                         "Num": 3,
                                         "Score": 500,
-                                        "HP": 52088,
+                                        "HP": 61280,
                                         "SPD": 96,
                                         "Stance": 3
                                     },
@@ -1828,7 +1828,7 @@ var _fiction = [
                                         "ID": 800205035,
                                         "Num": 2,
                                         "Score": 2500,
-                                        "HP": 83341,
+                                        "HP": 98048,
                                         "SPD": 137,
                                         "Stance": 3
                                     }
@@ -5125,8 +5125,8 @@ var _fictionhp = {
             1101866,
             1057724,
             984202,
-            1132361,
-            1223290
+            1206441,
+            1336637
         ],
         "Index": {
             "2001": 0,
@@ -5148,8 +5148,8 @@ var _fictionhp = {
             2268004,
             2079805,
             2349053,
-            2857946,
-            2639731
+            3093607,
+            2926838
         ],
         "Index": {
             "2001": 0,
@@ -5171,8 +5171,8 @@ var _fictionhp = {
             4237281,
             3566096,
             5368352,
-            4414908,
-            4124287
+            4687676,
+            4513665
         ],
         "Index": {
             "2001": 0,
@@ -5194,8 +5194,8 @@ var _fictionhp = {
             5931885,
             6282615,
             6639229,
-            7572695,
-            7900192
+            7840313,
+            8358565
         ],
         "Index": {
             "2001": 0,

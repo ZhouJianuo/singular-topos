@@ -3,7 +3,7 @@
 var _event = [
     {
         "_id": 50010,
-        "Icon": "BtnQuestTelevision.png",
+        "Icon": "BtnQuestFeverTime.png",
         "Name": "Tides of War",
         "Desc": "A researcher from the Maintenance Department unexpectedly made a fighting game inside the Memory Bubble. He invites you to come and play...",
         "Story": "◆ Introduction ◆<br>A researcher from the Maintenance Department is your \"Fanboy.\" He used Memory Bubbles to recreate his favorite childhood game. He specifically asked someone to invite you to play it, even preparing a \"support function\" for you. It really is too kind to refuse...<br><br>◆ Event Rules ◆<br>● In this event, 6 combat stages will be unlocked one by one.<br>● When the Trailblazer increases their Equilibrium Level, enemies will correspondingly increase in strength.<br>● Trailblazers can select trial characters to take part in the challenge.<br>● In combat, you must defeat 3 waves of Boss Enemies within 6 Cycles. Non-boss enemies will also constantly appear.<br>● A higher rating can be achieved if there are Cycles remaining when the stage is cleared.<br>● Energy regenerated when an ally defeats an enemy is equal to 50% of that of normal combat.<br><br>◆ Gameplay Overview ◆<br>● Each stage has its own Grit Mechanics. Trigger it to quickly accumulate and increase Grit Value, increase your Grit Phase, and obtain more buffs.<br>● After entering Grit Phase 4: Might Unleashed, you will obtain powerful Stage Buffs to defeat enemies!<br><br>◆ Grit Value ◆<br>● Grit Value is accumulated each time Grit Mechanics are triggered during battle.<br>● Characters can accumulate a small amount of Grit Value each time they take action.<br>● Once your Grit Value reaches the target value, you can raise your Grit Phase.<br>● The amount of Grit Value required to raise your Grit Phase in each stage is different. You can check it in the stage.<br><br>◆ Grit Phase ◆<br>● There are 4 Grit Phases. Every time you reach the next phase, you can activate an additional support function to obtain more Stage Buffs.<br>● Enter Grit Phase 4: Might Unleashed to gain powerful buffs. The support function active in this phase is the core buff for this stage and is added by default and cannot be selected.<br>● For each stage, the support functions in Grit Phase 2 and Grit Phase 3 need to be selected before entering battle.<br>● Grit Phase 4: Might Unleashed will end within a certain amount of action value and combat will return to Grit Phase 3 when this ends.<br>● During Grit Phase 4: Might Unleashed, each attack against an enemy accumulates Limit-Broken Attack. Based on the number of Limit-Broken Attacks accumulated, a certain amount of Grit Value will be returned when you return to Grit Phase 3, helping you to quickly re-enter Grit Phase 4: Might Unleashed.<br><br>◆ Event Rewards ◆<br>● During the event, increase Grit Phase to a certain Phase in each stage and defeat the stage boss to claim stage rewards from \"Limited-Time Rewards.\"<br>● Challenge all stages and defeat the first wave of bosses in all stages to claim Bob's Offering.",
@@ -750,15 +750,6 @@ var _event = [
         "Story": "When logging into the game during the event period, Trailblazers can obtain rewards from the Travel Log: Star Rail Special Pass ×10",
         "Reward": [],
         "Ver": "1.x"
-    },
-    {
-        "_id": 10047,
-        "Icon": "BtnSevenDayVersion0200.png",
-        "Name": "Gift of Odyssey",
-        "Desc": "",
-        "Story": "◆ Event Rules ◆<br>Trailblazers can receive daily rewards in the Travel Log after logging in to the game each day.<br><br>◆ Event Rewards ◆<br>The rewards will be unlocked in sequential order according to the Trailblazer's accrued login days. Daily rewards will be refreshed at 04:00 AM (server time) every day.",
-        "Reward": [],
-        "Ver": "2.0"
     },
     {
         "_id": 10043,

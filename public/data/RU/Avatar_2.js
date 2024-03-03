@@ -23489,106 +23489,91 @@ var _avatarskill = {
                     0.18,
                     90.0,
                     3.0,
-                    0.27,
-                    180.0
+                    2.0
                 ],
                 [
                     0.19125,
                     144.0,
                     3.0,
-                    0.30375,
-                    288.0
+                    2.0
                 ],
                 [
                     0.2025,
                     184.5,
                     3.0,
-                    0.3375,
-                    369.0
+                    2.0
                 ],
                 [
                     0.21375,
                     225.0,
                     3.0,
-                    0.37125,
-                    450.0
+                    2.0
                 ],
                 [
                     0.225,
                     252.0,
                     3.0,
-                    0.405,
-                    504.0
+                    2.0
                 ],
                 [
                     0.234,
                     279.0,
                     3.0,
-                    0.432,
-                    558.0
+                    2.0
                 ],
                 [
                     0.243,
                     299.25,
                     3.0,
-                    0.459,
-                    598.5
+                    2.0
                 ],
                 [
                     0.252,
                     319.5,
                     3.0,
-                    0.486,
-                    639.0
+                    2.0
                 ],
                 [
                     0.261,
                     339.75,
                     3.0,
-                    0.513,
-                    679.5
+                    2.0
                 ],
                 [
                     0.27,
                     360.0,
                     3.0,
-                    0.54,
-                    720.0
+                    2.0
                 ],
                 [
                     0.279,
                     380.25,
                     3.0,
-                    0.567,
-                    760.5
+                    2.0
                 ],
                 [
                     0.288,
                     400.5,
                     3.0,
-                    0.594,
-                    801.0
+                    2.0
                 ],
                 [
                     0.297,
                     420.75,
                     3.0,
-                    0.621,
-                    841.5
+                    2.0
                 ],
                 [
                     0.306,
                     441.0,
                     3.0,
-                    0.648,
-                    882.0
+                    2.0
                 ],
                 [
                     0.315,
                     461.25,
                     3.0,
-                    0.675,
-                    922.5
+                    2.0
                 ]
             ],
             "BP": -1,
@@ -24418,7 +24403,7 @@ var _avatarskill = {
                     0.24,
                     0.36,
                     0.6,
-                    2.0
+                    3.0
                 ]
             ],
             "BP": 0,
@@ -25354,63 +25339,63 @@ var _avatarskill = {
             "Params": [
                 [
                     0.06,
-                    65.0
+                    80.0
                 ],
                 [
                     0.066,
-                    110.5
+                    136.0
                 ],
                 [
                     0.072,
-                    156.0
+                    192.0
                 ],
                 [
                     0.078,
-                    219.7
+                    270.4
                 ],
                 [
                     0.084,
-                    269.75
+                    332.0
                 ],
                 [
                     0.09,
-                    319.8
+                    393.6
                 ],
                 [
                     0.0975,
-                    369.85
+                    455.2
                 ],
                 [
                     0.105,
-                    419.9
+                    516.8
                 ],
                 [
                     0.1125,
-                    469.95
+                    578.4
                 ],
                 [
                     0.12,
-                    520.0
+                    640.0
                 ],
                 [
                     0.126,
-                    547.3
+                    673.6
                 ],
                 [
                     0.132,
-                    574.6
+                    707.2
                 ],
                 [
                     0.138,
-                    601.9
+                    740.8
                 ],
                 [
                     0.144,
-                    629.2
+                    774.4
                 ],
                 [
                     0.15,
-                    656.5
+                    808.0
                 ]
             ],
             "BP": 0,
@@ -29281,7 +29266,7 @@ var _avatarskilltree = {
             },
             "Tree1": {
                 "Name": "Leverage",
-                "Desc": "If Aventurine's DEF is higher than <b><color style='color:#f29e38'>1600.0</color></b>, then his own CRIT Rate increases by <b><color style='color:#f29e38'>2.0%</color></b> for every <b><color style='color:#f29e38'>100</color></b> DEF exceeding that value, up to an increase of <b><color style='color:#f29e38'>40.0%</color></b>.",
+                "Desc": "If Aventurine's DEF is higher than <b><color style='color:#f29e38'>1600.0</color></b>, then his own CRIT Rate increases by <b><color style='color:#f29e38'>2.0%</color></b> for every <b><color style='color:#f29e38'>100</color></b> DEF exceeding that value, up to an increase of <b><color style='color:#f29e38'>48.0%</color></b>.",
                 "Icon": "SkillIcon_1304_SkillTree1"
             },
             "Tree2": {
@@ -29291,7 +29276,7 @@ var _avatarskilltree = {
             },
             "Tree3": {
                 "Name": "Bingo!",
-                "Desc": "Aventurine accumulates 1 Blind Bet after an ally with Fortified Wager launches a follow-up attack. This effect can be triggered a maximum of <b><color style='color:#f29e38'>1.0</color></b> time(s). This effect's trigger count is reset at the start of Aventurine's turn. After Aventurine launches a follow-up attack from his Talent, provides Fortified Wager to all allies and blocks DMG equal to <b><color style='color:#f29e38'>7.2%</color></b> of Aventurine's DEF + <b><color style='color:#f29e38'>96.0</color></b> DMG, and additionally provides Fortified Wager that can block DMG equal to <b><color style='color:#f29e38'>7.2%</color></b> of Aventurine's DEF + <b><color style='color:#f29e38'>96.0</color></b> DMG to the ally with the lowest current Shield effect, lasting for 3 turns.",
+                "Desc": "Aventurine accumulates 1 Blind Bet after an ally with Fortified Wager launches a follow-up attack. This effect can be triggered a maximum of <b><color style='color:#f29e38'>3.0</color></b> time(s). This effect's trigger count is reset at the start of Aventurine's turn. After Aventurine launches a follow-up attack from his Talent, provides Fortified Wager to all allies and blocks DMG equal to <b><color style='color:#f29e38'>7.2%</color></b> of Aventurine's DEF + <b><color style='color:#f29e38'>96.0</color></b> DMG, and additionally provides Fortified Wager that can block DMG equal to <b><color style='color:#f29e38'>7.2%</color></b> of Aventurine's DEF + <b><color style='color:#f29e38'>96.0</color></b> DMG to the ally with the lowest current Shield effect, lasting for 3 turns.",
                 "Icon": "SkillIcon_1304_SkillTree3"
             }
         }
@@ -29343,13 +29328,13 @@ var _avatarskilltree = {
         },
         "v3": {
             "Add": {
-                "BreakDamageAddedRatioBase": 0.373,
-                "HPAddedRatio": 0.1,
-                "StatusResistanceBase": 0.18
+                "StatusResistanceBase": 0.28,
+                "BreakDamageAddedRatioBase": 0.133,
+                "HPAddedRatio": 0.18
             },
             "Tree1": {
                 "Name": "Novel Concoction",
-                "Desc": "Increases Outgoing Healing of this unit by an amount equal to <b><color style='color:#f29e38'>30.0%</color></b> of Break Effect, up to a maximum Outgoing Healing increase of <b><color style='color:#f29e38'>75.0%</color></b>.",
+                "Desc": "Increases Outgoing Healing of this unit by an amount equal to <b><color style='color:#f29e38'>50.0%</color></b> of Break Effect, up to a maximum Outgoing Healing increase of <b><color style='color:#f29e38'>75.0%</color></b>.",
                 "Icon": "SkillIcon_1301_SkillTree1"
             },
             "Tree2": {
@@ -32071,7 +32056,7 @@ var _avatarrank = {
         "v3": {
             "Rank": 1,
             "Name": "Prisoner's Dilemma",
-            "Desc": "Increases CRIT DMG for allies with Fortified Wager by <b><color style='color:#f29e38'>20.0%</color></b>. The Blind Bet effect obtained from the Trace \"Bingo!\" no longer has a trigger limit. Requires the Trace \"Bingo!\" to be unlocked first.",
+            "Desc": "Increases CRIT DMG for allies with Fortified Wager by <b><color style='color:#f29e38'>20.0%</color></b>. The Blind Bet effect obtained from the Trace \"Bingo!\" no longer has a trigger limit. Requires the Trace \"Bingo!\" to be unlocked first.<br><br>Hidden Stat: 1.0<br>Hidden Stat: 3.0",
             "Icon": "SkillIcon_1304_Rank1"
         }
     },
@@ -32131,7 +32116,7 @@ var _avatarrank = {
         "v3": {
             "Rank": 4,
             "Name": "Unexpected Hanging Paradox",
-            "Desc": "When triggering his Talent's follow-up attacks, Aventurine's DEF first increases by <b><color style='color:#f29e38'>40.0%</color></b> for <b><color style='color:#f29e38'>2.0</color></b> turn(s). The follow-up attack's Hits Per Action triggered by his Talent additionally increases by <b><color style='color:#f29e38'>1.0</color></b>.",
+            "Desc": "When triggering his Talent's follow-up attacks, Aventurine's DEF first increases by <b><color style='color:#f29e38'>40.0%</color></b> for <b><color style='color:#f29e38'>2.0</color></b> turn(s). The follow-up attack's Hits Per Action triggered by his Talent additionally increases by <b><color style='color:#f29e38'>3.0</color></b>.",
             "Icon": "SkillIcon_1304_Rank4"
         }
     },
@@ -32211,7 +32196,7 @@ var _avatarrank = {
         "v3": {
             "Rank": 2,
             "Name": "Lion's Tail",
-            "Desc": "Increases Break DMG dealt to targets in the Besotted state by <b><color style='color:#f29e38'>8.0%</color></b>.",
+            "Desc": "Increases Break DMG dealt to targets in the Besotted state by <b><color style='color:#f29e38'>100.0%</color></b>.<br><br>Hidden Stat: 0.3<br>Hidden Stat: 2.0",
             "Icon": "SkillIcon_1301_Rank2"
         }
     },
@@ -32311,7 +32296,7 @@ var _avatarrank = {
         "v3": {
             "Rank": 1,
             "Name": "Silenced Sky Spake Sooth",
-            "Desc": "CRIT Rate increases by <b><color style='color:#f29e38'>18.0%</color></b> when dealing DMG to debuffed enemies.",
+            "Desc": "CRIT Rate increases by <b><color style='color:#f29e38'>18.0%</color></b> when dealing DMG to debuffed enemies.<br><br>Hidden Stat: 3.0",
             "Icon": "SkillIcon_1308_Rank1"
         }
     },
@@ -32371,7 +32356,7 @@ var _avatarrank = {
         "v3": {
             "Rank": 4,
             "Name": "Shrined Fire for Mirrored Soul",
-            "Desc": "When using the Ultimate, inflicts Ultimate DMG Vulnerability to all enemies, increasing the Ultimate DMG taken by <b><color style='color:#f29e38'>12.0%</color></b>, lasting for <b><color style='color:#f29e38'>3.0</color></b> turn(s).",
+            "Desc": "When using the Ultimate, inflicts Ultimate DMG Vulnerability to all enemies, increasing the Ultimate DMG taken by <b><color style='color:#f29e38'>12.0%</color></b>, lasting for <b><color style='color:#f29e38'>[]</color></b> turn(s).",
             "Icon": "SkillIcon_1308_Rank4"
         }
     },

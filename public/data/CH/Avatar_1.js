@@ -36,8 +36,8 @@ var _avatar = [
             110504
         ],
         "Stats": {
-            "HP": 1058.4,
-            "ATK": 652.68,
+            "HP": 1305.36,
+            "ATK": 529.2,
             "DEF": 441.0,
             "SPD": 98.0,
             "Aggro": 100.0
@@ -2999,9 +2999,9 @@ var _weapon = [
             110213
         ],
         "Stats": {
-            "HP": 846.72,
+            "HP": 952.56,
             "ATK": 370.44,
-            "DEF": 529.2
+            "DEF": 463.05
         }
     },
     {
@@ -4523,7 +4523,7 @@ var _propname = {
     "CriticalDamageBase": "暴击伤害强化",
     "PhysicalAddedRatio": "伤害强化 · 物理",
     "ThunderAddedRatio": "伤害强化 · 雷",
-    "BreakDamageAddedRatioBase": "击破强化",
+    "BreakDamageAddedRatioBase": "生命强化",
     "SpeedDelta": "速度强化"
 }
 
@@ -6782,7 +6782,7 @@ var _weaponskill = {
         "v3": {
             "Name": "全下",
             "Desc": [
-                "使装备者的防御力提高 <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>54.0%</color> / <color style='color:#f29e38;'>60.0%</color> ，当装备者为我方目标提供护盾时，使装备者的暴击伤害提高 <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>46.0%</color> / <color style='color:#f29e38;'>52.0%</color> / <color style='color:#f29e38;'>58.0%</color> / <color style='color:#f29e38;'>64.0%</color> ，持续 <b>2.0</b> 回合。当装备者发动追加攻击时，有 <b>100.0%</b> 的基础概率使受到攻击的敌方目标受到的伤害提高 <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>11.0%</color> / <color style='color:#f29e38;'>12.0%</color> ，持续 <b>2.0</b> 回合。"
+                "使装备者的防御力提高 <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>46.0%</color> / <color style='color:#f29e38;'>52.0%</color> / <color style='color:#f29e38;'>58.0%</color> / <color style='color:#f29e38;'>64.0%</color> ，当装备者为我方目标提供护盾时，使装备者的暴击伤害提高 <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>46.0%</color> / <color style='color:#f29e38;'>52.0%</color> / <color style='color:#f29e38;'>58.0%</color> / <color style='color:#f29e38;'>64.0%</color> ，持续 <b>2.0</b> 回合。当装备者发动追加攻击时，有 <b>160.0%</b> 的基础概率使受到攻击的敌方目标受到的伤害提高 <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>11.5%</color> / <color style='color:#f29e38;'>13.0%</color> / <color style='color:#f29e38;'>14.5%</color> / <color style='color:#f29e38;'>16.0%</color> ，持续 <b>2.0</b> 回合。"
             ]
         }
     },

@@ -5442,7 +5442,7 @@ var _elitegroup = {
         "EliteGroup": 223,
         "AttackRatio": 1.0,
         "DefenceRatio": 1.0,
-        "HPRatio": 1.05,
+        "HPRatio": 1.1,
         "SpeedRatio": 1.0,
         "StanceRatio": 1.0
     },
@@ -5450,7 +5450,7 @@ var _elitegroup = {
         "EliteGroup": 224,
         "AttackRatio": 1.0,
         "DefenceRatio": 1.0,
-        "HPRatio": 1.1,
+        "HPRatio": 1.2,
         "SpeedRatio": 1.0,
         "StanceRatio": 1.0
     },

@@ -23489,106 +23489,91 @@ var _avatarskill = {
                     0.18,
                     90.0,
                     3.0,
-                    0.27,
-                    180.0
+                    2.0
                 ],
                 [
                     0.19125,
                     144.0,
                     3.0,
-                    0.30375,
-                    288.0
+                    2.0
                 ],
                 [
                     0.2025,
                     184.5,
                     3.0,
-                    0.3375,
-                    369.0
+                    2.0
                 ],
                 [
                     0.21375,
                     225.0,
                     3.0,
-                    0.37125,
-                    450.0
+                    2.0
                 ],
                 [
                     0.225,
                     252.0,
                     3.0,
-                    0.405,
-                    504.0
+                    2.0
                 ],
                 [
                     0.234,
                     279.0,
                     3.0,
-                    0.432,
-                    558.0
+                    2.0
                 ],
                 [
                     0.243,
                     299.25,
                     3.0,
-                    0.459,
-                    598.5
+                    2.0
                 ],
                 [
                     0.252,
                     319.5,
                     3.0,
-                    0.486,
-                    639.0
+                    2.0
                 ],
                 [
                     0.261,
                     339.75,
                     3.0,
-                    0.513,
-                    679.5
+                    2.0
                 ],
                 [
                     0.27,
                     360.0,
                     3.0,
-                    0.54,
-                    720.0
+                    2.0
                 ],
                 [
                     0.279,
                     380.25,
                     3.0,
-                    0.567,
-                    760.5
+                    2.0
                 ],
                 [
                     0.288,
                     400.5,
                     3.0,
-                    0.594,
-                    801.0
+                    2.0
                 ],
                 [
                     0.297,
                     420.75,
                     3.0,
-                    0.621,
-                    841.5
+                    2.0
                 ],
                 [
                     0.306,
                     441.0,
                     3.0,
-                    0.648,
-                    882.0
+                    2.0
                 ],
                 [
                     0.315,
                     461.25,
                     3.0,
-                    0.675,
-                    922.5
+                    2.0
                 ]
             ],
             "BP": -1,
@@ -24418,7 +24403,7 @@ var _avatarskill = {
                     0.24,
                     0.36,
                     0.6,
-                    2.0
+                    3.0
                 ]
             ],
             "BP": 0,
@@ -25354,63 +25339,63 @@ var _avatarskill = {
             "Params": [
                 [
                     0.06,
-                    65.0
+                    80.0
                 ],
                 [
                     0.066,
-                    110.5
+                    136.0
                 ],
                 [
                     0.072,
-                    156.0
+                    192.0
                 ],
                 [
                     0.078,
-                    219.7
+                    270.4
                 ],
                 [
                     0.084,
-                    269.75
+                    332.0
                 ],
                 [
                     0.09,
-                    319.8
+                    393.6
                 ],
                 [
                     0.0975,
-                    369.85
+                    455.2
                 ],
                 [
                     0.105,
-                    419.9
+                    516.8
                 ],
                 [
                     0.1125,
-                    469.95
+                    578.4
                 ],
                 [
                     0.12,
-                    520.0
+                    640.0
                 ],
                 [
                     0.126,
-                    547.3
+                    673.6
                 ],
                 [
                     0.132,
-                    574.6
+                    707.2
                 ],
                 [
                     0.138,
-                    601.9
+                    740.8
                 ],
                 [
                     0.144,
-                    629.2
+                    774.4
                 ],
                 [
                     0.15,
-                    656.5
+                    808.0
                 ]
             ],
             "BP": 0,
@@ -29281,7 +29266,7 @@ var _avatarskilltree = {
             },
             "Tree1": {
                 "Name": "杠杆",
-                "Desc": "若砂金的防御力高于 <b><color style='color:#f29e38'>1600.0</color></b> 点，每超过 <b><color style='color:#f29e38'>100</color></b> 点防御力可使自身暴击率提高 <b><color style='color:#f29e38'>2.0%</color></b> ，最多提高 <b><color style='color:#f29e38'>40.0%</color></b> 。",
+                "Desc": "若砂金的防御力高于 <b><color style='color:#f29e38'>1600.0</color></b> 点，每超过 <b><color style='color:#f29e38'>100</color></b> 点防御力可使自身暴击率提高 <b><color style='color:#f29e38'>2.0%</color></b> ，最多提高 <b><color style='color:#f29e38'>48.0%</color></b> 。",
                 "Icon": "SkillIcon_1304_SkillTree1"
             },
             "Tree2": {
@@ -29291,7 +29276,7 @@ var _avatarskilltree = {
             },
             "Tree3": {
                 "Name": "宾果！",
-                "Desc": "持有【坚垣筹码】的队友发动追加攻击后，为砂金积攒1点【盲注】，该效果最多触发 <b><color style='color:#f29e38'>1.0</color></b> 次，当砂金回合开始时，重置该效果触发次数。砂金在发动天赋的追加攻击后，为我方全体提供能够抵消等同于砂金 <b><color style='color:#f29e38'>7.2%</color></b> 防御力+ <b><color style='color:#f29e38'>96.0</color></b> 伤害的【坚垣筹码】，并为护盾值最低的我方目标额外提供能够抵消等同于砂金 <b><color style='color:#f29e38'>7.2%</color></b> 防御力+ <b><color style='color:#f29e38'>96.0</color></b> 伤害的【坚垣筹码】，持续3回合。",
+                "Desc": "持有【坚垣筹码】的队友发动追加攻击后，为砂金积攒1点【盲注】，该效果最多触发 <b><color style='color:#f29e38'>3.0</color></b> 次，当砂金回合开始时，重置该效果触发次数。砂金在发动天赋的追加攻击后，为我方全体提供能够抵消等同于砂金 <b><color style='color:#f29e38'>7.2%</color></b> 防御力+ <b><color style='color:#f29e38'>96.0</color></b> 伤害的【坚垣筹码】，并为护盾值最低的我方目标额外提供能够抵消等同于砂金 <b><color style='color:#f29e38'>7.2%</color></b> 防御力+ <b><color style='color:#f29e38'>96.0</color></b> 伤害的【坚垣筹码】，持续3回合。",
                 "Icon": "SkillIcon_1304_SkillTree3"
             }
         }
@@ -29343,13 +29328,13 @@ var _avatarskilltree = {
         },
         "v3": {
             "Add": {
-                "BreakDamageAddedRatioBase": 0.373,
-                "HPAddedRatio": 0.1,
-                "StatusResistanceBase": 0.18
+                "StatusResistanceBase": 0.28,
+                "BreakDamageAddedRatioBase": 0.133,
+                "HPAddedRatio": 0.18
             },
             "Tree1": {
                 "Name": "崭新配方",
-                "Desc": "使自身提供的治疗量提高，提高数值等同于击破特攻的 <b><color style='color:#f29e38'>30.0%</color></b> ，最多使提供的治疗量提高 <b><color style='color:#f29e38'>75.0%</color></b> 。",
+                "Desc": "使自身提供的治疗量提高，提高数值等同于击破特攻的 <b><color style='color:#f29e38'>50.0%</color></b> ，最多使提供的治疗量提高 <b><color style='color:#f29e38'>75.0%</color></b> 。",
                 "Icon": "SkillIcon_1301_SkillTree1"
             },
             "Tree2": {
@@ -32071,7 +32056,7 @@ var _avatarrank = {
         "v3": {
             "Rank": 1,
             "Name": "囚徒博弈",
-            "Desc": "持有【坚垣筹码】的我方目标暴击伤害提高 <b><color style='color:#f29e38'>20.0%</color></b> 。行迹【宾果！】的获得【盲注】效果不再有触发次数的限制，需要先解锁行迹【宾果！】。",
+            "Desc": "持有【坚垣筹码】的我方目标暴击伤害提高 <b><color style='color:#f29e38'>20.0%</color></b> 。行迹【宾果！】的获得【盲注】效果不再有触发次数的限制，需要先解锁行迹【宾果！】。<br><br>隐藏数值：1.0<br>隐藏数值：3.0",
             "Icon": "SkillIcon_1304_Rank1"
         }
     },
@@ -32131,7 +32116,7 @@ var _avatarrank = {
         "v3": {
             "Rank": 4,
             "Name": "意外绞刑",
-            "Desc": "触发天赋的追加攻击时，会先使砂金防御力提高 <b><color style='color:#f29e38'>40.0%</color></b> ，持续 <b><color style='color:#f29e38'>2.0</color></b> 回合，并使天赋的追加攻击额外增加 <b><color style='color:#f29e38'>1.0</color></b> 段攻击段数。",
+            "Desc": "触发天赋的追加攻击时，会先使砂金防御力提高 <b><color style='color:#f29e38'>40.0%</color></b> ，持续 <b><color style='color:#f29e38'>2.0</color></b> 回合，并使天赋的追加攻击额外增加 <b><color style='color:#f29e38'>3.0</color></b> 段攻击段数。",
             "Icon": "SkillIcon_1304_Rank4"
         }
     },
@@ -32211,7 +32196,7 @@ var _avatarrank = {
         "v3": {
             "Rank": 2,
             "Name": "狮子之尾",
-            "Desc": "处于【酩酊】状态的目标受到的击破伤害额外提高 <b><color style='color:#f29e38'>8.0%</color></b> 。",
+            "Desc": "处于【酩酊】状态的目标受到的击破伤害额外提高 <b><color style='color:#f29e38'>100.0%</color></b> 。<br><br>隐藏数值：0.3<br>隐藏数值：2.0",
             "Icon": "SkillIcon_1301_Rank2"
         }
     },
@@ -32311,7 +32296,7 @@ var _avatarrank = {
         "v3": {
             "Rank": 1,
             "Name": "高天寥落真言始",
-            "Desc": "对处于负面效果的敌方目标造成伤害时暴击率提高 <b><color style='color:#f29e38'>18.0%</color></b> 。",
+            "Desc": "对处于负面效果的敌方目标造成伤害时暴击率提高 <b><color style='color:#f29e38'>18.0%</color></b> 。<br><br>隐藏数值：3.0",
             "Icon": "SkillIcon_1308_Rank1"
         }
     },
@@ -32371,7 +32356,7 @@ var _avatarrank = {
         "v3": {
             "Rank": 4,
             "Name": "亘焰燎照镜中人",
-            "Desc": "施放终结技时，使敌方全体陷入终结技伤害易伤状态，受到的终结技伤害提高 <b><color style='color:#f29e38'>12.0%</color></b> ，持续 <b><color style='color:#f29e38'>3.0</color></b> 回合。",
+            "Desc": "施放终结技时，使敌方全体陷入终结技伤害易伤状态，受到的终结技伤害提高 <b><color style='color:#f29e38'>12.0%</color></b> ，持续 <b><color style='color:#f29e38'>[]</color></b> 回合。",
             "Icon": "SkillIcon_1308_Rank4"
         }
     },
