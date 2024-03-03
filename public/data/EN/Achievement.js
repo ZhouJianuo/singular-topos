@@ -5817,7 +5817,7 @@ var _achievement = [
         "Ver": 2.1,
         "Series": 4,
         "Name": "Safety Car",
-        "Desc": "Complete the shoot without any damage in any mode in Clockie's Side Story",
+        "Desc": "Complete the shoot without any damage in any mode in Clockie's Extras",
         "Reward": 5
     },
     {
@@ -5825,7 +5825,7 @@ var _achievement = [
         "Ver": 2.1,
         "Series": 4,
         "Name": "Non-Racing Line",
-        "Desc": "Stay in the middle lane continuously for 10.0 seconds in any mode in Clockie's Side Story",
+        "Desc": "Stay in the middle lane continuously for 10.0 seconds in any mode in Clockie's Extras",
         "Reward": 5
     },
     {
@@ -5833,7 +5833,7 @@ var _achievement = [
         "Ver": 2.1,
         "Series": 4,
         "Name": "Pole to Win",
-        "Desc": "Re-accumulate maximum energy within the duration of Veloci-Dash or Hanu Time in any mode in Clockie's Side Story",
+        "Desc": "Re-accumulate maximum energy within the duration of Nutty Blitz or Hanu Time in any mode in Clockie's Extras",
         "Reward": 5
     },
     {
@@ -5841,7 +5841,7 @@ var _achievement = [
         "Ver": 2.1,
         "Series": 4,
         "Name": "Biggest DRS Beneficiary",
-        "Desc": "Perform Last-Minute Overtake 10.0 times in a row without mistakes or interruption in Clockie's Side Story: Fast & Furynuts",
+        "Desc": "Perform Turbo Dash 10.0 times in a row without mistakes or interruption in Clockie's Extras: Fast & Furynuts",
         "Reward": 5
     },
     {
@@ -5849,7 +5849,7 @@ var _achievement = [
         "Ver": 2.1,
         "Series": 4,
         "Name": "Slow Road to Hell",
-        "Desc": "Defeat all enemies that appeared in Clockie's Side Story: The Way of the Wolf",
+        "Desc": "Defeat all enemies that appeared in Clockie's Extras: Way of the Wolf",
         "Reward": 5
     },
     {
@@ -5888,7 +5888,7 @@ var _achievement = [
         "_id": 4043034,
         "Ver": 2.1,
         "Series": 4,
-        "Name": "Armed to the Teeth",
+        "Name": "Maximum Firepower",
         "Desc": "Obtain the maximum ammo limit of Hanu Missile in Hanu's Adventure",
         "Reward": 5
     },

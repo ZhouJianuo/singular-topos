@@ -6,7 +6,7 @@ var _chaos = [
         "Name": "Chronicle of the White Nights Dream Kingdom",
         "Buff": {
             "Name": "Memory Turbulence",
-            "Desc": "At the start of every wave of Cycle, apply <color style='color:#f29e38;'>6.0</color> stack(s) of Memory Imprint to all enemies and deplete 1 stack from all enemies after every attack launched by allies. If Memory Imprint decreases to 0 stacks, deal DMG based on a certain percentage of each enemy's respective Max HP 1 time to all enemies. Enemy targets with Memory Imprint receive <color style='color:#f29e38;'>5.0%</color> more DMG.\nWhen enemy targets enter battle and other units in the field currently have Memory Imprints, the new enemies will receive the same number of Memory Imprint stacks as those on the field."
+            "Desc": "After every attack launched by an ally, apply 1 stack of Memory Imprint to all enemies. Enemies with Memory Imprint receive <color style='color:#f29e38;'>5.0%</color> more DMG. This effect stacks up to <color style='color:#f29e38;'>6.0</color> stack(s). When Memory Imprint stacks to maximum stacks, immediately deal DMG based on a certain percentage of each enemy's respective Max HP 1 time to all enemies.\nWhen enemy targets enter battle and other units in the field currently have Memory Imprints, the new enemies will receive the same number of Memory Imprint stacks as those on the field.\nAt the start of every wave of Cycle, remove Memory Imprint from all enemies."
         },
         "Floors": [
             {

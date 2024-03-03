@@ -54325,7 +54325,7 @@ var _status = {
     "220020302": {
         "Name": "强烈震荡",
         "Modifier": "MCommon_Shake",
-        "Desc": "一定回合内无法行动。",
+        "Desc": "行动延后，且一定回合内无法行动。",
         "Type": "Debuff"
     }
 }

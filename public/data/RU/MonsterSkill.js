@@ -10130,33 +10130,33 @@ var _monsterskill = {
     },
     "100301401": {
         "Key": "Skill01",
-        "Name": "",
+        "Name": "Assault",
         "Desc": "",
         "SP": 10.0,
         "Elem": "Phys"
     },
     "100301402": {
         "Key": "Skill06",
-        "Name": "",
+        "Name": "Pierce",
         "Desc": "",
         "SP": 20.0,
         "Elem": "Phys"
     },
     "100301403": {
         "Key": "Skill07",
-        "Name": "",
+        "Name": "Shield Reflect",
         "Desc": "",
         "SP": 0
     },
     "100301404": {
         "Key": "Skill08",
-        "Name": "",
+        "Name": "Reinforcement",
         "Desc": "",
         "SP": 0
     },
     "100301405": {
         "Key": "Skill09",
-        "Name": "",
+        "Name": "Rallying",
         "Desc": "",
         "SP": 0,
         "Threat": true
@@ -10215,7 +10215,7 @@ var _monsterskill = {
     },
     "802401301": {
         "Key": "Skill01",
-        "Name": "",
+        "Name": "Time to Battle",
         "Desc": "",
         "SP": 10.0,
         "Elem": "Wind"
@@ -10229,39 +10229,39 @@ var _monsterskill = {
     },
     "802401302": {
         "Key": "Skill02",
-        "Name": "",
+        "Name": "War Gear",
         "Desc": "",
         "SP": 20.0,
         "Elem": "Wind"
     },
     "802401303": {
         "Key": "Skill03",
-        "Name": "",
+        "Name": "Cyclonic Swarm",
         "Desc": "",
         "SP": 10.0,
         "Elem": "Wind"
     },
     "802401304": {
         "Key": "Skill04",
-        "Name": "",
+        "Name": "Propagation",
         "Desc": "",
         "SP": 0
     },
     "802401311": {
         "Key": "Skill10",
-        "Name": "",
+        "Name": "Propagation",
         "Desc": "",
         "SP": 0
     },
     "802401305": {
         "Key": "Skill05",
-        "Name": "",
+        "Name": "Ready Order",
         "Desc": "",
         "SP": 0
     },
     "802401306": {
         "Key": "Skill06",
-        "Name": "",
+        "Name": "Swarm Onslaught",
         "Desc": "",
         "SP": 10.0,
         "Elem": "Wind",
@@ -10269,20 +10269,20 @@ var _monsterskill = {
     },
     "802401307": {
         "Key": "Skill07",
-        "Name": "",
+        "Name": "Swarm Onslaught",
         "Desc": "",
         "SP": 10.0,
         "Elem": "Wind"
     },
     "802401308": {
         "Key": "PassiveSkill01",
-        "Name": "",
+        "Name": "Transmission Pheromone",
         "Desc": "",
         "SP": 0
     },
     "802401309": {
         "Key": "PassiveSkill02",
-        "Name": "",
+        "Name": "Entomon Eulogy",
         "Desc": "",
         "SP": 0,
         "Elem": "Wind"

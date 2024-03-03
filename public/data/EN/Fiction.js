@@ -6,12 +6,12 @@ var _fiction = [
         "Name": "Fictitious Wordsmithing",
         "Blessing": {
             "Name": "Devious Flattery",
-            "Desc": "Accumulate the amount of DMG dealt by follow-up attacks by allies. When this DMG amount reaches 100%, deal a set amount of DMG to all enemies."
+            "Desc": "Accumulate the amount of DMG dealt by allies' follow-up attacks. When this DMG amount reaches 100%, deal a set amount of DMG to all enemies."
         },
         "Buffs": [
             {
                 "Name": "Examination",
-                "Desc": "After allies use follow-up attacks, start calculating progress based on how many times follow-up attacks have been used instead of follow-up damage. Every time follow-up attacks are used, accumulate <color style='color:#f29e38;'>300.0%</color> of progress."
+                "Desc": "Whimsicality no longer requires accumulated DMG from follow-up attacks. Instead, the effect's DMG Boost is increased by <color style='color:#f29e38;'>60.0%</color> after every time an ally launches <color style='color:#f29e38;'>3.0</color> follow-up attack(s)."
             },
             {
                 "Name": "Extrapolation",
@@ -951,7 +951,7 @@ var _fiction = [
             },
             {
                 "Name": "Sympathetic Detonation",
-                "Desc": "After Whimsicality's effect is triggered, targets with Shatter and any adjacent targets are afflicted with Scalded. While in the Scalded state, targets receive <color style='color:#f29e38;'>12.0%</color> more DMG, stacking up to <color style='color:#f29e38;'>3.0</color> stack(s). This effect is effective on the set amount of DMG from the Whimsicality effect."
+                "Desc": "When enemy targets use their abilities, inflicts 1 stack of Scalded on them and adjacent units. While in the Scalded state, targets receive <color style='color:#f29e38;'>12.0%</color> more DMG, stacking up to <color style='color:#f29e38;'>3.0</color> stack(s). This effect is effective on the set amount of DMG from the Whimsicality effect."
             },
             {
                 "Name": "Splash",
@@ -1878,7 +1878,7 @@ var _fiction = [
         "Name": "An Expression of Eloquence",
         "Blessing": {
             "Name": "Devious Flattery",
-            "Desc": "Accumulate the amount of DMG dealt by follow-up attacks by allies. When this DMG amount reaches 100%, deal a set amount of DMG to all enemies."
+            "Desc": "Accumulate the amount of DMG dealt by allies' follow-up attacks. When this DMG amount reaches 100%, deal a set amount of DMG to all enemies."
         },
         "Buffs": [
             {

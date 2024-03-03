@@ -15204,7 +15204,7 @@ var _monster = [
         "_id": 1014013,
         "Key": "Monster_W1_Svarog_00_Config_Fever",
         "Name": "Svarog",
-        "Desc": "",
+        "Desc": "A complete projection produced by compromised codes. The referenced entity is an ancient relic from the Old World, that was originally used as an automated control unit by the Geomarrow Development Group. Unlike the vast majority of machines that lack intellect and can only act on command, Svarog is capable of much more complex thinking.<br>In battle, Svarog (Complete) can summon various machines as well as a robot arm unit to grab and control enemies while unleashing devastating strikes.",
         "Stats": {
             "HP": 7.5,
             "ATK": 18.0,
@@ -31730,7 +31730,7 @@ var _monster = [
         "_id": 3014022,
         "Key": "Monster_W3_Death_00_Config_RLBoss",
         "Name": "Memory Zone Meme \"Something Unto Death\" (Complete)",
-        "Desc": "A complete projection produced by compromised codes. The referenced entity is an entity imbued with specific cognition, accumulated from fragments of the subconscious in the Memory Zone.<br>A mysterious and dangerous Memory Zone Meme, seen as the \"death\" that shouldn't exist in dreams. Its sinister shadow wanders within the Twelve Hours, bringing unforeseen calamity wherever it goes. It spreads misfortune like a sharp blade, casting a shadow of death over beautiful dreams.",
+        "Desc": "A complete projection produced by compromised codes. The referenced entity is an entity imbued with specific cognition, accumulated from fragments of the subconscious in the Memory Zone.<br>A mysterious and dangerous Memory Zone Meme, seen as the \"Death\" that shouldn't exist in dreams. Its sinister shadow wanders within the Twelve Hours, bringing unforeseen calamity wherever it goes. It spreads misfortune like a sharp blade, casting a shadow of death over beautiful dreams.",
         "Stats": {
             "HP": 11.0,
             "ATK": 18.0,
@@ -51376,8 +51376,8 @@ var _monster = [
     {
         "_id": 803201004,
         "Key": "Monster_W1_Soldier02_01_Config",
-        "Name": "",
-        "Desc": "",
+        "Name": "Grunt: Field Personnel (Illusion)",
+        "Desc": "An Interastral Peace Corporation grunt worker whose job mainly deals with shady \"business oversights.\" With a meager salary, the only lodging they can afford is a shared room on one of the IPC's enterprise ships. The version appearing here is a phantom simulated from your memories.",
         "Stats": {
             "HP": 0.7,
             "ATK": 18.0,
@@ -54325,7 +54325,7 @@ var _status = {
     "220020302": {
         "Name": "Strong Reverberation",
         "Modifier": "MCommon_Shake",
-        "Desc": "Unable to take action for a certain number of turns.",
+        "Desc": "Action delayed. Cannot take actions for a certain number of turns.",
         "Type": "Debuff"
     }
 }
