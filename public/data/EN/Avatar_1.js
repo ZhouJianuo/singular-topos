@@ -3,7 +3,7 @@
 var _avatar = [
     {
         "_id": 1301,
-        "Ver": "2.1v2",
+        "Ver": "2.1v3",
         "Name": "Gallagher",
         "Desc": "The current head of the Bloodhound Family at Penacony. He is always courteous toward guests but keeps his vigilance about him. He seems to be a character with a complicated past, yet never actively mentions any details.",
         "Rarity": 4,
@@ -52,7 +52,7 @@ var _avatar = [
     },
     {
         "_id": 1304,
-        "Ver": "2.1v2",
+        "Ver": "2.1v3",
         "Name": "Aventurine",
         "Desc": "A high-ranking executive of the IPC's Strategic Investment Department.<br>A risk-taker, his constant smile makes it difficult for people to discern his true feelings.",
         "Rarity": 5,
@@ -100,7 +100,7 @@ var _avatar = [
     },
     {
         "_id": 1308,
-        "Ver": "2.1v2",
+        "Ver": "2.1v3",
         "Name": "Acheron",
         "Desc": "A drifter claiming to be a Galaxy Ranger. Her true name is unknown.<br>She walks the cosmos alone, carrying with her a long sword.",
         "Rarity": 5,
@@ -6778,6 +6778,12 @@ var _weaponskill = {
             "Desc": [
                 "Increases the wearer's DEF by <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>54.0%</color> / <color style='color:#f29e38;'>60.0%</color> . When the wearer provides a Shield to an ally, the wearer's CRIT DMG increases by <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>46.0%</color> / <color style='color:#f29e38;'>52.0%</color> / <color style='color:#f29e38;'>58.0%</color> / <color style='color:#f29e38;'>64.0%</color> , lasting for <b>2.0</b> turn(s). When the wearer uses a follow-up attack, there is a <b>100.0%</b> base chance to increase the DMG taken by the attacked enemy by <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>11.0%</color> / <color style='color:#f29e38;'>12.0%</color> , lasting for <b>2.0</b> turn(s)."
             ]
+        },
+        "v3": {
+            "Name": "All-In",
+            "Desc": [
+                "Increases the wearer's DEF by <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>54.0%</color> / <color style='color:#f29e38;'>60.0%</color> . When the wearer provides a Shield to an ally, the wearer's CRIT DMG increases by <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>46.0%</color> / <color style='color:#f29e38;'>52.0%</color> / <color style='color:#f29e38;'>58.0%</color> / <color style='color:#f29e38;'>64.0%</color> , lasting for <b>2.0</b> turn(s). When the wearer uses a follow-up attack, there is a <b>100.0%</b> base chance to increase the DMG taken by the attacked enemy by <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>11.0%</color> / <color style='color:#f29e38;'>12.0%</color> , lasting for <b>2.0</b> turn(s)."
+            ]
         }
     },
     "23024": {
@@ -6792,6 +6798,12 @@ var _weaponskill = {
             "Desc": [
                 "Increases the wearer's CRIT DMG by <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>54.0%</color> / <color style='color:#f29e38;'>60.0%</color> . When the wearer hits the enemy target, inflicts Empty Bubbles on the enemy, lasting for 1 turn. This effect can be triggered 1 time against each target for every attack the wearer launches. The wearer deals <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color>  more DMG to targets afflicted with Empty Bubbles, and DMG from Ultimate additionally increases by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> ."
             ]
+        },
+        "v3": {
+            "Name": "Steerer",
+            "Desc": [
+                "Increases the wearer's CRIT DMG by <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>54.0%</color> / <color style='color:#f29e38;'>60.0%</color> . When the wearer hits the enemy target, inflicts Empty Bubbles on the enemy, lasting for 1 turn. This effect can be triggered 1 time against each target for every attack the wearer launches. The wearer deals <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color>  more DMG to targets afflicted with Empty Bubbles, and DMG from Ultimate additionally increases by <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> ."
+            ]
         }
     },
     "21043": {
@@ -6802,6 +6814,12 @@ var _weaponskill = {
             ]
         },
         "v2": {
+            "Name": "Inspire",
+            "Desc": [
+                "Increases the wearer's DEF by <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> . For each character with a Shield on the field, the DMG dealt by the wearer increases by <color style='color:#f29e38;'>4.0%</color> / <color style='color:#f29e38;'>5.0%</color> / <color style='color:#f29e38;'>6.0%</color> / <color style='color:#f29e38;'>7.0%</color> / <color style='color:#f29e38;'>8.0%</color> ."
+            ]
+        },
+        "v3": {
             "Name": "Inspire",
             "Desc": [
                 "Increases the wearer's DEF by <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> . For each character with a Shield on the field, the DMG dealt by the wearer increases by <color style='color:#f29e38;'>4.0%</color> / <color style='color:#f29e38;'>5.0%</color> / <color style='color:#f29e38;'>6.0%</color> / <color style='color:#f29e38;'>7.0%</color> / <color style='color:#f29e38;'>8.0%</color> ."

@@ -3,7 +3,7 @@
 var _avatar = [
     {
         "_id": 1301,
-        "Ver": "2.1v2",
+        "Ver": "2.1v3",
         "Name": "加拉赫",
         "Desc": "匹诺康尼猎犬家系的现任家主，对来访宾客以礼相待，但保有戒心。似乎有着诸多往事，却从不主动提及。",
         "Rarity": 4,
@@ -52,7 +52,7 @@ var _avatar = [
     },
     {
         "_id": 1304,
-        "Ver": "2.1v2",
+        "Ver": "2.1v3",
         "Name": "砂金",
         "Desc": "星际和平公司「战略投资部」的高层成员。<br>风险爱好者，常面带笑容，真心却难以揣测。",
         "Rarity": 5,
@@ -100,7 +100,7 @@ var _avatar = [
     },
     {
         "_id": 1308,
-        "Ver": "2.1v2",
+        "Ver": "2.1v3",
         "Name": "黄泉",
         "Desc": "自称「巡海游侠」的旅人，本名不详。<br>身佩一柄长刀，独行银河。",
         "Rarity": 5,
@@ -6778,6 +6778,12 @@ var _weaponskill = {
             "Desc": [
                 "使装备者的防御力提高 <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>54.0%</color> / <color style='color:#f29e38;'>60.0%</color> ，当装备者为我方目标提供护盾时，使装备者的暴击伤害提高 <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>46.0%</color> / <color style='color:#f29e38;'>52.0%</color> / <color style='color:#f29e38;'>58.0%</color> / <color style='color:#f29e38;'>64.0%</color> ，持续 <b>2.0</b> 回合。当装备者发动追加攻击时，有 <b>100.0%</b> 的基础概率使受到攻击的敌方目标受到的伤害提高 <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>11.0%</color> / <color style='color:#f29e38;'>12.0%</color> ，持续 <b>2.0</b> 回合。"
             ]
+        },
+        "v3": {
+            "Name": "全下",
+            "Desc": [
+                "使装备者的防御力提高 <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>54.0%</color> / <color style='color:#f29e38;'>60.0%</color> ，当装备者为我方目标提供护盾时，使装备者的暴击伤害提高 <color style='color:#f29e38;'>40.0%</color> / <color style='color:#f29e38;'>46.0%</color> / <color style='color:#f29e38;'>52.0%</color> / <color style='color:#f29e38;'>58.0%</color> / <color style='color:#f29e38;'>64.0%</color> ，持续 <b>2.0</b> 回合。当装备者发动追加攻击时，有 <b>100.0%</b> 的基础概率使受到攻击的敌方目标受到的伤害提高 <color style='color:#f29e38;'>8.0%</color> / <color style='color:#f29e38;'>9.0%</color> / <color style='color:#f29e38;'>10.0%</color> / <color style='color:#f29e38;'>11.0%</color> / <color style='color:#f29e38;'>12.0%</color> ，持续 <b>2.0</b> 回合。"
+            ]
         }
     },
     "23024": {
@@ -6792,6 +6798,12 @@ var _weaponskill = {
             "Desc": [
                 "使装备者的暴击伤害提高 <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>54.0%</color> / <color style='color:#f29e38;'>60.0%</color> 。当装备者击中敌方目标时，使敌方陷入【泡影】状态，持续1回合。装备者每次攻击时，对每个目标只可触发1次。装备者对陷入【泡影】状态的目标造成的伤害提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> ，终结技造成的伤害额外提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> 。"
             ]
+        },
+        "v3": {
+            "Name": "司渡",
+            "Desc": [
+                "使装备者的暴击伤害提高 <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>42.0%</color> / <color style='color:#f29e38;'>48.0%</color> / <color style='color:#f29e38;'>54.0%</color> / <color style='color:#f29e38;'>60.0%</color> 。当装备者击中敌方目标时，使敌方陷入【泡影】状态，持续1回合。装备者每次攻击时，对每个目标只可触发1次。装备者对陷入【泡影】状态的目标造成的伤害提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> ，终结技造成的伤害额外提高 <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> / <color style='color:#f29e38;'>36.0%</color> / <color style='color:#f29e38;'>40.0%</color> 。"
+            ]
         }
     },
     "21043": {
@@ -6802,6 +6814,12 @@ var _weaponskill = {
             ]
         },
         "v2": {
+            "Name": "鼓舞",
+            "Desc": [
+                "使装备者的防御力提高 <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> 。场上每有一名持有护盾的角色，装备者造成的伤害提高 <color style='color:#f29e38;'>4.0%</color> / <color style='color:#f29e38;'>5.0%</color> / <color style='color:#f29e38;'>6.0%</color> / <color style='color:#f29e38;'>7.0%</color> / <color style='color:#f29e38;'>8.0%</color> 。"
+            ]
+        },
+        "v3": {
             "Name": "鼓舞",
             "Desc": [
                 "使装备者的防御力提高 <color style='color:#f29e38;'>16.0%</color> / <color style='color:#f29e38;'>20.0%</color> / <color style='color:#f29e38;'>24.0%</color> / <color style='color:#f29e38;'>28.0%</color> / <color style='color:#f29e38;'>32.0%</color> 。场上每有一名持有护盾的角色，装备者造成的伤害提高 <color style='color:#f29e38;'>4.0%</color> / <color style='color:#f29e38;'>5.0%</color> / <color style='color:#f29e38;'>6.0%</color> / <color style='color:#f29e38;'>7.0%</color> / <color style='color:#f29e38;'>8.0%</color> 。"
