@@ -2,7 +2,7 @@
 
 var _rec = [
     {
-        "Name": "Citizen Hanunu",
+        "Name": "Citizen Hanunue",
         "Desc": "Dear Mikhail: You provide prose poetry, and I'll provide warfare.",
         "Unlock": "Obtained from completing Trailblaze Mission \"A Walk Among the Tombstones\"",
         "Group": 4

@@ -69,7 +69,7 @@ var _event = [
         "Icon": "BtnQuestMonopoly.png",
         "Name": "Cosmodyssey",
         "Desc": "The Astral Express received a package from a Nameless. Pom-Pom is waiting for you to return to the Express to open it together and see what's inside...",
-        "Story": "◆ Introduction ◆<br>The Astral Express received a package from a Nameless. Pom-Pom is waiting for you to return to the Express to open it together and see what's inside...<br><br>◆ Event Rules ◆<br>● After the event starts, log in daily to obtain Trailblaze Funds and dice. Trailblazers can use dice to obtain Trailblaze Funds in Cosmodyssey. Trailblaze Funds can be used to increase Contribution Progress and obtain contribution rewards.<br><br>◆ Cosmodyssey ◆<br>● In Cosmodyssey, Trailblazers can toss dice to move forward on the board and obtain Trailblaze Funds. Different board tiles will have different contents.<br>● During the event, there is a limit to the number of dice Trailblazers can use each day. Once you run out of dice, you can use the Trailblaze Funds you obtained that day to increase your Contribution. The Trailblaze Funds contributed daily increases \"Individual Contribution Progress\" and \"Cosmic Contribution Progress.\"<br>● If you fail to contribute on a particular day, you will automatically contribute Trailblaze Funds and increase your Contribution Progress the next time you enter the event.<br><br>◆ Contribution Rewards ◆<br>● Continuously contribute Trailblaze Funds during the event to speed up your Individual Contribution Progress and claim the corresponding rewards.<br>● Individual Contribution will also boost Cosmic Contribution Progress. When Cosmic Contribution Progress reaches specific milestones, you will unlock milestone rewards.<br><br>◆ Nameless Scratch-Off ◆<br>● During the event, Nameless Scratch-Offs will announce its winners at specific times for a total of 3 times. The start time for each phase is based on the time indicated on the event page (server time).<br>● After completing your first contribution to Cosmodyssey, you will be eligible to participate in the Nameless Scratch-Offs. Before the draw of the current Nameless Scratch-Off, Trailblazers can go to the Nameless Scratch-Off page to obtain 1 prize draw number. The number obtained in each round is only valid for that round.<br>● After the winning number has been announced, you can go to the Nameless Scratch-Off page and check the last digits of your number. If the last digits of your number match the winning number, you can claim the corresponding rewards. The rewards can be claimed until the end of the event.<br>●If you did not obtain a number before the winners are announced, you can go to the Nameless Scratch-Off page after the winning number's announcement to collect a participation prize.<br><br>◆ Nameless Survey ◆<br>● In Cosmodyssey, Trailblazers will experience the Nameless Survey gameplay on specific board tiles. Trailblazers can make choices based on the different scenarios.<br>● Complete a certain number of Nameless Surveys to unlock the Nameless Report and obtain the corresponding rewards.",
+        "Story": "◆ Introduction ◆<br>The Astral Express received a package from a Nameless. Pom-Pom is waiting for you to return to the Express to open it together and see what's inside...<br><br>◆ Event Goal ◆<br>● Trailblazers need to continuously acquire \"Trailblaze Funds\" to unlock server-wide and individual rewards.<br>● During the event, continuously contribute Trailblaze Funds to accumulate Individual Contribution and unlock corresponding rewards.<br>● Individual Contribution will also boost Cosmic Contribution Progress. When Cosmic Contribution Progress reaches specific milestones, you will unlock milestone rewards.<br><br>◆ Event Rules ◆<br>● Login daily to earn dice. Rolling dice allows players to advance on the map and earn Trailblaze Funds through various gameplay modes. When the dice are depleted, Trailblazers can contribute the accumulated Trailblaze Funds.<br>● Once the Cosmic Contribution Progress reaches 100%, there will be no limit on the number of dice players can use.<br><br>◆ Trailblaze Affinity Test ◆<br>● Trailblazers can experience testing gameplay during the event.<br>● By completing a certain number of test questions, Trailblazers will unlock a test report and receive corresponding rewards.<br><br>◆ Event Tips ◆<br>● If no contribution is made on a given day, the Trailblaze Fund will be automatically contributed the next time you enter the event.",
         "Reward": [
             236,
             241,
@@ -1373,7 +1373,7 @@ var _item = {
     "221005": {
         "_id": 221005,
         "Rarity": 4,
-        "Name": "",
+        "Name": "Phone Wallpaper",
         "Desc": "After obtaining Phone wallpapers, they can be changed in the Phone function",
         "Story": "",
         "Icon": "221000.png",
@@ -1623,7 +1623,7 @@ var _item = {
             "Simulated Universe Point Rewards",
             "Nameless Honor",
             "Embers Exchange",
-            "",
+            "Starlight Exchange",
             "Limited-Time Event Rewards"
         ]
     },
@@ -1700,7 +1700,7 @@ var _item = {
 
 var _tut = {
     "811001": {
-        "Desc": "In Cosmodyssey, you need to roll dice to advance on the map.",
+        "Desc": "In Cosmodyssey, you need to <color=#f29e38ff>roll dice</color> to advance on the map. Trailblazers can obtain <color=#f29e38ff>Trailblaze Funds</color> through a variety of game modes within.",
         "Img": "TutorialPage_811001.png"
     },
     "811002": {
@@ -1708,7 +1708,7 @@ var _tut = {
         "Img": "TutorialPage_811001.png"
     },
     "811003": {
-        "Desc": "Trailblaze Fund will be finalized at the end of each game day, contributing both to the Cosmic Progress and Personal Progress.",
+        "Desc": "Trailblazers can contribute their <color=#f29e38ff>Trailblaze Funds</color> to Pom-Pom. The more <color=#f29e38ff>funds</color> they contribute, the more <color=#f29e38ff>personal rewards</color> they unlock.<br>The more all Trailblazers contribute, the more Cosmic Contribution rewards will be unlocked.",
         "Img": "TutorialPage_811003.png"
     },
     "811004": {

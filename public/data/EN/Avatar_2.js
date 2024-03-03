@@ -23483,7 +23483,7 @@ var _avatarskill = {
             "MaxLevel": 15,
             "Type": "Skill",
             "Tag": "Defense",
-            "Desc": "Provides a Fortified Wager shield that blocks DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Aventurine's DEF plus <color style='color:#f29e38;'><b>#2[f]</b></color> to all allies for <b>#3[f]</b> turn(s). When gaining Fortified Wager repeatedly, the Shield effect can stack up to <color style='color:#f29e38;'><b>#4[p]</b></color> of Aventurine's current DEF plus <color style='color:#f29e38;'><b>#5[f]</b></color>.",
+            "Desc": "Provides a Fortified Wager shield that blocks DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Aventurine's DEF plus <color style='color:#f29e38;'><b>#2[f]</b></color> to all allies for <b>#3[f]</b> turn(s). When gaining Fortified Wager repeatedly, the Shield effect can stack up to <color style='color:#f29e38;'><b>#4[p]</b></color> of the Shield provided by the current Skill plus <color style='color:#f29e38;'><b>#5[f]</b></color>.",
             "Params": [
                 [
                     0.18,
@@ -24397,7 +24397,7 @@ var _avatarskill = {
             "MaxLevel": 1,
             "Type": "Technique",
             "Tag": "Enhance",
-            "Desc": "After using the Technique, 1 of the following effects will be granted, and only the latest effect will be kept:<br>There is a chance for DEF to increase by <b>#1[p]</b>.<br>There is a high chance for DEF to increase by <b>#2[p]</b>.<br>There is a small chance for DEF to increase by <b>#3[p]</b>.<br>After entering the next battle, increases all allies' DEF by the corresponding amount, lasting for <b>#4[f]</b> turn(s).",
+            "Desc": "After using the Technique, 1 of the following effects will be granted:<br>There is a chance for DEF to increase by <b>#1[p]</b>.<br>There is a high chance for DEF to increase by <b>#2[p]</b>.<br>There is a small chance for DEF to increase by <b>#3[p]</b>.<br>Only the latest effect will be kept.<br>After entering the next battle, increases all allies' DEF by the corresponding amount, lasting for <b>#4[f]</b> turn(s).",
             "Params": [
                 [
                     0.24,
@@ -26222,7 +26222,7 @@ var _avatarskill = {
             "MaxLevel": 15,
             "Type": "Ultimate",
             "Tag": "AoE",
-            "Desc": "Unleashes Rainblade, deals Lightning DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Acheron's ATK to a single enemy, and removes up to 3 stacks of Crimson Knot from the target.<br>When Crimson Knot is removed, deals Lightning DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Acheron's ATK to all enemies 1 time, with the DMG multiplier for this attack additionally increased by <color style='color:#f29e38;'><b>#2[p]</b></color> for every stack of Crimson Knot removed.<br>After unleashing Rainblade 3 times, immediately unleashes Stygian Resurge, dealing Lightning DMG equal to <color style='color:#f29e38;'><b>#3[p]</b></color> of Acheron's ATK to all enemies, and removing all Crimson Knot stacks.<br>Crimson Knot is not inflicted upon enemies during the Ultimate.<br>Hidden Stat: #4[f]<br>Hidden Stat: #5[f]<br>Hidden Stat: #6[f]<br>Hidden Stat: #7[f]",
+            "Desc": "Sequentially unleash Rainblade 3 times and Stygian Resurge 1 time, dealing Lightning DMG up to <color style='color:#f29e38;'><b>#6[p]</b></color> of Acheron's ATK to a single target enemy, and deals Lightning DMG up to <color style='color:#f29e38;'><b>#7[p]</b></color> of Acheron's ATK to all other enemies.<br>Rainblade: Deals Lightning DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Acheron's ATK to a single target enemy and removes up to 3 stacks of Crimson Knot on the target. When Crimson Knot is removed, immediately deal Lightning DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Acheron's ATK to all enemies. For every stack of Crimson Knot removed, the DMG Multiplier for this DMG application is additionally increased, up to an increase of <color style='color:#f29e38;'><b>#5[p]</b></color>.<br>Stygian Resurge: Deals Lightning DMG equal to <color style='color:#f29e38;'><b>#3[p]</b></color> of Acheron's ATK to all enemies and remove all Crimson Knots.<br>Crimson Knots cannot be applied to enemies during the Ultimate.<br>Hidden Stat: #4[f]",
             "Params": [
                 [
                     0.144,
@@ -26532,7 +26532,7 @@ var _avatarskill = {
             "MaxLevel": 15,
             "Type": "Talent",
             "Tag": "Enhance",
-            "Desc": "When Slashed Dream reaches <b>#1[f]</b> point(s), the Ultimate can be unleashed. During the Ultimate, deplete enemies' Toughness regardless of Weakness Types and reduce all enemies' All-Type RES by <color style='color:#f29e38;'><b>#2[p]</b></color> until the end of the Ultimate.<br>When any unit inflicts debuffs on an enemy target while using an ability, Acheron gains 1 point of Slashed Dream and inflicts Crimson Knot on the enemy target. This effect can be triggered up to 1 time per action. If the used ability inflicts debuff on multiple enemies, 1 stack of Crimson Knot will be inflicted on the enemy with the most Crimson Knot stacks.<br>When Acheron is on the battlefield and after an enemy target leaves the battlefield or is defeated, their Crimson Knot stacks will be transferred to the enemy target with the most current Crimson Knot stacks.",
+            "Desc": "When Slashed Dream reaches <b>#1[f]</b> point(s), the Ultimate can be unleashed. During the Ultimate, deplete enemies' Toughness regardless of Weakness Types and reduce all enemies' All-Type RES by <color style='color:#f29e38;'><b>#2[p]</b></color> until the end of the Ultimate.<br>When any unit inflicts debuffs on an enemy target while using an ability, Acheron gains 1 point of Slashed Dream and inflicts Crimson Knot on the enemy target. If it inflicts debuff on multiple enemies, 1 stack of Crimson Knot will be inflicted on the enemy with the most Crimson Knot stacks. This effect can be triggered up to 1 time per action.<br>When Acheron is on the battlefield and after an enemy target leaves the battlefield or is defeated, their Crimson Knot stacks will be transferred to the enemy target with the most current Crimson Knot stacks.",
             "Params": [
                 [
                     9.0,
@@ -27748,7 +27748,7 @@ var _avatarskill = {
             "MaxLevel": 1,
             "Type": "Technique",
             "Tag": "",
-            "Desc": "Attacks the enemy. At the start of every wave, deals Lightning DMG to all enemies, as well as reduces Toughness of all enemies irrespective of Weakness Types. When inflicting Weakness Break, triggers the Lightning Weakness Break effect, and causes Acheron to gain <color style='color:#f29e38;'><b>#2[f]</b></color> points of Slashed Dream and inflicts <color style='color:#f29e38;'><b>#2[f]</b></color> stack(s) of Crimson Knot on a single random enemy the next time her Ultimate is cast.<br>If the enemy has Red Karma, they will be immediately defeated and will not enter combat. The Technique Point is not spent if the attack does not hit an enemy.<br>Hidden Stat: #1[f]",
+            "Desc": "Immediately attacks the enemy, and gains Quadrivalent Ascendance at the start of every wave, dealing Lightning DMG equal to <b>#1[p]</b> of Acheron's ATK to all enemies and reduces Toughness of all enemies irrespective of Weakness Types. When inflicting Weakness Break, triggers the Lightning Weakness Break effect.<br>Quadrivalent Ascendance: The next time Acheron uses her Ultimate, she gains <b>#2[f]</b> points of Slashed Dream and inflicts <b>#2[f]</b> stack(s) of Crimson Knot on a single random enemy.<br>If a normal enemy is attacked, they will be immediately defeated and will not enter combat. The Technique Point is not spent if the attack does not hit an enemy.",
             "Params": [
                 [
                     2.0,
@@ -29208,7 +29208,7 @@ var _avatarskilltree = {
             },
             "Tree3": {
                 "Name": "Thunder Core",
-                "Desc": "When Rainblade from Acheron's Ultimate hits enemy targets with Crimson Knot, her DMG increases by <b><color style='color:#f29e38'>30.0%</color></b>, staking up to a maximum of <b><color style='color:#f29e38'>3.0</color></b> stack(s) and lasting for <b><color style='color:#f29e38'>3.0</color></b> turn(s). Also additionally deals <b><color style='color:#f29e38'>6.0</color></b> hits of DMG when Stygian Resurge is triggered. Every hit deals Lightning DMG equal to <b><color style='color:#f29e38'>25.0%</color></b> of Acheron's ATK to a single enemy target and is viewed as Ultimate DMG.",
+                "Desc": "When Rainblade from Acheron's Ultimate hits enemy targets with Crimson Knot, her DMG increases by <b><color style='color:#f29e38'>30.0%</color></b>, stacking up to a maximum of <b><color style='color:#f29e38'>3.0</color></b> stack(s) and lasting for <b><color style='color:#f29e38'>3.0</color></b> turn(s). Also additionally deals <b><color style='color:#f29e38'>6.0</color></b> hits of DMG when Stygian Resurge is triggered. Every hit deals Lightning DMG equal to <b><color style='color:#f29e38'>25.0%</color></b> of Acheron's ATK to a single enemy target and is viewed as Ultimate DMG.",
                 "Icon": "SkillIcon_1308_SkillTree3"
             }
         }
@@ -32056,7 +32056,7 @@ var _avatarrank = {
         "v3": {
             "Rank": 1,
             "Name": "Prisoner's Dilemma",
-            "Desc": "Increases CRIT DMG for allies with Fortified Wager by <b><color style='color:#f29e38'>20.0%</color></b>. The Blind Bet effect obtained from the Trace \"Bingo!\" no longer has a trigger limit. Requires the Trace \"Bingo!\" to be unlocked first.<br><br>Hidden Stat: 1.0<br>Hidden Stat: 3.0",
+            "Desc": "Increases the CRIT DMG of allies with Fortified Wager by <b><color style='color:#f29e38'>20.0%</color></b>. Provide a Fortified Wager Shield to the entire team. The Shield effect equals to <b><color style='color:#f29e38'>100.0%</color></b> as that provided by the Skill, lasting for <b><color style='color:#f29e38'>3.0</color></b> turn(s).",
             "Icon": "SkillIcon_1304_Rank1"
         }
     },
@@ -32196,7 +32196,7 @@ var _avatarrank = {
         "v3": {
             "Rank": 2,
             "Name": "Lion's Tail",
-            "Desc": "Increases Break DMG dealt to targets in the Besotted state by <b><color style='color:#f29e38'>100.0%</color></b>.<br><br>Hidden Stat: 0.3<br>Hidden Stat: 2.0",
+            "Desc": "The Skill removes <b><color style='color:#f29e38'>1.0</color></b> debuff(s) from a target ally. At the same time, it increases Effect RES by <b><color style='color:#f29e38'>30.0%</color></b> for <b><color style='color:#f29e38'>2.0</color></b> turn(s).",
             "Icon": "SkillIcon_1301_Rank2"
         }
     },
@@ -32296,7 +32296,7 @@ var _avatarrank = {
         "v3": {
             "Rank": 1,
             "Name": "Silenced Sky Spake Sooth",
-            "Desc": "CRIT Rate increases by <b><color style='color:#f29e38'>18.0%</color></b> when dealing DMG to debuffed enemies.<br><br>Hidden Stat: 3.0",
+            "Desc": "Increases CRIT Rate by <b><color style='color:#f29e38'>18.0%</color></b> when dealing DMG to debuffed enemies. When Slashed Dream is at max, every stack of Slashed Dream that goes over grants a stack of Quadrivalent Ascendance, which can stack up to <b><color style='color:#f29e38'>3.0</color></b> times.",
             "Icon": "SkillIcon_1308_Rank1"
         }
     },
@@ -32356,7 +32356,7 @@ var _avatarrank = {
         "v3": {
             "Rank": 4,
             "Name": "Shrined Fire for Mirrored Soul",
-            "Desc": "When using the Ultimate, inflicts Ultimate DMG Vulnerability to all enemies, increasing the Ultimate DMG taken by <b><color style='color:#f29e38'>12.0%</color></b>, lasting for <b><color style='color:#f29e38'>[]</color></b> turn(s).",
+            "Desc": "Inflicts Vulnerability to Ultimate DMG when enemies enter battle and increases the DMG they take from Ultimates by <b><color style='color:#f29e38'>12.0%</color></b>.",
             "Icon": "SkillIcon_1308_Rank4"
         }
     },
