@@ -6830,6 +6830,54 @@ var _weaponskill = {
 
 var _changelog = [
     {
+        "Ver": "2.1v3",
+        "Logs": [
+            {
+                "Name": "Acheron",
+                "Color": "Elec",
+                "Notes": [
+                    "<color style='color:#f29d38'>Eidolon #1：</color>Added this effect: When Slashed Dream is at max, every stack of Slashed Dream that goes over grants a stack of Quadrivalent Ascendance, which can stack up to <color style='color:#f29e38'>3.0</color></b> times.",
+                    "<color style='color:#f29d38'>Eidolon #4：</color>Ult Vulnerability Effect: Triggered when Acheron casts her Ult, lasting 3 turns → Triggers when the enemy appears, lasts permanently"
+                ]
+            },
+            {
+                "Name": "Aventurine",
+                "Color": "Imaginary",
+                "Notes": [
+                    "<color style='color:#f29d38'>Skill: </color>Changed the Max Shield provided by Skill to 200% of the Shield provided by Skill. Below Lv10 this is a buff. Above Lv10 this is a nerf.",
+                    "<color style='color:#f29d38'>Technique: </color>Duration: 2 turns → 3 turns. When used again, keeps the (newest → best) effect.",
+                    "<color style='color:#f29d38'>Trace #1：</color>DEF convert to Crit Rate upper limit: 40% → 48%",
+                    "<color style='color:#f29d38'>Trace #3：</color>Max trigger times: 1 → 3",
+                    "<color style='color:#f29d38'>Eidolon #1：</color><br>Increases CRIT DMG for allies with Fortified Wager by <b><color style='color:#f29e38'>20.0%</color></b>. The Blind Bet effect obtained from the Trace \"Bingo!\" no longer has a trigger limit. Requires the Trace \"Bingo!\" to be unlocked first.<br>↓<br>Increases the CRIT DMG of allies with Fortified Wager by <b><color style='color:#f29e38'>20.0%</color></b>. Provide a Fortified Wager Shield to the entire team. The Shield effect equals to <b><color style='color:#f29e38'>100.0%</color></b> as that provided by the Skill, lasting for <b><color style='color:#f29e38'>3.0</color></b> turn(s).",
+                    "<color style='color:#f29d38'>Eidolon #4：</color>Talent's follow-up attack additionally increases by (1 → 3) hits"
+                ]
+            },
+            {
+                "Name": "Inherently Unjust Destiny",
+                "Notes": [
+                    "DEF Boost buffed by 4% DEF. Vulnerability buffed by 2% DMG."
+                ]
+            },
+            {
+                "Name": "Gallagher",
+                "Color": "Fire",
+                "Notes": [
+                    "Base HP 1058 → 1305 ; Base ATK 653 → 529",
+                    "<color style='color:#f29d38'>Talent: </color>Every time a Besotted target is attacked by an ally, the attacker heals (520 → 640) HP.",
+                    "<color style='color:#f29d38'>Trace #1：</color>Healing Bonus is increased by (30% → 50%) of Break Effect. Upper limit 75% unchanged.",
+                    "<color style='color:#f29d38'>Trace Stat Boost：</color><br>HP 10% → 18%<br>Effect RES 18% → 28%<br>Break Effect 37.3% → 13.3%",
+                    "<color style='color:#f29d38'>Eidolon #2：</color><br>Increases Break DMG dealt to targets in the Besotted state by <b><color style='color:#f29e38'>8.0%</color></b>.<br>↓<br>The Skill removes <b><color style='color:#f29e38'>1.0</color></b> debuff(s) from a target ally. At the same time, it increases Effect RES by <b><color style='color:#f29e38'>30.0%</color></b> for <b><color style='color:#f29e38'>2.0</color></b> turn(s)."
+                ]
+            },
+            {
+                "Name": "Concert for Two",
+                "Notes": [
+                    "Base HP 847 → 953 ; Base DEF 529 → 463"
+                ]
+            }
+        ]
+    },
+    {
         "Ver": "2.1v2",
         "Logs": [
             {
@@ -6857,5 +6905,6 @@ var _changelog = [
 ]
 
 var cl_select = {
-    "2.1v2": 0
+    "2.1v3": 0,
+    "2.1v2": 1
 }

@@ -6830,6 +6830,54 @@ var _weaponskill = {
 
 var _changelog = [
     {
+        "Ver": "2.1v3",
+        "Logs": [
+            {
+                "Name": "黄泉",
+                "Color": "Elec",
+                "Notes": [
+                    "<color style='color:#f29d38'>星魂 #1：</color>增加效果：当【残梦】达到上限时，每溢出1点【残梦】获得1层【四相断我】，使【四相断我】最多可以叠加至 <b><color style='color:#f29e38'>3.0</color></b> 层。",
+                    "<color style='color:#f29d38'>星魂 #4：</color>终结技易伤状态：黄泉施放终结技时触发，持续 3 回合 → 敌方出现时就施加，永久持续"
+                ]
+            },
+            {
+                "Name": "砂金",
+                "Color": "Imaginary",
+                "Notes": [
+                    "<color style='color:#f29d38'>战技：</color>战技提供的护盾量上限改为单次提供的 2 倍：10级以下为加强，10级以上为削弱",
+                    "<color style='color:#f29d38'>秘技：</color>持续回合：2 → 3，重复使用时，保留 (最新 → 最高) 的效果",
+                    "<color style='color:#f29d38'>行迹 #1：</color>防御力转暴击率上限：40% → 48%",
+                    "<color style='color:#f29d38'>行迹 #3：</color>可触发次数：1 → 3",
+                    "<color style='color:#f29d38'>星魂 #1：</color><br>持有【坚垣筹码】的我方目标暴击伤害提高 <b><color style='color:#f29e38'>20.0%</color></b> 。行迹【宾果！】的获得【盲注】效果不再有触发次数的限制，需要先解锁行迹【宾果！】。<br>↓<br>持有【坚垣筹码】的我方目标暴击伤害提高 <b><color style='color:#f29e38'>20.0%</color></b> 。施放终结技后，为我方全体提供护盾【坚垣筹码】，护盾量等同于战技提供的护盾量的 <b><color style='color:#f29e38'>100.0%</color></b> ，持续 <b><color style='color:#f29e38'>3.0</color></b> 回合。",
+                    "<color style='color:#f29d38'>星魂 #4：</color>天赋的追加攻击额外增加 1 → 3 段"
+                ]
+            },
+            {
+                "Name": "命运从未公平",
+                "Notes": [
+                    "防御力加成加成 4% 防御力，易伤加强 2% 受到的伤害"
+                ]
+            },
+            {
+                "Name": "加拉赫",
+                "Color": "Fire",
+                "Notes": [
+                    "基础生命值 1058 → 1305；基础攻击力 653 → 529",
+                    "<color style='color:#f29d38'>天赋：</color>陷入【酩酊】状态的目标每次受到我方角色攻击后，会回复攻击者 (520 → 640) 生命值",
+                    "<color style='color:#f29d38'>行迹 #1：</color>治疗加成提高量：击破特攻的 30% → 50%，上限 75% 未变",
+                    "<color style='color:#f29d38'>行迹属性加成：</color><br>生命值 10% → 18%<br>效果抵抗 18% → 28%<br>击破特攻 37.3% → 13.3%",
+                    "<color style='color:#f29d38'>星魂 #2：</color><br>处于【酩酊】状态的目标受到的击破伤害额外提高 <b><color style='color:#f29e38'>8.0%</color></b> 。<br>↓<br>施放战技时，解除指定我方单体的 <b><color style='color:#f29e38'>1.0</color></b> 个负面效果，同时使其效果抵抗提高 <b><color style='color:#f29e38'>30.0%</color></b> ，持续 <b><color style='color:#f29e38'>2.0</color></b> 回合。"
+                ]
+            },
+            {
+                "Name": "两个人的演唱会",
+                "Notes": [
+                    "基础生命值 847 → 953；基础防御力 529 → 463"
+                ]
+            }
+        ]
+    },
+    {
         "Ver": "2.1v2",
         "Logs": [
             {
@@ -6857,5 +6905,6 @@ var _changelog = [
 ]
 
 var cl_select = {
-    "2.1v2": 0
+    "2.1v3": 0,
+    "2.1v2": 1
 }
