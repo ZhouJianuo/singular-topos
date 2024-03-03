@@ -6833,6 +6833,12 @@ var _changelog = [
         "Ver": "2.1v3",
         "Logs": [
             {
+                "Name": "Memory of Chaos: Memory Turbulence",
+                "Notes": [
+                    "When Memory Imprint reaches max 6 stacks, deals percentage DMG to all enemies:<br>Previous: Minions 75%, Elite/BOSS 20%<br>Now: Minions 60%, Elite/BOSS 15%"
+                ]
+            },
+            {
                 "Name": "Acheron",
                 "Color": "Elec",
                 "Notes": [
