@@ -3,11 +3,11 @@
 var _Kingdoms = [
     {
         "ID": 0,
-        "Name": "Elemental Life",
+        "Name": "Элементальные существа",
         "Classes": [
             {
                 "ID": 100010,
-                "Name": "Slimes",
+                "Name": "Слаймы",
                 "Monsters": [
                     101,
                     103,
@@ -20,7 +20,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 100011,
-                "Name": "Big Slimes",
+                "Name": "Большие слаймы",
                 "Monsters": [
                     102,
                     104,
@@ -34,14 +34,14 @@ var _Kingdoms = [
             },
             {
                 "ID": 10002,
-                "Name": "Elem Core",
+                "Name": "Элем ядра",
                 "Monsters": [
                     201
                 ]
             },
             {
                 "ID": 10004,
-                "Name": "Hypostases",
+                "Name": "Гипостазисы",
                 "Monsters": [
                     401,
                     402,
@@ -54,7 +54,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10005,
-                "Name": "Oceanid",
+                "Name": "Океаниды",
                 "Monsters": [
                     503,
                     509,
@@ -71,7 +71,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10008,
-                "Name": "Phantasm",
+                "Name": "Фантазмы",
                 "Monsters": [
                     510,
                     511,
@@ -82,7 +82,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10006,
-                "Name": "Specters",
+                "Name": "Призраки",
                 "Monsters": [
                     601,
                     602,
@@ -95,7 +95,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10007,
-                "Name": "Raijin",
+                "Name": "Райджин",
                 "Monsters": [
                     701
                 ]
@@ -104,11 +104,11 @@ var _Kingdoms = [
     },
     {
         "ID": 1,
-        "Name": "Hilichurls",
+        "Name": "Хиличурлы",
         "Classes": [
             {
                 "ID": 101010,
-                "Name": "Melee",
+                "Name": "Ближнего боя",
                 "Monsters": [
                     10101,
                     10102,
@@ -120,7 +120,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 101011,
-                "Name": "Ranged",
+                "Name": "Дальнего боя",
                 "Monsters": [
                     10104,
                     10105,
@@ -140,7 +140,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 101020,
-                "Name": "Mitachurls",
+                "Name": "Митачурлы",
                 "Monsters": [
                     10202,
                     10207,
@@ -151,7 +151,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 101021,
-                "Name": "Lawachurls",
+                "Name": "Лавачурлы",
                 "Monsters": [
                     10205,
                     10204,
@@ -160,7 +160,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10103,
-                "Name": "Samachurls",
+                "Name": "Шамачурлы",
                 "Monsters": [
                     10301,
                     10302,
@@ -173,7 +173,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10104,
-                "Name": "Rogues",
+                "Name": "Изгои",
                 "Monsters": [
                     10401,
                     10402
@@ -183,11 +183,11 @@ var _Kingdoms = [
     },
     {
         "ID": 2,
-        "Name": "The Abyss",
+        "Name": "Бездна",
         "Classes": [
             {
                 "ID": 10201,
-                "Name": "Mages",
+                "Name": "Маги",
                 "Monsters": [
                     20101,
                     20102,
@@ -197,7 +197,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10202,
-                "Name": "Invokers",
+                "Name": "Вестники",
                 "Monsters": [
                     20201,
                     20202,
@@ -207,7 +207,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10210,
-                "Name": "Baptists",
+                "Name": "Чтецы",
                 "Monsters": [
                     21001,
                     21002,
@@ -217,7 +217,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10204,
-                "Name": "Rifthounds",
+                "Name": "Гончие",
                 "Monsters": [
                     20401,
                     20402,
@@ -228,7 +228,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10207,
-                "Name": "Khaenri'ah",
+                "Name": "Каэнри'ах",
                 "Monsters": [
                     20701,
                     20702,
@@ -239,7 +239,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10211,
-                "Name": "Breacher",
+                "Name": "Протогены",
                 "Monsters": [
                     21102,
                     21101,
@@ -251,11 +251,11 @@ var _Kingdoms = [
     },
     {
         "ID": 3,
-        "Name": "The Fatui",
+        "Name": "Фатуи",
         "Classes": [
             {
                 "ID": 10301,
-                "Name": "Skirmishers",
+                "Name": "Застрельщики",
                 "Monsters": [
                     30101,
                     30102,
@@ -267,14 +267,14 @@ var _Kingdoms = [
             },
             {
                 "ID": 10302,
-                "Name": "Agents",
+                "Name": "Агенты",
                 "Monsters": [
                     30201
                 ]
             },
             {
                 "ID": 10303,
-                "Name": "Cicin Mages",
+                "Name": "Маги цицинов",
                 "Monsters": [
                     30301,
                     30401
@@ -282,14 +282,14 @@ var _Kingdoms = [
             },
             {
                 "ID": 10305,
-                "Name": "Maidens",
+                "Name": "Девы",
                 "Monsters": [
                     30501
                 ]
             },
             {
                 "ID": 10306,
-                "Name": "Seneschals",
+                "Name": "Оперативники",
                 "Monsters": [
                     30601,
                     30602
@@ -299,11 +299,11 @@ var _Kingdoms = [
     },
     {
         "ID": 4,
-        "Name": "Automatons",
+        "Name": "Автоматоны",
         "Classes": [
             {
                 "ID": 104010,
-                "Name": "Primordial",
+                "Name": "Древние",
                 "Monsters": [
                     40101,
                     40102,
@@ -312,7 +312,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10402,
-                "Name": "Biomimetic",
+                "Name": "Бионические",
                 "Monsters": [
                     40201,
                     40202,
@@ -323,14 +323,14 @@ var _Kingdoms = [
             },
             {
                 "ID": 104011,
-                "Name": "Excavation",
+                "Name": "Подземные",
                 "Monsters": [
                     40104
                 ]
             },
             {
                 "ID": 10403,
-                "Name": "Drakes",
+                "Name": "Драконы",
                 "Monsters": [
                     40301,
                     40302,
@@ -339,7 +339,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10509,
-                "Name": "Swordmaster",
+                "Name": "Мечники",
                 "Monsters": [
                     50901,
                     50902,
@@ -349,7 +349,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10404,
-                "Name": "Deshret",
+                "Name": "Дешрет",
                 "Monsters": [
                     40401,
                     40402,
@@ -359,7 +359,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 104060,
-                "Name": "Small Meka",
+                "Name": "Маленькие Меки",
                 "Monsters": [
                     40603,
                     40605,
@@ -373,7 +373,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 104065,
-                "Name": "Small Meka",
+                "Name": "Маленькие Меки",
                 "Monsters": [
                     40653,
                     40655,
@@ -387,7 +387,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 104061,
-                "Name": "Big Meka",
+                "Name": "Большие Меки",
                 "Monsters": [
                     40609,
                     40608,
@@ -397,7 +397,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 104066,
-                "Name": "Big Meka",
+                "Name": "Большие Меки",
                 "Monsters": [
                     40659,
                     40658,
@@ -407,7 +407,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10407,
-                "Name": "Icewind",
+                "Name": "Сюиты",
                 "Monsters": [
                     40701,
                     40702
@@ -415,7 +415,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10408,
-                "Name": "Field Mek",
+                "Name": "Генераторы",
                 "Monsters": [
                     40801
                 ]
@@ -424,11 +424,11 @@ var _Kingdoms = [
     },
     {
         "ID": 5,
-        "Name": "Other Human",
+        "Name": "Фракции людей",
         "Classes": [
             {
                 "ID": 105010,
-                "Name": "Slim Dudes",
+                "Name": "Худые",
                 "Monsters": [
                     50102,
                     50202
@@ -436,7 +436,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 105011,
-                "Name": "Potioneers",
+                "Name": "Химики",
                 "Monsters": [
                     50103,
                     50104,
@@ -446,7 +446,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10502,
-                "Name": "Fat Dudes",
+                "Name": "Крупные",
                 "Monsters": [
                     50107,
                     50302,
@@ -457,7 +457,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10508,
-                "Name": "Nobushi",
+                "Name": "Нобуси",
                 "Monsters": [
                     50801,
                     50802,
@@ -466,7 +466,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10510,
-                "Name": "Kairagi",
+                "Name": "Кайраги",
                 "Monsters": [
                     51001,
                     51002
@@ -474,7 +474,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10521,
-                "Name": "Eremite Low",
+                "Name": "Пустынники 1",
                 "Monsters": [
                     52102,
                     52103,
@@ -485,7 +485,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10531,
-                "Name": "Eremite Mid",
+                "Name": "Пустынники 2",
                 "Monsters": [
                     53101,
                     53102,
@@ -494,7 +494,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10541,
-                "Name": "Eremite Top",
+                "Name": "Пустынники 3",
                 "Monsters": [
                     54101,
                     54102,
@@ -504,7 +504,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10511,
-                "Name": "Spirits",
+                "Name": "Духи",
                 "Monsters": [
                     51101,
                     51102,
@@ -516,11 +516,11 @@ var _Kingdoms = [
     },
     {
         "ID": 6,
-        "Name": "Mystical Beasts",
+        "Name": "Мистические звери",
         "Classes": [
             {
                 "ID": 10601,
-                "Name": "Mimetics",
+                "Name": "Попрыгуньи",
                 "Monsters": [
                     60101,
                     60102,
@@ -529,7 +529,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10602,
-                "Name": "Regisvines",
+                "Name": "Папоротники",
                 "Monsters": [
                     60201,
                     60202,
@@ -538,7 +538,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10603,
-                "Name": "Geovishaps",
+                "Name": "Геовишапы",
                 "Monsters": [
                     60301,
                     60401,
@@ -553,7 +553,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10605,
-                "Name": "Bathysmals",
+                "Name": "Вишапы глубин",
                 "Monsters": [
                     60509,
                     60510,
@@ -565,7 +565,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10606,
-                "Name": "Cicins",
+                "Name": "Цицины",
                 "Monsters": [
                     60601,
                     60602,
@@ -574,7 +574,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10609,
-                "Name": "Fungi",
+                "Name": "Плесенники 1",
                 "Monsters": [
                     60901,
                     60902,
@@ -590,7 +590,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10612,
-                "Name": "Shrooms",
+                "Name": "Плесенники 2",
                 "Monsters": [
                     61201,
                     61202,
@@ -600,14 +600,14 @@ var _Kingdoms = [
             },
             {
                 "ID": 10611,
-                "Name": "Shroomlord",
+                "Name": "Плесенники 3",
                 "Monsters": [
                     61101
                 ]
             },
             {
                 "ID": 10610,
-                "Name": "Consecrated",
+                "Name": "Священные",
                 "Monsters": [
                     61001,
                     61002,
@@ -618,14 +618,14 @@ var _Kingdoms = [
             },
             {
                 "ID": 10613,
-                "Name": "Wenuts",
+                "Name": "Унуты",
                 "Monsters": [
                     61301
                 ]
             },
             {
                 "ID": 10616,
-                "Name": "Aberrant",
+                "Name": "Фонтмеры",
                 "Monsters": [
                     61601,
                     61602,
@@ -634,7 +634,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10617,
-                "Name": "Emperor",
+                "Name": "Владыки",
                 "Monsters": [
                     61701,
                     61801
@@ -642,7 +642,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10619,
-                "Name": "Suanni",
+                "Name": "Суаньни",
                 "Monsters": [
                     61902,
                     61901
@@ -652,18 +652,18 @@ var _Kingdoms = [
     },
     {
         "ID": 11,
-        "Name": "<b>New in 4.4</b>",
+        "Name": "<b>Новые в 4.4</b>",
         "Classes": [
             {
                 "ID": 99990,
-                "Name": "Event",
+                "Name": "Событие",
                 "Monsters": [
                     43
                 ]
             },
             {
                 "ID": 99991,
-                "Name": "Chenyu Vale",
+                "Name": "Долина Чэньюй",
                 "Monsters": [
                     61902,
                     61901,
@@ -672,7 +672,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 99992,
-                "Name": "Legends",
+                "Name": "Легенды",
                 "Monsters": [
                     60406,
                     60407
@@ -682,18 +682,18 @@ var _Kingdoms = [
     },
     {
         "ID": 8,
-        "Name": "Animals",
+        "Name": "Звери",
         "Classes": [
             {
                 "ID": 10801,
-                "Name": "Dragonspine",
+                "Name": "Драконий хребет",
                 "Monsters": [
                     80203
                 ]
             },
             {
                 "ID": 10802,
-                "Name": "Sumpter",
+                "Name": "Вьючные яки",
                 "Monsters": [
                     806051,
                     806052,
@@ -705,14 +705,14 @@ var _Kingdoms = [
             },
             {
                 "ID": 10806,
-                "Name": "Chenyu Vale",
+                "Name": "Долина Чэньюй",
                 "Monsters": [
                     80221
                 ]
             },
             {
                 "ID": 10803,
-                "Name": "Rainforest",
+                "Name": "Тропики",
                 "Monsters": [
                     80601,
                     80602
@@ -720,7 +720,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10804,
-                "Name": "Desert",
+                "Name": "Пустыня",
                 "Monsters": [
                     80603,
                     80604,
@@ -729,7 +729,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10805,
-                "Name": "Fontaine",
+                "Name": "Фонтейн",
                 "Monsters": [
                     61510,
                     61520,
@@ -744,25 +744,25 @@ var _Kingdoms = [
     },
     {
         "ID": 9,
-        "Name": "Weekly BOSS",
+        "Name": "Еженедельные боссы",
         "Classes": [
             {
                 "ID": 10901,
-                "Name": "Stormterror",
+                "Name": "Двалин",
                 "Monsters": [
                     90101
                 ]
             },
             {
                 "ID": 10902,
-                "Name": "Boreas",
+                "Name": "Волчий лорд",
                 "Monsters": [
                     90201
                 ]
             },
             {
                 "ID": 10903,
-                "Name": "Childe",
+                "Name": "Чайльд",
                 "Monsters": [
                     90301,
                     90302,
@@ -771,14 +771,14 @@ var _Kingdoms = [
             },
             {
                 "ID": 10904,
-                "Name": "Azhdaha",
+                "Name": "Аждаха",
                 "Monsters": [
                     90401
                 ]
             },
             {
                 "ID": 10905,
-                "Name": "La Signora",
+                "Name": "Синьора",
                 "Monsters": [
                     90501,
                     90502
@@ -786,14 +786,14 @@ var _Kingdoms = [
             },
             {
                 "ID": 10906,
-                "Name": "Raiden",
+                "Name": "Райдэн",
                 "Monsters": [
                     90602
                 ]
             },
             {
                 "ID": 10907,
-                "Name": "Scaramouche",
+                "Name": "Скарамучча",
                 "Monsters": [
                     90701,
                     90702
@@ -801,7 +801,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 109080,
-                "Name": "Apep",
+                "Name": "Апеп",
                 "Monsters": [
                     90801,
                     90800
@@ -809,7 +809,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 109081,
-                "Name": "Apep",
+                "Name": "Апеп",
                 "Monsters": [
                     90802,
                     90803,
@@ -821,7 +821,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 10909,
-                "Name": "Devourer",
+                "Name": "Пожиратель",
                 "Monsters": [
                     90901,
                     90902,
@@ -832,11 +832,11 @@ var _Kingdoms = [
     },
     {
         "ID": 10,
-        "Name": "Local Legends",
+        "Name": "Местные легенды",
         "Classes": [
             {
                 "ID": 11001,
-                "Name": "Masanori",
+                "Name": "Масанори",
                 "Monsters": [
                     51003,
                     51004
@@ -844,7 +844,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 11002,
-                "Name": "Doggie",
+                "Name": "Песель",
                 "Monsters": [
                     80209
                 ]
@@ -893,7 +893,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 11006,
-                "Name": "Abyss",
+                "Name": "Бездна",
                 "Monsters": [
                     5102,
                     5112,
@@ -906,7 +906,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 11003,
-                "Name": "Monoliths",
+                "Name": "Монолиты",
                 "Monsters": [
                     70350450
                 ]
@@ -915,18 +915,18 @@ var _Kingdoms = [
     },
     {
         "ID": 12,
-        "Name": "Friendly",
+        "Name": "Дружелюбные",
         "Classes": [
             {
                 "ID": 12130,
-                "Name": "3.0 Quest",
+                "Name": "3.0 Задание",
                 "Monsters": [
                     35210101
                 ]
             },
             {
                 "ID": 12131,
-                "Name": "3.1 Quest",
+                "Name": "3.1 Задание",
                 "Monsters": [
                     35310101,
                     35310301
@@ -934,7 +934,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 12134,
-                "Name": "3.4 Quest",
+                "Name": "3.4 Задание",
                 "Monsters": [
                     35410101,
                     35410201
@@ -942,7 +942,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 12135,
-                "Name": "3.5 Dehya",
+                "Name": "3.5 Задание",
                 "Monsters": [
                     35210201,
                     35210402,
@@ -951,14 +951,14 @@ var _Kingdoms = [
             },
             {
                 "ID": 12136,
-                "Name": "3.6 Kaveh",
+                "Name": "3.6 Задание",
                 "Monsters": [
                     35210202
                 ]
             },
             {
                 "ID": 12138,
-                "Name": "3.8 Map",
+                "Name": "3.8 Задание",
                 "Monsters": [
                     30050701
                 ]
@@ -967,12 +967,12 @@ var _Kingdoms = [
     },
     {
         "ID": 23,
-        "Name": "4.4 F11",
-        "Disorder": "All party members receive a 75% Anemo DMG Bonus.",
+        "Name": "4.4 Этаж 11",
+        "Disorder": "Все члены группы получают 75% бонуса Анемо урона.",
         "Classes": [
             {
                 "ID": 12111,
-                "Name": "11-1 Upper",
+                "Name": "11-1 Верхний",
                 "Interval": "11-1",
                 "Monsters": [
                     10202,
@@ -982,7 +982,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 12112,
-                "Name": "11-1 Lower",
+                "Name": "11-1 Нижний",
                 "Interval": "11-1",
                 "Monsters": [
                     112,
@@ -993,7 +993,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 12121,
-                "Name": "11-2 Upper",
+                "Name": "11-2 Верхний",
                 "Interval": "11-2",
                 "Monsters": [
                     60402,
@@ -1003,7 +1003,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 12122,
-                "Name": "11-2 Lower",
+                "Name": "11-2 Нижний",
                 "Interval": "11-2",
                 "Monsters": [
                     20101,
@@ -1014,7 +1014,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 12131,
-                "Name": "11-3 Upper",
+                "Name": "11-3 Верхний",
                 "Interval": "11-3",
                 "Monsters": [
                     40301
@@ -1022,7 +1022,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 12132,
-                "Name": "11-3 Lower",
+                "Name": "11-3 Нижний",
                 "Interval": "11-3",
                 "Monsters": [
                     30501,
@@ -1036,12 +1036,12 @@ var _Kingdoms = [
     },
     {
         "ID": 25,
-        "Name": "4.4 F12",
-        "Disorder": "For this floor only, the ley line flow will be normal.",
+        "Name": "4.4 Этаж 12",
+        "Disorder": "Поток артерий земли будет нормальным только для этого этажа.",
         "Classes": [
             {
                 "ID": 12211,
-                "Name": "12-1 Upper",
+                "Name": "12-1 Верхний",
                 "Interval": "12-1",
                 "Monsters": [
                     40612,
@@ -1050,7 +1050,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 12212,
-                "Name": "12-1 Lower",
+                "Name": "12-1 Нижний",
                 "Interval": "12-1",
                 "Monsters": [
                     40104
@@ -1058,7 +1058,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 12221,
-                "Name": "12-2 Upper",
+                "Name": "12-2 Верхний",
                 "Interval": "12-2",
                 "Monsters": [
                     54101,
@@ -1069,7 +1069,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 12222,
-                "Name": "12-2 Lower",
+                "Name": "12-2 Нижний",
                 "Interval": "12-2",
                 "Monsters": [
                     61301
@@ -1077,7 +1077,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 12231,
-                "Name": "12-3 Upper",
+                "Name": "12-3 Верхний",
                 "Interval": "12-3",
                 "Monsters": [
                     40608,
@@ -1086,7 +1086,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 12232,
-                "Name": "12-3 Lower",
+                "Name": "12-3 Нижний",
                 "Interval": "12-3",
                 "Monsters": [
                     40303
@@ -1096,12 +1096,12 @@ var _Kingdoms = [
     },
     {
         "ID": 19,
-        "Name": "<b>4.5 F11</b>",
-        "Disorder": "All party members receive a 75% Geo DMG Bonus.",
+        "Name": "<b>4.5 Этаж 11</b>",
+        "Disorder": "Все члены группы получают 75% бонуса Гео урона.",
         "Classes": [
             {
                 "ID": 12111,
-                "Name": "11-1 Upper",
+                "Name": "11-1 Верхний",
                 "Interval": "11-1",
                 "Monsters": [
                     10203,
@@ -1113,7 +1113,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 12112,
-                "Name": "11-1 Lower",
+                "Name": "11-1 Нижний",
                 "Interval": "11-1",
                 "Monsters": [
                     61201,
@@ -1127,7 +1127,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 12121,
-                "Name": "11-2 Upper",
+                "Name": "11-2 Верхний",
                 "Interval": "11-2",
                 "Monsters": [
                     61902,
@@ -1137,7 +1137,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 12122,
-                "Name": "11-2 Lower",
+                "Name": "11-2 Нижний",
                 "Interval": "11-2",
                 "Monsters": [
                     61002,
@@ -1146,7 +1146,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 12131,
-                "Name": "11-3 Upper",
+                "Name": "11-3 Верхний",
                 "Interval": "11-3",
                 "Monsters": [
                     5102,
@@ -1155,7 +1155,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 12132,
-                "Name": "11-3 Lower",
+                "Name": "11-3 Нижний",
                 "Interval": "11-3",
                 "Monsters": [
                     40602,
@@ -1166,12 +1166,12 @@ var _Kingdoms = [
     },
     {
         "ID": 21,
-        "Name": "<b>4.5 F12</b>",
-        "Disorder": "For this floor only, the ley line flow will be normal.",
+        "Name": "<b>4.5 Этаж 12</b>",
+        "Disorder": "Поток артерий земли будет нормальным только для этого этажа.",
         "Classes": [
             {
                 "ID": 12211,
-                "Name": "12-1 Upper",
+                "Name": "12-1 Верхний",
                 "Interval": "12-1",
                 "Monsters": [
                     20101,
@@ -1182,7 +1182,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 12212,
-                "Name": "12-1 Lower",
+                "Name": "12-1 Нижний",
                 "Interval": "12-1",
                 "Monsters": [
                     61101
@@ -1190,7 +1190,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 12221,
-                "Name": "12-2 Upper",
+                "Name": "12-2 Верхний",
                 "Interval": "12-2",
                 "Monsters": [
                     607,
@@ -1205,7 +1205,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 12222,
-                "Name": "12-2 Lower",
+                "Name": "12-2 Нижний",
                 "Interval": "12-2",
                 "Monsters": [
                     40211
@@ -1213,7 +1213,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 12231,
-                "Name": "12-3 Upper",
+                "Name": "12-3 Верхний",
                 "Interval": "12-3",
                 "Monsters": [
                     40702
@@ -1221,7 +1221,7 @@ var _Kingdoms = [
             },
             {
                 "ID": 12232,
-                "Name": "12-3 Lower",
+                "Name": "12-3 Нижний",
                 "Interval": "12-3",
                 "Monsters": [
                     40632
