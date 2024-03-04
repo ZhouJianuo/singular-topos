@@ -72,7 +72,7 @@ $(function () {
                         section: [
                             {
                                 schedule: {
-                                    img: imgpre + 'images/Item/UI_ItemIcon_113055.png',
+                                    img: imgpre + 'images/Item/UI_ItemIcon_113002.png',
                                 },
                                 class: (I_TYPE == '1') ? 'active' : '',
                                 a: {
@@ -81,7 +81,7 @@ $(function () {
                             },
                             {
                                 schedule: {
-                                    img: imgpre + 'images/Item/UI_ItemIcon_112052.png',
+                                    img: imgpre + 'images/Item/UI_ItemIcon_112040.png',
                                 },
                                 class: (I_TYPE == '2') ? 'active' : '',
                                 a: {
