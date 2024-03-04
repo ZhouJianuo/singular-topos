@@ -7428,7 +7428,8 @@ var _items = [
             "Desc": "It is said to be the legacy of a genius potioneer. It can draw out the purest strength from within one's body.",
             "Eff": "Increases all party members' ATK by 320, CRIT Rate by 10%, and damage taken by 20% for 30s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_111029",
-            "Recipe": 14101
+            "Recipe": 14101,
+            "Buff": 2
         },
         {
             "_id": 108668,
@@ -7439,7 +7440,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108668",
             "Recipe": 3214,
             "Avatar": 94,
-            "AI": "UI_AvatarIcon_Chiori"
+            "AI": "UI_AvatarIcon_Chiori",
+            "Buff": 5
         },
         {
             "_id": 108667,
@@ -7448,7 +7450,8 @@ var _items = [
             "Desc": "？？？",
             "Eff": "Restores 34% of Max HP and an additional 1,900 HP to the selected character.",
             "Icon": "UI_ItemIcon_108666",
-            "Recipe": 3221
+            "Recipe": 3221,
+            "Buff": 0
         },
         {
             "_id": 108666,
@@ -7457,7 +7460,8 @@ var _items = [
             "Desc": "？？？",
             "Eff": "Restores 32% of Max HP and an additional 1,250 HP to the selected character.",
             "Icon": "UI_ItemIcon_108666",
-            "Recipe": 3221
+            "Recipe": 3221,
+            "Buff": 0
         },
         {
             "_id": 108665,
@@ -7466,7 +7470,8 @@ var _items = [
             "Desc": "？？？",
             "Eff": "Restores 30% of Max HP and an additional 600 HP to the selected character.",
             "Icon": "UI_ItemIcon_108666",
-            "Recipe": 3221
+            "Recipe": 3221,
+            "Buff": 0
         },
         {
             "_id": 108664,
@@ -7477,7 +7482,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108664",
             "Recipe": 1105,
             "Avatar": 92,
-            "AI": "UI_AvatarIcon_Gaming"
+            "AI": "UI_AvatarIcon_Gaming",
+            "Buff": 5
         },
         {
             "_id": 108663,
@@ -7488,7 +7494,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108663",
             "Recipe": 3122,
             "Avatar": 93,
-            "AI": "UI_AvatarIcon_Liuyun"
+            "AI": "UI_AvatarIcon_Liuyun",
+            "Buff": 2
         },
         {
             "_id": 108662,
@@ -7497,7 +7504,8 @@ var _items = [
             "Desc": "Common Liyue tea. Your initial sip brings forth flavor on an elegant light breeze, the sweet fragrances of Chenyu Vale alighting upon your lips and tongue. Hark — is that the sweet tinkling of the mountain springs singing in your ear?",
             "Eff": "Restores 10% of Max HP to the selected character and regenerates 300 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108661",
-            "Recipe": 1107
+            "Recipe": 1107,
+            "Buff": 5
         },
         {
             "_id": 108661,
@@ -7506,7 +7514,8 @@ var _items = [
             "Desc": "Common Liyue tea. Sometimes, one might compare life to the sweet aftertaste savored upon sipping a cup of tea.",
             "Eff": "Restores 9% of Max HP to the selected character and regenerates 260 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108661",
-            "Recipe": 1107
+            "Recipe": 1107,
+            "Buff": 5
         },
         {
             "_id": 108660,
@@ -7515,7 +7524,8 @@ var _items = [
             "Desc": "Common Liyue tea. You find yourself constantly sipping at it doubtfully, only to confirm that yes, this so-called tea still tastes like water. Was the low temperature the problem, or has it not had enough time to steep?",
             "Eff": "Restores 8% of Max HP to the selected character and regenerates 210 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108661",
-            "Recipe": 1107
+            "Recipe": 1107,
+            "Buff": 5
         },
         {
             "_id": 108659,
@@ -7524,7 +7534,8 @@ var _items = [
             "Desc": "An ancient dish, long recorded throughout history. As the milky white soup slides down the throat, you can only wish you had two stomachs. Eat a pot of this in winter, and you'll wish you were still eating it the following spring.",
             "Eff": "Increases all party members' DEF by 126 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108658",
-            "Recipe": 2116
+            "Recipe": 2116,
+            "Buff": 3
         },
         {
             "_id": 108658,
@@ -7533,7 +7544,8 @@ var _items = [
             "Desc": "An ancient dish, long recorded throughout history. Fresh fish and mutton are stewed together, with the tenderness of the fish and the juiciness of the lamb blending transforming the dish into a true delicacy.",
             "Eff": "Increases all party members' DEF by 107 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108658",
-            "Recipe": 2116
+            "Recipe": 2116,
+            "Buff": 3
         },
         {
             "_id": 108657,
@@ -7542,7 +7554,8 @@ var _items = [
             "Desc": "An ancient dish, long recorded throughout history. Alas, there's no time to worry about such matters, as the gamey mutton and rank fish vie for dominance within your mouth. Your poor taste buds sure could use an eternity of rinsing after that.",
             "Eff": "Increases all party members' DEF by 88 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108658",
-            "Recipe": 2116
+            "Recipe": 2116,
+            "Buff": 3
         },
         {
             "_id": 108656,
@@ -7551,7 +7564,8 @@ var _items = [
             "Desc": "A very popular dish. The translucent squab skin is crispy and thin as a sheet of ochre paper, and the meat is firm and plump. Accompanied by delicate gravy, this dish will capture hearts and stomachs alike.",
             "Eff": "Restores 24% of Max HP and an additional 1,500 HP to the selected character.",
             "Icon": "UI_ItemIcon_108655",
-            "Recipe": 2115
+            "Recipe": 2115,
+            "Buff": 0
         },
         {
             "_id": 108655,
@@ -7560,7 +7574,8 @@ var _items = [
             "Desc": "A very popular dish. Squab is marinated in tea and sauce overnight before being dried and deep-fried, suffusing the meat with the wonderful aroma of tea. This technique has been passed down for many years and is a banquet delicacy.",
             "Eff": "Restores 22% of Max HP and an additional 1,200 HP to the selected character.",
             "Icon": "UI_ItemIcon_108655",
-            "Recipe": 2115
+            "Recipe": 2115,
+            "Buff": 0
         },
         {
             "_id": 108654,
@@ -7569,7 +7584,8 @@ var _items = [
             "Desc": "A very popular dish. The char on the squab's legs and wings show a lack of control over the heat, but with a bit of patience, you might just about get it in your mouth.",
             "Eff": "Restores 20% of Max HP and an additional 900 HP to the selected character.",
             "Icon": "UI_ItemIcon_108655",
-            "Recipe": 2115
+            "Recipe": 2115,
+            "Buff": 0
         },
         {
             "_id": 108653,
@@ -7578,7 +7594,8 @@ var _items = [
             "Desc": "A traditional Liyue snack. The aroma of tea finds itself perfectly blended into the eggs. A dollop of deliciousness whether eaten all in one go or savored in small nibbles.",
             "Eff": "Revives a character and restores 150 HP.",
             "Icon": "UI_ItemIcon_108652",
-            "Recipe": 1106
+            "Recipe": 1106,
+            "Buff": 4
         },
         {
             "_id": 108652,
@@ -7587,7 +7604,8 @@ var _items = [
             "Desc": "A traditional snack that is widely popular in the streets and alleys of Liyue. The flavor of the tea seeps into the egg through cracks in its shell while it is boiling, and the cracks are as beautiful as the fractured patterns of jade.",
             "Eff": "Revives a character and restores 100 HP.",
             "Icon": "UI_ItemIcon_108652",
-            "Recipe": 1106
+            "Recipe": 1106,
+            "Buff": 4
         },
         {
             "_id": 108651,
@@ -7596,7 +7614,8 @@ var _items = [
             "Desc": "A traditional Liyue snack. It tastes no different from a standard boiled egg. Did something go wrong with the tea leaves or the cooking process?",
             "Eff": "Revives a character and restores 50 HP.",
             "Icon": "UI_ItemIcon_108652",
-            "Recipe": 1106
+            "Recipe": 1106,
+            "Buff": 4
         },
         {
             "_id": 108650,
@@ -7605,7 +7624,8 @@ var _items = [
             "Desc": "A tea pastry containing egg yolk. The loose and delicate texture of the grainy egg yolk mingles with a faint fragrance of tea. One small mouthful brings earthy happiness enough to make you swoon. You could pop several in your mouth at once, and woe betide any who should seek to steal a single crumb from the corner of your lips.",
             "Eff": "Restores 34% of Max HP and an additional 1,900 HP to the selected character.",
             "Icon": "UI_ItemIcon_108649",
-            "Recipe": 3123
+            "Recipe": 3123,
+            "Buff": 0
         },
         {
             "_id": 108649,
@@ -7614,7 +7634,8 @@ var _items = [
             "Desc": "A tea pastry containing egg yolk. The salted yolk is first steamed, then stuffed and wrapped in tea powder-infused dough. It's then kneaded into the shape of a full moon before being baked. This results in a crispy, flaky exterior with a salty and sweet interior, the different layers forming a delicious and addictive delicacy.",
             "Eff": "Restores 32% of Max HP and an additional 1,250 HP to the selected character.",
             "Icon": "UI_ItemIcon_108649",
-            "Recipe": 3123
+            "Recipe": 3123,
+            "Buff": 0
         },
         {
             "_id": 108648,
@@ -7623,7 +7644,8 @@ var _items = [
             "Desc": "A tea pastry containing egg yolk. As you pick it up, layers flake away like loose earth in a landslide. The first bite is sticky, sweet, cloying... And uh-oh, something gets stuck in your throat. Get some water to wash it down, then think about what to do with the rest.",
             "Eff": "Restores 30% of Max HP and an additional 600 HP to the selected character.",
             "Icon": "UI_ItemIcon_108649",
-            "Recipe": 3123
+            "Recipe": 3123,
+            "Buff": 0
         },
         {
             "_id": 108647,
@@ -7632,7 +7654,8 @@ var _items = [
             "Desc": "A type of roasted meat from Liyue. Richly red in color, aromatic, and intensely flavorful. Why, one might even faint from gluttony if one stares at it for too long. Between mouthfuls of delicious meat and rich sauce, one bowl of rice might seem too measly a match for this taste experience!",
             "Eff": "Restores 10% of Max HP to the selected character and regenerates 300 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108646",
-            "Recipe": 1105
+            "Recipe": 1105,
+            "Buff": 5
         },
         {
             "_id": 108646,
@@ -7641,7 +7664,8 @@ var _items = [
             "Desc": "A type of roasted meat from Liyue. As the name implies, the marinated meat skewered with a special metal fork is hung above the stove and roasted. The taste of freshly roasted Char Siu is a favorite of many a gourmand.",
             "Eff": "Restores 9% of Max HP to the selected character and regenerates 260 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108646",
-            "Recipe": 1105
+            "Recipe": 1105,
+            "Buff": 5
         },
         {
             "_id": 108645,
@@ -7650,7 +7674,8 @@ var _items = [
             "Desc": "A type of roasted meat from Liyue. Overly sweet seasoning makes for cloying torment of the tongue. As the local saying goes, a minute error can make a huge difference, and it seems that this holds true with cooking.",
             "Eff": "Restores 8% of Max HP to the selected character and regenerates 210 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108646",
-            "Recipe": 1105
+            "Recipe": 1105,
+            "Buff": 5
         },
         {
             "_id": 108644,
@@ -7659,7 +7684,8 @@ var _items = [
             "Desc": "A classic Liyue dish. Emerald green onions and the ruby red meatball complement each other perfectly, while exquisite and extraordinary knife skills make for a melt-in-your-mouth meatball, fatty but not greasy, guaranteed to have you praising it all week. Don't forget to clean your plate for good luck!",
             "Eff": "Increases all party members' ATK by 228 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108643",
-            "Recipe": 3122
+            "Recipe": 3122,
+            "Buff": 2
         },
         {
             "_id": 108643,
@@ -7668,7 +7694,8 @@ var _items = [
             "Desc": "A classic Liyue dish. Fatty and lean chunks of meat are mixed with crunchy bamboo shoots before being kneaded into a ball, fried, and then boiled. The finished dish is very popular, finding a place at home meals or banquets alike.",
             "Eff": "Increases all party members' ATK by 194 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108643",
-            "Recipe": 3122
+            "Recipe": 3122,
+            "Buff": 2
         },
         {
             "_id": 108642,
@@ -7677,7 +7704,8 @@ var _items = [
             "Desc": "A classic Liyue dish. The round shape and fragrant aroma seem on point, but it proves overly dry once you taste it. Perhaps you used too much lean meat in this one?",
             "Eff": "Increases all party members' ATK by 160 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108643",
-            "Recipe": 3122
+            "Recipe": 3122,
+            "Buff": 2
         },
         {
             "_id": 108641,
@@ -7686,7 +7714,8 @@ var _items = [
             "Desc": "One of Liyue's famous dishes. Scalloped red and white meat flowers, stir-fried as one, bloom tastiness on the tip of the tongue. Smooth, crispy, salty, and delicious, this is a must-have dish. You won't stop singing its praises even as you lick the plate clean.",
             "Eff": "Increases all party members' CRIT Rate by 12% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108640",
-            "Recipe": 2114
+            "Recipe": 2114,
+            "Buff": 6
         },
         {
             "_id": 108640,
@@ -7695,7 +7724,8 @@ var _items = [
             "Desc": "One of Liyue's famous dishes. Between the fierce heat, the boiling oil, and the sautéing process, this is a stern test of one's skills. Cook for a few seconds too few, and your ingredients might be left raw. Too many, and they will be overcooked and lacking in crispness. As such, this dish is often chosen by experienced Liyue chefs to display their mastery.",
             "Eff": "Increases all party members' CRIT Rate by 9% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108640",
-            "Recipe": 2114
+            "Recipe": 2114,
+            "Buff": 6
         },
         {
             "_id": 108639,
@@ -7704,7 +7734,8 @@ var _items = [
             "Desc": "One of Liyue's famous dishes. One careless flip and the raging fire mercilessly swept all crispness and tenderness aside, leaving naught but charred, blackened chunks in its wake.",
             "Eff": "Increases all party members' CRIT Rate by 6% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108640",
-            "Recipe": 2114
+            "Recipe": 2114,
+            "Buff": 6
         },
         {
             "_id": 108638,
@@ -7713,7 +7744,8 @@ var _items = [
             "Desc": "A dish that needs true skill to make. The plump and juicy lucky duck is irresistible as soon as it's out of the pot. Add fragrant gravy and a touch of rosy gloss, and this can be said to be the perfect combination of color, flavor, and shape, every bite a veritable flood of flavor with an enduring aftertaste.",
             "Eff": "Increases all party members' Shield Strength by 35% and DEF by 235 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108637",
-            "Recipe": 4105
+            "Recipe": 4105,
+            "Buff": 3
         },
         {
             "_id": 108637,
@@ -7722,7 +7754,8 @@ var _items = [
             "Desc": "A dish that needs true skill to make. Eight kinds of meat and vegetables, known as the eight treasures, are stuffed into a deboned duck. This is then molded into the shape of a gourd, to represent good fortune and auspiciousness. Exquisite ingredients, superb cutting skills, and phenomenal timing are all needed, that the finished dish might be worthy of its place as the final course at any banquet.",
             "Eff": "Increases all party members' Shield Strength by 30% and DEF by 200 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108637",
-            "Recipe": 4105
+            "Recipe": 4105,
+            "Buff": 3
         },
         {
             "_id": 108636,
@@ -7731,7 +7764,8 @@ var _items = [
             "Desc": "A dish that needs true skills to make. Your eyes ache by the time you finish removing all the bones. It seems this dish has proved a test not only for your knife skills but also for your physical endurance and patience. Shame, then, that the duck, so carefully arranged, practically blew apart inside the pan... Forget about trying this again. Just close your eyes and take it easy for a bit.",
             "Eff": "Increases all party members' Shield Strength by 25% and DEF by 165 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108637",
-            "Recipe": 4105
+            "Recipe": 4105,
+            "Buff": 3
         },
         {
             "_id": 108635,
@@ -7740,7 +7774,8 @@ var _items = [
             "Desc": "A staple dish with many ingredients. Golden egg yolk coats each grain of rice, the high heat having infused the rich flavor of the ham within. Such a familiar, home-style flavor will surely make any family or friends who've traveled from afar feel right at home.",
             "Eff": "Increases all party members' DEF by 235 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108634",
-            "Recipe": 3121
+            "Recipe": 3121,
+            "Buff": 3
         },
         {
             "_id": 108634,
@@ -7749,7 +7784,8 @@ var _items = [
             "Desc": "A staple dish made by frying ham, bird eggs, and other ingredients with rice. The wide choice of constituent ingredients that may be chosen and different ways of cooking make it a welcome dish in almost every house in Liyue.",
             "Eff": "Increases all party members' DEF by 200 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108634",
-            "Recipe": 3121
+            "Recipe": 3121,
+            "Buff": 3
         },
         {
             "_id": 108633,
@@ -7758,7 +7794,8 @@ var _items = [
             "Desc": "A staple dish with many ingredients. Insufficient heat and all-too-abundant moisture have left the taste lackluster, lacking the smoky flavor it should have. Better luck next time, preferably while frying on higher heat...",
             "Eff": "Increases all party members' DEF by 165 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108634",
-            "Recipe": 3121
+            "Recipe": 3121,
+            "Buff": 3
         },
         {
             "_id": 108632,
@@ -7767,7 +7804,8 @@ var _items = [
             "Desc": "A spiced tofu dish. The fried tofu comes with a rich soybean sauce as its classy chaperone. A single bite proves spicy with a hint of a meaty aroma, flooding your mouth with its mellow fragrance and long-lasting aftertaste.",
             "Eff": "Restores 30% of Max HP to the selected character and regenerates 790 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108631",
-            "Recipe": 3120
+            "Recipe": 3120,
+            "Buff": 5
         },
         {
             "_id": 108631,
@@ -7776,7 +7814,8 @@ var _items = [
             "Desc": "A spiced tofu dish. Sautéed tofu is stir-fried with the sauce until browned and ready to serve. Despite the ordinary ingredients, the resulting dish is particularly mellow and fragrant, a perfect partner for rice. It can be said to be the home cook's dish of choice.",
             "Eff": "Restores 28% of Max HP to the selected character and regenerates 620 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108631",
-            "Recipe": 3120
+            "Recipe": 3120,
+            "Buff": 5
         },
         {
             "_id": 108630,
@@ -7785,7 +7824,8 @@ var _items = [
             "Desc": "A spiced tofu dish. The tofu is far too spicy to enjoy as-is, but if you spend some time rinsing the excess seasoning off, you might be able to stomach it...",
             "Eff": "Restores 26% of Max HP to the selected character and regenerates 450 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108631",
-            "Recipe": 3120
+            "Recipe": 3120,
+            "Buff": 5
         },
         {
             "_id": 108629,
@@ -7794,7 +7834,8 @@ var _items = [
             "Desc": "A unique meat dish. Each type of shredded meat plays its role in an orchestra of flavor, while the delicate seasoning skillfully blends the various tonal tastes. As one critic put it, just as there are myriad modes, nuanced notes, and complex compositional correspondence, so is it with flavor, the apex of which might even transport you to a different realm...",
             "Eff": "Increases all party members' CRIT Rate by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108628",
-            "Recipe": 3119
+            "Recipe": 3119,
+            "Buff": 6
         },
         {
             "_id": 108628,
@@ -7803,7 +7844,8 @@ var _items = [
             "Desc": "A unique meat dish. A variety of shredded meat is kneaded and fried for flavor. The complex ingredients and different textures make this dish quite the test of a chef's skills and is a rarity even in some of the most well-known restaurants.",
             "Eff": "Increases all party members' CRIT Rate by 15% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108628",
-            "Recipe": 3119
+            "Recipe": 3119,
+            "Buff": 6
         },
         {
             "_id": 108627,
@@ -7812,7 +7854,8 @@ var _items = [
             "Desc": "A unique meat dish. The mixed shredded meat was fused from being cooked over far too high a temperature, turning the whole dish into a meat slurry. A single bite — a roused rabble of different flavors — leaves your taste buds in utter turmoil.",
             "Eff": "Increases all party members' CRIT Rate by 10% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108628",
-            "Recipe": 3119
+            "Recipe": 3119,
+            "Buff": 6
         },
         {
             "_id": 108626,
@@ -7821,7 +7864,8 @@ var _items = [
             "Desc": "A deliciously fragrant Liyue dish. Soft, smooth crab meat is wrapped in tender, chewy shrimp meat, like a luxurious treasure that people unconsciously reach for. One delicate bite fills your mouth with flavor, like waves billowing across your palate as you float in a delicious river of shrimp and crab.",
             "Eff": "Increases all party members' Max HP by 25% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108625",
-            "Recipe": 3118
+            "Recipe": 3118,
+            "Buff": 3
         },
         {
             "_id": 108625,
@@ -7830,7 +7874,8 @@ var _items = [
             "Desc": "A deliciously fragrant Liyue dish. Shrimp meat is battered and cooked with rich crab roe. The roe is as radiant gold, while the shrimp sparkles like jade, hence the name \"The Palace Jewels.\"",
             "Eff": "Increases all party members' Max HP by 22% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108625",
-            "Recipe": 3118
+            "Recipe": 3118,
+            "Buff": 3
         },
         {
             "_id": 108624,
@@ -7839,7 +7884,8 @@ var _items = [
             "Desc": "A deliciously fragrant Liyue dish. The roughly processed shrimp and half-cooked crab roe give off an odd smell, reeking of the charnel stench of some brutal crab-shrimp war. Considering that the raw ingredients themselves are still quite fresh, this shambling nightmare could still be classified as food... if one were to ignore the stink, anyway.",
             "Eff": "Increases all party members' Max HP by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108625",
-            "Recipe": 3118
+            "Recipe": 3118,
+            "Buff": 3
         },
         {
             "_id": 108623,
@@ -7848,7 +7894,8 @@ var _items = [
             "Desc": "A true blue Fontinalia Festival snack. Its crystalline coloration would not be ashamed if compared to the light scattering off the rippling waves. Its featherweight elegance is like that of falling petals, its airy texture like a snowflake melting in your throat. To eat such a delicacy must surely be the loveliest thing that could happen during the Festival!",
             "Eff": "Increases all party members' ATK by 320 and CRIT Rate by 10% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108622",
-            "Recipe": 4403
+            "Recipe": 4403,
+            "Buff": 2
         },
         {
             "_id": 108622,
@@ -7857,7 +7904,8 @@ var _items = [
             "Desc": "A true blue Fontinalia Festival snack. This mousse is shaped in the image of the Lakelight Lily's bud. After the Festival's customs were changed to align more with dessert delectation, it quickly came to be a much-favored Fontainian food favorite. Don't forget to share them with all the trial-or-treaters who come your way!",
             "Eff": "Increases all party members' ATK by 272 and CRIT Rate by 8% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108622",
-            "Recipe": 4403
+            "Recipe": 4403,
+            "Buff": 2
         },
         {
             "_id": 108621,
@@ -7866,7 +7914,8 @@ var _items = [
             "Desc": "A true blue Fontinalia Festival snack. That said, a true tragedy seems to have befallen this serving, reminding one of nothing so much as a Cryo Whopperflower... Are you sure the Lakelight Lilies in this one weren't, in truth, Whopperflowers? Uh, best you get rid of this on the down low... serving a dish like this during the festival might just be a chargeable offense!",
             "Eff": "Increases all party members' ATK by 224 and CRIT Rate by 6% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108622",
-            "Recipe": 4403
+            "Recipe": 4403,
+            "Buff": 2
         },
         {
             "_id": 108620,
@@ -7877,7 +7926,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108620",
             "Recipe": 3419,
             "Avatar": 91,
-            "AI": "UI_AvatarIcon_Navia"
+            "AI": "UI_AvatarIcon_Navia",
+            "Buff": 1
         },
         {
             "_id": 108619,
@@ -7888,7 +7938,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108619",
             "Recipe": 3418,
             "Avatar": 90,
-            "AI": "UI_AvatarIcon_Chevreuse"
+            "AI": "UI_AvatarIcon_Chevreuse",
+            "Buff": 3
         },
         {
             "_id": 108618,
@@ -7897,7 +7948,8 @@ var _items = [
             "Desc": "Small, multi-colored round pastries. The crisp shell wraps a thick, soft filling, and all is right with the world. Try one, and it shall be as if a little kitten's nose is nuzzling against your chest. Surely no one could help but fall for such an experience.",
             "Eff": "Decreases all party members' climbing and sprinting Stamina consumption by 25% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108617",
-            "Recipe": 3419
+            "Recipe": 3419,
+            "Buff": 1
         },
         {
             "_id": 108617,
@@ -7906,7 +7958,8 @@ var _items = [
             "Desc": "Small, multi-colored round pastries. There's a saying in Fontaine that a dessert spread without macarons is like having the many waters bereft of their source. Never mind the dessert artists in Fontainian kitchens — even dessert dilettantes on the streets know this adage by heart.",
             "Eff": "Decreases all party members' climbing and sprinting Stamina consumption by 20% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108617",
-            "Recipe": 3419
+            "Recipe": 3419,
+            "Buff": 1
         },
         {
             "_id": 108616,
@@ -7915,7 +7968,8 @@ var _items = [
             "Desc": "Small, multi-colored round pastries. The first one feels empty, the second is slanted, the third uneven, and the fourth's a fickle mix... As expected of a Fontainian dessert dictated by dozens of details, this will take more work to master.",
             "Eff": "Decreases all party members' climbing and sprinting Stamina consumption by 15% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108617",
-            "Recipe": 3419
+            "Recipe": 3419,
+            "Buff": 1
         },
         {
             "_id": 108615,
@@ -7924,7 +7978,8 @@ var _items = [
             "Desc": "A golden brown fried snack. Freshly fried and fully fragrant they come, ready to get appetites roaring. With the ring in your left hand and the round in your right, behold, the crest of crispness lies in your grasp. Dig in! Let the flavor flood forth into your mouth.",
             "Eff": "Increases all party members' Healing Bonus by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108614",
-            "Recipe": 3418
+            "Recipe": 3418,
+            "Buff": 3
         },
         {
             "_id": 108614,
@@ -7933,7 +7988,8 @@ var _items = [
             "Desc": "A golden brown fried snack. Mashed chicken is shaped into a hollow \"O\" shape by combining them with onion rings. Mashed fish and potatoes are similarly combined into a round form, making up the meat of the \"feast.\" Put them both into a pot of hot oil and presto — your \"Feast-O's\" are born amidst the crackling oil.",
             "Eff": "Increases all party members' Healing Bonus by 17% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108614",
-            "Recipe": 3418
+            "Recipe": 3418,
+            "Buff": 3
         },
         {
             "_id": 108613,
@@ -7942,7 +7998,8 @@ var _items = [
             "Desc": "A golden brown fried snack, from which the excess oil was drained after much arduous labor, only to result in a soggy fried slop stripped of any crispiness. Hmm... Might the gulls by the shore be willing to accept such a meager offering?",
             "Eff": "Increases all party members' Healing Bonus by 15% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108614",
-            "Recipe": 3418
+            "Recipe": 3418,
+            "Buff": 3
         },
         {
             "_id": 108612,
@@ -7953,7 +8010,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108612",
             "Recipe": 3402,
             "Avatar": 88,
-            "AI": "UI_AvatarIcon_Charlotte"
+            "AI": "UI_AvatarIcon_Charlotte",
+            "Buff": 7
         },
         {
             "_id": 108611,
@@ -7964,7 +8022,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108611",
             "Recipe": 3416,
             "Avatar": 89,
-            "AI": "UI_AvatarIcon_Furina"
+            "AI": "UI_AvatarIcon_Furina",
+            "Buff": 3
         },
         {
             "_id": 108610,
@@ -7973,7 +8032,8 @@ var _items = [
             "Desc": "A cream-filled dessert. After the first morsel crosses your lips, you simply cannot help but scarf the rest down! Even the remnants of the cream lingering on the corners of your mouth is enough to flood your heart with contented bliss. If only every meal could be followed by such sweet perfection... Ah! How wondrous would this adventrous life be!",
             "Eff": "Increases all party members' Physical DMG by 40% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108609",
-            "Recipe": 3417
+            "Recipe": 3417,
+            "Buff": 2
         },
         {
             "_id": 108609,
@@ -7982,7 +8042,8 @@ var _items = [
             "Desc": "A cream-filled dessert. Fluffy, flaky crust cradles a rich cream within. Round and nearly bursting, it's as cute as a Blubberbeast's belly. Few hearts can escape being ensnared by the thick, soft cream within.",
             "Eff": "Increases all party members' Physical DMG by 30% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108609",
-            "Recipe": 3417
+            "Recipe": 3417,
+            "Buff": 2
         },
         {
             "_id": 108608,
@@ -7991,7 +8052,8 @@ var _items = [
             "Desc": "A cream-filled dessert. It's been sitting out way too long, and the once-flaky crust is now soft and mushy. It is... quite different from the crispy texture you imagined. After trying a single bite, you want to just pass the \"death sentence\" on this erstwhile dessert.",
             "Eff": "Increases all party members' Physical DMG by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108609",
-            "Recipe": 3417
+            "Recipe": 3417,
+            "Buff": 2
         },
         {
             "_id": 108607,
@@ -8000,7 +8062,8 @@ var _items = [
             "Desc": "A small cake, shaped into a long rectangle. The endlessly indulgent aroma of coffee and almonds draws you in and pushes your thoughts forward, as though you absentmindedly stumbled into an extravagant opera without even realizing it. You find yourself drowning in the twists and turns of this luxurious performance, and only hope that the finale never comes.",
             "Eff": "Increases all party members' Max HP by 25% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108606",
-            "Recipe": 3416
+            "Recipe": 3416,
+            "Buff": 3
         },
         {
             "_id": 108606,
@@ -8009,7 +8072,8 @@ var _items = [
             "Desc": "A small cake, shaped into a long rectangle. It is said that long, long ago, a certain patissier used the great love the people of Fontaine held for their Hydro Archon as inspiration to create this confectionary masterpiece. The manifold layers stacked one upon the other are a true test of the chef's skills, and each aspect of this cake is proof of the great Hydro Archon's influence.",
             "Eff": "Increases all party members' Max HP by 22% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108606",
-            "Recipe": 3416
+            "Recipe": 3416,
+            "Buff": 3
         },
         {
             "_id": 108605,
@@ -8018,7 +8082,8 @@ var _items = [
             "Desc": "A small cake, shaped into a long rectangle. The flavor of each layer seems more or less the same, and... wait a minute, it's even missing a few layers! Connoisseurs will know the bakery messed up badly after the first bite.",
             "Eff": "Increases all party members' Max HP by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108606",
-            "Recipe": 3416
+            "Recipe": 3416,
+            "Buff": 3
         },
         {
             "_id": 108604,
@@ -8029,7 +8094,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108604",
             "Recipe": 2407,
             "Avatar": 86,
-            "AI": "UI_AvatarIcon_Wriothesley"
+            "AI": "UI_AvatarIcon_Wriothesley",
+            "Buff": 0
         },
         {
             "_id": 108603,
@@ -8040,7 +8106,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108603",
             "Recipe": 3413,
             "Avatar": 87,
-            "AI": "UI_AvatarIcon_Neuvillette"
+            "AI": "UI_AvatarIcon_Neuvillette",
+            "Buff": 6
         },
         {
             "_id": 108602,
@@ -8049,7 +8116,8 @@ var _items = [
             "Desc": "Crepes with fillings. The light cream and delectable jam are composed into a symphony of flavor, folded into a masterfully cooked soft crepe, as though robed in silken perfection, inviting your tongue to join an elegant, endless waltz of culinary delight.",
             "Eff": "Decreases all party members' gliding and sprinting Stamina consumption by 25% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108601",
-            "Recipe": 3415
+            "Recipe": 3415,
+            "Buff": 1
         },
         {
             "_id": 108601,
@@ -8058,7 +8126,8 @@ var _items = [
             "Desc": "Crepes with fillings. Fry the crepes first, then serve them with jam, cream, and fruit slices. In fact, the recipe has quite a few variants. The dish's taste differs according to the different ingredients used.",
             "Eff": "Decreases all party members' gliding and sprinting Stamina consumption by 20% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108601",
-            "Recipe": 3415
+            "Recipe": 3415,
+            "Buff": 1
         },
         {
             "_id": 108600,
@@ -8067,7 +8136,8 @@ var _items = [
             "Desc": "Crepes with fillings. The first bite is so bland you wonder if you've lost your sense of taste. The second bite is so unbearably sweet that you wish you actually had lost it... Such a stimulating culinary experience is like riding a waverider into a storm: Even if you make it to the shore, you'll be traumatized.",
             "Eff": "Decreases all party members' gliding and sprinting Stamina consumption by 15% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108601",
-            "Recipe": 3415
+            "Recipe": 3415,
+            "Buff": 1
         },
         {
             "_id": 108599,
@@ -8076,7 +8146,8 @@ var _items = [
             "Desc": "A simple rustic stew. Time is the most wondrous of weapons for catalyzing the creation of deliciousness, and time allows the meat in this dish to soak up the ocean of stewed flavor it is bathing in, becoming soft and fragrant. Together with the rich aroma of the beans, it conjures a warm delight in one's mouth that stirs the spirit.",
             "Eff": "Increases all party members' Shield Strength by 30% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108598",
-            "Recipe": 3414
+            "Recipe": 3414,
+            "Buff": 3
         },
         {
             "_id": 108598,
@@ -8085,7 +8156,8 @@ var _items = [
             "Desc": "A simple countryside stew. Simply put all the ingredients in a casserole, mix them up, and cook until they are ready to serve. It is worth noting that the full name of this dish is \"Glabrous Beans, Fowl Confit, and Smoked Sausage Stew in Cassoulet Casserole with a Side of Marcotte.\" The intimidating lengthiness of the name has, understandably, driven people to just call it \"Cassoulet.\"",
             "Eff": "Increases all party members' Shield Strength by 25% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108598",
-            "Recipe": 3414
+            "Recipe": 3414,
+            "Buff": 3
         },
         {
             "_id": 108597,
@@ -8094,7 +8166,8 @@ var _items = [
             "Desc": "A simple rustic stew. Though it looks okay at a glance, as you begin to eat, you notice a slight burned taste, before realizing the bottom layer of ingredients has been so badly burned they've all fused to the casserole. Ugh... next time, stir the ingredients occasionally while cooking...",
             "Eff": "Increases all party members' Shield Strength by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108598",
-            "Recipe": 3414
+            "Recipe": 3414,
+            "Buff": 3
         },
         {
             "_id": 108596,
@@ -8103,7 +8176,8 @@ var _items = [
             "Desc": "A traditional Fontainian dish. A perfect combination, with the sweet fragrance of the apples neutralizing the fat of the blood sausage. An enticing, slightly burnt smell wafts upwards from the plate, and the eyes of those who see it light up as they shout with joy and anticipation.",
             "Eff": "Decreases all party members' sprinting Stamina consumption by 25% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108595",
-            "Recipe": 2408
+            "Recipe": 2408,
+            "Buff": 1
         },
         {
             "_id": 108595,
@@ -8112,7 +8186,8 @@ var _items = [
             "Desc": "A traditional Fontainian dish. Fry the apple slices and blood sausage slices separately and serve them on a plate with sauce. Judging by the name of this dish, tourists from other nations often think it should be a dessert, while Boudin Noir is actually just a name for blood sausage.",
             "Eff": "Decreases all party members' sprinting Stamina consumption by 20% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108595",
-            "Recipe": 2408
+            "Recipe": 2408,
+            "Buff": 1
         },
         {
             "_id": 108594,
@@ -8121,7 +8196,8 @@ var _items = [
             "Desc": "A traditional Fontainian dish. It seems too much oil was accidentally added, creating an extremely greasy product dripping in the stuff. If you can think of a good way to absorb and remove the excess oil, it might become edible.",
             "Eff": "Decreases all party members' sprinting Stamina consumption by 15% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108595",
-            "Recipe": 2408
+            "Recipe": 2408,
+            "Buff": 1
         },
         {
             "_id": 108593,
@@ -8130,7 +8206,8 @@ var _items = [
             "Desc": "A soup with a complex recipe. A clear soup the combines the essence of the boundless blue skies above and the limitless land below, the aromas of meat and vegetables blended seamlessly into a greater whole. No wonder a columnist for The Steambird, once unable to squeeze out a single word onto the blank paper before them, drank a single bowl and immediately became a font of literary genius, every word nearly as exquisite as this dish.",
             "Eff": "Increases all party members' CRIT Rate by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108592",
-            "Recipe": 3413
+            "Recipe": 3413,
+            "Buff": 6
         },
         {
             "_id": 108592,
@@ -8139,7 +8216,8 @@ var _items = [
             "Desc": "A soup with a recipe involving many steps. Mash ingredients, then stew the mash in broth, and finally serve only the clear soup from the stew. Mysterious gossip on the streets in Fontaine claims that a writer suffering from writer's block had a sudden burst of inspiration after slurping this soup down... But how can one be sure that such stupendous effects are really not false advertising cooked up by some restaurant?",
             "Eff": "Increases all party members' CRIT Rate by 15% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108592",
-            "Recipe": 3413
+            "Recipe": 3413,
+            "Buff": 6
         },
         {
             "_id": 108591,
@@ -8148,7 +8226,8 @@ var _items = [
             "Desc": "A soup with a complex recipe. A turbid and muddy looking fluid, a single glance is enough to tell this is a failed creation. Perhaps the only thing in Fontaine that would accept such \"food\" are the Tainted Hydro Phantasms roaming beside the water...",
             "Eff": "Increases all party members' CRIT Rate by 10% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108592",
-            "Recipe": 3413
+            "Recipe": 3413,
+            "Buff": 6
         },
         {
             "_id": 108590,
@@ -8157,7 +8236,8 @@ var _items = [
             "Desc": "A dish of meat and vegetables. Juicy mouthwatering tomatoes filled with hearty meat, each one has an agile, charming aroma, which explodes into a splendid savor after biting into it. After eating a single one, all the dark clouds in your heart will have been banished by the rich deliciousness emanating from your tongue.",
             "Eff": "Increases all party members' ATK by 228 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108589",
-            "Recipe": 3412
+            "Recipe": 3412,
+            "Buff": 2
         },
         {
             "_id": 108589,
@@ -8166,7 +8246,8 @@ var _items = [
             "Desc": "A dish with a well-balanced proportion of meat and vegetables. Hollow out a round tomato, fill the hollowed tomato with ground meat, then bake this combination. This dish has a sour flavor and a tender texture. It is a very popular choice on Fontainian tables.",
             "Eff": "Increases all party members' ATK by 194 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108589",
-            "Recipe": 3412
+            "Recipe": 3412,
+            "Buff": 2
         },
         {
             "_id": 108588,
@@ -8175,7 +8256,8 @@ var _items = [
             "Desc": "A dish of meat and vegetables. Each dully colored tomato seems to be almost trembling, as though it wants to open its mouth and sob at what it has become. Even worse, the ground meat inside tastes like wood chips. There's four of these cup-like tomato abominations, just how should they be dealt with?",
             "Eff": "Increases all party members' ATK by 160 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108589",
-            "Recipe": 3412
+            "Recipe": 3412,
+            "Buff": 2
         },
         {
             "_id": 108587,
@@ -8184,7 +8266,8 @@ var _items = [
             "Desc": "An offal dish. The flaky yet soft cow's stomach has an almost fruity fragrance. Unlike other surprising delicacies that take the world by storm, the dish is overflowing with rich traditional savor, and once you have a single bite, you simply cannot stop!",
             "Eff": "Revives a character and restores 1,500 HP.",
             "Icon": "UI_ItemIcon_108586",
-            "Recipe": 3411
+            "Recipe": 3411,
+            "Buff": 4
         },
         {
             "_id": 108586,
@@ -8193,7 +8276,8 @@ var _items = [
             "Desc": "An offal dish. Cut the ingredients into pieces, put them in a pot, seal with dough, and bake. This recipe originated in a harbor town. The story of the town has long been swallowed by the rising seas, but this delicacy yet survives in Fontaine.",
             "Eff": "Revives a character and restores 1,200 HP.",
             "Icon": "UI_ItemIcon_108586",
-            "Recipe": 3411
+            "Recipe": 3411,
+            "Buff": 4
         },
         {
             "_id": 108585,
@@ -8202,7 +8286,8 @@ var _items = [
             "Desc": "An offal dish. The texture of the cow's stomach is like wind-dried leather, and it is completely unchewable. Even worse is the strange flavor spreading throughout your mouth, it's like you've taken an \"expired canned food\" challenge... Just giving up might be your best option.",
             "Eff": "Revives a character and restores 900 HP.",
             "Icon": "UI_ItemIcon_108586",
-            "Recipe": 3411
+            "Recipe": 3411,
+            "Buff": 4
         },
         {
             "_id": 108584,
@@ -8211,7 +8296,8 @@ var _items = [
             "Desc": "A dish with strong and distinctive flavors. After venturing a nibble, the mellow and rich taste of the offal and various spices serve up layer after layer of piquancy to your taste buds. As you savor the flavor, the abundant meaty aroma fills your mouth with a bountiful aftertaste that lingers long after you have finished. No wonder it inspires such strong emotions in the hearts of poets, and they can seldom resist dedicating a paean to this dish after trying it.",
             "Eff": "Increases all party members' DEF by 308 and healing effects by 10% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108583",
-            "Recipe": 4402
+            "Recipe": 4402,
+            "Buff": 3
         },
         {
             "_id": 108583,
@@ -8220,7 +8306,8 @@ var _items = [
             "Desc": "A dish with strong and distinctive flavors. Chop up the sheep offal, mix it with oatmeal, and stuff the mixture into a sheep stomach along with various seasonings and spices to form a bag. When the dish is served, this stomach-bag is usually removed while the fillings are served with radish paste and mashed potatoes. This is a local specialty that Fontainians often cook as a treat for important guests.",
             "Eff": "Increases all party members' DEF by 261 and healing effects by 8% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108583",
-            "Recipe": 4402
+            "Recipe": 4402,
+            "Buff": 3
         },
         {
             "_id": 108582,
@@ -8229,7 +8316,8 @@ var _items = [
             "Desc": "A dish with a very distinctive flavor. Dry and coarse kernels of... something... scrape the surface of your tongue, making you feel like this may not be something edible at all. As you laboriously chew, you can't help but wonder... Did some chips of firewood or something accidentally get mixed in while it was being made?",
             "Eff": "Increases all party members' DEF by 215 and healing effects by 6% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108583",
-            "Recipe": 4402
+            "Recipe": 4402,
+            "Buff": 3
         },
         {
             "_id": 108581,
@@ -8238,7 +8326,8 @@ var _items = [
             "Desc": "A refreshing dessert. The rich fragrance of custard and savory scent of coffee mingle on the tip of your tongue, the steps of their delicate dance light, leaving a surprisingly silky and smooth texture lingering in your mouth. No wonder this dish is always the darling of the dessert menu!",
             "Eff": "Restores 30% of Max HP to the selected character and regenerates 790 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108580",
-            "Recipe": 3410
+            "Recipe": 3410,
+            "Buff": 5
         },
         {
             "_id": 108580,
@@ -8247,7 +8336,8 @@ var _items = [
             "Desc": "A refreshing dessert. Though it is one of Fontaine's trademark desserts, its recipe is very simple and straightforward. As long as the proportion of ingredients is right, hardly anyone could fail at making this dessert. It has an exquisite texture with a touch of refreshing cold taste, and can instantly lift your spirits.",
             "Eff": "Restores 28% of Max HP to the selected character and regenerates 620 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108580",
-            "Recipe": 3410
+            "Recipe": 3410,
+            "Buff": 5
         },
         {
             "_id": 108579,
@@ -8256,7 +8346,8 @@ var _items = [
             "Desc": "A refreshing dessert. After taking a big bite, an intense assault of bitterness and sourness attacks your brain, wiping it clean. You can only surmise that too many Coffee Beans were added. Though the bitterness in your mouth may subside after some time, you might want to worry more about the quality of your sleep tonight...",
             "Eff": "Restores 26% of Max HP to the selected character and regenerates 450 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108580",
-            "Recipe": 3410
+            "Recipe": 3410,
+            "Buff": 5
         },
         {
             "_id": 108578,
@@ -8265,7 +8356,8 @@ var _items = [
             "Desc": "A tender meat dish with crispy skin. Even before it has been taken off the grill, the enticing meaty aroma assails your nostrils with promises of heaven. Take a single bite, and the crackling of the skin gives way to the juicy, tender meat within... No wonder this dish steals the show the moment it is placed onto the table!",
             "Eff": "Restores 24% of Max HP and an additional 1,500 HP to the selected character.",
             "Icon": "UI_ItemIcon_108577",
-            "Recipe": 2407
+            "Recipe": 2407,
+            "Buff": 0
         },
         {
             "_id": 108577,
@@ -8274,7 +8366,8 @@ var _items = [
             "Desc": "A crispy meat dish. Lightly fry the surface of the ribs until they exude a faint aroma, then wrap the crispy exterior with sauce, and finally, grill them slowly on low heat. The meticulous temperature control ensures that the exterior is perfectly crisp, while the meat within is kept juicy and tender.",
             "Eff": "Restores 22% of Max HP and an additional 1,200 HP to the selected character.",
             "Icon": "UI_ItemIcon_108577",
-            "Recipe": 2407
+            "Recipe": 2407,
+            "Buff": 0
         },
         {
             "_id": 108576,
@@ -8283,7 +8376,8 @@ var _items = [
             "Desc": "A meat dish with a crispy skin. Unfortunately, grilling it for too long has left the skin cracked and blackened, with the once-tender meat within now tough, dry, and tasteless... Perhaps if the name is changed to \"Charred Barbeque\" someone might find it more acceptable.",
             "Eff": "Restores 20% of Max HP and an additional 900 HP to the selected character.",
             "Icon": "UI_ItemIcon_108577",
-            "Recipe": 2407
+            "Recipe": 2407,
+            "Buff": 0
         },
         {
             "_id": 108575,
@@ -8292,7 +8386,8 @@ var _items = [
             "Desc": "A scrumptious piece of artfully fried fish. Sweet and crisp almonds paired with perfectly fatty fish make you feel like you are floating blissfully along the ocean currents, buffeted by waves of gastronomic delight.",
             "Eff": "Restores 10% of Max HP to the selected character and regenerates 300 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108574",
-            "Recipe": 1402
+            "Recipe": 1402,
+            "Buff": 5
         },
         {
             "_id": 108574,
@@ -8301,7 +8396,8 @@ var _items = [
             "Desc": "Fish fillets of a satisfying size, fried with butter before serving with a side of crispy fried almonds. According to the traditional recipe for this dish, a whole readied trout would be placed into the frying pan, but a new, fillet-featuring recipe for this dish has been gaining popularity recently as well.",
             "Eff": "Restores 9% of Max HP to the selected character and regenerates 260 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108574",
-            "Recipe": 1402
+            "Recipe": 1402,
+            "Buff": 5
         },
         {
             "_id": 108573,
@@ -8310,7 +8406,8 @@ var _items = [
             "Desc": "A large hunk of fish fried in oil. The bitterness of the burnt black fish skin branded into your tongue can't be washed away, not even with a giant mouthful of soup... It would seem that some practice controlling the heat is in order.",
             "Eff": "Restores 8% of Max HP to the selected character and regenerates 210 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108574",
-            "Recipe": 1402
+            "Recipe": 1402,
+            "Buff": 5
         },
         {
             "_id": 108572,
@@ -8319,7 +8416,8 @@ var _items = [
             "Desc": "A beverage of simple and clean colors. The refreshing smoothie with a faint fruity scent reminds you of the ethereal clouds above Qingyun Peak. Does it taste as light and fluffy?",
             "Eff": "Revives a character and restores 1,500 HP.",
             "Icon": "UI_ItemIcon_108571",
-            "Recipe": 3117
+            "Recipe": 3117,
+            "Buff": 4
         },
         {
             "_id": 108571,
@@ -8328,7 +8426,8 @@ var _items = [
             "Desc": "A beverage with simple colors. The smoothie made out of fruit-flavored yogurt has been arranged to resemble the blue sky and white clouds. At the bottom is a thick layer of jelly and finely-cut fruit. The revitalizing flavor makes this beverage the best choice in the summer.",
             "Eff": "Revives a character and restores 1,200 HP.",
             "Icon": "UI_ItemIcon_108571",
-            "Recipe": 3117
+            "Recipe": 3117,
+            "Buff": 4
         },
         {
             "_id": 108570,
@@ -8337,7 +8436,8 @@ var _items = [
             "Desc": "A beverage of simple and clean colors. The freezing-cold smoothie seems to send you directly to the peak of Dragonspine. It's so cold up there, you can feel yourself accumulating Sheer Cold... You'd better find a bonfire quickly to stave off the damage before you hit the limit!",
             "Eff": "Revives a character and restores 900 HP.",
             "Icon": "UI_ItemIcon_108571",
-            "Recipe": 3117
+            "Recipe": 3117,
+            "Buff": 4
         },
         {
             "_id": 108569,
@@ -8346,7 +8446,8 @@ var _items = [
             "Desc": "A dual-flavored fruity beverage. A small sip sends you to a beach paradise, the fragrance of fruit dancing upon your lips as you lie upon the white sands, watching the orange sun slowly rising, warming your heart and lifting your spirits.",
             "Eff": "Increases all party members' ATK by 228 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108568",
-            "Recipe": 3116
+            "Recipe": 3116,
+            "Buff": 2
         },
         {
             "_id": 108568,
@@ -8355,7 +8456,8 @@ var _items = [
             "Desc": "A dual-flavored fruity beverage. Add a thick layer of pulp at the bottom and then pour in a smoothie made out of juice and tea. Its layered flavors of fresh fruit are so tempting that no one is able to refuse the drink.",
             "Eff": "Increases all party members' ATK by 194 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108568",
-            "Recipe": 3116
+            "Recipe": 3116,
+            "Buff": 2
         },
         {
             "_id": 108567,
@@ -8364,7 +8466,8 @@ var _items = [
             "Desc": "A dual-flavored fruity beverage. The pulp at the bottom tastes just as bitter as drinking it makes you feel... How about making another cup to dispel that bitterness from your mouth and heart?",
             "Eff": "Increases all party members' ATK by 160 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108568",
-            "Recipe": 3116
+            "Recipe": 3116,
+            "Buff": 2
         },
         {
             "_id": 108566,
@@ -8373,7 +8476,8 @@ var _items = [
             "Desc": "A specialty drink created by the Fontaine Research Institute. It is well-received by locals.",
             "Eff": "Refreshing Fonta, a Font of Refreshment!",
             "Icon": "UI_ItemIcon_108566",
-            "Recipe": 0
+            "Recipe": 0,
+            "Buff": 0
         },
         {
             "_id": 108565,
@@ -8384,7 +8488,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108565",
             "Recipe": 3409,
             "Avatar": 83,
-            "AI": "UI_AvatarIcon_Linette"
+            "AI": "UI_AvatarIcon_Linette",
+            "Buff": 3
         },
         {
             "_id": 108564,
@@ -8395,7 +8500,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108564",
             "Recipe": 3408,
             "Avatar": 84,
-            "AI": "UI_AvatarIcon_Liney"
+            "AI": "UI_AvatarIcon_Liney",
+            "Buff": 6
         },
         {
             "_id": 108563,
@@ -8406,7 +8512,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108563",
             "Recipe": 3407,
             "Avatar": 85,
-            "AI": "UI_AvatarIcon_Freminet"
+            "AI": "UI_AvatarIcon_Freminet",
+            "Buff": 5
         },
         {
             "_id": 108562,
@@ -8415,7 +8522,8 @@ var _items = [
             "Desc": "A lovely-looking dessert. There's a saying in Fontaine: \"There are only two types of people: those who love Conch Madeleine and those who haven't tried it.\" Everyone falls in love with this cake the instant they taste it!",
             "Eff": "Increases all party members' Healing Bonus by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108561",
-            "Recipe": 3409
+            "Recipe": 3409,
+            "Buff": 3
         },
         {
             "_id": 108561,
@@ -8424,7 +8532,8 @@ var _items = [
             "Desc": "A lovely-looking dessert. It is believed that this dessert was created by a cook working for a rich Fontainian family. To cheer their young master up, the cook made a Beryl Conch-shaped cake. The authenticity of this story can no longer be verified, but the cake's delicious taste is beyond doubt.",
             "Eff": "Increases all party members' Healing Bonus by 17% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108561",
-            "Recipe": 3409
+            "Recipe": 3409,
+            "Buff": 3
         },
         {
             "_id": 108560,
@@ -8433,7 +8542,8 @@ var _items = [
             "Desc": "A supposedly \"lovely-looking\" dessert. It would take a wild imagination to associate this weird-looking cake with the Beryl Conch... Its passable taste is a silver lining, though.",
             "Eff": "Increases all party members' Healing Bonus by 15% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108561",
-            "Recipe": 3409
+            "Recipe": 3409,
+            "Buff": 3
         },
         {
             "_id": 108559,
@@ -8442,7 +8552,8 @@ var _items = [
             "Desc": "A gummy candy. It fills your mouth with fruity aromas as if a whole orchard were condensed inside the little gummy. Before you know it, you've devoured the entire jar, and not even the frosting on your fingers is spared!",
             "Eff": "Increases all party members' CRIT Rate by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108558",
-            "Recipe": 3408
+            "Recipe": 3408,
+            "Buff": 6
         },
         {
             "_id": 108558,
@@ -8451,7 +8562,8 @@ var _items = [
             "Desc": "A gummy candy. It was first created as a way to preserve fruits. With the passage of time, the candy has made its way into every Fontainian's childhood memories. It is sweet and chewy, and one can never have enough of them.",
             "Eff": "Increases all party members' CRIT Rate by 15% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108558",
-            "Recipe": 3408
+            "Recipe": 3408,
+            "Buff": 6
         },
         {
             "_id": 108557,
@@ -8460,7 +8572,8 @@ var _items = [
             "Desc": "A gummy candy. The sticky candy is glued to your teeth, making it a challenging task to continue chewing. Although it doesn't take much effort to clean your teeth, the stickiness has completely ruined your sweet moment.",
             "Eff": "Increases all party members' CRIT Rate by 10% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108558",
-            "Recipe": 3408
+            "Recipe": 3408,
+            "Buff": 6
         },
         {
             "_id": 108556,
@@ -8469,7 +8582,8 @@ var _items = [
             "Desc": "A cold dish made from seafood. The fish roe in the aspic explodes on your tastebuds, igniting delightful surprises. It didn't take long before you clean your plate. Since there is no one around... it's okay to lick the plate, right?",
             "Eff": "Increases all party members' CRIT Rate by 12% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108555",
-            "Recipe": 2406
+            "Recipe": 2406,
+            "Buff": 6
         },
         {
             "_id": 108555,
@@ -8478,7 +8592,8 @@ var _items = [
             "Desc": "A cold dish made from seafood. Grind fish meat into a paste and add it to a rectangular mold to be baked. Leave the dish to cool before serving. It feels cold on the tongue but warm in the heart.",
             "Eff": "Increases all party members' CRIT Rate by 9% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108555",
-            "Recipe": 2406
+            "Recipe": 2406,
+            "Buff": 6
         },
         {
             "_id": 108554,
@@ -8487,7 +8602,8 @@ var _items = [
             "Desc": "A cold dish made from seafood. It makes a nice appetizer so long as you can avoid the traps — fish bones to be more precise — hidden within the aspic.",
             "Eff": "Increases all party members' CRIT Rate by 6% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108555",
-            "Recipe": 2406
+            "Recipe": 2406,
+            "Buff": 6
         },
         {
             "_id": 108553,
@@ -8496,7 +8612,8 @@ var _items = [
             "Desc": "A seafood soup. The buttery soup resembles gilded waves under the bright sun, as the rich seafood aromas melt in your mouth. The bounties of the ocean form a harmonious masterpiece. After emptying the bowl quickly, you can't help but dip the bread in what remains — it would be a great loss to miss even one drop of it!",
             "Eff": "Restores 30% of Max HP to the selected character and regenerates 790 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108552",
-            "Recipe": 3407
+            "Recipe": 3407,
+            "Buff": 5
         },
         {
             "_id": 108552,
@@ -8505,7 +8622,8 @@ var _items = [
             "Desc": "A seafood soup. It originated in the fishing village Poisson. Fishermen used to process leftover fish by stewing them together. This soup then became popular in Fontaine due to its freshness. Nowadays, almost any type of aquatic product can be included in this dish.",
             "Eff": "Restores 28% of Max HP to the selected character and regenerates 620 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108552",
-            "Recipe": 3407
+            "Recipe": 3407,
+            "Buff": 5
         },
         {
             "_id": 108551,
@@ -8514,7 +8632,8 @@ var _items = [
             "Desc": "A seafood soup. The only flavor it has is the stench of fish. If your nose is still functioning properly, there must be something wrong with the soup... Ah wait, is it fish scales or gravel that got stuck in your teeth?",
             "Eff": "Restores 26% of Max HP to the selected character and regenerates 450 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108552",
-            "Recipe": 3407
+            "Recipe": 3407,
+            "Buff": 5
         },
         {
             "_id": 108550,
@@ -8523,7 +8642,8 @@ var _items = [
             "Desc": "A dessert made of egg whites. Light egg-white dew that floats on the creamy sauce is like mysterious treasure chests awaiting travelers' exploration. \"Enjoyment\" would be an understatement, for the dessert brings you the joy of opening a luxurious chest!",
             "Eff": "Restores 22% of Max HP to the selected character and regenerates 470 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108549",
-            "Recipe": 2405
+            "Recipe": 2405,
+            "Buff": 5
         },
         {
             "_id": 108549,
@@ -8532,7 +8652,8 @@ var _items = [
             "Desc": "A dessert made out of egg whites. The cooking process is simple: Froth up the egg whites properly, and half the battle is won. Place the heated egg whites on the sauce, and you're done. The dessert has an exquisite look and is the first choice of Fontainian ladies for afternoon tea.",
             "Eff": "Restores 20% of Max HP to the selected character and regenerates 390 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108549",
-            "Recipe": 2405
+            "Recipe": 2405,
+            "Buff": 5
         },
         {
             "_id": 108548,
@@ -8541,7 +8662,8 @@ var _items = [
             "Desc": "A dessert made of egg whites. Despite trying to froth up the egg whites until your hands were sore, and although you tried to save it by spreading the mixture over the sauce you prepared, the two melt into a total mess... Uh, how about thinking of it as a new beverage and having a sip?",
             "Eff": "Restores 18% of Max HP to the selected character and regenerates 300 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108549",
-            "Recipe": 2405
+            "Recipe": 2405,
+            "Buff": 5
         },
         {
             "_id": 108547,
@@ -8550,7 +8672,8 @@ var _items = [
             "Desc": "An onion soup. Stretchy and golden cheese lies on a slice of bread that is crispy on top and soft on the bottom. The rich onion aroma is combined with a slightly salty taste. A small sip is enough to warm one up.",
             "Eff": "Increases all party members' DEF by 126 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108546",
-            "Recipe": 2404
+            "Recipe": 2404,
+            "Buff": 3
         },
         {
             "_id": 108546,
@@ -8559,7 +8682,8 @@ var _items = [
             "Desc": "An onion soup. Stir-fry the onion until it is slightly charred, and boil it in broth. Transfer the contents to a soup bowl, add a slice of bread, sprinkle some cheese, and bake it in the oven. Well-seasoned chefs never cry when chopping onions, and here's their secret trick: Let the apprentices do the job.",
             "Eff": "Increases all party members' DEF by 107 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108546",
-            "Recipe": 2404
+            "Recipe": 2404,
+            "Buff": 3
         },
         {
             "_id": 108545,
@@ -8568,7 +8692,8 @@ var _items = [
             "Desc": "An onion soup. The first few sips taste fine, but when you begin to gulp it down, the greasy cheese almost gives you palpitations... You probably don't want to have any soup in your presence the following week.",
             "Eff": "Increases all party members' DEF by 88 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108546",
-            "Recipe": 2404
+            "Recipe": 2404,
+            "Buff": 3
         },
         {
             "_id": 108544,
@@ -8577,7 +8702,8 @@ var _items = [
             "Desc": "A famous Fontainian cuisine. Delicious juice locked inside the meat gives off a rich and layered aroma. This dish is considered a highly sought-after cuisine by many gourmets. After wolfing down the whole plate, one can't help but lick their lips, savoring the lingering scent. This exquisite cuisine is no doubt the crown jewel of Fontaine's gastronomy.",
             "Eff": "Increases all party members' Physical DMG by 45% and CRIT Rate by 10% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108543",
-            "Recipe": 4401
+            "Recipe": 4401,
+            "Buff": 2
         },
         {
             "_id": 108543,
@@ -8586,7 +8712,8 @@ var _items = [
             "Desc": "A famous Fontainian cuisine. \"Vessie\" means \"bladder\" in Fontaine. As the name suggests, the seasoned chicken meat is enclosed in a forest boar's bladder when being poached in a meat broth. The bladder will puff out during the process like a rotund Specter. People usually only eat the chicken meat inside.",
             "Eff": "Increases all party members' Physical DMG by 35% and CRIT Rate by 8% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108543",
-            "Recipe": 4401
+            "Recipe": 4401,
+            "Buff": 2
         },
         {
             "_id": 108542,
@@ -8595,7 +8722,8 @@ var _items = [
             "Desc": "A famous Fontainian cuisine. After a painstaking process of stuffing the chicken into the boar's bladder, you expectantly sample the dish that's finally ready... Ugh, what's the strange flavor? You begin to wonder if you're eating a boar or a chicken.",
             "Eff": "Increases all party members' Physical DMG by 25% and CRIT Rate by 6% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108543",
-            "Recipe": 4401
+            "Recipe": 4401,
+            "Buff": 2
         },
         {
             "_id": 108541,
@@ -8604,7 +8732,8 @@ var _items = [
             "Desc": "A fresh dish of raw meat. Tender meat that is minced properly and coated with egg yolk that tastes exceptionally juicy and sweet. The aromatic juice of the meat fills your mouth with euphoria, giving people an exceptionally pure and primitive gourmet delight.",
             "Eff": "Restores 34% of Max HP and an additional 1,900 HP to the selected character.",
             "Icon": "UI_ItemIcon_108540",
-            "Recipe": 3406
+            "Recipe": 3406,
+            "Buff": 0
         },
         {
             "_id": 108540,
@@ -8613,7 +8742,8 @@ var _items = [
             "Desc": "A dish of fresh meat that is served raw. Choice meat that has been minced and seasoned goes perfectly well with raw egg yolk. It is unknown who came up with the idea. It might be a starving adventurer's desperate attempt at keeping their belly full.",
             "Eff": "Restores 32% of Max HP and an additional 1,250 HP to the selected character.",
             "Icon": "UI_ItemIcon_108540",
-            "Recipe": 3406
+            "Recipe": 3406,
+            "Buff": 0
         },
         {
             "_id": 108539,
@@ -8622,7 +8752,8 @@ var _items = [
             "Desc": "A dish of fresh meat that is served raw. The minced meat, which is rusty red and faintly sour, gives off an ominous aura. This dish doesn't seem suitable for human consumption. Hmm... You probably shouldn't feed it to security meka either, right?",
             "Eff": "Restores 30% of Max HP and an additional 600 HP to the selected character.",
             "Icon": "UI_ItemIcon_108540",
-            "Recipe": 3406
+            "Recipe": 3406,
+            "Buff": 0
         },
         {
             "_id": 108538,
@@ -8631,7 +8762,8 @@ var _items = [
             "Desc": "A vegetable ragout. It is said that this dish once moved a picky Fontainian gourmet to tears after reminding them of their childhood. The story may be somewhat exaggerated in some respects, but you should have no doubt that it is truly honest with regard to how tasty the dish is.",
             "Eff": "Restores 24% of Max HP and an additional 1,500 HP to the selected character.",
             "Icon": "UI_ItemIcon_108537",
-            "Recipe": 2403
+            "Recipe": 2403,
+            "Buff": 0
         },
         {
             "_id": 108537,
@@ -8640,7 +8772,8 @@ var _items = [
             "Desc": "A vegetable ragout. It is an improvised dish created by Fontainian farmers celebrating vegetable harvests. There are no strict rules for the amount of ingredients or the cooking method. Be it stir-fried or baked, this unpretentious dish never fails to delight with its rustic savor.",
             "Eff": "Restores 22% of Max HP and an additional 1,200 HP to the selected character.",
             "Icon": "UI_ItemIcon_108537",
-            "Recipe": 2403
+            "Recipe": 2403,
+            "Buff": 0
         },
         {
             "_id": 108536,
@@ -8649,7 +8782,8 @@ var _items = [
             "Desc": "A vegetable ragout. Don't worry too much if you are missing an ingredient or have accidentally thrown in something extra: No one will notice, as the excessive amount of seasoning has already overwhelmed the original flavors of the vegetables.",
             "Eff": "Restores 20% of Max HP and an additional 900 HP to the selected character.",
             "Icon": "UI_ItemIcon_108537",
-            "Recipe": 2403
+            "Recipe": 2403,
+            "Buff": 0
         },
         {
             "_id": 108535,
@@ -8658,7 +8792,8 @@ var _items = [
             "Desc": "A dessert with a romantic flair. The crispy and flaky tart shell and refreshing fruit fillings melt in your mouth. The harmonious coalescence of brown and white colors on the meringue reminds one of a stretch of gilded cloud in the warm sunlight. A pleasant surprise to your tastebuds indeed.",
             "Eff": "Decreases all party members' climbing and sprinting Stamina consumption by 25% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108534",
-            "Recipe": 3405
+            "Recipe": 3405,
+            "Buff": 1
         },
         {
             "_id": 108534,
@@ -8667,7 +8802,8 @@ var _items = [
             "Desc": "A dessert with a romantic flair. Add jam and fillings made from Bulle Fruit into tart shells and spread some meringue over the top before baking in the oven. The dish offers three fruity aromas all in one bite, making it a top choice for post-meal snacks.",
             "Eff": "Decreases all party members' climbing and sprinting Stamina consumption by 20% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108534",
-            "Recipe": 3405
+            "Recipe": 3405,
+            "Buff": 1
         },
         {
             "_id": 108533,
@@ -8676,7 +8812,8 @@ var _items = [
             "Desc": "A dessert with a romantic flair. The meringue has been baked to form a passable shape — albeit after several failed attempts that resulted in suspicious, burnt lumps. Unfortunately though, the cooking took so long that the Bulle Fruit now grimaces with frustration and no longer tastes sweet.",
             "Eff": "Decreases all party members' climbing and sprinting Stamina consumption by 15% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108534",
-            "Recipe": 3405
+            "Recipe": 3405,
+            "Buff": 1
         },
         {
             "_id": 108532,
@@ -8685,7 +8822,8 @@ var _items = [
             "Desc": "A fish pie. Fish fat sizzles near the dancing flame and then drips into the dough as the crust becomes golden and crispy. No one can resist the temptation to immediately have a try once the dish is freshly out of the oven. It feels as if the fish were singing a romantic and savory paean on the tip of your tongue.",
             "Eff": "Revives a character and restores 1,500 HP.",
             "Icon": "UI_ItemIcon_108531",
-            "Recipe": 3404
+            "Recipe": 3404,
+            "Buff": 4
         },
         {
             "_id": 108531,
@@ -8694,7 +8832,8 @@ var _items = [
             "Desc": "A fish pie. Mix the fillings and put the dough right on it. The key is to arrange the fish heads properly before baking. This way, when the dish is ready, every fish will gaze upward as if chanting in unison.",
             "Eff": "Revives a character and restores 1,200 HP.",
             "Icon": "UI_ItemIcon_108531",
-            "Recipe": 3404
+            "Recipe": 3404,
+            "Buff": 4
         },
         {
             "_id": 108530,
@@ -8703,7 +8842,8 @@ var _items = [
             "Desc": "A fish pie. One can never fathom how each fish head ended up gazing in a different direction, turning their supposed \"Chanson\" into disorganized cries. A bite is enough to invite the sudden attack of a gamey taste, and your tastebuds are already admitting defeat. You seem to hear the fish wailing... Th—That must be hallucinations, right?",
             "Eff": "Revives a character and restores 900 HP.",
             "Icon": "UI_ItemIcon_108531",
-            "Recipe": 3404
+            "Recipe": 3404,
+            "Buff": 4
         },
         {
             "_id": 108529,
@@ -8712,7 +8852,8 @@ var _items = [
             "Desc": "A baked pasta dish. The Song of Pots and Fire eulogizes the meat sauce's ascension to the Pasta Throne. The moment it enters your mouth, it graces you with bliss so unparalleled that you almost want to make today Lasagna Day!",
             "Eff": "Restores 34% of Max HP and an additional 1,900 HP to the selected character.",
             "Icon": "UI_ItemIcon_108528",
-            "Recipe": 3403
+            "Recipe": 3403,
+            "Buff": 0
         },
         {
             "_id": 108528,
@@ -8721,7 +8862,8 @@ var _items = [
             "Desc": "A baked pasta dish. Spread cheese, meat sauce, and Béchamel sauce on a layer of pasta strips, and place another layer of pasta strips on the top — repeat the process a few times and bake the pasta until the cheese becomes golden and bubbly. The secret of its tastiness lies in the carefully-prepared meat sauce.",
             "Eff": "Restores 32% of Max HP and an additional 1,250 HP to the selected character.",
             "Icon": "UI_ItemIcon_108528",
-            "Recipe": 3403
+            "Recipe": 3403,
+            "Buff": 0
         },
         {
             "_id": 108527,
@@ -8730,7 +8872,8 @@ var _items = [
             "Desc": "A baked pasta dish. The pasta and fillings are haphazardly mixed together, and the texture leaves a lot to be desired. You can almost feel the Lasagna becoming lodged in your throat — but don't worry, this isn't the worst part. You still have the next bite, which will be even harder to swallow.",
             "Eff": "Restores 30% of Max HP and an additional 600 HP to the selected character.",
             "Icon": "UI_ItemIcon_108528",
-            "Recipe": 3403
+            "Recipe": 3403,
+            "Buff": 0
         },
         {
             "_id": 108526,
@@ -8739,7 +8882,8 @@ var _items = [
             "Desc": "A deep-fried appetizer. As the fish fillets and chips crack up with laughter in the hot, sizzling oil, their aromas meld perfectly before permeating the room... If there is anything that's more pleasurable than eating chips, that must be eating chips while also taking a huge bite of the fish fillet!",
             "Eff": "Restores 100 Stamina.",
             "Icon": "UI_ItemIcon_108525",
-            "Recipe": 3402
+            "Recipe": 3402,
+            "Buff": 7
         },
         {
             "_id": 108525,
@@ -8748,7 +8892,8 @@ var _items = [
             "Desc": "A deep-fried appetizer. Coat fish fillets with batter and deep-fry until golden and crispy, then add a few chips on the side. This combination is so miraculous that whatever sauce you choose, it will always bring a hearty smile to your face.",
             "Eff": "Restores 85 Stamina.",
             "Icon": "UI_ItemIcon_108525",
-            "Recipe": 3402
+            "Recipe": 3402,
+            "Buff": 7
         },
         {
             "_id": 108524,
@@ -8757,7 +8902,8 @@ var _items = [
             "Desc": "A deep-fried appetizer. Any Fontainian unfortunate enough to eat this dish would file a complaint with the Palais Mermonia: Fish and Chips that have gone soft should be banned and made illegal before more people fall victim to them!",
             "Eff": "Restores 70 Stamina.",
             "Icon": "UI_ItemIcon_108525",
-            "Recipe": 3402
+            "Recipe": 3402,
+            "Buff": 7
         },
         {
             "_id": 108523,
@@ -8766,7 +8912,8 @@ var _items = [
             "Desc": "Sliced baguette. It is said that every now and then, the people of Fontaine organize baking competitions. The bakers who make the best baguette get to show off their skills in the Palais Mermonia. This baguette could definitely win first prize in those competitions!",
             "Eff": "Increases all party members' ATK by 95 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108522",
-            "Recipe": 2402
+            "Recipe": 2402,
+            "Buff": 2
         },
         {
             "_id": 108522,
@@ -8775,7 +8922,8 @@ var _items = [
             "Desc": "Sliced baguette. Taken freshly out of the oven, the bread has a crispy, crackling crust, and soft, fluffy crumb. The aroma of butter and garlic further adds to the baguette's tastiness! No wonder you often see Fontainians buying a baguette on their way home after work.",
             "Eff": "Increases all party members' ATK by 81 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108522",
-            "Recipe": 2402
+            "Recipe": 2402,
+            "Buff": 2
         },
         {
             "_id": 108521,
@@ -8784,7 +8932,8 @@ var _items = [
             "Desc": "Sliced baguette. It is so hard that one can't help but look at the plate and wonder: Is this baguette a stone in disguise?",
             "Eff": "Increases all party members' ATK by 66 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108522",
-            "Recipe": 2402
+            "Recipe": 2402,
+            "Buff": 2
         },
         {
             "_id": 108520,
@@ -8793,7 +8942,8 @@ var _items = [
             "Desc": "A bisque that can be found everywhere. Its creamy texture feels like a silky garment, and you seem to be dancing on the stage in this beautiful attire... The curtain has fallen, but the memory lingers.",
             "Eff": "Revives a character and restores 550 HP.",
             "Icon": "UI_ItemIcon_108519",
-            "Recipe": 2401
+            "Recipe": 2401,
+            "Buff": 4
         },
         {
             "_id": 108519,
@@ -8802,7 +8952,8 @@ var _items = [
             "Desc": "A bisque that can be found everywhere. Blend cooked ingredients until they are liquefied, and heat the soup with cream until it is thickened up — voila! A simple dish that warms your stomach as well as your heart.",
             "Eff": "Revives a character and restores 400 HP.",
             "Icon": "UI_ItemIcon_108519",
-            "Recipe": 2401
+            "Recipe": 2401,
+            "Buff": 4
         },
         {
             "_id": 108518,
@@ -8811,7 +8962,8 @@ var _items = [
             "Desc": "A bisque that can be found everywhere. A small sip, and the weird taste already freezes you. You can't help but pray: \"Archons above, please tell me it's not dirt that I'm tasting...\"",
             "Eff": "Revives a character and restores 250 HP.",
             "Icon": "UI_ItemIcon_108519",
-            "Recipe": 2401
+            "Recipe": 2401,
+            "Buff": 4
         },
         {
             "_id": 108517,
@@ -8820,7 +8972,8 @@ var _items = [
             "Desc": "A traditional dish of Fontaine. The tender and buttery foie gras greets your tastebuds with silky dance moves before waltzing down your throat like smooth satin. Such a supreme delight makes all other dishes you will have in the future taste bland in comparison — that being said, you can hardly regret eating it, can you?",
             "Eff": "Increases all party members' DEF by 235 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108516",
-            "Recipe": 3401
+            "Recipe": 3401,
+            "Buff": 3
         },
         {
             "_id": 108516,
@@ -8829,7 +8982,8 @@ var _items = [
             "Desc": "A traditional dish of Fontaine. The foie gras only needs to be pan-fried before being served. Thanks to the masterful temperature control, the golden-brown foie gras tastes enticingly tender. The process takes focus and concentration, or else the delicious liver might be liquefied into an oily mess.",
             "Eff": "Increases all party members' DEF by 200 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108516",
-            "Recipe": 3401
+            "Recipe": 3401,
+            "Buff": 3
         },
         {
             "_id": 108515,
@@ -8838,7 +8992,8 @@ var _items = [
             "Desc": "A traditional dish of Fontaine. You feel as if you were having a spoonful of oil, and if you venture to take another bite, it is just too greasy to swallow. Did they pour in a whole jar of oil when cooking the dish?",
             "Eff": "Increases all party members' DEF by 165 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108516",
-            "Recipe": 3401
+            "Recipe": 3401,
+            "Buff": 3
         },
         {
             "_id": 108514,
@@ -8847,7 +9002,8 @@ var _items = [
             "Desc": "A pan-fried dish. With the magic of \"confit,\" the plump and meaty duck leg is cooked until crispy on the outside and meltingly tender on the inside — one cannot help but exclaim that every second spent on this dish is worth it!",
             "Eff": "Restores 10% of Max HP and an additional 1,200 HP to the selected character.",
             "Icon": "UI_ItemIcon_108513",
-            "Recipe": 1401
+            "Recipe": 1401,
+            "Buff": 0
         },
         {
             "_id": 108513,
@@ -8856,7 +9012,8 @@ var _items = [
             "Desc": "A pan-fried dish. The duck leg has been seasoned with spices and salt and then rinsed clean before being poached in duck fat. The confit is seared before being served. The meat goes deliciously well with potatoes sautéed in duck fat.",
             "Eff": "Restores 9% of Max HP and an additional 1,000 HP to the selected character.",
             "Icon": "UI_ItemIcon_108513",
-            "Recipe": 1401
+            "Recipe": 1401,
+            "Buff": 0
         },
         {
             "_id": 108512,
@@ -8865,7 +9022,8 @@ var _items = [
             "Desc": "A pan-fried dish. The duck leg seems ready to fall apart at any moment, and the first bite coats your mouth with grease. There's even something that doesn't quite fit with this texture— ugh, is that a duck feather?",
             "Eff": "Restores 8% of Max HP and an additional 800 HP to the selected character.",
             "Icon": "UI_ItemIcon_108513",
-            "Recipe": 1401
+            "Recipe": 1401,
+            "Buff": 0
         },
         {
             "_id": 108511,
@@ -8876,7 +9034,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108511",
             "Recipe": 3212,
             "Avatar": 61,
-            "AI": "UI_AvatarIcon_Momoka"
+            "AI": "UI_AvatarIcon_Momoka",
+            "Buff": 5
         },
         {
             "_id": 108510,
@@ -8887,7 +9046,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108510",
             "Recipe": 3115,
             "Avatar": 82,
-            "AI": "UI_AvatarIcon_Baizhuer"
+            "AI": "UI_AvatarIcon_Baizhuer",
+            "Buff": 3
         },
         {
             "_id": 108509,
@@ -8898,7 +9058,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108509",
             "Recipe": 2311,
             "Avatar": 81,
-            "AI": "UI_AvatarIcon_Kaveh"
+            "AI": "UI_AvatarIcon_Kaveh",
+            "Buff": 4
         },
         {
             "_id": 108508,
@@ -8907,7 +9068,8 @@ var _items = [
             "Desc": "A traditional Liyue dessert dish. The large chunk of fruit soaked in the soup seems like unto a lonesome boat drifting down a flowing river, and the fresh taste of the dish assails like a sudden breeze.",
             "Eff": "Increases all party members' Healing Bonus by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108507",
-            "Recipe": 3115
+            "Recipe": 3115,
+            "Buff": 3
         },
         {
             "_id": 108507,
@@ -8916,7 +9078,8 @@ var _items = [
             "Desc": "A traditional Liyue dessert. The water is brought to boil, various ingredients are added in, and then it is simmered for some time before rock sugar is added. The liquid mixture is then simmered until clear and thick. The lengthy simmering creates a soup with a gentle mouthfeel, causing the ingredients to melt with just a light sip. Suitable for all ages.",
             "Eff": "Increases all party members' Healing Bonus by 17% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108507",
-            "Recipe": 3115
+            "Recipe": 3115,
+            "Buff": 3
         },
         {
             "_id": 108506,
@@ -8925,7 +9088,8 @@ var _items = [
             "Desc": "A traditional Liyue dessert dish. Carelessly dumping all the ingredients into the pot will result in something akin to a Slime Concentrate in taste... Um, although the texture might affect one's enjoyment of this dish, the ingredients themselves should still be good for your health...",
             "Eff": "Increases all party members' Healing Bonus by 15% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108507",
-            "Recipe": 3115
+            "Recipe": 3115,
+            "Buff": 3
         },
         {
             "_id": 108505,
@@ -8934,7 +9098,8 @@ var _items = [
             "Desc": "A dish from ancient Sumeru. With the Glabrous Beans coated in the silken smoothness of the yogurt sauce, the smooth texture greets your tongue like a blissful dream. And even after you have awoken, you might still taste the filling fragrance of baked flatbread between your teeth.",
             "Eff": "Revives a character and restores 550 HP.",
             "Icon": "UI_ItemIcon_108504",
-            "Recipe": 2311
+            "Recipe": 2311,
+            "Buff": 4
         },
         {
             "_id": 108504,
@@ -8943,7 +9108,8 @@ var _items = [
             "Desc": "An ancient Sumeru dish. The baked bread is crumbled and mixed with boiled Glabrous Beans and preprepared yogurt sauce, and then it is ready to be served. This recipe has been passed down for a long time and has many variants, but they all share one thing in common — being simple and delicious.",
             "Eff": "Revives a character and restores 400 HP.",
             "Icon": "UI_ItemIcon_108504",
-            "Recipe": 2311
+            "Recipe": 2311,
+            "Buff": 4
         },
         {
             "_id": 108503,
@@ -8952,7 +9118,8 @@ var _items = [
             "Desc": "A dish from ancient Sumeru. Should one have the patience to remove the half-cooked Glabrous Beans and the brittle bits of scorched bread, the yogurt sauce that remains could pass for a dessert...",
             "Eff": "Revives a character and restores 250 HP.",
             "Icon": "UI_ItemIcon_108504",
-            "Recipe": 2311
+            "Recipe": 2311,
+            "Buff": 4
         },
         {
             "_id": 108502,
@@ -8963,7 +9130,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108502",
             "Recipe": 3010,
             "Avatar": 80,
-            "AI": "UI_AvatarIcon_Mika"
+            "AI": "UI_AvatarIcon_Mika",
+            "Buff": 2
         },
         {
             "_id": 108501,
@@ -8974,7 +9142,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108501",
             "Recipe": 3315,
             "Avatar": 79,
-            "AI": "UI_AvatarIcon_Dehya"
+            "AI": "UI_AvatarIcon_Dehya",
+            "Buff": 3
         },
         {
             "_id": 108500,
@@ -8983,7 +9152,8 @@ var _items = [
             "Desc": "A cooling and refreshing drink. The sweet flavor of the tea combines with light, clear floral notes on one hand, and tangles with a dash of fruity on the other, filling your mouth and throat with their aroma. Wait a moment — why are there only ice cubes left in the cup?",
             "Eff": "Increases all party members' DEF by 235 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108499",
-            "Recipe": 3316
+            "Recipe": 3316,
+            "Buff": 3
         },
         {
             "_id": 108499,
@@ -8992,7 +9162,8 @@ var _items = [
             "Desc": "A cooling and refreshing drink. The invigorating tea and the sweet-sour taste of fruit blend together and energize your taste buds, and before you know it, you've already drained your entire cup.",
             "Eff": "Increases all party members' DEF by 200 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108499",
-            "Recipe": 3316
+            "Recipe": 3316,
+            "Buff": 3
         },
         {
             "_id": 108498,
@@ -9001,7 +9172,8 @@ var _items = [
             "Desc": "A cooling and refreshing drink. The very first sip sends your teeth practically fleeing from the onslaught of the sour taste. The light sweetness has been utterly usurped by a tyrannical astringency. Is this really fruit tea?",
             "Eff": "Increases all party members' DEF by 165 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108499",
-            "Recipe": 3316
+            "Recipe": 3316,
+            "Buff": 3
         },
         {
             "_id": 108497,
@@ -9010,7 +9182,8 @@ var _items = [
             "Desc": "An exceedingly sumptuous pizza. Amidst the heat that rises as it freshly exits the oven, give the crisp edges a gentle pull — a veritable waterfall of cheese gushes forth, wrapped up in the dense aroma of meat that satisfies the taste buds and gives a wondrous, hearty sense of fullness.",
             "Eff": "Increases all party members' Physical DMG by 45% and CRIT Rate by 10% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108496",
-            "Recipe": 4205
+            "Recipe": 4205,
+            "Buff": 2
         },
         {
             "_id": 108496,
@@ -9019,7 +9192,8 @@ var _items = [
             "Desc": "An exceedingly sumptuous pizza. First lay out a base of ham, then add in meat that has been chopped up into little bits for a dish that packs an unrivaled sense of satisfaction. Once roasted, the char of meat and the creamy flavor of the cheese are truly a tantalizing combination.",
             "Eff": "Increases all party members' Physical DMG by 35% and CRIT Rate by 8% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108496",
-            "Recipe": 4205
+            "Recipe": 4205,
+            "Buff": 2
         },
         {
             "_id": 108495,
@@ -9028,7 +9202,8 @@ var _items = [
             "Desc": "An exceedingly sumptuous pizza. If one ignores the grease for a moment, the cold meat chunks can still be forced down, but the stale pastry poses quite the challenge nonetheless... With how hard it is, perhaps you could lay a hilichurl out with it?",
             "Eff": "Increases all party members' Physical DMG by 25% and CRIT Rate by 6% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108496",
-            "Recipe": 4205
+            "Recipe": 4205,
+            "Buff": 2
         },
         {
             "_id": 108494,
@@ -9037,7 +9212,8 @@ var _items = [
             "Desc": "A stewed meat dish. The large chunks of meat have been steeped in the thick, rich soup, and they melt away the instant they touch your lips. The unique spice blend dances along with the rhythm of the meat aromas, playing the desert's tune upon your taste buds, with your tongue helpless but to applaud.",
             "Eff": "Increases all party members' Max HP by 25% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108493",
-            "Recipe": 3315
+            "Recipe": 3315,
+            "Buff": 3
         },
         {
             "_id": 108493,
@@ -9046,7 +9222,8 @@ var _items = [
             "Desc": "A stewed meat dish. The unique hat-shaped pot cover is capable of reducing the amount of moisture lost during the stewing process — a culinary secret known only to the desert folk. This delicious delicacy has followed the gilded Eremites all over Sumeru, and thus did it gain its name and fame.",
             "Eff": "Increases all party members' Max HP by 22% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108493",
-            "Recipe": 3315
+            "Recipe": 3315,
+            "Buff": 3
         },
         {
             "_id": 108492,
@@ -9055,7 +9232,8 @@ var _items = [
             "Desc": "A stewed meat dish. Though it appears edible enough, a single taste reveals that the meat is dry as bones, almost as if one is chewing on branches. Did something go wrong with the lid? Or was the application of the pot at fault?",
             "Eff": "Increases all party members' Max HP by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108493",
-            "Recipe": 3315
+            "Recipe": 3315,
+            "Buff": 3
         },
         {
             "_id": 108491,
@@ -9064,7 +9242,8 @@ var _items = [
             "Desc": "A snack fried in oil. The radiant, golden fruit-shaped pieces wrapped up in tasty syrup are gone ever so quickly, one bite and one piece at a time. Hmm, there's still one thread of honey on the plate. Perhaps this sweetness can yet be made to last one second more...",
             "Eff": "Decreases all party members' gliding and sprinting Stamina consumption by 25% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108490",
-            "Recipe": 3314
+            "Recipe": 3314,
+            "Buff": 1
         },
         {
             "_id": 108490,
@@ -9073,7 +9252,8 @@ var _items = [
             "Desc": "A snack fried in oil. Shaped flour is lowered directly into the pot to be deep-fried until golden-brown before being fished out and dipped into syrup while piping hot. This treat is an inseparable companion to many in Sumeru.",
             "Eff": "Decreases all party members' gliding and sprinting Stamina consumption by 20% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108490",
-            "Recipe": 3314
+            "Recipe": 3314,
+            "Buff": 1
         },
         {
             "_id": 108489,
@@ -9082,7 +9262,8 @@ var _items = [
             "Desc": "A snack fried in oil. The fruit-shaped pieces of batter were not rescued from the oil-filled pot in time, and when you bite into it, your mouth practically overflows with grease, a predicament from which only a speedy chug of coffee can save you.",
             "Eff": "Decreases all party members' gliding and sprinting Stamina consumption by 15% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108490",
-            "Recipe": 3314
+            "Recipe": 3314,
+            "Buff": 1
         },
         {
             "_id": 108488,
@@ -9091,7 +9272,8 @@ var _items = [
             "Desc": "Crocodile jerky prepared using a special recipe of the Tanit tribe. Though a bit hard to chew, the meat's ease of storage makes it a commonly consumed delicacy for tribal hunters.<br>Despite tasting like fowl, the nutritional value of crocodile meat is said to be eight times more than the flesh of more typical beasts...",
             "Eff": "Increases all party members' ATK by 114 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_120085",
-            "Recipe": 0
+            "Recipe": 0,
+            "Buff": 2
         },
         {
             "_id": 108487,
@@ -9102,7 +9284,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108487",
             "Recipe": 3104,
             "Avatar": 77,
-            "AI": "UI_AvatarIcon_Yaoyao"
+            "AI": "UI_AvatarIcon_Yaoyao",
+            "Buff": 2
         },
         {
             "_id": 108486,
@@ -9113,7 +9296,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108486",
             "Recipe": 3312,
             "Avatar": 78,
-            "AI": "UI_AvatarIcon_Alhatham"
+            "AI": "UI_AvatarIcon_Alhatham",
+            "Buff": 0
         },
         {
             "_id": 108485,
@@ -9122,7 +9306,8 @@ var _items = [
             "Desc": "A dish with ground meat as its base. The crunchy and chewy coating wraps around the savory filling, giving it a layered texture that's easily a cut above regular meatballs. Try eating one, and its irresistible aroma will leave you brimming with satisfaction.",
             "Eff": "Has a chance to restore 28%/34%/40% of Max HP and an additional 1,400/1,900/2,350 HP to the selected character.",
             "Icon": "UI_ItemIcon_108484",
-            "Recipe": 3313
+            "Recipe": 3313,
+            "Buff": 0
         },
         {
             "_id": 108484,
@@ -9131,7 +9316,8 @@ var _items = [
             "Desc": "A dish with ground meat as its base. After crushing the wheat and cooking it over a fire, ground meat was added to form the outer layer. Onions and meat were then stir-fried to make the filling. Finally, the mixture was molded into balls and deep-fried until golden. Enjoying meat by the mouthful has never been this easy!",
             "Eff": "Has a chance to restore 26%/32%/38% of Max HP and an additional 950/1,250/1,550 HP to the selected character.",
             "Icon": "UI_ItemIcon_108484",
-            "Recipe": 3313
+            "Recipe": 3313,
+            "Buff": 0
         },
         {
             "_id": 108483,
@@ -9140,7 +9326,8 @@ var _items = [
             "Desc": "A dish with ground meat as its base. One may find it hard to guess what's inside based on its dull appearance. If you try taking a small bite... Yep, there's wheat in there. It'll probably scrape your lips if you're not careful enough.",
             "Eff": "Has a chance to restore 24%/30%/36% of Max HP and an additional 450/600/700 HP to the selected character.",
             "Icon": "UI_ItemIcon_108484",
-            "Recipe": 3313
+            "Recipe": 3313,
+            "Buff": 0
         },
         {
             "_id": 108482,
@@ -9149,7 +9336,8 @@ var _items = [
             "Desc": "A meat stew with a unique taste. The fragrant ingredients complement each other perfectly. Large pieces of fresh meat are stewed until tender and coated in dark green, as if inviting all who taste it for a leisurely stroll in the forest.",
             "Eff": "Restores 34% of Max HP and an additional 1,900 HP to the selected character.",
             "Icon": "UI_ItemIcon_108481",
-            "Recipe": 3312
+            "Recipe": 3312,
+            "Buff": 0
         },
         {
             "_id": 108481,
@@ -9158,7 +9346,8 @@ var _items = [
             "Desc": "A meat stew with a unique taste. A variety of vegetables are mixed together, then chopped into small pieces and stewed with meat. The addition of lemons gives the final product a mildly sour taste. The people of Sumeru usually enjoy this dish over rice.",
             "Eff": "Restores 32% of Max HP and an additional 1,250 HP to the selected character.",
             "Icon": "UI_ItemIcon_108481",
-            "Recipe": 3312
+            "Recipe": 3312,
+            "Buff": 0
         },
         {
             "_id": 108480,
@@ -9167,7 +9356,8 @@ var _items = [
             "Desc": "A meat stew with a unique taste. The sourness feels a little too much. The scent itself inspires not-so-appetizing associations... Leave it be for a while longer, and it might just become the perfect breeding ground for Fungi.",
             "Eff": "Restores 30% of Max HP and an additional 600 HP to the selected character.",
             "Icon": "UI_ItemIcon_108481",
-            "Recipe": 3312
+            "Recipe": 3312,
+            "Buff": 0
         },
         {
             "_id": 108479,
@@ -9178,7 +9368,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108479",
             "Recipe": 3216,
             "Avatar": 75,
-            "AI": "UI_AvatarIcon_Wanderer"
+            "AI": "UI_AvatarIcon_Wanderer",
+            "Buff": 3
         },
         {
             "_id": 108478,
@@ -9189,7 +9380,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108478",
             "Recipe": 3310,
             "Avatar": 76,
-            "AI": "UI_AvatarIcon_Faruzan"
+            "AI": "UI_AvatarIcon_Faruzan",
+            "Buff": 4
         },
         {
             "_id": 108477,
@@ -9198,7 +9390,8 @@ var _items = [
             "Desc": "A deep-fried snack. Each golden, crispy pocket is stuffed full with a soft, glutinous filling. You can't help but wolf one down immediately, and then reach out for a second one, taking your time to savor it... Piece by piece, you become lost in the dish's enticing aroma, and before you know it, you are only left with an empty plate.",
             "Eff": "Restores 24% of Max HP and an additional 1,500 HP to the selected character.",
             "Icon": "UI_ItemIcon_108476",
-            "Recipe": 2310
+            "Recipe": 2310,
+            "Buff": 0
         },
         {
             "_id": 108476,
@@ -9207,7 +9400,8 @@ var _items = [
             "Desc": "A deep-fried snack. The well-stirred filling is wrapped in a thin crust, shaped into a triangle, then fried in a pan until golden brown. Both meat and vegetarian fillings are common, so the dish has become a point of conflict for those with a strong preference for one over the other.",
             "Eff": "Restores 22% of Max HP and an additional 1,200 HP to the selected character.",
             "Icon": "UI_ItemIcon_108476",
-            "Recipe": 2310
+            "Recipe": 2310,
+            "Buff": 0
         },
         {
             "_id": 108475,
@@ -9216,7 +9410,8 @@ var _items = [
             "Desc": "A deep-fried snack. Its greasy crust and aggressively strong-flavored filling easily stifle one's desire for a second bite, even with the attempt to balance the flavor using Mint — an attempt that has apparently failed.",
             "Eff": "Restores 20% of Max HP and an additional 900 HP to the selected character.",
             "Icon": "UI_ItemIcon_108476",
-            "Recipe": 2310
+            "Recipe": 2310,
+            "Buff": 0
         },
         {
             "_id": 108474,
@@ -9227,7 +9422,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108474",
             "Recipe": 3308,
             "Avatar": 73,
-            "AI": "UI_AvatarIcon_Nahida"
+            "AI": "UI_AvatarIcon_Nahida",
+            "Buff": 3
         },
         {
             "_id": 108473,
@@ -9238,7 +9434,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108473",
             "Recipe": 2309,
             "Avatar": 74,
-            "AI": "UI_AvatarIcon_Layla"
+            "AI": "UI_AvatarIcon_Layla",
+            "Buff": 5
         },
         {
             "_id": 108472,
@@ -9247,7 +9444,8 @@ var _items = [
             "Desc": "A dessert made from fermented milk. When mixed together, the dense curd, fragrant petals, and crisp nuts together create a mellow and sweet taste. As that fragrant milky concoction slips down your throat, it is almost as if you can smell the floral scent from a long time ago.",
             "Eff": "Restores 22% of Max HP to the selected character and regenerates 470 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108471",
-            "Recipe": 2309
+            "Recipe": 2309,
+            "Buff": 5
         },
         {
             "_id": 108471,
@@ -9256,7 +9454,8 @@ var _items = [
             "Desc": "A dessert made from fermented milk. Once the milk is fermented and filtered into yogurt, stir sugar in before garnishing with dried roses and chopped nuts. In the beginning, this dish was only popular among adventurers and traveling merchants, but now, it is served as breakfast and a tea-time dessert across Sumeru.",
             "Eff": "Restores 20% of Max HP to the selected character and regenerates 390 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108471",
-            "Recipe": 2309
+            "Recipe": 2309,
+            "Buff": 5
         },
         {
             "_id": 108470,
@@ -9265,7 +9464,8 @@ var _items = [
             "Desc": "A dessert made from fermented milk. It appears to be fine, but as soon as you try some... your teeth will quiver due to the unbearable acidity. The lack of seasoning can still be made up for by adding more sugar. However, that lingering sourness is hardly something that can be easily forgotten.",
             "Eff": "Restores 18% of Max HP to the selected character and regenerates 300 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108471",
-            "Recipe": 2309
+            "Recipe": 2309,
+            "Buff": 5
         },
         {
             "_id": 108469,
@@ -9274,7 +9474,8 @@ var _items = [
             "Desc": "An all-new non-alcoholic beverage. Valberries of varying ripeness add layers of sour-to-sweet to this juice while the cooling sparkling water refreshes the soul — a fine companion for a pleasant and leisurely time.",
             "Eff": "Revives a character and restores 15% of Max HP, then restores an additional 550 HP.",
             "Icon": "UI_ItemIcon_108469",
-            "Recipe": 0
+            "Recipe": 0,
+            "Buff": 4
         },
         {
             "_id": 108468,
@@ -9285,7 +9486,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108468",
             "Recipe": 2308,
             "Avatar": 72,
-            "AI": "UI_AvatarIcon_Candace"
+            "AI": "UI_AvatarIcon_Candace",
+            "Buff": 7
         },
         {
             "_id": 108467,
@@ -9296,7 +9498,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108467",
             "Recipe": 3303,
             "Avatar": 71,
-            "AI": "UI_AvatarIcon_Cyno"
+            "AI": "UI_AvatarIcon_Cyno",
+            "Buff": 5
         },
         {
             "_id": 108466,
@@ -9307,7 +9510,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108466",
             "Recipe": 3309,
             "Avatar": 70,
-            "AI": "UI_AvatarIcon_Nilou"
+            "AI": "UI_AvatarIcon_Nilou",
+            "Buff": 1
         },
         {
             "_id": 108465,
@@ -9316,7 +9520,8 @@ var _items = [
             "Desc": "A brightly colored non-alcoholic beverage. The sublime enjoyment brought by the refreshing taste is almost like a sweet, illusory dream. One small sip transports you onto a white, sandy beach, where the sparkling seawater beats with the rhythm to which the hymn of your leisurely vacation shall be composed.",
             "Eff": "Increases all party members' Healing Bonus by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108464",
-            "Recipe": 3311
+            "Recipe": 3311,
+            "Buff": 3
         },
         {
             "_id": 108464,
@@ -9325,7 +9530,8 @@ var _items = [
             "Desc": "A brightly colored non-alcoholic beverage. Freshly squeezed Sunsettia and Wolfhook juices have been poured into a cup in a specific order. The cool and refreshing flavor and vibrant color remind people of the beautiful holiday times. Do not mess the order up if you want to get the gradient effect right!",
             "Eff": "Increases all party members' Healing Bonus by 17% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108464",
-            "Recipe": 3311
+            "Recipe": 3311,
+            "Buff": 3
         },
         {
             "_id": 108463,
@@ -9334,7 +9540,8 @@ var _items = [
             "Desc": "A brightly colored non-alcoholic beverage. The sourness of the Wolfhook has not been managed well, leading to a numbing sensation on your tongue. Wait a minute... Is that howling from Wolvendom you hear? That's got to be a hallucination, right? Right?",
             "Eff": "Increases all party members' Healing Bonus by 15% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108464",
-            "Recipe": 3311
+            "Recipe": 3311,
+            "Buff": 3
         },
         {
             "_id": 108462,
@@ -9343,7 +9550,8 @@ var _items = [
             "Desc": "A large serving of filling staple food. Each grain of rice is distinct and evenly coated in flavorful sauce as you spoon them into your mouth. No oily meats were used to make this dish, and yet its flavor is more alluring still. This dish stacks flavor like the endless dunes themselves, bringing a most unique satisfaction.",
             "Eff": "Restores 60 Stamina.",
             "Icon": "UI_ItemIcon_108461",
-            "Recipe": 2308
+            "Recipe": 2308,
+            "Buff": 7
         },
         {
             "_id": 108461,
@@ -9352,7 +9560,8 @@ var _items = [
             "Desc": "A large serving of filling staple food. In this dish that combines rice, noodles, and beans together, the secret of great taste lies in the sweet and sour flavor imparted by tomatoes. Owing to its common nature and low price, this dish is a great choice for sating one's hunger — which is one of the key reasons why this recipe has spread from Aaru Village to the rest of Sumeru.",
             "Eff": "Restores 50 Stamina.",
             "Icon": "UI_ItemIcon_108461",
-            "Recipe": 2308
+            "Recipe": 2308,
+            "Buff": 7
         },
         {
             "_id": 108460,
@@ -9361,7 +9570,8 @@ var _items = [
             "Desc": "A large serving of filling staple food. In your hurry, you did not mix the various ingredients well before eating, resulting in a ridiculously thick tomato flavor on one side of the rice, and an utter blandness on the other... Best you mix it a bit better next time.",
             "Eff": "Restores 40 Stamina.",
             "Icon": "UI_ItemIcon_108461",
-            "Recipe": 2308
+            "Recipe": 2308,
+            "Buff": 7
         },
         {
             "_id": 108459,
@@ -9370,7 +9580,8 @@ var _items = [
             "Desc": "A popular dessert in Sumeru. The moment it enters your mouth, the springy mouthfeel makes you feel like you're wandering atop milk-flavored clouds. As you savor its flavors, the blended fragrance of Padisarah and Sumeru Rose fills the air. When you finally do reach that very last bite, it feels like something has been left unfinished. You cannot help but lick the back of your spoon, as if to savor the final sublime moments of enjoyment.",
             "Eff": "Decreases all party members' climbing and sprinting Stamina consumption by 25% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108458",
-            "Recipe": 3309
+            "Recipe": 3309,
+            "Buff": 1
         },
         {
             "_id": 108458,
@@ -9379,7 +9590,8 @@ var _items = [
             "Desc": "A popular dessert in Sumeru. Juices are squeezed from the petals of Padisarahs and Sumeru Roses before being mixed with milk, gelatin, sugar, and other ingredients, and then left to solidify. Cute appearance and sweet flavor make it a common sight at celebratory events in Sumeru.",
             "Eff": "Decreases all party members' climbing and sprinting Stamina consumption by 20% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108458",
-            "Recipe": 3309
+            "Recipe": 3309,
+            "Buff": 1
         },
         {
             "_id": 108457,
@@ -9388,7 +9600,8 @@ var _items = [
             "Desc": "A popular dessert in Sumeru. A single bite yields a mix of milky and floral flavors... Which isn't bad, exactly, but remains a far cry from what you expected from this pudding. Did you get the ingredient proportions wrong or something?",
             "Eff": "Decreases all party members' climbing and sprinting Stamina consumption by 15% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108458",
-            "Recipe": 3309
+            "Recipe": 3309,
+            "Buff": 1
         },
         {
             "_id": 108456,
@@ -9397,7 +9610,8 @@ var _items = [
             "Desc": "A rich dessert. The syrup itself melts upon contact with your mouth, revealing the nut like a gem swathed in velvet, layer leading on to layer of joy. One small bite, and it is as if you are soaked in a tub of silken sweetness. Why, you really, really must make a few pieces more next time!",
             "Eff": "Increases all party members' DEF by 235 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108455",
-            "Recipe": 3308
+            "Recipe": 3308,
+            "Buff": 3
         },
         {
             "_id": 108455,
@@ -9406,7 +9620,8 @@ var _items = [
             "Desc": "A rich dessert. First, the syrup is boiled till clear, then mixed with fillings and sesame paste from Sumeru. Then at last, the evenly-mixed syrup is poured into a mold and allowed to solidify into this crunchy form. It is said that the cold lands of Snezhnaya are a host to a similar dish, with a slightly different flavor profile. Of course, both sides naturally believe theirs to be the greatest in all Teyvat.",
             "Eff": "Increases all party members' DEF by 200 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108455",
-            "Recipe": 3308
+            "Recipe": 3308,
+            "Buff": 3
         },
         {
             "_id": 108454,
@@ -9415,7 +9630,8 @@ var _items = [
             "Desc": "A rich dessert. The hard nut is almost like a stone lying hidden in the sand, waiting to strike. Sweetness brings happiness, yes, but the feeling of the hard bits stuck between your teeth rather ruins it by half.",
             "Eff": "Increases all party members' DEF by 165 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108455",
-            "Recipe": 3308
+            "Recipe": 3308,
+            "Buff": 3
         },
         {
             "_id": 108453,
@@ -9424,7 +9640,8 @@ var _items = [
             "Desc": "A traditional Sumeru dessert. A certain researcher once said that the people of Sumeru can be split into two categories. Those who eat desserts to live, and those who live to eat desserts. The thin puff pastry layers of this dish, and the bone-piercing aroma of butter and honey, may yet consign all who taste it into the second camp.",
             "Eff": "Increases all party members' CRIT Rate by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108452",
-            "Recipe": 3307
+            "Recipe": 3307,
+            "Buff": 6
         },
         {
             "_id": 108452,
@@ -9433,7 +9650,8 @@ var _items = [
             "Desc": "A traditional Sumeru dessert. This puff pastry contains chopped nuts and has been baked after having butter drizzled atop it — and not forgetting some syrup once it comes out of the oven. Some researchers will specially order this veritable \"fortress of sweetness\" to replenish their energies before an exam. This is also why this dish has great pride of place as the Akademiya's favorite dessert.",
             "Eff": "Increases all party members' CRIT Rate by 15% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108452",
-            "Recipe": 3307
+            "Recipe": 3307,
+            "Buff": 6
         },
         {
             "_id": 108451,
@@ -9442,7 +9660,8 @@ var _items = [
             "Desc": "A traditional Sumeru dessert. The sickly sweetness explodes in your mouth like a bomb, leaving your teeth rattling in the wake of its saccharine shockwave. The appropriate amount of sweetness lifts the spirits, but too much of it becomes a terrible burden.",
             "Eff": "Increases all party members' CRIT Rate by 10% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108452",
-            "Recipe": 3307
+            "Recipe": 3307,
+            "Buff": 6
         },
         {
             "_id": 108450,
@@ -9451,7 +9670,8 @@ var _items = [
             "Desc": "A dark-colored pastry. The pastry is fine, almost lustrous, and the fragrance of the Ajilenakh Nuts is both vivid and full of warmth. The cake is fluffy and delicate as it enters your mouth, exorcising exhaustion and muzzling misery. Ah, just as a book may not be judged by its cover, so too should a cake not be convicted by its crust.",
             "Eff": "Revives a character and restores 1,500 HP.",
             "Icon": "UI_ItemIcon_108449",
-            "Recipe": 3310
+            "Recipe": 3310,
+            "Buff": 4
         },
         {
             "_id": 108449,
@@ -9460,7 +9680,8 @@ var _items = [
             "Desc": "A dark-colored pastry. The Ajilenakh Nuts were first roasted and powdered before being sieved, added to a batter, mixed evenly, and then baked. The final product by no means looks impressive, but it exudes the fresh aroma of Ajilenakh Nuts, and it tastes better still with some jam.",
             "Eff": "Revives a character and restores 1,200 HP.",
             "Icon": "UI_ItemIcon_108449",
-            "Recipe": 3310
+            "Recipe": 3310,
+            "Buff": 4
         },
         {
             "_id": 108448,
@@ -9469,7 +9690,8 @@ var _items = [
             "Desc": "A dark-colored pastry. One look is all it takes to tell that this is a disaster dish and a half. Your immense courage in trying one bite is rewarded with a supremely dry, coarse mouthfeel... Is this some kind of mistake? Was the charcoal plated up instead of the cake?",
             "Eff": "Revives a character and restores 900 HP.",
             "Icon": "UI_ItemIcon_108449",
-            "Recipe": 3310
+            "Recipe": 3310,
+            "Buff": 4
         },
         {
             "_id": 108447,
@@ -9478,7 +9700,8 @@ var _items = [
             "Desc": "A crunchy delicacy. The faint creamy notes melt on your tongue as you munch on the succulent mushrooms and crispy bread. This unmatched sense of satisfaction somehow leaves you insatiable — you do not even hesitate to lick the bread crumbs off your fingertips.",
             "Eff": "Restores 34% of Max HP and an additional 1,900 HP to the selected character.",
             "Icon": "UI_ItemIcon_108446",
-            "Recipe": 3306
+            "Recipe": 3306,
+            "Buff": 0
         },
         {
             "_id": 108446,
@@ -9487,7 +9710,8 @@ var _items = [
             "Desc": "A crunchy appetizer that's baked with mushrooms and cheese on top of bread slices. A single whiff of its amazing smell is enough to fill one with anticipation. Give it a bite, and you'll experience a pleasant burst of sweetness.",
             "Eff": "Restores 32% of Max HP and an additional 1,250 HP to the selected character.",
             "Icon": "UI_ItemIcon_108446",
-            "Recipe": 3306
+            "Recipe": 3306,
+            "Buff": 0
         },
         {
             "_id": 108445,
@@ -9496,7 +9720,8 @@ var _items = [
             "Desc": "A crunchy delicacy. From the sorry side of the dish, it is easy to tell that this dish has been left out here for some time — water loss has already dried up and hardened the bread slices. Biting into it makes your chin sore... Next time, do remember to eat it while it's still nice and fresh...",
             "Eff": "Restores 30% of Max HP and an additional 600 HP to the selected character.",
             "Icon": "UI_ItemIcon_108446",
-            "Recipe": 3306
+            "Recipe": 3306,
+            "Buff": 0
         },
         {
             "_id": 108444,
@@ -9505,7 +9730,8 @@ var _items = [
             "Desc": "A fruity drink with a pleasantly sour taste. The redolence of tea carries your thoughts away. With one sip of this tea, you feel as if you are lazing in a flourishing orchard, tipsy in the gentle breeze that carries a fruity scent.",
             "Eff": "Increases all party members' ATK by 228 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108443",
-            "Recipe": 3305
+            "Recipe": 3305,
+            "Buff": 2
         },
         {
             "_id": 108443,
@@ -9514,7 +9740,8 @@ var _items = [
             "Desc": "A fruity drink with a pleasantly sour taste. This scented tea gives off the pleasant aroma of fresh fruit. Its cold and refreshing taste is sure to dispel the stifling heat with each gulp.",
             "Eff": "Increases all party members' ATK by 194 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108443",
-            "Recipe": 3305
+            "Recipe": 3305,
+            "Buff": 2
         },
         {
             "_id": 108442,
@@ -9523,7 +9750,8 @@ var _items = [
             "Desc": "A fruity drink with a pleasantly sour taste. You added sugar to temper the sourness of the tea but accidentally lost control of the added quantity. What should have been a thirst-quenching beverage has now become a throat-clenching liquid. Water, let's have some more water...",
             "Eff": "Increases all party members' ATK by 160 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108443",
-            "Recipe": 3305
+            "Recipe": 3305,
+            "Buff": 2
         },
         {
             "_id": 108441,
@@ -9532,7 +9760,8 @@ var _items = [
             "Desc": "A pizza freshly baked in an oven. Every inch of the crust is saturated with the fatty aroma of meat. Some mushrooms have been sprinkled on top to add freshness. Just a small mouthful shall greet your taste buds with the rich scent of cheese — most enticing indeed. You can't help reaching for another slice before you've even finished off the one in your hand.",
             "Eff": "Increases all party members' ATK by 320 and CRIT Rate by 10% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108440",
-            "Recipe": 4303
+            "Recipe": 4303,
+            "Buff": 2
         },
         {
             "_id": 108440,
@@ -9541,7 +9770,8 @@ var _items = [
             "Desc": "A pizza freshly baked from the oven. The crust is dotted with large chunks of meat and fresh mushroom slices. The sweet, stretchy cheese further adds to the charm. You have no doubt that every slice will be snatched away the moment it is served. Speed, therefore, is a gourmet's best buddy when this pizza is on the table.",
             "Eff": "Increases all party members' ATK by 272 and CRIT Rate by 8% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108440",
-            "Recipe": 4303
+            "Recipe": 4303,
+            "Buff": 2
         },
         {
             "_id": 108439,
@@ -9550,7 +9780,8 @@ var _items = [
             "Desc": "A pizza freshly baked in an oven. The messy lumps of cheese and ingredients give off a greasy smell, with a rock-hard crust just to make things worse. Well, what has the poor dish gone through to end up in this state? Was it the baking time or the excessive fermentation?",
             "Eff": "Increases all party members' ATK by 224 and CRIT Rate by 6% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108440",
-            "Recipe": 4303
+            "Recipe": 4303,
+            "Buff": 2
         },
         {
             "_id": 108438,
@@ -9561,7 +9792,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108438",
             "Recipe": 3301,
             "Avatar": 68,
-            "AI": "UI_AvatarIcon_Dori"
+            "AI": "UI_AvatarIcon_Dori",
+            "Buff": 2
         },
         {
             "_id": 108437,
@@ -9572,7 +9804,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108437",
             "Recipe": 3302,
             "Avatar": 67,
-            "AI": "UI_AvatarIcon_Collei"
+            "AI": "UI_AvatarIcon_Collei",
+            "Buff": 0
         },
         {
             "_id": 108436,
@@ -9583,7 +9816,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108436",
             "Recipe": 2304,
             "Avatar": 69,
-            "AI": "UI_AvatarIcon_Tighnari"
+            "AI": "UI_AvatarIcon_Tighnari",
+            "Buff": 3
         },
         {
             "_id": 108435,
@@ -9592,7 +9826,8 @@ var _items = [
             "Desc": "A fish dish served with sauce. The translucent fillet lies upon exquisite cream sauce, offering a burst of freshness reminiscent of fish leaping from water with just one bite.",
             "Eff": "Restores 22% of Max HP to the selected character and regenerates 470 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108434",
-            "Recipe": 2307
+            "Recipe": 2307,
+            "Buff": 5
         },
         {
             "_id": 108434,
@@ -9601,7 +9836,8 @@ var _items = [
             "Desc": "A fish served in sauce. Fresh fish filets were dried before pan-fried until crispy, then drizzled with a creamy white dressing and sprinkled with fresh mint. A unique dish that can be made through the simplest methods.",
             "Eff": "Restores 20% of Max HP to the selected character and regenerates 390 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108434",
-            "Recipe": 2307
+            "Recipe": 2307,
+            "Buff": 5
         },
         {
             "_id": 108433,
@@ -9610,7 +9846,8 @@ var _items = [
             "Desc": "A fish dish served in sauce. The outside was burnt in searing hot oil. It is rather hard not to notice the sharp contrast between the charcoal-black fish and the milk-white sauce. Only the meat inside seems edible... Wait, what's with this sourness?",
             "Eff": "Restores 18% of Max HP to the selected character and regenerates 300 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108434",
-            "Recipe": 2307
+            "Recipe": 2307,
+            "Buff": 5
         },
         {
             "_id": 108432,
@@ -9619,7 +9856,8 @@ var _items = [
             "Desc": "A baked appetizer. The oozing cheese flows forth like a golden river, carrying an alluring aroma into your mouth. Soon, you will be amazed by the freshness of the Rukkhashava Mushrooms and the softness of the potato. You can't help but wish that this leisurely and savory tour might last a little longer...",
             "Eff": "Revives a character and restores 1,500 HP.",
             "Icon": "UI_ItemIcon_108431",
-            "Recipe": 3304
+            "Recipe": 3304,
+            "Buff": 4
         },
         {
             "_id": 108431,
@@ -9628,7 +9866,8 @@ var _items = [
             "Desc": "A baked appetizer. The potato was washed clean and then baked together with cheese and Rukkhashava Mushrooms. The dish guarantees an unmatched experience when eaten hot. This explains its popularity on the streets of Sumeru. Still, be careful not to burn your tongue.",
             "Eff": "Revives a character and restores 1,200 HP.",
             "Icon": "UI_ItemIcon_108431",
-            "Recipe": 3304
+            "Recipe": 3304,
+            "Buff": 4
         },
         {
             "_id": 108430,
@@ -9637,7 +9876,8 @@ var _items = [
             "Desc": "A baked appetizer. The undercooked potato even has dirt on it... A failed attempt at cooking, it seems, and even the cheese that usually goes well with any other ingredients will not be able to save the day.",
             "Eff": "Revives a character and restores 900 HP.",
             "Icon": "UI_ItemIcon_108431",
-            "Recipe": 3304
+            "Recipe": 3304,
+            "Buff": 4
         },
         {
             "_id": 108429,
@@ -9646,7 +9886,8 @@ var _items = [
             "Desc": "A signature chicken dish in Sumeru. The vibrant flames have locked the umami inside the chicken's reddened skin. Once it slips into your mouth, the rich flavor will awaken your every taste bud. The chicken and spices seem to have performed a mysterious Sumeru dance on the tip of your tongue, evoking the image of a festive banquet...",
             "Eff": "Increases all party members' ATK by 320 and CRIT Rate by 10% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108428",
-            "Recipe": 4302
+            "Recipe": 4302,
+            "Buff": 2
         },
         {
             "_id": 108428,
@@ -9655,7 +9896,8 @@ var _items = [
             "Desc": "A signature chicken dish in Sumeru. The chicken was first marinated with red spices, and then roasted in a tandoor. The process of making this Sumeru classic does not involve any fancy skills, and the use of such a humble clay oven might be surprising to some. In Sumeru, a tandoor to a veteran chef is as important as a trusty sword to an adventurer.",
             "Eff": "Increases all party members' ATK by 272 and CRIT Rate by 8% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108428",
-            "Recipe": 4302
+            "Recipe": 4302,
+            "Buff": 2
         },
         {
             "_id": 108427,
@@ -9664,7 +9906,8 @@ var _items = [
             "Desc": "A signature chicken dish of Sumeru. Baked in high heat, the chicken has become dry and wooden. The overabundance of seasonings has covered the original scent of the ingredients. Even someone who likes jerky will need a bottle of water to help swallow the meat.",
             "Eff": "Increases all party members' ATK by 224 and CRIT Rate by 6% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108428",
-            "Recipe": 4302
+            "Recipe": 4302,
+            "Buff": 2
         },
         {
             "_id": 108426,
@@ -9673,7 +9916,8 @@ var _items = [
             "Desc": "A simple, common dish in Sumeru. Big shrimps are dipped in a creamy sauce, absorbing its rich flavor. The passionate aroma easily finds its way into your nose. Even a person who claims to have lost their appetite will drool over it.",
             "Eff": "Restores 24% of Max HP and an additional 1,500 HP to the selected character.",
             "Icon": "UI_ItemIcon_108425",
-            "Recipe": 2306
+            "Recipe": 2306,
+            "Buff": 0
         },
         {
             "_id": 108425,
@@ -9682,7 +9926,8 @@ var _items = [
             "Desc": "A common household dish in Sumeru. The shrimps are first boiled until chewy, then added into the curry broth. The perfect blend of savory curry and flavors from the ocean is enough to make one's stomach growl. Though it's a common household dish, almost every family seems to have made their own variations to the recipe. Perhaps one could say that for every Sumeru household, there'll be a different version of curry shrimp.",
             "Eff": "Restores 22% of Max HP and an additional 1,200 HP to the selected character.",
             "Icon": "UI_ItemIcon_108425",
-            "Recipe": 2306
+            "Recipe": 2306,
+            "Buff": 0
         },
         {
             "_id": 108424,
@@ -9691,7 +9936,8 @@ var _items = [
             "Desc": "A simple, common dish in Sumeru. You can smell curry... though it stings your nose. After looking inside the squishy mess, you finally find a malnourished shrimp. Yes, this is curry shrimp for sure... But should you really give it a try?",
             "Eff": "Restores 20% of Max HP and an additional 900 HP to the selected character.",
             "Icon": "UI_ItemIcon_108425",
-            "Recipe": 2306
+            "Recipe": 2306,
+            "Buff": 0
         },
         {
             "_id": 108423,
@@ -9700,7 +9946,8 @@ var _items = [
             "Desc": "A grilled fish dish with a faint floral scent. The rolling golden fish meat and fragrant rose petals remind you of the billowing waves on the sea surface, colored crimson by the setting sun. You see why the dish is also called \"the Romance of Sailors.\" W—Wait just a minute! Does this mean that Lambad's adventure stories are not exaggerated after all?",
             "Eff": "Restores 10% of Max HP and an additional 1,200 HP to the selected character.",
             "Icon": "UI_ItemIcon_108422",
-            "Recipe": 1302
+            "Recipe": 1302,
+            "Buff": 0
         },
         {
             "_id": 108422,
@@ -9709,7 +9956,8 @@ var _items = [
             "Desc": "A grilled fish dish with a faint floral scent. It is said that Lambad once adventured far and wide in his youth. Everywhere he went, he would taste the grilled fish at local taverns. This dish was not a signature food in Sumeru, and Lambad thought it was a pity, so he invented his own fish roll. According to the gourmets who often dine at his tavern, the tales of his adventures aren't necessarily true, but his fish roll is undoubtedly delicious.",
             "Eff": "Restores 9% of Max HP and an additional 1,000 HP to the selected character.",
             "Icon": "UI_ItemIcon_108422",
-            "Recipe": 1302
+            "Recipe": 1302,
+            "Buff": 0
         },
         {
             "_id": 108421,
@@ -9718,7 +9966,8 @@ var _items = [
             "Desc": "A grilled fish dish with a faint floral scent. Oh dearie me. The rank smell of fish and the stench of charred meat are the most telling signs of your terrible skills. Take the dish away before Lambad sees it, or he might make you pay twice as much for your next order.",
             "Eff": "Restores 8% of Max HP and an additional 800 HP to the selected character.",
             "Icon": "UI_ItemIcon_108422",
-            "Recipe": 1302
+            "Recipe": 1302,
+            "Buff": 0
         },
         {
             "_id": 108420,
@@ -9727,7 +9976,8 @@ var _items = [
             "Desc": "A classic rice dish served in large quantities. With the first bite, the crispy outside cracks with delightful crunching sounds. The second bite combines the soft and moist rice with juicy meat in your mouth. Then, the third bite brings in the Padisarah's fragrance... The last bite, however, leaves your heart empty. What a pity it is, that you are too full to continue this wondrous experience. Well then, why not have another serving tomorrow?",
             "Eff": "Restores 30% of Max HP to the selected character and regenerates 790 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108419",
-            "Recipe": 3303
+            "Recipe": 3303,
+            "Buff": 5
         },
         {
             "_id": 108419,
@@ -9736,7 +9986,8 @@ var _items = [
             "Desc": "A classic staple served in large quantities. Cooked rice is mixed with meat that was marinated in yogurt, then baked until its surface turns crispy. Don't forget to add a handful of Padisarah petals before serving! Both the rice and meat are enough to keep one's stomach full for a long time, making it a very popular dish at the Grand Bazaar.",
             "Eff": "Restores 28% of Max HP to the selected character and regenerates 620 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108419",
-            "Recipe": 3303
+            "Recipe": 3303,
+            "Buff": 5
         },
         {
             "_id": 108418,
@@ -9745,7 +9996,8 @@ var _items = [
             "Desc": "A classic rice dish served in large quantities. Its dark-colored shell looks rather suspicious. A bite into its hardened surface feels like a duel between the teeth and the food. For the sake of your poor teeth, you decide to only eat the fillings...",
             "Eff": "Restores 26% of Max HP to the selected character and regenerates 450 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108419",
-            "Recipe": 3303
+            "Recipe": 3303,
+            "Buff": 5
         },
         {
             "_id": 108417,
@@ -9754,7 +10006,8 @@ var _items = [
             "Desc": "An aromatic rice dish. The golden crown made of long-grain rice and meat is adorned with Padisarah petals, a picture that reminds you of a desert dotted with oases. The enticing scent of spices dances across each grain of rice. Every mouthful soothes your whole body. It won't take long for a customer to empty the plate. They can't help but lick their mouth, savoring the lingering scent.",
             "Eff": "Increases all party members' DEF by 308 and healing effects by 10% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108416",
-            "Recipe": 4301
+            "Recipe": 4301,
+            "Buff": 3
         },
         {
             "_id": 108416,
@@ -9763,7 +10016,8 @@ var _items = [
             "Desc": "An aromatic rice dish. Stir-fry the meat such that it is crispy on the outside and tender on the inside. Then stew it with condiments and long-grain rice. Sprinkle a few Padisarah petals before serving. Every grain is saturated with the aroma of fatty meat and condiments. The dish has an exquisite taste only found in Sumeru.",
             "Eff": "Increases all party members' DEF by 261 and healing effects by 8% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108416",
-            "Recipe": 4301
+            "Recipe": 4301,
+            "Buff": 3
         },
         {
             "_id": 108415,
@@ -9772,7 +10026,8 @@ var _items = [
             "Desc": "An aromatic rice dish. The rice grains are soaked in oil and have thus become translucent. Its greasy smell is rather unpleasant. A layer of oil remains on the plate even after you finish the dish... Best to stay away from greasy food for the next few days...",
             "Eff": "Increases all party members' DEF by 215 and healing effects by 6% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108416",
-            "Recipe": 4301
+            "Recipe": 4301,
+            "Buff": 3
         },
         {
             "_id": 108414,
@@ -9781,7 +10036,8 @@ var _items = [
             "Desc": "A rich soup made with simple ingredients. The smooth texture caresses your taste buds, filling your mouth with the refreshing scent of beans and mints. The unadorned yet pleasant flavor reminds you of a leisurely walk in the shade. Who can refuse such simple delight?",
             "Eff": "Revives a character and restores 150 HP.",
             "Icon": "UI_ItemIcon_108413",
-            "Recipe": 1301
+            "Recipe": 1301,
+            "Buff": 4
         },
         {
             "_id": 108413,
@@ -9790,7 +10046,8 @@ var _items = [
             "Desc": "A rich soup made with simple ingredients. Mints and beans were boiled and ground together to get a smooth texture. The soup was then left on low heat till it thickened. Finally, some beans and mints were sprinkled on the top. This refreshing delicacy tastes equally good whether served hot or cold.",
             "Eff": "Revives a character and restores 100 HP.",
             "Icon": "UI_ItemIcon_108413",
-            "Recipe": 1301
+            "Recipe": 1301,
+            "Buff": 4
         },
         {
             "_id": 108412,
@@ -9799,7 +10056,8 @@ var _items = [
             "Desc": "A rich soup made with simple ingredients. Due to an excess of water, the soup tastes more like a beverage than a proper dish. Why not add some ice and turn it into a bowl of Minty Bean Water, then?",
             "Eff": "Revives a character and restores 50 HP.",
             "Icon": "UI_ItemIcon_108413",
-            "Recipe": 1301
+            "Recipe": 1301,
+            "Buff": 4
         },
         {
             "_id": 108411,
@@ -9808,7 +10066,8 @@ var _items = [
             "Desc": "A delicacy that is served with dipping sauce. The round panipuri balls remind you of Slimes. Anticipate the mysterious, bright-colored juice within, and bring it to your mouth — the coolness, sourness, and tingling sensations are bouncing freely on your tongue as if someone has ignited a stick of dreamy dynamite. No wonder that some people in Sumeru are so obsessed with it...",
             "Eff": "Revives a character and restores 550 HP.",
             "Icon": "UI_ItemIcon_108410",
-            "Recipe": 2305
+            "Recipe": 2305,
+            "Buff": 4
         },
         {
             "_id": 108410,
@@ -9817,7 +10076,8 @@ var _items = [
             "Desc": "An appetizer served with a green dipping sauce. The crispy balls are first deep-fried, then stuffed with a delicious filling through a hole on the top. The bite-sized snack is a common street food in Sumeru.",
             "Eff": "Revives a character and restores 400 HP.",
             "Icon": "UI_ItemIcon_108410",
-            "Recipe": 2305
+            "Recipe": 2305,
+            "Buff": 4
         },
         {
             "_id": 108409,
@@ -9826,7 +10086,8 @@ var _items = [
             "Desc": "A delicacy served with dipping sauce. The green sauce gives off a slightly unusual smell, and its color looks a bit off... Maybe it is a good idea to forget about the sauce and directly go for the panipuri balls.",
             "Eff": "Revives a character and restores 250 HP.",
             "Icon": "UI_ItemIcon_108410",
-            "Recipe": 2305
+            "Recipe": 2305,
+            "Buff": 4
         },
         {
             "_id": 108408,
@@ -9835,7 +10096,8 @@ var _items = [
             "Desc": "A bread with varied fillings. Aromatic meat and crunchy vegetables are the leading actors of this big show. The sauce, or the \"gaffer,\" has expertly focused the limelight on their duet, while each \"pocket\" is full of surprises, just like a magician's bag.",
             "Eff": "Restores 34% of Max HP and an additional 1,900 HP to the selected character.",
             "Icon": "UI_ItemIcon_108407",
-            "Recipe": 3302
+            "Recipe": 3302,
+            "Buff": 0
         },
         {
             "_id": 108407,
@@ -9844,7 +10106,8 @@ var _items = [
             "Desc": "A bread with varied fillings. The flat dough has puffed up in the oven, reminding you of a lovely Pufferfish. The bread is usually cut in the middle into two separate \"pockets,\" hence the name, \"Pita Pocket.\" It is said that people of Sumeru used to dip the bread in sauce. But nowadays, people usually stuff the \"pockets\" with different fillings and then take big mouthfuls.",
             "Eff": "Restores 32% of Max HP and an additional 1,250 HP to the selected character.",
             "Icon": "UI_ItemIcon_108407",
-            "Recipe": 3302
+            "Recipe": 3302,
+            "Buff": 0
         },
         {
             "_id": 108406,
@@ -9853,7 +10116,8 @@ var _items = [
             "Desc": "A bread with varied fillings. The pastry shell feels like sand, and the firm fillings present an unpleasant color... Only a lost traveler who has been starving for days would willingly accept this Pita Pocket.",
             "Eff": "Restores 30% of Max HP and an additional 600 HP to the selected character.",
             "Icon": "UI_ItemIcon_108407",
-            "Recipe": 3302
+            "Recipe": 3302,
+            "Buff": 0
         },
         {
             "_id": 108405,
@@ -9862,7 +10126,8 @@ var _items = [
             "Desc": "An Aranara-style dish that Paimon drained her brain juice dry to improve. But in fact, it only requires a few common mushrooms from Sumeru, along with some extra seasonings. The heat and cooking time have been adjusted to preserve the distinctive flavors of three different types of mushrooms. Depending on one's preference, they can either be eaten together or one at a time to study the subtly varying flavors.",
             "Eff": "Increases all party members' DEF by 126 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108404",
-            "Recipe": 2304
+            "Recipe": 2304,
+            "Buff": 3
         },
         {
             "_id": 108404,
@@ -9871,7 +10136,8 @@ var _items = [
             "Desc": "An Aranara-style dish that Paimon has drained her brain juice dry to improve. But in fact, it only requires a few common mushrooms from Sumeru, along with some extra seasonings. Paimon selected three types of mushrooms, and they were prepared and then cooked in a simple way, but the texture and flavor aren't bad at all.",
             "Eff": "Increases all party members' DEF by 107 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108404",
-            "Recipe": 2304
+            "Recipe": 2304,
+            "Buff": 3
         },
         {
             "_id": 108403,
@@ -9880,7 +10146,8 @@ var _items = [
             "Desc": "An Aranara-style dish that Paimon drained her brain juice dry to improve. But in fact, it only requires a few common mushrooms from Sumeru, along with some extra seasonings. As for its flavor, you'd believe you've tasted the wildness of nature — ahem, \"the scent of the remaining heaps of dirt\" is probably the more accurate description though. Such bounties of the mountains and forests are best left for the boars to savor.",
             "Eff": "Increases all party members' DEF by 88 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108404",
-            "Recipe": 2304
+            "Recipe": 2304,
+            "Buff": 3
         },
         {
             "_id": 108402,
@@ -9889,7 +10156,8 @@ var _items = [
             "Desc": "An Aranara-style dish that Paimon drained her brain juice dry to improve. It is, in fact, a rather traditional recipe in Sumeru. The spices were mixed with the other ingredients in a special way to bring out the most original scents. They awaken your taste buds and create a multi-layered flavor profile. The cheese balls are crispy on the outside and soft on the inside. They go deliciously well with steamy hot potatoes.",
             "Eff": "Increases all party members' CRIT Rate by 12% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108401",
-            "Recipe": 2303
+            "Recipe": 2303,
+            "Buff": 6
         },
         {
             "_id": 108401,
@@ -9898,7 +10166,8 @@ var _items = [
             "Desc": "An Aranara-style dish that Paimon drained her brain juice dry to improve. It is, in fact, a rather traditional recipe in Sumeru. The freshly cooked cheese balls give off a titillating aroma, for a special technique has been used to mix the spices into the dough. A small bite and you will see hot cheese oozing out immediately. Also, potatoes have been stewed till they softened properly. This creamy combination will keep you full for a long time.",
             "Eff": "Increases all party members' CRIT Rate by 9% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108401",
-            "Recipe": 2303
+            "Recipe": 2303,
+            "Buff": 6
         },
         {
             "_id": 108400,
@@ -9907,7 +10176,8 @@ var _items = [
             "Desc": "An Aranara-style dish that Paimon drained her brain juice dry to improve. It is, in fact, a rather traditional recipe in Sumeru. The cheese balls are under-cooked, and as a result, you got a mouthful of half-melted cheese and coarse potato chunks. Fry it for a while longer next time, would you?",
             "Eff": "Increases all party members' CRIT Rate by 6% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108401",
-            "Recipe": 2303
+            "Recipe": 2303,
+            "Buff": 6
         },
         {
             "_id": 108399,
@@ -9916,7 +10186,8 @@ var _items = [
             "Desc": "An Aranara-style salad that Paimon drained her brain juice dry to improve. It is, in fact, a rather traditional recipe in Sumeru. Crispy and juicy Zaytun Peaches are served with fresh mints and blooming roses. This delicacy tastes refreshingly sweet and feels pleasantly cool on the tongue — This must be \"the Taste of Happiness,\" as Aranara say.",
             "Eff": "Decreases all party members' sprinting Stamina consumption by 25% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108398",
-            "Recipe": 2302
+            "Recipe": 2302,
+            "Buff": 1
         },
         {
             "_id": 108398,
@@ -9925,7 +10196,8 @@ var _items = [
             "Desc": "An Aranara-style salad that Paimon drained her brain juice dry to improve. It is, in fact, a rather traditional recipe in Sumeru. Fresh and crispy Zaytun Peach slices are mixed with gently-squeezed Sumeru Roses, which adds a touch of distinctive flavor. Mint is used instead of sugar to avoid getting a sickening sweetness. A refreshing dish that pleases both the eyes and the nose.",
             "Eff": "Decreases all party members' sprinting Stamina consumption by 20% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108398",
-            "Recipe": 2302
+            "Recipe": 2302,
+            "Buff": 1
         },
         {
             "_id": 108397,
@@ -9934,7 +10206,8 @@ var _items = [
             "Desc": "An Aranara-style salad that Paimon drained her brain juice dry to improve. It is, in fact, a rather traditional recipe in Sumeru. Ripe — \"slightly fermented\" to be more precise — Zaytun Peaches give off a bizarre smell. And this is to say nothing of the disproportionate use of mints and roses...",
             "Eff": "Decreases all party members' sprinting Stamina consumption by 15% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108398",
-            "Recipe": 2302
+            "Recipe": 2302,
+            "Buff": 1
         },
         {
             "_id": 108396,
@@ -9943,7 +10216,8 @@ var _items = [
             "Desc": "A wrap filled with roasted meat. On the thin, soft flatbread lies the tender meat covered in a crispy exterior, and the flavor is enriched by spices and balanced by vegetables. A small mouthful is enough to please one's picky taste buds. Eat carefully, now! You don't want to miss out on a single drop of the juice.",
             "Eff": "Increases all party members' ATK by 95 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108395",
-            "Recipe": 2301
+            "Recipe": 2301,
+            "Buff": 2
         },
         {
             "_id": 108395,
@@ -9952,7 +10226,8 @@ var _items = [
             "Desc": "A wrap filled with roasted meat. Meat shaved off the vertical skewer is wrapped in a flatbread together with vegetables and sauces. Plate it up, and a simple yet delicious Sumeru street food is ready.",
             "Eff": "Increases all party members' ATK by 81 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108395",
-            "Recipe": 2301
+            "Recipe": 2301,
+            "Buff": 2
         },
         {
             "_id": 108394,
@@ -9961,7 +10236,8 @@ var _items = [
             "Desc": "A wrap filled with roasted meat. The meat has been burnt as dark as charcoal. One may officially declare the dish to be hopeless, no matter how one might perfect the pastry shell... Carelessness, it seems, is always an awful ingredient for making food.",
             "Eff": "Increases all party members' ATK by 66 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108395",
-            "Recipe": 2301
+            "Recipe": 2301,
+            "Buff": 2
         },
         {
             "_id": 108393,
@@ -9970,7 +10246,8 @@ var _items = [
             "Desc": "A flavorful dish. Juicy chicken is saturated with silky sauce. Every bite orchestrates an \"elemental symphony of flavors\"... Oops, before you even knew it, you had already emptied the plate. Dip the flatbread in the sauce — every last drop of this must go!",
             "Eff": "Increases all party members' ATK by 228 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108392",
-            "Recipe": 3301
+            "Recipe": 3301,
+            "Buff": 2
         },
         {
             "_id": 108392,
@@ -9979,7 +10256,8 @@ var _items = [
             "Desc": "A flavorful dish. Spice and chopped tomatoes were mixed with warm butter, and then cooked into a creamy sauce. Into it went marinated and pan-fried chicken pieces. People from Sumeru prefer eating the dish with rice or flatbread, which allows them to savor the dish's enticing flavor better.",
             "Eff": "Increases all party members' ATK by 194 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108392",
-            "Recipe": 3301
+            "Recipe": 3301,
+            "Buff": 2
         },
         {
             "_id": 108391,
@@ -9988,7 +10266,8 @@ var _items = [
             "Desc": "A flavorful dish. The amount of seasoning was clearly miscalculated and the dish just tastes sickeningly heavy as a result. If you have it with a couple of glasses of water, perhaps you might manage to swallow some...",
             "Eff": "Increases all party members' ATK by 160 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108392",
-            "Recipe": 3301
+            "Recipe": 3301,
+            "Buff": 2
         },
         {
             "_id": 108390,
@@ -9999,7 +10278,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108390",
             "Recipe": 2211,
             "Avatar": 59,
-            "AI": "UI_AvatarIcon_Heizo"
+            "AI": "UI_AvatarIcon_Heizo",
+            "Buff": 2
         },
         {
             "_id": 108389,
@@ -10010,7 +10290,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108389",
             "Recipe": 3114,
             "Avatar": 60,
-            "AI": "UI_AvatarIcon_Yelan"
+            "AI": "UI_AvatarIcon_Yelan",
+            "Buff": 3
         },
         {
             "_id": 108388,
@@ -10021,7 +10302,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108388",
             "Recipe": 3213,
             "Avatar": 65,
-            "AI": "UI_AvatarIcon_Shinobu"
+            "AI": "UI_AvatarIcon_Shinobu",
+            "Buff": 1
         },
         {
             "_id": 108387,
@@ -10032,7 +10314,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108387",
             "Recipe": 3208,
             "Avatar": 66,
-            "AI": "UI_AvatarIcon_Ayato"
+            "AI": "UI_AvatarIcon_Ayato",
+            "Buff": 3
         },
         {
             "_id": 108386,
@@ -10041,7 +10324,8 @@ var _items = [
             "Desc": "A unique drink. Calla Lilies from Mondstadt and Lavender Melons from Inazuma meet from across mountains and seas before having their flavors blended together to perfection using smooth milk. Novel satisfaction guaranteed — indeed, it is utterly unsurprising that the ill Shogun in the tale was re-energized by the merits of this drink alone.",
             "Eff": "Decreases all party members' gliding and sprinting Stamina consumption by 25% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108385",
-            "Recipe": 3220
+            "Recipe": 3220,
+            "Buff": 1
         },
         {
             "_id": 108385,
@@ -10050,7 +10334,8 @@ var _items = [
             "Desc": "A unique drink. Having featured in the famous light novel \"Pretty Please, Kitsune Guuji?\", it has since been brought to life by Sailing Breeze in collaboration with Yae Publishing House, along with its fascinating flavor. As this version does not contain any bean products, it is slightly different from the special limited edition that was available during the Irodori Festival, but this also means that there's no risk of triggering any bean allergies.",
             "Eff": "Decreases all party members' gliding and sprinting Stamina consumption by 20% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108385",
-            "Recipe": 3220
+            "Recipe": 3220,
+            "Buff": 1
         },
         {
             "_id": 108384,
@@ -10059,7 +10344,8 @@ var _items = [
             "Desc": "A most unique drink. It certainly looks alright, and it would taste acceptable, if you ignore the astringency caused by improper handling of the Lavender Melons...",
             "Eff": "Decreases all party members' gliding and sprinting Stamina consumption by 15% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108385",
-            "Recipe": 3220
+            "Recipe": 3220,
+            "Buff": 1
         },
         {
             "_id": 108383,
@@ -10068,7 +10354,8 @@ var _items = [
             "Desc": "A nutritionally-balanced meal. The fragrant and fluffy bread fills you right up, while the crispy, juicy katsu titillates the senses. One single bite is all it takes to fill you from tongue to gut with satisfaction. Now then, who was the one who first thought of this brilliant combination?",
             "Eff": "Increases all party members' ATK by 95 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108382",
-            "Recipe": 2211
+            "Recipe": 2211,
+            "Buff": 2
         },
         {
             "_id": 108382,
@@ -10077,7 +10364,8 @@ var _items = [
             "Desc": "A nutritionally-balanced meal. The two bread slices clip a thick-cut katsu slab between them. The fragrant, slightly sweet-and-sour sauce is the key to preventing this meal from being too rich. A brilliant mix of outlander style and local flavor!",
             "Eff": "Increases all party members' ATK by 81 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108382",
-            "Recipe": 2211
+            "Recipe": 2211,
+            "Buff": 2
         },
         {
             "_id": 108381,
@@ -10086,7 +10374,8 @@ var _items = [
             "Desc": "A nutritionally-balanced meal. Well, you say that, but vegetables are withered, the meat is dry and wooden, and the bread slices are way too firm... You know what? It doesn't matter. A person needs to fill their stomach and all...",
             "Eff": "Increases all party members' ATK by 66 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108382",
-            "Recipe": 2211
+            "Recipe": 2211,
+            "Buff": 2
         },
         {
             "_id": 108380,
@@ -10097,7 +10386,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108380",
             "Recipe": 2210,
             "Avatar": 58,
-            "AI": "UI_AvatarIcon_Yae"
+            "AI": "UI_AvatarIcon_Yae",
+            "Buff": 4
         },
         {
             "_id": 108379,
@@ -10106,7 +10396,8 @@ var _items = [
             "Desc": "Highly springy noodles. The snow-white, soft yet elastic udon, and the elegantly flavored soup combine to make a simple but comforting dish. The faintest scent of wheat may eventually travel down into your belly together with the sweet noodles, but the aftertaste of warmth will remain.",
             "Eff": "Revives a character and restores 550 HP.",
             "Icon": "UI_ItemIcon_108378",
-            "Recipe": 2210
+            "Recipe": 2210,
+            "Buff": 4
         },
         {
             "_id": 108378,
@@ -10115,7 +10406,8 @@ var _items = [
             "Desc": "Highly springy noodles. After several rounds of rising and pulling, the result is silky smooth yet springy noodles. Unlike ramen, which prizes dense flavors, udon noodles use light flavors to heal the Inazuman soul.",
             "Eff": "Revives a character and restores 400 HP.",
             "Icon": "UI_ItemIcon_108378",
-            "Recipe": 2210
+            "Recipe": 2210,
+            "Buff": 4
         },
         {
             "_id": 108377,
@@ -10124,7 +10416,8 @@ var _items = [
             "Desc": "Highly springy noodles. The overly bland noodles and soup make for a boring experience. Looks like you've got to pay a bit more attention to seasoning next time.",
             "Eff": "Revives a character and restores 250 HP.",
             "Icon": "UI_ItemIcon_108378",
-            "Recipe": 2210
+            "Recipe": 2210,
+            "Buff": 4
         },
         {
             "_id": 108376,
@@ -10133,7 +10426,8 @@ var _items = [
             "Desc": "A simple, humble fisherman's side dish. Full of nutrition and flavor. The lightly charred, yellowed exterior wraps the tender insides — providing two pleasures at once! Fish paste was already quite delectable raw, and the charcoal grilling only makes it better.",
             "Eff": "Decreases all party members' sprinting Stamina consumption by 25% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108375",
-            "Recipe": 2209
+            "Recipe": 2209,
+            "Buff": 1
         },
         {
             "_id": 108375,
@@ -10142,7 +10436,8 @@ var _items = [
             "Desc": "A simple, humble fisherman's side dish. Freshly caught fish is de-skinned and sliced, minced together with Snapdragon, mixed with miso and salt to form a batter, and then finally grilled. The lovely scent enters your nose long before the food enters your mouth. Three servings later, and you're still raring to go for more.",
             "Eff": "Decreases all party members' sprinting Stamina consumption by 20% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108375",
-            "Recipe": 2209
+            "Recipe": 2209,
+            "Buff": 1
         },
         {
             "_id": 108374,
@@ -10151,7 +10446,8 @@ var _items = [
             "Desc": "A simple, humble fisherman's side dish. The overabundance of salt and rank smell of fish roll like a storm through your olfactory senses. Please keep your hands steady — please.",
             "Eff": "Decreases all party members' sprinting Stamina consumption by 15% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108375",
-            "Recipe": 2209
+            "Recipe": 2209,
+            "Buff": 1
         },
         {
             "_id": 108373,
@@ -10162,7 +10458,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108373",
             "Recipe": 2106,
             "Avatar": 64,
-            "AI": "UI_AvatarIcon_Yunjin"
+            "AI": "UI_AvatarIcon_Yunjin",
+            "Buff": 1
         },
         {
             "_id": 108372,
@@ -10173,7 +10470,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108372",
             "Recipe": 3219,
             "Avatar": 63,
-            "AI": "UI_AvatarIcon_Shenhe"
+            "AI": "UI_AvatarIcon_Shenhe",
+            "Buff": 2
         },
         {
             "_id": 108371,
@@ -10182,7 +10480,8 @@ var _items = [
             "Desc": "Noodles that are as slender as the hairs on a dragon's beard. The slim noodles are as a waterfall, draping their way into a soup that has captured the very essence of the mountains themselves. The softer mouthfeel compared to the average noodle dish makes it nigh impossible to stop eating once you've started.",
             "Eff": "Increases all party members' ATK by 228 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108370",
-            "Recipe": 3219
+            "Recipe": 3219,
+            "Buff": 2
         },
         {
             "_id": 108370,
@@ -10191,7 +10490,8 @@ var _items = [
             "Desc": "Noodles that are as slender as the hairs on a dragon's beard. The green onion is fried in a wok before the soup and condiments are added. Last in are the noodles, after which the lot is ladled out and plated up. The noodles must be skillfully hand-pulled multiple times before they become extremely thin — a technique that makes this dish the most challenging noodle recipe in Liyue.",
             "Eff": "Increases all party members' ATK by 194 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108370",
-            "Recipe": 3219
+            "Recipe": 3219,
+            "Buff": 2
         },
         {
             "_id": 108369,
@@ -10200,7 +10500,8 @@ var _items = [
             "Desc": "Noodles that are as slender as the hairs on a dragon's beard. The all-consuming attempt to make the noodles as thin as possible caused the pieces to break up during the cooking process. This is harder than it looks — and you're in need of more practice for sure.",
             "Eff": "Increases all party members' ATK by 160 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108370",
-            "Recipe": 3219
+            "Recipe": 3219,
+            "Buff": 2
         },
         {
             "_id": 108368,
@@ -10209,7 +10510,8 @@ var _items = [
             "Desc": "Luxurious and exquisite raw fish. The stacked raw fish is sliced as thin as cicada wings, and their taste is as light as mist, their pattern lines opal-white, like snow kissing the earth. One can hardly wait to dig in — the soft and smooth meat and myriad condiment flavors coalesce on the tongue, to the praise of all. Truly, this is the flavor experience to top them all!",
             "Eff": "Increases all party members' ATK by 320 and CRIT Rate by 10% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108367",
-            "Recipe": 4204
+            "Recipe": 4204,
+            "Buff": 2
         },
         {
             "_id": 108367,
@@ -10218,7 +10520,8 @@ var _items = [
             "Desc": "Luxurious and exquisite raw fish. The fish is sliced thinly and arranged in the shape of a flower before a ring of side dishes is set all around it. Normally, the side dishes will be mixed with the raw fish according to one's taste before consumption — this act is said to ensure that things will be smooth sailing in the coming days.",
             "Eff": "Increases all party members' ATK by 272 and CRIT Rate by 8% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108367",
-            "Recipe": 4204
+            "Recipe": 4204,
+            "Buff": 2
         },
         {
             "_id": 108366,
@@ -10227,7 +10530,8 @@ var _items = [
             "Desc": "Luxurious and exquisite raw fish. The unevenly mixed fish and condiments are as bedraggled on the plate as any dejected sailor washed ashore by roiling waves, and they do not arouse your appetites at all. Yet it would be such a further waste of these ingredients if you did not eat them — ah, what a morbid dilemma.",
             "Eff": "Increases all party members' ATK by 224 and CRIT Rate by 6% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108367",
-            "Recipe": 4204
+            "Recipe": 4204,
+            "Buff": 2
         },
         {
             "_id": 108365,
@@ -10238,7 +10542,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108365",
             "Recipe": 3202,
             "Avatar": 55,
-            "AI": "UI_AvatarIcon_Gorou"
+            "AI": "UI_AvatarIcon_Gorou",
+            "Buff": 0
         },
         {
             "_id": 108364,
@@ -10249,7 +10554,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108364",
             "Recipe": 2203,
             "Avatar": 57,
-            "AI": "UI_AvatarIcon_Itto"
+            "AI": "UI_AvatarIcon_Itto",
+            "Buff": 4
         },
         {
             "_id": 108363,
@@ -10258,7 +10564,8 @@ var _items = [
             "Desc": "Crispy, crunchy crackers. The lovely hue of the Sakura Bloom is perfectly preserved, as is the elegant flowing shape of the Shrimp. Before you even put it in your mouth, you can already taste the fresh fragrance rushing up your nose. The crispy, refreshing flavor spreads throughout your mouth as you chew, with every bite showing off more of the mingled wonders of sakura and sea.",
             "Eff": "Increases all party members' Max HP by 25% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108362",
-            "Recipe": 3218
+            "Recipe": 3218,
+            "Buff": 3
         },
         {
             "_id": 108362,
@@ -10267,7 +10574,8 @@ var _items = [
             "Desc": "Crispy, crunchy crackers. Potatoes are ground into flour and added to Shrimp and Sakura Blooms before being baked in an oven. It possesses a lovely flavor profile for a snack and is beloved by people of all ages, traits that have made it a popular choice of gift.",
             "Eff": "Increases all party members' Max HP by 22% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108362",
-            "Recipe": 3218
+            "Recipe": 3218,
+            "Buff": 3
         },
         {
             "_id": 108361,
@@ -10276,7 +10584,8 @@ var _items = [
             "Desc": "Crispy, crunchy crackers. The result looks a little dull, though the round shape does indicate that these are indeed \"senbei\" crackers... albeit ones that taste more like rank \"Shrimp\" than anything else.",
             "Eff": "Increases all party members' Max HP by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108362",
-            "Recipe": 3218
+            "Recipe": 3218,
+            "Buff": 3
         },
         {
             "_id": 108360,
@@ -10285,7 +10594,8 @@ var _items = [
             "Desc": "Pickled vegetables. The fermentation process has added a layer of flavor to the natural sweetness of the ingredients. The crispy texture is a real highlight, and it spices up rice and wine alike exceptionally. A treasure indeed!",
             "Eff": "Restores 100 Stamina.",
             "Icon": "UI_ItemIcon_108359",
-            "Recipe": 3217
+            "Recipe": 3217,
+            "Buff": 7
         },
         {
             "_id": 108359,
@@ -10294,7 +10604,8 @@ var _items = [
             "Desc": "Pickled vegetables. A round of fermentation makes food richer and also allows it to keep for longer. There were originally only four \"treasures,\" but for auspiciousness' sake, the four vegetables were mixed and plated up with one additional \"treasure\" added in, hence the name \"Five Pickled Treasures.\"",
             "Eff": "Restores 85 Stamina.",
             "Icon": "UI_ItemIcon_108359",
-            "Recipe": 3217
+            "Recipe": 3217,
+            "Buff": 7
         },
         {
             "_id": 108358,
@@ -10303,7 +10614,8 @@ var _items = [
             "Desc": "Pickled vegetables. That's what they say, obviously, but the result should probably not have such a sour smell. The tender texture is good and all, yes, but... Yeah, this is just way too sour. Maybe a Samachurl might appreciate this?",
             "Eff": "Restores 70 Stamina.",
             "Icon": "UI_ItemIcon_108359",
-            "Recipe": 3217
+            "Recipe": 3217,
+            "Buff": 7
         },
         {
             "_id": 108357,
@@ -10312,7 +10624,8 @@ var _items = [
             "Desc": "A light and tasty main dish. The tea and soup weave an elegant, fragrant melody punctuated by the pure white grains, while the unagi, baptized in coal-fire, provides tender, gentle decoration to the mix. The various aromas of eel and tea and the light sweetness of rice mix well on your tongue into something truly sublime. A triple threat not to be trifled with, indeed.",
             "Eff": "Increases all party members' Healing Bonus by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108356",
-            "Recipe": 3216
+            "Recipe": 3216,
+            "Buff": 3
         },
         {
             "_id": 108356,
@@ -10321,7 +10634,8 @@ var _items = [
             "Desc": "A light and tasty main dish. Well-boiled tea is poured over rice with unagi on top and allowed to steep quietly until the rice grains have absorbed the fragrance of the tea. When combined with the lingering sweet aftertaste of the unagi, you can eat half a bowl before Paimon can say \"Whoa!\"",
             "Eff": "Increases all party members' Healing Bonus by 17% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108356",
-            "Recipe": 3216
+            "Recipe": 3216,
+            "Buff": 3
         },
         {
             "_id": 108355,
@@ -10330,7 +10644,8 @@ var _items = [
             "Desc": "A light and tasty main dish. The overly bland tea soup has been all but overpowered by the taste of the unagi, but you can probably still eat this if you slurried it into some sort of porridge.",
             "Eff": "Increases all party members' Healing Bonus by 15% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108356",
-            "Recipe": 3216
+            "Recipe": 3216,
+            "Buff": 3
         },
         {
             "_id": 108354,
@@ -10341,7 +10656,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108354",
             "Recipe": 1203,
             "Avatar": 50,
-            "AI": "UI_AvatarIcon_Tohma"
+            "AI": "UI_AvatarIcon_Tohma",
+            "Buff": 5
         },
         {
             "_id": 108353,
@@ -10350,7 +10666,8 @@ var _items = [
             "Desc": "A plain and simple noodle dish. The unique flavor of buckwheat has been maximized, and as the springy noodles slip past your throat, they leave behind a gentle aftertaste, like an old song floating through a tranquil courtyard.",
             "Eff": "Restores 10% of Max HP to the selected character and regenerates 300 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108352",
-            "Recipe": 1206
+            "Recipe": 1206,
+            "Buff": 5
         },
         {
             "_id": 108352,
@@ -10359,7 +10676,8 @@ var _items = [
             "Desc": "A plain and simple noodle dish. The buckwheat noodles are boiled and then cooled. Their texture is smooth and they have just the right amount of toughness. The inexpensive ingredients and simple make of this dish have made it very popular amongst Inazumans.",
             "Eff": "Restores 9% of Max HP to the selected character and regenerates 260 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108352",
-            "Recipe": 1206
+            "Recipe": 1206,
+            "Buff": 5
         },
         {
             "_id": 108351,
@@ -10368,7 +10686,8 @@ var _items = [
             "Desc": "A plain and simple noodle dish. The rough texture drags itself across your tongue and leaves a bitter aftertaste after you forcibly swallow. Can this... stuff still be considered noodles?",
             "Eff": "Restores 8% of Max HP to the selected character and regenerates 210 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108352",
-            "Recipe": 1206
+            "Recipe": 1206,
+            "Buff": 5
         },
         {
             "_id": 108350,
@@ -10377,7 +10696,8 @@ var _items = [
             "Desc": "A crystal-clear snack. The regular, round balls sit upon the plate like coalesced flowing water, and their fillings glisten like pearls. During warm seasons, the very sight of this dish is a balm to the soul, and when it enters your mouth, the mild sweetness that flows out from within causes all your frustrations to vanish without a trace.",
             "Eff": "Restores 22% of Max HP to the selected character and regenerates 470 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108349",
-            "Recipe": 2208
+            "Recipe": 2208,
+            "Buff": 5
         },
         {
             "_id": 108349,
@@ -10386,7 +10706,8 @@ var _items = [
             "Desc": "A crystal-clear snack. The transparent skin wraps the yellow filling. It is said that some vendors will put these snacks into a small clay bowl and immerse it in water to ensure that the cool mouthfeel is retained. This dish is as transparent as water, but it will not be washed away by flowing water — this is probably the origin of the name.",
             "Eff": "Restores 20% of Max HP to the selected character and regenerates 390 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108349",
-            "Recipe": 2208
+            "Recipe": 2208,
+            "Buff": 5
         },
         {
             "_id": 108348,
@@ -10395,7 +10716,8 @@ var _items = [
             "Desc": "A crystal-clear snack. It certainly looks like \"mizu,\" or water — but unfortunately, it tastes like it too. Where did you go wrong?",
             "Eff": "Restores 18% of Max HP to the selected character and regenerates 300 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108349",
-            "Recipe": 2208
+            "Recipe": 2208,
+            "Buff": 5
         },
         {
             "_id": 108347,
@@ -10404,7 +10726,8 @@ var _items = [
             "Desc": "A light-colored vegetarian dish. The new life born in the embrace of the ocean and the crisp freshness that sprouted in the mountains have blended into this broth. The light and gentle flavors give one a foretaste of the wonder of the four seasons, and of the revivification of all life.",
             "Eff": "Increases all party members' DEF by 126 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108346",
-            "Recipe": 2206
+            "Recipe": 2206,
+            "Buff": 3
         },
         {
             "_id": 108346,
@@ -10413,7 +10736,8 @@ var _items = [
             "Desc": "A light-colored vegetarian dish. Broth is first poured into the pot before the bamboo shoots, and then the seaweed, are added in. The result is an elegant product with a light mouthfeel that agrees well with all palates. Suitable as a pre-meal appetizer or as a side to a main dish.",
             "Eff": "Increases all party members' DEF by 107 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108346",
-            "Recipe": 2206
+            "Recipe": 2206,
+            "Buff": 3
         },
         {
             "_id": 108345,
@@ -10422,7 +10746,8 @@ var _items = [
             "Desc": "A light-colored vegetarian dish. The seaweed takes forever to swallow and the overly-hard bamboo shoots look like they might wear out the teeth. Probably best left looked at but not eaten.",
             "Eff": "Increases all party members' DEF by 88 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108346",
-            "Recipe": 2206
+            "Recipe": 2206,
+            "Buff": 3
         },
         {
             "_id": 108344,
@@ -10431,7 +10756,8 @@ var _items = [
             "Desc": "A meat and vegetable dish. Migratory fish have experienced many trials of the bitter cold, towering waves, and tumultuous storms en route to arriving upon the stove, and together with the radish, they have absorbed the essence of the flavorful soup long before they were ladled onto your plate. This sweetness warms the heart and soul, like a fire in the midst of a blistering world of snow.",
             "Eff": "Increases all party members' CRIT Rate by 12% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108343",
-            "Recipe": 2207
+            "Recipe": 2207,
+            "Buff": 6
         },
         {
             "_id": 108343,
@@ -10440,7 +10766,8 @@ var _items = [
             "Desc": "A meat and vegetable dish. The de-skinned radishes have gone into the pot first to cook before large hunks of fish and seasonings are added in. The whole combination is then stewed on a low flame. The large servings of food — best served with rice — give everyone present a feeling of satisfaction.",
             "Eff": "Increases all party members' CRIT Rate by 9% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108343",
-            "Recipe": 2207
+            "Recipe": 2207,
+            "Buff": 6
         },
         {
             "_id": 108342,
@@ -10449,7 +10776,8 @@ var _items = [
             "Desc": "A meat and vegetable dish. It certainly looks like the complete package, but careful tasting will reveal that there is no flavor of fresh fish in the radishes at all... Wait a minute, what are these fishbones doing in there instead?",
             "Eff": "Increases all party members' CRIT Rate by 6% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108343",
-            "Recipe": 2207
+            "Recipe": 2207,
+            "Buff": 6
         },
         {
             "_id": 108341,
@@ -10460,7 +10788,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108341",
             "Recipe": 1201,
             "Avatar": 56,
-            "AI": "UI_AvatarIcon_Sara"
+            "AI": "UI_AvatarIcon_Sara",
+            "Buff": 4
         },
         {
             "_id": 108340,
@@ -10471,7 +10800,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108340",
             "Recipe": 1205,
             "Avatar": 54,
-            "AI": "UI_AvatarIcon_Kokomi"
+            "AI": "UI_AvatarIcon_Kokomi",
+            "Buff": 0
         },
         {
             "_id": 108339,
@@ -10482,7 +10812,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108339",
             "Recipe": 1007,
             "Avatar": 62,
-            "AI": "UI_AvatarIcon_Aloy"
+            "AI": "UI_AvatarIcon_Aloy",
+            "Buff": 0
         },
         {
             "_id": 108338,
@@ -10491,7 +10822,8 @@ var _items = [
             "Desc": "A grilled dish. The fat oils sizzle all across the meat's surface like a flowery prelude. The baptism of charcoal fire and moistening sauce has imparted a delicate softness to the unagi's mouthfeel. If you paired this with rice, you'd be liable to leave not even a single drop of sauce behind.",
             "Eff": "Restores 24% of Max HP and an additional 1,500 HP to the selected character.",
             "Icon": "UI_ItemIcon_108337",
-            "Recipe": 2205
+            "Recipe": 2205,
+            "Buff": 0
         },
         {
             "_id": 108337,
@@ -10500,7 +10832,8 @@ var _items = [
             "Desc": "A grilled dish. The sliced unagi has been steamed first to remove the excess fat before being grilled and sauced. There is no consensus in Inazuma as to where the name \"unagi\" came from, but everyone at least agrees that it will take a whole lifetime to master its making.",
             "Eff": "Restores 22% of Max HP and an additional 1,200 HP to the selected character.",
             "Icon": "UI_ItemIcon_108337",
-            "Recipe": 2205
+            "Recipe": 2205,
+            "Buff": 0
         },
         {
             "_id": 108336,
@@ -10509,7 +10842,8 @@ var _items = [
             "Desc": "A grilled dish. Even at first glance, this is a complete failure — the color of the eel meat looks exactly the same as the charcoal used to make it. Even when flipped over to eat, the intense stench of charred meat would make one hesitate.",
             "Eff": "Restores 20% of Max HP and an additional 900 HP to the selected character.",
             "Icon": "UI_ItemIcon_108337",
-            "Recipe": 2205
+            "Recipe": 2205,
+            "Buff": 0
         },
         {
             "_id": 108335,
@@ -10518,7 +10852,8 @@ var _items = [
             "Desc": "A snack grilled on an iron plate. The rich ingredients have been stacked atop one another. One bite into the crisp outer layer reveals the soft tenderness within. The lovely sauce clothes the condiments luxuriously, flowing between lips and teeth alike en route to the stomach. Even the aroma that lingers in the air has ascended to become part of its unforgettable deliciousness.",
             "Eff": "Increases all party members' Physical DMG by 40% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108334",
-            "Recipe": 3215
+            "Recipe": 3215,
+            "Buff": 2
         },
         {
             "_id": 108334,
@@ -10527,7 +10862,8 @@ var _items = [
             "Desc": "A snack grilled on an iron plate. Water is added to flour and stirred into a slurry, vegetables and meat are added, and the mix is grilled well on an iron plate before taking on a splash of sauce and a sprinkle of dried bonito flakes. This tastes delicious no matter how many ingredients one adds, and indeed it makes people feel like \"the more ingredients, the merrier,\" hence the dish's name.",
             "Eff": "Increases all party members' Physical DMG by 30% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108334",
-            "Recipe": 3215
+            "Recipe": 3215,
+            "Buff": 2
         },
         {
             "_id": 108333,
@@ -10536,7 +10872,8 @@ var _items = [
             "Desc": "A snack grilled on an iron plate. It certainly looks the part, but you start getting a bad feeling about this upon first bite. Guess you can't slack off when making food after all, huh?",
             "Eff": "Increases all party members' Physical DMG by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108334",
-            "Recipe": 3215
+            "Recipe": 3215,
+            "Buff": 2
         },
         {
             "_id": 108332,
@@ -10545,7 +10882,8 @@ var _items = [
             "Desc": "A snack shaped like a snapper. Fresh out of the oven, this taiyaki gives off a titillating aroma while it is still a mite scalding to the touch. A single bite causes the sweetness to melt in your mouth instantly. The feeling is akin to watching a fish in a pool bathed in sunset's gleam, its scales attaining a golden sheen.",
             "Eff": "Restores 30% of Max HP to the selected character and regenerates 790 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108331",
-            "Recipe": 3214
+            "Recipe": 3214,
+            "Buff": 5
         },
         {
             "_id": 108331,
@@ -10554,7 +10892,8 @@ var _items = [
             "Desc": "A snack shaped like a snapper. The crisp exterior wraps the sweet filling within and is very popular amongst Inazumans. It is said that in the beginning, this was just a cylindrical snack, but constant improvements wound up shaping it into the cutesy image of a fish.",
             "Eff": "Restores 28% of Max HP to the selected character and regenerates 620 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108331",
-            "Recipe": 3214
+            "Recipe": 3214,
+            "Buff": 5
         },
         {
             "_id": 108330,
@@ -10563,7 +10902,8 @@ var _items = [
             "Desc": "A snack shaped like a snapper. The filling is way too sweet, with a single small bite leaving you in dire need of some water to wash it all down. Even the sweetest of teeth will find stomaching this a rather tall order.",
             "Eff": "Restores 26% of Max HP to the selected character and regenerates 450 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108331",
-            "Recipe": 3214
+            "Recipe": 3214,
+            "Buff": 5
         },
         {
             "_id": 108329,
@@ -10572,7 +10912,8 @@ var _items = [
             "Desc": "A main dish wrapped up in an egg skin. Gently poking at the outer layer of the egg skin, which is not wholly cooked yet wraps itself and its red ketchup crown around the tightly packed white rice, shall prick the appetite of any customer — and after they have partaken joyfully, they cannot help but smile.",
             "Eff": "Decreases all party members' climbing and sprinting Stamina consumption by 25% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108328",
-            "Recipe": 3213
+            "Recipe": 3213,
+            "Buff": 1
         },
         {
             "_id": 108328,
@@ -10581,7 +10922,8 @@ var _items = [
             "Desc": "A main dish wrapped up in an egg skin. The evenly beaten egg fluids are fried into half-doneness before being poured out on top of the rice, and tomato ketchup is drizzled over top afterward once it is ready to plate up. They say that this dish was derived from another region, though this version involves a more complicated cooking method.",
             "Eff": "Decreases all party members' climbing and sprinting Stamina consumption by 20% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108328",
-            "Recipe": 3213
+            "Recipe": 3213,
+            "Buff": 1
         },
         {
             "_id": 108327,
@@ -10590,7 +10932,8 @@ var _items = [
             "Desc": "A main dish wrapped up in an egg skin. The egg skin just about barely covers the rice, and it has been fried for so long that it has lost all fluidity. Might as well call it \"fried egg on rice.\"",
             "Eff": "Decreases all party members' climbing and sprinting Stamina consumption by 15% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108328",
-            "Recipe": 3213
+            "Recipe": 3213,
+            "Buff": 1
         },
         {
             "_id": 108326,
@@ -10599,7 +10942,8 @@ var _items = [
             "Desc": "An everyday Inazuman dish. The tender egg bounces on the tongue together with the rich grains, bringing to mind a joy that recalls one's childhood. Eager to relive that sweetness, you pick up another before your brain can even catch up.",
             "Eff": "Restores 10% of Max HP and an additional 1,200 HP to the selected character.",
             "Icon": "UI_ItemIcon_108325",
-            "Recipe": 1205
+            "Recipe": 1205,
+            "Buff": 0
         },
         {
             "_id": 108325,
@@ -10608,7 +10952,8 @@ var _items = [
             "Desc": "An everyday Inazuman dish. The sliced Egg Roll is placed over seasoned rice. Simply made, yet full of flavor.",
             "Eff": "Restores 9% of Max HP and an additional 1,000 HP to the selected character.",
             "Icon": "UI_ItemIcon_108325",
-            "Recipe": 1205
+            "Recipe": 1205,
+            "Buff": 0
         },
         {
             "_id": 108324,
@@ -10617,7 +10962,8 @@ var _items = [
             "Desc": "An everyday Inazuman dish. The egg roll was not beaten evenly and the vinegared rice was also over-seasoned... Even simple dishes leave no room for carelessness.",
             "Eff": "Restores 8% of Max HP and an additional 800 HP to the selected character.",
             "Icon": "UI_ItemIcon_108325",
-            "Recipe": 1205
+            "Recipe": 1205,
+            "Buff": 0
         },
         {
             "_id": 108323,
@@ -10626,7 +10972,8 @@ var _items = [
             "Desc": "A fresh and sweet traditional dish. Crystal-clear shrimp reclines on the snow-white piles of rice. The sourness of the vinegared grains and sweetness of the meat intertwine upon your tongue like the gentle dance of lapping waves on white shores.",
             "Eff": "Revives a character and restores 150 HP.",
             "Icon": "UI_ItemIcon_108322",
-            "Recipe": 1204
+            "Recipe": 1204,
+            "Buff": 4
         },
         {
             "_id": 108322,
@@ -10635,7 +10982,8 @@ var _items = [
             "Desc": "A fresh and sweet traditional dish. Cleanly bisected shrimp is laid over rice and shaped with your bare hands. The springy shrimp meat and the delicious rice highlight the flavor all the more.",
             "Eff": "Revives a character and restores 100 HP.",
             "Icon": "UI_ItemIcon_108322",
-            "Recipe": 1204
+            "Recipe": 1204,
+            "Buff": 4
         },
         {
             "_id": 108321,
@@ -10644,7 +10992,8 @@ var _items = [
             "Desc": "A fresh and sweet traditional dish. The shrimp look a little shriveled, and a single bite leaves grains of rice stuck to your teeth. Note to self: best not to leave it out for so long next time...",
             "Eff": "Revives a character and restores 50 HP.",
             "Icon": "UI_ItemIcon_108322",
-            "Recipe": 1204
+            "Recipe": 1204,
+            "Buff": 4
         },
         {
             "_id": 108320,
@@ -10653,7 +11002,8 @@ var _items = [
             "Desc": "This main dish looks rather cute. The simple methodology used to make it has maximized flavor retention in its ingredients. Even cats who usually pay humdrum humanity little mind will surely come running over when they catch a whiff of this. Uh, wait a moment. Was this supposed to attract dogs, too?",
             "Eff": "Restores 30% of Max HP to the selected character and regenerates 790 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108319",
-            "Recipe": 3212
+            "Recipe": 3212,
+            "Buff": 5
         },
         {
             "_id": 108319,
@@ -10662,7 +11012,8 @@ var _items = [
             "Desc": "This main dish looks rather cute. With Kiminami Anna's help, this dish was made with the tastes of provisional head priestess Neko in mind. Although it does not quite match the flavor that Hibiki used to produce, Lady Neko seems rather pleased with your work nonetheless. Due to the lack of spices, humans might find this dish a tad on the plain side.",
             "Eff": "Restores 28% of Max HP to the selected character and regenerates 620 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108319",
-            "Recipe": 3212
+            "Recipe": 3212,
+            "Buff": 5
         },
         {
             "_id": 108318,
@@ -10671,7 +11022,8 @@ var _items = [
             "Desc": "This main dish looks rather cute. However, its appearance betrays a lack of experience in the making, with the final product being every bit the hastily thrown together slapdash job. Who knows if the provisional head priestess Neko will accept this...",
             "Eff": "Restores 26% of Max HP to the selected character and regenerates 450 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108319",
-            "Recipe": 3212
+            "Recipe": 3212,
+            "Buff": 5
         },
         {
             "_id": 108317,
@@ -10680,7 +11032,8 @@ var _items = [
             "Desc": "A traditional snack from Liyue. The intense charred aroma of the wok sits on the condiments, which are shoveled into the fluffy buns, filling the air with a fragrance that itself worth rave reviews. Just as the laboring hands of Liyue's people created this famous, prosperous harbor, these ordinary ingredients can be \"developed\" by one's labor into something surprising in its deliciousness. No wonder such a dish could even awaken a sleeping god...",
             "Eff": "Increases all party members' Shield Strength by 35% and DEF by 235 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108316",
-            "Recipe": 4203
+            "Recipe": 4203,
+            "Buff": 3
         },
         {
             "_id": 108316,
@@ -10689,7 +11042,8 @@ var _items = [
             "Desc": "A traditional snack from Liyue. The fresh dough is turned out into a round, rested, and then placed inside a cage to steam. The meat and vegetables are then washed and diced, before being fried quickly in an oiled wok. When eaten, the fried condiments must be placed into the empty space in the middle of the buns before they are eaten together. Between the crisp vegetables and the flavorful meat, this is solid, great flavor.",
             "Eff": "Increases all party members' Shield Strength by 30% and DEF by 200 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108316",
-            "Recipe": 4203
+            "Recipe": 4203,
+            "Buff": 3
         },
         {
             "_id": 108315,
@@ -10698,7 +11052,8 @@ var _items = [
             "Desc": "A traditional snack from Liyue. A large bundle of fried-up Jueyun Chili has been piled up in the middle, and their heat is all but unbearable. Just one small bite feels like someone's trying to burn your throat. A few more bites, and who knows, you might actually end up breathing fire like Guoba!",
             "Eff": "Increases all party members' Shield Strength by 25% and DEF by 165 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108316",
-            "Recipe": 4203
+            "Recipe": 4203,
+            "Buff": 3
         },
         {
             "_id": 108314,
@@ -10707,7 +11062,8 @@ var _items = [
             "Desc": "A dish that is a test of one's knifework. The tofu, thread-thin as the autumn leaves, floats amidst the bowl, like mist in a forest, and the shredded bamboo shoots give the image a sweet, lustrous sheen, while the broth combines the essence of fowl and ham, giving off an unbelievable aroma. A single taste is enough to cause the customer to lose themselves in this fog of flavor.",
             "Eff": "Restores 100 Stamina.",
             "Icon": "UI_ItemIcon_108313",
-            "Recipe": 3211
+            "Recipe": 3211,
+            "Buff": 7
         },
         {
             "_id": 108313,
@@ -10716,7 +11072,8 @@ var _items = [
             "Desc": "A dish that is a test of one's knifework. All the ingredients were sliced into ribbons in a single go, and after being washed, they were placed into the broth and cooked till they floated. The resulting flavor is light and fresh, and would not be out of place as a chef's recommendation in a Liyue restaurant.",
             "Eff": "Restores 85 Stamina.",
             "Icon": "UI_ItemIcon_108313",
-            "Recipe": 3211
+            "Recipe": 3211,
+            "Buff": 7
         },
         {
             "_id": 108312,
@@ -10725,7 +11082,8 @@ var _items = [
             "Desc": "A dish that is a test of one's knifework. The erratic knifework here has caused the ingredients to be sliced every which way. The tattered mouthfeel is enough to make one despair. Only the rank taste of beans stands as proof that the main ingredient of this dish was tofu in the first place.",
             "Eff": "Restores 70 Stamina.",
             "Icon": "UI_ItemIcon_108313",
-            "Recipe": 3211
+            "Recipe": 3211,
+            "Buff": 7
         },
         {
             "_id": 108311,
@@ -10734,7 +11092,8 @@ var _items = [
             "Desc": "A stewed dish. The rich soup sauce and fragrant meat combine to give off an irresistible aroma, while the scattered vegetables are crisp instead of soft, enriching the flavor of the dish... so much so that people will tuck in despite the intense heat until there is nothing left but the sauce... Wait, why don't we just dip our bread in that?",
             "Eff": "Increases all party members' Physical DMG by 40% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108310",
-            "Recipe": 3210
+            "Recipe": 3210,
+            "Buff": 2
         },
         {
             "_id": 108310,
@@ -10743,7 +11102,8 @@ var _items = [
             "Desc": "A stewed dish. The meat slices were fried first, followed by the vegetable accouterments, after which they were mixed together. The soup was then added and simmered until it thickened. After this patient, slow cooking process, the meat has become soft and tender, bringing those who eat it a down-to-earth satisfaction.",
             "Eff": "Increases all party members' Physical DMG by 30% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108310",
-            "Recipe": 3210
+            "Recipe": 3210,
+            "Buff": 2
         },
         {
             "_id": 108309,
@@ -10752,7 +11112,8 @@ var _items = [
             "Desc": "A stewed dish. The stewing process seems to have been bungled, with the ingredients just have been bundled into the pot to cook together, resulting in wilted vegetables that have all but dissolved into the soup, leaving nothing to this pot but the greasy taste of meat...",
             "Eff": "Increases all party members' Physical DMG by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108310",
-            "Recipe": 3210
+            "Recipe": 3210,
+            "Buff": 2
         },
         {
             "_id": 108308,
@@ -10761,7 +11122,8 @@ var _items = [
             "Desc": "A dessert made from rice. The soft, sticky rice and the sweet milk have melded together perfectly, their tastes complementing each other. If you eat it hot, you can enjoy the dense rice grains, and if you leave it till it's cold, you can savor the gentle fragrance of milk — each possessing its own beauty. People who eat such a dish cannot help but wonder: how many experiments led up to this moment?",
             "Eff": "Restores 100 Stamina.",
             "Icon": "UI_ItemIcon_108307",
-            "Recipe": 3209
+            "Recipe": 3209,
+            "Buff": 7
         },
         {
             "_id": 108307,
@@ -10770,7 +11132,8 @@ var _items = [
             "Desc": "A dessert made from rice. After cooking the rice beforehand, it is placed into a pot together with the other ingredients, stirred evenly, and steamed. The mouthfeel is fragrant and soft, a perfect denouement to any meal.",
             "Eff": "Restores 85 Stamina.",
             "Icon": "UI_ItemIcon_108307",
-            "Recipe": 3209
+            "Recipe": 3209,
+            "Buff": 7
         },
         {
             "_id": 108306,
@@ -10779,7 +11142,8 @@ var _items = [
             "Desc": "A dessert made from rice. There must have been some miscalculation in the amount of ingredients to use, as this just tastes like a bowl of overly sweet rice. Well, time to grab some plain drink and scarf it down...",
             "Eff": "Restores 70 Stamina.",
             "Icon": "UI_ItemIcon_108307",
-            "Recipe": 3209
+            "Recipe": 3209,
+            "Buff": 7
         },
         {
             "_id": 108305,
@@ -10788,7 +11152,8 @@ var _items = [
             "Desc": "A creative snack made by adding sticky dango to milk. It is sweet and has a dense mouthfeel. All the customers who have tried it love it.<br>Still, it is dango that's been added in — drink too much and you might lose your appetite.",
             "Eff": "Restores 26% of Max HP to the selected character and regenerates 570 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_101514",
-            "Recipe": 0
+            "Recipe": 0,
+            "Buff": 5
         },
         {
             "_id": 108304,
@@ -10797,7 +11162,8 @@ var _items = [
             "Desc": "A pancake with ample toppings. The many rare ingredients do a strange dance around one's tongue — albeit in a good way.",
             "Eff": "Restores 28% of Max HP to the selected character and regenerates 620 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108304",
-            "Recipe": 0
+            "Recipe": 0,
+            "Buff": 5
         },
         {
             "_id": 108303,
@@ -10808,7 +11174,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108303",
             "Recipe": 2202,
             "Avatar": 53,
-            "AI": "UI_AvatarIcon_Sayu"
+            "AI": "UI_AvatarIcon_Sayu",
+            "Buff": 5
         },
         {
             "_id": 108302,
@@ -10819,7 +11186,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108302",
             "Recipe": 3201,
             "Avatar": 49,
-            "AI": "UI_AvatarIcon_Yoimiya"
+            "AI": "UI_AvatarIcon_Yoimiya",
+            "Buff": 0
         },
         {
             "_id": 108301,
@@ -10830,7 +11198,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108301",
             "Recipe": 1202,
             "Avatar": 47,
-            "AI": "UI_AvatarIcon_Kazuha"
+            "AI": "UI_AvatarIcon_Kazuha",
+            "Buff": 0
         },
         {
             "_id": 108300,
@@ -10841,7 +11210,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108300",
             "Recipe": 3205,
             "Avatar": 2,
-            "AI": "UI_AvatarIcon_Ayaka"
+            "AI": "UI_AvatarIcon_Ayaka",
+            "Buff": 4
         },
         {
             "_id": 108299,
@@ -10850,7 +11220,8 @@ var _items = [
             "Desc": "A dish deep-fried in oil. The batter is thin and sheer, like a set of luxurious clothes over the ingredients. The outside crispness and freshness within form amazing layers of texture, leading those who eat it to marvel at just how this delicacy was created.",
             "Eff": "Increases all party members' Shield Strength by 30% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108298",
-            "Recipe": 3208
+            "Recipe": 3208,
+            "Buff": 3
         },
         {
             "_id": 108298,
@@ -10859,7 +11230,8 @@ var _items = [
             "Desc": "A dish deep-fried in oil. Incorporate the marinated sakura blossom petals into the batter before giving the fresh shrimp and vegetables an even coating, frying, and then draining the oil. This all sounds simple enough, but good tempura making is not something achieved in a mere day.",
             "Eff": "Increases all party members' Shield Strength by 25% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108298",
-            "Recipe": 3208
+            "Recipe": 3208,
+            "Buff": 3
         },
         {
             "_id": 108297,
@@ -10868,7 +11240,8 @@ var _items = [
             "Desc": "A dish deep-fried in oil. Perhaps it is an inexperience in controlling oil temperatures showing, but the ingredients began giving off a pungent smoke the instant they were dipped into the wok. The batter is now all mottled and browned. Shame about the waste... but best not to eat it, perhaps.",
             "Eff": "Increases all party members' Shield Strength by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108298",
-            "Recipe": 3208
+            "Recipe": 3208,
+            "Buff": 3
         },
         {
             "_id": 108296,
@@ -10877,7 +11250,8 @@ var _items = [
             "Desc": "A crab meat dish that has been cooked directly over the flames. The crab meat still has a lovely scarlet shade, and its meat is tender and juicy. The crab roe has a refreshing aroma, and is rich and mellow to the taste. The sheer grace of this entity upon your tongue makes you start to wonder how the crab shell might taste.",
             "Eff": "Increases all party members' ATK by 95 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108295",
-            "Recipe": 2204
+            "Recipe": 2204,
+            "Buff": 2
         },
         {
             "_id": 108295,
@@ -10886,7 +11260,8 @@ var _items = [
             "Desc": "A crab meat dish that has been cooked directly over the flames. The meat and roe are mixed evenly, before being garnished with plump crab legs. The happiness that flows forth from that first bite imparts meaning upon your prior forbearance.",
             "Eff": "Increases all party members' ATK by 81 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108295",
-            "Recipe": 2204
+            "Recipe": 2204,
+            "Buff": 2
         },
         {
             "_id": 108294,
@@ -10895,7 +11270,8 @@ var _items = [
             "Desc": "A crab meat dish that has been cooked directly over the flames. The crushed shell-fragments and the crab roe have been slurried together. Butting your teeth up against those hard bits is one thing, but irrecoverable is any desire you may have had to enjoy the food.",
             "Eff": "Increases all party members' ATK by 66 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108295",
-            "Recipe": 2204
+            "Recipe": 2204,
+            "Buff": 2
         },
         {
             "_id": 108293,
@@ -10904,7 +11280,8 @@ var _items = [
             "Desc": "One of Inazuma's common household dishes. Some mysterious art of seasoning has been imparted upon the slightly curled noodles and ordinary side dishes. Smooth, springy, rich... the magic at work on the plate is such that one will never tire of cleaning it out.",
             "Eff": "Revives a character and restores 550 HP.",
             "Icon": "UI_ItemIcon_108292",
-            "Recipe": 2203
+            "Recipe": 2203,
+            "Buff": 4
         },
         {
             "_id": 108292,
@@ -10913,7 +11290,8 @@ var _items = [
             "Desc": "One of Inazuma's common household dishes. One merely needs to stir-fry the noodles and side dishes evenly before serving, making this an easy-to-make and filling dish. It is no wonder, then, that this dish is so sought after among Inazumans.",
             "Eff": "Revives a character and restores 400 HP.",
             "Icon": "UI_ItemIcon_108292",
-            "Recipe": 2203
+            "Recipe": 2203,
+            "Buff": 4
         },
         {
             "_id": 108291,
@@ -10922,7 +11300,8 @@ var _items = [
             "Desc": "One of Inazuma's common household dishes. Both the noodles and the side dishes show signs of having been burned black, testament to the tragedy that must have befallen earlier.",
             "Eff": "Revives a character and restores 250 HP.",
             "Icon": "UI_ItemIcon_108292",
-            "Recipe": 2203
+            "Recipe": 2203,
+            "Buff": 4
         },
         {
             "_id": 108290,
@@ -10931,7 +11310,8 @@ var _items = [
             "Desc": "Commonly-seen city cuisine. The freshness of light soup forms the perfect backdrop for the original flavor of the ingredients to stand out, giving you that ancient taste of Inazuma City. This back-to-basics cuisine is sure to make you feel warm inside when eaten on a snowy night as you travel alone.",
             "Eff": "Increases all party members' DEF by 235 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108289",
-            "Recipe": 3207
+            "Recipe": 3207,
+            "Buff": 3
         },
         {
             "_id": 108289,
@@ -10940,7 +11320,8 @@ var _items = [
             "Desc": "Commonly-seen city cuisine. The ingredients have gorged themselves on the soup, making them most enticing indeed. They say that in the first, this dish only had a scant few ingredients, but more were added as time passed, resulting in its present form.",
             "Eff": "Increases all party members' DEF by 200 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108289",
-            "Recipe": 3207
+            "Recipe": 3207,
+            "Buff": 3
         },
         {
             "_id": 108288,
@@ -10949,7 +11330,8 @@ var _items = [
             "Desc": "Commonly-seen city cuisine. These ingredients have cooked for so long that they have gone crisp. The only way to tell the components apart is by trawling the mix, having a small spoonful, and initiating further analysis.",
             "Eff": "Increases all party members' DEF by 165 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108289",
-            "Recipe": 3207
+            "Recipe": 3207,
+            "Buff": 3
         },
         {
             "_id": 108287,
@@ -10958,7 +11340,8 @@ var _items = [
             "Desc": "Slowly stewed local cuisine. Well-honed temperature control has allowed every ingredient to be cooked just right. This is it — the exact same aroma that you smell, simple yet surpassing many delicacies, when you take a stroll through Konda Village at night. Surely a village local roaming abroad would begin to miss home if they were to eat this dish so made by you.",
             "Eff": "Revives a character and restores 1,500 HP.",
             "Icon": "UI_ItemIcon_108286",
-            "Recipe": 3206
+            "Recipe": 3206,
+            "Buff": 4
         },
         {
             "_id": 108286,
@@ -10967,7 +11350,8 @@ var _items = [
             "Desc": "Slowly stewed local cuisine. Everyone in Konda Village knows how to make this dish. It originally had no name but would spread throughout Inazuma on account of its nutritious deliciousness. This eventually caused those from outside the village to give it its name — \"Konda Cuisine.\"",
             "Eff": "Revives a character and restores 1,200 HP.",
             "Icon": "UI_ItemIcon_108286",
-            "Recipe": 3206
+            "Recipe": 3206,
+            "Buff": 4
         },
         {
             "_id": 108285,
@@ -10976,7 +11360,8 @@ var _items = [
             "Desc": "Slowly stewed local cuisine. If the fowl that had not been fried beforehand could still barely be tolerated, the un-boiled lavender melon truly makes this a culinary disaster. Not only is the taste astringent, but the mix even stains your tongue to the point where someone else might think that you were being poisoned.",
             "Eff": "Revives a character and restores 900 HP.",
             "Icon": "UI_ItemIcon_108286",
-            "Recipe": 3206
+            "Recipe": 3206,
+            "Buff": 4
         },
         {
             "_id": 108284,
@@ -10985,7 +11370,8 @@ var _items = [
             "Desc": "A delicate and elegant snack. It is surrounded by the fragrance of sakura, and its elegant exterior hides a loveliness that comes forth and disappears in a single instant. In a moment when all is silent, a single taste returns you to the moment when the sakura were as a blizzard all about you.",
             "Eff": "Revives a character and restores 1,500 HP.",
             "Icon": "UI_ItemIcon_108283",
-            "Recipe": 3205
+            "Recipe": 3205,
+            "Buff": 4
         },
         {
             "_id": 108283,
@@ -10994,7 +11380,8 @@ var _items = [
             "Desc": "A delicate and elegant snack. The dark green leaf adds complexity to the overall warm color palette. Just looking at it gives you a sense of its quiet beauty. 'Tis a shame that its lovely flavor is like a blooming flower in its transience — yet do not let that dissuade you from taking a bite.",
             "Eff": "Revives a character and restores 1,200 HP.",
             "Icon": "UI_ItemIcon_108283",
-            "Recipe": 3205
+            "Recipe": 3205,
+            "Buff": 4
         },
         {
             "_id": 108282,
@@ -11003,7 +11390,8 @@ var _items = [
             "Desc": "A delicate and elegant snack. Its exterior looks fair enough, but its sickening sweetness almost causes it to get stuck in your throat, leaving you with no appetite for another.",
             "Eff": "Revives a character and restores 900 HP.",
             "Icon": "UI_ItemIcon_108283",
-            "Recipe": 3205
+            "Recipe": 3205,
+            "Buff": 4
         },
         {
             "_id": 108281,
@@ -11012,7 +11400,8 @@ var _items = [
             "Desc": "A meat dish drizzled with sauce. Having been marinated beforehand, the fowl has had several layers of flavor added to it, keeping its oiliness in perfect moderation. Bite down on that crispy, crackling flour-skin, and feel the rich juices of the fowl rush into your mouth and whet your appetite.",
             "Eff": "Increases all party members' CRIT Rate by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108280",
-            "Recipe": 3204
+            "Recipe": 3204,
+            "Buff": 6
         },
         {
             "_id": 108280,
@@ -11021,7 +11410,8 @@ var _items = [
             "Desc": "A meat dish drizzled with sauce. The fowl is marinated before being covered in batter and fried, and a thick sauce is drizzled over it as a finishing touch. The accompanying vegetables are local produce, but the marinating methods and sauce are all imported, hence the name \"imported poultry.\"",
             "Eff": "Increases all party members' CRIT Rate by 15% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108280",
-            "Recipe": 3204
+            "Recipe": 3204,
+            "Buff": 6
         },
         {
             "_id": 108279,
@@ -11030,7 +11420,8 @@ var _items = [
             "Desc": "A meat dish drizzled with sauce. Nothing seems wrong here at first, but in time, you will know the tragic extent of your failings. Poultry made without trimming off some fat and oil is far too greasy to swallow, and even its combination with vegetables cannot save this dish.",
             "Eff": "Increases all party members' CRIT Rate by 10% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108280",
-            "Recipe": 3204
+            "Recipe": 3204,
+            "Buff": 6
         },
         {
             "_id": 108278,
@@ -11039,7 +11430,8 @@ var _items = [
             "Desc": "A simple and unadorned soup dish. The flavorful soup gives off a leaven fragrance. One mouthful of this with rice will ensure the completeness of the entire meal.",
             "Eff": "Restores 10% of Max HP to the selected character and regenerates 300 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108277",
-            "Recipe": 1203
+            "Recipe": 1203,
+            "Buff": 5
         },
         {
             "_id": 108277,
@@ -11048,7 +11440,8 @@ var _items = [
             "Desc": "A simple and unadorned soup dish. The ingredients used here are very common and it is made simply, but this small bowl of soup has the power to ensure that you shall not grow weary on your journey, even if you travel on foot.",
             "Eff": "Restores 9% of Max HP to the selected character and regenerates 260 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108277",
-            "Recipe": 1203
+            "Recipe": 1203,
+            "Buff": 5
         },
         {
             "_id": 108276,
@@ -11057,7 +11450,8 @@ var _items = [
             "Desc": "A simple and unadorned soup dish. The wilted seagrass, the crushed little bits of tofu, and the overly thick flavor are a real hazard to one's mood if consumed first thing in the morning.",
             "Eff": "Restores 8% of Max HP to the selected character and regenerates 210 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108277",
-            "Recipe": 1203
+            "Recipe": 1203,
+            "Buff": 5
         },
         {
             "_id": 108275,
@@ -11066,7 +11460,8 @@ var _items = [
             "Desc": "A pieced-together skewer. The highly-refined temperature control has released sizzling blooms of oils. The many seasonings accentuate the flavor of the various ingredients. If there was but a little less of them, it would be too plain; if a little more, too dense. This keen balance reveals the craftsman's heart within the chef.",
             "Eff": "Increases all party members' ATK by 228 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108274",
-            "Recipe": 3203
+            "Recipe": 3203,
+            "Buff": 2
         },
         {
             "_id": 108274,
@@ -11075,7 +11470,8 @@ var _items = [
             "Desc": "A pieced-together skewer. Three different cooking processes can be tasted at a go in this dish, which has made it very popular. If you are ever at a loss at to what to pair with some wine, there's no going wrong with one of these.",
             "Eff": "Increases all party members' ATK by 194 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108274",
-            "Recipe": 3203
+            "Recipe": 3203,
+            "Buff": 2
         },
         {
             "_id": 108273,
@@ -11084,7 +11480,8 @@ var _items = [
             "Desc": "A pieced-together skewer. The burnt bamboo stick and the dull-colored ingredients give off a smell that must not be named. If you were to make this out in the wild, you might just attract some hilichurls...",
             "Eff": "Increases all party members' ATK by 160 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108274",
-            "Recipe": 3203
+            "Recipe": 3203,
+            "Buff": 2
         },
         {
             "_id": 108272,
@@ -11093,7 +11490,8 @@ var _items = [
             "Desc": "A grilled crab dish. The butter-infused crab legs have a rich aroma that washes over the tastes buds so seductively that before you know it, you've eaten it all, and are left sipping at the dregs of butter in the crab's shell, hoping to recapture a fragment of the dish's beauty.",
             "Eff": "Increases all party members' DEF by 308 and healing effects by 10% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108271",
-            "Recipe": 4202
+            "Recipe": 4202,
+            "Buff": 3
         },
         {
             "_id": 108271,
@@ -11102,7 +11500,8 @@ var _items = [
             "Desc": "A grilled crab dish. Appropriate heat control has allowed the crab meat to stay moist and fatty. The butter has seeped into the crab meat, producing an aroma that has people salivating even from afar.",
             "Eff": "Increases all party members' DEF by 261 and healing effects by 8% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108271",
-            "Recipe": 4202
+            "Recipe": 4202,
+            "Buff": 3
         },
         {
             "_id": 108270,
@@ -11111,7 +11510,8 @@ var _items = [
             "Desc": "A grilled crab dish. The crab legs are still cold, and have a raw, salty flavor to them, almost as if one were being force-fed some seawater.",
             "Eff": "Increases all party members' DEF by 215 and healing effects by 6% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108271",
-            "Recipe": 4202
+            "Recipe": 4202,
+            "Buff": 3
         },
         {
             "_id": 108269,
@@ -11120,7 +11520,8 @@ var _items = [
             "Desc": "Dried fish that has been grilled slowly over a charcoal flame. The rich fats ooze out as the fish meets the grill, and with those sizzling sounds, the fish is clothed in a burnished golden coat. The meat is firm but delicious, and the mouthfeel is quite delicate. Such is the unsurpassed gift of the seas.",
             "Eff": "Restores 10% of Max HP and an additional 1,200 HP to the selected character.",
             "Icon": "UI_ItemIcon_108268",
-            "Recipe": 1202
+            "Recipe": 1202,
+            "Buff": 0
         },
         {
             "_id": 108268,
@@ -11129,7 +11530,8 @@ var _items = [
             "Desc": "Dried fish that has been grilled slowly over a charcoal flame. Fish air-dried overnight have a tinge of the salty sea wind and give off a tantalizing flavor when grilled. Many Inazumans who dwell near the sea know this taste well indeed.",
             "Eff": "Restores 9% of Max HP and an additional 1,000 HP to the selected character.",
             "Icon": "UI_ItemIcon_108268",
-            "Recipe": 1202
+            "Recipe": 1202,
+            "Buff": 0
         },
         {
             "_id": 108267,
@@ -11138,7 +11540,8 @@ var _items = [
             "Desc": "Dried fish that has been grilled slowly over a charcoal flame. Every last droplet of moisture within the fish has been drained away, leaving behind naught but a texture that can only be compared to chewing on timber. One can barely tell the difference between fish and bones in here.",
             "Eff": "Restores 8% of Max HP and an additional 800 HP to the selected character.",
             "Icon": "UI_ItemIcon_108268",
-            "Recipe": 1202
+            "Recipe": 1202,
+            "Buff": 0
         },
         {
             "_id": 108266,
@@ -11147,7 +11550,8 @@ var _items = [
             "Desc": "A fried egg dish. The shape of the dish as a whole, the golden color, the fluffy mouthfeel... a small piece of this may not fill your stomach, but it will fill you with warmth. Not to mention that sweetness that you can almost reach out and touch — simply irresistible.",
             "Eff": "Revives a character and restores 150 HP.",
             "Icon": "UI_ItemIcon_108265",
-            "Recipe": 1201
+            "Recipe": 1201,
+            "Buff": 4
         },
         {
             "_id": 108265,
@@ -11156,7 +11560,8 @@ var _items = [
             "Desc": "A fried egg dish. Beat eggs well, season and fry them slowly in a wok, roll up into a fixed shape. Pour in egg liquid again and continue until it has all reached a certain thickness, then get ready to plate up. This is a ordinary yet welcoming Inazuman delicacy.",
             "Eff": "Revives a character and restores 100 HP.",
             "Icon": "UI_ItemIcon_108265",
-            "Recipe": 1201
+            "Recipe": 1201,
+            "Buff": 4
         },
         {
             "_id": 108264,
@@ -11165,7 +11570,8 @@ var _items = [
             "Desc": "A fried egg dish. It looks way too soft... and what do you know, it comes apart the instant it so much as touches chopsticks. Might as well use a spoon at this point.",
             "Eff": "Revives a character and restores 50 HP.",
             "Icon": "UI_ItemIcon_108265",
-            "Recipe": 1201
+            "Recipe": 1201,
+            "Buff": 4
         },
         {
             "_id": 108263,
@@ -11174,7 +11580,8 @@ var _items = [
             "Desc": "A steaming-hot noodle dish. The springy noodles have absorbed the essence of the soup, and the accoutrements have added all manner of variation to the mouthfeel. The soup has preserved the strong fragrance of the bones used to make it, yet goes down gently without that greasy feeling. Before you know it, the bowl's all gone, and you've still got room for more.",
             "Eff": "Restores 34% of Max HP and an additional 1,900 HP to the selected character.",
             "Icon": "UI_ItemIcon_108262",
-            "Recipe": 3202
+            "Recipe": 3202,
+            "Buff": 0
         },
         {
             "_id": 108262,
@@ -11183,7 +11590,8 @@ var _items = [
             "Desc": "A steaming-hot noodle dish. The meat, prepared at low temperature, is laid over the noodles. Salty, fragrant, delicious soup seeps into each strand. A single bowl of these is guaranteed to restore any tired soul.",
             "Eff": "Restores 32% of Max HP and an additional 1,250 HP to the selected character.",
             "Icon": "UI_ItemIcon_108262",
-            "Recipe": 3202
+            "Recipe": 3202,
+            "Buff": 0
         },
         {
             "_id": 108261,
@@ -11192,7 +11600,8 @@ var _items = [
             "Desc": "A steaming-hot noodle dish. The noodles were all but forgotten amid the hubbub of preparing the accoutrements, leading to it almost turning into a paste and becoming one with the soup. Oh well, at least you can drink the whole lot to salvage it a bit.",
             "Eff": "Restores 30% of Max HP and an additional 600 HP to the selected character.",
             "Icon": "UI_ItemIcon_108262",
-            "Recipe": 3202
+            "Recipe": 3202,
+            "Buff": 0
         },
         {
             "_id": 108260,
@@ -11201,7 +11610,8 @@ var _items = [
             "Desc": "A seafood dish made using fresh ingredients. The plate spread before you is like a work of art, almost too beautiful to shatter. The surpassing knife-work has imparted the greatest mouthfeel upon the ingredients possible. The delicate texture, the exquisite springiness, the natural sweetness... it is like something living is leaping inside your mouth — straight from the ocean and into your heart.",
             "Eff": "Increases all party members' ATK by 320 and CRIT Rate by 10% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108259",
-            "Recipe": 4201
+            "Recipe": 4201,
+            "Buff": 2
         },
         {
             "_id": 108259,
@@ -11210,7 +11620,8 @@ var _items = [
             "Desc": "A seafood dish made using fresh ingredients. The fish and shellfish are cut into pieces and arranged neatly. The slices have an elegant and tender taste, providing rich and high-quality nutrition. The lingering sweet aftertaste is derived fully from the ingredients' freshness, and every bite is an enjoyment worth closing one's eyes and savoring.",
             "Eff": "Increases all party members' ATK by 272 and CRIT Rate by 8% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108259",
-            "Recipe": 4201
+            "Recipe": 4201,
+            "Buff": 2
         },
         {
             "_id": 108258,
@@ -11219,7 +11630,8 @@ var _items = [
             "Desc": "A seafood dish made using fresh ingredients. This has to be a practice dish. The rusty knife-work has ruined the original flavor of the ingredients, nor have the fish scales on the sashimi slices been completely cleaned off. It's... probably not too late to seek professional help...",
             "Eff": "Increases all party members' ATK by 224 and CRIT Rate by 6% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108259",
-            "Recipe": 4201
+            "Recipe": 4201,
+            "Buff": 2
         },
         {
             "_id": 108257,
@@ -11228,7 +11640,8 @@ var _items = [
             "Desc": "A portable dish made with rice. The crispy seaweed adds a bit of umami to the down-to-earth sweetness of the glutinous rice. For the final touch, the fresh fish within the Onigiri strikes like an ambushing band, and the satisfaction it brings to body and mind is like the clarion flourish of victory.",
             "Eff": "Restores 22% of Max HP to the selected character and regenerates 470 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108256",
-            "Recipe": 2202
+            "Recipe": 2202,
+            "Buff": 5
         },
         {
             "_id": 108256,
@@ -11237,7 +11650,8 @@ var _items = [
             "Desc": "A portable dish made with rice. It is simple to make and remains delicious at room temperatures, which has made it very popular with civilians and soldiers alike.",
             "Eff": "Restores 20% of Max HP to the selected character and regenerates 390 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108256",
-            "Recipe": 2202
+            "Recipe": 2202,
+            "Buff": 5
         },
         {
             "_id": 108255,
@@ -11246,7 +11660,8 @@ var _items = [
             "Desc": "A portable dish made with rice. It just about has a triangular shape, but is so loose that it threatens to disintegrate should you pick it up. Yes, disintegrate — like the expectations of your prospective guests.",
             "Eff": "Restores 18% of Max HP to the selected character and regenerates 300 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108256",
-            "Recipe": 2202
+            "Recipe": 2202,
+            "Buff": 5
         },
         {
             "_id": 108254,
@@ -11255,7 +11670,8 @@ var _items = [
             "Desc": "A soft, glutinous snack. The luster of these dango is like the falling morning dew, and it gives off the feeling of lush flowers and branches. When watching the flowers, eating this snack gives one a sense of happiness, as if the whole following year shall be as gorgeous as the falling flowers before them.",
             "Eff": "Restores 34% of Max HP and an additional 1,900 HP to the selected character.",
             "Icon": "UI_ItemIcon_108253",
-            "Recipe": 3201
+            "Recipe": 3201,
+            "Buff": 0
         },
         {
             "_id": 108253,
@@ -11264,7 +11680,8 @@ var _items = [
             "Desc": "A soft, glutinous snack. Glutinous rice has been ground into powder and rolled into a ball before being steamed. The Sakura Bloom and Snapdragon colors lend an extra liveliness to these dango.",
             "Eff": "Restores 32% of Max HP and an additional 1,250 HP to the selected character.",
             "Icon": "UI_ItemIcon_108253",
-            "Recipe": 3201
+            "Recipe": 3201,
+            "Buff": 0
         },
         {
             "_id": 108252,
@@ -11273,7 +11690,8 @@ var _items = [
             "Desc": "A soft, glutinous snack. One suspects a lack of water used in the cooking process as the culprit in the cracks all over this dish. Don't force it down your throat, or you might just choke...",
             "Eff": "Restores 30% of Max HP and an additional 600 HP to the selected character.",
             "Icon": "UI_ItemIcon_108253",
-            "Recipe": 3201
+            "Recipe": 3201,
+            "Buff": 0
         },
         {
             "_id": 108251,
@@ -11282,7 +11700,8 @@ var _items = [
             "Desc": "A traditional dish made with one's bare hands. The delicate fat lines the fish slices like hoarfrost falling on a road, and the balance of fat and lean is perfect. The make of this dish is not fancy in the slightest, but has imparted both the profundity of field and sea to the tasting tongue.",
             "Eff": "Restores 24% of Max HP and an additional 1,500 HP to the selected character.",
             "Icon": "UI_ItemIcon_108250",
-            "Recipe": 2201
+            "Recipe": 2201,
+            "Buff": 0
         },
         {
             "_id": 108250,
@@ -11291,7 +11710,8 @@ var _items = [
             "Desc": "A traditional dish made with one's bare hands. The soft and lightly-vinegared rice is matched with the fresh fish. Locals consider this a slightly luxurious treat.",
             "Eff": "Restores 22% of Max HP and an additional 1,200 HP to the selected character.",
             "Icon": "UI_ItemIcon_108250",
-            "Recipe": 2201
+            "Recipe": 2201,
+            "Buff": 0
         },
         {
             "_id": 108249,
@@ -11300,7 +11720,8 @@ var _items = [
             "Desc": "A traditional dish made with one's bare hands. The color of the fish slices looks a little weird, and it's hard to tell if the problem here is the sour rice or the rank fish.",
             "Eff": "Restores 20% of Max HP and an additional 900 HP to the selected character.",
             "Icon": "UI_ItemIcon_108250",
-            "Recipe": 2201
+            "Recipe": 2201,
+            "Buff": 0
         },
         {
             "_id": 108248,
@@ -11309,7 +11730,8 @@ var _items = [
             "Desc": "A dish that requires great precision to make. Successfully formed into a single block with no debris, it truly looks like tofu pudding. Its exquisite tenderness unravels on the tongue the moment it is scooped up with a porcelain spoon and fed into the mouth, and the taste is so sublime that it almost feels like having an out-of-body experience. What lies before you is no mere dish, but a gentle breeze, a pure spring, a stroke of the divine.",
             "Eff": "Increases all party members' ATK by 320 and CRIT Rate by 10% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108247",
-            "Recipe": 4104
+            "Recipe": 4104,
+            "Buff": 2
         },
         {
             "_id": 108247,
@@ -11318,7 +11740,8 @@ var _items = [
             "Desc": "A dish that requires great precision to make. The finely diced chicken breast is stirred vigorously and added into a soup with various other minced meats, before being cooked over a small flame. The result is light and elegant, and it tastes like tofu pudding. The meat is presented in such a form that the experience of consuming it is like tasting the finest chicken one has ever eaten, yet without appearing to have eaten chicken at all. This is part of Liyue's culinary fine arts.",
             "Eff": "Increases all party members' ATK by 272 and CRIT Rate by 8% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108247",
-            "Recipe": 4104
+            "Recipe": 4104,
+            "Buff": 2
         },
         {
             "_id": 108246,
@@ -11327,7 +11750,8 @@ var _items = [
             "Desc": "A dish that requires great precision to make. The soup base is far too salty and the texture of the chicken tofu pudding is not delicate enough. Lack of technical proficiency has led to a dish that looks the part, but has no soul.",
             "Eff": "Increases all party members' ATK by 224 and CRIT Rate by 6% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108247",
-            "Recipe": 4104
+            "Recipe": 4104,
+            "Buff": 2
         },
         {
             "_id": 108245,
@@ -11338,7 +11762,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108245",
             "Recipe": 4001,
             "Avatar": 51,
-            "AI": "UI_AvatarIcon_Eula"
+            "AI": "UI_AvatarIcon_Eula",
+            "Buff": 3
         },
         {
             "_id": 108244,
@@ -11349,7 +11774,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108244",
             "Recipe": 2112,
             "Avatar": 48,
-            "AI": "UI_AvatarIcon_Feiyan"
+            "AI": "UI_AvatarIcon_Feiyan",
+            "Buff": 4
         },
         {
             "_id": 108243,
@@ -11358,7 +11784,8 @@ var _items = [
             "Desc": "Seasoned mashed potatoes. As you take a bite of this fine potato mash, an intense flavor develops on your tongue that is mixed with its natural freshness and the taste of dairy. Such a graceful flavor can hardly be thought to have emerged from an ingredient as plebeian as potatoes.",
             "Eff": "Increases all party members' ATK by 228 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108242",
-            "Recipe": 2010
+            "Recipe": 2010,
+            "Buff": 2
         },
         {
             "_id": 108242,
@@ -11367,7 +11794,8 @@ var _items = [
             "Desc": "Seasoned mashed potatoes. The potatoes were thoroughly mashed before a sauce was drizzled over them. The mouthfeel is soft and smooth and it has a rich, multi-layered flavor profile. A satisfying choice for a hungry stomach, whether as a side or as a main dish.",
             "Eff": "Increases all party members' ATK by 194 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108242",
-            "Recipe": 2010
+            "Recipe": 2010,
+            "Buff": 2
         },
         {
             "_id": 108241,
@@ -11376,7 +11804,8 @@ var _items = [
             "Desc": "Seasoned mashed potatoes. Some unmashed chunks have been mixed into the lot, adding a measure of unwanted randomness to the dish.",
             "Eff": "Increases all party members' ATK by 160 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108242",
-            "Recipe": 2010
+            "Recipe": 2010,
+            "Buff": 2
         },
         {
             "_id": 108240,
@@ -11385,7 +11814,8 @@ var _items = [
             "Desc": "A burger in which the fowl meat is the main star. The fowl fillet has been wrapped in gold and is so tender that you could almost squeeze the meat juices out. The dense flavor of the sauce and refreshing mouthfeel of the vegetables makes you feel like you're walking on clouds as you lose yourself in this feast lying in your palm.",
             "Eff": "Restores 34% of Max HP and an additional 1,900 HP to the selected character.",
             "Icon": "UI_ItemIcon_108239",
-            "Recipe": 3014
+            "Recipe": 3014,
+            "Buff": 0
         },
         {
             "_id": 108239,
@@ -11394,7 +11824,8 @@ var _items = [
             "Desc": "A hamburger in which the fowl meat is the main star. The fluffy bread sandwiches slices of fresh vegetables and a flavorful, crispy fowl fillet. No utensils required here: Just grab it in your hands and bite down on that bundle of rich, satisfying succulence with a hearty \"ker-runch!\"",
             "Eff": "Restores 32% of Max HP and an additional 1,250 HP to the selected character.",
             "Icon": "UI_ItemIcon_108239",
-            "Recipe": 3014
+            "Recipe": 3014,
+            "Buff": 0
         },
         {
             "_id": 108238,
@@ -11403,7 +11834,8 @@ var _items = [
             "Desc": "A burger in which the fowl meat is the main star. The patty has been cut too thin and smeared with too much flour, causing it to taste like bread sandwiching more fried bread.",
             "Eff": "Restores 30% of Max HP and an additional 600 HP to the selected character.",
             "Icon": "UI_ItemIcon_108239",
-            "Recipe": 3014
+            "Recipe": 3014,
+            "Buff": 0
         },
         {
             "_id": 108237,
@@ -11412,7 +11844,8 @@ var _items = [
             "Desc": "Fowl that has been seasoned and then fried. The golden outer skin has all but sealed the abundant juices into the meat, leading to absolute enjoyment with each bite. The taste at your fingertips will linger in memory far longer than the instant it takes to reduce the meal to nothing but slim bones.",
             "Eff": "Increases all party members' ATK by 320 and CRIT Rate by 10% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108236",
-            "Recipe": 4002
+            "Recipe": 4002,
+            "Buff": 2
         },
         {
             "_id": 108236,
@@ -11421,7 +11854,8 @@ var _items = [
             "Desc": "Fowl that has been seasoned and then fried. The seasonings were made into a paste and smeared onto the chicken before it was fried at high temperature. The fragrance alone brings the vivid image of crispy skin and tender meat to mind. One bite and the luscious juices begin to flow. Truly irresistible.",
             "Eff": "Increases all party members' ATK by 272 and CRIT Rate by 8% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108236",
-            "Recipe": 4002
+            "Recipe": 4002,
+            "Buff": 2
         },
         {
             "_id": 108235,
@@ -11430,7 +11864,8 @@ var _items = [
             "Desc": "Fowl that has been seasoned and then fried. Perhaps the oil temperature was not sufficiently well-controlled, but what should have been a crispy outer skin seems to have gone all soggy, adding to the overall greasiness by at least a few degrees.",
             "Eff": "Increases all party members' ATK by 224 and CRIT Rate by 6% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108236",
-            "Recipe": 4002
+            "Recipe": 4002,
+            "Buff": 2
         },
         {
             "_id": 108234,
@@ -11441,7 +11876,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108234",
             "Recipe": 2002,
             "Avatar": 45,
-            "AI": "UI_AvatarIcon_Rosaria"
+            "AI": "UI_AvatarIcon_Rosaria",
+            "Buff": 0
         },
         {
             "_id": 108233,
@@ -11450,7 +11886,8 @@ var _items = [
             "Desc": "A sour-and-spicy dish. The meat and mint are in exquisite equilibrium, tender and not greasy, delicate and not bitter. The spiciness awakens the twain's poetic balance with startling clarity as it leaps in your mouth, only to close with a sigh of perfection.",
             "Eff": "Decreases all party members' gliding and sprinting Stamina consumption by 25% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108232",
-            "Recipe": 3112
+            "Recipe": 3112,
+            "Buff": 1
         },
         {
             "_id": 108232,
@@ -11459,7 +11896,8 @@ var _items = [
             "Desc": "A sour-and-spicy dish. The marinated meat has been thinly sliced and rolled into the mint leaves, before being brushed with a sauce blend containing Jueyun Chilis. The unique mint flavor adds the finishing touch to this dish, turning it into an excellent addition to any cold platter.",
             "Eff": "Decreases all party members' gliding and sprinting Stamina consumption by 20% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108232",
-            "Recipe": 3112
+            "Recipe": 3112,
+            "Buff": 1
         },
         {
             "_id": 108231,
@@ -11468,7 +11906,8 @@ var _items = [
             "Desc": "A sour-and-spicy dish. The saltiness of the dipping sauce has completely covered the fresh flavor of the dish. If you don't wish to dilute it with water, then you'll just have to scarf it down with a big mouthful of rice.",
             "Eff": "Decreases all party members' gliding and sprinting Stamina consumption by 15% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108232",
-            "Recipe": 3112
+            "Recipe": 3112,
+            "Buff": 1
         },
         {
             "_id": 108230,
@@ -11477,7 +11916,8 @@ var _items = [
             "Desc": "A fragrant salad dish. The slightly bitter minty-fresh flavors do not cover the blazing mouthfeel of the Jueyun Chili but instead cause the spiciness to reach new heights. The two whirl and pirouette on your tongue like a pair of contending dancers to the hearty and vigorous applause of all.",
             "Eff": "Increases all party members' ATK by 95 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108229",
-            "Recipe": 2111
+            "Recipe": 2111,
+            "Buff": 2
         },
         {
             "_id": 108229,
@@ -11486,7 +11926,8 @@ var _items = [
             "Desc": "A fragrant salad dish. Finely chopped Jueyun Chilis blended with a sauce and mixed with Mint leaves. It looks like nothing special, but it has surprisingly potent powers of refreshment and reinvigoration. It is also the perfect palate-cleanser after a greasy, indulgent meal.",
             "Eff": "Increases all party members' ATK by 81 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108229",
-            "Recipe": 2111
+            "Recipe": 2111,
+            "Buff": 2
         },
         {
             "_id": 108228,
@@ -11495,7 +11936,8 @@ var _items = [
             "Desc": "A fragrant salad dish. The Mint and Jueyun Chili have neither been matched nor incorporated well, which makes for a dish so spicy that any who eat it will be at a loss for words for a time.",
             "Eff": "Increases all party members' ATK by 66 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108229",
-            "Recipe": 2111
+            "Recipe": 2111,
+            "Buff": 2
         },
         {
             "_id": 108227,
@@ -11504,7 +11946,8 @@ var _items = [
             "Desc": "A refreshing dessert. The perfect springiness makes for a lovely sight indeed when you strike it with the back of a small spoon. Taste that spoonful and that cool and refreshing feel will spread through your mouth instantly, dispelling any negative emotions you may harbor to the point where you feel like you've become a new person.",
             "Eff": "Restores 10% of Max HP and an additional 1,200 HP to the selected character.",
             "Icon": "UI_ItemIcon_108226",
-            "Recipe": 1007
+            "Recipe": 1007,
+            "Buff": 0
         },
         {
             "_id": 108226,
@@ -11513,7 +11956,8 @@ var _items = [
             "Desc": "A refreshing dessert. The steps to making this are quite simple indeed, and when it slides down your throat, the faint, fresh flavor of mint will leave you feeling reinvigorated for the rest of the day.",
             "Eff": "Restores 9% of Max HP and an additional 1,000 HP to the selected character.",
             "Icon": "UI_ItemIcon_108226",
-            "Recipe": 1007
+            "Recipe": 1007,
+            "Buff": 0
         },
         {
             "_id": 108225,
@@ -11522,7 +11966,8 @@ var _items = [
             "Desc": "A refreshing dessert. Some little accidents occurred during the making of this dish, causing the jelly to emerge unevenly frozen. Well, it could still serve should you want to drink some mint cordial...",
             "Eff": "Restores 8% of Max HP and an additional 800 HP to the selected character.",
             "Icon": "UI_ItemIcon_108226",
-            "Recipe": 1007
+            "Recipe": 1007,
+            "Buff": 0
         },
         {
             "_id": 108224,
@@ -11531,7 +11976,8 @@ var _items = [
             "Desc": "An attractive-looking pre-meal snack. The moment this enters your mouth, the springiness of the shrimp and the crispiness of the potato slices form a profound contrast. The fluffy potatoes immediately follow up by melding these flavors together, creating a sweet experience that makes you relax, body and soul.",
             "Eff": "Restores 30% of Max HP to the selected character and regenerates 790 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108223",
-            "Recipe": 3013
+            "Recipe": 3013,
+            "Buff": 5
         },
         {
             "_id": 108223,
@@ -11540,7 +11986,8 @@ var _items = [
             "Desc": "An attractive-looking pre-meal snack. A spread made from potatoes and berries is placed onto crispy potato slices, and a whole shrimp is then added on top. The fragrant and full-bodied flavors serve to whet the appetite, while the addition of Mint adds a whole other dimension to the mix.",
             "Eff": "Restores 28% of Max HP to the selected character and regenerates 620 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108223",
-            "Recipe": 3013
+            "Recipe": 3013,
+            "Buff": 5
         },
         {
             "_id": 108222,
@@ -11549,7 +11996,8 @@ var _items = [
             "Desc": "An attractive-looking pre-meal snack. Too much time was unknowingly spent being preoccupied with the details of this dish's form. The potato slices that were meant to form the base have already turned soft, detracting greatly from the mouthfeel.",
             "Eff": "Restores 26% of Max HP to the selected character and regenerates 450 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108223",
-            "Recipe": 3013
+            "Recipe": 3013,
+            "Buff": 5
         },
         {
             "_id": 108221,
@@ -11558,7 +12006,8 @@ var _items = [
             "Desc": "Traditional cuisine made to celebrate Lantern Rite. The ham, fowl, and bamboo shoots have been sliced into threads of equal length, and they've been laid out neatly in the soup bowl after being steamed at high heat, before being covered in consommé. The layers are distinct, and the mouthfeel is salty yet fresh.",
             "Eff": "Increases all party members' Shield Strength by 30% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108156",
-            "Recipe": 0
+            "Recipe": 0,
+            "Buff": 3
         },
         {
             "_id": 108220,
@@ -11567,7 +12016,8 @@ var _items = [
             "Desc": "Traditional cuisine made to celebrate Lantern Rite. There is no great refinement in the making of this food, and it appears in Liyue often during festival season. Whenever this dish is served up, the person at the head of the table will invite everyone to dig in, saying \"Come on, eat, eat,\" hence the name.",
             "Eff": "Increases all party members' CRIT Rate by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108132",
-            "Recipe": 0
+            "Recipe": 0,
+            "Buff": 6
         },
         {
             "_id": 108219,
@@ -11576,7 +12026,8 @@ var _items = [
             "Desc": "Traditional cuisine made to celebrate Lantern Rite. The sauce has a rustic flavor, and there's a generous amount of it mixed in with the noodles. A humble but enduringly popular dish.",
             "Eff": "Restores 60 Stamina",
             "Icon": "UI_ItemIcon_108142",
-            "Recipe": 0
+            "Recipe": 0,
+            "Buff": 7
         },
         {
             "_id": 108218,
@@ -11585,7 +12036,8 @@ var _items = [
             "Desc": "Traditional cuisine made to celebrate Lantern Rite. Snapdragon, tofu, and lotus seeds are put into boiling water and simmered. Jewelry Soup earned its luxurious name from the look of the ingredients used, but contrary to its name, the soup is commonly prepared and served in ordinary households.",
             "Eff": "Increases all party members' DEF by 126 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108087",
-            "Recipe": 0
+            "Recipe": 0,
+            "Buff": 3
         },
         {
             "_id": 108217,
@@ -11594,7 +12046,8 @@ var _items = [
             "Desc": "Traditional cuisine made to celebrate Lantern Rite. The clear, gold colors of the egg custard have been embellished with several lotus roots. Regardless of whether it is breakfast or a post-meal snack, its superior nutritional value can greatly nourish the body.",
             "Eff": "Decreases all party members' sprinting Stamina consumption by 25% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108120",
-            "Recipe": 0
+            "Recipe": 0,
+            "Buff": 1
         },
         {
             "_id": 108216,
@@ -11603,7 +12056,8 @@ var _items = [
             "Desc": "Traditional cuisine made to celebrate Lantern Rite. Fragrant and crispy. Make sure to eat them while they're hot!",
             "Eff": "Increases all party members' ATK by 95 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_4002",
-            "Recipe": 0
+            "Recipe": 0,
+            "Buff": 2
         },
         {
             "_id": 108215,
@@ -11612,7 +12066,8 @@ var _items = [
             "Desc": "Traditional cuisine made to celebrate Lantern Rite. The fish is a fresh catch straight from the harbor, lightly seasoned and swiftly grilled. Its aroma attracts the street cats. Indeed, freshness is the secret of flavor.",
             "Eff": "Restores 10% of Max HP and an additional 1,200 HP to the selected character.",
             "Icon": "UI_ItemIcon_108108",
-            "Recipe": 0
+            "Recipe": 0,
+            "Buff": 0
         },
         {
             "_id": 108214,
@@ -11623,7 +12078,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108214",
             "Recipe": 3012,
             "Avatar": 38,
-            "AI": "UI_AvatarIcon_Albedo"
+            "AI": "UI_AvatarIcon_Albedo",
+            "Buff": 3
         },
         {
             "_id": 108213,
@@ -11634,7 +12090,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108213",
             "Recipe": 3109,
             "Avatar": 37,
-            "AI": "UI_AvatarIcon_Ganyu"
+            "AI": "UI_AvatarIcon_Ganyu",
+            "Buff": 0
         },
         {
             "_id": 108212,
@@ -11643,7 +12100,8 @@ var _items = [
             "Desc": "One of Liyue's specialty snacks. Chow down on that lovely, fragrant crust and the steaming ham sitting atop it. The spices and spiciness race neck and neck into your nostrils, creating an addictive flavor that has you licking that last finger rather than let a single scrap go to waste.",
             "Eff": "Increases all party members' Physical DMG by 40% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108211",
-            "Recipe": 3110
+            "Recipe": 3110,
+            "Buff": 2
         },
         {
             "_id": 108211,
@@ -11652,7 +12110,8 @@ var _items = [
             "Desc": "One of Liyue's specialty snacks. Stir-fried ham and Jueyun Chili sprinkled on a crispy crust made from Rice and Horsetail create a refined, meaty snack that transforms humble Rice into a hot delicacy.",
             "Eff": "Increases all party members' Physical DMG by 30% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108211",
-            "Recipe": 3110
+            "Recipe": 3110,
+            "Buff": 2
         },
         {
             "_id": 108210,
@@ -11661,7 +12120,8 @@ var _items = [
             "Desc": "One of Liyue's specialty snacks. The browned Jueyun Chilis and ham stick together on top of a crust that has barely retained its flavor, and you can only tell them apart by the mouthfeel.",
             "Eff": "Increases all party members' Physical DMG by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108211",
-            "Recipe": 3110
+            "Recipe": 3110,
+            "Buff": 2
         },
         {
             "_id": 108209,
@@ -11670,7 +12130,8 @@ var _items = [
             "Desc": "Gently fried fish dish. The fish melts in your mouth, melding the flavors of land and sea together as it does, making for an unforgettable experience. Little wonder, then, that such a simply-made dish can make it into restaurants of great class.",
             "Eff": "Increases all party members' Shield Strength by 30% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108208",
-            "Recipe": 3012
+            "Recipe": 3012,
+            "Buff": 3
         },
         {
             "_id": 108208,
@@ -11679,7 +12140,8 @@ var _items = [
             "Desc": "Gently fried fish dish. Cooked with the right heat and duration to maintain freshness for a long time. Tender and flaky, it is delicately browned thanks to the layer of aromatic butter on top, which creates a multi-layered and unique flavor.",
             "Eff": "Increases all party members' Shield Strength by 25% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108208",
-            "Recipe": 3012
+            "Recipe": 3012,
+            "Buff": 3
         },
         {
             "_id": 108207,
@@ -11688,7 +12150,8 @@ var _items = [
             "Desc": "Gently fried fish dish. The fish has been fried too long, which has deprived it of all its freshness and springiness. The slightest touch with your utensils might cause it to break into small pieces.",
             "Eff": "Increases all party members' Shield Strength by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108208",
-            "Recipe": 3012
+            "Recipe": 3012,
+            "Buff": 3
         },
         {
             "_id": 108206,
@@ -11697,7 +12160,8 @@ var _items = [
             "Desc": "A steaming-hot stew. Just one spoonful sends a down-to-earth sense of satisfaction welling up from the depths of your heart. The meat's flavor grows with every chew, bringing limitless strength to the eater even in the coldest wintry wastes.",
             "Eff": "Decreases the rate of Sheer Cold accumulation for all party members for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108205",
-            "Recipe": 2009
+            "Recipe": 2009,
+            "Buff": 8
         },
         {
             "_id": 108205,
@@ -11706,7 +12170,8 @@ var _items = [
             "Desc": "Hot stew made from Chilled Meat and vegetables chopped into small pieces. Slow-boiled tomatoes give this dish a rich and thick texture. Filling one's stomach with this comforting mixture has a warming effect.",
             "Eff": "Somewhat decreases the rate of Sheer Cold accumulation for all party members for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108205",
-            "Recipe": 2009
+            "Recipe": 2009,
+            "Buff": 8
         },
         {
             "_id": 108204,
@@ -11715,7 +12180,8 @@ var _items = [
             "Desc": "A steaming-hot stew. There was some flaw in the flame control during the stewing process, leading to a product with a very stiff mouthfeel. You can ignore those flaws if you scarf it all down — it'll keep the cold away regardless.",
             "Eff": "Slightly decreases the rate of Sheer Cold accumulation for all party members for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108205",
-            "Recipe": 2009
+            "Recipe": 2009,
+            "Buff": 8
         },
         {
             "_id": 108203,
@@ -11724,7 +12190,8 @@ var _items = [
             "Desc": "Colorful staple food. The sweet-and-sour preserved fruit is bound to the rich mouthfeel of the rice as if by invisible threads. Even after you swallow, the faint fragrance remains on your lips, increasing your sense of satisfaction by an order of magnitude.",
             "Eff": "Restores 34% of Max HP and an additional 1,900 HP to the selected character.",
             "Icon": "UI_ItemIcon_108202",
-            "Recipe": 3109
+            "Recipe": 3109,
+            "Buff": 0
         },
         {
             "_id": 108202,
@@ -11733,7 +12200,8 @@ var _items = [
             "Desc": "Colorful staple food. Maintains perfect balance between soft and fragrant rice and all kinds of carefully selected sweet ingredients. This dish is mainly known for its meaning as a symbol of prosperity and peace, and less so for its taste. However, with such noble ideals behind it, its flavor should not disappoint.",
             "Eff": "Restores 32% of Max HP and an additional 1,250 HP to the selected character.",
             "Icon": "UI_ItemIcon_108202",
-            "Recipe": 3109
+            "Recipe": 3109,
+            "Buff": 0
         },
         {
             "_id": 108201,
@@ -11742,7 +12210,8 @@ var _items = [
             "Desc": "Colorful staple food. Too much moisture was lost during the cooking process — at this point, it would take some imagination (and some extra water) to recoup the intended taste.",
             "Eff": "Restores 30% of Max HP and an additional 600 HP to the selected character.",
             "Icon": "UI_ItemIcon_108202",
-            "Recipe": 3109
+            "Recipe": 3109,
+            "Buff": 0
         },
         {
             "_id": 108200,
@@ -11753,7 +12222,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108200",
             "Recipe": 2109,
             "Avatar": 46,
-            "AI": "UI_AvatarIcon_Hutao"
+            "AI": "UI_AvatarIcon_Hutao",
+            "Buff": 4
         },
         {
             "_id": 108199,
@@ -11762,7 +12232,8 @@ var _items = [
             "Desc": "Soft and fluffy buns. The unique sweetness of the whole grains passes between your teeth and lips as you chew. The relatively nondescript ingredients have been transformed into a true delicacy by your labors. This is one of the simple pleasures of the common folk and tastes best after some good, honest work.",
             "Eff": "Restores 10% of Max HP and an additional 1,200 HP to the selected character.",
             "Icon": "UI_ItemIcon_108198",
-            "Recipe": 1104
+            "Recipe": 1104,
+            "Buff": 0
         },
         {
             "_id": 108198,
@@ -11771,7 +12242,8 @@ var _items = [
             "Desc": "Soft and fluffy buns. The rice and horsetail have been ground into flour and kneaded into dough before being placed into a steaming basket. They can be eaten as-is or with a vegetable filling. Portable and satiating, it is a very popular dish in the Liyue region.",
             "Eff": "Restores 9% of Max HP and an additional 1,000 HP to the selected character.",
             "Icon": "UI_ItemIcon_108198",
-            "Recipe": 1104
+            "Recipe": 1104,
+            "Buff": 0
         },
         {
             "_id": 108197,
@@ -11780,7 +12252,8 @@ var _items = [
             "Desc": "Soft and fluffy buns. The dough has not been proofed properly, meaning the buns did not puff up evenly during the steaming process. The resulting coarse, hard texture leaves much to be desired.",
             "Eff": "Restores 8% of Max HP and an additional 800 HP to the selected character.",
             "Icon": "UI_ItemIcon_108198",
-            "Recipe": 1104
+            "Recipe": 1104,
+            "Buff": 0
         },
         {
             "_id": 108196,
@@ -11789,7 +12262,8 @@ var _items = [
             "Desc": "A mild and luscious dish. The plump shrimp are packed full of flavor just waiting to burst out on the first bite, creating wave after wave of indulgent deliciousness, like drops of water falling one by one onto a still lake, ending just as the sweet aftertaste finally begins to emerge.",
             "Eff": "Increases all party members' Shield Strength by 30% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108195",
-            "Recipe": 3114
+            "Recipe": 3114,
+            "Buff": 3
         },
         {
             "_id": 108195,
@@ -11798,7 +12272,8 @@ var _items = [
             "Desc": "A mild and luscious dish. The shrimp are quickly sautéed and the sauce thickened. This method of cooking is exceedingly simple and brings out the wonderful natural flavor of the shrimp meat, granting it a place in humble home-cooked dinners and lavish banquets alike.",
             "Eff": "Increases all party members' Shield Strength by 25% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108195",
-            "Recipe": 3114
+            "Recipe": 3114,
+            "Buff": 3
         },
         {
             "_id": 108194,
@@ -11807,7 +12282,8 @@ var _items = [
             "Desc": "A mild and luscious dish. In an overzealous attempt to prevent the food from sticking to the bottom of the pot, too much oil was added. Despite having been subjected to this rather heavy-duty frying process, the shrimp still have a surprisingly pleasant texture — but mind you don't eat too many, or you'll get a sore throat.",
             "Eff": "Increases all party members' Shield Strength by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108195",
-            "Recipe": 3114
+            "Recipe": 3114,
+            "Buff": 3
         },
         {
             "_id": 108193,
@@ -11816,7 +12292,8 @@ var _items = [
             "Desc": "Wok-fried vegetarian food. The scents of the earth, the cool shade, and the moistness of the mist have all been enjoined into this plate of freshness. Pair it with simple white rice — both your taste buds and your soul shall experience a down-to-earth satisfaction many times over.",
             "Eff": "Increases all party members' CRIT Rate by 12% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108192",
-            "Recipe": 2110
+            "Recipe": 2110,
+            "Buff": 6
         },
         {
             "_id": 108192,
@@ -11825,7 +12302,8 @@ var _items = [
             "Desc": "Wok-fried vegetarian food. A stir-fried selection of three ingredients hailing from Liyue. Though the methodology is simple, it brings out the intense, innate flavors of the ingredients, and does not fade in brilliance when compared to some high-class delicacy.",
             "Eff": "Increases all party members' CRIT Rate by 9% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108192",
-            "Recipe": 2110
+            "Recipe": 2110,
+            "Buff": 6
         },
         {
             "_id": 108191,
@@ -11834,7 +12312,8 @@ var _items = [
             "Desc": "Wok-fried vegetarian food. Improper oil temperature control has caused the ingredients to reek of oil. Those who eat but a single bite will shake their heads and mourn the loss of the rare violetgrass used.",
             "Eff": "Increases all party members' CRIT Rate by 6% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108192",
-            "Recipe": 2110
+            "Recipe": 2110,
+            "Buff": 6
         },
         {
             "_id": 108190,
@@ -11843,7 +12322,8 @@ var _items = [
             "Desc": "A vegetarian dish with a rich flavor. With the aid of the sauce, the matsutake has achieved an excellent, elegant mouth-feel that so rivals scallop in tenderness and abalone in freshness that you can hardly tell them apart. If you left your customer guessing before revealing the truth later, you would be sure to earn their astonished praise.",
             "Eff": "Revives a character and restores 550 HP.",
             "Icon": "UI_ItemIcon_108189",
-            "Recipe": 2109
+            "Recipe": 2109,
+            "Buff": 4
         },
         {
             "_id": 108189,
@@ -11852,7 +12332,8 @@ var _items = [
             "Desc": "A vegetarian dish with a rich flavor. The matsutake has been sliced thin and fried till golden before pouring the sauce. The matsutake meat is sumptuous and has flavor to match that of fresh abalone — almost enough to make you think it was the real thing.",
             "Eff": "Revives a character and restores 400 HP.",
             "Icon": "UI_ItemIcon_108189",
-            "Recipe": 2109
+            "Recipe": 2109,
+            "Buff": 4
         },
         {
             "_id": 108188,
@@ -11861,7 +12342,8 @@ var _items = [
             "Desc": "A vegetarian dish with a rich flavor. The overly thick sauce has totally covered the freshness that the ingredients should have had, and the condiment leaves your mouth dry no matter how much you wash it down with water.",
             "Eff": "Revives a character and restores 250 HP.",
             "Icon": "UI_ItemIcon_108189",
-            "Recipe": 2109
+            "Recipe": 2109,
+            "Buff": 4
         },
         {
             "_id": 108187,
@@ -11870,7 +12352,8 @@ var _items = [
             "Desc": "A main dish with an intense flavor. The sumptuous, fresh look is already enough to leave people salivating, and one bite will surely lead to another. The smooth rice noodles and tender fish grant this meal a seat at any gourmet's table, its pedestrian ingredients notwithstanding.",
             "Eff": "Restores 22% of Max HP to the selected character and regenerates 470 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108186",
-            "Recipe": 2113
+            "Recipe": 2113,
+            "Buff": 5
         },
         {
             "_id": 108186,
@@ -11879,7 +12362,8 @@ var _items = [
             "Desc": "A main dish with an intense flavor. Created by stir-frying rice noodles, par-cooked fish, and various side dishes in a wok on high flame. The noodles, having absorbed the flavors of the various ingredients, are springy and smooth to the taste, making this dish a big hit with diners.",
             "Eff": "Restores 20% of Max HP to the selected character and regenerates 390 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108186",
-            "Recipe": 2113
+            "Recipe": 2113,
+            "Buff": 5
         },
         {
             "_id": 108185,
@@ -11888,7 +12372,8 @@ var _items = [
             "Desc": "A main dish with an intense flavor. You can barely tell where the rice noodles end and the fish begins. The soft, floppy mouthfeel is almost unbearable — how could something that looked this simple actually require so much craft?",
             "Eff": "Restores 18% of Max HP to the selected character and regenerates 300 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108186",
-            "Recipe": 2113
+            "Recipe": 2113,
+            "Buff": 5
         },
         {
             "_id": 108184,
@@ -11897,7 +12382,8 @@ var _items = [
             "Desc": "A dish fried over a great flame. The rendered fat from the fried ham layers the side dishes perfectly, and the flavors have long permeated the whole dish. Its shine alone is enough to whet one's appetite, and every bite is sure to evoke memories of house, home, and celebration in anyone from Liyue.",
             "Eff": "Increases all party members' CRIT Rate by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108183",
-            "Recipe": 3113
+            "Recipe": 3113,
+            "Buff": 6
         },
         {
             "_id": 108183,
@@ -11906,7 +12392,8 @@ var _items = [
             "Desc": "A dish fried over a great flame. Matsutake and Ham have been sliced up, stir-fried, and garnished with some spicy condiments. The flavor of the Ham is a match for the Matsutake's crispness, and the combination grows ever lovelier and more addictive as you chew. The heat-conducting wok also serves to keep it piping hot for long periods.",
             "Eff": "Increases all party members' CRIT Rate by 15% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108183",
-            "Recipe": 3113
+            "Recipe": 3113,
+            "Buff": 6
         },
         {
             "_id": 108182,
@@ -11915,7 +12402,8 @@ var _items = [
             "Desc": "A dish fried over a great flame. The quality of the pork is fair enough, but it is far too salty. Have a piece of this, and you will taste nothing but brine in your mouth no matter how many Snapdragons or Matsutake mushrooms you consume.",
             "Eff": "Increases all party members' CRIT Rate by 10% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108183",
-            "Recipe": 3113
+            "Recipe": 3113,
+            "Buff": 6
         },
         {
             "_id": 108181,
@@ -11924,7 +12412,8 @@ var _items = [
             "Desc": "One of Liyue's traditional snacks. Take a bite while it's hot, and have your tastebuds savor the tender minced meat and delicious juice, an experience which is then topped off with a finishing touch of sweet prawn. Before your eyes, you can almost see a full moon over rippling waters, a fishing boat by the shore, and the fishermen's songs echoing down the years.",
             "Eff": "Revives a character and restores 1,500 HP.",
             "Icon": "UI_ItemIcon_108180",
-            "Recipe": 3111
+            "Recipe": 3111,
+            "Buff": 4
         },
         {
             "_id": 108180,
@@ -11933,7 +12422,8 @@ var _items = [
             "Desc": "One of Liyue's traditional snacks. The egg has been beaten into the flour to form a dough and the shrimp and fish have been diced, minced, and packaged into the shape of a teacup, before being garnished with whole shrimp and steamed in a pot. The resulting design is like that of clouds embracing the moon, hence the name Fullmoon Egg.",
             "Eff": "Revives a character and restores 1,200 HP.",
             "Icon": "UI_ItemIcon_108180",
-            "Recipe": 3111
+            "Recipe": 3111,
+            "Buff": 4
         },
         {
             "_id": 108179,
@@ -11942,7 +12432,8 @@ var _items = [
             "Desc": "One of Liyue's traditional snacks. The warped dough wraps the meat stiffly, and the dry mouthfeel leads to the illusion that one is chewing on a giant chunk of gnocchi.",
             "Eff": "Revives a character and restores 900 HP.",
             "Icon": "UI_ItemIcon_108180",
-            "Recipe": 3111
+            "Recipe": 3111,
+            "Buff": 4
         },
         {
             "_id": 108178,
@@ -11951,7 +12442,8 @@ var _items = [
             "Desc": "A dish with a tender mouthfeel. The tofu is so tender that it might break if you blew on a spoonful of it. Each granule of the crab roe is plump and filled with crab oil that oozes out onto your lips the moment you have a single bite. Chewing is not needed at all. The food travels down your gullet in a flash, leaving nothing but the memory of its fresh flavor.",
             "Eff": "Revives a character and restores 550 HP.",
             "Icon": "UI_ItemIcon_108177",
-            "Recipe": 2112
+            "Recipe": 2112,
+            "Buff": 4
         },
         {
             "_id": 108177,
@@ -11960,7 +12452,8 @@ var _items = [
             "Desc": "A dish with a tender mouthfeel. Crab roe is stir-fried till the oil within oozes out before being added to boiled tofu and accented with broth. Simple, yes, but gloriously fresh.",
             "Eff": "Revives a character and restores 400 HP.",
             "Icon": "UI_ItemIcon_108177",
-            "Recipe": 2112
+            "Recipe": 2112,
+            "Buff": 4
         },
         {
             "_id": 108176,
@@ -11969,7 +12462,8 @@ var _items = [
             "Desc": "A dish with a tender mouthfeel. Even the freshest crab roe cannot mask the taste of over-aged tofu. Crushing it up with your chopsticks and mixing it into white rice is all you can do to force it down your gullet.",
             "Eff": "Revives a character and restores 250 HP.",
             "Icon": "UI_ItemIcon_108177",
-            "Recipe": 2112
+            "Recipe": 2112,
+            "Buff": 4
         },
         {
             "_id": 108175,
@@ -11980,7 +12474,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108175",
             "Recipe": 3001,
             "Avatar": 33,
-            "AI": "UI_AvatarIcon_Tartaglia"
+            "AI": "UI_AvatarIcon_Tartaglia",
+            "Buff": 3
         },
         {
             "_id": 108174,
@@ -11991,7 +12486,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108174",
             "Recipe": 2102,
             "Avatar": 44,
-            "AI": "UI_AvatarIcon_Xinyan"
+            "AI": "UI_AvatarIcon_Xinyan",
+            "Buff": 6
         },
         {
             "_id": 108173,
@@ -12002,7 +12498,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108173",
             "Recipe": 3106,
             "Avatar": 30,
-            "AI": "UI_AvatarIcon_Zhongli"
+            "AI": "UI_AvatarIcon_Zhongli",
+            "Buff": 5
         },
         {
             "_id": 108172,
@@ -12011,7 +12508,8 @@ var _items = [
             "Desc": "A dish with braised meat and apples. The meat is juicy in the extreme, and no matter how much of it you eat, you still want more. The way every breath you take is tinged with the flavor of apples reminds you of nothing so much as lying in an apple orchard.",
             "Eff": "Restores 34% of Max HP and an additional 1,900 HP to the selected character.",
             "Icon": "UI_ItemIcon_108171",
-            "Recipe": 3011
+            "Recipe": 3011,
+            "Buff": 0
         },
         {
             "_id": 108171,
@@ -12020,7 +12518,8 @@ var _items = [
             "Desc": "A dish with braised meat and apples. The meat goes down smooth, its flavor dense, and when cut open, the meat juice that flows out bears traces of apple flavoring. An eye-popping, refreshing dish indeed.",
             "Eff": "Restores 32% of Max HP and an additional 1,250 HP to the selected character.",
             "Icon": "UI_ItemIcon_108171",
-            "Recipe": 3011
+            "Recipe": 3011,
+            "Buff": 0
         },
         {
             "_id": 108170,
@@ -12029,7 +12528,8 @@ var _items = [
             "Desc": "A dish with braised meat and apples. Apart from a slight sourness, it tastes just like any other down-to-earth braised meat dish, and lacks any fruity aroma. One might even wonder if the apples were put in there at all.",
             "Eff": "Restores 30% of Max HP and an additional 600 HP to the selected character.",
             "Icon": "UI_ItemIcon_108171",
-            "Recipe": 3011
+            "Recipe": 3011,
+            "Buff": 0
         },
         {
             "_id": 108169,
@@ -12038,7 +12538,8 @@ var _items = [
             "Desc": "A nutritious egg dish. The mayonnaise rises like the sun over the rippling poached egg's surface, and the exquisite mouthfeel really hits the spot. The unique salty flavor of the ham cuts right through the mix as well, like light parting the gathered clouds.",
             "Eff": "Increases all party members' ATK by 228 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108168",
-            "Recipe": 3010
+            "Recipe": 3010,
+            "Buff": 2
         },
         {
             "_id": 108168,
@@ -12047,7 +12548,8 @@ var _items = [
             "Desc": "A nutritious egg dish. Luxurious mayonnaise sits atop a lining of ham and poached egg toast. The smooth mouthfeel fills you with energy for the long road ahead, and is one of the Adventurers' Guild's top-rated breakfasts.",
             "Eff": "Increases all party members' ATK by 194 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108168",
-            "Recipe": 3010
+            "Recipe": 3010,
+            "Buff": 2
         },
         {
             "_id": 108167,
@@ -12056,7 +12558,8 @@ var _items = [
             "Desc": "A nutritious egg dish. The congealed mayonnaise is almost solid, and it is lined with tough ham and over-boiled egg. At least wolfing it down will make you full all the same.",
             "Eff": "Increases all party members' ATK by 160 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108168",
-            "Recipe": 3010
+            "Recipe": 3010,
+            "Buff": 2
         },
         {
             "_id": 108166,
@@ -12065,7 +12568,8 @@ var _items = [
             "Desc": "A traditional staple from Mondstadt. As you cut a slice off this small meat pie, the aromas of butter and meat assault your senses simultaneously. The rustic, sweet mouthfeel reminds you of the sights and sounds of harvest festivals, bringing a smile unbidden to your face.",
             "Eff": "Increases all party members' Shield Strength by 35% and DEF by 235 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108165",
-            "Recipe": 4001
+            "Recipe": 4001,
+            "Buff": 3
         },
         {
             "_id": 108165,
@@ -12074,7 +12578,8 @@ var _items = [
             "Desc": "A traditional staple from Mondstadt. Not only is the pickled meat within deeply flavorful, but the meringue has also maintained its sweetness and moisture through the baking process. This dish is not to be missed at any festival in Mondstadt.",
             "Eff": "Increases all party members' Shield Strength by 30% and DEF by 200 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108165",
-            "Recipe": 4001
+            "Recipe": 4001,
+            "Buff": 3
         },
         {
             "_id": 108164,
@@ -12083,7 +12588,8 @@ var _items = [
             "Desc": "A traditional staple from Mondstadt. The burnt-yellow meringue looks barely passable. Don't let any Mondstadt locals see you dead with this thing, or they might just take it upon themselves to ensure that you never fail again.",
             "Eff": "Increases all party members' Shield Strength by 25% and DEF by 165 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108165",
-            "Recipe": 4001
+            "Recipe": 4001,
+            "Buff": 3
         },
         {
             "_id": 108163,
@@ -12092,7 +12598,8 @@ var _items = [
             "Desc": "One of Liyue's traditional snacks. The flower petals waver to life if you gently blow on them. As you close your eyes and take a bite, a luscious flavor covers your tastebuds like a sweet harmony of blooming flowers and fluttering birds in the breeze.",
             "Eff": "Increases all party members' DEF by 235 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108162",
-            "Recipe": 3108
+            "Recipe": 3108,
+            "Buff": 3
         },
         {
             "_id": 108162,
@@ -12101,7 +12608,8 @@ var _items = [
             "Desc": "One of Liyue's traditional snacks. Sweet stuffed lotus wrapped in a crispy, deep-fried crust. Its layers of flower petals unravel perfectly in the palm of your hand.",
             "Eff": "Increases all party members' DEF by 200 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108162",
-            "Recipe": 3108
+            "Recipe": 3108,
+            "Buff": 3
         },
         {
             "_id": 108161,
@@ -12110,7 +12618,8 @@ var _items = [
             "Desc": "One of Liyue's traditional snacks. The lotus petals have lost their original color, turning brown and wilted under the merciless heat of hot oil.",
             "Eff": "Increases all party members' DEF by 165 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108162",
-            "Recipe": 3108
+            "Recipe": 3108,
+            "Buff": 3
         },
         {
             "_id": 108160,
@@ -12119,7 +12628,8 @@ var _items = [
             "Desc": "A braised meat dish. Its intense aroma can be detected from miles away. The ingredients look exquisite in every way, capturing the essence of its original design. It would not look out of place on a gourmet spread at Yuehai Pavilion.",
             "Eff": "Increases all party members' Physical DMG by 45% and CRIT Rate by 10% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108159",
-            "Recipe": 4103
+            "Recipe": 4103,
+            "Buff": 2
         },
         {
             "_id": 108159,
@@ -12128,7 +12638,8 @@ var _items = [
             "Desc": "A braised meat dish. The cut of meat used is a happy medium between lean and fatty, and has been braised to smoking perfection. The ingredients glisten, and are soft but not greasy. Word has it that the Tianshu of a certain generation of the Liyue Qixing invented this dish after much painstaking development.",
             "Eff": "Increases all party members' Physical DMG by 35% and CRIT Rate by 8% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108159",
-            "Recipe": 4103
+            "Recipe": 4103,
+            "Buff": 2
         },
         {
             "_id": 108158,
@@ -12137,7 +12648,8 @@ var _items = [
             "Desc": "A braised meat dish. It's been braised for too long, resulting in meat that's too soft. The fatty cuts are greasy enough to give you palpitations, and you can barely scarf them down even when wrapped in the Qingxin leaves.",
             "Eff": "Increases all party members' Physical DMG by 25% and CRIT Rate by 6% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108159",
-            "Recipe": 4103
+            "Recipe": 4103,
+            "Buff": 2
         },
         {
             "_id": 108157,
@@ -12146,7 +12658,8 @@ var _items = [
             "Desc": "A neatly-arranged dish. The evenly-sized threads reveal exquisite knife-work. Rather than a dish, this seems more like a work of art. But once you work up the wherewithal to pick up those chopsticks and have at it, the delicious flavors will be utter bliss — leaving this as a mere work of art would be such a shame.",
             "Eff": "Increases all party members' Shield Strength by 30% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108156",
-            "Recipe": 3107
+            "Recipe": 3107,
+            "Buff": 3
         },
         {
             "_id": 108156,
@@ -12155,7 +12668,8 @@ var _items = [
             "Desc": "A neatly arranged dish. The Ham, Fowl, and Bamboo Shoots have been sliced into threads of equal length, and they've been laid out neatly in the soup bowl after being steamed at high heat, before being covered in consommé. The layers are distinct, and the mouthfeel is salty yet fresh.",
             "Eff": "Increases all party members' Shield Strength by 25% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108156",
-            "Recipe": 3107
+            "Recipe": 3107,
+            "Buff": 3
         },
         {
             "_id": 108155,
@@ -12164,7 +12678,8 @@ var _items = [
             "Desc": "A neatly arranged dish. It certainly looks the part, but tasting it reveals the blandness of the consommé. Was it diluted too much, perhaps?",
             "Eff": "Increases all party members' Shield Strength by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108156",
-            "Recipe": 3107
+            "Recipe": 3107,
+            "Buff": 3
         },
         {
             "_id": 108154,
@@ -12173,7 +12688,8 @@ var _items = [
             "Desc": "A soup dish that's been stewed for a good long while. One whiff is enough to whet one's appetite greatly, and the concentrated flavors fill your body with every spoonful of soup. It is almost like spreading a pair of wings and walking on clouds.",
             "Eff": "Restores 30% of Max HP to the selected character and regenerates 790 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108153",
-            "Recipe": 3106
+            "Recipe": 3106,
+            "Buff": 5
         },
         {
             "_id": 108153,
@@ -12182,7 +12698,8 @@ var _items = [
             "Desc": "A soup dish that's been stewed for a good long while. The meat and ham have been diced into small pieces, and the soup has been kept on low heat till it turned milky white. The process has brought out the distinct flavors of both kinds of meat, making for an especially tasty soup.",
             "Eff": "Restores 28% of Max HP to the selected character and regenerates 620 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108153",
-            "Recipe": 3106
+            "Recipe": 3106,
+            "Buff": 5
         },
         {
             "_id": 108152,
@@ -12191,7 +12708,8 @@ var _items = [
             "Desc": "A soup dish that's been stewed for a good long while. The inexpert heat control has caused the fresh meat to be a bit tough, and the salty ham has covered the expected taste. The bamboo shoots, which have absorbed the flavors of both meats, are probably the only acceptable part of this dish.",
             "Eff": "Restores 26% of Max HP to the selected character and regenerates 450 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108153",
-            "Recipe": 3106
+            "Recipe": 3106,
+            "Buff": 5
         },
         {
             "_id": 108151,
@@ -12200,7 +12718,8 @@ var _items = [
             "Desc": "A freshly squeezed, fashionable, and fruity non-alcoholic beverage. Said to have a strong sobering effect, tavern patrons often order this as the last drink of the night.",
             "Eff": "Restores 26% of Max HP to the selected character and regenerates 570 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108151",
-            "Recipe": 0
+            "Recipe": 0,
+            "Buff": 5
         },
         {
             "_id": 108150,
@@ -12209,7 +12728,8 @@ var _items = [
             "Desc": "A freshly squeezed, fashionable, and fruity non-alcoholic beverage. A refreshing burst of Mint with Berries to sweeten the deal, it has an exquisite aroma.",
             "Eff": "Increases all party members' CRIT Rate by 16% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108150",
-            "Recipe": 0
+            "Recipe": 0,
+            "Buff": 6
         },
         {
             "_id": 108149,
@@ -12218,7 +12738,8 @@ var _items = [
             "Desc": "A freshly squeezed, fashionable, and fruity non-alcoholic beverage. Iced Wolfhook juice mixed with a pinch of other ingredients, forming a dreamy shade of violet.",
             "Eff": "Increases all party members' ATK by 114 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108149",
-            "Recipe": 0
+            "Recipe": 0,
+            "Buff": 2
         },
         {
             "_id": 108148,
@@ -12227,7 +12748,8 @@ var _items = [
             "Desc": "Tea from Liyue. After a grueling trek around the vast region of Liyue, there's nothing more rejuvenating than a big swig of tea from Pop's Teas.",
             "Eff": "Restores 14% of Max HP to the selected character and regenerates 350 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108148",
-            "Recipe": 0
+            "Recipe": 0,
+            "Buff": 5
         },
         {
             "_id": 108147,
@@ -12247,7 +12769,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108146",
             "Recipe": 3005,
             "Avatar": 43,
-            "AI": "UI_AvatarIcon_Sucrose"
+            "AI": "UI_AvatarIcon_Sucrose",
+            "Buff": 4
         },
         {
             "_id": 108145,
@@ -12258,7 +12781,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108145",
             "Recipe": 1103,
             "Avatar": 42,
-            "AI": "UI_AvatarIcon_Keqing"
+            "AI": "UI_AvatarIcon_Keqing",
+            "Buff": 0
         },
         {
             "_id": 108144,
@@ -12269,7 +12793,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108144",
             "Recipe": 2108,
             "Avatar": 36,
-            "AI": "UI_AvatarIcon_Chongyun"
+            "AI": "UI_AvatarIcon_Chongyun",
+            "Buff": 7
         },
         {
             "_id": 108143,
@@ -12278,7 +12803,8 @@ var _items = [
             "Desc": "Noodles in a meat and vegetable sauce. The seemingly ordinary noodles have absorbed the essence of the mountainous delicacies. A single mouthful is enough to taste its extreme freshness.",
             "Eff": "Restores 60 Stamina",
             "Icon": "UI_ItemIcon_108142",
-            "Recipe": 2108
+            "Recipe": 2108,
+            "Buff": 7
         },
         {
             "_id": 108142,
@@ -12287,7 +12813,8 @@ var _items = [
             "Desc": "Noodles in a meat and vegetable sauce. The sauce has a rustic flavor, and there's a generous amount of it mixed in with the noodles. A humble but enduringly popular dish.",
             "Eff": "Restores 50 Stamina",
             "Icon": "UI_ItemIcon_108142",
-            "Recipe": 2108
+            "Recipe": 2108,
+            "Buff": 7
         },
         {
             "_id": 108141,
@@ -12296,7 +12823,8 @@ var _items = [
             "Desc": "Noodles in a meat and vegetable sauce. The moisture has been sucked right out of this dish, causing the noodles to become dry. You might choke on them even if you chew slowly.",
             "Eff": "Restores 40 Stamina",
             "Icon": "UI_ItemIcon_108142",
-            "Recipe": 2108
+            "Recipe": 2108,
+            "Buff": 7
         },
         {
             "_id": 108140,
@@ -12307,7 +12835,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108140",
             "Recipe": 3105,
             "Avatar": 35,
-            "AI": "UI_AvatarIcon_Qiqi"
+            "AI": "UI_AvatarIcon_Qiqi",
+            "Buff": 6
         },
         {
             "_id": 108139,
@@ -12318,7 +12847,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108139",
             "Recipe": 1101,
             "Avatar": 27,
-            "AI": "UI_AvatarIcon_Ningguang"
+            "AI": "UI_AvatarIcon_Ningguang",
+            "Buff": 4
         },
         {
             "_id": 108138,
@@ -12329,7 +12859,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108138",
             "Recipe": 1102,
             "Avatar": 24,
-            "AI": "UI_AvatarIcon_Beidou"
+            "AI": "UI_AvatarIcon_Beidou",
+            "Buff": 4
         },
         {
             "_id": 108137,
@@ -12340,7 +12871,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108137",
             "Recipe": 2101,
             "Avatar": 26,
-            "AI": "UI_AvatarIcon_Xiao"
+            "AI": "UI_AvatarIcon_Xiao",
+            "Buff": 2
         },
         {
             "_id": 108136,
@@ -12351,7 +12883,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108136",
             "Recipe": 2105,
             "Avatar": 25,
-            "AI": "UI_AvatarIcon_Xingqiu"
+            "AI": "UI_AvatarIcon_Xingqiu",
+            "Buff": 5
         },
         {
             "_id": 108135,
@@ -12362,7 +12895,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108135",
             "Recipe": 3102,
             "Avatar": 23,
-            "AI": "UI_AvatarIcon_Xiangling"
+            "AI": "UI_AvatarIcon_Xiangling",
+            "Buff": 5
         },
         {
             "_id": 108134,
@@ -12373,7 +12907,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108134",
             "Recipe": 1006,
             "Avatar": 39,
-            "AI": "UI_AvatarIcon_Diona"
+            "AI": "UI_AvatarIcon_Diona",
+            "Buff": 4
         },
         {
             "_id": 108133,
@@ -12382,7 +12917,8 @@ var _items = [
             "Desc": "A dish made out of a luxurious variety of ingredients. The mixture of meat and vegetables is spot-on, the presentation is flawless, and the blend of flavors in the broth brings out the best of everything. Don't mind if I do.",
             "Eff": "Increases all party members' CRIT Rate by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108132",
-            "Recipe": 3105
+            "Recipe": 3105,
+            "Buff": 6
         },
         {
             "_id": 108132,
@@ -12391,7 +12927,8 @@ var _items = [
             "Desc": "A dish made out of a luxurious variety of ingredients. There is no great refinement in the making of this food, and it appears in Liyue often during festival season. Whenever this dish is served up, the person at the head of the table will invite everyone to dig in, saying \"Come on, eat, eat,\" hence the name.",
             "Eff": "Increases all party members' CRIT Rate by 15% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108132",
-            "Recipe": 3105
+            "Recipe": 3105,
+            "Buff": 6
         },
         {
             "_id": 108131,
@@ -12400,7 +12937,8 @@ var _items = [
             "Desc": "A dish made out of a luxurious variety of ingredients... dumped into scalding-hot water and boiled beyond recognition. As if the taste of everything and nothing at the same time isn't bad enough, you'll want to watch out for the sand, too...",
             "Eff": "Increases all party members' CRIT Rate by 10% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108132",
-            "Recipe": 3105
+            "Recipe": 3105,
+            "Buff": 6
         },
         {
             "_id": 108130,
@@ -12409,7 +12947,8 @@ var _items = [
             "Desc": "A dish cooked over a roaring fire. Just catching a whiff is enough to work up one's appetite. The tingle of chili titillates the tongue, leaving you ready to devour ten bowls in a single sitting.",
             "Eff": "Increases all party members' ATK by 228 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108129",
-            "Recipe": 3104
+            "Recipe": 3104,
+            "Buff": 2
         },
         {
             "_id": 108129,
@@ -12418,7 +12957,8 @@ var _items = [
             "Desc": "A dish cooked over a roaring fire. They say it was originally just a rustic dish that everyone in Qingce Village knew how to make. But quite unexpectedly, its crispy and spicy dishes gained the recognition of people from elsewhere, and thus began to spread throughout the Liyue region.",
             "Eff": "Increases all party members' ATK by 194 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108129",
-            "Recipe": 3104
+            "Recipe": 3104,
+            "Buff": 2
         },
         {
             "_id": 108128,
@@ -12427,7 +12967,8 @@ var _items = [
             "Desc": "A dish cooked over a roaring fire. This one was a failed test run, being unpleasantly bitter and uncomfortably spicy. You could try mixing it with rice — or you could simply discard it and eat the rice instead.",
             "Eff": "Increases all party members' ATK by 160 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108129",
-            "Recipe": 3104
+            "Recipe": 3104,
+            "Buff": 2
         },
         {
             "_id": 108127,
@@ -12436,7 +12977,8 @@ var _items = [
             "Desc": "A deep-fried shrimp dish. From the rich, indulgent scent of crispy golden potato strips, to the satisfying crunch as you take your first bite, to the grand finale of delicious sweet shrimp, this dish is pure pleasure.",
             "Eff": "Revives a character and restores 1,500 HP.",
             "Icon": "UI_ItemIcon_108126",
-            "Recipe": 2107
+            "Recipe": 2107,
+            "Buff": 4
         },
         {
             "_id": 108126,
@@ -12445,7 +12987,8 @@ var _items = [
             "Desc": "A deep-fried shrimp dish. The aroma assaults your senses, while the crispy potatoes bring out the light sweetness of the shrimp meat. This, in tandem with its cute, small shape, makes it very enticing indeed.",
             "Eff": "Revives a character and restores 1,200 HP.",
             "Icon": "UI_ItemIcon_108126",
-            "Recipe": 2107
+            "Recipe": 2107,
+            "Buff": 4
         },
         {
             "_id": 108125,
@@ -12454,7 +12997,8 @@ var _items = [
             "Desc": "A deep-fried shrimp dish. Hastily cast into hot oil and promptly forgotten about, the result is a disastrous combination of raw shrimp and burnt potato strips.",
             "Eff": "Revives a character and restores 900 HP.",
             "Icon": "UI_ItemIcon_108126",
-            "Recipe": 2107
+            "Recipe": 2107,
+            "Buff": 4
         },
         {
             "_id": 108124,
@@ -12463,7 +13007,8 @@ var _items = [
             "Desc": "A complex, famous type of Liyue cuisine. This dish is a rare and exquisite mix of both land and sea, combining countless delicious delicacies in one flavor-filled pot. Each mouthful is a moment to remember — it's even irresistible enough to entice the adepti down from their celestial abode.",
             "Eff": "Increases all party members' ATK by 372 and CRIT Rate by 12% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108123",
-            "Recipe": 5101
+            "Recipe": 5101,
+            "Buff": 2
         },
         {
             "_id": 108123,
@@ -12472,7 +13017,8 @@ var _items = [
             "Desc": "A complex, famous type of Liyue cuisine, in which specially selected ingredients are submerged and slowly boiled in soup stock. The recipe scribbled from memory alone was enough to urge the adepti to once again return to the world of men.",
             "Eff": "Increases all party members' ATK by 316 and CRIT Rate by 10% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108123",
-            "Recipe": 5101
+            "Recipe": 5101,
+            "Buff": 2
         },
         {
             "_id": 108122,
@@ -12481,7 +13027,8 @@ var _items = [
             "Desc": "A complex, famous type of Liyue cuisine. Without having mastered the art of simmering, the resulting stew-like dish has a salty, fishy taste. But, just considering the costly ingredients will be enough to keep you going until the pot's empty.",
             "Eff": "Increases all party members' ATK by 260 and CRIT Rate by 8% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108123",
-            "Recipe": 5101
+            "Recipe": 5101,
+            "Buff": 2
         },
         {
             "_id": 108121,
@@ -12490,7 +13037,8 @@ var _items = [
             "Desc": "A steamed egg dish. The succulent eggs melt right in your mouth, and before you know it, a smooth and subtle sweetness of newly sprung lotus flowers covers your tastebuds.",
             "Eff": "Decreases all party members' sprinting Stamina consumption by 25% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108120",
-            "Recipe": 2106
+            "Recipe": 2106,
+            "Buff": 1
         },
         {
             "_id": 108120,
@@ -12499,7 +13047,8 @@ var _items = [
             "Desc": "A steamed egg dish. The clear, gold colors of the egg custard have been embellished with several lotus roots. Regardless of whether it is breakfast or a post-meal snack, its superior nutritional value can greatly nourish the body.",
             "Eff": "Decreases all party members' sprinting Stamina consumption by 20% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108120",
-            "Recipe": 2106
+            "Recipe": 2106,
+            "Buff": 1
         },
         {
             "_id": 108119,
@@ -12508,7 +13057,8 @@ var _items = [
             "Desc": "A steamed egg dish. The lengthy steaming process has caused unusual honeycomb figure to appear on the surface of the egg custard. It goes without saying that there isn't hardly a hint of bitterness left in the lotus.",
             "Eff": "Decreases all party members' sprinting Stamina consumption by 15% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108120",
-            "Recipe": 2106
+            "Recipe": 2106,
+            "Buff": 1
         },
         {
             "_id": 108118,
@@ -12519,7 +13069,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108118",
             "Recipe": 2005,
             "Avatar": 34,
-            "AI": "UI_AvatarIcon_Noel"
+            "AI": "UI_AvatarIcon_Noel",
+            "Buff": 4
         },
         {
             "_id": 108117,
@@ -12530,7 +13081,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108117",
             "Recipe": 3003,
             "Avatar": 31,
-            "AI": "UI_AvatarIcon_Fischl"
+            "AI": "UI_AvatarIcon_Fischl",
+            "Buff": 2
         },
         {
             "_id": 108116,
@@ -12541,7 +13093,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108116",
             "Recipe": 1003,
             "Avatar": 32,
-            "AI": "UI_AvatarIcon_Bennett"
+            "AI": "UI_AvatarIcon_Bennett",
+            "Buff": 4
         },
         {
             "_id": 108115,
@@ -12552,7 +13105,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108115",
             "Recipe": 2008,
             "Avatar": 29,
-            "AI": "UI_AvatarIcon_Klee"
+            "AI": "UI_AvatarIcon_Klee",
+            "Buff": 3
         },
         {
             "_id": 108114,
@@ -12563,7 +13117,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108114",
             "Recipe": 2007,
             "Avatar": 41,
-            "AI": "UI_AvatarIcon_Mona"
+            "AI": "UI_AvatarIcon_Mona",
+            "Buff": 6
         },
         {
             "_id": 108113,
@@ -12574,7 +13129,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108113",
             "Recipe": 3009,
             "Avatar": 22,
-            "AI": "UI_AvatarIcon_Venti"
+            "AI": "UI_AvatarIcon_Venti",
+            "Buff": 1
         },
         {
             "_id": 108112,
@@ -12583,7 +13139,8 @@ var _items = [
             "Desc": "A simple chowder with a long history. After much careful stewing, the flavors of three different vegetables have been blended to perfection. Like this, it is not hard to imagine why someone once called it \"the best chowder I've ever tasted.\"",
             "Eff": "Decreases all party members' gliding and sprinting Stamina consumption by 25% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108111",
-            "Recipe": 3009
+            "Recipe": 3009,
+            "Buff": 1
         },
         {
             "_id": 108111,
@@ -12592,7 +13149,8 @@ var _items = [
             "Desc": "A simple chowder with a long history. The ingredients are similarly traditional and simple. No matter where you are, a piping-hot chowder of this sort can always give you a sense of real and unsurpassed satisfaction.",
             "Eff": "Decreases all party members' gliding and sprinting Stamina consumption by 20% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108111",
-            "Recipe": 3009
+            "Recipe": 3009,
+            "Buff": 1
         },
         {
             "_id": 108110,
@@ -12601,7 +13159,8 @@ var _items = [
             "Desc": "A simple chowder with a long history. Though the Anemo Archon is said to symbolize freedom, perhaps this dish has been a bit too liberal in the making. Perhaps the name Stormy Stew might be more fitting here.",
             "Eff": "Decreases all party members' gliding and sprinting Stamina consumption by 15% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108111",
-            "Recipe": 3009
+            "Recipe": 3009,
+            "Buff": 1
         },
         {
             "_id": 108109,
@@ -12610,7 +13169,8 @@ var _items = [
             "Desc": "A fish kebab grilled over an open flame. The shimmering golden skin has locked the fresh and tender meat in. You cannot help but sigh in satisfaction as you chew on it. Not a scrap of meat here will go uneaten, not even those stuck firmly to the bamboo stick.",
             "Eff": "Restores 10% of Max HP and an additional 1,200 HP to the selected character.",
             "Icon": "UI_ItemIcon_108108",
-            "Recipe": 1103
+            "Recipe": 1103,
+            "Buff": 0
         },
         {
             "_id": 108108,
@@ -12619,7 +13179,8 @@ var _items = [
             "Desc": "A fish kebab grilled over an open flame. The fish is a fresh catch straight from the harbor, lightly seasoned and swiftly grilled. Its aroma attracts the street cats. Indeed, freshness is the secret of flavor.",
             "Eff": "Restores 9% of Max HP and an additional 1,000 HP to the selected character.",
             "Icon": "UI_ItemIcon_108108",
-            "Recipe": 1103
+            "Recipe": 1103,
+            "Buff": 0
         },
         {
             "_id": 108107,
@@ -12628,7 +13189,8 @@ var _items = [
             "Desc": "A fish kebab grilled over an open flame. You can barely see that this charred lump is indeed grilled fish, and upon further investigation, the fish scales mixed in confirm that this is indeed the case.",
             "Eff": "Restores 8% of Max HP and an additional 800 HP to the selected character.",
             "Icon": "UI_ItemIcon_108108",
-            "Recipe": 1103
+            "Recipe": 1103,
+            "Buff": 0
         },
         {
             "_id": 108106,
@@ -12637,7 +13199,8 @@ var _items = [
             "Desc": "One of Liyue's traditional snacks. The outer skin is as clear as its crystal namesake, and when it enters the mouth, one's tongue could be forgiven for thinking that the fresh shrimp within is still alive. Those who eat it can only lament that four pieces per serving is far, far too few.",
             "Eff": "Restores 22% of Max HP to the selected character and regenerates 470 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108105",
-            "Recipe": 2105
+            "Recipe": 2105,
+            "Buff": 5
         },
         {
             "_id": 108105,
@@ -12646,7 +13209,8 @@ var _items = [
             "Desc": "One of Liyue's traditional snacks. The stuffing is taken from whole fresh shrimp, and the glistening quality of the flour can be guessed at from the translucence of the outer skin. It has a springy, tasty chew.",
             "Eff": "Restores 20% of Max HP to the selected character and regenerates 390 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108105",
-            "Recipe": 2105
+            "Recipe": 2105,
+            "Buff": 5
         },
         {
             "_id": 108104,
@@ -12655,7 +13219,8 @@ var _items = [
             "Desc": "One of Liyue's traditional snacks. The dull outer skin has a rather sticky mouthfeel which, when combined with the dry stuffing within, makes this dish a torment best ended sooner.",
             "Eff": "Restores 18% of Max HP to the selected character and regenerates 300 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108105",
-            "Recipe": 2105
+            "Recipe": 2105,
+            "Buff": 5
         },
         {
             "_id": 108103,
@@ -12664,7 +13229,8 @@ var _items = [
             "Desc": "A crab dish cooked in the ancient ways. The aroma of the crab meat inundates the room the instant it leaves the frying pan, and a single bite fills one's palate with the countless rustic flavors of a fishing village hometown. It seems that such simple yet timeless village customs held the secret to this lavish, golden sumptuousness all along.",
             "Eff": "Increases all party members' DEF by 308 and healing effects by 10% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108102",
-            "Recipe": 4102
+            "Recipe": 4102,
+            "Buff": 3
         },
         {
             "_id": 108102,
@@ -12673,7 +13239,8 @@ var _items = [
             "Desc": "A crab dish cooked in the ancient ways. The crab has been chopped into pieces and battered with flour, before being stir-fried till golden and rich with flavor. It is worthy of the word \"gold,\" whether in terms of appearance or quality.",
             "Eff": "Increases all party members' DEF by 261 and healing effects by 8% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108102",
-            "Recipe": 4102
+            "Recipe": 4102,
+            "Buff": 3
         },
         {
             "_id": 108101,
@@ -12682,7 +13249,8 @@ var _items = [
             "Desc": "A crab dish cooked in the ancient ways. The flour granules within have congealed like gravel, and have some crab shell mixed in. But compared to the blandness of the crab meat, the taste of crab shell is at least worth having a go at.",
             "Eff": "Increases all party members' DEF by 215 and healing effects by 6% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108102",
-            "Recipe": 4102
+            "Recipe": 4102,
+            "Buff": 3
         },
         {
             "_id": 108100,
@@ -12691,7 +13259,8 @@ var _items = [
             "Desc": "Slices of meat stir-fried on high heat. The spiciness is as a blaze amidst a field of snow that ignites your appetite and leaves you craving more.",
             "Eff": "Revives a character and restores 150 HP.",
             "Icon": "UI_ItemIcon_108099",
-            "Recipe": 1102
+            "Recipe": 1102,
+            "Buff": 4
         },
         {
             "_id": 108099,
@@ -12700,7 +13269,8 @@ var _items = [
             "Desc": "Sliced meat flash-fried in a wok. The mild Jueyun Chili adds just the right amount of kick to the delicious aroma of the meat. Perfect as an appetizer and also goes well with rice.",
             "Eff": "Revives a character and restores 100 HP.",
             "Icon": "UI_ItemIcon_108099",
-            "Recipe": 1102
+            "Recipe": 1102,
+            "Buff": 4
         },
         {
             "_id": 108098,
@@ -12709,7 +13279,8 @@ var _items = [
             "Desc": "Slices of meat stir-fried on high heat — but for so long that they are now indistinguishable from the accompanying Jueyun Chili. Best served with rice, if served at all.",
             "Eff": "Revives a character and restores 50 HP.",
             "Icon": "UI_ItemIcon_108099",
-            "Recipe": 1102
+            "Recipe": 1102,
+            "Buff": 4
         },
         {
             "_id": 108097,
@@ -12718,7 +13289,8 @@ var _items = [
             "Desc": "Fish grilled thoroughly with moderate fire, locking the delicious juice inside the meat under the crispy skin. A small bite is all that's needed to unlock its wondrous and delicious taste.",
             "Eff": "Revives a character and restores 150 HP.",
             "Icon": "UI_ItemIcon_108096",
-            "Recipe": 1006
+            "Recipe": 1006,
+            "Buff": 4
         },
         {
             "_id": 108096,
@@ -12727,7 +13299,8 @@ var _items = [
             "Desc": "Fish grilled thoroughly with moderate fire, making it completely dry and crispy. The sprinkled pepper on top brings out the freshness of the fish.",
             "Eff": "Revives a character and restores 100 HP.",
             "Icon": "UI_ItemIcon_108096",
-            "Recipe": 1006
+            "Recipe": 1006,
+            "Buff": 4
         },
         {
             "_id": 108095,
@@ -12736,7 +13309,8 @@ var _items = [
             "Desc": "Fish grilled thoroughly with moderate fire. Sadly, it's a bit too well done. The charred smell and the dry texture are not too impressive.",
             "Eff": "Revives a character and restores 50 HP.",
             "Icon": "UI_ItemIcon_108096",
-            "Recipe": 1006
+            "Recipe": 1006,
+            "Buff": 4
         },
         {
             "_id": 108094,
@@ -12745,7 +13319,8 @@ var _items = [
             "Desc": "A large hunk of minced meat packaged inside a pastry. With a crispy crust and tender meat, this legendary delicacy is so succulent that not even Mora laid in front of you could distract you from enjoying it.",
             "Eff": "Revives a character and restores 150 HP.",
             "Icon": "UI_ItemIcon_108093",
-            "Recipe": 1101
+            "Recipe": 1101,
+            "Buff": 4
         },
         {
             "_id": 108093,
@@ -12754,7 +13329,8 @@ var _items = [
             "Desc": "A large hunk of minced meat packaged inside a pastry. When you split the pastry in two, minced meat spills out. The taste of meat grease is all but gone, and the baking process has brought out the sweetness of the pastry. Such pastries are usually stamped with the word \"Mora,\" all the better to represent wealth and fortune.",
             "Eff": "Revives a character and restores 100 HP.",
             "Icon": "UI_ItemIcon_108093",
-            "Recipe": 1101
+            "Recipe": 1101,
+            "Buff": 4
         },
         {
             "_id": 108092,
@@ -12763,7 +13339,8 @@ var _items = [
             "Desc": "A large hunk of minced meat packaged inside a pastry. The tough pastry shell almost seems to sally out against your teeth as you bite into it. If you fight through the greasiness and only chew on the minced meat, you can sort of taste its flavor.",
             "Eff": "Revives a character and restores 50 HP.",
             "Icon": "UI_ItemIcon_108093",
-            "Recipe": 1101
+            "Recipe": 1101,
+            "Buff": 4
         },
         {
             "_id": 108091,
@@ -12772,7 +13349,8 @@ var _items = [
             "Desc": "A pan-fried meat dish. It combines the essences of the mountains and the nourishments of the celestial bodies. It is a very nutritious dish that will surely bring a smile to your face.",
             "Eff": "Restores 24% of Max HP and an additional 1,500 HP to the selected character.",
             "Icon": "UI_ItemIcon_108090",
-            "Recipe": 2104
+            "Recipe": 2104,
+            "Buff": 0
         },
         {
             "_id": 108090,
@@ -12781,7 +13359,8 @@ var _items = [
             "Desc": "A pan-fried meat dish. Ground meat is put on the Matsutake and gently pan-fried on low heat so the Matsutake can fully take in the aromatic juice of the meat. It's a mouthwatering delicacy in all of its glory.",
             "Eff": "Restores 22% of Max HP and an additional 1,200 HP to the selected character.",
             "Icon": "UI_ItemIcon_108090",
-            "Recipe": 2104
+            "Recipe": 2104,
+            "Buff": 0
         },
         {
             "_id": 108089,
@@ -12790,7 +13369,8 @@ var _items = [
             "Desc": "A pan-fried meat dish. Though the dry and tough texture is miles away from what it could be, the Matsutake is too nutritious to let it go to waste.",
             "Eff": "Restores 20% of Max HP and an additional 900 HP to the selected character.",
             "Icon": "UI_ItemIcon_108090",
-            "Recipe": 2104
+            "Recipe": 2104,
+            "Buff": 0
         },
         {
             "_id": 108088,
@@ -12799,7 +13379,8 @@ var _items = [
             "Desc": "A simple vegetable soup. The mild-tasting soup is filled with the fragrance of fresh vegetables. This down-to-earth and heart-warming soup can rival any luxurious dish.",
             "Eff": "Increases all party members' DEF by 126 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108087",
-            "Recipe": 2103
+            "Recipe": 2103,
+            "Buff": 3
         },
         {
             "_id": 108087,
@@ -12808,7 +13389,8 @@ var _items = [
             "Desc": "A simple vegetable soup. Snapdragon, tofu, and lotus seeds are put into boiling water and simmered. Jewelry Soup earned its luxurious name from the look of the ingredients used, but contrary to its name, the soup is commonly prepared and served in ordinary households.",
             "Eff": "Increases all party members' DEF by 107 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108087",
-            "Recipe": 2103
+            "Recipe": 2103,
+            "Buff": 3
         },
         {
             "_id": 108086,
@@ -12817,7 +13399,8 @@ var _items = [
             "Desc": "A simple vegetable soup. The bland soup and dull vegetables remind you of the dying vegetables on abandoned and barren farmlands.",
             "Eff": "Increases all party members' DEF by 88 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108087",
-            "Recipe": 2103
+            "Recipe": 2103,
+            "Buff": 3
         },
         {
             "_id": 108085,
@@ -12826,7 +13409,8 @@ var _items = [
             "Desc": "Chicken in a dressing, served cold. The chicken is extremely tender, juicy, and sweet. The delicious taste transports you to the realm of dreams.",
             "Eff": "Increases all party members' CRIT Rate by 12% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108084",
-            "Recipe": 2102
+            "Recipe": 2102,
+            "Buff": 6
         },
         {
             "_id": 108084,
@@ -12835,7 +13419,8 @@ var _items = [
             "Desc": "Chicken in a dressing, served cold. The way the dish has been prepared captures the succulence of the chicken perfectly. Beneath the glowing gold skin, the meat has a mildly hot flavor.",
             "Eff": "Increases all party members' CRIT Rate by 9% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108084",
-            "Recipe": 2102
+            "Recipe": 2102,
+            "Buff": 6
         },
         {
             "_id": 108083,
@@ -12844,7 +13429,8 @@ var _items = [
             "Desc": "Chicken in a dressing, served cold. The chicken probably isn't properly marinated, so it's only salty on the outside but bland on the inside. The taste reminds you of water-poached chicken breasts.",
             "Eff": "Increases all party members' CRIT Rate by 6% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108084",
-            "Recipe": 2102
+            "Recipe": 2102,
+            "Buff": 6
         },
         {
             "_id": 108082,
@@ -12853,7 +13439,8 @@ var _items = [
             "Desc": "A dessert made from ground almonds. It has the exquisite look and texture of a piece of white jade, and could pass as an art piece — so much so that you could not entertain the idea of actually eating it.",
             "Eff": "Increases all party members' ATK by 95 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_100428",
-            "Recipe": 2101
+            "Recipe": 2101,
+            "Buff": 2
         },
         {
             "_id": 108081,
@@ -12862,7 +13449,8 @@ var _items = [
             "Desc": "A dessert made out of almond. It has a silky-smooth texture with a long-lasting aroma of almond. It's named tofu only because of its tofu-like shape.",
             "Eff": "Increases all party members' ATK by 81 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_100428",
-            "Recipe": 2101
+            "Recipe": 2101,
+            "Buff": 2
         },
         {
             "_id": 108080,
@@ -12871,7 +13459,8 @@ var _items = [
             "Desc": "A dessert made from ground almonds. The almond milk is chilled without being properly ground and strained. You can only lie to yourself that its rough texture is what makes it special.",
             "Eff": "Increases all party members' ATK by 66 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_100428",
-            "Recipe": 2101
+            "Recipe": 2101,
+            "Buff": 2
         },
         {
             "_id": 108079,
@@ -12880,7 +13469,8 @@ var _items = [
             "Desc": "A hard-to-prepare fish dish. The fish is expertly handled to exhibit an elegant shape; however, the exquisitely balanced sweet-and-sour taste is really where the dish truly comes alive. The culinary skills involved in preparing this dish can impress even the greatest chefs of Liyue.",
             "Eff": "Restores 34% of Max HP and an additional 1,900 HP to the selected character.",
             "Icon": "UI_ItemIcon_108078",
-            "Recipe": 3103
+            "Recipe": 3103,
+            "Buff": 0
         },
         {
             "_id": 108078,
@@ -12889,7 +13479,8 @@ var _items = [
             "Desc": "A hard-to-prepare fish dish. The fish is first completely deboned before crisscross cuts are made on the skin. The fish is then coated in flour and deep-fried to a golden-brown color, then served with ketchup drizzled on top. It is tender and juicy on the inside and crispy on the outside. The dish resembles a squirrel's tail to a certain degree, hence the name.",
             "Eff": "Restores 32% of Max HP and an additional 1,250 HP to the selected character.",
             "Icon": "UI_ItemIcon_108078",
-            "Recipe": 3103
+            "Recipe": 3103,
+            "Buff": 0
         },
         {
             "_id": 108077,
@@ -12898,7 +13489,8 @@ var _items = [
             "Desc": "A hard-to-prepare fish dish. Sure, you can make out the shape of the fish, but you can't see how it's related to any squirrel. It just proves that the more complicated the dish is to prepare, the harder it is to prepare it well.",
             "Eff": "Restores 30% of Max HP and an additional 600 HP to the selected character.",
             "Icon": "UI_ItemIcon_108078",
-            "Recipe": 3103
+            "Recipe": 3103,
+            "Buff": 0
         },
         {
             "_id": 108076,
@@ -12907,7 +13499,8 @@ var _items = [
             "Desc": "A poached fish dish. The fish fillets are so tender and juicy that they almost seem to come alive in your mouth. The sense of loss is so unbearable that when you swallow a piece down, you just have to treat yourself to another.",
             "Eff": "Restores 30% of Max HP to the selected character and regenerates 790 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108075",
-            "Recipe": 3102
+            "Recipe": 3102,
+            "Buff": 5
         },
         {
             "_id": 108075,
@@ -12916,7 +13509,8 @@ var _items = [
             "Desc": "A poached fish dish. The fresh and tasty fish fillets are tender and juicy. The secret to this recipe is adding powdered Violetgrass into the heated oil to give the dish that aromatic scent. It's spicy, but not too spicy.",
             "Eff": "Restores 28% of Max HP to the selected character and regenerates 620 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108075",
-            "Recipe": 3102
+            "Recipe": 3102,
+            "Buff": 5
         },
         {
             "_id": 108074,
@@ -12925,7 +13519,8 @@ var _items = [
             "Desc": "A poached fish dish. It has essentially lost all the taste of the fish itself to the spicy taste of the chili peppers. Only a selected few enjoy such a sensory overload on their tongues.",
             "Eff": "Restores 26% of Max HP to the selected character and regenerates 450 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_108075",
-            "Recipe": 3102
+            "Recipe": 3102,
+            "Buff": 5
         },
         {
             "_id": 108073,
@@ -12934,7 +13529,8 @@ var _items = [
             "Desc": "A seasoned and cooked meat dish. The authentic \"Liyue taste\" of this aromatic dish makes it a comfort food for golden-agers that may bring a tear to their eyes.",
             "Eff": "Decreases all party members' climbing and sprinting Stamina consumption by 25% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108072",
-            "Recipe": 3101
+            "Recipe": 3101,
+            "Buff": 1
         },
         {
             "_id": 108072,
@@ -12943,7 +13539,8 @@ var _items = [
             "Desc": "A seasoned and cooked meat dish. Though it contains animal organ meat and bits and scraps of other things, the strong-flavored seasonings have masked the stench of the meat. Many have had this dish for the entirety of their lives without knowing \"chop suey\" is not actually a swear word in the local language.",
             "Eff": "Decreases all party members' climbing and sprinting Stamina consumption by 20% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108072",
-            "Recipe": 3101
+            "Recipe": 3101,
+            "Buff": 1
         },
         {
             "_id": 108071,
@@ -12952,7 +13549,8 @@ var _items = [
             "Desc": "A seasoned and cooked meat dish. Even if the dish was extremely delicious, it surely doesn't look the part. Even the most popular stalls would have trouble selling this.",
             "Eff": "Decreases all party members' climbing and sprinting Stamina consumption by 15% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_108072",
-            "Recipe": 3101
+            "Recipe": 3101,
+            "Buff": 1
         },
         {
             "_id": 108070,
@@ -12961,7 +13559,8 @@ var _items = [
             "Desc": "An exquisite-looking dish. The sweetness of the ham and the crisp lotus seeds are a match made in heaven. The aromatic broth pours down like the dawning light, caressing your tongue with an unworldly delicious taste.",
             "Eff": "Increases all party members' ATK by 320 and CRIT Rate by 10% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_4004",
-            "Recipe": 4101
+            "Recipe": 4101,
+            "Buff": 2
         },
         {
             "_id": 108069,
@@ -12970,7 +13569,8 @@ var _items = [
             "Desc": "An exquisite-looking dish. The ham's sweetness is locked inside the fresh vegetables, drizzled with a spicy broth. Delicious is an understatement.",
             "Eff": "Increases all party members' ATK by 272 and CRIT Rate by 8% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_4004",
-            "Recipe": 4101
+            "Recipe": 4101,
+            "Buff": 2
         },
         {
             "_id": 108068,
@@ -12979,7 +13579,8 @@ var _items = [
             "Desc": "An exquisite-looking dish. Food ingredients of different degrees of doneness are wrapped in shriveled vegetables. It looks depressing to say the least.",
             "Eff": "Increases all party members' ATK by 224 and CRIT Rate by 6% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_4004",
-            "Recipe": 4101
+            "Recipe": 4101,
+            "Buff": 2
         },
         {
             "_id": 108067,
@@ -12988,7 +13589,8 @@ var _items = [
             "Desc": "A luxurious bake. The scent is so rich and heavenly. You'll only be done once you've licked the plate clean.",
             "Eff": "Revives a character and restores 1,500 HP.",
             "Icon": "UI_ItemIcon_Recipe_2006",
-            "Recipe": 3005
+            "Recipe": 3005,
+            "Buff": 4
         },
         {
             "_id": 108066,
@@ -12997,7 +13599,8 @@ var _items = [
             "Desc": "A luxurious bake. Cracks through the golden outer skin reveal a medley of rosy ham and bright vegetables. How tantalizing!",
             "Eff": "Revives a character and restores 1,200 HP.",
             "Icon": "UI_ItemIcon_Recipe_2006",
-            "Recipe": 3005
+            "Recipe": 3005,
+            "Buff": 4
         },
         {
             "_id": 108065,
@@ -13006,7 +13609,8 @@ var _items = [
             "Desc": "A somewhat luxurious bake. By looking at it, no one can tell what it is made of... or what it lacks.",
             "Eff": "Revives a character and restores 900 HP.",
             "Icon": "UI_ItemIcon_Recipe_2006",
-            "Recipe": 3005
+            "Recipe": 3005,
+            "Buff": 4
         },
         {
             "_id": 108064,
@@ -13015,7 +13619,8 @@ var _items = [
             "Desc": "A meat dish in a sweet honey sauce. The warm honey draws out the flavor of the meat, creating a flavor explosion akin to bathing in the warm summer sun.",
             "Eff": "Decreases all party members' climbing and sprinting Stamina consumption by 25% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_2005",
-            "Recipe": 3004
+            "Recipe": 3004,
+            "Buff": 1
         },
         {
             "_id": 108063,
@@ -13024,7 +13629,8 @@ var _items = [
             "Desc": "A meat dish in a sweet honey sauce. The carrots take the gamey edge off the meat, and the sauce brings it all together sweetly. The perfect warm dish for a cold winter night.",
             "Eff": "Decreases all party members' climbing and sprinting Stamina consumption by 20% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_2005",
-            "Recipe": 3004
+            "Recipe": 3004,
+            "Buff": 1
         },
         {
             "_id": 108062,
@@ -13033,7 +13639,8 @@ var _items = [
             "Desc": "A meat dish in a sweet honey sauce. The sauce has stuck like glue to the meat, forming a homogeneous mass that tastes neither of honey nor meat.",
             "Eff": "Decreases all party members' climbing and sprinting Stamina consumption by 15% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_2005",
-            "Recipe": 3004
+            "Recipe": 3004,
+            "Buff": 1
         },
         {
             "_id": 108061,
@@ -13042,7 +13649,8 @@ var _items = [
             "Desc": "A plate of cold cut meat. The seasoning is just delightful enough to bring out the flavors perfectly. With a mouth full of meaty ecstasy, one worries about nothing.",
             "Eff": "Increases all party members' Physical DMG by 40% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_2004",
-            "Recipe": 3003
+            "Recipe": 3003,
+            "Buff": 2
         },
         {
             "_id": 108060,
@@ -13051,7 +13659,8 @@ var _items = [
             "Desc": "A plate of cold cut meat. An equal balance of bacon, ham and sausage keeps everyone happy.",
             "Eff": "Increases all party members' Physical DMG by 30% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_2004",
-            "Recipe": 3003
+            "Recipe": 3003,
+            "Buff": 2
         },
         {
             "_id": 108059,
@@ -13060,7 +13669,8 @@ var _items = [
             "Desc": "A plate of cold cut meat. Seems a little too cold, probably not good for those with bad teeth or sensitive stomachs.",
             "Eff": "Increases all party members' Physical DMG by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_2004",
-            "Recipe": 3003
+            "Recipe": 3003,
+            "Buff": 2
         },
         {
             "_id": 108058,
@@ -13071,7 +13681,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108058",
             "Recipe": 3008,
             "Avatar": 16,
-            "AI": "UI_AvatarIcon_Diluc"
+            "AI": "UI_AvatarIcon_Diluc",
+            "Buff": 6
         },
         {
             "_id": 108057,
@@ -13080,7 +13691,8 @@ var _items = [
             "Desc": "A rich, meaty dish. Piled in just the right way to be both aesthetically pleasing and delicious all the way through. I wonder if we can pile it a little higher...",
             "Eff": "Increases all party members' CRIT Rate by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_3004",
-            "Recipe": 3008
+            "Recipe": 3008,
+            "Buff": 6
         },
         {
             "_id": 108056,
@@ -13089,7 +13701,8 @@ var _items = [
             "Desc": "A rich, meaty dish. Originally a Mondstadt dish made of steaks, potatoes and cheese, it has since become synonymous with Ludi Harpastum.",
             "Eff": "Increases all party members' CRIT Rate by 15% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_3004",
-            "Recipe": 3008
+            "Recipe": 3008,
+            "Buff": 6
         },
         {
             "_id": 108055,
@@ -13098,7 +13711,8 @@ var _items = [
             "Desc": "A rich, meaty dish. The meat must have been stacked wrong... Yeah, that's it. Now, can this actually be served...?",
             "Eff": "Increases all party members' CRIT Rate by 10% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_3004",
-            "Recipe": 3008
+            "Recipe": 3008,
+            "Buff": 6
         },
         {
             "_id": 108054,
@@ -13107,7 +13721,8 @@ var _items = [
             "Desc": "Sautéed slices of Matsutake. So smooth and fragrant, eating them is like having the bursting vitality of spring absorbed into your stomach.",
             "Eff": "Increases all party members' ATK by 228 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_1007",
-            "Recipe": 3002
+            "Recipe": 3002,
+            "Buff": 2
         },
         {
             "_id": 108053,
@@ -13116,7 +13731,8 @@ var _items = [
             "Desc": "Sautéed slices of Matsutake. Cooked in butter, it's crisp outside yet tender inside. Eat it before someone steals it from you.",
             "Eff": "Increases all party members' ATK by 194 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_1007",
-            "Recipe": 3002
+            "Recipe": 3002,
+            "Buff": 2
         },
         {
             "_id": 108052,
@@ -13125,7 +13741,8 @@ var _items = [
             "Desc": "Sautéed slices of Matsutake. A shame that control of the fire was lost. Best you can do now is try to trick people who didn't see you cooking it into thinking they are just potato chips.",
             "Eff": "Increases all party members' ATK by 160 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_1007",
-            "Recipe": 3002
+            "Recipe": 3002,
+            "Buff": 2
         },
         {
             "_id": 108051,
@@ -13134,7 +13751,8 @@ var _items = [
             "Desc": "A balanced combination of seafood. The crab, mint, and Calla Lily come together perfectly to dance on your tongue. It reminds you of playing barefoot by the lake in summer.",
             "Eff": "Increases all party members' DEF by 235 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_1006",
-            "Recipe": 3001
+            "Recipe": 3001,
+            "Buff": 3
         },
         {
             "_id": 108050,
@@ -13143,7 +13761,8 @@ var _items = [
             "Desc": "A balanced combination of seafood. The delicacy of crab and mint make for a clear soup, and the calla lily brings it a refreshing taste.",
             "Eff": "Increases all party members' DEF by 200 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_1006",
-            "Recipe": 3001
+            "Recipe": 3001,
+            "Buff": 3
         },
         {
             "_id": 108049,
@@ -13152,7 +13771,8 @@ var _items = [
             "Desc": "A balanced combination of seafood. The bitterness of the calla lily, the astringency of the mint, the fishiness of the crab... Getting all the negatives together like this takes skill.",
             "Eff": "Increases all party members' DEF by 165 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_1006",
-            "Recipe": 3001
+            "Recipe": 3001,
+            "Buff": 3
         },
         {
             "_id": 108048,
@@ -13163,7 +13783,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108048",
             "Recipe": 3007,
             "Avatar": 20,
-            "AI": "UI_AvatarIcon_Razor"
+            "AI": "UI_AvatarIcon_Razor",
+            "Buff": 0
         },
         {
             "_id": 108047,
@@ -13172,7 +13793,8 @@ var _items = [
             "Desc": "A fried cake of mashed potatoes. Close your eyes and feel the mild breeze and sweet dew that Mondstadt offers.",
             "Eff": "Restores 34% of Max HP and an additional 1,900 HP to the selected character.",
             "Icon": "UI_ItemIcon_Recipe_3003",
-            "Recipe": 3007
+            "Recipe": 3007,
+            "Buff": 0
         },
         {
             "_id": 108046,
@@ -13181,7 +13803,8 @@ var _items = [
             "Desc": "A fried cake of mashed potatoes. A little bit of pinecone helps give it a nice crunch, and great with a bit of jam. Loved by people of all ages.",
             "Eff": "Restores 32% of Max HP and an additional 1,250 HP to the selected character.",
             "Icon": "UI_ItemIcon_Recipe_3003",
-            "Recipe": 3007
+            "Recipe": 3007,
+            "Buff": 0
         },
         {
             "_id": 108045,
@@ -13190,7 +13813,8 @@ var _items = [
             "Desc": "A fried cake of mashed potatoes. It's said that a hash brown without jam is not worthy of the Mondstadt name... But is this even a hash brown?",
             "Eff": "Restores 30% of Max HP and an additional 600 HP to the selected character.",
             "Icon": "UI_ItemIcon_Recipe_3003",
-            "Recipe": 3007
+            "Recipe": 3007,
+            "Buff": 0
         },
         {
             "_id": 108044,
@@ -13201,7 +13825,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108044",
             "Recipe": 3006,
             "Avatar": 3,
-            "AI": "UI_AvatarIcon_Qin"
+            "AI": "UI_AvatarIcon_Qin",
+            "Buff": 5
         },
         {
             "_id": 108043,
@@ -13210,7 +13835,8 @@ var _items = [
             "Desc": "A pizza covered in cheese and mushrooms. It's a party in your mouth and the cheese and mushrooms invited all their delicious friends.",
             "Eff": "Restores 30% of Max HP to the selected character and regenerates 790 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_Recipe_1005",
-            "Recipe": 3006
+            "Recipe": 3006,
+            "Buff": 5
         },
         {
             "_id": 108042,
@@ -13219,7 +13845,8 @@ var _items = [
             "Desc": "A pizza covered in cheese and mushrooms. When still warm, the cheese becomes stretchy and gooey, making it extremely satisfying to eat.",
             "Eff": "Restores 28% of Max HP to the selected character and regenerates 620 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_Recipe_1005",
-            "Recipe": 3006
+            "Recipe": 3006,
+            "Buff": 5
         },
         {
             "_id": 108041,
@@ -13228,7 +13855,8 @@ var _items = [
             "Desc": "A pizza covered in cheese and mushrooms. If you can bite through the brick-like texture... At least it can ease your hunger.",
             "Eff": "Restores 26% of Max HP to the selected character and regenerates 450 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_Recipe_1005",
-            "Recipe": 3006
+            "Recipe": 3006,
+            "Buff": 5
         },
         {
             "_id": 108040,
@@ -13239,7 +13867,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108040",
             "Recipe": 2004,
             "Avatar": 14,
-            "AI": "UI_AvatarIcon_Barbara"
+            "AI": "UI_AvatarIcon_Barbara",
+            "Buff": 1
         },
         {
             "_id": 108039,
@@ -13248,7 +13877,8 @@ var _items = [
             "Desc": "A meat and vegetable stew. These warm, buttery ingredients are so good that you almost want to dive into the cream stew and cuddle up with them.",
             "Eff": "Decreases all party members' sprinting Stamina consumption by 25% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_2003",
-            "Recipe": 2004
+            "Recipe": 2004,
+            "Buff": 1
         },
         {
             "_id": 108038,
@@ -13257,7 +13887,8 @@ var _items = [
             "Desc": "A meat and vegetable stew. The thick juices taste great with the tender meat and vegetables.",
             "Eff": "Decreases all party members' sprinting Stamina consumption by 20% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_2003",
-            "Recipe": 2004
+            "Recipe": 2004,
+            "Buff": 1
         },
         {
             "_id": 108037,
@@ -13266,7 +13897,8 @@ var _items = [
             "Desc": "A meat and vegetable stew. Surprisingly dry for something that's meant to have liquid.",
             "Eff": "Decreases all party members' sprinting Stamina consumption by 15% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_2003",
-            "Recipe": 2004
+            "Recipe": 2004,
+            "Buff": 1
         },
         {
             "_id": 108036,
@@ -13275,7 +13907,8 @@ var _items = [
             "Desc": "Smoked fowl paired with vegetables. A dish fit for a king. Go on, find one and serve him with pride.",
             "Eff": "Restores 60 Stamina",
             "Icon": "UI_ItemIcon_Recipe_2002",
-            "Recipe": 2003
+            "Recipe": 2003,
+            "Buff": 7
         },
         {
             "_id": 108035,
@@ -13284,7 +13917,8 @@ var _items = [
             "Desc": "Smoked fowl paired with vegetables. A staple for Northerners, often made for honored guests.",
             "Eff": "Restores 50 Stamina",
             "Icon": "UI_ItemIcon_Recipe_2002",
-            "Recipe": 2003
+            "Recipe": 2003,
+            "Buff": 7
         },
         {
             "_id": 108034,
@@ -13293,7 +13927,8 @@ var _items = [
             "Desc": "Smoked fowl paired with vegetables. It's true. You really ought to try your own cooking before serving it to your guests. It's not too late to make a new one, perhaps?",
             "Eff": "Restores 40 Stamina",
             "Icon": "UI_ItemIcon_Recipe_2002",
-            "Recipe": 2003
+            "Recipe": 2003,
+            "Buff": 7
         },
         {
             "_id": 108033,
@@ -13302,7 +13937,8 @@ var _items = [
             "Desc": "Honey-roasted fowl. Tender and sweet, the meat has perfectly fused with the honey, ensuring the only thing left of this dish will be the cleanly-picked bones.",
             "Eff": "Restores 24% of Max HP and an additional 1,500 HP to the selected character.",
             "Icon": "UI_ItemIcon_Recipe_1004",
-            "Recipe": 2002
+            "Recipe": 2002,
+            "Buff": 0
         },
         {
             "_id": 108032,
@@ -13311,7 +13947,8 @@ var _items = [
             "Desc": "Honey-roasted fowl. The honey and sweet flowers come together to complement the tender fowl meat.",
             "Eff": "Restores 22% of Max HP and an additional 1,200 HP to the selected character.",
             "Icon": "UI_ItemIcon_Recipe_1004",
-            "Recipe": 2002
+            "Recipe": 2002,
+            "Buff": 0
         },
         {
             "_id": 108031,
@@ -13320,7 +13957,8 @@ var _items = [
             "Desc": "Honey-roasted fowl. The sweet flowers have been burnt off, revealing the bitter taste of the overcooked fowl.",
             "Eff": "Restores 20% of Max HP and an additional 900 HP to the selected character.",
             "Icon": "UI_ItemIcon_Recipe_1004",
-            "Recipe": 2002
+            "Recipe": 2002,
+            "Buff": 0
         },
         {
             "_id": 108030,
@@ -13329,7 +13967,8 @@ var _items = [
             "Desc": "A vegetable salad. Fresh, light, and varied. You'd never get tired of eating this, even if you had to eat it for the rest of your life.",
             "Eff": "Increases all party members' CRIT Rate by 12% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_4003",
-            "Recipe": 2007
+            "Recipe": 2007,
+            "Buff": 6
         },
         {
             "_id": 108029,
@@ -13338,7 +13977,8 @@ var _items = [
             "Desc": "A vegetable salad. Not just steamed potatoes and fresh vegetables, but also a hard-boiled egg to top it off. Satisfying to both the eyes and stomach.",
             "Eff": "Increases all party members' CRIT Rate by 9% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_4003",
-            "Recipe": 2007
+            "Recipe": 2007,
+            "Buff": 6
         },
         {
             "_id": 108028,
@@ -13347,7 +13987,8 @@ var _items = [
             "Desc": "A vegetable salad. Regrettably, it seems the best time to plate the potatoes and boiled eggs was missed.",
             "Eff": "Increases all party members' CRIT Rate by 6% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_4003",
-            "Recipe": 2007
+            "Recipe": 2007,
+            "Buff": 6
         },
         {
             "_id": 108027,
@@ -13356,7 +13997,8 @@ var _items = [
             "Desc": "Fried Radish Balls. It's insane that something so delicious comes from plain old radishes! All who eat them will truly understand Liyue's culinary reputation.",
             "Eff": "Increases all party members' ATK by 95 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_4002",
-            "Recipe": 2006
+            "Recipe": 2006,
+            "Buff": 2
         },
         {
             "_id": 108026,
@@ -13365,7 +14007,8 @@ var _items = [
             "Desc": "Fried Radish Balls. Fragrant and crispy. Make sure to eat them while they're hot! Said to be a recipe from Liyue.",
             "Eff": "Increases all party members' ATK by 81 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_4002",
-            "Recipe": 2006
+            "Recipe": 2006,
+            "Buff": 2
         },
         {
             "_id": 108025,
@@ -13374,7 +14017,8 @@ var _items = [
             "Desc": "Fried Radish Balls. Way too oily, and leaves you looking for something to drink to cut through the grease.",
             "Eff": "Increases all party members' ATK by 66 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_4002",
-            "Recipe": 2006
+            "Recipe": 2006,
+            "Buff": 2
         },
         {
             "_id": 108024,
@@ -13383,7 +14027,8 @@ var _items = [
             "Desc": "A stack of round pancakes. Tender and fluffy, the sweet-smelling pancakes taste like clouds. A heavenly delicacy, no doubt.",
             "Eff": "Revives a character and restores 550 HP.",
             "Icon": "UI_ItemIcon_Recipe_4001",
-            "Recipe": 2005
+            "Recipe": 2005,
+            "Buff": 4
         },
         {
             "_id": 108023,
@@ -13392,7 +14037,8 @@ var _items = [
             "Desc": "A stack of round pancakes. A staple originating from afternoon tea in manors. Only the best berries should be picked for this dish.",
             "Eff": "Revives a character and restores 400 HP.",
             "Icon": "UI_ItemIcon_Recipe_4001",
-            "Recipe": 2005
+            "Recipe": 2005,
+            "Buff": 4
         },
         {
             "_id": 108022,
@@ -13401,7 +14047,8 @@ var _items = [
             "Desc": "A stack of round pancakes. A burnt scent masks what you can only assume should be a sweet taste. The berries are the only thing saving this dish.",
             "Eff": "Revives a character and restores 250 HP.",
             "Icon": "UI_ItemIcon_Recipe_4001",
-            "Recipe": 2005
+            "Recipe": 2005,
+            "Buff": 4
         },
         {
             "_id": 108021,
@@ -13410,7 +14057,8 @@ var _items = [
             "Desc": "Radish-based vegetable soup. The clear aromas are perfectly accompanied by a sunny summer afternoon.",
             "Eff": "Restores 10% of Max HP to the selected character and regenerates 300 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_Recipe_3002",
-            "Recipe": 1005
+            "Recipe": 1005,
+            "Buff": 5
         },
         {
             "_id": 108020,
@@ -13419,7 +14067,8 @@ var _items = [
             "Desc": "Radish-based vegetable soup. Its flavor is delicately between tart and sweet. With luscious radish, it's a well-balanced dish.",
             "Eff": "Restores 9% of Max HP to the selected character and regenerates 260 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_Recipe_3002",
-            "Recipe": 1005
+            "Recipe": 1005,
+            "Buff": 5
         },
         {
             "_id": 108019,
@@ -13428,7 +14077,8 @@ var _items = [
             "Desc": "Radish-based vegetable soup. The vegetables within appear to have been victims of a frost.",
             "Eff": "Restores 8% of Max HP to the selected character and regenerates 210 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_Recipe_3002",
-            "Recipe": 1005
+            "Recipe": 1005,
+            "Buff": 5
         },
         {
             "_id": 108018,
@@ -13439,7 +14089,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108018",
             "Recipe": 2001,
             "Avatar": 6,
-            "AI": "UI_AvatarIcon_Lisa"
+            "AI": "UI_AvatarIcon_Lisa",
+            "Buff": 5
         },
         {
             "_id": 108017,
@@ -13448,7 +14099,8 @@ var _items = [
             "Desc": "Bolognese covered with a meat sauce. The beautiful, authentic flavors take you on a culinary adventure from the first bite to the last.",
             "Eff": "Restores 22% of Max HP to the selected character and regenerates 470 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_Recipe_1003",
-            "Recipe": 2001
+            "Recipe": 2001,
+            "Buff": 5
         },
         {
             "_id": 108016,
@@ -13457,7 +14109,8 @@ var _items = [
             "Desc": "Bolognese covered with a meat sauce. The meaty, herby aroma really gets your appetite going.",
             "Eff": "Restores 20% of Max HP to the selected character and regenerates 390 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_Recipe_1003",
-            "Recipe": 2001
+            "Recipe": 2001,
+            "Buff": 5
         },
         {
             "_id": 108015,
@@ -13466,7 +14119,8 @@ var _items = [
             "Desc": "Bolognese covered with a meat sauce. A bit chewy and annoyingly sticks to your teeth.",
             "Eff": "Restores 18% of Max HP to the selected character and regenerates 300 HP every 5s for 30s.",
             "Icon": "UI_ItemIcon_Recipe_1003",
-            "Recipe": 2001
+            "Recipe": 2001,
+            "Buff": 5
         },
         {
             "_id": 108014,
@@ -13477,7 +14131,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108014",
             "Recipe": 1001,
             "Avatar": 15,
-            "AI": "UI_AvatarIcon_Kaeya"
+            "AI": "UI_AvatarIcon_Kaeya",
+            "Buff": 0
         },
         {
             "_id": 108013,
@@ -13486,7 +14141,8 @@ var _items = [
             "Desc": "A skewer of mushrooms and poultry. All the best the wild has to offer are pierced on just one stick.",
             "Eff": "Restores 10% of Max HP and an additional 1,200 HP to the selected character.",
             "Icon": "UI_ItemIcon_Recipe_1002",
-            "Recipe": 1001
+            "Recipe": 1001,
+            "Buff": 0
         },
         {
             "_id": 108012,
@@ -13495,7 +14151,8 @@ var _items = [
             "Desc": "A skewer of mushrooms and poultry. Fresh poultry is complimented by fragrant mushrooms. Don't be picky, chow down!",
             "Eff": "Restores 9% of Max HP and an additional 1,000 HP to the selected character.",
             "Icon": "UI_ItemIcon_Recipe_1002",
-            "Recipe": 1001
+            "Recipe": 1001,
+            "Buff": 0
         },
         {
             "_id": 108011,
@@ -13504,7 +14161,8 @@ var _items = [
             "Desc": "A skewer of mushrooms and poultry. At first glance it's hard to tell which is which.",
             "Eff": "Restores 8% of Max HP and an additional 800 HP to the selected character.",
             "Icon": "UI_ItemIcon_Recipe_1002",
-            "Recipe": 1001
+            "Recipe": 1001,
+            "Buff": 0
         },
         {
             "_id": 108010,
@@ -13515,7 +14173,8 @@ var _items = [
             "Icon": "UI_ItemIcon_108010",
             "Recipe": 1004,
             "Avatar": 21,
-            "AI": "UI_AvatarIcon_Ambor"
+            "AI": "UI_AvatarIcon_Ambor",
+            "Buff": 4
         },
         {
             "_id": 108009,
@@ -13524,7 +14183,8 @@ var _items = [
             "Desc": "A grilled steak. Juicy, flavorsome, fragrant steak. One bite and you feel yourself come alive.",
             "Eff": "Revives a character and restores 150 HP.",
             "Icon": "UI_ItemIcon_Recipe_3001",
-            "Recipe": 1004
+            "Recipe": 1004,
+            "Buff": 4
         },
         {
             "_id": 108008,
@@ -13533,7 +14193,8 @@ var _items = [
             "Desc": "A grilled steak. High heat has locked the juices in, giving one high expectations for when the meat is cut open.",
             "Eff": "Revives a character and restores 100 HP.",
             "Icon": "UI_ItemIcon_Recipe_3001",
-            "Recipe": 1004
+            "Recipe": 1004,
+            "Buff": 4
         },
         {
             "_id": 108007,
@@ -13542,7 +14203,8 @@ var _items = [
             "Desc": "A grilled steak. Its color is a little bleak, almost as if it feels sorry for itself for being a sorry excuse for a steak.",
             "Eff": "Revives a character and restores 50 HP.",
             "Icon": "UI_ItemIcon_Recipe_3001",
-            "Recipe": 1004
+            "Recipe": 1004,
+            "Buff": 4
         },
         {
             "_id": 108006,
@@ -13551,7 +14213,8 @@ var _items = [
             "Desc": "An egg fried on one side. With a taste of the summer sun, it invigorates you from the first bite.",
             "Eff": "Revives a character and restores 150 HP.",
             "Icon": "UI_ItemIcon_Recipe_2001",
-            "Recipe": 1003
+            "Recipe": 1003,
+            "Buff": 4
         },
         {
             "_id": 108005,
@@ -13560,7 +14223,8 @@ var _items = [
             "Desc": "An egg fried on one side. The yolk flows out nicely when broken. So satisfying.",
             "Eff": "Revives a character and restores 100 HP.",
             "Icon": "UI_ItemIcon_Recipe_2001",
-            "Recipe": 1003
+            "Recipe": 1003,
+            "Buff": 4
         },
         {
             "_id": 108004,
@@ -13569,7 +14233,8 @@ var _items = [
             "Desc": "An egg fried on one side. A bit hard in the middle. One can only hope it still has its nutrients.",
             "Eff": "Revives a character and restores 50 HP.",
             "Icon": "UI_ItemIcon_Recipe_2001",
-            "Recipe": 1003
+            "Recipe": 1003,
+            "Buff": 4
         },
         {
             "_id": 108003,
@@ -13578,7 +14243,8 @@ var _items = [
             "Desc": "Onion-covered toast. Exudes a wonderful aroma. Are the fish biting for the bait, or is it the toast they're after?",
             "Eff": "Increases all party members' DEF by 126 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_1001",
-            "Recipe": 2008
+            "Recipe": 2008,
+            "Buff": 3
         },
         {
             "_id": 108002,
@@ -13587,7 +14253,8 @@ var _items = [
             "Desc": "Onion-covered toast. A favorite amongst fishermen, they will stuff a bag with it and sit by the river all day.",
             "Eff": "Increases all party members' DEF by 107 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_1001",
-            "Recipe": 2008
+            "Recipe": 2008,
+            "Buff": 3
         },
         {
             "_id": 108001,
@@ -13596,7 +14263,8 @@ var _items = [
             "Desc": "Onion-covered toast. Not quite cooked right. You'll notice its imperfection, even if you eat it while fishing.",
             "Eff": "Increases all party members' DEF by 88 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_1001",
-            "Recipe": 2008
+            "Recipe": 2008,
+            "Buff": 3
         },
         {
             "_id": 100313,
@@ -13605,7 +14273,8 @@ var _items = [
             "Desc": "A balanced combination of seafood. The crab, mint, and Calla Lily come together perfectly to dance on your tongue. It reminds you of playing barefoot by the lake in summer.",
             "Eff": "Increases all party members' DEF by 235 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_1006",
-            "Recipe": 0
+            "Recipe": 0,
+            "Buff": 3
         },
         {
             "_id": 100312,
@@ -13614,7 +14283,8 @@ var _items = [
             "Desc": "Fried Radish Balls. It's insane that something so delicious comes from plain old radishes! All who eat them will truly understand Liyue's culinary reputation.",
             "Eff": "Increases all party members' ATK by 95 for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_4002",
-            "Recipe": 0
+            "Recipe": 0,
+            "Buff": 2
         },
         {
             "_id": 100305,
@@ -13623,7 +14293,8 @@ var _items = [
             "Desc": "A meat dish in a sweet honey sauce. The warm honey draws out the flavor of the meat, creating a flavor explosion akin to bathing in the warm summer sun.",
             "Eff": "Decreases all party members' climbing and sprinting Stamina consumption by 25% for 900s. In Co-Op Mode, this effect only applies to your own character(s).",
             "Icon": "UI_ItemIcon_Recipe_2005",
-            "Recipe": 0
+            "Recipe": 0,
+            "Buff": 1
         },
         {
             "_id": 100244,
@@ -13641,7 +14312,8 @@ var _items = [
             "Desc": "A fruit that grows in warm and damp environments with ample sunlight. Inside this round and rotund fruit hides a sweet and refreshing surprise.",
             "Eff": "Restores 300 HP for the selected character.",
             "Icon": "UI_ItemIcon_101230",
-            "Recipe": 0
+            "Recipe": 0,
+            "Buff": 0
         },
         {
             "_id": 101227,
@@ -13650,7 +14322,8 @@ var _items = [
             "Desc": "A fungus with a cap that resembles a five-pointed star. It seems to be a little singed.",
             "Eff": "Restores 1 HP for the selected character.",
             "Icon": "UI_ItemIcon_101227",
-            "Recipe": 0
+            "Recipe": 0,
+            "Buff": 0
         },
         {
             "_id": 101226,
@@ -13659,7 +14332,8 @@ var _items = [
             "Desc": "A fungus with a cap that resembles a five-pointed star. It seems to be bursting with vitality.",
             "Eff": "Restores 800 HP to the selected character.",
             "Icon": "UI_ItemIcon_101226",
-            "Recipe": 0
+            "Recipe": 0,
+            "Buff": 0
         },
         {
             "_id": 101212,
@@ -13668,7 +14342,8 @@ var _items = [
             "Desc": "A fungus with a cap that resembles a five-pointed star. It is quite hardy indeed. Once it matures, the center of the cap will split open.",
             "Eff": "Restores 300 HP for the selected character.",
             "Icon": "UI_ItemIcon_101212",
-            "Recipe": 0
+            "Recipe": 0,
+            "Buff": 0
         },
         {
             "_id": 100002,
@@ -13677,7 +14352,8 @@ var _items = [
             "Desc": "A plump fruit, beautiful like the sunset, that is abundant across all of Teyvat. It has a curious, sweet aroma and is able to energize an individual.",
             "Eff": "Restores 300 HP for the selected character.",
             "Icon": "UI_ItemIcon_100002",
-            "Recipe": 0
+            "Recipe": 0,
+            "Buff": 0
         },
         {
             "_id": 100001,
@@ -13686,7 +14362,8 @@ var _items = [
             "Desc": "Crisp and fragrant. Delicious raw or made into wine.",
             "Eff": "Restores 300 HP for the selected character.",
             "Icon": "UI_ItemIcon_100001",
-            "Recipe": 0
+            "Recipe": 0,
+            "Buff": 0
         }
     ],
     [
@@ -15893,3 +16570,15 @@ var index_namecard = {
     "210002": 188,
     "210001": 189
 }
+
+var _BUFFICON = [
+    "UI_Buff_Item_Recovery_HpAdd",
+    "UI_Buff_Item_Other_SPReduceConsume",
+    "UI_Buff_Item_Atk_Add",
+    "UI_Buff_Item_Def_Add",
+    "UI_Buff_Item_Recovery_Revive",
+    "UI_Buff_Item_Recovery_HpAddAll",
+    "UI_Buff_Item_Atk_CritRate",
+    "UI_Buff_Item_Other_SPAdd",
+    "UI_Buff_Item_Climate_Heat"
+]

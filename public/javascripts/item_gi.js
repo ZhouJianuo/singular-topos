@@ -191,7 +191,12 @@ $(function () {
                             class: 'item-name'
                         },
                         class: 'item-down'
-                    }
+                    },
+                    {
+                        img: imgpre + 'images/food_buffs/' + _BUFFICON[t.Buff] + '.png',
+                        class: 'buff-icon',
+                        when: t.Buff != undefined
+                    },
                 ],
                 class: 'item-card hover-shadow',
                 style: {

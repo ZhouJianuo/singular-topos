@@ -240,6 +240,14 @@ schedule {
     font-family: 'Arial';
 }
 
+.buff-icon {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 3px;
+    right: 3px;
+}
+
 @media screen and (min-width: 500px) and (max-width: 800px) {
     .rar schedule {
         font-size: 15px;
