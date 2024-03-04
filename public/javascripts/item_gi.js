@@ -99,7 +99,7 @@ $(function () {
                             },
                             {
                                 schedule: {
-                                    img: imgpre + 'images/Item/UI_ItemIcon_114060.png',
+                                    img: imgpre + 'images/Item/UI_ItemIcon_114020.png',
                                 },
                                 class: (I_TYPE == '4') ? 'active' : '',
                                 a: {
