@@ -222,10 +222,7 @@ $(function () {
                 },
                 {
                     p: this_item.Desc,
-                    class: 'desc',
-                    style: {
-                        'text-align': 'center'
-                    }
+                    class: 'desc'
                 },
                 {
                     hr: '',
