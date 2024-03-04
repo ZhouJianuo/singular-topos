@@ -295,7 +295,10 @@ $(function () {
                             class: 'monicon_num'
                         }
                     ],
-                    class: 'recipe-icon'
+                    class: 'recipe-icon item-jump hover-shadow',
+                    a: {
+                        'data-id': this_recipe[j]
+                    }
                 })
             }
         }
@@ -307,10 +310,21 @@ $(function () {
                         img: imgpre + 'homdgcat-res/Avatar/' + this_item.AI + '.png',
                     },
                 ],
-                class: 'recipe-icon'
+                class: 'recipe-icon avatar-jump hover-shadow',
+                a: {
+                    'data-id': this_item.Avatar
+                }
             })
         }
 
     }
+
+    $('body').on('click', '.item-jump', function () {
+        window.open(`item/${$(this).attr('data-id')}`)
+    })
+
+    $('body').on('click', '.avatar-jump', function () {
+        window.open(`char/${$(this).attr('data-id')}`)
+    })
 
 })
