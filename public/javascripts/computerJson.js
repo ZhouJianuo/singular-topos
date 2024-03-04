@@ -10,13 +10,18 @@ var computer_ = {
             "EN": "HomDGCat Wiki",
             "RU": "HomDGCat Wiki"
         },
+        "Affix": {
+            "CH": " | <color style='color:#0066FF;'>玉衡杯数据库 homdgcat.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color> | <color style='color:#0066FF;'>b站@妮可少女</color>",
+            "EN": " | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
+            "RU": " | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
+        },
         "Subtitle": {
             "CH": "<p><b>homdgcat.wiki | <span style='white-space:pre;'><a href='http://t.me/homdgcat' target='_blank'>t.me/homdgcat</a></span></b></p>",
             "EN": "<p><b>homdgcat.wiki | <span style='white-space:pre;'><a href='http://t.me/homdgcat' target='_blank'>t.me/homdgcat</a></span></b></p>",
             "RU": "<p><b>homdgcat.wiki | <span style='white-space:pre;'><a href='http://t.me/homdgcat' target='_blank'>t.me/homdgcat</a></span></b></p>"
         },
         "Subtitle_": {
-            "CH": "<p><b>玉衡杯数据库 - bilibili@妮可少女 | t.me/homdgcat</b></p>",
+            "CH": "<p><b>玉衡杯数据库 - b站@妮可少女 | t.me/homdgcat</b></p>",
             "EN": "<p><b>HomDGCat Wiki - t.me/homdgcat</b></p>",
             "RU": "<p><b>HomDGCat Wiki - t.me/homdgcat</b></p>"
         },
@@ -190,7 +195,7 @@ var computer_ = {
             "RU": "Сбросить"
         },
         "Computer_ScaleHP_TutorialTitle": {
-            "CH": "抗性和等效血量 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "CH": "抗性和等效血量 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>b站@妮可少女</color>",
             "EN": "RES and Scaled HP | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
             "RU": "Сопротивление и масштабирование ХП | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
@@ -240,12 +245,12 @@ var computer_ = {
             "RU": "О весе и стойкости"
         },
         "Computer_Result_Button_BallIntro2": {
-            "CH": "产球能量简介 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "CH": "产球能量简介 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>b站@妮可少女</color>",
             "EN": "Par & Energy Intro | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
             "RU": "О энергии и частицах | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
         "Computer_Result_Button_WeightEndureIntro2": {
-            "CH": "韧性力学简介 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "CH": "韧性力学简介 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>b站@妮可少女</color>",
             "EN": "Weight & Poise Intro | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
             "RU": "О весе и стойкости | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
@@ -285,27 +290,27 @@ var computer_ = {
             "RU": "Врожденный элемент"
         },
         "Computer_Result_Button_Tutorial2": {
-            "CH": "机制解析 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "CH": "机制解析 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>b站@妮可少女</color>",
             "EN": "Monster Mechanics | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
             "RU": "Механики противника | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
         "Computer_Result_Button_SkillDMG2": {
-            "CH": "技能伤害 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "CH": "技能伤害 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>b站@妮可少女</color>",
             "EN": "Skill DMG | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
             "RU": "Урон умений | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
         "Computer_Result_Button_SkillData2": {
-            "CH": "招式信息 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "CH": "招式信息 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>b站@妮可少女</color>",
             "EN": "Skill Data | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
             "RU": "Описание умений | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
         "Computer_Result_Button_Loot2": {
-            "CH": "材料掉率 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "CH": "材料掉率 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>b站@妮可少女</color>",
             "EN": "Loot Drop Rate | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
             "RU": "Шанс выпадения | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
         "Computer_Result_Button_Element2": {
-            "CH": "自带附着 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "CH": "自带附着 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>b站@妮可少女</color>",
             "EN": "Innate Element | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
             "RU": "Врожденный элемент | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
@@ -350,7 +355,7 @@ var computer_ = {
             "RU": "Защита персонажа "
         },
         "Computer_SkillDMG_Title": {
-            "CH": "怪物伤害计算器 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "CH": "怪物伤害计算器 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>mons.wiki</color> | <color style='color:#0066FF;'>b站@妮可少女</color>",
             "EN": "Monster DMG Calculator | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
             "RU": "Калькулятор урона противника | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.mons.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
@@ -528,7 +533,7 @@ var computer_ = {
             "RU": "<color style='color:#FF0000'>Позиции врагов</color>"
         },
         "Avatar_Table_Title_Extra": {
-            "CH": " | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>char.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "CH": " | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>char.wiki</color> | <color style='color:#0066FF;'>b站@妮可少女</color>",
             "EN": " | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.char.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
             "RU": " | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>en.char.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
@@ -1164,7 +1169,7 @@ var computer_ = {
             "RU": "<b>Все достижения</b>"
         },
         "Ach_Extra": {
-            "CH": " | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "CH": " | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>b站@妮可少女</color>",
             "EN": " | <color style='color:#0066FF;'>HomDGCat Wiki</color> | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
             "RU": " | <color style='color:#0066FF;'>HomDGCat Wiki</color> | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },
@@ -1235,7 +1240,7 @@ var computer_ = {
             }
         ],
         "MS_HP_Title": {
-            "CH": "护盾血量 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color>",
+            "CH": "护盾血量 | <color style='color:#0066FF;'>玉衡杯数据库 www.yuhengcup.top/wiki</color> | <color style='color:#0066FF;'>b站@妮可少女</color>",
             "EN": "Shield HP | <color style='color:#0066FF;'>HomDGCat Wiki</color> | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
             "RU": "ХП щита | <color style='color:#0066FF;'>HomDGCat Wiki</color> | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
         },

@@ -5,7 +5,7 @@ var txt = {
         "RU": "HomDGCat Wiki"
     },
     "Affix": {
-        "CH": " | <color style='color:#0066FF;'>玉衡杯数据库 homdgcat.wiki</color> | <color style='color:#0066FF;'>bilibili@妮可少女</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>",
+        "CH": " | <color style='color:#0066FF;'>玉衡杯数据库 homdgcat.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color> | <color style='color:#0066FF;'>b站@妮可少女</color>",
         "EN": " | <color style='color:#0066FF;'>homdgcat.wiki</color> | <color style='color:#0066FF;'>t.me/homdgcat</color>"
     },
     "Subtitle": {
@@ -264,7 +264,7 @@ var txt = {
         "EN": "Pure Fiction"
     },
     "HS": {
-        "CH": "<p><b>玉衡杯数据库 - bilibili@妮可少女 | t.me/homdgcat</b></p>",
+        "CH": "<p><b>玉衡杯数据库 - b站@妮可少女 | t.me/homdgcat</b></p>",
         "EN": "<p><b>HomDGCat Wiki - t.me/homdgcat</b></p>"
     },
     "Links_": {
