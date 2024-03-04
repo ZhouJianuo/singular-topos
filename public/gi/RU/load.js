@@ -2981,7 +2981,7 @@ var _LoadTip = [
             {
                 "_id": 1134,
                 "Name": "Quests",
-                "Desc": "#In the Quest Menu, {LAYOUT_MOBILE#tap}{LAYOUT_PC#click}{LAYOUT_PS#press} the small button on the right side of a quest entry to toggle its pin on the map.",
+                "Desc": "In the Quest Menu, {LAYOUT_MOBILE#tap}{LAYOUT_PC#click}{LAYOUT_PS#press} the small button on the right side of a quest entry to toggle its pin on the map.",
                 "Stage": [
                     1,
                     2,

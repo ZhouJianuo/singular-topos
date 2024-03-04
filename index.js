@@ -439,6 +439,60 @@ app.get('/gi/geography', async (req, res) => {
     res.render('codex', result);
 });
 
+app.get('/gi/item', async (req, res) => {
+    let result = {};
+    let { lang = '', id = '' } = req.query;
+    result.lang = lang;
+    result.avid = id;
+    result.imgpre = '../';
+    res.render('item_gi', result);
+});
+
+app.get('/gi/item/:id', async (req, res) => {
+    let result = {};
+    let { lang = '' } = req.query;
+    result.lang = lang;
+    result.avid = req.params.id;
+    result.imgpre = '../../';
+    res.render('item_gi', result);
+});
+
+app.get('/gi/items', async (req, res) => {
+    let result = {};
+    let { lang = '', id = '' } = req.query;
+    result.lang = lang;
+    result.avid = id;
+    result.imgpre = '../';
+    res.render('item_gi', result);
+});
+
+app.get('/gi/items/:id', async (req, res) => {
+    let result = {};
+    let { lang = '' } = req.query;
+    result.lang = lang;
+    result.avid = req.params.id;
+    result.imgpre = '../../';
+    res.render('item_gi', result);
+});
+
+app.get('/gi/event', async (req, res) => {
+    let result = {};
+    let { lang = '', id = '' } = req.query;
+    result.lang = lang;
+    result.avid = id;
+    result.imgpre = '../';
+    res.render('event_gi', result);
+});
+
+app.get('/gi/events', async (req, res) => {
+    let result = {};
+    let { lang = '', id = '' } = req.query;
+    result.lang = lang;
+    result.avid = id;
+    result.imgpre = '../';
+    res.render('event_gi', result);
+});
+
 const PORT = process.env.PORT | 8080
 app.listen(PORT);
 

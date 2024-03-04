@@ -123,6 +123,19 @@ var GI = [
     },
     {
         "Title": {
+            "CH": "材料 食物 名片",
+            "EN": "Materials Food Namecards",
+            "RU": "Материал Еда Именные карта"
+        },
+        "Features": [],
+        "Href": {
+            "CH": "/gi/item",
+            "EN": "/gi/item",
+            "RU": "/gi/item"
+        }
+    },
+    {
+        "Title": {
             "CH": "成就",
             "EN": "Achievements",
             "RU": "Достижения"
@@ -132,6 +145,19 @@ var GI = [
             "CH": "/gi/ach",
             "EN": "/gi/ach",
             "RU": "/gi/ach"
+        }
+    },
+    {
+        "Title": {
+            "CH": "活动",
+            "EN": "Events",
+            "RU": "Событие"
+        },
+        "Features": [],
+        "Href": {
+            "CH": "/gi/event",
+            "EN": "/gi/event",
+            "RU": "/gi/event"
         }
     },
     {
@@ -147,7 +173,6 @@ var GI = [
             "RU": "/gi/load"
         }
     },
-    
     {
         "Title": {
             "CH": "地理志",

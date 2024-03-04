@@ -65,6 +65,16 @@ var computer_ = {
             "EN": "<a class='translate_' href='/gi/geo?lang=CH'><b>中文</b></a> | <b>English</b> | <a class='translate_' href='/gi/geo?lang=RU'><b>Русский</b></a>",
             "RU": "<a class='translate_' href='/gi/geo?lang=CH'><b>中文</b></a> | <a class='translate_' href='/gi/geo?lang=EN'><b>English</b></a> | <b>Русский</b>"
         },
+        "Translate_Item": {
+            "CH": "<b>中文</b> | <a class='translate_' href='/gi/item?lang=EN'><b>English</b></a> | <a class='translate_' href='/gi/item?lang=RU'><b>Русский</b></a>",
+            "EN": "<a class='translate_' href='/gi/item?lang=CH'><b>中文</b></a> | <b>English</b> | <a class='translate_' href='/gi/item?lang=RU'><b>Русский</b></a>",
+            "RU": "<a class='translate_' href='/gi/item?lang=CH'><b>中文</b></a> | <a class='translate_' href='/gi/item?lang=EN'><b>English</b></a> | <b>Русский</b>"
+        },
+        "Translate_Event": {
+            "CH": "<b>中文</b> | <a class='translate_' href='/gi/event?lang=EN'><b>English</b></a> | <a class='translate_' href='/gi/event?lang=RU'><b>Русский</b></a>",
+            "EN": "<a class='translate_' href='/gi/event?lang=CH'><b>中文</b></a> | <b>English</b> | <a class='translate_' href='/gi/event?lang=RU'><b>Русский</b></a>",
+            "RU": "<a class='translate_' href='/gi/event?lang=CH'><b>中文</b></a> | <a class='translate_' href='/gi/event?lang=EN'><b>English</b></a> | <b>Русский</b>"
+        },
         "Abyss_Reminder": {
             "CH": "<color style='color:#0066FF;'>玉衡杯数据库 abyss.wiki</color>",
             "EN": "<color style='color:#0066FF;'>homdgcat.wiki | t.me/homdgcat</color>",
@@ -1276,7 +1286,17 @@ var computer_ = {
             "CH": "点击对话框开始对话",
             "EN": "Click on a bubble to start chatting",
             "RU": "Нажмите на пузырь, чтобы начать общение"
-        }
+        },
+        "Event_Story": {
+            "CH": " 简介 ",
+            "EN": " Introduction ",
+            "RU": " Введение "
+        },
+        "Event_Tutorial": {
+            "CH": " 图片 ",
+            "EN": " Pictures ",
+            "RU": " Картинки "
+        },
     },
     "LevelCurves": {
         "1": {
@@ -6314,6 +6334,18 @@ var links = [
     },
     {
         "Name": {
+            "CH": "材料 食物 名片",
+            "EN": "Materials Food Namecards",
+            "RU": "Материал Еда Именные карта"
+        },
+        "Link": {
+            "CH": "/gi/item",
+            "EN": "/gi/item",
+            "RU": "/gi/item"
+        }
+    },
+    {
+        "Name": {
             "CH": "成就",
             "EN": "Achievements",
             "RU": "Достижения"
@@ -6322,6 +6354,18 @@ var links = [
             "CH": "/gi/ach",
             "EN": "/gi/ach",
             "RU": "/gi/ach"
+        }
+    },
+    {
+        "Name": {
+            "CH": "活动",
+            "EN": "Events",
+            "RU": "Событие"
+        },
+        "Link": {
+            "CH": "/gi/event",
+            "EN": "/gi/event",
+            "RU": "/gi/event"
         }
     },
     {

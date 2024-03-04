@@ -248,8 +248,8 @@ schedule {
 }
 
 .tut {
-    width: calc(100% - 20px);
-    padding: 20px 10px;
+    width: 100%;
+    padding: 20px 0px;
 }
 
 .tut_img {
@@ -271,6 +271,7 @@ schedule {
     }
     .tut {
         width: calc(100% - 20px);
+        padding: 20px 10px;
     }
     .plus, .info {
         font-size: 23px;
@@ -316,6 +317,7 @@ schedule {
     }
     .tut {
         width: calc(50% - 20px);
+        padding: 20px 10px;
     }
     .plus, .info {
         font-size: 26px;

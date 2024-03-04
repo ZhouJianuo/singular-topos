@@ -16389,7 +16389,7 @@ var _AvatarCostumeConfig = {
             {
                 "ID": 0,
                 "Name": "A Wrathful Void",
-                "Desc": "#{REALNAME[ID(1)]}'s outfit. An ascetic's garb and hat can provide the wanderer some shelter from the rain, but they can do nothing to quell the winds and storms raging within.",
+                "Desc": "{REALNAME[ID(1)]}'s outfit. An ascetic's garb and hat can provide the wanderer some shelter from the rain, but they can do nothing to quell the winds and storms raging within.",
                 "Icon": "",
                 "Quality": 0
             }
@@ -16709,573 +16709,459 @@ var _AvatarCostumeConfig = {
 var _MaterialConfig = {
     "100021": {
         "Icon": "UI_ItemIcon_100021",
-        "Text": "<b>Wolfhook</b>",
-        "Desc": "A berry with thorns that often gets attached to a wolf's pelt. When you look at it, you can almost hear the echoing cries of the wolves in the woods. Wolfhook has medicinal properties useful in treating minor illnesses. Although, in its original form, it can also harm careless people or animals...<br>- Found in the wild<br>- Recommendation: Found in Wolvendom"
+        "Text": "<b>Wolfhook</b>"
     },
     "100022": {
         "Icon": "UI_ItemIcon_100022",
-        "Text": "<b>Valberry</b>",
-        "Desc": "A plump and translucent berry that has a fragrant smell and a sweet, refreshing taste. In the past, the storm watchers' only solace was the sweetness of this fruit and hope for the city's peace.<br>- Found in the wild<br>- Recommendation: Found on Stormbearer Mountains"
+        "Text": "<b>Valberry</b>"
     },
     "100023": {
         "Icon": "UI_ItemIcon_100023",
-        "Text": "<b>Cecilia</b>",
-        "Desc": "A beautiful flower with a name that suits its appearance. It only grows where harsh winds blow, and is just as intangible as the true heart of an unbound soul.<br>- Found in the wild<br>- Recommendation: Found on Starsnatch Cliff"
+        "Text": "<b>Cecilia</b>"
     },
     "100024": {
         "Icon": "UI_ItemIcon_100024",
-        "Text": "<b>Windwheel Aster</b>",
-        "Desc": "A plant that adores the wind. To the proud children of the wind, or the citizens of Mondstadt, the Windwheel Asters are \"the visible winds.\"<br>- Found near the Statue of The Seven at Windrise<br>- Found under trees in the wild<br>- Recommendation: Found in Stormterror's Lair"
+        "Text": "<b>Windwheel Aster</b>"
     },
     "100025": {
         "Icon": "UI_ItemIcon_100025",
-        "Text": "<b>Philanemo Mushroom</b>",
-        "Desc": "A fungus that grows in the warm caress of the wind. It is as everlasting as the wind, nourishing life.<br>- Found under the eaves of houses"
+        "Text": "<b>Philanemo Mushroom</b>"
     },
     "100027": {
         "Icon": "UI_ItemIcon_100027",
-        "Text": "<b>Jueyun Chili</b>",
-        "Desc": "A spicy plant native to Liyue. Merely smelling it makes one hot and thirsty. Despite \"Jueyun\" being a part of its name, it does not usually grow in Jueyun Karst.<br>The name seems to originate from its spiciness, which makes people want to run to the highest peaks of Jueyun and cool their mouths with chilly air.<br>- Found in the wild<br>- Recommendation: Found in Qingce Village"
+        "Text": "<b>Jueyun Chili</b>"
     },
     "100028": {
         "Icon": "UI_ItemIcon_100028",
-        "Text": "<b>Noctilucous Jade</b>",
-        "Desc": "A rare mineral that glimmers in the dark. It's said to be a mutated gemstone condensed from the flourishing elements of the world.<br>- Found in caves in Liyue<br>- Recommendation: Found in Mingyun Village"
+        "Text": "<b>Noctilucous Jade</b>"
     },
     "100029": {
         "Icon": "UI_ItemIcon_100029",
-        "Text": "<b>Silk Flower</b>",
-        "Desc": "A crimson flower that blooms like the rainbow clouds in Liyue. It can be made into silky-smooth fabric. Liyue's Feiyun Commerce Guild is a giant in silk and textile manufacturing. Legend has it that Feiyun Commerce Guild has a secret Silk Flower nursery somewhere in the mainland. Nobody in the industry can rival their yield and texture.<br>- Found near Yujing Terrace, Liyue Harbor<br>- Found near Wangshu Inn<br>- Recommendation: Found in Liyue Harbor"
+        "Text": "<b>Silk Flower</b>"
     },
     "100030": {
         "Icon": "UI_ItemIcon_100030",
-        "Text": "<b>Glaze Lily</b>",
-        "Desc": "An extremely ancient flower, said to have once been a common sight in Liyue. It transforms the memories of the land into its fragrance during florescence. Legend has it that the flower will open at the sound of pure, beautiful music, and that there was once one who loved this flower more than any other. Now, however, the sight of a Glaze Lily in full bloom out in the wild is a rare one indeed.<br>- Found in the wild<br>- Recommendation: Found in Yujing Terrace, Liyue Harbor<br>- Recommendation: Found in Qingce Village"
+        "Text": "<b>Glaze Lily</b>"
     },
     "100031": {
         "Icon": "UI_ItemIcon_100031",
-        "Text": "<b>Qingxin</b>",
-        "Desc": "A translucent white flower that only grows on the highest stone peaks. It eschews the warmth and moisture of the plains to gaze out afar from the solitary mountaintops.<br>- Found in the heights of stone forests<br>- Recommendation: Found in Jueyun Karst<br>- Recommendation: Found in Guyun Stone Forest"
+        "Text": "<b>Qingxin</b>"
     },
     "100033": {
         "Icon": "UI_ItemIcon_100033",
-        "Text": "<b>Starconch</b>",
-        "Desc": "Empty seashells brought ashore by the tides. Hold it close to your ear, and hear the longing calls of the sea.<br>- Found on the beaches of Liyue"
+        "Text": "<b>Starconch</b>"
     },
     "100034": {
         "Icon": "UI_ItemIcon_100034",
-        "Text": "<b>Violetgrass</b>",
-        "Desc": "A small flower with strong vitality. It is said that its downward-blooming flower keeps its fragrance from dissipating.<br>- Found near cliffs in Liyue"
+        "Text": "<b>Violetgrass</b>"
     },
     "100055": {
         "Icon": "UI_ItemIcon_100055",
-        "Text": "<b>Small Lamp Grass</b>",
-        "Desc": "A wild grass that emits light at night. Used in cooking to enhance other flavors. Just as the subtle fragrance of wild flowers will not distract a focused person, Small Lamp Grass' delicate glow will not attract their attention either, even at night.<br>- Found in the wild at night<br>- Recommendation: Found in Wolvendom<br>- Recommendation: Found in the Whispering Woods"
+        "Text": "<b>Small Lamp Grass</b>"
     },
     "100056": {
         "Icon": "UI_ItemIcon_100056",
-        "Text": "<b>Calla Lily</b>",
-        "Desc": "A flower that grows near water sources. When cooked, the petals have a chunky texture, yet are sweet and a little bitter. Modern medicine recognizes Calla Lily's antidotal properties, but its astringent flavor is repulsive to many people.<br>- Found near lakes<br>- Recommendation: Found in Springvale"
+        "Text": "<b>Calla Lily</b>"
     },
     "100057": {
         "Icon": "UI_ItemIcon_100057",
-        "Text": "<b>Dandelion Seed</b>",
-        "Desc": "A tiny seed that rides on the wind. Even without its feathered wings, it still holds the hope from afar within. In a sense, the dandelion represents the romantic spirit of love and freedom. In the land of the wind, where dandelions are found in abundance, people use dandelions in wine making. Experts in local folklore believe that in ancient times, wine brewed from dandelions had a strong symbolic meaning.<br>- Found in the wild<br>- Recommendation: Found at Mondstadt gates"
+        "Text": "<b>Dandelion Seed</b>"
     },
     "100058": {
         "Icon": "UI_ItemIcon_100058",
-        "Text": "<b>Cor Lapis</b>",
-        "Desc": "A precious crystal of condensed pure Geo element that usually grows along with other minerals. It's also commonly called \"Cor Petrae.\"<br>- Found under cliffs in Liyue<br>- Recommendation: Found on Mt. Hulao"
+        "Text": "<b>Cor Lapis</b>"
     },
     "101201": {
         "Icon": "UI_ItemIcon_101201",
-        "Text": "<b>Onikabuto</b>",
-        "Desc": "A strange beetle that inhabits areas rich with Electro energy. Its docile and sedentary temperament could not be more different from the fierce, demonic visage displayed on its armored shell.<br>Inazuman folktales say that when the gods were apportioning territory to the many animals, the onikabuto, who detested conflict, chose first to live in lands saturated in Electro. As many years passed, it evolved bizarre patterns with which to frighten trespassers and developed horns that could release electricity to deter predators. Yet though it wears armor and bears horns, the onikabuto hates fighting most of all animals.<br>- Found in the wild<br>- Recommendation: Found on Narukami Island<br>- Recommendation: Found in Tatarasuna"
+        "Text": "<b>Onikabuto</b>"
     },
     "101202": {
         "Icon": "UI_ItemIcon_101202",
-        "Text": "<b>Sakura Bloom</b>",
-        "Desc": "A petal that has fallen from the Grand Narukami Shrine's Sacred Sakura. They float in mid-air due to the effect of Electro energies.<br>Legend holds that the roots of Thunder Sakura are linked deep beneath the earth. Should you trace these roots, you will always come back to this sacred sakura tree that stands guard over Inazuma. Some other legends have it that the Thunder Sakura are part of the Almighty Narukami Ogosho, the result of her splitting her divine form into parts, all the better to defend those under her rule with.<br>- Found in the wild<br>- Recommendation: Found on Narukami Island"
+        "Text": "<b>Sakura Bloom</b>"
     },
     "101203": {
         "Icon": "UI_ItemIcon_101203",
-        "Text": "<b>Crystal Marrow</b>",
-        "Desc": "A crystal that contains a sliver of Tatarigami power. Adding this material during smelting will greatly increase the strength and toughness of metals.<br>In Inazuma, \"Tatarigami\" refers to the corpse of a divine being and the strange phenomena it creates. They say that before the god that created Crystal Marrow became the Tatarigami, it had many names, one of which was \"Orobashi no Mikoto.\" Orobashi no Mikoto's body was as long as the winding seashore, and its voice was so resounding that only the Dark Sea could absorb it. Yet in the end, it too was cut down together with Yashiori Island itself.<br>- Found in the wild<br>- Recommendation: Found on Yashiori Island"
+        "Text": "<b>Crystal Marrow</b>"
     },
     "101204": {
         "Icon": "UI_ItemIcon_101204",
-        "Text": "<b>Dendrobium</b>",
-        "Desc": "A vibrant plant that has also been named \"lycoris\" by the poets. It was once thought extinct in the Inazuman archipelago, only to re-emerge now upon the battlefields. It is said that it blooms most enchantingly where much blood was spilled.<br>Though it is very rare and expensive, this plant is regarded as ominous, and thus is little purchased. Rumor has it that these plants are watered using blood. The bloodier and more brutal the battlefield, the more lovely the dendrobium blooms shall be. Inazumans believe that the souls of the fallen shall follow the winding paths of the bloodied dendrobiums into the next life, thus rejoining the eternal elemental cycle. But as for those who doubt or are perplexed by \"eternity,\" they shall be shackled to the earth, becoming another enchantingly red flower amid the vermillion fields.<br>- Found in the wild<br>- Recommendation: Found on Nazuchi Beach"
+        "Text": "<b>Dendrobium</b>"
     },
     "101205": {
         "Icon": "UI_ItemIcon_101205",
-        "Text": "<b>Naku Weed</b>",
-        "Desc": "Even on windless days, this plant will tremble lightly amid the cries of thunder. The parts of it that resemble petals are in fact extensions of the leaves meant to protect the fragile flower.<br>The Naku Weed grows strongly in areas saturated with Electro energy. Due to its great affinity for lightning, it is often used by residents to predict storms. Stories tell that these plants are what the bake-danuki Ioroi stole from the Shogun's very own garden using its powers, before planting them throughout the islands. Even long after its punishment and disappearance, people still speak of Ioroi's many deeds.<br>- Found in the wild<br>- Recommendation: Found in Tatarasuna"
+        "Text": "<b>Naku Weed</b>"
     },
     "101206": {
         "Icon": "UI_ItemIcon_101206",
-        "Text": "<b>Sea Ganoderma</b>",
-        "Desc": "A plant species that only grows in certain regions and islands of the ocean. Though it looks like a fungus of some sort, it actually comes from a substance secreted by certain soft-bodied organisms.<br>In the folktales told in a certain land, these mouthless, noseless creatures are the transformed souls of children who died young. As a form of punishment, they must spend endless years absorbing the elements within the sand and sea using their fragile bodies, piling them up and forming \"Sea Ganoderma.\" And once the Ganoderma are fully formed, they shall be harvested.<br>- Found in Inazuman seawater"
+        "Text": "<b>Sea Ganoderma</b>"
     },
     "101207": {
         "Icon": "UI_ItemIcon_101207",
-        "Text": "<b>Sango Pearl</b>",
-        "Desc": "These pearls only grow alongside the coral of Watatsumi, and they will emit a cooling sensation in your palm as gentle as a moonbeam.<br>Some local stories say that if held by a person in whose veins runs the blood of Watatsumi, these pearls will become brighter still, for these pearls are the blood that Watatsumi Omikami shed for its people. Other legends say that the great Omikami used a pearl as bright as the moon to shine upon Enkanomiya, leading the people who dwelt there up to the surface. As such, the Sango Pearls are akin to sacred relics to some.<br>The \"pearls and waves\" of the Sangonomiya emblem are said to come from these very waves that embraced Watatsumi and the bright gem that gave it light.<br>- Found in the wild<br>- Recommendation: Found on Watatsumi Island"
+        "Text": "<b>Sango Pearl</b>"
     },
     "101208": {
         "Icon": "UI_ItemIcon_101208",
-        "Text": "<b>Amakumo Fruit</b>",
-        "Desc": "The fruit of the Amakumo Grass, which grows on Seirai Island. You can hear it crackling with a tiny current if you hold it up to your ear.<br>The Amakumo Grass was born when the terrible slaughter that tore through Seirai Island, causing it to ever be under a stormy shroud, ended. As if showing its defiance, it will bear fruit while facing the peals of thunder from the sky.<br>This bold spirit also accompanied those who emigrated to Seirai Island, until Koseki Village was at last ruined and no clergy-person was left to man the Asase Shrine.<br>- Found in the wild<br>- Recommendation: Found on Seirai Island"
+        "Text": "<b>Amakumo Fruit</b>"
     },
     "101209": {
         "Icon": "UI_ItemIcon_101209",
-        "Text": "<b>Fluorescent Fungus</b>",
-        "Desc": "A mushroom that glows like a night-light. Some curious power lies hidden within it. Amidst the fog that blankets Tsurumi Island, these Fluorescent Fungi can help to light the way.<br>- Found in the wild<br>- Recommendation: Found on Tsurumi Island"
+        "Text": "<b>Fluorescent Fungus</b>"
     },
     "101213": {
         "Icon": "UI_ItemIcon_101213",
-        "Text": "<b>Rukkhashava Mushrooms</b>",
-        "Desc": "A fungus that grows in layers upon layers, like a sea of clouds, which mostly grows on trees deep in the rainforest and is considered by the people of Sumeru to be a symbol of the gods' grace.<br>Legend has it that in ancient times, there was once a towering giant tree with its crown covering the entire Sumeru. People addressed it as Rukkhadevata and believed the Fungi scattered throughout the rainforest were the holy crystallization of its legacy. In Sumeru, those who dwell in the forest have a tradition of offering Rukkhashava Mushrooms to the Akademiya, but no one knows what these offerings are meant to be used for.<br>- Found in the wild<br>- Recommendation: Found in the Ashavan Realm<br>- Recommendation: Found in Lokapala Jungle"
+        "Text": "<b>Rukkhashava Mushrooms</b>"
     },
     "101214": {
         "Icon": "UI_ItemIcon_101214",
-        "Text": "<b>Padisarah</b>",
-        "Desc": "A holy and noble plant. The conditions for growth in its environment are very demanding. The flower buds can be processed to make valuable spices.<br>The Padisarah is said to derive its name from a certain ancient deity. It is said that in those times long past, there were three gods who had struck up excellent relations with one another. In those days, there was once a great plain covered in lovely flowers that people would gather up and use as incense to offer up to their gods.<br>Those flowers are no longer extant, but the Padisarah is a cultivar that was brought back to the land via the use of the Anahitian Blessing.<br>- Found near Sumeru City"
+        "Text": "<b>Padisarah</b>"
     },
     "101215": {
         "Icon": "UI_ItemIcon_101215",
-        "Text": "<b>Nilotpala Lotus</b>",
-        "Desc": "Growing in the forest wetlands, these plants only bloom at night with flowers as bright as the moon.<br>In the oldest folk tales of this land, the great chariot of the moon goddess once shone with a light that matched the sun. At this time, all things in the world were at peace. But the arrows that tore the skies apart would shatter the gems that adorned the most ethereal of vehicles, and the people would behold the visage of the sovereign of the moonlit nights no longer. The many flowers would turn and serve a new master, but the Nilotpala Lotuses would bathe in the cool moonlight and continue to remember the glad songs of that afore-time.<br>- Found at water bodies in Sumeru"
+        "Text": "<b>Nilotpala Lotus</b>"
     },
     "101217": {
         "Icon": "UI_ItemIcon_101217",
-        "Text": "<b>Kalpalata Lotus</b>",
-        "Desc": "Flowers from vines that grow on cliff sides. It is called a lotus only because it has a similar appearance to one. Aside from that, it bears no other similar properties to the lotus.<br>Vines grow along cliffs everywhere in Sumeru, as timeless as time itself. It is said that these vines were the first thing to ever be created in the forest, making them the progenitors of every plant in Sumeru. All the great plants of the land, even the undying Divine Tree, are connected at the roots through the entanglement of these vines. Of course, this saying has long been refuted by Amurta researchers, but still, it persists amongst the people.<br>- Found in the mountains of Sumeru"
+        "Text": "<b>Kalpalata Lotus</b>"
     },
     "101220": {
         "Icon": "UI_ItemIcon_101220",
-        "Text": "<b>Henna Berry</b>",
-        "Desc": "A fruit that grows even in the most hostile of desert environments. Its vibrant crimson fruits are made even more lovely against a backdrop of yellow sand.<br>Thanks to its extremely bright color, after a simple treatment, it can be made into a pigment. An important part of the desert people's lives, it is said to have been used as a dye for the fiery banner of the Eremites. The red fabric follows them in all their travels. No matter where you are, whenever you see these fluttering textiles, you can almost feel the hot wind of their homeland on your skin.<br>- Found in the deserts of Sumeru"
+        "Text": "<b>Henna Berry</b>"
     },
     "101222": {
         "Icon": "UI_ItemIcon_101222",
-        "Text": "<b>Sand Grease Pupa</b>",
-        "Desc": "In the legend of the desert folk, Quicksand Eels and Wenut are all descendants of the giant serpent that once devoured the sun. Although this statement is but groundless, judging from the research on Sand Grease Pupa, it does share many similarities with the body fat of Wenut given their respective composition. It is precisely because of this that sometimes cunning merchants will collect Sand Grease Pupae and grind them into powder to pass off as the high-end spices extracted from the body fat of Wenut.<br>- Found in the deserts of Sumeru<br>- Recommendation: Found in Wenut Tunnels"
+        "Text": "<b>Sand Grease Pupa</b>"
     },
     "101223": {
         "Icon": "UI_ItemIcon_101223",
-        "Text": "<b>Mourning Flower</b>",
-        "Desc": "Crimson flowers that can bloom even on ancient battlefields or flourish in the depths of the desert. Its drooping flowers seem to mourn for heroes long past.<br>Once, when beings dark and demonic invaded the lands, countless heroes sacrificed themselves in a battle against them. Legend has it that these flowers are watered by the blood of those martyrs. The tribes of these plains speak additionally of the countless innocents who suffered from that calamity, of how due to being stained by the filth from the war, they are barred from eternal samsara, and can only languish amidst these flowers, lamenting the injustice of fate by weeping.<br>- Found in the deserts of Sumeru<br>- Recommendation: Found in the Asipattravana Swamp"
+        "Text": "<b>Mourning Flower</b>"
     },
     "101225": {
         "Icon": "UI_ItemIcon_101225",
-        "Text": "<b>Scarab</b>",
-        "Desc": "A hardy beetle that dwells in the vast desert. Its shell has patterns on it that resemble those that dot the ancient desert ruins, hinting at some deeper relation between the two.<br>Legend has it that when the desert king ruled this land, the souls of those vanquished by him would be sealed within these insects by the magically-skilled priests at great triumphs held in the City of the Pillars. The scarabs would then be charged with defending the sacred temples and palaces for all eternity in the name of Al-Ahmar. In the end, the temples would collapse and the palaces would fall, and only these golden insects would remain, fulfilling their ancient, forgotten oaths.<br>- Found in the desert ruins of Sumeru"
+        "Text": "<b>Scarab</b>"
     },
     "101232": {
         "Icon": "UI_ItemIcon_101232",
-        "Text": "<b>Beryl Conch</b>",
-        "Desc": "A conch-like structure that gives off a faint glow. Despite the name, it is not a shell but something condensed from primordial elemental energy.<br>Natural historians used to hold that the salt-white pattern on the conch was one of the many marks left by the Hydro Lord. However, archaeologists later discovered that it has many connections to ancient civilizations.<br>- Found in the wild<br>- Recommendation: Found in Salacia Plain"
+        "Text": "<b>Beryl Conch</b>"
     },
     "101233": {
         "Icon": "UI_ItemIcon_101233",
-        "Text": "<b>Romaritime Flower</b>",
-        "Desc": "An ethereal and elegant blue flower. Its tender petals are elastic and water-absorbent, making it the ideal raw material for various daily necessities.<br>Romaritime Flower is said to represent loyalty and unswerving oaths.<br>In the folklore of Fontaine, Romaritime Flower is said to have been a Hydro spirit in love with Egeria. People base this story on the flower's trait to blossom upon contact with Hydro. On top of that, human beings' lack of knowledge and excessive desire to express themselves certainly have contributed to the tale, too.<br>- Found in the wild<br>- Recommendation: Found in Salacia Plain"
+        "Text": "<b>Romaritime Flower</b>"
     },
     "101235": {
         "Icon": "UI_ItemIcon_101235",
-        "Text": "<b>Lumidouce Bell</b>",
-        "Desc": "A serene and tranquil violet flower. It has a light, soft, and lasting scent and is often used for making rare perfumes.<br>Lumidouce Bell is said to represent parting and the wish for reunion.<br>In Coppelius's play Golden Hyperborea, the flower is referred to as \"Weeping Crystal.\" The play depicts a homesick flower wandering in the freezing lands of the north. Its beauty is made eternal by the icy winds. Critics of Coppelius's time thought that he was obsessed with eternal beauty and eternal love — this obsession was written into every line of his last works.<br>- Found in the wild<br>- Found in the north of the Court of Fontaine"
+        "Text": "<b>Lumidouce Bell</b>"
     },
     "101236": {
         "Icon": "UI_ItemIcon_101236",
-        "Text": "<b>Rainbow Rose</b>",
-        "Desc": "A delicate and tender pink flower. Despite the name, Rainbow Roses are essentially more akin to Lilies.<br>It is said to represent passion and romantic encounters.<br>According to ancient records, rainbow-colored roses were once a common sight. Their bright colors could almost rival the blazing flames of the seven heavens. This flower has gone extinct, and as the era came to a tumultuous end, a plant that used to grow symbiotically with it stole the name \"Rainbow Rose.\"<br>- Found in the wild<br>- Recommendation: Found in Beryl Region"
+        "Text": "<b>Rainbow Rose</b>"
     },
     "101237": {
         "Icon": "UI_ItemIcon_101237",
-        "Text": "<b>Lumitoile</b>",
-        "Desc": "A soft-bodied animal that emits a gentle light. Often found climbing the walls of buildings near the water or underwater.<br>Though the weak light they give off is often ignored by divers, these small soft-bodied animals have the remarkable ability to consume and degrade industrial waste present in the water. It is said that reseachers once wished to give the Lumitoile the title of \"Honorary Ecological Engineer\" but the proposal was rejected by the Senior Technician at the time (who also held the post of Honorary Marine Ecology Research Engineer).<br>- Found in the wild<br>- Recommendation: Found in Liffey Region"
+        "Text": "<b>Lumitoile</b>"
     },
     "101238": {
         "Icon": "UI_ItemIcon_101238",
-        "Text": "<b>Lakelight Lily</b>",
-        "Desc": "A clear and clean azure flower, it is born where Water Veins come together. It has a simple, cool, and elegant fragrance, pungent and refreshing yet gentle.<br>In the language of flowers, it means \"waiting\" and \"everlasting promise.\"<br>In ancient legends, the Mistress of Many Waters gave a flower as pure as Lakelight to the last Lochknight as a farewell gift. To this day, Fontaine maintains the tradition of picking a Lily and giving it to those on long journeys, wishing one another a road ahead as tranquil as pure water, and that those most precious will be able to follow its cool light, returning to their side.<br>- Found in the wild<br>- Recommendation: Found in Erinnyes Forest"
+        "Text": "<b>Lakelight Lily</b>"
     },
     "101239": {
         "Icon": "UI_ItemIcon_101239",
-        "Text": "<b>Subdetection Unit</b>",
-        "Desc": "Detection units produced by the Fontaine Research Institute using new models of artificed components. Its original purpose was monitoring all kinds of environmental data.<br>These units were originally cooperatively managed by the Advanced Artificed Technology Research and Development Department and the Natural Ecological Environment Monitoring Department, where the former was in charge of manufacturing and deployment of the detection units while the latter was responsible for collecting and sorting data. Now that the latter department has been dismissed due to a previous experimental accident, only the former department's duties are now being performed by the Fontaine Research Institute.<br>- Found in the wild<br>- Recommendation:Found in Fontaine Research Institute of Kinetic Energy Engineering Region"
+        "Text": "<b>Subdetection Unit</b>"
     },
     "101240": {
         "Icon": "UI_ItemIcon_101240",
-        "Text": "<b>Spring of the First Dewdrop</b>",
-        "Desc": "A limpid drop of dew floating amidst the waters of Morte Region. It is different from other pure water bodies, as though it is a conglomeration of even more pure and primordial Elemental Energy.<br>The Natural Philosophers of ancient Fontaine never recorded such a creation, until engineers from the Fontaine Research Institute began to conduct some scattered research over 400 years ago. Some scholars believe that this pure Ichor was the final legacy Egeria bequeathed to Fontaine — but even today, this theory has no reliable evidence to support it.<br>- Found in the wild<br>- Recommendation: Found underwater in Morte Region"
+        "Text": "<b>Spring of the First Dewdrop</b>"
     },
     "101241": {
         "Icon": "UI_ItemIcon_101241",
-        "Text": "<b>Clearwater Jade</b>",
-        "Desc": "A jade from Chenyu Vale named for its cool, refreshing touch, being akin to cool water.<br>Ancestral legends have it that the jade scattered among the rocks came from the azure heavens. The envoys, before they became silent, bestowed these beauteous gems upon the early residents and guided them to build an altar that reached the heavens, that they may receive the blessings and curses from above. Later on, many tribes that descended from these ancestors kept this primordial, simple faith, and their reverence for jade was merged into Liyue tradition, shaping the culture we see today.<br>- Found in the wild<br>- Recommendation: Found in Chenyu Vale: Southern Mountain"
+        "Text": "<b>Clearwater Jade</b>"
     },
     "104303": {
         "Icon": "UI_ItemIcon_104303",
-        "Text": "<b>Philosophies of Freedom</b><br>Mondstadt / Mon Thu Sun",
-        "Desc": "Freedom is the spirit of the land of the wind. To sing is one such freedom. To sing on the land created by the Anemo Archon is to send your heart away with the song on the wind.<br>- Crafted"
+        "Text": "<b>Philosophies of Freedom</b><br>Mondstadt / Mon Thu Sun"
     },
     "104306": {
         "Icon": "UI_ItemIcon_104306",
-        "Text": "<b>Philosophies of Resistance</b><br>Mondstadt / Tue Fri Sun",
-        "Desc": "Resistance is the backbone of the land of the wind. The history of Mondstadt is that of resistances, in order to allow the future Mondstadt's poetry to freely be that of the wind and be spread across the land.<br>- Crafted"
+        "Text": "<b>Philosophies of Resistance</b><br>Mondstadt / Tue Fri Sun"
     },
     "104309": {
         "Icon": "UI_ItemIcon_104309",
-        "Text": "<b>Philosophies of Ballad</b><br>Mondstadt / Wed Sat Sun",
-        "Desc": "Poetry is the soul of the land of the wind. Poetry is the manifestations of the desire to spread the word. Though nothing is eternal, though nothing will be the same, the wind's poetry will still spread beyond the skies, the land, the seas to every corner of the world.<br>- Crafted"
+        "Text": "<b>Philosophies of Ballad</b><br>Mondstadt / Wed Sat Sun"
     },
     "104312": {
         "Icon": "UI_ItemIcon_104312",
-        "Text": "<b>Philosophies of Prosperity</b><br>Liyue / Mon Thu Sun",
-        "Desc": "Prosperity is the people's pursuit in the land of Geo. Prosperity is Liyue's past, present, and future. This prosperity is unmatched and unobtainable by any other nations — it all belongs to Liyue and its inhabitants.<br>- Crafted"
+        "Text": "<b>Philosophies of Prosperity</b><br>Liyue / Mon Thu Sun"
     },
     "104315": {
         "Icon": "UI_ItemIcon_104315",
-        "Text": "<b>Philosophies of Diligence</b><br>Liyue / Tue Fri Sun",
-        "Desc": "Industriousness is the foundation of the land of Geo. Industriousness is believing in one's own ability to earn a place in the land of the gods through sweat, wisdom, and power.<br>- Crafted"
+        "Text": "<b>Philosophies of Diligence</b><br>Liyue / Tue Fri Sun"
     },
     "104318": {
         "Icon": "UI_ItemIcon_104318",
-        "Text": "<b>Philosophies of Gold</b><br>Liyue / Wed Sat Sun",
-        "Desc": "Gold is the symbol of the land of Geo. Gold is the wealth of Liyue, but Liyue's true wealth is the hearts of its people that shine like gold.<br>- Crafted"
+        "Text": "<b>Philosophies of Gold</b><br>Liyue / Wed Sat Sun"
     },
     "104322": {
         "Icon": "UI_ItemIcon_104322",
-        "Text": "<b>Philosophies of Transience</b><br>Inazuma / Mon Thu Sun",
-        "Desc": "Transience is the dream of the nation of thunder. The fleeting nature of this mortal world is the essence of beauty, for are our lives in this world not akin to the levin flash? Yet the might of the divine comes suddenly, and before the roar of eternity, who can stand?<br>- Crafted"
+        "Text": "<b>Philosophies of Transience</b><br>Inazuma / Mon Thu Sun"
     },
     "104325": {
         "Icon": "UI_ItemIcon_104325",
-        "Text": "<b>Philosophies of Elegance</b><br>Inazuma / Tue Fri Sun",
-        "Desc": "Elegance is the form of the nation of thunder. Elegance abhors vulgarity, and the elegant ever walk alone. Resisting base evils, unmoved by base loves, never taking refuge in base ignorance — that is how one perceives the chasm between the elegant and the contemptuous.<br>- Crafted"
+        "Text": "<b>Philosophies of Elegance</b><br>Inazuma / Tue Fri Sun"
     },
     "104328": {
         "Icon": "UI_ItemIcon_104328",
-        "Text": "<b>Philosophies of Light</b><br>Inazuma / Wed Sat Sun",
-        "Desc": "Light is the yearning of the land of thunder. Though they must live forever on the earth, humanity will always reach for the light. Mortals will pursue and surpass, and they will never stop. A sealed eternity may perhaps look magnificent, but its essence is death.<br>- Crafted"
+        "Text": "<b>Philosophies of Light</b><br>Inazuma / Wed Sat Sun"
     },
     "104331": {
         "Icon": "UI_ItemIcon_104331",
-        "Text": "<b>Philosophies of Admonition</b><br>Sumeru / Mon Thu Sun",
-        "Desc": "Admonition is the branches of the nation of wisdom. Admonition is completed by good deeds. What is done confers real meaning upon what is said. When one's mind, words, and deeds are aligned, their nourishment shall guarantee the fruition of wisdom's tree.<br>- Crafted"
+        "Text": "<b>Philosophies of Admonition</b><br>Sumeru / Mon Thu Sun"
     },
     "104334": {
         "Icon": "UI_ItemIcon_104334",
-        "Text": "<b>Philosophies of Ingenuity</b><br>Sumeru / Tue Fri Sun",
-        "Desc": "Ingenuity is the leaf-veins of the nation of wisdom.<br>Ingenuity is completed by harmonious conduct. What is done completes what is thought. Wisdom blooms where the mind, words, and practice converge.<br>- Crafted"
+        "Text": "<b>Philosophies of Ingenuity</b><br>Sumeru / Tue Fri Sun"
     },
     "104337": {
         "Icon": "UI_ItemIcon_104337",
-        "Text": "<b>Philosophies of Praxis</b><br>Sumeru / Wed Sat Sun",
-        "Desc": "Praxes are the roots of the nation of wisdom.<br>Praxes bring forth the fruit of wisdom. Practice grants itself meaning, and it is only by treading a path that unites action, speech, and thought that the wise may reach perfection.<br>- Crafted"
+        "Text": "<b>Philosophies of Praxis</b><br>Sumeru / Wed Sat Sun"
     },
     "104340": {
         "Icon": "UI_ItemIcon_104340",
-        "Text": "<b>Philosophies of Equity</b><br>Fontaine / Mon Thu Sun",
-        "Desc": "Talent Level-Up Material.<br>The shore of the Nation of Water is equity.<br>Equity is the foundation upon which Fontaine was founded. Equity requires the continuous and steady support of morality and law, and morality and law constantly change based upon the invariant principle of equity.<br>- Crafted"
+        "Text": "<b>Philosophies of Equity</b><br>Fontaine / Mon Thu Sun"
     },
     "104343": {
         "Icon": "UI_ItemIcon_104343",
-        "Text": "<b>Philosophies of Justice</b><br>Fontaine / Tue Fri Sun",
-        "Desc": "Talent Level-Up Material.<br>The sword of the Nation of Water is justice.<br>The law of Fontaine walks with the sword of justice in hand. Justice means judgment and reconciliation, the blade of judgment arrests the actions of evil, while reconciliation maintains order.<br>- Crafted"
+        "Text": "<b>Philosophies of Justice</b><br>Fontaine / Tue Fri Sun"
     },
     "104346": {
         "Icon": "UI_ItemIcon_104346",
-        "Text": "<b>Philosophies of Order</b><br>Fontaine / Wed Sat Sun",
-        "Desc": "Talent Level-Up Material.<br>The shield of the Nation of Water is order.<br>All law in Fontaine ultimately serves to maintain a stable order. Equity and justice come from order, and serve order. Like the still, ripple-less surface of the waters of Fontaine, order is the cornerstone of Fontaine's existence.<br>- Crafted"
+        "Text": "<b>Philosophies of Order</b><br>Fontaine / Wed Sat Sun"
     },
     "113001": {
         "Icon": "UI_ItemIcon_113001",
-        "Text": "<b>Hurricane Seed</b>",
-        "Desc": "The imploded form of an Anemo Hypostasis upon its defeat. Contains the essence of Anemo energy. It is said that the power to create hurricanes resides within its seemingly fragile body. This butterfly of pure Anemo energy must surely be waiting for the day when it can conjure up storms once again.<br>- Dropped by Lv. 30+ Anemo Hypostases"
+        "Text": "<b>Hurricane Seed</b>"
     },
     "113002": {
         "Icon": "UI_ItemIcon_113002",
-        "Text": "<b>Lightning Prism</b>",
-        "Desc": "An Electro Hypostasis channels nearby elemental energy to repair damaged elemental entities. Contains the essence of Electro energy. An ordinary prism separates white light into its component colors; a Lightning Prism, however, channels flowing energies and weaves them into lightning. It will continue to do so even after the Electro Hypostasis has been defeated.<br>- Dropped by Lv. 30+ Electro Hypostases"
+        "Text": "<b>Lightning Prism</b>"
     },
     "113003": {
         "Icon": "UI_ItemIcon_113003",
-        "Text": "<b>Dvalin's Plume</b>",
-        "Desc": "A dragon's feather that has experienced more than a thousand years' worth of winds. One senses within it a yearning for freedom so strong that it could whip up a light breeze to rescue it from its current confines. Its former owner's recognition of you is what makes it content to stay in your hands.<br>- Lv. 70+ Stormterror Challenge Reward"
+        "Text": "<b>Dvalin's Plume</b>"
     },
     "113004": {
         "Icon": "UI_ItemIcon_113004",
-        "Text": "<b>Dvalin's Claw</b>",
-        "Desc": "A dragon claw that once contained the shadow dragon Durin's vile poison, having torn through the latter's flesh in battle. Thanks to your purification and healing, it is no longer toxic.<br>- Lv. 70+ Stormterror Challenge Reward"
+        "Text": "<b>Dvalin's Claw</b>"
     },
     "113005": {
         "Icon": "UI_ItemIcon_113005",
-        "Text": "<b>Dvalin's Sigh</b>",
-        "Desc": "The Dragon of the East's physical form is beautiful and transparent. Both trade winds and tornadoes will work in his name. The winds move as his companion, his voice, and his freedom. His enemies are the thousands who stand against the wind.<br>- Lv. 70+ Stormterror Challenge Reward"
+        "Text": "<b>Dvalin's Sigh</b>"
     },
     "113006": {
         "Icon": "UI_ItemIcon_113006",
-        "Text": "<b>Tail of Boreas</b>",
-        "Desc": "Even without his physical body and beyond death, Boreas still possesses extraordinary powers. He took a form comprised of ice and wind to embrace a new challenge, but even such a form could not house all of his power. The ice scales that fell during the battle still retain some of their spiritual energy.<br>- Lv. 70+ Wolf of the North Challenge Reward"
+        "Text": "<b>Tail of Boreas</b>"
     },
     "113007": {
         "Icon": "UI_ItemIcon_113007",
-        "Text": "<b>Ring of Boreas</b>",
-        "Desc": "This land was once a realm of freezing-cold blizzards and ice storms filled with razor-sharp ice shards, all at the command of Boreas. Though his power may have diminished, he could still freeze the land in an instant.<br>- Lv. 70+ Wolf of the North Challenge Reward"
+        "Text": "<b>Ring of Boreas</b>"
     },
     "113008": {
         "Icon": "UI_ItemIcon_113008",
-        "Text": "<b>Spirit Locket of Boreas</b>",
-        "Desc": "This land was once a realm of freezing-cold blizzards and ice storms filled with razor-sharp ice shards, all at the command of Boreas. In his final moments, he finally realized that the chilling north wind could only extinguish life, not nurture it. Therefore, Boreas let his powers freely flow into the land to protect it and its inhabitants.<br>- Lv. 70+ Wolf of the North Challenge Reward"
+        "Text": "<b>Spirit Locket of Boreas</b>"
     },
     "113009": {
         "Icon": "UI_ItemIcon_113009",
-        "Text": "<b>Basalt Pillar</b>",
-        "Desc": "A pillar formed by the shell of a Geo Hypostasis. Composed of high-density Geo energy, it is a testament to Geo's status as the heaviest of the elements. Maybe the reason a Geo Hypostasis creates this pillar out of its shell and raises itself is just to get closer to the sky, not to combat enemies.<br>- Dropped by Lv.30+ Geo Hypostases"
+        "Text": "<b>Basalt Pillar</b>"
     },
     "113010": {
         "Icon": "UI_ItemIcon_113010",
-        "Text": "<b>Hoarfrost Core</b>",
-        "Desc": "The core of a Cryo Regisvine. Pure Cryo energy is contained within it. Energy and thoughts that swell deep within the earth will eventually erupt on the surface. Even the deathly silent frost will attach to living things on the ground, turning even ordinary vegetation like vines into huge, vicious predators.<br>- Dropped by Lv. 30+ Cryo Regisvines"
+        "Text": "<b>Hoarfrost Core</b>"
     },
     "113011": {
         "Icon": "UI_ItemIcon_113011",
-        "Text": "<b>Everflame Seed</b>",
-        "Desc": "A seed that fuels the unending flames of the Pyro Regisvine. It emits Pyro energy as if it will burn all that has ever sprouted from the ground. Endless desires flow among turbulent energy deep within the earth. What desire could steadily hold such fire to the plants and long so eagerly to bathe everything in unquenchable flames?<br>- Dropped by Lv. 30+ Pyro Regisvines"
+        "Text": "<b>Everflame Seed</b>"
     },
     "113012": {
         "Icon": "UI_ItemIcon_113012",
-        "Text": "<b>Cleansing Heart</b>",
-        "Desc": "A palmful of eternal water left by an oceanid. Though it has already diffused among the depths of the lake, its purity remains all the same. But why would a creature so pure and clean as an oceanid covet the appearance of a being that roams the land, and assume such a form with pure water? They need not breathe nor do they require sustenance...<br>- Dropped by Lv. 30+ Oceanids"
+        "Text": "<b>Cleansing Heart</b>"
     },
     "113013": {
         "Icon": "UI_ItemIcon_113013",
-        "Text": "<b>Tusk of Monoceros Caeli</b>",
-        "Desc": "It is said that the shape of one's constellation determines one's character. The image of a whale cruising across the celestial heights represents a solipsism that seeks to crush and devour all in its path.<br>Embracing this aspect of himself, Childe gleefully summoned one such beast before throwing himself into battle against you.<br>- Lv. 70+ Childe Challenge Reward"
+        "Text": "<b>Tusk of Monoceros Caeli</b>"
     },
     "113014": {
         "Icon": "UI_ItemIcon_113014",
-        "Text": "<b>Shard of a Foul Legacy</b>",
-        "Desc": "Stained with a profound color not of this world, no doubt due to the land of endless darkness that the young boy saw with his own two eyes.<br>Perhaps it has nothing to do with the power of a Delusion, but as they say, the weapon reflects its user...<br>- Lv. 70+ Childe Challenge Reward"
+        "Text": "<b>Shard of a Foul Legacy</b>"
     },
     "113015": {
         "Icon": "UI_ItemIcon_113015",
-        "Text": "<b>Shadow of the Warrior</b>",
-        "Desc": "The product of a will to fight that has been honed over countless slaughters.<br>If humans do indeed have destinies, then his must surely have been twisted by such deeds. Why else, then, would he always be at the heart of every conflict?<br>- Lv. 70+ Childe Challenge Reward"
+        "Text": "<b>Shadow of the Warrior</b>"
     },
     "113016": {
         "Icon": "UI_ItemIcon_113016",
-        "Text": "<b>Juvenile Jade</b>",
-        "Desc": "A crystalline substance taken from a Primo Geovishap. Within it is contained the potential to become a dragon.<br>These dull crystals are precipitated within the bodies of vishaps sleeping in the mountains. Liyue folklore holds that they will gather power over many years, after which this crystal will, at last, replace their original heart, and the vishap will become a true dragon — one that can shake the mountains and split the earth.<br>- Dropped by Lv. 30+ Primo Geovishaps"
+        "Text": "<b>Juvenile Jade</b>"
     },
     "113017": {
         "Icon": "UI_ItemIcon_113017",
-        "Text": "<b>Dragon Lord's Crown</b>",
-        "Desc": "Horns created from hardened jade crystallized over a thousand years are the natural crown of the dragon king.<br>Infused with spirit and carved from bedrock, it was born from the mountain's heart to show the strength of the earth to the land amidst monoliths, and its long golden horns are the mark of its ancient strife with an ancient lord.<br>For a time, this horn was shattered and lost its luster, but now it gleams cold and gold as it sits in your palm.<br>- Lv. 70+ Azhdaha Challenge Reward"
+        "Text": "<b>Dragon Lord's Crown</b>"
     },
     "113018": {
         "Icon": "UI_ItemIcon_113018",
-        "Text": "<b>Bloodjade Branch</b>",
-        "Desc": "Nurtured by the might of the dragon king, these bone branches glitter with strange, unique colors.<br>Hatred coursed through the natural streams and kissed the cold moonlight, and from them were these crystalline branches born and grown...<br>Even though they were severed in battle, these branches steeped in dragon blood rustle as if eternally ill-at-ease.<br>- Lv. 70+ Azhdaha Challenge Reward"
+        "Text": "<b>Bloodjade Branch</b>"
     },
     "113019": {
         "Icon": "UI_ItemIcon_113019",
-        "Text": "<b>Gilded Scale</b>",
-        "Desc": "Scaled armor that grows naturally over mystical stone, tough and silent, and filled with the strength of the dragon king.<br>Across the years as countless generations returned to the mulch of the earth, gold and obsidian embedded themselves into flesh and blood forged from bedrock before spreading and turning into scales.<br>Searing agony, wordless cries... perhaps they will all vanish when the grudges that spawned them, too, finally come to an end.<br>- Lv. 70+ Azhdaha Challenge Reward"
+        "Text": "<b>Gilded Scale</b>"
     },
     "113020": {
         "Icon": "UI_ItemIcon_113020",
-        "Text": "<b>Crystalline Bloom</b>",
-        "Desc": "An ice crystal of exceeding purity that is created in the frigid blooming of a Cryo Hypostasis.<br>These frosty crystals will continue to grow according to their own cold, rigid laws, till one day a flower of winter shall bloom and freeze everything. Perhaps it is stagnant time, that never-thawing bosom, that is the essence of this undying flower.<br>- Dropped by Lv.30+ Cryo Hypostases"
+        "Text": "<b>Crystalline Bloom</b>"
     },
     "113022": {
         "Icon": "UI_ItemIcon_113022",
-        "Text": "<b>Marionette Core</b>",
-        "Desc": "This core can power the inorganic Maguu Kenki and cause it to wield a blade like a living being.<br>Flesh decays, and with it decay all martial arts mastery and all poignant memories.<br>Perhaps only by converting one's four limbs and body into sturdy mechanical parts, and by at last sacrificing one's very own heart for a sophisticated mechanical one, can one transcend the impermanence of the fleshly form...<br>- Dropped by Lv. 30+ Maguu Kenki"
+        "Text": "<b>Marionette Core</b>"
     },
     "113023": {
         "Icon": "UI_ItemIcon_113023",
-        "Text": "<b>Perpetual Heart</b>",
-        "Desc": "The core that powers the autonomous movements of the Perpetual Mechanical Array.<br>Some theorize that the symbols on these cores have knowledge and logic inscribed upon them in a language that eyes cannot perceive. Some go a step further and believe that these unique Ruin machines autonomously decided to forsake a biomimetic form to pursue strength of function on account of their especially large cores and complex inscriptions.<br>- Dropped by Lv. 30+ Perpetual Mechanical Arrays"
+        "Text": "<b>Perpetual Heart</b>"
     },
     "113024": {
         "Icon": "UI_ItemIcon_113024",
-        "Text": "<b>Smoldering Pearl</b>",
-        "Desc": "A crystallization of a Pyro Hypostasis that constantly emits heat.<br>Even the burning flames shall one day grow cold, and even the ashen firewood can will itself back into a raging blaze. It must then be the will of the world that Pyro Hypostases should constantly cool down and heat up, much like the universe teems with endless life... until the fated darkness shall one day descend and bring it all to naught.<br>- Dropped by Lv.30+ Pyro Hypostases"
+        "Text": "<b>Smoldering Pearl</b>"
     },
     "113025": {
         "Icon": "UI_ItemIcon_113025",
-        "Text": "<b>Molten Moment</b>",
-        "Desc": "A certain deformed fragment containing great might. You obtained this from defeating La Signora, who unleashed her original power.<br>\"I had a long, long dream.\"<br>\"I dreamed that you and I met again in the pure white world that we created.\"<br>\"But I woke up at last, having long been consumed by the raging flames, while you had long returned to the earth along with that poisoned blood.\"<br>\"But none of it matters anymore. I must continue forging ahead. I must incinerate everything behind me. I must believe in that pure, spotless, everlasting realm that he spoke of — that I saw in the 'delusion' he let me see, at the end of the horizon of Her Majesty's dreams.\"<br>- Lv. 70+ Signora Challenge Reward"
+        "Text": "<b>Molten Moment</b>"
     },
     "113026": {
         "Icon": "UI_ItemIcon_113026",
-        "Text": "<b>Hellfire Butterfly</b>",
-        "Desc": "A warped shard that houses great might. You obtained this from defeating Signora, who unleashed her original power.<br>The seal of ice was broken under duress, and as her former will surged forth from its pale white prison and she remembered her old name once more, the undying butterfly danced amidst burning flesh and blood. And she remembered her past, wandering the land, spreading the flame, burning away all evil — and she recalled the face of the person she could never meet again.<br>- Lv. 70+ Signora Challenge Reward"
+        "Text": "<b>Hellfire Butterfly</b>"
     },
     "113027": {
         "Icon": "UI_ItemIcon_113027",
-        "Text": "<b>Ashen Heart</b>",
-        "Desc": "A deformed fragment that contains powerful emotions. You obtained this from defeating Signora, who unleashed her original power.<br>Even tears cannot extinguish the flames. Molten-hot agony and rage rush through her veins, oozing from her tear ducts.<br>The First Fatuus found her just before her heart could be destroyed by the eternal blaze. He understood that only deeper hate and obsession could quench the fire that devoured her and make her his ally...<br>- Lv. 70+ Signora Challenge Reward"
+        "Text": "<b>Ashen Heart</b>"
     },
     "113028": {
         "Icon": "UI_ItemIcon_113028",
-        "Text": "<b>Dew of Repudiation</b>",
-        "Desc": "A strange water droplet left behind by the collapse of the Hydro Hypostasis.<br>It has strong rejection properties, and this forms the basis of one of the Hydro Hypostasis' attack patterns as well. They say that water contains memories and willpower, and that these things can grow when bodies of water meld together. However, the waves conjured by the Hydro Hypostasis are incompatible with the currents that flow above and below ground. Even if it were to flow into the surpassingly pure waters of Petrichor, this drop of water will likely resist assimilation as strongly as mercury.<br>- Dropped by Lv. 30+ Hydro Hypostases"
+        "Text": "<b>Dew of Repudiation</b>"
     },
     "113029": {
         "Icon": "UI_ItemIcon_113029",
-        "Text": "<b>Storm Beads</b>",
-        "Desc": "Crackling Electro pearls left behind by the Thunder Manifestation.<br>It is said that Thunder Manifestations will only descend upon lands where powerful hatred dwells. The singers say that it is the unbearable disappointments and sufferings of life that drive them to forever wander the broken earth, unleashing sky-searing lightning as they go.<br>- Dropped by Lv. 30+ Thunder Manifestations"
+        "Text": "<b>Storm Beads</b>"
     },
     "113030": {
         "Icon": "UI_ItemIcon_113030",
-        "Text": "<b>Riftborn Regalia</b>",
-        "Desc": "A broken horn that you obtained from defeating the Wolflord. That said, it should not have left anything behind after your hunt.<br>Even a lord among the Riftwolves is nothing before monsters of a higher pedigree.<br>\"Gold\" mass-produced these malformed wolf packs almost as if by accident, like shrunken drawings on discarded sheets of paper, and the horns on this one represent its authority to command its dark brood to dissolve space itself.<br>- Dropped by Lv. 30+ Golden Wolflords"
+        "Text": "<b>Riftborn Regalia</b>"
     },
     "113031": {
         "Icon": "UI_ItemIcon_113031",
-        "Text": "<b>Dragonheir's False Fin</b>",
-        "Desc": "A piece of biological tissue that you found after defeating the Bathysmal Vishaps.<br>Although it looks like a fin of some kind, it does not actually have any function at all.<br>The people of Byakuyakoku once investigated the Bathysmal Vishaps quite deeply. Their most distinctive feature was the ability to choose what traits it wished to pass on to its offspring. Because of their great hatred for man-made light sources, these vishaps will lose any visual acuity by the time they reach maturity. At the same time, they have also evolved a certain degree of elemental polymorphism for combat purposes.<br>- Dropped by Lv. 30+ Bathysmal Vishap Herds"
+        "Text": "<b>Dragonheir's False Fin</b>"
     },
     "113032": {
         "Icon": "UI_ItemIcon_113032",
-        "Text": "<b>Mudra of the Malefic General</b>",
-        "Desc": "A puppet joint obtained from the Plane of Euthymia. The gesture here symbolizes the concept that \"one sees and one does.\"<br>Even now that \"she\" has become a calamitous deity, she can still utilize such transcendent gestures, her sword flashing forth as swiftly as her eyes may see.<br>And yet, as the countless disasters ground on for far too long, the baleful general's shell had to embrace a new spring.<br>- Lv. 70+ Guardian of Eternity Challenge Reward"
+        "Text": "<b>Mudra of the Malefic General</b>"
     },
     "113033": {
         "Icon": "UI_ItemIcon_113033",
-        "Text": "<b>Tears of the Calamitous God</b>",
-        "Desc": "A puppet joint obtained from the Plane of Euthymia. The gesture here is in the shape of the baleful Eye of Stormy Judgment.<br>Since they are able to bring down curse and catastrophe alike with a mere gaze, it might seem natural to blame life's misfortunes on calamitous deities. However, if you think about it a little harder, if your will is strong enough, and if your convictions are firm enough...<br>The catastrophes go on for too long. Even a baleful gaze must wash itself with tears.<br>- Lv. 70+ Guardian of Eternity Challenge Reward"
+        "Text": "<b>Tears of the Calamitous God</b>"
     },
     "113034": {
         "Icon": "UI_ItemIcon_113034",
-        "Text": "<b>The Meaning of Aeons</b>",
-        "Desc": "A small piece of headgear obtained once the dust settled in the Plane of Euthymia.<br>One thought may end all calamity, and there will always be thoughts that may transcend time.<br>Amid all this, one wonders if Makoto's true meaning was successfully communicated or not.<br>- Lv. 70+ Guardian of Eternity Challenge Reward"
+        "Text": "<b>The Meaning of Aeons</b>"
     },
     "113035": {
         "Icon": "UI_ItemIcon_113035",
-        "Text": "<b>Runic Fang</b>",
-        "Desc": "A \"fang\" with which the mysterious, snakelike machine of old dug into mountains' depths. There are many ominous runes carved on it.<br>It is said that giant serpents lurk in the dark fissures deep beneath the ground. Burning with eternal resentment and malice toward the world above, they throw themselves into digging great tunnels, yet none know what their malicious purposes are...<br>- Dropped by Lv. 30+ Ruin Serpents"
+        "Text": "<b>Runic Fang</b>"
     },
     "113036": {
         "Icon": "UI_ItemIcon_113036",
-        "Text": "<b>Majestic Hooked Beak</b>",
-        "Desc": "An elongated bill that you found after defeating the Jadeplume Terrorshroom.<br>Researchers still consider it a miracle even now that some soft Fungi have evolved these rock-hard hooked beaks. This magnificent king amongst Fungi has been leisurely pacing on the finish line of evolution. Now and then, it emits a long call to all the living beings in the rainforest: Even the most helpless and timid creature may one day become the monarch of the woods.<br>- Dropped by Lv. 30+ Jadeplume Terrorshroom"
+        "Text": "<b>Majestic Hooked Beak</b>"
     },
     "113037": {
         "Icon": "UI_ItemIcon_113037",
-        "Text": "<b>Thunderclap Fruitcore</b>",
-        "Desc": "The core of an Electro Regisvine, wrapped in razor-sharp leaves, wantonly emits Electro energy.<br>The roaring energy rampaging deep within the earth is eager to pour out its rage, thus even tainting these unfortunate vines with its mania, causing them to wail and flail their branches frantically. One can hardly tell whether it longs for others to taste the pain of being continuously electrocuted and charred or if it is struggling, looking forward to its inevitable doom.<br>- Dropped by Lv. 30+ Electro Regisvines"
+        "Text": "<b>Thunderclap Fruitcore</b>"
     },
     "113038": {
         "Icon": "UI_ItemIcon_113038",
-        "Text": "<b>Perpetual Caliber</b>",
-        "Desc": "A motive device obtained from a mysterious ruin machine.<br>The machine it once powered may have been destroyed, but it continues to rotate all the same.<br>There should be no such thing as an energy source that can sustain itself forever in this world, and most research results obtained in the field of \"perpetual motion\" have been eventually proved false. Yet, this device is proof that a now-destroyed civilization once reached heights that present-day nations could not hope to match...<br>- Dropped by Lv. 30+ Aeonblight Drakes"
+        "Text": "<b>Perpetual Caliber</b>"
     },
     "113039": {
         "Icon": "UI_ItemIcon_113039",
-        "Text": "<b>Light Guiding Tetrahedron</b>",
-        "Desc": "A core component obtained via defeating a mysterious ruin machine.<br>To this day, these ancient devices have not forgotten the dreams of their masters or their own duties: to build a thousand palaces, to administrate three thousand machines, to sow ten thousand flowers that shall never bloom again, and to recreate a paradise now buried beneath the desert sands for the sake of all who live in this world.<br>Though the lord of the desert no longer lives, and those dreams have long been corrupted by sinful whispers, and though all the magical pillars have been broken and have collapsed, the great beast once favored by the king hides still within the great searing storm.<br>- Dropped by Lv. 30+ Semi-Intransient Matrices"
+        "Text": "<b>Light Guiding Tetrahedron</b>"
     },
     "113040": {
         "Icon": "UI_ItemIcon_113040",
-        "Text": "<b>Quelled Creeper</b>",
-        "Desc": "The final coalesced form of the Dendro Hypostasis. The tough vines protect a pure cubic elemental crystal.<br>Dendro defies any common logic yet exists in perfect harmony with life. Elemental Hypostases, on the contrary, are most distant in appearance to all living beings. The combination of these two should probably never have appeared in this world. It is said that such elemental hypostases have the intelligence to \"learn\" and have thus understood the colors and dreams of the forest, a process that has transformed them into this shape over thousands of years.<br>- Dropped by Lv.30+ Dendro Hypostases"
+        "Text": "<b>Quelled Creeper</b>"
     },
     "113041": {
         "Icon": "UI_ItemIcon_113041",
-        "Text": "<b>Puppet Strings</b>",
-        "Desc": "Tubes that were inserted into the mechanical puppet's back. The colors that flow within them are sometimes dull, and at others, vibrant. The contrast is so great as to be fearful.<br>They provided power to the mechanical puppet, and at the same time served as its strings, controlling it and binding it.<br>Once the support of these tubes is lost, the puppet becomes as weak as a newborn infant, barely able to even move.<br>- Lv. 70+ Shouki no Kami, the Prodigal Challenge Reward"
+        "Text": "<b>Puppet Strings</b>"
     },
     "113042": {
         "Icon": "UI_ItemIcon_113042",
-        "Text": "<b>Mirror of Mushin</b>",
-        "Desc": "The mirror that was set in Shouki no Kami's chest to separate him from the outside world. The mitsudomoe symbol is emblazoned on it as a deliberate show of status and might.<br>This symbol, however, is no show of obeisance to the master of lightning, but is instead a blade pointed at the existing powers that be in this world. Nor is the mirror a means to shut out the looks of judgment from onlooking people, but is rather a bulwark against this base and sullied world. Within this great temple shall punishment be meted out and ignorance be cleansed.<br>Dreams shall be overturned, desires shall be cut away, and karma shall be reset.<br>- Lv. 70+ Shouki no Kami, the Prodigal Challenge Reward"
+        "Text": "<b>Mirror of Mushin</b>"
     },
     "113043": {
         "Icon": "UI_ItemIcon_113043",
-        "Text": "<b>Daka's Bell</b>",
-        "Desc": "This ball joint, used to connect mechanical limbs together, is shaped almost like a bell. Though it may seem dainty, it can be used to carry an unimaginably large amount of energy.<br>If connected to one's arms, then one will lose all feeling in them.<br>And all strength in one's legs will dissipate if such joints are connected to them.<br>Connect this joint to one's skull...<br>Ah, hatred, pain, madness, pride — none of these will be washed away.<br>Most fortunate.<br>- Lv. 70+ Shouki no Kami, the Prodigal Challenge Reward"
+        "Text": "<b>Daka's Bell</b>"
     },
     "113044": {
         "Icon": "UI_ItemIcon_113044",
-        "Text": "<b>Pseudo-Stamens</b>",
-        "Desc": "The pale wing-sheathes hiding in a Wenut's tail are as thin as the blooming stamens of a flower.<br>It is said that in the past, even before the beginning of time, they used to travel through the moist land under meadows and forests, similar to birds flying across the sky and fish swimming in the water. It is generally believed that their mimicry of flowers is to lure lost prey caught by sandstorms. There is also a theory, however, that their imitation of a blooming flower was inspired by the splendid blossoms countless epochs ago, which have long gone the way of the desert winds.<br>- Dropped by Lv. 30+ Setekh Wenut"
+        "Text": "<b>Pseudo-Stamens</b>"
     },
     "113045": {
         "Icon": "UI_ItemIcon_113045",
-        "Text": "<b>Evergloom Ring</b>",
-        "Desc": "A mystical weapon obtained after defeating the Four-Armed Envoy of dark tidings.<br>Rings are shaped like passageways, which is why arcane formations that are meant to produce some mystical effect are often ring-shaped.<br>Deep in the land's depths, there once were people who caught a glimpse of an edge of the universe. The majority came to understand that compared to the insignificant lives bound to land by gravity, even the shadows of the magnificent entities within the universe possess a more colorful and concrete form. Among them, there were pioneers who attempted to travel to the dark universe, and those who tried introducing a piece of the real universe to the underground world full of conflict, devoid of hope, with no past or future to speak of. Such rings are perhaps gateways intended to guide the universe itself.<br>- Dropped by Lv. 30+ Iniquitous Baptists"
+        "Text": "<b>Evergloom Ring</b>"
     },
     "113046": {
         "Icon": "UI_ItemIcon_113046",
-        "Text": "<b>Worldspan Fern</b>",
-        "Desc": "A fern taken from the oasis within Apep's body.<br>At the dawn of time, the world belonged to the dragons. There, the ferns were the first to sprout in the lush verdant world of Apep's court.<br>In the ages after, these ferns would become trees, vines, roots, and leaves, blanketing the world with their touch. But Apep still remembers the first frond as it stretched freely toward the sky, making a sound so delicate as to go unheard.<br>- Lv. 70+ Guardian of Apep's Oasis Challenge Reward"
+        "Text": "<b>Worldspan Fern</b>"
     },
     "113047": {
         "Icon": "UI_ItemIcon_113047",
-        "Text": "<b>Primordial Greenbloom</b>",
-        "Desc": "A primordial flower procured from the oasis within Apep.<br>With the passing of eons, flowers grew in fragrance and volume, and they gained a collection of titles as numerous as the stars in the night sky.<br>However, this first flower to bloom never bore any name. For the dragons of old, even if a rose lost its name, it would not lose its scent. Naming things is but how lesser, ephemeral beings understand the world. Life is not constrained by words, and will always grow and evolve.<br>- Lv. 70+ Guardian of Apep's Oasis Challenge Reward"
+        "Text": "<b>Primordial Greenbloom</b>"
     },
     "113048": {
         "Icon": "UI_ItemIcon_113048",
-        "Text": "<b>Everamber</b>",
-        "Desc": "A piece of amber taken from the oasis within Apep. Inside the amber, a small, long-extinct insect remains frozen in time.<br>To the tree, it was circumstance that led this little life to be wreathed within its amber. But for said life, this was fate.<br>Following the heaven-sent disaster, wood, vines, roots, and all manner of flora withered and turned to dust. A great many life forms disappeared.<br>But in the stillness of amber, a nameless insect endures in this otherworldly oasis, reaching a future that no others of its kind could.<br>- Lv. 70+ Guardian of Apep's Oasis Challenge Reward"
+        "Text": "<b>Everamber</b>"
     },
     "113049": {
         "Icon": "UI_ItemIcon_113049",
-        "Text": "<b>Artificed Spare Clockwork Component — Coppelia</b>",
-        "Desc": "An artificed spare clockwork component belonging to Coppelia. It powers this artificed dancer.<br>According to its creator's design, the story of the artificed dancer with delicate joints ends at a merry moment. Coppelia will send whoever attempts to disturb that moment to a chapter of misfortune with her superb combat skills.<br>The Icewind Suite's inspiration comes from \"Clockwork Coppelia,\" a play that was only performed on stage once, and even then, staged only the first couple acts. The play's protagonist fell in love with Coppelia, a clockwork doll he invented that possessed what seemed to be a \"human heart.\" Critics, artists, and writers had looked forward to the premiere, but during the first intermission, the cataclysm that would scar the world befell.<br>All that remained of the story was ruined theater advertisements in outdated magazines, and lines from the first couple acts — retold by audience members who had been present that day.<br>That was many years ago. The first brick of the Opera Epiclese hadn't been laid down, nor had the ruined theater been rebuilt, then sold and resold to a myriad of owners before eventually becoming what is known today as the Hotel Debord. But after centuries, the incomplete Clockwork Coppelia still inspires creators who yearn to depict golden eras or tragedies (and the two often coexist in one story), nor has it ceased to bring new ideas to engineers and inventors devoted to the arts.<br>- Dropped by Lv. 30+ \"Icewind Suite\""
+        "Text": "<b>Artificed Spare Clockwork Component — Coppelia</b>"
     },
     "113050": {
         "Icon": "UI_ItemIcon_113050",
-        "Text": "<b>Artificed Spare Clockwork Component — Coppelius</b>",
-        "Desc": "An artificed spare clockwork component belonging to Coppelius. It powers this artificed dancer.<br>The artificed dancer whirls to a platinum tune, performing an unending waltz of icewind. Coppelius's dance will not stop. He will continue whirling till the bell tolls.<br>In the original Clockwork Coppelia, Coppelius was the clockwork lady's creator and suitor. These are excerpts from the audience members' recollection:<br>\"Mine heart is decided, from today forth, I shall not seek those that make me happy, but bring happiness to those I choose.\"<br>\"This is completely absurd, yet also absurdly commonplace. The wise always take orders from fools, and life is but a vulgar comedy.\"<br>- Dropped by Lv. 30+ \"Icewind Suite\""
+        "Text": "<b>Artificed Spare Clockwork Component — Coppelius</b>"
     },
     "113051": {
         "Icon": "UI_ItemIcon_113051",
-        "Text": "<b>Emperor's Resolution</b>",
-        "Desc": "The giant Armored Crab known as \"Emperor of Fire and Iron\" has crushed countless foes with this claw. Be it clockwork meka, other Fontemer Aberrants, or hunters with ill-placed curiosity — all have yielded under its power.<br>Fontemer Aberrants are different from human beings in that the concepts of aristocracy or inheritance are entirely foreign to them. None of them are born superior. One that survives deadly predators and adversities is able to accumulate infinite power as it keeps hunting and feeding over centuries. Such a creature is often referred to as an overlord for the fear it inspires.<br>In Fontainian folklore, there are two lords amongst Fontemer Aberrants. The strife between them lasted for long years, and one eventually ended up retreating underground and his fury was so intense that it was able to agitate the bitter waters.<br>- Dropped by Lv. 30+ Emperor of Fire and Iron"
+        "Text": "<b>Emperor's Resolution</b>"
     },
     "113052": {
         "Icon": "UI_ItemIcon_113052",
-        "Text": "<b>\"Tourbillon Device\"</b>",
-        "Desc": "A precision-machined mechanical component that counteracts the effects of gravity via high-speed rotations almost impossible to capture with the naked eye.<br>In its long history, the Fontaine Research Institute of Kinetic Energy Engineering has always warred against a flood that once washed countless lives away, and may yet cover earth and sky someday in the future, searching for a means to survive.<br>Arkhium, with its immense energetic potential and power to break the shackles of earth, was once considered the key to the gate of salvation. Though the experimental device built around it failed to achieve the expected results, Fontainian research into it actually began long ago, and ended without any trouble. It has the property of separating matter — or should one say, things that are not specific types of matter.<br>- Dropped by Lv. 30+ Experimental Field Generators"
+        "Text": "<b>\"Tourbillon Device\"</b>"
     },
     "113053": {
         "Icon": "UI_ItemIcon_113053",
-        "Text": "<b>Fontemer Unihorn</b>",
-        "Desc": "As the greatest predator that can arise from seahorses, this being's evolutionary journey is not the same as that experienced by other Fontemer Aberrants. It did not start from a base form before growing larger and stronger, but instead grew limbs and horns that have no place on an ordinary seahorse. Even its musculature and skeleton have changed. It really seems to resemble a fantastical beast from legends of yore more than its original shape. In the imaginations of poets and authors, even seahorses can frolick upon the earth.<br>Fontaine's legends speak of two lords of the Fontemer Aberrants, equals and rivals for many long years. One of them, in time, grew far greater than all its kin, and would eventually establish a lonely court in a cavern.<br>- Dropped by Lv. 30+ Millennial Pearl Seahorses"
+        "Text": "<b>Fontemer Unihorn</b>"
     },
     "113054": {
         "Icon": "UI_ItemIcon_113054",
-        "Text": "<b>Lightless Silk String</b>",
-        "Desc": "A slender strand that somehow ended up entangled on your weapon while fighting the All-Devouring Narwhal.<br>In ancient Fontaine, some thought that Fortuna, which ruled the world, was woven from countless fibers, like the strings of a harp. Strings that resonate with the majestic music would bring happiness to all, while discord would destroy the fabric of the universe.<br>- Lv. 70+ All-Devouring Narwhal Challenge Reward"
+        "Text": "<b>Lightless Silk String</b>"
     },
     "113055": {
         "Icon": "UI_ItemIcon_113055",
-        "Text": "<b>Lightless Eye of the Maelstrom</b>",
-        "Desc": "A strange \"substance\" obtained from fighting against the All-Devouring Narwhal. Its actual weight far exceeds what would be expected given its size.<br>Everything gathers around heavy objects, just as gold attracts more than iron, or the ground more than in the breeze blowing above. Just as light cannot escape from the vortex of darkness, cause and effect is attached to fate, perhaps irreversibly so.<br>But the heavy \"substance\" in your hand doesn't feel real, as if it was only a shadow of the All-Devouring Narwhal's prey. Perhaps you only fought the echoes from the depths of the universe.<br>- Lv. 70+ All-Devouring Narwhal Challenge Reward"
+        "Text": "<b>Lightless Eye of the Maelstrom</b>"
     },
     "113056": {
         "Icon": "UI_ItemIcon_113056",
-        "Text": "<b>Lightless Mass</b>",
-        "Desc": "A fragment produced from the intense battle against the All-Devouring Narwhal.<br>Even in the dark night sky, there are always faint glimmers of light, like pearls gleaming from within the sand, splinters of diamond sprinkled over asphalt, lights lancing through the fog on a misty night, and sparks that ignite the brightest blazes.<br>But look carefully. The lights are slowly disappearing and the darkness is invading from every direction. You will become an incandescent inferno, a new star burning brightly and illuminating the universe for but a brief period. Or, you will become the ruler of darkness that stamps out all such trifling sparks.<br>- Lv. 70+ All-Devouring Narwhal Challenge Reward"
+        "Text": "<b>Lightless Mass</b>"
     },
     "113057": {
         "Icon": "UI_ItemIcon_113057",
-        "Text": "<b>Water That Failed To Transcend</b>",
-        "Desc": "The only remnants of Hydro Tulpas after their parts are dispersed.<br>This substance is very similar to the crystals extracted from the bodies of Fontemer Aberrants, but they contain a lot of tiny impurities, like the bubbles in glass crafted by clumsy craftsmen.<br>They don't look as smooth as the Transoceanic Pearls from the Fontemer Aberrants, but have incredibly sharp spikes extending in all directions. However, instead of appearing dangerous or aggressive, these spikes look as though they wish to escape the center of the crystal, or stretch out and extend in all directions.<br>- Dropped by Lv. 30+ Hydro Tulpas"
+        "Text": "<b>Water That Failed To Transcend</b>"
     },
     "113058": {
         "Icon": "UI_ItemIcon_113058",
-        "Text": "<b>Cloudseam Scale</b>",
-        "Desc": "Cold and solid scales from a Solitary Suanni. They retain pure adeptal energy even after falling off and cannot be damaged by ordinary weapons.<br>Ordinary beasts can sometimes be affected by errant adeptal energy and become more powerful than usual. However, a suanni's adeptal energy originates from within themselves, which is why their leader is often regarded as equal to adepti.<br>Despite being considered auspicious beasts, there are nearly-forgotten legends of a suanni named \"the mountain lord\" attacking villages. The Wushou Dance was thought to have originated from a ritual to appease said being. However, since very few people have seen a suanni at all, the theory naturally cannot be verified.<br>- Dropped by Lv. 30+ Solitary Suanni"
+        "Text": "<b>Cloudseam Scale</b>"
     }
 }
 

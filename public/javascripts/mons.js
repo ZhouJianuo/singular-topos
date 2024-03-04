@@ -34,7 +34,7 @@ $(function () {
     refreshStats()
     var IS_DMG = 0
     if ($('#DEF').val()) IS_DMG = 1
-    var cm = {}
+    var cm = 114514
     var skill_phase = 0
 
     var show_sch = 0
@@ -54,6 +54,7 @@ $(function () {
         document.head.append(script_2)
         script_2.onload = function () {
             m_s = 1
+            if (cm != 114514) renderSkill(cm)
         }
 
         if ($('#MONSTER').val() && (_monsterindex[$('#MONSTER').val()] != undefined)) popMons(_monsterindex[$('#MONSTER').val()])
@@ -210,23 +211,6 @@ $(function () {
     }
 
     function popMons(ind) {
-        clearInterval(si)
-        $('.lt').hide()
-        if (m_s) {
-            popMons_2(ind)
-        } else {
-            $('.lt').show()
-            si = setInterval(function () {
-                if (m_s) {
-                    $('.lt').hide()
-                    popMons_2(ind)
-                    clearInterval(si)
-                }
-            }, 200)
-        }
-    }
-
-    function popMons_2(ind) {
         var me = _monster[ind]
         poplayer({
             header: me.Name + txt.Affix[lang],
@@ -535,7 +519,7 @@ $(function () {
             ]
         })
         renderStat(cur_mon)
-        renderSkill(cur_mon)
+        if (m_s) renderSkill(cur_mon)
     }
 
     function renderSkill(cur_mon) {

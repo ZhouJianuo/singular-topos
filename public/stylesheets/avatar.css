@@ -837,6 +837,16 @@ schedule.selected img {
     margin: -6px auto 10px;
 }
 
+.mat_a img {
+    border: 2px solid transparent;
+    border-radius: 4px;
+}
+
+.mat_a img:hover {
+    border: 2px solid #dddddd;
+    border-radius: 4px;
+}
+
 @media screen and (min-width: 900px) {
     .relic-head tr :nth-child(2) {
         width: 12%;

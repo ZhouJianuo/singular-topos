@@ -884,7 +884,8 @@ $(function () {
                                                             },
                                                         },
                                                     ],
-                                                    attr: { target: '_blank' }
+                                                    attr: { target: '_blank' },
+                                                    class: 'mat_a'
                                                 },
                                                 {
                                                     p: computer_.MiscText.Avatar_Mons[lang2]
@@ -895,12 +896,19 @@ $(function () {
                                         {
                                             div: [
                                                 {
-                                                    img: function (k) {
-                                                        var mat = _MaterialConfig[k.data.SpecialityMat]
-                                                        if (!mat) return imgpre + "homdgcat-res/monster/keq.png"
-                                                        if (!mat.Icon) return imgpre + "homdgcat-res/monster/keq.png"
-                                                        return imgpre + "homdgcat-res/Mat/" + mat.Icon + ".png"
+                                                    a: function (k) {
+                                                        return '/gi/item/' + k.data.SpecialityMat + '?lang=' + lang2
                                                     },
+                                                    t: {
+                                                        img: function (k) {
+                                                            var mat = _MaterialConfig[k.data.SpecialityMat]
+                                                            if (!mat) return imgpre + "homdgcat-res/monster/keq.png"
+                                                            if (!mat.Icon) return imgpre + "homdgcat-res/monster/keq.png"
+                                                            return imgpre + "homdgcat-res/Mat/" + mat.Icon + ".png"
+                                                        },
+                                                    },
+                                                    attr: { target: '_blank' },
+                                                    class: 'mat_a'
                                                 },
                                                 {
                                                     p: function (k) {
@@ -921,12 +929,19 @@ $(function () {
                                         {
                                             div: [
                                                 {
-                                                    img: function (k) {
-                                                        var mat = _MaterialConfig[k.data.TalentMatt]
-                                                        if (!mat) return imgpre + "homdgcat-res/monster/keq.png"
-                                                        if (!mat.Icon) return imgpre + "homdgcat-res/monster/keq.png"
-                                                        return imgpre + "homdgcat-res/Mat/" + mat.Icon + ".png"
-                                                    }
+                                                    a: function (k) {
+                                                        return '/gi/item/' + k.data.TalentMatt + '?lang=' + lang2
+                                                    },
+                                                    t: {
+                                                        img: function (k) {
+                                                            var mat = _MaterialConfig[k.data.TalentMatt]
+                                                            if (!mat) return imgpre + "homdgcat-res/monster/keq.png"
+                                                            if (!mat.Icon) return imgpre + "homdgcat-res/monster/keq.png"
+                                                            return imgpre + "homdgcat-res/Mat/" + mat.Icon + ".png"
+                                                        }
+                                                    },
+                                                    attr: { target: '_blank' },
+                                                    class: 'mat_a'
                                                 },
                                                 {
                                                     p: function (k) {
@@ -966,16 +981,24 @@ $(function () {
                                                         if (!mat.Icon) return false
                                                         return true
                                                     },
-                                                    attr: { target: '_blank' }
+                                                    attr: { target: '_blank' },
+                                                    class: 'mat_a'
                                                 },
                                                 {
-                                                    img: function (k) {
-                                                        var mat = _MaterialConfig[k.data.AscMat]
-                                                        if (!mat) return imgpre + "homdgcat-res/monster/keq.png"
-                                                        if (!mat.Icon) return imgpre + "homdgcat-res/monster/keq.png"
-                                                        return imgpre + "homdgcat-res/Mat/" + mat.Icon + ".png"
+                                                    a: function (k) {
+                                                        return '/gi/item/' + k.data.AscMat + '?lang=' + lang2
                                                     },
-                                                    class: 'img_2'
+                                                    t: {
+                                                        img: function (k) {
+                                                            var mat = _MaterialConfig[k.data.AscMat]
+                                                            if (!mat) return imgpre + "homdgcat-res/monster/keq.png"
+                                                            if (!mat.Icon) return imgpre + "homdgcat-res/monster/keq.png"
+                                                            return imgpre + "homdgcat-res/Mat/" + mat.Icon + ".png"
+                                                        },
+                                                        class: 'img_2'
+                                                    },
+                                                    attr: { target: '_blank' },
+                                                    class: 'mat_a'
                                                 },
                                                 {
                                                     p: function (k) {
@@ -1016,16 +1039,25 @@ $(function () {
                                                         if (!mat.Icon) return false
                                                         return true
                                                     },
-                                                    attr: { target: '_blank' }
+                                                    attr: { target: '_blank' },
+                                                    class: 'mat_a'
                                                 },
                                                 {
-                                                    img: function (k) {
-                                                        var mat = _MaterialConfig[k.data.WeekMat]
-                                                        if (!mat) return imgpre + "homdgcat-res/monster/keq.png"
-                                                        if (!mat.Icon) return imgpre + "homdgcat-res/monster/keq.png"
-                                                        return imgpre + "homdgcat-res/Mat/" + mat.Icon + ".png"
+                                                    a: function (k) {
+                                                        return '/gi/item/' + k.data.WeekMat + '?lang=' + lang2
                                                     },
-                                                    class: 'img_2'
+                                                    t: 
+                                                    {
+                                                        img: function (k) {
+                                                            var mat = _MaterialConfig[k.data.WeekMat]
+                                                            if (!mat) return imgpre + "homdgcat-res/monster/keq.png"
+                                                            if (!mat.Icon) return imgpre + "homdgcat-res/monster/keq.png"
+                                                            return imgpre + "homdgcat-res/Mat/" + mat.Icon + ".png"
+                                                        },
+                                                        class: 'img_2'
+                                                    },
+                                                    attr: { target: '_blank' },
+                                                    class: 'mat_a'
                                                 },
                                                 {
                                                     p: function (k) {
@@ -3091,9 +3123,18 @@ $(function () {
                                 }
                             },
                             {
-                                img: imgpre + 'homdgcat-res/Mat/UI_ItemIcon_' + wpn.AscMatID + '.png',
+                                a: function (k) {
+                                    return '/gi/item/' + wpn.AscMatID + '?lang=' + lang2
+                                },
+                                t: {
+                                    img: imgpre + 'homdgcat-res/Mat/UI_ItemIcon_' + wpn.AscMatID + '.png',
+                                    style: {
+                                        width: '60px'
+                                    }
+                                },
+                                attr: { target: '_blank' },
+                                class: 'mat_a',
                                 style: {
-                                    height: '60px',
                                     padding: '0px 10px'
                                 }
                             },
@@ -3116,6 +3157,7 @@ $(function () {
                                     },
                                 ],
                                 attr: { target: '_blank' },
+                                class: 'mat_a',
                                 style: {
                                     padding: '0px 10px'
                                 }
@@ -3139,6 +3181,7 @@ $(function () {
                                     },
                                 ],
                                 attr: { target: '_blank' },
+                                class: 'mat_a',
                                 style: {
                                     padding: '0px 10px'
                                 }
@@ -3407,45 +3450,9 @@ $(function () {
         $('.weapon_story' + cur_story_ver).show()
     })
 
-    $('body').on('click', '.avatar_mat_1', function () {
-        popMat($(this).attr('data-id').toString())
-    })
-
-    $('body').on('click', '.avatar_mat_2 .img_2, .avatar_mat_2 p', function () {
-        popMat($(this).parent().attr('data-id').toString())
-    })
-
     $('body').on('click', '.asc_button', function () {
         popASC_pre($(this).attr('data-id').toString(), $(this).attr('data-ic').toString(), $(this).attr('data-ib').toString())
     })
-
-    function popMat(matid) {
-        var mat = _MaterialConfig[matid]
-        if (!mat) return
-        var hd = mat.Text.indexOf('<br>')
-        if (hd == -1) hd = mat.Text.length
-        poplayer({
-            header: mat.Text.substring(0, hd) + computer_.MiscText.Avatar_Table_Title_Extra[lang2],
-            width: '100%',
-            class: 'mat-pop',
-            template: {
-                div: [
-                    {
-                        img: imgpre + 'homdgcat-res/Mat/' + mat.Icon + ".png",
-                        class: 'mat-img'
-                    },
-                    {
-                        p: mat.Text,
-                        class: 'mat-name'
-                    },
-                    {
-                        p: mat.Desc,
-                        class: 'mat-desc'
-                    }
-                ],
-            }
-        })
-    }
 
     function popASC_pre(ascid, ascic, ascib) {
         var mat = acs_cache[ascid]

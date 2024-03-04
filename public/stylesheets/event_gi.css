@@ -1,0 +1,412 @@
+* {
+    margin: 0;
+}
+
+header {
+    display: none;
+}
+
+h3 {
+    margin: 0px auto 10px;
+    font-size: 50px;
+    font-weight: 400;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+h3 span {
+    position: relative;
+}
+
+h3 span {
+    color: #fff;
+}
+
+h3 .subtitle {
+    padding: 10px;
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    font-style: normal;
+    margin-bottom: -20px;
+}
+
+h3 a {
+    color: #df903b;
+}
+
+h3 .tlsub {
+    margin-bottom: 15px;
+    font-style: normal;
+    cursor: pointer;
+    display: block;
+}
+
+h3 .links {
+    font-style: normal;
+    line-height: 1.6;
+    cursor: pointer;
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 15px;
+}
+
+container {
+    display: block;
+    max-width: 2000px;
+}
+
+.content {
+    padding: 15px 0px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 1);
+    min-height: 600px;
+}
+
+popheader {
+    height: 40px;
+    line-height: 40px;
+    background: #fff;
+    color: #333;
+    font-size: 18px;
+    font-weight: 600;
+    overflow: hidden;
+}
+
+popbody {
+    overflow-y: scroll;
+    padding: 10px 12px 15px;
+    max-height: calc(90vh - 90px) !important
+}
+
+popdialog {
+    max-height: 90%;
+}
+
+popbody::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+}
+
+.scroller {
+    overflow-x: hidden !important;
+}
+
+::-webkit-scrollbar-thumb:vertical {
+    background-color: #aaaaaa;
+    border-radius: 4px;
+}
+
+schedule {
+    display: block;
+    width: calc((100% - 50px) / 5);
+    text-align: center;
+    padding: 10px 0px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+.a_w_r {
+    margin-top: 0;
+}
+
+.a_w_r schedule {
+    background-color: #27363e;
+    width: 60px;
+    border-radius: 9px;
+    border-width: 0px;
+    display: flex;
+    justify-content: center;
+}
+
+schedule.active {
+    background-color: #2545ba;
+    color: #fff
+}
+
+.a_w_r img {
+    width: 40px;
+}
+
+.area {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.rar {
+    margin-top: 0;
+}
+
+.rar schedule {
+    min-width: 60px;
+    font-size: 14px;
+    width: calc((100% - 60px) / 6)
+}
+
+.item-card {
+    border-radius: 5px;
+    margin: 9px 6px;
+    line-height: 2;
+    background-color: #27363E;
+    color: #dddddd;
+    position: relative;
+    text-align: center;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+}
+
+.item-icon {
+    max-height: 60px;
+    max-width: 60px;
+    margin: auto;
+}
+
+.item-name {
+    font-size: 13px;
+}
+
+.item-up {
+    width: calc(100% - 16px);
+    padding: 8px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.item-down {
+    width: calc(100% - 16px);
+    padding: 8px;
+    background-color: #27363E;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin-bottom: auto;
+}
+
+.name {
+    text-align: center;
+    font-weight: bold;
+    margin: 15px auto;
+    font-size: 16px;
+}
+
+.icon {
+    height: 120px;
+    margin: auto;
+    display: block;
+}
+
+.desc {
+    font-size: 14px;
+    margin-top: 11px;
+    line-height: 2;
+}
+
+.a_section {
+    width: 94.7%;
+    display: inline-block;
+    border-radius: 10px;
+    background-color: #27363E;
+    color: #DDDDDD;
+    position: relative;
+    margin: 15px;
+    line-height: 2;
+    padding: 15px;
+}
+
+.event-name {
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 5px;
+}
+.event-desc {
+    font-size: 15px;
+    text-align: center;
+    margin: 5px auto 15px;
+}
+.event-story {
+    font-size: 14px;
+    margin: 0px 0px 10px;
+}
+.event-img {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.event-img img {
+    margin: 20px auto;
+}
+.event-reward {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.event-reward img {
+    height: 50px;
+    margin: 5px;
+}
+
+.hover-shadow- {
+    padding: 4px;
+    position: relative;
+    cursor: pointer;
+    border: 2px solid #27363e;
+    border-radius: 5px;
+}
+
+.hover-shadow-:hover {
+    border: 2px solid #dddddd;
+}
+
+.event-sel {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.plus, .info {
+    font-size: 20px;
+    cursor: pointer;
+    margin: 15px 5px;
+    padding: 0px 10px;
+    text-align: center;
+    border: 2px solid #27363e;
+    border-radius: 5px;
+}
+
+.plus:hover {
+    border: 2px solid #dddddd;
+}
+
+.info:hover {
+    border: 2px solid #dddddd;
+}
+
+.event-tut {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.tut {
+    width: 100%;
+    padding: 20px 0px;
+}
+
+.tut_img {
+    width: 100%;
+    max-width: 600px;
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+.tut_p {
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+@media screen and (min-width: 500px) and (max-width: 800px) {
+    .tut_p {
+        font-size: 15px;
+    }
+    .tut {
+        width: calc(100% - 20px);
+        padding: 20px 10px;
+    }
+    .plus, .info {
+        font-size: 23px;
+    }
+    .event-reward img {
+        height: 60px;
+        margin: 7px;
+    }
+    .event-name {
+        font-size: 23px;
+    }
+    .event-desc {
+        font-size: 16px;
+    }
+    .event-story {
+        font-size: 15px;
+    }
+    .rar schedule {
+        font-size: 15px;
+    }
+    .item-icon {
+        max-height: 75px;
+        max-width: 75px;
+    }
+    
+    .item-name {
+        font-size: 14px;
+    }
+    .icon {
+        height: 140px;
+    }
+    .desc {
+        font-size: 15px;
+    }
+    .name {
+        font-size: 17px;
+    }
+}
+
+@media screen and (min-width: 800px) {
+    .tut_p {
+        font-size: 16px;
+    }
+    .tut {
+        width: calc(50% - 20px);
+        padding: 20px 10px;
+    }
+    .plus, .info {
+        font-size: 26px;
+    }
+    .event-reward img {
+        height: 70px;
+        margin: 10px;
+    }
+    .event-name {
+        font-size: 26px;
+    }
+    .event-desc {
+        font-size: 17px;
+    }
+    .event-story {
+        font-size: 16px;
+    }
+    .rar schedule {
+        font-size: 16px;
+    }
+    .item-icon {
+        max-height: 90px;
+        max-width: 90px;
+    }
+    
+    .item-name {
+        font-size: 15px;
+    }
+    .icon {
+        height: 160px;
+    }
+    .desc {
+        font-size: 16px;
+    }
+    .name {
+        font-size: 18px;
+    }
+}
