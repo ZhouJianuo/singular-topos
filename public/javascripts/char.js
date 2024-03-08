@@ -1,6 +1,6 @@
 $(function () {
 
-    var no_skillicon = [1101]
+    var no_skillicon = []
 
     var imgpre = $('#IMGPRE').val()
     var avid = $('#AVID').val()
@@ -1205,7 +1205,7 @@ $(function () {
                                 },
                                 {
                                     p: S.Name,
-                                    class: ((S.Icon != undefined) && !no_skillicon.includes(this_avatar._id)) ? 'head_right hr_1' : 'hr_1',
+                                    class: ((S.Icon != undefined) && !no_skillicon.includes(this_avatar._id)) ? 'head_right hr_1' : '',
                                     style: {
                                         color: "#" + elemcolor[this_avatar.Element]
                                     }
@@ -1475,7 +1475,7 @@ $(function () {
                                 },
                                 {
                                     p: ST.Tree1.Name,
-                                    class: ((ST.Tree1.Icon != undefined) && !no_skillicon.includes(this_avatar._id)) ? 'head_right hr_1' : 'hr_1',
+                                    class: ((ST.Tree1.Icon != undefined) && !no_skillicon.includes(this_avatar._id)) ? 'head_right hr_1' : '',
                                     style: {
                                         color: "#" + elemcolor[this_avatar.Element]
                                     }
@@ -1503,7 +1503,7 @@ $(function () {
                                 },
                                 {
                                     p: ST.Tree2.Name,
-                                    class: ((ST.Tree2.Icon != undefined) && !no_skillicon.includes(this_avatar._id)) ? 'head_right hr_1' : 'hr_1',
+                                    class: ((ST.Tree2.Icon != undefined) && !no_skillicon.includes(this_avatar._id)) ? 'head_right hr_1' : '',
                                     style: {
                                         color: "#" + elemcolor[this_avatar.Element]
                                     }
@@ -1531,7 +1531,7 @@ $(function () {
                                 },
                                 {
                                     p: ST.Tree3.Name,
-                                    class: ((ST.Tree3.Icon != undefined) && !no_skillicon.includes(this_avatar._id)) ? 'head_right hr_1' : 'hr_1',
+                                    class: ((ST.Tree3.Icon != undefined) && !no_skillicon.includes(this_avatar._id)) ? 'head_right hr_1' : '',
                                     style: {
                                         color: "#" + elemcolor[this_avatar.Element]
                                     }
@@ -1650,7 +1650,7 @@ $(function () {
                                         },
                                         {
                                             p: S[this_avatar_cur_ver].Rank + ' ' + S[this_avatar_cur_ver].Name,
-                                            class: ((S[this_avatar_cur_ver].Icon != undefined) && !no_skillicon.includes(this_avatar._id)) ? 'head_right hr_1' : 'hr_1',
+                                            class: ((S[this_avatar_cur_ver].Icon != undefined) && !no_skillicon.includes(this_avatar._id)) ? 'head_right hr_1' : '',
                                             style: {
                                                 color: "#" + elemcolor[this_avatar.Element]
                                             }
