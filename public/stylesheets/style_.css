@@ -40,7 +40,7 @@
 
 @font-face {
     font-family: 'GCG';
-    src: url('../fonts/GCG.ttf');
+    src: url('../fonts/GCG.woff');
 }
 
 .hover-shadow, .hover-shadow-white {
