@@ -102,7 +102,7 @@ $(function () {
                     {
                         p: t.Desc,
                         class: 'event-desc',
-                        when: t.Desc.length
+                        when: t.Desc && t.Desc.length
                     },
                     {
                         div: {
@@ -142,7 +142,8 @@ $(function () {
                         class: 'event-story es-' + t._id,
                         style: {
                             display: 'none'
-                        }
+                        },
+                        when: t.Story && t.Story.length
                     },
                     {
                         hr: '',
