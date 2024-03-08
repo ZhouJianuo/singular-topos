@@ -6848,6 +6848,41 @@ var _weaponskill = {
 
 var _changelog = [
     {
+        "Ver": "2.1v4",
+        "Logs": [
+            {
+                "Name": "Acheron",
+                "Color": "Elec",
+                "Notes": [
+                    "<color style='color:#f29d38'>Eidolon #1：</color>The stacking of Quadrivalent Ascendance changed to part of Acheron's Trace, this Eidolon does not have this effect any more",
+                    "<color style='color:#f29d38'>Eidolon #4：</color>Ult Vulnerability 12% → 8%",
+                    "<color style='color:#f29d38'>Eidolon #6：</color>Ult's CRIT DMG +60% → Ult's All-Type RES Penetration +20%"
+                ]
+            },
+            {
+                "Name": "Aventurine",
+                "Color": "Imaginary",
+                "Notes": [
+                    "<color style='color:#f29d38'>Skill: </color>Lv10 Shield: 27% DEF + 360 → 24% DEF + 320",
+                    "<color style='color:#f29d38'>Talent: </color>Aventurine resist control: Can be triggered once every 2 turns → Can be triggered again after 2 turns"
+                ]
+            },
+            {
+                "Name": "Gallagher",
+                "Color": "Fire",
+                "Notes": [
+                    "<color style='color:#f29d38'>Character Introduction: </color> The current head of the Bloodhound Family at Penacony → The Security Officer of the Bloodhound Family at Penacony (Only CN version changed as of v4)"
+                ]
+            },
+            {
+                "Name": "Sigonia, the Unclaimed Desolation",
+                "Notes": [
+                    "Added effect: Crit Rate is increased by 4%"
+                ]
+            }
+        ]
+    },
+    {
         "Ver": "2.1v3",
         "Logs": [
             {
@@ -6929,6 +6964,7 @@ var _changelog = [
 ]
 
 var cl_select = {
-    "2.1v3": 0,
-    "2.1v2": 1
+    "2.1v4": 0,
+    "2.1v3": 1,
+    "2.1v2": 2
 }

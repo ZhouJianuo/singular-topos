@@ -6848,6 +6848,41 @@ var _weaponskill = {
 
 var _changelog = [
     {
+        "Ver": "2.1v4",
+        "Logs": [
+            {
+                "Name": "黄泉",
+                "Color": "Elec",
+                "Notes": [
+                    "<color style='color:#f29d38'>星魂 #1：</color>【四相断我】叠加 3 层的效果改为行迹的一部分，此星魂删除该效果",
+                    "<color style='color:#f29d38'>星魂 #4：</color>终结技易伤 12% → 8%",
+                    "<color style='color:#f29d38'>星魂 #6：</color>终结技暴击伤害提高 60% → 终结技全属性抗性穿透提高 20%"
+                ]
+            },
+            {
+                "Name": "砂金",
+                "Color": "Imaginary",
+                "Notes": [
+                    "<color style='color:#f29d38'>战技：</color>Lv10 护盾量：27%防御力 + 360 → 24%防御力 + 320",
+                    "<color style='color:#f29d38'>天赋：</color>砂金抵挡负面状态：每 2 回合可触发一次 → 在 2 回合后可再次触发"
+                ]
+            },
+            {
+                "Name": "加拉赫",
+                "Color": "Fire",
+                "Notes": [
+                    "<color style='color:#f29d38'>角色介绍：</color>匹诺康尼猎犬家系的家主 → 匹诺康尼猎犬家系的治安官"
+                ]
+            },
+            {
+                "Name": "无主荒星茨冈尼亚",
+                "Notes": [
+                    "新增效果：暴击率提升 4%"
+                ]
+            }
+        ]
+    },
+    {
         "Ver": "2.1v3",
         "Logs": [
             {
@@ -6929,6 +6964,7 @@ var _changelog = [
 ]
 
 var cl_select = {
-    "2.1v3": 0,
-    "2.1v2": 1
+    "2.1v4": 0,
+    "2.1v3": 1,
+    "2.1v2": 2
 }
