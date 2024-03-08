@@ -573,6 +573,13 @@ var links = [
     },
     {
         "Name": {
+            "CH": "物品",
+            "EN": "Items"
+        },
+        "Link" : "/sr/item"
+    },
+    {
+        "Name": {
             "CH": "成就",
             "EN": "Achievements"
         },
@@ -584,13 +591,6 @@ var links = [
             "EN": "Loading Tips"
         },
         "Link" : "/sr/load"
-    },
-    {
-        "Name": {
-            "CH": "物品",
-            "EN": "Items"
-        },
-        "Link" : "/sr/item"
     },
     {
         "Name": {

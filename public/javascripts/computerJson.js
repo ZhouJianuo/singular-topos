@@ -80,6 +80,11 @@ var computer_ = {
             "EN": "<a class='translate_' href='/gi/event?lang=CH'><b>中文</b></a> | <b>English</b> | <a class='translate_' href='/gi/event?lang=RU'><b>Русский</b></a>",
             "RU": "<a class='translate_' href='/gi/event?lang=CH'><b>中文</b></a> | <a class='translate_' href='/gi/event?lang=EN'><b>English</b></a> | <b>Русский</b>"
         },
+        "Translate_GCG": {
+            "CH": "<b>中文</b> | <a class='translate_' href='/gi/gcg?lang=EN'><b>English</b></a> | <a class='translate_' href='/gi/gcg?lang=RU'><b>Русский</b></a>",
+            "EN": "<a class='translate_' href='/gi/gcg?lang=CH'><b>中文</b></a> | <b>English</b> | <a class='translate_' href='/gi/gcg?lang=RU'><b>Русский</b></a>",
+            "RU": "<a class='translate_' href='/gi/gcg?lang=CH'><b>中文</b></a> | <a class='translate_' href='/gi/gcg?lang=EN'><b>English</b></a> | <b>Русский</b>"
+        },
         "Abyss_Reminder": {
             "CH": "<color style='color:#0066FF;'>玉衡杯数据库 abyss.wiki</color>",
             "EN": "<color style='color:#0066FF;'>homdgcat.wiki | t.me/homdgcat</color>",
@@ -6340,13 +6345,25 @@ var links = [
     {
         "Name": {
             "CH": "材料 食物 名片",
-            "EN": "Materials Food Namecards",
-            "RU": "Материал Еда Именные карта"
+            "EN": "<color style='font-size:17px;'>Materials Food Namecards</color>",
+            "RU": "<color style='font-size:17px;'>Материал, Еда, Именные карта</color>"
         },
         "Link": {
             "CH": "/gi/item",
             "EN": "/gi/item",
             "RU": "/gi/item"
+        }
+    },
+    {
+        "Name": {
+            "CH": "七圣召唤",
+            "EN": "<color style='font-size:17px;'>Genius Invocation TCG</color>",
+            "RU": "<color style='font-size:17px;'>Священный призыв семерых</color>"
+        },
+        "Link": {
+            "CH": "/gi/gcg",
+            "EN": "/gi/gcg",
+            "RU": "/gi/gcg"
         }
     },
     {

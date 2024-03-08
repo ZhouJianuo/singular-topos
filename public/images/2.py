@@ -1,5 +1,5 @@
 import os
 
-for i in os.listdir("Cities"):
+for i in os.listdir("GCG"):
     if "#" in i:
-        os.rename("Cities/" + i, "Cities/" + i[:i.find("#")] + '.png')
+        os.rename("GCG/" + i, "GCG/" + i[:i.find("#")] + '.png')

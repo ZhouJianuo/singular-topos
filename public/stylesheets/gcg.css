@@ -1,0 +1,630 @@
+* {
+    margin: 0;
+}
+
+header {
+    display: none;
+}
+
+h3 {
+    margin: 0px auto 10px;
+    font-size: 50px;
+    font-weight: 400;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+h3 span {
+    position: relative;
+}
+
+h3 span {
+    color: #fff;
+}
+
+h3 .subtitle {
+    padding: 10px;
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    font-style: normal;
+    margin-bottom: -20px;
+}
+
+h3 a {
+    color: #df903b;
+}
+
+h3 .tlsub {
+    margin-bottom: 15px;
+    font-style: normal;
+    cursor: pointer;
+    display: block;
+}
+
+h3 .links {
+    font-style: normal;
+    line-height: 1.6;
+    cursor: pointer;
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 15px;
+}
+
+container {
+    display: block;
+    max-width: 2000px;
+}
+
+.content {
+    padding: 15px 0px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 1);
+    min-height: 600px;
+}
+
+popheader {
+    height: 40px;
+    line-height: 40px;
+    background: #fff;
+    color: #333;
+    font-size: 18px;
+    font-weight: 600;
+    overflow: hidden;
+}
+
+popbody {
+    overflow-y: scroll;
+    padding: 10px 12px 15px;
+    max-height: calc(100vh - 40px) !important
+}
+
+popdialog {
+    height: 100%;
+}
+
+popbody::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+}
+
+.scroller {
+    overflow-x: hidden !important;
+}
+
+::-webkit-scrollbar-thumb:vertical {
+    background-color: #aaaaaa;
+    border-radius: 4px;
+}
+
+schedule {
+    display: block;
+    width: calc((100% - 50px) / 5);
+    text-align: center;
+    padding: 10px 0px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+.a_w_r {
+    margin-top: 0;
+}
+
+.a_w_r schedule {
+    background-color: #27363e;
+    width: 60px;
+    border-radius: 9px;
+    border-width: 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.a_w_r schedule.active {
+    background-color: #2545ba;
+}
+
+.a_w_r img {
+    width: 40px;
+}
+
+.area {
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.rar schedule {
+    min-width: 60px;
+    font-size: 14px;
+    width: calc((100% - 60px) / 6)
+}
+
+.item-card {
+    border-radius: 5px;
+    margin: 9px 0;
+    line-height: 2;
+    background-color: #27363E;
+    color: #dddddd;
+    position: relative;
+    text-align: center;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    width: calc((100%) / 3 - 12px)
+}
+
+.item-icon {
+    margin: 5px;
+    width: calc(100% - 10px);
+}
+.recipe-icon {
+    max-height: 50px;
+    max-width: 50px;
+    margin: auto 3px;
+    position: relative;
+    cursor: pointer;
+}
+.recipe-icon img {
+    width: 100%;
+    height: 100%;
+}
+
+.item-name {
+    font-size: 13px;
+}
+
+.item-up {
+    width: 100%;
+    padding: 8px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin-bottom: -20px;
+    position: relative;
+}
+
+.item-down {
+    width: 100%;
+    padding: 8px;
+    background-color: #27363E;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin-bottom: auto;
+}
+
+.name {
+    text-align: center;
+    font-weight: bold;
+    margin: 15px auto;
+    font-size: 16px;
+}
+
+.icon {
+    height: 120px;
+    margin: auto;
+    display: block;
+}
+
+.desc {
+    font-size: 14px;
+    margin-top: 11px;
+    line-height: 2;
+}
+
+.center_div {
+    display: flex;
+    justify-content: center;
+}
+
+.monicon_num {
+    position: absolute;
+    top: -3px;
+    right: 0px;
+    background-color: #fff;
+    z-index: 1000;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 20px;
+    font-size: 13px;
+    font-weight: bold;
+    font-family: 'Arial';
+}
+
+.buff-icon {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 3px;
+    right: 3px;
+}
+
+.mon_body {
+    margin-top: 0px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.a_section ::-webkit-scrollbar-thumb {
+    background-color: #ffffff;
+}
+
+.a_section {
+    width: 94.7%;
+    display: inline-block;
+    border-radius: 10px;
+    background-color: #27363E;
+    color: #DDDDDD;
+    position: relative;
+}
+
+.a_section_content {
+    font-size: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    line-height: 2;
+}
+
+.a_section_content span {
+    font-size: 15px;
+    line-height: 2;
+    margin-left: 0px;
+}
+
+.mon_head {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.weapon_left {
+    width: 70%;
+    max-width: 200px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.weapon_right {
+    width: 100%;
+    margin-top: -25px;
+}
+.weapon_left img {
+    width: 100%;
+    margin: 20px auto;
+}
+.weapon_title {
+    font-size: 16px;
+}
+.weapon_story {
+    font-size: 14px;
+}
+
+.hpsp_div {
+    width: 60px;
+    height: 60px;
+    position: relative;
+}
+
+.hpsp_img {
+    width: 100%;
+    height: 100%;
+}
+
+.hp_num, .sp_num {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    line-height: 60px;
+    font-size: 26px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.hp_num {
+    color: white;
+    -webkit-text-stroke: 0.3px #000;
+}
+
+.sp_num {
+    color: white;
+    -webkit-text-stroke: 0.3px #000;
+}
+
+.tags {
+    margin-top: 30px;
+    margin-bottom: -10px;
+}
+
+.tag_span {
+    padding: 4px 8px;
+    border-radius: 8px;
+    border: 2px solid #dddddd;
+}
+
+.out_hp {
+    position: absolute;
+    width: calc(100% / 3.5);
+    height: calc(150% / 7);
+    top: 0;
+    left: 0;
+    -webkit-text-stroke: 0.2px #000;
+}
+
+.out_sp {
+    position: absolute;
+    height: calc(100% - 20px);
+    width: 18%;
+    max-width: 26px;
+    right: max(calc(13px - 9%), 0px);
+    top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.out_sp_icon {
+    width: 100%;
+    margin: 0px 0px;
+}
+
+.out_hp_icon {
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+
+.out_hp_num {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    top: 0;
+    left: 0;
+}
+
+.out_cost {
+    position: absolute;
+    height: calc(100% - 20px);
+    width: 36%;
+    max-width: 52px;
+    left: max(calc(13px - 9%), 0px);
+    top: 20px;
+    display: flex;
+    flex-direction: column;
+    -webkit-text-stroke: 0.2px #000;
+    font-family: 'GCG';
+}
+
+.a_section_head,
+.a_section_head span {
+    font-size: 17px;
+    font-weight: bold;
+    margin-left: 15px;
+    margin-right: 15px;
+    line-height: 1.55;
+}
+
+.sps {
+    height: 1.3em;
+    position: relative;
+    top: 0.3em;
+    margin: 0 5px;
+}
+
+.sps_num {
+    position: absolute;
+    top: -25%;
+    right: 0;
+    color: #fff;
+    font-family: 'GCG';
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.cost_dice_out {
+    width: 100%;
+}
+
+.sps_num_out {
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: #fff;
+    font-family: 'GCG';
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+
+.cost_dice {
+    height: 2.2em;
+    position: relative;
+    top: 0.7em;
+}
+
+.c_p {
+    margin-top: 10px;
+    font-size: 0.85em;
+}
+
+.sbp img {
+    height: 36px;
+    position: relative;
+    top: 10px;
+}
+.sbp {
+    margin-right: 10px;
+    white-space: pre;
+    font-weight: bold;
+    color: #fff;
+    font-size: 0.85em!important;
+    padding: 4px 6px;
+    border: 1px solid white;
+    border-radius: 3px;
+}
+
+.ref_card {
+    padding: 8px;
+    margin: -8px;
+}
+
+@media screen and (min-width: 500px) and (max-width: 800px) {
+    .a_section_head,
+    .a_section_head span {
+        font-size: 19px;
+    }
+    .out_hp_num {
+        font-size: 20px;
+    }
+    .weapon_title {
+        font-size: 18px;
+    }
+    .weapon_story {
+        font-size: 15px;
+    }
+    .weapon_left {
+        width: 70%;
+        max-width: 200px;
+    }
+    .weapon_right {
+        width: 100%;
+        margin-top: -25px;
+    }
+    .a_section_content {
+        font-size: 16px;
+    }
+
+    .a_section_content span {
+        font-size: 16px;
+    }
+    .rar schedule {
+        font-size: 15px;
+    }
+    .recipe-icon {
+        max-height: 62px;
+        max-width: 62px;
+    }
+    
+    .item-name {
+        font-size: 14px;
+    }
+    .icon {
+        height: 140px;
+    }
+    .desc {
+        font-size: 15px;
+    }
+    .name {
+        font-size: 17px;
+    }
+    .monicon_num {
+        top: -2px;
+        right: 0px;
+        height: 21px;
+        width: 21px;
+        line-height: 21px;
+        font-size: 14px;
+    }
+}
+
+@media screen and (min-width: 800px) {
+    .a_section_head,
+    .a_section_head span {
+        font-size: 20px;
+    }
+    .out_hp_num {
+        font-size: 22px;
+    }
+    .weapon_title {
+        font-size: 20px;
+    }
+    .weapon_story {
+        font-size: 16px;
+    }
+    .weapon_left {
+        width: 38%;
+        max-width: 200px;
+    }
+    .weapon_right {
+        width: calc(62% - 40px);
+        margin-top: 15px;
+    }
+    .a_section_content {
+        font-size: 17px;
+    }
+
+    .a_section_content span {
+        font-size: 17px;
+    }
+    .rar schedule {
+        font-size: 16px;
+    }
+    .recipe-icon {
+        max-height: 75px;
+        max-width: 75px;
+    }
+    
+    .item-name {
+        font-size: 15px;
+    }
+    .icon {
+        height: 160px;
+    }
+    .desc {
+        font-size: 16px;
+    }
+    .name {
+        font-size: 18px;
+    }
+    .monicon_num {
+        top: -2px;
+        right: 0px;
+        height: 21px;
+        width: 21px;
+        line-height: 21px;
+        font-size: 14px;
+    }
+}
+
+@media screen and (min-width: 560px) and (max-width: 700px) {
+    .item-card {
+        width: calc((100%) / 4 - 12px)
+    }
+}
+
+@media screen and (min-width: 700px) and (max-width: 840px) {
+    .item-card {
+        width: calc((100%) / 5 - 12px)
+    }
+}
+
+@media screen and (min-width: 840px) and (max-width: 980px) {
+    .item-card {
+        width: calc((100%) / 6 - 12px)
+    }
+}
+
+@media screen and (min-width: 980px) {
+    .item-card {
+        width: calc((100%) / 7 - 12px)
+    }
+}

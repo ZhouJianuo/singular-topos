@@ -43,7 +43,7 @@
     src: url('../fonts/GCG.ttf');
 }
 
-.hover-shadow {
+.hover-shadow, .hover-shadow-white {
     position: relative;
     cursor: pointer;
 }
@@ -52,6 +52,11 @@
     box-shadow: 8px 8px 5px 0px rgba(0, 0, 0, 0.2);
     left: -3px;
     top: -3px;
+}
+
+.hover-shadow-white:hover {
+    background-color: #000;
+    color: #fff
 }
 
 * {
@@ -615,7 +620,6 @@ h3 .links {
 
 h3 {
     line-height: 1.1;
-    font-family: 'GCG';
 }
 
 h3 .tlsub {

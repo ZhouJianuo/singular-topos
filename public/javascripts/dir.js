@@ -125,13 +125,26 @@ var GI = [
         "Title": {
             "CH": "材料 食物 名片",
             "EN": "Materials Food Namecards",
-            "RU": "Материал Еда Именные карта"
+            "RU": "Материал, Еда, Именные карта"
         },
         "Features": [],
         "Href": {
             "CH": "/gi/item",
             "EN": "/gi/item",
             "RU": "/gi/item"
+        }
+    },
+    {
+        "Title": {
+            "CH": "七圣召唤",
+            "EN": "Genius Invocation TCG",
+            "RU": "Священный призыв семерых"
+        },
+        "Features": [],
+        "Href": {
+            "CH": "/gi/gcg",
+            "EN": "/gi/gcg",
+            "RU": "/gi/gcg"
         }
     },
     {
@@ -303,6 +316,17 @@ var SR = [
     },
     {
         "Title": {
+            "CH": "物品",
+            "EN": "Items"
+        },
+        "Features": [],
+        "Href": {
+            "CH": "/sr/item",
+            "EN": "/sr/item"
+        }
+    },
+    {
+        "Title": {
             "CH": "成就",
             "EN": "Achievements"
         },
@@ -321,17 +345,6 @@ var SR = [
         "Href": {
             "CH": "/sr/load",
             "EN": "/sr/load"
-        }
-    },
-    {
-        "Title": {
-            "CH": "物品",
-            "EN": "Items"
-        },
-        "Features": [],
-        "Href": {
-            "CH": "/sr/item",
-            "EN": "/sr/item"
         }
     },
     {
