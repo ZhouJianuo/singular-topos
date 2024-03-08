@@ -6856,7 +6856,7 @@ var _changelog = [
                 "Notes": [
                     "<color style='color:#f29d38'>星魂 #1：</color>【四相断我】叠加 3 层的效果改为行迹的一部分，此星魂删除该效果",
                     "<color style='color:#f29d38'>星魂 #4：</color>终结技易伤 12% → 8%",
-                    "<color style='color:#f29d38'>星魂 #6：</color>终结技暴击伤害提高 60% → 终结技全属性抗性穿透提高 20%"
+                    "<color style='color:#f29d38'>星魂 #6：</color>终结技暴击伤害提高 60% → 终结技全属性抗性穿透提高 20%，且普攻、战技造成的伤害也会无视敌方的弱点属性进行削韧"
                 ]
             },
             {

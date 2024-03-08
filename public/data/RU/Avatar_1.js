@@ -6856,7 +6856,7 @@ var _changelog = [
                 "Notes": [
                     "<color style='color:#f29d38'>Eidolon #1：</color>The stacking of Quadrivalent Ascendance changed to part of Acheron's Trace, this Eidolon does not have this effect any more",
                     "<color style='color:#f29d38'>Eidolon #4：</color>Ult Vulnerability 12% → 8%",
-                    "<color style='color:#f29d38'>Eidolon #6：</color>Ult's CRIT DMG +60% → Ult's All-Type RES Penetration +20%"
+                    "<color style='color:#f29d38'>Eidolon #6：</color>Ult's CRIT DMG +60% → Ult's All-Type RES Penetration +20%, and Basic ATK and Skill's DMG will also deal Toughness DMG regardless of the enemy's Weakness Type."
                 ]
             },
             {
