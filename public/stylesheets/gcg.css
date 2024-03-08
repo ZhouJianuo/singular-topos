@@ -79,7 +79,7 @@ popheader {
 
 popbody {
     overflow-y: scroll;
-    max-height: calc(100vh - 40px) !important
+    max-height: calc(100vh - 90px) !important
 }
 
 popdialog {
@@ -442,6 +442,7 @@ schedule {
     display: flex;
     justify-content: center;
     flex-direction: column;
+    -webkit-text-stroke: 0.2px #000;
 }
 
 .cost_dice_out {
