@@ -125,7 +125,8 @@ $(function () {
                         hr: '',
                         style: {
                             'margin-top': '20px'
-                        }
+                        },
+                        when: t.Story && t.Story.length
                     },
                     {
                         div: {
