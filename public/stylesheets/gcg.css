@@ -390,7 +390,7 @@ schedule {
     position: absolute;
     height: 100%;
     width: 100%;
-    font-size: 16px;
+    font-size: 20px;
     text-align: center;
     font-weight: bold;
     color: white;
@@ -411,7 +411,6 @@ schedule {
     display: flex;
     flex-direction: column;
     -webkit-text-stroke: 0.2px #000;
-    font-family: 'GCG';
 }
 
 .a_section_head,
@@ -435,7 +434,6 @@ schedule {
     top: -25%;
     right: 0;
     color: #fff;
-    font-family: 'GCG';
     width: 100%;
     height: 100%;
     text-align: center;
@@ -450,7 +448,6 @@ schedule {
     top: 0;
     right: 0;
     color: #fff;
-    font-family: 'GCG';
     width: 100%;
     height: 100%;
     text-align: center;
@@ -495,7 +492,7 @@ schedule {
         font-size: 19px;
     }
     .out_hp_num {
-        font-size: 19px;
+        font-size: 22px;
     }
     .weapon_title {
         font-size: 18px;
@@ -554,7 +551,7 @@ schedule {
         font-size: 20px;
     }
     .out_hp_num {
-        font-size: 22px;
+        font-size: 24px;
     }
     .weapon_title {
         font-size: 20px;
