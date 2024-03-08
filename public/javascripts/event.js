@@ -119,7 +119,7 @@ $(function () {
                             }
                         },
                         class: 'event-reward',
-                        when: t.Reward.length
+                        when: t.Reward && t.Reward.length
                     },
                     {
                         hr: '',
