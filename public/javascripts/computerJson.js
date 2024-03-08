@@ -6466,7 +6466,7 @@ else { $('body').css('font-family', "'Microsoft YaHei', sans-serif") }
 
 $('body').on('click', '._menu_', function () {
     poplayer({
-        header: ' ',
+        header: '<color style=\'color:#fff\'>HomDGCat</color>',
         class: 'yuhengcup',
         width: '95%',
         template: [
