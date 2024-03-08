@@ -1839,6 +1839,78 @@ var _tut = {
     "811202": {
         "Desc": "The ally positioned first in the Team Setup <color=#f29e38ff>gains Energy</color> when <color=#f29e38ff>other allies</color> use their Ultimates, and there is a chance that the ally positioned first will have their next attack's DMG is increased.",
         "Img": "TutorialPage_811202.png"
+    },
+    "609501": {
+        "Desc": "The Clockie's Extras filming experience event now has more available activities. Guests are welcome to try them out!",
+        "Img": "TutorialPage_609501.png"
+    },
+    "610301": {
+        "Desc": "When you face obstacles coming from both sides, <color=#f29e38ff>press and hold the Flip button</color> to stay in the middle of the Spheroid lane and pass them safely.",
+        "Img": "TutorialPage_610301.png"
+    },
+    "610401": {
+        "Desc": "In Sequel Mode, the tracks will continue <color=#f29e38ff>endlessly</color>. Challenge yourself and create your <color=#f29e38ff>highest all-time score</color>!",
+        "Img": "TutorialPage_610401.png"
+    },
+    "605201": {
+        "Desc": "{LAYOUT_MOBILE#Tap}{LAYOUT_CONTROLLER#Press}{LAYOUT_KEYBOARD#Click} the Flip button to dodge roadblocks and opponents. If you dodge right before you're about to crash, it will trigger <color=#f29e38ff>Turbo Dash</color> and grant you a short period of invulnerability.",
+        "Img": "TutorialPage_605201.png"
+    },
+    "605202": {
+        "Desc": "Energy can be accumulated by triggering Turbo Dash and picking up supplies. When energy is full, you will enter <color=#f29e38ff>Nutty Blitz</color> and enter a long period of invulnerability.",
+        "Img": "TutorialPage_605202.png"
+    },
+    "605203": {
+        "Desc": "The film's length is limited in Movie Mode. The progress bar below indicates <color=#f29e38ff>the filming progress</color>.",
+        "Img": "TutorialPage_605203.png"
+    },
+    "605204": {
+        "Desc": "<color=#f29e38ff>Audience Score</color> will be accumulated by conducting Turbo Dash and picking up supplies or slamming into enemies or obstacles while invulnerable. Trigger the requirements above as many times as you can to achieve the <color=#f29e38ff>target Audience Score</color>!",
+        "Img": "TutorialPage_605204.png"
+    },
+    "605301": {
+        "Desc": "When you face obstacles coming from you from converging sides, <color=#f29e38ff>press and hold the Flip button</color> to stay in the middle of the Spheroid lane and pass them safely.",
+        "Img": "TutorialPage_605301.png"
+    },
+    "605401": {
+        "Desc": "Select the Fire button and Hanu will fire toward the side of the tracks. If the attack hits an opponent or an obstacle, it will trigger an <color=#f29e38ff>Action Scene</color> and you will enter a short period of invulnerability.",
+        "Img": "TutorialPage_605401.png"
+    },
+    "605402": {
+        "Desc": "Energy can be accumulated by improving the Action Scene and picking up supplies. When energy is full, you will trigger <color=#f29e38ff>Hanu Time</color> and enter a long period of invulnerability.",
+        "Img": "TutorialPage_605402.png"
+    },
+    "605403": {
+        "Desc": "The film's length is limited in Movie Mode. The progress bar below indicates <color=#f29e38ff>the filming progress</color>.",
+        "Img": "TutorialPage_605403.png"
+    },
+    "605404": {
+        "Desc": "<color=#f29e38ff>Audience Score</color> will be accumulated by conducting Action Scenes and picking up supplies or slamming into enemies or obstacles while invulnerable. Trigger the requirements above as many times as you can to achieve the <color=#f29e38ff>target Audience Score</color>!",
+        "Img": "TutorialPage_605404.png"
+    },
+    "605501": {
+        "Desc": "In the Sequel Mode, the tracks will continue <color=#f29e38ff>endlessly</color>. Challenge yourself and create your <color=#f29e38ff>highest all-time score</color>!",
+        "Img": "TutorialPage_605501.png"
+    },
+    "709001": {
+        "Desc": "If you want to temporarily exit the game or end the transformation, you can interact with the shrinking machine again or teleport using the Map.",
+        "Img": "TutorialPage_709001.png"
+    },
+    "709101": {
+        "Desc": "Boss Stone's minions will experience true calamity when Hanu fires his missile! After taking aim at an enemy, hitting the fire button will unleash the Hanu Missile and consume ammunition.",
+        "Img": "TutorialPage_709101.png"
+    },
+    "709102": {
+        "Desc": "Enemies will drop ammo after being defeated. If 1 round of ammo hits multiple enemies, more ammo is dropped at once.",
+        "Img": "TutorialPage_709102.png"
+    },
+    "709103": {
+        "Desc": "If Brother Hanu has no more ammo left, you can return to Hanu Launcher's position to unlock the Hanu Missile again and replenish 1 ammo.",
+        "Img": "TutorialPage_709103.png"
+    },
+    "709201": {
+        "Desc": "If you use the Hanu Missile to ignite the fireworks, it will trigger an explosion that defeats enemies, and is even capable of destroying walls.",
+        "Img": "TutorialPage_709201.png"
     }
 }
 
