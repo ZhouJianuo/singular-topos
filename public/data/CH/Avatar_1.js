@@ -6853,6 +6853,7 @@ var _changelog = [
             {
                 "Name": "「石心十人」诡弈砂金",
                 "Color": "Imaginary",
+                "Mon": true,
                 "Notes": [
                     "<color style='color:#f29d38'>分散投资：</color>伤害 120% x5~8 → 110% x5~8",
                     "<color style='color:#f29d38'>败者退席：</color>伤害 620% → 570%",
@@ -6862,6 +6863,7 @@ var _changelog = [
             {
                 "Name": "忆域迷因「狂怒褪去之壳」",
                 "Color": "Quantum",
+                "Mon": true,
                 "Notes": [
                     "<color style='color:#f29d38'>速度：</color>158 → 145（高等级）",
                     "<color style='color:#f29d38'>宿怨如浪翻涌：</color>伤害 200% → 180%",

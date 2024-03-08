@@ -6853,6 +6853,7 @@ var _changelog = [
             {
                 "Name": "Ten Stonehearts: Aventurine of Stratagems",
                 "Color": "Imaginary",
+                "Mon": true,
                 "Notes": [
                     "<color style='color:#f29d38'>Distributed Investment：</color>DMG 120% x5~8 → 110% x5~8",
                     "<color style='color:#f29d38'>The Loser's Time Is Over：</color>DMG 620% → 570%",
@@ -6862,6 +6863,7 @@ var _changelog = [
             {
                 "Name": "Memory Zone Meme \"Shell of Faded Rage\"",
                 "Color": "Quantum",
+                "Mon": true,
                 "Notes": [
                     "<color style='color:#f29d38'>SPD：</color>158 → 145 (at high levels)",
                     "<color style='color:#f29d38'>Tide of Enduring Grudges：</color>DMG 200% → 180%",

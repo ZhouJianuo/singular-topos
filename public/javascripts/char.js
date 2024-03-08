@@ -220,13 +220,21 @@ $(function () {
             $('.cl_data').render({
                 div: [
                     {
-                        div: {
-                            p: t.Name,
-                            style: {
-                                color: t.Color ? ('#' + elemcolor[t.Color]) : ''
+                        div: [
+                            {
+                                img: imgpre + 'images/GCG_UI/Monster.png',
+                                class: 'head_left',
+                                when: t.Mon
+                            },
+                            {
+                                p: t.Name,
+                                style: {
+                                    color: t.Color ? ('#' + elemcolor[t.Color]) : ''
+                                },
+                                class: t.Mon ? 'head_right' : t.Mon
                             }
-                        },
-                        class: 'a_section_head'
+                        ],
+                        class: 'a_section_head head_withimg'
                     },
                     {
                         div: {
