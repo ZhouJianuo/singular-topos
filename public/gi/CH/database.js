@@ -935,6 +935,20 @@ var _SpiralAbyssSchedule = [
             1031,
             1032
         ]
+    },
+    {
+        "Name": "16",
+        "Show": "惊喜 16",
+        "Generation": 99,
+        "OpenTime": "By 秋诺<br>2024/03/08",
+        "Phases": [],
+        "Blessings": [],
+        "Floors": [
+            57,
+            58,
+            69,
+            1034
+        ]
     }
 ]
 
@@ -50831,6 +50845,306 @@ var _SpiralAbyssFloorConfig = {
                                 "Note": {
                                     "Text": "防护强化"
                                 }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "1034": {
+        "Disorder": "仅在此层，地脉的涌流平缓通顺。",
+        "ShowVers": [
+            7
+        ],
+        "Chambers": [
+            {
+                "Name": "12-1",
+                "Level": 95,
+                "GoalType": 0,
+                "GoalParam": 3,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        7,
+                        22,
+                        34
+                    ]
+                },
+                "DPS": {
+                    "7": 2059157
+                },
+                "Upper": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 20102,
+                                "Num": 1,
+                                "Affix": [
+                                    5002
+                                ],
+                                "Note": {
+                                    "Text": "防护强化"
+                                }
+                            },
+                            {
+                                "ID": 20103,
+                                "Num": 2,
+                                "Affix": [
+                                    5002
+                                ],
+                                "Note": {
+                                    "Text": "防护强化"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 40612,
+                                "Note": {
+                                    "Text": "荒"
+                                },
+                                "Num": 2
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 53101,
+                                "Num": 2,
+                                "Affix": [
+                                    6106
+                                ],
+                                "Note": {
+                                    "Text": "水泡",
+                                    "Color": "Water"
+                                }
+                            },
+                            {
+                                "ID": 30501,
+                                "Num": 2,
+                                "Affix": [
+                                    1026
+                                ],
+                                "Note": {
+                                    "Text": "迟滞之水",
+                                    "Color": "Water"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 20302,
+                                "Num": 2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Name": "12-2",
+                "Level": 98,
+                "GoalType": 0,
+                "GoalParam": 3,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        7,
+                        22,
+                        34
+                    ]
+                },
+                "DPS": {
+                    "7": 3296038
+                },
+                "Upper": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 10401,
+                                "Num": 3,
+                                "Affix": [
+                                    4186
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 60509,
+                                "Num": 1,
+                                "Affix": [
+                                    6106
+                                ],
+                                "Note": {
+                                    "Text": "水泡",
+                                    "Color": "Water"
+                                }
+                            },
+                            {
+                                "ID": 60510,
+                                "Num": 1,
+                                "Affix": [
+                                    6101
+                                ],
+                                "Note": {
+                                    "Text": "冰牢",
+                                    "Color": "Ice"
+                                }
+                            },
+                            {
+                                "ID": 60511,
+                                "Num": 1,
+                                "Affix": [
+                                    6104
+                                ],
+                                "Note": {
+                                    "Text": "雷光矩阵",
+                                    "Color": "Elec"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 61901,
+                        "Monsters": [
+                            {
+                                "ID": 61901,
+                                "Num": 1,
+                                "Affix": [
+                                    5427
+                                ],
+                                "Note": {
+                                    "Text": "深渊特化"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Name": "12-3",
+                "Level": 100,
+                "GoalType": 0,
+                "GoalParam": 3,
+                "Buff": {
+                    "Buff1": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        20,
+                        21,
+                        23,
+                        24
+                    ],
+                    "Buff2": [
+                        15,
+                        25,
+                        26,
+                        28,
+                        29,
+                        30,
+                        35
+                    ],
+                    "Buff3": [
+                        19
+                    ]
+                },
+                "DPS": {
+                    "7": 3799011
+                },
+                "Upper": [
+                    {
+                        "WaveDesc": 61801,
+                        "Monsters": [
+                            {
+                                "ID": 61801,
+                                "Num": 1,
+                                "Affix": [
+                                    61801
+                                ],
+                                "Note": {
+                                    "Text": "深渊特化"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "Lower": [
+                    {
+                        "WaveDesc": 1,
+                        "Monsters": [
+                            {
+                                "ID": 21103,
+                                "Num": 2,
+                                "Affix": [
+                                    4190
+                                ],
+                                "Note": {
+                                    "Text": "深渊特化"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "WaveDesc": 2,
+                        "Monsters": [
+                            {
+                                "ID": 30601,
+                                "Num": 2
                             }
                         ]
                     }
