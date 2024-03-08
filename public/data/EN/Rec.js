@@ -44,8 +44,8 @@ var _rec = [
         "Group": 4
     },
     {
-        "Name": "City upon a Hill",
-        "Desc": "The city is built on the mountain, with no shadow to shield it.",
+        "Name": "City Upon a Hill",
+        "Desc": "The city is built on the mountain, and no shadow can cover it.",
         "Unlock": "Obtained from completing Trailblaze Mission \"Lost Generation\"",
         "Group": 4
     },
@@ -375,7 +375,7 @@ var _rec = [
     },
     {
         "Name": "A Trap With No Return",
-        "Desc": "Their power is with me... You are but cinders of the Old World soon to become ashes!",
+        "Desc": "THEIR power is with me... You are but cinders of the Old World soon to become ashes!",
         "Unlock": "Obtained from completing the Trailblaze Mission \"Silent Galaxy\"",
         "Group": 2
     },

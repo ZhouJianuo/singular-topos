@@ -281,7 +281,7 @@ var _event = [
     {
         "_id": 60008,
         "Icon": "BtnRogueM9.png",
-        "Name": "Simulated Universe (World 9)",
+        "Name": "Simulated Universe: World 9",
         "Desc": "In the Immersion Device of Simulated Universe: World 9, Trailblazers can exchange for Planar Ornaments \"Izumo Gensei and Takama Divine Realm\" and \"Sigonia, the Unclaimed Desolation\"",
         "Story": "◆ Gameplay Rules ◆<br>I, Herta, hereby explain the rules of the Simulated Universe.<br>● As you fight your way through the Simulated Universe, you may encounter powerful Blessings from different Paths, random Occurrences, or special Curios.<br>● In the Simulated Universe game mode, you can experience randomly-generated maze combinations, enhanced Elite Enemies, and boss enemies.<br><br>◆ Gameplay Rewards ◆<br>● There are currently multiple worlds in the Simulated Universe. New worlds will be gradually unlocked as you progress through the Simulated Universe and Trailblaze Missions, providing new stages, content, and rewards.<br>● Clearing every world in the Simulated Universe for the first time will grant rewards, including the 4-star character Herta (Erudition: Ice), Stellar Jades, and Star Rail Passes.<br>● Complete the Simulated Universe to receive points and get rewards by accumulating points. The Point Rewards will be reset every Monday at 04:00 (server time).<br>● Unlock Blessings and Curios in the Simulated Universe Index to receive Stellar Jades.<br>● Defeating an enemy in Simulated Universe's \"Domain — Elite\" or \"Domain — Boss\" will earn extra drops.<br>● Complete the Simulated Universe to receive Ability Points. These are used in the Ability Tree to activate powerful abilities and aid in your exploration of the Simulated Universe.<br>● Starting from Simulated Universe — World 3, Planar Ornament exchange will be available after you defeat Elite or Boss enemies.",
         "Reward": [
@@ -1197,7 +1197,7 @@ var _item = {
         "_id": 202016,
         "Rarity": 4,
         "Name": "One-Year Anniversary Commemoration",
-        "Desc": "Obtainable from completing the \"Cosmodyssey\" event.",
+        "Desc": "Avatar obtainable by completing the \"Cosmodyssey\" event.",
         "Story": "Pom-Pom holding a one-year-anniversary commemorative gold medal.<br><br><i>\"Ta-da! This commemorative medal is for you! Here's to the future expeditions we'll be experiencing together!\"</i>",
         "Icon": "avatarhead/IconHead_202016.png",
         "Pic": "avatarhead/IconHead_202016.png"
@@ -1290,7 +1290,7 @@ var _item = {
         "Rarity": 5,
         "Name": "On the Fall of an Aeon",
         "Desc": "Light Cone for the Path of <color=#f29e38ff>Destruction</color>. The Light Cone ability is only effective for characters of this Path.",
-        "Story": "It began with a flash of light.<br>One by one, they fell as the threat of expiration loomed over them.<br>They had to stop self-replicating and rushed to embrace each other,<br>trying to offer the right to reproduce in exchange for a possibility of survival.<br>They held hands in a show of unprecedented unity.<br>...But the Paths met an abrupt end,<br>and they were headed to a true death.",
+        "Story": "It began with a flash of light.<br>One by one, THEY fell as the threat of expiration loomed over THEM.<br>THEY had to stop self-replicating and rushed to embrace each other,<br>trying to offer the right to reproduce in exchange for a possibility of survival.<br>THEY held hands in a show of unprecedented unity.<br>...But the Paths met an abrupt end,<br>and THEY were headed to a true death.",
         "Icon": "lightconeicons/24000.png",
         "Pic": "LightCone/24000.png"
     },
@@ -1299,7 +1299,7 @@ var _item = {
         "Rarity": 5,
         "Name": "Cruising in the Stellar Sea",
         "Desc": "Light Cone for the Path of <color=#f29e38ff>The Hunt</color>. The Light Cone ability is only effective for characters of this Path.",
-        "Story": "Coursing 'tween the sea of stars,<br>they cruise with the speed of a rainbow's chromatic flash.<br>A journey of hunting undying abominations,<br>collecting cures and miracles,<br>and seeking deliverance.<br>Akin to a vow unbroken, their voyage will be,<br>ad infinitum.",
+        "Story": "Coursing 'tween the sea of stars,<br>THEY cruise with the speed of a rainbow's chromatic flash.<br>A journey of hunting undying abominations,<br>collecting cures and miracles,<br>and seeking deliverance.<br>Akin to a vow unbroken, THEIR voyage will be,<br>ad infinitum.",
         "Icon": "lightconeicons/24001.png",
         "Pic": "LightCone/24001.png"
     },
@@ -1308,7 +1308,7 @@ var _item = {
         "Rarity": 5,
         "Name": "Texture of Memories",
         "Desc": "Light Cone for the Path of <color=#f29e38ff>Preservation</color>. The Light Cone ability is only effective for characters of this Path.",
-        "Story": "The universe was like a badland filled with rubbish.<br>There were the occasional treasure that lies undiscovered.<br>They looked through the cracks of the past, choosing seeds of memory.<br>...If a new life was to be born, its seed has to be dead.<br>Precious stones of pink, blue, and white were brought forth,<br>twinkling gently in their seed plot,<br>even though the universe held onto its enigmatic silence.",
+        "Story": "The universe was like a badland filled with rubbish.<br>There were the occasional treasure that lies undiscovered.<br>THEY looked through the cracks of the past, choosing seeds of memory.<br>...If a new life was to be born, its seed has to be dead.<br>Precious stones of pink, blue, and white were brought forth,<br>twinkling gently in THEIR seed plot,<br>even though the universe held onto its enigmatic silence.",
         "Icon": "lightconeicons/24002.png",
         "Pic": "LightCone/24002.png"
     },
@@ -1398,11 +1398,14 @@ var _item = {
     "221005": {
         "_id": 221005,
         "Rarity": 4,
-        "Name": "Phone Wallpaper",
+        "Name": "Cosmodyssey",
         "Desc": "After obtaining Phone wallpapers, they can be changed in the Phone function",
-        "Story": "",
-        "Icon": "221000.png",
-        "Pic": "221000.png"
+        "Story": "<i>\"The 'trailblaze' will not end.\"</i><br><i>\"Let's seek the shimmering stars together!\"</i>",
+        "Icon": "221005.png",
+        "Pic": "221005.png",
+        "Src": [
+            ""
+        ]
     },
     "110152": {
         "_id": 110152,
@@ -1733,7 +1736,7 @@ var _tut = {
         "Img": "TutorialPage_811001.png"
     },
     "811003": {
-        "Desc": "Trailblazers can contribute their <color=#f29e38ff>Trailblaze Funds</color> to Pom-Pom. The more <color=#f29e38ff>funds</color> they contribute, the more <color=#f29e38ff>personal rewards</color> they unlock.<br>The more all Trailblazers contribute, the more Cosmic Contribution rewards will be unlocked.",
+        "Desc": "Trailblazers can contribute their <color=#f29e38ff>Trailblaze Funds</color> to Pom-Pom. The more <color=#f29e38ff>funds</color> they contribute, the more <color=#f29e38ff>personal rewards</color> they unlock.<br>Contributions from all Trailblazers will gradually unlock Cosmic Contribution rewards.",
         "Img": "TutorialPage_811003.png"
     },
     "811004": {
@@ -1741,7 +1744,7 @@ var _tut = {
         "Img": "TutorialPage_811003.png"
     },
     "810001": {
-        "Desc": "Accumulating <color=#f29e38ff>Grit Value</color> during battle can increase your <color=#f29e38ff>Grit Phase</color>.<br>When entering <color=#f29e38ff>Grit Phase 4: Might Unleashed</color>, you can obtain powerful stage buffs and significantly improve your combat effectiveness.",
+        "Desc": "Accumulating <color=#f29e38ff>Grit Value</color> during battle can increase your <color=#f29e38ff>Grit Phase</color>.<br>When entering <color=#f29e38ff>\"Grit Phase 4: Might Unleashed\"</color>, you can obtain powerful stage buffs and significantly improve your combat effectiveness.",
         "Img": "TutorialPage_810001.png"
     },
     "810002": {
@@ -1757,7 +1760,7 @@ var _tut = {
         "Img": "TutorialPage_810101.png"
     },
     "810102": {
-        "Desc": "During Grit Phase 4: Might Unleashed, non-boss enemies will have their HP drastically reduced after entering battle.<br>Attention: The boss's HP for this current stage is extremely high. You can use the <color=#f29e38ff>Overflow DMG</color> dealt when defeating <color=#f29e38ff>non-boss enemies</color> to deal high amounts of DMG to the boss.",
+        "Desc": "During \"Grit Phase 4: Might Unleashed\", non-boss enemies will have their HP drastically reduced after entering battle.<br>Attention: The boss's HP for this current stage is extremely high. You can use the <color=#f29e38ff>Overflow DMG</color> dealt when defeating <color=#f29e38ff>non-boss enemies</color> to deal high amounts of DMG to the boss.",
         "Img": "TutorialPage_810102.png"
     },
     "810201": {
@@ -1765,7 +1768,7 @@ var _tut = {
         "Img": "TutorialPage_810201.png"
     },
     "810202": {
-        "Desc": "During Grit Phase 4: Might Unleashed, non-boss enemies will have their HP drastically reduced after entering battle.<br>Attention: The boss's HP for this current stage is extremely high. You can use the <color=#f29e38ff>Overflow DMG</color> dealt when defeating <color=#f29e38ff>non-boss enemies</color> to deal high amounts of DMG to the boss.",
+        "Desc": "During \"Grit Phase 4: Might Unleashed\", non-boss enemies will have their HP drastically reduced after entering battle.<br>Attention: The boss's HP for this current stage is extremely high. You can use the <color=#f29e38ff>Overflow DMG</color> dealt when defeating <color=#f29e38ff>non-boss enemies</color> to deal high amounts of DMG to the boss.",
         "Img": "TutorialPage_810202.png"
     },
     "810301": {
@@ -1789,7 +1792,7 @@ var _tut = {
         "Img": "TutorialPage_810501.png"
     },
     "810502": {
-        "Desc": "Every <color=#f29e38ff>Trotter</color> defeated will inflict all enemies with the <color=#f29e38ff>Vulnerability debuff</color>.<br>Make good use of the debuffs applied by defeating Trotters to quickly take down the boss during Grit Phase 4: Might Unleashed.",
+        "Desc": "Every <color=#f29e38ff>Trotter</color> defeated will inflict all enemies with the <color=#f29e38ff>Vulnerability debuff</color>.<br>Make good use of the debuffs applied by defeating Trotters to quickly take down the boss during \"Grit Phase 4: Might Unleashed\".",
         "Img": "TutorialPage_810502.png"
     },
     "810601": {
@@ -1797,15 +1800,15 @@ var _tut = {
         "Img": "TutorialPage_810501.png"
     },
     "810602": {
-        "Desc": "Every <color=#f29e38ff>Trotter</color> defeated will inflict all enemies with random <color=#f29e38ff>DoTs</color>.<br>Make good use of the DoTs applied by defeating Trotters to quickly take down the boss during Grit Phase 4: Might Unleashed.",
+        "Desc": "Every <color=#f29e38ff>Trotter</color> defeated will inflict all enemies with random <color=#f29e38ff>DoTs</color>.<br>Make good use of the DoTs applied by defeating Trotters to quickly take down the boss during \"Grit Phase 4: Might Unleashed\".",
         "Img": "TutorialPage_810502.png"
     },
     "810701": {
-        "Desc": "Grit Value accumulates when allies HP <color=#f29e38ff>increases</color> or <color=#f29e38ff>decreases</color>.",
+        "Desc": "Grit Value accumulates when allies' HP <color=#f29e38ff>increases</color> or <color=#f29e38ff>decreases</color>.",
         "Img": "TutorialPage_810701.png"
     },
     "810702": {
-        "Desc": "During Grit Phase 4: Might Unleashed, every <color=#f29e38ff>1500</color> of Max HP increase or decrease grants 1 stack, up to 99 stacks.",
+        "Desc": "During \"Grit Phase 4: Might Unleashed\", every <color=#f29e38ff>1500</color> of HP increase or decrease grants 1 stack of buffs, up to 99 stacks.",
         "Img": "TutorialPage_810702.png"
     },
     "810801": {
@@ -1813,7 +1816,7 @@ var _tut = {
         "Img": "TutorialPage_810801.png"
     },
     "810802": {
-        "Desc": "Weakness Breaking <color=#f29e38ff>non-boss enemies</color> can remove the boss's <color=#f29e38ff>Weakness Protection</color>.<br>During Grit Phase 4: Might Unleashed, the enemy Boss will not have Weakness Protection. Attacking enemies in the <color=#f29e38ff>Weakness Broken state</color> will provide immense buffs.",
+        "Desc": "Weakness Breaking <color=#f29e38ff>non-boss enemies</color> can remove the boss's <color=#f29e38ff>Weakness Protection</color>.<br>During \"Grit Phase 4: Might Unleashed\", the enemy Boss will not have Weakness Protection. Attacking enemies in the <color=#f29e38ff>Weakness Broken state</color> will provide immense buffs.",
         "Img": "TutorialPage_810802.png"
     },
     "810901": {
@@ -1821,7 +1824,7 @@ var _tut = {
         "Img": "TutorialPage_810801.png"
     },
     "810902": {
-        "Desc": "Attacking an enemy's Weakness can inflict <color=#f29e38ff>Toughness depletion</color> on all enemies.<br>During Grit Phase 4: Might Unleashed, the enemy Boss will not have Weakness Protection. Attacking enemies in the <color=#f29e38ff>Weakness Broken state</color> will provide immense buffs.",
+        "Desc": "Breaking an enemy's Weakness can inflict <color=#f29e38ff>Toughness reduction</color> on all enemies.<br>During \"Grit Phase 4: Might Unleashed\", the enemy Boss will not have Weakness Protection. Attacking enemies in the <color=#f29e38ff>Weakness Broken state</color> will provide immense buffs.",
         "Img": "TutorialPage_810802.png"
     },
     "811101": {
@@ -1829,7 +1832,7 @@ var _tut = {
         "Img": "TutorialPage_811101.png"
     },
     "811102": {
-        "Desc": "After <color=#f29e38ff>the ally positioned second</color> in the Team Setup uses their Ultimate, <color=#f29e38ff>charges</color> Energy for the ally positioned first, and increases the DMG dealt by the next attack for the ally positioned first.",
+        "Desc": "After <color=#f29e38ff>the ally positioned second</color> in the Team Setup uses their Ultimate, <color=#f29e38ff>charges Energy</color> for the ally positioned first, and increases the DMG dealt by the next attack from the ally positioned first.",
         "Img": "TutorialPage_811102.png"
     },
     "811201": {
@@ -1837,7 +1840,7 @@ var _tut = {
         "Img": "TutorialPage_811101.png"
     },
     "811202": {
-        "Desc": "The ally positioned first in the Team Setup <color=#f29e38ff>gains Energy</color> when <color=#f29e38ff>other allies</color> use their Ultimates, and there is a chance that the ally positioned first will have their next attack's DMG is increased.",
+        "Desc": "The ally positioned first in the Team Setup <color=#f29e38ff>gains Energy</color> when <color=#f29e38ff>other allies</color> use their Ultimates, and there is a chance that the ally positioned first will have their next attack's DMG increased.",
         "Img": "TutorialPage_811202.png"
     },
     "709001": {
@@ -1849,7 +1852,7 @@ var _tut = {
         "Img": "TutorialPage_709101.png"
     },
     "709102": {
-        "Desc": "Enemies will drop ammo after being defeated. If 1 round of ammo hits multiple enemies, more ammo is dropped at once.",
+        "Desc": "Enemies will drop ammo after being defeated. If one round of ammo hits multiple enemies, more ammo is dropped at once.",
         "Img": "TutorialPage_709102.png"
     },
     "709103": {
@@ -1873,11 +1876,11 @@ var _tut = {
         "Img": "TutorialPage_610401.png"
     },
     "605201": {
-        "Desc": "{LAYOUT_MOBILE#Tap}{LAYOUT_CONTROLLER#Press}{LAYOUT_KEYBOARD#Click} the Flip button to dodge roadblocks and opponents. If you dodge right before you're about to crash, it will trigger <color=#f29e38ff>Turbo Dash</color> and grant you a short period of invulnerability.",
+        "Desc": "{LAYOUT_MOBILE#Tap}{LAYOUT_CONTROLLER#Press}{LAYOUT_KEYBOARD#Click} the Flip button to dodge obstacles and opponents. If you dodge right before you're about to crash into a roadblock, you will trigger <color=#f29e38ff>Turbo Dash</color> and experience a short period of invulnerability.",
         "Img": "TutorialPage_605201.png"
     },
     "605202": {
-        "Desc": "Energy can be accumulated by triggering Turbo Dash and picking up supplies. When energy is full, you will enter <color=#f29e38ff>Nutty Blitz</color> and enter a long period of invulnerability.",
+        "Desc": "Energy can be accumulated by triggering Turbo Dash and picking up supplies. When energy is full, you will enter <color=#f29e38ff>Nutty Blitz</color> and experience a long period of invulnerability.",
         "Img": "TutorialPage_605202.png"
     },
     "605203": {
@@ -1885,19 +1888,19 @@ var _tut = {
         "Img": "TutorialPage_605203.png"
     },
     "605204": {
-        "Desc": "<color=#f29e38ff>Audience Score</color> will be accumulated by conducting Turbo Dash and picking up supplies or slamming into enemies or obstacles while invulnerable. Trigger the requirements above as many times as you can to achieve the <color=#f29e38ff>target Audience Score</color>!",
+        "Desc": "<color=#f29e38ff>Audience Score</color> will be accumulated by conducting Turbo Dash, picking up supplies, or slamming into opponents or obstacles while invulnerable. Trigger the events above as many times as you can to achieve the <color=#f29e38ff>target Audience Score</color>!",
         "Img": "TutorialPage_605204.png"
     },
     "605301": {
-        "Desc": "When you face obstacles coming from you from converging sides, <color=#f29e38ff>press and hold the Flip button</color> to stay in the middle of the Spheroid lane and pass them safely.",
+        "Desc": "When you face obstacles coming from both sides, <color=#f29e38ff>press and hold the Flip button</color> to stay in the middle of the Spheroid lane and pass them safely.",
         "Img": "TutorialPage_605301.png"
     },
     "605401": {
-        "Desc": "Select the Fire button and Hanu will fire toward the side of the tracks. If the attack hits an opponent or an obstacle, it will trigger an <color=#f29e38ff>Action Scene</color> and you will enter a short period of invulnerability.",
+        "Desc": "Select the Fire button and Hanu will fire toward the other side of the tracks. If the attack hits an opponent or an obstacle, it will trigger an <color=#f29e38ff>Action Scene</color> and you will enter a short period of invulnerability.",
         "Img": "TutorialPage_605401.png"
     },
     "605402": {
-        "Desc": "Energy can be accumulated by improving the Action Scene and picking up supplies. When energy is full, you will trigger <color=#f29e38ff>Hanu Time</color> and enter a long period of invulnerability.",
+        "Desc": "Energy can be accumulated by conducting Action Scenes and picking up supplies. When energy is full, you will trigger <color=#f29e38ff>Hanu Time</color> and enter a long period of invulnerability.",
         "Img": "TutorialPage_605402.png"
     },
     "605403": {
@@ -1905,11 +1908,11 @@ var _tut = {
         "Img": "TutorialPage_605403.png"
     },
     "605404": {
-        "Desc": "<color=#f29e38ff>Audience Score</color> will be accumulated by conducting Action Scenes and picking up supplies or slamming into enemies or obstacles while invulnerable. Trigger the requirements above as many times as you can to achieve the <color=#f29e38ff>target Audience Score</color>!",
+        "Desc": "<color=#f29e38ff>Audience Score</color> will be accumulated by conducting Action Scenes, picking up supplies, or slamming into opponents or obstacles while invulnerable. Trigger the events above as many times as you can to achieve the <color=#f29e38ff>target Audience Score</color>!",
         "Img": "TutorialPage_605404.png"
     },
     "605501": {
-        "Desc": "In the Sequel Mode, the tracks will continue <color=#f29e38ff>endlessly</color>. Challenge yourself and create your <color=#f29e38ff>highest all-time score</color>!",
+        "Desc": "In Sequel Mode, the tracks will continue <color=#f29e38ff>endlessly</color>. Challenge yourself and create your <color=#f29e38ff>highest all-time score</color>!",
         "Img": "TutorialPage_605501.png"
     }
 }

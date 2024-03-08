@@ -485,7 +485,7 @@ var _curio = [
         "_id": 106,
         "Name": "Black Hole Trap",
         "Desc": "You will obtain 10.0 Cosmic Fragments for each ally whose HP is at max when winning a battle.",
-        "Story": "The places where the space-time curvature are most extreme are suspected to be locations cast in the vast shadow of the Aeon of Nihility. However, as their presence is shrouded in mist and mystery, there have been many a scholar who thought they have received revelations from the Aeon, causing them to leave all behind to seek Nihility's gloom without giving thought or concern to their own safety. In the end, none of them ever returned. It is a common belief among mainstream academic circles that this is a trap intentionally set by hidden powers, but according to survey data, there truly seems to be some kind of unknown energy flowing through these parts for reasons unfathomed.",
+        "Story": "The places where the space-time curvature are most extreme are suspected to be locations cast in the vast shadow of the Aeon of Nihility. However, as THEIR presence is shrouded in mist and mystery, there have been many a scholar who thought they have received revelations from the Aeon, causing them to leave all behind to seek Nihility's gloom without giving thought or concern to their own safety. In the end, none of them ever returned. It is a common belief among mainstream academic circles that this is a trap intentionally set by hidden powers, but according to survey data, there truly seems to be some kind of unknown energy flowing through these parts for reasons unfathomed.",
         "Icon": "1043.png",
         "Ver": "1.3"
     },

@@ -19,7 +19,7 @@ var _fiction = [
             },
             {
                 "Name": "Reductio Ad Absurdum",
-                "Desc": "Apart from follow-up attacks, all other kinds of DMG dealt by allies can also accumulate progress equal to <color style='color:#f29e38;'>20.0%</color> of the original DMG amount."
+                "Desc": "Apart from follow-up attacks, all other kinds of DMG dealt by allies can also accumulate progress equal to <color style='color:#f29e38;'>18.0%</color> of the original DMG amount."
             }
         ],
         "Floors": [
@@ -404,7 +404,7 @@ var _fiction = [
                                         "Num": 2,
                                         "Score": 3000,
                                         "HP": 41211,
-                                        "SPD": 120,
+                                        "SPD": 110,
                                         "Stance": 6
                                     }
                                 ]
@@ -470,7 +470,7 @@ var _fiction = [
                                         "Num": 4,
                                         "Score": 3000,
                                         "HP": 76928,
-                                        "SPD": 120,
+                                        "SPD": 110,
                                         "Stance": 6
                                     }
                                 ]
@@ -542,7 +542,7 @@ var _fiction = [
                                         "ID": 1002050,
                                         "Num": 5,
                                         "Score": 500,
-                                        "HP": 22373,
+                                        "HP": 24859,
                                         "SPD": 110,
                                         "Stance": 2
                                     },
@@ -550,7 +550,7 @@ var _fiction = [
                                         "ID": 1002030,
                                         "Num": 5,
                                         "Score": 500,
-                                        "HP": 42712,
+                                        "HP": 47458,
                                         "SPD": 110,
                                         "Stance": 3
                                     },
@@ -558,7 +558,7 @@ var _fiction = [
                                         "ID": 800205040,
                                         "Num": 2,
                                         "Score": 2500,
-                                        "HP": 56949,
+                                        "HP": 63277,
                                         "SPD": 128,
                                         "Stance": 3
                                     }
@@ -575,7 +575,7 @@ var _fiction = [
                                         "ID": 2002010,
                                         "Num": 8,
                                         "Score": 500,
-                                        "HP": 45198,
+                                        "HP": 50621,
                                         "SPD": 132,
                                         "Stance": 2
                                     },
@@ -583,7 +583,7 @@ var _fiction = [
                                         "ID": 2012010,
                                         "Num": 8,
                                         "Score": 500,
-                                        "HP": 42373,
+                                        "HP": 47458,
                                         "SPD": 110,
                                         "Stance": 2
                                     },
@@ -591,7 +591,7 @@ var _fiction = [
                                         "ID": 801301019,
                                         "Num": 4,
                                         "Score": 3000,
-                                        "HP": 155367,
+                                        "HP": 174011,
                                         "SPD": 110,
                                         "Stance": 6
                                     }
@@ -951,7 +951,7 @@ var _fiction = [
             },
             {
                 "Name": "Sympathetic Detonation",
-                "Desc": "When enemy targets use their abilities, inflicts 1 stack of Scalded on them and adjacent units. While in the Scalded state, targets receive <color style='color:#f29e38;'>12.0%</color> more DMG, stacking up to <color style='color:#f29e38;'>3.0</color> stack(s). This effect is effective on the set amount of DMG from the Whimsicality effect."
+                "Desc": "When enemy targets use their abilities, inflicts 1 stack of Scalded on them and adjacent units. While in the Scalded state, targets receive <color style='color:#f29e38;'>10.0%</color> more DMG, stacking up to <color style='color:#f29e38;'>3.0</color> stack(s). This effect is effective on the set amount of DMG from the Whimsicality effect."
             },
             {
                 "Name": "Splash",
@@ -1845,7 +1845,7 @@ var _fiction = [
                                         "ID": 800102015,
                                         "Num": 12,
                                         "Score": 500,
-                                        "HP": 47273,
+                                        "HP": 50425,
                                         "SPD": 100,
                                         "Stance": 1
                                     },
@@ -1853,7 +1853,7 @@ var _fiction = [
                                         "ID": 800304010,
                                         "Num": 3,
                                         "Score": 3000,
-                                        "HP": 262628,
+                                        "HP": 280136,
                                         "SPD": 178,
                                         "Stance": 6
                                     },
@@ -1861,7 +1861,7 @@ var _fiction = [
                                         "ID": 100401005,
                                         "Num": 1,
                                         "Score": 5000,
-                                        "HP": 1050511,
+                                        "HP": 1120545,
                                         "SPD": 144,
                                         "Stance": 12
                                     }
@@ -1938,7 +1938,7 @@ var _fiction = [
                                         "Stance": 3
                                     },
                                     {
-                                        "ID": 1003010,
+                                        "ID": 100301016,
                                         "Num": 1,
                                         "Score": 4000,
                                         "HP": 34812,
@@ -2012,7 +2012,7 @@ var _fiction = [
                                         "Stance": 3
                                     },
                                     {
-                                        "ID": 1003010,
+                                        "ID": 100301016,
                                         "Num": 2,
                                         "Score": 4000,
                                         "HP": 62661,
@@ -5172,7 +5172,7 @@ var _fictionhp = {
             3566096,
             5368352,
             4687676,
-            4513665
+            4721122
         ],
         "Index": {
             "2001": 0,
@@ -5194,7 +5194,7 @@ var _fictionhp = {
             5931885,
             6282615,
             6639229,
-            7840313,
+            8000691,
             8358565
         ],
         "Index": {
@@ -5773,15 +5773,6 @@ var _monster = {
         "2": [
             "Phys",
             "Elec"
-        ],
-        "3": 1
-    },
-    "1003010": {
-        "1": "mostericon/Monster_1003010.png",
-        "2": [
-            "Phys",
-            "Ice",
-            "Quantum"
         ],
         "3": 1
     },

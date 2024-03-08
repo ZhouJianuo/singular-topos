@@ -257,7 +257,7 @@ var _loadingdesc = [
         "_id": 20017,
         "Ver": 2.1,
         "Name": "Clock Studios Theme Park",
-        "Desc": "An amusement park built by The Family, themed around a string of popular Penaconian cartoon characters.<br>The location belongs to Clock Studios in name, owned by the legendary mogul Watchmaker."
+        "Desc": "An amusement park built by The Family, themed around a string of popular Penaconian cartoon characters.<br>The park nominally belongs to Clock Studios and is owned by the legendary mogul Watchmaker."
     },
     {
         "_id": 20019,

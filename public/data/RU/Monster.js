@@ -30328,13 +30328,13 @@ var _monster = [
         "Desc": "Penacony's service machinery that got out of control due to the emotional interference in the Dreamscape.<br>Originally a culinary robot, it is still breathing fire for grilling ingredients after losing control, intending to burn the diners to crisps.",
         "Stats": {
             "HP": 10.0,
-            "ATK": 14.99994,
+            "ATK": 12.00006,
             "DEF": 1.0,
             "SPD": 100.0,
             "Stance": 16.0
         },
         "StatsExtra": {
-            "Stance": -4.0
+            "Stance": -6.0
         },
         "Weak": [
             "Fire",
@@ -31173,7 +31173,7 @@ var _monster = [
             "HP": 14.0,
             "ATK": 18.0,
             "DEF": 1.0,
-            "SPD": 120.0,
+            "SPD": 110.0,
             "Stance": 12.0
         },
         "Weak": [
@@ -31225,7 +31225,7 @@ var _monster = [
             "HP": 4.0,
             "ATK": 18.0,
             "DEF": 1.0,
-            "SPD": 120.0,
+            "SPD": 110.0,
             "Stance": 12.0
         },
         "StatsExtra": {
@@ -31276,11 +31276,14 @@ var _monster = [
         "Name": "Memory Zone Meme \"Shell of Faded Rage\"",
         "Desc": "Entities imbued with specific cognition, accumulated from fragments of the subconscious in the Memory Zone.<br>Memories of anguish burn like flames, scorching the heart. When the suffering fades away, the life born from resentment will rise from the ashes, accumulating boundless fury.",
         "Stats": {
-            "HP": 16.0,
+            "HP": 18.0,
             "ATK": 18.0,
             "DEF": 1.0,
-            "SPD": 120.0,
+            "SPD": 110.0,
             "Stance": 12.0
+        },
+        "StatsExtra": {
+            "Stance": -4.0
         },
         "Weak": [
             "Elec",
@@ -52451,7 +52454,7 @@ var _monster = [
         "Desc": "A senior manager in the IPC Strategic Investment Department and one of the Ten Stonehearts. Using his Cornerstone, he obtained a share of the authority of an Emanator of Preservation. He throws his own body into the game as a die, ready to face death in order to walk away alive.",
         "Stats": {
             "HP": 36.0,
-            "ATK": 19.99998,
+            "ATK": 21.68676,
             "DEF": 1.0,
             "SPD": 120.0,
             "Stance": 15.0

@@ -38,6 +38,11 @@
     src: url('../fonts/Deshret.otf');
 }
 
+@font-face {
+    font-family: 'GCG';
+    src: url('../fonts/GCG.ttf');
+}
+
 .hover-shadow {
     position: relative;
     cursor: pointer;

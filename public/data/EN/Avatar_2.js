@@ -23190,7 +23190,52 @@ var _avatarskill = {
             "MaxLevel": 9,
             "Type": "Basic ATK",
             "Tag": "Single Target",
-            "Desc": "Deals Imaginary DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Aventurine's DEF to a single enemy.",
+            "Desc": "Deals Imaginary DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Aventurine's DEF to a single target enemy.",
+            "Params": [
+                [
+                    0.5
+                ],
+                [
+                    0.6
+                ],
+                [
+                    0.7
+                ],
+                [
+                    0.8
+                ],
+                [
+                    0.9
+                ],
+                [
+                    1.0
+                ],
+                [
+                    1.1
+                ],
+                [
+                    1.2
+                ],
+                [
+                    1.3
+                ]
+            ],
+            "BP": 1,
+            "SPAdd": 20.0,
+            "AttackType": "Normal",
+            "Stance": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1304_Normal"
+        },
+        "v4": {
+            "Name": "Straight Bet",
+            "MaxLevel": 9,
+            "Type": "Basic ATK",
+            "Tag": "Single Target",
+            "Desc": "Deals Imaginary DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Aventurine's DEF to a single target enemy.",
             "Params": [
                 [
                     0.5
@@ -23483,95 +23528,203 @@ var _avatarskill = {
             "MaxLevel": 15,
             "Type": "Skill",
             "Tag": "Defense",
-            "Desc": "Provides a Fortified Wager shield that blocks DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Aventurine's DEF plus <color style='color:#f29e38;'><b>#2[f]</b></color> to all allies for <b>#3[f]</b> turn(s). When gaining Fortified Wager repeatedly, the Shield effect can stack up to <color style='color:#f29e38;'><b>#4[p]</b></color> of the Shield provided by the current Skill plus <color style='color:#f29e38;'><b>#5[f]</b></color>.",
+            "Desc": "Provides all allies with a Fortified Wager shield that can block DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Aventurine's DEF plus <color style='color:#f29e38;'><b>#2[f]</b></color>, lasting for <b>#3[f]</b> turn(s). When repeatedly gaining Fortified Wager, the Shield effect can stack, up to <b>#4[p]</b> of the Shield provided by the current Skill.",
             "Params": [
                 [
+                    0.16,
+                    80.0,
+                    3.0,
+                    2.0
+                ],
+                [
+                    0.17,
+                    128.0,
+                    3.0,
+                    2.0
+                ],
+                [
                     0.18,
-                    90.0,
+                    164.0,
                     3.0,
                     2.0
                 ],
                 [
-                    0.19125,
-                    144.0,
+                    0.19,
+                    200.0,
                     3.0,
                     2.0
                 ],
                 [
-                    0.2025,
-                    184.5,
+                    0.2,
+                    224.0,
                     3.0,
                     2.0
                 ],
                 [
-                    0.21375,
-                    225.0,
+                    0.208,
+                    248.0,
                     3.0,
                     2.0
                 ],
                 [
-                    0.225,
-                    252.0,
+                    0.216,
+                    266.0,
                     3.0,
                     2.0
                 ],
                 [
-                    0.234,
-                    279.0,
+                    0.224,
+                    284.0,
                     3.0,
                     2.0
                 ],
                 [
-                    0.243,
-                    299.25,
+                    0.232,
+                    302.0,
                     3.0,
                     2.0
                 ],
                 [
-                    0.252,
-                    319.5,
+                    0.24,
+                    320.0,
                     3.0,
                     2.0
                 ],
                 [
-                    0.261,
-                    339.75,
+                    0.248,
+                    338.0,
                     3.0,
                     2.0
                 ],
                 [
-                    0.27,
-                    360.0,
+                    0.256,
+                    356.0,
                     3.0,
                     2.0
                 ],
                 [
-                    0.279,
-                    380.25,
+                    0.264,
+                    374.0,
                     3.0,
                     2.0
                 ],
                 [
-                    0.288,
-                    400.5,
+                    0.272,
+                    392.0,
                     3.0,
                     2.0
                 ],
                 [
-                    0.297,
-                    420.75,
+                    0.28,
+                    410.0,
+                    3.0,
+                    2.0
+                ]
+            ],
+            "BP": -1,
+            "SPAdd": 30.0,
+            "AttackType": "BPSkill",
+            "Stance": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1304_BP"
+        },
+        "v4": {
+            "Name": "Cornerstone Deluxe",
+            "MaxLevel": 15,
+            "Type": "Skill",
+            "Tag": "Defense",
+            "Desc": "Provides all allies with a Fortified Wager shield that can block DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Aventurine's DEF plus <color style='color:#f29e38;'><b>#2[f]</b></color>, lasting for <b>#3[f]</b> turn(s). When repeatedly gaining Fortified Wager, the Shield effect can stack, up to <b>#4[p]</b> of the Shield provided by the current Skill.",
+            "Params": [
+                [
+                    0.16,
+                    80.0,
                     3.0,
                     2.0
                 ],
                 [
-                    0.306,
-                    441.0,
+                    0.17,
+                    128.0,
                     3.0,
                     2.0
                 ],
                 [
-                    0.315,
-                    461.25,
+                    0.18,
+                    164.0,
+                    3.0,
+                    2.0
+                ],
+                [
+                    0.19,
+                    200.0,
+                    3.0,
+                    2.0
+                ],
+                [
+                    0.2,
+                    224.0,
+                    3.0,
+                    2.0
+                ],
+                [
+                    0.208,
+                    248.0,
+                    3.0,
+                    2.0
+                ],
+                [
+                    0.216,
+                    266.0,
+                    3.0,
+                    2.0
+                ],
+                [
+                    0.224,
+                    284.0,
+                    3.0,
+                    2.0
+                ],
+                [
+                    0.232,
+                    302.0,
+                    3.0,
+                    2.0
+                ],
+                [
+                    0.24,
+                    320.0,
+                    3.0,
+                    2.0
+                ],
+                [
+                    0.248,
+                    338.0,
+                    3.0,
+                    2.0
+                ],
+                [
+                    0.256,
+                    356.0,
+                    3.0,
+                    2.0
+                ],
+                [
+                    0.264,
+                    374.0,
+                    3.0,
+                    2.0
+                ],
+                [
+                    0.272,
+                    392.0,
+                    3.0,
+                    2.0
+                ],
+                [
+                    0.28,
+                    410.0,
                     3.0,
                     2.0
                 ]
@@ -23811,7 +23964,116 @@ var _avatarskill = {
             "MaxLevel": 15,
             "Type": "Ultimate",
             "Tag": "Single Target",
-            "Desc": "Randomly gains 1 to <b>#1[f]</b> points of Blind Bet and inflicts Unnerved on a single enemy, lasting for <b>#4[f]</b> turn(s). Deals Imaginary DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Aventurine's DEF to the target enemy. When an ally attacks an Unnerved enemy, the CRIT DMG dealt increases by <color style='color:#f29e38;'><b>#3[p]</b></color>.",
+            "Desc": "Randomly gains 1 to <b>#1[f]</b> points of Blind Bet. Then inflicts Unnerved on a single target enemy, lasting for <b>#4[f]</b> turn(s). And deals Imaginary DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Aventurine's DEF to the single target enemy. When an ally hits an Unnerved enemy target, the CRIT DMG dealt increases by <color style='color:#f29e38;'><b>#3[p]</b></color>.",
+            "Params": [
+                [
+                    7.0,
+                    1.62,
+                    0.09,
+                    3.0
+                ],
+                [
+                    7.0,
+                    1.728,
+                    0.096,
+                    3.0
+                ],
+                [
+                    7.0,
+                    1.836,
+                    0.102,
+                    3.0
+                ],
+                [
+                    7.0,
+                    1.944,
+                    0.108,
+                    3.0
+                ],
+                [
+                    7.0,
+                    2.052,
+                    0.114,
+                    3.0
+                ],
+                [
+                    7.0,
+                    2.16,
+                    0.12,
+                    3.0
+                ],
+                [
+                    7.0,
+                    2.295,
+                    0.1275,
+                    3.0
+                ],
+                [
+                    7.0,
+                    2.43,
+                    0.135,
+                    3.0
+                ],
+                [
+                    7.0,
+                    2.565,
+                    0.1425,
+                    3.0
+                ],
+                [
+                    7.0,
+                    2.7,
+                    0.15,
+                    3.0
+                ],
+                [
+                    7.0,
+                    2.808,
+                    0.156,
+                    3.0
+                ],
+                [
+                    7.0,
+                    2.916,
+                    0.162,
+                    3.0
+                ],
+                [
+                    7.0,
+                    3.024,
+                    0.168,
+                    3.0
+                ],
+                [
+                    7.0,
+                    3.132,
+                    0.174,
+                    3.0
+                ],
+                [
+                    7.0,
+                    3.24,
+                    0.18,
+                    3.0
+                ]
+            ],
+            "BP": 0,
+            "SPAdd": 5.0,
+            "SPNeed": 110.0,
+            "AttackType": "Ultra",
+            "Stance": [
+                3.0,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1304_Ultra"
+        },
+        "v4": {
+            "Name": "Roulette Shark",
+            "MaxLevel": 15,
+            "Type": "Ultimate",
+            "Tag": "Single Target",
+            "Desc": "Randomly gains 1 to <b>#1[f]</b> points of Blind Bet. Then inflicts Unnerved on a single target enemy, lasting for <b>#4[f]</b> turn(s). And deals Imaginary DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Aventurine's DEF to the single target enemy. When an ally hits an Unnerved enemy target, the CRIT DMG dealt increases by <color style='color:#f29e38;'><b>#3[p]</b></color>.",
             "Params": [
                 [
                     7.0,
@@ -24166,7 +24428,129 @@ var _avatarskill = {
             "MaxLevel": 15,
             "Type": "Talent",
             "Tag": "Bounce",
-            "Desc": "Effect RES increases by <color style='color:#f29e38;'><b>#4[p]</b></color> on a single target with Fortified Wager. When a single target with Fortified Wager is attacked, Aventurine gains 1 point of Blind Bet. When Aventurine has Fortified Wager, he can resist <u>Crowd Control debuffs</u> 1 time every <b>#5[f]</b> turn(s) and additionally gains <b>#1[f]</b> point(s) of Blind Bet after being attacked. Upon reaching 7 points of Blind Bet, Aventurine consumes 7 points to launch a <b>#2[f]</b>-hit <u>follow-up attack</u> with each hit dealing Imaginary DMG equal to <color style='color:#f29e38;'><b>#3[p]</b></color> of Aventurine's DEF to a random enemy. Blind Bet is capped at <b>10</b> points.<br><br><color style='color:#f29e38;'><b>Follow-Up Attack</b></color><br>Unleashes an extra attack on the target. This effect is triggered automatically when requirements are met.<br><br><color style='color:#f29e38;'><b>Crowd Control debuff</b></color><br>Frozen, Entanglement, Imprisonment, Dominated, Outrage, and Strong Reverberation",
+            "Desc": "The Effect RES increases by <color style='color:#f29e38;'><b>#4[p]</b></color> for a single ally with Fortified Wager. And when this allied character gets attacked, Aventurine gains 1 point of Blind Bet. When Aventurine has Fortified Wager, he can resist <u>Crowd Control debuffs</u>. This effect can trigger again after <b>#5[f]</b> turn(s). Aventurine additionally gains <b>#1[f]</b> point(s) of Blind Bet after getting attacked. Upon reaching 7 points of Blind Bet, Aventurine consumes the 7 points to launch a <b>#2[f]</b>-hit <u>follow-up attack</u>, with each hit dealing Imaginary DMG equal to <color style='color:#f29e38;'><b>#3[p]</b></color> of Aventurine's DEF to a single random enemy. Blind Bet is capped at <b>10</b> points.<br><br><color style='color:#f29e38;'><b>Follow-Up Attack</b></color><br>Unleashes an extra attack on the target. This effect is triggered automatically when requirements are met.<br><br><color style='color:#f29e38;'><b>Crowd Control debuff</b></color><br>Frozen, Entanglement, Imprisonment, Dominated, Outrage, and Strong Reverberation",
+            "Params": [
+                [
+                    1.0,
+                    7.0,
+                    0.125,
+                    0.25,
+                    2.0
+                ],
+                [
+                    1.0,
+                    7.0,
+                    0.1375,
+                    0.275,
+                    2.0
+                ],
+                [
+                    1.0,
+                    7.0,
+                    0.15,
+                    0.3,
+                    2.0
+                ],
+                [
+                    1.0,
+                    7.0,
+                    0.1625,
+                    0.325,
+                    2.0
+                ],
+                [
+                    1.0,
+                    7.0,
+                    0.175,
+                    0.35,
+                    2.0
+                ],
+                [
+                    1.0,
+                    7.0,
+                    0.1875,
+                    0.375,
+                    2.0
+                ],
+                [
+                    1.0,
+                    7.0,
+                    0.20312,
+                    0.40625,
+                    2.0
+                ],
+                [
+                    1.0,
+                    7.0,
+                    0.21875,
+                    0.4375,
+                    2.0
+                ],
+                [
+                    1.0,
+                    7.0,
+                    0.23438,
+                    0.46875,
+                    2.0
+                ],
+                [
+                    1.0,
+                    7.0,
+                    0.25,
+                    0.5,
+                    2.0
+                ],
+                [
+                    1.0,
+                    7.0,
+                    0.2625,
+                    0.525,
+                    2.0
+                ],
+                [
+                    1.0,
+                    7.0,
+                    0.275,
+                    0.55,
+                    2.0
+                ],
+                [
+                    1.0,
+                    7.0,
+                    0.2875,
+                    0.575,
+                    2.0
+                ],
+                [
+                    1.0,
+                    7.0,
+                    0.3,
+                    0.6,
+                    2.0
+                ],
+                [
+                    1.0,
+                    7.0,
+                    0.3125,
+                    0.625,
+                    2.0
+                ]
+            ],
+            "BP": 0,
+            "SPAdd": 1.0,
+            "Stance": [
+                0.33333,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1304_Passive"
+        },
+        "v4": {
+            "Name": "Shot Loaded Right",
+            "MaxLevel": 15,
+            "Type": "Talent",
+            "Tag": "Bounce",
+            "Desc": "The Effect RES increases by <color style='color:#f29e38;'><b>#4[p]</b></color> for a single ally with Fortified Wager. And when this allied character gets attacked, Aventurine gains 1 point of Blind Bet. When Aventurine has Fortified Wager, he can resist <u>Crowd Control debuffs</u>. This effect can trigger again after <b>#5[f]</b> turn(s). Aventurine additionally gains <b>#1[f]</b> point(s) of Blind Bet after getting attacked. Upon reaching 7 points of Blind Bet, Aventurine consumes the 7 points to launch a <b>#2[f]</b>-hit <u>follow-up attack</u>, with each hit dealing Imaginary DMG equal to <color style='color:#f29e38;'><b>#3[p]</b></color> of Aventurine's DEF to a single random enemy. Blind Bet is capped at <b>10</b> points.<br><br><color style='color:#f29e38;'><b>Follow-Up Attack</b></color><br>Unleashes an extra attack on the target. This effect is triggered automatically when requirements are met.<br><br><color style='color:#f29e38;'><b>Crowd Control debuff</b></color><br>Frozen, Entanglement, Imprisonment, Dominated, Outrage, and Strong Reverberation",
             "Params": [
                 [
                     1.0,
@@ -24341,6 +24725,25 @@ var _avatarskill = {
                 0.0
             ],
             "Icon": "SkillIcon_1304_Normal"
+        },
+        "v4": {
+            "Name": "Attack",
+            "MaxLevel": 1,
+            "Type": "",
+            "Tag": "",
+            "Desc": "Attacks an enemy, and when the battle starts, reduces their Toughness of the corresponding Type.",
+            "Params": [
+                []
+            ],
+            "BP": 0,
+            "SPAdd": 0,
+            "AttackType": "MazeNormal",
+            "Stance": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1304_Normal"
         }
     },
     "130407": {
@@ -24396,8 +24799,32 @@ var _avatarskill = {
             "Name": "The Red or the Black",
             "MaxLevel": 1,
             "Type": "Technique",
-            "Tag": "Enhance",
-            "Desc": "After using the Technique, 1 of the following effects will be granted:<br>There is a chance for DEF to increase by <b>#1[p]</b>.<br>There is a high chance for DEF to increase by <b>#2[p]</b>.<br>There is a small chance for DEF to increase by <b>#3[p]</b>.<br>Only the latest effect will be kept.<br>After entering the next battle, increases all allies' DEF by the corresponding amount, lasting for <b>#4[f]</b> turn(s).",
+            "Tag": "Defense",
+            "Desc": "After using the Technique, 1 of the following effects will be granted:<br>There is a chance for DEF to increase by <b>#1[p]</b>.<br>There is a high chance for DEF to increase by <b>#2[p]</b>.<br>There is a small chance for DEF to increase by <b>#3[p]</b>.<br><br>Note that when this Technique is used repeatedly, the acquired effect with the highest buff value is retained.<br>When the next battle starts, increases all allies' DEF by the corresponding value, lasting for <b>#4[f]</b> turn(s).",
+            "Params": [
+                [
+                    0.24,
+                    0.36,
+                    0.6,
+                    3.0
+                ]
+            ],
+            "BP": 0,
+            "SPAdd": 0,
+            "AttackType": "Maze",
+            "Stance": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1304_Maze"
+        },
+        "v4": {
+            "Name": "The Red or the Black",
+            "MaxLevel": 1,
+            "Type": "Technique",
+            "Tag": "Defense",
+            "Desc": "After using the Technique, 1 of the following effects will be granted:<br>There is a chance for DEF to increase by <b>#1[p]</b>.<br>There is a high chance for DEF to increase by <b>#2[p]</b>.<br>There is a small chance for DEF to increase by <b>#3[p]</b>.<br><br>Note that when this Technique is used repeatedly, the acquired effect with the highest buff value is retained.<br>When the next battle starts, increases all allies' DEF by the corresponding value, lasting for <b>#4[f]</b> turn(s).",
             "Params": [
                 [
                     0.24,
@@ -24513,7 +24940,52 @@ var _avatarskill = {
             "MaxLevel": 9,
             "Type": "Basic ATK",
             "Tag": "Single Target",
-            "Desc": "Deals Fire DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Gallagher's ATK to a single enemy.",
+            "Desc": "Deals Fire DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Gallagher's ATK to a single target enemy.",
+            "Params": [
+                [
+                    0.5
+                ],
+                [
+                    0.6
+                ],
+                [
+                    0.7
+                ],
+                [
+                    0.8
+                ],
+                [
+                    0.9
+                ],
+                [
+                    1.0
+                ],
+                [
+                    1.1
+                ],
+                [
+                    1.2
+                ],
+                [
+                    1.3
+                ]
+            ],
+            "BP": 1,
+            "SPAdd": 20.0,
+            "AttackType": "Normal",
+            "Stance": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1301_Normal"
+        },
+        "v4": {
+            "Name": "Corkage Fee",
+            "MaxLevel": 9,
+            "Type": "Basic ATK",
+            "Tag": "Single Target",
+            "Desc": "Deals Fire DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Gallagher's ATK to a single target enemy.",
             "Params": [
                 [
                     0.5
@@ -24686,7 +25158,70 @@ var _avatarskill = {
             "MaxLevel": 9,
             "Type": "Basic ATK",
             "Tag": "Single Target",
-            "Desc": "Deals Fire DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Gallagher's ATK to a single enemy and reduces the target's ATK by <color style='color:#f29e38;'><b>#2[p]</b></color>, lasting for <b>#3[f]</b> turn(s).",
+            "Desc": "Deals Fire DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Gallagher's ATK to a single target enemy. And reduces the target's ATK by <color style='color:#f29e38;'><b>#2[p]</b></color>, lasting for <b>#3[f]</b> turn(s).",
+            "Params": [
+                [
+                    1.25,
+                    0.1,
+                    2.0
+                ],
+                [
+                    1.5,
+                    0.11,
+                    2.0
+                ],
+                [
+                    1.75,
+                    0.12,
+                    2.0
+                ],
+                [
+                    2.0,
+                    0.13,
+                    2.0
+                ],
+                [
+                    2.25,
+                    0.14,
+                    2.0
+                ],
+                [
+                    2.5,
+                    0.15,
+                    2.0
+                ],
+                [
+                    2.75,
+                    0.16,
+                    2.0
+                ],
+                [
+                    3.0,
+                    0.17,
+                    2.0
+                ],
+                [
+                    3.25,
+                    0.18,
+                    2.0
+                ]
+            ],
+            "BP": 1,
+            "SPAdd": 20.0,
+            "AttackType": "Normal",
+            "Stance": [
+                3.0,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1301_Normal02"
+        },
+        "v4": {
+            "Name": "Nectar Blitz",
+            "MaxLevel": 9,
+            "Type": "Basic ATK",
+            "Tag": "Single Target",
+            "Desc": "Deals Fire DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Gallagher's ATK to a single target enemy. And reduces the target's ATK by <color style='color:#f29e38;'><b>#2[p]</b></color>, lasting for <b>#3[f]</b> turn(s).",
             "Params": [
                 [
                     1.25,
@@ -24877,7 +25412,70 @@ var _avatarskill = {
             "MaxLevel": 15,
             "Type": "Skill",
             "Tag": "Restore",
-            "Desc": "Immediately heals one ally for <color style='color:#f29e38;'><b>#1[f]</b></color> HP.",
+            "Desc": "Immediately heals a target ally for <color style='color:#f29e38;'><b>#1[f]</b></color> HP.",
+            "Params": [
+                [
+                    200.0
+                ],
+                [
+                    340.0
+                ],
+                [
+                    480.0
+                ],
+                [
+                    676.0
+                ],
+                [
+                    830.0
+                ],
+                [
+                    984.0
+                ],
+                [
+                    1138.0
+                ],
+                [
+                    1292.0
+                ],
+                [
+                    1446.0
+                ],
+                [
+                    1600.0
+                ],
+                [
+                    1684.0
+                ],
+                [
+                    1768.0
+                ],
+                [
+                    1852.0
+                ],
+                [
+                    1936.0
+                ],
+                [
+                    2020.0
+                ]
+            ],
+            "BP": -1,
+            "SPAdd": 30.0,
+            "AttackType": "BPSkill",
+            "Stance": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1301_BP"
+        },
+        "v4": {
+            "Name": "Special Brew",
+            "MaxLevel": 15,
+            "Type": "Skill",
+            "Tag": "Restore",
+            "Desc": "Immediately heals a target ally for <color style='color:#f29e38;'><b>#1[f]</b></color> HP.",
             "Params": [
                 [
                     200.0
@@ -25173,6 +25771,85 @@ var _avatarskill = {
                 0.0
             ],
             "Icon": "SkillIcon_1301_Ultra"
+        },
+        "v4": {
+            "Name": "Champagne Etiquette",
+            "MaxLevel": 15,
+            "Type": "Ultimate",
+            "Tag": "AoE",
+            "Desc": "Inflicts Besotted on all enemies, lasting for <b>#2[f]</b> turn(s). At the same time, deals Fire DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Gallagher's ATK to all enemies, and enhances the next Basic ATK to Nectar Blitz.",
+            "Params": [
+                [
+                    0.75,
+                    2.0
+                ],
+                [
+                    0.825,
+                    2.0
+                ],
+                [
+                    0.9,
+                    2.0
+                ],
+                [
+                    0.975,
+                    2.0
+                ],
+                [
+                    1.05,
+                    2.0
+                ],
+                [
+                    1.125,
+                    2.0
+                ],
+                [
+                    1.21875,
+                    2.0
+                ],
+                [
+                    1.3125,
+                    2.0
+                ],
+                [
+                    1.40625,
+                    2.0
+                ],
+                [
+                    1.5,
+                    2.0
+                ],
+                [
+                    1.575,
+                    2.0
+                ],
+                [
+                    1.65,
+                    2.0
+                ],
+                [
+                    1.725,
+                    2.0
+                ],
+                [
+                    1.8,
+                    2.0
+                ],
+                [
+                    1.875,
+                    2.0
+                ]
+            ],
+            "BP": 0,
+            "SPAdd": 5.0,
+            "SPNeed": 110.0,
+            "AttackType": "Ultra",
+            "Stance": [
+                0.0,
+                2.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1301_Ultra"
         }
     },
     "130104": {
@@ -25335,7 +26012,84 @@ var _avatarskill = {
             "MaxLevel": 15,
             "Type": "Talent",
             "Tag": "Restore",
-            "Desc": "The Besotted state increases the Break DMG that targets receive by <color style='color:#f29e38;'><b>#1[p]</b></color>. Every time a Besotted target is attacked by an ally, the attacker heals <color style='color:#f29e38;'><b>#2[f]</b></color> HP.",
+            "Desc": "The Besotted state increases the Break DMG that targets receive by <color style='color:#f29e38;'><b>#1[p]</b></color>. Every time a Besotted target is attacked by an ally, the attacker's HP gets restored by <color style='color:#f29e38;'><b>#2[f]</b></color>.",
+            "Params": [
+                [
+                    0.06,
+                    80.0
+                ],
+                [
+                    0.066,
+                    136.0
+                ],
+                [
+                    0.072,
+                    192.0
+                ],
+                [
+                    0.078,
+                    270.4
+                ],
+                [
+                    0.084,
+                    332.0
+                ],
+                [
+                    0.09,
+                    393.6
+                ],
+                [
+                    0.0975,
+                    455.2
+                ],
+                [
+                    0.105,
+                    516.8
+                ],
+                [
+                    0.1125,
+                    578.4
+                ],
+                [
+                    0.12,
+                    640.0
+                ],
+                [
+                    0.126,
+                    673.6
+                ],
+                [
+                    0.132,
+                    707.2
+                ],
+                [
+                    0.138,
+                    740.8
+                ],
+                [
+                    0.144,
+                    774.4
+                ],
+                [
+                    0.15,
+                    808.0
+                ]
+            ],
+            "BP": 0,
+            "SPAdd": 0,
+            "Stance": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1301_Passive"
+        },
+        "v4": {
+            "Name": "Tipsy Tussle",
+            "MaxLevel": 15,
+            "Type": "Talent",
+            "Tag": "Restore",
+            "Desc": "The Besotted state increases the Break DMG that targets receive by <color style='color:#f29e38;'><b>#1[p]</b></color>. Every time a Besotted target is attacked by an ally, the attacker's HP gets restored by <color style='color:#f29e38;'><b>#2[f]</b></color>.",
             "Params": [
                 [
                     0.06,
@@ -25465,6 +26219,25 @@ var _avatarskill = {
                 0.0
             ],
             "Icon": "SkillIcon_1301_Normal"
+        },
+        "v4": {
+            "Name": "Attack",
+            "MaxLevel": 1,
+            "Type": "",
+            "Tag": "",
+            "Desc": "Attacks an enemy, and when the battle starts, reduces their Toughness of the corresponding Type.",
+            "Params": [
+                []
+            ],
+            "BP": 0,
+            "SPAdd": 0,
+            "AttackType": "MazeNormal",
+            "Stance": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1301_Normal"
         }
     },
     "130107": {
@@ -25517,7 +26290,29 @@ var _avatarskill = {
             "MaxLevel": 1,
             "Type": "Technique",
             "Tag": "",
-            "Desc": "Immediately attacks the enemy. Deals Fire DMG equal to <b>#2[p]</b> of Gallagher's ATK and inflicts Besotted on all enemies upon entering battle, lasting for <b>#1[f]</b> turn(s).",
+            "Desc": "Immediately attacks the enemy. Upon entering battle, inflicts Besotted on all enemies, lasting for <b>#1[f]</b> turn(s). And deals Fire DMG equal to <b>#2[p]</b> of Gallagher's ATK to all enemies.",
+            "Params": [
+                [
+                    2.0,
+                    0.5
+                ]
+            ],
+            "BP": 0,
+            "SPAdd": 0,
+            "AttackType": "Maze",
+            "Stance": [
+                2.0,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1301_Maze"
+        },
+        "v4": {
+            "Name": "Artisan Elixir",
+            "MaxLevel": 1,
+            "Type": "Technique",
+            "Tag": "",
+            "Desc": "Immediately attacks the enemy. Upon entering battle, inflicts Besotted on all enemies, lasting for <b>#1[f]</b> turn(s). And deals Fire DMG equal to <b>#2[p]</b> of Gallagher's ATK to all enemies.",
             "Params": [
                 [
                     2.0,
@@ -25631,7 +26426,52 @@ var _avatarskill = {
             "MaxLevel": 9,
             "Type": "Basic ATK",
             "Tag": "Single Target",
-            "Desc": "Deals Lightning DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Acheron's ATK to a single enemy.",
+            "Desc": "Deals Lightning DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Acheron's ATK to a single target enemy.",
+            "Params": [
+                [
+                    0.5
+                ],
+                [
+                    0.6
+                ],
+                [
+                    0.7
+                ],
+                [
+                    0.8
+                ],
+                [
+                    0.9
+                ],
+                [
+                    1.0
+                ],
+                [
+                    1.1
+                ],
+                [
+                    1.2
+                ],
+                [
+                    1.3
+                ]
+            ],
+            "BP": 1,
+            "SPAdd": 0,
+            "AttackType": "Normal",
+            "Stance": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1308_Normal"
+        },
+        "v4": {
+            "Name": "Trilateral Wiltcross",
+            "MaxLevel": 9,
+            "Type": "Basic ATK",
+            "Tag": "Single Target",
+            "Desc": "Deals Lightning DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Acheron's ATK to a single target enemy.",
             "Params": [
                 [
                     0.5
@@ -25864,7 +26704,100 @@ var _avatarskill = {
             "MaxLevel": 15,
             "Type": "Skill",
             "Tag": "Blast",
-            "Desc": "Gains <b>#3[f]</b> points of \"Slashed Dream.\" Inflicts <b>#3[f]</b> stacks of \"Crimson Knot\" on a single target enemy and deals Lightning DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Acheron's ATK to them, as well as Lightning DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Acheron's ATK to adjacent targets.",
+            "Desc": "Gains <b>#3[f]</b> point(s) of Slashed Dream. Inflicts <b>#3[f]</b> stack(s) of Crimson Knot on a single target enemy, dealing Lightning DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Acheron's ATK to this target, as well as Lightning DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Acheron's ATK to adjacent targets.",
+            "Params": [
+                [
+                    0.8,
+                    0.3,
+                    1.0
+                ],
+                [
+                    0.88,
+                    0.33,
+                    1.0
+                ],
+                [
+                    0.96,
+                    0.36,
+                    1.0
+                ],
+                [
+                    1.04,
+                    0.39,
+                    1.0
+                ],
+                [
+                    1.12,
+                    0.42,
+                    1.0
+                ],
+                [
+                    1.2,
+                    0.45,
+                    1.0
+                ],
+                [
+                    1.3,
+                    0.4875,
+                    1.0
+                ],
+                [
+                    1.4,
+                    0.525,
+                    1.0
+                ],
+                [
+                    1.5,
+                    0.5625,
+                    1.0
+                ],
+                [
+                    1.6,
+                    0.6,
+                    1.0
+                ],
+                [
+                    1.68,
+                    0.63,
+                    1.0
+                ],
+                [
+                    1.76,
+                    0.66,
+                    1.0
+                ],
+                [
+                    1.84,
+                    0.69,
+                    1.0
+                ],
+                [
+                    1.92,
+                    0.72,
+                    1.0
+                ],
+                [
+                    2.0,
+                    0.75,
+                    1.0
+                ]
+            ],
+            "BP": -1,
+            "SPAdd": 0,
+            "AttackType": "BPSkill",
+            "Stance": [
+                2.0,
+                0.0,
+                1.0
+            ],
+            "Icon": "SkillIcon_1308_BP"
+        },
+        "v4": {
+            "Name": "Octobolt Flash",
+            "MaxLevel": 15,
+            "Type": "Skill",
+            "Tag": "Blast",
+            "Desc": "Gains <b>#3[f]</b> point(s) of Slashed Dream. Inflicts <b>#3[f]</b> stack(s) of Crimson Knot on a single target enemy, dealing Lightning DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Acheron's ATK to this target, as well as Lightning DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Acheron's ATK to adjacent targets.",
             "Params": [
                 [
                     0.8,
@@ -26222,7 +27155,161 @@ var _avatarskill = {
             "MaxLevel": 15,
             "Type": "Ultimate",
             "Tag": "AoE",
-            "Desc": "Sequentially unleash Rainblade 3 times and Stygian Resurge 1 time, dealing Lightning DMG up to <color style='color:#f29e38;'><b>#6[p]</b></color> of Acheron's ATK to a single target enemy, and deals Lightning DMG up to <color style='color:#f29e38;'><b>#7[p]</b></color> of Acheron's ATK to all other enemies.<br>Rainblade: Deals Lightning DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Acheron's ATK to a single target enemy and removes up to 3 stacks of Crimson Knot on the target. When Crimson Knot is removed, immediately deal Lightning DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Acheron's ATK to all enemies. For every stack of Crimson Knot removed, the DMG Multiplier for this DMG application is additionally increased, up to an increase of <color style='color:#f29e38;'><b>#5[p]</b></color>.<br>Stygian Resurge: Deals Lightning DMG equal to <color style='color:#f29e38;'><b>#3[p]</b></color> of Acheron's ATK to all enemies and remove all Crimson Knots.<br>Crimson Knots cannot be applied to enemies during the Ultimate.<br>Hidden Stat: #4[f]",
+            "Desc": "Sequentially unleash Rainblade 3 times and Stygian Resurge 1 time, dealing Lightning DMG up to <color style='color:#f29e38;'><b>#6[p]</b></color> of Acheron's ATK to a single target enemy, as well as Lightning DMG up to <color style='color:#f29e38;'><b>#7[p]</b></color> of Acheron's ATK to other targets.<br><br>Rainblade: Deals Lightning DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Acheron's ATK to a single target enemy and removes up to 3 stacks of Crimson Knot from the target. When Crimson Knot is removed, immediately deals Lightning DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Acheron's ATK to all enemies. For every stack of Crimson Knot removed, the DMG Multiplier for this is additionally increased, up to a maximum of <color style='color:#f29e38;'><b>#5[p]</b></color>.<br><br>Stygian Resurge: Deals Lightning DMG equal to <color style='color:#f29e38;'><b>#3[p]</b></color> of Acheron's ATK to all enemies and remove all Crimson Knots.<br>Crimson Knot cannot be applied to enemies during the Ultimate.<br>Hidden Stat: #4[f]",
+            "Params": [
+                [
+                    0.144,
+                    0.09,
+                    0.72,
+                    9.0,
+                    0.36,
+                    2.232,
+                    1.8
+                ],
+                [
+                    0.1536,
+                    0.096,
+                    0.768,
+                    9.0,
+                    0.384,
+                    2.3808,
+                    1.92
+                ],
+                [
+                    0.1632,
+                    0.102,
+                    0.816,
+                    9.0,
+                    0.408,
+                    2.5296,
+                    2.04
+                ],
+                [
+                    0.1728,
+                    0.108,
+                    0.864,
+                    9.0,
+                    0.432,
+                    2.6784,
+                    2.16
+                ],
+                [
+                    0.1824,
+                    0.114,
+                    0.912,
+                    9.0,
+                    0.456,
+                    2.8272,
+                    2.28
+                ],
+                [
+                    0.192,
+                    0.12,
+                    0.96,
+                    9.0,
+                    0.48,
+                    2.976,
+                    2.4
+                ],
+                [
+                    0.204,
+                    0.1275,
+                    1.02,
+                    9.0,
+                    0.51,
+                    3.162,
+                    2.55
+                ],
+                [
+                    0.216,
+                    0.135,
+                    1.08,
+                    9.0,
+                    0.54,
+                    3.348,
+                    2.7
+                ],
+                [
+                    0.228,
+                    0.1425,
+                    1.14,
+                    9.0,
+                    0.57,
+                    3.534,
+                    2.85
+                ],
+                [
+                    0.24,
+                    0.15,
+                    1.2,
+                    9.0,
+                    0.6,
+                    3.72,
+                    3.0
+                ],
+                [
+                    0.2496,
+                    0.156,
+                    1.248,
+                    9.0,
+                    0.624,
+                    3.8688,
+                    3.12
+                ],
+                [
+                    0.2592,
+                    0.162,
+                    1.296,
+                    9.0,
+                    0.648,
+                    4.0176,
+                    3.24
+                ],
+                [
+                    0.2688,
+                    0.168,
+                    1.344,
+                    9.0,
+                    0.672,
+                    4.1664,
+                    3.36
+                ],
+                [
+                    0.2784,
+                    0.174,
+                    1.392,
+                    9.0,
+                    0.696,
+                    4.3152,
+                    3.48
+                ],
+                [
+                    0.288,
+                    0.18,
+                    1.44,
+                    9.0,
+                    0.72,
+                    4.464,
+                    3.6
+                ]
+            ],
+            "BP": 0,
+            "SPAdd": 0,
+            "SPNeed": 9.0,
+            "AttackType": "Ultra",
+            "Stance": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1308_Ultra"
+        },
+        "v4": {
+            "Name": "Slashed Dream Cries in Red",
+            "MaxLevel": 15,
+            "Type": "Ultimate",
+            "Tag": "AoE",
+            "Desc": "Sequentially unleash Rainblade 3 times and Stygian Resurge 1 time, dealing Lightning DMG up to <color style='color:#f29e38;'><b>#6[p]</b></color> of Acheron's ATK to a single target enemy, as well as Lightning DMG up to <color style='color:#f29e38;'><b>#7[p]</b></color> of Acheron's ATK to other targets.<br><br>Rainblade: Deals Lightning DMG equal to <color style='color:#f29e38;'><b>#1[p]</b></color> of Acheron's ATK to a single target enemy and removes up to 3 stacks of Crimson Knot from the target. When Crimson Knot is removed, immediately deals Lightning DMG equal to <color style='color:#f29e38;'><b>#2[p]</b></color> of Acheron's ATK to all enemies. For every stack of Crimson Knot removed, the DMG Multiplier for this is additionally increased, up to a maximum of <color style='color:#f29e38;'><b>#5[p]</b></color>.<br><br>Stygian Resurge: Deals Lightning DMG equal to <color style='color:#f29e38;'><b>#3[p]</b></color> of Acheron's ATK to all enemies and remove all Crimson Knots.<br>Crimson Knot cannot be applied to enemies during the Ultimate.<br>Hidden Stat: #4[f]",
             "Params": [
                 [
                     0.144,
@@ -26532,7 +27619,84 @@ var _avatarskill = {
             "MaxLevel": 15,
             "Type": "Talent",
             "Tag": "Enhance",
-            "Desc": "When Slashed Dream reaches <b>#1[f]</b> point(s), the Ultimate can be unleashed. During the Ultimate, deplete enemies' Toughness regardless of Weakness Types and reduce all enemies' All-Type RES by <color style='color:#f29e38;'><b>#2[p]</b></color> until the end of the Ultimate.<br>When any unit inflicts debuffs on an enemy target while using an ability, Acheron gains 1 point of Slashed Dream and inflicts Crimson Knot on the enemy target. If it inflicts debuff on multiple enemies, 1 stack of Crimson Knot will be inflicted on the enemy with the most Crimson Knot stacks. This effect can be triggered up to 1 time per action.<br>When Acheron is on the battlefield and after an enemy target leaves the battlefield or is defeated, their Crimson Knot stacks will be transferred to the enemy target with the most current Crimson Knot stacks.",
+            "Desc": "When Slashed Dream reaches <b>#1[f]</b> point(s), the Ultimate can be activated. During the Ultimate, reduces enemies' Toughness regardless of Weakness Types and reduces all enemies' All-Type RES by <color style='color:#f29e38;'><b>#2[p]</b></color>, lasting until the end of the Ultimate.<br>When any unit inflicts debuffs on an enemy target while using their ability, Acheron gains 1 point of Slashed Dream and inflicts 1 stack of Crimson Knot on the target. If debuffs are inflicted on multiple targets, then the 1 stack of Crimson Knot will be inflicted on the enemy target with the most Crimson Knot stacks. This effect can only trigger once per every ability usage.<br>After an enemy target exits the field or gets defeated by any unit while Acheron is on the field, their Crimson Knot stacks will be transferred to the enemy target with the most Crimson Knot stacks on the whole field.",
+            "Params": [
+                [
+                    9.0,
+                    0.1
+                ],
+                [
+                    9.0,
+                    0.11
+                ],
+                [
+                    9.0,
+                    0.12
+                ],
+                [
+                    9.0,
+                    0.13
+                ],
+                [
+                    9.0,
+                    0.14
+                ],
+                [
+                    9.0,
+                    0.15
+                ],
+                [
+                    9.0,
+                    0.1625
+                ],
+                [
+                    9.0,
+                    0.175
+                ],
+                [
+                    9.0,
+                    0.1875
+                ],
+                [
+                    9.0,
+                    0.2
+                ],
+                [
+                    9.0,
+                    0.21
+                ],
+                [
+                    9.0,
+                    0.22
+                ],
+                [
+                    9.0,
+                    0.23
+                ],
+                [
+                    9.0,
+                    0.24
+                ],
+                [
+                    9.0,
+                    0.25
+                ]
+            ],
+            "BP": 0,
+            "SPAdd": 0,
+            "Stance": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1308_Passive"
+        },
+        "v4": {
+            "Name": "Atop Rainleaf Hangs Oneness",
+            "MaxLevel": 15,
+            "Type": "Talent",
+            "Tag": "Enhance",
+            "Desc": "When Slashed Dream reaches <b>#1[f]</b> point(s), the Ultimate can be activated. During the Ultimate, reduces enemies' Toughness regardless of Weakness Types and reduces all enemies' All-Type RES by <color style='color:#f29e38;'><b>#2[p]</b></color>, lasting until the end of the Ultimate.<br>When any unit inflicts debuffs on an enemy target while using their ability, Acheron gains 1 point of Slashed Dream and inflicts 1 stack of Crimson Knot on the target. If debuffs are inflicted on multiple targets, then the 1 stack of Crimson Knot will be inflicted on the enemy target with the most Crimson Knot stacks. This effect can only trigger once per every ability usage.<br>After an enemy target exits the field or gets defeated by any unit while Acheron is on the field, their Crimson Knot stacks will be transferred to the enemy target with the most Crimson Knot stacks on the whole field.",
             "Params": [
                 [
                     9.0,
@@ -26793,6 +27957,99 @@ var _avatarskill = {
             "Icon": "SkillIcon_1308_Ultra"
         },
         "v3": {
+            "Name": "Rainblade",
+            "MaxLevel": 15,
+            "Type": "Ultimate",
+            "Tag": "AoE",
+            "Desc": "<br>Hidden Stat: #1[f]<br>Hidden Stat: #2[f]<br>Hidden Stat: #3[f]",
+            "Params": [
+                [
+                    0.144,
+                    0.09,
+                    0.72
+                ],
+                [
+                    0.1536,
+                    0.096,
+                    0.768
+                ],
+                [
+                    0.1632,
+                    0.102,
+                    0.816
+                ],
+                [
+                    0.1728,
+                    0.108,
+                    0.864
+                ],
+                [
+                    0.1824,
+                    0.114,
+                    0.912
+                ],
+                [
+                    0.192,
+                    0.12,
+                    0.96
+                ],
+                [
+                    0.204,
+                    0.1275,
+                    1.02
+                ],
+                [
+                    0.216,
+                    0.135,
+                    1.08
+                ],
+                [
+                    0.228,
+                    0.1425,
+                    1.14
+                ],
+                [
+                    0.24,
+                    0.15,
+                    1.2
+                ],
+                [
+                    0.2496,
+                    0.156,
+                    1.248
+                ],
+                [
+                    0.2592,
+                    0.162,
+                    1.296
+                ],
+                [
+                    0.2688,
+                    0.168,
+                    1.344
+                ],
+                [
+                    0.2784,
+                    0.174,
+                    1.392
+                ],
+                [
+                    0.288,
+                    0.18,
+                    1.44
+                ]
+            ],
+            "BP": 0,
+            "SPAdd": 0,
+            "AttackType": "Ultra",
+            "Stance": [
+                0.5,
+                0.5,
+                0.0
+            ],
+            "Icon": "SkillIcon_1308_Ultra"
+        },
+        "v4": {
             "Name": "Rainblade",
             "MaxLevel": 15,
             "Type": "Ultimate",
@@ -27165,6 +28422,99 @@ var _avatarskill = {
                 0.0
             ],
             "Icon": "SkillIcon_1308_Ultra"
+        },
+        "v4": {
+            "Name": "Rainblade",
+            "MaxLevel": 15,
+            "Type": "Ultimate",
+            "Tag": "AoE",
+            "Desc": "<br>Hidden Stat: #1[f]<br>Hidden Stat: #2[f]<br>Hidden Stat: #3[f]",
+            "Params": [
+                [
+                    0.144,
+                    0.09,
+                    0.72
+                ],
+                [
+                    0.1536,
+                    0.096,
+                    0.768
+                ],
+                [
+                    0.1632,
+                    0.102,
+                    0.816
+                ],
+                [
+                    0.1728,
+                    0.108,
+                    0.864
+                ],
+                [
+                    0.1824,
+                    0.114,
+                    0.912
+                ],
+                [
+                    0.192,
+                    0.12,
+                    0.96
+                ],
+                [
+                    0.204,
+                    0.1275,
+                    1.02
+                ],
+                [
+                    0.216,
+                    0.135,
+                    1.08
+                ],
+                [
+                    0.228,
+                    0.1425,
+                    1.14
+                ],
+                [
+                    0.24,
+                    0.15,
+                    1.2
+                ],
+                [
+                    0.2496,
+                    0.156,
+                    1.248
+                ],
+                [
+                    0.2592,
+                    0.162,
+                    1.296
+                ],
+                [
+                    0.2688,
+                    0.168,
+                    1.344
+                ],
+                [
+                    0.2784,
+                    0.174,
+                    1.392
+                ],
+                [
+                    0.288,
+                    0.18,
+                    1.44
+                ]
+            ],
+            "BP": 0,
+            "SPAdd": 0,
+            "AttackType": "Ultra",
+            "Stance": [
+                0.5,
+                0.5,
+                0.0
+            ],
+            "Icon": "SkillIcon_1308_Ultra"
         }
     },
     "130816": {
@@ -27355,6 +28705,99 @@ var _avatarskill = {
             "Icon": "SkillIcon_1308_Ultra"
         },
         "v3": {
+            "Name": "Rainblade",
+            "MaxLevel": 15,
+            "Type": "Ultimate",
+            "Tag": "AoE",
+            "Desc": "<br>Hidden Stat: #1[f]<br>Hidden Stat: #2[f]<br>Hidden Stat: #3[f]",
+            "Params": [
+                [
+                    0.144,
+                    0.09,
+                    0.72
+                ],
+                [
+                    0.1536,
+                    0.096,
+                    0.768
+                ],
+                [
+                    0.1632,
+                    0.102,
+                    0.816
+                ],
+                [
+                    0.1728,
+                    0.108,
+                    0.864
+                ],
+                [
+                    0.1824,
+                    0.114,
+                    0.912
+                ],
+                [
+                    0.192,
+                    0.12,
+                    0.96
+                ],
+                [
+                    0.204,
+                    0.1275,
+                    1.02
+                ],
+                [
+                    0.216,
+                    0.135,
+                    1.08
+                ],
+                [
+                    0.228,
+                    0.1425,
+                    1.14
+                ],
+                [
+                    0.24,
+                    0.15,
+                    1.2
+                ],
+                [
+                    0.2496,
+                    0.156,
+                    1.248
+                ],
+                [
+                    0.2592,
+                    0.162,
+                    1.296
+                ],
+                [
+                    0.2688,
+                    0.168,
+                    1.344
+                ],
+                [
+                    0.2784,
+                    0.174,
+                    1.392
+                ],
+                [
+                    0.288,
+                    0.18,
+                    1.44
+                ]
+            ],
+            "BP": 0,
+            "SPAdd": 0,
+            "AttackType": "Ultra",
+            "Stance": [
+                0.5,
+                0.5,
+                0.0
+            ],
+            "Icon": "SkillIcon_1308_Ultra"
+        },
+        "v4": {
             "Name": "Rainblade",
             "MaxLevel": 15,
             "Type": "Ultimate",
@@ -27637,6 +29080,69 @@ var _avatarskill = {
                 0.0
             ],
             "Icon": "SkillIcon_1308_Ultra"
+        },
+        "v4": {
+            "Name": "Stygian Resurge",
+            "MaxLevel": 15,
+            "Type": "Ultimate",
+            "Tag": "AoE",
+            "Desc": "<br>Hidden Stat: #1[f]",
+            "Params": [
+                [
+                    0.72
+                ],
+                [
+                    0.768
+                ],
+                [
+                    0.816
+                ],
+                [
+                    0.864
+                ],
+                [
+                    0.912
+                ],
+                [
+                    0.96
+                ],
+                [
+                    1.02
+                ],
+                [
+                    1.08
+                ],
+                [
+                    1.14
+                ],
+                [
+                    1.2
+                ],
+                [
+                    1.248
+                ],
+                [
+                    1.296
+                ],
+                [
+                    1.344
+                ],
+                [
+                    1.392
+                ],
+                [
+                    1.44
+                ]
+            ],
+            "BP": 0,
+            "SPAdd": 0,
+            "AttackType": "Ultra",
+            "Stance": [
+                0.0,
+                0.5,
+                0.0
+            ],
+            "Icon": "SkillIcon_1308_Ultra"
         }
     },
     "130806": {
@@ -27679,6 +29185,25 @@ var _avatarskill = {
             "Icon": "SkillIcon_1308_Normal"
         },
         "v3": {
+            "Name": "Attack",
+            "MaxLevel": 1,
+            "Type": "",
+            "Tag": "",
+            "Desc": "Attacks an enemy, and when the battle starts, reduces their Toughness of the corresponding Type.",
+            "Params": [
+                []
+            ],
+            "BP": 0,
+            "SPAdd": 0,
+            "AttackType": "MazeNormal",
+            "Stance": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1308_Normal"
+        },
+        "v4": {
             "Name": "Attack",
             "MaxLevel": 1,
             "Type": "",
@@ -27748,7 +29273,29 @@ var _avatarskill = {
             "MaxLevel": 1,
             "Type": "Technique",
             "Tag": "",
-            "Desc": "Immediately attacks the enemy, and gains Quadrivalent Ascendance at the start of every wave, dealing Lightning DMG equal to <b>#1[p]</b> of Acheron's ATK to all enemies and reduces Toughness of all enemies irrespective of Weakness Types. When inflicting Weakness Break, triggers the Lightning Weakness Break effect.<br>Quadrivalent Ascendance: The next time Acheron uses her Ultimate, she gains <b>#2[f]</b> points of Slashed Dream and inflicts <b>#2[f]</b> stack(s) of Crimson Knot on a single random enemy.<br>If a normal enemy is attacked, they will be immediately defeated and will not enter combat. The Technique Point is not spent if the attack does not hit an enemy.",
+            "Desc": "Immediately attacks the enemy. At the start of each wave, gains Quadrivalent Ascendance, dealing Lightning DMG equal to <b>#1[p]</b> of Acheron's ATK to all enemies and reducing Toughness of all enemies irrespective of Weakness Types. When Weakness is broken, triggers the Lightning Weakness Break effect.<br>Quadrivalent Ascendance: After using the Ultimate, Acheron gains <b>#2[f]</b> point(s) of Slashed Dream and inflicts <b>#2[f]</b> stack(s) of Crimson Knot on a single random enemy.<br>If attacking a normal enemy, immediately defeats them without entering combat. When not hitting any enemies, no Technique Points are consumed.",
+            "Params": [
+                [
+                    2.0,
+                    1.0
+                ]
+            ],
+            "BP": 0,
+            "SPAdd": 0,
+            "AttackType": "Maze",
+            "Stance": [
+                2.0,
+                0.0,
+                0.0
+            ],
+            "Icon": "SkillIcon_1308_Maze"
+        },
+        "v4": {
+            "Name": "Quadrivalent Ascendance",
+            "MaxLevel": 1,
+            "Type": "Technique",
+            "Tag": "",
+            "Desc": "Immediately attacks the enemy. At the start of each wave, gains Quadrivalent Ascendance, dealing Lightning DMG equal to <b>#1[p]</b> of Acheron's ATK to all enemies and reducing Toughness of all enemies irrespective of Weakness Types. When Weakness is broken, triggers the Lightning Weakness Break effect.<br>Quadrivalent Ascendance: After using the Ultimate, Acheron gains <b>#2[f]</b> point(s) of Slashed Dream and inflicts <b>#2[f]</b> stack(s) of Crimson Knot on a single random enemy.<br>If attacking a normal enemy, immediately defeats them without entering combat. When not hitting any enemies, no Technique Points are consumed.",
             "Params": [
                 [
                     2.0,
@@ -29198,17 +30745,39 @@ var _avatarskilltree = {
             },
             "Tree1": {
                 "Name": "Red Oni",
-                "Desc": "At the start of battle, immediately gain <b><color style='color:#f29e38'>5.0</color></b> point(s) of Slashed Dream and apply <b><color style='color:#f29e38'>5.0</color></b> stack(s) of Crimson Knot to a random enemy.",
+                "Desc": "When battle starts, immediately gains <b><color style='color:#f29e38'>5.0</color></b> point(s) of Slashed Dream and applies <b><color style='color:#f29e38'>5.0</color></b> stack(s) of Crimson Knot to a random enemy. When Slashed Dream reaches its upper limit, for every point of Slashed Dream that exceeds the limit, gains 1 stack of Quadrivalent Ascendance. Increases the maximum stackable count for Quadrivalent Ascendance to <b><color style='color:#f29e38'>3.0</color></b>.",
                 "Icon": "SkillIcon_1308_SkillTree1"
             },
             "Tree2": {
                 "Name": "The Abyss",
-                "Desc": "When there are 1/2 other character(s) following the Path of Nihility in the team, increase the DMG of Acheron's Basic ATK, Skill, and Ultimate to <b><color style='color:#f29e38'>115.0%</color></b>/<b><color style='color:#f29e38'>160.0%</color></b> of the original DMG.",
+                "Desc": "When there are 1 or 2 Nihility characters other than Acheron in the team, the DMG dealt by Acheron's Basic ATK, Skill, and Ultimate increases to <b><color style='color:#f29e38'>115.0%</color></b> or <b><color style='color:#f29e38'>160.0%</color></b> of the original DMG respectively.",
                 "Icon": "SkillIcon_1308_SkillTree2"
             },
             "Tree3": {
                 "Name": "Thunder Core",
-                "Desc": "When Rainblade from Acheron's Ultimate hits enemy targets with Crimson Knot, her DMG increases by <b><color style='color:#f29e38'>30.0%</color></b>, stacking up to a maximum of <b><color style='color:#f29e38'>3.0</color></b> stack(s) and lasting for <b><color style='color:#f29e38'>3.0</color></b> turn(s). Also additionally deals <b><color style='color:#f29e38'>6.0</color></b> hits of DMG when Stygian Resurge is triggered. Every hit deals Lightning DMG equal to <b><color style='color:#f29e38'>25.0%</color></b> of Acheron's ATK to a single enemy target and is viewed as Ultimate DMG.",
+                "Desc": "When the Rainblade from Acheron's Ultimate hits enemy targets with Crimson Knot, her DMG increases by <b><color style='color:#f29e38'>30.0%</color></b>, stacking up to <b><color style='color:#f29e38'>3.0</color></b> time(s) and lasting for <b><color style='color:#f29e38'>3.0</color></b> turn(s). And when Stygian Resurge triggers, additionally deals DMG for <b><color style='color:#f29e38'>6.0</color></b> times. Each time deals Lightning DMG equal to <b><color style='color:#f29e38'>25.0%</color></b> of Acheron's ATK to a single random enemy and is viewed as part of the Ultimate DMG.",
+                "Icon": "SkillIcon_1308_SkillTree3"
+            }
+        },
+        "v4": {
+            "Add": {
+                "AttackAddedRatio": 0.28,
+                "CriticalDamageBase": 0.24,
+                "ThunderAddedRatio": 0.08
+            },
+            "Tree1": {
+                "Name": "Red Oni",
+                "Desc": "When battle starts, immediately gains <b><color style='color:#f29e38'>5.0</color></b> point(s) of Slashed Dream and applies <b><color style='color:#f29e38'>5.0</color></b> stack(s) of Crimson Knot to a random enemy. When Slashed Dream reaches its upper limit, for every point of Slashed Dream that exceeds the limit, gains 1 stack of Quadrivalent Ascendance. Increases the maximum stackable count for Quadrivalent Ascendance to <b><color style='color:#f29e38'>3.0</color></b>.",
+                "Icon": "SkillIcon_1308_SkillTree1"
+            },
+            "Tree2": {
+                "Name": "The Abyss",
+                "Desc": "When there are 1 or 2 Nihility characters other than Acheron in the team, the DMG dealt by Acheron's Basic ATK, Skill, and Ultimate increases to <b><color style='color:#f29e38'>115.0%</color></b> or <b><color style='color:#f29e38'>160.0%</color></b> of the original DMG respectively.",
+                "Icon": "SkillIcon_1308_SkillTree2"
+            },
+            "Tree3": {
+                "Name": "Thunder Core",
+                "Desc": "When the Rainblade from Acheron's Ultimate hits enemy targets with Crimson Knot, her DMG increases by <b><color style='color:#f29e38'>30.0%</color></b>, stacking up to <b><color style='color:#f29e38'>3.0</color></b> time(s) and lasting for <b><color style='color:#f29e38'>3.0</color></b> turn(s). And when Stygian Resurge triggers, additionally deals DMG for <b><color style='color:#f29e38'>6.0</color></b> times. Each time deals Lightning DMG equal to <b><color style='color:#f29e38'>25.0%</color></b> of Acheron's ATK to a single random enemy and is viewed as part of the Ultimate DMG.",
                 "Icon": "SkillIcon_1308_SkillTree3"
             }
         }
@@ -29266,17 +30835,39 @@ var _avatarskilltree = {
             },
             "Tree1": {
                 "Name": "Leverage",
-                "Desc": "If Aventurine's DEF is higher than <b><color style='color:#f29e38'>1600.0</color></b>, then his own CRIT Rate increases by <b><color style='color:#f29e38'>2.0%</color></b> for every <b><color style='color:#f29e38'>100</color></b> DEF exceeding that value, up to an increase of <b><color style='color:#f29e38'>48.0%</color></b>.",
+                "Desc": "For every <b><color style='color:#f29e38'>100</color></b> of Aventurine's DEF that exceeds <b><color style='color:#f29e38'>1600.0</color></b>, increases his own CRIT Rate by <b><color style='color:#f29e38'>2.0%</color></b>, up to a maximum increase of <b><color style='color:#f29e38'>48.0%</color></b>.",
                 "Icon": "SkillIcon_1304_SkillTree1"
             },
             "Tree2": {
                 "Name": "Hot Hand",
-                "Desc": "At the start of the battle, provide a Fortified Wager Shield to the entire team. The Shield effect equals to <b><color style='color:#f29e38'>100.0%</color></b> as that provided by the Skill, lasting for <b><color style='color:#f29e38'>3.0</color></b> turn(s).",
+                "Desc": "When battle starts, grants all allies a Fortified Wager shield, whose Shield effect is equal to <b><color style='color:#f29e38'>100.0%</color></b> of the one provided by the Skill, lasting for <b><color style='color:#f29e38'>3.0</color></b> turn(s).",
                 "Icon": "SkillIcon_1304_SkillTree2"
             },
             "Tree3": {
                 "Name": "Bingo!",
-                "Desc": "Aventurine accumulates 1 Blind Bet after an ally with Fortified Wager launches a follow-up attack. This effect can be triggered a maximum of <b><color style='color:#f29e38'>3.0</color></b> time(s). This effect's trigger count is reset at the start of Aventurine's turn. After Aventurine launches a follow-up attack from his Talent, provides Fortified Wager to all allies and blocks DMG equal to <b><color style='color:#f29e38'>7.2%</color></b> of Aventurine's DEF + <b><color style='color:#f29e38'>96.0</color></b> DMG, and additionally provides Fortified Wager that can block DMG equal to <b><color style='color:#f29e38'>7.2%</color></b> of Aventurine's DEF + <b><color style='color:#f29e38'>96.0</color></b> DMG to the ally with the lowest current Shield effect, lasting for 3 turns.",
+                "Desc": "After an ally with Fortified Wager launches a follow-up attack, Aventurine accumulates 1 Blind Bet point. This effect can trigger up to <b><color style='color:#f29e38'>3.0</color></b> time(s). And its trigger count resets at the start of Aventurine's turn. After Aventurine launches his Talent's follow-up attack, provides all allies with a Fortified Wager that can block DMG equal to <b><color style='color:#f29e38'>7.2%</color></b> of Aventurine's DEF plus <b><color style='color:#f29e38'>96.0</color></b>, and additionally grants a Fortified Wager that can block DMG equal to <b><color style='color:#f29e38'>7.2%</color></b> of Aventurine's DEF plus <b><color style='color:#f29e38'>96.0</color></b> to the ally with the lowest Shield effect, lasting for 3 turns.",
+                "Icon": "SkillIcon_1304_SkillTree3"
+            }
+        },
+        "v4": {
+            "Add": {
+                "DefenceAddedRatio": 0.35,
+                "ImaginaryAddedRatio": 0.144,
+                "StatusResistanceBase": 0.1
+            },
+            "Tree1": {
+                "Name": "Leverage",
+                "Desc": "For every <b><color style='color:#f29e38'>100</color></b> of Aventurine's DEF that exceeds <b><color style='color:#f29e38'>1600.0</color></b>, increases his own CRIT Rate by <b><color style='color:#f29e38'>2.0%</color></b>, up to a maximum increase of <b><color style='color:#f29e38'>48.0%</color></b>.",
+                "Icon": "SkillIcon_1304_SkillTree1"
+            },
+            "Tree2": {
+                "Name": "Hot Hand",
+                "Desc": "When battle starts, grants all allies a Fortified Wager shield, whose Shield effect is equal to <b><color style='color:#f29e38'>100.0%</color></b> of the one provided by the Skill, lasting for <b><color style='color:#f29e38'>3.0</color></b> turn(s).",
+                "Icon": "SkillIcon_1304_SkillTree2"
+            },
+            "Tree3": {
+                "Name": "Bingo!",
+                "Desc": "After an ally with Fortified Wager launches a follow-up attack, Aventurine accumulates 1 Blind Bet point. This effect can trigger up to <b><color style='color:#f29e38'>3.0</color></b> time(s). And its trigger count resets at the start of Aventurine's turn. After Aventurine launches his Talent's follow-up attack, provides all allies with a Fortified Wager that can block DMG equal to <b><color style='color:#f29e38'>7.2%</color></b> of Aventurine's DEF plus <b><color style='color:#f29e38'>96.0</color></b>, and additionally grants a Fortified Wager that can block DMG equal to <b><color style='color:#f29e38'>7.2%</color></b> of Aventurine's DEF plus <b><color style='color:#f29e38'>96.0</color></b> to the ally with the lowest Shield effect, lasting for 3 turns.",
                 "Icon": "SkillIcon_1304_SkillTree3"
             }
         }
@@ -29334,17 +30925,39 @@ var _avatarskilltree = {
             },
             "Tree1": {
                 "Name": "Novel Concoction",
-                "Desc": "Increases Outgoing Healing of this unit by an amount equal to <b><color style='color:#f29e38'>50.0%</color></b> of Break Effect, up to a maximum Outgoing Healing increase of <b><color style='color:#f29e38'>75.0%</color></b>.",
+                "Desc": "Increases this unit's Outgoing Healing by an amount equal to <b><color style='color:#f29e38'>50.0%</color></b> of Break Effect, up to a maximum Outgoing Healing increase of <b><color style='color:#f29e38'>75.0%</color></b>.",
                 "Icon": "SkillIcon_1301_SkillTree1"
             },
             "Tree2": {
                 "Name": "Organic Yeast",
-                "Desc": "Immediately advance this unit's Action Forward by <b><color style='color:#f29e38'>100%</color></b> after they use their Ultimate.",
+                "Desc": "After using the Ultimate, immediately Advances Forward this unit's Action by <b><color style='color:#f29e38'>100%</color></b>.",
                 "Icon": "SkillIcon_1301_SkillTree2"
             },
             "Tree3": {
                 "Name": "Bottoms Up",
-                "Desc": "When Gallagher uses Nectar Blitz to attack enemies that are in the Besotted state, the HP Restore effect of his Talent for this attack will apply to other allies as well.",
+                "Desc": "When Gallagher uses Nectar Blitz to attack Besotted enemies, the HP Restore effect of his Talent will also apply to other allies for this time.",
+                "Icon": "SkillIcon_1301_SkillTree3"
+            }
+        },
+        "v4": {
+            "Add": {
+                "StatusResistanceBase": 0.28,
+                "BreakDamageAddedRatioBase": 0.133,
+                "HPAddedRatio": 0.18
+            },
+            "Tree1": {
+                "Name": "Novel Concoction",
+                "Desc": "Increases this unit's Outgoing Healing by an amount equal to <b><color style='color:#f29e38'>50.0%</color></b> of Break Effect, up to a maximum Outgoing Healing increase of <b><color style='color:#f29e38'>75.0%</color></b>.",
+                "Icon": "SkillIcon_1301_SkillTree1"
+            },
+            "Tree2": {
+                "Name": "Organic Yeast",
+                "Desc": "After using the Ultimate, immediately Advances Forward this unit's Action by <b><color style='color:#f29e38'>100%</color></b>.",
+                "Icon": "SkillIcon_1301_SkillTree2"
+            },
+            "Tree3": {
+                "Name": "Bottoms Up",
+                "Desc": "When Gallagher uses Nectar Blitz to attack Besotted enemies, the HP Restore effect of his Talent will also apply to other allies for this time.",
                 "Icon": "SkillIcon_1301_SkillTree3"
             }
         }
@@ -32056,7 +33669,13 @@ var _avatarrank = {
         "v3": {
             "Rank": 1,
             "Name": "Prisoner's Dilemma",
-            "Desc": "Increases the CRIT DMG of allies with Fortified Wager by <b><color style='color:#f29e38'>20.0%</color></b>. Provide a Fortified Wager Shield to the entire team. The Shield effect equals to <b><color style='color:#f29e38'>100.0%</color></b> as that provided by the Skill, lasting for <b><color style='color:#f29e38'>3.0</color></b> turn(s).",
+            "Desc": "Increases CRIT DMG by <b><color style='color:#f29e38'>20.0%</color></b> for allies with Fortified Wager. After using the Ultimate, provides all allies with a Fortified Wager shield, whose Shield effect is equal to <b><color style='color:#f29e38'>100.0%</color></b> of the one provided by the Skill, lasting for <b><color style='color:#f29e38'>3.0</color></b> turn(s).",
+            "Icon": "SkillIcon_1304_Rank1"
+        },
+        "v4": {
+            "Rank": 1,
+            "Name": "Prisoner's Dilemma",
+            "Desc": "Increases CRIT DMG by <b><color style='color:#f29e38'>20.0%</color></b> for allies with Fortified Wager. After using the Ultimate, provides all allies with a Fortified Wager shield, whose Shield effect is equal to <b><color style='color:#f29e38'>100.0%</color></b> of the one provided by the Skill, lasting for <b><color style='color:#f29e38'>3.0</color></b> turn(s).",
             "Icon": "SkillIcon_1304_Rank1"
         }
     },
@@ -32076,7 +33695,13 @@ var _avatarrank = {
         "v3": {
             "Rank": 2,
             "Name": "Bounded Rationality",
-            "Desc": "When using Basic ATK, reduce the target's All-Type RES by <b><color style='color:#f29e38'>12.0%</color></b> for <b><color style='color:#f29e38'>3.0</color></b> turn(s).<br><br>Hidden Stat: 1.2",
+            "Desc": "When using Basic ATK, reduces the target's All-Type RES by <b><color style='color:#f29e38'>12.0%</color></b> for <b><color style='color:#f29e38'>3.0</color></b> turn(s).<br><br>Hidden Stat: 1.2",
+            "Icon": "SkillIcon_1304_Rank2"
+        },
+        "v4": {
+            "Rank": 2,
+            "Name": "Bounded Rationality",
+            "Desc": "When using Basic ATK, reduces the target's All-Type RES by <b><color style='color:#f29e38'>12.0%</color></b> for <b><color style='color:#f29e38'>3.0</color></b> turn(s).<br><br>Hidden Stat: 1.2",
             "Icon": "SkillIcon_1304_Rank2"
         }
     },
@@ -32096,7 +33721,13 @@ var _avatarrank = {
         "v3": {
             "Rank": 3,
             "Name": "Droprate Maxing",
-            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>. Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Icon": "SkillIcon_1304_Ultra"
+        },
+        "v4": {
+            "Rank": 3,
+            "Name": "Droprate Maxing",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
             "Icon": "SkillIcon_1304_Ultra"
         }
     },
@@ -32116,7 +33747,13 @@ var _avatarrank = {
         "v3": {
             "Rank": 4,
             "Name": "Unexpected Hanging Paradox",
-            "Desc": "When triggering his Talent's follow-up attacks, Aventurine's DEF first increases by <b><color style='color:#f29e38'>40.0%</color></b> for <b><color style='color:#f29e38'>2.0</color></b> turn(s). The follow-up attack's Hits Per Action triggered by his Talent additionally increases by <b><color style='color:#f29e38'>3.0</color></b>.",
+            "Desc": "When triggering his Talent's follow-up attack, first increases Aventurine's DEF by <b><color style='color:#f29e38'>40.0%</color></b> for <b><color style='color:#f29e38'>2.0</color></b> turn(s), and additionally increases the Hits Per Action for his talent's follow-up attack by <b><color style='color:#f29e38'>3.0</color></b>.",
+            "Icon": "SkillIcon_1304_Rank4"
+        },
+        "v4": {
+            "Rank": 4,
+            "Name": "Unexpected Hanging Paradox",
+            "Desc": "When triggering his Talent's follow-up attack, first increases Aventurine's DEF by <b><color style='color:#f29e38'>40.0%</color></b> for <b><color style='color:#f29e38'>2.0</color></b> turn(s), and additionally increases the Hits Per Action for his talent's follow-up attack by <b><color style='color:#f29e38'>3.0</color></b>.",
             "Icon": "SkillIcon_1304_Rank4"
         }
     },
@@ -32136,7 +33773,13 @@ var _avatarrank = {
         "v3": {
             "Rank": 5,
             "Name": "Ambiguity Aversion",
-            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>. Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Icon": "SkillIcon_1304_BP"
+        },
+        "v4": {
+            "Rank": 5,
+            "Name": "Ambiguity Aversion",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
             "Icon": "SkillIcon_1304_BP"
         }
     },
@@ -32156,7 +33799,13 @@ var _avatarrank = {
         "v3": {
             "Rank": 6,
             "Name": "Stag Hunt Game",
-            "Desc": "For each ally with Shield, the DMG dealt by Aventurine increases by <b><color style='color:#f29e38'>50.0%</color></b>, up to a maximum increase of <b><color style='color:#f29e38'>150.0%</color></b>.",
+            "Desc": "For every ally with a Shield, the DMG dealt by Aventurine increases by <b><color style='color:#f29e38'>50.0%</color></b>, up to a maximum of <b><color style='color:#f29e38'>150.0%</color></b>.",
+            "Icon": "SkillIcon_1304_Rank6"
+        },
+        "v4": {
+            "Rank": 6,
+            "Name": "Stag Hunt Game",
+            "Desc": "For every ally with a Shield, the DMG dealt by Aventurine increases by <b><color style='color:#f29e38'>50.0%</color></b>, up to a maximum of <b><color style='color:#f29e38'>150.0%</color></b>.",
             "Icon": "SkillIcon_1304_Rank6"
         }
     },
@@ -32176,7 +33825,13 @@ var _avatarrank = {
         "v3": {
             "Rank": 1,
             "Name": "Salty Dog",
-            "Desc": "Regenerates <b><color style='color:#f29e38'>20.0</color></b> Energy when Gallagher enters the battle and increases his Effect RES by <b><color style='color:#f29e38'>50.0%</color></b>.",
+            "Desc": "When Gallagher enters the battle, regenerates <b><color style='color:#f29e38'>20.0</color></b> Energy and increases Effect RES by <b><color style='color:#f29e38'>50.0%</color></b>.",
+            "Icon": "SkillIcon_1301_Rank1"
+        },
+        "v4": {
+            "Rank": 1,
+            "Name": "Salty Dog",
+            "Desc": "When Gallagher enters the battle, regenerates <b><color style='color:#f29e38'>20.0</color></b> Energy and increases Effect RES by <b><color style='color:#f29e38'>50.0%</color></b>.",
             "Icon": "SkillIcon_1301_Rank1"
         }
     },
@@ -32196,7 +33851,13 @@ var _avatarrank = {
         "v3": {
             "Rank": 2,
             "Name": "Lion's Tail",
-            "Desc": "The Skill removes <b><color style='color:#f29e38'>1.0</color></b> debuff(s) from a target ally. At the same time, it increases Effect RES by <b><color style='color:#f29e38'>30.0%</color></b> for <b><color style='color:#f29e38'>2.0</color></b> turn(s).",
+            "Desc": "When using the Skill, removes <b><color style='color:#f29e38'>1.0</color></b> debuff(s) from a target ally. At the same time, increases their Effect RES by <b><color style='color:#f29e38'>30.0%</color></b>, lasting for <b><color style='color:#f29e38'>2.0</color></b> turn(s).",
+            "Icon": "SkillIcon_1301_Rank2"
+        },
+        "v4": {
+            "Rank": 2,
+            "Name": "Lion's Tail",
+            "Desc": "When using the Skill, removes <b><color style='color:#f29e38'>1.0</color></b> debuff(s) from a target ally. At the same time, increases their Effect RES by <b><color style='color:#f29e38'>30.0%</color></b>, lasting for <b><color style='color:#f29e38'>2.0</color></b> turn(s).",
             "Icon": "SkillIcon_1301_Rank2"
         }
     },
@@ -32214,6 +33875,12 @@ var _avatarrank = {
             "Icon": "SkillIcon_1301_BP"
         },
         "v3": {
+            "Rank": 3,
+            "Name": "Corpse Reviver",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Icon": "SkillIcon_1301_BP"
+        },
+        "v4": {
             "Rank": 3,
             "Name": "Corpse Reviver",
             "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
@@ -32236,7 +33903,13 @@ var _avatarrank = {
         "v3": {
             "Rank": 4,
             "Name": "Last Word",
-            "Desc": "Increases the turn duration for the Besotted state inflicted by Gallagher's Ultimate for <b><color style='color:#f29e38'>1.0</color></b> turn(s).",
+            "Desc": "Extends the duration of the Besotted state inflicted by Gallagher's Ultimate by <b><color style='color:#f29e38'>1.0</color></b> turn(s).",
+            "Icon": "SkillIcon_1301_Rank4"
+        },
+        "v4": {
+            "Rank": 4,
+            "Name": "Last Word",
+            "Desc": "Extends the duration of the Besotted state inflicted by Gallagher's Ultimate by <b><color style='color:#f29e38'>1.0</color></b> turn(s).",
             "Icon": "SkillIcon_1301_Rank4"
         }
     },
@@ -32254,6 +33927,12 @@ var _avatarrank = {
             "Icon": "SkillIcon_1301_Ultra"
         },
         "v3": {
+            "Rank": 5,
+            "Name": "Death in the Afternoon",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Icon": "SkillIcon_1301_Ultra"
+        },
+        "v4": {
             "Rank": 5,
             "Name": "Death in the Afternoon",
             "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
@@ -32278,6 +33957,12 @@ var _avatarrank = {
             "Name": "Blood and Sand",
             "Desc": "Increases Gallagher's Break Effect by <b><color style='color:#f29e38'>20.0%</color></b> and Weakness Break Efficiency by <b><color style='color:#f29e38'>20.0%</color></b>.",
             "Icon": "SkillIcon_1301_Rank6"
+        },
+        "v4": {
+            "Rank": 6,
+            "Name": "Blood and Sand",
+            "Desc": "Increases Gallagher's Break Effect by <b><color style='color:#f29e38'>20.0%</color></b> and Weakness Break Efficiency by <b><color style='color:#f29e38'>20.0%</color></b>.",
+            "Icon": "SkillIcon_1301_Rank6"
         }
     },
     "130801": {
@@ -32296,7 +33981,13 @@ var _avatarrank = {
         "v3": {
             "Rank": 1,
             "Name": "Silenced Sky Spake Sooth",
-            "Desc": "Increases CRIT Rate by <b><color style='color:#f29e38'>18.0%</color></b> when dealing DMG to debuffed enemies. When Slashed Dream is at max, every stack of Slashed Dream that goes over grants a stack of Quadrivalent Ascendance, which can stack up to <b><color style='color:#f29e38'>3.0</color></b> times.",
+            "Desc": "CRIT Rate increases by <b><color style='color:#f29e38'>18.0%</color></b> when dealing DMG to debuffed enemies.",
+            "Icon": "SkillIcon_1308_Rank1"
+        },
+        "v4": {
+            "Rank": 1,
+            "Name": "Silenced Sky Spake Sooth",
+            "Desc": "CRIT Rate increases by <b><color style='color:#f29e38'>18.0%</color></b> when dealing DMG to debuffed enemies.",
             "Icon": "SkillIcon_1308_Rank1"
         }
     },
@@ -32316,7 +34007,13 @@ var _avatarrank = {
         "v3": {
             "Rank": 2,
             "Name": "Mute Thunder in Still Tempest",
-            "Desc": "The number of characters on the Path of Nihility required for the highest value of the Trace, The Abyss, is reduced by 1. At the beginning of Acheron's turn, gain 1 point of Slashed Dream. Additionally, inflict 1 stack of Crimson Knot on an enemy with the most Crimson Knot.",
+            "Desc": "The number of Nihility characters required for the Trace \"The Abyss\" to achieve its highest possible effect is reduced by 1. When this unit's turn starts, gains 1 point of Slashed Dream and inflicts 1 stack of Crimson Knot on the enemy with the most Crimson Knot stacks.",
+            "Icon": "SkillIcon_1308_Rank2"
+        },
+        "v4": {
+            "Rank": 2,
+            "Name": "Mute Thunder in Still Tempest",
+            "Desc": "The number of Nihility characters required for the Trace \"The Abyss\" to achieve its highest possible effect is reduced by 1. When this unit's turn starts, gains 1 point of Slashed Dream and inflicts 1 stack of Crimson Knot on the enemy with the most Crimson Knot stacks.",
             "Icon": "SkillIcon_1308_Rank2"
         }
     },
@@ -32334,6 +34031,12 @@ var _avatarrank = {
             "Icon": "SkillIcon_1308_Ultra"
         },
         "v3": {
+            "Rank": 3,
+            "Name": "Frost Bites in Death",
+            "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
+            "Icon": "SkillIcon_1308_Ultra"
+        },
+        "v4": {
             "Rank": 3,
             "Name": "Frost Bites in Death",
             "Desc": "Ultimate Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Basic ATK Lv. +1, up to a maximum of Lv. <b><color style='color:#f29e38'>10</color></b>.",
@@ -32356,7 +34059,13 @@ var _avatarrank = {
         "v3": {
             "Rank": 4,
             "Name": "Shrined Fire for Mirrored Soul",
-            "Desc": "Inflicts Vulnerability to Ultimate DMG when enemies enter battle and increases the DMG they take from Ultimates by <b><color style='color:#f29e38'>12.0%</color></b>.",
+            "Desc": "When enemy targets enter combat, makes them Vulnerable to the Ultimate DMG, increasing the amount of DMG they take from the Ultimate by <b><color style='color:#f29e38'>8.0%</color></b>.",
+            "Icon": "SkillIcon_1308_Rank4"
+        },
+        "v4": {
+            "Rank": 4,
+            "Name": "Shrined Fire for Mirrored Soul",
+            "Desc": "When enemy targets enter combat, makes them Vulnerable to the Ultimate DMG, increasing the amount of DMG they take from the Ultimate by <b><color style='color:#f29e38'>8.0%</color></b>.",
             "Icon": "SkillIcon_1308_Rank4"
         }
     },
@@ -32374,6 +34083,12 @@ var _avatarrank = {
             "Icon": "SkillIcon_1308_BP"
         },
         "v3": {
+            "Rank": 5,
+            "Name": "Strewn Souls on Erased Earths",
+            "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
+            "Icon": "SkillIcon_1308_BP"
+        },
+        "v4": {
             "Rank": 5,
             "Name": "Strewn Souls on Erased Earths",
             "Desc": "Skill Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.<br>Talent Lv. +2, up to a maximum of Lv. <b><color style='color:#f29e38'>15</color></b>.",
@@ -32396,7 +34111,13 @@ var _avatarrank = {
         "v3": {
             "Rank": 6,
             "Name": "Apocalypse, the Emancipator",
-            "Desc": "The Ultimate's CRIT DMG increases by <b><color style='color:#f29e38'>60.0%</color></b>, and the DMG from Acheron's Basic ATK and Skill will also be considered as Ultimate DMG.",
+            "Desc": "Increases the All-Type RES PEN for the Ultimate DMG dealt by Acheron by <b><color style='color:#f29e38'>20.0%</color></b>. The DMG dealt by Basic ATK and Skill will also be considered as Ultimate DMG and can reduce enemy toughness regardless of Weakness Types. When Weakness is broken, triggers the Lightning Weakness Break effect.",
+            "Icon": "SkillIcon_1308_Rank6"
+        },
+        "v4": {
+            "Rank": 6,
+            "Name": "Apocalypse, the Emancipator",
+            "Desc": "Increases the All-Type RES PEN for the Ultimate DMG dealt by Acheron by <b><color style='color:#f29e38'>20.0%</color></b>. The DMG dealt by Basic ATK and Skill will also be considered as Ultimate DMG and can reduce enemy toughness regardless of Weakness Types. When Weakness is broken, triggers the Lightning Weakness Break effect.",
             "Icon": "SkillIcon_1308_Rank6"
         }
     }
