@@ -6851,6 +6851,24 @@ var _changelog = [
         "Ver": "2.1v4",
         "Logs": [
             {
+                "Name": "Ten Stonehearts: Aventurine of Stratagems",
+                "Color": "Imaginary",
+                "Notes": [
+                    "<color style='color:#f29d38'>Distributed Investment：</color>DMG 120% x5~8 → 110% x5~8",
+                    "<color style='color:#f29d38'>The Loser's Time Is Over：</color>DMG 620% → 570%",
+                    "<color style='color:#f29d38'>The Winner Takes It All：</color>DMG 620% → 570%"
+                ]
+            },
+            {
+                "Name": "Memory Zone Meme \"Shell of Faded Rage\"",
+                "Color": "Quantum",
+                "Notes": [
+                    "<color style='color:#f29d38'>SPD：</color>158 → 145 (at high levels)",
+                    "<color style='color:#f29d38'>Tide of Enduring Grudges：</color>DMG 200% → 180%",
+                    "<color style='color:#f29d38'>Bonepiercing Odium：</color>DMG 220% x3~8 → 200% x3~8"
+                ]
+            },
+            {
                 "Name": "Acheron",
                 "Color": "Elec",
                 "Notes": [
