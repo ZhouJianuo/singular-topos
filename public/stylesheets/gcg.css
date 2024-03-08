@@ -336,12 +336,10 @@ schedule {
 
 .hp_num {
     color: white;
-    -webkit-text-stroke: 0.3px #000;
 }
 
 .sp_num {
     color: white;
-    -webkit-text-stroke: 0.3px #000;
 }
 
 .tags {
@@ -361,7 +359,6 @@ schedule {
     height: calc(150% / 7);
     top: 0;
     left: 0;
-    -webkit-text-stroke: 0.2px #000;
 }
 
 .out_sp {
@@ -410,7 +407,6 @@ schedule {
     top: 20px;
     display: flex;
     flex-direction: column;
-    -webkit-text-stroke: 0.2px #000;
 }
 
 .a_section_head,
